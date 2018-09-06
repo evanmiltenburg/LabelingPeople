@@ -1,0 +1,5 @@
+[/EN#103171/people A man] is slightly jumping in [/EN#0/notvisual the air] while holding [/EN#103173/other a tennis racket] .
+[/EN#103171/people A man] wearing [/EN#103174/clothing a white shirt] playing [/EN#103173/other badminton] on [/EN#103172/scene a grass field] .
+[/EN#103171/people A man] in [/EN#103174/clothing a white shirt] is playing [/EN#103175/other tennis] in [/EN#103172/scene a field] .
+[/EN#103171/people A man] with [/EN#103173/other a tennis racket] in [/EN#103172/scene a field] .
+[/EN#103171/people Man] playing [/EN#103176/other badminton] in [/EN#103172/scene a yard]

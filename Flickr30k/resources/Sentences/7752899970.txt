@@ -1,0 +1,5 @@
+[/EN#274502/people A guy] in [/EN#274508/clothing a green shirt] is trying to tag out [/EN#274500/people a man] in [/EN#274509/clothing a red shirt] while playing [/EN#274504/other baseball] .
+[/EN#274500/people An adult baseball player] sliding onto [/EN#274505/other the base] while [/EN#274502/people his opponent] attempts to tag [/EN#0/notvisual him] .
+[/EN#274506/people Two people] playing [/EN#274504/scene an intense game of baseball outdoors] .
+[/EN#274500/people The base runner] attempts to make [/EN#0/notvisual it] safely to [/EN#274507/clothing the bag] .
+[/EN#274500/people A baseball player] [/EN#0/notvisual who] is about to slide into [/EN#274505/other the base] .

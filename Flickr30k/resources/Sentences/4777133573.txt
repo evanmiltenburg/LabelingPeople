@@ -1,0 +1,5 @@
+[/EN#201837/people A male vendor] trying to sell [/EN#201838/other beautiful roses] to [/EN#201839/people a young woman] on [/EN#201842/scene the street] .
+[/EN#201837/people A man] is desperately trying to sell [/EN#201838/other his roses] to [/EN#201841/people pedestrians] .
+[/EN#201837/people A man] holds [/EN#201840/other one rose] in [/EN#201843/bodyparts one hand] and [/EN#201838/other many roses] in [/EN#0/notvisual another] .
+[/EN#201837/people A street vendor] selling [/EN#201838/other red roses] .
+[/EN#201837/people A man] walking while holding [/EN#201838/other roses] .

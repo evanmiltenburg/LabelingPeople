@@ -1,0 +1,5 @@
+[/EN#84024/people Two people] in [/EN#84025/vehicles/scene a subway train] separated by [/EN#84026/scene a seat]
+[/EN#84022/people A boy] and [/EN#84023/people woman] sitting on [/EN#84025/vehicles/scene a passenger train]
+[/EN#84024/people People] sitting on [/EN#84029/scene seats] by [/EN#84030/other orange pole]
+[/EN#84023/people A woman] and [/EN#84022/people a boy] sitting on [/EN#84027/vehicles/scene a bus] .
+[/EN#84024/people Two people] ride [/EN#84025/vehicles/scene the train] .

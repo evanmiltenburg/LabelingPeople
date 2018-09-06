@@ -1,0 +1,5 @@
+[/EN#95637/animals A falcon] pursues [/EN#95640/animals a small rodent] as [/EN#0/notvisual it] flees through [/EN#95641/scene the grass] .
+[/EN#95637/animals A hawk] diving to catch [/EN#95640/animals a small animal] .
+[/EN#95637/animals The hawk] swoops down upon [/EN#95636/animals its prey] .
+[/EN#95637/animals Falcon] closing in on [/EN#95640/animals rodent] .
+[/EN#95637/animals a bird] dives for [/EN#95642/other some food] .

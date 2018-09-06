@@ -1,0 +1,5 @@
+[/EN#172633/people Man] standing in [/EN#0/notvisual the foreground] with [/EN#172635/vehicles taxi] behind with [/EN#172644/other lights] on and [/EN#172642/scene buildings] in [/EN#0/notvisual the background] and [/EN#172643/other light] filtering down from [/EN#172638/other above] .
+[/EN#172632/people A young man] in [/EN#172637/clothing a vest] with [/EN#172636/other a rosary] stands by [/EN#172635/vehicles a taxi] and [/EN#172632/people another young man] with [/EN#172634/clothing a baggy shirt] .
+[/EN#172633/people Men] in [/EN#172634/clothing baggy clothes] hang out on [/EN#172640/scene a sidewalk] while [/EN#172635/vehicles a cab] sits nearby .
+[/EN#172632/people A hispanic man] wearing [/EN#172636/other a rosary] is waiting for [/EN#172635/vehicles a cab] .
+[/EN#172632/people A man] in [/EN#172637/clothing a vest] stands near [/EN#172635/vehicles a taxi cab] .

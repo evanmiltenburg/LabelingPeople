@@ -1,0 +1,5 @@
+[/EN#193268/people A man] wearing [/EN#193272/clothing a gray shirt] and [/EN#193269/clothing backpack] eating [/EN#193270/other an ice cream cone] while [/EN#193271/people a women] in [/EN#193273/clothing an orange shirt] stands next to [/EN#0/notvisual him] .
+[/EN#193268/people a man] and [/EN#193271/people woman] are standing while [/EN#193268/people the man] takes [/EN#193270/other bite of an ice cream cone] .
+[/EN#193268/people A young man] is wearing [/EN#193269/clothing a backpack] and enjoying [/EN#193270/other his ice cream cone] .
+[/EN#193268/people A man] with [/EN#193269/clothing a backpack] is eating [/EN#193270/other an ice cream cone] .
+[/EN#193268/people A male] eating [/EN#193270/other an ice cream cone] .

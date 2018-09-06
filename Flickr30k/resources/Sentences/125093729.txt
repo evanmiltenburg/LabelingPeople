@@ -1,0 +1,5 @@
+[/EN#6321/people A boy] wearing [/EN#6322/clothing a bike helmet] , [/EN#6323/clothing jeans] , and [/EN#6324/clothing a striped shirt] and [/EN#6325/people a girl] wearing [/EN#6326/clothing a green shirt] and [/EN#6327/vehicles jeans ride bikes] with [/EN#6328/other training wheels] down [/EN#6329/scene a sidewalk] .
+[/EN#6321/people One boy] in [/EN#6324/clothing a striped shirt] and [/EN#6325/people one girl] in [/EN#6326/clothing a green shirt] [/EN#6330/other each] riding on [/EN#6327/vehicles bicycles] with [/EN#6328/other training wheels] .
+[/EN#6321/people A little boy] and [/EN#6325/people girl] riding [/EN#6327/vehicles their bikes] down [/EN#6329/scene the sidewalk] with [/EN#6328/other training wheels] on .
+[/EN#6330/people Two young children] , [/EN#6321/people a boy] and [/EN#6325/people a girl] , are riding [/EN#6327/vehicles bicycles] with [/EN#6328/other training wheels] .
+[/EN#6330/people Two young children] ride [/EN#6327/vehicles bicycles] .

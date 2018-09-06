@@ -1,0 +1,5 @@
+[/EN#284546/people A group of people] standing on [/EN#284547/scene a balcony] in [/EN#284550/other a very modern] setting .
+[/EN#284546/people a group of people] standing on [/EN#284549/scene a small balcony of a large building]
+[/EN#284546/people Four people] ride in [/EN#284547/scene an outdoor elevator] .
+[/EN#284546/people A group of people] gather on [/EN#284547/scene a balcony] .
+[/EN#284546/people A group of people] stand on [/EN#284547/scene a balcony] .

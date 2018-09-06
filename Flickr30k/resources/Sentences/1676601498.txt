@@ -1,0 +1,5 @@
+[/EN#18543/people A male] and [/EN#18544/people a female] are leaning against railing looking off with [/EN#18545/scene the ocean] in [/EN#0/notvisual the background]
+[/EN#18546/people two people] leaning over [/EN#18547/other a green railing] with [/EN#18545/scene the ocean] in [/EN#0/notvisual the background]
+[/EN#18543/people A man] and [/EN#18544/people a woman] are looking at [/EN#18551/scene the view] on [/EN#18552/other a stairway] by [/EN#18545/scene the sea] .
+[/EN#18543/people Man] and [/EN#18544/people woman] watching [/EN#18553/other something] near [/EN#18545/other rocky ocean surf] .
+[/EN#18546/people Two people] on [/EN#18549/scene a walkway] over [/EN#18545/scene rushing water] .

@@ -1,0 +1,5 @@
+[/EN#196783/people A man] in [/EN#196789/other a business suite] and [/EN#196787/clothing green tie] walking down [/EN#196785/scene a downtown street] , with [/EN#196788/people a janitor] pushing [/EN#196790/other a trashcan] behind [/EN#0/notvisual him] .
+[/EN#196783/people A middle-aged man] in [/EN#196784/clothing a business suit] is walking along [/EN#196786/scene a city street] and appears agitated .
+[/EN#196783/people A man] in [/EN#196784/clothing a business suit] is walking down [/EN#196785/scene a city sidewalk] .
+[/EN#196783/people A man] in [/EN#196784/clothing a suit] and tie walking .
+[/EN#196783/people A man] in [/EN#196787/clothing a tie] on [/EN#196786/scene a street] .

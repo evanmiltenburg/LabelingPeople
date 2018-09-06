@@ -1,0 +1,5 @@
+[/EN#168700/animals A cat] sits atop [/EN#168701/other a sign] looking down at [/EN#168702/people the people] below .
+[/EN#168700/animals A cat] is sitting atop [/EN#168701/other a sign] on [/EN#168703/scene the side of a building] .
+[/EN#168700/animals A cat] is looking down from on top of [/EN#168701/other a sign] .
+[/EN#168700/animals A cat] sits on top of [/EN#168701/other a store sign] .
+[/EN#168700/animals A cat] sits upon [/EN#168701/other a business sign] .

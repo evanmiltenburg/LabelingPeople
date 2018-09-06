@@ -1,0 +1,5 @@
+[/EN#119521/people A child] sleeping on [/EN#119526/other the concrete] on [/EN#119522/other some sort of blanket] covered with [/EN#119524/clothing coats] .
+[/EN#119521/people A little girl] is sleeping on [/EN#119523/scene a dirty floor] with [/EN#119524/clothing a pink jacket] as [/EN#119522/other a blanket] .
+[/EN#119521/people A homeless child] asleep on [/EN#119523/scene the street] trying to stay warm .
+[/EN#119521/people A little girl] asleep on [/EN#119523/scene the street] next to [/EN#119525/other a change bowl] .
+[/EN#119521/people A young child] sleeps under [/EN#119524/clothing a pink jacket] , on [/EN#0/notvisual the ground] .

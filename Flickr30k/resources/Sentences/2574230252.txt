@@ -1,0 +1,5 @@
+[/EN#59030/animals A greenish dog] runs through [/EN#59031/scene the water] by [/EN#59033/other several large rocks] .
+[/EN#59030/animals A black dog] walking through splashing [/EN#59031/scene water] in [/EN#59032/scene a rocky creek] .
+[/EN#59030/animals A black dog] splashes through [/EN#59031/scene greenish water] .
+[/EN#59030/animals A brown dog] walks through [/EN#59032/scene a shallow stream] .
+[/EN#59030/animals The dog] walks in [/EN#59031/scene the shallow water] .

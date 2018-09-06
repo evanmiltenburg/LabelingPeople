@@ -1,0 +1,5 @@
+[/EN#310/people A caucasian man] wearing [/EN#311/clothing a short-sleeved black shirt] and [/EN#312/people a dark-skinned woman] wearing [/EN#313/clothing a sleeveless dress] are working at [/EN#314/people a conveyor] .
+[/EN#312/people A black woman] and [/EN#310/people a white man] working in [/EN#320/scene a factory] setting [/EN#315/other packing jars] with [/EN#316/other candles] into [/EN#317/other boxes] .
+[/EN#312/people A woman] is sorting [/EN#316/other white tall candles] as [/EN#310/people a man] in [/EN#311/clothing a green shirt] stands behind [/EN#0/notvisual her] .
+[/EN#310/people A warehouse manager] assisting [/EN#312/people an employee] .
+[/EN#318/people Two people] working on [/EN#319/scene an assembly line] .

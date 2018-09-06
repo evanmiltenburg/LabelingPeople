@@ -1,0 +1,5 @@
+[/EN#242694/people A man] in [/EN#242698/clothing a red sweater] and [/EN#242695/clothing blue cap] is painting [/EN#242696/other a picture] .
+[/EN#242694/people A man] in [/EN#242698/clothing a red shirt] with [/EN#242695/clothing a blue cap] painting [/EN#242701/scene a scenery] .
+[/EN#242700/other Elderly gent oil] painting [/EN#242696/other his masterpiece] .
+[/EN#242694/people Gentleman] wearing [/EN#242698/other a red jacket painting] .
+[/EN#242694/people An old man] is painting [/EN#242696/other a picture] .

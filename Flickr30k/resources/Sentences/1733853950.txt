@@ -1,0 +1,5 @@
+[/EN#19644/people Two men] are standing in front of [/EN#19645/scene a concrete building] using [/EN#19650/other the atm] .
+[/EN#19644/people Two people] in [/EN#19646/clothing black jackets] knocking on [/EN#19650/other a door] in [/EN#19649/scene the city] .
+[/EN#19644/people Two men] in [/EN#19646/clothing black coats] stand by [/EN#19645/scene the side of a building] .
+[/EN#19647/people A man] and [/EN#19648/people a woman] are entering [/EN#19645/scene a building] .
+[/EN#19644/people Two men] entering [/EN#19645/scene a building] .

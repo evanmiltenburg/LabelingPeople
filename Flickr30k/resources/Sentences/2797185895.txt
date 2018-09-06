@@ -1,0 +1,5 @@
+[/EN#73447/people Two people] in [/EN#73456/clothing jackets] are rowing [/EN#73446/other a canoe] down [/EN#73448/scene a river] .
+[/EN#73446/vehicles/scene A red boat] is paddled down [/EN#73448/other the rapids] by [/EN#73447/people two people] .
+[/EN#73447/people Two people] rafting down [/EN#73448/scene a river] near [/EN#73452/other pine trees] .
+[/EN#73447/people Two people] row [/EN#73446/vehicles/scene a boat] past [/EN#73454/other rocks] in [/EN#73448/scene water] .
+[/EN#73449/other Two canooers paddle] through [/EN#73455/other some rapids] .

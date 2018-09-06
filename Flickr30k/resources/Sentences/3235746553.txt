@@ -1,0 +1,5 @@
+[/EN#103179/animals A brown dog] begins to run along [/EN#103180/scene a beach] with [/EN#103182/scene a wave] in [/EN#0/notvisual the background] .
+[/EN#103179/animals A dog] is running along [/EN#103180/scene a beach] in front of [/EN#103181/scene the ocean] .
+[/EN#103179/animals A brown dog] is running on [/EN#103180/other sand] next to [/EN#103181/scene the ocean] .
+[/EN#103179/animals A dog] is galloping on [/EN#103180/scene the beach] .
+[/EN#103179/animals A dog] leaps by [/EN#103181/scene the ocean] .

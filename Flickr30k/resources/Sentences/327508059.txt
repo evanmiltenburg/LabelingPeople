@@ -1,0 +1,5 @@
+[/EN#106211/people An elderly lady] in [/EN#106219/clothing a brown hooded coat] takes [/EN#106213/other a newspaper] from [/EN#106210/people a friendly old man] with [/EN#106215/other a stack of papers] [/EN#0/notvisual he] is distributing in [/EN#106217/other a large foyer] .
+[/EN#106210/people A man] is holding [/EN#106212/other a pile of newspapers] in [/EN#106218/scene a lobby] , and [/EN#106211/people a woman] next to [/EN#0/notvisual him] has taken [/EN#106213/other one of the newspapers] and is smiling .
+[/EN#106216/people Two venerable old people] carrying [/EN#106212/other a lot of newspapers] in [/EN#106220/bodyparts their hands] .
+[/EN#106210/people The man] is passing out [/EN#106212/other newspapers] while [/EN#106211/people an elderly woman] watches on .
+[/EN#106210/people An old man] and [/EN#106211/people woman] are holding [/EN#106212/other newspapers] .

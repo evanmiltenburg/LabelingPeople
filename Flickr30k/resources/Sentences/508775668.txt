@@ -1,0 +1,5 @@
+[/EN#228566/people A man] in [/EN#228568/clothing a trench coat] stands on [/EN#228564/scene walkway] close to [/EN#228564/scene a pier] with [/EN#228563/vehicles/scene a boat] [/EN#0/notvisual that] has landed .
+[/EN#228563/vehicles/scene The white boat] on [/EN#228565/scene the water] have stopped .
+[/EN#228567/people Several people] are visiting [/EN#228565/scene a river] .
+[/EN#228563/other A ferry] docking beside [/EN#228564/scene a pier] .
+[/EN#228563/vehicles/scene A boat] docked on [/EN#228565/scene a river] .

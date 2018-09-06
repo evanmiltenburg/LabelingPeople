@@ -1,0 +1,5 @@
+[/EN#51997/people A man] carrying [/EN#51999/other a fishing pole] silhouetted against [/EN#51998/scene a bright blue sky] .
+[/EN#51997/people A person] with [/EN#51999/other a fishing pole] is backlit against [/EN#51998/scene a blue cloudy sky] .
+[/EN#51997/people A person] with [/EN#51999/other a fishing pole] silhouetted in front of [/EN#51998/scene a blue sky] .
+[/EN#51997/people A person] stands on [/EN#52000/scene a hill] surrounded by [/EN#51998/other blue skies] and [/EN#52002/other clouds] .
+[/EN#51997/people A silhouette of a man] with [/EN#51999/other a fishing pole] .

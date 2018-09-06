@@ -1,0 +1,5 @@
+[/EN#201771/people A man] and [/EN#201773/people two young children] are swimming in [/EN#201774/scene a pool] adjacent to [/EN#201777/scene two white water] slides with [/EN#201772/people a lifeguard] watching upon [/EN#0/notvisual them] .
+[/EN#201771/people A man] with [/EN#201773/people two children] wearing [/EN#201778/clothing life vests] are in [/EN#201774/scene a swimming pool] .
+[/EN#201773/people Two children] and [/EN#201771/people their father] are swimming in [/EN#201774/scene a public pool] .
+[/EN#201771/people A father] and [/EN#201773/people two children] in [/EN#201774/scene the pool] at [/EN#201775/scene a water park] .
+[/EN#201772/people A man] watching [/EN#201776/people three people] swim in [/EN#201774/scene a pool] .

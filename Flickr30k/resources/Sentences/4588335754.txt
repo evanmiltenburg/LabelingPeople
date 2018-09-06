@@ -1,0 +1,5 @@
+[/EN#180769/scene A busy kitchen] preparing for [/EN#180772/scene the afternoon rush] .
+[/EN#180770/people Men] wearing [/EN#180773/clothing white] are working in [/EN#180769/scene a kitchen] .
+[/EN#180771/people Cooks] are working in [/EN#180769/scene a kitchen] .
+[/EN#180770/people Five men] working in [/EN#180769/scene a kitchen] .
+[/EN#180770/other Chef 's working] in [/EN#180769/scene a kitchen] .

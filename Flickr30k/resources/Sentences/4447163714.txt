@@ -1,0 +1,5 @@
+[/EN#169152/people Three pedestrians] walk along [/EN#169155/scene a street] at [/EN#169159/scene sunset] past [/EN#169154/other a storefront] [/EN#0/notvisual that] has [/EN#169158/other asian lettering] .
+[/EN#169152/people Three people] walking down [/EN#169155/scene the street] in [/EN#169153/other an Asian community] .
+[/EN#169157/other a red cone] on [/EN#169155/scene the side of a street] .
+[/EN#169152/people people] are walking down [/EN#169156/scene an alley] .
+[/EN#169152/people People] walking down [/EN#169155/scene a street] .

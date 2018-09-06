@@ -1,0 +1,5 @@
+[/EN#168964/people A group of people] ride in [/EN#168965/vehicles a cart vehicle] pulled by [/EN#168963/animals a donkey] in [/EN#168967/scene the midst of dirt land] and [/EN#168972/scene shrubbery] .
+[/EN#168964/people Five people] , [/EN#168968/people a man] and [/EN#168964/people four women] , are being pulled in [/EN#168965/vehicles a cart] by [/EN#168963/animals a mule] on [/EN#168970/scene a sunny day] .
+[/EN#168964/people People] hitch [/EN#168969/other a ride] in [/EN#168965/vehicles a wagon] being towed by [/EN#168963/animals a donkey] on [/EN#168966/scene a dirt road] .
+[/EN#168964/people People] ride in [/EN#168965/vehicles a cart] being pulled by [/EN#168963/animals a donkey] .
+[/EN#168963/animals A donkey] pulls [/EN#168964/other a group of locals] in [/EN#168971/vehicles a wagon] .

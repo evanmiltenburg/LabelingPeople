@@ -1,0 +1,5 @@
+[/EN#26495/animals A brown dog] and [/EN#26497/animals a black dog] are together in [/EN#26498/scene the tall grass] .
+[/EN#26495/animals A brown dog] and [/EN#26497/animals a black dog] are together in [/EN#26498/scene tall grass] .
+[/EN#26496/animals Two dogs] are standing in [/EN#26498/scene a very grassy area] .
+[/EN#26496/animals Two dogs] in [/EN#26498/scene a field] looking at [/EN#0/notvisual each other] .
+[/EN#26499/clothing a brown] and [/EN#26497/animals a black dog] play in [/EN#26498/scene a field]

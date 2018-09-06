@@ -1,0 +1,5 @@
+[/EN#237442/people A little girl] with [/EN#237445/clothing a striped pink scarf] holds on to [/EN#237444/other the arm of a snowman] .
+[/EN#237442/people A little girl] is standing next to [/EN#237443/other a snowman] [/EN#0/notvisual that] is taller than [/EN#0/notvisual her] .
+[/EN#237442/people A little girl] standing next to [/EN#237443/other the snowman] that [/EN#0/notvisual she] built .
+[/EN#237442/people A little girl] holds [/EN#237444/other the branched arm of a snowman] .
+[/EN#237442/people A girl] looking bewildered by [/EN#237443/other her snowman] .

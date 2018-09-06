@@ -1,0 +1,5 @@
+[/EN#247945/people Two little girls] sit in front of [/EN#247950/scene the flower garden] , playing with [/EN#247946/other chalk] .
+[/EN#247945/people Two little girls] are sitting on [/EN#247946/scene pavement] playing [/EN#247951/other a game] with [/EN#247947/other candy] .
+[/EN#247945/people two young girls] sitting on [/EN#247946/scene a sidewalk] coloring on [/EN#0/notvisual it] with [/EN#247946/other chalk]
+[/EN#247945/people Two little girls] play with [/EN#247946/other sidewalk chalk] .
+[/EN#247945/people Two girls] play outside with [/EN#247948/other chalk] .

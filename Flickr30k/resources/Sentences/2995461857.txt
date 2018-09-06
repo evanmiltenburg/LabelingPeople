@@ -1,0 +1,5 @@
+Looking through [/EN#86249/other a vehicle 's windshield] at [/EN#86245/animals a dog] crossing [/EN#86247/scene the road] .
+[/EN#86245/animals A dog] can be seen from [/EN#86250/vehicles the inside of a car] as [/EN#0/notvisual it] crosses [/EN#86247/scene the road] .
+[/EN#0/notvisual There] is [/EN#86245/animals an animal] crossing [/EN#86247/scene the road] in front of [/EN#86246/vehicles a car] .
+[/EN#86245/animals A dog] runs across [/EN#86247/scene the street] in front of [/EN#86246/vehicles the car]
+[/EN#86245/animals An animal] runs in [/EN#86247/scene the middle of a road] .

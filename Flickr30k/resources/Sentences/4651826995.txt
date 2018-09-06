@@ -1,0 +1,5 @@
+[/EN#186897/people A woman] decides to walk across [/EN#186901/scene the grass] instead of using [/EN#186900/scene the sidewalk] to get to [/EN#186899/scene her destination] .
+[/EN#186897/people A woman] is about to step off [/EN#186900/scene a city sidewalk] and onto [/EN#186901/scene mowed grass] .
+[/EN#186897/people One woman] with [/EN#186903/clothing a dark coat] on walking by [/EN#0/notvisual herself] in [/EN#186898/scene a city] .
+[/EN#186897/people Woman] walking behind [/EN#186902/people two mail carrier] drops in [/EN#186901/scene the grass] .
+[/EN#186897/people A woman] walking from [/EN#186900/scene the street] into [/EN#186901/scene the grass] .

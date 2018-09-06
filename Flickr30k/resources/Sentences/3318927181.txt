@@ -1,0 +1,5 @@
+[/EN#109028/people A bald man] with [/EN#109036/clothing glasses] wearing [/EN#109031/clothing a gray long-sleeve sweater] and [/EN#109038/clothing jeans] has [/EN#109033/bodyparts his left hand] up towards [/EN#109032/bodyparts his mouth] .
+[/EN#109028/people A man] with [/EN#109035/bodyparts a shaved head] and [/EN#109029/bodyparts a beard] wearing [/EN#109031/clothing a gray sweater] holding [/EN#109033/bodyparts his hand] in front of [/EN#109037/bodyparts his mouth] .
+[/EN#109028/people A man] in [/EN#109031/clothing a green shirt] is holding [/EN#109034/other a piece of paper] and making [/EN#109030/other a gesture] with [/EN#109033/bodyparts his hand] .
+[/EN#109028/people A bald man] with [/EN#109029/bodyparts a goatee] makes [/EN#109030/other a funny gesture] towards [/EN#109032/bodyparts his face] .
+[/EN#109028/people A bald man] with [/EN#109029/bodyparts a red beard] holds [/EN#109033/bodyparts his hand] near [/EN#109032/bodyparts his mouth] .

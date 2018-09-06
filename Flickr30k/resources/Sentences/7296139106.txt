@@ -1,0 +1,5 @@
+[/EN#268102/people A man] in [/EN#268110/clothing a helmet] and [/EN#268103/other protective gear] driving [/EN#268104/other a go kart] , numbered [/EN#268109/other 65] , on [/EN#268106/scene a narrow paved road] .
+[/EN#268102/people A man] in [/EN#268102/other protective gear] is riding [/EN#268104/vehicles a go-cart] down [/EN#268106/scene a road] .
+[/EN#268102/people A man] dressed in [/EN#268103/clothing a black racing suit] drives [/EN#268104/vehicles a go-cart] .
+[/EN#268102/people A man] in [/EN#268103/clothing black clothes] is riding [/EN#268104/vehicles an ATV] down [/EN#268106/scene a road] .
+[/EN#268102/people A man] enjoying [/EN#268107/other the ride] in [/EN#268104/other his four wheel drive] .

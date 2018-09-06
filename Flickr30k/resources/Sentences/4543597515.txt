@@ -1,0 +1,5 @@
+[/EN#176720/people A man] in [/EN#176722/clothing a jacket] , [/EN#176721/clothing hat] , and [/EN#176725/clothing jeans] is holding [/EN#176723/other a newspaper] as [/EN#0/notvisual he] walks on [/EN#176724/scene the street] .
+[/EN#176720/people A man] in [/EN#176722/clothing a jacket] and [/EN#176725/clothing jeans] is reading [/EN#176723/other a newspaper] while walking down [/EN#176724/scene the street] .
+[/EN#176720/people A man] in [/EN#176725/clothing jeans] , [/EN#176722/clothing a jacket] and [/EN#176721/clothing a hat] is holding [/EN#176723/other an open newspaper] while walking .
+[/EN#176720/people An older man] , looking at [/EN#176723/other a newspaper] while crossing [/EN#176724/scene a street] .
+[/EN#176726/people Two men] walking in [/EN#176724/scene the street] in front of [/EN#176727/scene shops] .

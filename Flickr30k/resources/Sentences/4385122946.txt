@@ -1,0 +1,5 @@
+[/EN#165768/people A shirtless , bearded man] tries to fix [/EN#165769/other his broken bicycle chain] on [/EN#165773/scene a beautiful , sunny day] .
+[/EN#165768/people A man] with [/EN#165770/bodyparts a beard] and [/EN#165771/clothing no shirt] on has [/EN#165772/vehicles his bicycle] upside down and is repairing [/EN#0/notvisual it] .
+[/EN#165768/people A bearded man] wearing [/EN#165771/clothing no t-shirt] fixes [/EN#165772/vehicles his bicycle] .
+[/EN#165768/people A man] with [/EN#165770/bodyparts a beard] wearing [/EN#165771/clothing no shirt] fixes [/EN#165772/vehicles a bike] .
+[/EN#165768/people A shirtless man] is working on [/EN#165772/vehicles a bicycle] .

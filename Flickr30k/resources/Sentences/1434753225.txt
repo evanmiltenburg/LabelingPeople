@@ -1,0 +1,5 @@
+In [/EN#12906/scene a room] with [/EN#12905/clothing clothes] strewn on [/EN#12901/other the bed] , [/EN#12900/people a man] appears to be falling onto [/EN#12901/other the bed] from [/EN#0/notvisual a high distance] .
+[/EN#12900/people A man] suspended in [/EN#0/notvisual the air] is about to fall onto [/EN#12905/scene a pile of laundry] on [/EN#12901/other his bed] .
+[/EN#12900/people A man] in [/EN#12903/clothing a black shirt] and [/EN#12908/clothing jeans] is in [/EN#12902/scene midair] above [/EN#12901/other a messy bed] .
+[/EN#12900/people A man] is falling from [/EN#12909/other the ceiling] on top of [/EN#12901/other a bed] .
+[/EN#12900/people A man] is jumping unto [/EN#12901/other his filthy bed] .

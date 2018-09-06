@@ -1,0 +1,5 @@
+[/EN#39776/animals The brown dog] is walking along [/EN#39782/scene a grassy path] with [/EN#39777/bodyparts its tongue] out .
+[/EN#39776/animals Small brown dog] licks [/EN#39778/bodyparts lips] as [/EN#0/notvisual it] runs across [/EN#39782/scene grass] and [/EN#39779/scene dirt] .
+[/EN#39776/animals A small tan dog] walks down [/EN#39780/scene a dirt path] and licks [/EN#39781/bodyparts his nose] .
+[/EN#39776/animals a little dog] running with [/EN#39777/bodyparts his tongue] hanging out
+[/EN#39776/animals a dog] playing [/EN#39783/other ouside]

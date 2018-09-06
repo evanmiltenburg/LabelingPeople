@@ -1,0 +1,5 @@
+[/EN#283785/people A guy] in [/EN#283792/clothing an olive-green sweater] and [/EN#283793/clothing blue jeans] is playing with [/EN#283790/people a blond-haired toddler] in [/EN#283791/scene a yard] using [/EN#283786/other toy golf clubs] .
+[/EN#283785/people A man] wearing [/EN#283793/clothing blue jeans] and [/EN#283790/people a young boy] wearing [/EN#283794/clothing a brown shirt] are playing in [/EN#283791/scene the backyard] .
+[/EN#283785/people A man] in [/EN#283793/clothing jeans] and [/EN#283792/clothing long-sleeve green sweatshirt] playing [/EN#283789/other golf] with [/EN#283790/people a blond toddler] .
+[/EN#283786/other A man toy field hockey] with [/EN#283790/people a toddler] in [/EN#283791/scene the grass] .
+[/EN#283790/people Toddler] and [/EN#283785/people adult] play with [/EN#283786/other toy hockey sticks]

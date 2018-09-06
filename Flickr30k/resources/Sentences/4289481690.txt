@@ -1,0 +1,5 @@
+[/EN#0/notvisual This] is [/EN#161788/scene a rainy night] in front of [/EN#161784/scene the SWAN Restaurant] as [/EN#161787/people/scene a diner] leaves in [/EN#161785/vehicles his SUV] .
+[/EN#161783/people A person] gets into [/EN#161785/vehicles a car] parked in front of [/EN#161784/scene Swan Restaurant] in [/EN#161790/scene the snow] .
+[/EN#161783/people A person] standing by [/EN#161785/vehicles a car] parked by [/EN#161784/scene Swan Restaurant] on [/EN#161786/scene a rainy night] .
+[/EN#161783/people A man] stands in [/EN#161791/other the rain] outside [/EN#161784/scene Swan restaurant] .
+[/EN#161783/people A person] getting in [/EN#161785/vehicles their car] on [/EN#161786/scene a rainy night] .

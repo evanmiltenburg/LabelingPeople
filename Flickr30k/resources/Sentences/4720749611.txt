@@ -1,0 +1,5 @@
+[/EN#195149/people A woman] with [/EN#195155/clothing a black purse] and [/EN#195152/clothing floral print blouse] talks on [/EN#195150/other her cellphone] outside [/EN#195151/scene a city building] while [/EN#195156/people a man] wearing [/EN#195160/clothing shorts] , [/EN#195152/clothing muscle shirt] and [/EN#195161/clothing sneakers] talks on [/EN#195158/other his cellphone] standing in [/EN#0/notvisual the background] behind [/EN#0/notvisual her] .
+[/EN#195149/people Short dark hair woman] with [/EN#195150/other a black phone] is on [/EN#195162/other the phone] on [/EN#195153/scene the sidewalk] .
+[/EN#195149/people A woman] in [/EN#195152/clothing a floral print blouse] talks on [/EN#195150/other her cellphone] on [/EN#195153/scene the sidewalk] .
+[/EN#195149/people A woman] is standing outside of [/EN#195151/scene a building] talking on [/EN#195150/other her cellphone] .
+[/EN#195154/people Two adults] on [/EN#195157/scene cellphones downtown] .

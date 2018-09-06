@@ -1,0 +1,5 @@
+[/EN#133308/people A group of people] are standing behind [/EN#133309/vehicles a small hatchback vehicle] out in [/EN#133311/scene the country] .
+[/EN#133308/people A crowd of people] stand on [/EN#133310/scene a rural road] , [/EN#133312/scene a field] behind [/EN#0/notvisual them] , [/EN#133313/scene a forest] in [/EN#133314/scene front] .
+[/EN#133308/people A bunch of people] standing next to [/EN#133309/vehicles a car] with [/EN#133315/scene its trunk open] .
+[/EN#133308/people Many people] are standing outside of [/EN#133309/vehicles a car] on [/EN#133311/scene a rural road] .
+[/EN#133308/people A group of people] gather on [/EN#133310/scene a gravel road] near [/EN#133309/vehicles a car] .

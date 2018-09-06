@@ -1,0 +1,5 @@
+[/EN#123782/people A jockey] in [/EN#123785/other blue gallops] [/EN#123783/animals a chestnut horse] on [/EN#123784/scene a dirt] track past [/EN#123789/scene a wooden fence] .
+[/EN#123782/people A jockey] wearing [/EN#123787/clothing a blue jacket] is riding [/EN#123783/animals a dark brown horse] in [/EN#123785/other a gallop] .
+[/EN#123782/people A man] wearing [/EN#123786/clothing blue] rides [/EN#123783/animals a brown horse] along [/EN#123784/scene a gravel path] .
+[/EN#123782/people A jockey] in [/EN#123786/clothing blue] rides [/EN#123783/animals a horse] at [/EN#123785/other a galloping pace] .
+[/EN#123782/people A jockey] racing [/EN#123783/animals a horse] down [/EN#123784/scene a dirt track] .

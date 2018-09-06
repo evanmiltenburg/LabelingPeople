@@ -1,0 +1,5 @@
+[/EN#240135/people A girl] in [/EN#240138/clothing a striped shirt] leads [/EN#240136/animals a brown horse] across [/EN#240137/scene a suburban street] .
+[/EN#240135/people A woman] in [/EN#240138/clothing a striped shirt] is walking [/EN#240136/animals a horse] across [/EN#240137/scene a street] .
+[/EN#240135/people A girl] is walking [/EN#240136/animals a horse] across [/EN#240137/scene a paved suburban street] .
+[/EN#240135/people A girl] is leading [/EN#240136/animals a horse] across [/EN#240137/scene a street] .
+[/EN#240135/people Girl] walking [/EN#240136/animals her horse] across [/EN#240137/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#156658/people A group of people] waiting at [/EN#156659/scene a food stand] , on [/EN#156662/scene a street corner] .
+[/EN#156658/people Some people] are waiting on [/EN#156662/scene a sidewalk] for [/EN#156665/other fresh food] .
+[/EN#156658/people Some people] are waiting in [/EN#156660/other line] for [/EN#156664/people a street vendor] .
+[/EN#156658/people People] is standing up in front of [/EN#156659/scene a pretzel stand] .
+[/EN#156658/people People] are waiting in [/EN#156660/other line] by [/EN#156661/people a food vendor] .

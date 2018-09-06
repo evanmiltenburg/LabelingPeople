@@ -1,0 +1,5 @@
+[/EN#198845/people A man] with [/EN#198849/bodyparts brown hair] walking [/EN#198846/vehicles his bicycle] across [/EN#198847/scene the street] .
+[/EN#198847/scene a street] crossing where [/EN#198845/people a woman] is walking [/EN#198846/vehicles her bike] across
+[/EN#198845/people A woman] is walking [/EN#198846/vehicles a blue bike] across [/EN#198847/scene a road] .
+[/EN#198848/people 6 women] walk across [/EN#198847/scene a city street] .
+[/EN#198845/people A man] walks astride [/EN#198846/vehicles a blue bike] .

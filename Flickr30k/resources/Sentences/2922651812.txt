@@ -1,0 +1,5 @@
+[/EN#81544/people A middle-aged woman] wearing [/EN#81548/clothing a white top] is using [/EN#81545/other her desktop computer] while [/EN#0/notvisual she] has [/EN#81545/other her laptop] open next to [/EN#0/notvisual her] .
+[/EN#81544/people A woman] in [/EN#81547/scene an office] looks at [/EN#81545/other the screens of a desktop computer] and [/EN#81549/other a laptop] .
+[/EN#81544/people A woman] is working on [/EN#81545/other a desktop computer] with [/EN#81545/other a laptop] nearby .
+[/EN#81544/people One woman] browsing [/EN#81545/other the internet] in [/EN#81546/scene the comfort of her home] .
+[/EN#81544/people Woman] working on [/EN#81545/other a PC] in [/EN#81548/clothing her bathrobe] .

@@ -1,0 +1,5 @@
+[/EN#102959/people A young women] in [/EN#102961/clothing a green shirt] and [/EN#102966/clothing blue shorts] is walking past [/EN#102954/people a man] with [/EN#102962/other a grocery card] full of [/EN#102967/clothing clothes] .
+[/EN#102954/people A homeless man] in [/EN#102964/clothing a white t-shirt] and [/EN#102965/clothing black pants] on [/EN#102956/scene the sidewalk] .
+[/EN#102954/people A homeless man] stand between [/EN#102957/people two pedestrians] on [/EN#102956/scene a street corner] .
+[/EN#102954/people A man] is by [/EN#102955/vehicles a shopping cart] with [/EN#102957/people people] walking on [/EN#102956/scene the street] .
+[/EN#102954/people A homeless man] is holding [/EN#102960/other a cup] next to [/EN#102955/vehicles his shopping cart] .

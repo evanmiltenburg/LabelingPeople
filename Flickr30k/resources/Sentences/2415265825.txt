@@ -1,0 +1,5 @@
+[/EN#47752/animals A wet black dog] walks on [/EN#47754/other the sand] with [/EN#47753/other a rock wall] behind .
+[/EN#47752/animals Large furry dog] walking in [/EN#47754/other the sand] near [/EN#47753/other large rocks] .
+[/EN#47752/animals A wet black dog] is walking in [/EN#47754/other the sand] .
+[/EN#47752/animals A black dog] walks along [/EN#47755/scene a rocky beach] .
+[/EN#47752/animals A black dog] walking on [/EN#47755/scene the beach] .

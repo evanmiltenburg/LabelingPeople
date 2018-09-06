@@ -1,0 +1,5 @@
+[/EN#38271/people A man] in [/EN#38275/clothing a leather jacket] is kissing [/EN#38273/people a girl] in [/EN#38272/scene a subway station] .
+[/EN#38271/people A darkly lit scene of a man] and [/EN#38273/people woman] kissing .
+[/EN#38271/people A man] and [/EN#38273/people woman] kissing in [/EN#38272/vehicles/scene a dark subway]
+[/EN#38270/people A couple] quietly kisses in [/EN#38274/scene the dark] .
+[/EN#38270/people A couple] kiss in [/EN#38272/scene a subway station] .

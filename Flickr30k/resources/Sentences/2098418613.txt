@@ -1,0 +1,5 @@
+[/EN#28587/animals A brown chow mix dog] is standing in front of [/EN#28588/other a van] with [/EN#28593/other euro plats] in [/EN#28589/scene the middle of a messy yard] .
+[/EN#28587/animals A large brown dog] stands in front of [/EN#28588/other a green van] in [/EN#28589/scene the yard of a house] .
+[/EN#28587/animals A yellow dog] is standing in front of [/EN#28588/vehicles a green car] and next to [/EN#28592/other a toilet] .
+[/EN#28590/clothing A brown] dogs walks near [/EN#28588/other a green van] and [/EN#28592/other some junk] .
+[/EN#28587/animals A brown dog] standing in [/EN#28591/scene a muddy yard] .

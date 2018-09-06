@@ -1,0 +1,5 @@
+[/EN#138196/people A man] with [/EN#138203/bodyparts clown makeup] on is holding [/EN#138197/instruments a guitar] and [/EN#138198/instruments a harmonica] while standing in front of [/EN#138202/other a microphone] .
+[/EN#138196/people A man] with [/EN#138200/people the face paint of a clown] holds [/EN#138197/other a ukulele] and [/EN#138198/instruments harmonica] .
+[/EN#138196/people A man] in [/EN#138204/clothing suit] with [/EN#138200/other face paint] is playing [/EN#138197/instruments a guitar] on [/EN#138201/scene stage] .
+[/EN#138196/people A mime] performing on [/EN#138201/scene stage] holds [/EN#138197/other a ukulele ( mandolin ?] ) .
+[/EN#138196/people A man] with [/EN#138200/other face paint] playing [/EN#138197/instruments a small guitar] .

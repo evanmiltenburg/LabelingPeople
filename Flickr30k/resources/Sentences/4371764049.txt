@@ -1,0 +1,5 @@
+[/EN#165250/people A person] wearing [/EN#165252/clothing a scarf] on [/EN#165253/bodyparts their head] is bent over in [/EN#165251/scene a field] with [/EN#165254/other a wooden rod] in [/EN#165259/bodyparts their hand] .
+[/EN#165250/people An old woman] in [/EN#165252/clothing headdress] tills [/EN#165260/scene the soil of a field] using [/EN#165254/other a hoe] .
+[/EN#165250/people A woman] with [/EN#165252/clothing scarf] on [/EN#165253/bodyparts her head] planting [/EN#165258/other seeds] .
+[/EN#165250/people An old lady] plows [/EN#165251/scene the field] and [/EN#165257/other plants] [/EN#165255/other a seed] .
+[/EN#165250/people A person] working in [/EN#165251/scene a field] .

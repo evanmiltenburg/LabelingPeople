@@ -1,0 +1,5 @@
+[/EN#95003/other a lone four wheeler] wearing [/EN#95005/clothing a helmet] riding along [/EN#95008/scene a dusty path] .
+[/EN#95002/people A person] in [/EN#95005/clothing a helmet] rides [/EN#95003/vehicles a four-wheel vehicle] in [/EN#95012/scene the desert] .
+[/EN#95002/people A man] on [/EN#95003/other a 4-wheeler] is in [/EN#95006/scene midair] in [/EN#95007/scene a dry dusty area] .
+[/EN#95002/people A man] in [/EN#95010/clothing jeans] is riding [/EN#95003/vehicles an ATV] over [/EN#95008/other sand] .
+[/EN#95002/people A person] rides [/EN#95003/vehicles a four-wheeler] in [/EN#0/notvisual the air] .

@@ -1,0 +1,5 @@
+[/EN#77100/people Two hikers] carrying [/EN#77101/clothing backpacks] are standing in front of [/EN#77102/scene a path] patiently looking over at [/EN#77105/other something] and waiting patiently .
+[/EN#0/notvisual There] are [/EN#77100/people two young people] with [/EN#77101/clothing backpacks] on and then are standing next to [/EN#77102/scene a hiking trail] .
+[/EN#77100/people Two hikers] stopping to rest in [/EN#77107/other the shade] on [/EN#77104/scene a bright sunny day] .
+[/EN#77100/people Two men] with [/EN#77101/clothing backpacks] hiking up [/EN#77102/scene a trail] .
+[/EN#77100/people Two hikers] standing at [/EN#77102/bodyparts a trail head] .

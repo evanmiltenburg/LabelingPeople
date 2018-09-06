@@ -1,0 +1,5 @@
+[/EN#1206/people A woman] with [/EN#1208/other flowers] in [/EN#1210/bodyparts her hair] balances [/EN#1207/other a large bowl of assorted fruits] on [/EN#1211/bodyparts her head] .
+[/EN#1206/people A dark woman] carrying [/EN#1207/other a large bowl of pineapples] , [/EN#1212/other bananas] and [/EN#1209/other papayas] on [/EN#1211/bodyparts her head] .
+[/EN#1206/people A woman] with [/EN#1208/other flowers] in [/EN#1210/bodyparts her hair] balances [/EN#1207/other a large bowl of fruit] on [/EN#1211/bodyparts her head] .
+[/EN#1206/people A woman] is carrying [/EN#1207/other a bowl] full of [/EN#1209/other fruit] on [/EN#1211/bodyparts her head] near [/EN#0/notvisual the ocean side] .
+[/EN#1206/people A woman] is balancing [/EN#1207/other a big bowl of fruit] in front of [/EN#1214/scene the ocean] .

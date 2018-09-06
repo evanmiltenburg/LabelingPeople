@@ -1,0 +1,5 @@
+[/EN#213012/people Crowds of people] move through [/EN#213016/scene a busy street] around [/EN#213015/people several food vendors] [/EN#0/notvisual that] sit under [/EN#213018/clothing red and white umbrellas] .
+[/EN#213013/people Overhead view of pedestrians] walking down [/EN#213016/scene street] filled with [/EN#213017/people vendors] and [/EN#213020/vehicles umbrella-ed carts] .
+[/EN#213016/scene A street] is filled with [/EN#213012/people people] and [/EN#213018/clothing two red and white umbrellas] stand out from [/EN#213014/people the crowd] .
+[/EN#213017/people Two vendors] with [/EN#213018/clothing red and white umbrellas] are outside in [/EN#213019/scene the middle of a lot] of [/EN#213012/people people] .
+[/EN#213012/people A large crowd of people] walk around on [/EN#213016/scene a busy street] .

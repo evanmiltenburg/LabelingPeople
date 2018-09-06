@@ -1,0 +1,5 @@
+[/EN#260968/people Construction worker] in [/EN#260969/clothing a white hard hat] working on [/EN#260970/other the steep tile roof of a pagoda style] building
+[/EN#260968/people A man] with [/EN#260969/clothing a white hat] and [/EN#260972/clothing a tool belt] [/EN#0/notvisual who] is working on [/EN#260970/scene the roof] .
+[/EN#260968/people A man] in [/EN#260971/clothing a blue shirt] and [/EN#260969/clothing white helmet] is standing on [/EN#260970/scene the roof] .
+[/EN#260968/people A man] in [/EN#260969/clothing a hard hat] is working on [/EN#260970/scene the roof of a shrine] .
+[/EN#260968/people A man] is working on [/EN#260970/scene the roof of a temple] .

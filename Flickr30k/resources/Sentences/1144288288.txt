@@ -1,0 +1,5 @@
+[/EN#3668/people A woman] wearing [/EN#3669/clothing a white hat] and [/EN#3670/clothing shirt] is jogging down [/EN#3675/scene a street] with [/EN#3671/scene a plant store] on [/EN#3672/scene the corner] .
+[/EN#3668/people A woman] in [/EN#3670/clothing a white shirt] and [/EN#3673/clothing blue shorts] is wearing [/EN#3674/clothing headphones] .
+[/EN#3668/people A man] in [/EN#3673/clothing shorts] is jogging along [/EN#3675/scene a street] with [/EN#3674/clothing a headset] .
+[/EN#3668/people A person] in [/EN#3673/clothing blue shorts] and wearing [/EN#3676/other a Walkman] jogs .
+[/EN#3668/people A woman] walks on [/EN#3675/scene a street] wearing [/EN#3674/clothing headphones] .

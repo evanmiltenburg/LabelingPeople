@@ -1,0 +1,5 @@
+[/EN#24168/scene A street scene] featuring [/EN#24171/vehicles oncoming traffic] , including [/EN#24172/vehicles cars] and [/EN#24169/vehicles motorbikes] .
+[/EN#24167/people A man] on [/EN#24170/other a blue motorcycle] is waiting in [/EN#24172/vehicles traffic] on [/EN#24168/scene a busy city street] .
+[/EN#24167/people A man] is riding [/EN#24169/vehicles the bike] without wearing [/EN#24173/clothing his helmet] .
+[/EN#24167/people A man] on [/EN#24169/vehicles a blue bike] waiting in [/EN#24171/vehicles a line of traffic] .
+[/EN#24167/people A man] is riding [/EN#24170/other a motorcycle] in [/EN#24171/vehicles traffic] .

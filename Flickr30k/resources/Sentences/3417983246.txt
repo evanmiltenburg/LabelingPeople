@@ -1,0 +1,5 @@
+[/EN#116717/vehicles/scene A bus] is standing on [/EN#116725/scene the road] while [/EN#116727/people one man] is driving [/EN#116722/vehicles a bicycle] and [/EN#116718/people second man] is walking on [/EN#116726/scene the road] .
+[/EN#116718/people A man] on [/EN#116722/vehicles a bike] and [/EN#116718/people a man] is walking in front of [/EN#116717/vehicles/scene a bus] with [/EN#116721/other a ' Sex] And [/EN#116719/scene The City] [/EN#116723/other ' ad] .
+[/EN#116720/people 2 men] in front of [/EN#116717/vehicles/scene a bus] with [/EN#116723/other a sign] for [/EN#116721/other sex] and [/EN#116719/scene the city] .
+[/EN#116718/people A man] with [/EN#116728/clothing a blue bag] is exiting [/EN#116717/vehicles/scene a city bus] .
+[/EN#116720/people Two men] are getting off [/EN#116717/vehicles/scene the bus] .

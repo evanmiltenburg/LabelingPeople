@@ -1,0 +1,5 @@
+[/EN#112233/people A skier] races down [/EN#112234/scene a mountain] in [/EN#112235/clothing an orange jacket] .
+[/EN#112233/people A skier] in [/EN#112235/clothing a red coat] going down [/EN#112234/scene a hill] .
+[/EN#112233/people a lone skier] skiing through [/EN#112234/scene the snow] .
+[/EN#112233/people A man] in [/EN#112235/clothing a red jacket] is skiing .
+[/EN#112233/people A man] skiing wearing [/EN#112236/clothing goggles] .

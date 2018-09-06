@@ -1,0 +1,5 @@
+[/EN#251255/people A little girl] sits on [/EN#251256/vehicles the bottom of a grocery cart] holding [/EN#251259/other a bag of potatoes] and wearing [/EN#251258/clothing a winter hat] with [/EN#251262/clothing tassels] .
+[/EN#251255/people A girl] with [/EN#251261/clothing blue shorts] , [/EN#251260/clothing a black top] , and [/EN#251258/clothing a purple hat] sits in [/EN#251256/vehicles the bottom of a shopping cart] in [/EN#251257/scene a grocery store] .
+[/EN#251255/people Little girl] wearing [/EN#251258/clothing a purple hat] sitting under [/EN#251256/vehicles a shopping cart] in [/EN#251257/scene a grocery store] .
+[/EN#251255/people A young girl] is sitting in [/EN#251256/vehicles the bottom of a grocery cart] inside [/EN#251257/scene a grocery store] .
+[/EN#251255/people A little girl] in [/EN#251258/clothing a hat] sits under [/EN#251256/vehicles a grocery cart] .

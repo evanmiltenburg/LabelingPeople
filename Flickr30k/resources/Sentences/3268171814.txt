@@ -1,0 +1,5 @@
+[/EN#105699/people A group of people] sit on [/EN#105702/scene a roof] near [/EN#105705/other a satellite dish] while [/EN#105701/animals a young animal] drinks from [/EN#105704/other a bowl] .
+[/EN#105699/people Group of people] sitting on [/EN#105706/other some chairs] on [/EN#105702/scene their rooftop] with [/EN#105701/animals a goat] .
+[/EN#105699/people Some people] and [/EN#105701/animals a goat] are on [/EN#105702/scene a rooftop] in [/EN#105700/scene a middle eastern city] .
+[/EN#105699/people Several people] are sitting on [/EN#105702/scene a roof] in [/EN#105700/scene a Middle Eastern city] .
+[/EN#105699/people A family] sits on [/EN#105702/scene a rooftop] watching [/EN#105703/other TV] .

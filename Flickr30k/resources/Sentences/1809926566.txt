@@ -1,0 +1,5 @@
+[/EN#21158/people A group of young girls] on sitting on [/EN#21159/scene the wooden floor] in [/EN#21159/scene a large room] .
+[/EN#21158/people Several young girls] are sitting on [/EN#0/notvisual the ground] in [/EN#21159/scene a dance studio]
+[/EN#21158/people a group of children] sitting on [/EN#21159/scene the floor] at [/EN#21161/people a dance class] .
+[/EN#21158/people A group of girls] is sitting in [/EN#21159/scene the dance studio] .
+[/EN#21158/people A group of young girls] in [/EN#21159/scene a dance studio] .

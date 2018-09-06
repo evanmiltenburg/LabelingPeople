@@ -1,0 +1,5 @@
+[/EN#177846/people Person] is carrying [/EN#177849/other a large plank] near [/EN#177848/scene a body of water] while [/EN#177847/other the sun] is low in [/EN#177851/scene the sky] .
+[/EN#0/notvisual This] is [/EN#177851/scene beautiful evening] with [/EN#177848/scene the river] and [/EN#177847/other the setting sun] .
+[/EN#177846/people A man] holds [/EN#177849/other a long object] against [/EN#177850/scene an orange-red sky] .
+[/EN#177846/people A person] lifts [/EN#177849/other a long board] in [/EN#177850/scene the sunset] .
+[/EN#177847/other The sun] sets behind [/EN#177852/vehicles/scene a boat] .

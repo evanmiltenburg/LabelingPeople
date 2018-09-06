@@ -1,0 +1,5 @@
+[/EN#61066/animals Two brown and white dogs] , [/EN#61067/other one] jumping over [/EN#61068/other a log] while [/EN#61069/other the one] behind [/EN#61074/other runs] through [/EN#61070/scene the grass] .
+[/EN#61067/animals A brown and white dog] is leaping over [/EN#61068/other a log] in [/EN#61070/scene a field] while [/EN#61072/animals another dog] follows behind [/EN#0/notvisual it] .
+[/EN#61067/animals A harnessed dog] leaps over [/EN#61068/other a log] as [/EN#61072/animals another dog] follows [/EN#61076/other behind] .
+[/EN#61066/animals Two dogs] are running through [/EN#61070/scene a field] filled with [/EN#61068/other logs] .
+[/EN#61066/animals Two dogs] in [/EN#61073/clothing harnesses] running in [/EN#61070/scene tall grass] .

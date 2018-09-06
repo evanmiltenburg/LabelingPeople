@@ -1,0 +1,5 @@
+[/EN#125680/animals A closeup of a dog] with [/EN#125682/bodyparts a white chest] licking [/EN#125684/bodyparts its nose] .
+[/EN#125681/animals A dog] is licking [/EN#125683/bodyparts its nose] in [/EN#125687/scene the grass] .
+[/EN#125681/animals A closeup of a dog] licking [/EN#125684/bodyparts his nose] .
+[/EN#125680/clothing A brown] dogs licks [/EN#125684/bodyparts its black nose] .
+[/EN#0/notvisual There] is [/EN#125685/animals a dog] licking [/EN#125686/other its chops] .

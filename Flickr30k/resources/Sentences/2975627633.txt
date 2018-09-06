@@ -1,0 +1,5 @@
+[/EN#85032/people A man] in [/EN#85033/clothing a red hat] and [/EN#85034/people a woman] in [/EN#85035/clothing black] sitting in [/EN#85036/other plastic chairs] on [/EN#85037/scene grass] .
+[/EN#85038/people A couple] sitting in [/EN#85036/other white lawn chairs] are smiling at [/EN#0/notvisual the camera] .
+[/EN#85038/people Two people] smile while sitting on [/EN#85036/other chairs] in [/EN#85040/scene a yard] .
+[/EN#85038/people Couple] sitting in [/EN#85036/other the chairs] in [/EN#85040/scene a backyard] .
+[/EN#85034/people A woman] is hugging [/EN#85039/bodyparts/people a man 's arm] .

@@ -1,0 +1,5 @@
+[/EN#59803/people A man] dressed in [/EN#59807/clothing a gray shirt] , [/EN#59808/clothing striped running pants] and [/EN#59809/clothing tennis shoes] is sleeping on [/EN#59804/other a bench]
+[/EN#59803/people A man] laying on [/EN#59804/bodyparts a seat face] down , possibly sleeping .
+[/EN#59803/people a person] laying [/EN#59806/bodyparts face] down on [/EN#59804/scene a bench seat] .
+[/EN#59803/people A man] is sleeping on [/EN#59804/scene a subway seat] .
+[/EN#59803/people A man] is asleep on [/EN#59804/scene a seat] .

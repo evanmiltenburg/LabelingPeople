@@ -1,0 +1,5 @@
+[/EN#91259/animals A black and white dog] swims and plays with [/EN#91261/other tennis balls] in [/EN#91260/scene the pool] .
+[/EN#91259/animals A black and white dog] jumps in [/EN#91260/scene a pool] filled with [/EN#91261/other tennis balls] .
+[/EN#0/notvisual There] is [/EN#91259/animals a black and white dog] in [/EN#91260/scene a sparking blue pool] .
+[/EN#91259/animals A black and white dog] swims for [/EN#91261/other tennis balls] .
+[/EN#91259/animals A black and white dog] swimming in [/EN#91260/scene the pool]

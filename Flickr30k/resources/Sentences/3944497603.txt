@@ -1,0 +1,5 @@
+[/EN#149049/people A person] in [/EN#149053/clothing an orange coat] with [/EN#149054/other a hood] lays on top of [/EN#149050/scene the entrance corridor] to [/EN#149055/people the metro] .
+[/EN#149049/people A person] in [/EN#149053/clothing an orange jumpsuit] is laying over [/EN#149050/other a metro station] .
+[/EN#149049/people A person] in [/EN#149053/clothing orange clothing] rests above [/EN#149050/scene a metro entrance] .
+[/EN#149049/people person] in [/EN#149053/clothing orange clothing] lying on [/EN#149050/other a wall]
+[/EN#149049/people Bus worker] sleeping on [/EN#149056/other building ledge] .

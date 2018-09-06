@@ -1,0 +1,5 @@
+[/EN#146960/people A white man] wearing [/EN#146961/clothing a ball cap] and [/EN#146967/clothing backpack] is riding [/EN#146962/vehicles a bicycle] while flipping [/EN#0/notvisual the camera] [/EN#146963/other an obscene gesture] .
+[/EN#146960/people A man] wearing [/EN#146966/clothing a white shirt] and [/EN#146961/clothing a hat] , riding [/EN#146962/vehicles his bike] , makes [/EN#146963/other an obscene gesture] to [/EN#146969/people the photographer]
+[/EN#146960/people A man] riding [/EN#146962/vehicles a bicycle] down [/EN#146964/scene the street] is flipping [/EN#146968/people someone] off .
+[/EN#146960/people A man] riding on [/EN#146962/vehicles a bike] down [/EN#146964/scene the street] while flipping [/EN#146970/animals the bird] .
+[/EN#146960/people A man] is riding [/EN#146962/vehicles a bicycle] through [/EN#146965/scene a city] .

@@ -1,0 +1,5 @@
+[/EN#58086/people A young girl] with [/EN#58090/other a tennis racket] in [/EN#58087/scene a parking lot] with [/EN#58091/people several other people] in [/EN#0/notvisual the background] .
+[/EN#58086/people A little girl] wearing [/EN#58093/clothing glasses] and [/EN#58094/clothing a black shirt] over [/EN#58095/clothing a pink skirt] is holding [/EN#58088/other a racket] .
+[/EN#58086/people A girl] in [/EN#58087/scene a parking lot] holds out [/EN#58088/other her tennis racket] .
+[/EN#58086/people A girl] is practicing [/EN#58089/other her serve] in [/EN#58087/scene the parking lot] .
+[/EN#58086/people A young girl] playing [/EN#58092/other tennis] in [/EN#58087/scene a parking lot] .

@@ -1,0 +1,5 @@
+[/EN#8084/people A man] in [/EN#8086/clothing a white shirt] and [/EN#8093/clothing black pants] looks on as [/EN#8088/people other people] are seated at [/EN#8095/other tables] beneath [/EN#8087/clothing green umbrellas] .
+[/EN#8084/people A man] is walking by [/EN#8091/other a large outdoor planter] and [/EN#8090/other about] to enter [/EN#8085/scene an outdoor seating area] for [/EN#8092/scene a restaurant] .
+[/EN#0/notvisual The camera] catches [/EN#8094/other some movement] as [/EN#8084/people a man] walks in front of [/EN#8096/scene the Alpha Dental Group building] .
+[/EN#8089/other An outdoor cafe] with [/EN#8088/people people] sitting while [/EN#8084/people a man] in [/EN#8086/clothing white shirt] is walking toward [/EN#0/notvisual them] .
+[/EN#8084/people A man] walks by [/EN#8085/scene an outdoor eating area] [/EN#0/notvisual that] has [/EN#8087/clothing several green umbrellas]

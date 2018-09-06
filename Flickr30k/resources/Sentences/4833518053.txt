@@ -1,0 +1,5 @@
+While [/EN#208821/other others] gather in [/EN#208819/scene areas] , [/EN#208815/people a man] in [/EN#208822/clothing a brown shirt] sits with reading [/EN#208816/other material] in [/EN#208823/bodyparts hand] .
+[/EN#208824/animals Pigeons] watch [/EN#208815/people a man] read [/EN#208816/other a book] in [/EN#208818/scene the middle of a sidewalk] .
+[/EN#208815/people A person] is sitting on [/EN#0/notvisual the ground] reading [/EN#208816/other a book] .
+[/EN#208815/people A man] sitting down on [/EN#208820/other concrete] reading [/EN#208816/other a book] .
+[/EN#208815/people A man] reading [/EN#208816/other a book] on [/EN#208818/scene pavement] .

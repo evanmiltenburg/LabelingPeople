@@ -1,0 +1,5 @@
+[/EN#254396/people A man] is kneeling to hit [/EN#254397/other a cricket ball] on [/EN#254398/scene a green cricket field] , with [/EN#254401/scene a white picket fence] in [/EN#0/notvisual the background] .
+[/EN#254396/people A man] , in [/EN#254399/other mid-swing] , playing [/EN#254402/other cricket] wearing [/EN#254403/clothing a complete cricket uniform] at [/EN#254400/other a sports club] .
+[/EN#254396/people Guy] hitting [/EN#254397/other a baseball] in [/EN#254398/scene a field of grass outside] .
+[/EN#254396/people A cricket player] follows through on [/EN#254399/other his swing] .
+[/EN#254396/people An athlete] kneeling down after hitting [/EN#254397/other a ball] .

@@ -1,0 +1,5 @@
+[/EN#15747/people A man] and [/EN#15749/people old woman] with [/EN#15750/other a walking stick] climbing [/EN#15748/bodyparts/people a sand dune arm] in [/EN#15752/bodyparts/people arm] .
+[/EN#15746/people A couple] holding on [/EN#0/notvisual each other] climbing [/EN#15748/other a sand dune] .
+[/EN#15747/people A man] and [/EN#15749/people women] are walking up [/EN#15748/other a sand dune] .
+[/EN#15746/people Two people] are walking through [/EN#15748/scene the desert] .
+[/EN#15746/people An old couple] is walking up [/EN#15748/other a sand mound] .

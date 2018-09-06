@@ -1,0 +1,5 @@
+[/EN#139782/animals A small brown and white dog] is playing with [/EN#139784/other the sprinkler] in [/EN#139785/scene the grass] .
+[/EN#139782/animals The white dog] is being squirted in [/EN#139786/bodyparts the face] with [/EN#139783/scene a jet of water] .
+[/EN#139782/animals The little black and white dog] is running in [/EN#139784/other the sprinkler] .
+[/EN#139782/animals A small terrier] plays in [/EN#139784/other a sprinkler] .
+[/EN#139782/animals a dog] drinks [/EN#139783/scene the sprinkler water] .

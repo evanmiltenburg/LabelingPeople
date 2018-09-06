@@ -1,0 +1,5 @@
+[/EN#25567/people A crowd of people] are standing on [/EN#25571/scene the side of the street] while [/EN#25568/people a man] in [/EN#25576/clothing a blue hat] is talking to [/EN#25570/people a taxi driver] .
+[/EN#25567/people a group of people] standing on [/EN#25571/scene the side of the road] with [/EN#25573/vehicles/scene an orange bus] next to [/EN#0/notvisual them] .
+[/EN#25568/people Man] trying to talk to [/EN#25570/vehicles the driver of truck] through [/EN#25574/other the passenger window] .
+[/EN#25568/people A man] talks to [/EN#25570/people a bus driver] in [/EN#25572/scene Ho Chi Minh City] , [/EN#25569/other Vietnam] .
+[/EN#25567/people Riders] wait to board [/EN#25573/other a transportation van] in [/EN#25569/other Vietnam] .

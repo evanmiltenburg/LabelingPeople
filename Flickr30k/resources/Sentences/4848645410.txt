@@ -1,0 +1,5 @@
+[/EN#210303/people A man] in [/EN#210306/clothing a white shirt] and [/EN#210307/clothing blue shorts] takes [/EN#210309/other a picture] in [/EN#210305/scene the street] .
+[/EN#210303/people The man] wearing [/EN#210306/clothing a white shirt] stopped to take [/EN#210310/other a picture] .
+[/EN#210303/people A young man] in [/EN#210307/clothing shorts] with [/EN#210308/clothing a backpack] taking [/EN#210304/other a picture] .
+[/EN#210303/people A man] is standing on [/EN#210305/scene the streets] taking [/EN#210304/other photographs] .
+[/EN#210303/people A guy] wearing [/EN#210306/clothing a white shirt] is taking [/EN#210304/other a picture] .

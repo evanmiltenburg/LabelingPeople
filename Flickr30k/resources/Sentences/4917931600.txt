@@ -1,0 +1,5 @@
+[/EN#218206/people A man] in [/EN#218207/clothing a blue jumpsuit] and [/EN#218208/clothing a brown hat] wearing [/EN#218212/clothing a black tie] , [/EN#218213/clothing boots] and [/EN#218211/clothing goggles] sits with [/EN#218216/bodyparts his legs] crossed in [/EN#218210/scene the street] .
+[/EN#218206/people A man] dressed in [/EN#218207/clothing a dark blue jacket] and [/EN#218214/clothing pants] sits in [/EN#218210/scene the street] while wearing [/EN#218211/clothing old time flying goggles] and [/EN#218208/clothing a hat] .
+[/EN#218206/people A man] in [/EN#218211/clothing goggles] and [/EN#218208/clothing a hat] is sitting in [/EN#218210/scene the street] holding [/EN#218209/other something] and wearing [/EN#218215/clothing white gloves] .
+[/EN#218206/people A man] wearing [/EN#218208/clothing an aviation cap] and [/EN#218211/clothing goggles] sits in [/EN#218210/scene the road] .
+[/EN#218206/people Male] with [/EN#218211/clothing goggles] sitting on [/EN#218210/scene the floor] with [/EN#218209/other a pamphlet] .

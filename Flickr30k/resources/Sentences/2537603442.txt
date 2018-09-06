@@ -1,0 +1,5 @@
+[/EN#56347/people someone] waring [/EN#56349/clothing a orange safety vest] standing on [/EN#56350/scene a railroad bridge] .
+[/EN#56347/people Someone] wearing [/EN#56349/clothing an orange coat] doing [/EN#56351/other something] on [/EN#56350/scene a railroad track]
+[/EN#56347/people A man] in [/EN#56349/clothing an orange vest] leans over [/EN#56350/scene the rails of a railroad track] .
+[/EN#56347/people A man] looking at [/EN#56350/scene a set of train tracks] on [/EN#56348/scene a bridge] .
+[/EN#56347/people A person] crossing [/EN#56348/scene a bridge] with [/EN#56350/scene train tracks] .

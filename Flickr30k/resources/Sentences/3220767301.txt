@@ -1,0 +1,5 @@
+[/EN#102192/people A person] wearing [/EN#102200/clothing a gray sweatshirt] and [/EN#102201/clothing tennis shoes] is sitting on [/EN#102198/other something] .
+[/EN#102192/people A girl] on [/EN#102199/other the end of a seesaw] , with [/EN#102194/bodyparts her hair] blowing [/EN#102196/people all] over [/EN#102197/bodyparts her face] .
+[/EN#102192/people A girl] with [/EN#102194/bodyparts long hair] is riding [/EN#102193/other a teeter totter] .
+[/EN#102192/people girl] on [/EN#102193/other a teeter totter] playing violently
+[/EN#102192/people A woman] riding on [/EN#102193/other a children 's toy] .

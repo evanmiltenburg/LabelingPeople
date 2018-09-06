@@ -1,0 +1,5 @@
+[/EN#4445/animals A big brown dog] plays with [/EN#4446/animals a smaller gray dog] on [/EN#4447/scene the grass] .
+[/EN#4446/animals The dark brown dog] is playing with [/EN#4445/animals the light brown dog] .
+[/EN#4448/animals Two dogs] running and playing [/EN#4449/other rough] in [/EN#4447/scene the grass] .
+[/EN#4448/animals Two brown dogs] are running through [/EN#4447/scene the grass] .
+[/EN#4448/animals Two brown dogs] run [/EN#0/notvisual side] by [/EN#0/notvisual side] .

@@ -1,0 +1,5 @@
+[/EN#108960/animals A black dog] wearing [/EN#108964/clothing a red collar] is running through [/EN#108962/scene snow] next to [/EN#108961/scene a wooden fence] .
+[/EN#108960/animals A black dog] running away from [/EN#108961/scene a wooden fence] with [/EN#108962/scene snow] on [/EN#0/notvisual the ground] .
+[/EN#108960/animals A black dog] circumvents [/EN#108961/scene a wooden fence] in [/EN#108963/scene a snowy yard] .
+[/EN#108960/animals A black dog] leaps through [/EN#108962/scene the snow] near [/EN#108961/scene a fence] .
+[/EN#108960/animals A black dog] running through [/EN#108962/scene the snow] .

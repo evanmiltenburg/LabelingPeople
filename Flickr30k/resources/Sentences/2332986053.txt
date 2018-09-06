@@ -1,0 +1,5 @@
+[/EN#42239/people A man] in [/EN#42241/clothing an orange shirt] and [/EN#42240/clothing a blue hard hat] smiles .
+[/EN#42239/people A man] wearing [/EN#42240/clothing a helmet] and [/EN#42242/clothing sunglasses] smiles .
+[/EN#42239/people A man] with [/EN#42240/clothing a blue helmet] and [/EN#42241/clothing orange shirt] .
+[/EN#42239/people A man] wearing [/EN#42241/clothing an orange shirt] and [/EN#42240/clothing helmet] .
+[/EN#42239/people A man] smiling with [/EN#42240/clothing a helmet] on [/EN#42243/bodyparts his head] .

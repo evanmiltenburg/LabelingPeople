@@ -1,0 +1,5 @@
+[/EN#23508/scene A street] blocked off and guarded with [/EN#23511/people one man] in [/EN#23512/clothing a striped shirt] standing in [/EN#23508/scene the cleared road] .
+[/EN#23508/scene A road] is blocked and [/EN#23509/people police] are lined up around [/EN#0/notvisual it] .
+[/EN#23508/scene A street] is barricaded by [/EN#23509/people several police] .
+[/EN#23510/scene A city block] is sealed off by [/EN#23509/people the police] .
+[/EN#23513/other Security] lining [/EN#23508/scene a street] .

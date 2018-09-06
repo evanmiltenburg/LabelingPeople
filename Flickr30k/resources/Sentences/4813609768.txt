@@ -1,0 +1,5 @@
+[/EN#205911/people An elderly woman] in [/EN#205912/clothing a blue shirt] speaks with [/EN#205913/people a male] with [/EN#205915/bodyparts her hands] on [/EN#205918/bodyparts her hips] .
+[/EN#205911/people A elderly woman] [/EN#205912/clothing a blue shirt] is listening to [/EN#205913/people someone] talking to [/EN#0/notvisual her] .
+[/EN#205911/people A woman] in [/EN#205912/clothing a blue striped shirt] is talking to [/EN#205913/people someone] on [/EN#205914/scene the street] .
+[/EN#205911/people A woman] in [/EN#205912/clothing a blue shirt] stands with [/EN#205915/bodyparts her hands] on [/EN#205917/bodyparts her hips] .
+[/EN#205916/people Two older people] have [/EN#205919/other a discussion] on [/EN#205914/scene a street] .

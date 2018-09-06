@@ -1,0 +1,5 @@
+[/EN#249241/people A local swimmer] is wearing [/EN#249242/clothing a swim cap] and [/EN#249244/clothing swim goggles] while swimming in [/EN#249243/scene a lake] .
+[/EN#249241/people A swim cap-clad man] emerges from [/EN#249243/scene the water] , taking [/EN#249246/other a deep breath] .
+[/EN#249241/people A man] wearing [/EN#249242/clothing a bathing cap] and [/EN#249244/clothing goggles] is swimming in [/EN#249243/scene a river] .
+[/EN#249241/people A swimmer] wearing [/EN#249242/clothing a cap] and [/EN#249244/clothing goggles] swimming in [/EN#249243/scene a lake] .
+[/EN#249241/people Male swimmer] doing [/EN#249245/other the butterfly stroke] in [/EN#249243/scene a lake] .

@@ -1,0 +1,5 @@
+[/EN#67443/people A man] with [/EN#67447/clothing a red shirt] and [/EN#67449/clothing yellow gloves] is holding [/EN#67444/other a branch] with [/EN#67451/other leaves] to [/EN#67446/scene the walkway] .
+[/EN#67443/people A young man] in [/EN#67448/clothing jeans] and [/EN#67447/clothing a red shirt] , wearing [/EN#67449/clothing yellow gloves] , holds [/EN#67445/other a tree branch] .
+[/EN#67443/people A young black man] wearing [/EN#67447/clothing a red shirt] and [/EN#67448/clothing jeans] is holding [/EN#67445/other a bunch of weeds] .
+[/EN#67443/people A boy] wearing [/EN#67449/clothing yellow gloves] and [/EN#67447/clothing a red shirt] is holding [/EN#67444/other a branch] on [/EN#67446/scene a path] .
+[/EN#67443/people A man] in [/EN#67447/clothing a red shirt] wearing [/EN#67449/clothing yellow gloves] pulls [/EN#67445/other brush] in [/EN#67450/scene a field] .

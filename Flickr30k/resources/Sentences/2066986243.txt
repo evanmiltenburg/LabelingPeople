@@ -1,0 +1,5 @@
+[/EN#26713/people A man] in [/EN#26718/clothing a white jacket] is checking [/EN#26715/people the blood pressure of a lady] .
+[/EN#26713/people A male doctor] takes [/EN#26716/people measure of a woman] [/EN#26715/other 's blood pressure] .
+[/EN#26713/people A doctor] taking [/EN#26714/other blood pressure] to [/EN#26716/people the patient] .
+[/EN#26713/people A doctor] is taking [/EN#26714/other a woman 's blood pressure] .
+[/EN#26713/people a doctor] taking [/EN#26714/other a patients blood pressure] .

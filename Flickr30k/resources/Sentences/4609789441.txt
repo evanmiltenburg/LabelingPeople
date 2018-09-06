@@ -1,0 +1,5 @@
+[/EN#182349/people A young boy] with [/EN#182353/clothing a black shirt] and [/EN#182354/clothing jeans] riding [/EN#182351/vehicles a bike] on [/EN#182355/scene a large bike ramp] .
+[/EN#182349/people Man] on [/EN#182351/vehicles a bike] doing [/EN#0/notvisual a trick] at [/EN#182352/scene a bike park] wearing [/EN#182354/clothing jeans] and [/EN#182353/clothing black t-shirt] .
+[/EN#182349/people A teen boy] , with [/EN#182353/clothing a black shirt] , and [/EN#182354/clothing blue jeans] , performs [/EN#0/notvisual a BMX trick] .
+[/EN#182349/people A blond boy] is doing [/EN#0/notvisual tricks] on [/EN#182351/vehicles his bicycle] .
+[/EN#182349/people A boy] rides [/EN#182351/vehicles his bike] in [/EN#182352/scene a skate park] .

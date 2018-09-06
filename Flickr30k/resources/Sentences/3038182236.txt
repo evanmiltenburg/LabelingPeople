@@ -1,0 +1,5 @@
+[/EN#89289/other A restaurant or cafe] contains [/EN#89294/people an elderly couple] conversing and [/EN#89290/people a woman] working on [/EN#89292/other a MacBook] .
+[/EN#89291/people/scene Diners] are sitting at [/EN#89295/other tables] in [/EN#89293/scene a restaurant] .
+[/EN#89290/people A woman] is using [/EN#89292/other a laptop] in [/EN#89293/scene a restaurant] .
+[/EN#89291/people People] are sitting at [/EN#89289/other an internet cafe] .
+[/EN#89290/people Girl] working on [/EN#89292/other laptop] in [/EN#89293/scene a coffee shop]

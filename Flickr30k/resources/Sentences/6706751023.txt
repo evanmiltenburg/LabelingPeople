@@ -1,0 +1,5 @@
+[/EN#257085/people a basketball player] in [/EN#257091/clothing a white uniform] is dribbling [/EN#257088/other the basketball] against [/EN#257085/people a player] in [/EN#257090/clothing a black uniform] .
+[/EN#257085/people A girl] in [/EN#257091/clothing a white basketball uniform] is dribbling [/EN#257089/other a basketball] past [/EN#257085/people a girl] in [/EN#257090/clothing a black uniform] .
+[/EN#257085/people A girl basketball player] is dribbling [/EN#257089/other a basketball] past [/EN#257085/people another player] .
+[/EN#257086/people Two women] competing in [/EN#257088/other a all women basketball game] .
+[/EN#257085/people a basketball player] trying to keep [/EN#257089/other the ball]

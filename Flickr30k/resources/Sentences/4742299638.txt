@@ -1,0 +1,5 @@
+[/EN#197750/people A person] wearing [/EN#197760/clothing a hooded jacket] and [/EN#197761/clothing blue jeans] stands facing [/EN#197757/scene a shop] with [/EN#197758/other the sign] " [/EN#197752/other Feelings] " on [/EN#0/notvisual it] .
+[/EN#197750/people A person] in [/EN#197753/other a hood] is standing in front of [/EN#197756/other a run] down [/EN#197757/scene building] .
+[/EN#197750/people a man] standing on [/EN#197751/scene a street] waiting to cross [/EN#197751/scene the road]
+[/EN#197750/people A man] waits at [/EN#197754/other a light] to cross [/EN#197751/scene the street] .
+[/EN#197750/people A man] is attempting to cross [/EN#197751/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#137001/people a girl] in [/EN#137004/clothing a purple top] holds [/EN#137003/people a toddler] between [/EN#0/notvisual herself] and [/EN#137002/people another girl] on [/EN#136999/scene the grass] in front of [/EN#137000/scene a bush] .
+[/EN#136998/people Three little children] are sitting in [/EN#136999/scene the grass] .
+[/EN#136998/people Three little girls] are sitting on [/EN#136999/scene the grass] .
+[/EN#136998/people Three young girls] are sitting on [/EN#136999/scene the lawn]
+[/EN#136998/people Three children] sit on [/EN#136999/scene the grass] .

@@ -1,0 +1,5 @@
+[/EN#51221/people The boy] in [/EN#51224/clothing the green and yellow shirt] has [/EN#51226/clothing a glove] on and is going towards [/EN#51222/other the ball] .
+[/EN#51221/people A boy baseball player] in [/EN#51224/clothing a green and yellow jersey] leaps for [/EN#51222/other the ball] .
+[/EN#51221/people A little boy] playing [/EN#51223/other baseball] goes for [/EN#51222/other the ball] on [/EN#0/notvisual the ground] .
+[/EN#51221/people A young boy] dives to catch [/EN#51222/other the ball] during [/EN#51225/other a baseball game] .
+[/EN#51221/people A boy] chasing [/EN#51223/other a baseball] .

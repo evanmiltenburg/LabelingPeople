@@ -1,0 +1,5 @@
+[/EN#227023/people Two men] are waiting far apart for [/EN#227026/vehicles/scene the train] in [/EN#227027/other a run down station] .
+[/EN#227022/people A man] is standing with [/EN#227029/bodyparts his arms] crossed at [/EN#227028/scene a train station] .
+[/EN#227022/people A male] is waiting for [/EN#227026/vehicles/scene the train] to arrive at [/EN#227024/other the platform] .
+[/EN#227023/people Two men] waiting for [/EN#227025/vehicles/scene a train] at [/EN#227024/other the 4 avenue stop] .
+[/EN#227022/people A man] in [/EN#227030/clothing a brown shirt] is waiting for [/EN#227025/vehicles/scene a train] .

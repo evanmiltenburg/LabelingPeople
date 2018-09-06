@@ -1,0 +1,5 @@
+[/EN#9752/people A man] in [/EN#9754/clothing an orange jacket] playfully tosses [/EN#9751/people a small girl] into [/EN#0/notvisual the air] on [/EN#9753/scene an empty stretch of beach] on [/EN#9756/scene an overcast day] .
+At [/EN#9753/scene a beach] , [/EN#9752/people a man] in [/EN#9754/clothing an orange vest] tosses [/EN#9751/people a young child] into [/EN#0/notvisual the air] .
+[/EN#9752/people A man] in [/EN#9754/clothing an orange vest] tossing [/EN#9751/people a child] into [/EN#0/notvisual the air] on [/EN#9753/scene the beach]
+[/EN#9751/people A child] is being thrown in [/EN#0/notvisual the air] playfully .
+[/EN#9752/people A man] throws [/EN#9751/people a small child] up in [/EN#0/notvisual the air] .

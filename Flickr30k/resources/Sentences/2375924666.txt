@@ -1,0 +1,5 @@
+[/EN#45007/animals A brown dog] in front of [/EN#45011/scene a white fence] with [/EN#45008/other a blue and red bat-shaped object] in [/EN#45009/bodyparts its mouth] .
+[/EN#45007/animals A brown dog] is playing with [/EN#45008/other a blue and red bat] in [/EN#45009/bodyparts his mouth] .
+[/EN#45007/animals A brown dog] plays with [/EN#45008/other a toy bat] hanging out [/EN#45009/bodyparts its mouth] .
+[/EN#45007/animals A long-haired dog] is playing with [/EN#45008/other a small , blue bat] .
+[/EN#45007/animals A brown dog] holding [/EN#45008/other a foam bat] aiming for [/EN#45010/other a ball] .

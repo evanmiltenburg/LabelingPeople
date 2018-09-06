@@ -1,0 +1,5 @@
+[/EN#213139/people A man] in [/EN#213142/clothing an orange shirt] and [/EN#213145/other bathing suit rolls] in [/EN#213141/other a plastic ball] through [/EN#213140/scene water] .
+[/EN#213139/people A man] in [/EN#213142/clothing an orange shirt] is in [/EN#213141/other a giant plastic ball] [/EN#0/notvisual that] is in [/EN#213140/scene water] .
+[/EN#213139/people A man] is inside [/EN#213141/other a bubble] floating over [/EN#213140/scene a body of water] .
+[/EN#213139/people A boy] traverses [/EN#213140/scene a pool] in [/EN#213141/other a human-sized hamster ball] .
+[/EN#213139/people A young boy] playing in [/EN#213141/other a bubble] playing in [/EN#213140/scene water] .

@@ -1,0 +1,5 @@
+[/EN#6958/people A group of people] wait in [/EN#6961/other line] in front of [/EN#6959/other a counter] .
+[/EN#6958/people People] waiting in [/EN#6961/other line] for [/EN#6962/other their favorite beverage] .
+[/EN#6958/people Several people] are standing in [/EN#6961/other line] at [/EN#6959/other a counter] .
+[/EN#6958/people A group of people] in [/EN#6961/other line] at [/EN#6960/scene a music venue] .
+[/EN#6958/people Customers] wait in [/EN#6961/other line] at [/EN#6960/scene a store] .

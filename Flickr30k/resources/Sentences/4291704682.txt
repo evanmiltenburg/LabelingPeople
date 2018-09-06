@@ -1,0 +1,5 @@
+[/EN#161875/scene Two employees of a food shop] wearing [/EN#161876/clothing red hats] , [/EN#161877/clothing red aprons] , and [/EN#161878/clothing red pants] sweep up [/EN#161879/scene the sidewalk outside] .
+[/EN#161875/people Two women] dressed in [/EN#161880/clothing white and red] sweep [/EN#161879/scene the sidewalk] in front of [/EN#161881/scene a store] .
+[/EN#161875/people Two workers] sweep [/EN#161879/scene the sidewalk] outside of [/EN#161881/scene their small shop] .
+[/EN#0/notvisual There] are [/EN#161882/people two people] sweeping [/EN#161879/scene a sidewalk] in [/EN#161884/other this picture] .
+[/EN#0/notvisual You] wish [/EN#161879/scene your streets] where as clean as [/EN#0/notvisual theirs] .

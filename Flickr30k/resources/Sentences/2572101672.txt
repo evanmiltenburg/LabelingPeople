@@ -1,0 +1,5 @@
+[/EN#58752/people The man] in [/EN#58756/clothing the black sweater] is standing next to [/EN#58754/animals a green bird] in [/EN#58753/other a birdcage] .
+[/EN#58752/people A man] is standing beside [/EN#58753/other a large , colorful birdcage] containing [/EN#58754/animals birds] .
+[/EN#58752/people The man] is standing next to [/EN#58753/other a bird cage] .
+[/EN#58752/people A man] posing in front of [/EN#58753/other a bird cage] .
+[/EN#58752/people A man] standing next to [/EN#58753/other a bird cage]

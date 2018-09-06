@@ -1,0 +1,5 @@
+[/EN#82697/people a girl] wearing [/EN#82698/clothing pair of red leggings] and [/EN#82699/clothing a wool dress] walks by [/EN#82700/scene the window display of a store] wearing [/EN#82701/clothing her headphones] looking carefree .
+[/EN#82697/people A young woman] with [/EN#82702/bodyparts blond-hair] , wearing [/EN#82699/clothing a gray dress] , and [/EN#82698/other red tights] , listens to [/EN#82704/other music] as [/EN#0/notvisual she] walks briskly to [/EN#82707/scene her destination] .
+[/EN#82697/people A woman] walking on [/EN#82705/scene the sidewalk] while listening to [/EN#82701/clothing headphones] .
+[/EN#82697/people A young woman] walking on [/EN#82705/scene the sidewalk] .
+[/EN#82697/people A woman] walking down [/EN#82705/scene the sidewalk] .

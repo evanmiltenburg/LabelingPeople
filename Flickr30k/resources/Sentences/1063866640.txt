@@ -1,0 +1,5 @@
+[/EN#1611/people Four men] are sitting near [/EN#1612/other a tree] talking while [/EN#0/notvisual another] stands looking at [/EN#1613/scene a body of water] and [/EN#0/notvisual another] is rowing [/EN#1614/vehicles/scene a boat] .
+[/EN#1615/people Several men] are sitting by [/EN#1613/scene a river] conversing with [/EN#0/notvisual one another] while [/EN#1614/vehicles/scene a boat] drifts by [/EN#0/notvisual them] .
+[/EN#1615/people Five people] sitting in front of [/EN#1613/scene a body of water] with [/EN#1618/other the sun] behind [/EN#0/notvisual them] .
+[/EN#1615/people A group of shirtless men] are sitting in [/EN#1616/other the shade] on [/EN#1613/scene a tropical beach] .
+[/EN#1615/people Five men] sitting with [/EN#1613/scene a body of water] behind [/EN#0/notvisual them] .

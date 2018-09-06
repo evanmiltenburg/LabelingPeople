@@ -1,0 +1,5 @@
+[/EN#217109/people A young girl] wearing [/EN#217111/clothing a dress] is running in [/EN#217110/scene a field] .
+[/EN#217109/people A little girl] runs across [/EN#217110/scene a green grassy field] .
+[/EN#217109/people A small child] running on [/EN#217110/scene a grassy open field] .
+[/EN#217109/people A small girl] running in [/EN#217110/scene a field] .
+[/EN#217109/people A girl] is running on [/EN#217110/scene the grass] .

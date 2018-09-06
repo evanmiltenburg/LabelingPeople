@@ -1,0 +1,5 @@
+[/EN#214166/animals A brown dog] wearing [/EN#214169/clothing a collar] is chasing and biting on [/EN#214167/other a red broom] .
+[/EN#214166/animals A tan dog] bites on [/EN#214167/other a broom] as [/EN#0/notvisual it] moves over [/EN#214168/scene the brick floor] .
+[/EN#214166/animals A dog] biting [/EN#214167/other the cleaning end of a broom] .
+[/EN#214166/animals a tan dog] chewing on [/EN#214167/other a broom] .
+[/EN#214166/animals A dog] is biting [/EN#214167/other a mop] .

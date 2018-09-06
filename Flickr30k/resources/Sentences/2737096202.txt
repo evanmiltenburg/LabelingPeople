@@ -1,0 +1,5 @@
+[/EN#69476/people A woman] walking in front of [/EN#69477/vehicles a truck] talking to [/EN#69478/people someone] [/EN#0/notvisual that] is walking beside [/EN#0/notvisual her] .
+[/EN#69476/people A woman] in [/EN#69479/clothing a white tank top] has [/EN#69480/other a paintbrush] and [/EN#69481/other paint tray] in [/EN#69482/bodyparts her hands] .
+[/EN#69476/people A woman] in [/EN#69479/clothing a white tank top] is walking with [/EN#69485/other something] in [/EN#69483/bodyparts her hand] .
+[/EN#69476/people A woman] is carrying [/EN#69481/other a paint tray] and [/EN#69480/other paintbrush] outside .
+[/EN#69476/people A young woman] in [/EN#69479/clothing a white tank top] carries [/EN#69485/other a dish] .

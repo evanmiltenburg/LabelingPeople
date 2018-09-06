@@ -1,0 +1,5 @@
+[/EN#137296/people A man] with [/EN#137298/bodyparts a ponytail] is playing [/EN#137297/instruments a decorated piano] in [/EN#137301/scene the street] next to [/EN#137302/other a table] with [/EN#137300/other a red cloth] .
+[/EN#137296/people A man] plays [/EN#137297/instruments a piano] painted with [/EN#137299/people an image of a woman] on [/EN#0/notvisual it] .
+[/EN#137296/people Person] playing [/EN#137297/instruments piano] [/EN#0/notvisual that] has [/EN#137303/other mermaid painting] on [/EN#0/notvisual the side]
+[/EN#137296/people A man] with [/EN#137298/bodyparts a ponytail] plays [/EN#137297/instruments a piano] in [/EN#137304/scene public] .
+[/EN#137296/people A man] playing [/EN#137297/instruments a piano]

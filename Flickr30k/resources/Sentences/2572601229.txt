@@ -1,0 +1,5 @@
+[/EN#58771/people A woman] sits on [/EN#58773/other a bench] trying on [/EN#58772/clothing a dressy sandal] , with [/EN#58780/other shoe boxes] visible in [/EN#0/notvisual the background] .
+[/EN#58771/people A woman] sits on [/EN#58773/other a shoe store 's bench] while putting [/EN#58772/clothing a shoe] onto [/EN#58779/other her right foot] .
+[/EN#58771/people Blond woman] trying on [/EN#58772/clothing a pair of strappy heels] in [/EN#58774/scene a shoe store] .
+[/EN#58771/people A blond woman] trying on [/EN#58772/clothing some heels] in [/EN#58778/scene a shoe store] .
+[/EN#58771/people a woman] trying on [/EN#58772/clothing open toed shoes] while [/EN#58781/other shopping] .

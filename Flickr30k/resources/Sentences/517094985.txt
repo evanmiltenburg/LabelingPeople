@@ -1,0 +1,5 @@
+[/EN#230294/people A woman] holds [/EN#230298/clothing a leash] with [/EN#230295/animals a dog] in [/EN#230300/bodyparts one hand] and [/EN#230297/people the hand of a child] riding [/EN#230296/vehicles a unicycle] in [/EN#230301/other the other] .
+[/EN#230293/people A child] is riding [/EN#230296/vehicles a unicycle] along [/EN#230302/scene a riverside path] next to [/EN#230294/people a woman] [/EN#0/notvisual who] is walking [/EN#230295/animals a dog] .
+[/EN#230294/people The woman] walking [/EN#230295/animals the dog] is holding [/EN#230297/people the hand of the child] on [/EN#230296/vehicles the unicycle] .
+[/EN#230294/people A woman] holding [/EN#230297/people the hand of a child] in [/EN#230299/clothing a red helmet] on [/EN#230296/vehicles a unicycle] .
+[/EN#230294/people A woman] and [/EN#230293/people a boy] on [/EN#230296/vehicles a unicycle] .

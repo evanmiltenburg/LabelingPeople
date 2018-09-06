@@ -1,0 +1,5 @@
+[/EN#13907/people A black man] sits intently at [/EN#13910/other his sewing machine] surrounded by [/EN#13915/other brightly colored fabrics] hung on [/EN#13908/scene the outside window of a stucco building] .
+[/EN#13907/people A black man] sits at [/EN#13910/other a sewing machine] on [/EN#13914/scene the sidewalk] in front of [/EN#13909/scene a home] , working on [/EN#13910/other a project of some sort] .
+[/EN#13907/scene A man of african descent] wearing [/EN#13911/clothing a red shirt] is sewing [/EN#13910/other a garment] outside [/EN#13908/scene a building] with [/EN#13913/other a blue door] .
+[/EN#13907/people A man] wearing [/EN#13911/clothing a red shirt] outside of [/EN#13908/scene a building] , is using [/EN#13910/other a sewing machine] .
+[/EN#13907/people a Black male] is sitting outside working on [/EN#13910/other a sewing machine] .

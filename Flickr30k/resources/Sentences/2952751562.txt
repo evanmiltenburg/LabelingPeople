@@ -1,0 +1,5 @@
+[/EN#83665/people Gray-haired man] in [/EN#83669/clothing suit] , with [/EN#83672/scene blurry train station] in [/EN#0/notvisual background] .
+[/EN#83665/people Man] with [/EN#83670/bodyparts gray hair] wearing [/EN#83669/clothing a suit] is waiting in [/EN#83666/scene a subway tunnel] .
+[/EN#83665/people A man] with [/EN#83670/bodyparts gray hair] and [/EN#83669/clothing a suit] walks down [/EN#83667/scene a dimly lit hallway] .
+[/EN#83671/people Group of people] standing in [/EN#83666/scene a subway tunnel] .
+[/EN#83665/people A man] in [/EN#83669/clothing a suit] waits for [/EN#83668/vehicles/scene the subway]

@@ -1,0 +1,5 @@
+[/EN#135428/people The young girl] is sitting on [/EN#135430/scene the swing seat] waiting for [/EN#135429/other the carnival ride] to begin .
+[/EN#135428/people A small Asian girl] is sitting in [/EN#135430/scene a red seat] on [/EN#135429/other a merry-go-round] .
+[/EN#135428/people A girl] in [/EN#135431/clothing a dress] sitting on [/EN#135429/other a red swing ride] .
+[/EN#135428/people The girl] is sitting on [/EN#135429/other a swing] .
+[/EN#135428/people a girl] sits on [/EN#135429/other a swing ride] .

@@ -1,0 +1,5 @@
+[/EN#18509/animals A dog] is jumping to catch [/EN#18510/other a Frisbee] and casts [/EN#18511/scene a perfect shadow] .
+[/EN#18509/animals A dog] jumps and catches [/EN#18510/other a Frisbee] in [/EN#18512/scene the grass] .
+[/EN#18509/animals/scene A yellow lab] jumping up to catch [/EN#18510/other a toy] .
+[/EN#18509/animals A white dog] leaps to catch [/EN#18510/other an object] .
+[/EN#18509/animals A dog] jumps and catches [/EN#18510/other a toy] .

@@ -1,0 +1,5 @@
+[/EN#11611/people A man] wearing [/EN#11612/clothing a green shirt] and [/EN#11613/scene an orange safety] [/EN#11613/clothing hat] works on [/EN#11615/other mechanical equipment] inside [/EN#11616/scene a fenced area] , while [/EN#11617/people a group of people] walk on [/EN#11618/scene a lawn] behind [/EN#0/notvisual him] .
+[/EN#11611/people A man] wearing [/EN#11619/other safety gear] operates [/EN#11620/other a machine] with [/EN#11621/scene tents] on [/EN#0/notvisual the background] .
+[/EN#11611/people Man] demonstrating [/EN#11615/other an industrial saw] at [/EN#11624/scene a fair] .
+[/EN#11611/people a man] works [/EN#11625/scene outdoors] with [/EN#11615/other some machinery]
+[/EN#11611/people A man] is milling [/EN#11622/other wood] at [/EN#11623/other a festival] .

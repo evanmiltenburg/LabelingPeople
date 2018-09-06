@@ -1,0 +1,5 @@
+[/EN#126921/people A man] in [/EN#126933/clothing a hard hat] and [/EN#126934/clothing blue jean overalls] is standing in [/EN#126924/scene the middle of the road] next to [/EN#126929/other a white work van] and [/EN#126923/other an dark colored expensive sedan] , with [/EN#126926/people another man] leaning down behind [/EN#0/notvisual him] .
+[/EN#126921/people A worker] stands near [/EN#126929/vehicles his truck] , guarding [/EN#126925/scene the manhole] being worked on by [/EN#126926/people his assistant] from passing [/EN#126923/vehicles cars] .
+[/EN#126922/people Two men] work on [/EN#126932/other the sewers] in [/EN#126924/scene the middle of the road] as [/EN#126923/other a BMW] stops next to [/EN#0/notvisual them] .
+[/EN#126922/people Two workers] are working nearby [/EN#126928/scene a manhole] in [/EN#126924/scene the middle of the road] .
+[/EN#126923/vehicles a black car] stopped in [/EN#126924/scene the road] .

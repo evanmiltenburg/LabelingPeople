@@ -1,0 +1,5 @@
+[/EN#180210/people A person] sitting on [/EN#180211/other tan bench] and [/EN#180212/people man] in [/EN#180218/clothing green shirt] standing on [/EN#180216/scene black and gray floor] .
+[/EN#180210/people Top-down view of a man] sitting on [/EN#180211/other a bench] inside with [/EN#180212/people a standing man] facing [/EN#0/notvisual him] .
+[/EN#180210/people A man] is sitting on [/EN#180211/other a bench] facing [/EN#180212/people another man] [/EN#0/notvisual who] is standing .
+[/EN#180210/people A man] sits on [/EN#180211/other a bench] while [/EN#180212/people another man] walks toward [/EN#0/notvisual him] .
+[/EN#0/notvisual This] over [/EN#180215/other the top photo] shows [/EN#180217/people two men] taking [/EN#180213/scene a break] .

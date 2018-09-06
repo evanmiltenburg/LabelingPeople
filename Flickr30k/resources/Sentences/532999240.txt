@@ -1,0 +1,5 @@
+[/EN#233750/animals A brown and white dog] plays with [/EN#233751/other a ball] in [/EN#233752/scene the dirt] .
+[/EN#233750/animals This brown and white dog] is chasing [/EN#233751/other a soccer ball] .
+[/EN#233750/animals A brown dog] jumps as [/EN#0/notvisual he] looks at [/EN#233751/other a soccer ball] .
+[/EN#233750/animals A brown dog] is chasing after [/EN#233751/other a soccer ball] .
+[/EN#233750/animals The dog] runs towards [/EN#233751/other the ball] .

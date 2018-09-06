@@ -1,0 +1,5 @@
+[/EN#153253/animals The white and brown dog] leaps into [/EN#0/notvisual the air] , above [/EN#0/notvisual snow covered ground] .
+[/EN#153253/animals A brown and white dog] jumps in [/EN#0/notvisual the air] to catch [/EN#153254/other a snowball] .
+[/EN#153253/animals Dog] jumping to catch [/EN#153255/scene falling snow] out in [/EN#153258/other the woods] .
+[/EN#153253/animals A black and white dog] is leaping from [/EN#153256/scene a snowy path] .
+[/EN#153253/animals A dog] jumps up and tries to catch [/EN#153255/scene a lump of snow] .

@@ -1,0 +1,5 @@
+[/EN#170099/animals A large black and tan dog] is running across [/EN#170100/scene the snow] in [/EN#170102/scene a wooded area] .
+[/EN#170099/animals A black and brown dog] walks through [/EN#170100/scene the snow] near [/EN#170101/scene a building] .
+[/EN#170099/animals The black and brown dog] is running through [/EN#170100/scene the snow] .
+[/EN#170099/animals A black dog] running in [/EN#170100/scene the snow] by [/EN#170103/other some trees] .
+[/EN#170099/animals A black dog] , running in [/EN#170100/scene the snow] .

@@ -1,0 +1,5 @@
+[/EN#40904/people a woman] in [/EN#40907/clothing a pink coat] with [/EN#40911/other the fur lined hood] up , with [/EN#40909/clothing black pants] and [/EN#40910/clothing brown shoes] sitting on [/EN#40906/other a bench] near [/EN#40905/other a pop machine] with [/EN#40908/clothing a striped yellow bag] by [/EN#0/notvisual her side] .
+[/EN#40904/people A woman] in [/EN#40907/clothing a pink parka] with [/EN#40908/clothing a yellow striped bag] sits alone on [/EN#40906/other a bench] near [/EN#40905/other a Coca-Cola vending machine] .
+[/EN#40904/people A lady] in [/EN#40907/clothing a pink coat] , [/EN#40909/clothing black slacks] , and [/EN#40910/clothing brown shoes] is sitting on [/EN#40906/other a bench] .
+[/EN#40904/people An individual] wearing [/EN#40913/scene rose jacket site] idle on [/EN#40906/other a wooden bench] .
+[/EN#40904/people Woman] in [/EN#40907/clothing pink parka] sits near [/EN#40905/other vending machine] .

@@ -1,0 +1,5 @@
+[/EN#176316/people A young man] white [/EN#176318/clothing a white , button-up shirt] , rides [/EN#176317/vehicles a blue bike] .
+[/EN#176316/people A man] in [/EN#176318/clothing a white shirt] and [/EN#176319/clothing jeans] riding [/EN#176317/vehicles a blue bicycle] .
+[/EN#176316/people a man] in [/EN#176318/clothing a white shirt] rides [/EN#176317/vehicles his bike]
+[/EN#176316/people A young man] is riding [/EN#176317/vehicles his blue bike] .
+[/EN#176316/people A young man] bikes on [/EN#176320/scene the road] .

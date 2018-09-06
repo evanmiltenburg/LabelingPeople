@@ -1,0 +1,5 @@
+[/EN#188684/people Person] lies down on [/EN#188686/other an orange cloth] in front of [/EN#188685/other giant billboard] with gating in front of [/EN#0/notvisual it] .
+[/EN#188684/people A woman] lays [/EN#188688/other prostrate] on [/EN#0/notvisual the ground] on [/EN#188686/other a large red carpet] in front of [/EN#188685/other a large billboard] .
+[/EN#188684/people A person] laying down on [/EN#188686/scene a clay colored surface] in front of [/EN#188685/other a Roland Garros billboard] .
+[/EN#188684/people A person] is laying on [/EN#0/notvisual the ground] in front of [/EN#188685/other a billboard] .
+[/EN#188684/people A woman] is lying down on [/EN#188686/scene an orange floor] .

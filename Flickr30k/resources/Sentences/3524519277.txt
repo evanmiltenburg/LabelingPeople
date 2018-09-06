@@ -1,0 +1,5 @@
+[/EN#124710/people A man] holding [/EN#124713/other a bottle] wearing [/EN#124716/clothing tan pants] talking to [/EN#124712/people security officers] in front of [/EN#124714/other a large poster] .
+[/EN#124712/people Two men] in [/EN#124715/clothing black uniforms] talking to [/EN#124710/people a man] holding [/EN#124713/other a bottle of soda] .
+[/EN#124712/people Two uniformed law enforcment officers] speaking to [/EN#124710/people another male] .
+[/EN#124712/people Two policemen] are talking to [/EN#124710/people a man] [/EN#0/notvisual who] is holding [/EN#124713/other a bottle] .
+[/EN#124710/people A man] talks to [/EN#124712/people two guards] as [/EN#0/notvisual he] holds [/EN#124713/other a drink] .

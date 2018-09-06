@@ -1,0 +1,5 @@
+[/EN#155245/people A person] dressed in [/EN#155248/clothing a yellow animated costume] in [/EN#155253/scene a public area] .
+[/EN#155245/people A man] in [/EN#155248/clothing a yellow costume] stands facing [/EN#155244/people a woman] in [/EN#155247/clothing a white hat] .
+[/EN#155244/people The girl] in [/EN#155255/clothing the white dress] is paying [/EN#155258/animals her bill] at [/EN#155251/other the counter] .
+[/EN#155246/people A woman] wearing [/EN#155247/clothing a white hat] examines [/EN#155252/other an item] in [/EN#155254/scene a store] .
+[/EN#155250/people Two young people] are wearing [/EN#155257/clothing costumes] .

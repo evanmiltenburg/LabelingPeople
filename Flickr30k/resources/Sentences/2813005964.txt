@@ -1,0 +1,5 @@
+[/EN#74395/people A little girl] wearing [/EN#74396/clothing a cardboard diner hat] is finishing off [/EN#74397/clothing some onion rings] at [/EN#74398/scene a restaurant] .
+[/EN#74395/people A young girl] eating [/EN#74397/clothing an onion ring] at [/EN#74398/scene a fast food restaurant] .
+[/EN#74395/people A little girl] with [/EN#74399/bodyparts long brown hair] is eating [/EN#74397/clothing an onion ring] .
+[/EN#74395/people A child] is wearing [/EN#74396/clothing a paper hat] and eating at [/EN#74400/people/scene a diner] .
+[/EN#74395/people A young girl] in [/EN#74396/clothing a paper hat] eats inside [/EN#74398/scene a restaurant] .

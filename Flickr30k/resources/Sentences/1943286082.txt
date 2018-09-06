@@ -1,0 +1,5 @@
+[/EN#23644/people A man] wearing [/EN#23647/clothing a black t-shirt] , [/EN#23651/clothing black pants] , [/EN#23646/clothing a black hat] and wearing [/EN#23652/clothing black shoes] is picking up [/EN#23649/other trash] in [/EN#23648/scene an empty lot] and putting [/EN#0/notvisual it] into [/EN#23645/clothing a black trash bag] .
+[/EN#23644/people A man] wearing [/EN#23650/clothing all black] carrying [/EN#23645/clothing a black trash bag] is bending down to pick [/EN#23649/other something] up in [/EN#23648/scene a dirt lot] .
+[/EN#23644/people A man] dressed in [/EN#23647/clothing black] is holding [/EN#23645/clothing a black garbage bag] and picking up [/EN#23649/other items] from [/EN#23648/scene a dirt lot] .
+[/EN#23644/people A man] in [/EN#23647/clothing a black shirt] and [/EN#23646/clothing baseball cap] picking up [/EN#23649/other trash] in [/EN#23648/scene an empty lot] .
+[/EN#23644/people A man] in [/EN#23647/clothing a black shirt] picks up [/EN#23649/other trash] on [/EN#23648/scene the side of a road] .

@@ -1,0 +1,5 @@
+[/EN#200351/people A group of pedestrians] are using [/EN#200352/scene a crosswalk] in [/EN#200353/scene a city] .
+[/EN#200351/people A large group of people] crossing [/EN#200352/scene a city street] .
+[/EN#200351/people A group of people] crossing [/EN#200352/scene a busy street] .
+[/EN#200351/people Many people] are crossing [/EN#200353/scene the street] .
+[/EN#200351/people People] cross [/EN#200352/scene a busy city street] .

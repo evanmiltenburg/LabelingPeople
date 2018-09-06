@@ -1,0 +1,5 @@
+[/EN#192298/people A man] in [/EN#192301/clothing a red shirt] and [/EN#192303/clothing brown shorts] and [/EN#192300/clothing a black cap] is sitting near [/EN#192302/scene a river] with [/EN#192306/other a fishing rod] in [/EN#192305/scene the water] .
+[/EN#192298/people A man] in [/EN#192301/clothing a red , short-sleeved shirt] sits on [/EN#192299/scene the bank] as [/EN#0/notvisual he] fishes .
+[/EN#192298/people A man] in [/EN#192301/clothing a red shirt] is sitting on [/EN#192299/scene some grass] and fishing .
+[/EN#192298/people Man] in [/EN#192301/clothing red shirt] fishes from [/EN#192304/scene seated position] .
+[/EN#192298/people A man] in [/EN#192301/clothing red shirt] and [/EN#192300/clothing blue hat] fishing .

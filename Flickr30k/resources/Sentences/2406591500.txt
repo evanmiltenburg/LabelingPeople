@@ -1,0 +1,5 @@
+[/EN#46884/people One young boy] in [/EN#46882/clothing a striped shirt] is chasing [/EN#46885/people another boy] on [/EN#46879/scene a path] through [/EN#46880/scene the jungle] .
+[/EN#46878/people Two young children] , [/EN#46882/other one] in [/EN#46882/clothing striped top] , running down [/EN#46879/other pathway] surrounded by [/EN#46883/other ferns] .
+[/EN#46878/people Two boys] are running on [/EN#46879/scene a path] amoung [/EN#46883/other green leafy trees] .
+[/EN#46878/people The children] are walking on [/EN#46879/scene the path] lined by [/EN#46883/other trees] .
+[/EN#46878/people Two boys] run on [/EN#46879/scene a well maintained trail] .

@@ -1,0 +1,5 @@
+[/EN#96844/animals A brown dog] is running next to [/EN#96842/scene a chain link fence] while [/EN#96845/animals a darker dog] stands nearby .
+[/EN#96841/animals Two dogs] standing in [/EN#96843/scene the grass] , [/EN#96844/other one] is running .
+[/EN#96841/animals Two greyhounds] are playing in [/EN#96843/scene a fenced yard] .
+[/EN#96841/animals Two dogs] run around inside [/EN#96842/scene a fence] .
+[/EN#96841/animals Two dogs] in [/EN#96843/scene a yard] .

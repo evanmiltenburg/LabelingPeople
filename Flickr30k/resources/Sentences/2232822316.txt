@@ -1,0 +1,5 @@
+[/EN#35864/people A woman] dressed in [/EN#35866/clothing a light yellow tank top] , [/EN#35868/clothing white pants] , and [/EN#35874/clothing sunglasses] looks to [/EN#35872/scene her right] as [/EN#0/notvisual she] is drinking [/EN#35865/scene a bottle of water] .
+[/EN#35864/people A woman] in [/EN#35867/scene a public place] wearing [/EN#35866/clothing a yellow tank top] holding [/EN#35865/scene a bottle of water] looking over [/EN#0/notvisual her] shoulder
+[/EN#35864/people A woman] in [/EN#35868/clothing white jeans] , and [/EN#35863/people man] in [/EN#35871/clothing black shorts] look [/EN#35873/scene opposite ways] near [/EN#35867/scene a stand] .
+[/EN#35863/people A man] and [/EN#35864/people woman] stand at [/EN#35867/scene a stall] in [/EN#35870/scene the street] during [/EN#35875/scene the day] .
+[/EN#35869/people Two people] carrying [/EN#35876/other water bottles] pause at [/EN#35867/scene a market stall] .

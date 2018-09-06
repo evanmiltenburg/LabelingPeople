@@ -1,0 +1,5 @@
+[/EN#191963/people A man] with [/EN#191964/clothing an orange vest] and [/EN#191972/bodyparts a tattoo] on [/EN#191973/bodyparts/people his left arm] is standing in front of [/EN#191965/other a mirror] where [/EN#0/notvisual they] are setting up for [/EN#191970/other some kind of show] .
+[/EN#191963/people A man] with [/EN#191964/clothing a red vest] looking at [/EN#191967/people a man] with [/EN#191968/clothing an orange shirt] holding [/EN#191965/other a mirror] .
+[/EN#191963/people A man] in [/EN#191971/clothing white pants] and [/EN#191964/clothing a bright orange vest] is admiring [/EN#191966/other his reflection] .
+[/EN#191963/people A man] in [/EN#191964/clothing a red coat] is looking at [/EN#0/notvisual himself] in [/EN#191965/scene a mirror outside] .
+[/EN#191963/people A man] in [/EN#191964/clothing an orange vest] looking at [/EN#191966/other his reflection] in [/EN#191965/other a mirror] .

@@ -1,0 +1,5 @@
+[/EN#148277/people A man] with [/EN#148280/clothing a red hoodie] under [/EN#148282/clothing a gray jacket] is sitting on [/EN#148279/other a bench] next to [/EN#148278/clothing his backpack] with [/EN#148281/bodyparts his head] down .
+[/EN#148277/people A person] dressed in [/EN#148280/clothing a red hoodie] sitting on [/EN#148279/other a bench] with [/EN#148281/bodyparts their head] down and hand over [/EN#148285/bodyparts their face] .
+[/EN#148277/people A person] in [/EN#148280/clothing a red hoodie] sits on [/EN#148279/other a park bench] next to [/EN#148278/clothing a backpack] , looking downwards .
+[/EN#148277/people A man] in [/EN#148280/clothing a red hooded sweatshirt] sitting next to [/EN#148278/clothing a backpack] on [/EN#148279/other a wooden bench] .
+[/EN#148277/people A person] with [/EN#148283/other a red hood] on with [/EN#148281/bodyparts his head] in [/EN#148284/bodyparts his hand] sitting on [/EN#148279/other a bench] .

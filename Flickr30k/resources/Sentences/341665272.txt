@@ -1,0 +1,5 @@
+[/EN#116591/animals A brown dog] is running through [/EN#116594/scene the snow] with [/EN#116592/other a Frisbee] in [/EN#116593/bodyparts its mouth] .
+[/EN#116591/animals A brown dog] carrying [/EN#116592/other a Frisbee] runs through [/EN#116594/scene the snow] .
+[/EN#116591/animals A dog] is running in [/EN#116594/scene the snow] carrying [/EN#116592/other a red Frisbee] .
+[/EN#116591/animals A dog] catches [/EN#116592/other a red Frisbee] in [/EN#116594/scene the snow] .
+[/EN#116591/animals A dog] holding [/EN#116592/other a Frisbee] in [/EN#116593/bodyparts its mouth] .

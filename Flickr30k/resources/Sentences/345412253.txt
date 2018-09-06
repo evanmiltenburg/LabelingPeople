@@ -1,0 +1,5 @@
+[/EN#119367/people A street vendor] pushes [/EN#119370/vehicles his stir-fry cart] while carrying [/EN#119369/scene a jug of water] , through [/EN#119372/scene a busy downtown area] .
+[/EN#119367/people A man] pushes [/EN#119370/vehicles a food vendor 's cart] , and holds [/EN#119369/scene a bottle of water] , [/EN#0/notvisual there] are [/EN#119371/people some people] walking by .
+[/EN#119367/people A man] with [/EN#119368/clothing a beige jacket] carries [/EN#119369/other a water jug] and pushes [/EN#119370/vehicles a food cart]
+[/EN#119367/people A young man] in [/EN#119368/clothing a brown jacket] pushes [/EN#119370/vehicles a rolling food cart] .
+[/EN#119371/people People] on [/EN#119373/scene a street] walking by [/EN#119370/vehicles a vendor 's cart] .

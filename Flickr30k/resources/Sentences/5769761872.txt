@@ -1,0 +1,5 @@
+[/EN#242703/people A bored looking man] sits in [/EN#242707/instruments between two instruments] , on [/EN#242711/scene his right] is [/EN#242705/instruments a large drum] and on [/EN#242712/scene his left] is [/EN#242710/other something] else - [/EN#0/notvisual he] is probably playing [/EN#242708/other music] for [/EN#242709/other some performance] .
+[/EN#242703/people A man] sitting in [/EN#242704/other a chair] playing [/EN#242705/instruments a drum] like [/EN#242705/instruments instrument] .
+[/EN#242703/people A lone man] is sitting on [/EN#242704/other his chair] in front of [/EN#242705/instruments his drum] .
+[/EN#242703/people One man] in [/EN#242713/clothing black] playing [/EN#242705/instruments a colorful drum] .
+[/EN#242703/people A Chinese man] plays [/EN#242705/instruments the drum] in [/EN#242706/people a band] .

@@ -1,0 +1,5 @@
+[/EN#162453/animals Two horses] greet [/EN#162451/people a man] in [/EN#162458/clothing red pants] and [/EN#162456/clothing a black shirt] , while [/EN#162452/animals a dog] on [/EN#162455/clothing a leash] attempts to jump [/EN#162459/scene the fence] .
+[/EN#162452/animals A husky breed dog] is sniffing [/EN#162457/bodyparts a horse 's shoulder] while [/EN#162451/people the dog 's owner] is petting [/EN#162453/animals the two brown horses] .
+[/EN#162451/people A person] holding [/EN#162455/animals the leash of a dog] as [/EN#162452/animals the dog] sniffs [/EN#162453/animals the horse] .
+[/EN#162451/people A human] and [/EN#162452/animals his dog] are inspecting [/EN#162453/animals a horse] .
+[/EN#162453/animals Horses] taking [/EN#162460/other snacks] from [/EN#162451/people owner] .

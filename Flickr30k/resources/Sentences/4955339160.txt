@@ -1,0 +1,5 @@
+[/EN#222959/people Two asian people] are walking on [/EN#222960/scene a sidewalk] holding [/EN#222963/bodyparts hands] next to [/EN#222964/vehicles scooters] .
+[/EN#222959/people Two people] walking down [/EN#222960/scene the sidewalk] , away from [/EN#0/notvisual the camera] .
+[/EN#222961/people A child] and [/EN#222962/people an adult] are walking down [/EN#222960/scene the sidewalk] .
+[/EN#222959/people Two boys] are walking down [/EN#222960/scene a brick sidewalk] .
+[/EN#222959/people The two boy] are walking down [/EN#222960/scene the street] .

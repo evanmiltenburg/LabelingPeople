@@ -1,0 +1,5 @@
+[/EN#104342/people A small child] stands close to [/EN#104343/vehicles a green sports car] parked in [/EN#104344/other a showroom] .
+[/EN#104342/people A small boy] looks at [/EN#104343/vehicles a green sports car] in [/EN#104344/other a showroom] .
+[/EN#104342/people A boy] in [/EN#104345/clothing a baseball cap] is looking at [/EN#104343/vehicles a green car] .
+[/EN#104342/people White small child] stands near [/EN#104343/vehicles green sports car] .
+[/EN#104342/people A little boy] is admiring [/EN#104343/vehicles a green sports car] .

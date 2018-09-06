@@ -1,0 +1,5 @@
+[/EN#90672/people Three adults] and [/EN#90677/people an infant] are seated on [/EN#90673/other a green bench] facing [/EN#90675/scene a body of water] on [/EN#90676/scene a clear day] .
+[/EN#0/notvisual There] are [/EN#90672/people three people] sitting on [/EN#90673/other a park bench] looking out toward [/EN#90674/scene the ocean] .
+[/EN#90672/people Three women] are sitting on [/EN#90673/other a green bench] looking out at [/EN#90675/scene the coast] .
+[/EN#90672/people Three people] are sitting on [/EN#90673/other a bench] in front of [/EN#90674/scene a body of water] .
+[/EN#90678/people four individuals] sitting on [/EN#90673/other a bench] looking at [/EN#90675/scene the ocean]

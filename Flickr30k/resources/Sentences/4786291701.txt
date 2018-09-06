@@ -1,0 +1,5 @@
+[/EN#202714/people Two men] in [/EN#202720/clothing blue jeans] are working on [/EN#202716/scene a floor] with [/EN#202719/other many buckets of things] .
+[/EN#202714/people Two men] are looking at [/EN#202716/scene a floor] [/EN#0/notvisual that] is being repaired .
+[/EN#202714/people Two men] are laying [/EN#202717/other floor tiles] in [/EN#202715/scene a doorway] .
+[/EN#202714/people Construction workers] lay [/EN#202717/other tile] in [/EN#202715/scene a doorway] .
+[/EN#202714/people Two men] are working on [/EN#202717/other flooring] .

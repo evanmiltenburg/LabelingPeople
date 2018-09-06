@@ -1,0 +1,5 @@
+[/EN#53311/people A short-haired woman] wearing [/EN#53317/clothing a blue coat] and [/EN#53320/clothing green skirt] sits on [/EN#0/notvisual the ground] behind [/EN#53312/other a red blanket] , welling [/EN#53315/other her wares] .
+[/EN#53311/people A woman] selling [/EN#53314/other her wares] on [/EN#53312/other blankets] on [/EN#0/notvisual the ground] with [/EN#53319/other a stone wall] behind [/EN#0/notvisual her] at [/EN#53318/scene an outdoor market]
+[/EN#53311/people A man] is selling [/EN#53321/clothing jewelry] and [/EN#53314/other other trinkets] on [/EN#53312/other a blanket] [/EN#0/notvisual he] has laid out on [/EN#53313/scene the street] .
+[/EN#53311/people A street vendor] is selling [/EN#53315/other her wares] .
+Selling [/EN#53314/other goods] to [/EN#54000/people tourist] on [/EN#53313/scene street] .

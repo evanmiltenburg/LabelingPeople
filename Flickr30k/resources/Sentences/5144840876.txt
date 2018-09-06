@@ -1,0 +1,5 @@
+[/EN#229851/other A helicopter] hovering over [/EN#229853/scene a field] with [/EN#229857/scene a lake] in [/EN#0/notvisual the background] and [/EN#229858/vehicles service vehicles] in [/EN#0/notvisual the foreground] .
+[/EN#229851/other A helicopter] about to land on [/EN#0/notvisual the ground] in [/EN#229855/scene the middle] of clearing in [/EN#229860/scene the forest] .
+[/EN#229851/other A helicopter] descends into [/EN#229856/scene a grassy area] where [/EN#0/notvisual there] are [/EN#229858/vehicles many cars] .
+[/EN#229851/scene Helicopter lands] in [/EN#229853/scene field] with [/EN#229857/scene lake] in [/EN#0/notvisual background] .
+[/EN#229851/other A helicopter] hovering over [/EN#229854/scene a landing spot] .

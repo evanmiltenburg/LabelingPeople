@@ -1,0 +1,5 @@
+[/EN#105249/people A basketball player] in [/EN#105259/clothing white] is trying to defend against [/EN#105249/people the player] in [/EN#105253/clothing black] [/EN#0/notvisual who] is dribbling [/EN#105254/other the ball] .
+[/EN#105249/people An african american] runs with [/EN#105252/other a basketball] as [/EN#105256/other a caucasion] tries to take [/EN#105254/other the ball] from [/EN#0/notvisual him] .
+[/EN#105251/people White player] attempts to get [/EN#105252/other ball] from [/EN#105251/people black player] on [/EN#105261/scene basketball court] .
+[/EN#105255/people Two teams] are playing [/EN#105258/other basketball] as [/EN#105251/people one man] is driving towards [/EN#105257/other the hoop] .
+[/EN#105251/people Guy] in [/EN#105253/clothing black uniform] dribbling [/EN#105252/other basketball] away from [/EN#105249/people guy] in [/EN#105260/clothing white uniform]

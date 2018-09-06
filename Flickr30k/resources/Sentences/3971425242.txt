@@ -1,0 +1,5 @@
+[/EN#150328/people A group of musicians] perform in [/EN#150341/scene a room] before [/EN#150330/people a crowd of people] including [/EN#150333/people one man] wearing [/EN#150332/clothing a checkered jacket] and [/EN#150338/people a girl] with [/EN#150344/bodyparts pink hair] .
+[/EN#150328/people A group of seven men] perform on [/EN#150334/scene a stage] with [/EN#150342/other microphones] and [/EN#150335/instruments guitars] as [/EN#150331/people several young men] and [/EN#150343/people women] dance and look on .
+[/EN#150329/people A seven piece band] plays on [/EN#150334/scene a small crowded stage] in front of [/EN#150333/people a person] wearing [/EN#150332/clothing a checkered hooded shirt] .
+[/EN#0/notvisual There] is [/EN#150340/people a man] singing and [/EN#150339/people a guy] playing [/EN#150336/instruments guitar] in front of [/EN#150328/people a crowd] .
+[/EN#150330/people People] at [/EN#150337/other a club] talking and listening to [/EN#150329/people the band] .

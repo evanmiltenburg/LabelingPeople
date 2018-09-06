@@ -1,0 +1,5 @@
+[/EN#13016/people A person] stands on [/EN#13017/scene the top of a cliff] as [/EN#0/notvisual another] attempts to climb [/EN#0/notvisual it] .
+[/EN#13016/people A person] is standing at [/EN#13017/scene the top of a rocky cliff] overlooking [/EN#13018/scene land] .
+[/EN#13016/people A person] standing on [/EN#13019/other a ciff] looking down at [/EN#13020/other plains] and [/EN#13021/other trees] .
+[/EN#13016/people Man] stands on [/EN#13017/scene distant cliff] overlooking [/EN#13018/scene a green valley] .
+[/EN#13016/people A man] standing on [/EN#13017/scene a cliff]

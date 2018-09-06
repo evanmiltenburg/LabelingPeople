@@ -1,0 +1,5 @@
+[/EN#194023/people A young woman] in [/EN#194027/clothing relaxed clothing] vacuuming [/EN#194025/scene hallway] with [/EN#194028/other small vacuum] .
+[/EN#194023/people A woman] in [/EN#194024/clothing a black t-shirt] is vacuuming [/EN#194025/scene the hallway] .
+[/EN#194023/people A woman] in [/EN#194024/clothing a black shirt] vacuuming [/EN#194026/other the carpet] .
+[/EN#194023/people A woman] whistling while [/EN#0/notvisual she] is vacuuming .
+[/EN#194023/people Girl] in [/EN#194025/scene hallway] vacuuming

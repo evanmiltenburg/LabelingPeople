@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#16550/people a man] with [/EN#16551/clothing a green t-shirt] cooking [/EN#16552/other hamburgers] and [/EN#16553/other hotdogs] outside on [/EN#16554/other a grill] .
+[/EN#16550/people A man] in [/EN#16551/clothing a green shirt] , wearing [/EN#16555/clothing glasses] , cooking [/EN#16553/other meat] on [/EN#16556/scene a grill outside] .
+[/EN#16550/people A man] in [/EN#16555/clothing glasses] is grilling [/EN#16553/other wieners] and [/EN#16552/other meat patties] on [/EN#16554/other a grill] .
+[/EN#16550/people A man] barbecuing in [/EN#16557/scene his backyard] as [/EN#0/notvisual he] gets ready for [/EN#16559/scene the day] .
+[/EN#16550/people Older man] cooking for [/EN#16558/other an outdoor barbecue] .

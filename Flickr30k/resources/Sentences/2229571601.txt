@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#35503/people a man] sitting on [/EN#35504/vehicles/scene a bus] holding [/EN#35505/bodyparts his head] in [/EN#35506/bodyparts his hands] .
+[/EN#35503/people A man] on [/EN#35504/vehicles/scene a bus] drives past [/EN#35507/people another man] on [/EN#35508/scene the street] .
+[/EN#35503/people A man] riding [/EN#35504/vehicles/scene a bus] passes [/EN#35507/people a man] on [/EN#35508/scene the sidewalk] .
+[/EN#35507/people A man] is waiting for [/EN#35504/vehicles/scene a bus] at [/EN#35510/other the bus stop]
+[/EN#35507/people A bystander] watches [/EN#35504/vehicles/scene a bus] go [/EN#35509/other past] .

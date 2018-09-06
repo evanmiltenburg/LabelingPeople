@@ -1,0 +1,5 @@
+[/EN#168625/people A woman] wearing [/EN#168630/clothing black pants] and [/EN#168627/clothing a black shirt] pushing [/EN#168626/other a stroller] down [/EN#168629/scene the street] .
+[/EN#168625/people A woman] pushing [/EN#168626/vehicles a baby carriage] in front of [/EN#168628/scene some buildings] .
+[/EN#168625/people A woman] is walking with [/EN#168626/other a stroller] in front of [/EN#168628/scene a building] .
+[/EN#168625/people A woman] pushing [/EN#168626/other a baby-stroller] in front of [/EN#168628/scene a building] .
+[/EN#168625/people A woman] in [/EN#168627/clothing black] pushing [/EN#168626/other a stroller] .

@@ -1,0 +1,5 @@
+[/EN#195815/people A man] in [/EN#195824/clothing cap] sitting in [/EN#195817/other a chair] with [/EN#195816/clothing a red bag] lying next to [/EN#0/notvisual him] .
+[/EN#195815/people A man] grasping [/EN#195818/other a white sheet of paper] sits next to [/EN#195820/scene the harbor] .
+[/EN#195815/people A man] with [/EN#195816/clothing a backpack] is sitting in [/EN#195817/other a folding chair] on [/EN#195822/scene a pier] .
+[/EN#195815/people A man] with [/EN#195823/other a suitcase] holds [/EN#195818/other paper] as [/EN#0/notvisual he] sits by [/EN#195821/other a marina] .
+[/EN#195815/people A man] is sitting in [/EN#195817/scene a chair outside] .

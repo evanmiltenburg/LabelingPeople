@@ -1,0 +1,5 @@
+[/EN#22831/animals A dog] with [/EN#22832/bodyparts one ear] [/EN#22837/other up] runs [/EN#22836/scene outside] through [/EN#22835/other the fall] leaves .
+[/EN#22831/animals A white and brown dog] is running over [/EN#22833/other orange leaves] .
+[/EN#22831/animals A dog] with [/EN#22832/bodyparts floppy ears] runs in [/EN#22836/scene a forest] in [/EN#22835/other the fall] .
+[/EN#22831/animals a dog] sprints across [/EN#0/notvisual the leaf covered ground] .
+[/EN#22831/animals A black and white dog] runs in [/EN#22833/other some leaves] .

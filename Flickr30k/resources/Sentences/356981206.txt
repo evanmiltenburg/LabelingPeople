@@ -1,0 +1,5 @@
+[/EN#128462/people A little boy] with [/EN#128459/clothing a red baseball cap] is on [/EN#128458/vehicles/scene a bus] with [/EN#128457/people boys] with [/EN#128461/clothing yellow baseball caps] on .
+[/EN#128456/people Asian children] fill [/EN#128458/vehicles/scene the inside of a bus] , [/EN#0/notvisual they] are wearing [/EN#128460/clothing orange caps] and [/EN#128461/clothing yellow caps] .
+[/EN#128456/people Many school age children] riding [/EN#128458/vehicles/scene a subway] all wearing [/EN#128461/clothing red and yellow hats] .
+[/EN#128456/people Many children] wearing [/EN#128461/clothing hats] aboard [/EN#128458/vehicles/scene a train] .
+[/EN#128455/people A group of kids] are riding [/EN#128458/vehicles/scene a subway] .

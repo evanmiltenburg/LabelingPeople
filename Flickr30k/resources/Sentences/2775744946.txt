@@ -1,0 +1,5 @@
+[/EN#72373/people A red-haired girl] in [/EN#72374/clothing a blue T-shirt] is swimming underwater in [/EN#72376/scene a pool] .
+[/EN#72373/people A child] in [/EN#72374/clothing a blue shirt] and [/EN#72375/clothing orange swim trunks] is underwater .
+[/EN#72373/people A child] smiling at [/EN#0/notvisual the camera] while swimming [/EN#72377/scene underwater] .
+[/EN#72373/people Child] dressed in [/EN#72374/clothing blue] is smiling underwater .
+[/EN#72373/people A child] swims underwater in [/EN#72376/scene a pool] .

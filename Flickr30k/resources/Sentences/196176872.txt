@@ -1,0 +1,5 @@
+[/EN#24142/people A man] with [/EN#24147/clothing a black helmet] on [/EN#24143/other smokes] [/EN#24143/other a cigarette] while [/EN#0/notvisual he] drives [/EN#24144/other his motorcycle] in [/EN#24146/vehicles traffic] .
+[/EN#24142/people A man] on [/EN#24144/other a motorcycle] with [/EN#24143/other a cigarette] hanging from [/EN#24145/bodyparts his mouth] .
+[/EN#24142/people A man] with [/EN#24143/other a cigarette] in [/EN#24145/bodyparts his mouth] is riding [/EN#24144/other a motorcycle] .
+[/EN#24142/people a chinese motorcyclist] smokes [/EN#24143/other a cigarette] in [/EN#24146/vehicles traffic] .
+[/EN#24142/people A man] on [/EN#24144/other a motorcycle] with [/EN#24143/other a cigarette]

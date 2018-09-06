@@ -1,0 +1,5 @@
+[/EN#234348/people A person] playing with [/EN#234349/animals a black dog] [/EN#234353/scene outdoors] on [/EN#234350/other a snowy lane] with [/EN#234356/other trees] in [/EN#0/notvisual the background] and [/EN#234357/other blue skies] above .
+[/EN#234348/people A person] wearing [/EN#234352/clothing dark clothes] is standing on [/EN#234358/bodyparts one leg] in [/EN#234350/scene snow] while [/EN#234349/animals a small dog] is jumping in front of [/EN#0/notvisual her] .
+[/EN#234348/people A person] , dressed in [/EN#234351/clothing black] , skipping down [/EN#234350/scene a snow] covered [/EN#234350/scene road] and playing with [/EN#234349/animals a black dog] .
+[/EN#234348/people A woman] and [/EN#234349/animals a cocker spaniel] are playing in [/EN#234350/scene the snow] .
+[/EN#234348/people A woman] and [/EN#234349/animals a terrier] play in [/EN#234350/scene the snow] .

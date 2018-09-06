@@ -1,0 +1,5 @@
+[/EN#107607/people A person] is in [/EN#0/notvisual the air] while riding [/EN#107608/vehicles his bicycle] on top of [/EN#107609/vehicles/scene the train] on [/EN#107611/scene a clear blue sky day] .
+[/EN#107607/people A person] is jumping over [/EN#107610/vehicles a train car] while on [/EN#107608/vehicles their bicycle] .
+[/EN#107607/people A person] on [/EN#107608/vehicles a bicycle] moving across [/EN#107609/vehicles/scene the top of a train] .
+[/EN#107607/people A man] on [/EN#107608/vehicles a bmx bike] jumps over [/EN#107609/vehicles/scene a train]
+[/EN#107607/people A man] jumps [/EN#107610/vehicles train cars] with [/EN#107608/vehicles his bike] .

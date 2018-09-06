@@ -1,0 +1,5 @@
+[/EN#104839/people A man] sits on [/EN#104840/scene a beach] staring out into [/EN#104842/scene the ocean] where [/EN#104841/other a rainbow] is beginning to form .
+[/EN#104839/people One person] is sitting on [/EN#104840/scene a beach] with [/EN#104841/other a rainbow] in [/EN#0/notvisual the background] .
+[/EN#104839/people A man] enjoys [/EN#104841/other a distant rainbow] sinking over [/EN#104842/scene the ocean] .
+[/EN#104839/people This person] is sitting and looking out to [/EN#104842/scene the ocean] .
+[/EN#104839/people A man] relaxing on [/EN#104840/scene the beach] by [/EN#104843/other rocks] and [/EN#104844/scene waves] .

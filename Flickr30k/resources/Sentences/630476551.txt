@@ -1,0 +1,5 @@
+[/EN#252117/people A young child] is splashed by [/EN#252120/scene the ocean 's waves] while [/EN#0/notvisual she] plays on [/EN#252118/scene the beach] .
+[/EN#252117/people A child] is playing on [/EN#252118/scene the beach] splashing [/EN#252121/scene water] everywhere .
+[/EN#252117/people A girl] splashing in [/EN#252120/scene a wave] at [/EN#252118/scene the beach] .
+[/EN#252117/people A girl] plays on [/EN#252119/scene the shore] at [/EN#252118/scene the beach] .
+[/EN#252117/people A child] is splashing in [/EN#252120/other the surf] .

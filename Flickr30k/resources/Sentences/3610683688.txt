@@ -1,0 +1,5 @@
+[/EN#131433/animals The dog] is walking out into [/EN#131435/scene the water] and [/EN#131437/other the sun] is casting [/EN#131434/other a reflection] off of [/EN#131435/scene the water] .
+[/EN#131433/animals a dog] is stepping out into [/EN#131435/scene the water] towards [/EN#131434/other the sun 's reflection] .
+[/EN#131433/animals A dog] walking through [/EN#131435/other the pound] .
+[/EN#131433/animals A dog] is wading in [/EN#131435/scene the water] .
+[/EN#131433/animals A dog] wading into [/EN#131435/scene the water]

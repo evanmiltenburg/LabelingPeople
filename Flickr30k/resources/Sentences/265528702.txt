@@ -1,0 +1,5 @@
+[/EN#64259/people A man] with [/EN#64260/bodyparts a beard] and [/EN#64262/clothing sunglasses] is standing in front of [/EN#64261/scene tree-covered hills] .
+[/EN#64259/people A man] in [/EN#64262/clothing sunglasses] and [/EN#64260/bodyparts a neatly trimmed beard] overlooks [/EN#64261/scene a woody valley] .
+[/EN#64259/people a man] posing with [/EN#64261/scene large grassy mountains] off in [/EN#0/notvisual the distance] .
+[/EN#64259/people A man] wearing [/EN#64262/clothing sunglasses] stands before [/EN#64261/scene a forested landscape] .
+[/EN#64259/people Bearded man] with [/EN#64262/clothing sunglasses] in [/EN#64261/scene the mountains] .

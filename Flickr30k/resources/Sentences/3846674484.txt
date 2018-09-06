@@ -1,0 +1,5 @@
+[/EN#145386/people A little girl] in [/EN#145390/clothing a floral print dress] plays in [/EN#145387/scene a tub of water] with [/EN#145389/other water lilies] .
+[/EN#145386/people A little girl] has [/EN#145388/bodyparts her hands] in [/EN#145387/scene a pool of water] [/EN#0/notvisual that] has [/EN#145389/other lily pads] .
+[/EN#145386/people A young girl] looks at [/EN#145388/bodyparts her hands] as [/EN#0/notvisual she] holds [/EN#0/notvisual them] under [/EN#145387/scene the water] .
+[/EN#145386/people A young girl] has [/EN#145388/bodyparts her hands] in [/EN#145387/scene a tub of water] with [/EN#145389/other leaves] in [/EN#0/notvisual it] .
+[/EN#145386/people A girl] putting [/EN#145388/bodyparts her hands] into [/EN#145387/scene dirty water] .

@@ -1,0 +1,5 @@
+[/EN#173303/people An old lady] in [/EN#173308/clothing a big black coat] holds [/EN#173302/people the hand of a young boy] in [/EN#173309/clothing a blue jacket] in [/EN#173306/vehicles/scene the subway] .
+[/EN#173304/people Man] with [/EN#173311/clothing umbrella] watching [/EN#173303/people an older woman] with [/EN#173302/people child] in [/EN#173306/scene a parking garage] .
+[/EN#173302/people A child] stand with [/EN#173303/people an elderly women] at [/EN#173306/scene the 96th Street subway station] .
+[/EN#173303/people A grandma] holds [/EN#173307/bodyparts her grandson 's hand] at [/EN#173312/other a train stop] .
+[/EN#173303/people A lady] and [/EN#173302/people a boy] are holding [/EN#173307/bodyparts hands] .

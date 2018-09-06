@@ -1,0 +1,5 @@
+[/EN#205050/people A group of people] wait at [/EN#205055/other the bottom of the stairs] that [/EN#205057/people two men] in [/EN#205054/clothing suits] are walking down .
+[/EN#205050/people A crowd of people] gather at [/EN#205056/other the bottom of steps] as [/EN#0/notvisual they] look up at [/EN#205057/people two men] wearing [/EN#205054/clothing suits] .
+[/EN#205050/people A group of people] is gathered outside [/EN#205052/scene a building] listening to [/EN#205051/people a man] on [/EN#205055/other the stairs] speak .
+[/EN#205051/people A man] in [/EN#205053/clothing a business suit] speaking to [/EN#205059/people somebody] while [/EN#205050/people a crowd] gathers in front of [/EN#0/notvisual him] .
+[/EN#205050/people A number of people] are gathered in [/EN#205058/scene a plaza] at [/EN#205056/other the foot of the steps] to [/EN#205052/scene a building] .

@@ -1,0 +1,5 @@
+[/EN#108339/people a boy] in [/EN#108342/clothing a blue shirt] and [/EN#108341/clothing blue jeans] runs across [/EN#108340/scene a playground]
+[/EN#108339/people A boy] in [/EN#108341/clothing blue jeans] runs on [/EN#108340/scene the track] at [/EN#108343/other the local school] .
+[/EN#108339/people A boy] in [/EN#108341/clothing jeans] runs on [/EN#108340/scene a track] .
+[/EN#108339/people A boy] runs on [/EN#108344/other colorful lines] .
+[/EN#108339/people A small boy] running [/EN#108340/scene track]

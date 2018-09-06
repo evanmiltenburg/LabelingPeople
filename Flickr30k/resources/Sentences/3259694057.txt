@@ -1,0 +1,5 @@
+[/EN#105119/animals A sandy colored dog] walking toward [/EN#0/notvisual the camera] with [/EN#105120/clothing its leash] attached and dragging below .
+[/EN#105119/animals Dog] with [/EN#105122/other lease] poses for [/EN#0/notvisual the camera] with [/EN#105123/bodyparts its tongue] hanging out .
+[/EN#105119/animals A dog] walking around with [/EN#105120/clothing his leash] but not with [/EN#105124/people his owner] .
+[/EN#105119/animals A tan and white dog] walks in [/EN#105121/other the sand] on [/EN#105125/scene a nice day] .
+[/EN#105119/animals a dog] walks across [/EN#105121/other the sand] .

@@ -1,0 +1,5 @@
+[/EN#7691/people/scene A baker] looks at [/EN#0/notvisual the camera] while leaning on [/EN#7698/other his spatula] at [/EN#7694/other the oven door] .
+[/EN#7691/people A man] cooking [/EN#7696/other something] in [/EN#7693/other an old fire] burning [/EN#7694/other oven] with [/EN#7699/clothing a apron] on .
+[/EN#7691/people A man] is sitting next to [/EN#7694/other a pizza oven] .
+[/EN#7691/people a man] taking [/EN#7697/other a pizza] out of [/EN#7692/other an oven]
+[/EN#7691/people A man] making [/EN#7695/other fire roasted pizza] .

@@ -1,0 +1,5 @@
+[/EN#100340/people A person] is standing in [/EN#100342/scene shallow water] with [/EN#100341/other a fishing net] as [/EN#100345/other the sun] goes down .
+[/EN#100340/people Person] wading in [/EN#100343/scene the lake] with [/EN#100341/other a fishing net] at [/EN#100344/scene sunset] .
+[/EN#100340/people Girl] holding [/EN#100341/other a net] and walking in [/EN#100342/scene a lake] at [/EN#100344/scene sunset]
+[/EN#100340/people A person] holding [/EN#100341/other a net] is standing in [/EN#100343/scene the water] .
+[/EN#100340/people A person] is walking in [/EN#100342/scene the water] with [/EN#100341/other a net] .

@@ -1,0 +1,5 @@
+[/EN#159307/people A large crowd of people] are congregated at [/EN#159310/scene the end of the street] in [/EN#159309/scene a city] .
+[/EN#159312/other The red flag] in [/EN#159311/other the march] is next to [/EN#159311/people the person] in [/EN#159314/clothing a green jacket] .
+[/EN#159307/people The people] are marching through [/EN#159310/scene the street] .
+[/EN#159307/people crowd of people] walking in [/EN#159308/scene the street]
+[/EN#159307/people People] are walking in [/EN#159310/scene the street] .

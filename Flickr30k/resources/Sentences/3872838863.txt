@@ -1,0 +1,5 @@
+[/EN#146494/people A young man] in [/EN#146503/clothing a yellow floral shirt] ponders [/EN#146500/other purchases] in [/EN#146492/scene an outdoor market] while [/EN#146497/people an older man] in [/EN#146504/clothing a gray t-shirt] texts on [/EN#146499/other his phone] in [/EN#0/notvisual the background] .
+[/EN#146491/people Several people] are shopping at [/EN#0/notvisual what] looks to be [/EN#146492/scene some kind of street market] with [/EN#146505/vehicles cars] and [/EN#146498/other graffiti] and [/EN#146498/other street art] in [/EN#0/notvisual the background] .
+[/EN#146495/people Boy] standing in [/EN#146496/other a marketplace] looking [/EN#146502/other vegetables] and [/EN#146493/other fruits] .
+[/EN#146491/people People] are buying and selling [/EN#146493/other fruit] in [/EN#146492/scene an open air market] .
+[/EN#146491/people people] shopping in [/EN#146492/scene a fruit market] .

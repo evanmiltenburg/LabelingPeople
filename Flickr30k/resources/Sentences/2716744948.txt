@@ -1,0 +1,5 @@
+[/EN#68336/people A man] with [/EN#68339/clothing no shirt] sits on [/EN#68338/other a rock] in front of [/EN#68335/scene a blue building] with [/EN#68340/scene a tin roof] .
+[/EN#68336/people A man] wearing [/EN#68339/clothing no shirt] is sitting outside [/EN#68335/scene a barn] on [/EN#68338/other a rock]
+[/EN#68336/people A shirtless man] is resting on [/EN#68338/other a log] next to [/EN#68335/scene his house] .
+[/EN#68336/people a shirtless man] sitting on [/EN#68338/other a rock] by [/EN#68335/scene a blue building] .
+[/EN#68335/scene A blue house] with [/EN#68336/people a shirtless man] outside .

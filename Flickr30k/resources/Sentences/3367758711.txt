@@ -1,0 +1,5 @@
+[/EN#113410/people Two women] with [/EN#113414/bodyparts their heads] covered crossing [/EN#113411/scene the road] in front of [/EN#113412/vehicles buses] .
+[/EN#0/notvisual There] are [/EN#113410/people two women] crossing [/EN#113411/scene the street] in front of [/EN#113412/vehicles two buses] .
+[/EN#113410/people Two women] walk on [/EN#113411/scene the street] in front of [/EN#113412/vehicles two buses] .
+[/EN#113410/people Two women] walk in front of [/EN#113413/vehicles/scene a bus] to cross [/EN#113411/scene the road] .
+[/EN#113410/people Two women] in [/EN#113415/clothing headwraps] are hurrying past [/EN#113412/vehicles buses] .

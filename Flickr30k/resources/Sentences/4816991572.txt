@@ -1,0 +1,5 @@
+[/EN#206444/people A woman] wearing [/EN#206450/clothing a brown jacket] , [/EN#206447/clothing a brown scarf] and carrying [/EN#206446/clothing a brown purse] and [/EN#206454/clothing white bag] walks down [/EN#206445/scene a street] in [/EN#206449/scene a busy neighborhood] .
+[/EN#206444/people A woman] with [/EN#206447/clothing a large scarf] walks [/EN#206445/scene the paved sidewalk] and reaches into [/EN#206446/clothing her purse] .
+[/EN#206444/people A woman] thinks about [/EN#206452/scene her day] as [/EN#0/notvisual she] is walking through [/EN#206451/scene the street] .
+[/EN#206445/scene The streets] are busy and [/EN#206453/people people] contemplate [/EN#206455/other their futures] .
+[/EN#206444/people A woman] in [/EN#206448/clothing a tan jacket] walks down [/EN#206449/scene a busy sidewalk] .

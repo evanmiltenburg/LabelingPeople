@@ -1,0 +1,5 @@
+[/EN#142722/people A young girl] bends down to [/EN#0/notvisual her] [/EN#142723/other green pail] [/EN#0/notvisual which] [/EN#0/notvisual she] is using to mop [/EN#142726/scene the tile floor] .
+[/EN#142722/people A small girl] in [/EN#142725/clothing a purple jacket] is holding [/EN#142724/other a mop] and peering into [/EN#142723/other a bucket] .
+[/EN#142722/people A young girl] , wearing [/EN#142725/clothing a purple jacket] , is holding [/EN#142723/other a bucket] and [/EN#142724/other a mop] .
+[/EN#142722/people A young girl] is using [/EN#142724/other a mop] and [/EN#142723/other bucket] on [/EN#142726/scene the floors] .
+[/EN#142722/people a kid] trying to mop [/EN#142726/scene the floor]

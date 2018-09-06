@@ -1,0 +1,5 @@
+[/EN#26865/people A woman] wearing [/EN#26868/clothing a white beanie] is riding [/EN#26866/vehicles a bike] down [/EN#26867/scene the street] .
+[/EN#26865/people A person] in [/EN#26872/other winter gear] is riding [/EN#26866/vehicles a bike] near [/EN#26867/scene an intersection] .
+[/EN#26865/people A person] biking down [/EN#26867/scene a city street] in [/EN#26870/clothing gloves] and [/EN#26868/clothing a warm hat] .
+[/EN#26865/people A woman] in [/EN#26869/clothing a winter coat] riding [/EN#26866/vehicles a bike] down [/EN#26867/scene a city street] .
+[/EN#26865/people A lady] in [/EN#26868/clothing a white hat] and [/EN#26871/clothing sunglasses] riding [/EN#26866/vehicles a bicycle] .

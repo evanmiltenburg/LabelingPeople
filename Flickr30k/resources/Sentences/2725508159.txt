@@ -1,0 +1,5 @@
+[/EN#68814/people A child] appears to be in [/EN#68815/other a canoe] wearing [/EN#68817/clothing a life jacket] on [/EN#68816/scene the lake] , [/EN#68816/scene clear blue water] and [/EN#68821/scene blue sky] .
+[/EN#68814/people A young child] wearing [/EN#68817/clothing an orange life vest] holding [/EN#68820/other an oar] paddling [/EN#68815/other a blue kayak] in [/EN#68816/scene a body of water] .
+[/EN#68814/people A girl] is kayaking in [/EN#68815/vehicles/scene a blue boat] , on [/EN#68816/scene a blue lake] wearing [/EN#68817/clothing an orange life jacket] .
+[/EN#68814/people A young kayaker] wearing [/EN#68817/clothing an orange life-vest] is [/EN#68819/other all alone] in [/EN#68816/scene a lake] .
+[/EN#68814/people A young person] is kayaking in [/EN#68816/scene blue water] .

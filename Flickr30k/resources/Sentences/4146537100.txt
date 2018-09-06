@@ -1,0 +1,5 @@
+[/EN#156985/people A boy] in [/EN#156987/clothing a white t-shirt] is cutting [/EN#156986/people the hair of another person] .
+[/EN#156985/people A man] is giving [/EN#156986/people someone] [/EN#156983/bodyparts a haircut] while holding [/EN#156984/other a brush] .
+[/EN#156985/people A man] in [/EN#156987/clothing a white shirt] is clipping [/EN#156986/bodyparts another man 's hair] .
+[/EN#156985/people Black man] in [/EN#156987/clothing white shirt] shaving [/EN#156986/bodyparts another man 's head] .
+[/EN#156985/people A barber] shaving [/EN#156986/bodyparts someone 's head] .

@@ -1,0 +1,5 @@
+[/EN#107263/people A man] in [/EN#107266/clothing a light colored uniform] is outside [/EN#107267/scene an Asian restaurant] cleaning [/EN#107264/other the display window] [/EN#0/notvisual which] features [/EN#107268/other exotic foods] hanging on [/EN#107270/other hooks] .
+[/EN#107263/people A man] is cleaning [/EN#107264/other the glass] outside of [/EN#107267/scene a restaurant] with [/EN#107268/other food] hanging behind [/EN#107264/other the window] .
+[/EN#107263/people Man] in [/EN#107266/clothing all white clothing] washing [/EN#107264/other the windows] on [/EN#107267/scene the outside of a chinese restaurant] .
+[/EN#107263/people A man] in [/EN#107269/clothing a white hat] is cleaning [/EN#107264/other a display window] at [/EN#107267/scene a restaurant] .
+[/EN#107263/people a worker] in [/EN#107266/clothing uniform] is cleaning off [/EN#107264/scene the windows of a restaurant] .

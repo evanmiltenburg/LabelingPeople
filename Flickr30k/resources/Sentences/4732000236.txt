@@ -1,0 +1,5 @@
+[/EN#196592/people A young man] wearing [/EN#196595/clothing shorts] , [/EN#196598/clothing sandals] , and [/EN#196594/clothing a red shirt] , stands next to [/EN#196593/other a downed tree] , blocking [/EN#196596/scene a path] .
+[/EN#196592/people A man] in [/EN#196594/clothing a red shirt] and [/EN#196595/clothing brown short] is standing in front of [/EN#196593/other a tree] looking at [/EN#196597/other his device] .
+[/EN#196592/people A man] in [/EN#196594/clothing a red shirt] calling [/EN#196599/people someone] while [/EN#196593/other a tree] is down on [/EN#196600/scene the pavement] .
+[/EN#196592/people A man] in [/EN#196594/clothing a red shirt] looks at [/EN#196593/other a fallen tree] .
+[/EN#196592/people A man] observes [/EN#196593/other tree] [/EN#0/notvisual that] has fell down .

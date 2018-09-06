@@ -1,0 +1,5 @@
+[/EN#256078/people A band] is performing [/EN#256082/other an outdoor concert] with [/EN#256079/instruments guitars] and [/EN#256080/other drum set] .
+[/EN#256081/people A crowd of people] watching [/EN#256082/other a Hazel Dickens bluegrass concert] .
+[/EN#256081/people A crowd] looks on as [/EN#256078/people a band] performs at [/EN#256084/other a bluegrass concert] .
+[/EN#256078/people A band] plays while [/EN#256081/people the audience] watches [/EN#0/notvisual them] on [/EN#256083/scene stage] .
+[/EN#256078/people A band] [/EN#0/notvisual that] is performing on [/EN#256083/scene stage] for [/EN#256081/people a crowd] .

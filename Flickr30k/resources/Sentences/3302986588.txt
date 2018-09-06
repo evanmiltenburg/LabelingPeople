@@ -1,0 +1,5 @@
+[/EN#108032/people A little boy] in [/EN#108035/clothing a green shirt] holds [/EN#108033/clothing a blue umbrella] in front of [/EN#108036/scene a doorway] framed by [/EN#108037/other orange signs] with [/EN#108038/other Asian writing] on [/EN#0/notvisual them] .
+[/EN#108032/people A little boy] in [/EN#108035/clothing a green striped t-shirt] standing out [/EN#108034/scene front of a Chinese laundry]
+[/EN#108032/people A young boy] standing in front of [/EN#108034/scene a building] holding [/EN#108033/clothing a blue umbrella] .
+[/EN#108032/people A young boy] with [/EN#108033/clothing a blue umbrella] waits outside [/EN#108034/scene a shop] .
+[/EN#108032/people A young boy] holding [/EN#108033/clothing a blue umbrella] .

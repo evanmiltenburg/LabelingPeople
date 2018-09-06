@@ -1,0 +1,5 @@
+[/EN#181464/people A man] sitting on [/EN#181466/other a chair] on [/EN#181467/scene the sidewalk] playing [/EN#181465/instruments a musical instrument] .
+[/EN#181464/people A street musician] plays [/EN#181465/instruments his accordion] in [/EN#181468/other hopes] of earning [/EN#181469/other some money] .
+[/EN#181464/people A person] is sitting in [/EN#181466/other a chair] with [/EN#181465/instruments an accordion] in [/EN#181470/bodyparts his lap] .
+[/EN#181464/people An old man] plays [/EN#181465/instruments an accordion] on [/EN#181467/scene the sidewalk] .
+[/EN#181464/people A man] is playing [/EN#181465/instruments accordion] on [/EN#181467/scene the sidewalk] .

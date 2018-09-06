@@ -1,0 +1,5 @@
+[/EN#259105/people A woman] with [/EN#259114/bodyparts short brown hair] wearing [/EN#259112/clothing black pants] , and [/EN#259106/clothing a light blue sweater] is smiling and skiing atop [/EN#259107/scene a snow covered mountain] with [/EN#259110/scene a scenic view] in [/EN#0/notvisual the background] .
+[/EN#259105/people A woman] in [/EN#259106/clothing a light blue fleece jacket] poses at [/EN#259107/scene the top of a snowy hill] with [/EN#259111/scene a range of mountains] behind [/EN#0/notvisual her] .
+[/EN#259105/people A woman] in [/EN#259106/clothing a blue shirt] and [/EN#259115/other snow skis] smiles for [/EN#0/notvisual the camera] in front of [/EN#259116/other some trees] and [/EN#259111/scene snowy mountains] .
+[/EN#259105/people A woman skier] in [/EN#259106/clothing a blue sweatshirt] smiles atop [/EN#259107/scene a large hill] .
+[/EN#259105/people A woman] is standing on [/EN#259107/scene a mountain] , surrounded by [/EN#259110/scene snow] .

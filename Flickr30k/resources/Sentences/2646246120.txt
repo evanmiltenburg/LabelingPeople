@@ -1,0 +1,5 @@
+[/EN#63703/people People] enjoying [/EN#63699/scene the sandy beach] near [/EN#63707/scene the water] with [/EN#63701/other a funny looking tree] on [/EN#63699/scene the beach] .
+[/EN#63700/people A man] wearing [/EN#63702/clothing a red tank top] and [/EN#63708/clothing white hat] is sitting on [/EN#63704/other a towel] at [/EN#63699/scene the beach] .
+[/EN#63699/scene The beach] with [/EN#63700/people a person] in [/EN#63702/clothing a red tank top] sitting under [/EN#63701/other a small tree] .
+[/EN#63700/people A man] in [/EN#63702/clothing red] sits under [/EN#63706/other the shade of a small tree] on [/EN#63699/scene the beach] .
+[/EN#63700/people A person] in [/EN#63702/clothing red] sitting on [/EN#63699/scene a beach] .

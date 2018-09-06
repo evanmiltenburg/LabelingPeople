@@ -1,0 +1,5 @@
+[/EN#212775/people A very muscular man] , wearing [/EN#212779/clothing only jeans] , is running along [/EN#212776/scene a boardwalk] near [/EN#212776/scene a large body of water] with [/EN#212782/vehicles/scene boats] .
+[/EN#212775/people A shirtless man] in [/EN#212779/clothing blue jeans] runs down [/EN#212776/scene a dock] towards [/EN#0/notvisual the camera] .
+[/EN#212775/people A guy] running on [/EN#212781/scene a pretty day] on [/EN#212776/scene the dock] .
+[/EN#212775/people A shirtless man] is running down [/EN#212778/scene a wharf] .
+[/EN#212775/people A shirtless man] running on [/EN#212776/scene a boat dock] .

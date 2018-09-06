@@ -1,0 +1,5 @@
+[/EN#24587/people A young boy] is getting [/EN#24590/bodyparts his haircut] by [/EN#24586/people a man] wearing [/EN#24588/clothing a black shirt] .
+[/EN#24586/people A barber] in [/EN#24588/clothing a black shirt] carefully cutting [/EN#24589/bodyparts a young boy 's hair] .
+[/EN#24586/people A father] is giving [/EN#24587/people his child] [/EN#24590/bodyparts a haircut] with [/EN#24591/other scissors] .
+[/EN#24587/people Boy] getting [/EN#24589/bodyparts his haircut] with [/EN#24591/other scissors] .
+[/EN#24586/people A man] is cutting [/EN#24589/bodyparts a child 's hair] .

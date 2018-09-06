@@ -1,0 +1,5 @@
+[/EN#234025/people A boy] is on [/EN#234026/scene the beach] with [/EN#234028/other a paddle] in [/EN#234033/bodyparts his hand] as [/EN#0/notvisual he] walks through [/EN#234030/scene the ocean water] .
+[/EN#234025/people a boy] is carrying [/EN#234028/other a paddle] whilst walking through [/EN#234030/scene the water] on [/EN#234026/scene a beach] .
+[/EN#234025/people A boy] with [/EN#234028/other an oar] walks out of [/EN#234032/other the surf] and onto [/EN#234026/scene a beach] .
+[/EN#234025/people A little boy] walks with [/EN#234028/other a paddle] out into [/EN#234031/other the sand] .
+[/EN#234025/people a boy] holding [/EN#234027/other an oar walk] through [/EN#234030/scene the ocean] .

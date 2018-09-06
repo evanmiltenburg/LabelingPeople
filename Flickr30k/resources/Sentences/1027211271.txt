@@ -1,0 +1,5 @@
+[/EN#780/people A young woman] with [/EN#781/bodyparts short blond-hair] wearing [/EN#782/clothing jeans] and [/EN#783/clothing a striped long-sleeved sweater] jumping in [/EN#787/scene midair] on [/EN#784/other a skateboard] with [/EN#785/other trees] in [/EN#0/notvisual the background] .
+[/EN#780/people A young man] is in [/EN#787/scene midair] while skateboarding at [/EN#788/scene a skate park] with [/EN#786/people people] watching [/EN#0/notvisual him] in [/EN#0/notvisual the background] .
+[/EN#780/people This person] is performing [/EN#0/notvisual a trick] in skateboarding [/EN#791/other competition] , with [/EN#786/people people] watching in [/EN#0/notvisual the background] .
+[/EN#780/people A boy] jumps on [/EN#784/other his skateboard] while [/EN#786/people a crowd] watches
+[/EN#780/people Someone] skateboarding at [/EN#788/scene a skate park] .

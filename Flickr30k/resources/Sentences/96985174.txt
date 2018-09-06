@@ -1,0 +1,5 @@
+[/EN#284542/people A hiker] is walking along [/EN#284544/scene a path] at [/EN#284543/scene the foot of some snowcapped mountains] .
+[/EN#284542/people A man] with [/EN#284545/other ski poles] stands in front of [/EN#284543/scene a mountain] .
+[/EN#284542/people The skier] is looking at [/EN#284543/scene the snowcapped mountains] .
+[/EN#284542/people The person] is walking in [/EN#284543/scene the mountains] .
+[/EN#284542/people A man] walks near [/EN#284543/scene mountains] .

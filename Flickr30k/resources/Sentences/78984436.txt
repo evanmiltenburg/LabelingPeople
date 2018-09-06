@@ -1,0 +1,5 @@
+[/EN#276434/animals a German shepherd dog] is running behind [/EN#276440/animals another German shepherd dog] [/EN#0/notvisual that] is carrying [/EN#276438/other a stick] in [/EN#276439/bodyparts its mouth] .
+[/EN#276434/animals A German Shepherd dog] following [/EN#276436/animals/people another German Shepherd] [/EN#0/notvisual who] has [/EN#276438/other a stick] in [/EN#276439/bodyparts its mouth] .
+[/EN#276435/animals Two German shepherd dogs] are running with [/EN#276438/other an object] in [/EN#276439/bodyparts one 's mouth] .
+[/EN#276434/animals/people A German Shepherd] chases [/EN#0/notvisual another] with [/EN#276438/other a stick] in [/EN#276439/bodyparts his mouth] .
+[/EN#276435/animals/people Two German shepherds] playing with [/EN#276438/other a stick] .

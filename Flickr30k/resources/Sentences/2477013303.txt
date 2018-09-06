@@ -1,0 +1,5 @@
+[/EN#52429/people A white-haired older man] in [/EN#52430/clothing a green striped shirt] is conducting in [/EN#52434/other the social sciences] building .
+[/EN#52429/people A gray-haired man] in [/EN#52430/clothing a striped shirt] is lecturing at [/EN#52431/scene a podium] .
+[/EN#52429/people A white-haired man] is staring at [/EN#52432/other a metal rod] .
+[/EN#52429/people A man] is standing at [/EN#52431/other a desk] about to [/EN#52435/other speak] .
+[/EN#52429/people A man] is conducting [/EN#52433/people an orchestra] .

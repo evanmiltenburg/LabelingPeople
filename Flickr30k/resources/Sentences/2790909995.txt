@@ -1,0 +1,5 @@
+[/EN#73148/animals A dog] running in [/EN#73149/other the sand] , [/EN#73150/scene grass] in [/EN#0/notvisual the background] .
+[/EN#73148/animals A brown dog] is running though [/EN#73149/other some sand] .
+[/EN#73148/animals A dog] running through [/EN#73149/other the sand] .
+[/EN#73148/animals A dog] is jumping in [/EN#73149/other some sand] .
+[/EN#73148/animals A dog] runs through [/EN#73149/other sand] .

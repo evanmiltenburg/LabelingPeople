@@ -1,0 +1,5 @@
+[/EN#97361/people A girl] in [/EN#97362/clothing a black sweater] is sitting on [/EN#97363/other the curb] reading [/EN#97364/other white papers] .
+[/EN#97361/people A little girl] with [/EN#97365/clothing a backpack] sitting down looking at [/EN#97364/other a book] .
+[/EN#97361/people The little girl] in [/EN#97362/clothing the blue sweater] is reading [/EN#97364/other her book] .
+[/EN#97361/people A girl] in [/EN#97362/clothing a school uniform] is reading in [/EN#97367/scene her town] .
+[/EN#97361/people A child] reads while sitting on [/EN#97366/scene a stone street] .

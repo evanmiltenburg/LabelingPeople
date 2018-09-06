@@ -1,0 +1,5 @@
+[/EN#276184/people A man] in [/EN#276188/clothing a brown shirt] and [/EN#276189/clothing jeans] kneels with [/EN#276190/clothing no shoes] on [/EN#276185/other a rug] near [/EN#276187/other a blue wall] and [/EN#276191/scene a black gate] .
+[/EN#276184/people A man] [/EN#0/notvisual that] has removed [/EN#276186/clothing his shoes] to kneel on [/EN#276185/other a mat] .
+[/EN#276184/people A man] , with [/EN#276186/clothing his shoes] off , is kneeling on [/EN#276185/other a rug] .
+[/EN#276184/people A man] with [/EN#276186/clothing his shoes] off is sitting on [/EN#276185/other a rug] .
+[/EN#276184/people An Indian man] is kneeling on [/EN#276185/other a rug] praying .

@@ -1,0 +1,5 @@
+[/EN#163812/people A woman] in [/EN#163814/clothing a blue coat] pulling [/EN#163813/people a toddler] , wearing [/EN#164000/clothing red] , on [/EN#163815/other a sled] through [/EN#163816/scene the snow] .
+[/EN#163812/people Woman] in [/EN#163814/clothing blue coat] and [/EN#163817/clothing boots] dragging [/EN#163813/people a small child] through [/EN#163816/scene the snow] on [/EN#163815/other a sled]
+[/EN#163812/people A woman] in [/EN#163814/clothing a blue jacket] dragging [/EN#163813/people a child] on [/EN#163815/other a sled] through [/EN#163816/scene the snow] .
+[/EN#163812/people A mother] happily pulling [/EN#163813/people her baby] in [/EN#163816/scene the snow] with [/EN#163815/other a sled] .
+[/EN#163813/people A toddler] being pulled in [/EN#163815/other a sled] in [/EN#163816/scene the snow] .

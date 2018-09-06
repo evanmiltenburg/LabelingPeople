@@ -1,0 +1,5 @@
+[/EN#11059/people A man] holding [/EN#11060/animals the leash of a pug] bends down to look in [/EN#11061/other a bin] at [/EN#11065/other an outdoor rummage sale] .
+[/EN#11059/people A person] holding [/EN#11062/animals a small dog] on [/EN#11060/clothing a leash] is bending over and looking through [/EN#11063/other items] .
+[/EN#11059/people A man] with [/EN#11062/animals a pug dog] bends over to pick [/EN#11063/other something] off [/EN#11066/scene the sidewalk] .
+[/EN#11062/animals A dog] waits as [/EN#11059/other his owner rummages] through [/EN#11061/other a collection of stuff] .
+[/EN#11059/people A man] with [/EN#11062/animals a pug] on [/EN#11060/clothing a leash] bending down to examine [/EN#11063/other merchandise] .

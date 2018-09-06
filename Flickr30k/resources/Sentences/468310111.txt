@@ -1,0 +1,5 @@
+[/EN#190088/other A cow herd] grazing in [/EN#190084/scene the pasture] with [/EN#190083/animals a dog] running in [/EN#0/notvisual the foreground] .
+[/EN#190083/animals A black and white dog] running in [/EN#190084/scene the grass] where [/EN#0/notvisual there] are [/EN#190085/animals some cows] .
+[/EN#190083/animals A black and white dog] is running through [/EN#190084/scene a cow field] .
+[/EN#190086/animals A calf] is running in [/EN#190084/scene the fields] while [/EN#190085/animals cows] look on .
+[/EN#190083/animals A dog] running in [/EN#190084/scene the grass] around [/EN#190085/animals sheep] .

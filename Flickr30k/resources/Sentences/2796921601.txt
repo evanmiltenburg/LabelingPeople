@@ -1,0 +1,5 @@
+[/EN#73415/people A young boy] , wearing [/EN#73417/clothing a red sports uniform] , stands in [/EN#73416/scene the middle of an empty sports field] under [/EN#73419/scene a dark blue sky] .
+[/EN#73415/people A young boy] , wearing [/EN#73417/clothing a red soccer shirt] , [/EN#73418/clothing socks] and [/EN#73421/other cleats] , is standing on [/EN#73416/scene a field of green grass] .
+[/EN#0/notvisual You] have [/EN#73415/people a boy] [/EN#0/notvisual who] is looking at [/EN#73423/other something] in [/EN#73422/clothing soccer clothes] on [/EN#73416/scene a grass field] .
+[/EN#73415/people A young person] wearing [/EN#73417/clothing a red shirt] and [/EN#73418/clothing socks] is standing by [/EN#0/notvisual himself] .
+[/EN#73415/people A boy] stands ready to play in [/EN#73420/other a soccer game]

@@ -1,0 +1,5 @@
+[/EN#10894/people A little boy] in [/EN#10895/clothing a red shirt] is making [/EN#10896/bodyparts a face] into [/EN#0/notvisual the camera] while waiting at [/EN#10897/scene a go-cart track] .
+[/EN#10894/people A little boy] grinning with [/EN#10898/vehicles a go-cart] in [/EN#0/notvisual the background] .
+[/EN#10894/people The small boy] is excited [/EN#0/notvisual he] will be riding [/EN#10898/vehicles a go-cart] .
+[/EN#10894/people A boy] stands beside [/EN#10899/other a railing] at [/EN#10900/scene a go kart track] .
+[/EN#10894/people A little boy] is standing in [/EN#10901/other line] for [/EN#10898/vehicles go-karts] .

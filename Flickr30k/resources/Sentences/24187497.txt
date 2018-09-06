@@ -1,0 +1,5 @@
+[/EN#47939/people A bunch of construction workers] work on [/EN#47942/scene a street] while [/EN#47940/people one worker] walks toward [/EN#0/notvisual the camera] .
+[/EN#47940/people Man] wearing [/EN#47943/clothing yellow hard hat] and [/EN#47941/clothing orange shirt] with [/EN#47947/other yellow strips] walking .
+[/EN#47940/people A construction worker] walks down [/EN#47942/scene the street] , while [/EN#47945/other others] are at [/EN#47946/other work] .
+[/EN#47940/people A man] in [/EN#47941/clothing an orange shirt] and [/EN#47943/clothing yellow hard hat] walks on [/EN#47942/scene a road] .
+[/EN#47939/people Workers] are repairing [/EN#47942/scene a road] under [/EN#47944/scene a bridge] .

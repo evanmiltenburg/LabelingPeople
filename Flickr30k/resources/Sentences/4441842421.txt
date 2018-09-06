@@ -1,0 +1,5 @@
+[/EN#168401/people A man] in [/EN#168402/clothing a blue shirt] is walking and [/EN#0/notvisual there] is [/EN#168403/other a blue bucket] [/EN#0/notvisual that] can be seen .
+[/EN#168401/people This man] is wearing [/EN#168402/clothing a shirt] [/EN#0/notvisual that] says " coolest [/EN#168404/people dad] in [/EN#168406/other the world] " .
+[/EN#168401/people A man] walks along wearing [/EN#168404/people a ' coolest dad] [/EN#168402/clothing ' T-shirt] .
+[/EN#168401/people A man] stands in [/EN#168405/scene field] next to [/EN#168403/other a blue bucket] .
+[/EN#168401/people A guy] in [/EN#168402/clothing a blue t-shirt] is in [/EN#168405/scene the park] .

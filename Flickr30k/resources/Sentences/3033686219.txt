@@ -1,0 +1,5 @@
+[/EN#89042/animals A black dog] with [/EN#89043/clothing a red collar] sitting in [/EN#89044/other the sand] .
+[/EN#89042/animals A brown dog] sits on [/EN#89045/scene the beach] .
+[/EN#89042/animals/scene a black lab] sits in [/EN#89044/other the sand] .
+[/EN#89042/animals A black dog] lays in [/EN#89044/other the sand] .
+[/EN#89042/animals A black dog] sits in [/EN#89044/other sand] .

@@ -1,0 +1,5 @@
+[/EN#118588/people A young woman] with [/EN#118592/clothing a black hat] and [/EN#118591/clothing red and black jacket] , [/EN#118593/other swings] on [/EN#118589/other a red-orange ball] attached to [/EN#118590/other a blue rope] .
+[/EN#0/notvisual There] is [/EN#118588/people a older child] riding [/EN#118589/other a red rubber ball] tied onto [/EN#118590/other a blue rope] and is swing from [/EN#0/notvisual it] .
+[/EN#118588/people A young man] in [/EN#118591/clothing a red vest] swings from [/EN#118590/other a blue rope] atop [/EN#118589/other a pink ball] .
+[/EN#118588/people A kid] with [/EN#118591/clothing a red coat] swinging on [/EN#118589/other a ball] tied to [/EN#118590/other a rope] .
+[/EN#118588/people A woman] in [/EN#118591/clothing a red jacket] swings on [/EN#118590/other a rope] .

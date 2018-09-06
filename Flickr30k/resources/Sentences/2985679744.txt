@@ -1,0 +1,5 @@
+[/EN#85606/people A man] is sitting on [/EN#85607/vehicles/scene a train] resting [/EN#85608/bodyparts his hand] against [/EN#85609/bodyparts his face] .
+[/EN#85606/people A man] sitting on [/EN#85607/vehicles/scene a subway] looking at [/EN#0/notvisual the camera] .
+[/EN#85606/people A man] sitting on [/EN#85610/vehicles public transportation] .
+[/EN#85606/people A man] sitting on [/EN#85607/vehicles/scene a subway] .
+[/EN#85606/people A bearded man] on [/EN#85607/vehicles/scene a train]

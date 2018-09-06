@@ -1,0 +1,5 @@
+[/EN#9799/people A man] wearing [/EN#9801/clothing a green cap] , [/EN#9802/clothing green shirt] and [/EN#9804/clothing khaki pants] is cooking over [/EN#9800/other a fire] in [/EN#9807/scene the forest]
+[/EN#9799/people A man] squatted at [/EN#9800/other an outdoor campfire] cooking [/EN#9803/other food] and smiling .
+[/EN#9799/people A man] in [/EN#9801/clothing a hat] and [/EN#9805/clothing sandals] is cooking [/EN#9803/other a meal] over [/EN#9800/other a campfire] .
+[/EN#9799/people A squatting man] is cooking on [/EN#9800/other an open fire] in [/EN#9806/other the rain] .
+[/EN#9799/people a guy] wearing [/EN#9802/clothing a green shirt] is cooking on [/EN#9800/other a campfire]

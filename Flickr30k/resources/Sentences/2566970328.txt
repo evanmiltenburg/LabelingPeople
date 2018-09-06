@@ -1,0 +1,5 @@
+[/EN#58534/people A man] is drawing [/EN#58535/people a caricature of two young women] .
+[/EN#58534/people The artist] is sketching [/EN#58535/people a picture of two women] .
+[/EN#58535/people Two girls] sitting on [/EN#58536/other a chair] being sketched .
+[/EN#58534/people An artist] is drawing [/EN#58535/people a picture of two woman] .
+[/EN#58534/people A man] drawing [/EN#58535/people a picture of two women] .

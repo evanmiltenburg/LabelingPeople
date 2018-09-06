@@ -1,0 +1,5 @@
+[/EN#81002/clothing A tattooed man dress] in [/EN#81003/clothing black] with [/EN#81004/clothing an orange hat] sings and plays [/EN#80999/instruments the guitar] .
+[/EN#80998/people Musician] sings into [/EN#81000/other a microphone] while playing [/EN#80999/instruments a guitar] .
+[/EN#80998/people a man] with [/EN#80999/instruments a guitar] in [/EN#81001/people a band] singing into [/EN#81000/other a microphone] .
+[/EN#80998/people A man] with [/EN#80999/instruments a guitar] addresses [/EN#81000/other a microphone] .
+[/EN#80998/people A guitar player] sings on [/EN#81005/scene a stage] .

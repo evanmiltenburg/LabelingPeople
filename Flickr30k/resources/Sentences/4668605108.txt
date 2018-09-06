@@ -1,0 +1,5 @@
+[/EN#188462/people A blond woman] in [/EN#188463/clothing a blue tank top] glances at [/EN#188467/other an unidentified figure] in front of [/EN#0/notvisual the camera] .
+[/EN#188462/people A blond woman] in [/EN#188463/clothing a blue low-cut top] at [/EN#188465/scene a bar or restaurant] is looking at [/EN#188464/people a man] .
+[/EN#188462/people A woman] in [/EN#188463/clothing a low cut blue shirt] is in [/EN#188466/scene a crowded room] [/EN#0/notvisual that] looks [/EN#188468/other smokey] .
+[/EN#188462/people A blond woman] in [/EN#188463/clothing a blue low cut shirt] is looking past [/EN#0/notvisual the camera] .
+[/EN#188462/people The woman] is talking to [/EN#188464/people someone] .

@@ -1,0 +1,5 @@
+[/EN#99760/people a woman] with [/EN#99765/clothing big earrings] , holding up [/EN#99766/other her prize ticket] , with [/EN#99761/other a huge piece of chocolate cake] in front of [/EN#0/notvisual her]
+[/EN#99760/people A woman] in [/EN#99762/clothing a black scarf] sitting with [/EN#99761/other a big piece of cake] in front of [/EN#0/notvisual her] .
+[/EN#0/notvisual There] is [/EN#99761/other a piece of cake] on [/EN#99763/other the table] with [/EN#99764/other a spoon] next to [/EN#0/notvisual it] .
+[/EN#99760/people A woman] seated at [/EN#99763/other a table] in front of [/EN#99761/other cake] .
+[/EN#99760/people A woman] wearing [/EN#99762/clothing a scarf] is having [/EN#99761/other cake] .

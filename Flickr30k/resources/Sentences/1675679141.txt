@@ -1,0 +1,5 @@
+[/EN#18535/people A man] stands on [/EN#18536/other a concrete ledge] and casts [/EN#18542/other his fishing pole] into [/EN#18538/scene the water] below .
+[/EN#18535/people A jacketed man] with [/EN#18541/other his back] to [/EN#0/notvisual the camera] is overlooking [/EN#18538/scene the water] .
+[/EN#18535/people A man] in [/EN#18537/clothing a heavy coat] fishes from [/EN#18536/other a concrete platform] .
+[/EN#18535/people A man] fishing from [/EN#18536/scene the shore] in [/EN#18540/other the winter time] .
+[/EN#18535/people A person] in [/EN#18537/clothing warm clothing] fishes off [/EN#18536/other a wall] .

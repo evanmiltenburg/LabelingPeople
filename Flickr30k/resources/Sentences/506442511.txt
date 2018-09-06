@@ -1,0 +1,5 @@
+[/EN#227846/people A group of bikers] stop stopping to rest with [/EN#227852/other a pile of luggage] on [/EN#0/notvisual the ground] .
+[/EN#227846/people A group of people] on [/EN#227849/other a bicycle trip] taking [/EN#227850/scene a break] on [/EN#227848/scene a street corner] .
+[/EN#227846/people A group of cyclists] are taking [/EN#227851/scene a break] on [/EN#227853/scene a street corner] .
+[/EN#227846/people a group] on [/EN#227846/people bicyclists] by [/EN#227854/vehicles their bikes] in [/EN#227847/scene a parking lot]
+[/EN#227846/people A group of bicycle riders] on [/EN#227848/scene street corner] .

@@ -1,0 +1,5 @@
+[/EN#165936/people Person] in [/EN#165937/clothing a bright green jacket] jogs on [/EN#165939/scene a road] along [/EN#165940/scene a field] .
+[/EN#165936/people A man] in [/EN#165937/clothing lime jacket] and [/EN#165941/clothing red hat] jogs on [/EN#165939/scene an empty road] .
+[/EN#165936/people A man] is walking in [/EN#165937/clothing a bright yellow jacket] .
+[/EN#165936/people a man] is jogging outside on [/EN#165938/scene a cloudy day] .
+[/EN#165936/people A man] is jogging in [/EN#165938/scene the street] .

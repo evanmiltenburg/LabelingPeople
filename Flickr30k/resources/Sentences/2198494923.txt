@@ -1,0 +1,5 @@
+[/EN#33601/people A girl] in [/EN#33604/clothing a purple shirt] , covered in [/EN#33602/scene snow] , sliding down [/EN#33602/scene a snowy hill] .
+[/EN#33601/people A young girl] plays in [/EN#33602/scene the snow] wearing [/EN#33605/clothing gloves] and [/EN#33606/clothing no coat] .
+[/EN#33601/people A girl] falling down in [/EN#33602/scene the snow] as [/EN#0/notvisual another] looks on .
+[/EN#33601/people A girl] in [/EN#33601/other motion] on [/EN#0/notvisual snow-covered ground] .
+[/EN#33601/people A young girl] is sliding down [/EN#33602/scene a snowbank] .

@@ -1,0 +1,5 @@
+[/EN#7334/people A woman] is serving [/EN#7335/other a dish] to [/EN#7336/people another woman] in [/EN#7337/clothing a red and white dress] .
+[/EN#7338/people People] outside [/EN#7339/scene a building] on [/EN#7340/scene a brick paved sidewalk] .
+[/EN#7338/people A group of people] are standing outside [/EN#7339/scene a building] .
+[/EN#7336/people A woman] orders [/EN#7335/other a dish] at [/EN#7341/people a street kitchen vendor] .
+[/EN#7334/people A woman] is cooking [/EN#7342/other food] in [/EN#7340/scene the street] .

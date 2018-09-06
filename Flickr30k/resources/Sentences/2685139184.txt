@@ -1,0 +1,5 @@
+[/EN#66012/people A gray-haired , shoeless woman] is sitting on [/EN#66013/other a blanket] under [/EN#66014/clothing a lavendar umbrella] on [/EN#66015/scene the side of a street] .
+[/EN#66012/people A woman] [/EN#0/notvisual that] appears to be [/EN#66018/people homeless] sits on [/EN#66013/other a Winnie the Pooh table cover] on [/EN#66015/scene the side of a street] .
+[/EN#66012/people The person] is sitting on [/EN#66013/scene a Winnie the pooh sheet] and holding [/EN#66014/clothing a purple umbrella] .
+[/EN#66012/people The man] is sitting outside on [/EN#66015/scene the street] under [/EN#66014/clothing a purple umbrella] .
+[/EN#66012/people A man] leaning against [/EN#66017/other a wall] with [/EN#66014/clothing an umbrella] .

@@ -1,0 +1,5 @@
+[/EN#44698/people A man] with [/EN#44699/clothing a blue breathing mask] and [/EN#44700/clothing bandanna] sitting in [/EN#44701/other a chair] outside [/EN#44702/scene a tent] .
+[/EN#44698/people A man] is reclining in [/EN#44701/other a camping chair] , smoking [/EN#44703/other a cigarette] through [/EN#44699/clothing a dusk mask] .
+[/EN#44698/people A man] smokes [/EN#44703/other a cigarette] through [/EN#44704/clothing a dusk mask] while sitting in [/EN#44701/other a chair] .
+[/EN#44698/people A male] is sitting in [/EN#44701/other a chair] with [/EN#44704/clothing a blue surgical mask] on .
+[/EN#44698/people A man] wearing [/EN#44699/clothing a face mask] sits near [/EN#44702/scene a tent] and [/EN#44705/vehicles a trailer] .

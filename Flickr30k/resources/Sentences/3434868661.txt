@@ -1,0 +1,5 @@
+[/EN#118038/people A female] in [/EN#118041/clothing a gray coat] and with [/EN#118042/clothing a red purse] is sitting on [/EN#118040/other a green park bench] reading [/EN#118039/other a newspaper] .
+[/EN#118038/people An elderly woman] is sitting on [/EN#118040/other a teal park bench] reading [/EN#118039/other a French newspaper] .
+[/EN#118038/people This person] is sitting on [/EN#118040/other a teal bench] reading [/EN#118039/other a newspaper] .
+[/EN#118038/people An older person] is reading [/EN#118039/other a French newspaper] on [/EN#118040/other a bench] .
+[/EN#118038/people An older woman] reading [/EN#118039/other the paper] on [/EN#118040/other a park bench] .

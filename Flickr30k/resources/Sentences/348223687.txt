@@ -1,0 +1,5 @@
+[/EN#121538/people A man] dressed in [/EN#121544/clothing jeans] and [/EN#121539/clothing a black jacket] walking down [/EN#121541/scene the street] in [/EN#121542/other the winter time] .
+[/EN#121538/people a man] wearing [/EN#121539/clothing a black jacket] walks down [/EN#121540/scene a sidewalk] in [/EN#121542/other the winter] in [/EN#121543/scene the city] .
+[/EN#121538/people A man] in [/EN#121539/clothing a jacket] ins walking on [/EN#121540/scene the sidewalk] with [/EN#121545/other leafless trees] .
+[/EN#121538/people A man] looking to [/EN#121546/scene the left] walking down [/EN#121541/scene the street] .
+[/EN#121538/people A man] is walking in [/EN#121541/scene the street] .

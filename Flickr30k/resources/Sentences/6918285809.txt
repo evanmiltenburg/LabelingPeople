@@ -1,0 +1,5 @@
+[/EN#261369/people A man] in [/EN#261371/clothing a brown shirt] standing behind [/EN#261370/scene a bar] pouring [/EN#261372/other a drink] from [/EN#261374/other a metal shaker] .
+[/EN#261369/people A man] with [/EN#261371/clothing a black shirt] pours [/EN#261372/other a mixed drink] into [/EN#261373/other a glass] behind [/EN#261370/scene a bar] .
+[/EN#261369/people A bartender] in [/EN#261371/clothing a black shirt] pours [/EN#261372/other a freshly mixed drink] into [/EN#261373/other a glass] .
+[/EN#261369/people A man] in [/EN#261371/clothing a black shirt] is mixing [/EN#261372/other drinks]
+[/EN#261369/people A bartender] is mixing [/EN#261372/other a drink] .

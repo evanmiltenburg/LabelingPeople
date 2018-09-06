@@ -1,0 +1,5 @@
+[/EN#196129/people The lead singer of a band] is wearing [/EN#196138/clothing white glasses] while standing in front of [/EN#196134/scene a microphone stand] with [/EN#196135/clothing a white boa] wrapped around [/EN#0/notvisual it] .
+[/EN#196127/people A band] is performing consisting of [/EN#196127/people one guitarist] , [/EN#196129/people one singer] , and [/EN#196130/people one drummer] .
+[/EN#196127/people A rock band] performing on [/EN#196132/scene a stage] [/EN#196127/people a guitarist] , [/EN#196129/people singer] and [/EN#196130/people a drummer]
+[/EN#196128/people Men] playing during [/EN#196133/other a concert] wearing [/EN#196136/clothing feather boas] .
+[/EN#196128/people Three men] performing on [/EN#196132/scene a stage] with [/EN#196137/other smoke] .

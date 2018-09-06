@@ -1,0 +1,5 @@
+[/EN#225857/people A man] in [/EN#225861/clothing tan shorts] and [/EN#225858/clothing black shirt] is walking [/EN#225860/animals a very small dog] in [/EN#225859/scene a deserted area] .
+[/EN#225857/people A man] wearing [/EN#225858/clothing a black shirt] and [/EN#225861/clothing shorts] is taking [/EN#225860/animals his small dog] out for [/EN#225863/other a walk]
+[/EN#225857/people A Caucasian adult male] is walking [/EN#225860/animals a small dog] at [/EN#225862/scene sunset] near [/EN#225859/scene a pier] .
+[/EN#225857/people A man] in [/EN#225858/clothing a black shirt] walking [/EN#225860/animals his dog] during [/EN#225862/scene the sunset] .
+[/EN#225857/people Man] walking [/EN#225860/animals a small pug] .

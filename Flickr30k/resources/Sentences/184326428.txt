@@ -1,0 +1,5 @@
+[/EN#21850/people A man] in [/EN#21853/clothing a yellow shirt] and [/EN#21860/clothing light colored pants] sits next to [/EN#21857/people a woman] wearing [/EN#21856/clothing a light colored hat] in front of [/EN#21852/people a camper] while [/EN#21850/people a young boy] in [/EN#21858/clothing a yellow shirt] and [/EN#21859/clothing jeans] tosses [/EN#21854/other rocks] .
+[/EN#21851/people Young people] sit on [/EN#21854/other the rocks] beside [/EN#21852/vehicles their recreational vehicle] .
+[/EN#21851/people Young family] relaxing on [/EN#21854/other rocks] outside of [/EN#21852/scene their mobile home] .
+[/EN#21851/people Three people] are sitting on [/EN#0/notvisual the ground] outside of [/EN#21852/vehicles a trailer] .
+[/EN#21850/people The boy] in [/EN#21853/clothing the yellow shirt] is skipping [/EN#21854/other stones] .

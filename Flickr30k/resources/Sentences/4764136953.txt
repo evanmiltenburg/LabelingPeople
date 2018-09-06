@@ -1,0 +1,5 @@
+[/EN#200557/people A man] with [/EN#200557/instruments a guitar] and [/EN#200559/people a woman] in [/EN#200568/clothing a black dress] and [/EN#200569/clothing white headband] stand on [/EN#200558/scene stage] at [/EN#200562/other a concert] .
+[/EN#200559/other Zoey Dashnell] walks towards [/EN#200564/other a microphone] carrying [/EN#200566/instruments a tambourine] .
+[/EN#200556/people Two people] , [/EN#200557/people a man] and [/EN#200559/people a woman] , are on [/EN#200558/scene a stage] at [/EN#200556/people a band] .
+[/EN#200556/people Two musicians] on [/EN#200558/scene stage] in front of [/EN#200565/scene a microphone stand] .
+[/EN#200556/people The band] prepares for [/EN#200567/other the next song] .

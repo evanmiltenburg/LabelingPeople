@@ -1,0 +1,5 @@
+[/EN#62281/people A man] wearing [/EN#62282/clothing a large backpack] is sitting in [/EN#62286/scene the grass] near [/EN#62283/scene a lake] .
+[/EN#62281/people Man] kneeling while petting [/EN#62284/animals large bird] in front of [/EN#62283/scene river] .
+[/EN#62281/people A man] with [/EN#62282/clothing a backpack] sits on [/EN#62284/other a fallen log] by [/EN#62283/scene the river] .
+[/EN#62281/people A man] sitting on [/EN#62284/scene an old piece of wood outside] .
+[/EN#62281/people A guy] on [/EN#62284/other a log] .

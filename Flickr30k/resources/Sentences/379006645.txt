@@ -1,0 +1,5 @@
+[/EN#142703/animals The black and brown dog] walks toward [/EN#0/notvisual the camera] , in [/EN#142704/scene an enclosed , snowy area] .
+[/EN#142703/animals A black and brown dog] is running between [/EN#142708/other two cement barriers] with [/EN#142704/scene snow] .
+[/EN#142703/animals The brown and black dog] is running through [/EN#142704/scene a snowy street] .
+[/EN#142705/clothing Black] and [/EN#142703/animals tan small dog] walking with [/EN#142709/bodyparts perked ears] .
+[/EN#142703/animals a dog] runs down [/EN#142707/other the cold aisle] .

@@ -1,0 +1,5 @@
+[/EN#202868/people A man] wearing [/EN#202875/clothing a hat] is standing at [/EN#202872/scene a food stand] leaning on [/EN#202871/other a cooler] .
+[/EN#202868/people A man] in [/EN#202868/people a white cowboy] selling [/EN#202877/other concessions] under [/EN#202874/clothing a green umbrella] .
+[/EN#202868/people A Latino man] leans on [/EN#202871/other one of the coolers] in [/EN#202872/scene his food stand] .
+[/EN#202868/people A man] sells [/EN#202870/other Mexican food] by [/EN#202876/scene a parking lot] .
+[/EN#202868/people A man] sitting at [/EN#202870/other a food] and [/EN#202878/scene drink kiosk] .

@@ -1,0 +1,5 @@
+[/EN#146150/people An older woman] with [/EN#146156/bodyparts short blond-hair] wearing [/EN#146154/clothing a white shirt] and [/EN#146155/clothing beige pants] , and carrying [/EN#146151/clothing a mustard colored purse] is crossing [/EN#146152/scene a city street] .
+[/EN#146150/people A woman] wearing [/EN#146151/clothing a beige purse] is crossing [/EN#146153/scene the street] at [/EN#146152/scene a crosswalk] with [/EN#146157/other a Spring sign] behind [/EN#0/notvisual her] .
+[/EN#146150/people An older blond lady] in [/EN#146154/clothing a white shirt] crosses [/EN#146153/scene the street] .
+[/EN#146150/people A woman] in [/EN#146154/clothing a white shirt] is walking across [/EN#146152/scene the street] .
+[/EN#146150/people An older woman] in [/EN#146154/clothing a white shirt] crosses [/EN#146153/scene the street] .

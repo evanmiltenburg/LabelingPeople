@@ -1,0 +1,5 @@
+[/EN#37384/people A child] in [/EN#37385/clothing a black wetsuit] is in [/EN#37386/scene the waves] on [/EN#37387/other a surfboard] .
+[/EN#37384/people A young boy] in [/EN#37385/clothing a black wetsuit] surfs in [/EN#37388/scene the water] .
+[/EN#37384/people A kid] on [/EN#37387/other a surfboard] riding [/EN#37386/scene a small wave] .
+[/EN#37384/people A small boy] in [/EN#37385/clothing black] is surfing .
+[/EN#37384/people A young surfer] rides [/EN#37386/scene a wave] .

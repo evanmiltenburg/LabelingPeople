@@ -1,0 +1,5 @@
+[/EN#104245/people A man] has [/EN#104250/other a chainsaw] and is carving [/EN#104246/other a block of ice] .
+[/EN#104245/people a man] carves [/EN#104246/scene an ice block] with [/EN#104250/other a chainsaw] .
+[/EN#104245/people A man] in [/EN#104251/clothing black] shaving [/EN#104246/other a ice sculpture] .
+[/EN#104245/people Man] carves [/EN#104246/other block of ice] with [/EN#104248/other a saw] .
+[/EN#104245/people Man] with [/EN#104246/other an ice sculpture]

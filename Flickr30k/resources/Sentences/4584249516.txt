@@ -1,0 +1,5 @@
+[/EN#180411/people A man] in [/EN#180412/clothing a blue shirt] and [/EN#180415/clothing gray pants] is walking on [/EN#180414/scene a shady gravel path] past [/EN#180416/other a beige-colored structure] .
+[/EN#180411/people A man] in [/EN#180415/clothing dress pants] and [/EN#180412/clothing a blue dress shirt] is walking in [/EN#180417/other the shadows of nature] .
+[/EN#180411/people A man] with [/EN#180419/bodyparts dark hair] wearing [/EN#180412/clothing a blue shirt] and [/EN#180415/clothing long pants] walks in [/EN#180413/scene a dark area] .
+[/EN#180411/people An asian man] in [/EN#180415/clothing khakis] is walking in [/EN#180414/scene his driveway] .
+[/EN#180411/people A balding man] walks on [/EN#180413/scene a path] shaded by [/EN#180418/other trees] .

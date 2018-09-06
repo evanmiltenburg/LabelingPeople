@@ -1,0 +1,5 @@
+[/EN#56023/people White man] standing on [/EN#56024/other scaffolding] wearing [/EN#56025/clothing an orange jacket] painting [/EN#56030/other a ceiling] .
+[/EN#56023/people A man] in [/EN#56025/clothing an orange vest] stands on [/EN#56026/other scaffolding] while [/EN#56031/other painting] .
+[/EN#56023/people A man] on [/EN#56024/other a scaffold] paints [/EN#56032/other a wall] with [/EN#56027/other a paint roller] .
+[/EN#56023/people A man] wearing [/EN#56025/clothing orange] is painting [/EN#56033/other a wall] white .
+[/EN#56029/other A main] in [/EN#56028/clothing a construction hat] primes [/EN#56034/other wall] .

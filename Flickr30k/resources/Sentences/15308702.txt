@@ -1,0 +1,5 @@
+[/EN#15755/people A person] dressed in [/EN#15761/clothing a black shirt] and [/EN#15757/people a person] dressed in [/EN#15762/clothing a blue shirt] are standing on [/EN#15756/other a mound of sand] .
+[/EN#15755/people One person] helping [/EN#15757/people another person] up to [/EN#15756/other the top of a mound] of [/EN#15756/other sand] underneath [/EN#15765/scene a cloudy sky] .
+[/EN#15755/people A man] helps [/EN#15757/people a woman] with [/EN#15763/other a walking stick] up [/EN#15756/other a large sand dune] .
+[/EN#15755/people A man] helping [/EN#15757/people an older woman] to [/EN#15759/other the top of a sand dune] .
+[/EN#0/notvisual There] are [/EN#15764/people 2 men] climbing [/EN#15756/other a sand dune] .

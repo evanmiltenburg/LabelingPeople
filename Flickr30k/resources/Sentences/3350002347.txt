@@ -1,0 +1,5 @@
+[/EN#111727/people A young boy] is quite excited in [/EN#111730/other the throes of a ballgame] .
+[/EN#111727/people A little boy] is running excitedly in [/EN#111728/scene a mountainous area] .
+[/EN#111727/people A little boy] in [/EN#111732/clothing a striped shirt] and [/EN#111733/clothing jeans] is running .
+[/EN#0/notvisual What] is [/EN#111727/people this ecstatic child] running [/EN#111731/other towards] ?
+[/EN#111727/people The boy] is outside enjoying [/EN#111729/scene a summer day] .

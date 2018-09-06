@@ -1,0 +1,5 @@
+[/EN#67452/people Three people] stand at [/EN#67453/scene the top of an outdoor staircase] .
+[/EN#67452/people Three youths] standing at [/EN#67453/other the top of stairs] talking .
+[/EN#67456/people two men] and [/EN#67454/people a woman] at [/EN#67453/other the top of a flight] of [/EN#67455/other stairs]
+[/EN#67452/people Three people] talk at [/EN#67453/other the top of some stairs] .
+[/EN#67452/people Three people] stand at [/EN#67453/other the top of stairs] .

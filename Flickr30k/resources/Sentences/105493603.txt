@@ -1,0 +1,5 @@
+[/EN#1399/people Two people] sitting beside [/EN#0/notvisual each other] at [/EN#1401/other a table] with [/EN#1403/other food] on [/EN#0/notvisual it] smiling .
+[/EN#1399/people A couple] wearing [/EN#1405/clothing white sweaters] sit at [/EN#1401/other a restaurant table] .
+[/EN#1400/people A man] and [/EN#1402/people woman] seated at [/EN#1401/other a table] together .
+[/EN#1400/people A man] and [/EN#1402/people a woman] eating [/EN#1404/other dinner] together .
+[/EN#1400/people a man] and [/EN#1402/people woman] wearing [/EN#1405/clothing khaki] smiling .

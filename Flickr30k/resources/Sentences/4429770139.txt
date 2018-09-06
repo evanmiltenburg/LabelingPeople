@@ -1,0 +1,5 @@
+[/EN#167349/people A woman] in [/EN#167353/clothing yellow] is standing next to [/EN#167350/other a concrete railing] and [/EN#167355/other a high voltage] warning [/EN#167359/other sign] , behind [/EN#167351/scene a flight of stairs] .
+[/EN#167349/people A woman] in [/EN#167353/clothing yellow] gazes from [/EN#167354/scene a concrete balcony] , [/EN#0/notvisual there] is [/EN#167351/other a stairway] in [/EN#0/notvisual the foreground] .
+[/EN#167349/people A middle-aged lady] in [/EN#167353/clothing yellow] is on [/EN#167356/other a platform] waiting for [/EN#167357/vehicles/scene a train] .
+[/EN#167349/people A woman] in [/EN#167352/clothing a yellow shirt] at [/EN#167358/scene a train station] .
+[/EN#167349/people A woman] is standing behind [/EN#167350/other a wall] .

@@ -1,0 +1,5 @@
+[/EN#6285/animals A snarling brown and black dog] corners [/EN#6284/animals a brown long-haired cat] under [/EN#6286/other a wooden bench] .
+[/EN#6284/animals A cat] under [/EN#6286/other the bench] hissing with [/EN#6285/animals a dog] growling and trying to get [/EN#0/notvisual it] .
+[/EN#6287/clothing Black] and [/EN#6285/animals brown dog] growling at [/EN#6284/animals brown cat] hiding under [/EN#6286/other wooden bench] .
+[/EN#6285/animals A dog] toys with [/EN#6284/animals a cat] hiding under [/EN#6286/other a bench] .
+[/EN#6285/animals A snarling dog] approaches [/EN#6284/animals a hissing cat] .

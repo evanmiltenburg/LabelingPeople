@@ -1,0 +1,5 @@
+[/EN#33999/people Two teenage boys] in [/EN#34003/clothing Hawaiian shirts] , [/EN#34009/other one] in [/EN#34001/clothing a jester 's hat] , [/EN#34008/other laugh] and [/EN#34007/other gesture] in [/EN#34002/scene a locker room] .
+[/EN#33999/people Two guys] in [/EN#34002/scene a locker room] , [/EN#34000/people the guy] in [/EN#34005/clothing the orange shirt] laughing .
+[/EN#34000/people One boy] laughs at [/EN#0/notvisual another] wearing [/EN#34001/clothing an elf hat] in [/EN#34002/scene the locker room] .
+[/EN#33999/people Two boys] sit in [/EN#34003/clothing Hawaiian shorts] , and [/EN#34010/other one sports] [/EN#34001/clothing an elf hat] .
+[/EN#33999/people Kids] in [/EN#34002/scene a locker room] at [/EN#34011/other school] getting ready for [/EN#34006/other a play] .

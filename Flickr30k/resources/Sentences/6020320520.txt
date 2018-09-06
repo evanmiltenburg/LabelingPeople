@@ -1,0 +1,5 @@
+[/EN#246658/people A young man] wearing [/EN#246661/clothing a blue shirt] and [/EN#246660/clothing sunglasses] is playing [/EN#246659/instruments an electric guitar] .
+[/EN#246658/people A man] wearing [/EN#246660/clothing sunglasses] is playing [/EN#246659/instruments guitar] at [/EN#246662/scene an outdoor venue] .
+[/EN#246658/people A guy] plays [/EN#246659/instruments his guitar] wearing [/EN#246660/clothing his sunglasses] .
+[/EN#246658/people teenager] playing [/EN#246659/instruments guitar] live in [/EN#246663/people a rock band]
+[/EN#246658/people A young man] is playing [/EN#246659/instruments guitar] on [/EN#246664/scene stage] .

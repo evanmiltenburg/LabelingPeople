@@ -1,0 +1,5 @@
+[/EN#115004/people A man] in [/EN#115009/clothing glasses] is sitting behind [/EN#115005/other a table] laden with [/EN#115010/other military memorabilia] .
+[/EN#115004/people A man] is sitting at [/EN#115006/other a table full of military items] and [/EN#115008/clothing clothing] .
+[/EN#115004/people A man] sits at [/EN#115005/other a table] crowded with [/EN#115006/other military merchandise] .
+[/EN#115004/people A large man] sits in [/EN#115011/scene a military accessories store] .
+[/EN#115004/people Veteran] shows off [/EN#115006/other different things] from [/EN#115007/other a war] .

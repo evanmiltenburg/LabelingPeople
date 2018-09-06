@@ -1,0 +1,5 @@
+[/EN#155787/people A man] wearing [/EN#155795/clothing casual clothes] is sleeping on [/EN#155789/other a public bench] with [/EN#155791/clothing a plastic bag] and [/EN#155788/other beer bottle] at [/EN#0/notvisual his side] .
+[/EN#155787/people A man] wearing [/EN#155794/clothing blue jeans] and [/EN#155793/clothing a vest] is laying down on [/EN#155789/other a city bench] next to [/EN#155788/other a beer bottle] .
+[/EN#155787/people A man] sleeps [/EN#155797/scene outdoors] in [/EN#155790/scene a city park] with [/EN#155798/people people] all around [/EN#0/notvisual him] .
+[/EN#155787/people A man] is resting atop [/EN#155789/other concrete structure] in [/EN#155792/scene a crowded area] .
+[/EN#155787/people A man] with [/EN#155788/other a beer] and [/EN#155791/clothing a plastic bag] sleeping in [/EN#155790/scene a park] .

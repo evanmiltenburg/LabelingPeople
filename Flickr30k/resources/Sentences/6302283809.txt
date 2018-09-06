@@ -1,0 +1,5 @@
+[/EN#252051/people Two people] dressed in [/EN#252060/clothing white clothing] are fencing while [/EN#252054/people other people] are in [/EN#0/notvisual the background] .
+[/EN#252051/people Two people] are fencing [/EN#0/notvisual each other] and of [/EN#0/notvisual them] has lost [/EN#252053/clothing their shoe] .
+[/EN#252051/people Two fencers] are battling [/EN#0/notvisual one another] in [/EN#252057/scene gym area] with [/EN#252054/people onlookers] .
+[/EN#252051/scene Two people fence] and [/EN#252058/other one] loses [/EN#252053/clothing his shoe] .
+[/EN#252051/people Fencers] compete for [/EN#252056/scene a point] .

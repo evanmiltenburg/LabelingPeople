@@ -1,0 +1,5 @@
+[/EN#90339/vehicles A giant monster truck] leaps over [/EN#90340/vehicles crushed cars] and into [/EN#0/notvisual the air] inside [/EN#90343/scene the arena] .
+[/EN#90339/vehicles A black and green monster truck] flying through [/EN#0/notvisual the air] .
+[/EN#90339/vehicles A monster truck] in [/EN#0/notvisual the air] above [/EN#90340/vehicles demolished cars] .
+[/EN#90339/vehicles A monster truck] soars into [/EN#0/notvisual the air] at [/EN#90343/scene an arena] .
+[/EN#90339/other A four wheeler] jumping [/EN#90340/vehicles cars] .

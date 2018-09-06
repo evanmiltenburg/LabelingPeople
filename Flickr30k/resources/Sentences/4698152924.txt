@@ -1,0 +1,5 @@
+[/EN#192485/people A man] in [/EN#192486/clothing a white shirt] with [/EN#192487/clothing a helmet] riding [/EN#192484/vehicles his big motorbike] next to [/EN#192474/vehicles a pink old car] .
+[/EN#192474/vehicles A pink car] and [/EN#192478/scene a motorcyclist pass] [/EN#192481/other a storefront] decorated with [/EN#192476/other mannequins] .
+[/EN#0/notvisual This] appear to be [/EN#192479/other an older picture] with [/EN#192474/vehicles an old car] .
+[/EN#192474/vehicles An old cadillac] and [/EN#192483/other a white motorcycle] on [/EN#192482/scene a street] .
+[/EN#192476/other Mannequins] on [/EN#192480/scene a rooftop of a saloon] in [/EN#192477/other Arizona] .

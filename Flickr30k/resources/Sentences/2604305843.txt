@@ -1,0 +1,5 @@
+[/EN#61029/people A person] sits in [/EN#61031/other a chair] suspended by [/EN#61036/other chains] at [/EN#61034/scene an amusement park] .
+[/EN#61029/people Man] is sitting in [/EN#61031/other a swing] on [/EN#61032/other a carnival ride] .
+[/EN#61029/people a lone swinger] on [/EN#61031/other a swing ride] at [/EN#61033/scene the fair] .
+[/EN#61029/people A child] on [/EN#61035/other an amusement park swing ride] .
+[/EN#61029/people Kid] rides high on [/EN#61037/other fair swing] .

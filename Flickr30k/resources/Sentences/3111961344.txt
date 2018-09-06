@@ -1,0 +1,5 @@
+[/EN#94404/people A man] with [/EN#94408/clothing glasses] is sitting at [/EN#94405/other a dinner table] in front of [/EN#94410/clothing a red and white] plates with [/EN#94407/other chopsticks] lying on [/EN#0/notvisual it] .
+[/EN#94404/people A dark-haired young man] wearing [/EN#94408/clothing glasses] sits at [/EN#94405/other a table] with [/EN#94409/other an empty plate] and [/EN#94407/other chopsticks] .
+[/EN#94404/people A man] in [/EN#94408/clothing glasses] sits with [/EN#94411/bodyparts his head] in [/EN#94412/bodyparts his hand] while at [/EN#94405/other a table] set for [/EN#94406/other an Asian dinner] .
+[/EN#94404/people An Asian man] waiting at [/EN#94405/other a table] for [/EN#94406/other his food] .
+[/EN#94404/people A young man] appears bored in [/EN#94413/scene a restaurant] .

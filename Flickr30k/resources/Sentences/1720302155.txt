@@ -1,0 +1,5 @@
+[/EN#19385/people A man] wearing [/EN#19386/clothing a white t-shirt] and [/EN#19387/clothing khaki pants] with [/EN#19388/other a tape measure] is repairing [/EN#19389/other shingles] on [/EN#19390/scene a roof] , surrounded by [/EN#19391/other tools] .
+[/EN#19385/people A man] on [/EN#19392/other a steep incline] wearing [/EN#19386/clothing a white shirt] is working on [/EN#19390/scene a roof] , with [/EN#19393/other lots of debris] [/EN#19394/people all] around .
+[/EN#19385/people Man] in [/EN#19386/clothing white shirt] and [/EN#19387/clothing tan pants] is putting [/EN#19389/other new shingles] on [/EN#19390/scene roof] .
+[/EN#19385/people A man] is working on top of [/EN#19390/scene a roof] , working on [/EN#19389/other the shingles] .
+[/EN#19385/people A man] doing [/EN#19395/other some roofing work] on [/EN#19390/scene a very steep roof] .

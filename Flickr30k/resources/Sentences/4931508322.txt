@@ -1,0 +1,5 @@
+[/EN#219791/other A panorama] with [/EN#219792/other cool colors] shows [/EN#219786/people a man] fishing on [/EN#0/notvisual the foreground] while [/EN#219793/other a bot] is visible on [/EN#0/notvisual the background]
+[/EN#219787/scene A very calm , peaceful lake] with [/EN#219788/scene a mountain] in [/EN#0/notvisual the background] and [/EN#219786/people a man] fishing .
+[/EN#219786/people A man] is fishing on [/EN#219787/scene a lake] with [/EN#219790/scene a forest] and [/EN#219788/scene mountain] in [/EN#0/notvisual the background] .
+[/EN#219786/people A man] is fishing on [/EN#219787/scene a vast calm lake] bordered by [/EN#219788/scene a misty mountain range] .
+[/EN#219789/people People] fishing on [/EN#219787/scene a still lake] with [/EN#219788/scene mountains] in [/EN#0/notvisual the background] .

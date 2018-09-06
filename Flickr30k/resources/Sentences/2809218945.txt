@@ -1,0 +1,5 @@
+[/EN#74212/people A worker] is wearing [/EN#74215/clothing a orange jumpsuit] stands near [/EN#74213/other a blue hose] , as [/EN#0/notvisual he] appears to be working on [/EN#74216/other the job] .
+[/EN#74212/people A man] in [/EN#74214/clothing an orange hard hat] and [/EN#74215/clothing orange jumpsuit] is about to grab onto [/EN#74213/other a large blue hose] .
+[/EN#74212/people A man] in [/EN#74215/clothing an orange jumpsuit] and [/EN#74214/clothing hard hat] stands in front of [/EN#74213/other a large reel of blue hose] .
+[/EN#74212/people A man] in [/EN#74215/clothing an orange jumpsuit] and matching [/EN#74214/clothing hard hat] is helping with [/EN#74213/other a blue hose]
+[/EN#74212/people A construction worker] getting [/EN#74212/other his moves] on .

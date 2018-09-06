@@ -1,0 +1,5 @@
+[/EN#184199/people Nine people] standing around and crossing [/EN#184203/scene a city street] named [/EN#184207/other Larkin] , near [/EN#184204/scene a wine store] and [/EN#184209/other a large sign] reading " [/EN#184200/scene Thain House] . "
+[/EN#184199/people People] walking and running on [/EN#184203/scene a street] , [/EN#184201/scene some crossing] and [/EN#184211/other others] going into [/EN#184206/scene stores] .
+[/EN#184199/people Various people] crossing [/EN#184202/scene the street] by [/EN#184204/scene a liquor store] and [/EN#184200/scene Thai House] .
+[/EN#184199/people People] walking outside near [/EN#184205/scene a set of buildings] and [/EN#184202/scene a city street] .
+[/EN#184208/people People] crossing [/EN#184203/scene the street] .

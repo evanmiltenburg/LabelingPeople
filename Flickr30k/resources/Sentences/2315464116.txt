@@ -1,0 +1,5 @@
+[/EN#41121/people A man] is standing in [/EN#41124/scene a grassy field] equipped with [/EN#41129/other a type of gardening tool] [/EN#0/notvisual which] [/EN#0/notvisual he] is using on [/EN#41123/scene the grass] .
+[/EN#41121/people A man] in [/EN#41122/clothing a blue shirt] and [/EN#41131/clothing brown pants] is raking [/EN#41132/other some] in [/EN#41125/scene between two paved paths] [/EN#0/notvisual that] are next to [/EN#41123/scene a field] .
+[/EN#41121/people A man] rakes [/EN#41128/scene his lush green garden] in front of [/EN#41124/scene a brown , barren field] and [/EN#41133/other trees] .
+[/EN#41121/people A man] [/EN#0/notvisual who] is working on [/EN#41124/scene field] to make [/EN#41134/scene way] to [/EN#41127/scene running water] using [/EN#41129/other stick] .
+[/EN#41121/people A man] in [/EN#41122/clothing a blue shirt] is working with [/EN#41129/other a tool] in [/EN#41123/scene a field] on [/EN#41130/other a plant] .

@@ -1,0 +1,5 @@
+[/EN#96310/people A man] laying on [/EN#0/notvisual the ground] , [/EN#96311/other stairs] behind [/EN#0/notvisual him] , [/EN#96312/other a tree] in front of [/EN#0/notvisual him] , and [/EN#96313/animals pigeons] are surrounding [/EN#96312/other the tree] .
+[/EN#96310/people A man] is laying down at [/EN#96311/other the bottom of some stairs] and is accompanied by [/EN#96313/animals pigeons] and [/EN#96312/other a tree] .
+[/EN#96310/people A person] laying down on [/EN#0/notvisual the ground] near [/EN#96314/other concrete steps] and [/EN#96313/animals pigeons] .
+[/EN#96310/people A person] laying on [/EN#0/notvisual the ground] below [/EN#96311/other some stairs] .
+[/EN#96310/people A person] is lying down on [/EN#96316/scene the sidewalk] .

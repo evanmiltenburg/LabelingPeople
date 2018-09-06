@@ -1,0 +1,5 @@
+[/EN#24459/people A woman] wearing [/EN#24464/clothing jeans] is reaching into [/EN#24460/other a large box] while [/EN#24461/people a man] wearing [/EN#24465/clothing jeans] stands beside [/EN#0/notvisual her] .
+[/EN#24459/people A woman] in [/EN#24462/clothing a black and yellow top] , selling [/EN#24460/other chocolate] to [/EN#24461/people a man] in [/EN#24463/clothing a white t-shirt] .
+[/EN#24459/people A woman] with [/EN#24460/other a box of candy] standing with [/EN#24461/people a man] [/EN#0/notvisual who] is holding [/EN#24466/other some of the candy] .
+[/EN#24459/people A woman] reaches into [/EN#24460/other a box of candy] while [/EN#24461/people a man] stands nearby .
+[/EN#24461/people man] and [/EN#24459/people a woman] standing outside .

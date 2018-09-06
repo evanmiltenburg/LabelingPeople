@@ -1,0 +1,5 @@
+[/EN#10049/people A blond individual] rides [/EN#10050/other a jet ski] in [/EN#10051/scene water] near [/EN#10052/scene a mountain range] .
+[/EN#10049/people A person] on [/EN#10053/vehicles a water vehicle] on [/EN#10051/scene a lake] surrounded by [/EN#10052/scene mountains] .
+[/EN#10049/people A girl] is wearing [/EN#10054/clothing her life vest] while [/EN#0/notvisual she] rides [/EN#10050/other a jet ski] .
+[/EN#10049/people A person] is in [/EN#10051/scene the ocean] in [/EN#10055/vehicles/scene the boat] wearing [/EN#10054/clothing life jacket] .
+[/EN#10049/people A woman] is riding [/EN#10053/vehicles her water bike] .

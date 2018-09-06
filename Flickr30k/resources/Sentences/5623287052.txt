@@ -1,0 +1,5 @@
+[/EN#239963/people A man] is standing in [/EN#239965/scene the aisle of a grocery store] and staring at [/EN#239965/other the cereal selection] .
+[/EN#239963/people A man] with [/EN#239964/vehicles a shopping cart] is studying [/EN#239970/other the shelves] in [/EN#239965/other a supermarket aisle] .
+[/EN#239963/people A man] in [/EN#239971/clothing a green jacket] at [/EN#239965/scene the supermarket] looking over [/EN#239965/other products] to buy .
+[/EN#239963/people An old man] with [/EN#239964/vehicles a cart] is shopping for [/EN#239965/other cereal] at [/EN#239965/scene a grocery store] .
+[/EN#239963/people A man] with [/EN#239964/vehicles a cart] in [/EN#239965/scene the grocery aisle of a store] .

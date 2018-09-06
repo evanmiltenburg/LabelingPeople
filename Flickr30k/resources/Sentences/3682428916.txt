@@ -1,0 +1,5 @@
+[/EN#136557/other A small white plane] with [/EN#136556/people someone] visible in [/EN#136560/other the window] is sitting on [/EN#136558/scene a runway] .
+[/EN#136557/other Small plane] with spinning [/EN#136561/other propeller] on [/EN#0/notvisual ground] , [/EN#136554/people pilot] seen through [/EN#136562/other windows] .
+[/EN#136554/people A person] sits inside [/EN#136557/other a small plane] on [/EN#0/notvisual the ground] .
+[/EN#136554/people A person] in [/EN#136557/vehicles an airplane] .
+[/EN#136557/scene a small jet] takes off .

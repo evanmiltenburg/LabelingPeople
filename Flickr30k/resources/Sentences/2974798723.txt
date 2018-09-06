@@ -1,0 +1,5 @@
+[/EN#84941/people A man] is doing [/EN#0/notvisual a skateboarding trick] , known as [/EN#84946/other the ollie] , over [/EN#84942/scene a staircase] .
+[/EN#84941/people Young male] in [/EN#84946/clothing a hoodie] is doing [/EN#84944/other a skateboard stunt] on [/EN#84942/scene a flight of stairs] .
+[/EN#84941/people A skateboarder] is attempting to jump down [/EN#84942/other a set of concrete stairs] .
+[/EN#84941/people A skater] is jumping down [/EN#84942/scene a huge staircase] on [/EN#84945/other his board] .
+[/EN#84941/people A skater] is jumping down [/EN#84942/other the stairs] on [/EN#84945/other his skateboard] .

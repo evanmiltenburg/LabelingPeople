@@ -1,0 +1,5 @@
+[/EN#97037/people A bald man] dribbles [/EN#97038/other a basketball] while wearing [/EN#97039/clothing a Miami jersey] .
+[/EN#97037/people The number five Miami player] dribbles down [/EN#97044/other the court] .
+[/EN#97037/people The basketball player] is wearing [/EN#97040/clothing orange sneakers] .
+[/EN#97037/people Man] playing [/EN#97038/other basketball] , [/EN#97039/other jersey number 5] .
+[/EN#97037/other Number five] plays [/EN#97045/other basketball] for [/EN#97043/people Miami] .

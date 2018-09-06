@@ -1,0 +1,5 @@
+[/EN#151585/people People] marching down [/EN#151588/scene a street] playing [/EN#151591/instruments band instruments] , [/EN#151586/people a man] in [/EN#0/notvisual foreground] is dressed like [/EN#151586/people/scene a baker] .
+[/EN#151585/people A group of black and red trumpeters] play and walk as [/EN#151587/people members of a parade] .
+[/EN#151586/people A man] in [/EN#151592/clothing a red shirt] is playing [/EN#151590/instruments a trumpet] in [/EN#151588/scene the street] .
+[/EN#151585/people A marching band] playing for [/EN#151589/people the crowd] in [/EN#151587/people a parade] .
+[/EN#151585/people A marching band] is going down [/EN#151588/scene the street] .

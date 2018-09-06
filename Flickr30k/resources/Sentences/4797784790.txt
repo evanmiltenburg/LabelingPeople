@@ -1,0 +1,5 @@
+[/EN#203700/other A stoplight] displaying [/EN#203714/other two bicycle symbols] , [/EN#203706/other a left-turning green arrow] and [/EN#203707/other a red forward signal] stands in [/EN#0/notvisual the foreground] while [/EN#203699/people a man] in [/EN#203702/clothing a white hat] and [/EN#203703/clothing blue shirt] bikes along [/EN#203701/scene a red path] .
+[/EN#203699/people Man] in [/EN#203703/clothing blue shirt] , [/EN#203702/clothing white hat] and [/EN#203708/clothing blue jeans] , with [/EN#203705/clothing a brown bag] across [/EN#203709/other his back] , riding [/EN#203715/vehicles a bicycle] on [/EN#203701/scene a sidewalk] , riding past [/EN#203700/other a traffic stoplight] .
+[/EN#203700/other A traffic signal] is alerting [/EN#203712/other those wanting] to go left to proceed while [/EN#203713/other those wanting] to go straight must stop .
+[/EN#203700/other A stoplight] on [/EN#203711/scene the street corner] .
+[/EN#203699/people A bicyclist] in [/EN#203704/other a bike lane] .

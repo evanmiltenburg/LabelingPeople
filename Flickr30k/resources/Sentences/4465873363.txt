@@ -1,0 +1,5 @@
+[/EN#170793/people A man] wearing [/EN#170800/clothing black] is riding [/EN#170796/vehicles a three-wheeled bicycle] down [/EN#170795/scene a busy city street] .
+[/EN#170794/scene City traffic passes] by [/EN#170793/people a man] riding [/EN#170796/vehicles his bicycle] through [/EN#170795/scene the streets] .
+[/EN#170794/vehicles lot of cars] on [/EN#170795/scene the street] , and [/EN#170793/people one man] on [/EN#170796/vehicles the bicycle] .
+[/EN#0/notvisual That] 's [/EN#170798/vehicles a lot of traffic] to be riding [/EN#170796/vehicles his bike] in .
+[/EN#170793/people A man] bikes in [/EN#170795/scene a busy street] during [/EN#170799/scene the day] .

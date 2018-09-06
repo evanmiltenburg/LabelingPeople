@@ -1,0 +1,5 @@
+[/EN#155208/people A man] and [/EN#155210/people a woman] are standing on [/EN#155209/scene grass] and holding [/EN#155211/bodyparts hands] .
+[/EN#155208/people A man] and [/EN#155210/people a woman] hold [/EN#155211/bodyparts hands] in [/EN#155209/scene a grassy field] .
+[/EN#155208/people A silhouette of a man] and [/EN#155210/people woman] holding [/EN#155211/bodyparts hands] .
+[/EN#155212/people Silhouette of two people] holding [/EN#155211/bodyparts hands]
+[/EN#0/notvisual They] are in [/EN#155213/other love] with [/EN#0/notvisual each other] .

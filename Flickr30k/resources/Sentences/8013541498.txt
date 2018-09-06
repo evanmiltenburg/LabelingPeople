@@ -1,0 +1,5 @@
+[/EN#277700/other Red car number] [/EN#277699/other 96] driving down [/EN#277702/scene a dirt road] by [/EN#277708/other the tree line] kicking up [/EN#277701/other dust] in [/EN#277701/scene its trail] .
+[/EN#277700/vehicles This car] is leaving [/EN#277701/scene a dust trail] as [/EN#0/notvisual it] travels along [/EN#277702/scene a dirt road] in [/EN#277704/scene a wooded area] .
+[/EN#277700/people An older model] , [/EN#277700/vehicles red car] with [/EN#277699/other the racing number] " 96 " drives down [/EN#277702/scene a dirt road] .
+[/EN#277700/scene The racer zooms] past [/EN#277704/scene the wooded area] leaving [/EN#277701/other a cloud of dust] .
+[/EN#277700/vehicles Car] racing down [/EN#277701/scene the road] with [/EN#277701/other cloud of dust] .

@@ -1,0 +1,5 @@
+[/EN#185154/people A man] dressed in [/EN#185156/clothing a tweed coat] with [/EN#185157/clothing vest] and [/EN#185166/other pocket-watch] stands with [/EN#185167/bodyparts his hands] above [/EN#185164/other his ahead] before [/EN#185159/people a group of children] sitting on [/EN#185161/scene the floor] with [/EN#185160/other shelves of books] in [/EN#0/notvisual the background] .
+[/EN#185154/people A man] in [/EN#185155/clothing a black suit] with [/EN#185156/clothing a gray overcoat] stands in front of [/EN#185160/other books] facing [/EN#185159/people a group of children] sitting on [/EN#185161/scene the floor] .
+[/EN#185154/people A man] in [/EN#185155/clothing a suit] cheering in [/EN#185162/scene a library] in front of [/EN#185159/people children] .
+[/EN#185154/people A male performer] acts [/EN#185163/other a story] out for [/EN#185159/people young children]
+[/EN#185154/people A teacher] in [/EN#185155/clothing a suit] tells [/EN#185165/other jokes] to [/EN#185159/people students] .

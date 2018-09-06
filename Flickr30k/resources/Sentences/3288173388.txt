@@ -1,0 +1,5 @@
+[/EN#107151/people The man] writes [/EN#107152/other something] on [/EN#107153/other the chalkboard] to teach [/EN#107150/people the girl] [/EN#0/notvisual who] is standing next to [/EN#0/notvisual him] .
+[/EN#107151/people A man] teaches [/EN#107152/other English] to [/EN#107150/people a young girl] in [/EN#107155/scene a rural African village] .
+[/EN#107151/people one person] pointing at [/EN#107153/other a chalkboard] with [/EN#107150/people a student] looking on
+[/EN#107150/people A girl] in [/EN#107157/clothing a Burka] is learning [/EN#107156/other vocabulary] in [/EN#107154/scene a classroom] .
+[/EN#107151/people A man] points to [/EN#107153/other a blackboard] to show [/EN#107150/people a child] [/EN#107152/other something] .

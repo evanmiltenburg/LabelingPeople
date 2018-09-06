@@ -1,0 +1,5 @@
+[/EN#124795/people A man] in [/EN#124802/clothing blue jeans] and [/EN#124803/clothing a blue and black shirt] is digging [/EN#124796/scene a hole] with [/EN#124797/other a shovel] .
+[/EN#124795/people A man] with [/EN#124797/other a shovel] is doing [/EN#124800/other some digging work] in [/EN#124796/scene a hole] outside .
+[/EN#124795/people A man] working hard filling [/EN#124798/other a form] with [/EN#124799/other cement] .
+[/EN#124795/people A man] is digging [/EN#124796/scene a hole] around [/EN#124801/other some trees]
+[/EN#124795/people A man] using [/EN#124797/other a shovel] to dig [/EN#124796/scene a hole] .

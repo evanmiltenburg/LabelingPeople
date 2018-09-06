@@ -1,0 +1,5 @@
+[/EN#43176/people A woman] with [/EN#43180/clothing a blue hat and blue and red jacket] setting up [/EN#43177/other a camera] on [/EN#43178/other a tripod] .
+[/EN#43176/people The woman] in [/EN#43183/clothing blue] is operating [/EN#43177/other a camera] in front of [/EN#43184/people two other women] .
+[/EN#43176/people A woman] with [/EN#43177/other a camera] on [/EN#43178/other a tripod] is smiling for [/EN#43181/other another camera] .
+[/EN#43176/people A woman] holding onto [/EN#43177/other a camera] smiling at [/EN#0/notvisual the camera] .
+[/EN#43179/people People] at [/EN#43182/other a photo shoot] .

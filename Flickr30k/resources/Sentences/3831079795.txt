@@ -1,0 +1,5 @@
+[/EN#144810/people A man] walking away in [/EN#0/notvisual the distance] along [/EN#144811/other a huge wall] constructed of [/EN#144811/scene large blocks] .
+[/EN#144810/people A man] in [/EN#144812/clothing a red jacket] is walking on [/EN#144816/other sand] next to [/EN#144811/other a large rock structure] .
+[/EN#144810/people A man] in [/EN#144812/clothing red jersey] walking next to [/EN#144811/scene the mountain] .
+[/EN#144810/people Man] in [/EN#144812/clothing red] walking in front of [/EN#144811/other big rocks] .
+[/EN#144810/people A person] in [/EN#144812/clothing a red jacket] walking .

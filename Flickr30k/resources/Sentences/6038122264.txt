@@ -1,0 +1,5 @@
+[/EN#246936/people A man] wearing [/EN#246943/clothing all black] with [/EN#246937/clothing a cap] on [/EN#246937/bodyparts his head] is spearing [/EN#246940/other something] on [/EN#246938/other a wall] .
+[/EN#246936/people A man] on [/EN#246941/other a scaffold] uses [/EN#246942/other spray] paint to work on [/EN#246938/other a mural] .
+[/EN#246936/people A man] is using [/EN#246942/other spray paint] to paint [/EN#246938/other a picture] on [/EN#246938/other a wall] .
+[/EN#246936/people A man] with [/EN#246937/clothing a black cap] is spray painting [/EN#246940/other a mural] .
+[/EN#246936/people Man] on [/EN#246941/other scaffolding] spray painting [/EN#246938/other a wall] .

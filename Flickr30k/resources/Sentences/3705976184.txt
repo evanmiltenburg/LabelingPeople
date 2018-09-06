@@ -1,0 +1,5 @@
+[/EN#138242/people A woman] is running with [/EN#138243/animals a dog] in [/EN#138244/scene a grassy field] with [/EN#138245/other trees] in [/EN#0/notvisual the background] .
+[/EN#138242/people a woman] and [/EN#138243/animals her black and brown dog] running through [/EN#138244/scene a field] in [/EN#138245/other the woods]
+[/EN#138242/people A lady] and [/EN#138243/animals her large brown and black dog] out for [/EN#138246/other a run] in [/EN#138244/scene a grassy place]
+[/EN#138242/people A woman] running through [/EN#138244/scene a grassy area] with [/EN#138243/animals a brown and black dog] .
+[/EN#138242/people A woman] in [/EN#138247/clothing a white shirt] is running with [/EN#138243/animals a dog] in [/EN#138244/scene the grass] .

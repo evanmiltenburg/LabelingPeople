@@ -1,0 +1,5 @@
+[/EN#48690/animals A big brown dog] sniffs [/EN#48692/animals a smaller dog] in [/EN#48695/other the gravel] beside [/EN#48691/scene a body of water] .
+[/EN#48690/animals A large dog] stands with [/EN#48692/animals a smaller dog] near [/EN#48694/scene the edge of the water] .
+[/EN#48690/animals A red dog] looks at [/EN#48692/animals a brown dog] on [/EN#48693/scene a dirt path] next to [/EN#48691/scene a lake] .
+[/EN#48690/animals a big dog] stiffing [/EN#48692/animals a smaller dog] near [/EN#48691/scene the edge of a river] .
+[/EN#48690/animals The big dog] is checking out [/EN#48692/animals the smaller dog] .

@@ -1,0 +1,5 @@
+[/EN#137280/people An older gentleman] and [/EN#137282/people a small child] are sitting by [/EN#137281/scene a creek] throwing [/EN#137283/other rocks] into [/EN#0/notvisual it] .
+[/EN#137280/people A father] and [/EN#137282/people his daughter] are throwing [/EN#137283/other rocks] into [/EN#137281/scene a creek] .
+[/EN#137280/people A father] and [/EN#137282/people daughter] throwing [/EN#137283/other rocks] into [/EN#137281/scene a small stream] .
+[/EN#137280/people A father] and [/EN#137282/people daughter] throwing [/EN#137283/other rocks] into [/EN#137281/scene the stream] .
+[/EN#137280/people A man] and [/EN#137282/people a child] skip stones across [/EN#137281/scene the water] .

@@ -1,0 +1,5 @@
+[/EN#233329/people Two people] walk on [/EN#233330/scene a path] as [/EN#233336/other the sun] casts [/EN#233330/scene a shadow] towards [/EN#0/notvisual the camera] .
+[/EN#233329/people Two people] backlit with [/EN#233331/scene light sky] .
+[/EN#233332/people A man] and [/EN#233335/people women] walk atop [/EN#233333/scene a hill] .
+[/EN#233329/people A couple] walking on [/EN#233330/scene a dirt road] .
+[/EN#233329/people Two people] walk at [/EN#233331/scene sunset] .

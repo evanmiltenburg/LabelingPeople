@@ -1,0 +1,5 @@
+[/EN#52632/people A person] in [/EN#52633/clothing a red shirt] and [/EN#52634/people a person] in [/EN#52635/clothing a white shirt] and [/EN#52636/clothing tan vest] are sitting facing [/EN#52637/scene a lake of water] .
+[/EN#52638/people Two young boys] sitting on [/EN#52639/other stumps] next to [/EN#52637/scene a creek] on [/EN#52641/scene a sunny day] .
+[/EN#52638/people Two people] sitting on [/EN#52639/other a tree stump] in front of [/EN#52637/scene a pond] .
+[/EN#52638/people Two people] sitting on [/EN#52639/other a tree stump] next to [/EN#52637/scene a stream] .
+[/EN#52638/people Two people] enjoy [/EN#52642/other the tranquility] on [/EN#52640/other a riverbank] .

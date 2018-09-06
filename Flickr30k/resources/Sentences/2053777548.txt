@@ -1,0 +1,5 @@
+[/EN#26018/animals A brown and white dog] is catching [/EN#26019/other a tennis ball] while standing on [/EN#26021/bodyparts its hind legs] .
+[/EN#26018/animals a skiny dog] jumping in [/EN#0/notvisual the air] with [/EN#26019/other a tennis ball] in [/EN#26020/bodyparts his mouth] .
+[/EN#26018/animals A red dog] jumps and catches [/EN#26019/other a tennis ball] in [/EN#26020/bodyparts its mouth] .
+[/EN#26018/animals A tan dog] jumps up to catch [/EN#26019/other a tennis ball] .
+[/EN#26018/animals The dog] jumps to catch [/EN#26019/other the ball] .

@@ -1,0 +1,5 @@
+[/EN#210983/people A man] in [/EN#210994/clothing a Hawaiian print shirt] walks behind [/EN#210990/people a woman] in [/EN#210995/clothing a pink shirt] down [/EN#210989/scene a sidewalk] on [/EN#210982/scene Allen Street] next to [/EN#210979/other a brick wall] with [/EN#210979/other graffiti] on [/EN#0/notvisual it] .
+[/EN#210987/other Two figures] walking in front of [/EN#210988/other an Asian fruit] and [/EN#210981/scene vegetable market] .
+[/EN#210986/people People] walking past [/EN#210979/other a wall] with [/EN#210979/other Graphite] and writing on [/EN#210979/other the wall] .
+[/EN#210984/people HO King] produce [/EN#210981/scene store] offering [/EN#210993/other snow peas] , [/EN#210991/other broccoli] , and [/EN#210992/other napa] .
+[/EN#210985/people Pedestrians] are walking past [/EN#210981/scene a closed Asian food store] .

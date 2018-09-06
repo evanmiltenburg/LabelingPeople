@@ -1,0 +1,5 @@
+[/EN#133535/people a skateboarder] is performing [/EN#133537/other stunt] on [/EN#133536/scene a graffiti covered skateboard ramp] .
+[/EN#133535/people A man] in [/EN#133539/clothing a red shirt] make [/EN#0/notvisual a skateboard jump] on [/EN#133536/scene a ramp] with [/EN#133538/other graffiti] .
+[/EN#133535/people A man] doing [/EN#0/notvisual a skateboard trick] on [/EN#133536/scene a skateboard ramp]
+[/EN#133535/people Man] skateboarding off of [/EN#133536/scene a ramp] .
+[/EN#133535/people A skateboarder] on [/EN#133536/scene a ramp] .

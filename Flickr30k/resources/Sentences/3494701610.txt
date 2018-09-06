@@ -1,0 +1,5 @@
+[/EN#122457/people Four people] walking toward [/EN#122459/people a large construction tower of some kind] in [/EN#122460/scene a lightly wooded area] .
+[/EN#122457/people People] are walking in [/EN#122462/other a line] through [/EN#122461/scene a field of grass] and [/EN#122463/scene dirt] .
+[/EN#122457/people A group of people] walk in [/EN#122462/other a line] toward [/EN#122458/scene a construction area] .
+[/EN#122457/people A group of people] are walking close to [/EN#122464/other some trees] .
+[/EN#122457/people Four people] are walking through [/EN#122465/scene the wilderness] .

@@ -1,0 +1,5 @@
+[/EN#218185/people A woman] in [/EN#218194/clothing a pink shirt] and [/EN#218195/clothing patterned skirt] plays [/EN#218187/instruments a violin] beside [/EN#218184/people a man] wearing [/EN#218196/clothing track pants] and [/EN#218197/clothing a black hat] playing [/EN#218186/instruments a black guitar] on [/EN#218190/scene the street] .
+[/EN#218184/people A man] in [/EN#218192/clothing gray and black] is playing [/EN#218186/instruments a black acoustic guitar] with [/EN#218185/people a slightly shorter woman] [/EN#0/notvisual who] is wearing [/EN#218194/clothing pink] and playing [/EN#218187/instruments a violin] .
+[/EN#218185/people A woman] is playing [/EN#218187/instruments the violin] and [/EN#218184/people a man] is playing [/EN#218186/instruments the guitar] while standing outside , performing for [/EN#218193/other money] .
+[/EN#218188/people Two musicians] are playing [/EN#218191/other a tune] together at [/EN#218189/scene a construction site] .
+[/EN#218184/people The man] and [/EN#218185/people woman] play [/EN#218186/instruments guitar] and [/EN#218187/instruments violin] together .

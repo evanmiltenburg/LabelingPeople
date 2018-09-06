@@ -1,0 +1,5 @@
+[/EN#146574/people A man] in [/EN#146577/clothing a yellow jacket] and [/EN#146581/clothing blue helmet] is riding [/EN#146575/vehicles his bicycle] on [/EN#146579/scene a sidewalk] .
+[/EN#146574/people A man] with [/EN#146577/clothing a yellow jacket] walks [/EN#146575/vehicles his bicycle] past [/EN#146576/scene a bicycle shop] .
+[/EN#146574/people A man] on [/EN#146575/vehicles a bicycle] is outside [/EN#146576/scene a bicycle shop] near [/EN#146578/vehicles a row of bikes] .
+[/EN#146574/people A bicyclist] pulls over to stop at [/EN#146576/scene a bicycle shop] .
+[/EN#146574/people A young man] riding [/EN#146575/vehicles a bicycle] down [/EN#146580/scene the street] .

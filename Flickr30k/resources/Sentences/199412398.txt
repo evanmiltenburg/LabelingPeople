@@ -1,0 +1,5 @@
+[/EN#24661/other A boy surveys merchandise] in [/EN#24660/scene an alleyway market] .
+[/EN#24663/people A man] is standing in [/EN#24664/other a beam of sunlight] .
+[/EN#24661/people A boy] is standing in [/EN#24659/scene a dimly lit alley] .
+[/EN#24658/people People] stand in [/EN#24659/scene a cluttered alley] .
+[/EN#24658/people People] in [/EN#24665/other a marketplace] .

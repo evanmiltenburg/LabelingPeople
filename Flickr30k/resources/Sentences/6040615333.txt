@@ -1,0 +1,5 @@
+[/EN#246989/people A man] is lounging under [/EN#246992/clothing an umbrella] at [/EN#246990/scene the beach] with [/EN#246990/other the sand] , [/EN#246994/scene ocean] , and [/EN#246995/people other beach goers] in [/EN#0/notvisual the background] .
+[/EN#246989/people A man] dressed in [/EN#246993/clothing black] on [/EN#246990/scene the beach] sitting under [/EN#246992/clothing a red umbrella] .
+[/EN#246989/people A man] sitting on [/EN#246991/other a giant beanbag] on [/EN#246990/scene a beach] .
+[/EN#246989/people A man] is at [/EN#246990/scene the beach] laying on [/EN#246991/other a beanbag] .
+[/EN#246989/people A man] sitting on [/EN#246990/scene the beach] .

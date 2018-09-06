@@ -1,0 +1,5 @@
+[/EN#73334/people A woman] in [/EN#73335/clothing a black dress] with [/EN#73339/other a bun] in [/EN#73343/bodyparts her hair] reaches up on [/EN#73336/other the clothesline] in [/EN#73337/scene her bathroom] for [/EN#73338/clothing an article of clothing] .
+[/EN#0/notvisual I] see [/EN#73334/people a woman] in [/EN#73335/clothing a black dress] drying [/EN#73338/clothing her clothes] above [/EN#73341/other her bathtub] .
+[/EN#73334/people A woman] is hanging [/EN#73338/clothing clothes] to dry in [/EN#73337/scene the bathroom] .
+[/EN#73334/people A woman] in [/EN#73337/scene a room] is adjusting hanging [/EN#73338/clothing clothing] .
+[/EN#73334/people Woman] hanging [/EN#73338/clothing clothes] on [/EN#73336/other shower curtain rod] .

@@ -1,0 +1,5 @@
+[/EN#198932/vehicles a bike] is on [/EN#0/notvisual its side] in [/EN#198939/scene the middle of the road] , and [/EN#198933/people firefighters] are talking to [/EN#198935/people a man] sitting on [/EN#198938/other the curb]
+[/EN#198933/people Firefighters] are helping [/EN#198935/people a man] after crashing [/EN#198932/other his motorcycle] .
+[/EN#198933/people Men] sitting around [/EN#198935/people a man] wearing yellow next to [/EN#198934/other a firetruck] .
+[/EN#198933/people Firefighters] respond to [/EN#198937/other the scene of a motorcycle accident] .
+[/EN#198932/other A motorcycle] is lying on [/EN#0/notvisual the ground] near [/EN#198934/other a fire engine] .

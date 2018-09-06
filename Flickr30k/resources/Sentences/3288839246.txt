@@ -1,0 +1,5 @@
+[/EN#107203/people A climber] in [/EN#107204/clothing a red shirt] is secured by [/EN#107207/other a rope] as [/EN#0/notvisual he] looks down [/EN#107209/scene a crevasse] .
+[/EN#107203/people A man] is climbing [/EN#107205/other a steep rock wall] with [/EN#107208/clothing a safety harness] on
+[/EN#107203/people A person] in [/EN#107204/clothing a red shirt] and [/EN#107206/clothing black pants] rock climbing .
+[/EN#107203/people Person] with [/EN#107204/clothing red shirt] and [/EN#107206/clothing black pants] climbing [/EN#107205/other a rock] .
+[/EN#107203/people A rock climber] goes sideways .

@@ -1,0 +1,5 @@
+[/EN#189899/people A man] in [/EN#189907/clothing a green outfit] writes [/EN#189906/other something] on [/EN#189901/bodyparts another man 's face] .
+[/EN#189899/people One man] paints [/EN#189904/bodyparts another 's face] at [/EN#189900/scene an outdoor event] .
+[/EN#189899/people Guy] paints [/EN#189901/people another guys] face at [/EN#189900/scene a fair] .
+[/EN#189899/people A man] face painting [/EN#189903/people another man] .
+[/EN#189902/people A team] celebrates [/EN#189905/other a victory] .

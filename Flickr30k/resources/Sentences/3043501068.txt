@@ -1,0 +1,5 @@
+[/EN#89631/vehicles The motocross bike] is doing [/EN#0/notvisual a jump] in [/EN#0/notvisual the air] in front of [/EN#89627/people the crowd] .
+[/EN#89626/people A motocross rider] doing [/EN#0/notvisual a jump] in front of [/EN#89627/people an audience] .
+[/EN#89626/people Man] on [/EN#89631/other a motorcycle] performing [/EN#0/notvisual a trick] high in [/EN#0/notvisual the air] .
+[/EN#89626/people A dirt biker] is airborne in front of [/EN#89627/people a crowd] .
+[/EN#89626/people The motocross rider] does [/EN#0/notvisual a trick] in [/EN#0/notvisual the air] .

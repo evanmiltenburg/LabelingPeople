@@ -1,0 +1,5 @@
+[/EN#265424/people 1 little boy] wearing [/EN#265428/clothing a pirate costume] following closely behind [/EN#265426/people a little girl] wearing [/EN#265425/clothing a blue dress] carrying [/EN#265427/other a orange pumpkin bucket] and walking down [/EN#265430/scene the sidewalk] .
+[/EN#265424/people A little boy] in [/EN#265428/clothing a pirate costume] is running behind [/EN#265426/people a little girl] in [/EN#265425/clothing a princess costume] carrying [/EN#265427/other an orange pumpkin] along [/EN#265430/scene the sidewalk] .
+[/EN#265424/people A boy] dressed as [/EN#265424/people a pirate] and [/EN#265426/people a girl] dressed as [/EN#265426/people a princess] are running down [/EN#265430/scene the street] .
+[/EN#265433/people Two children] are running down [/EN#265430/scene a sidewalk] dressed in [/EN#265436/clothing costumes] .
+[/EN#265424/people A pirate] is chasing [/EN#265426/people a princess] down [/EN#265430/scene the sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#36055/people A woman] in [/EN#36056/clothing a tomato-colored jogging suit] carries [/EN#0/notvisual both] [/EN#36061/clothing a red purse] and [/EN#36060/clothing a navy blue messenger bag] .
+[/EN#36055/people Woman] in [/EN#36056/clothing orange jumpsuit] walks [/EN#36059/people past old woman] selling [/EN#36058/other flowers] .
+[/EN#36055/people The lady] in [/EN#36056/clothing pink] is walking past [/EN#36059/people someone] holding [/EN#36058/other flowers] .
+[/EN#36055/people A female] in [/EN#36056/clothing an orange sweatsuit] walks down [/EN#36057/scene the street] .
+[/EN#36055/people A female] is [/EN#36056/clothing a bright outfit] is walking down [/EN#36057/scene the road] .

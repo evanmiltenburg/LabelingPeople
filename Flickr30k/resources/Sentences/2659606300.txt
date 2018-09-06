@@ -1,0 +1,5 @@
+[/EN#64582/people A small child] in [/EN#64583/clothing a pink sweater] begins to climb [/EN#64584/scene a concrete staircase] .
+[/EN#64582/people A small child] in [/EN#64583/clothing a pink hoodie] ascending [/EN#64586/scene tall stairs outdoors] .
+[/EN#64582/people A baby girl] wearing [/EN#64583/clothing a pink jacket] climbs [/EN#64584/other wooden steps] .
+[/EN#64582/people A small child] climbs [/EN#64584/other steps] outdoors in [/EN#64587/scene a grassy area] .
+[/EN#64582/people A small child] climbs [/EN#64584/other stairs] at [/EN#64588/scene a beach] .

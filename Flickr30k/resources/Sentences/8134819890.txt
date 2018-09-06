@@ -1,0 +1,5 @@
+[/EN#279407/people A man] is holding [/EN#279411/other a hammer] in [/EN#279416/bodyparts his left hand] over [/EN#279410/other a chisel] held in [/EN#279417/bodyparts his right hand] .
+[/EN#279407/people a carpenter] making [/EN#279414/scene a hole] with [/EN#279411/other his hammer] on [/EN#279409/other a building project] .
+[/EN#279407/people A man] is hammering into [/EN#279408/other pieces of wood] .
+[/EN#279407/people Man] chiseling [/EN#279412/other wood] inside [/EN#279413/scene a building] .
+[/EN#279407/people Man] building [/EN#279415/other something] with [/EN#279412/other wood] .

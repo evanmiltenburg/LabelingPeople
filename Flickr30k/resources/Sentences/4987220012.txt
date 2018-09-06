@@ -1,0 +1,5 @@
+[/EN#226304/people A man] in [/EN#226308/clothing a white dress shirt] stands at [/EN#226307/scene the train station] reading [/EN#226305/other a newspaper] .
+[/EN#226304/people A man] with [/EN#226309/clothing glasses] is reading [/EN#226305/other a newspaper] while waiting for [/EN#226306/vehicles/scene a train] .
+[/EN#226304/people A man] in [/EN#226308/clothing a white shirt] reads [/EN#226305/other a newspaper] in [/EN#226307/scene a subway station] .
+[/EN#226304/people A man] waiting for [/EN#226306/vehicles/scene the subway] while looking at [/EN#226305/other a newspaper] .
+[/EN#226304/people A man] is reading [/EN#226305/other a newspaper] while waiting for [/EN#226306/vehicles/scene a train] .

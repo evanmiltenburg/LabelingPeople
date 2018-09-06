@@ -1,0 +1,5 @@
+[/EN#136052/people A man] with [/EN#136053/clothing a blue shirt] and [/EN#136061/clothing glasses] points to [/EN#136054/other a picture] in [/EN#136054/other a book] in front of [/EN#136055/people a little girl] and [/EN#136054/other a stack of books] .
+[/EN#136052/people A man] in [/EN#136053/clothing a white shirt] and [/EN#136062/clothing tie] points to [/EN#136058/other an image] in [/EN#136054/other a children 's book] while [/EN#136055/people a small girl] watches .
+[/EN#136052/people A man] in [/EN#136060/people classes] and [/EN#136053/clothing a suit] read [/EN#136054/other a children 's book] out loud to [/EN#136055/people a child] .
+[/EN#136052/people A man] reading [/EN#136054/other a picture book] to [/EN#136055/people a child] .
+[/EN#136052/people A man] is reading [/EN#136054/other a picture book] aloud .

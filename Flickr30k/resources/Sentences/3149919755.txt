@@ -1,0 +1,5 @@
+[/EN#96751/animals A black dog] is looking at [/EN#96752/other the ball] on [/EN#96753/scene the beach] by [/EN#96756/scene the ocean] .
+[/EN#96751/animals A dog] standing on [/EN#96753/scene a beach] with [/EN#96752/other a ball] nearby .
+[/EN#96751/animals A dog] stands on [/EN#96753/scene a beach] at [/EN#96754/scene sunset] .
+[/EN#96751/animals Dog] in [/EN#96755/scene shadow] on [/EN#96753/scene beach] at [/EN#96754/scene sunset] .
+[/EN#96751/animals A dog] and [/EN#96752/other a ball] on [/EN#96753/scene a beach] .

@@ -1,0 +1,5 @@
+[/EN#1150/people A man] in [/EN#0/notvisual the foreground] wearing [/EN#1156/clothing a white shirt] and [/EN#1160/clothing black pants] riding [/EN#1155/vehicles a bicycle] with [/EN#1159/other a basket] in [/EN#1152/scene a busy street] .
+[/EN#1158/other This photo] takes [/EN#1161/scene place] in [/EN#1152/scene a busy street] in [/EN#1154/scene an Asian city] where [/EN#1151/people people] are riding [/EN#1157/vehicles bikes] and walking .
+[/EN#1152/scene A very bus street] is shown with [/EN#1151/people Asian people] all around walking and riding [/EN#1157/vehicles bicycles] .
+[/EN#1150/people A man] in [/EN#1156/clothing a white shirt] rides [/EN#1155/vehicles a bicycle] on [/EN#1152/scene a busy street] .
+[/EN#1150/people An Asian man] riding [/EN#1155/vehicles a bike] in [/EN#1152/scene the road] .

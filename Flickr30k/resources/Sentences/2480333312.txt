@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] are [/EN#52576/vehicles/scene two boats] full of [/EN#52575/people people] in [/EN#52577/scene a river] , [/EN#52579/other one] is stopped and [/EN#52581/other the other] is moving .
+[/EN#52575/people A group of people] in [/EN#52576/vehicles/scene two boats] with [/EN#52580/people 1 guy] in [/EN#52582/clothing Green] standing up .
+[/EN#52575/people The people] are riding [/EN#52578/other a gondola] down [/EN#52577/scene the calm river] .
+[/EN#52576/vehicles/scene Two boats] are being maneuvered down [/EN#52577/scene a quiet river] .
+[/EN#52576/vehicles/scene two boats] float down on [/EN#52577/scene the river]

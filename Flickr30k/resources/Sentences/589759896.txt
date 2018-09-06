@@ -1,0 +1,5 @@
+[/EN#244835/people A man] is in [/EN#244837/scene the kitchen] cutting up [/EN#244842/animals chicken] and [/EN#244839/other vegetables] on [/EN#244836/other the counter] , preparing [/EN#244838/other a meal] .
+[/EN#244835/people A man] wearing [/EN#244843/clothing a blue shirt] is standing at [/EN#244836/other a kitchen counter] slicing [/EN#244838/other food] .
+[/EN#244835/people A man] is cutting [/EN#244840/other raw meat] next to [/EN#244839/other a plate of vegetables] .
+[/EN#244835/people Man] cutting up [/EN#244838/other his food] to put on [/EN#244839/other a plate] .
+[/EN#244835/people A man] preparing [/EN#244838/other food] in [/EN#244837/scene a kitchen] .

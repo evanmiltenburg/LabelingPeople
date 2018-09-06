@@ -1,0 +1,5 @@
+[/EN#69124/people A woman] and [/EN#69127/people two children] [/EN#0/notvisual who] are wearing [/EN#69126/clothing blue life vests] are swimming .
+[/EN#69124/people A woman] swimming with [/EN#69127/people two children] in [/EN#69126/clothing blue life vests]
+[/EN#69124/people The mother] with [/EN#69127/people two son] are swimming in [/EN#69125/scene the sea] .
+[/EN#69124/people A woman] and [/EN#69127/people two children] are swimming in [/EN#69125/scene water] .
+[/EN#69124/people A woman] and [/EN#69127/people kids] swimming in [/EN#69125/scene a lake] .

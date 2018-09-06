@@ -1,0 +1,5 @@
+[/EN#71392/animals A brown and white dog] wearing [/EN#71395/clothing a red harness] is running through [/EN#71393/scene a dry field] , [/EN#71394/bodyparts ears] flapping .
+[/EN#71392/animals A dog] with [/EN#71394/bodyparts floppy ears] runs in [/EN#71393/scene a dry field] .
+[/EN#71392/animals A dog] runs in [/EN#71393/scene a field of brown grass] .
+[/EN#71392/animals A longeared dog] running in [/EN#71393/scene the grass] .
+[/EN#71392/animals A dog] bounds across [/EN#71393/scene the brown grass] .

@@ -1,0 +1,5 @@
+[/EN#85496/animals The dog] is running quickly through [/EN#85497/scene the meadow] .
+[/EN#85496/animals A golden dog] is running on [/EN#85497/scene the grass] .
+[/EN#85496/animals A tan dog] leaping in [/EN#85497/scene a grassy field] .
+[/EN#85496/animals Brown dog] leaps through [/EN#85497/scene field] .
+[/EN#85496/animals a dog] runs across [/EN#85497/scene the grass] .

@@ -1,0 +1,5 @@
+In [/EN#194529/scene the foreground of a busy cafe-style street scene] , [/EN#194526/people a balding man] wearing [/EN#194534/clothing glasses] , [/EN#194530/clothing a yellow shirt] and [/EN#194531/clothing a black watch] holds [/EN#194528/other a plastic cup] filled with [/EN#194528/other a beverage] .
+[/EN#194526/people A man] in [/EN#194530/clothing a yellow shirt] enjoying [/EN#194528/other a drink] while standing in [/EN#194532/people a crowd of people] .
+[/EN#194526/people a man] with [/EN#194530/clothing a yellow shirt] on [/EN#194535/other stares] in [/EN#0/notvisual the distance]
+[/EN#194526/people A guy] is standing up with [/EN#194528/other a drink] in [/EN#194537/bodyparts his hand] .
+[/EN#194526/people A man] stands holding [/EN#194528/other a drink] in [/EN#194529/scene an urban area] .

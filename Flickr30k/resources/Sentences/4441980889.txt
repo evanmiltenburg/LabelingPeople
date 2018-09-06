@@ -1,0 +1,5 @@
+[/EN#168470/people Four people] standing in front of [/EN#168478/scene the house] with [/EN#168479/clothing some Meijer bags] sitting on [/EN#168475/other a table] in front of [/EN#168469/people one of the women] .
+[/EN#168469/people A lady] is by [/EN#168472/other a table] [/EN#0/notvisual that] has [/EN#168471/other a bunch of groceries] on [/EN#0/notvisual it] .
+[/EN#0/notvisual This] is [/EN#168470/people a family] getting ready for [/EN#168474/other a cookout] .
+[/EN#168470/people These people] are getting [/EN#168477/other ready] for [/EN#168476/other cooking] .
+[/EN#168469/people A woman] puts [/EN#168471/other new groceries] on [/EN#168472/other the table] .

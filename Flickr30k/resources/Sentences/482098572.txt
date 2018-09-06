@@ -1,0 +1,5 @@
+[/EN#207034/people A person] in [/EN#207036/other a yellow kayak] is paddling through [/EN#207035/scene a river] with [/EN#207039/scene snowy banks] .
+[/EN#207034/people This person] in [/EN#207036/other a yellow kayak] is riding [/EN#207037/other the rapids] .
+[/EN#207034/people A man] in [/EN#207038/vehicles/scene a yellow boat] paddling against [/EN#207040/scene waves] .
+[/EN#207034/people The man] is in [/EN#207036/other a yellow kayak] in [/EN#207035/scene rough waters] .
+[/EN#207034/people The kayaker] is going through [/EN#207037/other rapids] .

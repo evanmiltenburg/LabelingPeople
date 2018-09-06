@@ -1,0 +1,5 @@
+[/EN#108737/people A man] in [/EN#108738/clothing a T-shirt] [/EN#0/notvisual that] says [/EN#108741/animals GNU] is at [/EN#108742/scene the front of the room] in front of [/EN#108739/people a group of people] sitting .
+[/EN#108737/people A man] wearing [/EN#108738/clothing a t-shirt] [/EN#0/notvisual that] has " gnu " printed on [/EN#0/notvisual it] gives [/EN#108740/other a technology presentation] .
+[/EN#108737/people A man] in [/EN#108738/clothing a white t-shirt] addresses [/EN#108739/people a crowd] .
+[/EN#108737/people A man] is speaking in front of [/EN#108739/people an audience] .
+[/EN#108737/people man] in [/EN#108738/clothing a white shirt] giving [/EN#108740/other a speech] .

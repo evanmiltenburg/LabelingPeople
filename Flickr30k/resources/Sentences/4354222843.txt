@@ -1,0 +1,5 @@
+[/EN#164591/people/scene A male baker] dressed from head to toe in [/EN#164594/clothing white cotton clothing] rolls out [/EN#164595/other a giant sheet of dough] .
+[/EN#164591/people/scene A baker] dressed in [/EN#164594/clothing white] with [/EN#164592/clothing a hairnet] works with [/EN#164595/other dough] using [/EN#164597/other a long pole] .
+[/EN#164591/people A man] bakes in [/EN#164593/scene a kitchen] while wearing [/EN#164599/clothing gloves] and [/EN#164592/clothing a hat] .
+[/EN#164591/people A man] dressed [/EN#164596/people all] in [/EN#164601/other white rolls] dough in [/EN#164593/scene a kitchen] .
+[/EN#164591/people/scene a baker] working on [/EN#164600/other his next project] .

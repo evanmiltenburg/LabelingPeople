@@ -1,0 +1,5 @@
+[/EN#123994/people A woman] holding [/EN#123997/other a hand puppet] in front of [/EN#123996/people a class of students] .
+[/EN#123994/people A woman] is playing with [/EN#123997/other a puppet] in front of [/EN#123996/people some children] .
+[/EN#123994/people A woman] is using [/EN#123997/other a puppet] in front of [/EN#123995/people a group of people] .
+[/EN#123994/people women] with [/EN#123997/other puppet] teaching [/EN#123995/people a class] on [/EN#123996/people young students]
+[/EN#123994/people A woman] is showing [/EN#123997/other a doll] to [/EN#123996/people a group of children] .

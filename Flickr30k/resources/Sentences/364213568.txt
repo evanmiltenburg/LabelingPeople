@@ -1,0 +1,5 @@
+[/EN#133622/animals One white and tan dog] is chasing [/EN#133625/animals another white and brown dog] [/EN#0/notvisual who] has [/EN#133626/other a toy] in [/EN#133628/bodyparts its mouth] .
+[/EN#133622/animals One dog] is chasing [/EN#133625/animals another dog] [/EN#0/notvisual that] is carrying [/EN#133627/other something] in [/EN#133628/bodyparts its mouth] along [/EN#133624/scene the beach] .
+[/EN#133625/animals A dog] runs down [/EN#133624/scene a beach] holding [/EN#133626/other a yellow toy] while [/EN#0/notvisual another] chases [/EN#0/notvisual it] .
+[/EN#133625/animals a dog] with [/EN#133627/other a yellow toy] is being chased by [/EN#133622/animals another dog]
+[/EN#133622/animals A dog] is chasing [/EN#133625/animals another dog] carrying [/EN#133626/other a toy] .

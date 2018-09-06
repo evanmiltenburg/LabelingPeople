@@ -1,0 +1,5 @@
+[/EN#178460/scene City street] where [/EN#178459/people one man] is sitting on [/EN#178465/other a ledge] reading [/EN#178463/other a newspaper] and [/EN#178457/people one woman] is smoking [/EN#178462/other a cigarette] .
+[/EN#178456/people People] are walking down [/EN#178460/scene a street] while [/EN#178459/people a man] reads [/EN#178463/other a newspaper] on [/EN#178461/scene the sidewalk] .
+[/EN#178457/people A woman] wearing [/EN#178467/clothing sunglasses] walking with [/EN#178462/other a cigarette] in [/EN#178468/bodyparts her hand] .
+[/EN#178459/people A man] reads [/EN#178463/other a newspaper] near [/EN#178460/scene a street] busy with [/EN#178466/people pedestrians] .
+[/EN#178458/people A group of women] walking by [/EN#178459/people a man] on [/EN#178461/scene the sidewalk] .

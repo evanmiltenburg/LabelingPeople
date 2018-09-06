@@ -1,0 +1,5 @@
+[/EN#30039/people An eastern Indian man] with [/EN#30045/bodyparts a mustache] and [/EN#30042/clothing glasses] is sitting by [/EN#30040/other a computer] .
+[/EN#30039/people A man] in [/EN#30042/clothing glasses] completes [/EN#30043/other a task] beside [/EN#30040/other a monitor] [/EN#0/notvisual that] is not on .
+[/EN#30039/people The man] is on [/EN#30040/other a computer] playing with [/EN#30044/other sound effects] .
+[/EN#30039/people A man] is sitting next to [/EN#30040/other a computer monitor] .
+[/EN#30039/people a man] with [/EN#30042/clothing glasses] typing on [/EN#30040/other the computer]

@@ -1,0 +1,5 @@
+[/EN#240303/people A person] in [/EN#240310/clothing a blue jacket] follows [/EN#240306/animals two donkeys] along [/EN#240305/scene a mountain trail] .
+[/EN#240303/people A man] and [/EN#240309/animals two pack mules] walk across [/EN#240304/scene a field] in front of [/EN#240307/scene a mountain] .
+[/EN#240303/people A man] is walking in [/EN#240304/scene a field] behind [/EN#240306/animals two donkeys] .
+[/EN#240303/people A man] travels with [/EN#240306/animals two donkeys] in [/EN#240307/scene the mountains]
+[/EN#240303/people A boy] is leading [/EN#240306/animals donkeys] on [/EN#240305/scene a path] .

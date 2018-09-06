@@ -1,0 +1,5 @@
+[/EN#15797/people A man] is riding in [/EN#15798/other a blue kayak] in [/EN#15799/scene the ocean] .
+[/EN#15797/people A man] in [/EN#15798/other a blue canoe] paddling in [/EN#15799/scene the ocean] .
+[/EN#15797/people A man] in [/EN#15798/other a blue kayak] paddles in [/EN#15799/scene water] .
+[/EN#15797/people A man] on [/EN#15799/scene the river] in [/EN#15798/other a blue kayak]
+[/EN#15797/people A man] is kayaking in [/EN#15799/scene the ocean] .

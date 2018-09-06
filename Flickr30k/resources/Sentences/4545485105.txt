@@ -1,0 +1,5 @@
+[/EN#176909/people A man] in [/EN#176910/clothing a black jacket] is admiring [/EN#176912/other the merchandise] from [/EN#176913/people a street vendor] [/EN#0/notvisual who] is wearing [/EN#176918/clothing a brown jacket] .
+[/EN#176915/people The lady] in [/EN#176920/clothing the yellow jacket] and wearing [/EN#176917/clothing a blue hat] seems to be looking at [/EN#176914/other something] .
+[/EN#176909/people A man] in [/EN#176910/clothing black jacket] looking at [/EN#176914/other items] from [/EN#176913/people a street vendor] on [/EN#176922/scene sidewalk] .
+[/EN#176909/people A man] is looking over [/EN#0/notvisual what] [/EN#176913/people a street vendor] has [/EN#176921/other more sale] .
+[/EN#176916/people Two men] are playing [/EN#176911/other chess] at [/EN#176912/scene a colorful stand] .

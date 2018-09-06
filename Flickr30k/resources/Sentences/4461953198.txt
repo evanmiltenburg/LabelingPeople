@@ -1,0 +1,5 @@
+[/EN#170446/people a flagman] holding [/EN#170448/other a stop] sing out on [/EN#170452/scene a country road] with [/EN#170450/other green trees] and [/EN#170451/other mailboxes] .
+[/EN#170446/people A road worker] wearing [/EN#170447/clothing yellow reflective vest] is holding on [/EN#170448/other the mobile stop sign] .
+[/EN#170446/people A cop] wearing [/EN#170447/clothing a high-visibility vest] is holding [/EN#170448/other a stop sign] .
+[/EN#170446/people A road worker] is holding [/EN#170448/other a stop sign] to [/EN#170453/vehicles direct traffic] .
+[/EN#170446/people A man] holding up [/EN#170448/other a stop sign] .

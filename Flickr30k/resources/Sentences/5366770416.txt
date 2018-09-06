@@ -1,0 +1,5 @@
+[/EN#234634/people A man] in [/EN#234642/scene a restaurant kitchen] , dressed in [/EN#234641/clothing white] with [/EN#234639/clothing a white apron] and [/EN#234637/clothing a straw hat] , is preparing to taste [/EN#234638/other some concoction] [/EN#0/notvisual that] is simmering in [/EN#234636/other a large steel pot] .
+[/EN#234634/people A man] wearing [/EN#234637/clothing a hat] and [/EN#234639/other apron samples] [/EN#234635/other a taste of simmering soup] .
+[/EN#234634/people Man] wearing [/EN#234637/clothing a hat] , preparing to taste [/EN#234638/other some food] [/EN#0/notvisual he] is cooking .
+[/EN#234634/people A chef] tastes [/EN#234638/other his food] over [/EN#234636/other a boiling pot] .
+[/EN#234635/other A chef taste] testing [/EN#234638/other his cooking] .

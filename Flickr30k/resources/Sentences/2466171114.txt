@@ -1,0 +1,5 @@
+[/EN#51553/animals The brown dog] with [/EN#51556/bodyparts the white chest] is carrying [/EN#51554/other a ball] .
+[/EN#51553/animals Brown dog] with [/EN#51554/other objest] in [/EN#51555/bodyparts mouth] moving toward [/EN#51557/other camera] .
+[/EN#51553/animals A brown dog] is carrying [/EN#51554/other a toy] in [/EN#51555/bodyparts its mouth] .
+[/EN#51553/animals A brown and white dog] fetching [/EN#51554/other a toy] .
+[/EN#51553/animals A dog] running though [/EN#51558/scene a grassy field] .

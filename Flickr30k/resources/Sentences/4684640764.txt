@@ -1,0 +1,5 @@
+[/EN#190364/people A scruffy man] walking down [/EN#190367/scene the street] carrying [/EN#190366/clothing a garbage bag] and [/EN#190365/clothing a backpack] .
+[/EN#190364/people A bearded long-haired man] walking on [/EN#190367/scene a street] carrying [/EN#190366/clothing a garbage bag] .
+[/EN#190364/people A man] walking along [/EN#190367/scene the street] carrying [/EN#190366/clothing a garbage bag] .
+[/EN#190364/people A man] with [/EN#190365/clothing a backpack] is holding [/EN#190366/clothing a full garbage bag] .
+[/EN#190364/people Man] carrying [/EN#190366/clothing garbage bag] full of [/EN#190368/other cans] .

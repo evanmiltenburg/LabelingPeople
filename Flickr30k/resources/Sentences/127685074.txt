@@ -1,0 +1,5 @@
+[/EN#6985/people A woman] is reading [/EN#6986/other a newspaper] and [/EN#6984/people a boy] is resting [/EN#6994/bodyparts his head] on [/EN#6992/scene a seat] in [/EN#6987/vehicles a rail car] .
+[/EN#6985/people A woman] reading [/EN#6986/other a newspaper] and [/EN#6984/people a man] in [/EN#6991/clothing a green jacket] riding [/EN#6987/vehicles/scene a train] .
+[/EN#6985/people A woman] in [/EN#6990/clothing a blue shirt] reads [/EN#6986/other a newspaper] while riding on [/EN#6987/vehicles/scene a train] .
+[/EN#6984/people A man] and [/EN#6985/people woman] are sitting on [/EN#6987/vehicles/scene a train] looking to [/EN#6988/scene the right] .
+[/EN#6989/people Two passengers] on [/EN#6993/other a train gaze out window] to [/EN#6988/scene their left] .

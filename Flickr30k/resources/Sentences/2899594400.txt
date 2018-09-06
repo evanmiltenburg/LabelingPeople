@@ -1,0 +1,5 @@
+[/EN#80133/people Two men] and [/EN#80135/animals a dog] are playing with [/EN#80134/other a ball] in front of [/EN#80138/vehicles/scene the boats] in [/EN#80137/scene the ocean] .
+[/EN#80133/people Two men] toss [/EN#80134/other a ball] while standing in [/EN#80137/scene the water] and [/EN#80136/animals a dog] is with [/EN#0/notvisual them] .
+[/EN#80133/people Two men] and [/EN#80135/animals a dog] are playing with [/EN#80134/other a ball] in [/EN#80137/scene the water] .
+[/EN#80133/people Two people] and [/EN#80136/animals a dog] playing in [/EN#80137/scene the water] with [/EN#80134/other a ball] .
+[/EN#80133/people Two boys] and [/EN#80135/animals a dog] playing [/EN#80139/other catch] in [/EN#80137/scene the water] .

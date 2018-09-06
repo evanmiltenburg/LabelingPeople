@@ -1,0 +1,5 @@
+[/EN#103652/people A bike rider] in [/EN#103653/clothing red] rides through [/EN#103656/other the trees] down [/EN#103654/scene a snowy hill] .
+[/EN#103652/people The rider] is biking in [/EN#103654/scene the snow] and wearing [/EN#103653/clothing a red jacket] .
+[/EN#103652/people A person] is riding [/EN#103655/vehicles a bike] in [/EN#103657/scene a wooded area] at [/EN#103658/scene night] .
+[/EN#103652/people Bike rider] riding downhill in [/EN#103657/scene forest] .
+[/EN#103652/people Cyclist] in [/EN#103657/scene snowy forest] at [/EN#103658/scene night]

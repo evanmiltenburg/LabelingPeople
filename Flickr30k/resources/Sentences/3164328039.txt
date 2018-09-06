@@ -1,0 +1,5 @@
+[/EN#97592/animals Two white dogs] are playing with [/EN#97593/other an orange ball] in [/EN#97594/scene the dry grass] .
+[/EN#97592/animals Two white dogs] are chasing [/EN#97593/other a ball] with [/EN#0/notvisual one of them] airborne .
+[/EN#97592/animals Two dogs] are playing [/EN#97595/other catch] in [/EN#97594/scene a field] .
+[/EN#97592/animals Two dogs] attempt to get [/EN#97593/other a small ball] .
+[/EN#97592/animals two dogs] jump for [/EN#97593/other the ball] .

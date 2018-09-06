@@ -1,0 +1,5 @@
+[/EN#142614/people A shirtless man] wearing [/EN#142616/clothing a backwards hat] and [/EN#142618/clothing blue jeans] balances on [/EN#142619/other his front bike tire] with [/EN#142623/other the back one] in [/EN#0/notvisual the air] .
+[/EN#142614/people A shirtless boy] wearing [/EN#142618/clothing baggy jeans] and [/EN#142620/other a backwards] [/EN#142616/clothing hat] is doing [/EN#0/notvisual a trick] on [/EN#142615/vehicles a BMX bike] .
+[/EN#142614/people A shirtless guy] on [/EN#142615/vehicles a BMX bike] is in [/EN#142624/other the process] of jumping [/EN#142617/scene a hill] on [/EN#142615/vehicles his BMX bike] .
+[/EN#142614/people A shirtless man] is riding [/EN#142615/vehicles his bicycle] , [/EN#0/notvisual which] is on [/EN#142619/other its front wheel] .
+[/EN#142614/people A male] is riding [/EN#142615/vehicles a bicycle] in [/EN#142617/scene uneven terrain] .

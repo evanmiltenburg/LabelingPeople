@@ -1,0 +1,5 @@
+[/EN#163480/people Two girls] are sitting at [/EN#163483/other a table] with [/EN#163482/other a green marker] standing up right on [/EN#163483/other the table] between [/EN#0/notvisual them] .
+[/EN#163480/people Two girls] sit at [/EN#163483/other a table] with [/EN#163482/other a green marker] standing on [/EN#163485/scene its end] .
+[/EN#163480/people a woman] sitting down on [/EN#163481/people a class] smiling at [/EN#0/notvisual the camera]
+[/EN#163480/people Two Asian girls] sitting at [/EN#163483/other a table] smiling .
+[/EN#163480/people Two girls] sitting in [/EN#163481/people class] .

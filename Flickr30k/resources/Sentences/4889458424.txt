@@ -1,0 +1,5 @@
+[/EN#215235/people A man] wearing [/EN#215238/clothing a dark green shirt] and [/EN#215236/other a camera] strapped around [/EN#215240/bodyparts his neck] stands on [/EN#215237/scene a city street] and [/EN#215239/bodyparts frowns] .
+[/EN#215235/people A man] with [/EN#215239/bodyparts a discouraged face] and [/EN#215238/clothing green shirt] stands in [/EN#215237/scene the street] with [/EN#215236/other a camera] .
+[/EN#215235/people A man] in [/EN#215238/clothing a green shirt] scowls as [/EN#0/notvisual he] stands on [/EN#215237/scene a city street] .
+[/EN#215235/people a man] frowns with [/EN#215236/other his camera] .
+[/EN#215235/people Frowning man] with [/EN#215236/other camera] .

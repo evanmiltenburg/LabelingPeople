@@ -1,0 +1,5 @@
+[/EN#0/notvisual A group of travelers of various backgrounds] walk down [/EN#131163/scene a hallway] , carrying and dragging [/EN#131165/other their luggage] .
+[/EN#131161/people A group of people] , many with [/EN#131169/clothing backpacks] , walk down [/EN#131162/other a corridor carrying rolling luggage] .
+[/EN#131161/people A group of travelers] pulling [/EN#131165/other suitcases] are making [/EN#131168/scene their way] down [/EN#131167/other a platform] .
+[/EN#131161/people Passengers] at [/EN#131166/scene an airport] carrying [/EN#131165/other their luggage] to and from [/EN#131164/scene the terminal] .
+[/EN#131161/people A group of people] are walking with [/EN#131162/other suitcases] .

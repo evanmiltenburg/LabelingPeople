@@ -1,0 +1,5 @@
+[/EN#191861/other A yellow barrier] and [/EN#191867/other other items] block [/EN#191863/scene a doorway] where [/EN#191860/people a man] is looking down .
+[/EN#191860/people A person] in [/EN#191865/scene a room] inspects [/EN#191868/other some sort of equipment] .
+[/EN#191860/people A worker] is working in [/EN#191863/scene an elevator] .
+[/EN#191860/people A man] is sitting by [/EN#191866/other a window] .
+[/EN#191862/other Custodian changes trashcans] .

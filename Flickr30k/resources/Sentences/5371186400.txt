@@ -1,0 +1,5 @@
+[/EN#234742/people A man] with [/EN#234742/people a cowboy] hat [/EN#234752/clothing green plaid shirt] , [/EN#234753/clothing jeans] , and [/EN#234754/clothing red boots] and [/EN#234749/scene chaps] rides [/EN#234741/animals a bay horse] next to [/EN#234744/people a young boy] with [/EN#234755/clothing a cowboy hat] and [/EN#234756/clothing blue shirt] , [/EN#234753/clothing jeans] and [/EN#234748/scene chaps] rides [/EN#234743/animals a pony] next to [/EN#0/notvisual him] .
+[/EN#234741/animals A full sized horse] and [/EN#234742/people rider guide] [/EN#234743/animals a pint sized horse] and [/EN#234744/people rider] through [/EN#234751/scene the stables] .
+[/EN#234742/people A grandfather] is taking [/EN#0/notvisual is] grandchild for [/EN#234758/other a horseback ride] .
+[/EN#234742/people A man] with [/EN#234744/people his child] on [/EN#234745/animals horses] in [/EN#234747/scene a rural , farm] setting .
+[/EN#0/notvisual There] 's [/EN#234742/people a mam] and [/EN#234744/people his son] riding on [/EN#234745/animals horses] .

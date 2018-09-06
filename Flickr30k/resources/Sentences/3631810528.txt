@@ -1,0 +1,5 @@
+[/EN#132803/people two people] being photographed from behind sitting on [/EN#132804/vehicles/scene a bus]
+[/EN#132803/people Two people] are sitting on [/EN#132809/vehicles a tram] during [/EN#132805/other the nighttime] .
+[/EN#132803/people The back of two people] sitting on [/EN#132808/scene one seat] in [/EN#132804/vehicles/scene a bus] .
+[/EN#132803/people Two people] are sitting on [/EN#132804/vehicles/scene the bus] at [/EN#132805/other nighttime] .
+[/EN#132806/people A man] sits next to [/EN#132807/people a woman] on [/EN#132804/vehicles/scene a bus] .

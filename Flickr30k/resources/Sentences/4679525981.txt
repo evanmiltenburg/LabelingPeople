@@ -1,0 +1,5 @@
+[/EN#189783/people An elderly person] wearing [/EN#189786/clothing a white shirt] is standing on [/EN#189785/scene the balcony of a beige house] overlooking [/EN#189787/scene a street] called " [/EN#189784/other Piazza Miradore] . "
+[/EN#189783/people An older woman] leans on [/EN#189785/scene the balcony guard rail of an apartment building] ; [/EN#0/notvisual she] is looking out over [/EN#189788/other a street lamp] .
+[/EN#189783/people An elderly woman] in [/EN#189786/clothing a white shirt] is standing on [/EN#189785/scene a balcony of a building] .
+[/EN#189783/people A lady] standing out on [/EN#189785/scene a balcony] above [/EN#189784/other a Pizza Miradore sign] .
+[/EN#189783/people An old lady] in [/EN#189786/clothing a white shirt] looks out from [/EN#189785/scene a balcony] .

@@ -1,0 +1,5 @@
+[/EN#133930/vehicles Cars] covered in [/EN#133934/scene snow] with [/EN#133929/people a man] walking with [/EN#133933/other a snow plow] on [/EN#133931/scene the sidewalk] in front of [/EN#133934/scene the snow] covered [/EN#133930/vehicles vehicles] .
+[/EN#133929/people A man] in [/EN#133932/clothing a red jacket] is walking in front of [/EN#133930/vehicles cars] [/EN#0/notvisual which] are covered with [/EN#133934/scene snow] .
+[/EN#133929/people A man] in [/EN#133932/clothing a red jacket] uses [/EN#133933/other a snow blower] to clear [/EN#133931/scene the sidewalk] .
+[/EN#133929/people A man] in [/EN#133932/clothing a red coat] is snowblowing [/EN#133931/scene a parking lot] .
+[/EN#133929/people A person] is snowblowing [/EN#133931/scene a path] outside .

@@ -1,0 +1,5 @@
+[/EN#43690/people An African-American man] wearing [/EN#43691/clothing a green sweatshirt] and [/EN#43697/clothing blue vest] is holding up [/EN#43689/other 2 dollar bills] in front of [/EN#43694/bodyparts his face] , while standing on [/EN#43695/scene a busy sidewalk] in front of [/EN#43692/people a group of men] playing [/EN#43699/instruments instruments] .
+[/EN#43690/people A man] in [/EN#43691/clothing a green jacket] is standing outside [/EN#43693/scene a store] holding [/EN#43689/other some money] in front of [/EN#43694/bodyparts his face] .
+[/EN#43690/people A man] holds [/EN#43700/animals a dollar bill] in front of [/EN#43694/bodyparts his face] while posing in front of [/EN#43696/people a street band] .
+[/EN#43690/people A man] holding [/EN#43689/other money] , standing in front of [/EN#43692/people a street band] and [/EN#43693/scene a store] .
+[/EN#43690/people A man] holds [/EN#43689/other money] in [/EN#0/notvisual the air] .

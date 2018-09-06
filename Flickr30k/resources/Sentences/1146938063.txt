@@ -1,0 +1,5 @@
+[/EN#3804/people Two men] talk while [/EN#3805/other the one] on [/EN#3816/scene the right] holds in [/EN#3806/bodyparts/people his left arm] , and [/EN#3807/other the one] on [/EN#3817/scene the right] holds [/EN#3808/other a notebook] behind [/EN#0/notvisual him] , [/EN#0/notvisual they] are in [/EN#3809/scene a field] .
+[/EN#3810/people The man] in [/EN#3811/clothing the white shirt] is listening to [/EN#3812/people the man] in [/EN#3813/clothing the blue shirt] .
+[/EN#3804/people Two men] , [/EN#3805/clothing one black] , [/EN#3814/clothing one white] , are holding [/EN#3815/other books] and talking .
+[/EN#3804/people Two men] carrying [/EN#3815/other books] , walking and talking in [/EN#3809/scene a field] .
+[/EN#3804/people Two people] are standing in [/EN#3809/scene a field] holding [/EN#3815/other some books] .

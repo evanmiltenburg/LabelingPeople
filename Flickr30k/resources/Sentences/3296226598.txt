@@ -1,0 +1,5 @@
+[/EN#107629/people A man] in [/EN#107637/clothing a black leather jacket] walks next to [/EN#107633/scene a white brick building] in [/EN#107630/scene a big city] .
+[/EN#107629/people A man] is looking into [/EN#0/notvisual the distance] whilst [/EN#107635/people people] behind [/EN#0/notvisual him] walk between [/EN#107631/scene buildings] .
+[/EN#107629/people A black man] is walking past [/EN#107631/scene a building] on [/EN#107634/scene a busy sidewalk] .
+[/EN#107629/people A black man] is walking next to [/EN#107631/scene a building] in [/EN#107630/scene a big city] .
+[/EN#107629/people A man] walking next to [/EN#107633/other a gray brick wall] .

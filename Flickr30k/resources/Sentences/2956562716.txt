@@ -1,0 +1,5 @@
+[/EN#83930/animals Four dogs] in [/EN#83933/other a circle] on [/EN#83931/scene the grass] in [/EN#0/notvisual the distance] and [/EN#83932/animals a black dog] on [/EN#83931/scene the grass] in [/EN#83936/scene forefront] .
+[/EN#83930/animals Five dogs] play in [/EN#83931/scene a large fenced yard] bordering [/EN#83935/other a group of autumnal trees] .
+[/EN#83930/animals Four dogs] are playing in [/EN#83933/other a circle] and [/EN#83932/animals one black dog] is walking away .
+[/EN#83934/other Several dogs of different breeds] play in [/EN#83931/scene a backyard] .
+[/EN#83930/animals Dogs] playing in [/EN#83931/scene the yard] .

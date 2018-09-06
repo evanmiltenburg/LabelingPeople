@@ -1,0 +1,5 @@
+[/EN#151482/people A man] changing [/EN#151485/other the tire] and doing [/EN#151492/other some maintenance] on [/EN#151487/vehicles/scene a bus] , with [/EN#151484/people someone] assisting with [/EN#151485/other the tires] .
+[/EN#151482/people A man] in [/EN#151486/clothing a blue dress] is working under [/EN#151487/vehicles/scene a bus] , [/EN#151484/people another man] is rotating [/EN#151485/other a tyre] .
+[/EN#151483/people A person] has [/EN#151485/other one wheel] off of [/EN#151487/vehicles/scene a bus] while tinkering around [/EN#151485/other the wheel] well .
+[/EN#151485/vehicles/scene The wheel of the bus] is being held by [/EN#151483/people a person] in [/EN#151491/clothing a black shirt] .
+[/EN#151484/people Man] in [/EN#151486/clothing blue overalls] works on [/EN#151485/other a bus 's wheel] .

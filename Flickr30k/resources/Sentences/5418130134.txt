@@ -1,0 +1,5 @@
+[/EN#236089/people A dance troupe of twelve people] spotlighted and wearing [/EN#236090/clothing black shirts] , [/EN#236091/clothing pants] , and [/EN#236092/clothing fedora hats] holding [/EN#236098/other canes] above [/EN#236093/bodyparts their heads] being lead by [/EN#236094/people another dancer] dressed all in [/EN#236095/clothing white] and not wearing [/EN#236102/clothing a fedora] .
+[/EN#236089/people A group of dancers] , wearing [/EN#236091/clothing black pants] , [/EN#236090/clothing tank tops] , and [/EN#236092/clothing black hats] , are dancing , holding [/EN#236098/other canes] in [/EN#0/notvisual the air] , with [/EN#236096/bodyparts their right legs] slightly extended .
+[/EN#236089/people A group of men] and [/EN#236089/people women] perform [/EN#236101/other a dance] on [/EN#236100/scene stage] .
+[/EN#236089/people A group of people] are preparing for [/EN#236103/other a musical] .
+[/EN#236097/people Dancers] on [/EN#236100/scene a stage] during [/EN#236099/other one their shows] .

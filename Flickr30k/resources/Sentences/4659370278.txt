@@ -1,0 +1,5 @@
+[/EN#187785/people A woman] with [/EN#187786/clothing a pink umbrella] and [/EN#187787/clothing a shopping bag] walks down [/EN#187789/scene a sidewalk] .
+[/EN#187785/people An Asian woman] is walking and carrying [/EN#187787/clothing a pink bag] and [/EN#187786/clothing pink umbrella] .
+[/EN#187785/people A woman] standing by [/EN#187788/scene a construction area] with [/EN#187786/clothing a pink umbrella] .
+[/EN#187785/people A woman] in [/EN#187790/clothing jeans] walking with [/EN#187786/clothing an umbrella] .
+[/EN#187785/people A woman] holding [/EN#187786/clothing an umbrella] .

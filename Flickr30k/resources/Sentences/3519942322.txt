@@ -1,0 +1,5 @@
+[/EN#124430/animals A rather large blond dog] with [/EN#124433/clothing a black collar] chases [/EN#124431/other a blue and yellow toy] .
+[/EN#124430/animals The tan dog] runs toward [/EN#124431/other the small toy] [/EN#0/notvisual that] is laying in [/EN#124432/scene the grass] .
+[/EN#124430/animals A golden dog] is looking at [/EN#124431/other a blue and yellow toy] on [/EN#124432/scene the grass] .
+[/EN#124430/animals Large brown dog] playing with [/EN#124431/other a chew toy] on [/EN#124432/scene the grass] .
+[/EN#124430/animals A dog] chases [/EN#124431/other a dog toy] on [/EN#124432/scene the grass] .

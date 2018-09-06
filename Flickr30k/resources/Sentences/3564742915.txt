@@ -1,0 +1,5 @@
+[/EN#128096/people Two mountain climbers] walk through [/EN#128098/scene a pass] with [/EN#128099/scene snowy mountains] behind [/EN#0/notvisual them] .
+[/EN#128096/people Two hikers] are climbing through [/EN#128102/other a rocky and snowy passage] in [/EN#128099/scene the mountains] .
+[/EN#128096/people Two mountain-climbing hikers] ascend [/EN#128100/scene a rocky path] through [/EN#128101/scene patches of snow] .
+[/EN#128096/people Two people] are climbing up [/EN#128097/scene a huge , snowy mountain] .
+[/EN#128096/people Two people] are walking up [/EN#128097/scene a mountain] .

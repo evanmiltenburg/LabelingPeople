@@ -1,0 +1,5 @@
+[/EN#9858/animals A dog] wearing [/EN#9860/clothing a red saddle] is running across [/EN#9859/scene a field] with [/EN#9859/scene low grass] and [/EN#9862/other trees] nearby .
+[/EN#9858/animals A dog] with [/EN#9863/bodyparts long hair] and [/EN#9860/clothing a red vest] runs in [/EN#9859/scene the grass] .
+[/EN#9858/animals A tan dog] wearing [/EN#9860/clothing a red shirt] runs through [/EN#9859/scene the grass] .
+[/EN#9858/animals a dog] in [/EN#9860/clothing a red jacket] is running on [/EN#9859/scene the grass] .
+[/EN#9858/animals The dog] in [/EN#9860/clothing the red vest] runs in [/EN#9859/scene the field] .

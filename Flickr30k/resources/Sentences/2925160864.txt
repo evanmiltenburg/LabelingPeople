@@ -1,0 +1,5 @@
+[/EN#81818/people A woman] running in [/EN#81820/other a marathon] wearing [/EN#81819/clothing a blue tank top] and [/EN#81821/clothing black shorts] and [/EN#81822/clothing socks] with [/EN#81826/other a yellow tag] with [/EN#81823/other numbers] [/EN#81823/other 3646] on [/EN#81819/clothing the front of her top] .
+[/EN#81818/people A woman] wearing [/EN#81821/clothing bike shorts] , [/EN#81827/clothing gloves] , [/EN#81819/clothing a blue tank top] , [/EN#81822/clothing knee-high socks] , and [/EN#81829/clothing tennis shoes] runs in [/EN#81820/other a race] down [/EN#81825/scene the street] .
+[/EN#81818/people A woman] in [/EN#81819/clothing a blue tank top] and [/EN#81821/clothing spandex shorts] is running in [/EN#81820/other a race] and [/EN#81824/people a man] is catching up to [/EN#0/notvisual her] .
+[/EN#81818/people A female runner] is participating in [/EN#81820/other a marathon] .
+[/EN#81818/people A woman] running [/EN#81820/other a marathon] .

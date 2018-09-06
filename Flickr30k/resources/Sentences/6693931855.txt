@@ -1,0 +1,5 @@
+[/EN#256950/people A man] wearing [/EN#256955/clothing a helmet] is jumping [/EN#256951/vehicles his bike] down [/EN#256953/scene a staircase] .
+[/EN#256950/people A boy] riding [/EN#256951/vehicles a green trick bike] over [/EN#256952/other some steps] outdoors .
+[/EN#256950/people A man] on [/EN#256951/vehicles a mountain bike] jumping down [/EN#256952/other a set of stairs] .
+[/EN#256950/people Professional bicyclist] hopping off outside [/EN#256952/other stairs] .
+[/EN#256950/people A man] is [/EN#256954/scene midair] on [/EN#256951/vehicles a bike] over [/EN#256952/other some stairs] .

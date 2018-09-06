@@ -1,0 +1,5 @@
+[/EN#239972/other A fire] burns in [/EN#239974/other a barrel] on [/EN#239980/scene the concrete floor] while [/EN#239973/people a man] stands on [/EN#239977/other a platform of scaffolding] .
+[/EN#239973/people A man] is standing on [/EN#239977/other scaffolding] in [/EN#239981/scene a studio] while [/EN#239972/other a fire] burns in [/EN#0/notvisual the foreground] .
+[/EN#239973/people Man] with [/EN#239983/clothing a blue jacket] and [/EN#239984/clothing white pants] , standing on [/EN#239976/other a platform] , working .
+[/EN#239973/people A man] standing on [/EN#239977/other scaffolding] next to [/EN#239975/other a white ladder] and [/EN#239974/other a burning bin] .
+[/EN#239973/people Man] working on [/EN#239977/other scaffolding] at [/EN#239979/scene construction job site] .

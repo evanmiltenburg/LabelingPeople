@@ -1,0 +1,5 @@
+[/EN#57124/people A little boy] with [/EN#57127/clothing a blue shirt] is wearing [/EN#57125/clothing a helmet] and riding [/EN#57126/vehicles a two wheeled bike] .
+[/EN#57124/people A young child] rides [/EN#57126/vehicles a small purple bike] while wearing [/EN#57125/clothing a red helmet] .
+[/EN#57124/people A young child] wearing [/EN#57125/clothing a bike helmet] rides [/EN#57126/vehicles a two wheel bike] .
+[/EN#57124/people A young child] is riding [/EN#57126/vehicles a purple bike] .
+[/EN#57124/people a young boy] rides [/EN#57126/vehicles a purple bike] .

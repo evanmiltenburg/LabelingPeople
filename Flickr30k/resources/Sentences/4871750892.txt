@@ -1,0 +1,5 @@
+[/EN#213498/people A guy] with [/EN#213500/clothing a white hat] and [/EN#213499/clothing long green jacket] on walking against [/EN#213501/other the side of a tan wall] .
+[/EN#213498/people A man] in [/EN#213499/clothing green] with [/EN#213504/bodyparts a beard] and [/EN#213500/clothing white hat] is walking next to [/EN#213501/other a large orange wall] .
+[/EN#213498/people A man] wearing [/EN#213499/clothing a green robe] and [/EN#213500/clothing white hat] is walking in front of [/EN#213501/other an orange wall] .
+[/EN#213498/people A man] in [/EN#213500/clothing a hat] is walking beside [/EN#213501/scene a large building] made out of [/EN#213501/other adobe] .
+[/EN#213498/people Man] in [/EN#213503/clothing religious clothes] , walking by [/EN#213501/other orange wall]

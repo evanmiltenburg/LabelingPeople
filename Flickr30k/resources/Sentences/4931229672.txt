@@ -1,0 +1,5 @@
+[/EN#219651/people A man] on [/EN#219653/other horseback] , inside [/EN#219656/scene a corral] , is chasing [/EN#219652/animals a steer] .
+[/EN#219651/people A man] riding [/EN#219653/animals a horse] attempts to lasso [/EN#219652/animals livestock] in [/EN#219655/other a pen] .
+[/EN#219651/people A cowboy] on [/EN#219653/other horseback] is attempting to rope [/EN#219652/animals a calf] .
+[/EN#219651/people A man] riding [/EN#219653/animals a horse] trying to rope [/EN#219652/animals a calf] .
+[/EN#219651/people a cowboy] riding [/EN#219653/animals a horse] outside .

@@ -1,0 +1,5 @@
+[/EN#276929/people A woman] in [/EN#276931/clothing a red dress] is singing on [/EN#276933/scene a stage] as [/EN#276930/people a man] in [/EN#276934/clothing a suit] plays [/EN#276932/instruments a saxaphone] .
+[/EN#276929/people A woman] in [/EN#276931/clothing a red dress] is signing while [/EN#276930/people a man] in [/EN#276934/clothing a suit] is playing [/EN#276932/instruments the saxophone] .
+[/EN#276929/people A female singer] and [/EN#276930/people a male saxophonist] are performing on [/EN#276933/scene stage] .
+[/EN#276929/people Asian singer] performs live [/EN#276937/other jazz music] in [/EN#276936/scene a nightclub] .
+[/EN#276935/people A quartet] is performing inside .

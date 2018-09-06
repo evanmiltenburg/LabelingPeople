@@ -1,0 +1,5 @@
+[/EN#19045/people A man] in [/EN#19047/clothing military camouflage] is working [/EN#19046/animals a shepherd type dog] in [/EN#19058/scene a grassy area] while being observed by [/EN#19053/other others] in [/EN#19059/scene a parking lot] in [/EN#19057/clothing uniform] .
+[/EN#19045/people A cop] is walking [/EN#19046/animals a crime dog] to find [/EN#19048/other something] while [/EN#19054/people paramedics] discuss by [/EN#19055/other their van] .
+[/EN#19045/people A man] in [/EN#19056/clothing uniform] tries to find [/EN#19048/other something] with [/EN#19046/animals the help of a sniffing dog] .
+[/EN#19045/other A many] dressed in [/EN#19047/other army gear] walks on [/EN#19050/other the crash] walking [/EN#19046/animals a brown dog] .
+[/EN#19045/people A man] with [/EN#19047/other army fatigues] is walking [/EN#19046/animals his dog] .

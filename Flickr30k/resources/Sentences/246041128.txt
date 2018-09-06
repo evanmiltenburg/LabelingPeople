@@ -1,0 +1,5 @@
+[/EN#51157/people A woman] with [/EN#51161/bodyparts bright red lipstick] and [/EN#51160/bodyparts big blond-hair] sitting at [/EN#51158/other an outside cafe]
+[/EN#51157/people A woman] [/EN#0/notvisual who] is wearing [/EN#51161/bodyparts red lipstick] and has [/EN#51160/bodyparts curly hair] sits at [/EN#51159/other a table] .
+[/EN#51157/people A woman] sits at [/EN#51159/other an outdoor cafe table] with [/EN#51160/bodyparts really big blond-hair] .
+[/EN#51157/people A woman] with [/EN#51160/bodyparts thick curly blond-hair] sits [/EN#51163/scene outdoors] at [/EN#51159/other a table] .
+[/EN#51157/people A girl] with [/EN#51160/bodyparts blond-hair] and [/EN#51164/clothing a black shirt] .

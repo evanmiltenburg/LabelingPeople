@@ -1,0 +1,5 @@
+[/EN#136593/people A man] is holding [/EN#136595/other a shopping basket] standing in front of [/EN#136602/other a sign] at [/EN#136599/people the fish department] [/EN#0/notvisual that] says " [/EN#136598/people Fishmonger] "
+[/EN#136593/people A man] in [/EN#136594/clothing a black coat] carrying [/EN#136595/other a blue basket] standing in front of [/EN#136600/other a fish service] inside of [/EN#136596/scene a grocery store] .
+[/EN#136593/people Guy] in [/EN#136594/clothing black jacket] looks on at [/EN#136601/scene the poultry section] while [/EN#136603/other shopping] .
+[/EN#136593/people A man] looks at [/EN#136597/animals fish] available at [/EN#136596/scene the grocery store] .
+[/EN#136593/people A man] wearing [/EN#136594/clothing a black jacket] buying [/EN#136597/animals fish] .

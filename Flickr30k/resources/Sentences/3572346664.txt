@@ -1,0 +1,5 @@
+[/EN#128556/bodyparts The woman 's face] falls into [/EN#128560/scene silhouette] as [/EN#0/notvisual she] stands in front of [/EN#128558/other the sun] .
+[/EN#128554/people The woman] stands outdoors in front of [/EN#128558/other the sun] .
+[/EN#128554/people A girl] in [/EN#128561/clothing a sweater] is blocking [/EN#128558/other the suns rays] .
+[/EN#128558/other The sun] is under [/EN#128559/bodyparts someone 's nose] .
+[/EN#128554/people A person] outlined by [/EN#128558/other the sun]

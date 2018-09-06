@@ -1,0 +1,5 @@
+[/EN#29992/people An Asian woman] wearing [/EN#29994/clothing a black shirt] with [/EN#30001/other white circles] and [/EN#29995/clothing yellow sandals] sits in front of [/EN#29997/other a wall] with [/EN#29993/clothing a basket of clothes] beside [/EN#0/notvisual her] .
+[/EN#29992/people An Asian woman] in [/EN#29994/clothing a black and white printed shirt] sits by [/EN#29997/scene the side of a building] .
+[/EN#29992/people An Asian person] with [/EN#29995/clothing yellow sandals] sitting with [/EN#29993/other a basket] to [/EN#29999/scene their right] .
+[/EN#29992/people A dark-haired woman] sits on [/EN#29996/other a curb] with [/EN#29993/other some refuse] .
+[/EN#29992/people A woman] is sitting [/EN#29998/scene outdoors] next [/EN#29993/other a basket] .

@@ -1,0 +1,5 @@
+[/EN#70808/animals A muzzled greyhound dog] wearing [/EN#70809/clothing yellow and black] is running on [/EN#70812/scene the track] .
+[/EN#70810/bodyparts A race dog 's feet] dig in [/EN#70814/other the mud] as [/EN#0/notvisual he] makes [/EN#70816/scene his way] around [/EN#70813/other a curve] .
+[/EN#70814/other Sand] is kicked up as [/EN#70811/animals two animals] run .
+[/EN#70811/animals Two dogs] on [/EN#70812/scene a wet , sandy track] .
+[/EN#70808/animals A greyhound] racing .

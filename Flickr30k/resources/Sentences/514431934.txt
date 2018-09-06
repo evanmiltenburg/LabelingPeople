@@ -1,0 +1,5 @@
+[/EN#229827/vehicles A red ambulance] drives down [/EN#229829/scene the street] as [/EN#229828/people two people] look on .
+[/EN#229828/people Two people] in [/EN#229832/other Seattle] looking at [/EN#229827/vehicles an ambulance] in [/EN#229829/scene the street] .
+[/EN#229827/vehicles An Ambulance] is passing [/EN#229830/people a man] wearing [/EN#229833/clothing a bandanna] and [/EN#229831/people girl] .
+[/EN#229828/people Two people] stand before [/EN#229827/vehicles an ambulance] .
+[/EN#229827/vehicles an ambulance] drives on [/EN#229829/scene the street] .

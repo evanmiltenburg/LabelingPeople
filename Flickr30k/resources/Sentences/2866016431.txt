@@ -1,0 +1,5 @@
+[/EN#77673/people A woman] dressed in [/EN#77677/clothing black] with [/EN#77674/other a green rolling suitcase] walks down [/EN#77675/scene the sidewalk] .
+[/EN#77673/people A woman] pulling [/EN#77674/other her suitcase] down [/EN#77676/scene the sidewalk] approaches [/EN#77675/scene an intersection] .
+[/EN#0/notvisual There] is [/EN#77673/people a lady] towing [/EN#77674/other her suitcase] behind [/EN#0/notvisual her] down [/EN#77675/scene the road] .
+[/EN#77673/people A woman] in [/EN#77677/clothing black] walks down [/EN#77676/scene a street] with [/EN#77674/other luggage] .
+[/EN#77673/people Lady] pulling [/EN#77674/other suitcase] down [/EN#77676/scene sidewalk] .

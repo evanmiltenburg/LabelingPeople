@@ -1,0 +1,5 @@
+[/EN#158701/people A man] bending over holding [/EN#158703/other a tennis ball] and playing with [/EN#158702/animals his dog] .
+[/EN#158701/people A man] in [/EN#158705/clothing a winter hat] plays with [/EN#158702/animals a small black dog] in [/EN#158704/scene the snow] .
+[/EN#158701/people A man] with [/EN#158703/other a tennis ball] playing with [/EN#158702/animals his dog] .
+[/EN#158701/people A man] is playing with [/EN#158702/animals a dog] in [/EN#158704/scene the snow] .
+[/EN#158701/people A man] plays with [/EN#158702/animals his dog] in [/EN#158704/scene the snow] .

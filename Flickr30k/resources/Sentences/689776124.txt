@@ -1,0 +1,5 @@
+[/EN#260775/animals A dark dog] with [/EN#260776/bodyparts its tongue] hanging out runs through [/EN#260777/scene the grass] .
+[/EN#260775/animals A black dog] is happily running through [/EN#260777/scene the grass] .
+[/EN#260775/animals A black dog] running toward [/EN#0/notvisual the camera] .
+[/EN#260775/animals a black dog] runs with [/EN#260776/bodyparts its tongue] out .
+[/EN#260775/animals A dog] plays in [/EN#260777/scene the grass] .

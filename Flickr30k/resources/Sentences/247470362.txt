@@ -1,0 +1,5 @@
+[/EN#52226/people A man] wearing [/EN#52227/clothing a tank top] is positioning [/EN#52228/other a piece of metal] over [/EN#52229/bodyparts his head] .
+[/EN#52226/people A man] wearing [/EN#52227/clothing a black sleeveless shirt] doing [/EN#52230/other construction work] .
+[/EN#52226/people A man] in [/EN#52227/clothing a black shirt] is reaching above [/EN#52229/bodyparts his head] .
+[/EN#52226/people A man] in [/EN#52227/clothing a black shirt] is working on [/EN#52231/scene a building] .
+[/EN#52226/people Construction worker] holding [/EN#52228/other a metal slate] .

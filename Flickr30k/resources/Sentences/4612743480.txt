@@ -1,0 +1,5 @@
+[/EN#182727/people Two elderly people] wearing [/EN#182730/clothing blue shirts] are sitting by [/EN#182731/other a rock formation] , socializing while [/EN#0/notvisual they] eat .
+[/EN#182727/people Two elderly women] are sitting on [/EN#182728/other a bench] eating [/EN#182729/other snacks] .
+[/EN#182727/people Two older ladies] wearing [/EN#182730/clothing blue] eat [/EN#182729/other a snack] on [/EN#182728/other a bench] .
+[/EN#182727/people The two grandma] is talking to [/EN#0/notvisual each other] .
+[/EN#182727/people Two people] eat and converse [/EN#182732/scene outdoors] .

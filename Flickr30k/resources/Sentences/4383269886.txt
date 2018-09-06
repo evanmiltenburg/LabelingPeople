@@ -1,0 +1,5 @@
+[/EN#165743/people A woman] in [/EN#165747/clothing a blue headband] and [/EN#165752/clothing goggles] is walking or running in [/EN#165745/other an public walk] or run .
+[/EN#165742/people A group of people] are running [/EN#165744/other a race] in [/EN#165751/other cold weather] .
+[/EN#165743/people A woman] in [/EN#165746/clothing a black shirt] in [/EN#165744/other a race] for [/EN#165753/other some cause] .
+[/EN#165742/people Runners] compete on [/EN#165749/scene a cold day] in [/EN#165748/scene the city] .
+[/EN#165742/people People] are running [/EN#165744/other a race] in [/EN#165750/scene a park] .

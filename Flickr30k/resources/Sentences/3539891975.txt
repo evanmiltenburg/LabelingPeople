@@ -1,0 +1,5 @@
+[/EN#126012/people The runner] in [/EN#126017/clothing the white shirt] works hard to beat [/EN#126008/people the runner] in [/EN#126013/clothing the blue shirt] .
+[/EN#126011/people A man] in [/EN#126018/clothing a yellow shirt] watches as [/EN#126007/people runners] are about to run past [/EN#0/notvisual him] .
+[/EN#126009/people People] with [/EN#126019/other numbers] on [/EN#126020/clothing their shirts] are running down [/EN#126015/scene a road] .
+[/EN#126009/people Several people] are running [/EN#126010/other a race] next to [/EN#126016/scene a vineyard] .
+[/EN#126007/people Runners] in [/EN#126010/other a race] are running up [/EN#126014/scene a hill] .

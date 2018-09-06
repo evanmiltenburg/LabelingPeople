@@ -1,0 +1,5 @@
+[/EN#8521/people A man] wearing [/EN#8524/clothing dark clothing] is [/EN#8525/other talk] to [/EN#8520/people a young boy] while [/EN#0/notvisual they] are walking down [/EN#8523/scene the sidewalk] .
+[/EN#8521/people A smiling man] and [/EN#8520/people a boy] with [/EN#8522/clothing a backpack] on are walking on [/EN#8523/scene a sidewalk] .
+[/EN#8521/people A man] walking next to [/EN#8520/people a little boy] wearing [/EN#8522/clothing a backpack] .
+[/EN#8521/people A man] walking down [/EN#8523/scene the street] with [/EN#8520/people a small boy] .
+[/EN#8520/people A boy] with [/EN#8522/clothing a backpack] is walking .

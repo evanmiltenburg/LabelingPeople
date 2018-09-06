@@ -1,0 +1,5 @@
+[/EN#29171/people A man] in [/EN#29172/clothing a beige jacket] and [/EN#29174/clothing jeans] walks around [/EN#29173/scene a street corner] .
+[/EN#29171/people A elderly man] in [/EN#29172/clothing a tan jacket] is crossing [/EN#29173/scene a city street] .
+[/EN#29171/people Man] in [/EN#29172/clothing tan jacket] walking in [/EN#29173/scene the street] .
+[/EN#29171/people an older man] is walking down [/EN#29173/scene the street] .
+[/EN#29171/people A man] walks in [/EN#29173/scene the street] .

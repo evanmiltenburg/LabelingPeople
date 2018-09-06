@@ -1,0 +1,5 @@
+[/EN#169852/people A bunch of different kids] sit in [/EN#169853/other a bunch of canoes] .
+[/EN#169852/people Children] in [/EN#169853/other canoes] floating down [/EN#169854/scene a river] .
+[/EN#169852/people Children] are in [/EN#169853/vehicles/scene wooden boats] on [/EN#169854/scene a lake] .
+[/EN#169852/people A bunch of kids] in [/EN#169853/other canoes] on [/EN#169854/scene a river] .
+[/EN#169852/people Children] in [/EN#169853/vehicles/scene boats] in [/EN#169854/scene the water] .

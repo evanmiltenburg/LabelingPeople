@@ -1,0 +1,5 @@
+[/EN#188735/people A man] in [/EN#188737/clothing a bright yellow shirt] stands in front of [/EN#188736/scene a building] painted [/EN#188740/other a matching color] , next to [/EN#188738/other a pay phone] [/EN#0/notvisual which] is also yellow .
+[/EN#188735/people A man] in [/EN#188737/clothing a bright yellow shirt] standing outside of [/EN#188736/scene a bright yellow building] near [/EN#188738/other a pay phone] [/EN#0/notvisual which] has [/EN#188739/other a bright yellow handset] .
+[/EN#188735/people black male] wearing [/EN#188737/clothing yellow shirt] standing next to [/EN#188738/other pay phone] in front of [/EN#188736/other yellow storefront]
+[/EN#188735/people Old man] in [/EN#188737/clothing a yellow shirt] standing in front of [/EN#188736/scene a yellow building] next to [/EN#188738/other a pay phone] .
+[/EN#188735/people An african american man] is standing outside of [/EN#188736/scene a yellow repair store] .

@@ -1,0 +1,5 @@
+[/EN#83094/animals One dog] is sniffing [/EN#0/notvisual the ground] by [/EN#83096/scene the wooden fence] [/EN#83101/other whist] [/EN#83094/animals another dog] is carrying [/EN#83095/other a Frisbee] in [/EN#83097/bodyparts its mouth] .
+[/EN#83094/animals One brown and white dog] with [/EN#83095/other a green Frisbee] in [/EN#83097/bodyparts mouth] and [/EN#83098/animals one brown and white dog] by [/EN#83096/scene the fence] .
+[/EN#83094/animals A brown and white dog] is running with [/EN#83095/other a yellow Frisbee] .
+[/EN#0/notvisual There] is [/EN#83094/animals a dog] carrying [/EN#83095/other a Frisbee] .
+[/EN#83098/animals Two dogs] , [/EN#83094/other one] with [/EN#83095/other a Frisbee] .

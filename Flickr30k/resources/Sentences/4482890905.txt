@@ -1,0 +1,5 @@
+[/EN#172072/people A man] wearing [/EN#172078/clothing a jacket] is painting [/EN#172074/other a picture] while [/EN#172073/people people] walk past [/EN#0/notvisual him] .
+[/EN#172072/people A man] is doing [/EN#172074/other art] on [/EN#172075/scene a sidewalk] while [/EN#172073/people many other people] walk by .
+[/EN#172072/other A male African artist painting] in [/EN#172077/scene an urban setting] .
+[/EN#172072/people A man] is painting [/EN#172074/other a picture] in [/EN#172073/people a crowd of people] .
+[/EN#172072/people A man] on [/EN#172075/scene the street] drawing [/EN#172074/people pictures of people] .

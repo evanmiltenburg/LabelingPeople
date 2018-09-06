@@ -1,0 +1,5 @@
+[/EN#270278/people A guy] in [/EN#270280/clothing a red and black suit] and [/EN#270283/clothing goggles] is riding [/EN#270279/vehicles a bike] through [/EN#270284/scene a street] .
+[/EN#270278/people A cyclist] wearing [/EN#270280/clothing a red and black jersey] is competing in [/EN#270282/other a race] .
+[/EN#270278/people A man] wearing [/EN#270280/clothing a red and black bike suit] is riding [/EN#270279/vehicles his bike] .
+[/EN#270278/people A cyclist] in [/EN#270280/clothing a red uniform] rounding [/EN#270281/other a curve] on [/EN#270279/vehicles his bike] .
+[/EN#270278/people A male Tour De France biker] racing alone .

@@ -1,0 +1,5 @@
+[/EN#229980/people A young child] in [/EN#229982/clothing a red sweatshirt] and [/EN#229983/clothing blue jeans] explores [/EN#229981/scene the forest] in [/EN#229985/other the fall] .
+[/EN#229980/people A young boy] in [/EN#229983/clothing jeans] and [/EN#229982/clothing a red jacket] faces into [/EN#229981/scene the wilderness] ahead .
+[/EN#229980/people A small boy] in [/EN#229982/clothing a red jacket] stands in [/EN#229981/other the middle of the woods] .
+[/EN#229980/people A little boy] [/EN#0/notvisual who] is walking in [/EN#229986/scene the wilderness] by [/EN#0/notvisual himself] .
+[/EN#229980/people Little boy] in [/EN#229982/clothing red oversized coat] in [/EN#229984/other a forrest] clearing

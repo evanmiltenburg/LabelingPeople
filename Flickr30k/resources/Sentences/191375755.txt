@@ -1,0 +1,5 @@
+[/EN#23041/people A man] in [/EN#23048/clothing a yellow patterned shirt] and [/EN#23044/people a woman] in [/EN#23046/clothing a gray hooded sweatshirt] are walking along [/EN#23042/scene a construction zone] .
+[/EN#23040/people A couple] in [/EN#23049/clothing jeans] strolls down [/EN#23043/scene a street] [/EN#0/notvisual that] is adjacent to [/EN#23047/scene an area] being blocked off with [/EN#23045/other orange netting] .
+[/EN#23040/people Two pedestrians] walk past [/EN#23042/scene a construction site] surrounded by [/EN#23045/other orange mesh] .
+[/EN#23041/people A man] and [/EN#23044/people woman] are walking on [/EN#23043/scene the sidewalk] next to [/EN#23042/scene a construction site] .
+[/EN#23041/people A man] and [/EN#23044/people woman] walking by [/EN#23042/scene a construction site] .

@@ -1,0 +1,5 @@
+[/EN#1015/people A Caucasian young woman] in [/EN#1021/clothing a white hooded sweatshirt] sits at [/EN#1017/other a table] set for [/EN#1023/other two] in [/EN#1020/scene a lowly lit restaurant] .
+[/EN#1015/people A woman] in [/EN#1021/clothing a white shirt] is sitting at [/EN#1017/other a table] in [/EN#1020/scene a nice restaurant] .
+[/EN#1015/people A young woman] sits at [/EN#1017/other a dinner table] with [/EN#1018/other two entrees] and [/EN#1022/other a martini] .
+[/EN#1015/people A dark-haired young woman] hesitates before [/EN#1016/other dining] .
+[/EN#1015/people Woman] having [/EN#1019/other a fancy dinner] .

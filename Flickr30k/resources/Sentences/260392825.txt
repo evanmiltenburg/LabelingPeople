@@ -1,0 +1,5 @@
+[/EN#61007/people The man] in [/EN#61009/clothing the red shirt] and [/EN#61010/clothing flowery tie] is sitting on [/EN#61007/vehicles/scene a bus] by [/EN#61013/other the window] .
+[/EN#61007/people A man] [/EN#0/notvisual who] looks [/EN#61014/other sad] holding [/EN#61012/other a tissue] riding on [/EN#61007/vehicles/scene a city bus] .
+[/EN#61007/people A man] sits on [/EN#61007/vehicles/scene a train] with [/EN#61011/clothing a suit] and [/EN#61009/clothing red shirt] .
+[/EN#61007/people black man] in [/EN#61009/clothing red shirt] with [/EN#61010/clothing tie] sitting on [/EN#61007/vehicles/scene a bus]
+[/EN#61007/people A black man] in [/EN#61009/clothing a red shirt] .

@@ -1,0 +1,5 @@
+[/EN#5095/people A man] wearing [/EN#5096/clothing a blue jacket] and [/EN#5105/clothing glasses] holds [/EN#5099/other the handrail] while climbing [/EN#5101/other the stairs] .
+[/EN#5095/people Gentleman] with [/EN#5106/bodyparts gray hair] climbs [/EN#5100/other wooden steps] on [/EN#5098/scene a cool day] .
+[/EN#5095/people A man] climbs [/EN#5101/other a flight of old wooden stairs] on [/EN#5104/scene a building] .
+[/EN#5103/scene Bird 's eye view] of [/EN#5095/people a man] ascending [/EN#5102/scene a staircase] [/EN#5097/scene outdoors] .
+[/EN#5095/people man] in [/EN#5096/clothing gray jacket] walks up [/EN#5102/scene wooden staircase] .

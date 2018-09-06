@@ -1,0 +1,5 @@
+[/EN#85055/people A man] in [/EN#85057/clothing a batman costume] and [/EN#85059/other a number] on [/EN#85061/bodyparts his chest] is running with [/EN#85060/other others] down [/EN#85062/scene a street] .
+[/EN#85055/people The runner] dons [/EN#85057/clothing a batman uniform] for [/EN#85058/other the race]
+[/EN#85055/people A man] in [/EN#85057/clothing a batman costume] is running [/EN#85058/other a race] .
+[/EN#85055/people A man] dressed as [/EN#85055/people Batman] running in [/EN#85058/other a race] .
+[/EN#85055/people A man] in [/EN#85057/clothing a batman suit] running .

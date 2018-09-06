@@ -1,0 +1,5 @@
+[/EN#28303/people A woman] wearing [/EN#28306/clothing dark clothing] is [/EN#28307/other aligning string] to [/EN#28307/other wood] to make [/EN#28305/other a craft] .
+[/EN#28303/people A old woman] stands by [/EN#28309/other a yellow bucket] and [/EN#28310/other weaves] on [/EN#28307/other a loom] .
+[/EN#28303/people An older woman] in [/EN#28306/clothing a dark jacket] working on [/EN#28307/other a loom] .
+[/EN#28303/people An elderly woman] crafts [/EN#28305/other a design] on [/EN#28307/other a loom] .
+[/EN#28303/people A woman] is making [/EN#28305/other a blanket] .

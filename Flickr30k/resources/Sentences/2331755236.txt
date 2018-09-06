@@ -1,0 +1,5 @@
+[/EN#42122/clothing Black] heavyset [/EN#42118/people male] dressed in [/EN#42120/clothing brown hood jacket] , [/EN#42125/clothing brown pants] and [/EN#42126/clothing white shirt] , playing [/EN#42119/people guitar hero] .
+[/EN#42118/people A large man] wearing [/EN#42120/clothing a brown sweatshirt] playing [/EN#42119/instruments an electric guitar] on [/EN#42123/other a blue rug or carpet] .
+[/EN#42118/people A man] with [/EN#42127/bodyparts a thin beard] and [/EN#42120/clothing brown jacket] plays " [/EN#42119/people Guitar Hero] " in [/EN#42128/scene a crowded room] .
+[/EN#42118/people An african american man] is playing [/EN#42119/instruments a red electric guitar] .
+[/EN#42118/people A man] in [/EN#42120/clothing a brown hoodie] playing [/EN#42124/other a guitar video game] .

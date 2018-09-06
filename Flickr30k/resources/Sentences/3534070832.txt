@@ -1,0 +1,5 @@
+[/EN#125564/people The waiter] with [/EN#125570/clothing a white shirt] and [/EN#125571/clothing black vest] is waiting on [/EN#125563/people the people] in [/EN#125565/scene the restaurant] with [/EN#125567/other a big mirror] in [/EN#125569/other the wall] .
+[/EN#125563/people A number of people] are sitting at [/EN#125565/scene a restaurant] while [/EN#125564/people a waiter] navigates between [/EN#125566/other the tables] .
+[/EN#125563/people people] are enjoying [/EN#125568/other food] at [/EN#125565/scene a crowded restaurant] .
+[/EN#125563/people People] eating at [/EN#125565/scene a fine dining restaurant] .
+[/EN#125563/people People] sit at [/EN#125566/other tables] drinking and talking .

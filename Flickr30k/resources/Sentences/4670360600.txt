@@ -1,0 +1,5 @@
+[/EN#188763/people A lone bicyclist] , [/EN#188763/people a black male] , [/EN#188771/other pedals] over [/EN#188768/other a sign] on [/EN#188766/scene the street] , showing [/EN#0/notvisual he] is going in [/EN#0/notvisual the wrong direction] .
+[/EN#188763/people A young black man] on [/EN#188764/vehicles a bicycle] rides [/EN#188767/scene the wrong way] down [/EN#188766/scene a crowded urban street] .
+[/EN#188763/people Bicyclist] is looking to [/EN#188769/scene his right] as [/EN#0/notvisual he] travels through [/EN#188772/vehicles traffic] .
+[/EN#188763/people A man] is riding [/EN#188764/vehicles a bicycle] [/EN#188767/scene the wrong way] down [/EN#188766/scene a busy city street] .
+[/EN#188763/people man] riding [/EN#188764/vehicles bicycle] in [/EN#188770/other new york] .

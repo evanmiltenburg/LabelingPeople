@@ -1,0 +1,5 @@
+[/EN#180853/people A group of men] paint on [/EN#180856/other a series of canvasses] in front of [/EN#180854/other a brick wall] on [/EN#180855/scene a public street] .
+[/EN#180853/people Several men] paint [/EN#180856/other canvases] graffiti-style in front of [/EN#180854/other a large stone wall] .
+[/EN#180853/people Five people] are painting outside on [/EN#180855/scene the sidewalk] using [/EN#180857/other spray cans] .
+[/EN#180853/people A group of men] are painting on [/EN#180854/scene the side of a building] .
+[/EN#180853/people A group of artists] paint on [/EN#180855/scene the street] .

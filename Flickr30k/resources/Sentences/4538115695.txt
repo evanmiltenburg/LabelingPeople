@@ -1,0 +1,5 @@
+[/EN#176412/people A woman] carrying [/EN#176420/other a large package] on [/EN#176416/bodyparts her head] walks in front of [/EN#176418/scene a building] plastered with [/EN#176417/other Portuguese posters] advertising [/EN#176419/other a concert] .
+[/EN#176412/people A person] carrying [/EN#0/notvisual what] looks to be [/EN#176415/other a pillow] on [/EN#176416/bodyparts their head] , walking down [/EN#176414/scene an alley] .
+[/EN#176412/people A man] carries [/EN#176415/other a pillow] on top of [/EN#176416/bodyparts his head] while walking down [/EN#176414/scene the street] .
+[/EN#176412/people A woman] carrying [/EN#176420/clothing a large bag] on [/EN#176416/bodyparts her head] while walking down [/EN#176414/scene the street] .
+[/EN#176412/people a lady] walking down [/EN#176414/scene the street] holding [/EN#176415/other something] on top of [/EN#176416/bodyparts her head]

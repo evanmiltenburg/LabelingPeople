@@ -1,0 +1,5 @@
+[/EN#94753/people A woman] with [/EN#94759/clothing a blue jacket] and [/EN#94758/clothing glasses] reading [/EN#94754/other a newspaper] on [/EN#94757/vehicles/scene a train] .
+[/EN#94753/people A person] wearing [/EN#94758/clothing glasses] sits on [/EN#94757/vehicles/scene a train] as [/EN#0/notvisual they] read [/EN#94754/other a book] .
+[/EN#94753/people A woman] is sitting , reading [/EN#94754/other a book] on [/EN#94757/vehicles/scene the subway] .
+[/EN#94753/people A woman] is reading [/EN#94754/other a book wile] riding [/EN#94757/vehicles/scene a train] .
+[/EN#94760/vehicles The train car] is nearly empty .

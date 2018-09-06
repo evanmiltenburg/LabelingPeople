@@ -1,0 +1,5 @@
+[/EN#127087/animals Three elephants] , [/EN#127091/other each] carrying [/EN#127088/people a group of people] , walking through [/EN#127089/scene the water] .
+[/EN#127087/animals A trio of elephants] are carrying [/EN#127088/people riders] across [/EN#127089/scene shallow running water] .
+[/EN#127092/people tourist] riding [/EN#127087/animals elephants] in [/EN#127089/scene the water] with [/EN#127090/scene a field] in [/EN#0/notvisual the background] .
+[/EN#127086/other Several sight-seers] riding [/EN#127087/animals elephants] through [/EN#127089/scene the muddy lake] .
+[/EN#127085/other A guided tour] on [/EN#127087/other the back of elephants crosses] [/EN#127089/scene a river] .

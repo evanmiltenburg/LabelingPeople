@@ -1,0 +1,5 @@
+[/EN#226209/people People] are walking on [/EN#226211/scene a busy sidewalk] in front of [/EN#226214/scene a corner store] called " [/EN#226207/other Lyppens] and [/EN#226210/other Schipper] . "
+[/EN#226208/people Pedestrians] are gathered at [/EN#226211/scene a street corner] , in front of [/EN#226207/other the Lyppens] and [/EN#226206/other Schipper storefront] .
+[/EN#226209/people Various people] walk through [/EN#226211/scene a city sidewalk] in front of [/EN#226210/other a green storefront] .
+[/EN#226212/people The two women] in [/EN#226215/clothing black shirts] are having [/EN#226213/other a conversation] .
+[/EN#226208/people People] walking on [/EN#226211/scene a sidewalk] .

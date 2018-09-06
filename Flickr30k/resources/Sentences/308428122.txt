@@ -1,0 +1,5 @@
+[/EN#92123/people These people] with [/EN#92124/clothing green and blue uniforms] are watching [/EN#92133/other something] on [/EN#92125/other a computer] .
+[/EN#92123/people Five people] in [/EN#92126/clothing green outfits] and [/EN#92127/other one] in [/EN#92128/clothing a blue outfit] in [/EN#92132/scene a room] .
+[/EN#92123/people Medical workers] in [/EN#92124/clothing uniform] are gathered around [/EN#92129/other a table] .
+[/EN#92123/people A bunch of people] in [/EN#92124/clothing scrubs] sitting around [/EN#92125/other a laptop] .
+[/EN#92130/people Women] and [/EN#92131/people men] in [/EN#92124/clothing scrubs] using [/EN#92125/other a laptop] .

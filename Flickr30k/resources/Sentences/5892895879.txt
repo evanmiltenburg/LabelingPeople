@@ -1,0 +1,5 @@
+[/EN#244587/people One baseball player] is round on [/EN#244588/other the base] , while [/EN#244590/people the baseman] is crouched in [/EN#244591/scene position] .
+[/EN#244587/people A baseball player] wearing [/EN#244589/clothing a blue shirt] is running toward [/EN#244588/other a base] .
+[/EN#244587/people The baseball player] is about to run on [/EN#244588/other a base] .
+[/EN#244587/people Man] in [/EN#244589/clothing blue shirt] attempts to make [/EN#0/notvisual it] on [/EN#244588/other base] .
+[/EN#244587/people A baseball player] is running to [/EN#244588/other a base] .

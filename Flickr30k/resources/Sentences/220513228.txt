@@ -1,0 +1,5 @@
+[/EN#34032/people A man] in with [/EN#34033/clothing a red and blue suit] performs [/EN#0/notvisual a trick] while surfing in [/EN#34034/scene the ocean] .
+[/EN#34032/people A person] wearing [/EN#34033/clothing a wetsuit] is surfing on [/EN#34035/other a white surfboard] .
+[/EN#34032/people A surfing teenager] riding [/EN#34034/scene a wave] on [/EN#34035/other a white surfboard] .
+[/EN#34032/people A man] is surfing [/EN#34034/scene a small wave] .
+[/EN#34032/people A guy] surfing in [/EN#34034/scene the ocean]

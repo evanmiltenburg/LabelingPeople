@@ -1,0 +1,5 @@
+[/EN#164581/people A baseball player] is about to hit [/EN#164583/other a ball] while [/EN#164587/people a female] behind [/EN#164588/other a protective screen] is watching [/EN#0/notvisual him] .
+[/EN#164581/people A baseball player] takes [/EN#164589/other a swing] at [/EN#164582/scene a pitch] while [/EN#164586/people the crowd] watches .
+[/EN#164581/people A baseball player] prepares to swing [/EN#164585/other the bat] at [/EN#164583/other a pitched ball] .
+[/EN#164582/scene The fast pitch] is destined to become [/EN#164584/other a home run] for [/EN#164581/people the team] .
+[/EN#164581/people A baseball player] about to hit [/EN#164584/other a home run] .

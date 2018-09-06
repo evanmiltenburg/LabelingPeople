@@ -1,0 +1,5 @@
+[/EN#52809/people A man] standing on [/EN#52810/other a ladder] doing [/EN#52814/other repairs] on [/EN#52811/scene a old blue and white brick building]
+[/EN#52809/people A man] on [/EN#52810/other a ladder] paints [/EN#52812/scene the side of a building] blue .
+[/EN#52809/people A painter] on [/EN#52810/other a ladder] paints [/EN#52813/other the brick] exterior blue .
+[/EN#52809/people A man] on [/EN#52810/other a ladder] painting [/EN#52812/scene a brick building] blue .
+[/EN#52809/people Guy] on [/EN#52810/other a ladder] painting [/EN#52812/scene the building] blue .

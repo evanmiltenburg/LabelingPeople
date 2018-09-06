@@ -1,0 +1,5 @@
+[/EN#53849/people A man] is wearing [/EN#53850/other rope climbing gear] and jumping over [/EN#53851/scene a rocky crevice] in [/EN#53856/scene a treed area] .
+[/EN#53849/people Man] in [/EN#53852/clothing a green t-shirt] on [/EN#53850/other a rope line] jumping from [/EN#53853/other one rock] to [/EN#0/notvisual another] .
+[/EN#53849/people A man] rock climbing in [/EN#53856/scene a forest] with [/EN#53850/other a long rope] .
+[/EN#53849/people A man] is climbing [/EN#53854/other rocks] with [/EN#53850/other a rope] .
+[/EN#53849/people A man] rock climbing in [/EN#53857/other the woods] .

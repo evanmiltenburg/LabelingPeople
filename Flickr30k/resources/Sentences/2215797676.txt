@@ -1,0 +1,5 @@
+[/EN#34712/people Someone] is sitting in [/EN#34718/scene a building] [/EN#0/notvisual that] has [/EN#34715/other large windows] to look outside , and [/EN#34713/vehicles a bike] is locked to [/EN#34719/other a street sign] outside .
+[/EN#34711/people A man] walking toward [/EN#34713/vehicles a bicycle] chained to [/EN#34719/scene a post] in front of [/EN#34715/other a large window] in [/EN#34721/scene the early evening] .
+[/EN#34711/people A man] in [/EN#34717/clothing a tan jacket] and [/EN#34714/clothing dark colored hat] crosses [/EN#34716/scene the street] .
+[/EN#34711/people A man] wearing [/EN#34714/clothing a hat] and [/EN#34717/clothing a tan jacket] walking on [/EN#34716/scene the street] .
+[/EN#34712/people The man] wearing [/EN#34717/clothing jacket] is looking at [/EN#34713/vehicles he bike] .

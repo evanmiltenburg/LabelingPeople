@@ -1,0 +1,5 @@
+[/EN#98306/people A snowboarder] rides [/EN#98311/other his board] off [/EN#98307/other a graffiti covered wall] at [/EN#98313/scene night] .
+[/EN#98306/people A man] in [/EN#98315/clothing a yellow coat] jumps [/EN#98311/other his snowboard] off [/EN#98308/other a rail] .
+[/EN#98306/people A snowboarder] doing [/EN#0/notvisual a jump] off of [/EN#98310/other a ledge] .
+[/EN#98306/people A boy] on [/EN#98311/other a red snowboard] is airborne .
+[/EN#98306/people A person] in [/EN#0/notvisual the air] on [/EN#98309/other a snowboard] .

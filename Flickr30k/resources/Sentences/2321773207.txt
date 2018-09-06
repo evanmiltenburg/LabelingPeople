@@ -1,0 +1,5 @@
+[/EN#0/notvisual This] is [/EN#41524/scene a scene] in [/EN#41523/scene a subway station] where [/EN#41526/people two people] are sitting on [/EN#41521/other a bench] waiting for [/EN#41522/vehicles/scene the train] .
+[/EN#41520/people A man] sits on [/EN#41521/other a bench] and patiently waits for [/EN#41525/vehicles/scene his train] at [/EN#41523/scene the subway station] .
+[/EN#41520/people A person] sitting down on [/EN#41521/other a benching] waiting in [/EN#41522/vehicles/scene the subway] .
+[/EN#41520/people A young man] with [/EN#41527/bodyparts brown hair] sits and waits for [/EN#41522/vehicles/scene a train] .
+[/EN#41520/people A man] is sitting on [/EN#41521/other a bench] at [/EN#41523/scene a subway station] .

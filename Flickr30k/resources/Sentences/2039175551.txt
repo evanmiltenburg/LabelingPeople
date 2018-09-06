@@ -1,0 +1,5 @@
+[/EN#25448/people A person] in [/EN#25451/clothing an orange jacket] standing on [/EN#25450/other a ladder] near [/EN#25449/other a large metal object] .
+[/EN#25448/people Man] in [/EN#25451/clothing orange coat] stood on [/EN#25450/other a ladder] inspects [/EN#25449/other a huge metal container] .
+[/EN#25448/people Man] in [/EN#25451/clothing red safety jacket] working on [/EN#25449/other storage containers] on [/EN#25450/other a ladder] .
+[/EN#25448/people A male] in [/EN#25451/clothing a orange jacket] standing on [/EN#25450/other a ladder] .
+[/EN#25448/people A man] is on [/EN#25450/other a ladder] near [/EN#25452/clothing/vehicles huge tanks] .

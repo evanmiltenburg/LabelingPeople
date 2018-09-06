@@ -1,0 +1,5 @@
+[/EN#96612/people A young boy] in [/EN#96614/clothing red swim trunks] runs through [/EN#96613/scene a public water fountain] .
+[/EN#96612/people A kid] running thought [/EN#96613/scene a water] while having [/EN#0/notvisual fun] .
+[/EN#96612/people A child] in [/EN#96614/clothing red shorts] playing in [/EN#96613/scene a fountain] .
+[/EN#96612/people A kid] in [/EN#96614/clothing red shorts] playing in [/EN#96613/scene water] .
+[/EN#96612/people a kid] playing in [/EN#96613/scene a large fountain]

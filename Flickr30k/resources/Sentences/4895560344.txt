@@ -1,0 +1,5 @@
+[/EN#216021/other Hotdog] stand with [/EN#216028/clothing red and yellow umbrellas] , [/EN#216017/people a male customer] at [/EN#216022/other the counter] , and [/EN#216029/vehicles a red motor scooter] behind [/EN#0/notvisual him] .
+[/EN#216017/people A man] buying [/EN#216024/other a hotdog] at [/EN#216020/scene a hotdog stand] on [/EN#216027/scene the side of the street] during [/EN#216026/scene the night] .
+[/EN#216018/people Vendor] serving [/EN#216023/people a couple of customers] at [/EN#216020/scene an outdoor hotdog stand] at [/EN#216025/other dusk] .
+[/EN#216017/people A man] orders [/EN#216019/other a hotdog] from [/EN#216018/people a street vendor] .
+[/EN#216017/people A man] buys [/EN#216019/other food] from [/EN#216018/people a street vendor] .

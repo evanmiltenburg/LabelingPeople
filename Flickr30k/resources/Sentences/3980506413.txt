@@ -1,0 +1,5 @@
+[/EN#150777/people A man] dressed in [/EN#150780/clothing a plaid shirt] and [/EN#150783/clothing jeans] stands just beside [/EN#150778/other a bright spot of sun] shining into either [/EN#150779/other a cave] or [/EN#150779/other a mine of some sort] .
+[/EN#150777/people A man] is working in [/EN#150779/other a mine or cavern of some sort] .
+[/EN#150777/people A man] in [/EN#150779/other a cave] stands near [/EN#150778/other some bright lights] .
+[/EN#150777/people The man] wearing [/EN#150781/clothing a hat] is in [/EN#150782/other a stone passage] .
+[/EN#150777/people A man] in [/EN#150780/clothing a plaid shirt] stands in [/EN#150779/other a cave] .

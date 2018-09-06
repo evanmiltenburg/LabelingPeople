@@ -1,0 +1,5 @@
+[/EN#245993/people A young man] wearing [/EN#245996/other a black tracksuit] and [/EN#245995/clothing yellow shoes] is doing [/EN#0/notvisual a high jump] , while [/EN#245998/people a boy] watches [/EN#0/notvisual him] .
+[/EN#245993/people blond man] in [/EN#245996/clothing a black suit] with [/EN#245995/clothing yellow shoes] in jumping over [/EN#245994/other a hurdle] .
+[/EN#245993/people A runner] wearing [/EN#245995/clothing yellow shoes] is leaping over [/EN#245994/other a hurdle] .
+[/EN#245993/people An athlete] remains focused as [/EN#0/notvisual he] jumps over [/EN#245994/other hurdles] .
+[/EN#245993/people A man] is jumping over [/EN#245994/other a pole] like [/EN#245994/other a hurdle] .

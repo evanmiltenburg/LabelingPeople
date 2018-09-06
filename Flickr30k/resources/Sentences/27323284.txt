@@ -1,0 +1,5 @@
+[/EN#69135/people A man] is standing in [/EN#69139/scene a park] by [/EN#69140/scene a path] holding [/EN#69136/other a tennis racket] in front of [/EN#0/notvisual him] .
+In [/EN#69141/other the woods] , [/EN#69135/people a young man] wearing [/EN#69137/clothing red shorts] prepares to throw [/EN#69136/other a frisbee] .
+[/EN#69135/people blond man] in [/EN#69137/clothing red shorts] and [/EN#69138/clothing dark blue shirt] holding [/EN#69136/other a racket]
+[/EN#69135/people A man] in [/EN#69138/clothing a blue shirt] throwing [/EN#69136/other a frisbee] at [/EN#69139/scene a park] .
+[/EN#69135/people A man] in [/EN#69143/other the action] of hitting [/EN#69136/other a tennis ball] .

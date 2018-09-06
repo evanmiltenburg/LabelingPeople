@@ -1,0 +1,5 @@
+[/EN#128073/people A boy] in [/EN#128074/clothing a red shirt] riding [/EN#128076/other a skateboard] quickly down [/EN#128075/scene the road] .
+[/EN#128073/people a boy] in [/EN#128074/clothing a red shirt] riding [/EN#128076/other a skateboard] on [/EN#128075/scene the street]
+[/EN#128073/people A boy] kneeling on [/EN#128076/other a skateboard] riding down [/EN#128075/scene the street]
+[/EN#128073/people The boy] in [/EN#128074/clothing the red shirt] is skateboarding .
+[/EN#128073/people A kid] is skateboarding in [/EN#128077/scene the suburbs] .

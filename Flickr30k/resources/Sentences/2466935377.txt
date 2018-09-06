@@ -1,0 +1,5 @@
+[/EN#51606/people A person] wearing [/EN#51609/clothing all white] sitting in [/EN#51610/scene the street] in front of [/EN#51608/scene an orange building] .
+[/EN#51606/people Person] in [/EN#51606/clothing white outfit] sits next to [/EN#51612/other brown garbage] can .
+[/EN#51606/people A woman] in [/EN#51606/clothing white clothes] sits on [/EN#51610/scene the street] .
+[/EN#51606/people A man] wearing [/EN#51606/scene white site] beside [/EN#51608/scene a building] .
+[/EN#51606/people A woman] in [/EN#51609/clothing all white] sitting in [/EN#51610/scene the street] .

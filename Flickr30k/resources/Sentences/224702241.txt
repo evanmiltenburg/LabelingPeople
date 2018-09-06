@@ -1,0 +1,5 @@
+[/EN#36590/animals A blond dog] makes [/EN#36595/scene his way] up [/EN#36591/scene an icy stream] with [/EN#36593/scene snow] piled up on [/EN#0/notvisual the sides] .
+[/EN#36590/animals A blond dog] walks in [/EN#36591/scene a creek] with [/EN#36592/scene banks] filled with [/EN#36593/scene snow] .
+[/EN#36590/animals A tan dog] walks down [/EN#36591/scene a stream] between [/EN#36592/scene mounds of snow] .
+[/EN#36590/animals Brown dog] walks through [/EN#36591/scene river] between [/EN#36592/scene snowbanks] .
+[/EN#36590/animals The dog] walks through [/EN#36591/scene the cold water] .

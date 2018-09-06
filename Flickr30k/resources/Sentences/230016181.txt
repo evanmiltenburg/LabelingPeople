@@ -1,0 +1,5 @@
+[/EN#39919/people a woman] wearing [/EN#39926/clothing an orange jacket] sitting in [/EN#39920/other a canoe] on [/EN#39922/scene a lake] with [/EN#39921/animals a dog] behind [/EN#0/notvisual her]
+[/EN#39919/people A person] and [/EN#39921/animals their tan dog] go for [/EN#39924/other a ride] in [/EN#39920/other a rowboat] .
+[/EN#39919/people A woman] and [/EN#39921/animals a dog] rowing down [/EN#39922/scene a wide river] .
+[/EN#39919/people Woman] and [/EN#39921/animals dog] in [/EN#39920/other rowboat] on [/EN#39925/scene the water] .
+[/EN#39919/people A woman] with [/EN#39923/other a dog canoe] down [/EN#39922/scene a river] .

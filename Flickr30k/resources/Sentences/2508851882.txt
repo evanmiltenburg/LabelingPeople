@@ -1,0 +1,5 @@
+[/EN#54186/people A crowd of people] walking down [/EN#54188/scene the middle of a city street] .
+[/EN#54186/people A large group of people] walking down [/EN#54187/scene a city street] .
+[/EN#54186/people A crowd of people] walking in [/EN#54188/scene the street of a city] .
+[/EN#54186/people A crowd] is assembled in [/EN#54188/scene a street] .
+[/EN#54187/scene A view of a crowded city street] .

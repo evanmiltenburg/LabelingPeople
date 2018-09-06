@@ -1,0 +1,5 @@
+[/EN#102346/people A man] stands in [/EN#102350/scene the snow] and holds [/EN#102353/other a toy] up while [/EN#102351/animals a black dog] jumps for [/EN#0/notvisual it] .
+[/EN#102346/people A boy] in [/EN#102354/clothing a blue sweatshirt] playing [/EN#102347/other Frisbee] with [/EN#102349/animals two black dogs] .
+[/EN#102346/people a young person] playing in [/EN#102350/scene the snow] with [/EN#102349/animals two black dogs] .
+[/EN#102349/animals Two dogs] play with [/EN#102346/people a human] and [/EN#102347/other a disc] in [/EN#102350/scene the snow] .
+[/EN#102346/people The man] is playing with [/EN#102349/animals two dogs] in [/EN#102350/scene the snow] .

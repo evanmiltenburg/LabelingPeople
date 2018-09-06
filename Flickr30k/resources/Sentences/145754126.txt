@@ -1,0 +1,5 @@
+[/EN#13575/people A man] wearing [/EN#13576/clothing a white t-shirt] with [/EN#13577/other a green number 3] on [/EN#13578/other the back] is on [/EN#13579/bodyparts his knees] shining [/EN#13580/clothing black shoes] propped up on [/EN#13581/other a box] labeled [/EN#13582/other " SHOESHINE] " .
+[/EN#13575/people The shoeshine man] , [/EN#0/notvisual who] shines [/EN#13583/clothing shoes] for [/EN#13584/other a living] , is shinning [/EN#13585/people the black leather shoes of a man] in [/EN#13586/clothing nice dress pants] .
+[/EN#13575/people A man] wearing [/EN#13587/clothing camouflage shorts] and [/EN#13576/clothing a white t-shirt] shines [/EN#13580/clothing the black dress shoes] of a [/EN#13588/people man] wearing [/EN#13586/clothing black dress slacks] .
+[/EN#13575/people A man] in [/EN#13587/clothing camouflaged shorts] , and [/EN#13576/clothing a white t-shirt] shines , [/EN#13588/people another man] 's [/EN#13580/clothing black shoes] on [/EN#13590/scene a sidewalk] .
+[/EN#13575/people The man] in [/EN#13589/clothing the black hat] is shining [/EN#13586/clothing the businessman 's suit] .

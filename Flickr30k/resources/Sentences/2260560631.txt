@@ -1,0 +1,5 @@
+[/EN#37464/animals The furry dog] is running through [/EN#37465/scene a grassy wooded area] .
+[/EN#37464/animals A dog] carries [/EN#37466/other a stick] through [/EN#37468/other the woods] .
+[/EN#37464/animals A dog] jumping over [/EN#37466/other a stick] in [/EN#37465/scene the yard] .
+[/EN#37464/animals A dog] jumps over [/EN#37466/other a stick] in [/EN#37465/scene a forest] .
+[/EN#37464/animals A dirty dogs] runs through [/EN#37467/other the woods] .

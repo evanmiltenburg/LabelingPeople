@@ -1,0 +1,5 @@
+[/EN#49168/animals A dog] holding [/EN#49172/other a stick] running in [/EN#49171/other the sand] , chased by [/EN#49167/animals a gray dog] .
+[/EN#49169/animals Two dogs] fetch [/EN#49173/other sticks] in [/EN#49171/scene the snow] next to [/EN#49170/other the tree line] .
+[/EN#49167/animals A brown dog] is chasing [/EN#49168/animals a black dog] on [/EN#49171/other the sand] .
+[/EN#49169/animals Two dogs] running near [/EN#49170/other a line of tall trees] .
+[/EN#49169/animals Two dogs] running through [/EN#49171/other sand] .

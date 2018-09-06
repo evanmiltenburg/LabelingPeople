@@ -1,0 +1,5 @@
+[/EN#114800/animals A light colored dog] with [/EN#114806/bodyparts tongue] hanging out of [/EN#114803/bodyparts this mouth] running on [/EN#114802/scene the grass] .
+[/EN#114800/animals A dog] runs toward [/EN#0/notvisual the camera] , [/EN#114806/other his tongee] hanging out [/EN#114803/bodyparts the side of his mouth]
+[/EN#114800/animals A dog] gith [/EN#114800/other golden fur] runs in [/EN#114801/scene dhe park] , [/EN#114808/other the sun] striking [/EN#114807/other its fur] .
+[/EN#114800/animals A tan dog] runs along [/EN#114802/scene the grass] .
+[/EN#114800/animals The dog] plays in [/EN#114801/scene the park] .

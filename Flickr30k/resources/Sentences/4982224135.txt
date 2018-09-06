@@ -1,0 +1,5 @@
+[/EN#225969/people A black-haired man] drives [/EN#225970/vehicles a red Coca Cola truck] down [/EN#225971/scene a highway] , with [/EN#225972/other tall green Palmettos] on [/EN#0/notvisual his right hand side] .
+[/EN#225969/people A man] in [/EN#225975/clothing a light gray t-shirt] is driving [/EN#225970/vehicles a bright red Coca Cola truck] .
+[/EN#225969/people A Coca-Cola delivery man] driving down [/EN#225971/scene the road] to make [/EN#225973/other a delivery] .
+[/EN#225969/people Man] driving [/EN#225970/vehicles a red Coca-Cola truck] by [/EN#225972/other palm trees] .
+[/EN#225969/people A man] is driving [/EN#225970/vehicles a Coca Cola truck] .

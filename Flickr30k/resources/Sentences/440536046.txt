@@ -1,0 +1,5 @@
+[/EN#166533/people A man] in [/EN#166536/clothing a black shirt] is looking at [/EN#166535/people a woman] in [/EN#166538/clothing a white shirt] with [/EN#166539/bodyparts a silly face] .
+[/EN#166535/people A woman] in [/EN#166538/clothing a white blouse] is pouting while [/EN#166533/people a man] in [/EN#166536/clothing a black shirt] looks on .
+[/EN#166534/people An a unhappy couple] sitting at [/EN#166537/other a table] in [/EN#166540/scene a restaurant] .
+[/EN#166533/people A man] and [/EN#166535/people woman] sitting at [/EN#166537/other a table] talking .
+[/EN#166534/people couple] at [/EN#166537/other a dinner table] .

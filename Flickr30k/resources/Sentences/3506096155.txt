@@ -1,0 +1,5 @@
+[/EN#123510/people A man] in [/EN#123515/clothing a gray suit] and [/EN#123516/clothing helmet] is jumping [/EN#123511/vehicles a yellow dirt bike] .
+[/EN#123510/people a motorcycle rider] is slightly airborne on [/EN#123513/scene a motocross circuit]
+[/EN#123510/people A man] on [/EN#123511/vehicles a dirt bike] jumps slightly as [/EN#0/notvisual he] crests [/EN#123514/scene a rise] .
+[/EN#123510/people A dirt bike racer] jumps over [/EN#123512/other a slope] .
+[/EN#123510/people A man] rides [/EN#123511/vehicles a dirt bike] over [/EN#123512/scene a hill] .

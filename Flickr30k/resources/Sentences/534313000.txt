@@ -1,0 +1,5 @@
+[/EN#234132/animals A brown dog] leaps over [/EN#234133/scene the water] in [/EN#234134/scene a grassy and tree-lined yard] .
+[/EN#234132/animals a big black and white dog] jumping in [/EN#234133/scene a body of water] .
+[/EN#234132/animals A large brown dog] is jumping into [/EN#234133/scene a pond] .
+[/EN#234132/animals The large brown dog] jumps into [/EN#234133/scene a pond] .
+[/EN#234132/animals A brown dog] is jumping into [/EN#234133/scene a pond] .

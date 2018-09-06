@@ -1,0 +1,5 @@
+[/EN#167635/people A man] in [/EN#167642/clothing a white shirt] is standing on [/EN#167639/other the curb] waiting to cross [/EN#167636/scene the street] .
+[/EN#167636/scene An intersection] with [/EN#167637/vehicles a couple cars] , [/EN#0/notvisual you] can see [/EN#167640/vehicles/scene the back of a bus] .
+[/EN#167636/scene An image of a city street] with [/EN#167637/vehicles several vehicles] .
+[/EN#167635/people A man] is waiting to cross [/EN#167636/scene the intersection] .
+[/EN#167638/scene Suburban street] in [/EN#167641/other the fall] .

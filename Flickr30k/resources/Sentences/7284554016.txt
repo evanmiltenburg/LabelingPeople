@@ -1,0 +1,5 @@
+[/EN#267942/people The man] attempting [/EN#267944/other an extreme stunt] on [/EN#267943/vehicles his bicycle] is wearing [/EN#267945/clothing a black helmet] and [/EN#267948/other black elbow pads] .
+[/EN#267942/people A boy] in [/EN#267947/clothing a black helmet] jumps [/EN#267943/vehicles a bicycle] with [/EN#267946/scene a small town] visible in [/EN#0/notvisual the background] .
+[/EN#267942/people Young man] wearing [/EN#267945/clothing a helmet t-shirt] and [/EN#267950/clothing jeans] riding [/EN#267943/vehicles a bike] in [/EN#0/notvisual the air] .
+[/EN#267942/people A young male] with [/EN#267945/clothing a black helmet] and [/EN#267949/people elbow guards] does [/EN#0/notvisual a bike trick] .
+[/EN#267942/people A man] does [/EN#0/notvisual a trick] with [/EN#267943/vehicles his bike] overlooking [/EN#267946/scene a village] .

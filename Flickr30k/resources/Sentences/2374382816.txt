@@ -1,0 +1,5 @@
+[/EN#44933/people two kids] , [/EN#44937/other one] with [/EN#44938/clothing green pants] and [/EN#44939/other the other] with [/EN#44940/clothing a white shirt] and [/EN#44941/clothing jeans] are running down [/EN#44936/scene a street] .
+[/EN#44933/people Two children] are running down [/EN#44935/scene the sidewalk] in front of [/EN#44934/scene a building] .
+[/EN#44933/people Two children] run up [/EN#44936/scene the street] on [/EN#44935/scene the sidewalk] near [/EN#44934/scene the building] .
+[/EN#44933/people Two children] are running down [/EN#44935/scene a sidewalk] in front of [/EN#44934/scene a building] .
+[/EN#44933/people Two children] running on [/EN#44935/scene the sidewalk] along side [/EN#44935/scene the street] .

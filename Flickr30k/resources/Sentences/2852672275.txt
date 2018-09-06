@@ -1,0 +1,5 @@
+[/EN#76833/people Asian male] in [/EN#76834/clothing blue striped shirt] , [/EN#76835/clothing tan pants] , [/EN#76836/clothing black rubber boots] , inspecting [/EN#76837/animals a large tuna] .
+[/EN#76833/people A man] with [/EN#76834/clothing a striped shirt] and [/EN#76836/clothing rubber boots] leaning over to look at [/EN#76838/other a tag] .
+[/EN#76833/people A man] in [/EN#76836/clothing rubber boots] examines [/EN#76839/other something] on [/EN#0/notvisual the ground] .
+[/EN#76833/people A man] with [/EN#76840/other a pen] and [/EN#76841/other paper] checking [/EN#76839/other stock] .
+[/EN#76833/people A man] inspects [/EN#76842/other a row of equipment] .

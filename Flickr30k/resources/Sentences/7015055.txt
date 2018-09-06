@@ -1,0 +1,5 @@
+[/EN#263999/people A man] in [/EN#264002/clothing a black shirt] with [/EN#264007/other a pattern] on [/EN#264009/bodyparts the left shoulder] listens to [/EN#264006/people another man] holding [/EN#264005/other a drink] .
+[/EN#263999/people A man] in [/EN#264008/clothing a pink shirt] is standing next to [/EN#264000/people two younger men] in [/EN#264001/scene a dark room] .
+[/EN#264000/people Two men] having [/EN#264004/other a conversation] in [/EN#264001/scene a dark bar] .
+[/EN#264000/people Two men] wearing [/EN#264002/clothing black shirt] talking in [/EN#264001/scene a bar]
+[/EN#264003/people A few people] at [/EN#264001/scene a bar] .

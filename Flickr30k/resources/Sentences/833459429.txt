@@ -1,0 +1,5 @@
+[/EN#281122/people a girl] in [/EN#281123/clothing a yellow floral dress] is barbecuing .
+[/EN#0/notvisual She] is cooking [/EN#281125/other food] while wearing [/EN#281123/clothing a dress] .
+[/EN#281122/people A lady] with [/EN#281126/bodyparts black hair] grilling [/EN#281127/animals shrimp] .
+[/EN#281122/people A woman] cooking on [/EN#281124/other the outdoor grill] .
+[/EN#281122/people A girl] barbecuing [/EN#281128/scene shrimp outdoors] .

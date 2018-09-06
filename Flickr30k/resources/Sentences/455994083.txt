@@ -1,0 +1,5 @@
+[/EN#178557/people A man] with [/EN#178561/bodyparts brown wavy hair] and wearing [/EN#178559/clothing a suit] is standing in front of [/EN#178558/other a microphone] .
+[/EN#178557/people A young man] is holding [/EN#178558/other a microphone] with [/EN#178560/other colorful light] around [/EN#0/notvisual him] .
+[/EN#178557/people A man] is holding [/EN#178558/other a microphone] in front of [/EN#178562/bodyparts his mouth] .
+[/EN#178557/people A man] holding [/EN#178558/other a microphone] on [/EN#178563/scene the stage] in [/EN#178560/other lights] .
+[/EN#178557/people A man] in [/EN#178559/clothing a suit] talking into [/EN#178558/other a microphone] .

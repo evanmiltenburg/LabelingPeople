@@ -1,0 +1,5 @@
+[/EN#73711/animals The small brown dog] is running through [/EN#73713/scene the grass] with [/EN#73712/other a yellow ball] in [/EN#73714/bodyparts its mouth] .
+[/EN#73711/animals A dog] is running through [/EN#73713/scene a low-cut field] with [/EN#73712/other a ball] .
+[/EN#73711/animals A weiner dog] catches [/EN#73712/other a blue and yellow tennis ball] .
+[/EN#73711/animals A little brown dog] has [/EN#73712/other a ball] in [/EN#73714/bodyparts its mouth] .
+[/EN#73711/animals A dachshund] returning [/EN#73712/other a tennis ball] .

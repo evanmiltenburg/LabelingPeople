@@ -1,0 +1,5 @@
+[/EN#115398/people Person] doing [/EN#0/notvisual tricks] on [/EN#115405/vehicles a bicycle] in [/EN#115401/scene a skatepark] .
+[/EN#115398/people A man] performs [/EN#0/notvisual a bike trick] on [/EN#115400/scene a ramp] .
+[/EN#115398/people A bike rider] does [/EN#0/notvisual a trick] in [/EN#0/notvisual the air] .
+[/EN#115398/people Extreme BMX rider] defying [/EN#115402/other gravity]
+[/EN#115398/people A bicyclist] rides on [/EN#115400/scene ramps] .

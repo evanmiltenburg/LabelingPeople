@@ -1,0 +1,5 @@
+[/EN#186228/people The man] in [/EN#186230/clothing the white coat] is trying to diagnose [/EN#186233/other the problem] so that [/EN#0/notvisual he] can fix [/EN#0/notvisual it] and get [/EN#186229/other the machine] running again .
+[/EN#186228/people A man] in [/EN#186230/clothing a white jacket] sits behind [/EN#186229/other a large machine] with [/EN#186231/other the logo] [/EN#186231/other DBS] .
+[/EN#186228/people A man] is standing behind [/EN#186229/other a giant green machine] .
+[/EN#186228/people a man] in [/EN#186230/clothing a white coat] is working on [/EN#186229/other a machine] .
+[/EN#186228/people A man] is coughing while operating [/EN#186229/other machinery] .

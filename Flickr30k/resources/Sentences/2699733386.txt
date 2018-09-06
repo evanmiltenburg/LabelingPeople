@@ -1,0 +1,5 @@
+[/EN#66876/animals A black and brown dog] walks in [/EN#66877/scene the shallows of a large body of water] .
+[/EN#66876/animals A black and brown dog] is running and splashing in [/EN#66877/scene the water] .
+[/EN#66876/animals A black dog] running through [/EN#66877/scene water] .
+[/EN#66876/animals A black dog] wading through [/EN#66877/scene water] .
+[/EN#66876/animals The dog] is running in [/EN#66877/other the surf] .

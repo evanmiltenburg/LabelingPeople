@@ -1,0 +1,5 @@
+[/EN#26050/people A person] in [/EN#26054/clothing dark clothing] is walking down [/EN#26052/scene a path] lined with [/EN#26049/other autumn leaved trees] .
+[/EN#0/notvisual There] is [/EN#26050/people a person] walking down [/EN#26049/other a tree] lined [/EN#26052/scene street] with [/EN#26051/scene snow] scattered about .
+[/EN#26053/other A faraway figure] walks between [/EN#26049/other trees] with [/EN#26051/scene a light dusting of snow] on [/EN#0/notvisual them] .
+[/EN#26050/people A man] is walking on [/EN#26052/scene a snow-covered path] in [/EN#26049/other the woods] .
+[/EN#26049/other A long trail of many trees] draws [/EN#26052/scene a path] for [/EN#26050/people a walker] .

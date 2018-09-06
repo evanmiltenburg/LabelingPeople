@@ -1,0 +1,5 @@
+[/EN#282483/people A brown-haired man] is sitting in front of [/EN#282484/other a sewing machine] looking down .
+[/EN#282483/people A man] is sitting beside [/EN#282486/other a bunch of material] while [/EN#282487/other sewing] .
+[/EN#282483/people A man] sits at [/EN#282484/other a sewing machine] surrounded by [/EN#282485/other items] .
+[/EN#282483/people Man] sewing with [/EN#282484/other a machine] surrounded by [/EN#282485/other garments] .
+[/EN#282483/people A man] sews in [/EN#282488/scene a garment factory] .

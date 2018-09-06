@@ -1,0 +1,5 @@
+[/EN#272303/people a group of people] , restrained by [/EN#272306/other fencing] , wait at [/EN#272310/scene the entrance] to [/EN#272304/scene a tent] ; [/EN#0/notvisual there] are [/EN#272309/other signs] at [/EN#272311/scene the entrance] [/EN#0/notvisual that] read [/EN#272304/scene ' tent] closed ' .
+[/EN#272303/people A line of people] is forming in front of [/EN#272304/scene a tent] [/EN#0/notvisual that] appears to be closed to [/EN#272307/scene the public] .
+[/EN#272303/people A crowd of people] are in front of [/EN#272304/scene a tent] [/EN#0/notvisual that] is closed .
+[/EN#272303/people A crowd] is gathered behind [/EN#272306/scene the fence] near [/EN#272304/scene a blue tent] .
+[/EN#272305/other A long line] waits eagerly to get into [/EN#272304/scene a closed tent] .

@@ -1,0 +1,5 @@
+[/EN#227865/people A girl] is sitting under [/EN#227870/other a tree] , and [/EN#227865/people another person] is going by riding [/EN#227867/vehicles a bicycle] in [/EN#227869/scene the street] .
+[/EN#227866/people A blond woman] is sitting by [/EN#227870/other a tree] while [/EN#227865/people another person] is riding [/EN#227867/vehicles a bike] .
+[/EN#227866/people A woman] riding [/EN#227867/vehicles a bicycle] and [/EN#227866/people another woman] reading [/EN#227871/scene a book outside] .
+[/EN#227866/people a woman] sitting beside [/EN#227870/other a tree] in [/EN#227874/scene a park] as [/EN#227865/people a bike rider] passes by
+[/EN#227865/people A girl] bikes on [/EN#227869/scene a path] near [/EN#227872/other a bunch of trees] and [/EN#227873/scene a house] .

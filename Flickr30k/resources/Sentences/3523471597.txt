@@ -1,0 +1,5 @@
+[/EN#124648/people A man] and [/EN#124649/people woman] are standing in front of [/EN#124647/scene an art gallery] , looking at [/EN#124646/other a map] .
+[/EN#124645/people Two people] are reading [/EN#124646/other a sign] in front of [/EN#124647/scene a museum] .
+[/EN#124645/people Two people] read [/EN#124646/other a sign] in front of [/EN#124647/scene a museum] .
+[/EN#124645/people A couple] are looking at [/EN#124646/other an area map] .
+[/EN#124645/people Tourists] examine [/EN#124646/other a sign] .

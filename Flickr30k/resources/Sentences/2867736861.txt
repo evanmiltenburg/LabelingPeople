@@ -1,0 +1,5 @@
+[/EN#77791/animals a brown dog] is running through [/EN#77794/scene water] carrying [/EN#77792/other a ball] in [/EN#77793/bodyparts its mouth] .
+[/EN#77791/animals A dog] has run into [/EN#77794/scene the water] to catch [/EN#77792/other a ball] in [/EN#77793/bodyparts his mouth] .
+[/EN#77791/animals A dog] running through [/EN#77794/scene water] with [/EN#77792/other a ball] in [/EN#77793/bodyparts its mouth]
+[/EN#77791/animals A brown dog] is playing with [/EN#77792/other a ball] in [/EN#77794/scene the water] .
+[/EN#77791/animals Yellow dog] catches [/EN#77792/other ball] in [/EN#77794/scene shallow waters] .

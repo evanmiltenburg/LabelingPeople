@@ -1,0 +1,5 @@
+[/EN#145504/people One senior citizen] sitting , sleeping in [/EN#145505/other a chair] or maybe looking [/EN#145510/scene beautiful scenery] .
+[/EN#145504/people Ellery male] sitting on [/EN#145505/other a wooden chair] on [/EN#145506/scene the porch] viewing [/EN#145511/scene the mountains] .
+[/EN#145504/people A man] in [/EN#145513/clothing white pants] is sitting in [/EN#145507/scene the street] on [/EN#145505/other a wooden chair] .
+[/EN#145504/people An old man] sits on [/EN#145508/other a terrace] in [/EN#145512/other the sun] .
+[/EN#145504/people One man] sits alone outside on [/EN#145505/other a chair] .

@@ -1,0 +1,5 @@
+[/EN#253858/people A man] in [/EN#253863/clothing blue jeans] and [/EN#253861/clothing a white t-shirt] is standing on [/EN#253860/other scaffolding] reaching out to [/EN#253859/other the ladder] .
+[/EN#253858/people A man] standing on [/EN#253860/other some scaffolding] is trying to position [/EN#253862/other a ladder] .
+[/EN#253858/people a man] is trying to grab [/EN#253859/other his ladder] standing on [/EN#253860/other scaffolding] .
+[/EN#253858/people A man] on [/EN#253860/other a scaffold] is reaching for [/EN#253859/other an extended ladder] .
+[/EN#253858/people A man] in [/EN#253861/clothing a white shirt] messing with [/EN#253859/other a ladder] .

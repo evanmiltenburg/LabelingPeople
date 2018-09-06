@@ -1,0 +1,5 @@
+[/EN#15686/animals A dark colored bird] sitting on [/EN#15687/other a branch of a tree] .
+[/EN#15686/animals A brown bird] is sitting on [/EN#15687/other a tree branch] .
+[/EN#15686/animals A bird] is perched on [/EN#15687/other a tree branch] .
+[/EN#15686/animals A brown bird] sitting on [/EN#15687/other a branch] .
+[/EN#15686/animals A bird] is sitting in [/EN#15687/other a tree] .

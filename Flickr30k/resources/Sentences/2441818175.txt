@@ -1,0 +1,5 @@
+[/EN#49737/people A man] in [/EN#49738/clothing a blue sweater] and [/EN#49739/clothing baseball cap] is working with [/EN#49740/other wood] .
+[/EN#49737/people A man] in [/EN#49739/clothing a yellow and blue hat] working on with [/EN#49740/other wood] .
+[/EN#49737/people a man] is shaping [/EN#49740/other wood] with [/EN#49741/other a lathe] in [/EN#49744/scene his workspace] .
+[/EN#49737/people Man] using [/EN#49741/other woodworking machine] covered in [/EN#49742/other saw dust] .
+[/EN#49737/people A man] in [/EN#49743/clothing a blue jeans] and [/EN#49738/clothing sweater] is working

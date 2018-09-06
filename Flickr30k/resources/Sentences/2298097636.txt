@@ -1,0 +1,5 @@
+[/EN#39796/animals A brown dog] is running along side [/EN#39797/animals a black dog] in [/EN#39799/scene a field] .
+[/EN#39797/animals Two large dogs] are running together through [/EN#39799/scene the grass] .
+[/EN#39797/animals Two dogs] run [/EN#39800/other side-by-side] on [/EN#39799/scene the grass] .
+[/EN#39797/animals Two dogs] are running on [/EN#39799/scene the grass] .
+[/EN#39798/animals Two dogs] running on [/EN#39799/scene grass] .

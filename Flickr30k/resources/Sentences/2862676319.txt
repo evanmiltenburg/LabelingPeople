@@ -1,0 +1,5 @@
+[/EN#77448/people A person] has [/EN#77449/clothing a mask] , [/EN#0/notvisual which] has [/EN#77450/bodyparts a red nose] and [/EN#77451/clothing a black bandanna] , over [/EN#77449/bodyparts his face] .
+[/EN#77448/people A person] wearing [/EN#77449/clothing a clown mask] is scratching [/EN#77453/bodyparts his or her chin] .
+[/EN#77448/people A person] wearing [/EN#77449/clothing a clown mask] looks to [/EN#77455/scene the right] .
+[/EN#77448/people A person] in [/EN#77449/clothing a scary mask] .
+[/EN#77448/people A person] wears [/EN#77449/clothing a mask] .

@@ -1,0 +1,5 @@
+[/EN#106487/animals An eagle] sits in [/EN#106488/other a bare tree] [/EN#0/notvisual that] is just starting to bud .
+[/EN#106487/animals A hawk] sits in [/EN#106488/other a budding tree] looking left .
+[/EN#106487/animals A bird] sits perched on [/EN#106488/other a tree branch] .
+[/EN#106487/animals A bird] is perched on [/EN#106488/other a tree branch] .
+[/EN#106489/other An eagle perched] on [/EN#106488/other a tree branch] .

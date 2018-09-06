@@ -1,0 +1,5 @@
+[/EN#30384/people A pharmacist] in [/EN#30387/clothing a white coat] and [/EN#30388/clothing glasses] is talking on [/EN#30389/other the phone] .
+[/EN#30384/people A man] wearing [/EN#30387/clothing a white coat] is talking on [/EN#30385/other the telephone] .
+[/EN#30384/people Older man] with [/EN#30388/clothing glasses] talking on [/EN#30389/other the phone] .
+[/EN#30384/people A laboratory worker] making [/EN#30386/other a phone call] .
+[/EN#30384/people A bald doctor] is making [/EN#30386/other a phone call] .

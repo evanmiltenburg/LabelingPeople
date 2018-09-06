@@ -1,0 +1,5 @@
+[/EN#102721/people A younger man] in [/EN#102722/clothing a gray shirt] pointing to [/EN#102723/other a blackboard] [/EN#0/notvisual that] has [/EN#102724/other drawings] on [/EN#0/notvisual it] .
+[/EN#102721/people A man] in [/EN#102722/clothing a gray sweater] and [/EN#102725/clothing blue jeans] instructing on [/EN#102723/other a blackboard] .
+[/EN#102721/people A man] in [/EN#102722/clothing a long-sleeved shirt] is showing [/EN#102724/other something] on [/EN#102723/other a chalkboard] .
+[/EN#102721/people A man] is standing in front of [/EN#102723/other a chalkboard] pointing at [/EN#102726/other diagrams]
+[/EN#102721/people A man] standing in front of [/EN#102723/other a chalkboard] points at [/EN#102724/other a drawing] .

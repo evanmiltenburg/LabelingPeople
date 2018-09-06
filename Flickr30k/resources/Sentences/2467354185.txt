@@ -1,0 +1,5 @@
+[/EN#51632/people A man] in [/EN#51633/clothing green shorts] is jumping to catch [/EN#51634/other a frisbee] as [/EN#51635/people another man] and [/EN#51636/people woman] run towards [/EN#0/notvisual him] .
+[/EN#51632/people An ultimate player] pancakes [/EN#51634/other a disc] with [/EN#51636/people a female] and [/EN#51635/people male] in [/EN#0/notvisual the foreground] .
+[/EN#51632/people A man] jumps to catch [/EN#51634/other a frisbee] , while [/EN#51635/people a man] and [/EN#51636/people a woman] run towards [/EN#0/notvisual him] .
+[/EN#51637/people Two man] and [/EN#51636/people a woman] are playing [/EN#51634/other frisbee] in [/EN#51639/scene a fenced field] .
+[/EN#51638/people Three people] are outside , [/EN#51632/people one man] is catching [/EN#51634/other a Frisbee] .

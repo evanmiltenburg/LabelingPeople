@@ -1,0 +1,5 @@
+[/EN#98748/people A girl] , dressed in [/EN#98751/clothing a soccer uniform] , is getting ready to kick [/EN#98749/other a green soccer ball] .
+[/EN#98748/people A girl] is running up to kick [/EN#98749/other a green soccer ball] .
+[/EN#98748/people Girl] is playing [/EN#98750/other soccer] with [/EN#98749/other a green ball] .
+[/EN#98748/people Child] playing [/EN#98750/other soccer] on [/EN#98752/scene a field] .
+[/EN#98748/people A young girl] playing [/EN#98750/other soccer] .

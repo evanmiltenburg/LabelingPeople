@@ -1,0 +1,5 @@
+[/EN#65380/people A mechanic] fixing [/EN#65382/other a wheel] on [/EN#65381/vehicles/scene a car of a train] .
+[/EN#65380/people Railway employee] checking [/EN#65382/other the train wheels] .
+[/EN#65380/people A man] in [/EN#65383/clothing a blue outfit] works on [/EN#65381/vehicles/scene a train] .
+[/EN#65380/people A man] works on [/EN#65382/vehicles/scene the wheel of a train] .
+[/EN#65380/people A man] working underneath [/EN#65381/vehicles/scene a train] .

@@ -1,0 +1,5 @@
+[/EN#9312/people A boy] wearing [/EN#9314/clothing blue swim trunks] is climbing on [/EN#9315/other rocks] with [/EN#9316/scene hotels] on [/EN#9313/scene the beach] in [/EN#0/notvisual the distance] .
+[/EN#9312/people A young boy] in [/EN#9314/clothing blue shorts] is climbing [/EN#9315/other rocks] along [/EN#9313/scene the hotel resort beach shore] .
+[/EN#9312/people A young boy] wearing [/EN#9314/clothing swimming trunks] is walking across [/EN#9315/other rocks] next to [/EN#9313/scene a beach] .
+[/EN#9312/people A boy] wearing [/EN#9314/clothing blue shorts] standing on top of [/EN#9315/other rocks] by [/EN#9318/scene the sea] .
+[/EN#9312/people A boy] is jumping on [/EN#9315/other rocks] by [/EN#9313/scene the beach]

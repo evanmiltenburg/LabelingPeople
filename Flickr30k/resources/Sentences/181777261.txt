@@ -1,0 +1,5 @@
+[/EN#21403/scene A partly cloudy day] at [/EN#21400/scene the beach] with [/EN#21401/people people] standing around and [/EN#21402/scene a building] on [/EN#21407/scene the right] .
+[/EN#21401/people Many people] are on [/EN#21400/scene the beach] , near [/EN#21402/scene a building] with [/EN#21405/other flags] flying .
+[/EN#21400/scene A busy beach] has [/EN#21401/people people] scattered on [/EN#0/notvisual it] watching [/EN#21403/scene the sky] .
+[/EN#21401/people Beachgoers] watch [/EN#21406/other something] in [/EN#21403/scene the sky] .
+[/EN#21400/scene A beach] crowded with [/EN#21401/people beachgoers] .

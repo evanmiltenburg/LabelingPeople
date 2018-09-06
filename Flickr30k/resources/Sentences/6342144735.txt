@@ -1,0 +1,5 @@
+[/EN#253226/people A Caucasian boy] in [/EN#253231/clothing a yellow shirt] and [/EN#253232/clothing brown pants] is standing in front of [/EN#253230/other some lockers] , next to [/EN#253228/people a sitting African-American girl] in [/EN#253229/clothing a pink jacket] and [/EN#253233/clothing dark jeans] .
+[/EN#253226/people A Caucasian boy] in [/EN#253228/people yellow and African-American girl] in [/EN#253229/clothing purple] are by [/EN#253230/other orange lockers] .
+[/EN#253226/people A boy] stands and [/EN#253228/people a girl] sits in front of [/EN#253230/other yellow lockers] .
+[/EN#253227/people Two children] are hanging out by [/EN#253230/other some lockers] .
+[/EN#253227/people two small children] by [/EN#253230/other their school lockers] .

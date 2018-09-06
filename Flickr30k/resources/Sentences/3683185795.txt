@@ -1,0 +1,5 @@
+[/EN#136587/people Two children] are with [/EN#136585/animals a dog] on [/EN#136591/clothing leash] [/EN#0/notvisual who] is standing against [/EN#136589/other a tree] .
+[/EN#136585/animals The dog] that [/EN#136587/people the two children] are walking is looking up at [/EN#136589/other a tree] .
+[/EN#136587/people The two children] watch [/EN#136585/animals the small yellow dog] on [/EN#136589/other the tree] .
+[/EN#136586/people A girl] and [/EN#136588/people a boy] watch [/EN#136585/animals a dog] try to climb [/EN#136589/other a tree] .
+[/EN#136588/people Boy] and [/EN#136586/people girl] look on [/EN#136585/animals a puppy] climbs tree

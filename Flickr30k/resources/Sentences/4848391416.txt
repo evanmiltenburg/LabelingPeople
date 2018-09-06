@@ -1,0 +1,5 @@
+[/EN#210226/people A man] wearing [/EN#210232/clothing glasses] sitting down on [/EN#210228/scene a street] with [/EN#210230/other a typewriter] in front of [/EN#0/notvisual him] .
+[/EN#210226/people A man] in [/EN#210234/clothing khakis] sitting at [/EN#210229/other a table] with [/EN#210231/other a sign] [/EN#0/notvisual that] reads [/EN#210227/people " poet] for [/EN#210233/other hire] . "
+[/EN#210226/people A man] is sitting on [/EN#210228/scene a street sidewalk] with [/EN#210230/other a typewriter] in front of [/EN#0/notvisual him] .
+[/EN#210226/people A man] sitting behind [/EN#210230/other a typewriter] on [/EN#210228/scene the street] selling [/EN#210235/other poetry] .
+[/EN#210226/people A man] sits writing at [/EN#210229/other a table] set up on [/EN#210228/scene a sidewalk] .

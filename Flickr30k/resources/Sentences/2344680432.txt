@@ -1,0 +1,5 @@
+[/EN#43077/people A man] thoughtfully plays [/EN#43079/instruments the guitar] in front of [/EN#0/notvisual a black background] .
+[/EN#43077/people A man] plays [/EN#43079/instruments his guitar] in [/EN#43078/scene a dimly lit room] .
+[/EN#43077/people A man] is standing playing [/EN#43079/instruments the guitar] .
+[/EN#43077/people A man] plays [/EN#43079/instruments guitar] in [/EN#43078/scene the dark] .
+[/EN#43077/people A young man] playing [/EN#43079/instruments the guitar]

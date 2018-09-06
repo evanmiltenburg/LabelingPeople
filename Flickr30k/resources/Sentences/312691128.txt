@@ -1,0 +1,5 @@
+[/EN#95376/people A man] in [/EN#95377/clothing a green hat] , [/EN#95384/clothing green shirt] , [/EN#95383/clothing brown pants] and [/EN#95380/clothing colorful apron] is flipping [/EN#95378/other a huge pancake] .
+[/EN#95376/people A man] in [/EN#95377/clothing hat] and [/EN#95380/clothing apron] flipping over [/EN#95378/other his pancake] by tossing [/EN#0/notvisual it] in [/EN#0/notvisual the air] back to [/EN#95382/other the pan] .
+[/EN#95376/people A man] wearing [/EN#95380/clothing an apron] and [/EN#95377/clothing green hat] is flipping [/EN#95378/other a large pancake] in [/EN#95379/scene a kitchen] .
+[/EN#95376/people A young man] in [/EN#95380/clothing an apron] and [/EN#95377/clothing hat] is cooking in [/EN#95379/scene a kitchen] .
+[/EN#95376/people Young man] wearing [/EN#95380/clothing an apron] cooking in [/EN#95379/scene a kitchen] .

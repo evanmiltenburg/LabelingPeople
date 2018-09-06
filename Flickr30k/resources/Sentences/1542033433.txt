@@ -1,0 +1,5 @@
+[/EN#15941/people A woman] is standing next to [/EN#15947/scene a road] where [/EN#15943/vehicles the cars] on [/EN#15948/scene the road] are [/EN#15949/other blurry] .
+[/EN#15941/people A woman] stands in front of [/EN#15946/scene a pizzeria] while [/EN#15950/other traffic buzzes] by [/EN#0/notvisual her] .
+[/EN#15941/people A woman] stands on [/EN#15945/scene an urban sidewalk] holding [/EN#15944/clothing a beige handbag] .
+[/EN#15943/vehicles traffic] is zooming past [/EN#15941/people the woman] wearing [/EN#15942/clothing a yellow jersey] .
+[/EN#15941/people A female] in [/EN#15942/clothing a green shirt] standing while [/EN#15951/scene traffic passes] .

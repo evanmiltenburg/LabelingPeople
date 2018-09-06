@@ -1,0 +1,5 @@
+[/EN#157047/people An accordion player] accompanies [/EN#157043/people a man] and [/EN#157042/people woman] [/EN#0/notvisual who] are dancing [/EN#157051/other a tango] on [/EN#157045/scene a city street] as [/EN#157055/people several passersby] watch .
+[/EN#157042/people A woman] wearing [/EN#157050/clothing a red shirt] and [/EN#157043/people a man] wearing [/EN#157049/clothing a black shirt] are dancing in [/EN#157045/scene the street] .
+[/EN#157043/people Well-dressed man] and [/EN#157042/people woman] dance to accordion [/EN#157044/other music] in [/EN#157046/scene a city] as [/EN#157053/people people] look on .
+[/EN#157048/scene Two street] [/EN#0/notvisual who] are dancing to [/EN#157044/other accordion music] .
+[/EN#157042/people a girl] in [/EN#157050/clothing red] and [/EN#157043/people a man] in [/EN#157052/clothing black] dancing

@@ -1,0 +1,5 @@
+[/EN#115871/people A man] in [/EN#115876/clothing a blue jacket] riding [/EN#115873/other a dog sled] over [/EN#115874/other a snow covered plain] .
+[/EN#115871/people A man] on [/EN#115873/other a sled] is pulled through [/EN#115874/scene the snow] by [/EN#115872/animals his dogs] .
+[/EN#115872/animals Five dogs] pull [/EN#115871/people a man] on [/EN#115873/other a sled] through [/EN#115874/scene the snow] .
+[/EN#115872/animals A team of dogs] pulling [/EN#115871/people a man] on [/EN#115873/other a sled] .
+[/EN#115872/animals A team of dogs] is pulling [/EN#115873/other a dog sled] .

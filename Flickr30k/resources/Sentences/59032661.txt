@@ -1,0 +1,5 @@
+[/EN#245000/people Five men] and [/EN#245004/people a woman] sit around [/EN#245001/other a coffee table] conversing while [/EN#245000/people one man] writes in [/EN#245003/other a notebook] .
+[/EN#244999/people A group of people] are conversing while [/EN#245000/people a man] in [/EN#245008/clothing a white shirt] takes [/EN#245006/other notes] .
+[/EN#244999/people Six casually dressed people] lounge around [/EN#245001/other a small coffee table] .
+[/EN#245000/people A mixed group of men] and [/EN#245004/people women] relax in [/EN#245009/scene a formal living room] .
+[/EN#244999/people People] in [/EN#245005/other chairs] around [/EN#245001/other a table]

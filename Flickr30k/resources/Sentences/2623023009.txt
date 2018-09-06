@@ -1,0 +1,5 @@
+[/EN#62107/people One young girl] is sitting on [/EN#62115/scene the edge of an in-ground swimming pool] , while [/EN#62109/people the other girl] is next to [/EN#0/notvisual her] in [/EN#62110/scene the water] wearing [/EN#62114/clothing swim goggles] .
+[/EN#62107/people A girl] in [/EN#62113/clothing a purple and white swimsuit] is sitting on [/EN#62111/scene the side of a pool] , while [/EN#62109/people a girl] in [/EN#62114/clothing goggles] is holding onto [/EN#62115/scene the side of the pool] .
+[/EN#62107/people A girl] in [/EN#62113/clothing a purple swimsuit] is sitting by [/EN#62110/scene the pool] , while [/EN#62107/people a girl] in [/EN#62114/clothing red goggles] is in [/EN#62111/scene the pool] .
+[/EN#62109/people a young girl] in [/EN#62113/clothing a purple bathing suit] taking [/EN#62117/scene a break] by [/EN#62110/scene the pool] .
+[/EN#62116/people Two girls] , [/EN#62118/clothing one black] , [/EN#62119/clothing one white] , swimming .

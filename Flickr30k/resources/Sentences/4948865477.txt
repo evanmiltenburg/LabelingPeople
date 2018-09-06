@@ -1,0 +1,5 @@
+[/EN#222127/people A man] in [/EN#222128/clothing a blue jacket] has fallen asleep while sitting on [/EN#222129/other a fold-able chair] , with [/EN#222133/other a fishing pole] and [/EN#222131/clothing a green umbrella] .
+[/EN#222127/people One man] , in [/EN#222128/clothing a blue jacket] , is sitting in [/EN#222130/other the rain] under [/EN#222131/clothing a green umbrella] .
+[/EN#222127/people A man] is fishing on [/EN#222132/scene the dock] despite [/EN#222130/other the dreary weather] .
+[/EN#222127/people A man] relaxes in [/EN#222129/other a chair] as [/EN#0/notvisual he] fishes on [/EN#222134/scene a rainy day] .
+[/EN#222127/people A man] is trying to find [/EN#222131/scene shelter] from [/EN#222130/other the rain] .

@@ -1,0 +1,5 @@
+[/EN#1501/people A person] is sleeping on [/EN#1502/other a bench] on [/EN#1506/scene the sidewalk] , across [/EN#1505/scene the street] from [/EN#1504/other a bus stop] .
+[/EN#1501/people A man] with [/EN#1503/other a plaid blanket] sleeps on [/EN#1502/other a bench] near [/EN#1505/scene a city street] .
+[/EN#1501/people A person] laying on [/EN#1502/other a street bench] under [/EN#1503/other a blue plaid blanket] .
+[/EN#1501/people A man] is sleeping on [/EN#1502/other a bench] near [/EN#1504/other a bus stop] .
+[/EN#1501/people Someone] sleeping on [/EN#1502/other bench] on [/EN#1505/scene city street] .

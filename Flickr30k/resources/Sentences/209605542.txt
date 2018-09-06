@@ -1,0 +1,5 @@
+[/EN#28442/people a climber] wearing [/EN#28443/clothing a red headband] is pulling [/EN#0/notvisual himself] up [/EN#28444/other some gray rocks] high above [/EN#28445/other some green foliage] .
+[/EN#28442/people a man] with [/EN#28443/clothing a red headband] climbing [/EN#28444/scene a rock cliff] looming over [/EN#28445/other greenery] .
+[/EN#28442/people A man] in [/EN#28443/clothing a headband] climbing [/EN#28444/other a rock] .
+[/EN#28442/people Man] in [/EN#28443/clothing red headband] climbing [/EN#28444/other a rock]
+[/EN#28442/people Man] climbing [/EN#28444/bodyparts a sheet rock face] .

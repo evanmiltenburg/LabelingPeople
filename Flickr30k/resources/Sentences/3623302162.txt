@@ -1,0 +1,5 @@
+[/EN#132328/animals A dog] is attempting [/EN#132333/other a turn] by [/EN#132329/other a nearby picnic bench] and [/EN#132330/other metal object] .
+[/EN#132328/animals White dog] with [/EN#132334/clothing collar] running in [/EN#132331/other fenced] in [/EN#132332/scene grassy area]
+[/EN#132328/animals The white dog] is running around in [/EN#132332/scene the grass] .
+[/EN#132328/animals The big white dog] is running in [/EN#132332/scene the grass] .
+[/EN#132328/animals A white dog] running next to [/EN#132329/other a bench] .

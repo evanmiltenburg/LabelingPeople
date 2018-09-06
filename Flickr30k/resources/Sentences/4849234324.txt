@@ -1,0 +1,5 @@
+[/EN#210360/people A man] stands outside [/EN#210362/scene the entrance] to [/EN#210368/other a business] , using [/EN#210361/other his cellphone] while [/EN#210366/clothing his briefcase] and [/EN#210370/clothing helmet] sit on [/EN#0/notvisual the ground] .
+[/EN#210360/people A man] in [/EN#210365/clothing business attire] checks [/EN#210361/other his mobile phone] , while standing next to [/EN#210362/other a set of revolving glass doors] .
+[/EN#210360/people A man] in [/EN#210363/clothing a white shirt] and [/EN#210364/clothing khaki pants] checks [/EN#210361/other his cellphone] in front of [/EN#210362/scene the entrance of a building] .
+[/EN#210360/people A man] on [/EN#210361/other a cellphone] outside [/EN#210362/scene the glass doors of a building] with [/EN#210366/other a suitcase] .
+[/EN#210360/people A man] with [/EN#210363/clothing a white shirt] and [/EN#210364/clothing brown pants] looks at [/EN#210361/other his cellphone] .

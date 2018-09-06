@@ -1,0 +1,5 @@
+[/EN#132202/people A horse rider] on [/EN#132201/animals a brown horse] jumping in [/EN#132208/scene midair] over [/EN#132204/scene jump bars] .
+[/EN#132203/people A show jumper] is clearing [/EN#132204/scene a white fence] on [/EN#132201/animals his horse] .
+[/EN#132202/people A woman] in riding [/EN#132209/clothing attire] rides [/EN#132201/animals a jumping horse] .
+[/EN#132203/people An equestrian] clears [/EN#0/notvisual a jump] at [/EN#132205/other a horse show] .
+[/EN#132201/animals A horse] and [/EN#132202/people rider] are jumping over [/EN#132206/other a hurdle] .

@@ -1,0 +1,5 @@
+[/EN#79997/people Three people] are in [/EN#79998/scene a room] together and [/EN#79995/people one man] has [/EN#80005/bodyparts/people an arm] sling on .
+[/EN#79995/people A black man] and [/EN#79999/people woman] , and [/EN#79996/people an Indian woman] in [/EN#79998/scene a blue-painted room] .
+[/EN#79995/people A man] in [/EN#80001/other a sling] sits in [/EN#79998/scene a blue room] with [/EN#79999/people a boy] and [/EN#79996/people a woman] .
+[/EN#79997/people Three people] are in [/EN#79998/scene a blue room] with [/EN#80002/other pictures] on [/EN#80003/other the wall] .
+[/EN#79997/people Three people] are smiling at [/EN#0/notvisual the camera] .

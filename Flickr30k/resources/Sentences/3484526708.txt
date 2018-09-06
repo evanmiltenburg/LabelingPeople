@@ -1,0 +1,5 @@
+In [/EN#121698/scene a field of tall grass] , [/EN#121694/people a small girl] feeds [/EN#121697/people a larger boy] [/EN#121696/other a bite of some type of food] .
+[/EN#121699/people Small boy] and [/EN#121694/people girl] in [/EN#121698/scene the grass] , [/EN#121697/people the boy] kneeling being fed [/EN#121700/other something] by [/EN#121694/people the girl] .
+[/EN#121694/people A baby] in [/EN#121698/scene a cornfield] feeding [/EN#121696/other some food] to [/EN#121697/people a young child] [/EN#0/notvisual who] is kneeling .
+[/EN#121695/people Two small children] wearing [/EN#121702/clothing long sleeves] are standing in [/EN#121698/scene the grass] .
+[/EN#121695/people Two young children] playing in [/EN#121698/scene the grass] .

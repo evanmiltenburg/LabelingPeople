@@ -1,0 +1,5 @@
+[/EN#167514/people A man] carrying [/EN#167520/clothing a blue jacket] is unloading [/EN#167515/other a chair] out of [/EN#167516/other a moving van] .
+[/EN#167514/people A man] is walking down [/EN#167518/scene a ramp] connected to [/EN#167516/vehicles a moving truck] .
+[/EN#167514/people A man] is walking down [/EN#167518/scene a ramp] out of [/EN#167516/vehicles the back of a truck] .
+[/EN#167514/people A man] is walking out [/EN#167516/vehicles a truck] while carrying [/EN#167515/other furniture] .
+[/EN#167514/people A man] is unloading [/EN#167516/vehicles a moving truck] .

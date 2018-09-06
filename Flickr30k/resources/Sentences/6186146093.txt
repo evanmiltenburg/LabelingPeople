@@ -1,0 +1,5 @@
+[/EN#249473/other An innertube] is being worked on [/EN#249473/vehicles a bicycle] by [/EN#249472/people a male and female] .
+[/EN#249472/people A man] and [/EN#249477/people woman] are working on replacing [/EN#249473/other a bike tire tube] .
+[/EN#0/notvisual There] is [/EN#249472/people a man] and [/EN#249477/people woman] working on [/EN#249473/other a bicycle tire] .
+[/EN#249472/people Two people] outside examining [/EN#249473/other a bicycle tire] .
+[/EN#249472/people A man] and [/EN#249477/people a woman] repairing [/EN#249473/other a bicycle tire] .

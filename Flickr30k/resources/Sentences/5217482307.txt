@@ -1,0 +1,5 @@
+[/EN#231224/people An Asian man] is walking [/EN#231228/vehicles a dusty bike] through [/EN#231235/scene a street] with [/EN#231227/other some ramshackle structures] on [/EN#0/notvisual its side] .
+[/EN#231224/people A man] in [/EN#231226/clothing a blue shirt] and [/EN#231234/clothing black pants] carries [/EN#231225/vehicles a bike] and [/EN#231227/other a large wooden thing] .
+[/EN#231224/people A man] in [/EN#231226/clothing a blue shirt] walking [/EN#231225/vehicles a bicycle] loaded with [/EN#231227/other a large box] on [/EN#231229/other the back] .
+[/EN#231224/people A man] is pushing [/EN#231225/vehicles an old bike] with [/EN#231227/other something] tied on to [/EN#0/notvisual the back of it] .
+[/EN#231224/people Man] carrying [/EN#231227/other a large load] on [/EN#231228/vehicles the back of his bike] while walking .

@@ -1,0 +1,5 @@
+[/EN#227505/people A young child] in [/EN#227512/clothing a red shirt] and [/EN#227513/clothing green pants] vacuums [/EN#227508/scene the floor] in front of [/EN#227506/other an oven] in [/EN#227509/scene a kitchen] .
+[/EN#227505/people A little blond boy] holds [/EN#227507/other the end of a vacuum] [/EN#227507/other cleaner nozzle] next to [/EN#227506/other a stove] .
+[/EN#227505/people A young boy] frowning as [/EN#0/notvisual he] holds [/EN#227510/other a vacuum] cleaner in front of [/EN#227506/other a stove] .
+[/EN#227505/people A child] using [/EN#227510/people a vacuum cleaner] on [/EN#227508/scene the kitchen floor] .
+[/EN#227505/people A boy] playing with [/EN#227507/other an sweeper] .

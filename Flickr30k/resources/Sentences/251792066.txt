@@ -1,0 +1,5 @@
+[/EN#54695/animals The black dog] in front of [/EN#54696/other the tree] has [/EN#54697/other a green toy] in [/EN#54698/bodyparts its mouth] .
+[/EN#0/notvisual There] is [/EN#54695/animals a black dog] catching [/EN#54697/other a green toy] in [/EN#54698/bodyparts its mouth] .
+[/EN#54695/animals A black dog] in [/EN#54699/scene a yard] with [/EN#54697/other a green object] in [/EN#54698/bodyparts its mouth] .
+[/EN#54695/animals The black dog] catches [/EN#54697/other something] green in [/EN#54698/bodyparts its mouth] .
+[/EN#54695/animals A dog] catching [/EN#54697/other a toy] in [/EN#54698/bodyparts its mouth] .

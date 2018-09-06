@@ -1,0 +1,5 @@
+[/EN#27554/animals A black and brown dog] is playing on [/EN#27555/other the ice] at [/EN#27556/scene the edge of a lake] .
+[/EN#27554/animals A black dog] plays with [/EN#27555/other a bit of ice] by [/EN#27556/scene the frozen river] .
+[/EN#27554/animals A black dog] is breaking [/EN#27555/other ice] at [/EN#27556/scene the edge of a stream] .
+[/EN#27554/animals A dog] stands on [/EN#27556/scene the edge of an icy body of water] .
+[/EN#27554/animals A black dog] is stepping on [/EN#27555/other the ice] .

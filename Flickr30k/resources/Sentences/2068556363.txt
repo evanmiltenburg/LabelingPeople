@@ -1,0 +1,5 @@
+[/EN#26759/people A woman] is smiling while [/EN#26758/people the man] next to [/EN#0/notvisual her] is focused on [/EN#26764/other a blue object] with [/EN#26765/other a pattern] on [/EN#0/notvisual it] .
+[/EN#26758/people A man] in [/EN#26767/clothing glasses] and [/EN#26759/people a woman] in [/EN#26768/clothing a green sweater] are opening [/EN#26763/other presents] .
+[/EN#26758/people A man] and [/EN#26759/people woman] are opening [/EN#26763/other their gifts] at [/EN#26769/scene a wedding shower] .
+[/EN#26759/people A lady] and [/EN#26758/people a guy] are sitting down [/EN#26766/other wrapping gifts] .
+[/EN#26760/people Two people] unwrapping [/EN#26763/other packages] .

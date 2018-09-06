@@ -1,0 +1,5 @@
+[/EN#206987/people A young man] sitting under [/EN#206990/other a tree] while [/EN#206992/other others] walk down [/EN#206989/scene the street] .
+[/EN#206987/people A young man] is sitting on [/EN#0/notvisual the ground] with [/EN#206991/other his back] to [/EN#206990/other a tree] .
+[/EN#206987/people A man] in [/EN#206993/clothing a gray t-shirt] is sitting against [/EN#206990/other a sidewalk tree] .
+[/EN#206987/people A young man] sits on [/EN#206988/scene a sidewalk] and leans against [/EN#206990/other a tree] .
+[/EN#206987/people The boy] is leaning against [/EN#206990/other a tree] .

@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#64977/animals a brown dog] leaping on [/EN#64979/scene the beach] .
+[/EN#64977/animals The collared dog] is jumping into [/EN#0/notvisual the air] .
+[/EN#64977/animals Brown dog] is leaping up into [/EN#0/notvisual the air] .
+[/EN#64977/animals A playful dog] is jumping on [/EN#64980/other the sand] .
+[/EN#64977/animals A dog] leaps on [/EN#64979/scene the beach] .

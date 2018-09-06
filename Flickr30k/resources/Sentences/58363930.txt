@@ -1,0 +1,5 @@
+[/EN#243847/people A mountaineer] is ascending [/EN#243848/scene a snow covered trail] whilst attached to [/EN#243851/other a rope] .
+[/EN#243847/people A person] in [/EN#243849/clothing a blue hat] climbing up [/EN#243850/scene a snow covered mountain] .
+[/EN#243847/people A hiker] treks up [/EN#243850/scene the snowy mountain] .
+[/EN#243847/people A man] climbing [/EN#243848/scene a snowy mountain] .
+[/EN#243847/people A man] skiing in [/EN#243848/scene the mountains]

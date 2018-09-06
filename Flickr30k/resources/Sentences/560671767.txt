@@ -1,0 +1,5 @@
+[/EN#239543/people An elderly couple] dance in front of [/EN#239545/other a juke box] while [/EN#239542/people a guy] in [/EN#239549/clothing shorts] sleeps at [/EN#239544/other a nearby table]
+[/EN#239543/people An elderly couple] , [/EN#0/notvisual both] wearing [/EN#239550/clothing white shirts] , dancing and [/EN#239542/people a young male] sitting at [/EN#239544/other a table] .
+[/EN#239543/people An elderly couple] dances next to [/EN#239544/other a table] where [/EN#239542/people a boy] is sitting with [/EN#239548/bodyparts his head] down .
+[/EN#239543/people An elderly couple] dancing in [/EN#239551/scene a restaurant] while [/EN#0/notvisual there] grandson hides [/EN#239547/bodyparts his face] .
+[/EN#239542/people A man] leaning on [/EN#239546/other his chair] while [/EN#239543/people an old couple] dances next to [/EN#0/notvisual him] .

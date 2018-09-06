@@ -1,0 +1,5 @@
+[/EN#29763/people A man] wearing [/EN#29764/clothing a blue sweatshirt] and [/EN#29769/clothing a white hard hat] is working on [/EN#29768/other a construction project] .
+[/EN#29763/people A construction worker] inspecting [/EN#29765/other part of a wooden structure] .
+[/EN#29763/people A young man] wearing [/EN#29764/clothing a sweatshirt] is working [/EN#29766/other construction] .
+[/EN#29763/people Man] in [/EN#29764/clothing blue sweater] measuring [/EN#29767/other curved board] .
+[/EN#29763/people A construction worker] hard at [/EN#29770/other work] .

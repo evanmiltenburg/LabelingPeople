@@ -1,0 +1,5 @@
+[/EN#109499/people A person] in [/EN#109506/clothing orange pants] is doing [/EN#0/notvisual tricks] on [/EN#109503/other a snowboard] while [/EN#109498/people a person] in [/EN#109507/clothing a yellow cap] watches .
+[/EN#109498/people A person] sits on [/EN#109501/scene a snowbank] watching [/EN#109499/people a snowboarder] take [/EN#109500/other a high leap] .
+[/EN#109498/people A guy] is watching [/EN#109499/people another guy] jump in [/EN#0/notvisual the air] while [/EN#109500/other snowboarding] .
+[/EN#109498/people Snowboarder] performing [/EN#0/notvisual a trick] high in [/EN#0/notvisual the air] in [/EN#109501/scene a snowy area] .
+[/EN#109498/people A person] watches as [/EN#109499/people a snowboarder] does [/EN#0/notvisual a fancy trick] in [/EN#0/notvisual the air]

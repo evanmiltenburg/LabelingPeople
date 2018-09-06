@@ -1,0 +1,5 @@
+[/EN#31461/people A woman] wearing [/EN#31467/clothing a white top] stands in front of [/EN#31463/other an ATM machine] .
+[/EN#31461/people A woman] is standing in front of [/EN#31463/other an atm machine] in [/EN#31466/scene a casino] .
+[/EN#31461/people A woman] in [/EN#31466/scene a casino] stands at [/EN#31463/other an ATM] to withdraw [/EN#31465/other money] .
+[/EN#31461/people Women] standing in front of [/EN#31463/other a ATM machine] at [/EN#31466/scene a casino] .
+[/EN#31461/people Woman] standing at [/EN#31463/other an ATM] in [/EN#31466/scene a casino] .

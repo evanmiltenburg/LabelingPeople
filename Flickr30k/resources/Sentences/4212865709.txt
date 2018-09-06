@@ -1,0 +1,5 @@
+[/EN#159258/people Two people] in [/EN#159260/clothing bright orange coats] are working on [/EN#159263/other some piece of equipment] [/EN#0/notvisual that] is dealing with [/EN#159259/vehicles/scene a train] .
+[/EN#159258/people Two men] in [/EN#159262/clothing orange uniforms] stand before [/EN#159259/vehicles/scene a train] and do [/EN#159264/other some work] .
+[/EN#159258/people Two workers] in [/EN#159260/clothing orange jackets] work on [/EN#159259/vehicles/scene a red train] .
+[/EN#159258/people Two railway workers] fix [/EN#159259/vehicles/scene a train] in [/EN#159260/clothing orange vests] .
+[/EN#159258/people Two men] are working on [/EN#159261/scene a railroad track] .

@@ -1,0 +1,5 @@
+[/EN#4142/people A barefoot young girl] in [/EN#4143/clothing a pink gown] is asleep on [/EN#4144/scene a hard wood floor] cuddling [/EN#4145/other her baby doll] .
+[/EN#4142/people A little girl] dressed in [/EN#4143/clothing a princess costume] , asleep on [/EN#4144/scene a wood floor] .
+[/EN#0/notvisual There] is [/EN#4142/people a girl] in [/EN#4143/clothing all pink] sleeping on [/EN#4144/scene the floor] with [/EN#4146/other her dolls] .
+[/EN#4142/people a girl] sleeping with [/EN#4145/other a baby doll] wearing [/EN#4143/clothing a princess costume]
+[/EN#4142/people A child] dressed in [/EN#4143/clothing a princess outfit] sleeping .

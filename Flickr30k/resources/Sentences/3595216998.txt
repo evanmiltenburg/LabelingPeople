@@ -1,0 +1,5 @@
+[/EN#130249/animals A small black and white dog] jumps with [/EN#130253/scene red plastic fence] in [/EN#0/notvisual background] .
+[/EN#130249/animals A small , black dog] jumps through [/EN#0/notvisual the air] while [/EN#130255/people a person] beckons [/EN#0/notvisual it] .
+[/EN#130249/animals A black dog] leaps in [/EN#0/notvisual the air] while playing [/EN#130250/scene outside] .
+[/EN#130249/animals a small black dog] jumps over [/EN#130254/scene a bar] .
+[/EN#130249/animals A small black dog] in [/EN#130251/scene midair] .

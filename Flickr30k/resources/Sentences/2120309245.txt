@@ -1,0 +1,5 @@
+[/EN#29882/people A woman] wearing [/EN#29888/clothing a white shirt] is standing behind [/EN#29883/other a counter] .
+[/EN#29882/people A Woman] working [/EN#29883/scene a food stand] with [/EN#29884/other lots of desserts] .
+[/EN#29882/people The lady] is white is selling [/EN#29884/other things] on [/EN#29886/scene the street] .
+[/EN#29882/people A lady] stands at [/EN#29883/scene her ice cream stand] .
+[/EN#29882/people A woman] standing in [/EN#29883/scene her food stand] .

@@ -1,0 +1,5 @@
+[/EN#190512/people A man] in [/EN#190514/clothing a suit] is walking with [/EN#190507/people a woman] in [/EN#190517/clothing white pants] under [/EN#190510/clothing a umbrella] , as [/EN#190507/people a woman] rides [/EN#190509/vehicles a bike] holding [/EN#190511/clothing an umbrella] and adjusts [/EN#190515/clothing her purse] .
+[/EN#190508/people Two people] are under [/EN#190510/clothing a blue umbrella] while [/EN#190507/people a woman] riding [/EN#190509/vehicles a bike] has [/EN#190511/clothing a green umbrella] .
+[/EN#190507/people woman] with [/EN#190511/clothing umbrella] riding [/EN#190509/vehicles bike] behind [/EN#190508/people couple] walking while using [/EN#190510/clothing one umbrella]
+[/EN#190507/people A woman] [/EN#0/notvisual who] is dressed up [/EN#190518/other peddles] on [/EN#190509/vehicles her bike] while holding [/EN#190510/clothing an umbrella] .
+[/EN#190513/people 3 people] with [/EN#190516/clothing umbrellas] on [/EN#190519/scene a street] next to [/EN#190520/scene a park]

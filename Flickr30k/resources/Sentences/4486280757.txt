@@ -1,0 +1,5 @@
+[/EN#172427/people A man] in [/EN#172428/clothing a black wetsuit] with [/EN#172431/clothing white shorts] is windsurfing on [/EN#172429/scene a blue body of water] with [/EN#172434/scene mountains] in [/EN#0/notvisual the background] .
+[/EN#172427/people Man] with [/EN#172435/bodyparts black hair] and [/EN#172431/clothing white shorts] riding [/EN#172430/other a water sports craft] in [/EN#172429/scene the water] .
+[/EN#172427/people A young man] on [/EN#172430/other a sail ski] wearing [/EN#172428/clothing a dry suit] in [/EN#172429/scene the middle of a body of water]
+[/EN#172427/people Windsurfer] in [/EN#172433/other low wind conditions] on [/EN#172429/scene a lake] .
+[/EN#172427/people One man] riding [/EN#172430/other a sail] in [/EN#172429/scene water] .

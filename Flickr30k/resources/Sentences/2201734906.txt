@@ -1,0 +1,5 @@
+[/EN#33804/people A blond-haired woman] talks to [/EN#33805/people a man] wearing [/EN#33811/clothing a tank top] and [/EN#33812/clothing shorts] .
+[/EN#33805/people A man] and [/EN#33804/people a woman] are talking while waiting at [/EN#33806/scene a crosswalk] .
+[/EN#33804/people A young blond women] and [/EN#33805/people a man] waiting to cross [/EN#33808/scene the street] .
+[/EN#33805/people A man] and [/EN#33804/people women] waiting at [/EN#33806/scene a crosswalk]
+[/EN#33805/people A young couple] crossing [/EN#33808/scene the street] .

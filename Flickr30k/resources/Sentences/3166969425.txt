@@ -1,0 +1,5 @@
+[/EN#97701/animals A white dog] walks along [/EN#97704/scene a path] [/EN#0/notvisual which] has [/EN#97705/other a thin covering of snow flakes] .
+[/EN#97701/animals A dog] is walking through [/EN#97704/scene snow] and [/EN#97702/other a figure] is in [/EN#0/notvisual the distance] .
+[/EN#97701/animals A dog] walking along [/EN#97706/scene a frosty path] .
+[/EN#97701/animals A white dog] walking in [/EN#97703/scene the snow] .
+[/EN#97701/animals A dog] walks in [/EN#97707/scene a foggy place] .

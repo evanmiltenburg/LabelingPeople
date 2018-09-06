@@ -1,0 +1,5 @@
+[/EN#99139/people A man] sits in [/EN#99147/scene the floor] slapping [/EN#99146/other something] while [/EN#99140/people another woman] watches and [/EN#99141/other one] stands in [/EN#99148/scene the kitchen] talking .
+[/EN#99139/people A man] is talking in [/EN#0/notvisual the foreground] while [/EN#99141/people a woman] is talking in [/EN#0/notvisual the background] .
+[/EN#99139/people A man] sits in [/EN#0/notvisual the foreground] , and [/EN#99141/people a woman] with [/EN#99144/other a drink] is in [/EN#0/notvisual the background] .
+[/EN#99139/people A man] in [/EN#99149/clothing gray shirt] sitting near [/EN#99140/people a woman] .
+[/EN#99143/people People] sitting and standing talking .

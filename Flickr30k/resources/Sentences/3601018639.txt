@@ -1,0 +1,5 @@
+[/EN#130650/people People] walking in [/EN#130652/scene a big city] along where [/EN#130655/vehicles the public street transportation] runs .
+[/EN#130651/scene A view of a city sidewalk] , with [/EN#130650/people 4 passersby] in [/EN#0/notvisual the foreground] .
+[/EN#130650/people Four people] are walking down [/EN#130654/scene the sidewalk] in [/EN#130652/scene a busy city] .
+[/EN#130650/people Pedestrians] are walking down [/EN#130654/scene a sidewalk] in [/EN#130651/scene the city] .
+[/EN#130650/people People] are walking on [/EN#130651/scene a sidewalk] in [/EN#130652/scene a city] .

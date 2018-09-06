@@ -1,0 +1,5 @@
+[/EN#154261/people Man] and [/EN#154265/people woman] walking next to [/EN#0/notvisual each other] in front of [/EN#154262/other Caution sign] .
+[/EN#154263/people 2 people] walking on [/EN#154264/scene a street] next to [/EN#154262/other a caution sign]
+[/EN#154261/people A man] and [/EN#154265/people woman] walking on [/EN#154264/scene a wet floor surface] .
+[/EN#154261/people A man] and [/EN#154265/people women] walking by [/EN#154262/other a caution sign] .
+[/EN#154263/people People] walking past [/EN#154262/other a yellow caution cone] .

@@ -1,0 +1,5 @@
+[/EN#74582/people A woman] in [/EN#74583/clothing a blue athletic outfit] is completing [/EN#0/notvisual a high jump] while [/EN#74588/people two men] photograph [/EN#0/notvisual her] and [/EN#74595/people one man] is watching from behind [/EN#74590/scene a fence] .
+[/EN#74582/people A female athlete] attempts [/EN#74592/scene a vault] over [/EN#74586/other a pole] while [/EN#74587/people spectators] take [/EN#74597/other pictures] .
+[/EN#74582/people A female] in [/EN#74583/clothing blue] is jumping over [/EN#74584/other a hurdle] , while [/EN#74587/people two people] photograph [/EN#0/notvisual her] .
+[/EN#74582/people A woman] is doing [/EN#74593/other gymnastics] while [/EN#74591/people a man] takes [/EN#0/notvisual a picture of her] in [/EN#74594/scene midair] .
+[/EN#74582/people A female athlete] is in [/EN#74596/other the process] of completing [/EN#0/notvisual a high jump] .

@@ -1,0 +1,5 @@
+[/EN#94338/people A man] with [/EN#94340/clothing a braided pigtail Christmas hat] is playing [/EN#94341/instruments an instrument] .
+[/EN#94338/people A man] wearing [/EN#94340/clothing a Santa hat] is playing [/EN#94341/instruments a musical instrument] .
+[/EN#94338/people A man] in [/EN#94340/clothing a santa hat] playing [/EN#94343/other the xylophone] .
+[/EN#94338/people A xylophonist] taps [/EN#94342/other the keys] to make [/EN#94344/other music] .
+[/EN#94338/people A man] in [/EN#94340/clothing a hat] plays [/EN#94342/other a xylophone] .

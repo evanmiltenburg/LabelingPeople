@@ -1,0 +1,5 @@
+[/EN#52682/people A man] is paddling [/EN#52685/other a kayak] on [/EN#52684/scene water] beside [/EN#52688/bodyparts a large rock face] .
+[/EN#52682/people A person] canoeing on [/EN#52684/scene water] with [/EN#0/notvisual a black background] .
+[/EN#52682/people A person] rowing in [/EN#52683/vehicles/scene their boat] in [/EN#52684/scene the water] .
+[/EN#52682/people A man] is rowing [/EN#52685/other a canoe] in [/EN#52684/scene a body of water] .
+[/EN#52682/people A man] rows [/EN#52683/vehicles/scene a boat] against [/EN#52687/scene a night sky] .

@@ -1,0 +1,5 @@
+[/EN#101340/people A young girl] is sitting in [/EN#101341/scene the snow] with [/EN#101342/other a pink fur hood] on [/EN#101343/bodyparts her head] .
+[/EN#101340/people A toddler] in [/EN#101344/clothing heavy clothing] sitting in [/EN#101341/scene the snow] .
+[/EN#101340/people A small girl] sits in [/EN#101341/scene the snow] with [/EN#101345/bodyparts a pink nose] .
+[/EN#101340/people A little girl] sitting in [/EN#101341/scene the snow]
+[/EN#101340/people A child] playing in [/EN#101341/scene snow] .

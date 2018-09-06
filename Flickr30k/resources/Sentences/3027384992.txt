@@ -1,0 +1,5 @@
+[/EN#88454/people A woman] and [/EN#88457/people a small boy] are standing below [/EN#88458/other a large beam] while [/EN#88454/people the woman] pulls on [/EN#0/notvisual it] with [/EN#88460/other a rope] .
+[/EN#88454/people An Asian woman] in [/EN#88459/clothing a pink shirt] and [/EN#88463/clothing tan pants] is pulling on [/EN#88458/other a pole] while [/EN#88457/people a little boy] watches .
+[/EN#88454/people A woman] in [/EN#88459/clothing a pink shirt] and [/EN#88457/people a child] in [/EN#88462/clothing a white shirt] stand on [/EN#88464/scene a large tiled balcony] .
+[/EN#88454/people A person] in [/EN#88459/clothing a red shirt] pulls on [/EN#88460/other a rope] while [/EN#88456/people a little boy] watches .
+[/EN#88461/people Two children] are ringing [/EN#88465/bodyparts a bell] .

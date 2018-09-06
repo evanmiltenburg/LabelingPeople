@@ -1,0 +1,5 @@
+[/EN#158026/people A woman] in [/EN#158034/clothing heels] carrying [/EN#158027/clothing a bag] and [/EN#158030/people a man] with [/EN#158029/clothing a black hat] rolling [/EN#158027/clothing a bag] on [/EN#158032/other a wet tarmac] .
+[/EN#158023/people Two women] with [/EN#158033/clothing hats] are walking away from [/EN#0/notvisual each other] with [/EN#158024/other their luggage] .
+[/EN#158023/people Two women] outside with [/EN#158024/other luggage] walking away in [/EN#0/notvisual separate directions] .
+[/EN#158023/people Two women] with [/EN#158024/other suitcases] walk in [/EN#0/notvisual opposite directions] .
+[/EN#158023/people Two women] walk across [/EN#158031/scene a wet pavement] .

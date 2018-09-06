@@ -1,0 +1,5 @@
+[/EN#148076/people A man] wearing [/EN#148087/clothing jeans] , [/EN#148077/other a belt buckle] , [/EN#148084/clothing a plaid shirt] , and [/EN#148080/clothing a cowboy hat] is sitting on [/EN#148081/animals his brown horse] while holding [/EN#148078/other a rope] .
+[/EN#148076/people A young man] in [/EN#148088/scene a rodeo arena] wearing [/EN#148086/clothing cowboy garb] on [/EN#148081/animals a horse] carrying [/EN#148078/other a rope] .
+[/EN#148076/people A man] in [/EN#148079/clothing cowboy attire] is riding [/EN#148081/animals a horse] with [/EN#148078/other a lasso] in [/EN#148089/bodyparts hand] .
+[/EN#148076/people A lone cowboy] riding [/EN#148081/animals his horse] holding [/EN#148078/other a lasso] and [/EN#148078/other some rope] .
+At [/EN#148085/other the rodeo] [/EN#148076/people a cowboy] rides [/EN#148081/animals a horse] .

@@ -1,0 +1,5 @@
+[/EN#44953/animals a black and white colored dog] jumping around in [/EN#44954/scene a body of water] .
+[/EN#44953/animals A brown and white dog] is running through [/EN#44955/scene the river] .
+[/EN#44953/animals A dog] runs through [/EN#44955/scene a creek] and [/EN#44954/scene spashes water] .
+[/EN#44953/animals a dog] runs through [/EN#44954/scene the water] .
+[/EN#44953/animals A dog] emerging from [/EN#44955/scene a lake] .

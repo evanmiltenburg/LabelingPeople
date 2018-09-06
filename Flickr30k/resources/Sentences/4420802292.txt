@@ -1,0 +1,5 @@
+[/EN#167110/people A man] painting [/EN#167116/other a picture of a tree] and [/EN#167117/animals a turtle] with [/EN#167111/clothing a backwards cap] on .
+[/EN#167110/people A young man] with [/EN#167118/other LA] on [/EN#167111/clothing his cap] paints [/EN#167117/animals a turtle] on [/EN#0/notvisual a green background] .
+[/EN#167110/people An artist] is painting [/EN#167117/animals a tiny turtle] into [/EN#167113/other a painting] .
+[/EN#167110/people A man] is [/EN#167115/other paint] [/EN#167115/scene a picture of a landscape] .
+[/EN#167110/people A man] concentrates to paint [/EN#167112/other details] .

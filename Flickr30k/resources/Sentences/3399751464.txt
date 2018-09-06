@@ -1,0 +1,5 @@
+[/EN#115563/people A person] dressed , in [/EN#115565/clothing black robes] , [/EN#115572/other huddles] at [/EN#115564/scene the opening of a bridge] , with [/EN#115568/other a soft drink] at [/EN#115571/bodyparts hid feet] .
+[/EN#115563/people A person] is sitting on [/EN#0/notvisual the ground] at [/EN#115564/scene the end of a bridge] .
+[/EN#115563/people A person] sitting down , [/EN#115570/bodyparts head] slumped [/EN#115567/other a long a railing] .
+[/EN#115563/people A person] in [/EN#115565/clothing black] drinking [/EN#115569/other coffee] near [/EN#115564/scene a bridge] .
+Dressing in [/EN#115565/clothing black] , [/EN#115563/people a person] sits on [/EN#115566/scene a bridge] .

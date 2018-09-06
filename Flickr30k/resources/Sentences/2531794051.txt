@@ -1,0 +1,5 @@
+[/EN#55661/people A man] in [/EN#55669/clothing sunglasses] sits in [/EN#55666/other a chair] holding [/EN#55665/other a metal pan] , surrounded by [/EN#55663/other a lot of stuff] .
+[/EN#55661/people Indian man] sitting in [/EN#55667/scene the street] doing [/EN#55664/other some sort of metal] working , [/EN#55670/other tools] around [/EN#0/notvisual him] .
+[/EN#55661/people An older man] sits among [/EN#55664/other piles of scrap metal] and [/EN#55663/other tools] .
+[/EN#55661/people The man] in [/EN#55662/clothing the blue sweater] is working on [/EN#0/notvisual the ground] .
+[/EN#55661/people A man] in [/EN#55662/clothing a blue vest] sits surrounded by [/EN#55668/other buckets] .

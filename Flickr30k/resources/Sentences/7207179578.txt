@@ -1,0 +1,5 @@
+[/EN#267126/people A very handsome man] is jogging down [/EN#267129/scene the sidewalk] , away from [/EN#267127/scene a lighthouse] .
+[/EN#267126/people A man] running in [/EN#267130/other a marathon race] is running across [/EN#267129/scene a bridge] .
+[/EN#267128/people Runners] are passing by [/EN#267127/scene a red and white lighthouse] .
+[/EN#267127/scene Lighthouse] in [/EN#267132/scene a wooded area] sits above [/EN#267133/other tree 's] .
+[/EN#267128/people Runners] in [/EN#267131/other a race] passing [/EN#267127/scene a lighthouse] .

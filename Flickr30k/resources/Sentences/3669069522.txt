@@ -1,0 +1,5 @@
+[/EN#135598/people Three middle-aged people] sitting on [/EN#135600/other a park bench] , with [/EN#135601/other a rock wall] in [/EN#0/notvisual the background] .
+[/EN#135597/people one woman] holding [/EN#135602/other flowers] and [/EN#135599/people two men] on [/EN#135600/other a bench]
+[/EN#135599/people Two men] and [/EN#135597/people a woman] sitting on [/EN#135600/other a bench] .
+[/EN#135598/people Three people] sit on [/EN#135600/scene a bench outside] .
+[/EN#135597/people One woman] and [/EN#135599/people two men] on [/EN#135600/other a bench] .

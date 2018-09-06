@@ -1,0 +1,5 @@
+[/EN#187841/animals Brown dog] leaps over [/EN#187842/other a chain] suspended over [/EN#187843/scene a gravel road] .
+[/EN#187841/animals A greyhound] jumps over [/EN#187842/other a chain] .
+[/EN#187841/animals a brown dog] jumps over [/EN#187842/other a chain] .
+[/EN#187841/animals A dog] leaping over [/EN#187842/other a chain] .
+[/EN#187841/animals A dog] jumps over [/EN#187842/other a chain] .

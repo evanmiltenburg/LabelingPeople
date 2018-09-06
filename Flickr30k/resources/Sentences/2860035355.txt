@@ -1,0 +1,5 @@
+[/EN#77284/other A photograph] taken at [/EN#77279/scene night of a street scene] and [/EN#77280/people a man] looking in [/EN#77279/scene the street]
+[/EN#77280/people An elderly man] is standing outside at [/EN#77279/scene night] , gazing at [/EN#77279/scene the street] .
+[/EN#0/notvisual This] is [/EN#77279/scene a night view of a city street] with [/EN#77281/people people] and [/EN#77282/vehicles traffic] .
+[/EN#77280/people A man] looks across [/EN#77279/scene a city street] at [/EN#77279/scene night] .
+[/EN#77280/people a man] sits in [/EN#77283/scene the city] at [/EN#77279/scene night] .

@@ -1,0 +1,5 @@
+[/EN#262286/people An older guy] with [/EN#262288/clothing a lumpy sweater] carving [/EN#262289/animals a turkey] on [/EN#262287/other a cutting board] .
+[/EN#262286/other A gray bearded man slices blade] into [/EN#262289/other some poultry] on [/EN#262287/other a cutting board] .
+[/EN#262286/people Older gentleman] in [/EN#262293/scene a kitchen] carving [/EN#262289/animals a turkey] with [/EN#262292/other a large knife] .
+[/EN#262286/people An older man] in [/EN#262288/clothing a sweater] prepares [/EN#262289/other his meat] .
+[/EN#262286/people An older man] is cutting [/EN#262289/animals the turkey] .

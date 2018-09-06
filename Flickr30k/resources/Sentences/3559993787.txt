@@ -1,0 +1,5 @@
+[/EN#127605/people Person] on [/EN#127606/vehicles bike] in [/EN#0/notvisual air] above [/EN#127608/other two large boulders] with [/EN#127611/other sun] overhead .
+[/EN#127605/people A man] jumps [/EN#127606/vehicles his bicycle] in [/EN#0/notvisual the air] between [/EN#127608/other two rocks] .
+[/EN#127605/people a guy] on [/EN#127606/vehicles a bike] jumping from [/EN#127610/other one large rock] to [/EN#0/notvisual another]
+[/EN#127605/people a cyclist] is making [/EN#0/notvisual his bike jump] between [/EN#127608/other two rocks] .
+[/EN#127605/people A biker] in [/EN#127612/other the woods] .

@@ -1,0 +1,5 @@
+[/EN#199737/people A man] in [/EN#199743/clothing a blue jacket] , [/EN#199742/clothing white hat] , [/EN#199749/clothing white shirt] , [/EN#199746/clothing jeans] , [/EN#199747/clothing oxford shoes] , [/EN#199745/clothing glasses] and [/EN#199738/clothing a flowered tie] holding [/EN#199739/other a full wineglass] while standing on [/EN#199741/scene a sidewalk] with [/EN#199748/other passers bye] .
+[/EN#199737/people A man] wearing [/EN#199738/clothing a colorful tie] and holding [/EN#199739/other a glass] containing [/EN#199739/other a drink] stands on [/EN#199741/scene a street] .
+[/EN#199737/people A man] standing on [/EN#199741/scene the sidewalk] wearing [/EN#199742/clothing a white hat] and holding [/EN#199739/other a wineglass] .
+[/EN#199737/people A man] is walking [/EN#199744/scene downtown] on [/EN#199741/scene a walkway] , drinking [/EN#199739/other a glass of wine] .
+[/EN#199737/people A man] standing with [/EN#199739/other a glass] in [/EN#199750/bodyparts his hand] and [/EN#199742/clothing a white hat] .

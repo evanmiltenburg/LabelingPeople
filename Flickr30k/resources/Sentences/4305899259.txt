@@ -1,0 +1,5 @@
+[/EN#162540/people A man] wearing [/EN#162542/clothing a green plaid shirt] and [/EN#162545/clothing dark skinny jeans] is jumping on [/EN#162541/other a brightly covered bed] .
+[/EN#162540/people A person] with [/EN#162544/clothing blue and polka-dot socks] jumps on [/EN#162541/other a bed] with [/EN#162543/other a red and white blanket] .
+[/EN#162540/people A person] in [/EN#162542/clothing a plaid shirt] is jumping on [/EN#162541/other a bed] with [/EN#162543/other a red and white duvet] .
+[/EN#162540/people A person] wearing [/EN#162542/clothing a green shirt] is jumping on [/EN#162541/other the bed] .
+[/EN#162540/people A young person] having [/EN#0/notvisual fun] and jumping on [/EN#162541/other a bed] .

@@ -1,0 +1,5 @@
+[/EN#83622/people A person] is out in [/EN#83624/scene the water] at [/EN#83625/scene the beach] while [/EN#83627/other the sun] sets .
+[/EN#83622/people The surfer] lost [/EN#83623/other his board] and is about to fall into [/EN#83624/scene the sea] .
+[/EN#83622/people A man] has jumped from [/EN#83623/other a surfboard] up into [/EN#0/notvisual the air] .
+[/EN#83622/people A person] above [/EN#83623/other their surfboard] on [/EN#83624/scene the water] .
+[/EN#83622/people A man] floating in [/EN#83624/scene the ocean] .

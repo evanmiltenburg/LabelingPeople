@@ -1,0 +1,5 @@
+[/EN#75609/people a little girl] is sitting at [/EN#75610/other a table] with [/EN#75611/other a jug of juice] and [/EN#75612/other some watermelon slices] .
+[/EN#75609/people Young girl] sitting at [/EN#75610/other a table] selling [/EN#75611/other lemonade] and [/EN#75612/other watermelon slices] .
+[/EN#75609/people A young girl] at [/EN#75610/other a card table] selling [/EN#75611/other lemonade] and [/EN#75612/other watermelon] .
+[/EN#75609/people A little girl] sits at [/EN#75610/other a table] [/EN#75613/scene outdoors] and eats [/EN#75612/other watermelon] .
+[/EN#75609/people A girl] about to eat [/EN#75612/other watermelon] and [/EN#75611/other drink juice] .

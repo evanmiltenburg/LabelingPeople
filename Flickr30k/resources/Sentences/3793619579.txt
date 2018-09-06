@@ -1,0 +1,5 @@
+[/EN#142823/people A boy] in [/EN#142827/clothing a blue shirt] holds [/EN#142826/clothing a toy helmet] in [/EN#142831/bodyparts his hands] while standing on [/EN#142832/scene a path] in [/EN#142833/scene a park] .
+[/EN#142823/people A young boy] holding [/EN#142826/clothing a toy helmet] is about to have [/EN#0/notvisual some fun] .
+[/EN#142823/people A boy] holding [/EN#142826/clothing a silver helmet] is staring at [/EN#142829/other something] .
+[/EN#142825/people A young blond boy] with [/EN#142826/clothing a helmet] .
+[/EN#142824/people A man] and [/EN#142830/people two kids] are walking

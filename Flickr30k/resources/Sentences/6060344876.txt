@@ -1,0 +1,5 @@
+[/EN#247257/people A man] with [/EN#247260/clothing a green hat] in [/EN#247258/other a small boat named " Texas Mooring] " , in [/EN#247263/scene the water] .
+[/EN#247257/people A person] stands in [/EN#247259/vehicles/scene a boat] labeled [/EN#247258/other Texas] Mooring in front of [/EN#247261/other a red wall] .
+[/EN#247257/people A man] in [/EN#247262/clothing blue overalls] and [/EN#247260/clothing a green hat] stands in [/EN#247259/vehicles/scene a small boat] .
+[/EN#247257/people A man] is standing alone in [/EN#247259/vehicles/scene a boat] .
+[/EN#0/notvisual This] is [/EN#247257/people a professional fisherman] .

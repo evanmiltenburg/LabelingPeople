@@ -1,0 +1,5 @@
+[/EN#244037/people a woman] in [/EN#244040/clothing a blue shirt] is about to enter [/EN#244044/vehicles/scene a tour train] with [/EN#244048/other other] and [/EN#244041/people the tour guide] greets [/EN#0/notvisual her] .
+[/EN#244037/people An elderly woman] speaks to [/EN#244041/people a train attendant] while [/EN#244044/vehicles the vehicle] idles with waiting [/EN#244039/people passengers]
+[/EN#244037/people A woman] in [/EN#244040/clothing a turquoise top] talking to [/EN#244041/other the conductor of a trolley] near [/EN#244042/other a foreign cafe] .
+[/EN#244038/people Four people] standing outside of [/EN#244044/vehicles a rapid transit] parked in front of [/EN#244043/scene a large building] .
+[/EN#244037/people A woman] in [/EN#244040/clothing a blue shirt] about to board [/EN#244046/other a trolley] .

@@ -1,0 +1,5 @@
+[/EN#117837/animals A tan dog] is rolling on [/EN#117840/other his back] on [/EN#117838/other some asphalt] with [/EN#117842/vehicles a bike] and [/EN#117843/vehicles a scooter] in [/EN#0/notvisual the background] .
+[/EN#117837/animals A large dog] is laying on [/EN#117840/other its back] , outside on [/EN#117838/other a blacktop] , with [/EN#117844/bodyparts its legs] in [/EN#0/notvisual the air] .
+[/EN#117837/animals A brown dog] lies upside down on [/EN#117838/scene the cement road] .
+[/EN#117837/animals A dog] lies on [/EN#117840/other his back] on [/EN#117838/scene a road] .
+[/EN#117837/animals A brown dog] laying on [/EN#117840/other its back] .

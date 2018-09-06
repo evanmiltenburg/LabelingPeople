@@ -1,0 +1,5 @@
+[/EN#190747/people A child] with [/EN#190749/clothing a blue shirt] and [/EN#190750/clothing red sweater] draped over [/EN#190754/bodyparts his shoulders] is looking over [/EN#190753/scene a concrete fence] .
+[/EN#190747/people A young boy] with [/EN#190750/clothing a red backpack] and [/EN#190749/clothing blue shirt] is overlooking [/EN#190752/scene the scenery of a historic landmark] .
+[/EN#190747/people People] on [/EN#190755/other a terrace] read [/EN#190756/other a sign] and look out over [/EN#190751/scene the landscape] .
+[/EN#190748/people People] overlooking [/EN#190751/scene a scenic landscape] .
+[/EN#190748/people A group of people] sightseeing .

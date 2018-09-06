@@ -1,0 +1,5 @@
+[/EN#109796/people A woman] is snowboarding down [/EN#109797/other an incline] while [/EN#109801/people another woman] stands behind .
+[/EN#109796/people A blond boy] slides down [/EN#109797/other a sand dune] on [/EN#109802/other a skateboard] with [/EN#109803/other no wheels] .
+[/EN#109796/people A blond child] runs down [/EN#109797/other a sand dune] while [/EN#0/notvisual another] looks on .
+[/EN#109796/people a young person] sliding down [/EN#109798/scene a sandy hill] .
+[/EN#109796/people A blond girl] surfing down [/EN#109798/scene a sandy hill]

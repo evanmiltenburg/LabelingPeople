@@ -1,0 +1,5 @@
+[/EN#166454/people A group of people] walk through [/EN#166455/scene a shopping mall] .
+[/EN#166454/people People] strolling through [/EN#166455/scene an indoor market] .
+[/EN#166454/people The shoppers] are walking in [/EN#166455/scene a store] .
+[/EN#166454/people many people] walk through [/EN#166455/scene the store] .
+[/EN#166456/other People browse] in [/EN#166455/scene a store] .

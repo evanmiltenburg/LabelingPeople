@@ -1,0 +1,5 @@
+[/EN#234113/people A bunch of young children] are riding on [/EN#234120/other the back of a trolley] while being carried by [/EN#234115/animals a black and white horse]
+[/EN#234117/people A man] is pulling [/EN#234113/people a group of children] in [/EN#234116/vehicles a horse-drawn cart] past [/EN#234119/scene stone buildings] .
+[/EN#234115/animals A horse] pulls [/EN#234116/vehicles a carriage] behind [/EN#0/notvisual him] with [/EN#234113/people lots of children] in [/EN#0/notvisual it] .
+[/EN#234114/people A group of people] are riding in [/EN#234116/vehicles a horse-drawn cart] .
+[/EN#234114/people These people] are on [/EN#234118/other a carriage ride] .

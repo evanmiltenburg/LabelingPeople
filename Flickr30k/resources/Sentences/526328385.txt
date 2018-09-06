@@ -1,0 +1,5 @@
+[/EN#232401/vehicles A red and yellow roller coaster car] on [/EN#232399/scene a white track] is about to go down [/EN#232396/scene a hill] with [/EN#232394/people many passengers] raising [/EN#232402/bodyparts their hands] .
+[/EN#232394/people A group of people] are riding down [/EN#232395/people a roller coaster] [/EN#0/notvisual that] appears to be called [/EN#232398/other the " Cyclone] . "
+[/EN#232393/other A fun ride] for [/EN#232400/other many] on [/EN#232395/people the cyclone roller coaster] .
+[/EN#232394/people Group of people] riding [/EN#232393/other Cyclone] in [/EN#232397/scene Coney Island] .
+[/EN#232394/people People] going down [/EN#232396/scene a hill] on [/EN#232395/people a roller coaster]

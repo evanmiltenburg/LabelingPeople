@@ -1,0 +1,5 @@
+[/EN#282031/people A man] wearing [/EN#282036/clothing a blue shirt] , [/EN#282033/clothing blue cap] , and [/EN#282035/clothing jeans] is washing [/EN#282032/other a window] while hanging from [/EN#282038/other a rope] .
+[/EN#282031/people A man] is being suspended in [/EN#0/notvisual the air] next to [/EN#282032/scene the window of a building] [/EN#0/notvisual which] [/EN#0/notvisual he] is cleaning .
+[/EN#282031/people A man] with [/EN#282033/clothing a cap] and [/EN#282035/clothing jeans] is washing [/EN#282032/other the window] not on [/EN#282039/other ground level] .
+[/EN#282032/other A window] cleaner balances [/EN#0/notvisual himself] while [/EN#0/notvisual he] dries [/EN#282032/other the window] .
+[/EN#282031/people Window cleaner] attached to [/EN#282037/clothing a harness] .

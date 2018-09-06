@@ -1,0 +1,5 @@
+[/EN#74026/people A person] in [/EN#74028/clothing a red striped hooded sweatshirt] and [/EN#74029/clothing jeans shorts] walking on [/EN#74027/scene a grassy hill] .
+[/EN#74026/people One person] with [/EN#74028/clothing a pink and black striped shirt] and [/EN#74030/clothing white shorts] walking up [/EN#74027/scene a hill] .
+[/EN#74026/people A woman] walking across [/EN#74027/scene a hill] with [/EN#74031/other dark clouds] in [/EN#0/notvisual the background] .
+[/EN#74026/people A person] wearing [/EN#74028/clothing a striped shirt] is walking on [/EN#74027/scene a hill] .
+[/EN#74026/people A woman] in [/EN#74028/clothing a striped sweater] is standing on [/EN#74027/scene a hill] .

@@ -1,0 +1,5 @@
+[/EN#188441/people A group of people] walking through [/EN#188444/scene an alley] along [/EN#188443/scene a cobblestone street] , between [/EN#188447/scene two buildings] .
+[/EN#188442/people Two older people] hold [/EN#188445/bodyparts hands] while walking down [/EN#188444/scene a street alley] with [/EN#188446/people a group of people] .
+[/EN#188441/people Many people] walk away from [/EN#0/notvisual the camera] down [/EN#188444/scene a cobblestone alley] .
+[/EN#188441/people A group of senior citizens] walking down [/EN#188448/other narrow pathway] .
+[/EN#188442/people An old couple] walking down [/EN#188444/scene an alley] holding [/EN#188445/bodyparts hands] .

@@ -1,0 +1,5 @@
+[/EN#116804/people A group of adults] stands in [/EN#116809/scene the bathroom] looking down [/EN#116803/people a small child] in [/EN#116807/other the bath] .
+[/EN#116804/people Four old adults] stand around [/EN#116807/other a bathtub] while [/EN#116803/people a toddler] is taking [/EN#116807/other a bath] .
+[/EN#116805/people Some people] are standing around watching [/EN#116803/people a baby] taking [/EN#116807/other a bath] .
+[/EN#116805/people A bunch of people] watching [/EN#116803/people a child] in [/EN#116807/other the bathtub] .
+[/EN#116803/people A baby] takes [/EN#116807/other a bath] while [/EN#116805/people grownups] watch .

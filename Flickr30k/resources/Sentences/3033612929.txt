@@ -1,0 +1,5 @@
+[/EN#89027/animals A small white dog] is carrying [/EN#89028/other something] blue in [/EN#89029/bodyparts its mouth] and [/EN#89030/animals a bigger brown and black dog] is carrying [/EN#89031/other something] orange in [/EN#89031/bodyparts its mouth] .
+[/EN#89030/animals A large dog] and [/EN#89027/other a small one] walk with [/EN#89034/other their toys] .
+[/EN#89035/animals Two dogs] playing outside near [/EN#89036/scene the water] .
+[/EN#89035/animals Two dogs] play with [/EN#89037/scene each other outdoors] .
+[/EN#89035/animals Two dogs] walking with [/EN#89034/other their toys] .

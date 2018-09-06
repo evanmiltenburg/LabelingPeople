@@ -1,0 +1,5 @@
+[/EN#85435/people An elderly man] is sitting near [/EN#85443/other a window] , with [/EN#85436/other several bottles of beer] in front of [/EN#0/notvisual him] .
+[/EN#85435/people An elderly man] sits on [/EN#85437/other a chair] gazing ahead with [/EN#85438/other two beers] in front of [/EN#0/notvisual him] at [/EN#85446/scene night] .
+[/EN#85435/people An old man] sits and rests [/EN#85439/bodyparts his chin] on [/EN#85440/bodyparts his hand] on [/EN#85444/scene a porch] in [/EN#85446/scene the evening] .
+[/EN#85435/people Elderly gentlemen] enjoying [/EN#85441/other a beer] and looking out on [/EN#85444/scene a balcony] .
+[/EN#85435/people An old man] looking pensive as [/EN#0/notvisual he] stares off [/EN#85444/scene his balcony] .

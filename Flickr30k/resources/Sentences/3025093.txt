@@ -1,0 +1,5 @@
+[/EN#88230/people A person] wearing [/EN#88231/clothing a neon yellow reflective safety vest] on [/EN#88232/other a motorcycle] with [/EN#88233/other neon yellow reflectors] all over [/EN#0/notvisual it] .
+[/EN#88230/people A picture of a man] in [/EN#88231/clothing a green work uniform] on [/EN#88232/other his motorcycle] taken from [/EN#88238/vehicles the window of a car] next to [/EN#0/notvisual him] .
+[/EN#88230/people Guy] on [/EN#88232/vehicles a green bike] , with [/EN#88235/clothing a white helmet] and [/EN#88231/clothing green jacket] on , driving down [/EN#88236/scene the street] .
+[/EN#88230/people A man] in [/EN#88231/clothing a bright green jacket] riding [/EN#88232/vehicles a bright yellow motorbike] .
+[/EN#88230/people A man] in [/EN#88231/clothing a neon-green vest] riding [/EN#88232/other a neon-green motorcycle] .

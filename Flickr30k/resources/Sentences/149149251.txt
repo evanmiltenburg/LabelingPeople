@@ -1,0 +1,5 @@
+[/EN#14752/people Two men] ; [/EN#14758/other one] in [/EN#14753/clothing a blue shirt] and [/EN#14760/clothing ball cap] , and [/EN#14759/other the other] in [/EN#14757/clothing a white shirt] playing [/EN#14755/other frisbee] on [/EN#14754/scene a field] near [/EN#14756/scene an airport] .
+[/EN#14758/people A guy] in [/EN#14753/clothing a blue vest] lunging at [/EN#14759/people a guy] in [/EN#14757/clothing a white shirt] on [/EN#14754/scene a sporting field] .
+[/EN#14752/people Two men] play [/EN#14755/other a frisbee game] near [/EN#14756/scene an airport] .
+[/EN#14752/people Two male opponents] play [/EN#14755/other ultimate frisbee] .
+[/EN#14752/people Two men] fighting while playing [/EN#14755/other frisbee] .

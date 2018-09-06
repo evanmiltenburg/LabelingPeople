@@ -1,0 +1,5 @@
+[/EN#48040/people A woman] in [/EN#48041/clothing a maroon tennis outfit] is on [/EN#48042/scene the tennis court] and is bouncing [/EN#48043/other the tennis ball] on [/EN#48042/scene the court floor] with [/EN#48044/other her racket] .
+[/EN#48040/people A blond girl] in [/EN#48041/clothing a maroon tennis outfit] is using [/EN#48044/other a tennis racket] to bounce [/EN#48043/other a tennis ball] .
+[/EN#48040/people A girl] in [/EN#48041/clothing a red dress] and [/EN#48045/clothing white sneakers] bouncing [/EN#48043/other a tennis ball] with [/EN#48044/other a tennis racket] .
+[/EN#48040/people A female Texas A&M tennis player] dribbling [/EN#48043/other the tennis ball] .
+[/EN#48040/people A woman] in [/EN#48041/clothing a red outfit] playing [/EN#48046/other tennis] .

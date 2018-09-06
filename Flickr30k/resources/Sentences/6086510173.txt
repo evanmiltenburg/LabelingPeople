@@ -1,0 +1,5 @@
+[/EN#247799/people A laboratory technician] examines [/EN#247800/other a blood sample] using [/EN#247801/other a high powered microscope] .
+[/EN#247799/people A woman] looks into [/EN#247801/other a microscope] with [/EN#247802/other a computer] on [/EN#247803/other the desk] next to [/EN#0/notvisual her] .
+[/EN#247799/people A lab technician] looking at [/EN#247805/scene a slide] under [/EN#247801/other a high-powered microscope] .
+[/EN#247799/people A woman] is in [/EN#247804/animals/scene a lab] observing [/EN#247800/other something] under [/EN#247801/other a microscope] .
+[/EN#247799/people a doctor] at [/EN#247806/other work] looking through [/EN#247801/other a telescope]

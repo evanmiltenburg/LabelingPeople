@@ -1,0 +1,5 @@
+[/EN#203546/people Two men] in [/EN#203551/clothing jeans] are walking down [/EN#203550/scene a sidewalk] past [/EN#203547/scene a brick gate] [/EN#0/notvisual that] looks like [/EN#203547/scene a castle] .
+[/EN#203546/people Two men] are walking past [/EN#203547/scene a building] [/EN#0/notvisual that] looks like [/EN#203547/scene a castle] .
+[/EN#203546/people Two men] walk in front of [/EN#203547/other stone work] , while on [/EN#203550/scene the sidewalk] .
+[/EN#203546/people Two men] in [/EN#203551/clothing jeans] are walking near [/EN#203547/other a large stone wall] .
+[/EN#203546/people Two men] are walking past [/EN#203547/scene a castle] .

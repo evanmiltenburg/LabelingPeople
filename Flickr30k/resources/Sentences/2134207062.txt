@@ -1,0 +1,5 @@
+[/EN#30521/people An older man] with [/EN#30527/bodyparts a white beard] stands in front of [/EN#30523/scene a store] while wearing [/EN#30528/clothing a brown shirt] with [/EN#30525/other a name tag] while holding [/EN#30522/other a soda] .
+[/EN#30521/people A man] at [/EN#30524/scene a car lot] is holding [/EN#30522/other a pop] and waiting for [/EN#30526/people customers] .
+[/EN#30521/people An older man] is leaving [/EN#30523/scene a store] with [/EN#30522/other a refreshing drink] .
+[/EN#30521/people An older salesman] standing with [/EN#30522/other a bottle of soda] .
+[/EN#30521/people A man] is standing in front of [/EN#30523/scene a store] .

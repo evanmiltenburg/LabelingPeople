@@ -1,0 +1,5 @@
+[/EN#116205/animals The furry beige dog] is playing in [/EN#116206/scene the murky river water] .
+[/EN#116205/animals A yellow dog] shaking off from [/EN#0/notvisual a jump] into [/EN#116206/scene a stream] .
+[/EN#116205/animals A white dog] is jumping in [/EN#116206/scene natural water] .
+[/EN#116205/animals A dog] jumps out of [/EN#116206/scene a creek] .
+[/EN#116205/animals A white dog] in [/EN#116206/scene a creek] .

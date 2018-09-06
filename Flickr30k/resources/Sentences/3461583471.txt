@@ -1,0 +1,5 @@
+[/EN#119924/people A snowboarder] performs [/EN#0/notvisual a jump] on [/EN#119930/scene the clean , white snow] .
+[/EN#119924/people A person] is jumping [/EN#119925/scene a ramp] on [/EN#119926/other a snowboard] .
+[/EN#119927/other A buy] is grinding [/EN#119925/other a rail] on [/EN#119926/other a snowboard] .
+[/EN#119924/people A snowboarder] going over [/EN#119925/scene a ramp] .
+[/EN#119924/people A snowboarder] goes down [/EN#119925/scene a ramp] .

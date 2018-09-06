@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#48069/people a man] walking with [/EN#48070/clothing a bag] in front of [/EN#48071/other a black square paneled wall] .
+[/EN#48069/people A man] walking in front of [/EN#48071/other a black cement wall] with [/EN#48070/clothing a bag] on [/EN#48073/bodyparts his shoulder] .
+[/EN#48069/people A man] wearing [/EN#48072/clothing a black shirt] and carrying [/EN#48070/clothing a messenger bag] is walking .
+[/EN#48069/people A man] with [/EN#48070/clothing a messenger bag] in front of [/EN#48071/other a gray tile wall] .
+[/EN#48069/people A man] with [/EN#48070/clothing a brown bag] walks in front of [/EN#48071/other a gray wall] .

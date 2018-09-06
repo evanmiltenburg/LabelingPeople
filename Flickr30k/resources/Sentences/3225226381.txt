@@ -1,0 +1,5 @@
+[/EN#102506/animals a black dog] with [/EN#102512/clothing a pink collar] is following behind [/EN#102508/animals a brown dog] with across [/EN#102509/scene a grassy field] .
+[/EN#102506/animals A small white and black dog] chasing [/EN#102508/animals a slightly larger brown dog] in [/EN#102509/scene a grassy area] .
+[/EN#102506/animals A little black dog] chasing [/EN#102507/other a little brown one] .
+[/EN#102510/animals Two dogs] running , [/EN#102507/clothing one brown] and [/EN#102511/clothing one gray]
+[/EN#102507/clothing One brown] and [/EN#102506/animals one black dog] in [/EN#102509/scene grass] .

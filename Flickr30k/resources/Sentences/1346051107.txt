@@ -1,0 +1,5 @@
+[/EN#9319/people Man] playing [/EN#9321/instruments musical instrument] standing beside [/EN#9320/other a yellow and red fire hydrant]
+[/EN#9319/people The man] is standing next to [/EN#9320/other a fire hydrant] and playing [/EN#9321/instruments a saxophone] .
+[/EN#9319/people A man] is playing [/EN#9321/instruments a saxophone] next to [/EN#9320/other a fire hydrant] .
+[/EN#9319/people A man] plays [/EN#9321/instruments saxophone] next to [/EN#9320/other a yellow fire hydrant] .
+[/EN#9319/people A man] stands by [/EN#9322/other a wall] playing [/EN#9321/instruments a saxophone] .

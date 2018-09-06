@@ -1,0 +1,5 @@
+[/EN#191084/animals Two brown dogs] are laying on [/EN#191088/scene the street] next to [/EN#191085/other a metal pole] .
+[/EN#191084/animals Two dogs] are tied to [/EN#191086/other a tree] in [/EN#191087/scene a city] .
+[/EN#191084/animals Two small dogs] sit near [/EN#191086/other a tree] .
+[/EN#191084/animals two dogs] are chained to [/EN#191085/other a pole] .
+[/EN#191084/animals Two dogs] tied to [/EN#191086/other a tree] .

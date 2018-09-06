@@ -1,0 +1,5 @@
+[/EN#96038/people An ice hockey goalkeeper] wearing [/EN#96040/clothing yellow] is defending [/EN#96042/other the goal] .
+[/EN#96038/people A hockey player] in [/EN#96040/clothing a yellow jersey] is guarding [/EN#96042/other the goal] .
+[/EN#96038/people A goalie] stands in front of [/EN#96042/other the goal] at [/EN#96044/other a hockey game] .
+[/EN#96038/people The goaltender] is crouching in front of [/EN#96042/other the goal] .
+[/EN#96038/people A hockey player] guards [/EN#96042/other the goal] .

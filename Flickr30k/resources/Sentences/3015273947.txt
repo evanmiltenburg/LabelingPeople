@@ -1,0 +1,5 @@
+[/EN#87414/people A man] in [/EN#87415/clothing a black t-shirt] is mixing [/EN#87418/other something] together with [/EN#87417/bodyparts his hands] in [/EN#87416/other a white container] .
+[/EN#87414/people The man] in [/EN#87415/clothing black] is kneading [/EN#87418/other something] in [/EN#87416/other a plastic container] .
+[/EN#0/notvisual It] seems like [/EN#87414/people this man] is preparing to bake [/EN#87418/other something] .
+[/EN#87414/people A man] in [/EN#87415/clothing a black shirt] kneads dough in [/EN#87416/other a white tub] .
+[/EN#87414/people A man] working with [/EN#87417/bodyparts his hands] in [/EN#87419/scene a kitchen] .

@@ -1,0 +1,5 @@
+[/EN#147478/people A person] with [/EN#147479/other an orange shovel] is shoveling [/EN#147482/scene snow] .
+[/EN#147478/people A child] with [/EN#147479/other s orange snow shovel] , [/EN#147481/scene shovels snow] .
+[/EN#147478/people A little boy] is shoveling [/EN#147482/scene snow] .
+[/EN#147478/people A child boy] wearing [/EN#147480/clothing a nice coat]
+[/EN#147478/people A young boy] shoveling [/EN#147481/scene snow] .

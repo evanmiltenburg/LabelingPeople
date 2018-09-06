@@ -1,0 +1,5 @@
+[/EN#103602/animals A bald eagle] sits on [/EN#103604/scene the bank of a creek] .
+[/EN#103602/animals The bird] walks in [/EN#103603/scene the water] near [/EN#103605/other rocks] .
+[/EN#103602/animals A bald eagle] stands in [/EN#103603/scene shallow water] .
+[/EN#103602/animals A bald eagle] near [/EN#103603/scene a pond of water] .
+[/EN#103602/animals An eagle] standing in [/EN#103603/scene water] .

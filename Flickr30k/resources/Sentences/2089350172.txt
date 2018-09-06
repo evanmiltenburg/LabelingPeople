@@ -1,0 +1,5 @@
+[/EN#27979/animals three black dogs] are swimming through [/EN#27981/scene some murky brown water] , [/EN#27982/other one] with [/EN#27980/other a yellow object] in [/EN#27983/bodyparts its mouth] .
+[/EN#27979/animals Three dark dogs] swimming and [/EN#0/notvisual one of them] has [/EN#27980/other a ball] .
+[/EN#27979/animals Three dogs] are up to [/EN#27984/bodyparts their necks] in [/EN#27981/scene water] .
+[/EN#27979/animals three black dogs] swimming in [/EN#27981/scene dirty water]
+[/EN#27979/animals Three dogs] swim in [/EN#27981/scene the water] .

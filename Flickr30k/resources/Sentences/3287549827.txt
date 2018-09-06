@@ -1,0 +1,5 @@
+[/EN#107100/people The snowboarder] is grinding on [/EN#107101/other a silver rail] in [/EN#107105/scene the nighttime snow] .
+[/EN#107100/people Person] in [/EN#107106/clothing gray jacket] and [/EN#107107/clothing blue pants] balancing [/EN#107102/other board] on [/EN#107101/other handrail]
+[/EN#107100/people A snowboarder] is attempting [/EN#0/notvisual a trick] down [/EN#107101/other an outside railing] .
+[/EN#107103/other The snow borader] is riding [/EN#107101/other a rail] .
+[/EN#107100/people A guy] on [/EN#107102/other a snowboard] grinding .

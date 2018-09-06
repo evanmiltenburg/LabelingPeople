@@ -1,0 +1,5 @@
+[/EN#72472/people A person] in [/EN#72473/clothing a shirt] and rolled up [/EN#72474/clothing jeans] is running on [/EN#72475/scene a road] through [/EN#72478/scene a forest] .
+[/EN#72472/people A person] with [/EN#72476/clothing striped red socks] is running on [/EN#72475/scene a hill side forest road] .
+[/EN#72472/people Woman] running in [/EN#72474/clothing jeans] in [/EN#72478/scene a forest] on [/EN#72475/scene a trail] .
+[/EN#72472/people A woman] runs on [/EN#72475/scene a trail] in [/EN#72477/other nature] .
+[/EN#72472/people a person] runs down [/EN#72475/scene a dirt road] .

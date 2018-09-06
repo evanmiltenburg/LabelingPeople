@@ -1,0 +1,5 @@
+[/EN#70338/animals a brown dog] is rolling around on [/EN#70341/scene the grass] .
+[/EN#70338/animals a brown dog] chewing at [/EN#70339/bodyparts his own tail]
+[/EN#70338/animals A dog] biting at [/EN#70340/scene its own rear] .
+[/EN#70338/animals Dog] rolling on [/EN#0/notvisual the ground] .
+[/EN#70338/animals A dog] rolls in [/EN#70341/scene the grass] .

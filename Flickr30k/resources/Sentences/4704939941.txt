@@ -1,0 +1,5 @@
+[/EN#193110/people An older gentlemen] wearing [/EN#193114/clothing a white hat] is sitting on [/EN#193111/other a stool] outside on [/EN#193113/scene the sidewalk] while [/EN#193112/animals his dog] patiently waits for [/EN#0/notvisual him] .
+[/EN#193110/people A man] wearing [/EN#193114/clothing a straw hat] sitting in [/EN#193111/other a chair] holding [/EN#193120/clothing the leash] on [/EN#193112/animals a dog] [/EN#0/notvisual who] is laying on [/EN#193113/scene the sidewalk] next to [/EN#0/notvisual him] .
+[/EN#193110/people Man] in [/EN#193119/other his seventies] wearing [/EN#193115/clothing a colorful outfit] on [/EN#193113/scene the side of the street] with [/EN#193112/animals his bulldog] .
+[/EN#193110/people A guy] sitting in [/EN#193111/other a chair] on [/EN#193116/scene the street] next to [/EN#193112/animals his dog] .
+[/EN#193110/people Old man] and [/EN#193112/animals tired dog] sit outside [/EN#193117/other cafe] .

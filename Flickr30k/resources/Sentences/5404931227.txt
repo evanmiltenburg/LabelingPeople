@@ -1,0 +1,5 @@
+[/EN#235683/people A pair of skiers] , [/EN#235685/people a man] and [/EN#235686/people a woman] , are climbing up [/EN#235684/scene a snowy and tree-lined hill] .
+[/EN#235683/people Two people] are smiling at [/EN#0/notvisual the camera] as [/EN#0/notvisual they] ski up [/EN#235684/scene a snowy mountain] .
+[/EN#235683/people Two people] smiling with [/EN#235688/other skis] with [/EN#235687/scene snow] and [/EN#235689/other trees] everywhere .
+[/EN#235683/people Two people] are skiing in [/EN#235684/scene the snowy mountains] .
+[/EN#235683/people Two people] skiing on [/EN#235684/scene a mountain] .

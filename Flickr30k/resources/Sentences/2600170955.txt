@@ -1,0 +1,5 @@
+[/EN#60680/people a boy] in [/EN#60686/clothing a green shirt] is pushing [/EN#60684/vehicles a shopping cart] in [/EN#0/notvisual which] [/EN#60680/people a boy] in [/EN#60687/clothing a yellow shirt] is riding .
+[/EN#60680/people One boy] pushes [/EN#60684/vehicles a shopping cart] with [/EN#60680/people another smaller boy] standing up in [/EN#0/notvisual it] .
+[/EN#60680/people An enthusiastic boy] pushes [/EN#60684/vehicles a shopping cart] containing [/EN#60680/people a smiling boy] .
+[/EN#60681/people Two small boys] play in [/EN#60684/vehicles a shopping cart] in [/EN#60683/scene a parking lot] .
+[/EN#60681/people Two boys] play with [/EN#60684/vehicles a shopping cart] in [/EN#60683/scene a parking lot] .

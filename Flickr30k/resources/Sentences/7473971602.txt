@@ -1,0 +1,5 @@
+[/EN#270272/people A woman] in [/EN#270274/clothing a short , sleeveless bright orange dress] and [/EN#270277/clothing black leggings] sits on [/EN#270275/other a cement bench] looking down , with [/EN#270276/vehicles numerous bicycles] parked behind [/EN#0/notvisual her] .
+[/EN#270272/people A pretty young adult woman] , wearing [/EN#270277/clothing gray leggings] and [/EN#270274/clothing a bright orange tank top] , is sitting on [/EN#270275/other a cement bench] with [/EN#270276/vehicles bicycles] in [/EN#0/notvisual the background] .
+[/EN#270272/people A woman] is sitting on [/EN#270275/other a concrete bench] in front of [/EN#270273/other a loaded bicycle rack] .
+[/EN#270272/people A woman] sitting on [/EN#270275/other a stone bench] next to [/EN#270276/vehicles many bikes] .
+[/EN#270272/people a woman] sitting near [/EN#270273/other a bike rack]

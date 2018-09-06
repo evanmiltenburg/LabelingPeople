@@ -1,0 +1,5 @@
+[/EN#135858/people A man] lays on [/EN#135860/scene the grass] in [/EN#135860/scene a field] and reads [/EN#135859/other a book] .
+[/EN#135858/people The man] is laying in [/EN#135860/scene the field] reading [/EN#135859/other a book] .
+[/EN#135858/people A man] is lying in [/EN#135860/scene a grassy field] reading .
+[/EN#135858/people A man] lies in [/EN#135860/scene the grass] reading [/EN#135859/other a book] .
+[/EN#135858/people A man] laying in [/EN#135860/scene the grass] reading .

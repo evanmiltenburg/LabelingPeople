@@ -1,0 +1,5 @@
+Here is [/EN#84353/people a picture of a metro link worker] making sure [/EN#84354/people all passengers] are safely riding on [/EN#84355/vehicles/scene the bus] .
+[/EN#84353/people A man] in [/EN#84351/clothing an orange vest] is facing away from [/EN#0/notvisual the camera] rising on [/EN#84355/vehicles/scene a bus] .
+[/EN#84353/people A man] is wearing [/EN#84351/clothing a orange vest] with [/EN#84352/other black writing] on [/EN#0/notvisual it] .
+[/EN#84353/people A man] wearing [/EN#84351/clothing an inspector vest] standing on [/EN#84355/vehicles/scene a bus] .
+[/EN#84353/people Inspector] in [/EN#84351/clothing a vest] riding [/EN#84355/vehicles/scene the bus] .

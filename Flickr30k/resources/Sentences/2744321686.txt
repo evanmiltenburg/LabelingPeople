@@ -1,0 +1,5 @@
+[/EN#69850/people Man] in [/EN#69851/clothing a blue shirt] with [/EN#69852/bodyparts hand] on [/EN#69853/bodyparts forehead] behind [/EN#69854/other two cushions] .
+[/EN#69850/people A man] in [/EN#69851/clothing a blue shirt] reads [/EN#69855/other a paper] behind [/EN#69856/scene a broken seat] .
+[/EN#69854/other A couch] sits broken while [/EN#69850/people a man] sits [/EN#69860/other a table] behind [/EN#0/notvisual them] .
+[/EN#69850/people Man] looking over [/EN#69857/other paperwork] with [/EN#69854/other a broken couch] in [/EN#69858/scene front] .
+[/EN#69850/people A man] reads quietly alone in [/EN#69859/scene room] .

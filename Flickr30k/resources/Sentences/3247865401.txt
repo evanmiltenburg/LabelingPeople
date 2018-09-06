@@ -1,0 +1,5 @@
+[/EN#104186/people A Male] wearing [/EN#104186/clothing dust covered clothing] is lying on [/EN#0/notvisual the ground] on [/EN#104188/scene a dusty road] .
+[/EN#104186/people Man] in [/EN#104186/clothing dirty clothes] on [/EN#0/notvisual the ground] between [/EN#104191/scene two buildings] .
+[/EN#104186/people A man] is lying down in [/EN#104186/scene the middle of a dirty alley] .
+[/EN#104186/people A man] is asleep in [/EN#104186/scene an alley] with [/EN#104192/bodyparts his head] covered .
+[/EN#104186/people A man] lying down in [/EN#104188/scene the dirt] wearing [/EN#104186/clothing green scarf] .

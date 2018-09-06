@@ -1,0 +1,5 @@
+[/EN#162679/people A girl] in [/EN#162687/clothing a yellow top] is paddling [/EN#162680/vehicles/scene a wooden boat] past [/EN#162680/scene a wooden jetty] .
+[/EN#162679/people The girl] is paddling [/EN#162680/other a rusty canoe] in [/EN#162684/scene the water] .
+[/EN#162679/people Girl] pushing [/EN#162680/vehicles/scene boat] with [/EN#162686/other a pole] in [/EN#162684/scene the water]
+[/EN#162679/people A girl] rows [/EN#162680/vehicles/scene a boat] from [/EN#162681/scene a dock] .
+[/EN#162679/people A girl] paddles [/EN#162680/other a canoe] .

@@ -1,0 +1,5 @@
+[/EN#183665/people A person] on [/EN#183666/vehicles a mini motorbike] wearing [/EN#183665/other red garment] and [/EN#183671/other a cloth] to cover [/EN#183669/bodyparts her face] riding along [/EN#183673/scene a road] .
+[/EN#183665/people A person] in [/EN#183668/clothing a red full body costume] is riding [/EN#183666/other a motorcycle] .
+[/EN#183665/people A woman] tries to cover [/EN#183669/bodyparts her face] while riding [/EN#183666/vehicles a moped] .
+[/EN#183665/people A man] in [/EN#183668/clothing a pink outfit] riding [/EN#183666/other a black motorcycle] .
+[/EN#183665/people A person] wearing [/EN#183668/clothing a pink robe] is riding [/EN#183666/vehicles a bike] .

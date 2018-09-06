@@ -1,0 +1,5 @@
+[/EN#4753/people A man] in [/EN#4758/clothing a blue workers outfit] with [/EN#4756/clothing a yellow construction hat] examines [/EN#4754/scene the side of a brick building] from [/EN#4755/other the top of a ladder] .
+[/EN#4753/people A man] with [/EN#4756/clothing a yellow hard hat] is standing on [/EN#4755/other a ladder] [/EN#0/notvisual that] is leaned up against [/EN#4754/scene a building] .
+[/EN#4753/people A man] is standing at [/EN#4755/other the top of a ladder] against [/EN#4754/scene a building] .
+[/EN#4753/people A man] on [/EN#4755/other a ladder] wearing [/EN#4759/clothing blue jacket] and [/EN#4757/clothing a blue] jeans
+[/EN#4753/people A man] is high about doing [/EN#4760/other work] on [/EN#4754/scene a building] .

@@ -1,0 +1,5 @@
+[/EN#172765/people A young man] in [/EN#172769/clothing a yellow jacket] is leaning against [/EN#172767/other a wall] and talking to [/EN#172768/people a young lady] wearing [/EN#172773/clothing jeans] and [/EN#172771/clothing a backpack] .
+[/EN#172770/people A male and female] , [/EN#0/notvisual both] wearing [/EN#172775/clothing yellow shirts] , are loitering by [/EN#172774/scene the side of a brick building] .
+[/EN#172765/people A man] in [/EN#172769/clothing a yellow jacket] leaning up against [/EN#172767/other the wall] on [/EN#172766/scene the street] .
+[/EN#172765/people A man] and [/EN#172768/people woman] talking on [/EN#172766/scene the street] .
+[/EN#172765/people A man] and [/EN#172768/people a woman] is by [/EN#172772/other the signpost] .

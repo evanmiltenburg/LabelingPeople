@@ -1,0 +1,5 @@
+[/EN#150768/people A man] holds [/EN#150769/other an orange juice carton] on [/EN#150774/other a grocery store shelf] while [/EN#150770/people a woman] looks further down on [/EN#150772/other the shelf] .
+[/EN#150768/people A man] and [/EN#150770/people a woman] are shopping in [/EN#150771/scene the grocery store] and [/EN#0/notvisual he] has [/EN#150775/bodyparts his hand] on [/EN#150769/other the juice] .
+[/EN#150768/people a man] speaking to [/EN#150770/people a woman] in [/EN#150771/scene a grocery store] as [/EN#0/notvisual he] selects [/EN#150769/other a carton of juice] .
+[/EN#150768/people A man] in [/EN#150776/clothing glasses] talks to [/EN#150770/people a woman] while shopping for [/EN#150769/other orange juice] .
+[/EN#150768/people A guy] and [/EN#150770/people a girl] talking by [/EN#150773/other the grocery aisle] .

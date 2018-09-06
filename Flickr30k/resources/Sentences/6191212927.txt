@@ -1,0 +1,5 @@
+[/EN#249656/people A man] in [/EN#249659/clothing an orange tank top] is running down [/EN#249660/scene the road] with [/EN#249657/people a line of people] standing on [/EN#0/notvisual either side of him] .
+[/EN#249656/people A man] wearing [/EN#249659/clothing an orange shirt] and [/EN#249663/clothing sunglasses] jogging in [/EN#249658/other a marathon] with [/EN#249657/people spectators] spectating [/EN#0/notvisual him] .
+[/EN#249656/people A man] running in [/EN#249658/other a race] while [/EN#249657/people spectators] watch on [/EN#249661/scene a very sunny day] .
+[/EN#249656/people A man] running down [/EN#249657/people a crowd] lined [/EN#249660/scene street] in [/EN#249658/other a marathon] .
+[/EN#249656/people A man] running in [/EN#249658/other a race] passes by [/EN#249657/people spectators] .

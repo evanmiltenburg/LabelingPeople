@@ -1,0 +1,5 @@
+[/EN#77297/clothing Black] retriever stands in [/EN#77295/scene the grass] , holding [/EN#77294/animals a bird] in [/EN#77296/bodyparts its mouth] .
+[/EN#77293/animals A black dog] standing in [/EN#77295/scene a field] is holding [/EN#77294/animals a bird] in [/EN#77296/bodyparts his mouth] .
+[/EN#77293/animals The black dog] in [/EN#77295/scene the field] has [/EN#77294/other something] in [/EN#77296/bodyparts its mouth] .
+[/EN#77293/animals A black dog] in [/EN#77299/scene tall grass] with [/EN#77294/animals a bird] in [/EN#77296/bodyparts its mouth] .
+[/EN#77293/animals a black dog] has caught [/EN#77294/animals a bird] in [/EN#77296/bodyparts its mouth] .

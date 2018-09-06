@@ -1,0 +1,5 @@
+[/EN#200130/scene A busy intersection] is outside [/EN#200131/scene a corner pub] known as " [/EN#200133/scene The Temple Bar] . "
+[/EN#200132/people Pedestrians] walking down [/EN#200130/scene the street] passing [/EN#200133/scene The Temple Bar] .
+[/EN#200132/people People] are walking together on [/EN#200134/scene a street] .
+[/EN#200132/people People] walk outside " [/EN#200133/scene The Tempe Bar] " .
+[/EN#200131/scene A popular tobacco bar] in [/EN#200134/scene the city] .

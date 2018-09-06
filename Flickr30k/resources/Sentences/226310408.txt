@@ -1,0 +1,5 @@
+[/EN#37583/people A man] with [/EN#37588/clothing his shirt] off standing in [/EN#37584/scene a work zone] next to [/EN#37585/other a pile of bricks] .
+[/EN#37583/people A man] standing next to [/EN#37586/vehicles a wheelbarrow] full of [/EN#37585/other bricks] .
+[/EN#37583/people Dark-haired man] with [/EN#37588/clothing no shirt] standing outside .
+[/EN#37583/people A shirtless man] works at [/EN#37584/scene a construction site] .
+[/EN#37583/people A man] without [/EN#37588/clothing shirt] is working with [/EN#37587/other woods] .

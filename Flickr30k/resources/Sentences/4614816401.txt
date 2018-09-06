@@ -1,0 +1,5 @@
+[/EN#182995/people A young man] wearing [/EN#183004/clothing a white shirt] is on [/EN#183005/scene a stage] with [/EN#182999/people a drummer] , and [/EN#182995/people the boy] is playing [/EN#182996/instruments an electric guitar] .
+[/EN#182995/people A man] plays [/EN#182996/instruments guitar] in front of [/EN#183000/other a large sign] , with [/EN#183001/people another man] playing [/EN#183002/instruments drums] behind [/EN#0/notvisual him] .
+[/EN#182994/people Band] playing at [/EN#0/notvisual what] seems to be [/EN#182998/other a benefit concert] .
+[/EN#182995/people A guy] plays [/EN#182996/instruments guitar] and sings in [/EN#182994/people his band] .
+[/EN#182994/people A band] is performing at [/EN#182997/other a benefit] .

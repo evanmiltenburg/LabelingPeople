@@ -1,0 +1,5 @@
+[/EN#128181/animals A dog] playing [/EN#128182/other Frisbee] in [/EN#128184/scene the front yard] , next to [/EN#128186/vehicles a car] .
+[/EN#128181/animals a white dog] jumping in [/EN#0/notvisual the air] to catch [/EN#128182/other a red Frisbee] .
+[/EN#128181/animals The dog] leaps to catch [/EN#128183/other the Frisbee] in [/EN#128187/bodyparts its mouth] .
+[/EN#128181/animals A white dog] catches [/EN#128182/other a red Frisbee] in [/EN#128184/scene the grass] .
+[/EN#128181/animals A dog] catches [/EN#128183/other a Frisbee] in [/EN#128184/scene the front yard] .

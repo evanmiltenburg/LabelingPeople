@@ -1,0 +1,5 @@
+[/EN#54540/people A woman] with [/EN#54541/clothing a blue apron] on - [/EN#54542/other a glass of wine] at [/EN#0/notvisual her side] - working in [/EN#54544/scene the kitchen] .
+[/EN#54540/people A brunette woman] cooks in [/EN#54544/scene the kitchen] while enjoying [/EN#54542/other a glass of wine] .
+[/EN#0/notvisual There] is [/EN#54540/people a lady] in [/EN#54544/scene the kitchen] making [/EN#54543/other some food] with [/EN#54543/other flour] .
+[/EN#54540/people A woman] in [/EN#54541/clothing a blue apron] cooking in [/EN#54544/scene a kitchen] .
+[/EN#54540/people A lady] cooking [/EN#54543/other food] in [/EN#54544/scene the kitchen] .

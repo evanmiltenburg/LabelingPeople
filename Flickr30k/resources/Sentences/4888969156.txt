@@ -1,0 +1,5 @@
+[/EN#215135/people A female] dressed in [/EN#215137/clothing red] plays [/EN#215138/other an odd] looking [/EN#215136/instruments stringed instrument] .
+[/EN#215135/people A young lady] in [/EN#215137/clothing a red dress] plays [/EN#215136/instruments an interesting instrument] .
+[/EN#215135/people A woman] wearing [/EN#215137/clothing a red dress] is playing [/EN#215136/instruments a string instrument] .
+[/EN#215135/people A young woman] in [/EN#215137/clothing a pink dress] plays [/EN#215136/instruments an electric cello] .
+[/EN#215135/people A woman] in [/EN#215137/clothing a red dress] plays [/EN#215136/instruments an unorthodox cello] .

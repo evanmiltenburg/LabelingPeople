@@ -1,0 +1,5 @@
+[/EN#15961/people A man] in [/EN#15963/clothing a black shirt] and [/EN#15966/clothing jeans] appears to be working on [/EN#15967/other some piping system] .
+[/EN#15961/people A man] looks at [/EN#0/notvisual the camera] while [/EN#0/notvisual he] sits down in [/EN#15965/scene a cluttered house] .
+[/EN#15961/people A man] in [/EN#15963/clothing a black shirt] sitting on [/EN#15964/scene the floor] fixing [/EN#15962/vehicles a bicycle] .
+[/EN#15961/people A man] with [/EN#15968/bodyparts a smile] sitting on [/EN#15964/scene the floor] fixing [/EN#15962/vehicles his bicycle] .
+[/EN#15961/people A man] squatting next to [/EN#15962/vehicles a bicycle] .

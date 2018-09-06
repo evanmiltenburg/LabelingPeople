@@ -1,0 +1,5 @@
+[/EN#157680/people A pizza worker] helps [/EN#157682/people a customer] while [/EN#157678/people other workers] deal with [/EN#157679/other food] .
+[/EN#157675/scene A pizza restaurant] making and serving [/EN#157679/people pizzas of different kinds] .
+[/EN#157676/people Workers] in [/EN#157675/scene a pizzeria] are preparing and serving [/EN#157683/other pizza] .
+[/EN#157676/people Two employees] prepare [/EN#157679/other food] in [/EN#157681/other a busy resaurant] .
+[/EN#157677/people Two people] in [/EN#157684/clothing white tops] and [/EN#157685/clothing black aprons] .

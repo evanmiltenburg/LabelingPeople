@@ -1,0 +1,5 @@
+[/EN#166028/people Workers] stack [/EN#166030/other blue crates] at [/EN#166026/scene a dock] and [/EN#166032/animals seagulls] try to see inside [/EN#0/notvisual them] .
+[/EN#166028/people Two men] loading [/EN#166030/other very bright blue colored containers] on to [/EN#166029/other a ship] .
+[/EN#166028/people Two men] are working on [/EN#166029/vehicles/scene a fishing boat] unloading [/EN#166030/other many blue crates] .
+[/EN#166027/other Blue milk crates] sitting on [/EN#166026/scene a dock] by [/EN#166029/vehicles/scene a boat] .
+[/EN#166026/scene A port] filled with [/EN#166027/other blue crates] .

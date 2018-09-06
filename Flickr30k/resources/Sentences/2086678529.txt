@@ -1,0 +1,5 @@
+[/EN#27789/people A girl] in [/EN#27790/clothing a purple dress] smiling as [/EN#0/notvisual she] climbs [/EN#27791/other an indoor rock wall] .
+[/EN#27789/people A little girl] wearing [/EN#27790/clothing a purple dress] looks down at [/EN#0/notvisual the camera] .
+[/EN#27789/people a young girl] climbs [/EN#27791/other a rock wall] , in [/EN#27790/clothing a purple dress] .
+[/EN#27789/people A young girl] wears [/EN#27790/clothing a purple dress] .
+[/EN#27789/people A girl] is in [/EN#27790/clothing a dress] .

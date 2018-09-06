@@ -1,0 +1,5 @@
+[/EN#163261/people A little kid] with [/EN#163266/bodyparts blond-hair] , [/EN#163263/clothing a white jacket] and [/EN#163264/clothing blue pants] holding [/EN#163262/other a door] .
+[/EN#163261/people A small child] in [/EN#163263/clothing a white hooded sweatshirt] stands at [/EN#163262/other the door] .
+[/EN#163261/people A small blond boy] with [/EN#163263/clothing a white jacket] stands in [/EN#163261/scene a doorway] .
+[/EN#163261/people A toddler] in [/EN#163263/clothing a white hooded jacket] holds on to [/EN#163262/other the wall] .
+[/EN#163261/people A little boy] is looking somewhere with [/EN#163265/other interest] .

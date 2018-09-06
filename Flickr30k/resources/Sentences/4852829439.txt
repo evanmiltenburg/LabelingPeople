@@ -1,0 +1,5 @@
+[/EN#210997/people An old man] wearing [/EN#211000/clothing a hat] and [/EN#210999/clothing green sandals] stands in front of [/EN#210998/other a counter] inside [/EN#211006/scene a store] .
+[/EN#210997/people An oriental man] was wearing [/EN#211001/clothing a jacket] with [/EN#211003/clothing many pockets] , along with [/EN#210999/clothing his green sandals] .
+[/EN#210997/people An elderly Asian man] waits for [/EN#211005/people someone] to give [/EN#0/notvisual him] [/EN#211004/other service] at [/EN#210998/other a food counter] .
+[/EN#210997/people A elderly man] standing at [/EN#210998/other the counter of an establishment] .
+[/EN#210997/people A man] is waiting to place [/EN#211002/other his order] .

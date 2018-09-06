@@ -1,0 +1,5 @@
+[/EN#73553/people A boy] in [/EN#73556/clothing an orange] and [/EN#73557/clothing black soccer uniform] playing [/EN#73560/other soccer] on [/EN#73555/scene an artificial turf field] , with [/EN#73554/other the ball] out in front of [/EN#0/notvisual him] .
+[/EN#73553/people A boy] in [/EN#73556/clothing an orange] and [/EN#73557/clothing black uniform] is preparing to [/EN#73558/other kick] [/EN#73554/other a blue and white soccer ball]
+[/EN#73553/people A boy] in [/EN#73556/clothing an orange jersey] and [/EN#73557/clothing black shorts] chases [/EN#73554/other a soccer ball] on [/EN#73555/scene a field] .
+[/EN#73553/people a little boy] is approaching [/EN#73554/other the soccer ball] to [/EN#73558/other kick] [/EN#0/notvisual it] .
+[/EN#73553/people Little boy] on [/EN#73555/scene soccer field] about to kick [/EN#73554/other the ball] .

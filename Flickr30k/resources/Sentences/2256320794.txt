@@ -1,0 +1,5 @@
+[/EN#37291/animals A dog] [/EN#0/notvisual that] looks like [/EN#37297/people Lassie] , making [/EN#37293/bodyparts a funny face] .
+[/EN#37291/animals The collie] is standing outdoors on [/EN#37292/scene a sandy area] .
+[/EN#37291/animals Dog] has [/EN#37296/bodyparts mouth] open in [/EN#37295/scene field] .
+[/EN#37291/animals a puppy] runs in [/EN#37292/other the sand] .
+[/EN#37291/animals A dog] is waling on [/EN#37292/other sand] .

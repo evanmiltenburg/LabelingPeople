@@ -1,0 +1,5 @@
+[/EN#132462/animals a large group of dogs] walking in [/EN#132463/scene a body of water] .
+[/EN#132462/animals A group of dogs] standing in [/EN#132463/scene a river] .
+[/EN#0/notvisual there] are [/EN#132462/animals six dogs] in [/EN#132463/scene the water]
+[/EN#132462/animals Six dogs] swimming in [/EN#132463/scene a river] .
+[/EN#132462/animals Dogs] play in [/EN#132463/scene creek] .

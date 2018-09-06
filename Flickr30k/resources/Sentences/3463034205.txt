@@ -1,0 +1,5 @@
+[/EN#120010/people A boy] is doing [/EN#0/notvisual tricks] with [/EN#120011/vehicles his bike] on [/EN#120012/scene the ramp] .
+[/EN#120010/people A teenage boy] on [/EN#120011/vehicles a bicycle] does [/EN#0/notvisual tricks] .
+[/EN#120010/people A man] on [/EN#120011/vehicles a bike] jumping on [/EN#120012/scene a bike ramp] .
+[/EN#120010/people A boy] rides [/EN#120011/vehicles his bike] on [/EN#120012/other a half-pipe] .
+[/EN#120010/people A cyclist] gets airborne on [/EN#120012/scene a ramp] .

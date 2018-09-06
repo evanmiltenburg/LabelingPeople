@@ -1,0 +1,5 @@
+[/EN#3482/people A woman] in [/EN#3487/clothing a black top] with [/EN#3488/clothing a shopping bag] standing near [/EN#3478/scene the train tracks] while [/EN#3481/other others] read .
+[/EN#3475/people A line of people] , [/EN#3486/other some standing] and [/EN#3480/other some sitting] , are waiting on [/EN#3476/other a platform] for [/EN#3484/vehicles/scene a train] .
+On [/EN#3477/scene a sunny day] , [/EN#3475/people a small crowd] wait for [/EN#3483/people the railroad] on [/EN#3476/other the platform] .
+[/EN#3475/people People] , [/EN#0/notvisual both] standing and sitting , along [/EN#3478/scene a train track] .
+[/EN#3475/people Four people] waiting at [/EN#3485/scene a train station] on [/EN#3477/scene a sunny day] .

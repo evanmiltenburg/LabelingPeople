@@ -1,0 +1,5 @@
+[/EN#130787/people A person] on [/EN#130788/vehicles a bicycle] wears [/EN#130791/clothing a helmet] and jumps , soaring over [/EN#0/notvisual the ground] in front of [/EN#130792/scene a skyline] and [/EN#130793/scene lake] .
+[/EN#130787/people The cyclist] is making [/EN#0/notvisual a high jump] with [/EN#130788/vehicles his bike] .
+[/EN#130787/people A man] doing [/EN#130789/other an aerial stunt] on [/EN#130788/vehicles a bike] .
+[/EN#130787/people A man] on [/EN#130788/vehicles a bicycle] performing [/EN#0/notvisual a jump] .
+[/EN#130787/people A biker] makes [/EN#0/notvisual a high jump] .

@@ -1,0 +1,5 @@
+[/EN#41363/people A baby] in [/EN#41364/clothing a blue outfit] is looking at [/EN#41365/other a mop bucket] and holding [/EN#41367/other the mop] with [/EN#41369/bodyparts his right hand] .
+[/EN#41363/people A child] in [/EN#41364/clothing a blue sleep suit] plays with [/EN#41367/other a red mop] in [/EN#41365/other a red bucket] .
+[/EN#41363/people A small child] in [/EN#41364/clothing pajamas] is holding onto [/EN#41366/other a mop] in [/EN#41365/other a bucket] .
+[/EN#41363/people A baby] in [/EN#41364/clothing blue pajamas] plays with [/EN#41366/other a mop] and [/EN#41365/other bucket] .
+[/EN#41363/people A baby] is playing with [/EN#41368/other cleaning supplies] .

@@ -1,0 +1,5 @@
+[/EN#151336/people A woman] with [/EN#151339/bodyparts long hair] is meditating on [/EN#151337/scene a beach] .
+[/EN#0/notvisual There] 's [/EN#151336/people a young lady] in [/EN#151337/scene the beach] doing [/EN#151336/other yoga] .
+[/EN#151336/people A young lady] doing [/EN#151336/other yoga] on [/EN#151337/scene the beach] .
+[/EN#151336/people A woman] is doing [/EN#151336/other yoga] at [/EN#151337/scene the beach] .
+[/EN#151336/people Woman] doing [/EN#151336/other yoga] on [/EN#151337/scene a beach] .

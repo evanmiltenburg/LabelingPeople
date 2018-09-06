@@ -1,0 +1,5 @@
+[/EN#57108/people A black man] with [/EN#57113/other gray hair half] sitting [/EN#57114/other half laying] on [/EN#57109/scene a street floor] .
+[/EN#57108/people The dark-skinned man] is laying in [/EN#57111/scene a doorway] next to [/EN#57112/other a metal pipe] .
+[/EN#57108/people A man] lies on [/EN#0/notvisual the ground] outside [/EN#57110/scene a building] .
+[/EN#57108/people Man] slumped in front of [/EN#57110/scene building]
+[/EN#57108/people A man] sits outside [/EN#57110/scene a building] .

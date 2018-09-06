@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#133122/people a baseball player] in [/EN#133127/clothing a yellow shirt] running [/EN#133126/scene midfield] .
+[/EN#133122/people The baseball player] is catching [/EN#133124/other a ball] on [/EN#133126/scene the field] .
+[/EN#133123/people Teenagers] playing [/EN#133125/other baseball] .
+[/EN#133123/people Two guys] playing [/EN#133124/other baseball] .
+[/EN#133123/people Men] play [/EN#133125/other baseball] .

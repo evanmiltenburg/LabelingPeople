@@ -1,0 +1,5 @@
+[/EN#175946/people A little girl] in [/EN#175948/clothing a purple shirt] drinking [/EN#175947/other a can of diet coca-cola] .
+[/EN#175946/people A little girl] in [/EN#175948/clothing a purple shirt] is drinking [/EN#175947/other a Diet Coke] .
+[/EN#175946/people A young girl] is taking [/EN#175947/other a drink] from [/EN#175947/other a can of diet coke] .
+[/EN#175946/people A little girl] is enjoying [/EN#175947/other a diet Coca Cola] in [/EN#175949/scene a garden] .
+[/EN#175946/people A young girl] is sipping on [/EN#175947/other a can of diet Coca Cola] .

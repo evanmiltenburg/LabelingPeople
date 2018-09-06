@@ -1,0 +1,5 @@
+[/EN#106033/animals A squirrel] stands on [/EN#106039/bodyparts its hind legs] in [/EN#106035/scene the grass] at [/EN#106034/scene the edge of a road] .
+[/EN#106033/animals A chipmunk] stands on [/EN#106034/scene the edge of a field] and [/EN#106038/scene road]
+[/EN#106033/animals A squirrel] stands in [/EN#106035/scene the grass] looking around .
+[/EN#0/notvisual There] is [/EN#106033/animals a squirrel] sitting up in [/EN#106035/scene the grass] .
+[/EN#106033/animals The squirrel] sits straight up in [/EN#106035/scene the grass] .

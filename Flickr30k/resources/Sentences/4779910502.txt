@@ -1,0 +1,5 @@
+[/EN#201963/other A distressed couch] sits in front of [/EN#201966/other a graffiti-covered wall] , while [/EN#201964/people a woman] looks and smiles .
+[/EN#201964/people A woman] is looking at [/EN#201963/other a couch] [/EN#0/notvisual that] is sitting outside of [/EN#201965/scene a building] marked with [/EN#201968/other graffiti] .
+[/EN#201964/people A woman] looking back at [/EN#201963/other a couch] in [/EN#201967/scene a place] with [/EN#201968/other a whole bunch of graffiti] on [/EN#201966/other the walls] .
+[/EN#201964/people Woman] in [/EN#201970/clothing white shirt] looks at [/EN#201963/other couches] in front of [/EN#201965/scene a graffiti covered building] .
+[/EN#201964/people A woman] looking around [/EN#201967/scene her area] .

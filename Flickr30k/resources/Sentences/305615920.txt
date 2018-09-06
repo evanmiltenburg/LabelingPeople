@@ -1,0 +1,5 @@
+[/EN#90625/people A man] working with [/EN#90627/other something] on or in [/EN#90627/other his canoe] [/EN#0/notvisual that] is under [/EN#90629/other some trees] on [/EN#90626/scene a beach] [/EN#0/notvisual that] overlooks [/EN#90633/vehicles/scene other boats] in [/EN#90630/scene the water] by [/EN#0/notvisual him] .
+[/EN#90625/people A man] in [/EN#90636/clothing a black shirt] is standing on [/EN#90626/scene a beach] working on [/EN#90627/other a handmade canoe] .
+[/EN#90625/people a man] drags [/EN#90627/vehicles/scene a boat] from underneath [/EN#90629/other the trees] to [/EN#90631/scene the shore] .
+[/EN#90625/people Someone] is taking [/EN#90627/other a brown canoe] down to [/EN#90632/scene the lake] .
+[/EN#90625/people A man] working on [/EN#90627/vehicles/scene his boat] in [/EN#90635/other the seashore]

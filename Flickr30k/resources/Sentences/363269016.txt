@@ -1,0 +1,5 @@
+[/EN#132861/people Six people] ride [/EN#132864/vehicles their bikes] on [/EN#132862/scene a sloped indoor track] while [/EN#132863/people a small crowd] watches .
+[/EN#132861/people Several people] are riding [/EN#132864/vehicles bikes] with [/EN#132863/people people] in [/EN#132865/scene stands] watching .
+[/EN#132861/people Cyclists] are riding [/EN#132864/vehicles their bikes] on [/EN#132862/scene an indoor track] .
+[/EN#132860/people Cyclist] at [/EN#132866/other the start of a velodrome race] .
+[/EN#132860/people A bicyclist] is racing in [/EN#132862/scene a velodrome] .

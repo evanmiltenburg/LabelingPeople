@@ -1,0 +1,5 @@
+[/EN#149549/people Students] are sitting in [/EN#149550/scene a classroom] listening to [/EN#149555/people six people] [/EN#0/notvisual who] are teaching .
+[/EN#149552/other A large] meeting is being held in [/EN#149550/scene a room] with [/EN#149554/other built-in desks] .
+[/EN#149549/people Students] is [/EN#149550/scene a classroom] listening to [/EN#149553/other a lecture] .
+[/EN#149549/people People] sitting in [/EN#149550/scene a room] talking to [/EN#149551/other a panel] .
+[/EN#149549/people A room full of people] listening to [/EN#149551/other a panel] .

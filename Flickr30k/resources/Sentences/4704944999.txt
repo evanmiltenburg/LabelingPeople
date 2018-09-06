@@ -1,0 +1,5 @@
+[/EN#193134/people One man] wearing [/EN#193141/clothing a blue shirt] , [/EN#193142/clothing white shorts] , and [/EN#193143/clothing sandals] , and [/EN#193132/people another man] wearing [/EN#193144/clothing cargo pants] and [/EN#193136/scene a gray jacket shop] at [/EN#193135/scene a farmer 's market] .
+[/EN#193133/people A group of shoppers] walk near [/EN#193139/scene the produce section of Sunlight Farms store] .
+[/EN#193131/other A fresh fruit] and [/EN#193140/scene vegetable stand] with [/EN#193133/people people] standing in front of [/EN#0/notvisual it] .
+At [/EN#193135/scene an open air market] [/EN#193134/people a man] inspects [/EN#193130/other some watermelons] for [/EN#193138/other sale] .
+[/EN#193132/people A gentleman] observing [/EN#193135/scene the market] while holding [/EN#193137/other his camera] .

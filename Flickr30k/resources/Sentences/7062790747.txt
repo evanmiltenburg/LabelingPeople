@@ -1,0 +1,5 @@
+[/EN#264831/people A small child] in [/EN#264834/clothing a green shirt] brushes [/EN#264835/bodyparts his teeth] in [/EN#264833/scene the restroom] while [/EN#264832/people a woman] behind [/EN#0/notvisual him] is taking [/EN#264836/people a picture of the child] .
+[/EN#264831/people Toddler] in [/EN#264834/clothing a green shirt] is brushing [/EN#264835/bodyparts his teeth] with [/EN#264837/other a yellow toothbrush] , while being supervised by [/EN#264832/people mom] .
+[/EN#264832/people A woman] is taking [/EN#264831/people a picture of a little boy] brushing [/EN#264835/bodyparts his teeth] in [/EN#264833/scene a bathroom] .
+[/EN#264831/people Young boy] brushing [/EN#264835/bodyparts his teeth] with [/EN#264832/people a woman] in [/EN#0/notvisual the background] .
+[/EN#264832/people a toddler 's mom] is watching [/EN#0/notvisual him] brush [/EN#264835/bodyparts his teeth]

@@ -1,0 +1,5 @@
+[/EN#4313/animals A gray dog] beside [/EN#4314/animals a black and white dog] running in [/EN#4315/scene green grass] .
+[/EN#4316/animals Two dogs] run along [/EN#4315/scene a grassy field] while [/EN#4313/other one] bites [/EN#4314/other the other] .
+[/EN#4316/animals two dogs] , playing in [/EN#4315/scene a field] , wrestling with [/EN#0/notvisual each other]
+[/EN#4316/animals two dogs] are wrestling in [/EN#4315/scene a grassy field] .
+[/EN#4316/animals Two dogs] wrestle in [/EN#4315/scene a field] .

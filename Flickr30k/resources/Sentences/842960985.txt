@@ -1,0 +1,5 @@
+[/EN#281306/people A man] in [/EN#281307/clothing a tan trench coat] and [/EN#281312/clothing blue jeans] walks with [/EN#281309/scene a black umbrella open] over [/EN#281313/bodyparts his head] .
+[/EN#281306/people A man] with [/EN#281315/bodyparts white hair] , [/EN#281307/clothing a long trench coat] and [/EN#281308/clothing an umbrella] walks past [/EN#281311/other a parking meter] .
+[/EN#281306/people A man] in [/EN#281307/clothing a beige trench coat] is walking in [/EN#281314/other the rain] .
+[/EN#281306/people A man] in [/EN#281307/clothing a trench coat] is walking with [/EN#281308/clothing an umbrella] .
+[/EN#281306/people Man] walking with [/EN#281308/clothing his umbrella] in [/EN#281310/scene a bleak street] .

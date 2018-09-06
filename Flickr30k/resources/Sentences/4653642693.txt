@@ -1,0 +1,5 @@
+[/EN#187208/people A group of people] underneath [/EN#187210/other a blue tarp] at [/EN#187211/scene an outdoor market] .
+[/EN#187208/people A crowd] taking [/EN#187214/scene way] from [/EN#187212/other the sun] underneath [/EN#187210/other a shielding tarp] .
+[/EN#187208/people Several people] are shopping at [/EN#187211/scene an outdoor farmers market] .
+[/EN#187209/people A man] is looking over [/EN#187213/other things] [/EN#0/notvisual that] are in [/EN#187211/scene a local market] .
+[/EN#187209/people An elderly man] is in [/EN#187211/scene a market] .

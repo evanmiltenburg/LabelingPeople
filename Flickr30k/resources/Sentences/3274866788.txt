@@ -1,0 +1,5 @@
+[/EN#106181/people A person] in [/EN#106183/clothing a red t-shirt] , [/EN#106184/clothing navy blue pants] , and [/EN#106186/clothing a hard hat] is harnessed to [/EN#106189/other a wire] and jumps toward [/EN#106182/other a red ball] .
+[/EN#106181/people A person] in [/EN#106184/clothing blue shorts] and [/EN#106183/clothing a red shirt] is trying to hit [/EN#106182/other a ball] suspended in [/EN#106191/scene midair] .
+[/EN#106181/people A person] in [/EN#106183/clothing red] leaping from [/EN#106188/other a ledge] trying to touch [/EN#106182/other the suspended red ball] .
+[/EN#106181/people A person] secured in [/EN#106187/clothing a harness] swings toward [/EN#106182/other a suspended ball] .
+[/EN#106181/people Kid] jumps for [/EN#106182/other hanging ball] in [/EN#106190/other ropes course] .

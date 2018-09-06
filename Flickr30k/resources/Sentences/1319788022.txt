@@ -1,0 +1,5 @@
+[/EN#8516/people A baby] wearing [/EN#8513/clothing a white shirt] is crawling on [/EN#0/notvisual the ground] next to [/EN#8518/other a table] .
+[/EN#8516/people An African-American baby] is crawling on [/EN#8514/scene the floor] near [/EN#8518/other a table] .
+[/EN#8516/people A black , bald baby] in [/EN#8513/clothing a overall] crawling on [/EN#8514/other carpet] .
+[/EN#8516/people A baby] is crawling around on [/EN#8514/scene a sandy floor] .
+[/EN#8516/people A black baby] is looking to [/EN#8515/scene his right] .

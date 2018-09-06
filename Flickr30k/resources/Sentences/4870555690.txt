@@ -1,0 +1,5 @@
+[/EN#213342/people A brown-haired man] with [/EN#213343/bodyparts a scruffy beard] and [/EN#213345/clothing a green shirt] using [/EN#213344/other a camera]
+[/EN#213342/people A bearded man] in [/EN#213345/clothing a green shirt] is taking [/EN#213346/other a picture] with [/EN#213344/other his camera] .
+[/EN#213342/people A young man] with [/EN#213343/bodyparts a scruffy beard] focuses [/EN#213344/other his camera] for [/EN#213347/other a picture] .
+[/EN#213342/people A young man] with [/EN#213343/bodyparts a beard] taking [/EN#213346/other a picture] .
+[/EN#213342/people Man] taking [/EN#213346/other pictures of something] .

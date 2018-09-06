@@ -1,0 +1,5 @@
+[/EN#27141/animals A white dog] is walking through [/EN#27145/scene the leafy grass] while [/EN#27142/animals a brown dog] is about to bite [/EN#0/notvisual it] .
+[/EN#27141/animals One white dog] and [/EN#27142/animals one brown dog] playing with [/EN#27143/other a stick] .
+[/EN#27142/animals A tan dog] chases [/EN#27141/animals a white dog] through [/EN#27145/scene the leafy grass]
+[/EN#27144/animals Two little dogs] run through [/EN#27146/other the leaves] .
+[/EN#27142/animals A brown dog] chasseing [/EN#27141/animals a white dog] .

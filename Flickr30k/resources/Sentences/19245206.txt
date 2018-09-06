@@ -1,0 +1,5 @@
+[/EN#23252/people A man] on [/EN#23261/scene a street] in [/EN#23253/clothing a bright t-shirt] holds [/EN#23255/other some sort of tablet] towards [/EN#23256/people a woman] in [/EN#23254/clothing a pink t-shirt] and [/EN#23259/other shades] .
+[/EN#23252/people A man] in [/EN#23253/clothing a bright green shirt] shows [/EN#23256/people a woman] in [/EN#23254/clothing a bright pink shirt] [/EN#23260/other something] on [/EN#23255/other a clipboard] .
+[/EN#23252/people A man] in [/EN#23253/clothing a green shirt] holds out [/EN#23255/other a clipboard] for [/EN#23256/people a woman] in [/EN#23254/other pink 's attention] .
+[/EN#23252/people A man] with [/EN#23253/clothing a bright green shirt] is talking to [/EN#23256/people a woman] in [/EN#23254/clothing a pink shirt] .
+[/EN#23252/people A man] holds [/EN#23255/other a clipboard] and [/EN#23257/other a pen] as [/EN#23256/people a woman] looks at [/EN#0/notvisual them] .

@@ -1,0 +1,5 @@
+[/EN#190953/people A large crowd of people] next to [/EN#190954/other a huge table] with [/EN#190955/other bananas] on [/EN#0/notvisual it] .
+[/EN#190953/people A group of people] are standing around [/EN#190955/other a long line of bananas] .
+[/EN#190953/people A crowd of runners] get [/EN#190955/other bananas] from [/EN#190954/other a very long table] .
+[/EN#190956/people Three guys] talking to [/EN#190958/other each] on [/EN#190959/scene the beach] .
+[/EN#190953/people A crowd of people] picking up [/EN#190955/other bananas] .

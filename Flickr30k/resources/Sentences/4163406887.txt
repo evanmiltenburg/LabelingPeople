@@ -1,0 +1,5 @@
+[/EN#157645/people A boy] on [/EN#157646/animals a donkey] faces [/EN#157647/people another boy] wearing [/EN#157651/clothing a cap] in front of [/EN#157648/other an old stone wall] .
+[/EN#157645/people Boy] riding [/EN#157646/animals a donkey] talking to [/EN#157647/people another boy] standing by [/EN#157648/other an adobe wall] .
+[/EN#157649/people Two boys] are talking while [/EN#157650/other one] is sitting on [/EN#157646/animals a mule] .
+[/EN#157645/people A boy] is riding [/EN#157646/animals a donkey] while talking to [/EN#157647/people a friend] .
+[/EN#157645/people A boy] on [/EN#157646/animals a donkey] stops to talk .

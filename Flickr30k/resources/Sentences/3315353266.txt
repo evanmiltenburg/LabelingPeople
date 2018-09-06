@@ -1,0 +1,5 @@
+[/EN#108799/people A man] in [/EN#108802/clothing a purple suit] is standing by [/EN#108800/other a purple case] playing [/EN#108801/instruments a guitar] .
+[/EN#108799/people A man] plays [/EN#108801/instruments his guitar] with [/EN#108800/other the case] open for [/EN#108803/other donations] .
+[/EN#108799/people A man] is standing on [/EN#108804/scene the street] playing [/EN#108801/instruments a guitar] .
+[/EN#108799/people A man] in [/EN#108802/clothing purple] plays [/EN#108801/instruments a guitar] for [/EN#108803/other money] .
+[/EN#108799/people a man] dressed in [/EN#108802/clothing purple] playing [/EN#108801/instruments guitar]

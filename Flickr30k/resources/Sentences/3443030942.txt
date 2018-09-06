@@ -1,0 +1,5 @@
+[/EN#118698/people A person] in [/EN#118702/clothing a white , black and red coat] is skiing down [/EN#118700/other a slope] .
+[/EN#118699/people A person] skis in [/EN#118701/scene the snow] , [/EN#118701/scene snow] flies behind .
+[/EN#118699/people solitary skier] nears [/EN#118700/other base of a downhill slope]
+[/EN#118698/people This woman] is skiing down [/EN#118701/scene a snowy hill] .
+[/EN#118698/people A woman] skiing down [/EN#118701/scene a snowy hill] .

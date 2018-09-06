@@ -1,0 +1,5 @@
+[/EN#98360/animals A white dog] is running through [/EN#98361/scene the snow] .
+[/EN#98360/animals A dog] running through [/EN#98362/other deep snow pack] .
+[/EN#98360/animals A dog] is playing in [/EN#98361/scene the deep snow] .
+[/EN#98360/animals A dog] runs through [/EN#98361/scene the deep snow] .
+[/EN#98360/animals White dog] running through [/EN#98361/scene snow]

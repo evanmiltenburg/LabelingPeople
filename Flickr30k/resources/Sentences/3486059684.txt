@@ -1,0 +1,5 @@
+[/EN#121850/people A restaurant worker] wearing [/EN#121852/clothing an orange shirt] putting [/EN#121857/other ketchup] and [/EN#121854/other mustard] on [/EN#121859/other sandwich bread] .
+[/EN#121850/people The restaurant employee] is preparing [/EN#121853/other sandwiches] in [/EN#121851/scene the highly decorated kitchen] .
+[/EN#121850/people A woman] in [/EN#121852/other an orange polo] and [/EN#121855/clothing an apron] preparing [/EN#121853/other food] in [/EN#121851/scene a kitchen] .
+[/EN#121850/people A woman] in [/EN#121852/clothing an orange shirt] is putting spread on [/EN#121853/other sandwiches] .
+[/EN#121850/people A woman] is making [/EN#121853/other sub sandwiches] with [/EN#121858/other meat] and [/EN#121854/other mustard] .

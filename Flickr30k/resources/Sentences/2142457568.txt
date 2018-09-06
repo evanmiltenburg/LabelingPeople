@@ -1,0 +1,5 @@
+[/EN#30892/people A man] in [/EN#30895/clothing a yellow shirt] is doing [/EN#30896/other something] with [/EN#30894/other a log] on [/EN#30893/scene the beach] .
+[/EN#30892/people An old man] wearing [/EN#30895/clothing yellow t-shirt] is doing [/EN#30896/other something] over [/EN#30893/scene the sea] .
+[/EN#30892/people older person] standing in [/EN#30897/scene the water] holding on to [/EN#30894/other a wooden stake] .
+[/EN#30892/people Elderly man] repairs [/EN#30894/other boat launch] on [/EN#30893/scene the shore] .
+[/EN#30892/people An old man] working in [/EN#30893/scene a lake] .

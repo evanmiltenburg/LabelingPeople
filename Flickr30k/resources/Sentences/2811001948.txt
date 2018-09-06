@@ -1,0 +1,5 @@
+[/EN#74319/people A man] with [/EN#74320/clothing a blue helmet] sitting on [/EN#74321/other his motorcycle] riding on [/EN#74322/scene the road] .
+[/EN#74319/people A man] in [/EN#74324/clothing a red shirt] and [/EN#74320/clothing blue hat] travels [/EN#74322/scene the road] on [/EN#74321/other a motorcycle] .
+[/EN#74319/people A man] with [/EN#74320/clothing a blue helmet] is on [/EN#74321/other a motorcycle] on [/EN#74323/scene a blue skied day] .
+[/EN#74319/people A man] in [/EN#74320/clothing a blue helmet] is riding [/EN#74321/other his motorcycle] .
+[/EN#74319/people A man] wearing [/EN#74320/clothing a blue helmet] is on [/EN#74321/other a motorcycle] .

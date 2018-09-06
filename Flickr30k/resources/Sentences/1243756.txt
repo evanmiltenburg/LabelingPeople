@@ -1,0 +1,5 @@
+[/EN#6113/people A man] in [/EN#6117/clothing strange outfit] sits in [/EN#6116/other a lawn chair] near [/EN#6115/other a Ben] and [/EN#6114/scene Jerry 's stand] .
+[/EN#6113/people A man] is sitting in [/EN#6116/other a chair] in front of [/EN#6115/other a Ben] and [/EN#6114/other Jerry 's machine] .
+[/EN#6113/people A very unusually dressed man] sitting beside [/EN#6114/other an ice cream cooler] .
+[/EN#6113/people One person] wearing [/EN#6117/clothing a coat] and [/EN#6118/clothing hat] sitting in [/EN#6116/other a chair] .
+[/EN#6113/people Man] sitting in [/EN#6116/other a chair] wearing [/EN#6118/clothing a hat] and [/EN#6120/clothing scarf] .

@@ -1,0 +1,5 @@
+[/EN#245649/people A lone worker] dressed in [/EN#245652/other hard had] , [/EN#245659/clothing red shirt] , [/EN#245651/clothing mask] and [/EN#245654/clothing reflective vest] , stands on [/EN#245656/other dusty concrete] , holding [/EN#245650/other a broom] and looking over [/EN#245653/bodyparts his left shoulder] .
+[/EN#245649/people A man] wearing [/EN#245652/clothing a hard hat] , [/EN#245651/clothing mask] , and [/EN#245654/clothing safety vest] is equipped with [/EN#245650/other a broom] while [/EN#0/notvisual he] looks to [/EN#245660/scene his left] .
+[/EN#245649/people A man] with [/EN#245650/other a broom] in [/EN#245657/bodyparts hand] , [/EN#245654/clothing safety vest] and [/EN#245652/clothing hard hat] on as well as [/EN#245651/clothing a face mask] .
+[/EN#245649/people A worker] wearing [/EN#245651/clothing a mask] and carrying [/EN#245650/other a broom] , stands looking over [/EN#245653/bodyparts his shoulder] .
+[/EN#245649/people Man] wearing [/EN#245652/clothing a hard hat] and [/EN#245651/clothing face mask] while standing idle on [/EN#245655/other the job] .

@@ -1,0 +1,5 @@
+[/EN#103468/people One man] wearing [/EN#103472/clothing a yellow jacket] is poking [/EN#103470/people another man] wearing [/EN#103473/clothing a blue jacket] while [/EN#0/notvisual they] are standing outside on [/EN#103467/scene the sidewalk] .
+[/EN#103463/people Two men] hold [/EN#103465/other a discussion] on [/EN#103471/other a street curb] while [/EN#103474/vehicles a yellow taxi] drives past [/EN#103464/other a chaotic background of advertising] .
+[/EN#103463/people Two men] having [/EN#103465/other a conversation] in front of [/EN#0/notvisual a large city background] .
+[/EN#103463/people Two men] are outside and talking to [/EN#0/notvisual each other] .
+[/EN#103463/people Two guys] talking on [/EN#103466/scene the street] in [/EN#103469/scene the city] .

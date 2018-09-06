@@ -1,0 +1,5 @@
+[/EN#141035/people A woman] is standing on [/EN#141037/scene stage] with [/EN#141036/people a clown] either singing or talking to [/EN#0/notvisual him] with [/EN#141039/other a microphone] .
+[/EN#141035/people A woman] in [/EN#141041/clothing a pink sweater] is singing to [/EN#141036/people a man] in [/EN#141042/clothing a suit] .
+[/EN#141035/people A woman] interviews [/EN#141036/people a clown] on [/EN#141037/scene stage] .
+[/EN#141038/other Two] comedians performing [/EN#141040/other a routine] .
+[/EN#141035/people A lady] and [/EN#141036/people man] on [/EN#141037/scene stage] acting .

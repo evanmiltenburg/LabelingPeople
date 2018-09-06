@@ -1,0 +1,5 @@
+[/EN#207568/people A lone male] , dressed in [/EN#207577/clothing khaki shorts] and [/EN#207578/clothing sneakers] , holding [/EN#207573/other a fishing rod] , standing on [/EN#207576/scene the stairway of a fishing pier] , while [/EN#207571/other the sun] sets over [/EN#207570/scene the horizon] .
+[/EN#207568/people A person] fishes alone off of [/EN#207569/scene a dock] as [/EN#207571/other the sun] sits on [/EN#207575/scene the horizon] .
+[/EN#207568/people A man] fishing on [/EN#207569/scene a small pier] as [/EN#207571/other the sun] sets over [/EN#207572/scene a body of water] .
+[/EN#207568/people A man] fishing off of [/EN#207569/scene a small dock] at [/EN#207570/scene sunset] .
+[/EN#207568/people A person] is fishing at [/EN#207574/scene sunset] .

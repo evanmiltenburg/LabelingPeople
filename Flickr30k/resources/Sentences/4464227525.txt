@@ -1,0 +1,5 @@
+[/EN#170613/people A balding man] in [/EN#170614/clothing a gray jacket] reads [/EN#170615/other the newspaper] while riding on [/EN#170618/vehicles public transportation] .
+[/EN#170613/people An older gentleman] with [/EN#170619/bodyparts disheveled hair] and [/EN#170614/clothing a blue jacket] reads [/EN#170615/other a pamphlet] on [/EN#170616/vehicles/scene the subway] .
+[/EN#170613/people Elderly man] sitting on [/EN#170617/other a blue couch] reading [/EN#170615/other a paper] .
+[/EN#170613/people An old man] on [/EN#170616/vehicles/scene a train] reading [/EN#170615/other a newspaper] .
+[/EN#170613/people A man] sitting and reading .

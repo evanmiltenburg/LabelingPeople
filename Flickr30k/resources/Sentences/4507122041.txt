@@ -1,0 +1,5 @@
+[/EN#173875/people A man] wearing [/EN#173878/clothing a brown jacket] on [/EN#173876/scene a busy city street] using [/EN#173879/bodyparts/people his arm] to shield [/EN#173874/people a young boy] in [/EN#173880/clothing a striped shirt] and [/EN#173881/clothing green striped hat] .
+[/EN#173875/people A man] is walking across [/EN#173876/scene a city street] with [/EN#173874/people his son] .
+[/EN#173875/people The father] and [/EN#173874/people his son] are walking outside .
+[/EN#173875/people Man] shielding [/EN#173874/people son] from on [/EN#173882/vehicles coming traffic] .
+[/EN#173874/people A boy] is out on [/EN#173877/scene the town] with [/EN#173875/people his father] .

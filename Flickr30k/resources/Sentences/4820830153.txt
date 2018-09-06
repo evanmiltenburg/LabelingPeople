@@ -1,0 +1,5 @@
+[/EN#207024/scene A local street] in [/EN#207027/scene an Arabic country] where [/EN#0/notvisual there] is [/EN#207021/scene a market] selling [/EN#207022/other Coca-Cola] .
+[/EN#207021/scene A small stand shop] in [/EN#207025/other India] [/EN#0/notvisual that] sells [/EN#207023/other snacks] and [/EN#207022/other coke] .
+[/EN#207020/people A man] in [/EN#207029/clothing blue jeans] sitting in front of [/EN#207021/scene a store] .
+[/EN#207020/people a street side vendor] selling [/EN#207023/other snacks] and [/EN#207022/other sodas] .
+[/EN#207026/other Vending machines] and [/EN#207023/other snacks] are on [/EN#207028/other display] .

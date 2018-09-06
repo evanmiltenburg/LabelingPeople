@@ -1,0 +1,5 @@
+[/EN#281738/people A smiling man] wearing [/EN#281739/clothing a black shirt] is standing in [/EN#281741/scene a room] with [/EN#281743/other a television] and [/EN#281740/other a table] with [/EN#281742/other food] and [/EN#281744/other a vase of flowers] on top of [/EN#0/notvisual it] .
+[/EN#281738/people A man] in [/EN#281739/clothing a black long-sleeve T-shirt] is excited to try [/EN#281742/other some food] [/EN#0/notvisual that] has been set out on [/EN#281740/other a coffee table] .
+[/EN#281738/people A man] admires [/EN#281746/other his entertainment cabinet] and [/EN#281742/other spread of food] .
+[/EN#281738/people A man] turning around and smiling while [/EN#281745/other eating] .
+[/EN#281738/people A man] in [/EN#281739/clothing a black shirt] enjoys [/EN#281741/scene his living room] .

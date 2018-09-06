@@ -1,0 +1,5 @@
+[/EN#45499/people Six children] and [/EN#45500/people two adults] playing on or near [/EN#45501/other a swing] set .
+[/EN#45502/people Two children] on [/EN#45503/other one swing] at [/EN#45506/scene a park] with [/EN#45504/people other children] .
+[/EN#45505/people seven children] are playing on [/EN#45501/other swings] in [/EN#45506/scene a park] .
+[/EN#45499/people Children] are playing on [/EN#45501/other the swings] at [/EN#45506/scene a park] .
+[/EN#45499/people Children] playing on [/EN#45501/other a swing] set at [/EN#45506/scene a park] .

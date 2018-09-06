@@ -1,0 +1,5 @@
+[/EN#106556/people The woman] [/EN#0/notvisual who] is standing is looking at [/EN#106558/people the hair of the woman] [/EN#0/notvisual who] is sitting .
+[/EN#106556/other A hair dresser] is applying permed on [/EN#106558/bodyparts a client 's hair] in [/EN#106559/scene a salon] .
+[/EN#106556/people A woman] in [/EN#106559/scene a salon] gets [/EN#106558/bodyparts her hair] colored and permed
+[/EN#106556/people Woman] in [/EN#106559/scene salon] is giving [/EN#0/notvisual her] [/EN#106557/people customer] [/EN#106561/other a perm] .
+[/EN#106557/people A woman] is getting [/EN#106558/bodyparts her hair] done at [/EN#106559/scene a salon] .

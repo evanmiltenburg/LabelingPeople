@@ -1,0 +1,5 @@
+[/EN#125688/animals A white dog] with [/EN#125690/other a black chest piece] runs along [/EN#125689/scene the shore of a grainy beach] .
+[/EN#125688/animals A white dog] with [/EN#125690/clothing a black harness] runs on [/EN#125689/scene a rocky shore] .
+[/EN#125688/animals A white dog] running on [/EN#125689/scene a rocky beach] .
+[/EN#125688/animals A white dog] runs with [/EN#125692/bodyparts one ear] up .
+[/EN#125688/animals A white dog] running on [/EN#125689/scene the beach] .

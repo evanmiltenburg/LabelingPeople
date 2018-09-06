@@ -1,0 +1,5 @@
+[/EN#132822/people a group of several people] sitting on [/EN#132827/scene the floor] inside of [/EN#132823/scene a building]
+[/EN#132822/people A group of teenagers] sitting in [/EN#132824/other the hall] at [/EN#132826/other school] .
+[/EN#132822/other A group of anime cosplayers] sitting in [/EN#132824/other a hall] .
+[/EN#132822/people People] wearing [/EN#132828/clothing costumes] wait in [/EN#132823/scene a room] .
+[/EN#132822/people The actors] wait inside [/EN#132825/other the doors] .

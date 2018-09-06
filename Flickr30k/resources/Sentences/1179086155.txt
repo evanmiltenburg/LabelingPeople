@@ -1,0 +1,5 @@
+[/EN#4581/people A man] , [/EN#4586/people a woman] and [/EN#4584/people a little girl] stand on [/EN#4583/scene the beach] by [/EN#4588/scene the water 's edge] dressed in [/EN#4590/other formal attire suitable] for [/EN#4585/other a wedding] .
+[/EN#4589/people Couple] , [/EN#4581/people man] and [/EN#4586/people woman] , with [/EN#4584/people little girl] [/EN#0/notvisual all of them] dressed in [/EN#4587/clothing wedding apparel] while standing along [/EN#4583/scene shoreline] .
+[/EN#4581/people A man] , [/EN#4586/people woman] and [/EN#4584/people little girl] standing on [/EN#4583/scene the beach] in [/EN#4587/clothing dress clothing] .
+[/EN#4581/people Formal dressed man] , [/EN#4586/people woman] and [/EN#4584/people child] standing on [/EN#4583/scene a beach] .
+[/EN#4582/people Family] on [/EN#4583/scene beach] looking at [/EN#4588/scene the ocean] after [/EN#4585/other a wedding] .

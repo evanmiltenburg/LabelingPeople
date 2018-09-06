@@ -1,0 +1,5 @@
+[/EN#175397/people A woman] in [/EN#175399/clothing a black leather shirt trench-coat] and [/EN#175400/clothing black leather calf-high boots] and carrying [/EN#175398/clothing a colorful bag] with [/EN#175402/other a shoulder strap] faces away from [/EN#0/notvisual the camera] with [/EN#175403/scene a yellow post] visible just in front of [/EN#0/notvisual her] .
+[/EN#175397/people A woman] wearing [/EN#175399/clothing a long black leather coat] and knee [/EN#175400/clothing high black boots] , with [/EN#175398/clothing a big floral print diaper bag] , buying [/EN#175401/other a newspaper] .
+[/EN#175397/people A woman] in [/EN#175399/clothing a black leather coat] and [/EN#175400/clothing high-heeled boots] has [/EN#0/notvisual her] back to [/EN#0/notvisual the camera] .
+[/EN#175397/people Women] wearing [/EN#175399/clothing a black leather coat] with [/EN#175398/clothing a colorful bag] and [/EN#175400/clothing black leather boots] .
+[/EN#175397/people The lady] in [/EN#175399/clothing the black coat] is carrying [/EN#175398/clothing a colorful bag] .

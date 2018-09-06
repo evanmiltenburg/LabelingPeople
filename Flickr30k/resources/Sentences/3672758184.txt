@@ -1,0 +1,5 @@
+[/EN#135906/people A man] and [/EN#135907/people a woman] in [/EN#135908/clothing summer outfits] walk down [/EN#135912/scene a street market] .
+[/EN#135906/people A husband] and [/EN#135907/people wife] walk by [/EN#135913/other a marketplace] while traveling .
+[/EN#135909/people A young couple] walk past [/EN#135910/people a street vendor] selling [/EN#135911/other food] .
+[/EN#0/notvisual There] is [/EN#135909/people a couple] walking through [/EN#135912/scene a farmer 's market] .
+[/EN#135909/people A couple] walks through [/EN#135912/scene an open air market] .

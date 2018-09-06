@@ -1,0 +1,5 @@
+[/EN#37906/animals A small dog] with [/EN#37909/bodyparts long hair] holds [/EN#37907/other a snowman toy] in [/EN#37908/bodyparts its mouth] .
+[/EN#37906/animals A brown , shaggy dog] has [/EN#37907/other a plastic snowman toy] in [/EN#37908/bodyparts his mouth] .
+[/EN#37906/animals A furry brown dog] carries [/EN#37907/other his toy] in [/EN#37910/scene mouth outside] .
+[/EN#37906/animals A shaggy dog] with [/EN#37907/other a toy] in [/EN#37908/bodyparts its mouth] .
+[/EN#37906/animals A shaggy dog] plays with [/EN#37907/other a toy] .

@@ -1,0 +1,5 @@
+[/EN#198070/people A man] in [/EN#198076/other a sombrero] on [/EN#198073/animals a chestnut horse] is ahead of [/EN#198079/people several other men] on [/EN#198072/animals horses] .
+[/EN#198072/animals Four horses] with [/EN#198071/people cowboy riders] running near [/EN#198073/animals a fifth horse] [/EN#0/notvisual that] has [/EN#198078/people no rider] .
+[/EN#198070/people a man] riding [/EN#198073/animals a running horse] with [/EN#198071/people some other men] doing [/EN#198080/other the same] behind [/EN#0/notvisual him] .
+[/EN#198070/people Hispanics] are on [/EN#198077/other horseback] trying to wrangle [/EN#198073/animals a free horse] .
+[/EN#198071/people Cowboys] are riding on [/EN#198072/animals horses] in [/EN#198081/scene a dirt field] .

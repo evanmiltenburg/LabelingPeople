@@ -1,0 +1,5 @@
+[/EN#96887/people A woman] wearing [/EN#96895/clothing a blue jacket] operates [/EN#96888/other a checkout register] in [/EN#96889/scene a store] .
+[/EN#96892/people Employees] working [/EN#96894/other the registers] at [/EN#96889/scene a grocery store] .
+[/EN#96887/people A cashier] at [/EN#96888/other a register] rings up [/EN#96890/other a sale] .
+[/EN#96887/people A checkout women] is working at [/EN#96893/other her job] .
+[/EN#96887/people A woman] is ringing up [/EN#96891/other groceries] .

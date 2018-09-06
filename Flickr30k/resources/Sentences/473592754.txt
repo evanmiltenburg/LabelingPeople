@@ -1,0 +1,5 @@
+[/EN#197051/people A bare headed man] wearing [/EN#197053/other a dark blue cassock] , [/EN#197056/clothing sandals] , and [/EN#197060/other dark blue socks mounts] [/EN#197062/other the stone steps] leading into [/EN#197054/scene a weathered old building] .
+[/EN#197052/people A guy] with [/EN#197055/clothing a long blue dress] like [/EN#197059/other clothing piece] with [/EN#197058/clothing blue socks] and [/EN#197056/clothing sandals] on walking into [/EN#197054/scene a concrete building] .
+[/EN#197051/people A church worshiper] in [/EN#197053/clothing a blue robe] prepares to enter [/EN#197061/other his place of worship] .
+[/EN#197051/people A man] in [/EN#197055/clothing a long blue cape] walks into [/EN#197054/scene an old stone building] .
+[/EN#197052/people A man] in [/EN#197053/clothing a black robe] is walking into [/EN#197054/scene a old building] .

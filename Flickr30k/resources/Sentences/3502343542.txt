@@ -1,0 +1,5 @@
+[/EN#123191/people a woman] wearing [/EN#123196/clothing a white] helmeted looking up as [/EN#0/notvisual she] is calming [/EN#123193/other a huge rock wall]
+[/EN#123191/people A woman] is climbing up [/EN#123195/scene a steep mountain] over [/EN#123198/scene water] .
+[/EN#123192/people These helmeted people] are rock climbing [/EN#123197/scene outdoors] .
+[/EN#123191/other People rock crawl] up [/EN#123193/other a steep obstacle] .
+[/EN#123192/people People] mountain climbing .

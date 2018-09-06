@@ -1,0 +1,5 @@
+[/EN#89650/people A man] wearing [/EN#89652/clothing a yellow safety vest] helps prepare [/EN#89651/vehicles an airplane] .
+[/EN#89650/people A man] by [/EN#89651/scene a private jet] is standing in [/EN#89656/scene the shade of the jet] .
+[/EN#89651/vehicles An aircraft] stands on [/EN#89655/other cement] by [/EN#89658/people workers] in [/EN#89652/clothing yellow vests] .
+[/EN#89651/vehicles An airplane] is parked in front of [/EN#89654/vehicles a few vehicles] .
+[/EN#89653/people A man] hanging out of [/EN#89657/vehicles the window of an airplane] .

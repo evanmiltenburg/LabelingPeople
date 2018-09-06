@@ -1,0 +1,5 @@
+[/EN#81767/animals A brown dog] bolts towards [/EN#0/notvisual the camera] , with [/EN#81768/bodyparts his tongue] out and mouth open .
+[/EN#81767/animals A brown dog] runs over [/EN#81770/scene a dirt] and [/EN#0/notvisual grass background] .
+[/EN#81767/animals The brown dog] is running along [/EN#81771/other a grassy pathway] .
+[/EN#81767/animals A dog] with [/EN#81768/bodyparts its tongue] out of [/EN#81769/bodyparts its mouth] .
+[/EN#81767/animals a dog] running towards [/EN#0/notvisual the camera]

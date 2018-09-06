@@ -1,0 +1,5 @@
+[/EN#76467/people A man] in [/EN#76472/clothing a red sweatshirt] and [/EN#76470/clothing a hat] is looking at [/EN#76469/other his phone] while [/EN#76471/people another man] in [/EN#76474/clothing black] walks closer to [/EN#0/notvisual him] down [/EN#76468/scene the sidewalk] .
+[/EN#76467/people A man] in [/EN#76470/clothing a hat] and [/EN#76472/clothing red shirt] aims [/EN#76469/other a cellphone] at [/EN#76471/people a person] walking toward [/EN#0/notvisual him] on [/EN#76468/scene the sidewalk] .
+[/EN#76467/people A man] with [/EN#76470/clothing a hat] taking [/EN#76473/other a photo] with [/EN#76475/other his camera] , while [/EN#76471/people a passerby] looks annoyed .
+[/EN#76467/people A man] in [/EN#76470/clothing a straw hat] shades [/EN#76469/other his phone] while [/EN#76476/other others] walk on [/EN#76468/scene a busy sidewalk] .
+[/EN#76467/people A man] in [/EN#76472/clothing a red sweatshirt] and [/EN#76470/clothing a straw hat] uses [/EN#76469/other a cellphone] .

@@ -1,0 +1,5 @@
+[/EN#56639/people A man] in [/EN#56641/clothing a business attire] is [/EN#56645/scene outside] holding and looking at [/EN#56640/people a baby] [/EN#0/notvisual that] is in [/EN#56642/clothing a blue striped outfit] .
+[/EN#56639/people A formally dressed man] in [/EN#56641/clothing a black suit] and [/EN#56643/clothing blue tie] holding [/EN#56640/people a baby] .
+[/EN#56639/people A young man] is holding [/EN#56640/people a little boy] and looking at [/EN#0/notvisual him] with [/EN#56646/other love] .
+[/EN#56639/people A man] in [/EN#56641/clothing black tux] with [/EN#56643/clothing blue tie] holding [/EN#56640/people a baby boy] .
+[/EN#56639/people Man] with [/EN#56647/bodyparts shirt hair] and [/EN#56643/clothing blue tie] holding [/EN#56640/people baby] .

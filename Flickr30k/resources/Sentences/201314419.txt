@@ -1,0 +1,5 @@
+[/EN#24992/people Two people] stand at [/EN#24999/scene the end of a fenced jetty] overlooking [/EN#24995/scene the ocean] , looking at [/EN#24995/scene a purple ocean] and [/EN#24994/scene sky] .
+[/EN#24992/people Two people] looking out over [/EN#24995/scene the ocean] at [/EN#24993/scene a sunset] with [/EN#24994/scene purple sky] and [/EN#24995/scene waters] .
+[/EN#24992/people A couple] watching [/EN#24993/scene a beautiful sunset] on [/EN#0/notvisual the sea side] .
+[/EN#24992/people Two people] on [/EN#24996/vehicles/scene a boat] looking at [/EN#24994/scene the sunset] .
+[/EN#24992/people A couple] enjoying [/EN#24993/scene a sunset] on [/EN#24997/other a cruise] .

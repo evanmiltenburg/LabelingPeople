@@ -1,0 +1,5 @@
+[/EN#119467/people A woman] sitting on [/EN#119469/other the sand] at [/EN#119468/scene the beach] , with [/EN#119466/animals a furry animal] in [/EN#0/notvisual the foreground] walking towards [/EN#0/notvisual her] .
+[/EN#119466/animals A small furry brown dog] is running on [/EN#119468/scene the shore of the ocean] .
+[/EN#119466/animals a brown dog] running along [/EN#119470/scene the dirt shore of a stream]
+[/EN#119466/animals Dog] running away from [/EN#119467/people woman] on [/EN#119469/other the seashore] .
+[/EN#119466/animals A small dog] running on [/EN#119468/scene a beach] .

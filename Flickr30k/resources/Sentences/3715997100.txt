@@ -1,0 +1,5 @@
+[/EN#139057/people Three people] are walking on [/EN#139058/scene a green area] down [/EN#139060/scene a path] between [/EN#139058/other a forest of trees] .
+[/EN#139057/people Three people] walk along [/EN#139060/scene a trail] in [/EN#139059/scene a greenbelt] in [/EN#139058/scene a forest] .
+[/EN#139057/people People] hiking down [/EN#139060/scene trail] in [/EN#139059/scene meadow] between [/EN#139061/other groves of pines] .
+[/EN#139063/bodyparts Hikers head] along [/EN#139060/scene a trail] surrounded by [/EN#139062/other trees] .
+[/EN#139057/people A group of people] walking on [/EN#139060/scene a trail] .

@@ -1,0 +1,5 @@
+[/EN#105618/people A large group of people] are packed tightly into [/EN#105619/vehicles/scene a train] .
+[/EN#105618/people A large amount of people] crowded into [/EN#105621/other a subway system] .
+[/EN#105618/people Many dark-haired people] are on [/EN#105624/vehicles the subway car] .
+[/EN#105620/scene A view of a sea] of [/EN#105625/bodyparts heads] on [/EN#105619/vehicles/scene a crowded train] .
+[/EN#105618/people Many people] on [/EN#105622/other a train hold] onto [/EN#105623/other handles] .

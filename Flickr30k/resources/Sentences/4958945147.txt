@@ -1,0 +1,5 @@
+[/EN#223291/people A man] in [/EN#223295/clothing black pants] and [/EN#223297/scene a black tee] is sitting on [/EN#223292/other a bench] in front of [/EN#223293/vehicles a truck] .
+[/EN#223291/people Bald man] in [/EN#223294/clothing black clothes] sits on [/EN#223292/other a bench] in front of [/EN#223293/vehicles a large truck] .
+[/EN#223291/people A man] in [/EN#223294/clothing dark clothing] sits on [/EN#223292/other a bench] in front of [/EN#223293/vehicles a truck] .
+[/EN#223291/people A bald man] is sitting on [/EN#223292/other a bench] in front of [/EN#223293/vehicles a red truck] .
+[/EN#223291/people A man] uses [/EN#223296/other his phone] on [/EN#223292/other a bench] in front of [/EN#223293/vehicles a truck] .

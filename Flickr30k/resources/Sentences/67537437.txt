@@ -1,0 +1,5 @@
+[/EN#257526/people A man] with [/EN#257530/clothing a turquoise vest] and [/EN#257532/clothing black pants] sits down in front of [/EN#257528/other a brick monument] .
+[/EN#257526/people A person] in [/EN#257530/clothing a turquoise vest] is sitting on [/EN#257529/other a stone bench] with [/EN#257525/people a few other people] .
+[/EN#257525/people People] sitting [/EN#257527/other a circle] with [/EN#257526/people a man] in [/EN#257530/clothing a green vest] talking on [/EN#257531/other the phone] .
+[/EN#257525/people A group of people] sit and stand around [/EN#257529/other a circular bench] .
+[/EN#257526/people Someone] sitting down and talking on [/EN#257531/other the phone] .

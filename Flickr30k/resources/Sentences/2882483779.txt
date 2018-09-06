@@ -1,0 +1,5 @@
+[/EN#78773/animals Big black dog] and kitten curiously looking at [/EN#78775/other the wooden weave basket] .
+[/EN#78773/animals a black dog] is looking at [/EN#78774/animals the tabby cat] [/EN#0/notvisual that] is sitting by [/EN#78779/other the window] .
+[/EN#78774/animals A tawny cat] is playing with [/EN#78775/other a basket] while [/EN#78773/animals a black dog] watches .
+[/EN#78773/animals A dog] and [/EN#78774/animals cat] sit by [/EN#78778/other a table] with [/EN#78780/other toys] on [/EN#0/notvisual it] .
+[/EN#78776/animals The pets] play in [/EN#78777/other the apartment] .

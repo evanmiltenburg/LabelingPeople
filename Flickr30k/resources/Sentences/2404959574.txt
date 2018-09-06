@@ -1,0 +1,5 @@
+[/EN#46819/people A brunette female] in [/EN#46821/clothing a blue shirt] , wearing [/EN#46822/clothing sunglasses] , gazing at [/EN#46820/other a ram] with [/EN#46820/other black fur] and curled [/EN#46824/instruments horns] .
+[/EN#46819/people A woman] in [/EN#46821/clothing a blue t-shirt] is looking down at [/EN#46820/other a black ram] .
+[/EN#46819/people A woman] in [/EN#46821/clothing a blue hiking shirt] looking at [/EN#46820/other a black ram] .
+[/EN#46819/people A woman] in [/EN#46821/clothing a blue shirt] is looking at [/EN#46820/other a black ram] .
+[/EN#46819/people A girl] in [/EN#46822/clothing sunglasses] looks at [/EN#46820/animals a sheep] .

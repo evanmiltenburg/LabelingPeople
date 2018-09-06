@@ -1,0 +1,5 @@
+[/EN#47729/animals a black and white dog] wearing [/EN#47730/clothing a blue shirt] carrying [/EN#47731/other a toy] in [/EN#47732/bodyparts its mouth] .
+[/EN#47729/animals A brown dog] with [/EN#47730/clothing a blue suit] [/EN#47734/other on] is playing with [/EN#47731/other a toy] over [/EN#47733/scene fake grass] .
+[/EN#47729/animals A dog] in [/EN#47730/clothing a blue sweater] leaps while holding [/EN#47731/other an object] in [/EN#47732/bodyparts its mouth] .
+[/EN#47729/animals The black dog] is wearing [/EN#47730/clothing a blue jacket] and playing with [/EN#47731/other a toy] .
+[/EN#47729/animals A dog] wearing [/EN#47730/clothing a blue sweater] holds [/EN#47731/other a yellow toy] in [/EN#47732/bodyparts its mouth] .

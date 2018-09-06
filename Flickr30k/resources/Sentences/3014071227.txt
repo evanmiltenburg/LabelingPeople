@@ -1,0 +1,5 @@
+[/EN#87324/people Two adults] and [/EN#87325/people two children] are riding [/EN#87326/vehicles bicycles] down [/EN#87327/scene a street] .
+[/EN#87324/people Two adults] and [/EN#87325/people two children] are riding [/EN#87326/vehicles bikes] on [/EN#87329/scene a street] .
+[/EN#87328/people A family] out bicycling down [/EN#87329/scene the road] together .
+[/EN#87328/people a lot of people] are riding [/EN#87326/vehicles bikes] .
+[/EN#87328/people A family] taking [/EN#87330/other a bike ride] .

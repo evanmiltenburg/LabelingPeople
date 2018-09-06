@@ -1,0 +1,5 @@
+[/EN#191056/people A man] in [/EN#191057/clothing a hat] sitting at [/EN#191059/other one of several tables] inside [/EN#191058/scene a screened tent] watching [/EN#191060/people people] walk by [/EN#191064/scene outside] .
+[/EN#191056/people A man] is sitting down at [/EN#191059/other a table] in [/EN#191058/scene a plastic enclosure] and gazes out at [/EN#191060/people a young woman] passing by .
+[/EN#0/notvisual There] is [/EN#191056/people someone] in [/EN#191057/clothing a hat] sitting at [/EN#191059/other a table] looking at [/EN#191060/people the people] walking by .
+[/EN#191056/people A man] watches [/EN#191060/people a woman] on [/EN#191062/scene the sidewalk] from inside [/EN#191063/other a tarp] .
+[/EN#191056/people Man] sitting [/EN#191065/scene restaurant] looking outside .

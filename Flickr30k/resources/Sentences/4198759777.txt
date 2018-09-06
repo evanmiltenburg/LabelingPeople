@@ -1,0 +1,5 @@
+[/EN#158818/people A group of people] huddled around [/EN#158819/other a map] and [/EN#158822/clothing dresses] with [/EN#158820/clothing backpacks] and [/EN#158821/other other outdoor gear] .
+[/EN#158818/people A group of people] in [/EN#158821/other outdoor gear] looking at [/EN#158819/other a map] .
+[/EN#158818/people Group of people] wearing [/EN#158820/clothing backpacks] looks at [/EN#158819/other a map] .
+[/EN#158817/people A group of hikers] looking at [/EN#158819/other a map] .
+[/EN#158817/people Some hikers] are looking at [/EN#158819/other a map] .

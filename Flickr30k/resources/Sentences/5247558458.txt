@@ -1,0 +1,5 @@
+[/EN#232096/people People] holding [/EN#232098/clothing umbrellas] over [/EN#232102/bodyparts their heads] walk up [/EN#232099/scene a staircase] next to [/EN#232097/scene an escalator] .
+[/EN#232096/people A group of people] headed up [/EN#232097/scene an escalator] , [/EN#0/notvisual many of them] holding [/EN#232098/clothing an umbrella] .
+[/EN#232096/people several people] are ascending [/EN#232099/other a set of stairs] while holding [/EN#232098/clothing umbrellas] .
+[/EN#232096/people Several people] with [/EN#232098/clothing umbrellas] going up [/EN#232097/scene an escalator] .
+[/EN#232096/people Several people] walking upstairs with [/EN#232098/clothing umbrellas] .

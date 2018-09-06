@@ -1,0 +1,5 @@
+[/EN#123607/people a woman] walking in front of [/EN#123609/other an outdoor mural] , prominently featuring [/EN#123608/people a portrait of a bald man] .
+[/EN#123607/people A woman] dressed in [/EN#123613/clothing a white shirt] is walking by [/EN#123609/other graffiti] .
+[/EN#123607/people Woman] walking by [/EN#123608/people a mural of an old bald man] .
+[/EN#123609/other This wall] has [/EN#123608/people a picture of a man] on [/EN#0/notvisual it] .
+[/EN#123607/people A woman] walks by [/EN#123609/other a mural] .

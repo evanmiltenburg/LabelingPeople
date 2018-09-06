@@ -1,0 +1,5 @@
+[/EN#6248/people A girl] wearing [/EN#6249/clothing a pink shirt] lays on [/EN#6250/scene the green grass] and looks up .
+[/EN#6248/people A closeup of a young girl] with [/EN#6249/clothing a pink shirt] laying on [/EN#6250/scene grass] .
+[/EN#6248/people A young girl] is laying in [/EN#6250/scene the grass] posing for [/EN#0/notvisual the camera]
+[/EN#6248/people Girl] in [/EN#6249/clothing pink shirt] with [/EN#6251/other white writing] lying in [/EN#6250/scene grass] .
+[/EN#6248/people A girl] in [/EN#6249/clothing a pink shirt] lies on [/EN#0/notvisual her] back in [/EN#6250/scene the grass] .

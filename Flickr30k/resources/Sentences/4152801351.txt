@@ -1,0 +1,5 @@
+[/EN#157187/people A crowd of people] in front of [/EN#157188/scene an Asian building] with [/EN#157193/other red flags] around [/EN#0/notvisual it] .
+[/EN#157187/people A crowd] walking with [/EN#157188/scene an oriental building] in [/EN#0/notvisual the background] .
+[/EN#157186/scene A busy oriental street] with [/EN#157190/other a camera] on [/EN#157191/scene a poll] .
+[/EN#157187/people Chinese citizens] walking through [/EN#157192/other the square] .
+[/EN#157186/scene Crowded city streets] in [/EN#157189/other China] .

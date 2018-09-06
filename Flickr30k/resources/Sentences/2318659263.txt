@@ -1,0 +1,5 @@
+[/EN#41310/animals A white bear] walks along [/EN#0/notvisual snow-covered ground] and casts [/EN#41313/scene a shadow] on [/EN#41312/scene the snow] .
+[/EN#41310/animals A fluffy white dog] running across [/EN#41312/scene the snow] .
+[/EN#41310/animals The white dog] runs across [/EN#41312/scene the snow] .
+[/EN#41310/animals A white dog] running on [/EN#41311/scene snow] .
+[/EN#41310/animals A wolf] moves over [/EN#41311/scene the snow] .

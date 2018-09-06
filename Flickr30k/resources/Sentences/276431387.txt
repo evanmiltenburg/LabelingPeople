@@ -1,0 +1,5 @@
+[/EN#71371/people A man] smiles at [/EN#71374/people a person] sitting next to [/EN#0/notvisual him] at [/EN#71375/other a table] [/EN#0/notvisual who] has [/EN#71380/bodyparts a fauxhawk haircut] and is flipping through [/EN#71373/other a book] and wearing [/EN#71372/clothing a black leather jacket] .
+[/EN#71371/people A man] is sitting at [/EN#71375/other a table] , smiling & talking to [/EN#71374/people a woman] sitting next to [/EN#0/notvisual him] [/EN#0/notvisual who] is paging through [/EN#71373/other a book] .
+[/EN#71376/people Two men] talking with [/EN#0/notvisual each other] while sitting at [/EN#71375/other a table] , and [/EN#71374/other one] is holding [/EN#71373/other a partially-opened book] .
+[/EN#71371/people A man] in [/EN#71377/clothing a gray suit] and [/EN#71374/people a woman] in [/EN#71372/clothing black jacket] sitting at [/EN#71375/other a wooden table] , talking .
+[/EN#71371/people A man] sits at [/EN#71375/other a table] chatting with [/EN#71374/people a woman] [/EN#0/notvisual who] is looking at [/EN#71373/other a book] .

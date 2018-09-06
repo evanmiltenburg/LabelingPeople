@@ -1,0 +1,5 @@
+[/EN#46837/people A person] in [/EN#46838/clothing a red shirt] is mowing [/EN#46842/scene the grass] with [/EN#46839/other a green riding mower] .
+[/EN#46837/people The man] wearing [/EN#46838/clothing a red shirt] is mowing [/EN#46842/scene grass] using [/EN#46840/other a riding lawn mower] .
+[/EN#46837/people Guy] in [/EN#46838/clothing an orange vest] on [/EN#46840/other a lawn tractor] mowing [/EN#46842/scene his lawn] on [/EN#46841/scene a sunny day]
+[/EN#46837/people A man] is cutting [/EN#46842/scene grass] on [/EN#46843/scene a large field] on [/EN#46844/clothing a green] rising [/EN#46840/other mower] .
+[/EN#46837/people A guy] mowing [/EN#46843/scene a lawn] on [/EN#46840/other his tractor]

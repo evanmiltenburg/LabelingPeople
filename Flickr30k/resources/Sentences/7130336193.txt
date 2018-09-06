@@ -1,0 +1,5 @@
+[/EN#265791/people Two children] playing [/EN#265795/other soccer] on [/EN#265801/scene the field] , [/EN#265791/other one] is wearing [/EN#265793/clothing a blue shirt] and [/EN#265800/other the other] is wearing [/EN#265794/clothing a orange shirt] .
+[/EN#265796/people One soccer player] in [/EN#265794/clothing an orange uniform] getting hit in [/EN#265798/bodyparts the face] by [/EN#265792/other a ball] kicked by [/EN#265789/people a player] in [/EN#265793/clothing blue] .
+[/EN#265789/people A boy] in [/EN#265793/clothing a blue jersey] kicks [/EN#265792/other a soccer ball] into [/EN#265799/people the head of a boy] in [/EN#265794/clothing an orange jersey] .
+[/EN#265791/people Two boys] practicing passing [/EN#265795/other a soccer ball] .
+[/EN#265791/people Two boys] play [/EN#265795/other soccer] against [/EN#0/notvisual each other] .

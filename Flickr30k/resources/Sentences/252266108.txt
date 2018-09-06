@@ -1,0 +1,5 @@
+[/EN#55076/people A man] in [/EN#55078/clothing a sleeveless blue shirt] and [/EN#55079/clothing athletic pants] punches [/EN#55077/clothing/people a punching bag] .
+[/EN#0/notvisual There] is [/EN#55076/people a man] in [/EN#55078/clothing a blue sleeveless shirt] using [/EN#55077/clothing/people a black punching bag] .
+[/EN#55076/people A man] wearing [/EN#55078/clothing a blue sleeveless shirt] punching [/EN#55077/clothing/people a punching bag] .
+[/EN#55076/people A man] punches [/EN#55077/clothing a heavy bag] in [/EN#55080/scene a gym] with [/EN#55081/scene wood floors] .
+[/EN#55076/people A boxer] is practicing [/EN#55082/other punches] using [/EN#55077/clothing a heavy bag] .

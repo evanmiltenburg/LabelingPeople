@@ -1,0 +1,5 @@
+[/EN#4793/animals A small dog] plays with [/EN#4795/other a toy] on top of [/EN#4794/other a white blanket] .
+[/EN#4793/animals A small , shaggy dog] playing with [/EN#4795/other a toy] on [/EN#4794/other a blanket] .
+[/EN#4793/animals A small brown and black dog] playing with [/EN#4795/other a toy]
+[/EN#4793/animals Terrier dog] playing with [/EN#4795/other toy] on [/EN#4794/other blanket]
+[/EN#4793/animals A small brown and black dog]

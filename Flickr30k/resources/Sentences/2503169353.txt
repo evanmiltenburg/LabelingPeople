@@ -1,0 +1,5 @@
+[/EN#53744/people Man] wearing [/EN#53747/clothing a suit] and [/EN#53749/clothing tie] is in front of [/EN#53746/scene a podium] with [/EN#53745/other a microphone] in front of [/EN#0/notvisual him] .
+[/EN#53744/people A middle-age man] in [/EN#53747/clothing black suit] speaking into [/EN#53745/other the mic ,] behind [/EN#53746/scene brown podium] .
+[/EN#53744/people A middle-aged man] standing at [/EN#53746/scene a podium] , speaking .
+[/EN#53744/people A man] is speaking into [/EN#53745/other a microphone] at [/EN#53746/scene a podium] .
+[/EN#53744/people A man] in [/EN#53747/clothing a suit] giving [/EN#53748/other a speech] at [/EN#53746/scene a podium] .

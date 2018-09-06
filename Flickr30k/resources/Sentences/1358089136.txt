@@ -1,0 +1,5 @@
+[/EN#9832/people A young man] in [/EN#9839/clothing shorts] and [/EN#9840/clothing t-shirt] is snowboarding under [/EN#9836/scene a bright blue sky] .
+[/EN#9832/people A man] is attempting to surf down [/EN#9833/scene a hill] made of [/EN#9833/other sand] on [/EN#9834/scene a sunny day] .
+[/EN#9832/people A man] is sliding down [/EN#9833/other a huge sand dune] on [/EN#9834/scene a sunny day] .
+[/EN#9832/people A man] is surfing down [/EN#9833/other a hill of sand] .
+[/EN#9835/other A boy sand] surfing down [/EN#9833/scene a hill]

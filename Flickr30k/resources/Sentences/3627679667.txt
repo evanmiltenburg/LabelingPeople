@@ -1,0 +1,5 @@
+[/EN#132543/people A person] in [/EN#132548/clothing a black wetsuit] is surfing [/EN#132544/scene a small wave] on [/EN#132547/other a beige surfboard] .
+[/EN#132543/people A woman] is attempting to ride [/EN#132544/scene a small wave] .
+[/EN#132543/people The lady] is surfing and riding [/EN#132544/scene a wave] .
+[/EN#132543/people A blond girl] rides [/EN#132545/scene the waves] .
+[/EN#132546/other Person surfboards] on [/EN#132544/scene a wave] .

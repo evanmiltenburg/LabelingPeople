@@ -1,0 +1,5 @@
+[/EN#78651/people A man] wearing [/EN#78654/clothing a cowboy hat] holds [/EN#78653/other a cellphone] and stands on [/EN#78655/scene the sidewalk] while [/EN#78657/people people] walk around in [/EN#0/notvisual the background] .
+[/EN#78651/people A man] wearing [/EN#78654/clothing a cowboy hat] standing on [/EN#78655/scene a sidewalk] during [/EN#78659/scene the day] talking on [/EN#78653/other his phone] and looking at [/EN#78658/other something] .
+[/EN#78651/people A man] wearing [/EN#78654/clothing a cowboy hat] and [/EN#78652/clothing a blue striped shirt] sticks out [/EN#78660/bodyparts his tongue] as [/EN#0/notvisual he] is on [/EN#78653/other his cellphone] .
+[/EN#78651/people A man] on [/EN#78653/other a cellphone] wearing [/EN#78654/clothing a cowboy hat] and [/EN#78652/clothing a blue and white shirt] is standing on [/EN#78656/other a curb] .
+[/EN#78651/people a man] in [/EN#78654/clothing a wicker cowboy hat] is talking on [/EN#78653/other the phone] .

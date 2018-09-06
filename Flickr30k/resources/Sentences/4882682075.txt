@@ -1,0 +1,5 @@
+[/EN#214420/people A man] in [/EN#214421/clothing a blue t-shirt] is taking [/EN#214422/other a picture] while [/EN#214425/people a woman] with [/EN#214423/clothing an umbrella] walks behind [/EN#0/notvisual him] .
+[/EN#214420/people A man] in [/EN#214421/clothing a blue shirt] gets [/EN#214422/other his picture] taken as [/EN#0/notvisual he] is about to take [/EN#214427/other a picture] .
+[/EN#214420/people a Man] in [/EN#214421/clothing a blue shirt] and [/EN#214426/clothing white shoes] is taking [/EN#214422/other a picture of a window] .
+[/EN#214420/people A man] is taking [/EN#214422/other a photo] in [/EN#0/notvisual the photograph 's direction] .
+[/EN#214420/people Man] in [/EN#214421/clothing blue shirt] is taking [/EN#214422/other photograph] .

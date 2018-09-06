@@ -1,0 +1,5 @@
+[/EN#7632/people A girl] wearing [/EN#7634/clothing a red and black striped shirt] is sitting on [/EN#7633/other a brick wall] near [/EN#7638/scene a flower garden] .
+[/EN#7632/people A girl] in [/EN#7634/clothing a red and black striped shirt] sits on [/EN#7633/other a brick wall] in front of [/EN#7636/other a tropical plant] .
+[/EN#7632/people A girl] dressed in [/EN#7634/clothing a red and black top] with [/EN#7637/clothing black pants] is sitting on [/EN#7633/other a wall] .
+[/EN#7632/people A lady] in [/EN#7634/clothing a red and black striped shirt] is sitting on [/EN#7633/other a retaining wall] .
+[/EN#7632/people A woman] in [/EN#7634/clothing semi-formal attire] is sitting on [/EN#7633/other a concrete wall] .

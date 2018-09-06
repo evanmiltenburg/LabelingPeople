@@ -1,0 +1,5 @@
+[/EN#128412/animals A brown dog] treads [/EN#128413/scene the water] with [/EN#128415/other something] in [/EN#128414/bodyparts its mouth] .
+[/EN#128412/animals A dog] swimming in [/EN#128413/scene a lake] has [/EN#128411/other sunshine] shining on [/EN#0/notvisual him] .
+[/EN#128412/animals A dog] swims while carrying [/EN#128415/other a stick] in [/EN#128414/bodyparts its mouth] .
+[/EN#128412/animals A dog] with [/EN#128410/bodyparts golden hair] swims through [/EN#128413/scene water] .
+[/EN#128412/animals A tan dog] swims through [/EN#128413/scene very dark water] .

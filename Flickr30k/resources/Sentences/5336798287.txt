@@ -1,0 +1,5 @@
+[/EN#233958/people A woman] in [/EN#233963/clothing a blue collared shirt] holds [/EN#233959/other a large box] with [/EN#233960/other DELL] written on [/EN#0/notvisual it] .
+[/EN#233958/people A young woman] in [/EN#233964/clothing blue] is carrying [/EN#233959/other a box] in [/EN#233962/scene a barren room] .
+[/EN#233958/people A woman] with [/EN#233965/bodyparts brown hair] holding [/EN#233959/other a dell box] .
+[/EN#233958/people Woman] holding [/EN#233959/other a Dell box] inside [/EN#233962/scene a home] .
+[/EN#233958/people A woman] is holding [/EN#233959/other a Dell computer box] .

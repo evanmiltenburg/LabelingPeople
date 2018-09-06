@@ -1,0 +1,5 @@
+[/EN#128330/people a climber] in [/EN#128338/clothing a red shirt] is scaling [/EN#128334/bodyparts a rock face] whilst being watched by [/EN#128331/people another man] in [/EN#128340/clothing a white shirt] .
+[/EN#128333/people Two people] are attempting to rock [/EN#128332/scene climb] on [/EN#128334/other a small but steep rock wall] .
+[/EN#128330/people A man] is climbing up [/EN#128334/other a rock] while [/EN#128331/people another man] watches [/EN#0/notvisual him] from [/EN#128337/other behind] .
+[/EN#128330/people A person] learning how to rock [/EN#128332/scene climb] with [/EN#128331/people another person] assisting .
+[/EN#128330/people A man] climbing [/EN#128335/scene a rocky outcropping] while [/EN#0/notvisual another] watches .

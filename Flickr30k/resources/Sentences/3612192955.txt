@@ -1,0 +1,5 @@
+[/EN#131538/people A man] is on [/EN#131539/vehicles/scene a boat] in [/EN#131540/scene the water] looking towards [/EN#0/notvisual the camera] .
+[/EN#131538/people A man] is cruising through [/EN#131540/scene a dirty river] on [/EN#131539/vehicles/scene a long boat] .
+[/EN#131538/people Asian guy] traveling along [/EN#131542/scene the countryside] in [/EN#131539/vehicles/scene a boat] .
+[/EN#131538/people A man] floating in [/EN#131539/other a green canoe] .
+[/EN#131538/people A young man] in [/EN#131539/other a fishing canoe] .

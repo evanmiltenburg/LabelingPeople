@@ -1,0 +1,5 @@
+[/EN#101735/people A person] in [/EN#101736/clothing black] is coming out of [/EN#101737/clothing a window of a tan] and [/EN#101742/scene red building] .
+[/EN#101735/people A boy] rides [/EN#101738/other a skateboard] with [/EN#101739/vehicles a bike] to [/EN#101744/scene his right] .
+[/EN#101735/people A guy] is grinding on [/EN#101740/other a window ledge] in [/EN#101743/scene a city] .
+[/EN#101735/people A guy] grinds [/EN#101740/other a windowsill] near [/EN#101741/scene an old windmill]
+[/EN#101735/people A person] skateboarding near [/EN#101741/scene a windmill] .

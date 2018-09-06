@@ -1,0 +1,5 @@
+[/EN#9306/people A man] in [/EN#9310/clothing jeans] and [/EN#9307/clothing a white t-shirt] chops up [/EN#9308/other vegetables] in [/EN#9311/scene a kitchen] .
+[/EN#9306/people A white boy] prepares [/EN#9308/other food] while looking at [/EN#0/notvisual the camera] .
+[/EN#9306/people A man] in [/EN#9307/clothing a white shirt] cutting [/EN#9308/other food] with [/EN#9309/other a knife] .
+[/EN#9306/people A young man] in [/EN#9307/clothing a white shirt] cutting [/EN#9308/other tomatoes] .
+[/EN#9306/people A young man] chopping [/EN#9308/other tomatoes] .

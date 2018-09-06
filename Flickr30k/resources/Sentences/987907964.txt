@@ -1,0 +1,5 @@
+[/EN#285039/animals one brown and white dog] chasing [/EN#285039/animals a black and white dog] through [/EN#285041/scene the grass]
+[/EN#285038/animals Two dogs] are running through [/EN#285041/scene the grass] near [/EN#285042/scene a house] and [/EN#285043/other trees] .
+[/EN#285038/animals Two cocker spaniels] running through [/EN#285041/scene the grass] .
+[/EN#285040/animals The two dogs] are running through [/EN#285041/scene the grass] .
+[/EN#285040/animals Two dogs] are running through [/EN#285041/scene a green yard]

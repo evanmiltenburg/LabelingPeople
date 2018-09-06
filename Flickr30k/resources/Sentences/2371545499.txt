@@ -1,0 +1,5 @@
+[/EN#44692/people A blond child] dressed in [/EN#44695/clothing red clothes] and [/EN#44694/clothing a blue helmet] hangs [/EN#44697/bodyparts their head] over [/EN#44696/vehicles the handlebars of a blue bicycle] .
+[/EN#44692/people A little girl] wearing [/EN#44694/clothing a decorated helmet] is slumped over [/EN#44693/vehicles a small two-wheel bike] .
+[/EN#44692/people A child] in [/EN#44695/clothing a red jumpsuit] and [/EN#44694/clothing blue helmet] riding [/EN#44693/vehicles a bike] .
+[/EN#44692/people A person] dressed in [/EN#44695/clothing red] is leaning over [/EN#44693/vehicles their bicycle] .
+[/EN#44692/people A child] in [/EN#44695/clothing a red jumpsuit] is bending over [/EN#44693/vehicles a bicycle] .

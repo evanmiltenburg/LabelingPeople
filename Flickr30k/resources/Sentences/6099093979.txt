@@ -1,0 +1,5 @@
+[/EN#247980/people A woman] is sitting on [/EN#247985/other some stairs] outside with [/EN#247987/other several baskets] filled with [/EN#247983/other craft items] and [/EN#247982/other miniature dolls] at [/EN#247988/bodyparts her feet] and next to [/EN#0/notvisual her] for [/EN#247986/other sale] .
+[/EN#247980/people A woman] is sitting on [/EN#247985/other the steps] looking at [/EN#247981/other a collection of trinkets] .
+[/EN#247980/people Woman] and [/EN#247984/animals dog] selling [/EN#247983/other her wares] on [/EN#247985/other the old building steps] outside .
+[/EN#247980/people A woman] sits in [/EN#247989/scene a market] where [/EN#0/notvisual she] sells [/EN#247983/other goods] with [/EN#247984/animals her dog] .
+[/EN#247980/people Woman] in [/EN#247990/clothing white dress] selling [/EN#247983/other items] on [/EN#247985/other the stairs] .

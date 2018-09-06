@@ -1,0 +1,5 @@
+[/EN#218696/people A man] in [/EN#218700/clothing blue jeans] and [/EN#218698/clothing hat] is sitting [/EN#218701/scene outdoors] on [/EN#218697/other a bench] .
+[/EN#218696/people A man] in [/EN#218698/clothing a black baseball cap] is sitting on [/EN#218697/other a bench] .
+[/EN#218696/people A man] in [/EN#218699/clothing a black shirt] sitting on [/EN#218697/other a park bench] .
+[/EN#218696/people A man] in [/EN#218698/clothing a blue hat] sits on [/EN#218697/other a bench] .
+[/EN#218696/people A man] sits alone on [/EN#218697/other a bench] .

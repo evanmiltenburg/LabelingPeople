@@ -1,0 +1,5 @@
+[/EN#81365/people The arm of a swimmer] rises from [/EN#81363/scene the water] inside [/EN#81362/other the striped lane marker] .
+[/EN#81361/people A swimmer] is doing [/EN#81364/other the backstroke] in [/EN#81363/scene the swimming pool] .
+[/EN#81361/people a person] doing [/EN#81364/other the backstroke] in [/EN#81363/scene a swimming pool]
+[/EN#81361/people Swimmer] does backstroke in [/EN#81362/other swimming lane] .
+[/EN#81361/people A person] swimming in [/EN#81363/scene a swimming pool] .

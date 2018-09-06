@@ -1,0 +1,5 @@
+[/EN#20364/people A man] wearing [/EN#20365/clothing a suit] stands on [/EN#20366/scene the street] with [/EN#20367/bodyparts his right hand] outstretched .
+[/EN#20364/people A man] in [/EN#20365/clothing a dark suit] standing in front of [/EN#20369/scene a metal fence] on [/EN#20366/scene the sidewalk] .
+[/EN#20364/people A balding , white man] is standing outside with [/EN#20367/bodyparts his hand] in [/EN#0/notvisual the air] .
+[/EN#20364/people A man] is throwing [/EN#20368/other something] into [/EN#20366/scene the road] .
+[/EN#20364/people A man] tossing [/EN#20368/other trash] to [/EN#0/notvisual the side] .

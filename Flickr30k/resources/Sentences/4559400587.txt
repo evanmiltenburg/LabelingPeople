@@ -1,0 +1,5 @@
+[/EN#178520/people A man] dressed in [/EN#178521/clothing orange] and [/EN#178529/clothing purple] stands with [/EN#178526/bodyparts his hands] above [/EN#178527/bodyparts his head] at [/EN#178525/scene a park] .
+[/EN#178520/people A man] stretching [/EN#178528/bodyparts his torso] in [/EN#178523/other an outdoor exercise facility] .
+[/EN#178520/people A man] in [/EN#178521/clothing an orange shirt] is stretching outside .
+[/EN#178520/people A man] stretching in [/EN#178524/other an urban environment] .
+[/EN#178520/people a person] is standing on [/EN#0/notvisual the ground] .

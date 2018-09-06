@@ -1,0 +1,5 @@
+[/EN#243310/people A woman] wearing [/EN#243312/clothing a red tank top] is lifting [/EN#243313/other two dumbbells] at [/EN#243311/scene the gym] .
+[/EN#243310/people A woman] in [/EN#243312/clothing a red top] lifts [/EN#243313/other dumbbells] above [/EN#243315/bodyparts her head] in [/EN#243311/scene a gym] .
+[/EN#243310/people A woman] is doing [/EN#243313/other inclined dumbbell presses] at [/EN#243311/scene a gym] .
+[/EN#243310/people A woman] in [/EN#243314/scene lift] much more than [/EN#0/notvisual she] possibly can .
+[/EN#243310/people The lady] at [/EN#243311/scene the gym] is lifting [/EN#243313/other weights] .

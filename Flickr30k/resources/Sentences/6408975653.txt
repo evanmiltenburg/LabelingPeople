@@ -1,0 +1,5 @@
+[/EN#254000/people A person] in [/EN#254004/clothing a white hooded shirt] is sitting in [/EN#254002/other a chair] near [/EN#254001/scene a body of water] and [/EN#0/notvisual there] are [/EN#254006/scene buildings] in [/EN#0/notvisual the background] .
+[/EN#254000/people One man] , wearing [/EN#254004/clothing a hooded sweatshirt] , sitting at [/EN#254001/scene a fountain] watching [/EN#254008/scene the people of the city] .
+[/EN#254000/people A person] wearing [/EN#254004/clothing a white hoodie] gazes across [/EN#254003/scene the water] at [/EN#254005/other the Washington Monument] during [/EN#254007/other dusk] .
+[/EN#254000/people A person] in [/EN#254004/clothing a white sweatshirt] is sitting in [/EN#254002/other a chair] near [/EN#254001/scene a pond] and [/EN#254005/other monument] .
+[/EN#254000/people A man] in [/EN#254004/clothing a white hoodie] relaxes in [/EN#254002/other a chair] by [/EN#254003/scene a fountain] .

@@ -1,0 +1,5 @@
+[/EN#220659/people A lady] wearing [/EN#220660/clothing a Batman shirt] is walking along [/EN#220662/scene the boardwalk] .
+[/EN#220659/people The lady] wearing [/EN#220664/scene a batman tee] is walking along [/EN#220665/scene the beach] .
+[/EN#220659/people A woman] in [/EN#220660/clothing a black Batman shirt] walking near [/EN#220663/scene the ocean] .
+[/EN#220659/people A woman] in [/EN#220660/clothing a batman shirt] walks down [/EN#220661/scene the boardwalk] .
+[/EN#220659/people A woman] walking along [/EN#220661/scene a boardwalk] .

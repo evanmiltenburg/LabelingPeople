@@ -1,0 +1,5 @@
+[/EN#20890/people A man] in [/EN#20895/clothing a white tank shirt] holds [/EN#20891/other a laptop] while sitting next to [/EN#20897/people a white column] with [/EN#20893/other a statue] on top of [/EN#0/notvisual it] .
+[/EN#20890/people A man] in [/EN#20895/clothing a white tank top] using [/EN#20891/other a laptop] sitting next to [/EN#20894/other a tall pillar] with [/EN#20893/other a statue] on top of [/EN#0/notvisual it] .
+[/EN#20890/people A young man] in [/EN#20895/clothing a white tank top] views [/EN#20891/other a laptop] on [/EN#20896/other a stone bench] .
+[/EN#20890/people A man] in [/EN#20895/clothing a white tank top] sitting down looking at [/EN#20891/other a laptop] .
+[/EN#20890/people A man] in [/EN#20898/other white shit] uses [/EN#20891/other laptop nest] to [/EN#20892/other a large monument] .

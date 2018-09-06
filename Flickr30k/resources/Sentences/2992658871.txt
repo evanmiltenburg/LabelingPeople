@@ -1,0 +1,5 @@
+[/EN#86050/people A man] in [/EN#86055/clothing a white helmet] and [/EN#86052/other green shirt grinds] on [/EN#86051/other his rollerblades] .
+[/EN#86050/people A guy] in [/EN#86052/clothing green] is rollerskating on [/EN#86054/other a narrow strip] .
+[/EN#86050/people A man] in [/EN#86052/clothing a green shirt] is skating on [/EN#86053/other a railing] .
+[/EN#86050/people A man] rollerblading on [/EN#86054/scene a metal bar] .
+[/EN#86051/other Rollerblades] sliding on [/EN#86053/other a railing] .

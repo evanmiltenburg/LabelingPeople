@@ -1,0 +1,5 @@
+[/EN#41412/people Three people] are standing on [/EN#41413/scene a hill] [/EN#0/notvisual that] is partly covered in [/EN#41418/scene snow] .
+[/EN#41412/people Three people] in [/EN#41414/clothing dark clothing] stand in [/EN#41418/scene a field of melting snow] .
+[/EN#41412/people Three young men] standing on [/EN#0/notvisual partially snow-covered ground]
+[/EN#41412/people three people] standing on [/EN#41413/scene the side of a snowy grassy hill]
+[/EN#41415/people Two boys] watch [/EN#41416/people a third boy] kicking [/EN#41418/scene some snow] .

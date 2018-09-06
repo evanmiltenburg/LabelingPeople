@@ -1,0 +1,5 @@
+[/EN#125885/people A man] in [/EN#125888/clothing a white shirt] and [/EN#125889/clothing black pants] is walking next to [/EN#125884/vehicles/scene a parked blue bus] .
+[/EN#125884/vehicles/scene Blue bus] parked with [/EN#125890/other back door] opened as [/EN#125885/people man] in [/EN#125888/clothing white shirt] walk by [/EN#0/notvisual it] .
+[/EN#125885/people A man] in [/EN#125888/clothing a white shirt] is walking by [/EN#125884/vehicles/scene a large blue bus] .
+[/EN#125884/vehicles/scene A blue bus] is parked on [/EN#125886/scene the street] , [/EN#125885/people a man] walks by .
+[/EN#125884/vehicles/scene A tour bus] parked in [/EN#125887/scene a park] .

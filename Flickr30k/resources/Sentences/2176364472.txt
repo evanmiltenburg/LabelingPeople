@@ -1,0 +1,5 @@
+[/EN#32430/animals The large , dark colored dog] is doing [/EN#32432/other a climbing stunt] [/EN#32437/scene outdoors] , while [/EN#32433/people a man] watches .
+[/EN#32430/animals A brown dog] is running down [/EN#32435/other a slope] while [/EN#32433/people a man] follows beside [/EN#0/notvisual him] .
+[/EN#32430/animals A brown lab dog] runs over [/EN#32431/other an obstacle] on [/EN#32434/other a course] .
+[/EN#32430/animals A brown dog] is on top of [/EN#32431/other a triangular structure] .
+[/EN#32430/animals Brown dog] runs down [/EN#32431/scene ramp] .

@@ -1,0 +1,5 @@
+[/EN#208116/other A figure] is climbing up [/EN#208118/other a rock] while [/EN#208117/people people] on [/EN#208121/other the grond] watch .
+[/EN#208116/people A person] climbs [/EN#208118/bodyparts a cliff face] in [/EN#208124/other the woods] while [/EN#208119/other others] watch .
+[/EN#208117/people People] are watching [/EN#208116/people a man] [/EN#0/notvisual who] is climbing on [/EN#208118/bodyparts a rock face] .
+[/EN#208116/people A climber] scales [/EN#208118/scene a cliff] as [/EN#208119/other others] watch .
+[/EN#208116/people A woman] is rock climbing

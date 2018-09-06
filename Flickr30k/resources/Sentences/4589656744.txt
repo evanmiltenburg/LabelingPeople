@@ -1,0 +1,5 @@
+[/EN#180963/people A man] with [/EN#180968/bodyparts gray hair] combed back , [/EN#180964/clothing a blue plaid shirt] and [/EN#180972/clothing jeans] , is smoking [/EN#180966/other a cigarette] .
+[/EN#180963/people A man] in [/EN#180964/clothing a plaid shirt] is smoking [/EN#180967/other a cigarette] on [/EN#180969/scene a city street] .
+[/EN#180963/people A man] with [/EN#180968/bodyparts gray hair] and [/EN#180964/clothing a plaid shirt] is smoking [/EN#180967/other a cigarette] .
+[/EN#180963/people A older man] walking by [/EN#180970/scene a restaurant] , smoking [/EN#180967/other a cigarette] .
+[/EN#180963/people A man] on [/EN#180965/other a cellphone] stands in front of [/EN#180971/scene a restaurant] .

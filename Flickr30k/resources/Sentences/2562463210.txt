@@ -1,0 +1,5 @@
+[/EN#58214/people a boy] with [/EN#58215/clothing spiderman armbands] is in [/EN#58216/scene the swimming pool] by [/EN#58219/other the wall] at [/EN#58217/scene the edge] .
+[/EN#58214/people A young boy] wearing [/EN#58215/clothing Spider-Man water-wings] at [/EN#58217/scene the edge of the pool] .
+[/EN#58214/people A boy] in [/EN#58216/scene a pool] wearing [/EN#58215/clothing Spiderman floaties] .
+[/EN#58214/people A boy] with [/EN#58218/other spiderman] swimming is in [/EN#58216/scene a pool] .
+[/EN#58214/people The boy] is in [/EN#58216/scene the swimming pool] .

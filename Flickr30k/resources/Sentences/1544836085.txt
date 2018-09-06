@@ -1,0 +1,5 @@
+[/EN#16001/people Two people] are looking at [/EN#16002/other something] on [/EN#0/notvisual the ground] that [/EN#16007/other one] is scraping carefully .
+[/EN#16001/people Two men] trying to scrape [/EN#16004/other the cement] from [/EN#16003/scene the floor] to level [/EN#0/notvisual it] .
+[/EN#16001/people Two men] are using [/EN#16006/other hand tools] to dig up [/EN#0/notvisual the ground] .
+[/EN#16001/people Two men] inside [/EN#16005/scene a tent] are examining [/EN#16003/scene the floor] .
+[/EN#16001/people Two people] search for [/EN#16002/other objects] in [/EN#16008/scene the dirt] .

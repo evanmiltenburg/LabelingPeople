@@ -1,0 +1,5 @@
+[/EN#199477/people A young man] is sitting on [/EN#199483/other a train platform] waiting to clean [/EN#199486/clothing shoes] for [/EN#199485/other money] .
+[/EN#199477/people An indian man] wearing [/EN#199480/clothing a blue shirt] is sitting by [/EN#199481/other a pole] at [/EN#199478/scene a train station] .
+[/EN#199477/people A man] sitting on [/EN#0/notvisual the ground] in [/EN#199484/other a train situation] .
+[/EN#199479/other A shoeshine] sitting in [/EN#199478/scene a train station] .
+[/EN#199477/people A man] sits on [/EN#0/notvisual the ground] under [/EN#199482/other a sign] .

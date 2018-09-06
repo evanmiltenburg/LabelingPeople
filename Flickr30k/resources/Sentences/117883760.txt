@@ -1,0 +1,5 @@
+[/EN#4573/other A Mac laptop] , open , on top of [/EN#4575/other a blue chair] in [/EN#4579/scene a room] with [/EN#4574/people a group of people] sitting in [/EN#4577/other a semicircle] around [/EN#0/notvisual it] .
+[/EN#4574/people A group of people] in [/EN#4580/clothing business casual clothes] sitting on [/EN#4576/other blue chairs] arranged in [/EN#4577/other a circle] around [/EN#4573/other a laptop] .
+[/EN#4574/people Group of people] sitting in [/EN#4577/other a circle] , with [/EN#4573/other a laptop] in [/EN#4578/scene the middle]
+[/EN#4574/people People] sitting in [/EN#4577/other a circle] with [/EN#4573/other a book] in [/EN#4578/scene the middle] .
+[/EN#4574/people Group] counseling [/EN#4577/other session] listening to [/EN#4573/other computer] .

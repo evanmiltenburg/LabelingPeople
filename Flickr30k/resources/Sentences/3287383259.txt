@@ -1,0 +1,5 @@
+[/EN#107083/people A woman] with [/EN#107086/bodyparts long red-hair] stapling [/EN#107085/other a small stack of papers] .
+[/EN#107083/people A woman] with [/EN#107086/bodyparts red-hair] stapling [/EN#107085/other some paper] together .
+[/EN#107083/people A woman] with [/EN#107086/bodyparts red-hair] stapling [/EN#107084/other a piece of paper] .
+[/EN#107083/people A woman] with [/EN#107087/other red-hair staples] [/EN#107084/other some papers]
+[/EN#107083/people A woman] with [/EN#107086/bodyparts red-hair] is stapling [/EN#107084/other paper] .

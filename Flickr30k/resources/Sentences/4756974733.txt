@@ -1,0 +1,5 @@
+[/EN#199424/people A man] wearing [/EN#199431/clothing a long-sleeved white shirt] and [/EN#199436/clothing pink necktie] , and [/EN#199425/people a woman] wearing [/EN#199427/clothing a white blouse] and [/EN#199435/clothing black skirt] walk next to [/EN#199426/other a cinder block wall] .
+[/EN#199425/people A woman] and [/EN#199424/people a man] both dressed in [/EN#199433/clothing black and white] are walking down [/EN#199432/scene a side street] next to [/EN#199426/other a concrete wall] topped with [/EN#199429/other barbed wire] .
+[/EN#199425/people A woman] and [/EN#199424/people Man] walking in [/EN#199438/clothing white shirts] and [/EN#199434/clothing black bottoms] on [/EN#199437/scene their way] to work
+[/EN#199424/people A man] and [/EN#199425/people a woman] in [/EN#199428/clothing suits] are walking in front of [/EN#199426/other a wall] .
+[/EN#199430/people People] walking past [/EN#199426/other a wall] topped with [/EN#199429/other razor wire] .

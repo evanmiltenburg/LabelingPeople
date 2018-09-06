@@ -1,0 +1,5 @@
+[/EN#34296/people A lady] with [/EN#34304/bodyparts long hair] and [/EN#34299/clothing a hat] walks down [/EN#34297/scene a sloping sidewalk] paved with [/EN#34300/other stone] .
+[/EN#34296/people A woman] in [/EN#34298/clothing a gray suit] and wearing [/EN#34299/clothing a hat] is walking by [/EN#34300/other a stone wall] .
+[/EN#34296/people A woman] in [/EN#34298/clothing a gray jacket] and [/EN#34303/clothing skirt] , walks on [/EN#34297/scene a brick path] .
+[/EN#34296/people Woman] in [/EN#34302/clothing gray suit] walks downhill on [/EN#34297/other cobblestones] .
+[/EN#34296/people a woman] walking down [/EN#34297/scene a cobblestone path] .

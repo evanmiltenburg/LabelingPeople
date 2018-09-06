@@ -1,0 +1,5 @@
+[/EN#226120/people A man] waits at [/EN#226124/other subway station platform] for [/EN#226122/vehicles/scene subway] to arrive .
+[/EN#226120/people The man] in [/EN#226125/clothing the white shirt] is waiting for [/EN#226122/vehicles/scene the train] to stop .
+[/EN#226120/people A solitary passenger] stands on [/EN#226121/scene a subway station] .
+[/EN#226123/people A few people] waiting at [/EN#226122/vehicles/scene the subway] .
+[/EN#226121/vehicles/scene The passenger train] is arriving .

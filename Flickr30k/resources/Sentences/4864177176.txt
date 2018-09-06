@@ -1,0 +1,5 @@
+[/EN#212682/people A little boy] in [/EN#212684/clothing a black shirt] is carrying [/EN#212683/clothing a blue bag] in [/EN#0/notvisual back of him] and [/EN#212685/other a teal bucket] in front of [/EN#0/notvisual him] .
+[/EN#212682/people A middle eastern boy] is wearing [/EN#212684/clothing a black shirt] and carrying [/EN#212683/clothing a blue bag] and [/EN#212685/other a blue bucket] .
+[/EN#212682/people A boy] in [/EN#212684/clothing a black shirt] carries [/EN#212685/other a blue bucket] while walking with [/EN#212687/people men] dressed in [/EN#212688/clothing white] .
+[/EN#212682/people A boy] dressed in [/EN#212684/clothing a dark shirt] carries [/EN#212683/clothing a blue bag] over [/EN#212689/bodyparts his shoulder] and [/EN#212685/other a green pail] .
+[/EN#212682/people A child] carries [/EN#212683/clothing a bag] and [/EN#212685/other a bucket] through [/EN#212690/scene the street] .

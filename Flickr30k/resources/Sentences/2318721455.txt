@@ -1,0 +1,5 @@
+[/EN#41314/people A boy] in [/EN#41316/clothing a diaper] jumps onto [/EN#41315/other a bed] with [/EN#41320/other a striped covering] and [/EN#41321/other red pillow] in [/EN#41317/scene a room] with [/EN#41318/other toys] and [/EN#41319/other a chair] .
+[/EN#41314/people A child] leaping onto [/EN#41315/other a bed] in [/EN#41317/scene a room] with [/EN#41318/other toys] on [/EN#41322/scene the floor] .
+[/EN#41314/people A boy] in [/EN#41316/clothing a diaper] jumping onto [/EN#41315/other a couch] .
+[/EN#41314/people Young boy] jumping on to [/EN#41315/other his bed] .
+[/EN#41314/people A child] jumps onto [/EN#41315/other a bed] .

@@ -1,0 +1,5 @@
+[/EN#152502/people A woman] wearing [/EN#152507/clothing a vertical striped top] , sitting on [/EN#152503/other a bench] beside [/EN#152509/scene a telephone booth] in [/EN#152504/scene a train station] .
+[/EN#152502/people A woman] sits on [/EN#152503/other a bench] next to [/EN#152506/other a pay phone] and [/EN#152512/scene faces train tracks] and [/EN#152505/scene a large building] .
+[/EN#152502/people A woman] in [/EN#152507/clothing a striped blouse] sits on [/EN#152503/other a bench] and waits for [/EN#152510/vehicles/scene a train] .
+[/EN#152502/people A girl] in [/EN#152507/clothing a striped blouse] sits on [/EN#152503/other a bench] near [/EN#152506/other a pay phone] .
+[/EN#152502/people A woman] waiting at [/EN#152511/other a train stop] next to [/EN#152508/other a pay phone] .

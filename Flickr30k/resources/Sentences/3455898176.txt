@@ -1,0 +1,5 @@
+[/EN#119472/animals A large tri-colored dog] clears [/EN#0/notvisual a green , yellow and white jump] set up in [/EN#119473/scene the grass] .
+[/EN#119472/animals Brown dog] jumping over [/EN#119476/scene a bar] on [/EN#119473/scene a grassy field] .
+[/EN#119472/animals A brown dog] jumping over [/EN#119475/other an obstacle hurdle] .
+[/EN#119472/animals Brown dog] jumping over [/EN#119474/other a hurdle] .
+[/EN#119472/animals A dog] jumps over [/EN#119475/other a hurdle] .

@@ -1,0 +1,5 @@
+[/EN#197808/people A man] with [/EN#197814/clothing no shirt] on is washing [/EN#197812/clothing his shirt] in [/EN#197810/scene the fountain] in [/EN#197815/scene the middle of a park] .
+[/EN#197808/people A shirtless man] is washing [/EN#197816/other something] in [/EN#197810/scene a street fountain] .
+[/EN#197808/people A man] in [/EN#197813/clothing khaki pants] holding [/EN#197812/clothing his shirt] in [/EN#197810/scene a fountain] .
+[/EN#197808/people A man] is holding [/EN#197812/clothing his shirt] into [/EN#197810/scene a fountain] in [/EN#197811/scene a park] .
+[/EN#197808/people A man] washing [/EN#197812/clothing his shirt] , in [/EN#197810/scene a fountain] in [/EN#197811/scene a park] .

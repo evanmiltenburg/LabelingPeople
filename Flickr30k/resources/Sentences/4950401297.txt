@@ -1,0 +1,5 @@
+[/EN#222268/people A man] in [/EN#222274/clothing a blue outfit] rides [/EN#222272/vehicles a hang glider] high over [/EN#222269/scene a neighborhood of houses] .
+[/EN#222268/people A person] flying [/EN#222272/vehicles a hang glider] over [/EN#222270/scene a city] .
+[/EN#222268/people A man] glides over [/EN#222270/scene a green suburban area] .
+[/EN#222268/people A man] hang [/EN#222275/other glides] over [/EN#222273/scene the countryside] .
+[/EN#222268/people a man] hang gliding high above [/EN#0/notvisual the ground]

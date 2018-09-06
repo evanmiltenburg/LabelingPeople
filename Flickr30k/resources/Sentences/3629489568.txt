@@ -1,0 +1,5 @@
+[/EN#132634/people Many people] are sitting in [/EN#132636/other a street side cafe] at [/EN#132637/other red clothed tables] in front of [/EN#132635/scene a tall old building] with [/EN#132639/scene arches] and [/EN#132642/other statues] .
+[/EN#0/notvisual There] is [/EN#132636/other a cafe] on [/EN#132640/scene a street corner] with [/EN#132638/other an oval painting] on [/EN#132643/scene the corner of its building] .
+[/EN#132634/people Many people] sit at [/EN#132637/other tables] outside [/EN#132635/scene a tan building] [/EN#0/notvisual that] has [/EN#132641/other green shutters] .
+[/EN#132634/people A group of people] are sitting at [/EN#132637/other tables] in front of [/EN#132635/scene a building] .
+[/EN#132634/people A crowd of people] sit outside to eat .

@@ -1,0 +1,5 @@
+[/EN#45538/people A woman] in [/EN#45540/clothing a blue sweater] , looks out of [/EN#45545/vehicles the window of a public transportation vehicle] .
+[/EN#45538/people A woman] in [/EN#45540/clothing a blue shirt] is sitting in [/EN#45537/vehicles/scene a bus] while [/EN#45541/people a man] with [/EN#45539/clothing a backpack] stands .
+[/EN#45537/vehicles/scene A bus] with [/EN#45542/people passengers] , [/EN#0/notvisual one of them] wearing [/EN#45539/clothing a yellow backpack] .
+[/EN#45538/people A bus rider] wearing [/EN#45540/clothing a blue shirt] looks out of [/EN#45543/other the window] .
+[/EN#45538/people A woman] in [/EN#45540/clothing a blue top] is sitting on [/EN#45537/vehicles/scene a bus] .

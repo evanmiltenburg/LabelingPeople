@@ -1,0 +1,5 @@
+[/EN#163056/other A sports match] is taking [/EN#163059/scene place] between [/EN#163052/people one team] wearing [/EN#163055/clothing the colors red and white] and [/EN#163050/people another team] sporting [/EN#163057/other the colors] black and blue .
+[/EN#163051/people A group of soccer players] on [/EN#163054/scene a field] , [/EN#163053/people one team] wearing [/EN#163060/clothing black and blue uniforms] , [/EN#163055/clothing the other , red and white] .
+[/EN#163050/people The black shirted team] are celebrating with [/EN#0/notvisual one another] .
+[/EN#163050/people A group of soccer players] are celebrating on [/EN#163054/scene the field] .
+[/EN#163053/people A soccer team] celebrates .

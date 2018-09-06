@@ -1,0 +1,5 @@
+[/EN#256067/people A cyclist] in [/EN#256072/clothing a red , yellow and black uniform] , including [/EN#256070/clothing a helmet] is performing [/EN#0/notvisual a trick] on [/EN#256068/vehicles his bike] .
+[/EN#256067/people A person] in [/EN#256072/clothing a multicolored suit] and [/EN#256070/clothing helmet] is performing [/EN#0/notvisual a jump] with [/EN#256068/vehicles a bike] in [/EN#256073/scene a dull colored yard] .
+[/EN#256067/people A BMX bike rider] in [/EN#256072/clothing red clothing] and [/EN#256070/clothing a helmet] is riding [/EN#256068/vehicles his bike] next to [/EN#256069/scene a wooden fence] .
+[/EN#256067/people A BMX biker] is [/EN#256076/scene midair] in [/EN#256074/other a stunt] with [/EN#256077/scene the ocean] in [/EN#0/notvisual the background] .
+[/EN#256067/people A BMXer] biking off of [/EN#256069/other ballets] leaned up against [/EN#256069/scene a fence] .

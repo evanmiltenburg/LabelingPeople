@@ -1,0 +1,5 @@
+[/EN#225337/people A man] with [/EN#225341/other a cigarette] hanging out of [/EN#225343/bodyparts his mouth] rides [/EN#225345/other a blue motorcycle] in front of [/EN#225348/other others] on [/EN#225347/other motorcycles] .
+[/EN#225337/people A man] with [/EN#225341/other a cigarette] in [/EN#225343/bodyparts his mouth] is riding [/EN#225346/vehicles a green scooter] on [/EN#225339/scene the grass] .
+[/EN#225340/people Three men] are riding [/EN#225344/vehicles scooters] down [/EN#225342/scene the street] .
+[/EN#225338/people A street scene of people] on [/EN#225344/vehicles scooters] .
+[/EN#225340/people People] riding [/EN#225344/vehicles mopeds] down [/EN#225342/scene the street] .

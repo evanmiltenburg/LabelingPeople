@@ -1,0 +1,5 @@
+[/EN#30026/people A man] grilling [/EN#30028/other meats] and [/EN#30029/other mushrooms] on [/EN#30027/other a grill] .
+[/EN#30026/people A man] cooking [/EN#30028/other burgers] on [/EN#30027/other a black grill] .
+[/EN#30026/people A man] grilling outside [/EN#30030/scene his house] .
+[/EN#30026/people The man] is cooking on [/EN#30027/other the barbecue] .
+[/EN#30026/people A man] cooking on [/EN#30027/other a grill] .

@@ -1,0 +1,5 @@
+[/EN#38694/animals A tri-colored dog] wearing [/EN#38697/clothing a green collar] and [/EN#38698/clothing a purple harness] is shaking [/EN#38700/bodyparts its body] .
+[/EN#38694/animals A black and white dog] wearing [/EN#38699/clothing collars] shakes off on [/EN#38695/scene the dead grass] .
+[/EN#38694/animals A white and brown dog] shakes off [/EN#38694/scene water] .
+[/EN#38694/animals A dog] shakes [/EN#38694/scene water] off of [/EN#0/notvisual himself] .
+[/EN#38694/animals A big dog] shakes [/EN#38695/scene dry grass] off .

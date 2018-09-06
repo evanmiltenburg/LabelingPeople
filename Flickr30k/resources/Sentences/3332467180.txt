@@ -1,0 +1,5 @@
+[/EN#110154/people The man] is lighting [/EN#110156/other a cigarette] outside [/EN#110155/scene the back of a building] .
+[/EN#110154/people A man] in [/EN#110160/clothing a white restaraunt shirt] smokes next to [/EN#110157/other a dumpster] .
+[/EN#110154/people A man] lights [/EN#110156/other a cigarette] on [/EN#110157/scene a loading dock] near [/EN#110157/other a dumpster] .
+[/EN#110154/people a man] lighting [/EN#110156/other a cigarette] near [/EN#110157/other a dumpster] in [/EN#110159/people an ally] .
+[/EN#110154/people A man] is lighting [/EN#110156/other a smoke] outside of [/EN#110155/scene a building] .

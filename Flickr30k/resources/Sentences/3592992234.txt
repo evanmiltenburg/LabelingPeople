@@ -1,0 +1,5 @@
+[/EN#130139/people A man] in [/EN#130142/clothing a white shirt] walks in [/EN#130140/scene the tall grass] holding [/EN#130141/other a stick] .
+[/EN#130139/people Man] near [/EN#130143/scene golf course] preparing to throw [/EN#130141/other a stick]
+[/EN#130139/people A man] with [/EN#130141/other a stick] in [/EN#130145/bodyparts his left hand] in [/EN#130140/scene a field]
+[/EN#130139/people A man] is walking in [/EN#130140/scene a field] carrying [/EN#130141/other a stick] .
+[/EN#130139/people A man] in [/EN#130142/clothing a white shirt] swinging [/EN#130141/other a stick]

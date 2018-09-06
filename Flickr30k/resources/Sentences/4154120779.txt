@@ -1,0 +1,5 @@
+[/EN#157301/people a dark-haired latino boy] in [/EN#157305/clothing jeans] running past [/EN#157303/other a wall] covered with [/EN#157304/other graffiti]
+[/EN#157301/people A young boy] runs towards [/EN#157303/other a wall] [/EN#0/notvisual that] 's been littered with [/EN#157302/other graffiti] .
+[/EN#157301/people Young boy] running in front of [/EN#157303/other a wall] with [/EN#157304/other graffiti] .
+[/EN#157301/people A young boy] runs past [/EN#157302/other a graffiti covered wall] .
+[/EN#157301/people A child] running near [/EN#157304/other graffiti] .

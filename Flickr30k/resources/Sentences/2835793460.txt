@@ -1,0 +1,5 @@
+[/EN#75729/people A young women] , in [/EN#75735/clothing a black shirt] , is holding [/EN#75732/vehicles a bike] , while [/EN#75730/people a young boy] is holding [/EN#75734/other a skateboard] .
+[/EN#75729/people A lady] putting [/EN#75732/vehicles her bike] on [/EN#75733/scene the sidewalk] as [/EN#75730/people a guy] carries [/EN#75734/other his skateboard] onto [/EN#75733/scene the same sidewalk] .
+[/EN#75730/people A skateboarder] is talking to [/EN#75729/people a young girl] [/EN#0/notvisual who] is trying to pull [/EN#75732/vehicles her bike] away from [/EN#0/notvisual him] .
+[/EN#75729/people A young woman] holds [/EN#75732/vehicles her friend 's bicycle] for [/EN#0/notvisual him] while [/EN#0/notvisual he] pulls out [/EN#75734/other his skateboard] .
+[/EN#75729/people A woman] holding [/EN#75732/vehicles a bicycle] and [/EN#75730/people a boy] holding [/EN#75734/other a skateboard] near [/EN#75733/scene a sidewalk] .

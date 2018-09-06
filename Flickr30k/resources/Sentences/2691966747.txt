@@ -1,0 +1,5 @@
+[/EN#66455/animals The white dog] emerges from [/EN#66456/scene the tunnel] on [/EN#66457/other the course] .
+[/EN#66455/animals The small white dog] is coming out of [/EN#66456/scene a blue tunnel] .
+[/EN#66455/animals A white dog] runs out of [/EN#66456/scene a long blue tube outside] .
+[/EN#66455/animals A white dog] runs through [/EN#66456/other a large blue tube] .
+[/EN#66455/animals A white dog] coming out of [/EN#66456/scene a blue tunnel] .

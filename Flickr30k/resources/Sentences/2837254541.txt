@@ -1,0 +1,5 @@
+[/EN#75866/people A woman] with [/EN#75868/clothing a red shirt] and [/EN#75867/bodyparts a large tattoo] on [/EN#75871/bodyparts/people her arm] is playing [/EN#75869/instruments a saxaphone] .
+[/EN#75866/people A woman] in [/EN#75868/clothing a red shirt] is playing [/EN#75869/instruments a saxophone] in front of [/EN#75872/other a microphone] .
+[/EN#75866/people A woman] is playing [/EN#75869/instruments saxophone] while [/EN#75870/people a crowd] listens .
+[/EN#75866/people A woman] with [/EN#75867/bodyparts a tattoo] is playing [/EN#75869/instruments the saxophone] .
+[/EN#75866/people A woman] in [/EN#75868/clothing a red shirt] playing [/EN#75869/instruments the saxophone] .

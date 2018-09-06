@@ -1,0 +1,5 @@
+[/EN#2881/people A toddler] sitting on [/EN#2882/other a pile of rocks] holding [/EN#2883/other a rock] at [/EN#2884/scene a beach] .
+[/EN#2881/people A baby] is sitting on and playing with [/EN#2882/other smooth rocks] .
+[/EN#2881/people A baby] is stacking [/EN#2882/other rocks] on [/EN#2884/scene the beach] .
+[/EN#2881/people A small boy] is playing with [/EN#2882/other rocks]
+[/EN#2881/people Toddler] sits on [/EN#2882/other a pile of rocks] .

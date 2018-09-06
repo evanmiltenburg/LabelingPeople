@@ -1,0 +1,5 @@
+[/EN#109911/people A snowboarder] is riding down [/EN#109912/scene a ramp] amidst [/EN#109914/scene snow] .
+[/EN#109911/people A snowboarder] prepares to go over [/EN#109912/scene a ramp] .
+[/EN#109915/other Snowboarding practice] on [/EN#109914/other a snowy hillside]
+[/EN#109911/people A man] on [/EN#109916/other a snowboard] is grinding [/EN#109912/scene a ramp] .
+[/EN#109911/people a skier] on [/EN#0/notvisual a snowy ski jump]

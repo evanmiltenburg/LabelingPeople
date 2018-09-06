@@ -1,0 +1,5 @@
+[/EN#240174/people An older man] in [/EN#240177/clothing a white apron] prepares [/EN#240175/scene food outside] on [/EN#240175/other the grill] .
+[/EN#240174/people A man] in [/EN#240177/clothing a white apron] is grilling on [/EN#240175/scene a grill outside] .
+[/EN#240174/people A man] cooking is cooking on [/EN#240175/other his barbecue] .
+[/EN#240174/people A man] in [/EN#240177/clothing a white apron] cutting [/EN#240178/other meat] .
+[/EN#240174/people A man] is chopping up [/EN#240179/animals a roast pig] .

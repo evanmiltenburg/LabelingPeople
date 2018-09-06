@@ -1,0 +1,5 @@
+[/EN#73969/people A man] in [/EN#73970/clothing a green protective apron] is using [/EN#73971/other a weed-eater] .
+[/EN#73969/people A man] in [/EN#73970/clothing a long green apron] , weed whacking [/EN#73972/scene the grass] .
+[/EN#73969/people A worker] is mowing [/EN#73973/scene a yard] with [/EN#73971/other a weed whacker] .
+[/EN#73969/people A man] in [/EN#73970/clothing a log coat] edging [/EN#0/notvisual the grounds] .
+[/EN#73969/people A man] cuts [/EN#73972/scene grass] with [/EN#73971/other a lawn trimmer] .

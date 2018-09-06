@@ -1,0 +1,5 @@
+[/EN#93191/people A person] wearing [/EN#93192/clothing a black wetsuit] jumps high above [/EN#93193/scene a wave] with [/EN#93194/other a surfboard] .
+[/EN#93191/people A surfer] on [/EN#93194/other a red surfboard] jumps over [/EN#93193/scene a high wave] in [/EN#93195/scene the ocean] .
+[/EN#93191/people A man] wearing [/EN#93192/clothing a black wetsuit] is surfing in [/EN#93195/scene the water] .
+[/EN#93191/people A person] on [/EN#93194/other a surfboard] riding [/EN#93193/scene a wave]
+[/EN#93191/people A man] rides [/EN#93193/scene a wave] on [/EN#93194/other a surfboard] .

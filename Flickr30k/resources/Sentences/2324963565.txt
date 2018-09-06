@@ -1,0 +1,5 @@
+[/EN#41740/people A woman] wearing [/EN#41741/clothing a green hooded sweatshirt] picking [/EN#41743/other food] from [/EN#41744/other the bin] .
+[/EN#41740/people A woman] taking [/EN#41743/other candy] off of [/EN#41742/other a shelf] and putting [/EN#0/notvisual it] in [/EN#41745/other a box] .
+[/EN#41740/people A lady] wearing [/EN#41741/clothing a green sweater] is putting [/EN#41743/other candy] on [/EN#41742/other a shelf] .
+[/EN#41740/people A woman] reaching for [/EN#41746/scene candy bars] [/EN#0/notvisual that] are on [/EN#41742/other a shelf] .
+[/EN#41740/people A woman] in [/EN#41741/clothing green] is picking out [/EN#41743/other candy] .

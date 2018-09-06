@@ -1,0 +1,5 @@
+[/EN#187988/people A woman] in [/EN#187992/clothing a blue shirt] , [/EN#187993/clothing brown pants] , and [/EN#187998/clothing green flip-flops] crouches in front of [/EN#187989/people a sitting man] wearing [/EN#187991/clothing a black shirt] , [/EN#187994/clothing jeans] , and [/EN#187996/clothing black shoes] .
+[/EN#187988/people girl] in [/EN#187992/clothing blue shirt] and [/EN#187993/clothing tan pants] squatting in front of [/EN#187989/people man] wearing [/EN#187991/clothing black shirt] and [/EN#187994/clothing jeans] sitting on [/EN#187995/other a chair]
+[/EN#187990/people Two people] , [/EN#188000/other one] seated wearing [/EN#187994/clothing jeans] , [/EN#187988/other one] kneeling , look at [/EN#0/notvisual each other] in [/EN#188003/scene an interior room] .
+[/EN#187990/people Two adults] talking after [/EN#187997/people class] .
+[/EN#187989/people Man] and [/EN#187988/people woman] talk at [/EN#188002/other seminar] .

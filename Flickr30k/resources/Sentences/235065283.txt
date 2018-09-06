@@ -1,0 +1,5 @@
+[/EN#43436/people A man] wearing [/EN#43437/clothing winter clothes] and [/EN#43438/clothing a hard hat] is climbing over [/EN#43442/other a snowy ledge] using [/EN#43439/other a rope] attached to [/EN#43443/bodyparts his waist] .
+[/EN#43436/people A mountaineer] is following [/EN#43439/other a rope] through [/EN#43444/scene a snowy trail] .
+[/EN#43436/people A man] on [/EN#43440/scene a huge chunk of snow] , holding [/EN#43439/other a rope] .
+[/EN#43436/people A man] in [/EN#43441/other ice climbing gear] holds [/EN#43439/other a rope] .
+[/EN#43436/people A man] climb up [/EN#43445/scene a snowy mountain] .

@@ -1,0 +1,5 @@
+[/EN#174409/people A woman] is pointing down [/EN#174414/scene the street] to [/EN#174411/people her friend] in front of [/EN#174410/scene an entrance] to [/EN#174412/scene a subway station] .
+[/EN#174409/people A woman] next to [/EN#174410/scene a subway entrance] in [/EN#174416/clothing a tan coat] is asking [/EN#174411/people a woman] in [/EN#174417/clothing a pink coat] directions .
+[/EN#174413/people Two women] are standing next to [/EN#174418/other a subway sign] , [/EN#174409/other one] is gesturing to [/EN#174411/other the other] .
+[/EN#174409/people A young woman] gives [/EN#0/notvisual directions] to [/EN#174411/people an older woman] outside [/EN#174412/scene a subway station] .
+[/EN#174409/people A woman] outside of [/EN#174415/vehicles/scene the subway] giving [/EN#0/notvisual directions] .

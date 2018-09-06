@@ -1,0 +1,5 @@
+[/EN#15859/people Male musician] playing [/EN#15860/instruments an accordion] wearing [/EN#15861/clothing a leather jacket] and [/EN#15862/clothing hat] on [/EN#15863/scene a boardwalk or pier] .
+[/EN#15859/people Gentleman] playing [/EN#15860/instruments an accordion] on [/EN#15863/scene a boardwalk] adjacent to [/EN#15865/people boating docs] .
+[/EN#15859/people A man] wearing [/EN#15861/clothing black] playing [/EN#15860/instruments a red accordion] while [/EN#15866/other sitting] .
+[/EN#15859/people A man] sits on [/EN#15863/scene a bridge] by [/EN#15864/scene a river] , playing [/EN#15860/instruments the accordion] .
+[/EN#15859/people A man] is playing [/EN#15860/instruments an accordion] near [/EN#15864/scene the water] .

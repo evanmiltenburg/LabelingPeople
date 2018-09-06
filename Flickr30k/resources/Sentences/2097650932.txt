@@ -1,0 +1,5 @@
+[/EN#28550/people A grinning girl] sits in [/EN#28552/vehicles a pink wheeled cart] sliding down [/EN#28551/scene a green ramp] .
+[/EN#28550/people A girl] rides down [/EN#28551/scene a slide] in [/EN#28552/vehicles a small cart] , smiling [/EN#28555/bodyparts a toothless grin] .
+[/EN#28550/people A little girl] is having [/EN#0/notvisual fun] on [/EN#28551/other an amusement park ride] .
+[/EN#28550/people A little girl] rides [/EN#28552/other a red pan] down [/EN#28551/scene a green slide] .
+[/EN#28550/people A young girl] is sliding down on [/EN#28552/other a sled] .

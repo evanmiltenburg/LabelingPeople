@@ -1,0 +1,5 @@
+[/EN#227267/other A rock concert] in [/EN#227272/scene a darkly lit room] in [/EN#227268/people the middle of the lead singer] belting out [/EN#227274/other a verse] .
+[/EN#227268/people A shirtless singer] at [/EN#227267/other a concert] in front of [/EN#227271/people a cheering crowd] with [/EN#227277/bodyparts arms] up in [/EN#0/notvisual the air] .
+[/EN#227269/people Audience members] attending [/EN#227267/other an indoor concert] while [/EN#227268/people a shirtless band member] sings .
+[/EN#227267/other A concert] is going on , with [/EN#227275/other everyone] joining in to sing [/EN#227273/other the song] .
+[/EN#227270/people A musical group] plays for [/EN#227269/people an enthusiastic crowd] .

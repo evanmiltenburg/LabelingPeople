@@ -1,0 +1,5 @@
+[/EN#29349/people Three people] are photographed on [/EN#29350/vehicles/scene a boat] on [/EN#29351/scene a large body of water] [/EN#0/notvisual which] is tinted [/EN#29358/clothing the color brown] in [/EN#29355/other the photo] .
+[/EN#29349/people The silhouettes of three people] wearing [/EN#29352/clothing hats] are in [/EN#29350/vehicles/scene a boat] on [/EN#29351/scene beige water] under [/EN#29353/scene a beige horizon] .
+[/EN#29349/people The silhouette of three men] are either standing or sitting in [/EN#29350/vehicles/scene a boat] at [/EN#29351/scene sea] as [/EN#29356/other the sun] sets .
+[/EN#29349/people Three people] are on [/EN#29350/vehicles/scene a small boat] , with [/EN#29354/vehicles/scene another boat] visible in [/EN#0/notvisual the distance] .
+[/EN#29349/people Three people] are on [/EN#29350/vehicles/scene a boat] in [/EN#29351/scene the sea] , with [/EN#29354/vehicles/scene another boat] in [/EN#0/notvisual the distance] .

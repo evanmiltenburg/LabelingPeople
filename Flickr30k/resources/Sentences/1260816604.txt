@@ -1,0 +1,5 @@
+[/EN#6564/people A person] in [/EN#6565/vehicles a red car] , with [/EN#6566/scene a bridge] in [/EN#0/notvisual the background] .
+[/EN#6564/people The lady] in [/EN#6565/vehicles the red car] is crossing [/EN#6566/scene the bridge] .
+[/EN#6564/people A person] waits inside [/EN#6565/vehicles a red compact car] .
+[/EN#6565/vehicles A red car] driving over [/EN#6566/scene a bridge] .
+[/EN#6564/people A person] drives in [/EN#6565/vehicles a red car] .

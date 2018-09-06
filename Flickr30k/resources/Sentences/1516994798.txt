@@ -1,0 +1,5 @@
+[/EN#15456/people A man] with [/EN#15460/bodyparts long hair] , [/EN#15461/bodyparts a mustache] , and [/EN#15462/bodyparts a beard] is holding [/EN#15458/instruments a guitar] and sitting in front of [/EN#15457/other a USA flag] .
+[/EN#15456/people Long-haired bearded man] playing [/EN#15458/instruments the guitar] in front of [/EN#15457/other an American flag] .
+[/EN#15456/people A man] playing [/EN#15458/instruments guitar] with [/EN#15457/other an american flag] in [/EN#0/notvisual the background] .
+[/EN#15456/people A long-haired man] plays [/EN#15458/instruments his guitar] with [/EN#15459/other inspiration] .
+[/EN#15456/people Man] looking into [/EN#0/notvisual the camera] playing [/EN#15458/instruments a guitar]

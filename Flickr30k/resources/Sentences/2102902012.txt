@@ -1,0 +1,5 @@
+[/EN#28989/people A boy] wearing [/EN#28996/clothing a yellow jersey] is accepting [/EN#28991/other the baton] from [/EN#28992/people a female] wearing [/EN#28997/clothing a yellow jersey] in [/EN#28993/other a relay race] .
+[/EN#28989/people A boy] [/EN#0/notvisual who] is taking [/EN#28991/other a stick] from [/EN#28992/people a girl] in [/EN#28994/other the middle of a race] .
+[/EN#28990/people Children] in [/EN#28995/other yellow and orange pinnies] gather in [/EN#28990/people a group] .
+[/EN#28990/people A group of kids] are competing in [/EN#28993/other a relay] .
+[/EN#28990/people The kids] are running [/EN#28993/other a relay race] .

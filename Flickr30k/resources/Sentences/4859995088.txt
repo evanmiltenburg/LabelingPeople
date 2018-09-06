@@ -1,0 +1,5 @@
+[/EN#212081/people A man] in [/EN#212083/clothing an orange shirt] and [/EN#212082/clothing a baseball cap] is sitting on [/EN#212088/vehicles the tailgate of a gray truck] parked next to [/EN#212085/vehicles a red compact car] in [/EN#212084/scene a parking lot] .
+[/EN#212081/people A barefoot man] in [/EN#212083/clothing an orange shirt] , [/EN#212087/clothing shorts] , and [/EN#212082/clothing a baseball cap] is sitting on [/EN#212088/vehicles the open tailgate of a silver pickup truck] .
+[/EN#212081/people A man] in [/EN#212087/clothing shorts] and [/EN#212083/clothing a orange shirt] sits on [/EN#212088/vehicles the tailgate of a truck] examining [/EN#212089/other a phone] .
+[/EN#212081/people A man] in [/EN#212084/scene a parking lot] with [/EN#212088/vehicles the tailgate of his truck] down so [/EN#0/notvisual he] can sit on [/EN#0/notvisual it] .
+[/EN#212081/people a guy] sitting on [/EN#212086/vehicles his truck] reading [/EN#212090/scene a post] on [/EN#212091/other his social network] .

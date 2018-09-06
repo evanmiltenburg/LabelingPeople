@@ -1,0 +1,5 @@
+[/EN#104008/people A man] using [/EN#104009/vehicles a bulldozer] or [/EN#104009/vehicles Bobcat] to dig [/EN#104012/other earth] .
+[/EN#104008/people A construction worker] bulldozes dirt clear .
+[/EN#104008/people A man] operates [/EN#104009/other a small piece of equipment] .
+[/EN#104008/people A young man] operating [/EN#104009/other a tractor] .
+[/EN#104008/people A man] bulldozing [/EN#104011/scene dirt] on [/EN#104013/scene site] .

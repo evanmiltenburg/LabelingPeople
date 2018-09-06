@@ -1,0 +1,5 @@
+[/EN#120061/animals A brown dog] is in [/EN#120064/other an agility contest] and running towards [/EN#120062/other a blue tube] .
+[/EN#120061/animals The brown dog] is running towards [/EN#120062/other a blue and yellow tube] .
+[/EN#120061/animals A golden retriever] is competing in [/EN#120063/other a dog competition] .
+[/EN#120061/animals A dog] is running during [/EN#120063/other a competition] .
+[/EN#120061/animals A dog] runs toward [/EN#120065/scene a tunnel] .

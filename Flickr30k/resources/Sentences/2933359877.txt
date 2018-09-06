@@ -1,0 +1,5 @@
+[/EN#82329/people A woman] wearing [/EN#82330/clothing a blue dress] and [/EN#82336/other black tights] and [/EN#82335/clothing black shoes] in front of [/EN#82331/vehicles/scene train]
+[/EN#82329/people A woman] wearing [/EN#82332/clothing a black jacket] is waiting for [/EN#82331/vehicles/scene a train] to arrive .
+[/EN#82329/people A woman] in [/EN#82330/clothing a light blue skirt] stands in front of [/EN#82331/vehicles/scene a moving train] .
+[/EN#82329/people A woman] in [/EN#82330/clothing a blue skirt] stands as [/EN#82331/scene the train passes] by .
+[/EN#82329/people A girl] watching [/EN#82331/other a train speed past] .

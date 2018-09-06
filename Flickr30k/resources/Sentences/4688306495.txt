@@ -1,0 +1,5 @@
+[/EN#190985/scene An operating room] where [/EN#190987/people doctors] are working under [/EN#190986/other a bright light] .
+[/EN#190987/people People] dressed as [/EN#190987/people doctors] are in [/EN#190985/scene an operating room] setting .
+[/EN#190989/people A patient] is being worked on by [/EN#190987/people doctors] and [/EN#190991/people nurses] .
+[/EN#190986/other Large light fixture] in [/EN#190985/scene busy operating room] .
+[/EN#0/notvisual There] are [/EN#190987/people doctors] performing [/EN#190990/other a surgery] .

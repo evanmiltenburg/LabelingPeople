@@ -1,0 +1,5 @@
+[/EN#65294/people An oriental man] performing [/EN#65297/other physical strengths] on [/EN#65296/scene the floor] .
+[/EN#65294/people A man] in [/EN#65295/clothing a white " staff " shirt] on [/EN#65296/scene the floor] .
+[/EN#65294/people A man] in [/EN#65295/clothing a white shirt] is on [/EN#0/notvisual the ground] .
+[/EN#65294/people A man] in [/EN#65295/clothing a staff shirt] break-dancing .
+[/EN#65294/people a man] breakdancing on [/EN#65296/scene a tiled floor]

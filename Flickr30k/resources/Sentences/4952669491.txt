@@ -1,0 +1,5 @@
+[/EN#222656/people A man] in [/EN#222666/clothing a red and white striped shirt] and [/EN#222662/bodyparts neon green dreadlocks] stands with [/EN#222670/bodyparts his face] covered in [/EN#222669/other cloth] while [/EN#222661/people a woman] in [/EN#222667/clothing a white-spotted black sundress] and [/EN#222658/clothing brown cardigan] stands behind [/EN#0/notvisual him] amidst [/EN#222660/people a small crowd] .
+[/EN#222656/people A man] wearing [/EN#222659/clothing a mask] with [/EN#222662/bodyparts green dreadlocks] and [/EN#222668/clothing blue gloves] stands in front of [/EN#222661/people a woman] in [/EN#222658/clothing a brown cardigan] .
+[/EN#222656/people A person] in [/EN#222664/clothing a clown costume] and [/EN#222660/people plain-clothed people] are standing near [/EN#222671/scene a building] .
+[/EN#222656/people A man] looks startled while [/EN#222656/people a man] wearing [/EN#222659/clothing a mask] stands nearby .
+[/EN#222663/people A group of people] wait outside [/EN#222665/other an establishment] .

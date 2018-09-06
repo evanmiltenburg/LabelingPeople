@@ -1,0 +1,5 @@
+[/EN#120499/people A female passenger] has opened up [/EN#120498/vehicles the door of a gray car] , with [/EN#120497/people a driver] outside of [/EN#0/notvisual it] .
+[/EN#120500/vehicles A grayish car] with scuffing by [/EN#120501/other one of the front headlights] .
+[/EN#120496/people A man] is standing on [/EN#120502/vehicles the passenger side of a black car] .
+[/EN#120496/people A man] boards [/EN#120498/vehicles a blue Volkswagen] in [/EN#120503/scene a parking space] .
+[/EN#120497/people Guy] outside of [/EN#120498/vehicles a parked car] .

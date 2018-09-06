@@ -1,0 +1,5 @@
+[/EN#38890/people Two men] stand on [/EN#38893/other skis] and look to [/EN#38892/scene a snowy mountain] to [/EN#38894/scene the right] .
+[/EN#38890/people Two people] wearing [/EN#38893/other skis] stand looking at [/EN#38892/scene a mountain] .
+[/EN#38890/people Two skiers] stand near [/EN#38892/scene a snowy mountain] .
+[/EN#38890/other Skiiers] on top of [/EN#38892/scene a mountain] .
+[/EN#38890/other Skiiers] on [/EN#38892/scene a snowy mountain] .

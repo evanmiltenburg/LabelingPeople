@@ -1,0 +1,5 @@
+[/EN#184874/people A boy] stands in [/EN#184878/scene the grass] waving [/EN#184875/people the flag of his home nation] .
+[/EN#184874/people A little boy] dressed in [/EN#184876/clothing a green shirt] and [/EN#184877/clothing jeans] waving [/EN#184875/other a flag]
+[/EN#184874/people A little boy] in [/EN#184876/clothing a green shirt] waves [/EN#184875/other an Egyptian flag] .
+[/EN#0/notvisual There] is [/EN#184874/people a little kid] in [/EN#184876/clothing a green shirt] waving [/EN#184875/other a flag] .
+[/EN#184874/people A boy] with [/EN#184879/bodyparts long black hair] is holding up [/EN#184875/other a flag] .

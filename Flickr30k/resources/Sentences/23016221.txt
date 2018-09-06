@@ -1,0 +1,5 @@
+[/EN#40105/people The girl] in [/EN#40108/clothing yellow shorts] and [/EN#40106/clothing white jacket] has [/EN#40109/other a tennis ball] in [/EN#40110/clothing her left pocket] .
+[/EN#40105/people A girl] with [/EN#40106/clothing a white top] and [/EN#40108/clothing yellow shorts] is playing [/EN#40111/other tennis] .
+[/EN#40105/people female tennis player] wearing [/EN#40108/clothing yellow shorts] .
+[/EN#40105/people A woman] is playing [/EN#40107/other racquetball] .
+[/EN#40105/people A woman] playing [/EN#40107/other tennis] .

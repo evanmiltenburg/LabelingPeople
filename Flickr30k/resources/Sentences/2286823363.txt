@@ -1,0 +1,5 @@
+[/EN#39089/people A young boy] jumping from [/EN#39090/other one chair] to [/EN#0/notvisual another] in [/EN#39092/scene his house]
+[/EN#39089/people A young boy] jumps from [/EN#39090/other one black chair] to [/EN#0/notvisual another] .
+[/EN#39089/people A young boy] is leaping from [/EN#39090/other one chair] to [/EN#0/notvisual another] .
+[/EN#39089/people A little boy] jumping from [/EN#39090/other one chair] to [/EN#0/notvisual another] .
+[/EN#39089/people A young boy] leaps from [/EN#39090/other chair] to [/EN#39091/other chair] .

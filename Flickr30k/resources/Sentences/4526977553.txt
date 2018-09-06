@@ -1,0 +1,5 @@
+[/EN#175645/people A woman] wearing [/EN#175649/clothing a white blouse] , [/EN#175647/clothing blue jeans] and [/EN#175648/clothing heels] , runs across [/EN#175646/scene the street] to avoid [/EN#175650/vehicles oncoming traffic] .
+[/EN#175645/people A woman] wearing [/EN#175647/clothing tight jeans] and [/EN#175648/clothing high heels] is running across [/EN#175646/scene the road] .
+[/EN#175645/people A woman] wearing [/EN#175647/clothing jeans] is walking down [/EN#175646/scene the street] .
+[/EN#175645/people Lady] in [/EN#175648/clothing heels] and [/EN#175647/clothing blue jeans] crossing [/EN#175646/scene the street] .
+[/EN#175645/people Lady] in [/EN#175648/clothing heels] running across [/EN#175646/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#50450/animals A white bulldog] sitting on [/EN#50452/other a tree stump] gives [/EN#50453/bodyparts paw] to [/EN#50449/people an older woman] wearing [/EN#50454/clothing a black jacket] .
+[/EN#0/notvisual There] is [/EN#50449/people an older white-haired lady] and [/EN#50450/animals a bulldog] sitting on [/EN#50452/other a tree stump] .
+[/EN#50449/people An elderly woman] sits on [/EN#50452/other a tree stump] with [/EN#50450/animals a white dog] .
+[/EN#50449/people A woman] and [/EN#50450/animals a dog] sit on [/EN#50452/other a tree stump] .
+[/EN#50449/people An old woman] with [/EN#50450/animals a white dog]

@@ -1,0 +1,5 @@
+[/EN#115366/other A golden retreiver] standing outside in [/EN#115368/scene the snow] with [/EN#115365/people a person] standing with [/EN#115367/other skis] and [/EN#115372/other poles] .
+[/EN#115365/people The man] is skiing in [/EN#115368/scene the snow] with [/EN#115366/animals a large brown dog] .
+[/EN#115365/people Person] with [/EN#115367/other skis] and [/EN#115366/animals a dog] are standing in [/EN#115368/scene the snow] .
+[/EN#115365/people A person] is standing on [/EN#115367/other skis] in [/EN#115368/scene the snow] with [/EN#115366/animals a dog] .
+[/EN#115365/people A man] and [/EN#115366/scene a dog outside] in [/EN#115371/other a snowstorm] .

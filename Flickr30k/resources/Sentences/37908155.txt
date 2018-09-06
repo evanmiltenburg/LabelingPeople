@@ -1,0 +1,5 @@
+[/EN#142753/people A man] in [/EN#142759/clothing a tool belt] is directing [/EN#142755/scene a construction site] where [/EN#142754/other a large object] is lifted .
+[/EN#142753/people The crew] is using [/EN#142756/scene a crane] to place [/EN#142754/other a piece of equipment] on [/EN#142757/scene the roof of a building] .
+[/EN#142753/people A worker] instructs [/EN#142756/scene a crane] where to place [/EN#142754/other a big boxed shaped item] .
+[/EN#142753/people A man] with [/EN#142760/clothing a white hard hat] is showing [/EN#142761/other hand signs] on [/EN#142757/scene the roof] .
+[/EN#142753/people A construction man] is on [/EN#142755/scene a roof] giving [/EN#142762/bodyparts a thumbs] down .

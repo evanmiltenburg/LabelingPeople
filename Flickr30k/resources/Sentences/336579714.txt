@@ -1,0 +1,5 @@
+[/EN#113208/people A man] with [/EN#113213/other a wall of bookshelves] behind [/EN#0/notvisual him] is gesturing toward [/EN#113210/other an old antique-looking striped chair] .
+[/EN#113208/people A man] with [/EN#113209/clothing a blue hoodie] stands in [/EN#113212/scene a reading room] , behind [/EN#113210/other a chair] with [/EN#113210/other yellow-brown striped pattern] .
+[/EN#113208/people A man] wearing [/EN#113209/clothing a navy blue shirt] is inside [/EN#113212/scene a room] talking while standing next to [/EN#113214/other many books] .
+[/EN#113208/people A male] in [/EN#113209/clothing a dark colored sweatshirt] and standing behind [/EN#113210/other a chair] .
+[/EN#113208/people Man] in [/EN#113209/clothing blue shirt] sitting by [/EN#113215/other window] talking .

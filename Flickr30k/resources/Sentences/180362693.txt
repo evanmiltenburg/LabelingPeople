@@ -1,0 +1,5 @@
+[/EN#20990/people The female] with [/EN#20991/clothing the dark shirt] cutting [/EN#20992/people the hair of the female] in [/EN#20993/clothing the red shirt] .
+[/EN#20990/people A woman] is cutting [/EN#20992/bodyparts another woman 's hair] as [/EN#0/notvisual she] smiles at [/EN#0/notvisual the camera] .
+[/EN#20990/people A person] in [/EN#20993/clothing a red shirt] is getting [/EN#20994/bodyparts a haircut] .
+[/EN#20990/people A woman] razor cutting [/EN#20994/bodyparts another woman 's hair] .
+[/EN#20995/people A person] in [/EN#20993/clothing red] is getting [/EN#20994/bodyparts a haircut] .

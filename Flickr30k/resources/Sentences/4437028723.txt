@@ -1,0 +1,5 @@
+[/EN#167988/people A street performer] stands in [/EN#167993/clothing an ornate , green , harlequin costume] while [/EN#167989/people another street performer] stands in [/EN#167991/clothing an ornate , blue] , harlequin [/EN#167994/clothing costume] .
+[/EN#167990/people Two people] in [/EN#167993/clothing costume one green] [/EN#167991/clothing one purple] [/EN#0/notvisual both] with [/EN#167999/other white face paint] .
+[/EN#167988/people Two people] wearing [/EN#167994/clothing bright green and purple costumes] with [/EN#167995/clothing white masks] .
+[/EN#167988/people Two people] are dressed in [/EN#167992/clothing green and purple outfits] wearing [/EN#167995/clothing masks] .
+[/EN#167990/people two people] wearing [/EN#167995/clothing masks] , [/EN#167998/clothing one green one purple] .

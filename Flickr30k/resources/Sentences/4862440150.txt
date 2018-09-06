@@ -1,0 +1,5 @@
+[/EN#212443/people One person] is exiting [/EN#212445/scene the bottom of a long escalator] while [/EN#0/notvisual another] has just entered at [/EN#212446/other the bottom] .
+[/EN#212443/people a man] walking away from [/EN#212444/scene an escalator] while [/EN#212447/people a woman] is coming up [/EN#212445/scene the escalator] .
+[/EN#212443/people A person] in [/EN#212450/clothing black] has just stepped off of [/EN#212444/scene the escalator] .
+[/EN#212443/people A person] walking away from [/EN#212446/scene the bottom of an escalator] .
+[/EN#212447/scene A silhouette] at [/EN#212446/scene the bottom of an escalator] .

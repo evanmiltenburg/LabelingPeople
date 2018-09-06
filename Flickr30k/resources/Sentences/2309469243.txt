@@ -1,0 +1,5 @@
+[/EN#40666/people A small girl] climbs [/EN#40671/scene her way] up [/EN#40667/scene a playground] set towards [/EN#40668/scene a slide] .
+[/EN#40666/people A little girl] climbing [/EN#40670/other the stairs] on [/EN#40669/other the playground equipment] .
+[/EN#40666/people A small child] tries to climb on [/EN#40669/other playground equipment] .
+[/EN#40666/people Small child] playing on [/EN#40669/other playground equipment] .
+[/EN#40666/people A child] is climbing [/EN#40670/other a step] at [/EN#40667/scene a playground] .

@@ -1,0 +1,5 @@
+[/EN#257427/people A lone kayaker] sits on [/EN#257424/scene the water] at [/EN#257426/scene sunset] with [/EN#257430/other his paddle] resting across [/EN#257429/vehicles/scene his boat] .
+[/EN#257422/people People] boating on [/EN#257424/scene a lake] with [/EN#257425/other the sun] through [/EN#257426/other the clouds] in [/EN#0/notvisual the distance] .
+[/EN#257423/other Rowboat] being paddled on [/EN#257424/scene calm water] into [/EN#257426/scene the sunset] .
+[/EN#257422/people People] in [/EN#257423/other rowboat] heading toward [/EN#257425/other a setting sun] .
+[/EN#257423/other a peaceful rowboat] during [/EN#257426/other dusk] .

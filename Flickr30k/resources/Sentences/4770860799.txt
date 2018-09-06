@@ -1,0 +1,5 @@
+[/EN#201106/people A man] and [/EN#201107/people a woman] with [/EN#201111/bodyparts red-hair] and [/EN#201108/clothing a black hat] are looking at [/EN#201110/other framed photos] and [/EN#201114/other other items] together .
+[/EN#201107/people A woman] with [/EN#201111/bodyparts dark red-hair] and [/EN#201108/clothing a black hat] looking at [/EN#201110/other art] in [/EN#201109/scene a gallery] .
+[/EN#201107/people A woman] with [/EN#201111/bodyparts red-hair] and [/EN#201108/clothing a black hat] is standing in front of [/EN#201110/other pictures] .
+[/EN#201106/people A man] and [/EN#201112/scene a red-haired woman window shop] at [/EN#201109/scene art gallery] .
+[/EN#201106/people a man] in [/EN#201113/clothing a red shirt] looking at [/EN#201107/people a woman] with [/EN#201111/bodyparts red-hair]

@@ -1,0 +1,5 @@
+[/EN#269495/people Two men] are standing in [/EN#269502/scene a freshly razed field] at [/EN#269499/scene the boundary of a forest] , while [/EN#269496/vehicles a bulldozer] sits idling nearby .
+[/EN#269495/people Two men] are standing in [/EN#269499/scene the forest] , and [/EN#269507/people the third man] is driving [/EN#269496/vehicles bulldozer] .
+[/EN#269495/people Two men] overlooking [/EN#269500/scene a construction site] where [/EN#0/notvisual they] are starting to [/EN#269506/other level] .
+[/EN#269495/people Two men] examine [/EN#269504/other a treeline] as [/EN#269503/other a third] bulldozes [/EN#269499/scene the edge of the forest] .
+[/EN#269496/people A skip loader] moving [/EN#269505/scene dirt] in [/EN#269499/scene a forest] while [/EN#269495/people 2 men] watch and direct .

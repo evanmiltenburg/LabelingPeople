@@ -1,0 +1,5 @@
+[/EN#247876/people A person] dressed as [/EN#247873/people a court jester] during [/EN#247873/other a theatrical performance] .
+[/EN#247873/people A man] in [/EN#247878/clothing a red harlequin costume] leaps across [/EN#247879/scene the stage] .
+[/EN#247873/people A dancer] in [/EN#247878/clothing a red suit] is jumping in [/EN#0/notvisual the air] .
+[/EN#247873/other A play] is going on and [/EN#247873/people a man] is in [/EN#247881/scene midair] .
+[/EN#247873/people A ballet dancer] performs [/EN#247880/other a leap] on [/EN#247879/scene stage] .

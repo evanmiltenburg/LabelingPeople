@@ -1,0 +1,5 @@
+[/EN#276902/people A football player] in [/EN#276913/clothing a bright blue jersey] , [/EN#276915/clothing gold helmet] , and [/EN#276916/clothing gold pants] runs down [/EN#276909/scene the football field] while looking over [/EN#276908/bodyparts his right shoulder] at [/EN#276905/people a player] wearing [/EN#276907/clothing a white uniform] with [/EN#276905/other black and orange trim] [/EN#0/notvisual who] is chasing [/EN#0/notvisual him] .
+[/EN#0/notvisual There] are [/EN#276902/people two football players] , [/EN#276903/other one] wearing [/EN#276912/clothing a blue and yellow uniform] holds [/EN#276906/other the ball] , and [/EN#276905/other the other wears] [/EN#276907/clothing a white uniform] .
+[/EN#276902/people A football player] charges down [/EN#276909/scene the field] after [/EN#276903/people a member of the opposite team] .
+[/EN#276910/other Number 44] looks over [/EN#276908/bodyparts his shoulder] to see [/EN#276911/other Number 8] closing in on [/EN#0/notvisual him] .
+[/EN#276903/people A man] carrying [/EN#276906/other a football] sprints away from [/EN#276905/people a defender] .

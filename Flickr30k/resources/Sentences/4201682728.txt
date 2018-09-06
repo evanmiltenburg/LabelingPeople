@@ -1,0 +1,5 @@
+[/EN#159001/people Two people] in [/EN#159005/clothing baseball caps] are sitting inside [/EN#159004/scene a large office space] and looking at [/EN#159003/other a computer screen] .
+[/EN#159001/people Two people] in [/EN#159005/clothing light colored baseball caps] looking at [/EN#159002/other two computer monitors] in front of [/EN#0/notvisual them] .
+[/EN#159001/people Two employees] wearing [/EN#159005/clothing white caps] are working at [/EN#159007/other two computer screens] in [/EN#159004/scene a dimly lit room] .
+[/EN#159001/people Two people] in [/EN#159005/clothing white hats] look at [/EN#159003/other a computer screen] .
+[/EN#159001/people Workers] in [/EN#159005/clothing baseball hats] in [/EN#159004/scene their bright office] .

@@ -1,0 +1,5 @@
+[/EN#108769/animals The bull] is running with [/EN#108773/scene a yellow fence] behind [/EN#0/notvisual him] .
+[/EN#108770/people A man] in [/EN#108776/clothing a cowboy hat] rides [/EN#108769/animals a bull] at [/EN#108771/other a rodeo] .
+[/EN#108769/animals A bull] runs in [/EN#108772/scene an arena] while [/EN#108775/people people] watch .
+[/EN#108769/animals A bull] charges out of [/EN#108773/scene the gates] at [/EN#108771/other a rodeo] .
+[/EN#108770/people Rodeo rider] on [/EN#108769/animals charging bull] .

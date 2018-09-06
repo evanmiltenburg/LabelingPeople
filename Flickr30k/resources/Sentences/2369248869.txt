@@ -1,0 +1,5 @@
+[/EN#44583/animals A large black and white dog] is running through [/EN#44584/scene the water] .
+[/EN#44583/animals A dog] running through [/EN#44586/scene the water right] toward [/EN#0/notvisual the camera] .
+[/EN#0/notvisual There] is [/EN#44583/animals a black dog] running in [/EN#44584/scene a shallow river] .
+[/EN#44583/animals a brown and black dog] running through [/EN#44584/scene a river]
+[/EN#44583/animals A dog] is running through [/EN#44584/scene some water] .

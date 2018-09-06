@@ -1,0 +1,5 @@
+[/EN#19564/people A man] wearing [/EN#19565/clothing a uniform] is standing just inside [/EN#19566/vehicles the back of a delivery truck] , while [/EN#19567/people two other men] are standing on [/EN#0/notvisual the ground] near [/EN#19568/vehicles the truck] .
+[/EN#19564/people The FedEx driver] listens to [/EN#19569/people the workman] in [/EN#19570/clothing the green hard hat] while [/EN#19566/other the equipment] to ship is being loaded .
+[/EN#19564/people A man] standing in [/EN#19568/vehicles a truck] next to [/EN#19566/other a big green metal box] and [/EN#19567/people two men] standing below [/EN#0/notvisual him] .
+[/EN#19571/people Three men] are trying to load [/EN#19566/other an aqua cabinet] onto [/EN#19568/vehicles a FedEx truck] .
+[/EN#19571/people Three men] loading [/EN#19566/other a large item] onto [/EN#19568/vehicles a fedEx truck] .

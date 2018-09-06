@@ -1,0 +1,5 @@
+[/EN#139830/animals The German shepherd dog] is jumping up as [/EN#0/notvisual it] is being squirted with [/EN#139832/scene a jet of water] .
+[/EN#139830/animals A tan and black dog] jumps through [/EN#139831/other a water sprinkler] in [/EN#139833/scene the yard] .
+[/EN#139830/animals A brown and black dog] is jumping through [/EN#139831/other a sprinkler] .
+[/EN#139830/animals/people A German Shepherd] runs through [/EN#139831/other a sprinkler] .
+[/EN#139830/animals A dog] playing with [/EN#139831/other a sprinkler]

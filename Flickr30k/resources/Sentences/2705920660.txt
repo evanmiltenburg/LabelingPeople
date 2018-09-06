@@ -1,0 +1,5 @@
+[/EN#67412/bodyparts Five visible faces] in [/EN#67421/scene a room] with [/EN#67422/other tacky blue and gold paisley carpet] , [/EN#67413/people a man] is holding [/EN#67414/instruments guitar] and [/EN#0/notvisual there] is [/EN#67415/other a random broom] standing straight up in [/EN#67418/scene the middle of the room] .
+[/EN#67416/people A group of teenagers] sitting in [/EN#67419/other a circle] ; [/EN#67417/people the man] in [/EN#67420/scene the middle] is sitting on [/EN#67423/scene the floor] and [/EN#0/notvisual there] is [/EN#67415/other a broom] standing up behind [/EN#0/notvisual him] .
+[/EN#67416/people A group of young people] are sitting around talking and playing [/EN#67414/instruments guitar] .
+[/EN#67416/people A group of people] sitting on [/EN#67421/scene the floor of a carpeted room] .
+[/EN#67416/people A teenager] talking in [/EN#67416/people a support group] .

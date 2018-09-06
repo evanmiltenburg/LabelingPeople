@@ -1,0 +1,5 @@
+[/EN#26815/people A man] in [/EN#26816/clothing a white shirt] hands something to [/EN#26817/people a man] in [/EN#26818/clothing a black jacket] in [/EN#26819/scene the city] .
+[/EN#26817/people A man] and [/EN#26826/people woman] looking at [/EN#26820/other their reflections] in [/EN#26821/other a window] .
+[/EN#26817/people A man] in [/EN#26822/clothing jeans] and [/EN#26818/clothing a black jacket] picking up [/EN#26823/other his food] .
+[/EN#26824/people One man] hands [/EN#26817/people another man] [/EN#26823/other food] from [/EN#26825/people an outdoor vendor] .
+[/EN#26815/people A street vendor] selling [/EN#26823/other food] to [/EN#26817/people a customer] .

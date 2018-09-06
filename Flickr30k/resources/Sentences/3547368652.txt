@@ -1,0 +1,5 @@
+[/EN#126553/people A person] wearing [/EN#126557/clothing a red shirt] jumps with [/EN#126555/other a skateboard] over [/EN#126556/other the steps] .
+[/EN#126553/people A boy] leaps off [/EN#126555/other his skateboard] over [/EN#126556/other some steps] near [/EN#126558/scene a house] .
+[/EN#126553/people A skateboarder] is jumping down [/EN#126556/other three steps] .
+[/EN#126553/people The boy] is skateboarding on [/EN#126556/other the stairs] .
+[/EN#126553/people Kid] riding [/EN#126555/other skateboard] down [/EN#126554/other the stairs] .

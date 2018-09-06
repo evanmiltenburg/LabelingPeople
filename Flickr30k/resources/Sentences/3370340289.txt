@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#113618/people one man] in [/EN#113606/clothing a leather jacket] and [/EN#113607/clothing jeans] facing [/EN#113621/other us] and [/EN#113614/people a person] in [/EN#113612/clothing a brown coat] and [/EN#113607/clothing jeans] facing [/EN#113610/scene the other way] in [/EN#113609/other the doorway of two red doors] .
+[/EN#113604/people Two men] in [/EN#113611/other a an alleyway] , [/EN#113618/other one] with [/EN#113622/bodyparts his hands] in [/EN#113616/clothing his pockets] looking [/EN#113608/scene one way] [/EN#113614/other the other] looking behind [/EN#0/notvisual him] .
+[/EN#113604/people Two people] in [/EN#113605/clothing leather jackets] and [/EN#113607/clothing jeans] stand outside [/EN#113617/other large , red , metal doors] .
+[/EN#113604/people Two people] wearing [/EN#113606/clothing black jacket] and [/EN#113607/clothing blue jean] stand facing [/EN#0/notvisual opposite directions] .
+[/EN#113604/people Two people] stand outside of [/EN#113613/scene a gate] .

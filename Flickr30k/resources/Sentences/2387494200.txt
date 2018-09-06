@@ -1,0 +1,5 @@
+[/EN#45726/people A man] and [/EN#45730/people a woman] staring at [/EN#45728/other a very unusual mannequin] in [/EN#45729/other a quaint shop window] .
+[/EN#45725/people Two people] wearing [/EN#45731/clothing flip-flops] and [/EN#45734/clothing shorts] walking down [/EN#45727/scene the street] .
+[/EN#45726/people A man] and [/EN#45730/people woman] walk by [/EN#45729/other a window] with [/EN#45728/other a mannequin] in [/EN#45729/other the window] .
+[/EN#45725/people A couple] taking [/EN#45733/other a walk] and staring at [/EN#45728/other a mannequin] in [/EN#45727/scene a doorway] .
+[/EN#45725/people A male and female] , [/EN#0/notvisual both] wearing [/EN#45731/clothing sandals] , walking by [/EN#45732/scene a fence] .

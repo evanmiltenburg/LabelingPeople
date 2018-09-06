@@ -1,0 +1,5 @@
+[/EN#36259/people A young child] wearing [/EN#36260/clothing a backpack] follows behind [/EN#36261/people an adult] as [/EN#0/notvisual they] walk through [/EN#36262/other the trees] .
+[/EN#36259/people A child] with [/EN#36260/clothing a red backpack] following [/EN#36261/people an adult] on [/EN#36263/other a hike] through [/EN#36266/other the woods] .
+[/EN#36259/people A little boy] with [/EN#36260/clothing an orange backpack] walks under [/EN#36264/other a tree] through [/EN#36262/other the woods] .
+[/EN#36259/people A boy] with [/EN#36260/clothing a red backpack] walking along [/EN#36265/scene a trail] .
+[/EN#36259/people A youngster] exploring [/EN#36263/other the branches of a tree] .

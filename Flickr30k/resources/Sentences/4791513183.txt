@@ -1,0 +1,5 @@
+[/EN#203137/people A girl] wearing [/EN#203139/clothing pink] stands in [/EN#203138/scene a red doorway] while [/EN#203142/vehicles a black bicycle] rests nearby .
+[/EN#203137/people A little girl] in [/EN#203139/clothing pink] stands at [/EN#203141/other the top of stairs] in front of [/EN#203140/scene building] .
+[/EN#203137/people A small girl] in [/EN#203139/clothing pink] is standing in [/EN#203138/scene a large doorway] .
+[/EN#203137/people A small child] wearing [/EN#203139/clothing pink] stands in [/EN#203138/scene a doorway] .
+[/EN#203137/people the little girl] in [/EN#203139/clothing pink] is looking outside

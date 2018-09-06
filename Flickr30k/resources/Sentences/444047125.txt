@@ -1,0 +1,5 @@
+[/EN#168279/people A person] with [/EN#168281/clothing a backpack] and walking [/EN#168284/other stick] , walking towards [/EN#168283/scene the mountains] in [/EN#168282/scene the valley] below .
+[/EN#168280/people Three people] walk through [/EN#168282/scene a valley] towards [/EN#168283/scene snowy mountains] .
+[/EN#168279/people A person] walks in [/EN#168282/scene the valley] between [/EN#168283/scene tall mountains] .
+[/EN#168279/people A person] hiking at [/EN#168283/scene the foot of snowcapped mountains] .
+[/EN#168280/people People] with [/EN#168281/clothing backpacks] hiking in [/EN#168283/scene the mountains] .

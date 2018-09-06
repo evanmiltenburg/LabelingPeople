@@ -1,0 +1,5 @@
+[/EN#118148/animals A black dog] inside [/EN#118153/scene house] is looking at [/EN#118154/other something] at [/EN#118152/scene higher position] .
+[/EN#118148/animals A black dog] with [/EN#118149/clothing a gemmed collar] is sitting on [/EN#118150/other white carpet] .
+[/EN#118148/animals A black dog] with [/EN#118149/clothing a blue collar] is sitting on [/EN#118150/other beige carpet] .
+[/EN#118148/animals A black dog] is about to sit down in [/EN#118151/scene a white carpeted room] .
+[/EN#118148/animals A black dog] is hunched back and is ready to jump .

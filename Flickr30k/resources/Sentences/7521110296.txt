@@ -1,0 +1,5 @@
+[/EN#270960/people A man] wearing [/EN#270963/clothing a yellow shirt] is pouring [/EN#270964/other something] white into [/EN#270965/other one of many barrels] inside of [/EN#270962/scene a building] .
+[/EN#270960/people A man] in [/EN#270963/clothing a yellow shirt] fills [/EN#270965/other some barrels] with [/EN#270967/other a small scoop] .
+[/EN#270960/people Asian male] puring [/EN#270966/other rice] into [/EN#270961/other a bucket] outside of [/EN#270962/scene a store] .
+[/EN#270960/people Men] working in [/EN#270962/scene a warehouse] , putting [/EN#270966/other rice] into [/EN#270961/other barrels] .
+[/EN#270960/people Japanese man] sorting [/EN#270964/other grain] into [/EN#270961/other barrels] .

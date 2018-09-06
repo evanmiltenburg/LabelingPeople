@@ -1,0 +1,5 @@
+[/EN#100981/people A man] in [/EN#100982/clothing a red hat] and [/EN#100983/clothing blue jacket] in [/EN#100986/other a protest] is holding up [/EN#100984/other a tablet] [/EN#0/notvisual that] talks about [/EN#100987/other God] and [/EN#100990/other judgement] .
+[/EN#100981/people A man] in [/EN#100983/clothing a blue coat] and [/EN#100982/clothing red hat] holds [/EN#100984/other a sign] with [/EN#100985/other very small writing] .
+[/EN#100981/people A man] with [/EN#100983/clothing a blue coat] and [/EN#100982/clothing a red hat] is holding up [/EN#100984/other a sign] .
+[/EN#100981/people Men] standing with [/EN#100985/other signs] on [/EN#100988/scene the sidewalk] .
+[/EN#100981/people Man] in [/EN#100983/clothing a blue coat] holding [/EN#100984/other a sign] .

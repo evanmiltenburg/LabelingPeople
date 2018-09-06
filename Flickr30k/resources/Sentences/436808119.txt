@@ -1,0 +1,5 @@
+[/EN#165100/people An elderly gentleman] [/EN#0/notvisual who] is wearing [/EN#165101/clothing a blue shirt] is painting [/EN#165104/scene a picture of the mountains] .
+[/EN#165100/people An older man] is painting [/EN#165102/other a landscape picture] [/EN#0/notvisual that] is on [/EN#165103/other an easel] outdoors .
+[/EN#165100/people A man] in [/EN#165101/clothing a blue shirt] is painting [/EN#165105/scene a tree outside] .
+[/EN#165100/people A gray-haired man] painting [/EN#165102/other a picture of a tree] .
+[/EN#165100/people An old man] is painting [/EN#165102/other a picture] .

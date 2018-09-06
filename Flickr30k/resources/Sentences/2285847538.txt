@@ -1,0 +1,5 @@
+[/EN#39020/people An elderly man] working with [/EN#39023/other several lines of string] .
+[/EN#39020/people An old worker] is weaving at [/EN#39021/other his textile machine] .
+[/EN#39020/people Old man] with [/EN#39022/other glasses works] on [/EN#39021/other a loom] .
+[/EN#39020/people A older man] working at [/EN#39021/other a loom]
+[/EN#39020/people Older man] working on [/EN#39021/other a loom] .

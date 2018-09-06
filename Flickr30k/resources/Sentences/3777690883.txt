@@ -1,0 +1,5 @@
+[/EN#142238/people A man] wearing [/EN#142240/clothing red pants] without [/EN#142241/clothing a top] is holding on to [/EN#142239/other a ladder] .
+[/EN#142238/people A man] wearing [/EN#142240/clothing only red pants] does [/EN#0/notvisual a trick] on [/EN#142239/other a ladder] .
+[/EN#142238/people A man] grips [/EN#142239/other a ladder] while [/EN#142244/bodyparts his feet] fly in [/EN#0/notvisual the air] .
+[/EN#142238/people A Shirtless man] contorting [/EN#0/notvisual himself] on [/EN#142239/other a ladder] .
+[/EN#142238/people A man] in [/EN#142238/other red pants swings] from [/EN#142239/other a ladder] .

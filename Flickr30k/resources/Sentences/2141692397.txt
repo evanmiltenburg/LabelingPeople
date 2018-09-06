@@ -1,0 +1,5 @@
+[/EN#30853/people A person] in [/EN#30857/clothing a dark hoodie] is jumping onto [/EN#30854/scene a street lamp post] [/EN#0/notvisual that] is decorated with [/EN#30860/other holiday lights] .
+[/EN#0/notvisual It] 's [/EN#30856/other Christmas] and [/EN#30861/other its also snowing] and [/EN#0/notvisual there] is [/EN#30853/people a person] jumping on top of [/EN#30854/other a pole] .
+[/EN#30853/people A person] in [/EN#30859/clothing dark winter clothing] holding onto [/EN#30854/other a pole] with [/EN#0/notvisual a snowy background] .
+[/EN#30853/people A person] is posing for [/EN#30864/other a picture] under [/EN#30854/scene a lamp post] in [/EN#30862/scene the snow] .
+[/EN#30853/people A man] hanging off [/EN#30854/scene a lamp post] during [/EN#30863/other winter] .

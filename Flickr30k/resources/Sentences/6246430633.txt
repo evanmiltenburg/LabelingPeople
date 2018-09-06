@@ -1,0 +1,5 @@
+[/EN#250936/people A young kid] in [/EN#250938/clothing a dark blue sweater] and [/EN#250942/clothing yellow pants] is skiing over [/EN#250941/other ice] [/EN#0/notvisual that] is on top of [/EN#250939/scene green grass] .
+[/EN#250936/people A young kid] skiing on [/EN#250941/scene a small patch of snow] in [/EN#250939/scene an otherwise grassy area] .
+[/EN#250936/people A man] attempts to ski on [/EN#250941/scene the one last patch of snow] left on [/EN#250939/scene the hill] .
+[/EN#250936/people A person] in [/EN#250942/clothing yellow pants] and [/EN#250938/clothing a black shirt] is skiing down [/EN#250940/scene a hill] .
+[/EN#250936/people A person] practicing how to sky on [/EN#250943/scene a sunny day] .

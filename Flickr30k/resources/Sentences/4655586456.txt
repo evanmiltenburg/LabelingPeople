@@ -1,0 +1,5 @@
+[/EN#187422/people An Asian woman] dressed in [/EN#187426/clothing a black blouse] and [/EN#187428/clothing knee length pants] is waling across [/EN#187424/scene a wet street] holding [/EN#187423/clothing a collapsed umbrella] .
+[/EN#187422/people An Asian woman] is walking on [/EN#187424/scene a paved street] [/EN#0/notvisual there] are [/EN#187429/people several people] in [/EN#187430/vehicles the background traffic] .
+[/EN#187422/people An Asian woman] is walking in [/EN#187424/scene street] , dressed up in [/EN#187427/clothing green high heels] .
+[/EN#187422/people A woman] in [/EN#187425/clothing black] , holding [/EN#187423/clothing an umbrella] , crosses [/EN#187424/scene the street] .
+[/EN#187422/people Woman] in [/EN#187425/clothing black outfit] walking down [/EN#187424/scene street] .

@@ -1,0 +1,5 @@
+[/EN#147398/people A motorcyclist] with [/EN#147400/clothing a backpack] traveling on [/EN#147401/vehicles his blue bike] .
+[/EN#147398/people A man] in [/EN#147399/clothing a yellow shirt] is sitting on [/EN#147401/other a motorcycle] .
+[/EN#147398/people A man] is riding [/EN#147401/other a blue motorcycle] .
+[/EN#147398/people A man] is on [/EN#147401/other a blue motorcycle] .
+[/EN#147398/people A man] on [/EN#147401/other a blue motorcycle] .

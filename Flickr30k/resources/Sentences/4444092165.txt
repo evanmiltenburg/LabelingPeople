@@ -1,0 +1,5 @@
+[/EN#168781/people A white-haired man] with [/EN#168792/bodyparts a mustache] and [/EN#168790/clothing glasses] in [/EN#168783/clothing a business suit] stands outside at [/EN#168785/scene a podium] marked with [/EN#168791/people the seal of the US House of Representatives] , surrounded by [/EN#168784/people many people] , with [/EN#168782/scene a columned building] behind [/EN#0/notvisual him] .
+[/EN#168781/people A man] stands at [/EN#168785/scene a podium] while [/EN#168786/other Nancy Pelosi] and [/EN#168784/other a crowd of others] stand behind [/EN#0/notvisual him] in front of [/EN#168782/scene a building] .
+[/EN#168781/people A man] in [/EN#168783/clothing suit] talking behind [/EN#168785/scene a podium] with [/EN#168784/people a group of people] behind [/EN#0/notvisual him] .
+[/EN#168781/people A man] wearing [/EN#168788/clothing a red tie] and [/EN#168783/clothing suit] is speaking to [/EN#168787/people a crowd] .
+[/EN#168781/people A politician] gives [/EN#168789/other a speech] as [/EN#168784/people people] watch .

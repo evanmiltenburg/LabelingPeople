@@ -1,0 +1,5 @@
+[/EN#30561/people A baby] wearing [/EN#30563/clothing a Santa hat] and [/EN#30567/clothing a red outfit] playing with [/EN#30562/other a Santa Claus figure] .
+[/EN#30561/people A baby] in [/EN#30563/clothing a Santa hat] holds [/EN#30562/other a Santa figure] while laying on [/EN#30566/other a brown sofa] .
+[/EN#30561/people Baby] in [/EN#30564/clothing Santa outfit] holding [/EN#30565/people a baby] [/EN#30562/other Santa] .
+[/EN#30561/people The baby] is holding [/EN#30562/other a Santa figurine] .
+[/EN#30561/people a baby] wears [/EN#30563/clothing a Santa hat] .

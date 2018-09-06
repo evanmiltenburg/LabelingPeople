@@ -1,0 +1,5 @@
+[/EN#9922/animals The black dog] is walking through [/EN#9923/scene the tall grass] .
+[/EN#9922/animals A black poodle] is running through [/EN#9923/scene the grass] .
+[/EN#9922/animals The black dog] is running through [/EN#9923/scene the grass] .
+[/EN#9922/animals A black dog] is running in [/EN#9923/scene the grass] .
+[/EN#9922/animals A small black dog] is in [/EN#9923/scene the grass] .

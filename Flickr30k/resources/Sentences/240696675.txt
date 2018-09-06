@@ -1,0 +1,5 @@
+[/EN#46889/animals The dog] is running along [/EN#46892/scene a path] [/EN#0/notvisual that] has been made through [/EN#46894/scene the uncut grass] .
+[/EN#46889/animals A brown dog] runs along [/EN#46892/scene a path] in [/EN#46890/scene the grass] .
+[/EN#46889/animals A brown dog] is running in [/EN#46895/other a grassy plain] .
+[/EN#46889/animals Dog] running on [/EN#46892/scene narrow dirt path] .
+[/EN#46889/animals Dog] running in [/EN#46891/scene field]

@@ -1,0 +1,5 @@
+[/EN#154433/people A vietnamese man] driving [/EN#154435/other a tractor] through [/EN#154439/other a dirt ravine] while [/EN#154436/people a woman] rides on [/EN#154437/other the back] .
+[/EN#154433/people A man] and [/EN#154436/people a woman] on [/EN#154435/other a tractor] [/EN#154433/people the man] is driving while [/EN#154436/people the woman] rides in [/EN#154437/other the back] .
+[/EN#154434/people Two people] ride in [/EN#154435/vehicles vehicle] between [/EN#154444/scene mud huts] , with [/EN#154445/other rice paddies] in [/EN#0/notvisual the background] .
+[/EN#154434/people SouthEast Asian couple] riding on [/EN#154435/other a tractor] through [/EN#154438/scene a beach landscape] .
+[/EN#154434/people Two women] hauling [/EN#154443/other baskets] up [/EN#154440/scene a hill] .

@@ -1,0 +1,5 @@
+[/EN#235785/people A young girl] in [/EN#235788/clothing a yellow flowered sundress] holds [/EN#235787/other something] in [/EN#235791/bodyparts her right hand] to [/EN#235792/bodyparts her mouth] .
+[/EN#235785/people A little girl] in [/EN#235788/clothing a yellow dress] with [/EN#235790/other red flowers] blows [/EN#235787/other a whistle] .
+[/EN#235785/people A little girl] with [/EN#235788/clothing a yellow dress] blows [/EN#235787/other the whistle] .
+[/EN#235785/people A small girl] blows [/EN#235789/other a whistle] .
+[/EN#235785/people A girl] blows [/EN#235787/other a whistle] .

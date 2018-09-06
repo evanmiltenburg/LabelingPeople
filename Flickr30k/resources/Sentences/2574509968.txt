@@ -1,0 +1,5 @@
+[/EN#59046/people A woman] wearing [/EN#59047/clothing a white shirt] stands on [/EN#59048/scene the street] .
+[/EN#59046/people A woman] in [/EN#59047/clothing a white shirt] standing on [/EN#59048/scene a street]
+[/EN#59046/people The woman] sips [/EN#59049/other her drink] on [/EN#59048/scene the sidewalk] .
+[/EN#59046/people a large woman] stands in [/EN#59048/scene the street] .
+[/EN#59046/people A woman] stands on [/EN#59048/scene a street] .

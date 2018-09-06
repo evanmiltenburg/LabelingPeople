@@ -1,0 +1,5 @@
+[/EN#174242/people A person] in [/EN#174247/clothing a hat] walking [/EN#174244/animals their dog] in front of [/EN#174243/scene a building] with [/EN#174245/scene large chain-linked fences] surrounding [/EN#0/notvisual it] .
+[/EN#174242/people A person] in [/EN#174246/clothing a blue jacket] walks [/EN#174244/animals his golden dog] in front of [/EN#174243/scene an abandoned building] .
+[/EN#174242/people A man] walks [/EN#174244/animals an orange dog] in front of [/EN#174243/scene a building] with [/EN#174245/scene a rusted chain fence] .
+[/EN#174248/other a bad neighbor hood] were [/EN#0/notvisual there] is [/EN#174249/other vandalism] on [/EN#174243/scene the buildings]
+[/EN#174242/people A man] walks [/EN#174244/animals a large dog] past [/EN#174243/scene a barricaded building] .

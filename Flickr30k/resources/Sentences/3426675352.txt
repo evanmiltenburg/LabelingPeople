@@ -1,0 +1,5 @@
+[/EN#117361/people A group of people] looking at [/EN#117362/scene a beautiful building] .
+[/EN#117361/people A family of five people] are looking at [/EN#117362/scene a building] .
+[/EN#117361/people Five people] overlook [/EN#117364/scene the beautiful town] .
+[/EN#117361/people A family] is admiring [/EN#117366/other architecture] .
+[/EN#117363/scene A family site] seeing at [/EN#117365/scene sunset] .

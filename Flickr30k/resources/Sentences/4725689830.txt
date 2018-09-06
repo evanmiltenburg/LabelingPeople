@@ -1,0 +1,5 @@
+[/EN#195786/scene a fruit stand] located inside [/EN#195790/scene a store] that [/EN#195785/people people] are browsing
+[/EN#195785/people People] shop for [/EN#195788/other produce] among [/EN#195789/other many baskets of fresh fruit] .
+[/EN#0/notvisual There] are [/EN#195788/other a variety of produce goods] at [/EN#195787/scene a market] .
+[/EN#195784/people People] shop for [/EN#195788/other goods] at [/EN#195786/scene a fruit stand] .
+[/EN#195784/people Two women] sell [/EN#195789/other fruit] in [/EN#195787/scene a market] .

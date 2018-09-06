@@ -1,0 +1,5 @@
+[/EN#75357/animals The tan and white dog] is running outside with [/EN#75358/other a tennis ball] in [/EN#75359/bodyparts its mouth] .
+[/EN#75357/animals A small dog] with [/EN#75358/other a tennis ball] in [/EN#75359/bodyparts its mouth] playing in [/EN#75360/scene a driveway] .
+[/EN#75357/animals A dog] is running while catching [/EN#75358/other a tennis ball] in [/EN#75359/bodyparts its mouth] .
+[/EN#75357/animals a small dog] catches [/EN#75358/other a tennis ball] in [/EN#75359/bodyparts its mouth] .
+[/EN#75357/animals A dog] catches [/EN#75358/other a tennis ball] .

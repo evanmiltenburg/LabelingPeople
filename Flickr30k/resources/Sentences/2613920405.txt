@@ -1,0 +1,5 @@
+[/EN#61656/people A man] walks down [/EN#61665/scene the road] leading [/EN#61658/animals a cow] with [/EN#61658/people no rider] and [/EN#61663/animals another cow] with [/EN#61664/people a rider] .
+[/EN#61656/people A man] leads [/EN#61657/animals two cows] down [/EN#61659/scene the dirt shoulder of a paved road] .
+[/EN#61656/people A man] walking [/EN#61658/animals his cow] down [/EN#61659/scene the side of the road] .
+[/EN#61656/people A man] walks with [/EN#61658/animals a cow] down [/EN#61659/scene a dirt sidewalk] .
+[/EN#61661/people Two men] pull [/EN#61657/animals two cows] down [/EN#61659/scene the road] .

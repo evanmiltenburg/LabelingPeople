@@ -1,0 +1,5 @@
+[/EN#64465/people A man] and [/EN#64469/people woman] are sitting at [/EN#64463/other a table] in front of [/EN#64461/other a sign] [/EN#0/notvisual that] reads [/EN#64460/other IL PORTO] and [/EN#64464/other two wine bottles] and [/EN#64467/other two wineglasses] are on [/EN#64463/other the table] .
+[/EN#64459/people Two people] sit at [/EN#64463/other a table] with [/EN#64468/other wine] in front of [/EN#0/notvisual them] , and [/EN#64461/other a sign] with [/EN#64470/animals a fish] reading : " [/EN#64460/other IL PORTO] " behind [/EN#0/notvisual them] .
+[/EN#64459/people An elderly couple] are sitting outside [/EN#64462/scene a restaurant] , enjoying [/EN#64464/other wine] .
+[/EN#64459/people A couple] is sitting at [/EN#64462/scene a restaurant] in front of [/EN#64461/other a big fish sign] .
+[/EN#64459/people Couple] sitting on [/EN#64466/scene patio] outside [/EN#64462/scene restaurant] having [/EN#64464/other some wine] .

@@ -1,0 +1,5 @@
+[/EN#120693/animals The large brown dog] is running through [/EN#120696/scene the grass] with [/EN#120694/other a large stick] in [/EN#120695/bodyparts its mouth] .
+[/EN#120693/animals A brown and white pitbull] runs through [/EN#120696/scene the grass] with [/EN#120694/other a stick] in [/EN#120695/bodyparts its mouth] .
+[/EN#120693/animals A brown dog] carries [/EN#120694/other a long stick] on [/EN#120696/scene the green grass] .
+[/EN#120693/animals A brown dog] running with [/EN#120694/other a long stick] in [/EN#120695/bodyparts his mouth] .
+[/EN#120693/animals The brown dog] carried [/EN#120694/other the stick] in [/EN#120696/scene the grass] .

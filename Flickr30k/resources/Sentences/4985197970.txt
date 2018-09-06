@@ -1,0 +1,5 @@
+[/EN#226136/scene A sunny street] with [/EN#226138/scene a red building] , [/EN#226140/vehicles parked cars] , and [/EN#226134/people a man] walking down [/EN#226133/scene the road] .
+[/EN#226133/scene Old cobblestone street] with [/EN#226137/vehicles cars] parked on [/EN#0/notvisual the sides] .
+[/EN#226133/scene A city street] with [/EN#226134/people a lone man] walking in [/EN#226135/scene the middle] .
+[/EN#226134/people A person] is walking down [/EN#226133/scene a cobblestone street] .
+[/EN#226134/people A person] walking by [/EN#226139/scene buildings] and [/EN#226137/vehicles cars] .

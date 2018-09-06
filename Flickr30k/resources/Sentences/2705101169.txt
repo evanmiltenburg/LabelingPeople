@@ -1,0 +1,5 @@
+[/EN#67206/people A man] in [/EN#67207/clothing an orange shirt] standing on [/EN#67213/scene the grass] just off [/EN#67208/scene the path] while [/EN#67209/people a woman] in [/EN#67210/clothing a blue shirt] looks back at [/EN#0/notvisual him] from farther up [/EN#67208/scene the cement path] .
+[/EN#67206/people A man] in [/EN#67207/clothing an orange shirt] is holding [/EN#67211/other an object] and speaking to [/EN#67209/people a girl] in [/EN#67210/clothing a blue shirt] [/EN#0/notvisual who] is looking back at [/EN#0/notvisual him] .
+[/EN#67206/people A man] in [/EN#67207/clothing an orange shirt] is standing by [/EN#67208/scene a sidewalk] .
+[/EN#67206/people Man] in [/EN#67207/clothing an orange shirt] walking [/EN#67212/scene outside] .
+[/EN#67206/people A man] and [/EN#67209/people a woman] on [/EN#67208/scene a path] .

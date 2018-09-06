@@ -1,0 +1,5 @@
+[/EN#72854/animals The black and white dog] swims with [/EN#72856/other a brown object] in [/EN#72857/bodyparts its mouth] .
+[/EN#72854/animals A large black and white dog] is swimming in [/EN#72855/scene the water] .
+[/EN#72854/animals A black and white dog] is swimming .
+[/EN#72854/animals A dog] swims through [/EN#72855/scene deep water] .
+[/EN#72854/animals A dog] swims in [/EN#72855/scene the water] .

@@ -1,0 +1,5 @@
+[/EN#101306/people A slalom skier] wearing [/EN#101311/clothing red pants] and [/EN#101307/clothing black shirt] is skiing past [/EN#101308/other a red flag] .
+[/EN#101306/other A main] in [/EN#101307/clothing a black and white shirt] is skiing with [/EN#101308/other red flags] to [/EN#101312/scene the right] .
+[/EN#101306/people Person] skiing on [/EN#101309/scene white snow] near [/EN#101308/other a red flag] .
+[/EN#101306/people A skier] is in [/EN#101309/scene the snow] next to [/EN#101308/other a red flag] .
+[/EN#101306/people A skier] slaloms by [/EN#101308/other a red flag] .

@@ -1,0 +1,5 @@
+[/EN#202962/people a group of people] on [/EN#202964/scene a dock] lowering into [/EN#202969/scene the water] [/EN#202963/vehicles/scene a boat] with [/EN#202968/clothing teal] and [/EN#202967/other purple decorations] .
+[/EN#202962/people A group of people] on [/EN#202964/scene a dock] with [/EN#202963/vehicles/scene a boat] on [/EN#202965/scene the other side of the dock] .
+[/EN#202963/vehicles/scene A highly decorated , light blue boat] is being lowered into [/EN#202965/scene the water] .
+[/EN#202962/people A group of people] stand on [/EN#202964/scene a dock] watching [/EN#202963/vehicles/scene a boat] .
+[/EN#202966/other Folks] on [/EN#202964/scene a pier] watch as [/EN#202963/vehicles/scene a decorated boat] passes .

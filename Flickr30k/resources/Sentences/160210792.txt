@@ -1,0 +1,5 @@
+[/EN#17294/people A person] in [/EN#17299/clothing a white shirt] with [/EN#17299/clothing blue stripes] is holding [/EN#17295/other a large bucket] shaped [/EN#17297/other object] on [/EN#17300/bodyparts the head] .
+[/EN#17294/people A young black man] is walking down [/EN#17296/scene a deserted street] with [/EN#17295/other a container] on [/EN#17298/bodyparts his head] .
+[/EN#17294/people Man] carries [/EN#17297/other empty Coke bottles] on [/EN#17298/bodyparts his head] across [/EN#17296/scene dirt road] .
+[/EN#17294/people A young boy] walks with [/EN#17295/other a bucket] on top of [/EN#17298/bodyparts his head] .
+[/EN#17294/people A man] walking with [/EN#17295/other a tub of something] on [/EN#17298/bodyparts his head] .

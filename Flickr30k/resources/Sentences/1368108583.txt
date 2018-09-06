@@ -1,0 +1,5 @@
+[/EN#10289/people A man] wearing [/EN#10291/clothing a black shirt] with [/EN#10294/bodyparts/people his arm] around [/EN#10293/people a woman] walking down [/EN#10292/scene the street] .
+[/EN#10289/people A man] in [/EN#10291/clothing a dark shirt] has [/EN#10294/bodyparts/people his arm] on [/EN#10296/bodyparts a females shoulder] .
+[/EN#10289/people A man] and [/EN#10293/people woman] walk down [/EN#10292/scene the street] together .
+[/EN#10290/people Young couple] taking [/EN#10297/other a stroll] in [/EN#10295/scene a busy city] .
+[/EN#10290/people Two people] walking down [/EN#10292/scene the sidewalk] .

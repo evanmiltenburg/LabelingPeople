@@ -1,0 +1,5 @@
+[/EN#73242/people A young man] with [/EN#73245/clothing glasses] wearing [/EN#73247/clothing a black t-shirt] is playing [/EN#73243/instruments the guitar] in [/EN#73244/scene a green walled room] .
+[/EN#73242/people A man] playing [/EN#73243/instruments the guitar] in [/EN#73244/scene a bedroom] with [/EN#73248/other a mushroom picture] on [/EN#73246/other the wall] behind [/EN#0/notvisual him] .
+[/EN#73242/people A guy] is playing [/EN#73243/instruments a bass guitar] in [/EN#73244/scene a room] with [/EN#73249/other posters] on [/EN#73246/other the wall] .
+[/EN#73242/people A man] with [/EN#73245/clothing glasses] is playing [/EN#73243/instruments an electric guitar] .
+[/EN#73242/people A young man] with [/EN#73245/clothing glasses] plays [/EN#73243/instruments a guitar] .

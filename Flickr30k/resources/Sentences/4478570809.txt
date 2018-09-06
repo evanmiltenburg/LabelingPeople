@@ -1,0 +1,5 @@
+[/EN#171719/people A man] in [/EN#171721/clothing a neon-yellow coat] is talking on [/EN#171720/other a cellphone] while sitting in [/EN#171723/scene a public area]
+[/EN#171719/people a man] in [/EN#171721/clothing a yellow safety jacket] and [/EN#171725/clothing blue jeans] is on [/EN#171720/other his cellphone] .
+[/EN#171719/people A man] in [/EN#171721/clothing a yellow jacket] sitting on [/EN#171722/other the bench] talking on [/EN#171720/other the phone] .
+[/EN#171719/people A person] in [/EN#171721/clothing a green jacket] talks on [/EN#171720/other a cellphone] in [/EN#171723/scene a train station] .
+[/EN#171719/people The man] in [/EN#171721/clothing the long yellow jacket] is talking on [/EN#171720/other the phone] .

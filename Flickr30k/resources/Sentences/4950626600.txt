@@ -1,0 +1,5 @@
+[/EN#222363/people Three people] walking down [/EN#222365/scene a street] with [/EN#222364/vehicles a bicycle] and [/EN#222366/clothing two umbrellas] .
+[/EN#222367/people A woman] walks with [/EN#222364/vehicles her bike] behind [/EN#222369/people two people] carrying [/EN#222366/clothing umbrellas] .
+[/EN#222363/people Three people] are traveling together toward [/EN#222368/scene the city] .
+[/EN#222363/people Three women] walking down [/EN#222365/scene the road] with [/EN#222366/clothing umbrellas] .
+[/EN#222363/people 3 women] walking down [/EN#222365/scene a road]

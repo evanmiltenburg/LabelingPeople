@@ -1,0 +1,5 @@
+[/EN#256700/people Two people] in [/EN#256703/clothing winter clothing] and [/EN#256702/animals a dog] are walking along [/EN#256701/scene a beach]
+[/EN#256704/people A man] and [/EN#256705/people a woman] is walking with [/EN#256702/animals a dog] across [/EN#256701/scene a beach]
+[/EN#256700/people Two people] walking [/EN#256702/animals a dog] on [/EN#256701/scene a beach] in [/EN#256703/clothing cold attire] .
+[/EN#256700/people Two people] walk on [/EN#256701/scene the beach] with [/EN#256702/animals a black dog] .
+[/EN#256700/people Couple] take [/EN#256702/animals their dog] for [/EN#256706/other a walk] on [/EN#256701/scene the beach] .

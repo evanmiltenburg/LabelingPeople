@@ -1,0 +1,5 @@
+[/EN#258925/people A man] wearing [/EN#258929/clothing jeans] and [/EN#258928/clothing a light green baseball cap] is fixing [/EN#258927/other a chair] in [/EN#258926/scene a auditorium] .
+[/EN#258925/people A male] in [/EN#258929/clothing blue jeans] and [/EN#258930/clothing blue shirt] working on [/EN#258931/scene some indoor seats] .
+[/EN#258925/people A man] in [/EN#258928/clothing a green cap] is repairing [/EN#258927/other a broken chair] .
+[/EN#258925/people A workman] fixing [/EN#258927/other a chair] in [/EN#258926/scene an auditorium] .
+[/EN#258925/people old man] in [/EN#258928/clothing a cap] fixing [/EN#258927/other a broken chair]

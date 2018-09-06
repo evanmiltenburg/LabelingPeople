@@ -1,0 +1,5 @@
+[/EN#222740/people A woman] in [/EN#222743/clothing a red shirt] and [/EN#222744/clothing hat] standing in front of [/EN#222742/scene a brick building] with [/EN#222741/other a sign] above [/EN#0/notvisual her] .
+[/EN#222740/people A woman] smokes [/EN#222747/other a cigarette] besides [/EN#222748/other an electrical box] and [/EN#222741/other a billboard] advertising [/EN#222749/scene church]
+[/EN#222740/people a person] in [/EN#222743/other a checkered red shit] is standing next to [/EN#222742/other a wall] while [/EN#222750/other smoking] .
+[/EN#222740/people A woman] in [/EN#222743/clothing a red shirt] and [/EN#222744/clothing hat] smokes beneath [/EN#222741/other a religious-themed placard] .
+[/EN#222740/people A person] in [/EN#222743/clothing a red shirt] stands against [/EN#222742/other a brick wall] .

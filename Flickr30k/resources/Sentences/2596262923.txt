@@ -1,0 +1,5 @@
+[/EN#60390/people A small blond-haired child] standing alone on [/EN#60391/scene the grass] while [/EN#60392/people adults] are at [/EN#60396/other a concert] .
+[/EN#0/notvisual There] are [/EN#60392/people people] watching [/EN#60393/people a band] play [/EN#60397/scene outdoors] and [/EN#60390/people a child] is in [/EN#0/notvisual the foreground] .
+[/EN#60390/people A small child] standing in [/EN#60391/scene the grass] watching [/EN#60393/people a band] playing at [/EN#60395/scene an outdoor event] .
+[/EN#60390/people A little girl] with [/EN#60394/bodyparts blond-hair] looking at [/EN#60392/people the crowd] .
+[/EN#60390/people A child] looks upon [/EN#60392/people adults] enjoying [/EN#60393/people a band] .

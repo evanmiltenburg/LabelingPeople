@@ -1,0 +1,5 @@
+[/EN#264984/people Two men] are racing in [/EN#264986/vehicles go-carts] on [/EN#264985/scene a track] dressed in [/EN#264987/clothing racing helmets] .
+[/EN#264984/people Two people] driving [/EN#264986/vehicles blue and black go-carts] drive next to [/EN#0/notvisual each other] .
+[/EN#264988/other Two colorful race-cars] are racing on [/EN#264989/other a racetrack] .
+[/EN#264984/people Two people] are racing [/EN#264986/vehicles miniature cars] on [/EN#264985/scene a track] .
+[/EN#264984/people 2 men] racing in [/EN#264986/vehicles go-carts] .

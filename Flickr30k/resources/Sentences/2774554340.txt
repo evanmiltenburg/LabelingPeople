@@ -1,0 +1,5 @@
+[/EN#72261/people Two young men] , [/EN#72262/other one] wearing [/EN#72263/clothing a blue shirt] , [/EN#72264/other one] wearing [/EN#72265/clothing a white shirt] , are sitting in [/EN#72267/vehicles a vehicle] and laughing .
+[/EN#72261/people Two men] sit inside [/EN#72267/vehicles a car] , facing [/EN#0/notvisual each other] and smiling .
+[/EN#72261/people Two men] in [/EN#72267/vehicles a vehicle] smiling at [/EN#0/notvisual one another] .
+[/EN#72261/people Two men] in [/EN#72268/other a van] are talking to [/EN#0/notvisual each other] .
+[/EN#72261/people Two guys] smiling as [/EN#0/notvisual they] sit in [/EN#72267/vehicles a vehicle] .

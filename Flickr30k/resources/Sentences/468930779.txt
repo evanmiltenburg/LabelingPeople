@@ -1,0 +1,5 @@
+[/EN#191322/animals A dog] has [/EN#191326/bodyparts its head] coming up from [/EN#191325/scene the water] as [/EN#0/notvisual it] holds [/EN#191323/other a stick] .
+[/EN#191322/animals closeup of a brown dog] in [/EN#191325/scene the water] holding [/EN#191323/other a very large stick] .
+[/EN#191322/animals A swimming dog] with [/EN#191323/other a small branch] in [/EN#191324/bodyparts its mouth] .
+[/EN#191322/animals A brown dog] carrying [/EN#191323/other a stick] in [/EN#191324/bodyparts its mouth] .
+[/EN#191322/animals A dog] swimming with [/EN#191323/other a stick] in [/EN#191324/bodyparts its mouth] .

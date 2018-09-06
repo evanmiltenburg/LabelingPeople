@@ -1,0 +1,5 @@
+[/EN#147649/people A person] is preparing to send [/EN#147651/other a piece of paper] through [/EN#147650/other a paper shredder] .
+[/EN#147652/bodyparts A man 's arms] putting [/EN#147651/other some paper] in [/EN#147650/other a copying machine] .
+[/EN#147649/people this person] is about to put [/EN#147651/other paper] into [/EN#147650/other a copy machine]
+[/EN#147649/people A person] is putting [/EN#147651/other paper] through [/EN#147650/other a shredder] .
+[/EN#147649/people A man] working [/EN#147650/other an office printer] .

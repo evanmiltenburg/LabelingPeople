@@ -1,0 +1,5 @@
+[/EN#183969/people A person] in [/EN#183971/clothing a light green jacket] carries [/EN#183970/clothing a multicolored umbrella] in [/EN#183973/scene an outdoor public area] .
+[/EN#183969/people a person] with [/EN#183970/clothing a multicolored umbrella] is standing looking at [/EN#183972/scene a building] .
+[/EN#183969/people A person] in [/EN#183971/clothing a green jacket] is holding [/EN#183970/clothing a rainbow umbrella] .
+[/EN#183969/people A person] standing under [/EN#183970/clothing an umbrella] looking at [/EN#183972/scene buildings] .
+[/EN#183969/people A person] in [/EN#183971/clothing a green shirt] holding [/EN#183970/clothing a colorful umbrella] .

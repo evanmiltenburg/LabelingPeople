@@ -1,0 +1,5 @@
+[/EN#168941/people A lady] with [/EN#168947/clothing a green scarf] sits on [/EN#168944/other a bench] with [/EN#168942/people a man] in [/EN#168948/clothing an orange tank] and [/EN#168942/people another man] with [/EN#168945/animals a dog] .
+[/EN#168943/people Two men] and [/EN#168941/people a woman] sit on [/EN#168944/other a brown bench] with [/EN#168945/animals a brown dog] .
+[/EN#168946/people Three people] sitting on [/EN#168944/other a brown wooden bench] .
+[/EN#168943/people Two men] and [/EN#168941/people one woman] sit on [/EN#168944/other a public bench] .
+[/EN#168942/people A man] with [/EN#168945/animals a dog] is sitting on [/EN#168944/other a bench] .

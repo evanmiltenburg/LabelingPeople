@@ -1,0 +1,5 @@
+[/EN#50617/animals A white dog] in [/EN#50618/clothing a blue] leaps over [/EN#50619/people a man] in [/EN#50620/clothing a blue outfit] with [/EN#50621/other yellow stars] in order to catch [/EN#50622/other a Frisbee] whilst [/EN#50623/people people] stand by and watch .
+[/EN#50623/people A large crowd of people] are sitting watching [/EN#50617/animals a dog] jump [/EN#50627/other high] up to catch [/EN#50622/other a Frisbee] with [/EN#50619/people a man] standing under [/EN#50617/animals the dog] looking up at [/EN#0/notvisual it] .
+[/EN#50619/people Man] and jumping [/EN#50617/animals dog] perform [/EN#50624/other Frisbee act] for [/EN#50623/people crowd] at [/EN#50626/scene outdoor event] .
+[/EN#50619/people A man] ducks down as [/EN#50617/animals a dog] flies over [/EN#50625/bodyparts his head] to fetch [/EN#50622/other a Frisbee] .
+[/EN#50617/animals A dog] with [/EN#50622/other a Frisbee] jumps over [/EN#50619/people a man]

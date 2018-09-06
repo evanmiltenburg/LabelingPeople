@@ -1,0 +1,5 @@
+[/EN#138987/people The little boy] in [/EN#138989/clothing the blue t-shirt] is smiling under [/EN#138988/clothing the blue umbrella] even though [/EN#0/notvisual it] is not raining .
+[/EN#138987/people A little boy] smiles as [/EN#0/notvisual he] holds [/EN#138988/clothing a blue umbrella] above [/EN#0/notvisual him] .
+[/EN#138987/people A blond boy] is holding [/EN#138988/clothing a blue umbrella] .
+[/EN#138987/people A wet boy] stands under [/EN#138988/clothing an umbrella] .
+[/EN#138987/people The kid] is under [/EN#138988/clothing the blue umbrella] .

@@ -1,0 +1,5 @@
+[/EN#70906/scene A city street] with [/EN#70897/vehicles cars] parked by [/EN#70898/other the meters] and [/EN#70899/people people] walking and congregating under [/EN#70900/scene a pavilion type area] .
+[/EN#70901/scene Many buildings] and [/EN#70902/scene stores] are shown with [/EN#70897/vehicles cars] and [/EN#70903/people people] on [/EN#70904/scene the sidewalk] and [/EN#70906/scene street] .
+[/EN#70899/people Crowd of people] walk around on [/EN#70905/scene a brick paved shop] lined [/EN#70906/scene street] .
+[/EN#70899/people People] walking [/EN#70907/other all over] on [/EN#70904/scene a busy downtown street] .
+[/EN#70899/people People] walking around [/EN#70906/scene a downtown area of a city] .

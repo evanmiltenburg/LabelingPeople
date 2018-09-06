@@ -1,0 +1,5 @@
+[/EN#39260/people This person] , seated on [/EN#39261/vehicles a type of go-cart] , is riding downhill .
+[/EN#39260/people A person] rolls down [/EN#39262/scene a hill] riding [/EN#39261/vehicles a wagon] as [/EN#0/notvisual another] watches .
+[/EN#39260/people a young person] riding [/EN#39261/vehicles a small wagon] down [/EN#39262/scene a hill] .
+[/EN#39260/people The boy] comes down [/EN#39262/scene the hill] in [/EN#39261/vehicles the red wagon] .
+[/EN#39260/people a boy] is riding [/EN#39261/vehicles a buggy] down [/EN#39262/scene a woodland path] .

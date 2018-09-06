@@ -1,0 +1,5 @@
+[/EN#241269/people A man] and [/EN#241270/people his daughter] are cleaning [/EN#241273/other windows] with [/EN#241269/people the man] cleaning [/EN#241273/other the window] on [/EN#241280/scene the outside of the house] and [/EN#241270/people the daughter] disinterestedly cleaning [/EN#241273/other the window] on [/EN#241274/scene the inside] .
+[/EN#241269/people A balding man] in [/EN#241271/clothing a blue tank-top] cleans [/EN#241273/other a window] from [/EN#241273/scene the outside] , while [/EN#241270/people a you girl] in [/EN#241272/clothing blue] cleans from [/EN#241274/scene the inside] .
+[/EN#241270/people A girl] in [/EN#241272/clothing an aqua tank top] is watching [/EN#241269/people a man] in [/EN#241271/clothing a blue tank top] and [/EN#241279/clothing shorts] wash [/EN#241273/other the window] .
+[/EN#241269/people A man] wipes [/EN#241273/other the outside of a window clean] as [/EN#241270/people a girl] cleans [/EN#241273/other the same window] from [/EN#241274/scene the inside] .
+[/EN#241276/people Two people] are cleaning [/EN#241273/other windows] from [/EN#0/notvisual opposite sides] while looking at [/EN#0/notvisual one another] .

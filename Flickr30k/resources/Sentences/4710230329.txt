@@ -1,0 +1,5 @@
+[/EN#193713/vehicles A blue light rail tram] goes down [/EN#193714/scene a busy street] while [/EN#193719/people pedestrians] wait to cross .
+[/EN#193713/other An blue electric trolley] turns [/EN#193717/scene a corner] on [/EN#193714/scene a busy Asian street] .
+[/EN#193713/other A mint green trolley] passes though [/EN#193714/scene a city] .
+[/EN#193713/other A trolley] heading down [/EN#193714/scene the street]
+[/EN#193716/vehicles/scene A train] drives through [/EN#193714/scene town] .

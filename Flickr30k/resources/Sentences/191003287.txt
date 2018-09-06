@@ -1,0 +1,5 @@
+[/EN#22993/people A man] with [/EN#23006/clothing sunglasses] and [/EN#22993/other a black shirt feeds ice cream] to [/EN#22999/people a girl] with [/EN#23000/clothing an orange dress] on [/EN#0/notvisual who] is sitting beside [/EN#23004/clothing an opened bag] .
+[/EN#22993/people A man] in [/EN#23003/clothing a black shirt] and [/EN#22999/people his little girl] wearing [/EN#23000/clothing orange] are sharing [/EN#22994/other a treat] .
+[/EN#22993/people A man] is feeding [/EN#22998/other a child food] while sitting near [/EN#22996/scene a building] with [/EN#23005/people onlookers] .
+[/EN#22993/people A man] , seated , serves [/EN#22998/other food] to [/EN#22999/people a little girl] .
+[/EN#22993/people A father] feeding [/EN#22999/people his child] on [/EN#22997/scene the street] .

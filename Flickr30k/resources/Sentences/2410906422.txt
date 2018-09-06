@@ -1,0 +1,5 @@
+[/EN#47054/people A man] and [/EN#47055/other a cow re] shown in [/EN#0/notvisual the foreground] while [/EN#47056/vehicles/scene a long train] is in [/EN#47061/other the back] .
+[/EN#47054/people One man] stops to give [/EN#47060/other a sweet kiss] to [/EN#47055/animals a cow] near [/EN#47056/vehicles/scene a train] on [/EN#47059/scene an overpass] .
+[/EN#47054/people A man] makes [/EN#47063/bodyparts a kissing face] to [/EN#47055/animals a cow] in front of [/EN#47056/vehicles/scene a train] .
+[/EN#0/notvisual There] is [/EN#47054/people a man] getting ready to kiss [/EN#47055/animals a cow] .
+[/EN#47054/people A man] leans beside [/EN#47055/animals a cow] in [/EN#47058/scene a grassy field] .

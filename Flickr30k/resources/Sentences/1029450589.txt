@@ -1,0 +1,5 @@
+[/EN#844/people An adult] wearing [/EN#847/clothing a gray shirt] with [/EN#849/clothing red sleeves] sleeping on [/EN#845/other a couch] .
+[/EN#844/people A woman] in [/EN#848/clothing black pants] napping on [/EN#845/other the couch] .
+[/EN#844/people A man] sleeping in [/EN#846/scene a green room] on [/EN#845/other a couch] .
+[/EN#844/people The young woman] is sleeping in [/EN#846/scene her room] .
+[/EN#844/people A long-haired man] sleeping on [/EN#845/other a couch]

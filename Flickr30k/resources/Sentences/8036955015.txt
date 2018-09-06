@@ -1,0 +1,5 @@
+[/EN#278009/people A man] wearing [/EN#278013/clothing a white helmet] is driving [/EN#278010/other a four wheeled motorcycle] in [/EN#278014/scene a dirt field] .
+[/EN#278009/people A man] riding on [/EN#278010/other a four wheeler] as [/EN#0/notvisual he] leaps through [/EN#0/notvisual the air] with [/EN#278016/other smoke] behind [/EN#0/notvisual him] .
+[/EN#278009/people A guy] in [/EN#278015/clothing racing gear] gets [/EN#0/notvisual air] while riding [/EN#278010/vehicles a yellow ATV] .
+[/EN#278009/people A man] in [/EN#278013/clothing a safety helmet] is riding [/EN#278010/vehicles an ATV] very fast .
+[/EN#278009/people A cyclist] riding [/EN#278010/vehicles an all terrain vehicle] .

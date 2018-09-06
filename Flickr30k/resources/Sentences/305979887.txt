@@ -1,0 +1,5 @@
+[/EN#90798/people A person] is sitting on [/EN#90800/other a yellow picnic table] with [/EN#90801/other a water bottle] , while [/EN#90799/other a baby stroller] sits beside [/EN#0/notvisual her] .
+[/EN#90798/people A woman] having [/EN#90803/other her time] thinking of how [/EN#0/notvisual she] will break away from [/EN#90802/people her drinking husband]
+[/EN#90798/people A woman] wearing [/EN#91000/clothing gray] , sitting on [/EN#90800/other a picnic table] by [/EN#90799/other a baby stroller] .
+[/EN#90798/people A woman] next to [/EN#90799/other a stroller] stops for [/EN#90801/scene a drink of water] on [/EN#90800/other a bench] .
+[/EN#90798/people A woman] sits on [/EN#90800/other a park picnic table] near [/EN#90799/other a stroller] .

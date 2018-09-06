@@ -1,0 +1,5 @@
+[/EN#50712/people Two people] travel down [/EN#50713/scene a path] going though [/EN#50716/other a woods] with [/EN#50711/scene a giant waterfall] .
+[/EN#50711/scene A waterfall] splashes into [/EN#50714/scene a pool] at [/EN#50715/scene the bottom of a steep grassy hill] .
+[/EN#50711/scene A beautiful waterfall] with [/EN#50712/people two people] walking on [/EN#50713/scene the road] beside [/EN#0/notvisual it] .
+[/EN#50711/scene A beautiful waterfall] flows down [/EN#50715/other the side of a mossy rock wall] .
+[/EN#50711/scene A waterfall] cascades into [/EN#50714/scene a shallow pool] .

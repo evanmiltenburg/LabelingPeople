@@ -1,0 +1,5 @@
+[/EN#202283/people Man] in [/EN#202286/clothing white shirt] and [/EN#202288/clothing blue jeans] looking to [/EN#0/notvisual the side] while walking down [/EN#202284/scene a busy sidewalk] .
+[/EN#202283/people A man] wearing [/EN#202286/other a white button] down [/EN#202286/clothing shirt] is walking down [/EN#202285/scene the street] .
+[/EN#202283/people A man] wearing [/EN#202286/other a white button] down [/EN#202286/clothing shirt] is walking down [/EN#202284/scene a street] .
+[/EN#202283/people A man] in [/EN#202286/clothing a white shirt] and [/EN#202288/clothing dark pants] is walking down [/EN#202284/scene a street] .
+[/EN#202290/people People] stroll down [/EN#202285/scene a sidewalk of a city street] .

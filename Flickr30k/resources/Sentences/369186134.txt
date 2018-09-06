@@ -1,0 +1,5 @@
+[/EN#137234/animals A group of three dogs] are walking through [/EN#137237/scene the snow] .
+[/EN#137235/animals Two yellow dogs] and [/EN#137238/animals a small dog] walk through [/EN#137237/scene snow] .
+[/EN#137235/animals Three dogs] standing in [/EN#137237/scene snow] next to [/EN#137236/scene a blue fence] .
+[/EN#137234/animals Three dogs] next to [/EN#137236/scene a blue fence] in [/EN#137237/scene the snow] .
+[/EN#137234/animals Three dogs] in [/EN#137237/scene the snow] by [/EN#137236/scene a fence] .

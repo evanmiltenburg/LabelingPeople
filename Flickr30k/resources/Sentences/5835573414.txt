@@ -1,0 +1,5 @@
+[/EN#243809/people A male tap dancer] wearing [/EN#243812/clothing black suspenders] and [/EN#243816/clothing a dress shirt] is in front of [/EN#243818/other a musical trio] on [/EN#243811/scene a stage] with [/EN#243824/bodyparts one leg] raised as [/EN#0/notvisual he] is in [/EN#243822/other the middle of a dance move] .
+[/EN#243809/people A man] [/EN#0/notvisual who] looks like [/EN#243813/people Rod Stewart] is dancing alone at [/EN#243814/scene a bar] while [/EN#243821/people some other men] play [/EN#243820/instruments musical instruments] .
+[/EN#243809/people A man] on [/EN#243811/scene stage] dances to [/EN#243817/people the music of a man] playing [/EN#243819/instruments a wind instrument] and [/EN#243817/people a man] playing [/EN#243815/other a double base] .
+[/EN#243809/people A man] wearing [/EN#243812/clothing suspenders] is dancing on [/EN#243811/scene stage] in front of [/EN#243810/people a musical group] .
+[/EN#243809/people A man] in [/EN#243812/clothing suspenders] is dancing on [/EN#243811/scene a stage] while [/EN#243810/people a band] plays behind [/EN#0/notvisual him] .

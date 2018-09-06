@@ -1,0 +1,5 @@
+[/EN#58141/people A swimmer] wearing [/EN#58142/clothing goggles] and [/EN#58143/clothing white cap] is in [/EN#58141/scene the pool] .
+[/EN#58141/people A person] with [/EN#58143/clothing swim cap] and goggles taking [/EN#58145/other a breath] .
+[/EN#58141/people A girl] in [/EN#58141/scene water] , with [/EN#58142/clothing goggles] and swimming [/EN#58143/clothing cap] .
+[/EN#58141/people Swimmer] wearing [/EN#58142/clothing goggles] , in [/EN#58141/scene water] .
+[/EN#58141/people A female swimmer] comes up for [/EN#0/notvisual air] .

@@ -1,0 +1,5 @@
+[/EN#109185/people A woman] in [/EN#109189/clothing a black skirt] and [/EN#109191/clothing dark red sweater] with [/EN#109192/scene holes] in [/EN#109193/clothing the sleeves] sitting on [/EN#109186/other a trunk] to put on [/EN#109187/other red flame tights] .
+[/EN#109185/people A woman] attempting to put on [/EN#109187/other a pair of tights] in [/EN#109190/scene an unkempt room] .
+[/EN#109185/people A woman] sits down and puts on [/EN#109187/other a pair of red tights] .
+[/EN#109185/people A woman] sits on [/EN#109186/other a bed] and puts on [/EN#109188/clothing her red socks] .
+[/EN#0/notvisual this] is [/EN#109185/people a woman] putting [/EN#109188/clothing her socks] on .

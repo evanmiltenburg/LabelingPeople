@@ -1,0 +1,5 @@
+[/EN#26334/people A child] wearing [/EN#26335/clothing a coat] is standing on [/EN#26340/scene a white tile floor] holding [/EN#26337/other a toy] in [/EN#26336/scene a toy store] .
+[/EN#26334/people A child] wearing [/EN#26335/clothing a dark green coat] carrying [/EN#26337/other a toy] in [/EN#26336/scene a toy store] .
+[/EN#26334/people A male toddler] in [/EN#26335/clothing a jacket] carries [/EN#26337/other a toy] in [/EN#26336/scene a store] .
+[/EN#26334/people A young child] is carrying [/EN#26337/other a toy] in [/EN#26336/scene the store] .
+[/EN#26334/people Young boy] holding [/EN#26337/other a toy] in [/EN#26336/scene a store] .

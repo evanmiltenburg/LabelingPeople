@@ -1,0 +1,5 @@
+[/EN#27624/animals The black and white dog] along with [/EN#27626/animals the brown dog] are galloping outside
+[/EN#27624/animals A black and white dog] runs beside [/EN#27626/animals a brown dog] in [/EN#27627/scene a green field] .
+[/EN#27625/animals Two dogs] run across [/EN#27627/scene the grassy field] .
+[/EN#27625/animals Two dogs] running fast in [/EN#27627/scene the grass] .
+[/EN#27625/animals Two dogs] race through [/EN#27627/scene a field] .

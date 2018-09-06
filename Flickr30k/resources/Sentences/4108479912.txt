@@ -1,0 +1,5 @@
+[/EN#155877/people An African American man] wearing [/EN#155885/clothing a gray cap] and [/EN#155886/clothing glasses] is drawing [/EN#155881/people a portrait of someone] from [/EN#155879/other a picture] on [/EN#155883/bodyparts his lap] .
+[/EN#155877/people An artist] making [/EN#155880/other a portrait] with [/EN#155880/other the canvas] and [/EN#155879/other original picture] placed on [/EN#155883/bodyparts his right knee] .
+[/EN#155877/people An artist] finishes [/EN#155880/other a sketch] while [/EN#0/notvisual he] sits on [/EN#155878/other a bench] on [/EN#155887/scene the sidewalk] .
+[/EN#155877/people An African man] sitting on [/EN#155878/other a bench] is drawing [/EN#155879/other a picture] .
+[/EN#155877/people Man] drawing [/EN#155879/other a picture] from [/EN#155880/other a portrait] .

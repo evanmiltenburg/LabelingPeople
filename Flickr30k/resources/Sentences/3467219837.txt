@@ -1,0 +1,5 @@
+[/EN#120247/animals A dog] with [/EN#120252/clothing a muzzle] is leading [/EN#120248/animals several other dogs] in [/EN#120249/other a race]
+[/EN#120247/animals A muzzled dog] in [/EN#120249/other a race] , with [/EN#120251/animals four dogs] following .
+[/EN#120248/animals Five dogs] are racing on [/EN#120253/scene a dirt track] .
+[/EN#120250/animals A greyhound] leaps in [/EN#120249/other a race] .
+[/EN#120248/animals Five dogs] are racing .

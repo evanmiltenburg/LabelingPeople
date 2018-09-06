@@ -1,0 +1,5 @@
+Here is [/EN#204522/people a grandmother] walking [/EN#204526/scene home] from [/EN#204527/scene restaurant] [/EN#0/notvisual she] just bought [/EN#204528/other her takeout food] from .
+[/EN#204522/people A woman] in [/EN#204524/clothing a yellow shirt] is carrying [/EN#204525/clothing two full red grocery bags] .
+[/EN#204522/people Woman] walks with [/EN#204525/clothing red grocery bags] down [/EN#204523/scene the cobble street] .
+[/EN#204522/people A woman] in [/EN#204524/clothing a yellow shirt] is carrying [/EN#204525/clothing two bags] .
+[/EN#204522/people A woman] carrying [/EN#204525/clothing grocery bags] down [/EN#204523/scene the street] .

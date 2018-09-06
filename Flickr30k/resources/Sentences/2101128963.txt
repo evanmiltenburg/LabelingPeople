@@ -1,0 +1,5 @@
+[/EN#28741/people A Philadelphia Phillie pitcher] on [/EN#28745/scene the pitchers mound] with [/EN#28750/bodyparts his left leg] up behind [/EN#0/notvisual him] .
+[/EN#28742/other A baseball] is recoiling from [/EN#28743/other an action] taken on [/EN#28746/scene a treated field] watched by [/EN#28744/other others] .
+[/EN#28741/people A pitcher] in [/EN#28751/clothing a red and white uniform] in [/EN#28747/other a baseball game] has just thrown [/EN#28742/other the ball] .
+[/EN#28741/people A baseball player] on [/EN#28746/scene a playing field] springs into [/EN#28743/other action] .
+[/EN#28741/people A baseball player] standing on [/EN#28748/other the mound] .

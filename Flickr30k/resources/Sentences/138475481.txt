@@ -1,0 +1,5 @@
+[/EN#10701/people A man] wearing [/EN#10708/clothing a rain jacket] cooking on [/EN#10705/other a grill] while [/EN#10704/people a couple people] watch and [/EN#10701/people a gentleman] smiles into [/EN#10709/other camera] .
+[/EN#10701/people The man] in [/EN#0/notvisual the background] is grilling [/EN#10706/other food] while [/EN#10701/people the man] in [/EN#0/notvisual the foreground] is talking to [/EN#0/notvisual the camera] .
+[/EN#10701/people A man] wearing [/EN#10710/clothing glasses] and [/EN#10707/clothing a blue jacket] is smiling while [/EN#10711/people men] behind [/EN#0/notvisual him] are cooking on [/EN#10705/other a grill] .
+[/EN#10703/people Some men] are standing around [/EN#10705/other a grill] as [/EN#10712/other some] are cooking .
+[/EN#10703/people Some men] in [/EN#10706/other windbreakers grill hotdogs] .

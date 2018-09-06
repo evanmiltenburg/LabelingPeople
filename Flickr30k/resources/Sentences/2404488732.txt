@@ -1,0 +1,5 @@
+[/EN#46787/animals A brown dog] runs in [/EN#46788/scene a field] while [/EN#46790/bodyparts its ears] fly to [/EN#0/notvisual the sides] .
+[/EN#46787/animals A gray dog] with [/EN#46792/bodyparts short hair] running toward [/EN#0/notvisual the camera] .
+[/EN#46787/animals Brown dog] with [/EN#46791/bodyparts mouth open and ears] in [/EN#0/notvisual air] running .
+[/EN#46787/animals A brown dog] is running outside .
+[/EN#46787/animals A brown dog] runs in [/EN#46788/scene a field] .

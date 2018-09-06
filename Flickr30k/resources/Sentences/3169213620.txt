@@ -1,0 +1,5 @@
+[/EN#97929/people A toddler] dressed only in [/EN#97930/other a pamper] is sitting on [/EN#97931/scene the floor] playing with [/EN#97932/other 4 " car " pieces to a train set] .
+[/EN#97929/people A young male toddler] wearing [/EN#97930/clothing a diaper] sits on [/EN#97931/scene a carpeted floor] as [/EN#0/notvisual he] plays with [/EN#97932/vehicles/scene a set of toy trains] .
+[/EN#97929/people Small child] in [/EN#97930/clothing diaper] playing with [/EN#97932/vehicles/scene Thomas trains] .
+[/EN#97929/people A toddler] is playing with [/EN#97932/vehicles/scene model trains] on [/EN#97931/other carpet] .
+[/EN#97929/people A young child] playing with [/EN#97932/vehicles/scene his toy trains] .

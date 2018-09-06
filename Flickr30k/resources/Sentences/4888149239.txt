@@ -1,0 +1,5 @@
+[/EN#215015/people A woman] wearing [/EN#215016/clothing a blue shirt] , [/EN#215018/clothing jeans] and [/EN#215019/clothing red converse sneakers] takes [/EN#215020/other a photograph] .
+[/EN#215015/people A young woman] wearing [/EN#215016/clothing a blue shirt] , [/EN#215018/clothing jeans] and [/EN#215019/clothing red sneakers] taking [/EN#215017/other a picture] .
+[/EN#215015/people A woman] in [/EN#215016/clothing a blue shirt] and [/EN#215018/clothing jeans] is taking [/EN#215017/other a photo] .
+[/EN#215015/people A girl] in [/EN#215016/clothing a blue shirt] takes [/EN#215017/other a photo] .
+[/EN#215015/people A woman] taking [/EN#215017/other a picture] .

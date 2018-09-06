@@ -1,0 +1,5 @@
+[/EN#251509/people A man] in [/EN#251513/vehicles a serious red bicycle] riding [/EN#251515/clothing uniform] going around [/EN#251514/other a course] [/EN#0/notvisual that] is in [/EN#251510/scene grass] .
+[/EN#251509/people A man] dressed in [/EN#251509/other bicycle gear] is riding through [/EN#251514/other a course] .
+[/EN#251509/people A man] riding [/EN#251513/vehicles a red and white bike] on [/EN#251511/scene sunny day] .
+[/EN#251509/people A man] in [/EN#251515/clothing a red jersey] is riding [/EN#251513/vehicles his bike] .
+[/EN#251509/people A guy] riding [/EN#251513/vehicles a bike] on [/EN#251508/scene a track] .

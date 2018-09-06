@@ -1,0 +1,5 @@
+[/EN#230097/people A group of children] are looking at [/EN#230098/other a sculpture] in [/EN#230099/scene a museum] .
+[/EN#230097/people A group of small children] and [/EN#230101/people an older woman] look at [/EN#230100/other statues]
+[/EN#230097/people A group of children] and [/EN#230101/people a woman] are examining [/EN#230100/other art exhibits] .
+[/EN#230097/people The children] are looking at [/EN#230098/other the display] in [/EN#230099/scene the museum] .
+[/EN#230097/people Small school children] look at [/EN#230100/other an exhibit] at [/EN#230099/scene a museum] .

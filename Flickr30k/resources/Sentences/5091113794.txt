@@ -1,0 +1,5 @@
+[/EN#228667/people A man] with [/EN#228670/bodyparts a mustache] and [/EN#228668/clothing a black shirt] is playing [/EN#228669/instruments the saxophone] .
+[/EN#0/notvisual There] is [/EN#228667/people a guy] with [/EN#228670/bodyparts a mustache] [/EN#0/notvisual who] is playing [/EN#228669/instruments a gold saxaphone] .
+[/EN#228667/people A middle-aged man] wearing [/EN#228668/clothing a blue shirt] is playing [/EN#228669/instruments a saxophone] .
+[/EN#228667/people A man] is playing [/EN#228669/instruments a saxophone] in [/EN#228671/scene a public space] .
+[/EN#228667/people A man] with [/EN#228670/bodyparts a mustache] plays [/EN#228669/instruments the saxophone] .

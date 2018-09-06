@@ -1,0 +1,5 @@
+[/EN#33888/people A man] wearing [/EN#33889/clothing a blue t-shirt] is grilling [/EN#33890/other food] while [/EN#33891/people a woman] wearing [/EN#33892/clothing a pink tank top] watches .
+[/EN#33888/people A young man] tends [/EN#33890/clothing chicken wings] on [/EN#33895/other a barbecue] while [/EN#33891/people a young woman] in [/EN#33892/clothing a pink shirt] watches .
+[/EN#33888/people Man] in [/EN#33889/clothing blue shirt] grilling [/EN#33890/clothing chicken wings] .
+[/EN#33888/people A man] and [/EN#33891/people a woman] are grilling [/EN#33896/scene outdoors] .
+[/EN#33888/people A man] barbecues [/EN#33890/animals chicken] on [/EN#33895/other a grill] .

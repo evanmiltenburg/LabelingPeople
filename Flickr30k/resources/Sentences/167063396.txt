@@ -1,0 +1,5 @@
+[/EN#18415/people A man] in [/EN#18419/clothing a red shirt] and [/EN#18416/clothing jacket] is looking to [/EN#0/notvisual the side] while surrounded by [/EN#18414/people other men] wearing [/EN#18420/clothing helmets] .
+[/EN#18415/people A man] wearing [/EN#18416/clothing a brown jacket] stands among [/EN#18414/people a group of men] in front of [/EN#18417/other a large machine] .
+[/EN#18414/people Men] on [/EN#18423/scene a work site] are looking at [/EN#18422/other something] to [/EN#18424/scene their right] .
+[/EN#18414/people A group of men] converse over [/EN#18418/other a potential problem] .
+[/EN#18414/people People] standing in front of [/EN#18417/other mechanical equipment] .

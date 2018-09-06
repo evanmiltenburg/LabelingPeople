@@ -1,0 +1,5 @@
+[/EN#253687/people A white male] in [/EN#253692/clothing a yellow jacket] is kayaking through [/EN#253690/scene waves of water] in [/EN#253688/other a blue kayak] .
+[/EN#253687/people This man] in [/EN#253688/other the kayak] is think [/EN#253688/other this kayak] is way too small for [/EN#0/notvisual him] .
+[/EN#253687/people A man] is kayaking and has encountered [/EN#253689/scene a rough wave] .
+[/EN#253687/people A man] in [/EN#253688/other a blue kayak] going through [/EN#253690/other rapids] .
+[/EN#253687/people A man] in [/EN#253688/other a kayak] fights [/EN#253689/scene rough waters] .

@@ -1,0 +1,5 @@
+[/EN#202781/people A woman] looks out of [/EN#202783/scene a doorway] with [/EN#202784/other yellow cans] and [/EN#202789/other green trashcans] behind [/EN#0/notvisual her] .
+[/EN#202781/people A man] stands outside [/EN#202782/scene his home] by [/EN#202784/other some yellow boxes] .
+[/EN#202781/people A man] stands on [/EN#202791/scene the side of a street] in [/EN#202788/scene a doorway] .
+[/EN#202781/people An old man] is standing outside [/EN#202783/scene a building] .
+[/EN#202785/other The number] on [/EN#202789/other the trash box] is [/EN#202785/other 66] .

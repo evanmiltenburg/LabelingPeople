@@ -1,0 +1,5 @@
+[/EN#68631/people A woman] with [/EN#68633/clothing a purple number 10 shirt] and [/EN#68634/clothing blue shorts] stands in front of [/EN#68632/other a brick wall] full of [/EN#68630/people sitting children] .
+[/EN#68630/people A group of children] sit on [/EN#68635/scene the floor] against [/EN#68632/other a brick wall] while [/EN#68631/people a woman] observes [/EN#0/notvisual them] .
+[/EN#68630/people Many children] sit against [/EN#68632/other a brick wall] while [/EN#68631/people an adult] stands over [/EN#0/notvisual them] .
+[/EN#68630/people A group of kids] sitting along [/EN#68632/other a wall] .
+[/EN#68630/people Kids] sitting along [/EN#68632/other a brick wall] .

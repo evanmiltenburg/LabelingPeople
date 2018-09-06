@@ -1,0 +1,5 @@
+[/EN#222907/people A woman] wearing [/EN#222910/clothing a black and white striped shirt] sits on [/EN#222908/other a black bench] reading [/EN#222912/other a book] .
+[/EN#222907/people A woman] wearing [/EN#222913/clothing a dark skirt] and [/EN#222910/clothing striped shirt] sits reading on [/EN#222908/other a bench] on [/EN#222914/scene the corner] .
+[/EN#222907/people A person] with [/EN#222910/clothing a striped shirt] sitting on [/EN#222909/other a chair] on [/EN#222911/scene the corner of a building] .
+[/EN#222907/people Brunette woman] sits on [/EN#222909/other a chair] on [/EN#222911/scene the corner of the street] reading .
+[/EN#222907/people A woman] sitting on [/EN#222908/other a bench] on [/EN#222911/scene the sidewalk] .

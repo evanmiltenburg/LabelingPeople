@@ -1,0 +1,5 @@
+[/EN#209460/people Woman] in front of [/EN#0/notvisual what] appears to be [/EN#209462/other a storefront] with [/EN#209461/other the display window] completely covered in [/EN#209461/other newspapers] .
+[/EN#209460/people A young woman] is walking down [/EN#209463/scene the street] past [/EN#209462/other a window] [/EN#0/notvisual that] is covered in [/EN#209461/other newspaper] .
+[/EN#209460/people woman] walking down [/EN#209463/scene sidewalk] in front of [/EN#209461/other a storefront] covered in [/EN#209461/other newspapers] .
+[/EN#209460/people A woman] dressed in [/EN#209465/clothing black] walks past [/EN#209462/other a window] [/EN#0/notvisual that] is covered in [/EN#209461/other newspaper] .
+[/EN#209460/people A woman] on [/EN#209463/scene a street] walks in front of [/EN#209462/other a window] covered with [/EN#209461/other newspapers] .

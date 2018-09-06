@@ -1,0 +1,5 @@
+[/EN#217155/people Woman] in [/EN#217156/clothing a brightly colored dress] standing in [/EN#217160/other the rain] holding [/EN#217158/clothing a purse] , [/EN#217159/animals a stuffed animal] and [/EN#217157/clothing a plaid umbrella] .
+[/EN#217155/people A young lady] in [/EN#217156/clothing a colorful dress] , holds [/EN#217159/animals a white stuffed animal] stands in [/EN#217160/other the rain] hold [/EN#217157/clothing a plaid umbrella] .
+[/EN#217155/people A woman] in [/EN#217156/clothing a brightly colored dress] stands in [/EN#217160/other the rain] holding [/EN#217157/clothing an umbrella] , [/EN#217158/clothing purse] , and [/EN#217159/animals stuffed animal] .
+[/EN#217155/people A woman] in [/EN#217156/clothing a dress] , holding [/EN#217159/animals a stuffed animal] , [/EN#217158/clothing purse] and [/EN#217157/clothing umbrella] , standing in [/EN#217160/other the rain] .
+[/EN#217155/people Woman] standing in [/EN#217160/other the rain] with [/EN#217157/clothing an umbrella] and [/EN#217159/animals a stuffed animal] .

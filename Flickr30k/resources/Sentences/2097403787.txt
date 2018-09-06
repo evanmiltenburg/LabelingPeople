@@ -1,0 +1,5 @@
+[/EN#28500/people a lone person] standing on [/EN#28501/other some rocks] with [/EN#28502/scene large snowy mountains] in [/EN#0/notvisual the background] .
+[/EN#28500/people The person] is standing by [/EN#28503/scene the water] in front of [/EN#28504/scene the snow] topped [/EN#28502/scene mountains] .
+[/EN#28500/people A man] is standing on [/EN#0/notvisual the rocky ground] in front of [/EN#28502/scene the mountain] .
+[/EN#28500/people The traveller] pauses in front of [/EN#28502/scene the mountain view] .
+[/EN#28500/people A man] standing in front of [/EN#28502/scene an icy mountain] .

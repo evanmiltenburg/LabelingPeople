@@ -1,0 +1,5 @@
+[/EN#68544/animals A brown dog] has [/EN#68545/other a blue and white ribbon] pinned to [/EN#0/notvisual him] , and [/EN#68549/clothing teal] and [/EN#68548/other yellow ribbons] behind [/EN#0/notvisual him] .
+[/EN#68544/animals A dog] wearing [/EN#68545/other a blue ribbon] sits in front of [/EN#68546/scene a fireplace] [/EN#0/notvisual that] displays [/EN#68547/other more ribbons] .
+[/EN#68544/animals A black dog] with [/EN#68545/other a ribbon] on is standing in front of [/EN#68547/other some other award ribbons] .
+[/EN#68544/animals a small brown dog] standing in front of [/EN#68546/scene a fireplace] surrounded by [/EN#68547/other awards] .
+[/EN#68544/animals A brown dog] poses with [/EN#68548/other ribbons] .

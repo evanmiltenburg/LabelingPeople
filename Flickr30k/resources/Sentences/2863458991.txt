@@ -1,0 +1,5 @@
+[/EN#77516/people A woman] has [/EN#77517/clothing a orange cap] on and [/EN#77517/clothing a orange jacket] over [/EN#77519/bodyparts her shoulder] .
+[/EN#77516/people A woman] is covering [/EN#77519/bodyparts her mouth] with [/EN#77517/clothing an orange sweatshirt] .
+[/EN#77516/people A lady] covering [/EN#77521/bodyparts her face] with [/EN#77517/clothing an orange sweater] .
+[/EN#77516/people A woman] wearing [/EN#77517/clothing a bright orange headdress] .
+[/EN#77516/people A girl] in [/EN#77520/clothing black dress] and [/EN#77517/clothing orange jacket] .

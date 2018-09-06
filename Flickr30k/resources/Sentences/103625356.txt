@@ -1,0 +1,5 @@
+[/EN#1004/people A man] in [/EN#1006/clothing a black shirt] crouches next to [/EN#1007/scene a dirty unfinished concrete edge] while [/EN#1013/other several shovels] and [/EN#1012/other other tools] lean against [/EN#1011/other a tree] nearby .
+[/EN#1004/people A man] in [/EN#1005/clothing a baseball cap] works to spread [/EN#1008/other cement] behind [/EN#1009/other a line of yellow caution tape] .
+[/EN#1004/people A man] in [/EN#1006/clothing a black shirt] and [/EN#1005/clothing baseball cap] is applying [/EN#1008/other filler] to [/EN#1007/scene a trench] in [/EN#1014/scene the floor] .
+[/EN#1004/people A man] wearing [/EN#1006/clothing a black shirt] smoothing out [/EN#1008/other concrete] in [/EN#1010/scene an urban area] .
+[/EN#1004/people A man] is bent over [/EN#1008/other smoothing cement] in [/EN#1007/scene a sidewalk] opening .

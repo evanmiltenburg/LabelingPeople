@@ -1,0 +1,5 @@
+[/EN#26368/people A man] laying on [/EN#0/notvisual the ground] with [/EN#26369/scene a wet spot] on [/EN#26370/clothing his pants] and [/EN#26371/clothing a white and red hat] .
+[/EN#26368/people A man] with [/EN#26371/clothing a hat] , and [/EN#26377/clothing no shoes] lays on [/EN#0/notvisual the ground] after [/EN#0/notvisual he] wets [/EN#0/notvisual himself] .
+[/EN#0/notvisual There] is [/EN#26368/people a man] laying on [/EN#0/notvisual the ground] with [/EN#26371/clothing a red and white hat] on [/EN#26372/bodyparts his head] .
+[/EN#26368/people a person] lays down on [/EN#26373/scene the street] with [/EN#26374/clothing his shoes] off .
+[/EN#26368/people A man] has fallen over on [/EN#26373/scene the street] at [/EN#26375/scene night]

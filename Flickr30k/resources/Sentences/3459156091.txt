@@ -1,0 +1,5 @@
+[/EN#119751/people A picture of Albert Einstein] on [/EN#119752/other a white bear statue] , with [/EN#119750/people a little boy] standing under [/EN#119754/bodyparts the bear statue 's face] .
+[/EN#119750/people a boy] is kneeling under [/EN#119752/animals a statue of bear] [/EN#0/notvisual that] has [/EN#119751/people a painting of a man] on [/EN#119756/other its back] .
+[/EN#119751/people Painting of Albert Einstein] on [/EN#119752/animals a bear] with [/EN#119750/people child] reaching up .
+[/EN#119751/people A portrait of Einstein] is painted on [/EN#119752/animals statue of a polar bear] .
+[/EN#119750/people A boy] sits under [/EN#119752/animals a bear] with [/EN#119751/other Einstein 's picture] on [/EN#0/notvisual it] .

@@ -1,0 +1,5 @@
+[/EN#34356/people A small boy] in [/EN#34357/clothing a green shirt] and [/EN#34358/clothing dark pants] is attempting to brush [/EN#34359/people the hair of a little girl] in [/EN#34360/clothing a flowered top] .
+[/EN#34356/people A little boy] in [/EN#34357/clothing a green shirt] is attempting to brush [/EN#34359/bodyparts his sister 's hair] while [/EN#0/notvisual she] pulls away .
+[/EN#34356/other A little boy under 3] is trying to brush [/EN#34359/bodyparts a little girls hair] .
+[/EN#34356/people A little boy] trying to brush [/EN#34359/bodyparts a woman 's hair] .
+[/EN#34356/people A boy] brushing [/EN#34359/bodyparts his sisters hair] .

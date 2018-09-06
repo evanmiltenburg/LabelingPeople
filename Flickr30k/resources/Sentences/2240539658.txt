@@ -1,0 +1,5 @@
+[/EN#36202/animals A brown and black dog] are fighting on [/EN#36204/scene snow] .
+[/EN#36202/animals Two large dogs] play together in [/EN#36204/scene the snow] .
+[/EN#36202/animals Two dogs] are playing in [/EN#36204/scene the white snow] .
+[/EN#36202/animals Two dogs] playing in [/EN#36204/scene the snow] .
+[/EN#36202/animals Two dogs] play in [/EN#36204/scene the snow]

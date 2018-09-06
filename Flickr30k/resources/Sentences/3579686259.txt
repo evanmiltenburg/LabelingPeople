@@ -1,0 +1,5 @@
+[/EN#129221/animals A white , black , and brown dog] walks down [/EN#129222/scene a path] in [/EN#129223/scene a forested area] .
+[/EN#129221/animals A Sheltie] runs through [/EN#129222/scene the forest] with [/EN#129226/bodyparts his tongue] out , [/EN#129227/bodyparts mouth] open .
+[/EN#129224/clothing a fluffy brown , white and black] running on [/EN#129223/scene a path]
+[/EN#129221/animals A dog] walks on [/EN#129222/scene a path] surrounded by [/EN#129225/other trees] .
+[/EN#129221/animals A fluffy Sheltie] is trotting along [/EN#129222/scene a path] .

@@ -1,0 +1,5 @@
+[/EN#123493/people A young woman] with [/EN#123502/bodyparts short brown hair] wearing [/EN#123496/clothing a pink blouse] hold [/EN#123494/people her infant] attentively , as [/EN#0/notvisual she] points [/EN#123499/bodyparts her finger] to [/EN#123495/other a person or object] .
+[/EN#123493/people A woman] sitting in [/EN#123498/other an orange chair] is holding [/EN#123494/people an infant baby] in [/EN#123497/bodyparts/people her arm] and pointing to [/EN#123495/other something] with [/EN#123500/bodyparts her opposite hand] .
+[/EN#123493/people Woman] with [/EN#123496/scene pink shirt point] to [/EN#123500/scene her right] , holding [/EN#123494/people a small baby] .
+[/EN#123493/people A woman] is holding [/EN#123494/people a baby] in [/EN#123497/bodyparts/people her arm] while [/EN#123501/other pointing] .
+[/EN#123493/people Woman] in [/EN#123496/clothing red shirt] is holding [/EN#123494/people an infant] .

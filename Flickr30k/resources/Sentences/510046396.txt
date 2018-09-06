@@ -1,0 +1,5 @@
+[/EN#228886/people Dark-haired white woman] , wearing [/EN#228889/clothing a white t-shirt] and jogging [/EN#228890/clothing pants] rakes [/EN#228891/other leaves]
+[/EN#228886/people A woman] in [/EN#228890/clothing blue track pants] rakes [/EN#228888/scene a lawn] in front of [/EN#228887/scene a brick building] .
+[/EN#228886/people Woman] in [/EN#228889/clothing white shirt] and [/EN#228890/clothing blue track pants] raking [/EN#228891/other leaves] .
+[/EN#228886/people A person] is raking [/EN#228891/other leaves] in front of [/EN#228887/scene a brick building] .
+[/EN#228886/people A woman] is raking up [/EN#228888/scene a grass area] .

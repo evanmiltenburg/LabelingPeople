@@ -1,0 +1,5 @@
+[/EN#57998/animals The large brown dog] is jumping through [/EN#57999/scene the tall grass] .
+[/EN#57998/animals The tan dog] in [/EN#58000/clothing a black collar] runs across [/EN#57999/scene a field] .
+[/EN#57998/animals A brown dog] is jumping through [/EN#57999/scene a field] .
+[/EN#57998/animals A tan dog] jumps and runs in [/EN#57999/scene a field] .
+[/EN#57998/animals a brown dog] jumps over [/EN#57999/scene the grass] .

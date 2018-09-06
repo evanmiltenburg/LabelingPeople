@@ -1,0 +1,5 @@
+[/EN#47175/people The two football players] in [/EN#47184/clothing white jerseys] and [/EN#47182/clothing purple pants] tackle [/EN#47176/people the player] in [/EN#47180/clothing the red jersey] .
+[/EN#47174/people Three football players] are tackling [/EN#47177/people a red uniformed football player] during [/EN#47178/other a football game] .
+[/EN#47174/people Three football players] in [/EN#47183/clothing purple uniforms] try to tackle [/EN#47176/people a player] in [/EN#47180/clothing a red uniform] .
+[/EN#47175/people Two football players] try to tackle [/EN#47177/people a player of the opposite team] .
+[/EN#0/notvisual There] is [/EN#47176/people a college player] being tackled in [/EN#47179/other a game] .

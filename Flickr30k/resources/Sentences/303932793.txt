@@ -1,0 +1,5 @@
+[/EN#89378/people A man] in [/EN#89379/clothing a blue shirt] holding [/EN#89382/other a wineglass] is speaking to [/EN#89381/people an older woman] also holding [/EN#89380/other a wineglass] .
+[/EN#89378/people A man] talking to [/EN#89381/people old woman] in [/EN#89383/scene restaurant] while holding [/EN#89380/other a wineglass] .
+[/EN#89378/people A young man] is talking with [/EN#89381/people an older woman] while drinking [/EN#89380/other wine] .
+[/EN#89378/people a man] in [/EN#89379/clothing a blue sweater] is talking to [/EN#89381/people a gray headed lady] .
+[/EN#89378/people A man] holding [/EN#89380/other a glass] and talking to [/EN#89381/people an elderly woman] .

@@ -1,0 +1,5 @@
+[/EN#85266/people A man] is standing in [/EN#85268/scene the shallow water] holding [/EN#85271/other a hoe] and looking at [/EN#85272/other something] .
+[/EN#85266/people A man] in [/EN#85267/clothing a purple shirt] standing in [/EN#85268/scene the water] looking into [/EN#85268/scene the water] .
+[/EN#85266/people A man] in [/EN#85267/clothing a blue shirt] takes [/EN#85269/scene a break] from digging in [/EN#85268/scene a river] .
+[/EN#85266/people Man] in [/EN#85270/clothing sandals] and [/EN#85267/clothing blue shirt] is bent over [/EN#85268/scene water] .
+[/EN#85266/people a man] is in [/EN#85273/bodyparts his one hand] in [/EN#85268/scene water]

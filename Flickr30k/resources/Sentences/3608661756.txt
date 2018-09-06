@@ -1,0 +1,5 @@
+[/EN#131237/people A woman] in [/EN#131239/clothing a blue shirt] is walking across [/EN#131235/scene the street of an older looking district] .
+[/EN#131234/people Two boys] cross [/EN#131235/scene a city street] while kicking [/EN#131236/other a red soccer ball] .
+[/EN#131234/people Two boys] crossing [/EN#131235/scene a street] with [/EN#131236/other a red ball] .
+[/EN#131234/people 2 males] walking about on [/EN#131238/scene a street corner] .
+[/EN#131234/people Two boys] playing [/EN#131236/other ball] in [/EN#131235/scene the street] .

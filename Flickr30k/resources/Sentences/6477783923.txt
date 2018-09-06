@@ -1,0 +1,5 @@
+[/EN#254815/people A boy] with [/EN#254820/clothing glasses] in [/EN#254821/clothing a white shirt] with [/EN#254822/clothing khaki pants] does [/EN#254816/other a skateboard stunt] , while [/EN#254823/bodyparts his hands] are in [/EN#0/notvisual the air] .
+[/EN#254815/people Skateboarder] jumps off [/EN#254817/scene a 5 ft cliff] , performing [/EN#254816/other a stunt] .
+[/EN#254815/people An avid skateboarder] showing off [/EN#254816/other his skills] .
+[/EN#254815/people A boy] skateboarding off [/EN#254817/other a concrete slab] .
+[/EN#254815/people Man] doing [/EN#0/notvisual a skateboard trick] .

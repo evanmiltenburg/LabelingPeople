@@ -1,0 +1,5 @@
+[/EN#35877/people Three people] are on [/EN#35878/vehicles/scene a boat] in [/EN#35886/scene the middle of the water] while [/EN#35880/other the sun] is in [/EN#35885/other the back] .
+[/EN#35877/people Three people] are in [/EN#35878/other a canoe] on [/EN#35879/scene a calm lake] with [/EN#35880/other the sun] reflecting yellow .
+As [/EN#35880/other the sun] sets [/EN#35877/people 3 people] are on [/EN#35878/vehicles/scene a small boat] enjoying [/EN#35883/scene the view]
+[/EN#35881/scene A beautiful sunset] with [/EN#35877/people three people] in [/EN#35878/vehicles/scene a boat] on [/EN#35879/scene the lake] .
+[/EN#35877/people Three people] in [/EN#35887/clothing a boat float] on [/EN#35879/scene the water] at [/EN#35884/scene sunset] .

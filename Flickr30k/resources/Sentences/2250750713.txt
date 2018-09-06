@@ -1,0 +1,5 @@
+[/EN#36858/people A lady] wearing [/EN#36863/clothing a red vest] is holding [/EN#36864/other a shovel] as [/EN#0/notvisual she] and [/EN#36859/people a man] , holding [/EN#36865/other a blue shovel] , pose for [/EN#0/notvisual the camera] .
+[/EN#36858/people A woman] in [/EN#36863/clothing a red vest] stands on [/EN#36862/scene a pile of snow] above [/EN#36859/people a man] holding [/EN#36864/other a snow shovel] .
+[/EN#36857/people Two people] standing in [/EN#36862/scene the snow] , [/EN#36859/other one] holding [/EN#36864/other a shovel] .
+[/EN#36857/people A couple of people] have finished shoveling [/EN#36860/scene a path] .
+[/EN#36859/people A man] and [/EN#36858/people woman] shoveling [/EN#36861/scene the snow] .

@@ -1,0 +1,5 @@
+[/EN#256127/people A guy] in [/EN#256135/clothing a cycling suit] and [/EN#256136/clothing bike helmet] riding [/EN#256128/vehicles a bike] on [/EN#256130/scene a dirty track] .
+[/EN#256127/people A person] on [/EN#256128/vehicles a bike] covered in [/EN#256133/other mud] from head to toe .
+[/EN#256127/people A muddy person] rides [/EN#256128/vehicles his bike] through [/EN#256129/other a course] .
+[/EN#256127/people A biker] is in [/EN#256132/scene midair] doing [/EN#256131/other a stunt] .
+[/EN#256127/people A guy] does [/EN#0/notvisual tricks] on [/EN#256128/vehicles his bike] .

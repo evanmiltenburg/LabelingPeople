@@ -1,0 +1,5 @@
+[/EN#164122/people A bald man] in [/EN#164128/clothing a red shirt] and [/EN#164132/clothing khaki shorts] buys [/EN#164133/other something] from [/EN#164126/people a woman] wearing [/EN#164129/other a visor] in [/EN#164125/scene a store] .
+[/EN#164122/people A man] ordering at [/EN#164125/scene a fast food place] to [/EN#164126/people a female cashier] while [/EN#164127/people another man] looks on .
+[/EN#164122/people A man] in [/EN#164128/clothing a red shirt] is being serviced by [/EN#164126/people a working old woman] in [/EN#164125/scene a store] .
+[/EN#164122/people A customer] places [/EN#164131/other his order] at [/EN#164123/other Quiznos] while [/EN#164127/people another customer] looks on .
+[/EN#164122/other Man places order] in [/EN#164125/scene coffee shop] .

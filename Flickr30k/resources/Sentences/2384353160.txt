@@ -1,0 +1,5 @@
+[/EN#45481/people The man] is wearing [/EN#45482/clothing a black hat] , [/EN#45483/clothing a beige shirt] and has [/EN#45484/clothing his sunglasses] hanging off [/EN#45483/clothing the shirt] .
+[/EN#45481/people An older man] in [/EN#45482/clothing a weathered fedora] smiles slightly for [/EN#0/notvisual the camera] .
+[/EN#45481/people An old man] with [/EN#45485/bodyparts blue eyes] wears [/EN#45482/clothing a big black hat] .
+[/EN#45481/people A man] in [/EN#45482/clothing a black fedora] smiles at [/EN#0/notvisual the camera] .
+[/EN#45481/people A man] in [/EN#45482/clothing a hat] posing for [/EN#45487/other a picture] .

@@ -1,0 +1,5 @@
+[/EN#50540/people Child] in [/EN#50541/clothing a striped shirt] is swinging from [/EN#50542/other a rope swing] .
+[/EN#50540/people The blond girl] with [/EN#50541/clothing the blue stripe shirt] is swinging .
+[/EN#50540/people Girl] swinging on [/EN#50542/other a swing] outside in [/EN#50544/scene a wooded area] .
+[/EN#50540/people The young girl] is on [/EN#50542/other a swing] outdoors .
+[/EN#50540/people A girl] swings on [/EN#50543/scene a nice day] .

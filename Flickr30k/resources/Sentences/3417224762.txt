@@ -1,0 +1,5 @@
+[/EN#116640/people A person] in [/EN#116643/clothing a yellow shirt] , working on [/EN#116642/other an object] with [/EN#116645/other red and black wires] protruding through [/EN#116641/other a clear cover] .
+[/EN#116640/people A Morris High School student] working in [/EN#116644/people shop class] .
+[/EN#116640/people A person] in [/EN#116643/clothing a yellow shirt] working on [/EN#116641/other something] .
+[/EN#116640/people a male teen] is working on [/EN#116642/other a school project] .
+[/EN#116640/people A boy] works on [/EN#116642/other a project] in [/EN#116644/people shop class] .

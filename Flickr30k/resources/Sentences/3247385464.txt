@@ -1,0 +1,5 @@
+[/EN#104125/people A bicycle rider] in [/EN#104127/clothing neon yellow jacket] and [/EN#104130/clothing black pants] , [/EN#104134/other pedals] on [/EN#104129/scene a sidewalk] next to [/EN#104133/scene a street] with [/EN#104128/other a guard rail] .
+[/EN#104125/people Man] in [/EN#104127/clothing bright yellow jacket] and [/EN#104130/clothing black pants] riding [/EN#104126/vehicles a bicycle] in [/EN#104129/scene snow] by [/EN#104132/other a roadway] protected by [/EN#104128/other a railing] .
+[/EN#104125/people A person] in [/EN#104127/clothing a bright yellow jacket] rides [/EN#104126/vehicles a bicycle] on [/EN#104129/scene the sidewalk] in [/EN#104129/scene the snow] .
+[/EN#104125/people A biker] in [/EN#104127/clothing a yellow jacket] riding in [/EN#104129/scene the snow] .
+[/EN#104125/people A person] riding [/EN#104126/vehicles a bike] in [/EN#104129/scene the snow] .

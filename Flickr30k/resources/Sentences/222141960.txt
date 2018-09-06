@@ -1,0 +1,5 @@
+[/EN#35005/people A boy] with [/EN#35013/other a concerned look] [/EN#0/notvisual it] holding up [/EN#35007/other two newspapers] featuring [/EN#35012/other a headline] about [/EN#35009/other murder] .
+[/EN#35005/people A young Indian boy] holding up [/EN#35007/other two newspapers] with [/EN#35012/other a headline] on [/EN#35006/other " Murder] " .
+[/EN#35005/people A young boy] holding [/EN#35008/other a newspaper] [/EN#0/notvisual that] shows [/EN#35006/people a murder of a man] on [/EN#35007/other the cover] .
+[/EN#35005/people A male] is holding [/EN#35007/other several Tehelka newspapers] about [/EN#35006/other a murder] .
+[/EN#35005/people A boy] selling [/EN#35007/other Tehelka papers] in [/EN#35014/scene a street market] .

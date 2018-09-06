@@ -1,0 +1,5 @@
+[/EN#132629/people A man] in [/EN#132631/clothing a yellow cap] is holding up [/EN#132630/other a silver trophy] .
+[/EN#132629/people A race car driver] is holding [/EN#132630/other a trophy] .
+[/EN#132629/people A man] holding [/EN#132630/other a trophy] after [/EN#132632/other a race] .
+[/EN#132629/people Man] in [/EN#132631/clothing yellow hat] holding up [/EN#132630/other trophy]
+[/EN#132629/people A winner] gets [/EN#132630/other a trophy] .

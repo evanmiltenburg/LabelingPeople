@@ -1,0 +1,5 @@
+[/EN#18866/people A woman] wearing [/EN#18870/clothing a pink sweater] rides [/EN#18867/vehicles a bike] with [/EN#18869/vehicles a car] behind [/EN#0/notvisual her] .
+[/EN#18866/people A woman] in [/EN#18870/clothing a pink sweater] rides [/EN#0/notvisual her] [/EN#18867/vehicles bike] along side [/EN#18868/vehicles cars] .
+[/EN#18866/people A girl] in [/EN#18870/clothing a pink shirt] is riding [/EN#18867/vehicles a bicycle] in [/EN#18872/vehicles traffic] .
+[/EN#18866/people An Asian woman] rides [/EN#18867/vehicles a bicycle] in front of [/EN#18871/vehicles two cars] .
+[/EN#18866/people A woman] is riding [/EN#18867/vehicles her bicycle] down [/EN#18873/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#125328/people A person] in [/EN#125331/clothing a white hoodie] is running down [/EN#125330/scene the beach] on [/EN#125332/other the sand] barefoot .
+[/EN#125328/people A child] at [/EN#125330/scene the edge of the water] coming in on [/EN#125330/scene a beach] .
+[/EN#125328/people A woman] runs along [/EN#125330/scene a rocky shore] .
+[/EN#125328/people A girl] running along [/EN#125330/scene the beach] .
+[/EN#125328/people A woman] runs along [/EN#125330/scene the shore] .

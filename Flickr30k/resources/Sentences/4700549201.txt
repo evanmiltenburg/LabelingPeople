@@ -1,0 +1,5 @@
+[/EN#192654/people A man] on [/EN#192656/other a cellphone] sits on [/EN#192657/scene the sidewalk] looking at [/EN#0/notvisual the camera] while [/EN#192658/people a woman] sits near [/EN#0/notvisual him] .
+On [/EN#192660/scene a narrow street] lined with [/EN#192662/scene houses] , [/EN#192664/other some] with [/EN#192663/other red awnings] , [/EN#192654/people a man] talks on [/EN#192656/other his cellphone] .
+[/EN#192655/people Two people] are talking on [/EN#192665/other their phones] in [/EN#192657/scene the middle of the street] .
+[/EN#192655/people Two people] are sitting down by [/EN#192661/scene an empty street] .
+[/EN#192654/people A man] and [/EN#192658/people a woman] sit on [/EN#192659/other a curb] in [/EN#192666/other the shade] .

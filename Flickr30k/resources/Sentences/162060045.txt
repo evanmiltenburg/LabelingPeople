@@ -1,0 +1,5 @@
+[/EN#17726/people A man] in [/EN#17728/clothing a safety vest] and [/EN#17733/clothing black hat] wearing [/EN#17735/clothing rubber gloves] is crouched down on [/EN#17729/scene a corner of an intersection] , doing [/EN#17736/other something] with [/EN#17731/other a stick] .
+[/EN#17726/people A worker] wearing [/EN#17728/clothing a bright vest] and [/EN#17732/clothing black clothes] is picking up [/EN#17730/other trash] on [/EN#0/notvisual the ground] while [/EN#17734/people people] cross [/EN#17729/scene the street] behind [/EN#0/notvisual him] .
+[/EN#17726/people A construction worker] crouched and working on [/EN#17729/scene a busy street] wearing [/EN#17728/clothing a bright vest] .
+[/EN#17726/people A man] in [/EN#17728/clothing a high-visibility vest] cleans up [/EN#17730/other trash] at [/EN#17729/scene an intersection] .
+[/EN#17726/people A person] in [/EN#17728/clothing a yellow safety vest] kneeling in [/EN#17729/scene the street] .

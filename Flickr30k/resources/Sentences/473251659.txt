@@ -1,0 +1,5 @@
+[/EN#196646/people A group of people] walking in [/EN#196659/scene the street] , [/EN#196656/other one] talking on [/EN#196651/other a cellphone] , [/EN#196647/people the man] is explaining [/EN#196658/other something] .
+[/EN#196647/people A man] in [/EN#196650/clothing green and blue] stands next to [/EN#196653/other a line] and counts on [/EN#196660/bodyparts his fingers] while [/EN#0/notvisual he] addresses [/EN#196657/people someone] .
+[/EN#196647/people A man] wearing [/EN#196649/clothing glasses] and [/EN#196650/clothing a blue jacket] stands in [/EN#196654/other an outside line] among [/EN#196646/people a group of women] .
+[/EN#196647/people A man] is having [/EN#196652/other a conversation] while [/EN#196646/people a line of individuals] move behind [/EN#0/notvisual him] .
+[/EN#196647/people Man] with [/EN#196649/clothing glasses] talking amongst [/EN#196646/people a crowd] .

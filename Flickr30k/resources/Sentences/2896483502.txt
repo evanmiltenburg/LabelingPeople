@@ -1,0 +1,5 @@
+[/EN#79883/animals A white dog] with [/EN#79885/scene black spots] catches [/EN#79884/other a bright green and pink Frisbee] in [/EN#79886/scene a field] .
+[/EN#79883/animals A black and white dog] is catching [/EN#79884/other a Frisbee] .
+[/EN#79883/animals a black and white dog] is catching [/EN#79884/other a Frisbee]
+[/EN#79883/animals The dog] jumps to catch [/EN#79884/other a flying disc] .
+[/EN#79883/animals A dog] catching [/EN#79884/other a Frisbee] .

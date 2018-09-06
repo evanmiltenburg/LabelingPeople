@@ -1,0 +1,5 @@
+[/EN#252903/people A boy] in [/EN#252906/clothing a black shirt] has thrown [/EN#252905/other a snowball] [/EN#0/notvisual that] has left [/EN#252904/scene a trail of snow] behind [/EN#0/notvisual it] in [/EN#0/notvisual the air] .
+[/EN#252903/people A boy] throws [/EN#252905/other an object] in front of [/EN#252908/scene a glass building] .
+[/EN#252903/people A boy] in [/EN#252910/clothing dark clothing] near [/EN#252907/other a fountain water spout] .
+[/EN#252903/people A young man] dances by [/EN#252904/scene a fountain] .
+[/EN#252903/people A boy] is sprayed by [/EN#252904/scene water] .

@@ -1,0 +1,5 @@
+[/EN#206981/people A young boy] in [/EN#206982/clothing a green shirt] is eating [/EN#206983/other chocolate ice cream] with [/EN#206985/other a white spoon] .
+[/EN#206981/people A little boy] in [/EN#206982/clothing a green shirt] is eating [/EN#206983/other chocolate ice cream] .
+[/EN#206981/people A young boy] in [/EN#206982/clothing green] is eating [/EN#206983/other chocolate ice cream] .
+[/EN#206981/people Young boy] eats [/EN#206983/other chocolate ice cream] out of [/EN#206984/other a cup] .
+[/EN#206981/people Little boy] eating [/EN#206983/other chocolate ice cream] .

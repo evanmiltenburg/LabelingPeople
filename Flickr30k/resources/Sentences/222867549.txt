@@ -1,0 +1,5 @@
+[/EN#35439/people A boy] wearing [/EN#35441/clothing sports pajamas] sleeps on [/EN#35440/other a large , padded armchair] .
+[/EN#35439/people A young boy] in [/EN#35441/clothing his pajamas] asleep on [/EN#35440/other a couch] .
+[/EN#35439/people A young boy] asleep on [/EN#35440/other a couch] in [/EN#35441/clothing his pajamas] .
+[/EN#35439/people a young boy] in [/EN#35441/clothing pajamas] sleeping on [/EN#35440/other a couch] .
+[/EN#35439/people A young boy] in [/EN#35441/clothing pajamas] sleeps on [/EN#35440/other a couch] .

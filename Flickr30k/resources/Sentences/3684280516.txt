@@ -1,0 +1,5 @@
+[/EN#136638/people People] are standing and sitting on [/EN#136640/scene the pavement] in front of [/EN#136637/other a large metal building and white and gold sculpture] .
+[/EN#136638/people Many people] are gathered in [/EN#136639/scene an open area] in front of [/EN#136637/scene a steel-works type of building] .
+[/EN#136637/scene A building] [/EN#0/notvisual that] looks like [/EN#136637/people/scene bleachers] with [/EN#136642/scene a glass staircase] .
+[/EN#0/notvisual There] are [/EN#136638/people many people] outside of [/EN#136637/scene a large building] .
+[/EN#136641/people Woman] in [/EN#136646/clothing blue shirt] listening to [/EN#136644/people guitar player] .

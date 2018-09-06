@@ -1,0 +1,5 @@
+[/EN#65753/other a microphone] is [/EN#65761/scene the vocal point] , but [/EN#0/notvisual there] is [/EN#65754/people a man] with [/EN#65757/clothing glasses] holding [/EN#65755/instruments a guitar] , and in [/EN#0/notvisual the background] [/EN#65756/people someone] in [/EN#65762/clothing a yellow shirt] on [/EN#65759/other the drum set] .
+[/EN#65754/people A man] is playing [/EN#65755/instruments the guitar] in front of [/EN#65753/other a microphone] while [/EN#65756/people another man] is in [/EN#0/notvisual the background] playing [/EN#65759/instruments the drums] .
+[/EN#65754/people A man] wearing [/EN#65757/clothing glasses] plays [/EN#65755/instruments guitar] in front of [/EN#65760/other a microphone] .
+[/EN#65753/other A closeup of a microphone] with [/EN#65754/people a singer] in [/EN#0/notvisual the background] .
+[/EN#65758/scene View] past [/EN#65753/other a microphone] to [/EN#65754/people an out-of-focus guitar player] .

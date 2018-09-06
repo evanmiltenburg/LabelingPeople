@@ -1,0 +1,5 @@
+[/EN#49380/people A man] in [/EN#49382/clothing a blue shirt] and [/EN#49383/clothing tie] is wearing [/EN#49381/clothing a white mask] whilst handing out [/EN#49384/other papers] .
+[/EN#49380/people Man] in [/EN#49387/clothing business attire] with [/EN#49381/clothing Guy Fawkes mask] holding [/EN#49384/other paper] at [/EN#49389/other protest] .
+[/EN#49380/people A masked man] in [/EN#49382/clothing blue shirt] and [/EN#49383/clothing a tie] holding [/EN#49384/other papers] in front of [/EN#0/notvisual him] .
+[/EN#49380/people A man] in [/EN#49385/other a button] up [/EN#49382/clothing shirt] and [/EN#49383/clothing tie] is wearing [/EN#49381/clothing a smiling mask] .
+[/EN#49380/people A man] hands out [/EN#49388/people fliers] while wearing [/EN#49381/clothing a mask] .

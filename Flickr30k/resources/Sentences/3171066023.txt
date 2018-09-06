@@ -1,0 +1,5 @@
+[/EN#98068/people A person] skis down [/EN#98069/scene a snowy and tree-filled hill] .
+[/EN#98068/people A skier] is riding [/EN#98073/other skis] along [/EN#98072/other a tree] lined [/EN#98071/scene trail] .
+[/EN#98068/people A person] skis through [/EN#98070/other a forest of tall trees] .
+[/EN#98068/people A person] skis down [/EN#98069/scene a forested hill] .
+[/EN#98068/people A downhill skier] races near [/EN#98074/other trees] .

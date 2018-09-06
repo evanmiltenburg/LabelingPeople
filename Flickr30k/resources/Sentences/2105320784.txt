@@ -1,0 +1,5 @@
+[/EN#29107/people Five people] are passing by [/EN#29108/scene a Lounge&Grill store] on [/EN#29109/scene a sidewalk] .
+[/EN#29107/people Pedestrians] walk through [/EN#29112/scene the city] , passing [/EN#29108/scene a restaurant] .
+[/EN#29108/other A Lounge & Grill] with [/EN#29107/people pedestrians] casually walking by .
+[/EN#29107/people People] walking down [/EN#29111/scene the street] past [/EN#29108/other a Lounge & Grill] .
+[/EN#29107/people A group of people] walking down [/EN#29111/scene a busy sidewalk] .

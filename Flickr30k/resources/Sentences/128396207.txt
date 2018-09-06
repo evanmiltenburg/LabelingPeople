@@ -1,0 +1,5 @@
+[/EN#7243/people A bike rider] with [/EN#7244/clothing khaki green shorts] , [/EN#7245/clothing a blue shirt] , [/EN#7246/clothing backpack] and [/EN#7247/clothing helmet] is riding on [/EN#7248/scene the street] near [/EN#7249/vehicles a red station wagon] [/EN#0/notvisual that] is missing [/EN#7253/other a hubcap] on [/EN#0/notvisual the back drivers side] .
+[/EN#7243/people A man] wearing [/EN#7247/clothing a black helmet] , [/EN#7245/clothing blue jacket] , and [/EN#7244/clothing khaki shirts] rides [/EN#7250/vehicles his bike] on [/EN#7248/scene the street] next to [/EN#7249/vehicles a red car] .
+[/EN#7243/people A hurried bicycler] moves along [/EN#7249/vehicles a car] in [/EN#7251/scene a busy street] on [/EN#7248/scene an allowed bike path] .
+[/EN#7243/people A man] is wearing [/EN#7245/clothing a blue jacket] and [/EN#7247/clothing a helmet] and riding [/EN#7250/vehicles a black bicycle] .
+[/EN#7243/people A man] in [/EN#7245/clothing a blue shirt] riding [/EN#7250/vehicles a bike] down [/EN#7251/scene the street] .

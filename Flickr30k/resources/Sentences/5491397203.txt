@@ -1,0 +1,5 @@
+[/EN#237447/people A middle-aged man] wearing [/EN#237448/clothing a baseball cap] turned backwards , [/EN#237449/clothing a black shirt] , and [/EN#237453/clothing blue shorts] [/EN#0/notvisual who] is driving [/EN#237450/vehicles/scene a boat] [/EN#0/notvisual which] has [/EN#237452/other a wooden steering wheel] with [/EN#237451/other the british flag] flown in [/EN#0/notvisual the background] .
+[/EN#237447/people A bearded man] wearing [/EN#237453/clothing blue striped shorts] , [/EN#237449/clothing a dark tee-shirt] and [/EN#237448/clothing backwards baseball cap] stands at [/EN#237452/other the wheel of a ship] flying [/EN#237454/scene a tattered red flagon open water] .
+[/EN#237447/people A man] in [/EN#237448/clothing a backwards baseball cap] , [/EN#237449/clothing black shirt] and [/EN#237453/clothing blue shorts] behind [/EN#237452/vehicles/scene the steering wheel of a boat] with [/EN#237451/other a flag] behind [/EN#0/notvisual him] .
+[/EN#237447/people An older gentleman] poses at [/EN#237452/vehicles/scene the helm of a boat] .
+[/EN#237447/people A man] is navigating [/EN#237450/vehicles/scene a boat] .

@@ -1,0 +1,5 @@
+[/EN#157256/people A man] in [/EN#157258/clothing a white shirt] at [/EN#157257/scene a stand] surrounded by [/EN#157259/other beverages] and [/EN#157260/other lots of lemons] .
+[/EN#157256/people Man] in [/EN#157258/clothing white shirt] selling [/EN#157259/other refreshments] outside on [/EN#157257/scene a kiosk] .
+[/EN#157256/people A man] is selling [/EN#157261/scene water] and [/EN#157259/other lemonade] at [/EN#157257/scene a stand] .
+[/EN#157256/people A street vendor] selling [/EN#157259/other fruit drinks] .
+[/EN#157256/people An old man] is selling [/EN#157260/other fruit] .

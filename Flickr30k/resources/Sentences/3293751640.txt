@@ -1,0 +1,5 @@
+[/EN#107470/people A man] is standing in front of [/EN#107472/other a brick storefront] wearing [/EN#107471/clothing a black jacket] .
+[/EN#107470/people Young man] with [/EN#107475/clothing cap] and buttoned [/EN#107471/clothing coat] stands before [/EN#107472/scene building] .
+[/EN#107470/people Young man] in [/EN#107471/clothing warm coat] outside [/EN#107472/other storefront] .
+[/EN#107470/people The man] is in front of [/EN#107472/scene a building]
+[/EN#107470/people A man] standing on [/EN#107474/scene a city street] .

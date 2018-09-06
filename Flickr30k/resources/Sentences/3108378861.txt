@@ -1,0 +1,5 @@
+[/EN#94165/people A man] in [/EN#94166/clothing a white tank top] , [/EN#94167/clothing blue jeans] and [/EN#94168/clothing glasses] sitting on [/EN#94169/other a rock] with [/EN#94170/people a woman] in [/EN#94171/clothing a white tank top] , [/EN#94167/clothing blue jeans] and [/EN#94172/clothing glasses] standing over [/EN#0/notvisual him] .
+[/EN#94170/people A woman] in [/EN#94172/clothing sunglasses] standing beside [/EN#94165/people a man] in [/EN#94168/clothing sunglasses] sitting on [/EN#94169/other a rock] .
+[/EN#94165/people A man] and [/EN#94170/people woman] wearing [/EN#94173/clothing white shirts] and [/EN#94167/clothing jeans] resting on [/EN#94174/scene a rocky surface] .
+[/EN#94170/people A woman] standing next to [/EN#94165/people a man] [/EN#0/notvisual who] is sitting on [/EN#94169/other a rock] .
+[/EN#94165/people A man] and [/EN#94170/people woman] , [/EN#0/notvisual both] wearing [/EN#94166/clothing white] , are on [/EN#94169/other rocks] .

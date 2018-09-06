@@ -1,0 +1,5 @@
+[/EN#268329/people An overweight man] , wearing [/EN#268330/clothing a blue and white soccer uniform] , is playing [/EN#268333/other soccer] and [/EN#0/notvisual there] is [/EN#268334/other a red circle] drawn on [/EN#268335/scene the grass] near where [/EN#0/notvisual he] is standing .
+[/EN#268329/people A man] in [/EN#268330/clothing a soccer uniform] is kicking [/EN#268332/other the ball] while [/EN#268331/people another man] watches in [/EN#0/notvisual the background] .
+[/EN#268329/people A portly gentleman] in [/EN#268330/clothing a blue uniform] is about to kick [/EN#268332/other a soccer ball] .
+[/EN#268329/people One man] playing [/EN#268333/other soccer] while [/EN#268331/people a person] in [/EN#0/notvisual the background] watches .
+[/EN#268329/people An overweight man] is playing [/EN#268333/other soccer] .

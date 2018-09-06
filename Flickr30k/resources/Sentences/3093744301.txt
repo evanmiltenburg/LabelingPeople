@@ -1,0 +1,5 @@
+[/EN#93078/people 2 people] at or near [/EN#93079/other small barricade] in [/EN#93080/scene middle of street] , [/EN#93081/people other people] nearby , [/EN#93082/people crowd] in [/EN#0/notvisual the distance] .
+[/EN#93083/people A man] walks down [/EN#93080/scene an empty street] noticing [/EN#93079/other objects] in [/EN#93080/scene the road] before [/EN#0/notvisual him] .
+[/EN#93083/people A man] with [/EN#93084/other his back] to [/EN#0/notvisual the camera] walks across [/EN#93080/scene a barricaded street] .
+[/EN#93078/people A couple of men] walking on [/EN#93080/scene a public city street] .
+[/EN#93083/people Somebody] in [/EN#93080/scene the street] with [/EN#93085/clothing some sweatpants] on .

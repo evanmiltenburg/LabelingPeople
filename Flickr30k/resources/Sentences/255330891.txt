@@ -1,0 +1,5 @@
+[/EN#57733/people The man] is walking [/EN#57734/animals a white dog] with [/EN#57735/bodyparts one hand] whilst resting [/EN#57736/bodyparts his other hand] on [/EN#57737/people the shoulder of the woman] with [/EN#57738/clothing the pink backpack] .
+[/EN#57733/people A man] walking [/EN#57734/animals a dog] puts [/EN#57739/bodyparts/people his arm] around [/EN#57737/people the shoulder of a woman] with [/EN#57740/clothing pink pants] .
+[/EN#57733/people A man] and [/EN#57741/people a woman] walk with [/EN#57734/animals a white dog] on [/EN#57742/clothing a leash] .
+[/EN#57743/people a couple] walking [/EN#57734/animals a white dog] down [/EN#57744/scene a paved street]
+[/EN#57733/people A man] , [/EN#57741/people woman] and [/EN#57734/animals dog] walk down [/EN#57744/scene a paved road] .

@@ -1,0 +1,5 @@
+[/EN#73654/people A gray-haired woman] in [/EN#73657/clothing a yellow shirt] sitting under [/EN#73656/other a blue sign] .
+[/EN#73654/people An older woman] sits under [/EN#73656/other a sign] advertising [/EN#73655/other a 3 slice special] .
+[/EN#73654/people A woman] wearing [/EN#73657/clothing a yellow shirt] sits on [/EN#73658/other a wooden bench] .
+[/EN#73654/people A woman] facing down is sitting under [/EN#73656/other an advertisment] .
+[/EN#73654/people A woman] sits underneath [/EN#73655/other a sale sign] .

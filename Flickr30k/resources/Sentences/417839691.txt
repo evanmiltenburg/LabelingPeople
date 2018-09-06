@@ -1,0 +1,5 @@
+[/EN#158121/people a man] in [/EN#158127/clothing a blue shirt] helps [/EN#158120/people a small girl] in [/EN#158124/clothing a pink coat] up [/EN#158129/scene a hill] on [/EN#158126/other a rope] .
+[/EN#158120/people A girl] in [/EN#158124/clothing pink] is being pulled up with [/EN#158130/other rock climbing gear] by [/EN#158121/people a man] .
+[/EN#158121/people A man] and [/EN#158120/people child] practicing [/EN#158131/other rook] climbing in [/EN#158123/scene a wooded area] .
+[/EN#158121/people An adult] is helping [/EN#158120/other a child repel] in [/EN#158122/scene a mountain] setting .
+[/EN#158121/people A man] pulling up [/EN#158120/people a child] with [/EN#158126/other a rope]

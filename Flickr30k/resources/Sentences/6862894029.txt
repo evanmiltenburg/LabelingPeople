@@ -1,0 +1,5 @@
+[/EN#259667/people A person] on [/EN#259668/vehicles a mountain bike] [/EN#0/notvisual who] 's wearing [/EN#259674/clothing a racer 's outfit] with [/EN#259670/clothing a full face helmet] is jumping off of [/EN#259669/scene a dirt] outcropping .
+[/EN#259667/people A young male] on [/EN#259668/vehicles a black and red bicycle] is riding across [/EN#259669/scene a mountainous terrain] .
+[/EN#259667/people A man] wearing [/EN#259668/vehicles BMX] gear and [/EN#259670/clothing a helmet] rides [/EN#259668/vehicles a bicycle] on [/EN#259669/scene rocky terrain] .
+[/EN#259667/people A mountain biker] is in [/EN#259672/scene the midair] in [/EN#259676/other the middle of a stunt] .
+[/EN#259667/people A young daredevil] having [/EN#0/notvisual some fun] on [/EN#259668/vehicles his bike] .

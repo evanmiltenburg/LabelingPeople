@@ -1,0 +1,5 @@
+[/EN#6013/people A man] with [/EN#6014/clothing a large red feather] in [/EN#6015/clothing his hat] is sitting on top of [/EN#6016/animals a horse] .
+[/EN#6017/people Men] dressed in either [/EN#6018/clothing theatrical or historical attire] riding [/EN#6016/animals horses] .
+[/EN#6013/people A man] wearing [/EN#6015/clothing a feathered hat] is riding [/EN#6020/animals a gray horse] .
+[/EN#6013/people A man] with [/EN#6014/clothing a large feather] in [/EN#6015/clothing his hat] rides [/EN#6016/animals a horse] .
+[/EN#6013/people Man] in [/EN#6019/clothing black] with [/EN#6015/clothing a feathered hat] sits atop [/EN#6016/animals a horse] .

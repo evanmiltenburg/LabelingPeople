@@ -1,0 +1,5 @@
+[/EN#200664/people A person] in [/EN#200666/clothing a red shirt] sits in front of [/EN#200669/scene a building] exhibiting " [/EN#200665/other Beatles Story Exhibit] . "
+[/EN#200664/people Female] wear [/EN#200666/clothing a red Gerrard jersey] sits outside [/EN#200665/other The Beatles Story Exhibition] in [/EN#200668/other Liverpool] .
+[/EN#200664/people An overweight woman] in [/EN#200666/clothing a red top] sits outside in front of [/EN#200665/other a Beatles exhibit] .
+[/EN#200664/people A large woman] sitting in front of [/EN#200665/other the Beatle story exhibit] .
+[/EN#200664/people Lady] in [/EN#200666/clothing red shirt] sits [/EN#200665/other outside of The Beatles exhibit] .

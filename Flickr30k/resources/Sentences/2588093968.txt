@@ -1,0 +1,5 @@
+[/EN#59871/people a young girl] in [/EN#59874/clothing a pink skirt] and [/EN#59875/clothing shirt] holds [/EN#59873/clothing a pair of headphones or earmuffs] .
+[/EN#59871/people A little girl] in [/EN#59874/clothing a pink shirt] holding [/EN#59873/clothing headphones] in [/EN#59872/scene a grassy area] .
+[/EN#59871/people A young girl] in [/EN#59874/clothing a pink shirt] is holding [/EN#59873/clothing a pair of headphones] .
+[/EN#59871/people A little girl] holds [/EN#59873/clothing a pair of headphones] on [/EN#59872/scene a playground] .
+[/EN#59871/people Girl] in [/EN#59874/clothing a pink dress] holding [/EN#59873/clothing headphones] in [/EN#59872/scene a park] .

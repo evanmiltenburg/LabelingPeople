@@ -1,0 +1,5 @@
+[/EN#203183/people A woman] in [/EN#203186/clothing a white and light green jacket] and [/EN#203184/people another woman] in [/EN#203185/clothing a purple shirt] , [/EN#0/notvisual both] wearing [/EN#203182/clothing hats] , sit at [/EN#203181/other a table] watching [/EN#203179/other a cooking fire] .
+[/EN#203178/people Two women] are wearing [/EN#203182/clothing hats] and working with [/EN#203179/other a blowtorch] .
+[/EN#203178/people Two women] are sitting at [/EN#203181/other a table] making [/EN#203180/other a small fire] .
+[/EN#203178/people Women] sitting at [/EN#203181/other a table] with [/EN#203180/other a small fire] .
+[/EN#203178/people Two campers] testing [/EN#203179/other a camping stove] .

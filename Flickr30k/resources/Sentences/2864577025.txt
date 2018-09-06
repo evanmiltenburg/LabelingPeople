@@ -1,0 +1,5 @@
+[/EN#77566/people A man] in [/EN#77571/clothing a white coat] and [/EN#77571/clothing blue shirt] is preparing [/EN#77567/other some kabobs] on [/EN#77569/other a skewer] .
+[/EN#77566/people an older man] in [/EN#77571/clothing a white shirt] prepares [/EN#77567/other raw meat] on [/EN#77573/other a stick]
+[/EN#77566/people A man] in [/EN#77571/clothing a white and blue shirt] is making [/EN#77568/other a kabob] .
+[/EN#77566/people A man] in [/EN#77571/clothing a white shirt] is making [/EN#77568/other shish kabob] .
+[/EN#77566/people An older man] seasoning [/EN#77568/other a shish kabob] .

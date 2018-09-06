@@ -1,0 +1,5 @@
+[/EN#251915/people A man] wearing [/EN#251922/clothing dark sunglasses] is jumping [/EN#251917/vehicles his bike] over [/EN#251921/scene a road] , in [/EN#251916/scene a forest] .
+[/EN#251915/people A man] in [/EN#251923/clothing orange] and [/EN#251926/clothing white] rides [/EN#251917/vehicles his mountain bike] through [/EN#251916/scene a forest] .
+[/EN#251915/people A professional bicycle rider] jumps over [/EN#251919/scene a fence] onto [/EN#251918/scene a dirt path] .
+[/EN#251915/people A man] wearing [/EN#251920/other a helmet bicycling] in [/EN#251925/other the woods] .
+[/EN#251915/people A man] catches [/EN#0/notvisual some air] with [/EN#251917/vehicles his mountain bike] .

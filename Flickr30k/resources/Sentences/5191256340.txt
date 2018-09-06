@@ -1,0 +1,5 @@
+[/EN#230644/people A man] with [/EN#230651/clothing a grayish blue shirt] , [/EN#230647/clothing red and blue vest] , [/EN#230653/clothing black pants] , [/EN#230649/clothing sunglasses] , and [/EN#230648/clothing earphones] is standing beside [/EN#230646/other a red helicopter] , while [/EN#230657/other the door] is open revealing [/EN#230646/other the inside of the helicopter] , with [/EN#0/notvisual it] 's [/EN#230655/people pilot] and [/EN#230648/clothing other earphones] hanging in [/EN#0/notvisual the background] .
+[/EN#230644/people A man] wearing [/EN#230649/clothing sunglasses] and wearing [/EN#230647/clothing a red vest] is standing in front of [/EN#230646/other a red helicopter] .
+[/EN#230644/people A man] is wearing [/EN#230656/other sound blockers] on [/EN#230658/bodyparts his ears] .
+[/EN#230644/people Man] operating [/EN#230645/other technology] with [/EN#230648/clothing earphones] on .
+[/EN#230644/people Man] stands at [/EN#230646/other the seat of a helicopter] .

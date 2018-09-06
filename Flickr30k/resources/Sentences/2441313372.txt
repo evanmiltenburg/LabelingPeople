@@ -1,0 +1,5 @@
+[/EN#49675/people A boy] with [/EN#49677/bodyparts/people an injured right arm] and wearing [/EN#49680/clothing blue shorts] is lying on [/EN#49676/other a bed] with [/EN#49679/other a towel] .
+[/EN#49675/people A boy] sleeps in [/EN#49676/other a hospital bed] while wearing [/EN#49678/other a cast] on [/EN#49677/bodyparts/people his arm] .
+[/EN#49675/people A young boy] with [/EN#49678/other a cast] on [/EN#49677/bodyparts/people his arm] is lying on [/EN#49676/other a hospital bed] .
+[/EN#49675/people A young boy] with [/EN#49677/bodyparts/people a broken arm] sleeping in [/EN#49676/other a hospital bed] .
+[/EN#49675/people A boy] wearing [/EN#49677/bodyparts/people an arm] cast lying in [/EN#49676/other a hospital bed]

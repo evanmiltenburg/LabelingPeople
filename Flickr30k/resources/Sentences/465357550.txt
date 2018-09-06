@@ -1,0 +1,5 @@
+[/EN#187198/people Male surfer] with [/EN#187197/other yellow surfboard] and [/EN#187196/animals dog] walking down [/EN#187195/scene picturesque beach] and [/EN#187199/other large rocks] .
+[/EN#187194/people A man] with [/EN#187197/other a surfboard] is walking [/EN#187196/animals his dog] as [/EN#0/notvisual he] walks down [/EN#187195/scene the beach] .
+[/EN#187194/people A man] and [/EN#187196/animals a dog] walking on [/EN#187195/scene the beach] with [/EN#187197/other a surfboard] .
+[/EN#187194/people a man] and [/EN#187196/animals a dog] walking on [/EN#187195/scene the beach] together .
+[/EN#187194/people A man] and [/EN#187196/animals his canine] on [/EN#187195/scene the beach] .

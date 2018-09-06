@@ -1,0 +1,5 @@
+[/EN#283407/people Two men] wearing [/EN#283413/clothing striped blue polo shirts] are sitting at [/EN#283409/other a table] in [/EN#283414/scene a room] with [/EN#283412/people other people] and [/EN#283404/other wide windows] .
+[/EN#283403/people A large group of people] are seated at [/EN#283405/other various tables] with [/EN#283404/other large windows] displaying [/EN#283411/other green trees] behind [/EN#0/notvisual them] .
+[/EN#283406/people Men] and [/EN#283402/people women] sitting at [/EN#283405/other tables] with [/EN#283410/other dishes] on [/EN#283405/other table]
+[/EN#283403/people A group of people] are listening to [/EN#283408/other a presentation]
+[/EN#283403/people A room full of people] dining at [/EN#283405/other round tables] .

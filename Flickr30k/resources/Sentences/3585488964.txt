@@ -1,0 +1,5 @@
+[/EN#129698/animals A brown dog] running with [/EN#129692/animals two white and brown dogs] on [/EN#129694/other the seashore] with [/EN#129700/scene crashing waves] behind [/EN#0/notvisual them] .
+[/EN#129692/animals Two large white dogs] and [/EN#129698/animals one large tan dog] in [/EN#129697/clothing a red collar] run along [/EN#129694/scene a beach] .
+[/EN#129692/animals Two tan and white dogs] and [/EN#129698/animals one tan dog] racing down [/EN#129694/scene the beach] near [/EN#129700/scene the water] .
+[/EN#129692/animals Two white dogs] and [/EN#129698/animals one light brown dog] running along [/EN#129694/scene the beach] .
+[/EN#129693/animals Three dogs] run on [/EN#129694/scene beach] , [/EN#129695/other two] playing with [/EN#129696/other unknown object] .

@@ -1,0 +1,5 @@
+[/EN#97988/people Two African American girls] riding [/EN#97990/vehicles bikes] down [/EN#97989/scene a dirt road] .
+[/EN#97988/people Two women] riding [/EN#97990/vehicles their bicycles] along [/EN#97989/scene a dirt road] .
+[/EN#97988/people Two people] riding [/EN#97990/vehicles their bicycles] down [/EN#97989/scene a dirt road] .
+[/EN#97988/people Two women] are riding [/EN#97990/vehicles bicycles] down [/EN#97989/scene a dirt road] .
+[/EN#97991/vehicles Two african women bike] down [/EN#97989/scene a dirt road] .

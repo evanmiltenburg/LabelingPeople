@@ -1,0 +1,5 @@
+[/EN#30773/people An elderly woman] wearing [/EN#30774/clothing a flower printed apron] with [/EN#30778/clothing a pink colored shirt] is cooking inside [/EN#30775/scene her kitchen] .
+[/EN#30773/people An old lady] wearing [/EN#30774/clothing apron] in [/EN#30775/scene her kitchen] , smiling while spooning [/EN#30776/other soup] to [/EN#30777/other another pan] .
+[/EN#30773/people A woman] is showing off [/EN#30776/other the pasta] [/EN#0/notvisual she] has boiled .
+[/EN#30773/people A woman] is holding [/EN#30780/other her ladle] while [/EN#30779/other cooking] .
+[/EN#30773/people An older woman] is cooking in [/EN#30775/scene a kitchen] .

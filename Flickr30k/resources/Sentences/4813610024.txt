@@ -1,0 +1,5 @@
+[/EN#205921/people A woman] in [/EN#205924/clothing dark clothes] walks down [/EN#205923/scene a city street] , past [/EN#205922/other a window display] [/EN#0/notvisual that] includes [/EN#205931/other several pale mannequins] .
+[/EN#205921/people A black woman] wearing [/EN#205924/clothing black] walking by [/EN#205922/other a window] with [/EN#205925/other a mannequin] in [/EN#0/notvisual it] .
+[/EN#205921/people A woman] in [/EN#205924/clothing all black] walking past [/EN#205922/other a department store window] .
+[/EN#205921/people A dressed up woman] walking next to [/EN#205926/scene a store] at [/EN#205930/scene night] .
+[/EN#205921/people A black woman] is walking in [/EN#205929/clothing heels] .

@@ -1,0 +1,5 @@
+[/EN#69608/people A crowd of people] with [/EN#69609/bodyparts black hair] walking through [/EN#69613/scene a tunnel] in [/EN#69614/other the rain] .
+[/EN#69608/people Several people] stopped waiting for [/EN#69610/vehicles/scene a train] to pass .
+[/EN#69615/scene A crowded city] with [/EN#69611/vehicles vehicles] and [/EN#69612/people people] on [/EN#69611/vehicles bikes] .
+[/EN#69608/people A crowd of people] waiting at [/EN#69616/vehicles/scene a train] crossing .
+[/EN#69608/people A large crowd] waiting at [/EN#69616/vehicles/scene a train] crossing .

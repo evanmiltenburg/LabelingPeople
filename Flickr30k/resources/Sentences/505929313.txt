@@ -1,0 +1,5 @@
+[/EN#227694/animals A black dog] standing in [/EN#227697/scene shallow water] with [/EN#227695/other a pink ball] in [/EN#227696/bodyparts its mouth] .
+[/EN#227694/animals A black dog] runs in [/EN#227697/scene the water] holding [/EN#227695/other a pink toy] in [/EN#227696/bodyparts its mouth] .
+[/EN#227694/animals The black dog] is running though [/EN#227697/scene the water] with [/EN#227695/other a pink ball] .
+[/EN#227694/animals A black dog] stands in [/EN#227697/other the surf] holding [/EN#227695/other a red rubber ball] .
+[/EN#227694/animals a black dog] plays with [/EN#227695/other a ball] in [/EN#227697/scene the water] .

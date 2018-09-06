@@ -1,0 +1,5 @@
+[/EN#87038/people A man] in [/EN#87041/clothing an orange vest] is standing in [/EN#87040/scene the middle of a field] .
+[/EN#87038/people A black-haired man] in [/EN#87041/clothing an orange vest] stands in [/EN#87039/scene a cornfield] .
+[/EN#87038/people A boy] in [/EN#87041/clothing orange suit] is standing in [/EN#87039/scene a wheat field] .
+[/EN#0/notvisual There] is [/EN#87038/people a man] holding [/EN#87042/other a gun] in [/EN#87039/scene a corn field] .
+[/EN#87038/people A man] in [/EN#87041/clothing an orange vest] standing in [/EN#87040/scene a field] .

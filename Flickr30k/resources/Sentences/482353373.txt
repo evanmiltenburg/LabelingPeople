@@ -1,0 +1,5 @@
+[/EN#207306/people A girl] in [/EN#207312/clothing a petterned shirt] is talking to [/EN#207307/people a guy] with [/EN#207311/clothing a hat] in [/EN#207310/scene a billiards room] .
+[/EN#207307/people A man] in [/EN#207311/clothing a black hat] is talking to [/EN#207306/people a woman] with [/EN#207312/clothing an animal print shirt] .
+[/EN#207307/people A man] holding [/EN#207313/other a pool stick] talking to [/EN#207306/people a woman] in [/EN#207314/other a pool hall]
+[/EN#207308/people Two people] are talking to [/EN#0/notvisual each other] at [/EN#207310/scene a pool place] .
+[/EN#207307/people Boy] holding [/EN#207313/other pool cue] looking at [/EN#207306/people person] in [/EN#207312/clothing sweater]

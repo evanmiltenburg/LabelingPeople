@@ -1,0 +1,5 @@
+[/EN#203154/people A woman] in [/EN#203158/clothing a black and white shirt] crossed [/EN#203157/scene a street] while [/EN#203153/people a man] on [/EN#203155/vehicles a moped] dressed in [/EN#203156/clothing a red shirt] and [/EN#203162/clothing jeans] looks back towards [/EN#0/notvisual her] .
+[/EN#203153/people A man] in [/EN#203156/clothing a red shirt] on [/EN#203155/vehicles a small blue motorbike] is looking over [/EN#203163/bodyparts his shoulder] at [/EN#203154/people an attractive woman] in [/EN#203160/clothing a white skirt] and [/EN#203161/clothing high heels] .
+[/EN#203153/people A man] on [/EN#203155/vehicles a moped] looking at [/EN#203154/people a woman] walk across [/EN#203157/scene the street] .
+[/EN#203153/people Man] on [/EN#203155/vehicles a moped] looking back as [/EN#0/notvisual he] crosses [/EN#203157/scene the street] .
+[/EN#203153/people A man] on [/EN#203155/vehicles a scooter] and [/EN#203156/clothing a red shirt] is looking back .

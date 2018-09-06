@@ -1,0 +1,5 @@
+[/EN#254930/people A disheveled man] is playing [/EN#254932/instruments an accordion] , asking for [/EN#254935/scene tips] in [/EN#254933/other a suitcase] , while sitting by [/EN#254931/scene the water] .
+[/EN#254930/people A man] is sitting on [/EN#254934/other the side of a ledge] playing [/EN#254932/instruments an instrument] with [/EN#254931/scene a river] in [/EN#0/notvisual the background] .
+[/EN#254930/people A man] is sitting playing [/EN#254932/instruments the accordion] in front of [/EN#254931/scene a water source] .
+[/EN#254930/people A middle-aged man] sitting by [/EN#0/notvisual himself] playing [/EN#254932/instruments an accordion] .
+[/EN#254930/people A lonely man] sits in [/EN#254931/scene a harbor] playing [/EN#254932/instruments the accordion] .

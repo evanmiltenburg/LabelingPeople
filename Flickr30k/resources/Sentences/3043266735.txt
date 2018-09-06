@@ -1,0 +1,5 @@
+[/EN#89621/people An elder woman] in [/EN#89623/clothing a hat] and [/EN#89624/clothing scarf] is looking through [/EN#89622/other a book] [/EN#0/notvisual she] has in [/EN#89625/bodyparts her hands] .
+[/EN#89621/people An elderly person] with [/EN#89623/clothing a white hat] is reading [/EN#89622/other a paperback book] .
+[/EN#89621/people An older woman] wearing [/EN#89623/clothing a hat] reads [/EN#89622/other a book] .
+[/EN#89621/people An old lady] consulting [/EN#89622/other a paperback book] .
+[/EN#89621/people A woman] in [/EN#89623/clothing a white hat] reading [/EN#89622/other a book] .

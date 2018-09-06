@@ -1,0 +1,5 @@
+[/EN#55583/people Two men] wearing [/EN#55586/clothing suits] and [/EN#55585/clothing glasses] are talking to [/EN#0/notvisual each other] , while [/EN#0/notvisual one of them] points [/EN#55594/bodyparts his finger] at [/EN#55593/other the other] .
+[/EN#55582/people A man] in [/EN#55588/clothing a gray suit] is talking to [/EN#55584/people another man] in [/EN#55587/clothing a black suit] .
+[/EN#55583/people Two elderly men] are discussing [/EN#55592/other something] out on [/EN#55589/scene a the sidewalk] .
+[/EN#55583/people Two elderly men] in [/EN#55586/clothing suits] and [/EN#55585/clothing glasses] speaking [/EN#55591/scene outdoors] .
+[/EN#55582/people An elderly gentleman] points at [/EN#55584/people another elderly man] .

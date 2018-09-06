@@ -1,0 +1,5 @@
+[/EN#4074/people Woman] dressed in [/EN#4075/clothing a green hat] and [/EN#4076/clothing apron] is holding [/EN#4077/other a tray] full of [/EN#4078/other drink samples] .
+[/EN#4074/people An Asian girl] in [/EN#4075/clothing a green hat] and [/EN#4076/clothing apron] is serving [/EN#4078/other drinks] on [/EN#4077/other a tray] .
+[/EN#4074/people The waitress] offers [/EN#4078/other complimentary tea] to [/EN#4081/people the patrons] .
+[/EN#4074/people A girl] hands out [/EN#4078/other Starbucks samples] at [/EN#4080/scene a street fair] .
+[/EN#4079/people a Starbucks barista] offering up [/EN#4077/other a tray of drinks]

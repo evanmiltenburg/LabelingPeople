@@ -1,0 +1,5 @@
+[/EN#50344/people A small boy] dressed in [/EN#50345/clothing a black sweatshirt] with [/EN#50346/other a logo] on [/EN#0/notvisual it] , holds [/EN#50348/other a red bat] in front of [/EN#50350/scene blue stadium seats] .
+[/EN#50344/people A little boy] is holding [/EN#50347/other a skinny baseball bat] while standing between [/EN#50352/scene two rows of blue seats] .
+[/EN#50344/people A young boy] in [/EN#50345/clothing a team sweatshirt] is in [/EN#50349/scene a sports stadium] near [/EN#50350/scene blue seats] swinging [/EN#50348/other a red bat] .
+[/EN#50344/people The boy] wearing [/EN#50345/clothing a black shirt] and [/EN#50351/clothing blue jeans] is holding [/EN#50348/other a red baseball bat] .
+[/EN#50344/people A young boy] practices [/EN#50348/other his bat] swing while in [/EN#50349/scene the stands] with [/EN#50350/scene blue seats] .

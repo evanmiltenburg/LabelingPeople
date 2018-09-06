@@ -1,0 +1,5 @@
+[/EN#132867/animals The brown dog] with [/EN#132868/clothing a superman shirt] on [/EN#132870/other sleeps] on [/EN#132869/other a blue blanket] .
+[/EN#132867/animals A brown dog] in [/EN#132868/clothing a Superman shirt] is laying on [/EN#132869/other a blue blanket] .
+[/EN#132867/animals A brown dog] is laying down [/EN#132871/other whilst] wearing [/EN#132868/clothing a superman shirt] .
+[/EN#132867/animals A dog] in [/EN#132868/clothing a " superman " shirt] sleeps on [/EN#132869/other a blanket] .
+[/EN#132867/animals A dog] wearing [/EN#132868/clothing a t-shirt] is lying down .

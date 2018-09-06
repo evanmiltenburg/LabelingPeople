@@ -1,0 +1,5 @@
+[/EN#23953/people A red-haired person] in [/EN#23962/clothing a green shirt] holds [/EN#23958/other an ice cream cone] up to [/EN#23955/people the mouth of a man] in [/EN#23960/clothing a red shirt] and [/EN#23961/clothing yellow baseball cap] , at [/EN#23959/scene the counter of an ice cream store] .
+[/EN#23953/people A boy] with [/EN#23963/bodyparts red-hair] holds up [/EN#23958/other an ice cream cone] for [/EN#23955/people an older man] to [/EN#23964/other sample] .
+[/EN#23957/people A guy] wearing [/EN#23960/clothing a red shirt] and [/EN#23961/clothing yellow hat] is tasting [/EN#23958/other some ice cream] .
+[/EN#23955/people A man] and [/EN#23953/people women] are inside [/EN#23959/scene an ice cream shop] .
+[/EN#23955/people An old man] licks [/EN#23958/other an ice cream cone] .

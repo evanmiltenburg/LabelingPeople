@@ -1,0 +1,5 @@
+[/EN#117281/people A man] is standing on [/EN#117284/bodyparts his hands] on [/EN#117286/scene a sidewalk] while [/EN#117282/other others] watch .
+[/EN#117281/people A man] is standing on [/EN#117284/bodyparts his hands] with [/EN#117282/people lots of people] around [/EN#0/notvisual him] .
+[/EN#117281/people A person] doing [/EN#117281/other a handstand] in front of [/EN#117282/other others] .
+[/EN#117281/people A boy] is brake dancing as [/EN#117282/people a crowd] watches .
+[/EN#117281/people A boy] doing [/EN#117281/other a handstand] in [/EN#117287/clothing a yellow shirt]

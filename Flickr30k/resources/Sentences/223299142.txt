@@ -1,0 +1,5 @@
+[/EN#35894/scene The grass] has [/EN#35890/other ice] on [/EN#0/notvisual it] and [/EN#0/notvisual there] is [/EN#35890/scene a mountain] in [/EN#0/notvisual the background] .
+[/EN#35893/other Someone hikes] down [/EN#35890/scene a steep , frozen mountainside] .
+[/EN#35889/people The person] is high on [/EN#35890/scene a mountain] during [/EN#35896/scene sunset] .
+[/EN#35889/people The man] is climbing up [/EN#35890/scene a steep snowy mountain] .
+[/EN#35889/people A man] among [/EN#35892/scene steep and snowy mountains] .

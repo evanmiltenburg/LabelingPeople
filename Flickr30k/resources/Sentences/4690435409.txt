@@ -1,0 +1,5 @@
+[/EN#191504/people A man] in [/EN#191514/clothing a black shirt] walking down [/EN#191509/scene a crowded street] with [/EN#191506/people a girl] in [/EN#191515/clothing a flower shirt] and [/EN#191516/clothing Capri pants] following closely behind [/EN#0/notvisual him] .
+[/EN#191504/people A man] and [/EN#191506/people woman] are walking in [/EN#191507/scene a restaurant] [/EN#0/notvisual that] has [/EN#191513/other signs] in [/EN#191508/other Chinese] .
+[/EN#191505/people A couple] walks [/EN#191511/other past lanterns] and [/EN#191512/people people] eating at [/EN#191507/scene a restaurant] .
+[/EN#191505/people A couple] walks through [/EN#191507/scene an Asian restaurant] .
+[/EN#191504/people A boy] and [/EN#191506/people a girl] are walking in [/EN#191510/other a mall] .

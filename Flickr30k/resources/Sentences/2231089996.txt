@@ -1,0 +1,5 @@
+[/EN#35747/people A man] in [/EN#35749/clothing white] wearing [/EN#35751/clothing a Yarmulke] is in front of [/EN#35748/other a microphone] with [/EN#35750/people several other men] in [/EN#0/notvisual the background] .
+[/EN#35747/people A man] in [/EN#35749/clothing a white shirt] speaks into [/EN#35748/other a microphone] as [/EN#35750/people other men] gather behind [/EN#0/notvisual him] at [/EN#35753/scene a public event] .
+[/EN#35747/people a man] talks into [/EN#35748/other a microphone] in front of [/EN#35752/people a gathering] while being cheered and applauded upon .
+[/EN#35747/people A man] wearing [/EN#35749/clothing a white shirt] is standing outside and speaking into [/EN#35748/other a microphone] .
+[/EN#35747/people A Jewish man] is speaking into [/EN#35748/other a microphone] among [/EN#35750/people other Jewish men] .

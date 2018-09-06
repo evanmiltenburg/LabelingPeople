@@ -1,0 +1,5 @@
+[/EN#38276/animals A black dog] is running very fast on [/EN#0/notvisual a light brown ground] .
+[/EN#38276/animals Black dog] running with [/EN#38279/bodyparts his tongue] out .
+[/EN#38276/animals Black dog] running fast on [/EN#38277/scene a field]
+[/EN#38276/animals Black dog] running very fast .
+[/EN#38276/animals A dog] runs outside .

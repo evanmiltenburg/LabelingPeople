@@ -1,0 +1,5 @@
+[/EN#117804/animals A white , curly-haired dog] is wearing [/EN#117810/clothing a harness] and watching [/EN#117806/animals another black and brown dog] in [/EN#117807/scene the water] .
+[/EN#117804/animals A curly-haired dog] is standing on [/EN#117805/scene a beach] while staring at [/EN#117806/animals a dog] in [/EN#117807/scene deep water] .
+[/EN#117804/animals A beige dog] with [/EN#117809/clothing a collar] looks on as [/EN#117806/animals a brown dog] swims in [/EN#117807/scene the water] .
+[/EN#117804/animals A wooly dog] on [/EN#117805/scene a beach] looks toward [/EN#117806/animals another dog] in [/EN#117807/scene the water] .
+[/EN#117804/animals A curly coated dog] looking at [/EN#117806/animals another dog] in [/EN#117807/scene the water] .

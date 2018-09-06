@@ -1,0 +1,5 @@
+[/EN#181888/people A white woman] wearing [/EN#181891/clothing headphones] and [/EN#181889/clothing a blue and white striped scarf] walks down [/EN#181890/scene the street] with [/EN#181893/people two black people] walking behind [/EN#0/notvisual her] .
+[/EN#181888/people A woman] wearing [/EN#181889/clothing a scarf] and [/EN#181891/clothing headphones] walking down [/EN#181890/scene the street] .
+[/EN#181888/people A girl] is walking on [/EN#181890/scene a sidewalk] with [/EN#181891/clothing headphones] in [/EN#181894/bodyparts her ears] .
+[/EN#181888/people A woman] walks down [/EN#181890/scene the street] listening to [/EN#181892/people her mp3 player] .
+[/EN#181888/people A young woman] is listening to [/EN#181895/other music] .

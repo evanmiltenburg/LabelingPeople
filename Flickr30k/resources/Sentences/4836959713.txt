@@ -1,0 +1,5 @@
+[/EN#209224/people A lady] with [/EN#209227/clothing a green shirt] and [/EN#209230/clothing tan shorts] is picking out [/EN#209229/other strawberries] and putting [/EN#0/notvisual them] in [/EN#209226/clothing a plastic bag] .
+[/EN#209224/people A woman] in [/EN#209227/clothing a green shirt] and [/EN#209230/clothing shorts] is putting [/EN#209229/other strawberries] in [/EN#209226/clothing a bag] at [/EN#209228/scene an outdoor grocery stall] .
+[/EN#209224/people A woman] wearing [/EN#209227/clothing a green shirt] is looking at [/EN#209229/other produce] .
+[/EN#209224/people A woman] shopping for [/EN#209229/other fruit] at [/EN#209228/scene an outdoor market] .
+[/EN#209224/people A woman] looks through [/EN#209229/other fruit] at [/EN#209231/scene a market] .

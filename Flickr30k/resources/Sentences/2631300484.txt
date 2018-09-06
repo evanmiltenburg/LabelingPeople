@@ -1,0 +1,5 @@
+[/EN#62577/people A blond boy] stands among [/EN#62578/people people] in [/EN#62583/scene a shady setting] with [/EN#62579/animals a large snake] wrapped around [/EN#62580/bodyparts his chest] .
+[/EN#62577/people A little boy] in [/EN#62581/clothing a green shirt] is holding [/EN#62579/animals a large snake] .
+[/EN#62577/people A boy] carries [/EN#62579/animals a huge snake] around [/EN#62582/bodyparts his neck] outside .
+[/EN#62577/people A young boy] has [/EN#62579/animals a snake] draped over [/EN#62584/bodyparts his shoulders] .
+[/EN#62577/people A boy] has [/EN#62579/animals a large snake] wrapped around [/EN#0/notvisual him] .

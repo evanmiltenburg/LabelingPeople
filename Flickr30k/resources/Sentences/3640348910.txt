@@ -1,0 +1,5 @@
+[/EN#133528/people A skateboarder] does [/EN#133531/other an ollie] off [/EN#133529/scene a black ramp] near [/EN#133530/scene a colorfully painted building] .
+[/EN#133528/people The skateboarder] is riding [/EN#133529/scene the ramp] next to [/EN#133533/other the very big painting] .
+[/EN#133528/people Skateboarder] does [/EN#0/notvisual a trick] on [/EN#133529/scene a ramp] in front of [/EN#133530/scene a graffiti scene] .
+[/EN#133528/people A skateboarder] in [/EN#0/notvisual the air] at [/EN#133529/scene a brightly colored ramp] .
+[/EN#133528/people A person] is doing [/EN#0/notvisual a jump] with [/EN#133532/other a skateboard] on [/EN#133529/scene a ramp] .

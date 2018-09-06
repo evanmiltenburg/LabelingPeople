@@ -1,0 +1,5 @@
+[/EN#68550/people A Chinese man] inside [/EN#68552/scene a restaurant] waiting for [/EN#68551/people people] to enter .
+[/EN#68550/people a chinese man] sitting down waiting for [/EN#68551/people customers] .
+[/EN#68550/people The restaurant worker] looks [/EN#68555/other outside of the door] .
+[/EN#68550/people An Asian man] in [/EN#68556/clothing white] working in [/EN#68552/scene a kitchen] .
+[/EN#68550/people A businessman] looking out [/EN#68554/other his door] .

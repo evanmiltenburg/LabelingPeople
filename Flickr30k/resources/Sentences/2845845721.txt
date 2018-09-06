@@ -1,0 +1,5 @@
+[/EN#76509/people A man] in [/EN#76510/clothing jeans] is playing with [/EN#76511/other a ball] while [/EN#76512/people a woman] in [/EN#76513/clothing jeans] stands nearby looking away .
+[/EN#76512/people The woman] wearing [/EN#76514/clothing black] is standing in [/EN#76519/scene a grassy field] as [/EN#76509/people the man] in [/EN#76515/clothing the blue cap] runs .
+[/EN#76512/people A woman] stands in [/EN#76519/scene a field] with [/EN#76516/bodyparts her hands] on [/EN#76517/bodyparts her hips] while [/EN#76509/people a man] runs up behind [/EN#0/notvisual her] .
+[/EN#76509/people A man] running across [/EN#76519/scene the grass] towards [/EN#76512/people a woman] .
+[/EN#76518/people Two people] in [/EN#76519/scene a field] looking off-camera .

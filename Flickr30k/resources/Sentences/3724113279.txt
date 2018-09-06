@@ -1,0 +1,5 @@
+[/EN#139753/people A man] does [/EN#0/notvisual a trick] with [/EN#139754/vehicles his bicycle] off [/EN#139755/other the side of a wall] .
+[/EN#139753/people Man] is performing [/EN#0/notvisual a trick] with [/EN#139754/vehicles a bicycle] off [/EN#139755/other a brick wall] .
+[/EN#139753/people The man] rides [/EN#139754/vehicles his bicycle] up [/EN#139755/other the brick wall] .
+[/EN#139753/people A man] jumps with [/EN#139754/vehicles his bike] near [/EN#139755/other a brick wall] .
+[/EN#139753/people a bmx rider] , [/EN#139755/other wall] rides .

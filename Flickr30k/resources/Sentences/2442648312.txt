@@ -1,0 +1,5 @@
+[/EN#49776/people A man] wearing [/EN#49779/other orange earmuffs cuts] [/EN#49777/other a block of wood] with [/EN#49778/other a chainsaw] .
+[/EN#49776/people A man] with [/EN#49780/bodyparts black hair] is using [/EN#49778/other an orange chainsaw] to cut [/EN#49777/other wood] .
+[/EN#49776/people A man] wearing [/EN#49779/other ear coverings] is cutting [/EN#49777/other wood] with [/EN#49778/other a power saw] .
+[/EN#49776/people A man] wearing [/EN#49779/other ear covers] is sawing [/EN#49777/other wood] with [/EN#49778/other a chainsaw] .
+[/EN#49776/people A man] uses [/EN#49778/other a chainsaw] to cut up [/EN#49777/other wood] .

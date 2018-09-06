@@ -1,0 +1,5 @@
+[/EN#104991/animals Gray dog] with [/EN#104996/clothing muzzle] and with [/EN#104992/other the # 8 yellow striped identification] is running .
+[/EN#104991/animals A greyhound dog] wearing [/EN#104995/clothing a yellow and black shirt] runs along [/EN#104994/other a dirt racetrack] .
+[/EN#104991/animals A greyhound] runs in [/EN#104993/other a race] , [/EN#104995/clothing bee striped jacket] , [/EN#104997/other number eight] .
+[/EN#104991/animals A dog] , wearing [/EN#104992/other a number 8] , running in [/EN#104993/other a race] .
+[/EN#104991/animals Racedog] has [/EN#104992/other the number 8] .

@@ -1,0 +1,5 @@
+[/EN#206628/people A woman] in [/EN#206633/clothing a white vest] reaching for [/EN#206635/other a white paper] in [/EN#206630/scene a fish market] .
+[/EN#206628/people A woman] is in [/EN#206631/scene the kitchen] making [/EN#206636/other food] for [/EN#206629/scene a store or restaurant] .
+[/EN#206628/scene A female employee of a fish market] weighs [/EN#206632/other an item] on [/EN#206634/other the scale] .
+[/EN#206628/people Person] in [/EN#206633/other a deli] surrounded by [/EN#206639/animals various fish] .
+[/EN#206628/people A woman] rolling [/EN#206632/other pastry] in [/EN#206637/scene her fish shop] .

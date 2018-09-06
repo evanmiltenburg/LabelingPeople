@@ -1,0 +1,5 @@
+[/EN#206729/people A woman] [/EN#0/notvisual who] looks serious and aloof and [/EN#206728/people a man] wearing [/EN#206730/clothing a strange balloon hat] are crossing [/EN#206732/scene the street] at [/EN#206731/scene a crosswalk] .
+[/EN#206728/people A man] with [/EN#206730/clothing a balloon hat] and [/EN#206729/people a woman] wearing [/EN#206734/clothing an orange printed shawl] are crossing [/EN#206731/scene the street] .
+[/EN#206728/people A man] wearing [/EN#206730/scene a crown] made out of [/EN#206737/other balloons] is walking across [/EN#206732/scene the street] at [/EN#206731/scene a crosswalk] .
+[/EN#206728/people A man] in [/EN#206736/clothing khaki pants] and [/EN#206729/people a woman] in [/EN#206735/clothing a skirt] cross [/EN#206732/scene a street] .
+[/EN#206728/people A man] wearing [/EN#206730/clothing a balloon hat] is crossing [/EN#206731/scene a street] .

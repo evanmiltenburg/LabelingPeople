@@ -1,0 +1,5 @@
+[/EN#141950/people A woman] wearing [/EN#141955/clothing a white blouse] , [/EN#141954/clothing eyeglasses] , and [/EN#141953/clothing floppy hat] is reading [/EN#141952/other a book] next to [/EN#141951/scene a small body of water] .
+[/EN#141950/people A woman] with [/EN#141954/clothing sunglasses] and [/EN#141953/clothing a hat] is sitting by [/EN#141951/scene water] reading [/EN#141952/other a book] .
+[/EN#141950/people A lady] in [/EN#141953/clothing a sunhat] sitting and reading [/EN#141952/other a book] by [/EN#141951/scene a body of water] .
+[/EN#0/notvisual She] quietly reads by [/EN#141951/scene the beautiful lake] .
+[/EN#141950/people A woman] wearing [/EN#141953/clothing hat] is reading [/EN#141952/other her book] .

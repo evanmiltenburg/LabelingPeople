@@ -1,0 +1,5 @@
+[/EN#53967/people A group of people] sit outside under [/EN#53968/scene a white shade tent] , sitting in [/EN#53972/other green lawn chairs] , playing [/EN#53970/instruments instruments] with [/EN#53969/scene a view of a body of water] behind [/EN#0/notvisual them] .
+[/EN#53967/people Four elderly people] sitting under [/EN#53968/scene a white tent] playing [/EN#53970/instruments musical instruments] .
+[/EN#53967/people Group of elders] playing [/EN#53970/instruments instruments] under [/EN#53968/scene a tent] by [/EN#53969/scene the water] .
+[/EN#53967/people Four people] playing [/EN#53970/instruments instruments] underneath [/EN#53968/scene a white tent] .
+[/EN#53967/people the peoples] sitting in [/EN#53971/other the chair]

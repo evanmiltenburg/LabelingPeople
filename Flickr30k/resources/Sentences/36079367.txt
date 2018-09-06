@@ -1,0 +1,5 @@
+[/EN#131170/people A blond man] in [/EN#131171/clothing a black shirt] and [/EN#131174/clothing tan shorts] is eating [/EN#131178/other ribs] and drinking [/EN#131175/scene red wine outdoors] at [/EN#131173/other a wooden table] .
+[/EN#131170/people A blond man] in [/EN#131171/clothing a black shirt] and [/EN#131174/clothing shorts] sitting at [/EN#131173/other a table] eating with [/EN#131175/other a glass of wine] .
+[/EN#131170/people A man] in [/EN#131171/clothing a black shirt] eating [/EN#131172/other his meal] on [/EN#131173/other a round table] .
+[/EN#131170/people A man] wearing [/EN#131171/clothing a black shirt] and [/EN#131174/clothing tan shorts] eating .
+[/EN#131170/people A man] having [/EN#131172/other a meal] on [/EN#131173/scene a table outside] .

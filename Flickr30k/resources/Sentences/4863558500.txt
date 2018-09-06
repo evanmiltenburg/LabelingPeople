@@ -1,0 +1,5 @@
+[/EN#212620/other The benches] are in [/EN#212621/other a long row] with [/EN#212622/other the silver round tables] aligned neatly .
+[/EN#212620/scene A long red beach] with [/EN#212622/other round tables] is [/EN#212625/scene outside] in front of [/EN#212624/scene a pub] .
+[/EN#212620/other A long red bench] accompanied by [/EN#212622/other little circular tables] .
+[/EN#212622/other A row of tables] and [/EN#212620/other a bench] outside of [/EN#212624/scene a restaurant] .
+[/EN#0/notvisual There] is [/EN#212624/scene a restaurant] and [/EN#212622/other all the tables] are empty .

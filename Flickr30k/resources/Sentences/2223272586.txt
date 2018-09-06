@@ -1,0 +1,5 @@
+[/EN#35099/people Four women] and [/EN#35100/people two men] are in [/EN#35106/scene a kitchen] , cooking near [/EN#35101/other a long table] with [/EN#35102/other a white tablecloth] .
+[/EN#35103/people A group of people] prepare [/EN#35104/other a meal] in [/EN#35106/scene a small kitchen] .
+[/EN#35103/people People] working in [/EN#35106/scene a kitchen] preparing [/EN#35104/other food] .
+[/EN#35099/people People] are working in [/EN#35106/scene the kitchen] .
+[/EN#35103/people People] are at [/EN#35105/other work] in [/EN#35106/scene a kitchen] .

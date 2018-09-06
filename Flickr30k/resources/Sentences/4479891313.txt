@@ -1,0 +1,5 @@
+[/EN#171855/people A man] is bundled up in [/EN#171858/clothing a large coat] smoking [/EN#171860/other a cigarette] while walking down [/EN#171857/scene a city street] .
+[/EN#171855/people A man] in [/EN#171858/clothing a long coat] walks past [/EN#171861/people a man] with [/EN#171862/other many advertising materials] .
+[/EN#171856/people Two men] are walking down [/EN#171857/scene the street] going in [/EN#0/notvisual opposite directions] .
+[/EN#171856/people Two people] walk past [/EN#0/notvisual each other] and [/EN#0/notvisual both] are wearing [/EN#171859/clothing coats] .
+[/EN#171856/people Two men] passing [/EN#0/notvisual each other] on [/EN#171857/scene the street] .

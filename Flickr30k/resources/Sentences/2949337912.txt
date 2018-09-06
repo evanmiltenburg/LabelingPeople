@@ -1,0 +1,5 @@
+[/EN#83490/people A surfer] rides out [/EN#83491/scene the green and white waves] .
+[/EN#83490/people A surfer] is riding on [/EN#83491/scene a breaking wave] .
+[/EN#83490/people A man] surfing on [/EN#83491/scene a big green wave] .
+[/EN#83490/people A person] is surfing [/EN#83491/scene a big wave] .
+[/EN#83490/people A surfer] rides [/EN#83491/scene a green wave] .

@@ -1,0 +1,5 @@
+[/EN#22033/people Three people] walk past [/EN#22034/scene a construction zone] fenced off with [/EN#22038/other orange plastic] fencing .
+[/EN#22033/people People] walking down [/EN#22035/scene the sidewalk] next to [/EN#22034/scene a construction zone] .
+[/EN#22033/people People] walk by [/EN#22037/other the construction] [/EN#0/notvisual that] is occurring in [/EN#22036/scene a city] .
+[/EN#22033/people People] walking on [/EN#22035/scene sidewalk] along side [/EN#22034/scene a construction zone] .
+[/EN#22033/people People] walking past [/EN#22034/scene a construction site] .

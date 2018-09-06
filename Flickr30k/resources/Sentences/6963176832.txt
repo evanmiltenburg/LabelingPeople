@@ -1,0 +1,5 @@
+[/EN#262674/people A soccer player] in [/EN#262676/clothing a lime green shirt] looks down at [/EN#262675/other a yellow soccer ball] .
+[/EN#262674/people A soccer player] in [/EN#262676/clothing a green and white shirt] kicking [/EN#262675/other a yellow ball] .
+[/EN#262674/people A soccer player] in [/EN#262676/clothing a green jersey] kicks [/EN#262675/other a blue and yellow ball] .
+[/EN#262674/people A soccer player] kicking [/EN#262675/other a soccer ball] in [/EN#262677/scene a stadium] .
+[/EN#262674/people A soccer player] kicks around [/EN#262675/other a yellow soccer ball] .

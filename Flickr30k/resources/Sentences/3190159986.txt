@@ -1,0 +1,5 @@
+[/EN#99798/people One person] in [/EN#99806/bodyparts short black hair] wearing [/EN#99800/clothing a purple scarf] , is talking to [/EN#99797/people a man] [/EN#0/notvisual that] is sitting , wearing [/EN#99801/clothing glasses] and is staring at [/EN#0/notvisual her] .
+[/EN#99798/people Two people] engage in [/EN#99805/other conversation] over [/EN#99803/other an interesting topic] .
+[/EN#99798/people A woman] wearing [/EN#99800/clothing a scarf] is talking to [/EN#99797/people a man] wearing [/EN#99801/clothing glasses] .
+[/EN#99798/people A woman] standing next to [/EN#99797/people a sitting man] .
+[/EN#99797/people A man] and [/EN#99797/people a man] talking near [/EN#99804/other a table] .

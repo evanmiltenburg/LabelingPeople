@@ -1,0 +1,5 @@
+[/EN#3659/people A person] wearing [/EN#3660/clothing a short-sleeved light blue shirt] over [/EN#3661/clothing a long-sleeved white shirt] and [/EN#3662/clothing blue jeans] is holding [/EN#3663/other a long-lensed camera] to [/EN#3664/bodyparts his face] while standing next to [/EN#3665/vehicles a red colored railroad car] .
+[/EN#3659/people A young man] standing in front of [/EN#3665/vehicles a red freight car] holding [/EN#3663/other a camera] and taking [/EN#3667/other a photo] .
+[/EN#3659/people A boy] standing in front of [/EN#3665/vehicles a red box car] , is taking [/EN#3667/other a photo] .
+[/EN#3666/vehicles Man photographing red railroad car] with [/EN#3663/other large camera lens] .
+[/EN#3659/people Man] with [/EN#3663/other camera] standing beside [/EN#3665/vehicles/scene a train] .

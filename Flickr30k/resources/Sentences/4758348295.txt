@@ -1,0 +1,5 @@
+[/EN#199585/people A man] with [/EN#199586/clothing his suit jacket] thrown over [/EN#199589/bodyparts his shoulder] walks past [/EN#199587/other a wall] decorated with [/EN#199587/other graffiti art] .
+[/EN#199585/people A man] carries [/EN#199586/clothing his jacket] as [/EN#0/notvisual he] walks by [/EN#199587/other some ornate graffiti] on [/EN#199587/other a wall] .
+[/EN#199585/people This man] is walking past [/EN#199587/other a wall] [/EN#0/notvisual that] has [/EN#199587/other art] on [/EN#0/notvisual it] .
+[/EN#199585/people A man] with [/EN#199586/clothing a coat] is walking in front of [/EN#199587/other a mural] .
+[/EN#199585/people Elderly man] walks down [/EN#199587/other a graffiti] filled [/EN#199590/scene street] .

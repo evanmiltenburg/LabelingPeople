@@ -1,0 +1,5 @@
+[/EN#135045/people Three men] sitting on [/EN#135047/other a couch] and eating [/EN#135049/other food] while [/EN#135048/other beers] lay on [/EN#135046/other the table] .
+[/EN#135045/people Three men] are sitting on [/EN#135047/other a sofa] having [/EN#135050/other a casual meal] at [/EN#135046/other the coffee table] .
+[/EN#135045/people Three males] are sitting on [/EN#135047/other a sofa] with [/EN#135048/other beers] on [/EN#135046/other a table] in front of [/EN#0/notvisual them] .
+[/EN#135045/people Three men] enjoying [/EN#135048/other alcohol] and [/EN#135049/other food] .
+[/EN#135045/people Three men] eating [/EN#135049/other food] on [/EN#135047/other a couch] .

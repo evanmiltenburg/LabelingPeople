@@ -1,0 +1,5 @@
+[/EN#99508/people A woman] with [/EN#99510/clothing a white shirt] playing [/EN#99509/instruments a black guitar] .
+[/EN#99508/people A woman] in [/EN#99510/clothing a white shirt] plays [/EN#99509/instruments a black guitar] .
+[/EN#99508/people Woman] in [/EN#99510/clothing a white shirt] plays [/EN#99509/instruments a black guitar] .
+[/EN#99508/people A girl] in [/EN#99510/clothing white] playing [/EN#99509/instruments the electric bass] .
+[/EN#99508/people a woman] in [/EN#99510/clothing white] plays [/EN#99509/instruments a black guitar] .

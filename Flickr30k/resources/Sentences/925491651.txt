@@ -1,0 +1,5 @@
+[/EN#283580/animals A white dog] is splashing through [/EN#283581/scene the water] .
+[/EN#283580/animals a small dog] jumping threw [/EN#283581/scene some a lake]
+[/EN#283580/animals Dog] jumping out of [/EN#283583/scene water] in [/EN#283581/scene a lake] .
+[/EN#283580/animals A dog] leaps out of [/EN#283581/scene the water] .
+[/EN#283580/animals A tan dog] jumps into [/EN#283581/scene water] .

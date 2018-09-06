@@ -1,0 +1,5 @@
+[/EN#256119/people A man] is walking on [/EN#256126/other sand] with [/EN#256120/other a fishing rod] and [/EN#256124/animals a fish] [/EN#0/notvisual he] caught , while [/EN#256118/people 4 people] surround [/EN#256121/other a jet ski] in [/EN#256122/scene the water] behind [/EN#0/notvisual him] .
+[/EN#256118/people A group of four people] are standing in [/EN#256122/scene the ocean] next to [/EN#256121/other a jet ski] while [/EN#256119/people a man] close by [/EN#256125/animals fishes] .
+[/EN#256118/people Four people] stand in [/EN#256122/scene the water] looking at [/EN#256121/other a jet ski] , while [/EN#256119/people a man] fishes nearby .
+[/EN#256119/people A man] is fishing on [/EN#256122/scene the beach] while [/EN#256118/people four people] are nearby with [/EN#256121/other a jet ski] .
+[/EN#256119/people A man] holding [/EN#256120/other a fishing rod] stands [/EN#256118/people nearby four men] with [/EN#256121/other a jet ski] .

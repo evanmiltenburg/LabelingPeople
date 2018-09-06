@@ -1,0 +1,5 @@
+[/EN#262402/people A guy] standing on [/EN#262403/vehicles a moving dirt bike] while wearing [/EN#262405/clothing blue , black and yellow] .
+[/EN#262402/people A person] riding [/EN#262403/vehicles a dirt bike] is surrounded by [/EN#262407/scene green grass] and [/EN#262406/other trees] .
+[/EN#262402/people A young man] is standing while riding [/EN#262403/vehicles his motorized bike] .
+[/EN#262402/people A young man] is riding [/EN#262403/vehicles a dirt bike] while standing up .
+[/EN#262404/other O] Oh cool going mudding , got [/EN#262408/clothing my helmet] and [/EN#262409/clothing jacket] .

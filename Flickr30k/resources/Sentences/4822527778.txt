@@ -1,0 +1,5 @@
+[/EN#207211/people A woman] carrying [/EN#207207/clothing a blue backpack] walking down [/EN#207209/scene the street] [/EN#207215/other about] to pass [/EN#207206/people two other woman] walking in [/EN#0/notvisual the opposite direction] .
+[/EN#207206/people Middle-aged women] in [/EN#207213/clothing short skirts] and [/EN#207212/clothing heels] stroll down [/EN#207209/scene a sidewalk] .
+[/EN#207206/people Two women] in [/EN#207208/clothing leopard print dresses] walk down [/EN#207209/scene the street] .
+[/EN#207206/people Two women] in [/EN#207208/clothing spotted dresses] walking down [/EN#207209/scene a sidewalk] .
+[/EN#207206/people Two women] in [/EN#207208/clothing print dresses] are walking together .

@@ -1,0 +1,5 @@
+[/EN#84390/animals A tan dog] plays with [/EN#84391/animals a white dog] in [/EN#84389/scene a baby pool] .
+[/EN#84388/animals Two yellow dogs] play in [/EN#84389/scene a green plastic pool] .
+[/EN#84388/animals Two dogs] wrestle in [/EN#84389/scene a kiddie pool] .
+[/EN#84388/animals Two dogs] are playing in [/EN#84389/scene a pool] .
+[/EN#84388/animals Two dogs] are playing outside .

@@ -1,0 +1,5 @@
+[/EN#211120/people Person] wearing [/EN#211121/clothing black and white striped shirt] holding [/EN#211122/other a red skateboard] standing on [/EN#211123/scene sidewalk] with [/EN#211124/other stars] .
+[/EN#211120/people A teenage boy] wearing [/EN#211121/clothing a striped shirt] walks on [/EN#211123/scene a street] paved with [/EN#211124/other stars] carrying [/EN#211122/other a skateboard] .
+[/EN#211120/people A boy] in [/EN#211121/clothing a black and white shirt] holds [/EN#211122/other a red skateboard] as [/EN#0/notvisual he] stands over [/EN#211124/other the Hollywood Stars] .
+[/EN#211120/people A skateboarder] examines [/EN#211125/other the Hollywood Walk of Fame] .
+[/EN#211120/people Man] walking with [/EN#211122/other red skateboard] .

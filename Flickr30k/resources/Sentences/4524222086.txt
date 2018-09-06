@@ -1,0 +1,5 @@
+[/EN#175343/people A man] with [/EN#175344/bodyparts a flaming red beard] pushes [/EN#175346/vehicles a shopping cart] on [/EN#175345/scene a crowded street] .
+[/EN#175343/people A man] with [/EN#175344/bodyparts a red beard] pushing [/EN#175346/vehicles a shopping cart] on [/EN#175345/scene a busy street] .
+[/EN#175343/people Man] pushing [/EN#175346/vehicles cart] down [/EN#175345/scene street] , surrounded by [/EN#175348/people a group of people] .
+[/EN#175343/people A man] with [/EN#175344/bodyparts a red beard] pushes [/EN#175346/vehicles a cart] along [/EN#175345/scene a sidewalk] .
+[/EN#175343/people A man] with [/EN#175347/bodyparts a beard] and [/EN#175344/bodyparts a beard] walks [/EN#175345/scene a busy sidewalk] .

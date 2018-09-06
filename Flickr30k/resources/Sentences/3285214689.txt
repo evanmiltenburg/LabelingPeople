@@ -1,0 +1,5 @@
+[/EN#106907/people Man] in [/EN#106914/clothing blue sport uniform] with [/EN#106911/other basketball] in [/EN#106920/bodyparts right hand] attempting to score [/EN#106910/other basket] while being blocked by [/EN#106913/people player] in [/EN#106915/clothing white uniform] .
+[/EN#106907/people The basketball player] in [/EN#106915/clothing white] is defending [/EN#106910/other the basket] against [/EN#106907/people the player] wearing [/EN#106914/clothing blue] .
+[/EN#106907/people A basketball player] jumps to make [/EN#106912/other the shot] while [/EN#0/notvisual another] tries to stop [/EN#0/notvisual him] .
+[/EN#106909/people Two men] are playing [/EN#106917/other basketball] and [/EN#106913/other one] is trying to block [/EN#106913/other the others] shot .
+[/EN#106909/people Two basketball players] oppose [/EN#0/notvisual each other] at [/EN#106916/other the net] .

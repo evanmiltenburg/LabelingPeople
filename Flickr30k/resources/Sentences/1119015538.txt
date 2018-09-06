@@ -1,0 +1,5 @@
+[/EN#3062/animals A little tan dog] with [/EN#3063/bodyparts large ears] running through [/EN#3064/scene the grass] .
+[/EN#0/notvisual this] is [/EN#3062/animals a small beige dog] running through [/EN#3064/scene a grassy field]
+[/EN#3063/bodyparts A small dogs ears] stick up as [/EN#0/notvisual it] runs in [/EN#3064/scene the grass] .
+[/EN#3062/animals A playful dog] is running through [/EN#3064/scene the grass] .
+[/EN#3062/animals The small dog] is running across [/EN#3064/scene the lawn] .

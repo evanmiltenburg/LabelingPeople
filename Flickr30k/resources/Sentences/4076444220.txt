@@ -1,0 +1,5 @@
+[/EN#154367/people A person] wearing [/EN#154371/clothing a yellow swim cap] and [/EN#154372/clothing blue goggles] is swimming in [/EN#154370/other a lane] .
+[/EN#154367/people A swimmer] is swimming hard in order to win [/EN#154368/other the race] .
+[/EN#154367/people A competitive swimmer] in [/EN#154373/scene a pool of water] .
+[/EN#154367/people An athlete] swimming during [/EN#154368/other a swim meet] .
+[/EN#154367/people Woman] swimming in [/EN#154369/other a big race] .

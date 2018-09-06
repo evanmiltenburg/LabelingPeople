@@ -1,0 +1,5 @@
+[/EN#207667/people Two people] are walking around [/EN#207669/scene the grounds of a castle] .
+[/EN#207666/people Man] and [/EN#207672/people lady] walking up [/EN#207671/scene grassy lane of castle] .
+[/EN#207667/people Two people] walking outside [/EN#207670/scene a castle] .
+[/EN#207665/other A stone wall] with [/EN#207669/scene lush green grass] .
+[/EN#207667/people People] walk beside [/EN#207665/other a stone wall] .

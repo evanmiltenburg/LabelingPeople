@@ -1,0 +1,5 @@
+[/EN#237339/people A woman] wearing [/EN#237340/clothing a heavy winter coat] eats [/EN#237341/other a sandwich] while [/EN#0/notvisual she] , and [/EN#237347/scene her surroundings] , is covered in [/EN#237342/scene snow] .
+[/EN#237339/people person] wearing [/EN#237340/clothing a purple coat] sitting in [/EN#237342/scene the snow] under [/EN#237343/other a tree] eating [/EN#237341/other a sandwich] .
+[/EN#237339/people Winter enthusiast] taking [/EN#237346/scene a break] under [/EN#237349/other a snow covered pine] to enjoy [/EN#237344/other a sandwich] .
+[/EN#237339/people Woman] with [/EN#237339/other snow gear] on takes [/EN#237346/scene a break] for [/EN#237341/other lunch] .
+[/EN#237339/people A person] out in [/EN#237342/scene the snow] .

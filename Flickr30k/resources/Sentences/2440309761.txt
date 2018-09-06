@@ -1,0 +1,5 @@
+[/EN#49654/people A young soccer player] is kicking [/EN#49659/other a goal] while [/EN#49660/people the goalie] tries to block .
+[/EN#49655/people Little boys] in [/EN#49657/clothing their red uniforms] play [/EN#49656/other soccer] outside .
+[/EN#49654/people Two boys] in [/EN#49657/clothing red uniforms] are playing [/EN#49658/other soccer] .
+[/EN#49655/people Two boys] in [/EN#49657/clothing red uniforms] playing [/EN#49658/other soccer] .
+[/EN#49655/people Children] playing [/EN#49656/other a soccer game] .

@@ -1,0 +1,5 @@
+[/EN#270007/instruments A three man ethnic band play native instruments] while dressed in [/EN#270009/clothing red and gold] .
+[/EN#270004/people three weirdly dressed men] , playing in [/EN#270010/other some form of musical fiasco] .
+[/EN#270004/people Three men] in [/EN#270005/clothing Renaissance-style clothing] are playing [/EN#270006/instruments instruments] .
+[/EN#270004/people Three men] are wearing [/EN#270005/clothing native clothing] and playing [/EN#270006/instruments instruments] .
+[/EN#270004/people A group of men] in [/EN#270005/clothing costume] play [/EN#270008/other music] .

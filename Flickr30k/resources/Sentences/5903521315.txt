@@ -1,0 +1,5 @@
+[/EN#245019/people A baseball player] wearing [/EN#245022/clothing a blue shirt] runs toward [/EN#245025/other the home plate] as [/EN#245033/other the opposing team 's catcher tags] [/EN#0/notvisual him] , [/EN#245030/clothing the catcher 's face mask] flies away of [/EN#245034/other the third base foul line] , and [/EN#245031/people the catcher 's teammate] covers [/EN#245023/other the home plate] .
+[/EN#245019/people A baseball player] with [/EN#245026/clothing a red helmet] and [/EN#245035/clothing white pants] is tagged by [/EN#245020/people the catcher] while running to [/EN#245023/other home base] .
+[/EN#245019/people A baseball player] in [/EN#245022/clothing blue] is running [/EN#245029/other the bases] while [/EN#245019/people a player] in [/EN#245028/clothing red] tries to tag [/EN#0/notvisual him] out .
+[/EN#245021/people Three baseball players] in [/EN#245032/other the middle of a play] .
+[/EN#245021/people A group of men] playing [/EN#245027/other baseball] .

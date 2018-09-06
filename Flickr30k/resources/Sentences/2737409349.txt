@@ -1,0 +1,5 @@
+[/EN#69530/people A man] is sitting in [/EN#69531/other the green chair] , talking on [/EN#69539/other the phone] , and working on [/EN#69532/other the laptop] , and [/EN#0/notvisual there] is [/EN#69537/scene construction site] next to [/EN#69538/scene his building] .
+[/EN#69530/people A man] sitting in [/EN#69531/other a green chair] in front of [/EN#69533/other a large window] looking out onto [/EN#69533/other a cityscape] .
+[/EN#69530/people A man] with [/EN#69532/other a laptop] is sitting near [/EN#69533/other a window] with [/EN#69535/scene a view of a city] below .
+[/EN#69530/people A man] uses [/EN#69532/other his laptop] while sitting in front of [/EN#69533/other his window] .
+[/EN#0/notvisual He] is at [/EN#69540/other work] overlooking [/EN#69536/scene the busy streets] below .

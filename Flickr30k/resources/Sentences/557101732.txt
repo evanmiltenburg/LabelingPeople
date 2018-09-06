@@ -1,0 +1,5 @@
+[/EN#238900/people A bearded man] in [/EN#238905/clothing jeans] and [/EN#238902/clothing a black shirt] riding [/EN#238901/vehicles a bicycle] in [/EN#238906/scene the street] .
+[/EN#238900/people Man] with [/EN#238904/bodyparts white flowing beard] in [/EN#238905/clothing jeans] and [/EN#238902/clothing t-shirt] riding [/EN#238901/vehicles a bike] .
+[/EN#238900/people A man] with [/EN#238904/bodyparts a giant white beard] rides [/EN#238901/vehicles a bicycle] next to [/EN#238903/vehicles/scene a bus] .
+[/EN#238900/people A white-bearded man] rides [/EN#238901/vehicles a bike] next to [/EN#238903/vehicles/scene a city bus] .
+[/EN#238900/people The man] with [/EN#238904/bodyparts a white beard] rides [/EN#238901/vehicles a bike] near [/EN#238903/vehicles/scene a bus] .

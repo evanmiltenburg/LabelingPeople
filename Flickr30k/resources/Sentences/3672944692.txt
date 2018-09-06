@@ -1,0 +1,5 @@
+[/EN#135920/people Two men] wear funny looking [/EN#135924/clothing black suits] while climbing [/EN#135921/scene a mountain] on [/EN#135926/scene a clear sunny day] .
+[/EN#135920/people Two people] in [/EN#135924/clothing black outfits] , surrounding [/EN#0/notvisual themselves] in [/EN#135923/other black balloons] in [/EN#135921/scene a desert]
+[/EN#135920/people Two balloon artists] are standing and sitting on [/EN#135921/scene a dry dirt hill] .
+[/EN#135925/people People] with [/EN#135923/other black balloons] on [/EN#0/notvisual them] climbing [/EN#135921/scene dirt hill]
+[/EN#135920/people Two people] with [/EN#135923/other balloons] climb [/EN#135921/scene a hill] .

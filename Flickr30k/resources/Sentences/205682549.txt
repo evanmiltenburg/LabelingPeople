@@ -1,0 +1,5 @@
+[/EN#26155/people A person] in [/EN#26159/clothing a red shirt] is standing , with [/EN#26157/bodyparts arms] raised , at [/EN#26156/scene the top of a mountain] .
+[/EN#26155/people A man] feels on top of [/EN#26160/other the world] on top of [/EN#26156/other a large rock formation] .
+[/EN#26155/people A man] stands at [/EN#26156/scene the top of a mountain] with [/EN#26161/bodyparts his hands] in [/EN#0/notvisual the air] .
+[/EN#26155/people A man] with [/EN#26157/bodyparts his arms] raised at [/EN#26156/scene the top of a mountain] .
+[/EN#26155/people A hiker] standing on [/EN#26156/other a bluff] high in [/EN#26156/scene the mountains] .

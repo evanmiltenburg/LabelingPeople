@@ -1,0 +1,5 @@
+[/EN#118436/animals A white dog] with [/EN#118439/bodyparts brown ears] runs down [/EN#118438/scene a gravel path] with [/EN#118441/other a ball] in [/EN#118440/bodyparts its mouth] .
+[/EN#118436/animals A white dog] is running with [/EN#118437/other a brown ball] in [/EN#118440/bodyparts its mouth] .
+[/EN#118436/animals A white and black dog] carrying [/EN#118437/other a ball] on [/EN#118438/scene the beach] .
+[/EN#118436/animals A small dog] runs with [/EN#118437/other a brown ball] in [/EN#118440/bodyparts its mouth] .
+[/EN#118436/animals A dog] with [/EN#118439/bodyparts big ears] holds [/EN#118437/other a ball] in [/EN#118440/bodyparts his mouth] .

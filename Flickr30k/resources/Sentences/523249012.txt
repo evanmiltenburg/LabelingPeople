@@ -1,0 +1,5 @@
+[/EN#231620/people The man] in [/EN#231627/clothing the white shirt] is sitting on [/EN#231624/other a rock] with [/EN#231623/other a pole] in front of [/EN#0/notvisual him] .
+[/EN#231620/people A man] sits on [/EN#231624/other a rock] next to [/EN#231622/other a folding deck chair] and [/EN#231623/other a fishing pole] .
+[/EN#231620/people Man] sits near [/EN#231621/scene water] with [/EN#231623/other fishing pole] and [/EN#231622/other empty camping chair] .
+[/EN#231620/people A man] sits on [/EN#231624/other rocks] by [/EN#231622/other an empty chair] at [/EN#231626/scene the ocean 's edge] .
+[/EN#231620/people A man] sits with [/EN#231623/other fishing poles] near [/EN#231621/scene a body of water] .

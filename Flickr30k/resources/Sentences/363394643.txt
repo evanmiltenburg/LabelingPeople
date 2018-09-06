@@ -1,0 +1,5 @@
+[/EN#132892/people A person] in [/EN#132897/clothing a purple shirt] tends to [/EN#132896/vehicles/scene the equipment of a boat] , while perched on [/EN#132895/other the edge of the watercraft] .
+[/EN#132892/people A boy] in [/EN#132897/clothing a purple shirt] on [/EN#132896/vehicles/scene one of three boats] in [/EN#132898/scene muddy water] in [/EN#132901/scene a foreign country] .
+[/EN#132892/people A person] with [/EN#132897/clothing a purple shirt] making [/EN#132900/other adjustments] to [/EN#132896/other the motor] on [/EN#132894/vehicles/scene a boat] .
+[/EN#0/notvisual There] are [/EN#132893/vehicles/scene three colorful boats] with [/EN#132892/people a person] sitting in [/EN#132896/other the middle one] .
+[/EN#132893/vehicles/scene 3 boats] in [/EN#132898/scene the water] , [/EN#132892/people person] in [/EN#132896/vehicles/scene middle boat] wearing [/EN#132897/clothing a purple shirt] .

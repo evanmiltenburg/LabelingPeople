@@ -1,0 +1,5 @@
+[/EN#31993/people A woman] with [/EN#31997/clothing a red shirt] and [/EN#31998/clothing red purse] facing away from [/EN#31992/people a man] with [/EN#31999/clothing a black hat] sitting on [/EN#31994/other a bench] .
+[/EN#31993/people A woman] waits in [/EN#31996/other the shade] while [/EN#31992/people an older , seated man] stares at [/EN#0/notvisual her] from [/EN#31995/other behind] .
+[/EN#31993/people Lady] walking past [/EN#31992/people a man] on [/EN#31994/other a bench] [/EN#0/notvisual who] is watching [/EN#0/notvisual her] .
+[/EN#31992/people A man] on [/EN#31994/other a park bench] is looking at [/EN#31993/people a woman] walking by .
+[/EN#31992/people A man] and [/EN#31993/people a woman] next to [/EN#32000/vehicles some yellow taxis] .

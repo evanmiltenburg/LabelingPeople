@@ -1,0 +1,5 @@
+[/EN#203027/people Woman] in [/EN#203029/clothing long blue dress] leaning over near [/EN#203028/other white bucket] on [/EN#203030/scene the side of a street] .
+[/EN#203027/people A woman] in [/EN#203029/other a gray dress bend] over [/EN#203028/other a bucket] on [/EN#203030/scene the side of the street] .
+[/EN#203027/people A lone woman] in [/EN#203029/clothing a gray dress] is painting [/EN#203030/scene the edge of the sidewalk] .
+[/EN#203027/people A woman] in [/EN#203029/clothing a long dress] paints [/EN#203031/other the curb] .
+[/EN#203027/people A woman] in [/EN#203029/clothing blue] studies [/EN#203030/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#223789/animals A black and tan dog] and [/EN#223792/animals a black and white dog] are playing [/EN#223791/other ball] in [/EN#223796/scene the grass] .
+[/EN#223789/animals A black dog] and [/EN#223792/animals a white dog] play with [/EN#0/notvisual each other] and [/EN#223791/other a green ball] .
+[/EN#223793/clothing A black] and [/EN#223792/animals a white dog] are [/EN#0/notvisual both] going for [/EN#223791/other a blue soccer ball] .
+[/EN#223794/scene Two medium] sized [/EN#223790/animals dogs] playing with [/EN#223791/other a green ball]
+[/EN#223790/animals Two dogs] are trying to grab [/EN#223791/other a ball] .

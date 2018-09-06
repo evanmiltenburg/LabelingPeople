@@ -1,0 +1,5 @@
+[/EN#170859/people A photo of a boy] in [/EN#170858/clothing a red shirt] riding [/EN#170856/vehicles a bicycle] with [/EN#170861/people a group of people] standing under [/EN#170862/other a tree] in [/EN#0/notvisual the background] .
+[/EN#170855/people An African-American male youth] is riding [/EN#170856/vehicles a green bicycle] while [/EN#170863/people other people] are looking at [/EN#170864/other pictures] on [/EN#170860/other a board] .
+[/EN#170855/people This young African-American man] rides [/EN#170856/vehicles his bicycle] on [/EN#170857/scene a dirt road] .
+[/EN#170855/people A boy] riding [/EN#170856/vehicles a bike] on [/EN#170857/scene a dirt road] .
+[/EN#170855/people A boy] in [/EN#170858/clothing a red shirt] riding [/EN#170856/vehicles a bike] .

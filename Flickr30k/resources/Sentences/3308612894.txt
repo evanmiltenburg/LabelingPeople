@@ -1,0 +1,5 @@
+[/EN#108369/people A worried blond-haired baby] is sitting inside [/EN#108370/other a large , shiny metal] cooking [/EN#108370/other pot] [/EN#0/notvisual that] is on top of [/EN#108371/other an electric stove] .
+[/EN#108369/people A baby] in [/EN#108374/clothing a red shirt] sits in [/EN#108370/other a large pot] on [/EN#108371/other a stove] .
+[/EN#108369/people A baby] in [/EN#108370/other silver pot] sitting on [/EN#108371/clothing stove top] .
+[/EN#108369/people Baby] sits in [/EN#108370/other pot] on [/EN#108371/clothing stove top] .
+[/EN#108369/people a baby] in [/EN#108370/other a pot] on [/EN#108371/other a stove] .

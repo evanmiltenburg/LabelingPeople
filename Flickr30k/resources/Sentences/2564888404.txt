@@ -1,0 +1,5 @@
+[/EN#58383/animals One black dog] and [/EN#58384/animals one brown and white dog] are running in [/EN#58386/scene the water] .
+[/EN#58384/animals The two dogs] are running through [/EN#0/notvisual the water side] by [/EN#0/notvisual side] .
+[/EN#58384/animals Two dogs] running [/EN#0/notvisual side] by [/EN#0/notvisual side] in [/EN#58386/scene water] .
+[/EN#58384/animals Two dogs] running in [/EN#58385/other the surf] .
+[/EN#58384/animals Two dogs] run in [/EN#58386/scene the water] .

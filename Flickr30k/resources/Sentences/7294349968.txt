@@ -1,0 +1,5 @@
+[/EN#268078/people A baseball pitcher] wearing [/EN#268082/clothing a purple and white uniform] throwing [/EN#268079/other a baseball] from [/EN#268081/other the mound] .
+[/EN#268078/people The pitcher] skillfully threw [/EN#268080/other the ball] towards [/EN#268084/people the batter] from [/EN#268081/other the mound] .
+[/EN#268078/people Pitcher] on pitching [/EN#268081/other mound] in [/EN#268083/clothing maroon cap] and [/EN#268079/other jersey releases baseball] .
+[/EN#268078/people A young man] in [/EN#268082/clothing a red and white uniform] throwing [/EN#268079/other a baseball] .
+[/EN#268078/people A baseball player] throws [/EN#268079/other a baseball] .

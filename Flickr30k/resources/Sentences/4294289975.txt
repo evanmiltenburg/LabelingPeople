@@ -1,0 +1,5 @@
+[/EN#161926/people A man] in [/EN#161928/clothing a light green jumpsuit] relaxing in [/EN#161927/scene the grass] .
+[/EN#161926/people The man] with [/EN#161929/clothing the scarf] is lying on [/EN#161927/scene the lawn] .
+[/EN#161926/people A man] lies on [/EN#0/notvisual his left side] in [/EN#161927/scene the grass] .
+[/EN#161926/people A man] is laying down in [/EN#161927/scene the grass] .
+[/EN#161926/people Man] lying under [/EN#161931/other palm tree]

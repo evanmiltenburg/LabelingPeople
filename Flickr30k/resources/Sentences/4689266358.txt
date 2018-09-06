@@ -1,0 +1,5 @@
+[/EN#191305/scene A main street scene of a small town] with [/EN#191309/other an overhead welcome sign] [/EN#0/notvisual that] says " Welcome to [/EN#191307/clothing Golden] " .
+[/EN#0/notvisual There] are [/EN#191306/vehicles cars] driving down [/EN#191305/scene a street] with [/EN#191310/other a sign] displaying [/EN#191308/other Welcome] to [/EN#191307/clothing Golden] .
+Overlooking [/EN#191305/scene a street] with [/EN#191309/other a sign] above [/EN#191312/scene shops] [/EN#0/notvisual that] states [/EN#191308/other Welcome] To [/EN#191307/clothing Golden] .
+[/EN#191305/scene A picture of a city] with [/EN#191309/other a sign] welcoming [/EN#191313/people travelers] on [/EN#191305/scene a busy street] .
+[/EN#191306/vehicles Cars] are passing through [/EN#191311/scene a town] .

@@ -1,0 +1,5 @@
+[/EN#40982/people An older man] sitting along [/EN#40984/other a yellow painted brick wall] covered in [/EN#40982/clothing a gray shawl] and wearing [/EN#40987/clothing a red turban] .
+[/EN#40982/people A man] [/EN#0/notvisual who] is wrapped in [/EN#40982/other a gray wrap] is stooping on [/EN#0/notvisual the ground] .
+[/EN#40982/people An old man] wrapped in [/EN#40982/other a gray cloth] sitting against [/EN#40984/other a wall] .
+[/EN#40982/people Old man] with [/EN#40982/other gray blanket] on squatting against [/EN#40984/other a wall]
+[/EN#40982/people An elderly man] sits next to [/EN#40984/other a yellow wall] .

@@ -1,0 +1,5 @@
+[/EN#233450/people A man] wearing [/EN#233455/clothing white] walks passed [/EN#233451/scene a shuttered building] with [/EN#233449/other an advertising banner] over [/EN#233456/other the door] .
+[/EN#233450/people A man] walks under [/EN#233449/other a sign] advertising [/EN#233451/scene a beauty parlor] affixed to [/EN#233451/scene a dilapidated building] .
+[/EN#233450/people A dark-haired man] in [/EN#233455/clothing white] walks by [/EN#233456/other a storefront] under [/EN#233449/other the sign] for [/EN#233451/scene a beauty parlor] .
+[/EN#233449/other A billboard] advertising [/EN#233457/other a vacation] in on [/EN#233454/scene a run-down street] .
+[/EN#233449/other A banner] about [/EN#233451/scene a beauty parlor] .

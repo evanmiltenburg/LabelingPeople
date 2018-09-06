@@ -1,0 +1,5 @@
+[/EN#123462/people A woman] dressed in [/EN#123463/clothing a blue long-sleeved shirt] and wearing [/EN#123466/clothing a hairnet] .
+[/EN#123462/people A person] wearing [/EN#123465/clothing blue workman 's clothing] on [/EN#123467/scene an assembly line] .
+[/EN#123462/people A medical professional] is working in [/EN#123464/scene a laboratory] .
+[/EN#123462/people A woman] in [/EN#123465/clothing deli worker clothing] is cutting [/EN#123468/other meat] .
+[/EN#123462/people A woman] in [/EN#123463/clothing a blue top] is working at [/EN#123464/scene a factory] .

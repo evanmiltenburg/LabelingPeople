@@ -1,0 +1,5 @@
+[/EN#78221/animals A large brown dog] and [/EN#78221/animals a small black dog] stand near [/EN#0/notvisual each other] on [/EN#78222/scene a dirt patch] surrounding by [/EN#78226/scene grass] and [/EN#78224/other weeds] .
+[/EN#78221/animals A large brown dog] and [/EN#78221/animals a small gray dog] on [/EN#78222/scene a rocky surface] with [/EN#78224/other weeds] behind [/EN#0/notvisual them] .
+[/EN#78221/animals A small black dog] is shocked when [/EN#78221/animals a larger brown dog] gives [/EN#0/notvisual him] [/EN#78223/other a sniff] .
+[/EN#78221/animals A large brown dog] has [/EN#78227/other his noce] on [/EN#78223/animals the back of a small black dog] .
+[/EN#78221/animals The brown dog] sniffs [/EN#78228/animals the back of a smaller black dog] .

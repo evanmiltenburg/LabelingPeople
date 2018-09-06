@@ -1,0 +1,5 @@
+[/EN#135060/people A man] stands at [/EN#135064/other the top of a ladder] , extending [/EN#135069/bodyparts his right hand] to [/EN#135065/people another man] [/EN#0/notvisual that] is holding [/EN#135063/other a cable] from [/EN#135061/other a third story window] .
+[/EN#135060/people A man] in [/EN#135067/clothing shorts] stands on [/EN#135064/other a ladder] [/EN#135062/other almost three stories] up from [/EN#0/notvisual the ground] , reaching for [/EN#135063/other a cable] .
+[/EN#135060/people A man] in [/EN#135066/clothing a gray t-shirt] atop [/EN#135064/other a ladder] reaching out to [/EN#135065/people another man] inside [/EN#135061/other the buildings window]
+[/EN#135060/people A man] standing on [/EN#135064/other a ladder] talking to [/EN#135065/people another man] [/EN#0/notvisual who] is hanging out of [/EN#135061/other a window] .
+[/EN#135060/people A man] is on [/EN#135064/other a ladder] [/EN#0/notvisual which] is leaning against [/EN#135070/scene a building] .

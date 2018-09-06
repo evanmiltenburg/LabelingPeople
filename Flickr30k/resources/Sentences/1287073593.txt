@@ -1,0 +1,5 @@
+[/EN#7343/animals Five sled dogs] are pulling [/EN#7344/people a person] on [/EN#7345/other a sled] , through [/EN#7346/scene the snow] .
+[/EN#7343/animals A group of dogs] pull [/EN#7344/people a person] on [/EN#7345/other a dog sled] up [/EN#7347/scene a hill] .
+[/EN#7344/people Dogsled rider] pulled [/EN#7348/other past flags] on [/EN#7347/scene snowy hill] .
+[/EN#7344/people The man] is mushing [/EN#7343/animals his dogs] on [/EN#7347/scene a snow trail]
+[/EN#7343/animals Dogs] pulling [/EN#7345/other a sled] in [/EN#7349/other a sled race] .

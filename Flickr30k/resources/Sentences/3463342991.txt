@@ -1,0 +1,5 @@
+[/EN#120034/people An elderly man] is setting [/EN#120036/other the table] in front of [/EN#120037/other an open door] [/EN#0/notvisual that] leads [/EN#120039/scene outside] to [/EN#120040/scene a garden] .
+[/EN#120034/people The guy] in [/EN#120035/clothing the black sweater] is looking onto [/EN#120036/other the table] below .
+[/EN#120034/people A man] in [/EN#120035/clothing a black jacket] picking [/EN#120038/other something] up from [/EN#120036/other a table] .
+[/EN#120034/people An old man] wearing [/EN#120035/clothing a black jacket] is looking on [/EN#120036/other the table]
+[/EN#120034/people The gray-haired man] is wearing [/EN#120035/clothing a sweater] .

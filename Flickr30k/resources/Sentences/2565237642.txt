@@ -1,0 +1,5 @@
+[/EN#58394/animals A brown dog] is running in [/EN#58396/scene the grass] between [/EN#58397/other obstacles] on [/EN#58395/other a course]
+[/EN#58394/animals A light brown dog] running through [/EN#58395/other an obstacle course] .
+[/EN#58394/animals A red furred dog] runs on [/EN#58395/other an obstacle course] .
+[/EN#58394/animals a small dog] plays in [/EN#58396/scene the grass] .
+[/EN#58394/animals A dog] runs through [/EN#58396/scene the grass] .

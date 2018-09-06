@@ -1,0 +1,5 @@
+[/EN#116841/animals A brown dog] is lying on [/EN#116843/scene a grassy field] as [/EN#116847/other the wind] blows through [/EN#116841/other his fur] .
+[/EN#116841/animals A yellow dog] is running in [/EN#116843/scene a field] near [/EN#116844/scene a mountain] .
+[/EN#116841/animals The dog] is running through [/EN#116843/scene the grass] in [/EN#116846/other the sun] .
+[/EN#116841/animals a golden retriever] is running in [/EN#116843/scene a grassy field]
+[/EN#116841/animals A dog] playing in [/EN#116843/scene the grass] .

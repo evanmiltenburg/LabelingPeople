@@ -1,0 +1,5 @@
+[/EN#90219/people A child] runs with [/EN#90223/other a racket] and [/EN#90224/other a tennis ball] in [/EN#90222/scene a field] while being chased by [/EN#90221/animals a golden retriever] and [/EN#90225/people a young boy] .
+[/EN#90220/people Two young boys] , [/EN#90219/other one] with [/EN#90224/other a tennis ball] , [/EN#90227/other play] with [/EN#90221/animals a dog] in [/EN#90222/scene a grassy field] .
+[/EN#90220/people Two children] gleefully play with [/EN#90221/animals a dog] and [/EN#90224/other a tennis ball] and [/EN#90223/other racket] .
+[/EN#90220/people These two children] and [/EN#90221/animals dog] are running through [/EN#90222/scene a field of grass] .
+[/EN#90219/people Little girl] and [/EN#90225/people boy] playing in [/EN#90222/scene the park] , with [/EN#90221/animals their dog] .

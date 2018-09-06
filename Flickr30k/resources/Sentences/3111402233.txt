@@ -1,0 +1,5 @@
+[/EN#94363/animals A brown dog] shakes while standing in [/EN#94364/scene the water] near [/EN#94366/other a yellow ball] .
+[/EN#94363/animals The brown dog] stands in [/EN#94364/scene the water] and shakes off .
+[/EN#94363/animals A brown , wet dog] shaking off [/EN#94364/scene the water] .
+[/EN#94363/animals A dog] on [/EN#94365/scene the beach] shaking off [/EN#94364/scene water]
+[/EN#94363/animals A dog] shaking [/EN#94364/scene water] off

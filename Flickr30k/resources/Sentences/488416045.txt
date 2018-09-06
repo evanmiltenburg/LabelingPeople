@@ -1,0 +1,5 @@
+[/EN#214519/animals A brown dog] wearing [/EN#214522/clothing a black collar] running across [/EN#214520/scene the beach] .
+[/EN#214519/animals The large brown dog] is running on [/EN#214520/scene the beach] by [/EN#214521/scene the ocean] .
+[/EN#214519/animals A dog] walks on [/EN#214520/other the sand] near [/EN#214521/scene the water] .
+[/EN#214519/animals A brown dog] is running along [/EN#214520/scene a beach] .
+[/EN#214519/animals Brown dog] running on [/EN#214521/scene the beach] .

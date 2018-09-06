@@ -1,0 +1,5 @@
+[/EN#278905/people A man] dressed in [/EN#278906/clothing a clown 's robe] applies [/EN#278907/bodyparts makeup] in [/EN#278909/other natural sunlight] outside of [/EN#278911/scene a building] .
+[/EN#278905/people A man] in [/EN#278906/clothing a black and white checkered outfit] puts [/EN#278910/other white paint] around [/EN#278908/bodyparts his eyes] .
+[/EN#278905/people A man] wearing [/EN#278906/clothing a harlequin top] is putting on [/EN#278907/bodyparts face makeup] .
+[/EN#278905/people A man] sits alone while [/EN#0/notvisual he] puts on [/EN#278907/bodyparts his makeup] .
+[/EN#278905/people A mime] applying [/EN#278907/bodyparts his makeup] .

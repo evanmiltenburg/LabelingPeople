@@ -1,0 +1,5 @@
+[/EN#16212/animals A skinny brown dog] walks across [/EN#16213/other a large piece of fallen tree] .
+[/EN#16212/animals A gray dog] walks on top of [/EN#16213/other a fallen tree] in [/EN#16214/other the woods] .
+[/EN#16212/animals The skinny brown dog] is walking on [/EN#16213/other a fallen tree] .
+[/EN#16212/animals A brown dog] walks on top of [/EN#16213/other a felled tree trunk] .
+[/EN#16212/animals A big hound dog] walking on [/EN#16213/other a log] in [/EN#16214/other the woods] .

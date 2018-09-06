@@ -1,0 +1,5 @@
+[/EN#51326/animals a dog] wearing [/EN#51332/clothing a yellow collar] is bearing [/EN#51331/bodyparts his teeth] at [/EN#51327/animals another dog] [/EN#0/notvisual that] is sitting by [/EN#51333/other a tree] .
+[/EN#51326/animals/people A German shepherd] is showing [/EN#51331/bodyparts its teeth] as [/EN#0/notvisual it] growls at [/EN#51327/animals/people another German shepherd] .
+[/EN#51326/animals/people A German shepherd] barking at [/EN#51327/animals/people another German shepherd] in [/EN#51334/scene a forest] .
+[/EN#51328/animals Two German sheperds] snarling at [/EN#0/notvisual each other] .
+[/EN#51328/animals Two German Sheppard dogs] are fighting .

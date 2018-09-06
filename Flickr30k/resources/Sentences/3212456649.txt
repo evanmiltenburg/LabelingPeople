@@ -1,0 +1,5 @@
+[/EN#101518/animals A brown dog] jumps over [/EN#101520/other the dead plants] in [/EN#101519/scene a snowy field] .
+[/EN#101518/animals A dog] is jumping through [/EN#101521/scene the snow] over [/EN#101520/other some weeds] .
+[/EN#101518/animals A brown dog] leaps through [/EN#101521/scene the snow] in [/EN#101519/scene a field] .
+[/EN#101518/animals/people A German shepherd] is running through [/EN#101521/scene the snow] .
+[/EN#101518/animals A dog] running through [/EN#101521/scene the snow] .

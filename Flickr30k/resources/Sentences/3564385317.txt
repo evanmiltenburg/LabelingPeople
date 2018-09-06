@@ -1,0 +1,5 @@
+[/EN#128047/people A person] dances along [/EN#128051/scene a high rock surface] nearby [/EN#128049/scene the tops of tree-lined areas] .
+[/EN#128047/people A man] stands in [/EN#128053/scene a strange position] on [/EN#128052/other a rock] high above [/EN#128049/other some trees] .
+[/EN#128047/people This hiker] does [/EN#128048/other a dance of joy] on top of [/EN#128050/scene the mountain] .
+[/EN#128047/people A man] does [/EN#128048/other Ti Chi] on [/EN#128052/other a rock] overlooking [/EN#128049/scene a forest] .
+[/EN#128047/people a person] dances on [/EN#128052/other a rock] .

@@ -1,0 +1,5 @@
+[/EN#119234/animals A dark brown dog] wearing [/EN#119237/clothing a yellow harness] is jumping over [/EN#119236/other a hurdle] in [/EN#119235/other an agility competition] .
+[/EN#119234/animals Brown dog] with [/EN#119237/clothing yellow harness] jumping over [/EN#119236/other white obstacle]
+[/EN#119234/animals A dark dog] is competing in [/EN#119235/other a dog show competition] .
+[/EN#119234/animals Dog] jumping [/EN#119236/other a hurdle] in [/EN#119236/scene a sporting event] .
+[/EN#119234/animals A brown dog] jumping over [/EN#119236/other a obstacle] .

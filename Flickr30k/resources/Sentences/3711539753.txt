@@ -1,0 +1,5 @@
+[/EN#138690/people Two people] are looking at [/EN#138692/other a fancy motorcycle] while [/EN#138698/people a woman] inside [/EN#138694/scene a restaurant] is looking at [/EN#0/notvisual them] .
+[/EN#138691/people A man] and [/EN#138695/people a woman] are admiring [/EN#138692/other a bright red motorcycle] parked outside [/EN#138694/scene a restaurant]
+[/EN#138691/people An older man] and [/EN#138695/people woman] admire [/EN#138692/vehicles a custom bike] in front of [/EN#138694/scene a store] .
+[/EN#138692/vehicles This red color bike] is very nice , [/EN#0/notvisual I] would like to have [/EN#138699/other one] .
+[/EN#138690/people An older couple] looking at [/EN#138692/other a red motorcycle] .

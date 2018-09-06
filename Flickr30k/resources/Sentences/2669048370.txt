@@ -1,0 +1,5 @@
+[/EN#65204/people A girl] in [/EN#65205/clothing a blue shirt] and [/EN#65206/clothing glasses] plays [/EN#65207/instruments the clarinet] in front of [/EN#65208/other a microphone] .
+[/EN#65204/people A woman] in [/EN#65205/clothing a blue shirt] playing [/EN#65207/instruments a wind instrument] .
+[/EN#65204/people A woman] in [/EN#65205/clothing a blue shirt] is playing [/EN#65207/instruments an instrument] .
+[/EN#65204/people A young girl] playing [/EN#65207/instruments clarinet] in [/EN#65209/people a musical group] .
+[/EN#65204/people girl] in [/EN#65205/clothing blue shirt] playing [/EN#65207/instruments the clarinet]

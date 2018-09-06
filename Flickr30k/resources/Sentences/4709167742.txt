@@ -1,0 +1,5 @@
+[/EN#193642/people A man] in [/EN#193643/clothing a blue checked shirt] is walking on [/EN#193644/scene the street] with [/EN#193645/bodyparts his hand] in [/EN#193646/clothing his pocket] , and passing [/EN#193650/other an orange cone] .
+[/EN#193642/people A man] in [/EN#193643/clothing a plaid shirt] and [/EN#193648/clothing brown pants] walking around [/EN#193649/scene town] with [/EN#193645/bodyparts one hand] in [/EN#193646/clothing his pocket] .
+[/EN#193642/people A man] reaches into [/EN#193646/clothing his left pocket] as [/EN#0/notvisual he] is walking out of [/EN#193644/scene the street] .
+[/EN#193642/people This man] is walking down [/EN#193644/scene the street] with [/EN#193647/bodyparts a hand] in [/EN#193646/clothing his pant pocket] .
+[/EN#193642/people A man] in [/EN#193643/clothing a white shirt] is walking across [/EN#193644/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#23686/people A man] in [/EN#23688/clothing a blue jersey] and [/EN#23691/other orange visor] threw [/EN#23687/other a frisbee] along [/EN#23690/scene a grass hill] .
+[/EN#23686/people A man] in [/EN#23688/clothing a blue shirt] and [/EN#23695/clothing black shorts] has [/EN#23691/other an orange sun visor] on [/EN#23696/bodyparts his head] .
+[/EN#23686/people A man] with [/EN#23691/other a visor] and [/EN#23688/clothing blue top] has thrown [/EN#23687/other a Frisbee] off into [/EN#0/notvisual the distance] .
+[/EN#23686/people A man] wearing [/EN#23688/clothing a blue tank-top] is in [/EN#23693/scene the park] striking [/EN#23686/other a pose] .
+[/EN#23686/people A man] in [/EN#23691/clothing an orange hat] throwing [/EN#23687/other a Frisbee] .

@@ -1,0 +1,5 @@
+[/EN#281336/animals A black and white dog] is herding [/EN#281338/animals a group of sheep] on [/EN#281337/scene a dusty road] .
+[/EN#281336/animals A black and white dog] is watching over [/EN#281338/animals a flock of white sheep] .
+[/EN#281336/animals A wolf-like dog] herds [/EN#281338/animals a pack of white sheep] on [/EN#281337/scene a dusty farm] .
+[/EN#281336/animals A sheepdog] is rounding up [/EN#281338/animals a herd of sheep] .
+[/EN#281336/animals A dog] in near [/EN#281338/animals a herd of sheep] .

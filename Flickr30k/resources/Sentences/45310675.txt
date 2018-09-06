@@ -1,0 +1,5 @@
+[/EN#175925/people A gentleman] in [/EN#175928/clothing a green shirt] , [/EN#175929/clothing brown pants] , [/EN#175934/clothing black boots] pushing [/EN#175926/vehicles a wheelbarrow] with [/EN#175930/other his suitcase] and [/EN#175931/other some other personal belongings] on top of [/EN#0/notvisual it] down [/EN#175927/scene a bumpy rock road] .
+[/EN#175925/people A man] , dressed in [/EN#175928/clothing a green shirt] with [/EN#175929/clothing black pants] , is transporting [/EN#175930/other luggage] strapped to [/EN#175926/vehicles a wheelbarrow] , down [/EN#175927/scene a cobblestone road] .
+[/EN#175925/people Old man] using [/EN#175926/other an improvised broken wheel barrel] to transport [/EN#175931/other his tools] for [/EN#175925/other work] .
+[/EN#175925/people A man] in [/EN#175932/clothing a hat] and [/EN#175928/clothing green shirt] is pushing [/EN#175930/other luggage] on [/EN#175926/vehicles a blue cart] .
+[/EN#175925/people A woman] is pushing [/EN#175926/vehicles a cart] with [/EN#175930/other luggage] down [/EN#175927/scene a street] .

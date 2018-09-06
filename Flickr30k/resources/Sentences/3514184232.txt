@@ -1,0 +1,5 @@
+[/EN#123958/people A baseball player] is making [/EN#123960/other a play] [/EN#123963/other nearby a large sign] and [/EN#123961/scene boundary of the field] .
+[/EN#123958/people A ponytailed girl] in [/EN#123965/clothing a softball uniform] raises [/EN#123966/clothing her mitt] in [/EN#0/notvisual the air] .
+[/EN#123958/people A woman] with [/EN#123967/bodyparts long hair] is catching [/EN#123959/other a softball] in [/EN#123961/scene a softball field] .
+[/EN#123958/people A woman] playing [/EN#123959/other softball] , running to catch [/EN#123959/other the ball] .
+[/EN#123958/people a girl] catches [/EN#123959/other a baseball] .

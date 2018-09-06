@@ -1,0 +1,5 @@
+[/EN#219915/people A man] in [/EN#219916/clothing a black sweatshirt] walks [/EN#219918/animals three dogs] in front of [/EN#219917/other a mural] .
+[/EN#219915/people A man] is walking [/EN#219918/animals three small dogs] in front of [/EN#219917/other a mural painting] .
+[/EN#219915/people A man] is walking [/EN#219918/animals three small dogs] past [/EN#219917/other a whimsical mural] .
+[/EN#219915/people A man] in [/EN#219916/clothing a black sweatshirt] walks [/EN#219918/animals three small dogs] .
+[/EN#219915/people Man] is walking [/EN#219918/animals three dogs] .

@@ -1,0 +1,5 @@
+[/EN#76998/animals a brown dog] walking in [/EN#76999/scene a river] with [/EN#77000/other trees] in [/EN#0/notvisual the background]
+[/EN#76998/animals The large brown dog] is walking into [/EN#76999/scene a shallow lake] .
+[/EN#76998/animals A large sleek brown dog] is standing in [/EN#76999/scene the water] .
+[/EN#76998/animals A large brown dog] plays in [/EN#76999/scene the water] .
+[/EN#76998/animals a black dog] splashes in [/EN#76999/scene the water] .

@@ -1,0 +1,5 @@
+[/EN#86849/people An officer] stands next to [/EN#86851/vehicles a car] on [/EN#86850/scene a city street] .
+[/EN#86849/people A cop] stands in front of [/EN#86851/vehicles a car] on [/EN#86850/scene a busy street] .
+[/EN#86849/people A police officer] is lighting [/EN#86853/other a cigarette] .
+[/EN#86849/people A policeman] stands in front of [/EN#86851/vehicles an SUV] .
+[/EN#86849/people A man] walks in [/EN#86852/scene the city] .

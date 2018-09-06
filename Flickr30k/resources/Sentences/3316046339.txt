@@ -1,0 +1,5 @@
+[/EN#108865/people A person] with [/EN#108869/clothing a helmet] is jumping [/EN#108866/vehicles a bike] over [/EN#108872/other something] in [/EN#108867/scene a wooded area] .
+[/EN#108865/people The person] in [/EN#108868/clothing the blue jacket] is riding in [/EN#108867/scene the forest]
+[/EN#108865/people A man] in [/EN#108868/clothing blue] jumps [/EN#108866/vehicles his dirt bike] in [/EN#108867/scene a misty forest] .
+[/EN#108865/people Biker] jumping off [/EN#108870/scene a ramp] in [/EN#108867/scene the forest] .
+[/EN#108865/people A biker] riding in [/EN#108867/scene a forest] .

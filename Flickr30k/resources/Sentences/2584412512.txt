@@ -1,0 +1,5 @@
+[/EN#59693/animals A fluffy white and brown puppy] is playing with [/EN#59694/animals a white , curly-haired puppy] .
+[/EN#59694/animals A white dog] and [/EN#59693/animals a white and brown puppy] playing .
+[/EN#59693/animals A spotted dog] butting [/EN#59694/animals a white dog] with [/EN#59695/bodyparts his head] .
+[/EN#59696/animals Two dogs] play with [/EN#0/notvisual one another] on [/EN#59697/scene the lawn] .
+[/EN#59696/animals Two dogs] are playing together .

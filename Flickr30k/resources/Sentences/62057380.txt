@@ -1,0 +1,5 @@
+[/EN#250009/people Two young stylish people] walk enthusiastically down [/EN#250011/scene a city street] at [/EN#250013/scene night] .
+[/EN#250009/people Two young adults] walking in [/EN#250011/scene a street] towards [/EN#250015/other bright lights] .
+[/EN#250009/people A man] and [/EN#250012/people a woman] walking , [/EN#0/notvisual he] is cool [/EN#0/notvisual she] is funny .
+[/EN#250009/people Two young women] run down [/EN#250011/scene the sidewalk] at [/EN#250013/scene night] .
+[/EN#250009/people A man] and [/EN#250012/people women] walking talking [/EN#250014/other a picture] .

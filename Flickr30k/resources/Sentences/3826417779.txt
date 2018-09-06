@@ -1,0 +1,5 @@
+[/EN#144364/people A single hiker] with [/EN#144365/clothing an orange backpack] walks on [/EN#144367/scene a trail] through [/EN#144368/scene a mountainous landscape] .
+[/EN#144364/people A person] with [/EN#144365/clothing a brown backpack] overlooks [/EN#144369/scene mountainous terrain] in [/EN#0/notvisual the distance] .
+[/EN#144364/people A man] with [/EN#144371/other a walking stick] and [/EN#144365/clothing an orange backpack] , walks through [/EN#144369/scene a valley] .
+[/EN#144364/people Person] with [/EN#144365/clothing an orange backpack] watching [/EN#144369/scene the surrounding hills] .
+[/EN#144364/people A man] is on [/EN#144370/other a motorcycle] overlooking [/EN#144366/scene a canyon] .

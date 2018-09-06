@@ -1,0 +1,5 @@
+[/EN#205870/people man] wearing [/EN#205876/clothing brown pants] and [/EN#205877/clothing light blue shirt] carrying [/EN#205873/other flags] .
+[/EN#205870/people A man] holds [/EN#205875/other multiple flags] while standing in [/EN#205872/other a town square] .
+[/EN#205870/people A man] stands with [/EN#205874/other a flag] outside [/EN#205871/scene a middle eastern palace] .
+[/EN#205870/people Man] stands in [/EN#205872/other public square] displaying [/EN#205873/other flags] .
+[/EN#205870/people A young man] carries [/EN#205873/other flags] outside [/EN#205871/scene a building]

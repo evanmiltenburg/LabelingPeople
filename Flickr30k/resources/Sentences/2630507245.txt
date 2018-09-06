@@ -1,0 +1,5 @@
+[/EN#62521/animals A greyhound dog] is running through [/EN#62527/other a turn] on [/EN#62526/scene a muddy track] .
+[/EN#62521/animals The racing greyhound] is running on [/EN#62526/other the racetrack] .
+[/EN#62521/animals The dog] with [/EN#62523/other the racing number] is in [/EN#62528/other mid-jump]
+[/EN#62521/animals A fast running Greyhound] during [/EN#62525/other a race] .
+Racing [/EN#62521/animals Greyhound dog] wearing [/EN#62524/other number 8] .

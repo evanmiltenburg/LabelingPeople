@@ -1,0 +1,5 @@
+[/EN#118983/people The little girl] in [/EN#118984/clothing the red flowered dress] and [/EN#118986/clothing pink cape] is holding [/EN#118985/other a racket] .
+[/EN#118983/people A little girl] in [/EN#118984/clothing a red dress] and [/EN#118986/clothing cape] holds [/EN#118985/other a large tennis racquet] .
+[/EN#118983/people A young girl] , in [/EN#118984/clothing an orange dress] , holding [/EN#118985/other a tennis racket] .
+[/EN#118983/people A little girl] in [/EN#118984/clothing a red flowered dress] with [/EN#118985/other a tennis racket] .
+[/EN#118983/people A girl] in [/EN#118984/clothing a dress] holds [/EN#118985/other a tennis racket] .

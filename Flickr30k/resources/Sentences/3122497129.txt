@@ -1,0 +1,5 @@
+[/EN#95086/animals Two dogs] in [/EN#95088/scene the snow] are playing with [/EN#95087/clothing a red leash] .
+[/EN#95086/animals Two dogs] play with [/EN#95087/clothing a red leash] on [/EN#95088/scene the snow] .
+[/EN#95086/animals The two dogs] in [/EN#95088/scene the snow] have [/EN#95087/clothing a red leash] .
+[/EN#95086/animals Two dogs] play in [/EN#95088/scene snow] with [/EN#95087/clothing red leash] .
+[/EN#95086/animals Two dogs] fighting in [/EN#95088/scene the snow] .

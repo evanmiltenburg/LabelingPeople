@@ -1,0 +1,5 @@
+[/EN#52003/people A guy] wearing [/EN#52004/clothing a hat] and [/EN#52005/clothing sunglasses] on [/EN#52006/vehicles/scene a boat] in [/EN#52008/scene the middle of the ocean] is holding up [/EN#52007/animals a fish] .
+[/EN#52003/people Asian fisherman] holding [/EN#52007/animals a fish] up posing for [/EN#52009/other a picture] on [/EN#52006/vehicles/scene a boat] in [/EN#52008/scene the ocean] .
+[/EN#52003/people Guy] with [/EN#52005/clothing sunglasses] holding up [/EN#52007/animals a fish] on [/EN#52006/vehicles/scene a boat] in [/EN#52008/scene the ocean] .
+[/EN#52003/people A man] holds up [/EN#52007/animals a fish] [/EN#0/notvisual he] just caught .
+[/EN#52003/people A man] holding [/EN#52007/animals a fish] on [/EN#52006/vehicles/scene a boat] .

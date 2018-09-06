@@ -1,0 +1,5 @@
+[/EN#222380/people A man] walking underneath [/EN#222383/scene a bridge] glances at [/EN#0/notvisual the camera] .
+[/EN#222380/people A man] walks near [/EN#222382/scene the pillars of a bridge] on [/EN#222381/scene a sidewalk] .
+[/EN#222380/people A man] is walking and can be seen between [/EN#222385/other two pillars] .
+[/EN#222380/people A bald man] walking among [/EN#222384/people columns] on [/EN#222381/scene a sidewalk] .
+[/EN#222380/people A bald man] walking by [/EN#222382/other very large pillars] .

@@ -1,0 +1,5 @@
+[/EN#113629/people A guy] is siting on [/EN#113631/other a bench] , on [/EN#113630/scene the beach] , tying [/EN#113632/clothing his shoe] .
+[/EN#113629/people Man] sitting on [/EN#113631/other a bench] by [/EN#113630/scene the shoreline] tying [/EN#113632/clothing his shoe] .
+[/EN#113629/people A man] sits on [/EN#113631/other a bench] near [/EN#113630/scene the beach] , tying [/EN#113632/clothing his shoe] .
+[/EN#113629/people Old man] sitting down by [/EN#113630/scene the beach] .
+[/EN#113629/people A man] tying [/EN#113632/clothing his shoe] at [/EN#113630/scene a beach] .

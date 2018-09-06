@@ -1,0 +1,5 @@
+[/EN#151230/people Two men] in [/EN#151232/clothing black jackets] sit on [/EN#151234/other a white bench] at [/EN#151233/scene night] on [/EN#151231/scene a cobbled courtyard] .
+[/EN#151230/people Two men] in [/EN#151232/clothing black suits] are sitting on [/EN#151234/other white object] in [/EN#151231/scene the middle of a road] .
+[/EN#151230/people Two gentlemen] having [/EN#151235/other a conversation] in [/EN#151231/scene the middle of the street] .
+[/EN#151230/people Two men] in [/EN#151232/clothing black jackets] sitting on [/EN#151234/other object] talking .
+[/EN#151230/people Two men] sitting at [/EN#151233/scene night] .

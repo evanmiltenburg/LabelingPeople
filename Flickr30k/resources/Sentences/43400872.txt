@@ -1,0 +1,5 @@
+[/EN#163996/people A girl] in [/EN#164001/clothing a pink rocker outfit] singing with [/EN#163998/people 3 other people] playing [/EN#164003/instruments guitar] .
+[/EN#163995/people A band] with [/EN#164000/people 2 singers] and [/EN#163999/people 2 guitar players] is performing on [/EN#163997/scene a stage] .
+[/EN#163996/people A woman] in [/EN#164001/clothing pink] is singing on [/EN#163997/scene stage] next to [/EN#163998/people three guitar players] .
+[/EN#163996/people A female singer] is performing on [/EN#163997/scene stage] .
+[/EN#163995/people A band] performs on [/EN#163997/scene a stage] .

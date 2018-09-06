@@ -1,0 +1,5 @@
+[/EN#119802/people A rock climber] clings to [/EN#119805/other a steep overhanging rock] high above [/EN#119803/scene a mesa] .
+[/EN#119803/scene Scenic view] with [/EN#119807/other person dangling] precariously from [/EN#119805/other a rock formation]
+[/EN#119802/people A climber] is climbing under [/EN#119805/other an overhang] high above [/EN#0/notvisual the ground] .
+[/EN#119802/people A person] is rock climbing underneath of [/EN#119805/other a rock overhang] .
+[/EN#119802/people A person] hanging off of [/EN#119805/scene a cliff] .

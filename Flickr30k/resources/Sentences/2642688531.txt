@@ -1,0 +1,5 @@
+[/EN#63400/people The little boy] in [/EN#63402/scene the yellow tunnel] is wearing [/EN#63403/clothing a yellow shirt] .
+[/EN#63400/people A toddler] is sitting inside [/EN#63402/scene a yellow tunnel] in [/EN#63401/scene the playground] .
+[/EN#63400/people Boy] in [/EN#63403/clothing yellow shirt] sitting in [/EN#63402/scene yellow playground slide]
+[/EN#63400/people A young boy] plays in [/EN#63402/scene a yellow tunnel] on [/EN#63401/scene a playground] .
+[/EN#63400/people The young child] prepares to go down [/EN#63402/scene the slide] .

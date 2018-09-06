@@ -1,0 +1,5 @@
+[/EN#83149/vehicles A dark blue car] going through [/EN#83150/scene a muddy road] and sprinkling [/EN#83151/other some] to [/EN#0/notvisual the side] .
+[/EN#83149/vehicles A black Mitsubishi] is driving through [/EN#83152/scene a muddy puddle] and spraying [/EN#83151/scene water] .
+[/EN#83149/vehicles A blue car] splashes [/EN#83152/other mud] on [/EN#83150/scene a dirt road] while driving through [/EN#83152/scene a puddle] .
+[/EN#0/notvisual There] is [/EN#83149/vehicles a blue car] on [/EN#83150/scene a road] in [/EN#83150/scene the roads] splashing through [/EN#83152/scene a puddle] .
+[/EN#83149/vehicles A blueish green car] on [/EN#83150/scene a dirt road] splashing [/EN#83152/scene water] on [/EN#83155/scene the left] .

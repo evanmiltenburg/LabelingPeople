@@ -1,0 +1,5 @@
+[/EN#65911/people A lady] wearing [/EN#65913/clothing a black and white patterned dress] and [/EN#65916/clothing velcro shoes] with [/EN#65914/other a cane] in [/EN#65917/bodyparts her hand] sitting on [/EN#65912/other a bench] .
+[/EN#65911/people A gray-haired woman] with [/EN#65913/clothing a black and white print dress] sits on [/EN#65912/other a park bench] .
+[/EN#65911/people A lady] is sitting on [/EN#65912/other a bench] wearing [/EN#65915/clothing sunglasses] and holding [/EN#65914/other a walking cane] .
+[/EN#65911/people An elderly woman] with [/EN#65914/other a cane] wearing [/EN#65915/clothing sunglasses] sitting on [/EN#65912/other a bench] .
+[/EN#65911/people A woman] with [/EN#65914/other a cane] sits on [/EN#65912/other a bench] .

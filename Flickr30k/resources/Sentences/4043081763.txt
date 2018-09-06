@@ -1,0 +1,5 @@
+[/EN#153001/other Male conductor of a train or trolley] looking out [/EN#153003/other the window of the train or trolley] .
+[/EN#153001/people A train conductor] looks out [/EN#153003/vehicles/scene the window of his train] while smiling .
+[/EN#153001/people A Conductor] looks outside [/EN#153003/vehicles/scene the window of a motionless train] .
+[/EN#153001/people Rail conductor] in [/EN#153002/vehicles/scene an olive train] smiles for [/EN#153004/other a photo] .
+[/EN#153001/people A man] [/EN#0/notvisual who] is in [/EN#153002/vehicles/scene a train] , thinks [/EN#0/notvisual he] is [/EN#153001/people a conductor] .

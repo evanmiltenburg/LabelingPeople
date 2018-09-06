@@ -1,0 +1,5 @@
+[/EN#78610/people A man] in [/EN#78611/clothing a white jacket] is on top of [/EN#78614/scene a roof] sanding [/EN#0/notvisual it] down while standing on [/EN#78612/other a wooden ledge] .
+[/EN#78610/people A man] wearing [/EN#78613/clothing a white cap] and [/EN#78611/clothing white sweatshirt] working on [/EN#78615/scene a roof] .
+[/EN#78610/people A roofer] is patching up [/EN#78614/scene a hut] in [/EN#78616/scene a village] .
+[/EN#78610/people A man] is on top of [/EN#78615/scene a roof] fixing [/EN#0/notvisual it] .
+[/EN#78610/people Man] working on [/EN#78615/scene a straw roof]

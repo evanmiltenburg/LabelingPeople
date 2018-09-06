@@ -1,0 +1,5 @@
+[/EN#251501/people A young girl] in [/EN#251502/clothing a blue shirt] is in [/EN#251503/scene a bowling alley] , and is casting [/EN#251504/other her ball] down [/EN#251505/other a lane] .
+[/EN#251501/people A person] in [/EN#251502/clothing blue] is [/EN#251501/people the only person] currently throwing [/EN#251504/other their ball] at [/EN#251503/scene a bowling alley] .
+[/EN#251501/people A woman] with [/EN#251502/clothing a blue shirt] and [/EN#251506/bodyparts colorful hair] has just thrown [/EN#251504/other the bowling ball] .
+[/EN#251501/people A woman] in [/EN#251502/clothing a blue shirt] releasing [/EN#251504/other a bowling ball] at [/EN#251505/other a bowling lane] .
+[/EN#251501/people A girl] bowling at [/EN#251503/scene a bowling alley] .

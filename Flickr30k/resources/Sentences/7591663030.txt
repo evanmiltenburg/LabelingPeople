@@ -1,0 +1,5 @@
+[/EN#271868/people A man] on [/EN#271870/other motorcycle] is riding on [/EN#271869/scene a curved road] by [/EN#271875/scene a vehicle junk yard] with [/EN#271874/scene a fence] on [/EN#271877/scene the far side of the road] .
+[/EN#271868/people A man] riding [/EN#271870/other a motorcycle] on [/EN#271873/scene a dirt road] passing [/EN#271871/vehicles several junk or abandoned cars] on [/EN#271872/scene the side of the road] .
+[/EN#271868/people Man] riding [/EN#271870/other a motorcycle] on [/EN#271869/scene a road] with [/EN#271871/vehicles pieces of cars] on [/EN#271872/scene the side of the road] .
+[/EN#271868/people A man] on [/EN#271870/other a motorcycle] is riding [/EN#271876/other past utility poles] and [/EN#271871/vehicles old dismantled cars]
+[/EN#271868/people A guy] riding [/EN#271870/other a motorcycle] near [/EN#271871/vehicles junk cars]

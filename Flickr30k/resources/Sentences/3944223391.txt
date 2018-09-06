@@ -1,0 +1,5 @@
+[/EN#149041/people Three women] stand in [/EN#149037/scene a library] , [/EN#149038/people one woman] in [/EN#149040/clothing a suit] appears to have [/EN#149044/other a name-badge] and seems to be [/EN#149039/other providing information] .
+[/EN#149036/people Female] in [/EN#149043/clothing a maroon shirt] engaged in [/EN#149039/other conversation] with [/EN#149038/people another female] in [/EN#149040/clothing a tan blazer] .
+[/EN#149036/people A woman] speaks with [/EN#149038/people a speaker] at [/EN#149039/other a presentation] .
+[/EN#149042/people Two women] discussing [/EN#149046/other a topic] at [/EN#149037/scene the library] .
+[/EN#149038/people a woman] is selling [/EN#149048/other books] behind [/EN#149045/other a table] .

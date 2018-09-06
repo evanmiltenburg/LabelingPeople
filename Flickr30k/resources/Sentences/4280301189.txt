@@ -1,0 +1,5 @@
+[/EN#161392/people A group of people] are sitting at [/EN#161395/other a table] and eating together , [/EN#0/notvisual they] are in [/EN#161397/other a fine dining establishment] .
+[/EN#161394/people Three men] and [/EN#161393/people two women] are drinking [/EN#161398/other liquor] and eating [/EN#161396/other a meal] on [/EN#161395/other a black table] with [/EN#161399/other wooden chairs] .
+[/EN#161393/people A group of two woman] and [/EN#161394/people 3 men] sit at [/EN#161395/other a dark wooden table] eating [/EN#161396/other dinner] .
+[/EN#161392/people A group of five people] are eating [/EN#161396/other a meal] in [/EN#161400/scene a restaurant] .
+[/EN#161392/people Five people] at [/EN#161395/other a table] eating .

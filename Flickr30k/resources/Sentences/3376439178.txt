@@ -1,0 +1,5 @@
+[/EN#114049/people A skier] is jumping in [/EN#0/notvisual the air] over [/EN#114054/scene a snowfield] near [/EN#114050/scene a mountain range] .
+[/EN#114049/people A skier] flies through [/EN#0/notvisual the air] in front of [/EN#114050/scene a mountainous landscape] .
+[/EN#114049/people A skier] performs [/EN#0/notvisual a high jump] in [/EN#114054/scene a snow-covered valley] .
+[/EN#114049/people A snow skier] is taking [/EN#114051/other a huge leap] over [/EN#114052/other a snow slope] .
+[/EN#114049/people Skier] in [/EN#114053/clothing red] jumping high in [/EN#0/notvisual the air] over [/EN#114054/scene the snow] .

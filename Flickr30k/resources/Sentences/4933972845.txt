@@ -1,0 +1,5 @@
+[/EN#220105/people Two girls] are sitting on [/EN#220109/scene a dock] with [/EN#220107/vehicles/scene boats] and [/EN#220110/scene a few buildings] in [/EN#0/notvisual the background] .
+[/EN#220105/people Two people] , [/EN#220111/other one] in [/EN#220113/clothing a red shirt] , are sitting by [/EN#220106/scene the water] facing [/EN#220107/vehicles/scene some boats] .
+[/EN#220105/people Two women] sit down along [/EN#220112/scene the edge of the water] .
+[/EN#220105/people Two girls] have [/EN#220108/other a conversation] by [/EN#220106/scene the harbor] .
+[/EN#220105/people Two women] sitting down next to [/EN#220106/scene a river] .

@@ -1,0 +1,5 @@
+[/EN#110992/vehicles A red car] is parked upon [/EN#110991/scene a city street] with [/EN#110998/vehicles traffic] heading [/EN#110997/scene it 's way] .
+[/EN#110991/scene This New York street] has [/EN#110992/other a Mercedes] on [/EN#0/notvisual it] .
+[/EN#110991/scene A broad shot of a busy street] in [/EN#110996/other a lull]
+[/EN#110993/scene A typical picture of New York City] .
+[/EN#110994/vehicles Cars] drive down [/EN#110991/scene a city street] .

@@ -1,0 +1,5 @@
+[/EN#68231/people a man] wearing [/EN#68232/clothing a red hat] and [/EN#68239/clothing blue top] carries [/EN#68233/other a tray] on [/EN#68235/bodyparts his head] filled with [/EN#68233/other some sort of baked goods] .
+[/EN#68231/people A man] with [/EN#68233/other a large plate of food] on [/EN#68235/bodyparts his head] walks down [/EN#68238/scene a street] .
+[/EN#68231/people A man] wearing [/EN#68232/clothing a hat] is balancing [/EN#68233/other a tray of food] on [/EN#68235/bodyparts his head] .
+[/EN#68231/people A man] is balancing [/EN#68233/other a plate of food] on [/EN#68235/bodyparts his head] .
+[/EN#68236/other Wow] , found [/EN#68237/scene a new way] to serve [/EN#68233/other food] .

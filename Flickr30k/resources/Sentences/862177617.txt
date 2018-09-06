@@ -1,0 +1,5 @@
+[/EN#282140/people A person] with [/EN#282143/bodyparts blue hair] , [/EN#282142/clothing a baseball cap] , and [/EN#282149/other a hood] on [/EN#282146/scene stands outdoors] in [/EN#282145/people a crowd] .
+[/EN#282140/people Man] with [/EN#282144/clothing brown coat] and [/EN#282147/clothing sunglasses] wears [/EN#282143/clothing a blue wig] and [/EN#282142/clothing ball cap] .
+[/EN#282140/people A girl] is wearing [/EN#282143/clothing a blue wig] under [/EN#282144/clothing a brown hooded jacket] .
+[/EN#282140/people One person] in [/EN#282145/people a crowd of people] , wearing [/EN#282143/clothing a blue wig]
+[/EN#282140/people A man] wears [/EN#282143/clothing an interesting blue wig] in [/EN#282146/scene public]

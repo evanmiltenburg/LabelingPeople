@@ -1,0 +1,5 @@
+[/EN#161528/people A man] in [/EN#161534/clothing a two-toned gray jacket] and [/EN#161536/clothing blue jeans] is touching [/EN#161537/other his skis] against [/EN#161529/scene the top corner of a building] in [/EN#161533/other a midair maneuver] .
+[/EN#161528/people A man] using [/EN#161532/other ski gear] is jumping through [/EN#0/notvisual the air] near [/EN#161529/scene a brick building] and [/EN#161535/other blue guardrails] .
+[/EN#161528/people A person] on [/EN#161532/other skis] is flying through [/EN#0/notvisual the air] near [/EN#161530/scene a brick building] surrounded by [/EN#161539/scene snow] .
+[/EN#161528/people Male skier] launching off [/EN#161529/scene the top of a snow covered roof] , [/EN#161538/other one story] up .
+[/EN#161528/people A person] on [/EN#161532/other skis] is in [/EN#161531/scene midair] near [/EN#161530/scene a brick building] .

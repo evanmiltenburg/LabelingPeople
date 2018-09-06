@@ -1,0 +1,5 @@
+[/EN#13036/people A climber] is standing on [/EN#13038/bodyparts the rock face] next to [/EN#13037/other the pink rope] .
+[/EN#13036/people A man] rock climbing in [/EN#13040/scene the forest] surrounded by [/EN#13041/other light] .
+[/EN#13036/people A man] climbing [/EN#13039/scene a cliff] with [/EN#13037/other a rope] .
+[/EN#13036/people A man] climbs [/EN#13039/other steep rocks] .
+[/EN#13036/people A boy] climbing [/EN#13038/bodyparts a rock face]

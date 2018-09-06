@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#49125/people an Asian woman] in [/EN#49126/clothing a black suit] [/EN#0/notvisual who] is standing around and waiting at [/EN#49129/scene an airport] .
+[/EN#49125/scene A woman of Asian looking descent] in [/EN#49126/clothing a black outfit] standing in [/EN#49130/scene the airport baggage area] .
+[/EN#49127/people People] are waiting with [/EN#49128/other their luggage] at [/EN#49131/other an airport check-in] .
+[/EN#49127/people People] in [/EN#49129/scene a airport] with [/EN#49128/other luggage] waiting on [/EN#49133/other something] .
+[/EN#49127/people A bunch of travelers] stand around .

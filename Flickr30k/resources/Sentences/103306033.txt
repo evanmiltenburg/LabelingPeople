@@ -1,0 +1,5 @@
+[/EN#945/people A woman] wearing [/EN#946/clothing a brown dress] with [/EN#950/clothing a matching turban] is pushing [/EN#947/people a toddler] through [/EN#948/scene a park] in [/EN#949/other his stroller] .
+[/EN#945/people Woman] dressed in [/EN#946/clothing brown African attire] pushing [/EN#947/people a toddler] in [/EN#949/other a stroller] .
+[/EN#945/people A woman] is walking [/EN#947/people her baby] with [/EN#949/other a stroller] at [/EN#948/scene the local park] .
+[/EN#945/people The lady] is pushing [/EN#947/people a child] in [/EN#949/other a stroller] .
+[/EN#945/people A woman] pushes [/EN#947/people her baby] in [/EN#949/other a stroller] .

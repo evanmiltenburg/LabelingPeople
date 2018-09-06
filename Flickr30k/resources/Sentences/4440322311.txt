@@ -1,0 +1,5 @@
+[/EN#168258/people A woman] dressed in [/EN#168260/clothing a red coat] is walking down [/EN#168259/scene a rainy street] .
+[/EN#168258/people A young woman] walking down [/EN#168259/scene the rainy streets] in [/EN#168260/clothing a red parka] .
+[/EN#168258/people A woman] in [/EN#168260/clothing a red coat] is walking down [/EN#168259/scene a street] in [/EN#168261/other the rain] .
+[/EN#168258/people A woman] in [/EN#168260/clothing a red jacket] walks down [/EN#168259/scene the street] in [/EN#168261/other the rain] .
+[/EN#168258/people Woman] in [/EN#168260/clothing a red coat] walks in [/EN#168261/other the rain] .

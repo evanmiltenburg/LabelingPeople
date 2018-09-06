@@ -1,0 +1,5 @@
+[/EN#253/people A man] with [/EN#254/clothing a baseball cap] and [/EN#258/clothing black jacket] stands in [/EN#255/scene a bathroom] while holding [/EN#256/other a coffee mug] .
+[/EN#253/people A man] is wearing [/EN#254/clothing a ball cap] and holding [/EN#256/other a coffee cup] between to [/EN#259/other urinals] .
+[/EN#253/people a man] is posing next to [/EN#257/other a urinal] with [/EN#256/other a cup of coffee] .
+[/EN#253/people A man] holds [/EN#256/other a coffee cup] while in [/EN#255/scene the bathroom] .
+[/EN#253/people A man] standing at [/EN#257/other a urinal] with [/EN#256/other a coffee cup] .

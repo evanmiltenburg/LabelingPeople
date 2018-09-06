@@ -1,0 +1,5 @@
+[/EN#89960/people A woman] on [/EN#89961/clothing a harness] hanging from [/EN#89962/other a rope] waves at [/EN#0/notvisual the camera] .
+[/EN#89960/people A person] waving is hanging off [/EN#89962/other a zip line] .
+[/EN#89960/people A woman] harnessed to [/EN#89962/other a cable] by [/EN#89963/other a pulley] .
+[/EN#89960/people A woman] rapels through [/EN#89964/scene barren treetops] .
+[/EN#89960/people A woman] waves as [/EN#0/notvisual she] rides [/EN#89963/other a zip line] .

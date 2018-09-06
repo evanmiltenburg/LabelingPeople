@@ -1,0 +1,5 @@
+[/EN#275923/people A woman] with [/EN#275929/bodyparts a heart tattoo] on [/EN#275930/animals her calf] is riding [/EN#275925/vehicles her bike] past [/EN#275924/scene a cornfield] .
+[/EN#275923/people A woman] in [/EN#275928/other full bike gear] pedals [/EN#275925/vehicles her road bike] on [/EN#275927/scene a street] near [/EN#275924/scene a field] .
+[/EN#275923/people A woman cyclist] coasts along as [/EN#0/notvisual she] passes [/EN#275924/other a field of corn] .
+[/EN#275923/people A woman] is riding [/EN#275925/vehicles her bike] past [/EN#275924/scene the field] .
+[/EN#275923/people A woman] is riding [/EN#275925/vehicles a green bike] in [/EN#275926/other a race] .

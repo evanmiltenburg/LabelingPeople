@@ -1,0 +1,5 @@
+[/EN#247614/people A man] in [/EN#247625/clothing a black shirt] and [/EN#247621/people a woman] in [/EN#247626/clothing a green shirt] at [/EN#247617/other a marketplace] ordering [/EN#247622/other food] from [/EN#247620/other a counter] .
+[/EN#247616/people People] are ordering [/EN#247627/animals fish] at [/EN#0/notvisual what] looks to be [/EN#247628/scene an Asian seafood market] .
+[/EN#247616/people Two customers] place [/EN#247624/other there order] at [/EN#247618/other a food-service business] .
+[/EN#247614/people Customers] are ordering [/EN#247618/other food] at [/EN#247617/other a cafe] .
+[/EN#247616/people two people] are waiting for [/EN#247623/other their food]

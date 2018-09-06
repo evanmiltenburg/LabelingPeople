@@ -1,0 +1,5 @@
+[/EN#157586/people A man] holding [/EN#157588/other a yellow balloon] sitting on [/EN#157589/other a bench] next to [/EN#157592/people a woman] with [/EN#157591/people a little girl] in front of [/EN#0/notvisual her] and [/EN#157593/people a little boy] in [/EN#157594/clothing green rain boots] walking in front of [/EN#0/notvisual them] .
+[/EN#157587/people Two kids] play on [/EN#157595/scene the road] while [/EN#157585/people their parents] wait and sit on [/EN#157589/other the bench] .
+[/EN#157586/people A man] and [/EN#157592/people woman] watching [/EN#157587/people two kids] while [/EN#157586/people the man] holds [/EN#157588/other a balloon] .
+[/EN#157586/people A man] with [/EN#157588/other a yellow balloon] with [/EN#157590/people his family] .
+[/EN#157585/people A couple] is sitting on [/EN#157589/other a bench] .

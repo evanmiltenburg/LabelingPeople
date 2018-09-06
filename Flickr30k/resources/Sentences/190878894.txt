@@ -1,0 +1,5 @@
+[/EN#22939/people A girl] in [/EN#22940/clothing a purple shirt] sits between [/EN#22941/people two girls] in [/EN#22942/clothing black shirts] in [/EN#22944/scene a theater] .
+[/EN#22943/people Three girlfriends] are sitting in [/EN#22944/scene a darkened theater] .
+[/EN#22943/people Three women] are sitting down in [/EN#22944/scene an amphitheater] .
+[/EN#22943/people 3 women] are sitting down posing for [/EN#22945/other a picture] .
+[/EN#22943/people Three young women] smiling for [/EN#22946/other a photo] .

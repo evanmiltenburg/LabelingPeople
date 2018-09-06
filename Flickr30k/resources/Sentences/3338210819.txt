@@ -1,0 +1,5 @@
+[/EN#110678/people A man] wit [/EN#110679/other a fishing rod] fishing on [/EN#110682/scene the beach] .
+[/EN#110678/people A man] is fishing on [/EN#110682/scene an inlet] in [/EN#110680/scene the ocean] .
+[/EN#110678/people A man] is fishing in [/EN#110681/scene a large body of water] .
+[/EN#110678/people A man] surf [/EN#110685/animals fishes] with [/EN#110679/other a rod] and [/EN#110679/other reel] .
+[/EN#110678/people A silhouette of a man] fishing .

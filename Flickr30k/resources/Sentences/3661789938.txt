@@ -1,0 +1,5 @@
+[/EN#134946/people A female] wearing [/EN#134951/clothing glasses] is seen from [/EN#134946/scene a three-quarter rear view] , as [/EN#0/notvisual she] plays [/EN#134947/instruments a horn] in [/EN#134945/people a musical group] .
+[/EN#134946/people A person] in [/EN#134950/clothing a black tank top] is playing [/EN#134947/instruments the french horn] with [/EN#134948/people other people] .
+[/EN#134945/people A group of young people] are playing [/EN#134949/instruments their musical instruments] together .
+[/EN#134946/people A woman] plays [/EN#134947/instruments her wind instrument] along with [/EN#134948/people the rest of the band] .
+[/EN#134945/people A band] playing [/EN#134952/other some music] with [/EN#134949/instruments their instruments] .

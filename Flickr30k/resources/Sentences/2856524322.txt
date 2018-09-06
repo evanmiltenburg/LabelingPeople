@@ -1,0 +1,5 @@
+[/EN#77065/people A man] on [/EN#77066/vehicles a bicycle] jumping off [/EN#77067/scene a dirt ramp] with [/EN#77071/other one foot] on [/EN#0/notvisual the ground]
+[/EN#77065/people A young man] in [/EN#77072/clothing tan shorts] and [/EN#77073/clothing green shirt] is falling off [/EN#77066/vehicles his bicycle] .
+[/EN#77065/people A man] riding [/EN#77066/vehicles a bicycle] performs [/EN#0/notvisual a trick] above [/EN#77067/other a dirt mound] .
+[/EN#77065/people Man] doing [/EN#0/notvisual a jumping bike trick] on [/EN#77067/other dirt mound] at [/EN#77070/scene night] .
+[/EN#77065/people A man] on [/EN#77066/vehicles a bmx] .

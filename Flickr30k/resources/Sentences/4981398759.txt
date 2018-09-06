@@ -1,0 +1,5 @@
+[/EN#225801/people A blond woman] in [/EN#225804/clothing a dark beige scarf] and [/EN#225805/clothing jean jacket] watches [/EN#225802/people a man] in [/EN#225803/clothing a black shirt] cook [/EN#225806/other some food] .
+[/EN#225801/people A woman] in [/EN#225805/clothing a jacket] and [/EN#225804/clothing scarf] looking [/EN#225807/other a table] that [/EN#225802/people a man] in [/EN#225803/clothing a black shirt] is cooking [/EN#225806/other something] on .
+[/EN#225802/people A man] is cooking [/EN#225806/other outside food] with [/EN#225801/people a blond woman] watching .
+[/EN#225801/people The woman] with [/EN#225804/clothing the scarf] is watching [/EN#225802/people the man cook] .
+[/EN#225801/people A woman] is shopping on [/EN#225808/scene the open market] .

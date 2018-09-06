@@ -1,0 +1,5 @@
+[/EN#54702/animals A beige dog] with [/EN#54704/bodyparts his tongue] out is leaping in [/EN#0/notvisual the air] above [/EN#54703/scene the grass] .
+[/EN#54702/animals a tan dog] running through [/EN#54703/scene a grassy field] with [/EN#54706/other trees] in [/EN#0/notvisual the background]
+[/EN#54702/animals A big tan dog] runs through [/EN#54703/scene a grass field] with [/EN#54704/bodyparts his tongue] hanging .
+[/EN#54702/animals A brown dog] runs through [/EN#54703/scene a field] .
+[/EN#54702/animals Large dog] running in [/EN#54703/scene the field] .

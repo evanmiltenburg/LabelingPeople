@@ -1,0 +1,5 @@
+[/EN#263118/people Someone] skiing in [/EN#263123/other the woods] while wearing [/EN#263124/clothing a blue and red snowsuit] .
+[/EN#263118/people An orange-clad downhill skier] is in [/EN#263121/scene midair] on [/EN#0/notvisual a jump] .
+[/EN#263118/people Skier] in [/EN#263121/scene midair] with [/EN#263122/scene forest] in [/EN#0/notvisual background] .
+[/EN#263118/people Snow skier] flies high through [/EN#0/notvisual the air] .
+[/EN#263118/people A person] is skiing in [/EN#263120/other a race] .

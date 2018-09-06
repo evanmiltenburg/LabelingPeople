@@ -1,0 +1,5 @@
+[/EN#115090/people A young boy] does skateboarding [/EN#0/notvisual tricks] down [/EN#115092/other metal stairs] .
+[/EN#115090/people A man] is skateboarding down [/EN#115091/other a railing] on [/EN#115092/other some stairs] .
+[/EN#115090/people A boy] skateboards down [/EN#115091/other the metal handrail] at [/EN#115095/scene night] .
+[/EN#115090/people A boy] on [/EN#115093/other a skateboard] grinding down [/EN#115091/other a handrail] .
+[/EN#115090/people A skateboarder] slides down [/EN#115091/other a metal railing] .

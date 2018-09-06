@@ -1,0 +1,5 @@
+[/EN#75013/people An older gentleman] rides [/EN#75014/vehicles his bike] along [/EN#75018/scene the side of a road] in [/EN#75019/scene a rural area] .
+[/EN#75013/people A man] in [/EN#75015/clothing a dress suit] is riding [/EN#75014/vehicles a bike] down [/EN#75016/scene the paved road] .
+[/EN#75013/people A man] on [/EN#75014/vehicles a bike] is riding along [/EN#75016/scene the side of a country road]
+[/EN#75013/people Man] riding [/EN#75014/vehicles a bicycle] down [/EN#75016/scene a road] with [/EN#75017/other clouds] overhead .
+[/EN#75013/people An old man] rides [/EN#75014/vehicles a bicycle] on [/EN#75016/scene a country road] .

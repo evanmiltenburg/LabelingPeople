@@ -1,0 +1,5 @@
+[/EN#37309/people A young boy] in [/EN#37311/clothing pajamas] tosses [/EN#37310/other a red ball] in [/EN#0/notvisual the air] .
+[/EN#37309/people A young boy] tosses [/EN#37310/other his ball] in [/EN#37313/scene the air outside] .
+[/EN#37309/people Little boy] in [/EN#37311/clothing pajamas] playing with [/EN#37310/other a red ball] .
+[/EN#37309/people A child] in [/EN#37311/clothing pajamas] playing with [/EN#37310/other a ball] .
+[/EN#37309/people A child] throwing [/EN#37310/other a red ball] in [/EN#0/notvisual the air]

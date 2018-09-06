@@ -1,0 +1,5 @@
+[/EN#209753/people A man] in [/EN#209759/clothing a dark green shirt] is [/EN#209758/other splitting wood] next to [/EN#209755/other a tree] .
+[/EN#209753/people An older man] chops [/EN#209756/other wood] beside [/EN#209755/other a large tree] in [/EN#209760/scene a field] .
+[/EN#209753/people A man] chops [/EN#209756/other wood] near [/EN#209755/other a large tree trunk] .
+[/EN#209753/other An older gentleman chops wood] by [/EN#209755/other a tree] .
+[/EN#209753/people A man] is chopping [/EN#209753/other wood] with [/EN#209757/other an ax] .

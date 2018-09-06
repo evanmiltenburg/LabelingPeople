@@ -1,0 +1,5 @@
+[/EN#119551/clothing Brown] and [/EN#119545/animals white dog] is trotting across [/EN#119548/scene dirt] with [/EN#119550/other trees] in [/EN#0/notvisual the background] .
+[/EN#119545/animals A dog] with [/EN#119555/bodyparts floppy ears] walking towards [/EN#0/notvisual the camera] in [/EN#119550/other the woods] .
+[/EN#119545/animals A shaggy dog] walks on [/EN#119548/scene a dirt road] in [/EN#119547/scene a forest] in [/EN#119554/other winter] .
+[/EN#119545/animals A brown and white dog] is walking on [/EN#119548/scene a woodland path] .
+[/EN#0/notvisual There] is [/EN#119545/animals a brown and white dog] running over [/EN#119548/scene dirt] .

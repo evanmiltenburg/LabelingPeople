@@ -1,0 +1,5 @@
+[/EN#194106/people A child] riding [/EN#194107/vehicles a bike] in [/EN#194111/other a fenced] in [/EN#194109/scene circular area] in front of [/EN#194108/scene some water]
+[/EN#194106/people A child] riding [/EN#194107/vehicles a bike] in [/EN#194109/scene an area] with [/EN#194108/scene an overview of a body of water] .
+[/EN#194106/people Boy] on [/EN#194107/vehicles bicycle] rides around [/EN#194112/other an outlook] [/EN#0/notvisual that] overlooks [/EN#194108/scene the ocean] .
+[/EN#194106/people A boy] rides [/EN#194107/vehicles a bike] overlooking [/EN#194108/scene a large body of water] .
+[/EN#194106/people A child] riding [/EN#194107/vehicles a bike] in [/EN#194110/other a circle] by [/EN#194108/scene a body of water] .

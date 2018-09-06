@@ -1,0 +1,5 @@
+[/EN#62714/animals The small dog] is wearing [/EN#62715/clothing a red collar] and sits in [/EN#62717/other the sand] behind [/EN#62716/other a stone object] .
+[/EN#62714/animals A small dog] wearing [/EN#62715/clothing a collar] sits next to [/EN#62716/other a concrete bench] .
+[/EN#62714/animals A tan dog] sits in [/EN#62717/other the sand] by [/EN#62718/scene a beach] looking sad .
+[/EN#62714/animals A brown dog] next to [/EN#62716/other a stone bench] .
+[/EN#62714/animals a small dog] sits under [/EN#62716/other a bench] .

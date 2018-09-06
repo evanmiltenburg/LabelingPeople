@@ -1,0 +1,5 @@
+[/EN#118704/people A man] with [/EN#118709/clothing a hat] is standing on [/EN#118705/other a high rock] with [/EN#118706/scene a cloud-covered sky] in [/EN#0/notvisual the background] .
+[/EN#118704/people A male hiker] is standing on top of [/EN#118705/other a very large rock] and is taking [/EN#118708/other pictures] .
+[/EN#118704/people A man] partially silhouetted on top of [/EN#118705/other a large rock] .
+[/EN#118704/people A person] standing [/EN#118705/other a rocky ridge] .
+[/EN#118704/people A man] on [/EN#118707/scene a rocky peak] .

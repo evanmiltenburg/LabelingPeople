@@ -1,0 +1,5 @@
+[/EN#63084/people A young child] sits on [/EN#63085/other some pillows] with [/EN#63086/other a green tray of chopped-up food] in front of [/EN#0/notvisual him] .
+[/EN#63084/people A blond baby] sitting in [/EN#63085/other a baby chair] [/EN#63088/scene outside] eats food off of [/EN#63086/other a light green food tray] .
+[/EN#63084/people A toddler] is enjoying [/EN#63086/other a meal] on [/EN#63085/other his highchair] while being outside in [/EN#0/notvisual the fresh air] .
+[/EN#63084/people Baby] not wearing [/EN#63091/clothing any clothing] eating [/EN#63086/other a meal] on [/EN#63086/scene a green tray outside] .
+[/EN#63084/people A baby] sitting outside in [/EN#63085/other a highchair] eating .

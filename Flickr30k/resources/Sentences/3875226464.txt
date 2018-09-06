@@ -1,0 +1,5 @@
+[/EN#146605/people A man] and [/EN#146606/people a woman] are having [/EN#146608/other a conversation] , while [/EN#146605/people the man] drinks [/EN#146607/other a beer] .
+[/EN#146605/people A man] with [/EN#146607/other a beer] in [/EN#146613/bodyparts his hand] listens to [/EN#146606/people a woman] talk .
+[/EN#146605/people A man] holding [/EN#146607/other a beer] has [/EN#146608/other a conversation] with [/EN#146606/people a woman] .
+[/EN#146605/people A man] drinks [/EN#146607/other a beer] while conversing with [/EN#146606/people a woman] .
+[/EN#146610/people Two people] talking , while [/EN#146605/people the man] has [/EN#146607/other a beer] .

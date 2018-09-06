@@ -1,0 +1,5 @@
+[/EN#231784/people The man] on [/EN#0/notvisual the ground] in [/EN#231787/clothing the blue , white , and red jacket] is going [/EN#231793/other something] to [/EN#231786/vehicles the bike] while [/EN#231783/people the other man] standing up in [/EN#231792/clothing the red , white , and blue outfit] holds [/EN#0/notvisual it] up .
+[/EN#231784/people A man] in [/EN#231787/clothing a blue shirt] and [/EN#231784/people a man] helps [/EN#231783/people the cyclist] while [/EN#231791/people the man] in [/EN#231788/clothing the gray jacket] watches .
+[/EN#231783/people A cyclist] looking on while [/EN#231784/people a team mechanic] works on [/EN#231786/vehicles his bike] .
+[/EN#231784/people A man] is fixing [/EN#231786/vehicles a bicycle] for [/EN#231783/people another man] in [/EN#231794/scene the snow] .
+[/EN#231784/people A man] having [/EN#231786/vehicles his bike] fixed .

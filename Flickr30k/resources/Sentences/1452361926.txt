@@ -1,0 +1,5 @@
+[/EN#13376/people A boy] sits in [/EN#13378/vehicles a toy car] while drinking from [/EN#13377/other his sippy cup] .
+[/EN#13376/people The child] sits in [/EN#13378/vehicles a toy car] and [/EN#13377/other drinks] from [/EN#13377/other a sippy cup] .
+[/EN#13376/people A toddler] in [/EN#13378/vehicles a red toy car] drinks from [/EN#13377/other a juice cup]
+[/EN#13376/people The boy] sits in [/EN#13378/vehicles his toy car] sipping from [/EN#13377/other a cup] .
+[/EN#13376/people A toddler] drinking from [/EN#13377/other a cup] in [/EN#13378/vehicles a toy car] .

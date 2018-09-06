@@ -1,0 +1,5 @@
+[/EN#91521/people A bus driver] holds [/EN#91528/bodyparts his hand] up to [/EN#91529/bodyparts his face] while driving on [/EN#91525/scene a major road] in [/EN#91527/scene the evening] .
+[/EN#91521/people A man] driving [/EN#91522/vehicles/scene a yellow train] next to [/EN#91524/scene a highway] talks on [/EN#91523/other his cellphone] .
+[/EN#91521/people A bus driver] talking on [/EN#91523/other a cellphone] while driving [/EN#91522/vehicles/scene the bus] .
+[/EN#91522/vehicles/scene A public transit train] runs through [/EN#91526/scene a city] .
+[/EN#91521/people A man] is driving [/EN#91522/vehicles/scene a train] .

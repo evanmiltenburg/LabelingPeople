@@ -1,0 +1,5 @@
+[/EN#75977/animals A brown dog] jumps over [/EN#75977/other colorful poles] and [/EN#75982/other numbered cones] .
+[/EN#75977/animals A large tan dog] is jumping over [/EN#75980/other hurdles] on [/EN#75983/other a course] .
+[/EN#75977/animals A tan dog] jumps over [/EN#75981/scene a purple and green gate] .
+[/EN#75977/animals A dog] jumping over [/EN#75981/other an obstacle hurdle] .
+[/EN#75977/animals A tan dog] jumping over [/EN#75978/other an obstacle] .

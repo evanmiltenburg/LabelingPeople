@@ -1,0 +1,5 @@
+[/EN#132946/animals A large brown dog] relaxes in [/EN#132948/scene a green , grassy field] while [/EN#132949/animals a smaller light brown dog] walks on .
+[/EN#132946/animals a large brown dog] sits next to [/EN#132949/animals a small white dog] in [/EN#132948/scene a field of long grass] .
+[/EN#132946/animals A large dog] lying in [/EN#132948/scene the grass] with [/EN#132949/animals a smaller dog] next to [/EN#0/notvisual him] .
+[/EN#132947/animals Two dogs] are sitting together in [/EN#132948/scene a wheat field] .
+[/EN#132947/animals Two dogs] laying together in [/EN#132948/scene grass]

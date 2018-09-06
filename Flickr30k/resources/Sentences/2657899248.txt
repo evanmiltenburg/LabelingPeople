@@ -1,0 +1,5 @@
+[/EN#64471/people A man] in [/EN#64479/clothing a yellow shirt] and [/EN#64472/people a man] in [/EN#64481/other a pink shirt crouch] down in [/EN#64477/scene the middle of a crowded street] .
+[/EN#64472/people A man] in [/EN#64481/clothing a red shirt] and [/EN#64471/people a man] in [/EN#64479/clothing a yellow shirt] are crouching in [/EN#64480/people a crowd of people] .
+[/EN#64474/people Individuals] in [/EN#64477/scene a crowded pedestrian area] enjoy watching [/EN#64478/other activities] .
+[/EN#64473/people The teenagers] in [/EN#64477/scene a crowded area] playing with [/EN#64483/other toys] .
+[/EN#64473/people people] staring at [/EN#64478/other something] in [/EN#64475/people large crowd]

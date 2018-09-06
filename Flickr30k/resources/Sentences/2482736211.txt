@@ -1,0 +1,5 @@
+[/EN#52757/people A man] in [/EN#52764/clothing a green shirt] standing on [/EN#52762/scene stage] playing [/EN#52759/instruments a guitar] with [/EN#52763/people two woman] singing and playing [/EN#52761/instruments instruments] beside [/EN#0/notvisual him] .
+[/EN#52757/people A man] in [/EN#52764/other a green polo] plays [/EN#52759/instruments guitar] in front of [/EN#52766/other a window] .
+[/EN#52756/people A small band] performs inside of [/EN#52758/scene a bar] .
+[/EN#52756/people Small band] playing at [/EN#52760/scene front of pub] .
+[/EN#52756/people A band] plays in [/EN#52758/scene a bar] setting

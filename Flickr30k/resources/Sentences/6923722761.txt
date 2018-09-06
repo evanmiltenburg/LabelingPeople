@@ -1,0 +1,5 @@
+[/EN#261514/people The young man] in [/EN#261518/clothing the plaid shirt] is sitting on [/EN#261515/other a chair] [/EN#0/notvisual that] is out in [/EN#261521/scene the yard] .
+[/EN#261514/people A man] relaxes in [/EN#261515/other a recliner] outside while holding [/EN#261515/other a croquet mallet] in [/EN#261522/bodyparts one hand] .
+[/EN#261514/people A man] with [/EN#261519/clothing a purple patterned shirt] and [/EN#261520/clothing jeans] is sitting on [/EN#261515/other a brown recliner] .
+[/EN#261514/people A man] is sitting outside in [/EN#261515/other a brown fabric chair] .
+[/EN#261514/people A man] is sitting on [/EN#261515/scene a chair outside] .

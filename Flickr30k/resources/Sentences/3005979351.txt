@@ -1,0 +1,5 @@
+[/EN#86893/people The woman] in [/EN#86895/clothing the dress] is playing [/EN#86894/instruments guitar] and performing on [/EN#86896/scene stage] .
+[/EN#86893/people A woman] is playing [/EN#86894/instruments a guitar] on [/EN#86897/scene stage] with [/EN#0/notvisual a green background] .
+[/EN#86893/people A woman] in [/EN#86895/clothing a dress] playing [/EN#86894/instruments her acoustic guitar] .
+[/EN#86893/people a woman] in [/EN#86895/clothing a dress] playing [/EN#86894/instruments a brown guitar] .
+[/EN#86893/people A woman] is playing [/EN#86894/instruments guitar] on [/EN#86896/scene stage] .

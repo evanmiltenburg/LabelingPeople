@@ -1,0 +1,5 @@
+[/EN#272868/people A woman] wearing [/EN#272871/clothing an orange dress] makes [/EN#272874/bodyparts a face] while riding above [/EN#272870/scene the fair] .
+[/EN#272868/people The woman] is wearing [/EN#272871/clothing an orange dress] riding on [/EN#272872/other the ferris wheel] .
+[/EN#272868/people A lady] in [/EN#272871/clothing an orange dress] rides [/EN#272872/other a ride] at [/EN#272870/scene the fair] .
+[/EN#272868/people A woman] in [/EN#272871/clothing an orange dress] riding [/EN#272869/other a carnival ride] .
+[/EN#272868/people A woman] sits alone at [/EN#272869/other a carnival] in [/EN#272873/scene a lift] .

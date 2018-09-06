@@ -1,0 +1,5 @@
+[/EN#71254/animals The black dogs] are running in [/EN#71255/scene a grassy field]
+[/EN#71254/animals Five black dogs] running across [/EN#71255/scene the grass] .
+[/EN#71254/animals A pack of black dogs] running in [/EN#71255/scene grass] .
+[/EN#71254/animals Many black dogs] run in [/EN#71255/scene a grassy area] .
+[/EN#71254/animals Five black dogs] run in [/EN#71255/scene a field] .

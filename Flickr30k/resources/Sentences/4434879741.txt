@@ -1,0 +1,5 @@
+[/EN#167759/people A man] shovels [/EN#167761/scene snow] off of [/EN#167760/scene a sidewalk] while [/EN#167762/people a child] in [/EN#167764/clothing a red parka] walks by .
+[/EN#167759/people A man] in [/EN#167765/clothing a sweatshirt] is shoveling [/EN#167761/scene snow] off [/EN#167760/scene a sidewalk] .
+[/EN#167759/people A man] shoveling [/EN#167761/scene snow] off [/EN#167760/scene the sidewalk] in [/EN#167763/scene the city] .
+[/EN#167759/people A man] shovels [/EN#167761/scene snow] off of [/EN#167760/scene the sidewalk] .
+[/EN#167759/people A man] shoveling [/EN#167760/scene a busy city sidewalk] .

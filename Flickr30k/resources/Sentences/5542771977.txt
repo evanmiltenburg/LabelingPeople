@@ -1,0 +1,5 @@
+[/EN#238553/people A young man] eats sitting at [/EN#238558/other a table] in front of [/EN#238560/other an open air eatery] in [/EN#238561/scene an urban setting] , while [/EN#238554/people the vendor] stands inside , and [/EN#238563/other others] walk by .
+[/EN#238553/people A man] eats [/EN#238559/other food] on [/EN#238558/other a table] in front of [/EN#238555/scene a small food shop] on [/EN#238556/scene the street] while [/EN#238554/people a passerby] walks by .
+[/EN#238553/people An oriental man] eats [/EN#238559/other his food] outside of [/EN#238555/scene a shop] while [/EN#238564/people two people] walk by .
+[/EN#238553/people A man] eats [/EN#238559/other food] in front of [/EN#238562/scene a street-side restaurant] .
+[/EN#238553/people a Chinese male] is eating [/EN#238559/other food] on [/EN#238556/scene a sidewalk outside] .

@@ -1,0 +1,5 @@
+[/EN#197694/people A woman] wearing [/EN#197698/clothing a black and white tank top] and [/EN#197699/clothing blue jeans] riding [/EN#197695/vehicles a bike] on [/EN#197696/scene the street] .
+[/EN#197694/people A woman] rides [/EN#197695/vehicles a bike] behind [/EN#197700/other a safety barrier] to [/EN#197696/scene a busy street] .
+[/EN#197694/people A woman] in [/EN#197697/clothing a tank top and jeans] rides [/EN#0/notvisual her] [/EN#197695/vehicles bike] along [/EN#197696/scene a road] .
+[/EN#197694/people A woman] in [/EN#197697/clothing a tank top and jeans] is riding [/EN#197695/vehicles her bicycle] .
+[/EN#197694/people Woman] riding [/EN#197695/vehicles her bike] next to [/EN#197696/scene a busy street] .

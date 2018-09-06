@@ -1,0 +1,5 @@
+At [/EN#212901/scene the corner of an intersection] , [/EN#212897/vehicles a black vehicle] waits as [/EN#212895/people a woman] in [/EN#212900/clothing black] holding [/EN#212896/clothing a bag] is crossing [/EN#212898/scene the street] .
+[/EN#212895/people A person] in [/EN#212900/clothing dark clothes] and carrying [/EN#212896/clothing a bag] is crossing [/EN#212899/scene the street] .
+[/EN#212895/people A man] dressed in [/EN#212900/clothing black] walks alone through [/EN#212898/scene an empty crosswalk] .
+[/EN#212895/people Women] crossing [/EN#212898/scene the street] in front of [/EN#212897/vehicles a black car] .
+[/EN#212895/people A person] is crossing [/EN#212899/scene the street] at [/EN#212898/scene a crosswalk] .

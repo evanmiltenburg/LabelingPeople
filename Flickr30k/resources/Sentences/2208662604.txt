@@ -1,0 +1,5 @@
+[/EN#34247/people A man] wearing [/EN#34252/clothing jeans] and [/EN#34251/clothing boots] is jumping into [/EN#0/notvisual the air] with [/EN#34250/scene a white sandy hill] below [/EN#0/notvisual him] , and [/EN#34253/scene a blue cloudless sky] behind [/EN#0/notvisual him] .
+[/EN#34247/people A man] in [/EN#34248/clothing a long-sleeved gray shirt] and [/EN#34252/clothing jeans] leaps from [/EN#34249/other a sandy hillside] .
+[/EN#34247/people A man] in [/EN#34248/clothing a gray shirt] jumps over [/EN#34249/other the top of a sand dune] in [/EN#34255/scene the desert] .
+[/EN#34247/people A man] in [/EN#34248/clothing a gray shirt] and [/EN#34251/clothing hiking boots] jumps off [/EN#34250/scene a sandy hill] .
+[/EN#34247/people The man] in [/EN#34248/clothing the gray shirt] is jumping off of [/EN#34249/other the sand dune] .

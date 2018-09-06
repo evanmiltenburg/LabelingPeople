@@ -1,0 +1,5 @@
+[/EN#249480/people A baseball batter] in [/EN#249490/clothing white pants] and [/EN#249487/clothing a black shirt] attempting to hit [/EN#249481/other a baseball] with [/EN#249484/people a catcher] behind [/EN#0/notvisual him] and [/EN#249485/people an umpire] behind [/EN#249484/people the catcher] .
+In [/EN#249482/other a baseball game] [/EN#249480/people the batter] is swinging at [/EN#249481/other the ball] , while [/EN#249484/people the catcher] patiently waits for [/EN#249481/other the ball] to hit [/EN#249489/clothing his glove] .
+[/EN#249486/people Three men] are standing on [/EN#249483/other a baseball diamond] , [/EN#249480/people the hitter] is swinging [/EN#249488/other his bat] at [/EN#249481/other a incoming ball] .
+[/EN#249480/people A baseball player] , with [/EN#249484/people the catcher] and [/EN#249485/people umpire] shown behind [/EN#0/notvisual him] , is about to hit [/EN#249481/other the ball] .
+[/EN#249480/people A batter] is about to hit [/EN#249481/other a baseball] with [/EN#249484/people a catcher] and [/EN#249485/people umpire] behind [/EN#0/notvisual him] .

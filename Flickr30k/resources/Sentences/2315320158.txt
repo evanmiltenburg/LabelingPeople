@@ -1,0 +1,5 @@
+[/EN#41073/people A woman] wearing [/EN#41074/clothing a blue shirt] opens [/EN#41075/other a present] , [/EN#0/notvisual which] is [/EN#41075/clothing a green hat] .
+[/EN#41073/people A blond-haired woman] wearing [/EN#41074/clothing a blue shirt] unwraps [/EN#41075/clothing a hat] .
+[/EN#41073/people A woman] in [/EN#41074/clothing a blue shirt] unwraps [/EN#41075/clothing a gift of a green hat] .
+[/EN#41073/people A woman] opening [/EN#41075/other a present] , of [/EN#41075/clothing a crocheted blue hat] .
+[/EN#41073/people A woman] wearing [/EN#41074/clothing a blue shirt] opens [/EN#41075/other a gift] .

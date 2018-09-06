@@ -1,0 +1,5 @@
+[/EN#204257/people A man] in [/EN#204259/clothing a pink shirt] walks in front of [/EN#204262/other a blue storefront] next to [/EN#204258/scene a lime green storm front] .
+[/EN#204257/people A man] in [/EN#204261/clothing slacks] walks on [/EN#204260/scene a sidewalk] in front of [/EN#204258/scene brightly-painted buildings] .
+[/EN#204257/people A man] is walking down [/EN#204260/scene the sidewalk] in front of [/EN#204258/scene the colorful building] .
+[/EN#204257/people Man] in [/EN#204259/clothing pink shirt] and [/EN#204261/clothing tan pants] talking [/EN#204264/other a walk] .
+[/EN#204257/people Man] in [/EN#204259/clothing a pink shirt] walking down [/EN#204263/scene a street] .

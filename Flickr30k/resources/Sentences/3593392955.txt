@@ -1,0 +1,5 @@
+[/EN#130178/animals A black and tan dog] is running with [/EN#130183/animals a white and gray dog] along [/EN#130179/scene dirt] .
+[/EN#130178/animals Two dogs] running away from [/EN#0/notvisual the camera] in [/EN#130182/other the woods] .
+[/EN#130178/animals Two dogs] run down [/EN#130179/scene a dirt path] in [/EN#130181/scene the forest] .
+[/EN#130178/animals Two dogs] run on [/EN#130179/scene a dirt area] near [/EN#130181/scene a forest] .
+[/EN#130178/animals The two dogs] are running into [/EN#130182/other the woods] .

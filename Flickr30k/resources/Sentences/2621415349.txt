@@ -1,0 +1,5 @@
+[/EN#62023/people A man] wearing [/EN#62027/clothing sunglasses] and [/EN#62025/clothing a red hat] is opening [/EN#62026/bodyparts his mouth] wide and eating [/EN#62024/other a chip] .
+[/EN#62023/people A man] wearing [/EN#62027/clothing sunglasses] and [/EN#62025/clothing a red cap] putting [/EN#62024/other a chip] in [/EN#62026/bodyparts his mouth] .
+[/EN#62023/people a man] wearing [/EN#62025/clothing a red hat] has [/EN#62024/other a potato chip] in [/EN#62026/bodyparts his mouth]
+[/EN#62023/people A man] with [/EN#62027/clothing sunglasses] on [/EN#62028/other puts] [/EN#62024/other a chip] in [/EN#62026/bodyparts his mouth] .
+[/EN#62023/people A man] in [/EN#62025/clothing a red baseball cap] eats [/EN#62024/other a chip] .

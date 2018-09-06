@@ -1,0 +1,5 @@
+[/EN#221416/vehicles/scene A boat] rushes along [/EN#221421/scene the water] as [/EN#221417/people a man] sits on [/EN#221420/other the deck] and reads [/EN#221418/other a newspaper] .
+[/EN#221417/people A man] sits and reads [/EN#221418/other a newspaper] on [/EN#221416/vehicles/scene a boat] going through [/EN#221419/scene the water] .
+[/EN#221417/people A man] is sitting aboard [/EN#221416/vehicles a vessel] and reading [/EN#221418/other a newspaper] .
+[/EN#221417/people A man] sitting on [/EN#221416/vehicles/scene a boat] in [/EN#221419/scene the middle of the ocean] .
+[/EN#221417/people A man] reading [/EN#221418/other a newspaper] on [/EN#221416/vehicles/scene a moving boat] .

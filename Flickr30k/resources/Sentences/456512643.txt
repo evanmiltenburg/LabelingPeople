@@ -1,0 +1,5 @@
+[/EN#179038/animals A tan dog] is running fast through [/EN#179039/scene tall green grass] .
+[/EN#179038/animals A golden-brown dog] running through [/EN#179039/scene a green field] .
+[/EN#179038/animals a brown dog] is running through [/EN#179039/scene a grassy field] .
+[/EN#179038/animals A brown dog] running through [/EN#179039/scene grass] .
+[/EN#179038/animals A dog] runs in [/EN#179039/scene a grassy field] .

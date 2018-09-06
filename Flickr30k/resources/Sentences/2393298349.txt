@@ -1,0 +1,5 @@
+[/EN#46152/people Two children] are playing with [/EN#46155/other a soccer ball] in [/EN#46153/scene a grassy field] also containing [/EN#46154/animals a white goat] and [/EN#46151/animals a small black dog] .
+[/EN#0/notvisual There] are [/EN#46152/people two kids] , [/EN#46155/other a soccer ball] , [/EN#46151/animals a dog] and [/EN#46154/animals a goat] outside in [/EN#46153/scene a field] .
+[/EN#46152/people Two children] are playing [/EN#46156/other soccer] near to [/EN#46151/animals a black dog] and [/EN#46154/animals a white goat] .
+[/EN#46152/people Two boys] play [/EN#46156/other soccer] while [/EN#46151/animals a dog] and [/EN#46154/animals a goat] run after [/EN#0/notvisual them] .
+[/EN#46151/animals A dog] and [/EN#46154/animals a goat] chase [/EN#46152/people two kids] playing [/EN#46156/other soccer] .

@@ -1,0 +1,5 @@
+[/EN#186029/people A firefighter] in [/EN#186031/other Mexico] is standing holding [/EN#186030/other a fire hose] .
+[/EN#186029/people A firefighter] in [/EN#186032/clothing uniform] is holding [/EN#186030/other a red hose]
+[/EN#186029/people A firefighter] is standing with [/EN#186030/other a red hose] .
+[/EN#186029/people A firefighter] holds [/EN#186030/other a fire hose] .
+[/EN#186029/people A fireman] holding [/EN#186030/other a red hose] .

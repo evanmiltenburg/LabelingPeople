@@ -1,0 +1,5 @@
+[/EN#284705/people A person] in [/EN#284710/clothing orange] climbs [/EN#284706/bodyparts a sheer cliff face] covered in [/EN#284706/scene snow] and [/EN#284711/other ice] .
+[/EN#284705/people Person] in [/EN#284710/clothing a yellow jacket] is climbing up [/EN#284712/other snow covered rocks] .
+[/EN#284705/people An climber] is ascending [/EN#284706/bodyparts an ice covered rock face] .
+[/EN#0/notvisual There] is [/EN#284705/people a climber] scaling [/EN#284708/scene a snowy mountainside] .
+[/EN#284705/people A man] mountain climbing up [/EN#284706/scene an icy mountain] .

@@ -1,0 +1,5 @@
+[/EN#104590/people A group of people] stand in front of [/EN#104589/scene a large apartment building] .
+[/EN#104593/scene an anciet city] with [/EN#104590/people people] walking [/EN#104595/scene the streets] .
+[/EN#104591/people People] in front of [/EN#104589/scene a beige five story building] .
+[/EN#104592/scene The corner of a building] , from [/EN#104594/scene the street] .
+[/EN#104589/scene A building] with [/EN#104591/people people] outside .

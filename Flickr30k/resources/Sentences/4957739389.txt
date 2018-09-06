@@ -1,0 +1,5 @@
+[/EN#223187/people People] and [/EN#223189/vehicles cars] are on [/EN#223188/scene a parking lot] surrounded by [/EN#223190/scene multiple building] , [/EN#0/notvisual one of which] has [/EN#223192/other the word PROLOGy] above [/EN#0/notvisual it] .
+[/EN#223189/vehicles Cars] are parked in [/EN#223188/scene a lot] in [/EN#0/notvisual the foreground] , while [/EN#223190/scene buildings] and [/EN#223194/other smokestacks] rise in [/EN#0/notvisual the background] .
+[/EN#223189/vehicles Cars] are parked in [/EN#223188/scene a city parking lot] and [/EN#223187/people people] are walking around .
+[/EN#223188/scene A parking lot] in [/EN#223191/scene the city] with [/EN#223187/people people] walking through [/EN#0/notvisual it] .
+[/EN#223187/people A few people] are walking in [/EN#223188/scene a parking lot] .

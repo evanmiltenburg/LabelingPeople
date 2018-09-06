@@ -1,0 +1,5 @@
+[/EN#112425/animals four white dogs] are standing beside [/EN#112426/animals/people a black sheep] .
+[/EN#112425/animals The white dogs] look curiously at [/EN#112426/animals the black llama] .
+[/EN#112425/animals Three white dogs] are near [/EN#112426/animals a black llama] .
+[/EN#112425/animals White dogs] stand near [/EN#112426/animals a sheep or llama] .
+[/EN#112426/animals/people A black sheep] with [/EN#112425/animals three white dogs] .

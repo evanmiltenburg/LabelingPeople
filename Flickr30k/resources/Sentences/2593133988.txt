@@ -1,0 +1,5 @@
+[/EN#60128/people A teenage boy] with [/EN#60131/clothing a white shirt] and [/EN#60133/clothing black pants] and [/EN#60127/people a young girl] with [/EN#60130/clothing a pink top] and [/EN#60134/clothing black skirt] walking through [/EN#60129/scene a weedy field] .
+[/EN#60127/people A girl] in [/EN#60130/clothing a pink shirt] and [/EN#60128/people a man] in [/EN#60131/clothing a white shirt] are walking in [/EN#60129/scene a field] .
+[/EN#60126/people A young couple] taking [/EN#60135/other a walk] during [/EN#60132/scene a sunny day] in [/EN#60129/scene a grassy field] .
+[/EN#60128/people The man] has [/EN#60136/bodyparts/people his arm] behind [/EN#60127/people the girl] while [/EN#0/notvisual they] walk outside .
+[/EN#60126/people A couple] are walking in [/EN#60129/scene a field of green grasses] .

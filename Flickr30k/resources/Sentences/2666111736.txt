@@ -1,0 +1,5 @@
+[/EN#64983/people A man] in [/EN#64985/clothing a red shirt] and [/EN#64989/clothing jeans] and [/EN#64984/people a toddler] on [/EN#64986/other a rock] near [/EN#64988/scene the water] .
+[/EN#64983/people A man] in [/EN#64985/clothing a red shirt] and [/EN#64984/people a small boy] standing on [/EN#64986/other a rock] by [/EN#64988/scene the water] .
+[/EN#64983/people A man] and [/EN#64984/people a child] are at [/EN#64986/scene the water 's edge] .
+[/EN#64983/people man] laying on [/EN#0/notvisual the ground] looking at [/EN#64984/people a boy] .
+[/EN#64983/people A man] and [/EN#64984/people a boy] on [/EN#64986/scene a rocky beach] .

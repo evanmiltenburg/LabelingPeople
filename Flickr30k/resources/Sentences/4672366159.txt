@@ -1,0 +1,5 @@
+[/EN#189099/people A man] stands in [/EN#0/notvisual the background] , seen through [/EN#189100/other a window] with [/EN#189105/clothing a blue painted top] and [/EN#189102/other a red painted bottom] .
+[/EN#189099/people A man] [/EN#189103/clothing n blue] is seen next to [/EN#189101/other a machine] through [/EN#189100/other a window] .
+[/EN#189099/people A man] in [/EN#189106/scene a restaurant] being looked at through [/EN#189100/other a window] .
+[/EN#189099/people A man] is standing in [/EN#0/notvisual the background] on [/EN#189100/other a small window] .
+[/EN#189099/people A man] getting ready to order [/EN#189104/other some food] .

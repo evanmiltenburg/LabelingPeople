@@ -1,0 +1,5 @@
+[/EN#121202/people A boy] is doing [/EN#121203/other a kick] flip off [/EN#121204/scene a ramp] on [/EN#121207/other his skateboard] in [/EN#121208/scene a skate park] .
+[/EN#121202/people A child] skateboarding and doing [/EN#0/notvisual a trick] in [/EN#121206/scene midair] .
+[/EN#121202/people A skateboarder] catches [/EN#0/notvisual big air] at [/EN#121205/scene the skate park] .
+[/EN#121202/people Kid] performing [/EN#121203/other a kick] flip on [/EN#121207/other his skateboard] .
+[/EN#121202/people A skateboarder] does [/EN#121206/scene a trick midair] .

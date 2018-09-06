@@ -1,0 +1,5 @@
+[/EN#272126/people A man] wearing [/EN#272127/clothing a blue T-shirt] and [/EN#272129/clothing gray cargo pants] is working on [/EN#272128/other an overhead fluorescent light] .
+[/EN#272126/people A man] , wearing [/EN#272127/clothing a blue shirt] and [/EN#272129/clothing gray pants] , working on [/EN#272128/other a florescent light fixture] .
+[/EN#272126/people A man] wearing [/EN#272127/clothing a blue shirt] is connecting [/EN#272130/other a wire] to [/EN#272128/other a light] .
+[/EN#272126/people The man] in [/EN#272127/clothing the blue shirt] is working on [/EN#272128/other the light] .
+[/EN#272126/people A man] is putting in [/EN#272128/other a lighting fixture] .

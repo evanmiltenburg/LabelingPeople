@@ -1,0 +1,5 @@
+[/EN#32846/people A man] in [/EN#32848/clothing a yellow shirt] and [/EN#32849/clothing blue jeans] is passed out , sleeping , dead or resting [/EN#32850/bodyparts his eyes] on [/EN#32847/scene a sidewalk] .
+[/EN#32846/people Man] in [/EN#32848/clothing yellow shirt] and [/EN#32849/clothing jeans] laying on [/EN#32847/scene the pavement] .
+[/EN#32846/people a man] in [/EN#32848/clothing a yellow shirt] is laying on [/EN#32847/scene the sidewalk] .
+[/EN#32846/people A man] in [/EN#32848/clothing a yellow shirt] laying on [/EN#0/notvisual the ground] .
+[/EN#32846/people A man] is lying on [/EN#32847/scene the sidewalk] .

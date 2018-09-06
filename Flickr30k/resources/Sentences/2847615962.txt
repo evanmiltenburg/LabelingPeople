@@ -1,0 +1,5 @@
+[/EN#76672/animals A dog] rolls on [/EN#76673/other a mattress] placed on [/EN#76674/scene a porch] and scratches [/EN#76675/other his back] .
+[/EN#76672/animals A spotted dog] rolling over on [/EN#76673/other a pad] placed on [/EN#76674/scene a porch] .
+[/EN#76672/animals A white dog] rolling on [/EN#76675/other its back] on [/EN#76674/scene a porch] .
+[/EN#76672/animals A dog] lays on [/EN#76673/other a mattress] on [/EN#76674/scene the porch] .
+[/EN#76672/animals The spotted dog] rolls on [/EN#76675/other its back] .

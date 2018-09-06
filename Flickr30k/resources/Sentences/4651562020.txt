@@ -1,0 +1,5 @@
+[/EN#0/notvisual It] is [/EN#186870/people a heavyset guy] with [/EN#186872/vehicles a shopping cart] filled with [/EN#186873/clothing bags] sitting on [/EN#186871/other a bench] .
+[/EN#186870/people An older heavyset man] is resting on [/EN#186871/other a bench] with [/EN#186872/vehicles his shopping cart] nearby .
+[/EN#186870/people A fat man] is sitting on [/EN#186871/other a bench] with [/EN#186872/vehicles his shopping cart] next to [/EN#0/notvisual him] .
+[/EN#186870/people A fat man] sits on [/EN#186871/other an outdoor bench] with [/EN#186872/vehicles a grocery cart] behind [/EN#0/notvisual him] .
+[/EN#186870/people a big man] sleeping in [/EN#186871/other the chair]

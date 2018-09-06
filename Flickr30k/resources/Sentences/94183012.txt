@@ -1,0 +1,5 @@
+[/EN#283796/other A machine] lifting [/EN#283798/scene dirt] in front of [/EN#283802/scene an apartment building] .
+[/EN#283796/vehicles A bulldozer] is scooping up [/EN#283805/other soil] in [/EN#283800/other a building foundation] .
+[/EN#283806/people A man] uses [/EN#283796/vehicles construction vehicles] to dig in [/EN#283801/scene the city] .
+[/EN#283796/other A yellow construction machine] is digging .
+[/EN#283797/other A backhoe] digs out [/EN#283798/scene dirt] at [/EN#283804/other dusk] .

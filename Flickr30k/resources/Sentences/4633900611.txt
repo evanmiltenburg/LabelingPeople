@@ -1,0 +1,5 @@
+[/EN#184831/people Two men] wearing [/EN#184829/clothing shorts] and [/EN#184834/clothing boxing gloves] are standing in [/EN#184832/clothing/scene a boxing ring] and hitting [/EN#0/notvisual each other] in [/EN#184830/bodyparts the face]
+[/EN#184825/people Bald man] in [/EN#184829/clothing white and black shorts] , punching [/EN#184825/people man] with [/EN#184833/bodyparts black hair] , and [/EN#184828/clothing red , orange and blue shorts] .
+[/EN#184825/people One boxer] in [/EN#184829/clothing white shorts] is punching [/EN#184835/people the other boxer] in [/EN#184828/clothing blue and red shorts] in [/EN#184830/bodyparts the face] .
+[/EN#184825/people A boxer] in [/EN#184837/scene white shorts lands] [/EN#184827/other a punch] on [/EN#184830/people the face of the boxer] in [/EN#184829/clothing the blue shorts] .
+[/EN#184825/people The boxer] counters [/EN#184835/people his opponent] with [/EN#184827/other a left hook] .

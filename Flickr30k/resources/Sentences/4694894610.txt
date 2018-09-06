@@ -1,0 +1,5 @@
+[/EN#191985/people An older African-American male] is playing [/EN#191987/instruments an electric guitar] in [/EN#191986/scene the public street] .
+[/EN#191985/people An older black man] plays [/EN#191987/instruments an electric guitar] on [/EN#191986/scene a city street] .
+[/EN#191985/people An older black man] plays [/EN#191987/instruments an electric guitar] on [/EN#191986/scene the sidewalk] .
+[/EN#191985/people An older man] is playing [/EN#191987/instruments a red guitar] on [/EN#191986/scene the street] .
+[/EN#191985/people A man] trying to play [/EN#191987/instruments guitar] for [/EN#191988/other entertainment] .

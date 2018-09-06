@@ -1,0 +1,5 @@
+[/EN#271527/people A man] standing on [/EN#271531/scene the sidewalk] looking into [/EN#271529/scene a store] [/EN#0/notvisual that] is selling [/EN#271532/animals chickens] and [/EN#271528/other other prepared foods] .
+[/EN#271527/people An older gentleman] in front of [/EN#271529/other the window of a deli] looking at [/EN#271528/other the fresh cooked meats] .
+[/EN#271527/people A man] is [/EN#271529/scene outside of a store] looking in through [/EN#271529/other the window] at [/EN#271528/other the food] for [/EN#271534/other sale] .
+[/EN#271527/people A man] is looking at [/EN#271533/animals ducks] hanging through [/EN#271529/scene a window of an ethnic food store] .
+[/EN#271527/people An old man] looking at [/EN#271535/other the choices of food] in [/EN#271529/other a restaurant window] .

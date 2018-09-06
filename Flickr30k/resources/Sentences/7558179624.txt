@@ -1,0 +1,5 @@
+[/EN#271370/people A child] wearing [/EN#271374/clothing pink penguin pajamas] is standing on [/EN#271372/other a step stool] in front of [/EN#271371/other a kitchen counter] , using [/EN#271375/other a cut] to cut [/EN#271379/scene rounds] out of [/EN#271376/other a sheet of dough] .
+[/EN#271370/people A child] is standing on [/EN#271372/other a footstool] in [/EN#271373/scene a kitchen] at [/EN#271371/other the kitchen counter] .
+[/EN#271370/people A child] stands on [/EN#271372/other a step stool] in [/EN#271373/scene the kitchen] while making [/EN#271378/other dough] .
+[/EN#271370/people A child] is reaching up to [/EN#271371/other the counter] using [/EN#271372/other a step stool] .
+[/EN#271370/people A child] in [/EN#271374/clothing pajamas] makes [/EN#271377/other cookies]

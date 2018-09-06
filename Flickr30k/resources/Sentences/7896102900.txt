@@ -1,0 +1,5 @@
+[/EN#276408/people A male surfer] in [/EN#276409/clothing a black wetsuit] standing on [/EN#276413/other a white surfboard] is riding in [/EN#276410/scene a small wave] on [/EN#276412/scene the ocean] .
+[/EN#276408/people Young man] , in [/EN#276409/clothing a swimsuit] , surfing on [/EN#276412/scene brown waters] .
+[/EN#276408/people A man] is surfing on [/EN#276410/scene a small , brown wave] .
+[/EN#276408/people A man] in [/EN#276409/clothing a black wetsuit] is surfing .
+[/EN#276408/people man] surfing on [/EN#276410/scene a wave] in [/EN#276411/scene the ocean]

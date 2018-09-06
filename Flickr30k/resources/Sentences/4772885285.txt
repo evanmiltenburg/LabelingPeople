@@ -1,0 +1,5 @@
+[/EN#201352/people A lady] with [/EN#201356/clothing a black bag] is walking in [/EN#201354/other the rain] with [/EN#201353/clothing her blue umbrella] .
+[/EN#201352/people A woman] in [/EN#201355/clothing white] is holding [/EN#201353/clothing a blue umbrella] and walking in [/EN#201354/other the rain] .
+[/EN#201352/people A woman] in [/EN#201355/clothing a white dress] is holding [/EN#201353/clothing a blue umbrella] in [/EN#201354/other the rain] .
+[/EN#201352/people lady] wearing [/EN#201355/clothing white shirt] with [/EN#201353/clothing blue umbrella] in [/EN#201354/other the rain] .
+[/EN#201352/people A woman] alone in [/EN#201354/other the rain] with [/EN#201353/clothing a blue umbrella] .

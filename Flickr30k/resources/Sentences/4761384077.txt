@@ -1,0 +1,5 @@
+[/EN#200073/people People] waiting for [/EN#200074/vehicles/scene a train] on [/EN#200077/other the underground platform of an urban metro system] .
+[/EN#200073/people Two people] are standing while [/EN#200076/other others] are walking or rushing by .
+[/EN#0/notvisual There] are [/EN#200073/people several people] waiting to get on [/EN#200074/vehicles/scene the subway] .
+[/EN#200073/people People] waiting at [/EN#200075/scene a underground subway station] .
+[/EN#200073/people Several people] waiting on [/EN#200074/vehicles/scene the subway] .

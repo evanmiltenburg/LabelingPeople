@@ -1,0 +1,5 @@
+[/EN#148879/people A couple] is walking down [/EN#148883/scene the street] and passing [/EN#148880/vehicles many bicycles] parked outside of [/EN#148881/scene a store] .
+[/EN#148885/people A man] and [/EN#149000/people woman] [/EN#0/notvisual both] carrying [/EN#148887/clothing umbrellas] are walking past [/EN#148880/vehicles a group of parked bicycles] .
+[/EN#148879/people People] walking down [/EN#148884/scene a street] in front of [/EN#148881/scene a building] with [/EN#148880/vehicles bikes] parked out [/EN#148886/scene front] .
+[/EN#148880/vehicles Several bicycles] parked and [/EN#148879/people a couple] walking together .
+[/EN#148879/people Two people] walking down [/EN#148884/scene a stone walkway]

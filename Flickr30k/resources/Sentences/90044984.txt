@@ -1,0 +1,5 @@
+[/EN#283221/people A man] in [/EN#283222/clothing a brown shirt] and [/EN#283226/clothing jeans] leans against [/EN#283224/other a pole] in front of [/EN#283227/other Chanel] while [/EN#283229/people a man] in [/EN#283228/clothing a cinema security shirt] faces [/EN#283231/scene the other way] near [/EN#0/notvisual him] .
+[/EN#283221/people A man] wearing [/EN#283222/clothing a brown t-shirt] and [/EN#283226/clothing blue jeans] is standing in front of [/EN#283223/scene a chanel store] holding [/EN#283225/other a walkie talkie] .
+[/EN#283221/people A man] in [/EN#283222/clothing a brown shirt] leans against [/EN#283224/other a pole] holding [/EN#283225/other a walkie talkie] .
+[/EN#283220/people A filming crew] standing in front of [/EN#283223/scene the chanel store] .
+[/EN#283221/people a guy] on [/EN#283230/scene street] watching [/EN#283219/people someone] .

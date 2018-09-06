@@ -1,0 +1,5 @@
+[/EN#31199/people An Asian man] stands behind [/EN#31200/other a makeshift storefront] with [/EN#31201/other a handmade yellow poster] advertising watch [/EN#31209/other repair] .
+[/EN#31199/people a man] standing with [/EN#31202/clothing a gray shirt] and [/EN#31203/clothing blue jeans] standing at [/EN#31200/scene a watch repair booth]
+[/EN#31199/people A black-haired man] standing next to [/EN#31200/scene a podium] made of [/EN#31205/other wood] and [/EN#31206/other plastic] .
+[/EN#31199/people An Asian man] is standing behind [/EN#31200/scene a booth] in front of [/EN#31208/scene a store] .
+[/EN#31199/people Man] working behind [/EN#31200/scene a watch repair booth] on [/EN#31207/scene the street] .

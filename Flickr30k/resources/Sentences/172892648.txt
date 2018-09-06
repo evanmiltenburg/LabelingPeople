@@ -1,0 +1,5 @@
+[/EN#19488/people Person] dressed in [/EN#19490/clothing heavy winter clothes] with [/EN#19492/clothing cap] on walking in [/EN#19489/scene some deep snow]
+[/EN#19488/people Woman] wearing [/EN#19490/clothing black snow pants] and [/EN#19493/clothing jacket] , walking down [/EN#19489/scene a snowy hill] .
+[/EN#19488/people Woman] wearing [/EN#19488/other black snow gear] walking down [/EN#19489/other a snow covered slope] .
+[/EN#19488/people Women] walking through [/EN#19489/scene deep snow] and down [/EN#19489/scene a steep hill] .
+[/EN#19488/people A person] is breaking [/EN#19494/scene trail] on [/EN#19489/scene a snowy hill] .

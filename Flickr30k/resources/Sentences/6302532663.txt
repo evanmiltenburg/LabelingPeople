@@ -1,0 +1,5 @@
+[/EN#252062/people A man] wearing [/EN#252063/clothing a black and green striped shirt] juggling [/EN#252064/other three pins] on [/EN#252065/scene the street] .
+[/EN#252062/people A man] wearing [/EN#252066/clothing brown pants] and [/EN#252063/clothing a striped t-shirt] juggling [/EN#252064/other 3 white pins] .
+[/EN#252062/people A man] juggling [/EN#0/notvisual what] looks like [/EN#252064/other bowling pins] , at [/EN#252067/scene night] .
+[/EN#252062/people A man] outside juggling [/EN#252064/other three items] .
+[/EN#252062/people A man] juggling [/EN#252064/other bowling pins] .

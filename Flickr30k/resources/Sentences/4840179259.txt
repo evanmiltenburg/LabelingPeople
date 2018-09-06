@@ -1,0 +1,5 @@
+[/EN#209552/people A man] in [/EN#209553/clothing a blue shirt] is sweeping inside [/EN#209555/scene a construction site] .
+[/EN#209552/people Teenage boy] in [/EN#209553/clothing blue t-shirt] cleaning [/EN#209556/scene an unfinished basement] .
+[/EN#209552/people A boy] sweeping [/EN#209554/scene the floor of a construction site] .
+[/EN#209552/people A young man] hard at [/EN#209558/other work] , sweeping [/EN#209554/scene the floor] .
+[/EN#209552/people Kid] with [/EN#209557/other wet mop] cleaning [/EN#209554/scene the floor]

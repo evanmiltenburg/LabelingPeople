@@ -1,0 +1,5 @@
+[/EN#127424/people A boxer] wearing [/EN#127426/clothing white shorts] and [/EN#127434/clothing red gloves] punches [/EN#127425/people another boxer] wearing [/EN#127432/clothing blue] in [/EN#127435/bodyparts the face] .
+[/EN#127424/people A boxer] wearing [/EN#127426/clothing white shorts] throws [/EN#127430/other a punch] at [/EN#127425/people a boxer] wearing [/EN#127432/clothing blue shorts] .
+[/EN#127424/people The boxer] with [/EN#127433/clothing orange gloves] is hitting [/EN#127425/people the guy] with [/EN#127428/clothing the blue helmet] .
+[/EN#127423/people The two men] are engaged in [/EN#127429/other a boxing match] .
+[/EN#127423/people Two men] kickboxing in [/EN#127431/clothing a ring] .

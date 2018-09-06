@@ -1,0 +1,5 @@
+[/EN#27058/animals The black dog] is jumping into [/EN#27060/scene the pool] to catch [/EN#27059/animals a rubber chicken] in [/EN#27061/bodyparts its mouth] .
+[/EN#27058/animals A dog] is jumping into [/EN#27060/scene a pool] to get [/EN#27059/animals a duck] floating [/EN#0/notvisual there] .
+[/EN#27058/animals A dog] is jumping into [/EN#27060/scene a swimming pool] after [/EN#27059/animals a duck] .
+[/EN#27058/animals A black dog] grabs [/EN#27059/animals a bird] in [/EN#27061/bodyparts its mouth] in [/EN#27060/scene the pool] .
+[/EN#27058/animals a dog] jumps in [/EN#27060/scene the pool] to get [/EN#27059/animals a chicken] .

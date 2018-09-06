@@ -1,0 +1,5 @@
+[/EN#7890/people Two people] with [/EN#7891/other backpacks hike] up [/EN#7892/scene a rocky dirt path] next to [/EN#7893/other a conifer tree] .
+[/EN#7890/people Two hikers] walk down [/EN#7894/other an arid slope] next to [/EN#7893/other a green conifer] .
+Hiking in [/EN#7896/scene the mountains] down [/EN#7894/scene steep terrain] .
+[/EN#7890/people Two people] hiking through [/EN#7894/scene a valley] .
+[/EN#7890/people Two women] hiking on [/EN#7892/scene a rocky trail] .

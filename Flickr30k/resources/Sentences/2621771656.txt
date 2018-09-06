@@ -1,0 +1,5 @@
+[/EN#62038/people A crowd of people] are standing behind [/EN#62039/other a railing] watching [/EN#62043/other something] in [/EN#0/notvisual the distance] .
+[/EN#62038/people A group of people] wait behind [/EN#62039/other a barricade] and look toward [/EN#62045/scene the right] .
+[/EN#62038/people A group of people] waiting outside [/EN#62039/other a fenced] in [/EN#62042/scene area] .
+[/EN#62038/people A group of people] wait behind [/EN#62039/scene a metal fence] .
+[/EN#62038/people A group of spectators] enjoying [/EN#62041/scene an event] .

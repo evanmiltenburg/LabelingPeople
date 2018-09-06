@@ -1,0 +1,5 @@
+[/EN#135835/people A woman] leaning against [/EN#135841/other the wall] in [/EN#135836/scene the " Dupont Circle " subway station] with [/EN#135839/other a trashcan] to [/EN#135838/scene the right] .
+[/EN#135835/people A woman] is waiting for [/EN#135837/vehicles/scene a train] at [/EN#135836/scene an empty train station] .
+[/EN#135835/people Young woman] standing on [/EN#135840/other platform] with [/EN#135837/vehicles/scene train] to [/EN#135838/scene the right]
+[/EN#135835/people A woman] reading while waiting for [/EN#135837/vehicles/scene a train] .
+[/EN#135835/people Woman] waiting for [/EN#135837/vehicles/scene the train] .

@@ -1,0 +1,5 @@
+[/EN#91538/animals A yellow dog] stands in [/EN#91539/scene a road] surrounded by [/EN#91537/people children] in [/EN#91540/clothing blue shirts] .
+[/EN#91537/people Group of little girls] and [/EN#91538/animals a dog] standing on [/EN#91539/scene the road] .
+[/EN#91537/people Children] in [/EN#91541/clothing uniforms] stand in [/EN#91539/scene the road] with [/EN#91538/animals a dog] .
+[/EN#91537/people A group of children] in [/EN#91540/clothing uniforms] stand outside .
+[/EN#91537/people Several young girls] stand in [/EN#91539/scene a rural road] .

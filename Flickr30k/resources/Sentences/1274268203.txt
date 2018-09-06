@@ -1,0 +1,5 @@
+[/EN#6888/people A crowd of men] and [/EN#6892/people women] wait to board [/EN#6886/vehicles/scene a train] at [/EN#6887/scene a train station] .
+[/EN#6885/people A large group of people] waiting at [/EN#6887/scene a train station] .
+[/EN#6885/people People] are standing on [/EN#6889/other a platform] to board [/EN#6886/vehicles/scene a train] .
+[/EN#6885/people A group of people] are walking toward [/EN#6891/other a subway door] .
+[/EN#6885/people A group of people] wait to get on [/EN#6886/vehicles/scene the subway] .

@@ -1,0 +1,5 @@
+[/EN#8953/people A brown-haired child] in [/EN#8960/clothing green shoes] swings on [/EN#8954/other a swing] in [/EN#8955/scene a park] near [/EN#8955/other the woods] .
+[/EN#8959/other The sun] breaks through [/EN#8955/other the trees] as [/EN#8953/people a child] rides [/EN#8954/other a swing] .
+[/EN#8953/people A child] wearing [/EN#8957/other Crocs] sits on [/EN#8954/other a swing] in [/EN#8955/scene a wooded area] .
+[/EN#8953/people A kid] swings with [/EN#8957/bodyparts his feet] up in [/EN#0/notvisual the air] in [/EN#8955/scene a forest] .
+[/EN#8953/people A child] swings and [/EN#8959/other the sunshine] shines down on [/EN#0/notvisual her] .

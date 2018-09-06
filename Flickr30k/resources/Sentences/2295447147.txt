@@ -1,0 +1,5 @@
+[/EN#39707/animals A brown dog] in [/EN#39708/clothing two black collars] running through [/EN#39709/scene a grassy field] .
+[/EN#39707/animals A light brown dog] with [/EN#39708/clothing a dark collar] bounding through [/EN#39709/scene grass] .
+[/EN#39707/animals A brown dog] in [/EN#39710/other mid-run] in [/EN#39709/scene grass] .
+[/EN#39707/animals A dog] running in [/EN#39709/scene a field] .
+[/EN#39707/animals A brown dog] in [/EN#39709/scene a field] .

@@ -1,0 +1,5 @@
+[/EN#123659/people A young black boy] is standing at [/EN#123661/scene the counter of an open butcher shop] , where [/EN#123658/other meat] lays on [/EN#123662/other the white tiled counter] .
+[/EN#123658/other A chunk of meat] is presented out [/EN#123661/scene the window of a shop] while [/EN#123659/people a young man] goes toward [/EN#0/notvisual it] .
+[/EN#123661/scene A meat market] with [/EN#123659/people a man] in [/EN#123665/scene white inside] and [/EN#123659/people a boy] with [/EN#123664/scene a blue hat outside] .
+[/EN#123659/people A young man] wearing [/EN#123664/clothing a blue hat] waiting at [/EN#123662/other a counter] .
+[/EN#123659/people A man] looking into [/EN#123663/other a window] in [/EN#123661/scene a rural home] .

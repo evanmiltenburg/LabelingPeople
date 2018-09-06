@@ -1,0 +1,5 @@
+[/EN#87856/animals A black and white dog] in [/EN#87858/scene the grass] holding [/EN#87857/other a pine cone] in [/EN#87859/bodyparts its mouth] .
+[/EN#87856/animals A black and white dog] is biting on [/EN#87857/other a pine cone] on [/EN#87858/scene the grass] .
+[/EN#87856/animals A black and white dog] playing with [/EN#87857/other a pine cone] .
+[/EN#87856/animals A dog] plays with [/EN#87857/other a pine cone] .
+[/EN#87856/animals A dog] eating [/EN#87857/other a pine cone] .

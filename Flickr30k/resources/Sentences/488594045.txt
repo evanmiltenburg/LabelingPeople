@@ -1,0 +1,5 @@
+During [/EN#214691/other a football match] , [/EN#214690/people a player] in [/EN#214693/clothing a green and gold uniform] is tackling [/EN#214699/people two members of the other team] , [/EN#0/notvisual who] are dressed in [/EN#214700/clothing white , black , and blue jerseys] .
+[/EN#214690/people A football player] wearing [/EN#214693/clothing a green jersey] and [/EN#214702/clothing yellow pants] tackles [/EN#214690/people a player] in [/EN#214697/clothing a white uniform] .
+[/EN#214690/people A man] in [/EN#214694/other green and yellow tackles] [/EN#214690/people a man] in [/EN#214698/clothing black and white] in [/EN#214691/other a football game] .
+[/EN#214690/people A football player] in [/EN#214694/other green tackles] [/EN#214690/people a football player] in [/EN#214701/clothing white] .
+[/EN#214690/people Football players] engaged in [/EN#214696/other a tackle] .

@@ -1,0 +1,5 @@
+[/EN#42795/people a boy] in [/EN#42798/clothing a green shirt] is jumping with [/EN#42802/bodyparts his arms] in [/EN#0/notvisual the air] at [/EN#42803/scene the end of a bowling alley] .
+[/EN#42795/people A boy] wearing [/EN#42798/clothing a green shirt] is jumping in front of [/EN#42800/other a lane] at [/EN#42797/scene a bowling alley] .
+[/EN#42795/people A young boy] with [/EN#42796/bodyparts a Mohawk] and [/EN#42798/clothing green shirt] is excited about [/EN#42801/other bowling] .
+[/EN#42795/people A young boy] with [/EN#42796/bodyparts a Mohawk] jumping at [/EN#42797/scene a bowling alley]
+[/EN#42795/people A child] jumps in [/EN#0/notvisual the air] at [/EN#42797/scene a bowling alley] .

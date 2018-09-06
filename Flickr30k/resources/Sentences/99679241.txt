@@ -1,0 +1,5 @@
+[/EN#285172/animals A gray bird] stands majestically on [/EN#285173/scene a beach] while [/EN#285177/scene waves] roll in .
+[/EN#285172/scene A white crane] stands tall as [/EN#0/notvisual it] looks out upon [/EN#285174/scene the ocean] .
+[/EN#285172/animals A tall bird] is standing on [/EN#285178/other the sand] beside [/EN#285174/scene the ocean] .
+[/EN#285172/animals A large bird] stands in [/EN#285174/scene the water] on [/EN#285173/scene the beach] .
+[/EN#285172/animals A water bird] standing at [/EN#285173/scene the ocean 's edge] .

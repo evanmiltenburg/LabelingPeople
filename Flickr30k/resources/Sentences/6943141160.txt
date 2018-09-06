@@ -1,0 +1,5 @@
+[/EN#262065/people A white female] dressed in [/EN#262068/clothing a polka dot shirt] and [/EN#262066/clothing a black skirt] juggles [/EN#262070/clothing three oranges] outside near [/EN#262071/other a large green tree] .
+[/EN#262065/people A woman] with [/EN#262067/bodyparts short hair] wearing [/EN#262066/clothing a skirt] , [/EN#262068/clothing shirt] , and [/EN#262072/clothing sunglasses] is juggling [/EN#262070/clothing three oranges] .
+[/EN#262065/people A young woman] with [/EN#262067/bodyparts an unusual haircut] is juggling [/EN#262069/clothing oranges] in [/EN#262073/scene a public park] .
+[/EN#262065/people A woman] juggling [/EN#262069/clothing oranges] .
+[/EN#0/notvisual This] is [/EN#262065/people a woman] juggling .

@@ -1,0 +1,5 @@
+[/EN#44832/people A man] wearing [/EN#44839/clothing glasses] and [/EN#44836/people a woman] wearing [/EN#44834/clothing a black hat] and [/EN#44838/clothing dark sunglasses] sit together on [/EN#44835/vehicles/scene a subway train] .
+[/EN#44833/people Two men] sitting in [/EN#44835/vehicles/scene a bus] [/EN#44832/people the one guy] is wearing [/EN#44842/clothing eyeglass] and [/EN#44832/people the other guy] is wearing [/EN#44841/other a sungalsses]
+[/EN#44832/people A man] in [/EN#44838/clothing dark sunglasses] and [/EN#44834/clothing a black hat] is sitting on [/EN#44835/vehicles/scene a bus] next to [/EN#44836/people another person] .
+[/EN#44832/people A man] with [/EN#44834/clothing a black hat] is looking pensively out [/EN#44837/vehicles the window of public transportation] .
+[/EN#44833/people Two people] are sitting close together on [/EN#44835/vehicles/scene a bus] with [/EN#44837/other a scratched window] .

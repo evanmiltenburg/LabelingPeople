@@ -1,0 +1,5 @@
+[/EN#114518/animals A brown dog] with [/EN#114519/clothing a black collar] licks [/EN#114520/bodyparts its own mouth] .
+[/EN#114518/animals Brown dog] with [/EN#114519/clothing black collar] licking [/EN#114520/bodyparts nose] .
+[/EN#114518/animals A large dog] licking [/EN#114520/bodyparts its nose] .
+[/EN#114518/animals Dog] sticking out [/EN#114521/bodyparts its tongue] .
+[/EN#114518/animals A dog] licks [/EN#114520/bodyparts his nose] .

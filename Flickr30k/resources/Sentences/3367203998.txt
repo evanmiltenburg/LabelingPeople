@@ -1,0 +1,5 @@
+[/EN#113365/people A pitcher] is getting ready to throw [/EN#113366/other a ball] during [/EN#113370/other a baseball game] .
+[/EN#113365/people A man] is preparing to throw [/EN#113366/other a ball] and wears [/EN#113368/clothing a baseball uniform] .
+[/EN#113365/people A baseball pitcher] in [/EN#113368/clothing white uniform] winds up for [/EN#113371/scene a pitch] .
+[/EN#113365/people A baseball player] pitches [/EN#113366/other the ball] on [/EN#113367/scene a baseball field] .
+[/EN#113365/people The pitcher] is winding up for [/EN#113367/scene a pitch] .

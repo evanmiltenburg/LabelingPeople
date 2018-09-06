@@ -1,0 +1,5 @@
+[/EN#53452/people Boy] in [/EN#53454/clothing backpack] crossing [/EN#53455/scene the street] , [/EN#53453/people Other people] , [/EN#53456/people all Asian] , are all in [/EN#53455/scene crosswalk] walking towards [/EN#53452/people the boy] .
+[/EN#53452/people One man] with [/EN#53454/clothing a yellow and orange backpack] crosses [/EN#53455/scene the street] as [/EN#53453/people people] approach [/EN#0/notvisual him] .
+[/EN#53452/people An asian male] walking towards [/EN#53453/people a group of people] [/EN#0/notvisual that] are walking towards [/EN#0/notvisual him] .
+[/EN#53452/people A person] is walking on [/EN#53455/scene a busy street] while wearing [/EN#53454/clothing a backpack] .
+[/EN#53452/people a young boy] walking down [/EN#53455/scene the road of a busy street] .

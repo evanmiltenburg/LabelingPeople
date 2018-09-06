@@ -1,0 +1,5 @@
+[/EN#182215/people A woman] in [/EN#182222/clothing a raincoat] leans against [/EN#182219/scene an enclosure] for [/EN#182220/vehicles/scene a subway] stairs in [/EN#182216/scene New York City]
+[/EN#182215/people A woman] is stopped at [/EN#182218/scene a crosswalk] waiting on [/EN#182223/other the clear signal] to start walking .
+[/EN#182215/people A female] is looking out onto [/EN#182217/scene a New York City street] .
+[/EN#0/notvisual She] is overlooking [/EN#182216/scene the city] in [/EN#182221/scene the evening] .
+[/EN#182215/people A lady] looking across [/EN#182217/scene a busy street] .

@@ -1,0 +1,5 @@
+[/EN#253415/people A woman] in [/EN#253418/clothing a blue dress] , [/EN#253419/clothing a cowboy hat] , and [/EN#253416/clothing a pink boa] walks down [/EN#253417/scene the street] .
+[/EN#253415/people A large woman] with [/EN#253416/clothing a pink feather boa] strolls down [/EN#253417/scene the sidewalk] .
+[/EN#253415/people A woman] in [/EN#253416/clothing a pink scarf] walking down [/EN#253417/scene the street] .
+[/EN#253415/people A woman] with [/EN#253416/clothing a pink boa] walks down [/EN#253417/scene a sidewalk] .
+[/EN#253415/people The woman] has [/EN#253416/clothing a pink , feathery scarf] .

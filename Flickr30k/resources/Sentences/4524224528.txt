@@ -1,0 +1,5 @@
+[/EN#175364/people a woman] wearing [/EN#175373/clothing a pink blouse] with [/EN#175365/clothing a blue skirt] is texting in [/EN#0/notvisual the foreground] while [/EN#175371/people three people] are standing and talking in [/EN#0/notvisual the background] , [/EN#175364/people all] in [/EN#175368/scene a city] setting .
+[/EN#175364/people A woman] using [/EN#175370/other her cellphone] on [/EN#175367/scene a sidewalk] with [/EN#175371/people three people] talking amongst [/EN#0/notvisual themselves] in [/EN#0/notvisual the background] .
+[/EN#175364/people A woman] wearing [/EN#175365/clothing a blue skirt] is looking at [/EN#175369/other something] on [/EN#175366/other her phone] .
+[/EN#175364/people A woman] looking at [/EN#175366/other a cellphone] while standing on [/EN#175367/scene a sidewalk] .
+[/EN#175364/people A young woman] looking at [/EN#0/notvisual her] [/EN#175366/other cellphone] .

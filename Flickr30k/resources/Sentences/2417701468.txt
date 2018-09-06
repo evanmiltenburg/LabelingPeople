@@ -1,0 +1,5 @@
+[/EN#47879/people A man] in [/EN#47884/clothing a green long-sleeve shirt] playing [/EN#47883/instruments the violin] in [/EN#47880/scene an empty auditorium] .
+[/EN#47879/people A man] is sitting on [/EN#47882/scene a stage] playing [/EN#47883/instruments a violin] in [/EN#47880/scene an empty stadium] .
+[/EN#47879/people A violinist] practices in front of [/EN#47881/other an empty performance hall] .
+[/EN#47879/people Man] playing [/EN#47883/instruments a violin] sitting on [/EN#47882/scene a stage] in [/EN#47881/other an empty hall] .
+[/EN#47879/people A man] is practicing [/EN#47883/instruments the violin] in [/EN#47880/scene an empty auditorium] .

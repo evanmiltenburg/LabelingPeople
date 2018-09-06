@@ -1,0 +1,5 @@
+[/EN#159347/people A man] wearing [/EN#159348/clothing a hat] sitting on [/EN#159354/scene the side of a hill] looking towards [/EN#159350/scene the water] .
+[/EN#159347/people A man] in [/EN#159348/clothing a brown hat] and [/EN#159353/clothing beige shirt] is sitting on [/EN#159349/other a rock] by [/EN#159350/scene the ocean] .
+[/EN#159347/people A man] with [/EN#159351/bodyparts a beard] sits on [/EN#159349/other a rock] as [/EN#0/notvisual he] watches [/EN#159350/scene the ocean] wash ashore .
+[/EN#159347/people A man] sitting on [/EN#159352/bodyparts a cliff face] , looking at [/EN#159350/scene the water] .
+[/EN#159347/people A man] sits on [/EN#159349/other a rock] by [/EN#159350/scene the water] .

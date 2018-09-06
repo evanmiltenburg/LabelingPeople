@@ -1,0 +1,5 @@
+[/EN#3339/people Blond child] with [/EN#3347/clothing large black coat] , [/EN#3341/clothing multicolored scarf] , and [/EN#3340/clothing knit hat] standing in front of [/EN#3344/other a window] .
+[/EN#3339/people Little boy] wearing [/EN#3341/clothing a multicolored scarf] and [/EN#3340/clothing hat] has [/EN#3343/other a sad look] on [/EN#3348/bodyparts his face] as [/EN#0/notvisual he] is looking down .
+[/EN#3339/people A younger boy] is wearing [/EN#3341/clothing a striped scarf] and stocking [/EN#3340/clothing cap] .
+[/EN#3339/people A child] standing outside in [/EN#3340/clothing a matching cap] and [/EN#3341/clothing scarf] .
+[/EN#3339/people Young boy] is dressed for [/EN#3345/other cold weather] .

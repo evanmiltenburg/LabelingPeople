@@ -1,0 +1,5 @@
+[/EN#30322/people A child] wearing [/EN#30323/clothing a brown coat] , [/EN#30324/clothing red hat] and [/EN#30325/clothing snow boots] on top of [/EN#30326/people a snow pile] near [/EN#30327/other a tree] on [/EN#30330/scene the corner of a street intersection] .
+[/EN#30322/people A child] wearing [/EN#30323/clothing a brown coat] and [/EN#30324/clothing red cap] is standing on [/EN#30326/scene a dirty pile of snow] on [/EN#30330/scene a city sidewalk] .
+[/EN#30322/people A person] with [/EN#30324/clothing a red hat] stands in [/EN#30326/scene a pile of snow] on [/EN#30330/scene the side of a road] while [/EN#30328/vehicles traffic] goes by .
+[/EN#30329/scene A busy intersection] with [/EN#30322/people a little child] standing on [/EN#30326/scene a snowbank] .
+[/EN#30322/people Young child] standing on [/EN#30326/people a snow pile] in [/EN#30331/scene a city] .

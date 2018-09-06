@@ -1,0 +1,5 @@
+[/EN#61736/people A married man] in [/EN#61737/clothing a blue checked shirt] is eating [/EN#61738/other a red berry] .
+[/EN#61736/people A man] wearing [/EN#61737/clothing a blue plaid shirt] bites into [/EN#61738/other some food] .
+[/EN#61736/people A man] wearing [/EN#61737/clothing a striped shirt] eats [/EN#61738/other some candy] .
+[/EN#61736/people A man] with [/EN#61740/bodyparts a mustache] eats [/EN#61738/other a strawberry] .
+[/EN#61736/people Man] in [/EN#61737/clothing blue shirt] eating [/EN#61738/other a strawberry] .

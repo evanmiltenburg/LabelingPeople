@@ -1,0 +1,5 @@
+[/EN#18092/people A small child] looks inside [/EN#18093/vehicles a car] while standing in front of [/EN#18094/other a clothesline] .
+[/EN#18092/people A young boy] grooms [/EN#0/notvisual himself] in [/EN#18095/vehicles the reflection of a automobile] .
+[/EN#18092/people A boy] is combing [/EN#18096/bodyparts his hair] using [/EN#18095/other the car windows] as [/EN#18097/other a mirror] .
+[/EN#18092/people A boy] is standing next to [/EN#18093/vehicles a car] in front of [/EN#18094/other a clothesline] .
+[/EN#18092/people Young boy] combing [/EN#18096/bodyparts hair] in [/EN#18095/other reflection of car window] .

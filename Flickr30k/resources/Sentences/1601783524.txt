@@ -1,0 +1,5 @@
+[/EN#17270/people A redheaded woman] wearing [/EN#17276/clothing a beret and glasses] waits for [/EN#17275/scene her laundry] to dry at [/EN#17274/scene the laundromat] .
+[/EN#17270/people A girl] with [/EN#17277/clothing black glasses] looks over [/EN#17278/bodyparts her shoulder] while sitting at [/EN#17274/scene the laundromat] .
+[/EN#17270/people A woman] with [/EN#17279/bodyparts red-hair] is sitting in [/EN#17274/scene a laundromat] , looking at [/EN#17271/people the photographer] .
+[/EN#17270/people A woman] sitting in [/EN#17274/scene a laundromat] looking at [/EN#0/notvisual the camera] .
+[/EN#17270/people Women] sitting on [/EN#17280/other a bench] waiting for [/EN#0/notvisual her] [/EN#17275/scene laundry]

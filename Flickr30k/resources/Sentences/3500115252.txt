@@ -1,0 +1,5 @@
+[/EN#122977/animals A black dog] is playing with [/EN#122979/other a blue doll] on [/EN#122982/other a white carpet] .
+[/EN#122977/animals The dog] plays with [/EN#122979/other a purple toy] near [/EN#122978/animals a cat] .
+[/EN#122977/animals A black dog] playing with [/EN#122979/other a purple toy] .
+[/EN#122977/animals A dog] plays with [/EN#122981/animals a stuffed animal] .
+[/EN#122978/animals A cat] watching [/EN#122977/animals a dog] with [/EN#122979/other a toy] .

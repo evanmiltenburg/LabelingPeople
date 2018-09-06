@@ -1,0 +1,5 @@
+[/EN#89763/people A man] in [/EN#89766/scene his office] , is staring intently at [/EN#89764/other the computer screen] , while holding [/EN#89768/other a red pen] in [/EN#89770/bodyparts his left hand] .
+[/EN#89763/people A man] in [/EN#89765/clothing a gray shirt] and [/EN#89769/clothing green tie] is working with [/EN#89764/other his computer] at [/EN#89767/other his office desk] .
+[/EN#89763/people A man] wearing [/EN#89765/clothing a dress shirt] and tie sitting at [/EN#89764/other a computer] .
+[/EN#89763/people A man] at [/EN#89767/other his desk] is reading from [/EN#89764/other his computer monitor] .
+[/EN#89763/people A man] sitting in [/EN#89766/scene an office] on [/EN#89764/other a computer] .

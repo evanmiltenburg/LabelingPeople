@@ -1,0 +1,5 @@
+[/EN#272677/people A boy] with [/EN#272683/clothing a white shirt] , [/EN#272684/clothing jeans] and [/EN#272682/other rollerskates] skating down [/EN#272678/scene a highway] .
+[/EN#272677/people A young man] is skateboarding on [/EN#272679/scene a road] with [/EN#272686/people 3 other people] behind [/EN#0/notvisual him] .
+[/EN#272677/people A man] wearing [/EN#272683/clothing a white shirt] is skateboarding downhill on [/EN#272679/scene a road] .
+[/EN#272677/people A man] in [/EN#272685/clothing sunglasses] is skateboarding on [/EN#272679/scene the road] in [/EN#272680/scene a desert] .
+[/EN#272677/people Man] crouching on [/EN#272682/other a skateboard] on [/EN#272678/scene the highway] .

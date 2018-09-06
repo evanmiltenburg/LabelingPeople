@@ -1,0 +1,5 @@
+[/EN#126843/other A female hurdle-jumper] is caught in [/EN#126852/scene midair] clearing [/EN#126844/other a hurdle] in [/EN#126850/other a track-and-field] setting .
+[/EN#126843/people A woman] is jumping over [/EN#126844/other a hurdle] on [/EN#126851/scene a track] in front of [/EN#126849/scene a grassy field] with [/EN#126846/people people] on [/EN#0/notvisual it] .
+[/EN#126843/people A girl] in [/EN#126845/clothing a yellow tank top] jumping [/EN#126844/other a blue hurdle] with [/EN#126846/people people] in [/EN#0/notvisual the background] .
+[/EN#126843/people A girl] is jumping [/EN#126844/other a hurdle] and [/EN#126848/other about] to touch [/EN#0/notvisual ground] .
+[/EN#126843/people A girl] in [/EN#126845/clothing a yellow shirt] jumping over [/EN#126844/other a hurdle] .

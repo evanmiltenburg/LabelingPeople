@@ -1,0 +1,5 @@
+[/EN#213266/vehicles traffic] is present on [/EN#213264/scene the road] and [/EN#213261/people people] are waiting to cross [/EN#213264/scene the road] .
+[/EN#213261/people Pedestrians] are yielding to [/EN#213260/other a firetruck] as [/EN#0/notvisual it] enters [/EN#213262/scene the intersection] .
+[/EN#213260/other A firetruck] rushes to [/EN#213263/other the scene of an accident] .
+[/EN#213260/other A firetruck] and [/EN#213261/people people] standing at [/EN#213262/scene a crosswalk] .
+[/EN#213260/other A firetruck] turns right at [/EN#213262/scene the intersection] .

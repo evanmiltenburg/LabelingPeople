@@ -1,0 +1,5 @@
+[/EN#14312/people Two gentlemen] in [/EN#14314/clothing green scrubs] are talking to [/EN#14318/people a third man] on [/EN#14317/scene the street] in front of [/EN#14313/other an eatery] .
+[/EN#14312/people Two men] wearing [/EN#14314/clothing green medical scrubs] are standing in front of [/EN#14313/scene a building] .
+[/EN#14312/people Two men] in [/EN#14314/clothing teal scrubs] stand in front of [/EN#14313/other a cafe] with [/EN#14316/other an open sign] .
+[/EN#14312/people Two white men] wearing [/EN#14314/clothing scrubs] stand in front of [/EN#14313/other a small cafe] .
+[/EN#14312/people Two medical professionals] in [/EN#14314/other green look] on at [/EN#14320/other something] .

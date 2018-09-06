@@ -1,0 +1,5 @@
+[/EN#168058/people A man] with [/EN#168061/clothing a dark blue jacket] and [/EN#168062/clothing denim jeans] sitting awkwardly on [/EN#168059/scene a red bench outside] .
+[/EN#168058/people Man] in [/EN#168060/other blue jack] , sleeping or passed out on [/EN#168059/other a red public bench] .
+[/EN#168058/people A man] is passed out on [/EN#168059/other a park bench] .
+[/EN#168058/people A man] is sleeping on [/EN#168059/other a red bench] .
+[/EN#168058/people A man] is asleep on [/EN#168059/other a red bench]

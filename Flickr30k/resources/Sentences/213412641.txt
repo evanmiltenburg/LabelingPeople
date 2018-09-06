@@ -1,0 +1,5 @@
+[/EN#30507/people A young man] in [/EN#30508/clothing a cowboy hat] and [/EN#30511/clothing yellow shirt] plays [/EN#30509/instruments guitar] in front of [/EN#30513/people an audience] .
+[/EN#30507/people A man] with [/EN#30509/instruments a guitar] and [/EN#30508/clothing a cowboy hat] performs in front of [/EN#30510/other a microphone] .
+[/EN#30507/people A man] in [/EN#30508/clothing a cowboy hat] with [/EN#30509/instruments a guitar] singing into [/EN#30510/other a microphone] .
+[/EN#30507/people A man] in [/EN#30511/clothing yellow] with [/EN#30508/clothing a cowboy hat] plays [/EN#30509/instruments the guitar] .
+[/EN#30507/other Brad Paisley] is playing [/EN#30509/instruments his guitar] and singing .

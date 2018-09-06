@@ -1,0 +1,5 @@
+[/EN#209094/people Group of people] walking along [/EN#209104/scene sidewalk] in between [/EN#209098/other tall trees] with [/EN#209102/other port-o-potties] on [/EN#0/notvisual one side] .
+[/EN#209094/people A group of people] walking along [/EN#209097/scene a tree-lined path] [/EN#0/notvisual that] has [/EN#209103/scene portable bathrooms] on [/EN#0/notvisual the side] .
+[/EN#209099/people Several people] stroll through [/EN#209096/scene a park] with [/EN#209098/other many trees] .
+[/EN#209094/people People] walking and running along [/EN#209097/scene park path] .
+[/EN#209100/people Young men] and [/EN#209095/people women] are walking in [/EN#209096/scene a park] .

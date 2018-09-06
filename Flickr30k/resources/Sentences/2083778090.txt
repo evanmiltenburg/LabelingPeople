@@ -1,0 +1,5 @@
+[/EN#27601/people a man] in [/EN#27606/scene the snow] wearing [/EN#27602/clothing a furry hat] and [/EN#27603/clothing a black jacket] with [/EN#27604/clothing a red scarf]
+[/EN#27601/people The man] is wearing [/EN#27604/clothing a scarf] , [/EN#27603/clothing jacket] , and [/EN#27602/clothing a furry hat] on [/EN#27606/scene a snowy day] .
+[/EN#27601/people A man] with [/EN#27605/bodyparts a goatee] wears [/EN#27602/clothing a fur hat] in [/EN#27606/scene the snow] .
+[/EN#27601/people A man] wearing [/EN#27602/clothing a hat] in [/EN#27607/other a snowstorm] .
+[/EN#27601/people Man] in [/EN#27602/clothing furry hat] stands in [/EN#27606/scene snow]

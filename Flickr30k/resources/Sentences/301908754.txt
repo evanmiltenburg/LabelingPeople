@@ -1,0 +1,5 @@
+[/EN#87810/people Child] with [/EN#87811/clothing a blue jacket] with [/EN#87813/clothing a brown collar] more than [/EN#87816/scene half way] in [/EN#87812/other a pile of brown leafs]
+[/EN#87810/people A small boy] wearing [/EN#87811/clothing a warm jacket] is sitting in [/EN#87812/other a pile of dead leaves] .
+[/EN#87810/people A small child] with [/EN#87814/bodyparts brown hair] is partially enclosed in [/EN#87812/other dead leaves] .
+[/EN#87810/people A little boy] wearing [/EN#87811/clothing a coat] buried up to [/EN#87815/bodyparts his shoulders] in [/EN#87812/other leaves] .
+[/EN#87810/people A child] in [/EN#87811/clothing a black coat] lays on [/EN#87812/other the leaves] on [/EN#0/notvisual the ground] .

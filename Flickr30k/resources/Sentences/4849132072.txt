@@ -1,0 +1,5 @@
+[/EN#210351/people woman] in [/EN#210353/clothing purple shirt] fixes [/EN#210355/bodyparts her hair] in front of [/EN#210352/people man] with [/EN#210354/other a tripod] .
+[/EN#210351/people A woman] in [/EN#210353/clothing a purple shirt] and [/EN#210352/people a man] are standing in [/EN#210358/scene a street] .
+[/EN#210351/people A woman] in [/EN#210353/clothing a purple shirt] is reaching back to fix [/EN#210355/bodyparts her hair] .
+[/EN#210351/people A woman] in [/EN#210353/clothing a violet shirt] stands facing [/EN#210352/people a young man] .
+[/EN#210356/people Two people] are searching for [/EN#210357/scene a place] to take [/EN#210354/other photo] .

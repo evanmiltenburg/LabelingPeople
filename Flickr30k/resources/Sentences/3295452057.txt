@@ -1,0 +1,5 @@
+[/EN#107595/animals Two dogs] play in [/EN#107597/scene a large fenced-in area] , while [/EN#107599/people two men] watch from [/EN#0/notvisual a distance] .
+[/EN#107591/animals A smaller orange dog] putting [/EN#107600/bodyparts its head] on [/EN#107593/animals a larger black and white dog]
+[/EN#107591/animals A brown dog] is jumping up at [/EN#107593/animals a black and white dog] .
+[/EN#107592/animals Two dogs] are playing around in [/EN#107597/scene the dirt] .
+[/EN#107591/other A chow] jumps on [/EN#107593/animals a huskey] .

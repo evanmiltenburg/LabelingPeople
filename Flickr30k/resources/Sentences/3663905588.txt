@@ -1,0 +1,5 @@
+[/EN#135082/people A woman] in [/EN#135088/clothing a red dress] and [/EN#135081/people a man] in [/EN#135081/other a white suite] are engaging in [/EN#135084/other a ballet performance] on [/EN#135085/scene a purple lit stage] .
+[/EN#135081/people A man] and [/EN#135082/people a woman] on [/EN#135085/scene stage] performing [/EN#135084/other a dance] .
+[/EN#135081/people The dancing man] and [/EN#135082/people woman] are holding [/EN#135084/other a pose] .
+[/EN#135083/people Two people] on [/EN#135085/scene stage] performing [/EN#135086/other a dance] .
+[/EN#135083/people Two dancers] are performing on [/EN#135085/scene stage] .

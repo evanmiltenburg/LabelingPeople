@@ -1,0 +1,5 @@
+[/EN#143405/people The surgeon] in [/EN#143413/clothing the blue scrubs] with [/EN#143414/clothing white gloves] is cutting [/EN#143411/other something] in [/EN#143407/people the patient] and wiping [/EN#143408/other the blood] off on [/EN#143409/other the gauze] to keep [/EN#143410/other his scissors] clean .
+[/EN#143405/people A surgeon] is working on [/EN#143407/people a patient] using [/EN#143412/other surgical tools] .
+[/EN#143405/people A surgeon] is performing [/EN#143406/other a medical procedure] .
+[/EN#143405/people A doctor] is performing [/EN#143406/other a surgery] .
+[/EN#143405/people A doctor] is performing [/EN#143406/other surgery] .

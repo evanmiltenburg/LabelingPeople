@@ -1,0 +1,5 @@
+[/EN#148902/people Man] in [/EN#148911/clothing brown jacket] with [/EN#148907/bodyparts/people his arm] around [/EN#148906/people person] in [/EN#148912/clothing black jacket] at [/EN#148905/scene flower shop]
+[/EN#148902/people The man] has [/EN#148907/bodyparts/people his arm] on [/EN#148906/people the woman] as [/EN#0/notvisual they] shop in [/EN#148904/scene an outdoor market] .
+[/EN#148902/people The man] has [/EN#148907/bodyparts/people his arm] around [/EN#148906/people the woman] in [/EN#148904/scene a flower market] .
+[/EN#148909/people People] are waiting outside [/EN#148903/scene a lawn] and [/EN#148910/people garden seller] .
+[/EN#148908/people A couple] shopping for [/EN#148913/other plants] and [/EN#148914/other flowers] .

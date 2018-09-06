@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#942/scene a skyscraper] in [/EN#0/notvisual the distance] with [/EN#941/people a man] walking in front of [/EN#0/notvisual the camera] .
+Behind [/EN#941/people the man] in [/EN#944/clothing a red shirt] stands [/EN#942/scene a large skyscraper] .
+[/EN#941/people A man] stands in front of [/EN#942/scene a very tall building] .
+[/EN#941/people a man] is standing in front of [/EN#942/scene a skyscraper]
+[/EN#941/people A man] stands in front of [/EN#942/scene a skyscraper] .

@@ -1,0 +1,5 @@
+[/EN#24647/people A fighter] attempts to kick [/EN#24653/people another fighter] while [/EN#24653/scene the other fighter blocks] [/EN#24650/other his kick] .
+[/EN#24647/people Two men] kickbox in [/EN#24651/clothing a ring] , [/EN#24647/people one man] punching [/EN#24653/other the other] .
+[/EN#24647/people a boxer] punches [/EN#24647/people a boxer] in [/EN#24657/bodyparts the face] .
+[/EN#24652/other a kickboxer] jumping for [/EN#24650/other a kick]
+[/EN#24647/people Two boxers] are in [/EN#24651/clothing the ring] .

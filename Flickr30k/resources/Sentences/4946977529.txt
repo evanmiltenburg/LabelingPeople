@@ -1,0 +1,5 @@
+[/EN#221939/people Some people] are standing on [/EN#221940/scene the fire escape of their building] looking over at [/EN#221947/other some black smoke] in [/EN#0/notvisual the distance] .
+[/EN#221939/people People] are standing on [/EN#221940/scene a fire escape] watching [/EN#221943/other black smoke billow] in [/EN#0/notvisual the distance] .
+[/EN#221939/people Two men] and [/EN#221946/people a woman] watching [/EN#221943/other smoke] pour from [/EN#221941/scene a nearby building] .
+[/EN#221939/people Three people] are standing on [/EN#221940/scene a fire escape] .
+[/EN#221939/people People] watch [/EN#221945/other a fire] from [/EN#221942/scene their balcony] .

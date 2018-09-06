@@ -1,0 +1,5 @@
+[/EN#11029/people Three people] are walking and [/EN#11030/people two people] are jogging along [/EN#11031/scene a cleared path] near [/EN#11032/other several trees] .
+[/EN#11030/people Two females] are running up [/EN#11031/scene a dirt hill] , while [/EN#11029/people three men] walk down .
+[/EN#11030/people Two women] are jogging and [/EN#11029/people three men] are walking on [/EN#11031/scene a dirt trail] .
+[/EN#11029/people A group of men] hiking while [/EN#11030/people two women] are running up [/EN#11031/scene the hill] .
+[/EN#11029/people Three men] walk down [/EN#11031/scene a hill] while [/EN#11030/people two women] are running up [/EN#0/notvisual it] .

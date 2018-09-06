@@ -1,0 +1,5 @@
+[/EN#80314/people A man] with [/EN#80323/bodyparts gray hair] and [/EN#80324/bodyparts a black mustache] is wearing [/EN#80317/clothing a tan button-down short-sleeved shirt] , [/EN#80318/clothing blue capri pants] , and [/EN#80321/clothing sandals] while standing on [/EN#80312/scene the sidewalk] .
+[/EN#80316/people Three men] in [/EN#80319/clothing casual dress] sitting on [/EN#80313/other a stone wall] with [/EN#80314/other one more] standing near .
+[/EN#80311/people A group of four men] sit together on [/EN#80322/other stone steps] .
+[/EN#80311/people a group of people] gathered by [/EN#80313/other a stone wall] .
+[/EN#80314/people Four men] socializing on [/EN#80312/scene a sidewalk] .

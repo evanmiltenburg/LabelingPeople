@@ -1,0 +1,5 @@
+[/EN#226763/people A lady] wearing [/EN#226766/clothing a purple dress] appears to be amish , [/EN#0/notvisual she] is hooking up [/EN#226765/vehicles a carriage] to [/EN#226764/animals a brown and white spotted horse] .
+[/EN#226763/people An Amish woman] wearing [/EN#226766/clothing a purple dress] stands next to [/EN#226764/animals a horse] pulling [/EN#226767/other something] .
+[/EN#226763/people An Amish lady] is preparing [/EN#226764/animals a Clydesdale horse] to hook up to [/EN#226765/vehicles a carriage] .
+[/EN#226763/people An Amish woman] in [/EN#226766/clothing purple] is attached [/EN#226765/vehicles a buggy] to [/EN#226764/animals a horse] .
+[/EN#226763/people An Amish woman] is preparing [/EN#226764/animals a horse] to pull [/EN#226765/vehicles her buggy] .

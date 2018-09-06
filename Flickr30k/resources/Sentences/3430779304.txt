@@ -1,0 +1,5 @@
+[/EN#117701/people Two cowboys] rope [/EN#117702/animals a steer] from [/EN#117704/other horseback] in [/EN#117703/scene an indoor corral] .
+[/EN#117701/people Two cowboys] on [/EN#117704/other horseback] lasso [/EN#117702/animals a young calf] to [/EN#0/notvisual the ground] .
+[/EN#117701/people Two men] ride [/EN#117705/animals horses] and [/EN#117702/animals a calf] runs between [/EN#0/notvisual them] .
+[/EN#117701/people Two cowboys] on [/EN#117705/animals horses] wrangle [/EN#117702/animals a calf] in [/EN#117706/other a rodeo] .
+[/EN#117701/people Two people] on [/EN#117705/animals horses] chasing [/EN#117702/animals cow] in [/EN#117703/scene an arena] .

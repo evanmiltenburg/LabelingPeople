@@ -1,0 +1,5 @@
+[/EN#54650/people The boy] wearing [/EN#54651/clothing the blue shirt] is running on [/EN#54652/scene the grass] between [/EN#54654/other the trees] .
+[/EN#54650/people A young child] in [/EN#54651/clothing a white shirt] is standing in [/EN#54652/scene a field of green grass]
+[/EN#54650/people A boy] poses on [/EN#54652/scene a shadow-dappled lawn] .
+[/EN#54650/people A boy] running through [/EN#54652/scene green grass] .
+[/EN#54650/people A child] runs through [/EN#54652/scene the grass] .

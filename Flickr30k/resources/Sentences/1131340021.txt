@@ -1,0 +1,5 @@
+[/EN#3378/people The little boy] , in [/EN#3379/clothing a short-sleeved shirt] and [/EN#3380/clothing shorts] , is running outside .
+[/EN#3378/people The little boy] is wearing [/EN#3379/clothing a black pinstripe shirt] and walking on [/EN#3382/other a deck] .
+[/EN#3378/people Little boy] in [/EN#3379/clothing a striped shirt] and [/EN#3380/clothing brown shorts] is running .
+[/EN#3378/people Young boy] running outside on [/EN#3382/scene the pavement] .
+[/EN#3378/people A young boy] runs while wearing [/EN#3381/clothing sandals] .

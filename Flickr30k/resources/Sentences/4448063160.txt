@@ -1,0 +1,5 @@
+[/EN#169308/people A woman] with [/EN#169315/bodyparts a ponytail] in [/EN#169310/clothing a leather jacket] is standing outside of [/EN#169309/scene a store] [/EN#0/notvisual that] says " Since [/EN#169306/other 1889] . "
+[/EN#169308/people A brunette woman] wearing [/EN#169310/clothing a black leather jacket] is holding [/EN#169311/clothing a purple handbag] on [/EN#169313/scene a sidewalk] .
+[/EN#169308/people A blond woman] is standing outside [/EN#169309/scene a Modell 's store] with [/EN#169311/clothing a large tote bag] .
+[/EN#169308/people A woman] stands in front of [/EN#169307/other a store sign] [/EN#0/notvisual that] reads [/EN#169307/other " SINCE 1889] " .
+[/EN#169308/people A woman] stands outside [/EN#169309/scene a store] while [/EN#169314/people other people] pass by .

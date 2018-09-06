@@ -1,0 +1,5 @@
+[/EN#192064/people Person] in [/EN#192069/clothing nun clothing] rides [/EN#192065/vehicles a tall bike] in [/EN#192067/scene the middle of the street] , with [/EN#192068/vehicles a blue bike] coming up behind [/EN#0/notvisual them] .
+[/EN#0/notvisual There] is [/EN#192063/people a person] riding [/EN#192065/vehicles a tall bike] , in front of [/EN#192066/vehicles/scene a purple bus] .
+[/EN#192063/people A nun] is riding [/EN#192065/vehicles a bicycle] , in front of [/EN#192066/vehicles/scene a purple bus] .
+[/EN#192064/people Humorous photo of a nun] riding [/EN#192065/vehicles a large bicycle]
+[/EN#192063/people A person] is riding [/EN#192065/vehicles a bike] down [/EN#192067/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#127248/people A small girl] , wearing [/EN#127250/clothing a pink top and jeans] , stands on [/EN#127249/scene a field] , with [/EN#127253/other others] in [/EN#0/notvisual the background] .
+[/EN#127248/people A small white-skinned girl] in [/EN#127250/clothing a pink top and jeans] stands on [/EN#127249/scene a soccer field] .
+[/EN#127248/people A young girl] in [/EN#127252/clothing blue jeans] and [/EN#127251/clothing a red shirt] is in [/EN#127249/scene the green grass] .
+[/EN#127248/people Girl] in [/EN#127251/clothing pink top] dancing in [/EN#127249/scene a field] .
+[/EN#127248/people A young girl] smiles in [/EN#127249/scene a field] .

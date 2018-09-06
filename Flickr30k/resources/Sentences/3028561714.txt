@@ -1,0 +1,5 @@
+[/EN#88609/animals The white and brown dog] is running quickly through [/EN#88610/scene the grass] .
+[/EN#88609/animals A white and brown dog] is leaping through [/EN#0/notvisual the air] .
+[/EN#88609/animals The white and brown dog] runs across [/EN#88610/scene the grass] .
+[/EN#88609/animals A white and brown dog] runs in [/EN#88611/scene a field] .
+[/EN#88609/animals a white dog] jumps into [/EN#0/notvisual the air] .

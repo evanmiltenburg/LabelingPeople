@@ -1,0 +1,5 @@
+[/EN#246459/people A girl] wearing [/EN#246460/clothing a baseball cap] , [/EN#246464/clothing white t-shirt] and [/EN#246462/clothing blue shorts] is standing in [/EN#246463/scene a rock-bottomed , forest-lined mountain stream] .
+[/EN#246459/people A young girl] in [/EN#246464/clothing a white t-shirt] and [/EN#246462/clothing a blue skirt] wearing [/EN#246460/clothing a light colored hat] stands in [/EN#246463/scene a river] next to [/EN#246461/other a big rock] .
+[/EN#246459/people A young girl] is stranded in front of [/EN#246461/other a large rock] in [/EN#246463/scene the middle of a river] .
+[/EN#246459/people A woman] in [/EN#246462/clothing blue shorts] is walking near [/EN#246461/other a large rock] in [/EN#246463/scene a shallow river] .
+[/EN#246459/people Person] in [/EN#246464/clothing white shirt] and [/EN#246462/clothing blue shorts] in [/EN#246463/scene the water] next to [/EN#246461/other a big rock] .

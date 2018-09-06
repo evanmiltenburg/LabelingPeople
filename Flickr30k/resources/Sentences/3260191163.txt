@@ -1,0 +1,5 @@
+[/EN#105170/animals Two large brown dogs] run along [/EN#105171/scene a field] playfully .
+[/EN#105170/animals Two brown dogs] are wrestling in [/EN#105171/scene a grassy field] .
+[/EN#105170/animals Two brown dogs] are playing in [/EN#105171/scene a field] .
+[/EN#105170/animals Two dogs] run across [/EN#105171/scene the grassy field] .
+[/EN#105170/animals Two brown dogs] play or fight .

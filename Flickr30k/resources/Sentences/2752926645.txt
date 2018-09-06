@@ -1,0 +1,5 @@
+[/EN#70711/people A young man] stands against [/EN#70712/other a tree] drinking from [/EN#70713/other a cup] .
+[/EN#70711/people A man] stands against [/EN#70712/other a tree] while holding [/EN#70714/other a drink] .
+[/EN#70711/people a man] leans against [/EN#70712/other a tree] with [/EN#70715/other a beer] in [/EN#70716/bodyparts hand] .
+[/EN#70711/people The man] is holding [/EN#70714/other a drink] at [/EN#70717/scene an event] .
+[/EN#70711/people A young man] drinks near [/EN#70712/other a tree] .

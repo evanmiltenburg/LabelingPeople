@@ -1,0 +1,5 @@
+[/EN#220466/people a man] wearing [/EN#220472/clothing a hat] , [/EN#220475/clothing sunglasses] , [/EN#220474/clothing gloves] and [/EN#220468/clothing a jacket] holds [/EN#220469/other a shovel] on [/EN#220473/scene a snowy street] in front of [/EN#220467/vehicles a gray nissan Altima] .
+[/EN#220466/people A man] is shoveling [/EN#220470/scene snow] next to [/EN#220467/vehicles a Nissan Altima] with [/EN#220471/other New Jersey plates] .
+[/EN#220466/people A man] in [/EN#220468/clothing a blue jacket] shoveling [/EN#220470/scene snow] around [/EN#220467/vehicles a Nissan Altima] .
+[/EN#0/notvisual This] is [/EN#220466/people a man] shoveling [/EN#220470/scene snow] , next to [/EN#220467/vehicles a car] .
+[/EN#220466/people Man] standing in [/EN#220470/scene snow] holding [/EN#220469/other a snow shovel] .

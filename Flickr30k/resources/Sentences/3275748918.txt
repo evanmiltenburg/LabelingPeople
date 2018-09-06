@@ -1,0 +1,5 @@
+[/EN#106324/people The brown headed boy] on [/EN#106325/vehicles his scooter] is going to [/EN#106326/scene the toy store] after [/EN#106330/other school] .
+[/EN#106324/people A young boy] dressed in [/EN#106327/clothing a black jacket] [/EN#0/notvisual it] riding [/EN#106325/vehicles a scooter] on [/EN#106329/scene the sidewalk] .
+[/EN#106324/people A boy] in [/EN#106328/clothing a school uniform] is riding [/EN#106325/vehicles his scooter] .
+[/EN#106324/people A boy] on [/EN#106325/vehicles a scooter] outside [/EN#106326/scene a toy store] .
+[/EN#106324/people A male child] riding [/EN#106325/vehicles a scooter] .

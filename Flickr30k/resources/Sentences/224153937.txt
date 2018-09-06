@@ -1,0 +1,5 @@
+[/EN#36256/people A crowd of people] walking around on [/EN#36255/scene an old English-style street] .
+[/EN#36256/people Many tourist] walk [/EN#36257/scene the cobblestone streets] in [/EN#36258/scene the evening] .
+[/EN#36255/other A view of a European cityscape full] of [/EN#36256/people many passersby] .
+[/EN#0/notvisual There] are [/EN#36256/people lots of people] in [/EN#36257/scene the streets] .
+[/EN#36255/scene A blurry image of a crowded street] .

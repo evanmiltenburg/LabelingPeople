@@ -1,0 +1,5 @@
+[/EN#119264/people A man] in [/EN#119268/clothing blue coat] , snowboarding down [/EN#119266/scene a mountain] , in [/EN#0/notvisual midair jump] .
+[/EN#119264/people A person] in [/EN#119268/clothing blue] on [/EN#119267/other a snowboard] during [/EN#0/notvisual a jump] .
+[/EN#119264/people Man] snowboarding down [/EN#119266/scene a mountain] .
+[/EN#119264/people A snowboarder] riding downhill
+[/EN#119264/people A guy] on [/EN#119267/other a snowboard] .

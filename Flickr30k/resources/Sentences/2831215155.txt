@@ -1,0 +1,5 @@
+[/EN#75367/vehicles An SUV] is parked in [/EN#75368/scene a grassy field] with [/EN#75369/scene mountains] in [/EN#0/notvisual the background] , and [/EN#75370/people a woman] is looking through [/EN#75371/other a telescope] off into [/EN#0/notvisual the distance] .
+[/EN#75370/people A person] holding [/EN#75371/other a piece of equipment] up to [/EN#75374/bodyparts her eyes] is standing in [/EN#75368/scene a large meadow] near [/EN#75367/vehicles a blue vehicle] .
+[/EN#75370/people A woman] is looking through [/EN#75371/other binoculars] while standing in front of [/EN#75367/vehicles a car] [/EN#0/notvisual that] is parked near [/EN#75369/scene mountains] .
+[/EN#75370/people A person] in [/EN#75368/scene a field] looks through [/EN#75371/other a telescope] while [/EN#75367/vehicles a blue car] approaches or waits .
+[/EN#75370/people A woman] stands in [/EN#75368/scene a field] near [/EN#75367/vehicles a car] , and looks through [/EN#75371/other binoculars] .

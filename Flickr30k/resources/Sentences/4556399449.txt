@@ -1,0 +1,5 @@
+[/EN#178126/people A man] riding [/EN#178129/vehicles/scene the subway] with [/EN#178127/other an open book] startlingly looking on .
+[/EN#178126/people A man] [/EN#0/notvisual that] is standing on [/EN#178128/vehicles/scene the train] is reading [/EN#178127/other a book] .
+[/EN#178126/people A man] with [/EN#178132/bodyparts a shaved head] is reading [/EN#178127/other a book] on [/EN#178129/vehicles/scene a train] .
+[/EN#178126/people A man] surrounded by [/EN#178131/other others] in [/EN#178129/vehicles/scene a subway train] .
+[/EN#178130/people A group of people] riding on [/EN#178128/vehicles/scene a crowded bus] .

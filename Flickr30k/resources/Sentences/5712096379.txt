@@ -1,0 +1,5 @@
+[/EN#241458/people A man] wearing [/EN#241459/clothing bright orange construction vest] washing down [/EN#241461/vehicles/scene a train] with [/EN#241463/other nothing but a long handled scrubber] and [/EN#241460/other a wash bucket]
+[/EN#241458/people Maintenance worker] cleaning [/EN#241461/vehicles/scene the side of a red and white train] .
+[/EN#241458/people A man] in [/EN#241459/clothing an orange vest] is standing behind [/EN#241460/other a red bucket] .
+[/EN#241458/people A worker] washers [/EN#241461/vehicles/scene the side of a train] with [/EN#241463/other a brush] .
+[/EN#241462/vehicles/scene A city worker clean outside window of a train] .

@@ -1,0 +1,5 @@
+[/EN#197201/people A young girl] is stroking [/EN#197202/animals a white bunny rabbit] [/EN#0/notvisual that] is sitting in [/EN#197205/bodyparts her lap] .
+[/EN#197201/people A brown-haired woman] wearing [/EN#197203/clothing a silver watch] is petting [/EN#197202/animals a white rabbit] .
+[/EN#197201/people A young woman] is stroking [/EN#197202/animals the white rabbit] [/EN#0/notvisual that] is sitting on [/EN#197204/bodyparts her leg] .
+[/EN#197201/people A woman] in [/EN#197204/clothing blue jeans] is siting petting [/EN#197202/animals a rabbit] .
+[/EN#197202/animals Rabbits] can be [/EN#197202/animals pets] [/EN#197208/other not just food] .

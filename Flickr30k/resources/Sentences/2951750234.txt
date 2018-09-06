@@ -1,0 +1,5 @@
+[/EN#83614/people A person] wearing [/EN#83619/clothing a navy jacket] and [/EN#83620/clothing black hat] jumping over [/EN#83616/other a small partition] on [/EN#83615/animals a horse] .
+[/EN#83614/people A show jumper] is making [/EN#0/notvisual a brown horse jump] over [/EN#83621/scene a white fence] .
+[/EN#83614/people An equestrian] and [/EN#83615/animals a horse] are jumping over [/EN#83616/other an obstacle] .
+[/EN#83614/people A jockey] on [/EN#83615/animals a black horse] jumps over [/EN#83616/other a hurdle] .
+[/EN#83614/people A woman] on [/EN#83615/animals a horse] jumps [/EN#83616/other an obstacle] .

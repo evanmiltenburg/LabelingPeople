@@ -1,0 +1,5 @@
+[/EN#144607/people A woman] in [/EN#144610/clothing a blue jacket] , wearing [/EN#144609/clothing a blue hat] , drinking from [/EN#144608/other a blue cup] is sitting in [/EN#144613/scene a tent] .
+[/EN#144607/people A woman] wearing [/EN#144610/clothing a blue jacket] and [/EN#144609/clothing a blue hat] [/EN#0/notvisual who] is drinking [/EN#144608/other tea] out of [/EN#144608/other a blue mug] .
+[/EN#144607/people A woman] in [/EN#144610/clothing a blue jacket] is drinking [/EN#144612/other tea] from [/EN#144608/other a cup] .
+[/EN#144607/people A woman] in [/EN#144610/clothing a blue jacket] and [/EN#144609/clothing hat] drinking [/EN#144608/other hot tea] .
+[/EN#144607/people A woman] dressed in [/EN#144610/clothing a blue jacket] , sipping [/EN#144608/other tea] .

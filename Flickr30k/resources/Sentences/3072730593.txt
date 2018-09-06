@@ -1,0 +1,5 @@
+[/EN#91493/people The woman] is wearing [/EN#91495/clothing a red hat] [/EN#0/notvisual that] is decorated with [/EN#91494/clothing a huge orange feather] .
+[/EN#91493/people A woman] is wearing [/EN#91495/clothing a velvet burgundy hat] with [/EN#91494/clothing a large peach feather] .
+[/EN#91493/people A woman] is dressed in [/EN#91496/clothing a costume] with [/EN#91494/clothing a huge feather] in [/EN#91495/clothing her hat] .
+[/EN#91493/people a young woman] wearing [/EN#91495/clothing a purple hat] with [/EN#91494/clothing a pink feather] in [/EN#0/notvisual it]
+[/EN#91493/people A woman] with [/EN#91494/clothing a feather] on [/EN#91495/clothing her hat] .

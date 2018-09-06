@@ -1,0 +1,5 @@
+[/EN#23412/people Three People] shopping in [/EN#23413/other an isle] in [/EN#23416/scene a foreign grocery store] .
+[/EN#23414/people A man] pushing [/EN#23415/vehicles a carriage] peruses [/EN#23417/other the goods] sold at [/EN#23416/scene a store] .
+[/EN#23414/people Man] pushing [/EN#23415/vehicles shopping cart] in [/EN#23416/scene a grocery store] and shopping .
+[/EN#23414/people An old man] shops in [/EN#23416/scene a foreign grocery store] .
+[/EN#23412/people 3 people] are shopping in [/EN#23416/scene a market] .

@@ -1,0 +1,5 @@
+[/EN#86402/people A young girl] lighting [/EN#86406/other candles] among [/EN#86407/other the flowers] at [/EN#86408/scene a cemetery] .
+[/EN#86402/people Girl] in [/EN#86404/clothing orange shirt] lighting [/EN#86403/other white candles] .
+[/EN#86402/people A girl] wearing [/EN#86404/clothing orange] is lighting [/EN#86403/other a candle] .
+[/EN#86402/people A girl] in [/EN#86404/clothing an orange shirt] lights [/EN#86406/other candles] .
+[/EN#86402/people A girl] in [/EN#86404/other orange lights] [/EN#86403/other a candle] .

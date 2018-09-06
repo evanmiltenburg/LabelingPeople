@@ -1,0 +1,5 @@
+[/EN#85665/people A woman] in [/EN#85667/clothing a pink shirt] and [/EN#85671/clothing khaki shorts] looks over [/EN#85674/bodyparts a crumbling rock face] overlooking [/EN#85666/scene a large forested area] .
+[/EN#85665/people A woman] holding [/EN#85670/clothing a purse] stands at [/EN#85668/other the edge of a rocky ledge] and looks out at [/EN#85673/other the trees] .
+[/EN#85665/people A woman] stands at [/EN#85668/scene the edge of a cliff] overlooking [/EN#85672/scene the mountains] .
+[/EN#85665/people A woman] in [/EN#85667/clothing a red shirt] stands on [/EN#85669/other a monument] above [/EN#85666/scene a forest] .
+[/EN#85665/people A woman] stands next to [/EN#85666/scene a big , green hill] .

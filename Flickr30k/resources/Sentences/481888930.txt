@@ -1,0 +1,5 @@
+[/EN#206814/people A woman] with [/EN#206816/clothing a green top] and [/EN#206817/clothing black skirt] sweeps [/EN#206821/other trash] up with [/EN#206815/other a red-handled broom] .
+[/EN#206814/people A woman] with [/EN#206819/clothing sneakers] and [/EN#206817/clothing a skirt] is sweeping out [/EN#206818/scene a storage building] .
+[/EN#206814/people A woman] wearing [/EN#206817/clothing a skirt] and [/EN#206816/clothing t-shirt] sweeps out [/EN#206818/scene a storage area] .
+[/EN#206814/people Girl] wearing [/EN#206819/clothing tennis shoes] sweeping [/EN#206820/scene floor] with [/EN#206815/other a broom] .
+[/EN#206814/people A woman] is sweeping up [/EN#206821/other garbage] .

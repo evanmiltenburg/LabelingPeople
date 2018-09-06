@@ -1,0 +1,5 @@
+[/EN#112238/people A teenage boy] [/EN#112245/other in] rides [/EN#112240/other a hand-railing] on [/EN#112244/other a skateboard] outside [/EN#112243/scene a columned brick building] .
+[/EN#112238/people A boy] in [/EN#112239/clothing a blue and white tie dye t-shirt] is skateboarding on [/EN#112240/scene the railing of a building] .
+[/EN#112238/people A boy] in [/EN#112239/clothing a tie dyed shirt] is riding [/EN#112241/other a skateboard] down [/EN#112240/other a railing] .
+[/EN#112238/people A skateboarder] goes down [/EN#112240/other a stair railing] .
+[/EN#112238/people A kid] is skateboarding on [/EN#112240/other a handrail] .

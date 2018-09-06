@@ -1,0 +1,5 @@
+[/EN#162631/people Two women] in [/EN#162633/clothing security uniforms] in [/EN#162632/scene a hallway] , [/EN#162630/other one] is sweeping .
+[/EN#162630/people A girl] cleans [/EN#162632/scene a blue and white hallway] with [/EN#162634/other a red broom] .
+[/EN#162630/people a girl] wearing [/EN#162635/clothing all black] is holding [/EN#162634/other a red push broom]
+[/EN#162631/people Two women] [/EN#0/notvisual they] are both wearing [/EN#162633/clothing a dark blue uniform]
+[/EN#162630/people A woman cop] sweeping [/EN#162637/scene the floor] .

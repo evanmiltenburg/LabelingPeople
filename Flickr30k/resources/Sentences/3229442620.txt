@@ -1,0 +1,5 @@
+[/EN#102779/animals A white and beige colored bird] is flying over [/EN#102782/scene a sandy beach] .
+[/EN#102779/animals An eagle] is coming in for [/EN#102783/scene a landing] on [/EN#102782/scene the beach] .
+[/EN#102779/animals A large brown and white bird] flying over [/EN#102780/scene land] .
+[/EN#102779/animals A large bird] swooping down towards [/EN#0/notvisual the ground] .
+[/EN#102779/animals A bird] flying over [/EN#102780/other some sand] .

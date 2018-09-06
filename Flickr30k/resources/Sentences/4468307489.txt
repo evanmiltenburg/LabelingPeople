@@ -1,0 +1,5 @@
+[/EN#171006/people Little boy] in [/EN#171007/clothing a black hockey sweater] , racking in [/EN#171008/scene a dirt yard] .
+[/EN#171006/people A young boy] in [/EN#171007/clothing a black shirt] is raking [/EN#171010/scene dirt] in [/EN#171008/scene a yard] .
+[/EN#171006/people A boy] wearing [/EN#171007/clothing a hockey sweatshirt] is raking [/EN#171008/scene the yard] .
+[/EN#171006/people A young boy] works [/EN#171008/other the soil] in [/EN#171008/scene his yard] .
+[/EN#171006/people A boy] raking [/EN#171008/other the soil] to cultivate .

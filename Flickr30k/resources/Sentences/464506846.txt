@@ -1,0 +1,5 @@
+[/EN#186111/animals a black dog] is running across [/EN#186112/scene a grassy field] in front of [/EN#186113/scene some bushes] .
+[/EN#186111/animals The black dog] leaps into [/EN#0/notvisual the air] in [/EN#186112/scene the grass] .
+[/EN#186111/animals A muzzled greyhound] leaps over [/EN#0/notvisual grassy ground] .
+[/EN#186111/animals A dog] in [/EN#186112/scene a grassy park] jumping and playing .
+[/EN#186111/animals A dog] with [/EN#186115/clothing a muzzle] on .

@@ -1,0 +1,5 @@
+[/EN#912/people The man] with [/EN#916/clothing the backpack] is sitting in [/EN#914/scene a buildings courtyard] in front of [/EN#915/other an art sculpture] reading .
+[/EN#912/people A man] in [/EN#918/clothing black] is sitting next to [/EN#915/other a modern art structure] in front of [/EN#914/scene a glass building] .
+[/EN#912/people A man] sits and reads [/EN#917/other a newspaper] by [/EN#915/other a sculpture] outside of [/EN#913/scene an office building] .
+[/EN#912/people A man] sitting in front of [/EN#915/other a metal sculpture] in front of [/EN#913/scene a building] .
+[/EN#912/people a man] sits near [/EN#915/other a large statue] .

@@ -1,0 +1,5 @@
+[/EN#19940/animals A brown and white dog] exiting [/EN#19942/scene a yellow and blue ramp] in [/EN#19943/scene a grassy area] .
+[/EN#19940/animals A brown a white dog] runs down [/EN#19942/scene a yellow and blue ramp] .
+[/EN#19940/animals A brown and white dog] running off of [/EN#19941/other an obstacle] .
+[/EN#19940/animals This dog] is done running down [/EN#19941/other the yellow board] .
+[/EN#19940/animals A brown and white dog] is running down [/EN#19942/scene a ramp] .

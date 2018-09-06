@@ -1,0 +1,5 @@
+[/EN#136451/people A man] in [/EN#136454/clothing a blue shirt] and [/EN#136458/clothing striped tie] is walking near [/EN#136455/other the sewer lid] .
+[/EN#136451/people A man] wearing [/EN#136452/clothing a suit] and [/EN#136457/clothing eyeglasses] is walking on [/EN#136453/scene a sidewalk] .
+[/EN#136451/people A man] in [/EN#136452/clothing a business suit] walking on [/EN#136453/scene the sidewalk] .
+[/EN#136451/people Man] in [/EN#136452/clothing suit jacket] and tie walking .
+[/EN#136451/people The old man] is taking [/EN#136456/other a stroll] .

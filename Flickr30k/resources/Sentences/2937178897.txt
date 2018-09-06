@@ -1,0 +1,5 @@
+[/EN#82592/vehicles This vehicle] has [/EN#82590/people people] hanging on [/EN#82599/scene the outside] as [/EN#0/notvisual it] is driving down [/EN#82591/scene a road] .
+[/EN#82590/people Several people] are riding on [/EN#82592/other back] and [/EN#82592/vehicles sides of a car] .
+[/EN#82590/people Several people crowd] on [/EN#82592/vehicles a truck] going down [/EN#82591/scene the road]
+[/EN#82596/people Three boys] riding on [/EN#82592/vehicles the back of a truck] .
+[/EN#82590/people People] ride on [/EN#82592/vehicles the back of a vehicle] .

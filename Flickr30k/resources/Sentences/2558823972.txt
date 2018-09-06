@@ -1,0 +1,5 @@
+[/EN#58020/people A woman] is riding [/EN#58021/vehicles a moped] on [/EN#58022/scene a street] with [/EN#58019/people many other people] riding [/EN#58023/vehicles mopeds] behind [/EN#0/notvisual her] , while [/EN#58028/other streamers] and [/EN#58025/other banners] hang in [/EN#58029/other the trees] overhead .
+[/EN#58020/people A woman] riding [/EN#58021/vehicles a scooter] is in front of [/EN#58019/people many other people] riding [/EN#58023/vehicles scooters] down [/EN#58022/scene the street] .
+[/EN#58019/people A group of people] riding on [/EN#58026/other motorcycles] down [/EN#58022/scene the road] wearing [/EN#58024/clothing helmets] .
+[/EN#0/notvisual There] are [/EN#58019/people many people] wearing [/EN#58024/clothing helmets] riding on [/EN#58023/vehicles bikes] .
+[/EN#58019/people Some people] riding [/EN#58027/vehicles scooters] in [/EN#58022/scene the street] .

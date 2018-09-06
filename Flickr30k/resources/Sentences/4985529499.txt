@@ -1,0 +1,5 @@
+[/EN#226166/people A man] in [/EN#226167/clothing a black leather jacket] was eating [/EN#226168/other an ice cream cone] while waiting for [/EN#226172/vehicles/scene a transit train] to arrive .
+[/EN#226166/people A man] dressed in [/EN#226173/clothing black and white] is standing on [/EN#226169/scene the side of the street] eating [/EN#226168/other an ice cream cone] .
+[/EN#226166/people A man] in [/EN#226167/clothing a black coat] is standing on [/EN#226169/scene a street] while eating [/EN#226168/other ice cream] .
+[/EN#226166/people A man] is eating [/EN#226168/other an ice cream cone] across [/EN#226169/scene the street] from [/EN#226170/other a bus stop] .
+[/EN#226166/people A man] on [/EN#226171/other a cobblestone walk] eating [/EN#226168/other an ice cream cone] .

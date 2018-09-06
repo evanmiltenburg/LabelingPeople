@@ -1,0 +1,5 @@
+[/EN#156877/people A man] in [/EN#156879/clothing a raincoat] puts [/EN#156886/bodyparts his hand] out while standing outside in front of [/EN#156878/other a large advertisement] on [/EN#156885/scene the side of a building] .
+[/EN#156877/scene Man outside] in [/EN#156880/other the rain] promoting [/EN#156882/other a 50 %] off [/EN#156878/other sale] .
+[/EN#156877/people A man] is waving as [/EN#0/notvisual he] is crossing [/EN#156883/scene the street] .
+[/EN#156877/people Person] in [/EN#156879/clothing raincoat] pointing to [/EN#156884/other sales sign] .
+[/EN#156877/people A man] is directing [/EN#156887/vehicles traffic] in [/EN#156880/other the rain] .

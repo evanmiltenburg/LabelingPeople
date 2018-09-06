@@ -1,0 +1,5 @@
+[/EN#102077/people A cyclist] is jumping off [/EN#102078/scene a wooden ramp] beside [/EN#102079/other an arched window] .
+[/EN#102077/people A young man] in [/EN#102080/clothing black] takes [/EN#0/notvisual a jump] off [/EN#102078/scene a wooden bike ramp] .
+[/EN#102077/people A man] in [/EN#102080/clothing black] rides [/EN#102081/vehicles a bike] on [/EN#102078/scene a wooden ramp] .
+[/EN#102077/people A bike rider] in [/EN#0/notvisual the air] above [/EN#102078/scene a ramp] .
+[/EN#102077/people a bmx rider] jumps off [/EN#102078/scene a ramp] .

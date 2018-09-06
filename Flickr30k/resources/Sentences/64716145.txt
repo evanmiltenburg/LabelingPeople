@@ -1,0 +1,5 @@
+[/EN#254632/people A man] , covered in [/EN#254632/other an orange blanket] , is sleeping on [/EN#254634/scene a sidewalk] next to [/EN#254636/other a cup] with [/EN#254639/other change] in [/EN#0/notvisual it] .
+[/EN#254632/people A person] is sleeping on [/EN#254634/scene the sidewalk] with [/EN#254637/clothing a hat] , [/EN#254635/clothing backpack] , [/EN#254635/other pillow] , and [/EN#254632/other orange blanket] .
+[/EN#254632/people A man] sleeps outside using [/EN#254635/clothing his bookbag] as [/EN#254635/other a pillow] .
+[/EN#254632/people A man] curls up in [/EN#254632/other an orange blanket] on [/EN#254634/scene the street] .
+[/EN#254632/people Man] in [/EN#254632/other an orange blanket] sleeps on [/EN#254634/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#42131/people An equestrian rider] in [/EN#42134/clothing uniform] jumps [/EN#42130/animals their white horse] over [/EN#42132/scene a fence] .
+[/EN#42130/animals A horse] , ridden by [/EN#42131/people a jockey] , is completing [/EN#0/notvisual a jump] over [/EN#42132/scene a fence] .
+[/EN#42131/people A person] riding [/EN#42130/animals a gray horse] [/EN#0/notvisual who] has just jumped .
+Rider [/EN#42130/animals riding horse] as [/EN#0/notvisual it] jumps over [/EN#42132/scene a fence] .
+[/EN#42131/people A rider] on [/EN#42130/animals a horse] landing from [/EN#0/notvisual a jump] .

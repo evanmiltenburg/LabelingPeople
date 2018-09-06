@@ -1,0 +1,5 @@
+[/EN#232093/animals The dog] is jumping over [/EN#232094/scene a yellow and white fence] on [/EN#232095/other an obstacle course] .
+[/EN#232093/animals A long-haired dog] is jumping over [/EN#232095/other horizontal poles] .
+[/EN#232093/animals A brown dog] races on [/EN#232095/other an obstacle course] .
+[/EN#232093/animals A dog] jumping over [/EN#232095/other hurdles] .
+[/EN#232093/animals A dog] leaps over [/EN#232094/scene the bar] .

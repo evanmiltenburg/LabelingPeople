@@ -1,0 +1,5 @@
+[/EN#172378/people Pedestrians] cross [/EN#172377/scene a street] walking [/EN#172376/scene an avenue] past [/EN#172379/scene a restaurants] , [/EN#172372/other one] pulling [/EN#172373/other a wheeled basket] and [/EN#172384/other several others] wearing [/EN#172383/clothing purses] .
+[/EN#172372/people A woman] wearing [/EN#172374/clothing a gray coat] , with [/EN#172385/bodyparts brownish hair] , is pulling [/EN#172373/vehicles a basket-like cart] .
+[/EN#172372/people Woman] in [/EN#172374/clothing a gray coat] walks across [/EN#172377/scene street] with [/EN#172373/other a wheeled wicker basket] .
+[/EN#172372/people A woman] with [/EN#172373/other a laundry basket] in [/EN#172373/vehicles a portable cart] takes [/EN#172381/other a stroll] .
+[/EN#172372/people A woman] pull [/EN#172373/other a wicker basket] in [/EN#172376/scene the street] outside of [/EN#172379/other a cafe] .

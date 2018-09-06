@@ -1,0 +1,5 @@
+[/EN#35017/people African American man] with [/EN#35020/clothing shopping bag] standing in [/EN#35016/scene a blue phone booth] .
+[/EN#35017/people Black man] using [/EN#35016/scene a telephone booth] and holding [/EN#35021/bodyparts his hand] to [/EN#35018/other the door] .
+[/EN#0/notvisual There] is [/EN#35017/people a person] standing inside of [/EN#35016/scene a blue phone booth] .
+[/EN#35016/scene A blue phone booth] sits next to [/EN#35019/other a display window] .
+[/EN#35017/people A person] opening [/EN#35018/scene the door of a phone booth] .

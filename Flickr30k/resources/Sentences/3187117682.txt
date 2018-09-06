@@ -1,0 +1,5 @@
+[/EN#99557/animals A brown and white dog] with [/EN#99565/clothing a black collar] and [/EN#99562/other gold tag] licking [/EN#99561/scene the snow] from [/EN#99558/bodyparts its nose] .
+[/EN#99557/animals The brown and white dog] licks [/EN#99561/scene the snow] off of [/EN#99558/bodyparts his cold nose] .
+[/EN#99557/animals A white and brown dog] licks [/EN#99559/bodyparts his lips] during [/EN#99564/other winter] .
+[/EN#99557/animals A shaggy dog] dusted with [/EN#99561/scene snow] licks [/EN#99560/bodyparts its nose] .
+[/EN#99557/animals A dog] licking [/EN#99559/bodyparts its lips] while [/EN#99563/other snowfalls] .

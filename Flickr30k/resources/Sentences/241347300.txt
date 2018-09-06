@@ -1,0 +1,5 @@
+[/EN#47508/people A football player] wearing [/EN#47505/clothing a number 23 white jersey] tackles [/EN#47504/people a football player] wearing [/EN#47511/other a red , number] [/EN#47505/clothing three jersey] while [/EN#47506/people fans] cheer .
+[/EN#47504/people A football player] being tackled from [/EN#47512/other behind] by [/EN#47504/people another player] from [/EN#47507/people a different team] in front of [/EN#47506/people a crowd] .
+[/EN#47504/people A football player] in [/EN#47505/clothing a Sooners jersey] , runs down [/EN#47510/scene a field] with [/EN#47506/people a large crowd] in [/EN#0/notvisual the background] .
+[/EN#47509/other A football tackle] in [/EN#47513/scene progress] with [/EN#47506/people a crowd] in [/EN#0/notvisual the background] .
+[/EN#47504/people A football player] in [/EN#47505/clothing red] being tackled by [/EN#47507/people opponents] in white .

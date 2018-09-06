@@ -1,0 +1,5 @@
+[/EN#34066/other A painting of a marketplace] with [/EN#34063/people a man] pushing [/EN#34064/vehicles a cart] full of [/EN#34065/other buckets] , [/EN#34072/people some customers] at [/EN#34070/scene a shop] , and [/EN#34068/people a black woman] with [/EN#34073/people two children] .
+[/EN#34063/people A man] is pushing [/EN#34064/vehicles a cart] with [/EN#34065/other wooden barrels] across [/EN#34069/scene an empty street] .
+[/EN#34067/people Men] and [/EN#34074/people women] shopping for [/EN#34071/other food] and working .
+[/EN#34063/people A man] is pushing [/EN#34064/vehicles a cart] with [/EN#34065/other baskets] on [/EN#0/notvisual it] .
+[/EN#34063/people A man] pushing [/EN#34064/vehicles a cart] with [/EN#34065/other baskets] .

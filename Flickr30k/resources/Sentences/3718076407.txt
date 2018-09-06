@@ -1,0 +1,5 @@
+[/EN#139252/animals The little brown dog] is running through [/EN#139253/scene a clover field] with [/EN#139254/other a white object] in [/EN#139255/bodyparts its mouth] .
+[/EN#139252/animals A brown and white dog] is playing with [/EN#139254/other a toy] in [/EN#139253/scene a field of green grass] and [/EN#139257/other clover] .
+[/EN#139252/animals A brown and white dog] retrieving [/EN#139254/other a white plushie toy] in [/EN#139253/other a field of clover] .
+[/EN#139256/other A distorted photo of a] playing [/EN#139252/animals dog] in [/EN#139253/scene a flower field]
+[/EN#139252/animals A dog] in [/EN#139253/scene grass] carrying [/EN#139254/other a toy] in [/EN#139255/bodyparts its mouth] .

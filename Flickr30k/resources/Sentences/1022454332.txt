@@ -1,0 +1,5 @@
+[/EN#654/scene a large lake] with [/EN#651/animals a lone duck] swimming in [/EN#0/notvisual it] with [/EN#659/people several people] around [/EN#0/notvisual the edge of it] .
+[/EN#650/people A young boy] waves [/EN#660/bodyparts his hand] at [/EN#651/animals the duck] in [/EN#654/scene the water] surrounded by [/EN#652/scene a green park] .
+[/EN#655/people Two people] are at [/EN#654/scene the edge of a lake] , facing [/EN#654/scene the water] and [/EN#657/scene the city skyline] .
+[/EN#650/people A child] and [/EN#658/people a woman] are at [/EN#654/scene waters edge] in [/EN#656/scene a big city] .
+[/EN#650/people A little boy] at [/EN#654/scene a lake] watching [/EN#651/animals a duck] .

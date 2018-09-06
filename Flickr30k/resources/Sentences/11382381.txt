@@ -1,0 +1,5 @@
+[/EN#3504/people A woman] wearing [/EN#3505/clothing a green tank top] is working on [/EN#3506/clothing a horse 's shoe] .
+[/EN#3504/people A woman] in [/EN#3505/clothing a green tank top] puts [/EN#3509/other a horseshoe] on [/EN#3507/animals a horse] .
+[/EN#3504/people A woman] in [/EN#3505/clothing a green shirt] is working on [/EN#3508/other a horse 's hoof] .
+[/EN#3504/people A female blacksmith] is shoeing [/EN#3507/animals a horse] .
+[/EN#3504/people A woman] is shoeing [/EN#3507/animals a horse] .

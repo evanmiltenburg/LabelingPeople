@@ -1,0 +1,5 @@
+[/EN#128223/people A bicyclist] is attempting [/EN#0/notvisual a trick] over [/EN#0/notvisual a jump] nearby [/EN#128228/scene a bush] and [/EN#128230/scene wooden building] .
+[/EN#128223/people An extreme cyclist] flying through [/EN#0/notvisual the air] on [/EN#128224/vehicles his green bike] in [/EN#128226/scene a rural area]
+[/EN#128223/people Person] jumping [/EN#128224/vehicles bicycle] off [/EN#128225/scene cliff] beside building on [/EN#128229/scene hill]
+[/EN#128223/people A biker] spins [/EN#128224/vehicles his bike] in [/EN#0/notvisual the air] above [/EN#0/notvisual the ground] .
+[/EN#128223/people A person] on [/EN#128224/vehicles a bike] get airborne .

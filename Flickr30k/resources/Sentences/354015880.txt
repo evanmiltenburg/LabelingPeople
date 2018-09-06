@@ -1,0 +1,5 @@
+[/EN#126069/people A woman] in [/EN#126071/clothing a brown jacket] reads from [/EN#126070/other a book] while riding on [/EN#126072/vehicles public transit] .
+[/EN#126069/people A woman] , riding on [/EN#126072/vehicles public transportation] , reads [/EN#126070/other a book] .
+[/EN#126069/people A woman] sits on [/EN#126073/other a green bench] while reading [/EN#126070/other a book] .
+[/EN#126069/people A woman] sits on [/EN#126074/vehicles/scene a train] and reads intently .
+[/EN#126069/people A woman] in [/EN#126071/clothing a brown coat] is reading [/EN#126070/other a book] .

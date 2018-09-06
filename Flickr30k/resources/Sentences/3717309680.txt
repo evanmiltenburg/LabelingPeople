@@ -1,0 +1,5 @@
+[/EN#139161/people A group of mountain bikers] race [/EN#0/notvisual each other] down [/EN#139162/scene a dirt hill] .
+[/EN#139163/other Four motorcycles] are racing on [/EN#139162/scene a dirt track] .
+[/EN#139161/people Four motorcycle racers] are on [/EN#139162/scene a dirt track] .
+[/EN#139161/people A group of people] do [/EN#0/notvisual tricks] on [/EN#139166/vehicles motorbikes] .
+[/EN#139161/people Dirt bikers] riding off [/EN#0/notvisual a jump] .

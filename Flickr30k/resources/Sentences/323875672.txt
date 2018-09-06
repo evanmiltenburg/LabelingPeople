@@ -1,0 +1,5 @@
+[/EN#103289/people A young woman] cooks [/EN#103290/other a meal] in [/EN#103291/other a wok] while conversing with [/EN#103289/people another woman] , as [/EN#103292/other an illuminated shrine to Mr. T] looks on .
+[/EN#103293/people Two women] are in [/EN#103296/scene a small kitchen] , with [/EN#103297/other a lit] up [/EN#103292/other portrait of Mr. T] in [/EN#0/notvisual the background] .
+[/EN#103293/people Two woman] are standing in [/EN#103296/scene the kitchen] and [/EN#0/notvisual one of them] is holding [/EN#103294/other a sponge] .
+[/EN#103293/people Two women] are in [/EN#103296/scene a kitchen] preparing [/EN#103295/other vegetables] in [/EN#103291/other a wok] .
+[/EN#103293/people Two dark-haired women] are cooking [/EN#103290/other a meal] .

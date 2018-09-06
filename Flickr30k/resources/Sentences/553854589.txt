@@ -1,0 +1,5 @@
+[/EN#238464/people A man] in [/EN#238469/clothing a blue shirt] and [/EN#238465/people a man] in [/EN#238474/other a yellow shirt lie] on [/EN#0/notvisual the ground] in [/EN#238468/scene an alley] along [/EN#238467/other a brick wall] .
+[/EN#238465/people A man] in [/EN#238473/clothing a yellow shirt] and [/EN#238464/people a man] in [/EN#238470/other a blue shirt lie] beside [/EN#238467/scene a brick building] .
+[/EN#238466/people Two people] sleep in [/EN#238472/other an alleyway] in [/EN#238475/scene the shadow of a brick building] .
+[/EN#238466/people Two boys] got beat up behind [/EN#238467/scene a house] and left there .
+[/EN#238466/people 2 adult men] lying on [/EN#238468/scene a floor] .

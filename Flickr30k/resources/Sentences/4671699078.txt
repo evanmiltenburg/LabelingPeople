@@ -1,0 +1,5 @@
+[/EN#188948/people A girl] in [/EN#188949/clothing a blue tank top] is sitting at [/EN#188950/other a table] with [/EN#188951/other a red laptop computer] sitting on [/EN#0/notvisual it] .
+[/EN#188948/people A woman] in [/EN#188949/clothing a blue shirt] [/EN#0/notvisual that] is sitting at [/EN#188950/other a table] with [/EN#188952/other her notebook] , [/EN#188956/other pen] , and [/EN#188951/other laptop] .
+[/EN#188948/people A young blond woman] in [/EN#188949/clothing a blue top] sits at [/EN#188950/other a green table] studying
+[/EN#188948/people A woman] with [/EN#188949/clothing her shirt] hanging down is starring in [/EN#188957/scene space] .
+[/EN#188948/people Young girl] working on [/EN#188955/other homework] at [/EN#188954/scene fast food restaurant] .

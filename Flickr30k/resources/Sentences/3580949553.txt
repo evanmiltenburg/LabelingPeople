@@ -1,0 +1,5 @@
+On [/EN#129283/scene a college campus] [/EN#129281/people a person] in [/EN#129284/clothing a gray shirt] is laying atop [/EN#129282/other a short brick wall] .
+[/EN#129281/people An individual] is laying down on [/EN#129282/other a brick wall] outside next to [/EN#129287/other trees] .
+[/EN#129281/people A young man] in [/EN#129286/clothing shorts] lounging on [/EN#129282/other a brick wall] in [/EN#129283/scene a park] .
+[/EN#129281/people A person] taking [/EN#129285/other a rest] on [/EN#129282/other a brick ledge] .
+[/EN#129281/people A girl] is lying on [/EN#129282/other a short brick wall] .

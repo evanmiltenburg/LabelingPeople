@@ -1,0 +1,5 @@
+[/EN#93347/people A man] dressed in [/EN#93348/clothing gray] climbing [/EN#93349/other a large brown rock] .
+[/EN#93347/people A man] in [/EN#93348/clothing a gray shirt] climbs [/EN#93349/other a large rock wall] .
+[/EN#93347/people A man] in [/EN#93351/clothing shorts] climbs [/EN#93352/bodyparts a rock face] .
+[/EN#93347/people The back of a man] climbing [/EN#93349/other a rock] .
+[/EN#93347/people Man] climbing [/EN#93349/other a rock wall] .

@@ -1,0 +1,5 @@
+[/EN#65229/people A man] with [/EN#65232/clothing a beige suit] and [/EN#65237/clothing gray trousers] holds [/EN#65233/instruments a guitar] in [/EN#65239/bodyparts his hands] and [/EN#65235/instruments a harmonica] in [/EN#65240/bodyparts his mouth] .
+[/EN#65229/people An old bearded man] with [/EN#65236/clothing a black top hat] and [/EN#65232/clothing gray suit jacket] plays [/EN#65233/instruments an acoustic guitar] and [/EN#65235/instruments harmonica]
+[/EN#0/notvisual what] looks like [/EN#65229/people a homeless man] plays [/EN#65233/instruments the guitar] whole sitting outside .
+[/EN#65229/people An older gentlemen] puts on [/EN#65231/people a one-man band] with [/EN#65234/instruments various instruments] .
+[/EN#65229/people A man] playing [/EN#65238/instruments several instruments] in front of [/EN#65241/other a window] .

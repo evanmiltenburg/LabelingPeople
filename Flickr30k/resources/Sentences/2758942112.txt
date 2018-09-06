@@ -1,0 +1,5 @@
+[/EN#70966/people A small boy] wearing [/EN#70968/clothing a blue and white jacket] is sitting on [/EN#70973/other a brick] cleaning [/EN#70970/clothing a woman 's shoes] while [/EN#70967/people a man] with [/EN#70969/other a broom] and [/EN#70971/other dustpan] watches .
+[/EN#70966/people A boy] is shining [/EN#70970/people the shoe of a woman] in [/EN#70976/clothing a skirt] and [/EN#70975/clothing a pink sweater] while [/EN#70967/people a man] with [/EN#70969/other a broom] and [/EN#70971/other dustpan] watches .
+[/EN#70972/people A woman] is getting [/EN#70970/clothing her shoes] shined by [/EN#70966/people a boy] while [/EN#70967/people an older man] is sweeping up around , in [/EN#70974/scene an urban setting] .
+[/EN#70967/people A man] carrying [/EN#70969/other a broom] and [/EN#70971/other dustpan] is watching while [/EN#70966/people a young boy] is shining [/EN#70970/clothing a woman 's shoe] .
+[/EN#70966/people A boy] shining [/EN#70970/clothing the woman 's shoes] as [/EN#70967/people the guy] in [/EN#70968/clothing blue] watches while [/EN#0/notvisual he] sweeps [/EN#70977/scene the streets] .

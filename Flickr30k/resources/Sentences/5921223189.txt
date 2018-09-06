@@ -1,0 +1,5 @@
+[/EN#245235/people A group of people] are walking and hiking through [/EN#245238/other a tree] lined [/EN#245236/scene nature path trail] in [/EN#245239/other the woods] .
+[/EN#245235/people A large group of people] walking on [/EN#245236/scene a dirt path] in [/EN#245246/other the woods] with [/EN#245237/other trees] on [/EN#0/notvisual both sides] .
+[/EN#245235/people the class] is on [/EN#245241/other a field trip] in [/EN#245245/scene the mountains] hiking with [/EN#245244/people their teacher] .
+[/EN#245235/people A group of people] walk up [/EN#245236/scene a sloping trail] lined with [/EN#245237/other trees] .
+[/EN#245235/people A group of people] walk on [/EN#245236/scene a trail] up [/EN#245242/scene a mountainside] .

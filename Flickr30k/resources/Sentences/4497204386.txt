@@ -1,0 +1,5 @@
+[/EN#173203/people A little boy] [/EN#0/notvisual who] appears to be about [/EN#173203/other 5 years] old is shown kicking [/EN#173205/other a white volleyball] .
+[/EN#173203/people A little boy] has just kicked [/EN#173205/other a soccer ball] , and [/EN#0/notvisual it] is flying towards [/EN#0/notvisual the camera] .
+[/EN#173203/people A young boy] in [/EN#173206/clothing black pants] and [/EN#173204/clothing a blue shirt] has just kicked [/EN#173205/other a soccer ball] .
+[/EN#173203/people A young boy] in [/EN#173204/clothing a blue shirt] and [/EN#173206/clothing black pants] is kicking [/EN#173205/other a soccer ball] .
+[/EN#173203/people The little boy] in [/EN#173204/clothing the blue shirt] kicks [/EN#173205/other the soccer ball] .

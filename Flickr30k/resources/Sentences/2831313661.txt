@@ -1,0 +1,5 @@
+[/EN#75380/people A man] in [/EN#75382/clothing a brown striped shirt] is walking on [/EN#75381/scene the beach] with [/EN#75384/other a roll] of string in [/EN#75388/bodyparts his hand] .
+[/EN#75380/people The boy] with [/EN#75386/clothing the cap] holds [/EN#75387/other the kite string] and [/EN#75384/other spool] while smiling .
+[/EN#75380/people A man] with [/EN#75382/clothing a polo shirt] and [/EN#75385/clothing jeans] happily flies [/EN#75383/other a kite] .
+[/EN#75380/people A man] wearing [/EN#75385/clothing jean] is flying [/EN#75383/other a kite] near [/EN#75381/scene the shore] .
+[/EN#75380/people A man] gathers [/EN#75383/other kite] string on [/EN#75381/scene the beach] .

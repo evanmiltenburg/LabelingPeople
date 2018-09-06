@@ -1,0 +1,5 @@
+[/EN#69380/people Two people] clearing [/EN#0/notvisual the ground] in [/EN#69381/scene a garden] , in [/EN#69387/other preparation] for planting [/EN#69382/other new flowers] .
+[/EN#69379/people A man] and [/EN#69389/people a woman] wear [/EN#70000/clothing gloves] to garden and dig with [/EN#69388/other shovels] .
+[/EN#69379/people A man] and [/EN#69389/people woman] dig up [/EN#69385/scene dirt] and have [/EN#69382/other a plant] near [/EN#0/notvisual them] .
+[/EN#69380/people Two people] are digging in [/EN#69385/scene the dirt] and planting [/EN#69382/other plants] .
+[/EN#69380/people Two people] planting [/EN#69382/other flowers] in [/EN#69381/scene a garden] .

@@ -1,0 +1,5 @@
+[/EN#163612/people A man] wearing [/EN#163619/clothing a red jacket] looks at [/EN#163609/other a paper] while [/EN#163610/people another man] in [/EN#163620/clothing a black jacket] looks at [/EN#0/notvisual the camera] in [/EN#163607/scene a snow-covered field] .
+[/EN#163605/people two men] standing in [/EN#163618/scene the snow] , [/EN#163610/other one] looking at [/EN#0/notvisual the camera] , [/EN#163617/other the other reading] [/EN#163609/other a paper] by [/EN#163614/other a sign] .
+[/EN#163605/people Two men] wearing [/EN#163615/other hiking gear look] over [/EN#163609/other a map] on [/EN#163608/scene a hiking trail] in [/EN#163607/scene the snow] .
+[/EN#163605/people Men] in [/EN#163607/scene snow] , [/EN#163610/other one] looking at [/EN#0/notvisual the camera] and [/EN#163612/other the other] reading [/EN#163609/other a journal] .
+[/EN#163605/people Two men] are looking over [/EN#163609/other a trail description] in [/EN#163606/other a snowy environment] .

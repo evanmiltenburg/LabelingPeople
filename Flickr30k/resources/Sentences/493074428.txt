@@ -1,0 +1,5 @@
+[/EN#219557/people A young girl] wearing [/EN#219563/clothing a yellow dress] standing in [/EN#0/notvisual what] appears to be [/EN#219562/scene the middle of a field] blowing upon [/EN#219558/other a flower] , distributing [/EN#219564/other its spores] everywhere .
+[/EN#219557/people A little girl] wearing [/EN#219563/clothing a flowery yellow dress] blows on [/EN#219558/other a milkweed plant] in [/EN#219562/scene a field of grass] .
+[/EN#219557/people A girl] blows [/EN#219564/other the seeds] from [/EN#219558/other a dandelion] on [/EN#219565/scene a picturesque day] .
+[/EN#219557/people A young girl] is blowing [/EN#219559/other the seeds] off [/EN#219558/other a dandelion] .
+[/EN#219557/people A girl] is blowing at [/EN#219560/other a dandelion] .

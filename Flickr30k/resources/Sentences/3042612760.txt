@@ -1,0 +1,5 @@
+[/EN#89584/people A woman] dressed in [/EN#89587/clothing a red sweatshirt] , wearing [/EN#89586/clothing a white apron] , and washing [/EN#89585/other a large pan] in [/EN#89588/other a sink] .
+[/EN#89584/people A woman] in [/EN#89587/clothing a red sweatshirt] and [/EN#89586/clothing white apron] cleans [/EN#89585/other a metal pan] in [/EN#89588/other a sink] with [/EN#89589/other a yellow sponge] .
+[/EN#89584/people A lady] in [/EN#89587/clothing a red sweater] and [/EN#89586/clothing apron] washing [/EN#89585/other a tray] in [/EN#89588/other a sink] .
+[/EN#89584/people A man] washing [/EN#89590/other dishes] in [/EN#89592/scene a restaurant] .
+[/EN#89584/people A woman] is washing [/EN#89590/other dishes] .

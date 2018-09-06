@@ -1,0 +1,5 @@
+[/EN#253655/animals three dogs] on [/EN#253656/scene a beach] looking at [/EN#253654/other a red ball] in [/EN#253658/bodyparts someones hand]
+[/EN#253655/animals Three dogs] look as [/EN#253659/people a human] holds [/EN#253654/other a pink ball] on [/EN#253656/scene the beach] .
+[/EN#253654/other A pink ball] is being held up before [/EN#253655/animals three dogs] on [/EN#253656/scene a beach] .
+[/EN#253655/animals Three dogs] stare curiously at [/EN#253654/other a chewed up toy]
+[/EN#253655/animals Three dogs] stare at [/EN#253654/other a red ball] at [/EN#253656/scene the beach] .

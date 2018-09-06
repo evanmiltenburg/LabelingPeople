@@ -1,0 +1,5 @@
+[/EN#133606/people A man] playing [/EN#133609/other a sport] in [/EN#133608/clothing a green uniform] holding [/EN#133611/other a paddle] over [/EN#133612/bodyparts his head] .
+[/EN#133606/people A person] plays [/EN#133607/other cricket] while being watched by [/EN#133610/people a crowd] .
+[/EN#133606/people A man] runs after [/EN#133607/other a cricket ball] on [/EN#133613/scene a grass field] .
+[/EN#133606/people a person] playing [/EN#133609/other cricket] in [/EN#133608/clothing an all green outfit]
+[/EN#133606/people A sports player] in [/EN#133608/clothing a green uniform] .

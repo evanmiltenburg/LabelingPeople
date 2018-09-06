@@ -1,0 +1,5 @@
+[/EN#118841/people a man] in [/EN#118843/clothing a purple shirt] is looking at [/EN#118838/people a man] in [/EN#118840/clothing a black shirt] [/EN#0/notvisual who] is pulling [/EN#118839/bodyparts a funny face] .
+[/EN#118838/people A man] in [/EN#118843/clothing a purple shirt] looking at [/EN#118838/people a man] in [/EN#118840/clothing a black shirt] making [/EN#118839/bodyparts a silly face] .
+[/EN#118844/people Two men] sit together and [/EN#118841/other one] looks at [/EN#118838/other the other] while [/EN#0/notvisual he] makes [/EN#118839/bodyparts a funny face] .
+[/EN#118839/bodyparts Man making kissing face] for [/EN#0/notvisual the camera] , while [/EN#118841/people another man] looks on .
+[/EN#118841/people a man] watching [/EN#118838/people another man] do [/EN#118845/other a kissing pose]

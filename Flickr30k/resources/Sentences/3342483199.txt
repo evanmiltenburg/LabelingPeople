@@ -1,0 +1,5 @@
+[/EN#111072/people A child] is on [/EN#111075/vehicles a Radio Flyre tricycle] as [/EN#111073/people a young man] crouches by [/EN#0/notvisual her] .
+[/EN#111072/people A little boy] in [/EN#111076/clothing a green jacket] is crying on [/EN#111075/vehicles his tricycle] .
+[/EN#111073/people A father] is teaching [/EN#111072/people his son] how to ride [/EN#111075/vehicles his first bike] .
+[/EN#111073/people A man] is helping [/EN#111072/people a young boy] learn to ride [/EN#111075/vehicles his tricycle] .
+[/EN#111073/people A father] is playing with [/EN#111072/people his boy]

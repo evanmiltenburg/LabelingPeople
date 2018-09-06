@@ -1,0 +1,5 @@
+[/EN#77962/animals A dog] swims holding [/EN#77963/other a large stick] in [/EN#77964/bodyparts his mouth] in front of [/EN#77966/scene a city skyline] .
+[/EN#77962/animals A dog] swimming along [/EN#77965/scene the ocean] with [/EN#77963/other a bark] in [/EN#77964/bodyparts its mouth] .
+[/EN#77962/animals Dog] swimming in [/EN#77965/scene the water] with [/EN#77963/other a stick] in [/EN#77964/bodyparts its mouth] .
+[/EN#77962/animals A dog] swimming though [/EN#77965/scene water] holding [/EN#77963/other a stick] .
+[/EN#77962/animals A dog] swimming with [/EN#77963/other a stick] in [/EN#77964/bodyparts its mouth] .

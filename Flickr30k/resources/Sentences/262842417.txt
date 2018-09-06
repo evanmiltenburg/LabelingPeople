@@ -1,0 +1,5 @@
+[/EN#62387/people A man] with [/EN#62388/clothing an orange hard hat] sits anchored in [/EN#62389/other a tree] while [/EN#62392/other working] .
+[/EN#62387/people Urban Tree worker] pruning [/EN#62389/other a tree] while suspended by [/EN#62391/clothing a harness] .
+[/EN#62387/people Worker] in [/EN#62388/clothing orange helmet] is using [/EN#62390/other a chainsaw] on [/EN#62389/other a tree] .
+[/EN#0/notvisual This] is [/EN#62387/people a tree man] in [/EN#62389/other a tree] , getting ready to work .
+[/EN#62387/people A man] in [/EN#62389/other a tree] wearing [/EN#62388/clothing a orange hard hat] .

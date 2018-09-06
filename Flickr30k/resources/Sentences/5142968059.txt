@@ -1,0 +1,5 @@
+[/EN#229799/people A male musician] dressed in [/EN#229810/clothing black] with [/EN#229803/other a guitar pick] in [/EN#229804/bodyparts his mouth] performs during [/EN#229808/other a concert] playing [/EN#229802/instruments the guitar] looking out at [/EN#229809/scene the crown] with [/EN#229801/other a back drop of a single stage light] and [/EN#229806/other Jumbo screens] .
+[/EN#229799/people A man] plays [/EN#229802/instruments an electric guitar] on [/EN#229805/scene stage] with [/EN#229803/other a pick] in [/EN#229804/bodyparts his mouth] .
+[/EN#229799/people A man] in [/EN#229800/other a spotlight] playing [/EN#229802/instruments guitar] with [/EN#229803/other a pick] in [/EN#229804/bodyparts his mouth] .
+[/EN#229799/people A man] holds [/EN#229802/instruments a guitar] on [/EN#229805/scene stage] during [/EN#229807/other a concert] .
+[/EN#229799/people A guitarist] performs on [/EN#229805/scene stage] .

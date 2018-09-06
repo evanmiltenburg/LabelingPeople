@@ -1,0 +1,5 @@
+[/EN#8816/people A young man] in [/EN#8817/clothing a red t-shirt] is cooking with [/EN#8818/other a skillet] .
+[/EN#8816/people Man] in [/EN#8817/clothing a red shirt] trying to flip [/EN#8820/other food] in [/EN#8818/other a frying pan] .
+[/EN#8816/people A young man] in [/EN#8817/clothing a red shirt] cooking in [/EN#8818/other a frying pan] .
+[/EN#8816/people Man] in [/EN#8817/clothing a red shirt] holding [/EN#8818/other frying pan] .
+[/EN#8816/people a man] cooking [/EN#8820/other foods] for [/EN#8819/other breakfast]

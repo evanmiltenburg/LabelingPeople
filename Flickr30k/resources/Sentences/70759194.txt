@@ -1,0 +1,5 @@
+[/EN#265085/people An elderly man] wearing [/EN#265087/clothing a blue plaid shirt] is sitting in [/EN#265086/other a hospital bed] .
+[/EN#265085/people A man] in [/EN#265087/clothing a blue shirt] sits in [/EN#265089/scene a room] with [/EN#265088/other a lot of medical equipment] .
+[/EN#265085/people A old man] sitting on [/EN#265086/other a bed] in [/EN#265089/scene a medical office] with [/EN#265088/other equipment] .
+[/EN#265085/people A senior citizen] in [/EN#265086/other a hospital bed] .
+[/EN#265085/people Old man] dozing in [/EN#265086/other hospital bed] .

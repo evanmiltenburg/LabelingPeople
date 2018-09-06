@@ -1,0 +1,5 @@
+[/EN#59050/people A young woman] in [/EN#59052/clothing a pink shirt] and [/EN#59054/clothing jeans] is walking past [/EN#59056/other some trees] .
+[/EN#59050/people Woman] in [/EN#59052/clothing a pink shirt] walking through [/EN#59051/scene the bushes] .
+[/EN#59050/people Woman] in [/EN#59052/clothing pink] goes for [/EN#59053/other a stroll] through [/EN#59051/scene a field] .
+[/EN#59050/people A woman] walking through [/EN#59051/scene the meadow] .
+[/EN#59050/people Woman] hiking [/EN#59055/scene outside] in [/EN#59051/scene a vineyard] .

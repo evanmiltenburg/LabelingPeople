@@ -1,0 +1,5 @@
+[/EN#63413/people A blond head little boy] with [/EN#63416/clothing a red shirt] , and [/EN#63418/clothing blue shorts] is sitting on [/EN#63417/other a stool] starting to paint on [/EN#63415/other a stencil board] with [/EN#63419/other his paintbrush] .
+[/EN#63413/people A blond-haired boy] in [/EN#63416/clothing a red shirt] and [/EN#63413/other blue shorts painting] on [/EN#63415/other a canvas] .
+[/EN#63413/people A blond boy] in [/EN#63416/clothing a red shirt] coloring on [/EN#63415/other a canvas] .
+[/EN#63413/people This little boy] is wearing [/EN#63416/clothing a red shirt] .
+[/EN#63413/other A blond little boy painting] .

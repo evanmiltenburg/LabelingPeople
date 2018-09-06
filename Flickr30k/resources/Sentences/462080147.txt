@@ -1,0 +1,5 @@
+[/EN#183469/people A man] holding [/EN#183471/other a wine bottle] and wearing [/EN#183472/other a box] on [/EN#183474/bodyparts his head] is standing next to [/EN#183473/people a man] wearing [/EN#183470/clothing a black hoodie] .
+[/EN#183469/people One person] is wearing [/EN#183472/other a box] on [/EN#183474/bodyparts their head] and holding [/EN#183471/other a bottle] while [/EN#183473/people another man] is standing next to [/EN#0/notvisual him] .
+[/EN#183473/people one man] wearing [/EN#183470/clothing a black hoodie sweatshirt] and [/EN#0/notvisual another] wearing [/EN#183472/other a box] over [/EN#183474/bodyparts his head]
+[/EN#183469/people a man] holding [/EN#183471/other a bottle of wine] with [/EN#183472/other a box] on [/EN#183474/bodyparts his head]
+[/EN#183475/people Two men] , [/EN#183476/other one] with [/EN#183472/other a box] on [/EN#183474/bodyparts his head] holding [/EN#183471/other a bottle]

@@ -1,0 +1,5 @@
+[/EN#18376/people Woman] in [/EN#18378/clothing a leopard print outfit] , walking in [/EN#18382/scene the street] and [/EN#18375/people a man] in [/EN#18381/clothing a dark blue jacket] and [/EN#18386/clothing denim jeans] walking in [/EN#0/notvisual the opposite direction] .
+[/EN#18376/people A woman] and [/EN#18380/people a child] sit together in [/EN#18383/other a door frame] along [/EN#18379/scene a gray sidewalk] , as [/EN#18375/people a man] and [/EN#18390/people two women] walk past .
+[/EN#18375/people A man] in [/EN#18381/clothing a leather coat] is walking down [/EN#18379/scene a brick sidewalk] next to [/EN#18376/people a woman] wearing [/EN#18377/clothing a colorful blue dress] .
+[/EN#18376/people An old woman] in [/EN#18377/clothing a blue dress] and [/EN#18380/people a young child] sit in [/EN#18384/scene a doorway] while [/EN#18387/other others] walk by .
+[/EN#18388/people people] walking [/EN#18385/other a sitting] in [/EN#18382/scene the city streets] .

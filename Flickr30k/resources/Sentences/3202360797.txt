@@ -1,0 +1,5 @@
+[/EN#100620/animals a golden dog] is running along [/EN#100621/scene a tire track] [/EN#0/notvisual that] has been carved out in [/EN#100623/scene the snow] .
+[/EN#100620/animals A young dog] walking through [/EN#100623/scene the snow] in [/EN#100621/scene a tire track] .
+[/EN#100620/animals A dog] is walking in [/EN#100621/scene a tire track] in [/EN#100623/scene the snow] .
+[/EN#100625/clothing Golden] retriever puppy walking through [/EN#100623/scene snow] .
+[/EN#100620/animals The dog] is walking in [/EN#100622/scene the snow] .

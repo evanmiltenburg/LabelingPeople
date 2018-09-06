@@ -1,0 +1,5 @@
+[/EN#219906/people A man] with [/EN#219913/clothing black pants] and [/EN#219907/clothing a white shirt] is reaching into [/EN#219908/clothing a large white plastic bag] in front of [/EN#219909/scene a store] with [/EN#219914/other large windows] .
+[/EN#219906/people A man] is leaning over and pulling [/EN#219910/other something] out of [/EN#219908/clothing a bag] .
+[/EN#219906/people a man] looking for [/EN#219910/other something] in [/EN#219908/clothing a shopping bag] .
+[/EN#219906/people Someone] buying [/EN#219911/other groceries] at [/EN#219909/scene a grocery store] .
+[/EN#219906/people A man] is stooping in front of [/EN#219912/other a billboard] .

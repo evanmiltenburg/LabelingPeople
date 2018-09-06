@@ -1,0 +1,5 @@
+[/EN#256986/people A youth baseball player] rounds third as [/EN#256985/people the outfielders] retrieve [/EN#256993/other the ball] at [/EN#256998/scene the fence] .
+[/EN#256986/people A baseball player] in [/EN#256991/clothing a blue jersey] with [/EN#256997/clothing red socks] and [/EN#256994/clothing a helmet] is stepping onto [/EN#256989/other a base] .
+[/EN#256986/people A kid] is playing [/EN#256992/other baseball] , while behind [/EN#0/notvisual him] is [/EN#256985/people another boy] with [/EN#256990/clothing a black shirt] .
+[/EN#256985/people A boy] in [/EN#256994/clothing a blue helmet blue] and [/EN#256988/clothing red baseball uniform] runs to [/EN#256989/other a base] .
+[/EN#256985/people A boy] in [/EN#256988/clothing a ball uniform] is hitting [/EN#256989/other third base] .

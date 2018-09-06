@@ -1,0 +1,5 @@
+[/EN#71452/people A male singer] , dressed in [/EN#71453/clothing a long purple pea coat] , holding [/EN#71454/instruments an electric guitar] , singing into [/EN#71455/other a microphone] , while [/EN#71452/people a male] in [/EN#71456/clothing sunglasses] and wearing [/EN#71457/clothing headphones] , plays [/EN#71460/instruments drums] , with [/EN#71458/other purple drapery] hanging in [/EN#0/notvisual the background] .
+[/EN#71452/people A long-haired man] wearing [/EN#71453/clothing a blue jacket] sings while playing [/EN#71454/instruments an electric guitar] .
+[/EN#71452/people A man] in [/EN#71453/clothing a black jacket] plays [/EN#71454/instruments a black electric guitar] and sings .
+[/EN#71452/people A man] in [/EN#71453/clothing a purple suit] sings and plays [/EN#71454/instruments the guitar] .
+[/EN#71452/people A man] on [/EN#71459/scene a stage] is playing [/EN#71454/instruments a guitar] and singing .

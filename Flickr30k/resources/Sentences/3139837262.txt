@@ -1,0 +1,5 @@
+[/EN#96162/people a boy] in [/EN#96163/clothing black snow pants] and [/EN#96164/clothing a brown jacket] is diving onto [/EN#96165/other a blue sledge] in front of [/EN#96166/scene a wooden fence] .
+[/EN#96162/people A boy] in [/EN#96164/clothing a camouflage coat] is jumping onto [/EN#96167/other a snowboard] .
+[/EN#96162/people Child] in [/EN#96164/clothing camouflage jacket] jumps on [/EN#96168/other sled] .
+[/EN#96162/people The boy] is wearing [/EN#96164/clothing a jacket] .
+[/EN#96162/people A boy] jumping onto [/EN#96168/other a sled] .

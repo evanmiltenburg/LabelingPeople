@@ -1,0 +1,5 @@
+[/EN#63304/people A woman] in [/EN#63308/clothing a white shirt] , wearing [/EN#63311/other jewelery] , is sitting on [/EN#63306/other a couch] next to [/EN#63310/people another female] wearing [/EN#63309/clothing a dark colored shirt] .
+[/EN#63305/people 2 women] on [/EN#63306/other a couch] , [/EN#63304/people woman] in [/EN#63308/clothing white] appears to be describing [/EN#63312/other something] in [/EN#63313/bodyparts her hand] .
+[/EN#63305/people Two women] are sitting on [/EN#63306/other the sofa] , and [/EN#63304/people one woman] is eating [/EN#63307/other a snack] .
+[/EN#63304/people A woman] sits on [/EN#63306/other a couch] while eating [/EN#63307/other a snack] .
+[/EN#63304/people An asian woman] eating [/EN#63307/other food] on [/EN#63306/other couch] .

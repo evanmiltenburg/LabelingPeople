@@ -1,0 +1,5 @@
+[/EN#172006/people Two men] walking along [/EN#172007/scene a dirt road] with [/EN#172011/other barely any trees] in [/EN#0/notvisual the distance] .
+[/EN#172006/people Two men] and [/EN#172008/animals a dog] are walking down [/EN#172007/scene an old dirt road] .
+[/EN#172006/people Two men] and [/EN#172008/animals a dog] are walking down [/EN#172007/scene a desolate road] .
+[/EN#172006/people 2 man] and [/EN#172008/animals a dog] walking down [/EN#172007/scene a road] next to [/EN#172009/scene fields]
+[/EN#172006/people Two men] and [/EN#172008/animals a dog] are walking down [/EN#172007/scene a dirt road]

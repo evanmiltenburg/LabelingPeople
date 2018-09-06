@@ -1,0 +1,5 @@
+[/EN#43393/people A casually dressed man] leans on [/EN#43394/other a building wall] while staring at [/EN#43398/vehicles the traffic] in front of [/EN#0/notvisual him] .
+On [/EN#43396/scene a busy city street] , [/EN#43393/people a man] lounges against [/EN#43394/scene the side of a building] .
+[/EN#43393/people A man] is leaning against [/EN#43394/scene a building] while standing on [/EN#43396/scene the sidewalk]
+[/EN#43393/people A man] leans against [/EN#43394/scene a building] near [/EN#43396/scene a busy street] .
+[/EN#43393/people A man] leans on [/EN#43394/other a wall] in [/EN#43397/scene the city] .

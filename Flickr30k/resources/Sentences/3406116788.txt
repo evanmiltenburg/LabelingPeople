@@ -1,0 +1,5 @@
+[/EN#115953/people An older man] in [/EN#115956/clothing a blue hoodie] is sitting down next to [/EN#115955/clothing his bags] .
+[/EN#115953/people Older man] is sitting on [/EN#115954/other a bench] with [/EN#115955/clothing his two bags] .
+[/EN#115953/people A man] sitting outside with [/EN#115955/clothing bags] and [/EN#115957/other a camera] .
+[/EN#115953/people A man] in [/EN#115956/clothing blue] sits on [/EN#115954/other a wall] with [/EN#115955/clothing bags] .
+[/EN#115953/people A man] sits on [/EN#115954/other a bench] with [/EN#115955/clothing some bags] .

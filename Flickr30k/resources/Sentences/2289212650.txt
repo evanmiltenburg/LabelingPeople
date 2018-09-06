@@ -1,0 +1,5 @@
+[/EN#39277/clothing A white] and [/EN#39279/animals a white dog] are fighting over [/EN#39276/other a stick] in [/EN#39275/scene the water] .
+[/EN#39274/animals Two dogs] playing with [/EN#39276/other a stick] in [/EN#39275/scene shallow water] .
+[/EN#39274/animals Two dogs] are playing with [/EN#39276/other a stick] in [/EN#39275/scene a lake] .
+[/EN#39274/animals Two dogs] playing in [/EN#39275/scene the water] with [/EN#39276/other a stick]
+[/EN#39274/animals Two dogs] in [/EN#39278/other the water fight] over [/EN#39276/other a stick] .

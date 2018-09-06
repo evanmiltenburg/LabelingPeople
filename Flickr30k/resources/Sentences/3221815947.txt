@@ -1,0 +1,5 @@
+[/EN#102247/animals A black horse] with [/EN#102249/bodyparts a white nose] is running in [/EN#102248/other some sand] with [/EN#102251/scene a fence] around [/EN#0/notvisual it] .
+[/EN#102247/animals A black horse] with [/EN#102254/clothing a white] on [/EN#102255/bodyparts his forehead] and [/EN#102249/bodyparts nose] , running .
+[/EN#102247/animals A beautiful horse] is running in [/EN#102251/other a fenced] in [/EN#102253/scene area] .
+[/EN#102247/animals A horse] running through [/EN#102248/other a dirt pen] .
+[/EN#102247/animals A horse] is in [/EN#102256/scene midair] in [/EN#102250/scene a corral] .

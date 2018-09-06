@@ -1,0 +1,5 @@
+[/EN#150485/people A dark-skinned guy] with [/EN#150492/clothing a orange sweater] over [/EN#150493/bodyparts shoulder] in front of [/EN#150486/other a bunch of fruit] in [/EN#150487/scene the street] .
+[/EN#150489/people People] are trying to sell [/EN#150488/other various items] in [/EN#150490/scene a small village] .
+[/EN#150485/people A man] trying to cross [/EN#150487/scene the street] with [/EN#150486/other a cart of fruit] .
+[/EN#150485/people A man] tries to sell [/EN#150488/other fruit] in [/EN#150487/scene a busy street] .
+[/EN#150485/people A man] sells [/EN#150488/other goods] in [/EN#150487/scene the street]

@@ -1,0 +1,5 @@
+[/EN#15084/people A man] wearing [/EN#15085/clothing camouflage] steers [/EN#15086/other a motorcycle] across [/EN#15090/other some stones] .
+[/EN#15084/people A man] is going between [/EN#15087/other two red flag markers] on [/EN#15086/vehicles a dirt bike] .
+[/EN#15084/people The man] waeribng [/EN#15089/clothing a helmet] is riding [/EN#15086/vehicles a dirt bike] over [/EN#15090/other rocks] .
+[/EN#15084/people A man] dressed in [/EN#15085/clothing camouflage] riding [/EN#15086/vehicles a motorbike]
+[/EN#15084/people A man] is riding [/EN#15086/vehicles a dirt bike] over [/EN#15090/other some rocks] .

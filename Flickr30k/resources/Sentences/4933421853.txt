@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#220046/people a man] and [/EN#220052/people a lady] sitting on [/EN#220050/other a bench] in front of [/EN#220054/scene a stone building] and [/EN#0/notvisual there] is [/EN#220053/other another bench] next to [/EN#220057/other that one] with [/EN#220048/people a lady] sitting alone on [/EN#0/notvisual it] .
+[/EN#220046/people An older man] is looking at [/EN#220048/people a woman] in [/EN#220060/clothing a yellow shirt] while [/EN#0/notvisual they] sit on [/EN#220049/other benches] in front of [/EN#220054/other a stone] and [/EN#220056/other plaster wall] .
+[/EN#220047/people Three individuals] sit outside in [/EN#220058/other the sun] , on [/EN#220049/other benches] , absorbing [/EN#220059/other the sun 's rays] .
+[/EN#220047/people Three people] sitting outside on [/EN#220049/other benches] .
+[/EN#220047/people three people] sit on [/EN#220051/scene a bench outside] .

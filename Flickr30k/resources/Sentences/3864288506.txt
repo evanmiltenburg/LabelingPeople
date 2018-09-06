@@ -1,0 +1,5 @@
+[/EN#146229/people A man] in [/EN#146232/clothing a beige shirt] and [/EN#146230/clothing a black helmet] drives [/EN#146231/vehicles a small red vehicle] with [/EN#146233/scene a cloth black roof] and [/EN#146235/other no doors or windows] .
+[/EN#146229/people A man] wearing [/EN#146230/clothing a black helmet] is driving [/EN#146231/vehicles a red and black Yamaha 4x4 utility vehicle] .
+[/EN#146229/people Man] in [/EN#146230/clothing black helmet] drives [/EN#146231/scene all terrain] drives [/EN#146231/vehicles all terrain vehicle] .
+[/EN#146229/people A man] with [/EN#146230/clothing a helmet] in [/EN#146231/vehicles a four wheeled vehicle]
+[/EN#146229/people A man] in [/EN#146230/clothing a black helmet] driving [/EN#146231/vehicles a red ATV] .

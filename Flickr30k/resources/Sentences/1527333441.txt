@@ -1,0 +1,5 @@
+[/EN#15671/people A man] in [/EN#15673/clothing a blue shirt] and [/EN#15676/clothing jeans] stands behind [/EN#15675/other a sign] [/EN#0/notvisual that] says [/EN#15677/people " Mark ' Mom] [/EN#15672/other ' Finley] " .
+[/EN#15671/people A man] wearing [/EN#15673/clothing a tank top] holding up [/EN#15672/other a sign] [/EN#0/notvisual that] introduces [/EN#15672/other Mark Finley] .
+[/EN#15671/people A person] wearing [/EN#15676/clothing blue jeans] and [/EN#15673/clothing a blue tank top] stands and waits .
+[/EN#15671/people A young man] stands at [/EN#15678/vehicles the foot of a two-wheeled cart] .
+[/EN#15671/people Man] in [/EN#15673/clothing a blue tank top] showing [/EN#15674/other his invention] .

@@ -1,0 +1,5 @@
+[/EN#198537/people A man] in [/EN#198539/clothing a red shirt] is walking in [/EN#198542/scene the grass] near [/EN#198540/scene a sidewalk] and [/EN#198538/scene empty street] .
+[/EN#198536/other A deserted roadway] with [/EN#198537/people a man] in [/EN#198539/clothing a red shirt] jogging in [/EN#0/notvisual the distance] .
+[/EN#198537/people A person] in [/EN#198539/clothing a red shirt] is jogging next to [/EN#198538/scene a main road] .
+[/EN#198537/people A runner] in [/EN#198539/clothing a red shirt] has [/EN#198536/other the rode] to [/EN#0/notvisual himself] .
+[/EN#198537/people A man] in [/EN#198539/clothing a red shirt] running next to [/EN#198538/scene a street] .

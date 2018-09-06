@@ -1,0 +1,5 @@
+[/EN#157215/people A man] and [/EN#157219/people woman] sit on [/EN#157217/other a stoop] while [/EN#157223/people a man] in [/EN#157222/clothing a brown shirt] holds [/EN#157226/bodyparts his hand] to [/EN#157227/bodyparts his head] and [/EN#157216/people a person] with [/EN#157220/clothing a backpack] stands with [/EN#157224/other his back] to [/EN#0/notvisual the camera] .
+[/EN#157214/people A group of people] sitting on [/EN#157217/other a curb] looking like [/EN#0/notvisual they] 're waiting for [/EN#157225/other something] .
+[/EN#157215/people A man] and [/EN#157219/people a woman] sitting on [/EN#157217/other a curb] in [/EN#157218/scene an urban setting] .
+[/EN#157216/people A woman] in [/EN#157221/clothing a blue shirt] is sitting on [/EN#157217/other a curb] .
+[/EN#157214/people Four people] wait in [/EN#157218/scene a stone tiled courtyard] .

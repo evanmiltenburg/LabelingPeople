@@ -1,0 +1,5 @@
+[/EN#52988/people A male] in [/EN#52989/clothing a baseball cap] sitting on [/EN#52990/clothing a wall painted black and yellow] .
+[/EN#52988/people A man] in [/EN#52989/clothing a hat] is sitting on [/EN#52990/other a black and yellow concrete wall] .
+[/EN#52988/people A boy] sitting on [/EN#52990/other a concrete wall] with [/EN#52989/clothing a hat] on .
+[/EN#52988/people A child] in [/EN#52992/clothing shorts] sitting on [/EN#52990/other a two color wall] .
+[/EN#52988/people a man] sitting outside , without [/EN#52991/clothing shoes] .

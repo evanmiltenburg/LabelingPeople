@@ -1,0 +1,5 @@
+[/EN#77087/people The woman] in [/EN#77092/clothing the white shirt] and [/EN#77088/clothing black backpack] is walking with [/EN#77086/people the man] in [/EN#77091/clothing the blue shirt] .
+[/EN#77087/people The woman] carrying [/EN#77088/clothing a backpack] is facing [/EN#0/notvisual the camera] , while [/EN#77086/people the man] is turned away .
+[/EN#77087/people A woman] with [/EN#77088/clothing a bag] talks to [/EN#77086/people a man] on [/EN#77089/vehicles a bicycle] near [/EN#77090/scene a street] .
+[/EN#77086/people Man] riding [/EN#77089/vehicles a bicycle] as [/EN#77087/people woman] walks beside [/EN#0/notvisual him] on [/EN#77090/scene a street] .
+[/EN#77086/people A man] talks to [/EN#77087/people a woman] wearing [/EN#77088/clothing a backpack] .

@@ -1,0 +1,5 @@
+[/EN#8542/people A blond woman] in [/EN#8545/clothing a white dress] sits in [/EN#8544/other a flowering tree] while holding [/EN#8543/animals a white bird] .
+[/EN#8542/people Woman] in [/EN#8545/clothing white dress] holds dove while sitting in [/EN#8544/other flowered tree] .
+[/EN#8542/people A woman] is holding [/EN#8543/animals a bird] while sitting in [/EN#8544/other a flowering tree] .
+[/EN#8542/people a blond girl] in [/EN#8545/clothing a white dress] holding [/EN#8543/animals a bird] in [/EN#8544/other a tree] .
+[/EN#8542/people Woman] sitting in [/EN#8544/other tree] with [/EN#8546/other dove] .

@@ -1,0 +1,5 @@
+[/EN#218102/people A little girl] sitting on [/EN#218105/other a bench] is eating [/EN#218109/other ice cream] from [/EN#218108/other a cup] , with [/EN#218111/other a red spoon] in [/EN#218113/bodyparts her right hand] .
+[/EN#218102/people A child] in [/EN#218107/clothing a green jacket] and [/EN#218106/clothing blue hat] sits on [/EN#218105/other a bench] eating [/EN#218109/other ice cream] out of [/EN#218108/other a cup] .
+[/EN#218102/people A little boy] in [/EN#218107/clothing a bright green jacket] eating [/EN#218109/other ice cream] on [/EN#218105/other a bench] with [/EN#218104/people another kid] .
+[/EN#218102/people A young boy] in [/EN#218106/clothing a blue hat] and [/EN#218107/clothing green shirt] enjoys [/EN#218109/other a treat] on [/EN#218105/other a bench] .
+[/EN#218102/people Two boys] are sitting on [/EN#218105/other a bench] while [/EN#218102/other one] eats [/EN#218109/other ice cream] .

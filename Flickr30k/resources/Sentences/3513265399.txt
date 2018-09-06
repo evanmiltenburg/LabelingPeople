@@ -1,0 +1,5 @@
+[/EN#123858/people A baseball player] slides [/EN#123862/scene home] in [/EN#123860/other a non professional baseball game] in [/EN#123865/other an HDR photograph] .
+[/EN#123858/people A runner] is sliding into [/EN#123862/scene home] while [/EN#123864/other the cathcer] covers [/EN#123861/other the plate] in [/EN#123860/other a softball game] .
+[/EN#123858/people A player] is sliding into [/EN#123861/other home plate] with [/EN#123863/people the catcher] guarding [/EN#0/notvisual it] .
+[/EN#123858/people A child] is sliding into [/EN#123861/other home plate] and [/EN#123863/people the catcher] is waiting .
+[/EN#123858/people A woman] slides into [/EN#123862/scene home] while [/EN#123863/people the catcher] tries to block .

@@ -1,0 +1,5 @@
+[/EN#149834/people A man] with [/EN#149840/clothing a gray jacket] and [/EN#149837/clothing white hat] bending over watering [/EN#149835/scene a garden] with [/EN#149836/other a water container] .
+[/EN#149834/people A man] in [/EN#149840/clothing a brown shirt] and [/EN#149837/clothing a white baseball cap] uses [/EN#149836/other a plastic barrel] to [/EN#149838/other water tomato plants] .
+[/EN#149834/people A man] wearing [/EN#149837/clothing a white hat] pours [/EN#149839/scene water] onto [/EN#149838/other flowers] in [/EN#149835/scene a field] .
+[/EN#149834/people A man] pours [/EN#149839/scene water] on [/EN#149838/other plants] in [/EN#149835/other a vast field of small plants] .
+[/EN#149834/people Black male] pours [/EN#149839/scene water] on [/EN#149838/other crops] in [/EN#149835/scene a field] .

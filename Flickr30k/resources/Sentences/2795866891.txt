@@ -1,0 +1,5 @@
+[/EN#73344/people a skateboarder] is riding [/EN#73345/other his board] along [/EN#73346/scene the boundary stone of a parking lot] .
+[/EN#73344/people A man] does skateboard [/EN#0/notvisual tricks] in [/EN#73347/scene a parking lot] at [/EN#73350/scene night] .
+[/EN#73345/other A skateboard] is grinding on [/EN#73346/other a curb] with [/EN#73348/other his skateboard] .
+[/EN#73344/people A boy] in [/EN#73349/clothing shorts] doing [/EN#0/notvisual a skateboard trick] .
+[/EN#73344/people a skateboarder] grinds [/EN#73346/other a curb] .

@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#199002/scene a crowded store] in [/EN#199003/other the mall] filled with [/EN#199010/other brightly colored toys] and [/EN#199007/other accessories] .
+[/EN#199002/scene A very colorful , full store] in [/EN#199003/other a mall] , called [/EN#199009/other breeze] but has [/EN#199011/other party supplies] .
+[/EN#199006/people People] are browsing in [/EN#199002/scene a very colorful shop] at [/EN#199003/other a mall] .
+[/EN#199005/people A woman] stands inside of [/EN#199008/other a colorful storefront] .
+[/EN#199002/scene A corner store] displays [/EN#199011/other brightly colored goods] .

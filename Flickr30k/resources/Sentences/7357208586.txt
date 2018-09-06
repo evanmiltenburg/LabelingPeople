@@ -1,0 +1,5 @@
+[/EN#268922/people A man] biking on [/EN#268926/other a roadway] with [/EN#268928/scene green lawns] on [/EN#0/notvisual both sides] along with [/EN#268931/other trees] on [/EN#0/notvisual the right side] .
+[/EN#268922/people A lone cyclist] rides down [/EN#268924/scene a road] next to [/EN#268925/other an old stone wall] .
+[/EN#268922/people A person] in [/EN#268932/clothing a red shirt] is riding [/EN#268923/vehicles a bicycle] down [/EN#268924/scene a road] .
+[/EN#268922/people A solo cyclist] is riding down [/EN#268924/scene a windy road] .
+[/EN#268922/people One man] in [/EN#0/notvisual the distance] on [/EN#268923/vehicles a bicycle] .

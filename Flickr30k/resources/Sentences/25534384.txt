@@ -1,0 +1,5 @@
+[/EN#57745/people A man] in [/EN#57746/clothing a reversed blue baseball cap] moves filing [/EN#57747/other cabinets] in [/EN#57751/scene a classroom] [/EN#0/notvisual that] is decorated with [/EN#57748/animals butterflies] .
+[/EN#57745/people A man] with [/EN#57746/clothing a navy blue hat] and [/EN#57749/clothing plaid shirt] delivers [/EN#57747/other a file cabinet] to [/EN#57751/scene a classroom]
+[/EN#57745/people A school custodian] moves [/EN#57747/other a filing cabinet] in [/EN#57751/scene a classroom] .
+[/EN#57745/people A man] in [/EN#57746/clothing a blue hat] moves [/EN#57747/other a file cabinet] with [/EN#57750/other a dolly] .
+[/EN#57745/people Delivery man] in [/EN#57746/clothing a blue baseball cap] in [/EN#57752/other a school] .

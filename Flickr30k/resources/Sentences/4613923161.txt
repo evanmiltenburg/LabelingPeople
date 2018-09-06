@@ -1,0 +1,5 @@
+[/EN#182922/people 5 people] dressed in [/EN#182929/clothing purple] dance on [/EN#182923/scene a black stage] with [/EN#182926/other a blue curtain] behind [/EN#0/notvisual them] .
+[/EN#182921/other A live theater show] with [/EN#182922/people five actors] on [/EN#182923/scene stage] doing [/EN#182924/other a choreographed routine] .
+[/EN#182922/people The performers] are performing at [/EN#182921/other a show] for [/EN#182928/people the Audience] .
+[/EN#182925/other A small image] used to signify [/EN#182927/other a broken web image link]
+[/EN#182922/people five people] performing [/EN#182924/other a dance] on [/EN#182923/scene stage]

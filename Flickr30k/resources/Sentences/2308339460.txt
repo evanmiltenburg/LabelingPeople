@@ -1,0 +1,5 @@
+[/EN#40620/people A man] with [/EN#40621/bodyparts a gray beard] , wearing [/EN#40623/clothing an orange cap] and [/EN#40624/clothing brown jacket] , is smoking [/EN#40622/other a cigarette] .
+[/EN#40620/people Man] in [/EN#40624/clothing brown jacket] with [/EN#40621/bodyparts beard] and [/EN#40623/clothing baseball cap] , smoking [/EN#40622/other a cigarette] .
+[/EN#40620/people Older gentleman] smoking while walking by [/EN#40625/people a painting of an old man] .
+[/EN#40620/people A man] with [/EN#40621/bodyparts a beard] and [/EN#40623/clothing an orange cap] smoking [/EN#40626/scene outside] .
+[/EN#40620/people The man] in [/EN#40623/clothing an orange hat] smokes [/EN#40622/other a cigarette] .

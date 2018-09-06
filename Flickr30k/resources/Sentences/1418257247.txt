@@ -1,0 +1,5 @@
+[/EN#12159/scene A view of several shops] in [/EN#12164/scene an Asian country] , complete with [/EN#12160/vehicles several bikes] and [/EN#12161/people people] .
+[/EN#12162/scene A street] with [/EN#12159/scene shops] and [/EN#12160/vehicles bicycles] outside of [/EN#12159/scene the building] and [/EN#12161/people people] walking .
+[/EN#0/notvisual There] are [/EN#12160/vehicles several different bicycles] sitting in front of [/EN#12159/scene several shops] .
+[/EN#12165/scene Street scene] in [/EN#12163/other Asia] with [/EN#12161/people pedestrians] and [/EN#12160/vehicles parked bicycles] .
+[/EN#12161/people People] are walking around [/EN#12159/scene an oriental plaza] .

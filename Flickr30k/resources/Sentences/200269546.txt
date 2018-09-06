@@ -1,0 +1,5 @@
+[/EN#24800/people Two boys] , [/EN#24801/other one] with [/EN#24802/clothing blue swim trunks] and [/EN#24803/other one] with [/EN#24804/clothing red swim trunks] are standing on [/EN#24805/scene the beach] .
+[/EN#24800/people Two children] standing in [/EN#24806/clothing swimwear] standing together in [/EN#24805/other the sand] .
+[/EN#24800/people Two boys] are standing on [/EN#24805/other sand] next to [/EN#24808/other an overturned chair] .
+[/EN#24800/people Two little boys] are hanging out on [/EN#24805/scene a beach] .
+[/EN#0/notvisual They] are on [/EN#24805/scene the beach] in [/EN#24802/clothing swimming suits] .

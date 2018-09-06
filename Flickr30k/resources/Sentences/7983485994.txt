@@ -1,0 +1,5 @@
+[/EN#277288/people A teenager] jumps [/EN#277289/vehicles his bicycle] over [/EN#277292/scene a ramp] in front of [/EN#277290/scene a cream-colored apartment building] .
+[/EN#277288/people A BMX rider] performs [/EN#0/notvisual an aerial trick] off of [/EN#0/notvisual a jump] in [/EN#277291/other an urban environment] .
+[/EN#277288/people Male] in [/EN#0/notvisual the air] on [/EN#277289/vehicles a BMX bicycle] after having launched off [/EN#277292/scene a ramp] .
+[/EN#277288/people A bicyclist] uses [/EN#277292/scene an improvised ramp] to catch [/EN#0/notvisual air] .
+[/EN#277288/people A man] jumps off [/EN#277292/scene a ramp] while riding [/EN#277289/vehicles a bicycle] .

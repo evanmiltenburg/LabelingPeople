@@ -1,0 +1,5 @@
+[/EN#77552/people A man] cooking on [/EN#77554/other a large grill] and [/EN#77562/people someone] on [/EN#77563/other the other side of the grill] also .
+[/EN#77552/people A man] cooks [/EN#77565/animals chicken] on [/EN#77554/other the grill] , while [/EN#77560/other others] enjoy [/EN#77559/other food] in [/EN#0/notvisual the background] .
+[/EN#77552/people A man] with [/EN#77558/clothing a white hat] , [/EN#77564/clothing white shirt] , and [/EN#77553/clothing black apron] is grilling [/EN#77556/other meat] .
+[/EN#77557/people Two cooks] attend to [/EN#77554/other the chicken grill] at [/EN#77554/other an outdoor barbecue] .
+[/EN#77552/people A man] in [/EN#77553/clothing a black apron] cooks up [/EN#77561/other some meat] on [/EN#77554/other a grill] .

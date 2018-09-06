@@ -1,0 +1,5 @@
+[/EN#75421/animals A multicolored dog] runs around [/EN#75422/other obstacles] on [/EN#75423/other a course] .
+[/EN#75421/animals The dog] is running around [/EN#75422/other a white and pink pole] .
+[/EN#75421/animals A brown and white dog] is running around [/EN#75422/other a pole] .
+[/EN#75421/animals dog] running around [/EN#75422/other red and white poles]
+[/EN#75421/animals Collie dog] races around [/EN#75422/other a pole] .

@@ -1,0 +1,5 @@
+[/EN#178262/people A man] is standing next to [/EN#178267/vehicles a yellow cab] while holding up [/EN#178265/other a sign] with [/EN#178264/other many little yellow street signs] on [/EN#0/notvisual it] .
+[/EN#178262/people A vendor] walks up and down [/EN#178263/scene a traffic strewn highway] selling [/EN#178264/other silly road signs] .
+[/EN#178262/people A man] is on [/EN#178263/scene the street] selling [/EN#178264/other yellow diamond] shaped [/EN#178264/other signs] .
+[/EN#178262/people A man] is selling [/EN#178266/other decals] on [/EN#178263/scene the street] .
+[/EN#178262/people This man] is selling [/EN#178264/other the road signs] .

@@ -1,0 +1,5 @@
+[/EN#77343/animals A white dog] jumps above [/EN#77344/other a red Frisbee] [/EN#0/notvisual that] is rolling along [/EN#77345/scene the surface of a low cut field] .
+[/EN#77343/animals A white dog] wearing [/EN#77347/clothing a red collar] jumps up after [/EN#77344/other a red Frisbee] .
+[/EN#77343/animals A white dog] is running towards [/EN#77344/other the red Frisbee] on [/EN#77345/scene the grass] .
+[/EN#77343/animals The dog] jumps in [/EN#0/notvisual the air] running after [/EN#77344/other the Frisbee] .
+[/EN#77343/animals a tan and white dog] jumping after [/EN#77344/other a red Frisbee] .

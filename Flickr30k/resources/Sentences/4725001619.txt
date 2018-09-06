@@ -1,0 +1,5 @@
+[/EN#195578/people A crowd of people] sit in [/EN#195572/scene chairs outdoors] , with [/EN#195579/scene a city scene] and [/EN#195575/scene a bridge] in [/EN#0/notvisual the immediate background] .
+[/EN#195574/people an older man] sitting [/EN#195583/scene half way] down in [/EN#195572/other his chair] by [/EN#195577/other suitcase] and [/EN#195575/scene a bridge] in front of [/EN#0/notvisual him] .
+[/EN#195574/people A drawing artist] sitting down to eat at [/EN#195573/other a cafe] after [/EN#195580/other a long day of hard work] .
+[/EN#195574/people A man] with [/EN#195577/other a suitcase] is beginning to sit down in [/EN#195572/other 2 chairs] .
+[/EN#195574/people A man] sitting in [/EN#195572/other a chair] on [/EN#195581/scene a paved street] .

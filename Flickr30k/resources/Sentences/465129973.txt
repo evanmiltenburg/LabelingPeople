@@ -1,0 +1,5 @@
+[/EN#186842/people A young boy] wearing [/EN#186846/clothing rubber boots] [/EN#186847/clothing dark shorts] and [/EN#186843/clothing a checkered shirt] is lying down sleeping on [/EN#186845/other stacks of yellow metal guard rails] .
+[/EN#186842/people A young black boy] with [/EN#186843/clothing a striped shirt] , [/EN#186847/clothing black shorts] and [/EN#186846/clothing black rain boots] laying on [/EN#186845/other a row of yellow street barriers] .
+[/EN#186842/people A boy] lies across [/EN#186845/scene gates] stacked against [/EN#0/notvisual each other] in [/EN#186844/scene a park] .
+[/EN#186842/people This young boy] is resting on top of [/EN#186845/other the stacked barricades] .
+[/EN#186842/people A man] sleeps on [/EN#186845/vehicles a stack of folding carts] in [/EN#186844/scene a park] .

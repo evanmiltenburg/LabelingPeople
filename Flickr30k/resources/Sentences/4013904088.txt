@@ -1,0 +1,5 @@
+[/EN#151893/people A man] in [/EN#151901/clothing an orange shirt] , [/EN#151903/clothing blue bottoms] and [/EN#151895/bodyparts a head] covering is perched in [/EN#151897/other a tree] and holding [/EN#151896/other an axe or hatchet] .
+[/EN#151893/people A man] with [/EN#151899/bodyparts a mustache] and [/EN#151894/clothing turban] draped around [/EN#151895/bodyparts his head] is situated in [/EN#151897/other a tree] with [/EN#151896/other a tool] .
+[/EN#151893/people A barefoot man] in [/EN#151904/other colorful clothing clings] to [/EN#151897/other the limbs of a tree] for [/EN#151902/other balance] .
+[/EN#151893/people A man] with [/EN#151894/clothing a bandanna] on [/EN#151895/bodyparts his head] is perched in [/EN#151897/other a tree] holding [/EN#151896/other an ax] .
+[/EN#151893/people A man] is in [/EN#151897/other a tree] using [/EN#151896/other an axe] to shop at [/EN#151898/other a branch] .

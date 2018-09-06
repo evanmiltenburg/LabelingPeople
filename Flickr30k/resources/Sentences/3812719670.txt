@@ -1,0 +1,5 @@
+[/EN#143572/people a little boy] in [/EN#143575/clothing a striped shirt] looks out [/EN#143574/other over a railing] at [/EN#143573/other a bonfire] .
+[/EN#143572/people A child] stares down [/EN#143578/people over a group of people] [/EN#0/notvisual who] are around [/EN#143573/other a bonfire] .
+[/EN#143572/people A young boy] in [/EN#143575/clothing a striped shirt] is fixed on [/EN#143573/other the fire] below .
+[/EN#143572/people A boy] watches [/EN#143576/scene a nightly event] while leaning on [/EN#143574/other a rail] .
+[/EN#143572/people a young boy] leans against [/EN#143574/other a railing] at [/EN#143577/scene night]

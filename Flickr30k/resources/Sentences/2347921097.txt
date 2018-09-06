@@ -1,0 +1,5 @@
+[/EN#43333/scene a gray and white puddle] fighting next to [/EN#43334/animals another black and brown dog] on [/EN#43335/other a bed] .
+[/EN#43334/animals A brown and black dog] sits on [/EN#43335/other a bed] and looks at [/EN#43333/animals a gray and white dog] .
+[/EN#43333/animals Brown and white dog] with [/EN#43334/animals brown and black dog] on [/EN#43335/scene gray sheet] .
+[/EN#43338/animals Two dogs] play together on [/EN#43335/other the bed] .
+[/EN#43338/animals The dogs] are playing on [/EN#43335/other the bed] .

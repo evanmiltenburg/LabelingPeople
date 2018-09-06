@@ -1,0 +1,5 @@
+[/EN#246241/scene some physical event] [/EN#0/notvisual that] requires [/EN#246240/other more work] after swimming in [/EN#246238/scene a pool]
+[/EN#246237/people A female swimmer] getting out of [/EN#246238/scene the pool] still dripping wet .
+[/EN#246237/people A female athlete] is running after exiting [/EN#246238/scene a swimming pool] .
+[/EN#246237/people A woman] [/EN#0/notvisual that] just got done swimming in [/EN#246239/other a race] .
+[/EN#246237/people A swimmer] adjusts [/EN#246242/clothing her goggles] by [/EN#246238/scene the pool] .

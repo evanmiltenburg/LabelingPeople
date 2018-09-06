@@ -1,0 +1,5 @@
+[/EN#259030/people A black man] in [/EN#259033/clothing a yellow shirt] and [/EN#259034/clothing hat] playing [/EN#259031/instruments guitar] at [/EN#259036/other a live show] .
+[/EN#259030/people Local artist] enjoying [/EN#0/notvisual what] [/EN#0/notvisual he] 's doing performing for [/EN#259035/people people] .
+[/EN#259030/people A black man] in [/EN#259033/clothing a yellow shirt] , plays [/EN#259031/instruments a guitar] on [/EN#259032/scene a stage] .
+[/EN#259030/people A musician] performs live on [/EN#259032/scene stage] .
+[/EN#259030/people A man] holding [/EN#259031/instruments a guitar] sings .

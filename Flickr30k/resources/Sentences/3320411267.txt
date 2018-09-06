@@ -1,0 +1,5 @@
+[/EN#109199/people A person] in [/EN#109201/clothing a blue jacket] climbs [/EN#109200/other a large rock] in [/EN#109202/scene a dark forest] .
+[/EN#109199/people A man] in [/EN#109201/clothing a blue jacket] is climbing on [/EN#109200/other a rock] in [/EN#109203/other the woods] .
+[/EN#109199/people A woman] in [/EN#109201/clothing blue] is climbing up [/EN#109200/other a big rock] .
+[/EN#109199/people A person] is climbing [/EN#109200/other a rock] in [/EN#109202/scene a forest] .
+[/EN#109199/people A rock climber] in [/EN#109202/scene the forest] .

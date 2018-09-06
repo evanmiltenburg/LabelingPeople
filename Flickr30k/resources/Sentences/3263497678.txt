@@ -1,0 +1,5 @@
+[/EN#105472/people Two people] are in running [/EN#105474/scene race starting position] with [/EN#105473/scene a long lane field] ahead of [/EN#0/notvisual them] .
+[/EN#105472/people Two runners] are at [/EN#105474/scene the starting blocks] , readying for [/EN#105475/other a race] .
+[/EN#105472/people Two runners] are at [/EN#105476/other the starting line] getting ready to race .
+[/EN#105472/people Two runners] get ready to race on [/EN#105473/scene a track] .
+[/EN#105472/people The 2 runners] are ready for [/EN#105473/scene the track] .

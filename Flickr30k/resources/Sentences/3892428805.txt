@@ -1,0 +1,5 @@
+[/EN#147223/people A woman] in [/EN#147224/clothing a knitted brown jacket] looking at [/EN#0/notvisual the camera] while sitting in front of [/EN#147225/other a table] covered in [/EN#147226/other food] and [/EN#147228/other food preparation tools] .
+[/EN#147223/people A woman] in [/EN#147224/clothing an olive-brown sweater] gazes over [/EN#147225/scene the table of the rustic kitchen]
+[/EN#147223/people A woman] in [/EN#147224/clothing a brown sweater] sits at [/EN#147225/other a table] covered with [/EN#147226/other food] .
+[/EN#147223/people A woman] in [/EN#147229/clothing pioneer dress] is sitting at [/EN#147225/other a table] .
+[/EN#147223/people A woman] is just simply sitting in [/EN#147227/other a chair] .

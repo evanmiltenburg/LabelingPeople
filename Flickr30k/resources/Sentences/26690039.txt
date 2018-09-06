@@ -1,0 +1,5 @@
+[/EN#65200/people A boy] smiles up at [/EN#0/notvisual the camera] while sitting inside [/EN#65201/other a large cardboard box] .
+[/EN#65200/people Young blond child] in [/EN#65203/clothing gray shirt] playing in [/EN#65201/other a cardboard box] .
+[/EN#65202/other A red-haired box] is sitting in [/EN#65201/other a large cardboard box] .
+[/EN#65200/people A blond boy] crouches in [/EN#65201/other a cardboard box] .
+[/EN#65200/people a blond child] inside of [/EN#65201/other a box] smiling

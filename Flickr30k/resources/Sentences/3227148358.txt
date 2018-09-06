@@ -1,0 +1,5 @@
+[/EN#102643/animals A white bird] with [/EN#102646/bodyparts yellow feet] is flying over [/EN#102644/scene water] .
+[/EN#102643/animals A heron] is flying through [/EN#0/notvisual the air] near [/EN#102647/other foliage] .
+[/EN#102643/animals A large white bird] flying over [/EN#102644/scene water] .
+[/EN#102643/animals A large white bird] swoops over [/EN#102644/scene water] .
+[/EN#102643/animals A bird] flies above [/EN#102644/scene the water] .

@@ -1,0 +1,5 @@
+[/EN#256511/people Someone] dressed as [/EN#256514/other Santa] , [/EN#256524/other Mrs. Claus] , and [/EN#256513/people two other people] are riding in [/EN#256515/other Santa 's sleigh] , pulled by [/EN#256510/animals a horse] , through [/EN#256516/scene a snow covered city] .
+[/EN#256510/animals A black horse] with [/EN#256521/clothing a santa hat] on top of [/EN#0/notvisual it] 's [/EN#256522/bodyparts head] pulling [/EN#256515/other a sleigh] in [/EN#256519/scene the snow] with [/EN#256518/people 4 people] in [/EN#256515/other the sleigh] .
+[/EN#256512/people A family] in [/EN#256515/other a sleigh] with [/EN#256514/other Santa] is pulled behind [/EN#256510/animals a horse] .
+[/EN#256515/vehicles A horse carriage] is carrying [/EN#256520/other two santas] through [/EN#256516/scene the snow]
+[/EN#256517/other A winter sleigh ride] with [/EN#256514/other Santa] .

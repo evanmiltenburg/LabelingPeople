@@ -1,0 +1,5 @@
+[/EN#88123/people Two people] [/EN#88115/people one person] dressed in [/EN#88121/clothing yellow and green] with [/EN#88113/clothing black boots] and [/EN#88118/people the other person] have on [/EN#88120/clothing white jacket] and [/EN#88114/clothing brown pants] standing on [/EN#0/notvisual the lake side] with [/EN#88125/animals birds] approaching [/EN#0/notvisual them]
+[/EN#88123/people Two people] standing by [/EN#88122/vehicles a small cart] and [/EN#88112/other a bucket] on [/EN#88124/scene the beach] , while [/EN#88126/scene waves] roll in , and [/EN#88125/animals seagulls] look on .
+[/EN#88123/people Two warmly dressed people] and [/EN#88125/animals three birds] are standing on [/EN#88124/scene a beach] in front of [/EN#88126/scene some waves] .
+[/EN#88123/people Two people] standing on [/EN#88124/scene a beach] looking at [/EN#88125/animals seagulls] and [/EN#88119/other the surf] .
+[/EN#88123/people Two People] on [/EN#88124/scene the beach] wearing [/EN#88116/clothing rain jackets] with [/EN#88125/animals seagulls] .

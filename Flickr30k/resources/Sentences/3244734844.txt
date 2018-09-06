@@ -1,0 +1,5 @@
+[/EN#103852/people A boy] wearing [/EN#103854/clothing a blue parka] , [/EN#103858/clothing green pants] , and [/EN#103856/clothing white shoes] is leaping in [/EN#103860/scene a ramp] .
+[/EN#103852/people A man] wearing [/EN#103854/clothing a blue jacket] jumping from [/EN#103855/other one concrete wall] to [/EN#103859/other the other] .
+[/EN#103852/people A person] in [/EN#103854/clothing a blue jacket] jumps off of [/EN#103855/other a tan cement wall] .
+[/EN#103852/people Someone] in [/EN#103854/clothing a blue coat] and [/EN#103856/clothing white sneakers] is airborne .
+[/EN#103852/people a man] performs [/EN#0/notvisual a large jump] .

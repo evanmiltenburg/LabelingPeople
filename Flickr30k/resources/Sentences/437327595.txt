@@ -1,0 +1,5 @@
+[/EN#165273/people A man] wearing [/EN#165274/clothing a red shirt] with [/EN#165284/other the number] [/EN#165275/other 54 hits] [/EN#165285/other a baseball] , while [/EN#165276/people a catcher] prepares to catch [/EN#165277/other the ball] .
+[/EN#165278/scene A baseball pitch] where [/EN#165273/people the batter] is wearing red and [/EN#165276/people the catcher] is wearing blue .
+[/EN#165273/people A batter] swinging at [/EN#165278/scene a pitch] with [/EN#165276/people a catcher] preparing to receive [/EN#165278/scene the pitch] .
+[/EN#165279/people Two men] , [/EN#165280/people one pitcher] and [/EN#165276/people one umpire] , are [/EN#165281/scene outside] playing [/EN#165285/other baseball] .
+[/EN#165282/scene a day] at [/EN#165283/scene the ball park] , playing [/EN#165285/other baseball] .

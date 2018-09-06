@@ -1,0 +1,5 @@
+[/EN#85870/people A motocross bike rider] is riding [/EN#85871/vehicles his bike] through [/EN#85872/other a quarry] .
+[/EN#85870/people A dirt bike rider] catches [/EN#0/notvisual some air] going off [/EN#85875/scene a large hill]
+[/EN#85870/people A man] on [/EN#85871/vehicles a motorbike] riding down [/EN#85873/bodyparts a steep rock face]
+[/EN#85870/people A man] is jumping [/EN#85874/other a rock] on [/EN#85871/vehicles an orange dirt bike] .
+[/EN#85870/people A dirt biker] on [/EN#85874/other a sand dune] .

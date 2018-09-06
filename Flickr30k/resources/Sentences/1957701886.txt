@@ -1,0 +1,5 @@
+[/EN#24082/people A woman] in [/EN#24086/clothing a flowered sundress] walks [/EN#24085/other her white chihuahua] past [/EN#24088/scene a green building] .
+[/EN#24082/people A blond-haired woman] walks [/EN#24085/animals a dog] down [/EN#24084/scene the street] in [/EN#24087/clothing flip-flops] .
+[/EN#24082/people A woman] in [/EN#24086/clothing a sundress] walks [/EN#24085/animals a small dog] on [/EN#24083/scene a city sidewalk] .
+[/EN#24082/people A woman] in [/EN#24086/clothing a dress] and [/EN#24087/clothing flip-flops] is walking [/EN#24085/animals her small dog] .
+[/EN#24082/people A woman] is walking [/EN#24085/animals her dog] and using [/EN#24089/other her cellphone] .

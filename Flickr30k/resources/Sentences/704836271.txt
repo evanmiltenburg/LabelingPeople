@@ -1,0 +1,5 @@
+[/EN#264598/people Four people] are in [/EN#264599/scene the water] holding [/EN#264600/bodyparts hands] in [/EN#264603/other a circle] .
+[/EN#264598/people Four persons] are holding [/EN#264600/bodyparts hand] in [/EN#264599/scene the swimming pool] .
+[/EN#0/notvisual There] is [/EN#264601/people a girl] with [/EN#264602/people three boys] swimming in [/EN#264599/scene water] .
+[/EN#264598/people Four children] are swimming in [/EN#264599/scene a pool] .
+[/EN#264598/people Four children] playing in [/EN#264599/scene a pool] .

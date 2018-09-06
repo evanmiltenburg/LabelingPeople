@@ -1,0 +1,5 @@
+[/EN#206226/people A young man] in [/EN#206231/clothing a blue shirt] with [/EN#206233/clothing a gray backpack] places [/EN#206229/other a sign] onto [/EN#206232/other a concrete pillar] .
+[/EN#206226/people A man] is putting up [/EN#206229/other a sign] reading " [/EN#206228/other HOSTEL C] " onto [/EN#206232/scene a post] .
+[/EN#206226/people A man] posting [/EN#206229/other a sign] indicating [/EN#206229/scene the name of the building] .
+[/EN#206226/people Man] with [/EN#206233/clothing backpack] hanging [/EN#206229/other a sign] on [/EN#206232/other a pole] in [/EN#206235/scene a lobby] .
+[/EN#206226/people A man] in [/EN#206231/clothing a blue shirt] posting up [/EN#206229/other a sheet of paper] .

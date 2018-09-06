@@ -1,0 +1,5 @@
+[/EN#111115/people A dark-haired boy] sits outside on [/EN#111117/other a beige structure] .
+[/EN#111115/people A boy] wearing [/EN#111116/clothing a blue shirt] is going down [/EN#111117/scene a slide] .
+[/EN#111115/people A young boy] in [/EN#111116/clothing a blue jacket] going down [/EN#111117/scene a slide] .
+[/EN#111115/people A boy] in [/EN#111116/clothing blue] slides down [/EN#111117/scene a tan slide] .
+[/EN#111115/people A boy] is going down [/EN#111117/scene the slide] .

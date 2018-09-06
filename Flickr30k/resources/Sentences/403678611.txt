@@ -1,0 +1,5 @@
+[/EN#152774/people A man] with [/EN#152775/clothing a black hat] and [/EN#152776/bodyparts black beard] is reading [/EN#152778/other a magazine] sitting on [/EN#152779/other a blue bench] .
+[/EN#152774/people A man] in [/EN#152775/clothing a cap] with [/EN#152776/bodyparts a goatee] leans against [/EN#152781/other the window] and reads [/EN#152778/other a magazine] .
+[/EN#152774/people The man] reading [/EN#152778/other a magazine] is sitting in [/EN#152777/scene the large room] .
+[/EN#152774/people A man] with [/EN#152775/clothing a hat] sits in [/EN#152780/scene a booth] and reads .
+[/EN#152774/people A man] sitting on [/EN#152777/vehicles/scene an empty train]

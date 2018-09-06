@@ -1,0 +1,5 @@
+[/EN#7885/people A girl] wearing [/EN#7889/clothing a black t-shirt] is holding [/EN#7887/other a small pizza] in [/EN#7886/scene a kitchen] setting .
+[/EN#7885/people Woman] [/EN#0/notvisual who] just took [/EN#7887/other pizza] out of [/EN#7888/other the oven] and ca n't wait to eat [/EN#0/notvisual it] .
+[/EN#7885/people Latin woman] shows off [/EN#7887/other homemade pizza] in [/EN#7886/scene kitchen] .
+[/EN#7885/people A young woman] is ready to eat [/EN#7887/other the pizza] .
+[/EN#7885/people The young lady] is looking at [/EN#7887/other the pizza] .

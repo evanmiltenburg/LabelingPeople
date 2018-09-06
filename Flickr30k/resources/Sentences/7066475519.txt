@@ -1,0 +1,5 @@
+[/EN#264907/people A guy] name Peter is setting [/EN#264919/other something] up behind [/EN#264908/people a miniature railroad] and [/EN#264909/people other people] in [/EN#264915/other the back] watching [/EN#264920/other something] on [/EN#264916/other a drop] down [/EN#264910/other screen] .
+[/EN#264907/people A man] in [/EN#264911/clothing a light blue shirt] appears to be working on [/EN#264921/other a small object] while [/EN#264908/scene a miniature model town] set up appears in [/EN#0/notvisual the foreground] .
+[/EN#264907/people A man] is examining [/EN#264923/other something level] with [/EN#264917/bodyparts his waist] , in [/EN#264918/scene a public space] with [/EN#264913/vehicles/scene a toy train] set in [/EN#0/notvisual the foreground] .
+[/EN#264907/other One] may busy focusing on [/EN#264925/other his work] .
+[/EN#264907/people A man] works on [/EN#264908/vehicles/scene a model train] .

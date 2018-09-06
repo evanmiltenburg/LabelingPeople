@@ -1,0 +1,5 @@
+[/EN#45117/animals A dog] is jumping through [/EN#0/notvisual the air] in [/EN#45118/scene an open , snow covered field] .
+[/EN#45117/animals A little dog] is leaping through [/EN#0/notvisual the air] over [/EN#45118/scene a snowy field] .
+[/EN#0/notvisual There] is [/EN#45117/animals a black dog] jumping across [/EN#45119/other sand] .
+[/EN#45117/animals Black dog] jumps through [/EN#45118/scene snowy field] .
+[/EN#45117/animals A dog] jumps over [/EN#45119/other the sand] .

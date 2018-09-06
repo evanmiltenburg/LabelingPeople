@@ -1,0 +1,5 @@
+[/EN#214919/people A man] in [/EN#214920/clothing a black hat] and [/EN#214921/clothing jacket] and [/EN#214926/clothing a white shirt] with [/EN#214928/clothing the collar] flipped out holds [/EN#214922/other a cigarette] up in [/EN#0/notvisual the air] while walking past [/EN#214923/scene a green field] in front of [/EN#214924/scene a large white building] .
+[/EN#214919/people A man] wearing [/EN#214921/clothing a black jacket] and [/EN#214920/clothing hat] is walking and holding [/EN#214922/other a cigarette] .
+[/EN#214919/people A man] in [/EN#214921/clothing a suit] walks in [/EN#214923/scene a garden] , smoking [/EN#214922/other a cigarette] .
+[/EN#214919/people The young man] with [/EN#214920/clothing the black hat] is smoking [/EN#214922/other a cigarette] .
+[/EN#214919/people A man] wearing [/EN#214920/clothing a black hat] is smoking [/EN#214922/other a cigarette] .

@@ -1,0 +1,5 @@
+[/EN#198268/people A man] with [/EN#198271/clothing a dark t-shirt] walks [/EN#198269/animals his small white dog] on [/EN#198274/scene the side of a road] .
+[/EN#198268/people A man] walks [/EN#198269/animals a dog] on [/EN#198270/scene the side of an empty road] .
+[/EN#198268/people A man] in [/EN#198273/clothing tan shorts] walking [/EN#198269/animals his dog] on [/EN#198272/clothing a leash] .
+[/EN#198268/people A man] is walking [/EN#198269/animals his dog] along [/EN#198270/scene an empty road] .
+[/EN#198268/people Someone] is walking [/EN#198269/animals a dog] .

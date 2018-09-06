@@ -1,0 +1,5 @@
+[/EN#195770/people An older oriental man] wearing [/EN#195772/clothing a blue shirt] and [/EN#195776/clothing white hat] is browsing in [/EN#195773/scene a market] with [/EN#195774/people two other people] .
+[/EN#195774/people Three men] are looking around in [/EN#195773/scene a fast food restaurant] .
+[/EN#195770/people An old man] is wearing [/EN#195772/clothing a blue shirt] and walking .
+[/EN#195771/people People] are standing shopping in [/EN#195773/scene a store] .
+[/EN#195771/people Four people] are browsing in [/EN#195773/scene a market] .

@@ -1,0 +1,5 @@
+[/EN#3314/clothing A brown and white] and [/EN#3310/animals a black and white dog] hauling in [/EN#3311/other a floating toy] from [/EN#3313/scene the ocean] .
+[/EN#3310/animals Two dogs] run through [/EN#3313/scene the water] with [/EN#3312/other a rope] in [/EN#3316/bodyparts their mouths] .
+[/EN#3310/animals Both dogs] retrieve [/EN#3311/other the play toy] from [/EN#3313/scene the water] .
+[/EN#3310/animals Two dogs] tug at [/EN#3311/other a chew toy] in [/EN#3315/other the surf] .
+[/EN#3310/animals Two dogs] in [/EN#3313/scene the ocean] playing with [/EN#3312/other a toy]

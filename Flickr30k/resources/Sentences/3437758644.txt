@@ -1,0 +1,5 @@
+[/EN#118249/people A man] is walking in front of [/EN#118246/vehicles a big blue truck] parked between [/EN#118253/scene buildings] .
+[/EN#118246/vehicles A large truck] parked near [/EN#118248/scene a garage] [/EN#0/notvisual that] says [/EN#118254/other perfumes] on [/EN#118255/scene the front] .
+[/EN#118247/people People] are walking outside [/EN#118248/scene a store] in [/EN#118252/scene an Arabian country] .
+[/EN#118247/people Two men] standing in front of [/EN#118246/vehicles an industrial truck] .
+[/EN#118246/vehicles A tanker truck] making [/EN#118250/other a delivery] to [/EN#118251/scene a market] .

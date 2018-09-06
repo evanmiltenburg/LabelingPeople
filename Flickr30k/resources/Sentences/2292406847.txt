@@ -1,0 +1,5 @@
+[/EN#39533/people A man] in [/EN#39534/other a rowboat] is rowing across [/EN#39539/scene blue water] .
+[/EN#39533/people A man] is rowing in [/EN#39534/vehicles/scene a small boat] called [/EN#39534/other Neptuno]
+[/EN#39537/other The fisherman paddles] in [/EN#0/notvisual his] to [/EN#39538/scene a new spot] .
+[/EN#39533/people A man] rows [/EN#39534/vehicles/scene his boat] below .
+[/EN#39533/people Man] rowing [/EN#39534/vehicles/scene a boat] .

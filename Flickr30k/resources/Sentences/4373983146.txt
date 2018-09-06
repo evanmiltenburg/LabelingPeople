@@ -1,0 +1,5 @@
+[/EN#165300/people A woman] in [/EN#165301/clothing a fiery red dress] and [/EN#165299/people a man] in [/EN#165302/clothing a suit] dance seductively together .
+[/EN#165300/people The woman] in [/EN#165301/clothing the red dress] is dancing with [/EN#165299/people the man] in [/EN#165302/clothing a suit] .
+[/EN#165299/people A man] and [/EN#165300/people woman] dancing [/EN#165305/other the tango] in [/EN#165307/clothing ballroom attire] .
+[/EN#165303/people Two dancers] performing in [/EN#165304/other the spotlight] , on [/EN#165308/scene stage] .
+[/EN#165299/people A man] and [/EN#165300/people a woman] in [/EN#165306/other a very intimate dance] .

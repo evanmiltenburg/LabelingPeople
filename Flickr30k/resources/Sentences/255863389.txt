@@ -1,0 +1,5 @@
+[/EN#58007/people A soccer player] is standing at [/EN#58011/scene the edge of a soccer field] with [/EN#58009/scene a stadium] full of [/EN#58010/people spectators] in [/EN#0/notvisual the background] .
+[/EN#58007/people A man] in [/EN#58017/clothing a number 11 shirt] ready to play [/EN#58008/other soccer] in [/EN#58015/scene the soccer field] with [/EN#58010/people thousands of people] watching .
+[/EN#0/notvisual It] 's [/EN#58013/people a giant] , packed [/EN#58009/scene stadium] , and [/EN#58016/other the two teams of the soccer game] border [/EN#58011/scene the edge of the field] .
+[/EN#58007/people a soccer player] in [/EN#58014/other maroon lines] up for [/EN#58012/other a corner kick] .
+[/EN#58007/people A man] about to kick [/EN#58008/other a soccer ball] .

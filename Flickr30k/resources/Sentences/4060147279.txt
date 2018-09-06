@@ -1,0 +1,5 @@
+[/EN#153745/people A man] in [/EN#153753/clothing orange] drives [/EN#153746/vehicles a four-wheeler] with [/EN#153747/people two children] on [/EN#0/notvisual the back of it] .
+[/EN#153749/people Three people] are riding on [/EN#153746/other a four wheeler] by [/EN#153752/scene the lake] .
+[/EN#153745/people A man] and [/EN#153747/people his children] ride [/EN#153746/scene a four-wheeler outside] .
+[/EN#153745/people an older man] and [/EN#153747/people two children] riding on [/EN#153746/vehicles an atv] .
+[/EN#153745/people A man] on [/EN#153746/vehicles an ATV] with [/EN#153747/people two kids] on [/EN#153748/other the back] .

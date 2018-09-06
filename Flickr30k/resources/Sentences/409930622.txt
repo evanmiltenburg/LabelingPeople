@@ -1,0 +1,5 @@
+[/EN#155384/people A balding man] wearing [/EN#155386/clothing a brown jacket] with [/EN#155389/bodyparts his hands] crossed and [/EN#155390/bodyparts his head] tilted down .
+[/EN#155384/people A man] sleeping while sitting on [/EN#155387/vehicles/scene a bus] with [/EN#155385/clothing his bag] in [/EN#155388/bodyparts his lap] .
+[/EN#155384/people A middle-aged man] in [/EN#155386/clothing a trench coat] sleeps on [/EN#155387/vehicles/scene a bus or train] .
+[/EN#155384/people Old man] sleeping alone on [/EN#155391/other a plane] with [/EN#155385/clothing a bag] in [/EN#155388/bodyparts his lap] .
+[/EN#155384/people Man] sleeping on [/EN#155387/vehicles/scene train] with [/EN#155385/clothing briefcase] on [/EN#155388/bodyparts lap] .

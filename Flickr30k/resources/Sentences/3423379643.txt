@@ -1,0 +1,5 @@
+[/EN#117125/people A man] drives [/EN#117128/other a motorcycle] , with [/EN#117130/people a woman] in [/EN#117132/clothing an orange sari] and [/EN#117127/people a young girl] in [/EN#117133/clothing a blue dress] riding in [/EN#117131/other the backseat] .
+[/EN#117125/people A man] and [/EN#117130/people woman] are riding on [/EN#117128/other a motorcycle] with [/EN#117127/people a child] in between [/EN#0/notvisual them] .
+[/EN#117125/people A man] , [/EN#117130/people a woman] and [/EN#117127/people a child] riding on [/EN#117128/other one motorcycle] .
+[/EN#117126/people An indian family] riding on [/EN#117128/vehicles a motorbike] on [/EN#117129/scene the street] .
+[/EN#117126/people People] riding down [/EN#117129/scene a road] .

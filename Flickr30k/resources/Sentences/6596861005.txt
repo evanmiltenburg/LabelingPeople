@@ -1,0 +1,5 @@
+[/EN#256011/people A woman] in [/EN#256013/clothing a red shirt] looks at [/EN#256012/other a map] while with [/EN#256014/scene a view of a river] and [/EN#256018/vehicles/scene several boats] in [/EN#0/notvisual the background] .
+[/EN#256011/people Female visitor] reading [/EN#256012/other map] describing [/EN#256014/scene the waterway] standing before [/EN#0/notvisual her] .
+[/EN#256011/people A woman] is casting [/EN#256015/scene a shadow] on [/EN#256012/other the map] that [/EN#0/notvisual she] is looking at .
+[/EN#256011/people A woman] in [/EN#256013/clothing a red shirt] is looking at [/EN#256012/other a map] [/EN#256016/scene outdoors] .
+[/EN#256011/people A lady] in [/EN#256013/other red glances] at [/EN#256012/other her map] .

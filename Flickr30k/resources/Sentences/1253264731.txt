@@ -1,0 +1,5 @@
+[/EN#6433/people A girl] wearing [/EN#6436/clothing a pink shirt] and [/EN#6438/clothing overalls] is smiling and [/EN#0/notvisual there] is [/EN#6435/people another child] [/EN#0/notvisual that] is out of [/EN#6440/scene focus] .
+[/EN#6433/people A girl] in [/EN#6436/clothing a coral shirt] with [/EN#6441/clothing glasses] is smiling while leaning against [/EN#6437/scene a fence] .
+[/EN#6439/people Two girls] , [/EN#6433/other one] in [/EN#6438/clothing overalls] , holding on to [/EN#6437/scene a fence] with [/EN#6444/scene water] behind [/EN#0/notvisual them] .
+[/EN#6434/people Two children] are standing on [/EN#6437/scene a green metal fence] .
+[/EN#6434/people Children] playing in [/EN#6443/other stopped motion]

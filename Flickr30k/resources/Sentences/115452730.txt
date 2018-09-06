@@ -1,0 +1,5 @@
+[/EN#4059/people A woman] with [/EN#4061/people a small child] in [/EN#4063/bodyparts her lap] reading [/EN#4060/other a picture book] .
+[/EN#4059/people A mother] and [/EN#4061/people son] read [/EN#4060/other a book] about [/EN#4062/other dinosaurs] together .
+[/EN#4059/people The woman] is reading to [/EN#4061/people a small boy] about [/EN#4062/other dinosaurs] .
+[/EN#4059/people A woman] and [/EN#4061/people small boy] are looking at [/EN#4060/other a book] .
+[/EN#4059/people A woman] reading [/EN#4060/other a book] to [/EN#4061/people a child] .

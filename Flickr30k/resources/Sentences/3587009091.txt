@@ -1,0 +1,5 @@
+[/EN#129756/animals a dog] swimming in [/EN#129758/scene some water] where [/EN#0/notvisual there] are [/EN#129757/animals some ducks] swimming also
+[/EN#129756/animals A dog] is swimming through [/EN#129758/scene deep water] near [/EN#129757/animals several ducks] .
+[/EN#129756/animals A dog] swims in [/EN#129758/scene deep water] near [/EN#129757/animals three ducks] .
+[/EN#129757/animals Three ducks] and [/EN#129756/animals a dog] swim in [/EN#129758/scene a lake] .
+[/EN#129756/animals a dog] swims near [/EN#129757/animals ducks] .

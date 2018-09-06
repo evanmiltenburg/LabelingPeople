@@ -1,0 +1,5 @@
+[/EN#195512/people A young male] wearing [/EN#195513/clothing a white shirt] with [/EN#195517/other a character] outlined very darkly .
+[/EN#195512/people A man] in [/EN#195515/clothing jeans] and [/EN#195513/clothing a white shirt] is walking down [/EN#195514/scene the street]
+[/EN#195512/people A black man] in [/EN#195513/clothing a white shirt] walks down [/EN#195514/scene the sidewalk] .
+[/EN#195513/clothing Man shirt] and [/EN#195515/clothing jeans] walking in [/EN#195514/scene a park] .
+[/EN#195512/people A young guy] walking down [/EN#195514/scene the walkway] .

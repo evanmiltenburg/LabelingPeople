@@ -1,0 +1,5 @@
+[/EN#46552/people A woman] is backpacking through [/EN#46554/scene a stream] in front of [/EN#46556/scene a waterfall] .
+[/EN#46552/people A hiker] carrying [/EN#46553/clothing a backpack] is walking past [/EN#46556/scene a waterfall] .
+[/EN#46552/people A person] crosses [/EN#46554/scene the stream] in front of [/EN#46556/scene a waterfall] .
+[/EN#46552/people A hiker] with [/EN#46553/clothing a backpack] is walking near [/EN#46557/scene a waterfall] .
+[/EN#46552/people A girl] hiking in front of [/EN#46555/scene a waterfall]

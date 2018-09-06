@@ -1,0 +1,5 @@
+[/EN#23219/animals A fluffy white dog] on [/EN#23222/clothing a leash] with [/EN#23220/people its owner] riding [/EN#23221/vehicles a bike] .
+[/EN#23220/people A person] on [/EN#23221/vehicles a bike] has [/EN#23219/animals a white dog] on [/EN#23222/clothing a leash] .
+[/EN#23219/animals a white dog] being led by [/EN#23220/people a person] on [/EN#23221/vehicles a bicycle]
+[/EN#23219/animals A white dog] walking beside [/EN#23220/people a bicycler] .
+[/EN#23219/animals A white dog] runs along [/EN#23221/vehicles a bicycle] .

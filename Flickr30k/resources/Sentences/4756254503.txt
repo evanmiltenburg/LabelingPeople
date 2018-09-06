@@ -1,0 +1,5 @@
+[/EN#199360/people A senior citizen] wearing [/EN#199367/other a hat , blue button] up [/EN#199362/clothing shirt] , [/EN#199364/clothing Khaki shorts] and [/EN#199368/clothing sandals] walking in [/EN#199361/scene a park] holding [/EN#199363/other two ice cream cones] .
+[/EN#199360/people Man] in [/EN#199365/other a blue button] down [/EN#199362/clothing shirt] walking with [/EN#199363/other two ice cream cones] in [/EN#199369/bodyparts his hands] .
+[/EN#199360/people An old man] is holding [/EN#199363/other two ice cream cones] as [/EN#0/notvisual he] walks through [/EN#199361/scene the park] .
+[/EN#199360/people A man] walking along [/EN#199366/scene a fence] , holding [/EN#199363/other two ice cream cones] .
+[/EN#199360/people An older man] walks in [/EN#199361/scene a park] with [/EN#199363/other two ice cream cones] .

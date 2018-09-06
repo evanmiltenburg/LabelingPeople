@@ -1,0 +1,5 @@
+[/EN#131598/people An opposing wrestler] is jumping off [/EN#131597/other the top ropes] onto [/EN#131599/people another wrestler] .
+[/EN#131598/people A wrestler] is ready to jump on [/EN#131599/people another wrestler] outside [/EN#131600/clothing the ring] .
+[/EN#131598/people One professional wrestler] leaps onto [/EN#0/notvisual another] outside [/EN#131600/clothing the ring] .
+[/EN#131598/people A wrestler] is jumping off of [/EN#131600/clothing the ring] to hit [/EN#131599/people his competitor] .
+[/EN#131596/people Two men] are wrestling .

@@ -1,0 +1,5 @@
+[/EN#108113/people The man] wearing [/EN#108114/clothing a green jacket] is riding [/EN#108118/vehicles a bike] through [/EN#108115/scene deep snow] .
+[/EN#108113/people Person] in [/EN#108114/clothing green jacket] and [/EN#108117/clothing backpack] biking through [/EN#108115/scene snow]
+[/EN#108113/people A skier] in [/EN#108114/clothing a bright green jacket] sliding downhill .
+[/EN#108113/people A person] bicycling through [/EN#108115/scene deep snow] .
+[/EN#108113/people A man] going down [/EN#108116/scene the hill] in [/EN#108115/scene the snow]

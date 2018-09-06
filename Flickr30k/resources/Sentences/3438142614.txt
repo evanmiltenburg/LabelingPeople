@@ -1,0 +1,5 @@
+[/EN#118277/people Two people] wearing [/EN#118280/clothing red motorcycle helmets] are riding together on [/EN#118278/vehicles one red motorbike] along [/EN#118279/scene a street] past [/EN#118287/other posters] about [/EN#118282/other Communism] .
+[/EN#118277/people Two people] on [/EN#118285/other a motor scooter ride] past [/EN#118289/scene utility entrances] to [/EN#118283/scene a building] .
+[/EN#118277/people Two women] riding in [/EN#118278/other a motorcycle] [/EN#0/notvisual they] are [/EN#0/notvisual both] wearing [/EN#118280/clothing helmets]
+[/EN#118281/people A person] in [/EN#118286/clothing orange] is riding on [/EN#118288/vehicles the back of a motor scooter] .
+[/EN#118277/people The people] are riding [/EN#118278/vehicles a red moped] in [/EN#118279/scene the street] .

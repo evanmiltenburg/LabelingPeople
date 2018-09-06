@@ -1,0 +1,5 @@
+[/EN#69570/people A woman] takes [/EN#0/notvisual a picture of another] in [/EN#69575/clothing purple] in [/EN#69572/scene a park] .
+[/EN#69569/people A girl] is taking [/EN#69570/people a picture of another girl] in [/EN#69572/scene a park] .
+[/EN#69573/people Two little girls] playing in [/EN#69571/scene the parking lot] .
+[/EN#69569/people one girl] taking [/EN#69574/people a picture of her friend]
+[/EN#69569/people A girl] is taking [/EN#69570/people a picture of another girl] in [/EN#69571/scene a park] .

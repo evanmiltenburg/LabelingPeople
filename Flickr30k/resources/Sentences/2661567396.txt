@@ -1,0 +1,5 @@
+[/EN#64669/people Man] with [/EN#64670/clothing SANTANA 57 shirt] sits in [/EN#64671/scene sparsely occupied seating area] .
+[/EN#64669/people A man] wearing [/EN#64670/clothing a green numbered shirt] is sitting in [/EN#64671/scene a stadium] .
+[/EN#64669/people A green shirted man] sits among [/EN#64671/scene the many unoccupied red seats] .
+[/EN#64669/people A boy] in [/EN#64670/clothing a green shirt] is sitting in [/EN#64671/scene an almost empty stadium] .
+[/EN#64673/scene A photo of an arena] with [/EN#64672/people very few people] in [/EN#64674/scene the stands] .

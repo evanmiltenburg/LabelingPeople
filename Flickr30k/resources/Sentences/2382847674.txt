@@ -1,0 +1,5 @@
+[/EN#45413/people A man] wearing [/EN#45417/clothing a yellow shirt] is steering [/EN#45414/vehicles/scene a boat] [/EN#0/notvisual that] has [/EN#45412/people several other people] on [/EN#0/notvisual it] .
+[/EN#45412/people A group of young people] are riding [/EN#45418/vehicles a speedboat] on [/EN#45415/scene the water] .
+[/EN#45412/people A group of people] are in [/EN#45414/vehicles/scene a boat] on [/EN#45415/scene a large body of water] .
+[/EN#45412/people A group of people] enjoying [/EN#45416/other an outing] on [/EN#45414/vehicles/scene a boat] .
+[/EN#45413/people Man] steering [/EN#45412/people a boat full of people]

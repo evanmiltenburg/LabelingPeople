@@ -1,0 +1,5 @@
+[/EN#173900/people A lady] with [/EN#173909/bodyparts red-hair] in [/EN#173905/clothing leather pants] , [/EN#173907/clothing boots] , and [/EN#173902/clothing jacket] walks down [/EN#173903/scene the sidewalk] with [/EN#173901/people a little boy] .
+[/EN#173900/people A woman] in [/EN#173902/clothing a leather jacket] yawns as [/EN#0/notvisual she] walks beside [/EN#173901/people a young boy] down [/EN#173903/scene the sidewalk] .
+[/EN#173900/people A woman] in [/EN#173902/clothing black] holds [/EN#0/notvisual her] [/EN#173908/bodyparts mouth] walking down [/EN#173903/scene the street] with [/EN#173901/people a young boy] .
+[/EN#173900/people A red-haired woman] wearing [/EN#173902/other all leather] walking on [/EN#173903/scene a sidewalk] .
+[/EN#173900/people A woman] in [/EN#173910/other tight] , [/EN#173905/clothing leather pants] walks with [/EN#173901/people a boy] .

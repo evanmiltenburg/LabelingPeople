@@ -1,0 +1,5 @@
+[/EN#72149/people Two men] wearing [/EN#72155/clothing gray shirts] and [/EN#72151/clothing red hats] are working with [/EN#72152/other cement] .
+[/EN#72149/people Two men] wearing [/EN#72151/clothing brown hats] are doing [/EN#72156/other work] on [/EN#72150/scene a yellow house] .
+[/EN#72149/people Two men] in [/EN#72151/clothing baseball caps] applying [/EN#72152/other mortar] to [/EN#72150/other a wall] .
+[/EN#72149/people Two men] in front of [/EN#72150/other a wall] [/EN#0/notvisual that] 's painted yellow .
+[/EN#72153/people A man] with [/EN#72154/clothing an orange cap] scraping [/EN#72152/other concrete] .

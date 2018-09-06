@@ -1,0 +1,5 @@
+[/EN#8261/animals A black dog] with [/EN#8263/clothing a red collar] walks through [/EN#8262/scene the grass] with [/EN#8265/bodyparts his mouth open and tongue] hanging out .
+[/EN#8261/animals A dog] with [/EN#8263/clothing a red collar] and [/EN#8264/bodyparts its tongue] hanging out runs through [/EN#8262/scene tall grass] .
+[/EN#8261/animals A black and gray dog] runs in [/EN#8262/scene a field] with [/EN#8264/bodyparts its tongue] hanging out .
+[/EN#8261/animals A black dog] with [/EN#8263/clothing a red collar] runs through [/EN#8262/scene grass] .
+[/EN#8261/animals A dog] with [/EN#8263/clothing red collar] is running in [/EN#8262/scene the field] .

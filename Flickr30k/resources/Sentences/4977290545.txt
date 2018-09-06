@@ -1,0 +1,5 @@
+[/EN#225280/people A man] in [/EN#225285/clothing a checkered shirt] pushes [/EN#225287/other a red bin] in front of [/EN#0/notvisual him] while wearing [/EN#225288/other something] on [/EN#225290/bodyparts his head] .
+[/EN#225280/people A man] wearing [/EN#225283/clothing a gray helmet] next to [/EN#225284/vehicles his moped] in [/EN#225282/scene a busy area] .
+[/EN#225280/people A middle-aged man] on [/EN#225284/vehicles his bike] wearing [/EN#225283/clothing a helmet] in [/EN#225281/scene a market] .
+[/EN#225280/people A man] in [/EN#225285/clothing a plaid shirt] is wearing [/EN#225283/clothing a gray motorcycle helmet] .
+[/EN#225280/people Man] standing [/EN#225289/other wile] wearing [/EN#225283/clothing a helmet] .

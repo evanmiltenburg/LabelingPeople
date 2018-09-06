@@ -1,0 +1,5 @@
+[/EN#144742/people A young man] in [/EN#144743/clothing a backward baseball cap] is standing on [/EN#144749/other a skateboard] leaning backward , putting [/EN#144752/other his weight] on [/EN#144754/other one foot] , on [/EN#144745/other a blue block of concrete] .
+[/EN#144742/people A young man] with [/EN#144744/other a backwards] [/EN#144743/clothing hat] is doing [/EN#0/notvisual a skateboarding trick] in front of [/EN#144751/scene a green field] .
+[/EN#144742/people A young male] practicing [/EN#0/notvisual tricks] with [/EN#144749/other his skateboard] on [/EN#144745/other a cement curb] .
+[/EN#144742/people Guy] in [/EN#144753/clothing jeans] doing [/EN#144746/other a manual] on [/EN#144747/other an old planter] in [/EN#144750/other California] .
+[/EN#144742/people Skateboarder] with [/EN#144744/other hat backwards] perched on [/EN#144747/other low wall] .

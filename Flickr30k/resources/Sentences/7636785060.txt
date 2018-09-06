@@ -1,0 +1,5 @@
+[/EN#272486/people A man] in [/EN#272488/clothing a pink and green shirt] is riding down [/EN#0/notvisual what] appears to be [/EN#272491/scene a parade route] while on [/EN#272487/vehicles a tiny bicycle] .
+[/EN#272486/people A bald man] in [/EN#272489/clothing white sunglasses] and [/EN#272488/clothing a green shirt] rides [/EN#272487/vehicles a comically small yellow bike] .
+[/EN#272486/people A guy] , wearing [/EN#272488/clothing a green shirt] and [/EN#272489/clothing white sunglasses] , is peddling [/EN#272487/vehicles a tiny bicycle] .
+[/EN#272486/people A bald man] wearing [/EN#272489/clothing sunglasses] peddling [/EN#272487/vehicles a very small bicycle] .
+[/EN#272486/people A young man] is riding [/EN#272487/vehicles a very small bike] in [/EN#272490/scene the city] .

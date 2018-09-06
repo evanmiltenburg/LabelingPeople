@@ -1,0 +1,5 @@
+[/EN#28923/animals The brown dog] is performing [/EN#0/notvisual a jump] in [/EN#28925/other an obstacle course] .
+[/EN#28923/animals A brown dog] jumps over [/EN#28926/other a barrier] [/EN#0/notvisual that] is black and white .
+[/EN#28923/animals Orange dog] jumps over [/EN#28927/scene striped posts] on [/EN#28929/other course] .
+[/EN#28923/animals A dog] jumping high to clear [/EN#28927/scene the bars] .
+[/EN#28923/animals a dog] jumps over [/EN#28924/other the pole] .

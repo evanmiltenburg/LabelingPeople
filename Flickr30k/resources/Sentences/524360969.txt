@@ -1,0 +1,5 @@
+[/EN#232001/people A woman] in [/EN#232012/clothing a hi-viz jacket] is smiling at [/EN#232002/people person] carrying [/EN#232006/other a stop sign] in front of [/EN#232008/scene a crane] .
+[/EN#232003/people Two construction workers] holding [/EN#232006/other signs interact] on [/EN#232005/scene a street] in front of [/EN#232009/vehicles a large truck] .
+[/EN#232003/people a workers] standing in [/EN#232005/scene the road] holding [/EN#232006/other a stop sign] in front of [/EN#232001/people another worker]
+[/EN#232003/people Two flaggers] chatting on [/EN#232007/scene a construction site] .
+[/EN#232002/people Person] holding [/EN#232006/other stop sign] to [/EN#232010/vehicles direct traffic] .

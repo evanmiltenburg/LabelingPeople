@@ -1,0 +1,5 @@
+[/EN#159265/people A woman] wearing [/EN#159269/clothing a Dear Santa t-shirt] is looking at [/EN#159266/other a Star Wars book] with [/EN#159267/people a young boy] in [/EN#159268/clothing a bright pink shirt] .
+[/EN#159265/people A dark-haired woman] and [/EN#159267/people a little boy] in [/EN#159268/clothing a red shirt] looking at [/EN#159266/other a Star Wars book] together .
+[/EN#159265/people A woman] with [/EN#159270/bodyparts black curly hair] reads [/EN#159266/other a book] with [/EN#159267/people a boy] in [/EN#159268/clothing a red shirt] .
+[/EN#159265/people A woman] and [/EN#159267/people a young boy] read [/EN#159266/other a book] together in [/EN#159271/scene a living room] .
+[/EN#159265/people A woman] reading to [/EN#159267/people a child] .

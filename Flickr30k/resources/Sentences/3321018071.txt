@@ -1,0 +1,5 @@
+[/EN#109234/people Two men] are walking up [/EN#109239/other the stairs] [/EN#109243/other one] is wearing [/EN#109240/clothing a blue shirt] and [/EN#109237/other the other one] is wearing [/EN#109236/clothing a gray shirt] .
+[/EN#109234/people Two brown-haired men] wearing [/EN#109244/clothing short-sleeved shirts] and [/EN#109238/clothing shorts] are climbing [/EN#109239/other stairs] .
+[/EN#109234/people Two men] climb [/EN#109239/other stairs] , [/EN#0/notvisual one of which] is wearing [/EN#109236/clothing a shirt] [/EN#0/notvisual that] says " [/EN#109242/people nerd] " on [/EN#0/notvisual it] .
+[/EN#109234/people Two men] wearing [/EN#109238/clothing shorts] are going up outside [/EN#109239/other steps] .
+[/EN#109234/people Two guys] out for [/EN#109241/other an afternoon stroll]

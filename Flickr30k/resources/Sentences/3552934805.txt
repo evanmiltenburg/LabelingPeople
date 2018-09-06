@@ -1,0 +1,5 @@
+In [/EN#127132/scene a white-walled gymnasium] , [/EN#127130/people a shirtless male gymnast] does [/EN#127133/other a handstand] on [/EN#127134/scene the parallel bars] as [/EN#127135/people another man] watches [/EN#0/notvisual him] in [/EN#0/notvisual the background] .
+[/EN#127130/people A muscular boy] is in [/EN#127131/scene a gym] and is using [/EN#127137/bodyparts his hands] to stand on [/EN#127134/other balance beams] .
+[/EN#127130/people A gymnast] does [/EN#127133/other a handstand] on [/EN#127134/scene the parallel bars] .
+[/EN#127130/people A male gymnast] does [/EN#127133/other a handstand] on [/EN#127134/scene the bars] .
+[/EN#127130/people cal state gymnast] balancing

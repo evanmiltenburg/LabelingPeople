@@ -1,0 +1,5 @@
+[/EN#2015/people A construction worker] in [/EN#2016/clothing a neon vest] is working with [/EN#2017/other electrical equipment] while [/EN#2023/other sparks] fly .
+[/EN#2015/people A man] in [/EN#2019/clothing a face mask] and [/EN#2016/clothing high visibility vest] working on [/EN#2022/scene a train track] .
+[/EN#2015/people A woman] with [/EN#2016/clothing an orange] and [/EN#2016/clothing gray shirt] is fixing [/EN#2017/other something] .
+[/EN#2015/people A man] fixing [/EN#2021/scene the road] with [/EN#2017/other his equipment] .
+[/EN#0/notvisual He] is working in [/EN#2016/clothing an orange vest] .

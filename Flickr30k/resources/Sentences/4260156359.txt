@@ -1,0 +1,5 @@
+[/EN#160620/animals Monkey] walking on [/EN#160621/other a telephone wire] in front of [/EN#160622/other a sign] [/EN#0/notvisual that] says [/EN#160623/other friends cycle] .
+[/EN#160620/animals A monkey] [/EN#160625/other us] climbing across [/EN#160624/other a rope] in front of [/EN#160622/other a friends cycle sign] .
+[/EN#160620/animals A monkey] climbs over [/EN#160624/other wires] above [/EN#160626/scene a street] .
+[/EN#160620/animals A monkey] is climbing on [/EN#160621/other a black tube] .
+[/EN#160620/animals A monkey] is walking across [/EN#160621/other a wire] .

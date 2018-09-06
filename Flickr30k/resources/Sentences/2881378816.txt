@@ -1,0 +1,5 @@
+[/EN#78662/people A man] in [/EN#78671/clothing a striped shirt] and [/EN#78664/clothing khaki pants] plays [/EN#78673/instruments the bass] next to [/EN#78662/people a man] with [/EN#78669/clothing a hat] [/EN#0/notvisual who] is sitting in [/EN#78665/other a chair] .
+[/EN#78662/people A man] is sitting on [/EN#78665/other a chair] , while [/EN#78666/people many people] walk in front of [/EN#0/notvisual him] .
+[/EN#78667/other A busy historical cityscape] with [/EN#78666/people people] painting and playing [/EN#78672/other music] .
+[/EN#78662/people A man] in [/EN#78663/clothing a blue shirt] is sitting on [/EN#78665/other a chair] in [/EN#78674/scene the street] .
+[/EN#78668/people Two street musicians] are performing , as [/EN#78666/people people] walk by .

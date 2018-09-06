@@ -1,0 +1,5 @@
+[/EN#4204/people The man] in [/EN#4205/clothing the hooded sweatshirt] is controlling [/EN#4206/other the large machine] .
+[/EN#4204/people A man] with [/EN#4207/other his jacket hood] [/EN#4209/other up] sits on [/EN#4206/other a machine] .
+[/EN#4204/people A worker] operates [/EN#4206/other machinery] on [/EN#4210/scene a cold day] .
+[/EN#4204/people A black man] operates [/EN#4208/scene an orange crane] .
+[/EN#4204/people A man] operates [/EN#4208/scene an orange crane] .

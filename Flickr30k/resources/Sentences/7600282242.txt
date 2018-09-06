@@ -1,0 +1,5 @@
+[/EN#272002/people A man] in [/EN#272007/clothing a white and black uniform] is attempting to hit [/EN#272004/other the baseball] .
+[/EN#272002/people A baseball player] is swinging at [/EN#272004/other a baseball] thrown by [/EN#272001/people a pitcher] .
+[/EN#272002/people A baseball player] swings [/EN#272005/other his bat] to hit [/EN#272006/other a traveling baseball] .
+[/EN#272002/people A batter] is getting ready to hit [/EN#272004/other the ball] coming at [/EN#0/notvisual him] .
+[/EN#272002/people A baseball player] swinging [/EN#272005/other a bat] at [/EN#272006/other an oncoming ball] .

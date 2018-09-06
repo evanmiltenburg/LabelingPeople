@@ -1,0 +1,5 @@
+[/EN#94274/people A young man] in [/EN#94279/clothing a dark blue jacket] and [/EN#94273/people a boy] in [/EN#94276/clothing a red t-shirt] are standing at [/EN#94277/other a store counter] conducting [/EN#94282/other business] with [/EN#94281/people a woman] in [/EN#94278/clothing a blue top] [/EN#0/notvisual who] 's wearing [/EN#94283/clothing gloves] .
+[/EN#94274/people A man] and [/EN#94273/people a young boy] are checking out at [/EN#94277/other the electronics section of Walmart] .
+[/EN#94273/people A boy] in [/EN#94276/clothing a red shirt] at [/EN#94275/other Walmart] is checking out [/EN#94284/other his items] for [/EN#94285/other purchase] .
+[/EN#94274/people A man] and [/EN#94273/people a child] at [/EN#94280/scene a store checkout counter] .
+[/EN#94274/people A father] and [/EN#94273/people son] at [/EN#94275/other a Walmart] .

@@ -1,0 +1,5 @@
+[/EN#120995/animals a black dog] jumping over [/EN#121000/other a yellow pole] in [/EN#120999/other an obstacle course]
+[/EN#120995/animals A black dog] is jumping over [/EN#120997/other a multicolored barrier] .
+[/EN#120995/animals Black dog] jumping [/EN#121000/scene bar] in [/EN#121001/other obstacle course]
+[/EN#120995/animals A black dog] jumping over [/EN#120996/other an obstacle] .
+[/EN#120995/animals A dog] is jumping over [/EN#120997/other a hurdle] .

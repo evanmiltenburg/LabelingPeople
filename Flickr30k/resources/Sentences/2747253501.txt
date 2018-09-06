@@ -1,0 +1,5 @@
+[/EN#70100/people A man] in [/EN#70103/clothing a white shirt] and [/EN#70105/clothing black jean] with [/EN#70107/bodyparts a ponytail] juggles [/EN#70104/other balls] as [/EN#70101/vehicles a bicycle] leans against [/EN#70102/other the wall] with [/EN#0/notvisual what] looks like [/EN#70106/people the belonging of someone] homeless .
+[/EN#70100/people A person] staring at [/EN#70102/other a wall] [/EN#0/notvisual that] has [/EN#70101/vehicles a bike] against [/EN#0/notvisual it] .
+[/EN#70100/people Man] in [/EN#70103/clothing white] juggling with [/EN#70101/vehicles a bike] against [/EN#70102/other the wall] .
+[/EN#70100/people A man] in [/EN#70103/clothing a white shirt] juggling on [/EN#70108/scene a street] .
+[/EN#70100/people A man] is standing near [/EN#70101/vehicles a bicycle] .

@@ -1,0 +1,5 @@
+[/EN#6254/people A man] and [/EN#6257/people woman] are holding [/EN#6256/other a sign] [/EN#0/notvisual that] reads , " Teaching [/EN#6255/people Children] for [/EN#6259/other peace] " .
+[/EN#6254/people A man] and [/EN#6257/people woman] holding [/EN#6256/other a sign] [/EN#0/notvisual that] reads , " Teaching [/EN#6255/people children] for [/EN#6258/other peace] . "
+[/EN#6253/people Two adults] hold [/EN#6256/other a sign] [/EN#0/notvisual which] says " Teaching [/EN#6255/people Children] for [/EN#6258/other peace] " .
+[/EN#6254/people A man] and [/EN#6257/people a woman] are holding [/EN#6256/other a sign] [/EN#0/notvisual that] says teaching [/EN#6255/people children] .
+[/EN#6253/people A couple] holds [/EN#6256/other a sign] [/EN#0/notvisual that] reads Teaching [/EN#6255/people children] for [/EN#6259/other peace] .

@@ -1,0 +1,5 @@
+[/EN#61239/people Construction worker] wearing [/EN#61240/clothing a hard hat] stands above [/EN#61241/scene hole] while [/EN#61244/people another construction worker] stands with [/EN#61249/bodyparts folded arms] inside [/EN#61241/scene hole] .
+[/EN#61239/people A male construction worker] in [/EN#61242/clothing a yellow safety vest] and [/EN#61240/clothing orange safety hat] with [/EN#61246/clothing headphones] , holds [/EN#61245/other a platform of thin wood] .
+[/EN#61243/people Two men] in [/EN#61240/clothing a construction hat] and [/EN#61242/clothing reflective safety vests] at [/EN#61248/other work] .
+[/EN#61239/people A construction worker] is standing next to [/EN#61241/scene a hole] in [/EN#0/notvisual the ground] .
+[/EN#61239/people A construction worker] looking at [/EN#61247/other something] off-screen .

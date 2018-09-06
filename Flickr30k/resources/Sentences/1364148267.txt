@@ -1,0 +1,5 @@
+[/EN#10098/people 2 men] , [/EN#10099/other one] in [/EN#10100/clothing orange raincoat] and [/EN#10101/clothing hard hat] and holding [/EN#10102/other a yellow pole] , [/EN#10103/people other man] in [/EN#10104/clothing jeans] and [/EN#10105/clothing t-shirt] , [/EN#0/notvisual both] looking at [/EN#10106/other caution cone] .
+[/EN#10098/people A man] in [/EN#10100/clothing an orange raincoat] is discussing [/EN#10111/other something] with [/EN#10103/people another man] wearing [/EN#10107/clothing work clothes] near [/EN#10109/scene a sewer manhole] .
+[/EN#10098/people A city worker] places [/EN#10106/other a street cone device] [/EN#0/notvisual which] is verified by [/EN#10103/people his colleague] .
+[/EN#10098/people A man] with [/EN#10101/clothing a hard hat] and [/EN#10108/clothing yellow raincoat] stands near [/EN#10106/other an orange cone] .
+[/EN#10098/people two men] outside [/EN#10099/other one] working with [/EN#10102/other a pole] in [/EN#10112/bodyparts hand] .

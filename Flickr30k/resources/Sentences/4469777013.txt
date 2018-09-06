@@ -1,0 +1,5 @@
+[/EN#171149/people A girl] wearing [/EN#171150/clothing a pink hat] and [/EN#171152/clothing pants] with [/EN#171154/clothing a gray sweatshirt] and [/EN#171155/clothing blue gloves] is sitting on [/EN#0/notvisual the ground] holding [/EN#171151/other a stick] .
+[/EN#171149/people A girl] holding [/EN#171151/other a stick] looks back at [/EN#0/notvisual the camera] while sitting among [/EN#171153/other some trees] and [/EN#171156/scene bushes] .
+[/EN#171149/people A girl] wearing [/EN#171152/clothing pink pants] and [/EN#171150/clothing hat] holds [/EN#171151/other a stick] and sits down in [/EN#171153/other the woods] .
+[/EN#171149/people A girl] in [/EN#171150/clothing a pink hat] sits on [/EN#0/notvisual the ground] .
+[/EN#171149/people A girl] in [/EN#171150/clothing a pink hat] sits outside .

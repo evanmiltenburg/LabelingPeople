@@ -1,0 +1,5 @@
+[/EN#282578/people A man] with [/EN#282581/bodyparts black hair] is wearing [/EN#282583/clothing a red and yellow shirt] and has [/EN#282584/bodyparts a yellow clown nose] and [/EN#282582/bodyparts face makeup] on .
+[/EN#282578/people A person] is wearing [/EN#282582/bodyparts mime makeup] and [/EN#282585/clothing glasses] on [/EN#282586/bodyparts his head] as [/EN#0/notvisual he] looks at [/EN#0/notvisual the camera] .
+[/EN#282578/people A clown] dressed in [/EN#282583/clothing red and yellow] holds [/EN#282580/other something] to [/EN#282587/bodyparts his mouth] .
+[/EN#282578/people A person] wearing [/EN#282582/bodyparts clown makeup] points [/EN#282580/other a fake gun] at [/EN#0/notvisual the camera] .
+[/EN#282578/people A person] with [/EN#282581/bodyparts black hair] is dressed like [/EN#282578/people a clown] .

@@ -1,0 +1,5 @@
+[/EN#127185/people a person] in [/EN#127187/other a blue tracksuit] carrying [/EN#127189/other a package] is standing on [/EN#127186/scene a snowy mountain]
+[/EN#127185/people A woman] in [/EN#127187/clothing blue] stands on [/EN#127186/scene a cliff 's edge] holding [/EN#127190/clothing a shopping bag] .
+[/EN#127185/people This person] , dressed in [/EN#127187/clothing blue] , is standing on [/EN#127186/scene a snowy mountain] .
+[/EN#127185/people A girl] standing on [/EN#127191/other a snowy hillside] .
+[/EN#127185/people A girl] is standing on [/EN#127186/scene a snowy cliff] .

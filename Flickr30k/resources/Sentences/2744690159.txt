@@ -1,0 +1,5 @@
+[/EN#69892/animals Three brown and black dogs] are splashing in [/EN#69893/scene the water] .
+[/EN#69892/animals Three brown dogs] are playing in [/EN#69893/scene the sea] .
+[/EN#69892/animals Three brown dogs] are in [/EN#69893/scene the water] .
+[/EN#69895/animals Four dogs] splashing in [/EN#69894/scene the water]
+[/EN#69892/animals Three dogs] playing in [/EN#69894/scene water] .

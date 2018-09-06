@@ -1,0 +1,5 @@
+[/EN#24527/people A bunch of people] and [/EN#24529/people a handicapped man] are on [/EN#24528/scene a street sidewalk] [/EN#0/notvisual that] has [/EN#24531/vehicles/scene a bus] and [/EN#24535/vehicles red car] in [/EN#0/notvisual the background] .
+[/EN#24527/people People] on [/EN#24533/scene a street corner] looking up at [/EN#24537/other an unknown object] next to [/EN#24529/people a man] in [/EN#24538/other a wheelchair] .
+[/EN#24527/people A group of people] stands at [/EN#24528/scene a busy intersection of a city] on [/EN#24532/scene a rainy day] .
+[/EN#24530/people A man] and [/EN#24536/people woman] look upward on [/EN#24528/scene a city block] .
+[/EN#24528/scene A city street] busy with [/EN#24527/people people] and [/EN#24534/vehicles cars] .

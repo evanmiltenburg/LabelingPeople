@@ -1,0 +1,5 @@
+[/EN#234643/people A dark-skinned man] is standing on [/EN#234647/other a ladder painting] in front of [/EN#234646/scene a building] with [/EN#234652/other many windows] .
+[/EN#234643/people A smiling man] is painting [/EN#234650/other a wall] while standing next to [/EN#234647/other an orange ladder] .
+[/EN#234643/people A man] wearing [/EN#234645/clothing a blue shirt] , standing on [/EN#234647/other a ladder] ; painting [/EN#234646/scene a building] .
+[/EN#234643/people A man] is painting [/EN#234650/other the siding] , of [/EN#234646/scene previously beige building] , white .
+[/EN#234643/people Man] in [/EN#234645/clothing blue shirt] on [/EN#234646/scene a ladder painting building] .

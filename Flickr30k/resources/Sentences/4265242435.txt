@@ -1,0 +1,5 @@
+[/EN#160820/people A man] with [/EN#160822/clothing a cowboy hat] is riding [/EN#160821/animals a horse] [/EN#0/notvisual that] is jumping .
+[/EN#160820/people A cowboy] riding on [/EN#160821/animals his horse] [/EN#0/notvisual that] is jumping in [/EN#0/notvisual the air] .
+[/EN#160820/people A cowboy] balances on [/EN#160821/animals his horse] in [/EN#160823/other a rodeo] .
+[/EN#160820/people Man] wearing [/EN#160822/clothing a cowboy hat] riding [/EN#160821/animals a horse] .
+[/EN#160821/animals A horse] bucking [/EN#160820/people a cowboy] in [/EN#160823/other a rodeo]

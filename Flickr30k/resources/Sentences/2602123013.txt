@@ -1,0 +1,5 @@
+[/EN#60831/people A man] in [/EN#60833/clothing a blue shirt] places [/EN#60836/other kebabs] and [/EN#60834/other burgers] on [/EN#60832/other a grill] .
+[/EN#60831/people A man] [/EN#60833/clothing a blue shirt] cooking [/EN#60834/other food] on [/EN#60832/other a grill] .
+[/EN#60831/people A man] is grilling [/EN#60834/other kebabs] on [/EN#60832/other a barbecue] .
+[/EN#60831/people A man] cooking [/EN#60835/other food] on [/EN#60832/other the grill] .
+[/EN#60831/people A man] cooks outside on [/EN#60832/other a grill] .

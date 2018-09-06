@@ -1,0 +1,5 @@
+[/EN#217921/people A group of tourists] riding [/EN#217924/animals camels] on [/EN#217925/scene a dirt path] accompanied by [/EN#217919/people pedestrians] .
+[/EN#217923/people Group of american camel riders] on [/EN#217925/scene a dirt road] smiling and having [/EN#0/notvisual fun] .
+[/EN#217921/people A group of tourists] are riding [/EN#217924/animals a caravan of camels] on [/EN#217925/scene a dirt road] .
+[/EN#217926/people Group of men] and [/EN#217922/people women] riding [/EN#217924/animals camels]
+[/EN#217920/people A group of people] riding [/EN#217924/animals camels] .

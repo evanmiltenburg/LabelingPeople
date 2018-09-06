@@ -1,0 +1,5 @@
+[/EN#203621/people Several people] with [/EN#203620/instruments instruments] waiting at [/EN#203618/scene a train station] .
+[/EN#203621/people A group of people] on [/EN#203618/scene the street] setting up [/EN#203620/instruments instruments] .
+[/EN#203618/other A train stop] with [/EN#203621/people a band] including [/EN#203616/other a tuba] and [/EN#203617/instruments drum] .
+[/EN#203621/people People] playing [/EN#203620/instruments instruments] at [/EN#203618/scene a train station] .
+[/EN#203621/people A band] prepares as [/EN#0/notvisual they] stand on [/EN#203618/other a platform] .

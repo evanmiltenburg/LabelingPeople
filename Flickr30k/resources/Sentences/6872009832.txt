@@ -1,0 +1,5 @@
+[/EN#259981/vehicles A lone red , white , and black race car] is being driven by [/EN#259986/people a single driver] on [/EN#259983/other a racetrack] .
+[/EN#259981/vehicles A red and white race car] rounds [/EN#259982/other the curve] on [/EN#259982/scene a racing track] .
+[/EN#259981/vehicles A red and white race car] is making [/EN#259982/other a turn] around [/EN#259982/scene the track] .
+[/EN#259981/vehicles A red and white car] rounds [/EN#259982/scene a corner] on [/EN#259983/other a racetrack] .
+[/EN#259981/vehicles A race car] speeding on [/EN#259982/scene the track] .

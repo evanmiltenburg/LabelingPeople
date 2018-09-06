@@ -1,0 +1,5 @@
+[/EN#84186/people A man] in [/EN#84187/clothing a green swimsuit] entering [/EN#84192/other the water headfirst] after jumping off [/EN#84188/other a rock] .
+[/EN#84186/people A person] is diving into [/EN#84189/scene blue water] on [/EN#84190/scene a rocky shore] .
+[/EN#84186/people A person] falls into [/EN#84189/scene the water] near [/EN#84191/other some rocks] .
+[/EN#84186/people A man] jumps off [/EN#84191/other some rocks] into [/EN#84189/scene the water] .
+[/EN#84186/people a man] dives [/EN#84193/other headfirst] into [/EN#84189/scene the water] .

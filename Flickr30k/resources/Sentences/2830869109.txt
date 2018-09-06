@@ -1,0 +1,5 @@
+[/EN#75347/people A young girl] and [/EN#75348/people young boy] are playing with [/EN#75349/scene pails of water] with [/EN#75350/scene the ocean] in [/EN#0/notvisual the background] .
+[/EN#75347/people A girl] and [/EN#75348/people boy] are playing with [/EN#75349/scene buckets of water] in [/EN#75351/scene the garden] overlooking [/EN#75350/scene a lake] .
+[/EN#75347/people A girl] with [/EN#75349/scene a bucket of water] is being chased by [/EN#75348/people a boy] with [/EN#75349/scene a bucket of water] .
+[/EN#75348/people A boy] and [/EN#75347/people girl] playing with [/EN#75352/other buckets] in [/EN#75353/other a lawn sprinkler]
+[/EN#75354/people Children] play in [/EN#75353/other a sprinkler] near [/EN#75355/scene a beach] .

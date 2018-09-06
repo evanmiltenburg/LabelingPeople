@@ -1,0 +1,5 @@
+[/EN#71000/clothing Red] shirted [/EN#70996/people worker] climbs [/EN#70999/other ladder] to peer into [/EN#70997/other a container] perched on [/EN#70998/other a forklift] .
+[/EN#70996/people A man] in [/EN#71002/clothing a red shirt] works on [/EN#70998/other a machine] on top of [/EN#70999/other a metal ladder] .
+[/EN#70996/people A man] is on [/EN#70999/other a ladder] looking inside [/EN#70997/other a machine] .
+[/EN#70996/people A man] on [/EN#70999/other a tall ladder] is repairing [/EN#70997/other a machine] .
+[/EN#70996/people This man] is working in [/EN#71001/other the refinery] .

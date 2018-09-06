@@ -1,0 +1,5 @@
+[/EN#46079/people A man] is pushing [/EN#46080/vehicles a blue cart] through [/EN#46081/scene a dirt road] .
+[/EN#46079/people A vendor] travels with [/EN#46080/vehicles his cart] down [/EN#46081/scene a dirt road] .
+[/EN#46079/people A man] pushes [/EN#46080/vehicles a blue cart] on [/EN#46081/scene a dirt road] .
+[/EN#46079/people A man] pushing [/EN#46080/vehicles a cart] on [/EN#46081/scene a dirt road] .
+[/EN#46079/people A man] is pushing [/EN#46080/vehicles a two wheel cart] .

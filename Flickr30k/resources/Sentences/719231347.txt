@@ -1,0 +1,5 @@
+[/EN#266859/people A boy] wearing [/EN#266861/clothing a hooded sweatshirt] is looking down attempting to fix [/EN#266860/clothing a brightly colored umbrella] .
+[/EN#266859/people A teenager] dressed in [/EN#266861/clothing a hoodie] trying to fix [/EN#266860/clothing his multicolored umbrella] .
+[/EN#266859/people A blond boy] in [/EN#266861/clothing a brown sweater] pains on [/EN#266860/clothing a colorful umbrella] .
+[/EN#266859/people A person] trying to fix [/EN#266860/clothing a broken umbrella] .
+[/EN#266859/people A man] tries to fix [/EN#266862/other a colorful object] .

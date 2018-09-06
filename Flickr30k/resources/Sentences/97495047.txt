@@ -1,0 +1,5 @@
+[/EN#284689/people A man] sits alone with [/EN#284693/other his drink] at [/EN#284691/other a long table] in [/EN#284695/other a darkened cafe] overlooking [/EN#284690/scene a busy shopping mall] .
+[/EN#284689/people a man] with [/EN#284699/bodyparts dark hair] is sitting in [/EN#284696/other a half] backed [/EN#284698/other chair] by [/EN#284692/other a window] overlooking [/EN#284690/scene a street] .
+[/EN#284689/people Dark-haired man] with [/EN#284697/bodyparts beard] reading while drinking [/EN#284693/other coffee] at [/EN#284691/other a counter] .
+[/EN#284689/people A man] sits by [/EN#0/notvisual himself] at [/EN#284691/other a table] by [/EN#284692/other the window of a dark cafe] .
+[/EN#284689/people A male] sitting down enjoy [/EN#284693/other his coffee] at [/EN#284694/scene a coffee shop] .

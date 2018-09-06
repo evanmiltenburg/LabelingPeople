@@ -1,0 +1,5 @@
+[/EN#70255/animals A dog] with [/EN#70261/bodyparts his eyes] bulging out [/EN#70263/other runs] in front of [/EN#70255/animals another running dog] .
+[/EN#0/notvisual There] are [/EN#70256/animals two greyhounds] racing around [/EN#70258/scene a dirt track] .
+[/EN#70255/animals A dog] wearing [/EN#70264/clothing a muzzle] is racing around [/EN#70257/scene a corner] .
+[/EN#70256/animals The two greyhounds] are racing around [/EN#70257/scene a corner] .
+[/EN#70256/animals Two horses] are neck to neck at [/EN#70260/other a race] .

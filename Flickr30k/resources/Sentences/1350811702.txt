@@ -1,0 +1,5 @@
+[/EN#9526/people Young boy] wearing [/EN#9527/other waders] standing on [/EN#9528/scene a dock] fishing , [/EN#9529/people other people] are in [/EN#0/notvisual the background] .
+[/EN#9526/people Young boy] standing next to [/EN#9530/scene water] casting [/EN#9531/other his fishing rod] with [/EN#9529/other others] next to [/EN#0/notvisual him] .
+[/EN#9526/people A young boy] casting [/EN#9531/other his fishing line] off [/EN#9533/scene a pier]
+[/EN#9526/people People] fishing over [/EN#9534/scene white fence]
+[/EN#9526/people Children] fishing off [/EN#9533/scene a bridge]

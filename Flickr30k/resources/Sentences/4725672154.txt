@@ -1,0 +1,5 @@
+[/EN#195745/people A man] inside of [/EN#195746/scene a shop] with [/EN#195754/clothing a black shirt] and [/EN#195755/clothing pants] taking [/EN#195753/other someones order] in [/EN#195746/scene a shop] .
+[/EN#195745/people Workers] in [/EN#195747/scene a kitchen] at [/EN#195748/scene a restaurant] are visible through [/EN#195748/other a storefront window] .
+[/EN#195745/people A man] is putting [/EN#195752/other bagels] on [/EN#195750/other the shelf] .
+[/EN#195745/people A man] is working at [/EN#195746/scene a bagel shop] .
+[/EN#195745/people A worker] in [/EN#195746/scene a bagel shop] .

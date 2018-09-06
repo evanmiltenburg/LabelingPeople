@@ -1,0 +1,5 @@
+[/EN#151999/people A disabled combat veteran] sells [/EN#151997/other hotdogs] and [/EN#152007/other pretzels] on [/EN#152004/scene the sidewalk] .
+[/EN#151996/people A girl] with [/EN#152003/clothing a pink handbag] buying [/EN#151997/other a hotdog] at [/EN#151998/vehicles a hotdog cart] .
+[/EN#151996/people A girl] in [/EN#152002/clothing a black shirt] buying [/EN#151997/other food] from [/EN#151999/people a street vendor] .
+[/EN#152000/people A man] and [/EN#151996/people a woman] stand at [/EN#151998/scene a street vendor 's food stand] .
+[/EN#152000/people People] wait for [/EN#152008/other their order] at [/EN#151998/vehicles a street vendor cart] .

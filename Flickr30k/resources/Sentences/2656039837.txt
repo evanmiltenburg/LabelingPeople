@@ -1,0 +1,5 @@
+[/EN#64284/people A girl] is about to hit [/EN#64287/other a tennis ball] coming from above [/EN#0/notvisual her] with [/EN#64285/other a racket]
+[/EN#64284/people A young girl] in [/EN#64286/clothing a red shirt] hitting [/EN#64287/other a tennis ball] with [/EN#64285/other a pink racket]
+[/EN#64284/people The tennis player] in [/EN#64286/clothing the red shirt] is trying to hit [/EN#64287/other the ball] .
+[/EN#64284/people A young girl] is about to attempt to hit [/EN#64287/other a tennis ball] .
+[/EN#64284/people A little girl] is playing [/EN#64289/other tennis] on [/EN#64288/other an outdoor court] .

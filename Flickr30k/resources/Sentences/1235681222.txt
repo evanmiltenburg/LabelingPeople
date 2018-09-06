@@ -1,0 +1,5 @@
+[/EN#5874/people A person] in [/EN#5875/clothing a blue shirt] sits behind [/EN#5876/people two people] sitting on [/EN#5877/other a wood bench] .
+[/EN#5876/people Three people] sit on [/EN#5878/other wood benches] set on [/EN#5879/other white and orange tile] .
+[/EN#5876/people People] sitting on [/EN#5878/other benches] in [/EN#5880/scene a public area] .
+[/EN#5876/people Three people] sit waiting in [/EN#5880/scene a lobby] .
+[/EN#5876/people People] sit on [/EN#5878/other benches] .

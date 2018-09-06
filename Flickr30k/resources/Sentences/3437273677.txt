@@ -1,0 +1,5 @@
+[/EN#118203/people The girl] sitting next to [/EN#118204/people the man] wearing [/EN#118209/clothing a white t-shirt] is eating [/EN#118206/other french fries] .
+[/EN#118203/people A Woman] sitting by [/EN#118204/people a man] is eating [/EN#118205/other a plate of french fries] .
+[/EN#118203/people A woman] eating at [/EN#118210/scene a restaurant] with [/EN#118208/people other people] .
+[/EN#118204/people A man] and [/EN#118203/people a woman] are sitting down and eating .
+[/EN#118203/people A young woman] leans over [/EN#118207/other her plate] at [/EN#118205/other a meal] .

@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#200355/people a woman] looking at [/EN#200356/animals a duck] on [/EN#200357/scene the sidewalk] .
+[/EN#200355/people Woman] near [/EN#200358/vehicles a shopping cart] walking past [/EN#200356/animals a duck] .
+[/EN#200355/people A woman] looks at [/EN#200356/animals a duck] as [/EN#0/notvisual she] walks behind [/EN#0/notvisual it] .
+[/EN#200355/people A woman] is standing by [/EN#200356/animals a duck] in [/EN#200357/scene a parking lot] .
+[/EN#200355/people Woman] , and [/EN#200356/animals duck] , [/EN#200357/scene outside grocery store] .

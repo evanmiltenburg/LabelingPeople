@@ -1,0 +1,5 @@
+[/EN#115111/people A basketball player] is hanging onto [/EN#115113/other the rim] while [/EN#115112/other the ball] is in [/EN#115113/other the basket]
+[/EN#115111/people A male basketball player] is holding onto [/EN#115113/other the rim of a basketball goal] .
+[/EN#115111/people A male basketball player] puts [/EN#115112/other a basketball] through [/EN#115115/other the net] to [/EN#115117/other score] .
+[/EN#115111/people A basketball player] scores with [/EN#115116/other a slam dunk] .
+[/EN#115111/other A basketball player slam] dunks [/EN#115112/other a ball] .

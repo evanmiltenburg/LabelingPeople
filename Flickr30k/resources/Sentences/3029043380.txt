@@ -1,0 +1,5 @@
+[/EN#88629/people A woman] wearing [/EN#88632/clothing a white shirt] and [/EN#88631/clothing a short , black skirt] is in [/EN#88636/other motion] on [/EN#88634/scene a green , artificial surface] .
+[/EN#88629/people A girl] is getting ready to serve [/EN#88633/other the ball] in [/EN#88630/other a game of tennis] .
+[/EN#88629/people A woman] in [/EN#88632/clothing a white shirt] and [/EN#88631/clothing black skirt] on [/EN#88635/scene a tennis court] .
+[/EN#88629/people A woman] playing [/EN#88630/other tennis] preparing to serve [/EN#88633/other the ball] .
+[/EN#88629/people A female tennis player] readies [/EN#0/notvisual herself] .

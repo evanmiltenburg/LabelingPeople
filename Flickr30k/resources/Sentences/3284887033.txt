@@ -1,0 +1,5 @@
+[/EN#106875/animals A sandy brown dog] is playing with [/EN#106876/scene a soccer ball outside] .
+[/EN#106875/animals A tan dog] chases [/EN#106876/other a black and white soccer ball] .
+[/EN#106875/animals The yellow dog] is playing with [/EN#106876/other a soccer ball] .
+[/EN#106875/animals A tan dog] is playing with [/EN#106876/other a soccer ball] .
+[/EN#106875/animals A yellow dog] plays with [/EN#106876/other a soccer ball] .

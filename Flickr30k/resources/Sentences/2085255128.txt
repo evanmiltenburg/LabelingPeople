@@ -1,0 +1,5 @@
+[/EN#27698/people Person] in [/EN#27703/clothing yellow shorts] , [/EN#27701/clothing gray shirt] with [/EN#27706/other logo] jumping from [/EN#27699/scene bank] into [/EN#27702/scene the water] .
+[/EN#27698/people a young person] wearing [/EN#27701/clothing a gray shirt] and [/EN#27703/clothing yellow shorts] jumping into [/EN#27702/scene a river] .
+[/EN#27698/people A boy] high in [/EN#0/notvisual the air] above [/EN#27699/scene the dirt] and [/EN#27702/scene water] near [/EN#27707/scene the red rock cliffs] .
+[/EN#27698/people The boy] in [/EN#27703/clothing yellow shorts] leaps from [/EN#27699/other riverbank] towards [/EN#27702/scene the river] .
+[/EN#27704/scene A medium] sized [/EN#27698/people child] jumps off of [/EN#27699/scene a dusty bank] over [/EN#27705/scene a creek] .

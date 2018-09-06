@@ -1,0 +1,5 @@
+[/EN#54524/people One boy] , wearing [/EN#54525/clothing a black shirt] bouncing on [/EN#54527/other a trampoline] near [/EN#54526/scene a road] .
+[/EN#54524/people A child] in [/EN#54525/clothing a black t-shirt] and [/EN#54530/clothing board shorts] jumping on [/EN#54527/other a trampoline] .
+[/EN#54524/people A boy] doing flips on [/EN#54527/scene a trampoline outside] near [/EN#54526/scene the street] .
+[/EN#0/notvisual This] is [/EN#54524/people a young man] jumping [/EN#54531/scene midair] on [/EN#54527/other a trampoline] .
+[/EN#54524/people A young boy] doing [/EN#54528/other a flip] on [/EN#54527/other a trampoline]

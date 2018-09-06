@@ -1,0 +1,5 @@
+[/EN#50456/animals A dog] is jumping over [/EN#50457/other a log] with [/EN#50458/bodyparts ears] flying and tongue out .
+[/EN#50456/animals A brown dog] with [/EN#50455/bodyparts tongue] sticking out jumping over [/EN#50457/other a log] .
+[/EN#50456/animals A brown dog] is leaping over [/EN#50457/other a fallen tree] in [/EN#50459/other the woods] .
+[/EN#50456/animals The dog] with [/EN#50458/bodyparts big ears] is leaping over [/EN#50457/other a fallen tree] .
+[/EN#50456/animals A dog] leaps over [/EN#50457/other a log] in [/EN#50459/other the woods] .

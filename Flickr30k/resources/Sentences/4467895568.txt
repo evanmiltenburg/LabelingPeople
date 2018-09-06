@@ -1,0 +1,5 @@
+[/EN#170975/people A man] in [/EN#170981/clothing a white athletic shirt] drinks from [/EN#170976/other a cup] , while [/EN#170984/other others] in [/EN#170979/clothing the same type shirts] walk around .
+[/EN#170973/people A group of boys] wearing [/EN#170979/clothing sleeveless white shirts] , [/EN#170982/other one] is drinking from [/EN#170976/other a white cup] .
+[/EN#170973/people Several people] in [/EN#170983/other one location] with [/EN#170978/clothing running outfits] on and [/EN#170977/other numbers] on [/EN#170986/bodyparts their chest] .
+[/EN#170974/people Many men] and [/EN#170985/people women] dressed in [/EN#170978/clothing shirts] with [/EN#170977/other numbers] on [/EN#0/notvisual them] .
+[/EN#170975/people A group of marathon runners] enjoy [/EN#170987/scene water] at [/EN#170988/scene night] .

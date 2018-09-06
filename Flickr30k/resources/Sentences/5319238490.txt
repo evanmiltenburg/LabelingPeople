@@ -1,0 +1,5 @@
+[/EN#233578/people Three people] are hiking through [/EN#233579/scene a snow] [/EN#233583/scene ridden light forest] .
+[/EN#233578/people Three people] are walking through [/EN#233579/scene the snow] .
+[/EN#233578/people Three skiers] traverse [/EN#233581/other a wooded snowscape] .
+[/EN#233578/people These people] are [/EN#233582/other crosscountry skiing] .
+[/EN#233580/people Two people] hiking in [/EN#233579/scene the snow] .

@@ -1,0 +1,5 @@
+[/EN#154634/people A person] wearing [/EN#154640/clothing a blue backpack] and [/EN#154641/clothing helmet] is walking [/EN#154637/vehicles his bicycle] down [/EN#154636/scene the road] .
+[/EN#154634/people Bicyclist] walks [/EN#154637/vehicles bike] down [/EN#154636/scene a tunnel] [/EN#0/notvisual that] does n't allow cycling .
+[/EN#154632/people Adult] walking [/EN#154637/vehicles their bicycle] through [/EN#154636/scene a long round tunnel] .
+[/EN#154633/people Cyclists] are walking [/EN#154637/vehicles their bicycles] through [/EN#154636/scene a tunnel] .
+[/EN#154634/people Guy] walking [/EN#154637/vehicles his bicycle] through [/EN#154638/scene a tunnel] .

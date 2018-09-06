@@ -1,0 +1,5 @@
+[/EN#209990/people A man] is bending overlooking at [/EN#209994/other something] on [/EN#209992/scene the beach] with [/EN#209996/clothing a bag] and [/EN#209998/other stick] in [/EN#210003/bodyparts his hand] .
+[/EN#209990/people A man] wearing [/EN#209993/clothing a sailor hat] looks intently at [/EN#209995/other the sand] on [/EN#209992/scene the shore] as [/EN#210000/scene the water] recedes .
+[/EN#209990/people A woman] wearing [/EN#209993/clothing a white hat] and [/EN#209997/clothing shirt] stands near [/EN#209994/other debris] on [/EN#209995/other wet sand] near [/EN#210001/scene the water] .
+[/EN#209990/people An elderly person] picked up [/EN#210002/other trash] on [/EN#209992/scene a beach] .
+[/EN#209990/people A man] stands on [/EN#209999/scene the shore of a beach] .

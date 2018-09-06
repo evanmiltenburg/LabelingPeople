@@ -1,0 +1,5 @@
+[/EN#114074/people A silhouette of a janitor] with [/EN#114078/other a broom] cleaning up [/EN#114079/scene a messy venue] .
+Cleaning [/EN#114080/scene the auditorium] from [/EN#114075/other the aftermath of a concert] .
+[/EN#114074/people A man] sweeping up [/EN#114076/other mess] on [/EN#114076/scene the floor] after [/EN#114075/other a concert] .
+[/EN#114074/people a janitor] is sweeping [/EN#114076/scene the floor] after [/EN#114075/other a concert] .
+[/EN#114074/people A person] cleans up [/EN#114076/other a mess] in front of [/EN#114081/scene a stage] .

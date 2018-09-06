@@ -1,0 +1,5 @@
+[/EN#4371/people Two men] in [/EN#4372/clothing hard hats] on [/EN#4373/scene the roof of a building] [/EN#0/notvisual that] is under [/EN#4378/other construction] .
+[/EN#4371/people Two men] on [/EN#4373/scene a construction site] with [/EN#4374/other a one way sign] in [/EN#0/notvisual the foreground]
+[/EN#4371/people Construction workers] standing outside looking at [/EN#4375/other wires] above [/EN#0/notvisual them] .
+[/EN#4371/people Two people] with [/EN#4372/clothing hard hats] on standing on [/EN#4376/other a brick wall] .
+[/EN#4371/people Two construction workers] on [/EN#4377/scene a bridge]

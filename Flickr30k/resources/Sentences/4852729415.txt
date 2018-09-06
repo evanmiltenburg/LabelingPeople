@@ -1,0 +1,5 @@
+[/EN#210956/people People] seated on [/EN#210957/people a public transportation vehicle of some kind] .
+[/EN#210956/people People] sitting on [/EN#210958/other black chairs] on [/EN#210955/vehicles/scene a bus] .
+[/EN#0/notvisual There] are [/EN#210956/people people] sitting in [/EN#210955/vehicles/scene a bus] .
+[/EN#210956/people People] are sitting on [/EN#210955/vehicles/scene a bus] .
+[/EN#210955/vehicles/scene A bus] occupied by [/EN#210956/people asians] .

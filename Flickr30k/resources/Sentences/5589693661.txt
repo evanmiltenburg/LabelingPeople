@@ -1,0 +1,5 @@
+[/EN#239237/people A young adult woman] is standing next to [/EN#239241/other a display] in [/EN#239238/scene a candy store] .
+[/EN#239237/people A woman] in [/EN#239243/clothing a white shirt] is looking through [/EN#239239/other objects] at [/EN#239238/scene a store] .
+[/EN#239237/people Girl] working at [/EN#239238/scene a candy store] stocks [/EN#239242/other the merchandise] .
+[/EN#239237/people A woman] stocking [/EN#239240/other shelves] at [/EN#239238/scene a candy store] .
+[/EN#239237/people A woman] in [/EN#239238/scene a candy store] browsing [/EN#239242/other candy] .

@@ -1,0 +1,5 @@
+[/EN#130777/people A young boy] wearing [/EN#130780/clothing a white shirt] with " [/EN#130778/other Frog] ! " printed in [/EN#130778/clothing red] , turns [/EN#130779/other the pages of a book] [/EN#0/notvisual he] is holding .
+[/EN#130777/people A boy] with [/EN#130780/clothing a t-shirt] on [/EN#0/notvisual that] says [/EN#130778/other FROG] ! stands leafing through [/EN#130783/other the pages of a book] .
+[/EN#130777/people A young boy] dressed in [/EN#130780/clothing a t-shirt] bearing [/EN#130782/other scars] on [/EN#130784/bodyparts/people his arm] , [/EN#130781/other browses] through [/EN#130779/other a book] .
+[/EN#130777/people An Asian boy] with [/EN#130780/clothing a white t-shirt] [/EN#0/notvisual that] says [/EN#130778/other frog] , reading [/EN#130779/other a book] .
+[/EN#130777/people A child] is reading [/EN#130779/other a book] in front of [/EN#130785/scene a store] .

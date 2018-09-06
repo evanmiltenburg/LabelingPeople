@@ -1,0 +1,5 @@
+[/EN#46384/people A man] in [/EN#46385/clothing a black coat] and [/EN#46386/clothing gray scarf] walks on [/EN#46394/scene a sidewalk] in between [/EN#46387/scene a fence] and [/EN#46388/other a row of hedges] .
+[/EN#46384/people A man] in [/EN#46385/clothing a black jacket] , [/EN#46389/clothing dark sunglasses] and [/EN#46390/clothing gray pants] walking along [/EN#46394/scene the sidewalk]
+[/EN#46384/people A man] in [/EN#46385/clothing black] walking down [/EN#46394/scene the sidewalk] with [/EN#46391/vehicles cars] lined up to [/EN#46393/scene the right] .
+[/EN#46384/people A man] in [/EN#46385/clothing black coat] and [/EN#46386/clothing gray pants] are walking along [/EN#46394/scene a quiet street] .
+[/EN#46384/people A man] in [/EN#46385/clothing a jacket] and [/EN#46392/clothing a scarf] walking down [/EN#46394/scene a sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#102303/people A pretty blond-haired woman] is talking to [/EN#102304/people a professionally dressed man] on [/EN#102306/scene the sidewalk] .
+[/EN#102303/people A woman] with [/EN#102305/other a newspaper] is looking at [/EN#102304/people a man] with [/EN#102308/other a side pack] on [/EN#102306/scene a street sidewalk] .
+[/EN#102303/people The blond woman] holding [/EN#102305/other a newspaper] is smiling at [/EN#102304/people the man] in [/EN#102309/clothing the white shirt] .
+[/EN#102303/people A blond girl] is laughing at [/EN#102304/people a guy] in front of [/EN#0/notvisual her] .
+[/EN#102303/people A lady] laughs at [/EN#102304/other a man 's gestures] .

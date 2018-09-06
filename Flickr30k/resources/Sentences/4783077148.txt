@@ -1,0 +1,5 @@
+[/EN#202347/people A man] in [/EN#202357/clothing a tank top] and [/EN#202358/clothing shorts] is sitting talking to [/EN#202352/people a woman] dressed in [/EN#202359/clothing a red dress] , holding [/EN#202355/other a bottle] , outside of [/EN#202350/scene a building] .
+[/EN#202347/people A man] and [/EN#202352/people woman] sitting outside [/EN#202348/scene a shop] next to [/EN#202349/scene an empty road] .
+[/EN#202346/people A couple] is drinking [/EN#202351/other beer] with [/EN#202353/vehicles bikes] next to [/EN#0/notvisual them] .
+[/EN#202346/people Two people] enjoying [/EN#202351/other a drink] next to [/EN#202353/vehicles there bikes] .
+[/EN#202346/people Two people] sitting outside [/EN#202356/other conversing] .

@@ -1,0 +1,5 @@
+[/EN#192275/people A construction worker] in [/EN#192278/clothing overalls] and [/EN#192280/scene a yellow construction hat shovels dirt] into [/EN#192276/vehicles a wheelbarrow] .
+[/EN#192275/people A construction worker] wearing [/EN#192277/clothing a yellow hat] is shoving [/EN#192279/scene dirt] into [/EN#192276/vehicles a wheelbarrow] .
+[/EN#192275/people A man] in [/EN#192277/clothing a yellow hard hat] and [/EN#192275/scene blue overalls dumps dirt] into [/EN#192276/vehicles a wheelbarrow] .
+[/EN#192275/people A man] wearing [/EN#192277/clothing a yellow hard hat] and [/EN#192278/clothing blue overalls] shoveling [/EN#192279/scene dirt] .
+[/EN#192275/people A worker] shoveling [/EN#192279/scene dirt] into [/EN#192276/vehicles a wheelbarrow] .

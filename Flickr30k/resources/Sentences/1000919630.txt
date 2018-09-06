@@ -1,0 +1,5 @@
+[/EN#47/people A man] sits in [/EN#48/other a chair] while holding [/EN#49/animals a large stuffed animal of a lion] .
+[/EN#47/people A man] is sitting on [/EN#48/other a chair] holding [/EN#49/animals a large stuffed animal] .
+[/EN#47/people A man] completes [/EN#51/other the finishing touches] on [/EN#49/animals a stuffed lion] .
+[/EN#47/people A man] holds [/EN#49/other a large stuffed lion toy] .
+[/EN#47/people A man] is smiling at [/EN#49/animals a stuffed lion]

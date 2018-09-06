@@ -1,0 +1,5 @@
+[/EN#96140/people A person] wearing [/EN#96147/clothing a black sweatshirt] and [/EN#96148/clothing red pants] is riding on [/EN#96142/other a snowboard] on [/EN#96141/other a green box] .
+[/EN#96140/people A snowboarder] is beginning [/EN#96144/other a stunt] from [/EN#96141/other the edge of a green jump box] .
+[/EN#96140/people A snowboarder] is standing on top of [/EN#96141/other a platform] in [/EN#96146/scene the snow] .
+[/EN#96140/people A man] is sliding along [/EN#96141/other a green barrier] on [/EN#96142/other his snowboard] .
+[/EN#96140/people The snowboarder] is ready to jump .

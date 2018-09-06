@@ -1,0 +1,5 @@
+[/EN#93880/people Two men] dressed [/EN#93882/clothing jackets] and [/EN#93881/clothing hats] are standing on [/EN#93884/other a terrace]
+[/EN#93880/people Two men] standing outside wearing [/EN#93882/clothing jackets] and [/EN#93881/clothing caps] .
+[/EN#93880/people Two men] in [/EN#93882/clothing fleeces] and [/EN#93881/clothing hats] looking at [/EN#0/notvisual the camera] .
+[/EN#93880/people Two men] stand [/EN#93886/scene outdoors] in [/EN#93883/scene the city night] .
+[/EN#93880/people Tourists] pose for [/EN#93885/other camera] at [/EN#93883/scene night] .

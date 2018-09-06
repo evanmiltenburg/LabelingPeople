@@ -1,0 +1,5 @@
+[/EN#236050/people A drag racer] in [/EN#236047/vehicles a red car] with [/EN#236054/other the Shell logo] on [/EN#0/notvisual it] going down [/EN#236049/other a racetrack] .
+[/EN#236047/vehicles A red race car] with [/EN#236048/people a driver] in [/EN#236055/clothing a sky blue helmet] in [/EN#236049/scene the racing track] .
+[/EN#236047/vehicles A low slung red race car] with [/EN#236048/people a driver] is sitting on [/EN#236049/scene a road] .
+[/EN#236047/vehicles A red race car] is being driven down [/EN#236049/scene a road] .
+[/EN#236047/vehicles A red race car] is driving on [/EN#236049/other asphalt] .

@@ -1,0 +1,5 @@
+[/EN#107968/people A snowboarder] rides [/EN#107971/other a snowboard] down [/EN#107970/other a railing] beside [/EN#107972/other a flight of steps] .
+[/EN#107968/people A kid] skateboards down [/EN#107970/other a set of railings] on [/EN#107974/scene a snowy day] .
+[/EN#107968/people boy] skateboarding down [/EN#107970/other a stair railing] in [/EN#107973/other winter]
+[/EN#107968/people A guy] on [/EN#107971/other a skateboard] griding down [/EN#107970/other a handrail] .
+[/EN#107968/people A snowboarder] riding down [/EN#107970/other a railing] .

@@ -1,0 +1,5 @@
+[/EN#247389/people A woman] with [/EN#247393/bodyparts long hair] and [/EN#247391/clothing an orange sweater] hangs [/EN#247395/other a red cloth] on [/EN#247390/other a clothesline] .
+[/EN#247389/people A woman] in [/EN#247391/clothing a orange shirt] is hanging [/EN#247392/clothing clothes] on [/EN#247390/scene a clothesline outside] .
+[/EN#247389/people A hispanic woman] hanging [/EN#247396/scene brightly colored laundry] on [/EN#247390/other a clothesline] .
+[/EN#247389/people A woman] with [/EN#247393/bodyparts long black hair] is hanging [/EN#247392/clothing clothes] on [/EN#247390/other a clothesline] .
+[/EN#247389/people A woman] is hanging [/EN#247392/clothing her clothing] on [/EN#247390/other a clothesline] .

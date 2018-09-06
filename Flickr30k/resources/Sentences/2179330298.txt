@@ -1,0 +1,5 @@
+[/EN#32513/people Three people] walk through [/EN#0/notvisual what] appears to be [/EN#32516/scene a canyon] as [/EN#32514/scene the mountains] cast [/EN#32515/scene shadows] on [/EN#0/notvisual the dirt covered ground] .
+[/EN#32513/people Three people] walking through [/EN#32517/other a ravine] between [/EN#32514/scene two rocky cliffs] .
+[/EN#32513/people Three hikers] walk through [/EN#32516/scene a small canyon] .
+[/EN#0/notvisual They] are walking around [/EN#32518/scene the mountain] .
+[/EN#32513/people Three people] are walking in [/EN#32518/scene a canyon] .

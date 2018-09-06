@@ -1,0 +1,5 @@
+[/EN#22007/people An old man] with [/EN#22010/bodyparts arms] outstretched sits against [/EN#22013/other a wooden wall] between [/EN#22011/people a woman] and [/EN#22008/people another man] .
+[/EN#22007/people Old man] with [/EN#22009/clothing black shirt] throws [/EN#22010/bodyparts hands] up while sitting next to [/EN#22011/people white woman] and [/EN#22008/people white man] .
+[/EN#22007/people A gray-haired man] is sitting down with [/EN#22010/bodyparts/people his arm] stretched out .
+[/EN#22007/people An older man] is opening [/EN#22010/bodyparts his arms] wide and looking perplexed .
+[/EN#22007/people a man] in [/EN#22009/clothing a gray shirt] holds [/EN#22010/bodyparts his hands] in [/EN#0/notvisual the air] .

@@ -1,0 +1,5 @@
+[/EN#160673/animals A dog] is playing by [/EN#160673/other itself] on [/EN#160674/scene a beach] [/EN#0/notvisual that] has recently seen [/EN#160676/other snowfall] .
+[/EN#160673/animals A yellow dog] is running down [/EN#160675/other a sandy] and [/EN#160676/scene snowy hill] .
+[/EN#160673/animals A dog] is running in [/EN#160674/scene the dirt] and [/EN#160676/scene snow] .
+[/EN#160673/animals A dog] walking along [/EN#160676/other a snow drift] .
+[/EN#160673/animals A dog] running on [/EN#160675/other the sand] .

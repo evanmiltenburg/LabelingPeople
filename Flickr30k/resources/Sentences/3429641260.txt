@@ -1,0 +1,5 @@
+[/EN#117612/people A child] is jumping on [/EN#117615/other a trampoline] in front of [/EN#117613/other a brick wall] and below [/EN#117617/other colored flags] .
+[/EN#117612/people Boy] falling from [/EN#117614/other railing] with [/EN#117620/scene building] , [/EN#117617/other colorful banners] in [/EN#0/notvisual background] .
+[/EN#117612/people A small boy] is jumping off of [/EN#117613/other a brick wall] onto [/EN#117615/other a table] below .
+[/EN#117612/people A little kid] is jumping off [/EN#117618/scene a brick balcony] .
+[/EN#117612/people A boy] jumps near [/EN#117619/other a brick structure] .

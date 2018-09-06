@@ -1,0 +1,5 @@
+[/EN#220480/people A man] in [/EN#220482/clothing an orange shirt] and [/EN#220481/people a woman] in [/EN#220483/clothing a red and black polka-dotted dress] walk past [/EN#220479/other a graffiti-decorated brick wall] .
+[/EN#220478/people A young couple] walking outside by [/EN#220479/other a wall] with [/EN#220477/other graffiti] on [/EN#0/notvisual it] and [/EN#220484/vehicles a light blue older model car] .
+[/EN#220477/other The graffiti] on [/EN#220479/other the wall] is bland and tasteless .
+[/EN#220478/people Two people] walking in front of [/EN#220479/other a graffiti wall] .
+[/EN#220478/people A young couple] waling down [/EN#220485/scene the sidewalk] .

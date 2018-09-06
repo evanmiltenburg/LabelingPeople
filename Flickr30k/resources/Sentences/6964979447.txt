@@ -1,0 +1,5 @@
+On [/EN#262699/scene a tennis court] , [/EN#262697/people a man] jumps to hit [/EN#262698/other a tennis ball] with [/EN#262700/other his racket] .
+[/EN#262701/scene Tennis player midair] attempting to swing [/EN#262700/other his tennis racket] .
+[/EN#262697/people A tennis player] is serving [/EN#262698/other the ball] on [/EN#262702/other a grass court] .
+[/EN#262697/people tennis player] returning [/EN#262703/other a high serve] on [/EN#262699/scene tennis court] .
+[/EN#0/notvisual He] is [/EN#262704/other only a few matches] from [/EN#262705/other the tournament finals] .

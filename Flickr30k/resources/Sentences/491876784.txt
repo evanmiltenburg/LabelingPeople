@@ -1,0 +1,5 @@
+[/EN#218286/people Man] in [/EN#218289/clothing long-sleeved t-shirt] sitting at [/EN#218288/other a kitchen table] eating from [/EN#218290/other a paper plate] .
+[/EN#218286/people A guy] looking at [/EN#0/notvisual the camera] in [/EN#218291/scene a weird way] while sitting at [/EN#218288/other the dinner table] .
+[/EN#218286/people Young sitting male] in [/EN#218289/clothing t-shirt] stares into [/EN#218292/other camera] as [/EN#0/notvisual he] eats .
+[/EN#218286/people A man] suspiciously eyes [/EN#0/notvisual the camera] while [/EN#218293/other eating] .
+[/EN#218286/people A man] is eating [/EN#218294/other lunch] and drinking [/EN#218295/scene water] .

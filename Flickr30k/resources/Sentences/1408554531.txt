@@ -1,0 +1,5 @@
+[/EN#11628/bodyparts A woman 's lower body] can be seen as [/EN#0/notvisual she] wears [/EN#11632/clothing blue jeans] and walks in front of [/EN#11630/other a large sign] depicting [/EN#11631/people another woman] wearing [/EN#11635/clothing a black top] and [/EN#11633/clothing sunglasses] .
+[/EN#11628/people A woman] wearing [/EN#11632/clothing rolled up jeans] and [/EN#11634/clothing a black shirt] is walking past [/EN#11629/vehicles/scene a bus] carrying [/EN#11637/clothing a shopping bag] .
+[/EN#11628/people A woman] [/EN#11639/bodyparts whose head] is not visible walks in front of [/EN#11629/vehicles/scene a bus] with [/EN#11630/other an advertisement] on [/EN#0/notvisual its side] .
+[/EN#11628/people A woman] wearing [/EN#11632/clothing rolled up jeans] passing [/EN#11629/vehicles/scene bus] [/EN#11636/scene a pass] [/EN#11630/other whose ad] appears to be checking her out .
+[/EN#11628/people A woman] in [/EN#11632/clothing jeans] walks by [/EN#11629/vehicles/scene a bus] with [/EN#11630/other an ad] depicting [/EN#11631/people a woman] peering over [/EN#11633/clothing her sunglasses] .

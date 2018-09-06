@@ -1,0 +1,5 @@
+[/EN#128817/people A person] on [/EN#128819/other a motorcycle] is turning on [/EN#128818/scene a dirt track] behind [/EN#128820/scene some bushes] .
+[/EN#128817/people A man] is driving [/EN#128819/other a motorcycle] in [/EN#128818/scene the dirt] near [/EN#128820/scene bushes] .
+[/EN#128817/people The dirt bike rider] kicks up [/EN#128818/scene dirt] as [/EN#0/notvisual he] turns .
+[/EN#128817/people A man] rides [/EN#128816/vehicles a dirt bike] in [/EN#128822/other the brush] .
+[/EN#128816/vehicles A dirt bike] kicks up [/EN#128821/other dust] .

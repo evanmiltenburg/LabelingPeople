@@ -1,0 +1,5 @@
+[/EN#58204/animals Two dogs] are walking away from [/EN#0/notvisual the camera] through [/EN#58207/other shrubs] and [/EN#58206/scene grass] .
+[/EN#58204/animals The dogs] are walking in [/EN#58205/scene the desert] .
+[/EN#58204/animals Two dogs] walking along [/EN#58205/scene dirt path] .
+[/EN#58204/animals two dogs] run across [/EN#0/notvisual dry ground] .
+[/EN#58204/animals Two dogs] playing outside .

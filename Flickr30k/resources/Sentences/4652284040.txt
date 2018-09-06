@@ -1,0 +1,5 @@
+[/EN#186917/people A man] in [/EN#186918/clothing a blue and white hat] and [/EN#186919/clothing a red and white shirt] sets up [/EN#186921/other a small table] with [/EN#186924/other glassware] before [/EN#0/notvisual him] and [/EN#186926/scene a shadow] on [/EN#186927/other a streetlight] is seen on [/EN#186928/other the gray wall] behind [/EN#0/notvisual him] .
+[/EN#186917/people A man] in [/EN#186919/clothing a red shirt] and [/EN#186918/clothing a blue hat] is sitting on [/EN#186920/scene a sidewalk] and touching [/EN#186923/clothing drinking glasses] .
+[/EN#186917/people A Latin American street vendor] sets up [/EN#186921/other a table] selling [/EN#186924/other glass ware] in [/EN#186925/scene an inner city] setting .
+[/EN#186917/people A man] wearing [/EN#186918/clothing a hat] sitting on [/EN#186922/other a stool] playing [/EN#186923/clothing water glasses] in [/EN#186920/scene the street] .
+[/EN#186917/people A man] sitting on [/EN#186922/other a stool] selling [/EN#186924/other something] .

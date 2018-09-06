@@ -1,0 +1,5 @@
+[/EN#70243/people A man] in [/EN#70245/clothing jeans] is sleeping with [/EN#70244/clothing a red mask] covering [/EN#70253/bodyparts his eyes] .
+[/EN#70243/people A man] in [/EN#70245/clothing blue jeans] and [/EN#70249/clothing a blue shirt] sits in [/EN#70248/scene a blue seat] .
+[/EN#70243/people A woman] wearing [/EN#70249/clothing a denim jacket] naps on [/EN#70247/other a bench] .
+[/EN#70243/people A man] in [/EN#70244/clothing a red sleep mask] sleeps on [/EN#70251/vehicles/scene a train] .
+[/EN#70243/people A sleeping man] relaxing after [/EN#70252/other hard work] .

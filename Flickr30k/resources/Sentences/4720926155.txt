@@ -1,0 +1,5 @@
+[/EN#195193/people A man] in [/EN#195203/clothing a blue collared shirt] reaches to [/EN#195196/other his back] , [/EN#195204/bodyparts his face] obscured , in front of [/EN#195194/scene a body of water] containing [/EN#195192/other a sailboat] , illuminated by [/EN#195198/scene a pink-tinted sky] .
+[/EN#195193/people A man] walking down [/EN#195195/scene the pier] scratching [/EN#195196/other his back] with [/EN#195192/vehicles/scene a boat] sailing in [/EN#0/notvisual the background] as [/EN#195202/other the sun] sets over [/EN#195194/scene the water] .
+[/EN#195193/people A man] is scratching [/EN#195196/other his back] while walking along [/EN#195201/scene the shore] .
+[/EN#195192/vehicles/scene A boat] selling along side [/EN#195195/scene an ocean front sidewalk] .
+[/EN#195193/people a man] takes [/EN#195200/other a walk] on [/EN#195195/scene the pier] .

@@ -1,0 +1,5 @@
+[/EN#115205/people A football player] in [/EN#115207/clothing a green uniform] is trying to catch [/EN#115208/other the ball] , while [/EN#115206/people his opponent] , in [/EN#115210/clothing a blue uniform] , tries to stop [/EN#0/notvisual him] .
+[/EN#115205/people A football player] in [/EN#115207/clothing a green and gold uniform] catching [/EN#115208/other the ball] while [/EN#115206/people the defensive player] tries to tackle [/EN#0/notvisual him] .
+[/EN#115209/people Many people] are witnessing [/EN#115205/people a football player] catching [/EN#115208/other the ball]
+[/EN#115205/people A football receiver] make [/EN#115211/other a catch] in [/EN#115212/scene the end zone] .
+[/EN#115205/people A football player] catching [/EN#115213/scene a pass] .

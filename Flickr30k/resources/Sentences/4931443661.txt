@@ -1,0 +1,5 @@
+[/EN#219779/people A man] in [/EN#219782/clothing an orange] and [/EN#219782/clothing white striped shirt] sits on [/EN#219780/vehicles/scene a boat] holding [/EN#219781/other his phone] near [/EN#219784/bodyparts his head] .
+[/EN#219779/people Man] in [/EN#219782/clothing a orange] and [/EN#219782/clothing white stripe shirt] sitting on [/EN#219780/vehicles/scene a boat] talking on [/EN#219781/other a phone] .
+[/EN#219779/people A Hispanic man] in [/EN#219782/clothing a white and brown shirt] using [/EN#219781/other a cellphone] .
+[/EN#219779/people A fisherman] using [/EN#219781/other a cellphone] on [/EN#219780/vehicles/scene a boat] .
+[/EN#219779/people An older male] on [/EN#219780/vehicles/scene a blue boat] .

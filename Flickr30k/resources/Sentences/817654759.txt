@@ -1,0 +1,5 @@
+[/EN#280037/people A marathon runner] with [/EN#280043/clothing a red and white shirt and black and white pants] .
+[/EN#280037/people A man] running through [/EN#280040/scene a field] with [/EN#280042/other a number 41] marked on [/EN#0/notvisual him] .
+[/EN#280037/people A man] in [/EN#280043/clothing running outfit] is running through [/EN#280040/scene a field] .
+[/EN#280037/people Brown-haired male] running and competing in [/EN#280044/other a race] .
+[/EN#280037/people The runner] has [/EN#280041/other a paper] [/EN#0/notvisual that] says [/EN#0/notvisual he] is [/EN#280042/other number 41] .

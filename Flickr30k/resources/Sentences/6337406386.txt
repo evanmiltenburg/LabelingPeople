@@ -1,0 +1,5 @@
+[/EN#252981/people A person] is jumping up in [/EN#252989/other the woods] , [/EN#0/notvisual they] are wearing [/EN#252983/clothing a red sweater] and [/EN#252984/clothing yellow pants] , [/EN#0/notvisual they] are surrounded by [/EN#252990/other trees] and [/EN#252985/other leaves] .
+[/EN#252981/people A young woman] wearing [/EN#252983/clothing a red jacket] and [/EN#252984/clothing yellow pants] is jumping up and down along [/EN#252982/scene a path] filled with [/EN#252985/other leaves] .
+[/EN#252981/people A girl] wearing [/EN#252984/clothing khakis] and [/EN#252983/clothing a red sweatshirt] is jumping in [/EN#0/notvisual the air] , while [/EN#0/notvisual she] is in [/EN#252987/scene the forest] .
+[/EN#252981/people A woman] is jumping in [/EN#0/notvisual the air] on [/EN#252982/scene a tree-lined trail] on [/EN#252988/scene an autumn day] .
+[/EN#252981/people A girl] walking down [/EN#252982/scene a nature trail] hops in [/EN#0/notvisual the air] .

@@ -1,0 +1,5 @@
+[/EN#20464/people Two women] in [/EN#20467/clothing a light blue] and [/EN#20469/clothing a dark blue jacket] walking in [/EN#20465/scene a crosswalk] and [/EN#20466/other a fake giant rat] is on [/EN#20465/scene the sidewalk] behind [/EN#0/notvisual them] .
+[/EN#20464/people Two women] crossing [/EN#20465/scene the street] with [/EN#20466/other a giant rat] in [/EN#0/notvisual the background] .
+[/EN#20464/people Two ladies] are crossing [/EN#20465/scene a street] right in front of [/EN#20468/scene a restaurant] .
+[/EN#20464/people Two middle-aged women] crossing [/EN#20465/scene a city street] .
+[/EN#20464/people Two women] walking down [/EN#20465/scene a crosswalk] .

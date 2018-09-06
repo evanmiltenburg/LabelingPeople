@@ -1,0 +1,5 @@
+[/EN#232303/people Three people] sitting on [/EN#232304/other a couch] inside [/EN#232309/scene a house] dressed warmly and [/EN#232302/other the oldest] is covering [/EN#232306/bodyparts the two younger kids eyes] .
+[/EN#232303/people Three children] sit on [/EN#232304/other a couch] while [/EN#232302/people the child] in [/EN#236000/scene the middle] covers [/EN#232306/people the eyes of the children] on [/EN#0/notvisual either side of him] .
+[/EN#232303/people Three children] sit on [/EN#232304/other a plaid couch] ; [/EN#232302/people the boy] in [/EN#236000/scene the middle] covers [/EN#232306/people the eyes of the smiling girls] on [/EN#0/notvisual either side] .
+[/EN#232302/people A little boy] is covering [/EN#232306/people the eyes of a girl] in [/EN#232315/clothing a blue sweater] and [/EN#232308/people a girl] in [/EN#232311/other a red hood] .
+[/EN#232302/people A mom] is covering [/EN#239308/people her two young daughters] [/EN#232306/bodyparts ' eyes] while [/EN#0/notvisual they] sit on [/EN#232304/other a couch] .

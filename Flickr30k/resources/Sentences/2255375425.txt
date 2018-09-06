@@ -1,0 +1,5 @@
+[/EN#37211/people A man] is repairing [/EN#37219/vehicles vessel] , [/EN#37217/people two other people] are sitting and watching [/EN#0/notvisual him] .
+[/EN#37211/people A man] handling [/EN#37212/other a gold vase type object] with [/EN#37218/other 2 others] looking on .
+[/EN#37211/people A man] is sitting in on [/EN#37216/scene the side of the street] with [/EN#37212/other brass pots] .
+[/EN#37211/people A man] working on [/EN#37212/other a brass pot] on [/EN#0/notvisual the ground] .
+[/EN#37213/people Men] sit outside in [/EN#37215/scene front] [/EN#37214/scene a craft kiosk] .

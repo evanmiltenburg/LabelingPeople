@@ -1,0 +1,5 @@
+[/EN#115808/people A man] with [/EN#115809/other a canned drink] is standing under [/EN#115811/scene a waterfall] .
+[/EN#115808/people A man] is flailing in [/EN#115810/scene water] while holding up [/EN#115809/other a drink] can .
+[/EN#115808/people A young man] splashes in [/EN#115810/scene the water] , holding [/EN#115809/other a canned soda]
+[/EN#115808/people a boy] holding [/EN#115809/other a soda] can in [/EN#115811/scene a waterfall]
+[/EN#115808/people A man] holding [/EN#115809/other a can] in [/EN#115811/scene a waterfall] .

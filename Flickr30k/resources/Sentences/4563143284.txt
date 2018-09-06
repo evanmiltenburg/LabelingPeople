@@ -1,0 +1,5 @@
+[/EN#178768/people A man] with [/EN#178772/clothing sunglasses] is operating [/EN#178769/vehicles a construction automobile] and releasing [/EN#178770/other gravel] on to [/EN#0/notvisual the ground] .
+[/EN#178768/people A man] wearing [/EN#178776/clothing jeans] and [/EN#178772/clothing sunglasses] operating [/EN#178769/other a front-loader] [/EN#0/notvisual that] is filled with [/EN#178770/scene dirt] .
+[/EN#178768/people A man] in [/EN#178775/clothing a white shirt] is driving [/EN#178769/other a tractor] and dumping [/EN#178770/other a load of sand] .
+[/EN#178768/people A man] wearing [/EN#178772/clothing sunglasses] in [/EN#178769/scene a backhoe dumps dirt] onto [/EN#0/notvisual the ground] .
+[/EN#178768/people A man] hauling [/EN#178770/scene dirt] and [/EN#178770/other sand] in [/EN#178769/other a backhoe] .

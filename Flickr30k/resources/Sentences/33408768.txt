@@ -1,0 +1,5 @@
+[/EN#110921/people A man] with [/EN#110923/clothing brown pants] and [/EN#110924/clothing boots] moving [/EN#110922/scene a tent] .
+[/EN#110921/people man] is lifting up [/EN#110922/scene one end of a tent] .
+[/EN#110922/scene A tent] is being set up by [/EN#110921/people a man] .
+[/EN#110921/people Man] setting up [/EN#110922/scene a white tent] .
+[/EN#110921/people A blond man] puts up [/EN#110922/scene a tent] .

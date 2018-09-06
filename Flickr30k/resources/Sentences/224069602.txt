@@ -1,0 +1,5 @@
+[/EN#36211/people The man] in [/EN#36209/clothing gray trousers] is playing [/EN#36205/instruments a black guitar] , and [/EN#36214/people the man] in [/EN#36208/clothing blue jeans] is playing [/EN#36213/instruments a black and blue guitar] .
+[/EN#36211/people A middle-aged man] is holding [/EN#36205/instruments an acoustic guitar] while [/EN#36214/people a man] wearing [/EN#36207/clothing a hat] is holding [/EN#36213/instruments an electric bass] .
+[/EN#36212/people Two men] play [/EN#36205/instruments the acoustic guitar] and [/EN#36213/instruments the bass] .
+[/EN#36212/people Two middle-aged men] play [/EN#36205/instruments guitar] on [/EN#36210/scene a stage] .
+[/EN#36212/people Two older men] playing [/EN#36205/instruments guitar] and [/EN#36213/instruments bass] .

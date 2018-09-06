@@ -1,0 +1,5 @@
+[/EN#244673/people A blond-haired boy] sits on [/EN#244677/vehicles/scene a bus] while gazing out [/EN#244674/other the window] towards [/EN#244678/scene an intersection] in [/EN#244675/scene a city] .
+[/EN#244676/other His first look] at [/EN#244675/scene the new city] that [/EN#0/notvisual he] will live in has [/EN#0/notvisual him] staring out [/EN#244674/other the bus window] .
+[/EN#244673/people A young boy] peering out [/EN#244674/vehicles/scene the window of a passenger bus] .
+[/EN#244673/people A young boy] looks out [/EN#244674/other the window] while [/EN#244679/other traveling] .
+[/EN#244673/people A child] peering out [/EN#244674/vehicles/scene the window of a bus] .

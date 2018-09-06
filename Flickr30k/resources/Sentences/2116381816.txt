@@ -1,0 +1,5 @@
+[/EN#29634/people A man] in [/EN#29638/clothing a yellow shirt] and [/EN#29639/clothing brown pants] is standing in [/EN#29636/scene a doorway] holding [/EN#29637/clothing a plastic bag] .
+[/EN#29634/people An older man] dressed in [/EN#29639/clothing slacks] and [/EN#29638/clothing a yellow shirt] is coming out of [/EN#29635/scene a store] .
+[/EN#29634/people A man] holding [/EN#29637/clothing a plastic bag] is standing in [/EN#29636/scene a doorway] .
+[/EN#29634/people An old man] in [/EN#29638/clothing a yellow shirt] standing in [/EN#29636/scene a doorway] .
+[/EN#29634/people An older man] walking out of [/EN#29635/scene a building]

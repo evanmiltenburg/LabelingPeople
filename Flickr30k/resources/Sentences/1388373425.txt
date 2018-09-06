@@ -1,0 +1,5 @@
+[/EN#10839/people A woman] speaks on [/EN#10843/other her cellphone] with [/EN#10845/clothing her purse] and [/EN#10840/clothing a yellow bag] on [/EN#10842/other the ledge] next to [/EN#0/notvisual her] .
+[/EN#10839/people This woman] is smiling and talking on [/EN#10843/other the phone] while sitting on [/EN#10842/other a stone wall] .
+[/EN#10839/people A woman] in [/EN#10844/clothing a black shirt] is sitting next to [/EN#10840/clothing a florescent green bag] .
+[/EN#10839/people A woman] with [/EN#10841/clothing a backpack] sitting outside [/EN#10847/scene a building] with [/EN#10846/other others] .
+[/EN#10839/people A woman] sits on [/EN#10842/other a stone wall] and talks on [/EN#10843/other her phone] .

@@ -1,0 +1,5 @@
+[/EN#110410/animals A brown duck] with [/EN#110413/bodyparts a green head] flaps [/EN#110411/clothing its wings] in [/EN#110412/scene the water] .
+[/EN#110414/other A green headed] [/EN#110410/animals mallard duck] flapping [/EN#110411/clothing its wings] in [/EN#110412/scene the water] .
+[/EN#110410/animals A bird] is flapping [/EN#110411/clothing its wings] on [/EN#110412/scene the water] .
+[/EN#110410/animals Mallard duck] swimming out in [/EN#110412/scene the water] .
+[/EN#110410/animals Duck] flapping [/EN#110411/clothing wings] .

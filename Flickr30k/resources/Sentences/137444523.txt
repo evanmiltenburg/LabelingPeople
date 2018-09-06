@@ -1,0 +1,5 @@
+[/EN#10537/people A man] in [/EN#10539/clothing a green shirt] and [/EN#10538/clothing backpack] is standing under [/EN#10542/other cover] along with [/EN#10540/people a woman] behind [/EN#0/notvisual him] taking [/EN#10546/other a picture] .
+[/EN#10537/people A young man] wearing [/EN#10539/clothing a green T-shirt] and [/EN#10538/clothing a backpack] is waiting with [/EN#10543/people some other people] for [/EN#10550/vehicles transportation] .
+[/EN#10537/people A man] in [/EN#10539/clothing a bright green flux shirt] walks along [/EN#10545/scene a crowded sidewalk] under [/EN#10541/other metal scaffolding] at [/EN#10549/scene night] .
+[/EN#10537/people A man] in [/EN#10539/clothing a lime green shirt] waits for [/EN#10547/vehicles/scene the subway] while [/EN#10540/people a woman] films using [/EN#10548/other her phone] .
+[/EN#10544/people A girl] in [/EN#0/notvisual the background] takes [/EN#10551/other a picture] as [/EN#10543/people many people] busily walk by .

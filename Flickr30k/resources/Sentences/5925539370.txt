@@ -1,0 +1,5 @@
+[/EN#245475/people a boy] in [/EN#245481/clothing a blue uniform] is standing next to [/EN#245475/people a boy] in [/EN#245484/clothing red] and [/EN#245476/people a boy] in [/EN#245486/clothing yellow] and [/EN#0/notvisual they] are holding [/EN#245483/clothing baseball gloves] .
+[/EN#245476/people Three children] playing [/EN#245482/other baseball] in [/EN#245485/clothing uniforms] on [/EN#245480/other a baseball diamond] .
+[/EN#245476/people Young boys] having [/EN#0/notvisual fun] playing on [/EN#245487/scene a baseball field] .
+[/EN#245475/people An young overweight male] pitches [/EN#245477/other a ball] .
+[/EN#245475/people A boy] is throwing [/EN#245477/other a baseball] .

@@ -1,0 +1,5 @@
+[/EN#15698/people A man] in [/EN#15699/clothing blue clothing] and [/EN#15705/clothing a white turban] rides [/EN#15700/animals a white horse] past [/EN#15701/other a vivid green tree] and [/EN#15703/clothing a orange] and [/EN#15700/scene white house] with [/EN#15706/other purple fixtures] .
+[/EN#15698/people A man] riding [/EN#15700/animals a donkey] in front of [/EN#15702/scene a mustard building] .
+[/EN#15698/people A man] in [/EN#15699/clothing a robe] is riding [/EN#15700/animals a donkey] down [/EN#15704/scene a street] .
+[/EN#15698/people A man] in [/EN#15699/clothing a blue outfit] is riding [/EN#15700/animals a small horse] .
+Past [/EN#15701/other the tree] , [/EN#15698/people a man] is riding [/EN#15700/animals a donkey] .

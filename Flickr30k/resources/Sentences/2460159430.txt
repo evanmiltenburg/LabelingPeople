@@ -1,0 +1,5 @@
+[/EN#51139/animals A dog] running in [/EN#51140/scene long grass] , [/EN#51142/other a housing development] behind [/EN#0/notvisual it] .
+[/EN#51139/animals a brown dog] running through [/EN#51140/scene the tall grass] .
+[/EN#51139/animals A tan dog] is bounding through [/EN#51140/scene grass] .
+[/EN#51141/animals Two dogs] running through [/EN#51140/scene tall grass] .
+[/EN#51139/animals A brown dog] races through [/EN#51140/scene a field] .

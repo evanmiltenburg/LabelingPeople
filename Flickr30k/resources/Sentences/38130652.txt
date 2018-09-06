@@ -1,0 +1,5 @@
+[/EN#143616/people A contractor] with [/EN#143619/clothing a hard hat] holding [/EN#143618/other a plank] and walking on top of [/EN#143617/scene the building] [/EN#0/notvisual he] is constructing , with [/EN#143621/other a safety chain] attached to [/EN#0/notvisual him] .
+[/EN#143616/people A construction worker] wearing [/EN#143620/clothing a harness] is putting up [/EN#143618/other a wooden plank] .
+[/EN#143616/people A construction worker] is holding [/EN#143618/other a large piece of wood] .
+[/EN#143616/people The person] is in [/EN#143622/other constructing work] .
+[/EN#143616/people A man] in [/EN#143617/scene the top of the building]

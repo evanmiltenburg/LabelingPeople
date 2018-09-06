@@ -1,0 +1,5 @@
+[/EN#210058/people People] walk through [/EN#210059/scene a narrow paved walkway] along side [/EN#210061/scene shops] .
+[/EN#210058/people People] are browsing through [/EN#210063/other items] in [/EN#210060/scene an open aired market] .
+[/EN#210057/people Young girl] looks at [/EN#210064/other postcards] in [/EN#210061/scene alleyway full of shops] .
+[/EN#210057/people A young girl] looks at [/EN#210063/other things] in [/EN#210062/other an archway] .
+[/EN#210057/people A child] looking at [/EN#210064/other postcards] in [/EN#210060/scene a market] .

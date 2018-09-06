@@ -1,0 +1,5 @@
+[/EN#21409/animals Two dogs] are leaping into [/EN#21410/scene a swimming pool] trying to fetch [/EN#21411/other the yellow toy] [/EN#0/notvisual that] is floating in [/EN#21410/scene the water] .
+[/EN#21409/animals Two black dogs] are diving into [/EN#21410/scene a pool] to get [/EN#21411/other a dog toy] .
+[/EN#21409/animals Two black dogs] jump into [/EN#21410/scene a blue swimming pool] .
+[/EN#21409/animals black dogs] jump in [/EN#21410/scene pool] to [/EN#21413/bodyparts a hand] .
+[/EN#21409/animals Two black dogs] jump in [/EN#21410/scene a pool] .

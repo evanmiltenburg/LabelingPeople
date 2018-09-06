@@ -1,0 +1,5 @@
+[/EN#226628/animals A small white dog] is running through [/EN#226631/scene the dirt right] on [/EN#226635/scene the outside of a patch] of [/EN#226630/scene grass] where [/EN#226632/people two people] and [/EN#226629/animals another small black dog] are playing .
+[/EN#226628/animals A white dog] is running on [/EN#226631/other gravel] away from [/EN#226632/people two people] and [/EN#226629/animals a black and brown dog] .
+[/EN#226628/scene White dog outside] with [/EN#226632/people two people] in [/EN#0/notvisual background] .
+[/EN#226628/animals White fluffy dog] running in [/EN#226631/scene the dirt] .
+[/EN#226628/animals A small white dog] runs .

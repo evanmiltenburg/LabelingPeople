@@ -1,0 +1,5 @@
+[/EN#162813/people A man] in and [/EN#162815/people a woman] are sitting on [/EN#162816/vehicles/scene a bus or train] .
+[/EN#162813/people A man] and [/EN#162815/people a woman] sit on [/EN#162816/vehicles/scene a bus] , but not together .
+[/EN#162814/people Some people] sitting inside [/EN#162817/vehicles/scene a running train] .
+[/EN#162813/people A man] and [/EN#162815/other a woman travel] on [/EN#162816/vehicles/scene a bus] .
+[/EN#162815/people A woman] is sitting in [/EN#162816/vehicles/scene the train] .

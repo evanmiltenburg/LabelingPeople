@@ -1,0 +1,5 @@
+[/EN#201161/people A woman] in [/EN#201165/clothing a kimono] with [/EN#201164/clothing a white umbrella] stands near [/EN#201166/people a second person] .
+[/EN#201161/people A woman] stands along [/EN#201168/scene a street] , hidden by [/EN#201164/other her parasol] .
+[/EN#201163/people A couple] standing underneath [/EN#201164/clothing an umbrella] .
+[/EN#201161/people A person] is standing with [/EN#201164/clothing an umbrella] .
+[/EN#201161/people a woman] holds [/EN#201164/clothing a white umbrella] .

@@ -1,0 +1,5 @@
+[/EN#183629/animals A black dog] and [/EN#183633/other its reflection] are seen near [/EN#183630/scene a pond] ringed by [/EN#183632/other dry foliage] .
+[/EN#183629/animals A big , black dog] is walking along [/EN#183631/scene the water 's edge] .
+[/EN#183629/animals A black dog] is walking beside [/EN#183630/scene water] in [/EN#183632/other the woods] .
+[/EN#183629/animals A black dog] walks along [/EN#183631/scene a marsh 's edge] .
+[/EN#183629/animals A dog] is walking near [/EN#183630/scene a body of water] .

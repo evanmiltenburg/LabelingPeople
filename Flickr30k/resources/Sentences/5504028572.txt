@@ -1,0 +1,5 @@
+[/EN#237751/people A blond-haired boy] sits in [/EN#237751/scene a fetal position] on [/EN#237752/other a pile of rocks] , [/EN#237758/bodyparts his finger] on [/EN#237755/scene a crack] in [/EN#237752/other the rock] .
+[/EN#237751/people A young boy] sits curiously on [/EN#237752/other a rock] near [/EN#237754/scene the water] , looking at [/EN#237757/other his reflection] .
+[/EN#237751/people A boy] in [/EN#237753/clothing an orange shirt] sitting at [/EN#237754/scene the edge of water] on [/EN#237752/other a large rock] .
+[/EN#237751/people A boy] in [/EN#237753/clothing a orange shirt] is sitting on [/EN#237752/other a rock] near [/EN#237754/scene water] .
+[/EN#237751/people A child] is sitting on [/EN#237752/other some rocks] outside .

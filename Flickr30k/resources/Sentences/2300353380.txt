@@ -1,0 +1,5 @@
+[/EN#39936/people An old man] with [/EN#39937/bodyparts a long white beard] , [/EN#39938/people a child] in [/EN#39939/clothing a striped shirt] and [/EN#39940/animals a chicken] are pictured standing outside [/EN#39943/scene a tent] .
+[/EN#39936/people An old man] with [/EN#39937/bodyparts a beard] and [/EN#39938/people a young boy] in [/EN#39941/people a striped sweater peer] inside [/EN#39943/scene a tent] .
+[/EN#39936/people An older man] and [/EN#39938/people younger boy] walk by [/EN#39946/scene the opening] of [/EN#39943/scene a tent] in [/EN#39944/scene a rural area] .
+[/EN#39936/people An older man] and [/EN#39938/people a young child] are looking through [/EN#39947/scene the opening] of [/EN#39945/scene a tent] .
+[/EN#39936/people One man] and [/EN#39938/people one boy] looking into [/EN#39943/scene a tent] with [/EN#39942/other a blue blanket] in [/EN#0/notvisual it] .

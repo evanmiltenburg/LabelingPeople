@@ -1,0 +1,5 @@
+[/EN#248353/people A girl] on [/EN#248350/vehicles a bike] wearing [/EN#248358/clothing a shirt] with [/EN#248361/other number 32] is with [/EN#248352/people another person] on [/EN#248355/vehicles a bike] wearing [/EN#248359/clothing a shirt] with [/EN#248362/other number 96] .
+[/EN#0/notvisual There] is [/EN#248352/people a guy] and [/EN#248353/people a girl] on [/EN#248350/vehicles BMX bikes] , [/EN#0/notvisual both] have stopped and appear to be talking .
+[/EN#248351/people Two dirt bikers] are standing with [/EN#248350/vehicles their bikes] with [/EN#248363/other their backs] to [/EN#0/notvisual the camera] .
+[/EN#248351/people Two girls] competing in [/EN#248357/other a motocross race] talking at [/EN#248364/other the starting line] .
+[/EN#248351/people Two BMX bikers] wearing [/EN#248360/clothing helmet] talking to [/EN#0/notvisual each other] .

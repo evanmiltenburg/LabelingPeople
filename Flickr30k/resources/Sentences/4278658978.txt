@@ -1,0 +1,5 @@
+[/EN#161370/scene A crane] , with [/EN#161379/other the letters] " LIEBHERR " on [/EN#0/notvisual it] , seems to be demolishing [/EN#161373/scene a dark gray building] with [/EN#161374/other graffiti] on [/EN#0/notvisual it] .
+[/EN#161371/scene A dark building] with [/EN#161374/other a lot of graffiti] on [/EN#0/notvisual it] is being demolished by [/EN#161370/other a Liebherr excavator] .
+[/EN#161370/scene A yellow construction crane] does [/EN#161380/other work] demolishing [/EN#161373/scene a vacant building] .
+[/EN#161372/scene A construction site] tearing apart [/EN#161378/other a wall] with [/EN#161374/other graffiti] .
+[/EN#161370/other A backhoe] destroys [/EN#161373/scene a building] covered in [/EN#161374/other graffiti] .

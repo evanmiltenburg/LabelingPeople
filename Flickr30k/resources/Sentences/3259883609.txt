@@ -1,0 +1,5 @@
+[/EN#105132/animals A brown dog] and [/EN#105134/animals a swan] having [/EN#105136/other a confrontation] beside [/EN#105133/scene a pond] .
+[/EN#105132/animals A brown dog] on [/EN#105137/scene a dock] faces [/EN#105134/animals a white swan] in [/EN#105133/scene the water] .
+[/EN#105132/animals A dog] is looking at [/EN#105134/animals a white swan] swimming in [/EN#105133/scene a lake] .
+[/EN#105132/animals A dog] looking at [/EN#105134/animals a swan] in [/EN#105133/scene the water] .
+[/EN#105132/animals A dog] on [/EN#105137/other a deck] confronting [/EN#105134/animals a swan] .

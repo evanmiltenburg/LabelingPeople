@@ -1,0 +1,5 @@
+[/EN#86653/people A little girl] is playing with [/EN#86652/animals a large , white poodle] in [/EN#86654/scene the driveway] next to [/EN#86656/vehicles a police car] .
+[/EN#86652/animals A large white dog] , [/EN#86653/people a girl] , and [/EN#86656/vehicles a police car] in [/EN#86654/scene a driveway] and [/EN#86656/vehicles an SUV] in [/EN#86654/scene a garage] .
+[/EN#86652/animals A dog] corners [/EN#86653/people a little girl] next to [/EN#86656/vehicles a police cruiser] .
+[/EN#86653/people The girl] is playing with [/EN#86652/animals her dog] in [/EN#86654/scene her driveway] .
+[/EN#86653/people A girl] playing with [/EN#86652/animals a dog] near [/EN#86656/vehicles a police car] .

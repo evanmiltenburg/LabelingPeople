@@ -1,0 +1,5 @@
+[/EN#7559/people A large group of people] are dining in [/EN#7560/scene a restaurant] and smiling for [/EN#0/notvisual the camera] .
+[/EN#7559/people Ten people] smile while sitting at [/EN#7561/other the sides of a long table] in [/EN#7560/scene a restaurant] .
+[/EN#7559/people A group of individuals] sitting in [/EN#7560/scene a restaurant] .
+[/EN#7559/people A group of people] at [/EN#7560/scene a high class restaurant] .
+[/EN#7559/people A family] poses for [/EN#7564/other a photo] at [/EN#7562/other dinner] .

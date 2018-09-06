@@ -1,0 +1,5 @@
+[/EN#108106/people A snow skier] in [/EN#108110/clothing a red top] and [/EN#108111/clothing black pants] moving down [/EN#108109/scene a hill] .
+[/EN#108106/people A skier] outfitted in [/EN#108110/clothing red] on [/EN#108107/scene a snow-covered mountain] .
+[/EN#108106/people A man] wearing [/EN#108110/clothing a red coat] is skiing in [/EN#108108/scene the snow] .
+[/EN#108106/people A man] in [/EN#108110/clothing red] is skiing down [/EN#108107/other a snow slope] .
+[/EN#108106/people A man] in [/EN#108110/clothing a red coat] skiing .

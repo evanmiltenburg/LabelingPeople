@@ -1,0 +1,5 @@
+[/EN#37267/other Someone dangles] on [/EN#37265/other a rope] from [/EN#37264/scene a rocky cliff] over [/EN#37266/scene the ocean] .
+[/EN#37263/people An individual] rappelling down [/EN#37264/scene a cliff] towards [/EN#37266/scene the water]
+[/EN#37263/people A man] is hanging by [/EN#37265/other a line] off [/EN#37264/scene a cliff] above [/EN#37266/scene water] .
+[/EN#37263/people A man] in [/EN#37268/clothing blue pants] repels off [/EN#37264/scene a cliff] over [/EN#37266/scene water] .
+[/EN#37263/people A person] hangs from [/EN#37265/other a rope] on [/EN#37264/scene a cliff]

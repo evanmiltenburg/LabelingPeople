@@ -1,0 +1,5 @@
+[/EN#132310/scene A scene] with [/EN#132313/scene an old auditorium] in [/EN#0/notvisual the background] [/EN#132305/people an orchestra] in [/EN#132315/scene front] playing [/EN#132316/other music] and [/EN#132306/people people] wearing [/EN#132308/clothing hard hats] in [/EN#132312/scene the forefront] .
+[/EN#132309/people A man] speaks and [/EN#132305/people musicians] play [/EN#132317/instruments instruments] as [/EN#132306/people people] in [/EN#132308/clothing blue construction hats] listen .
+[/EN#132305/people Musicians] playing for [/EN#132306/people a group of people] with [/EN#132308/clothing blue hats] on in [/EN#132307/scene outdoor settings] .
+[/EN#132305/people Orchestra] playing for [/EN#132306/people people] in [/EN#132308/clothing hard hats] in [/EN#132307/scene a room] with [/EN#132311/other a damaged ceiling]
+[/EN#132306/people People] in [/EN#132308/clothing blue hard hats] watching [/EN#132314/other concert] .

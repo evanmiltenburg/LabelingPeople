@@ -1,0 +1,5 @@
+[/EN#44343/people Four individuals] are sitting on [/EN#44346/scene a small dock] by [/EN#44345/scene the water] as [/EN#44344/vehicles/scene a boat] sails by .
+[/EN#44343/people A few people] sitting on [/EN#44346/scene a pier] looking at [/EN#44345/scene a lake] .
+[/EN#44343/people A small group of people] are sitting on [/EN#44346/scene a pier] .
+[/EN#44344/vehicles/scene A small white boat] is floating in [/EN#44345/scene the water] .
+[/EN#44343/people A group of people] sitting on [/EN#44346/scene a pier] .

@@ -1,0 +1,5 @@
+[/EN#195460/animals A small white dog] holds [/EN#195461/animals a bird] in [/EN#195463/bodyparts its mouth] as [/EN#0/notvisual it] runs in [/EN#195462/scene a field] .
+[/EN#195460/animals A white puppy] is carrying [/EN#195461/animals a black bird] in [/EN#195463/bodyparts its mouth] .
+[/EN#195460/animals A white dog] carries [/EN#195461/animals a gray bird] in [/EN#195462/scene a field] .
+[/EN#195460/other The dog returns] with [/EN#195461/animals the hunter 's bird] .
+[/EN#195460/animals A puppy] catching [/EN#195461/animals a bird]

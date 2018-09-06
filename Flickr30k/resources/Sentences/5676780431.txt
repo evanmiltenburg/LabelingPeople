@@ -1,0 +1,5 @@
+[/EN#240740/people A dirt biker] wearing [/EN#240751/clothing dark pants] , [/EN#240752/clothing t-shirt] , [/EN#240753/clothing socks] and [/EN#240754/clothing shoes] on [/EN#240742/scene a yellow framed bike midair] [/EN#240750/scene outdoors] in front of [/EN#240743/other trees] and [/EN#0/notvisual other jumps] .
+[/EN#240740/people A mountain biker] in [/EN#240741/scene midair] biking while surrounded by [/EN#240747/scene grass] and [/EN#240743/other trees] .
+[/EN#240740/people BMX bike rider] in [/EN#0/notvisual mid jump] on [/EN#240744/other a hillside] while on [/EN#240745/other a motocross course] .
+[/EN#240740/people A cyclist] on [/EN#240742/vehicles a yellow bike] goes off-road and catches [/EN#0/notvisual air] .
+[/EN#240740/people A man] is on [/EN#240742/vehicles his mountain bike] flying in [/EN#0/notvisual the air] .

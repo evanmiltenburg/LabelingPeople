@@ -1,0 +1,5 @@
+[/EN#33409/people a woman] skiing down [/EN#33411/scene a snowy mountain] with [/EN#33408/animals a brown dog] on [/EN#33413/other a lesh] running with [/EN#0/notvisual her]
+[/EN#33408/animals The brown dog] pulls [/EN#33409/people a skier] across [/EN#0/notvisual snow-covered ground] .
+[/EN#33409/people A person] is skijoring with [/EN#33408/animals a dog] in [/EN#33411/scene the mountains] .
+[/EN#33409/people A woman] crosscountry skiing , with [/EN#33408/animals a brown dog] .
+[/EN#33409/people A person] skis with [/EN#33408/animals their dog] .

@@ -1,0 +1,5 @@
+[/EN#121305/animals Two dogs] are running around [/EN#121307/scene a dog track] wearing [/EN#121308/clothing muzzles] .
+[/EN#121305/animals Two muzzled greyhounds] are running on [/EN#121307/scene a track] .
+[/EN#121305/animals Two greyhounds] are competing in [/EN#121305/other a race] .
+[/EN#121305/other Two greyhounds race] around [/EN#121307/scene a track] .
+[/EN#121305/animals Two dogs] race on [/EN#121307/scene a track] .

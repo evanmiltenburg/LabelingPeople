@@ -1,0 +1,5 @@
+[/EN#172922/people A man] with [/EN#172928/clothing a gray jacket] and [/EN#172929/clothing blue jeans] is standing in front of [/EN#172923/scene a donut stand] .
+[/EN#172922/people A young man] is getting [/EN#172927/other something] to eat at [/EN#172923/scene a donut concession stand] .
+[/EN#172924/people The donut vendor] is making [/EN#172926/other money] at [/EN#172925/other the carnival] .
+[/EN#172922/people A man] is standing outside of [/EN#172923/scene a donut stand] .
+[/EN#172922/people A boy] is standing outside [/EN#172923/scene a donut stand] .

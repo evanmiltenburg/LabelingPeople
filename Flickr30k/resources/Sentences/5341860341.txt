@@ -1,0 +1,5 @@
+[/EN#234107/people Five people] are sitting in [/EN#234108/vehicles/scene a long boat] , smiling as [/EN#0/notvisual they] float down [/EN#234109/scene a river] .
+[/EN#234107/people A group of people] are on [/EN#234108/vehicles/scene a large , thin , boat] in [/EN#234109/scene brown water] .
+[/EN#234107/people Group of young people] all sit together in [/EN#234108/vehicles/scene a narrow boat] .
+[/EN#234107/people A group of five people] are riding in [/EN#234108/other a canoe] in [/EN#234109/scene a river] .
+[/EN#234107/people Five people] boating on [/EN#234110/scene a sunny day] .

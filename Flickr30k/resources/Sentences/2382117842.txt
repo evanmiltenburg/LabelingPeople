@@ -1,0 +1,5 @@
+[/EN#45367/people A woman] on [/EN#45368/vehicles/scene a boat] wearing [/EN#45374/other a spaghetti] [/EN#45370/clothing strap shirt] , [/EN#45369/clothing red gloves] and [/EN#45371/clothing boots] , points off [/EN#45368/vehicles/scene the boat] while [/EN#0/notvisual she] cleans [/EN#45373/other something] .
+[/EN#45367/people Woman] in [/EN#45376/clothing sunglasses] , [/EN#45369/clothing rubber gloves] , and [/EN#45371/clothing boots] points as [/EN#0/notvisual she] squats on [/EN#45368/vehicles/scene a boat] .
+[/EN#45367/people A woman] wearing [/EN#45370/clothing a tank top] and [/EN#45369/clothing gloves] washing [/EN#45373/other the windows] on top of [/EN#45368/vehicles/scene a train] .
+[/EN#45367/people A woman] wearing [/EN#45369/clothing a summer top] and [/EN#45369/clothing orange gloves] squatting atop [/EN#45368/vehicles/scene a boat] .
+[/EN#45367/people A middle-aged woman] cleans [/EN#45373/other the windows] on [/EN#45368/vehicles/scene a boat] .

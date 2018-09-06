@@ -1,0 +1,5 @@
+[/EN#45954/animals A white dog] with [/EN#45955/other a yellow toy] in [/EN#45956/bodyparts his mouth] runs through [/EN#45957/scene a nature trail] towards [/EN#0/notvisual the camera] .
+[/EN#45954/animals a white dog] is running on [/EN#45957/scene a grassy path] carrying [/EN#45955/other a yellow object] in [/EN#45956/bodyparts its mouth] .
+[/EN#45954/animals A white dog] with [/EN#45958/clothing a blue collar] runs while carrying [/EN#45955/other a yellow toy] .
+[/EN#45954/animals A dog] runs [/EN#45959/scene outside] with [/EN#45955/other a yellow toy] .
+[/EN#45954/animals A white dog] fetching [/EN#45955/other a yellow toy] .

@@ -1,0 +1,5 @@
+[/EN#74949/people A boy] , in [/EN#74950/clothing the green shirt] , is burying [/EN#0/notvisual himself] in [/EN#74953/other the sand] at [/EN#74954/scene the sunny beach] .
+[/EN#74949/people The toddler] in [/EN#74950/clothing the green shirt] has buried [/EN#74956/bodyparts his legs] in [/EN#74953/other the sand] .
+[/EN#74949/people Small boy] in [/EN#74950/clothing a green shirt] is buried up to [/EN#74950/bodyparts his waist] in [/EN#74953/other sand] .
+[/EN#74949/people A boy] with [/EN#74950/clothing a green shirt] is burying [/EN#0/notvisual himself] in [/EN#74953/other the sand]
+[/EN#74949/people A child] is buried [/EN#74952/other waist deep] in [/EN#74953/other sand]

@@ -1,0 +1,5 @@
+[/EN#181580/people A young European man] with [/EN#181583/other a glass of beer] talking to [/EN#181580/people an older man] eating [/EN#181582/other a large bag of Lays potato chips] .
+[/EN#181580/people A man] holding [/EN#181583/other a beer] is looking at [/EN#181580/people an old man] eating [/EN#181582/other lays potato chips] .
+[/EN#181580/people An old man] with [/EN#181582/other a bag of chips] sits with [/EN#181580/people a younger man] holding [/EN#181583/other a drink] .
+[/EN#181580/people The man] is drinking [/EN#181583/other beer] while [/EN#181585/other the other one] eats [/EN#181582/other chips] .
+[/EN#181584/people Two men] drinking [/EN#181583/other beers] and eating [/EN#181582/other chips] .

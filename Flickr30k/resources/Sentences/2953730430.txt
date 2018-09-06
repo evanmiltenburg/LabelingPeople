@@ -1,0 +1,5 @@
+[/EN#83749/people A woman] in [/EN#83752/clothing a pink shirt] stands behind [/EN#83750/other a table] with [/EN#83753/other many salad dressings] , and [/EN#83754/other paper plates] .
+[/EN#83749/people A woman] stands at [/EN#83750/other a covered table] with [/EN#83751/other condiments] on [/EN#0/notvisual it] with [/EN#83756/scene a wide open field] behind [/EN#0/notvisual her] .
+[/EN#83749/people A woman] with [/EN#83755/clothing sunglasses] standing at [/EN#83750/other a table] with [/EN#83751/other condiments] .
+[/EN#83749/people A woman] is standing in front of [/EN#83751/other a table of condiments] .
+[/EN#83749/people A woman] is standing behind [/EN#83750/other a table]

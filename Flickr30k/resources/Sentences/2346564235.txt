@@ -1,0 +1,5 @@
+[/EN#43216/people A woman] wearing [/EN#43217/clothing black clothing] is standing next to [/EN#43215/people a man] [/EN#0/notvisual who] is looking at [/EN#43220/other something] in [/EN#43221/bodyparts his hands] .
+[/EN#43216/people A woman] in [/EN#43217/clothing a black jacket] talks to [/EN#43215/people a man] in [/EN#43218/clothing a white and blue jacket] while [/EN#0/notvisual he] reads .
+[/EN#43215/people A man] in [/EN#43218/clothing a white and blue jacket] is talking to [/EN#43216/people a girl] in [/EN#43217/clothing a black jacket] .
+[/EN#43215/people A man] in [/EN#43218/clothing a workout suit] is reading to [/EN#43216/people a woman] .
+[/EN#43222/scene A male and female inside] reading and conversing

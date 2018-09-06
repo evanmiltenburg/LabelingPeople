@@ -1,0 +1,5 @@
+[/EN#191485/people a man] with [/EN#191491/clothing an orange backpack] is standing on [/EN#191488/scene a cliffside path] .
+[/EN#191485/people A hiker] stands on [/EN#191490/scene a hill] looking into [/EN#0/notvisual the distance] .
+[/EN#191485/people A backpacker] looks over [/EN#191487/scene a cliff] towards [/EN#191486/other the fog] .
+[/EN#191485/people A backpacker] looks toward [/EN#191489/scene a foggy landscape] .
+[/EN#191485/people Hiker] with [/EN#191491/clothing yellow backpack] stares into [/EN#191486/other fog] .

@@ -1,0 +1,5 @@
+[/EN#219204/animals Two large dogs] are playing together in [/EN#219208/scene a yard] with [/EN#219210/scene a tall fence] .
+[/EN#219209/animals One dog] jumps up to catch [/EN#219207/other a ball] as [/EN#219204/animals another dog] runs towards [/EN#0/notvisual it] .
+[/EN#219204/animals Two tan dogs] playing together in [/EN#219208/scene a fenced yard] .
+[/EN#219204/animals Two dogs] are playing in [/EN#219210/other a fenced] in [/EN#219208/scene yard] .
+[/EN#219204/animals Two dogs] play [/EN#219212/other catch] with [/EN#219207/other a rubber ball] .

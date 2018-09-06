@@ -1,0 +1,5 @@
+[/EN#249463/people A gentleman] rides [/EN#249464/vehicles his mountain bike] down [/EN#249465/scene rough terrain] while wearing [/EN#249466/clothing a white helmet] .
+[/EN#249463/people Man] with [/EN#249466/clothing a white helmet] and [/EN#249469/clothing black clothing] riding [/EN#249464/vehicles a dirt bike] on [/EN#249465/scene a rocky dirt road] .
+[/EN#249463/people A man] in [/EN#249467/clothing a black shirt] and [/EN#249466/clothing white helmet] riding [/EN#249464/vehicles a bike] over [/EN#0/notvisual rocky ground] .
+[/EN#249463/people A biker] in [/EN#249466/clothing a white helmet] is riding on top of [/EN#249470/other some sand] by [/EN#249468/scene a fence] .
+[/EN#249463/people A man] is riding [/EN#249464/vehicles a bike] down [/EN#249465/scene a dirt path] .

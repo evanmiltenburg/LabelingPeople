@@ -1,0 +1,5 @@
+[/EN#51263/people The hiker] is walking up [/EN#51265/scene a snow covered hill] with [/EN#51264/animals a black dog] .
+[/EN#51263/people A person] climbs up [/EN#51265/scene a snowy hill] while [/EN#51264/animals their dog] follows .
+[/EN#51263/people A person] climbs [/EN#51265/scene a snowy hill] while [/EN#51264/animals a black dog] follows .
+[/EN#51263/people A person] and [/EN#51264/animals a black dog] are walking through [/EN#51265/scene the snow] .
+[/EN#51263/people A person] hiking up [/EN#51265/scene a hill] in [/EN#51265/scene the snow] with [/EN#51264/animals a dog] .

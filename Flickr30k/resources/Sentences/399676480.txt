@@ -1,0 +1,5 @@
+[/EN#151295/people A child] holding [/EN#151296/other a flag] and wearing [/EN#151305/clothing an orange coat] is standing in front of [/EN#151304/people two women] sitting on [/EN#151299/other a park bench] .
+[/EN#151295/people A little boy] playing with [/EN#151300/other flags] in [/EN#151297/scene the park] while [/EN#151303/people his parents] watch [/EN#0/notvisual him] in [/EN#151302/other the back] .
+[/EN#151295/people A toddler aged child] is waving [/EN#151300/other two flags] with [/EN#151298/other park benches] in [/EN#0/notvisual the background] .
+[/EN#151295/people A child] smiles while holding [/EN#151296/other a flag] while [/EN#151301/other others] sit in [/EN#0/notvisual the background] .
+[/EN#151295/people A small child] waves [/EN#151300/other two flags] in [/EN#151297/scene a park] !

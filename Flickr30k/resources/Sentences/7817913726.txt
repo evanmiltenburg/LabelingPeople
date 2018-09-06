@@ -1,0 +1,5 @@
+[/EN#275730/people A person] wearing [/EN#275736/clothing a red helmet] and carrying [/EN#275735/clothing a blue backpack] is standing on [/EN#275738/other a snowy ledge] looking out at [/EN#275733/scene some mountains] and [/EN#275731/scene a blue sky] .
+[/EN#275730/people A person] in [/EN#275737/clothing a red jacket] overlooks [/EN#275732/scene a scenic view of snow covered mountains] .
+[/EN#275730/people A rock climber] admiring [/EN#275733/other the beautiful scene of a snowcapped mountaintop] .
+[/EN#275730/people A hiker] stops to look at [/EN#275733/scene the snowy scenery] while climbing [/EN#275739/scene the mountains] .
+[/EN#275730/people A mountain climber] looking at [/EN#275734/other the beautiful nature]

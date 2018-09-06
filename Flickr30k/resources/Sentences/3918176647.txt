@@ -1,0 +1,5 @@
+[/EN#148180/people A woman] in [/EN#148184/clothing black pants] and [/EN#148183/clothing a purple top] reads [/EN#148182/other a book] while sitting on [/EN#148181/scene a light blue bench seat] next to [/EN#148185/clothing her black and white purse] .
+[/EN#148180/people A woman] sitting on [/EN#148181/other a bright blue bench] looks up from [/EN#148182/other her book] .
+[/EN#148180/people A woman] in [/EN#148183/clothing a purple blouse] sits on [/EN#148181/other a blue bench] .
+[/EN#148180/people A woman] sits on [/EN#148181/other a blue bench] reading [/EN#148182/other a book] .
+[/EN#148180/people A woman] sitting on [/EN#148181/other a blue bench] .

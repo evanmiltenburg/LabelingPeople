@@ -1,0 +1,5 @@
+[/EN#76521/people A bride] and [/EN#76522/people groom] walk up [/EN#76523/scene a stone staircase] in front of [/EN#76526/scene a stone building] .
+[/EN#76524/people A married couple] walk up [/EN#76523/other flights of old stone stairs] .
+[/EN#76521/people A bride] and [/EN#76522/people groom] are walking up [/EN#76523/scene a staircase] .
+[/EN#76521/people A bride] and [/EN#76522/people groom] ascend [/EN#76523/scene a stone staircase] .
+[/EN#76521/people A bride] and [/EN#76522/people groom] climbing [/EN#76523/other steps] .

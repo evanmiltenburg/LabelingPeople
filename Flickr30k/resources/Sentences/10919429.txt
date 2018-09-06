@@ -1,0 +1,5 @@
+[/EN#2198/people A man] in [/EN#2199/clothing a black shirt] and [/EN#2205/clothing black jeans] and [/EN#2204/people a little boy] are taking [/EN#2207/other a look] inside [/EN#2203/other a green truck 's engine] while [/EN#0/notvisual it] is parked in [/EN#2200/scene a grass field] with [/EN#2206/clothing a gas tank] in front of [/EN#0/notvisual it] .
+[/EN#2198/people A male] in [/EN#2199/clothing a black shirt] , and [/EN#2205/clothing black pants] , working on [/EN#2202/vehicles the engine of an old , green antique automobile] , with [/EN#2206/other a yellow gas canister] sitting on [/EN#2200/scene the grass] .
+[/EN#2198/people A young man] and [/EN#2204/people a toddler] look under [/EN#2210/vehicles the hood of an old-fashioned truck] .
+[/EN#2198/people A man] and [/EN#2204/people children] work on [/EN#2201/vehicles the engine of an old truck] .
+[/EN#2198/people Man] working on [/EN#2201/vehicles old truck] while [/EN#2204/people child] watches .

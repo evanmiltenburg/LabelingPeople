@@ -1,0 +1,5 @@
+[/EN#12762/people A man] with [/EN#12763/clothing a big backpack] is walking through [/EN#12764/scene a grass trail] up [/EN#12765/scene a hill] .
+[/EN#12762/people Person] hiking up [/EN#12764/scene a grassy trail] toward [/EN#12765/scene a large hill] .
+[/EN#12762/people A hiker] is walking [/EN#12764/scene a treeless path] up [/EN#12765/scene a hill] .
+[/EN#12762/people The hiker] is following [/EN#12766/other a trail uphill] .
+[/EN#12762/people A man] is backpacking up [/EN#12764/scene a grassy hill] .

@@ -1,0 +1,5 @@
+[/EN#232842/people A woman] dressed in [/EN#232843/clothing a Nike shirt] and matching [/EN#232844/clothing pants] looks down at [/EN#0/notvisual the ground] .
+[/EN#232842/people A smiling woman] is wearing [/EN#232845/clothing sunglasses] on [/EN#232848/scene a day] with [/EN#232850/other sparse clouds] .
+[/EN#232842/people The woman] is [/EN#232842/people all] dressed in [/EN#232846/clothing blue] and standing under [/EN#232851/scene a blue sky] .
+[/EN#232842/people A woman] wearing [/EN#232846/clothing a blue uniform] stands and looks down .
+[/EN#232842/people The lady] smiles on [/EN#232847/scene a clear day] .

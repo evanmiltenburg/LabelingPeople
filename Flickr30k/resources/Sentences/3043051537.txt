@@ -1,0 +1,5 @@
+[/EN#89610/people A man] wearing [/EN#89611/clothing blue jeans] , [/EN#89612/clothing a striped shirt] , [/EN#89613/clothing a ball cap] , and [/EN#89614/clothing headphones] sits on [/EN#89615/other a bench] on [/EN#89617/scene a public street] , possibly waiting for [/EN#89619/vehicles/scene a bus] .
+[/EN#89610/people A black man] is sitting on [/EN#89615/other a bench] in front of [/EN#89616/other a public transit map] .
+[/EN#89610/people a man] in [/EN#89612/clothing a striped shirt] is sitting at [/EN#89618/other a subway stop] .
+[/EN#89610/people An older man] sits on [/EN#89615/other a bench] at [/EN#89618/other the bus stop] .
+[/EN#89610/people A black man] is sitting at [/EN#89618/other a bus stop] .

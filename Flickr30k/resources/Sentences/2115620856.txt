@@ -1,0 +1,5 @@
+[/EN#29613/scene A town] at [/EN#29615/scene the foothills of a mountain] is seen bustling with [/EN#29617/other typical daytime activity] .
+[/EN#29612/scene A nice neighborhood street] in [/EN#29615/scene the beautiful green foothills] .
+[/EN#29613/scene A small town] lies at [/EN#29615/scene the base of verdant mountains] .
+[/EN#29618/vehicles A car] is driving towards [/EN#29614/scene a green mountain] .
+[/EN#29613/scene A town] and [/EN#29614/scene a green mountain] in [/EN#29616/other the back] .

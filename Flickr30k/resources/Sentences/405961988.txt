@@ -1,0 +1,5 @@
+[/EN#153717/people The construction worker] is drilling into [/EN#153720/scene the street] near [/EN#153720/scene a street] with [/EN#153722/vehicles active traffic] .
+[/EN#153717/people The man] in [/EN#153723/other the construction gear] uses [/EN#153724/other a large , red drill] .
+[/EN#153717/people A man] wearing [/EN#153718/clothing a hi-viz jacket] is drilling into [/EN#153719/scene the road] .
+[/EN#153717/people A construction worker] drills [/EN#153721/scene a hole] into [/EN#0/notvisual the ground] .
+[/EN#153717/people A man] wearing [/EN#153718/clothing a yellow vest] works in [/EN#153720/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#16995/animals A dog] jumps in [/EN#16998/scene the snow] trying to catch [/EN#16997/other a snowball] .
+[/EN#16995/animals A dog] trying to catch [/EN#16997/other a snowball] in [/EN#16998/scene the snow] .
+[/EN#16995/animals A dog] tries to catch [/EN#16997/other a snowball] in [/EN#17000/bodyparts its mouth] .
+[/EN#16995/animals A brown and black dog] playing in [/EN#16998/scene the snow] .
+[/EN#16995/animals Dog] jumps to catch [/EN#16997/other a snowball] .

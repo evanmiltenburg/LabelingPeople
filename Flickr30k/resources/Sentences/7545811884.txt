@@ -1,0 +1,5 @@
+[/EN#271236/people A smiling woman] with [/EN#271239/bodyparts dark hair] , dressed in [/EN#271244/clothing a white shirt] with [/EN#271237/clothing a decorated dark jacket] , is playing [/EN#271238/instruments a violin] and performing in front of [/EN#271241/other a large Smithsonian sign] .
+[/EN#271236/people A woman] with [/EN#271247/other slicked] down [/EN#271239/bodyparts black hair] and [/EN#271237/clothing a black jacket] with [/EN#271245/other designs] on [/EN#271243/clothing the sleeve] is playing [/EN#271238/instruments violin] next to [/EN#271242/other a microphone] .
+[/EN#271236/people A woman] dressed in [/EN#271237/clothing black] is playing [/EN#271238/instruments a violin] .
+[/EN#271236/people A woman] performing [/EN#271238/instruments the violin] in [/EN#271240/other a concert] .
+[/EN#271236/people a happy female violinist] playing [/EN#271246/other music] .

@@ -1,0 +1,5 @@
+[/EN#204116/people A man] in [/EN#204123/clothing a white shirt] grills in front of [/EN#204118/scene a white shed] , near [/EN#204117/scene a brown fence] .
+Behind [/EN#204117/scene a fence] , [/EN#204116/people a man] in [/EN#204122/other a white shirt grills meat] .
+[/EN#204116/people A man] is grilling in [/EN#204120/scene a backyard] with [/EN#204118/scene a large shed] .
+[/EN#204116/people A man] holding [/EN#204119/other tongs] is barbecuing .
+[/EN#204116/people A man] holding [/EN#204119/other tongs] at [/EN#204121/other a barbecue] .

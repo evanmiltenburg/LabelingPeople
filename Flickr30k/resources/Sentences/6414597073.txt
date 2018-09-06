@@ -1,0 +1,5 @@
+[/EN#254045/people A woman] wearing [/EN#254049/clothing a pair of glasses] with [/EN#254056/bodyparts her hair] pulled up into [/EN#254053/other a bun] is using [/EN#254046/other a power drill] and inserting into [/EN#254052/other a wall] .
+[/EN#254045/people A woman] in [/EN#254050/clothing a red shirt] and [/EN#254049/clothing safety glasses] drilling into [/EN#254051/other tile] with [/EN#254046/other an orange cordless power drill]
+[/EN#254045/people A woman] wearing [/EN#254049/clothing safety goggles] and [/EN#254050/clothing a red shirt] , using [/EN#254046/other a power drill] on [/EN#254051/other tile] .
+[/EN#254045/people The woman] is using [/EN#254048/clothing the orange] and [/EN#254046/other black cordless drill] on [/EN#254055/other the wall] .
+[/EN#254045/people A woman] with [/EN#254050/clothing a red shirt] and [/EN#254049/clothing goggles] on [/EN#254054/other operates] [/EN#254046/other an orange drill] .

@@ -1,0 +1,5 @@
+[/EN#19228/people A man] in [/EN#19233/clothing a purple shirt] is about to talk to [/EN#19230/people a man] in [/EN#19234/clothing a white shirt] with [/EN#19235/clothing suspenders] .
+[/EN#19228/people A man] is standing next to [/EN#19231/other a red door] .
+[/EN#19232/people Two men] are standing by [/EN#19231/other a red door] .
+[/EN#19228/people A man] is walking into [/EN#19230/scene a building] .
+[/EN#19228/people A man] is looking at [/EN#19230/people another man] .

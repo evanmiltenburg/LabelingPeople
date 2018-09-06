@@ -1,0 +1,5 @@
+[/EN#207317/people Two women] wearing [/EN#207323/clothing shorts] are walking on [/EN#207319/scene the sidewalk] in [/EN#207321/scene an urban setting] .
+[/EN#207316/people Many people] , including [/EN#207317/people two women] in [/EN#207324/clothing sunglasses] walk down [/EN#207318/scene a city street] .
+[/EN#207317/people Two women] are walking next to [/EN#207325/other one] [/EN#0/notvisual another] down [/EN#207319/scene a busy sidewalk] .
+[/EN#207316/people Several groups of pedestrians] on [/EN#207318/scene a city street] during [/EN#207320/scene the day] .
+[/EN#207322/people people] walking during [/EN#207320/scene a sunny day] .

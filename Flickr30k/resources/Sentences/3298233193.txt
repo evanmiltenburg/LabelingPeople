@@ -1,0 +1,5 @@
+[/EN#107699/animals A small brown dog] plays with [/EN#107700/other a ball] on [/EN#107701/scene the beach] .
+[/EN#107699/animals A brown dog] playing with [/EN#107700/other a tennis ball] on [/EN#107701/scene a beach]
+[/EN#107699/animals Brown dog] jumping near [/EN#107703/scene water] on [/EN#107701/scene the beach] .
+[/EN#107699/animals A dog] playing in [/EN#107702/scene the waves] with [/EN#107700/other a ball] .
+[/EN#107699/animals A dog] plays with [/EN#107700/other a ball] at [/EN#107701/scene the beach] .

@@ -1,0 +1,5 @@
+[/EN#148706/people A man] in [/EN#148711/clothing formal attire] is standing behind [/EN#0/notvisual what] seems to be [/EN#148708/other a counter] .
+[/EN#148706/people Gentlemen] wearing [/EN#148709/clothing a white shirt] and [/EN#148710/clothing black vest] sitting at [/EN#148708/other a desk] .
+[/EN#148706/people An organ player] is seated and playing inside of [/EN#148707/scene a regal church] .
+[/EN#148706/people A man] with [/EN#148712/clothing glasses] looks at [/EN#148713/other something] in [/EN#148707/scene a church] .
+[/EN#148706/people A young man] plays [/EN#148714/instruments an organ] in [/EN#148707/scene a church] .

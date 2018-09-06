@@ -1,0 +1,5 @@
+[/EN#1933/people Two men] shoveling [/EN#1936/scene snow] off [/EN#1934/scene a railroad track] dressed in [/EN#1935/clothing bright orange snowsuits] .
+[/EN#1933/people Two men] in [/EN#1935/scene orange coveralls shovel snow] off [/EN#1934/scene railroad tracks] .
+[/EN#1933/people Two men] in [/EN#1937/clothing hats] and [/EN#1935/clothing orange uniforms] are shoveling [/EN#1936/scene snow] .
+[/EN#1933/people Men] at [/EN#1940/other work] shoveling [/EN#1936/scene snow] from [/EN#1934/scene a rail track] .
+[/EN#1933/people Emergency workers] clearing [/EN#1934/scene the path] .

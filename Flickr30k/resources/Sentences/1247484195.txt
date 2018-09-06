@@ -1,0 +1,5 @@
+[/EN#6231/people A little girl] wearing [/EN#6235/clothing a yellow dress] moves frantically in front of [/EN#6235/scene a crowded baseball stadium] .
+[/EN#6231/people A young girl] in [/EN#6238/other a yellow dance] , dancing on [/EN#6233/scene a stage] with [/EN#6236/scene a baseball field] in [/EN#0/notvisual the background] .
+[/EN#6231/people a young girl] in [/EN#6235/clothing a yellow dress] and [/EN#6239/clothing no shoes] dancing on [/EN#6233/scene the dugout] at [/EN#6232/other a baseball game] .
+[/EN#6231/people A girl] in [/EN#6235/clothing a yellow dress] runs across [/EN#6233/scene the roof of a baseball dugout] during [/EN#6232/other a game] .
+[/EN#6231/people A young girl] in [/EN#6235/clothing a yellow dress] walking at [/EN#6232/other a baseball game] .

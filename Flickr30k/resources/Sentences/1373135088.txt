@@ -1,0 +1,5 @@
+[/EN#10419/people A man] wearing [/EN#10420/clothing blue jeans] , [/EN#10421/clothing blue shirt] and [/EN#10422/clothing a cap] runs in front of [/EN#10423/vehicles a large truck] on [/EN#10424/scene a street] .
+[/EN#10419/people A man] runs across [/EN#10424/scene the street] in front of [/EN#10423/vehicles a military vehicle] .
+[/EN#10419/people A man] running in front of [/EN#10423/vehicles a vehicle] .
+[/EN#10419/people A man] running from [/EN#10425/other riot control] .
+[/EN#10419/people A man] in [/EN#10422/clothing a green hat] running .

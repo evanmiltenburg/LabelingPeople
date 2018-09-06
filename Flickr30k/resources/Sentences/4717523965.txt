@@ -1,0 +1,5 @@
+[/EN#194646/people The woman] in [/EN#194648/clothing purple sweatshirt] speaks while [/EN#194647/people her friend] in [/EN#194649/clothing green sweatshirt] listens .
+[/EN#194641/people Three women] standing by [/EN#194643/other a table] with [/EN#194645/other drinks] on [/EN#0/notvisual it] on [/EN#194642/scene a city sidewalk] .
+[/EN#194641/people A group of women] stand around [/EN#194643/scene a steel table outside] with [/EN#194645/other drinks] .
+[/EN#194641/people Three women] standing at [/EN#194643/other a table] on [/EN#194642/scene the sidewalk]
+[/EN#194641/people Women] enjoying [/EN#194645/other drinks] at [/EN#194643/scene a table outside] .

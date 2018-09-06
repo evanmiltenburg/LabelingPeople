@@ -1,0 +1,5 @@
+[/EN#232765/animals A black dog] is preparing to jump off [/EN#232767/scene a dock] into [/EN#232768/scene the water] to fetch [/EN#232766/other a ball] .
+[/EN#232765/animals A black dog] on [/EN#232767/scene a dock] about to dive into [/EN#232768/scene the water] after [/EN#232766/other a ball]
+[/EN#232765/animals a black dog] about to jump into [/EN#232768/other a lack] to get [/EN#232766/other a small ball] .
+[/EN#232765/animals A dog] leans off [/EN#232767/scene the dock] to fetch [/EN#232766/other a ball] in [/EN#232768/scene the water] .
+[/EN#232765/animals a black dog] gets ready to jump into [/EN#232768/scene the water] .

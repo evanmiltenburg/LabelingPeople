@@ -1,0 +1,5 @@
+[/EN#248059/people An unknown animal or person] is swimming in [/EN#248056/scene a natural lake] setting .
+[/EN#248055/animals A dog] is running through [/EN#248056/scene a lake] towards [/EN#248058/other some trees] .
+[/EN#248055/animals A dog] running into [/EN#248056/scene a pond] to fetch [/EN#248057/other something] .
+[/EN#248055/animals An animal] is attempting to cross [/EN#248056/scene the river] .
+[/EN#248055/animals A dog] swimming in [/EN#248056/scene a pond] .

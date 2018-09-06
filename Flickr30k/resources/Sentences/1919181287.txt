@@ -1,0 +1,5 @@
+[/EN#23134/people A little girl] with [/EN#23138/clothing a red shirt] , [/EN#23139/clothing blue jeans] , [/EN#23144/clothing white and blue tennis shoes] wearing [/EN#23135/clothing a multicolored bookbag] on [/EN#23140/other her back] running in front of [/EN#23137/scene an old condemned building] with [/EN#23145/other the words] Prave in [/EN#23141/clothing red] written on [/EN#23143/other the wall] .
+[/EN#23134/people The little girl] ran down [/EN#23136/scene the sidewalk] with [/EN#23135/clothing her backpack] on .
+[/EN#23134/people A girl] with [/EN#23135/clothing a backpack] runs down [/EN#23136/scene the street] .
+[/EN#23134/people A young girl] running down [/EN#23136/scene a street] .
+[/EN#23134/people A girl] running home from [/EN#23142/other school] .

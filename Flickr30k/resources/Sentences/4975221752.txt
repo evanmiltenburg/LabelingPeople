@@ -1,0 +1,5 @@
+[/EN#225107/people A man] in [/EN#225108/clothing a blue shirt] is walking in front of [/EN#225109/scene a store] called [/EN#225110/other Celtic Ireland] .
+[/EN#225107/people A man] in [/EN#225108/clothing a blue shirt] and [/EN#225111/clothing black pants] strolls by [/EN#225112/scene an irish pub] .
+[/EN#225107/people Man] walking by [/EN#225110/other a Celtic Ireland business] on [/EN#225109/scene a sidewalk] .
+[/EN#225107/people A man] in [/EN#225111/clothing black pants] and [/EN#225113/other a button] up walks past [/EN#225112/scene a pub] .
+[/EN#225107/people A man] in [/EN#225108/clothing a light-purple shirt] passes by [/EN#225112/scene a Celtic pub] .

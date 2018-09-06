@@ -1,0 +1,5 @@
+[/EN#109275/people A man] and [/EN#109281/people woman] sit on [/EN#109280/scene the floor] with [/EN#109274/people two children] as [/EN#109272/people one child] reads [/EN#109277/other a book] and [/EN#0/notvisual another] opens [/EN#109284/other a present] .
+[/EN#109275/people A man] and [/EN#109281/people woman] and [/EN#109274/people two small children] are sitting in [/EN#109280/scene the floor] with [/EN#109279/other wrapped Christmas presents] .
+[/EN#109274/people A blond boy] and [/EN#109272/people a blond girl] open [/EN#109279/other their gifts] on [/EN#109282/other Christmas] while [/EN#109278/people the parents] watch .
+[/EN#109274/people Two children] and [/EN#109278/people their parents] are on [/EN#109280/scene the floor] opening [/EN#109279/other presents] .
+[/EN#109272/people The people] were busy reading [/EN#109277/other materials] .

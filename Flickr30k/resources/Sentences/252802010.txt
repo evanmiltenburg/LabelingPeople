@@ -1,0 +1,5 @@
+[/EN#55459/animals two small dogs] playing with [/EN#0/notvisual each other] in [/EN#55460/scene the grass]
+[/EN#55458/animals A brown and white dog] playing with [/EN#55462/animals black dog] .
+[/EN#55459/animals Two small dogs] run across [/EN#55460/scene the green grass] .
+[/EN#55459/animals Two dogs] look at [/EN#55462/other one] [/EN#55461/scene another outside] .
+[/EN#55459/animals two dogs] playing

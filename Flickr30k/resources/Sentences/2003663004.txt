@@ -1,0 +1,5 @@
+[/EN#24831/people A football player] wears [/EN#24836/clothing a green jersey] with [/EN#24835/other the number] " 4 " on [/EN#0/notvisual it] .
+[/EN#24833/people Someone] takes [/EN#24832/other a cloth] off of [/EN#24831/people a Green Bay Packers football player] .
+[/EN#24831/people Greenbay football player] is being handed [/EN#24832/other a towel] on [/EN#24837/scene the field] .
+[/EN#24831/people A football player] pauses during [/EN#24834/other a game] .
+[/EN#24831/people Green Bay Packer player] cooling off

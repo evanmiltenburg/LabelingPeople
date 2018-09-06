@@ -1,0 +1,5 @@
+[/EN#39198/people A boy] only wearing [/EN#39202/clothing black pants] and [/EN#39204/clothing shoes] is playing with [/EN#39201/other a white balloon] on [/EN#39200/scene the sidewalk] .
+[/EN#39198/people A boy] wearing [/EN#39202/clothing black pants] and [/EN#39203/clothing no shirt] plays with [/EN#39201/other a white balloon] .
+[/EN#39198/people A shirtless child] is playing with [/EN#39199/other a pink balloon] on [/EN#39200/scene a sidewalk] .
+[/EN#39198/people A little boy] in [/EN#39202/clothing black pants] is playing with [/EN#39199/other a white balloon] .
+[/EN#39198/people A young boy] carries [/EN#39199/other a white balloon] .

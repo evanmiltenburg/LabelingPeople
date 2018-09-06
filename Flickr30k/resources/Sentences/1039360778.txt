@@ -1,0 +1,5 @@
+[/EN#1025/people A woman] in [/EN#1030/clothing a blue shirt] and [/EN#1031/clothing sunglasses] lies on [/EN#1028/other a red blanket] in [/EN#1027/scene a grassy field] with [/EN#1026/vehicles a bike] set down next to [/EN#0/notvisual her] .
+[/EN#1025/people A woman] relaxes with [/EN#1026/vehicles her bike] on [/EN#1028/other a red blanket] in [/EN#1027/scene a field of green grass] and [/EN#1029/other trees] .
+[/EN#1025/people A lady] laid [/EN#1026/vehicles her bicycle] on [/EN#1027/scene the green lawn] as [/EN#0/notvisual she] lies in [/EN#1028/other a red blanket] .
+[/EN#1025/people A woman] is laying on [/EN#1028/other a red blanket] in [/EN#1027/scene a park] .
+[/EN#1025/people A girl] suns [/EN#0/notvisual herself] on [/EN#1028/other a red blanket] .

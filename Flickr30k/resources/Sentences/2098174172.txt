@@ -1,0 +1,5 @@
+[/EN#28580/people The man] wears [/EN#28585/clothing a green hat] and [/EN#28586/clothing jacket] while standing in front of [/EN#28581/scene a mountain] .
+[/EN#28580/people A hiker] is standing in before [/EN#28581/scene the mountain] holding [/EN#28583/other two walking sticks] .
+[/EN#28580/people A man] with [/EN#28583/other two ski poles] stands near [/EN#28584/other a mountaintop] .
+[/EN#28580/people A man] stands in front of [/EN#28582/scene snow covered mountains] .
+[/EN#28580/people A hiker] is posing in front of [/EN#28582/scene snowy mountains] .

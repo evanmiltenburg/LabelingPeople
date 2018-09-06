@@ -1,0 +1,5 @@
+[/EN#3066/people A woman] is jogging on [/EN#3067/scene a sidewalk] next to [/EN#3069/other an elevated grassy platform] .
+[/EN#3066/people A young woman] in jogging [/EN#3072/clothing suit] running along [/EN#3068/scene the bank of a river] .
+[/EN#3066/people A jogger] passes under [/EN#3070/other an outstretched tree branch] .
+[/EN#3066/people A woman] in [/EN#3071/clothing a tight fitting outfit] is running .
+[/EN#3066/people A woman] running along [/EN#3068/scene a river] along [/EN#3067/scene a path] .

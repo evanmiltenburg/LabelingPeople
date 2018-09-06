@@ -1,0 +1,5 @@
+[/EN#240001/people Two actors] , playing [/EN#240000/other Jasmine] and [/EN#240002/other Aladdin] , sit on [/EN#240005/other the magic carpet] as [/EN#0/notvisual they] act out [/EN#240008/scene scenes] from [/EN#240002/other Aladdin] .
+[/EN#240001/people A couple] , looked like [/EN#240002/other Aladdin] and [/EN#240000/other Jasmine] , is riding [/EN#240005/other the magic carpet] on [/EN#240007/scene a night sky] .
+[/EN#240001/people Two people] , wearing [/EN#240010/clothing genie outfits] , flying on [/EN#240005/other a magic carpet] .
+[/EN#240000/other jasmine] and [/EN#240002/other Aladdin] on [/EN#240005/other magic carpet] with [/EN#240009/other smoke] around [/EN#0/notvisual them] .
+[/EN#240000/people A girl] and [/EN#240002/people a boy] are pretending to be on [/EN#240005/other a magic carpet] .

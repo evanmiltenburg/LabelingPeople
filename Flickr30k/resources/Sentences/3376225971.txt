@@ -1,0 +1,5 @@
+[/EN#114018/people Man] with [/EN#114021/vehicles bicycle] in front of [/EN#114019/scene old brick buildings] next to [/EN#0/notvisual what] appears to be [/EN#114020/bodyparts a large sculpture of a screaming face] .
+[/EN#114018/people A man] is parking [/EN#114021/vehicles his bicycle] outside [/EN#114019/scene a building] next to [/EN#114020/people a statue of a man] [/EN#114020/bodyparts 's head] .
+[/EN#114018/people Male] wearing [/EN#114022/clothing a helmet] and [/EN#114023/clothing backpack] holding [/EN#114021/vehicles his bike] up in front of [/EN#114019/scene a store] .
+[/EN#114018/people A man] walks [/EN#114021/vehicles his bike] past [/EN#114020/bodyparts a large silver sculpture of a head] .
+[/EN#114018/people A man] stopping with [/EN#114021/vehicles his bike] by [/EN#114020/other a strange statue] .

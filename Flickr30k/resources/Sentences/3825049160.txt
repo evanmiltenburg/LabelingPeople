@@ -1,0 +1,5 @@
+[/EN#144238/people Two men] in [/EN#144242/clothing orange vests] and [/EN#144241/clothing hard hats] are standing at [/EN#144239/scene the base of an unfinished building] and are working on lifting [/EN#144243/other something] .
+[/EN#144238/people Two men] in [/EN#144241/clothing white hard hats] and [/EN#144242/clothing orange vests] work in front of [/EN#144239/scene a building] .
+[/EN#144238/people Two construction workers] wearing [/EN#144242/clothing orange safety vests] at [/EN#144240/other the site of a job]
+[/EN#144238/people Workers] doing [/EN#144244/other their jobs] at [/EN#144240/scene a work site] .
+[/EN#144238/people Construction workers] at [/EN#144240/scene a job site] .

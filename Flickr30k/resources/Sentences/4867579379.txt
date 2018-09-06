@@ -1,0 +1,5 @@
+[/EN#212979/people A man] wearing [/EN#212983/clothing a red cap] is playing [/EN#212980/other chess] with [/EN#212981/people a young boy]
+[/EN#212979/people An older guy] is playing [/EN#212980/other chess] with [/EN#212981/people a young boy] .
+[/EN#212979/people Man] and [/EN#212981/people boy] playing [/EN#212980/other chess] on [/EN#212982/other the counter] .
+[/EN#212979/people A man] is playing [/EN#212980/other chess] with [/EN#212981/people a young boy] .
+[/EN#212979/people A man] and [/EN#212981/people boy] playing [/EN#212980/other a game of chess] .

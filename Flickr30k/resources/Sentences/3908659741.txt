@@ -1,0 +1,5 @@
+[/EN#147727/people An elderly man] is shaving [/EN#147732/people another elderly man] with [/EN#147730/other a straight razor]
+[/EN#147728/people A bald man] shaves [/EN#147729/people the chin of another man] using [/EN#147730/other a straight razor] .
+[/EN#147727/people an older male barber] shaving [/EN#147729/bodyparts another man 's face] .
+[/EN#147728/people A picture of a man] getting [/EN#147729/bodyparts his chin] shaved .
+[/EN#147728/people A man] is shaving [/EN#147732/people another man] .

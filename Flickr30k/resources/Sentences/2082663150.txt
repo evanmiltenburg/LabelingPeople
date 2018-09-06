@@ -1,0 +1,5 @@
+[/EN#27575/people An elderly gentleman] sits on [/EN#27576/other a couch] while holding [/EN#27577/animals a small dog] as [/EN#27578/animals another small dog] investigates [/EN#27582/other the situation] .
+[/EN#27575/people Elderly man] poses with [/EN#27579/animals his two dogs] while sitting on [/EN#27576/other his living room couch] .
+[/EN#27575/people An old man] is holding up [/EN#27577/animals one dog] while [/EN#27578/animals his other dog] climbs on [/EN#27580/bodyparts his lap] .
+[/EN#27575/people A man] is interacting with [/EN#27579/animals two dogs] , holding [/EN#0/notvisual one of them] .
+[/EN#27575/people A man] in [/EN#27581/clothing glasses] holds up [/EN#27577/animals his dog] .

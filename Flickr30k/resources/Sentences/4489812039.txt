@@ -1,0 +1,5 @@
+[/EN#172722/people A child] riding [/EN#172724/vehicles an all-terrain vehicle] makes curved [/EN#172730/scene tracks] in [/EN#172725/scene a muddy field] next to [/EN#172728/scene a storage building] .
+[/EN#172722/people A person] is riding [/EN#172723/other a quad] through [/EN#172725/other a field of mud] [/EN#0/notvisual that] has [/EN#172729/scene several buildings] behind [/EN#0/notvisual it] .
+[/EN#172722/people A young kid] wearing [/EN#172726/clothing a helmet] is riding [/EN#172723/other a 4-wheeler] through [/EN#172725/other the mud] .
+[/EN#172722/people A person] with [/EN#172726/clothing a helmet] riding [/EN#172723/other a four wheeler] in [/EN#172725/other the mud]
+[/EN#172722/people Person] on [/EN#172724/vehicles a dirt bike] in [/EN#172725/other the mud] .

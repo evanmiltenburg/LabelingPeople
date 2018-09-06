@@ -1,0 +1,5 @@
+[/EN#23732/people Three people] are sitting at [/EN#23737/other a table] ; [/EN#23734/people the man] is leaning back , [/EN#23733/people the middle woman] is on [/EN#23736/other her laptop] , and [/EN#23739/people the woman] on [/EN#23743/scene the left] is looking at [/EN#23734/people the man] .
+[/EN#23733/people A woman] with [/EN#23744/clothing glasses] is looking at [/EN#23736/other a gray laptop] with [/EN#23738/people two other people] at [/EN#23737/other a table] in [/EN#23741/scene a yellow room] .
+[/EN#23732/people Three people] sit around [/EN#23737/other a table] with [/EN#23736/other a laptop] and [/EN#23742/other food] on [/EN#0/notvisual it] .
+[/EN#23735/people Men] and [/EN#23739/people women] eating as [/EN#23733/people one women] is working on [/EN#23736/other a computer] .
+[/EN#23732/people A group of friends] relaxing together .

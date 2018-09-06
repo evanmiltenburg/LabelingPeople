@@ -1,0 +1,5 @@
+[/EN#53378/people A man] in [/EN#53381/clothing a suit] sits alone at [/EN#53380/other a table] within [/EN#53379/scene a restaurant] .
+[/EN#53378/people A man] waits for [/EN#53383/other his dinner] at [/EN#53379/scene a German restaurant] .
+[/EN#53378/people A man] in [/EN#53382/clothing glasses] sits by [/EN#0/notvisual himself] in [/EN#53379/scene a pub] .
+[/EN#53378/people A man] sitting at [/EN#53380/other a table] in [/EN#53379/scene a restaurant] .
+[/EN#53378/people Man] sitting alone at [/EN#53379/scene restaurant] .

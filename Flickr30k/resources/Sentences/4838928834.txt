@@ -1,0 +1,5 @@
+[/EN#209444/people Person] sitting at [/EN#209449/other a table] with [/EN#209450/clothing many empty glasses] , and [/EN#209446/other a mostly empty bottle] on [/EN#209449/other the table] , along with [/EN#209445/animals a small brown bird] .
+[/EN#209444/people A woman] wearing [/EN#209451/clothing glasses] is sitting down at [/EN#209449/other a table] with [/EN#209450/clothing glasses] , [/EN#209446/other a bottle] , and [/EN#209445/animals a bird] on [/EN#0/notvisual it] .
+[/EN#209444/people An older woman] is having [/EN#209447/other drinks] while being greeted by [/EN#209445/animals a small bird] standing on [/EN#209449/other the table] .
+[/EN#209444/people Older woman] stares at [/EN#209445/animals a little bird] at [/EN#209449/other table] covered with [/EN#209450/clothing glasses] .
+[/EN#209444/people An older woman] has [/EN#209447/other a drink] , and [/EN#209445/animals a little bird] comes to join [/EN#0/notvisual her] .

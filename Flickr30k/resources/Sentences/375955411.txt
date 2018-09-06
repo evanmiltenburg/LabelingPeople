@@ -1,0 +1,5 @@
+[/EN#141553/people A person] on [/EN#141557/other scaffolding paints] [/EN#141554/clothing a large wall orange] with [/EN#141555/other a brush] tied to [/EN#141556/other a stick] .
+[/EN#141553/people A man] holding [/EN#141556/other a rod] with [/EN#141555/other a paintbrush] attached , painting [/EN#141554/other a billboard] .
+[/EN#141553/people A man] painting [/EN#141554/clothing a building red] with [/EN#141555/other a paintbrush] at [/EN#141561/other the end of a stick] .
+[/EN#141553/people A man] wearing [/EN#141559/clothing all blue] on [/EN#141560/other a raised platform] painting [/EN#141554/clothing a wall red] .
+[/EN#141553/people A man] stands on [/EN#141557/other scaffolding] painting [/EN#141554/other a wall] in [/EN#141554/other a coral color] .

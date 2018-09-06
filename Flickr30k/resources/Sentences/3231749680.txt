@@ -1,0 +1,5 @@
+[/EN#102905/people Four children] in [/EN#102909/clothing sleeping bags] sleep on [/EN#102907/scene a floor] .
+[/EN#102905/people Four children] taking [/EN#102906/other a nap] on [/EN#102908/other colorful mats] .
+[/EN#102905/people Children] are sleeping on [/EN#102908/other mats] on [/EN#102907/scene the floor] .
+[/EN#102905/people Children] are sleeping on [/EN#102907/scene the floor] .
+[/EN#102906/other Four Asian toddlers nap] on [/EN#102907/scene a floor] .

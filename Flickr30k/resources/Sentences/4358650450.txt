@@ -1,0 +1,5 @@
+[/EN#164756/people A person] in [/EN#164758/clothing a coat] is shoveling [/EN#164760/scene a snow-covered sidewalk] in front of [/EN#164761/scene a street corner] and [/EN#164766/vehicles a parked bicycle] .
+[/EN#164759/people scene of a person] shoveling [/EN#164760/people snow citizens] walking around in [/EN#164759/other a cold winter environment]
+[/EN#164756/people A man] in [/EN#164758/clothing a thick blue winter jacket] shoveling [/EN#164761/scene snow] in [/EN#164755/other a winter blizzard] .
+[/EN#164756/people A person] shovels [/EN#164761/scene the snow] in [/EN#164763/scene the city] as [/EN#164761/scene the snow] continues to fall .
+[/EN#164756/other A main] shoveling [/EN#164761/scene snow] , off [/EN#164760/scene the sidewalk] during [/EN#164759/scene a cold winter day] .

@@ -1,0 +1,5 @@
+[/EN#78308/people A man] in [/EN#78309/clothing an apron] is standing in front of [/EN#78310/scene a shop] next to [/EN#78311/other a bucket] while holding [/EN#78312/other the end of a pole] with [/EN#78315/scene the other end] inside [/EN#78310/scene the shop] .
+[/EN#78308/people Old man] cleaning [/EN#78313/scene the sidewalk] outside [/EN#78310/scene a shop] .
+[/EN#78308/people A man] is cleaning [/EN#78314/scene the floor of a small shop] .
+[/EN#78308/people an old man] cleans up while wearing [/EN#78309/clothing an apron]
+[/EN#78308/people An older man] in [/EN#78309/clothing an apron] cleaning .

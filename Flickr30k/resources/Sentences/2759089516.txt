@@ -1,0 +1,5 @@
+[/EN#70989/people A child] wearing [/EN#70990/clothing gray shorts] and [/EN#70991/clothing pink-bottomed sneakers] crawls through [/EN#70992/other a window] .
+[/EN#70989/people A child] wearing [/EN#70991/clothing pink soled sneakers] is climbing headfirst through [/EN#70992/other a window] .
+[/EN#70989/people A child] attempts to enter [/EN#70995/scene a house] through [/EN#70992/other the doggy door] .
+[/EN#70993/bodyparts a child 's legs] while squeezing through [/EN#70994/other a dog door] .
+[/EN#70989/people A kid] climbs through [/EN#70994/other a small door] .

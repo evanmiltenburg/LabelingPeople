@@ -1,0 +1,5 @@
+[/EN#178904/people A person] wearing [/EN#178905/clothing a green sweatshirt] is walking on [/EN#178906/scene a ledge of a building] .
+[/EN#178904/people man] in [/EN#178905/clothing green sweater] going down [/EN#178906/scene a ramp] .
+[/EN#178904/people A person] is walking down [/EN#178906/other an incline] .
+[/EN#178904/people A man] in [/EN#178905/clothing a green sweatshirt] running .
+[/EN#178904/people a woman] in [/EN#178905/clothing a green jacket] walking .

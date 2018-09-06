@@ -1,0 +1,5 @@
+[/EN#43591/animals A dog] plays with [/EN#43592/other a ball] with [/EN#43594/scene a large office building] behind [/EN#0/notvisual it] .
+[/EN#43591/animals A dog] is jumping playing with [/EN#43592/other a ball] [/EN#0/notvisual that] has broken .
+[/EN#43591/animals A dog] jumps to catch [/EN#43592/other a ball] in [/EN#43593/scene a large field] .
+[/EN#43591/animals A dog] jumps for [/EN#43592/other a yellow and black ball] .
+[/EN#43591/animals a dog] playing in [/EN#43593/scene a park]

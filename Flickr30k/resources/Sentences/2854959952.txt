@@ -1,0 +1,5 @@
+[/EN#76956/animals The two dogs] , [/EN#0/notvisual one of which] is leaping in [/EN#0/notvisual the air] , are chasing [/EN#76957/other a ball] [/EN#76962/scene outdoors] .
+[/EN#76959/animals One dog] leaps to catch [/EN#76957/other a softball] while [/EN#0/notvisual another] looks on .
+[/EN#76956/animals Two small dogs] pursuing [/EN#76957/other a ball] across [/EN#76958/scene a grassy field] .
+[/EN#76956/animals Two dogs] play [/EN#76960/other catch] with [/EN#76957/other a ball] in [/EN#76958/scene a field] .
+[/EN#76956/animals two dogs] jump for [/EN#76957/other a ball] on [/EN#76958/scene a green field] .

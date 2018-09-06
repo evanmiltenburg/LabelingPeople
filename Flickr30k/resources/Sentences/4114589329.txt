@@ -1,0 +1,5 @@
+[/EN#156075/vehicles A Ford car] is making [/EN#156080/other a right turn] as [/EN#156076/people 3 males] are walking across [/EN#156078/scene the street] behind [/EN#156075/vehicles the car] .
+[/EN#156075/vehicles A brown car] is diving down [/EN#156078/scene the street] , while [/EN#156076/people people] cross at [/EN#156081/scene the corner] .
+[/EN#156076/people Three boys] in [/EN#156082/clothing white shirts] are walking behind [/EN#156075/vehicles an older model Ford car] .
+[/EN#156075/other An old Ford] passes through [/EN#156078/scene the street] .
+[/EN#156075/vehicles Old car] driving down [/EN#156078/scene the road] .

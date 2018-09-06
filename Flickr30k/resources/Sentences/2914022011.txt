@@ -1,0 +1,5 @@
+[/EN#80985/people A man] in [/EN#80986/clothing a red shirt] and [/EN#80987/clothing blue jeans] is standing in front of [/EN#80988/other a wall] with [/EN#80989/scene other people 's shadows] in front of [/EN#0/notvisual him] on [/EN#80993/scene the pavement] .
+[/EN#80985/people a man] standing against [/EN#80994/scene a building] , in [/EN#80996/other the sunlight] , as [/EN#0/notvisual you] can see [/EN#80989/people the shadow of the person] taking [/EN#80992/other his picture]
+[/EN#80985/people A man] reads [/EN#80991/other a book] at [/EN#80994/scene the corner of a building] and [/EN#0/notvisual you] can see [/EN#80989/scene the photographer 's shadow] in [/EN#0/notvisual the foreground] .
+[/EN#80985/people A man] in [/EN#80986/clothing a red shirt] stands against [/EN#80988/other a wall] while [/EN#80989/people the shadow of another man] can be seen in front of [/EN#0/notvisual him] .
+[/EN#80985/people A man] in [/EN#80986/clothing a red hoodie] is reading .

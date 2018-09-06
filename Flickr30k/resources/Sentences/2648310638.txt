@@ -1,0 +1,5 @@
+[/EN#63832/people Person] in [/EN#63833/clothing blue top] and [/EN#63836/clothing shorts] wearing [/EN#63834/clothing a cap] standing on [/EN#63835/scene a road] with [/EN#63839/scene mountain] with [/EN#63840/other trees] in [/EN#0/notvisual the background] .
+[/EN#63832/people The woman] in [/EN#63834/clothing the white hat] and [/EN#63836/clothing blue shorts] is jogging in [/EN#63837/other the bicycle lane] on [/EN#63835/scene a mountain road] .
+[/EN#63832/people A woman] in [/EN#63833/clothing a blue tank top] and [/EN#63836/clothing shorts] is jogging down [/EN#63835/scene an asphalt road] .
+[/EN#63832/people A woman] in [/EN#63833/clothing a purple top] and [/EN#63834/clothing white cap] jogging down [/EN#63835/scene the road] .
+[/EN#63832/people A woman] jogging up [/EN#63835/scene a hill] with [/EN#63838/scene a scenic view] behing [/EN#0/notvisual her]

@@ -1,0 +1,5 @@
+[/EN#161814/people A black-haired female guitarist] and [/EN#161815/people a male drummer] are playing in [/EN#161816/scene a large tent] .
+[/EN#161815/people A drummer] is playing in front of [/EN#161820/other a sign] [/EN#0/notvisual that] says [/EN#161818/other SXSWO] in [/EN#161816/scene a tent] .
+[/EN#161815/people A drummer] and [/EN#161821/people guitarist] play [/EN#161822/other music] for [/EN#161819/people a crowd] .
+[/EN#161817/people Band] playing with [/EN#161813/people a female lead singer] .
+[/EN#161815/people A man] in [/EN#161823/clothing a green shirt] playing [/EN#161824/instruments drums] .

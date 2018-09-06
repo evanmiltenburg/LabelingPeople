@@ -1,0 +1,5 @@
+[/EN#66665/people A baseball player] in [/EN#66668/clothing a uniform] has just thrown [/EN#66667/other a ball] with [/EN#66670/bodyparts his right hand] .
+[/EN#66665/people A professional baseball player] just finished throwing [/EN#66666/other the baseball] .
+[/EN#66665/people A baseball player] in [/EN#66668/clothing uniform] [/EN#0/notvisual who] just threw [/EN#66666/other a ball] .
+[/EN#66665/people A man] wearing [/EN#66668/clothing a baseball uniform] throwing [/EN#66667/other a ball] .
+[/EN#66665/people A baseball player] having [/EN#66669/other a catch] on [/EN#66671/scene the field] .

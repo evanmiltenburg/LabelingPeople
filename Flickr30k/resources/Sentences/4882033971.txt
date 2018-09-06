@@ -1,0 +1,5 @@
+[/EN#214378/people A man] in [/EN#214379/clothing suit] and [/EN#214384/clothing tie] is sitting in [/EN#214381/scene an otherwise empty outdoor dining area] .
+[/EN#214378/people A man] in [/EN#214379/clothing a suit] is sitting [/EN#214381/scene outdoors] and is using [/EN#214380/other his laptop computer] .
+[/EN#214378/people Man] using [/EN#214380/other a laptop] at [/EN#214382/other a table] in [/EN#214381/scene an empty outdoor dining area] .
+[/EN#214378/people A man] is working on [/EN#214380/other a laptop computer] in [/EN#214383/other an open air cafe] .
+[/EN#214378/people A man] in [/EN#214379/clothing a blue suit] sits at [/EN#214382/other a table] with [/EN#214380/other a laptop] .

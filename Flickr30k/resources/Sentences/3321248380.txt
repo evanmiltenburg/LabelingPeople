@@ -1,0 +1,5 @@
+[/EN#109286/people A man] in [/EN#109293/clothing a colorful outfit] with [/EN#109291/other cherries] imprinted on [/EN#109295/clothing the sleeve] , pulling [/EN#109288/vehicles a cart] with [/EN#109290/clothing bags] .
+[/EN#109286/people A man] wearing [/EN#109294/clothing a shirt] containing [/EN#109291/other cherries] is pulling [/EN#109288/vehicles a cart] with [/EN#109290/clothing bags] on [/EN#0/notvisual it] .
+[/EN#109286/people A bizarrely dressed child] pulls [/EN#109290/other luggage] through [/EN#109289/scene the market] .
+[/EN#109286/people Person] toting [/EN#109292/other items] at [/EN#109289/scene a market] .
+[/EN#109286/people A man] pulling [/EN#109292/other items] on [/EN#109288/vehicles a cart] .

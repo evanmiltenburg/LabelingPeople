@@ -1,0 +1,5 @@
+[/EN#227301/people An African American male] rides [/EN#227302/vehicles a green bike] while [/EN#227300/people another person] does [/EN#227303/other an ollie] on [/EN#227304/other a skateboard] in [/EN#0/notvisual the background] .
+[/EN#227301/people A man] on [/EN#227302/vehicles a bike] and in [/EN#0/notvisual the background] [/EN#227300/people a man] performing [/EN#0/notvisual a trick] on [/EN#227304/other a skateboard] .
+[/EN#227300/people Kid] doing [/EN#0/notvisual a skateboard trick] and [/EN#227301/people an older kid] riding [/EN#227302/vehicles a bike] .
+[/EN#227300/people A child] is skateboarding while [/EN#227301/people a man] is riding [/EN#227302/vehicles his bike] .
+[/EN#227300/people A man] skateboards , while [/EN#227301/people another man] rides [/EN#227302/vehicles a bike] .

@@ -1,0 +1,5 @@
+[/EN#154719/animals a shite dog] in [/EN#154722/clothing an orange life vest] looking at [/EN#154720/people a man] in [/EN#154723/clothing a blue shirt] while riding in [/EN#154721/vehicles/scene a boat] .
+[/EN#154719/animals A dog] in [/EN#154722/clothing a life jacket] sitting on [/EN#154721/vehicles/scene a boat] with [/EN#154720/people a man] in [/EN#154724/scene the cockpit] .
+[/EN#154720/people A man] looking at [/EN#154719/animals his small white dog] wearing [/EN#154722/clothing an orange life jacket]
+[/EN#154719/animals A white dog] with [/EN#154722/clothing a life vest] accompanies [/EN#154720/people a man] in [/EN#154721/vehicles/scene a boat] .
+[/EN#154719/animals A white dog] in [/EN#154722/clothing a life jacket] looks at [/EN#154720/people a man] in [/EN#154721/vehicles/scene a boat] .

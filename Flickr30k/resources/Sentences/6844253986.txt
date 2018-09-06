@@ -1,0 +1,5 @@
+[/EN#259054/people A man] and [/EN#259060/people female] prepare [/EN#259058/other breakfast] together in [/EN#259057/scene the kitchen] with [/EN#259061/other eggs] and [/EN#259063/other potatoes] .
+[/EN#259055/people overhead view of two people] , [/EN#259054/people a man] and [/EN#259060/people a woman] , preparing [/EN#259058/other a meal] with [/EN#259058/other potatoes] .
+[/EN#259054/people A man] and [/EN#259060/people a woman] prepare [/EN#259059/other a meal] using [/EN#259061/other eggs] while standing in [/EN#259057/scene a kitchen] .
+[/EN#259054/people The man] and [/EN#259060/people woman] are working in [/EN#259057/scene the kitchen] .
+[/EN#259055/people a couple] is making [/EN#259059/other dinner]

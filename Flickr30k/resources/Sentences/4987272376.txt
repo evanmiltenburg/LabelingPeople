@@ -1,0 +1,5 @@
+[/EN#226311/people Three people] sit on [/EN#226312/other a bench] looking right while [/EN#226315/other the middle one] holds [/EN#226313/other an open brochure] .
+[/EN#226311/people Three people] sit looking out to [/EN#226316/scene road] , holding [/EN#226313/other a map] between [/EN#0/notvisual them] .
+[/EN#226311/people Several people] sit on [/EN#226312/other a bench] watching [/EN#226317/vehicles traffic] .
+[/EN#226311/people Three tourists] looking for [/EN#0/notvisual directions] .
+[/EN#226311/people People] with [/EN#226313/other maps] at [/EN#226314/other a bus stop] .

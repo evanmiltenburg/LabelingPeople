@@ -1,0 +1,5 @@
+[/EN#178055/people Distant person] with [/EN#178063/clothing blue backpack] hiking in [/EN#178059/scene rocky area] , [/EN#178060/scene mountains] in [/EN#0/notvisual background] .
+[/EN#178055/people A person] is hiking along [/EN#178057/scene rough terrain] with [/EN#178062/other fog] and [/EN#178060/scene mountains] in [/EN#0/notvisual the background] .
+[/EN#178055/people A lone hiker] walking on [/EN#178057/scene dirt] with [/EN#0/notvisual a snowy mountain background] .
+[/EN#178055/people A hiker] walks on [/EN#0/notvisual rocky ground] at [/EN#178060/scene the base of a foggy mountain] .
+[/EN#178055/people The person] is hiking .

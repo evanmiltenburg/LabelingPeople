@@ -1,0 +1,5 @@
+[/EN#201979/people Two people] hiking near [/EN#201982/other many trees] are smiling and looking at [/EN#0/notvisual the camera] .
+[/EN#201979/people Two women] are hiking down [/EN#201981/scene a hill] covered in [/EN#201982/other pine trees] .
+[/EN#201979/people Two women] walk down [/EN#201981/scene a trail] into [/EN#201980/scene a green forest] .
+[/EN#201979/people Two women] are hiking in [/EN#201980/scene the wilderness] .
+[/EN#201979/people Two people] walk down [/EN#201981/scene a mountain path] .

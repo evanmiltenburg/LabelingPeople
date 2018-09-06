@@ -1,0 +1,5 @@
+[/EN#1721/people Two tired-looking men] relax on [/EN#1719/other a couch] near [/EN#1724/other a wooden trestle table] with [/EN#1722/other a coffee cup] on [/EN#0/notvisual it] .
+[/EN#1718/people A man] and [/EN#1720/people woman] are on [/EN#1719/other a couch] , and [/EN#0/notvisual they] are both asleep .
+[/EN#1718/people A man] and [/EN#1720/people woman] are taking [/EN#1723/other a nap] on [/EN#1719/other a couch] .
+[/EN#1718/people A man] and [/EN#1720/people woman] laze around on [/EN#1719/other the couch] .
+[/EN#1718/people A man] and [/EN#1720/people woman] napping on [/EN#1719/other a blue couch] .

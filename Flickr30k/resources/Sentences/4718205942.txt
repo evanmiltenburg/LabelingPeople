@@ -1,0 +1,5 @@
+[/EN#194892/people An Asian woman] is standing on [/EN#194897/scene a path] with [/EN#194894/other a basket] on [/EN#194899/bodyparts her head] looking into [/EN#194896/other a mirror] [/EN#0/notvisual she] is holding in [/EN#194900/bodyparts her hand] .
+[/EN#194892/people A foreign man] wearing [/EN#194898/clothing black] and [/EN#194895/clothing a brown hat] is standing still in [/EN#194897/scene the middle of the sidewalk] .
+[/EN#194892/people A Chinese woman] dressed in [/EN#194898/clothing black] holding [/EN#194893/other a black bowl] .
+[/EN#194892/people A man] in [/EN#194895/clothing a big hat] is standing on [/EN#194897/scene a sidewalk] .
+[/EN#194892/people An Asian man] looking at [/EN#194896/other something] .

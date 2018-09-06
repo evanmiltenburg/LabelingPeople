@@ -1,0 +1,5 @@
+[/EN#133745/people A group of four men] sits at [/EN#133747/other a table] on [/EN#133750/other a platform] before [/EN#133746/people an audience] in [/EN#133748/scene a darkened room] .
+[/EN#133745/people A group of people] sit on [/EN#133749/other a panel] on [/EN#133751/scene a stage] with [/EN#133746/people a crowd] watching .
+[/EN#133745/people Four people] are sitting at [/EN#133747/other a table] in front of [/EN#133746/people an audience] .
+[/EN#133745/people Several people] sit at [/EN#133747/other a lit table] in front of [/EN#133746/people a crowd]
+[/EN#133745/people Four people] sitting behind [/EN#133747/other a table] .

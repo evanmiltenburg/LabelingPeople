@@ -1,0 +1,5 @@
+[/EN#211287/animals Two dogs] are fighting and playing with [/EN#0/notvisual each other] while running through [/EN#211288/scene some grass] .
+[/EN#211287/animals Two brown dogs] with [/EN#211292/clothing blue collars] are running in [/EN#211288/scene the grass] .
+[/EN#211289/animals One dog] biting at [/EN#211290/bodyparts another dog 's face] in [/EN#211288/scene a grassy field] .
+[/EN#0/notvisual There] are [/EN#211287/animals two brown dogs] playing in [/EN#211288/scene field] .
+[/EN#211287/animals Two dogs] are playing in [/EN#211288/scene the grass] .

@@ -1,0 +1,5 @@
+[/EN#250876/people A guy] inside [/EN#250886/scene a sports arena] wearing [/EN#250883/clothing a yellow shirt] and [/EN#250884/clothing black cap] is holding up [/EN#250877/clothing a red bag] containing [/EN#250877/other snacks] and [/EN#250877/other a bottle] containing [/EN#250887/other something] to drink .
+[/EN#250876/people A food vendor] holds up [/EN#250877/other a bag of snacks] and [/EN#250877/other a bottle] as [/EN#0/notvisual he] stands in [/EN#250885/people the crowd] at [/EN#250882/scene a sports venue] .
+[/EN#250876/people A vendor] in [/EN#250883/clothing a yellow shirt] and [/EN#250884/clothing black cap] presents [/EN#250877/other his wares] at [/EN#250880/other a baseball game] .
+[/EN#250876/people A man] is hawking [/EN#250877/other refreshments] at [/EN#250880/other a sports game] .
+[/EN#250876/people A man] is selling [/EN#250877/other snacks] at [/EN#250882/scene a sporting event] .

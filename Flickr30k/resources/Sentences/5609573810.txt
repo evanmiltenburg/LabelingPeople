@@ -1,0 +1,5 @@
+[/EN#239587/people Two men] are swimming in [/EN#239588/scene a body of water] , near [/EN#0/notvisual which] is [/EN#239590/scene an area of land] covered in [/EN#239589/other vegetation] .
+[/EN#239587/people Two man] are swimming on [/EN#239592/scene a shore] with [/EN#239589/scene a tree covered hill] in [/EN#0/notvisual the background] .
+[/EN#239587/people Two men] swimming in [/EN#239588/scene a body of water] in front of [/EN#239589/scene a forested island] .
+[/EN#239587/people Two men] are swimming in [/EN#239588/scene the ocean] .
+[/EN#239587/people 2 men] enjoy [/EN#239593/other a swim] in [/EN#239595/other the tropics] .

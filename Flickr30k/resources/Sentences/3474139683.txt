@@ -1,0 +1,5 @@
+[/EN#120858/people A blond-haired girl] wearing [/EN#120860/clothing a white shirt] and [/EN#120862/clothing dark jeans] holds [/EN#120859/other a yellow and white ball] .
+[/EN#120858/people A woman] with [/EN#120860/clothing a white tank top] and [/EN#120864/clothing red sunglasses] holding [/EN#120859/other a volleyball] .
+[/EN#120858/people A woman] in [/EN#120860/clothing a white shirt] playing [/EN#120859/other volleyball] .
+[/EN#120858/people Woman] playing [/EN#120859/other ball] with [/EN#120863/people friends] .
+[/EN#120858/people A woman] carries [/EN#120859/other a volleyball] .

@@ -1,0 +1,5 @@
+Dressed in [/EN#160699/clothing a sharp suit] , [/EN#160692/scene the head of the museum] [/EN#160692/people 's security team] , looks like [/EN#160702/people an ordinary museum visitor] as [/EN#0/notvisual he] guards [/EN#160703/other its most expensive painting] .
+[/EN#160692/people A older man] in [/EN#160699/clothing a suit] standing next to [/EN#160695/other a large painting of a ship] in [/EN#160704/scene rocky water] under [/EN#160701/scene a cloudy sky] .
+[/EN#160692/people A man] in [/EN#160699/clothing a suit] standing next to [/EN#160695/other a large painting] surrounded by [/EN#160695/other a large gold frame] .
+[/EN#160692/people A balding man] in [/EN#160699/clothing a suit] and tie [/EN#160705/scene stands] beside [/EN#160695/scene a large painting of a rough sea] .
+[/EN#160692/other Museum security] standing [/EN#160692/people guard] besides [/EN#160695/other a giant painting] .

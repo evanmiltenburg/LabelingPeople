@@ -1,0 +1,5 @@
+[/EN#265124/animals A black dog] with [/EN#265128/bodyparts white paws] stands on [/EN#265126/other a large rock] in [/EN#265125/scene a field] .
+[/EN#265124/animals A black dog] stands on [/EN#265126/other a rock] , [/EN#265125/scene green fields] behind [/EN#0/notvisual him] .
+[/EN#265124/animals A black dog] with [/EN#265127/bodyparts white paws] is climbing over [/EN#265126/other a rock] .
+[/EN#265124/animals A dog] with [/EN#265127/bodyparts its two front paws] on [/EN#265126/other a rock] in [/EN#265125/scene a field] .
+[/EN#265124/animals The black dog] is climbing on [/EN#265126/other a rock] .

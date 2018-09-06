@@ -1,0 +1,5 @@
+[/EN#244250/people An older man] wearing [/EN#244251/clothing a bowler hat] and [/EN#244258/clothing white gloves] is playing [/EN#244256/other a tuba] with [/EN#244257/other fire] blowing out of [/EN#244263/clothing the top] while sitting on [/EN#244252/other a box amplifier] in front of [/EN#244260/other a cement wall] .
+[/EN#244250/people A man] in [/EN#244262/clothing black and white garb] and wearing [/EN#244251/clothing a black hat] and [/EN#244258/clothing white gloves] is sitting on [/EN#244252/other an amp] playing [/EN#244256/other a tuba] with [/EN#244257/other flames] coming out of [/EN#244263/scene the opening] .
+[/EN#244250/people A tuba player] performing on [/EN#244261/scene the street] with [/EN#244254/other a flame] coming out of [/EN#244256/other the end of the tuba]
+[/EN#244250/people A fancily dressed elderly man] plays [/EN#244259/people a baritone] as [/EN#0/notvisual it] is set [/EN#244253/other aflame] .
+[/EN#244250/people A man] using [/EN#244256/other a flaming tuba] .

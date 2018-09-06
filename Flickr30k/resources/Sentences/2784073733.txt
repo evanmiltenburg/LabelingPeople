@@ -1,0 +1,5 @@
+[/EN#72806/people A woman] in [/EN#72817/clothing a white shirt] is buying [/EN#72813/other pre-cut fruit] from [/EN#72807/people a man] in [/EN#72808/scene a market] .
+[/EN#72807/people Man] and [/EN#72806/people women] in looking at [/EN#72811/other a package] [/EN#72815/other a fruit] in [/EN#72808/scene a food market] .
+[/EN#72806/people A lady] is showing [/EN#72810/other some fruit choices] to [/EN#72807/people a man] at [/EN#72809/scene a store] .
+[/EN#72814/people Two people] observe [/EN#72809/other the variety of fruits] in [/EN#72809/scene a market] .
+[/EN#72807/people A man] and [/EN#72806/people a woman] are examining [/EN#72813/other produce] at [/EN#72808/scene a market] .

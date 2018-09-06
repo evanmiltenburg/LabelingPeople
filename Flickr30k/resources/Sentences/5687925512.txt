@@ -1,0 +1,5 @@
+[/EN#241026/people A gentleman] wearing [/EN#241028/clothing blue jeans] and [/EN#241031/clothing a gray shirt] washes [/EN#241029/vehicles a silver car] [/EN#241032/scene outdoors] with [/EN#241036/other two white buckets] in [/EN#0/notvisual the foreground] .
+[/EN#241026/people A man] is outdoors washing [/EN#241029/vehicles his car] with [/EN#241033/other soap] and [/EN#241030/scene water] .
+[/EN#241026/people A car wash worker] cleaning [/EN#241035/other the interior of the wheel] .
+[/EN#241026/people A man] is washing [/EN#241029/vehicles a car] with [/EN#241030/scene soapy water] .
+[/EN#241026/people A man] in [/EN#241027/clothing a blue hat] washes [/EN#241029/vehicles a silver car] .

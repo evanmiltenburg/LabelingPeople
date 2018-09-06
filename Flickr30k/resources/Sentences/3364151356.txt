@@ -1,0 +1,5 @@
+[/EN#112990/animals The large brown dog] is running outside in [/EN#112991/scene the dirt] .
+[/EN#112990/animals A light brown dog] runs happily by [/EN#112994/scene a green fence] .
+[/EN#112990/animals a brown dog] running through [/EN#112992/scene the dirty muddy grass]
+[/EN#112990/animals A dog] running along [/EN#112994/scene a fence] on [/EN#112992/scene a dirt track] .
+[/EN#112990/animals Orange dog] runs on [/EN#112991/scene dirt] beside [/EN#112994/scene green fence] .

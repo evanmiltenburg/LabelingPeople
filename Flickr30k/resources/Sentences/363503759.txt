@@ -1,0 +1,5 @@
+[/EN#132975/people A man] wearing [/EN#132977/clothing a white shirt] and [/EN#132982/clothing blue jeans] is standing next to [/EN#132979/vehicles a red bicycle] [/EN#0/notvisual that] has [/EN#132976/people a rider] siting on [/EN#0/notvisual it] .
+[/EN#132975/people A man] in [/EN#132977/clothing a white shirt] holds onto [/EN#132976/people a bicyclist] , surrounded by [/EN#132983/people more bicyclists] .
+[/EN#132975/people A group of men] are riding [/EN#132979/vehicles bikes] on [/EN#132984/scene an indoor track] .
+[/EN#132975/people A man] holds up [/EN#132976/people a contestant] in [/EN#132985/other a bicycle race] .
+[/EN#132975/people A man] standing with [/EN#132976/people a female cyclist] .

@@ -1,0 +1,5 @@
+[/EN#6574/people A man] in [/EN#6578/clothing a plaid shirt] with [/EN#6576/other a laptop] in [/EN#6581/bodyparts his lap] is sitting next to [/EN#6579/other a table] with [/EN#6577/other a microscope] and [/EN#6575/other a circuit board] on [/EN#0/notvisual it] .
+[/EN#6574/people A man] in [/EN#6578/clothing a plaid shirt] connecting [/EN#6576/other his black laptop] to [/EN#6577/other his microscope] .
+[/EN#6574/people A guy] with [/EN#6576/other a laptop] connected to [/EN#6577/other a microscope] doing [/EN#6580/other some research] .
+[/EN#6574/people A guy] hooking up [/EN#6576/other his laptop] to [/EN#6577/other a microscope] .
+[/EN#6574/people A man] working on [/EN#6575/other a circuit board]

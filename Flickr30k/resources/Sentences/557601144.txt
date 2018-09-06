@@ -1,0 +1,5 @@
+[/EN#238978/animals A dog] runs for [/EN#238980/other a tennis ball] in [/EN#238979/scene a backyard] with [/EN#238982/scene a tile courtyard] .
+[/EN#238978/animals Gray dog] running down [/EN#238984/scene pavement] toward [/EN#238983/other laundry line] in [/EN#238979/scene courtyard] .
+[/EN#238978/animals A gray dog] runs in [/EN#238981/other a backyard terrace] .
+[/EN#238978/animals A dog] is chasing [/EN#238980/other a ball] in [/EN#238979/scene a backyard] .
+[/EN#238978/animals A white dog] running in [/EN#238979/scene the backyard] .

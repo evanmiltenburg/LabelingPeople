@@ -1,0 +1,5 @@
+[/EN#11850/people A young woman] dressed in [/EN#11852/clothing a black shirt] and [/EN#11851/clothing apron] , viewing [/EN#11853/other a piece of machinery] .
+[/EN#11850/people A dark-haired woman] in [/EN#11852/clothing a black shirt] is looking at [/EN#11853/other a silver machine] .
+[/EN#11850/people A woman] in [/EN#11851/clothing an apron] is standing in [/EN#11855/scene a kitchen] , looking confused .
+[/EN#11850/people A woman] in [/EN#11851/clothing a apron] is working in [/EN#11854/other a cafe] .
+[/EN#11850/people A woman] wearing [/EN#11851/clothing an apron] is working .

@@ -1,0 +1,5 @@
+[/EN#139634/people A man] sitting in [/EN#139635/vehicles a racing car] with [/EN#139636/clothing black sunglasses] and [/EN#139637/other a look] [/EN#0/notvisual that] reads " [/EN#0/notvisual I] 'm ready to win . "
+[/EN#139634/people A man] in [/EN#139636/clothing sunglasses] sits in [/EN#139635/vehicles a race car] with [/EN#139638/other an exposed engine] .
+[/EN#139634/people A man] wearing [/EN#139636/clothing sunglasses] is sitting in [/EN#139635/vehicles a small vehicle] .
+[/EN#139634/people Race car driver] sitting in [/EN#139635/vehicles his race car] .
+[/EN#139634/people A man] sits inside [/EN#139635/vehicles a dragster] .

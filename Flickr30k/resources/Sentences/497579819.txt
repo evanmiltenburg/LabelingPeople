@@ -1,0 +1,5 @@
+[/EN#225145/animals The black and brown dog] is on [/EN#225147/clothing a leash] in [/EN#225146/scene a field] and facing away from [/EN#0/notvisual the camera] .
+[/EN#225145/animals A terrier] stands in [/EN#225146/scene a field of grass] and [/EN#225148/other daisies]
+[/EN#225145/animals A dog] looks out [/EN#225146/scene over green grass] and [/EN#225148/other flowers] .
+[/EN#225145/animals A dog] tied to [/EN#225147/clothing a leash] in [/EN#225146/scene an open grassy area] .
+[/EN#225145/animals Small dog] looking into [/EN#0/notvisual background]

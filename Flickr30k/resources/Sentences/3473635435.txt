@@ -1,0 +1,5 @@
+[/EN#120795/people A young girl] in [/EN#120796/clothing a helmet] walks barefoot across [/EN#120797/other a mossy tree trunk] [/EN#0/notvisual that] is lying over [/EN#120799/scene water] .
+[/EN#120795/people A young barefoot girl] wearing [/EN#120796/clothing a helmet] walks down [/EN#120797/other a mossy] covered fallen down [/EN#120797/other tree] .
+[/EN#120795/people A girl] wearing [/EN#120796/clothing a bike helmet] is walking across [/EN#120797/other a mossy tree branch] over [/EN#120799/scene water] .
+[/EN#120795/people A young girl] in [/EN#120800/clothing blue] and [/EN#120796/clothing a bicycle helmet] is walking across [/EN#120797/other a log] in [/EN#120799/scene a pond] .
+[/EN#120795/people A child] walking on [/EN#120797/other a fallen tree] .

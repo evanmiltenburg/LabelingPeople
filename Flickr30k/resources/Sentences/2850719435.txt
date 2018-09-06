@@ -1,0 +1,5 @@
+[/EN#76786/people A boy] in [/EN#76789/clothing a red shirt] and [/EN#76787/people a boy] in [/EN#76790/clothing a yellow shirt] are jumping on [/EN#76791/scene a trampoline outside] .
+[/EN#76781/people Two young boys] jumps on [/EN#76785/other a trampoline] as [/EN#76782/people two other children] sit on [/EN#0/notvisual it] .
+[/EN#76781/people Two children] are playing on [/EN#76785/other a teal trampoline] near [/EN#76788/other greenery] .
+[/EN#76781/people Kids] are jumping on [/EN#76785/other a blue rimmed trampoline] .
+[/EN#76781/people Children] jump on [/EN#76785/other a trampoline] .

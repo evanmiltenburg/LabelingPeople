@@ -1,0 +1,5 @@
+[/EN#193899/people a man] wearing [/EN#193903/clothing a suit jacket] is reading [/EN#193901/other paper] and walking while [/EN#193898/people another man] is sitting on [/EN#193902/other stoop] .
+[/EN#193899/people A man] in [/EN#193903/clothing business suit] is walking by [/EN#193900/scene an apartment building] where [/EN#193907/people two other men] are hanging out .
+[/EN#193899/people One man] walks past [/EN#193904/scene a building] , while [/EN#0/notvisual another] sits in front of [/EN#193900/scene the building] on [/EN#193902/other a stoop] .
+[/EN#193898/people A man] in [/EN#193906/clothing a suit] is reading [/EN#193901/other the paper] while [/EN#0/notvisual he] walks down [/EN#193905/scene the street] .
+[/EN#193899/people A man] is walking past [/EN#193900/scene a building] where [/EN#193898/people another man] is sitting .

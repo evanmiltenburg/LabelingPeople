@@ -1,0 +1,5 @@
+[/EN#224328/people Three people] in [/EN#224332/vehicles/scene a small boat] next to [/EN#224333/scene a wooden dock] where [/EN#224330/people two other people] are standing .
+[/EN#224329/people several people] sitting in [/EN#224332/vehicles/scene a boat] and standing on [/EN#224333/scene a dock] on [/EN#224335/scene a body of water] in [/EN#224336/scene the forest]
+[/EN#224330/people Two men] on [/EN#224333/scene a dock] talk to [/EN#224328/people the passengers] arriving in [/EN#224332/vehicles/scene a red boat] .
+[/EN#224330/people Two men] standing on [/EN#224333/scene a dock] next to [/EN#224328/people three people] in [/EN#224337/other a canoe] .
+[/EN#224330/people People] standing and sitting at [/EN#224333/scene a dock] .

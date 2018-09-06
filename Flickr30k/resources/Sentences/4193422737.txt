@@ -1,0 +1,5 @@
+[/EN#158617/people Onlookers] observe [/EN#158618/people a man] in [/EN#158619/clothing a black t-shirt] standing on [/EN#158624/scene the outside of a levee] .
+[/EN#158617/people People] on [/EN#158625/other a walkway look] over [/EN#158626/other the rails] at [/EN#158618/people a man] standing at [/EN#158623/scene edge of a canal] .
+[/EN#158618/people Man] standing in [/EN#158620/scene the water] while [/EN#158617/people other men] on [/EN#158622/scene bridge] watch [/EN#0/notvisual him] .
+[/EN#158617/people Four people] watching [/EN#158618/people a man] standing in [/EN#158620/scene the river]
+[/EN#158618/people man] in [/EN#158619/clothing black shirt] standing in [/EN#158620/scene the water] .

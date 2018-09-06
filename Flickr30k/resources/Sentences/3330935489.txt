@@ -1,0 +1,5 @@
+[/EN#110017/animals A white Pug dog] is biting and trying to pull [/EN#110018/other a large stick] out of [/EN#110020/scene some water] .
+[/EN#110017/animals A small white dog] pulls [/EN#110018/other a large stick] out of [/EN#110020/scene the water] .
+[/EN#110017/animals A dog] holds [/EN#110018/other a large stick] in [/EN#110019/bodyparts its mouth] in [/EN#110021/other the woods] .
+[/EN#110017/animals a dog] takes [/EN#110018/other a large stick] in [/EN#110019/bodyparts its mouth] .
+[/EN#110017/animals The white dog] is pulling [/EN#110018/other a large stick] .

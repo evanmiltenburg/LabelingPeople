@@ -1,0 +1,5 @@
+[/EN#239309/people A soccer player] standing on [/EN#239313/scene the soccer field] has [/EN#239317/bodyparts his eyes] trained on [/EN#239310/other the soccer ball] .
+[/EN#239309/people A soccer player] in [/EN#239315/clothing a red uniform] is kicking [/EN#239310/other a soccer ball] on [/EN#239313/scene the field] .
+[/EN#239309/people A man] wearing [/EN#239314/clothing a red shirt] and [/EN#239316/clothing white shorts] is playing [/EN#239311/other soccer] .
+[/EN#239309/people A football player] kicking [/EN#239310/other a football] .
+[/EN#239309/people A soccer player] kicks [/EN#239310/other a ball] .

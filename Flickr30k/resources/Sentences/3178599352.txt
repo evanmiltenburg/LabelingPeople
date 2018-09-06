@@ -1,0 +1,5 @@
+[/EN#98756/people A girl] sits on [/EN#98758/other a white couch] next to [/EN#98757/people a boy] in [/EN#98760/clothing a gray shirt] .
+[/EN#98756/people A girl] is sitting on [/EN#98758/other a couch] with [/EN#98761/other a keyboard] in [/EN#98763/bodyparts her lap] .
+[/EN#98756/people The girl] is sitting on [/EN#98758/other a white couch] with [/EN#98757/people a boy] nearby .
+[/EN#98756/people A girl] in [/EN#98762/clothing jeans] sitting on [/EN#98758/other a white couch] and smiling .
+[/EN#98756/people A smiling woman] sits on [/EN#98758/other a white couch] .

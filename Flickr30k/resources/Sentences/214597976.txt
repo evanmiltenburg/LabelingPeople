@@ -1,0 +1,5 @@
+[/EN#31012/people A man] with [/EN#31016/clothing glasses] replaces [/EN#31019/other a watch battery] while [/EN#31013/people another man] watches [/EN#0/notvisual him] .
+[/EN#31013/people One man] in [/EN#31017/clothing a baseball cap] is watching [/EN#31012/people a man] in [/EN#31016/clothing glasses] paint [/EN#31015/clothing watches] .
+[/EN#31012/people One man] is working on [/EN#31020/other a wristwatch] while [/EN#0/notvisual another] checks [/EN#31021/other his work] .
+[/EN#31012/people A man] working on [/EN#31015/clothing a watch] outside while [/EN#31013/people another man] watches .
+[/EN#31012/people A man] repairing [/EN#31015/clothing a watch] while [/EN#31013/people another man] observes .

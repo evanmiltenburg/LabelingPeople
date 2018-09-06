@@ -1,0 +1,5 @@
+[/EN#212665/people A young girl] is lying on [/EN#212669/other some personal belongings] , on [/EN#212667/vehicles a cart] [/EN#0/notvisual that] is dragged by [/EN#212671/animals a horse] and [/EN#212666/people a man] , on [/EN#212668/scene a dirt route] .
+[/EN#212666/people A man] is pulling [/EN#212667/vehicles a cart] down [/EN#212668/scene a dirt road] , and [/EN#212665/people a girl] is riding in [/EN#0/notvisual it] .
+[/EN#212665/people A girl] sitting in [/EN#212670/vehicles the back of a cart] full of [/EN#212669/other various belongings] .
+[/EN#212665/people A child] rides [/EN#212667/vehicles the back of a wooden pull cart] .
+[/EN#212665/people A Young boy] being pulled on [/EN#212667/vehicles a wooden cart] .

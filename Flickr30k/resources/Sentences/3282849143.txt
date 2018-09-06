@@ -1,0 +1,5 @@
+[/EN#106746/people An older man] wearing [/EN#106749/clothing a white t-shirt] running in front of [/EN#106747/other a group of 3] in [/EN#0/notvisual the background] .
+[/EN#106746/people A man] in [/EN#106749/clothing a white shirt] is running in [/EN#106748/other a race] as [/EN#106751/people a woman] watches [/EN#0/notvisual him] .
+[/EN#106746/people A man] is running [/EN#106748/other a race] while being watched by [/EN#106747/other others] .
+[/EN#106746/people A man] is wearing [/EN#106750/other a number] on [/EN#106749/clothing his white shirt] .
+[/EN#106746/people An older man] is jogging outside in [/EN#106752/scene an event] .

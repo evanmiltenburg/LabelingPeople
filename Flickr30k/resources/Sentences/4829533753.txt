@@ -1,0 +1,5 @@
+[/EN#208180/people A man] in [/EN#208182/clothing a green shirt] and [/EN#208183/clothing red sunglasses] walks by [/EN#208185/other a cafe] in [/EN#208184/other Pescaderia] as [/EN#208187/people a woman] trails in [/EN#0/notvisual the background] .
+[/EN#208180/people A balding man] in [/EN#208183/clothing red sunglasses] wearing [/EN#208182/clothing a green shirt] standing in front of [/EN#208181/scene a building] .
+[/EN#208180/people A man] in [/EN#208182/clothing a green shirt] and [/EN#208183/clothing red sunglasses] is walking outside .
+[/EN#208180/people Man] in [/EN#208182/clothing a green shirt red] sunglasses in front of [/EN#208181/scene a restaurant] .
+[/EN#208180/people A man] in [/EN#208182/clothing a green shirt] and [/EN#208183/clothing red sunglasses] .

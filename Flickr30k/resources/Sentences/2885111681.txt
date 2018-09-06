@@ -1,0 +1,5 @@
+[/EN#78958/people A large elderly woman] in [/EN#78960/clothing a green stripy dress] is carrying [/EN#78961/clothing shopping bags] along [/EN#78959/scene a cobbled street] .
+[/EN#78958/people Older woman] in [/EN#78960/clothing striped dress] , [/EN#78962/clothing white jacket] , walks down [/EN#78959/scene street] with [/EN#78961/clothing shopping bags] .
+[/EN#78958/people A woman] in [/EN#78960/clothing a striped dress] walks with [/EN#78961/clothing shopping bags] .
+[/EN#78958/people Woman] walking down [/EN#78959/scene the street] with [/EN#78961/clothing grocery bags]
+[/EN#78958/people Large woman] carrying [/EN#78961/clothing bags] .

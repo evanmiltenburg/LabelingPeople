@@ -1,0 +1,5 @@
+[/EN#191990/people A tall man] with [/EN#191992/clothing a bright colored coat] looks down as [/EN#0/notvisual he] stands in [/EN#191994/other a marketplace] .
+[/EN#191990/people A man] in [/EN#191992/clothing a blue blazer] stands still in [/EN#191991/scene the middle of an outdoor market] .
+[/EN#191990/people A man] in [/EN#191992/clothing a blue coat] looks at [/EN#191995/bodyparts his feet] in [/EN#191991/scene a bazaar] .
+[/EN#191990/people A man] in [/EN#191992/clothing a blue jacket] stands among [/EN#191993/scene street stands] .
+[/EN#191990/people A man] in [/EN#191992/clothing a blue jacket] standing in [/EN#191991/scene a market] .

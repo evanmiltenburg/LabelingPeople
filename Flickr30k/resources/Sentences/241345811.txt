@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#47209/people a football player] in [/EN#47216/clothing a red jersey] on [/EN#47217/scene the field] talking to [/EN#47208/people his coach] .
+[/EN#47208/people Coach] talks with [/EN#47209/people football player] , [/EN#47213/people other players] and [/EN#47212/people crowd] in [/EN#0/notvisual background] .
+[/EN#47209/people A football player] in [/EN#47214/clothing red and white] is talking to [/EN#47210/people a coach] .
+[/EN#47208/people A coach] talks to [/EN#47209/people a football player] during [/EN#47211/other a timeout] .
+[/EN#47208/people A football coach] speaks with [/EN#47209/people a player] .

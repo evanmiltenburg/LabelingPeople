@@ -1,0 +1,5 @@
+[/EN#37476/people Four people] sit on [/EN#37480/other a subway two read] books , [/EN#37475/other one] looks at [/EN#37479/other a cellphone] and is wearing [/EN#37482/clothing knee high boots] .
+[/EN#37475/people A woman] with [/EN#37478/clothing a bag] is sitting amongst [/EN#37484/people three people] [/EN#0/notvisual who] are reading [/EN#37481/other books] .
+[/EN#37476/people People] are sitting in [/EN#37485/vehicles a subway car] reading , and [/EN#37475/people one girl] is sleeping .
+[/EN#37476/people Four people] sitting on [/EN#37477/vehicles/scene bus] reading .
+[/EN#37476/people Four people] riding on [/EN#37477/vehicles/scene the subway] .

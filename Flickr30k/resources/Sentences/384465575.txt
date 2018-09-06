@@ -1,0 +1,5 @@
+[/EN#145310/people Man] and [/EN#145311/people woman cyclists] ride [/EN#145318/other pass signs] on [/EN#145312/scene rural road] .
+[/EN#145311/people Two people] are riding [/EN#145317/vehicles their bicycles] on [/EN#145312/scene a dirt road]
+[/EN#145310/people A man] and [/EN#145311/people a woman] are biking on [/EN#145316/scene a sunny day] .
+[/EN#145311/people Two bicyclists] ride down [/EN#145313/scene a hill] .
+[/EN#145315/vehicles Two friends bike] down [/EN#145313/scene a hill] .

@@ -1,0 +1,5 @@
+[/EN#13002/people A person] in [/EN#13005/clothing an orange helmet] climbs up [/EN#13006/bodyparts a sheer cliff face] .
+[/EN#13002/people A rock climber] looks up while traversing [/EN#13007/scene a route] .
+[/EN#13002/people A man] wearing [/EN#13004/clothing a backpack] is climbing [/EN#13003/other a rock] .
+[/EN#13002/people A person] climbing [/EN#13003/other a large moss-covered rock]
+[/EN#13002/people This person] is rock climbing .

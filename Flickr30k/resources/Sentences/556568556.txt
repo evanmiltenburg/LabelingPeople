@@ -1,0 +1,5 @@
+[/EN#238852/people A boy] [/EN#0/notvisual that] is wearing [/EN#238853/clothing a brown hat] and [/EN#238856/clothing shoes] [/EN#0/notvisual that] have [/EN#238857/scene red soles] is on [/EN#238855/other a swing] in [/EN#238854/scene a park] .
+[/EN#238852/people A boy] with [/EN#238858/bodyparts closed eyes] , wearing [/EN#238853/clothing a hat] , on [/EN#238855/other a swing] .
+[/EN#238852/people A little kid] plays on [/EN#238855/other the swing] at [/EN#238854/scene the playground] .
+[/EN#238852/people a boy] with [/EN#238856/clothing red soled shoes] is playing on [/EN#238855/other a swing] .
+[/EN#238852/people a young girl] swings on [/EN#238855/other a swing] .

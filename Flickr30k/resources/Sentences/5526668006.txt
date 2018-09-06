@@ -1,0 +1,5 @@
+[/EN#238288/people A person] is jumping on [/EN#238293/other a snowboard] on [/EN#238289/scene a snowy hill] with [/EN#238294/other several trees] in [/EN#0/notvisual the background]
+[/EN#238288/people A snowboarder] catches [/EN#0/notvisual some air] going off [/EN#0/notvisual a jump] on [/EN#238289/scene a snow-covered mountain] .
+[/EN#238288/people A snowboarder] seemingly suspended in [/EN#238291/scene midair] .
+[/EN#238288/people A person] is snowboarding on [/EN#238292/scene a bright day] .
+[/EN#238288/people A snowboarder] doing [/EN#0/notvisual a jump] off [/EN#238289/scene a hill] .

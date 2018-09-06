@@ -1,0 +1,5 @@
+[/EN#138462/people A person] snowboarding [/EN#138467/other leaps] over [/EN#138464/other an obstacle] to continue down [/EN#138463/scene the hill] .
+[/EN#138462/people A snowboarder] jumps over [/EN#138466/scene a ramp] on [/EN#138465/other a mountain course] .
+[/EN#138462/people A man] skiing down [/EN#138463/scene a hill] and over [/EN#138464/other a red obstacle] .
+[/EN#138462/people A man] is snowboarding down [/EN#138464/other a railing] in [/EN#138469/scene the snow] .
+[/EN#138462/people A guy] in [/EN#138470/clothing a red jacket] is snowboarding in [/EN#138468/scene midair] .

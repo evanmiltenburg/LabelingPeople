@@ -1,0 +1,5 @@
+[/EN#34631/people A man] in [/EN#34633/clothing an orange] and [/EN#34633/clothing black striped shirt] is putting [/EN#34632/vehicles grocery carts] in [/EN#34635/vehicles the flat bed of a truck] .
+[/EN#34631/people A man] wearing [/EN#34633/clothing an orange shirt] has [/EN#34637/bodyparts his hands] on [/EN#34632/vehicles a row of shopping carts] in [/EN#34634/scene a parking area] .
+[/EN#34631/people A man] is loading [/EN#34632/vehicles grocery carts] on [/EN#34635/vehicles the back of a truck] .
+[/EN#34631/people A man] is loading [/EN#34632/vehicles Vons shopping carts] onto [/EN#34635/vehicles a truck] .
+[/EN#34631/people A man] pushing [/EN#34632/vehicles multiple carts] onto [/EN#34634/vehicles a trailer] .

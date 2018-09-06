@@ -1,0 +1,5 @@
+[/EN#66835/people A man] has put [/EN#66837/animals a stuffed animal] on [/EN#66836/other an electric screwdriver] and is spinning [/EN#0/notvisual it] .
+[/EN#66835/people A person] with [/EN#66836/other an electric drill] doing [/EN#66838/other something] to [/EN#66837/animals a toy animal] .
+[/EN#66835/people A man] is spinning [/EN#66837/animals a stuffed animal] with [/EN#66836/other a screwdriver] .
+[/EN#66835/people A young man] spins [/EN#66837/animals a stuffed animal] around on [/EN#66836/other a drill] .
+[/EN#66835/people A man] drills [/EN#66837/animals his stuffed animal] .

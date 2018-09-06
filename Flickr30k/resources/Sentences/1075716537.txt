@@ -1,0 +1,5 @@
+[/EN#1798/people A little boy] rides [/EN#1800/vehicles a bike] down [/EN#1803/scene a hill] on [/EN#1800/vehicles a miniature dirt bike] .
+[/EN#1798/people A young boy] in [/EN#1801/clothing a helmet] rides [/EN#1800/vehicles a bike] on [/EN#1804/scene the road] .
+[/EN#1798/people A child] with [/EN#1801/clothing a helmet] on [/EN#1805/bodyparts his head] rides [/EN#1800/vehicles a bike] .
+[/EN#1802/other The young boy pedals] quickly at [/EN#1799/other a BMX race] .
+[/EN#1798/people The little boy] rides [/EN#1800/vehicles his bicycle] in [/EN#1799/other a race] .

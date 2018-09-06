@@ -1,0 +1,5 @@
+[/EN#118879/people A homeless man] sleeping under [/EN#118880/other a green blanket] along side [/EN#118882/other a cement wall] .
+[/EN#118879/people A man] lays on [/EN#0/notvisual the ground] covered with [/EN#118880/other a green blanket] .
+[/EN#118879/people A man] sleeping on [/EN#118881/scene the grass] under [/EN#118880/other a green blanket] .
+[/EN#118879/people A homeless man] lies on [/EN#118881/scene the grass] to take [/EN#118883/other a nap] .
+[/EN#118879/people a man] laying on [/EN#118881/scene grass] with [/EN#118880/other a green blanket] .

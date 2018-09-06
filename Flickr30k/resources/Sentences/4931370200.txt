@@ -1,0 +1,5 @@
+[/EN#219745/people A person] riding [/EN#219747/animals a horse] trying to rope [/EN#219746/animals a calf] [/EN#0/notvisual that] is running from [/EN#0/notvisual them] .
+[/EN#219745/people A man] in [/EN#219750/clothing a cowboy hat] on [/EN#219747/animals a horse] swinging [/EN#219748/other a rope] to catch [/EN#219746/animals a bull] .
+[/EN#219745/people A man] is riding [/EN#219747/animals a horse] and trying to lasso [/EN#219746/animals a cow] .
+[/EN#219745/people A man] on [/EN#219747/animals a horse] swings [/EN#219748/other a lasso] .
+[/EN#219745/people A man] on [/EN#219747/animals a horse] with [/EN#219748/other a lasso] .

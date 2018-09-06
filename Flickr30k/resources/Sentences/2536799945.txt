@@ -1,0 +1,5 @@
+[/EN#55985/people A large number of railroad workers] wearing [/EN#55988/clothing day-glo orange vests] and [/EN#55989/clothing hard hats] are standing on [/EN#55987/scene some railroad tracks] .
+[/EN#55985/people A group of construction workers] in [/EN#55988/clothing orange vests] are inspecting [/EN#55987/scene a set of railroad tracks] .
+[/EN#55986/people Several people] wearing [/EN#55988/clothing orange vests] are walking along [/EN#55987/scene the railroad tracks] .
+[/EN#55986/people Workers] wearing [/EN#55988/clothing orange reflective vests] walking along [/EN#55990/scene train tracks] .
+[/EN#55985/people A group of workers] in [/EN#55988/clothing bright orange vests] walk on [/EN#55987/scene railroad tracks] .

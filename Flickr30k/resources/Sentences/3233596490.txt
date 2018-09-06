@@ -1,0 +1,5 @@
+[/EN#103052/people A man] wearing [/EN#103053/clothing a striped shirt] is singing into [/EN#103055/other a microphone] as [/EN#103054/people another man] wearing [/EN#103056/clothing a purple bandanna] around [/EN#103062/bodyparts his neck] plays [/EN#103063/instruments an electric guitar] behind [/EN#0/notvisual him] .
+[/EN#103052/people A vocalist] in [/EN#103053/clothing gray shirt] and [/EN#103057/clothing jeans] is performing with [/EN#103054/people an electric guitarist] wearing [/EN#103056/clothing a purple bandanna] .
+[/EN#103052/people A lead singer] and [/EN#103054/people a guitarist] are pictured in [/EN#103060/other this concert photo] performing [/EN#103059/other one of their songs] .
+[/EN#103052/people A male vocalist] and [/EN#103054/people his accompanying guitarist] wearing [/EN#103061/clothing white pants] are performing on [/EN#103058/scene stage] .
+[/EN#103052/people A guy] with [/EN#103053/clothing a gray shirt] and [/EN#103057/clothing jeans] is on [/EN#103058/scene stage] singing with [/EN#103055/other a microphone] .

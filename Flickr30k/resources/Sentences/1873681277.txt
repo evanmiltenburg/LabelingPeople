@@ -1,0 +1,5 @@
+[/EN#22389/people A man] with [/EN#22391/clothing a yellow vest] and [/EN#22393/clothing blue pants] is walking through [/EN#22390/scene the dry grass] .
+[/EN#22389/people A man] wearing [/EN#22392/clothing yellow and blue] is walking through [/EN#22390/scene a dry field] .
+[/EN#22389/people A man] in [/EN#22391/clothing heavy windbreaker clothing] walking through [/EN#22390/scene a field] .
+[/EN#22389/people A man] dressed in [/EN#22392/other yellow rescue gear] walks in [/EN#22390/scene a field] .
+[/EN#22389/people A male] is walking out in [/EN#22390/scene the field] .

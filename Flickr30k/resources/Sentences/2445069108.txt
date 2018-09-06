@@ -1,0 +1,5 @@
+[/EN#50019/people A homeless man] is sleeping on [/EN#0/notvisual the ground] next to [/EN#50021/scene a bottle of water] using [/EN#50022/clothing his shirt] for [/EN#50022/other a pillow] .
+[/EN#50019/people A man] with [/EN#50025/clothing no short and red pants] is laying down on [/EN#50020/scene a sidewalk] .
+[/EN#50019/people A half dressed man] is sleeping on [/EN#50020/scene the sidewalk] .
+[/EN#50019/people A homeless man] is sleeping against [/EN#50023/other a wall] .
+[/EN#50019/people A man] is lying down in [/EN#50020/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#80305/people The boy] in [/EN#80310/clothing the yellow shirt] is riding [/EN#80308/other a skateboard] along [/EN#80306/scene a red bar] .
+[/EN#80305/people A teenage boy] grinds across [/EN#80306/scene a bar] on [/EN#80308/other his skateboard] .
+[/EN#80305/people A boy] performs [/EN#0/notvisual a trick] on [/EN#80308/other his skateboard] on [/EN#80306/other a rail] .
+[/EN#80305/people A young man] skateboards off [/EN#80306/other a pink railing] .
+[/EN#80305/people a skateboarder] grinds [/EN#80306/other a red rail] .

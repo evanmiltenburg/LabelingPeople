@@ -1,0 +1,5 @@
+[/EN#24117/people a man] reads in [/EN#24122/clothing a red shirt] and [/EN#24124/clothing sunglasses] reads from [/EN#24118/other a Tonka children 's book] while wearing [/EN#24119/clothing a face mask] .
+[/EN#24117/people A man] reads [/EN#24118/other a Tonka truck book] in [/EN#24117/scene the doctors office] while wearing [/EN#24119/clothing a face mask] .
+[/EN#24117/people A man] in [/EN#24121/other a paper] breathing [/EN#24119/clothing mask] is reading [/EN#24118/other a book] .
+[/EN#24117/people A man] with [/EN#24119/clothing a blue mask] reading [/EN#24118/other a book] .
+[/EN#24117/people A man] reading [/EN#24123/scene a toy manual outside] .

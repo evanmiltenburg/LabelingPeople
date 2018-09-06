@@ -1,0 +1,5 @@
+[/EN#280288/people A surf-skier] in [/EN#280296/clothing a red and black wetsuit] goes inverted over [/EN#280293/other a wake] .
+[/EN#280288/people A man] on [/EN#280290/other a wakeboard] [/EN#0/notvisual that] is in [/EN#280288/other the middle of a flip] from [/EN#280291/scene a wave] .
+[/EN#280288/people A wakeboarder] in [/EN#280295/scene the ocean] is in [/EN#280294/other the middle of a flip] .
+[/EN#280288/people A surfer] being towed by [/EN#280292/vehicles/scene a boat] has hit [/EN#280291/scene a wave] .
+[/EN#280288/people A person] is doing [/EN#0/notvisual a trick] on [/EN#280290/other a wakeboard] .

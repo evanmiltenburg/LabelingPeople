@@ -1,0 +1,5 @@
+[/EN#95975/people A bald man] in [/EN#95980/clothing a striped shirt] and [/EN#95981/clothing jeans] walks away from [/EN#95974/vehicles a mural of a red car] with [/EN#95976/people a blond man] wearing [/EN#95979/clothing an orange] and [/EN#95979/clothing black jacket] with [/EN#95983/clothing jeans] .
+[/EN#95973/people Two men] are walking towards [/EN#95977/scene a building] with [/EN#95974/vehicles a huge car] painted on [/EN#0/notvisual it] .
+[/EN#95973/people two men] walking past [/EN#95974/vehicles a graffited wall scene of a red classic car]
+[/EN#95973/people Two men] walking in front of [/EN#95974/vehicles a grafitti image of a car] .
+[/EN#95973/people Two men] walking past [/EN#95974/vehicles a mural of a car] .

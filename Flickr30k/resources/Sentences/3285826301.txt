@@ -1,0 +1,5 @@
+[/EN#106947/people Woman] just inside [/EN#106955/scene a building] [/EN#0/notvisual that] looks like [/EN#106954/scene a garage] , smoking [/EN#106948/other a cigarette] , with [/EN#106956/other a cellphone] in [/EN#106960/bodyparts her right hand] , [/EN#106959/people nearby people] are walking on [/EN#106950/scene the sidewalk] in [/EN#106957/scene the city] .
+[/EN#106947/people A woman] with [/EN#106952/clothing a multicolored shirt] and [/EN#106958/clothing gray pants] standing inside of [/EN#106953/scene a doorway] smoking [/EN#106948/other a cigarette] .
+[/EN#106947/people A person] in [/EN#106952/clothing a multicolored jacket] smoking [/EN#106948/other a cigarette] inside [/EN#106954/scene the driveway of a building] .
+[/EN#106947/people A woman] in [/EN#106952/clothing a colorful jacket] smokes inside [/EN#106953/other the doorway of a business] on [/EN#106949/scene a city street] .
+[/EN#106947/people A girl] smoking in [/EN#106951/scene an alley] .

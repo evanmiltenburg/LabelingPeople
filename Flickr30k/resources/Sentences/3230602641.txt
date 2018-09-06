@@ -1,0 +1,5 @@
+[/EN#102855/people A young child] in [/EN#102856/clothing a stocking hat] and [/EN#102857/clothing colorful jacket] running away from [/EN#102858/other a bench] .
+[/EN#102855/people A child] wearing [/EN#102856/clothing a hat] and [/EN#102857/clothing jacket] is [/EN#102861/scene outside] running on [/EN#102859/scene a stone surface] .
+[/EN#102855/people A child] wearing [/EN#102860/other a toboggan] is running on [/EN#102859/scene a cobblestone plaza] .
+[/EN#102855/people A child] bolts from [/EN#102858/other a bench] down [/EN#102859/scene a city street] .
+[/EN#102855/people a child] running on [/EN#102859/scene a street] next [/EN#102858/other a bench]

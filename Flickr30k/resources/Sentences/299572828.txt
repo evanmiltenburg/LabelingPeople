@@ -1,0 +1,5 @@
+[/EN#86252/people A man] is scratching [/EN#86256/other a rock] with [/EN#86253/other a red hammer] .
+[/EN#86252/people A man] in [/EN#86254/clothing plaid shirt] hits [/EN#86255/other a tree] with [/EN#86253/other an Axe] .
+[/EN#86252/people A man] in [/EN#86254/clothing a plaid shirt] uses [/EN#86253/other a tool] by [/EN#86255/other a tree] .
+[/EN#86252/people A closeup of a man] [/EN#0/notvisual that] is rock climbing .
+[/EN#86252/people A man] cuts down [/EN#86255/other a tree] with [/EN#86253/other an ax] .

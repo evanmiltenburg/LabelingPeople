@@ -1,0 +1,5 @@
+[/EN#249094/people A group of bicycle riders] in [/EN#249096/other a street race] are dressed in [/EN#249098/other all different colors] .
+[/EN#249094/people A crowd of bicyclists] rides down [/EN#249097/scene a street] , with [/EN#249095/people onlookers] on [/EN#0/notvisual either side] .
+[/EN#249094/people a group of people] riding [/EN#249101/vehicles bikes] in [/EN#249096/other a marathon] as [/EN#249100/people people] line [/EN#249097/scene the street] .
+[/EN#249094/people A Group of cyclists] riding up [/EN#249097/scene a street] with [/EN#249095/people a crowd] cheering [/EN#0/notvisual them] on .
+[/EN#249094/people A group of bicyclers] [/EN#0/notvisual that] are going down [/EN#249097/scene the road] .

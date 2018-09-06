@@ -1,0 +1,5 @@
+[/EN#3613/people A woman] in [/EN#3615/clothing a blue helmet] and [/EN#3617/clothing brown shorts] rides [/EN#0/notvisual her] [/EN#3614/vehicles bike] on [/EN#3616/scene a busy street] .
+[/EN#3613/people A woman] wearing [/EN#3615/clothing a blue helmet] rides [/EN#3614/vehicles her bicycle] in [/EN#3616/scene a parking lot] .
+[/EN#3613/people A woman] is riding [/EN#3614/vehicles her bicycle] in [/EN#3618/vehicles traffic]
+[/EN#3613/people A bicyclist] riding on [/EN#3616/scene a city street] .
+[/EN#3613/people A woman] is riding [/EN#3614/vehicles a blue bike] .

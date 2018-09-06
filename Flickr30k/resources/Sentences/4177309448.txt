@@ -1,0 +1,5 @@
+[/EN#158091/people A man] wearing [/EN#158097/clothing a yellow and gray shirt] is walking along [/EN#158095/other a gravel drive wit] [/EN#158092/animals a donkey] carrying [/EN#158094/scene a large load of grass] behind [/EN#0/notvisual him] .
+[/EN#158091/people An old , tired man] is leading [/EN#158092/animals a donkey] burdened down with [/EN#158094/other loads of green weeds] .
+[/EN#158091/people An old man] and [/EN#158092/animals his mule] are walking down [/EN#158093/scene a paved road] .
+[/EN#158091/people A man] and [/EN#158092/animals a donkey] carrying [/EN#158094/other straw] walk along [/EN#158093/scene a road] .
+[/EN#158091/people A man] and [/EN#158092/animals his donkey] hauling [/EN#158094/other hay] down [/EN#158093/scene a path] .

@@ -1,0 +1,5 @@
+[/EN#203202/people Four people] wait by [/EN#203203/scene the side of the road] , with [/EN#203211/other a wall] covered in [/EN#203205/other Chinese or Japanese characters] behind [/EN#0/notvisual them] .
+[/EN#203202/people Two women] in [/EN#203213/clothing white tops] stand near [/EN#203208/people a man] and [/EN#203212/people a woman] with [/EN#203204/other luggage] on [/EN#203203/scene the sidewalk] .
+[/EN#203202/people People] are standing on [/EN#203203/scene a sidewalk] , beneath [/EN#203210/other a tree] , waiting for [/EN#203207/vehicles/scene a bus] .
+[/EN#203202/people Four people] are waiting with [/EN#203204/other baggage] on [/EN#203203/scene the side of the road] .
+[/EN#203202/people Four Asian people] standing by [/EN#203209/other the street curb] .

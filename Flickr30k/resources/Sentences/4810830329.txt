@@ -1,0 +1,5 @@
+[/EN#205527/people Two young women] holding [/EN#205530/clothing umbrellas] are waiting on [/EN#205528/scene the edge of a street] in [/EN#205531/scene a passenger pickup area] .
+[/EN#205527/people Two women] with [/EN#205530/clothing umbrellas] walk between [/EN#205532/vehicles two cars] as [/EN#0/notvisual they] cross [/EN#205529/scene the street] .
+[/EN#205527/people Two women] cross [/EN#205529/scene the street] with [/EN#205530/clothing umbrellas] while [/EN#0/notvisual it] is raining .
+[/EN#205527/people Two women] are walking across [/EN#205528/scene a street] carrying [/EN#205530/clothing umbrellas] .
+[/EN#205527/people Two women] with [/EN#205530/clothing umbrellas] are trying to cross [/EN#205528/scene a busy street]

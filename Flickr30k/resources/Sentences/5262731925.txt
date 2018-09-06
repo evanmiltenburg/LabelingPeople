@@ -1,0 +1,5 @@
+[/EN#232380/people A man] wearing [/EN#232387/other a button] up [/EN#232386/clothing shirt] and [/EN#232389/clothing jeans] watching [/EN#232383/people another man] in [/EN#232382/vehicles a construction vehicle] digging out [/EN#232385/scene dirt] from [/EN#232388/scene a construction site] .
+[/EN#232379/people A construction worker] is digging [/EN#232381/scene a hole] in [/EN#232384/scene the street] while [/EN#232380/people another man] watches .
+[/EN#232380/people A man] in [/EN#232386/clothing a white shirt] overlooking [/EN#232382/other an excavator] digging [/EN#232381/scene a hole] in [/EN#232384/scene the street] .
+[/EN#232380/people One man] watching [/EN#232383/people another man] operate [/EN#232382/other heavy machinery] doing [/EN#232390/other road construction] .
+[/EN#232380/people A man] in [/EN#232386/clothing white] watches as [/EN#232379/people another man] uses [/EN#232382/other his machine] to dig [/EN#232385/scene dirt] .

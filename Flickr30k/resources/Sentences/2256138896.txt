@@ -1,0 +1,5 @@
+[/EN#37269/people a man] wearing [/EN#37271/clothing a white helmet] is abseiling down [/EN#37275/bodyparts a sandy colored rock face] .
+[/EN#37269/people A man] dressed in [/EN#37272/clothing all black] is climbing down [/EN#37270/scene a mountain] supported by [/EN#37273/other cords]
+[/EN#37269/people A rock climber] with [/EN#37271/clothing a white helmet] is repelling .
+[/EN#37269/people A man] is climbing [/EN#37270/scene the side of a cliff] .
+[/EN#37269/people A man] does [/EN#37274/other technical] rock climbing .

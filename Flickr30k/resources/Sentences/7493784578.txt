@@ -1,0 +1,5 @@
+[/EN#270497/people A man] is sitting in [/EN#270498/other a chair] at [/EN#270499/other a table] with [/EN#270500/other chairs] all around , [/EN#0/notvisual there] is [/EN#270501/other blue and white striped flag] with [/EN#270502/other a blue cross] on [/EN#0/notvisual it] [/EN#270503/clothing some orange] writing [/EN#270504/people the man] is also wearing [/EN#270505/clothing a gray hat] and [/EN#270506/clothing a gray coat] .
+[/EN#270497/people An old , perhaps homeless , man] is sitting at [/EN#270499/other a table] with [/EN#270507/other a glass] in front of [/EN#0/notvisual him] .
+[/EN#270497/people An older man] sitting [/EN#270508/scene a restaurant] in [/EN#270506/clothing a suit jacket] and [/EN#270505/clothing ball cap] .
+[/EN#270497/people A man] looks towards [/EN#0/notvisual the camera] as [/EN#0/notvisual he] sits at [/EN#270499/other an outside table] .
+[/EN#270497/people An old man] sitting in [/EN#270508/scene a restaurant] .

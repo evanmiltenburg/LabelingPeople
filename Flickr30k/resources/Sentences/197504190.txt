@@ -1,0 +1,5 @@
+[/EN#24385/people Two little boys] are playing outside with [/EN#24386/other their soccer ball] on [/EN#24388/scene the green grass] .
+[/EN#24385/people Two children] are playing with [/EN#24386/other a soccer ball] on [/EN#24388/scene grass] .
+[/EN#24385/people Two children] playing with [/EN#24386/other a ball] on [/EN#24388/scene the grass] .
+[/EN#24385/people Two boys] in [/EN#24388/scene a field] kicking [/EN#24386/other a soccer ball] .
+[/EN#24385/people Two children] play [/EN#24387/other soccer] in [/EN#24388/scene the park] .

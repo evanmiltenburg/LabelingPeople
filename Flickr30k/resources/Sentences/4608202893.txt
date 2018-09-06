@@ -1,0 +1,5 @@
+[/EN#182179/people A businessman] sits with [/EN#182185/other his papers] on [/EN#182186/bodyparts his knee] by [/EN#182180/people a statue of a businessman] with [/EN#182184/clothing an open briefcase] .
+[/EN#182179/people A man] is sitting next to [/EN#182180/people a statue of another man] sitting , looking very similar to [/EN#0/notvisual each other]
+[/EN#182179/people A businessman] seated next to [/EN#182180/people a statue of a businessman] in [/EN#182187/scene a busy downtown district] .
+[/EN#182179/people A man] sitting by [/EN#182180/people a statue of a man] at [/EN#182183/other a laptop computer] .
+[/EN#182180/people The man] in [/EN#182182/clothing a blue shirt] is sitting next to [/EN#182180/other a statue] .

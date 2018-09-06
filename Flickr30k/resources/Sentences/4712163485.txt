@@ -1,0 +1,5 @@
+[/EN#193951/people a man] in [/EN#0/notvisual the distance] looking at [/EN#193944/other the fruits] and [/EN#193948/other vegetables] at [/EN#193943/scene a farmers market] .
+[/EN#193942/people Some people] are looking at [/EN#193945/other produce] [/EN#0/notvisual that] is stacked for [/EN#193946/other sale] at [/EN#193943/scene a market] .
+[/EN#193942/people A few people] are shopping at [/EN#193943/scene an outdoor fruit market] .
+[/EN#193942/people People] at [/EN#193943/scene a fruit stand] looking at [/EN#193947/other fruit] .
+[/EN#193949/other A whole bunch of fruit] on [/EN#193950/scene a fruit stand] .

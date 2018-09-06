@@ -1,0 +1,5 @@
+[/EN#257364/people A woman] in [/EN#257371/clothing a blue hat] and [/EN#257369/clothing gray sweatshirt] sits with [/EN#257365/people a dark-haired female doctor] while [/EN#0/notvisual she] has [/EN#257367/other an IV] in [/EN#257375/bodyparts her hand] .
+[/EN#257364/people A woman] wearing [/EN#257369/clothing a sweatshirt] and [/EN#257371/other cap chats] with [/EN#257365/people a healthcare provider] while receiving [/EN#257367/other intravenous medicine] .
+[/EN#257365/people The doctor] is talking to [/EN#257364/people the patient] [/EN#0/notvisual who] is hooked up and receiving [/EN#257373/other medication] .
+[/EN#257365/people A female doctor] is talking to [/EN#257364/people an elderly patient] having [/EN#257374/other tests] run .
+[/EN#257365/people A doctor] is talking with [/EN#257364/people a patient] .

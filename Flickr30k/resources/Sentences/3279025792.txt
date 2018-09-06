@@ -1,0 +1,5 @@
+[/EN#106507/animals A small black dog] runs through [/EN#106508/scene the white snow] .
+[/EN#106507/animals A little black dog] is running on [/EN#106508/scene the snow] .
+[/EN#106507/animals The black dog] is running through [/EN#106508/scene the snow] .
+[/EN#106507/animals A black Labrador] bounds across [/EN#106508/scene the snow] .
+[/EN#106507/animals A black dog] is running through [/EN#106508/scene the snow] .

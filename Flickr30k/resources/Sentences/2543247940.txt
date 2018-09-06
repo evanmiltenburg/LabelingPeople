@@ -1,0 +1,5 @@
+[/EN#57083/animals A white dog] wearing [/EN#57085/clothing a leash] laying down and chewing on [/EN#57084/other the end of a stick] .
+[/EN#57083/animals A white dog] with [/EN#57087/clothing a collar] and [/EN#57085/clothing leash] is about to chew on [/EN#57084/other a stick] .
+[/EN#57083/animals The white dog] is lying on [/EN#57086/scene the grass] and chewing [/EN#57084/other a piece of wood] .
+[/EN#57083/animals A white dog] lays on [/EN#57086/scene green grass] while chewing on [/EN#57084/other a stick] .
+[/EN#57083/animals A large white dog] is playing with [/EN#57084/other a large stick] .

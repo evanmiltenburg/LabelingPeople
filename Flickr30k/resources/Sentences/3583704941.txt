@@ -1,0 +1,5 @@
+[/EN#129552/animals The rider of the brown horse] is wearing [/EN#129554/clothing a blue shirt] .
+[/EN#129552/people A horse jockey] is riding on [/EN#129556/other a course] .
+[/EN#129552/people girl] with [/EN#129555/clothing helmet] riding [/EN#129553/animals a brown horse]
+[/EN#129552/people A woman] on [/EN#129553/animals a racing horse] .
+[/EN#129552/people A woman] on [/EN#129553/animals a horse] .

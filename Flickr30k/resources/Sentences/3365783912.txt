@@ -1,0 +1,5 @@
+[/EN#113198/people Two older men] in [/EN#113206/clothing business attire] are walking in [/EN#113201/scene a city] , [/EN#113203/other text graffiti] is visible on [/EN#113199/scene the sidewalk] .
+[/EN#113198/people Two men] walk along [/EN#113199/scene a busy city street] with [/EN#113203/other words] printed on [/EN#113199/scene the sidewalk] .
+[/EN#113198/people Two elderly people] walk down [/EN#113200/scene a city sidewalk] by [/EN#113203/other words] written in [/EN#113203/other chalk] .
+[/EN#113198/people Two people] walk down [/EN#113199/scene a city street] [/EN#0/notvisual that] has [/EN#113203/other writing] on [/EN#0/notvisual it] .
+[/EN#113198/people Two men] walk through [/EN#113199/scene a city] with [/EN#113203/other words] on [/EN#113199/scene the street] .

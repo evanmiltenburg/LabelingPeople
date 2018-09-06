@@ -1,0 +1,5 @@
+[/EN#232498/animals A dog] is running away in [/EN#232499/scene the grass]
+[/EN#232498/animals A dog] running through [/EN#232499/scene the grass] .
+[/EN#232498/animals A dog] runs through [/EN#232499/scene the grass] .
+[/EN#232498/animals a dog] runs across [/EN#232499/scene the grass] .
+[/EN#232498/animals A dog] running on [/EN#232499/scene grass] .

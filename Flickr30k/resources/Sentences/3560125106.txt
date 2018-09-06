@@ -1,0 +1,5 @@
+[/EN#127621/animals A light brown dog] jumps through [/EN#127622/other a ring of fire] while [/EN#127623/people two people] watch .
+[/EN#127621/animals A show dog] jumps through [/EN#127622/other a flaming obstacle] .
+[/EN#127621/animals A dog] is jumping through [/EN#127622/other a fiery obstacle] .
+[/EN#127621/animals A dog] is jumping through [/EN#127622/other a flaming hoop] .
+[/EN#127621/animals A tan dog] is jumping through [/EN#127622/other a fire hoop]

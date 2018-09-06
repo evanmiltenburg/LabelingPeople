@@ -1,0 +1,5 @@
+[/EN#16620/people Two chefs] in [/EN#16627/clothing white] are working in [/EN#16623/scene the kitchen] , while [/EN#16619/people a woman] sits at [/EN#16621/other a nearby counter] .
+[/EN#16620/people Cooks] making [/EN#16624/other food] for [/EN#16619/people a customer] [/EN#0/notvisual that] is eating in [/EN#16626/scene their restaurant] .
+[/EN#16619/people A customer] sitting at [/EN#16621/other a counter] watching [/EN#16620/people people] work in [/EN#16623/scene a kitchen] .
+[/EN#16620/people Chefs] in [/EN#16625/scene some type of bar or restaurant 's kitchens] .
+[/EN#0/notvisual There] is [/EN#16619/people a woman] sitting at [/EN#16621/other a table] by [/EN#16623/scene the kitchen] .

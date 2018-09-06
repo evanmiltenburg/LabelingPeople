@@ -1,0 +1,5 @@
+[/EN#50416/people A happy little girl] wearing [/EN#50422/clothing a pink sweater white shirt] , and [/EN#50423/clothing black pants] is jumping off [/EN#50418/other a low wall] with [/EN#50424/bodyparts her arms] spread out .
+[/EN#50425/scene An urban park] setting with [/EN#50416/people a young girl] in [/EN#50420/other a pink sweater shrug] jumping from [/EN#50418/other a low concrete wall] onto [/EN#0/notvisual the ground] .
+[/EN#50419/other A photo] snapped by [/EN#50421/people this little girl 's parent] while [/EN#0/notvisual she] is pretending to be [/EN#50416/people a ballerina] balancing on [/EN#50418/other the ledge] .
+[/EN#50416/people a small girl] jumping off on [/EN#50418/other a barrier] .
+[/EN#50416/people little girl] standing on [/EN#50418/other a wall]

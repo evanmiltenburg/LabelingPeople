@@ -1,0 +1,5 @@
+[/EN#12653/people The woman] is sitting on [/EN#12654/other a short concrete wall] next to [/EN#12655/vehicles a scooter] .
+[/EN#12653/people A woman] sits on [/EN#12654/other the curb] next to [/EN#12655/vehicles a scooter] talking to [/EN#12656/people a man] .
+[/EN#12653/people A lady] sitting down and [/EN#12656/people someone] with [/EN#12659/clothing black shorts] and [/EN#12660/clothing shoes]
+[/EN#12653/people A lady] with [/EN#12655/vehicles a scooter] sits on [/EN#12654/scene the side of the sidewalk] .
+[/EN#12653/people The lady] rest on [/EN#12654/other the curb] after riding [/EN#12655/other her razer] .

@@ -1,0 +1,5 @@
+[/EN#173911/people A man] with [/EN#173921/bodyparts a goatee] and [/EN#173919/clothing sunglasses] , dressed in [/EN#173913/clothing leather clothing] , is approaching [/EN#173914/other a motorcycle] in [/EN#0/notvisual the extreme foreground] .
+[/EN#173911/people A man] wearing [/EN#173913/clothing a leather jacket] and [/EN#173915/clothing a bandanna] approaches [/EN#173914/other a parked motorcycle] outside of [/EN#173922/scene a building] .
+[/EN#173911/people A man] dressed in [/EN#173913/clothing a black leather jacket] and [/EN#173918/clothing pants] walks towards [/EN#173914/other a motorcycle] .
+[/EN#173911/people A biker] , dressed in [/EN#173917/clothing black] , is walking down [/EN#173916/other a pathway] to [/EN#173914/vehicles his bike] .
+[/EN#173911/people A leather clad biker] walking toward [/EN#173914/other his motorcycle] .

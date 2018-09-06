@@ -1,0 +1,5 @@
+[/EN#28714/people A man] in [/EN#28716/other yellow ski] jumping over [/EN#28715/other a barrel] .
+[/EN#28714/people Man] skiing over [/EN#28715/other a barrel] in [/EN#28720/scene a snowy area] .
+[/EN#28714/people A man] in [/EN#28721/clothing yellow] jumps with [/EN#28717/other his skis] .
+[/EN#28714/people A skier] catches [/EN#0/notvisual air] over [/EN#28718/scene the snow] .
+[/EN#28714/people A man] jumps while [/EN#28718/scene snow] skiing .

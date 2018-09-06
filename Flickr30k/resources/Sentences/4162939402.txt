@@ -1,0 +1,5 @@
+[/EN#157636/people A group of people] stop at [/EN#157639/scene a food booth outside] .
+[/EN#157637/people People] outside near [/EN#157640/people a multiple vendor] booths .
+[/EN#157636/people People] buying [/EN#157643/other food] from [/EN#157641/people an outdoor seller] .
+[/EN#157637/people People] at [/EN#157644/scene some type of outdoors] fair .
+[/EN#157638/other A festival] in [/EN#157642/scene the park] somewhere .

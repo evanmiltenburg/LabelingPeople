@@ -1,0 +1,5 @@
+[/EN#29177/people A man] and [/EN#29178/people two women] are walking down [/EN#29181/scene a wooded path] , [/EN#29177/people the man] is pushing [/EN#29179/people a young child] in [/EN#29183/vehicles a three wheel carriage] .
+[/EN#29178/people Two woman] and [/EN#29177/people a man] are walking on [/EN#29181/scene a rock path] with [/EN#29179/people a baby] [/EN#0/notvisual who] is riding in [/EN#29183/other a red stroller] .
+[/EN#29178/people Two women] and [/EN#29177/people a man] pushing [/EN#29179/people a baby] in [/EN#29183/other a stroller walk] through [/EN#29181/scene a path] in [/EN#29181/other the woods] .
+[/EN#29176/people A family] walks down [/EN#29181/other a nature pathway] pushing [/EN#29179/people a small child] in [/EN#29183/other a red stroller] .
+[/EN#29176/people A family] walks [/EN#29181/scene a trail] through [/EN#29184/scene a forest] .

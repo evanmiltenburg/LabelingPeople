@@ -1,0 +1,5 @@
+[/EN#209539/people Two men] wearing [/EN#209540/clothing sunglasses] walk down [/EN#209549/scene a busy city street] while [/EN#209541/people a man] carrying [/EN#209542/clothing a briefcase] follows [/EN#0/notvisual them] .
+[/EN#209539/people Two young Asian man] in [/EN#209540/clothing sunglasses] walk along [/EN#209549/scene a sidewalk] with [/EN#209543/other their McDonald 's soft drinks] .
+[/EN#209539/people Two Asian men] walking down [/EN#209549/scene a busy city street] with [/EN#209543/other McDonald 's cups] in [/EN#209544/bodyparts their hands]
+[/EN#209545/people Four people] walk down [/EN#209549/scene a city sidewalk] - [/EN#209551/other three] facing [/EN#0/notvisual the camera] one away .
+[/EN#209545/people Some people] walking down [/EN#209548/other the street one] with [/EN#209546/other a drink] .

@@ -1,0 +1,5 @@
+[/EN#147085/people A man] leans against [/EN#147090/scene a street post] behind [/EN#147086/clothing a large , green mask] .
+[/EN#147085/people A man] standing on [/EN#147087/scene the street] by [/EN#147092/other a weird] looking [/EN#147086/clothing green mask] .
+[/EN#147089/vehicles/scene The bus] behind [/EN#147093/other the newspapers] is multicolored .
+[/EN#147085/people Artist] on [/EN#147087/scene street corner] selling [/EN#147088/other his artwork] .
+[/EN#147085/people An artist] adds painted [/EN#147088/other decorations] to [/EN#147089/other a van] .

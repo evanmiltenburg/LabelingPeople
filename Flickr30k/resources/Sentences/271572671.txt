@@ -1,0 +1,5 @@
+[/EN#68220/people A man] in [/EN#68221/clothing a hat] and [/EN#68220/people a man] in [/EN#68222/clothing glasses] talk on [/EN#68227/scene the side of the road] as [/EN#68223/people a man] walks past [/EN#0/notvisual them] .
+[/EN#68224/people Two men] are standing on [/EN#68227/scene the street] talking while [/EN#0/notvisual another] walks by .
+[/EN#68224/people Two men] stop on [/EN#68227/scene the sidewalk] to chat as [/EN#68223/other a third] passes by .
+[/EN#68224/people Two men] stop to chat on [/EN#68227/scene the sidewalk] as [/EN#68226/vehicles a car] passes [/EN#68229/other by] .
+[/EN#68224/people Two men] are discussing [/EN#68230/other something] .

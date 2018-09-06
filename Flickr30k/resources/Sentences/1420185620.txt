@@ -1,0 +1,5 @@
+[/EN#12254/people A child] , wearing [/EN#12259/clothing blue jeans] and [/EN#12255/clothing a purple shirt] , stacks up [/EN#12256/other suitcases] for [/EN#12258/other a trip] .
+[/EN#12254/people A young girl] moves [/EN#12256/other some suitcases] [/EN#0/notvisual that] are near [/EN#12257/other an open window] .
+[/EN#12254/people A girl] in [/EN#12255/clothing a striped shirt] is carrying [/EN#12256/other luggage] .
+[/EN#12254/people A girl] tries to move [/EN#12256/other her luggage] .
+[/EN#12254/people A woman] with [/EN#12256/other three suitcases] .

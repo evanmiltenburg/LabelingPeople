@@ -1,0 +1,5 @@
+[/EN#72442/people A little boy] in [/EN#72443/clothing blue] and wearing [/EN#72444/clothing a backwards cap] is swinging .
+[/EN#72442/people A boy] in [/EN#72444/clothing a hat] on [/EN#72445/other a swing] .
+[/EN#72442/people A little boy] on [/EN#72445/other a swing] .
+[/EN#72442/people A boy] rides [/EN#72445/other a swing] .
+[/EN#72442/people Little boy] on swing

@@ -1,0 +1,5 @@
+[/EN#129288/people The bicycle rider] is wearing [/EN#129291/clothing a yellow jacket] and [/EN#129294/clothing a blue helmet] while riding on [/EN#129290/scene a road] during [/EN#129295/other winter time] .
+[/EN#129288/people A person] wearing [/EN#129291/clothing a yellow coat] rides [/EN#129289/vehicles a bike] past [/EN#129292/other some snowy rocks] .
+[/EN#129288/people A bicycler] rides [/EN#129289/vehicles his bike] on [/EN#129290/scene the road] next to [/EN#129292/other rocks] with [/EN#129293/scene snow] .
+[/EN#129288/people A bicyclist] rides down [/EN#129290/scene the road] near [/EN#129293/scene snow] .
+[/EN#129288/people A man] in [/EN#129291/clothing yellow jacket] rides [/EN#129289/vehicles a bike] .

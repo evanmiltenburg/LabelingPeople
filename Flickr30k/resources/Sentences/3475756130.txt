@@ -1,0 +1,5 @@
+[/EN#121111/people A man] and [/EN#121112/people woman] are in [/EN#121115/scene the kitchen] and [/EN#121113/other a package of Challenge butter] is in [/EN#0/notvisual the foreground] .
+[/EN#121112/people A woman] cooks as [/EN#121111/people a man] stares off into [/EN#121118/scene space] , [/EN#121113/other a box of butter] is in [/EN#0/notvisual the foreground] .
+[/EN#121111/people A man] in [/EN#121115/scene a crowded kitchen] watching as [/EN#121112/people his girlfriend] prepares [/EN#121114/other some food] .
+[/EN#121113/other A box of Challenge Butter] sits in front of [/EN#121111/people a man] and [/EN#121112/people a woman] cooking .
+[/EN#121111/people A man] and [/EN#121112/people a woman] cooking in [/EN#121115/scene the kitchen] with [/EN#121113/other challenge butter] .

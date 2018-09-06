@@ -1,0 +1,5 @@
+[/EN#1450/people A young girl] sits on [/EN#1451/scene a seat] and looks at [/EN#1452/other a train pamphlet] .
+[/EN#1450/people A young girl] on [/EN#1455/vehicles/scene a train] reads [/EN#1452/other a book] about [/EN#1453/other train rides] .
+[/EN#1450/people A little girl] looking at [/EN#1452/other a brochure] on [/EN#1456/other train rides]
+[/EN#1450/people Child] sitting down looking at [/EN#1452/other train ride brochure]
+[/EN#1450/people a young blond girl] with [/EN#1452/other a magizine] in [/EN#1454/bodyparts her hands]

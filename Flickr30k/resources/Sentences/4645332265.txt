@@ -1,0 +1,5 @@
+[/EN#186158/people A man] in [/EN#186160/clothing a red shirt] is sitting at [/EN#186159/other his desk] with [/EN#186169/bodyparts one leg] on [/EN#186159/other the desk] , using [/EN#186164/other a computer] with [/EN#186161/other two screens] set up [/EN#0/notvisual side] by [/EN#0/notvisual side] .
+[/EN#186158/people A man] in [/EN#186160/clothing an orange red shirt] is viewing [/EN#186161/other two monitors] on [/EN#186159/other a desk] [/EN#0/notvisual that] also has [/EN#186167/other his foot] and [/EN#186162/other a Staples Easy button] on [/EN#0/notvisual it] .
+[/EN#186158/people The tennis player] with [/EN#186163/clothing the blue hat] and [/EN#186165/clothing green shirt] , served [/EN#186170/other the ball] with [/EN#186172/other top spin] on [/EN#186171/other the ball] .
+[/EN#186158/people A man] lounging with [/EN#186166/bodyparts his feet] up on [/EN#186159/other the desk] while looking at [/EN#186161/other two separate computer screens] .
+[/EN#186158/people A boy] in [/EN#186160/clothing an orange shirt] and [/EN#186168/clothing khaki shorts] is looking at [/EN#186161/other two computer screens] .

@@ -1,0 +1,5 @@
+[/EN#87059/people A woman] in [/EN#87066/clothing a pink bathing suit] holds [/EN#87065/other a badminton racket] while [/EN#87059/people another lady] looks on .
+[/EN#87059/people One woman] sitting beside [/EN#87062/scene the pool] while [/EN#0/notvisual another] plays badminton in [/EN#87062/scene the pool] .
+[/EN#87061/people A girl] in [/EN#87062/scene a swimming pool] playing [/EN#87063/other badminton] while [/EN#87059/people a lady] watches .
+[/EN#87059/people Woman] playing [/EN#87063/other badminton] in [/EN#87062/scene the pool] while [/EN#87061/people another woman] looks on .
+[/EN#87059/people A woman] sits and watches [/EN#87061/people another woman] play in [/EN#87062/scene the pool] .

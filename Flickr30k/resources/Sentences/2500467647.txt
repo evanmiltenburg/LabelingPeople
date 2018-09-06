@@ -1,0 +1,5 @@
+[/EN#53493/people A bearded man] in [/EN#53499/clothing a light blue shirt] peers through [/EN#53495/other a magnifier] to work on [/EN#53494/other something] [/EN#0/notvisual that] rests on [/EN#53497/other a white paper box] .
+[/EN#53493/people A man] looking through [/EN#53495/other a microscope] while working on [/EN#53494/other a circuit board] .
+[/EN#53493/people A man] is looking through [/EN#53495/other a microscope] and working on [/EN#53494/other electronics] .
+[/EN#53493/people A technician] uses [/EN#53495/other microscope] to solder [/EN#53496/other a circuit board] .
+[/EN#53493/people a man] making [/EN#53498/other his chip] set under [/EN#53495/other the microscope]

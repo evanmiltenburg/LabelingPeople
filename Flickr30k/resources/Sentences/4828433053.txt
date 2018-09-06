@@ -1,0 +1,5 @@
+[/EN#208052/people A person] in [/EN#208058/clothing shorts] with [/EN#208057/animals a tattooed calf] holds [/EN#208054/animals the leash of a large white dog] in [/EN#208053/clothing a blue vest] .
+[/EN#208052/people A man] with [/EN#208055/bodyparts a tattoo] on [/EN#208056/bodyparts his leg] is standing against [/EN#208059/other a wall] with [/EN#208051/animals a white dog] on [/EN#208054/clothing a leash] .
+[/EN#208052/people Someone] with [/EN#208055/people a tattoo of a lady] on [/EN#208056/bodyparts their leg] stands with [/EN#208051/animals a white dog] .
+[/EN#208051/animals A dog] is leashed by [/EN#208052/people someone] with [/EN#208055/bodyparts a tattoo] .
+[/EN#208051/animals A dog] wearing [/EN#208053/clothing a blue vest] .

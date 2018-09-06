@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#7176/people a man] wearing [/EN#7170/other construction gear] , standing next to [/EN#7170/vehicles a bulldozer] [/EN#0/notvisual that] is picking up [/EN#7173/scene rubble] and [/EN#7178/other debris] .
+[/EN#7170/other A backhoe] is on top of [/EN#7173/scene a pile of rubble] from [/EN#7171/scene a demolished building] .
+[/EN#7170/other A yellow backhoe] is tearing down [/EN#7171/scene a brick building] .
+[/EN#7171/other Something] gets knocked down by [/EN#7170/vehicles a bulldozer] .
+[/EN#7171/scene A house] is being demolished .

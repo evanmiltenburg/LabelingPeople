@@ -1,0 +1,5 @@
+[/EN#238126/people Adult female] and [/EN#238127/people younger child] , [/EN#0/notvisual both] dressed in [/EN#238130/clothing blue] , sitting on [/EN#238129/animals a colorful horse] on [/EN#238128/other a carousel] .
+[/EN#238126/people Women] and [/EN#238127/people a younger child] riding on [/EN#238128/other a carousal] , [/EN#0/notvisual both] are wearing [/EN#238130/clothing blue coats] .
+[/EN#238127/people A little girl] and [/EN#238126/people her older sister] are riding [/EN#238129/animals a horse] in [/EN#238128/other a carnival carousel] .
+[/EN#238126/people A woman] and [/EN#238127/people a young girl] are happily riding on [/EN#238128/other a carousel] .
+[/EN#238126/people A mother] and [/EN#238127/people her daughter] enjoy riding [/EN#238128/other a carousel] .

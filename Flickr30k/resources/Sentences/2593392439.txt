@@ -1,0 +1,5 @@
+[/EN#60146/people A man] in [/EN#60148/clothing a blue print shirt] and wearing [/EN#60152/clothing a hat] , is playing [/EN#60147/scene a blue guitar outside] by [/EN#60149/other a cafe] .
+[/EN#60146/people a man] with [/EN#60150/bodyparts dreadlocks] , strolling along [/EN#60149/other a street side cafe] while strumming [/EN#60147/instruments a guitar]
+[/EN#60146/people Man] with [/EN#60150/bodyparts dreadlocks] playing [/EN#60147/instruments an acoustic guitar] next to [/EN#60149/other a cafe] .
+[/EN#60146/people A person] in [/EN#60148/clothing a bright blue shirt] is playing [/EN#60147/instruments the guitar] .
+[/EN#60147/instruments Guitar] playing [/EN#60146/people performer] in front of [/EN#60153/scene a restaurant] .

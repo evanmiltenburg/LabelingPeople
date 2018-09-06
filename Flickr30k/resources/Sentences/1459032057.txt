@@ -1,0 +1,5 @@
+[/EN#13649/people A girl] with [/EN#13651/clothing a striped shirt] with [/EN#13650/other bread] in [/EN#13653/bodyparts hands] in front of [/EN#13652/bodyparts mouth] .
+[/EN#13649/people This girl] is eating [/EN#13650/other a piece of bread] in [/EN#13651/clothing her striped shirt] .
+[/EN#13649/people The little girl] in [/EN#13651/clothing the striped shirt] is eating [/EN#13650/other some bread] .
+[/EN#13649/people A girl] in [/EN#13651/clothing a striped shirt] holds [/EN#13650/other a bun] to [/EN#13652/bodyparts her mouth] .
+[/EN#13649/people A little girl] is eating [/EN#13650/other a piece of bread] .

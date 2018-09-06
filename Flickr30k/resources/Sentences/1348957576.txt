@@ -1,0 +1,5 @@
+[/EN#9486/people A blond woman] in [/EN#9491/clothing a white tank top] and [/EN#9492/clothing sunglasses] is talking to [/EN#9487/people a man] sitting next to [/EN#9488/vehicles/scene boats] on [/EN#9490/scene a rock surface] .
+[/EN#9487/people A man] and [/EN#9486/people a woman] are sitting on [/EN#0/notvisual the ground] and surrounded by [/EN#9488/vehicles/scene boats] .
+[/EN#9489/people Two people] sitting beside [/EN#9488/vehicles/scene a few small boats] .
+[/EN#9487/people The man] and [/EN#9486/people woman] are sitting by [/EN#9488/vehicles/scene the boats] .
+[/EN#9487/people A man] and [/EN#9486/people a woman] sitting near [/EN#9488/vehicles/scene small boats] .

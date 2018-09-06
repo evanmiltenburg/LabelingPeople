@@ -1,0 +1,5 @@
+[/EN#643/people A bearded man] wearing [/EN#648/clothing glasses] , [/EN#647/clothing a red shirt] , and [/EN#644/clothing a hat] is reading [/EN#646/other a map] while sitting in [/EN#645/vehicles a car] .
+[/EN#643/people A bearded traveler] in [/EN#647/clothing a red shirt] sitting in [/EN#645/vehicles a car] and reading [/EN#646/other a map] .
+[/EN#643/people A man] wearing [/EN#644/clothing a baseball cap] is sitting in [/EN#645/vehicles a car] looking at [/EN#646/other a map] .
+[/EN#643/people a man] in [/EN#647/clothing a red t-shirt] is sitting in [/EN#645/vehicles a car] looking at [/EN#646/other a map] .
+[/EN#643/people A man] trying to decipher [/EN#646/other a map] .

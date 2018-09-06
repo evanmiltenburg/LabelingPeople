@@ -1,0 +1,5 @@
+[/EN#24847/animals A brindle-coated dog] is growling at [/EN#24846/animals a jumping brown dog] with [/EN#24854/clothing purple collar] inside [/EN#24855/scene a park enclosure] .
+[/EN#24844/people A person] stands next to [/EN#24847/animals a snarling brown and black dog] while [/EN#24846/animals a light brown dog] stands up .
+[/EN#24845/animals Two dogs] , [/EN#24852/clothing one brown] , [/EN#24853/clothing one gray] play while [/EN#24844/people a person] in [/EN#24850/clothing jeans] stand nearby .
+[/EN#24844/people A person] standing behind [/EN#24845/animals two dogs] interacting with [/EN#0/notvisual one another] .
+[/EN#24844/people A person] is watching [/EN#24848/animals two puppies] playing .

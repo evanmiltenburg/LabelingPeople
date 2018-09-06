@@ -1,0 +1,5 @@
+[/EN#33455/people A person] in [/EN#33458/clothing a striped gray and white shirt] moves [/EN#33456/vehicles his bicycle] past [/EN#33460/people another man] in [/EN#33461/clothing a yellow shirt] and [/EN#33462/clothing blue pants] .
+[/EN#33455/people A man] in [/EN#33458/clothing a white and gray striped t-shirt] leans over [/EN#33456/vehicles a bike] in order to view [/EN#33457/other a street merchant 's wares] .
+[/EN#33455/people A man] on [/EN#33456/vehicles a bike] is looking at [/EN#0/notvisual what] [/EN#33455/people a man] is selling on [/EN#33463/scene the street] .
+[/EN#33455/people Man] in [/EN#33458/clothing gray stripe shirt] , leaning on [/EN#33456/vehicles bike] .
+[/EN#33455/people A man] examines [/EN#33456/vehicles a bike] during [/EN#33457/other a yard sale] .

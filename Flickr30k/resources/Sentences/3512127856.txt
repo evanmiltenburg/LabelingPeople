@@ -1,0 +1,5 @@
+[/EN#123820/people The little girl] in [/EN#123822/clothing pink] is standing in [/EN#123821/scene the doorway] between [/EN#123824/other the artwork] on [/EN#123828/other the walls] .
+[/EN#123820/people A young girl] wearing [/EN#123822/clothing a pink shirt] walks through [/EN#123825/other an open door] .
+[/EN#123820/people A little girl] in [/EN#123822/clothing pink] stands in [/EN#123827/scene a yellow hallway] .
+[/EN#123820/people The young girl] enters [/EN#123826/scene the room] in [/EN#123823/other amazement] .
+[/EN#123820/people a young girl] standing alone in [/EN#123821/scene a hallway] .

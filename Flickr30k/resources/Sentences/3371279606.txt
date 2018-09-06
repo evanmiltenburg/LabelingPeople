@@ -1,0 +1,5 @@
+[/EN#113654/people The two old men] are sitting in [/EN#113661/scene a room] , [/EN#0/notvisual one of them] wears [/EN#113662/clothing a tan hat] and holds [/EN#113655/other a cello case] .
+[/EN#113654/people Two men] sitting down inside , [/EN#0/notvisual one of them] holding [/EN#113655/other an instrument case] .
+[/EN#113654/people Two older men] sitting at [/EN#113656/other a table] , [/EN#113653/other one] holding [/EN#113655/other a guitar case]
+[/EN#113653/people The man] with [/EN#113655/other the guitar case] smiled at [/EN#113659/people the other man] .
+[/EN#113653/people A man] and [/EN#113653/people woman] sit and talk at [/EN#113656/other the dinner table] .

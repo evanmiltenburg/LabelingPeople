@@ -1,0 +1,5 @@
+[/EN#90853/people Man] in [/EN#90857/clothing black] and [/EN#90854/people woman] in [/EN#90858/clothing hooded jacket] looking at [/EN#90856/clothing shirts] in [/EN#90855/scene store] .
+[/EN#90853/people A man] and [/EN#90854/people a child] are looking at [/EN#90856/clothing clothes] in [/EN#90855/scene a retail store] .
+[/EN#90853/people A man] and [/EN#90854/people a woman] are looking at [/EN#90856/clothing clothing] in [/EN#90855/scene a store] .
+[/EN#90852/people Two people] browsing for [/EN#90856/clothing clothes] at [/EN#90855/scene a store] .
+[/EN#90852/people A couple] examines [/EN#90856/clothing clothes] at [/EN#90855/scene a store] .

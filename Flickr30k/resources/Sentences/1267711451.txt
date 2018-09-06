@@ -1,0 +1,5 @@
+[/EN#6748/animals a black and white dog] walking through [/EN#6751/scene the grass] with [/EN#6749/other a long stick] in [/EN#6750/bodyparts his mouth] .
+[/EN#6748/animals A dog] trots across [/EN#0/notvisual the ground] with [/EN#6749/other a large stick] in [/EN#6750/bodyparts his mouth] .
+[/EN#6748/animals A black and white dog] is carrying [/EN#6749/other a stick] in [/EN#6750/bodyparts its mouth] .
+[/EN#6748/animals A black and white dog] carrying [/EN#6749/other a large stick]
+[/EN#6748/animals a dog] holds [/EN#6749/other a stick] in [/EN#6750/bodyparts its mouth] .

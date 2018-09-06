@@ -1,0 +1,5 @@
+[/EN#2449/people A young boy] wearing [/EN#2451/clothing a black shirt] , [/EN#2456/clothing brown pants] and [/EN#2454/clothing a black watch] has [/EN#2457/bodyparts his hand] on [/EN#2452/other a white folded chair] [/EN#0/notvisual which] is on [/EN#2452/other the top of a large stack] of [/EN#2453/other similar folding chairs] .
+[/EN#2449/people A young man] wearing [/EN#2451/clothing a black shirt] takes [/EN#2452/other a folding chair] from [/EN#2455/other a large stack] .
+[/EN#2449/people A person] helping to set up [/EN#2453/other chairs] for [/EN#2458/scene a big event] .
+[/EN#2449/people A young man] in [/EN#2451/clothing a black shirt] stacks [/EN#2453/other chairs] .
+[/EN#2449/people A boy] is setting up [/EN#2453/other folding chairs] .

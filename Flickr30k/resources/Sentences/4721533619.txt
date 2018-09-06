@@ -1,0 +1,5 @@
+[/EN#195308/people A man] dressed in [/EN#195308/clothing black] and [/EN#195313/clothing a tie] with [/EN#195311/clothing a top hat] stands in [/EN#195309/scene a crowded area] as [/EN#195310/people people] pass by .
+[/EN#195308/people A man] with [/EN#195312/clothing a tuxedo] and [/EN#195311/clothing top hat] on [/EN#195308/scene stands] in [/EN#195309/scene the middle of a busy terminal] .
+[/EN#195308/people A man] in [/EN#195312/clothing a tailcoat] and [/EN#195311/clothing top hat] is standing in [/EN#195310/people a crowd of people] .
+[/EN#195308/people A man] wearing [/EN#195311/clothing a suit] is standing in [/EN#195310/people a group of people] .
+[/EN#195308/people Man] in [/EN#195312/clothing a suit] in [/EN#195316/other Grand Central station] .

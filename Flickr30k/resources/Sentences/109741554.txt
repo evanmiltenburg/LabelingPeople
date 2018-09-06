@@ -1,0 +1,5 @@
+[/EN#2439/people A man] shovels [/EN#2443/scene snow] off of [/EN#2442/scene a roof] while [/EN#0/notvisual another] stands in [/EN#2444/other the contraption] [/EN#0/notvisual that] allowed [/EN#0/notvisual them] to reach [/EN#2441/scene the high place] .
+[/EN#2440/people Two men] cleaning [/EN#2443/scene snow] from [/EN#2441/scene a roof] , [/EN#2446/other one] 's in [/EN#2445/people a lifter] , while [/EN#2439/other the other] is actually on [/EN#2442/scene the roof] .
+[/EN#2439/people A man] shoveling [/EN#2443/scene snow] off [/EN#2442/scene the roof of a building] .
+[/EN#2440/people Two people] working on removing [/EN#2443/scene snow] from [/EN#2441/scene a roof] .
+[/EN#2440/people Two men] work to shovel [/EN#2443/scene snow] from [/EN#2442/scene rooftops] .

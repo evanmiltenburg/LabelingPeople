@@ -1,0 +1,5 @@
+[/EN#176531/people A man] in [/EN#176536/scene a trench coast] waiting to cross [/EN#176540/other a cross] [/EN#176537/scene a street] in [/EN#176535/scene downtown] .
+[/EN#176531/people A man] in [/EN#176538/clothing black business attire] is crossing [/EN#176533/scene the street] .
+[/EN#176531/people A man] is crossing [/EN#176537/scene a street] at [/EN#176533/scene a crosswalk] .
+[/EN#176531/people A man] in [/EN#176538/clothing black] is crossing [/EN#176532/scene the road] .
+[/EN#176531/people A man] ganders at [/EN#176539/scene local crosswalk] .

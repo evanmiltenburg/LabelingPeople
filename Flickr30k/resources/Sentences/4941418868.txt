@@ -1,0 +1,5 @@
+[/EN#221214/people A group of people] running [/EN#221217/other a bicycle race] past [/EN#221218/scene a red building] .
+[/EN#221215/people Many people] are riding [/EN#221219/vehicles bicycles] through [/EN#221216/scene a downtown area] .
+[/EN#221215/people A large group of cyclists] ride down [/EN#221216/scene a city street] .
+[/EN#221215/people Dozens of bicyclists] are crossing [/EN#221216/scene the street] .
+[/EN#221214/people several people] are [/EN#221217/vehicles bike] riding .

@@ -1,0 +1,5 @@
+[/EN#270729/people A baseball player] wearing [/EN#270736/clothing a red cap] and [/EN#270737/clothing white pants] is leaning forward while throwing [/EN#270732/other a baseball]
+[/EN#270729/people A pitcher] for [/EN#270731/people a baseball team] throwing [/EN#270733/other the ball] from [/EN#270734/other the pitcher 's mound] .
+[/EN#270729/people A pitcher] in [/EN#270735/clothing red and blue] , just as [/EN#0/notvisual he] releases [/EN#270733/other the ball] from [/EN#270734/other the mound] .
+[/EN#270729/people The pitcher] is pitching [/EN#270733/other the ball] in [/EN#270732/other a game of baseball] .
+[/EN#270729/people A baseball pitcher] on [/EN#270734/other the mound] throwing [/EN#270732/other a baseball] .

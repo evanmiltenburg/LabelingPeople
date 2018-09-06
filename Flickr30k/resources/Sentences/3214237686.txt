@@ -1,0 +1,5 @@
+[/EN#101660/people A person] with [/EN#101661/other a yellow and black striped snowboard] jumps on [/EN#101662/scene the snowy hill] .
+[/EN#101660/people A person] riding [/EN#101661/other a snowboard] jumps high over [/EN#101662/scene the snowy hill] .
+[/EN#101660/people a lone snowboarder] jumping in [/EN#0/notvisual the air] doing [/EN#0/notvisual a trick] .
+[/EN#101660/people A man] in [/EN#101663/clothing black] is taking [/EN#0/notvisual a jump] on [/EN#101661/other a snowboard] .
+[/EN#101660/people a snowboarder] jumps off [/EN#0/notvisual the snow jump] .

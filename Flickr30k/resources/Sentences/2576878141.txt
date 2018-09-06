@@ -1,0 +1,5 @@
+[/EN#59168/people A little boy] in [/EN#59171/people a blue jumper] is playing on [/EN#59168/other a red plastic toy] [/EN#0/notvisual that] looks like [/EN#59170/scene a slide] .
+[/EN#59168/people A toddler] in [/EN#59169/clothing a light blue overall] sits at [/EN#59170/scene the top of a red plastic slide] .
+[/EN#59168/people A small child] wearing [/EN#59169/clothing light blue overalls] sits on [/EN#59170/scene a red slide] .
+[/EN#59168/people A baby] in [/EN#59169/clothing blue pants] is sitting on [/EN#59170/scene a red slide] .
+[/EN#59168/people A small baby boy] sitting on [/EN#59170/scene a slide] .

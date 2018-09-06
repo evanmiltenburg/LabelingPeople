@@ -1,0 +1,5 @@
+[/EN#240694/people Two workers] , [/EN#240692/people one male] and [/EN#240700/people one female] , wearing [/EN#240703/clothing green pants] and [/EN#240704/clothing neon yellow work shirts] are planting [/EN#240696/other flowers] in [/EN#240697/scene the median of a street] .
+[/EN#240692/people A man] and [/EN#240695/people a woman] dressed like [/EN#240693/people highway department employees] , [/EN#240702/other work] on [/EN#240697/scene the side of the road] .
+[/EN#240693/people Two people] in [/EN#240699/other green & yellow uniforms plant flowers] on [/EN#240701/scene the side of the highway] .
+[/EN#240692/people A man] and [/EN#240695/people a woman] are planting [/EN#240696/other flowers] .
+[/EN#240694/people Two workers] are gardening [/EN#240696/other flowers] .

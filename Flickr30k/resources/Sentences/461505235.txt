@@ -1,0 +1,5 @@
+[/EN#183030/people A person] is climbing [/EN#183033/other a cliff wall] , over [/EN#183032/scene a rocky shore] , using [/EN#183034/other a rope] .
+[/EN#183030/people A mountain climber] hangs from [/EN#183032/scene a cliff] above [/EN#183035/scene the ocean] .
+[/EN#183030/people A person] descends [/EN#183034/other a rope] from [/EN#183032/scene a cliff] into [/EN#183035/scene the ocean] .
+[/EN#183030/people A man] repels down [/EN#183032/scene a cliff] over [/EN#183035/scene water] .
+[/EN#183030/people The man] is climbing up [/EN#183033/other the rock] .

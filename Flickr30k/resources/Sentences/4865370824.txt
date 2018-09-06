@@ -1,0 +1,5 @@
+[/EN#212783/people A woman] in [/EN#212784/clothing a black sundress] and carrying [/EN#212785/clothing a purple purse] strides down [/EN#212786/scene a sidewalk] .
+[/EN#212783/people A lady] walking down [/EN#212786/scene the sidewalk] wearing [/EN#212784/clothing a black dress] and holding [/EN#212785/clothing a pink bag]
+[/EN#212783/people A lady] is walking down [/EN#212786/scene the street] in [/EN#212784/clothing a black dress] holding [/EN#212789/other a back] .
+[/EN#212783/people A woman] walking on [/EN#212786/scene the sidewalk] , in [/EN#212787/scene the city] .
+[/EN#212783/people A woman] walks down [/EN#212786/scene the sidewalk] .

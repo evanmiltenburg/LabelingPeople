@@ -1,0 +1,5 @@
+[/EN#239564/people Two women] dressed in [/EN#239567/clothing ceremonial apparel] are standing on [/EN#239571/scene the grass] looking at [/EN#239569/scene bridge] [/EN#0/notvisual that] leads to [/EN#239565/scene a building] with [/EN#239566/scene a mountain] in [/EN#0/notvisual the background] .
+[/EN#239564/people Two women] are wearing [/EN#239567/clothing red ethnic costumes] , with [/EN#239565/scene a Chinese building] and [/EN#239566/scene a mountain] in [/EN#0/notvisual the background] .
+[/EN#239564/people Two women] wearing [/EN#239567/clothing ceremonial costumes] are walking outside [/EN#239565/scene a white building] .
+[/EN#239564/people Two women] in [/EN#239567/clothing kimonos] under [/EN#239568/scene an overcast sky] with [/EN#239566/scene a mountain] in [/EN#0/notvisual the distance] .
+[/EN#0/notvisual This] is [/EN#239564/people two women] dressed in [/EN#239567/clothing red costumes] standing close together

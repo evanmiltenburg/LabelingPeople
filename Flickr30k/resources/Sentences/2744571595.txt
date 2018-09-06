@@ -1,0 +1,5 @@
+[/EN#69871/people A man] is instructing [/EN#69870/people other men] using [/EN#69870/other a whiteboard] and [/EN#69877/other dry-erase markers] .
+[/EN#69870/people Five men] talking in [/EN#69872/scene a room] with [/EN#69870/other whiteboards] behind [/EN#0/notvisual them] .
+[/EN#69871/people A man] [/EN#0/notvisual that] is talking to [/EN#69870/people four other men] in [/EN#69876/other a circle] .
+[/EN#69875/people Group of men] standing in [/EN#69872/scene a meeting room] , talking .
+[/EN#69870/people A group of people] stand listening to [/EN#69871/people a speaker] .

@@ -1,0 +1,5 @@
+[/EN#229575/animals A furry dog] is walking by [/EN#229578/other green trees] while carrying [/EN#229576/other something] in [/EN#229577/bodyparts its mouth] .
+[/EN#229575/animals A furry black dog] in [/EN#229580/scene a backyard] carrying [/EN#229576/other a basket] in [/EN#229577/bodyparts its mouth] .
+[/EN#229575/animals A black dog] carries [/EN#229576/other a bucket] in [/EN#229577/bodyparts its mouth] .
+[/EN#229575/animals A black dog] carrying [/EN#229576/other a hanging flower pot] .
+[/EN#229575/animals A dog] next to [/EN#229579/other pine tree] biting on [/EN#229576/other a bucket]

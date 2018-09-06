@@ -1,0 +1,5 @@
+[/EN#75433/people A man] driving [/EN#75427/vehicles a small golf cart] down [/EN#75429/scene a street] with [/EN#75426/people a crowd] watching [/EN#0/notvisual him] on [/EN#75436/scene either side of the street] .
+[/EN#75426/people A crowd] gathered on [/EN#75435/other either side of a soap box derby] , with [/EN#75427/vehicles a single soap box car] on [/EN#75429/scene the road track] .
+[/EN#75427/vehicles A white cart] doing [/EN#75434/other a wheeling] down [/EN#75429/other a race course] .
+[/EN#75432/other an event or race] with [/EN#75426/people a crowd] on [/EN#75437/other the side lines] .
+[/EN#75427/vehicles A small children 's car] is going down [/EN#75428/scene a hill] .

@@ -1,0 +1,5 @@
+[/EN#19819/people A girl] in [/EN#19821/clothing a pink tank top] and [/EN#19822/clothing green pants] is running through [/EN#19820/other a field of tall flowers] .
+[/EN#19819/people A young girl] wearing [/EN#19821/clothing a pink shirt] and [/EN#19822/clothing jeans] is running through [/EN#19820/scene a flowered field] .
+[/EN#19819/people a small child] in [/EN#19821/clothing a pink shirt] running through [/EN#19820/scene a flowery field] .
+[/EN#19819/people A girl] with [/EN#19821/clothing a pink shirt] is running through [/EN#19820/scene flowery grass] .
+[/EN#19819/people A young girl] is walking through [/EN#19820/scene a grassy pasture] .

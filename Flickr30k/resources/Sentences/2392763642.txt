@@ -1,0 +1,5 @@
+[/EN#46082/people Two women] in [/EN#46083/clothing white lab coats] examine [/EN#46084/scene a dyed area] on [/EN#46085/scene a cluster of cells] using [/EN#46086/other a projector] .
+[/EN#46082/people Two women] in [/EN#46083/clothing white coats] are examining [/EN#46085/other an image] on [/EN#46086/other a projector] .
+[/EN#46082/people two women] in [/EN#46083/clothing lab coats] looking on [/EN#46085/other a image] projected on [/EN#46088/other the wall]
+[/EN#46082/people 2 women] in [/EN#46083/clothing white lab coats] looking at [/EN#46085/other slide projection]
+[/EN#46082/people Two women] are viewing [/EN#46089/other a projector screen] .

@@ -1,0 +1,5 @@
+[/EN#122213/people A man] in [/EN#122215/clothing green] on [/EN#122217/vehicles a green bike] is in [/EN#0/notvisual the air] after jumping off [/EN#122219/scene a ramp] .
+[/EN#122213/people The man] is performing [/EN#0/notvisual a trick] on [/EN#122217/other a bicycle high] in [/EN#0/notvisual the air] .
+[/EN#122213/people A mountain biker] in [/EN#122215/clothing a green shirt] is suspended in [/EN#0/notvisual the air] .
+[/EN#122213/people A person] is doing [/EN#0/notvisual a bike trick] in [/EN#0/notvisual midair of a dirt jump] .
+[/EN#122213/people a bmx rider] wearing [/EN#122215/clothing green] jumps over [/EN#122218/scene a dirt hole] .

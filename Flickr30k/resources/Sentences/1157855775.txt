@@ -1,0 +1,5 @@
+[/EN#4105/people Three people] are walking on [/EN#4108/scene a lake shore] with [/EN#4109/scene houses] on [/EN#0/notvisual the other side] .
+[/EN#4105/people People] walking along [/EN#4108/scene a river] near [/EN#4106/other a beautiful homestead] .
+[/EN#4105/people People] walking along [/EN#4108/scene a lake] with [/EN#4109/scene houses] in [/EN#0/notvisual the distance] .
+[/EN#4105/people Three people] walk on [/EN#4110/scene grass] adjacent to [/EN#4108/scene a river] .
+[/EN#4105/people Three people] are standing near [/EN#4108/scene a lake] .

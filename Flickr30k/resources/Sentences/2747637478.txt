@@ -1,0 +1,5 @@
+[/EN#70126/people A man] , wearing [/EN#70127/clothing a white t-shirt] and [/EN#70131/clothing jeans] , sits on [/EN#70128/other two stacked crates] while playing [/EN#70129/instruments a guitar] for [/EN#70134/scene tips] .
+[/EN#70126/people A smiling man] wearing [/EN#70131/clothing blue jeans] and [/EN#70127/clothing a blue shirt] plays [/EN#70129/instruments a guitar] in front of [/EN#70133/people several other people] .
+[/EN#70126/people An old black man] sitting on [/EN#70128/other a couple of grocery crates] playing [/EN#70129/instruments the string guitar] during [/EN#70130/scene the day] .
+[/EN#70126/people An older gentleman] smiles while [/EN#0/notvisual he] strums [/EN#70129/instruments a guitar] in [/EN#70132/scene the street] on [/EN#70130/scene a sunny day] .
+[/EN#70126/people Guy] playing [/EN#70129/instruments the guitar] and smiling .

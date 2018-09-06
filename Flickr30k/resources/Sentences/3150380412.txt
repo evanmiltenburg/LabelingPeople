@@ -1,0 +1,5 @@
+[/EN#96775/animals The white dog] is running in [/EN#96776/scene the shallow water] .
+[/EN#96775/animals A wet dog] is splashing through [/EN#96776/scene shallow water] .
+[/EN#96775/animals The wet brown dog] is running in [/EN#96776/scene the water] .
+[/EN#96775/animals A brown dog] running through [/EN#96776/scene the water] .
+[/EN#96775/animals Wet blond dog] running through [/EN#96776/scene water]

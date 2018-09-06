@@ -1,0 +1,5 @@
+[/EN#28385/people A man] in [/EN#28390/clothing a yellow shirt] and [/EN#28387/clothing straw hat] is playing [/EN#28386/instruments a guitar] .
+[/EN#28385/people A man] is playing [/EN#28386/instruments a 5 stringed electrical bass guitar] .
+[/EN#28385/people A man] with [/EN#28387/clothing a hat] is playing [/EN#28386/instruments the guitar] .
+[/EN#28385/people A man] in [/EN#28387/clothing a hat] plays [/EN#28386/instruments the guitar] .
+[/EN#28388/people Two men] perform in [/EN#28388/people a band] .

@@ -1,0 +1,5 @@
+[/EN#103162/people The surfer] wearing [/EN#103163/clothing the blue suit] on [/EN#103165/other the colorful surfboard] is catching [/EN#103164/scene a wave] .
+[/EN#103162/people A person] in [/EN#103163/clothing a dark wetsuit] is surfing .
+[/EN#103162/people A person] is surfing on [/EN#103164/scene a large wave] .
+[/EN#103162/people A surfer] goes up [/EN#103164/scene a wave of water] .
+[/EN#103162/people The surfer] is surfing [/EN#103164/scene the wave] .

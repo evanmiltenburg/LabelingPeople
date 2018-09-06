@@ -1,0 +1,5 @@
+[/EN#94544/people A woman] with [/EN#94545/clothing a hat] sits on [/EN#94546/other a red stool] on [/EN#94552/scene the side of the street] with [/EN#94547/other fruit baskets] around [/EN#0/notvisual her] .
+[/EN#94544/people An Asian peddler] with [/EN#94545/clothing a wide cone shaped hat] with [/EN#94548/other various fruits] and [/EN#94549/other vegetables] for [/EN#94553/other sale] .
+[/EN#94544/people Someone] wearing [/EN#94545/clothing a white hat] is sitting next to [/EN#94547/other some baskets of produce] .
+[/EN#94544/people A woman] in [/EN#94545/clothing a hat] sitting on [/EN#94546/other a little red chair]
+[/EN#94544/people Someone] is selling [/EN#94550/other flowers] and [/EN#94551/other produce] .

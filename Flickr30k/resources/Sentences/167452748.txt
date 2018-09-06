@@ -1,0 +1,5 @@
+[/EN#18499/people A man] in [/EN#18501/clothing a blue jacket] standing next to [/EN#18502/vehicles/scene a bus] smiling with [/EN#18508/bodyparts his back hand] in [/EN#18506/clothing his pocket] .
+[/EN#18499/people A man] in [/EN#18505/clothing a plaid shirt] and [/EN#18501/clothing blue jacket] is handing out [/EN#18503/other copies of the " New Testament] " .
+[/EN#18499/people A man] stands near [/EN#18500/other a Christian sign] , as [/EN#18502/vehicles/scene a public train] passes behind [/EN#0/notvisual him] .
+[/EN#18499/people A man] in [/EN#18501/clothing a cardigan] stands in front of [/EN#18502/vehicles/scene a bus] and [/EN#18500/other a religious sign] .
+[/EN#18504/people Two men] handing out [/EN#18503/other free bibles] to [/EN#18507/people people]

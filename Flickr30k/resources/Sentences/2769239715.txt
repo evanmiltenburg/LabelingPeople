@@ -1,0 +1,5 @@
+[/EN#71719/people A man] in [/EN#71720/clothing a checkered shirt] with [/EN#71727/bodyparts/people his arm] around [/EN#71721/people a woman] in [/EN#71722/clothing a brown jacket] .
+[/EN#71719/people A man] with [/EN#71723/bodyparts short hair] outs [/EN#71727/bodyparts/people his arm] around [/EN#71721/people a woman] with [/EN#71724/bodyparts long brown hair] .
+[/EN#71719/people Man] with [/EN#71727/bodyparts/people arm] around [/EN#71725/bodyparts girlfriend 's shoulder] as [/EN#0/notvisual they] watch [/EN#71726/other something] .
+[/EN#71719/people A man] with [/EN#71727/bodyparts/people his arm] around [/EN#71721/people a lady] in [/EN#71722/clothing a brown jacket]
+[/EN#71719/people A man] with [/EN#71727/bodyparts/people his arm] around [/EN#71721/people a young woman] .

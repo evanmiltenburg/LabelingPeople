@@ -1,0 +1,5 @@
+[/EN#57012/people Man] with [/EN#57016/clothing glasses] in [/EN#57013/clothing an orange jumpsuit] holding [/EN#57020/other something] in [/EN#57021/bodyparts his hand] .
+[/EN#57012/people An electrician] in [/EN#57013/clothing a orange jumpsuit] tests [/EN#57022/scene several circuits] .
+[/EN#57012/people A man] in [/EN#57013/clothing an orange work suit] performs [/EN#57017/other maintenance] .
+[/EN#57012/people A man] in [/EN#57013/other orange squats] to inspect [/EN#57015/other a machine part] .
+[/EN#57012/people An engineer] is taking [/EN#57019/other readings] from [/EN#57014/other a machine] .

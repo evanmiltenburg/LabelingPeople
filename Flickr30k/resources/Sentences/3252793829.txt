@@ -1,0 +1,5 @@
+[/EN#104567/people A balding man] in [/EN#104568/clothing a khaki parka] stands near [/EN#104569/scene the Bryant Park Newsstand] on [/EN#104575/scene a cold , wet , cloudy day] ; [/EN#104572/scene skyscrapers] fade into [/EN#0/notvisual the foggy background] .
+[/EN#104567/people A bald man] wearing [/EN#104568/clothing a brown jacket] stands in front of [/EN#104569/scene the Bryant Park newsstand] while [/EN#104573/other snow flurries fall] on [/EN#104574/scene New York city] .
+[/EN#104567/people A man] in [/EN#104568/clothing a light brown jacket] is walking past [/EN#104569/scene a newsstand] near [/EN#104577/other snow-covered trees] .
+[/EN#104567/people A man] in [/EN#104568/clothing a winter coat] stands next to [/EN#104569/scene a bryant park newsstand] in [/EN#104573/other snowfall] .
+[/EN#104567/people A man] in [/EN#104568/clothing a brown jacket] is in [/EN#104571/scene a street] with [/EN#104572/scene tall buildings] .

@@ -1,0 +1,5 @@
+[/EN#171140/people Two people] stand in front of [/EN#171134/other a hot circular grill] and [/EN#171141/other a basket of eggs] , [/EN#171133/other one] cooking [/EN#171139/other the eggs] while [/EN#171138/other the other] waits for [/EN#0/notvisual them] to be completed
+[/EN#171133/people A man] in [/EN#171137/clothing a white apron] is cooking [/EN#171145/other something] with [/EN#171139/other eggs] on [/EN#171135/other a pan] outside for [/EN#171138/people a woman] in [/EN#171136/clothing a tan jacket] .
+[/EN#171133/people A man] in [/EN#171137/clothing white apron] and [/EN#171143/clothing blue shirt] is cooking [/EN#171139/other eggs] outside for [/EN#171138/people a woman] in [/EN#171136/clothing a tan coat] .
+[/EN#171133/people An Asian man] is cooking [/EN#171139/other eggs] in [/EN#171135/other a pan] outside while [/EN#171138/people a woman] watches .
+[/EN#171133/people A man] is cooking [/EN#171147/scene outdoors] with [/EN#171138/other a female watching] .

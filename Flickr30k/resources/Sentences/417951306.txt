@@ -1,0 +1,5 @@
+[/EN#158167/people A woman] is sitting on [/EN#158170/other a couch] and eating from [/EN#158169/other a coffee table] while [/EN#158168/animals a black and white dog] sits next to [/EN#0/notvisual her] .
+[/EN#158167/people A woman] eats [/EN#158172/other dinner] with [/EN#158168/animals her dog] as [/EN#0/notvisual she] sits on [/EN#158170/other the couch] and [/EN#0/notvisual there] are [/EN#158171/other four lit candles] on [/EN#158169/other the table] .
+[/EN#158167/people A woman] eats [/EN#158172/other food] at [/EN#158169/other a table] with [/EN#158171/other candles] and [/EN#158168/animals a dog] sitting next to [/EN#0/notvisual her] .
+[/EN#158167/people A woman] in [/EN#158173/clothing a black coat] eats [/EN#158172/other dinner] while [/EN#158168/animals her dog] looks on .
+[/EN#158168/animals Dog] watches [/EN#158167/people woman] eating alone .

@@ -1,0 +1,5 @@
+[/EN#39583/people A woman] in [/EN#39584/clothing a red tennis outfit] and holding [/EN#39585/other a tennis racket] is standing on [/EN#39587/scene a clay tennis court] .
+[/EN#39583/people A tennis player] in [/EN#39584/clothing red clothing] is holding up [/EN#39585/other her tennis racket] .
+[/EN#39583/people A woman] in [/EN#39584/clothing an orange outfit] is holding [/EN#39585/other a tennis racket] .
+[/EN#39583/people A young lady] wearing [/EN#39584/clothing red] playing [/EN#39586/other tennis] .
+[/EN#39583/people A tennis player] in [/EN#39584/clothing a red outfit] .

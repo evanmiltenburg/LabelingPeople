@@ -1,0 +1,5 @@
+[/EN#259691/people An overweight woman] wearing [/EN#259694/clothing a red scarf] , [/EN#259693/clothing denim jacket] , [/EN#259700/clothing gloves] and [/EN#259696/clothing sunglasses] is juggling [/EN#259701/scene three oranges outdoors] with [/EN#259692/scene a house] in [/EN#0/notvisual the background] .
+[/EN#259691/people A woman] in [/EN#259693/clothing a jean jacket] and wearing [/EN#259696/clothing sunglasses] and [/EN#259694/clothing red scarf] is juggling [/EN#259695/clothing oranges] near [/EN#259697/scene a gazebo] and [/EN#259692/scene a house] .
+[/EN#259691/people A woman] is juggling [/EN#259695/clothing oranges] with [/EN#259698/other a happy look] on [/EN#259702/bodyparts her face] in [/EN#259699/scene a suburban backyard] .
+[/EN#259691/people A woman] with [/EN#259694/clothing a red scarf] is juggling [/EN#259695/clothing oranges] .
+[/EN#259691/people A woman] is juggling [/EN#259695/clothing three oranges] outside .

@@ -1,0 +1,5 @@
+[/EN#114150/people A skier] goes upside down kicking [/EN#114152/scene snow] in [/EN#0/notvisual the air] .
+[/EN#114150/people A person] is skiing and doing [/EN#114151/other a flip] in [/EN#114152/scene the snow] .
+[/EN#114150/people A man] is in [/EN#0/notvisual the air] upside-down in [/EN#114152/scene the snow] .
+[/EN#114150/people A skier] is doing [/EN#114151/other a flip] in [/EN#114152/scene the snow] .
+[/EN#114150/people A person] doing [/EN#0/notvisual tricks] on [/EN#114154/other a slope] .

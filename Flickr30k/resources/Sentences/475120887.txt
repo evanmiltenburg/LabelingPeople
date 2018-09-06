@@ -1,0 +1,5 @@
+[/EN#198567/people A street performer] is playing [/EN#198570/instruments violin] for [/EN#198573/scene tips] on [/EN#198568/scene an uncrowded street] .
+[/EN#198567/people A young woman] is playing [/EN#198570/instruments a stringed instrument] in [/EN#198569/scene a public place] .
+[/EN#198567/people A woman] wearing [/EN#198572/clothing black and red] is playing [/EN#198570/instruments a violin] in [/EN#198569/scene the street] .
+[/EN#198567/people A young female street performer] is playing [/EN#198570/instruments the violin] .
+[/EN#198567/people A young lady] plays [/EN#198571/other a violin solo] in [/EN#198568/scene an urban area] .

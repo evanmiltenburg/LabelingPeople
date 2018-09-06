@@ -1,0 +1,5 @@
+[/EN#208236/people A man] holding [/EN#208238/clothing a motorcycle helmet] stands on [/EN#208242/scene a sidewalk] in front of [/EN#208237/scene a bright blue colored building] [/EN#0/notvisual which] contains [/EN#208237/scene an ice cream shop] named [/EN#208239/other Murphy 's] .
+[/EN#208236/people A man] is standing outside [/EN#208237/scene a building] dressed in [/EN#208243/clothing black and white] while holding [/EN#208238/clothing a white helmet] .
+[/EN#208236/people A man] with [/EN#208238/clothing a motorcycle helmet] stands in front of [/EN#208241/scene a row of colorful buildings] .
+[/EN#208236/people A man] in [/EN#208245/clothing black jacket] and [/EN#208238/clothing helmet] at [/EN#208246/bodyparts his hand] poses with [/EN#208247/bodyparts a smile] .
+[/EN#208236/people A man] stands outside [/EN#208237/scene a blue building] holding [/EN#208238/clothing a white helmet] .

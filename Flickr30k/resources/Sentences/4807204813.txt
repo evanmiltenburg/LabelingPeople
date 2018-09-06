@@ -1,0 +1,5 @@
+[/EN#204863/people A man] wearing [/EN#204864/clothing a blue shirt] is sitting on [/EN#204865/other a brick planter] next to [/EN#204866/other some paintings] .
+[/EN#204863/people An artist] is selling [/EN#204866/other his paintings] in front of [/EN#204867/other a large tree] in [/EN#204870/scene a park]
+[/EN#204863/people A man] sitting [/EN#204871/scene outside] , fanning [/EN#204868/bodyparts his face] with [/EN#204869/other something] .
+[/EN#204863/people The man] is showing [/EN#204866/other his artwork] at [/EN#204870/scene the park] .
+[/EN#204863/people Man] sells [/EN#204866/other artwork] underneath [/EN#204867/other large tree] .

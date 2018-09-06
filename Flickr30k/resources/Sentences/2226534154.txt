@@ -1,0 +1,5 @@
+[/EN#35306/people The woman] in [/EN#35309/clothing the purple dress] is looking towards [/EN#35307/people the people] at [/EN#35317/other the door] with [/EN#35315/bodyparts her hand] running through [/EN#35310/bodyparts her hair] .
+[/EN#35306/people A woman] in [/EN#35309/clothing a purple dress] plays with [/EN#35310/bodyparts her hair] while waiting in [/EN#35312/scene a lobby] .
+[/EN#35306/people A woman] in [/EN#35309/clothing a purple dress] rubs [/EN#35310/bodyparts her head] as [/EN#35316/people other people] look on .
+[/EN#35311/people Woman] at [/EN#35308/scene bar] looks on [/EN#35311/people at another woman] being approached by [/EN#35313/people a man]
+[/EN#35307/people People] are gathered at [/EN#35308/scene a bar] .

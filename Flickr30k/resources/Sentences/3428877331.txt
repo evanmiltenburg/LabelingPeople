@@ -1,0 +1,5 @@
+[/EN#117521/people A man] working on [/EN#117523/vehicles/scene the construction of a large boat] .
+[/EN#117521/people The boat-man] is working on [/EN#117523/vehicles/scene an uncompleted boat] .
+[/EN#117521/people A man] in [/EN#117522/clothing a blue shirt] , works on [/EN#117523/other a long canoe] .
+[/EN#117521/people A man] in [/EN#117522/clothing a blue shirt] is fixing [/EN#117523/vehicles/scene s boat] .
+[/EN#117521/people A man] builds [/EN#117523/other a wooden ship] .

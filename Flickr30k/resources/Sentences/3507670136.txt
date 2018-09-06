@@ -1,0 +1,5 @@
+[/EN#123599/vehicles A motocross bike] is jumping through [/EN#0/notvisual the air] over [/EN#123604/scene a dirt track] .
+[/EN#123598/people A dirt biker] is taking [/EN#0/notvisual a large jump] wearing [/EN#123601/clothing a yellow suit] .
+[/EN#123598/people A person] wearing [/EN#123605/clothing yellow] is taking [/EN#0/notvisual a jump] on [/EN#123599/vehicles a dirt bike] .
+[/EN#123598/people The motorcycle racer] in [/EN#123601/clothing a yellow uniform] is in [/EN#123602/scene midair] .
+[/EN#123598/people A man] in [/EN#123601/clothing yellow] performs [/EN#0/notvisual a bike trick] .

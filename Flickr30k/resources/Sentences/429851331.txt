@@ -1,0 +1,5 @@
+[/EN#162148/animals A brown dog] holding [/EN#162150/other something] purple and black in [/EN#162152/bodyparts its mouth] .
+[/EN#162148/animals The wet dog] catches [/EN#162149/other a toy] while playing on [/EN#162151/other the sand] .
+[/EN#162148/animals A large wet yellow dog] retrives [/EN#162149/other his toy] .
+[/EN#162148/animals a dog] catches [/EN#162149/other black Frisbee] .
+[/EN#162148/animals Dog] running with [/EN#162149/other toy] .

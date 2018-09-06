@@ -1,0 +1,5 @@
+[/EN#171957/people Two younger women] and [/EN#171960/people an older man] in [/EN#171961/clothing a red sweatshirt] are walking across [/EN#171954/scene a crosswalk] in [/EN#171952/other San Francisco] .
+[/EN#171951/people Three people] in [/EN#171953/other a line] crossing [/EN#171954/scene a street] in front of [/EN#171958/scene a delicatessen] .
+[/EN#171951/people People] are walking in [/EN#171954/scene the crosswalk] beside [/EN#171958/scene a blue-gray store] .
+[/EN#171951/people three people] using [/EN#171954/scene the crosswalk] to cross [/EN#171954/scene the street] .
+[/EN#171951/other People of varying height] are crossing [/EN#171954/scene the street] .

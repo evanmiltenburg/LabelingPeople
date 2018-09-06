@@ -1,0 +1,5 @@
+[/EN#81299/people A sailor] in [/EN#81302/clothing a white shirt] holding [/EN#81304/bodyparts his hand] out as [/EN#81301/people men] and [/EN#81310/people women] pass and go up [/EN#81309/other some stairs] .
+[/EN#81299/people A sailor] in [/EN#81302/clothing uniform] is shaking [/EN#81305/bodyparts hands] with [/EN#81301/people people] standing in [/EN#81307/other line] .
+[/EN#81299/people A sailor] directs [/EN#81301/people a group of people] while [/EN#0/notvisual they] are on [/EN#81300/vehicles/scene a boat] .
+[/EN#81299/people A foreign sailor] greeting [/EN#81301/people people] as [/EN#0/notvisual they] board [/EN#81306/other a ship] .
+[/EN#81299/people sailor] welcoming [/EN#81301/people passengers] onto [/EN#81300/vehicles/scene boat] .

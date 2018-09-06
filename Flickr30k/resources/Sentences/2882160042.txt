@@ -1,0 +1,5 @@
+[/EN#78751/people an older man] with [/EN#78755/clothing a brown hat] and [/EN#78752/clothing brown jacket] seem to be doing [/EN#78759/other a repair job]
+[/EN#78751/people An older gentleman] wearing [/EN#78752/clothing a dark coat] and [/EN#78755/clothing hat] leaning over [/EN#78753/other a green object] .
+[/EN#78751/people A man] with [/EN#78761/other the mark of heavy age] checks [/EN#78754/other his document] thoroughly .
+[/EN#78751/people An older man] with [/EN#78760/clothing glasses] wearing [/EN#78752/clothing a black jacket] and [/EN#78755/clothing black hat] .
+[/EN#0/notvisual There] is [/EN#78751/people an old man] bending over [/EN#78753/other a piece of green machinery] .

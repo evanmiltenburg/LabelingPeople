@@ -1,0 +1,5 @@
+[/EN#117339/people A man] crosses [/EN#117346/scene the street] in between [/EN#117341/vehicles a bright orange car] and [/EN#117347/vehicles a yellow taxi cab] with [/EN#117342/other a contraption] comprised of [/EN#117340/other a basket] attached with [/EN#117354/other ropes] to carry [/EN#117344/other his wares] .
+[/EN#117339/people A woman] with [/EN#117350/clothing a straw hat] is carrying [/EN#117344/other a couple of baskets] and [/EN#117351/clothing bags] over [/EN#117356/bodyparts her shoulder] while walking between [/EN#117341/vehicles a car] and [/EN#117347/vehicles a taxi] .
+[/EN#0/notvisual There] is [/EN#117339/people a person] walking on [/EN#117346/scene the street] in between [/EN#117345/vehicles a red and yellow car] with [/EN#117349/clothing a bag] and [/EN#117340/other a basket] full of [/EN#117353/other items] .
+[/EN#117348/other The photo] is taken of [/EN#117355/people two people] walking between [/EN#117345/vehicles cars] in [/EN#117346/scene a street] .
+Carrying [/EN#117343/other a large basket] , [/EN#117339/people a man] navigates [/EN#117352/scene his way] through [/EN#117346/scene the street] .

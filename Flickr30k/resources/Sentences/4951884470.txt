@@ -1,0 +1,5 @@
+[/EN#222578/people a young man] walks through [/EN#222579/scene a puddle] outside with [/EN#222585/vehicles a blue three wheeler bike] is parked in [/EN#222579/scene the same puddle] .
+[/EN#222578/other A peron] in [/EN#222586/clothing a white top] and [/EN#222587/clothing blue pants] wades through [/EN#222579/scene a puddle] on [/EN#222580/scene a street] with [/EN#222583/other rickshaws] on [/EN#0/notvisual it] .
+[/EN#222578/people A man] treads through [/EN#222579/scene a large puddle] in [/EN#222584/scene the street of a poor-looking neighborhood] .
+[/EN#222578/people A man] walking across [/EN#222579/scene a big puddle of water] on [/EN#222580/scene a very busy street] .
+[/EN#222578/people A man] crosses through [/EN#222579/scene a large puddle] in [/EN#222580/scene a crowded street] in [/EN#222582/other Asia] .

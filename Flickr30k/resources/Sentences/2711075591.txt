@@ -1,0 +1,5 @@
+[/EN#67919/people Two people] are scuba diving in [/EN#67920/scene blue water] with [/EN#67924/other lots of bubbles] .
+[/EN#67919/people Two people] are scuba diving in [/EN#67920/scene the blue ocean] .
+[/EN#67919/people Two individuals] underwater [/EN#67925/other scuba] diving .
+[/EN#67919/people Two scuba divers] are [/EN#67923/scene diving underwater] .
+[/EN#67921/people Three people] scuba [/EN#67922/people dive] under [/EN#67920/scene the sea] .

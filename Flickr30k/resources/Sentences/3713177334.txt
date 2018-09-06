@@ -1,0 +1,5 @@
+[/EN#138836/people A group of people] painting [/EN#138837/scene the side of a building] in [/EN#138838/other an array of colors] .
+[/EN#138836/people A group of people] gathered around [/EN#138838/other a mural] in [/EN#138841/scene an urban area]
+[/EN#138839/people Many people] work on [/EN#138838/other a brightly-colored street mural] .
+[/EN#138839/people several people] painting [/EN#138838/other a colorful mural] on [/EN#138837/other a wall]
+[/EN#138838/other A mural] is being painted on [/EN#138838/other a wall] .

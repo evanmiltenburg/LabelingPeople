@@ -1,0 +1,5 @@
+[/EN#81572/people A smiling young woman] in [/EN#81574/clothing an orange jacket] and [/EN#81575/clothing jeans] , walking down [/EN#81573/scene a hiking trail] .
+[/EN#81572/people A woman] in [/EN#81574/clothing a orange coat] and [/EN#81575/clothing blue jeans] walking down [/EN#81573/scene a narrow path] in [/EN#81578/other the woods] .
+[/EN#81572/people A woman] in [/EN#81576/clothing glasses] and [/EN#81574/clothing an orange jacket] walking along [/EN#81573/scene a wilderness trail] .
+[/EN#81572/people Fat nerd] with [/EN#81576/clothing glasses] and [/EN#81574/clothing orange jacket] walks through [/EN#81577/scene the forest] .
+[/EN#81572/people Woman] in [/EN#81574/clothing orange jacket] and [/EN#81575/clothing jeans] walks on [/EN#81573/scene a trail] .

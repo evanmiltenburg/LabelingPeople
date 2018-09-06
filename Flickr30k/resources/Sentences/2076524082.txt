@@ -1,0 +1,5 @@
+[/EN#27216/people A man] and [/EN#27217/people a young girl] pose next to [/EN#27218/vehicles a red car] [/EN#0/notvisual that] is parked in [/EN#27219/scene a driveway] .
+[/EN#27216/people A man] standing by [/EN#27218/vehicles a red car] with [/EN#27220/people a small child] peering out [/EN#27221/other the window] .
+[/EN#27216/people A man] in [/EN#27222/clothing pants] and [/EN#27223/clothing a long-sleeved shirt] is standing next to [/EN#27218/vehicles a red car] .
+[/EN#27216/people A man] is standing outside of [/EN#27218/vehicles a red car] [/EN#0/notvisual which] is parked in [/EN#27219/scene a driveway] .
+[/EN#27216/people A man] stands by [/EN#27218/vehicles a red car] , as [/EN#27220/people a child] peers out from [/EN#27224/scene inside] .

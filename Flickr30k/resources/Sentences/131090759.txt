@@ -1,0 +1,5 @@
+[/EN#8256/people A man] selling [/EN#8259/other many wicker chairs] is pulling [/EN#0/notvisual a cart of them] through [/EN#8258/scene the street] .
+[/EN#8256/people A man] pulling [/EN#8257/vehicles a cart] filled with [/EN#8259/other many wooden chairs] down [/EN#8258/scene a city street] .
+[/EN#8256/people A man] pulls [/EN#8257/vehicles a wagon] full of [/EN#8259/other chairs] behind [/EN#0/notvisual him] down [/EN#8258/scene a city street] .
+[/EN#8256/people A man] is pulling [/EN#8257/vehicles a cart] covered in [/EN#8259/other chairs] .
+[/EN#8260/other This image] with [/EN#8259/other chairs] is very blurry .

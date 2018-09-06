@@ -1,0 +1,5 @@
+[/EN#63351/people A person] in [/EN#63356/clothing white clothes] and [/EN#63356/clothing a yellow safety vest] is riding [/EN#63352/vehicles a bike] along [/EN#63353/scene a road] .
+[/EN#63351/people A safety patrol officer] rides [/EN#63352/vehicles his bike] across [/EN#63353/scene a crosswalk] .
+[/EN#63351/people A person] wearing [/EN#63355/clothing a hard hat] rides [/EN#63352/vehicles a bicycle] on [/EN#63353/scene the street] .
+[/EN#63351/people This boy] is cycling to [/EN#63357/scene market] to get [/EN#63359/other vegetables] .
+[/EN#63351/people A Man] riding [/EN#63352/vehicles his bike] to work .

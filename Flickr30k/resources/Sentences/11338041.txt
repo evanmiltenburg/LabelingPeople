@@ -1,0 +1,5 @@
+[/EN#3454/people People] waiting to enter [/EN#3455/scene a white building] through [/EN#3456/scene an entry way] with [/EN#3457/other an orange handwritten sign] to [/EN#0/notvisual the left of it] .
+[/EN#3454/people Three people] enter [/EN#3455/scene a building] with [/EN#3457/other a handwritten sign] [/EN#0/notvisual that] says " [/EN#3458/people Welcome Bikers] . "
+[/EN#3454/people A line of people] wait to enter [/EN#3455/scene a building] with [/EN#3457/other a sign] posted " [/EN#3458/people Welcome Bikers] . "
+[/EN#3454/people A group of people] enter [/EN#3456/scene a doorway] next to [/EN#3457/other a red sign] reading " [/EN#3458/people WELCOME Bikers] " .
+[/EN#3454/people A group of people] entering [/EN#3455/scene a building] .

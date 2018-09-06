@@ -1,0 +1,5 @@
+[/EN#263125/people Person] in [/EN#263127/clothing orange pant] skiing in [/EN#263130/scene an event] sponsored by [/EN#263128/other VISA] .
+[/EN#263125/people A person] in [/EN#263127/clothing orange pants] is skiing down [/EN#263126/other a slope] .
+[/EN#263125/people skier] in [/EN#263127/clothing red pants] skiing down [/EN#263126/other a slope]
+[/EN#263125/people Somebody] is skiing down [/EN#263129/scene a mountain] .
+[/EN#263125/people aerial view of a competitive skier]

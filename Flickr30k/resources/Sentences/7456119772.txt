@@ -1,0 +1,5 @@
+[/EN#270018/people A person] wearing [/EN#270020/clothing goggles] with [/EN#270023/other a white strap] and [/EN#270022/bodyparts short blond-hair] swims in [/EN#270019/scene a pool] .
+[/EN#270018/people A Guy] is swimming in [/EN#270019/scene the pool] with [/EN#270021/bodyparts his eye] goggles on .
+[/EN#270018/people A man] wearing [/EN#270020/clothing goggles] is swimming in [/EN#270019/scene a pool] .
+[/EN#270018/people A blond man] swimming with [/EN#270020/clothing silver goggles]
+[/EN#270018/people A man] swims in [/EN#270019/scene a pool] with [/EN#270020/clothing goggles] on .

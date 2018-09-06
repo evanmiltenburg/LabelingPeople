@@ -1,0 +1,5 @@
+[/EN#161340/people A man] wearing [/EN#161341/clothing a long-sleeve , blue plaid shirt] and [/EN#161350/clothing tan pants] kneels next to [/EN#161347/vehicles a wheeled cart] in [/EN#161342/scene a garage] .
+[/EN#161340/people A man] in [/EN#161341/clothing a blue , plaid shirt] in [/EN#161342/scene a garage] wearing [/EN#161344/clothing a protective mask] and using [/EN#161346/other a torch] on [/EN#161348/other his workbench] .
+[/EN#161340/people A man] wearing [/EN#161341/clothing a flannel shirt] is knelt down [/EN#161351/other working] in [/EN#161342/scene a garage] .
+[/EN#161340/people A man] personally performs [/EN#161345/other a task] in [/EN#161342/scene a garage] with [/EN#161349/other many shelves] .
+[/EN#161340/people A man] in [/EN#161341/clothing a plaid shirt] works on [/EN#161352/bodyparts his knees] near [/EN#161343/vehicles a blue truck] .

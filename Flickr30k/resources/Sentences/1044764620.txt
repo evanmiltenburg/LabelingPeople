@@ -1,0 +1,5 @@
+[/EN#1164/people A man] on [/EN#1167/other a ladder] is painting [/EN#1165/other a brick wall] in [/EN#1163/scene a warehouse] .
+[/EN#1164/people A man] is standing on [/EN#1167/other a ladder painting] bricks
+[/EN#1163/scene A construction site] with [/EN#1168/other building material] .
+[/EN#1164/people Man] painting [/EN#1165/other a brick wall] on [/EN#1167/other a ladder] .
+[/EN#1164/people A man] is panting [/EN#1166/other a piece of wood] .

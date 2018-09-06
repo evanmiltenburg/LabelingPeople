@@ -1,0 +1,5 @@
+[/EN#44770/people A small child] wearing [/EN#44771/clothing a blue coat] climbing into [/EN#44772/vehicles a red toy car] .
+[/EN#44770/people A little boy] in [/EN#44771/clothing a blue coat] is climbing into [/EN#44772/vehicles a red play truck] .
+[/EN#44770/people a small boy] in [/EN#44771/clothing a blue jacket] climbs into [/EN#44772/vehicles a power wheels vehicle]
+[/EN#44770/people A child] climbs into [/EN#44772/vehicles a go-kart] .
+[/EN#44770/people A boy] climbs into [/EN#44772/vehicles his toy car] .

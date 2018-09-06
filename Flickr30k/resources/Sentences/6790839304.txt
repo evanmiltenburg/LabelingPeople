@@ -1,0 +1,5 @@
+[/EN#258200/people Two people] sitting on [/EN#258203/other a brick wall] in [/EN#258209/scene a city] eating out of [/EN#258205/other a brown box] with [/EN#258208/other the sun] shining down on [/EN#0/notvisual them] .
+[/EN#258200/people Two ladies] are sitting on [/EN#258203/other something] made of [/EN#258203/other concrete] , while enjoying [/EN#258205/other a snack] .
+[/EN#258202/people Two people] , [/EN#258204/people a man] and [/EN#258200/people a woman] , are sitting on [/EN#258203/other a ledge]
+[/EN#258202/people Two women] are sitting on [/EN#258203/other a ledge] eating [/EN#258205/other food] .
+[/EN#258200/people A woman] and [/EN#258204/people man] sitting on [/EN#258203/other a stone wall] .

@@ -1,0 +1,5 @@
+[/EN#244341/people A motorcycle racer] in [/EN#244346/other red and yellow leathers] is riding [/EN#244344/vehicles a red and white Ducati sport bike] and leaned over in [/EN#244348/other a right hand turn] on [/EN#244343/scene a track] .
+[/EN#244341/people A man] wearing [/EN#244346/clothing red and yellow] riding [/EN#244344/vehicles a red sport bike] driving on [/EN#244343/other a racetrack] .
+[/EN#244341/people Motorcycle racer] with [/EN#244347/other a Ducati sticker] on [/EN#0/notvisual the side] .
+[/EN#244341/people A man] on [/EN#244342/other a speed motorcycle] rides on [/EN#244343/scene a track] .
+[/EN#244341/people A person] rides [/EN#244342/other a motorcycle] on [/EN#244343/other a racetrack] .

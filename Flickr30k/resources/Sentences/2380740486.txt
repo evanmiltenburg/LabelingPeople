@@ -1,0 +1,5 @@
+[/EN#45309/people A little girl] is creeping behind [/EN#45312/animals two ducks] at [/EN#45314/scene the top of a cliff] overlooking [/EN#45311/scene the ocean] .
+[/EN#45309/people A person] trails behind [/EN#45312/animals some ducks] on [/EN#45315/scene the water] to [/EN#45311/scene a lake] .
+[/EN#45309/people Girl] with [/EN#45312/animals two ducks] on [/EN#45313/scene cliff] overlooking [/EN#45311/scene the water] .
+[/EN#45309/people A girl] and [/EN#45312/animals some ducks] walk towards [/EN#45311/scene the water] .
+[/EN#45309/people A woman] walks after [/EN#45312/animals two geese] near [/EN#45311/scene the ocean] .

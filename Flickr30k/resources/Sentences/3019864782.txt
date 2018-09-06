@@ -1,0 +1,5 @@
+[/EN#87912/people A young girl] is sitting in [/EN#87914/other a purple fold] up [/EN#87914/other chair] reading [/EN#87913/other a book] .
+[/EN#87912/people A young girl] is sitting in [/EN#87914/other a chair] and reading [/EN#87913/other a book] .
+[/EN#87912/people child] sitting outside on [/EN#87914/other a chair] and reading [/EN#87913/other a book] .
+[/EN#87912/people A child] sitting in [/EN#87914/other a purple chair] reading [/EN#87913/other a book] .
+[/EN#87912/people A young girl] is reading [/EN#87913/other a book] in [/EN#87914/other her chair] .

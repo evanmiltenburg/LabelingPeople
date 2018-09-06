@@ -1,0 +1,5 @@
+[/EN#67755/people A woman] is using [/EN#67757/other Frisbees] to play with [/EN#67754/animals a dog] in front of [/EN#67761/people a stadium crowd] and [/EN#67764/people a group of baseball players] .
+[/EN#67755/people A person] in [/EN#67768/clothing shorts] is holding [/EN#67758/other a Frisbee] while [/EN#67766/people team member] in [/EN#67769/clothing red shirts] and [/EN#67765/people spectators] look on .
+[/EN#67755/people Woman] and [/EN#67754/animals dog] do [/EN#0/notvisual Frisbee tricks] as [/EN#67761/people crowd] watches in [/EN#67759/scene baseball stadium] .
+[/EN#67754/animals A dog] jumps in [/EN#0/notvisual the air] to catch [/EN#67758/other a Frisbee] , while [/EN#67760/people many people] watch .
+[/EN#67754/animals A dog] catches [/EN#67758/other a Frisbee] at [/EN#67759/scene a baseball field] during [/EN#67763/other a game] .

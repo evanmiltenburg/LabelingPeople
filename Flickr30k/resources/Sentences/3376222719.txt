@@ -1,0 +1,5 @@
+[/EN#114005/people A woman] wearing [/EN#114007/clothing a red shirt] and [/EN#114013/clothing sunglasses] speaks to [/EN#114006/people a man] in [/EN#114010/clothing a turquoise shirt] and [/EN#114014/clothing sunglasses] while standing behind [/EN#114006/people a bearded man] wearing [/EN#114008/clothing a burgundy shirt] and [/EN#114011/clothing khaki pants] .
+[/EN#114005/people A woman] in [/EN#114007/clothing a bright orange top] is talking to [/EN#114006/people a man] in [/EN#114008/clothing a green shirt] , and in front of [/EN#0/notvisual them] is [/EN#114006/people a man] in [/EN#114008/clothing a red shirt] .
+[/EN#114006/people A man] and [/EN#114005/people a woman] are [/EN#114015/other talk] while standing behind [/EN#114006/people a man] wearing [/EN#114008/clothing a shirt] [/EN#0/notvisual that] says " Support [/EN#114016/scene Your Local Brewery] " .
+[/EN#114005/people A woman] in [/EN#114007/clothing a salmon colored shirt] speaks and gestures to [/EN#114006/people a man] in [/EN#114008/clothing a green shirt] .
+[/EN#114005/people A female] and [/EN#114006/people a male] are waiting in [/EN#114012/other line] .

@@ -1,0 +1,5 @@
+[/EN#68342/people Two smiling boys] walk in [/EN#68344/scene a grassy field] with [/EN#68343/vehicles a small trailer] behind [/EN#0/notvisual them] .
+[/EN#68342/people The two boys] play in [/EN#68344/scene the field] .
+[/EN#68342/people Two boys] happily pull [/EN#68343/vehicles cart] .
+[/EN#68342/people Two boys] pulling [/EN#68343/vehicles a wagon] .
+[/EN#68342/people Two boys] and [/EN#68343/vehicles a cart] .

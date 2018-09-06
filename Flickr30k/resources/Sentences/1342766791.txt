@@ -1,0 +1,5 @@
+[/EN#9256/people one small boy] climbing [/EN#9255/other a pole] with [/EN#9253/people the help of another boy] on [/EN#0/notvisual the ground]
+[/EN#9253/people One boy] is helping [/EN#9256/people another boy] to climb [/EN#9255/other a green pole] in [/EN#9254/scene the street] .
+[/EN#9253/people Little boy] pushing [/EN#9256/people another little boy] up [/EN#9255/other the pole] .
+[/EN#9253/people The boy] is trying to push [/EN#0/notvisual another] up [/EN#9255/other a pole] .
+[/EN#9253/people A boy] pushing [/EN#9256/people another boy] up [/EN#9255/other a pole] .

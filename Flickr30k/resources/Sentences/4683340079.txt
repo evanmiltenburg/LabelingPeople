@@ -1,0 +1,5 @@
+[/EN#190107/people A man] in [/EN#190108/clothing a dark red tunic] walks by [/EN#190111/people a couple] in [/EN#190113/clothing black t-shirts] while holding [/EN#190110/other a wooden spear] .
+[/EN#190107/people A man] in [/EN#190108/clothing a reddish rust colored coat] carrying [/EN#190110/other a large wooden stake] .
+[/EN#190107/people A man] wearing [/EN#190108/clothing a dark red robe] carrying [/EN#190110/other a wooden stick] .
+[/EN#190107/people A man] stands on [/EN#0/notvisual a sandy ground] holding [/EN#190110/other a spear] .
+[/EN#190107/people A man] in [/EN#190108/clothing a dark red robe] carrying [/EN#190110/other a stake] .

@@ -1,0 +1,5 @@
+[/EN#63776/people A child] is leaping from [/EN#63777/other one bed] to [/EN#0/notvisual another] in [/EN#63779/scene the same room] .
+[/EN#63776/people A small blond child] jumping from [/EN#63777/other one bed] to [/EN#0/notvisual another] .
+[/EN#63776/people A little blond boy] jumps from [/EN#63777/other one bed] to [/EN#0/notvisual another] .
+[/EN#63776/people A young blond boy] is jumping from [/EN#63777/other bed] to [/EN#63778/other bed] .
+[/EN#63776/people A small boy] leaps from [/EN#63777/other one bed] to [/EN#0/notvisual another] .

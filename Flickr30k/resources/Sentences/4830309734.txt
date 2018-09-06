@@ -1,0 +1,5 @@
+[/EN#208370/people A smiling middle-aged man] wearing [/EN#208373/clothing over-sized red sunglasses] and [/EN#208371/clothing a colorful patterned shirt] sits in [/EN#208374/scene the grass] in front of [/EN#208375/scene a blue-green backdrop] .
+[/EN#208370/people A man] in [/EN#208371/clothing a colorful shirt] , [/EN#208372/clothing blue jeans] and [/EN#208373/clothing large red sunglasses] is sitting on [/EN#208374/scene the grass] with [/EN#208377/bodyparts his hands] on [/EN#208378/bodyparts his knee] .
+[/EN#208370/people A black man] wearing [/EN#208373/clothing round sunglasses] , [/EN#208371/clothing a colorful shirt] , and [/EN#208372/clothing blue jeans] sitting on [/EN#0/notvisual the ground] .
+[/EN#208370/people A man] is sitting down and wearing [/EN#208373/clothing round , red glasses] .
+[/EN#208370/people A guy] sitting in [/EN#208374/scene the grass] with [/EN#208373/clothing sunglasses] on .

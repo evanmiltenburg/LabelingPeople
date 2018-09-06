@@ -1,0 +1,5 @@
+[/EN#14616/people A man] in [/EN#14617/clothing a blue jacket] holding [/EN#14621/other a handsaw] sawing [/EN#14619/other a pipe] on top of [/EN#14618/scene a wood fence] .
+[/EN#14616/people A man] in [/EN#14617/clothing a blue jacket] is sawing [/EN#14619/other a piece of wood] in [/EN#14623/other half] .
+[/EN#14616/people A man] saws through [/EN#14619/other a piece of wood] to repair [/EN#14618/scene a fence] .
+[/EN#14616/people A man] in [/EN#14617/clothing a blue jacket] saws through [/EN#14619/other a piece of pipe] .
+[/EN#14616/people A man] sawing [/EN#14619/other wood] on [/EN#14618/scene a fence] .

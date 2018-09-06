@@ -1,0 +1,5 @@
+[/EN#250386/people A man] in [/EN#250387/clothing an orange work outfit] is sitting in [/EN#250390/scene a crane] , waiting to be lifted .
+[/EN#250386/people A man] in [/EN#250392/clothing a hard hat] and [/EN#250387/clothing jumpsuit] sits on [/EN#250388/other a yellow object] .
+[/EN#250386/people A man] working on [/EN#250390/vehicles/scene the boat] " [/EN#250386/people California 's Keeper] " .
+[/EN#250386/people Man] sitting atop [/EN#250388/other oil rig] on [/EN#250394/other machine] working .
+[/EN#250386/people guy] does [/EN#250393/other his job] in [/EN#250395/scene the middle of the ocean]

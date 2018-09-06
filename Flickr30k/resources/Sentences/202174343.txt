@@ -1,0 +1,5 @@
+[/EN#25096/people A woman] wearing [/EN#25097/clothing a pink shirt] and [/EN#25098/clothing a blue helmet] is rock climbing .
+[/EN#25096/people A person] in [/EN#25097/clothing a pink shirt] and [/EN#25098/clothing a blue helmet] climbing [/EN#25100/other a rock wall] .
+[/EN#25096/people Someone] with [/EN#25097/clothing a pink shirt] and [/EN#25098/clothing blue helmet] climbing [/EN#25100/other a rock wall] .
+[/EN#25096/people A young woman] with [/EN#25098/clothing a blue helmet] climbing up [/EN#25100/other a rock] .
+[/EN#25096/people A woman] rock climbing on [/EN#25099/scene a sunny day] .

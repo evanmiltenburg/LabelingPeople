@@ -1,0 +1,5 @@
+[/EN#38666/people A young girl] wearing [/EN#38671/clothing pink] is pushing [/EN#38669/vehicles a green wheelbarrow] with [/EN#38667/people a young blond boy] in [/EN#0/notvisual it] .
+[/EN#38667/people A little boy] is sitting in [/EN#38668/other a wheel barrel] while [/EN#38666/people a girl] in [/EN#38671/clothing pink] holds [/EN#38670/other the handles] .
+[/EN#38667/people A young boy] rides in [/EN#38669/vehicles a wheelbarrow] as [/EN#38666/people a young girl] holds [/EN#38670/other the handles] .
+[/EN#38666/people The girl] is holding [/EN#38669/vehicles the wheelbarrow] while [/EN#38667/people the boy] sits inside .
+[/EN#38667/people a young boy] in [/EN#38668/other a green wheel barrel] with [/EN#38666/people a girl] pushing [/EN#0/notvisual him] .

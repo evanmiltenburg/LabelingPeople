@@ -1,0 +1,5 @@
+[/EN#52850/people A man] driving [/EN#52851/vehicles a red and black go-kart] with [/EN#52852/other number " 11 "] on [/EN#0/notvisual it] .
+[/EN#52850/people A man] makes [/EN#52853/other a hand gesture] while riding [/EN#52851/vehicles a go-cart] .
+[/EN#52850/people A Man] is riding [/EN#52851/vehicles a go-cart] at [/EN#52855/scene the go-cart track] .
+[/EN#52850/people A man] wearing [/EN#52854/clothing a helmet] is driving [/EN#52851/vehicles a go-cart] .
+[/EN#52850/people A man] wearing [/EN#52854/clothing a helmet] is driving [/EN#52851/vehicles a go-cart] .

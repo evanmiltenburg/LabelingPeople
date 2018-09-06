@@ -1,0 +1,5 @@
+[/EN#190555/people A large group of people] are gathered in [/EN#190562/scene a courtyard] , with [/EN#190558/other some laying] on [/EN#190556/other mats] .
+[/EN#190555/people A group of people] [/EN#190560/other some] are standing and [/EN#190558/other some] are lying on [/EN#0/notvisual the ground] outside .
+[/EN#190559/people A group of men] and [/EN#190561/people women] are praying outside .
+[/EN#190555/people A group of people] using [/EN#190556/other mats] on [/EN#0/notvisual the ground] .
+[/EN#190555/people Several people] are praying in [/EN#190557/other the square] .

@@ -1,0 +1,5 @@
+[/EN#42607/people A girl] with [/EN#42609/bodyparts dark brown hair] and [/EN#42610/bodyparts eyes] in [/EN#42611/clothing a blue scarf] is standing next to [/EN#42606/people a girl] in [/EN#42607/other a fur] edged [/EN#42607/clothing coat] .
+[/EN#42604/people Two girls] are looking past [/EN#0/notvisual each other] in [/EN#0/notvisual different directions] while standing in [/EN#42605/people a crowd] .
+[/EN#42608/people an Asian boy] and [/EN#42606/people an Asian girl] are smiling in [/EN#42605/people a crowd of people] .
+[/EN#42604/people Two dark-haired girls] are in [/EN#42605/people a crowd] .
+[/EN#42604/people The girls] were in [/EN#42605/people the crowd] .

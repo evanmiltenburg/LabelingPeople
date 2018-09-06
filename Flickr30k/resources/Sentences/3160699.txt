@@ -1,0 +1,5 @@
+[/EN#97377/people A man] with [/EN#97379/bodyparts a mustache] and [/EN#97382/clothing glasses] in [/EN#97380/clothing a red jacket] stands in [/EN#97375/scene an open doorway] at [/EN#97376/other the bottom of some stairs] , holding [/EN#97383/other his keys] .
+[/EN#97377/people Man] in [/EN#97380/clothing red jacket] is opening [/EN#97381/other the door] while holding [/EN#97383/other his car keys] .
+[/EN#97377/people A man] in [/EN#97380/clothing a red windbreaker] leaves [/EN#97375/scene his house] with [/EN#97383/other his keys] .
+[/EN#97377/people A man] with [/EN#97382/clothing glasses] and [/EN#97379/bodyparts a mustache] opens up [/EN#97381/other a wooden door] .
+[/EN#97377/people A man] in [/EN#97380/clothing a red jacket] standing in [/EN#97375/scene a doorway] .

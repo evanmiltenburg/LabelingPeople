@@ -1,0 +1,5 @@
+[/EN#7606/other Roppolo 's Pizzeria serves] is open at [/EN#7610/scene night] and serving [/EN#7609/people customers] .
+[/EN#7601/people Someone] took [/EN#7607/scene a blurred picture of a pizzeria restaurant] .
+[/EN#7603/people Workers] are in [/EN#7608/scene the kitchen] while [/EN#7602/people a man] sits at [/EN#7604/other a table] .
+[/EN#7603/people workers] at [/EN#7600/scene Roppolo 's pizzeria] busy at [/EN#7611/other work] .
+[/EN#7605/people A person] is setting at [/EN#7604/other a table] in [/EN#7600/other a cafe] .

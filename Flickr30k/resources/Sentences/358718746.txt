@@ -1,0 +1,5 @@
+[/EN#129772/people A man] wearing [/EN#129780/clothing a black t-shirt] gives [/EN#129775/other a food order] in [/EN#129781/scene a restaurant] .
+[/EN#129772/people A man] looks over [/EN#129776/other a menu] while [/EN#129773/people the waiter] waits to take [/EN#129775/other his order] .
+[/EN#129773/people A waiter] takes [/EN#129775/other an order] from [/EN#129772/people a man] [/EN#0/notvisual who] is looking at [/EN#129776/other the menu] .
+[/EN#129772/people A customer] ordering [/EN#129778/other food] as [/EN#129773/people the waiter] writes down [/EN#129775/other his order] .
+[/EN#129772/people Young guy] looking at [/EN#129776/other a menu] ordering [/EN#129778/other food] .

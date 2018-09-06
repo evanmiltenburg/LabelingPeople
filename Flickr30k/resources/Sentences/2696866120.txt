@@ -1,0 +1,5 @@
+[/EN#66729/animals A dirty tan dog] rolling in [/EN#66730/scene the dirt] and looking right at [/EN#0/notvisual the camera] .
+[/EN#66729/animals Dog] with [/EN#66731/clothing black collar] rolling in [/EN#66730/scene dirt] and [/EN#66732/other dried leaves]
+[/EN#66729/animals The brown dog] is rolling around in [/EN#66730/scene the dirt] .
+[/EN#66729/animals A dog] rolls on [/EN#0/notvisual the ground] .
+[/EN#66729/animals A dog] lies on [/EN#0/notvisual the ground] .

@@ -1,0 +1,5 @@
+[/EN#23771/people People] are walking on [/EN#23772/scene the sidewalk] along [/EN#23773/scene the parking lot] in front of [/EN#23774/scene a home improvement store] .
+[/EN#23775/people three people] are picking up [/EN#23776/other trash] in front of [/EN#23774/scene a restaurant] .
+[/EN#23771/people People] taking [/EN#23779/other a walk] on [/EN#23772/scene a path] in [/EN#23774/scene a shopping center] .
+[/EN#23777/people A couple] walking on [/EN#23772/scene a sidewalk] along [/EN#23774/scene a strip mall] .
+[/EN#23771/people a group of people] walking by [/EN#23778/vehicles two SUVs]

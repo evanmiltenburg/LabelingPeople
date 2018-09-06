@@ -1,0 +1,5 @@
+[/EN#12312/people A young woman] wearing [/EN#12318/clothing glasses] is eating [/EN#12315/animals a piece of chicken] .
+[/EN#12312/people A woman] sharing [/EN#12313/other food] with [/EN#12317/people another person] .
+[/EN#12316/people Two people] are eating [/EN#12314/other a meal] together .
+[/EN#12312/people A woman] shares [/EN#0/notvisual her] meal with [/EN#0/notvisual another] .
+[/EN#12312/people A woman] eating [/EN#12313/other food] with [/EN#12319/bodyparts her hands] .

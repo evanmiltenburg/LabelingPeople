@@ -1,0 +1,5 @@
+[/EN#194901/people A woman] wearing [/EN#194904/clothing black heels] and carrying [/EN#194906/clothing a white purse] is walking down [/EN#194905/scene a lone street] aligned with [/EN#194908/other thin trees] .
+[/EN#194901/people A woman] wearing [/EN#194907/clothing a white shirt] and [/EN#194902/clothing a skirt] is walking down [/EN#194903/scene the sidewalk] .
+[/EN#194901/people A woman] wearing [/EN#194902/clothing a short skirt] and [/EN#194904/clothing high heels] walks down [/EN#194903/scene a street] .
+[/EN#194901/people A woman] in [/EN#194902/clothing a white shirt] walking down [/EN#194903/scene a sidewalk] .
+[/EN#194901/people A woman] in [/EN#194904/clothing high heels] is walking away .

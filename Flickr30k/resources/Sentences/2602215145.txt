@@ -1,0 +1,5 @@
+[/EN#60847/people A man] with [/EN#60852/clothing a plaid shirt] and [/EN#60849/clothing green hat] mows [/EN#60848/scene the lawn] near [/EN#60851/scene the sidewalk] .
+[/EN#60847/people A man] in [/EN#60849/clothing a green hat] is standing on [/EN#60851/scene a sidewalk] behind [/EN#60850/other a lawn mower] .
+[/EN#60847/people A man] with [/EN#60849/clothing green cap] standing near [/EN#60853/scene a street] with [/EN#60850/other a lawn mower] .
+[/EN#60848/scene The grass] is grown more and [/EN#0/notvisual I] have to clean [/EN#60851/scene the path way] .
+[/EN#60847/people A man] with [/EN#60849/clothing a green cap] is pushing [/EN#60850/other a lawn mower] .

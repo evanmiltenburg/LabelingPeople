@@ -1,0 +1,5 @@
+[/EN#66067/people A boy] on [/EN#66068/vehicles a bicycle] rides [/EN#66069/scene the ledge of water fountain] while [/EN#66075/people another boy] is in [/EN#66074/scene the fountain] .
+[/EN#66067/people A young man] on [/EN#66068/vehicles a bike] balances [/EN#66072/other one wheel] on [/EN#66069/scene the edge of a fountain] in [/EN#66073/scene a city park] .
+[/EN#66067/people A man] on [/EN#66068/vehicles a bike] tries to do [/EN#0/notvisual a trick] on [/EN#66069/scene the railing of an outdoor fountain] .
+[/EN#66067/people a man] wearing [/EN#66076/clothing a blue shirt] and [/EN#66077/clothing hat] jumping on [/EN#66072/other one wheel] on [/EN#66069/other a fountain ledge]
+[/EN#66067/people The guy] on [/EN#66068/vehicles his bike] does [/EN#0/notvisual a jump] near [/EN#66069/scene a water fountain] .

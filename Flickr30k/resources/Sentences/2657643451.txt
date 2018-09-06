@@ -1,0 +1,5 @@
+[/EN#64446/people A woman] and [/EN#64447/animals dog] running down [/EN#64448/other an asphalt] , [/EN#64448/scene tree lined road] .
+[/EN#64446/people A person] and [/EN#64447/animals a dog] run on [/EN#64448/scene a paved road] near [/EN#64450/scene a forest] .
+[/EN#64446/people Someone] in [/EN#64451/clothing a green shirt] running behind [/EN#64447/animals a small dog] .
+[/EN#64446/people A person] jogs down [/EN#64448/scene a gravel road] after [/EN#64447/animals a small dog] .
+[/EN#64446/people A person] runs with [/EN#64447/animals a dog] .

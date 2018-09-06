@@ -1,0 +1,5 @@
+[/EN#988/people A man] in [/EN#994/clothing a green shirt] and [/EN#991/clothing red life jacket] is sitting in [/EN#990/other a canoe] drifting around [/EN#989/scene the lake] .
+[/EN#988/people A man] wearing [/EN#991/clothing a life jacket] is in [/EN#992/vehicles/scene a small boat] on [/EN#989/scene a lake] with [/EN#993/other a ferry] in [/EN#995/scene view] .
+[/EN#988/people A man] wearing [/EN#991/clothing a red life-vest] is sitting in [/EN#990/other a canoe] on [/EN#989/scene a body of water] .
+[/EN#988/people A balding man] wearing [/EN#991/clothing a red life jacket] is sitting in [/EN#992/vehicles/scene a small boat] .
+[/EN#988/people A man] in [/EN#991/clothing a red life vest] is riding in [/EN#990/other a canoe] .

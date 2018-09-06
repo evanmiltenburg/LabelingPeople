@@ -1,0 +1,5 @@
+[/EN#71437/people A crowd] is walking across [/EN#71440/scene the street] at [/EN#71438/scene a busy intersection] with [/EN#71442/vehicles many cars] and [/EN#71439/other many advertisements] .
+[/EN#71436/people Time lapse of many people] crossing [/EN#71440/scene a street] in front of [/EN#71439/other a large group of billboards] .
+[/EN#71441/people Blurred time exposure of pedestrians] crossing [/EN#71440/scene street] .
+[/EN#0/notvisual There] is [/EN#71438/scene a busy street] , with [/EN#71436/people many people] crossing .
+[/EN#71436/people A group of people] are crossing [/EN#71438/scene a busy street] .

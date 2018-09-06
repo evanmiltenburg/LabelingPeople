@@ -1,0 +1,5 @@
+[/EN#231910/people A guy] is approaching [/EN#231916/scene a graffiti covered garage] labeled [/EN#231918/other UTOPIA] next to [/EN#231921/scene a shop] called [/EN#231921/bodyparts Sevilla Tattoo] while [/EN#231923/people a woman] walks [/EN#231929/animals a dog] by [/EN#231927/other the same location] .
+[/EN#231910/people A guy] with [/EN#231909/people an orange , gray and bluejacket] pulling [/EN#231930/vehicles a cart] down [/EN#231914/scene a sidewalk] in front of [/EN#231916/other a mural] on [/EN#231919/scene a building] .
+[/EN#231910/people A man] in [/EN#231915/clothing a blue and orange suit] is cleaning by [/EN#231916/scene a garage] with [/EN#231916/other graffiti] on [/EN#0/notvisual it] .
+[/EN#231910/people Someone] outside wearing [/EN#231920/clothing an orange] and [/EN#231915/clothing blue outfit] pulling [/EN#231924/other a yellow box] .
+[/EN#231914/scene A street] [/EN#231910/people cleaner] walks up [/EN#231914/scene the street] with [/EN#231926/other his broom] and [/EN#231925/other dustpan] .

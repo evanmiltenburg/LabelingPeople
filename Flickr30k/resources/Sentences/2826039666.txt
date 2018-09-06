@@ -1,0 +1,5 @@
+[/EN#75080/people A man] wearing [/EN#75081/clothing a construction hat] and [/EN#75082/clothing vest] walking in front of [/EN#75084/vehicles a stopped big red semi] in [/EN#75083/scene a forested area] .
+[/EN#75080/people A man] in [/EN#75082/clothing a construction vest] and [/EN#75081/clothing hat] crosses [/EN#75085/scene the road] in front of [/EN#75084/vehicles a large truck] in [/EN#75083/scene a wooded area] .
+[/EN#75080/people A construction worker] stands in front of [/EN#75084/vehicles a red truck] [/EN#0/notvisual which] has [/EN#75086/other the word] " [/EN#75087/other hot] " on [/EN#0/notvisual the side] .
+[/EN#75080/people A man] in [/EN#75081/clothing a hard hat] standing in front of [/EN#75084/vehicles a red and silver truck] .
+[/EN#75080/people A man] in [/EN#75081/clothing a hard hat] is walking in front of [/EN#75084/vehicles a truck] .

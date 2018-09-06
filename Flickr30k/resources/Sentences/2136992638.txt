@@ -1,0 +1,5 @@
+[/EN#30662/animals Two dogs] , [/EN#30661/clothing one brown] , [/EN#30666/clothing the other black and white] , are playing on [/EN#30665/scene a sidewalk] .
+[/EN#30661/clothing A brown] and [/EN#30664/animals a black dog] are wearing [/EN#30668/clothing collars] and playing with [/EN#0/notvisual each other] .
+[/EN#30662/animals Two dogs] , [/EN#30661/clothing one brown] and [/EN#30666/clothing one black] , playing with [/EN#0/notvisual each other] .
+[/EN#30662/animals The brown dog] with [/EN#30667/clothing a red collar] is biting [/EN#30664/animals the black dog] .
+[/EN#30662/animals A brown dog] biting [/EN#30664/animals a black dog] on [/EN#30665/scene a sidewalk]

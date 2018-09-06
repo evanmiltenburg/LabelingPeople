@@ -1,0 +1,5 @@
+[/EN#238379/people Three horse riders] , [/EN#238378/other one] on [/EN#238382/animals a pony] , are traveling in [/EN#238383/other a straight line] behind [/EN#238391/people the first horse rider] .
+[/EN#238378/people A little girl] wearing [/EN#238390/clothing striped pants] , [/EN#238381/clothing a pink top] , and [/EN#238384/clothing boots] follows [/EN#238392/people two older girls] on [/EN#238386/other horseback] .
+[/EN#238379/people Three girls] wearing [/EN#238385/clothing gray riding helmets] are riding [/EN#238387/animals horses] [/EN#238388/other one] behind [/EN#0/notvisual another] .
+[/EN#238379/people Three girls] are horseback riding with [/EN#238380/scene the focus] on [/EN#238378/people the youngest girl] .
+[/EN#238379/people Three women] go horseback riding and [/EN#238378/people the youngest girl] is in [/EN#238380/scene focus] .

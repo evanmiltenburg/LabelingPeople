@@ -1,0 +1,5 @@
+[/EN#162782/people A man] in [/EN#162787/clothing a hat] is standing next to [/EN#162785/people a woman] beside [/EN#162781/vehicles/scene a bus] .
+[/EN#162781/vehicles/scene A bus] stops to pick up [/EN#162783/people passengers] at [/EN#162784/other a bus stop] .
+[/EN#162781/vehicles/scene A bus] opens [/EN#162786/other its door] to let [/EN#162783/people people] on and off .
+[/EN#162782/people A man] and [/EN#162785/people a woman] wait at [/EN#162784/other a bus stop] .
+[/EN#162783/people Two people] about to board [/EN#162781/vehicles/scene a bus] .

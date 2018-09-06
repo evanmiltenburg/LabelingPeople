@@ -1,0 +1,5 @@
+[/EN#187590/people A woman] wears [/EN#187592/clothing a yellow floral top] and carries [/EN#187591/other a cup of coffee] while [/EN#187594/scene walking downtown] .
+[/EN#187590/people A woman] wearing [/EN#187592/clothing a yellow flowered top] is carrying [/EN#187591/other a Starbucks coffee cup] .
+[/EN#187590/people A woman] walking with [/EN#187591/other a beverage] in [/EN#187595/bodyparts her right hand] .
+[/EN#187590/people Woman] in [/EN#187593/scene busy street] holding [/EN#187591/other a Starbucks coffee] .
+[/EN#187590/people A woman] is drinking [/EN#187591/other her coffee] .

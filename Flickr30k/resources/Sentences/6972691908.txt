@@ -1,0 +1,5 @@
+[/EN#262885/people A young person] , wears [/EN#262888/clothing red sandals] , [/EN#262895/clothing black pants] and [/EN#262893/clothing a blue shirt] , [/EN#262887/bodyparts his head] and [/EN#262890/bodyparts face] covered with [/EN#262887/clothing a checked scarf] and carrying [/EN#262886/other a rocket launcher] .
+[/EN#262885/people A masked man] carries [/EN#262886/other a rocket] propelled [/EN#262886/other grenade] over [/EN#262892/bodyparts his right shoulder] while walking down [/EN#262897/scene a street] .
+[/EN#262885/people A man] [/EN#262887/bodyparts who 's head] and [/EN#262890/bodyparts face] is covered is walking with [/EN#262886/other a rather large weapon] on [/EN#262892/bodyparts his shoulder] .
+[/EN#262885/people A man] [/EN#0/notvisual who] has [/EN#262890/bodyparts his face] covered with [/EN#262887/clothing a turban] is carrying [/EN#262886/other a weapon] .
+[/EN#262885/people A middle eastern militant man] wears [/EN#262889/clothing flip-flops] .

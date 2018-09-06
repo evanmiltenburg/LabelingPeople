@@ -1,0 +1,5 @@
+[/EN#197/people A man] in [/EN#198/clothing a blue hard hat] and [/EN#199/clothing orange safety vest] stands in [/EN#200/scene an intersection] while holding [/EN#201/other a flag] .
+[/EN#197/people A man] wearing [/EN#198/clothing a hard hat] and [/EN#199/clothing a caution vest] is standing in [/EN#200/scene the street] waving [/EN#201/other an orange flag] .
+[/EN#197/people A man] in [/EN#199/clothing bright vest] and [/EN#198/clothing hard hat] holds [/EN#201/other a flag] on [/EN#200/scene a street corner] covered in [/EN#202/other spray paint]
+[/EN#197/people A construction worker] is standing in [/EN#200/scene the street] and holding [/EN#201/other a red flag] .
+[/EN#197/people A man] wearing [/EN#199/clothing a reflective vest] and [/EN#198/clothing a hard hat] holds [/EN#201/other a flag] in [/EN#200/scene the road]

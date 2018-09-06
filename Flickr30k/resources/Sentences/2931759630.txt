@@ -1,0 +1,5 @@
+[/EN#82239/people A man] on [/EN#82240/vehicles a lift truck] is working with [/EN#82241/other a torch] on [/EN#82242/other a rusting steel beam] .
+[/EN#82239/people A metal worker] in [/EN#82240/scene a lift] is cutting [/EN#82242/other a rusty girder] .
+[/EN#82239/people A worker] makes [/EN#82246/other improvements] to [/EN#82244/scene a bridge] .
+[/EN#82239/people A man] is elevated cutting [/EN#82242/other steel beams] .
+[/EN#82239/people A man] in [/EN#82240/other a boom lift bucket] welds .

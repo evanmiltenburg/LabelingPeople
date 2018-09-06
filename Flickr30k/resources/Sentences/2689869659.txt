@@ -1,0 +1,5 @@
+[/EN#66379/people A group of people] sitting down and walking around [/EN#66383/scene a large rock park] .
+[/EN#66381/people A large group of people] explore around [/EN#66380/other a rock structure] .
+[/EN#66379/people People] climbing and walking on [/EN#66380/other a large rock formation] .
+[/EN#66379/people People] sitting and climbing on [/EN#66380/other large rock formations] .
+[/EN#66382/people Children] playing on [/EN#66380/other rocks] while [/EN#66379/people adults] watch .

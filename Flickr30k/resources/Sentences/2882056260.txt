@@ -1,0 +1,5 @@
+[/EN#78742/people A motorcycle rider] turns [/EN#78743/other the motorcycle] on [/EN#0/notvisual its side] while [/EN#78747/other racing] .
+[/EN#78742/people A race car driver] in [/EN#78743/vehicles a Yamaha bicycle] is turning on [/EN#78748/other a racetrack] .
+[/EN#78742/people A man] races [/EN#78743/other a blue motorcycle] on [/EN#78745/scene a track] .
+[/EN#78742/people A biker] rides [/EN#78743/other a motorcycle] on [/EN#78748/other a racetrack]
+[/EN#78742/people A motorcyclist] takes [/EN#78746/scene a corner] .

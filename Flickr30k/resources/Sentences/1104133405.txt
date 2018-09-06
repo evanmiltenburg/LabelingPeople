@@ -1,0 +1,5 @@
+[/EN#2626/people A boy] wearing [/EN#2630/clothing a white t-shirt] walks on [/EN#2628/scene the grass] and carries [/EN#2627/other a soccer ball] .
+[/EN#2626/people A boy] walks with [/EN#2627/other a ball] tucked under [/EN#2631/bodyparts/people his arm] .
+[/EN#2626/people A boy] walks with [/EN#2627/other a soccer ball] near [/EN#2629/scene a fence] .
+[/EN#2626/people Small boy] carries [/EN#2627/other a soccer ball] on [/EN#2628/scene a field] .
+[/EN#2626/people A boy] carrying [/EN#2627/other a soccer ball] .

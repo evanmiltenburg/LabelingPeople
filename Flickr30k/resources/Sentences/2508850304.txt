@@ -1,0 +1,5 @@
+[/EN#54178/people A lot of people] are walking outside in [/EN#54179/scene the road] with [/EN#54184/other a lot of trees] .
+[/EN#54178/people Lots of people] are walking [/EN#0/notvisual they] participate in [/EN#54178/people a parade]
+[/EN#54178/people A group of people] walking through [/EN#54180/scene a park] with [/EN#54181/other signs] .
+[/EN#54183/other Protester march] through [/EN#54180/scene a park] with [/EN#54181/other signs] .
+[/EN#54182/people A mass of people] walk through [/EN#54180/scene the park] .

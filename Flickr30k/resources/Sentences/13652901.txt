@@ -1,0 +1,5 @@
+[/EN#10179/people Two men] in [/EN#10184/clothing hard hats] and work [/EN#10182/other coveralls] look at [/EN#0/notvisual the docked ship one of them] points at .
+[/EN#10179/people Two construction workers] talk while looking at [/EN#10180/other a Naval ship] .
+[/EN#10179/people Two men] are inspecting [/EN#10180/other a ship] [/EN#0/notvisual that] is moored to [/EN#10181/scene a dock] .
+[/EN#10179/people Two workers] inspecting [/EN#10180/other a ship] tied up in [/EN#10181/scene a dock] .
+[/EN#10179/people Men] in [/EN#10182/other working suites] , looking at [/EN#10180/other large ship] .

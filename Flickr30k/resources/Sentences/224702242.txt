@@ -1,0 +1,5 @@
+[/EN#36596/animals Large white dog] jumps in [/EN#0/notvisual the air] to catch [/EN#36597/other a black and white soccer ball] .
+[/EN#36596/animals A white dog] jumps up to catch [/EN#36597/other a soccer ball] in [/EN#36601/scene landscaped grassy yard] .
+[/EN#36596/animals/scene A yellow lab] jumping up into [/EN#0/notvisual the air] to catch [/EN#36597/other a soccer ball] .
+[/EN#36596/animals White dog] leaping in [/EN#0/notvisual the air] for [/EN#36597/other a soccer ball] .
+[/EN#36596/animals A white dog] catching [/EN#36598/scene a soccer ball midair] .

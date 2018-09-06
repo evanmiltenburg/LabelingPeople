@@ -1,0 +1,5 @@
+Female with [/EN#39462/bodyparts long black hair] and wearing [/EN#39463/clothing eyeglasses] , [/EN#39464/clothing a blue shirt] , sitting next to [/EN#39465/people a male] in [/EN#39466/clothing a striped shirt] , at [/EN#39467/other a table] , cutting into [/EN#39468/other a chocolate cake] with [/EN#39469/other a single red candle] in [/EN#0/notvisual it] .
+[/EN#39470/people A woman] in [/EN#39464/clothing a blue shirt] sits beside [/EN#39465/people a seated man] and cuts [/EN#39471/other a cake] as [/EN#39472/people two older teenagers] with [/EN#39473/bodyparts crossed arms] lean against [/EN#39474/other the wall] .
+[/EN#0/notvisual There] are [/EN#39475/people four people] in [/EN#39481/scene one room] , and [/EN#39476/other two of those four] are testing [/EN#39477/other cakes] for [/EN#39484/scene an event] .
+[/EN#39475/people A group of people] are eating [/EN#39471/other cake] at [/EN#39482/other an office party] .
+[/EN#39478/people Two men] and [/EN#39479/people two women] are eating [/EN#39480/other a dessert] .

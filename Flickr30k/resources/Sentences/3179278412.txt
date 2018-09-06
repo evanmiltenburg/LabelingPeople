@@ -1,0 +1,5 @@
+[/EN#98800/people The young child] in [/EN#98803/clothing the pirate shirt] is hanging [/EN#98802/other an ornament] on [/EN#98801/other the tree] .
+[/EN#98800/people A little toddler] is standing near [/EN#98801/other a Christmas tree] holding [/EN#98802/other an ornament] .
+[/EN#98800/people A child] in [/EN#98804/clothing orange pants] is putting [/EN#98802/other an ornament] on [/EN#98801/other a tree] .
+[/EN#98800/people A toddler] is putting [/EN#98802/other an ornament] on [/EN#98801/other a Christmas tree] .
+[/EN#98800/people A little boy] helps decorate [/EN#98801/other a Christmas tree] .

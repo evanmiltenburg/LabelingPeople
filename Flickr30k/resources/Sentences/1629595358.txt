@@ -1,0 +1,5 @@
+[/EN#17903/people A man] and [/EN#17904/people a woman] speaking into [/EN#17905/other a microphone] are on [/EN#17906/scene a stage] .
+[/EN#17904/people A woman] on [/EN#17906/scene stage] holding [/EN#17905/other a microphone] standing by [/EN#17903/people a man] .
+[/EN#17907/scene My first night] at [/EN#17909/other the comedy club] was scary .
+[/EN#17908/people Two people] on [/EN#17906/scene a stage] hold [/EN#17905/other microphones] .
+[/EN#17904/people Girl] in [/EN#17911/clothing red hoodie] singing .

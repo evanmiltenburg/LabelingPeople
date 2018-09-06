@@ -1,0 +1,5 @@
+[/EN#113846/animals A brown and black dog] is rubbing [/EN#113848/bodyparts his face] in [/EN#113847/scene the grass] .
+[/EN#113846/animals A brown and black dog] rubs [/EN#113848/bodyparts his face] in [/EN#113847/scene the grass] .
+[/EN#113846/animals A black and brown dog] rolls around in [/EN#113847/scene the grass] .
+[/EN#113846/animals A large dog] rubs [/EN#113848/bodyparts its face] in [/EN#113847/scene the grass] .
+[/EN#113849/bodyparts Black dog rolls head] in [/EN#113847/scene grass] .

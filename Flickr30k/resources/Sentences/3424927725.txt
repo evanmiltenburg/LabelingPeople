@@ -1,0 +1,5 @@
+[/EN#117206/people A person] in [/EN#117209/clothing a yellow raincoat] is sitting on [/EN#117208/other the edge of a rock] looking down
+[/EN#117206/people A person] sitting on [/EN#117208/other the edge of a rock] outcropping looking down
+[/EN#117206/people A man] [/EN#117209/clothing in yellow] sits on [/EN#117208/other a rock ledge] overlooking [/EN#117210/scene a forest] .
+[/EN#117206/people A person] in [/EN#117209/clothing a yellow raincoat] sitting on [/EN#117207/scene a cliff] .
+[/EN#117206/people A person] is sitting on [/EN#117207/scene the edge of a rock cliff] .

@@ -1,0 +1,5 @@
+[/EN#111906/people A group of men] are standing on [/EN#111910/scene a desert road] whilst [/EN#111907/people one man] hands [/EN#111909/other a blue box] to [/EN#0/notvisual another] .
+[/EN#111907/people Older black man] handing [/EN#111909/other small blue object] to [/EN#111906/people group of younger black men] , [/EN#111910/scene outdoors] .
+[/EN#111907/people A man] wearing [/EN#111913/clothing a backwards blue cap] hands [/EN#111909/other something] to [/EN#111908/people one man] in [/EN#111906/people a line of men] .
+[/EN#111907/people A man] is handing [/EN#111909/other a box] to [/EN#111912/people another man] in [/EN#111911/people a group] .
+[/EN#111908/people A man] handing [/EN#111909/other a box] to [/EN#111906/people a group of men] .

@@ -1,0 +1,5 @@
+[/EN#218997/people A man] in [/EN#219003/clothing a white jacket] standing in front of [/EN#218998/people an older woman] in [/EN#218999/clothing a white jacket] playing [/EN#219000/other crochet] .
+[/EN#218998/people An old woman] watches [/EN#218997/people a man] look down at [/EN#219001/other some balls] on [/EN#0/notvisual the ground] .
+[/EN#218998/people a woman] in [/EN#218999/clothing a coat] watching [/EN#218997/people a man] in [/EN#219003/clothing a jacket] kick [/EN#219001/other balls] .
+[/EN#218997/people A man] and [/EN#218998/people woman] are looking at [/EN#219001/other many balls] on [/EN#0/notvisual the ground] .
+[/EN#218997/people A man] and [/EN#218998/people old woman] is playing [/EN#219000/other a game]

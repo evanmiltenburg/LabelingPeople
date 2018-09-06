@@ -1,0 +1,5 @@
+[/EN#199198/people Some people] standing at [/EN#199200/scene the corner of a street] , in [/EN#199199/scene the crosswalk] , waiting for [/EN#199201/other the light] to change so [/EN#0/notvisual they] can cross [/EN#199200/scene the street] .
+[/EN#199197/people People] wait at [/EN#199199/scene a crosswalk] next to [/EN#199201/other a traffic light] .
+[/EN#199203/clothing Zebra stripes] in front of [/EN#199204/scene a red building] .
+[/EN#199197/people People] are crossing [/EN#199199/scene the street] in [/EN#199202/other Japan] .
+[/EN#199198/people people] waiting to cross [/EN#199200/scene the street]

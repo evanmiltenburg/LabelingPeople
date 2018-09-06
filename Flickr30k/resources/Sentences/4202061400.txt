@@ -1,0 +1,5 @@
+[/EN#159055/people A man] in [/EN#159059/clothing a brown shirt] and [/EN#159058/clothing glasses] plays [/EN#159056/instruments a guitar] and sings into [/EN#159057/other a microphone] .
+[/EN#159055/people man] wearing [/EN#159060/instruments a harmonica] playing [/EN#159056/instruments the guitar] and singing
+[/EN#159055/people A man] plays [/EN#159056/instruments a guitar] while singing into [/EN#159057/other a microphone] .
+[/EN#159055/people A man] sings and plays [/EN#159056/instruments the guitar] into [/EN#159057/other a microphone] .
+[/EN#159055/people A young man] in [/EN#159058/clothing glasses] sings and plays [/EN#159056/instruments guitar] .

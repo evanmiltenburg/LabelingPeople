@@ -1,0 +1,5 @@
+[/EN#3510/people A small child] in [/EN#3512/clothing green clothing] walks past [/EN#3513/scene a store] opening and [/EN#3514/people a woman] in [/EN#3515/clothing pink pants] .
+[/EN#3510/people The child] in [/EN#3512/clothing the green one piece suit] is walking past [/EN#3517/other a store window] .
+[/EN#3510/people A young boy] is walking in front of [/EN#3513/scene some stores]
+[/EN#3510/people A girl] in [/EN#3512/clothing green] walks down [/EN#3511/scene a city street] .
+[/EN#3510/people A small child] walks down [/EN#3511/scene a sidewalk] .

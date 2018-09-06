@@ -1,0 +1,5 @@
+[/EN#86915/people A man] in [/EN#86918/clothing a green shirt] , [/EN#86922/clothing brown pants] and [/EN#86923/clothing glasses] sits in [/EN#86916/other a recliner] , talking with [/EN#86924/other others] in [/EN#86921/scene the room] while looking at [/EN#86925/people the photographer] .
+[/EN#86915/people A man] in [/EN#86918/clothing a green shirt] reclines in [/EN#86916/other a lounge chair] in [/EN#86920/scene a living room of a house] .
+[/EN#86915/people a guy] sitting in [/EN#86916/other a chair] with [/EN#86917/other a mug] on [/EN#86919/other the table] next to [/EN#0/notvisual him]
+[/EN#86915/people Man] sitting in [/EN#86916/other a couch] with [/EN#86917/other a cup] on [/EN#86919/other the table] .
+[/EN#86915/people A man] wearing [/EN#86918/clothing green t-shirt] sits in [/EN#86916/other a chair] .

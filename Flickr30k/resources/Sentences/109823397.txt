@@ -1,0 +1,5 @@
+[/EN#2491/people A person] dressed in [/EN#2499/clothing a tan jacket] jumps [/EN#2492/other a quad] over [/EN#2493/scene a harvested cornfield] in front of [/EN#2497/other a small] out [/EN#2495/scene building] .
+[/EN#2492/vehicles An ATV] is airborne over [/EN#2493/scene a field] in front of [/EN#2495/other a white structure] .
+[/EN#2491/people A man] on [/EN#2492/vehicles a four-wheeler] jumps near [/EN#2495/scene a small building] .
+[/EN#2491/people A man] jumps gin [/EN#0/notvisual the air] while riding [/EN#2492/vehicles an ATV]
+[/EN#2491/people Man] on [/EN#2492/other four wheeler] in [/EN#0/notvisual the air] .

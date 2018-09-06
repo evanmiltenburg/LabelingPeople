@@ -1,0 +1,5 @@
+[/EN#171089/people A woman] wearing [/EN#171095/clothing a blue shirt] and [/EN#171090/people a shirtless little boy] are walking through [/EN#171093/scene a forest] .
+[/EN#171089/people A woman] and [/EN#171090/people a younger child] are walking in [/EN#171091/other the woods] .
+[/EN#171089/people A mother] and [/EN#171090/people her child] hiking in [/EN#171091/other the woods] .
+[/EN#171092/people Two people] are walking through [/EN#171091/other the woods] .
+[/EN#171089/people A woman] and [/EN#171090/people child] hiking during [/EN#171094/scene the day] .

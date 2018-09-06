@@ -1,0 +1,5 @@
+[/EN#89448/people A man] in [/EN#89442/clothing a t-shirt] is standing with [/EN#89450/bodyparts his hands] on [/EN#89447/instruments some type of instrument] with [/EN#89441/other a lot of buttons] on [/EN#0/notvisual it] , with [/EN#89445/other fake fog] in [/EN#0/notvisual the background] .
+[/EN#89448/people A man] with [/EN#89444/bodyparts dark hair] and [/EN#89443/clothing brown skin] is in [/EN#89440/scene a dark room] with [/EN#89450/bodyparts his hands] on [/EN#89449/other some equipment] .
+[/EN#89448/people A DJ] in [/EN#89439/other a club] , adjusting [/EN#89446/other levels] on [/EN#89449/other his mixing board] .
+[/EN#89448/people A man] is using [/EN#89449/other electronic equipment] .
+[/EN#89448/people A man] uses [/EN#89449/other stereo equipment] .

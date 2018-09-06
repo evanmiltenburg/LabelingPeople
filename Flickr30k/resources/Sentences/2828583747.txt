@@ -1,0 +1,5 @@
+[/EN#75205/people The little girl] in [/EN#75206/clothing the red skirt] and [/EN#75207/clothing striped shirt] is watching [/EN#75208/vehicles the line of traffic] from [/EN#75210/scene the side of the road] .
+[/EN#75205/people Child] with [/EN#75207/clothing striped shirt] , [/EN#75206/clothing red shorts] and [/EN#75209/clothing orange cap] standing on [/EN#75211/scene pavement] near [/EN#75208/vehicles cars] .
+[/EN#75205/people A boy] is walking through [/EN#75211/scene a parking lot] filled with [/EN#75208/vehicles cars] .
+[/EN#75205/people A child] in [/EN#75209/clothing red short and orange cap] in [/EN#75211/scene a parking lot] .
+[/EN#75205/people A young boy] standing on [/EN#75211/scene a street] watching [/EN#75208/vehicles the traffic]

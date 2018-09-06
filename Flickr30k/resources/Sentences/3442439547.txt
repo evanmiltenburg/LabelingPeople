@@ -1,0 +1,5 @@
+[/EN#118642/people A man] in [/EN#118653/clothing a suit] , sitting on [/EN#118645/other a chair] , with [/EN#118647/other a light] by [/EN#0/notvisual his side] and [/EN#118649/scene a music stand] in [/EN#118650/scene front] , is playing [/EN#118643/instruments the Cello] .
+[/EN#118642/people A man] is playing [/EN#118643/instruments cello] as [/EN#118652/people part of an orchestra] at [/EN#118646/other a formal performance] .
+[/EN#118642/people A man] playing [/EN#118643/instruments the violin] while [/EN#0/notvisual he] reads [/EN#118644/other his musical notes] .
+[/EN#118642/people A man] playing [/EN#118643/instruments a musical instrument] in [/EN#118648/scene a low lit room] .
+[/EN#0/notvisual There] is [/EN#118642/people a man] playing [/EN#118643/instruments the cello] while reading [/EN#118644/other music] .

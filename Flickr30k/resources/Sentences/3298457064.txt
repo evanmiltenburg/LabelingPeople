@@ -1,0 +1,5 @@
+[/EN#107744/people Two men] , wearing [/EN#107745/clothing gray outfits] , are riding on [/EN#107746/vehicles a trailer] [/EN#0/notvisual that] is being pulled by [/EN#107747/animals two horses] , [/EN#107748/animals one horse] is dark brown and [/EN#107749/other the other] is white and gray .
+[/EN#107744/people Two men] are riding on [/EN#107746/vehicles a wooden vehicle] pulled by [/EN#107750/animals two donkeys] : [/EN#107751/clothing one black] and [/EN#107752/clothing one gray] .
+[/EN#107744/people Two men] ride through [/EN#107755/scene farm land] as [/EN#0/notvisual they] guide [/EN#107746/vehicles their mule powered trailer] .
+[/EN#107744/people Two men] ride on [/EN#107756/scene a rural road] in [/EN#107746/vehicles a flatbed vehicle] pulled by [/EN#107753/animals two horses] .
+[/EN#107744/people Two men] are riding [/EN#107746/vehicles a large wagon] pulled by [/EN#107754/animals a donkey] .

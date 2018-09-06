@@ -1,0 +1,5 @@
+[/EN#80696/people A woman] with [/EN#80701/bodyparts blond-hair] is sitting in [/EN#80697/scene a room or hallway] with [/EN#80699/other her luggage] .
+[/EN#80696/people A girl] sits against [/EN#80698/other a white wall] with [/EN#80699/other her belongings] beside [/EN#0/notvisual her] .
+[/EN#80696/people A female] in [/EN#80702/clothing blue jeans] sitting with [/EN#80699/other luggage] against [/EN#80698/other a wall]
+[/EN#80696/people A woman] sits against [/EN#80698/other a wall] in [/EN#80697/scene a fancy building] .
+[/EN#80696/people A young blond woman] rests next to [/EN#80700/other some luggage] .

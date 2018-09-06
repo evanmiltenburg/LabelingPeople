@@ -1,0 +1,5 @@
+[/EN#22782/people A group of people] walking together with [/EN#22783/scene a market] and [/EN#22783/other old architecture] in [/EN#0/notvisual the background] .
+[/EN#22782/people Crowds] stroll past [/EN#22783/other an elegant and ancient looking structure] .
+[/EN#22782/people A crowd of people] are walking past [/EN#22783/other an old archway] .
+[/EN#22785/other Crowd shuffles] past opening in [/EN#22783/other old structure] .
+[/EN#22782/people Tourists] walk by [/EN#22783/scene ancient building] .

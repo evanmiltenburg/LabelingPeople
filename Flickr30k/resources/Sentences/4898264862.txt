@@ -1,0 +1,5 @@
+[/EN#216326/people A woman] in [/EN#216327/clothing a bathing suit] stands in [/EN#216328/scene a swimming pool] with [/EN#216329/people three little boys] , [/EN#0/notvisual two of which] are wearing [/EN#216330/clothing water wings] .
+[/EN#216326/people A woman] in [/EN#216327/clothing a bathing suit] is standing in [/EN#216328/scene a pool] with [/EN#216329/people three little boys] .
+[/EN#216326/people A woman] is swimming with [/EN#216329/people her three young children] .
+[/EN#216326/people A woman] stands in [/EN#216328/scene a pool] with [/EN#216329/people three young boys] .
+[/EN#216326/people A young woman] and [/EN#216329/people three young boys] at [/EN#216328/scene the pool] .

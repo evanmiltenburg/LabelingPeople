@@ -1,0 +1,5 @@
+[/EN#127447/people An Asian woman] cleans off [/EN#127448/other the window] inside of [/EN#127452/other a cafe] .
+[/EN#127451/people A worker] is cleaning [/EN#127448/other a food display] in [/EN#127449/scene a restaurant] .
+[/EN#127447/people A woman] cleans [/EN#127450/other the glass of a deli display cabinet] .
+[/EN#127447/people A woman] cleaning [/EN#127450/other a sneeze screen] at [/EN#127449/scene a restaurant] .
+[/EN#127447/people Woman] cleaning [/EN#127448/other the glass] at [/EN#127449/scene a salad bar] .

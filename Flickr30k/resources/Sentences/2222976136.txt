@@ -1,0 +1,5 @@
+[/EN#35071/people A man] wearing [/EN#35074/clothing a blue hat] and [/EN#35072/clothing a blue shirt] selling [/EN#35073/other bananas] from [/EN#35070/vehicles his wheel cart] on [/EN#35070/scene the street] .
+[/EN#35071/people A man] pushes [/EN#35070/other a cart of bananas] down [/EN#35070/scene the street] .
+[/EN#35071/people A vendor] with [/EN#35072/clothing a blue shirt] is selling [/EN#35073/other bananas] .
+[/EN#35071/people Man] with [/EN#35070/vehicles rickshaw bike] full of [/EN#35073/other ripe bananas] .
+[/EN#35070/vehicles A cart] with [/EN#35073/other many ripe bananas] .

@@ -1,0 +1,5 @@
+[/EN#73770/people A man] wearing [/EN#73771/clothing an orange] and [/EN#73771/clothing white striped shirt] is standing in front of [/EN#73772/vehicles a food cart] .
+[/EN#73770/people A man] underneath [/EN#73773/clothing an umbrella] stands next to [/EN#73772/vehicles a cart] and [/EN#73774/other chair] on [/EN#73775/scene a sidewalk] .
+[/EN#73770/people A street vendor] is adjusting [/EN#73776/other merchandise] on [/EN#73772/vehicles his cart] .
+[/EN#73770/people A man] is standing beside [/EN#73774/other a black folding chair] .
+[/EN#73770/people A street vendor] tending to [/EN#73776/other bagels] in [/EN#73772/vehicles food cart] .

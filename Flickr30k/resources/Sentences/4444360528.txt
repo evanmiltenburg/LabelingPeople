@@ -1,0 +1,5 @@
+[/EN#168807/people A young male] in [/EN#168813/clothing shorts] standing under [/EN#168810/other a wooden structure] in [/EN#168812/scene shallow water] .
+[/EN#168807/people A boy] is standing in [/EN#168811/clothing a swimsuit] on [/EN#168808/scene the beach] underneath [/EN#168809/scene a pier] .
+[/EN#168807/people A shirtless boy] in [/EN#168811/clothing shorts] is standing under [/EN#168809/scene a pier] .
+[/EN#168807/people a man] in [/EN#168811/clothing a swimsuit] stands under [/EN#168809/scene a boardwalk] .
+[/EN#168807/people young men] walking under [/EN#168810/other the deck] at [/EN#168808/scene the beach]

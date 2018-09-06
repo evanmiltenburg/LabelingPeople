@@ -1,0 +1,5 @@
+[/EN#37091/people woman] in [/EN#37095/clothing pink shirt] riding [/EN#37093/vehicles bike] next to [/EN#37092/people man] in [/EN#37099/clothing white shirt] and [/EN#37097/clothing black shorts] running
+[/EN#37091/people Woman] in [/EN#37095/clothing pink top] riding [/EN#37093/vehicles a bicycle] along side [/EN#37092/people a man] jogging along [/EN#37094/scene the waterfront] .
+[/EN#37092/people Man] jogs along [/EN#37091/people woman cyclist] with [/EN#37094/scene an expansive body of water] as [/EN#37094/scene a backdrop] .
+[/EN#37091/people A woman] riding [/EN#37093/vehicles a bike] while [/EN#37092/people a man] jogs beside [/EN#0/notvisual her] near [/EN#37098/scene the shore] .
+[/EN#37091/people A woman] in [/EN#37095/clothing pink] is riding [/EN#37093/vehicles a bicycle] while [/EN#37092/people a man] jogs beside [/EN#0/notvisual her] .

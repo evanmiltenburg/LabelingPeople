@@ -1,0 +1,5 @@
+[/EN#164377/people A group of ladies] walking along [/EN#164379/scene a sidewalk] next to [/EN#164378/other a blue and white wall] .
+[/EN#164377/people A group of women] are walking on [/EN#164379/scene the sidewalk] in front of [/EN#164378/other a blue wall] .
+[/EN#164377/people A group of women] are walking down [/EN#164379/scene the street] .
+[/EN#164377/people A group of people] are walking on [/EN#164379/scene a sidewalk] .
+[/EN#164377/people A group of ladies] is walking by [/EN#164378/other a blue wall] .

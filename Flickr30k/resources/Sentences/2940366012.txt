@@ -1,0 +1,5 @@
+[/EN#82919/people A male bike rider] wearing [/EN#82920/clothing a helmet] is on [/EN#82921/vehicles his bike] and pointing at [/EN#0/notvisual the camera] .
+[/EN#82919/people A man] on [/EN#82921/vehicles a bike] is wearing [/EN#82920/clothing a helmet] , [/EN#82922/clothing logo shirt] , and is pointing at [/EN#0/notvisual you] .
+[/EN#82919/people A man] in [/EN#82922/clothing a red shirt] sits on [/EN#82921/vehicles his dirt bike] and points at [/EN#0/notvisual the camera] .
+[/EN#82919/people A man] is sitting on [/EN#82921/vehicles a motocross bike] pointing [/EN#82923/other his finger forwards] .
+[/EN#82919/people A man] wearing [/EN#82920/clothing a helmet] points at [/EN#0/notvisual the camera] .

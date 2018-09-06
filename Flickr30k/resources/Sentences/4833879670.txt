@@ -1,0 +1,5 @@
+[/EN#208872/people A man] is standing on [/EN#208874/scene the sidewalk] , playing [/EN#208873/instruments a guitar] and singing , with [/EN#208876/scene a container of tips] by [/EN#0/notvisual him] .
+[/EN#208872/people A man] with [/EN#208880/bodyparts a mustache] and [/EN#208873/instruments a guitar] sings for [/EN#208875/scene tips] on [/EN#208874/scene the street] .
+[/EN#208872/people A man] sings and plays [/EN#208873/instruments guitar] for [/EN#208879/other donations] outside of [/EN#208877/scene a salon] .
+[/EN#208872/people A man] standing outside of [/EN#208877/scene a store] playing [/EN#208873/instruments a guitar] for [/EN#208875/scene tips] .
+[/EN#208872/people man] playing [/EN#208873/instruments guitar] on [/EN#208874/scene a sidewalk] .

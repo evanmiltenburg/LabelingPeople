@@ -1,0 +1,5 @@
+[/EN#162731/people An individual] sits at [/EN#162733/other their laptop computer] in [/EN#162734/other a loft of books] .
+[/EN#162731/people A woman] sitting at [/EN#162735/other a table] looking at [/EN#162733/other a laptop computer] .
+[/EN#162731/people A worker] is looking at [/EN#0/notvisual her] [/EN#162733/other laptop] sitting at [/EN#162736/other her desk] .
+[/EN#162731/people A female student] is studying at [/EN#162732/scene a library] .
+[/EN#162731/people A woman] in [/EN#162732/scene a building] on [/EN#162733/other a laptop] .

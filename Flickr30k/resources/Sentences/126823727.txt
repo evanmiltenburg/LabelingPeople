@@ -1,0 +1,5 @@
+[/EN#6763/people A young bearded man] in [/EN#6764/clothing a gray hooded sweatshirt] stirs [/EN#6766/other a pot] with [/EN#6768/other a wooden spoon] .
+[/EN#6763/people A man] in [/EN#6764/clothing a gray hooded sweatshirt] is preparing [/EN#6769/other food] .
+[/EN#6763/people A tall man] stirring [/EN#6766/other a pot of food] on [/EN#6767/other a stove] .
+[/EN#6763/people The man] in [/EN#6764/clothing a blue sweatshirt] is in [/EN#6765/scene a kitchen] .
+[/EN#6763/people A man] is [/EN#6765/scene a kitchen] cooking .

@@ -1,0 +1,5 @@
+[/EN#58726/animals Three dogs] are behind [/EN#58727/scene a rusty fence] as [/EN#58730/other one barks] .
+[/EN#58728/animals Two dogs] are looking through [/EN#58727/scene a rusty wire fence] .
+[/EN#58728/animals Two dogs] are in [/EN#58727/scene a fence] and [/EN#58729/other one] is barking .
+[/EN#58726/animals The dogs] are behind [/EN#58727/scene the fence] .
+[/EN#58728/animals two dogs] bark behind [/EN#58727/scene a fence] .

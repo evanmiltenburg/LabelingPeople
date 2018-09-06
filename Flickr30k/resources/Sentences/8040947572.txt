@@ -1,0 +1,5 @@
+[/EN#278096/people A football player] in [/EN#278100/clothing a red and black uniform] bearing [/EN#278106/other the number 3] and [/EN#278102/clothing a black helmet] is carrying [/EN#278101/other the ball] and is surrounded by [/EN#278098/people opposing players] wearing [/EN#278107/clothing white and purple Pikesville uniforms] .
+[/EN#278096/people A football player] in [/EN#278100/clothing a red and black jersey] is trying to run [/EN#278101/other the football] down [/EN#278110/scene the field] while [/EN#278098/people a group of players] in [/EN#278104/clothing purple] and [/EN#278108/clothing white jerseys] try to stop [/EN#0/notvisual him] .
+[/EN#278099/people A football team] wearing [/EN#278105/clothing purple and white] trying to stop [/EN#278096/people the runner] with [/EN#278101/other the ball] .
+[/EN#278098/people A group of football players] try to tackle [/EN#278096/people another player] .
+[/EN#278095/people Football team] hard at [/EN#278109/other work] .

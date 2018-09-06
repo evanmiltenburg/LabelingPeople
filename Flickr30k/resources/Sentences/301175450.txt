@@ -1,0 +1,5 @@
+[/EN#87202/people People] , including [/EN#87213/other one] in [/EN#87212/other a wheelchair] , are crossing [/EN#87205/scene a city street] in [/EN#87209/scene a crosswalk] .
+[/EN#87207/people A man] in [/EN#87214/clothing a gray jacket] walking down [/EN#87204/scene the sidewalk] in [/EN#87206/scene the city] .
+[/EN#87202/people A group of people] walking under [/EN#87211/other a streetlight] [/EN#0/notvisual that] is green .
+[/EN#87208/scene Pedestrians pass] by [/EN#87210/other a firetruck] and [/EN#87203/people street workers] .
+[/EN#87202/people People] are walking down [/EN#87204/scene a busy city street] .

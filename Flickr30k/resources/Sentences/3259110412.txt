@@ -1,0 +1,5 @@
+[/EN#105012/scene A rocking climbing mountain] inside [/EN#105012/scene a building] .
+[/EN#105015/scene Beautiful mountain scenery] and [/EN#105017/scene a ski lift] .
+[/EN#105019/bodyparts A rock face] is covered with [/EN#105012/scene snow] and [/EN#105012/other ice] .
+[/EN#105014/scene a view of some large snowcapped mountains]
+[/EN#0/notvisual There] is [/EN#105012/scene a pile of white snow] .

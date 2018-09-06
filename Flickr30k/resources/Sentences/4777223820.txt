@@ -1,0 +1,5 @@
+[/EN#201849/people The man] with [/EN#201851/clothing the light green shirt] , [/EN#201850/clothing orange backpack] and [/EN#201857/clothing white baseball cap] looks down from [/EN#201853/scene the mountain] into [/EN#201856/scene the lake] .
+[/EN#201849/people A man] with [/EN#201850/clothing an orange backpack] is standing on [/EN#201854/other a rock] and looking into [/EN#201855/scene the valley] below .
+[/EN#201849/people A man] in [/EN#201851/clothing a pale green shirt] and matching [/EN#201859/bodyparts hands] stands at [/EN#201854/scene the edge of a cliff] .
+[/EN#201849/people A hiker] in [/EN#201851/clothing a green shirt] is looking in to [/EN#201855/scene a valley] from [/EN#201852/scene a steep cliff] .
+[/EN#201849/people A hiker] with [/EN#201850/clothing a backpack] looks down from [/EN#201854/scene a precipice] .

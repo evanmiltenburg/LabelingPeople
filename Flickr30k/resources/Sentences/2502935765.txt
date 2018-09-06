@@ -1,0 +1,5 @@
+[/EN#53712/people A little boy] sits and spins on [/EN#53713/scene a playground] .
+[/EN#53712/people A child] slides down [/EN#53714/other a pole] on [/EN#53713/scene a playground] .
+[/EN#53712/people A boy] is at [/EN#53713/scene a playground] on [/EN#53714/other a pole] .
+[/EN#53712/people A boy] spins on [/EN#53713/scene a park playground] .
+[/EN#53712/people a kid] playing in [/EN#53713/scene the playground]

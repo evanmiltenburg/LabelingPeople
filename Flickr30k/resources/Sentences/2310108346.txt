@@ -1,0 +1,5 @@
+[/EN#40708/people A woman] with [/EN#40710/clothing a sweater] sits on [/EN#40711/other a sea wall] and looks to [/EN#40709/scene the sea] .
+[/EN#40708/people The person] in [/EN#40710/clothing a sweater] sits on [/EN#40711/other wood] , looking at [/EN#40709/scene the water] .
+[/EN#40708/people A woman] in [/EN#40710/clothing a brownish-orange sweater] is sitting by [/EN#40709/scene a lake] .
+[/EN#40708/people An older person] sitting beside [/EN#40709/scene a body of water] .
+[/EN#40708/people a woman] sits on [/EN#40711/other a log] near [/EN#40709/scene the water] .

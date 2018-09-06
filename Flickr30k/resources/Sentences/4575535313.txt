@@ -1,0 +1,5 @@
+[/EN#179987/people A man] with [/EN#179984/clothing a black and gray jacket] with [/EN#179989/clothing red] string hanging on [/EN#179988/bodyparts one shoulder] smoking [/EN#179993/other a cigarette] .
+[/EN#179985/other Smoking] is not good for [/EN#179987/other health] , [/EN#0/notvisual it] harms [/EN#179990/other your lungs] .
+[/EN#179987/people A dark-haired man] smoking [/EN#179991/scene a cigarette outside] .
+[/EN#179987/people A man] with [/EN#179986/bodyparts a mustache] is smoking [/EN#179993/other a cigarette] .
+[/EN#179987/people Man] wearing [/EN#179984/clothing black] smokes [/EN#179993/other a cigarette] .

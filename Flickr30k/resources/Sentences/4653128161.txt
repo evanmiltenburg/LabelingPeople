@@ -1,0 +1,5 @@
+[/EN#187050/scene Dilapidated buildings] in [/EN#187051/scene the background of a lot] of [/EN#187049/scene green grass] .
+[/EN#0/notvisual There] is [/EN#187048/people a person] standing in [/EN#187049/scene the middle of a green field] .
+[/EN#187048/people A man] stands in [/EN#187049/scene the field] outside [/EN#187050/scene a dilapidated building] .
+[/EN#187048/people A man] surveys [/EN#187049/scene fields] near [/EN#187052/scene the edge of town] .
+[/EN#187049/scene A rice field] near [/EN#187050/scene some old buildings] .

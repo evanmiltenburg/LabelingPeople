@@ -1,0 +1,5 @@
+[/EN#239712/people Three men] on [/EN#239710/scene a city street] with [/EN#239715/other the shot] taken up and out toward [/EN#239711/scene the buildings] .
+[/EN#239710/scene A city street] has [/EN#239712/people three people] walking in [/EN#0/notvisual different directions] .
+[/EN#239712/people Men] walk down [/EN#239710/scene a street] with [/EN#239711/scene skyscrapers] in [/EN#0/notvisual the background] .
+[/EN#239713/people A man] stands by [/EN#239714/scene a building] while [/EN#239717/other others] are nearby .
+[/EN#239711/scene The buildings] are brown and [/EN#239718/scene the sky] is blue .

@@ -1,0 +1,5 @@
+[/EN#104602/people A woman] in [/EN#104603/clothing a red fur coat] looking at [/EN#104606/other flowers] being shown by [/EN#104604/people a woman] in [/EN#104609/clothing a red jacket] and [/EN#104610/clothing glasses] .
+[/EN#104602/people A woman] is purchasing [/EN#104606/other decorative flowers] from [/EN#104604/people an associate] in [/EN#104605/scene a store] .
+[/EN#104608/people Two women] are looking at [/EN#104606/other pink flowers] inside of [/EN#104605/scene a store] .
+[/EN#104602/people a woman] in [/EN#104603/clothing a fur coat] and [/EN#104607/clothing hat] is looking at [/EN#104606/other flowers]
+[/EN#104602/people Woman] in [/EN#104603/clothing fur coat] , [/EN#104607/clothing hat] , buying [/EN#104606/other flowers] .

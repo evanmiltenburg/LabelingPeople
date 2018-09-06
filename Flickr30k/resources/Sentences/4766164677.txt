@@ -1,0 +1,5 @@
+[/EN#200735/people A man] and [/EN#200737/people a woman] both wearing [/EN#200743/clothing black bathing suits] jump into [/EN#200739/scene a body of water] .
+[/EN#200735/people A man] and [/EN#200737/people a woman] are jumping off [/EN#200740/scene a dock] into [/EN#200742/scene the water] .
+[/EN#200736/people Two adults] in [/EN#200743/clothing black bathing suits] jumping into [/EN#200739/scene a lake] .
+[/EN#200735/people A man] and [/EN#200737/people a woman] are jumping from [/EN#200741/scene a pier] into [/EN#200739/scene a lake] .
+[/EN#200735/people A man] and [/EN#200737/people women] jumping off [/EN#200740/scene a dock] into [/EN#200739/scene the water] .

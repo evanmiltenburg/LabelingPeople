@@ -1,0 +1,5 @@
+[/EN#55843/people A man] wearing [/EN#55844/clothing a gray tank top] is collecting [/EN#55847/other a red rose] from [/EN#55842/people a woman] [/EN#0/notvisual who] is wearing [/EN#55848/clothing a white dress]
+[/EN#55842/people A girl] in [/EN#55848/clothing a white dress] holding [/EN#55849/other roses] gives [/EN#55846/other some] to [/EN#55843/people a man] in [/EN#55844/clothing a gray tank top] .
+[/EN#55843/people A man] in [/EN#55844/clothing a gray tank top] givers [/EN#55845/other red roses] to [/EN#55842/people a woman] in [/EN#55848/clothing a white sundress] .
+[/EN#55842/people a teen girl] and [/EN#55843/people man] are trying to arrange [/EN#55849/other some roses] for [/EN#55850/other a celebration] .
+[/EN#55843/people A man] buys [/EN#55845/other roses] from [/EN#55842/people a young woman] in [/EN#55848/clothing a white dress] .

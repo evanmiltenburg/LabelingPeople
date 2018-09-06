@@ -1,0 +1,5 @@
+[/EN#147161/people A man] in [/EN#147162/clothing a blue shirt] and [/EN#147168/clothing khaki shorts] is playing with [/EN#147165/animals his black and yellow dogs] in [/EN#147163/scene a large grassy field] .
+[/EN#147161/people A man] plays [/EN#147170/scene outside] with [/EN#147165/animals two dogs] , [/EN#147169/other one of whom] is trying to catch [/EN#147166/other a ball] in [/EN#0/notvisual the air] .
+[/EN#147161/people The man] in [/EN#147162/clothing the blue shirt] is playing [/EN#147164/other fetch] with [/EN#147165/animals his two dogs] .
+[/EN#147161/people A man] with [/EN#147165/animals two dogs] plays [/EN#147167/other ball] in [/EN#147163/scene a field of grass] .
+[/EN#147161/people A man] and [/EN#147165/animals his two dogs] play [/EN#147164/other fetch] .

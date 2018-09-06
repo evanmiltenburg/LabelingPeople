@@ -1,0 +1,5 @@
+[/EN#32749/people A woman] wears [/EN#32750/clothing a red helmet] and [/EN#32751/clothing blue shirt] as [/EN#0/notvisual she] goes for [/EN#32756/other a bike ride] in [/EN#32752/other the shade] .
+[/EN#32749/people A girl] is riding [/EN#32753/vehicles a bike] on [/EN#32754/scene the street] while wearing [/EN#32750/clothing a red helmet] .
+[/EN#32749/people A person] on [/EN#32753/vehicles a bike] wearing [/EN#32750/clothing a red helmet] , riding down [/EN#32754/scene a street] .
+[/EN#32749/people Person] in [/EN#32751/clothing blue shirt] and [/EN#32750/clothing red helmet] riding [/EN#32753/vehicles bike] down [/EN#32754/scene the road]
+[/EN#32749/people A cyclist] wearing [/EN#32750/clothing a red helmet] is riding on [/EN#32754/scene the pavement] .

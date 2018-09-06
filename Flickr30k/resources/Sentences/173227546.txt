@@ -1,0 +1,5 @@
+[/EN#19545/people A man] in [/EN#19548/clothing a yellow construction hat] with [/EN#19551/clothing a tool bag] on [/EN#19553/other his back] , is drilling [/EN#19549/other a wall] labeled [/EN#19554/other superior walls] .
+[/EN#19545/people A man] wearing [/EN#19548/clothing a hard hat] is working on [/EN#19546/scene a construction site] atop [/EN#19549/other a wall] .
+[/EN#19545/people A construction worker] drilling [/EN#19552/other a whole] in [/EN#19555/other the top of a concrete wall] .
+[/EN#19546/scene A construction worker building] walls with [/EN#19550/other a drill] .
+[/EN#19545/people A male] is building [/EN#19549/other a wall] .

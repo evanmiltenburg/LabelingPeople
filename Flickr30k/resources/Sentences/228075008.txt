@@ -1,0 +1,5 @@
+[/EN#38748/people A guy] with [/EN#38749/clothing sunglasses] is sitting on [/EN#38750/other a boat ferry] in [/EN#38756/other the sun] .
+[/EN#38748/people A man] in [/EN#38751/clothing a white shirt] is sitting on [/EN#38752/other two chairs] in [/EN#38757/vehicles/scene a boat]
+[/EN#38753/people A woman] in [/EN#38758/clothing shorts] is sitting on [/EN#38754/other a row of black chairs] .
+[/EN#38753/people A woman] is sitting on [/EN#38757/vehicles/scene a boat] , reading [/EN#38755/other her book] .
+[/EN#38748/people a girl] reading and sunning on [/EN#38757/scene a boat deck]

@@ -1,0 +1,5 @@
+[/EN#116063/people A woman] wearing [/EN#116065/clothing a pink coat] and [/EN#116067/clothing white hat] , views [/EN#116064/scene a beautiful scenic harbor] .
+[/EN#116063/people A woman] wearing [/EN#116065/clothing a pink coat] standing in front of [/EN#116064/scene a body of water] .
+[/EN#116063/people A woman] wearing [/EN#116065/clothing a brown coat] is looking over [/EN#116064/scene the ocean] .
+[/EN#116063/people Someone] is looking at [/EN#116066/scene the beautiful view of the city] .
+[/EN#116063/people A woman] in [/EN#116065/clothing a jacket] looking at [/EN#116064/scene a lake] .

@@ -1,0 +1,5 @@
+[/EN#99580/people A man] in [/EN#99582/clothing black shorts] is diving into [/EN#99581/scene a rocky pool] .
+[/EN#99580/people A man] in [/EN#99582/clothing black bathing trunks] dives into [/EN#99581/scene water] .
+[/EN#99580/people A man] in [/EN#99582/clothing black swim trunks] diving into [/EN#99581/scene the water]
+[/EN#99580/people A person] is diving into [/EN#99581/scene clear blue water] .
+[/EN#99580/people A man] dives into [/EN#99581/scene a clear blue lake] .

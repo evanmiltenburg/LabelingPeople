@@ -1,0 +1,5 @@
+[/EN#252003/people A woman] in [/EN#252006/clothing an interesting hat] and [/EN#252008/clothing white shirt] stands beside [/EN#252009/other a railing] with [/EN#252003/scene dark water] on [/EN#0/notvisual the other side] .
+[/EN#252003/people A woman] with [/EN#252006/other a wreath] on [/EN#252015/bodyparts her head] is standing on [/EN#252009/scene a pier] with [/EN#252013/other the Statue of Liberty] in [/EN#0/notvisual the background] .
+[/EN#252003/people A woman] looks out over [/EN#252005/scene the water] dressed in [/EN#252004/clothing a blue dress] , [/EN#252008/clothing white shirt] , and [/EN#252006/clothing green leafy headwear] .
+[/EN#252003/people A woman] wearing [/EN#252004/clothing a blue skirt] is on [/EN#252009/scene a walkway] looking at [/EN#252005/scene a body of water] .
+[/EN#252003/people A woman] looking across [/EN#252003/scene the New York harbor] .

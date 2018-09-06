@@ -1,0 +1,5 @@
+[/EN#18/people A child] in [/EN#19/clothing a pink dress] is climbing up [/EN#20/other a set of stairs] in [/EN#23/scene an entry way] .
+[/EN#18/people A little girl] in [/EN#19/clothing a pink dress] going into [/EN#21/scene a wooden cabin] .
+[/EN#18/people A little girl] climbing [/EN#20/other the stairs] to [/EN#22/other her playhouse] .
+[/EN#18/people A little girl] climbing into [/EN#22/other a wooden playhouse] .
+[/EN#18/people A girl] going into [/EN#21/scene a wooden building] .

@@ -1,0 +1,5 @@
+[/EN#45566/people A man] with [/EN#45567/clothing a blue jacket] stands outside [/EN#45568/scene a building] with [/EN#45572/other gold-rimmed doors] .
+[/EN#45566/people A man] in [/EN#45567/clothing a blue windbreaker] walks past [/EN#45568/scene a building] with [/EN#45573/other the address 330] .
+[/EN#45566/people A person] in [/EN#45567/clothing a blue jacket] walking down [/EN#45571/scene the street] .
+[/EN#45566/people A man] in [/EN#45567/clothing a blue coat] is walking on [/EN#45570/scene the sidewalk] .
+[/EN#45566/people A man] walks past [/EN#45568/scene a building] with [/EN#45567/clothing a blue coat] .

@@ -1,0 +1,5 @@
+[/EN#47012/animals Two smaller dogs] and [/EN#47011/animals one larger dog] with [/EN#47017/bodyparts a puffy white tail] are playing in [/EN#47015/scene a field] .
+[/EN#47011/other The brown and white great Dane] plays with [/EN#47012/animals two yellow dogs] in [/EN#47015/scene the grass] .
+[/EN#47011/animals A big dog] holds [/EN#47011/bodyparts its paw] out to keep [/EN#47016/animals another dog] at [/EN#47018/scene bay] .
+[/EN#47011/animals Large dog] plays with [/EN#47012/animals two smaller dogs] on [/EN#47015/scene grass] .
+[/EN#47011/animals A large dog] wards off [/EN#47016/animals a smaller dog] .

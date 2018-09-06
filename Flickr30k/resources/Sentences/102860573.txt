@@ -1,0 +1,5 @@
+[/EN#812/scene A construction site] on [/EN#813/scene a street] with [/EN#814/people three men] working .
+[/EN#814/people Two men] wearing [/EN#815/clothing hard hats] are in [/EN#812/scene a construction area] .
+[/EN#814/people Two men] in [/EN#816/clothing orange vests] work in [/EN#818/other road construction] .
+[/EN#814/people Construction workers] installing [/EN#817/scene a light post] .
+[/EN#814/people Workers] in [/EN#816/clothing orange vests] work in [/EN#813/scene a street] .

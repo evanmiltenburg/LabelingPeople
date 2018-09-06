@@ -1,0 +1,5 @@
+[/EN#177981/people A man] dressed in [/EN#177984/clothing all black] is pushing [/EN#177982/other a blue colored easy chair] down [/EN#177983/scene a busy street] .
+[/EN#177981/people A man] pushing [/EN#177982/other a blue arm chair] down [/EN#177983/scene the sidewalk] as [/EN#177985/people people] are walking past [/EN#0/notvisual him] .
+[/EN#177981/people A partially balding man] pushes [/EN#177982/other a blue easy-chair] down [/EN#177983/scene the sidewalk] .
+[/EN#177981/people A man] is pushing [/EN#177982/other chairs] on [/EN#177983/scene a busy street] .
+[/EN#177981/people A man] pushing [/EN#177982/other a sofa] on [/EN#177983/scene the street] .

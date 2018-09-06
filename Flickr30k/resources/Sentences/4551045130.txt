@@ -1,0 +1,5 @@
+[/EN#177459/people An elderly Asian woman] wearing [/EN#177462/clothing a red long-sleeved shirt] and carrying [/EN#177469/clothing a woven purse] points to [/EN#177461/people a man] [/EN#0/notvisual she] is speaking to [/EN#0/notvisual who] is wearing [/EN#177463/clothing a red light jacket] and carrying [/EN#177460/clothing a satchel] .
+[/EN#177459/people A woman] in [/EN#177462/clothing a red shirt] and [/EN#177471/clothing some jeans] looks like [/EN#0/notvisual she] is arguing with [/EN#177461/people a man] in [/EN#177463/clothing red] and [/EN#177460/clothing a great satchel] .
+[/EN#177466/people Two adults] in [/EN#177464/clothing red] are talking on [/EN#177465/scene the street] while [/EN#177461/people a man] is walking behind [/EN#0/notvisual them] .
+[/EN#177459/people A woman] in [/EN#177462/clothing a red shirt] is talking to [/EN#177461/people a man] with [/EN#177463/clothing a red shirt] on [/EN#177465/scene the street] .
+[/EN#177459/people A lady] in [/EN#177462/clothing a red jacket] talking to [/EN#177461/people a man] with [/EN#177472/other a cane] .

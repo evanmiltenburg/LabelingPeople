@@ -1,0 +1,5 @@
+[/EN#260056/people A man] wearing [/EN#260064/clothing a white safety suit] , [/EN#260066/clothing gloves] , [/EN#260063/clothing a hairnet] , and [/EN#260061/clothing a surgical mask] places [/EN#260060/other an object] into [/EN#260059/other a high-tech machine] .
+[/EN#0/notvisual This] is [/EN#260056/people a picture of a scientist] inserting [/EN#260060/other something] into [/EN#260059/other a machine] .
+[/EN#260056/people A woman] wearing [/EN#260061/clothing a surgical mask] is working with [/EN#260059/other equipment] .
+[/EN#260056/people A woman] in [/EN#260065/clothing glasses] and [/EN#260064/other white coveralls] , working in [/EN#260068/animals/scene a lab] .
+[/EN#260056/people A woman] is covered up completely and fixing [/EN#260059/other a machine] .

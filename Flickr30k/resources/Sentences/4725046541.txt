@@ -1,0 +1,5 @@
+[/EN#195629/people An older lady] wearing [/EN#195634/clothing glasses] is sitting on [/EN#195630/other a bench] beside [/EN#195632/other a tree] .
+[/EN#195629/people An elderly woman] sits on [/EN#195630/other a park bench] under [/EN#195635/other the shade of a tree] .
+[/EN#195629/people An old woman] in [/EN#195631/clothing a blue sweater] and [/EN#195633/clothing black dress] sits on [/EN#195630/other a bench] .
+[/EN#195629/people A woman] in [/EN#195631/clothing a blue sweater] is sitting on [/EN#195630/other a bench] next to [/EN#195632/other a tree] .
+[/EN#195629/people An elderly woman] sitting on [/EN#195630/other a bench] .

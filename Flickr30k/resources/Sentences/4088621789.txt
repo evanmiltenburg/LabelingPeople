@@ -1,0 +1,5 @@
+[/EN#154834/people Soldiers] stand in [/EN#154841/other formation] outside of [/EN#154835/scene a building] , and [/EN#154836/people one man] dressed in [/EN#154838/clothing street clothes] stands near [/EN#0/notvisual them] .
+[/EN#154834/people A group of soldiers] are standing by [/EN#154835/scene a building] , along with [/EN#154836/people one man] [/EN#0/notvisual who] is not wearing [/EN#154840/clothing a uniform] .
+[/EN#154834/people Several soldiers] dressed in [/EN#154842/clothing green camouflaged uniforms] are standing in front of [/EN#154835/scene a building] .
+[/EN#154833/people A group of men] in [/EN#154837/clothing military uniforms] , [/EN#154844/other most] with [/EN#154843/clothing hard hats] , stand [/EN#154845/scene outdoors] .
+[/EN#154833/people A group of soldiers] stands near [/EN#154836/people a man] in [/EN#154838/clothing civilian clothing] .

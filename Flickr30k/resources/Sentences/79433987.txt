@@ -1,0 +1,5 @@
+[/EN#276839/people A right-handed man] in [/EN#276845/clothing jeans] and [/EN#276840/clothing black t-shirt] is in [/EN#276842/scene a well-lit bowling alley] holding [/EN#276843/other his ball] up as [/EN#0/notvisual he] is just beginning [/EN#276841/other his bowl] .
+At [/EN#276842/scene a bowling alley] , [/EN#276839/people a man] in [/EN#276840/clothing a black shirt] is holding [/EN#276843/other a bowling ball] and looking down [/EN#276844/other the lane] .
+[/EN#276839/people A man] starts walking towards [/EN#276844/other a bowling lane] , appearing to be winding up for [/EN#276841/other a bowl] .
+[/EN#276839/people A man] is preparing to throw [/EN#276843/other a bowling ball] .
+[/EN#276839/people Man] in [/EN#276840/clothing black] prepares to [/EN#276843/other ten-pin bowl] .

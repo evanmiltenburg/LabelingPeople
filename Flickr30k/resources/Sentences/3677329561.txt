@@ -1,0 +1,5 @@
+[/EN#136185/people Two little girls] in [/EN#136186/clothing summer clothes] are washing [/EN#136184/animals a brown dog] .
+[/EN#136185/people Two young blond girls] are washing [/EN#136184/animals a golden retriever] .
+[/EN#136185/people Two young girls] bathing [/EN#136184/scene a golden retriever outside] .
+[/EN#136184/animals A dog] is being washed by [/EN#136185/people two little girls] .
+[/EN#136185/people two girls] giving [/EN#136184/animals a large dog] [/EN#136188/other a bath]

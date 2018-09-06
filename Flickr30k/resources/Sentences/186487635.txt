@@ -1,0 +1,5 @@
+[/EN#22225/people A man] with [/EN#22227/clothing red pants] holding on to [/EN#22226/other a wall] trying to make [/EN#0/notvisual it] sown [/EN#22228/other some small rocks] .
+[/EN#22225/people A man] in [/EN#22227/clothing bright red shorts] is walking by [/EN#22228/other some rocks] .
+[/EN#22225/people A man] wearing [/EN#22227/clothing red pants] about to reach [/EN#0/notvisual the ground] .
+[/EN#22225/people A man] in [/EN#22227/clothing red pants] jumps down [/EN#22226/other a wall] onto [/EN#22228/other rocks] .
+[/EN#22225/people A man] in [/EN#22227/clothing red pants] walking on [/EN#22228/other rocks] .

@@ -1,0 +1,5 @@
+[/EN#163221/people A woman] in [/EN#163222/clothing a blue and brown parka] with [/EN#163230/clothing matching hat] is in [/EN#163223/scene a snow-covered forest] on [/EN#163228/clothing either crosscountry skis or snowshoes] , [/EN#0/notvisual which] are obscured by [/EN#163232/other the ruts] in [/EN#163227/scene the trail] [/EN#0/notvisual she] is following .
+[/EN#163221/people A hiker] dressed in [/EN#163226/clothing a blue] with [/EN#163222/clothing black jacket] and [/EN#163234/clothing tan pants] surrounded by [/EN#163225/other big trees] covered in [/EN#163224/scene snow] .
+[/EN#163221/people A crosscountry skier] skies up [/EN#163229/scene hill] in [/EN#163224/scene a wintery landscape] with [/EN#163225/other frozen trees] .
+[/EN#163221/people A hiker] uses [/EN#163231/other metal] walking [/EN#163233/other sticks] to hike up [/EN#163223/scene a snowy mountain] .
+[/EN#163221/people A woman] is hiking in [/EN#163223/scene a snowy forest] .

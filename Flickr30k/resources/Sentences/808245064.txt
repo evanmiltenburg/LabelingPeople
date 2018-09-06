@@ -1,0 +1,5 @@
+[/EN#278706/people A man] in [/EN#278707/clothing a blue shirt] is standing outside smoking [/EN#278708/other a cigarette] .
+[/EN#278706/people A dark-skinned man] smoking [/EN#278708/other a cigarette] near [/EN#278709/other a green trashcan] .
+[/EN#278706/people a man] in [/EN#278707/clothing a blue shirt] smoking [/EN#278708/other a cigarette]
+[/EN#278706/people A man] stands outside smoking [/EN#278708/other a cigarette]
+[/EN#278706/people A man] with [/EN#278710/clothing glasses] smokes [/EN#278708/other a cigarette] .

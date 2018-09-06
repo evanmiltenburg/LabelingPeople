@@ -1,0 +1,5 @@
+[/EN#79544/people a woman] wearing [/EN#79545/clothing a Chinese straw hat] operating [/EN#79546/other some sort of stainless steel machine] in [/EN#0/notvisual what] appears to be [/EN#79552/scene a park] .
+[/EN#79544/people A person] wearing [/EN#79545/clothing a straw hat] , standing outside working [/EN#79547/other a steel apparatus] with [/EN#79548/other a pile of coconuts] on [/EN#0/notvisual the ground] .
+[/EN#79544/people A man] wearing [/EN#79545/clothing a rice hat] is shucking [/EN#79553/other corn] using [/EN#79547/other a corn shucker] and is surrounded by [/EN#79549/other trees] .
+[/EN#79544/people a woman] with [/EN#79545/clothing a straw hat] working on [/EN#79546/other a strange machine] with [/EN#79548/other coconuts] at [/EN#0/notvisual her side] .
+[/EN#79544/people A woman] on [/EN#79551/scene the side of a street] is making [/EN#79548/other food] on [/EN#79547/vehicles her cart] .

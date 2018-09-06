@@ -1,0 +1,5 @@
+[/EN#170584/people A man] with [/EN#170586/clothing a jacket] and [/EN#170593/clothing red shirt] sits at [/EN#170585/other a park bench] as [/EN#170590/animals a dog] with [/EN#170589/clothing a plaid jacket] stands near .
+[/EN#170584/people An older gentleman] wearing [/EN#170587/clothing a beret] sitting on [/EN#170585/other the bench] holding [/EN#170591/clothing a leash] and waiting for [/EN#170590/animals his dog] .
+[/EN#170584/people A man] with [/EN#170592/clothing glasses] and [/EN#170587/clothing a hat] sitting on [/EN#170585/other a bench] outside holding [/EN#170591/clothing a dog leash] .
+[/EN#170584/people A man] wearing [/EN#170589/clothing a black coat] sits on [/EN#170585/other a park bench] with [/EN#170590/animals a dog] standing nearby .
+[/EN#170584/people An elderly man] sitting in [/EN#170585/other a park bench] .

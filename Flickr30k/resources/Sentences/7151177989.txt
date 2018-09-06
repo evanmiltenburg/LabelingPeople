@@ -1,0 +1,5 @@
+[/EN#266068/people A man] is running , in [/EN#266073/clothing a yellow runners shirt] and matching [/EN#266076/clothing running shorts] , along [/EN#266071/other the waterside] with [/EN#266069/scene a big city] in [/EN#0/notvisual the background] on [/EN#266075/scene a beautiful day] .
+[/EN#266068/people This man] is running in [/EN#266072/other a race] ( note [/EN#266077/other the number] on [/EN#266073/clothing his shirt] ) and seems to be pushing [/EN#0/notvisual it] , on [/EN#266070/other a paved walk] right outside [/EN#266069/scene the city] .
+[/EN#266068/people A man] runs along [/EN#266074/scene the water] ; [/EN#266069/scene a view of the city] is visible in [/EN#0/notvisual the background] .
+[/EN#266068/people A man] runs [/EN#266072/other a race] with [/EN#266069/scene a city skyline] and [/EN#266074/scene body of water] in [/EN#0/notvisual the background] .
+[/EN#266068/people A gloved runner] jogs through [/EN#266078/other the shade] .

@@ -1,0 +1,5 @@
+[/EN#40013/people A tow-headed toddler] in [/EN#40014/clothing a brown shirt] and [/EN#40015/clothing black pants] is walking down [/EN#40016/scene a stone path] in [/EN#40016/scene the middle of an indoor greenhouse] , surrounded on [/EN#0/notvisual both sides] by [/EN#40017/other green leaves] and [/EN#40018/other flowers] .
+[/EN#40013/people A small girl] walking through [/EN#40016/scene a greenhouse] with [/EN#40016/scene a brick path] .
+[/EN#40013/people A little girl] walks on [/EN#40016/scene a path of an indoor garden] .
+[/EN#40013/people A child] is walking along [/EN#40019/other a stone pathway] .
+[/EN#40013/people Young girl] walking through [/EN#40016/scene a greenhouse]

@@ -1,0 +1,5 @@
+[/EN#132464/people The man] with [/EN#132468/clothing the red shirt] is holding [/EN#132465/other a basketball] and is in front of [/EN#132467/other a basketball hoop] .
+[/EN#132464/people guy] holding [/EN#132465/other a basketball] wearing [/EN#132470/clothing red shirt black shorts] with [/EN#132472/other something] on [/EN#132473/bodyparts left leg]
+[/EN#132464/people A man] in [/EN#132468/clothing a pink shirt] is standing in [/EN#132469/scene a basketball court] holding [/EN#132465/other a basketball] .
+[/EN#132464/people Tall man] in [/EN#132470/clothing red and black] stands outside holding [/EN#132466/other basketball] .
+[/EN#132464/people A young adult male] stands with [/EN#132465/other a basketball] on [/EN#132469/other a court] .

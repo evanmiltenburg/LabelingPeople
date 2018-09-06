@@ -1,0 +1,5 @@
+[/EN#267653/people Three guys] in [/EN#267659/clothing military clothing] dig [/EN#267655/scene a hole] in [/EN#267654/scene the desert] with [/EN#267658/other shovels] .
+[/EN#267653/people Three men] in [/EN#267656/clothing military garb] digging [/EN#267657/other sand] in [/EN#267654/scene a desert] .
+[/EN#267653/people Three guys] are shoveling in [/EN#267654/scene the desert] .
+[/EN#267653/people Three officers] dig [/EN#267655/scene a hole] in [/EN#267654/scene a desert] .
+[/EN#267653/people Three blokes] digging in [/EN#267654/scene the desert] .

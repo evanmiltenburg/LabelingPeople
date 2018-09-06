@@ -1,0 +1,5 @@
+[/EN#163404/people A group of people] with [/EN#163408/instruments instruments] are on [/EN#163409/scene stage] .
+[/EN#163404/people An orchestra] is playing in front of [/EN#163406/people a crowd] .
+[/EN#163404/people A band] is practicing [/EN#163405/other their routine] .
+[/EN#163404/people an orchestra] is playing [/EN#163407/other music] .
+[/EN#163404/people A music band] playing [/EN#163405/other music] .

@@ -1,0 +1,5 @@
+[/EN#4419/people The man] in [/EN#4421/clothing the yellow t-shirt] is pulling [/EN#4423/bodyparts a large grin] on [/EN#4422/bodyparts his face] .
+[/EN#4419/people a man] wearing [/EN#4421/clothing a yellow shirt] with [/EN#4420/other a dramatic look] on [/EN#4422/bodyparts his face]
+[/EN#0/notvisual There] is [/EN#4419/people a man] , wearing [/EN#4421/clothing a yellow shirt] , and [/EN#4420/other grimacing] .
+[/EN#4419/people This man] is smiling very big at [/EN#0/notvisual the camera] .
+[/EN#4419/people A man] in [/EN#4424/bodyparts yellow grimaces] .

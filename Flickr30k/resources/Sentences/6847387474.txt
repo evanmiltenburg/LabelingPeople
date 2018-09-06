@@ -1,0 +1,5 @@
+[/EN#259161/people A person] is wearing [/EN#259163/clothing a team uniform] in [/EN#259164/clothing blue and gold] , seated on [/EN#0/notvisual what] is [/EN#259165/other likely ice] , with [/EN#259162/other a goalie stick] before [/EN#0/notvisual him] and [/EN#259167/other the brand] " [/EN#259166/other Reebok] " prominently displayed on [/EN#259169/other uniform parts] .
+[/EN#259161/people An ice hockey goalie] in [/EN#259163/clothing a yellow and blue uniform] is kneeling on [/EN#259165/other the ice] holding [/EN#259162/other his hockey stick] in front of [/EN#0/notvisual him] .
+[/EN#259161/people A fully-padded hockey player] sits on [/EN#259165/other the ice] holding [/EN#259162/other his stick] .
+[/EN#259161/people A hockey goalie] dressed in [/EN#259164/clothing yellow and blue] down on [/EN#259165/other the ice] .
+[/EN#259161/people A hockey player] in [/EN#259163/clothing uniform] is sitting on [/EN#259165/other a hockey court] .

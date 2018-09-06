@@ -1,0 +1,5 @@
+[/EN#30073/people A man] wearing [/EN#30082/clothing a black shirt] and [/EN#30083/clothing blue pants] stands on [/EN#30074/other a ladder] and tries to put up [/EN#30075/other an advertisement] on [/EN#30076/other the wall] .
+[/EN#30073/people A man] wearing [/EN#30079/clothing black and blue] stands on [/EN#30074/other a ladder] while [/EN#30081/other wheat] pasting [/EN#30075/people a picture of a dancing man] .
+[/EN#30073/people A person] standing on [/EN#30074/other a yellow ladder] glues [/EN#30075/other a poster] on [/EN#30076/other a wall] .
+[/EN#30073/people A person] is standing on [/EN#30074/other a ladder] , hanging [/EN#30076/other wallpaper] .
+[/EN#30073/people Artist] putting [/EN#30080/other the finishing touches] on [/EN#30076/other wall mirage] .

@@ -1,0 +1,5 @@
+[/EN#196670/people A rock band] is performing in front of [/EN#196673/people a crowd] .
+[/EN#196670/people A all male group] playing [/EN#196672/other a song] on [/EN#196671/scene a stage] .
+[/EN#196670/people A four piece rock band] takes [/EN#196671/scene the stage] .
+[/EN#196671/scene A concert stage] with [/EN#196670/people four musicians] .
+[/EN#196670/people A band] is playing [/EN#196672/other music] on [/EN#196671/scene stage] .

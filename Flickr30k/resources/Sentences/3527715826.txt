@@ -1,0 +1,5 @@
+[/EN#125092/people A girl] , in [/EN#125094/clothing a black shirt] and [/EN#125095/clothing hot pink pants] , is about to hit [/EN#125097/other a tennis ball] on [/EN#125103/other the court] .
+[/EN#125092/people A girl] wearing [/EN#125100/clothing pink flip-flops] and [/EN#125095/other tights] is swinging [/EN#125099/other a tennis racket] at [/EN#125093/other a tennis ball] .
+[/EN#125092/people A girl] trying to hit [/EN#125093/other a ball] in [/EN#0/notvisual the air] with [/EN#125099/other a tennis racket] on [/EN#125098/scene the tennis court] .
+[/EN#125092/people A girl] wearing [/EN#125094/clothing a black shirt] and [/EN#125095/clothing pink pants] playing [/EN#125096/other tennis] on [/EN#125098/scene a tennis court] .
+[/EN#125092/people A girl] in [/EN#125100/clothing pink flip-flops] and [/EN#125095/clothing pants] playing [/EN#125096/other tennis] .

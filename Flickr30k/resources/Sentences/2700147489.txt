@@ -1,0 +1,5 @@
+[/EN#66899/people A man] jumps in [/EN#0/notvisual the air] while performing [/EN#66900/other a stunt] on [/EN#66901/other his skateboard] .
+[/EN#66899/people The guy] in [/EN#66904/clothing gray pants] is completing [/EN#0/notvisual a jump] on [/EN#66901/other his skateboard] .
+[/EN#66899/people A guy] skateboarding on [/EN#66902/scene a basketball court]
+[/EN#66899/people Man] with [/EN#66905/bodyparts beard] doing [/EN#66900/other skateboarding stunt]
+[/EN#66899/people a skateboarder] ollies .

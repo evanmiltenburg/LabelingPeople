@@ -1,0 +1,5 @@
+[/EN#145832/people A woman] in [/EN#145835/scene an office] is wearing [/EN#145833/clothing a plastic gown] decorated with [/EN#145833/bodyparts tracings of hands] over [/EN#145833/clothing her clothes] .
+[/EN#145832/people A woman] is dressed in [/EN#145833/clothing a homemade top] , consisting of [/EN#145833/bodyparts hands] drawn across [/EN#145839/scene the front] .
+[/EN#145832/people A black lady] with [/EN#145838/bodyparts black hair] in [/EN#145835/scene an office] wearing [/EN#145833/clothing a yellow suit] .
+[/EN#145832/people A woman] [/EN#0/notvisual who] is working try out [/EN#145833/clothing the new yellow jacket]
+[/EN#145832/people A black woman] waring [/EN#145833/other a yellow smock] in [/EN#145835/scene an office] .

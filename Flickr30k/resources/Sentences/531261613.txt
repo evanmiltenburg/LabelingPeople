@@ -1,0 +1,5 @@
+[/EN#233459/people A group of people] are riding [/EN#233461/animals horses] on [/EN#233460/scene a wooded trail] .
+[/EN#233459/people A group of horseback riders] travel down [/EN#233460/scene a dirt path] .
+[/EN#233459/people Several people] are riding [/EN#233461/animals horses] on [/EN#233460/scene a wooded trail] .
+[/EN#233459/people Group of horse riders] travel through [/EN#233462/other the woods] .
+[/EN#233459/people Horseback riders] file down [/EN#233460/scene a wooded path] .

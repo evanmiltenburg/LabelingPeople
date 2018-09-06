@@ -1,0 +1,5 @@
+[/EN#218326/scene A city] with [/EN#218330/scene historical buildings] at [/EN#0/notvisual a distance] on [/EN#218329/scene each side of the street] with [/EN#218327/people people] on [/EN#218328/scene the sidewalks] looking on .
+[/EN#218327/people a large group of people] walking on [/EN#218328/scene a sidewalk] along [/EN#218329/scene a street] and [/EN#218330/scene some old-fashioned buildings] .
+[/EN#218332/other The street lamp] is [/EN#218334/scene the focal point] , but [/EN#0/notvisual there] is [/EN#218336/people a person] bent down directly behind [/EN#218335/other the lamp] .
+[/EN#218331/scene A city scene] in [/EN#218337/other one point perspective] with [/EN#218327/people people] walking .
+[/EN#218327/people People] walk along [/EN#218328/scene a sidewalk] in [/EN#218326/scene a city] .

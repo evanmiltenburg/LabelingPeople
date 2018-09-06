@@ -1,0 +1,5 @@
+[/EN#78172/scene a downtown city] were [/EN#78169/people a person] is leaning up against [/EN#78170/scene a building] while on [/EN#78171/other his cellphone] .
+[/EN#0/notvisual There] is [/EN#78169/people a man] talking on [/EN#78171/other a phone] leaning against [/EN#78170/scene a building] on [/EN#78173/scene a city sidewalk] .
+[/EN#78169/people A man] talking on [/EN#78171/other a cellphone] is standing outside during [/EN#78176/other nighttime] .
+[/EN#78169/people A downtown shot of a man] on [/EN#78171/other his cellphone] under [/EN#78174/other an awning] .
+[/EN#78169/people A man] leaning against [/EN#78175/other a wall] on [/EN#78172/scene a street] .

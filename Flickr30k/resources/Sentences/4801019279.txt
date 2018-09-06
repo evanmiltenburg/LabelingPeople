@@ -1,0 +1,5 @@
+[/EN#204139/people A man] in [/EN#204140/clothing orange robes] walks in front of [/EN#204141/other a yellow wall] on [/EN#204142/scene a brick street] .
+[/EN#204139/people A man] in [/EN#204140/clothing orange dress-type style of clothing] is walking by [/EN#204143/scene a building] .
+[/EN#204139/people A man] wearing [/EN#204140/clothing orange robes] and [/EN#204146/clothing sandals] walks past [/EN#204141/other a pale orange wall] .
+[/EN#204139/people A man] in [/EN#204140/clothing an orange robe] walking along [/EN#204141/other a wall] .
+[/EN#204139/people A monk] walking [/EN#204144/scene home] from [/EN#204145/other mass] .

@@ -1,0 +1,5 @@
+[/EN#171905/other Cars drive] under [/EN#171907/scene a bridge] while [/EN#171906/people people] walk up above .
+[/EN#171906/people People] walk on [/EN#171907/scene a bridge] over [/EN#171905/vehicles a freeway full of cars] .
+[/EN#171906/people People] walk over [/EN#171907/scene a bridge] across [/EN#171908/scene a busy highway] .
+[/EN#171906/people 2 people] walking across [/EN#171907/scene a bridge] over [/EN#171908/scene a street] .
+[/EN#171909/vehicles Cars] are driving under [/EN#171907/scene a bridge] in [/EN#171910/scene a city] .

@@ -1,0 +1,5 @@
+[/EN#235753/people A man] wearing [/EN#235759/clothing a red boxing uniform] throws [/EN#235763/other a punch] with [/EN#235765/bodyparts his right hand] as [/EN#235755/people a man] wearing [/EN#235757/clothing blue boxing gloves] and [/EN#235768/scene headgear blocks] [/EN#235758/other the punch] .
+[/EN#235753/people A boxer] wearing [/EN#235759/clothing red] is punching [/EN#235755/people a boxer] wearing [/EN#235755/clothing white and blue] , while [/EN#235754/people both men] are wearing [/EN#235764/other boxing gear] .
+[/EN#235753/people A boxer] in [/EN#235759/clothing red] with [/EN#235753/bodyparts an intricate tattoo] gives [/EN#0/notvisual his] opponent [/EN#235758/other a right hook] to [/EN#235767/bodyparts the head] .
+[/EN#235754/people Two boxers] are fighting , [/EN#235753/other one] is punching [/EN#235755/other the other] .
+[/EN#235754/people Two men] are duking [/EN#0/notvisual it] out in [/EN#235756/clothing/scene a boxing ring] .

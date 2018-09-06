@@ -1,0 +1,5 @@
+[/EN#76107/animals A dog] is jumping up to catch [/EN#76108/other a Frisbee] in front of [/EN#76111/scene white tents] at [/EN#76109/other a dog show] .
+[/EN#76107/animals A collie] catches [/EN#76108/other a white Frisbee] at [/EN#76109/other an obedience competition] .
+[/EN#76107/animals Black dog] jumping into [/EN#0/notvisual the air] to catch [/EN#76108/other a Frisbee] .
+[/EN#76107/animals A dog] jumps to catch [/EN#76108/other a Frisbee] as [/EN#76112/people a man] watches .
+[/EN#76107/animals Dog] jumping high in [/EN#0/notvisual the air] to catch [/EN#76108/other a Frisbee] .

@@ -1,0 +1,5 @@
+[/EN#120973/people A man] with [/EN#120975/clothing a blue helmet] and [/EN#120978/clothing a yellow and black jacket] is riding [/EN#120974/vehicles a bike] in [/EN#120977/other the woods] .
+[/EN#120973/people A man] in [/EN#120975/clothing a blue helmet] and sunglasses [/EN#120974/vehicles bikes] through [/EN#120976/scene wooded terrain]
+[/EN#120973/people A man] rides [/EN#120974/vehicles his bicycle] through [/EN#120980/scene some grass] in [/EN#120976/scene a wooded area] .
+[/EN#120973/people A man] in [/EN#120975/clothing a blue helmet] rides [/EN#120974/vehicles a mountain bike] .
+[/EN#120973/people A mountain biker] riding through [/EN#120977/other the woods] .

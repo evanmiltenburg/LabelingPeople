@@ -1,0 +1,5 @@
+[/EN#166042/people A man] in [/EN#166044/clothing a white shirt] types at [/EN#166050/scene a desktop] , near [/EN#166047/other a window] and [/EN#166048/other black chair] .
+[/EN#166042/people A man] is [/EN#166044/clothing a white shirt] sits under [/EN#166046/other a lamp] typing on [/EN#166043/other a laptop computer] .
+[/EN#166042/people A man] is [/EN#166044/clothing a white sweater] is sitting at [/EN#166045/other a desk] using [/EN#166043/other a computer] .
+[/EN#166042/people a man] with [/EN#166049/clothing glasses] typing on [/EN#166043/other his laptop computer]
+[/EN#166042/people A man] working on [/EN#166043/other his computer] .

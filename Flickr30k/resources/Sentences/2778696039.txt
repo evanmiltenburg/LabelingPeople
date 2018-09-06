@@ -1,0 +1,5 @@
+[/EN#72500/people A boy] dressed in [/EN#72501/clothing a red t-shirt] and [/EN#72502/clothing blue shorts] is standing on [/EN#72503/scene a dirt road] .
+[/EN#72500/people A young male] is wearing [/EN#72502/clothing blue shorts] at [/EN#72504/scene the edge of a shaded area] .
+[/EN#72500/people A boy] wearing [/EN#72501/clothing a red shirt] and [/EN#72502/clothing blue shorts] is walking outside .
+[/EN#72500/people A young boy] in [/EN#72501/clothing a red shirt] walks in on [/EN#72503/scene an unpaved street] .
+[/EN#72500/people A young boy] playing in [/EN#72505/scene the street] .

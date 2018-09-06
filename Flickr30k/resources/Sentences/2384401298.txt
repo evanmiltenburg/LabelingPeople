@@ -1,0 +1,5 @@
+[/EN#45488/animals A dog] walking along [/EN#45489/scene a canal] and [/EN#45490/other his reflection] is on [/EN#45489/scene the water] .
+[/EN#45488/animals A white dog] and [/EN#45488/animals a brown dog] are by [/EN#45489/scene a stream] .
+[/EN#45488/animals A tan dog] is running along [/EN#45489/scene a river] .
+[/EN#45488/animals A dog] runs by [/EN#45491/scene the water 's edge] .
+[/EN#45492/animals Dogs] near [/EN#45489/scene the edge of water] .

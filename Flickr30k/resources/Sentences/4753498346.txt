@@ -1,0 +1,5 @@
+[/EN#198902/people A man] in [/EN#198911/clothing a black shirt] is holding [/EN#198903/other a piece of corn] over [/EN#198909/other something] .
+[/EN#198902/people A man] shucking [/EN#198903/other corn] while [/EN#198904/people his son] watches [/EN#198910/other television] .
+[/EN#198906/people Two identical people] are completing [/EN#198908/other different tasks] .
+[/EN#198902/people A man] is shucking [/EN#198903/other corn] with [/EN#198904/people his son] .
+[/EN#198905/people A woman] is preparing [/EN#198907/other a meal] .

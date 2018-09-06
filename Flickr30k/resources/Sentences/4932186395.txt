@@ -1,0 +1,5 @@
+[/EN#219885/people a girl] n [/EN#219888/clothing an orange dress] rides [/EN#219886/vehicles a bicycle] on [/EN#219887/scene an otherwise empty street] .
+[/EN#219885/people A girl] in [/EN#219888/clothing an orange dress] is riding [/EN#219886/vehicles a bike] down [/EN#219887/scene a city street] .
+[/EN#219885/people A girl] in [/EN#219888/clothing a dress] rides [/EN#219886/vehicles her bike] down [/EN#219887/scene an empty city street] .
+[/EN#219885/people A woman] in [/EN#219888/clothing an orange dress] riding [/EN#219886/vehicles a bike] through [/EN#219889/scene the city] .
+[/EN#219885/people A girl] riding [/EN#219886/vehicles a bicycle] down [/EN#219887/scene a street] in [/EN#219890/other the sun] .

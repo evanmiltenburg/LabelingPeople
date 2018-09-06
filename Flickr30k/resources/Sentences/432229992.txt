@@ -1,0 +1,5 @@
+[/EN#163014/people A female gymnast] in [/EN#163024/clothing a green and black leotard] performs in [/EN#163014/scene a sitting position] , [/EN#163016/bodyparts one leg] stretched in [/EN#0/notvisual the air] , while [/EN#163021/people other gymnasts] look on .
+[/EN#163014/people Gymnast] lying on [/EN#163015/scene the floor] with [/EN#163016/bodyparts one leg] pointed up at [/EN#163023/other the ceiling] .
+[/EN#163014/people Dancer] striking [/EN#163017/other a beautiful pose] on [/EN#163015/scene a basketball court] .
+[/EN#163014/people A female gymnast] is performing [/EN#163014/other a floor exercise] .
+[/EN#163014/people A gymnast] stretches on [/EN#163019/other the mat] .

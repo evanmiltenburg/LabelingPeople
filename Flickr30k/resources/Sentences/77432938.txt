@@ -1,0 +1,5 @@
+[/EN#274437/people A woman] is standing in [/EN#274438/scene the ocean] as [/EN#274436/scene a wave] comes towards [/EN#0/notvisual her] .
+[/EN#274436/scene A big wave] is crashing on [/EN#274438/scene a beach] with [/EN#274437/people a woman] walking [/EN#274440/other past] .
+[/EN#274437/people A lone woman] walks in [/EN#274436/other the surf] at [/EN#274438/scene the beach] .
+[/EN#274436/scene The waves] are crashing against [/EN#274437/people the woman] .
+[/EN#274437/people A person] is walking in [/EN#274436/scene the ocean waves] .

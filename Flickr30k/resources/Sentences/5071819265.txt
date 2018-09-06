@@ -1,0 +1,5 @@
+[/EN#228118/people A Person] in [/EN#228128/clothing a dark shirt] and [/EN#228129/clothing shorts] and [/EN#228130/clothing a white helmet] is jumping [/EN#228119/vehicles a bicycle] over [/EN#228120/scene a mound of dirt] .
+[/EN#228118/people A guy] on [/EN#228119/vehicles a bike] doing [/EN#0/notvisual a really cool trick] and [/EN#228126/people his friend] or [/EN#228127/people someone] is taking [/EN#228124/other a picture] .
+[/EN#228118/people A rider] on [/EN#228119/vehicles a dirt bike] is doing [/EN#228121/other a maneuver] in [/EN#228122/scene midair] over [/EN#228123/other a dirt mound] .
+[/EN#228118/people a person] on [/EN#228119/vehicles a bicycle] launching off [/EN#228120/scene a dirt ramp] on [/EN#228125/scene a track] .
+[/EN#228118/people A man] on [/EN#228119/vehicles a bike] just hit [/EN#228120/scene a dirt ramp] and is [/EN#228122/scene midair] .

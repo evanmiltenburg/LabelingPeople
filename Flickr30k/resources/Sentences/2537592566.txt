@@ -1,0 +1,5 @@
+[/EN#56313/people A man] standing next to [/EN#56314/vehicles/scene a yellow train] is looking at [/EN#56315/other the equipment] on [/EN#56316/scene the train tracks] .
+[/EN#56318/other City working] performing [/EN#56319/other maintenance] on [/EN#56314/vehicles public transportation] .
+[/EN#56313/people A man] in [/EN#56317/clothing a hard hat] stares at [/EN#56316/scene a machine of the train tracks] .
+[/EN#56313/people A construction worker] observes [/EN#56315/other his equipment] .
+[/EN#56313/people A man] standing on [/EN#56316/scene the tracks] .

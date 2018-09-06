@@ -1,0 +1,5 @@
+[/EN#283120/people A man] with [/EN#283123/clothing glasses] and [/EN#283125/clothing a long-sleeve green shirt] admires [/EN#283121/other a Komodo dragon] .
+[/EN#283120/people A smiling man] with [/EN#283123/clothing glasses] is near [/EN#283121/animals a giant lizard] [/EN#0/notvisual who] is sleeping .
+[/EN#283120/people A man] with [/EN#283124/clothing a backpack] is observing [/EN#283121/animals an alligator] .
+[/EN#283120/people A man] crouches and observes [/EN#283121/other a Komodo dragon] .
+[/EN#283120/people A man] is smiling behind [/EN#283121/other a Komodo Dragon] .

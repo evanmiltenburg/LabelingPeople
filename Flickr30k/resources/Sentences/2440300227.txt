@@ -1,0 +1,5 @@
+[/EN#49645/people A boy] dressed in [/EN#49653/clothing red] plays [/EN#49650/other soccer] while [/EN#49646/people a gentleman] in [/EN#49651/clothing a gray shirt] and [/EN#49652/clothing black pants] watches .
+[/EN#49645/people A young child] in [/EN#49649/clothing his red soccer uniform] sprints under [/EN#49646/people the watchful gaze of his father] .
+[/EN#49645/people A young soccer player] dressed in [/EN#49649/clothing red] running down [/EN#49648/scene the field] .
+[/EN#49645/people A young boy] in [/EN#49649/clothing a red uniform] playing [/EN#49650/other soccer] .
+[/EN#49645/people A young boy] plays [/EN#49650/other soccer] on [/EN#49648/scene a grassy field] .

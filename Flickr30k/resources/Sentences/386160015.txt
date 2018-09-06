@@ -1,0 +1,5 @@
+[/EN#146129/animals A brown dog] playing [/EN#146129/other play] wrestling with [/EN#146130/animals a black dog] on [/EN#146127/scene snow covered land] .
+[/EN#146126/animals two dogs] are wrestling in [/EN#146127/scene a snow covered field] .
+[/EN#146126/animals The two dogs] are fighting outside in [/EN#146127/scene the snow] .
+[/EN#146126/animals Two dogs] playing on [/EN#0/notvisual snow covered ground]
+[/EN#146126/animals Two brown dogs] playing in [/EN#146127/scene snow]

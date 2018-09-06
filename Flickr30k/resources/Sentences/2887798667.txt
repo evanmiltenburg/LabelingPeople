@@ -1,0 +1,5 @@
+[/EN#79097/people A person] in [/EN#79101/clothing a hooded sweatshirt] is doing [/EN#0/notvisual a bicycle trick] off of [/EN#79100/other a wall] .
+[/EN#79097/people A youth] on [/EN#79098/vehicles a bicycle] wearing [/EN#79101/clothing a white sweater] riding along [/EN#79100/other a wall] .
+[/EN#79097/people a young person] riding [/EN#79098/vehicles a bike] on [/EN#79100/other the side of a brick wall]
+[/EN#79097/people A person] in [/EN#79102/clothing gray] is riding [/EN#79098/vehicles a bike] on [/EN#79100/other a brick wall] .
+[/EN#79097/people A guy] doing [/EN#79099/other a wallride] on [/EN#79098/vehicles his bike]

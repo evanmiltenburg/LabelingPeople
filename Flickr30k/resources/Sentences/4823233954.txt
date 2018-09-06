@@ -1,0 +1,5 @@
+[/EN#207272/people A man] on [/EN#207273/vehicles a bike] pulling on [/EN#207274/animals the harness of a horse] being ridden by [/EN#207275/people someone] .
+[/EN#207272/people A man] on [/EN#207273/vehicles a motorbike] is leading [/EN#207274/animals the horse] with [/EN#207275/people another man] on [/EN#207277/other its back] .
+[/EN#207272/people A man] on [/EN#207273/vehicles a motorbike] is leading [/EN#207274/animals a horse] [/EN#0/notvisual that] is giving [/EN#207275/people someone] [/EN#207276/other a ride] .
+[/EN#207272/people The man] in [/EN#207280/clothing a white shirt] is guiding [/EN#207274/animals the horse] down [/EN#207279/scene the street] .
+[/EN#207272/people A man] on [/EN#207273/vehicles a bicycle] leads [/EN#207274/animals a horse] and [/EN#207275/people rider] in [/EN#207278/scene a rural area] .

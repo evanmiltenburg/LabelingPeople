@@ -1,0 +1,5 @@
+[/EN#29383/people Man] in [/EN#29389/clothing shorts] sitting on [/EN#29385/scene a tile floor] near [/EN#29391/other a window] while [/EN#29388/people other people] sit or stand nearby .
+[/EN#29383/people A young man] in [/EN#29387/clothing a green t-shirt] strums [/EN#29384/instruments his guitar] while sitting cross-legged on [/EN#29385/scene the floor] .
+[/EN#29383/people a man] with [/EN#29392/bodyparts beard] sitting down playing [/EN#29384/instruments an acoustic guitar] .
+[/EN#29383/people A man] sitting on [/EN#0/notvisual the ground] , playing [/EN#29384/instruments guitar] .
+[/EN#29383/people Man] playing [/EN#29384/instruments guitar] in [/EN#29386/scene a public place] .

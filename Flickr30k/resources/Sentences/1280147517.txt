@@ -1,0 +1,5 @@
+[/EN#7094/people A waterskiing man] does [/EN#7095/other a flip behind] [/EN#7093/vehicles a speedboat] .
+[/EN#7094/people The waterskier] does [/EN#7095/other a flip behind] [/EN#7093/vehicles/scene a boat] .
+[/EN#7094/people A wakeboarder] flies sideways in [/EN#0/notvisual the air] .
+[/EN#7094/people A waterskier] performs [/EN#0/notvisual tricks] .
+[/EN#7093/vehicles/scene A boat] on [/EN#7096/scene a lake] .

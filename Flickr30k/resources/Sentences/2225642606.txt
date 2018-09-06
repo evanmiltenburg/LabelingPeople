@@ -1,0 +1,5 @@
+[/EN#35234/people A group of people] surround [/EN#35235/other a tree] as [/EN#35236/people someone] places [/EN#35237/scene dirt] to bury [/EN#35238/scene the roots] .
+[/EN#35236/people A man] pouring [/EN#35237/scene dirt] into [/EN#35239/other the base of a newly planted tree] .
+[/EN#35234/people Two workmen] add [/EN#35237/scene dirt] to [/EN#35235/other a freshly planted tree] .
+[/EN#35234/people Two men] move [/EN#35237/scene dirt] around [/EN#35235/other a young tree] .
+[/EN#35234/people two men] are planting [/EN#35235/other a tree]

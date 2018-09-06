@@ -1,0 +1,5 @@
+[/EN#245050/people Baseball player] in [/EN#245056/clothing red shirt] slides into [/EN#245051/other a base] , as [/EN#245054/people another player] in [/EN#245053/other blue tags] [/EN#0/notvisual him] .
+[/EN#245050/people A baseball player] in [/EN#245053/other blue tags] [/EN#245050/people a player] in [/EN#245055/clothing red] out .
+[/EN#245050/people A baseball player] sliding into [/EN#245051/other second base] .
+[/EN#245057/people two guys] playing [/EN#245052/other a game of baseball] .
+[/EN#0/notvisual They] are playing [/EN#245052/other baseball] .

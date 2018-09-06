@@ -1,0 +1,5 @@
+[/EN#192111/people A portly man] wearing [/EN#192112/clothing an athletic t-shirt] is preparing to throw [/EN#192113/other a weight] .
+[/EN#192111/people A man] wearing [/EN#192112/clothing a Nike shirt] and [/EN#192114/clothing kilt] prepares to toss [/EN#192113/other an object] .
+[/EN#192111/other A body builder] wearing [/EN#192112/clothing a Nike shirt] throws [/EN#192113/other a heavy object] .
+[/EN#192111/people A man] in [/EN#192114/clothing a skirt] is playing [/EN#192116/other a game] on [/EN#192117/scene a field] .
+[/EN#192111/people A man] in [/EN#192114/clothing a skirt] is trowing [/EN#192113/other a large weight] .

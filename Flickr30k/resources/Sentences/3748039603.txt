@@ -1,0 +1,5 @@
+[/EN#141122/people A child] is holding [/EN#141123/other a bunch of balloons] in front of [/EN#141124/bodyparts their face] .
+[/EN#141122/people A child] holding [/EN#141123/other balloons] [/EN#0/notvisual that] cover [/EN#141124/bodyparts their face] .
+[/EN#141122/people A little boy] holds [/EN#141123/other many inflated balloons] .
+[/EN#141122/people Child] carrying [/EN#141123/other a bouquet of balloons] .
+[/EN#141122/people A young child] carrying [/EN#141123/other many balloons] .

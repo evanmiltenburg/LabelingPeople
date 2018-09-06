@@ -1,0 +1,5 @@
+[/EN#68248/people A crowd] gathers around [/EN#68249/vehicles/scene a docked white boat] , equipped with [/EN#68256/clothing orange life saver] , along [/EN#68257/other a riverbank] and [/EN#68255/scene seaside landscape] .
+[/EN#68248/people A group of people] are disembarking from [/EN#68249/vehicles/scene a boat] at [/EN#68250/scene a harbor] on [/EN#68251/scene a bright sunny day] .
+[/EN#68248/people People] stand on [/EN#68253/scene boat dock] waiting for [/EN#68249/vehicles/scene their boat] to arrive .
+[/EN#68248/people a crowd] next to [/EN#68252/scene a lake] on [/EN#68253/scene a port] next to [/EN#68254/vehicles/scene a boat]
+[/EN#68248/people Many people] stand on [/EN#68253/scene a dock] near [/EN#68249/vehicles/scene a boat] .

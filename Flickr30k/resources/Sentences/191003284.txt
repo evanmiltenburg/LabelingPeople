@@ -1,0 +1,5 @@
+[/EN#22978/people A man] helps [/EN#22981/other a young girl balance] on [/EN#22979/vehicles a bicycle] [/EN#0/notvisual that] is too big for [/EN#0/notvisual her] .
+[/EN#22978/people This man] is helping [/EN#22980/people a girl] in [/EN#22982/clothing an orange dress] onto [/EN#22979/vehicles a bicycle] .
+[/EN#22978/people A man] is helping [/EN#22980/people a girl] sit on [/EN#22979/vehicles a large bicycle] .
+[/EN#22978/people A man] holding onto [/EN#22980/people a small girl] on [/EN#22979/vehicles a bike] .
+[/EN#22978/people A man] helps [/EN#22980/people a little girl] ride [/EN#22979/vehicles a bike] .

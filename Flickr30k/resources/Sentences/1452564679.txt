@@ -1,0 +1,5 @@
+[/EN#13388/people A man] in [/EN#13389/clothing an orange shirt] looks at [/EN#13390/other an orange object] with [/EN#13391/other decals] on [/EN#0/notvisual it] .
+[/EN#13388/people A man] in [/EN#13389/clothing an orange shirt] looking at [/EN#13390/other an orange object] .
+[/EN#13388/people A man] in [/EN#13389/clothing an orange shirt] observing [/EN#13390/other an orange product] .
+[/EN#13388/people a man] in [/EN#13389/clothing an orange shirt] standing next to [/EN#13390/other a machine]
+[/EN#13388/people A man] looking at [/EN#13390/other an orange device] .

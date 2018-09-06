@@ -1,0 +1,5 @@
+[/EN#230972/people A group of people] is sitting in [/EN#230975/scene a large room] , and [/EN#0/notvisual many of them] have [/EN#230976/bodyparts their hands] raised .
+[/EN#230972/people A group of people] sitting at [/EN#230981/other stadium desks] with [/EN#230983/clothing headphones] on with [/EN#230976/bodyparts their hands] raised .
+[/EN#230972/people A large group of people] raising [/EN#230976/bodyparts their hands] at [/EN#230978/other a meeting] .
+[/EN#230975/scene A room] filled with [/EN#230974/people many officials] [/EN#0/notvisual who] are taking [/EN#230979/other a vote] .
+[/EN#230977/people A panel of men] and [/EN#230982/people women] attending [/EN#230973/people a conference] .

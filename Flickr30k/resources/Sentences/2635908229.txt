@@ -1,0 +1,5 @@
+[/EN#62949/people A small boy] in [/EN#62953/clothing sandals] sits on [/EN#62951/scene a wooden post] in [/EN#62952/scene a field] .
+[/EN#62949/people A boy] sits on [/EN#62951/scene the tall fence post] and smiles .
+[/EN#62949/people A child] sits on top of [/EN#62950/other a large tree stump] .
+[/EN#62949/people A boy] sits on [/EN#62950/other a tree stump] .
+[/EN#62949/people A boy] sitting on [/EN#62950/other a stump] .

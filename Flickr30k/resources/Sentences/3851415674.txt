@@ -1,0 +1,5 @@
+[/EN#145644/people A teenage boy] is shaving in front of [/EN#145646/other a mirror] while [/EN#145647/people an older man] watches from [/EN#145645/scene a doorway] .
+[/EN#145644/people A younger boy] trying to shave while [/EN#145647/people an older man] in [/EN#0/notvisual the background] is watching [/EN#0/notvisual him] .
+[/EN#145644/people A young teenager] is shaving while [/EN#145647/people an older onlooker] watches from [/EN#145645/scene the doorway] .
+[/EN#145644/people A teen] is shaving [/EN#145648/bodyparts his face] in [/EN#145646/other a mirror] while [/EN#145647/people an older man] looks on .
+[/EN#145644/people A young boy] shaves as [/EN#145647/people his father] watches from [/EN#145645/scene the doorway] .

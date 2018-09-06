@@ -1,0 +1,5 @@
+[/EN#143999/animals A white poodle] is climbing over [/EN#144002/animals a black poodle] , [/EN#0/notvisual who] is in [/EN#144005/other turn] climbing over [/EN#144004/animals another black poodle] .
+[/EN#143999/animals A white poodle] and [/EN#144000/animals two black poodles] are playing in [/EN#144001/scene the grass] on [/EN#144003/scene an autumn day] .
+[/EN#143999/animals A white poodle] and [/EN#144000/animals 2 black poodles] are playing on [/EN#144001/scene the grass] .
+[/EN#144000/animals Two black dogs] and [/EN#143999/animals one white dog] interact .
+[/EN#143999/animals A white dog] and [/EN#144000/animals two black dogs] playing

@@ -1,0 +1,5 @@
+[/EN#33388/people A woman] in [/EN#33389/clothing a white shirt] and [/EN#33390/clothing hat] is playing [/EN#33394/other tennis] outside on [/EN#33395/scene a blue tennis court] .
+[/EN#33388/people A tennis player] in [/EN#33389/clothing a purple shirt] is getting ready to swing [/EN#33391/other her racket] .
+[/EN#33388/people A lady] wearing [/EN#33389/clothing a white t-shirt] and [/EN#33392/clothing a pink skirt] is playing [/EN#33397/other tennis] .
+[/EN#33388/people A female tennis player] on [/EN#33396/other a blue court] prepares to hit [/EN#33393/other the ball] .
+[/EN#33388/people A woman] in [/EN#33392/clothing a pink skirt] is serving [/EN#33393/other a ball] in [/EN#33397/other a tennis game] .

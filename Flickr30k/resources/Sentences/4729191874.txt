@@ -1,0 +1,5 @@
+[/EN#196217/people A woman] in [/EN#196220/clothing a brown shirt] and [/EN#196216/people a man] in [/EN#196221/clothing a hat] cross [/EN#196218/scene the street] .
+[/EN#196215/people A male and female] crossing [/EN#196218/scene the street] at [/EN#196222/other the same time] .
+[/EN#196215/people Two young adults] crossing [/EN#196218/scene the street] using [/EN#196219/scene a crosswalk] .
+[/EN#196216/people A man] and [/EN#196217/people a woman] are walking across [/EN#196218/scene the street] .
+[/EN#196216/people a man] and [/EN#196217/people woman] walking across [/EN#196218/scene a street] .

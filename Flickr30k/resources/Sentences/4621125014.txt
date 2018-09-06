@@ -1,0 +1,5 @@
+[/EN#183511/people A man] standing in [/EN#183513/scene a kitchen] with [/EN#183512/other dishwasher] and [/EN#183515/other silverware drawer] open .
+[/EN#183511/people A bald man] in [/EN#183516/clothing a T-shirt] is emptying [/EN#183512/other a dishwasher] in [/EN#183513/scene a kitchen] .
+[/EN#183511/people A man] putting [/EN#183514/other dishes] away in [/EN#183512/other the dishwasher] .
+[/EN#183511/people A man] is loading [/EN#183512/other his dishwasher] .
+[/EN#183511/people A man] putting [/EN#183514/other his dishes] away .

@@ -1,0 +1,5 @@
+[/EN#54781/people Man] with [/EN#54789/clothing tan cap] , [/EN#54784/clothing suit jacket] and [/EN#54787/clothing plaid shirt] behind [/EN#54783/other a picture] in [/EN#54786/scene an outdoor scene] with [/EN#54782/people other people] in [/EN#0/notvisual the background] .
+[/EN#54781/people A man] in [/EN#54784/clothing an old suit] holding up [/EN#54783/other a protest sign] in [/EN#54782/people a crowd of people] .
+[/EN#54781/people A man] holding [/EN#54783/other a sign] with [/EN#54782/people people] walking around in [/EN#0/notvisual the background] .
+[/EN#54781/people A man] stands by [/EN#54783/other an animal rights sign] at [/EN#54785/scene an outdoor event] .
+[/EN#54781/people A man] stands near [/EN#54782/people a crowd] holding [/EN#54783/other a protest sign] .

@@ -1,0 +1,5 @@
+[/EN#238720/people A man] rides down [/EN#238722/scene the street] past [/EN#238729/other some flowers] in [/EN#238728/other pots] , while holding [/EN#238723/vehicles a second bike] .
+[/EN#238720/people A dark-haired man] in [/EN#238730/clothing a hat] and [/EN#238731/clothing a plaid shirt] is riding and pulling [/EN#238721/vehicles a bike] .
+[/EN#238720/people A man] taking [/EN#238723/vehicles his son 's bicycle] to [/EN#238727/scene a repair shop] after [/EN#0/notvisual it] had [/EN#238726/other a puncture] .
+[/EN#238720/people A man] on [/EN#238721/vehicles a bike] leading [/EN#238723/vehicles another bicycle] along [/EN#238722/scene a city alley] .
+[/EN#238720/people A man] on [/EN#238724/vehicles a bike] with [/EN#238723/other an empty one] beside [/EN#0/notvisual him] .

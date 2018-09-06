@@ -1,0 +1,5 @@
+[/EN#204211/people Two women] walking beside [/EN#0/notvisual each other] on [/EN#204207/scene a street] passing [/EN#204212/people a man] on [/EN#204208/scene the sidewalk] beside [/EN#0/notvisual them] going [/EN#0/notvisual the opposite direction] .
+[/EN#204206/people A group of people] is walking down [/EN#204207/scene a city street] outside of [/EN#204213/scene buildings] .
+[/EN#204210/other A image of a pole] casting [/EN#204215/people the shadow of a woman] .
+[/EN#204206/people People] walk in front of [/EN#204209/other some graffiti] .
+[/EN#204206/people People] walking past [/EN#204209/other graffiti] .

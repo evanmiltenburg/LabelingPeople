@@ -1,0 +1,5 @@
+[/EN#85929/people A man] wearing [/EN#85930/clothing a red jacket] and [/EN#85930/clothing gray shirt] is using [/EN#85934/other a chisel] on [/EN#85931/other an object] .
+[/EN#85929/people An old man] in [/EN#85930/clothing a red sweatshirt] chisels away at [/EN#85931/other a rock sculpture] .
+[/EN#85929/people A stone worker] is chiseling at [/EN#85931/other a large piece of rock] .
+[/EN#85929/people A man] in [/EN#85930/clothing a flannel shirt] is chiseling [/EN#85931/other a rock] .
+[/EN#85929/people The artist] chisels away at [/EN#85931/other the large stone] .

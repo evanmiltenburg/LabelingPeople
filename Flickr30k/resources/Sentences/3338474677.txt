@@ -1,0 +1,5 @@
+[/EN#110716/people A man] riding [/EN#110717/vehicles a blue bicycle] on [/EN#110721/scene a main road] stops at [/EN#110718/other a stoplight] .
+[/EN#110716/people A man] on [/EN#110717/vehicles a bicycle] sits at [/EN#110718/other a stoplight] with [/EN#110719/clothing headphones] on .
+[/EN#110716/people A bald man] in [/EN#110722/clothing a tank top] riding [/EN#110717/vehicles bike] through [/EN#110720/scene a city] .
+[/EN#110716/people The man] is riding [/EN#110717/vehicles his bike] and listening to [/EN#110723/other music] .
+[/EN#110716/people Man] with [/EN#110724/clothing sunglasses] and [/EN#110719/clothing headphones] riding [/EN#110717/vehicles a bike] .

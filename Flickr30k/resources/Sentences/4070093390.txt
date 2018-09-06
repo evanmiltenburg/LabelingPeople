@@ -1,0 +1,5 @@
+[/EN#154147/people A bunch of employees] in [/EN#154152/clothing red jackets] standing around [/EN#154154/scene a roped-off area] .
+[/EN#154147/people Men] in [/EN#154152/clothing red jackets] are watching [/EN#154153/other the exit] to [/EN#154150/scene a building] .
+[/EN#154148/people People] are standing while waiting to [/EN#154149/scene the exit area] .
+[/EN#154148/people a bunch of people] standing in [/EN#154151/other line] .
+[/EN#154147/people Some people] are waiting in [/EN#154151/other a line] .

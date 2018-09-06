@@ -1,0 +1,5 @@
+[/EN#85956/people A woman] with [/EN#85957/clothing a maroon shirt] on and [/EN#85958/clothing blue jeans] in [/EN#85964/other a work environment] using [/EN#85959/other a pulley] to move [/EN#85960/other a structure] .
+[/EN#85956/people A middle-aged blond woman] is directing [/EN#85960/other an object] onto [/EN#85961/other a trolley] .
+[/EN#85956/people A man] using [/EN#85959/scene a crane] to lift up [/EN#85960/other a sculpture] .
+[/EN#85956/people A woman] works in [/EN#85964/scene a dusty art studio] .
+[/EN#85956/people Lady] with [/EN#85963/other stone] carving on [/EN#85959/other hook] .

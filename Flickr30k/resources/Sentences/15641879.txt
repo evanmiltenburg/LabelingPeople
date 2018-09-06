@@ -1,0 +1,5 @@
+[/EN#16508/people A man] in [/EN#16511/other a sweatshirt reading " Alaska] " at [/EN#16510/other a lottery ticket] and [/EN#16515/other cigarette] selling [/EN#16516/scene stand] .
+[/EN#16508/people A man] wearing [/EN#16511/clothing an Alaska sweatshirt] and [/EN#16513/clothing a baseball cap] is buying [/EN#16509/other lottery tickets] .
+[/EN#16508/people A man] in [/EN#16511/other a sweatshirt reading " Alaska] " sells [/EN#16509/other lottery tickets] .
+[/EN#16508/people A man] in [/EN#16511/clothing an Alaska sweatshirt] stands behind [/EN#16514/other a counter] .
+[/EN#16508/people A man] is wearing [/EN#16511/clothing an Alaska sweatshirt] .

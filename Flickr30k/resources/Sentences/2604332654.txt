@@ -1,0 +1,5 @@
+[/EN#61039/people Two men] are walking along side [/EN#61042/scene the ocean] carrying [/EN#61041/other a fishing pole] .
+[/EN#61039/people Two men] carrying [/EN#61041/other fishing poles] walking along [/EN#61040/scene the beach] .
+[/EN#61039/people Two men] walk along [/EN#61040/scene a beach] as [/EN#0/notvisual they] look at [/EN#61042/scene the water] .
+[/EN#61039/people Two man] walk on [/EN#61043/other the sand] by [/EN#61040/scene a large body of water] .
+[/EN#61039/people Two people] are walking along [/EN#61040/scene the beach]

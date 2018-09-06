@@ -1,0 +1,5 @@
+[/EN#203659/people The man] on [/EN#203662/other the cherry-picker] is high above [/EN#0/notvisual the ground] beside [/EN#203658/scene the beige house] .
+[/EN#203658/scene A building] has [/EN#203667/other multiple balconies] with [/EN#203669/other various plants] growing on [/EN#203666/scene its fence] .
+[/EN#203661/scene A lift] raising [/EN#203659/people a man] with [/EN#203660/clothing an orange vest] in [/EN#203662/vehicles a red cart] [/EN#203657/other 2.5 stories] high .
+[/EN#203659/people A man] in [/EN#203660/clothing an orange vest] is raised into [/EN#0/notvisual the air] by [/EN#203661/other a red machine] .
+[/EN#203659/people One man] in [/EN#203663/people a cherry picker] doing [/EN#203665/other his job] .

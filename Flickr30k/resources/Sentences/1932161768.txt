@@ -1,0 +1,5 @@
+[/EN#23423/animals A small white dog] with [/EN#23425/clothing a blue collar] is climbing over [/EN#23424/other a large log] .
+[/EN#23423/animals A white terrior] is jumping over [/EN#23424/other a log] .
+[/EN#23423/animals A white dog] jumps over [/EN#23426/scene a log outside] .
+[/EN#23423/animals A small white dog] climbs over [/EN#23424/other a log] .
+[/EN#23423/animals a small dog] steps onto [/EN#23424/other a log] .

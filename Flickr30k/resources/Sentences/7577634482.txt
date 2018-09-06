@@ -1,0 +1,5 @@
+[/EN#271622/scene A police office] riding [/EN#271623/other a motorcycle] in front of [/EN#271621/people a large group of people] standing behind [/EN#271630/scene a waist-high fence] .
+[/EN#271621/people A crowd] leans against [/EN#271624/other barriers] along side [/EN#271625/scene a road] while [/EN#271622/people a police officer] on [/EN#271623/other a motorcycle] drives by .
+[/EN#271622/people A police officer] is riding [/EN#271623/vehicles a motorbike] down [/EN#271625/scene a street] while [/EN#271621/people spectators] behind [/EN#271627/other a barricade look] on .
+[/EN#271622/people A person] wearing [/EN#271632/clothing a yellow jacket] is riding [/EN#271623/other a white motorcycle] by [/EN#271621/people a crowd of onlookers] .
+[/EN#271622/people A police officer] riding [/EN#271623/other a motorcycle] in [/EN#271628/other a busy] even with [/EN#271621/people people] behind [/EN#271624/other a railing] .

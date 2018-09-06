@@ -1,0 +1,5 @@
+[/EN#124514/people A man] in [/EN#124516/clothing a blue shirt] walks past [/EN#124517/scene a building] with [/EN#124513/other a lot of signs] on [/EN#124515/other the wall] .
+[/EN#124513/other Advertisements] in front of [/EN#124517/scene a store] including " [/EN#124512/other $ 12.99 12 pk BOTTLES] . "
+[/EN#124514/people A man] in [/EN#124516/clothing a blue shirt] is walking in front of [/EN#124517/scene a store] on [/EN#124518/scene a city street] .
+[/EN#124515/other Picture of a storefront] , [/EN#124511/other biggest sign] says [/EN#124512/other $ 12.99 12pk bottles] .
+[/EN#124514/people A man] in [/EN#124516/clothing a blue shirt] walking passed [/EN#124517/scene a store] .

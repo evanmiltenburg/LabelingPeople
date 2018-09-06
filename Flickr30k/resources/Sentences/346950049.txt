@@ -1,0 +1,5 @@
+[/EN#120360/people A man] wearing [/EN#120363/clothing a white t-shirt] , [/EN#120364/clothing blue jeans] and [/EN#120368/clothing tennis shoes] , is standing on to [/EN#120367/other steel beams] , holding [/EN#120361/other long metal wires] , [/EN#120369/bodyparts his eyes] are closed in [/EN#0/notvisual the background] [/EN#0/notvisual there] is either [/EN#120362/scene a lake] or [/EN#120362/scene an ocean] .
+[/EN#120360/people A man] wearing [/EN#120364/clothing blue jean] , [/EN#120363/clothing white shirt] drawing up [/EN#120361/other a line] out of [/EN#120362/scene the water] .
+[/EN#120360/people Men] with [/EN#120363/clothing white t-shirt] and [/EN#120364/clothing jeans] , struggling to pull [/EN#120361/other a fishing rope] .
+[/EN#120360/people A man] in [/EN#120363/clothing a white shirt] and [/EN#120364/clothing jeans] is standing next to [/EN#120366/other old wood] .
+[/EN#120360/people A man] in [/EN#120363/clothing a white shirt] pulls [/EN#120361/other a line] out of [/EN#120362/scene the water] .

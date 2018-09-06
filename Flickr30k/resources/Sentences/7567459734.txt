@@ -1,0 +1,5 @@
+[/EN#271454/people Two people] , riding [/EN#271458/vehicles separate bikes] , are rounding [/EN#271459/scene a corner] in [/EN#271455/other a bicycle race] on [/EN#271456/scene a sunny day] .
+[/EN#271454/people Two bikers] riding close together while [/EN#271457/people onlookers] stand in [/EN#271462/other the back] behind [/EN#271460/scene a fence] .
+[/EN#271454/people Two bicyclists] in [/EN#271455/other a race] wearing [/EN#271464/clothing helmets] with [/EN#271457/people bystanders] in [/EN#0/notvisual the background] .
+[/EN#271454/people Two cyclists] competing in [/EN#271455/other road race] , [/EN#271461/other one] in front of [/EN#271463/other the other] .
+[/EN#271454/people Two women] race [/EN#271458/vehicles their bicycles] on [/EN#271456/scene a sunny day] .

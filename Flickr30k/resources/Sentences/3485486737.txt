@@ -1,0 +1,5 @@
+[/EN#121808/people A person] riding in [/EN#121811/vehicles the back of one vehicle] is looking down [/EN#121813/scene the road] towards [/EN#121809/vehicles a yellow truck] .
+[/EN#121812/people Two people] sit in [/EN#121815/scene shadow] in [/EN#121811/vehicles the open back of a vehicle] followed by [/EN#121809/vehicles another vehicle] .
+[/EN#121808/people a man] looking out [/EN#121811/vehicles the back of his car] looking at [/EN#121810/other a yellow van] behind
+[/EN#121808/people A man] in [/EN#121810/other the back of a van] takes [/EN#121809/vehicles a picture of a yellow truck] .
+[/EN#121808/people Photographer] shooting [/EN#121809/vehicles/scene picture of yellow bus] .

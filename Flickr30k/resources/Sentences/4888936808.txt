@@ -1,0 +1,5 @@
+[/EN#215122/people An older man] in [/EN#215134/clothing a purple shirt] sitting on [/EN#215126/other a bench] with [/EN#215129/other his foot] on [/EN#215131/other a pole] .
+[/EN#215122/people An elderly man] is sitting on [/EN#215126/other a bench] with [/EN#215129/other his foot] propped up on [/EN#215128/other a tree] .
+[/EN#215122/people A man] sits on [/EN#215126/other a part bench] with [/EN#215129/other his foot] up against [/EN#215128/other a tree] .
+[/EN#215123/people A group of elderly men] sitting on [/EN#215126/other a bench] [/EN#215132/other indoors] .
+[/EN#215125/people People] sitting next to [/EN#215133/other trees] on [/EN#215126/other a bench] .

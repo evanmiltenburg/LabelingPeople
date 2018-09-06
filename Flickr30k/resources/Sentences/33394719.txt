@@ -1,0 +1,5 @@
+[/EN#110787/people A man] in [/EN#110788/clothing a black t-shirt] and [/EN#110794/other white hat hikes] in front of [/EN#110790/scene a white glacier] .
+[/EN#110787/people A hiker] in [/EN#110788/clothing a black shirt] is standing before [/EN#110790/scene an ice covered mountain] .
+[/EN#110787/people A man] in [/EN#110788/clothing a black shirt] is hiking in [/EN#110789/scene rocky terrain] .
+[/EN#110787/people An adventurous man] looks up at [/EN#110792/scene a rocky path] .
+[/EN#110787/people A man] in [/EN#110788/clothing a black shirt] is walking on [/EN#110793/other rocks] .

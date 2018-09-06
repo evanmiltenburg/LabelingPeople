@@ -1,0 +1,5 @@
+[/EN#97156/people A man] in [/EN#97157/clothing a gray hooded sweatshirt] is holding [/EN#97158/other a hammer] and [/EN#97162/other a nail] while being surrounded by [/EN#97159/other chairs] .
+[/EN#97156/people A man] wearing [/EN#97157/clothing a hooded shirt] is holding [/EN#97158/other a hammer] and squatting on [/EN#97160/scene the floor] .
+[/EN#97156/people The man] in [/EN#97157/clothing the gray hooded jacket] finds [/EN#97161/other the missing piece] .
+[/EN#97156/people A man] in [/EN#97157/clothing a sweatshirt] holds [/EN#97158/other a hammer] and smiles .
+[/EN#97156/people Man] on [/EN#97160/scene floor] amongst [/EN#97159/other chairs] .

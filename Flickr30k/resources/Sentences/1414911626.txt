@@ -1,0 +1,5 @@
+[/EN#11984/vehicles Red white and blue SUV] patrolling [/EN#11985/scene the beach] and [/EN#11985/scene shoreline] on [/EN#11988/scene a cloudy day] while [/EN#11986/animals seagulls] walk in [/EN#11985/other the sand] .
+[/EN#11984/vehicles A red , white , and blue security vehicle] is driving down [/EN#11985/scene a rocky beach] toward [/EN#11986/animals some birds] on [/EN#11988/scene a cloudy day] .
+[/EN#11984/vehicles A truck] driving along [/EN#11985/scene a beach] near [/EN#11986/animals a flock of seagulls] .
+[/EN#11984/vehicles Orange SUV] drive by [/EN#11985/scene the shore] .
+[/EN#11984/vehicles A car] parked at [/EN#11985/scene the beach] .

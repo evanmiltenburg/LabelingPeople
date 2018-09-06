@@ -1,0 +1,5 @@
+[/EN#137198/people A man] in [/EN#137204/clothing a red uniform] makes [/EN#0/notvisual a jump] in [/EN#137200/other a dirt bike race] .
+[/EN#137199/people Two people] ride [/EN#137202/vehicles bicycles] over [/EN#137201/other a bumpy racetrack] .
+[/EN#137199/people Two BMX riders] are racing around [/EN#137205/scene a bumpy track] .
+[/EN#137198/people a man] participates in [/EN#137200/other a bmx race] .
+[/EN#137199/people Two people] go [/EN#137202/vehicles dirt bike] racing .

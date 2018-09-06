@@ -1,0 +1,5 @@
+[/EN#40658/animals Two dogs] run in [/EN#40659/scene a gravel lot] with [/EN#40660/scene a fence] in [/EN#0/notvisual the foreground] .
+[/EN#40658/animals Two dogs] walk over [/EN#40659/scene the gravel yard] inside [/EN#40662/scene a gated area] .
+[/EN#40658/animals Two dogs] are playing in [/EN#40660/other a fenced] in [/EN#40659/other area of gravel] .
+[/EN#40657/animals The white and brown dog] is shaking [/EN#40665/bodyparts its ears] .
+[/EN#40657/animals a dog] chases [/EN#40663/animals another dog] .

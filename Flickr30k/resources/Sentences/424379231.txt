@@ -1,0 +1,5 @@
+[/EN#160207/animals A light brown and white dog] walks on [/EN#160210/other a thin railing] .
+[/EN#160207/animals A dog] runs out onto [/EN#160209/scene a swimming pool diving board] .
+[/EN#160207/animals A small dog] walks along [/EN#160209/scene an elevated walkway] .
+[/EN#160207/animals A tan and white dog] is walking on [/EN#160208/other a beam] .
+[/EN#160207/animals A corgie] walks on [/EN#160208/other a thin blue platform] .

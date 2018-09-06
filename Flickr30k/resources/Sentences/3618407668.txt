@@ -1,0 +1,5 @@
+[/EN#131936/people An elderly man] with [/EN#131951/bodyparts a double chin] , [/EN#0/notvisual who] is wearing [/EN#131945/other a blue visor] and [/EN#131947/clothing a jacket] , and [/EN#131935/people a young man] , wearing [/EN#131946/other a gray hood] and [/EN#131944/clothing a jacket] , are standing next to [/EN#131940/other a counter] at [/EN#131942/scene an outdoor food stand] .
+[/EN#131935/people A man] in [/EN#131939/clothing a black and gray hoodie] stands next to [/EN#131936/people a guy] in [/EN#131944/clothing a black uniform] [/EN#0/notvisual who] prepares [/EN#131943/other food] at [/EN#131941/other a buffet] .
+[/EN#131937/people Two people] [/EN#0/notvisual who] are wearing [/EN#131938/clothing coat] are taking [/EN#131943/other their food] in [/EN#131949/scene a restaurant] .
+[/EN#131936/people An older man] and [/EN#131935/people a younger man] are wearing [/EN#131944/clothing jackets] .
+[/EN#131937/people Two men] behind [/EN#131940/other a counter] in [/EN#131942/scene a crowded room] .

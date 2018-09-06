@@ -1,0 +1,5 @@
+[/EN#19216/people Two maintenance workers] paint [/EN#19217/other a bench] [/EN#19219/scene outdoors] .
+[/EN#19216/people Two male workers] whitewash [/EN#19217/other a brown bench] .
+[/EN#19216/people 2 men] painting [/EN#19217/other a wooden bench] outside .
+[/EN#19216/people Men] painting [/EN#19217/other a bench] in [/EN#19218/scene a park] .
+[/EN#19216/people Two men] paint [/EN#19217/other a park bench] .

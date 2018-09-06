@@ -1,0 +1,5 @@
+[/EN#67457/people A long-haired woman] wearing [/EN#67458/clothing an aqua shirt] and [/EN#67459/clothing white pants] watches as [/EN#67460/people a short-haired man] wearing [/EN#67461/clothing a gray shirt] and [/EN#67462/clothing black shorts] attempts to pick up [/EN#67465/other a spare] at [/EN#67466/scene a bowling alley] .
+[/EN#67457/people A woman] is watching [/EN#67460/people a man] bowl to knock down [/EN#67463/other two pins] .
+[/EN#67464/people Two people] stare down [/EN#67467/other their respective bowling lanes] .
+[/EN#67457/people A woman] watches as [/EN#67460/people her friend] goes for [/EN#67465/other a spare] .
+[/EN#67457/people A woman] is watching [/EN#67460/people a man] as [/EN#0/notvisual he] is bowling .

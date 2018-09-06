@@ -1,0 +1,5 @@
+[/EN#196308/scene A view] down onto [/EN#196318/scene a street] where [/EN#0/notvisual there] are [/EN#196310/people people] walking on [/EN#196309/scene the sidewalk] and [/EN#196314/other a row of motorcycles] parked along [/EN#196313/other the median] .
+[/EN#196309/people Aerial view of pedestrians] walking on [/EN#196316/scene the sidewalk of a street] in [/EN#196320/scene a busy part of town] with [/EN#196312/other trees] in [/EN#196313/other the median] .
+[/EN#196319/other Two tree] lined [/EN#196318/scene streets] with [/EN#196311/vehicles a lot of bikes] parked against [/EN#196321/other the divider] between [/EN#196317/scene two streets] .
+[/EN#196307/scene An overhead view of a city street scene] with [/EN#196309/people pedestrians] and [/EN#196314/vehicles a row of parked motorbikes] .
+In [/EN#0/notvisual the distance] is [/EN#196323/other two roadways] with [/EN#196312/other a median of trees] and [/EN#196311/vehicles scooters] .

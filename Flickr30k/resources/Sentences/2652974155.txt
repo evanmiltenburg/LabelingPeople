@@ -1,0 +1,5 @@
+[/EN#64049/people A man] is holding [/EN#64051/other a fishing pole] with [/EN#64050/animals a fish] that [/EN#0/notvisual he] caught .
+[/EN#64049/people A man] with [/EN#64051/other a red fishing pole] catching [/EN#64050/animals a very small fish] .
+[/EN#64049/people A man] in [/EN#64052/clothing a green shirt] catching [/EN#64050/animals a fish] .
+[/EN#64049/people An older man] has caught [/EN#64050/animals a small fish] .
+[/EN#64049/people A man] catching [/EN#64050/animals a fish] off [/EN#64053/vehicles/scene a boat] .

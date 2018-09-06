@@ -1,0 +1,5 @@
+[/EN#210129/people A man] wearing [/EN#210132/clothing a short-sleeved , checked shirt] and [/EN#210133/clothing a hat] holds [/EN#210131/other a camera] while standing in front of [/EN#210130/other a brick wall] .
+[/EN#210129/people A man] in [/EN#210132/clothing a green-and-white checkered shirt] and [/EN#210133/clothing straw hat] holds [/EN#210131/other a camera] in front of [/EN#210130/other a weathered brick wall] .
+[/EN#210129/people A bearded man] in [/EN#210132/clothing a flannel shirt] is standing in front of [/EN#210130/scene a red brick building] , holding [/EN#210131/other a camera] .
+[/EN#210129/people The bearded man] in [/EN#210133/clothing the hat] held [/EN#210131/other his camera] in [/EN#210135/bodyparts both hands] waiting for [/EN#210136/other the next shot] .
+[/EN#210129/people A man] with [/EN#210134/bodyparts a beard] holds [/EN#210131/other a camera] .

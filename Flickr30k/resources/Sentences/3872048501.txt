@@ -1,0 +1,5 @@
+[/EN#146474/people A lady] in [/EN#146476/clothing a brown jacket] and [/EN#146478/clothing brown shorts] lays with [/EN#146477/people a man] wearing [/EN#146473/clothing khaki shorts] on [/EN#146471/scene a grass landscape] .
+[/EN#146470/people Two people] wearing [/EN#146473/clothing shorts] are sleeping on [/EN#146472/scene grass] and [/EN#146479/other sand] .
+[/EN#146470/people A couple] napping in [/EN#146472/scene the grass] in front of [/EN#146480/vehicles parked cars] .
+[/EN#146475/other Two young people nap] in [/EN#146471/scene the grass of a park] .
+[/EN#146470/people Couple] laying on [/EN#0/notvisual ground] at [/EN#146472/scene a park] sleeping .

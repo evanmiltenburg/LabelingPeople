@@ -1,0 +1,5 @@
+[/EN#15272/people The man] in [/EN#15277/clothing the blue shirt] is looking in [/EN#0/notvisual the direction] to [/EN#0/notvisual which] [/EN#15271/people the little boy] is pointing .
+[/EN#15271/people A little boy] smiles and points while [/EN#15272/people a man] looks in [/EN#15274/people the direction of the child] [/EN#15276/other 's gaze] .
+[/EN#15271/people A boy] smiles at [/EN#15275/scene points] at [/EN#15273/other something] ; [/EN#15272/people a man] looks to [/EN#0/notvisual the side] .
+[/EN#15271/people A boy] points at [/EN#15273/other something] while [/EN#15272/people a man] looks .
+[/EN#15271/people A boy] points .

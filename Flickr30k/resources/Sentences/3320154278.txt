@@ -1,0 +1,5 @@
+[/EN#109174/people A young boy] on [/EN#109175/vehicles a blue bicycle] and [/EN#109173/people a man] bent over making [/EN#109177/other adjustments] to [/EN#109175/vehicles the bicycle] .
+[/EN#109173/people This man] in [/EN#109176/clothing the yellow shirt] is adjusting [/EN#109175/vehicles blue bicycle] for [/EN#109174/people a young boy] .
+[/EN#109173/people Man] in [/EN#109176/clothing yellow shirt] holding [/EN#109175/vehicles bike] while [/EN#109174/people young boy] sits on [/EN#0/notvisual it]
+[/EN#109173/people A man] is showing [/EN#109174/people a little boy] how to ride [/EN#109175/vehicles a blue bicycle] .
+[/EN#109173/people A man] helping [/EN#109174/people a boy] ride [/EN#109175/vehicles a bicycle] .

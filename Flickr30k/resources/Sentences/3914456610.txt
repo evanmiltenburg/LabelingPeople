@@ -1,0 +1,5 @@
+[/EN#148091/people A young boy] , wearing [/EN#148092/clothing a helmet] , in [/EN#148099/clothing shorts] and [/EN#148096/clothing a t-shirt] and [/EN#148093/other a pair of binoculars] around [/EN#148100/bodyparts his neck] is playing outside .
+[/EN#148091/people A blond child] wearing [/EN#148092/clothing a helmet] , [/EN#148095/clothing goggles] and [/EN#148093/other binocular] holds up [/EN#148094/other his toy gun] .
+[/EN#148091/people A little boy] [/EN#0/notvisual who] wears [/EN#148092/clothing a helmet] and [/EN#148095/clothing a sunglasses] plays with [/EN#148094/other a toy gun] .
+[/EN#148091/people A child] with [/EN#148098/other play gear] is adventuring outside [/EN#148101/scene his house] .
+[/EN#148091/people A blond-haired boy] outside playing with [/EN#148094/other a toy gun] .

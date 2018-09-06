@@ -1,0 +1,5 @@
+[/EN#10983/animals A black dog] is coming out of [/EN#10984/scene the ocean water] on [/EN#10987/scene the beach] with [/EN#10985/other something] in [/EN#10986/bodyparts its mouth] .
+[/EN#10983/animals A black dog] with [/EN#10985/other a stick] in [/EN#10986/bodyparts its mouth] is walking out of [/EN#10984/scene the water] onto [/EN#10987/scene a beach] .
+[/EN#10983/animals A black dog] carrying [/EN#10985/other some seaweed] out of [/EN#10984/scene the water] .
+[/EN#10983/animals A black dog] carrying [/EN#10985/other an object] out of [/EN#10984/scene the water] .
+[/EN#10983/animals A dog] retrieves [/EN#10985/other a branch] from on [/EN#10987/scene a beach] .

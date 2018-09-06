@@ -1,0 +1,5 @@
+[/EN#48816/people A young man] wearing [/EN#48821/clothing jeans] and [/EN#48819/clothing jacket] walking down [/EN#48818/scene a street] .
+[/EN#48816/people A man] in [/EN#48817/clothing a striped scarf] walking down [/EN#48818/scene the sidewalk] .
+[/EN#48816/people A man] in [/EN#48819/clothing black] with [/EN#48817/clothing a scarf] walks down [/EN#48818/scene a street] .
+[/EN#48816/people a man] wearing [/EN#48819/clothing black] , walks down [/EN#48818/scene the street] .
+[/EN#48816/people A man] walks down [/EN#48818/scene the street] .

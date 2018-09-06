@@ -1,0 +1,5 @@
+[/EN#130057/people Young boy] in [/EN#130058/clothing a white striped shirt] and [/EN#130055/clothing headband] holding [/EN#130053/other a tennis racket] .
+[/EN#0/notvisual There] is [/EN#130057/people a little boy] ready to hit [/EN#130056/other the tennis ball] , holding [/EN#130053/other a racquet] .
+[/EN#130057/people Little boy] playing [/EN#130054/other tennis] with [/EN#130053/other a black and yellow racket] .
+[/EN#130057/people A little boy] in [/EN#130058/clothing a striped polo shirt] plays [/EN#130054/other tennis] .
+[/EN#130057/people A young boy] is holding [/EN#130053/other a tennis racket] .

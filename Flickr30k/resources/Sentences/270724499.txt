@@ -1,0 +1,5 @@
+[/EN#67634/animals a small tan dog] running on [/EN#67636/scene the grass] with [/EN#67635/other a ball] in [/EN#67637/bodyparts his mouth]
+[/EN#67634/animals small dog] running in [/EN#67636/scene the grass] with [/EN#67635/other a toy] in [/EN#67637/bodyparts its mouth]
+[/EN#67634/animals Dog] running towards [/EN#67638/other camera] with [/EN#67635/other a ball] in [/EN#67637/bodyparts its mouth] .
+[/EN#67634/animals A dog] with [/EN#67635/other a blue ball] running in [/EN#67636/scene a field] .
+[/EN#67634/animals The dog] is running with [/EN#67635/other a colorful ball] .

@@ -1,0 +1,5 @@
+[/EN#178723/people A man] in [/EN#178727/clothing a gray jacket] works on [/EN#178724/other a brown motorcycle] with [/EN#178728/clothing a white helmet] on [/EN#0/notvisual it] .
+[/EN#178723/people A man] sits outside on [/EN#178725/other a curb] next to [/EN#178724/other an old-looking motorcycle] .
+[/EN#178723/people A man] sitting next to [/EN#178724/other a motorcycle] on [/EN#178729/scene the side of a street] .
+[/EN#178723/people A man] attending to [/EN#178726/other the front wheel of his motorcycle] .
+[/EN#178723/people A man] crouches down next to [/EN#178724/other a motorcycle] .

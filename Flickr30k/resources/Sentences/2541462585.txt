@@ -1,0 +1,5 @@
+[/EN#56837/people A man] in [/EN#56839/clothing an orange safety vest] holds [/EN#56838/animals a hawk] while standing in [/EN#56840/scene a train depot] .
+[/EN#56837/people A man] with [/EN#56839/clothing an orange vest] is holding [/EN#56838/animals a bird of prey] on [/EN#56842/clothing his leather glove] .
+[/EN#56837/people A man] at [/EN#56840/scene his workplace] with [/EN#56838/animals a hawk] perched on [/EN#56843/bodyparts his hand] .
+[/EN#56837/people A man] in [/EN#56839/clothing an orange vest] holds [/EN#56838/animals a large bird] .
+[/EN#56837/people A man] standing by [/EN#56841/vehicles/scene a train] holding [/EN#56838/animals a bird] .

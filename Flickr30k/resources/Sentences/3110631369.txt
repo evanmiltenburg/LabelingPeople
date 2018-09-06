@@ -1,0 +1,5 @@
+[/EN#94298/people A girl] in [/EN#94302/clothing a pink jacket] looking intently at [/EN#94297/other something] that [/EN#94300/people a girl] in [/EN#94303/clothing black] is doing .
+[/EN#94299/people A woman] holds [/EN#94301/other a pen] and looks down while [/EN#94293/people five people] look on .
+[/EN#94293/people Several people] are gathered around [/EN#94296/other a table] in [/EN#94295/scene a warehouse] .
+[/EN#94293/people A group of people] is standing in [/EN#94295/scene a stock room] .
+[/EN#94293/people kids] are looking at [/EN#94297/other something] on [/EN#94296/other a table] .

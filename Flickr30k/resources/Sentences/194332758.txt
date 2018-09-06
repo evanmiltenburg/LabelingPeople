@@ -1,0 +1,5 @@
+[/EN#23653/people A baby] sitting in [/EN#23654/other a tall chair] eating [/EN#23655/other food] with [/EN#23656/clothing a bib] on .
+[/EN#23653/people A baby] plays with [/EN#23655/other food] while sitting in [/EN#23654/other a highchair] .
+[/EN#23653/people A toddler] in [/EN#23654/other a highchair] playing with [/EN#23655/other spaghetti] .
+[/EN#23653/people A baby] eats [/EN#23655/other his spaghetti] with [/EN#23657/bodyparts his hands] .
+[/EN#23653/people A baby] is playing with [/EN#23655/other food] at [/EN#23654/other its chair] .

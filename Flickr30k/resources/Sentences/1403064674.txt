@@ -1,0 +1,5 @@
+[/EN#11405/people A person] in [/EN#11406/clothing a blue shirt] and [/EN#11407/clothing jeans] leans on [/EN#11408/scene a wooden fence] while looking out through [/EN#11409/other the trees] at [/EN#11412/scene a landscape] .
+[/EN#11405/people A person] dressed in [/EN#11406/clothing a blue shirt] and [/EN#11407/clothing jeans] looks past [/EN#11409/other the trees] to [/EN#11410/scene the horizon] .
+[/EN#11405/people This Guy] is looking at [/EN#11410/scene the view] , down at [/EN#11411/scene the mountain] .
+[/EN#11405/people A guy] looking out over [/EN#11412/scene the scenic forest] .
+[/EN#11405/people Guy] looking out at [/EN#11410/scene beautiful scenery] .

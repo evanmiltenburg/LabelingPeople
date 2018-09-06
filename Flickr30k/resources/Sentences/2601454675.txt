@@ -1,0 +1,5 @@
+[/EN#60766/people A man] wearing [/EN#60773/clothing a brown shirt] and [/EN#60767/clothing backpack] is pushing [/EN#60771/other a stroller] while [/EN#60768/people a small toddler] is walking along aside [/EN#0/notvisual him] on [/EN#60770/scene a rain-covered street] .
+[/EN#60766/people man] pushing [/EN#60771/other a stroller] while [/EN#60768/people toddler] walks beside [/EN#0/notvisual him] in [/EN#60770/scene the street] with [/EN#60769/scene puddles] .
+[/EN#60766/people A man] wearing [/EN#60774/clothing shorts] pushing [/EN#60771/other a stroller] watching [/EN#60768/people his child] walk on [/EN#60772/scene rainy streets] .
+[/EN#60766/people A man] with [/EN#60767/clothing a backpack] pushes [/EN#60771/other a stroller] while [/EN#60768/people a toddler] walks along side [/EN#0/notvisual him] .
+[/EN#60766/people A man] is pushing [/EN#60771/other a stroller] down [/EN#60772/scene a wet road] with [/EN#60768/people a child] walking along side .

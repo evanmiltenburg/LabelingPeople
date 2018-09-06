@@ -1,0 +1,5 @@
+[/EN#260294/people A man] in [/EN#260295/other a brown canoe] is fishing in [/EN#260296/scene a lake] surrounded by [/EN#260300/scene a forest] .
+[/EN#260294/people A man] is hauling [/EN#260297/other something] out of [/EN#260296/scene the water] into [/EN#260295/vehicles/scene a small boat] .
+[/EN#260294/people A man] is standing in [/EN#260295/vehicles/scene a boat] on [/EN#260296/scene a river] surrounded by [/EN#260298/other trees] .
+[/EN#260294/people This a man] on [/EN#260295/vehicles/scene a boat] in [/EN#260296/scene calm water] surrounded by [/EN#260298/other trees] .
+[/EN#260294/people A man] holds [/EN#260297/other something] in [/EN#260295/vehicles/scene a boat] on [/EN#260296/scene a wide river] .

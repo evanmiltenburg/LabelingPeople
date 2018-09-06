@@ -1,0 +1,5 @@
+[/EN#35512/people A man] in [/EN#35513/clothing an orange vest] and [/EN#35519/clothing a cap] stands outside [/EN#35520/people a ladies] [/EN#35517/scene ' bathroom] .
+[/EN#35512/people A man] leaning on [/EN#35516/other a pillar] next to [/EN#35518/other a bucket] , near [/EN#35517/scene a public restroom]
+[/EN#35512/people A man] standing next to [/EN#35517/scene a women 's restroom] in [/EN#35513/clothing an orange shirt] .
+[/EN#35512/people A worker] stands outside [/EN#35517/scene a public restroom] .
+[/EN#35512/people Man] in [/EN#35515/clothing uniform] waiting on [/EN#35516/other a wall] .

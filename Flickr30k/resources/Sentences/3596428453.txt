@@ -1,0 +1,5 @@
+[/EN#130389/people The shirtless male marathon runner] is wearing [/EN#130390/clothing a backpack] and [/EN#130396/other a silver robot] looking [/EN#130393/clothing helmet] on [/EN#130393/bodyparts his head] .
+[/EN#130389/people A man] wearing [/EN#130392/clothing no shirt] and [/EN#130390/clothing a backpack] runs with [/EN#130396/other a box] on [/EN#130393/bodyparts his head] .
+[/EN#130389/people A man] jogs in [/EN#130391/other a long distant race] in [/EN#130393/clothing a robot costume] .
+[/EN#130389/people A man] with [/EN#130392/clothing no shirt] and [/EN#130393/bodyparts a robot head] runs in [/EN#130391/other a race] .
+[/EN#130389/people A jogger] wears [/EN#130393/clothing a robot hat] .

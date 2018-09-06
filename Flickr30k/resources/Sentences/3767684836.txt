@@ -1,0 +1,5 @@
+[/EN#141760/people A man] in [/EN#141769/clothing a black shirt] and [/EN#141773/clothing brown pants] is jumping in [/EN#0/notvisual the air] performing [/EN#141761/other a karate kick] towards [/EN#141764/people a man] in [/EN#141765/clothing a red shirt] and [/EN#141763/clothing black hat] .
+[/EN#141760/people A man] wearing [/EN#141768/clothing a Gas mask] attempts [/EN#141761/other a flying kick] toward [/EN#141764/people another man] wearing [/EN#141772/clothing a mask] and [/EN#141765/clothing red shirt] in [/EN#141764/other a martial arts stance] .
+[/EN#141760/people A person] has jumped in [/EN#0/notvisual the air] with [/EN#141774/other one foot] stretched toward [/EN#141764/people a man] on [/EN#0/notvisual the ground] [/EN#0/notvisual who] is wearing [/EN#141765/clothing a red shirt] and [/EN#141763/clothing a hat] .
+[/EN#141762/people Two men] are adamantly performing [/EN#141762/other martial arts] in [/EN#141770/scene a garden] .
+[/EN#141760/people One man] throws [/EN#141761/other a flying kick] at [/EN#141764/people another man] .

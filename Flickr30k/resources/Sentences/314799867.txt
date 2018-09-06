@@ -1,0 +1,5 @@
+[/EN#96593/people A man] is wearing [/EN#96594/clothing a black knit " Paris " hat] and [/EN#96595/clothing a navy blue shirt] on [/EN#96596/scene the side of the street] .
+[/EN#96593/people A young man] wearing [/EN#96594/clothing a knit cap] with [/EN#96600/other the word PARIS] on [/EN#0/notvisual it] and [/EN#96595/clothing a blue jacket] on [/EN#96596/scene the street] .
+[/EN#96593/people A man] wearing [/EN#96594/clothing a black beanie] is standing in front of [/EN#96599/scene a store] called [/EN#96597/other Andre] .
+[/EN#96593/people A man] wearing [/EN#96595/clothing black jacket] poses with [/EN#96601/bodyparts a smile] .
+[/EN#96593/people A man] in [/EN#96594/clothing a winter hat] is smiling .

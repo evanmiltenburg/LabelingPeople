@@ -1,0 +1,5 @@
+[/EN#17832/animals A dog] is backlit buy [/EN#17838/other the sun] as [/EN#0/notvisual he] jumps up to catch [/EN#17833/other a tennis ball] .
+[/EN#17832/animals a brown dog] is leaping into [/EN#0/notvisual the air] to catch [/EN#17833/other a ball] .
+[/EN#17832/animals A dog] catching [/EN#17833/other a tennis ball] at [/EN#17837/scene sunset] in [/EN#17835/scene a yard] .
+[/EN#17832/animals A dog] jumps in [/EN#0/notvisual the air] to catch [/EN#17833/other a tennis ball] .
+[/EN#17832/animals A brown dog] catching [/EN#17833/other a ball] in [/EN#17832/scene silhouette] .

@@ -1,0 +1,5 @@
+[/EN#228845/animals a brown and white dog] has is playing with [/EN#228846/other a white ball] on [/EN#228847/scene the grass] .
+[/EN#228845/animals A collie] plays with [/EN#228846/other a white ball] in [/EN#228847/scene a field of green grass] .
+[/EN#228845/animals A orange dog] playing with [/EN#228846/other a white ball] on [/EN#228847/scene green grass] .
+[/EN#228845/animals a brown and white dog] chasing [/EN#228846/other a ball] on [/EN#228847/scene some grass] .
+[/EN#228845/animals A small brown dog] paws at [/EN#228846/other a white ball]

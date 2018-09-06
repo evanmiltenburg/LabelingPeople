@@ -1,0 +1,5 @@
+[/EN#15587/people The man] sits on [/EN#15589/other a sofa] under [/EN#15588/scene the bridge] and [/EN#16000/other litter] is all around [/EN#0/notvisual him] .
+[/EN#15587/people A man] is sitting on [/EN#15589/other a couch] under [/EN#15592/other an expressway ledge] .
+[/EN#15587/people A homeless man] sitting on [/EN#15589/other a sofa] under [/EN#15588/scene an overpass] .
+[/EN#15587/people A man] sits on [/EN#15589/scene a couch outside] under [/EN#15588/scene an overpass] .
+[/EN#15587/people Bum] sitting on [/EN#15589/other a couch] next to [/EN#15588/scene a bridge] .

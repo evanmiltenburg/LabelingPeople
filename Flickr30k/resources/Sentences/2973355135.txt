@@ -1,0 +1,5 @@
+[/EN#84911/other A single canoe] with [/EN#84912/people two people] rowing in [/EN#84913/scene a lake] surrounded by [/EN#84917/clothing scrubs] and [/EN#84916/scene a magnificent scenery] .
+[/EN#84912/people Two people] ride in [/EN#84911/other a rowboat] down [/EN#84915/scene a gentle stream] .
+[/EN#84912/people Group of people] canoeing down [/EN#84913/scene the lake] .
+[/EN#84914/vehicles/scene A boat] turns right in [/EN#84913/scene an open river] .
+[/EN#84912/people two people] in [/EN#84911/other a rowboat] in [/EN#84913/scene a river] .

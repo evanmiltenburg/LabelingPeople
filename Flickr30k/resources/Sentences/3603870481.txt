@@ -1,0 +1,5 @@
+[/EN#130876/animals A black dog] is in [/EN#130879/scene the water] with [/EN#130877/other something] orange in [/EN#130878/bodyparts his mouth] .
+[/EN#130876/animals A black dog] is holding [/EN#130877/other an orange toy] in [/EN#130878/bodyparts its mouth] in [/EN#130879/scene the water] .
+[/EN#130876/animals A black lab puppy] fetches [/EN#130877/other an orange object] out of [/EN#130879/scene the water] .
+[/EN#130876/animals A black dog] holding [/EN#130877/other an orange object] in [/EN#130879/scene the water] .
+[/EN#130876/animals A wet dog] , playing with [/EN#130877/other a toy] in [/EN#130879/scene the water] .

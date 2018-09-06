@@ -1,0 +1,5 @@
+[/EN#110534/people A man] wearing [/EN#110543/clothing a red shirt] , [/EN#110544/clothing hat] and [/EN#110545/clothing brown pants] is on [/EN#110540/other a skateboard] going down [/EN#110536/scene a ramp] .
+[/EN#110534/people a skateboarder] jumps over [/EN#110537/other a highway guard rail] .
+[/EN#110534/people A skateboarder] is performing [/EN#0/notvisual a jump] on [/EN#110536/other a slope] .
+[/EN#110534/people A boy] is doing [/EN#0/notvisual a skateboard trick] [/EN#110542/scene outdoors] .
+[/EN#110534/people Skateboarder] jumping over [/EN#110537/scene a fence] .

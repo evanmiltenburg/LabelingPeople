@@ -1,0 +1,5 @@
+[/EN#242528/people An Asian man] in [/EN#242529/clothing a gray shirt] is playing [/EN#242530/instruments a small wind instrument] made of [/EN#242530/other wood] .
+[/EN#242528/people An Asian man] playing [/EN#242530/instruments a wooden instrument] .
+[/EN#242528/people A man] in [/EN#242529/clothing a gray shirt] playing [/EN#242530/other a whistle] .
+[/EN#242528/people An Asian man] plays [/EN#242530/other a wooden whistle] .
+[/EN#242528/people A man] plays [/EN#242530/other a whistle] .

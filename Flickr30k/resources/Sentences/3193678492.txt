@@ -1,0 +1,5 @@
+[/EN#100052/people Three men] in [/EN#100059/clothing bright clothing] work on [/EN#100055/scene street] with [/EN#100060/scene railroad tracks] .
+[/EN#100053/people Three men] are working [/EN#100056/other construction] at [/EN#100057/scene night] on [/EN#100055/scene a street] .
+[/EN#100052/people Construction workers] doing [/EN#100056/other work] in [/EN#100051/scene the streets] at [/EN#100057/scene night] .
+[/EN#100054/people Worker] in [/EN#100058/clothing an orange] and [/EN#100058/clothing white vest] .
+[/EN#100051/scene A construction site] at [/EN#100057/scene night] .

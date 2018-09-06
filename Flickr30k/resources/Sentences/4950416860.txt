@@ -1,0 +1,5 @@
+[/EN#222285/people A man] in [/EN#222286/other a canoe] throws [/EN#222287/other a fishing net] out into [/EN#222288/scene the water] .
+[/EN#222289/people Two men] in [/EN#222286/vehicles/scene a boat] are casting [/EN#222287/other a yellow net] into [/EN#222288/scene the water]
+[/EN#222285/people A tropical fisherman] throws [/EN#222287/other an orange net] into [/EN#222288/scene a river] .
+[/EN#222285/people A man] in [/EN#222286/other a canoe] throwing [/EN#222287/other a yellow net] into [/EN#222288/scene the water] .
+[/EN#222285/people A fisherman] with [/EN#222287/other a cast net] fishes from [/EN#222286/other a canoe] .

@@ -1,0 +1,5 @@
+[/EN#62694/people A man] and [/EN#62695/people a woman] in [/EN#62696/clothing an orange shirt] are sitting on [/EN#62697/other a rock] and looking at [/EN#62698/other the view of the trees] and [/EN#62702/scene the hills] .
+[/EN#62699/people a couple] sitting on [/EN#62697/other a rock] overlooking [/EN#62702/scene a valley] filled with [/EN#62698/other trees]
+[/EN#62699/people A couple] sits atop [/EN#62703/scene a mountain] looking down at [/EN#62701/scene the scenery] .
+[/EN#62699/people The couple] is sitting on [/EN#62697/other a rock] overlooking [/EN#62702/scene a valley] .
+[/EN#62699/people Two people] sitting on [/EN#62697/other a rock] overlooking [/EN#62698/scene a forest] .

@@ -1,0 +1,5 @@
+[/EN#10114/people A man] [/EN#0/notvisual who] is wearing [/EN#10115/clothing a dark shirt] and [/EN#10122/clothing jeans] standing with [/EN#10123/bodyparts his hand] on [/EN#10124/bodyparts his hip] and [/EN#10125/bodyparts the other hand] leaning on [/EN#10117/other a piece of equipment] .
+[/EN#10114/people A man] in [/EN#10115/clothing a black shirt] is leaning on [/EN#10117/scene a lamp post] near [/EN#10116/other a traffic cone] .
+[/EN#10114/people A man] leans against [/EN#10117/scene a green post] in front of [/EN#10116/other an orange traffic cone] .
+[/EN#10114/people A man] in [/EN#10115/clothing a blue shirt] is standing close to [/EN#10118/scene a construction area] .
+[/EN#10114/people A man] in [/EN#10115/clothing a black shirt] stands in front of [/EN#10116/other a construction cone] .

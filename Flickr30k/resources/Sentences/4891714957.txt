@@ -1,0 +1,5 @@
+[/EN#215597/people One man] in [/EN#215594/clothing a guitar t-shirt] sits next to [/EN#215592/people another man] in [/EN#215598/clothing a gray shirt] with [/EN#215595/clothing a nike bag] in [/EN#215599/bodyparts his lap] .
+[/EN#215592/people Man] in [/EN#215594/clothing a black and red shirt] sitting next to [/EN#215592/people a man] holding [/EN#215595/clothing a blue Nike bag] .
+[/EN#215593/people Two men] sit beside [/EN#0/notvisual each other] , taking [/EN#215596/vehicles advantage of public transportation] .
+[/EN#215592/people Man] in [/EN#215594/clothing black shirt] riding [/EN#215596/vehicles public transportation] .
+[/EN#215593/people Two men] riding [/EN#215600/vehicles/scene the subway] .

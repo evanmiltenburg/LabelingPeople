@@ -1,0 +1,5 @@
+[/EN#116292/people A blond girl] is wearing [/EN#116295/clothing a silver helmet] , [/EN#116299/bodyparts elbow] and [/EN#116297/other knee pads] , and [/EN#116293/other Rollerblades] .
+[/EN#116292/people The blond girl] is wearing [/EN#116295/clothing a silver helmet] , [/EN#116298/other knee pads] , and [/EN#116293/other Rollerblades] .
+[/EN#116292/people A child] sits on [/EN#116294/other a curb] with [/EN#116293/other inline skates] and [/EN#116295/other protective gear] .
+[/EN#116292/people A child] wearing [/EN#116293/other Rollerblades] and sitting on [/EN#116294/other a curb] .
+[/EN#116292/people The girl] takes [/EN#116300/scene a break] from [/EN#116293/other rollerblading] .

@@ -1,0 +1,5 @@
+[/EN#215004/people A woman] carrying [/EN#215010/clothing several bags] in [/EN#215012/bodyparts one hand] and [/EN#215007/clothing a shoulder bag] over [/EN#215013/bodyparts/people her other arm] , walks with [/EN#215014/bodyparts her head] down , along [/EN#215009/scene a street] , as [/EN#215006/people several other passersby] walk along [/EN#215009/scene the same street] in [/EN#0/notvisual the opposite direction] .
+[/EN#215004/people Woman] walks in front of [/EN#215008/scene building] carrying [/EN#215007/clothing purse] close .
+[/EN#215005/people People] walk on [/EN#215009/scene a street] next to [/EN#215008/scene a stone building] .
+[/EN#215005/people People] walking and [/EN#215004/people a woman] carrying [/EN#215010/clothing bags] .
+[/EN#215005/people People] walking down [/EN#215009/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#10732/people The man] is doing [/EN#10735/other stunts] with [/EN#10733/vehicles his bicycle] .
+[/EN#10732/people A man] wearing [/EN#10734/clothing a red helmet] rides [/EN#10733/vehicles a bike] .
+[/EN#10732/people A person] in [/EN#10734/clothing a red helmet] riding [/EN#10733/vehicles a bike] .
+[/EN#10732/people A biker] is doing [/EN#0/notvisual tricks] on [/EN#10733/vehicles his bike] .
+[/EN#10732/people Biker] doing [/EN#0/notvisual a trick] in [/EN#0/notvisual air] .

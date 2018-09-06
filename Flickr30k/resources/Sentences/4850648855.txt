@@ -1,0 +1,5 @@
+[/EN#210498/people A man] is standing beside [/EN#210504/other a parking meter] with [/EN#210500/other a camera] while [/EN#210501/people a crowd] stands and sits around [/EN#0/notvisual him] .
+[/EN#210499/people A woman] standing next to [/EN#210498/people a photographer] is handing [/EN#210502/other a paper] to [/EN#210498/people a man] wearing [/EN#210503/clothing a green shirt] .
+[/EN#210499/people A woman] is exchanging [/EN#210502/other a piece of paper] with [/EN#210498/people a man] amid [/EN#210501/people a group of people] .
+[/EN#210499/people A woman] in [/EN#210505/clothing a running outfit] and [/EN#210498/people a man] with [/EN#210500/other a camera] stand in [/EN#210501/people a crowd] .
+[/EN#210499/people a woman] wearing [/EN#210506/other pink beads] is standing next to [/EN#210498/people a man] holding [/EN#210500/other a camera]

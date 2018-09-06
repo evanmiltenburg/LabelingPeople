@@ -1,0 +1,5 @@
+[/EN#177621/people A paramedic] is looking towards [/EN#177622/other a firetruck] as [/EN#0/notvisual he] stands in [/EN#177624/scene some small bushes] .
+[/EN#177620/people A person] is wearing [/EN#177625/clothing a vest] that [/EN#177621/people the word paramedic] on [/EN#177623/other the back] .
+[/EN#177620/people A male paramedic] stares at [/EN#177622/other a red fire engine] .
+[/EN#177620/people A paramedic] looks on at [/EN#177622/other a firetruck] .
+[/EN#177620/people A paramedic] looks at [/EN#177622/other a firetruck] .

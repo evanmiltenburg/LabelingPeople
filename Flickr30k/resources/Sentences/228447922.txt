@@ -1,0 +1,5 @@
+[/EN#38959/people Three adults] and [/EN#38956/people one small boy] are working in [/EN#38955/scene a kitchen] where [/EN#38953/people one of the men] is teaching [/EN#38956/people the boy] how to shape [/EN#38958/other bread] .
+[/EN#38954/people A man] in [/EN#38962/clothing a white shirt] showing [/EN#38956/people a young boy] how to make [/EN#38958/other bread] in [/EN#38955/scene a bakery] .
+[/EN#38954/people A man] and [/EN#38956/people a young boy] working with [/EN#38958/other dough] and [/EN#38960/other flour] in [/EN#38957/scene a kitchen] .
+[/EN#38953/people/scene A baker] teaches [/EN#38956/people a young boy] how to knead [/EN#38958/other dough] in [/EN#38957/scene bakery] .
+[/EN#38954/people Man] showing [/EN#38956/people a child] how to bake in [/EN#38955/scene a kitchen] .

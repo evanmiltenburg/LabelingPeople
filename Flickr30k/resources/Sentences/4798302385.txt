@@ -1,0 +1,5 @@
+[/EN#203767/people A woman] in [/EN#203771/clothing a purple top] and [/EN#203766/clothing black shorts] and [/EN#203772/people a woman] in [/EN#203770/clothing a gray top] and [/EN#203774/clothing blue shorts] , wearing [/EN#203775/clothing brown and black hats] respectively , walk on [/EN#203763/scene a street] past [/EN#203764/people a woman] in [/EN#203769/clothing a black top] and [/EN#203762/clothing a brown skirt] holding [/EN#203768/clothing a black bag] .
+[/EN#203761/people Two women] in [/EN#203765/clothing skirts] and [/EN#203773/clothing baseball caps] pass [/EN#203764/people another woman] in [/EN#203762/clothing a skirt] on [/EN#203763/scene the street] .
+[/EN#203761/people Two women] in [/EN#203776/other athletic gear] walking down [/EN#203763/scene a city street] .
+[/EN#203761/people Three women] are walking on [/EN#203763/scene a street] .
+[/EN#203761/people Young ladies] crossing [/EN#203763/scene a street] .

@@ -1,0 +1,5 @@
+[/EN#258027/people A dirt bike rider] in [/EN#258032/clothing an orange] [/EN#258035/clothing an white uniform] riding [/EN#258028/vehicles a dirt bike] in [/EN#258033/scene a stadium] .
+[/EN#258028/vehicles A motocross rider 's bike] kicks up [/EN#258029/other some sand] as [/EN#0/notvisual he] rides away from [/EN#258031/people a crowd] .
+[/EN#258027/people A motocross rider] wearing [/EN#258035/other orange gear] is turing [/EN#258030/scene a corner] on [/EN#258029/other the course] .
+[/EN#258027/people A man] is riding [/EN#258028/vehicles a dirt bike] around [/EN#258034/other a turn] on [/EN#258029/other a dirt course] .
+[/EN#258027/people A man] rides [/EN#258028/vehicles his dirt bike] .

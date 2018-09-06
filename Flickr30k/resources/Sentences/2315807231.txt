@@ -1,0 +1,5 @@
+[/EN#41145/animals The brown dog] is playing in [/EN#41146/scene the white snow] .
+[/EN#41145/animals A brown dog] squats in [/EN#41146/scene a deep pile of snow] .
+[/EN#41145/animals A brown long-haired dog] plays in [/EN#41146/scene the snow]
+[/EN#41145/animals The brown dog] is playing in [/EN#41147/scene the snow] .
+[/EN#41145/animals A brown dog] is shaking off [/EN#41147/scene the snow] .

@@ -1,0 +1,5 @@
+[/EN#19025/people A baseball player] in [/EN#19026/clothing a red jersey] throwing [/EN#19027/other a ball] at [/EN#19028/scene the pitchers mound] .
+[/EN#19025/people A baseball team pitcher] throwing [/EN#19027/other a ball] to [/EN#19030/people the batter] .
+[/EN#19025/people a little league baseball pitcher] in [/EN#19026/clothing a red shirt] .
+[/EN#19025/people A male] is standing on [/EN#19029/other a base] pitching [/EN#19027/other a ball] .
+[/EN#19025/people The pitcher] is wearing [/EN#19026/clothing a red uniform shirt] .

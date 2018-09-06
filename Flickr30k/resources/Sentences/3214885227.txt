@@ -1,0 +1,5 @@
+[/EN#101700/people A person] is wading through [/EN#101703/scene a river] near [/EN#101704/scene an eroded embankment] .
+[/EN#101700/people A person] is riding in [/EN#101701/other a canoe] on [/EN#101702/scene a lake] next to [/EN#101706/other green trees] .
+[/EN#101700/people A man] paddling [/EN#101701/other a kayak] along [/EN#101703/scene the shore of a river] .
+[/EN#101700/people A single person] rowing [/EN#101705/vehicles/scene a small boat] on [/EN#101702/scene a lake] .
+[/EN#101700/people A man] boating along [/EN#101702/scene a river] near [/EN#101703/scene the shore] .

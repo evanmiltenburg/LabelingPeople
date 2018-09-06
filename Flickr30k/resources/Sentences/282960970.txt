@@ -1,0 +1,5 @@
+[/EN#75234/people A person] wearing [/EN#75237/clothing jeans] sits on top of [/EN#75236/clothing a horse saddle] .
+[/EN#75234/people A woman] in [/EN#75237/clothing jeans] is sitting on [/EN#75236/animals the saddle of a horse] .
+[/EN#75234/people The person] is sitting on top of [/EN#75238/animals a horse] .
+[/EN#75234/people The girl] is sitting on top of [/EN#75236/clothing a saddle] .
+[/EN#75234/people This person] is sitting in [/EN#75236/clothing a saddle] .

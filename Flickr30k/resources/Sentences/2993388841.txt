@@ -1,0 +1,5 @@
+[/EN#86127/people The basketball player] in [/EN#86128/clothing the blue uniform] is guarding [/EN#86127/people the player] in [/EN#86129/clothing the orange uniform] , [/EN#0/notvisual who] has [/EN#86130/other the ball] .
+[/EN#86127/people A basketball player] in [/EN#86129/clothing orange] has [/EN#86131/other the ball] while [/EN#0/notvisual another] in [/EN#86128/clothing blue] tries to block [/EN#0/notvisual him] .
+[/EN#86127/people The basketball player] in [/EN#86128/clothing blue] is challenging [/EN#86127/people the player] in [/EN#86129/clothing orange] for [/EN#86131/other the ball] .
+[/EN#86127/people A basketball player] in [/EN#86129/clothing orange] is keeping [/EN#86131/other the ball] from [/EN#86127/people a player] in [/EN#86128/clothing blue] .
+[/EN#86127/people Two teams] compete in [/EN#86132/other a basketball game] .

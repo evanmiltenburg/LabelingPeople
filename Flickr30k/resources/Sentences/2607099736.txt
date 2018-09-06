@@ -1,0 +1,5 @@
+[/EN#61250/people The person] in [/EN#61251/clothing the blue shorts] is wearing [/EN#61252/clothing black shoes] with [/EN#61253/clothing white stripes] .
+[/EN#61250/people A gymnast] is bending over on [/EN#61254/other a yellow mat] on [/EN#61255/scene the grass] .
+[/EN#61250/people a young wrestler] being thrown to [/EN#61254/other the yellow mat] .
+[/EN#61250/people A wrestler] jumping and pointing at [/EN#61254/other the mat] .
+[/EN#61250/people Wrestler] jumping in [/EN#0/notvisual the air] .

@@ -1,0 +1,5 @@
+[/EN#116127/scene The game booths] at [/EN#116124/other a carnival] are shown with [/EN#116128/scene a doughnut shop] in [/EN#0/notvisual the background] .
+[/EN#116125/people A group of people] gather at [/EN#116126/scene a stand] at [/EN#116129/scene the fair] .
+[/EN#116125/people The people] are standing around at [/EN#116124/other a carnival] .
+[/EN#116124/other A carnival] midway at [/EN#116130/scene night] .
+[/EN#116126/scene Booths] at [/EN#116124/other a carnival]

@@ -1,0 +1,5 @@
+[/EN#182454/people A woman] in [/EN#182456/clothing a blue shirt] playing [/EN#182455/instruments the harp] .
+[/EN#182454/people A woman] smiling as [/EN#0/notvisual she] plays [/EN#182455/instruments the harp] .
+[/EN#182454/people A woman] in [/EN#182457/clothing a sweater] plays [/EN#182455/instruments the harp] .
+[/EN#182454/people a cute blond woman] playing [/EN#182455/instruments the harp]
+[/EN#182454/people A lady] playing [/EN#182458/other music] on [/EN#182455/instruments her harp] .

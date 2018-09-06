@@ -1,0 +1,5 @@
+[/EN#83655/people A man] dressed in [/EN#83657/clothing a police uniform] on [/EN#83656/other a Segway personal transportation device] is in [/EN#83663/scene the street] .
+[/EN#83655/people A security guard] in [/EN#83657/clothing a blue shirt] moving through [/EN#83658/scene an airport] .
+[/EN#83655/people A policeman] rides [/EN#83656/vehicles a Segway] past [/EN#83660/other a foreign exchange counter] .
+[/EN#83655/people A policeman] is riding [/EN#83656/vehicles a vehicle] through [/EN#83658/scene a building] .
+[/EN#83655/other a security] wearing [/EN#83661/other a nice] clothes

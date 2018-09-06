@@ -1,0 +1,5 @@
+[/EN#218855/people A man] is sitting outside of [/EN#218857/scene a store] on [/EN#0/notvisual the ground] , facing [/EN#218861/scene the street] .
+[/EN#218855/people A man] sits looking depressed in [/EN#218860/other a storefront] wearing [/EN#218856/clothing a black suit] .
+[/EN#218855/people A man] in [/EN#218856/clothing a black suit] sitting on [/EN#218858/scene the steps of a building] .
+[/EN#218855/people A man] sitting on [/EN#218858/other some steps] on [/EN#218859/scene a sidewalk of shops] .
+[/EN#218855/people A man] sits outside [/EN#218857/scene a building] while [/EN#218862/other the rain] falls .

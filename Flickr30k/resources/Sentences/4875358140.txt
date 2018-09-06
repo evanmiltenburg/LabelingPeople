@@ -1,0 +1,5 @@
+[/EN#213890/people A man] in [/EN#213892/clothing a blue-green shirt] walking by [/EN#213893/scene a building] with [/EN#213891/people a poster of a woman] in [/EN#213896/clothing a black dress] .
+[/EN#213891/other An advertisement] on [/EN#213893/scene the side of a green building] with [/EN#213890/people a man] in [/EN#213892/clothing a blue shirt] walking nearby .
+[/EN#213890/people A man] in [/EN#213897/clothing a green shirt] and [/EN#213895/clothing gray pants] walking on [/EN#213894/scene a street] and passing by [/EN#213893/scene a store] .
+[/EN#213890/people a man] wearing [/EN#213892/clothing a blue shirt] and [/EN#213895/clothing khaki pants] is walking down [/EN#213894/scene the sidewalk] .
+[/EN#213890/people A man] in [/EN#213892/clothing a blue shirt] walking near [/EN#213893/scene an old building] with [/EN#213891/other a poster] on [/EN#0/notvisual it] .

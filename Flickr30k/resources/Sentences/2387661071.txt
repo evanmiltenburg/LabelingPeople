@@ -1,0 +1,5 @@
+[/EN#45736/people A man] wearing [/EN#45745/clothing a brown jacket] , [/EN#45746/clothing blue jeans] and [/EN#45747/clothing a cap] is standing on [/EN#45738/scene a dock] and fishing on [/EN#45740/scene a sunny day] .
+[/EN#45736/people A guy] is fishing off [/EN#45738/scene the dock] , [/EN#0/notvisual it] looks like [/EN#0/notvisual he] has [/EN#45742/other something] big on [/EN#45744/other the end of his line] .
+[/EN#45736/people A man] fishing along [/EN#45738/scene the pier] catches [/EN#45743/other something] as [/EN#45741/other ships] sail in [/EN#0/notvisual the background] .
+[/EN#45736/other A man saltwater] fishing on [/EN#45739/scene a hazy day] off of [/EN#45738/scene a pier] .
+[/EN#45736/other Man sports] fishing off [/EN#45738/scene a pier] on [/EN#45739/scene a sunny day] .

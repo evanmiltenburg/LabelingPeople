@@ -1,0 +1,5 @@
+[/EN#70117/people Several people] stand outside on [/EN#70119/scene the sidewalk] while [/EN#70118/people an elderly man] in [/EN#70124/clothing a striped shirt] walks down [/EN#70123/scene the street] in front of [/EN#0/notvisual them] .
+[/EN#0/notvisual There] are [/EN#70117/people many people] standing on [/EN#70119/scene a sidewalk] as [/EN#70118/people a man] walks down [/EN#70120/scene the hill] in front of [/EN#0/notvisual them] .
+[/EN#70117/people A group of people] standing on [/EN#70119/scene the sidewalk] and looking across [/EN#70123/scene the street] .
+[/EN#70117/people people] line up on [/EN#70119/scene the sidewalk] while [/EN#70118/people an old man] walks down [/EN#70119/scene the street] .
+[/EN#70118/people A man] passing by [/EN#70117/people a group] along [/EN#70119/scene a cobblestone road] .

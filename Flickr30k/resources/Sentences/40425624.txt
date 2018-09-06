@@ -1,0 +1,5 @@
+[/EN#152942/people A man] in [/EN#152946/clothing a short-sleeved white shirt] is standing beside [/EN#152944/people a man] in [/EN#152951/clothing a long-sleeved white shirt] with [/EN#152952/clothing the sleeves] rolled up .
+[/EN#152942/people A man] in [/EN#152946/clothing a white t-shirt] is looking at [/EN#152944/people another man] wearing [/EN#152949/clothing a white shirt] [/EN#0/notvisual who] has [/EN#152953/bodyparts his eyes] closed .
+[/EN#152943/people Two men] wearing [/EN#152947/clothing white shirts] are standing next to [/EN#0/notvisual each other] .
+[/EN#152943/people Two men] dressed in [/EN#152949/clothing white shirts] are standing at [/EN#152945/other a party] .
+[/EN#152943/people Two men] in [/EN#152949/clothing white shirts] share [/EN#152950/other a conversation] at [/EN#152945/other a party] .

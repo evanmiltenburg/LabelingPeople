@@ -1,0 +1,5 @@
+[/EN#116634/people A woman] wearing [/EN#116635/clothing a plaid dress] standing on [/EN#116636/scene the sidewalk] next to [/EN#116637/animals a white dog]
+[/EN#116634/people An old woman] with [/EN#116637/animals a white greyhound] is standing on [/EN#116636/scene the sidewalk] .
+[/EN#116634/people A woman] in [/EN#116635/clothing a plaid dress] holding [/EN#116638/animals the collar of a white dog] .
+[/EN#116634/people A lady] in [/EN#116635/clothing a plaid dress] strokes [/EN#0/notvisual her] [/EN#116639/bodyparts white dog 's face] .
+[/EN#116634/people A woman] poses with [/EN#116637/animals her white dog] on [/EN#116636/scene a sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#19584/people A police officer] wearing [/EN#19585/clothing dark pants] , [/EN#19586/clothing a long-sleeved blue shirt] , [/EN#19587/clothing white gloves] , [/EN#19588/clothing a white hat] , and [/EN#19589/clothing an orange " TRAFFIC " vest] is standing in [/EN#19590/scene the street] directing [/EN#19591/vehicles vehicles] .
+[/EN#19584/people Traffic cop] directing [/EN#19591/vehicles traffic] in front of [/EN#19591/vehicles a car] with [/EN#19592/other ohio plates] on [/EN#0/notvisual it] .
+[/EN#19584/people Traffic officer] telling [/EN#19591/vehicles car] where to turn .
+[/EN#19584/people A female officer] directing [/EN#19591/vehicles traffic] .
+[/EN#19584/people A woman] directing [/EN#19591/vehicles traffic] .

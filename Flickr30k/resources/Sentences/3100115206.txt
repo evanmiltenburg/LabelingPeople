@@ -1,0 +1,5 @@
+[/EN#93578/people A woman] with [/EN#93581/bodyparts white hair] in [/EN#93582/clothing a yellow shirt] lies in [/EN#93579/scene the grass] overlooking [/EN#93580/scene the ocean] in [/EN#0/notvisual which] [/EN#93583/other a lone sailboat] is visible .
+[/EN#93578/people an elderly lady] is laying on [/EN#93579/scene a grassy hill] in front of [/EN#93580/scene the ocean]
+[/EN#93578/people A person] is laying in [/EN#93579/scene the grass] in front of [/EN#93580/scene the ocean] .
+[/EN#93578/people An older woman] laying out in [/EN#93579/scene the grass] near [/EN#93580/scene the ocean] .
+[/EN#93578/people An older woman] is laying in [/EN#93579/scene the grass] .

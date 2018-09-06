@@ -1,0 +1,5 @@
+[/EN#244357/animals One brown dog] is bearing [/EN#244365/bodyparts its teeth] at [/EN#244360/animals another brown dog] with [/EN#244359/clothing a green collar] in [/EN#244361/scene a park] .
+[/EN#244357/animals A curly-haired dog] tries to bite [/EN#244360/animals another dog] wearing [/EN#244359/clothing a green and orange collar] .
+[/EN#244358/animals Two golden dogs] playing with [/EN#0/notvisual one another] .
+[/EN#244358/animals Two dogs] , [/EN#244357/other one] with [/EN#244362/scene its mouth open] .
+[/EN#244358/animals Two brown dogs] playing .

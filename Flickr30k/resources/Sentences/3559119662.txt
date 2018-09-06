@@ -1,0 +1,5 @@
+[/EN#127507/people A man] is walking down [/EN#127510/scene a street] passing [/EN#127512/other a garage door] covered in [/EN#127509/other graffiti] .
+[/EN#127507/people man] with [/EN#127511/other a cigarette] in [/EN#127515/bodyparts his hand] walks alone past [/EN#127509/other a street map] .
+[/EN#127507/people A man] in [/EN#127508/clothing a brown coat] and [/EN#127514/clothing jeans] is walking down [/EN#127510/scene a street] .
+[/EN#127507/people A man] walks down [/EN#127510/scene a street] next to [/EN#127509/other a map] .
+[/EN#127507/people A man] in [/EN#127508/clothing a brown coat] walking .

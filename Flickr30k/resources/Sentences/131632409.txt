@@ -1,0 +1,5 @@
+[/EN#8429/people A girl] in [/EN#8430/clothing a bikini] walks along [/EN#8433/scene the beach] with [/EN#8431/other huge clouds] and [/EN#8433/scene a sandy beach] behind [/EN#0/notvisual her] .
+[/EN#8429/people A young woman] wearing [/EN#8432/clothing a blue swimsuit top] is standing on [/EN#8433/scene a sandy beach] .
+[/EN#8433/scene Beach scene] with [/EN#8429/people young woman] in [/EN#8432/clothing skimpy bikini top] in [/EN#0/notvisual foreground]
+[/EN#8429/people Woman] in [/EN#8430/clothing a bikini top] is walking on [/EN#8433/scene the beach]
+[/EN#8429/people Young woman] in [/EN#8432/clothing a bikini top] on [/EN#8433/scene the beach] .

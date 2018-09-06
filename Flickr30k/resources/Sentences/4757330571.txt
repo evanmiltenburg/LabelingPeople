@@ -1,0 +1,5 @@
+[/EN#199461/people A man] is [/EN#199466/clothing a suit] with [/EN#199464/clothing several bags] stands on [/EN#199465/scene the street] while [/EN#199474/people two people] in [/EN#199470/scene foreground point] and look at [/EN#199472/other something] out of [/EN#199462/scene the photo 's range] .
+[/EN#199463/scene A scene] in [/EN#199465/scene a street] , where [/EN#199471/other one] has [/EN#199464/clothing shopping bags] and [/EN#199468/other the other] is asking for [/EN#0/notvisual directions] .
+[/EN#199461/people A man] carrying [/EN#199464/clothing bags] on [/EN#199475/bodyparts his shoulders] looks behind [/EN#0/notvisual him] as [/EN#0/notvisual he] crosses [/EN#199465/scene the street] .
+[/EN#199461/people A man] in [/EN#199466/clothing a suit] and [/EN#199464/clothing a large bag] walking through [/EN#199465/scene the streets of the city] .
+[/EN#199468/people The man] in [/EN#199469/clothing blue] appears to be getting [/EN#0/notvisual directions] .

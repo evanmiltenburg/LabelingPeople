@@ -1,0 +1,5 @@
+At [/EN#106623/scene a laundromat] [/EN#106622/people a woman] rummages through [/EN#106625/clothing her purse] while [/EN#106629/people customers] wash [/EN#106628/clothing clothes] in [/EN#0/notvisual the background] .
+[/EN#106622/people A woman] at [/EN#106624/other the laundry mat] is looking for [/EN#106626/other something] in [/EN#106625/clothing her black leather purse] .
+[/EN#106622/people Women] at [/EN#106627/other a counter] in [/EN#106624/other a laundry mat] looking at through [/EN#106625/clothing her purse] .
+[/EN#106622/people A woman] in [/EN#106624/other a laundry mat] is looking at [/EN#106626/other something] in [/EN#106625/clothing her purse] .
+[/EN#106622/people A woman] stands in [/EN#106623/scene a laundromat] searching through [/EN#106625/clothing her purse] .

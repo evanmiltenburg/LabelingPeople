@@ -1,0 +1,5 @@
+[/EN#66916/people A woman] in [/EN#66917/clothing a blue t-shirt] with [/EN#66918/clothing a checkered skirt] is cleaning [/EN#66923/scene a sidewalk] with [/EN#66919/scene water] and [/EN#66920/other a yellow mop] .
+[/EN#66916/people A woman] in [/EN#66917/clothing a blue shirt] with [/EN#66918/clothing a plaid skirt] is sweeping [/EN#66919/scene a puddle of water outside] .
+[/EN#66916/people a woman] wearing [/EN#66918/clothing a plaid skirt] pushes [/EN#66919/scene water] off [/EN#66923/scene the sidewalk] with [/EN#66920/other a yellow broom] .
+[/EN#66916/people A woman] in [/EN#66917/clothing a blue shirt] rinsing out [/EN#66921/other her mop] on [/EN#66919/scene the street] .
+[/EN#66916/people A woman] wearing [/EN#66922/clothing blue] sweeps [/EN#66919/scene water] into [/EN#66919/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#106175/people A man] wearing [/EN#106177/clothing a scarf] around [/EN#106178/bodyparts his head] is playing [/EN#106180/scene a flute outside] .
+[/EN#106175/people A man] with [/EN#106177/clothing a yellow scarf] on [/EN#106178/bodyparts his head] is playing [/EN#106176/instruments a blue flute] .
+[/EN#106175/people Man] with [/EN#106177/clothing an orange bandanna] is playing [/EN#106176/instruments the flute] .
+[/EN#106175/people A performer] plays [/EN#106176/instruments an instrument] for [/EN#106179/people the audience] .
+[/EN#106175/people A man] is playing [/EN#106176/instruments a musical instrument] .

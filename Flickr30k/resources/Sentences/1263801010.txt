@@ -1,0 +1,5 @@
+[/EN#6652/people A person] in [/EN#6652/clothing a red and black ski outfit] is looking over [/EN#6653/scene a snowy , mountainous landscape] .
+[/EN#6652/people A man] in [/EN#6652/other red snow gear] looks at [/EN#6654/scene an expanse of snow] and [/EN#6656/scene mountains] .
+[/EN#6652/people A man] in [/EN#6652/clothing a red jacket] looking out over [/EN#6656/scene snow-covered mountains] .
+[/EN#6652/people A person] in [/EN#6652/clothing a red coat] looking out at [/EN#6653/scene a snowy landscape] .
+[/EN#6657/scene View] from [/EN#6658/scene the summit]

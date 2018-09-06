@@ -1,0 +1,5 @@
+[/EN#61320/people A man] with [/EN#61321/clothing a white shirt] and [/EN#61322/clothing pants] wearing [/EN#61323/clothing a black and white hat] in front of [/EN#61324/other a fire hydrant] leaning against [/EN#61325/vehicles a white truck] [/EN#0/notvisual that] says [/EN#61326/other Caution-Children] , [/EN#61327/other Good Humor] .
+[/EN#61320/people Ice cream man] standing on [/EN#61328/vehicles the side of his white truck] wearing [/EN#61329/clothing all white clothing] .
+[/EN#61320/people An ice cream truck employee] is sitting on [/EN#61328/vehicles the side of the ice cream truck] .
+[/EN#61320/people a man] leaning against [/EN#61325/vehicles a vehicle] parked next to [/EN#61324/other a fire hydrant] .
+[/EN#61320/people The Good Humor man] [/EN#61330/people all] dressed in [/EN#61329/clothing white] leans on [/EN#61328/vehicles his truck] .

@@ -1,0 +1,5 @@
+[/EN#128850/people Young men] drink [/EN#128862/other coffee] and read [/EN#128856/other books] just outside [/EN#128864/scene some buildings] on [/EN#128861/scene a sunny day] ; [/EN#128860/people an older bearded man] in [/EN#128859/clothing a dark blue shirt] glances at [/EN#128854/people a younger man] in [/EN#128853/clothing a striped shirt] , [/EN#0/notvisual who] has [/EN#128867/animals a red toy crab] on [/EN#128855/other the table] next to [/EN#0/notvisual him] .
+[/EN#128850/people A group of men] are sitting and standing [/EN#128858/scene a courtyard] , [/EN#0/notvisual some of them] are reading [/EN#128856/other books] and [/EN#128863/other some] are talking .
+[/EN#128851/people A man] in [/EN#128853/clothing a black and white shirt] is reading [/EN#128857/other a book] while [/EN#128852/people two men] look at [/EN#0/notvisual him] .
+[/EN#128851/people A man] is watching [/EN#128854/people another man] doing [/EN#128866/other something] at [/EN#128855/other a table] .
+[/EN#128852/people People] gathered around [/EN#128854/people a guy] sitting on [/EN#128855/other a table] .

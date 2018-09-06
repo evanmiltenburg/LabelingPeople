@@ -1,0 +1,5 @@
+[/EN#44167/people An older man] in [/EN#44168/clothing a yellow shirt] holds [/EN#44169/clothing a green shopping bag] while standing in [/EN#44174/scene the middle] of [/EN#44170/scene a street] .
+[/EN#44167/people A man] in [/EN#44168/clothing a dress shirt] , [/EN#44171/clothing pants] , and [/EN#44172/clothing tie] is standing on [/EN#44170/scene a sidewalk] holding [/EN#44169/clothing a green shopping bag] .
+[/EN#44167/people An older man] wearing [/EN#44171/clothing brown pants] and [/EN#44168/clothing a yellow shirt] holds [/EN#44169/clothing a green bag] as [/EN#0/notvisual he] watches [/EN#44170/scene the street] .
+[/EN#44167/people Middle-aged man] in [/EN#44168/clothing yellow shirt] standing on [/EN#44170/scene sidewalk] holding [/EN#44169/clothing a green bag] and casting [/EN#44173/scene a shadow] .
+[/EN#44167/people An older man] holding [/EN#44169/clothing a green bag] waits until safe to cross [/EN#44170/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#238401/people A painter] , wearing [/EN#238404/clothing white shirt] and [/EN#238404/clothing white overalls] , stands on [/EN#238403/other a ladder] and paints [/EN#238402/scene the pillar of a building] white .
+[/EN#238401/people A man] wearing [/EN#238404/clothing white clothing] is standing on [/EN#238403/other a ladder] and is painting [/EN#238402/clothing a pillar white] .
+[/EN#238401/people A man] in [/EN#238404/other coveralls] paints [/EN#238402/other a pole] outside of [/EN#238405/scene a building] .
+[/EN#238401/people White male painter] painting [/EN#238402/other a pillar] on [/EN#238403/other a ladder] .
+[/EN#238401/people A person] using [/EN#238403/other a ladder] to paint [/EN#238402/clothing a column white] .

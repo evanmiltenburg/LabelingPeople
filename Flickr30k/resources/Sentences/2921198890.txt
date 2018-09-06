@@ -1,0 +1,5 @@
+[/EN#81446/animals A greyhound] with [/EN#81453/clothing a green racing bib] and [/EN#81454/clothing a muzzle] runs on [/EN#81450/scene a track] .
+[/EN#81446/animals A tan greyhound] , [/EN#81448/other number four] , is running at [/EN#81450/scene the track] .
+[/EN#81446/animals A dog] wearing [/EN#81448/other the number] [/EN#81448/other four] runs in [/EN#81452/other a race] .
+[/EN#81446/other A greyhound sporting number 4] is racing .
+[/EN#81446/animals A professional racing dog] running

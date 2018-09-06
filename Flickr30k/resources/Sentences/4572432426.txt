@@ -1,0 +1,5 @@
+[/EN#179792/scene A cloudy but well-populated beach] with [/EN#179793/people a woman] in [/EN#179794/clothing a white gown] with [/EN#179797/other a basket] walking [/EN#179800/other past] .
+[/EN#179793/people A woman] in [/EN#179794/clothing a white dress] walking across [/EN#179792/scene the beach] while holding [/EN#179799/other a cup of coffee] .
+[/EN#179793/people A woman] in [/EN#179794/clothing a white dress] is walking through [/EN#179792/scene the beach] on [/EN#179798/scene a beautiful day] .
+[/EN#179793/people A woman] in [/EN#179794/clothing a long white dress] is walking on [/EN#179792/scene the beach] next to [/EN#179795/scene the ocean] .
+[/EN#179796/clothing The colorful umbrellas] stand out against [/EN#179795/scene the blue ocean] .

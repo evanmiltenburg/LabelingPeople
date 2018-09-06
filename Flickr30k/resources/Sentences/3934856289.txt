@@ -1,0 +1,5 @@
+[/EN#148647/people A woman] dressed in [/EN#148651/clothing a kimono] is sweeping [/EN#148649/scene a sidewalk] in front of [/EN#148648/scene a restaurant] .
+[/EN#148647/people A Japanese woman] cleans [/EN#148648/scene a building] from [/EN#148648/scene a museum] .
+[/EN#148647/people A japanese woman] sweeping [/EN#148649/scene a walkway outside] .
+[/EN#148647/people The lady] in [/EN#148650/clothing blue] is sweeping [/EN#148649/scene the walkway] .
+[/EN#148647/people Woman] in [/EN#148650/clothing blue] sweeps [/EN#148649/scene a walkway] .

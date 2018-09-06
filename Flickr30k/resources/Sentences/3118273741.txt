@@ -1,0 +1,5 @@
+[/EN#94762/animals A dirty dog] is lying on [/EN#94763/scene the pavement] in [/EN#94765/scene a building] with [/EN#94766/other a green wall] .
+[/EN#94762/animals A dog] takes [/EN#94762/other a nap] in [/EN#94764/scene the middle of a busy alley] .
+[/EN#94762/animals A sheep] on [/EN#94764/scene the floor of an industrial building] .
+[/EN#0/notvisual There] is [/EN#94762/animals a sheep] lying on [/EN#0/notvisual the ground] .
+[/EN#94762/animals A dog] sleeping in [/EN#94763/scene an alley] .

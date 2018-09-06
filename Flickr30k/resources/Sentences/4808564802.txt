@@ -1,0 +1,5 @@
+[/EN#205200/people A group of people] stand facing [/EN#0/notvisual the same direction] while most look at [/EN#205206/other their phones] .
+[/EN#205200/people Many people] seem to be waiting for [/EN#205201/other something] , with [/EN#205203/other the sunlight] gone .
+[/EN#205202/people Several people] are waiting for [/EN#205205/other something] to arrive .
+[/EN#205200/people A group of people] are waiting for [/EN#205201/other something] .
+[/EN#205200/people Many people] are waiting for [/EN#205204/vehicles/scene a train] .

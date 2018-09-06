@@ -1,0 +1,5 @@
+[/EN#193300/scene A view] into [/EN#193296/people a window of a seated person] reading [/EN#193299/other a newspaper] and [/EN#193298/vehicles an old-timey black car] .
+[/EN#193295/people A man] is sitting reading [/EN#193299/other a newspaper] in [/EN#193303/scene a room] with [/EN#193298/vehicles a classic blue car] .
+[/EN#193295/people A man] reading [/EN#193299/other a newspaper] inside [/EN#193301/scene a building] with [/EN#193297/vehicles a black car] .
+[/EN#193295/people A man] is reading [/EN#193299/other a newspaper] in [/EN#193302/people/scene a car dealership] .
+[/EN#193295/people A Man] reading [/EN#193299/other a newspaper] next to [/EN#193297/vehicles a car] .

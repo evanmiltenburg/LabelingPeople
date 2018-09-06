@@ -1,0 +1,5 @@
+[/EN#234845/animals The black dog] and [/EN#234846/animals brown dog] are wrestling in front of [/EN#234847/scene the fireplace] .
+[/EN#234845/animals The black dog] and [/EN#234846/animals the brown dog] appear to be wrestling .
+[/EN#234848/animals Two dogs] wrestling in front of [/EN#234847/scene a fireplace]
+[/EN#234850/clothing A black] and [/EN#234849/animals a brown dog] are fighting .
+[/EN#234846/animals Two dog] wrestling .

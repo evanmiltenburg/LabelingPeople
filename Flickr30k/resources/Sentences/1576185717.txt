@@ -1,0 +1,5 @@
+[/EN#16794/people a girl] in [/EN#16795/clothing a red top] bowls [/EN#16792/other a cricket ball] at [/EN#16790/people a boy] in [/EN#16799/clothing a yellow shirt] [/EN#0/notvisual who] is in front of [/EN#16800/other the wicket] holding [/EN#16798/other a bat] .
+[/EN#16790/people A young boy] and [/EN#16794/people girl] playing [/EN#16792/other baseball] in [/EN#16793/scene a grassy field] .
+[/EN#16791/people A boy and yellow and girl] in [/EN#16796/clothing red] playing [/EN#16797/other cricket] .
+[/EN#16791/people Two young children] playing [/EN#16797/other cricket] in [/EN#16793/scene a field] .
+[/EN#16790/people A boy] and [/EN#16794/people girl] playing [/EN#16797/other cricket]

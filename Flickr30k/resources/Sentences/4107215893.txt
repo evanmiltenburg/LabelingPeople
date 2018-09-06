@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#155762/people some musicians] and [/EN#155764/people a man] in [/EN#155766/clothing white] playing on [/EN#155765/scene a stage] .
+[/EN#155762/people A band] is on [/EN#155765/scene a stage] and [/EN#0/notvisual there] is [/EN#155764/people a man] in [/EN#155766/clothing a white costume] .
+[/EN#155763/people A blond performer] is standing on [/EN#155765/scene stage] in [/EN#155766/clothing a white outfit] .
+[/EN#155763/people A man] in [/EN#155766/clothing a white costume] standing on [/EN#155765/scene stage] with [/EN#155762/people a band] .
+[/EN#155762/people A band] plays as [/EN#0/notvisual they] sing along with [/EN#155767/other the music] .

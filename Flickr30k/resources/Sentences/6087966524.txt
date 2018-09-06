@@ -1,0 +1,5 @@
+[/EN#247825/people Three police officers] on [/EN#247830/other motorcycles] on [/EN#247826/scene the street] with [/EN#247832/people pedestrians] walking on [/EN#247828/scene the sidewalk] in [/EN#0/notvisual the background] .
+[/EN#247825/people Police officers] on [/EN#247830/other motorcycles] stopped in front of [/EN#247831/scene a building] .
+[/EN#247825/people Two police officers] are sitting on [/EN#247830/other motorcycles] in [/EN#247827/scene the road] .
+[/EN#247825/people Officers] on [/EN#247830/other motorcycles] patrol [/EN#247829/scene the streets] .
+[/EN#247825/people Two policeman] and are on [/EN#247830/other motorcycles] .

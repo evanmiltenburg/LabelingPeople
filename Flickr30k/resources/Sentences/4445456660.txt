@@ -1,0 +1,5 @@
+[/EN#168974/people A woman] reading while sitting on [/EN#168975/other a bench] as [/EN#168980/scene traffic passes] on [/EN#168976/scene the street] behind [/EN#0/notvisual her] .
+[/EN#168974/people A woman] sits on [/EN#168975/other a park bench] as [/EN#168981/vehicles a scooter] , [/EN#168982/vehicles car] and [/EN#168979/other bus drive] by behind [/EN#0/notvisual her] .
+[/EN#168976/scene A city street] with [/EN#168975/other a metal bench] occupied by [/EN#168974/people a woman] in [/EN#168983/clothing black] .
+[/EN#168974/people A woman] is sitting on [/EN#168975/other a bench] in front of [/EN#168976/scene a road] , reading .
+[/EN#168974/people A blond woman] sitting on [/EN#168978/other a bench writing] .

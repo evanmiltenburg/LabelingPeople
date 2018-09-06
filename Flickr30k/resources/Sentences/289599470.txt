@@ -1,0 +1,5 @@
+[/EN#79777/people A person] with [/EN#79780/bodyparts dark hair] is eating [/EN#79779/other a very large ear of corn] .
+[/EN#79777/people The child] with [/EN#79780/bodyparts black hair] is eating [/EN#79779/other corn] on [/EN#79779/other the cob] .
+[/EN#79777/people A black-haired girl] is eating [/EN#79779/other corn] on [/EN#79779/other the cob] .
+[/EN#79777/people A man] is eating [/EN#79779/other a piece of corn] on [/EN#79779/other the cob] .
+[/EN#79777/people A man] is nibbling on [/EN#79779/other an ear of corn]

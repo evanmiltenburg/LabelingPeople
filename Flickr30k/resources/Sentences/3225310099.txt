@@ -1,0 +1,5 @@
+[/EN#102518/people A small group of people] are in [/EN#102517/vehicles/scene a small red boat] and [/EN#0/notvisual it] is in [/EN#0/notvisual the air] over [/EN#102520/scene the ocean] .
+[/EN#102517/vehicles/scene The boat] with [/EN#102518/people passengers] gets lifted out of [/EN#102520/scene the water] by [/EN#102519/other a large cable] .
+[/EN#102517/vehicles/scene A boat] containing [/EN#102518/people people] is suspended by [/EN#102519/other a cable] .
+[/EN#102517/vehicles/scene A boat] suspended by [/EN#102519/other a cable] over [/EN#102520/scene the water] .
+[/EN#102517/scene A raft] hanging from [/EN#102519/other a rope] over [/EN#102520/scene the ocean] .

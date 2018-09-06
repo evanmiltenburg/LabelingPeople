@@ -1,0 +1,5 @@
+[/EN#196043/people A man] in [/EN#196050/clothing a collared striped shirt] is looking at [/EN#196048/other something] while standing near [/EN#196044/other empty alcoholic bottles] .
+[/EN#196043/people Man] standing by [/EN#196049/other the side of an over] flowing [/EN#196042/other garbage bin] , with [/EN#196047/other random items] scattered around [/EN#196042/other the bin] .
+[/EN#196043/people A man] is standing next to [/EN#196042/other a bin] overflowing with [/EN#196045/other garbage] .
+Overflowing [/EN#196042/other gray trashcan] on [/EN#196051/scene city street] .
+[/EN#196042/other A filled trashcan] with [/EN#196046/other graffiti] on [/EN#0/notvisual it] .

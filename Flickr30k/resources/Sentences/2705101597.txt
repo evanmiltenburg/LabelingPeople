@@ -1,0 +1,5 @@
+[/EN#67228/people A boy] in [/EN#67232/clothing a red shirt] with [/EN#67232/clothing white stripes] , [/EN#67233/clothing jeans] and [/EN#67231/clothing a red hat] is throwing [/EN#67229/other a blue bowling ball] down [/EN#67234/other the lane] at [/EN#67230/scene a bowling alley] .
+[/EN#67228/people A young man] in [/EN#67232/clothing a red striped shirt] and [/EN#67233/clothing blue jeans] is bowling with [/EN#67229/other a blue ball] at [/EN#67230/scene a bowling alley] .
+[/EN#67228/people A boy] in [/EN#67231/clothing a red cap] rolls [/EN#67229/other his bowling ball] down [/EN#67230/scene the alley] .
+[/EN#67229/other The blue ball rolls] steadily towards [/EN#67235/other the pins] .
+[/EN#67228/people A man] in [/EN#67231/clothing a red hat] and [/EN#67232/clothing shirt] bowls .

@@ -1,0 +1,5 @@
+[/EN#9145/people A man] wearing [/EN#9146/clothing a cap] and [/EN#9147/clothing green shirt] with [/EN#9148/other his back] to [/EN#0/notvisual the camera] in [/EN#9149/scene an industrial kitchen] .
+[/EN#9145/people A man] in [/EN#9150/clothing blue pants] is working in [/EN#9149/scene a factory] .
+[/EN#9151/people Two workers] work in [/EN#9149/scene an industrial bakery] .
+[/EN#9145/people A man] with [/EN#9147/clothing a green shirt] on is working .
+[/EN#9145/people a man] in [/EN#9147/clothing a green shirt] at [/EN#9149/scene a factory]

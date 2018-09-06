@@ -1,0 +1,5 @@
+[/EN#53458/people A woman] in [/EN#53459/clothing a black dress] stands on [/EN#53460/scene a street corner] with [/EN#53464/bodyparts her hands] on [/EN#53461/bodyparts her head] , as [/EN#53465/other a yellow taxi van] drives down [/EN#53460/scene the street] .
+[/EN#53458/people A woman] in [/EN#53459/clothing a black dress] and [/EN#53463/clothing flat shoes] holds [/EN#53461/bodyparts her head] as [/EN#0/notvisual she] waits to cross [/EN#53460/scene the street] .
+[/EN#53458/people A woman] in [/EN#53459/clothing a black dress] stands in [/EN#53460/scene a city street] .
+[/EN#53458/people Woman] in [/EN#53459/clothing a black dress] standing on [/EN#53460/scene a busy street] .
+[/EN#53458/people A woman] in [/EN#53462/clothing a dress] at [/EN#53460/scene a crosswalk] .

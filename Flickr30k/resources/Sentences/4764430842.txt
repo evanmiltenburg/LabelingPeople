@@ -1,0 +1,5 @@
+[/EN#200571/people Two people] , [/EN#200572/people a man] and [/EN#200573/people a woman] , lie in [/EN#200575/scene the grass] with [/EN#200573/other one] [/EN#0/notvisual another] with [/EN#200580/bodyparts their feet] on [/EN#200578/other the edge of a graffiti] covered [/EN#200578/other concrete wall] .
+[/EN#200572/people A man] dressed in [/EN#200576/clothing green] and [/EN#200573/people a woman] wearing [/EN#200574/clothing a white dress] are lying on [/EN#200575/scene the grass] .
+[/EN#200573/people A woman] in [/EN#200574/clothing a white dress] is laying on [/EN#0/notvisual the ground] next to [/EN#200572/people a man] dressed in [/EN#200576/clothing gray] .
+[/EN#200571/people A young couple] hang out together .
+[/EN#200571/people A couple] relaxing [/EN#200575/scene outside] .

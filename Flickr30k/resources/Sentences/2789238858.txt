@@ -1,0 +1,5 @@
+[/EN#73082/animals A muzzled greyhound dog] is running around [/EN#73083/scene a track] .
+[/EN#73082/animals A greyhound] with [/EN#73086/clothing a muzzle] runs on [/EN#73085/other a racetrack] .
+[/EN#73084/other a] muzzled [/EN#73082/animals greyhound dog] running around [/EN#73083/scene a track]
+[/EN#73082/animals A dog] racing around [/EN#73083/scene a track] .
+[/EN#73082/animals A dog] racing on [/EN#73083/scene a track] .

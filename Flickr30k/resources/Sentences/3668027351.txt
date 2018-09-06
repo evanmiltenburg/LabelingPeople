@@ -1,0 +1,5 @@
+[/EN#135491/people A woman] wearing [/EN#135498/clothing a white tank top and white and red floral print skirt] jumps for [/EN#135499/other joy] at [/EN#135492/scene the pier] .
+[/EN#135491/people Woman] jumping from [/EN#135492/scene a dock] while wearing [/EN#135497/clothing a red and white skirt] and [/EN#135495/clothing top] .
+[/EN#135491/other A young] is jumping into [/EN#0/notvisual the air] off of [/EN#135492/scene a boardwalk] on [/EN#135493/scene the ocean] .
+[/EN#135491/people A woman] is jumping on [/EN#135492/scene a dock] by [/EN#135493/other the waterside] .
+[/EN#135491/people woman] in [/EN#135495/clothing white top] jumping on [/EN#135492/other a deck]

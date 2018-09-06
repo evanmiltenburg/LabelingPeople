@@ -1,0 +1,5 @@
+[/EN#56973/people A construction worker] is standing next to [/EN#56975/other a yellow metal structure] .
+[/EN#56973/people Worker] in [/EN#56974/clothing orange jumpsuit] and [/EN#56976/other headlamp] standing by [/EN#56975/other equipment] .
+[/EN#56973/people A man] in [/EN#56974/clothing an orange jumpsuit] posing on [/EN#56975/other a piece of rigging] .
+[/EN#56973/people Worker] wearing [/EN#56974/clothing orange jacket] and [/EN#56977/clothing hard hat] with [/EN#56976/other light] .
+[/EN#56973/people Worker] in [/EN#56974/other orange jumpsuit adjusts] [/EN#56978/other industrial scale] .

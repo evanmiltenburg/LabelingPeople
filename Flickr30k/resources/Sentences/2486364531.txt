@@ -1,0 +1,5 @@
+[/EN#52899/people A little boy] wearing [/EN#52902/clothing an orange shirt] and [/EN#52906/clothing white shorts] jumps barefoot on [/EN#52901/people a plastic jumper] on top of [/EN#52900/scene the green grass] .
+[/EN#52899/people Boy] wearing [/EN#52902/clothing a red shirt] standing on [/EN#52905/other a plastic object] and holding [/EN#52903/other a yellow toy shovel] .
+[/EN#52899/people A young boy] in [/EN#52902/clothing a red shirt] plays on [/EN#52901/other a mini-trampoline] in [/EN#52900/scene a grassy field]
+[/EN#52899/people Boy] with [/EN#52903/other yellow toy] in [/EN#52907/bodyparts hand] , jumps on [/EN#52901/other a toy] on [/EN#52900/scene green grass] .
+[/EN#52899/people Young boy] bouncing off [/EN#52901/other a trampoline] .

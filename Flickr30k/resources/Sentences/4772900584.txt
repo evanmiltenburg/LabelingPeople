@@ -1,0 +1,5 @@
+[/EN#201358/people A man] in [/EN#201360/clothing a brown straw hat] is riding [/EN#201359/vehicles his bicycle] on [/EN#201361/scene the street] .
+[/EN#201358/people A man] in [/EN#201360/clothing a straw hat] and [/EN#201363/clothing green shirt] is pushing [/EN#201359/vehicles his bicycle] .
+[/EN#201358/people An elderly black man] pushes [/EN#201359/vehicles his bike] along [/EN#201361/scene a city sidewalk] .
+[/EN#201358/people A man] in [/EN#201360/clothing a straw hat] walks [/EN#201359/vehicles his bike] down [/EN#201361/scene a sidewalk] .
+[/EN#201358/people an older man] riding [/EN#201359/vehicles a bike] in [/EN#201362/scene a city park]

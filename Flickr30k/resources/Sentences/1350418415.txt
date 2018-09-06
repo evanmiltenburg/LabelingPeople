@@ -1,0 +1,5 @@
+[/EN#9518/people A man] in [/EN#9519/clothing a white cowboy hat] reclines in front of [/EN#9520/other a window] in [/EN#9525/scene an airport] .
+[/EN#9518/people A young man] rests on [/EN#9521/scene an airport seat] with [/EN#9519/clothing a cowboy hat] over [/EN#9522/bodyparts his face] .
+[/EN#9518/people A woman] relaxes on [/EN#9523/other a couch] , with [/EN#9519/clothing a white cowboy hat] over [/EN#9524/bodyparts her head] .
+[/EN#9518/people A man] is sleeping inside on [/EN#9523/other a bench] with [/EN#9519/clothing his hat] over [/EN#9522/bodyparts his eyes] .
+[/EN#9518/people A person] is sleeping at [/EN#9525/scene an airport] with [/EN#9519/clothing a hat] on [/EN#9524/bodyparts their head] .

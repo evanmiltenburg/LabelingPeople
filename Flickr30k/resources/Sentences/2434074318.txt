@@ -1,0 +1,5 @@
+[/EN#49188/people A male hiker] wearing [/EN#49189/clothing a brown hat] is standing next to [/EN#49191/other a triangular monument] on [/EN#49190/scene the top of a mountain] .
+[/EN#49188/people A man] stands at [/EN#49190/scene the peak of a mountain] and has [/EN#49193/bodyparts his hand] on [/EN#49191/other a monument] .
+[/EN#49188/people A man] with [/EN#49189/clothing a hat] stands next to [/EN#49191/other a pyramid-shaped monument] on [/EN#49190/scene a cliff] .
+[/EN#49188/people A man] stands near [/EN#49191/other a statue] on [/EN#49190/other a mountaintop] .
+[/EN#49188/people A man] stands on [/EN#49190/scene a peak] near [/EN#49191/other a statue] .

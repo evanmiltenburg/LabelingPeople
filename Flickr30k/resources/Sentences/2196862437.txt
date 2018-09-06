@@ -1,0 +1,5 @@
+[/EN#33542/people A lady] wearing [/EN#33543/clothing a white jacket] is standing next to and looking inside of [/EN#33544/vehicles a car] .
+[/EN#33542/people Woman] in [/EN#33543/clothing a blue raincoat] walking in front of [/EN#33545/other a cement wall] .
+[/EN#33542/people Woman] in [/EN#33546/other white smock] standing in [/EN#33547/scene a large garage] by [/EN#33544/vehicles a car] .
+[/EN#33542/people A woman] in [/EN#33543/clothing a white coat] is standing next to [/EN#33544/vehicles a car] .
+[/EN#33542/people A woman] in [/EN#33543/clothing a white lab coat] .

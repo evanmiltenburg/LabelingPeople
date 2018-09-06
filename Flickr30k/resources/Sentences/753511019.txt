@@ -1,0 +1,5 @@
+[/EN#271139/people A woman] in [/EN#271140/clothing a Men 's Health hat] , wearing [/EN#271143/clothing a red tank top] , sits on [/EN#0/notvisual the ground] eating [/EN#271141/other food] with [/EN#271144/other an unopened soda] and [/EN#271146/scene tree covered hills] in [/EN#0/notvisual the background] .
+[/EN#271139/people A woman] in [/EN#271143/clothing a red tank top] and [/EN#271140/clothing a Men 's Health hat] is sitting on [/EN#0/notvisual the ground] eating [/EN#271141/other her lunch] .
+[/EN#271139/people A young woman] sitting down on [/EN#0/notvisual the ground] having [/EN#271141/other a healthy lunch] at [/EN#271142/scene a hiking trail] .
+[/EN#271139/people Woman] in [/EN#271143/clothing red dress] and [/EN#271140/clothing baseball cap] eats [/EN#271141/other lunch] while sitting in [/EN#271145/other gravel] .
+[/EN#271139/people Woman] eating [/EN#271141/other lunch] on [/EN#271142/scene campgrounds] .

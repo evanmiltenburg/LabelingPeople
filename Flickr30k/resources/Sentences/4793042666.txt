@@ -1,0 +1,5 @@
+[/EN#203259/people An older individual] crosses [/EN#203260/scene the street] on [/EN#0/notvisual what] seems to be [/EN#203261/scene an overcast day] , [/EN#203264/other traffic approaches] in [/EN#0/notvisual the background] .
+[/EN#203259/people A man] walking across [/EN#203260/scene the street] on [/EN#203260/scene the road] [/EN#0/notvisual that] says " keep clear " .
+[/EN#203259/people a man] with [/EN#203262/clothing a red shoulder bag] is crossing [/EN#203260/scene a city street] .
+[/EN#203259/people A man] in [/EN#203263/clothing a suit] walking across [/EN#203260/scene a city street] .
+[/EN#203259/people A man] crossing [/EN#203260/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#172968/people A little girl] sits alone on [/EN#172969/other a park bench] with [/EN#172973/scene city buildings] in [/EN#0/notvisual the background] .
+[/EN#172968/people A little girl] about [/EN#172970/other 2] with [/EN#172975/bodyparts blond-hair] is sitting on [/EN#172969/other a bench] all by [/EN#0/notvisual herself] .
+[/EN#172968/people A little girl] in [/EN#172976/clothing a pink shirt] is sitting on [/EN#172969/other a park bench] in [/EN#172974/other fall] .
+[/EN#172968/people A little girl] sitting on [/EN#172969/other a bench] with [/EN#172971/other a ball] under [/EN#0/notvisual it] .
+[/EN#172968/people A little girl] is sitting on [/EN#172969/other a bench] in [/EN#172972/scene a park] .

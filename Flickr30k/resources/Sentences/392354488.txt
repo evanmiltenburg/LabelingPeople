@@ -1,0 +1,5 @@
+[/EN#148303/people A little girl] wearing [/EN#148307/clothing a purple shirt] is kneeling on [/EN#0/notvisual the ground] with [/EN#148305/other a book] while [/EN#148301/people another little girl] looks over [/EN#148308/bodyparts her shoulder] .
+[/EN#148300/people Two young girls] reading , while [/EN#148301/people another young child] looks on .
+[/EN#148300/people Two girls] are reading [/EN#148302/other books] while [/EN#148301/people a baby] looks at [/EN#0/notvisual them] .
+[/EN#148300/people Two little girls] reading and [/EN#148301/people a baby] listening .
+[/EN#148304/people Three young children] enjoying [/EN#148302/other books] .

@@ -1,0 +1,5 @@
+[/EN#54021/animals a black dog] and [/EN#54024/animals a white dog] are running across [/EN#54023/scene a sandy beach] by [/EN#54025/scene the ocean] .
+[/EN#54022/animals Two dogs] are running on [/EN#54026/other sand] along [/EN#54025/scene the body of water]
+[/EN#54021/animals A black dog] is chasing [/EN#54024/animals another dog] along [/EN#54023/scene the beach] .
+[/EN#54022/animals Two dogs] are running on [/EN#54023/scene the beach] along [/EN#54025/scene the water] .
+[/EN#54021/animals A black dog] and [/EN#54024/animals a gray dog] run on [/EN#54023/scene the beach] .

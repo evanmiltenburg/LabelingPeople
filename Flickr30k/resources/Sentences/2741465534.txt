@@ -1,0 +1,5 @@
+[/EN#69720/people People] use [/EN#69725/scene the computer terminals] at [/EN#69721/scene a modern library] .
+[/EN#69719/people A man] and [/EN#69722/people a woman] using [/EN#69724/other computers] in [/EN#69721/scene a public space] .
+[/EN#69719/people A man] and [/EN#69722/people a woman] sit in front of [/EN#69723/other computer monitors] .
+[/EN#69719/people A man] and [/EN#69722/people a woman] sit [/EN#0/notvisual side] by [/EN#0/notvisual side] at [/EN#69723/other computers] .
+[/EN#69720/people People] are working at [/EN#69724/other computers] in [/EN#69721/scene a library] .

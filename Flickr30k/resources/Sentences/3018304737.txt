@@ -1,0 +1,5 @@
+[/EN#87740/people a lone surfboarder] surfing [/EN#87741/scene a wave] riding [/EN#87742/other a white surfboard] .
+[/EN#87740/people A man] catches [/EN#87741/scene a huge wave] on [/EN#87742/other his surfboard] .
+[/EN#87740/people A surfboarder] going down [/EN#87741/scene a wave] .
+[/EN#87740/people A surfer] makes [/EN#87743/other a turn] on [/EN#87741/scene a wave] .
+[/EN#87740/people The surfer] is riding [/EN#87741/scene a wave] .

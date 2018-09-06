@@ -1,0 +1,5 @@
+[/EN#25861/people a gymnast] in [/EN#25864/clothing a blue leotard] is doing [/EN#25865/other a handstand] on [/EN#25862/scene the workout floor] .
+[/EN#25861/people A girl] in [/EN#25864/clothing a blue leotard] does [/EN#25865/other a somersault] on [/EN#25862/other a blue gymnastics mat] .
+[/EN#25861/people A child gymnast] performs [/EN#0/notvisual a trick] in [/EN#25866/scene a gymnasium] .
+[/EN#25861/people Gymnast] does [/EN#25862/clothing a flip on blue] flooring .
+[/EN#25861/people A child] doing [/EN#25865/other gymnastics]

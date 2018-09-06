@@ -1,0 +1,5 @@
+[/EN#130770/people A little boy] in [/EN#130773/clothing a blue baseball jersey] and [/EN#130775/scene blue helmet wipes dirt] off [/EN#130771/other a base] .
+[/EN#130770/people A boy] in [/EN#130773/clothing a blue jersey] is bending over [/EN#130771/other a base] on [/EN#130772/scene a baseball field] .
+[/EN#130770/people A little boy] in [/EN#130774/clothing a blue helmet] and [/EN#130773/clothing shirt] is dusting off [/EN#130771/other a base] .
+[/EN#130770/people A kid] touching [/EN#130771/other a baseball base] and wearing [/EN#130774/clothing a blue helmet] .
+[/EN#130770/people A boy] on [/EN#130772/scene a baseball field] dusts off [/EN#130771/other his plate] .

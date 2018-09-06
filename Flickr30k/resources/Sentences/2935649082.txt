@@ -1,0 +1,5 @@
+[/EN#82474/people The man] was sailing in [/EN#82476/scene the ocean] and fell off [/EN#82475/vehicles/scene his boat] .
+[/EN#82474/people A windsurfer] falls off [/EN#82475/vehicles/scene his boat] in [/EN#82476/scene the ocean] .
+[/EN#82474/people The sailboarder] is falling in [/EN#82476/scene the water] .
+[/EN#82474/people A man] loses [/EN#82477/other control of his watercraft] .
+[/EN#82474/people A man] parasails on [/EN#82476/scene the water] .

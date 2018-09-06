@@ -1,0 +1,5 @@
+[/EN#254201/people Person] performing [/EN#254206/other a move] on [/EN#254202/vehicles a mountain bike] with [/EN#254210/other trees] and [/EN#254203/scene hill] behind [/EN#0/notvisual him] .
+[/EN#254201/people A man] on [/EN#254202/vehicles a bike] performs [/EN#254206/other a stunt] where [/EN#0/notvisual he] jumps for [/EN#0/notvisual air] off of [/EN#254204/scene a ramp] .
+[/EN#254201/people A mountain biker] jumping [/EN#254207/other a slope] [/EN#254209/scene outdoors] in [/EN#254205/scene a forest area] .
+[/EN#254201/people A person] on [/EN#254202/vehicles a bicycle] jumping over [/EN#254203/scene a dirt hill] .
+[/EN#254201/people BMX biker] jumps over [/EN#254207/other a ravine] .

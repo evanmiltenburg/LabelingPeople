@@ -1,0 +1,5 @@
+[/EN#171927/people A woman] wearing [/EN#171930/clothing a raincoat] is standing under [/EN#171929/other a purple awning] with [/EN#171934/other white letters] saying " next to [/EN#171931/other normal] " .
+[/EN#171927/people Woman] in [/EN#171930/clothing trench coat] and [/EN#171933/clothing purple scarf] stands under [/EN#171929/other an awning] [/EN#0/notvisual that] says " next to [/EN#171931/other normal] . "
+[/EN#171927/people A woman] in [/EN#171930/clothing an overcoat] is using [/EN#171932/other her phone] while standing outside of [/EN#171928/scene a building] .
+[/EN#171927/people A woman] in [/EN#171930/clothing a tan coat] stands near [/EN#171929/other an awning] [/EN#0/notvisual that] says " next to [/EN#171931/other normal] . "
+[/EN#0/notvisual She] is standing outside [/EN#171928/scene a building] .

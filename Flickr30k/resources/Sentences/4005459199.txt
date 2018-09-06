@@ -1,0 +1,5 @@
+[/EN#151662/people A man] wearing [/EN#151667/clothing sunglasses] is sitting in [/EN#151663/vehicles the passenger seat of a silver vehicle] .
+[/EN#151662/people An elderly man] sits in [/EN#151663/vehicles silver vehicle] with [/EN#151665/other window] rolled down .
+[/EN#151662/people A man] sits in [/EN#151663/vehicles his car] , with [/EN#151668/bodyparts/people his arm] resting on [/EN#151663/other the door] .
+[/EN#151662/people A man] is sitting in [/EN#151663/vehicles the passenger seat of a car] .
+[/EN#151662/people Older man] is sitting in [/EN#151663/vehicles a car] .

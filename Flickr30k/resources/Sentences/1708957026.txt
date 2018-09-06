@@ -1,0 +1,5 @@
+[/EN#19200/people A woman] in [/EN#19206/clothing a pink jacket] is walking past [/EN#19202/other a display window] with [/EN#19203/clothing a red dress] in [/EN#19205/scene an urban setting] .
+[/EN#19200/people O woman] walks hurriedly past [/EN#19201/scene a department store] with [/EN#19203/clothing a red evening gown] in [/EN#19202/other the display window] .
+[/EN#19200/people A woman] walks along [/EN#19204/scene a street] as [/EN#0/notvisual she] looks to [/EN#19202/other a window display of a mannequin] in [/EN#19203/clothing a red dress] .
+[/EN#19200/people A woman] walking down [/EN#19204/scene the street] past [/EN#19201/scene a jewelry shop] with [/EN#19203/clothing a red dress] in [/EN#19202/other the window] .
+[/EN#19200/people A person] is walking by [/EN#19202/other a store window] featuring [/EN#19203/clothing a red dress] .

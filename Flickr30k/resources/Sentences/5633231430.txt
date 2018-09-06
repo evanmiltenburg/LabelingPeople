@@ -1,0 +1,5 @@
+[/EN#240070/people One person] pulls [/EN#240073/vehicles a cart] full of [/EN#240077/other items] across [/EN#240071/scene a road] [/EN#0/notvisual that] is very busy with [/EN#240076/vehicles cars] and [/EN#240079/other motorcycles] .
+[/EN#240070/people The man] is in [/EN#240074/other a hurry] to pull [/EN#240073/vehicles the full garbage cart] across [/EN#240071/scene the busy street] .
+[/EN#240070/people A man] is pulling [/EN#240073/vehicles a cart] loaded with [/EN#240077/other goods] across [/EN#240071/scene an intersection] .
+[/EN#240070/people This worker] is pushing [/EN#240073/vehicles his cart] through [/EN#240072/vehicles the busy traffic] alone .
+[/EN#240070/people A man] is pulling [/EN#240073/vehicles a heavily-laden yellow cart] through [/EN#240072/vehicles traffic] .

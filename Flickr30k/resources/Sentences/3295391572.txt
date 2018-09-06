@@ -1,0 +1,5 @@
+[/EN#107576/people Boy] in [/EN#107577/clothing blue shirt] looking at [/EN#107581/bodyparts someone 's hand] near [/EN#107579/scene stack of blocks] on [/EN#107578/other table] .
+[/EN#107576/people A child] playing with [/EN#107579/scene building blocks] on [/EN#107578/other a wooden table] .
+[/EN#107576/people A small boy] wearing [/EN#107577/clothing a blue shirt] stacks [/EN#107579/scene wooden blocks] .
+[/EN#107576/people A small boy] is building with [/EN#107579/scene some wooden blocks] .
+[/EN#107576/people A boy] plays [/EN#107580/other a game] with [/EN#107579/scene wooden blocks] .

@@ -1,0 +1,5 @@
+[/EN#6337/people A skinny shirtless man] wearing [/EN#6346/clothing sunglasses] , [/EN#6341/clothing a tiger scarf] around [/EN#6347/bodyparts his neck] and [/EN#6342/clothing a black belt] and [/EN#6344/clothing jeans] is hammering on [/EN#6339/other a metal rod] .
+[/EN#6337/people A shirtless man] wearing [/EN#6338/clothing a black hat] and [/EN#6341/clothing a scarf] works on [/EN#6340/other an anvil] .
+[/EN#6337/people A shirtless man] in [/EN#6338/clothing a hat] and [/EN#6341/clothing tie] is hammering [/EN#6339/other metal] on [/EN#6340/other an anvil] .
+[/EN#6337/people A man] with [/EN#6345/clothing no shirt] on and [/EN#6338/clothing a hat] is using [/EN#6343/other a hammer] and [/EN#6340/other anvil] .
+[/EN#6337/people A shirtless man] working with [/EN#6340/other iron] .

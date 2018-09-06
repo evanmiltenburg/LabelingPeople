@@ -1,0 +1,5 @@
+[/EN#235442/people A group of 5 kids] are dressed in [/EN#235446/clothing winter apparel] playing in [/EN#235444/scene the snow] .
+[/EN#235442/people A group of five children] have [/EN#235443/other a snowball fight] and play in [/EN#235444/scene the snow] .
+[/EN#235442/people Five kids] are playing in [/EN#235444/scene the snow] during [/EN#235445/other the winter] .
+[/EN#235442/people Five children] are playing in [/EN#235444/scene the snow] .
+[/EN#0/notvisual This] is [/EN#235443/other a snow fight] between [/EN#235442/people 5 kids] .

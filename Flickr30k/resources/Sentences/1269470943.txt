@@ -1,0 +1,5 @@
+[/EN#6795/people The little boy] fell [/EN#6796/bodyparts face] first into [/EN#6796/scene the grass] while playing [/EN#6798/other football] .
+[/EN#6795/people A boy] laying on [/EN#6796/bodyparts the grass face] down with [/EN#6798/other a football] at [/EN#6799/bodyparts his feet] .
+[/EN#6795/people Boy] is lying [/EN#6796/bodyparts face] down in [/EN#6796/scene the grass] with [/EN#6800/other his foot] on [/EN#6798/other a football] .
+[/EN#6795/people A boy] in [/EN#6801/clothing blue] with [/EN#6798/other a football] sprawls in [/EN#6796/scene the grass] .
+[/EN#6795/people The boy] is on [/EN#0/notvisual the ground] next to [/EN#6798/other the football] .

@@ -1,0 +1,5 @@
+[/EN#190892/people A young lady] walking [/EN#190893/vehicles her bicycle] walking away from [/EN#0/notvisual the camera] on [/EN#0/notvisual what] appears to be [/EN#190895/scene a bike path] near [/EN#190896/scene some water] .
+[/EN#190892/people A scantily clad young woman] is pushing [/EN#190893/vehicles a mountain bike] on [/EN#190895/scene a recreational path] along [/EN#190896/scene a body of water] .
+[/EN#190892/people A young woman] in [/EN#190897/other athletic gear] is taking [/EN#190893/vehicles her bike] on [/EN#190898/other a stroll] near [/EN#190896/scene a lake] .
+[/EN#190892/people A woman] jogging on [/EN#190895/scene a path] while holding [/EN#190893/vehicles a bike] next to [/EN#0/notvisual her] .
+[/EN#190892/people A girl] in [/EN#190899/clothing black shorts] pushing [/EN#190893/vehicles a bike] down [/EN#190895/scene the street] .

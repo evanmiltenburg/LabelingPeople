@@ -1,0 +1,5 @@
+[/EN#66821/people A lady] in [/EN#66822/clothing a pink shirt] and [/EN#66825/clothing light colored blue jeans] standing outside of [/EN#66823/scene a yellow colored building] .
+[/EN#66821/people A woman] in [/EN#66822/clothing a pink shirt] standing in front of [/EN#66823/scene a yellow building] .
+[/EN#66821/people An Asian woman] eating [/EN#66826/other rice] in front of [/EN#66823/scene a yellow building] .
+[/EN#66821/people An asian woman] in [/EN#66822/clothing pink shirt] is eating on [/EN#66824/scene the street] .
+[/EN#66821/people An asian women] standing outside of [/EN#66823/scene a yellow building] .

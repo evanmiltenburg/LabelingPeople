@@ -1,0 +1,5 @@
+[/EN#175754/people A person] with [/EN#175763/bodyparts short black hair] , [/EN#175762/clothing glasses] , [/EN#175756/clothing light blue long-sleeved shirt] , and [/EN#175757/clothing jeans] is laying on [/EN#175755/other a marble bench] [/EN#0/notvisual that] is jutting out of [/EN#175758/other a black brick wall] .
+[/EN#175754/people An Asian man] wearing [/EN#175757/clothing jeans] and [/EN#175756/other a blue button] up [/EN#175756/clothing shirt] with [/EN#175761/clothing a white collar] lays on [/EN#175755/other a park bench] holding [/EN#175756/clothing a light colored jacket] .
+[/EN#175754/people A person] laying down on [/EN#175755/other a bench] with [/EN#175756/clothing a blue shirt] on .
+[/EN#175754/people A man] is laying on [/EN#175764/scene a bench outside] .
+[/EN#175754/people A man] takes [/EN#175760/other a nap] on [/EN#175755/other a bench] .

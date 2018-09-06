@@ -1,0 +1,5 @@
+[/EN#132659/animals a black dog] pulling on [/EN#132660/other a green rope] in [/EN#132661/scene the grass]
+[/EN#132659/animals The black dog] is tugging at [/EN#132660/other a green rope] .
+[/EN#132659/animals A black dog] pulling [/EN#132660/other a green rope]
+[/EN#132659/animals A black dog] tugs on [/EN#132660/other a rope] .
+[/EN#132659/animals A dog] pulling [/EN#132660/other a rope] .

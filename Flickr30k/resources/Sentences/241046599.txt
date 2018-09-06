@@ -1,0 +1,5 @@
+[/EN#47029/animals a small brown dog] is running across [/EN#47032/scene the grass] wearing [/EN#47030/clothing a purple and green coat] .
+[/EN#47029/animals Brown dog] , with [/EN#47030/clothing green and purple cape] , runs on [/EN#47032/scene grass] .
+[/EN#47029/animals A miniature dachshund] has [/EN#47030/clothing an apron] on [/EN#47030/other its back] .
+[/EN#47029/animals A small dog] wearing [/EN#47030/clothing a purple and green cape]
+[/EN#47029/animals The dog] is wearing [/EN#47030/clothing a purple cape] .

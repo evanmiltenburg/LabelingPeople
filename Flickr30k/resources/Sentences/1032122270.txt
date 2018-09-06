@@ -1,0 +1,5 @@
+[/EN#937/animals Three dogs] are standing in [/EN#938/scene the grass] and [/EN#936/people a person] is sitting next to [/EN#0/notvisual them]
+[/EN#937/animals Three dogs] stand in [/EN#938/scene a grassy field] while [/EN#936/people a person] kneels nearby .
+[/EN#937/animals Three dogs] are playing on [/EN#938/scene grassy hill] with [/EN#939/scene a blue sky] .
+[/EN#936/people A woman] crouches near [/EN#937/animals three dogs] in [/EN#938/scene a field] .
+[/EN#937/animals Three dogs] on [/EN#938/scene a grassy hill]

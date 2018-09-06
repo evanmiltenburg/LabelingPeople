@@ -1,0 +1,5 @@
+[/EN#81629/animals A brown horse] with [/EN#81630/people a rider] sitting on [/EN#0/notvisual him] is jumping over [/EN#81631/other a blue barrier]
+[/EN#81630/people A person] in [/EN#81634/clothing white] jumps [/EN#81629/animals a brown horse] over [/EN#81635/scene the gate] .
+[/EN#81629/animals A horse] and [/EN#81630/people rider] , jumping [/EN#81631/other a barrier] on [/EN#81632/other a course] .
+[/EN#0/notvisual There] is [/EN#81629/animals a horse] and [/EN#81630/people rider] jumping over [/EN#81631/other a hurdle] .
+[/EN#81630/people Jockey] and [/EN#0/notvisual horse jump] over [/EN#81631/other blue hurdle]

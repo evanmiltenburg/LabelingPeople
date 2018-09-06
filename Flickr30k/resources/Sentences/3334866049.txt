@@ -1,0 +1,5 @@
+[/EN#110291/people The child] is wearing [/EN#110292/clothing a blue hat] and [/EN#110296/clothing green jacket] while walking through [/EN#110294/scene snow] .
+[/EN#110291/people A person] with [/EN#110292/clothing a blue hat] stands in [/EN#110293/scene trails] in [/EN#110295/scene the snow] .
+[/EN#110291/people A young boy] walks across [/EN#110293/scene tracks] in [/EN#110294/scene the snow] .
+[/EN#110291/people A child] walking in [/EN#110295/scene the snow] .
+[/EN#110291/people A child] in [/EN#110295/scene the snow] .

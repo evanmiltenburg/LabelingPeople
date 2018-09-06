@@ -1,0 +1,5 @@
+[/EN#146763/people A woman] is sitting in [/EN#146765/scene a street market stand] where [/EN#0/notvisual there] are [/EN#146770/other various items] for [/EN#146769/other sale] , such as [/EN#146766/animals fish] .
+[/EN#146763/people A native woman] is surrounded by [/EN#146766/animals baskets of fresh fish] that [/EN#0/notvisual she] is selling at [/EN#146764/scene a local market] .
+[/EN#146764/scene A shop] keeper [/EN#146767/other minds] [/EN#0/notvisual her] [/EN#146768/scene open air stall] in [/EN#146765/scene a market] .
+[/EN#146763/people A woman] sells [/EN#146766/animals fish] at [/EN#146765/scene the market] .
+[/EN#146763/people A man] is selling [/EN#146766/animals many fish] .

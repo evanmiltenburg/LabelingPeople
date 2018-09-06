@@ -1,0 +1,5 @@
+[/EN#30457/people Someone] in [/EN#30465/clothing a red shirt] and [/EN#30466/clothing no shoes] is sitting with [/EN#30464/other their possessions] on [/EN#30460/scene the road] .
+[/EN#30457/people A barefoot man] laying down in [/EN#30462/scene the crevice] under [/EN#30458/scene a bridge] .
+[/EN#30457/people A man] laying up against [/EN#30459/other a large concrete complex] .
+[/EN#30461/other Person lays] under [/EN#30458/scene a concrete overpass] .
+[/EN#30457/people This woman] is laying on [/EN#30460/other concrete] .

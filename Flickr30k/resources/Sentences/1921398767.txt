@@ -1,0 +1,5 @@
+[/EN#23201/animals A tan dog] dragging [/EN#23204/other a deflated innertube] down [/EN#23202/scene the beach] .
+[/EN#23201/animals The dog] on [/EN#23202/scene the beach] has gotten [/EN#23203/other a hold of something] .
+[/EN#23201/animals A dog] has [/EN#23205/clothing a wetsuit] in [/EN#23206/bodyparts his mouth] on [/EN#23202/scene the beach] .
+[/EN#23201/animals A dog] on [/EN#23202/scene a beach] dragging [/EN#23203/other an item]
+[/EN#23201/animals A dog] walking on [/EN#23202/scene a beach]

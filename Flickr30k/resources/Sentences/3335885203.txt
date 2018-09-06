@@ -1,0 +1,5 @@
+[/EN#110469/people A group of children] wearing [/EN#110472/clothing uniforms] run along [/EN#110475/scene the field] after [/EN#110474/other one] [/EN#0/notvisual who] is holding [/EN#110471/other the ball] .
+[/EN#110473/people A female rugby player] runs with [/EN#110471/other a rugby ball] during [/EN#110470/other a match] .
+[/EN#110469/people Young people] in [/EN#110472/clothing uniform] are playing in [/EN#110470/other a rugby game] .
+[/EN#110469/people Young people] are engaged in [/EN#110470/other a game] .
+[/EN#110469/people Children] play [/EN#110471/other football] .

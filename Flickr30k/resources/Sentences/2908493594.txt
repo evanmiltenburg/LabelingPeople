@@ -1,0 +1,5 @@
+[/EN#80622/people A man] in [/EN#80623/clothing a blue windbreaker jacket] , laying face down on [/EN#80624/other a park bench] , with [/EN#80625/other a liquor bottle] nestled by [/EN#80626/bodyparts one of the bench 's legs] .
+[/EN#80625/other A bottle of alcohol] is sits next to [/EN#80622/people a person] sleeping on [/EN#80624/other a bench] .
+[/EN#80622/people A man] lying on [/EN#80624/other a park bench] with [/EN#80625/other a bottle of alcohol] next to [/EN#0/notvisual him] .
+[/EN#80622/people A man] is sleeping on [/EN#80624/other a park bench] next to [/EN#80625/other an empty bottle] .
+[/EN#80622/people A person] in [/EN#80623/clothing a blue jacket] sleeping on [/EN#80624/other a bench] .

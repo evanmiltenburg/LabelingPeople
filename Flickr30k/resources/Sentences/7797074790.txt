@@ -1,0 +1,5 @@
+[/EN#275334/people A motocross rider] , wearing [/EN#275337/clothing a green and white outfit] on [/EN#275335/vehicles a green and white motorbike] , rides on [/EN#275336/scene a dirt track] .
+[/EN#275334/people A motorcyclist] with [/EN#275337/clothing a top white protection suit] and [/EN#275341/clothing green pants] with [/EN#275339/other a dust cloud] behind .
+[/EN#275334/people A motocross rider] rides through [/EN#275336/scene the dirt] in [/EN#275334/other full gear] with [/EN#275342/clothing helmet] and [/EN#275340/clothing goggles] .
+[/EN#275334/people A man] is riding [/EN#275335/vehicles a dirt bike] with [/EN#275343/other the number 3] on [/EN#0/notvisual it] .
+[/EN#275334/people A man] wearing [/EN#275334/other race gear] is racing down [/EN#275336/scene a dirt road] .

@@ -1,0 +1,5 @@
+[/EN#14468/people A little girl] in [/EN#14473/clothing pajamas] runs down [/EN#14471/other a hall] with [/EN#14469/scene hardwood floors] .
+[/EN#14468/people A little girl] is running down [/EN#14469/other a hardwood] floored [/EN#14469/scene hallway] .
+[/EN#14468/people A young girl] runs down [/EN#14469/scene a hallway] with [/EN#14469/scene wooden floors] .
+[/EN#14468/people A little girl] running down [/EN#14469/scene a brighly lit hallway] .
+[/EN#14468/people A toddler] is running down [/EN#14469/scene a hallway] .

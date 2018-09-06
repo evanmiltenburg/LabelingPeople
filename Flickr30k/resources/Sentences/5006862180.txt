@@ -1,0 +1,5 @@
+[/EN#226731/people A man] holds [/EN#226732/animals a snake] by [/EN#226733/bodyparts the head] and [/EN#226735/bodyparts tail] displaying [/EN#0/notvisual it] for [/EN#0/notvisual the camera] .
+[/EN#226731/people Someone] holds up [/EN#226732/animals a snake] by [/EN#226733/bodyparts its head] and [/EN#226735/bodyparts tail] for [/EN#0/notvisual the camera] .
+[/EN#226731/people A man] , wearing [/EN#226734/clothing khaki shorts] , holding [/EN#226732/animals a snake] .
+[/EN#226732/animals A snake] is being held by [/EN#226731/people someone] .
+[/EN#226731/people A man] wearing [/EN#226734/clothing shorts] holds [/EN#226732/animals a snake]

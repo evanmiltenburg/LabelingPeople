@@ -1,0 +1,5 @@
+[/EN#195955/people A man] on [/EN#195956/other a red motorcycle] drives through [/EN#195957/vehicles traffic] on [/EN#195960/scene a busy street] .
+[/EN#195955/people A man] wearing [/EN#195958/clothing a black leather jacket] is riding [/EN#195956/other a red motorcycle] .
+[/EN#195955/people A man] wearing [/EN#195959/clothing a helmet] rides [/EN#195956/other a bright red motorcycle] in [/EN#195957/vehicles traffic] .
+[/EN#195955/people A man] sitting on [/EN#195956/other a red motorcycle] .
+[/EN#195955/people A man] on [/EN#195956/other a red motorcycle] .

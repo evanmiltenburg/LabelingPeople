@@ -1,0 +1,5 @@
+[/EN#198806/people A man] in [/EN#198810/clothing black] and [/EN#198806/people a man] wearing [/EN#198808/bodyparts makeup] perform together .
+[/EN#198806/people A man] in [/EN#198808/bodyparts clown makeup] and [/EN#198809/clothing a suit] is performing on [/EN#198812/scene stage] .
+[/EN#198806/people A man] with [/EN#198808/bodyparts makeup] is holding [/EN#198811/other something] .
+[/EN#198806/people A man] acting out [/EN#198807/other a strange stage show] .
+[/EN#198806/people The magician] is doing [/EN#0/notvisual a magic trick] .

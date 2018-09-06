@@ -1,0 +1,5 @@
+[/EN#117039/animals Brown dog] leaping over [/EN#117042/scene an obstacle bar] in [/EN#117043/scene a room] .
+[/EN#117039/animals A light brown dog] jumps over [/EN#117040/other a hurdle] [/EN#117041/other indoors] .
+[/EN#117039/animals Large brown dog] jumps over [/EN#117040/other a low rail] .
+[/EN#117039/animals A brown dog] jumping over [/EN#117040/other a pole] .
+[/EN#117039/animals A dog] jumping [/EN#117040/other a pole] .

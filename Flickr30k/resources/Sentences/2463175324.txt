@@ -1,0 +1,5 @@
+[/EN#51349/people A young pitcher] , wearing [/EN#51350/clothing a maroon shirt] and [/EN#51351/clothing hat] , has just thrown [/EN#51356/scene a pitch] .
+[/EN#51349/people A boy] in [/EN#51352/clothing a maroon shirt] and [/EN#51351/clothing cap] with [/EN#51353/clothing gloves] playing in [/EN#0/notvisual a baseball ground] .
+[/EN#51349/people A young person] in [/EN#51352/clothing a baseball uniform] has [/EN#51354/bodyparts/people their arm] extended .
+[/EN#51357/other Child post-throw of a baseball] at [/EN#51355/other a base] .
+[/EN#51349/people A young boy] throws [/EN#51359/other a baseball] .

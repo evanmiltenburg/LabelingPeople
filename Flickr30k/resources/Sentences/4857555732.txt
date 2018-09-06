@@ -1,0 +1,5 @@
+[/EN#211506/scene An entrance] to [/EN#211507/vehicles/scene an underground subway] , with [/EN#211505/people people] passing by .
+[/EN#211505/people People] are gathered around [/EN#211509/other a sign] for [/EN#211508/people the metro] .
+[/EN#211507/scene A train station] is surrounded by [/EN#211505/people pedestrians] .
+[/EN#211505/people A group of people] pass by [/EN#211507/scene a subway station] .
+[/EN#211506/scene The street entrance] to [/EN#211507/scene a subway tunnel] .

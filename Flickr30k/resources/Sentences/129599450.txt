@@ -1,0 +1,5 @@
+[/EN#7671/people A man] is hiking on [/EN#7672/scene a mountain path] with [/EN#7673/other an American flag] on [/EN#7674/clothing his backpack] .
+[/EN#7671/people A hiker] with [/EN#7673/other an American flag] on [/EN#7674/clothing his backpack] walks through [/EN#7675/other the woods] .
+[/EN#7671/people A backpacker] in [/EN#7676/scene the mountains] wearing [/EN#7673/other an american flag] .
+[/EN#7671/people A hiker] carrying [/EN#7673/other an American flag] .
+[/EN#7671/people A person] hikes on [/EN#7677/scene a mountain] .

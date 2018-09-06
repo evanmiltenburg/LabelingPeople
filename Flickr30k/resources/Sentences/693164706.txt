@@ -1,0 +1,5 @@
+[/EN#261797/people A boy] in [/EN#261804/other a red hooded-coat] is riding [/EN#261798/other a pool broom] like [/EN#261803/animals a horse] in [/EN#261805/scene an empty pool] .
+[/EN#261797/people The child] in [/EN#261797/other raingear] is dragging [/EN#261798/other a broom] through [/EN#261806/scene a puddle] .
+[/EN#261797/people A little kid] in [/EN#261804/clothing a red jacket] riding [/EN#261798/other a broom] like [/EN#261803/animals a horse] .
+[/EN#261797/people a little boy] wearing [/EN#261804/clothing a raincoat] plays with [/EN#261798/other a mop] .
+[/EN#261797/people Boy] in [/EN#261801/other raincoat straddle stick] outside .

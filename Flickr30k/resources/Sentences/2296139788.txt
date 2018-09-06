@@ -1,0 +1,5 @@
+[/EN#39747/people A smiling Indian woman] driving [/EN#39747/vehicles a blue truck] wearing [/EN#39749/clothing a colorful orange , green , and white outfit] .
+[/EN#39747/people Thin woman] with [/EN#39750/bodyparts bindi] , [/EN#39751/bodyparts black hair] and [/EN#39752/clothing a gold watch] holding [/EN#39753/other a steering wheel] in [/EN#39747/vehicles a blue vehicle] .
+[/EN#39747/people A foreign lady] is driving [/EN#39747/vehicles a truck] and [/EN#0/notvisual she] looks pretty happy .
+[/EN#39747/people Woman] is driving [/EN#39747/vehicles a vehicle] in [/EN#39755/scene a village] .
+[/EN#39747/people Older woman] driving [/EN#39747/vehicles a truck] .

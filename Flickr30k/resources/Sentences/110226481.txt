@@ -1,0 +1,5 @@
+[/EN#2577/people A man] in [/EN#2582/clothing a gray camouflage shirt] and [/EN#2583/clothing gray pants] sits under [/EN#2578/vehicles the hood of a blue truck] .
+[/EN#2577/people A man] performing [/EN#2581/other auto repair] in front of [/EN#2584/scene a building] .
+[/EN#2577/people A man] crouches under [/EN#2578/other a truck hood 's shade] to fix [/EN#0/notvisual it] .
+[/EN#2577/people A man] sits in [/EN#2579/other the under] [/EN#2578/vehicles the hood of a blue truck] .
+[/EN#2577/people a mexican man] sits under [/EN#2578/vehicles the hood of his truck] .

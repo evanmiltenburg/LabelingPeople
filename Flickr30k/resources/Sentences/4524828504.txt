@@ -1,0 +1,5 @@
+[/EN#175447/people Man] sitting on [/EN#175448/scene the floor] wearing [/EN#175452/clothing a harness] attached to [/EN#175449/other some lines] doing [/EN#175450/other construction work] .
+[/EN#175447/people A man] sitting on [/EN#175448/scene the floor] next to [/EN#175451/other a broom] [/EN#175449/other an bucket] .
+[/EN#175446/people A man] is looking up while sitting on [/EN#0/notvisual the ground] .
+[/EN#175446/people A birds eye view of a man] working on [/EN#175448/scene a floor] .
+[/EN#175447/people A man] at [/EN#175450/other work] looks up toward [/EN#0/notvisual the camera] .

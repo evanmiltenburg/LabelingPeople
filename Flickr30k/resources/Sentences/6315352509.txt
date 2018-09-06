@@ -1,0 +1,5 @@
+[/EN#252395/people Race car driver] driving [/EN#252393/vehicles his car] on [/EN#252394/scene the track] .
+[/EN#252393/vehicles A race car] is speeding along [/EN#252394/other the racetrack] .
+[/EN#252393/vehicles A red race car] speeds down [/EN#252394/other the racetrack] .
+[/EN#252393/vehicles A race car] zips by on [/EN#252394/other the racetrack] .
+[/EN#252393/vehicles this race car] is going fast .

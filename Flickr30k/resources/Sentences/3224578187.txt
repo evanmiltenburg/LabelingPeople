@@ -1,0 +1,5 @@
+[/EN#102467/clothing Brown] and [/EN#102466/animals white dog] plays with [/EN#102468/other blue ball] in [/EN#102470/animals blue water-filled shell] .
+[/EN#102466/animals A dog] playing with [/EN#102468/other a blue ball] in [/EN#102469/scene a small pool of water] .
+[/EN#102466/animals A dog] playing with [/EN#102468/other his ball] in [/EN#102469/scene the wading pool] .
+[/EN#102467/clothing Brown] and [/EN#102466/animals white dog] splashing in [/EN#102469/scene a pool] .
+[/EN#102466/animals A dog] with [/EN#102468/other a blue ball] .

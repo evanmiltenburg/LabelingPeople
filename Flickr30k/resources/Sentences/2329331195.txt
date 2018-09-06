@@ -1,0 +1,5 @@
+[/EN#41997/people Two people] [/EN#42003/other whose images] are blurred on [/EN#41996/scene the street] at [/EN#42002/scene night] in [/EN#41996/scene a city] .
+[/EN#41997/people Two people] walk down [/EN#41996/scene the street] in [/EN#42000/other a blur of motion] .
+[/EN#41997/people People] moving down [/EN#41996/scene the street] at [/EN#41999/scene night] in [/EN#41996/scene a city] .
+[/EN#41996/scene A city street] is illuminated by [/EN#42001/other lamps] at [/EN#41999/scene night] .
+[/EN#41997/people two people] walking down [/EN#41996/scene a city street] at [/EN#41999/scene night]

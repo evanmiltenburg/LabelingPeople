@@ -1,0 +1,5 @@
+[/EN#88624/animals The white dog] is wearing [/EN#88625/clothing orange clothing] and running through [/EN#88626/scene the grass] .
+[/EN#88624/animals A golden retriever] running on [/EN#88626/scene short grass] wearing [/EN#88625/clothing an orange outfit] .
+[/EN#88624/animals A dog] wearing [/EN#88625/clothing an orange vest] scampers playfully across [/EN#88626/scene the grass] .
+[/EN#88624/animals A beige dog] with [/EN#88625/clothing orange vest] running on [/EN#88626/scene withering grass] .
+[/EN#88624/animals A light-colored dog] wearing [/EN#88625/clothing orange] plays in [/EN#88626/scene the grass] .

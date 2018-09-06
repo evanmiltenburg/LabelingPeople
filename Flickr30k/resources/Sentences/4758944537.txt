@@ -1,0 +1,5 @@
+[/EN#199698/people The guy] wearing [/EN#199701/clothing sunglasses] and [/EN#199699/clothing a hat] is singing into [/EN#199700/other a microphone] .
+[/EN#199698/people A man] wearing [/EN#199701/clothing sunglasses] and [/EN#199699/clothing a hat] is singing into [/EN#199700/other a microphone] .
+[/EN#199698/people A man] with [/EN#199701/clothing dark sunglasses] sings into [/EN#199700/other a microphone] .
+[/EN#199698/people An artist] sings into [/EN#199700/other the microphone] at [/EN#199702/scene a venue] .
+[/EN#199698/people A man] is singing into [/EN#199700/other a microphone] .

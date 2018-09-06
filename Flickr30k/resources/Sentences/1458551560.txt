@@ -1,0 +1,5 @@
+[/EN#13634/people A street vendor] is set up in [/EN#13637/scene the middle of a street] with [/EN#13635/vehicles his cart] .
+[/EN#13634/people A man] in [/EN#13638/clothing white t-shirt] is holding [/EN#13636/clothing umbrella] and [/EN#13635/vehicles ice cream cart] .
+[/EN#13634/people A man] is standing with [/EN#13635/vehicles a street cart] with [/EN#13636/clothing an umbrella] .
+[/EN#13634/people The man] is holding onto [/EN#13635/vehicles his food cart] in [/EN#13637/scene the street] .
+[/EN#13634/people A man] pushing [/EN#13635/vehicles a cart] with [/EN#13636/clothing an umbrella] attached .

@@ -1,0 +1,5 @@
+[/EN#8675/people A man] in [/EN#8679/clothing a white t-shirt] and [/EN#8678/clothing jeans] standing on [/EN#8677/other a scaffold] outside [/EN#8676/scene a building] .
+[/EN#8675/people A man] stands on [/EN#8677/other scaffolding] and leans in toward [/EN#8676/scene a stone building] .
+[/EN#8675/people A worker] stands on [/EN#8677/other a scaffolding] to repair [/EN#8676/scene a brick building] .
+[/EN#8675/people A man] is standing on [/EN#8677/other a scaffolding] doing [/EN#8680/other some work] .
+[/EN#8675/people A man] in [/EN#8678/clothing dirty jeans] on top of [/EN#8677/other a scaffolding] .

@@ -1,0 +1,5 @@
+[/EN#100384/people A hiker] is sitting on [/EN#0/notvisual the ground] looking towards [/EN#100386/scene the snow covered mountains] .
+[/EN#100384/people one person] wearing [/EN#100387/clothing a backpack] sitting on [/EN#100385/scene the side of a rocky mountain] .
+[/EN#100384/people Someone] is sitting on [/EN#100385/scene a hill] overlooking [/EN#100386/scene a rocky mountain] .
+[/EN#100384/people A man] is sitting on top of [/EN#100385/scene a mountain] .
+[/EN#100384/people A person] sits near [/EN#100386/scene a mountain] .

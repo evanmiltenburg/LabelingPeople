@@ -1,0 +1,5 @@
+[/EN#111099/people A goalie] blocks [/EN#111101/other the puck] while holding [/EN#111103/other a white hockey stick] .
+[/EN#111099/people A hockey player] tries to block [/EN#111101/other the puck] from [/EN#111104/other the goal] .
+[/EN#111099/people Hockey goalie] on [/EN#111105/bodyparts his knees] looking down
+[/EN#111099/people A hockey goalie] in [/EN#111102/other a game] on [/EN#111100/other the ice] .
+[/EN#111099/people A hockey goalie] crouches on [/EN#111100/other the ice] .

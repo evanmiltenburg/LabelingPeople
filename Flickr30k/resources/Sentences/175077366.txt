@@ -1,0 +1,5 @@
+[/EN#19923/people A woman] in [/EN#19924/clothing a skirt] and [/EN#19925/clothing cowboy hat] and [/EN#19926/people a woman] in [/EN#19927/clothing pink pants] with [/EN#19928/other an exposed midriff] are walking down [/EN#19932/scene the street] looking at [/EN#19934/scene the shops] .
+[/EN#19929/people Two women] walking toward [/EN#0/notvisual the camera] along [/EN#19932/scene a sidewalk] while wearing [/EN#19930/clothing a backpack] and showing [/EN#19928/other midriff] .
+[/EN#19923/people A woman] wearing [/EN#19925/clothing a hat] and [/EN#19926/people a woman] wearing [/EN#19931/clothing sandals] looking to [/EN#0/notvisual the left of them] on [/EN#19932/scene a busy street] .
+[/EN#19929/people Two women] walking by [/EN#19933/scene a store] and looking in .
+[/EN#19929/people People] walking a long [/EN#19932/scene a sidewalk] .

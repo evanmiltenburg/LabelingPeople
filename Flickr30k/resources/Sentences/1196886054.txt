@@ -1,0 +1,5 @@
+[/EN#5052/people A group of people] , [/EN#5053/other a wedding party] including [/EN#5054/people a bride] and [/EN#5055/people groom] , are walking down [/EN#5056/scene a path] lined by [/EN#5057/other benches] and surrounded by [/EN#5058/scene grass] and [/EN#5059/other trees] .
+[/EN#5052/other Several members of a wedding party] , including [/EN#5054/people the bride] , are walking past [/EN#5060/other a lamp] and [/EN#5057/other some park benches] .
+[/EN#5054/people A bride] and [/EN#5055/people a groom] walk down [/EN#5056/scene a sidewalk] with [/EN#5052/people other guests] surrounding [/EN#0/notvisual them] .
+[/EN#5052/people The people] are following [/EN#5054/people the Bride] and [/EN#5055/people the Groom] at [/EN#5063/other a wedding] .
+[/EN#5061/scene A wedding day] with [/EN#5054/people the bride] in [/EN#5061/clothing a bright white beautiful dress]

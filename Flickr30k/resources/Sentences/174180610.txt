@@ -1,0 +1,5 @@
+[/EN#19788/people Two people] in [/EN#19784/scene the kitchen] and doing [/EN#19787/other the dishes] in [/EN#19785/other the sink] , [/EN#19783/people the man] is drying with [/EN#19791/other a rainbow colored cloth] while [/EN#19786/people the woman] watches .
+[/EN#19783/people A man] and [/EN#19786/people a woman] are sharing [/EN#19790/other a dishwashing task] in [/EN#19784/scene a kitchen] at [/EN#19785/other the sink] .
+[/EN#19783/people A man] and [/EN#19786/people woman] are washing [/EN#19787/other dirty dishes] inside [/EN#19784/scene a kitchen] .
+[/EN#19783/people A man] and [/EN#19786/people woman] washing [/EN#19787/other dishes] in front of [/EN#19789/other a brick wall] .
+[/EN#19783/people A man] and [/EN#19786/people woman] are washing [/EN#19787/other dishes] .

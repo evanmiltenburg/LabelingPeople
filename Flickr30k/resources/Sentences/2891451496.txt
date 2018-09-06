@@ -1,0 +1,5 @@
+[/EN#79382/people A woman] , sporting [/EN#79383/bodyparts a classical hairstyle] , is playing [/EN#79384/instruments an electric guitar] .
+[/EN#79385/people A band] with [/EN#79382/people a female guitar player] is playing [/EN#79388/other a show] .
+[/EN#79382/people A woman] playing [/EN#79384/instruments bass guitar] on [/EN#79387/scene stage] with [/EN#79385/people her band] .
+[/EN#79382/people A woman] in [/EN#79386/clothing a dress] is playing [/EN#79384/instruments the bass guitar] .
+[/EN#79382/people A female guitarist] is playing on [/EN#79387/scene stage] .

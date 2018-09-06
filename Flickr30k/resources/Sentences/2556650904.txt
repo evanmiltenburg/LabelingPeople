@@ -1,0 +1,5 @@
+[/EN#57895/people A man] stands with [/EN#57896/clothing his backpack] in front of [/EN#0/notvisual him] in [/EN#57901/scene a wooded area] with [/EN#57897/clothing another backpack] and [/EN#57898/clothing someone 's coat] .
+[/EN#57895/people A man] standing outside near [/EN#57897/clothing his rucksack] with [/EN#57899/clothing a sleeping bag] tied to [/EN#57897/clothing the rucksack] .
+[/EN#57895/people A woman] in [/EN#57900/clothing blue sweatpants] is leaning against [/EN#57896/clothing her backpack] in [/EN#57901/scene the forest] .
+[/EN#57895/people A hiker] in [/EN#57902/other the woods] takes off [/EN#57896/clothing her backpack] to catch [/EN#57904/other her breath] .
+[/EN#57895/people A camper] sets down [/EN#57897/clothing his backpack] to rest .

@@ -1,0 +1,5 @@
+[/EN#33754/people A man] dressed in [/EN#33756/clothing orange] looking down [/EN#33755/scene one of those holes] in [/EN#33758/scene the street] .
+[/EN#33754/people A worker] dressed in [/EN#33756/clothing hazard orange] , [/EN#33759/other face-down] in [/EN#33755/other an open street work] .
+[/EN#33754/people A person] in [/EN#33756/clothing safety orange clothing] is lying atop [/EN#33757/scene an open manhole] .
+[/EN#33754/people A man] wearing [/EN#33756/clothing orange] is laying outside on [/EN#0/notvisual the ground] .
+[/EN#33754/people A man] in [/EN#33756/clothing orange] reaching down into [/EN#33755/other a sewer] .

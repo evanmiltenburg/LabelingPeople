@@ -1,0 +1,5 @@
+[/EN#195245/people A man] in [/EN#195248/clothing a green hat] stands in front of [/EN#195247/scene an ornate building facade] .
+[/EN#195245/people A man] in [/EN#195246/clothing a blue shirt] is performing [/EN#195252/other maintenance] on [/EN#195251/other a window] .
+[/EN#195245/people A man] in [/EN#195246/clothing a blue shirt] works on [/EN#195247/scene a building] .
+[/EN#195245/people A man] in standing on [/EN#195249/other a ledge] .
+[/EN#195245/people A man] is checking out [/EN#195250/other a wall] .

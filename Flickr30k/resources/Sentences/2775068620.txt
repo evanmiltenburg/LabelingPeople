@@ -1,0 +1,5 @@
+[/EN#72319/people A man] in [/EN#72326/clothing a white shirt] and [/EN#72327/clothing glasses] tries to hale [/EN#72320/vehicles a cab] while holding [/EN#72321/people his daughter] wearing [/EN#72328/clothing a yellow t-shirt] .
+[/EN#72319/people A man] holds [/EN#72321/people a small child] while pointing [/EN#72322/other something] out in [/EN#0/notvisual the distance] , while in [/EN#72323/scene the city] .
+[/EN#72319/people A man] is pointing and perhaps showing [/EN#72321/people the child] [/EN#0/notvisual he] is holding [/EN#72322/other something] .
+[/EN#72319/people A father] and [/EN#72321/people his daughter] need [/EN#72320/vehicles a taxi] .
+[/EN#72319/people Man] holding [/EN#72321/people a little girl] in [/EN#72324/scene a street] .

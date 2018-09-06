@@ -1,0 +1,5 @@
+[/EN#68655/people A girl] in [/EN#68656/clothing a pink bikini] is jumping off [/EN#68657/scene a diving board] into [/EN#68660/scene a swimming pool] .
+[/EN#68655/people This teen] is showing off [/EN#68655/other her talent] as [/EN#0/notvisual she] dives in [/EN#68658/scene a pool] .
+[/EN#68655/people A smiling woman] in [/EN#68656/clothing a bikini] in [/EN#0/notvisual the air] over [/EN#68657/scene a diving board] .
+[/EN#68655/people A girl] in [/EN#68656/clothing a bikini] is jumping off of [/EN#68657/scene a diving board] .
+[/EN#68655/people Girl] in [/EN#68656/clothing bikini] jumps of [/EN#68657/scene diving board] .

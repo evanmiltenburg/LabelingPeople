@@ -1,0 +1,5 @@
+[/EN#119515/people A little girl] climbs up [/EN#119516/other a rock] climbing [/EN#119516/scene jungle gym] at [/EN#119518/scene a park] .
+[/EN#119515/people The little girl] is climbing [/EN#119516/other a wall] in [/EN#119519/other the park barefoot] .
+[/EN#119515/people A young child] climbing [/EN#119516/other a rock wall] at [/EN#119518/scene a playground] .
+[/EN#119515/people A barefoot child] climbs at [/EN#119516/scene the jungle gym] .
+[/EN#119515/people Girl] climbing on [/EN#119516/other a climbing wall]

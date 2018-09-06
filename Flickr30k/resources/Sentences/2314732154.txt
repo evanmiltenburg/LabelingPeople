@@ -1,0 +1,5 @@
+[/EN#41042/animals A gray silky dog] is laying in [/EN#41044/scene the grass] while [/EN#41042/animals a brown dog] looks on .
+[/EN#41041/animals A brown dog] walks towards [/EN#41042/animals another animal] hiding in [/EN#41044/scene the grass] .
+[/EN#41041/animals A standing brown dog] watches [/EN#41042/animals another dog] lay in [/EN#41044/scene the grass]
+[/EN#41041/animals The brown dog] sees [/EN#41042/animals a black dog] laying in [/EN#41044/scene the dry grass] .
+[/EN#41041/animals A dog] walks in [/EN#41044/scene the grass] towards [/EN#41042/animals a dog] lying down .

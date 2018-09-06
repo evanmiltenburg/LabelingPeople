@@ -1,0 +1,5 @@
+[/EN#92238/people A man] is standing on [/EN#92240/scene a stage] behind [/EN#92241/other a microphone] while playing [/EN#92239/instruments the guitar] .
+[/EN#92238/people A man] under [/EN#92242/other colorful stage lights] playing [/EN#92239/instruments a guitar] .
+[/EN#92238/people A local musician] up on [/EN#92240/scene stage] , playing [/EN#92239/instruments guitar] .
+[/EN#92238/people A musician] is playing [/EN#92239/instruments guitar] on [/EN#92240/scene stage] .
+[/EN#92238/people Man] playing [/EN#92239/instruments guitar] on [/EN#92240/scene stage]

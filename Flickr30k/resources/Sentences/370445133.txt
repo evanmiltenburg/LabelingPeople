@@ -1,0 +1,5 @@
+[/EN#138078/people The cowboy] is struggling to stay on [/EN#138079/animals the horse] inside of [/EN#138085/scene the bullpen] as [/EN#0/notvisual he] goes around [/EN#138080/other the red , white , and blue barrel] .
+[/EN#138078/people A man] in [/EN#138081/clothing blue jeans] and [/EN#138082/clothing a cowboy hat] is riding [/EN#138079/animals a horse] around [/EN#138080/other a red , white , and blue barrel] .
+[/EN#138078/people A man] in [/EN#138082/clothing a cowboy hat] riding [/EN#138079/animals a horse] around [/EN#138080/other a barrel] [/EN#0/notvisual that] is [/EN#138080/clothing red , white , and blue] .
+[/EN#138078/people A man] in [/EN#138082/clothing a cowboy hat] is riding [/EN#138079/animals a horse] around [/EN#138080/other a barrel] .
+[/EN#138078/people A man] is [/EN#138084/other barrel] racing on [/EN#138079/animals a brown horse] .

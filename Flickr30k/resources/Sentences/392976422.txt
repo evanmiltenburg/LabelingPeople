@@ -1,0 +1,5 @@
+[/EN#148507/people a boy] in [/EN#148508/clothing a blue shirt] is walking along [/EN#148509/clothing a tan] and [/EN#148509/other blue wall]
+[/EN#148507/people A child] in [/EN#148508/clothing a striped shirt] is walking along [/EN#148509/other a wall] .
+[/EN#148507/people Boy] in [/EN#148508/clothing striped t-shirt] walking along [/EN#148509/other a ledge] .
+[/EN#148507/people A boy] in [/EN#148508/clothing stripes] walking along [/EN#148509/other a ledge] .
+[/EN#148507/people a boy] scales [/EN#148509/other the wall] .

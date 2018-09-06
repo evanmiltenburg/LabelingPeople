@@ -1,0 +1,5 @@
+[/EN#38552/people Two men] wearing [/EN#38561/clothing red jackets] are looking out over [/EN#38555/scene some water] and [/EN#38551/people one man] has [/EN#38557/clothing yellow earphones] on [/EN#38560/bodyparts his ears] .
+[/EN#38551/people One man] places [/EN#38554/bodyparts his hand] on [/EN#38556/people the back of a black-haired man] wearing [/EN#38557/clothing yellow earmuffs] and [/EN#38553/clothing a red windbreaker] .
+[/EN#38550/people One man] is putting [/EN#38554/bodyparts his hand] on [/EN#38556/people the back of another man] and [/EN#0/notvisual they] are both on [/EN#38558/vehicles/scene a boat] .
+[/EN#38552/people two men] at [/EN#38559/scene a high elevation] staring down at [/EN#38555/scene the water]
+[/EN#38550/people A man] in [/EN#38553/clothing a red jacket] faces [/EN#38555/scene the ocean] .

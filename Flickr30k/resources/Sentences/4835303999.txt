@@ -1,0 +1,5 @@
+[/EN#209125/people A man] in [/EN#209130/clothing a white shirt] , [/EN#209131/clothing gray pants] , holding [/EN#209132/clothing a black bookbag] , waiting for [/EN#209127/vehicles/scene a train] along [/EN#209126/other the train platform] .
+[/EN#209125/people 1 man] standing and [/EN#209124/people several people] sitting down [/EN#209129/other waiting] on [/EN#209127/vehicles/scene a subway train] .
+[/EN#209124/people A group of people] sitting and standing in front of [/EN#209127/vehicles/scene a train] .
+[/EN#209124/people A group of people] are waiting at [/EN#209128/scene a subway station] .
+[/EN#209125/people A man] waits for [/EN#209127/vehicles/scene his train] at [/EN#209126/other the station] .

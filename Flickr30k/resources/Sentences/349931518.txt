@@ -1,0 +1,5 @@
+[/EN#122941/vehicles/scene An overcrowded bus] traveling down [/EN#122943/scene the street] with [/EN#122942/people people] hanging off [/EN#0/notvisual the back of it] .
+[/EN#122942/people A large group of people] are riding on top of [/EN#122941/vehicles/scene a bus] and hanging [/EN#0/notvisual the side] .
+[/EN#122941/vehicles/scene A bus] overloaded with [/EN#122944/people passengers] in [/EN#122945/scene a foreign country] .
+[/EN#122941/vehicles/scene Yellow bus] is full of [/EN#122944/people people] on [/EN#122943/scene a rural street] .
+[/EN#122942/people people] holding on to [/EN#122941/vehicles/scene a moving bus]

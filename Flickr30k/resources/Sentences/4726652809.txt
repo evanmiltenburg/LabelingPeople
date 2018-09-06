@@ -1,0 +1,5 @@
+[/EN#195888/people A woman] in [/EN#195893/clothing a purple dress] talks on [/EN#195892/other her cellphone] and [/EN#195890/people a man] reads [/EN#195889/other a book] as [/EN#195885/vehicles/scene a two-story bus] passes by outside [/EN#195886/other their window] .
+[/EN#195884/people People] sitting on [/EN#195887/vehicles/scene the open , top level of a blue and red bus] and passing in front of [/EN#195886/other a window] .
+[/EN#195884/people Tourists] riding [/EN#195885/vehicles/scene a double decker bus] with [/EN#195884/people people] watching [/EN#0/notvisual them] from [/EN#195886/other an office window] .
+[/EN#195884/people A diverse group of passengers] ride [/EN#195885/vehicles/scene a tour bus] down [/EN#195891/scene the street] .
+[/EN#195884/people tourists] on [/EN#195887/vehicles/scene the top level of a tour bus] .

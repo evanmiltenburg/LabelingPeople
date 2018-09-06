@@ -1,0 +1,5 @@
+[/EN#119565/people A smiling woman] embracing [/EN#119566/people a young girl] in [/EN#119568/clothing a jacket] with [/EN#119568/other an apple print] .
+[/EN#119565/people An older woman] and [/EN#119566/people a young child] are [/EN#119572/bodyparts all smiles] in [/EN#119570/other a photo] together .
+[/EN#119565/people A woman] with [/EN#119571/clothing a pink sweater] is smiling as [/EN#0/notvisual she] holds [/EN#119566/people a child] .
+[/EN#119565/people A woman] holding [/EN#119566/people a girl] , [/EN#0/notvisual who] wears [/EN#119568/clothing an apple themed coat] .
+[/EN#119565/people A laughing woman] holding [/EN#119566/people a little girl] .

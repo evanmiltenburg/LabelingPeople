@@ -1,0 +1,5 @@
+[/EN#79161/people An old man] , in [/EN#79165/clothing a brown striped suit] , is holding [/EN#79164/other a marker] and writing on [/EN#79162/other a white piece of paper] .
+[/EN#79161/people An old balding man] is writing on [/EN#79162/other a piece of paper] on [/EN#79163/other a table] .
+[/EN#79161/people older man] writing in [/EN#79162/other a book] , on [/EN#79163/other a granite table] .
+[/EN#79161/people A bald man] is writing on [/EN#79162/other a white piece of paper] .
+[/EN#79161/people Older gentleman] writing with [/EN#79164/other a pen] on [/EN#79163/other a desk] .

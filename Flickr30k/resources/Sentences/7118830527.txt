@@ -1,0 +1,5 @@
+[/EN#265635/people A person] with [/EN#265636/clothing a dark yellow baseball cap] and [/EN#265637/clothing a gray sweatshirt] is in [/EN#0/notvisual the air] over [/EN#265638/scene an outdoor fountain] in front of [/EN#265640/other a cityscape] .
+[/EN#265635/people A teenager] is performing [/EN#0/notvisual a trick jump] on [/EN#265642/scene a city street corner] .
+[/EN#265635/people A person] is sitting up high over [/EN#265642/scene a street] .
+[/EN#265635/people A skateboarder] does [/EN#265644/other a stunt] in [/EN#265641/scene the city] .
+skateboarding in [/EN#265643/scene public street]

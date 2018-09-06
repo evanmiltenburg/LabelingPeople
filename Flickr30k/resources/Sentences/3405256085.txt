@@ -1,0 +1,5 @@
+[/EN#115909/people A woman] in [/EN#115911/clothing a red shirt] with [/EN#115913/bodyparts dark hair] is sitting in [/EN#115914/other a chair] , smiling at [/EN#115908/people a girl] wearing [/EN#115910/clothing a Hello Kitty t-shirt] .
+[/EN#115909/people A woman] in [/EN#115911/clothing a red top] with [/EN#115908/people a child] in [/EN#115910/clothing a pink top] .
+[/EN#115909/people A mother] is adjusting [/EN#115912/people the clothing of her child] .
+[/EN#115909/people A woman] is adjusting [/EN#115912/clothing her daughters clothes] .
+[/EN#115908/people A girl] in [/EN#115912/clothing pink] smiling for [/EN#0/notvisual the camera] .

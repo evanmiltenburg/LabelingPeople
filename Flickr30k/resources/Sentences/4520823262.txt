@@ -1,0 +1,5 @@
+[/EN#175124/people A group of adults] are walking up and down [/EN#175127/other the stairs] to [/EN#175126/scene a subway station] .
+[/EN#175125/people A woman] exits [/EN#175129/other a metro station] while listening to [/EN#175130/other music] .
+[/EN#175124/people People] are emerging from [/EN#175126/vehicles/scene the subway] beneath [/EN#175128/scene the city] .
+[/EN#175125/people A woman] wearing [/EN#175131/clothing earphones] walks up [/EN#175127/other crowded steps] .
+[/EN#175124/people People] walking up and down [/EN#175127/other stairs] .

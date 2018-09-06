@@ -1,0 +1,5 @@
+[/EN#218571/people A lone bike rider] navigating [/EN#218573/other a rough terrain course] through [/EN#218573/scene dirt] with [/EN#218576/other trees] and [/EN#218581/scene grass] in [/EN#0/notvisual the background] on [/EN#218577/scene a cloud free day] .
+[/EN#218571/people A person] in [/EN#218575/clothing a green and white shirt] is riding [/EN#218572/vehicles a dirt bike] near [/EN#218576/other a group of trees] .
+[/EN#218571/people Am motor cross rider] in [/EN#218575/clothing a green suit] is riding [/EN#218572/vehicles his bike] on [/EN#218574/scene a dirt road] .
+[/EN#218571/people An athlete] riding [/EN#218572/vehicles a green dirt bike] around [/EN#218573/other a curve] on [/EN#218580/scene the track] .
+[/EN#218571/people A man] is riding [/EN#218572/vehicles a dirt bike] .

@@ -1,0 +1,5 @@
+[/EN#143371/scene Street] with [/EN#143381/vehicles traffic] with [/EN#143370/people one person] in [/EN#143372/scene crosswalk] , [/EN#143380/other two others] at [/EN#143374/scene corner] and [/EN#143376/people one person] sitting on [/EN#0/notvisual ground] .
+[/EN#143370/people A woman] crosses [/EN#143373/scene a street] while [/EN#143379/other traffic lines] up in [/EN#0/notvisual the opposite direction] .
+[/EN#143371/scene a busy highway scene] with [/EN#143370/people a woman] crossing [/EN#143372/scene a crosswalk] on [/EN#143377/scene the left]
+[/EN#143370/people Woman] walking in [/EN#143372/scene crosswalk] near [/EN#143371/scene a busy street] .
+[/EN#143370/people A lady] crosses [/EN#143371/scene a busy road] on [/EN#143372/scene the crosswalk] .

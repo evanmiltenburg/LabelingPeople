@@ -1,0 +1,5 @@
+[/EN#137878/people Two children] in [/EN#137882/clothing jackets] walking down [/EN#137879/scene a dirt road] carrying [/EN#137880/other flowers] .
+[/EN#137878/people Two children] carry [/EN#137880/other flowers] as [/EN#0/notvisual they] walk along [/EN#137879/scene a grassy track] .
+[/EN#137878/people Two children] walk along [/EN#137879/scene a path] holding [/EN#137880/other purple flowers] .
+[/EN#137878/people Two girl] walk [/EN#137881/scene town] [/EN#137879/scene a dirt road] , holding [/EN#137880/other flowers] .
+[/EN#137878/people two children] hold [/EN#137883/bodyparts hands] and [/EN#137880/other flowers] .

@@ -1,0 +1,5 @@
+[/EN#208583/animals A beagle] looking over [/EN#208587/bodyparts his shoulder] as [/EN#0/notvisual he] stand on [/EN#208586/other a sandy slope] .
+[/EN#208583/animals Brown , black and white dog] standing on [/EN#208586/other a sandy slope] .
+[/EN#208583/animals A beagle] stands in [/EN#208586/other the sand] and [/EN#208584/scene grass] .
+[/EN#208583/animals Dog] standing in [/EN#208586/other grassy sand dune] .
+[/EN#208583/animals A dog] stands in [/EN#208585/scene a field] .

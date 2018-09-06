@@ -1,0 +1,5 @@
+[/EN#26910/people A woman] wearing [/EN#26912/clothing a black coat] and [/EN#26916/clothing orange scarf] standing in [/EN#26911/scene a subway station] in [/EN#26917/other BismarckstraBe] waiting for [/EN#26918/vehicles/scene her train] .
+[/EN#26910/people A woman] dressed in [/EN#26912/clothing black attire] and [/EN#26916/clothing orange scarf] standing against [/EN#26915/other the wall] next to [/EN#26914/other the map] .
+[/EN#26910/people Woman] in [/EN#26912/clothing black coat] with [/EN#26916/clothing orange scarf] waiting at [/EN#26911/scene a Berlin , Germany train station] .
+[/EN#26910/people A woman] standing against [/EN#26913/other a wall] in [/EN#26911/scene a subway station] .
+[/EN#26910/people A woman] in [/EN#26912/clothing black] is leaning on [/EN#26915/other a wall] .

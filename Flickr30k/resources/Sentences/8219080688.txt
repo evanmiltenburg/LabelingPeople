@@ -1,0 +1,5 @@
+[/EN#280543/people A older mustached gentleman] with [/EN#280548/clothing glasses] and [/EN#280546/clothing a hat] strums [/EN#280545/instruments an electric guitar] in front of [/EN#280544/other a blue microphone] .
+[/EN#280543/people A mustachioed man] with [/EN#280549/clothing a plaid shirt] and [/EN#280546/clothing cap] plays [/EN#280545/instruments an electric guitar] while standing at [/EN#280544/other a microphone] .
+[/EN#280543/people A man] with [/EN#280548/clothing glasses] and [/EN#280547/bodyparts a mustache] plays [/EN#280545/instruments an electric guitar] while standing behind [/EN#280544/other a microphone] .
+[/EN#280543/people A white man] with [/EN#280547/bodyparts a mustache] is playing [/EN#280545/instruments guitar] .
+[/EN#280543/people A man] holds [/EN#280545/instruments a guitar] and sings .

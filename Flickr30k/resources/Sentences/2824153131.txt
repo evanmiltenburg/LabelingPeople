@@ -1,0 +1,5 @@
+[/EN#74939/people A woman] rides [/EN#74941/scene the escalator] , leaning on [/EN#74948/other the railing] , with [/EN#74947/people many other people] , and [/EN#74942/other a crowded mall] spreads out behind [/EN#0/notvisual them] .
+[/EN#74943/people A man] and [/EN#74939/people a woman] enjoy [/EN#74946/other conversation] as [/EN#0/notvisual they] ascend on [/EN#74941/scene a busy elevator] .
+[/EN#74944/people A young couple] uses [/EN#74941/scene an escalator] at [/EN#74945/scene a busy shopping center] .
+[/EN#0/notvisual There] are [/EN#74940/people several people] going up [/EN#74941/scene the escalator] .
+[/EN#74940/people People] going up [/EN#74941/scene an escalator] in [/EN#74942/other the mall] .

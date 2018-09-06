@@ -1,0 +1,5 @@
+[/EN#120556/animals A black and white dog] emerges from [/EN#120560/scene a yellow tunnel] being coached by [/EN#120558/people a man] in [/EN#120557/clothing a blue shirt] at [/EN#120561/other a dog show] .
+[/EN#120558/people a man] in [/EN#120557/clothing a yellow and blue shirt] behind [/EN#120556/animals a dog] [/EN#0/notvisual that] is running out from under [/EN#120559/other a yellow cloth] .
+[/EN#120556/animals A black and white dog] is running out of [/EN#120560/scene a yellow tunnel] with [/EN#120558/people his trainer] next to [/EN#0/notvisual him] .
+[/EN#120556/animals A black and white dog] running from under [/EN#120559/other a yellow cover] with [/EN#120558/people a person] behind [/EN#0/notvisual them] .
+[/EN#120556/animals A small dog] sprints away while [/EN#120558/people its owner] tries to catch [/EN#0/notvisual it] .

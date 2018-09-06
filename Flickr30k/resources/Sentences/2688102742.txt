@@ -1,0 +1,5 @@
+[/EN#66282/people A woman] in [/EN#66283/clothing a jeans skirt] and [/EN#66286/clothing t-shirt] looking at [/EN#66284/other a magazine display] on [/EN#66285/scene the street] .
+[/EN#66282/people a girl] wearing [/EN#66283/clothing a short skirt] looking at [/EN#66284/other a rack of magazines] on [/EN#66285/scene the sidewalk] .
+[/EN#66282/people Woman] with [/EN#66286/clothing black t-shirt] and [/EN#66283/clothing denim skirt] looks at [/EN#66288/other magazines] on [/EN#66284/other display] .
+[/EN#66282/people The woman] stands looking at [/EN#66284/other rows of magazines] .
+[/EN#66282/people The woman] is browsing [/EN#66284/scene the magazine stand] .

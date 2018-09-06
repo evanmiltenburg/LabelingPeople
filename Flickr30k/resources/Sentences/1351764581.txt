@@ -1,0 +1,5 @@
+[/EN#9588/people A fireman] sprays inside [/EN#9584/vehicles the open hood of small white car] , on [/EN#9589/other a jack] .
+[/EN#9588/people A fireman] using [/EN#9587/other a firehose] on [/EN#9586/other a car engine] [/EN#0/notvisual that] is up on [/EN#9589/other a carjack] .
+[/EN#9588/people a fireman] spraying [/EN#9591/scene water] into [/EN#9584/vehicles the hood of small white car] on [/EN#9589/other a jack]
+[/EN#9588/people Firefighter] uses [/EN#9591/scene water] to extinguish [/EN#9585/vehicles a car] [/EN#0/notvisual that] was on [/EN#9590/other fire] .
+[/EN#9588/people A firefighter] extinguishes [/EN#9590/other a fire] under [/EN#9584/vehicles the hood of a car] .

@@ -1,0 +1,5 @@
+[/EN#176384/people A baseball player] wearing [/EN#176387/clothing a blue uniform] and [/EN#176385/clothing a catcher 's mitt] walks across [/EN#176386/scene a field] .
+[/EN#176384/people A baseball player] is walking on [/EN#176386/scene the field] , [/EN#176385/clothing mitt] in [/EN#176388/bodyparts hand] .
+[/EN#176384/people A New York Mets player] is walking on [/EN#176386/scene a green field] .
+[/EN#176384/people The baseball player] walks back onto [/EN#176386/scene the field] .
+Mets [/EN#176384/people baseball player] on [/EN#176386/scene field] .

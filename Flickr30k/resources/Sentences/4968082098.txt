@@ -1,0 +1,5 @@
+[/EN#224281/people Fat man] in [/EN#224284/clothing white shirt] stops [/EN#224282/vehicles moped] and puts [/EN#224286/other left foot] on [/EN#0/notvisual the ground] .
+[/EN#224281/people A man] in [/EN#224284/clothing a white shirt] , on [/EN#224282/vehicles a motor scooter] waiting for [/EN#224285/vehicles traffic] .
+[/EN#224281/people A large man] is stopped at [/EN#224283/scene an intersection] on [/EN#224282/vehicles a scooter] .
+[/EN#224281/people A man] stopped at [/EN#224283/scene an intersection] riding [/EN#224282/vehicles a scooter] .
+[/EN#224281/people Asian man] riding [/EN#224282/vehicles a scooter] watches for [/EN#224285/vehicles traffic] .

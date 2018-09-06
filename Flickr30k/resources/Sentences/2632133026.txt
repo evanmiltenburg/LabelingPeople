@@ -1,0 +1,5 @@
+[/EN#62682/people An old man] with [/EN#62684/clothing a cowboy hat] , [/EN#62687/clothing cowboy boots] , and [/EN#62686/clothing blue jeans] stands next to [/EN#62683/scene a cabin] and looks off into [/EN#0/notvisual the distance] as [/EN#62688/other the sun] sets in [/EN#0/notvisual the background] .
+[/EN#62682/people One man] wearing [/EN#62685/clothing a green jacket] , [/EN#62686/clothing blue jeans] , [/EN#62687/clothing boots] and [/EN#62684/clothing a gray cowboy hat] standing beside [/EN#62683/scene a barn] watching [/EN#62688/other the sun]
+[/EN#62682/people A man] standing at [/EN#62683/scene te corner of a barn] wearing [/EN#62685/clothing a green shirt] staring into [/EN#62693/scene the sunset] .
+[/EN#62682/people A man] stands looking in [/EN#0/notvisual the distance] as [/EN#62690/scene the sun peaks] behind [/EN#62683/other a wooden structure] .
+[/EN#62682/people Man] in [/EN#62684/clothing a cowboy hat] and [/EN#62686/clothing jeans] stands in front of [/EN#62683/scene a wooden building] .

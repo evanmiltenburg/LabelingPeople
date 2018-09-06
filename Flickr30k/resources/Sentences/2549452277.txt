@@ -1,0 +1,5 @@
+[/EN#57459/people A pony-tailed man] in [/EN#57461/clothing a yellow jacket] is wearing [/EN#57460/clothing a bicycle helmet] .
+[/EN#57459/people A man] in [/EN#57461/clothing a bright yellow jacket] is wearing [/EN#57460/clothing a helmet] .
+[/EN#57459/people The man] has on [/EN#57461/clothing a yellow jacket] and [/EN#57460/clothing a white helmet] .
+[/EN#57459/people A man] in [/EN#57461/clothing a florescent jacket] is wearing [/EN#57460/clothing a helmet] .
+[/EN#57459/people The man] with [/EN#57462/bodyparts the ponytail] and [/EN#57460/clothing helmet] looks on .

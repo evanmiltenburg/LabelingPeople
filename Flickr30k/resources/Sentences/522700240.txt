@@ -1,0 +1,5 @@
+[/EN#231535/animals A dog] lays on [/EN#231536/other a bed] with [/EN#231535/scene a blue sheet] while also partially covered with [/EN#231535/scene a blue sheet] .
+[/EN#231535/animals The dog] is sleeping on top of [/EN#231536/other the bed] covered by [/EN#231535/scene the blue sheet] .
+[/EN#231535/animals A dog] is covered from [/EN#231541/bodyparts nose] to [/EN#231540/bodyparts knees] in [/EN#231535/scene a blue sheet] .
+[/EN#231535/animals A dog] laying with [/EN#231535/other a blue blanket] over [/EN#231539/bodyparts his eyes] .
+[/EN#231535/animals A dog] under [/EN#231535/scene a sheet] .

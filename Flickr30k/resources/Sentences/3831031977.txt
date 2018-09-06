@@ -1,0 +1,5 @@
+[/EN#144800/people A girl] with [/EN#144807/clothing a red cap] and [/EN#144801/people a man] with [/EN#144808/clothing a blue jacket] tied around [/EN#144809/bodyparts his waist] are looking at [/EN#144803/scene the mountains] .
+[/EN#144802/people Two women] lean against [/EN#144804/other the cobblestone wall] gazing out at [/EN#144803/scene the mountains] on [/EN#144805/scene a sunny day] .
+[/EN#144802/people Two women] standing at [/EN#144804/other a stone wall] overlooking [/EN#144803/scene a vast hilly landscape] .
+[/EN#144802/people Two people] leaning on [/EN#144804/other a rock wall] looking at [/EN#144806/scene the scenery] .
+[/EN#144801/people A guy] and [/EN#144800/people a girl] look down [/EN#144803/scene a mountain range] .

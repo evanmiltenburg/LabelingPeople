@@ -1,0 +1,5 @@
+[/EN#31210/animals A black poodle] jumping on [/EN#31215/animals the head of a white poodle] while walking in [/EN#31213/scene the snow] .
+[/EN#31210/animals Black dog] jumping over [/EN#31214/animals a white dog] in [/EN#31212/scene a snowy path] .
+[/EN#31211/animals a black and white dog] playing in [/EN#31212/scene the snow] together
+[/EN#31211/animals Two poodles] are running through [/EN#31212/scene the snow] .
+[/EN#31211/animals Two dogs] playing in [/EN#31213/scene the snow] .

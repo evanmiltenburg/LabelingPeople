@@ -1,0 +1,5 @@
+[/EN#62632/people A young black child] wearing [/EN#62633/clothing a sweater] with [/EN#62634/other a pen] in [/EN#62635/bodyparts his mouth] , looking at [/EN#0/notvisual the camera] .
+[/EN#62632/people A child] with [/EN#62633/clothing a sweater] is holding [/EN#62634/other a pen] in [/EN#62635/bodyparts his mouth] .
+[/EN#62632/people A child] in [/EN#62633/clothing a blue sweater] holds [/EN#62634/other a pen] in [/EN#62635/bodyparts his mouth] .
+[/EN#62632/people A boy] in [/EN#62633/clothing a blue sweater] holds [/EN#62634/other a pen] in [/EN#62635/bodyparts his mouth] .
+[/EN#62632/people A small boy] is chewing on [/EN#62634/other a pen] .

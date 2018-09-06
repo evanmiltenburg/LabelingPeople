@@ -1,0 +1,5 @@
+[/EN#220693/people A man] wearing [/EN#220699/clothing black pants] and [/EN#220694/clothing jacket] is on [/EN#220695/vehicles a blue scooter] next to [/EN#220696/people a crowd of people] and [/EN#220698/scene a green tent] .
+[/EN#220693/people A man] using [/EN#220695/vehicles a scooter] wearing [/EN#220694/clothing a black leather jacket] looking away from [/EN#0/notvisual the camera] .
+[/EN#220693/people A man] in [/EN#220695/vehicles an electric scooter] and [/EN#220700/bodyparts bare feet] is looking into [/EN#220696/people a crowd of people] .
+[/EN#220693/people The elderly man] is enjoying [/EN#220701/other time] in [/EN#220697/scene the park] visiting with [/EN#220696/people friends] .
+[/EN#220693/people A man] in [/EN#220695/vehicles a motor cart] rides by to witness [/EN#220697/scene the park area] .

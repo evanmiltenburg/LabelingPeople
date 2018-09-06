@@ -1,0 +1,5 @@
+[/EN#104033/people A girl] , dressed in [/EN#104041/clothing winter clothing] , is rolling [/EN#104034/other a giant snowball] along [/EN#0/notvisual the snow-covered ground] .
+[/EN#104033/people A little girl] with [/EN#104038/clothing a brown jacket] and [/EN#104040/clothing purple pants] rolling [/EN#104034/scene a ball of snow] .
+[/EN#104033/people a girl] in [/EN#104039/clothing a pink hat] rolls [/EN#104034/other a large snowball] in [/EN#104035/scene the snow] .
+[/EN#104033/people A young girl] is rolling [/EN#104034/scene a giant snowball outside] .
+[/EN#104033/people A young girl] is pushing [/EN#104034/other a snowball] .

@@ -1,0 +1,5 @@
+[/EN#38911/people Street vendors] are selling [/EN#38909/other fruits] and [/EN#38910/other vegetables] in [/EN#38906/scene a stand] and in [/EN#38913/other large baskets] on [/EN#0/notvisual the ground] .
+[/EN#38905/people A group of people] are buying [/EN#38910/other fruits] and [/EN#38914/other vegetables] from [/EN#38906/scene a stand] located in [/EN#38906/scene a street market] .
+[/EN#38906/scene An Indian market] , [/EN#38907/people a man] in [/EN#38915/clothing white] is sorting through [/EN#38909/other vegetables] .
+[/EN#38905/people People] in [/EN#38906/scene the market] picking out and looking at [/EN#38909/other fruit] .
+[/EN#38907/people a buyer] chooses [/EN#38912/other fruit] from [/EN#38906/scene an outdoor fruit stand]

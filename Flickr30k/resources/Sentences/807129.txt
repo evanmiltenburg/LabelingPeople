@@ -1,0 +1,5 @@
+[/EN#278597/people An older gentleman] with [/EN#278598/bodyparts a long , white beard] , sits along [/EN#0/notvisual a metal background] in [/EN#278603/scene the city] playing [/EN#278599/instruments the flute] .
+[/EN#278597/people An elderly man] with [/EN#278598/bodyparts a long gray beard] is playing [/EN#278599/instruments his flute] while sitting on [/EN#0/notvisual the ground] .
+[/EN#278597/people Old bald man] with [/EN#278598/bodyparts a beard] sitting down playing [/EN#278599/instruments the flute] .
+[/EN#278597/people A bearded man] sits against [/EN#278602/other a wall] and plays [/EN#278599/instruments the flute] .
+[/EN#278597/people Man] playing [/EN#278601/other a tune] on [/EN#278599/instruments his flute] .

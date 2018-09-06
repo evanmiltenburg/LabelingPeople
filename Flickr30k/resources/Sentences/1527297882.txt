@@ -1,0 +1,5 @@
+[/EN#15659/people A person] with [/EN#15669/bodyparts drawn moustache] and [/EN#15667/bodyparts beard] wearing [/EN#15661/clothing a scarf] and [/EN#15666/other beads] in [/EN#15662/bodyparts his hair] .
+[/EN#15659/people The long-haired man] is dressed up as [/EN#15659/people a pirate] with [/EN#15661/clothing a red bandanna] .
+[/EN#15659/people A man] wearing [/EN#15661/other a doo-rag] with [/EN#15662/bodyparts long hair] stares right in [/EN#0/notvisual the camera] .
+[/EN#15659/people A young man] with [/EN#15668/bodyparts brown eyes] is dressed up like [/EN#15659/animals Jack Sparrow] .
+[/EN#15659/people a man] dressed as [/EN#15659/animals Jack Sparrow] from [/EN#15663/other Pirates of the Caribbean]

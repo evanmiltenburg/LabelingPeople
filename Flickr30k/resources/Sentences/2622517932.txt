@@ -1,0 +1,5 @@
+[/EN#62063/people A young child] is kneeling and looking at [/EN#62065/animals a small creature] inside [/EN#62064/other a glass case] .
+[/EN#62063/people A boy] in [/EN#62068/clothing a white shirt] is looking through [/EN#62064/other the glass] at [/EN#62065/animals a little creature] .
+[/EN#62063/people A young boy] looks through [/EN#62064/other the glass] at [/EN#62069/scene an aquarium] at [/EN#62065/animals a stingray] .
+[/EN#62063/people The little boy] bends down to look at [/EN#62065/animals an animal] .
+[/EN#62063/people A child] looks at [/EN#62067/animals rodents] in [/EN#62064/other a glass display] .

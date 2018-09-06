@@ -1,0 +1,5 @@
+[/EN#57129/people One man] wearing [/EN#57130/clothing a green t-shirt] and [/EN#57134/clothing white hard hat] working on [/EN#57131/scene a house] and hammering [/EN#57132/other a nail] onto [/EN#57133/other a piece of wood] .
+[/EN#57129/people A man] wearing [/EN#57134/clothing a white hard hat] is in [/EN#57138/scene the middle] of hammering [/EN#57132/other a nail] into [/EN#57133/other a thick board] .
+[/EN#57129/people An architect] hammers [/EN#57132/other a nail] ; [/EN#57134/clothing his hard hat] reads " [/EN#57137/people emergency architects] . "
+[/EN#57129/people A man] in [/EN#57134/clothing a white hard hat] and [/EN#57130/clothing green shirt] working with [/EN#57135/other a hammer] .
+[/EN#57129/people A construction worker] hammering [/EN#57132/other a nail] on [/EN#57131/scene a house] .

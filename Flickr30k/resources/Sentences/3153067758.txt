@@ -1,0 +1,5 @@
+[/EN#96912/people Man] seated on [/EN#96918/vehicles/scene train] , holding onto [/EN#96913/other a rolling coat rack] [/EN#0/notvisual that] holds [/EN#96914/clothing a shopping bag]
+[/EN#96912/people A person] in [/EN#96915/clothing a red shirt] holding [/EN#96914/clothing a paper bag] above [/EN#96913/vehicles a baggage cart] .
+[/EN#96912/people A woman] sitting on [/EN#96919/vehicles/scene a bus] with [/EN#96914/clothing a paper bag] hanging on [/EN#96913/other a carrier]
+[/EN#96912/people A person] riding [/EN#96917/vehicles transit] ( catching ? ) [/EN#96914/clothing a paper bag] .
+[/EN#96912/people Woman] with [/EN#96914/clothing a brown paper bag] on [/EN#96919/vehicles/scene a bus] .

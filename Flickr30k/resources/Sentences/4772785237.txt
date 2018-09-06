@@ -1,0 +1,5 @@
+[/EN#201345/people Gray-haired black male] , wearing [/EN#201346/clothing a white jacket] and [/EN#201347/clothing black pants] , sweeping up [/EN#201348/scene a sidewalk] and [/EN#201351/other pothole] .
+[/EN#201345/people A man] in [/EN#201346/clothing a white jacket] is [/EN#201350/scene outside] sweeping .
+[/EN#201345/people An older man] sweeping [/EN#201348/scene the street] .
+[/EN#201345/people A man] sweeping in [/EN#201349/scene the street] .
+[/EN#201345/people A man] sweeping [/EN#201348/scene the sidewalk] .

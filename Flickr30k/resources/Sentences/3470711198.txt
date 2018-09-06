@@ -1,0 +1,5 @@
+[/EN#120489/people A man] with [/EN#120493/clothing a white shirt] holds [/EN#120492/other a water bottle] as [/EN#0/notvisual he] looks over [/EN#120490/scene a bridge] at [/EN#120491/scene the water] .
+[/EN#120489/people A man] drinking [/EN#120492/scene bottled water] stands looking off of [/EN#120490/scene a bridge] .
+[/EN#120488/people A group of people] stop on [/EN#120490/scene a bridge] overlooking [/EN#120491/scene a river] .
+[/EN#120488/people People] stop to take in [/EN#120490/scene the scenery of the bridge] .
+[/EN#120488/people Men] standing on [/EN#120490/scene a bridge] over [/EN#120491/scene water] .

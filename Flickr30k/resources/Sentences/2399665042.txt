@@ -1,0 +1,5 @@
+[/EN#46478/people Two boys] are sitting on [/EN#46482/other a pole] next to [/EN#46479/vehicles a car] , and [/EN#0/notvisual one of them] has [/EN#46480/other a tray of bread] sitting on [/EN#46483/bodyparts his head] .
+[/EN#46477/people A boy] is balancing [/EN#46480/other a plate of pastries] on [/EN#46483/bodyparts his head] while [/EN#46481/people another boy] sits next to [/EN#0/notvisual him] on [/EN#46482/other a rail] .
+[/EN#46477/people A boy] with [/EN#46480/other a dish of food] balanced on [/EN#46483/bodyparts his head] sits next to [/EN#46481/people another boy] in [/EN#46487/clothing a green jacket] .
+[/EN#46478/people Two boys] leaning against [/EN#46479/vehicles a car] , with [/EN#46485/other baked goods] on [/EN#46484/other a tray] on [/EN#46483/bodyparts one boy 's head] .
+[/EN#46477/people A young boy] is sitting on [/EN#46482/scene a fence] with [/EN#46480/other a platter of food] on [/EN#46483/bodyparts his head] .

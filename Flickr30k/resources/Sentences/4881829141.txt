@@ -1,0 +1,5 @@
+[/EN#214365/people A woman] in [/EN#214366/clothing blue] wearing [/EN#214361/clothing glasses] holds up [/EN#214368/clothing a blue and white striped shirt] to [/EN#214364/people a boy] wearing [/EN#214367/clothing yellow] [/EN#0/notvisual who] also has [/EN#214361/clothing glasses] .
+[/EN#214364/people A boy] in [/EN#214367/clothing a yellow shirt] is looking down while [/EN#214365/people a lady] in [/EN#214366/clothing a blue shirt] holds [/EN#214368/clothing a shirt] up to [/EN#0/notvisual him] to see if [/EN#0/notvisual it] fits .
+[/EN#214362/people Two people] , [/EN#214365/people a dark color skin woman] and [/EN#214364/people a light skin color boy] are shopping at [/EN#214363/scene a clothing store] .
+[/EN#214365/people A woman] is holding [/EN#214368/clothing a striped shirt] in front of [/EN#214364/people a young boy] with [/EN#214361/clothing glasses] .
+[/EN#214365/people A woman] sees [/EN#0/notvisual what] [/EN#214368/clothing a striped shirt] would look like on [/EN#214364/people a boy] in [/EN#214367/clothing yellow] .

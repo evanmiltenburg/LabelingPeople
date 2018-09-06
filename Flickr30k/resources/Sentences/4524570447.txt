@@ -1,0 +1,5 @@
+[/EN#175429/people A person] wearing [/EN#175430/clothing a large black hat] [/EN#0/notvisual that] obscures [/EN#175433/bodyparts their face] eats [/EN#175431/other noodles] with [/EN#175432/other chopsticks] .
+[/EN#175429/people The person] with [/EN#175430/clothing the black hat] is eating [/EN#175431/other some noodles] with [/EN#175432/other chopsticks] out of [/EN#175434/other a bowl] .
+[/EN#175429/people A person] , with [/EN#175430/clothing a hat] covering [/EN#175433/bodyparts the face] , sitting at [/EN#175435/other a table] eating [/EN#175431/other noodles] .
+[/EN#175429/people A person] in [/EN#175430/clothing a large black hat] is eating [/EN#175431/other a bowl of noodles] with [/EN#175432/other chopsticks] .
+[/EN#175429/people A person] in [/EN#175430/clothing a black hat] slurps up [/EN#175431/other pasta] .

@@ -1,0 +1,5 @@
+[/EN#123009/people A small boy] in [/EN#123015/clothing a red shirt] and [/EN#123016/clothing black shorts] pushing [/EN#123010/other a broom] outside [/EN#123011/scene a house] on [/EN#123012/scene the driveway] next to [/EN#123017/other a toy basketball hoop] .
+[/EN#123009/people A little boy] in [/EN#123015/clothing a red shirt] is sweeping [/EN#123012/scene the floor] on [/EN#123012/scene a porch] .
+[/EN#123009/people A kid] is holding [/EN#123010/other a broom] and sweeping [/EN#123018/other his property] .
+[/EN#123009/people Boy] in [/EN#123015/clothing red shirt] and [/EN#123016/clothing black shorts] sweeps [/EN#123012/scene driveway] .
+[/EN#123009/people A child] is sweeping outside of [/EN#123011/scene a building] .

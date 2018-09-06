@@ -1,0 +1,5 @@
+[/EN#123253/people A boy] performs [/EN#0/notvisual a one-handed trick] on [/EN#123257/vehicles his bicycle] by [/EN#123258/scene a rundown building] .
+[/EN#123253/people A young man] is pulling [/EN#0/notvisual tricks] on [/EN#123257/vehicles his bike] in front of [/EN#123258/scene a warehouse] .
+[/EN#123253/people A boy] is doing [/EN#123255/other a jumping stunt] on [/EN#123257/vehicles a bicycle] in [/EN#123259/scene a run down street] .
+[/EN#123253/people The boy] does [/EN#123256/other a] jumps [/EN#123257/vehicles his bike] into [/EN#0/notvisual the air] .
+[/EN#123253/people A boy] is in [/EN#0/notvisual the air] on [/EN#123257/vehicles his bike] .

@@ -1,0 +1,5 @@
+[/EN#21252/people A group of people] sit or walk near [/EN#21256/scene a yellow building] with [/EN#21261/clothing white] trimming and [/EN#21257/people columns] with [/EN#21262/vehicles two bikes] parked nearby .
+[/EN#21253/people People] sitting on [/EN#21258/other the steps] and walking in front of [/EN#21256/scene a yellow building] with [/EN#21257/people white columns] .
+[/EN#21255/people Men] are sitting on [/EN#21258/other steps] and [/EN#21260/people a young woman] is walking by .
+[/EN#0/notvisual There] are [/EN#21252/people many people] hanging around [/EN#21259/scene a staircase]
+[/EN#21255/people Men] are sitting on [/EN#21258/other stairs] as [/EN#21254/people a woman] walks by .

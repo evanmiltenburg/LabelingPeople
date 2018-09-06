@@ -1,0 +1,5 @@
+[/EN#162647/people A street musician] in [/EN#162650/clothing a red jacket] and [/EN#162655/clothing sweatpants] plays [/EN#162648/instruments guitar] while [/EN#162654/people pedestrians] walk past .
+[/EN#162647/people The man] is [/EN#162649/clothing the red] is playing [/EN#162648/instruments the guitar] while [/EN#162654/people many people] pass by .
+[/EN#162647/people An older man] in [/EN#162649/clothing a red sweat suit] playing [/EN#162648/instruments a guitar] on [/EN#162653/scene the sidewalk]
+[/EN#162647/people A man] in [/EN#162649/clothing red clothes] plays [/EN#162648/instruments acoustic guitar] on [/EN#162653/scene the street] .
+[/EN#162647/people A man] dressed in [/EN#162649/clothing red] is playing [/EN#162648/instruments a guitar] in [/EN#162653/scene a street] .

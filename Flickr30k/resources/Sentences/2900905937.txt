@@ -1,0 +1,5 @@
+[/EN#80231/people A man] in [/EN#80233/clothing a green shirt] is working under [/EN#80232/vehicles a blue vehicle] .
+[/EN#80231/people A man] wearing [/EN#80233/clothing a green t-shirt] is working on [/EN#80232/vehicles a blue car] .
+[/EN#80231/people A man] is working underneath [/EN#80232/vehicles a blue older model car] .
+[/EN#80231/people A man] lays down to fix [/EN#80232/vehicles an old blue truck] .
+[/EN#80231/people Someone] working under [/EN#80232/vehicles a blue vehicle] .

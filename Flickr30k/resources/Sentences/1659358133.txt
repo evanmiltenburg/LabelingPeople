@@ -1,0 +1,5 @@
+[/EN#18191/animals The dog] is standing outside on [/EN#18194/other a tree stump] .
+[/EN#18191/animals Dog] sniffing recently cut [/EN#18194/other tree stump] .
+[/EN#18191/animals A dog] sniffs [/EN#18193/other a newly cut tree trunk] .
+[/EN#18191/animals a brown dog] sniffs [/EN#18193/other a tree stump] .
+[/EN#18191/animals A dog] sniffs [/EN#18193/other a tree stump] .

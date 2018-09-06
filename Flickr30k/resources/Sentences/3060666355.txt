@@ -1,0 +1,5 @@
+[/EN#90872/people a lady] dressed in [/EN#90873/clothing a red dress] and wearing [/EN#90875/clothing sunglasses] is talking on [/EN#90874/other the cellphone] .
+[/EN#90872/people A woman] in [/EN#90873/clothing a bright red dress] is talking on [/EN#90874/other the phone] at [/EN#90876/scene the top of an escalator] .
+[/EN#90872/people A woman] in [/EN#90873/clothing a red outfit] and [/EN#90875/clothing sunglasses] talking on [/EN#90874/other her cellphone] .
+[/EN#90872/people A woman] in [/EN#90873/clothing a red dress] is talking on [/EN#90874/other a cellphone] .
+[/EN#90872/people The lady] in [/EN#90873/clothing red] is on [/EN#90874/other the phone] .

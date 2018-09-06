@@ -1,0 +1,5 @@
+[/EN#138388/people Three handlers] lead [/EN#138387/animals a string of 11 camels] , [/EN#138392/other each] carrying [/EN#138393/people a pair of riders] , through [/EN#138389/scene shallow water] on [/EN#138390/scene a beach] .
+[/EN#138386/people A group of people] riding [/EN#138387/animals camels] with [/EN#138396/scene red seat] covers along [/EN#138391/scene a sandy shore] , and [/EN#138388/people three people] are on [/EN#138394/other foot] .
+[/EN#0/notvisual There] is [/EN#138387/animals a herd of camels] with [/EN#138398/people two people] riding atop [/EN#138392/other each one] while behind [/EN#138389/scene a front drop of water] .
+[/EN#138387/animals Several camels] are lined up with [/EN#138395/other red blankets] and [/EN#138386/people people] on [/EN#0/notvisual them] , on [/EN#138390/scene a beach] .
+[/EN#138386/people A group of people] riding [/EN#138387/animals red clad camels] down [/EN#138390/scene a beach] .

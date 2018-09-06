@@ -1,0 +1,5 @@
+[/EN#241014/people A man] is operating [/EN#241016/people a weed eater] behind [/EN#241015/scene a building] , and [/EN#0/notvisual there] is [/EN#241019/other a red van] nearby .
+[/EN#241014/people Man] cutting [/EN#241021/scene grass] near [/EN#241015/scene a building] wearing [/EN#241017/other face gear] for [/EN#241022/other protection] .
+[/EN#241014/people A man] in [/EN#241024/clothing a blue top] and [/EN#241025/clothing camouflage pants] is running [/EN#241016/people a weed eater] .
+[/EN#241014/people A man] is trimming [/EN#241023/other the weeds] outside of [/EN#241018/other an apartment complex] .
+[/EN#241014/people A man] wearing [/EN#241017/other safety gear] is using [/EN#241016/other a weed whacker] .

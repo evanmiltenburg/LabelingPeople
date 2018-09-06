@@ -1,0 +1,5 @@
+[/EN#17762/people A young child] wearing [/EN#17763/clothing green shoes] , [/EN#17768/clothing red pants] , [/EN#17769/clothing a blue shirt] , and [/EN#17764/clothing a blue hat] stands on top of [/EN#17766/other a circle] [/EN#0/notvisual that] is on [/EN#17772/other a cracked piece of concrete] .
+[/EN#17762/people A kid] with [/EN#17763/clothing Green shoes] , [/EN#17768/clothing red shorts] , and [/EN#17764/clothing a blue hat] and [/EN#17769/clothing shirt] stands on [/EN#17767/scene a stretch of pavement] .
+[/EN#17762/people A child] with [/EN#17768/clothing red pants] on and [/EN#17765/clothing green shoes] is playing in [/EN#17767/scene the street] .
+[/EN#17762/people A young child] stands on top of [/EN#17766/other a small disc] on [/EN#0/notvisual the ground] .
+[/EN#17762/people A small child] standing on [/EN#17766/other a white circle] on [/EN#17767/scene a sidewalk] .

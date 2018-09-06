@@ -1,0 +1,5 @@
+[/EN#128666/people A woman] in [/EN#128668/clothing an orange dress] walking across [/EN#128667/scene a stone bridge] with [/EN#128670/scene a very blue sky] behind [/EN#0/notvisual her] .
+[/EN#128666/people Woman] in [/EN#128668/clothing an orange skirt] walking on [/EN#128667/scene concrete bridge] .
+[/EN#128666/people A woman] in [/EN#128668/clothing a dress] is crossing [/EN#128667/scene a suspended bridge] .
+[/EN#128666/people A woman] is carrying [/EN#128669/people a child] across [/EN#128667/scene a stone bridge] .
+[/EN#128666/people Woman] in [/EN#128668/clothing a dress] walking across [/EN#128667/scene a bridge] .

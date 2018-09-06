@@ -1,0 +1,5 @@
+[/EN#178490/people A young child] in [/EN#178491/clothing a blue flowery dress] walks along [/EN#178492/scene a sidewalk] near [/EN#178494/other a gated wall] .
+[/EN#178490/people a little girl] in [/EN#178491/clothing a blue flower dress] and [/EN#178493/clothing black boots] walking on [/EN#178492/scene the sidewalk] .
+[/EN#178490/people A little girl] in [/EN#178491/clothing a flowered blue dress] dances down [/EN#178492/scene a hallway] .
+[/EN#178490/people young girl] in [/EN#178491/clothing floral dress] walking down [/EN#178492/scene street]
+[/EN#178490/people A toddler] in [/EN#178491/clothing a dress] walking away .

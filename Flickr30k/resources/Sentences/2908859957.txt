@@ -1,0 +1,5 @@
+[/EN#80642/people The little girl] in [/EN#80644/clothing the yellow dress] is jumping over [/EN#80643/other a red and green rope] .
+[/EN#80642/people A girl] wearing [/EN#80644/clothing yellow] jumps over [/EN#80643/other a red and green rope] .
+[/EN#80642/people A little girl] in [/EN#80644/clothing a yellow dress] jumping rope .
+[/EN#80642/people A girl] in [/EN#80644/clothing a yellow dress] jump ropes .
+[/EN#80642/people A girl] skips [/EN#80643/other rope] .

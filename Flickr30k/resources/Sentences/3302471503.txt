@@ -1,0 +1,5 @@
+[/EN#107995/people A young asian boy] , standing in [/EN#107997/vehicles/scene the city bus] while holding on to [/EN#108001/other the overhead handrail]
+[/EN#107995/people A young boy] with [/EN#107999/clothing black framed glasses] and [/EN#107996/clothing a blue coat] stands on [/EN#107997/vehicles/scene the bus] .
+[/EN#107995/people A kid] in [/EN#107996/clothing a blue jacket] and [/EN#108000/clothing striped shirt] rides [/EN#107997/vehicles/scene the bus] .
+[/EN#107995/people A boy] in [/EN#107996/clothing a blue jacket] on [/EN#107997/vehicles/scene a subway train] .
+[/EN#107995/people Nerdy guy] taking [/EN#107997/vehicles/scene the bus] in [/EN#107998/scene a busy city] .

@@ -1,0 +1,5 @@
+[/EN#173846/people A soccer player] in [/EN#173852/clothing a red shirt] is about to make [/EN#173848/other a corner kick] by [/EN#173850/other a red flag] .
+[/EN#173846/people A team player] wearing [/EN#173852/clothing red] , about to make [/EN#173848/other a corner kick] , playing [/EN#173851/other soccer] .
+[/EN#173846/people The soccer player] from [/EN#173847/people the red team] is going to kick [/EN#173849/other the ball] .
+[/EN#173846/people Guy] getting ready to kick [/EN#173849/other the ball] .
+[/EN#173847/people A team] on [/EN#173853/scene a soccer field] .

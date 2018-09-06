@@ -1,0 +1,5 @@
+[/EN#182312/animals A black and white dog] is running up [/EN#182313/scene a path] towards [/EN#182314/other some potted plants] .
+[/EN#182312/animals A dog] is turns back toward [/EN#0/notvisual the camera] near [/EN#182314/other some potted plants] .
+[/EN#182312/animals A white and black dog] in [/EN#182313/scene a hallway] filled with [/EN#182314/other potted plants] .
+[/EN#182312/animals A dog] follows [/EN#182312/animals another dog] around [/EN#182315/scene the corner] but looks back .
+[/EN#182312/animals A dog] turning to look at [/EN#0/notvisual the camera] .

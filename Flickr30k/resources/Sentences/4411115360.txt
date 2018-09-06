@@ -1,0 +1,5 @@
+[/EN#166741/people A young man] is holding [/EN#166742/other some papers] and standing in front of [/EN#166747/other a whiteboard] and [/EN#166745/other overhead screen] .
+[/EN#166741/people A professor or student] presents [/EN#0/notvisual himself] in front of [/EN#166743/people other students] .
+[/EN#166741/people A young man] is standing in front of [/EN#166743/people a group] holding [/EN#166742/other a few papers] .
+[/EN#166741/people A young asian man] stands in front of [/EN#166746/people a class] .
+[/EN#166741/people A man] holding giving [/EN#166744/other a lecture] .

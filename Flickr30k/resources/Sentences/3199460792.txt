@@ -1,0 +1,5 @@
+[/EN#100401/animals Two dogs] are competing for [/EN#100402/other an object] in [/EN#100403/bodyparts one 's mouth] nearby [/EN#100407/scene a beach] .
+[/EN#100404/animals A golden dog] passes [/EN#100402/other a blue ball] to [/EN#100405/animals another golden dog] on [/EN#100407/scene the beach] .
+[/EN#100401/animals Two brown dogs] stand in [/EN#100406/other the surf] and play with [/EN#100402/other a small blue ball] .
+[/EN#100401/animals Two tan dogs] share [/EN#100402/other a blue ball] while standing on [/EN#100407/scene a beach] .
+[/EN#100401/animals two dogs] by [/EN#100407/scene water] fighting over [/EN#100402/other blue ball]

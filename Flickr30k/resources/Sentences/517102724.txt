@@ -1,0 +1,5 @@
+[/EN#230303/animals A black dog] is standing in front of [/EN#230305/scene a waterfall] .
+[/EN#230303/animals The large black dog] is walking in [/EN#230304/scene the water] .
+[/EN#230303/animals A black dog] plays around near [/EN#230305/scene a waterfall] .
+[/EN#230303/animals Black dog] prancing through [/EN#230304/scene the river] .
+[/EN#230303/animals A black dog] in front of [/EN#230305/scene a waterfall] .

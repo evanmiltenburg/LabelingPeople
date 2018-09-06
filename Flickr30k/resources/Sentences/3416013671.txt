@@ -1,0 +1,5 @@
+[/EN#116521/people A gray bearded scottish gentleman] in [/EN#116525/other red plaid] is playing [/EN#116524/instruments the bagpipes] .
+[/EN#116521/people The man] with [/EN#116523/bodyparts the white beard] is playing [/EN#116524/instruments a red bagpipe] .
+[/EN#116521/people A man] with [/EN#116523/bodyparts a beard] in [/EN#0/notvisual the foreground] playing [/EN#116524/instruments bagpipes]
+[/EN#116522/people A parade of bagpipers] walk through [/EN#116527/scene a city street] .
+[/EN#116522/people Several bagpipers] in [/EN#116528/clothing Scottish dress] .

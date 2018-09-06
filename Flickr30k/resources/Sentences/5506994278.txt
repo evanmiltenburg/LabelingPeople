@@ -1,0 +1,5 @@
+[/EN#237885/people A young boy] and [/EN#237890/people a young girl] ride [/EN#237885/vehicles a bicycle] down [/EN#237886/scene a street] , with [/EN#237891/scene dirt] and [/EN#237887/other small trees] around [/EN#0/notvisual them] .
+[/EN#237884/people Two little girls] are riding [/EN#237885/vehicles a bike] in [/EN#237889/scene a village] surrounded by [/EN#237887/other trees] .
+[/EN#237884/people Two young girls] are riding [/EN#237885/vehicles a large bicycle] on [/EN#237886/scene the side of the road] .
+[/EN#237884/people Two small children] try to ride [/EN#237885/vehicles a large two wheeled bike] .
+[/EN#237884/people Two small girls] ride [/EN#237885/vehicles a large bicycle] down [/EN#237886/scene the street] .

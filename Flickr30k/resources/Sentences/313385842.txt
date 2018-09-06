@@ -1,0 +1,5 @@
+[/EN#95784/people A man] dressed in [/EN#95792/clothing black shorts] , [/EN#95793/clothing a black t-shirt] , and [/EN#95786/other a backwards] [/EN#95794/clothing black baseball cap] is talking to [/EN#95787/people a man] wearing [/EN#95795/clothing a striped shirt] and [/EN#95796/clothing shorts] while standing behind [/EN#95782/vehicles a truck] .
+[/EN#95785/people Two males] seem to be conversing while standing in front of [/EN#95782/other a truck 's back] , and behind [/EN#95788/other a metal item] , while [/EN#95790/people four people] stand around [/EN#0/notvisual them] .
+[/EN#95782/vehicles A semi trailer] is inside [/EN#95783/scene a building] , and [/EN#95781/people people] are gathered behind [/EN#95791/other its open rear door] where [/EN#0/notvisual there] are [/EN#95789/other displays] being set up .
+[/EN#95781/people A group of people] are standing in [/EN#95783/scene a warehouse] .
+[/EN#95781/people People] stand in [/EN#95783/scene a warehouse] .

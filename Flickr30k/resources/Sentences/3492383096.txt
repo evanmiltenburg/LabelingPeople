@@ -1,0 +1,5 @@
+[/EN#122319/animals Three dogs] are playing together on [/EN#122321/scene the sandy shore of a lake] .
+[/EN#122322/animals Two smaller dogs] chase [/EN#122323/animals a larger dog] around [/EN#122320/scene a pond] .
+[/EN#122319/animals The three dogs] are running around near [/EN#122321/scene the shore] .
+[/EN#122319/animals Three dogs] play near [/EN#122320/scene the water] .
+[/EN#122319/animals Three dogs] play by [/EN#122320/scene a lake] .

@@ -1,0 +1,5 @@
+[/EN#232547/people A man] in [/EN#232554/clothing a dark suit] talks with [/EN#232545/people a middle-aged man] and [/EN#232549/people woman] on [/EN#232560/scene a stage] in front of [/EN#232548/other a large logo of the letter] " [/EN#232546/other D] " with [/EN#232550/other the numeral five] within [/EN#0/notvisual it] .
+[/EN#232553/people Two men] , [/EN#232558/other one] being [/EN#232547/other John McCain] , and [/EN#232549/people one woman] sitting in [/EN#232551/other red rolling chairs] next to [/EN#232556/other a white sign] with [/EN#232548/other a blue letter] [/EN#232546/other D] and [/EN#232550/other a number 5] on [/EN#0/notvisual it] .
+[/EN#232545/people The man] and [/EN#232549/people the lady] are wearing [/EN#232557/clothing glasses] and sitting in [/EN#232551/other red chairs] talking to [/EN#232547/other John McCain] .
+[/EN#232547/other John McCain] is sitting and talking to [/EN#232559/people two other people] .
+[/EN#232547/other Politician John McCain] on [/EN#232555/other a talk show] .

@@ -1,0 +1,5 @@
+[/EN#52803/people A woman] in [/EN#52807/clothing a blue and white striped shirt] holding [/EN#52804/other a green comb] .
+[/EN#52803/people Older woman] holding [/EN#52804/other a light green comb] over [/EN#52805/other a weave] .
+[/EN#52803/people A woman] is weaving with [/EN#52804/other a comb] in [/EN#52808/bodyparts her hand] .
+[/EN#52803/people A woman] holding [/EN#52804/other a green comb] is weaving .
+[/EN#52803/people A woman] works [/EN#52805/other a loom] holding [/EN#52804/other a green comb]

@@ -1,0 +1,5 @@
+[/EN#77199/animals A racing dog] takes [/EN#77203/other flight] while wearing [/EN#77201/clothing a yellow and black jersey] , and [/EN#77205/clothing muzzle]
+[/EN#77199/animals A white racing dog] wearing [/EN#77201/other the number 8] is [/EN#77204/other midstride] running down [/EN#77200/scene a track] .
+[/EN#77199/animals A white greyhound] wearing [/EN#77201/clothing a yellow and black jacket] is running on [/EN#77200/scene a track] .
+[/EN#77199/animals A white race dog] wearing [/EN#77201/other the number eight] runs on [/EN#77200/scene the track] .
+[/EN#77199/animals A lean dog] races along [/EN#77200/scene a dirt track] .

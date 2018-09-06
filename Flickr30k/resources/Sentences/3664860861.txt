@@ -1,0 +1,5 @@
+[/EN#135146/people A street performer] out on [/EN#135147/scene a street] is singing with [/EN#135148/other a microphone] in [/EN#135150/bodyparts his hand] .
+[/EN#135146/people A man] dressed in [/EN#135149/clothing white pants] holds [/EN#135148/other a microphone] in [/EN#135147/scene street scene] .
+[/EN#135146/people A man] is holding [/EN#135148/other a microphone] wearing [/EN#135149/clothing white pants] .
+[/EN#135146/people A man] is singing with [/EN#135148/other a microphone] on [/EN#135147/scene the sidewalk]
+[/EN#135147/scene Street] performing [/EN#135146/people singer] sings into [/EN#135148/other microphone] .

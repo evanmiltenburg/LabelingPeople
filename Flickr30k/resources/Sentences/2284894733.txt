@@ -1,0 +1,5 @@
+[/EN#38964/animals A brown dog] is running over [/EN#38965/other an obstacle course] with [/EN#38969/scene its mouth wide open] .
+[/EN#38964/animals The brown dog] is on [/EN#38965/scene the wooden stage] with [/EN#38970/people people] behind [/EN#0/notvisual it] .
+[/EN#38964/animals The dog] is barking while running down [/EN#38965/other an obstacle] .
+[/EN#38964/animals A dog] descends [/EN#38965/scene a ramp] , [/EN#38971/bodyparts teeth] bared .
+[/EN#38964/animals A brown dog] growls .

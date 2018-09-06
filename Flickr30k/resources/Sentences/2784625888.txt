@@ -1,0 +1,5 @@
+[/EN#72823/animals The black dog] is jumping over [/EN#72824/other the white pole] in [/EN#72825/scene the grass] .
+[/EN#72823/animals A black dog] jumps [/EN#72826/scene a horizontal bar] in [/EN#72828/other a grassy feild] .
+[/EN#72823/animals A black dog] jumps over [/EN#72824/other a pole] on [/EN#72825/scene green grass] .
+[/EN#72823/animals A black dog] jumps [/EN#72824/other a hurdle] in [/EN#72825/scene a grassy area] .
+[/EN#72823/scene A medium] sized [/EN#72823/animals black dog] jumps over [/EN#72826/scene a gate]

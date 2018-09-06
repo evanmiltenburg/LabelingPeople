@@ -1,0 +1,5 @@
+[/EN#224954/people A man] in [/EN#224955/clothing a black suit] with [/EN#224956/animals a cat] on [/EN#224957/clothing a leash] is looking in [/EN#224958/scene a shop] while [/EN#224956/animals the cat] stands beside [/EN#0/notvisual him] staring [/EN#224969/people the opposite direction of the man] , as [/EN#224963/people a woman] in [/EN#224960/clothing a green jacket] , [/EN#224964/clothing black pants] and [/EN#224966/clothing high heels] has walked past [/EN#224956/animals both cat] and [/EN#224954/people man] .
+[/EN#224954/people A man] wearing [/EN#224961/clothing a leather jacket] and [/EN#224965/clothing denim jeans] is standing in front of [/EN#224958/scene a store] while holding [/EN#224957/clothing a leash] with [/EN#224956/animals a cat] on [/EN#0/notvisual the end of it]
+[/EN#224954/people A man] in [/EN#224955/clothing black] taking [/EN#224956/animals his leashed cat] on [/EN#224959/other a walk] .
+[/EN#224954/people A man] is walking [/EN#224956/animals his pet cat] in [/EN#224962/scene the street] .
+[/EN#224954/people A man] takes [/EN#224956/animals his cat] on [/EN#224959/other a walk] in [/EN#224970/scene town] .

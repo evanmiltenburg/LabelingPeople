@@ -1,0 +1,5 @@
+[/EN#250669/people Two men] riding [/EN#250673/vehicles bikes] are competing in [/EN#250670/other a outdoor triathlon] set up at [/EN#250672/scene a park] , and [/EN#250668/people one man] is walking beside [/EN#250674/vehicles his bike] while [/EN#250667/other the other] is riding and jumping over [/EN#250670/other obstacles] on [/EN#250675/other the course] .
+[/EN#250669/people Two cyclists] , [/EN#250677/other one riding and one] walking [/EN#250674/vehicles his bike] , [/EN#0/notvisual both] wearing [/EN#250676/other appropriate riding gear] , are going over [/EN#250671/other hurdles] in [/EN#250672/scene a tree-lined park] .
+[/EN#250668/people A man] hurdling [/EN#250671/other an obstacle] with [/EN#250674/vehicles his bike] in [/EN#250670/other a competition] .
+[/EN#250669/people Two men] with [/EN#250673/vehicles bicycles] [/EN#250671/other navigate obstacles] .
+[/EN#250667/people A mountain biker] hops over [/EN#250671/other an obstacle] .

@@ -1,0 +1,5 @@
+[/EN#65468/people The man] with [/EN#65472/clothing the white t-shirt] is sitting in [/EN#65469/scene a stream] looking at [/EN#65471/other a rock] .
+[/EN#65468/people A man] sitting in [/EN#65469/scene clear shallow water] beside [/EN#65474/bodyparts a large rock face] .
+[/EN#65468/people Man] with [/EN#65470/clothing sunglasses] sitting in [/EN#65469/scene shallow water] .
+[/EN#65468/people A person] is sitting in [/EN#65469/scene a shallow lagoon] .
+[/EN#65468/people A man] in [/EN#65470/clothing sunglasses] sits on [/EN#65473/other rocks] .

@@ -1,0 +1,5 @@
+[/EN#58556/people A man] in [/EN#58559/clothing a green shirt] is standing in front of [/EN#58560/vehicles cars] , holding up [/EN#58562/bodyparts his hand] .
+[/EN#58556/people A man] in [/EN#58559/clothing a green shirt] is standing between [/EN#58560/vehicles two cars] holding up [/EN#58561/bodyparts 3 fingers] .
+[/EN#58556/people a man] is hailing [/EN#58557/vehicles a cab] or giving [/EN#58563/other a peace sign] in [/EN#58558/scene a city]
+[/EN#58556/people A man] in [/EN#58559/clothing a green shirt] hailing [/EN#58557/vehicles a taxi] in [/EN#58558/scene a large city] .
+[/EN#58556/people A man] in [/EN#58559/clothing a green shirt] hailing [/EN#58557/vehicles a cab] .

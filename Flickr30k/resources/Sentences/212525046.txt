@@ -1,0 +1,5 @@
+[/EN#30092/people A middle-aged white man] is sitting alone in [/EN#30093/scene a bar] [/EN#0/notvisual that] has [/EN#30095/other a very contemporary design] .
+[/EN#30092/people A man] in [/EN#30097/clothing jeans] and [/EN#30098/clothing checkered shirt] sits at [/EN#30094/other a restaurant table] .
+[/EN#30092/people A man] sits at [/EN#30094/other a table] next to [/EN#30095/other a spotted wall] .
+[/EN#30092/people Man] sitting in [/EN#30093/scene a restaurant] at [/EN#30094/other a table] .
+[/EN#30092/people A man] sitting alone at [/EN#30094/other a table] .

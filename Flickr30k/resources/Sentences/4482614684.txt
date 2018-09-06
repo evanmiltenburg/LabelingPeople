@@ -1,0 +1,5 @@
+[/EN#172039/people A man] in [/EN#172044/clothing black trouser] and [/EN#172045/clothing black jacket] driving [/EN#172041/vehicles a scooter] on [/EN#172040/scene the road] .
+[/EN#172039/people A man] sitting on [/EN#172041/other a silver motorcycle] , parked outside of [/EN#172043/scene a pub] .
+[/EN#172039/people A man] on [/EN#172041/other a silver motorcycle] is driving down [/EN#172040/scene the street] .
+[/EN#172039/people A man] driving [/EN#172041/vehicles a scooter] down [/EN#172040/scene a cobblestone road] .
+[/EN#172039/people A man] is sitting on [/EN#172041/vehicles a silver scooter] .

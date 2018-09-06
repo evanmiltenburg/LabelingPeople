@@ -1,0 +1,5 @@
+[/EN#97336/animals A white dog] with [/EN#97337/clothing a red collar] and [/EN#97338/scene black spots] runs on [/EN#97339/scene newly cut grass] .
+[/EN#97336/animals White dog] with [/EN#97338/other black markings] and [/EN#97337/clothing red collar] leaping over [/EN#97339/scene the grass] .
+[/EN#97336/animals A white and brown dog] is running over [/EN#97339/scene grass] .
+[/EN#97336/animals The dog] in [/EN#97337/clothing a red collar] runs in [/EN#97339/scene the grass] .
+[/EN#97336/animals A dog] leaps across [/EN#97339/scene the grass] .

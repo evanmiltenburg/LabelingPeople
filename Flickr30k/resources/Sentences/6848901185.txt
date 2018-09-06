@@ -1,0 +1,5 @@
+[/EN#259262/people A man] wearing [/EN#259263/clothing a plaid shirt] , [/EN#259266/clothing gray vest] , and [/EN#259268/clothing brown tie] takes [/EN#259264/other orange punch] from [/EN#259264/bodyparts a silver punch bowel] .
+[/EN#259262/people A man] in [/EN#259263/clothing a striped shirt] , [/EN#259266/clothing vest] , tie , and [/EN#259269/clothing hat] is serving [/EN#0/notvisual himself] punch from [/EN#259264/other a large bowl] .
+[/EN#259262/people A male server] is ladling out [/EN#259264/other drinks] into [/EN#259265/clothing two glasses] .
+[/EN#259262/people a man] is pouring [/EN#259264/other drinks] into [/EN#259265/clothing glasses]
+[/EN#259262/people Trendy guy] pours [/EN#259264/other punch] for [/EN#259270/other two] .

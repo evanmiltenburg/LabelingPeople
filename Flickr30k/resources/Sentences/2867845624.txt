@@ -1,0 +1,5 @@
+[/EN#77795/animals A black and white dog] runs through [/EN#77796/scene the white water] at [/EN#77798/scene a beach] .
+[/EN#77795/animals the black and white dog] is running through [/EN#77796/scene the ocean] .
+[/EN#77795/animals A black and white dog] leaps through [/EN#77796/scene the water] .
+[/EN#77795/animals A black and white dog] frolicks in [/EN#77796/scene the water] .
+[/EN#77795/animals A black-and-white dog] running in [/EN#77796/scene the water] .

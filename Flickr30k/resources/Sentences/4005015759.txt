@@ -1,0 +1,5 @@
+[/EN#151643/animals A bird] is flying through [/EN#0/notvisual the air] while [/EN#151650/people children] are playing on [/EN#151644/scene the beach] .
+[/EN#151643/animals A bird] is flying on [/EN#151644/scene the beach] as [/EN#151649/people a girl] runs in [/EN#151651/other the sand] .
+[/EN#151643/animals A bird] flies over [/EN#151652/scene the water] near [/EN#151648/people a beach full of people] .
+[/EN#151647/people People] are playing on [/EN#151644/scene a beach] while [/EN#151643/animals a seagull] flies by .
+[/EN#151643/animals A brown bird] flies off to [/EN#151645/scene the right] at [/EN#151644/scene a crowded beach] .

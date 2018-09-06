@@ -1,0 +1,5 @@
+[/EN#11890/people A young man] wearing [/EN#11896/clothing blue jeans] and [/EN#11892/clothing a t-shirt] sits in [/EN#11894/scene the grass] , with [/EN#11891/other a ball] in [/EN#0/notvisual the air] .
+[/EN#11890/people A man] in [/EN#11892/clothing a red shirt] is sitting on [/EN#11894/scene the grass] , and [/EN#11891/other a ball] is flying towards [/EN#0/notvisual him] .
+[/EN#11890/people A man] in [/EN#11892/clothing a pink shirt] is sitting in [/EN#11894/scene the grass] and [/EN#11891/other a ball] is in [/EN#0/notvisual the air] .
+[/EN#11890/people A man] is laying down in [/EN#11894/scene the grass] at [/EN#11894/scene a beautiful park] .
+[/EN#11890/people A man] sitting in [/EN#11894/scene the grass] as [/EN#11891/other a ball] flies by .

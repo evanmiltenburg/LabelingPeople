@@ -1,0 +1,5 @@
+[/EN#125085/people Three people] sit in front of [/EN#125086/people a man] [/EN#0/notvisual who] is standing in front of [/EN#125089/other a orange wall] with [/EN#125090/other art pictures] on [/EN#0/notvisual it] .
+[/EN#125086/people A man] is standing in front of [/EN#125085/people three people] sitting around [/EN#125088/other a table] .
+[/EN#125087/people Four people] are meeting around [/EN#125088/other table] in [/EN#125091/scene a modern decorated room] .
+[/EN#125085/people A group of people] sitting around [/EN#125088/other a desk] .
+[/EN#125087/people Four people] gathered around [/EN#125088/other a table]

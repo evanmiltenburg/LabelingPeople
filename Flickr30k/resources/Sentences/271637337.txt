@@ -1,0 +1,5 @@
+[/EN#68303/animals A dog] in [/EN#68305/other a competition] jumps over [/EN#68304/other a hurdle] .
+[/EN#68303/animals A furry dog] is jumping over [/EN#68304/other a hurdle] .
+[/EN#68303/animals A collie] jumps over [/EN#68304/other a hurdle] .
+[/EN#68303/animals A dog] jumping over [/EN#68304/other a hurdle] .
+[/EN#68303/animals A dog] jumps over [/EN#68304/other a barrier] .

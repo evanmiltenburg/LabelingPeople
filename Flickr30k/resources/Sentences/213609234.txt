@@ -1,0 +1,5 @@
+[/EN#30617/people Three people] , [/EN#30612/people one tall male] in [/EN#30618/clothing blue polo shirt] and [/EN#30622/clothing khaki shorts] with [/EN#30626/clothing tan shoes] , [/EN#30619/people brunette] , [/EN#30621/people heavy chested female] in [/EN#30627/clothing white summer blouse] and [/EN#30620/clothing denim shorts] , [/EN#30624/people second female] wearing [/EN#30629/clothing yellow rimmed sunglasses] , [/EN#30628/clothing yellow blouse] and [/EN#30623/clothing sandals] , walking across [/EN#30616/scene a city street] .
+[/EN#30612/people One man] and [/EN#30613/people two women] wearing [/EN#30625/clothing shorts] , walk down [/EN#30616/scene the street] .
+[/EN#30614/people Two girls] and [/EN#30612/people a boy] are walking across [/EN#30616/scene an intersection] .
+[/EN#30614/people Two teenage girls] and [/EN#30612/people a teenage boy] cross [/EN#30616/scene a street] .
+[/EN#30613/people Two women] and [/EN#30612/people 1 man] walking across [/EN#30616/scene the street] .

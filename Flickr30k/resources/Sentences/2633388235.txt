@@ -1,0 +1,5 @@
+[/EN#62775/people A lone construction worker] , in [/EN#62776/clothing a yellow safety vest] , [/EN#62777/clothing blue shirt] and [/EN#62778/clothing white hard hat] , standing on top of [/EN#62780/other a construction plank] , [/EN#62781/scene a steel crane] standing nearby .
+[/EN#62775/people A man] at [/EN#62782/scene a construction site] standing on top of [/EN#62784/scene an incomplete bridge] with [/EN#62781/scene a crane] in front of [/EN#0/notvisual it] .
+[/EN#62775/people A construction worker] in [/EN#62778/clothing a hard hat] is on top of [/EN#62786/other the construction] , working .
+[/EN#62775/people A construction worker] stands at [/EN#62779/other the top of a wooden structure] .
+[/EN#62775/people A construction worker] balances on [/EN#62783/other scaffolding] .

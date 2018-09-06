@@ -1,0 +1,5 @@
+[/EN#225392/people A man] in [/EN#225401/clothing shorts] , on [/EN#225393/vehicles a bicycle] , rides along side [/EN#225394/scene a wave-crashing waterfront] while [/EN#225396/animals his leashed dog] is to [/EN#0/notvisual his right hand side] .
+[/EN#225392/people A man] on [/EN#225393/vehicles a bicycle] , holding [/EN#225398/clothing a leash] with [/EN#225396/animals a small dog] , is riding by [/EN#225397/scene a seawall] .
+[/EN#225392/people A man] rides [/EN#225393/vehicles his bike] while [/EN#0/notvisual he] walks [/EN#225396/animals his dog] along [/EN#225397/other a bulk-wall] .
+[/EN#225392/people A man] on [/EN#225393/vehicles a bike] is walking [/EN#225396/animals a dog] along [/EN#225395/scene a boardwalk] .
+[/EN#225392/people A man] riding [/EN#225393/vehicles his bicycle] near [/EN#225402/scene the ocean] .

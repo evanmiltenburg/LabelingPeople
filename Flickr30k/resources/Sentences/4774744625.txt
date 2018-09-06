@@ -1,0 +1,5 @@
+[/EN#201495/people A man] with [/EN#201497/clothing a black hat] and [/EN#201506/clothing black shirt] is talking on [/EN#201498/other a cellphone] and drinking [/EN#201502/scene a beer outside] .
+[/EN#201500/people Two men] sitting at [/EN#201509/other table] next to [/EN#201495/people a man] holding [/EN#201501/other a beer] and talking on [/EN#201498/other a cellphone] .
+[/EN#201495/people A man] in [/EN#201497/clothing a leather hat] talks on [/EN#201498/other a cellphone] in [/EN#201504/other a chair] on [/EN#201505/scene the street] .
+[/EN#201496/people Three men] are sitting outside on [/EN#201507/other chairs] with [/EN#201508/scene red seats] .
+[/EN#201496/people Several people] are sitting outside of [/EN#201503/scene a building] .

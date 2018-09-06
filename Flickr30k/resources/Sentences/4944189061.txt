@@ -1,0 +1,5 @@
+[/EN#221581/people A man] in [/EN#221582/clothing a light blue t-shirt] is walking carefully on [/EN#221583/other a platform] .
+[/EN#221581/people A man] wearing [/EN#221585/clothing gloves] and [/EN#221582/clothing a gray t-shirt] traversing [/EN#221584/other scaffolding] .
+[/EN#221581/people A man] grabs for [/EN#221587/other support] as [/EN#0/notvisual he] walks on [/EN#221583/other a scaffold] .
+[/EN#221581/people A man] traversing [/EN#221583/other a scaffolding] next to [/EN#221584/other a wall] .
+[/EN#221581/people A man] in [/EN#221582/clothing a blue shirt] walking on [/EN#221583/other scaffolding] .

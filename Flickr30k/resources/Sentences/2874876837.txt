@@ -1,0 +1,5 @@
+[/EN#78229/people A little boy] in [/EN#78230/clothing a white long-sleeved t-shirt] jumps on [/EN#78230/other a trampoline] .
+[/EN#78229/people Boy] jumps on [/EN#78230/other trampoline] outside [/EN#78232/scene house] .
+[/EN#78229/people A boy] bouncing on [/EN#78230/other a trampoline] .
+[/EN#78229/people A boy] jumping on [/EN#78230/other a trampoline] .
+[/EN#78229/people A boy] jumps on [/EN#78230/other a trampoline] .

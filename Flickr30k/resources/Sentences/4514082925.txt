@@ -1,0 +1,5 @@
+[/EN#174607/vehicles/scene A yellow commuter train] is on [/EN#174609/scene the tracks] with [/EN#174614/other the number 2] in [/EN#174615/scene the upper right corner] .
+[/EN#174607/vehicles/scene Short yellow electric train] being driven by [/EN#174608/people a man] in [/EN#174616/clothing a white outfit] on [/EN#174613/scene sunny day] .
+[/EN#174607/vehicles/scene A yellow electrical train] has [/EN#174608/people a driver] at [/EN#174611/scene front] .
+[/EN#174607/other Yellow Trolley] as [/EN#0/notvisual it] 's making [/EN#174612/scene its rounds] .
+[/EN#174607/vehicles/scene A yellow train] is on [/EN#174609/scene the tracks] .

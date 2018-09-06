@@ -1,0 +1,5 @@
+[/EN#229537/people Boy] walks across [/EN#229538/scene shallow , reflective water] in [/EN#229540/scene park area] , [/EN#229539/scene ocean] in [/EN#0/notvisual background] .
+[/EN#229543/other Trees] are reflected by [/EN#229538/scene a thin layer of water] on [/EN#229544/other the cement] .
+[/EN#229542/people Person] walking across [/EN#229538/scene a large puddle of water] in [/EN#229540/scene a park] .
+[/EN#229541/people People] sit and walk outside near [/EN#229538/scene the water] .
+[/EN#229537/people Man] walking through [/EN#229538/scene large puddle of water] .

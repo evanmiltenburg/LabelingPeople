@@ -1,0 +1,5 @@
+[/EN#164070/people Two people] are singing while [/EN#0/notvisual one of them] is playing [/EN#164071/instruments a guitar]
+[/EN#164070/people Two men] are singing together and [/EN#164072/other one] is playing [/EN#164071/instruments guitar] .
+[/EN#164072/people A man] playing [/EN#164071/instruments a guitar] and singing with [/EN#164074/people another man]
+[/EN#164070/people Two young men] are singing with [/EN#164075/other emotion] .
+[/EN#164070/people Two men] singing [/EN#164072/other one] with [/EN#164071/instruments a guitar] .

@@ -1,0 +1,5 @@
+[/EN#98254/animals Two large black dogs] , [/EN#98256/animals one small black dog] , and [/EN#98257/animals one large white dog] are standing in [/EN#98258/scene some snow] .
+[/EN#98254/animals Two black dogs] , [/EN#98256/animals a black puppy] , and [/EN#98257/animals a white dog] in [/EN#98258/scene the snow] .
+[/EN#98254/animals three black dogs] and [/EN#98257/animals a white dog] are standing in [/EN#98258/scene the snow] .
+[/EN#98254/animals A group of dogs] stand in [/EN#98258/scene the snow] .
+[/EN#98259/animals Four dogs] stand in [/EN#98258/scene the snow] .

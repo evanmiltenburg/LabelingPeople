@@ -1,0 +1,5 @@
+[/EN#224057/people A firefighter] , in [/EN#224062/clothing full uniform] , looks off into [/EN#0/notvisual the distance] .
+[/EN#224057/people Firefighter] gazes upward as [/EN#224060/people fellow fireman] looks on .
+[/EN#224057/people Fireman] standing in front of [/EN#224058/vehicles a white truck] at [/EN#224061/scene night] .
+[/EN#224057/people A fireman] gazes out around [/EN#0/notvisual him] in [/EN#224063/other deep thought] .
+[/EN#224057/people a fireman] starring to [/EN#0/notvisual the distance] next to [/EN#224058/vehicles a car]

@@ -1,0 +1,5 @@
+[/EN#156529/people A man] in [/EN#156535/clothing a cap] and [/EN#156531/clothing a blue plaid button-down shirt] is holding [/EN#156532/other a bird cage] with [/EN#156537/scene a bird inside] .
+[/EN#156529/people A man] is holding [/EN#156532/other a yellow bird cage] with [/EN#156530/animals a parrot] inside .
+[/EN#156529/people A man] in [/EN#156531/clothing a blue shirt] carrying [/EN#156530/animals a bird] in [/EN#156532/other a yellow cage] .
+[/EN#156529/people A man] plays [/EN#156532/other an organ grinder] with [/EN#156530/animals a toy bird] in [/EN#156532/other a cage] .
+[/EN#156529/people a guy] playing [/EN#156536/other his music bow] while petting [/EN#156530/animals a bird] .

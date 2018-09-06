@@ -1,0 +1,5 @@
+[/EN#78354/people Two people] wearing [/EN#78355/clothing green raincoats] sit in [/EN#78356/people/scene blue bleachers] [/EN#0/notvisual that] are otherwise empty .
+[/EN#78354/people The two people] wearing [/EN#78355/clothing green] are sitting down and surrounded by [/EN#78356/scene empty seats] .
+[/EN#78357/scene Empty seats] at [/EN#78358/scene a stadium] , except for [/EN#78354/people two people] in [/EN#78355/clothing green rain ponchos] .
+[/EN#78354/people Two people] in [/EN#78355/clothing green] sit in [/EN#78357/scene an otherwise empty stadium] .
+[/EN#78354/people Two lonely fans] in [/EN#78355/clothing green ponchos] sit in [/EN#78357/scene a stadium] .

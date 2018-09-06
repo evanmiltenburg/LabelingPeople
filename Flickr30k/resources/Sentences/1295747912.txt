@@ -1,0 +1,5 @@
+[/EN#7666/people A woman] is staring outside to [/EN#7667/people a man] in [/EN#7669/clothing a gray jacket] not looking back at [/EN#0/notvisual her] .
+[/EN#7666/people A woman] bites [/EN#7670/bodyparts her fingernails] and looks at [/EN#7667/people a man] through [/EN#7668/other a window] .
+[/EN#7666/people A woman] looking at [/EN#7667/people a stranger] through [/EN#7668/vehicles/scene the glass of the bus] .
+[/EN#7666/people a female] looking out [/EN#7668/other the window] as [/EN#7667/people a male] looks in .
+[/EN#7666/people Woman] looking out [/EN#7668/other the window] at [/EN#7667/people a man] .

@@ -1,0 +1,5 @@
+[/EN#137698/people A man] in [/EN#137699/clothing a blue shirt] is in [/EN#137705/scene the parking lot] next to [/EN#137701/vehicles a white truck] and [/EN#137706/scene metal building] .
+[/EN#137702/people The view of a man] with [/EN#137707/bodyparts a shaved head] and [/EN#137699/clothing blue shirt] through [/EN#137700/scene a chain-linked fence] .
+[/EN#137698/people A young male] in [/EN#137699/clothing a blue shirt] walk past [/EN#137701/vehicles a white truck] at [/EN#137700/scene a construction site] .
+[/EN#137698/people Asian man] walks behind [/EN#137700/scene a fence] , [/EN#137708/other most likely] at [/EN#137703/scene a construction yard] .
+[/EN#137698/people a man] exiting [/EN#137701/vehicles a truck] behind [/EN#137700/scene a fence]

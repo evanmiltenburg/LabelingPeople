@@ -1,0 +1,5 @@
+[/EN#58580/vehicles A cement truck] is parked on [/EN#58586/scene the side of a road] by [/EN#58581/scene a construction site] .
+[/EN#0/notvisual There] is [/EN#58580/vehicles a red and yellow cement truck] next to [/EN#58581/scene a large building] .
+[/EN#58580/vehicles Cement truck] with [/EN#58584/other a yellow mixer] parked in front of [/EN#58581/scene a building] .
+[/EN#58580/vehicles A cement truck] pours [/EN#58585/other cement] on [/EN#58582/scene the street] .
+[/EN#58580/vehicles Cement truck] on [/EN#58583/scene a construction site] .

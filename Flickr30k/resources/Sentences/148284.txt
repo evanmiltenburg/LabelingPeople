@@ -1,0 +1,5 @@
+[/EN#14515/people A man] wearing [/EN#14518/clothing a yellow shirt] and [/EN#14519/clothing black apron] is standing in front of [/EN#14516/scene an information booth] with [/EN#14520/other some newspapers] .
+[/EN#14515/people An elderly African-American man] in [/EN#14518/clothing a yellow shirt] is standing in front of [/EN#14516/scene an information stand] .
+[/EN#14515/people A man] selling or delivering [/EN#14520/other newspapers] stands in front of [/EN#14516/other a Spanish-language information sign] .
+[/EN#14515/people A man] with [/EN#14521/vehicles a newspaper cart] is standing in front of [/EN#14516/other an information sign] .
+[/EN#14515/people A man] in [/EN#14518/clothing a yellow shirt] and [/EN#14519/clothing black apron] delivering [/EN#14520/other newspapers] .

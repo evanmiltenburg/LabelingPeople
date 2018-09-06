@@ -1,0 +1,5 @@
+[/EN#138599/people A young man] with [/EN#138602/bodyparts a shaved head] and [/EN#138603/clothing glasses] is sitting at [/EN#138601/other a kitchen table] using [/EN#138600/other a computer] .
+[/EN#138599/people A man] is sitting at [/EN#138601/other a dining table] working on [/EN#138600/other a computer] .
+[/EN#138599/people A young man] sitting at [/EN#138601/other a table] in front of [/EN#138600/other his computer] .
+[/EN#138599/people A man] sitting at [/EN#138601/other a table] works on [/EN#138600/other a computer] .
+[/EN#138599/people Man] sitting at [/EN#138600/other a computer] .

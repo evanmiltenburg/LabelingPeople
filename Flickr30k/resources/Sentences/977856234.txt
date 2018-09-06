@@ -1,0 +1,5 @@
+[/EN#284769/animals A hairy dog] with [/EN#284771/clothing a pink shirt] running through [/EN#284770/scene a field]
+[/EN#284769/animals Brown dog] in [/EN#284771/clothing a pink sweater] runs on [/EN#284770/scene yellow grass] .
+[/EN#284769/animals A brown dog] in [/EN#284771/clothing a pink shirt] runs through [/EN#284770/scene a field] .
+[/EN#284769/animals A long-haired dog] wearing [/EN#284771/clothing a pink vest] and running
+[/EN#284769/animals Dog] with [/EN#284771/clothing pink jacket] running in [/EN#284770/scene field]

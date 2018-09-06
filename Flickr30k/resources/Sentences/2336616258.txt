@@ -1,0 +1,5 @@
+[/EN#42469/people A bearded man] in [/EN#42472/clothing an orange checkered shirt] examines [/EN#42471/other something] through [/EN#42470/other a microscope] .
+[/EN#42469/people A man] in [/EN#42472/clothing a plaid shirt] is examining [/EN#42471/other something] under [/EN#42470/other a microscope] .
+[/EN#42469/people A man] in [/EN#42472/clothing an orange plaid shirt] looking into [/EN#42470/other a microscope] .
+[/EN#42469/people A man] peers at [/EN#42471/other an object] through [/EN#42470/other a microscope] .
+[/EN#42469/people A guy] looking in [/EN#42470/other a microscope] .

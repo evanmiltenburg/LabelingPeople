@@ -1,0 +1,5 @@
+[/EN#204544/people An older man] sits with [/EN#204546/other his orange juice] at [/EN#204549/other a small table] in [/EN#204545/scene a coffee shop] while [/EN#204551/people employees] in [/EN#204550/clothing bright colored shirts] smile in [/EN#0/notvisual the background] .
+[/EN#204544/people A man] with [/EN#204552/clothing glasses] sitting at [/EN#204545/scene a restaurant] staring at [/EN#204554/other something] [/EN#0/notvisual that] is not shown .
+[/EN#204547/people A few people] in [/EN#204545/scene a restaurant] setting , [/EN#0/notvisual one of them] is drinking [/EN#204546/other orange juice] .
+[/EN#204544/people An older man] is drinking [/EN#204546/other orange juice] at [/EN#204545/scene a restaurant] .
+[/EN#204544/people An elderly man] is drinking [/EN#204546/other orange juice] at [/EN#204548/other a cafe] .

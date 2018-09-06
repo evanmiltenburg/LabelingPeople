@@ -1,0 +1,5 @@
+[/EN#158689/people A man] covered with [/EN#158691/clothing a red shirt] and wearing [/EN#158699/clothing sunglasses] is relaxing on [/EN#158696/scene a porch] with [/EN#158695/other a newspaper] .
+[/EN#158689/people A thin man] lies against [/EN#158700/scene the side of the street] with [/EN#158691/clothing his shirt] and [/EN#158692/clothing a shoe] off and [/EN#158693/clothing bags] nearby .
+[/EN#158689/people A man] lies in [/EN#158690/scene an alley] next to [/EN#158693/clothing two plastic bags] , wearing [/EN#158692/clothing one shoe] and [/EN#158691/clothing no shirt] .
+[/EN#158689/people A shirtless man] lies down on [/EN#158690/scene a dirty sidewalk] with [/EN#158694/other a few of his belongings] .
+[/EN#158689/people An old man] in [/EN#158697/clothing black pants] is laying on [/EN#0/notvisual the ground] .

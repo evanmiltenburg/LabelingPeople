@@ -1,0 +1,5 @@
+[/EN#56492/people A man] with [/EN#56498/clothing a navy suit] and [/EN#56493/clothing orange vest] kneels near [/EN#56495/other the door] on [/EN#56494/vehicles the inside of a public transportation vehicle] .
+[/EN#56492/people A man] [/EN#0/notvisual who] is wearing [/EN#56493/clothing a maintenance vest] is on [/EN#56494/vehicles/scene a subway or train] looking up at [/EN#56495/other the closed doors] .
+[/EN#56492/other A maintenance] working in [/EN#56493/clothing an orange vest] is looking at [/EN#56495/vehicles/scene the doors of a bus or subway] .
+[/EN#56492/people A worker] taking [/EN#56499/other a reading] on [/EN#56494/vehicles/scene a subway train] .
+[/EN#56492/people A man] is looking out of [/EN#56495/other a window] .

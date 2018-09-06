@@ -1,0 +1,5 @@
+[/EN#39054/people The two people] sit on [/EN#39055/other the bench] while [/EN#39056/people the man] in [/EN#39057/clothing the tan jacket] smokes .
+[/EN#39056/people A man] sits on [/EN#39055/other a bench] with [/EN#39058/bodyparts/people his arm] around [/EN#39059/people a lady] .
+[/EN#39056/people A man] and [/EN#39059/people a woman] sit on [/EN#39055/other a bench] [/EN#39060/scene outdoors] .
+[/EN#39056/people A man] and [/EN#39059/people woman] sit on [/EN#39055/other a park bench] .
+[/EN#39056/people A man] and [/EN#39059/people a woman] on [/EN#39055/other a bench] .

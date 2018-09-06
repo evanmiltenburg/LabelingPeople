@@ -1,0 +1,5 @@
+[/EN#191817/scene A painting of a city] with [/EN#191812/people a old person] with [/EN#191813/people a walker] , [/EN#191828/people some people] running , [/EN#191825/people a person] with [/EN#191830/vehicles a grocery cart] , [/EN#191831/animals bald eagle] in [/EN#191829/scene the sky] , and [/EN#191822/people a person] floating above [/EN#0/notvisual the ground] .
+[/EN#191812/people A older man] with [/EN#191813/people a walker] walking in front of [/EN#191818/other a colorful wall] , with [/EN#191818/other multiple things] going on [/EN#0/notvisual it] .
+[/EN#191812/people A man] with [/EN#191813/people a walker] walking on [/EN#191826/scene the sidewalk] in front of [/EN#191818/other a mural of different things] painted .
+[/EN#191818/other a mural] with [/EN#191821/other vivid colors] and [/EN#191823/other people of various ages] is displayed .
+[/EN#191812/people Woman] in [/EN#191832/clothing green cap] walks in front of [/EN#191817/other city mural] .

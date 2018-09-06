@@ -1,0 +1,5 @@
+[/EN#234919/people a small child] running along [/EN#234921/scene the grass] with [/EN#234920/other a large pilar] in [/EN#0/notvisual the background]
+[/EN#234919/people A little girl] walking on [/EN#234921/scene the green grass] in front of [/EN#234920/other a big stone] .
+[/EN#234919/people A young child] walks on [/EN#234921/scene the grass] away from [/EN#234920/other a stone monument] .
+[/EN#234919/people A small child] is in [/EN#234921/scene a grassy field] near [/EN#234920/other an old structure] .
+[/EN#234919/people a little girl] running in [/EN#234921/scene a field]

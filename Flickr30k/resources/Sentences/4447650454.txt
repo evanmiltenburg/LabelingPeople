@@ -1,0 +1,5 @@
+[/EN#169255/other A red tree] standing in front of [/EN#169257/scene a white building] with [/EN#169256/scene a white Range] Rover parked beneath [/EN#0/notvisual it] .
+[/EN#169256/vehicles A white SUV] is parked in [/EN#169263/scene front] [/EN#169257/scene a building] with [/EN#169260/other a tree] [/EN#169255/other whose trunk] is painted red .
+[/EN#169255/other A tree] [/EN#169255/vehicles whose truck] in [/EN#169266/other wrapped] in [/EN#169255/other red coverings] in front of [/EN#169261/scene a tall white building] .
+[/EN#169256/vehicles A white car] is parked next to [/EN#169255/other a tree] [/EN#0/notvisual that] has [/EN#169255/other red bark] .
+[/EN#169255/other A red tree] in front of [/EN#169257/scene a modern white building] .

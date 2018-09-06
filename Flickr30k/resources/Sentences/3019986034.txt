@@ -1,0 +1,5 @@
+[/EN#87928/people A woman] in [/EN#87930/clothing a plaid skirt] is playing [/EN#87929/instruments a violin] in [/EN#87935/scene a park-like setting] with [/EN#87934/people other band members] .
+[/EN#87928/people A woman] in [/EN#87930/clothing a plaid skirt] and [/EN#87931/clothing black top] plays [/EN#87929/instruments an electric violin] .
+[/EN#87928/people A woman] is playing [/EN#87929/instruments violin] in [/EN#87930/clothing a plaid skirt] and [/EN#87931/clothing black shirt] .
+[/EN#87928/people A woman] in [/EN#87936/other black tights] is holding [/EN#87929/instruments a fiddle] .
+[/EN#87928/people A woman] and [/EN#87932/people a man] playing [/EN#87933/instruments instruments] .

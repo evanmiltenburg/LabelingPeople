@@ -1,0 +1,5 @@
+[/EN#242227/people A man] in [/EN#242228/clothing a dark suit] stands waiting for [/EN#242235/vehicles/scene a subway train] while [/EN#242227/people a man] in [/EN#242229/clothing a red shirt] and [/EN#242230/clothing jeans] stands waiting on [/EN#242238/scene the opposite side of the tracks] .
+[/EN#242227/people A man] stands in [/EN#242229/clothing a red shirt] and [/EN#242230/clothing blue jeans] facing [/EN#242227/people a man] in [/EN#242228/clothing black] across [/EN#242239/scene tracks] with [/EN#242233/scene an escalator] in [/EN#0/notvisual the background] .
+[/EN#242227/people Man] in [/EN#242228/clothing dark suit] stands at [/EN#242237/other edge of train platform] .
+[/EN#242231/people People] in [/EN#242234/scene a subway station] waiting for [/EN#242236/vehicles/scene the train] .
+[/EN#242227/people A man] in [/EN#242228/clothing a suit] is awaiting [/EN#242240/vehicles mass transit] .

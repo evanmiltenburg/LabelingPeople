@@ -1,0 +1,5 @@
+[/EN#131689/animals A white dog] with [/EN#131690/scene a brown patch] over [/EN#131693/bodyparts his eye] runs through [/EN#131691/scene a grassy field] covered in [/EN#131692/other dandelions] .
+[/EN#131689/animals A brown and white dog] is running with [/EN#131694/scene its mouth open] accross [/EN#131691/scene a field] .
+[/EN#131689/animals A brown and white dog] running in [/EN#131691/scene a field] covered in [/EN#131692/other yellow flowers] .
+[/EN#131689/animals A white dog] with [/EN#131690/scene a spot] on [/EN#131693/bodyparts his eye] running through [/EN#131691/scene a meadow] .
+[/EN#131689/animals A dog] running toward [/EN#0/notvisual the camera] in [/EN#131691/scene a field] .

@@ -1,0 +1,5 @@
+[/EN#55765/vehicles A sponsored race car] is spinning [/EN#55769/other its tires] on [/EN#55767/scene a track] while being watched by [/EN#55766/people spectators] .
+[/EN#55765/vehicles A race car] drives on [/EN#55767/scene a track] while [/EN#55766/people several people] watch from behind [/EN#55770/other rope] .
+[/EN#55766/people Onlookers] watch [/EN#55765/vehicles a white stock car] [/EN#0/notvisual that] has [/EN#55771/other smoke] coming out of [/EN#55772/other the back] .
+[/EN#55765/vehicles A race car] screeches through [/EN#55768/other a turn] as [/EN#55766/people spectators] watch .
+[/EN#55765/vehicles A race car] blows smoke while [/EN#0/notvisual it] drives .

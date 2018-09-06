@@ -1,0 +1,5 @@
+[/EN#36268/people A man] with [/EN#36269/clothing glasses] and [/EN#36270/people a woman] wearing [/EN#36271/clothing a hat] [/EN#0/notvisual that] looks like [/EN#36277/animals a dog] are outside in [/EN#36272/scene the snow] .
+[/EN#36270/people A woman] with [/EN#36271/clothing a panda hat] and [/EN#36273/clothing headphones] is in front of [/EN#36268/people a man] outside in [/EN#36272/scene the snow] .
+[/EN#36268/people A man] walks next to [/EN#36270/people the girl] wearing [/EN#36273/clothing headphones] on [/EN#36275/scene a winters day] .
+[/EN#36268/people A guy] is staring at [/EN#36270/people a blond lady] in [/EN#36274/clothing a blue jacket] .
+[/EN#36268/people A man] stands next to [/EN#36270/people a lady] with [/EN#36271/clothing a dog hat] .

@@ -1,0 +1,5 @@
+[/EN#20124/people Many member of a sports league] , [/EN#20128/other some] in [/EN#20130/clothing white] and some in [/EN#20127/clothing red stripes] , walk about on [/EN#20125/scene a green grassy field] .
+[/EN#20124/people A group of soccer players] gathered on [/EN#20125/scene a soccer field] .
+[/EN#20124/people two soccer team] on [/EN#20125/scene a soccer field] with [/EN#20129/people the referee] .
+[/EN#20124/people Two soccer teams] walking on [/EN#20125/scene a soccer field] .
+[/EN#20124/people Two soccer teams] yelling at [/EN#0/notvisual one another] .

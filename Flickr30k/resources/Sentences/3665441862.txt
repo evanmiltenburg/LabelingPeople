@@ -1,0 +1,5 @@
+[/EN#135219/people A caucasian toddler] in [/EN#135221/clothing a pink hat] has [/EN#135225/bodyparts her hands] on top of [/EN#135220/scene a low chain link fence] and is trying to climb [/EN#0/notvisual it] .
+[/EN#135219/people A girl] wearing [/EN#135221/clothing a pink hat] and [/EN#135222/clothing gray pants] climbing [/EN#135220/scene a chain link fence] .
+[/EN#135219/people A young girl] wearing [/EN#135221/clothing a pink hat] and [/EN#135224/clothing shirt] is climbing [/EN#135220/scene a fence] .
+[/EN#135219/people A little girl] in [/EN#135223/clothing pink] climbing [/EN#135220/scene a fence] .
+[/EN#135219/people A child] climbing [/EN#135220/scene a fence] .

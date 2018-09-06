@@ -1,0 +1,5 @@
+[/EN#24224/people Men] in [/EN#24232/people white painters] [/EN#24230/clothing ' clothes] are painting [/EN#24226/clothing a railing blue] on [/EN#24229/scene a pier] .
+[/EN#24225/people Three men] wearing [/EN#24227/clothing white uniforms] are painting [/EN#24226/clothing a metal guard rail blue] .
+[/EN#24225/people Three men] in [/EN#24227/clothing white] are painting [/EN#24226/clothing the railing of the pier blue] .
+[/EN#24224/people Three men] dressed in [/EN#24228/other all white paint] [/EN#24226/clothing a railing blue] .
+[/EN#24225/people Three painters] are painting [/EN#24226/scene the railings of a pier] .

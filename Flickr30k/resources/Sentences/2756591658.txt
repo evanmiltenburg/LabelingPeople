@@ -1,0 +1,5 @@
+[/EN#70854/people A woman] in [/EN#70858/clothing a swimsuit] is standing on top of [/EN#70855/scene the cliff] taking [/EN#70856/people a photograph of the man] carrying [/EN#70857/clothing the backpack] .
+[/EN#70854/people A woman] takes [/EN#70856/people a picture of a man] on [/EN#70855/scene the edge of a cliff] .
+[/EN#70853/people Two people] are standing on [/EN#70855/scene a cliff] in [/EN#70859/scene the summer] .
+[/EN#70853/people The couple] takes [/EN#70860/other a hike] along [/EN#70861/other the bluff] .
+[/EN#70853/people two people] on [/EN#70855/scene the top of a cliff]

@@ -1,0 +1,5 @@
+[/EN#1789/people A young man] is walking through [/EN#1792/scene a busy street] beside [/EN#1797/other a mall] .
+[/EN#1788/people Woman] in [/EN#1793/clothing a pink hat] walking with [/EN#1789/people a man] in [/EN#1796/clothing a gray sweater] .
+[/EN#1794/people An Asian couple] walks in [/EN#1791/scene the shopping district] .
+[/EN#1788/people A woman] in [/EN#1793/clothing a pink hat] strolls along [/EN#1790/scene sidewalk] .
+[/EN#1795/people Several people] are walking around outside .

@@ -1,0 +1,5 @@
+[/EN#138650/people A man] wearing [/EN#138651/clothing an orange helmet] is sitting on [/EN#138652/scene a crane seat] looking down .
+[/EN#138650/people A man] wearing [/EN#138653/clothing an orange shirt] and [/EN#138651/clothing helmet] is suspended in [/EN#0/notvisual the air] .
+[/EN#138650/people A construction worker] with [/EN#138651/clothing an orange hat] on [/EN#138654/other a pulley] .
+[/EN#138650/people A man] with [/EN#138651/clothing construction hat] on [/EN#138655/other attached] to [/EN#138656/clothing harness] .
+[/EN#138650/people A construction worker] looks down at [/EN#138657/scene his work site] .

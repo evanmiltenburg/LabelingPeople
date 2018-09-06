@@ -1,0 +1,5 @@
+[/EN#23320/people A guy] with [/EN#23321/clothing a red shirt] and [/EN#23322/clothing black apron] on working standing with [/EN#23328/bodyparts his hand] in [/EN#23323/vehicles a shopping cart] .
+[/EN#23320/people A retail professional] pauses while interacting with [/EN#23324/people customers] .
+[/EN#23320/people A grocery store clerk] smiling in front of [/EN#23325/other isles of product] .
+[/EN#23320/people A man] in [/EN#23322/clothing his work uniform] with [/EN#23326/clothing glasses] .
+[/EN#23320/people A cashier] at [/EN#23327/scene a grocery store] .

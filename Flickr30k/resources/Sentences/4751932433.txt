@@ -1,0 +1,5 @@
+[/EN#198672/people Two men] wearing [/EN#198682/clothing white coats] and standing next to [/EN#198681/scene sheet] talk to [/EN#0/notvisual each other] while [/EN#198679/people a woman] wearing [/EN#198678/clothing a wicker hat] and [/EN#198677/clothing a white coat] stands with [/EN#198671/animals sheep] looks at [/EN#198680/people a woman] in [/EN#198669/clothing a white coat] and [/EN#198674/people a man] wearing [/EN#198670/clothing a white coat] and [/EN#198683/clothing white hat] both standing next to [/EN#198667/animals sheep] .
+[/EN#198668/people Five men] [/EN#198673/other all of whom] are wearing [/EN#198669/clothing white coats] are standing next to [/EN#198671/animals lambs] in [/EN#198675/scene an enclosed area]
+[/EN#198668/people 5 people] in [/EN#198684/clothing white lab coats] are standing over [/EN#198667/animals 5 sheep]
+[/EN#198668/people a group of people] in [/EN#198670/clothing white coats] holding [/EN#198667/animals sheep] .
+[/EN#198668/people People] are judging [/EN#198667/animals sheep] at [/EN#198676/scene a state fair] .

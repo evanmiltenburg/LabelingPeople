@@ -1,0 +1,5 @@
+[/EN#64578/people A little girl] in [/EN#64580/clothing a purple t-shirt] feeds [/EN#64579/animals an animal] .
+[/EN#64578/people The girl] is at [/EN#64581/scene a petting zoo] and feeding [/EN#64579/animals a camel] .
+[/EN#64578/people A young girl] feeding [/EN#64579/animals a camel] .
+[/EN#64578/people A girl] is feeding [/EN#64579/animals a camel]
+[/EN#64578/people A little girl] feeds [/EN#64579/animals a camel]

@@ -1,0 +1,5 @@
+[/EN#47924/people Two construction workers] in [/EN#47927/clothing orange vests] and [/EN#47926/clothing green hats] are smoothing out [/EN#47925/other wet cement] .
+[/EN#47924/people Two men] with [/EN#47927/clothing red vests] and [/EN#47926/clothing green hats] smoothing out [/EN#47925/other wet cement]
+[/EN#47924/people Two construction workers] in [/EN#47926/clothing green helmets] are at [/EN#47930/other work] .
+[/EN#47924/people Two men] [/EN#47925/scene smooth pavement] next to [/EN#47929/scene some train tracks] .
+[/EN#47924/people The two man] is busy cementing [/EN#47925/scene the road] .

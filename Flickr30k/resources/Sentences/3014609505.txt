@@ -1,0 +1,5 @@
+[/EN#87355/people Four men] in [/EN#87368/clothing blue soccer uniforms] on [/EN#87360/scene a soccer field] , where [/EN#87361/other one] is holding [/EN#87358/other a ball] and listening to [/EN#87354/people a man] in [/EN#87359/clothing a black outfit] .
+[/EN#87355/people Four players] on [/EN#87356/people a soccer team] stand on [/EN#87360/scene a field] while [/EN#0/notvisual one of them] holds [/EN#87358/other the yellow ball] and talks to [/EN#87354/people the referee] .
+[/EN#87356/people Soccer players] out on [/EN#87360/scene the field] dressed in [/EN#87362/clothing blue] getting [/EN#87364/other cues] from [/EN#87354/people the ref] dressed in [/EN#87359/clothing black] .
+[/EN#87354/people A soccer referee] points as [/EN#0/notvisual he] directs [/EN#87361/people a soccer player] in [/EN#87362/clothing blue] during [/EN#87367/other a soccer game] .
+[/EN#87354/people A referee] pointing while [/EN#87361/people a soccer player] looks on .

@@ -1,0 +1,5 @@
+[/EN#214122/scene A man of perhaps Indian descent] is standing in [/EN#214124/scene an outdoor market] in front of [/EN#214123/other a variety of produce] .
+[/EN#214122/people Man] in [/EN#214126/clothing red and white striped shirt] points left while standing near [/EN#214123/other a display of produce] .
+[/EN#214122/people A man] stands in [/EN#214124/scene a market] amongst [/EN#214123/other vegetables] and [/EN#214127/clothing t-shirts] pointing to [/EN#214125/scene his left] .
+[/EN#214122/people A man] stands in front of [/EN#214123/other a vegetable display] .
+[/EN#214122/people A man] [/EN#0/notvisual who] appears to be buying [/EN#214123/other vegetables] .

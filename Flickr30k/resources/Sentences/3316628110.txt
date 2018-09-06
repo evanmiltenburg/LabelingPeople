@@ -1,0 +1,5 @@
+[/EN#108893/vehicles A colorful truck] unloads into [/EN#108895/scene a lake] across from [/EN#108898/other a tent camp] .
+[/EN#108894/people Three men] stand on [/EN#108901/vehicles the bed of a truck] in front of [/EN#108895/scene a lake] .
+[/EN#108893/vehicles a truck] is backed up to [/EN#108895/scene water] with [/EN#108894/people two men] on [/EN#108900/other the back] .
+[/EN#108893/vehicles A truck] on [/EN#108897/scene a mound of dirt] is backed up to [/EN#108895/scene a lake] .
+[/EN#108894/people 2 people] putting [/EN#108899/other something] in [/EN#108895/scene the river] .

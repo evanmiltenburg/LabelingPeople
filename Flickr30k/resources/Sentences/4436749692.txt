@@ -1,0 +1,5 @@
+[/EN#167958/people A man] is sitting while [/EN#0/notvisual he] reads [/EN#167960/other the Times Sport newspaper] .
+[/EN#167958/people A man] in [/EN#167959/clothing a light blue shirt] outside reading [/EN#167960/other a newspaper] .
+[/EN#167958/people A man] in [/EN#167959/clothing a blue shirt] reads through [/EN#167960/other a newspaper] .
+[/EN#167958/people A man] in [/EN#167959/clothing a blue shirt] is reading [/EN#167960/other the newspaper] .
+[/EN#167958/people Man] in [/EN#167959/clothing blue shirt] reading [/EN#167960/other newspaper]

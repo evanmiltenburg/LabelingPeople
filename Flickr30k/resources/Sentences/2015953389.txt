@@ -1,0 +1,5 @@
+[/EN#25009/people 3 workers] in [/EN#25012/clothing blue shirts] are cleaning [/EN#25016/other windows] on [/EN#25011/other a platform] .
+[/EN#25014/other Three window] washers in [/EN#25012/clothing blue uniforms] work on [/EN#25011/other scaffolding] .
+[/EN#25013/people Four men] work on [/EN#25011/other a scaffolding] outside of [/EN#25010/scene a building] .
+[/EN#25009/people 3 workers] work on [/EN#25010/scene the side of a building]
+[/EN#25009/people Workers] standing on [/EN#25011/scene a lift] .

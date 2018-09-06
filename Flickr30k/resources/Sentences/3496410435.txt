@@ -1,0 +1,5 @@
+[/EN#122571/people An oriental man] and [/EN#122574/people woman] riding [/EN#122572/vehicles a two-seat bicycle] down [/EN#122573/scene a road] .
+[/EN#122571/people A man] and [/EN#122574/people a woman] riding [/EN#122572/vehicles a double bicycle] together .
+[/EN#122571/people A man] and [/EN#122574/people a woman] riding [/EN#122572/vehicles a bike] down [/EN#122573/scene the street] .
+[/EN#122575/people A couple] is riding [/EN#122572/vehicles a bicycle] built for [/EN#122576/other two] .
+[/EN#122571/people A man] and [/EN#122574/people woman] ride [/EN#122572/vehicles a tandem bicycle] .

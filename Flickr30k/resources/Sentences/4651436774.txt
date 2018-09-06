@@ -1,0 +1,5 @@
+[/EN#186850/people A woman] in [/EN#186855/clothing a white tank top] and [/EN#186856/clothing khaki colored pants] walks up [/EN#186851/scene an outdoor flight of stairs] .
+[/EN#186852/other This walkway built of wooden planks] with [/EN#186851/other metal handrail] is in [/EN#186854/other a wooded environment] .
+[/EN#186850/people A woman] wearing [/EN#186857/clothing a white top] and [/EN#186856/clothing tan pants] runs across [/EN#186851/scene a bridge] through [/EN#186854/scene a forest] .
+[/EN#186850/people A woman] in [/EN#186855/clothing a white outfit] is walking up [/EN#186851/other stairs] .
+[/EN#186850/people Woman] climbing [/EN#186851/scene stairs outdoors] .

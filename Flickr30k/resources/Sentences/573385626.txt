@@ -1,0 +1,5 @@
+[/EN#242022/people A man] in [/EN#242024/clothing a black winter jacket] sitting on [/EN#242023/vehicles a bike] talking to [/EN#242025/people a female street vendor] .
+[/EN#242021/scene A crowded Asian street] with [/EN#242028/other a table] set up selling [/EN#242026/other food] and [/EN#242022/people a man] on [/EN#242023/vehicles a bike] .
+[/EN#242022/people A man] in [/EN#242024/clothing a black jacket] on [/EN#242023/vehicles a bike] talks to [/EN#242025/people a seated woman] on [/EN#242021/scene a busy street] .
+[/EN#242022/people A man] on [/EN#242023/vehicles a bicycle] is talking to [/EN#242025/people a woman] [/EN#0/notvisual who] is sitting behind [/EN#242029/other some tables] .
+[/EN#242022/people man] on [/EN#242023/vehicles a bike] sitting in front of [/EN#242027/scene a stand] with [/EN#242026/other food]

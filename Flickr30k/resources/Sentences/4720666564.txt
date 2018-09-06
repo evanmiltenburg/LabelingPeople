@@ -1,0 +1,5 @@
+[/EN#195135/scene A street of brown stone buildings] behind [/EN#195139/scene a black fence] with [/EN#195138/other a banner] reading " dick [/EN#195141/other bruna] huis " on [/EN#0/notvisual them] .
+[/EN#195134/scene A red brick building] on [/EN#195135/scene a street] with [/EN#195146/people very few people] and [/EN#195147/vehicles a bicycle] next to [/EN#195145/other the door] .
+[/EN#195136/other A brick] covered [/EN#195144/scene road] is [/EN#195134/scene outside of a large tan building] with [/EN#195140/other a cm studio sign] .
+[/EN#195137/scene Blue sky] with [/EN#195142/other fluffy white clouds] over [/EN#195134/scene a brick building] .
+[/EN#195135/scene A view of a street] lined with [/EN#195135/scene large , clean buildings] .

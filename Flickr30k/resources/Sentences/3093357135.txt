@@ -1,0 +1,5 @@
+[/EN#93002/people A guy] riding [/EN#93003/vehicles a police motorbike] , wearing [/EN#93004/clothing a yellow safety jacket] , is making [/EN#93005/other a stop gesture] .
+[/EN#93002/people A policeman] wearing [/EN#93004/clothing a yellow reflective jacket] riding [/EN#93003/other a motorcycle] waving to [/EN#0/notvisual the camera] .
+[/EN#93002/people A policeman] gestures from [/EN#93003/other his motorcycle] while riding through [/EN#93007/other a traffic circle] .
+[/EN#93002/people A man] with [/EN#93004/clothing a bright yellow jacket] is riding [/EN#93003/other a motorcycle] labeled " [/EN#93002/people police] . "
+[/EN#93002/people An officer] on [/EN#93003/other a motorcycle] holding up [/EN#93005/other the STOP signal] with [/EN#93009/other his had] .

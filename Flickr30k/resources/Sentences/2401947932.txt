@@ -1,0 +1,5 @@
+[/EN#46611/people Two males] are riding [/EN#46612/animals an elephant] throw [/EN#46614/scene a path] from [/EN#46613/scene a river] .
+[/EN#46611/people Two kids] are having [/EN#46612/other an elephant ride] along [/EN#46613/scene a river] .
+[/EN#46611/people Two people] riding [/EN#46612/animals an elephant] through [/EN#46613/scene a river] .
+[/EN#46608/people A boy] and [/EN#46610/people a man] cross [/EN#46613/scene a river] on [/EN#46612/animals an elephant] .
+[/EN#46610/people A man] and [/EN#46608/people child] ride [/EN#46612/animals an elephant] .

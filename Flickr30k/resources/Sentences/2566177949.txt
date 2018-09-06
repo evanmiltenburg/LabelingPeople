@@ -1,0 +1,5 @@
+[/EN#58519/people Women] wearing [/EN#58526/clothing blue jean] and [/EN#58527/clothing blue shirt] walking down [/EN#58521/scene the road] with [/EN#58525/other trees] on [/EN#58524/scene both sides of the road] .
+[/EN#58519/people A person] walks down [/EN#58521/scene a paved path] , away from [/EN#0/notvisual the camera] , through [/EN#58522/scene a wooded area] .
+[/EN#58519/people A person] dressed in [/EN#58520/clothing all blue] walks down [/EN#58521/scene a road] with [/EN#58525/other tall trees] on [/EN#0/notvisual either side] .
+[/EN#58519/people A person] in [/EN#58520/clothing dark blue] walks down [/EN#58521/scene a path] between [/EN#58525/other trees] .
+[/EN#58519/people A person] walking down [/EN#58521/scene a wooded path] .

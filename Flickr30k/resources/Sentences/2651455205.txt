@@ -1,0 +1,5 @@
+[/EN#63932/people A little girl] and [/EN#63933/people boy] are sitting on [/EN#63935/other a wooden box] reading [/EN#63936/other books] .
+[/EN#63933/people A young boy] and [/EN#63932/people girl] sit on [/EN#63935/other a blue bench] while reading [/EN#63936/other books] .
+[/EN#63934/people Two children] are sitting [/EN#0/notvisual side] by [/EN#0/notvisual side] and looking at [/EN#63936/other books] .
+[/EN#63934/people Two toddlers] are sitting down and reading [/EN#63936/other picture books] .
+[/EN#63932/people A little girl] and [/EN#63933/people boy] sit while reading [/EN#63936/other books] .

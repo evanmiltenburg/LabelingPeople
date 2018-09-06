@@ -1,0 +1,5 @@
+[/EN#26650/people A person] is walking on [/EN#26653/scene a sidewalk] and [/EN#26651/other a skeleton] is on [/EN#26654/scene the left inside of a fence] .
+[/EN#26650/people A woman] walks down [/EN#26653/scene a sidewalk] past [/EN#26651/other a Halloween decoration] .
+[/EN#26651/other A skeleton] sits on [/EN#26652/scene a fence] on [/EN#26653/scene the edge of a road] .
+[/EN#0/notvisual There] is [/EN#26651/other a large skeleton] behind [/EN#26652/scene a fence] .
+[/EN#26651/other a skeleton] sits on [/EN#26655/scene the bushes] .

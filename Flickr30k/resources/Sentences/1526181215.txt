@@ -1,0 +1,5 @@
+[/EN#15629/animals A little dog] with [/EN#15631/people a redhead] is jumping into [/EN#15630/scene the water] .
+[/EN#15629/animals A dog] is jumping into [/EN#15630/scene the water] .
+[/EN#15629/animals A small dog] leaps in [/EN#15630/scene the water] .
+[/EN#15629/animals Small dog] jumping into [/EN#15630/scene water] .
+[/EN#15629/animals a dog] jumps into [/EN#15630/scene the water] .

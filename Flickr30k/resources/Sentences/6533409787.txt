@@ -1,0 +1,5 @@
+[/EN#255340/people A woman] with [/EN#255344/clothing glasses] and [/EN#255345/bodyparts her hair] in [/EN#255346/bodyparts a braid] and [/EN#255341/people a girl] wearing [/EN#255347/clothing a hoodie] and [/EN#255348/clothing jeans] are standing in [/EN#255336/scene a kitchen] drying [/EN#255339/other sheets of glass or plastic] while [/EN#255335/animals a brown dog] follows [/EN#255342/people another person] out [/EN#255343/other the door] .
+[/EN#255334/people Two women] standing in [/EN#255336/scene a kitchen] posing for [/EN#0/notvisual the camera] while [/EN#255335/animals a dog] walks past [/EN#0/notvisual them] .
+[/EN#255334/people Two ladies] are posing for [/EN#0/notvisual the camera] as [/EN#0/notvisual they] are washing [/EN#255337/other dishes] .
+[/EN#255334/people Two women] stand in [/EN#255336/scene a kitchen] and wipe down [/EN#255338/other trays]
+[/EN#255334/people two ladies] in [/EN#255336/scene the kitchen] cleaning [/EN#255337/other glass] .

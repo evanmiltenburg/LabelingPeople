@@ -1,0 +1,5 @@
+[/EN#224239/people A man] holding [/EN#224240/clothing a plastic bag] walks down [/EN#224241/scene the sidewalk] wearing [/EN#224243/clothing a white tank top] and [/EN#224244/clothing black pants] .
+[/EN#224239/people A man] is carrying [/EN#224240/clothing a white bag] and walking down [/EN#224242/other a tree] lined [/EN#224241/scene street] .
+[/EN#224239/people An old Asian man] walks with [/EN#224240/clothing a filled bag] down [/EN#224241/scene the sidewalk] .
+[/EN#224239/people a man] walking down [/EN#224241/scene a shady street] with [/EN#224240/clothing a shopping bag] .
+[/EN#224239/people Man] carrying [/EN#224240/other groceries] on [/EN#224241/scene a neighborhood sidewalk] .

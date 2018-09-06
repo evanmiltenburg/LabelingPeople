@@ -1,0 +1,5 @@
+[/EN#166684/people A man] leaning against [/EN#166686/other a counter] next to [/EN#166687/other an open door] .
+[/EN#166684/people A man] in [/EN#166685/clothing a black shirt] leaning on [/EN#166686/other a counter]
+[/EN#166684/people A man] in [/EN#166685/clothing a black shirt] leans on [/EN#166686/other a counter] .
+[/EN#166684/people A man] is leaning on [/EN#166686/other a counter] .
+[/EN#166684/people A man] leans against [/EN#166686/other a table] .

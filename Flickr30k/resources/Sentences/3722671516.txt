@@ -1,0 +1,5 @@
+[/EN#139653/vehicles A red and white car] is parked in front of [/EN#139658/people/scene bleachers] full of [/EN#139659/people people] .
+[/EN#139653/vehicles A nice red and white car] is being tended to at [/EN#139655/other a racetrack] .
+[/EN#139653/vehicles A race car] colored in [/EN#139653/clothing red and white] awaits to start [/EN#139657/other a race] .
+[/EN#139656/people Men] working on [/EN#139653/vehicles a red and white car] at [/EN#139660/scene a race car event] .
+[/EN#139653/other A red and white hot rod] comes onto [/EN#139655/other the racetrack] .

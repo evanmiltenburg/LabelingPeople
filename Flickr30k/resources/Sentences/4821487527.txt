@@ -1,0 +1,5 @@
+[/EN#207090/people A police officer] on [/EN#207091/other a motorcycle] sitting at [/EN#207092/other a traffic light] to turn left .
+[/EN#207090/people Police] on [/EN#207091/other motorcycle] , in turning [/EN#207094/scene land] , waiting at [/EN#207092/other stoplight]
+[/EN#207090/people A motorcycle cop] is getting ready to turn onto [/EN#207093/scene a new road] .
+[/EN#207090/people A policeman] is on [/EN#207091/vehicles a bike] waiting for [/EN#207092/other the light] to change .
+[/EN#207091/other Police motorcycle] waiting at [/EN#207092/other a red light] .

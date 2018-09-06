@@ -1,0 +1,5 @@
+[/EN#77909/people A young boy] standing in [/EN#77912/other the sand] next to [/EN#77910/other a sculpture of a pyramid] [/EN#0/notvisual that] made out of [/EN#77911/other the sand] .
+[/EN#77909/people A young boy] is standing next to [/EN#77910/other a sand sculpture of a pyramid] .
+[/EN#77909/people A little boy] is standing by [/EN#77910/scene a sand castle] .
+[/EN#77909/people A young boy] stands near [/EN#77910/other a sand pyramid] .
+[/EN#77909/people A child] standing near [/EN#77910/other a sand pyramid]

@@ -1,0 +1,5 @@
+[/EN#229313/people A tennis player] with [/EN#229320/clothing a blue headband] and [/EN#229314/clothing blue shirt] , is hitting [/EN#229315/other a tennis ball] with [/EN#229322/other a racket] .
+[/EN#229313/other Roger Federer] strikes [/EN#229317/other a tennis ball] with [/EN#229321/other a forehand swing] on [/EN#229324/scene a tennis court] .
+[/EN#229313/people A young man] in [/EN#229314/clothing a blue shirt] with [/EN#229318/other white shorts volleys] [/EN#229315/other a tennis ball] .
+[/EN#229313/people A man] wearing [/EN#229314/clothing a blue shirt] and [/EN#229318/clothing white shorts] playing [/EN#229316/other tennis] .
+[/EN#229313/people Man] in [/EN#229314/clothing blue shirt] and [/EN#229318/clothing white shorts] playing [/EN#229317/other tennis] .

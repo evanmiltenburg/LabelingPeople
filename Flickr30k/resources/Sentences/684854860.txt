@@ -1,0 +1,5 @@
+[/EN#259228/people Two men] in [/EN#259229/vehicles/scene a boat] are clearing [/EN#259233/other leaves] out of [/EN#259234/scene water] .
+[/EN#259228/people Two men] on [/EN#259229/vehicles/scene a small boat] in [/EN#259230/scene the river] are working .
+[/EN#259231/people A man] is getting ready to go out on [/EN#259229/vehicles/scene a boat] .
+[/EN#259228/people Two men] are on [/EN#259229/vehicles/scene a boat] cleaning [/EN#259230/scene the water] .
+[/EN#259228/people Two workers] in [/EN#259232/other a boat rake] [/EN#259230/scene a pond]

@@ -1,0 +1,5 @@
+[/EN#181896/people A man] in [/EN#181901/clothing a yellow and blue jacket] talking to [/EN#181897/people a lady] in [/EN#181898/clothing a brown and white striped shirt] .
+[/EN#181896/people A man] wearing [/EN#181901/clothing a yellow jacket] meets with [/EN#181897/people a woman] by [/EN#181904/scene the street] to have [/EN#181899/other a conversation] .
+[/EN#181897/people A woman] in [/EN#181898/clothing a striped shirt] looking at [/EN#181896/people a man] in [/EN#181901/clothing a yellow and blue coat] .
+[/EN#181896/people A man] in [/EN#181901/clothing a yellow and blue track jacket] asking [/EN#181897/people a woman] for [/EN#181900/other help] .
+[/EN#181896/people A man] in [/EN#181898/clothing a striped shirt] is looking down at [/EN#181903/other something] .

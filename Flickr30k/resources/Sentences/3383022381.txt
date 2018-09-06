@@ -1,0 +1,5 @@
+Striding past [/EN#114480/scene a parking garage] [/EN#114478/people a man] wearing [/EN#114485/clothing dark gray dress pants] , [/EN#114479/clothing a light blue long-sleeved dress shirt] , [/EN#114483/clothing a slightly darker blue tie] and [/EN#114488/other sunglasses glances] up from [/EN#114481/other the papers] [/EN#0/notvisual he] holds in [/EN#114489/bodyparts his right hand] .
+[/EN#114478/people A young man] wearing [/EN#114484/clothing suit] , tie , and [/EN#114487/clothing sunglasses] is walking down [/EN#114482/scene a sidewalk] holding [/EN#114481/other a piece of paper] up in reading [/EN#114486/other fashion] .
+[/EN#114478/people A young businessman] walking past [/EN#114480/scene a parking garage] while looking at [/EN#114481/other some papers] .
+[/EN#114478/people A man] in [/EN#114484/clothing business attire] walking down [/EN#114482/scene a street] holding [/EN#114481/other several sheets of paper] .
+[/EN#114478/people A man] in [/EN#114479/clothing a blue shirt] and [/EN#114483/clothing blue tie] is walking down [/EN#114482/scene the street] reading [/EN#114481/other papers] .

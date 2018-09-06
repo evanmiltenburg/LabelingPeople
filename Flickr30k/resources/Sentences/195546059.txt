@@ -1,0 +1,5 @@
+[/EN#24003/people A man] wearing [/EN#24004/clothing a white short-sleeve shirt] is standing in front of [/EN#24005/scene an elevator shaft] with [/EN#24006/other a sign] above [/EN#0/notvisual him] that reads , " [/EN#24007/scene Elevator shaft] . "
+[/EN#24003/people A man] in [/EN#24004/clothing a white shirt] [/EN#24008/clothing black tie] looks out of [/EN#24005/scene the elevator shaft of a parking garage] .
+[/EN#24003/people A man] in [/EN#24008/clothing a tie] stands in [/EN#24007/scene an elevator shaft] near [/EN#24009/scene a garage construction site] .
+[/EN#24003/people A man] wearing [/EN#24004/clothing a shirt] and [/EN#24008/clothing tie] at [/EN#24007/scene the top of an elevator shaft] .
+[/EN#24003/people A man] waiting in [/EN#24007/scene a elevator shaft] .

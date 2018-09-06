@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] are [/EN#72792/people people] at [/EN#72802/scene the train station] waiting for [/EN#72793/vehicles/scene their trains] and [/EN#72794/vehicles/scene other trains] are whizzing by [/EN#0/notvisual them] .
+[/EN#72795/people A lady] with [/EN#72796/bodyparts dark hair] looking at [/EN#72797/other some papers] in [/EN#72802/scene the subway station] .
+[/EN#72795/people A woman] looks at [/EN#72798/scene a sheet] while [/EN#0/notvisual she] waits for [/EN#72800/vehicles transportation] .
+[/EN#72795/people A person] with [/EN#72799/clothing a shoulder bag] reads in [/EN#72802/scene the subway station] .
+[/EN#72792/people People] in [/EN#72802/vehicles/scene a subway] waiting for [/EN#72801/vehicles/scene their train] .

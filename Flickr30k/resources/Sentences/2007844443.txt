@@ -1,0 +1,5 @@
+[/EN#24924/people A man] in [/EN#24926/clothing a business suit] is walking quickly next to [/EN#24925/scene a building] .
+[/EN#24924/people A man] in [/EN#24926/clothing a suit] walks along [/EN#24929/bodyparts s] [/EN#24925/scene large building] .
+[/EN#24924/people A man] in [/EN#24926/clothing a suit] walks passed [/EN#24927/other a set of doors] .
+[/EN#24924/people man] in [/EN#24926/clothing suit] walking past [/EN#24927/scene elevator] .
+[/EN#24924/people A man] walking into [/EN#24928/scene the shadows] .

@@ -1,0 +1,5 @@
+[/EN#83276/people A man] in [/EN#83280/clothing jeans] resting on [/EN#83278/other a striped bench] with [/EN#83281/bodyparts his feet] on [/EN#83277/vehicles a luggage cart]
+[/EN#83276/people A man] asleep on [/EN#83278/other a yellow striped bench] with [/EN#83281/bodyparts his feet] on [/EN#83277/vehicles a baggage cart] .
+[/EN#83276/people A man] in [/EN#83283/clothing a sweatshirt] and [/EN#83280/clothing blue jeans] is taking [/EN#83282/other a nap] on [/EN#83278/other a bench] .
+[/EN#83276/people A man] sleeping on [/EN#83278/other a bench] in [/EN#83279/scene a subway station] .
+[/EN#83276/people A man] is asleep on [/EN#83278/other a bench] in [/EN#83279/vehicles/scene the subway] .

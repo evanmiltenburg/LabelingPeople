@@ -1,0 +1,5 @@
+[/EN#232047/people A man] in [/EN#232050/clothing a white shirt] playing [/EN#232049/instruments a white guitar] standing in front of [/EN#232052/other a microphone] with [/EN#232055/other the light] casting [/EN#232053/other a somewhat reddish hue] on [/EN#232050/clothing his shirt]
+[/EN#232047/people A man] playing [/EN#232049/instruments a guitar] in [/EN#232051/other the fog] around [/EN#232054/instruments other musical instruments] on [/EN#232048/scene stage] .
+[/EN#232047/people A middle-aged guitar player] is on [/EN#232048/scene stage] playing [/EN#232049/instruments a white electric guitar] .
+[/EN#232047/people A guy] wearing [/EN#232050/clothing a white shirt] is playing [/EN#232049/instruments a white guitar] .
+[/EN#232047/people A man] in [/EN#232048/scene a dimly lit room] playing [/EN#232049/instruments a guitar] .

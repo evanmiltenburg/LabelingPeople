@@ -1,0 +1,5 @@
+[/EN#47064/animals This black and white dog] is retrieving [/EN#47065/other a stick] from [/EN#47067/scene the water] .
+[/EN#47064/animals A black and white dog] is biting onto [/EN#47065/other a stick] in [/EN#47067/scene the water] .
+[/EN#47064/animals A black and white dog] swimming with [/EN#47065/other a stick] in [/EN#47066/bodyparts its mouth] .
+[/EN#47064/animals a dog] swimming in [/EN#47067/scene the water] with [/EN#47065/other a stick] in [/EN#47066/bodyparts its mouth]
+[/EN#47064/animals A dog] swims retrieving [/EN#47065/other a stick] .

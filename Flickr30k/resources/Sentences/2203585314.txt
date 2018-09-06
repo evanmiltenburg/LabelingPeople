@@ -1,0 +1,5 @@
+[/EN#33917/people A woman] in [/EN#33918/clothing a mauve jacket] [/EN#0/notvisual who] is selling [/EN#33919/other apples] is talking to [/EN#33920/people a young customer] in [/EN#33921/clothing a floral jacket] .
+[/EN#33917/people A woman] sells [/EN#33919/other fruit] and [/EN#33922/scene preserves] at [/EN#33923/other a table] in front of [/EN#33924/vehicles a car] with [/EN#33925/other the trunk] open .
+[/EN#33917/people A woman] has [/EN#33923/other tables] set up of [/EN#33926/other things] [/EN#0/notvisual she] is selling , while [/EN#33927/people a lady] and [/EN#33920/people child] look .
+[/EN#33920/people A little girl] in [/EN#33930/other a floury] , [/EN#33921/clothing pink jacket] , picks out [/EN#33919/other a fruit] from [/EN#33923/other a vendors table] .
+[/EN#33928/people People] looking at [/EN#33926/other food] on [/EN#33923/other a table] .

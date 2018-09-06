@@ -1,0 +1,5 @@
+[/EN#117142/people A small child] is holding [/EN#117143/other a pink ball of yarn] .
+[/EN#117142/people a toddler] holding [/EN#117143/other a pink piece of yarn]
+[/EN#117142/people A child] playing with [/EN#117143/other some yarn] .
+[/EN#117142/people A baby] is wearing [/EN#117144/clothing red shorts] .
+[/EN#117142/people An Asian child] holding [/EN#117143/other yarn] .

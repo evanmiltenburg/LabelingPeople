@@ -1,0 +1,5 @@
+[/EN#284906/animals Two brown and white dogs] lift [/EN#284910/bodyparts their ears] and look through [/EN#284907/scene a fence] .
+[/EN#284906/animals Two white and brown dogs] up against [/EN#284907/scene a fence] .
+[/EN#284906/animals Two little dogs] looking out of [/EN#284907/other their cage] .
+[/EN#284906/animals Two small dogs] are in [/EN#284907/scene a cage outside] .
+[/EN#284906/animals Two small dogs] in [/EN#284907/other a cage] .

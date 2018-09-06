@@ -1,0 +1,5 @@
+[/EN#46862/animals The yellow dog] is running on [/EN#46863/scene the dirt road] .
+[/EN#46862/animals A yellow dog] running down [/EN#46863/scene a sandy path] .
+[/EN#46862/animals A brown dog] is running on [/EN#46863/scene a dirt path] .
+[/EN#46862/animals A dog] is running down [/EN#46863/scene a dirt path] .
+[/EN#46864/clothing A running golden] retriever

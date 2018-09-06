@@ -1,0 +1,5 @@
+[/EN#217350/people A boy] and [/EN#217354/people a girl] are sitting on [/EN#217351/other a bench] looking at [/EN#217358/other something] [/EN#0/notvisual they] [/EN#217355/other each] have in [/EN#217352/other a small paper cup] .
+[/EN#217350/people Children] sitting on [/EN#217351/other a bench] eating [/EN#217357/other something] out of [/EN#217352/other a small cup] .
+[/EN#217350/people Two small children] sitting on [/EN#217351/other a bench] while eating [/EN#217356/other ice cream] .
+[/EN#217350/people Two children] sit [/EN#0/notvisual side] by [/EN#0/notvisual side] while eating [/EN#217352/other a treat] .
+[/EN#217350/people two kids] sitting at [/EN#217351/other a table] eating .

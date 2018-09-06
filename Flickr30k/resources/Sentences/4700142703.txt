@@ -1,0 +1,5 @@
+[/EN#192601/people A man] sits alone outside next to [/EN#192602/scene the pool] while playing [/EN#192603/instruments an acoustic guitar] .
+[/EN#192601/people A man] sits in [/EN#192604/other a chair] by [/EN#192602/scene the pool] , playing [/EN#192603/instruments the guitar] .
+[/EN#192601/people A man] playing [/EN#192603/instruments guitar] near [/EN#192602/scene a apartment swimming pool] .
+[/EN#192601/people A man] playing [/EN#192603/instruments a guitar] by [/EN#192602/scene a swimming pool] .
+[/EN#192601/people A man] playing [/EN#192603/instruments his guitar] by [/EN#192602/scene a hotel pool] .

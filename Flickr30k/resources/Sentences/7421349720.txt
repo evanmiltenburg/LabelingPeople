@@ -1,0 +1,5 @@
+[/EN#269607/people A soccer goalie] is diving to stop [/EN#269614/other a shot] by [/EN#269610/people a player] from [/EN#269612/other the opposition] while [/EN#269613/people a ref] and [/EN#269615/other others] are nearby .
+[/EN#269607/people A goalie] in [/EN#269618/clothing white] runs for [/EN#269609/other an approaching ball] while [/EN#269610/people the opponent] in [/EN#269619/clothing red] [/EN#0/notvisual who] kicked [/EN#0/notvisual it] waits .
+[/EN#269611/people Two teams] are playing [/EN#269608/other soccer] in [/EN#269620/scene a large stadium] [/EN#0/notvisual that] is filled with [/EN#269616/people spectators] .
+[/EN#269608/other This soccer game] is exciting when [/EN#269610/people the player] shoots [/EN#269609/other the ball] toward [/EN#269617/other the goal] .
+[/EN#269607/people Goal keeper] is going to stop [/EN#269609/other the ball] in [/EN#269608/other a soccer match]

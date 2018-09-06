@@ -1,0 +1,5 @@
+[/EN#152710/people A boatman] in [/EN#152719/clothing a coolie hat] and [/EN#152720/clothing purple shirt] and [/EN#152712/people a child] paddle [/EN#152711/vehicles/scene a small boat] over [/EN#152717/other placid] , [/EN#152713/scene muddy water] .
+[/EN#152714/scene An Oriental scene] with [/EN#152718/people two people] in [/EN#152711/other a flat-bottomed gondola] poling along on [/EN#152713/scene a large body of water] .
+[/EN#152710/people A woman] and [/EN#152712/people a little child] rowing [/EN#152711/vehicles/scene a boat] in [/EN#152713/scene the water] .
+[/EN#152710/people A father] and [/EN#152712/people son] begin [/EN#152715/other a fishing trip] in [/EN#152711/vehicles/scene a boat] .
+[/EN#152710/people A man] and [/EN#152712/people a boy] are paddling [/EN#152711/vehicles/scene a boat] .

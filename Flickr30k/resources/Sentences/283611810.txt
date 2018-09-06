@@ -1,0 +1,5 @@
+[/EN#75746/people A man] in [/EN#75744/clothing a black shirt] holding [/EN#75750/other an empty glass] and wearing [/EN#75751/clothing a watch] on [/EN#75755/other his left wrist] sits next to [/EN#75742/people a man] with [/EN#75753/clothing glasses] [/EN#0/notvisual who] is wearing [/EN#75745/clothing a green shirt] with [/EN#75748/other a logo] on [/EN#75745/scene the front] .
+[/EN#75742/people Two men] , [/EN#75756/other one] in [/EN#75745/clothing a gray t-shirt] and [/EN#75746/other one] in [/EN#75744/clothing a black shirt] with [/EN#75744/clothing sleeves] rolled up , are drinking in [/EN#75743/scene a bar] .
+[/EN#75742/people Two men] converse with [/EN#0/notvisual each other] in [/EN#75743/scene a furnished room] .
+[/EN#75742/people Two men] speak in [/EN#75743/other a club] with [/EN#75754/other green curtains] .
+[/EN#75742/people Two men] sitting on [/EN#75752/other chairs] and talking .

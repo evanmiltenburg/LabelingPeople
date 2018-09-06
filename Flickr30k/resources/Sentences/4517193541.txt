@@ -1,0 +1,5 @@
+[/EN#174887/other A red flower-box] filled with [/EN#174880/other green flowers] lies on [/EN#174883/other the stone windowsill] behind [/EN#174889/other iron] grating along [/EN#174882/scene a side street] .
+[/EN#174885/scene A group of buildings] surrounding [/EN#174882/scene a street] with [/EN#174881/people people] walking down [/EN#0/notvisual it] .
+[/EN#174881/people Three people] are pictured walking down and alleyway .
+[/EN#174882/other An empty alleyway] with [/EN#174884/other blocked off windows] .
+[/EN#174880/other Some plants] are growing near [/EN#174888/other the window] .

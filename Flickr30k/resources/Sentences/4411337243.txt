@@ -1,0 +1,5 @@
+[/EN#166756/people A blond woman] in [/EN#166758/clothing a fur coat] and [/EN#166759/clothing red hat] stands in [/EN#166757/scene a doorway] .
+[/EN#166756/people A lady] walking out of [/EN#166761/scene a building] with [/EN#166758/clothing a winter jacket] on .
+[/EN#166756/people Young women] with [/EN#166758/clothing fur coat] and [/EN#166759/clothing hat] walking out of [/EN#166760/scene the bar] .
+[/EN#166756/people Girl] wearing [/EN#166759/clothing hat] and [/EN#166758/clothing fur coat] walks into [/EN#166757/scene dark room] .
+[/EN#166756/people A woman] wearing [/EN#166758/clothing a fur coat] enters through [/EN#166757/scene a doorway]

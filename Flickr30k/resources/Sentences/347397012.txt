@@ -1,0 +1,5 @@
+[/EN#120831/people A woman] in [/EN#120833/clothing a dress] is on [/EN#120834/scene stage] performing before [/EN#120835/people an audience] while [/EN#120838/people someone] plays [/EN#120836/other a keyboard] in [/EN#0/notvisual the background] .
+[/EN#120831/people A woman] wearing [/EN#120833/clothing a dress] is standing on [/EN#120834/scene a lighted stage] singing into [/EN#120837/other a microphone] in front of [/EN#120832/people a large crowd] .
+[/EN#120832/people People] in [/EN#120835/people an audience] listening to [/EN#120831/people a woman] on [/EN#120834/scene stage] singing to [/EN#0/notvisual them] .
+[/EN#120831/people A woman] in [/EN#120833/clothing a light colored dress] is singing to [/EN#120835/people an audience] .
+[/EN#120831/people A woman] sings to [/EN#120832/people a crowd of people] .

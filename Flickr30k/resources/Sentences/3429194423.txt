@@ -1,0 +1,5 @@
+[/EN#117554/people Person] in [/EN#117561/clothing dark pants] and [/EN#117555/clothing print top] on [/EN#117556/other ski] 's in [/EN#0/notvisual the air] over [/EN#0/notvisual snow covered ground] .
+[/EN#117554/people A skier] in [/EN#117555/clothing a plaid jacket] flies through [/EN#0/notvisual the air] against [/EN#117558/scene a dark blue sky] .
+[/EN#117554/people The person] is jumping through [/EN#0/notvisual the air] on [/EN#117556/other skis] .
+[/EN#117554/people A man] makes [/EN#117559/other an X] with [/EN#117556/other his skis] as [/EN#0/notvisual he] jumps .
+[/EN#117554/people A man] doing [/EN#0/notvisual a trick] on [/EN#117556/other skis] .

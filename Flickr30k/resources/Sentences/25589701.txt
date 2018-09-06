@@ -1,0 +1,5 @@
+[/EN#58038/people A man] in [/EN#58039/clothing a construction crew vest] is crossing [/EN#58041/scene railroad tracks] in front of [/EN#58040/scene old buildings] .
+[/EN#58038/people A man] in [/EN#58039/clothing an orange safety vest] is walking towards [/EN#58040/scene some buildings] .
+[/EN#58038/people A construction worker] walking across [/EN#58041/scene some train tracks] .
+[/EN#58038/people A construction worker] is walking across [/EN#58041/scene some tracks] .
+[/EN#58038/people A utility worker] walks across [/EN#58042/other light rail lines] .

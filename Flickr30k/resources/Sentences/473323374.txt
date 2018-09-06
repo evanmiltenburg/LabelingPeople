@@ -1,0 +1,5 @@
+[/EN#196773/people A baby] with [/EN#196775/bodyparts blond curls] and [/EN#196774/clothing a blue shirt] is crying .
+[/EN#196773/people The baby] wearing [/EN#196774/clothing the blue shirt] is crying .
+[/EN#196773/people A child] with [/EN#196775/bodyparts blond curly hair] crying .
+[/EN#196773/people A child] in [/EN#196774/clothing a light blue shirt] crying .
+[/EN#196773/people A baby] crying for [/EN#196776/people his mom] .

@@ -1,0 +1,5 @@
+[/EN#280393/people A small child] around [/EN#280400/other eight years] old sits on top of [/EN#280395/other a rock] , overlooking [/EN#280399/scene a picturesque forest] below [/EN#0/notvisual him] .
+[/EN#280393/people A young boy] perched on top of [/EN#280394/scene a mountain] overlooking [/EN#280396/scene the scenery] beneath [/EN#0/notvisual him] .
+[/EN#280393/people A young boy] sits on [/EN#280395/other a rock] overlooking [/EN#280398/scene a scenic view of mountains] .
+[/EN#280393/people A boy] is sitting on [/EN#280395/other a rock] , looking at [/EN#280397/scene the valley] below .
+[/EN#280393/people A young man] is looking down from atop [/EN#280394/scene a mountain] .

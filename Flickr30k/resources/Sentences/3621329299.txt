@@ -1,0 +1,5 @@
+[/EN#132181/people A boy] in [/EN#132190/clothing a blue shirt] is mountain biking on [/EN#132184/scene a track] and [/EN#0/notvisual catching air] .
+[/EN#132181/people A person] on [/EN#132182/vehicles a bike] rides through [/EN#132185/other a dirt course] near [/EN#132183/scene the water] .
+[/EN#132181/people a lone bicyclist] jumping [/EN#0/notvisual a trick] along [/EN#132182/vehicles a bike] jumping [/EN#132184/scene path] .
+[/EN#132181/people A person] is in [/EN#0/notvisual the air] on [/EN#132182/vehicles a bike] near [/EN#132183/scene a body of water] .
+[/EN#132181/people A man] performs [/EN#0/notvisual tricks] on [/EN#132184/scene a dirt ramp] on [/EN#132182/vehicles a green bike] .

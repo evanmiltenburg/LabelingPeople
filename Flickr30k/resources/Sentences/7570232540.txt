@@ -1,0 +1,5 @@
+[/EN#271498/people A woman] , wearing [/EN#271501/clothing goggles] , [/EN#271502/clothing a wetsuit] and [/EN#271499/clothing a swim cap] , swimming in [/EN#271500/scene a large body of water] .
+[/EN#271498/people A swimmer] , with [/EN#271499/clothing a blue cap] and [/EN#271501/clothing blue goggles] , swims in [/EN#271500/scene calm water] .
+[/EN#271498/people A woman] swimming , in [/EN#271500/scene choppy waters] , training for [/EN#271504/other a triathlon] .
+[/EN#271498/people A woman] in [/EN#271499/clothing a swim cap] and [/EN#271501/clothing goggles] is swimming [/EN#271503/scene outdoors] .
+[/EN#271498/people A woman] attempts to swim across [/EN#271500/scene ocean] .

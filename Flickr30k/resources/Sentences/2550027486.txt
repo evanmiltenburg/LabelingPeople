@@ -1,0 +1,5 @@
+[/EN#57501/people A man] and [/EN#57502/people a woman] walk across [/EN#57503/scene an intersection] on [/EN#57504/scene a sunny day] .
+[/EN#57501/people A man] and [/EN#57502/people a woman] are walking in [/EN#57505/scene the middle of a street] .
+[/EN#57501/people A man] and [/EN#57502/people woman] walk across [/EN#57505/scene an empty street] .
+[/EN#57501/people Man] and [/EN#57502/people woman] crossing [/EN#57505/scene the street] at [/EN#57506/other dusk] .
+[/EN#57501/people A man] and [/EN#57502/people a woman] are walking in [/EN#57503/scene a street] .

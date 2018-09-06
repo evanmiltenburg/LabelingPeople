@@ -1,0 +1,5 @@
+[/EN#3175/people A woman] in [/EN#3176/clothing a red tank top] is cutting [/EN#3177/other a hamburger] in [/EN#3178/other half] with [/EN#3179/other a spatula] while opening or closing [/EN#3180/other a drawer] with [/EN#3181/bodyparts the other hand] .
+[/EN#3175/people A woman] wearing [/EN#3176/clothing a red tank top] is cutting [/EN#3182/other a hamburger] in [/EN#3178/other half] .
+[/EN#3175/people A woman] in [/EN#3176/other red cuts] [/EN#3182/other a burger] in [/EN#3178/other half] with [/EN#3179/other a spatula] .
+[/EN#3175/people A young woman] is fixing [/EN#3182/other a hamburger] in [/EN#3184/scene a kitchen] .
+[/EN#3175/people A woman] in [/EN#3176/clothing pink] cuts [/EN#3182/other a hamburger] with [/EN#3179/other a spatula] .

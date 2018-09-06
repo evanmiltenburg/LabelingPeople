@@ -1,0 +1,5 @@
+[/EN#112057/people A person] wearing [/EN#112063/clothing a red sweater vest] is staring at [/EN#112060/other pictures] on [/EN#112059/other a wall] .
+[/EN#112057/people A person] is observing [/EN#112060/other photos] [/EN#0/notvisual that] are in [/EN#112062/other frames] on [/EN#112059/other a wall] .
+[/EN#112057/people Woman] looking at [/EN#112060/other pictures] in [/EN#112058/scene a photo gallery] .
+[/EN#112057/people an older person] staring [/EN#112061/other a dimly lit] pictures .
+[/EN#112057/people A woman] looks at [/EN#112060/other pictures] in [/EN#112058/scene a gallery] .

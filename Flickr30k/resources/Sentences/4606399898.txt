@@ -1,0 +1,5 @@
+[/EN#182065/people An older man] sitting on [/EN#182066/other a bench] , on [/EN#182070/scene the sidewalk] , reading [/EN#182067/other a book] .
+[/EN#182065/people The elderly gentleman] in [/EN#182071/scene public] is reading [/EN#182067/other a book] on [/EN#182066/other the bench] .
+[/EN#182065/people A man] sitting on [/EN#182066/other a bench] in front of [/EN#182069/scene a bust shopping area] .
+[/EN#182065/people man] in [/EN#182068/clothing gray jacket] sitting on [/EN#182066/other bench] reading [/EN#182067/other a book]
+[/EN#182065/people Man] in [/EN#182068/clothing jacket] reading on [/EN#182066/other a bench] .

@@ -1,0 +1,5 @@
+[/EN#56368/people A worker] in [/EN#56369/clothing an orange vest] with [/EN#56370/clothing a matching hard hat] is walking with [/EN#56371/other a blue folder] at [/EN#56372/scene a train station] .
+[/EN#56368/people The back of a train worker] in [/EN#56369/clothing an orange vest] and [/EN#56373/clothing jeans] at [/EN#56376/other the Kilburn station platform] .
+[/EN#56368/people A man] wearing [/EN#56370/clothing an orange hat] and [/EN#56369/clothing vest] is walking next to [/EN#56374/scene railroad tracks] .
+[/EN#56368/people A English man] wears [/EN#56369/clothing a bright orange safety vest] .
+[/EN#56368/people A worker] is walking next to [/EN#56375/other a train line] .

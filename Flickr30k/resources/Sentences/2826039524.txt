@@ -1,0 +1,5 @@
+[/EN#75071/people Man] with [/EN#75074/clothing orange hard hat] , driving [/EN#75072/vehicles a construction vehicle] and waving .
+[/EN#75071/people A man] is driving [/EN#75072/other a piece of heavy machinery] , laying [/EN#75077/other tar] on [/EN#75073/scene a road] .
+[/EN#75071/people A man] on [/EN#75072/other a tractor] is waving while [/EN#0/notvisual he] is driving down [/EN#75073/scene the street] .
+[/EN#75071/people A worker] is driving [/EN#75072/other a piece of machinery] on [/EN#75073/scene the pavement] .
+[/EN#75071/people A man] with [/EN#75074/clothing a safety hat] does [/EN#75076/other roadwork] .

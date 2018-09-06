@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] are [/EN#113497/people three men] walking [/EN#113487/scene pass] [/EN#113487/other The Odeon] , [/EN#0/notvisual one of them] is wearing [/EN#113494/clothing a black bookbag] and [/EN#113491/other the others] has [/EN#113488/other a white bad] in [/EN#113495/bodyparts their hands] .
+[/EN#113497/people Three men] are walking in [/EN#113486/other a row] , [/EN#113489/other one] behind [/EN#113489/other the other ,] on [/EN#113498/scene a city street] in front of [/EN#113487/scene a store] named " [/EN#113487/other The Odeon] " .
+[/EN#113497/people Three men] travel down [/EN#113498/scene a sidewalk] next to [/EN#113485/other a park bench] .
+[/EN#113497/people Three people] walking in front of " [/EN#113487/other The Odeon] " .
+[/EN#113497/people Three people] walking past [/EN#113487/other the Odeon] .

@@ -1,0 +1,5 @@
+[/EN#75817/people A man] in [/EN#75818/clothing a flannel shirt] and [/EN#75819/clothing black pants] sits on [/EN#75820/other a ship] looking out through [/EN#75820/other the railing] .
+[/EN#75817/people A man] sitting on [/EN#0/notvisual the ground] props [/EN#75821/bodyparts his feet] up against [/EN#75820/other the railing] .
+[/EN#75817/people A young man] in [/EN#75818/clothing a plaid shirts] sits on [/EN#75820/vehicles/scene the deck of a boat] .
+[/EN#75817/people A man] in [/EN#75818/clothing a flannel shirt] sitting behind [/EN#75820/scene metal bars] .
+[/EN#75817/people A man] sits with [/EN#75821/other his foot] on [/EN#75820/other a pole] and smiles .

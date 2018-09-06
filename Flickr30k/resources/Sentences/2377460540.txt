@@ -1,0 +1,5 @@
+[/EN#45086/animals A weimaraner dog] runs through [/EN#45088/other the woods] wearing [/EN#45091/clothing a red collar] .
+[/EN#45086/animals A dog] running through [/EN#45087/scene a forest] in [/EN#45090/other the winter time]
+[/EN#45086/animals A brown dog] running through [/EN#45088/other the woods] .
+[/EN#45086/animals A lean dog] runs through [/EN#45087/scene a wooded area] .
+[/EN#45086/animals A dog] running through [/EN#45089/other a lot of twigs] .

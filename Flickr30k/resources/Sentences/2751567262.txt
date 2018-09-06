@@ -1,0 +1,5 @@
+[/EN#70432/people A nearly bald man] in [/EN#70433/clothing a blue shirt] and [/EN#70439/clothing dark glasses] waits on [/EN#70436/scene the lawn] by [/EN#70437/scene an empty street] .
+[/EN#70432/people A bald man] in [/EN#70433/clothing a blue polo shirt] stands next to [/EN#70434/scene a brick building] .
+[/EN#70432/people A man] stands on [/EN#70437/scene a sidewalk] between [/EN#70436/scene a grass lawn] and building
+[/EN#70432/people a man] in [/EN#70433/clothing a blue shirt] standing in front of [/EN#70434/scene a building]
+[/EN#70432/people Man] in [/EN#70433/clothing blue shirt] standing on [/EN#70435/scene the sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#248981/people a person] wearing [/EN#248983/clothing a black and pink outfit] and [/EN#248987/clothing hat] riding atop [/EN#248982/vehicles a unicycle] down [/EN#248986/scene the street] .
+[/EN#248981/people A woman] wearing [/EN#248985/clothing black and pink and large , feathered hat] rides [/EN#248982/vehicles a bike] in [/EN#248984/people a parade] .
+[/EN#248981/people A person] is riding [/EN#248982/vehicles a unicycle] on [/EN#248986/scene the street] with [/EN#248984/people many other people] around .
+[/EN#248981/people A person] in [/EN#248988/clothing a dress] and [/EN#248985/clothing a pink feathered hat] rides [/EN#248982/vehicles a unicycle] in [/EN#248989/people a parade] .
+[/EN#248981/people A woman] in [/EN#248983/clothing a black dress] and [/EN#248987/clothing hat] rides [/EN#248982/vehicles a unicycle] in front of [/EN#248984/people a crowd] .

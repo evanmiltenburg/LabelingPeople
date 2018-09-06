@@ -1,0 +1,5 @@
+[/EN#124686/animals A black dog] running on [/EN#124689/scene a path] , in [/EN#124688/scene the midst of a field]
+[/EN#124686/animals Black dog] in [/EN#124690/clothing a bandanna] runs down [/EN#124687/scene a dirt road] .
+[/EN#124686/animals a black dog] runs across [/EN#124687/scene the dirt road] .
+[/EN#124686/animals A brown dog] running along [/EN#124687/scene a dirt road] .
+[/EN#124686/animals A dog] runs down [/EN#124687/scene a dirt road] .

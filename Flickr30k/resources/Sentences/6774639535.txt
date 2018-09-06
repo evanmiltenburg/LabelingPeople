@@ -1,0 +1,5 @@
+[/EN#257818/people A man] in [/EN#257819/clothing an orange vest] and [/EN#257824/clothing white helmet] is standing on [/EN#257820/scene the side of a building] .
+[/EN#257818/people A person] in [/EN#257819/clothing an orange safety vest] is on [/EN#257826/vehicles a cart] held up by [/EN#257823/other cables] .
+[/EN#257818/people An electrician] is being lifted up or carried down at [/EN#257825/other work] .
+[/EN#257818/people A construction worker] on [/EN#257822/scene a mechanical lift] .
+[/EN#257818/people A worker] suspended in [/EN#0/notvisual the air] .

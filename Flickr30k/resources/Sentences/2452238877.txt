@@ -1,0 +1,5 @@
+[/EN#50679/animals A golden retriever] is jumping off [/EN#50680/scene a wooden porch]
+[/EN#50679/animals A Golden Retriever] jumping off [/EN#50680/scene a wood porch] .
+[/EN#50679/animals A gold dog] jumping off [/EN#50680/scene a wooden porch] .
+[/EN#50679/animals Brown dog] jumping off of [/EN#50681/other a deck] .
+[/EN#50679/animals A dog] jumps off [/EN#50680/scene a wooden porch] .

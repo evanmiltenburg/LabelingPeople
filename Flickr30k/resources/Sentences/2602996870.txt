@@ -1,0 +1,5 @@
+[/EN#60934/people An old man] in [/EN#60935/clothing a white shirt] walks , [/EN#60936/bodyparts his eyes] cast downward , on [/EN#60942/scene a city street] ; behind [/EN#0/notvisual him] , [/EN#60937/people a younger woman] in [/EN#60938/clothing a white shirt] and [/EN#60939/clothing dark cardigan] and [/EN#60940/clothing blue jeans] glances upward .
+[/EN#60934/people A man] in [/EN#60935/clothing a white shirt] looks down , in front of [/EN#60937/people a woman] [/EN#0/notvisual who] is looking off to [/EN#0/notvisual the side] .
+[/EN#60934/people An old man] in [/EN#60935/clothing a striped shirt] and [/EN#60937/people a woman] behind [/EN#0/notvisual him] are crossing [/EN#60942/scene the street] .
+[/EN#60934/people An elderly man] walking down [/EN#60942/scene the street] unwary of [/EN#60941/people the people] around [/EN#0/notvisual him] .
+[/EN#60934/people A Korean man] looks at [/EN#60944/other something] on [/EN#0/notvisual the ground] .

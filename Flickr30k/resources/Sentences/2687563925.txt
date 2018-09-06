@@ -1,0 +1,5 @@
+[/EN#66240/people A man] in [/EN#66246/clothing black shirt] with [/EN#66247/clothing glasses] raises [/EN#66248/bodyparts his right hand] while [/EN#0/notvisual he] is in [/EN#66245/people the middle of the crowd] .
+[/EN#66241/people A group of people] are gathered together near [/EN#66242/other a screen] with [/EN#66242/other a colorful picture] .
+[/EN#66239/people A crowd] is staring at [/EN#66242/other a screen] [/EN#0/notvisual that] is showing [/EN#66242/other a colorful image] .
+[/EN#66239/people A group of people] looking at [/EN#66242/other a multicolored picture] on [/EN#66242/other a screen] .
+[/EN#66241/people A crowd of people] look up at [/EN#66242/other a colorful display] .

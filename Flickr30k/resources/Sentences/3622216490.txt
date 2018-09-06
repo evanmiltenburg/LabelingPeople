@@ -1,0 +1,5 @@
+[/EN#132279/people A long-haired , bearded young skateboarder] does [/EN#132281/other a stunt] on [/EN#132280/scene a skateboarding surface] .
+[/EN#132279/people A young man] with [/EN#132286/bodyparts long hair] ramps [/EN#132282/other his skateboard] into [/EN#0/notvisual the air] .
+[/EN#132282/other a skateboard] performs [/EN#0/notvisual a trick] off [/EN#132284/other a quarter pipe] .
+[/EN#132279/people A child] does [/EN#0/notvisual a skateboard trick] off [/EN#132280/scene a ramp] .
+[/EN#132279/people A man] skateboarding up [/EN#132280/scene a ramp] .

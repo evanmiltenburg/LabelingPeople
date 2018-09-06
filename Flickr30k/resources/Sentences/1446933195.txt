@@ -1,0 +1,5 @@
+[/EN#13222/animals A puppy] is gnawing on [/EN#13225/other a plant branch] in [/EN#13224/scene an uncut grassy area] with [/EN#13227/other wood] and [/EN#13226/other a barrel] nearby .
+[/EN#13222/animals A young brown puppy] pulls [/EN#13225/other a leafy branch] in [/EN#13228/bodyparts his teeth] in [/EN#13223/scene a backyard] .
+[/EN#13222/animals A brown puppy] chewing on [/EN#13225/other a tree branch] .
+[/EN#13222/animals A puppy dog] is playing with [/EN#13225/other a branch] .
+[/EN#13222/animals A black puppy] is biting [/EN#13225/other a tree limb] .

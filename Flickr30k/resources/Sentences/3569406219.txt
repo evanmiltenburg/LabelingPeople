@@ -1,0 +1,5 @@
+[/EN#128425/people A Japanese woman] in [/EN#128426/clothing a colorful outfit] is walking with [/EN#128425/people a man] dressed in [/EN#128432/clothing black] past [/EN#128431/scene a wooden building] .
+[/EN#128425/people A lady] dressed in [/EN#128426/clothing a kimono] is looking at [/EN#0/notvisual the camera] .
+[/EN#128425/people Two women] dressed in [/EN#128426/clothing traditional Japanese clothing]
+[/EN#128425/people Two women] in [/EN#128426/clothing Japanese dress] walk down [/EN#128428/scene the street] .
+[/EN#128425/people Two people] stop on [/EN#128428/scene an empty city street] .

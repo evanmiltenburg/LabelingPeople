@@ -1,0 +1,5 @@
+[/EN#235839/people an middle eastern man] in [/EN#235841/clothing a white robe] is sitting on [/EN#235840/other a wooden bench] with [/EN#235844/clothing his shoes] off .
+[/EN#235839/people A man] wearing [/EN#235841/clothing white] sits on [/EN#235840/other a wooden bench] against [/EN#235843/other a white wall] .
+[/EN#235839/people A bearded man] in [/EN#235841/clothing white clothes] is sitting on [/EN#235840/other a long bench] .
+[/EN#235839/people A man] dressed in [/EN#235841/clothing white] sitting on [/EN#235840/other a bench] .
+[/EN#235839/people A man] in [/EN#235841/clothing a white outfit] on [/EN#235840/other a bench]

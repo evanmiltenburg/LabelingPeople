@@ -1,0 +1,5 @@
+[/EN#94076/animals A flock of birds] disturbed and in [/EN#94081/other flight] in front of [/EN#94077/other a wall] [/EN#0/notvisual that] has [/EN#94077/people a mural of three women and a man] .
+[/EN#94076/animals A flock of birds] fly up from [/EN#0/notvisual the ground] next to [/EN#94077/scene a building] with [/EN#94077/other a mural] .
+[/EN#94076/animals Flock of pigeons] flying in front of [/EN#94077/scene building] with [/EN#94077/other a mural] painted on [/EN#0/notvisual it] .
+[/EN#94076/animals A group of birds] fly up from [/EN#94080/scene the street] against [/EN#94077/other a painted wall] .
+[/EN#94076/animals A flock of birds] flying past [/EN#94077/other a chinese mural] on [/EN#94077/scene a building] .

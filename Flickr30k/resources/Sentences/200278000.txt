@@ -1,0 +1,5 @@
+[/EN#24824/people A young girl] wearing [/EN#24825/clothing a blue mickey mouse t-shirt] eating [/EN#24826/other a red , white , and blue popsicle] with [/EN#24827/vehicles many different bicycles] in [/EN#0/notvisual the background] .
+[/EN#24824/people A young child] in [/EN#24825/clothing a blue shirt] holds [/EN#24828/other a phone] and eats [/EN#24826/other something] while standing in front of [/EN#24827/vehicles bicycles] .
+[/EN#24824/people A little child] eats [/EN#24826/other ice cream] while talking on [/EN#24828/other the phone] .
+[/EN#24824/people A young girl] in [/EN#24825/clothing a blue shirt] is eating [/EN#24826/other an ice cream cone] .
+[/EN#24824/people a child] taking a break from playing to eat [/EN#24826/other an ice cream] .

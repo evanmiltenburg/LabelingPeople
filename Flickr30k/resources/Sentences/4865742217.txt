@@ -1,0 +1,5 @@
+[/EN#212843/people A street vendor] is standing in front of [/EN#212849/other a sign] , and [/EN#212844/other whatever] [/EN#0/notvisual he] is selling [/EN#0/notvisual is] on [/EN#0/notvisual the ground] in front of [/EN#0/notvisual him] .
+[/EN#212843/people a man] in [/EN#212852/clothing a t-shirt] and [/EN#212853/clothing shorts] is trying to sell [/EN#212846/people some paper fans] on [/EN#212845/scene a sidewalk] .
+[/EN#212843/people A man] on [/EN#212851/scene street] , standing over [/EN#212844/other some artwork] , while [/EN#212850/people several people] pass by .
+[/EN#212843/people A man] making [/EN#212844/other artwork] with [/EN#212846/people fans] is trying to get [/EN#212847/other a lady 's attention] .
+[/EN#212843/people a man] selling [/EN#212846/people handmade fans] [/EN#0/notvisual that] are spread out on [/EN#212845/scene the sidewalk]

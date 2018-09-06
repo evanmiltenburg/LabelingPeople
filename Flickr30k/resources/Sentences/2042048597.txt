@@ -1,0 +1,5 @@
+[/EN#25525/people A parade of people] wearing [/EN#25526/clothing blue waistcoats] and [/EN#25527/clothing white t-shirts] proceeds down [/EN#25528/scene the center of a street] .
+[/EN#25525/people People] dressed in [/EN#25526/clothing blue] marching in [/EN#25529/people a parade] on [/EN#25528/scene a public street] .
+[/EN#25525/people Many people] wearing [/EN#25526/clothing blue jackets] are marching down [/EN#25528/scene a street] .
+[/EN#25525/people Costumed people] walk down [/EN#25528/scene a Japanese street] .
+[/EN#0/notvisual There] are [/EN#25525/people many people] in [/EN#25528/scene the street] .

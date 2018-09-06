@@ -1,0 +1,5 @@
+[/EN#256665/people A street performer] balances on [/EN#256666/other a string] while holding [/EN#256667/instruments a violin] .
+[/EN#256665/people A male street performer] walking [/EN#256666/other a tightrope] .
+[/EN#256665/people A man] walking on [/EN#256669/clothing a tight robe] at [/EN#256668/other a carnival] .
+[/EN#256665/people A street entertainer] walking [/EN#256666/other a tightrope] .
+[/EN#256665/people A man] holding [/EN#256667/instruments a violin] is slacklining

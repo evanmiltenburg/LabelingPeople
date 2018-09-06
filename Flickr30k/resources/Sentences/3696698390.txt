@@ -1,0 +1,5 @@
+[/EN#137573/people A man] wearing [/EN#137574/clothing a green shirt] is jumping [/EN#137579/vehicles his bicycle] off [/EN#137576/scene a ramp] .
+[/EN#137573/people a bicyclist] wearing [/EN#137577/other a helment] riding down [/EN#137576/scene a steep ramp]
+[/EN#137573/people Cyclist] in [/EN#137574/clothing green shirt] doing [/EN#0/notvisual trick] on [/EN#137576/scene wooden ramp]
+[/EN#137573/people A bike rider] catches [/EN#0/notvisual air] near [/EN#137576/scene a ramp] .
+[/EN#137573/people A BMX rider] in [/EN#137575/scene midair] .

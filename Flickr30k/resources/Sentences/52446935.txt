@@ -1,0 +1,5 @@
+[/EN#232040/people A group of people] stand on [/EN#232041/scene a pier] as [/EN#232044/other the sun] sets over [/EN#232042/scene the water] .
+[/EN#232040/people A number of people] on [/EN#232041/scene a pier] are silhouetted against [/EN#232046/scene the sunset] .
+[/EN#232040/people A group of men] are standing on [/EN#232041/scene wooded pier] as [/EN#232044/other the sun] sets .
+[/EN#232041/scene A pier] and [/EN#232040/people the people] on [/EN#0/notvisual it] are silhouetted by [/EN#232043/scene a sunset] .
+[/EN#232040/people People] on [/EN#232045/people a peer] watching [/EN#232044/other the sun] go down .

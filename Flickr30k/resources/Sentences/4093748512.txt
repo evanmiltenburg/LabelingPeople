@@ -1,0 +1,5 @@
+[/EN#155129/people A man] in [/EN#155133/clothing blue jeans] , [/EN#155130/clothing a tan canvas long-sleeve shirt] , and [/EN#155132/clothing rubber gloves] , holds [/EN#155131/other a braided metallic wire] .
+[/EN#155129/people A man] wearing [/EN#155130/clothing a brown coat] and [/EN#155132/clothing latex gloves] is looking at [/EN#155134/other something] in [/EN#0/notvisual the distance] .
+[/EN#155129/people A man] in [/EN#155130/clothing a tan shirt] is looking up while holding [/EN#155131/other a cable] .
+[/EN#155129/people A man] in [/EN#155130/clothing a beige coat] and [/EN#155132/clothing black gloves] is thinking .
+[/EN#155129/people A guy] appears to be doing [/EN#155135/other some work] outside .

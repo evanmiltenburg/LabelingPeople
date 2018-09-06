@@ -1,0 +1,5 @@
+[/EN#2235/people A person] climbs [/EN#2236/scene a tall , flat mountain] while holding onto [/EN#2237/other a safety rope] .
+[/EN#2235/people A person] is climbing [/EN#2236/other a rock] while holding onto [/EN#2237/other a white rope] .
+[/EN#2235/people A person] climbing down [/EN#2236/scene a sheer rock cliff] using [/EN#2237/other a rope]
+[/EN#2235/people A person] wearing [/EN#2239/clothing a red vest] climbs up [/EN#2236/other a steep rock] .
+[/EN#2235/people A person] rappels down [/EN#2236/other a steep incline] .

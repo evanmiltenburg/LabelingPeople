@@ -1,0 +1,5 @@
+[/EN#96398/people A man] in [/EN#96400/clothing white] is cooking [/EN#96401/other pieces of meat] on [/EN#96403/scene a large cooking surface] .
+[/EN#96398/people An Oriental man] , wearing [/EN#96400/clothing a white shirt] and [/EN#96399/clothing apron] is cooking .
+[/EN#96398/people Asian man] , wearing [/EN#96399/clothing an apron] , preparing [/EN#96401/other food] .
+[/EN#0/notvisual This] is [/EN#96398/people an oriental chef] preparing [/EN#96401/other meats] .
+[/EN#96398/people A man] is cooking [/EN#96401/other food] in [/EN#96402/other a large pot] .

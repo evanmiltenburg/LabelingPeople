@@ -1,0 +1,5 @@
+[/EN#51976/people A man] sitting in [/EN#51977/other a wicker chair] in [/EN#51985/scene a white room] with [/EN#51978/bodyparts/people one arm] draped over [/EN#51984/other the back of the chair] , chuckling .
+[/EN#51976/people A man] is sitting in [/EN#51977/other a wooden chair] in front of [/EN#51979/other a white bookshelf] and [/EN#51980/other orange lamp] .
+[/EN#51976/people A one-armed man] in [/EN#51981/clothing a brown shirt] sits in [/EN#51984/other a chair] facing [/EN#0/notvisual the camera] .
+[/EN#51976/people A man] sitting on [/EN#51984/other a chair Indian style] in front of [/EN#51979/other a bookshelf] .
+[/EN#51976/people A man] in [/EN#51982/clothing glasses] sitting with [/EN#51983/bodyparts his legs] crossed .

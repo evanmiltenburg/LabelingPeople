@@ -1,0 +1,5 @@
+[/EN#168576/people Group of people] walking down [/EN#168579/scene the street] by [/EN#168578/people a person] sitting on [/EN#0/notvisual the ground] covered with [/EN#168577/other a blanket] .
+[/EN#168576/people People] pass [/EN#168578/people a homeless person] with [/EN#168577/other a blanket] and [/EN#168583/other red hood] on [/EN#168579/scene an icy street] .
+[/EN#168576/people People] walking down [/EN#168579/scene the sidewalk] past [/EN#168578/people a homeless man] with [/EN#168577/other a blanket] .
+[/EN#168576/people People] in [/EN#168582/clothing coats] sit and walk on [/EN#168579/scene an icy sidewalk of a large building] .
+[/EN#168580/people a man] walking with [/EN#168581/clothing a red canada bag]

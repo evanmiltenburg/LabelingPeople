@@ -1,0 +1,5 @@
+[/EN#130852/people A man] in [/EN#130851/vehicles a white Bobcat] scoops [/EN#130853/scene dirt] from [/EN#0/notvisual the ground] near [/EN#130854/scene an athletic field] .
+[/EN#130852/people A man] working outside in [/EN#130851/other a piece of machine equipment] .
+[/EN#130852/people A man] in [/EN#130856/clothing an orange hard hat] operating [/EN#130851/other heavy machinery] .
+[/EN#130852/people A construction worker] is using [/EN#130851/other a piece of machinery] .
+[/EN#130851/other A Bobcat tractor] scoops up [/EN#130853/scene some land] .

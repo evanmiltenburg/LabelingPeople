@@ -1,0 +1,5 @@
+[/EN#217768/people A child] wearing [/EN#217772/clothing a red shirt] is rolling [/EN#217770/other a bowling ball] down [/EN#217771/other a lane] .
+[/EN#217768/people A young child] is rolling [/EN#217770/other a ball] down [/EN#217771/other the lane] in [/EN#217769/scene a bowling alley] .
+[/EN#217768/people A young boy] in [/EN#217769/scene a Bowling Alley] rolls [/EN#217770/other his ball] down [/EN#217771/other the lane] .
+[/EN#217768/people A little boy] wearing [/EN#217772/clothing red] is playing bowling with [/EN#217773/bodyparts two hands] .
+[/EN#217768/people A child] bowling at [/EN#217769/scene the bowling alley] .

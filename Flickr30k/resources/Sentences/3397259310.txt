@@ -1,0 +1,5 @@
+[/EN#115391/people A boy] on [/EN#115393/other a skateboard] is on [/EN#115392/other a wall] near [/EN#115397/scene the water] and next to [/EN#115396/scene grass] .
+[/EN#115391/people Young man] skateboarding on [/EN#115392/other a retaining wall] in [/EN#115394/scene a suburban area] .
+[/EN#115391/people The skateboarder] does [/EN#0/notvisual a trick] on [/EN#115392/other the low stone wall] .
+[/EN#115391/people Skateboarder] preparing to jump off of [/EN#115392/other stone wall] .
+[/EN#115391/people A boy] on [/EN#115393/other a skateboard] is riding on [/EN#115392/other a stone wall]

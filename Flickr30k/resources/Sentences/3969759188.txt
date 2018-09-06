@@ -1,0 +1,5 @@
+[/EN#150113/people A man] in [/EN#150114/clothing a blue shirt] and [/EN#150118/clothing safety glasses] grinds [/EN#150117/other a piece of metal] [/EN#0/notvisual which] throws [/EN#150119/other sparks] .
+[/EN#150113/people A young man] with [/EN#150115/bodyparts long hair] , [/EN#150118/clothing sunglasses] and [/EN#150114/clothing a blue shirt] is using [/EN#150116/other a welding machine] .
+[/EN#150113/people A man] with [/EN#150115/bodyparts a braid] using [/EN#150116/other an electric saw] making [/EN#150119/other sparks] fly .
+[/EN#150113/people A man] wearing [/EN#150120/clothing a glove] and grinding [/EN#150117/other a piece of metal] .
+[/EN#150113/people A man] with [/EN#150115/bodyparts a ponytail] is using [/EN#150116/other a power tool] .

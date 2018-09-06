@@ -1,0 +1,5 @@
+[/EN#82447/animals A black dog] in [/EN#82448/clothing a red collar] splashing through [/EN#82449/scene the water] .
+[/EN#82447/animals A black dog] with [/EN#82448/clothing a red collar] is walking through [/EN#82449/scene water] .
+[/EN#82447/animals A big , black dog] with [/EN#82448/clothing a red collar] runs in [/EN#82449/scene the water] .
+[/EN#82447/animals A black dog] is running through [/EN#82449/scene some water] .
+[/EN#82447/animals A black dog] splashes in [/EN#82449/scene the water]

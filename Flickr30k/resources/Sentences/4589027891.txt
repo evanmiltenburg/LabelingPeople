@@ -1,0 +1,5 @@
+[/EN#180867/people A man] standing in [/EN#180869/scene a shadowed area] wearing [/EN#180870/clothing a suit jacket] , with [/EN#180873/scene city buildings] behind [/EN#0/notvisual him] .
+[/EN#180867/people A man] wearing [/EN#180870/clothing a gray suit] and carrying [/EN#180868/clothing a briefcase] is walking down [/EN#180869/scene a city street] .
+[/EN#180867/people A man] carrying [/EN#180868/clothing a briefcase] walks by [/EN#180871/other a closed] in [/EN#180875/scene construction site] .
+[/EN#180867/people Guy] walking down [/EN#180869/scene the street] in [/EN#180872/scene a dirty city] .
+[/EN#180867/people A man] in [/EN#180870/clothing a suit coat] walks next to [/EN#180873/other a wall] .

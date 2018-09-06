@@ -1,0 +1,5 @@
+[/EN#31903/people A lady] with [/EN#31905/bodyparts a hurt hand] is cashing out [/EN#31906/other her purchases] at [/EN#31909/other the grocery mart] by [/EN#31901/people a cashier] in [/EN#31908/clothing a black and red jacket] .
+[/EN#31901/people A grocery store clerk] is checking out [/EN#31906/other groceries] being bought be [/EN#31903/people a woman] with [/EN#31905/bodyparts an injured hand] .
+[/EN#31901/people One woman] [/EN#31903/people cashier scanning items of another woman customer] [/EN#0/notvisual who] has [/EN#31907/clothing a bandage] on [/EN#31905/bodyparts her hand] .
+[/EN#31901/people A woman] scanning [/EN#31906/other groceries] for [/EN#31903/people a customer] inside [/EN#31910/scene a store] .
+[/EN#31901/people A woman] is at [/EN#31911/scene a store] getting ready to pay for [/EN#31906/other groceries] .

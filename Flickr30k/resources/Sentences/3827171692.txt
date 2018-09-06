@@ -1,0 +1,5 @@
+[/EN#144517/people A person] walking down [/EN#144522/scene the street] in [/EN#144519/clothing a brown jacket] and [/EN#144521/clothing orange hat] in front of [/EN#144520/scene a building] with [/EN#144523/scene a blue balcony] .
+[/EN#144517/people A person] in [/EN#144519/clothing a brown jacket] and [/EN#144521/clothing red hat] are walking by [/EN#144520/scene an adobe house] with [/EN#144518/other a blue door] .
+[/EN#144517/people A person] in [/EN#144521/clothing a red hat] is walking past [/EN#144520/scene a building] [/EN#0/notvisual that] is in [/EN#144524/other need of a paint job] .
+[/EN#144517/people A person] walking in front of [/EN#144520/scene a white building] with [/EN#144518/other blue doors] and [/EN#144525/other windows] .
+[/EN#144517/people A person] with [/EN#144521/clothing a red hat] is walking down [/EN#144522/scene the street] .

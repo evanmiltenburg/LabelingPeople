@@ -1,0 +1,5 @@
+[/EN#181931/people A woman] with [/EN#181937/clothing a white jacket] , [/EN#181938/clothing leggings] and [/EN#181933/clothing blue boots] walks down [/EN#181936/scene the street] while talking on [/EN#181932/other her cellphone] .
+[/EN#181931/people Lady] with [/EN#181933/clothing teal boots] and [/EN#181934/clothing matching handbag] walking while talking on [/EN#181932/other cellphone] .
+[/EN#181931/people A woman] in [/EN#181933/clothing green boots] and [/EN#181934/clothing a green bag] talking on [/EN#181932/other her cellphone] as [/EN#0/notvisual she] walks .
+[/EN#181931/people A woman] in [/EN#181933/clothing green shoes] , walking and holding [/EN#181932/other a phone] .
+[/EN#181931/people A woman] on [/EN#181932/other her cellphone] is walking in [/EN#181935/scene a park] .

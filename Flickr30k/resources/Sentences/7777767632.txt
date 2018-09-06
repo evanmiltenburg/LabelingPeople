@@ -1,0 +1,5 @@
+[/EN#275002/people Chef] in [/EN#275012/clothing an apron] using [/EN#275005/other a knife] to cut [/EN#275006/other an herb] for [/EN#275011/other preparation] in [/EN#275008/other cooking] .
+[/EN#275002/people An individual] cutting up [/EN#275009/other a vegetable] in [/EN#275004/scene their kitchen] with [/EN#275005/other a knife] .
+[/EN#275002/people A person] is cutting [/EN#275006/other vegetables] on [/EN#275003/other a cutting board] in [/EN#275004/scene a kitchen] .
+[/EN#275002/people A person] is chopping [/EN#275006/other vegetables] on [/EN#275003/other a cutting board] .
+[/EN#275002/people A cook] slicing [/EN#275006/other some herbs] on [/EN#275003/other a wood cutting board] .

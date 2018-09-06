@@ -1,0 +1,5 @@
+[/EN#227217/people Two people] wearing [/EN#227220/clothing hats] are standing in [/EN#227218/scene a field] tending to [/EN#227222/other a crop] .
+[/EN#227221/people A man] and [/EN#227223/people a woman] work in [/EN#227218/scene a field] , [/EN#0/notvisual both] wearing [/EN#227220/clothing large hats] .
+[/EN#227217/people Two workers] in [/EN#227220/clothing sunhats] are bent over in [/EN#227218/scene a rice paddy] .
+[/EN#227217/people Two gardeners] are pruning [/EN#227218/other a stretch of leafy plants] .
+[/EN#227217/people These two workers] are working in [/EN#227218/scene the green field] .

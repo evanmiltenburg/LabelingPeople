@@ -1,0 +1,5 @@
+[/EN#85082/people The man] is jumping through [/EN#0/notvisual the air] , while holding [/EN#85084/vehicles a bicycle] .
+[/EN#85082/people A cyclist] carries [/EN#85084/vehicles his bicycle] while jumping over [/EN#85083/other a hurdle] .
+[/EN#85082/people A bicycler] jumping over [/EN#85083/other a barrier] with [/EN#85084/vehicles his bike] .
+[/EN#85082/people a man] jumps across [/EN#85083/other an obstacle] carrying [/EN#85084/vehicles his bike]
+[/EN#85082/people A man] doing [/EN#0/notvisual tricks] with [/EN#85084/vehicles his bicycle] .

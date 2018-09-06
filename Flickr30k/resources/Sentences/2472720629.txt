@@ -1,0 +1,5 @@
+[/EN#52038/people A man] and [/EN#52039/people a child] are flying [/EN#52043/other a kite] in [/EN#52042/scene a field] in [/EN#52044/scene the city] .
+[/EN#52037/people A man] and [/EN#52039/people boy] are flying [/EN#52043/other a kite] together .
+[/EN#52037/people An adult] and [/EN#52039/people a child] fly [/EN#52043/other a kite] together .
+[/EN#52037/people A father] and [/EN#52039/people son] are flying [/EN#52043/other a red kite] .
+[/EN#52038/people Man] and [/EN#52039/people boy] fly [/EN#52043/other kite] in [/EN#52042/scene park] .

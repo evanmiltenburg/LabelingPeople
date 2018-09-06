@@ -1,0 +1,5 @@
+[/EN#203427/people A woman] wearing [/EN#203435/clothing bright colored clothing] walks past [/EN#203428/other a jeep cherokee] [/EN#0/notvisual that] 's behind [/EN#203428/scene a fence] .
+[/EN#203427/people A woman] with [/EN#203432/clothing a scarf] on [/EN#0/notvisual is] by [/EN#203428/scene a fence] with [/EN#203428/vehicles vehicles] on [/EN#203436/scene the other side of the fence] .
+[/EN#203427/people An older woman] walking along [/EN#203431/scene a parking lot] wearing [/EN#203433/other a wrap] around [/EN#203438/bodyparts her head] .
+[/EN#203427/people An older woman] is walking on [/EN#203429/scene the street] with [/EN#203433/other assorted rags] on .
+[/EN#203427/people An old woman] walking down [/EN#203429/scene the street] .

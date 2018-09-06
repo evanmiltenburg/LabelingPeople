@@ -1,0 +1,5 @@
+[/EN#235905/people A person] is holding on to [/EN#235908/other a rail] while sitting and looking out [/EN#235907/other the window] .
+[/EN#235905/people An older man] is sitting on [/EN#235906/vehicles/scene a bus] looking out at [/EN#235910/scene the scenery] .
+[/EN#235905/people Man] seated on [/EN#235906/vehicles/scene a bus] looking out [/EN#235907/other the window] at [/EN#235909/people pedestrians] .
+[/EN#235905/people An older man] riding [/EN#235906/vehicles/scene a bus] while looking out [/EN#235907/other the window] .
+[/EN#235905/people man] on [/EN#235906/vehicles/scene a bus] looking out [/EN#235907/other the window] .

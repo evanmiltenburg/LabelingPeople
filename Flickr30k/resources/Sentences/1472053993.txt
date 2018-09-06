@@ -1,0 +1,5 @@
+[/EN#14185/people A downhill skier] with [/EN#14188/clothing a backpack] , on [/EN#14187/scene a background of mountains] and [/EN#14193/other wispy clouds] .
+[/EN#14185/people A skier] in [/EN#14189/clothing a red jacket] and [/EN#14194/other yellow backpack skis] down [/EN#14186/other a snow slope] .
+[/EN#14185/people Person] with [/EN#14192/other two ski poles] skiing down [/EN#14186/scene a snowy hill] .
+[/EN#14185/people A man] in [/EN#14189/clothing orange] is skiing down [/EN#14186/scene a snow-covered hill] .
+[/EN#14185/people A skier] going down [/EN#14186/scene the snowy hill] .

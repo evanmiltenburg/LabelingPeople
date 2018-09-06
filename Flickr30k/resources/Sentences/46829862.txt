@@ -1,0 +1,5 @@
+[/EN#190060/people an overhead view of a painter] working on [/EN#190062/other a scaffold] .
+[/EN#190059/people A man] in [/EN#190061/clothing a blue shirt] painting [/EN#190066/other something] outside .
+[/EN#190060/people A painter] in [/EN#190061/clothing a blue shirt] and [/EN#190065/clothing hat] is painting .
+[/EN#190059/people A man] in [/EN#190061/clothing a blue shirt] is painting [/EN#190064/scene a building] .
+[/EN#190062/other A worker painting] in [/EN#190062/other a scaffolding] .

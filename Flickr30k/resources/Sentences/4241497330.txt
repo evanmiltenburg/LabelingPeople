@@ -1,0 +1,5 @@
+[/EN#160044/people A person] wearing [/EN#160046/clothing a bright green jacket] , with [/EN#160050/clothing a white helmet , red and blue backpack] and [/EN#161000/clothing goggles] skis down [/EN#160047/scene a snowy mountainside] .
+[/EN#160044/people A skier] is skiing down [/EN#160047/scene a mountain] with [/EN#160049/scene snow] covering [/EN#160053/other trees] in [/EN#0/notvisual the background] .
+[/EN#160044/people A downhill skier] wearing [/EN#160046/clothing a lime green jacket] and [/EN#160051/clothing a white helmet] .
+[/EN#160044/people A man] in [/EN#160046/clothing a green jacket] skies down [/EN#160048/other a steep slope] on [/EN#160049/scene fresh snow] .
+[/EN#160044/people A man] is skiing down [/EN#160048/other the snowy slopes] .

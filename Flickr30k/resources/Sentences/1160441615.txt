@@ -1,0 +1,5 @@
+[/EN#4211/people Three girls] are walking across [/EN#4212/scene a bridge] covered with [/EN#4212/other wood] and surrounded by [/EN#4214/other trees] .
+[/EN#4211/people Three girls] walk under [/EN#4215/scene an arbor] on [/EN#4212/scene a path] surrounded by [/EN#4216/other trees] .
+[/EN#4211/people Three women] walk through [/EN#4214/other a plant] covered atrium [/EN#4212/scene hallway] .
+[/EN#4211/people Three girls] walking along [/EN#4217/other an arched garden pathway] .
+[/EN#4211/people Three women] walking through [/EN#4212/scene a tunnel] in [/EN#4218/scene a park] .

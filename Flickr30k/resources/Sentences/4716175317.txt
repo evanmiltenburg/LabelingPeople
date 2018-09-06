@@ -1,0 +1,5 @@
+[/EN#194300/people A crowd of people] shopping at [/EN#194302/scene a street market] in [/EN#194303/scene an urban area] with [/EN#194304/scene buildings] and [/EN#194301/other a statue] in [/EN#0/notvisual background] .
+[/EN#194300/people Numerous people] are walking down [/EN#194302/scene the streets] in front of [/EN#194301/other a large , green statue] .
+[/EN#194300/people People] carrying [/EN#194305/clothing shopping bags] in [/EN#194303/scene a open air market] .
+[/EN#194300/people People] shop at [/EN#194302/scene an outdoor fruit market] .
+[/EN#194300/people People] shopping in [/EN#194303/scene busy area] .

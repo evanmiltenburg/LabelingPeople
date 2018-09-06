@@ -1,0 +1,5 @@
+[/EN#206427/people A girl] in [/EN#206430/clothing a yellow shirt] and [/EN#206429/people a girl] in [/EN#206428/clothing a blue shirt] walking up [/EN#206426/scene a city sidewalk] .
+[/EN#206425/people Two girls] walking and [/EN#206429/other one] is looking to [/EN#206432/scene her left] .
+[/EN#206425/people Two girls] holding [/EN#206431/clothing bags] walking down [/EN#206426/scene the sidewalk] .
+[/EN#206425/people Two women] are walking down [/EN#206426/scene a sidewalk] .
+[/EN#206425/people Two women] walking down [/EN#206426/scene the sidewalk] .

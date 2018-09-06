@@ -1,0 +1,5 @@
+[/EN#204125/people A man] in [/EN#204128/clothing a white t-shirt] and [/EN#204129/clothing black pants] is standing in front of [/EN#204127/instruments a organ] playing [/EN#0/notvisual it] in [/EN#204131/scene a room] with [/EN#204127/instruments a piano] sitting to [/EN#204132/scene his left] .
+[/EN#204125/people A long-haired man] in [/EN#204128/clothing a white t-shirt] and [/EN#204129/clothing jeans] plays [/EN#204126/other a keyboard] standing
+[/EN#204125/people A man] in [/EN#204128/clothing a white t-shirt] with [/EN#204130/bodyparts long hair] playing [/EN#204126/other a keyboard] .
+[/EN#204125/people a man] with [/EN#204130/bodyparts long hair] plays [/EN#204127/instruments an organ] .
+[/EN#204125/people A man] is playing [/EN#204127/instruments an organ] .

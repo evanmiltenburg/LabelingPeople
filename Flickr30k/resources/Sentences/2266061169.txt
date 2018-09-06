@@ -1,0 +1,5 @@
+[/EN#37735/people A man] sleeps in [/EN#37737/vehicles/scene the lining of a boat] [/EN#0/notvisual that] is propped against [/EN#37740/other a brick wall] .
+[/EN#37735/people A man] lays down to rest inside [/EN#37736/other a wood structure] against [/EN#37740/scene a building] .
+[/EN#37735/people A man] is laying down inside [/EN#37737/vehicles/scene a black , non-working boat] .
+[/EN#37735/people Man] is lying down [/EN#37736/other inside of a black structure] [/EN#37738/scene outdoors] .
+[/EN#37735/people A man] sleeping on [/EN#37737/other a sheltered public bench] .

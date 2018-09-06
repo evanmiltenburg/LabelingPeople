@@ -1,0 +1,5 @@
+[/EN#89134/animals A bulldog] with [/EN#89138/clothing a red bandanna] shakes off [/EN#89134/scene water] .
+[/EN#89134/animals A brown white dog] shaking [/EN#89134/scene water] off .
+[/EN#89134/animals A wet bulldog] shakes off [/EN#89134/scene water] .
+[/EN#89134/animals A wet dog] shaking [/EN#89137/other its self dry] .
+[/EN#89134/animals a dog] shakes dry .

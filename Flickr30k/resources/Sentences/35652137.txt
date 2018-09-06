@@ -1,0 +1,5 @@
+[/EN#128141/people A woman] is holding [/EN#128145/animals a large bundle of Mickey Mouse] , [/EN#128144/animals Minnie Mouse] , and [/EN#128143/other Buzz Lightyear balloons] while [/EN#128140/people a man] in [/EN#128148/clothing a straw hat] looks on .
+[/EN#128141/people The vendor] is holding [/EN#128143/other a lot of balloons] created in [/EN#128146/other the shape of Disney characters] .
+[/EN#128141/people A woman] holding [/EN#128145/animals a bunch of Mickey Mouse] , [/EN#128144/animals Minnie Mouse] , [/EN#128143/other Buzz Lightyear balloons] .
+[/EN#128140/people A man] and [/EN#128141/people woman] selling [/EN#128146/other balloons of Disney characters] .
+[/EN#128141/people Woman] holding [/EN#128143/other a group of balloons] .

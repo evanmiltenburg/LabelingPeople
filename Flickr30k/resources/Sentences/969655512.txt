@@ -1,0 +1,5 @@
+[/EN#284512/people A boy] in [/EN#284513/clothing a blue hat] and [/EN#284516/clothing shorts] is walking through [/EN#284514/other a brick structure] .
+[/EN#284512/people A young boy] in [/EN#284513/clothing a blue hat] is walking up [/EN#284517/other an alleyway] made of [/EN#284514/other stones] .
+[/EN#284512/people A boy] in [/EN#284513/clothing a blue baseball cap] walking through [/EN#284515/scene a stone wall walkway] .
+[/EN#284520/clothing this Guy , White shirt] , and [/EN#284516/clothing blue Shorts] taking [/EN#284518/other a turn] [/EN#0/notvisual some where] .
+[/EN#284512/people A boy] travels through [/EN#284515/scene a brick walkway] .

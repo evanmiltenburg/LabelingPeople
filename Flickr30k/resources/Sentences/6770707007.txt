@@ -1,0 +1,5 @@
+[/EN#257761/people A motor-cross cyclist] , dressed in [/EN#257765/clothing full racing gear] , is speeding over [/EN#257766/other the top of a sand dune] .
+[/EN#257761/people A BMX motorcyclist] dressed in [/EN#257765/other protective gear] and [/EN#257768/clothing helmet] , attempting [/EN#0/notvisual a jump] on [/EN#257766/other a sandy dune] .
+[/EN#257765/people A person] wearing [/EN#257763/clothing a black , white , and yellow uniform] is doing [/EN#0/notvisual a jump] on [/EN#257762/vehicles a dirt bike] .
+[/EN#257761/people Motocross biker] in [/EN#257763/clothing a black and yellow jumpsuit] jumping [/EN#257766/scene a hill] on [/EN#257762/vehicles his dirt bike] .
+[/EN#257761/people A person] performs [/EN#257764/other a stunt] with [/EN#257762/vehicles a bike] .

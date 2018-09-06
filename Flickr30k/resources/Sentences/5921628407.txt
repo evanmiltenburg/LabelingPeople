@@ -1,0 +1,5 @@
+[/EN#245328/people Two blond people] , [/EN#245328/other one] with [/EN#245330/bodyparts/people their arm] around [/EN#245335/bodyparts the others shoulders] , sitting in [/EN#245331/vehicles/scene the second seat of a bus] behind [/EN#245332/people another blond person] .
+[/EN#245328/people A young couple] riding on [/EN#245331/vehicles/scene a bus] with [/EN#245330/bodyparts/people the boy 's arm] around [/EN#245332/people the girl] .
+While riding in [/EN#245331/vehicles/scene a bus] , [/EN#245328/people one person] has [/EN#245330/bodyparts/people their arm] around [/EN#0/notvisual another] .
+[/EN#245328/people a couple] is ridding [/EN#245331/vehicles/scene a public bus] to [/EN#245333/other the mall] .
+[/EN#245328/people A guy] has [/EN#245330/bodyparts/people his arm] around [/EN#245332/people a girl] on [/EN#245331/vehicles/scene the bus] .

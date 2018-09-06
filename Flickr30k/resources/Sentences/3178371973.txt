@@ -1,0 +1,5 @@
+[/EN#98630/people Three women] sit on [/EN#98632/vehicles/scene the subway] ; [/EN#98636/other one] talks on [/EN#98639/other the phone] while [/EN#98637/other the others] read .
+[/EN#98630/people Three women] are minding [/EN#98638/other their own business] on [/EN#98633/vehicles/scene a bus] in [/EN#98634/scene the city] .
+[/EN#98630/people Three people] riding in [/EN#98631/vehicles/scene a blue bus] at [/EN#98635/scene night] .
+[/EN#98630/people People] seen through [/EN#98633/vehicles/scene the window of a bus] .
+[/EN#0/notvisual There] are [/EN#98630/people three women] on [/EN#98631/vehicles/scene a bus] .

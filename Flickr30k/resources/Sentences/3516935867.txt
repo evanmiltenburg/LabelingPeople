@@ -1,0 +1,5 @@
+[/EN#124150/animals A black horse] and [/EN#124151/people its rider] are clearing [/EN#0/notvisual a 3 rung high jump] in [/EN#124154/other a competition] .
+[/EN#124151/people A person] is riding [/EN#124150/animals a horse] as [/EN#0/notvisual it] jumps over [/EN#124152/other an obstacle] .
+[/EN#124150/animals A horse] and [/EN#124156/other rider leap] over [/EN#124152/other a striped hurdle] .
+[/EN#124151/people A rider] and [/EN#124150/animals horse] jumping [/EN#124152/scene a fence] [/EN#124155/scene outdoors] .
+[/EN#124151/people A person] jumping [/EN#124150/animals a horse] over [/EN#124152/scene a fence] .

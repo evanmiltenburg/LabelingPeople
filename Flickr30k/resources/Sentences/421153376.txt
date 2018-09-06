@@ -1,0 +1,5 @@
+[/EN#159245/animals A dog] is splashing [/EN#159247/scene water] into [/EN#0/notvisual the air] as [/EN#0/notvisual it] runs through [/EN#159246/scene a wet field of grass] .
+[/EN#159245/animals Dog] carry leash in [/EN#159250/bodyparts mouth] runs through [/EN#159246/scene marsh] .
+[/EN#159245/animals White dog] with [/EN#159251/clothing leash] running through [/EN#159246/scene water]
+[/EN#159248/scene A medium] sized [/EN#159245/animals dog] running through [/EN#159247/scene puddles]
+[/EN#159245/animals A dog] is jumping through [/EN#159247/scene the water] .

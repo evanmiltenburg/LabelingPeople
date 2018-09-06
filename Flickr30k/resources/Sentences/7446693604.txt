@@ -1,0 +1,5 @@
+[/EN#269971/people A bull rider] in [/EN#269973/clothing a white shirt] jumping [/EN#269976/scene the fence] to avoid being hit by [/EN#269972/animals the bull] .
+[/EN#269971/people A man] is leaping through [/EN#0/notvisual the air] escaping [/EN#269978/scene the arena] containing [/EN#269972/animals a bull] .
+[/EN#269971/people A man] in [/EN#269974/clothing white] jumps away from [/EN#269972/animals a bull] in [/EN#269976/clothing a bull-fighting ring] .
+[/EN#269971/people A man] is leaping over [/EN#269980/other a barrier] away from [/EN#269972/animals a bull] .
+[/EN#269971/people A man] jumping away from [/EN#269972/animals a bull] .

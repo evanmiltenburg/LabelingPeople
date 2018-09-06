@@ -1,0 +1,5 @@
+[/EN#213702/people One boy] stands on top of [/EN#213704/other a stone wall] while [/EN#0/notvisual another] stands nearby away from [/EN#213704/other the wall] .
+[/EN#213702/people A little boy] in [/EN#213709/clothing yellow] and [/EN#0/notvisual another] in [/EN#213707/clothing blue] are walking along [/EN#213704/other a broken brick wall] .
+[/EN#213703/people Two kids] wearing [/EN#213710/clothing yellow and blue jacket] are eating outside of [/EN#213711/scene the house]
+[/EN#213703/people Two young boys] standing on [/EN#213706/other a dirt hillside] in [/EN#213705/other the daylight] .
+[/EN#213703/people two children] are eating [/EN#213708/other something] outside .

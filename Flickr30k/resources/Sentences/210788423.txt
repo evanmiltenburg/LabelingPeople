@@ -1,0 +1,5 @@
+[/EN#29233/people A man] in [/EN#29240/clothing white slacks] and [/EN#29241/clothing black shoes] sits beside [/EN#29235/other a red bucket] full of [/EN#29235/other money] on [/EN#29238/other a blue folding chair] playing [/EN#29234/instruments a brown guitar] beside [/EN#29236/other a tray of produce] .
+[/EN#29233/people A man] is playing [/EN#29234/instruments guitar] in front of [/EN#29236/scene a vegetable stand] , and [/EN#0/notvisual he] has [/EN#29235/other a red bucket of money] on [/EN#0/notvisual the ground] near [/EN#0/notvisual him] .
+[/EN#29233/people An old man] in [/EN#29239/clothing white and pink] is playing [/EN#29234/instruments an acoustic guitar] by [/EN#29235/other a red bucket of money] and [/EN#29236/other a stand of red tomatoes] .
+[/EN#29233/people An old man] plays [/EN#29234/instruments guitar] in front of [/EN#29235/other a red bucket] filled with [/EN#29235/other money] .
+[/EN#29233/people A guitarist] busks beside [/EN#29236/scene a vegetable stand] .

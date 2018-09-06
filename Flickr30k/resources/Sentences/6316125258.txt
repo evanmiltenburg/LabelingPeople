@@ -1,0 +1,5 @@
+[/EN#252422/people A man] dressed in [/EN#252425/clothing blue] is performing [/EN#252427/other some yard work] with [/EN#0/notvisual what] appears to be [/EN#252429/other a broom or rake] on [/EN#252428/other the steps] leading up to [/EN#252423/scene a house] next to [/EN#252430/scene a street] on [/EN#252424/scene a sunny day] .
+[/EN#252422/people A man] in [/EN#252425/clothing blue] is walking down [/EN#252431/scene a wooden staircase] at [/EN#252426/scene the side of a house] .
+[/EN#252422/people A gentleman] is doing [/EN#252427/other some landscaping work] near [/EN#252423/scene his beautiful house] .
+[/EN#252422/people Man] cleaning off [/EN#252428/other stone stairs] on [/EN#252424/scene a sunny day] .
+[/EN#252422/people A man] sweeping [/EN#252428/other the stairs] down from [/EN#252426/scene his house] .

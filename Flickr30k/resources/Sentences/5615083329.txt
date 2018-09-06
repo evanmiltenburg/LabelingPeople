@@ -1,0 +1,5 @@
+[/EN#239765/other A tall figure] wearing [/EN#239772/clothing a hoodie] underneath [/EN#239768/clothing a red sports jersey] leans against [/EN#239767/other a rail] , watching [/EN#239773/scene an unknown sporting event] .
+[/EN#239765/people A man] wearing [/EN#239775/clothing glasses] leans against [/EN#239767/other a railing] while holding [/EN#239771/other a cup] is looking down at [/EN#239766/other the action] below .
+[/EN#239765/people A man] is leaning on [/EN#239767/other a railing] [/EN#0/notvisual that] looks down onto [/EN#239767/scene a sports field] in [/EN#239774/scene a stadium] .
+[/EN#239765/people A man] , with [/EN#239768/clothing a red sports jersey] , looks on at [/EN#239766/other a football match] .
+[/EN#239765/people guy] standing alone in [/EN#239767/scene the stands] at [/EN#239767/scene soccer stadium] .

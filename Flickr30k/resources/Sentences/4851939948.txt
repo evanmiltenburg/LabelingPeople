@@ -1,0 +1,5 @@
+[/EN#210878/people A man] wearing [/EN#210882/clothing a hat] and [/EN#210888/clothing tennis shoes] sits on [/EN#210881/other a granite ledge] next to [/EN#210879/people a boy] [/EN#0/notvisual who] has taken [/EN#210887/clothing his tennis shoes] off .
+[/EN#210878/people A man] with [/EN#210879/people a young boy] sitting by [/EN#210884/scene the water] reads [/EN#210883/other a paper] .
+[/EN#210878/people A man] in [/EN#210882/clothing a hat] and [/EN#210879/people a boy] in [/EN#210882/clothing a hat] sit outside [/EN#210880/other the Louvre] .
+[/EN#210878/people Father] and [/EN#210879/people son] taking [/EN#210885/scene a break] and checking out [/EN#210884/scene the water] .
+[/EN#210878/people A tourist] is reading [/EN#210883/other a map] .

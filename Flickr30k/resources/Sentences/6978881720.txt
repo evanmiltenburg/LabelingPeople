@@ -1,0 +1,5 @@
+[/EN#263048/people A man] with [/EN#263056/clothing a gray jacket] on [/EN#0/notvisual that] has [/EN#263054/other a red and black stripe] on [/EN#263057/clothing the sleeve] at [/EN#263050/scene a shooting range] with [/EN#263052/scene multiple targets] .
+[/EN#263048/people a boy] firing [/EN#263049/other a gun] inside [/EN#263050/scene a shooting range]
+[/EN#263048/people A boy] at [/EN#263053/other a gun range aims] and [/EN#263055/other shoots] .
+[/EN#263048/people A boy] aiming [/EN#263049/other his gun] at [/EN#263051/scene a target] .
+[/EN#263048/people One boy] at [/EN#263050/scene the shooting range] .

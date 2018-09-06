@@ -1,0 +1,5 @@
+[/EN#208957/people A man] is standing in [/EN#208960/scene the doorway of a building] with [/EN#208958/people a large mural portrait of a woman] on [/EN#208959/other the wall] outside .
+[/EN#208957/people A man] is standing inside [/EN#208960/scene a doorway] [/EN#0/notvisual that] is in [/EN#208959/other a wall] painted with [/EN#208958/people a mural of a woman] .
+[/EN#208958/people A woman] painted on [/EN#208959/other a wall] and [/EN#208957/people a man] in [/EN#208960/scene the doorway] in [/EN#208963/other the same wall] .
+[/EN#208957/people Man] standing next to [/EN#208958/other a painting] on [/EN#208959/other a brick wall] .
+[/EN#208957/people A man] is standing in [/EN#208960/scene the doorway of a building] .

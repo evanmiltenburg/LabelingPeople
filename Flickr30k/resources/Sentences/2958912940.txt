@@ -1,0 +1,5 @@
+[/EN#84156/people A person] with [/EN#84157/bodyparts gray hair] , dressed entirely in [/EN#84158/clothing gray] , [/EN#84156/other lies] on [/EN#84160/other the wooden slats of a park bench] .
+[/EN#84156/people A person] with [/EN#84157/bodyparts gray hair] and [/EN#84158/clothing a gray outfit] is lying down on [/EN#84160/other a bench] .
+[/EN#84156/people A older person] in [/EN#84158/clothing dark clothing] asleep on [/EN#84160/other a park bench] .
+[/EN#84156/people A man] is sleeping on [/EN#84160/other a park bench] .
+[/EN#84156/people A man] sleeping on [/EN#84160/other a park bench] .

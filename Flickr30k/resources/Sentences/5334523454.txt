@@ -1,0 +1,5 @@
+[/EN#233877/people A young child] is standing shirtless in [/EN#233880/scene a dark forest] ; holding [/EN#233879/animals a small bird] cupped in [/EN#233881/bodyparts his hands] .
+[/EN#233877/people A little boy] without [/EN#233882/clothing a shirt] on is standing in [/EN#233880/scene a forest] , holding [/EN#233879/animals a small bird] in [/EN#233881/bodyparts his hands] .
+[/EN#233877/people One shirtless kid] holding [/EN#233879/animals a bird] with [/EN#233880/scene a forest] in [/EN#0/notvisual the background] .
+[/EN#233877/people A small shirtless boy] holds [/EN#233879/animals a bird] in [/EN#233881/bodyparts his hand] in [/EN#233880/scene the forest] .
+[/EN#233877/people A little boy] holding [/EN#233879/animals a bird] in [/EN#0/notvisual what] looks like [/EN#233880/scene the forest] .

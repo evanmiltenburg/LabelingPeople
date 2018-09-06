@@ -1,0 +1,5 @@
+[/EN#75505/animals A dog] is jumping over [/EN#75506/scene a series of colored gates] .
+[/EN#75505/animals A black and white dog] is jumping over [/EN#75506/other a hurdle] .
+[/EN#75505/animals A dog] hurdles over [/EN#75506/other a series of poles] .
+[/EN#75505/animals A small black dog] jumping over [/EN#75507/scene gates]
+[/EN#75505/animals A dog] jumping over [/EN#75506/other a beam]

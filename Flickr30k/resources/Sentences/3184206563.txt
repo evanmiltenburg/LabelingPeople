@@ -1,0 +1,5 @@
+[/EN#99314/people A woman] in [/EN#99315/clothing the blue sweater] is running through [/EN#99316/scene a brown field] .
+[/EN#99314/people A woman] in [/EN#99315/clothing a blue shirt] runs through [/EN#99316/scene a field of dry grass] .
+[/EN#99314/people The woman] in [/EN#99315/clothing the blue jacket] ran through [/EN#99316/scene the field] .
+[/EN#99314/people A woman] runs outside in [/EN#99315/clothing a blue coat] .
+[/EN#99314/people a woman] jogging on [/EN#99316/scene an open field]

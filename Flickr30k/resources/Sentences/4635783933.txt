@@ -1,0 +1,5 @@
+[/EN#185096/people Several people] travel toward [/EN#185097/scene a building] in [/EN#0/notvisual which] [/EN#185101/other food] and [/EN#185100/other drinks] are served .
+[/EN#185096/people a group of people] walking down [/EN#185098/scene road] heading away from [/EN#0/notvisual the camera] .
+[/EN#185096/people A group of people] are walking across [/EN#185098/scene a city plaza] .
+[/EN#185096/people A group of people] are walking towards [/EN#185097/scene a Bistro] .
+[/EN#185096/people group of people] in [/EN#185099/other a square] on [/EN#185102/scene sunny day]

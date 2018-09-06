@@ -1,0 +1,5 @@
+[/EN#71334/people A person] with [/EN#71335/other a red had] is carrying [/EN#71336/other ice cream] in [/EN#71337/other a tray] on [/EN#71338/bodyparts their head] in front of [/EN#71339/scene a building] [/EN#0/notvisual that] has [/EN#71340/other the word] " [/EN#71341/other CAMARA] " painted on [/EN#0/notvisual the side] in [/EN#71341/clothing blue] .
+[/EN#71334/people A person] in [/EN#71342/clothing a red hat] carrying [/EN#71336/other a giant bowl of ice cream] with [/EN#71343/other several cones] sicking out of [/EN#0/notvisual it] .
+[/EN#71334/people A woman] with [/EN#71344/clothing an orange shirt] is holding [/EN#71345/other a trey] with [/EN#71336/other ice cream] and [/EN#71346/other ice cream cones] on [/EN#0/notvisual it] .
+[/EN#71334/people A woman] in [/EN#71342/clothing a red hat] carrying [/EN#71346/other ice cream cones] on [/EN#71338/bodyparts her head] .
+[/EN#71334/people A person] is carrying [/EN#71347/other frozen treats] on top of [/EN#71338/bodyparts their head] .

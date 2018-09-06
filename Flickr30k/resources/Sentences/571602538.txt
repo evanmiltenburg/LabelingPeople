@@ -1,0 +1,5 @@
+[/EN#241514/people The worker] is assessing [/EN#241520/scene the job site] after [/EN#241518/other a tree] has been damaged and broken .
+[/EN#241514/people A man] in [/EN#241516/clothing a hard hat] , [/EN#241515/clothing green t-shirt] , and [/EN#241519/clothing boots] is passing [/EN#241517/other the road cone] .
+[/EN#241514/people A road worker] in [/EN#241515/clothing green] , [/EN#0/notvisual there] is [/EN#241517/other an orange cone] near [/EN#0/notvisual him] .
+[/EN#241514/people A man] in [/EN#241516/clothing a hard hat] is walking past [/EN#241517/other an orange cone] .
+[/EN#241514/people a man] in [/EN#241515/clothing a green shirt] near [/EN#241517/other a orange cone] .

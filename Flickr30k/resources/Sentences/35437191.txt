@@ -1,0 +1,5 @@
+[/EN#126330/people A man] in [/EN#126336/clothing a white dress shirt] and [/EN#126338/clothing khaki pants] is using [/EN#126335/other an object] to construct [/EN#126332/other a sand sculpture] .
+[/EN#126330/people A man] with [/EN#126339/bodyparts a mustache] [/EN#0/notvisual who] is wearing white and beige [/EN#126337/other carefully sculpts] [/EN#126333/scene a sand castle] .
+[/EN#126330/people An older man] wearing [/EN#126334/clothing a hat] is building [/EN#126332/other a sand-castle] on [/EN#126331/scene a public beach] .
+[/EN#126330/people A man] is at [/EN#126331/scene the beach] making [/EN#126332/other a sand sculpture] .
+[/EN#126330/people Man] building [/EN#126333/scene a sand castle] .

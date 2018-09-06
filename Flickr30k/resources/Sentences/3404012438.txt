@@ -1,0 +1,5 @@
+[/EN#115827/animals A white dog] is swimming in [/EN#115829/scene a lake] while [/EN#115828/animals a bird] flies away .
+As [/EN#115827/animals the dog] swims close , [/EN#115828/animals the duck] flies away .
+[/EN#115827/animals a white dog] in [/EN#115829/scene a river] is chasing [/EN#115828/animals a duck]
+[/EN#115827/animals A white dog] is swimming after [/EN#115828/animals a duck] .
+[/EN#115827/animals A dog] chasing [/EN#115828/animals a duck] in [/EN#115829/scene a pond] .

@@ -1,0 +1,5 @@
+[/EN#9159/people A man] with [/EN#9160/clothing a black and blue backpack] hikes down [/EN#9161/bodyparts a rock face] .
+[/EN#9159/people A hiker] walks down [/EN#9166/scene a rocky path] towards [/EN#9162/scene land] with [/EN#9163/scene water] .
+[/EN#9159/people Hiker] climbing down [/EN#9164/scene a snow] and [/EN#9166/scene rock covered mountain] .
+[/EN#9159/people The man] climbs through [/EN#9161/other the rocks] and [/EN#9164/scene snow] .
+[/EN#9159/people A backpacker] walks down [/EN#9166/scene a rocky mountain] .

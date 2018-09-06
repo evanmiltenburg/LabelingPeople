@@ -1,0 +1,5 @@
+[/EN#202667/people a man] leaning on [/EN#202670/scene the side of a building] is playing [/EN#202668/instruments the accordion] .
+[/EN#202667/people A mustached man] wearing [/EN#202671/clothing a dark gray shirt] plays [/EN#202668/instruments an accordion] .
+[/EN#202667/people An aged man] stands against [/EN#202670/other a wall] playing [/EN#202668/instruments an accordion] .
+[/EN#202667/people A mustachioed man] plays [/EN#202668/instruments the accordion] on [/EN#202669/scene the street] .
+[/EN#202667/people A man] plays [/EN#202668/instruments an accordion] outdoors .

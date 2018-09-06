@@ -1,0 +1,5 @@
+[/EN#113390/people A man] in [/EN#113393/clothing a jacket] is standing in [/EN#113392/scene a gas station] , next to [/EN#113391/vehicles a car] and [/EN#113395/other lights] are shining in [/EN#0/notvisual the distance] .
+[/EN#113390/people A man] in [/EN#113393/clothing a tan jacket] at [/EN#113392/scene the gas station] pumping [/EN#113394/other gas] .
+[/EN#113390/people The man] is filling [/EN#113391/vehicles his car] with [/EN#113394/other gasoline] .
+[/EN#113390/people A man] pumping [/EN#113394/other gas] at [/EN#113392/scene a gas station] .
+[/EN#113390/people A man] dressed in [/EN#113396/other tan pumps gas] .

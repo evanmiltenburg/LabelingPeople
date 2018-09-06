@@ -1,0 +1,5 @@
+[/EN#179318/people A man] in [/EN#179322/clothing a red jacket] and [/EN#179324/clothing black backpack] is walking in [/EN#179319/scene the street] .
+[/EN#179318/people A man] and [/EN#179320/animals his dog] walking through [/EN#179319/scene a crowded street] on [/EN#179321/scene a rainy day] .
+[/EN#179318/people A man] in [/EN#179322/clothing a red jacket] is walking down [/EN#179319/scene the street] with [/EN#179320/animals a dog] .
+[/EN#179323/people People] are walking through [/EN#179319/scene city streets] on [/EN#179321/scene a rainy day] .
+[/EN#179318/people Man] in [/EN#179325/clothing red] carries [/EN#179326/other flowers] as [/EN#179320/animals a dog] follows .

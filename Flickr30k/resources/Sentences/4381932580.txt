@@ -1,0 +1,5 @@
+[/EN#165711/people A woman] is sitting on [/EN#165712/scene a beach] with [/EN#165716/clothing her shoes] off and on [/EN#165713/other a cellphone] talking , scratching [/EN#165718/bodyparts her shoulder] , while [/EN#165715/people a group of 5 other people] are walking in [/EN#0/notvisual the background] .
+[/EN#165711/people A girl] in [/EN#165714/clothing a hat] sit on [/EN#165712/scene a beach] while talking on [/EN#165713/other her cellphone] .
+[/EN#165711/people Woman] in [/EN#165714/clothing hat] and talking on [/EN#165713/other cellphone] sitting on [/EN#165712/scene the beach] .
+[/EN#165711/people A woman] sits on [/EN#165712/scene the beach] while talking on [/EN#165713/other her cellphone] .
+[/EN#165711/people A lady] sits in [/EN#165712/other the sand] on [/EN#165712/scene the beach] .

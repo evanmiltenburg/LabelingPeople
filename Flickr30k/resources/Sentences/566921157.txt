@@ -1,0 +1,5 @@
+[/EN#240616/animals Two dogs] running over [/EN#240622/scene packed dirt] and [/EN#240623/other rocks]
+[/EN#240616/animals Two large dogs] run along [/EN#240617/scene a muddy path] .
+[/EN#240619/clothing A brown] and [/EN#240620/animals a brown dog] are running .
+[/EN#240616/animals Two dogs] running in [/EN#240617/scene the dirt]
+[/EN#240616/animals Two dogs] run through [/EN#240621/other mud] .

@@ -1,0 +1,5 @@
+[/EN#71890/people A person] para-glides on [/EN#71899/scene the shore of a large body of water] , heading towards [/EN#71896/other an unseen landing location] .
+[/EN#71895/people This active person] is [/EN#71893/scene sky] flying in [/EN#71898/scene the beautiful and clam blue sky] .
+[/EN#71890/people A person] is sailing in [/EN#0/notvisual the air] with [/EN#71891/other a red parachute] over [/EN#71892/scene grass] .
+[/EN#71891/other A red parasail] is floating over [/EN#71892/scene the grassy beach] and [/EN#71897/scene ocean] .
+[/EN#71890/people A para-glider] flying over [/EN#71892/scene a grassy field] .

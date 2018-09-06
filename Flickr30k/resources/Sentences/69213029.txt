@@ -1,0 +1,5 @@
+[/EN#261458/people An older woman] in [/EN#261464/clothing a white shirt] is trying on [/EN#261460/clothing a hat] while glancing in [/EN#261463/other the mirror] while [/EN#261459/people another older woman] in [/EN#261466/clothing a loud print shirt] looks on .
+[/EN#261458/people An elderly woman] tries on [/EN#261460/clothing a black hat] while looking in [/EN#261463/other a mirror] at [/EN#261461/scene a clothing boutique] , with [/EN#261459/people a sales assistant] to [/EN#261459/scene her right] .
+[/EN#261459/people An older woman] looks at [/EN#0/notvisual the camera] , while [/EN#261458/people another older woman] tries on [/EN#261460/clothing a hat] inside [/EN#261461/scene a store] .
+[/EN#261458/people One woman] is trying on [/EN#261460/clothing a hat] in [/EN#261463/other the mirror] while [/EN#261459/people another lady] helps [/EN#0/notvisual her] .
+[/EN#261458/people A woman] in [/EN#261464/clothing a white shirt] tries on [/EN#261460/clothing a hat] in front of [/EN#261463/other a mirror] .

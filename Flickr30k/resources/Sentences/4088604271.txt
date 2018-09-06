@@ -1,0 +1,5 @@
+[/EN#154781/people A group of children] , standing in [/EN#154782/other a circle] , holding [/EN#154783/bodyparts hands] .
+[/EN#154781/people A group of children] are standing in [/EN#154782/other a circle] holding [/EN#154783/bodyparts hands] .
+[/EN#154781/people A group of children] holding [/EN#154783/bodyparts hands] in [/EN#154782/other a circle] .
+[/EN#154781/people The kids] form [/EN#154782/other a circle] on [/EN#154784/scene the pavement] .
+[/EN#154781/people Children] holding [/EN#154783/bodyparts hands] in [/EN#154782/other a circle] .

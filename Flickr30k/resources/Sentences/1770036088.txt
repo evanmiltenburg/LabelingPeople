@@ -1,0 +1,5 @@
+[/EN#20110/people A parent] and [/EN#20111/people child] are in [/EN#20115/other an embrace] in [/EN#20112/other bed] .
+[/EN#20110/people The woman] is laying in [/EN#20112/other bed] with [/EN#20111/people a young girl] .
+[/EN#20110/people A woman] and [/EN#20111/people a small child] laying in [/EN#20112/other bed] .
+[/EN#20110/people A man] and [/EN#20111/people a girl] in [/EN#20112/other bed] .
+[/EN#20114/people Two people] are in [/EN#20112/other bed] .

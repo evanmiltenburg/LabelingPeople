@@ -1,0 +1,5 @@
+[/EN#127961/people A painting of a man] riding [/EN#127963/vehicles a mountain bike] on [/EN#127964/scene a mountain trail] .
+[/EN#127961/people A guy] riding [/EN#127963/vehicles a BMX bicycle] along [/EN#127964/scene a trail] .
+[/EN#127961/people A person] is riding [/EN#127963/vehicles a bike] on [/EN#127964/scene a dirt road] .
+[/EN#127961/people A guy] on [/EN#127963/vehicles a bike] goes through [/EN#127964/scene dirt] .
+[/EN#127961/people A biker] wearing [/EN#127966/clothing a helmet] .

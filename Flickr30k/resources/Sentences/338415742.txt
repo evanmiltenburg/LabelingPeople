@@ -1,0 +1,5 @@
+[/EN#114539/people A person] with [/EN#114547/clothing a sweater] on is carrying [/EN#114549/other a back] and walking beside [/EN#114540/people a little girl] wearing [/EN#114546/clothing a backpack] as [/EN#0/notvisual she] pushes [/EN#114542/vehicles a cart] .
+[/EN#114539/people Man] with [/EN#114543/clothing orange duffel bag] and [/EN#114540/people girl] in [/EN#114550/bodyparts pigtails] push [/EN#114542/vehicles a loaded cart] down [/EN#114545/scene a sidewalk] .
+[/EN#114539/people A man] with [/EN#114543/clothing a duffel bag] and [/EN#114540/people girl] pushing [/EN#114542/vehicles a cart] walk down [/EN#114545/scene a street] .
+[/EN#114539/people A man] and [/EN#114540/people a little girl] take [/EN#114548/other luggage] down [/EN#114545/scene a red street] .
+[/EN#114539/people A man] with [/EN#114540/people a little girl] walk with [/EN#114548/clothing bags] .

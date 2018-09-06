@@ -1,0 +1,5 @@
+[/EN#207163/people A woman] with [/EN#207164/other luggage] is standing on [/EN#207165/scene the side of a street] .
+[/EN#207163/people An older woman] waiting at [/EN#207166/other the bus stop] with [/EN#207168/clothing her bags] .
+[/EN#207163/people A woman] with [/EN#207164/other a rolling luggage] waits on [/EN#207165/scene a sidewalk] .
+[/EN#207163/people A woman] with [/EN#207164/other a blue suitcase] waits on [/EN#207167/other the curb] .
+[/EN#207163/people A woman] on [/EN#207165/scene a sidewalk] with [/EN#207164/other luggage] .

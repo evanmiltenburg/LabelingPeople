@@ -1,0 +1,5 @@
+[/EN#235043/people Two men] riding [/EN#235049/animals horses] while wearing [/EN#235051/other traditional gaucho wear] and chasing down [/EN#235044/animals a small calf] in front of [/EN#235046/people a spectator] rodeo [/EN#235046/people crowd] .
+[/EN#235043/people Two men] [/EN#0/notvisual both] wearing [/EN#235053/clothing cowboy hats] and [/EN#235054/clothing ponchos] riding [/EN#235049/animals horses] chasing [/EN#235044/animals a cow] .
+[/EN#235043/people Two men] attempt to rope [/EN#235044/animals a calf] while [/EN#235046/people an audience] watches .
+[/EN#235043/people Two cowboys] racing [/EN#235049/animals horses] in [/EN#235046/scene a stadium] behind [/EN#235044/animals a cow] .
+[/EN#235043/people Cowboys] are roping [/EN#235044/other the young calves] at [/EN#235050/other the rodeo] .

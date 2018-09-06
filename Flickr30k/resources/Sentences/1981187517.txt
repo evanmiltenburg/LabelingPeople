@@ -1,0 +1,5 @@
+[/EN#24539/people A long-haired man] stands next to [/EN#24540/other a gray brick wall] in front of [/EN#24542/animals a seagull] playing [/EN#24541/instruments an instrument] .
+[/EN#24539/people A long-haired man] is playing [/EN#24541/instruments the recorder] and [/EN#24542/animals a seagull] is sitting nearby on [/EN#24540/other a wall] .
+[/EN#24539/people A man] playing [/EN#24541/instruments a plastic flute] while [/EN#24542/animals a seagull] looks on .
+[/EN#24539/people A man] plays [/EN#24541/instruments a recorder] to [/EN#24542/animals a seagull] by [/EN#24540/other a brick wall] .
+[/EN#24539/people A man] playing [/EN#24541/instruments the flute] for [/EN#24542/animals a pigeon] .

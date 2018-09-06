@@ -1,0 +1,5 @@
+[/EN#49945/animals a group of muzzled greyhound dogs] jumping over [/EN#49946/other a wall] .
+[/EN#49945/animals The dogs] jump over [/EN#49946/other an obstacle] at [/EN#49948/scene an event] .
+[/EN#49945/animals Four dogs] jumping over [/EN#49946/other a hurdle] .
+[/EN#49945/animals many dogs] jump over [/EN#49946/scene a fence] .
+[/EN#49945/animals The dogs] are racing .

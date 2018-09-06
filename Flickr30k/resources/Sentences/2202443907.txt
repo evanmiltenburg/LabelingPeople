@@ -1,0 +1,5 @@
+[/EN#33857/people A woman] on [/EN#33863/scene a shoreline] wearing [/EN#33860/clothing pale jeans] and [/EN#33858/clothing multicolored jacket] , is squinting through [/EN#33859/other a telescope] .
+[/EN#33857/people A woman] in [/EN#33860/clothing jeans] looks through [/EN#33859/other a telescope] situated in front of [/EN#33862/scene a body of water] .
+[/EN#33857/people A woman] looking at [/EN#33861/scene the daytime sky] through [/EN#33859/other a telescope] [/EN#0/notvisual that] 's on [/EN#33864/other a tripod] .
+[/EN#33857/people A person] in [/EN#33858/clothing a green shirt] is looking up at [/EN#33861/scene the sky] using [/EN#33859/other a telescope] .
+[/EN#33857/people An Asian woman] peers up at [/EN#33861/scene the daytime sky] with [/EN#33859/other a telescope] .

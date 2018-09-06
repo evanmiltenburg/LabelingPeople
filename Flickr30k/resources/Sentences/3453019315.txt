@@ -1,0 +1,5 @@
+[/EN#119270/people A helmeted male] airborne on [/EN#119273/vehicles a bike] on [/EN#119272/scene a dirt road] .
+[/EN#119270/people The man] jumped in [/EN#0/notvisual the air] with [/EN#119273/other his motorcycle] .
+[/EN#119270/people A dirt bike rider] is [/EN#119275/scene midair] while on [/EN#119272/scene a trail] .
+[/EN#119270/people Man] performing [/EN#0/notvisual a trick] on [/EN#119273/scene a bicycle outside] .
+[/EN#119270/people A man] does [/EN#0/notvisual a bike trick] on [/EN#119272/scene a dirt path] .

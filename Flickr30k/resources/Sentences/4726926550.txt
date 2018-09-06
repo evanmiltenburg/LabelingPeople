@@ -1,0 +1,5 @@
+[/EN#195949/people A woman] is walking or running on [/EN#195951/scene a city sidewalk] [/EN#0/notvisual that] is next to [/EN#195950/scene a body of water] .
+[/EN#195949/people A woman] in [/EN#195952/clothing a gray and white striped shirt] is jogging across [/EN#195951/scene a bridge] .
+[/EN#195949/people A woman] in [/EN#195952/clothing a striped shirt] jogs next to [/EN#195953/scene water] .
+[/EN#195949/people A female runner] jogging along beside [/EN#195950/scene a river] .
+[/EN#195949/people Female jogger] runs along [/EN#195953/scene a river] in [/EN#195954/scene a city] .

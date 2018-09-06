@@ -1,0 +1,5 @@
+[/EN#58538/people A man] with [/EN#58547/other an arm brace] and [/EN#58540/other a walking cane] on [/EN#58542/scene a paved walkway] at [/EN#58549/clothing a park green] , [/EN#58548/people an older man] is standing directly behind [/EN#0/notvisual him] and [/EN#58550/people two other people] are on [/EN#58541/scene the distant grass] .
+[/EN#58538/people A man] with [/EN#58546/other a hand injury] is walking with [/EN#58540/other a cane] in [/EN#58543/scene a park] .
+[/EN#58538/people An older man] with [/EN#58539/bodyparts/people a broken arm] and [/EN#58540/other cane] is at [/EN#58543/scene the park] .
+[/EN#58538/people Older man] with [/EN#58539/bodyparts/people bad arm] walking with [/EN#58540/other cane] in [/EN#58543/scene park] .
+[/EN#58538/people A person] walking on [/EN#58542/scene a path] while using [/EN#58540/other a cane] .

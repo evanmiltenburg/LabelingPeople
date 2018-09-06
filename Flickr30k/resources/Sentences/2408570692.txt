@@ -1,0 +1,5 @@
+[/EN#46957/people A woman] in [/EN#46965/clothing a white coat] speaks to [/EN#46958/people a woman] in [/EN#46959/clothing a green coat] while waiting for [/EN#46964/vehicles/scene a train] .
+[/EN#46958/people A woman] wearing [/EN#46959/clothing a green coat] , and [/EN#46957/people a woman] in [/EN#46963/clothing a tan coat] waiting for [/EN#46960/vehicles/scene the subway] .
+[/EN#46956/people A group of woman] discussing [/EN#46961/other the artwork] as [/EN#0/notvisual they] wait for [/EN#46960/vehicles/scene the train] .
+[/EN#46956/people People] stand on [/EN#46962/other a subway platform] waiting for [/EN#46960/vehicles/scene their train] .
+[/EN#46956/people Two women] are talking in [/EN#46960/scene a subway area] .

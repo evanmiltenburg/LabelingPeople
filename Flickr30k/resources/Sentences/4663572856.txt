@@ -1,0 +1,5 @@
+[/EN#188161/people A man] wearing [/EN#188165/clothing suspenders] and [/EN#188165/clothing a dark blue shirt] standing on top of [/EN#188162/other a firetruck] .
+[/EN#188161/people A fireman] is standing on top of [/EN#188162/other a firetruck] looking out into [/EN#0/notvisual the distance] .
+[/EN#188161/people Man] standing on [/EN#188162/other a firetruck] in front of [/EN#188163/scene brick building] .
+[/EN#188161/people A firefighter] stands on top of [/EN#188162/other the firetruck] .
+[/EN#188161/people A fireman] standing on top of [/EN#188162/other a firetruck] .

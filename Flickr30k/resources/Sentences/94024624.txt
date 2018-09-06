@@ -1,0 +1,5 @@
+[/EN#283761/people An oriental woman] wearing [/EN#283763/clothing a hat] riding down [/EN#283764/scene the street] on [/EN#283762/vehicles a bicycle] .
+[/EN#283761/people An asian woman] wearing [/EN#283763/clothing a traditional hat] is riding [/EN#283762/vehicles the bicycle] .
+[/EN#283761/people Asian woman] wearing [/EN#283763/clothing a sunhat] while riding [/EN#283762/vehicles a bike] .
+[/EN#283761/people A woman] wearing [/EN#283763/clothing a hat] is riding [/EN#283762/vehicles a bike] .
+[/EN#283761/people A Asian woman] riding [/EN#283762/vehicles a bike] .

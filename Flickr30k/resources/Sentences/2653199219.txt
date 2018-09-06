@@ -1,0 +1,5 @@
+[/EN#64088/people A young child] is eating [/EN#64089/other a meal] out of [/EN#64091/other a styrofoam container] while [/EN#0/notvisual he] sits at [/EN#64092/other a table] next to [/EN#64094/other a window] .
+[/EN#64088/people Young boy] is eating [/EN#64089/other an egg roll] with [/EN#64090/other a plastic fork] and looking off into [/EN#0/notvisual the distance] .
+[/EN#64088/people A child] eating [/EN#64089/other food] with [/EN#64095/bodyparts his head] resting against [/EN#64096/bodyparts his hand] .
+[/EN#64088/people a kid] eating [/EN#64091/other a takeout box of food]
+[/EN#64088/people A young boy] eating [/EN#64089/other an enchilada] .

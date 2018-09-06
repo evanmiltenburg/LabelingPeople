@@ -1,0 +1,5 @@
+[/EN#29325/animals A white and black spotted dog] is running through [/EN#29326/scene a grassy area] .
+[/EN#29325/animals A white dog] with [/EN#29327/scene brown spots] is jumping through [/EN#0/notvisual the air] .
+[/EN#29329/clothing Black] and [/EN#29325/animals white dog] running across [/EN#29326/scene grass] .
+[/EN#29325/animals A dog] is running through [/EN#29326/scene a green yard] .
+[/EN#29325/animals A dog] running though [/EN#29326/scene a green yard] .

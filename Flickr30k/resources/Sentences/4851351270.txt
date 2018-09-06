@@ -1,0 +1,5 @@
+[/EN#210734/people A woman] with [/EN#210736/clothing a beige sleeveless shirt] and [/EN#210737/clothing jeans] sits on [/EN#210735/other a sidewalk bench] looking toward [/EN#0/notvisual the camera] .
+[/EN#210734/people A woman] in [/EN#210739/clothing a tan top and jeans] is sitting on [/EN#210735/other a bench] wearing [/EN#210738/clothing headphones] .
+[/EN#210734/people A woman] wearing [/EN#210736/clothing a gray shirt] and [/EN#210737/clothing blue jeans] sitting on [/EN#210735/other a gray bench] .
+[/EN#210734/people A Woman] with [/EN#210736/clothing a white Blouse] , and [/EN#210737/clothing blue Jeans] , sitting on [/EN#210735/other a Bench] .
+[/EN#210734/people A woman] is sitting on [/EN#210735/other a park bench] and listening to [/EN#210738/clothing headphones] .

@@ -1,0 +1,5 @@
+[/EN#38515/people A man] in [/EN#38516/clothing a black hat] is sitting on [/EN#38517/other a stool] in front of [/EN#38518/other a lime green door] with [/EN#38519/people a speaker] on [/EN#0/notvisual his right side] .
+[/EN#38515/people An older man] wearing [/EN#38516/clothing a black hat] , [/EN#38520/clothing tan jacket] , and [/EN#38521/clothing dark pants] , sits in front of [/EN#38518/other a lime green door] .
+[/EN#38515/people A man] wearing [/EN#38516/clothing a black hat] is sitting on [/EN#38517/other a stool] in front of [/EN#38518/other a green door] and next to [/EN#38519/people speakers] .
+[/EN#38515/people A man] in [/EN#38516/clothing a bowler hat] sitting next to [/EN#38519/people a speaker] and [/EN#38522/other a figure] playing [/EN#38523/instruments a saxophone] .
+[/EN#38515/people An older african man] enjoying [/EN#38525/other the music] .

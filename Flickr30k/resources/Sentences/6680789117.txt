@@ -1,0 +1,5 @@
+[/EN#256816/people Two boats of people] kayaking , [/EN#256819/vehicles/scene a smaller yellow boat] with [/EN#256811/people two people] and [/EN#256812/vehicles/scene a larger white boat] with [/EN#256821/people six people] .
+[/EN#256811/people Two people] in [/EN#256813/other a yellow kayak] are coming toward [/EN#256812/other a larger , white kayak] on [/EN#256820/scene open water] .
+[/EN#256811/people Two kayakers] interrupt [/EN#256812/other a race] and are about to hit [/EN#256812/other competitors of the race] .
+[/EN#256811/people Two rowers] in [/EN#256813/other yellow canoe approach] [/EN#256815/people six rowers] in [/EN#256812/other a longer white canoe] .
+[/EN#256811/people Two people] in [/EN#256813/other a yellow kayak come] along side [/EN#256812/other a larger white kayak] .

@@ -1,0 +1,5 @@
+[/EN#40699/people A woman] wearing [/EN#40700/clothing a black coat] and [/EN#40701/clothing sunglasses] is standing in front of [/EN#40702/people a man] walking away with [/EN#40703/clothing a backpack] .
+[/EN#0/notvisual There] is [/EN#40699/people a woman] in [/EN#40700/clothing a black jacket] and [/EN#40701/clothing sunglasses] and [/EN#40702/people a man] in [/EN#40704/clothing a white shirt] with [/EN#40707/other his back] turned .
+[/EN#40699/people The woman] in [/EN#40700/clothing the dark coat] is facing [/EN#0/notvisual the camera] , while [/EN#40702/people the man] in [/EN#40704/clothing the blue shirt] faces away .
+[/EN#40699/people a woman] in [/EN#40700/clothing a black overcoat] and [/EN#40705/bodyparts red-hair] with [/EN#40702/people man] in [/EN#40704/clothing white] walking behind [/EN#0/notvisual her]
+[/EN#40699/people A woman] wears [/EN#40701/clothing sunglasses] and [/EN#40700/clothing a black coat] as [/EN#0/notvisual she] walks .

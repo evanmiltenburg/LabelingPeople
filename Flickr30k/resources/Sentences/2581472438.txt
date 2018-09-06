@@ -1,0 +1,5 @@
+[/EN#59533/people A man] with [/EN#59534/clothing black slacks] and [/EN#59535/clothing red shirt] standing in front of [/EN#59540/scene a classroom] with [/EN#59536/other a whiteboard] behind [/EN#0/notvisual him] .
+[/EN#59533/people A man] in [/EN#59535/clothing a red button-down shirt] is teaching [/EN#59541/people a class] in [/EN#59540/scene a classroom] with [/EN#59537/other blue painted walls] .
+[/EN#59533/people An old man] wearing [/EN#59538/clothing glasses] , [/EN#59535/clothing a red dress shirt] , and [/EN#59534/clothing black slacks] is teaching [/EN#59541/people a class] .
+[/EN#59533/people A male teacher] standing in front of [/EN#59536/other a whiteboard] on [/EN#59537/other a blue wall] .
+[/EN#59533/people Man] in [/EN#59535/clothing a red shirt] making [/EN#59539/other a formal presentation] .

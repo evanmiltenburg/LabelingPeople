@@ -1,0 +1,5 @@
+[/EN#194688/people Two homeless people] sleep outside [/EN#194690/scene a store] with [/EN#194693/other all their belongings] in [/EN#194694/vehicles a shopping cart] in between [/EN#0/notvisual them] .
+[/EN#194688/people Two individuals] are sleeping outside of [/EN#194689/scene a building] at [/EN#194692/scene night] .
+[/EN#194688/people Homeless people] sleeping on [/EN#194691/scene the street] in front of [/EN#194690/scene a store] .
+[/EN#194688/people Men] sleeping outside [/EN#194689/scene a store] during [/EN#194692/scene the night] .
+[/EN#194688/people Two people] are asleep in [/EN#194691/scene the floor] .

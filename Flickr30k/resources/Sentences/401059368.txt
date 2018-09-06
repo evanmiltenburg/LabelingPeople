@@ -1,0 +1,5 @@
+[/EN#151792/scene A smiling man of Asian descent] is sitting in [/EN#151795/scene his slightly-untidy cubicle] at [/EN#151794/other a desktop computer] with [/EN#151802/other several windows] open , [/EN#151805/bodyparts both hands] poised in [/EN#151801/scene proper keyboarding position] .
+[/EN#151792/people This dude] is Asian , and [/EN#151804/other works] on [/EN#151800/other computers] [/EN#151799/other all the time] , not stereotyping .
+[/EN#151792/people A man] wearing [/EN#151793/clothing a shirt] sits and types on [/EN#151796/other his keyboard] in [/EN#151795/scene a cubicle] .
+[/EN#151792/people A happy man] in [/EN#151793/clothing a blue collared shirt] is typing on [/EN#151797/other his computer] .
+[/EN#151792/people A man] smiles as [/EN#0/notvisual he] sits in [/EN#151795/scene a cubicle] and [/EN#151803/people types] on [/EN#151794/other a computer] .

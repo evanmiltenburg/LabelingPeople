@@ -1,0 +1,5 @@
+[/EN#209590/people A little girl] in [/EN#209595/clothing a dress] with [/EN#209597/clothing a yellow umbrella] is following [/EN#209589/people a woman] with [/EN#209591/clothing a blue umbrella] on [/EN#209594/scene a bridge] .
+[/EN#209589/people Adult] and [/EN#209590/people child] walking away with [/EN#209591/clothing open umbrellas] outside .
+[/EN#209589/people A mother] and [/EN#209590/people child] walking in [/EN#209598/other the rain] in [/EN#209596/scene a green area] .
+[/EN#209589/people A mother] and [/EN#209590/people child] are holding [/EN#209591/clothing umbrellas] .
+[/EN#209592/other The two] are bringing [/EN#209591/clothing umbrellas] .

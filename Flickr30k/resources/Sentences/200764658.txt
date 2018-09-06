@@ -1,0 +1,5 @@
+[/EN#24886/scene A view] through [/EN#24888/other a door] into [/EN#24890/scene a small tiled room] where [/EN#24883/people a man] and [/EN#24885/people two children] are asleep on [/EN#24884/scene the floor] .
+[/EN#24883/people An Asian man] lies on [/EN#24884/scene a tiled floor] with [/EN#24885/people two children] , using [/EN#24892/clothing old clothes] for [/EN#24891/other pillows] .
+[/EN#24887/people Three people] are sleeping on [/EN#24884/scene a floor] next to [/EN#24889/other a green laundry basket] .
+[/EN#24883/people A man] and [/EN#24885/people two small children] laying on [/EN#24884/scene a tiled floor] .
+[/EN#24883/people A man] and [/EN#24885/people two children] are sleeping on [/EN#24884/scene the floor] .

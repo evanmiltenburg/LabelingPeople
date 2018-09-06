@@ -1,0 +1,5 @@
+[/EN#100331/people A man] in [/EN#100332/clothing a Speedo] and [/EN#100335/people a blond woman] in [/EN#100334/clothing a black and white bikini] walk on [/EN#100333/scene a crowded beach] .
+[/EN#100331/people A muscular man] in [/EN#100332/clothing a Speedo] and [/EN#100335/people a curvy blond] in [/EN#100334/clothing a bikini] walk together at [/EN#100333/scene the beach] .
+[/EN#100331/people A man] and [/EN#100335/people woman] in [/EN#100336/clothing black and white swimsuits] and [/EN#100338/clothing sunglasses] are next to [/EN#100339/scene the ocean] .
+[/EN#100331/people A man] in [/EN#100332/clothing a Speedo] and [/EN#100335/people a woman] in [/EN#100334/clothing a bikini] standing on [/EN#100333/scene the beach]
+[/EN#100337/people A couple] in [/EN#100336/clothing bathing suits] walk on [/EN#100333/scene a beach] .

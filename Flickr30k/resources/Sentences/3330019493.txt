@@ -1,0 +1,5 @@
+[/EN#109946/people A man] on [/EN#109947/other a motorcycle] in [/EN#109948/other the woods] wearing [/EN#109951/clothing a black helmet] .
+[/EN#109946/people A distorted picture of a guy] on [/EN#109947/vehicles a motorbike] in [/EN#109948/scene a forest]
+[/EN#109946/people A mountain biker] riding through [/EN#109948/scene a forest] .
+[/EN#109946/people A mountain biker] in [/EN#109948/scene the forest] .
+[/EN#109946/people A guy] on [/EN#109947/vehicles a bike] in [/EN#109948/scene the forest] .

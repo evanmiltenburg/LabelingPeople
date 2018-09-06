@@ -1,0 +1,5 @@
+[/EN#8732/clothing A man 's pants] are falling down as [/EN#0/notvisual he] throws [/EN#8734/other crates] into [/EN#8735/other a dumpster] .
+[/EN#8733/people A man] in [/EN#8737/clothing white] dumping [/EN#8734/vehicles carts] into [/EN#8735/other the dumpster] .
+[/EN#8733/people A man] in [/EN#8737/clothing a white t-shirt] cleaning up [/EN#8734/other debris] .
+[/EN#8733/people A man] throwing [/EN#8734/other crates] into [/EN#8735/other a dumpster] .
+[/EN#8733/people A man] placing [/EN#8734/other boxes] in [/EN#8735/other the trash] .

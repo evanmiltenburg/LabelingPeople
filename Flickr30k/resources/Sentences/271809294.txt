@@ -1,0 +1,5 @@
+[/EN#68402/people A man] wearing [/EN#68407/clothing a red life jacket] is holding onto [/EN#68403/other a rope] coming down off [/EN#68404/other a ship] .
+[/EN#68402/people Worker] dragging [/EN#68403/other a rope] attached to [/EN#0/notvisual what] seems to be [/EN#68404/vehicles/scene a boat] .
+[/EN#68402/people A maritime worker] carries [/EN#68403/other a rope] from [/EN#68404/other a large ship] .
+[/EN#68402/people A man] pulling [/EN#68403/other a boat rope] along [/EN#68404/scene the dock] .
+[/EN#68402/people A worker] carries [/EN#68403/other a cable] .

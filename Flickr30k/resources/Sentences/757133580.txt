@@ -1,0 +1,5 @@
+[/EN#271522/people A young boy] in [/EN#271523/clothing a green shirt] is strapped in [/EN#271524/clothing a harness] climbing [/EN#271525/other a rock wall] .
+[/EN#271522/people A young boy] is rock climbing while suspended in [/EN#271524/clothing a harness] .
+[/EN#271522/people A child] wearing [/EN#271523/clothing a green shirt] is bungee climbing .
+[/EN#271522/people A child] at [/EN#271525/other the top of a fake rock wall] .
+[/EN#271522/people A child] climbs [/EN#271525/other a rock wall] .

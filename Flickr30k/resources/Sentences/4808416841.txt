@@ -1,0 +1,5 @@
+[/EN#205120/people A man] is bent over in [/EN#205121/scene a retail store] looking at [/EN#205123/other merchandise] .
+[/EN#205122/people Customers] view [/EN#205123/other items] in [/EN#205121/scene a small store] called " [/EN#205121/scene Jump Shop] " .
+[/EN#205121/scene A store] displaying [/EN#205124/other many skeleton-themed materials] .
+[/EN#205120/people A man] looks at [/EN#205123/other merchandise] in [/EN#205121/scene a store] .
+[/EN#205122/people People] shopping in [/EN#205121/scene a store] .

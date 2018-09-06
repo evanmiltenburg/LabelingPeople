@@ -1,0 +1,5 @@
+[/EN#241683/people A man] , wearing [/EN#241686/clothing a yellow shirt] and [/EN#241684/clothing yellow hard hat] , is working with [/EN#241688/people a tree mulcher] .
+[/EN#241683/people A man] wearing [/EN#241684/clothing a hard hat] is feeding [/EN#241687/other brush] into [/EN#241685/other an industrial wood chipper] .
+[/EN#241683/people A smiling man] in [/EN#241686/clothing a yellow shirt] feeds [/EN#241687/other branches] through [/EN#241685/other a wood chipper] .
+[/EN#241683/people A man] pushes [/EN#241687/other tree] cutting into [/EN#241688/other a chopping machine] .
+[/EN#241683/people Person] in [/EN#241686/clothing yellow shirt] is cleaning [/EN#241690/scene the way] .

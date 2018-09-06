@@ -1,0 +1,5 @@
+[/EN#118961/people A girl] wearing [/EN#118965/clothing glasses] hold [/EN#118963/people a girl] [/EN#118971/other the same age] wearing [/EN#118964/clothing a red sweatshirt] and [/EN#118966/clothing yellow galoshes] .
+[/EN#118961/people A brunette child] with [/EN#118965/clothing glasses] holding [/EN#118963/people a blond child] wearing [/EN#118964/clothing a red sweater] and [/EN#118966/clothing yellow boots] .
+[/EN#118962/people A young girl] has lifted [/EN#118963/people her friend] and is carrying [/EN#0/notvisual her] in [/EN#118972/bodyparts her arms] .
+[/EN#118963/people Two young girls] pose for [/EN#118973/other a picture] with [/EN#118961/other one] carrying [/EN#118963/other the other] .
+[/EN#118962/people A smiling woman] holding [/EN#118963/people a smiling child] .

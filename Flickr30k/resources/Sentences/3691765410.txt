@@ -1,0 +1,5 @@
+[/EN#137219/people A man] with [/EN#137220/bodyparts a beard] , wearing [/EN#137217/clothing a red shirt] with [/EN#137218/clothing gray sleeves] and [/EN#137222/clothing work gloves] , pulling on [/EN#137221/other a rope] .
+[/EN#137219/people A man] with [/EN#137220/bodyparts facial hair] and [/EN#137217/clothing a red and gray shirt] tugging on [/EN#137221/other a piece of rope] .
+[/EN#137219/people Bearded man] in [/EN#137217/clothing gray and red shirt] pulling [/EN#137221/other a rope] .
+[/EN#137219/people A man] in [/EN#137222/clothing work gloves] is tugging on [/EN#137221/other a rope] .
+[/EN#137219/people A boat worker] securing [/EN#137221/other line] .

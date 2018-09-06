@@ -1,0 +1,5 @@
+[/EN#178448/people A man] wearing [/EN#178453/clothing blue jeans] and [/EN#178449/clothing a blue t-shirt] crosses [/EN#178451/scene the street] while talking on [/EN#178450/other the phone] .
+[/EN#178448/people A young man] in [/EN#178449/clothing a blue t-shirt] walks past [/EN#178451/scene an alley] while talking on [/EN#178450/other his cellphone] .
+[/EN#178448/people A man] with [/EN#178455/bodyparts brown hair] talking on [/EN#178450/other a cellphone] while [/EN#0/notvisual he] is crossing [/EN#178451/scene the street] .
+[/EN#178448/people A man] , speaking on [/EN#178450/other a cellphone] , [/EN#178454/other crosses] [/EN#178451/scene a narrow street] in [/EN#178452/scene a city] .
+[/EN#178448/people A man] on [/EN#178450/other his cellphone] walking across [/EN#178451/scene an alley] .

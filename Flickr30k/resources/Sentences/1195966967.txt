@@ -1,0 +1,5 @@
+[/EN#5017/people A man] playing [/EN#5019/instruments a guitar] and [/EN#5020/people a man] dancing are entertaining [/EN#5016/people a couple] sitting on [/EN#5021/other a ledge] by [/EN#5018/scene the street] .
+[/EN#5017/people A man] playing [/EN#5019/instruments a guitar] while [/EN#5016/people a couple] is listening and watching [/EN#5020/people another man] dancing to [/EN#5023/other the music] .
+[/EN#5018/scene A street] performers plays [/EN#5019/instruments guitar] while [/EN#5020/people a man] dances and [/EN#5016/people a couple] watches .
+[/EN#5016/people Two people] listen to [/EN#5017/people a man] playing [/EN#5019/instruments guitar] while [/EN#5020/people another man] dances .
+[/EN#5016/people A couple] listening to [/EN#5022/people performers] on [/EN#5018/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#284107/people A runner] with [/EN#284110/clothing one green shoe] and [/EN#284114/clothing one white shoe] runs uphill .
+[/EN#284107/people The runner] in [/EN#284116/clothing red and yellow] has just made [/EN#0/notvisual it] up [/EN#284111/scene the hill] .
+[/EN#284107/people A single runner] is watched by [/EN#284115/people onlookers] in [/EN#284112/other a race] .
+[/EN#284107/people A runner] in [/EN#284113/clothing a yellow shirt] is cresting [/EN#284108/scene a hill] .
+[/EN#284107/people Man] wearing [/EN#284109/clothing green sneakers] runs down [/EN#284108/scene highway] .

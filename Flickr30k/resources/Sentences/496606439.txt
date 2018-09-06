@@ -1,0 +1,5 @@
+[/EN#224002/people A woman] in [/EN#224007/clothing a red shirt] is waving while standing behind [/EN#224002/people another woman] with [/EN#224011/bodyparts black hair] .
+[/EN#224002/people A woman] in [/EN#224009/clothing pink] is staring while [/EN#224002/people a woman] is red is posing [/EN#224005/other nearby kitchen items] .
+[/EN#224003/people Two women] are smiling together at [/EN#224012/scene a restaurant] .
+[/EN#224003/people Two women] in front of [/EN#224008/other boxes of tea] and [/EN#224006/other cups] .
+[/EN#224010/people woman] smile and wave to [/EN#0/notvisual the camera]

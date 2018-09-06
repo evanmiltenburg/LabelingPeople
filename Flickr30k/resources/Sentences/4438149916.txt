@@ -1,0 +1,5 @@
+[/EN#168051/people A man] in [/EN#168054/clothing a jacket] wearing [/EN#168056/clothing black boots] walking on [/EN#168052/other the truck of a fallen tree] over [/EN#168053/other a ravine] .
+[/EN#168051/people A man] in [/EN#168054/clothing a gray coat] is walking on [/EN#168052/other a fallen tree trunk] in [/EN#168053/scene a forest] .
+[/EN#168051/people A person] dressed in [/EN#168054/clothing warm clothing] is walking across [/EN#168052/other a downed tree] .
+[/EN#168051/people Person] standing upon [/EN#168052/other a log] in [/EN#168053/scene the forest] .
+[/EN#168051/people A man] is walking in [/EN#168057/other the woods] .

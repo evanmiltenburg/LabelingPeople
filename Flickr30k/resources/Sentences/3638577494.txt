@@ -1,0 +1,5 @@
+[/EN#133332/animals A pet dog] , standing on [/EN#133335/scene bank] is looking at [/EN#133333/animals another brown dog] inside [/EN#133334/scene a pond] .
+[/EN#133332/animals A pug] stands on [/EN#133336/scene the bank of a pond] while [/EN#133333/animals a larger dog] stands in [/EN#133334/scene the water] .
+[/EN#133333/animals One dog] wades in [/EN#133334/scene the water] while [/EN#133332/animals another dog] is on [/EN#133337/scene land] .
+[/EN#133332/animals A tan dog] watching [/EN#133333/animals a brown dog] swimming in [/EN#133334/scene a pond] .
+[/EN#133338/animals Two dogs] wade in [/EN#133334/scene water] by [/EN#133339/other green vegetation] .

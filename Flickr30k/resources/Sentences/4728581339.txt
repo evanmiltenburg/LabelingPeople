@@ -1,0 +1,5 @@
+[/EN#196179/people A woman] wearing [/EN#196180/clothing a hat] , [/EN#196181/clothing sunglasses] , and [/EN#196184/clothing a black jacket] is sitting on [/EN#0/notvisual the ground] with [/EN#196186/clothing a purse] right next to [/EN#0/notvisual her] .
+[/EN#196179/people A woman] with [/EN#196188/bodyparts brown hair] and [/EN#196181/clothing large sunglasses] is staring at [/EN#196182/other something] outside of [/EN#196185/other the picture] .
+[/EN#196179/people A woman] wearing [/EN#196180/clothing a hat] is sitting on [/EN#0/notvisual the ground] talking on [/EN#196187/other the phone] .
+[/EN#196179/people Girl] in [/EN#196180/clothing hat] and [/EN#196181/clothing sunglasses] looking at [/EN#196182/other something] in [/EN#0/notvisual the distance] .
+[/EN#196179/people Young woman] sitting outside wearing [/EN#196181/clothing sunglasses] .

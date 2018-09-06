@@ -1,0 +1,5 @@
+[/EN#273366/people A man] with [/EN#273367/clothing a blue hat] and [/EN#273371/clothing vest] is holding [/EN#273368/other a rife] with [/EN#273374/bodyparts his finger] on [/EN#273369/other the trigger] .
+[/EN#273366/people A young man] is participating in [/EN#273375/scene a competitive gun shooting event] .
+[/EN#273366/people A man] wearing [/EN#273371/clothing a uniform] and [/EN#273372/clothing red glasses] holds [/EN#273369/other a rifle] .
+[/EN#273366/people A man] wearing [/EN#273367/clothing a blue cap] holds [/EN#273368/other a rifle] .
+[/EN#273366/people A man] shoots [/EN#273368/other a gun] at [/EN#273370/other a competition] .

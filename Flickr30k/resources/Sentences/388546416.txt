@@ -1,0 +1,5 @@
+[/EN#147000/people A woman] and [/EN#147002/people two men] walking down [/EN#146999/scene a hill] on [/EN#146998/scene a sandy beach] .
+[/EN#146996/people People] with [/EN#147003/other walking sticks] hiking near [/EN#146998/scene the beach] .
+[/EN#146996/people Three people] walk down [/EN#146999/scene a sandy hill] at [/EN#146998/scene the beach] .
+[/EN#146996/people 3 People] hiking along [/EN#146997/scene water] on [/EN#146998/other the beach sand] .
+[/EN#146996/people Three people] hiking on [/EN#146998/scene a beach] .

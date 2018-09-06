@@ -1,0 +1,5 @@
+[/EN#175155/scene A busy street] with [/EN#175156/vehicles a taxi] sitting next to [/EN#175159/other a orange street-cone]
+[/EN#175156/vehicles The yellow taxi cab] slowly drives by on [/EN#175158/scene a mundane day] .
+[/EN#175155/scene A city street] with [/EN#175160/other a pothole] in [/EN#0/notvisual the middle of it] .
+[/EN#175157/vehicles Line of cars] behind [/EN#175156/vehicles a taxi] in [/EN#175155/scene a city road] .
+[/EN#175157/other Several cars line] [/EN#175155/scene a busy city street] .

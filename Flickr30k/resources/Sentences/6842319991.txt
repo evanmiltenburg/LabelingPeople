@@ -1,0 +1,5 @@
+[/EN#259004/people A tattooed man] in [/EN#259010/clothing overalls] , [/EN#259012/clothing no shirt] and [/EN#259005/clothing a baseball cap] is holding [/EN#259007/other a microphone] in front of [/EN#259006/people a crowd] and giving [/EN#259008/other the " peace " sign] with [/EN#259013/bodyparts his other hand] .
+[/EN#259004/people A tattooed performer] wearing [/EN#259010/clothing jean overalls] and [/EN#259005/clothing a baseball cap] is addressing [/EN#259006/people the crowd] on [/EN#259007/other the microphone] .
+[/EN#259004/people A tattooed man] wearing [/EN#259010/clothing overalls] on [/EN#259009/scene a stage] holding [/EN#259007/other a microphone] .
+[/EN#259004/people a tattooed male] on [/EN#259009/scene stage] wearing [/EN#259010/other coverall] giving [/EN#259008/other the peace sign]
+[/EN#259004/people Man] wearing [/EN#259005/clothing hat] and [/EN#259010/clothing overalls] addresses [/EN#259006/people the crowd] .

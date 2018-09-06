@@ -1,0 +1,5 @@
+[/EN#56703/people A person] standing on [/EN#56706/scene the sidewalk] near [/EN#56704/people a large gathering of people] at [/EN#56708/scene a tent] .
+[/EN#56703/people A woman] stands holding [/EN#56709/other an orange cup] in front of [/EN#56704/people a crowd] .
+[/EN#56703/people Woman] standing with [/EN#56705/other a drink] in [/EN#56710/bodyparts her hand] next to [/EN#56708/scene a tent] .
+[/EN#56703/people A woman] is holding [/EN#56705/other a drink] in front of [/EN#56708/scene a white tent] .
+[/EN#56703/people A woman] with glowing [/EN#56711/clothing shoes] at [/EN#56707/scene an outdoor event] .

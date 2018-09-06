@@ -1,0 +1,5 @@
+[/EN#192441/people An older gentleman] with [/EN#192443/bodyparts a white beard] , [/EN#192445/clothing red cap] and [/EN#192446/clothing black coat] holding [/EN#192444/other a can] inside [/EN#192442/clothing a brown paper bag] .
+[/EN#192441/people A bearded black man] in [/EN#192445/clothing red cap] and [/EN#192446/clothing black jacket] sitting on [/EN#192447/scene the pavement] .
+[/EN#192441/people A man] with [/EN#192443/bodyparts a beard] and [/EN#192445/clothing red hat] sits down with [/EN#192444/other a drink] in [/EN#192442/clothing a paper bag] .
+[/EN#192441/people A man] in [/EN#192445/clothing a red hat] is holding [/EN#192442/clothing a bag] [/EN#0/notvisual that] has [/EN#192444/other a can] in [/EN#0/notvisual it] .
+[/EN#192441/people An elderly black man] drinking [/EN#192444/other a beer] .

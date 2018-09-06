@@ -1,0 +1,5 @@
+[/EN#131104/people A well dressed asian businessman] walking ahead of [/EN#131104/people a poorly dressed asian man] in front of [/EN#131106/other a white tile wall] .
+[/EN#131104/people A man] in [/EN#131108/clothing a red , plaid jacket] , walking in front of [/EN#131106/other a brick wall] .
+[/EN#131104/people A man] in [/EN#131109/clothing a business suit] walks ahead of [/EN#131104/people a man] in [/EN#131108/clothing a plaid jacket] .
+[/EN#131105/people Two men] walk in front of [/EN#131106/scene a white brick building] .
+[/EN#131105/people Two men] are walking past [/EN#131106/scene a brick building] .

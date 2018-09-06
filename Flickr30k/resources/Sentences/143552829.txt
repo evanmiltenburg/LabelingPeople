@@ -1,0 +1,5 @@
+[/EN#12954/people A boy] in [/EN#12961/clothing a black helmet] and [/EN#12962/clothing red long-sleeve shirt] rides [/EN#12955/vehicles his motorbike] over [/EN#12956/scene a rocky stream] .
+[/EN#12955/vehicles A motocross bike] is being ridden between [/EN#12960/other markers] in [/EN#12956/scene a running stream] .
+[/EN#12954/people A man] on [/EN#12958/other a motorcycle] steers through [/EN#12956/scene swampy terrain]
+[/EN#12954/people A person] is [/EN#12959/scene dirt] biking over [/EN#12957/other rocks] and [/EN#12956/scene water] .
+[/EN#12954/people A man] rides [/EN#12955/vehicles his bike] over [/EN#12957/other rocks] and [/EN#12956/scene a creek] .

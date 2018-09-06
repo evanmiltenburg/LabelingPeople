@@ -1,0 +1,5 @@
+[/EN#146348/people A man] in [/EN#146349/clothing a mauve blazer] stands near [/EN#146350/other the steering wheel of a ship] .
+[/EN#146348/people A man] in [/EN#146349/clothing a brown suit jacket] is standing beside [/EN#146350/other the ship 's helm] .
+[/EN#146348/people A black man] stands next to [/EN#146350/other a large wooden wheel] on [/EN#146352/vehicles/scene a boat] .
+[/EN#146348/people A man] in [/EN#146349/clothing a mauve suit jacket] stands near [/EN#146350/other a ship 's wheel] .
+[/EN#146348/people Older man] standing near [/EN#146350/vehicles/scene the steering wheel of a boat] .

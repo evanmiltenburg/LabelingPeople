@@ -1,0 +1,5 @@
+[/EN#259045/animals A small black dog] is playing [/EN#259050/other tug-of-war] with [/EN#259047/animals a large brown dog] wearing [/EN#259048/other a yellow triangle] .
+[/EN#259046/animals Two dogs] , [/EN#259047/other one] bigger than [/EN#259045/other the other] , are playing [/EN#259050/other tug-of-war] .
+[/EN#259046/animals Two dogs] tug at [/EN#259053/other the same item] while wearing [/EN#259049/other training gear] .
+[/EN#259045/animals A small dog] playing [/EN#259050/other tug] with [/EN#259047/animals a larger dog]
+[/EN#259046/animals Two dogs] play [/EN#259050/other tug-of-war] .

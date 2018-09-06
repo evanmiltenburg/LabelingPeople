@@ -1,0 +1,5 @@
+[/EN#25985/animals A large brown dog] is running through [/EN#25986/other a field of flowers] .
+[/EN#25985/animals A tan dog] walks through [/EN#25986/other a field of colorful flowers] .
+[/EN#25985/animals The brown dog] walks through [/EN#25986/other the flowers] .
+[/EN#25985/animals A dog] in [/EN#25986/other a field of colorful flowers] .
+[/EN#25985/animals Dog] runs through [/EN#25986/other field of flowers]

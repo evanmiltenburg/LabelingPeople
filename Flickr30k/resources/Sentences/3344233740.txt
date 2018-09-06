@@ -1,0 +1,5 @@
+[/EN#111250/people A man] is standing on [/EN#111253/scene a sidewalk] in [/EN#0/notvisual the background] with [/EN#111251/people a blurry image of another man] in [/EN#0/notvisual the foreground] .
+[/EN#111254/people People] walking down [/EN#111253/scene the street] and past [/EN#111252/vehicles/scene an open bus] .
+[/EN#111250/people A man] stands at [/EN#111256/other a busy bus stop] .
+[/EN#111250/people a man] stands next to [/EN#111252/vehicles/scene a bus] .
+[/EN#111251/people People] in [/EN#111257/scene the city] .

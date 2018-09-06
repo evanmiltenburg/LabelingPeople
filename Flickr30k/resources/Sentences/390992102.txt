@@ -1,0 +1,5 @@
+[/EN#147922/people The man] carries [/EN#147927/clothing a large backpack] while hiking through [/EN#147923/scene snow-covered terrain] .
+[/EN#147922/people A person] hikes across [/EN#147925/scene a grass] and [/EN#147928/other snow covered plain]
+[/EN#147922/people a man] walking up [/EN#147923/scene a mountain] with [/EN#147923/scene snow] on [/EN#147923/scene the surface]
+[/EN#147922/people Person] walking across [/EN#147923/scene a snow covered mountain] .
+[/EN#147922/people A hiker] climbs [/EN#147923/scene a mountain] on [/EN#147926/scene a windy day] .

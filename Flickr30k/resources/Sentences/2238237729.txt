@@ -1,0 +1,5 @@
+[/EN#36142/people A person] with [/EN#36143/clothing a blue suit] and [/EN#36144/clothing a red wig] sitting next to [/EN#36145/other a wall] , where [/EN#36146/other the window] has [/EN#36146/other green blinds] .
+[/EN#36142/people A person] in [/EN#36143/clothing a blue suit] is squatting in front of [/EN#36145/other a wall] [/EN#0/notvisual that] has [/EN#36147/other white painted letters] on [/EN#0/notvisual it] .
+[/EN#36142/people An individual] in [/EN#36144/clothing a red wig] and [/EN#36143/clothing blue jumpsuit] is looking at [/EN#36147/other graffiti] on [/EN#36149/scene a building] .
+[/EN#36142/people A local artist] expresses [/EN#0/notvisual herself] on [/EN#36145/other a wall] at [/EN#36148/scene the side of a street] .
+[/EN#36142/people a person] with [/EN#36144/clothing a bright red wig] standing in front of [/EN#36147/other graffiti]

@@ -1,0 +1,5 @@
+[/EN#254064/people A man] is sitting and leaning over [/EN#254068/other a table] , looking through [/EN#254065/other a microscope-like device] with [/EN#254066/other an iPad] on [/EN#254068/other the table] next to [/EN#0/notvisual him] .
+[/EN#254064/people A man] works on engineering [/EN#254070/scene a circuit] as [/EN#0/notvisual he] monitors [/EN#254071/scene the progress] on [/EN#254065/other a tablet device] .
+[/EN#254064/people Man] observes [/EN#254066/other a wavelength] given off by [/EN#254066/other an electronic device] .
+[/EN#254064/people A male] working on [/EN#254067/other a scientific experiment] .
+[/EN#254064/people This man] is working with [/EN#254066/other an I-pad] .

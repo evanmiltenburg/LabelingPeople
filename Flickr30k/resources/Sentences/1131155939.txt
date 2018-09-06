@@ -1,0 +1,5 @@
+[/EN#3368/other A black lav] runs into [/EN#3372/scene the water] on [/EN#3372/scene the beach] , with [/EN#3375/people swimmers] in [/EN#0/notvisual the distance] and [/EN#3369/other sea kelp] in [/EN#0/notvisual the foreground] .
+[/EN#3369/other A pile of seaweed] sits on [/EN#3377/other the sand] , behind [/EN#0/notvisual it] [/EN#3368/animals a big black dog] is running in [/EN#3372/scene the water] .
+[/EN#3368/animals A dog] at [/EN#3372/scene the shore of an ocean] , with [/EN#3369/other seaweed] in [/EN#0/notvisual foreground] .
+[/EN#3368/animals A black dog] runs into [/EN#3372/scene the ocean] next to [/EN#3369/other a pile of seaweed] .
+[/EN#3368/animals A dog] is running in [/EN#3372/scene the waves] at [/EN#3372/scene the beach] .

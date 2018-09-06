@@ -1,0 +1,5 @@
+[/EN#273439/animals A dog] with [/EN#273439/other white fur] is moving through [/EN#273440/scene deep murky water] .
+[/EN#273439/animals A white dog] is wading in [/EN#273440/scene natural water] with [/EN#273441/other algae] .
+[/EN#273439/animals A light tan dog] swimming through [/EN#273440/scene swampy water] .
+[/EN#273439/animals A white dog] is standing in [/EN#273440/other mud] up to [/EN#273444/bodyparts its neck]
+[/EN#273439/animals A dog] stands shoulder deep in [/EN#273440/scene muddy water] .

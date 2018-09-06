@@ -1,0 +1,5 @@
+[/EN#149238/people A man] wearing [/EN#149242/clothing a plaid shirt] and [/EN#149245/clothing brown apron] is standing in front of [/EN#149239/other an open fire] .
+[/EN#149238/people A man] in [/EN#149246/clothing jeans] and [/EN#149241/other a blue checked shirt heats metal] using [/EN#149244/other blacksmiths tools] .
+[/EN#149238/people Older man] , [/EN#149240/other Blacksmithing] in [/EN#149243/people a small type] , [/EN#149247/other operation] .
+[/EN#149238/people A man] prepares [/EN#0/notvisual his] stand up [/EN#149239/other grill] with [/EN#149239/other a large flame] .
+[/EN#149238/people A man] prepares [/EN#149239/other a fire] outside to do [/EN#149248/other some metalwork] .

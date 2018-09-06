@@ -1,0 +1,5 @@
+[/EN#116810/people A man] is sitting on [/EN#116811/other a bench] in front of [/EN#116812/scene an abandoned building] .
+[/EN#116810/people A man] sits on [/EN#116811/other a bench] in front of [/EN#116812/scene a boarded up building] .
+[/EN#116810/people A man] dressed in [/EN#116814/clothing a suit] is sitting outside on [/EN#116811/other a bench] .
+[/EN#116810/people An older man] waiting for [/EN#116813/vehicles/scene the bus] .
+[/EN#116810/people A man] sitting on [/EN#116811/other a bench] .

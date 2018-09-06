@@ -1,0 +1,5 @@
+[/EN#92134/people A surfer] in [/EN#92135/clothing a full body wetsuit] in [/EN#92138/scene the ocean] with [/EN#92137/other a white surfboard] .
+[/EN#92134/people A man] in [/EN#92139/clothing a wetsuit] is surfing on [/EN#92138/scene blue water] .
+[/EN#92134/people A man] on [/EN#92137/other surfboard] dives over [/EN#92136/scene a large wave] .
+[/EN#92134/people a lone surfer] diving into [/EN#92136/scene a large wave]
+[/EN#92134/people A surfer] in [/EN#92135/clothing a wetsuit] crests [/EN#92136/scene a wave] .

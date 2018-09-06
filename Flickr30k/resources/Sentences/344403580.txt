@@ -1,0 +1,5 @@
+[/EN#118801/people A man] in [/EN#118802/clothing a cowboy hat] is running [/EN#118804/vehicles an ice cream cart] with [/EN#118806/other the words] " Sorvete [/EN#118805/other e Gelados Nicolau] . "
+[/EN#118801/people A man] works [/EN#118803/scene a small ice cream stand] [/EN#0/notvisual that] says " Sorvette [/EN#118805/other e Gelados] " on [/EN#0/notvisual the side] .
+[/EN#118801/people A man] wearing [/EN#118802/clothing a white hat] is sitting behind [/EN#118804/vehicles an ice cream cart] .
+[/EN#118801/people A man] with [/EN#118802/clothing a hat] is standing behind [/EN#118803/scene an ice cream stand] .
+[/EN#118801/people man] working [/EN#118803/scene a gelato stand]

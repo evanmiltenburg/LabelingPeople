@@ -1,0 +1,5 @@
+[/EN#104203/people A snowboarder] with [/EN#104204/other a pink board] jumping down [/EN#104205/scene a snow covered hill] near [/EN#104207/other trees] .
+[/EN#104203/people Snowboarder] on [/EN#104204/other a pink board] flying through [/EN#0/notvisual the air] .
+[/EN#104203/people a person] riding [/EN#104204/other a snowboard] with [/EN#104204/other a pink bottom]
+[/EN#104203/people A snowboarder] is jumping over [/EN#104205/scene a snowy hill]
+[/EN#104203/people A snowboarder] jumps across [/EN#104205/scene a snowy hill] .

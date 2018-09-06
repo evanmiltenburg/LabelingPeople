@@ -1,0 +1,5 @@
+[/EN#57439/people A little boy] wearing [/EN#57442/clothing a green shirt] is riding on [/EN#57444/vehicles the back of a bicycle] built for [/EN#57445/other two] with [/EN#57440/people a man] in [/EN#57443/clothing a red shirt] .
+[/EN#57440/people A man] wearing [/EN#57443/clothing a light red shirt] is riding [/EN#57441/vehicles a bike] and right behind [/EN#0/notvisual him] is [/EN#57439/people a small child] wearing [/EN#57442/clothing a green shirt]
+[/EN#57439/people The child] is sharing [/EN#57441/vehicles a strange-looking bicycle] with [/EN#57440/people the man] .
+[/EN#57439/people Young boy] riding [/EN#57441/vehicles a bicycle] with [/EN#57440/people an older man] .
+[/EN#57440/people Man] and [/EN#57439/people boy] biking down [/EN#57446/scene sidewalk] .

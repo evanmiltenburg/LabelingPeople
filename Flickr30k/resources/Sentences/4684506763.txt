@@ -1,0 +1,5 @@
+[/EN#190238/people A group of people] is on [/EN#190242/other a ferry] headed toward [/EN#190244/scene a city] with [/EN#190246/scene skyscrapers] .
+[/EN#190238/people Random people] standing on [/EN#190242/other a ferry] looking out over [/EN#190243/scene the water] .
+All [/EN#190238/people the people] on [/EN#190241/vehicles/scene the boat] is taking in [/EN#190245/scene the excellent view] .
+[/EN#190238/people A group of people] overlooking [/EN#190243/scene the water] from [/EN#190241/vehicles/scene a boat] .
+[/EN#190240/people A tour group] takes [/EN#190239/people tourists] around in [/EN#190241/vehicles/scene a boat] .

@@ -1,0 +1,5 @@
+[/EN#148594/animals A dog] [/EN#0/notvisual that] is wearing [/EN#148595/clothing a red cap] is standing by [/EN#148599/instruments a guitar] with [/EN#148597/scene its mouth wide open] .
+[/EN#148594/animals The dog] is wearing [/EN#148595/clothing a red baseball cap] , and has [/EN#148597/scene its mouth wide open] .
+[/EN#148594/animals A black and white dog] , with [/EN#148595/clothing a red cap] on [/EN#148598/bodyparts its head] , yawning .
+[/EN#148594/animals A dog] wearing [/EN#148595/clothing a red hat] opens [/EN#148596/bodyparts its mouth] wide .
+[/EN#148594/animals A dog] wearing [/EN#148595/clothing a hat] stretches open [/EN#148596/bodyparts its mouth] .

@@ -1,0 +1,5 @@
+[/EN#64700/people A man] in [/EN#64701/clothing a black shirt] and [/EN#64705/clothing sunglasses] is holding [/EN#64703/other an axe] next to [/EN#64702/animals a bust of daffy duck] .
+[/EN#64700/people A man] with [/EN#64701/clothing a black t-shirt] and [/EN#64705/clothing sunglasses] , used [/EN#64703/other an ax] to break [/EN#64702/other a ceramic duck mug] .
+[/EN#64700/people an older white male] with [/EN#64703/other an axe] staring at [/EN#64702/other a daffy duck coffee mug] .
+[/EN#64700/people A man] in [/EN#64705/clothing sunglasses] sits at on [/EN#64704/other an outdoor table] and holds up [/EN#64703/other an ax] .
+[/EN#64700/people A man] sitting at [/EN#64704/other a table] with [/EN#64703/other a hatchet] looking at [/EN#64702/other a broken mug] .

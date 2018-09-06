@@ -1,0 +1,5 @@
+[/EN#251273/people Two men] in [/EN#251276/clothing black jackets] stand in [/EN#251274/vehicles/scene a small boat] in [/EN#251275/scene the water] .
+[/EN#251273/people Two men] are in [/EN#251274/vehicles/scene a Police Rescue boat] in [/EN#251275/scene the water] .
+[/EN#251273/people Two men] are standing in [/EN#251274/vehicles/scene a police rescue boat] .
+[/EN#251273/people Two people] are on [/EN#251274/vehicles/scene a boat] in [/EN#251275/scene water] .
+[/EN#251273/people Two men] are on [/EN#251274/vehicles/scene a police boat] .

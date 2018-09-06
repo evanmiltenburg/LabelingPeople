@@ -1,0 +1,5 @@
+[/EN#171081/people A boy] in [/EN#171087/clothing a red shirt] walks through [/EN#171084/scene a trail] followed by [/EN#171082/people an elderly woman] dressed in [/EN#171088/clothing tan clothes] .
+[/EN#171082/people A older woman] and [/EN#171081/people a young boy] are enjoying [/EN#171083/other a hike] on [/EN#171084/scene a trail] .
+[/EN#171082/people A woman] and [/EN#171081/people kid] are taking [/EN#171083/other a walk] on [/EN#171084/scene a trail] .
+[/EN#171082/people A woman] and [/EN#171081/people a boy] enjoying [/EN#171083/other a walk] in [/EN#171085/other woods] .
+[/EN#171086/people Two people] are walking in [/EN#171085/other the woods] .

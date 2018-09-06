@@ -1,0 +1,5 @@
+[/EN#134767/people A person] on [/EN#134770/vehicles a unicycle] jumping down [/EN#134772/scene the path] in [/EN#134769/scene a beautiful area] surrounded by [/EN#134776/scene shrubbery] .
+[/EN#134767/people A person] is doing [/EN#0/notvisual a bicycle trick] over [/EN#134775/other the rocks] while [/EN#134767/people a bystander] gives [/EN#134777/bodyparts a thumbs] up .
+[/EN#134767/people A person] does [/EN#0/notvisual a jump] on [/EN#134770/vehicles a bike] in [/EN#134772/scene a natural setting] .
+[/EN#134767/people A person] is jumping with [/EN#134770/vehicles a bicycle] over [/EN#134772/scene dirt hills]
+[/EN#134767/people A mountain biker] does [/EN#0/notvisual a trick] on [/EN#134768/scene a forest path] .

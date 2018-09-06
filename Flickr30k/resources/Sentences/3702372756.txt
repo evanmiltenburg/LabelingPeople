@@ -1,0 +1,5 @@
+[/EN#137959/people A man] with [/EN#137965/bodyparts black hair] and [/EN#137966/bodyparts a black mustache] sitting down and putting [/EN#137967/bodyparts his hand] above [/EN#137960/other some burning embers] while holding [/EN#137963/other a metal bowl] .
+[/EN#137959/people A person] wearing [/EN#137962/clothing a toga] is sitting on [/EN#0/notvisual the ground] preparing [/EN#137960/other a fire] for [/EN#137961/other food] .
+[/EN#137959/people A man] is sitting on [/EN#137964/other the floor indoors] preparing [/EN#137961/other food] on [/EN#137960/other open fire] .
+[/EN#137959/people The man] in [/EN#137968/scene the room] is wearing [/EN#137962/clothing a robe] .
+[/EN#0/notvisual He] prepares [/EN#137961/other an offering of fruit] .

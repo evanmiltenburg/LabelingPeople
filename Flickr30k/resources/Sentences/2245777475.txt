@@ -1,0 +1,5 @@
+[/EN#36519/people A woman] in [/EN#36522/clothing a red top] and [/EN#36524/clothing black shorts] is jogging on [/EN#36523/scene the sidewalk] next to [/EN#36520/scene a brick fence] .
+[/EN#36519/people A woman] in [/EN#36522/clothing a red sports-bra] runs on [/EN#36523/scene the sidewalk] past [/EN#36520/scene a brick fence] .
+[/EN#36519/people Women] in [/EN#36522/clothing a red sports bra] and [/EN#36526/clothing white shoes] running down [/EN#36523/scene the street] .
+[/EN#36519/people This lady] go for [/EN#36521/other a jogging] in [/EN#36525/other the morning] .
+[/EN#36519/people A female runner] on [/EN#36521/other her morning jog] .

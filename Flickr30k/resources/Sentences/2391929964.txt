@@ -1,0 +1,5 @@
+[/EN#46012/people A man] wearing [/EN#46018/clothing a striped shirt] is putting [/EN#46019/bodyparts/people his arm] over [/EN#46014/people a man] in [/EN#46020/clothing a green shirt] , as [/EN#46017/people the man] in [/EN#46020/clothing the green shirt] holds up [/EN#46011/other a beer] .
+[/EN#46012/people Two men] smiling at [/EN#0/notvisual the camera] inside [/EN#46013/scene a restaurant] , [/EN#46014/other one] is holding up [/EN#46011/other a beer] .
+[/EN#46012/people Two guys] are sitting in [/EN#46013/scene a bar] while [/EN#46014/other one] holds [/EN#46011/other a beer bottle] .
+[/EN#46012/people Two men] drink [/EN#46011/other beer] at [/EN#46013/scene the bar] in [/EN#46013/scene a restaurant] .
+[/EN#46012/people Two men] sit at [/EN#46013/scene a bar] with [/EN#46011/other Shiner Bock beer] .

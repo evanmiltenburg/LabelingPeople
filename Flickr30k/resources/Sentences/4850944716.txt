@@ -1,0 +1,5 @@
+[/EN#210573/people an older man] wearing [/EN#210575/clothing a suit] has [/EN#210580/bodyparts his arms] folded behind [/EN#210578/other his back] and looking in [/EN#210574/other a store window] .
+[/EN#210573/people A man] is walking on [/EN#210581/scene the street] as [/EN#0/notvisual he] begins to pass [/EN#210574/other the glass window of a business] .
+[/EN#210573/people A man] wearing [/EN#210575/clothing a suit jacket] is taking [/EN#210576/other a closer look] at [/EN#210579/other something] in [/EN#210574/other a window] .
+[/EN#210573/people A man] in [/EN#210575/clothing a suit] is observing [/EN#210577/other an item] through [/EN#210574/other a window] .
+[/EN#210573/people An old man] is looking into [/EN#210574/other a store window] .

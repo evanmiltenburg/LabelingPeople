@@ -1,0 +1,5 @@
+[/EN#19172/people A woman] in [/EN#19173/clothing a peach colored shirt] walks past [/EN#19174/vehicles/scene a train] .
+[/EN#19175/people People] walking on [/EN#19176/scene a sidewalk] past [/EN#19174/vehicles/scene a parked train] .
+[/EN#19175/people A lot of people] are walking near [/EN#19174/vehicles/scene a train] .
+[/EN#19175/people A crowd of people] walk next to [/EN#19174/vehicles/scene a train] .
+[/EN#19175/people People] walking at [/EN#19176/scene train dock] , [/EN#19176/other dock 5] .

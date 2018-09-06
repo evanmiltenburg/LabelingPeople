@@ -1,0 +1,5 @@
+[/EN#159235/people A man] with [/EN#159237/clothing a red shirt] is laying on [/EN#159242/vehicles bikes] in [/EN#159236/other an urbanized asian community] .
+[/EN#159234/people A man] in [/EN#159237/clothing a red shirt] is taking [/EN#159234/other a nap] on [/EN#159239/other one of the motorcycles] near [/EN#0/notvisual him] .
+[/EN#159234/people A bald ma] in [/EN#159237/clothing a red shirt] sleeping on [/EN#159239/vehicles a motorized scooter] .
+[/EN#159235/people A man] wearing [/EN#159237/clothing a red shirt] reclines against [/EN#159239/other a motorcycle] .
+[/EN#159238/other A display of motorcycles] inside of [/EN#159236/other a mall] .

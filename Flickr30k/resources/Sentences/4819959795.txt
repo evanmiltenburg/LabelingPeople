@@ -1,0 +1,5 @@
+[/EN#206919/people Man] in [/EN#206927/other business] [/EN#206919/clothing casual attire] sitting on [/EN#206920/vehicles/scene a subway train] with [/EN#206924/bodyparts his head] down and [/EN#206926/bodyparts arms] crossed .
+[/EN#206919/people A man] slumps over in [/EN#206919/other an exhausted posture] while riding [/EN#206928/vehicles public transportation] .
+[/EN#206919/people A young man] wearing [/EN#206919/clothing a business suit] , sitting on [/EN#206920/vehicles/scene a bus] with [/EN#206924/bodyparts his head] down .
+[/EN#206919/people A man] is slumped over on [/EN#206922/scene a seat] .
+[/EN#206919/people Guy] [/EN#0/notvisual who] fell asleep on [/EN#206923/vehicles/scene subway] .

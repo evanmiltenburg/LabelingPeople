@@ -1,0 +1,5 @@
+[/EN#261846/animals A little dog] on [/EN#261850/scene a field] in front of [/EN#261849/scene a building] ; taken from [/EN#261847/other the dog 's perspective] .
+[/EN#261846/animals A small brown dog] stands in [/EN#261850/scene the grass] next to [/EN#261849/scene an ornate building] .
+[/EN#261846/animals A closeup of a brown dog] in front of [/EN#261849/scene a building] .
+[/EN#261846/animals A dog] lies in [/EN#261850/scene the grass] next to [/EN#261849/scene a mansion] .
+[/EN#261846/animals A dog] in [/EN#261850/scene the grass] in front of [/EN#261849/scene a building] .

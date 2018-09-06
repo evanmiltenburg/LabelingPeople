@@ -1,0 +1,5 @@
+[/EN#29360/people A man] wearing [/EN#29361/clothing tan pants] is sitting on [/EN#29362/other a red couch] inside [/EN#29365/scene a house] .
+[/EN#29360/people A man] in [/EN#29363/clothing a suit jacket] is sitting on [/EN#29362/other a red couch] with [/EN#29364/animals a cat] .
+[/EN#29360/people A man] in [/EN#29363/clothing a suit] and [/EN#29364/animals a cat] resting on [/EN#29362/other a red couch] .
+[/EN#29360/people A man] sits on [/EN#29362/other a red sofa] next to [/EN#29364/animals a cat] .
+[/EN#29366/other The photo] is too dark to make out .

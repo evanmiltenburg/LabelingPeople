@@ -1,0 +1,5 @@
+[/EN#159673/people Caucasian female] with [/EN#159678/clothing a red wool hat] , [/EN#159683/clothing khaki pants] , [/EN#159681/clothing gray jacket] and [/EN#159680/clothing brown hiking boots] , [/EN#159676/clothing a heavy camping bag] across [/EN#159682/other her back] with [/EN#159679/other a water bottle] inside [/EN#159684/clothing pocket sleeve] .
+[/EN#159673/people A hiker] with [/EN#159678/clothing a red hat] and [/EN#159676/clothing black hiking bag] is sitting on [/EN#159677/other a tree log] .
+[/EN#159673/people A male] wearing [/EN#159678/clothing a red hat] is sitting on [/EN#159677/other a log] in [/EN#159674/scene the forest] .
+[/EN#159673/people A backpacker] takes [/EN#159675/scene a seat] on [/EN#159677/other a log] to pose for [/EN#159686/other a picture] .
+[/EN#159673/people A boy] in [/EN#159678/clothing a red hat] is sitting on [/EN#159677/other a log] in [/EN#159685/other the woods] .

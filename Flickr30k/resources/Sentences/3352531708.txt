@@ -1,0 +1,5 @@
+[/EN#111963/people Two people] are seated on [/EN#111966/animals a camel] while [/EN#111968/animals another camel] is in [/EN#0/notvisual the foreground] .
+[/EN#111963/people Two children] , sitting on [/EN#111964/animals the backs of camels] , near [/EN#111971/scene the ocean] .
+[/EN#111964/animals Two camels] are walking along [/EN#111965/scene the beach] carrying [/EN#111963/people two girls] .
+[/EN#111963/people People] ride [/EN#111964/animals two camels] at [/EN#111965/scene the beach] .
+[/EN#111967/people a girl] and [/EN#111969/people a woman] ride [/EN#111966/animals a camel] .

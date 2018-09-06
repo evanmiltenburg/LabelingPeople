@@ -1,0 +1,5 @@
+[/EN#174714/people A man] carrying [/EN#174716/other a surfboard] is walking across [/EN#174715/scene the beach] during [/EN#174717/scene sunset] , gazing into [/EN#174719/scene the horizon] as [/EN#174720/scene the waves] gently wash into [/EN#174715/scene shore] .
+[/EN#174714/people A surfer] walks along [/EN#174715/scene the beach] as [/EN#0/notvisual he] looks out onto [/EN#174720/scene the water] .
+[/EN#174714/people A person] walks along [/EN#174715/scene a beach] at [/EN#174717/scene sunset] carrying [/EN#174716/other a surfboard] .
+[/EN#174714/people A surfer] is walking along [/EN#174715/scene the beach] during [/EN#174718/scene a sunset] .
+[/EN#174714/people A man] is walking on [/EN#174715/scene the beach] with [/EN#174716/other a surfboard] .

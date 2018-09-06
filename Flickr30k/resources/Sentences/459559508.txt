@@ -1,0 +1,5 @@
+[/EN#181387/people A gymnast] in [/EN#181393/clothing navy blue] with [/EN#181391/other a pink ribbon] in [/EN#181394/bodyparts her hair] is performing on [/EN#181389/other the balancing beam] .
+[/EN#181387/people A female gymnast] in [/EN#181393/clothing a black leotard] is landing [/EN#181388/other a move] on [/EN#181390/other a balance beam] .
+[/EN#181387/people A girl] is doing [/EN#0/notvisual a trick] on [/EN#181389/other a balance beam] .
+[/EN#181387/people A gymnast] is balancing on [/EN#181389/other a balance beam] .
+[/EN#181387/people A female gymnast] on [/EN#181389/other the balance beam] .

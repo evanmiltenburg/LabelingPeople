@@ -1,0 +1,5 @@
+[/EN#32963/animals A black dog] with [/EN#32965/bodyparts white paws] jumping from [/EN#32964/other a bale of hay] .
+[/EN#32963/animals A black dog] with [/EN#32965/bodyparts white paws] is jumping on [/EN#32964/other hay bales] .
+[/EN#32963/animals A black dog] is leaping from [/EN#32964/other a cylindrical hay bale] .
+[/EN#32963/animals Black dog] jumps from [/EN#32964/other hay ball] to [/EN#32964/other hay ball] .
+[/EN#32963/animals A black dog] jumps over [/EN#32964/other rolled hay] .

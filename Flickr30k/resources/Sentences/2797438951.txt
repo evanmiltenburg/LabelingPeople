@@ -1,0 +1,5 @@
+[/EN#73471/people A woman] in [/EN#73472/clothing a blue bathing suit] is jumping off [/EN#73473/scene a dock] into [/EN#73474/scene a lake] .
+[/EN#73471/people A girl] in [/EN#73472/clothing a green bathing suit] jumps off [/EN#73473/scene a building] into [/EN#73474/scene a lake] .
+[/EN#73471/people A girl] in [/EN#73472/clothing a green bathing suit] leaping into [/EN#73474/scene a lake] .
+[/EN#73471/people The girl] is leaping into [/EN#73474/scene the lake] .
+[/EN#73471/people A woman] jumping into [/EN#73474/scene a lake]

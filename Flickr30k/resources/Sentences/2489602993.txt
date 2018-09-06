@@ -1,0 +1,5 @@
+[/EN#53028/people The number 52 motorcyclist] in [/EN#53030/clothing a blue and black helmet] is going around [/EN#53031/scene a corner] .
+[/EN#53028/people A man] with [/EN#53030/clothing a blue helmet] leans into [/EN#53033/other a sharp turn] on [/EN#53032/other his motorcycle] .
+[/EN#53028/people A motorcyclist] on [/EN#53032/vehicles a number 52 bike] leans in for [/EN#53033/other a sharp turn] .
+[/EN#53028/people a man] rides [/EN#53032/other a green motorcycle] around [/EN#53031/scene a corner]
+[/EN#53028/people A man] on [/EN#53032/other a motorcycle] going around [/EN#53031/scene a corner] .

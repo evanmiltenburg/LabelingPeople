@@ -1,0 +1,5 @@
+[/EN#157074/people A man] in [/EN#157078/clothing a gray sweater] and [/EN#157079/clothing brown pants] is lying down on [/EN#157076/other a couch] and reading [/EN#157075/other a book] .
+[/EN#157074/people The elderly gentleman] relaxes reading [/EN#157075/other his novel] after [/EN#157077/other a long day of work] .
+[/EN#157074/people A middle-aged man] relaxing on [/EN#157076/other a couch] reading [/EN#157075/other a book] .
+[/EN#157074/people An elderly man] is sitting on [/EN#157076/other a couch] reading [/EN#157075/other a book] .
+[/EN#157074/people a man] reading [/EN#157075/other a late night book] on [/EN#157076/other the couch] .

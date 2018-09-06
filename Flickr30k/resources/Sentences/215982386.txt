@@ -1,0 +1,5 @@
+[/EN#31706/people A woman] in [/EN#31710/clothing a white collared shirt] and [/EN#31712/clothing shorts] holds [/EN#31709/other a rope] connected to [/EN#31707/other a bear statue] on [/EN#31708/other a wooden platform] .
+[/EN#31706/people A woman] dressed in [/EN#31710/clothing white] using [/EN#31709/other a rope] to pull [/EN#31707/animals a black carved wooden bear] on [/EN#31713/vehicles a cart] .
+[/EN#31706/people A woman] in [/EN#31710/clothing a white polo shirt] is moving [/EN#31707/animals a black statue of a bear] .
+[/EN#31706/people A lady] pretending [/EN#0/notvisual she] is pulling [/EN#31707/animals a black bear] on [/EN#31708/other a plank] .
+[/EN#31706/people A woman] pulling [/EN#31707/animals a statue of a bear] on [/EN#31708/other a wooden platform] .

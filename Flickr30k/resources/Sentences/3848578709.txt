@@ -1,0 +1,5 @@
+[/EN#145566/people A man] in [/EN#145567/clothing a blue shirt] and [/EN#145567/clothing sweater] sitting outside against [/EN#145568/scene a blue building] sewing [/EN#145569/other silver fabric] .
+[/EN#145566/people An old man] wearing [/EN#145567/clothing a blue shirt] and [/EN#145567/clothing vest] is working on [/EN#145569/clothing a piece of clothing] .
+[/EN#145566/people A man] mending [/EN#145569/clothing a shirt] with [/EN#145570/other tools] on [/EN#145571/other a small table] next to [/EN#0/notvisual him] .
+[/EN#145566/people man] wearing [/EN#145567/clothing blue shirt] and [/EN#145567/clothing vest] sewing [/EN#145569/other gray piece of fabric]
+[/EN#145566/people A man] sitting in [/EN#145568/scene a room] with [/EN#145572/other blue walls] while sewing .

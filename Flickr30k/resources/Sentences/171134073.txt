@@ -1,0 +1,5 @@
+[/EN#19247/people A Mexican man] going to dig up [/EN#19253/scene the dirt] for [/EN#19252/other plants] in [/EN#19254/scene the field] .
+[/EN#19247/people A man] in [/EN#19248/clothing a blue shirt] is standing in [/EN#19249/scene a doorway] .
+[/EN#19247/people A man] in [/EN#19248/clothing a blue shirt] emerges from [/EN#19249/scene a doorway] .
+[/EN#19247/people A man] in [/EN#19248/clothing a blue shirt] walking out [/EN#19250/other a door] .
+[/EN#19247/people A man] in [/EN#19251/clothing khakis] is standing in [/EN#19249/scene a doorway] .

@@ -1,0 +1,5 @@
+[/EN#259914/people People] travel on [/EN#259915/scene the escalator] ; [/EN#259920/other some] are going down to [/EN#259921/other the lower level] , while [/EN#259922/other others] are going up to [/EN#259923/other the next level] .
+[/EN#259916/people Men] and [/EN#259919/people women] with [/EN#259924/clothing satchels] and [/EN#259925/clothing briefcases] travel up and down dimly lit [/EN#259913/scene escalators] .
+[/EN#259913/scene A large escalator] with [/EN#259918/people many people] is escalating [/EN#259914/people people] up and down .
+[/EN#259914/people A large group of people] are riding up and down on [/EN#259913/scene an escalator] .
+[/EN#259915/scene An escalator] with [/EN#259914/people many people] on [/EN#0/notvisual it] , leading out of [/EN#259917/scene a tunnel] .

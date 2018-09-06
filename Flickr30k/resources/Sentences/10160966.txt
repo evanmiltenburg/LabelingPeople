@@ -1,0 +1,5 @@
+[/EN#517/people A barefooted man] wearing [/EN#518/clothing olive green shorts] grilling [/EN#519/other hotdogs] on [/EN#520/other a small propane grill] while holding [/EN#521/other a blue plastic cup] .
+[/EN#517/people A guy] in [/EN#518/clothing shorts] and [/EN#522/clothing a white t-shirt] sits on [/EN#0/notvisual the ground] in front of [/EN#520/other a grill] with [/EN#519/other hotdogs] on [/EN#0/notvisual it] .
+[/EN#517/people A young man] in [/EN#523/clothing sunglasses] holds [/EN#521/other a blue cup] next to [/EN#520/other a grill] with [/EN#519/other sausages] .
+[/EN#517/people A young man] , wearing [/EN#522/clothing a white shirt] , prepares [/EN#519/other hotdogs] on [/EN#520/other a small grill] .
+[/EN#517/people A man] is holding [/EN#521/other his cup] while [/EN#0/notvisual he] grills [/EN#519/other hotdogs] .

@@ -1,0 +1,5 @@
+[/EN#14411/people A longhaired woman] in [/EN#14413/clothing a green coat] is standing and pushing [/EN#14412/other a crosswalk signal button] .
+[/EN#14411/people A woman] in [/EN#14413/clothing a green jacket] presses [/EN#14418/other the "] Do Not Walk [/EN#14415/other " button] so [/EN#0/notvisual she] can cross [/EN#14417/scene the road] .
+[/EN#14411/people A woman] in [/EN#14413/clothing a green jacket] is waiting to cross [/EN#14417/scene the street] at [/EN#14414/other a light] .
+[/EN#14411/people A woman] in [/EN#14413/clothing a green jacket] is pushing [/EN#14412/other the button] to cross [/EN#14417/scene the street] .
+[/EN#14411/people A girl] wearing [/EN#14413/clothing a green jacket] is standing at [/EN#14414/other a stoplight] .

@@ -1,0 +1,5 @@
+[/EN#185174/people A bicyclist] in [/EN#185186/clothing a white shirt] and [/EN#185187/clothing black shirt] is fixing [/EN#185178/vehicles a bike] on [/EN#185179/scene the sidewalk] while [/EN#185185/other other look] on .
+[/EN#185175/people three males] and [/EN#185181/people a female] watch as [/EN#185174/people a biker] fixes [/EN#185180/other a chain] [/EN#0/notvisual that] has come off [/EN#185183/other his gear] on [/EN#185178/vehicles his bike] .
+[/EN#185174/people A person] is repairing [/EN#185178/vehicles a bicycle] while [/EN#185176/people four people] watch in [/EN#185182/scene an urban setting] .
+[/EN#185175/people A group of people] crowded around [/EN#185178/vehicles a bike] and [/EN#185174/people its rider] on [/EN#185179/scene the street] .
+[/EN#185177/people Bike riders] stop riding while [/EN#185184/vehicles one rider fixes bike] .

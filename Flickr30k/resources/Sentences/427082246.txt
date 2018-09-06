@@ -1,0 +1,5 @@
+[/EN#161100/people a man] wearing [/EN#161103/clothing a yellow sweater] playing with [/EN#161101/animals a black dog] in [/EN#161106/scene a grassy field]
+[/EN#161100/people A man] in [/EN#161103/clothing a yellow sweatshirt] and [/EN#161105/clothing black pants] plays with [/EN#161101/animals a black poodle] .
+[/EN#161100/people A man] wearing [/EN#161103/clothing a yellow shirt] is playing with [/EN#161101/animals his black poodle] .
+[/EN#161100/people Man] in [/EN#161103/clothing yellow jacket] teaching [/EN#161101/animals his black dog] to do [/EN#0/notvisual a trick] .
+[/EN#161100/people a man] in [/EN#161103/clothing a yellow shirt] training [/EN#161101/animals a black poodle]

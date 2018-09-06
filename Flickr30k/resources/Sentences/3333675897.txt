@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#110216/animals a black and white dog] running on [/EN#110222/other a mat] with [/EN#110220/people a man] in [/EN#110218/clothing a blue shirt] watching .
+[/EN#110216/animals A dog] is running [/EN#110219/other an obstacle course] while [/EN#110220/people a man] in [/EN#110218/clothing blue] stands behind .
+[/EN#110216/animals A small dog] with [/EN#110217/other a ball] in [/EN#110221/bodyparts its mouth] running through [/EN#110219/other a course] .
+[/EN#110216/animals A border collie] runs by [/EN#110219/other a course] with [/EN#110217/other a ball] in [/EN#110221/bodyparts its mouth] .
+[/EN#110216/animals A black and white dog] is performing [/EN#0/notvisual tricks] on [/EN#110219/other a course] .

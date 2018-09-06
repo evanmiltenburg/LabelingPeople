@@ -1,0 +1,5 @@
+[/EN#12240/people A child] in [/EN#12240/clothing a black overall karate costume] with [/EN#12244/scene a red front] and [/EN#12245/animals yellow bird] on [/EN#0/notvisual it] , attacking .
+[/EN#12240/people The person] is wearing [/EN#12240/clothing a black and red outfit] and is practicing [/EN#12240/other combat] .
+[/EN#12240/people A boy] wears [/EN#12240/clothing a ninja suit] and strikes [/EN#12240/other a pose] .
+[/EN#12240/people A person] in [/EN#12240/clothing costume] doing [/EN#12243/other martial arts] .
+[/EN#12240/people A masked person] in [/EN#12240/other a fight stance] .

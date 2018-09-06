@@ -1,0 +1,5 @@
+[/EN#36710/people An older man] in [/EN#36711/clothing a blue shirt] and [/EN#36712/clothing black glasses] and [/EN#36713/people a young child] in [/EN#36714/clothing a red coat] play with [/EN#36715/other a red ride] on [/EN#36715/other fire engine] .
+[/EN#36710/people An older man] with [/EN#36712/clothing glasses] lies on [/EN#36716/scene the floor] playing with [/EN#36713/people a toddler] and [/EN#36715/other her toy firetruck] .
+[/EN#36710/people An older man] with [/EN#36712/clothing glasses] fixing [/EN#36715/other a toy firetruck] while [/EN#36713/people an baby girl] plays with [/EN#0/notvisual it] .
+[/EN#36710/people A man] with graying [/EN#36717/bodyparts hair] and [/EN#36718/bodyparts beard] is playing with [/EN#36713/people a child] in [/EN#36714/clothing a red top] .
+[/EN#36710/people The man] and [/EN#36713/people the baby] are playing with [/EN#36715/other the toy fire engine] .

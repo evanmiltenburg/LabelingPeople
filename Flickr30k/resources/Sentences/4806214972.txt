@@ -1,0 +1,5 @@
+[/EN#204827/scene A cathedral] overlooks [/EN#204826/scene a river] [/EN#0/notvisual which] is spanned by [/EN#204830/scene a traffic bridge] and traveled upon by [/EN#204829/other small craft] .
+[/EN#204822/vehicles/scene A small boat] carrying [/EN#204821/people at least one passenger] floats in [/EN#204826/scene the water] near [/EN#204829/scene a dock] around [/EN#204832/scene sunset] .
+[/EN#204823/people Two people] occupy [/EN#204822/vehicles/scene a small boat] in [/EN#204826/scene a river] with [/EN#204828/other a cityscape] in [/EN#0/notvisual the background] .
+[/EN#204821/people A person] floating on [/EN#204826/scene a river] near [/EN#204825/scene a metropolitan area] .
+[/EN#204821/people A man] is rowing [/EN#204822/vehicles/scene a boat] through [/EN#204826/scene a river] in [/EN#204825/scene a city] .

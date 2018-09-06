@@ -1,0 +1,5 @@
+[/EN#2770/animals A black dog] playing [/EN#2772/other fetch] with [/EN#2771/other a ball of rope] .
+[/EN#2770/animals A large black dog] is playing in [/EN#2774/scene a grassy yard] .
+[/EN#2770/animals A black dog] running after [/EN#2771/other his rope toy] .
+[/EN#2770/animals a black dog] jumping to catch [/EN#2771/other a rope toy]
+[/EN#2770/animals A black dog] pounces to get [/EN#2771/other a rope toy] .

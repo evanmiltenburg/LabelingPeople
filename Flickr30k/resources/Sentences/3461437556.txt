@@ -1,0 +1,5 @@
+[/EN#119920/animals Three dogs] , [/EN#119923/clothing one white and two brown] , are running together on [/EN#119922/scene a field of grass] .
+[/EN#119920/animals Three dogs] run together in [/EN#119922/scene the grass] .
+[/EN#119920/animals Three dogs] are running on [/EN#119922/scene the grass] .
+[/EN#119920/animals Three dogs] run along [/EN#119922/scene a grassy yard] .
+[/EN#119920/animals Dogs] on [/EN#119922/scene grass] .

@@ -1,0 +1,5 @@
+[/EN#127263/people A man] in [/EN#127272/clothing a flowered bathing suit] waterskies on [/EN#127267/other one ski] while being pulled by [/EN#127269/other a rope] .
+[/EN#127263/people A man] on [/EN#127267/other a waterski] is performing [/EN#0/notvisual a jump] in [/EN#0/notvisual the air] .
+[/EN#127263/people A man] is doing [/EN#0/notvisual a jump] on [/EN#127267/other a wakeboard] in [/EN#127264/scene the water] .
+[/EN#127263/people A man] waterskiing through [/EN#0/notvisual the air] near [/EN#127265/scene a dock] .
+[/EN#127263/people A man] riding [/EN#127267/other a wakeboard] on [/EN#127264/scene a lake]

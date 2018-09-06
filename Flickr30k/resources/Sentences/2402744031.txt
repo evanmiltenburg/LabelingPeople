@@ -1,0 +1,5 @@
+[/EN#46670/people Two women] in [/EN#46676/clothing black coats] standing in front of [/EN#46671/people a person] sitting on [/EN#46673/other a box] on [/EN#0/notvisual the ground] .
+[/EN#46670/people Two woman] wearing [/EN#46677/clothing black shoes] stand together while [/EN#46671/people a person] sits behind [/EN#0/notvisual them] .
+[/EN#46669/people Hooded women] at [/EN#46683/scene event] , [/EN#46671/other one] seated next to [/EN#46675/other a table] with [/EN#46680/clothing large glasses] on [/EN#0/notvisual it] .
+[/EN#46669/people Three women] in [/EN#46679/other headscarfs look] at [/EN#46682/other something] out of [/EN#46678/other frame] .
+[/EN#46672/people People] shopping at [/EN#46674/other an outdoor marketplace] .

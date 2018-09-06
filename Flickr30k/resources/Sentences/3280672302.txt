@@ -1,0 +1,5 @@
+[/EN#106636/people A person] wearing [/EN#106641/clothing a black shirt] is getting [/EN#106631/other a piggyback ride] from [/EN#106630/people a person] wearing [/EN#106637/other a black t-shirt walkng] on [/EN#106639/scene a paved path] in [/EN#106640/other the woods] .
+[/EN#106630/people A teenage boy] gives [/EN#106631/people another teenage boy] [/EN#106631/other a piggyback ride] in [/EN#106638/scene a forest] .
+[/EN#106630/people A boy] struggles to carry [/EN#106631/people a girl] on [/EN#106634/other his back] .
+[/EN#106630/people a boy] carries [/EN#106631/people a teenager] on [/EN#106634/other his back] .
+[/EN#106630/people The boy] is carrying [/EN#106631/people the other boy] .

@@ -1,0 +1,5 @@
+[/EN#88655/people Person] riding [/EN#88657/scene wave] on [/EN#88658/bodyparts stomach] on [/EN#88656/other a blue surfboard] .
+[/EN#88655/people A male surfer] is on [/EN#88658/bodyparts his stomach] and riding [/EN#88657/scene a wave] .
+[/EN#88655/people A surfboarder] prepares to catch [/EN#88657/scene a wave] .
+[/EN#88655/people A man] on [/EN#88656/other a blue surfboard] is on [/EN#88657/scene a wave] .
+[/EN#88655/people A surfer] rides [/EN#88657/scene the waves] .

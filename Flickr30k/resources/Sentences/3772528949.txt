@@ -1,0 +1,5 @@
+[/EN#141956/people Two men] sit on [/EN#141957/vehicles/scene a pontoon boat] holding [/EN#141959/other oars] and wearing [/EN#141958/clothing hats] .
+[/EN#141956/people Two men] with [/EN#141958/clothing hats] sit on [/EN#141957/scene a covered raft] and hold [/EN#141959/other their oars] .
+[/EN#141956/people Two barefoot men] in [/EN#141958/clothing hats] sit on [/EN#141957/scene a raft] holding [/EN#141959/other paddles]
+[/EN#141956/people Two men] sitting in [/EN#141957/scene a homemade raft] with [/EN#141960/other a canopy] .
+[/EN#141956/people Two men] with [/EN#141959/other oars] sitting on [/EN#141957/vehicles/scene a pontoon boat] .

@@ -1,0 +1,5 @@
+[/EN#31823/people A person] holding [/EN#31824/other a Frisbee] just out of [/EN#31822/animals reach of a white dog] on [/EN#31825/scene a rural road]
+[/EN#31823/people Person] holding [/EN#31824/other a Frisbee] with [/EN#31822/animals a white dog] jumping for [/EN#0/notvisual it] on [/EN#31825/scene a road] .
+[/EN#31822/animals The dog] jumps up to get [/EN#31824/other the Frisbee] in [/EN#31827/bodyparts the man 's hand] .
+[/EN#31823/people A man] and [/EN#31822/animals a dog] play with [/EN#31824/other a Frisbee] .
+[/EN#31822/animals A dog] leaps for [/EN#31824/other a toy] on [/EN#31825/scene a road] .

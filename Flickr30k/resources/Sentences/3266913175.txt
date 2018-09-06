@@ -1,0 +1,5 @@
+[/EN#105663/people Lots of children] [/EN#105659/vehicles 's bikes] and [/EN#105660/vehicles vehicles] lying in [/EN#105658/scene road] with [/EN#105664/vehicles green trailer] in [/EN#0/notvisual the background] .
+[/EN#105659/vehicles Many bikes] are laying on [/EN#0/notvisual the ground] while [/EN#105657/people a person] is opening [/EN#105662/other a door] .
+[/EN#105661/vehicles Bicycles] are littering [/EN#105658/scene the road] as [/EN#105657/people boy] pull [/EN#105662/other door] .
+[/EN#105658/scene A parking lot] filled with [/EN#105659/vehicles bikes] and [/EN#105665/other trikes] .
+[/EN#105657/people A child] standing , surrounded by [/EN#105659/vehicles bikes] .

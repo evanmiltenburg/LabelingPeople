@@ -1,0 +1,5 @@
+[/EN#120915/people A man] wearing [/EN#120916/clothing a striped shirt] is smoking [/EN#120917/other a cigarette] on [/EN#120921/scene the street]
+[/EN#120915/people A man] in [/EN#120916/clothing a blue and white striped shirt] is smoking [/EN#120917/other a cigarette] .
+[/EN#120915/people A man] wearing [/EN#120916/clothing a white and blue striped shirt] stands outside .
+[/EN#120915/other A dark-haired main] standing in front of [/EN#120919/other a blue garage door] .
+[/EN#120915/people A man] smoking [/EN#120917/other a cigarette] in front of [/EN#120920/scene a horizontal garage] .

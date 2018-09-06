@@ -1,0 +1,5 @@
+[/EN#100227/people A boy] on [/EN#100228/vehicles a bike] is jumping over [/EN#100229/other a metal rail] in [/EN#100231/scene a playground] .
+[/EN#100227/people Young man] on [/EN#100228/vehicles bike] jumping over [/EN#100229/other outdoor playground equipment] .
+[/EN#100227/people a cyclist] is performing [/EN#0/notvisual a jump] over [/EN#100229/other a white railing] .
+[/EN#100227/people A man] rides [/EN#100228/vehicles his bike] over [/EN#100229/other a stair handrail] .
+[/EN#100227/people A boy] is jumping [/EN#100229/other a rail] on [/EN#100228/vehicles his bicycle] .

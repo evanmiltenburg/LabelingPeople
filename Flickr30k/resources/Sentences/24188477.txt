@@ -1,0 +1,5 @@
+[/EN#47958/people A man] using [/EN#47960/other heavy machinery] digs [/EN#47969/scene a hole] in [/EN#47964/scene a street] while [/EN#47963/people another man] looks on from [/EN#47970/people a skid loader] .
+[/EN#47960/other A tractor] with [/EN#47971/bodyparts/people a shovel arm] is operated by [/EN#47961/clothing a orange vest] wearing [/EN#47958/people driver] at [/EN#47968/scene a construction site] .
+[/EN#47959/people Two males] are sitting in [/EN#47960/other construction equipment] .
+[/EN#47958/people A worker] with [/EN#47961/clothing an orange vest] working on [/EN#47964/scene a road] .
+[/EN#47966/other Excavation work] being done in [/EN#47967/scene a city] .

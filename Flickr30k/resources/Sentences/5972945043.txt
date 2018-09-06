@@ -1,0 +1,5 @@
+[/EN#246277/people A baseball infielder] is throwing [/EN#246276/other the ball] to [/EN#246281/people a player] standing on [/EN#246279/other a base] with [/EN#246284/other his right foot] .
+[/EN#246277/people A baseball player] in [/EN#246287/clothing a white uniform] is throwing [/EN#246276/other the ball] to [/EN#246281/people another player] at [/EN#246279/other a base] .
+[/EN#246276/other A ball] thrown to [/EN#246279/other first base] is [/EN#246285/other mid flight] between [/EN#246277/people two players] .
+[/EN#246280/people A player] throws [/EN#246276/other a ball] and [/EN#246281/other other] tries to catch [/EN#0/notvisual it] .
+[/EN#246277/people Two men] playing [/EN#246283/other baseball] .

@@ -1,0 +1,5 @@
+[/EN#275989/people A young child] wearing [/EN#275992/clothing a yellow life jacket] is walking across [/EN#275994/other sand] while carrying [/EN#275991/other a blue and yellow boogie board] over [/EN#275993/bodyparts his head] .
+[/EN#275989/people A young child] wearing [/EN#275992/clothing a yellow life jacket] and carrying [/EN#275991/other a beach toy] on [/EN#275993/bodyparts his head] walks across [/EN#275990/scene the sandy beach] .
+[/EN#0/notvisual There] is [/EN#275989/people a small child] , wearing [/EN#275992/clothing a yellow life jacket] , carrying [/EN#275991/other a flotation device] , on [/EN#275990/scene the beach] .
+[/EN#275989/people Small child] wearing [/EN#275992/clothing a yellow life jacket] walks in [/EN#275994/other the sand] with [/EN#275991/other their boogieboard] on [/EN#275993/bodyparts their head] .
+[/EN#275989/people A young child] in [/EN#275992/clothing a yellow life vest] at [/EN#275990/scene the beach] carrying [/EN#275991/other a boogie board] .

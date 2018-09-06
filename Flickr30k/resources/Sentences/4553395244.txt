@@ -1,0 +1,5 @@
+[/EN#177745/people Three firemen] with [/EN#177747/clothing/vehicles oxygen tanks] on [/EN#177750/other their backs] walk up [/EN#177746/scene a metal ramp] .
+[/EN#177745/people Three firefighters] with [/EN#177747/clothing/vehicles oxygen tanks] climbing [/EN#177746/other a ladder] .
+[/EN#177745/people Firefighters] in [/EN#177749/other full gear] are walking up [/EN#177746/other a ladder] .
+[/EN#177745/people Three firemen] are walking up [/EN#177746/other a ladder] .
+[/EN#177745/people Firefighters] climbing past [/EN#177748/other a tree] .

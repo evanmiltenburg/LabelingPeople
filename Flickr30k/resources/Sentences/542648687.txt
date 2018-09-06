@@ -1,0 +1,5 @@
+[/EN#236324/animals Two black and white dogs] look toward [/EN#236329/other something] in [/EN#0/notvisual the air] while running in [/EN#236325/scene a grassy field] .
+[/EN#236324/animals Two dogs] change [/EN#0/notvisual direction] in [/EN#236325/scene an uncut field] surrounded by [/EN#236328/other low brush] .
+[/EN#236324/animals Two black and white dogs] in [/EN#236325/other a field of flowers] and [/EN#236326/scene grass] .
+[/EN#236324/animals Two dogs] run in [/EN#236325/scene a field] looking at [/EN#236327/other an unseen Frisbee] .
+[/EN#236324/animals two black and white dogs] running in [/EN#236326/scene a flowery field]

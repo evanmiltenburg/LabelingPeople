@@ -1,0 +1,5 @@
+[/EN#72245/people A boy] and [/EN#72246/people a girl] sitting together in [/EN#72247/vehicles a car] at [/EN#72250/other a gas pump] as [/EN#0/notvisual it] rains .
+[/EN#72245/people A male and female] are taking [/EN#72251/other a picture] in [/EN#72247/vehicles a vehicle] .
+[/EN#72245/people Couple] in [/EN#72252/other car look] at [/EN#72253/other something] beyond [/EN#0/notvisual the camera] .
+[/EN#72246/people Blond women] laying on [/EN#72248/bodyparts man 's shoulder] in [/EN#72247/vehicles a car] .
+[/EN#72246/people Lady] leaning on [/EN#72248/bodyparts man 's shoulder] inside [/EN#72247/vehicles a car] .

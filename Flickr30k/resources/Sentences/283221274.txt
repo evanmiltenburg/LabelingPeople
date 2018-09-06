@@ -1,0 +1,5 @@
+[/EN#75487/people A guy] dressed in [/EN#75497/clothing jeans] , [/EN#75494/clothing a white t-shirt] and [/EN#75495/clothing brown hat] is jumping over [/EN#75489/people another guy] [/EN#0/notvisual who] is riding [/EN#75493/other a skateboard] along [/EN#75492/scene a sidewalk] in [/EN#75491/scene a shopping district] .
+[/EN#75487/people A guy] is [/EN#75499/other karate] kicking [/EN#75488/scene a light post] while [/EN#75489/people another dude] wearing [/EN#75500/clothing sunglasses] is skateboarding underneath [/EN#75497/bodyparts his outstretched leg] .
+[/EN#75487/people A man] is kicking [/EN#75490/other a light pole] while [/EN#75489/people his friend] crouches underneath [/EN#0/notvisual him] .
+[/EN#0/notvisual There] is [/EN#75489/people a man] skateboarding and [/EN#75487/people another nan] jumping over [/EN#75496/bodyparts his head] .
+[/EN#75487/people One person] using [/EN#75488/scene a light post] to jump over [/EN#0/notvisual another]

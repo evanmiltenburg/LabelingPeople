@@ -1,0 +1,5 @@
+[/EN#4953/people A man] wearing [/EN#4954/clothing a construction hat] and [/EN#4959/other gloves works] with [/EN#4957/other machinery] .
+[/EN#4953/people A man] in [/EN#4954/clothing the hard hat] and [/EN#4960/clothing work gloves] is holding [/EN#4956/other some metal part] .
+[/EN#4953/people A factory worker] is wearing [/EN#4954/clothing an orange hard hat] while working .
+[/EN#4953/people A man] wearing [/EN#4958/clothing a sleeveless shirt] and [/EN#4954/clothing construction helmet] .
+[/EN#4953/people A factory worker] is working at [/EN#4955/other a machine]

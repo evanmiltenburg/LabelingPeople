@@ -1,0 +1,5 @@
+[/EN#214153/people A man] in [/EN#214159/clothing shorts] and [/EN#214156/clothing a pink polo shirt] , with [/EN#214155/clothing a large black backpack] and [/EN#214158/clothing headphones] , riding [/EN#214154/vehicles a bike] .
+[/EN#214153/people A man] with [/EN#214156/clothing a purple shirt] , [/EN#214157/clothing blue sneakers] , and [/EN#214155/clothing a black backpack] riding [/EN#214154/vehicles a bicycle] .
+[/EN#214153/people A person] in [/EN#214157/clothing blue shoes] and [/EN#214156/clothing pink shirt] with [/EN#214158/clothing headphones] riding [/EN#214154/vehicles a bike] .
+[/EN#214153/people A guy] in [/EN#214156/clothing a pink shirt] riding [/EN#214154/vehicles a bike] and listening to [/EN#214160/other music] .
+[/EN#214153/people A man] in [/EN#214156/clothing a purple shirt] rides [/EN#214154/vehicles a bike] .

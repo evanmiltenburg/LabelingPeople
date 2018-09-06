@@ -1,0 +1,5 @@
+[/EN#156749/people One lady] in [/EN#156751/clothing a purple shirt] is handing [/EN#156744/people another lady] in [/EN#156751/clothing a purple shirt] [/EN#156753/other a shovel] .
+[/EN#156745/people Two women] in [/EN#156748/clothing light blue shirts] place [/EN#156747/other a stone tile] in [/EN#156750/scene a garden] .
+[/EN#156745/people Two women] in [/EN#156748/clothing blue shirts] laying down [/EN#156757/scene concrete tile outside] .
+[/EN#156744/people A man] and [/EN#156744/people a woman] , [/EN#0/notvisual both] dressed in [/EN#156756/clothing blue] , are laying [/EN#156747/other tile] .
+[/EN#156744/people A man] and [/EN#156749/people a woman] laying [/EN#156747/other tile] to build [/EN#156754/scene a walkway] .

@@ -1,0 +1,5 @@
+[/EN#257705/people A tan woman] with [/EN#257706/clothing a black scarf] and [/EN#257707/clothing a long floral-print dress] in sitting on [/EN#257708/other a stone] and smiling with [/EN#257711/bodyparts her hands] in [/EN#257712/bodyparts her lap] .
+[/EN#257705/people A woman] wearing [/EN#257707/clothing a bright , flowery dress] and [/EN#257706/clothing a black top] is sitting on [/EN#0/notvisual the ground] next to [/EN#257713/scene a building] .
+[/EN#257705/people A young woman] smiles wearing [/EN#257707/clothing a flowered skirt] , [/EN#257706/clothing a black top] , and [/EN#257709/clothing blue flip-flops] .
+[/EN#257705/people A lady] in [/EN#257710/clothing traditional clothes] and [/EN#257709/clothing sandals] looking and smiling at [/EN#0/notvisual the camera] .
+[/EN#257705/people A young woman] sits at [/EN#257708/other the curb] with wearing [/EN#257707/clothing a dress] and [/EN#257709/clothing sandals] .

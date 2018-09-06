@@ -1,0 +1,5 @@
+[/EN#231026/people A person] sits at [/EN#231027/other a bus stop bench] with [/EN#231025/vehicles a truck] [/EN#0/notvisual that] has been heavily spray painted , [/EN#231029/other graffiti style] , sits to [/EN#231031/scene the left] .
+[/EN#231026/people A man] waits at [/EN#231028/other a bus stop] next to [/EN#231025/vehicles a truck] covered in [/EN#231029/other graffiti] .
+[/EN#231025/vehicles A truck] has graffiti on [/EN#0/notvisual it] with [/EN#231026/people a man] sitting on [/EN#231027/other a bench] .
+[/EN#231025/vehicles A large truck] near [/EN#231028/other a bus stop] has colored with [/EN#231029/other graffiti] .
+[/EN#231029/other A spray] painted [/EN#231025/vehicles truck] and [/EN#231026/people a man] [/EN#231028/other a bus stop] .

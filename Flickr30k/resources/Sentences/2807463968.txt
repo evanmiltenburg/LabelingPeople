@@ -1,0 +1,5 @@
+[/EN#74098/people A woman] with [/EN#74100/bodyparts shoulder length hair] sits on [/EN#74099/scene a sidewalk] wearing [/EN#74103/clothing a blue striped shirt] and [/EN#74101/clothing high heels] .
+[/EN#74102/people People] are sitting on [/EN#74107/other a ledge] on [/EN#74099/scene the side of a street] , [/EN#74098/people the girl] in [/EN#74106/scene the front] has [/EN#74101/clothing high heels] on .
+[/EN#74098/people A young woman] in [/EN#74101/clothing high heels] sitting along [/EN#74099/scene the edge of a sidewalk] in [/EN#74104/scene the city] .
+[/EN#74098/people A woman] in [/EN#74101/clothing high heels] and [/EN#74105/clothing black leggings] sitting on [/EN#74099/scene the sidewalk] .
+[/EN#74098/people A woman] with [/EN#74100/bodyparts brown hair] sits by [/EN#74099/scene a sidewalk] .

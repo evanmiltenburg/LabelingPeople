@@ -1,0 +1,5 @@
+[/EN#244349/people A street vendor] sitting on [/EN#244353/other a stool] , on [/EN#244352/scene the sidewalk] with [/EN#244355/other his wares] , reading [/EN#244351/other his newspaper] .
+[/EN#244349/people A man] sits on [/EN#244353/other a stool] reading [/EN#244351/other the newspaper] among [/EN#244354/other a bunch of debris] .
+[/EN#244349/people A man] in [/EN#244356/clothing a coat] is sitting on [/EN#244353/other a stool] outside reading [/EN#244350/other a newspaper] .
+[/EN#244349/people A man] sits on [/EN#244353/other a stool] and reads [/EN#244350/other a newspaper] on [/EN#244352/scene a sidewalk] .
+[/EN#244349/people A man] sits on [/EN#244353/other a stool] reading [/EN#244351/other a newspaper] .

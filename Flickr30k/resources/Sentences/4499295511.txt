@@ -1,0 +1,5 @@
+[/EN#173292/people Three people] sit on [/EN#173294/other a bench] at [/EN#173295/other a station] , [/EN#173291/people the man] looks oddly at [/EN#173293/people the two women] , [/EN#173296/people the redheaded women] looks up and forward in [/EN#173298/scene an awkward position] , and [/EN#173297/other the yellow blond girl twiddles] with [/EN#173297/bodyparts her hair] .
+[/EN#173291/people A man] and [/EN#173293/people two women] in [/EN#173300/clothing black jackets] holding [/EN#173301/clothing umbrellas] sit on [/EN#173294/other a long wooden bench] .
+[/EN#173291/people A man] and [/EN#173293/people two women] sitting on [/EN#173294/other a bench] .
+[/EN#173293/people Two women] and [/EN#173291/people one man] sit on [/EN#173294/other a bench] .
+[/EN#173292/people Three people] are sitting on [/EN#173294/other a bench] .

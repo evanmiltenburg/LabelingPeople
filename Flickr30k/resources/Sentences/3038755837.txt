@@ -1,0 +1,5 @@
+[/EN#89297/people A man] is waiting on [/EN#89299/other a bench] while looking out into [/EN#89298/scene the lake] to see [/EN#89302/other two large ships] .
+[/EN#89297/people An older man] in [/EN#89300/clothing a brown suit] rests on [/EN#89299/other a bench] by [/EN#89298/scene the water] .
+[/EN#89297/people A man] is sitting on [/EN#89299/other a bench] [/EN#0/notvisual that] faces [/EN#89298/scene a body of water] .
+[/EN#89297/people A man] has [/EN#89301/scene a seat] on [/EN#89299/other a bench] overlooking [/EN#89298/scene a bay] .
+[/EN#89297/people Man] in [/EN#89300/clothing brown jacket] sitting on [/EN#89299/other bench] .

@@ -1,0 +1,5 @@
+[/EN#171220/people A man] wearing [/EN#171222/clothing a red tee-shirt] is playing [/EN#171222/instruments a bowed instrument] tucked under [/EN#171227/bodyparts his neck] .
+[/EN#171220/people Man] holding [/EN#171221/other a sword] like [/EN#171222/instruments a violin] and stroking [/EN#171221/other a violin bow] across [/EN#0/notvisual it] .
+[/EN#171220/people A man] dressed in [/EN#171225/clothing jeans] and [/EN#171222/clothing a red shirt] is playing [/EN#171222/instruments an instrument] .
+[/EN#171220/people An older man] in [/EN#171222/clothing a red shirt] playing [/EN#171222/instruments an instrument] .
+[/EN#171220/people A man] plays [/EN#171226/other music] with [/EN#171221/other a sword] and [/EN#171221/other a bow] .

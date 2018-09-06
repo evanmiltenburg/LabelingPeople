@@ -1,0 +1,5 @@
+[/EN#21833/people A man] cutting [/EN#21834/other a cake] in [/EN#21835/clothing a yellow shirt] , while amongst [/EN#21836/people a gathering of people] .
+[/EN#21833/people A man] in [/EN#21835/clothing a yellow shirt] about to cut [/EN#21834/other a cake] with [/EN#21836/people people] sitting beside [/EN#0/notvisual him] .
+[/EN#21833/people A man] appears to be cutting [/EN#21834/other a cake platter] while [/EN#21836/other others] are by [/EN#0/notvisual his side] .
+[/EN#21838/people This group of people] are eating and drinking in [/EN#21841/other a circle] .
+[/EN#21833/people A man] in [/EN#21835/clothing a yellow shirt] is cutting [/EN#21834/other his birthday cake] .

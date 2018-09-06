@@ -1,0 +1,5 @@
+[/EN#236512/people A person] is sledding down [/EN#236514/scene a hill of snow] , with [/EN#236516/other an expression of excitement] on [/EN#236518/bodyparts their face] .
+[/EN#236512/people A male teenager] is sledding down [/EN#236514/scene a snow-covered hill] in [/EN#236513/other a green sled] .
+[/EN#236512/people A young man] is sledding down [/EN#236514/scene a snow covered hill] on [/EN#236513/other a green sled] .
+[/EN#236512/people A man] in [/EN#236519/clothing a black coat] is sledding down [/EN#236514/scene a hill] on [/EN#236513/other a green sled] .
+[/EN#236512/people A person] with [/EN#236515/other a gray hood] up [/EN#236517/other sleds] down [/EN#236514/scene a snowy hill] .

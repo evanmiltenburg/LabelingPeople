@@ -1,0 +1,5 @@
+[/EN#246849/people An individual] wearing [/EN#246851/clothing a beanie] and [/EN#246852/clothing a blue coat] stands hunched over [/EN#246850/other suitcases of various items] , including [/EN#246858/other cameras] and [/EN#246860/other scissors] , on [/EN#246853/scene the sidewalk] .
+[/EN#246849/people A person] in [/EN#246851/clothing a gray hat] and [/EN#246852/clothing navy jacket] is standing outside of [/EN#246857/scene a shop] with [/EN#246854/other a silver grate] over [/EN#0/notvisual it] with [/EN#246850/other boxes of some sort of tools] .
+[/EN#246849/people A person] crouches over [/EN#246850/other bags of supplies] on [/EN#246853/scene the street] in front of [/EN#246854/other a steel door] .
+[/EN#246849/people A worker] searches for [/EN#246856/other the correct tool] in [/EN#246850/clothing their briefcase] .
+[/EN#246849/people Woman] unpacking [/EN#246850/clothing a bag] with [/EN#246859/scene photography equipment inside] .

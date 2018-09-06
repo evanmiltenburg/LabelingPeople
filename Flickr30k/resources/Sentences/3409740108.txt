@@ -1,0 +1,5 @@
+[/EN#116117/animals The number 2 dog] in [/EN#116122/clothing the blue vest] is in [/EN#116117/other the lead] at [/EN#116118/animals the dog] races .
+[/EN#116120/other several] muzzled [/EN#116115/animals greyhound dogs] racing around [/EN#116116/scene a track]
+[/EN#116115/animals Muzzled greyhounds] are racing on [/EN#116116/scene the track] .
+[/EN#116115/animals Five greyhounds] are racing on [/EN#116116/scene a sand track] .
+[/EN#116115/animals A bunch of dogs] are competing in [/EN#116119/other a race] .

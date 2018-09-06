@@ -1,0 +1,5 @@
+[/EN#108624/people A man] with [/EN#108626/clothing a black coat] , [/EN#108628/clothing blue jeans] , and [/EN#108634/clothing sneakers] is standing next to [/EN#108630/other a blue wall] with writing on [/EN#0/notvisual it] .
+[/EN#108629/people Four people] on [/EN#108627/scene a sidewalk] doing [/EN#108632/other different things] in front of [/EN#108631/scene a tent] .
+[/EN#108625/scene A stage] is being erected on [/EN#108627/scene a city street] while [/EN#108624/people passersby] watch .
+[/EN#108624/people A man] wearing [/EN#108626/clothing a black jacket] and [/EN#108628/clothing jeans] setting up [/EN#108625/scene a stage] .
+[/EN#108624/people Black man] working on [/EN#108625/scene a plywood stage] .

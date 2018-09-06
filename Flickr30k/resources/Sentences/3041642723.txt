@@ -1,0 +1,5 @@
+[/EN#89489/people A group of people] stand on [/EN#89491/scene the porch of a house] while [/EN#89490/animals a dog] is being pet by [/EN#89493/people a girl] .
+[/EN#89489/people A group of people] is standing on [/EN#89491/scene a porch] , and [/EN#0/notvisual one of them] is petting [/EN#89490/animals a yellow dog] .
+[/EN#89489/people Young teens] are gathered on [/EN#89491/scene a porch] around [/EN#89490/animals a dog] on [/EN#89492/scene a cool day] .
+[/EN#89489/people A group of teenagers] stand and sit on [/EN#89491/scene a house porch] .
+[/EN#89489/people A group of teenagers] hanging out on [/EN#89491/scene a front porch] .

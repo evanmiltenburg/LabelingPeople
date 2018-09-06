@@ -1,0 +1,5 @@
+[/EN#33898/animals A black dog] is attempting to catch [/EN#33899/other a thrown object] [/EN#0/notvisual that] is red .
+[/EN#33900/clothing A fast black] and [/EN#33898/animals white dog] is running to catch [/EN#33899/other a red Frisbee] .
+[/EN#33898/animals A black dog] is chasing after [/EN#33899/other a red Frisbee] .
+[/EN#33898/animals A black dog] about to catch [/EN#33899/other a flying disc] .
+[/EN#33898/animals Black dog] chasing [/EN#33899/other an orange Frisbee] .

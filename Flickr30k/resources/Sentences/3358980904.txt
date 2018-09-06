@@ -1,0 +1,5 @@
+[/EN#112524/people A man] wearing [/EN#112525/clothing sunglasses] and [/EN#112528/clothing a gray t-shirt] is sitting in [/EN#112526/other a chair] .
+[/EN#112524/people A man] at [/EN#112531/scene an outdoor restaurant] lowers [/EN#112525/clothing him sunglasses] .
+[/EN#112524/people A man] with [/EN#112525/clothing sunglasses] is sitting on [/EN#112527/other a deck] .
+[/EN#112524/people Man] sitting down and scratching [/EN#112529/bodyparts his eye] .
+[/EN#112524/people A man] is just rubbing [/EN#112530/bodyparts his eyes] .

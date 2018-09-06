@@ -1,0 +1,5 @@
+[/EN#218804/people A man] sits alone in front of [/EN#218807/scene a building] , hanging [/EN#218810/bodyparts his head] so low [/EN#0/notvisual it] appears to not exist .
+[/EN#218804/people A man] sitting on [/EN#218809/scene the sidewalk] photographed at [/EN#218808/scene an angle] [/EN#0/notvisual that] makes [/EN#0/notvisual him] look headless .
+[/EN#218804/people A person] in [/EN#218805/clothing a red shirt] and [/EN#218806/clothing black pants] hunched over .
+[/EN#218804/people A man] in [/EN#218805/clothing a red shirt] and [/EN#218806/clothing black pants] is sitting down .
+[/EN#218804/people A man] is tying [/EN#218811/other his shoe lace] .

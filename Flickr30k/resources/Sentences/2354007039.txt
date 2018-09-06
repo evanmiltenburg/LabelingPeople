@@ -1,0 +1,5 @@
+[/EN#43646/people A woman] in [/EN#43651/clothing a brown shirt] is singing into [/EN#43650/other two microphones] .
+[/EN#43646/people A young woman] is singing into [/EN#43647/other a microphone] .
+[/EN#43646/people A woman] sings into [/EN#43647/other a microphone] [/EN#43649/other indoors] .
+[/EN#43646/people A woman] is singing in to [/EN#43647/other a microphone] .
+[/EN#43646/people This lady] is singing in [/EN#43648/other a club] .

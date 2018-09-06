@@ -1,0 +1,5 @@
+[/EN#99399/people A man] is sitting in [/EN#99400/other a chair] with [/EN#99401/other a musical keyboard] beside [/EN#0/notvisual him] .
+[/EN#99399/people A white man] sits in [/EN#99400/other a chair] with [/EN#99401/other a keyboard] behind [/EN#0/notvisual him] .
+[/EN#99399/people A man] sits on [/EN#99400/other a chair] next to [/EN#99401/other a keyboard] in [/EN#99402/scene a studio] .
+[/EN#99399/people A man] sitting in [/EN#99400/other a black chair] next to [/EN#99401/other a keyboard] .
+[/EN#99399/people A man] in [/EN#99403/clothing a black shirt] is sitting in [/EN#99400/other a chair] .

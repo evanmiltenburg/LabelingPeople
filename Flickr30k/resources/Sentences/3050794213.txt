@@ -1,0 +1,5 @@
+[/EN#90193/people A little boy] is sitting on [/EN#90194/scene the street] while [/EN#90196/people people] walk past .
+[/EN#90193/people A child] in [/EN#90197/clothing a blue jacket] sits on [/EN#90194/scene a sidewalk] .
+[/EN#90193/people An unhappy toddler] sitting on [/EN#90194/scene the sidewalk] .
+[/EN#90193/people The boy] is sitting on [/EN#0/notvisual the street ground] .
+[/EN#90193/people A child] sitting on [/EN#0/notvisual the ground] .

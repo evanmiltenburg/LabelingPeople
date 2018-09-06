@@ -1,0 +1,5 @@
+[/EN#66816/people A woman] in [/EN#66819/clothing a red vest] jogs down [/EN#66820/scene the street] in [/EN#66817/other a heavy rain] .
+[/EN#66816/people A woman] wearing [/EN#66819/clothing a red vest] runs [/EN#66818/other a race] through [/EN#66817/other the rain] .
+[/EN#66816/people A woman runner] in [/EN#66819/clothing red] is getting drenched in [/EN#66817/other the rain] .
+[/EN#66816/people A loan runner] participates in [/EN#66818/other a race] in [/EN#66817/other the rain] .
+[/EN#66816/people Woman] jogging in [/EN#66817/other the rain] .

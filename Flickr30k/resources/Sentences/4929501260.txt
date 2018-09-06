@@ -1,0 +1,5 @@
+[/EN#219381/scene A road] near [/EN#219386/scene the waterfront] where [/EN#219387/people various people] walk and ride [/EN#219389/vehicles their bikes] nearby .
+[/EN#219379/other A beautiful city river walk] with [/EN#219385/vehicles/scene boats] docked right on [/EN#0/notvisual it] .
+[/EN#219381/scene A nice road] and [/EN#219388/scene walkway] by [/EN#219384/scene a river] leading up to [/EN#219383/scene a bridge] .
+[/EN#219380/people A bicyclist] along [/EN#219379/other the River Seine] in [/EN#219382/other Paris] .
+[/EN#219380/people A girl] is biking over [/EN#219381/scene the street] .

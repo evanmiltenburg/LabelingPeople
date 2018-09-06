@@ -1,0 +1,5 @@
+[/EN#215826/animals A brown dog] with [/EN#215828/bodyparts large ears] is shaking [/EN#215826/other its self] while standing on [/EN#215830/other sand] .
+[/EN#215826/clothing The orange] haired [/EN#215826/animals dog] shook [/EN#215827/bodyparts its head] while standing on [/EN#215833/scene the beach] .
+[/EN#215826/animals A brown dog] is shaking [/EN#215827/bodyparts his head] while standing on [/EN#215830/other sand] .
+[/EN#215826/animals An orange dog] shakes [/EN#215827/bodyparts his head] very hard on [/EN#215830/other the sand] .
+[/EN#215826/animals a tan dog] shaking [/EN#215826/bodyparts its body]

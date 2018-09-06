@@ -1,0 +1,5 @@
+[/EN#100161/animals A red dog] , jumping in [/EN#100163/scene midair] , on [/EN#100162/scene a grassy backyard] , shot from behind .
+[/EN#100161/animals A large tan dog] jumps in [/EN#0/notvisual the air] over [/EN#100162/scene the grass] in [/EN#100162/scene a fenced yard] .
+[/EN#100161/animals a brown dog] jumping through [/EN#0/notvisual the air] in [/EN#100162/scene a grassy yard] .
+[/EN#100161/animals A brown dog] is flying through [/EN#0/notvisual the air] .
+[/EN#100161/animals A brown dog] is jumping in [/EN#0/notvisual the air] .

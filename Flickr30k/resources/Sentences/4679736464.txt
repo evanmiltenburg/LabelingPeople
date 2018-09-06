@@ -1,0 +1,5 @@
+[/EN#189813/people A child] with [/EN#189815/clothing a red life vest] and [/EN#189816/clothing blue goggles] swimming in [/EN#189814/scene a pool] .
+[/EN#189813/people A child] with [/EN#189816/clothing goggles] and [/EN#189815/clothing a floaty] swimming in [/EN#189814/scene a body of water] .
+[/EN#189813/people A young boy] in [/EN#189815/clothing a red life jacket] is swimming in [/EN#189814/scene a pool] .
+[/EN#189813/people small boy] with [/EN#189815/clothing a life vest] in [/EN#189814/scene shallow water] .
+[/EN#189817/people Children] are swimming in [/EN#189818/scene shallow water] .

@@ -1,0 +1,5 @@
+[/EN#229653/people A man] standing on [/EN#229655/scene a pier] casts [/EN#229656/other a line] using [/EN#229658/other a long fishing pole] while [/EN#229660/people another man] kneeling behind [/EN#0/notvisual him] adjusts [/EN#229661/other another pole] .
+[/EN#229653/people Two men] fishing , [/EN#229657/other one] casting [/EN#229656/other a line] into [/EN#229665/scene the water] , [/EN#229663/other the other] is preparing [/EN#229662/other his line] .
+[/EN#229653/people A man] [/EN#0/notvisual who] is fishing from [/EN#229655/scene a boardwalk] is casting [/EN#229658/other his fishing pole] over [/EN#229664/other the railing] .
+[/EN#229653/people A guy] is casting [/EN#229658/other his fishing rod] on [/EN#229655/scene a dock] .
+[/EN#229653/people Men] prepare to fish off [/EN#229655/scene a busy city pier] .

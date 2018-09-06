@@ -1,0 +1,5 @@
+[/EN#264145/people A person] with [/EN#264146/clothing black sleeves] is holding [/EN#264148/other a lock] with [/EN#264151/bodyparts the left hand] and attempting to pick [/EN#0/notvisual it] using [/EN#264152/scene a small metal bar] held by [/EN#264153/bodyparts the right hand] .
+[/EN#264145/people A man] holding [/EN#264148/other a brass colored lock] with [/EN#264147/other a long metal object] inside of [/EN#264148/other the lock] opening .
+[/EN#264145/people A man] in [/EN#264146/clothing a brown shirt] is trying to pick [/EN#264148/other a lock] with [/EN#264147/other an object] .
+[/EN#264145/people A person] picking [/EN#264148/other a lock] with [/EN#264147/other a piece of metal] .
+[/EN#264145/people Man] putting [/EN#264147/other a key] into [/EN#264148/other a lock] .

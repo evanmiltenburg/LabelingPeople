@@ -1,0 +1,5 @@
+[/EN#138/people a man] sleeping on [/EN#139/other a bench] outside with [/EN#140/animals a white and black dog] sitting next to [/EN#0/notvisual him] .
+[/EN#138/people A man] lays on [/EN#139/other the bench] to [/EN#0/notvisual which] [/EN#140/animals a white dog] is also tied .
+[/EN#138/people man] laying on [/EN#139/other bench] holding [/EN#141/animals leash of dog] sitting on [/EN#0/notvisual ground]
+[/EN#138/people A shirtless man] lies on [/EN#139/other a park bench] with [/EN#140/animals his dog] .
+[/EN#138/people A man] lays on [/EN#139/other a bench] while [/EN#140/animals his dog] sits by [/EN#0/notvisual him] .

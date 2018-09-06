@@ -1,0 +1,5 @@
+[/EN#45842/people A barefoot person] in [/EN#45844/clothing a yellow shirt] , [/EN#45845/clothing blue pants] and [/EN#45847/clothing tan hat] sweeps [/EN#45843/scene a checkered floor] .
+[/EN#45842/people A man] bent over sweeping in [/EN#45846/scene basement] [/EN#0/notvisual that] is made for [/EN#45848/people very short people] .
+[/EN#45842/people A man] is mopping and [/EN#45843/scene black and white checkered floor] .
+[/EN#45842/people A woman] is standing on [/EN#45843/scene a tile floor] and sweeping .
+[/EN#45842/people A man] with [/EN#45844/clothing a yellow shirt] and [/EN#45845/clothing blue pants] .

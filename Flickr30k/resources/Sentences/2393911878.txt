@@ -1,0 +1,5 @@
+[/EN#46181/people a small child] in [/EN#46182/scene the white snow] wearhing [/EN#46185/clothing a blue coat] giving [/EN#46183/bodyparts two thumbs] up .
+[/EN#46181/people Little boy] sitting on [/EN#46182/scene snow] gives [/EN#0/notvisual the camera] [/EN#46183/bodyparts two thumbs] up .
+[/EN#46181/people A little boy] gives [/EN#46184/bodyparts a thumbs] up as [/EN#0/notvisual he] sits in [/EN#46182/scene the snow] .
+[/EN#46181/people A boy] sitting in [/EN#46182/scene the snow] , giving [/EN#46186/other a thumbs-up sign] .
+[/EN#46181/people A boy] gives being in [/EN#46182/scene the snow] [/EN#46183/bodyparts two thumbs] up .

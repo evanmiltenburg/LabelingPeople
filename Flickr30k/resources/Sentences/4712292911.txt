@@ -1,0 +1,5 @@
+[/EN#193957/other a bus stop] with [/EN#193953/people people] getting on [/EN#193954/vehicles/scene the bus]
+[/EN#193953/people People] boarding [/EN#193954/vehicles/scene a double decker bus] .
+[/EN#193953/people A few people] are getting on [/EN#193954/other a buss] .
+[/EN#193954/vehicles/scene A red double-decker bus] in [/EN#193955/other Europe] .
+[/EN#193953/people a group of people] bored [/EN#193954/vehicles/scene a bus]

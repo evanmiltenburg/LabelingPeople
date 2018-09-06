@@ -1,0 +1,5 @@
+[/EN#139200/people A person] in [/EN#139202/clothing a gray jacket] with [/EN#139205/people a black messenger] back looks over [/EN#139203/scene the nearby river] and [/EN#139201/scene bridge] .
+[/EN#139200/people A person] with [/EN#139202/clothing a blue jacket] and [/EN#139204/clothing a black hat] is looking at [/EN#139201/scene a blue bridge] over [/EN#139203/scene the river] .
+[/EN#139200/people A man] wearing [/EN#139202/clothing a gray jacket] and [/EN#139208/clothing khaki pants] stands on [/EN#139207/scene dead grass] next to [/EN#139203/scene a lake] .
+[/EN#139200/people A man] with [/EN#139202/clothing a blue jacket] and [/EN#139206/clothing a duffel bag] is facing [/EN#139203/scene the water 's edge] .
+[/EN#139200/people Man] walks along [/EN#139209/other a river bed] approaching [/EN#139201/scene a bridge] .

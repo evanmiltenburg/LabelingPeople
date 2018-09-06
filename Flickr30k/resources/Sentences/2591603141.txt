@@ -1,0 +1,5 @@
+[/EN#60035/animals One brown and black dog] standing in [/EN#60039/other the sand] at [/EN#60036/scene the beach] .
+[/EN#60035/animals A fluffy dog] walks along [/EN#60036/scene the sandy beach] .
+[/EN#60035/animals a brown and black dog] walking on [/EN#60036/scene the beach]
+[/EN#60035/animals Dog] walking on [/EN#60036/scene the beach] by [/EN#60038/scene the ocean] .
+[/EN#60037/scene A medium] sized [/EN#60035/animals dog] on [/EN#60036/scene a beach]

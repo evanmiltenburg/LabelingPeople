@@ -1,0 +1,5 @@
+[/EN#132920/people A person] in [/EN#132926/clothing purple shorts] riding [/EN#132921/vehicles a bike] up [/EN#132923/scene a mountain] .
+[/EN#132920/people A person] in [/EN#132924/clothing a black backpack] biking on [/EN#132923/scene a rocky path] .
+[/EN#132920/people A man] rides [/EN#132921/vehicles his bike] on [/EN#132923/scene the side of a rocky hill] .
+[/EN#132920/people This person] is riding [/EN#132921/vehicles a BMX bike] on [/EN#132922/other a clifftop] .
+[/EN#132920/people Mountain biker] approaching [/EN#132922/other a cliffside vista]

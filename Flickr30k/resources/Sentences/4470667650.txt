@@ -1,0 +1,5 @@
+[/EN#171187/people Some people] are sitting along [/EN#171188/other the wall] , and [/EN#171192/people some people] are walking along [/EN#171189/scene the street] .
+[/EN#171187/people Seven people] by [/EN#171188/scene a building] decorated with [/EN#171191/other stone pillars] by [/EN#171189/scene the street] .
+[/EN#171187/people People] are sitting along side [/EN#171188/scene a building] [/EN#0/notvisual that] 's lined with [/EN#171190/people columns] .
+[/EN#171187/people People] are seated among [/EN#171191/other some pillars] while [/EN#171192/people another person] walks by .
+[/EN#171187/people People] sit in front of and walk by [/EN#171188/scene a building] with [/EN#171190/people large columns] .

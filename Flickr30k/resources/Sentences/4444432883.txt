@@ -1,0 +1,5 @@
+[/EN#168824/people A woman] wearing [/EN#168826/clothing a headscarf] is walking down [/EN#168828/scene the street] towards [/EN#168829/scene a driveway entrance] .
+[/EN#168825/people A woman] wearing [/EN#168826/clothing a scarf] and [/EN#168832/bodyparts head] covering walks on [/EN#168828/scene a sidewalk] past [/EN#168830/scene a house] .
+[/EN#168824/people A warmly dressed woman] walking down [/EN#168827/scene the sidewalk] .
+[/EN#168825/people Person] wearing [/EN#168831/clothing black jacket] walking on [/EN#168828/scene sidewalk] .
+[/EN#168824/people A muslim woman] is walking down [/EN#168827/scene the street] .

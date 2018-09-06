@@ -1,0 +1,5 @@
+[/EN#31690/people A person] in [/EN#31696/clothing a hooded sweatshirt] is embracing [/EN#31689/people a man] on [/EN#31692/other the couch] while partially covered by [/EN#31691/other an off-white comforter] .
+[/EN#31689/people A man] and [/EN#31690/people a woman] are sitting on [/EN#31692/other a yellow couch] laughing under [/EN#31691/other a yellow comforter] with [/EN#31695/other white daisies] .
+[/EN#31689/people A man] and [/EN#31690/people a woman] lay next to [/EN#0/notvisual each other] on [/EN#31692/other a couch] under [/EN#31691/other a blanket] .
+[/EN#31694/people Two people] are playing on [/EN#31692/other the couch] laughing under [/EN#31691/other a blanket] .
+[/EN#31693/other A couple cuddles] under [/EN#31691/other a blanket] on [/EN#31692/other a couch] .

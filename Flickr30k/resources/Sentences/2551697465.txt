@@ -1,0 +1,5 @@
+[/EN#57637/people A woman] wearing [/EN#57641/clothing jeans] and [/EN#57639/clothing a blue shirt] is kneeling near [/EN#57642/other a barbecue] at [/EN#57640/scene the picnic area] .
+[/EN#57637/people Woman] in [/EN#57639/clothing a blue shirt] drinks while cooking over [/EN#57638/other a grill] .
+[/EN#57637/people Woman] in [/EN#57639/clothing blue shirt] and [/EN#57641/clothing blue jeans] at [/EN#57638/other a barbecue]
+[/EN#57637/people Woman] in [/EN#57639/clothing blue] grilling under [/EN#57640/scene a gazebo] .
+[/EN#57637/people A happy lady] is doing [/EN#57643/other the cooking] .

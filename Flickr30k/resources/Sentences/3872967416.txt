@@ -1,0 +1,5 @@
+[/EN#146506/people A man] is standing in [/EN#146509/scene the street] , producing [/EN#146507/other a ball of fire] from [/EN#146511/other an object] in [/EN#146513/bodyparts his hand] .
+[/EN#146510/people People] are watching [/EN#146506/people a street performer] doing [/EN#0/notvisual tricks] with [/EN#146507/other fire] .
+[/EN#146506/people A street performer] wearing [/EN#146514/clothing no shirt] is doing [/EN#146508/other an act] with [/EN#146507/other fire] .
+[/EN#146506/people A shirtless man] is breathing [/EN#146507/other fire] in [/EN#146509/other an urban environment] .
+[/EN#146506/people A man] blowing [/EN#146507/other fire] on [/EN#146512/scene the streets] .

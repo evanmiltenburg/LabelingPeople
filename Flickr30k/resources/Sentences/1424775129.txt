@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#12380/people a little boy] in [/EN#12384/clothing a red jacket] walking down [/EN#12382/scene the railroad tracks] and holding [/EN#12381/other a stick] .
+[/EN#12380/people The little boy] walks along [/EN#12382/scene the railroad tracks] with [/EN#12381/other his stick] .
+[/EN#12380/people A little boy] walks along [/EN#12382/scene railroad tracks] in [/EN#12383/other the woods] .
+[/EN#12380/people A little boy] walking on [/EN#12382/scene railroad tracks] .
+[/EN#12380/people little boy] walking with [/EN#12381/other stick] on [/EN#12382/scene tracks]

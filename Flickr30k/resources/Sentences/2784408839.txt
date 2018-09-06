@@ -1,0 +1,5 @@
+[/EN#72819/people A person] in [/EN#72818/other a blue kayak] is navigating [/EN#72822/other rapids] in [/EN#72820/scene a river] .
+[/EN#72818/other The blue kayak] is being ridden over [/EN#72820/scene a small waterfall] .
+[/EN#72819/people A person] in [/EN#72818/other a kayak] is going over [/EN#72820/scene a small waterfall] .
+[/EN#72819/people A person] kayaking down [/EN#72820/scene a small waterfall] .
+[/EN#72818/other A person kayak] 's over [/EN#72820/scene a waterfall] .

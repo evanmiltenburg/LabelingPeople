@@ -1,0 +1,5 @@
+[/EN#277163/people A man] surfs [/EN#277167/scene a wave] on [/EN#277169/scene blue ocean water] with [/EN#277164/scene a beach] in [/EN#0/notvisual the distant background] .
+[/EN#277163/people A surfer] in [/EN#277166/clothing a black wetsuit] rides [/EN#277167/scene the waves] with [/EN#277164/scene the shore] in [/EN#0/notvisual the distance] .
+[/EN#277163/people A man] is surfing in [/EN#277166/clothing a bodysuit] in [/EN#277169/scene beautiful blue water] .
+[/EN#277163/people A man] is riding [/EN#277167/scene the oceans waves] on [/EN#277170/other his surfboard] .
+[/EN#277163/people A surfer] looks behind [/EN#0/notvisual him] to see [/EN#277167/scene the next wave] .

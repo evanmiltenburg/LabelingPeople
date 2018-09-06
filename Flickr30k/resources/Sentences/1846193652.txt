@@ -1,0 +1,5 @@
+[/EN#21885/people Man] in [/EN#21886/clothing brown suit] stands with [/EN#21887/bodyparts his hands] behind [/EN#21888/other his back] and [/EN#21889/scene his shadow] is cast on [/EN#21891/scene the flow] as taken from [/EN#21892/other above] .
+[/EN#21885/people A man] with [/EN#21886/clothing a brown suit] on is standing up while holding [/EN#21887/bodyparts his hands] together behind [/EN#21888/other his back] .
+[/EN#21885/people A man] in [/EN#21886/clothing a brown suit] , seen from [/EN#21892/other above] , stands with [/EN#21887/bodyparts his hands] clasped behind [/EN#21888/other his back]
+[/EN#21885/people A person] in [/EN#21886/clothing uniform] is standing and [/EN#21890/scene their shadow] is being cast next to [/EN#0/notvisual them] .
+[/EN#0/notvisual He] stands in [/EN#21886/clothing uniform] with only [/EN#21889/scene his shadow] as [/EN#21894/other company] .

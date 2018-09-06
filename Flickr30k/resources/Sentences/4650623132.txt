@@ -1,0 +1,5 @@
+[/EN#186762/people A lone man] standing [/EN#186766/scene a rock shore] looking downward at [/EN#186764/scene a inland body of water] with [/EN#186764/scene a blue ocean] or [/EN#186764/scene other large body of water] behind [/EN#0/notvisual him] extending into [/EN#186768/scene the horizon of a blue sky] .
+[/EN#186762/people A shirtless man] in [/EN#186763/clothing black shorts] is standing on [/EN#186766/scene the rocky shore] to [/EN#186764/scene a large body of water] .
+[/EN#186762/people A shirtless young man] in [/EN#186763/clothing black shorts] stands on [/EN#186766/other the rocks] staring at [/EN#186764/scene the water] .
+[/EN#186762/people A man] on [/EN#186766/scene a rocky beach] , wearing [/EN#186763/clothing a black bathing suit] , staring at [/EN#186764/scene the water] .
+[/EN#186762/people A man] wearing long , [/EN#186763/clothing black shorts] stands in front of [/EN#186764/scene a body of water] .

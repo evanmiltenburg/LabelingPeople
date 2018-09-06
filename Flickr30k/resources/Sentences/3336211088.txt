@@ -1,0 +1,5 @@
+[/EN#110526/people A group of people] in [/EN#110530/clothing winter coats] stand in front of [/EN#110528/scene a large building] .
+[/EN#110527/scene A street scene] with [/EN#110526/other people of many ages] and [/EN#0/notvisual backgrounds] .
+[/EN#110526/people A crowd of people] stand talking in [/EN#110525/scene a business district] .
+[/EN#110525/scene A busy plaza] with [/EN#110526/people several people] having [/EN#110529/other conversations] .
+[/EN#110526/people A small group of people] is chatting in [/EN#110525/scene a city plaza] .

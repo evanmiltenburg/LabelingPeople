@@ -1,0 +1,5 @@
+[/EN#140928/people A group of people] on [/EN#140930/other a stair] landing are waiting in [/EN#140929/other line] .
+[/EN#140928/people Numerous people] are waiting in [/EN#140929/other line] on [/EN#140930/other a stairway] .
+[/EN#140928/people These people] are waiting in [/EN#140929/other line] on [/EN#140930/scene a staircase] .
+[/EN#140928/people Five people] are standing in [/EN#140929/other a line] on [/EN#140930/other stairs] .
+[/EN#140928/people People] wait in [/EN#140929/other a long line] on [/EN#140930/scene a staircase] .

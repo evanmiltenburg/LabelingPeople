@@ -1,0 +1,5 @@
+[/EN#252962/people A man] [/EN#0/notvisual who] is wearing [/EN#252963/clothing a green soccer uniform] is kicking [/EN#252966/other a soccer ball] on [/EN#252964/scene a green soccer field] .
+[/EN#252962/people A soccer player] is lining up [/EN#252965/other a kick] on [/EN#252964/scene a soccer field] .
+[/EN#252962/people Mr. Soccer player of the green team] attempts [/EN#252965/other a shot] .
+[/EN#252962/people A man] is playing [/EN#252967/other soccer] wearing [/EN#252963/clothing a green outfit] .
+[/EN#252962/people A man] is kicking [/EN#252966/other a soccer ball] on [/EN#252964/scene the field] .

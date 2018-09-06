@@ -1,0 +1,5 @@
+[/EN#225736/people Several people] are crossing [/EN#225735/scene a street] near [/EN#225737/other a yield sign] .
+[/EN#225734/people People] walking across [/EN#225735/scene a crosswalk] .
+[/EN#225734/people People] walk across [/EN#225735/scene a crosswalk] .
+[/EN#225734/people People] crossing [/EN#225735/scene a city street] .
+[/EN#225734/people People] cross [/EN#225735/scene a city street] .

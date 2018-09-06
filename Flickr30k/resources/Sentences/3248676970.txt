@@ -1,0 +1,5 @@
+[/EN#104214/people A group of actors] and [/EN#104220/people actresses] are performing in [/EN#104221/other a play] .
+[/EN#104214/people Seven people] in [/EN#104217/clothing red jumpsuits] are performing on [/EN#104216/scene a stage] .
+[/EN#104214/people A performance group] is staged in [/EN#104215/other one collective motion] .
+[/EN#104214/people Actors] and [/EN#104219/people actresses] on [/EN#104216/scene a stage] , performing [/EN#104215/other an act] .
+[/EN#104215/people Performers] in [/EN#104217/clothing orange jumpsuits] are on [/EN#104216/scene stage] dancing .

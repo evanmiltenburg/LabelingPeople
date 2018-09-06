@@ -1,0 +1,5 @@
+[/EN#41967/people A woman] stands , in [/EN#41969/clothing a black dress] pulling [/EN#41974/vehicles a cart] , in front of [/EN#41972/people two men] seated on [/EN#41968/other a park bench] .
+[/EN#41967/people A lady] with [/EN#41970/clothing a cowboy hat] and holding [/EN#41971/other a cross] looking at [/EN#41972/people some men] on [/EN#41968/other a bench] .
+[/EN#41967/people A woman] wearing [/EN#41970/clothing a cowboy hat] and carrying [/EN#41973/other luggage] .
+[/EN#41967/people a lady] wearing [/EN#41969/clothing a black dress] carrying [/EN#41971/other a white cross]
+[/EN#41967/people A woman] in [/EN#41975/scene the park] is talking to [/EN#41972/people a few men]

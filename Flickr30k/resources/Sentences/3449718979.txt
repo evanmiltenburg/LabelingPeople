@@ -1,0 +1,5 @@
+[/EN#119084/animals Brown dog] with [/EN#119087/clothing white] marking on [/EN#119088/bodyparts forehead] coming down [/EN#119085/other cement steps] .
+[/EN#119084/animals a brown dog] is walking down [/EN#119085/other some steps] under [/EN#119086/other tree] .
+[/EN#119084/animals A brown dog] is walking down [/EN#119085/other steps] .
+[/EN#119084/animals The dog] comes down [/EN#119085/other the steps] .
+[/EN#119084/animals A dog] is walking down [/EN#119085/other steps] .

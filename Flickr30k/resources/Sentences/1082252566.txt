@@ -1,0 +1,5 @@
+[/EN#1988/animals A large brown dog] is pushing [/EN#1996/animals a small Boston terrier] with [/EN#1999/bodyparts his face] while [/EN#1994/animals anouther dog] watches .
+[/EN#0/notvisual There] are [/EN#1989/animals three dogs] starring at [/EN#1992/other a ball] in [/EN#0/notvisual the middle of them] .
+[/EN#1988/animals A large skinny dog] stands near [/EN#1998/animals two smaller dogs] in [/EN#1990/scene the dirt] .
+[/EN#1991/animals A bulldog] , [/EN#1994/animals a sheepdog] , and [/EN#1988/other a boxer standing] in [/EN#1990/scene a yard] .
+[/EN#1989/other Three dogs of various sizes] .

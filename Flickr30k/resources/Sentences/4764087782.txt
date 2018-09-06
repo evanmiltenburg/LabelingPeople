@@ -1,0 +1,5 @@
+[/EN#200506/people A african american woman] wearing [/EN#200509/clothing yellow] walks down [/EN#200507/scene the sidewalk] towards [/EN#200508/vehicles a yellow car] .
+[/EN#200506/people A young woman] in [/EN#200509/clothing a yellow shirt] is walking down [/EN#200507/scene the street] .
+[/EN#200506/people A woman] in [/EN#200509/clothing a yellow shirt] is walking past [/EN#200508/vehicles a yellow SUV] .
+[/EN#200506/people A woman] in [/EN#200509/clothing a yellow shirt] is waling down [/EN#200507/scene the sidewalk] .
+[/EN#200506/people A woman] in [/EN#200509/clothing a yellow shirt] walking by [/EN#200511/scene a parking lot] .

@@ -1,0 +1,5 @@
+[/EN#232699/people A man] in [/EN#232705/other a blue smock] and [/EN#232707/clothing some type of headband] is surrounded by [/EN#232708/other various ingredients] as [/EN#0/notvisual he] prepares [/EN#232703/other food] .
+[/EN#232699/people A man] in [/EN#232700/clothing a blue outfit] cooks while surrounded by [/EN#232702/other plates of vegetables] .
+[/EN#232699/people An Asian man] is cooking [/EN#232704/other a meal] in [/EN#232701/scene a restaurant kitchen] .
+[/EN#232699/people The man] in [/EN#232700/clothing the blue outfit] is cooking in [/EN#232701/scene the kitchen] .
+[/EN#232699/people Man] cooking [/EN#232704/other a large meal] over [/EN#232706/other a stove] .

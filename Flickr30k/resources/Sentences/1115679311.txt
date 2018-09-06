@@ -1,0 +1,5 @@
+[/EN#2980/animals A black dog] runs along [/EN#2981/scene the beach] and jumps over [/EN#2982/other a wood barrior] .
+[/EN#2980/animals a dog] jumping over [/EN#2982/other a small wall] at [/EN#2981/scene a beach] near [/EN#2983/scene the water] .
+[/EN#2980/animals A black dog] is jumping over [/EN#2982/other a log] along [/EN#2981/scene a beach] .
+[/EN#2980/animals An animal] is running on [/EN#2981/scene the beach] .
+[/EN#2980/animals A dog] is running on [/EN#2981/scene the beach] .

@@ -1,0 +1,5 @@
+[/EN#223598/people A man] wearing [/EN#223601/clothing a striped jacket] tentatively looking down onto [/EN#223602/bodyparts his hands] while walking .
+[/EN#223598/people A man] walks along [/EN#223600/scene a cobblestone path] , next to [/EN#223599/other a large blue wall] .
+[/EN#223598/people A man] walking down [/EN#223600/scene a brick path] next to [/EN#223599/other a blue wall] .
+[/EN#223598/people A lone man] walking along side [/EN#223599/other a blue wall] .
+[/EN#223598/people Solitary man] walks [/EN#223599/other past blue wall] .

@@ -1,0 +1,5 @@
+[/EN#50295/people A man] in [/EN#50298/clothing formal wear] , holding [/EN#50296/other a microphone] in [/EN#50300/bodyparts one hand] and [/EN#50297/other a pen] in [/EN#50301/other the other ,] appears to be giving [/EN#50303/other a speech] .
+[/EN#50295/people A man] in [/EN#50302/clothing a plaid shirt] and [/EN#50298/clothing suit coat] has [/EN#50296/other a microphone] in [/EN#50300/bodyparts one hand] and [/EN#50297/other a pen] in [/EN#50301/other the other] .
+[/EN#50295/people A man] with [/EN#50297/other a pen] in [/EN#50301/bodyparts his right hand] speaks into [/EN#50296/other a microphone] .
+[/EN#50295/people A public speaker] in [/EN#50298/clothing a plaid shirt] speaks on [/EN#50296/other the microphone] .
+[/EN#50295/people A man] in [/EN#50298/clothing a sports coat] is talking into [/EN#50296/other a microphone] .

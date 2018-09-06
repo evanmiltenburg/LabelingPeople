@@ -1,0 +1,5 @@
+[/EN#109304/people A man] in [/EN#109310/clothing a black shirt] and [/EN#109307/clothing hat] holding [/EN#109305/people a sleeping baby] with [/EN#109306/other a yellow afghan] .
+[/EN#109304/people Man] sits on [/EN#109304/other sofa] holding [/EN#109305/people a sleeping baby] wrapped in [/EN#109306/other a blanket]
+[/EN#109304/people A man] holds [/EN#109305/people a sleeping baby] with [/EN#109306/other a yellow blanket] .
+[/EN#109304/people A man] in [/EN#109307/clothing a hat] sits on [/EN#109304/other a sofa] with [/EN#109305/people an infant] .
+[/EN#109304/people A man] with [/EN#109311/clothing glasses] and [/EN#109307/clothing a hat] and [/EN#109305/people a baby] .

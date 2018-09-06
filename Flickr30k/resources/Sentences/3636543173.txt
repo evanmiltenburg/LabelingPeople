@@ -1,0 +1,5 @@
+[/EN#133105/people The man] wearing [/EN#133112/clothing the brown jacket] is holding [/EN#133109/other a cigarette] and [/EN#133106/people the man] behind [/EN#0/notvisual him] is holding [/EN#133107/other a can of beer] .
+[/EN#133105/people A young man] stands in [/EN#133110/people a crowd] beside [/EN#133106/people another young man] holding [/EN#133107/other a beverage] can .
+[/EN#133105/people A man] has [/EN#133113/bodyparts his hands] up while standing next to [/EN#133106/people another man] with [/EN#133107/other a drink] .
+[/EN#133106/people Two young men] are posing for [/EN#0/notvisual the camera] .
+[/EN#133106/people Two young men] are at [/EN#133111/other a party] .

@@ -1,0 +1,5 @@
+[/EN#204774/scene A city street] is shown with [/EN#204775/people a large number of people] and [/EN#204778/vehicles double-decker buses] .
+[/EN#204775/people People] are standing on [/EN#204774/scene a crowded street] with [/EN#204776/other suitcases] .
+[/EN#204775/people People] are commuting around [/EN#204774/scene a busy city intersection] .
+[/EN#204777/people Two men] drag [/EN#204776/other suitcases] down [/EN#204774/scene a crowded street] .
+[/EN#204775/people Travelers] with [/EN#204779/clothing briefcases] on [/EN#204774/scene a busy street] .

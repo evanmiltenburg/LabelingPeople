@@ -1,0 +1,5 @@
+[/EN#182050/people A toddler] examines [/EN#182051/other a small sailboat] [/EN#0/notvisual that] has been filled with [/EN#182054/other sand] to make [/EN#182051/scene a sandbox] .
+[/EN#182050/people A small child] looks at [/EN#182051/other a small sailboat] [/EN#0/notvisual that] has been turned into [/EN#182051/scene a sandbox] .
+[/EN#182050/people A little boy] stands behind [/EN#182051/vehicles/scene a white and blue boat] on [/EN#182055/scene a brick street] .
+[/EN#182050/people A boy] is looking at [/EN#182051/vehicles/scene a boat] filled with [/EN#182054/other sand] .
+[/EN#182051/vehicles/scene Boat] sitting on [/EN#0/notvisual ground] filled with [/EN#182054/other sand] .

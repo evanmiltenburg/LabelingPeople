@@ -1,0 +1,5 @@
+[/EN#1690/animals A white and black dog] and [/EN#1691/animals a brown dog] in [/EN#1694/scene sandy terrain] .
+[/EN#1692/animals Two large dogs] chasing [/EN#0/notvisual each other] at [/EN#1694/scene the beach] .
+[/EN#1692/animals The two large dogs] are running through [/EN#1695/other sand] .
+[/EN#1690/animals One dog] is chasing [/EN#1691/other another one] on [/EN#1694/scene the beach] .
+[/EN#1690/animals A woolly dog] chases [/EN#1691/animals a Doberman] on [/EN#1694/scene a beach] .

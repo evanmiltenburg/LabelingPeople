@@ -1,0 +1,5 @@
+[/EN#256380/people A person] is driving [/EN#256378/other a black two-door sedan] down [/EN#256383/scene a road] next to [/EN#256382/vehicles a freight train 's cars] .
+[/EN#256380/people A man] drives [/EN#256378/vehicles a black car] in front of [/EN#256379/other several large metal] shipping [/EN#256384/other containers] .
+[/EN#256380/people A man] in [/EN#256378/vehicles a dark blue car] drives past [/EN#256382/vehicles some storage trailers] .
+[/EN#256380/people A man] driving [/EN#256378/vehicles a small black car] is racing down [/EN#256383/scene the road] .
+[/EN#256380/people Man] drives [/EN#256378/vehicles car] next to [/EN#256384/other shipping containers] .

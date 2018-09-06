@@ -1,0 +1,5 @@
+[/EN#172405/animals A tan , male dog] is jumping up to get [/EN#172406/scene a drink of water] from [/EN#172409/other a spraying bottle] .
+[/EN#172405/other A jug] is jumping up [/EN#0/notvisual it] is being squirted with [/EN#172406/scene a jet of water] .
+[/EN#172405/animals A dog] stands on [/EN#172411/bodyparts his hind feet] and catches [/EN#172407/scene a stream of water] .
+[/EN#172405/animals A dog] is being squirted with [/EN#172407/scene water] in [/EN#172410/scene the face outdoors] .
+[/EN#172405/animals A brown dog] is sprayed with [/EN#172407/scene water] .

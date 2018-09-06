@@ -1,0 +1,5 @@
+[/EN#118403/animals A brown dog] jumps in [/EN#118406/scene a wooded area] .
+[/EN#118403/animals Dog] running along [/EN#118405/scene a dirt path] .
+[/EN#118403/animals A brown dog] jumps in [/EN#0/notvisual the air] .
+[/EN#118403/animals A brown dog] jumping in [/EN#0/notvisual the air]
+[/EN#118403/animals A dog] jumping into [/EN#0/notvisual the air] .

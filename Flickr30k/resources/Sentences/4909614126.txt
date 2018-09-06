@@ -1,0 +1,5 @@
+[/EN#217222/vehicles A modest popcorn cart] with [/EN#217218/other the Spanish text] " [/EN#217217/other El Rey de las Palomitas] " and [/EN#217223/clothing a yellow umbrella] is attended by [/EN#217212/people a woman] at [/EN#217215/scene night] in [/EN#217213/scene a city scene] .
+[/EN#217212/people A Hispanic popcorn vendor] on [/EN#217214/scene a street corner] at [/EN#217215/scene night] .
+[/EN#217212/people A woman] eats [/EN#217216/other popcorn] from [/EN#217220/scene her popcorn stand] .
+[/EN#217212/people A street vendor] sells [/EN#217216/other popcorn] in [/EN#217219/other a mall] .
+[/EN#217212/people A street vendor] is selling [/EN#217221/other people corn] .

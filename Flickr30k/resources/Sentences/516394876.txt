@@ -1,0 +1,5 @@
+[/EN#230149/people A person] wearing [/EN#230151/clothing a homemade storm trooper helmet] looking at [/EN#230150/other a display of candy] .
+[/EN#230149/people A young man] wearing [/EN#230151/clothing a large space helmet] is looking at [/EN#230150/other candy] in [/EN#230152/scene a market] .
+[/EN#230149/people Person] standing in front of [/EN#230150/other colorful display of candy] .
+[/EN#230149/people Man] with [/EN#230151/clothing storm trooper headgear] on [/EN#230154/scene shops] for [/EN#230150/other candy] .
+[/EN#230149/people A man] in [/EN#230153/clothing a red shirt] shopping for [/EN#230150/other candy]

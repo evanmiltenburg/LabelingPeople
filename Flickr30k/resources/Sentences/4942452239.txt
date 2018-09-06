@@ -1,0 +1,5 @@
+[/EN#221380/people A large group of people] walking on [/EN#221382/scene a sidewalk] with [/EN#221389/other a blue sign] with [/EN#221390/other a red x] above [/EN#0/notvisual them] .
+[/EN#221381/people Three men] in [/EN#221384/clothing overalls] walk down [/EN#221382/scene a sidewalk] in [/EN#221383/vehicles the midst of pedestrian traffic] .
+[/EN#221385/people A man] wearing [/EN#221386/clothing a white T-shirt] and [/EN#221387/clothing blue overalls] is walking down [/EN#221382/scene the street] .
+[/EN#221381/people Three men] in [/EN#221384/clothing overalls] walk through [/EN#221382/scene a crowded crosswalk] on [/EN#221383/scene busy street] .
+[/EN#221380/people A group of people] walking down [/EN#221383/scene the street] during [/EN#221388/scene the day] .

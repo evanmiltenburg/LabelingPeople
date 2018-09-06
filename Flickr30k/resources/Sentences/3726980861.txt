@@ -1,0 +1,5 @@
+[/EN#139994/people A man] in [/EN#139997/clothing a black graphic t-shirt] playing [/EN#139995/instruments an acoustic guitar] .
+[/EN#139994/people A man] with [/EN#139996/bodyparts long hair] is playing [/EN#139995/instruments an acoustic guitar] .
+[/EN#139994/people A man] with [/EN#139996/bodyparts brown hair] is playing [/EN#139995/instruments a guitar] .
+[/EN#139994/people A man] is [/EN#139998/scene outside] playing [/EN#139995/instruments a guitar] .
+[/EN#139994/people A blond man] playing [/EN#139995/instruments a guitar] .

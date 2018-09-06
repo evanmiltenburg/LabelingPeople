@@ -1,0 +1,5 @@
+[/EN#223496/people A man] in [/EN#223502/clothing a red hat] is sitting on [/EN#223497/scene a stand] under [/EN#223504/other shade] and [/EN#223500/other a green flag] .
+[/EN#223496/people A man] wearing [/EN#223498/clothing red] sits up in [/EN#0/notvisual the air] on [/EN#223501/other a platform] .
+[/EN#223496/people A lifeguard] dressed in [/EN#223498/clothing red] sitting at [/EN#223497/scene their post] .
+[/EN#223496/people A lifeguard] in [/EN#223498/clothing a red outfit] sitting in [/EN#223497/scene a booth] .
+[/EN#223496/people Lifeguard] in [/EN#223503/clothing red shirt] sitting in [/EN#223499/other a chair] .

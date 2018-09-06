@@ -1,0 +1,5 @@
+[/EN#4534/animals The brown and black dog] is jumping up to catch [/EN#4536/other a red ball] .
+[/EN#4534/animals A brown and black dog] is jumping to catch [/EN#4536/other a red ball] .
+[/EN#4534/animals A brown and black dog] jumps for [/EN#4536/other a red ball] .
+[/EN#4534/animals Dog] jumps to get [/EN#4536/other orange ball] on [/EN#4538/bodyparts his head] .
+[/EN#4534/animals A big dog] catches [/EN#4536/other a ball] on [/EN#4539/bodyparts his nose]

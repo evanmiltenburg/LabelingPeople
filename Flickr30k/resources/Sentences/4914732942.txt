@@ -1,0 +1,5 @@
+[/EN#217803/people A man] wearing [/EN#217811/clothing blue jeans] , [/EN#217805/clothing a blue shirt] , and [/EN#217810/clothing a green hat] is holding [/EN#217806/other a loudspeaker] on [/EN#217812/scene a city street] .
+[/EN#217803/people A man] in [/EN#217805/clothing a blue t-shirt] is speaking into [/EN#217813/instruments a blow horn] towards [/EN#217804/people a large group of people] with [/EN#217807/vehicles bicycles] .
+[/EN#217803/people A man] in [/EN#217805/clothing a blue shirt] speaking on [/EN#217806/other a loudspeaker] to [/EN#217804/people a large group of people] on [/EN#217807/vehicles bicycles] .
+[/EN#217804/people Crowds of people] are all riding [/EN#217807/vehicles bicycles] .
+[/EN#217808/other Whole Foods] hosts [/EN#217809/other a " City Picnic] . "

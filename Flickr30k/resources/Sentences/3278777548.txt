@@ -1,0 +1,5 @@
+[/EN#106496/people Several people] are walking along [/EN#106498/scene a narrow bridge] over [/EN#106497/scene some water] .
+[/EN#106496/people several people] walking in [/EN#106499/other a line] acroos [/EN#106498/scene a distant bridge]
+[/EN#106496/people Four people] walk on [/EN#106498/scene a bridge] over [/EN#106497/scene a body of water] .
+[/EN#106496/people People] walking on [/EN#106498/scene a bridge] over [/EN#106497/scene water] .
+[/EN#106496/people Four people] are walking on [/EN#106498/scene a bridge] .

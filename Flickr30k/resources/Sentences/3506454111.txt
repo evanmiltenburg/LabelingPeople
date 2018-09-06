@@ -1,0 +1,5 @@
+In [/EN#123537/scene an empty , dimmed bowling alley] , [/EN#123536/people a woman] prepares to release [/EN#123538/other a red bowling ball] towards [/EN#123540/other a group of five pins] .
+[/EN#123536/people A lady] is at [/EN#123537/scene a bowling alley] and throwing [/EN#123538/other a red ball] and [/EN#0/notvisual there] is [/EN#123541/people a lady] on [/EN#123539/other the projector screen] .
+[/EN#123536/people A girl] bowling in [/EN#123537/scene a dark bowling alley] while [/EN#123539/other a movie] is projected at [/EN#123546/other the end of the lanes] .
+[/EN#123536/people A woman] , wearing [/EN#123547/clothing jeans] , [/EN#123545/other rolls] [/EN#123538/other a bowling ball] down [/EN#123542/other the lane] .
+[/EN#123536/people A lady] bowling while watching [/EN#123539/other a movie] .

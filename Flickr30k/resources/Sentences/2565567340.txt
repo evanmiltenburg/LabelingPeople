@@ -1,0 +1,5 @@
+[/EN#58428/people Three men] are standing outside [/EN#58429/scene a building] looking down towards [/EN#0/notvisual the ground] .
+[/EN#58428/people Three men] are on [/EN#58429/other the patio of an apartment] in [/EN#58431/scene a crowded city] .
+[/EN#58428/people Three men] stand outside [/EN#58429/scene a building balcony] in [/EN#58432/other the sun] .
+[/EN#58428/people Three men] outside on [/EN#58429/scene the patio of a building] .
+[/EN#58428/people Three men] are standing on [/EN#58430/scene a balcony] .

@@ -1,0 +1,5 @@
+[/EN#194154/people A younger woman] stands with [/EN#194161/people another woman] at [/EN#194156/scene a vegetable stand] in front of [/EN#194158/other a white van] .
+[/EN#194154/people A lady] in [/EN#194162/clothing purple] and [/EN#194160/people a lady] in [/EN#194163/clothing blue] are standing with [/EN#194158/other a van] behind [/EN#0/notvisual them] .
+[/EN#194155/people Two women] are standing behind [/EN#194157/other a table] with [/EN#194159/other carrots] on [/EN#0/notvisual it] .
+[/EN#194155/people Two women] examine [/EN#194159/other carrots] at [/EN#194156/scene an outdoor market] .
+[/EN#194155/people Two women] standing by [/EN#194157/other a table of vegetables] .

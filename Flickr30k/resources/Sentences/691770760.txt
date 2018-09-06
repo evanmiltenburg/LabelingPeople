@@ -1,0 +1,5 @@
+[/EN#261329/animals A dog] is distance jumping into [/EN#261330/scene a pool of water] while [/EN#261335/people spectators] are watching .
+[/EN#261329/animals Dog] leaps into [/EN#261330/scene pool] marked for [/EN#0/notvisual distance] , [/EN#261334/people man] and [/EN#261336/people woman] watch in [/EN#0/notvisual background] .
+[/EN#261332/people Two people] watch [/EN#261329/animals a dog] run along [/EN#261337/other a blue cloth] with [/EN#261338/other numbers] on [/EN#0/notvisual it] .
+[/EN#261329/animals A brown dog] leaping from [/EN#261333/scene a dock] into [/EN#261330/scene the water] .
+[/EN#261329/animals A tan dog] leaps into [/EN#261330/scene the water] .

@@ -1,0 +1,5 @@
+[/EN#700/people an ice climber] in [/EN#703/clothing a blue jacket] and [/EN#704/clothing black pants] is scaling [/EN#701/other a frozen ice wall] .
+[/EN#700/people A person] in [/EN#703/other blue and red ice] climbing with [/EN#702/other two picks] .
+[/EN#700/people A man] uses [/EN#702/other ice picks] and [/EN#706/clothing crampons] to scale [/EN#707/other ice] .
+[/EN#700/people An ice climber] scaling [/EN#707/scene a frozen waterfall] .
+[/EN#700/people Climber] climbing [/EN#701/other an ice wall]

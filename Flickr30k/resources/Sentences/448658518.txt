@@ -1,0 +1,5 @@
+[/EN#172500/people A large man] dressed in [/EN#172504/clothing black] on [/EN#172502/scene a street corner] by [/EN#172503/scene a red brick building] .
+[/EN#172500/people A man] dressed in [/EN#172504/clothing black] stands at [/EN#172502/scene a street corner] near [/EN#172501/other a crossing light] .
+[/EN#172500/people Man] in [/EN#172504/clothing black] waits at [/EN#172501/other crossing signal] near [/EN#172503/scene large brick building] .
+[/EN#172500/people A man] stands at [/EN#172501/other a traffic light] , waiting to cross [/EN#172502/scene the street] .
+[/EN#172500/people A man] dressed in [/EN#172504/clothing black] is waiting at [/EN#172502/scene a crosswalk] .

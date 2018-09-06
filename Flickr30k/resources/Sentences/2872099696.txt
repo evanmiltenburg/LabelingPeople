@@ -1,0 +1,5 @@
+[/EN#78039/people White man] with [/EN#78043/clothing a green shirt] and [/EN#78044/clothing denim pants] with [/EN#78040/other a hammer] and [/EN#78042/other chisel] , creating [/EN#78041/other some sort of artwork] .
+[/EN#78039/people A man] with [/EN#78045/bodyparts chin-length light hair] works on [/EN#78041/other a sculpture] .
+[/EN#78039/people A man] creates [/EN#78041/other a sculpture] with [/EN#78040/other a hammer] and [/EN#78042/other chisel] .
+[/EN#78039/people A man] pounds on [/EN#78041/other an artwork] perched on [/EN#78046/vehicles a cart] .
+[/EN#78039/people A man] is swinging [/EN#78040/other a tool] at [/EN#78041/other his sculpture] .

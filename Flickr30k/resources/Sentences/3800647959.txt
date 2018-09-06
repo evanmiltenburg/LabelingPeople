@@ -1,0 +1,5 @@
+[/EN#143169/people A young boy] is outdoors approaching [/EN#143171/animals a dog] [/EN#0/notvisual that] has [/EN#143173/other a frisbee] in [/EN#143174/bodyparts its mouth] .
+[/EN#143169/people Young boy] wearing [/EN#143172/clothing jeans] and [/EN#143170/clothing a blue shirt] playing with [/EN#143171/animals a dog] .
+[/EN#0/notvisual There] is [/EN#143169/people a kid] in [/EN#143170/clothing a blue shirt] and [/EN#143172/clothing shorts] with [/EN#143171/animals a dog] .
+[/EN#143175/vehicles The policeman car] driving down [/EN#143176/scene the street] .
+[/EN#143169/people A boy] in [/EN#143170/clothing blue] plays fetch with [/EN#143171/animals a dog] .

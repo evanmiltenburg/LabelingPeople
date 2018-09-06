@@ -1,0 +1,5 @@
+[/EN#94100/people A boy] in [/EN#94104/clothing a brown jacket] and [/EN#94101/people a girl] in [/EN#94105/clothing a red jacket] are sitting on [/EN#94106/scene some metal bars] with [/EN#94102/other a metal object] between [/EN#0/notvisual them] .
+[/EN#94100/people A man] and [/EN#94101/people woman] sit and work on [/EN#94102/other a metal beam] .
+[/EN#94100/people A man] and [/EN#94101/people woman] assemble [/EN#94102/other a metal structure] .
+[/EN#94100/people Boy] and [/EN#94101/people girl] building [/EN#94102/other metal structure] .
+[/EN#94103/people two people] build together .

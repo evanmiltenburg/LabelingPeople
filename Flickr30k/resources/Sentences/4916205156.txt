@@ -1,0 +1,5 @@
+[/EN#218091/people People] are walking in front of [/EN#218092/scene a tourist information building] displaying [/EN#218095/other the following] on [/EN#218093/other its facade] : [/EN#218093/other pain is temporary , quitting lasts forever] .
+[/EN#218092/scene A building] with [/EN#218093/other a large sign] [/EN#0/notvisual which] reads , " [/EN#218093/other Pain is Temporary , Quitting Lasts Forever] " .
+[/EN#218091/people People] walk outside of [/EN#218092/scene an Amsterdam tourist center] on [/EN#218094/scene a sunny day] .
+[/EN#218092/scene The Amsterdam tourist information office] and [/EN#218091/people people] walking by .
+[/EN#218093/other A large yellow sign] on [/EN#218092/scene the side of a building] .

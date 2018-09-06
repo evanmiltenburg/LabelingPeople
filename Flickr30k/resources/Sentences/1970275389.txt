@@ -1,0 +1,5 @@
+[/EN#24292/people A woman] leans over [/EN#24293/scene a small fence] to take [/EN#0/notvisual a picture] of [/EN#24294/other a yellow flower] .
+[/EN#24292/people A brunette photographer] is kneeling down to take [/EN#24297/other a photo] .
+[/EN#24292/people A woman] leans over [/EN#24293/other a rail] to get [/EN#0/notvisual a picture] of [/EN#24294/other flowers] .
+[/EN#24292/people The photographer] is taking [/EN#24299/other pictures] of [/EN#24294/other flowers] .
+[/EN#24292/people A photographer] is taking [/EN#24300/other photos] of [/EN#24294/other flowers] .

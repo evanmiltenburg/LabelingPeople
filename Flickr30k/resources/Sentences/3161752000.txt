@@ -1,0 +1,5 @@
+[/EN#97387/people A person] lying in [/EN#97392/vehicles/scene one of two inflatable boats] and [/EN#97390/other a kayak] on [/EN#97394/scene the shores of a river] with [/EN#97397/other trees] and [/EN#97395/scene a mill] in [/EN#0/notvisual the background] .
+[/EN#97387/people A shirtless man] is on [/EN#97389/scene a blue raft] , [/EN#0/notvisual which] is located next to [/EN#97389/scene a yellow raft] , [/EN#0/notvisual which] is filled with [/EN#97393/other cargo] .
+[/EN#97387/people A guy] is sitting n [/EN#97394/scene the shore] in [/EN#97389/vehicles/scene a raft boat] in [/EN#97396/other the middle of the woods] .
+[/EN#97388/vehicles/scene Two inflatable boats] sit packed with [/EN#97393/other gear] by [/EN#97394/scene the side of a river] .
+[/EN#97388/scene 2 large rafts] and [/EN#97390/other a kayak] at [/EN#97394/scene the edge of a river] .

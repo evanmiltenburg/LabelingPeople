@@ -1,0 +1,5 @@
+[/EN#175003/people A group of adults] are waiting in [/EN#175004/other line] outside [/EN#175005/scene The Cheap Tab Shop] .
+[/EN#175004/other A line] is beginning to form at [/EN#175005/scene The Cheap Tab Shop] .
+[/EN#175003/people Seven people] are in [/EN#175004/other line] , at [/EN#175005/scene THE CHEAP TAB SHOP] .
+[/EN#175003/people People] waiting in [/EN#175004/other line] at [/EN#175005/scene the Cheap Tab Shop] .
+[/EN#175003/people People] are standing in [/EN#175004/other line] at [/EN#175005/scene a store] .

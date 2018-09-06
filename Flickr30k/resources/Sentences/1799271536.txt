@@ -1,0 +1,5 @@
+[/EN#20783/animals An animal] running through [/EN#20784/other the sand] at [/EN#20784/scene the beach] .
+[/EN#20783/animals A brown and black dog] runs down [/EN#20784/scene a sandy beach] .
+[/EN#20783/animals An orange cat] with [/EN#20785/clothing black stripes] on [/EN#20784/scene a beach] .
+[/EN#20783/animals A striped dog] runs along [/EN#20784/scene the beach] .
+[/EN#20783/animals Long necked dog] jumps on

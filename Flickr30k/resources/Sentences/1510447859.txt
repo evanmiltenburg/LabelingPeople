@@ -1,0 +1,5 @@
+[/EN#15304/people A man] in [/EN#15307/clothing a red shirt] with [/EN#15305/scene decorative fringe] playing [/EN#15305/instruments a banjo] [/EN#15311/scene outdoors] with [/EN#15312/people a young girl] in [/EN#15309/clothing a red shirt] is next to [/EN#0/notvisual him] beating [/EN#15306/instruments a drum] with [/EN#15314/bodyparts her hand] .
+[/EN#15304/people A man] dressed in [/EN#15315/clothing red and white] plays [/EN#15305/instruments a banjo] while [/EN#15316/other others] look on .
+[/EN#15304/people A man] wearing [/EN#15307/clothing red] is playing [/EN#15305/instruments a banjo] in [/EN#15310/scene the street] .
+[/EN#15304/people A man] with [/EN#15307/clothing a red fringed shirt] is playing [/EN#15305/instruments a banjo] .
+[/EN#15304/people A man] wearing [/EN#15307/clothing a red shirt] is playing [/EN#15305/instruments the banjo]

@@ -1,0 +1,5 @@
+[/EN#30348/animals A brown dog] sits outside next to [/EN#30349/scene a large snowbank] .
+[/EN#30348/animals A brown dog] sits alone in front of [/EN#30349/scene a snowbank] .
+[/EN#30348/animals The brown dog] is sitting down on [/EN#30350/scene a snowy path] .
+[/EN#30348/animals A dog] sitting in [/EN#30352/other ice] and [/EN#30350/scene snow] .
+[/EN#30348/animals The dog] sits by [/EN#30351/other a snowdrift] .

@@ -1,0 +1,5 @@
+[/EN#221930/people A blond woman] wearing [/EN#221934/clothing a helmet] , [/EN#221938/clothing gray jacket] , [/EN#221937/clothing black pants] , and [/EN#221932/clothing a purse] , stands on [/EN#221931/vehicles her motorbike] in [/EN#221935/scene a parking lot] .
+[/EN#221930/people A woman] carrying [/EN#221932/clothing a handbag] is on [/EN#221931/vehicles a blue scooter] .
+[/EN#221930/people A woman] is sitting on [/EN#221931/vehicles a moped] inside [/EN#221936/scene a shop] .
+[/EN#221930/people A woman] prepares to start [/EN#221931/vehicles her moped] .
+[/EN#221930/people A woman] is outside on [/EN#221931/vehicles a moped] .

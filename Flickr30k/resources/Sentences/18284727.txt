@@ -1,0 +1,5 @@
+[/EN#21624/people A woman] paints [/EN#21625/other a picture] with [/EN#21628/other two of the same picture] on [/EN#21627/other the wall] in front of [/EN#0/notvisual her] .
+[/EN#21624/people A woman] in [/EN#21626/clothing a striped shirt] is painting [/EN#21625/other a picture of a picture] in front of [/EN#0/notvisual her] .
+[/EN#21624/people A woman] with [/EN#21629/bodyparts black hair] and [/EN#21626/clothing a striped shirt] , painting [/EN#21630/scene a picture of a castle] .
+[/EN#21624/people A woman] is painting [/EN#21625/other a copy of a picture] hanging on [/EN#21627/other the wall] .
+[/EN#21624/people Girl] paints [/EN#21625/other a picture of the images] [/EN#0/notvisual she] is looking at .

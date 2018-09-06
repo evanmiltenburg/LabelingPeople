@@ -1,0 +1,5 @@
+[/EN#176690/people A child] wearing [/EN#176695/clothing a red shirt] is eating [/EN#176691/other a piece of food] .
+[/EN#176690/people a boy] is enjoying eating [/EN#176691/other pizza] in [/EN#176693/other a plate] .
+[/EN#176690/people/scene A diner] enjoying [/EN#176694/other a roll] at [/EN#176696/scene a restaurant] .
+[/EN#176690/people A child] eating and enjoying [/EN#176691/other pizza] .
+[/EN#176692/people Middle-aged woman] eating [/EN#176697/animals chicken] .

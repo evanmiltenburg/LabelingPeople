@@ -1,0 +1,5 @@
+[/EN#40466/people A person] in [/EN#40467/scene a snow covered landscape] with [/EN#40468/other trees] in [/EN#0/notvisual the background] .
+[/EN#40466/people A person] in [/EN#40469/clothing a black jacket] is falling in [/EN#40467/scene the snow] .
+[/EN#40466/people A person] kicks [/EN#40467/scene snow] in [/EN#40467/scene a field] on [/EN#40470/scene a sunny day] .
+[/EN#40466/people A woman] slipping backwards in [/EN#40467/scene the snow] .
+[/EN#40466/people Person] walking through [/EN#40467/scene snow] .

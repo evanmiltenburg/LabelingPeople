@@ -1,0 +1,5 @@
+[/EN#162547/people An older woman] in [/EN#162554/clothing a scarf] and [/EN#162550/clothing fur-lined coat] sits down [/EN#162553/other across] from [/EN#162548/people a younger woman] [/EN#0/notvisual who] is standing .
+[/EN#162551/people Two women] , [/EN#162551/other one] older and [/EN#162548/other one] younger , appear to be on [/EN#162559/vehicles board public transportation] .
+[/EN#162548/people A woman] standing in [/EN#162558/vehicles/scene the doorway of a bus] , holding [/EN#162552/other a bottle] .
+[/EN#162547/people A woman] in [/EN#162550/clothing a coat] and [/EN#162555/clothing hat] gets on [/EN#162549/vehicles/scene a bus] .
+[/EN#162548/people A passenger] is walking into [/EN#162549/vehicles/scene a bus] .

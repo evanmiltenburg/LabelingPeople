@@ -1,0 +1,5 @@
+[/EN#9819/people A motorcyclist] drives up [/EN#9814/scene the side of a green mountain] while [/EN#9813/vehicles another bike] remains stationary .
+[/EN#9813/other A motorcycle] is parked along side [/EN#9816/scene a mountain road] while [/EN#0/notvisual another] goes down [/EN#9816/scene the road] .
+[/EN#9813/other a black motorcycle] is parked in [/EN#9816/scene a parking lot] while [/EN#0/notvisual another] comes around [/EN#9814/scene the hill] .
+[/EN#9813/other A black motorcycle] parked in [/EN#9816/scene a parking lot] in front of [/EN#9814/scene a grass filled hill] .
+[/EN#9813/other A motorcycle] parked in [/EN#9816/scene a parking space] next to [/EN#9816/scene a road] by [/EN#9814/scene a hill] .

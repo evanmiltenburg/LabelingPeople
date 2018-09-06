@@ -1,0 +1,5 @@
+[/EN#25544/people A man] is putting up [/EN#25547/other tile] in [/EN#25546/scene a bathroom] behind [/EN#25549/other the sink] .
+[/EN#25544/people A man] in [/EN#25548/clothing a red shirt] is putting [/EN#25547/other tile] into [/EN#25546/scene a bathroom] .
+[/EN#25544/people A man] with [/EN#25550/clothing glasses] is affixing [/EN#25547/other tiles] to [/EN#25545/other a bare wall] .
+[/EN#25544/people The man] is installing [/EN#25547/other tile] on [/EN#25545/other the bathroom wall] .
+[/EN#25544/people A man] remodeling [/EN#25546/scene his bathroom] .

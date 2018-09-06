@@ -1,0 +1,5 @@
+[/EN#32769/scene View of a highway] and [/EN#32763/scene feeder road] with [/EN#32768/vehicles light traffic] and [/EN#32764/people a two road workers] with [/EN#32765/vehicles their parked truck] .
+[/EN#32764/people Two men] wearing [/EN#32766/clothing yellow and orange vests] working by [/EN#32770/other a highway exit sign] .
+[/EN#32764/people Highway workers] examining [/EN#0/notvisual the ground] on [/EN#32769/scene a highway] .
+[/EN#32765/vehicles A white truck] is parked on [/EN#32769/scene the side of a highway] .
+[/EN#32767/vehicles Cars] are taking [/EN#32770/other an exit] down [/EN#32763/scene the highway] .

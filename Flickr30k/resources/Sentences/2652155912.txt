@@ -1,0 +1,5 @@
+[/EN#63954/other A large explosion] occured near [/EN#63955/vehicles a red car] at [/EN#63953/scene a gas station] .
+[/EN#63955/vehicles a red car] is leaping through [/EN#63954/other a ball of fire] .
+[/EN#63954/other Flames] at [/EN#63956/other gas pumps] engulf [/EN#63955/vehicles a red car] .
+[/EN#63955/vehicles A red car] is caught in [/EN#63954/other an explosion] .
+[/EN#63953/scene A gas station] and [/EN#63955/vehicles a car] on [/EN#63954/other fire] .

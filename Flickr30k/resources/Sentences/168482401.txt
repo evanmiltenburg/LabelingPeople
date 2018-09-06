@@ -1,0 +1,5 @@
+[/EN#18732/people Two men] in [/EN#18734/clothing black] are clearing [/EN#18739/other brush] , [/EN#18740/other one] has [/EN#18738/clothing black gloves] and [/EN#18742/bodyparts a tattoo] , [/EN#18741/other the other] is holding [/EN#18737/other a machete] .
+[/EN#18732/people Two men] wearing [/EN#18734/clothing black shirts] are cleaning up [/EN#18733/scene a yard] beside [/EN#18736/scene a blue building] .
+[/EN#18732/people Two men] , [/EN#0/notvisual both] wearing [/EN#18734/clothing black shirts] are clearing out [/EN#18733/scene a yard] .
+[/EN#18732/people Two men] working on cutting back [/EN#18735/other foliage] in [/EN#18733/scene yard] .
+[/EN#18732/people Two men] are chopping down [/EN#18735/other weeds] in [/EN#18733/scene their yard] .

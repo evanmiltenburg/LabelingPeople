@@ -1,0 +1,5 @@
+[/EN#175017/people A stout , elderly man] wearing [/EN#175020/clothing a red checkered shirt] , [/EN#175025/clothing black shorts] , [/EN#175029/clothing sandals] , and [/EN#175024/clothing a green cap] casts [/EN#175019/other his line] over [/EN#175023/scene a balustrade] into [/EN#175021/scene murky waters] , while [/EN#175030/other several others] in [/EN#0/notvisual the background] do [/EN#175031/other the same] .
+[/EN#175022/people Several people] fishing with [/EN#175026/other fishing poles] on [/EN#175032/scene walkway] boarded by [/EN#175021/scene water] and decorated with [/EN#175027/other lights] .
+[/EN#175017/people A man] in [/EN#175020/clothing a plaid red shirt] casts [/EN#175019/other his fishing line] out into [/EN#175021/scene the water] .
+[/EN#175017/people Man] in [/EN#175020/clothing striped shirt] casting [/EN#175019/other a fishing line] at [/EN#175018/scene a crowded pier] .
+[/EN#175017/people A man] in [/EN#175020/other red plaid] casting off from [/EN#175018/scene the urban shore] .

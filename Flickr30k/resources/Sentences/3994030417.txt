@@ -1,0 +1,5 @@
+[/EN#151238/people A city worker] sweeps up [/EN#0/notvisual the ground] at [/EN#151241/other the top of a set] of [/EN#151240/other concrete stairs] .
+[/EN#151238/people A man] in [/EN#151239/clothing a jacket] works atop [/EN#151240/other a set of stairs] .
+[/EN#151238/people A man] in [/EN#151239/clothing a blue jacket] sweeps [/EN#0/notvisual the ground] .
+[/EN#151238/people A man] is sweeping at [/EN#151241/other the top of stairs] .
+[/EN#151238/people A man] sweeps [/EN#151242/scene a city sidewalk] .

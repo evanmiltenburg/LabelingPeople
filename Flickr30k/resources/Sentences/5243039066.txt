@@ -1,0 +1,5 @@
+[/EN#231982/people A woman] wearing [/EN#231983/clothing a blue winter jacket] crosscountry skies with [/EN#231984/other a small pine tree] dragging behind [/EN#0/notvisual her] .
+[/EN#231982/people A woman] in [/EN#231983/clothing a blue snow outfit] is skiing , while dragging [/EN#231984/other a tree] behind [/EN#0/notvisual her] .
+[/EN#231982/people A woman] in [/EN#231983/clothing a purple winter coat] on [/EN#231985/other skis] in [/EN#231986/scene snow] pulling [/EN#231984/other a tree] behind [/EN#0/notvisual her] .
+[/EN#231982/people A woman] in [/EN#231983/clothing a blue ski coat] pulls [/EN#231984/other a tree] through [/EN#231986/scene the snow] on [/EN#231985/other skies] .
+[/EN#231982/people A woman] is skiing while pulling [/EN#231984/other a chopped down tree] behind [/EN#0/notvisual her] .

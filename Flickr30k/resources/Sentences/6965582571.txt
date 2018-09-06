@@ -1,0 +1,5 @@
+[/EN#262712/bodyparts A hand] with [/EN#262710/clothing a ring] touching [/EN#262709/other a piece of blue material] under [/EN#262713/other a light] .
+[/EN#262707/people Someone] wearing [/EN#262711/clothing rings] is working on [/EN#262708/people a record player] .
+[/EN#262706/people A man] appears to be sewing [/EN#262709/other some sort of material] .
+[/EN#262706/people The hands of a person] pressing [/EN#262715/other a vinyl record] .
+[/EN#262706/people A person] carefully cleans [/EN#262708/people a record player] .

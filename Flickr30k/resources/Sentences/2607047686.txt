@@ -1,0 +1,5 @@
+[/EN#61227/people A man] wearing [/EN#61232/clothing a black knit hat] with [/EN#61233/other a green strip] and [/EN#61228/clothing a blue jacket] is standing on [/EN#61229/other a ladder] while [/EN#61231/people a woman] in [/EN#61230/clothing a red jacket] and [/EN#61232/clothing teal hat] steadies [/EN#61229/other the ladder] .
+[/EN#61227/people A man] in [/EN#61228/clothing a blue jacket] is up on [/EN#61229/other a ladder] [/EN#0/notvisual that] is being help up by [/EN#61231/people a woman] in [/EN#61230/clothing a red jacket]
+[/EN#61227/people Man] on [/EN#61229/other a ladder] staring at [/EN#0/notvisual the camera] , being helped up by [/EN#61231/people a woman] .
+Standing on [/EN#61229/other a ladder] with [/EN#61231/people the help of a friend] on [/EN#61237/scene a chilly day] .
+[/EN#61227/people A man] and [/EN#61231/people woman] are standing near [/EN#61234/other a wall] in [/EN#61236/other the winter] .

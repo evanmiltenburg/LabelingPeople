@@ -1,0 +1,5 @@
+[/EN#43620/people A kid] wearing [/EN#43621/clothing a helmet] rides [/EN#43622/vehicles a yellow bike] down [/EN#43623/scene the street] on [/EN#43625/scene a cloudy day] .
+[/EN#43620/people Young lady] riding [/EN#43622/vehicles her yellow bike] , looking away on [/EN#43626/scene a nice neighborhood] .
+[/EN#43620/people A girl] riding [/EN#43622/vehicles a bike] with [/EN#43621/clothing her helmet] on with [/EN#43627/other overcast weather] .
+[/EN#43620/people A young child] rides [/EN#43622/vehicles her bike] along [/EN#43623/scene the road] .
+[/EN#43620/people A woman] riding [/EN#43622/vehicles a bicycle] next to [/EN#43624/scene a field] .

@@ -1,0 +1,5 @@
+[/EN#219795/people A guy] with [/EN#219798/clothing a yellow sweatshirt] and [/EN#219803/clothing blue jeans] looking at [/EN#219796/other something] on [/EN#219797/other the table] , [/EN#219800/other possibly food] or [/EN#219799/other the flowers] in front of [/EN#0/notvisual him] .
+[/EN#219795/people A man] in [/EN#219798/clothing a yellow shirt] standing at [/EN#219797/other a long table] looking at [/EN#219801/other different kinds of flower arrangements] on [/EN#219797/other the table] .
+[/EN#219795/people A young man] in [/EN#219798/clothing a yellow sweater] looks at [/EN#219797/other a table] with [/EN#219799/other various kinds of flowers] on [/EN#0/notvisual it] .
+[/EN#219795/people A man] in [/EN#219798/clothing a yellow sweatshirt] examines [/EN#219796/other a plant] on [/EN#219797/other the table] .
+[/EN#219795/people A man] in [/EN#219798/clothing a yellow shirt] looking at [/EN#219799/other some flowers] .

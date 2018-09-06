@@ -1,0 +1,5 @@
+[/EN#58967/people a man] in [/EN#58970/clothing a brown shirt] and [/EN#58968/people a woman] in [/EN#58971/clothing a green dress] are staring angrily at [/EN#0/notvisual each other] .
+[/EN#58968/people A woman] in [/EN#58971/clothing a green dress] and [/EN#58967/people a man] in [/EN#58970/clothing a black shirt] are staring at [/EN#0/notvisual each other] .
+[/EN#58967/people A man] and [/EN#58968/people woman] are seated next to [/EN#58974/scene each other outside] .
+[/EN#58967/people A man] and [/EN#58968/people woman] facing [/EN#0/notvisual each other] on [/EN#58973/other a bench] .
+[/EN#58969/people Couple] in [/EN#58975/other the middle of a big fight] .

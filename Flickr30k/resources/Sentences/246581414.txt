@@ -1,0 +1,5 @@
+[/EN#51527/people A young woman] wearing [/EN#51529/clothing a blue shirt] is looking out [/EN#51534/vehicles/scene the window of a train] while [/EN#51527/people another young woman] [/EN#0/notvisual who] is sitting across from [/EN#0/notvisual her] is reading [/EN#51530/other a book] .
+[/EN#51528/people Two girls] riding [/EN#51533/vehicles/scene a train] , [/EN#51527/other one] in [/EN#51532/clothing a skirt] is reading [/EN#51530/other a book] , [/EN#51536/other the other] in [/EN#51529/clothing a blue shirt] and [/EN#51537/clothing glasses] is looking out [/EN#51534/other the window] .
+[/EN#51527/people A woman] in [/EN#51529/clothing a blue shirt] looks out [/EN#51534/vehicles/scene the window of a train] across from [/EN#51527/people a woman] in [/EN#51532/clothing a red skirt] .
+[/EN#51528/people Two women] sit facing [/EN#0/notvisual each other] while [/EN#51536/other one] looks out [/EN#51534/other the window] and [/EN#51527/other the other] reads [/EN#51530/other a book] .
+[/EN#51528/people Two women] riding [/EN#51533/vehicles/scene the train] .

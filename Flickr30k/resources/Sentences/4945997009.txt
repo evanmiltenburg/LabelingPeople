@@ -1,0 +1,5 @@
+[/EN#221813/people A man] in [/EN#221820/clothing a white shirt] with [/EN#221816/other a black stripe] , [/EN#221821/clothing black shoes] , and [/EN#221815/clothing black pants] [/EN#221822/other us] sleeping on [/EN#221814/other a green bench] .
+[/EN#221813/people A man] wearing [/EN#221815/clothing black pants] and [/EN#221818/clothing a hat] sleeps on [/EN#221814/other a bench] in front of [/EN#221819/scene a histories building] .
+[/EN#221813/people A man] sleeps on [/EN#221814/other a green bench] next to [/EN#221817/scene a fountain] .
+[/EN#221813/people A homeless person] sleeping on [/EN#221814/other a park bench] .
+[/EN#221813/people Man] tired sleeping on [/EN#221814/other bench] .

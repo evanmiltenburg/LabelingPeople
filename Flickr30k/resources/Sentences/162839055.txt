@@ -1,0 +1,5 @@
+[/EN#17850/scene A field] with [/EN#17851/people some Scottish marching bands] and [/EN#17852/people many spectators] sitting on [/EN#17854/scene the stadium] behind .
+[/EN#17851/people A large group of men] in [/EN#17857/clothing military garb] standing on [/EN#17850/scene a field] with [/EN#17852/people a crowd] behind [/EN#0/notvisual them] .
+[/EN#17855/other A Celtic marching] bands performs on [/EN#17854/scene field] during [/EN#17856/other a soccer match] .
+[/EN#17851/people A group of Scottish officers] doing [/EN#17853/other a demonstration] .
+[/EN#17851/people Several uniformed people] are standing in [/EN#17853/other ceremony] .

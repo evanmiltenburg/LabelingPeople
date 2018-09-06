@@ -1,0 +1,5 @@
+[/EN#282769/animals The white dog] is running along [/EN#282770/scene the beach] .
+[/EN#282769/animals A white dog] is running on [/EN#282770/scene a rocky beach] .
+[/EN#282769/animals A white dog] walking on [/EN#282770/scene the beach] .
+[/EN#282769/animals a white dog] runs along [/EN#282770/scene the beach]
+[/EN#282769/animals A white dog] runs on [/EN#282770/scene a beach] .

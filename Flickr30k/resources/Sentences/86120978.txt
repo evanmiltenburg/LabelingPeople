@@ -1,0 +1,5 @@
+[/EN#282040/people A gentlemen] in [/EN#282042/clothing a burgundy long-sleeve shirt] is at [/EN#282047/scene a fruit stand] selling [/EN#282041/other watermelon] .
+[/EN#282040/people A man] in [/EN#282046/clothing shorts] and [/EN#282042/clothing a dark shirt] wearing [/EN#282043/clothing a hat] over [/EN#282048/bodyparts his eyes] is selling [/EN#282041/other watermelons]
+[/EN#282040/people A man] is snoozing while sitting near [/EN#282041/other a bunch of melons] .
+[/EN#282040/people A man] in [/EN#282043/clothing a hat] sells [/EN#282041/other watermelon] for [/EN#282044/other $ 3] [/EN#282045/other each] .
+[/EN#282040/people A man] sitting with [/EN#282041/other a bunch of watermelons] .

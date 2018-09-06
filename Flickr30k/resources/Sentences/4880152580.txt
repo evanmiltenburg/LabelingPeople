@@ -1,0 +1,5 @@
+[/EN#214280/people Two men] walk around [/EN#214282/scene a corner] past [/EN#214283/people a man] wearing [/EN#214286/clothing jean shorts] with [/EN#214281/clothing a blazer] and [/EN#214285/clothing dress shoes] , and [/EN#214273/people a woman] rounds [/EN#214277/scene the corner] going [/EN#214287/scene the opposite way] .
+[/EN#214273/people A woman] in [/EN#214284/clothing a spotted dress] with [/EN#214288/bodyparts long hair] is walking down [/EN#214276/scene a street] .
+[/EN#214274/people Pedestrians] walking on [/EN#214275/scene the sidewalk] in [/EN#214278/scene an urban setting] .
+[/EN#214274/people People] walking down [/EN#214275/scene a sidewalk] in [/EN#214278/other an urban environment] .
+[/EN#214274/people People] are walking on [/EN#214275/scene a city sidewalk] .

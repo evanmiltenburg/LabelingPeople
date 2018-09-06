@@ -1,0 +1,5 @@
+[/EN#74692/people A young girl] with [/EN#74693/clothing a blue shirt] turns to look at [/EN#0/notvisual the camera] while walking on [/EN#74696/scene a trail] .
+[/EN#74692/people A child] wearing [/EN#74693/clothing a blue shirt] and [/EN#74699/clothing blue pants] is standing in [/EN#74695/scene a park] .
+[/EN#74692/people A blond girl] in standing [/EN#74700/scene outside] surrounded by [/EN#74697/other trees] .
+[/EN#74692/people A girl] is standing on [/EN#74696/scene a trail] in [/EN#74694/scene a field] with [/EN#74697/other trees] .
+[/EN#74692/people A girl] is walking up [/EN#74694/scene a hill] .

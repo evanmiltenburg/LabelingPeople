@@ -1,0 +1,5 @@
+[/EN#190803/people A woman] in [/EN#190804/clothing an ornate blue and green dress] with [/EN#190813/other a spotlight] on [/EN#190814/bodyparts her face] stares to [/EN#190812/scene the viewer 's right] while standing on [/EN#190807/scene a stage] .
+[/EN#190803/people A woman] in [/EN#190804/clothing a blue and green dress] is standing in front of [/EN#190810/people a woman] in [/EN#190808/clothing a purple dress] with [/EN#190809/clothing a white lace collar] .
+[/EN#190803/people A woman] [/EN#0/notvisual who] is dressed in [/EN#190804/clothing period clothing] is performing on [/EN#190807/scene stage] .
+[/EN#190805/people Two women] in [/EN#190804/clothing Renaissance clothing] are performing on [/EN#190807/scene stage] .
+[/EN#190805/people two women] on [/EN#190807/scene a stage] dancing in [/EN#190811/people period type] costumes .

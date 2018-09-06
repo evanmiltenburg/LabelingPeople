@@ -1,0 +1,5 @@
+[/EN#20633/people A woman] in [/EN#20634/clothing a pink hat] holds [/EN#20635/bodyparts hands] with [/EN#20636/people a man] in [/EN#20637/clothing a white hat] while walking down [/EN#20638/scene the street] .
+[/EN#20639/people A couple] walks down [/EN#20638/scene the street] holding [/EN#20635/bodyparts hands] while [/EN#20640/people a man] plays [/EN#20643/other music] .
+[/EN#20640/people A man] sits on [/EN#20638/scene the floor] and plays [/EN#20641/instruments a flute] while [/EN#20642/people three people] talk .
+[/EN#20642/people Three people] walk past [/EN#20640/people a man] playing [/EN#20641/instruments a flute] on [/EN#20638/scene the sidewalk] .
+[/EN#20642/people People] walk past [/EN#20640/people a street musician] playing [/EN#20641/instruments the flute] .

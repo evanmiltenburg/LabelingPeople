@@ -1,0 +1,5 @@
+[/EN#1698/people A man] in [/EN#1703/clothing an all black outfit] just threw [/EN#1699/other a bowling ball] down [/EN#1701/other a lane] towards [/EN#1705/other the center of the bowling pins] .
+[/EN#1698/people A guy] wearing [/EN#1703/clothing all black] at [/EN#1700/scene a bowling alley] standing in front of [/EN#1701/other a lane] with [/EN#1699/other a black bowling ball] in [/EN#0/notvisual it] .
+[/EN#1698/people A man] is bowling at [/EN#1700/scene an alley] with [/EN#1704/other cosmic imagery including bowling balls] and [/EN#1702/other pins] above [/EN#1701/other the lanes] .
+[/EN#1698/people A man] stand [/EN#0/notvisual there] after rolling [/EN#1699/other a bowling ball] down [/EN#1701/other a lane] .
+[/EN#1698/people Man] finished throwing [/EN#1699/other bowling ball] towards [/EN#1702/other bowling pins] .

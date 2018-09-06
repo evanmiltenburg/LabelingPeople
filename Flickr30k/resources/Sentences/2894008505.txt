@@ -1,0 +1,5 @@
+[/EN#79652/people A woman] is running along [/EN#79654/scene the side of a road] , casting [/EN#79656/scene her shadow] on [/EN#79653/other a concrete wall] .
+[/EN#79652/people A woman] jogs beside [/EN#79653/other a tall concrete wall] .
+[/EN#79652/people A woman] runs beside [/EN#79653/other a concrete wall] .
+[/EN#79652/people Woman] jogging beside [/EN#79655/scene the road] .
+[/EN#79652/people Woman] running on [/EN#79654/scene sidewalk]

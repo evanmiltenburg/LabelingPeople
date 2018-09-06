@@ -1,0 +1,5 @@
+[/EN#141990/people A guy] with [/EN#141995/bodyparts long blond-hair] and [/EN#141991/clothing a green shirt] is skateboarding down [/EN#141992/scene an unmarked road] .
+[/EN#141990/people A young man] with [/EN#141990/other long blond-hair skateboards] down [/EN#141992/scene an inclined road] .
+[/EN#141990/people A man] in [/EN#141991/clothing a green shirt] rides [/EN#141994/other a skateboard] down [/EN#141992/scene a rural street] .
+[/EN#141990/people A man] wearing [/EN#141991/clothing a green shirt] skateboarding down [/EN#141992/scene a street] .
+[/EN#141990/people A man] long boarding down [/EN#141992/scene an empty street] .

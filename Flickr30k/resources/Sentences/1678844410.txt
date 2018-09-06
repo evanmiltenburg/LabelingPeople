@@ -1,0 +1,5 @@
+[/EN#18593/people A male child] jumping off [/EN#18594/other a ledge] , [/EN#0/notvisual he] has [/EN#18595/clothing a backpack] on [/EN#18603/other his back] and [/EN#18596/vehicles a toy airplane] in [/EN#18597/bodyparts his left hand] .
+[/EN#18593/people A young child] wearing [/EN#18598/clothing an orange sweatshirt] jumps down from [/EN#18594/other a marble ledge] .
+[/EN#18593/people A little boy] wearing [/EN#18595/clothing a backpack] jumps off [/EN#18594/other a ledge] and onto [/EN#0/notvisual the ground] .
+[/EN#18593/people A school boy] , with [/EN#18595/clothing a backpack] on , jumping off [/EN#18599/other a wall] .
+[/EN#18593/people A child] jumping from [/EN#18601/other a small height] to [/EN#18600/scene the sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#194354/people An elderly woman] with [/EN#194357/clothing a black shoulder bag] and [/EN#194359/clothing a brown hat] sits on [/EN#194355/other a park bench] eating [/EN#194358/other an ice cream cone] .
+[/EN#194354/people Am older person] wearing [/EN#194356/clothing a blue jacket] sitting on [/EN#194355/other a bench] eating [/EN#194358/other an ice cream cone] .
+[/EN#194354/people A woman] on [/EN#194360/other vacation] enjoying [/EN#194358/other a vanilla ice cream cone] .
+[/EN#194354/people An old Asian woman] eats [/EN#194358/other an ice cream cone] on [/EN#194355/other a bench] .
+[/EN#194354/people A man] sits on [/EN#194355/other a bench] and eats [/EN#194358/other an ice cream cone] .

@@ -1,0 +1,5 @@
+[/EN#65428/animals A black dog] is running through [/EN#65429/scene a field of grass] and [/EN#65430/other dandilions] .
+[/EN#65428/animals A big thin dog] runs fast in [/EN#65429/scene a field of grass] .
+[/EN#65428/animals A black Greyhound] running in [/EN#65429/scene an open field] .
+[/EN#65428/animals A very thin , black dog] running in [/EN#65429/scene a field] .
+[/EN#65428/animals A dog] runs through [/EN#65429/scene a field] .

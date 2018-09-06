@@ -1,0 +1,5 @@
+[/EN#109375/people A woman] with [/EN#109379/bodyparts dark hair] looks at [/EN#109377/other something] on [/EN#109381/other display] [/EN#0/notvisual that] is illuminated by [/EN#109376/other two light bulbs] .
+[/EN#109375/people A woman] is looking at [/EN#109377/other something] [/EN#0/notvisual that] is being illuminated by [/EN#109376/other two light bulbs] .
+[/EN#109375/people A woman] is looking at [/EN#109377/other something] by [/EN#109376/other the light of two bulbs] .
+[/EN#109376/other Two light bulbs] are hanging in front of [/EN#109378/bodyparts a woman 's face] .
+[/EN#109375/people A woman] tends to [/EN#109377/other goods] on [/EN#109380/other display] .

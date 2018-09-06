@@ -1,0 +1,5 @@
+[/EN#110373/people A woman] speaking in front of [/EN#110374/other a powerpoint display] for [/EN#110381/other Michael 's Portfolio] .
+[/EN#110373/people A woman] giving [/EN#110375/other a presentation] with [/EN#110374/other a projection screen] behind [/EN#0/notvisual her] .
+[/EN#110373/people A woman] giving [/EN#110379/other a presentation] using [/EN#110374/other a slideshow projection] .
+[/EN#110373/people A woman] is speaking in front of [/EN#110382/other a large screen] .
+[/EN#110373/people A woman] giving [/EN#110379/other lecture] using [/EN#110374/other promethean board] .

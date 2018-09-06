@@ -1,0 +1,5 @@
+Here is [/EN#167938/scene the apartment buildings] and [/EN#167937/people a vendor] selling [/EN#167942/other ice cream] outside of [/EN#0/notvisual them] .
+[/EN#167937/people A man] standing behind [/EN#167939/vehicles a small ice cream cart] on [/EN#167941/scene a street corner] .
+[/EN#167937/people A man] is resting on [/EN#167939/vehicles his food cart] next to [/EN#167938/scene a ran down building] .
+[/EN#167940/people Three people] are standing outside [/EN#167938/scene a tall tan building] .
+[/EN#167937/people A vendor] selling [/EN#167943/other things] outside of [/EN#167938/scene a building] .

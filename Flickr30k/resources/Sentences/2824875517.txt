@@ -1,0 +1,5 @@
+[/EN#74983/people Person] in [/EN#74984/clothing jeans] and [/EN#74985/clothing blue shirt] , marking [/EN#74986/scene newspaper racing section] with [/EN#74987/other pen] .
+[/EN#74983/people Someone] in [/EN#74988/other a blue shirt writing] on [/EN#74986/other a part of a newspaper] .
+[/EN#74983/people A man] marks [/EN#74986/other his newspaper] with [/EN#74987/other pen] as [/EN#0/notvisual he] sit and waits .
+[/EN#74983/people A man] reading and evaluating [/EN#74986/other the nation 's stocks] .
+[/EN#74983/people A person] writing [/EN#74990/other something] on [/EN#74986/other a newspaper] .

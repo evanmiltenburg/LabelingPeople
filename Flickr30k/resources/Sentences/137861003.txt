@@ -1,0 +1,5 @@
+[/EN#10648/people A mother] and [/EN#10649/people her two sons] walk behind [/EN#10643/animals a horse] tied to [/EN#10642/vehicles/scene a boat] .
+[/EN#10643/animals A horse] walking by [/EN#10645/scene the side of the water] pulling [/EN#10642/other something] .
+[/EN#10642/vehicles/scene A boat] being bulled by [/EN#10643/animals a brown horse] under [/EN#10644/scene a bridge] .
+[/EN#10643/animals A horse] is walking beside [/EN#10642/vehicles/scene a boat] under [/EN#10644/scene a bridge] .
+[/EN#10643/animals A horse] is pulling [/EN#10645/other a watercraft] .

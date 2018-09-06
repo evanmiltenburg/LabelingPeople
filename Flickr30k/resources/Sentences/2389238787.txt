@@ -1,0 +1,5 @@
+[/EN#45778/people A man] in [/EN#45779/clothing a blue jacket] and [/EN#45781/clothing black hat] uses [/EN#45780/other a tool] in [/EN#45783/scene a woodworking outdoor shop] .
+[/EN#45778/people An older man] with [/EN#45779/clothing a blue coat] and [/EN#45781/clothing black hat] is looking over [/EN#45780/other a power tool]
+[/EN#45778/people An older man] is trying to figure out [/EN#0/notvisual what] [/EN#45780/other a sewing machine] is .
+[/EN#45778/people A man] in [/EN#45779/clothing a blue jacket] and [/EN#45781/clothing brown hat] uses [/EN#45780/other a tool] to cut [/EN#45782/other wood] .
+[/EN#45778/people An older man] in [/EN#45779/clothing a blue jacket] working [/EN#45780/other a saw] .

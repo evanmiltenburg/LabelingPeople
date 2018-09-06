@@ -1,0 +1,5 @@
+[/EN#148178/animals A small black and brown dog] is standing in [/EN#148179/scene the snow] .
+[/EN#148178/animals A large black dog] is digging in [/EN#148179/scene the deep snow] .
+[/EN#148178/animals a black dog] digging through [/EN#148179/scene the snow] .
+[/EN#148178/animals Black dog] digging in [/EN#148179/scene white snow] .
+[/EN#148178/animals A black dog] digs in [/EN#148179/scene the snow] .

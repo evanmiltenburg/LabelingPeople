@@ -1,0 +1,5 @@
+[/EN#230307/people A man] wearing [/EN#230311/clothing a pink shirt] and wearing [/EN#230312/clothing glasses] crouching down in front of [/EN#230308/clothing a basket of clothing] at [/EN#230310/scene the laundromat] .
+[/EN#230307/people A man] is in front of [/EN#230309/other a dryer] in [/EN#230310/scene a laundromat] with [/EN#230313/bodyparts both hands] reaching into [/EN#230308/other a bin or basket] .
+[/EN#230307/people A strange man] looks unsure of [/EN#0/notvisual what] [/EN#0/notvisual he] is doing near [/EN#230309/other a washing machine] .
+[/EN#230307/people A man] in [/EN#230311/clothing a pink shirt] is squatting in front of [/EN#230309/other a washing machine] .
+[/EN#230307/people A man] in [/EN#230311/clothing a pink shirt] kneels down and looks right at [/EN#0/notvisual the camera] .

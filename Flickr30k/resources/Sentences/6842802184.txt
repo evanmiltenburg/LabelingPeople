@@ -1,0 +1,5 @@
+[/EN#259021/people A little girl] is on [/EN#259027/bodyparts her tip toes] standing on [/EN#259023/other a stool] at [/EN#259025/other the sink] brushing [/EN#259024/bodyparts her teeth] .
+[/EN#259021/people A little girl] is brushing [/EN#259024/bodyparts her teeth] in front of [/EN#259022/other a mirror] in [/EN#259028/scene the bathroom] .
+[/EN#259021/people A little girl] is brushing [/EN#259024/bodyparts her teeth] while looking in [/EN#259022/other the mirror] .
+[/EN#259021/people A young little girl] looks in [/EN#259022/other the mirror] and brushes [/EN#0/notvisual her] [/EN#259024/bodyparts teeth]
+[/EN#259021/people A child] standing on [/EN#259023/other a white stool] brushing [/EN#259026/bodyparts her teeth] .

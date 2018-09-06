@@ -1,0 +1,5 @@
+[/EN#61868/people A man] in [/EN#61869/clothing a white t-shirt] and [/EN#61872/clothing jeans] is holding [/EN#61875/other a mallet] and [/EN#61873/other chisel] next to [/EN#61870/other his abstract sculpture] [/EN#0/notvisual which] stands on [/EN#61877/other several bricks] .
+[/EN#61868/people a man] in [/EN#61869/clothing a white shirt] lines up [/EN#61873/other his chisel] as [/EN#0/notvisual he] completes [/EN#61870/other his work] as [/EN#61878/animals a small dog] looks on .
+[/EN#61868/people A gray-haired man] , dressed in [/EN#61869/clothing a T-shirt] and [/EN#61872/clothing jeans] is working on [/EN#61870/other a silvery sculpture] .
+[/EN#61868/people A man] with [/EN#61879/bodyparts white hair] , [/EN#61872/clothing blue jeans] , and [/EN#61869/clothing a white T-shirt] chiseling [/EN#61870/other an object] .
+[/EN#61868/people A man] in [/EN#61872/clothing jeans] and [/EN#61869/clothing a white shirt] is creating [/EN#61870/other a sculpture] .

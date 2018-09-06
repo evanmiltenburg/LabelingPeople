@@ -1,0 +1,5 @@
+[/EN#118499/people A woman] in [/EN#118502/clothing blue pants] and [/EN#118501/clothing a light-blue top] looks down at [/EN#118506/bodyparts her hand] while standing near [/EN#118500/vehicles a dirty gray truck] and surrounded by [/EN#0/notvisual muddy ground] .
+[/EN#118499/people Woman] in [/EN#118502/clothing blue outfit] and [/EN#118503/clothing boots] stands behind [/EN#118500/vehicles muddy Toyota truck] with [/EN#118504/scene backpack near bushes] .
+[/EN#118499/people A woman] standing outside behind [/EN#118500/vehicles a Toyota truck] looking at [/EN#118505/bodyparts her feet] .
+[/EN#118499/people A girl] dressed in [/EN#118501/clothing blue] wearing [/EN#118503/clothing boots] in front of [/EN#118500/vehicles a muddy truck] .
+[/EN#118499/people a woman] [/EN#0/notvisual who] is in [/EN#118503/clothing boots] [/EN#0/notvisual that] is muddy .

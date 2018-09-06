@@ -1,0 +1,5 @@
+[/EN#42587/people Two young people] running through [/EN#42588/scene a prairie] towards [/EN#42589/scene a hill] with [/EN#42591/scene houses] on [/EN#0/notvisual it] .
+[/EN#42586/people A brown-haired boy] and [/EN#42590/people a woman] in [/EN#42592/clothing a white jacket] run through [/EN#42588/scene a field] .
+[/EN#42586/people A boy] and [/EN#42590/people girl] run across [/EN#42588/scene a grassy field] towards [/EN#42589/scene a forested hill] .
+[/EN#42586/people A boy] and [/EN#42590/people girls] run towards [/EN#42589/scene small hills] with [/EN#42591/scene houses] at [/EN#42594/clothing the top] .
+[/EN#42587/people Two people] are running in [/EN#42588/scene the grass] by [/EN#42589/scene a hill] .

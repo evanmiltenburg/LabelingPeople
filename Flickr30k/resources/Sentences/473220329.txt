@@ -1,0 +1,5 @@
+[/EN#196621/people A woman] with [/EN#196630/bodyparts dark hair] walks through [/EN#196625/scene a grassy field] on [/EN#196622/scene a path] with [/EN#196629/other wooden handrails] .
+[/EN#196621/people A woman] is walking away on [/EN#196622/scene a wooden walkway] through [/EN#196627/other a field of golden plants] .
+[/EN#196621/people A woman] walking over [/EN#196622/scene a bridge] with [/EN#196627/scene tall grass] on [/EN#0/notvisual either side of her] .
+[/EN#196621/people A young woman] crosses [/EN#196622/scene a bridge] through [/EN#196627/scene a field of tall grass] .
+[/EN#196621/people A woman] walks along [/EN#196622/scene a boardwalk]

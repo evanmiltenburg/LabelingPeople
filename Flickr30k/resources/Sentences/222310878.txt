@@ -1,0 +1,5 @@
+[/EN#35078/people A person] with [/EN#35087/bodyparts a shaved head] , [/EN#35079/clothing umbrella] , and [/EN#35083/clothing red robe] is attempting to jaywalk in [/EN#35084/other the rain] .
+[/EN#35078/people a man] in [/EN#35083/clothing monks robes] looking down [/EN#35081/scene the street] from [/EN#35085/other his viewpoint] on [/EN#35081/scene the sidewalk] .
+[/EN#35078/people A man] dressed in [/EN#35083/clothing his cultural robe] , and [/EN#35086/clothing sandals] is waiting to cross [/EN#35080/scene the street] .
+[/EN#35078/people A man] is standing on [/EN#35080/scene a street] in [/EN#35084/other the rain] , [/EN#0/notvisual he] is holding [/EN#35079/clothing an umbrella] .
+[/EN#35078/people A man] holding [/EN#35079/clothing an umbrella] stands on [/EN#35081/scene the side of a street] .

@@ -1,0 +1,5 @@
+[/EN#74124/animals A brown and white dog] is licking [/EN#74126/animals a dog] [/EN#0/notvisual that] looks very similar .
+[/EN#74124/animals A brown and white dog] is licking [/EN#74126/animals a small brown terrier] .
+[/EN#74124/animals Two brown and white dogs] are standing on [/EN#74127/scene a sidewalk] .
+[/EN#74124/animals Two small brown and white dogs] stand together .
+[/EN#74124/animals Two blurry dogs] .

@@ -1,0 +1,5 @@
+[/EN#233999/people Three children] are running in front of [/EN#234000/animals a large group of ducks] .
+[/EN#233999/people Three kids] running in [/EN#234001/scene a park] in front of [/EN#234000/animals a group of ducks] .
+[/EN#233999/people Three children] playing with [/EN#234000/animals a group of ducks] .
+[/EN#233999/people Three kids] play in [/EN#234001/scene a park] near [/EN#234000/animals ducks] .
+[/EN#233999/people three kids] run away from [/EN#234000/animals ducks] .

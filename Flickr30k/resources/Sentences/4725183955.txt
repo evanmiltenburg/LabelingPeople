@@ -1,0 +1,5 @@
+[/EN#195667/people A man] wearing [/EN#195668/clothing a green hoodie sweatshirt] and [/EN#195671/clothing large earphones] is standing on [/EN#195670/scene a sidewalk] listening to [/EN#195675/other something] on [/EN#195672/people a portable music player] .
+[/EN#195667/people A brown-skinned man] in [/EN#195668/clothing a green hooded sweatshirt] and [/EN#195674/clothing blue jeans] is wearing [/EN#195671/clothing headphones] connected to [/EN#195669/other a handheld device] .
+[/EN#195667/people A man] wearing [/EN#195671/clothing headphones] is checking [/EN#195669/other the screen of a handheld device] while on [/EN#195670/scene the street] .
+[/EN#195667/people A teenage boy] uses [/EN#195669/other an electronic device] on [/EN#195670/scene the street] .
+[/EN#195667/people A man] is [/EN#195670/scene outside] listening to [/EN#195671/clothing his headphones] .

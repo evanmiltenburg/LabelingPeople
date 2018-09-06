@@ -1,0 +1,5 @@
+[/EN#75127/animals A dog] bounds across [/EN#75134/scene the sandy beach] with [/EN#75128/other a stick] in [/EN#75129/bodyparts his mouth] and [/EN#75135/scene water] splashing off [/EN#75130/bodyparts his paws] .
+[/EN#75127/animals The wet , brown dog] has [/EN#75128/other a stick] in [/EN#75129/bodyparts his mouth] and is running in [/EN#75131/other the sand] next to [/EN#75131/scene the water] .
+[/EN#75127/animals The dog] is running along [/EN#75134/scene the beach] next to [/EN#75131/scene the ocean] with [/EN#75128/other a stick] in [/EN#75129/bodyparts its mouth] .
+[/EN#75127/animals A brown dog] is carrying [/EN#75128/other a wet stick] on [/EN#75136/scene the shore of the ocean] .
+[/EN#75127/animals A wet , blond dog] carries [/EN#75128/other a stick] on [/EN#75133/scene the shore] .

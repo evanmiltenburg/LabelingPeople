@@ -1,0 +1,5 @@
+[/EN#270806/people A man] in [/EN#270809/clothing a red apron] is cooking on [/EN#270808/other a grill] , while [/EN#270807/people several other men] stand around .
+[/EN#270806/people A man] in [/EN#270810/clothing a blue shirt] , [/EN#270813/clothing blue jeans] , and [/EN#270809/clothing a red apron] standing at [/EN#270808/other a grill] .
+[/EN#270806/people A man] in [/EN#270811/clothing a brown hat] and [/EN#270809/clothing red apron] is attending [/EN#270808/other an outdoor grill] .
+[/EN#270807/people Men] wearing [/EN#270812/clothing aprons] , [/EN#270814/clothing hats] and [/EN#270815/clothing sunglasses] are grilling .
+[/EN#270806/people A man] barbecues in [/EN#270809/clothing a red apron] .

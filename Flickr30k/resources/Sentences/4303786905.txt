@@ -1,0 +1,5 @@
+[/EN#162435/people Two people] are standing in front of [/EN#162438/other a Hedley Museum sign] looking at [/EN#162437/other something] in front of [/EN#0/notvisual them] .
+[/EN#162435/people A couple people] at [/EN#162436/scene a museum] looking in [/EN#162439/scene the gift shop] , potentially going to buy [/EN#162437/other something] .
+[/EN#162435/people Two people] are looking at [/EN#162437/other items] [/EN#0/notvisual that] are for [/EN#162443/other sale] at [/EN#162436/scene the Hedley Museum] .
+[/EN#162435/people Two people] outside near [/EN#162440/scene a road] and [/EN#162444/other signs] [/EN#0/notvisual that] point to [/EN#162436/scene a museum] .
+[/EN#162435/people Two people] looking at [/EN#162441/other a structure] outside of [/EN#162442/scene a tea room] .

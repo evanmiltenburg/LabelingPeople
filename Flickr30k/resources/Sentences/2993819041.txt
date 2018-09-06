@@ -1,0 +1,5 @@
+[/EN#86147/people A man] in [/EN#86152/clothing a pale green t-shirt] stands next to [/EN#86148/people a man] in [/EN#86153/clothing a black t-shirt] inside [/EN#86145/scene an unfinished building] .
+[/EN#86144/people Two men] with [/EN#86146/bodyparts short hair] walk through [/EN#86145/scene the interior of a building] under [/EN#86149/other construction] .
+[/EN#86144/people Two men] work on putting together [/EN#86150/other some office decor] .
+[/EN#86144/people Two men] with [/EN#86146/bodyparts short hair] are working .
+[/EN#86144/people Two men] working in [/EN#86145/scene a factory] .

@@ -1,0 +1,5 @@
+[/EN#90734/scene A group of people of asian descent] watch [/EN#90735/people a street performer] in [/EN#90740/scene a wooded park area] .
+[/EN#90734/people A large crowd of people] surround [/EN#90735/people a colorfully dressed street entertainer] .
+[/EN#90734/people A crowd of people] watching [/EN#90736/other a balloon] [/EN#90741/other twister] on [/EN#90737/scene a beautiful day] .
+[/EN#90734/people A crowd of people] are gathered outside watching [/EN#90739/people a performer] .
+[/EN#90734/people A crowd] is gathered around [/EN#90735/people a man] watching [/EN#90738/other a performance] .

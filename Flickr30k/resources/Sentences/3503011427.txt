@@ -1,0 +1,5 @@
+[/EN#123231/people The man] wearing [/EN#123233/clothing a white jacket] and [/EN#123235/clothing black pants] is walking in front of [/EN#123234/scene a white building] .
+[/EN#123231/people A man] in [/EN#123233/clothing a long-sleeved white shirt] is walking past [/EN#123237/other something] called [/EN#123234/scene the lounge bar] .
+[/EN#123231/people A man] in [/EN#123233/clothing a white longsleeve shirt] and [/EN#123235/clothing black pants] is walking on [/EN#123232/scene the sidewalk] .
+[/EN#123231/people A man] is walking down [/EN#123232/scene a sidewalk] under [/EN#123236/other a " lounge bar " sign] .
+[/EN#123231/people A man] walks on [/EN#123232/scene a fancy sidewalk] next to [/EN#123234/scene an abandoned bar] .

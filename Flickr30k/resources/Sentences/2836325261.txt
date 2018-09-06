@@ -1,0 +1,5 @@
+[/EN#75768/people A woman] in [/EN#75770/clothing a red medieval type dress] playing [/EN#75769/instruments a bagpipe] or [/EN#75769/instruments some similar instrument] .
+[/EN#75768/people A woman] wearing [/EN#75770/clothing a red costume] plays [/EN#75769/instruments an instrument] against [/EN#75771/other a brick wall] .
+[/EN#75768/people A lady] wearing [/EN#75770/clothing a red dress] is playing [/EN#75769/instruments a bagpipe] .
+[/EN#75768/people A woman] in [/EN#75770/clothing a red dress] playing [/EN#75769/instruments an instrument] .
+[/EN#75768/people A woman] in [/EN#75770/clothing costume] is playing [/EN#75769/instruments a bagpipe] .

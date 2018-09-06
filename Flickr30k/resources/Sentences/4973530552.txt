@@ -1,0 +1,5 @@
+[/EN#225001/people An old woman] carrying [/EN#225002/clothing a white trash bag] walks through [/EN#225004/scene a train station] .
+[/EN#225001/people An elderly white woman] holding [/EN#225002/clothing a bag] walks through [/EN#225004/scene a terminal] .
+[/EN#225001/people An elderly woman] with [/EN#225002/clothing a bag] walking under [/EN#225003/other an airport sign] .
+[/EN#225001/people An elderly woman] stands beneath [/EN#225003/other a timetable] .
+[/EN#225001/people A woman] walks through [/EN#225005/scene an airport] .

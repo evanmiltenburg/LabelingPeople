@@ -1,0 +1,5 @@
+[/EN#42341/people A woman] is walking up [/EN#42345/scene a staircase] surrounded by [/EN#42340/other some sort of concrete structure] .
+[/EN#42341/people A woman] dressed in [/EN#42342/other a traditional wrap] can be seen through [/EN#42344/other a small hole archway] .
+[/EN#42340/other A beautiful curved stone art] allowing [/EN#42346/people a view of a woman] on [/EN#0/notvisual the other side] .
+[/EN#42341/people A middle eastern woman] standing on [/EN#42343/scene an odd shaped building] .
+[/EN#42341/people Woman] in [/EN#42342/clothing Indian garb] stands in [/EN#42343/scene building] .

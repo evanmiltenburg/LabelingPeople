@@ -1,0 +1,5 @@
+[/EN#104200/people A skier] is falling [/EN#104202/bodyparts face] first into [/EN#104201/scene the snow] .
+[/EN#104200/people The skier] is leaning forward in [/EN#104201/scene the snow] .
+[/EN#104200/people A skier] is falling into [/EN#104201/scene the snow] .
+[/EN#104200/people A skier] falling down [/EN#104201/scene a hill] .
+[/EN#104200/people A skier] falls down [/EN#104201/scene a hill] .

@@ -1,0 +1,5 @@
+[/EN#65508/people Woman] in [/EN#65514/clothing gray shirt] and [/EN#65515/clothing dark skirt] sitting in [/EN#65509/other blue chair] with [/EN#65513/other white stars] in front of [/EN#65510/other a brick wall] .
+[/EN#65508/people The elderly African woman] is sitting on [/EN#65509/other a blue chair] in front of [/EN#65510/other a rough brick wall] .
+[/EN#65508/people A woman] is sitting in [/EN#65509/other a chair] near [/EN#65510/scene a brick building] .
+[/EN#65508/people A woman] sits in [/EN#65509/other a blue chair] outside [/EN#65510/scene a brick house] .
+[/EN#65508/people This woman] is sitting in [/EN#65509/other a lawnchair] on [/EN#65512/other the sand] .

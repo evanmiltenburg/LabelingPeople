@@ -1,0 +1,5 @@
+[/EN#241475/people A woman] in [/EN#241481/clothing a purple shirt] is looking at [/EN#0/notvisual the camera] and smiling while sewing [/EN#241478/other some material] .
+[/EN#241475/people A seamstress] [/EN#0/notvisual who] had [/EN#241480/people a surprise visitor] at [/EN#241477/other work] .
+[/EN#241475/people A smiling woman] [/EN#0/notvisual who] is sewing on [/EN#241476/other a machine] .
+[/EN#241475/people An middle-age woman] smiling while [/EN#241476/other sewing] .
+[/EN#241475/people Woman] works with [/EN#241476/other her sewing machine] .

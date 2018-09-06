@@ -1,0 +1,5 @@
+[/EN#65992/people A female] in [/EN#65997/clothing blue jean shorts] and [/EN#65993/clothing a black top] sitting in [/EN#65994/other a wicker chair] .
+[/EN#65992/people A happy woman] wearing [/EN#65993/clothing a black tank top] is sitting in [/EN#65994/other a wicker chair] .
+[/EN#65992/people A woman] in [/EN#65993/clothing a black shirt] is sitting on [/EN#65998/bodyparts her feet] in [/EN#65994/other a wooden chair] .
+[/EN#65992/people A woman] sitting in [/EN#65994/other a chair] and smiling at [/EN#0/notvisual the camera] .
+[/EN#65992/people A girl] with [/EN#65996/other a newspaper] in [/EN#65995/other a cafe] .

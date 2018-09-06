@@ -1,0 +1,5 @@
+[/EN#93167/people A man] with [/EN#93170/clothing no shirt] and [/EN#93172/clothing black pants] is playing [/EN#93169/instruments the drums] .
+[/EN#93167/people A shirtless man] is playing [/EN#93168/instruments a red set of drums] .
+[/EN#93167/people A man] with [/EN#93170/clothing no shirt] on playing [/EN#93169/instruments the drums] .
+[/EN#93167/people A shirtless male] plays [/EN#93168/other a red drum set] .
+[/EN#93167/people A man] without [/EN#93171/clothing a shirt] plays [/EN#93169/instruments drums] .

@@ -1,0 +1,5 @@
+[/EN#156426/people One person] takes [/EN#156429/other a walk] with [/EN#156427/animals a dog] in [/EN#156428/other a tree] lined [/EN#156432/scene park] in [/EN#156435/other the morning] in [/EN#156431/other autumn] .
+[/EN#156426/people A person] strolling through [/EN#156430/clothing an orange] tinted [/EN#156436/other woods] with [/EN#156427/animals a dog] .
+[/EN#156426/people A man] is having [/EN#156429/other a walk] with [/EN#156427/animals his dog] during [/EN#156433/scene sunset] .
+[/EN#0/notvisual There] is [/EN#156426/people a person] and [/EN#156427/animals a dog] amongst [/EN#156428/other many trees] .
+[/EN#156426/people a man] and [/EN#156427/animals a dog] stand in [/EN#156434/other the leaves] .

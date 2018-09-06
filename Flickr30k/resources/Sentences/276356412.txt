@@ -1,0 +1,5 @@
+[/EN#71275/animals A dog] goes headfirst into [/EN#71276/scene the long grass] from [/EN#71278/other the sand] .
+[/EN#71275/animals A tan dog] digging [/EN#71279/scene a hole] at [/EN#71278/other the edge of the sand] .
+[/EN#71275/animals A light brown dog] is poking [/EN#71280/bodyparts his head] into [/EN#71276/other brush] .
+[/EN#71275/animals A dog] is digging in [/EN#71278/other the sand] beneath [/EN#71276/scene some grass] .
+[/EN#71275/animals A yellow dog] digs in [/EN#71278/other the sand] near [/EN#71276/scene grass] .

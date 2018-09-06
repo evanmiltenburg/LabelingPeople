@@ -1,0 +1,5 @@
+[/EN#82403/people two skateboarders] wearing [/EN#82407/clothing their helmets] riding down [/EN#82406/scene a street] .
+[/EN#82403/people Two downhill skateboarders] round [/EN#82409/other a curve] while [/EN#82404/other others] watch .
+[/EN#82403/people Two skateboarders] wearing [/EN#82407/clothing helmets] are going around [/EN#82410/other a turn] .
+[/EN#82408/people A man] in [/EN#82411/clothing a white helmet] crouches while [/EN#0/notvisual he] skateboards .
+[/EN#82403/other A group of downhill skateboards] going down [/EN#82406/scene a hill] .

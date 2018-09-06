@@ -1,0 +1,5 @@
+[/EN#67677/people A person] walking up [/EN#67679/scene a snow covered mountain] on [/EN#67680/scene a bright day] .
+[/EN#67677/people a lone man] climbing high on [/EN#67679/scene a snowy mountain] .
+[/EN#67677/people A man] standing on [/EN#67678/scene a mountainside] in [/EN#67679/scene snow] .
+[/EN#67677/people A man] is standing on top of [/EN#67678/scene a glacier] .
+[/EN#67677/people A mountain climber] posing in [/EN#67679/scene the snow] .

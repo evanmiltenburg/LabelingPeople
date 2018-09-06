@@ -1,0 +1,5 @@
+[/EN#204235/people A woman] in [/EN#204239/clothing a white and green blouse] and [/EN#204241/clothing brown pants] pushes [/EN#204237/other a large cart full of plants] .
+[/EN#204235/people A woman] is wheeling [/EN#204236/vehicles a cart] down [/EN#204238/scene a road] as [/EN#204242/other motorcycles] go by in [/EN#0/notvisual both directions] .
+[/EN#204235/people A woman] wearing [/EN#204243/clothing sandals] is pushing [/EN#204236/vehicles a cart] with [/EN#204237/other vegetables] .
+[/EN#204235/people A woman] is pushing [/EN#204236/vehicles a cart] full of [/EN#204237/other food] down [/EN#204238/scene the street] .
+[/EN#204235/people A woman] pushing [/EN#204236/other a cart of fruit] .

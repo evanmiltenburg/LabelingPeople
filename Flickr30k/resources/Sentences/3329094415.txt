@@ -1,0 +1,5 @@
+[/EN#109835/people A man] wearing [/EN#109838/clothing black pants] and [/EN#109839/clothing no shoes] appears to float in [/EN#109837/scene a laundry room] .
+[/EN#109835/people A man] in [/EN#109836/clothing a green shirt] hovers above [/EN#0/notvisual the ground] in [/EN#109837/scene the laundry room] .
+[/EN#109835/people Man] in [/EN#109836/clothing green shirt] and [/EN#109838/clothing black pants] is jumping in [/EN#109837/scene the laundry room] .
+[/EN#109835/people Middle-aged male] jumping straight up in [/EN#109837/scene a laundry room] .
+[/EN#109835/people A man] in [/EN#109836/clothing a green shirt] is jumping in [/EN#109837/scene a laundry room] .

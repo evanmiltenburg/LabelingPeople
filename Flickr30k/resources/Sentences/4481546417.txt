@@ -1,0 +1,5 @@
+[/EN#171984/people A group of five people] are walking down [/EN#171988/scene a street] while [/EN#171986/people one person] is in [/EN#171987/vehicles a motorized scooter] .
+[/EN#171986/people Man] riding [/EN#171987/vehicles a red scooter] passes [/EN#171984/people a group of school children] on [/EN#171988/scene a run down street] .
+[/EN#0/notvisual There] is [/EN#171985/people 6 friends] walking down [/EN#171988/scene the street] .
+[/EN#171984/people A group of people] walk by [/EN#171989/scene a white building] .
+[/EN#171985/people Group of people] strolling down [/EN#171988/scene the street] .

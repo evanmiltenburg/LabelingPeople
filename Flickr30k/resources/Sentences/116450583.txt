@@ -1,0 +1,5 @@
+[/EN#4320/people A man] in [/EN#4321/clothing an orange safety vest] kneels on [/EN#4323/scene a train track] while repairing [/EN#4322/vehicles/scene a passenger train] .
+[/EN#4320/people A man] in [/EN#4321/clothing a safety vest] is kneeling down and working on [/EN#4322/vehicles/scene a train] .
+[/EN#4320/people A man] in [/EN#4321/clothing an orange vest] works on fixing [/EN#4322/vehicles/scene a train] .
+[/EN#4320/people A man] in [/EN#4321/clothing an orange vest] is working on [/EN#4322/vehicles/scene a train] .
+[/EN#4320/people A repairman] is working on [/EN#4322/vehicles/scene a train] .

@@ -1,0 +1,5 @@
+[/EN#63608/people An Asian man] is using [/EN#63613/other a soldering tool] on [/EN#63610/other a green circuit board] while seated at [/EN#63611/other a gray table] .
+[/EN#63608/people One guy] wearing [/EN#63609/clothing black shirt] sitting at [/EN#63611/other table] working on [/EN#63610/other computer project] .
+[/EN#63608/people A man] with [/EN#63609/clothing a black shirt] is repairing [/EN#63612/other a laptop] .
+[/EN#63608/people Asian man] with [/EN#63609/clothing black t-shirt] works on [/EN#63612/other a laptop] .
+[/EN#63608/people This man] is working on [/EN#63610/other the circuit board] .

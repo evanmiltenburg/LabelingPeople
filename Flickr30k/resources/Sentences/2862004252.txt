@@ -1,0 +1,5 @@
+[/EN#77417/animals a smal hound dog] walking through [/EN#77418/scene the grass outside] .
+[/EN#77417/animals A brown and tan dog] walks through [/EN#77418/scene the green grass] .
+[/EN#77417/animals A black and tan dog] standing in [/EN#77418/scene a field] near [/EN#77419/other trees]
+[/EN#77417/animals The dog] is walking through [/EN#77418/scene a grassy area] .
+[/EN#77417/animals A beagle] walks through [/EN#77418/scene the grass] .

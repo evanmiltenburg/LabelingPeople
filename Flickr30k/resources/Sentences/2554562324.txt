@@ -1,0 +1,5 @@
+[/EN#57785/people A person] in [/EN#57786/clothing a red shirt] is climbing [/EN#57787/other a tree branch] in [/EN#57789/other a forrest] .
+[/EN#57785/people A woman] dressed in [/EN#57786/clothing pink] , sitting on [/EN#57787/other a log] in [/EN#57790/scene a forested area] .
+[/EN#57785/people A red-haired woman] in [/EN#57786/clothing a pink shirt] attempts to descend [/EN#57787/other a tree] .
+[/EN#57785/people A woman] in [/EN#57786/clothing a pink top] and [/EN#57788/clothing blue pants] sits in [/EN#57787/other an oak tree] .
+[/EN#57785/people Young female] climbing [/EN#57787/other a tree] .

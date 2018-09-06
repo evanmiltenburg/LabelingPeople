@@ -1,0 +1,5 @@
+[/EN#263035/people A man] with [/EN#263036/clothing an olive green shirt] and [/EN#263040/bodyparts messy hair] plays [/EN#263038/other a colorful drum set] .
+[/EN#263035/people drummer] dressed in [/EN#263036/clothing a brown shirt] playing [/EN#263037/instruments multicolored drums] .
+[/EN#263035/people A sweaty drummer] feels [/EN#263039/other the music] as [/EN#0/notvisual he] drums away .
+[/EN#263035/people A man] playing [/EN#263037/instruments drums] on [/EN#263041/scene stage] .
+[/EN#263035/people A man] is playing [/EN#263037/instruments the drums] .

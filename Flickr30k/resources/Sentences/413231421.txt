@@ -1,0 +1,5 @@
+[/EN#156560/animals Dog] on [/EN#156564/other leash burrows] into [/EN#156562/scene snow] in [/EN#156562/scene rural area] .
+[/EN#156560/animals The large black dog] is digging in [/EN#156562/scene the snow] .
+[/EN#156560/animals A black dog] is digging in [/EN#156562/scene the snow] .
+[/EN#156560/animals A dog] buries [/EN#156561/bodyparts its head] in [/EN#156562/scene the snow] .
+[/EN#156560/animals Dog] with [/EN#156561/bodyparts head] in [/EN#156562/scene snow] .

@@ -1,0 +1,5 @@
+[/EN#224642/people A woman] is walking through [/EN#224645/scene a dark hallway] out into [/EN#224643/scene an open street] .
+[/EN#224642/people A woman] with [/EN#224644/clothing a shopping bag] walking toward [/EN#224643/scene a street] .
+[/EN#224642/people Woman] leaves with [/EN#224644/clothing her shopping bag] in [/EN#224647/bodyparts hand] .
+[/EN#224642/people A woman] walking out of [/EN#224646/scene a shopping center] .
+[/EN#224642/people The lady] walks out to [/EN#224643/scene the street] .

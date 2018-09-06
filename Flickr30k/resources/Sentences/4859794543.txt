@@ -1,0 +1,5 @@
+[/EN#212032/people A group of carnival goers] mingle around [/EN#212033/scene a booth] with [/EN#212034/other a large white contraption] .
+[/EN#212032/people A group of people] at [/EN#212040/scene an outside event] , [/EN#212036/other some pouring beers] , [/EN#212041/other others] chatting .
+[/EN#212032/people A group of people] gathered around [/EN#212033/scene a booth] selling [/EN#212035/other tap beer] .
+[/EN#212036/people A man] is pouring [/EN#212035/other beer] into [/EN#212035/other a cup] at [/EN#212039/scene an outdoor event] .
+[/EN#212037/people Two men] are serving [/EN#212035/other beer] from [/EN#212034/other a tap] .

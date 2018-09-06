@@ -1,0 +1,5 @@
+[/EN#184386/people A young boy] holding [/EN#184394/other a toy] stands on [/EN#184388/other a stool] in [/EN#184390/scene the shower] , looking at [/EN#0/notvisual the camera] .
+[/EN#184386/people Little boy] in [/EN#184389/clothing a red shirt] and [/EN#184391/clothing tan pants] standing on [/EN#184388/other a step stool] in [/EN#184390/scene a shower] .
+[/EN#184386/people A young boy] wearing [/EN#184389/clothing a red shirt] , standing on top of [/EN#184388/other a bench] in [/EN#184390/scene the shower] .
+[/EN#184386/people A young boy] in [/EN#184389/clothing a red shirt] stands on [/EN#184388/other a stool] in [/EN#184393/other a bathtub] .
+[/EN#184386/people A child] stands in [/EN#184390/scene a shower] with [/EN#184392/clothing clothes] on .

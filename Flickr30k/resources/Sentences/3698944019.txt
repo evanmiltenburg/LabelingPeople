@@ -1,0 +1,5 @@
+[/EN#137733/people A blond toddler] in [/EN#137736/clothing a white shirt] and [/EN#137735/clothing green pants] standing at [/EN#137734/scene a wooden fence] .
+[/EN#137733/people A blond toddler] in [/EN#137737/other green trousers peeks] through [/EN#137734/scene a fence] .
+[/EN#137733/people A toddler] in [/EN#137735/clothing green shorts] is standing by [/EN#137734/scene a wooden fence] .
+[/EN#137733/people A blond little boy] is standing by [/EN#137734/scene a fence] .
+[/EN#137733/people A toddler] walks along [/EN#137734/scene a fence] .

@@ -1,0 +1,5 @@
+[/EN#108019/people A man] in [/EN#108027/clothing a white shirt] , [/EN#108028/clothing black tie] and [/EN#108022/clothing a large blue hat] is leaning over writing on [/EN#108026/other a tablet of paper] while [/EN#108025/people other people] are sitting around [/EN#108021/scene a bar] like [/EN#108030/other table] eating with [/EN#108029/other chopsticks] .
+[/EN#108019/people A chef] in [/EN#108022/clothing a blue hat] bends over in front of [/EN#108025/people people] while [/EN#0/notvisual they] are eating .
+[/EN#108019/people A chef] is cooking in front of [/EN#108025/people customers] in [/EN#108020/scene a restaurant] .
+[/EN#108019/people A waiter] reviewing [/EN#108024/other an order] to make sure [/EN#0/notvisual it] is correct .
+[/EN#108019/people A waiter] taking [/EN#108023/other orders] for [/EN#108025/people customers] .

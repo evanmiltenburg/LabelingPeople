@@ -1,0 +1,5 @@
+[/EN#205933/people A man] holding [/EN#205937/other the American flag] is standing next to [/EN#205942/scene a stage] where [/EN#205935/people another man] is standing behind [/EN#205938/scene the podium] .
+[/EN#205933/people A man] in [/EN#205936/clothing a black suit] holds up [/EN#205937/other an American flag] as [/EN#205935/people another man] in [/EN#205943/clothing a suit] stands at [/EN#205938/scene a podium] .
+[/EN#205933/people A man] in [/EN#205936/clothing a suit] is holding [/EN#205937/other an American flag] next to [/EN#205939/other a white screen] with [/EN#205940/other a logo] on [/EN#0/notvisual it] .
+[/EN#205934/people A speaker] at [/EN#205938/scene a podium] and [/EN#205933/people a man] with [/EN#205937/other an American flag] stand by [/EN#205939/other a presentation screen] .
+[/EN#205933/people A man] is making [/EN#205941/other a speech] .

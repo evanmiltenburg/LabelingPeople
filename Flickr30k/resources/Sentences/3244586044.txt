@@ -1,0 +1,5 @@
+[/EN#103820/animals A white greyhound dog] wearing [/EN#103821/other the number eight] is running on [/EN#103822/scene a track] .
+[/EN#103820/animals The muzzled dog] with [/EN#103821/other the number] [/EN#103821/other eight races] on [/EN#103822/scene the dirt] track .
+[/EN#103820/animals A greyhound] in [/EN#103826/clothing a black and yellow shirt] is racing .
+[/EN#103820/animals A dog] wearing [/EN#103821/other a number] " [/EN#103820/other 8 " races] on [/EN#103822/scene a track] .
+[/EN#103820/animals A dog] runs in [/EN#103825/other a race] .

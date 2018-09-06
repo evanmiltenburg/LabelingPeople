@@ -1,0 +1,5 @@
+[/EN#275680/people A little girl] and [/EN#275683/animals her stuffed monkey] seated on [/EN#275681/other a ride] above [/EN#275682/scene the fairgrounds] .
+[/EN#275680/people A little girl] sits on [/EN#275684/scene a Farris wheel seat] next to [/EN#275683/animals a giant stuffed animal] .
+[/EN#275680/people A girl] sits on [/EN#275681/other a ride] with [/EN#275683/animals a stuffed animal] next to [/EN#0/notvisual her] above [/EN#275685/other a carnival] .
+[/EN#275680/people A girl] in [/EN#275686/clothing a pink shirt] on [/EN#275681/other a carnival ride] with [/EN#275683/animals a huge stuffed animal] .
+[/EN#275680/people Girl] and [/EN#275683/animals large stuffed animal] riding [/EN#275681/other an amuseument ride] over [/EN#275682/scene a fair] .

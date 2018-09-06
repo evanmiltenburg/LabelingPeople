@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#29435/vehicles/scene a white boat] in [/EN#29436/scene the bay] with [/EN#29439/scene a city] in [/EN#0/notvisual the background] .
+[/EN#29440/vehicles/scene A few boats] ride in [/EN#29436/scene the water] in front of [/EN#29439/scene a city skyline] .
+[/EN#29435/vehicles/scene A white boat] is cruising near [/EN#29437/scene a large city backdrop] .
+[/EN#29442/vehicles Small yachts] in [/EN#29436/scene harbor] , [/EN#29437/scene city] in [/EN#0/notvisual background] .
+[/EN#29435/vehicles/scene A large boat] drives through [/EN#29436/scene the harbor] .

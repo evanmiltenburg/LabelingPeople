@@ -1,0 +1,5 @@
+[/EN#166953/people A man] with [/EN#166954/clothing a black sweatshirt] and [/EN#166958/clothing an earring] is sitting in [/EN#166957/vehicles a car] in front of [/EN#166955/people a girl] with [/EN#166960/clothing a white shirt] .
+[/EN#166953/people A man] wearing [/EN#166954/clothing a dark shirt] is sitting next to [/EN#166959/clothing a white hat] and sleeping .
+[/EN#166956/vehicles Two young adult passengers of a vehicle] are sleeping .
+[/EN#166953/people A man] and [/EN#166955/people woman] sleep on [/EN#166961/vehicles/scene a bus] while [/EN#0/notvisual it] travels .
+[/EN#166953/people A young man] and [/EN#166955/people a woman] are sleeping in [/EN#166962/other a van] .

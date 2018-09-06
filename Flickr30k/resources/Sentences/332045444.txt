@@ -1,0 +1,5 @@
+[/EN#109204/animals A little white curly-haired dog] runs across [/EN#109209/scene the pavement] with [/EN#109206/other a stick] in [/EN#109207/bodyparts its mouth] .
+[/EN#109204/animals A white dog] is carrying [/EN#109206/other a stick] in [/EN#109207/bodyparts its mouth] while running across [/EN#109205/scene flat land] .
+[/EN#109204/animals A poodle] running along [/EN#109205/scene a beach] carrying [/EN#109206/other a stick] in [/EN#109207/bodyparts its mouth] .
+[/EN#109204/animals A white dog] with [/EN#109208/bodyparts curly hair] runs on [/EN#109210/other the sand] with [/EN#109206/other a stick] .
+[/EN#109204/animals A white curly-haired dog] runs with [/EN#109206/other a stick] in [/EN#109207/bodyparts its mouth] .

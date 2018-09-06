@@ -1,0 +1,5 @@
+[/EN#136990/people A child] in [/EN#136995/clothing a life jacket] jumps into [/EN#136994/scene the pool] with [/EN#136991/people the help of a man] in [/EN#136996/clothing goggles] .
+[/EN#136990/people A little girl] jumps into [/EN#136994/scene a pool] while [/EN#136991/people a man] helps to catch [/EN#0/notvisual her] .
+[/EN#136990/people A child] jumps off [/EN#136994/scene the edge of a pool] into [/EN#136993/bodyparts a man 's arms] .
+[/EN#136991/people A man] helps [/EN#136990/people a child] jump into [/EN#136994/scene a swimming pool] .
+[/EN#136991/people A man] playing with [/EN#136990/people a small child] in [/EN#136994/scene a pool] .

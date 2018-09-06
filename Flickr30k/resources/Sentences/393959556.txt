@@ -1,0 +1,5 @@
+[/EN#148838/people A woman] is eating near [/EN#148840/scene an outdoor fruit stall] full of [/EN#148847/other pineapples] and [/EN#148843/other melons] .
+[/EN#148838/people A woman] dressed in [/EN#148839/clothing red] , is eating [/EN#148841/other fruit] at [/EN#148840/scene a fruit stand] .
+[/EN#148838/people A white female] is outside in [/EN#148844/scene a market] looking at [/EN#148842/other fruit] .
+[/EN#148838/people A woman] in [/EN#148839/clothing a dress] sampling [/EN#148846/other fruit] at [/EN#148845/people an outdoor vendor] .
+[/EN#148838/people A woman] tastes [/EN#148841/other a watermelon] at [/EN#148840/scene an outdoor market] .

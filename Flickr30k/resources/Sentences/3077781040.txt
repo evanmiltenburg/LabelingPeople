@@ -1,0 +1,5 @@
+[/EN#91704/people A biker] is running with [/EN#91705/vehicles his bike] in [/EN#91709/bodyparts his hands] up [/EN#91706/scene a ramp] .
+[/EN#91704/people A bicycle racer] runs up [/EN#91706/scene a ramp] with [/EN#91705/vehicles his bike] .
+[/EN#91704/people a man] runs with [/EN#91705/vehicles his bike] .
+[/EN#91704/people A man] carrying [/EN#91705/vehicles a bicycle] .
+[/EN#91704/people Man] sits on [/EN#91705/vehicles bike] in [/EN#0/notvisual air] .

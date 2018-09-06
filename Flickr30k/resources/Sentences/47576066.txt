@@ -1,0 +1,5 @@
+[/EN#199506/people A black lady] is sitting on [/EN#199509/other a chair] with [/EN#199508/vehicles a cart] full of [/EN#199510/clothing bags] setting beside [/EN#0/notvisual her] and [/EN#199507/other a brick wall] with [/EN#199507/other graffiti] and [/EN#199515/scene a chain link fence] behind [/EN#0/notvisual her] .
+[/EN#199506/people Woman] sitting on [/EN#199509/other chair] with [/EN#199508/other belongings] in [/EN#199508/vehicles metal cart] in front of [/EN#199514/other spray] painted [/EN#199507/other graffiti] .
+[/EN#199506/people A lady] sits in [/EN#199509/other a chair] , in front of [/EN#199507/other a graffiti covered wall] with [/EN#199508/vehicles a cart] full of [/EN#199510/clothing bags] .
+[/EN#199506/people A homeless african american woman] sits in [/EN#199509/other a chair] with [/EN#199508/other her belongings] next to [/EN#0/notvisual her] .
+[/EN#199506/people An african american woman] sitting on [/EN#199509/other a chair] by [/EN#199507/other a graffitied wall] .

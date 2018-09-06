@@ -1,0 +1,5 @@
+[/EN#126102/animals The white dog] is chasing [/EN#126104/other a toy] [/EN#0/notvisual that] is attached to [/EN#126103/other a string] across [/EN#126106/scene the grass] .
+[/EN#126102/animals A white dog] is chasing [/EN#126105/animals a stuffed animal] being pulled on [/EN#126103/other a string] .
+[/EN#126102/animals A white and black dog] chases after [/EN#126107/other a decoy-animal] on [/EN#126103/other a string] .
+[/EN#126102/animals A dog] chases [/EN#126105/animals a stuffed animal] attached to [/EN#126103/other a string] .
+[/EN#126102/animals The white dog] is running in [/EN#126106/scene the green grass] .

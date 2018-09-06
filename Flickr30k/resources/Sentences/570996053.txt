@@ -1,0 +1,5 @@
+[/EN#241391/people A female] in [/EN#241398/clothing blue jeans] , [/EN#241395/clothing a florescent yellow shirt] and [/EN#241396/clothing a hard hat] is climbing [/EN#241393/other a tree] using [/EN#241392/other a piece of orange , yellow and red equipment] .
+[/EN#241391/people Someone] in [/EN#241395/clothing a lime green shirt] is holding on to [/EN#241393/other a tree] .
+[/EN#241391/people A construction worker] is attempting to climb [/EN#241393/other a tree] .
+[/EN#241391/people Arborist] tries to climb [/EN#241393/other tree] .
+[/EN#241391/people A worker] clinging to [/EN#241393/other a tree] .

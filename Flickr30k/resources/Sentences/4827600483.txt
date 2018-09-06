@@ -1,0 +1,5 @@
+[/EN#207963/people This young girl] is wearing [/EN#207965/clothing a red and black checkered shirt] .
+[/EN#207963/people A woman] wearing [/EN#207965/clothing a plaid shirt] sits on [/EN#207964/other a bench] in [/EN#207967/scene a park] .
+[/EN#207963/people A young woman] sitting watching on [/EN#207964/other a bench] by [/EN#0/notvisual herself] .
+[/EN#207963/people A young female] relaxing on [/EN#207964/other a bench] near [/EN#207966/other a tree] .
+[/EN#207963/people A young woman] sitting alone on [/EN#207964/other a park bench] .

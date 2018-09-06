@@ -1,0 +1,5 @@
+[/EN#96810/people A man] standing on [/EN#96815/scene a street] with [/EN#96818/other a suitcase] in front of [/EN#0/notvisual him] while [/EN#96810/people another man] bends down to look at [/EN#0/notvisual what] is displayed on top of [/EN#0/notvisual it] .
+[/EN#96810/people A man] wearing [/EN#96814/clothing a red hat] looks down as [/EN#96812/people another man] watches .
+[/EN#96812/people Two men] are standing on [/EN#96815/scene the street] covered in [/EN#96819/other graffiti] .
+[/EN#96812/people A man] in [/EN#96816/clothing a black hoodie] watching [/EN#96810/people a man] in [/EN#96814/clothing a red cap] .
+[/EN#96812/people Two people] on [/EN#96815/scene a street] , [/EN#96810/people one person] looking down .

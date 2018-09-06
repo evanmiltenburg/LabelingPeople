@@ -1,0 +1,5 @@
+[/EN#233784/people Person] with [/EN#233793/clothing a pageboy hat] , [/EN#233786/clothing plaid shirt] , and [/EN#233788/clothing jeans] , holding [/EN#233787/other a large lump of plant life] , standing near [/EN#233785/vehicles a wagon] full of [/EN#233789/other the same plant life] [/EN#0/notvisual that] [/EN#0/notvisual they] are holding .
+[/EN#233784/people A man] wearing [/EN#233788/clothing blue jeans] and [/EN#233786/clothing a dark plaid shirt] is carrying [/EN#233787/other dried hay] .
+[/EN#233784/people A man] in [/EN#233791/scene a field] with [/EN#233796/other rocks] , standing next to [/EN#233794/other cart full of greenery] .
+[/EN#233784/people A man] is putting [/EN#233795/scene grass] onto [/EN#233785/vehicles a car] pulled by [/EN#233792/other a lawn mower] .
+[/EN#233784/people A man] outdoors is placing [/EN#233789/other plants] in [/EN#233785/vehicles a cart] .

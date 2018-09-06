@@ -1,0 +1,5 @@
+[/EN#119258/animals A brown dog] holding [/EN#119259/other an object] in [/EN#119261/bodyparts its mouth] is moving through [/EN#119260/scene snow-covered tall grass outdoors] .
+[/EN#119258/animals A black dog] is running through [/EN#119260/scene a snow covered area] while holding [/EN#119259/other something] green in [/EN#119261/bodyparts his mouth] .
+[/EN#119258/animals A black dog] with [/EN#119263/animals a stuffed animal] in [/EN#119261/bodyparts its mouth] is running and jumping through [/EN#119260/scene a snowy field] .
+[/EN#119258/animals A black dog] is moving through [/EN#119260/scene a snowy field] with [/EN#119262/other an object] in [/EN#119261/bodyparts their mouth] .
+[/EN#119258/animals A dog] carreis [/EN#119259/other an object] through [/EN#119260/scene the snowy grass] .

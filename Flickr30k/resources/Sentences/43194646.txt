@@ -1,0 +1,5 @@
+[/EN#162888/people A man] with [/EN#162889/clothing a brown suit jacket] playing [/EN#162891/instruments the piano] and singing into [/EN#162890/other a microphone] .
+[/EN#162888/people A man] speaking or singing into [/EN#162890/other a microphone] while playing [/EN#162891/instruments the piano] .
+[/EN#162888/people A man] in [/EN#162889/clothing a blazer] is playing [/EN#162891/instruments piano] and singing into [/EN#162890/other a microphone] .
+[/EN#162888/people A young man] plays [/EN#162891/instruments the piano] and sings in [/EN#162892/other a concert] .
+[/EN#162888/people A man] sits and performs at [/EN#162891/instruments a piano]

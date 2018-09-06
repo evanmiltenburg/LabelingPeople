@@ -1,0 +1,5 @@
+[/EN#120710/people A young woman] wearing [/EN#120713/clothing a yellow shirt] and [/EN#120714/clothing off-white shorts] is reading [/EN#120712/other a book] while sitting on [/EN#120711/other a park bench] .
+[/EN#120710/people A man] with [/EN#120715/bodyparts black hair] is lying across [/EN#120711/other a park bench] reading [/EN#120712/other a book] .
+[/EN#120710/people A woman] is sitting on [/EN#120711/other a bench reading] in [/EN#120716/scene a park] .
+[/EN#120710/people Woman] reading [/EN#120712/other a book] on [/EN#120711/other a park bench] outside .
+[/EN#120710/people A woman] sitting on [/EN#120711/other a bench] reading [/EN#120712/other a book] .

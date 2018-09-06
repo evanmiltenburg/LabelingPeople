@@ -1,0 +1,5 @@
+[/EN#170403/people A bald man] in [/EN#170411/clothing a white sweater] , [/EN#170406/clothing brown jacket] and [/EN#170413/clothing gray pants] walks toward [/EN#170405/people a bearded man] wearing [/EN#170410/clothing a white hat] and [/EN#170407/clothing gray sweatshirt] on [/EN#170409/scene a street] .
+[/EN#170403/people A man] in [/EN#170406/clothing a leather jacket] and [/EN#170412/clothing glasses] walks across [/EN#170408/scene an intersection] while [/EN#170405/people a man] in [/EN#170407/clothing a gray sweatshirt] and [/EN#170410/clothing white hat] looks on .
+[/EN#170403/people A man] in [/EN#170406/clothing a brown jacket] crosses [/EN#170408/scene the street] towards [/EN#170405/people another man] in [/EN#170410/clothing a white hat] .
+[/EN#170403/people A man] holding walking in [/EN#170409/scene the street] looking away from [/EN#170405/people a beggar] .
+[/EN#170403/people A middle eastern man] walking across [/EN#170409/scene a street] .

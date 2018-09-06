@@ -1,0 +1,5 @@
+[/EN#101566/people A person] is standing on [/EN#101567/other a tree] in [/EN#0/notvisual a ground] .
+[/EN#101566/people A blond] in [/EN#101568/clothing a green jacket] climbs [/EN#101567/other a tree] .
+[/EN#101566/people Blond man] in [/EN#101570/clothing jeans] climbs [/EN#101567/other tree] in [/EN#101571/scene park] .
+[/EN#101566/people A person] climbing [/EN#101567/other a tree] .
+[/EN#101566/people A woman] climbs up [/EN#101567/other a tree] .

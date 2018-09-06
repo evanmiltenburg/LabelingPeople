@@ -1,0 +1,5 @@
+[/EN#9478/people An old man] holding [/EN#9481/other a camera] while walking [/EN#9479/animals a small brown dog] .
+[/EN#9478/people an elderly man] is walking [/EN#9479/animals a brown dog] using [/EN#9484/clothing a red leash] .
+[/EN#9478/people An elderly man] takes [/EN#9479/animals his dog] for [/EN#9483/other a walk] near [/EN#9480/scene the water] .
+[/EN#9478/people A man] and [/EN#9479/animals a dog] stand on [/EN#9482/scene a hill] overlooking [/EN#9480/scene water] .
+[/EN#9478/people a man] walks [/EN#9479/animals his dog] near [/EN#9480/scene the ocean] .

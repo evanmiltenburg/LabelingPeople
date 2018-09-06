@@ -1,0 +1,5 @@
+[/EN#85310/animals A German shepherd breed dog] is jumping through [/EN#85311/other a hoop] with [/EN#85313/people onlookers] .
+[/EN#85310/animals/people A German Shepherd] jumping through [/EN#85311/other a black hoop] in front of [/EN#85313/people spectators]
+[/EN#85310/animals/people German Shepherd] jumping through [/EN#85311/other black hoop] while [/EN#85312/people people] watch
+[/EN#85310/animals A dog] jumps through [/EN#85311/other a hoop] while [/EN#85312/people the crowd] watches .
+[/EN#85310/animals A dog] jumps through [/EN#85311/other a hoop] .

@@ -1,0 +1,5 @@
+[/EN#84852/people A woman] dressed in [/EN#84859/clothing a black and red top] , [/EN#84860/clothing black pants] and [/EN#84861/clothing sunglasses] holds [/EN#84854/other a disposable bowl] next to [/EN#84856/people another woman] dressed in [/EN#84862/clothing a black top] and [/EN#84863/clothing sunglasses] and [/EN#84848/people a man] dressed in [/EN#84864/clothing a red shirt] ; [/EN#0/notvisual they] are all standing behind [/EN#84849/other a table] with [/EN#84850/other various food items] on [/EN#0/notvisual it] .
+[/EN#84847/people Two women] and [/EN#84848/people a man] are standing next to [/EN#84849/other a picnic table] covered in [/EN#84850/other food] and [/EN#84858/scene water] .
+[/EN#84851/other An outdoor event picnic] where [/EN#84853/people a couple people] are gathered around [/EN#84855/scene an island] .
+[/EN#84847/people Two women] and [/EN#84848/people a man] stand together [/EN#84857/other an talk] over [/EN#84850/other food] on [/EN#84849/other a table] .
+[/EN#84847/people Two women] and [/EN#84848/people a man] standing by [/EN#84849/other a table] with [/EN#84850/other food] on [/EN#0/notvisual it] .

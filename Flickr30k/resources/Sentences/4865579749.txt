@@ -1,0 +1,5 @@
+[/EN#212838/people A man] in [/EN#212839/vehicles an automobile] holding [/EN#212840/other a white and green plastic cup] smiles at [/EN#0/notvisual the camera] .
+[/EN#212838/people A man] is sitting in [/EN#212839/vehicles a classic automobile] while smiling and holding [/EN#212840/other a plastic cup] .
+[/EN#212838/people Man] smiling with [/EN#212840/other a green cup] in [/EN#212841/bodyparts his hand] driving [/EN#212839/vehicles an older model car] .
+[/EN#212838/people A man] smiling while driving and drinking from [/EN#212840/other a large cup] .
+[/EN#212838/people a man] driving [/EN#212839/vehicles a car] holding [/EN#212840/other a fast food cup]

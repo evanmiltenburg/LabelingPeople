@@ -1,0 +1,5 @@
+[/EN#11306/people A man] dressed in [/EN#11307/clothing all black] is holding [/EN#11308/other a stick] and wearing [/EN#11310/clothing black goggles] .
+[/EN#11306/people A man] dressed in [/EN#11309/clothing black] wearing [/EN#11311/other odd headgear swings] [/EN#11308/other a staff] .
+[/EN#11306/people A man] dressed in [/EN#11309/clothing black] is playing with [/EN#11308/scene a bar] .
+[/EN#11306/people A man] dressed in [/EN#11307/clothing all black] holding [/EN#11308/other a pole] .
+[/EN#11306/people An adult] dressed in [/EN#11309/clothing black] holds [/EN#11308/other a stick] .

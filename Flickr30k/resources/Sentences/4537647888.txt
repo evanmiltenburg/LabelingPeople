@@ -1,0 +1,5 @@
+[/EN#176357/people A trash man] pushes [/EN#176359/vehicles his cart] past [/EN#176364/other a sign] [/EN#0/notvisual that] says " [/EN#176362/other Entrada] " and [/EN#176363/people a picture of a man] emblazoned on [/EN#176363/other the wall] .
+[/EN#176357/people A sanitation worker] in [/EN#176361/clothing bright yellow safety garb] hauls [/EN#176365/other bins] down [/EN#176358/scene a sidewalk] .
+[/EN#176357/people A man] in [/EN#176368/clothing neon green clothing] pushes [/EN#176359/vehicles a green cart] down [/EN#176358/scene the street] .
+[/EN#176357/people City worker] in [/EN#176361/other yellow safety gear] pushing [/EN#176359/vehicles a green trash cart] .
+[/EN#176358/scene A street] [/EN#176366/other sweeper patrols] [/EN#176358/scene the sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#0/notvisual it] is [/EN#22574/other nighttime] , [/EN#22567/people two men] standing on [/EN#22571/scene the street] , and [/EN#0/notvisual one of them] is reading [/EN#22577/other something] .
+[/EN#22567/people Two men] standing in [/EN#22573/clothing dark clothing] at [/EN#22568/other a bus stop] , [/EN#22566/other one] is reading [/EN#22569/other the newspaper] .
+[/EN#22566/people A man] in [/EN#22572/clothing a suit] is reading [/EN#22569/other a newspaper] while waiting for [/EN#22570/vehicles/scene a bus] .
+[/EN#22566/people A man] is standing at [/EN#22568/other a bus stop] reading [/EN#22569/other a paper] .
+[/EN#22567/people Two men] waiting at [/EN#22568/other a bus stop] .

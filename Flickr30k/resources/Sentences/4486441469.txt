@@ -1,0 +1,5 @@
+[/EN#172481/people A black male] is standing by [/EN#0/notvisual himself] on [/EN#172483/scene a sidewalk] with [/EN#172489/people two people] walking in [/EN#0/notvisual the background] , [/EN#172481/people man] is wearing [/EN#172482/clothing a black argyle sweater] with [/EN#172490/clothing blue , green , and white] on [/EN#0/notvisual it] with [/EN#172482/clothing a shirt] hanging out under [/EN#172480/clothing , blue jeans] and [/EN#172491/other blank canvas] looking [/EN#172488/clothing shoes] .
+[/EN#172481/people A man] in [/EN#172482/clothing a diamond print sweater] and [/EN#172480/clothing jeans] stands in [/EN#172483/scene the middle of a sidewalk] listening to [/EN#172484/clothing earbuds] .
+[/EN#172481/people A man] with [/EN#172484/clothing earphones] in [/EN#172492/bodyparts his ears] is standing in [/EN#172483/scene the middle of a sidewalk] .
+[/EN#172481/people A man] in [/EN#172482/clothing an argyle sweater] and [/EN#172480/clothing jeans] is standing in [/EN#172485/scene the city] .
+[/EN#172481/people A man] in [/EN#172482/clothing a sweater] and [/EN#172480/clothing jeans] is listening to [/EN#172484/clothing headphones] .

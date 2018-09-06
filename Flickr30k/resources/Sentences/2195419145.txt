@@ -1,0 +1,5 @@
+[/EN#33465/people A businessman] and [/EN#33466/people a security guard] are smiling and talking outside [/EN#33469/scene a glass building] .
+[/EN#33465/people A man] and [/EN#33466/people a police officer] are smiling at [/EN#33468/people the photographer] .
+[/EN#33465/people A man] in [/EN#33470/clothing a suit] and [/EN#33466/people an officer] smile for [/EN#0/notvisual the camera] .
+[/EN#33465/people a man] and [/EN#33466/people a police officer] talk to [/EN#0/notvisual each other] .
+[/EN#33465/people A man] and [/EN#33466/people a guard] laugh together .

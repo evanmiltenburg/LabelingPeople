@@ -1,0 +1,5 @@
+[/EN#149518/people People] are waiting for [/EN#149522/vehicles/scene the subway] on [/EN#149519/other the outdoor platform] .
+[/EN#149518/people A group of people] are outside waiting for [/EN#149520/vehicles/scene the train] .
+[/EN#149518/people People] are walking outdoors along [/EN#149519/other a train platform] .
+[/EN#149518/people A group of travelers] are waiting on [/EN#149520/vehicles/scene their train] .
+[/EN#149518/people People] strolling or standing on [/EN#149519/scene a street] .

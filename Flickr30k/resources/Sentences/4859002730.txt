@@ -1,0 +1,5 @@
+[/EN#211851/people A conductor] getting ready to give [/EN#211852/people a child] [/EN#211854/other a ride] on [/EN#211853/vehicles/scene the train] .
+[/EN#211851/people A man] is standing with [/EN#211852/people a small child] by [/EN#211855/vehicles/scene a train] .
+[/EN#211851/people A man] and [/EN#211852/people a boy] are standing next to [/EN#211853/vehicles/scene a train] .
+[/EN#211851/people A conductor] gives [/EN#211852/people a kid] [/EN#211853/vehicles/scene a tour of the train] .
+[/EN#211852/people A little boy] standing beside [/EN#211853/vehicles/scene a train] .

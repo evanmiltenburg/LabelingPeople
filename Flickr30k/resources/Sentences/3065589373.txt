@@ -1,0 +1,5 @@
+[/EN#91110/people Two men] wearing [/EN#91109/clothing red caps] are cooking and serving [/EN#91108/other grilled food] on [/EN#91111/vehicles/scene a boat] .
+[/EN#91105/people Men] in [/EN#91109/clothing red hats] and [/EN#91114/clothing black and yellow vests] cooking [/EN#91107/animals fish] .
+[/EN#91106/people People] are getting [/EN#91108/other food] from [/EN#91112/scene a food stand] by [/EN#91116/scene the water] .
+[/EN#91105/people Men] in [/EN#91109/clothing red hats] aboard [/EN#91113/other a ship] are preparing [/EN#91108/other food] .
+[/EN#91106/people Vendors] are selling [/EN#91107/animals grilled fish] by [/EN#91115/other the seashore] .

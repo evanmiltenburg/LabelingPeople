@@ -1,0 +1,5 @@
+[/EN#78600/animals A black and white dog] runs towards [/EN#0/notvisual the camera] .
+[/EN#78600/animals A white and black dog] runs on [/EN#78601/scene the grass] .
+[/EN#78600/animals The white and black dog] is on [/EN#78601/scene the grass] .
+[/EN#78600/animals a white dog] jumping towards [/EN#0/notvisual the camera]
+[/EN#78602/clothing Black] and [/EN#78600/animals white dog] running outside .

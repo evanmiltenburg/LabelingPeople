@@ -1,0 +1,5 @@
+[/EN#184050/people Three ballet dancers] wearing [/EN#184049/clothing red] dance on [/EN#184048/scene a red-lit stage] .
+[/EN#184047/people Three women] are dancing on [/EN#184048/scene a stage] bathed in [/EN#184052/other red light] .
+[/EN#184047/people Two ballerinas] wearing [/EN#184049/clothing red] and performing on [/EN#184048/scene stage] .
+[/EN#184047/people Several ballerinas] dressed in [/EN#184049/clothing red] are dancing .
+[/EN#184051/people two ballerina dancers] performing on [/EN#184048/scene a stage] .

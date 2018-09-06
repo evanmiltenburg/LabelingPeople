@@ -1,0 +1,5 @@
+[/EN#58282/people Two blond children] are asleep in [/EN#58283/other a bed] facing [/EN#0/notvisual each other] .
+[/EN#58284/people A young boy] and [/EN#58285/people girl] are sleeping in [/EN#58283/other a bed] .
+[/EN#58282/people Two children] sleeping next to [/EN#0/notvisual each other] .
+[/EN#58282/people Two children] sleeping in [/EN#58283/other a bed] .
+[/EN#58282/people Kids] sleeping in [/EN#58283/other a big bed] .

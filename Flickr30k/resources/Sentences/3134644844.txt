@@ -1,0 +1,5 @@
+[/EN#95875/people A man] with [/EN#95875/instruments a guitar] playing to [/EN#95876/people an ill little girl] in [/EN#95879/other a hospital bed] .
+[/EN#95875/people A man] is playing [/EN#95875/instruments a guitar] for [/EN#95876/people a little girl] in [/EN#95878/scene a hospital] .
+[/EN#95875/people A man] is playing [/EN#95875/instruments the guitar] for [/EN#95876/people a child] in [/EN#95879/other a hospital bed]
+[/EN#95875/people A man] plays [/EN#95875/instruments a guitar] for [/EN#95876/people a sick child] in [/EN#95878/scene a hospital]
+[/EN#95875/people A man] plays [/EN#95875/instruments guitar] for [/EN#95876/people a girl] in [/EN#95878/scene the hospital] .

@@ -1,0 +1,5 @@
+[/EN#275108/people A biker] in [/EN#275111/clothing blue] rides just ahead [/EN#275109/people a biker] in [/EN#275118/clothing white] down [/EN#275106/scene a gravel path] .
+[/EN#275105/people two bicyclists] in [/EN#275115/other spandex] and [/EN#275112/clothing helmets] in [/EN#275110/other a race] pedaling uphill .
+[/EN#275105/people 2 bikers] are on [/EN#275106/scene a rocky dirt trail] and [/EN#275113/other number 3] is in [/EN#275116/other the lead] .
+[/EN#275114/other number] 2 and [/EN#275105/people 3 mountain bikers] ride on [/EN#275106/scene trail] in [/EN#275117/other the woods]
+[/EN#275105/people Two men] mountain biking up [/EN#275106/scene a rugged and rocky trail] .

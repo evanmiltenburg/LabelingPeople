@@ -1,0 +1,5 @@
+[/EN#139073/people A child] has [/EN#139074/other a red bucket] over [/EN#139076/bodyparts his head] while standing next to [/EN#139078/other a guard rail] .
+[/EN#139073/people A boy] has [/EN#139074/other a red bucket] over [/EN#139076/bodyparts his head] while [/EN#0/notvisual he] is on [/EN#139075/scene the patio] .
+[/EN#139073/people The child] playing on [/EN#139075/other the deck] has [/EN#139074/other a red bucket] on [/EN#139076/bodyparts their head] .
+[/EN#139073/people A boy] on [/EN#139075/other a deck] with [/EN#139074/other a red bucket] on [/EN#139076/bodyparts his head] .
+[/EN#139073/people A child] wearing [/EN#139074/other a bucket] on [/EN#139076/bodyparts their head] .

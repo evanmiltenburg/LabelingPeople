@@ -1,0 +1,5 @@
+[/EN#242207/animals A dog] runs through [/EN#242211/scene grass] , while [/EN#242208/other a Frisbee] flies through [/EN#0/notvisual the air] .
+[/EN#242207/animals a dog] in [/EN#0/notvisual the foggy distance] catching [/EN#242208/other a Frisbee]
+[/EN#242207/animals A black dog] is poised to catch [/EN#242208/other a Frisbee] .
+[/EN#242207/animals Animal] running after [/EN#242208/other Frisbee] in [/EN#242209/scene field] .
+[/EN#242207/animals A brown dog] runs after [/EN#242208/other a red Frisbee] .

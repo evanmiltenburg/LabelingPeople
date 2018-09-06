@@ -1,0 +1,5 @@
+[/EN#235502/people The worker] , in [/EN#235511/clothing the blue suit] , is digging in [/EN#235510/scene the dirt] , while [/EN#235508/people his coworker] , in [/EN#235507/clothing the gray-green suit] , is attending [/EN#235501/other the machine] .
+[/EN#235500/people Two men] in [/EN#235507/other coveralls] are digging [/EN#235503/scene a hole] with [/EN#235505/other a shovel] and [/EN#235501/other some machinery] .
+[/EN#235500/people Two workers] preparing [/EN#235506/scene a work site] with [/EN#235501/other a powered auger] .
+[/EN#235500/people two very muddy men] drilling for [/EN#235509/other oil]
+[/EN#235500/people Two people] are working outside .

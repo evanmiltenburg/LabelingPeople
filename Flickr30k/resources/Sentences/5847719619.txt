@@ -1,0 +1,5 @@
+Here is [/EN#244008/people a man] wearing [/EN#244010/clothing a gray hat] with [/EN#244012/other a flower] boutonniere raising [/EN#244009/other his glass] .
+[/EN#244008/people A well-dressed man] is sitting at [/EN#244013/scene a bar] holding [/EN#244009/other a glass] .
+[/EN#244008/people A man] wearing [/EN#244011/clothing a suit] and [/EN#244010/clothing hat] holds [/EN#244009/other a wineglass] .
+[/EN#244008/people Man] posing , while holding [/EN#244009/other a glass] in [/EN#244014/bodyparts his hand] .
+[/EN#244008/people A man] in [/EN#244011/clothing a suit] and [/EN#244010/clothing hat] is raising [/EN#244009/other his glass] .

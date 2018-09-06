@@ -1,0 +1,5 @@
+[/EN#35038/animals The large brown dog] is walking through [/EN#35039/scene the green grass] .
+[/EN#35038/animals a brown and black dog] running across [/EN#35040/scene a grassy field]
+[/EN#35038/animals A tan and black dog] walks happily through [/EN#35039/scene a field] .
+[/EN#35038/animals a black and brown dog] running in [/EN#35039/scene a field]
+[/EN#35038/animals A dog] jogs through [/EN#35040/scene the grass] .

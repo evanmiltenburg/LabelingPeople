@@ -1,0 +1,5 @@
+[/EN#233179/people A man] wearing [/EN#233180/clothing a black shirt] , [/EN#233185/clothing jeans] , and [/EN#233186/clothing skate shoes] is jumping near [/EN#233184/scene a pond] .
+[/EN#233179/people The red-haired man] in [/EN#233180/clothing the black turtleneck] is leaping into [/EN#0/notvisual the air] .
+[/EN#233179/people A man] in [/EN#233180/clothing a black top] is jumping on [/EN#233181/scene a sunny day] .
+[/EN#233179/people A man] with [/EN#233187/bodyparts red-hair] is jumping on [/EN#233181/scene a sunny day] .
+[/EN#233179/people Redheaded man] jumping high in [/EN#0/notvisual the air] .

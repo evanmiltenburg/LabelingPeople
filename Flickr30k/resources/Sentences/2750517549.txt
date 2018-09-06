@@ -1,0 +1,5 @@
+[/EN#70354/people An Asian man] in [/EN#70355/clothing a gray suit] stands on [/EN#70356/other a short ladder] to take [/EN#70361/other a picture] from [/EN#70360/scene the side of the street] .
+[/EN#70354/people An asian man] standing on top of [/EN#70356/other a ladder] as [/EN#70357/people a woman] walks off to [/EN#0/notvisual the side] .
+[/EN#70354/people A man] has climbed [/EN#70356/other a ladder] to get [/EN#70363/other a good picture] in [/EN#70359/scene a mountainous area] .
+[/EN#70354/people A man] , standing on [/EN#70356/other a ladder] , takes [/EN#70364/other a picture] using [/EN#70358/other a cellphone] .
+[/EN#70354/people A man] stands on [/EN#70356/other a ladder] to take [/EN#70365/other a picture] with [/EN#70358/other his cellphone] .

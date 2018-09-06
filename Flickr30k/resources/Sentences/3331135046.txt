@@ -1,0 +1,5 @@
+[/EN#110051/people Two people] are [/EN#110054/other indoors] in [/EN#110053/other a institutional environment] and [/EN#0/notvisual one of them] is on [/EN#110050/scene the floor] .
+[/EN#110048/people One boy] stands pointing at [/EN#110047/people another boy] [/EN#0/notvisual who] is balled up on [/EN#110050/scene the floor] .
+[/EN#110048/people A person] in [/EN#110049/clothing a gray sweatshirt] observes [/EN#110047/people a kneeling man] .
+[/EN#110047/people A child] laying on [/EN#110050/other the carpet] in [/EN#110056/other pain] .
+[/EN#110048/people a child] wearing [/EN#110049/clothing a hard coat]

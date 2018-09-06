@@ -1,0 +1,5 @@
+[/EN#216487/people A male] in [/EN#216501/clothing a purple shirt] and [/EN#216502/clothing white hat] is driving [/EN#216490/vehicles a vehicle] [/EN#0/notvisual that] has [/EN#216497/other four wheels] and [/EN#216491/other some sort of basket] in [/EN#0/notvisual the front of it] carrying [/EN#216488/people three people] .
+[/EN#216487/people A man] driving [/EN#216490/vehicles a four wheeled vehicle] with [/EN#216489/people four passengers] riding on [/EN#216492/scene the front] and [/EN#216496/people a man] sitting [/EN#216496/other sideways] on [/EN#216499/other the back] .
+[/EN#216493/people An Asian family] travels in [/EN#216490/vehicles a motorized car] on [/EN#216494/scene a busy street] in [/EN#216495/scene a city] .
+[/EN#216487/people A man] rides [/EN#216488/people some people] on [/EN#216490/vehicles a street cart] in [/EN#216500/vehicles traffic] .
+[/EN#216488/people Three people] sitting in [/EN#216491/other a large bike basket] .

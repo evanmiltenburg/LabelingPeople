@@ -1,0 +1,5 @@
+[/EN#23123/people A female speaker] wearing [/EN#23124/clothing a gray jacket] , [/EN#23130/clothing a dark scoop necked top] with [/EN#23129/clothing a dark knee length skirt] is presenting to [/EN#23125/people a group] using [/EN#23128/other a computer] to present as well as [/EN#23131/other a microphone] at [/EN#23126/scene the podium] .
+[/EN#23123/people A woman] in [/EN#23132/clothing black] with [/EN#23124/clothing a tan suit jacket] is standing at [/EN#23126/scene a podium] speaking to [/EN#23125/people an audience] .
+[/EN#0/notvisual You] , too , can achieve [/EN#23133/other financial freedom] after listening carefully to [/EN#23127/other this presentation] .
+[/EN#23123/people A woman] at [/EN#23126/scene a podium] making [/EN#23127/other a speech] .
+[/EN#23123/people A woman] is giving [/EN#23127/other a speech] .

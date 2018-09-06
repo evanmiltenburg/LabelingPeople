@@ -1,0 +1,5 @@
+[/EN#200263/people Two men] work on [/EN#200261/scene a house] while hanging over [/EN#200262/other a brick wall] , while [/EN#200265/people a coworker] works on [/EN#200269/scene the roof] .
+[/EN#200260/people People] working on [/EN#200261/scene a rustic house] with [/EN#200268/other piles of sand] and [/EN#200262/other red bricks] .
+[/EN#200260/people Two men] with [/EN#200270/clothing brown shirts] are working on building [/EN#200261/scene a brick house] .
+[/EN#200260/people Two men] working on [/EN#200264/other a brick] layered [/EN#200267/other development] .
+[/EN#200260/people Men] are laying [/EN#200266/other the foundation] to [/EN#200261/scene a building] .

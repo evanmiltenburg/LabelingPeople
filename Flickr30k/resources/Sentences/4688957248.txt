@@ -1,0 +1,5 @@
+[/EN#191138/people A doctor] looking at [/EN#191140/other his paperwork] in [/EN#191139/scene a patient 's room] .
+[/EN#191138/people A medical professional] recording [/EN#191140/other a patient 's data] .
+[/EN#191139/scene A medical room] with [/EN#191138/people a man] dressed in [/EN#191142/clothing blue] .
+[/EN#191138/people A doctor] checks on [/EN#191141/other his medical equipment] .
+[/EN#191138/people A surgeon] calibrates [/EN#191141/other his machinery] .

@@ -1,0 +1,5 @@
+[/EN#176867/people A man] in [/EN#176868/clothing a suit] with [/EN#176870/clothing a briefcase] is crossing [/EN#176869/scene the street of a city] .
+[/EN#176867/people White man] in [/EN#176868/clothing a black suit] is crossing [/EN#176869/scene a busy street] .
+[/EN#176867/people A man] in [/EN#176868/clothing a black business suit] crossing [/EN#176869/scene the street] .
+[/EN#176867/people A balding businessman] walks across [/EN#176869/scene the street] .
+[/EN#176867/people A man] in [/EN#176868/clothing a business suit] crosses [/EN#176869/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#230500/people A blond boy] with [/EN#230501/bodyparts a long purple Mohawk] is playing [/EN#230502/instruments the violin] .
+[/EN#230500/people A young boy] with [/EN#230501/bodyparts a purple Mohawk] playing [/EN#230502/instruments the violin] .
+[/EN#230500/people A boy] with [/EN#230501/clothing a purple] , [/EN#230501/bodyparts spiky Mohawk] plays [/EN#230502/instruments violin] .
+[/EN#230500/people A kid] with [/EN#230501/bodyparts a blue Mohawk] is playing [/EN#230502/instruments a violin]
+[/EN#230500/people A boy] with [/EN#230501/bodyparts a blue Mohawk] plays [/EN#230502/instruments the violin] .

@@ -1,0 +1,5 @@
+[/EN#42018/animals A golden dog] bounds across [/EN#42019/scene the snow-covered hill] .
+[/EN#42018/animals a white dog] is running through [/EN#42019/scene the snow] .
+[/EN#42018/animals A dog] running down [/EN#42019/scene a snow covered hill]
+[/EN#42018/animals A white dog] running through [/EN#42019/scene the snow]
+[/EN#42018/animals A dog] running through [/EN#42019/scene snow] .

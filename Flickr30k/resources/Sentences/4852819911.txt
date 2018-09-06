@@ -1,0 +1,5 @@
+[/EN#210966/other An urban , outdoor , daytime] setting shows [/EN#210965/scene a building] with [/EN#210972/other blue walls] and [/EN#210961/other prominent graffiti] ; with [/EN#210975/other two pallets] leaning against [/EN#210965/scene the building] and [/EN#210971/scene a sign overhead] [/EN#0/notvisual that] says " [/EN#210977/other TAY SHING CORP. 1 ALLEN ST.] " .
+[/EN#210960/people A man] sweeps [/EN#210963/scene the road] in front of [/EN#210972/other a wall] with [/EN#210961/other graffiti] and [/EN#210962/other two flats] set against [/EN#0/notvisual it] .
+[/EN#210960/people A man] mops [/EN#210969/other a mess] outside of [/EN#210974/other his storefront] .
+[/EN#210961/other Graffiti] on [/EN#210964/scene the side of an Asian warehouse] .
+[/EN#210960/people A male] with [/EN#210976/clothing a hat] [/EN#210967/other a] is sweeping [/EN#210970/scene the road] .

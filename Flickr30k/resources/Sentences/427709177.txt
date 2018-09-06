@@ -1,0 +1,5 @@
+[/EN#161355/people A man] in [/EN#161356/clothing a black t-shirt] holding [/EN#161354/people a baby] in [/EN#161358/clothing a diaper] and [/EN#161357/clothing blue shirt] on [/EN#161359/bodyparts his lap] .
+[/EN#161354/people The infant boy] is sitting on [/EN#161361/bodyparts a man 's leg] [/EN#0/notvisual who] is wearing [/EN#161356/clothing a black shirt] .
+[/EN#161355/people A man] is steadying [/EN#161354/people a diapered , blue-shirted infant] on [/EN#161359/bodyparts his knee] .
+[/EN#161354/people A baby] in [/EN#161357/clothing a blue shirt] and [/EN#161358/clothing diaper] is being held by [/EN#161355/people a man] .
+[/EN#161355/people A man] with [/EN#161356/clothing a black shirt] watching [/EN#161354/people a baby] .

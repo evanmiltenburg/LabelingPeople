@@ -1,0 +1,5 @@
+[/EN#106374/scene An icy , snowy city street] with [/EN#106379/vehicles a bike] resting against [/EN#106382/other a pole] .
+[/EN#106375/people Many people] help realign [/EN#106378/vehicles a vehicle] on [/EN#106374/scene a snowy street] .
+[/EN#106376/people Several people] are helping to move [/EN#106378/vehicles a vendor cart] .
+[/EN#106374/scene Snow covered city scene] populated by [/EN#106377/people city goers] .
+[/EN#106375/people People] crowd around [/EN#106380/scene a gyro stand] in [/EN#106381/scene the snow] .

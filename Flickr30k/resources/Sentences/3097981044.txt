@@ -1,0 +1,5 @@
+[/EN#93435/people A man] wearing [/EN#93442/clothing a leopard print jacket] sits behind [/EN#93431/other a table] covered with [/EN#93437/other books] and [/EN#93433/other papers] looks at [/EN#93427/people a man] wearing [/EN#93441/clothing a black shirt] with [/EN#93441/other white print] while [/EN#93427/people the man] speaks to [/EN#0/notvisual him] , [/EN#93439/people three women] in [/EN#93432/scene the room] also listen to [/EN#93430/other the conversation] .
+[/EN#93429/people Five people] sitting in [/EN#93432/scene a room] with [/EN#93426/people posters of people] working and [/EN#93438/other plants] on [/EN#93440/other the walls] .
+[/EN#93429/people People] sitting at [/EN#93431/other a table] filed with [/EN#93433/other paperwork] , having [/EN#93430/other a discussion] .
+[/EN#93434/people A caucasian woman] is sitting around [/EN#93431/other a table] with [/EN#93428/people African men] .
+[/EN#93429/people Several people] sit at [/EN#93431/other a desk] , covered in [/EN#93433/other papers]

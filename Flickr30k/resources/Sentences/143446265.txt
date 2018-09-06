@@ -1,0 +1,5 @@
+[/EN#12885/people An older man] in [/EN#12892/clothing a pink shirt] shakes [/EN#12888/bodyparts hands] with [/EN#12886/people a younger man] in [/EN#12890/clothing a black baseball cap] .
+[/EN#12885/people An older man] and [/EN#12886/people younger man] are shaking [/EN#12888/bodyparts hands] on [/EN#12887/scene a basketball court] .
+[/EN#12886/people A younger man] and [/EN#12885/people an older man] are shaking [/EN#12888/bodyparts hands] on [/EN#12887/scene a tennis court] .
+[/EN#12886/people a man] in [/EN#12891/clothing a gray shirt] and [/EN#12885/people an older man] are shaking [/EN#12888/bodyparts hands]
+[/EN#12889/people Two men] at [/EN#12887/scene a basketball court] shaking [/EN#12888/bodyparts hands] .

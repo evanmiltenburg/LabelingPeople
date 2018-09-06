@@ -1,0 +1,5 @@
+[/EN#57606/people A black guy] in [/EN#57607/clothing a apron] grilling [/EN#57608/other cornstalks] .
+[/EN#57606/people A man] with [/EN#57607/clothing an apron] cooks [/EN#57609/other husks of corn] .
+[/EN#57606/people A man] is cooking [/EN#57608/other corn] in [/EN#57610/scene a restaurant] .
+[/EN#57606/people A man] in [/EN#57609/other an apron grilling corn] .
+[/EN#57606/people A chef] prepares roasted [/EN#57608/other corn] .

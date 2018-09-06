@@ -1,0 +1,5 @@
+[/EN#88107/animals A large furry dog] walking through [/EN#88109/scene the water] with [/EN#88108/other a big stick] in [/EN#88110/bodyparts his mouth] .
+[/EN#88107/animals A dog] picks up [/EN#88108/other a stick] with [/EN#88110/bodyparts his mouth] while treading through [/EN#88109/scene water] .
+[/EN#88107/animals The dog] is holding [/EN#88108/other a branch] , swimming in [/EN#88109/scene the river] .
+[/EN#88107/animals The dog] retrieves [/EN#88108/other the branch] from [/EN#88109/scene the water] .
+[/EN#88107/animals A dog] in [/EN#88109/scene water] carrying [/EN#88108/other a long stick] .

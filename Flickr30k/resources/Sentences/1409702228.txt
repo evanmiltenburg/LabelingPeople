@@ -1,0 +1,5 @@
+[/EN#11693/people A man] wearing [/EN#11696/clothing a blue denim shirt] is standing in front of [/EN#11687/people a man] [/EN#0/notvisual who] is squirting [/EN#11689/other a condiment] on [/EN#11692/other something] .
+[/EN#11687/people The man] in [/EN#11695/clothing a dark blue shirt] is squeezing [/EN#11689/other a bottle] filled with [/EN#11689/other a gold-colored substance] .
+[/EN#11687/people Man] in [/EN#11690/other a denim shirt orders barbecue] from [/EN#11687/people a street vendor] .
+[/EN#11687/people A man] in [/EN#11695/clothing a black] is putting [/EN#11689/other honey] on [/EN#11692/other something] .
+[/EN#11694/people Two men] stand at [/EN#11698/other a food-serving station] .

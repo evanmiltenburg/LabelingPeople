@@ -1,0 +1,5 @@
+[/EN#51392/other A gentleman of color] is sitting at [/EN#51395/other a desk] with [/EN#51393/other monitor] displaying [/EN#51403/other a webpage] before [/EN#0/notvisual him] , [/EN#51410/other keyboard] at [/EN#51397/other hand , coffee or tea] at [/EN#51405/bodyparts hand] , [/EN#51413/scene tower] in [/EN#51412/scene the corner] , and [/EN#0/notvisual he] is wearing [/EN#51399/clothing glasses] , [/EN#51404/clothing a white shirt] under [/EN#51400/clothing a blue jacket] , with [/EN#51402/bodyparts a large smile] .
+[/EN#51392/people One man] wearing [/EN#51399/clothing glasses] , sitting at [/EN#51395/other a desk] with [/EN#51393/other a computer] and [/EN#51397/other cup of coffee] and [/EN#51405/bodyparts his hand] to [/EN#51406/bodyparts his face]
+[/EN#51392/people A person] having [/EN#51401/other a conversation] with [/EN#0/notvisual another] , as [/EN#51394/other a computer task] awaits [/EN#51409/other his return] .
+[/EN#51392/people A guy] with [/EN#51399/clothing glasses] is working on [/EN#51393/other a computer] in [/EN#51408/scene his office] .
+[/EN#51392/people Person] at [/EN#51395/other their desk] using [/EN#51393/other a computer] .

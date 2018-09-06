@@ -1,0 +1,5 @@
+[/EN#10829/people A man] , leaning against [/EN#10830/other a concrete wall] with [/EN#10831/bodyparts his arms] resting on [/EN#10832/clothing top] , looks over [/EN#10832/scene a balcony] .
+[/EN#10829/people A man] with [/EN#10834/bodyparts a white mustache] stands on [/EN#10832/scene a balcony] looking at [/EN#10835/scene the road] below .
+[/EN#10829/people A man] with [/EN#10836/bodyparts gray hair] and [/EN#10837/clothing a plaid shirt] looks out [/EN#10832/scene over a balcony] .
+[/EN#10829/people An elder man] overlooks [/EN#10832/scene a balcony] facing [/EN#10835/scene a street] .
+[/EN#10829/people Man] leaning on [/EN#10832/scene ledge of a balcony] .

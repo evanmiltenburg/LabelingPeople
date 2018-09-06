@@ -1,0 +1,5 @@
+[/EN#211767/people A man] wearing [/EN#211769/clothing a blue t-shirt] and [/EN#211772/clothing shorts] is holding [/EN#211768/people a newborn baby] [/EN#0/notvisual who] is yawning .
+[/EN#211767/people A man] with [/EN#211773/bodyparts brown hair] and [/EN#211769/clothing a blue shirt] is holding [/EN#211768/people a baby] with [/EN#211771/scene its mouth open] .
+[/EN#211767/people A new father] is holding [/EN#211768/people his yawning newborn] in [/EN#211770/scene the hospital] .
+[/EN#211767/people Man] holding [/EN#211768/people crying baby] in [/EN#211774/other chair] near [/EN#211775/other window] .
+[/EN#211767/people A man] holding [/EN#211768/people a newborn baby] .

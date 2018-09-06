@@ -1,0 +1,5 @@
+[/EN#90877/people The bike rider] runs with [/EN#90878/vehicles his red bike] while [/EN#90886/other another gains] on [/EN#0/notvisual him] , [/EN#0/notvisual both] wearing [/EN#90879/clothing green outfits] and [/EN#90880/clothing black helmets] .
+[/EN#90881/people Two people] with [/EN#90882/vehicles bicycles] , [/EN#90877/other one] in [/EN#90888/scene front] running with [/EN#90878/vehicles a bike] and [/EN#90884/other one] in [/EN#90889/other back] riding .
+[/EN#90881/people Two biker] in [/EN#90885/other black-green , first] is pushing [/EN#90878/vehicles her bike] , [/EN#90884/other the second] is riding [/EN#0/notvisual hers] .
+[/EN#90877/people One biker] is running with [/EN#90878/vehicles their bike] while [/EN#0/notvisual another] is riding around [/EN#0/notvisual them] .
+[/EN#90877/people One bicyclist] runs along side [/EN#90878/vehicles her bike] , while [/EN#0/notvisual another] rides up [/EN#90889/other behind] .

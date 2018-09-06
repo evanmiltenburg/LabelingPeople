@@ -1,0 +1,5 @@
+[/EN#214798/people An old bald man] is sitting in [/EN#214803/other a folding chair] in front of [/EN#214800/other a sign] on [/EN#214807/scene the side of the road] , in front of [/EN#214801/scene a brick building] with [/EN#214806/other a window] [/EN#0/notvisual that] has [/EN#214800/other the sign] " [/EN#214800/other BATIMENT INHABITABLE] . "
+[/EN#214798/people an older man] is sleeping in front of [/EN#214801/scene an inhabitable brick building] .
+[/EN#214798/people An old man] is sleeping in [/EN#214803/other a chair] outside [/EN#214801/scene an abandoned building] .
+[/EN#214798/people Man] sleeping in [/EN#214803/other a chair] in front of [/EN#214801/other a brick wall] .
+[/EN#214798/people A man] is sleeping in [/EN#214803/other a chair] next to [/EN#214799/other a sign] .

@@ -1,0 +1,5 @@
+[/EN#234448/people One person] on [/EN#234445/animals a white horse] and [/EN#234451/people another person] on [/EN#234450/animals/people a dark horse] are speaking to [/EN#234447/people a man] in [/EN#234453/clothing a blue coat] .
+[/EN#234443/people Two white people] are laughing on [/EN#234446/animals horses] while [/EN#234447/people a dark-skinned man] stands around in front of [/EN#0/notvisual them] .
+[/EN#234443/people An older couple] on [/EN#234446/animals horses] while smiling and [/EN#234447/people a man] standing nearby .
+[/EN#234444/people Two women] riding [/EN#234454/other horseback] over [/EN#234455/scene a grassy hill] .
+[/EN#234444/people two ladies] riding [/EN#234445/animals a horse]

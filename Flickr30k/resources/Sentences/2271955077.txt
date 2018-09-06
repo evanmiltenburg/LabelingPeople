@@ -1,0 +1,5 @@
+[/EN#38187/people A person] is riding [/EN#38195/other a snowboard] doing [/EN#38194/other an air stunt] over [/EN#38196/other a snowy mound] .
+[/EN#38187/people Someone] in [/EN#38193/clothing white winter clothes] is snowboarding through [/EN#0/notvisual the air] .
+[/EN#38187/people A snowboarder] is in [/EN#0/notvisual the middle of a jump] with [/EN#38197/bodyparts one hand] raised .
+[/EN#38187/people A snowboarder] in [/EN#38193/clothing white] soaring through [/EN#0/notvisual the air] .
+[/EN#38187/people A snowboarder] flies through [/EN#0/notvisual the air] .

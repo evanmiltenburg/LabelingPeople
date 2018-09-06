@@ -1,0 +1,5 @@
+[/EN#84517/vehicles The side of a subway cart] , with [/EN#84515/people one man] in [/EN#84516/other the window] .
+[/EN#84515/people A man] sits in [/EN#84516/vehicles/scene the window of a train] .
+[/EN#84515/people A man] sits by [/EN#84516/other the window] in [/EN#84518/vehicles/scene a train] .
+[/EN#84515/people a man] inside of [/EN#84518/vehicles/scene a white subway train]
+[/EN#84515/people A man] sits by [/EN#84516/other a window] on [/EN#84518/vehicles/scene a train] .

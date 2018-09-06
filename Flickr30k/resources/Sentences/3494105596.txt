@@ -1,0 +1,5 @@
+[/EN#122419/people The man] in [/EN#122421/clothing the white shirt] kicked [/EN#122420/other the soccer ball] on [/EN#122422/scene the rocky pavement] .
+[/EN#122419/people a young man] wearing [/EN#122421/clothing a white shirt] and [/EN#122423/clothing red shorts] kicking [/EN#122420/other a ball]
+[/EN#122419/people Man] in [/EN#122423/clothing red shorts] and [/EN#122421/clothing white shirt] kicking [/EN#122420/other a soccer ball] .
+[/EN#122419/people Man] in [/EN#122421/clothing t-shirt] and [/EN#122423/clothing red shorts] kicking [/EN#122420/other soccer ball] .
+[/EN#122419/people The young man] kicks [/EN#122420/other a soccer ball] on [/EN#0/notvisual dusty ground] .

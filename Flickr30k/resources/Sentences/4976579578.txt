@@ -1,0 +1,5 @@
+[/EN#225201/other A jet fighter plane] in [/EN#0/notvisual the air] with [/EN#225204/other smoke] coming from [/EN#0/notvisual it] .
+[/EN#225201/other A flying plane] with [/EN#225203/other a trail of smoke] coming from [/EN#0/notvisual it] .
+[/EN#225201/scene A black jet] in [/EN#225207/other flight] is on [/EN#225205/other fire] and smoking .
+[/EN#225201/scene A jet] smoking in [/EN#0/notvisual the air] traveling upwards .
+[/EN#225203/other Smoke] is coming from [/EN#225201/scene a jet] in [/EN#225206/scene the sky] .

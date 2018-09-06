@@ -1,0 +1,5 @@
+[/EN#35588/people An older man] wearing [/EN#35589/clothing a brown jacket] and [/EN#35590/clothing a hat] stands [/EN#35596/scene outside] and reaches into [/EN#35591/clothing his pocket] .
+[/EN#35588/people An older man] with [/EN#35592/clothing glasses] and [/EN#35593/bodyparts a white beard] is walking along [/EN#35594/scene the sidewalk of a road] .
+[/EN#35588/people A man] wearing [/EN#35589/clothing a brown jacket] and [/EN#35595/clothing blue jeans] is reaching into [/EN#35591/clothing his pocket] .
+[/EN#35588/people An old man] white [/EN#35593/bodyparts a white beard] is wearing [/EN#35590/clothing a dark hat] and [/EN#35589/clothing a dark jacket] .
+[/EN#35588/people A man] with [/EN#35593/bodyparts a white beard] walks down [/EN#35594/scene a city street] .

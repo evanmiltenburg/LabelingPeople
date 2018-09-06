@@ -1,0 +1,5 @@
+[/EN#174594/people A man] with [/EN#174599/clothing a red bag] rides [/EN#174595/vehicles his bike] down [/EN#174598/scene a damp city street] in front of [/EN#174593/scene a building] covered in [/EN#174605/other scaffolding] .
+[/EN#174596/people Two men] on [/EN#174595/vehicles bikes] are passing [/EN#174593/scene a series of buildings] [/EN#0/notvisual that] specialize in [/EN#174604/other medical services] .
+[/EN#174594/people Guy] riding [/EN#174595/vehicles his bike] , carrying [/EN#174599/other a red back] , past [/EN#174593/scene Excalibur Group building] .
+[/EN#174594/people A man] wearing [/EN#174597/clothing a black jacket] biking in front of [/EN#174593/scene a medical arts building] .
+[/EN#174593/scene A building] under [/EN#174602/other construction] with [/EN#174594/people a man] on [/EN#174595/vehicles bicycle] riding in [/EN#174603/scene front] .

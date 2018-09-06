@@ -1,0 +1,5 @@
+[/EN#132538/people A group] [/EN#132538/people a people] walk around [/EN#132542/scene the corner] near [/EN#132539/scene a brick building] .
+[/EN#132538/people A group of people] stands in front of [/EN#132539/scene a yellow building] .
+[/EN#132538/people A crowd of people] are walking down [/EN#132540/scene a city street] .
+[/EN#132538/people The people] walk near [/EN#132539/scene a brick building] .
+[/EN#132538/people People] gather together [/EN#132541/scene outdoors] .

@@ -1,0 +1,5 @@
+[/EN#32937/people A boy] in [/EN#32938/clothing a red shirt] with [/EN#32939/clothing stripes] standing near [/EN#32940/clothing a blue] , [/EN#32940/other brick wall] with [/EN#32942/other handicap signs] .
+[/EN#32937/people a boy] in [/EN#32938/clothing a red shirt] , in front of [/EN#32940/other a long blue wall] , raises [/EN#32943/bodyparts his eyebrow] at [/EN#0/notvisual the camera]
+[/EN#32937/people An African American boy] stands in front of [/EN#32940/scene a blue building] in [/EN#32947/scene the handicapped space] .
+[/EN#32937/people The boy] in [/EN#32938/clothing the red shirt] is next to [/EN#32940/other a blue wall] .
+[/EN#32937/people The boy] in [/EN#32938/clothing the orange shirt] looks [/EN#32945/other backwards] .

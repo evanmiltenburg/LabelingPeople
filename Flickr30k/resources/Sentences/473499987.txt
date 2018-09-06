@@ -1,0 +1,5 @@
+[/EN#196978/people A man] wearing [/EN#196979/clothing blue overalls] is standing next to [/EN#196981/other a red minivan] with [/EN#196980/other an open door] .
+[/EN#196978/people Man] in [/EN#196979/other blue coveralls] stands next to [/EN#196981/vehicles a red vehicle] [/EN#0/notvisual that] is pulling [/EN#196982/vehicles a trailer] .
+[/EN#196978/people An older man] wearing [/EN#196985/clothing glasses] is holding [/EN#196980/other the door] open of [/EN#196981/other a red minivan] .
+[/EN#196978/people A man] in [/EN#196979/clothing a blue jumpsuit] stands next to [/EN#196981/other a red van] pulling [/EN#196982/vehicles a trailer] .
+[/EN#196978/people A man] in [/EN#196979/clothing a blue jumpsuit] standing in front of [/EN#196981/other a red van] .

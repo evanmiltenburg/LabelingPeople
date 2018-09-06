@@ -1,0 +1,5 @@
+[/EN#58287/people A male utility worker] wearing [/EN#58291/clothing a ski mask] , [/EN#58296/clothing gloves] and [/EN#58293/clothing a yellow jacket] , standing in [/EN#58294/scene a utility lift] near [/EN#58292/other the tops of trees] and [/EN#58290/other an electrical transformer] .
+[/EN#58287/people A man] with [/EN#58291/clothing a ski cap] and [/EN#58293/clothing neon yellow jacket] looking down with [/EN#58292/other a tree] behind [/EN#0/notvisual him] .
+[/EN#58287/people Worker] being lifted up in [/EN#58288/people a cherry picker] to perform [/EN#58297/other work] during [/EN#58289/other cold weather] .
+[/EN#58287/people A man] bundled up in [/EN#58289/other the cold weather] up in [/EN#58294/other a bucket] working on [/EN#58295/other a power line] .
+[/EN#58287/people A man] dressed in [/EN#58293/clothing yellow] is in [/EN#58288/people a cherry picker] next to [/EN#58290/other a stoplight] .

@@ -1,0 +1,5 @@
+[/EN#88883/people A young Asian boy] holds [/EN#88884/other a small shovel] , [/EN#0/notvisual there] are [/EN#88885/other many toys] in [/EN#0/notvisual the background] .
+[/EN#88883/people A little Asian boy] has on [/EN#88886/clothing a green shirt] , while holding [/EN#88884/other a small green shovel] .
+[/EN#88883/people A little boy] in [/EN#88886/clothing a green shirt] holding [/EN#88884/other a green shovel] .
+[/EN#88883/people A little boy] is holding [/EN#88884/other a shovel] .
+[/EN#88883/people A young boy] holds [/EN#88884/other a green shovel] .

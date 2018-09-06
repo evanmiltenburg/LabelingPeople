@@ -1,0 +1,5 @@
+[/EN#71554/people a little girl] wearing [/EN#71558/clothing a pink shirt] is standing in front of [/EN#71555/scene a wrought iron fence] , staring at [/EN#71557/scene a newspaper stand] .
+[/EN#71554/people A young girl] in [/EN#71558/clothing a pink top] looks at [/EN#71556/other a stack of newspapers] in front of [/EN#71555/scene a fence] .
+[/EN#71554/people A little girl] in [/EN#71558/clothing a pink shirt] is outside , looking at [/EN#71556/other newspapers] in [/EN#71561/other a rack] .
+[/EN#71554/people A young girl] in [/EN#71558/clothing a pink dress] stares at [/EN#71557/other a metro newspaper rack] .
+[/EN#71554/people A little girl] looking at [/EN#71556/other newspapers] .

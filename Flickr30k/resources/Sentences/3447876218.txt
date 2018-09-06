@@ -1,0 +1,5 @@
+[/EN#118993/people The man] is snowboarding down [/EN#118995/other a slope] with [/EN#118998/other gear] and [/EN#118997/clothing a hat]
+[/EN#118993/people A man] snowboards down [/EN#118995/scene a snow-covered hill] .
+[/EN#118994/people A person] in [/EN#118998/clothing gray] snowboarding down [/EN#118995/scene a hill] .
+[/EN#118993/people A man] is snowboarding down [/EN#118995/other a skislope] .
+Snowboarding [/EN#118994/people youth] going downhill

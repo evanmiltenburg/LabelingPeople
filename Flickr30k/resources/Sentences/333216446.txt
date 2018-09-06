@@ -1,0 +1,5 @@
+[/EN#110129/people A man] with [/EN#110130/bodyparts a beard] and [/EN#110133/clothing a light brown shirt] is near [/EN#110132/other a chart] [/EN#0/notvisual that] has LMMVSD on [/EN#0/notvisual it] .
+[/EN#110129/people A man] with [/EN#110130/bodyparts a white beard] is wearing [/EN#110131/clothing an apron] and in [/EN#110136/scene the kitchen] .
+[/EN#110129/people A man] with [/EN#110130/bodyparts a beard] wears [/EN#110131/clothing an apron] around [/EN#110134/bodyparts his neck] and smiles .
+[/EN#110129/people A man] with [/EN#110130/bodyparts a beard] surprised when [/EN#110135/other his picture] is taken .
+[/EN#110129/people A man] with [/EN#110130/bodyparts a gray beard] and [/EN#110131/clothing an apron] smiles .

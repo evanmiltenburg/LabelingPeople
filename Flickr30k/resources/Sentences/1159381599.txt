@@ -1,0 +1,5 @@
+[/EN#4149/people Person] in [/EN#4160/clothing a brown sweatshirt] does [/EN#4149/other a flip] in [/EN#4159/scene midair] over [/EN#4150/other a trampoline] with [/EN#4155/scene a river] and [/EN#4158/other electrical lines] in [/EN#0/notvisual the background] .
+[/EN#4149/people A young adult] is doing [/EN#4149/other a back flip] on [/EN#4150/other a trampoline] near [/EN#4155/scene a lake] .
+[/EN#4149/people A woman] is doing flips on [/EN#4150/other a trampoline] in front of [/EN#4155/scene a lake] .
+[/EN#4149/people A woman] does [/EN#4149/other a somersault] on [/EN#4150/other a trampoline] on [/EN#4154/scene the beach] .
+[/EN#4150/other Trampolines] are [/EN#4157/scene a fun way] to exercise .

@@ -1,0 +1,5 @@
+[/EN#2140/people A girl] sitting on [/EN#2141/scene the steps of a building] wearing [/EN#2142/clothing a green short-sleeve shirt] , [/EN#2143/clothing blue jeans] , [/EN#2144/clothing flip-flops] holding [/EN#2145/other a cup] and [/EN#2146/other writing] in [/EN#2147/other a journal] with [/EN#2148/clothing her purse] sitting at [/EN#2149/bodyparts her feet] .
+[/EN#2140/people A woman] in [/EN#2142/clothing a green shirt] and [/EN#2143/clothing jeans] kneels on [/EN#2150/other a stoop] with [/EN#2145/other coffee] in [/EN#2151/bodyparts hand] , [/EN#2148/clothing her purse] beside [/EN#0/notvisual her] and [/EN#2152/other a large door] behind [/EN#0/notvisual her] , as [/EN#0/notvisual she] fills out [/EN#2153/other paperwork] .
+[/EN#2140/people A woman] is sitting on [/EN#2141/other the steps] in front of [/EN#2152/other a large black door] , writing in [/EN#2154/other a notebook] .
+[/EN#2140/people A woman] sitting down on [/EN#2141/other steps] , writing [/EN#2155/other something] down with [/EN#2152/other a door] behind [/EN#0/notvisual her] .
+[/EN#2140/people A girl] holding [/EN#2145/other a coffee cup] is writing outside .

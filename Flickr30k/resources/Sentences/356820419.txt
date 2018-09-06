@@ -1,0 +1,5 @@
+[/EN#128320/people An Asian man] with [/EN#128326/clothing black rimmed glasses] is on [/EN#128323/vehicles/scene a subway] with [/EN#128327/people several other people] .
+[/EN#128319/vehicles/scene A crowded bus] and [/EN#128320/people a young man] in [/EN#128322/clothing glasses] pinching [/EN#128328/bodyparts his nose] .
+[/EN#128320/people An Asian man] in [/EN#128321/clothing a brown jacket] sits on [/EN#128323/vehicles/scene a subway] .
+[/EN#128320/people Passengers] are crowded on [/EN#128319/vehicles/scene a train] .
+[/EN#128320/people A man] standing in [/EN#128325/scene a crowded area] .

@@ -1,0 +1,5 @@
+[/EN#218053/people A young woman] with [/EN#218057/clothing a red bag] stands at [/EN#218051/scene the street corner] with [/EN#218048/people her family] as [/EN#218060/people a woman] with [/EN#218056/clothing a purple shirt] walks down [/EN#218059/scene the street] .
+[/EN#218055/people Two women] and [/EN#218062/people one man] , [/EN#218048/people all] dressed in [/EN#218052/clothing black] , are standing on [/EN#218064/other a curb] by [/EN#218058/scene a road] while [/EN#218050/people people] walk towards [/EN#0/notvisual them] .
+[/EN#218048/people Friends] wait and converse on [/EN#218051/scene a street corner] before proceeding to [/EN#218063/scene their destination] .
+[/EN#218048/people Three people] , [/EN#218049/people all] wearing [/EN#218052/clothing dark clothing] , stand talking at [/EN#218051/scene a street corner] .
+[/EN#218048/people Three people] wearing [/EN#218052/clothing black] chatting on [/EN#218051/scene a street corner] .

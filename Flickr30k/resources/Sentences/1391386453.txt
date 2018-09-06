@@ -1,0 +1,5 @@
+[/EN#10950/people A young man] in [/EN#10951/clothing uniform] is standing with [/EN#10961/other his back] to [/EN#10952/other a museum case] [/EN#0/notvisual that] has [/EN#10953/other a classical bust] on [/EN#10954/other the top shelf] .
+[/EN#10950/people A man] in [/EN#10951/clothing a military style uniform] is standing with [/EN#10955/bodyparts his arms] behind [/EN#10961/other his back] in [/EN#10956/scene a public corridor] .
+[/EN#10950/people The security guard] is guarding [/EN#10960/scene the museum] with [/EN#10957/scene the black and white checked floor] .
+[/EN#10950/people The soldier] is standing tall as [/EN#0/notvisual he] observes [/EN#10958/people the passing people] .
+[/EN#10950/people A soldier] is at [/EN#10959/scene his post] inside of [/EN#10960/scene a museum] .

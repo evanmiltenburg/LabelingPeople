@@ -1,0 +1,5 @@
+[/EN#284007/people Man] in [/EN#284010/clothing blue and gray sweater] , [/EN#284011/clothing blue jeans] and [/EN#284012/clothing blue shoes] with [/EN#284013/clothing blue socks] , sitting on [/EN#284008/other a white foldable chair] , sleeping .
+[/EN#284007/people A man] is sleeping on [/EN#284008/other a chair] on [/EN#284014/scene the side of the street] in front of [/EN#284009/other a few books] .
+[/EN#284007/people A man] sitting in [/EN#284008/other a folding chair] looks like [/EN#0/notvisual he] is sleeping .
+[/EN#284007/people A man] sitting on [/EN#284008/other a chair] next to [/EN#284009/other books] is sleeping .
+[/EN#284007/people A man] relaxing near [/EN#284009/other a shelf of books] .

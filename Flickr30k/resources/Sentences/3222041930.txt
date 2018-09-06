@@ -1,0 +1,5 @@
+[/EN#102265/people A man] in [/EN#102266/clothing a blue suit] reads [/EN#102268/other the paper] while smoking next to [/EN#102271/scene a marble building] .
+[/EN#102265/people A man] in [/EN#102266/clothing a blue pinstriped suit] is reading [/EN#102268/other a newspaper] while smoking [/EN#102267/other a cigar]
+[/EN#102265/people A man] is standing up , reading [/EN#102268/other a newspaper] , and smoking [/EN#102267/other a cigar] .
+[/EN#102265/people A man] standing by [/EN#102269/scene a building corner] and reading [/EN#102268/other a newspaper] .
+[/EN#102265/people A man] smoking [/EN#102267/other a cigar] reading [/EN#102268/other a paper] in [/EN#102270/scene a city]

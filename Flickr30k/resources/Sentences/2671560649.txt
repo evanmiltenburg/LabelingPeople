@@ -1,0 +1,5 @@
+[/EN#65269/people A person] sitting on [/EN#65273/other a ledge] using [/EN#65271/other a machine] to look out over [/EN#65270/scene the city] .
+[/EN#65269/people A blond child] [/EN#0/notvisual who] is wearing [/EN#65272/clothing red shoes] looking through [/EN#65271/other a telescope] .
+[/EN#65269/people Boy] with [/EN#65272/clothing red shoes] looks through [/EN#65269/people a viewer] to see farther .
+[/EN#65269/people A boy] sitting on and looking out from [/EN#65271/other a microscope] .
+[/EN#65269/people A boy] looks over [/EN#65270/scene the city] .

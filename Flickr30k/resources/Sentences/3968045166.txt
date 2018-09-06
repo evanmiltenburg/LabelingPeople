@@ -1,0 +1,5 @@
+[/EN#150059/people A man] in [/EN#150061/clothing a blue wetsuit] standing on [/EN#150060/other a blue surfboard] in front of [/EN#150062/scene a small wave] in [/EN#150063/scene the ocean] .
+[/EN#150059/people A surfer] wearing [/EN#150061/clothing blue] which also has [/EN#150060/other a blue surfboard] is riding [/EN#150062/scene the waves] .
+[/EN#150059/people A man] in [/EN#150061/other a blue swimming gear] is skiing near [/EN#150062/scene a wave] in [/EN#150063/scene the water] .
+[/EN#150059/people One person] surfing on [/EN#150062/scene a wave] .
+[/EN#150059/people A surfer] riding [/EN#150062/scene a small wave] .

@@ -1,0 +1,5 @@
+[/EN#257473/people A black man] with [/EN#257478/bodyparts gray hair] , [/EN#257475/clothing a white shirt] , and [/EN#257476/clothing blue trousers] is sleeping .
+[/EN#257473/people An older gentleman] is sleeping while siting up in front of [/EN#257474/scene a barber shop] .
+[/EN#257473/people A man] in [/EN#257475/clothing a white shirt] resting in front of [/EN#257474/scene a barber shop] .
+[/EN#0/notvisual There] is [/EN#257473/people a man] asleep , at [/EN#257477/scene the door of a barber shop] .
+[/EN#257473/people An old man] is sleeping in [/EN#257474/scene a barber shop] .

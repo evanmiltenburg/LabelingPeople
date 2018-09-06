@@ -1,0 +1,5 @@
+[/EN#176654/people A woman] dressed in [/EN#176657/clothing a white shirt] , [/EN#176658/clothing short shorts] , and [/EN#176656/clothing a fedora] , walks away from [/EN#0/notvisual the camera] .
+[/EN#176654/people A brunette woman] in [/EN#176656/clothing a hat] and [/EN#176657/clothing a white shirt] walking along [/EN#176655/scene a brick street] on [/EN#176660/scene a sunny day] .
+[/EN#176654/people A woman] is walking down [/EN#176655/scene a path] carrying [/EN#176662/other a wallet] and [/EN#176661/clothing bag] .
+[/EN#176654/people A woman] in [/EN#176657/clothing a white shirt] walks along [/EN#176655/scene a stone street] .
+[/EN#176654/people Woman] walking in [/EN#176659/clothing summer attire] .

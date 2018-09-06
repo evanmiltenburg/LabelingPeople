@@ -1,0 +1,5 @@
+[/EN#257332/people A female figure skater] wearing [/EN#257337/clothing a blue outfit] in [/EN#257332/other mid-twirl] on [/EN#257334/other the ice] with [/EN#257335/other a big , yellow sign] in [/EN#0/notvisual the background] .
+[/EN#257332/people Female ice skater] performing [/EN#257336/other her craft] .
+[/EN#257332/people A female figure skater] in [/EN#0/notvisual mid jump] .
+[/EN#257332/people A female ice skater] doing [/EN#0/notvisual a jump] .
+[/EN#257332/people A figure skater] twirls on [/EN#257334/other ice] .

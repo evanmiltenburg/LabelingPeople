@@ -1,0 +1,5 @@
+[/EN#256714/people A man] [/EN#256720/bodyparts a long gray beard] and [/EN#256719/other his partner share] [/EN#256715/other a meal] at [/EN#256716/scene an outdoor restaurant] .
+[/EN#256714/people A man] and [/EN#256717/people a woman] are sharing [/EN#256715/other a meal] at [/EN#256716/scene an outside restaurant] .
+[/EN#0/notvisual I] see [/EN#256714/people a bearded man] and [/EN#256717/people elderly lady] sharing [/EN#256715/other a bowl of food] .
+[/EN#256714/people A man] and [/EN#256717/people a woman] eating [/EN#256715/other a meal] together .
+[/EN#256718/people Two older people] are sharing [/EN#256715/other a dish]

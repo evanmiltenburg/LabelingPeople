@@ -1,0 +1,5 @@
+[/EN#191373/other A metal box] attached to [/EN#191376/other a pole] sits opened with [/EN#191374/other the keys] still in [/EN#191373/other the lock] .
+[/EN#191374/other A set of keys] in [/EN#191373/other the lock of an opened box] on [/EN#191376/other an outside pole] .
+[/EN#191377/people Somebody] left [/EN#191374/other the keys] inside [/EN#191373/other a green lock box] on [/EN#191376/scene a lamp post] .
+[/EN#0/notvisual There] are [/EN#191374/other keys] in [/EN#191373/other some kind of box] [/EN#0/notvisual which] is open .
+[/EN#191373/other A lock box] on [/EN#191376/other a pole] with [/EN#191374/other the keys] in [/EN#0/notvisual it] .

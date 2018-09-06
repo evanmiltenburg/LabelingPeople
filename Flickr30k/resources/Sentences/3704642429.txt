@@ -1,0 +1,5 @@
+[/EN#138097/people A woman] in [/EN#138100/clothing a black t-shirt] and light [/EN#138105/clothing tan long skirt] sing at [/EN#138101/other the microphone] while [/EN#138098/people her band members] play in [/EN#0/notvisual the background] .
+[/EN#138097/people A lady] wearing [/EN#138100/clothing a black t-shirt] is screaming into [/EN#138101/other a microphone] as [/EN#0/notvisual she] sings for [/EN#138099/people a band] .
+[/EN#138097/people A woman] singing on [/EN#138102/scene stage] backed up by [/EN#138099/people one man] on [/EN#138106/instruments guitar] and [/EN#138104/people one man] on [/EN#138107/instruments drums] .
+[/EN#138097/people A woman] in [/EN#138100/clothing a black shirt] sings on [/EN#138102/scene stage] .
+[/EN#0/notvisual She] is screaming into [/EN#138101/other the microphone] .

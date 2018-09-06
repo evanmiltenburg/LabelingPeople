@@ -1,0 +1,5 @@
+[/EN#94692/animals A small dog] is walking on [/EN#94695/scene green grass] carrying [/EN#94693/other a stick] in [/EN#94694/bodyparts its mouth] .
+[/EN#94692/animals A little dog] is carrying [/EN#94693/other a small twig] in [/EN#94694/bodyparts its mouth] .
+[/EN#94692/animals A little dog] carries [/EN#94693/other a small stick] in [/EN#94694/bodyparts his mouth] .
+[/EN#94692/animals A small dog] is carrying [/EN#94693/other a stick] in [/EN#94694/bodyparts his mouth] .
+[/EN#94692/animals A small dog] fetching [/EN#94693/other a small stick] .

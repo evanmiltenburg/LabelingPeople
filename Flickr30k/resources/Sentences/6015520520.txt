@@ -1,0 +1,5 @@
+[/EN#246635/people A lady] sitting and reading [/EN#246636/other a book] while [/EN#246637/scene her laundry] gets cleaned .
+[/EN#246635/people A woman] reads [/EN#246636/other a magazine] as [/EN#246637/scene her laundry] gets done .
+[/EN#246635/people A girl] waiting for [/EN#246637/scene her laundry] to finish .
+[/EN#246635/people A woman] sits at [/EN#246639/other the laundry mat] reading .
+[/EN#246635/people A woman] reads [/EN#246636/other a book] in [/EN#246638/scene a laundromat] .

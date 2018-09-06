@@ -1,0 +1,5 @@
+[/EN#285156/people A older man] with [/EN#285164/clothing a white shirt] , [/EN#285165/clothing golf cap] and [/EN#285158/other a cane] walks away from [/EN#285157/scene an outdoor flower shop] .
+[/EN#285156/people A elderly man] holds [/EN#285158/other a can] behind [/EN#285156/other his back] as [/EN#0/notvisual he] strolls by [/EN#285157/scene a beautiful flower market] .
+[/EN#285156/people An older man] with [/EN#285158/other a cane] walks along [/EN#285157/other a row of flowers] .
+[/EN#285156/people Elderly man] with [/EN#285158/other a cane] examines [/EN#285157/other flowers] at [/EN#285157/people a florist] .
+[/EN#285156/people An old man] is walking [/EN#285163/other past] by [/EN#285157/scene a flower 's shop] .

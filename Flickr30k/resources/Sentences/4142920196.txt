@@ -1,0 +1,5 @@
+[/EN#156776/people A man] in [/EN#156778/clothing a light colored t-shirt] and [/EN#156788/clothing jeans] looks very animated while [/EN#156779/people a woman] in [/EN#156782/clothing a blue and white striped shirt] and [/EN#156790/clothing overalls] is preparing [/EN#156785/other food] .
+[/EN#156776/people A man] in [/EN#156789/other mid-sentence] is gesturing with [/EN#156780/bodyparts his hands] while [/EN#156779/people a woman] beside [/EN#0/notvisual his is] doing [/EN#156792/other something] at [/EN#156784/other the kitchen counter] .
+[/EN#156781/people The couple] is at [/EN#156787/scene home] [/EN#0/notvisual she] is cooking and [/EN#0/notvisual he] is explaining [/EN#156777/other something] to [/EN#156776/people someone] .
+[/EN#156776/people A bearded man] gestures with [/EN#156780/bodyparts his hands] in [/EN#156783/scene a kitchen] .
+[/EN#156776/people A man] in [/EN#156778/clothing t-shirt] making [/EN#156777/other a gesture] .

@@ -1,0 +1,5 @@
+[/EN#175256/people A man] and [/EN#175260/people a woman] in [/EN#175255/scene a tunnel] , [/EN#175257/people a few more people] in [/EN#0/notvisual the background] and in [/EN#0/notvisual the foreground] is [/EN#175258/other a fire extinguisher] .
+[/EN#175253/people Several people] standing on [/EN#175259/other a subway platform] .
+[/EN#175253/people A group of people] waiting for [/EN#175254/vehicles/scene the subway] .
+[/EN#175253/people Several people] stand in [/EN#175255/scene a subway tunnel] .
+[/EN#175253/people People] standing , waiting for [/EN#175254/vehicles/scene a subway] .

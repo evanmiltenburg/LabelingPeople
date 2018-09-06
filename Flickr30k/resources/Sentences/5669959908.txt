@@ -1,0 +1,5 @@
+[/EN#240652/people A man] with [/EN#240653/bodyparts a white beard] speaks into [/EN#240654/other a microphone] wearing [/EN#240656/other a long-sleeved gray button] down [/EN#240656/clothing shirt] .
+[/EN#240652/people An old man] with [/EN#240653/bodyparts a white beard] is gesturing and speaking into [/EN#240654/other a microphone] .
+[/EN#240652/people An older man] with [/EN#240655/bodyparts white hair] and [/EN#240653/bodyparts a beard] is talking into [/EN#240654/other a microphone] .
+[/EN#240652/people AN old man] with [/EN#240653/bodyparts a beard] is speaking into [/EN#240654/other a microphone] .
+[/EN#240652/people A bearded man] with [/EN#240655/bodyparts gray hair] speaks at [/EN#240654/other a microphone] .

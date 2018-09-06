@@ -1,0 +1,5 @@
+[/EN#227294/people A dark-haired woman] wearing [/EN#227296/clothing a red polka-dotted dress] is standing in front of [/EN#227295/other a microphone] .
+[/EN#227294/people A large , middle-age women] in [/EN#227296/clothing a red dress] with [/EN#227296/other white polka dots] , singing at [/EN#227295/other a microphone] .
+[/EN#227294/people A woman] with [/EN#227298/bodyparts brown hair] wearing [/EN#227296/clothing a red polka dot dress] is singing into [/EN#227295/other a microphone] .
+[/EN#227294/people A woman] in [/EN#227296/clothing a red polka dot dress] is singing into [/EN#227295/other a microphone] .
+[/EN#227294/people A woman] in [/EN#227296/clothing a red polka-dot dress] sings into [/EN#227295/other a mic] .

@@ -1,0 +1,5 @@
+[/EN#19988/people A man] in [/EN#19990/clothing a red shirt] and [/EN#19989/clothing a blue hat] digs [/EN#19997/other sand] in front of [/EN#19991/people a sand sculpture of a man] sitting on [/EN#19996/other a throne] .
+[/EN#19988/people A man] , wearing [/EN#19990/clothing a red shirt] and [/EN#19989/clothing blue hat] , is digging in [/EN#19997/scene the desert] .
+[/EN#19988/people A man] in [/EN#19990/clothing a red shirt] and [/EN#19989/clothing blue hat] making [/EN#19991/other a sand sculpture] .
+[/EN#19988/people An archeologist] with [/EN#19995/other a shovel] at [/EN#19994/scene an excavation site] .
+[/EN#19992/people A group of people] are working on [/EN#19991/other a sand sculpture] .

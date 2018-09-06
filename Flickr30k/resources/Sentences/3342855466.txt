@@ -1,0 +1,5 @@
+[/EN#111106/people A stunt bicycle rider] performs under [/EN#111108/scene an overpass] covered in [/EN#111111/other graffiti] .
+[/EN#111106/people A boy] on [/EN#111107/vehicles a bike] does [/EN#111110/other a stunt] on [/EN#111113/scene a ramp] filled with [/EN#111111/other graffiti] .
+[/EN#111106/people A boy] on [/EN#111107/vehicles a bike] is doing [/EN#111110/other a stunt high] in [/EN#0/notvisual the air] .
+[/EN#111106/people A bicycler] does [/EN#0/notvisual tricks] under [/EN#111108/scene an overpass] .
+[/EN#111107/vehicles A bmx] jumping into [/EN#111109/scene a drainage area] .

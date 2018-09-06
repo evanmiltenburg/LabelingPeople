@@ -1,0 +1,5 @@
+[/EN#90860/people A woman] dressed in [/EN#90864/clothing a black sweater] , [/EN#90868/clothing blue jeans] , and [/EN#90862/clothing golden high heel boots] is looking [/EN#90861/other a merchandise] in [/EN#90861/other a storefront window] .
+[/EN#90860/people Woman] wearing [/EN#90862/clothing gold boots] and [/EN#90865/clothing a gold hat] imitates [/EN#90870/people pantyhose models] in [/EN#90861/other a storefront window] .
+[/EN#90861/scene A shop] is closed and [/EN#90860/people a girl] is peeking through [/EN#0/notvisual it] looking at [/EN#90861/people lingerie collection] .
+[/EN#90860/people A woman] is standing in front of [/EN#90867/other a store door] [/EN#0/notvisual that] carries [/EN#90861/clothing women 's undergarments] .
+[/EN#90860/people Woman] with [/EN#90862/clothing gold boots] is looking at [/EN#90861/clothing pantyhose and camisoles] .

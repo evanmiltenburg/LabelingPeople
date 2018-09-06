@@ -1,0 +1,5 @@
+[/EN#48165/people A man] with [/EN#48172/other a handkerchief] around [/EN#48174/bodyparts his mouth] and [/EN#48175/bodyparts nose] in front of [/EN#48173/other a well] with [/EN#48168/other graffiti] on [/EN#0/notvisual it] .
+[/EN#48165/people Male] with [/EN#48166/clothing red bandanna] covering [/EN#48167/bodyparts face] walking [/EN#48168/other pass graffiti wall] .
+[/EN#48165/people A man] walks through [/EN#48170/scene a flooded area] in [/EN#48171/scene a graffiti covered area] .
+[/EN#48165/people A man] with [/EN#48166/clothing a bandanna] on [/EN#48167/bodyparts his face] walking by [/EN#48168/other some graffiti] .
+[/EN#48165/people A man] walking in front of [/EN#48168/scene a building] with [/EN#48168/other graffiti] on [/EN#0/notvisual it] .

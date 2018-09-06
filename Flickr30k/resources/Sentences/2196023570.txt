@@ -1,0 +1,5 @@
+[/EN#33488/people A man] with [/EN#33497/bodyparts a goatee] , [/EN#33493/clothing sunglasses] , and [/EN#33494/clothing a beret] stands at [/EN#33490/scene a city corner] with [/EN#33495/other newspaper dispensers] .
+[/EN#33488/people A man] in [/EN#33491/clothing red shirt] wearing [/EN#33493/clothing sunglasses] is leaning on [/EN#33492/other the wall]
+[/EN#33488/people A man] standing against [/EN#33489/scene a building] as [/EN#33496/scene traffic passes] by .
+[/EN#33488/people A man] in [/EN#33491/clothing a red jacket] is leaning against [/EN#33489/scene a building] .
+[/EN#33488/people A man] stands behind [/EN#33492/other a wall] on [/EN#33490/scene a busy city street] .

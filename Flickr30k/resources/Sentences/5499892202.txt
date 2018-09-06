@@ -1,0 +1,5 @@
+[/EN#237570/other A tractor] loaded with [/EN#237572/other parts] is moving across [/EN#237571/scene a barren area] outside .
+[/EN#237569/people A person] is driving [/EN#237570/other a tractor] over [/EN#0/notvisual some cracked ground] .
+[/EN#237569/people A man] in [/EN#237570/other a tractor] going down [/EN#237571/scene a dusty road] !
+[/EN#237570/other A tractor] carrying [/EN#237572/other lobster traps] .
+[/EN#237569/people A person] is operating [/EN#237570/scene a crane] .

@@ -1,0 +1,5 @@
+[/EN#36362/people The little girl] in [/EN#36364/clothing a white dress] is standing in front of [/EN#36363/scene the large park fountain] .
+[/EN#36365/other A young] in [/EN#36364/clothing a white dress] standing in front of [/EN#36366/scene a fence] and [/EN#36363/scene fountain] .
+[/EN#36362/people a young blond girl] standing in front of [/EN#36367/other a large] fenced in [/EN#36363/scene fountain]
+[/EN#36362/people A little blond girl] is standing in front of [/EN#36363/scene a water fountain] .
+[/EN#36362/people A young girl] standing in front of [/EN#36363/scene a fountain]

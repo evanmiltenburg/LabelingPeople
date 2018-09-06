@@ -1,0 +1,5 @@
+[/EN#236057/people Three children] playing in [/EN#236060/other a snowstorm] , while [/EN#236062/people a fourth child] jumps from [/EN#236059/scene a small hill] .
+[/EN#236056/people A person] in [/EN#236058/clothing a black coat] jumps through [/EN#236061/scene the snow] during [/EN#236060/other a snowstorm] .
+[/EN#236056/people A person] with [/EN#236058/clothing a black jacket] is jumping in [/EN#236061/scene the snow] .
+[/EN#236056/people A child] is jumping off of [/EN#236059/scene a small hill of snow] .
+[/EN#236057/people Children] playing [/EN#236063/scene outdoors] during [/EN#236060/other a snowstorm]

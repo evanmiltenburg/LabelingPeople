@@ -1,0 +1,5 @@
+[/EN#122059/people A man] standing by [/EN#122063/other a tree] in front of [/EN#122060/scene his home] in [/EN#122066/scene the mountains] holding [/EN#122062/other a jar] with [/EN#122062/other a yellow substance] in [/EN#0/notvisual it] .
+[/EN#122059/people Man] in [/EN#122064/clothing denim shirt] and [/EN#122065/clothing tan pants] with [/EN#122061/clothing cowboy hat] holds [/EN#122062/other a jar] in front of [/EN#122060/scene a house] .
+[/EN#122059/people An older man] dressed like [/EN#122059/people a cowboy] standing outside [/EN#122060/scene a country home] .
+[/EN#122059/people A man] in [/EN#122061/clothing a cowboy hat] holds [/EN#122062/other a yellow jar] while leaning on [/EN#122063/other a tree] .
+[/EN#122059/people A man] holds on to [/EN#122063/other the tree] while holding [/EN#122062/other a yellow container] .

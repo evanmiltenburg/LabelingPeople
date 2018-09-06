@@ -1,0 +1,5 @@
+[/EN#232511/people A man] with [/EN#232523/bodyparts black hair] and [/EN#232514/clothing a red shirt] is sitting at [/EN#232513/other a work desk] with [/EN#232512/other an extend screen] and [/EN#0/notvisual there] is [/EN#232519/people another person] working on [/EN#232512/other his extend screen] in [/EN#0/notvisual the background] .
+[/EN#232511/people A person] in [/EN#232514/clothing a salmon colored shirt] is sitting at [/EN#232513/other a desk] and looking at [/EN#232512/other a computer screen] .
+[/EN#232511/people A person] in [/EN#232514/clothing an orange shirt] sits at [/EN#232513/other an office desk] and looks at [/EN#232512/other a double computer screen] .
+[/EN#232518/people A pair of office workers] are diligently performing [/EN#232522/other their tasks] on [/EN#232513/other messy desks] .
+[/EN#232511/people A young man] is looking at [/EN#232521/other photos] on [/EN#232516/other his computer] , sitting at [/EN#232513/other a desk] .

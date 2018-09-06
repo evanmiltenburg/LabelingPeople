@@ -1,0 +1,5 @@
+[/EN#49203/people A man] is standing in front of [/EN#49208/other a microphone] in [/EN#49211/scene a room] with [/EN#49204/people individuals] sitting on [/EN#49212/other chairs] in [/EN#49213/other rows] around [/EN#49214/scene the edges of the room] .
+[/EN#49203/people An older man] in [/EN#49205/clothing a suit] gives [/EN#49210/other a presentation] to [/EN#49204/people other businessmen] .
+[/EN#49203/people A man] in [/EN#49205/clothing a suit] is standing at [/EN#49209/scene a podium] in front of [/EN#49204/people an audience] .
+[/EN#49203/people An older gentleman] is holding [/EN#49206/people a conference] .
+[/EN#49204/people Some men] are attending [/EN#49207/other a meeting] .

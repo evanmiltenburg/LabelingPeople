@@ -1,0 +1,5 @@
+[/EN#4451/people Metal worker] in [/EN#4454/other protective gear] and [/EN#4458/clothing welding face mask] works on [/EN#4453/other weld] .
+[/EN#4451/people A person] wearing [/EN#4454/other something] gray while fixing [/EN#4453/other a yellow and gray wall] .
+[/EN#4451/people A man] with [/EN#4452/other a blowtorch] is doing [/EN#4457/other repair work] on [/EN#4453/other a wall] .
+[/EN#4451/people A guy] wearing [/EN#4454/other protective gear] is welding [/EN#4456/other a steel beam] .
+[/EN#4451/people Man] using [/EN#4452/other a sander] to remove [/EN#4453/other rust of metal] .

@@ -1,0 +1,5 @@
+[/EN#95518/people A man] in [/EN#95519/clothing a purple shirt] is videotaping [/EN#95521/people a lady] in [/EN#95523/clothing a blue shirt] [/EN#0/notvisual that] is sitting in [/EN#95520/scene the street] hiding [/EN#95525/bodyparts her face] .
+[/EN#95518/people Man] in [/EN#95519/clothing a purple shirt] holding [/EN#95526/other a video camera] on [/EN#95521/people a woman] sitting in [/EN#95520/scene the street] .
+[/EN#95518/people A man] recording [/EN#95521/people a woman] crying in [/EN#95520/scene the street] .
+[/EN#95522/people Two persons] are sitting on [/EN#95520/scene the road] .
+[/EN#95518/people A man] filming [/EN#95521/people a woman] crying .

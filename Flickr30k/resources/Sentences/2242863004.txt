@@ -1,0 +1,5 @@
+[/EN#36335/animals/people A German shepherd] is playing with [/EN#36336/other a red ball] .
+[/EN#36335/animals/people A German Shepherd] is playing with [/EN#36336/other a red ball] .
+[/EN#36335/animals a German Sheppard dog] bting [/EN#36336/other a large red ball]
+[/EN#36335/animals A dog] attempting to chew on [/EN#36336/other a red ball] .
+[/EN#36335/animals A dog] with [/EN#36336/other a red ball] .

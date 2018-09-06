@@ -1,0 +1,5 @@
+[/EN#114040/people A person] in [/EN#114044/other a yellow slicker] is driving [/EN#114042/vehicles a motorboat] next to [/EN#114041/scene the beach] .
+[/EN#114040/people A person] in [/EN#114048/clothing a raincoat] stands in [/EN#114042/vehicles/scene a boat] going across [/EN#114041/scene the water] .
+[/EN#114040/people This person] is driving [/EN#114042/vehicles/scene a boat] on [/EN#114043/scene a secluded beach] .
+[/EN#114045/other fisherman motors] ahead in [/EN#114042/vehicles/scene his boat] , facing [/EN#114046/other the sun]
+[/EN#114040/people A person] on [/EN#114042/vehicles/scene a boat] by [/EN#114041/scene the shore] .

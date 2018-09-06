@@ -1,0 +1,5 @@
+[/EN#223114/people A man] in [/EN#223117/clothing a t-shirt] is sitting on [/EN#0/notvisual the ground] holding [/EN#223113/people a little boy] wearing [/EN#223118/clothing a light green t-shirt] .
+[/EN#223114/people A man] sitting on [/EN#223115/other the grounding] holding [/EN#223113/people a little boy] [/EN#0/notvisual that] is sleeping in [/EN#223116/bodyparts his lap] .
+[/EN#223114/people A man] is sitting in [/EN#223115/scene grass] with [/EN#223113/people a little boy] laying in [/EN#223116/bodyparts his lap] .
+[/EN#223113/people A little boy] falling asleep in [/EN#223116/bodyparts his dad 's lap] on [/EN#223115/scene a green lawn] .
+[/EN#223114/people A man] sitting in [/EN#223115/scene the grass] , holds [/EN#223113/people his child] in [/EN#223116/bodyparts his lap] .

@@ -1,0 +1,5 @@
+[/EN#64267/scene A view of a crowded tent] , with [/EN#64266/people several men] visible sitting along [/EN#64274/other a table or counter] , [/EN#0/notvisual that] has [/EN#64272/scene a pitcher of water] and [/EN#64271/other some coffee cups] on [/EN#0/notvisual it] .
+[/EN#64276/people three men] sitting at [/EN#64268/scene a bar] inside of [/EN#64269/scene a restaurant] .
+[/EN#64266/people A group of friends] sit down for [/EN#64275/other something] to eat .
+[/EN#64266/people Some patrons] at [/EN#64273/people/scene a some sort of diner] .
+[/EN#64266/people Several men] having [/EN#64270/other a drink] at [/EN#64269/scene a bar] .

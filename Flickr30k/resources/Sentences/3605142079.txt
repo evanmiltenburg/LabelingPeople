@@ -1,0 +1,5 @@
+[/EN#131021/people An older man] repairing [/EN#131023/other a bike tire] in [/EN#131025/scene a grassy park] .
+[/EN#131021/people A man] is fixing [/EN#131023/vehicles the back tire of his bike] .
+[/EN#131021/people Man] inspecting [/EN#131023/vehicles his bicycle] near [/EN#131022/scene a road] .
+[/EN#131021/people A man] fixes [/EN#131023/vehicles his bicycle] beside [/EN#131022/scene a road] .
+[/EN#131021/people A man] is fixing [/EN#131023/vehicles his bike] .

@@ -1,0 +1,5 @@
+[/EN#122042/animals A white dog] with [/EN#122044/bodyparts brown ears] is running on [/EN#122043/scene the sidewalk] .
+[/EN#122042/animals Little brown and white dog] running on [/EN#122043/scene the sidewalk] .
+[/EN#122042/animals A little white dog] in running on [/EN#122043/scene the sidewalk] .
+[/EN#122042/animals a brown and white dog] jumps on [/EN#122043/scene the sidewalk] .
+[/EN#122042/animals The dog] is running .

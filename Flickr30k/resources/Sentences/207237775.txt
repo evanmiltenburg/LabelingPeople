@@ -1,0 +1,5 @@
+[/EN#26980/people One person] does [/EN#26974/other a flip] in [/EN#26979/scene the middle of the field] while [/EN#26978/people their friend] takes [/EN#26981/other a picture] .
+[/EN#26975/people A person] is taking [/EN#26980/people a picture of another person] doing [/EN#26974/other a flip] in [/EN#26982/scene midair] in [/EN#26976/scene the grass] .
+[/EN#26975/people One man] taking [/EN#26983/people a photo of another man] jumping in [/EN#26976/scene a field] by [/EN#26977/other a small tree] .
+[/EN#26975/people A young man] takes [/EN#26978/people a picture of his friend] doing [/EN#26984/other gymnastics] in [/EN#26976/scene a field]
+[/EN#26983/people A man] doing [/EN#26974/other a back] flip while [/EN#0/notvisual another] takes [/EN#26986/other a picture] .

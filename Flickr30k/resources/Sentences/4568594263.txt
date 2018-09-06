@@ -1,0 +1,5 @@
+[/EN#179378/people The two construction workers] in [/EN#179384/clothing the work clothes] are fixing [/EN#179379/scene the wall of the building] .
+[/EN#179377/people Male painter] climbing [/EN#179381/other a scaffold] being set up by [/EN#179379/scene a building] .
+[/EN#179377/people Men] work on [/EN#0/notvisual the paint of a side] of [/EN#179379/scene an old building] .
+[/EN#179378/people Two men] work outside on repairing [/EN#179379/other a building wall] .
+[/EN#179378/people Workers] strip [/EN#179382/other a wall] while on [/EN#179381/other scaffolding] .

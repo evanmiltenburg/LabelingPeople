@@ -1,0 +1,5 @@
+[/EN#143317/people The woman] sits leaned against [/EN#143321/other the wall] on [/EN#143320/scene the cobblestone path] feeding [/EN#143318/people her baby] from [/EN#143319/other a bottle] .
+[/EN#143317/people A mother] sits against [/EN#143321/other a shabby wall] , nursing [/EN#143318/people her baby] with [/EN#143319/other a bottle of milk] .
+[/EN#143317/people A woman] holding [/EN#143318/people a baby] sits on [/EN#0/notvisual the ground] and leans up against [/EN#143321/other a wall] .
+[/EN#143317/people A mother] sitting on [/EN#143320/scene a cobblestone street] giving [/EN#0/notvisual her] [/EN#143318/people baby] [/EN#143319/other a drink] .
+[/EN#143317/people The women] is holding [/EN#143318/people a baby] .

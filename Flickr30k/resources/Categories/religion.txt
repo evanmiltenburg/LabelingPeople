@@ -1,0 +1,11 @@
+muslim
+hindu
+amish
+christian
+islamic
+religious
+jewish
+buddhist
+catholic
+mormon
+hindi

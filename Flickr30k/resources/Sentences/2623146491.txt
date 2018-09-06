@@ -1,0 +1,5 @@
+[/EN#62121/people A man] in [/EN#62125/scene the store] has purchased [/EN#62126/other something] and [/EN#62123/people the cashier] is handing [/EN#0/notvisual him] [/EN#62130/clothing his bag] .
+[/EN#62121/people A man] in [/EN#62129/clothing black] is purchasing [/EN#62126/other something] at [/EN#62128/other the register] in [/EN#62125/scene a store] .
+[/EN#62121/people a tattooed man] is making [/EN#62127/other a purchase] in [/EN#62125/scene a music store] .
+[/EN#62121/people A man] is standing in [/EN#62124/other the checkout line] at [/EN#62125/scene a store] .
+[/EN#62121/people Man] standing at [/EN#62124/other a check-out counter] .

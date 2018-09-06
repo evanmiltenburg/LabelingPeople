@@ -1,0 +1,5 @@
+[/EN#149860/people A woman] wearing [/EN#149865/clothing a dark skirt] and [/EN#149866/clothing a t-shirt] is facing [/EN#149864/other a bathroom sink] .
+[/EN#149862/other Barefooted] , [/EN#149860/people someone] appears to be looking in [/EN#149863/other a bathroom mirror] .
+[/EN#149860/people A woman] in [/EN#149866/clothing black] is getting ready in [/EN#149861/scene her bathroom] .
+[/EN#149860/people Person] in [/EN#149861/scene bathroom] getting ready .
+[/EN#149860/people A woman] brushing [/EN#149868/bodyparts her teeth] .

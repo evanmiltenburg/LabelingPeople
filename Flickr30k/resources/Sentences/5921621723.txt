@@ -1,0 +1,5 @@
+[/EN#245284/people A shirtless young male] is performing [/EN#0/notvisual a skateboard trick] at [/EN#245290/other a skating rink] during [/EN#245291/scene a sunny day] .
+[/EN#245284/people A shirtless man] is in [/EN#245292/scene midair] with [/EN#245289/other a skateboard] beneath [/EN#0/notvisual him] .
+[/EN#245284/people Young man] with [/EN#245293/clothing no shirt] skateboarding off [/EN#245288/scene a ramp] [/EN#245285/scene outdoors] .
+[/EN#245284/people Awesome skateboarder] doing [/EN#0/notvisual a trick] on [/EN#245287/other an incline] .
+[/EN#245284/people A man] is skateboarding at [/EN#245285/scene a park] .

@@ -1,0 +1,5 @@
+[/EN#97770/people A man] wearing [/EN#97771/clothing an identical light blue sweater] to [/EN#97772/people the man] sitting next to [/EN#0/notvisual him] is using [/EN#97773/other a cellular phone] .
+[/EN#97770/other One] in [/EN#97771/clothing a blue shirt] using [/EN#97773/other his cellphone] , and [/EN#97772/people one man] looking away , sitting outside [/EN#97775/scene a building] .
+[/EN#97770/people A man] in [/EN#97771/clothing a blue jacket] and [/EN#97776/clothing gray pants] sitting [/EN#97779/scene outside] and looking at [/EN#97773/other his cellphone] .
+[/EN#97777/people Two men] wearing [/EN#97771/clothing blue jackets] are seated next to [/EN#0/notvisual one another] .
+[/EN#97777/people Two men] in [/EN#97771/clothing blue jackets] are sitting on [/EN#97778/other a concrete stoop] .

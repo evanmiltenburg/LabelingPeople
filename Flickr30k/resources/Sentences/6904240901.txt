@@ -1,0 +1,5 @@
+[/EN#260898/people A kid] is running down [/EN#260900/scene a walkway] on [/EN#260902/scene a winter day] wearing [/EN#260899/clothing a red jacket] and [/EN#260901/clothing striped beanie] .
+[/EN#260898/people A child] in [/EN#260899/clothing a red jacket] and [/EN#260901/clothing striped hat] runs down [/EN#260900/scene a sidewalk] next to [/EN#260904/other a short wall] .
+[/EN#260898/people A person] in [/EN#260899/clothing a red shirt] and [/EN#260901/clothing striped hat] is running down [/EN#260900/scene a sidewalk] .
+[/EN#260898/people This young girl] is making [/EN#260903/scene her way home] .
+[/EN#260898/people A girl] running in [/EN#260900/scene the sidewalk] .

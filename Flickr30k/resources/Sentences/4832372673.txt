@@ -1,0 +1,5 @@
+[/EN#208721/people A person] in [/EN#208724/clothing black clothing] wearing [/EN#208722/clothing a backpack] is walking down [/EN#208726/other a cobblestone pathway] .
+[/EN#208721/people A tourist] with [/EN#208722/clothing a backpack] takes [/EN#208728/other a stroll] on [/EN#208726/scene a narrow cobblestone street] .
+[/EN#208721/people A man] in [/EN#208724/clothing black] walking down [/EN#208723/scene a hallway] to [/EN#208729/scene the outdoors] .
+[/EN#208721/people A tourist] walks beneath [/EN#208730/scene the shade of a building] .
+[/EN#208725/scene A land] in [/EN#208724/clothing black] walks through [/EN#208723/scene a corridor] .

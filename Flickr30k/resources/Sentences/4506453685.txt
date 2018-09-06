@@ -1,0 +1,5 @@
+[/EN#173783/people A woman] in [/EN#173787/clothing a long-sleeved shirt] is looking out of [/EN#173786/other a window] and holding up [/EN#173784/other a small object] .
+[/EN#173783/people An Asian woman] with [/EN#173784/other a cellphone] is riding on [/EN#173788/vehicles public transportation] .
+[/EN#173783/people An asian woman] is looking out of [/EN#173786/other a window] on [/EN#173785/vehicles/scene a train] .
+[/EN#173783/people A woman] on [/EN#173785/vehicles/scene the subway] looking out [/EN#173786/other the window] .
+[/EN#173783/people A woman] riding on [/EN#173785/vehicles/scene a train] , smoking .

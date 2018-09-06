@@ -1,0 +1,5 @@
+[/EN#45557/people A group of turbaned men] ride [/EN#45560/vehicles motorbikes] away from [/EN#45565/people the viewer] down [/EN#45561/other a tree] edged [/EN#45558/scene street] while [/EN#45559/other a white van] follows [/EN#0/notvisual them] .
+[/EN#45557/people People] riding [/EN#45560/vehicles mopeds] on [/EN#45558/scene a small road] being followed by [/EN#45559/other a white van] with [/EN#45563/other streamers] on [/EN#0/notvisual it] .
+[/EN#45558/scene A road] is fairly busy somewhere in [/EN#45564/scene the middle] east .
+[/EN#45557/people People] riding on [/EN#45562/other motorcycles] in [/EN#45558/scene the street] .
+[/EN#45557/people Bikers] ride down [/EN#45558/scene a busy rural street] .

@@ -1,0 +1,5 @@
+[/EN#284029/people A small girl] wearing [/EN#284030/clothing a pink jacket] is carrying [/EN#284031/other her luggage] with [/EN#284032/people Cinderella] on [/EN#0/notvisual it]
+[/EN#284029/people A little girl] in [/EN#284030/clothing a pink coat] is dragging [/EN#284031/other her luggage] behind [/EN#0/notvisual her] .
+[/EN#284029/people A young girl] in [/EN#284030/clothing a pink jacket] is carrying [/EN#284033/clothing a rolling luggage bag]
+[/EN#284029/people A little girl] in [/EN#284030/clothing a pink jacket] is pulling [/EN#284031/other a suitcase] .
+[/EN#284029/people A child] dragging [/EN#284031/other her luggage] .

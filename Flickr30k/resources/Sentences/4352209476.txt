@@ -1,0 +1,5 @@
+[/EN#164514/people A man] in [/EN#164517/clothing blue jeans] uses [/EN#164520/clothing his jacket] as [/EN#164518/other a pillow] as [/EN#0/notvisual he] lies on [/EN#164515/other a stone bench] .
+[/EN#164514/people A man] in [/EN#164516/clothing a black and white striped shirt] sleeps on [/EN#164515/other a concrete bench] .
+[/EN#164514/people A man] with [/EN#164516/clothing a striped shirt] is sleeping on [/EN#164515/other park bench] .
+[/EN#164514/people A man] in [/EN#164517/clothing jeans] laying upon [/EN#164515/other a stone bench] outside .
+[/EN#164514/people A man] is lying on [/EN#164515/other a bench] near [/EN#164519/other a thin tree] .

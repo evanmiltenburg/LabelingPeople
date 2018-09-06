@@ -1,0 +1,5 @@
+[/EN#189603/people A young boy] in [/EN#189608/clothing a white T-shirt] and [/EN#189609/clothing shorts] fishing at [/EN#189605/scene the bank of a small lake] .
+[/EN#189603/people A young child] stands by [/EN#189606/scene a body of water] with [/EN#189610/other a fishing pole] .
+[/EN#189603/people A young boy] fishing by [/EN#0/notvisual himself] in [/EN#189604/clothing a hat] , on [/EN#189607/scene a sunny day] .
+[/EN#189603/people A young boy] in [/EN#189604/clothing a hat] is fishing by [/EN#0/notvisual himself] .
+[/EN#189603/people A boy] fishes on [/EN#189605/scene the banks of a lake] .

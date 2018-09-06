@@ -1,0 +1,5 @@
+[/EN#130978/people A child] floating on [/EN#130979/scene a blue raft] while [/EN#130983/people a woman] holds on to [/EN#0/notvisual him] while [/EN#130977/animals a black dog] swims nearby .
+[/EN#130978/people Two people] swimming in [/EN#130981/scene water] with [/EN#130977/animals a black dog] trailing behind [/EN#0/notvisual them] .
+[/EN#130978/people Two people] and [/EN#130977/animals a dog] play in [/EN#130981/scene the water] using [/EN#130979/other a blue inflatable toy] .
+[/EN#130977/animals Black dog] swims behind [/EN#130978/people two people] on [/EN#130979/scene an inflatable blue raft] .
+[/EN#130978/people Two people] swimming on [/EN#130979/other a floating] while [/EN#130977/animals a black dog] follows .

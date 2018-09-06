@@ -1,0 +1,5 @@
+[/EN#191554/people A group of people] are standing around waiting for [/EN#191557/vehicles/scene a train] .
+[/EN#191554/people Several women] stand on [/EN#191556/other a platform] near [/EN#191558/other the yellow line] .
+[/EN#191554/people A group of six women] are standing on [/EN#191556/other a train platform] .
+[/EN#191554/people A group of people] waiting in [/EN#191555/scene a train station] .
+[/EN#191554/people a group of people] on [/EN#191555/scene a medal walkway]

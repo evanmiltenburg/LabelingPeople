@@ -1,0 +1,5 @@
+[/EN#185608/people A man] in [/EN#185610/clothing a blue apron] and [/EN#185609/clothing blue headscarf] stands in front of [/EN#185611/other a wooden counter] with [/EN#185613/other a hammer] on [/EN#0/notvisual it] .
+[/EN#185608/people An old man] wearing [/EN#185609/clothing a bandanna] and [/EN#185610/clothing a denim apron] looks at [/EN#185611/other a cabinet] in [/EN#185616/scene a workshop] .
+[/EN#185608/people Old man] wearing [/EN#185609/clothing a blue bandanna] and [/EN#185615/other building furniture] .
+[/EN#185608/people An old carpenter] constructs [/EN#185611/bodyparts a chest] .
+[/EN#185608/people An old man] working on [/EN#185611/other a craft] .

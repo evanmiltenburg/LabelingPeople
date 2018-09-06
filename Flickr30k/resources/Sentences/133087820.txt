@@ -1,0 +1,5 @@
+[/EN#8811/people A man] is reading [/EN#8814/other a book] while sitting on [/EN#8812/other a bench] outside of [/EN#8813/scene a bookstore] .
+[/EN#8811/people A person] is sitting outside of [/EN#8813/scene a bookstore] and reading .
+[/EN#8811/people A man] studying for [/EN#8815/other his exams] outside [/EN#8813/scene a bookstore]
+[/EN#8811/people A young man] on [/EN#8812/other a bench] outside of [/EN#8813/scene a bookstore] .
+[/EN#8811/people A man] is sitting outside of [/EN#8813/scene a bookstore] .

@@ -1,0 +1,5 @@
+[/EN#51658/animals A big brown dog] runs with [/EN#51660/other a stick] in [/EN#51661/bodyparts his mouth] , and [/EN#51663/clothing a big black] down [/EN#51665/other runs] behind [/EN#0/notvisual him] .
+[/EN#51659/animals A black dog] and [/EN#51658/animals a brown dog] with [/EN#51660/other a stick] in [/EN#51661/bodyparts his mouth] are running in [/EN#51666/scene the field] .
+[/EN#51658/animals A brown dog] runs with [/EN#51660/other a stick] in [/EN#51661/bodyparts its mouth] and [/EN#51659/animals a black dog] follows .
+[/EN#51662/animals Two dogs] are running , [/EN#0/notvisual one of them] has [/EN#51660/other a stick] in [/EN#51661/bodyparts its mouth] .
+[/EN#51658/animals A dog] running with [/EN#51660/other a stick] in [/EN#51661/bodyparts its mouth] .

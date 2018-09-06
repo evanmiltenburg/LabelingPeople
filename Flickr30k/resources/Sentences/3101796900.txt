@@ -1,0 +1,5 @@
+[/EN#93653/animals A lack dog] and [/EN#93652/animals a brown and white dog] run on [/EN#93655/scene a gravel surface] with [/EN#93654/other something red underfoot] .
+[/EN#93652/animals A large brown dog] and [/EN#93653/animals a larger black dog] playing together with [/EN#93654/other a ball] .
+[/EN#93652/animals A brown dog] and [/EN#93653/animals a black dog] are playing with [/EN#93654/other a red Frisbee] .
+[/EN#93652/animals A large black dog] in [/EN#93655/scene the dirt] with [/EN#93652/animals a small brown dog] .
+[/EN#93656/animals Two dogs] are chasing [/EN#93654/other a ball] .

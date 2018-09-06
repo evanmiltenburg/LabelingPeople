@@ -1,0 +1,5 @@
+[/EN#59159/people The man] is digging to find [/EN#59165/other something] important , [/EN#59162/other gems] , [/EN#59163/clothing gold] or [/EN#59164/other other sort] .
+[/EN#59159/people A man] is sitting down on [/EN#0/notvisual the ground] sifting through [/EN#59166/scene dirt] using [/EN#59160/other a bucket] .
+[/EN#59159/people A man] covered in [/EN#59161/other sand] is looking inside of [/EN#59160/other a metal bucket] .
+[/EN#59159/people man] sitting on [/EN#0/notvisual ground] next to [/EN#59160/other bucket of mud] .
+[/EN#59159/people A man] fills up [/EN#59160/other an old bucket] with [/EN#59161/other sand] .

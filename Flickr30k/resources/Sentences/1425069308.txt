@@ -1,0 +1,5 @@
+[/EN#12391/animals Two dogs] in [/EN#12397/scene a family room] are playing , [/EN#12392/other one] is catching [/EN#12393/other a ball] in [/EN#12394/bodyparts its mouth] .
+[/EN#12392/animals A dog] on [/EN#12396/bodyparts two legs] with [/EN#12394/bodyparts its mouth] opened toward [/EN#12393/other a blue ball] in [/EN#0/notvisual the air] .
+[/EN#12392/animals A white dog] jumps to catch [/EN#12393/other a blue ball] in [/EN#12397/scene a living room] .
+[/EN#12392/animals The dog] is jumping in [/EN#0/notvisual the air] to catch [/EN#12393/other a ball] .
+[/EN#12392/animals A white dog] catching [/EN#12393/other a blue ball]

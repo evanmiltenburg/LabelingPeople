@@ -1,0 +1,5 @@
+[/EN#266675/other A kite] is being flown next to [/EN#266673/scene a suspension bridge] , and [/EN#266677/vehicles/scene the boat] and [/EN#266672/people the person] flying [/EN#266674/other the kite] are visible in [/EN#0/notvisual the foreground] .
+[/EN#266676/vehicles A remote controlled children 's toy motorboat] flies [/EN#266674/other a kite] under [/EN#266673/scene a bridge] in [/EN#266679/scene the water] .
+[/EN#266672/people A parasailer] rides parallel to [/EN#266673/scene the Golden Gate Bridge] .
+Parasailing under [/EN#266673/scene the Golden Gate bridge] .
+[/EN#266672/people A person] is [/EN#266674/other kite] surfing by [/EN#266673/scene a bridge] .

@@ -1,0 +1,5 @@
+[/EN#125613/people A man] running across [/EN#125615/scene the street] in front of [/EN#125614/scene a building] under [/EN#125614/other construction] .
+[/EN#125613/people A man] jogs down [/EN#125615/scene the street] in front of [/EN#125614/scene a building] under [/EN#125614/other construction] .
+[/EN#125613/people man] jogging on [/EN#125615/scene a road] , in front of [/EN#125614/scene a big unfinished building] .
+[/EN#125613/people A man] in [/EN#125618/clothing blue] running across [/EN#125615/scene the street] and avoiding [/EN#125619/vehicles traffic] .
+[/EN#125613/people An elderly man] goes for [/EN#125617/other a run] on [/EN#125615/scene a busy street] .

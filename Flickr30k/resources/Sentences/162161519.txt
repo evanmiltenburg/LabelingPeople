@@ -1,0 +1,5 @@
+[/EN#17746/people A man] and [/EN#17747/people a smiling young boy] in [/EN#17748/clothing a float vest] are swimming together .
+[/EN#17746/people A man] in [/EN#17749/scene a swimming pool] holds [/EN#17747/people a smiling boy] in [/EN#17751/other a flotation device] .
+[/EN#17746/people A man] is swimming with [/EN#17747/people a little boy] [/EN#0/notvisual who] is wearing [/EN#17748/clothing a life jacket] .
+[/EN#17746/people A man] and [/EN#17747/people young boy] in [/EN#17748/clothing a yellow life jacket] are swimming .
+[/EN#17746/people A man] and [/EN#17747/people a child] in [/EN#17749/scene the water] , swimming .

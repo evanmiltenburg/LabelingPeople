@@ -1,0 +1,5 @@
+[/EN#170683/people A group of women] walking down [/EN#170684/scene the sidewalk] in [/EN#170685/other the early morning] or evening [/EN#170686/other hours] , dressed for [/EN#170687/other cool weather] .
+[/EN#170683/people A group of friends] walking down [/EN#170684/scene the sidewalk] .
+[/EN#170683/people A group of people] waking down [/EN#170684/scene a city street] .
+[/EN#170683/people A group of women] is walking on [/EN#170684/scene a sidewalk] .
+[/EN#0/notvisual There] are [/EN#170683/people people] on [/EN#170684/scene the sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#151653/people A balding man] wearing [/EN#151654/clothing a dark , blue uniform] is rolling [/EN#151655/other a yellow stretcher] containing [/EN#151656/clothing a large , blue duffel bag] .
+[/EN#151658/other An EMT or paramedic wheels] [/EN#151655/other a stretcher] loaded with [/EN#151656/clothing bags] and [/EN#151656/other gear] across [/EN#151661/scene a sidewalk] .
+[/EN#151653/people A paramedic] wheeling [/EN#151655/other a stretcher] with [/EN#151656/clothing an equipment bag] on [/EN#151660/clothing top] .
+[/EN#151653/people A man] is wheeling [/EN#151655/other a gurney] full of [/EN#151656/other medical supplies] .
+[/EN#151653/people A man] in [/EN#151654/clothing uniform] is pushing [/EN#151655/other a medical bed] .

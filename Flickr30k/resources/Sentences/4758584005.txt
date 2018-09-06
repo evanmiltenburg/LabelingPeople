@@ -1,0 +1,5 @@
+[/EN#199688/people A person] in [/EN#199689/scene a large field] plays with [/EN#199690/vehicles a model airplane] .
+[/EN#199688/people A man] is playing with [/EN#199690/vehicles a model airplane] in [/EN#199689/scene a field] .
+[/EN#199688/people A man] walks in [/EN#199689/scene a field] holing [/EN#199690/vehicles a model airplane] .
+[/EN#199688/people A boy] playing with [/EN#199690/vehicles an airplane] in [/EN#199689/scene a field] .
+[/EN#199688/people A man] prepares to fly [/EN#199690/vehicles his toy airplane] .

@@ -1,0 +1,5 @@
+[/EN#163832/people A little boy] wearing [/EN#163835/clothing a green and white shirt] with [/EN#163836/clothing orange pants] is helping [/EN#163832/people another little boy] sweep leaves from [/EN#163828/scene a road] while [/EN#163831/people two adult onlookers] stand nearby .
+[/EN#163827/people Two young boys] are raking [/EN#163829/other leaves] on [/EN#163830/scene the side of a road] with [/EN#163831/people two older person] watching in [/EN#163833/scene the forest] filled [/EN#0/notvisual background] .
+[/EN#163827/people Two boys] are helping clean up [/EN#163829/other leaves] at [/EN#163830/scene the side of the road] .
+[/EN#163827/people Two male children] cleaning up [/EN#163829/other leaves] in [/EN#163828/scene a parking lot] .
+[/EN#163827/people Two young boys] are cleaning up [/EN#163829/other fallen leaves] .

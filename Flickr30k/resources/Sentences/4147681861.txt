@@ -1,0 +1,5 @@
+[/EN#157014/people A man] in [/EN#157021/clothing black] is cleaning [/EN#157016/scene the roof of a building] with [/EN#157018/scene a jet of water] .
+[/EN#157014/people A man] squatted on [/EN#157016/scene a rooftop] cleans [/EN#157020/other the rain gutters] with [/EN#157015/other a hose] .
+[/EN#157014/people A man] is standing on [/EN#157016/scene a metal roof] spraying [/EN#157015/other red water hose] .
+[/EN#157014/people Man] on [/EN#157016/scene the roof of a building] spraying off [/EN#157016/scene the roof] .
+[/EN#157014/people A man] in [/EN#157016/scene all black hosing of the roof] of [/EN#157016/scene a building] .

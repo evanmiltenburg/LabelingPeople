@@ -1,0 +1,5 @@
+[/EN#153599/people A man] with [/EN#153602/clothing glasses] and [/EN#153604/clothing no shirt] looks in [/EN#153600/other the mirror] as [/EN#0/notvisual he] shaves .
+[/EN#153599/people A naked man] with [/EN#153602/clothing glasses] is shaving [/EN#153603/bodyparts his face] in [/EN#153601/scene his bathroom] .
+[/EN#153599/people A young shirtless man] with [/EN#153602/clothing glasses] shaving in [/EN#153600/other a mirror] .
+[/EN#153599/people a guy] shaving [/EN#153603/bodyparts his facial hair] in [/EN#153601/scene the restroom] .
+[/EN#153599/people A man] wearing [/EN#153602/clothing glasses] is shaving in [/EN#153600/other a mirror] .

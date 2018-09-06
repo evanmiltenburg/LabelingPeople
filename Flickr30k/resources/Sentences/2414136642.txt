@@ -1,0 +1,5 @@
+[/EN#47675/people A man] in [/EN#47676/clothing a dark jacket] and [/EN#47677/clothing jeans] hugs [/EN#47678/people a woman] in [/EN#47679/clothing a dark jacket] and [/EN#47680/clothing jeans] on [/EN#47683/scene a concrete pavement] .
+[/EN#47675/people A man] and [/EN#47678/people a woman] wearing [/EN#47676/clothing jackets] embrace in [/EN#47684/other a hug] .
+[/EN#47675/people A man] and [/EN#47678/people woman] are hugging in [/EN#47682/other a public square]
+[/EN#47675/people a man] in [/EN#47681/other black hugs] [/EN#47678/people a woman] in [/EN#47679/clothing black] .
+[/EN#47675/people Two people] hugging on [/EN#47683/scene the street] .

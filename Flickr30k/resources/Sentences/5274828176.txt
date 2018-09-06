@@ -1,0 +1,5 @@
+[/EN#232685/people Two children] are shoveling [/EN#232686/scene snow] near [/EN#232687/people a large snow pile] while [/EN#232688/other a third] is kneeling in [/EN#0/notvisual it] .
+[/EN#232684/people Three children] wielding [/EN#232690/other shovels] are in front of [/EN#232686/scene a large mound of snow] .
+[/EN#232685/people two kids] are shoveling [/EN#232686/scene snow] and [/EN#232688/other one] is sitting next to [/EN#232686/scene the pile of snow]
+[/EN#232684/people Three small children] are making [/EN#232687/scene a giant pile of snow] .
+[/EN#232684/people Three youngsters] shovel [/EN#232686/scene a huge pile of snow] .

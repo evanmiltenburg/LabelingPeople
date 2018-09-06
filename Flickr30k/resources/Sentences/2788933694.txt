@@ -1,0 +1,5 @@
+[/EN#73033/people A woman] wearing [/EN#73037/clothing a blue shirt] looking into [/EN#73036/other a black telescope] during [/EN#73042/scene the day] while [/EN#73035/people a woman] in [/EN#73039/clothing a red shirt] stands behind [/EN#0/notvisual her] .
+[/EN#73033/people A young woman] in [/EN#73037/clothing a blue shirt] looks into [/EN#73036/other a telescope] outside while [/EN#73035/people another woman] in [/EN#73039/clothing a red shirt] observes [/EN#0/notvisual her] .
+[/EN#73035/people A young girl] in [/EN#73037/clothing a blue t-shirt] is looking through [/EN#73036/other a telescope] while [/EN#73035/people another girl] in [/EN#73039/clothing a red shirt] watches .
+[/EN#73033/people A lady] in [/EN#73037/clothing blue] , taking [/EN#73040/scene a close look of the surroundings] by looking in [/EN#73036/other the standing camera] at [/EN#73041/scene park] .
+[/EN#73035/people A girl] with [/EN#73037/clothing a blue shirt] using [/EN#73036/other a telescope] with [/EN#73043/people two friends] .

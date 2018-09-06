@@ -1,0 +1,5 @@
+[/EN#3122/people Two men] in [/EN#3127/clothing construction vests] are working on [/EN#3123/scene the side of a street] with [/EN#3124/other machines] .
+[/EN#3122/people Two construction workers] are working on repairing [/EN#3123/scene a cobblestone walkway] .
+[/EN#3122/people Two construction workers] operate [/EN#3124/other a machine] [/EN#0/notvisual that] steams [/EN#3123/scene the street] .
+[/EN#3122/people Workman] are completing [/EN#3125/other repairs] on [/EN#3123/scene a city street] .
+[/EN#3122/people Two construction workers] work on [/EN#3123/scene a road] .

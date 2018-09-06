@@ -1,0 +1,5 @@
+[/EN#150840/people A person] in [/EN#150841/clothing an apron] and [/EN#150844/clothing hat] is holding [/EN#150846/other an large stick] over [/EN#150843/other a stove] .
+[/EN#150840/people An Asian man] is roasting [/EN#150842/animals a small pig] on [/EN#150846/other a hand turned spit] .
+[/EN#150840/people A man] in [/EN#150841/clothing a green apron] roasts [/EN#150842/animals a pig] over [/EN#150847/other coals] .`
+[/EN#150840/people An Asian man] cooking [/EN#150848/other meat] over [/EN#150843/other an open grill] .
+[/EN#150840/people A man] dressed in [/EN#150845/clothing white] cooking [/EN#150842/animals an animal] .

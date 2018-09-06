@@ -1,0 +1,5 @@
+[/EN#238208/other A large , green , navigating wheel] is held by [/EN#238207/people an older man] in [/EN#238210/clothing a captain 's hat] and [/EN#238212/clothing uniform] .
+[/EN#238207/people The smiling ship captain] is holding [/EN#238208/other the wheel of his wooden ship] .
+[/EN#238207/people An older man] in [/EN#238211/other nautical gear] smilingly turns [/EN#238208/other a ship wheel] .
+[/EN#238209/other Pictured] is [/EN#238207/vehicles/scene the captain of a boat] ; [/EN#0/notvisual he] is steering .
+[/EN#238207/people A boat captain] steering [/EN#238208/other a large green wheel] .

@@ -1,0 +1,5 @@
+[/EN#41282/people A man] dressed in [/EN#41285/clothing a simple cloth robe] gets on [/EN#41284/vehicles a bicycle] .
+[/EN#41282/people A man] wearing [/EN#41285/clothing brown] is outside next to [/EN#41284/vehicles a bicycle]
+[/EN#41283/people A person] wearing [/EN#41285/clothing orange] getting on [/EN#41284/vehicles a bicycle] .
+[/EN#41283/people A woman] begins to climb onto [/EN#41284/vehicles her bike] .
+[/EN#41283/people An old man] is biking in [/EN#41287/scene the street] .

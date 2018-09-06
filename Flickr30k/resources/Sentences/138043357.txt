@@ -1,0 +1,5 @@
+[/EN#10655/people One man] sits inside and plays [/EN#10656/instruments the banjo] , [/EN#0/notvisual there] are [/EN#10657/other trees] behind [/EN#0/notvisual him] outside .
+[/EN#10655/people A man] with [/EN#10658/bodyparts a beard] and [/EN#10659/bodyparts a mustache] is playing [/EN#10656/instruments a banjo] .
+[/EN#10655/people A heavily bearded man] in [/EN#10660/clothing a cap] is playing [/EN#10656/instruments a banjo] .
+[/EN#10655/people A man] is playing [/EN#10656/instruments the banjo] at [/EN#10661/other a concert] .
+[/EN#10655/people A bearded man] is playing [/EN#10656/instruments a banjo] .

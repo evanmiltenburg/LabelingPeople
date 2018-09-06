@@ -1,0 +1,5 @@
+[/EN#167658/people A man] in [/EN#167659/clothing a t-shirt] and [/EN#167663/clothing jeans] smoking [/EN#167661/other a cigarette] at [/EN#167662/other a sidewalk cafe] , while [/EN#167667/other others] wait to get inside .
+[/EN#167658/people A man] in [/EN#167663/clothing blue jeans] and [/EN#167659/clothing a black shirts] sits [/EN#167668/scene outside] among [/EN#167666/other a group of metal chairs] and [/EN#167664/other tables] .
+[/EN#167658/people A man] in [/EN#167659/clothing a black shirt] sits outside at [/EN#167660/other one of many silver chairs] and [/EN#167664/other tables] .
+[/EN#167658/people Male] sitting in [/EN#167660/other a chair] at [/EN#167662/other a outdoor cafe] smoking [/EN#167661/other a cigarette] .
+[/EN#167658/people An overweight man] sits outside [/EN#167665/scene a bistro] , smoking [/EN#167661/other a cigarette] .

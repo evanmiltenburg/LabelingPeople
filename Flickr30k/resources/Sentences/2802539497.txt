@@ -1,0 +1,5 @@
+[/EN#73807/people A man] in [/EN#73812/clothing a plaid shirt] and [/EN#73813/clothing brown pants] is sitting on [/EN#73810/scene the sidewalk] in front of [/EN#73809/other some blankets] while [/EN#73808/people people] walk by .
+[/EN#73807/people A street vendor] is sitting on [/EN#0/notvisual the ground] in front of [/EN#73814/clothing the shirts] [/EN#0/notvisual he] is selling .
+[/EN#73807/people A balding man] sits on [/EN#73810/scene the sidewalk] leaned against [/EN#73809/other a bunch of woven blankets] .
+[/EN#73807/people An old man] is sitting on [/EN#73810/scene a sidewalk] in front of [/EN#73809/other a pile of folded blankets] .
+[/EN#73808/people People] standing or sitting at [/EN#73811/scene a market] .

@@ -1,0 +1,5 @@
+[/EN#45402/people A young boy] in [/EN#45403/clothing a red and white shirt] is squatting on [/EN#0/notvisual the ground] , surrounded by [/EN#45404/scene bushes] .
+[/EN#45402/people A little boy] in [/EN#45403/clothing a red and white-striped shirt] and [/EN#45405/clothing shorts] sits among [/EN#45409/other large plants] .
+[/EN#45402/people A boy] crouches with [/EN#45406/bodyparts his head] in [/EN#45407/bodyparts his hands] beside [/EN#45409/other some greenery] .
+[/EN#45402/people A small child] is sitting on [/EN#45408/other a stump] in [/EN#45404/scene a forest] clearing .
+[/EN#45402/people A young boy] squats among [/EN#45404/scene some bushes] .

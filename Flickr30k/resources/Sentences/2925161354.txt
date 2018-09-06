@@ -1,0 +1,5 @@
+[/EN#81832/people A man] and [/EN#81835/people a woman] in [/EN#81837/clothing t-shirt] , [/EN#81841/clothing shorts] and [/EN#81838/clothing tennis shoes] running on [/EN#81833/scene a street] with [/EN#81836/other numbers] attached to [/EN#81842/scene their tees] .
+[/EN#81832/people A man] and [/EN#81835/people a woman] with [/EN#81834/scene yellow number sheets] on [/EN#81837/clothing their shirts] are running next to [/EN#0/notvisual each other] .
+[/EN#81832/people A man] and [/EN#81835/people woman] running in [/EN#81838/clothing white tennis shoes] with [/EN#81836/other numbers] on [/EN#81843/bodyparts their chests] .
+[/EN#81832/people A man] and [/EN#81835/people a woman] , dressed in [/EN#81840/clothing black and white] , run [/EN#81839/other a marathon] .
+[/EN#81832/people A man] and [/EN#81835/people a woman] running in [/EN#81833/scene the street] .

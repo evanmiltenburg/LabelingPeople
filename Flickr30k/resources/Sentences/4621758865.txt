@@ -1,0 +1,5 @@
+[/EN#183595/people An older hispanic man] in [/EN#183598/clothing a white hat] sits on [/EN#183596/vehicles a cart] being pulled by [/EN#183597/animals donkey] on [/EN#183602/scene a rustic road] .
+[/EN#183595/people A man] in [/EN#183600/clothing a gray jacket] rides on [/EN#183596/vehicles a wagon] being pulled by [/EN#183597/animals a donkey] .
+[/EN#183595/people A man] is using [/EN#183597/animals a donkey] to pull [/EN#183599/other a cart full of goods] .
+[/EN#183595/people A Mexican man] rides on [/EN#183596/vehicles a cart] pulled by [/EN#183597/animals a donkey] .
+[/EN#183595/people Man] in [/EN#183598/clothing hat] driving [/EN#183601/other a steering] [/EN#183597/animals a mule] and [/EN#183596/vehicles cart] .

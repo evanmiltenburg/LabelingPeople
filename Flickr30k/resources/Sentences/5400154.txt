@@ -1,0 +1,5 @@
+[/EN#235475/people A man] in [/EN#235478/clothing a yellow waterproof jacket] and [/EN#235481/people his companion] are on [/EN#235477/vehicles/scene a boat] in [/EN#235479/scene the open water] .
+[/EN#235476/people Two men] , [/EN#235475/other one] in [/EN#235478/clothing a yellow jacket] and [/EN#235481/other the other] in [/EN#235480/clothing a blue sweater] , are on [/EN#235477/vehicles/scene a boat] .
+[/EN#235476/people Two dark-haired men] are sailing [/EN#235477/vehicles/scene a fishing boat] .
+[/EN#235476/people Two men] are standing in [/EN#235477/vehicles/scene a boat] .
+[/EN#235475/people Fisherman] on [/EN#235477/vehicles/scene boat] out on [/EN#235479/scene sea] .

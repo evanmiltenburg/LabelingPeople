@@ -1,0 +1,5 @@
+[/EN#2089/people Several children] playing on [/EN#2085/vehicles a Polaris vehicle] [/EN#2087/scene outdoors] .
+[/EN#2084/people The children] played on [/EN#2085/other the four wheeler] in [/EN#2086/scene the field] .
+[/EN#2084/people A family] playing on [/EN#2085/other a tractor] on [/EN#2090/scene a beautiful day]
+[/EN#2084/people The four kids] are riding on [/EN#2085/vehicles an ATV] in [/EN#2086/scene a field] .
+[/EN#2084/people Children] ride [/EN#2085/other a tractor] in [/EN#2086/scene a field] .

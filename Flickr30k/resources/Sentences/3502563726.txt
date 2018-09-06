@@ -1,0 +1,5 @@
+[/EN#123206/animals The brown dog] is on [/EN#123210/clothing a leash] and appears to be playing with [/EN#123208/animals the white and brown colored dog] .
+[/EN#123206/animals The two dogs] are standing with [/EN#123211/bodyparts their heads] entwined around [/EN#0/notvisual each other] .
+[/EN#123208/animals A white dog] is leaning against [/EN#123206/animals a golden colored dog] .
+[/EN#123209/animals Two dogs] on [/EN#123210/clothing leashes] get close together .
+[/EN#123209/animals Two dogs] groom [/EN#0/notvisual each other] .

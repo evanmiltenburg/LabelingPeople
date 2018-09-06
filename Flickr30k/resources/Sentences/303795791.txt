@@ -1,0 +1,5 @@
+[/EN#89275/animals Two small white and brown dogs] chase after [/EN#0/notvisual each other] in [/EN#89276/scene the grass] .
+[/EN#89275/animals Two little white dogs] with [/EN#89278/scene brown spots] are running in [/EN#89276/scene the grass] .
+[/EN#89275/animals two spotted dogs] are running through [/EN#89276/scene a field]
+[/EN#89277/animals One small dog] chases [/EN#0/notvisual another] across [/EN#89276/scene grass] .
+[/EN#89275/animals Two dogs] run on [/EN#89276/scene the grass] .

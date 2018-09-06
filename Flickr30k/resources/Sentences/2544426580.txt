@@ -1,0 +1,5 @@
+[/EN#57145/people The little boy] with [/EN#57148/bodyparts the big brown eyes] is touching [/EN#57146/vehicles the little car] .
+[/EN#57145/people The toddler] in [/EN#57147/clothing suspenders] plays with [/EN#57146/vehicles a truck] .
+[/EN#57145/people The baby] in [/EN#57147/clothing suspenders] sits by [/EN#57146/other a toy] .
+[/EN#57145/people Boy] playing with [/EN#57146/vehicles a truck] .
+[/EN#57145/people A boy] plays with [/EN#57146/vehicles a car] .

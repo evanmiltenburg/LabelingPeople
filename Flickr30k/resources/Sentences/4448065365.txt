@@ -1,0 +1,5 @@
+[/EN#169326/people A crowd of people] are walking down [/EN#169329/scene the street] including [/EN#169327/people a tall man] with [/EN#169333/clothing a brown jacket] and [/EN#169330/bodyparts wild curly hair] .
+[/EN#169327/people A man] with [/EN#169330/bodyparts brown curly hair] is walking along [/EN#169328/scene the sidewalk]
+[/EN#169327/people A man] with [/EN#169330/bodyparts curly hair] and [/EN#169331/bodyparts a beard] walking in [/EN#169326/people a crowd] .
+[/EN#169326/people A group of people] walk on [/EN#169329/scene the sidewalk] in [/EN#169332/scene the city] .
+[/EN#169327/people A man] with [/EN#169330/bodyparts wild hair] walking down [/EN#169328/scene a crowded street] .

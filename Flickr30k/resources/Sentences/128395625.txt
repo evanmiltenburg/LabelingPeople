@@ -1,0 +1,5 @@
+[/EN#7206/people Two people] with [/EN#7207/clothing helmets] are riding [/EN#7208/vehicles bikes] in front of [/EN#7209/scene a building] .
+[/EN#7206/people Two people] with [/EN#7207/clothing helmets] ride [/EN#7208/vehicles bikes] past [/EN#7210/other a wooden-paneled door] .
+[/EN#7211/people A man] and [/EN#7212/people a woman] are riding [/EN#7208/vehicles bikes] in front of [/EN#7209/scene a building] .
+[/EN#7206/people Two bicyclists] with [/EN#7213/clothing backpacks] ride past [/EN#7210/other a brown door] .
+[/EN#7206/people Two people] are riding [/EN#7208/vehicles bicycles] next to [/EN#7209/scene a building] .

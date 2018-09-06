@@ -1,0 +1,5 @@
+[/EN#163131/animals a brown and white dog] is walking through [/EN#163132/scene some wasteland] .
+[/EN#163131/animals A dog] [/EN#0/notvisual that] looks like [/EN#163134/people Lassie] walking in [/EN#163132/scene the fields] .
+[/EN#163131/animals A collie] runs across [/EN#163132/scene a yard] in [/EN#163135/other the springtime] .
+[/EN#163131/animals A Collie] surrounded by [/EN#163133/scene leafless bushes] .
+[/EN#163131/animals The dog] is in front of [/EN#163133/scene some bushes] .

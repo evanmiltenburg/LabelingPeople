@@ -1,0 +1,5 @@
+[/EN#238338/people The fireman] is carrying [/EN#238340/other a flashlight] in [/EN#238346/bodyparts his left hand] and [/EN#238341/other a pic] in [/EN#238347/bodyparts his right hand] while focusing on [/EN#238343/other something] .
+[/EN#238338/people A fireman] with [/EN#238348/clothing a neon helmet] and [/EN#238341/other a pickaxe] inspects [/EN#238344/other some debris] with [/EN#238340/other a flashlight] .
+[/EN#238338/people A rescue worker] searches with [/EN#238340/other a flashlight] under [/EN#238345/other a slab] in [/EN#238339/scene a ruined building] .
+[/EN#238338/people A fireman] searching for [/EN#238342/other something] using [/EN#238340/other a flashlight] .
+[/EN#238338/people A man] is inspecting [/EN#238342/other damage] in [/EN#238339/scene a destroyed room] .

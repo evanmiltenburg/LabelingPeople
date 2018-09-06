@@ -1,0 +1,5 @@
+[/EN#32571/people Two men] wearing [/EN#32579/other button] up [/EN#32584/clothing shirts] standing at [/EN#32573/scene a podium] with [/EN#32582/scene medical slides] showing on [/EN#32575/other a screen] behind [/EN#0/notvisual them] .
+[/EN#32571/people Two men] giving [/EN#32574/other a presentation or speech] to [/EN#32572/people a group of individuals] sitting in [/EN#32583/other red chairs] .
+[/EN#32576/people A man] in [/EN#32580/clothing dress clothes] and [/EN#32577/people a man] in [/EN#32581/clothing jeans] at [/EN#32585/scene the front of an auditorium] .
+[/EN#32571/people Two men] giving [/EN#32578/other a medical seminar] , to [/EN#32572/people a small crowd] .
+[/EN#0/notvisual There] are [/EN#32571/people two guys] near [/EN#32573/scene the podium] .

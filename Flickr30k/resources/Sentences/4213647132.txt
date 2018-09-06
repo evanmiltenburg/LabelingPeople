@@ -1,0 +1,5 @@
+[/EN#159296/vehicles/scene A red train] on [/EN#159303/scene the track] is being worked on [/EN#159304/scene outside] by [/EN#159297/people three workers] wearing [/EN#159306/clothing orange] .
+[/EN#159295/people Railway workers] attach [/EN#159302/other a strap] in order to service [/EN#159305/vehicles a car] on [/EN#159299/other an incline] .
+[/EN#159295/people A few workers] are trying to get [/EN#159296/vehicles/scene a train] unstuck on [/EN#159300/other a railway] .
+[/EN#159297/people Three men] in [/EN#159306/clothing orange] working on [/EN#159300/people a railroad] .
+[/EN#159296/vehicles/scene A train] is being worked on [/EN#159297/people buy three men] .

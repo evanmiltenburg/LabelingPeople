@@ -1,0 +1,5 @@
+[/EN#32550/people A little boy] is standing above [/EN#32553/other a structure] and watching [/EN#32555/people the other boys] play [/EN#32558/other a game] .
+[/EN#32550/people A boy] standing in [/EN#0/notvisual the foreground] looking out over [/EN#32552/people other people] in [/EN#32557/other a court] .
+[/EN#32550/people A boy] watches [/EN#32552/people his classmates] play in [/EN#32551/scene a courtyard] , looking from [/EN#32556/other above] .
+[/EN#32550/people A boy] standing and watching [/EN#32552/people a group of people] on [/EN#32551/scene a basketball court] .
+[/EN#32550/people A boy] stands overlooking [/EN#32551/scene a schoolyard] where [/EN#32555/people other children] play .

@@ -1,0 +1,5 @@
+[/EN#33291/people A white-haired man] reclines in [/EN#33294/other a seat pad] on [/EN#33292/other a boat 's deck] , reading [/EN#33293/other a book] .
+[/EN#33291/people An elderly man] wearing [/EN#33297/clothing glasses] is sitting on [/EN#33292/vehicles/scene a boat] and reading [/EN#33293/other a book] .
+[/EN#33291/people A man] sitting on [/EN#33292/vehicles/scene a boat] being watched by [/EN#33296/people police officers] .
+[/EN#33291/people Man] sitting on [/EN#33292/other deck] reading on [/EN#33292/vehicles/scene boat] , with [/EN#33298/bodyparts white hair] .
+[/EN#33291/people An older man] reading [/EN#33293/other a book] while sitting on [/EN#33292/vehicles/scene a boat] .

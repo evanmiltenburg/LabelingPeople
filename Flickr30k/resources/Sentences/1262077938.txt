@@ -1,0 +1,5 @@
+[/EN#6567/people A young asian woman] wearing [/EN#6571/clothing long shorts] and [/EN#6570/clothing a gray collared t-shirt] is sitting on [/EN#6569/other a wooden bench] .
+[/EN#6567/people A young woman] with [/EN#6568/clothing a black purse] sits on [/EN#6569/other a wooden bench] .
+[/EN#6567/people A woman] with [/EN#6568/clothing a handbag] is sitting on [/EN#6569/other a wooden bench] .
+[/EN#6567/people A girl] with [/EN#6568/clothing a black purse] sitting on [/EN#6569/other a wooden bench] .
+[/EN#6567/people A woman] sits alone on [/EN#6569/other a park bench] in [/EN#6572/other the sun] .

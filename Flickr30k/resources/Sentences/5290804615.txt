@@ -1,0 +1,5 @@
+[/EN#232972/people One middle-aged man] wearing [/EN#232978/clothing blue jeans] , [/EN#232975/clothing a festive , red vest] and [/EN#232977/clothing a mint green shirt] is standing in front of [/EN#232976/scene a large fireplace] looking downward as [/EN#0/notvisual he] holds [/EN#232980/other a Christmas] stocking in [/EN#232982/bodyparts his hand] .
+[/EN#232972/people A man] dressed in [/EN#232978/clothing blue jeans] , [/EN#232977/clothing green shirt] and [/EN#232975/clothing red vest] putting up [/EN#232973/other Christmas stockings] .
+[/EN#232972/people A man] with [/EN#232974/bodyparts a beard] and [/EN#232975/clothing a vest] is decorating [/EN#232983/scene his mantle] with [/EN#232973/other stockings] for [/EN#232979/other Christmas] .
+[/EN#232972/people A bearded man] taking [/EN#232981/other a stocking] down from [/EN#232976/scene his mantle] .
+[/EN#232972/people A man] with [/EN#232974/bodyparts a beard] putting up [/EN#232973/other Christmas stockings] .

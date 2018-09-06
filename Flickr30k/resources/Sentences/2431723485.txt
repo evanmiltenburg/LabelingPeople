@@ -1,0 +1,5 @@
+[/EN#49066/people A girl] on [/EN#49067/vehicles a bike] is wearing [/EN#49070/clothing a backpack] and [/EN#49068/clothing a helmet] , and riding through [/EN#49071/scene a wooded area] .
+[/EN#49066/people a woman] wearing [/EN#49068/clothing a black helmet] riding on [/EN#49067/vehicles a bike]
+[/EN#49066/people A woman] rides [/EN#49067/vehicles her bike] by [/EN#49069/other some trees] .
+[/EN#49066/people A mountain biker] rides in [/EN#49069/other the woods] .
+[/EN#49066/people a biker] bikes through [/EN#49069/other the woods] .

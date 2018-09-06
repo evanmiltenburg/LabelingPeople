@@ -1,0 +1,5 @@
+[/EN#200905/people Man] in [/EN#200906/clothing suede jacket] plays [/EN#200907/instruments the electric guitar] .
+[/EN#200905/people A man] in [/EN#200906/clothing a brown leather jacket] plays [/EN#200907/instruments guitar] .
+[/EN#200905/people An average looking man] is playing [/EN#200907/instruments the guitar] .
+[/EN#200905/people A man] in [/EN#200906/clothing a brown jacket] playing [/EN#200907/instruments a guitar] .
+[/EN#200905/people A man] playing [/EN#200907/instruments a guitar] at [/EN#200908/scene a live event] .

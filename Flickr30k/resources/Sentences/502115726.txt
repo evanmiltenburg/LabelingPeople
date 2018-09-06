@@ -1,0 +1,5 @@
+[/EN#227114/people A boy] in [/EN#227116/clothing a striped shirt] straddling [/EN#227115/scene the sides of a playground bridge] .
+[/EN#227114/people The child] in [/EN#227116/clothing the striped shirt] balanced between [/EN#227117/other the wooden railings] .
+[/EN#227114/people A boy] in [/EN#227116/clothing a striped shirt] straddles [/EN#227117/other two railings] .
+[/EN#227114/people A boy] straddles [/EN#227115/scene a bridge] on [/EN#227115/other a play] set outside .
+[/EN#227114/people The boy] is on top of [/EN#227117/other the railings] .

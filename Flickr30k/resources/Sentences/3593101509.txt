@@ -1,0 +1,5 @@
+[/EN#130146/people A man] in [/EN#130152/clothing a blue , yellow and white shirt] is riding [/EN#130147/vehicles a bike] .
+[/EN#130146/people A bike rider] riding in [/EN#130151/vehicles the opposite direction of traffic] .
+[/EN#130146/people A man] rides [/EN#130147/vehicles his bike] down [/EN#130149/scene a busy street] amidst [/EN#130148/people citizens] .
+[/EN#130146/people A biker] is riding amongst [/EN#130148/people a crowd of people] walking .
+[/EN#130146/people A bicyclist] is riding through [/EN#130150/people a crowd of people] .

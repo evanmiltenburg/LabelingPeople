@@ -1,0 +1,5 @@
+[/EN#89206/people A man] wearing [/EN#89210/clothing a red shirt] and [/EN#89211/clothing full apron] is in [/EN#89209/scene a kitchen] , butchering [/EN#89208/animals a whole chicken] , on [/EN#89214/other a counter] with [/EN#89212/other a bottle of wine] sitting near .
+[/EN#89206/people A man] wearing [/EN#89210/clothing a red shirt] and [/EN#89211/other white smock] uses [/EN#89206/people a butcher] clever to cut into [/EN#89208/animals a skinned chicken] .
+[/EN#89206/people Amateur chef] wearing [/EN#89211/clothing a white cooking apron] is about to chop [/EN#89208/animals a chicken] with [/EN#89207/other a butcher knife] .
+[/EN#89206/people A man] is going to cut-up [/EN#89208/animals a chicken] and prepare [/EN#0/notvisual it] for cooking in [/EN#89209/scene his home] .
+[/EN#89206/people A chef] cuts into [/EN#89208/animals a large fowl] with [/EN#89207/other a big cleaver] while in [/EN#89209/scene the kitchen] .

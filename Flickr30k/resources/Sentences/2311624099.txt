@@ -1,0 +1,5 @@
+[/EN#40820/people A man] with [/EN#40824/clothing a black backpack] and [/EN#40822/people a woman] with [/EN#40825/bodyparts long dark hair] and [/EN#40826/clothing a teal colored shirt] standing on [/EN#40827/other some rocks] looking at [/EN#40823/scene the ocean] .
+[/EN#40820/people A man] and [/EN#40822/people a woman] standing on [/EN#40821/scene a cliff] looking out over [/EN#40823/scene the ocean] .
+[/EN#40820/people A man] and [/EN#40822/people woman] stand on [/EN#40821/scene a rocky shore] gazing at [/EN#40823/scene the waves] .
+[/EN#40819/people A couple] stand and looks at [/EN#40823/scene the ocean] .
+[/EN#40819/people Two people] look out to [/EN#40823/scene the ocean] .

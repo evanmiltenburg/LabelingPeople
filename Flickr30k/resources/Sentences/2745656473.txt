@@ -1,0 +1,5 @@
+[/EN#69994/people A bald man] in [/EN#69999/other white linens] plays [/EN#69995/instruments a musical instrument] on [/EN#70000/scene a red rug outside] .
+[/EN#69994/people A bald man] wearing [/EN#69999/clothing white] is sitting on [/EN#0/notvisual the ground] playing [/EN#69995/other a sitar] .
+[/EN#69994/people A man] is sitting down and playing [/EN#69995/instruments a guitar] like [/EN#69995/instruments instrument] .
+[/EN#69994/people The man] is playing [/EN#69995/instruments a stringed instrument] on [/EN#0/notvisual the ground] .
+[/EN#69997/people Crazy] krishna playing [/EN#69995/other a ukulele] on [/EN#0/notvisual the ground] .

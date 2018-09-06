@@ -1,0 +1,5 @@
+[/EN#245259/people A lady] in [/EN#245264/clothing a white t-shirt] and [/EN#245265/clothing blue jeans] spills [/EN#245266/other her drink] onto [/EN#245267/scene the floor] while [/EN#245273/people the other lady] in [/EN#245269/clothing a yellow t-shirt] and [/EN#245271/clothing sunglasses] stares at [/EN#0/notvisual her] .
+[/EN#245259/people Person] in [/EN#245264/clothing white shirt] and [/EN#245265/clothing blue jeans] , holding [/EN#245274/bodyparts hand] out with [/EN#245263/other an empty cup] in [/EN#245272/other the other] , and [/EN#245260/other a liquid mess] on [/EN#0/notvisual the ground] .
+[/EN#245259/people A woman] in [/EN#245265/clothing blue jeans] sitting on [/EN#245261/other a bench] reacts to spilling [/EN#245266/other her coffee] .
+[/EN#245259/people Woman] stupidly spills [/EN#245260/other coffee] while [/EN#245270/people her jerk of a friend] watches .
+[/EN#245259/people A person] sitting on [/EN#245262/other steps] with [/EN#245266/other liquid] spilled on [/EN#245267/scene the floor] .

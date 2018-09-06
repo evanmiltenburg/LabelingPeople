@@ -1,0 +1,5 @@
+[/EN#30952/people A woman] wearing [/EN#30955/clothing a wedding dress] , holding [/EN#30954/other a bouquet of purple flowers] and standing next to [/EN#30956/people a man] wearing [/EN#30953/clothing a black kilt] and [/EN#30953/clothing suit jacket] while standing in front of [/EN#30958/scene a building] .
+[/EN#30952/people The pretty bride] is holding [/EN#30954/other a purple bouquet] while [/EN#0/notvisual she] is walking with [/EN#30956/people the man] .
+[/EN#30952/people A woman] in [/EN#30955/clothing a bridal dress] is being walked in with [/EN#30956/people a man] in [/EN#30953/clothing a skirt] .
+[/EN#30952/people Women] in [/EN#30955/clothing a bridal gown] walking with [/EN#30956/people a man] in [/EN#30953/clothing a black kilt] .
+[/EN#30952/people A bride] carrying [/EN#30954/other purple flowers] .

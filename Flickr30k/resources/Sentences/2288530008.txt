@@ -1,0 +1,5 @@
+[/EN#39189/people A man] carrying [/EN#39190/clothing a red bag] is looking closely at [/EN#39191/vehicles/scene the black train] [/EN#0/notvisual that] is emitting [/EN#39192/other smoke] .
+[/EN#39189/people The man] stands close to [/EN#39191/vehicles/scene the train] at [/EN#39196/scene the busy train station] .
+[/EN#39193/people People] stand on [/EN#39194/scene a sidewalk] near [/EN#39191/vehicles/scene an old fashioned train] .
+[/EN#39189/people A man] looking into [/EN#39191/other a train engine] .
+[/EN#39191/vehicles/scene A train] blowing [/EN#39192/other smoke] .

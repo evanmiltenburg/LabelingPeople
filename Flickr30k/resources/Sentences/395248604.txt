@@ -1,0 +1,5 @@
+[/EN#149306/people A group of people] wearing [/EN#149312/clothing backpacks] are walking toward [/EN#149313/scene hills] in [/EN#0/notvisual the distance] on [/EN#149310/scene a trail outside] .
+[/EN#149306/people Six people] with [/EN#149312/clothing camping backpacks] are hiking up [/EN#149311/scene a sandy trail] in [/EN#149316/people single file] .
+[/EN#149306/people A group of hikers] walk [/EN#149309/scene a path] [/EN#0/notvisual that] leads from [/EN#149314/scene a sandy beach] towards [/EN#149313/scene a hill] .
+[/EN#149306/people A group of hikers] with [/EN#149312/clothing backpacks] are hiking [/EN#149308/scene a trail]
+[/EN#149306/people Backpackers] are walking along [/EN#149311/scene a trail]

@@ -1,0 +1,5 @@
+[/EN#57842/people A man] in [/EN#57848/clothing an orange work suit] with [/EN#57851/clothing safety goggles] on , mixing [/EN#57843/other chemicals] for [/EN#57852/other work] .
+[/EN#57842/people A man] in [/EN#57844/scene a laboratory] pours [/EN#57843/other a clear liquid] into [/EN#57847/other a machine] .
+[/EN#57842/people A man] wearing [/EN#57850/other protective gear] pours [/EN#57843/other liquid] from [/EN#57843/other a beaker] .
+[/EN#57842/people A man] pours [/EN#57843/other a clear solution] into [/EN#57849/clothing a small , clear , tank] .
+[/EN#57842/people A man] is in [/EN#57844/scene a laboratory] performing [/EN#57846/other a chemical reaction] .

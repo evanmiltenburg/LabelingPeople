@@ -1,0 +1,5 @@
+[/EN#250456/people A man] and [/EN#250458/people a woman] are busy working together at [/EN#250457/scene the front desk of a building] .
+[/EN#250456/people A man] and [/EN#250458/people a woman] are standing at [/EN#250457/other a desk] , looking at [/EN#250460/other some papers] .
+[/EN#250456/people A male] and [/EN#250458/people a female] are reviewing [/EN#250460/other papers] at [/EN#250457/other a hotel lobby desk] .
+[/EN#250461/people Two secretaries] are conversing at [/EN#250457/other the front desk] in [/EN#250462/scene a hotel] .
+[/EN#250456/people A man] and [/EN#250458/people woman] reviewing [/EN#250460/other a paper] at [/EN#250457/other the counter] .

@@ -1,0 +1,5 @@
+[/EN#269349/people Two motorcycle racers] are rounding [/EN#269351/scene a corner] on [/EN#269352/scene the track] at [/EN#269355/scene a sharp angle] , close to [/EN#0/notvisual the ground] .
+[/EN#269349/people Two motorcycle racers] go around [/EN#269351/scene a sharp corner] while leaning very close to [/EN#0/notvisual the ground]
+[/EN#269349/people Two Moto GP racers] are [/EN#269357/bodyparts neck] and [/EN#269358/bodyparts neck] going around [/EN#269353/other a turn] .
+[/EN#269349/people Two men] on [/EN#269356/other motorcycles] taking [/EN#269353/other a turn] on [/EN#269352/scene a track] .
+[/EN#269349/people Two people] are competing in [/EN#269354/other a motorcycle race] .

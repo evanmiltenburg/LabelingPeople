@@ -1,0 +1,5 @@
+[/EN#15627/animals A black dog] is running through [/EN#15628/scene the shallow edge of a large body of water] .
+[/EN#15627/other a black and tan dobbermen] running through [/EN#15628/scene the ocean] .
+[/EN#15627/animals A black dog] is running through [/EN#15628/scene the water] .
+[/EN#15627/animals A black dog] jumps high out of [/EN#15628/scene the water] .
+[/EN#15627/animals The dog] runs through [/EN#15628/scene the water] .

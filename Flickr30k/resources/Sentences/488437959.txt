@@ -1,0 +1,5 @@
+[/EN#214545/people A man] in [/EN#214546/clothing a bright orange shirt] is standing in [/EN#214545/people the middle of a group of people] .
+[/EN#214544/people A birds-eye view of people] standing around holding [/EN#214547/other their drinks] .
+[/EN#214545/people A man] in [/EN#214546/clothing a tight orange shirt] is surrounded by [/EN#214544/people many people] .
+[/EN#0/notvisual This] is [/EN#214544/people an aerial view of people] drinking [/EN#214547/other beer] at [/EN#214548/other a party] .
+[/EN#214544/people A few people] are sitting around having [/EN#214547/other a drinks] .

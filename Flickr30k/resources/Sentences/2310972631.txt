@@ -1,0 +1,5 @@
+[/EN#40785/people a young girl] , wearing [/EN#40787/clothing a jacket] and carrying [/EN#40791/other a cup] , balancing on [/EN#40786/other a concrete ledge] .
+[/EN#40785/people Young spanish girl] jumps off [/EN#40786/other the concrete yard divider] onto [/EN#40789/scene the sidewalk] .
+[/EN#40785/people A small child] in [/EN#40787/clothing a light tan jacket] stands on [/EN#40788/other the edge of a short wall] .
+[/EN#40785/people A little girl] balancing on [/EN#40788/other a ledge] on [/EN#40790/scene the side of the street] .
+[/EN#40785/people A young girl] balances [/EN#0/notvisual herself] on [/EN#40786/other a concrete retaining wall] .

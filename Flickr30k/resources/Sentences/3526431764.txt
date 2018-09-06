@@ -1,0 +1,5 @@
+[/EN#124897/people A woman] taking [/EN#124900/other a photo] standing next to [/EN#124901/people a tall man] and in front of [/EN#124899/people another man] [/EN#0/notvisual who] is also taking [/EN#124895/other a photo] .
+[/EN#124892/people Three people] holding [/EN#124893/other cameras] are standing on [/EN#124903/scene a dirt trail] with [/EN#124904/scene grass] on [/EN#0/notvisual the side of it] .
+[/EN#124898/people Two people] are taking [/EN#124895/other pictures] while [/EN#124901/other a third] is holding [/EN#124894/other a camera] .
+[/EN#124892/people Three people] taking [/EN#124896/other pictures] with [/EN#124893/other their cameras]
+[/EN#124892/people Three people] are outdoors taking [/EN#124896/other pictures] .

@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#201903/scene a street] with [/EN#201906/scene buildings] and [/EN#201902/people one man] in [/EN#201904/clothing black] walking on [/EN#201903/scene the side of the road] .
+[/EN#201902/people A man] with [/EN#201904/clothing a blue coat] and [/EN#201907/clothing dark pants] walking on [/EN#201903/scene an empty street] .
+[/EN#201902/people A man] walking down [/EN#201903/scene a deserted street] , shown from [/EN#0/notvisual the ground] .
+[/EN#201902/people A bald man] in [/EN#201904/clothing a suit] walking down [/EN#201903/scene the side of a brick road] .
+[/EN#201902/people The man] walking down [/EN#201903/scene the alley] .

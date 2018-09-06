@@ -1,0 +1,5 @@
+[/EN#49681/people A child] is walking through [/EN#49682/scene a puddle] wearing [/EN#49684/clothing green sandals]
+[/EN#49681/people a young child] wearing [/EN#49684/clothing green boots] playing in [/EN#49682/scene a mud puddle]
+[/EN#49681/people The little boy] is jumping into [/EN#49682/scene a puddle] on [/EN#49683/scene the street] .
+[/EN#49681/people The child] is running through [/EN#49682/scene a puddle] in [/EN#49683/scene a street] .
+[/EN#49681/people A child] in [/EN#49684/clothing green shoes] is splashing in [/EN#49682/scene a puddle] .

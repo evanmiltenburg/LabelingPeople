@@ -1,0 +1,5 @@
+[/EN#54866/people A man] wearing [/EN#54869/clothing a yellow shirt] is doing [/EN#0/notvisual a trick] high in [/EN#0/notvisual the air] with [/EN#54867/vehicles his bike] .
+[/EN#54866/people A guy] in [/EN#54869/clothing a yellow shirt] with [/EN#54867/vehicles a bike] gets very high in [/EN#0/notvisual the air] .
+[/EN#54866/people A man] is performing [/EN#0/notvisual a trick] high in [/EN#0/notvisual the air] with [/EN#54867/vehicles a bicycle] .
+[/EN#54866/people Man] holding onto [/EN#54870/other bike handlebars] while in [/EN#54871/scene midair] .
+[/EN#54866/people A man] in [/EN#54871/scene midair] holding [/EN#54870/other his bike 's handlebars]

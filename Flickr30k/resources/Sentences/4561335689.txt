@@ -1,0 +1,5 @@
+[/EN#178621/people A boy] wearing [/EN#178624/clothing a striped shirt] and [/EN#178622/clothing black bag] stands in [/EN#178625/people the middle of a crowd] .
+[/EN#178621/people A candid photo of a boy] wearing [/EN#178624/clothing a striped shirt] with [/EN#178625/people people] in [/EN#0/notvisual background] .
+[/EN#178621/people A young boy] is standing on [/EN#178623/scene a street] with [/EN#178622/scene a pouch] around [/EN#178628/bodyparts his neck] .
+[/EN#178621/people Boy] wearing [/EN#178627/clothing shorts] and [/EN#178624/clothing striped shirt] stands on [/EN#178623/scene a busy sidewalk] .
+[/EN#178621/people a young boy] in [/EN#178624/clothing a striped shirt] carrying [/EN#178622/clothing a bag] .

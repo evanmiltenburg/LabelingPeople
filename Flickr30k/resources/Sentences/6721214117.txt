@@ -1,0 +1,5 @@
+[/EN#257211/people A man] , wearing [/EN#257212/clothing a flamboyant shirt] with [/EN#257212/clothing red and gray stripes] and [/EN#257214/clothing black pants] , bowling [/EN#257216/other a bowling ball] down [/EN#257213/other the lane] at [/EN#257217/other a tournament] .
+[/EN#257211/people A man] is bowling with [/EN#257215/other various national flags] displayed at [/EN#257221/scene the opposite end] on [/EN#257222/scene the bowling alley] .
+[/EN#257211/people A man] wearing [/EN#257214/clothing black pants] and [/EN#257212/clothing a red and gray shirt] bowling on [/EN#257213/other lane 8] .
+[/EN#257211/people The man] is bowling with [/EN#257215/other several flags] facing [/EN#0/notvisual him] on [/EN#257220/other the wall] .
+[/EN#257211/people A man] in [/EN#257214/clothing black pants] and [/EN#257212/clothing a red shirt] is bowling for [/EN#257219/other the UK] .

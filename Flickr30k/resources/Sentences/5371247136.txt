@@ -1,0 +1,5 @@
+[/EN#234762/people A woman] in [/EN#234764/clothing a bright pink jacket] and [/EN#234767/clothing jeans] , with [/EN#234769/people two young children] , also in [/EN#234770/clothing jackets] , is on [/EN#234771/vehicles the deck of a yacht] using [/EN#234766/other a telescope] to look out to [/EN#234768/scene sea] .
+[/EN#234760/people A girl] wearing [/EN#234764/clothing a pink jacket] and [/EN#234767/clothing jeans] looks through [/EN#234766/other a telescope] on [/EN#234763/vehicles/scene a boat] while [/EN#234761/people another girl] in [/EN#234764/clothing a pink jacket] looks on .
+[/EN#234762/people A woman] and [/EN#234761/people child] are on [/EN#234763/vehicles/scene a boat] and [/EN#234762/people the woman] is looking out into [/EN#234768/scene the ocean] through [/EN#234766/other a scope] .
+[/EN#234761/people A child] is looking through [/EN#234766/other binoculars] on [/EN#234763/vehicles/scene a boat] while [/EN#234761/people her younger sister] waits next to [/EN#0/notvisual her] .
+[/EN#234762/people One woman] and [/EN#234769/people two kids] looking out of [/EN#234766/other a telescope] on [/EN#234763/vehicles/scene a boat] .

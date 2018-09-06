@@ -1,0 +1,5 @@
+[/EN#38734/people Five people] wearing [/EN#38736/clothing black clothing] stand on [/EN#38735/scene a stage] performing .
+[/EN#0/notvisual There] are [/EN#38734/people five singers] on [/EN#38735/scene a stage] , [/EN#38737/people three women] and [/EN#38738/people two men] .
+[/EN#38734/people A singing group] dressed in [/EN#38736/clothing black] is singing [/EN#38739/other a song] on [/EN#38735/scene stage] .
+[/EN#38734/people adults] performing on [/EN#38735/scene a inside stage] .
+[/EN#38734/people Five entertainers] on [/EN#38735/scene a stage] .

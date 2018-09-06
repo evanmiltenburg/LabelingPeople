@@ -1,0 +1,5 @@
+While [/EN#66211/animals one white dog] is outside [/EN#66213/scene the pool] , [/EN#66211/animals another white dog] with [/EN#66212/scene a black spot] on [/EN#66217/other its back] is jumping into [/EN#66213/scene a plastic swimming pool] while getting sprayed by [/EN#66214/other a garden hose] .
+[/EN#66211/animals A white dog] with [/EN#66212/scene black patches] runs jumps through [/EN#66216/other a spray] from [/EN#66214/other a hose] into [/EN#66213/scene a blue plastic wading pool] .
+[/EN#66211/animals A dog] is being squirted with [/EN#66214/other a hose] as [/EN#0/notvisual it] jumps into [/EN#66213/scene a paddling pool] .
+[/EN#66211/animals A terrier] is sprayed by [/EN#66214/other a hose] while jumping in [/EN#66213/scene a pool] .
+[/EN#66211/animals A dog] is hosed as [/EN#0/notvisual it] jumps into [/EN#66213/scene a kiddie pool] .

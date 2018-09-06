@@ -1,0 +1,5 @@
+[/EN#66956/people A man] in [/EN#66965/clothing a black shirt] and [/EN#66966/clothing sandals] along with [/EN#66953/people a woman] in [/EN#66967/clothing a pink shirt] and [/EN#0/notvisual both] in [/EN#66968/clothing khaki shorts] are burying [/EN#66955/people a child] into [/EN#66963/people a sand pile] .
+[/EN#66957/people Two people] buying [/EN#66955/people a child] up to [/EN#66969/bodyparts his neck] in [/EN#66961/other sand] at [/EN#66958/scene the beach] .
+[/EN#66956/people Guy] and [/EN#66953/people a girl] bury [/EN#66959/people a boy] in [/EN#66962/scene a sand castle] at [/EN#66958/scene the beach] .
+[/EN#66953/people A girl] and [/EN#66959/people a boy] burying [/EN#66959/people another boy] in [/EN#66961/other the sand] .
+[/EN#66957/people Two children] bury [/EN#66964/other a third] in [/EN#66961/other the sand] .

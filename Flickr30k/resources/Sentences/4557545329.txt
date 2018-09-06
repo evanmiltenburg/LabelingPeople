@@ -1,0 +1,5 @@
+[/EN#178239/people A man] in [/EN#178245/clothing a light brownish jacket] , [/EN#178247/clothing orange undershirt] , [/EN#178241/clothing blue jeans] , and [/EN#178244/clothing a black satchel] , [/EN#0/notvisual who] has [/EN#178242/other many sticks of cotton candy] .
+[/EN#178243/scene A middle] easterner stays in [/EN#178246/other his lane] while selling [/EN#178242/other cotton candy] .
+[/EN#178239/people A vendor] is walking down [/EN#178240/scene the street] selling [/EN#178242/other cotton candy] .
+[/EN#178239/people A woman] in [/EN#178241/clothing blue jeans] selling [/EN#178242/other eatables] on [/EN#178240/scene the road] .
+[/EN#178239/people A man] selling [/EN#178242/other cotton candy] during [/EN#178248/other rush hour] .

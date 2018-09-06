@@ -1,0 +1,5 @@
+[/EN#106845/people A little girl] in [/EN#106847/clothing a pink top] is spinning [/EN#106846/other a stick] [/EN#0/notvisual that] has been set on [/EN#106848/other fire] .
+[/EN#106845/people A child] in [/EN#106847/clothing pink] holds [/EN#106846/other an object] [/EN#0/notvisual that] appears to be on [/EN#106848/other fire] .
+[/EN#106845/people Little girl] holds flaming [/EN#106846/other object] at [/EN#106849/scene sunset] .
+[/EN#106845/people Child] holding [/EN#106846/other an object] [/EN#0/notvisual that] is on [/EN#106848/other fire] .
+[/EN#106845/people A child] playing with [/EN#106848/other fire] .

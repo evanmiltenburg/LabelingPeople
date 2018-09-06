@@ -1,0 +1,5 @@
+[/EN#204917/people A man] in [/EN#204924/clothing a jean jacket] is reaching into [/EN#204925/clothing a bag] and walking past [/EN#204919/people two women] .
+[/EN#204918/people People] walking around in [/EN#204928/other the daytime] in [/EN#204922/scene a busy city] .
+[/EN#204920/people Shoppers] on [/EN#204926/other a median] , [/EN#204927/other one] walks towards [/EN#0/notvisual the camera] .
+[/EN#204918/people People] crossing [/EN#204923/scene a street] next to [/EN#204929/vehicles a smart car] .
+[/EN#204917/people A man] in [/EN#204924/clothing a jean jacket] walking through [/EN#204921/scene town] .

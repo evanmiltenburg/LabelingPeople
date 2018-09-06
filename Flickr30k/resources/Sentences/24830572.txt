@@ -1,0 +1,5 @@
+[/EN#52768/people Four cowboys] are sitting at [/EN#52770/other a table] with [/EN#52769/other a bottle of whiskey] in [/EN#52772/other the middle of a rodeo] , while [/EN#52774/people a man] on [/EN#52777/animals a horse] trots by behind [/EN#0/notvisual them] .
+[/EN#52768/people Four cowboys] sitting at [/EN#52770/other a table] drinking [/EN#52769/other Jack Daniels] in [/EN#52772/scene the middle of a rodeo arena] .
+[/EN#52768/people Four guys] in [/EN#52771/clothing cowboy hats] are sitting at [/EN#52770/other a table] out in [/EN#52775/scene a pasture] .
+[/EN#52768/people Men] in [/EN#52771/clothing cowboy hats] take [/EN#52773/scene a break] at [/EN#52776/other a rodeo] .
+[/EN#52768/people Four men] in [/EN#52771/clothing cowboy hats] sitting at [/EN#52770/other a table] .

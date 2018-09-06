@@ -1,0 +1,5 @@
+[/EN#171593/animals A dog] is jumping and catching [/EN#171594/other a small , blue ball] in [/EN#171596/scene a park] surrounded by [/EN#171600/animals two other dogs] .
+[/EN#171593/animals A brown and white dog] is jumping high and catching [/EN#171594/other a blue ball] .
+[/EN#171595/animals Three dogs] run on [/EN#171597/scene grass] , [/EN#171593/other one] leaps to catch [/EN#171594/other blue ball] .
+[/EN#171593/animals A dog] jumps and catches [/EN#171594/other a blue ball] in [/EN#171601/bodyparts his mouth] .
+[/EN#171593/animals A dog] jumps in [/EN#0/notvisual the air] to catch [/EN#171594/other a blue ball] .

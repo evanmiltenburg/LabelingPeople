@@ -1,0 +1,5 @@
+[/EN#44547/people A young boy] in [/EN#44549/clothing a green shirt] and [/EN#44551/clothing blue pants] is playing with [/EN#44548/vehicles/scene a blue toy train] on [/EN#44550/scene a wooden track] .
+[/EN#44547/people A young boy] in [/EN#44549/clothing a green shirt] playing with [/EN#44548/vehicles/scene a miniature train] on [/EN#44550/scene an elevated train track] .
+[/EN#44547/people A small boy] playing with [/EN#44548/vehicles/scene a blue toy train] on [/EN#44550/scene wooden toy train tracks] .
+[/EN#44547/people A toddler] plays with [/EN#44548/vehicles/scene his wooden toy train] set .
+[/EN#44547/people The young boy] was playing with [/EN#44548/vehicles/scene his train] set .

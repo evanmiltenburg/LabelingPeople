@@ -1,0 +1,5 @@
+[/EN#241291/people A man] in [/EN#241294/clothing a yellow shirt] and [/EN#241293/clothing hard hat] is carrying [/EN#241292/other a tree branch] .
+[/EN#241291/people A man] in [/EN#241294/clothing bright shirt] carrying [/EN#241292/other a fallen branch] .
+[/EN#241291/people A man] with [/EN#241293/clothing a hard hat] carries [/EN#241292/other a tree branch] .
+[/EN#241295/people Two men] are removing [/EN#241296/other tree branches] .
+[/EN#241291/people a man] removing [/EN#241292/other tree limbs] .

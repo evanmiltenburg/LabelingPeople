@@ -1,0 +1,5 @@
+[/EN#39102/people Man] with [/EN#39103/clothing blue hat] and [/EN#39104/clothing a white t-shirt] stands next to [/EN#39105/other a small white van] .
+[/EN#39102/people A man] in [/EN#39103/clothing a blue hat] has [/EN#39106/other his foot] on [/EN#39107/other the front bumper of a van] .
+[/EN#39102/people A man] with [/EN#39108/bodyparts a goatee] leaning against [/EN#39105/other a white van] .
+[/EN#39102/people a man] in [/EN#39104/clothing a gray shirt] next to [/EN#39105/other a white van]
+[/EN#39102/people A man] standing next [/EN#39105/other an older silver van] .

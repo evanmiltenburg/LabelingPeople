@@ -1,0 +1,5 @@
+[/EN#112345/people A serious looking man] is working on [/EN#112346/clothing a very interesting sculpture of gray] .
+[/EN#112345/people A man] is working on [/EN#112346/other a complex clay sculpture] .
+[/EN#112345/people A man] in [/EN#112348/clothing a red shirt] sculpting [/EN#112346/other clay] .
+[/EN#112345/people An artist] sculpting [/EN#112347/other his statue] .
+[/EN#112345/people A concentrated male] sculpting .

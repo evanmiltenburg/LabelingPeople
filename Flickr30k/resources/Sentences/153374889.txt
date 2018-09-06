@@ -1,0 +1,5 @@
+[/EN#15788/people A group of construction workers] working on [/EN#15789/scene a ramp] [/EN#0/notvisual that] is closed .
+[/EN#0/notvisual There] is [/EN#15790/scene big hill of dirt] behind [/EN#15791/other signs] [/EN#0/notvisual that] say " [/EN#15792/other Ramp Closed] . "
+[/EN#15788/people Three construction workers] working in [/EN#15793/scene a construction site] .
+[/EN#15788/people Three road workers] work on [/EN#15789/scene dirt ramp] next to [/EN#15794/scene highway] .
+[/EN#15788/people Men] do [/EN#15795/other roadwork] to [/EN#15790/scene a backdrop of brown hills] .

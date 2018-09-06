@@ -1,0 +1,5 @@
+[/EN#21540/people A waitress] in [/EN#21538/clothing a black T-shirt] and [/EN#21534/clothing black shorts] at [/EN#21544/other Cafe Mambo] serves [/EN#21535/other a tray of beverages] to [/EN#21541/people a seated customer] in [/EN#21542/clothing a red tank top] and [/EN#21543/clothing black bandanna] .
+[/EN#21540/people A waitress] wearing [/EN#21539/clothing black] is talking to [/EN#21541/people a man] [/EN#0/notvisual who] is wearing [/EN#21542/clothing a red shirt] and [/EN#21543/clothing bandanna] .
+[/EN#21540/people A waitress] talking with [/EN#21541/people a man] at [/EN#21544/other an outside cafe] .
+[/EN#21540/people A blond woman] in [/EN#21534/clothing a skirt] serving [/EN#21537/other food] to [/EN#21541/people a man] .
+[/EN#21541/people Man] ordering [/EN#21536/other drinks] from [/EN#21540/people a waitress] .

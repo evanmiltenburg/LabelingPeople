@@ -1,0 +1,5 @@
+[/EN#96785/people A man] fishing in [/EN#96786/vehicles/scene a pointy blue boat] on [/EN#96787/scene a river] lined with [/EN#96788/other palm trees] .
+[/EN#96785/people A man] in [/EN#96789/other a blue canoe] navigates in [/EN#96787/scene a wetland] with [/EN#96790/other tall palm fronds] .
+[/EN#96785/other A reson] is in [/EN#96789/other a blue canoe] in front of [/EN#96790/other some plants] .
+[/EN#96785/people A man] rows [/EN#96789/other a canoe] through [/EN#96787/scene wooded waters] .
+[/EN#96785/people Person] in [/EN#96786/vehicles/scene aqua boat] beside [/EN#96792/scene tropical bank]

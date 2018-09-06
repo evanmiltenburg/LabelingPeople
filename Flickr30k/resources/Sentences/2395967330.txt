@@ -1,0 +1,5 @@
+[/EN#46278/people A young child] is riding [/EN#46279/vehicles a three wheeled scooter] down [/EN#46280/scene the sidewalk] .
+[/EN#46278/people A young child] on [/EN#46279/vehicles a three-wheeled scooter] .
+[/EN#46278/people A toddler] is riding [/EN#46279/vehicles a plastic scooter] .
+[/EN#46278/people A toddler] on [/EN#46279/other a plastic scooter toy] .
+[/EN#46278/people A child] playing on [/EN#46279/vehicles a red scooter] .

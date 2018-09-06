@@ -1,0 +1,5 @@
+[/EN#162265/people A female soccer player] is lying on [/EN#162266/scene the field] with [/EN#162268/other a painful expression] on [/EN#162272/bodyparts her face] .
+[/EN#162265/people A female soccer player] [/EN#0/notvisual who] was injured during [/EN#162267/other the game] .
+[/EN#162265/people A young girl] sits in [/EN#162265/scene the fetal position] in [/EN#162269/other pain] .
+[/EN#162265/people A girl] has fallen on [/EN#162266/scene a sports field] .
+[/EN#162265/people A woman] is laying down in [/EN#162271/scene the grass] .

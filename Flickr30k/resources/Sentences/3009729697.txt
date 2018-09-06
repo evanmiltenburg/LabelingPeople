@@ -1,0 +1,5 @@
+[/EN#87168/people A young girl] is drawing [/EN#87170/other a hopscotch game] on [/EN#87171/scene the side of a road] while [/EN#87175/people other children] are watching .
+[/EN#87169/people Four kids] are playing on [/EN#87171/scene the sidewalk] as [/EN#87176/people two adults] watch from [/EN#87173/other chairs] behind [/EN#0/notvisual them] .
+[/EN#87168/people A girl] in [/EN#87177/clothing an orange dress] is drawing on [/EN#0/notvisual the ground] with [/EN#87172/other chalk] .
+[/EN#87169/people A group of young children] playing [/EN#87170/other hopscotch] on [/EN#87171/scene a sidewalk] .
+[/EN#87169/people Children] play on [/EN#87171/scene a sidewalk] with [/EN#87174/other dolls] and [/EN#87172/other chalk] .

@@ -1,0 +1,5 @@
+[/EN#18087/people Children] read [/EN#18088/other a bunch of comic books] while eating [/EN#18090/animals corn dogs] .
+[/EN#18087/people Kids] sitting around [/EN#18090/animals a table reading and eating corn dogs] .
+[/EN#18087/people Three children] are sitting around [/EN#18089/other a table] reading [/EN#18088/other books] .
+[/EN#18087/people Three kids] are sitting at [/EN#18089/other the table] reading [/EN#18088/other books] .
+[/EN#18087/people Three kids] at [/EN#18089/other table] reading .

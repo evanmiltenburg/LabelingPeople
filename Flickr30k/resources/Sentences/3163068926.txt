@@ -1,0 +1,5 @@
+[/EN#97515/people A man] on [/EN#97517/scene an escalator] carrying [/EN#97516/other a red and white cup] looking up .
+[/EN#97515/people A young man] holding [/EN#97516/other a drink] is going down [/EN#97517/scene a green escalator] .
+[/EN#97515/people Man] with [/EN#97516/other cup] looking up while riding on [/EN#97517/scene an escalator]
+[/EN#97515/people A man] holding [/EN#97516/other a drink] is coming down [/EN#97517/scene an escalator] .
+[/EN#97515/people A man] holding [/EN#97516/other a cup] rides down [/EN#97517/scene an elevator] .

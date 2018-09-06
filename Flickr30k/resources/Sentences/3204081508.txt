@@ -1,0 +1,5 @@
+[/EN#100832/people A group of sunbathers] gather near [/EN#100834/other some kayaks] at [/EN#100830/scene the beach] .
+[/EN#100829/people Several beachgoers] are reclining near [/EN#100831/vehicles/scene upside-down boats] .
+[/EN#100829/people Several people] play and relax on [/EN#100830/scene the beach] .
+[/EN#100829/people A group of people] are lounging at [/EN#100830/scene a beach] .
+[/EN#100833/other People sun] on [/EN#100830/scene the beach] next to [/EN#100831/vehicles/scene boats] .

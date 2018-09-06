@@ -1,0 +1,5 @@
+[/EN#26889/people People] riding [/EN#26891/other a public transportation bus line] " [/EN#26888/other A "] , covered in [/EN#26887/other a sweater advertisement] , look out [/EN#26893/other the windows] .
+[/EN#26884/vehicles/scene A bus] passes by [/EN#26894/people with woman] in [/EN#26892/clothing strange sweaters] sporting [/EN#26895/bodyparts odd hairstyles] on [/EN#0/notvisual the side] as [/EN#26887/other decoration] .
+[/EN#26885/people An elderly woman] with [/EN#26890/clothing a hat] on is looking outside of [/EN#26886/other her bus window] .
+[/EN#26885/people A person] looks out of [/EN#26886/other the window] on [/EN#26884/vehicles/scene the A bus] .
+[/EN#26885/people A man] is looking out of [/EN#26886/other a bus window] .

@@ -1,0 +1,5 @@
+[/EN#112567/people A young girl] with [/EN#112579/bodyparts long hair] is standing in [/EN#112569/scene a dining room] holding [/EN#0/notvisual what] appears to be [/EN#112570/clothing a green plastic bib] with [/EN#112575/other a food-catching] [/EN#112578/scene pouch] build onto [/EN#0/notvisual it] .
+[/EN#112567/people A child] standing in [/EN#112569/scene a dining room] while [/EN#112572/people another person] stands in [/EN#112571/scene the kitchen] near [/EN#112573/other a table] .
+[/EN#112567/people A young girl] wearing [/EN#112568/clothing a blue shirt] is holding [/EN#112576/other a green object] by [/EN#112573/other the table] in [/EN#112577/scene her house] .
+[/EN#112567/people A young girl] has [/EN#112570/clothing a green plastic bib] , [/EN#112572/people girl] in [/EN#112568/clothing purple] is in [/EN#112571/scene the kitchen] behind [/EN#0/notvisual her] .
+[/EN#112567/people A young girl] is standing in [/EN#112571/scene a kitchen] holding [/EN#112570/clothing a green bib] .

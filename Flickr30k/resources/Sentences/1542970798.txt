@@ -1,0 +1,5 @@
+[/EN#15983/people A dark-haired man] in [/EN#15990/clothing jeans] and [/EN#15984/clothing a blue checkered shirt] climbs [/EN#15985/other a pole] along side [/EN#15986/scene a yellow house] and approaches [/EN#15991/scene a clay-tiled roof] .
+[/EN#15983/people A man] with [/EN#15992/clothing work gloves] and [/EN#15989/clothing tool belt] climbs [/EN#15988/other the scaffolding] next to [/EN#15986/scene an old yellow and white building] .
+[/EN#15983/people A man] in [/EN#15984/clothing a blue shirt] , [/EN#15990/clothing jeans] , and wearing [/EN#15989/clothing a tool belt] is climbing down [/EN#15985/other a metal rod] .
+[/EN#15983/people A construction worker] in [/EN#15990/clothing jeans] is climbing [/EN#15988/other scaffolding] .
+[/EN#15983/people This man] is repairing [/EN#15987/other the pipes] .

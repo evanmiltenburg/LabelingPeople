@@ -1,0 +1,5 @@
+[/EN#3400/people Someone] holding [/EN#3405/other a piece] of , [/EN#0/notvisual what] looks like [/EN#3404/other clear plastic] , down on [/EN#3401/scene a hard surface] while [/EN#0/notvisual they] drill [/EN#3402/scene a hole] through [/EN#0/notvisual it] .
+[/EN#3407/other A small whole] is being drilled into [/EN#3405/other a white piece of plastic] while being held down securely on [/EN#3401/other a workbench] .
+[/EN#3400/people Someone] working on [/EN#3403/other a project] using [/EN#3408/other a jigsaw cutting machine] .
+[/EN#3410/bodyparts A hand] holding [/EN#3404/other an object] while [/EN#3402/scene a hole] is drilled in [/EN#0/notvisual it] .
+[/EN#3400/people Someone] is drilling [/EN#3404/other some plastic] on [/EN#3401/scene a wooden block] .

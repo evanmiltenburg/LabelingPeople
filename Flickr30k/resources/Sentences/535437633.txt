@@ -1,0 +1,5 @@
+[/EN#234427/people A man] in [/EN#234433/clothing a short-sleeve white polo shirt] is checking [/EN#0/notvisual himself] out with [/EN#234427/people a woman] with [/EN#234434/bodyparts short brown hair] and [/EN#234430/other a name badge] in [/EN#234435/scene a library] .
+[/EN#234427/people Someone] showing [/EN#234427/people a woman] how to use [/EN#234429/other a self checkout machine] .
+[/EN#234427/people A man] and [/EN#234427/people a woman] looking at [/EN#234429/other a self check] out [/EN#234431/other machine] .
+[/EN#234427/people A person] is buying [/EN#234432/other something] using [/EN#234429/other self-checkout] .
+[/EN#234427/people A woman] and [/EN#234427/people man] are at [/EN#234429/other a self-checkout station] .

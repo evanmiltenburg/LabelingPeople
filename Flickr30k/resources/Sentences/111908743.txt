@@ -1,0 +1,5 @@
+[/EN#3073/people A man] in [/EN#3076/clothing red pants] balancing on [/EN#3074/other a blue object] with [/EN#3075/bodyparts his hands]
+[/EN#3073/people A man] wearing [/EN#3076/clothing red pants] is balancing on [/EN#3074/other a blue sculpture] .
+[/EN#3073/people A man] is raised up on [/EN#3075/bodyparts his hands] on [/EN#3074/other a blue platform] .
+[/EN#3073/people A man] in [/EN#3076/clothing red pants] jumping on [/EN#3074/other a park table] .
+[/EN#3073/people An athlete] leaping over [/EN#3074/other an obstacle] .

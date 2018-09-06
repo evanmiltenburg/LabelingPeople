@@ -1,0 +1,5 @@
+[/EN#198527/people A man] is sitting on [/EN#198528/other a bench] along [/EN#198533/scene the sidewalk] [/EN#0/notvisual that] has [/EN#198529/scene beautiful green grass] and landscaping around [/EN#0/notvisual it] .
+[/EN#198527/people A man] wearing [/EN#198530/clothing a white hat] sitting alone on [/EN#198528/other a metal bench] on [/EN#198532/scene a bright , sunny day] .
+[/EN#198527/people A man] in [/EN#198530/clothing a white hat] waits on [/EN#198528/other the black metal bench] in [/EN#198529/scene the landscaped garden] .
+[/EN#198527/people A man] in [/EN#198534/clothing jeans] and [/EN#198531/clothing a black shirt] waits at [/EN#198528/other a park bench] .
+[/EN#198527/people A man] sitting alone on [/EN#198528/other a bench] .

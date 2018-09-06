@@ -1,0 +1,5 @@
+[/EN#45893/people An elderly oriental woman] with [/EN#45895/other a cane] sits on [/EN#45894/scene a stone post] in front of [/EN#45898/scene a stone building] .
+[/EN#45893/people An elderly gray-haired woman] wearing [/EN#45896/clothing a sweater] sits outside with [/EN#45895/other a cane] in [/EN#45901/bodyparts her lap] .
+[/EN#45893/people An old woman] with [/EN#45895/other a cane] sits on [/EN#45894/other a stone pillar] in front of [/EN#45898/other a huge stone monument] .
+[/EN#45893/people A woman] in [/EN#45896/clothing blue] with [/EN#45895/other a cane] sitting on [/EN#45894/other a barrel] .
+[/EN#45893/people An old Chinese woman] is sitting with [/EN#45895/other her cane] .

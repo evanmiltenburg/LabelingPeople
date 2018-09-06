@@ -1,0 +1,5 @@
+[/EN#95134/animals The brown , white and black dog] runs on [/EN#95136/scene a gravel surface] .
+[/EN#95134/animals A brown , black , and white dog] runs along on [/EN#95135/other the gravel] .
+[/EN#95134/animals The dog] is running across [/EN#95135/other the gravel] .
+[/EN#95134/animals A little dog] running on [/EN#95135/other sand] .
+[/EN#95134/animals A dog] runs

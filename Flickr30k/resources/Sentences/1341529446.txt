@@ -1,0 +1,5 @@
+[/EN#9207/people 2 people] [/EN#9208/other one] wearing [/EN#9209/clothing a blue shirt] [/EN#9210/clothing the other orange] taking [/EN#9216/other a bike ride] in [/EN#9211/scene the country] with [/EN#9217/scene a beautiful orange sunset] behind [/EN#0/notvisual them] .
+[/EN#9207/people Two bikers] riding towards [/EN#0/notvisual you] with [/EN#9212/other the sun] setting or rising in [/EN#0/notvisual the background] .
+[/EN#9207/people Two people] are riding [/EN#9213/vehicles their bikes] on [/EN#9211/scene a country road] as [/EN#9212/other the sun] is rising .
+[/EN#9212/other The sunshine] behind [/EN#9214/other a group of trees] on [/EN#9211/other a long rode] .
+[/EN#9207/people 2 people] riding [/EN#9213/vehicles bikes] during [/EN#9217/scene a sunset] .

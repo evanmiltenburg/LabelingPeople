@@ -1,0 +1,5 @@
+[/EN#16877/people A man] in [/EN#16878/clothing blue shirt] pausing to have [/EN#16881/other his picture] taken finishing [/EN#16880/other his barbecue meal] .
+[/EN#16877/people A bald man] wearing [/EN#16878/clothing a blue shirt] eating [/EN#16882/other ribs] at [/EN#16879/scene a table outside] .
+[/EN#16877/people A man] in [/EN#16878/clothing a blue shirt] eating on [/EN#16879/scene a deck outside] .
+[/EN#16877/people A bald man] wearing [/EN#16878/clothing a blue shirt] eating .
+[/EN#16877/people A man] in [/EN#16878/clothing a blue t-shirt] eats [/EN#16880/other a meal] .

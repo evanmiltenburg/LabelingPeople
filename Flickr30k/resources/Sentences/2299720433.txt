@@ -1,0 +1,5 @@
+[/EN#39889/people A bald man] is sitting at [/EN#39891/other a red table] with [/EN#39892/bodyparts his hands] on [/EN#39890/other a laptop computer] .
+[/EN#39889/people A man] dressed in [/EN#39893/clothing black] is sitting at [/EN#39891/other an orange table] and is on [/EN#39890/other a laptop] .
+[/EN#39889/people A man] sitting at [/EN#39891/other a table] using [/EN#39890/other a notebook computer] .
+[/EN#39889/people A man] types on [/EN#39890/other a laptop] at [/EN#39891/other a red table] .
+[/EN#39889/people A man] is intently looking at [/EN#39890/other a laptop] .

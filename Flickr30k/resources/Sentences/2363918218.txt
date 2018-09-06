@@ -1,0 +1,5 @@
+[/EN#44233/people A man] standing on [/EN#44239/vehicles/scene a boat] with [/EN#44236/other a long pole] is pushing [/EN#44234/vehicles/scene the boat] in [/EN#44238/scene the ocean] .
+Far off in [/EN#0/notvisual the distance] , [/EN#44233/people someone] is using [/EN#44236/other a large stick] to paddle [/EN#44235/other a canoe] .
+[/EN#44233/people A man] stands in [/EN#0/notvisual the distance] on [/EN#44238/scene the ocean] while [/EN#0/notvisual he] stands on [/EN#44234/vehicles/scene a small boat] .
+[/EN#44233/people A man] is poling in [/EN#44235/other a canoe] in [/EN#44240/other a tropical location] .
+[/EN#44233/people Person] in [/EN#44234/vehicles/scene small boat] in [/EN#44238/scene the ocean] close to [/EN#44241/scene shore] .

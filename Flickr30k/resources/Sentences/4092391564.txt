@@ -1,0 +1,5 @@
+[/EN#155052/people An older man] in [/EN#155053/clothing a dark shirt] is resting [/EN#155058/bodyparts his chin] on [/EN#155059/bodyparts his hand] while writing on [/EN#155054/other a newspaper] .
+[/EN#155052/people A man] in [/EN#155053/clothing a dark sweatshirt] is sitting at [/EN#155055/other a table] with [/EN#155057/other a red pen] and [/EN#155054/other a newspaper] .
+[/EN#155052/people A man] sitting at [/EN#155055/other a table] , writing on [/EN#155054/other a newspaper] .
+[/EN#155052/people A man] sits at [/EN#155055/other a table] looking over [/EN#155054/other a newspaper] .
+[/EN#155052/people A man] reading [/EN#155054/other the paper] at [/EN#155056/other a cafe] .

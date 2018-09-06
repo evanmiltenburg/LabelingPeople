@@ -1,0 +1,5 @@
+[/EN#55699/people One guy] with [/EN#55698/clothing a brown short-sleeve shirt] playing [/EN#55699/instruments a violin] and [/EN#55694/people another guy] in [/EN#55705/clothing a red long-sleeve shirt] playing [/EN#55694/instruments the banjo] inside with [/EN#55706/other the curtains] down .
+[/EN#55694/people A man] in [/EN#55698/clothing brown t-shirt] is playing [/EN#55699/instruments a violin] while [/EN#55694/people another man] [/EN#0/notvisual who] looks like [/EN#0/notvisual him] is accompanying [/EN#0/notvisual him] on [/EN#55694/instruments a banjo] .
+[/EN#55695/people Two long-haired men] with [/EN#55711/bodyparts beards] playing [/EN#55701/instruments instruments] , [/EN#55694/other one] [/EN#55694/instruments a banjo] [/EN#55699/instruments the other a violin] .
+[/EN#55695/people Two men] are playing [/EN#55707/instruments instruments] , [/EN#55699/other one] playing [/EN#55700/instruments a violin] and [/EN#55694/instruments the other a fiddle] .
+[/EN#55695/people Two men] , [/EN#0/notvisual who] look like [/EN#55695/people brothers] , are making [/EN#55708/other music] together .

@@ -1,0 +1,5 @@
+[/EN#265261/people A young girl] at [/EN#265262/scene a park] is jumping off [/EN#265263/other a tire swing] while [/EN#0/notvisual it] is swinging into [/EN#0/notvisual the air] .
+[/EN#265261/people A little girl] plays with [/EN#265263/other the tire swing] at [/EN#265262/scene the playground] .
+[/EN#265261/people Little girl] in [/EN#265264/clothing red dress] plays on [/EN#265263/other outdoor tire swing] .
+[/EN#265261/people Girl] in [/EN#265264/clothing red outfit] jumping out of [/EN#265263/other tire] swing
+[/EN#265261/people A young girl] swinging off [/EN#265263/other a tire] swing

@@ -1,0 +1,5 @@
+[/EN#110702/animals A dog] is carrying [/EN#110704/clothing something pink] in [/EN#110703/bodyparts its mouth] while walking through [/EN#110705/scene the snow] .
+[/EN#110702/animals A brown dog] in [/EN#110705/scene the snow] has [/EN#110704/clothing something hot pink] in [/EN#110703/bodyparts its mouth] .
+[/EN#110702/animals A dog] with [/EN#110704/other something] pink in [/EN#110703/bodyparts its mouth] is looking forward .
+[/EN#110702/animals A brown dog] is holding [/EN#110704/clothing a pink shirt] in [/EN#110705/scene the snow] .
+[/EN#110702/animals A brown dog] in [/EN#110705/scene the snow] holding [/EN#110704/clothing a pink hat] .

@@ -1,0 +1,5 @@
+Beside [/EN#59956/scene a white building] with [/EN#59958/scene a thatched roof] , [/EN#59954/people a group of five people] stand next to [/EN#59957/other a red ladder] , [/EN#59965/animals a horse] with [/EN#59955/vehicles a cart] full of [/EN#59959/other straw] , and [/EN#59966/animals several chickens] .
+[/EN#59961/people Three men] and [/EN#59964/people two women] are standing besides [/EN#59957/other a ladder] , [/EN#59955/vehicles a wagon] , and [/EN#59959/other bales of hay] .
+[/EN#59960/people A european farmer] is putting [/EN#59959/other hay] down to keep [/EN#59962/scene the river] from [/EN#59963/other eroding] .
+[/EN#59954/people A group of people] are outside next to [/EN#59956/scene a house] with [/EN#59958/scene a straw roof] .
+[/EN#59954/people A group of people] piling [/EN#59959/other hay] into [/EN#59955/vehicles a horse-drawn cart] .

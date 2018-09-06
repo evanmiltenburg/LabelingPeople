@@ -1,0 +1,5 @@
+[/EN#2322/people An elderly woman] with [/EN#2323/other a cane] sits in [/EN#2324/other a large wooden chair] next to [/EN#2325/other a weaving loom] , in [/EN#2330/scene a log cabin] .
+[/EN#2322/people The elderly woman] is enjoying [/EN#2331/other an afternoon] on [/EN#2326/scene the porch] with [/EN#2327/people family] .
+[/EN#2322/people An elderly women] is sitting in [/EN#2324/other a chair] with [/EN#2323/other a cane] in [/EN#2328/bodyparts her hand] .
+[/EN#2322/people An old women] with [/EN#2323/other a cane] sitting in [/EN#2324/other her rocking chair] .
+[/EN#2322/people An elderly woman] with [/EN#2329/other a can] is sitting down .

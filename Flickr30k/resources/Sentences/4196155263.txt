@@ -1,0 +1,5 @@
+[/EN#158758/people A person] holding [/EN#158759/other a cellphone] in order to take [/EN#158760/people a picture of another person] in [/EN#158761/people the crowd] .
+[/EN#158763/bodyparts A hand] holding [/EN#158759/other a cellphone] taking [/EN#158760/people a picture of a man] with [/EN#158764/clothing glasses] .
+[/EN#158758/people Someone] is taking [/EN#158762/other a picture] using [/EN#158759/other a cellphone] .
+[/EN#158758/people a person] taking [/EN#158765/scene a picture of a crowded place]
+[/EN#158758/people A man] takes [/EN#158766/other a picture] with [/EN#158759/other his phone] .

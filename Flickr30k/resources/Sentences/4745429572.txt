@@ -1,0 +1,5 @@
+[/EN#198050/people An elderly couple] sitting in [/EN#198053/other chairs] on [/EN#198052/scene a grassy hill] overlooking [/EN#198051/scene a body of water] .
+[/EN#198050/people Two persons] sitting in [/EN#198053/other chairs] at [/EN#198052/scene the end of a path] overlooking [/EN#198051/scene the ocean] .
+[/EN#198050/people A couple] sitting on [/EN#198053/other chairs] in [/EN#198055/scene the grass] on [/EN#198052/scene a cliff] overlooking [/EN#198051/scene water] .
+[/EN#198050/people An elderly couple] sits with [/EN#198054/animals their dog] in [/EN#198052/scene a green field] by [/EN#198051/scene the shore] .
+[/EN#198050/people An old couple] and [/EN#198054/animals their pet] relax by [/EN#198051/scene the water] .

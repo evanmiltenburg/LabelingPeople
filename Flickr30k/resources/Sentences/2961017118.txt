@@ -1,0 +1,5 @@
+[/EN#84292/people A boy] wearing [/EN#84296/clothing a yellow shirt] , [/EN#84297/clothing khaki pants] , and [/EN#84298/clothing blue and yellow shoes] is hitting [/EN#84293/other a tennis ball] off [/EN#84295/other a wall] with [/EN#84294/other a tennis racket] .
+[/EN#84292/people A boy] in [/EN#84296/clothing a yellow shirt] hits [/EN#84293/other a green ball] against [/EN#84295/other a wall] with [/EN#84294/other a racket] .
+[/EN#84292/people A boy] with [/EN#84296/clothing a yellow shirt] and [/EN#84297/clothing gray pants] playing [/EN#84293/other ball] alone .
+[/EN#84292/people A boy] in [/EN#84296/clothing a yellow shirt] hits [/EN#84293/other a tennis ball] against [/EN#84295/other a wall] .
+[/EN#84292/people Boy] throwing [/EN#84293/other ball] against [/EN#84295/other a stone wall] .

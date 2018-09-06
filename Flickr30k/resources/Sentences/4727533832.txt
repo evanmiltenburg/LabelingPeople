@@ -1,0 +1,5 @@
+[/EN#196015/people A person] in [/EN#196022/clothing a blue shirt] picks [/EN#196018/other something] up off of [/EN#0/notvisual the ground] in front of [/EN#196016/other a graffiti covered wall] .
+[/EN#196015/people A man] lays down [/EN#196018/other rugs] in front of [/EN#196016/other a wall] covered in [/EN#196021/other graffiti] .
+[/EN#196015/people A man] is bending down to look at [/EN#196017/other something] on [/EN#196019/scene the sidewalk] .
+[/EN#196015/people A man] laying down [/EN#196017/other black material] on [/EN#196019/scene the street] .
+[/EN#196015/people A person] is placing [/EN#196018/other car mats] on [/EN#0/notvisual the ground] .

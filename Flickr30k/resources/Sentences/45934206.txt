@@ -1,0 +1,5 @@
+[/EN#181254/people students] studying at [/EN#181255/scene the pavilion restaurant] in [/EN#181261/scene their campus] getting ready for [/EN#181260/other exams] .
+[/EN#181253/people A group of men] and [/EN#181256/people women] sit at [/EN#181257/other laptop computers] inside [/EN#181255/scene a coffee shop] .
+[/EN#181254/people people] are at [/EN#181259/other a net cafe] , [/EN#0/notvisual the background] shows [/EN#0/notvisual it] is in [/EN#181258/scene a city]
+[/EN#181254/people Three people] sit at [/EN#181257/other their laptops] inside [/EN#181255/scene a coffee shop] .
+[/EN#181253/people Two guys] and [/EN#181256/people a girl] in [/EN#181255/scene shop] , on [/EN#181257/other laptops] .

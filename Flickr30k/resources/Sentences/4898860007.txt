@@ -1,0 +1,5 @@
+[/EN#216468/people One person] wearing [/EN#216476/clothing yellow and black] is mountain biking on [/EN#216473/scene a dirt trail] through [/EN#216474/other the woods] .
+[/EN#216468/people The mountain biker] is about to go off [/EN#0/notvisual a big jump] in [/EN#216471/scene the canyon] [/EN#0/notvisual that] is full of [/EN#216474/other trees] .
+[/EN#216468/people Bicyclist] jumping [/EN#216477/vehicles a mountain bike] over [/EN#216471/scene a hill] with [/EN#216472/scene a forest] in [/EN#0/notvisual the background] .
+[/EN#216468/people a biker] riding alone in [/EN#216472/scene a remote area] jumping over [/EN#216470/other objects] .
+[/EN#216468/people A man] mountain biking through [/EN#216472/scene a wooded area] is airborne .

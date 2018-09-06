@@ -1,0 +1,5 @@
+[/EN#113691/people a man] in [/EN#113700/clothing a dark outfit] and [/EN#113701/clothing sunglasses] is riding [/EN#113692/vehicles a mountain bike] through [/EN#113693/scene a forest] near [/EN#113696/scene a stream] .
+[/EN#113691/people A man] is riding [/EN#113692/vehicles his bike] through [/EN#113693/scene a wooded area] in [/EN#113698/other the morning] .
+[/EN#113691/people A man] rides [/EN#113692/vehicles a mountain bike] down [/EN#113695/other a slope] in [/EN#113699/other the woods] .
+[/EN#113691/people Man] is [/EN#113697/other crosscountry cycling] in [/EN#113693/scene the forest] .
+[/EN#113691/people A man] riding [/EN#113692/vehicles a bicycle] down [/EN#113694/scene a mountainside] .

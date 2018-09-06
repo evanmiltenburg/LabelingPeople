@@ -1,0 +1,5 @@
+[/EN#56790/people a woman] wearing [/EN#56792/clothing a pink jacket] sitting on [/EN#56793/scene a staircase] with [/EN#56789/people a man] wearing [/EN#56791/clothing a gray hat] sitting [/EN#56793/other a few steps] behind .
+[/EN#56790/people A woman] in [/EN#56792/clothing a red business suit] sits on [/EN#56798/other a step] sharing [/EN#56800/other food] with [/EN#56789/people a man] in [/EN#56795/clothing a leather jacket] .
+[/EN#56790/people The woman] wearing [/EN#56792/clothing the pink blazer] is talking to [/EN#56789/people the man] wearing [/EN#56791/clothing the golf cap] .
+[/EN#56789/people A man] and [/EN#56790/people woman] sit on [/EN#56793/other cement stairs] outside of [/EN#56799/scene a store] .
+[/EN#56789/people A man] and [/EN#56790/people woman] are sitting on [/EN#56793/other concrete stairs] .

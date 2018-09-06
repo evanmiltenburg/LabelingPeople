@@ -1,0 +1,5 @@
+[/EN#202857/people A man] with [/EN#202858/clothing blue sleeveless shirt] and [/EN#202861/other sunglasses paints] [/EN#202862/bodyparts a face] while on [/EN#202864/bodyparts his knees] .
+[/EN#202857/people A man] in [/EN#202858/clothing a blue tank top] doing [/EN#202862/other pastel artwork] on [/EN#202859/scene the sidewalk] .
+[/EN#202857/people A man] is kneeling down on [/EN#202859/scene the floor] while drawing with [/EN#202860/other chalk] .
+[/EN#202857/people A man] with [/EN#202858/clothing a blue shirt] draws on [/EN#202859/scene the sidewalk] with [/EN#202860/other chalk] .
+[/EN#202857/people A man] drawing on [/EN#202859/scene a sidewalk] with [/EN#202861/other chalk] .

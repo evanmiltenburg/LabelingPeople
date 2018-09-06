@@ -1,0 +1,5 @@
+[/EN#167254/people A man] rides [/EN#167255/animals a bucking horse] at [/EN#167257/other a rodeo] while [/EN#167256/people the crowd] snaps [/EN#167260/other some photos] .
+[/EN#167254/people A cowboy] riding [/EN#167255/animals a bucking bronco] at [/EN#167257/other a rodeo] in front of [/EN#167256/people a crowd] .
+[/EN#167254/people A cowboy] riding [/EN#167255/animals a bucking horse] in front of [/EN#167256/people a crowd] at [/EN#167257/other a rodeo] .
+[/EN#167254/people A young cowboy] is riding [/EN#167255/animals bucking bronco] in [/EN#167261/scene an arena] .
+[/EN#167258/people Men] in [/EN#167259/other rink] with [/EN#167254/people one man] on out of [/EN#167255/animals control horse] .

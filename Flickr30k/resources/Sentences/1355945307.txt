@@ -1,0 +1,5 @@
+[/EN#9763/vehicles A red race car] marked with [/EN#9761/other the number seven] is driven by [/EN#9762/people a man] in [/EN#9766/clothing a blue and beige shirt] .
+[/EN#9763/vehicles The red car] has [/EN#9761/other the number seven] on [/EN#0/notvisual the side] in [/EN#9765/other a white circle] .
+[/EN#9762/people The man] is driving [/EN#9763/vehicles a small red race car] around [/EN#9767/scene a track] .
+[/EN#9762/people A man] drives [/EN#9763/vehicles an old-fashioned red race car] .
+[/EN#9762/people Man] driving [/EN#9764/other race car number] [/EN#9761/other 7] .

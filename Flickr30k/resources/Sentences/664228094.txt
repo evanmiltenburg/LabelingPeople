@@ -1,0 +1,5 @@
+[/EN#256432/people A man] in [/EN#256435/clothing a white cap] and [/EN#256436/clothing shirt] is working is looking at [/EN#256434/other a construction project] .
+[/EN#256433/other A construction] working wearing [/EN#256435/clothing a white hat] is holding on to [/EN#256441/other a piece of siding] .
+[/EN#256432/people A man] in [/EN#256436/clothing a white t-shirt] and [/EN#256435/clothing white ball cap] stands next to [/EN#256437/other Insulfoam] .
+[/EN#256432/people A black man] looking at [/EN#256443/other something] located near [/EN#256437/scene a manufacture building] .
+[/EN#256432/people A man] is standing in [/EN#256438/scene a field] with [/EN#256439/other a green plant] in [/EN#0/notvisual it] .

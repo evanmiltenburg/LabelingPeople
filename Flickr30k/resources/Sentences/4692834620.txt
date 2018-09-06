@@ -1,0 +1,5 @@
+[/EN#191776/people A man] in [/EN#191778/clothing a red suit] is dancing with [/EN#191775/people a woman] in [/EN#191780/clothing a red skirt] , in [/EN#191779/scene the street] .
+[/EN#191776/people A man] with [/EN#191778/clothing a red suit] is dancing with [/EN#191775/people a lady] .
+[/EN#191775/people A homely looking woman] is doing [/EN#191781/other a dance] .
+[/EN#191777/people The two man] are dancing in [/EN#191779/scene the street] .
+[/EN#191777/people Two people] , dressed in [/EN#191778/clothing red] , dancing .

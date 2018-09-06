@@ -1,0 +1,5 @@
+[/EN#25655/people A pharmacist] in [/EN#25656/clothing a white coat] and [/EN#25661/clothing glasses] is hard at [/EN#25658/other work] in [/EN#25663/animals/scene his pharmacy lab] , but turns to smile for [/EN#0/notvisual the camera] .
+[/EN#25655/people A pharmacist] in [/EN#25656/clothing a white jacket] is holding [/EN#25660/other a pill bottle] next to [/EN#25659/other a counter] filled with [/EN#25662/other pill bottles] .
+[/EN#25655/people A pharmacist] wearing [/EN#25656/clothing a white lab coat] is filling [/EN#25657/other prescriptions] .
+[/EN#25655/people A pharmacist] is at [/EN#25658/other work] filling [/EN#25657/other prescriptions] .
+[/EN#25655/people A pharmacists] preparing [/EN#25657/other prescriptions] .

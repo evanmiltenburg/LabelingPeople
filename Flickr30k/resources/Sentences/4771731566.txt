@@ -1,0 +1,5 @@
+[/EN#201206/people A man] wearing [/EN#201209/clothing a creme jacket] and [/EN#201211/clothing white pants] carrying [/EN#201207/clothing a blue bag] on [/EN#201212/bodyparts his right shoulder] walking up [/EN#201208/other stone steps] .
+[/EN#201206/people A man] walking up [/EN#201208/other some steep steps] carrying [/EN#201207/clothing a bag] .
+[/EN#201206/people A man] climbs up [/EN#201208/other a large flight of stone steps] .
+[/EN#201206/people Man] with [/EN#201210/other camera] and [/EN#201207/clothing bag] walking up [/EN#201208/other stairs]
+[/EN#201206/people A person] walking up [/EN#201208/other the stairs] .

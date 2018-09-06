@@ -1,0 +1,5 @@
+[/EN#241868/people A boy] sporting [/EN#241877/clothing a red uniform] crouches over [/EN#241875/other a base] while [/EN#241869/people a boy] on [/EN#241882/people the opposing team] dives for [/EN#241872/other the guarded plate] , skidding along [/EN#241881/scene the dirt] .
+[/EN#241868/people Two men] in [/EN#241878/clothing baseball uniforms] are playing [/EN#241871/other baseball] , [/EN#241869/other one] is on [/EN#0/notvisual the ground] with [/EN#241876/clothing a helmet] , and [/EN#241883/other the other] is crouching .
+[/EN#241869/people A boy] trying to slide to [/EN#241880/scene safety] in [/EN#241871/other a game of baseball] .
+[/EN#241869/people A man] sliding into [/EN#241872/other the plate] during [/EN#241871/other a baseball game] .
+[/EN#241869/people A kid] sliding on [/EN#241872/other base] while playing [/EN#241871/other baseball] .

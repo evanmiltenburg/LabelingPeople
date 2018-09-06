@@ -1,0 +1,5 @@
+[/EN#10355/people A woman] with [/EN#10358/clothing ripped jeans] is laying on [/EN#0/notvisual the ground] with [/EN#10362/bodyparts her forearm] over [/EN#10363/bodyparts her face] .
+[/EN#10355/people A person] in [/EN#10358/clothing ripped jeans] and [/EN#10359/clothing a black shirt] lies on [/EN#10357/other his back] on [/EN#10355/scene a hardwood floor] .
+[/EN#10355/people Man] lays [/EN#10355/other prostrate] on [/EN#0/notvisual the ground] on [/EN#10357/other his back] possibly in [/EN#10360/other exhaustion] .
+[/EN#10355/people Person] in [/EN#10358/clothing ripped blue jeans] lies on [/EN#10355/scene the hardwood floor] .
+[/EN#10355/people Person] with [/EN#10358/clothing torn jeans] laying down on [/EN#10355/scene a wood floor] .

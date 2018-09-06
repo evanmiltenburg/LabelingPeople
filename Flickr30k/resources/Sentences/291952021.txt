@@ -1,0 +1,5 @@
+[/EN#81396/animals A brown and white dog] with [/EN#81397/bodyparts big brown eyes] with [/EN#81398/other a dishtowel] in [/EN#81399/bodyparts his mouth] on [/EN#81401/scene a hardwood floor] .
+[/EN#81396/animals A brown and white dog] carries [/EN#81398/other a brown and white dish towel] in [/EN#81399/bodyparts his mouth] .
+[/EN#81396/animals A dog] looking at [/EN#0/notvisual the camera] with [/EN#81398/other a piece of cloth] in [/EN#81399/bodyparts its mouth] .
+[/EN#81396/animals PitBull] holding [/EN#81398/other a plaid dish towel] in [/EN#81399/bodyparts its mouth] .
+[/EN#81400/clothing Pink] eyed boxer [/EN#81396/animals dog] carrying [/EN#81398/other a pillowcase] .

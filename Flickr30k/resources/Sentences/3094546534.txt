@@ -1,0 +1,5 @@
+[/EN#93200/scene A restaurant] is very busy and full of [/EN#93196/people many customers] , while [/EN#93197/instruments a piano] is barely visible to [/EN#93201/other the right side of the photo] .
+[/EN#93198/people Many people] sit and socialize in [/EN#93198/people groups] inside [/EN#93199/scene a restaurant] .
+[/EN#0/notvisual There] are [/EN#93198/people many people] sitting in [/EN#93200/scene a dimly lit room] talking .
+[/EN#93198/people A large group of people] gather at [/EN#93200/scene a piano bar] .
+[/EN#93198/people People] sitting in [/EN#93200/scene a dim restaurant] eating .

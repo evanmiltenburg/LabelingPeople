@@ -1,0 +1,5 @@
+[/EN#134312/people The woman] wearing [/EN#134315/clothing a red jacket] is holding [/EN#134313/other a glass] and [/EN#0/notvisual she] is in front of [/EN#134314/people the man] in [/EN#134316/clothing a white t-shirt] .
+[/EN#134312/people A person] wearing [/EN#134315/clothing a red jacket] holds [/EN#134313/other a beer] while [/EN#134314/people a man] in [/EN#134316/clothing a white shirt] follows .
+[/EN#134312/people A woman] holding [/EN#134313/other a cup of beer] and [/EN#134314/people a man] walking down [/EN#134318/scene the sidewalk] .
+[/EN#134312/people A woman] in [/EN#134315/clothing red] with [/EN#134313/other a beer] followed by [/EN#134314/people a man] in [/EN#134316/clothing white] .
+[/EN#134312/people A woman] with [/EN#134313/other a beverage] and [/EN#134314/people a guy] walking behind [/EN#0/notvisual her] .

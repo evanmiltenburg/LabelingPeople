@@ -1,0 +1,5 @@
+[/EN#16494/people A person] in [/EN#16501/clothing blue pants] bends over toward [/EN#16497/other the carpet] in [/EN#16500/scene a public dining area] , as [/EN#16499/people another woman] in [/EN#16503/clothing a white shirt] looks over [/EN#16507/bodyparts her shoulder] toward [/EN#16502/other the action] .
+[/EN#16494/people A woman] wearing [/EN#16501/clothing blue pants] is bending over next to [/EN#16499/people a woman] and [/EN#16496/people small child] seated at [/EN#16504/other restaurant table] .
+In [/EN#16500/scene a restaurant] , [/EN#16499/people a woman] and [/EN#16496/people a baby] watch as [/EN#16494/people someone] bends over to pick up [/EN#16498/other a napkin] .
+[/EN#16494/people A man] wearing [/EN#16501/clothing blue pants] is bending over to pick up [/EN#16506/other something] from [/EN#0/notvisual the ground]
+[/EN#16494/people a person] bending over [/EN#16496/people a child] in [/EN#16500/scene a restaurant]

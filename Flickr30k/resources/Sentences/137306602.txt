@@ -1,0 +1,5 @@
+[/EN#10408/people A man] with [/EN#10409/clothing a white shirt] and [/EN#10410/clothing red tie] is talking to [/EN#10411/people another man] in [/EN#10414/scene a kitchen] .
+[/EN#10408/people A man] in [/EN#10409/clothing a dress shirt] and tie [/EN#10413/scene addresses] [/EN#10411/people a chef] in [/EN#10414/scene a kitchen] .
+[/EN#10412/people Two men] talking in [/EN#10414/scene the kitchen of a restaurant] .
+[/EN#10412/people Two men] talking in [/EN#10414/scene a restaurant kitchen] .
+[/EN#10412/people Two men] talk in [/EN#10414/scene a restaurant kitchen] .

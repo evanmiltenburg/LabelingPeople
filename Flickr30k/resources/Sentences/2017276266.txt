@@ -1,0 +1,5 @@
+[/EN#25022/animals Small white dog] with [/EN#25029/other brown markings] jumping to catch [/EN#25023/clothing a red ring] in [/EN#25032/bodyparts his mouth] .
+[/EN#25022/animals A dog] in [/EN#25030/scene midair] catching [/EN#25023/clothing a ring] , while [/EN#25027/animals another dog] watches .
+[/EN#25022/animals Small , white dog] jumping to catch [/EN#25031/clothing red] ring .
+[/EN#25022/animals A dog] jumps into [/EN#0/notvisual the air] to catch [/EN#25023/clothing a ring] .
+[/EN#25026/animals Two dogs] are playing with [/EN#25028/other a toy] [/EN#25025/scene outdoors] .

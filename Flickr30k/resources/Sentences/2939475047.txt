@@ -1,0 +1,5 @@
+[/EN#82884/people The American footballer] in [/EN#82885/clothing brown] is tackling [/EN#82886/people the player] in [/EN#82887/clothing white] [/EN#0/notvisual who] is running with [/EN#82888/other the ball] .
+[/EN#82884/people One football player] attempts to get [/EN#82888/other the ball] from [/EN#82886/people another football player] [/EN#0/notvisual who] is running .
+[/EN#82884/people Football player] tackles [/EN#82886/people a player] [/EN#0/notvisual who] has [/EN#82888/other the ball] , as [/EN#82886/people a third player] watches .
+[/EN#82889/other a football running back] getting tackled
+[/EN#0/notvisual This] is [/EN#82890/other a football game] in [/EN#82891/scene progress] .

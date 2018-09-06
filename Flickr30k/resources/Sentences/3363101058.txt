@@ -1,0 +1,5 @@
+[/EN#112890/people A middle-age man] with [/EN#112891/clothing a navy shirt] and [/EN#112892/clothing red hat] is walking down [/EN#112893/scene the sidewalk] .
+[/EN#112890/people A man] with [/EN#112891/clothing a blue jacket] and [/EN#112892/clothing a red hat] smiling on [/EN#112894/scene his way] to work .
+[/EN#112890/people An old Asian man] wearing [/EN#112892/clothing a red beanie] and [/EN#112891/clothing blue jacket] is smiling .
+[/EN#112890/people A man] in [/EN#112891/clothing a blue jacket] smiles as [/EN#0/notvisual he] walks down [/EN#112893/scene the street] .
+[/EN#112890/people A smiling man] wearing [/EN#112892/clothing a red hat] and [/EN#112891/clothing blue jacket] .

@@ -1,0 +1,5 @@
+[/EN#92753/people A lady] in [/EN#92759/clothing blue jeans] and [/EN#92754/clothing a brown jacket] is walking down [/EN#92755/scene a city street] .
+[/EN#92753/people A woman] in [/EN#92754/clothing a coat] is walking down [/EN#92755/scene a sidewalk] near [/EN#92756/other Chrismas lights] .
+[/EN#92753/people a woman] photographed from behind as [/EN#0/notvisual she] 's walking down [/EN#92755/scene a sidewalk]
+[/EN#92753/people A lady] in [/EN#92754/other winter wear] carrying [/EN#92758/clothing a purse] walks down [/EN#92755/scene the sidewalk] .
+[/EN#92753/people Person] walking down [/EN#92755/scene the street] in [/EN#92757/scene the city] .

@@ -1,0 +1,5 @@
+[/EN#94214/animals A brown dog] is starting to walk into [/EN#94215/scene water] .
+[/EN#94214/animals A brown dog] drinks from [/EN#94215/scene a body of water] .
+[/EN#94214/animals A brown dog] steps into [/EN#94215/scene murky water] .
+[/EN#94214/animals A dog] putting [/EN#94216/bodyparts his legs] into [/EN#94215/scene a pond]
+[/EN#94214/animals A dog] getting into [/EN#94215/scene some water] .

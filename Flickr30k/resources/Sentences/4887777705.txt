@@ -1,0 +1,5 @@
+[/EN#214956/people A young man] wearing [/EN#214965/clothing short pants] and [/EN#214957/clothing a backpack] is standing in [/EN#214960/scene a parking lot] with [/EN#214966/bodyparts his hand] on [/EN#214967/bodyparts his head] .
+[/EN#214956/people A young man] taking [/EN#214963/other pictures] as [/EN#214958/people other civilians] walk past [/EN#0/notvisual him] .
+[/EN#214958/people Pedestrians] walk in front of [/EN#214959/other an industrial complex] .
+[/EN#214956/people Man] with [/EN#214964/clothing sandals] taking [/EN#214962/scene picture of large building] .
+[/EN#214956/people A boy] wearing [/EN#214957/clothing a backpack] is standing outside .

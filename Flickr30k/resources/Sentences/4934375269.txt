@@ -1,0 +1,5 @@
+[/EN#220150/people A man] carrying [/EN#220157/other something] made of [/EN#220158/other red fabric] in [/EN#220159/other a bicycle basket] rides [/EN#220151/vehicles a bicycle] through [/EN#220152/scene a crowded , paved outdoor area] .
+[/EN#220150/people A man] wearing [/EN#220156/clothing shorts] and [/EN#220154/clothing a t-shirt] is riding [/EN#220151/vehicles a bike] down [/EN#220152/scene a brick road] [/EN#0/notvisual that] is filled with [/EN#220153/people other people] .
+[/EN#220150/people A bicyclist] with [/EN#220155/clothing a red cap] and [/EN#220154/clothing blue shirt] rides [/EN#220151/vehicles a blue bicycle] through [/EN#220152/scene a pedestrian area] .
+[/EN#220150/people A man] riding [/EN#220151/vehicles his bicycle] through [/EN#220152/scene a crowded street] .
+[/EN#220150/people A man] on [/EN#220151/vehicles a bike] is riding through [/EN#220153/people a small crowd] .

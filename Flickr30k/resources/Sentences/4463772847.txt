@@ -1,0 +1,5 @@
+[/EN#170550/people A soldier] on [/EN#170557/other the stairs] sitting crossed-legged on [/EN#170551/other a chair] with [/EN#170552/other a rifle] hanging from [/EN#170556/other the armrest] .
+[/EN#170550/other A solider] in [/EN#170553/clothing a tan uniform] is sitting outside of [/EN#170559/scene a building] , keeping [/EN#170558/clothing watch] .
+[/EN#170550/people A guard] sits in [/EN#170551/other a lawn chair] while [/EN#170552/other his gun] leans at [/EN#0/notvisual his side] .
+[/EN#170550/people A man] in [/EN#170553/clothing a uniform] sits on [/EN#170551/other a chair] with [/EN#170552/other a rifle] at [/EN#0/notvisual his side] .
+[/EN#170550/people A man] is posing while sitting with [/EN#170552/other his weapon] beside [/EN#0/notvisual him] .

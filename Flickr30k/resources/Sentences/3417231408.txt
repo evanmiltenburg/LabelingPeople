@@ -1,0 +1,5 @@
+[/EN#116646/people a bald man] in [/EN#116649/clothing a blue shirt] is operating [/EN#116648/other a fiery furnace] .
+[/EN#116646/people A man] in [/EN#116647/clothing an apron] operating [/EN#116648/other an open wood stove] .
+[/EN#116646/people The man] wearing [/EN#116650/clothing blue jean shorts] is grilling .
+[/EN#116646/people A man] wearing [/EN#116647/clothing a black apron] is cooking .
+[/EN#116646/people A man] operating [/EN#116648/other a furnace] .

@@ -1,0 +1,5 @@
+[/EN#211887/people People] walking in [/EN#211889/scene a park] with [/EN#211889/scene green grass] , [/EN#211890/other trees] and [/EN#211893/other red flowers] .
+[/EN#211888/people People] walking in [/EN#211889/scene a field] with [/EN#211890/other trees] on [/EN#0/notvisual both sides] .
+[/EN#211887/people Several people] are walking through [/EN#211889/scene a lush garden] .
+[/EN#211888/people Several groups of people] walk in [/EN#211889/scene a pretty park] .
+[/EN#211887/people A group of people] stand on [/EN#211889/scene a grassy field] .

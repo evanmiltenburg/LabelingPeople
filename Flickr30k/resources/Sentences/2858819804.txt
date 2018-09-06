@@ -1,0 +1,5 @@
+[/EN#77226/people A kid] wearing [/EN#77234/clothing a helmet] , [/EN#77235/bodyparts elbow] pads & knee [/EN#77232/other pads] on [/EN#77227/vehicles a bike] is performing [/EN#0/notvisual a jump] off [/EN#77230/other a rock] in [/EN#77228/scene a dirt covered area] .
+[/EN#77226/people A man] on [/EN#77227/vehicles a bicycle] jumps over [/EN#77230/other jagged rocks] amongst [/EN#77233/other tall pine trees] .
+[/EN#77226/people BMX rider] making [/EN#77229/other a huge leap] over [/EN#77230/other a rocky slope] .
+[/EN#77231/scene Man mountain] biking over [/EN#77228/scene a rocky terrain] .
+[/EN#77226/people A person] on [/EN#77227/vehicles a BMX bike] riding off [/EN#0/notvisual a jump] .

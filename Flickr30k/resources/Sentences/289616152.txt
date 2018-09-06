@@ -1,0 +1,5 @@
+[/EN#79782/people A guy] on [/EN#79783/other Rollerblades] , sliding across [/EN#79784/other a rail] .
+[/EN#79782/people Skateboarder] slides across [/EN#79784/other rail] in [/EN#79785/scene corridor] .
+[/EN#79782/people A skater] leaps through [/EN#0/notvisual the air] near [/EN#79784/other a railing]
+[/EN#79782/people A man] is rollerblading down [/EN#79784/other a rail] .
+[/EN#79782/people A rollerblader] riding [/EN#79784/other a handrail] .

@@ -1,0 +1,5 @@
+[/EN#109604/people Two people] stand on [/EN#109605/other a grassy hillside] in front of [/EN#109606/other a large wooden cross] .
+[/EN#109604/people A couple] stands in front of [/EN#109606/other a wooden sign] on top of [/EN#109605/scene a hill] .
+[/EN#109604/people Two people] standing outside in front of [/EN#109606/other a wooden marker] .
+[/EN#109604/people Two people] stand next to [/EN#109606/other a wood cross] on [/EN#109605/scene a grassy hill] .
+[/EN#109604/people A couple] standing under [/EN#109606/other a sign] .

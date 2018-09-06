@@ -1,0 +1,5 @@
+[/EN#17999/people Pedestrians] walking and riding [/EN#18003/vehicles their bikes] on [/EN#18000/scene a nice neighborhood] .
+[/EN#18001/people A woman] wearing [/EN#18005/clothing a blue jacket] is riding [/EN#18002/vehicles a bike] on [/EN#18004/scene a sunny day] .
+[/EN#18000/scene A small street] with [/EN#17998/people a few people] walking down [/EN#0/notvisual it] .
+[/EN#17998/people A few people] commuting on [/EN#18000/scene a street] .
+[/EN#18001/people woman] rides [/EN#18002/vehicles bike] through [/EN#18000/scene village] .

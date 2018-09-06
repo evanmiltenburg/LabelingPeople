@@ -1,0 +1,5 @@
+[/EN#63875/animals A brown and white greyhound] wearing [/EN#63877/other a red number five] is caught in [/EN#63880/scene midair] racing .
+[/EN#63875/animals A greyhound] with [/EN#63877/other the number 5] on [/EN#0/notvisual it] is running along [/EN#63876/scene a dirt] racing [/EN#63878/scene track] .
+[/EN#63875/animals a muzzled greyhound] wearing [/EN#63877/other the number five] is running on [/EN#63876/scene a dog track] .
+[/EN#63875/animals A muzzled animal] jumps over [/EN#63879/scene a metal bar] and splashes through [/EN#63882/other the mud] .
+[/EN#63875/animals Dog] with [/EN#63883/clothing muzzle] and [/EN#63877/other sweater marked 5] runs on [/EN#63878/scene dirt track] .

@@ -1,0 +1,5 @@
+[/EN#209156/people A group of people] stands and [/EN#209159/other paces] past [/EN#209152/scene a pizza restaurant] on [/EN#209155/scene a busy city street corner] .
+[/EN#209153/people People] walking and standing outside of [/EN#209158/scene an intersection] on [/EN#209155/scene a busy street] .
+[/EN#209152/scene A busy pizza shop] is located on [/EN#209157/scene a heavily trafficked street corner] .
+[/EN#209153/people People] crossing [/EN#209155/scene the street] in front of [/EN#209154/other Roma Pizza] .
+[/EN#209153/people People] are standing outside of [/EN#209154/other Roma Pizza 's] .

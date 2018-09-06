@@ -1,0 +1,5 @@
+[/EN#9841/people A Young child] is throwing [/EN#9842/other a big rock] into [/EN#9843/scene a body of water] .
+[/EN#9841/people A young boy] throws [/EN#9842/other a big rock] into [/EN#9843/scene a body of water] .
+[/EN#9841/people A boy] in [/EN#9844/clothing a blue shirt] throwing [/EN#9842/other a rock] into [/EN#9843/scene water] .
+[/EN#9841/people A young boy] , throwing [/EN#9842/other a stone] into [/EN#9843/scene calm water] .
+[/EN#9841/people Young boy] throws [/EN#9842/other a rock] into [/EN#9843/scene the water] .

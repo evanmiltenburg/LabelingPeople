@@ -1,0 +1,5 @@
+[/EN#94197/people Someone] on [/EN#94198/other a Nitro snowboard] in [/EN#94199/scene midair] and [/EN#94202/people another person] on [/EN#0/notvisual the ground] behind [/EN#0/notvisual them] .
+[/EN#94197/people A person] on [/EN#94198/other a green board] is snowboarding in [/EN#94199/scene midair] .
+[/EN#94197/people A man] in [/EN#94204/clothing a white coat] jumps [/EN#94198/other a snowboard] .
+[/EN#94201/people Two snowboarders] in [/EN#94203/scene a snowy scene] .
+[/EN#94197/people a snowboarder]

@@ -1,0 +1,5 @@
+[/EN#205409/people A young person] in [/EN#205412/clothing a red jumpsuit] with [/EN#205415/other white decorative buttons] holds [/EN#205413/other a wood grain] finished [/EN#205410/instruments guitar] and sings into [/EN#205411/other a microphone] .
+[/EN#205409/people A musician] playing [/EN#205410/instruments a guitar] while [/EN#0/notvisual he] has [/EN#205411/other the microphone] inside [/EN#205416/bodyparts his mouth] .
+[/EN#205409/people a woman] in [/EN#205412/clothing red] playing [/EN#205410/instruments an electric guitar] , and [/EN#205414/other singing] .
+[/EN#205409/people A woman] in [/EN#205412/clothing a red outfit] is playing [/EN#205410/instruments a electric guitar] .
+[/EN#205409/people A person] in [/EN#205412/clothing a red coat] plays [/EN#205410/instruments an electric guitar] .

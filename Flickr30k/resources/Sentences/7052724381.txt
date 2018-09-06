@@ -1,0 +1,5 @@
+[/EN#264647/people A surfer] has just fallen off [/EN#264649/other his surfboard] and only [/EN#264648/bodyparts his feet] are visible above [/EN#264650/scene the water] .
+[/EN#264647/people A surfer] [/EN#0/notvisual who] fell off [/EN#264649/other his surfboard] in [/EN#264650/scene the ocean] while trying to ride [/EN#264650/scene a wave] .
+[/EN#264648/bodyparts The feet] are shown of [/EN#264647/people a person] [/EN#0/notvisual who] just fell off of [/EN#264649/other their surfboard] .
+[/EN#264648/bodyparts Two feet] and [/EN#264649/other a surfboard] emerging from [/EN#264650/scene a wave] .
+[/EN#264648/bodyparts Only feet] are visible above [/EN#264650/scene the water] .

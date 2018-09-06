@@ -1,0 +1,5 @@
+[/EN#234789/people A short girl] in [/EN#234791/clothing a white skirt] , [/EN#234793/clothing black boots] , and [/EN#234794/clothing a gray-green jacket] carrying [/EN#234790/clothing a red bag] on [/EN#234792/scene the sidewalk] .
+[/EN#234789/people A black-haired woman] in [/EN#234791/clothing a white skirt] and [/EN#234793/clothing black boots] is carrying [/EN#234790/clothing a red bag] and walking down [/EN#234792/scene the street] .
+[/EN#234789/people A woman] with [/EN#234791/clothing a short , white skirt] , [/EN#234793/clothing black boots] and [/EN#234790/clothing a red bag] walks away .
+[/EN#234789/people A woman] in [/EN#234791/clothing a skirt] and [/EN#234793/clothing boots] with [/EN#234790/clothing a red bag] walking down [/EN#234792/scene the sidewalk] .
+[/EN#234789/people A woman] dressed up [/EN#234795/other walks] down [/EN#234792/scene the sidewalk] with [/EN#234796/other her back] turned .

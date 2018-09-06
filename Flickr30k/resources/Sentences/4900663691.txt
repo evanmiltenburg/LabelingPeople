@@ -1,0 +1,5 @@
+[/EN#216601/people Two men] are sitting on [/EN#216603/clothing their bags] while [/EN#216606/people other people] walk in [/EN#0/notvisual the background] .
+[/EN#216601/people Men] sitting and sleeping on [/EN#216602/scene the street] on [/EN#216603/clothing their bags] .
+[/EN#216601/people two men] on [/EN#216602/scene a sidewalk] sitting and lying on [/EN#216604/other luggage] .
+[/EN#216601/people Men] are sitting on [/EN#216603/clothing bags] on [/EN#0/notvisual the ground] .
+[/EN#216601/people 2 men] rest on [/EN#216604/other their baggage] .

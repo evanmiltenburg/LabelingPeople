@@ -1,0 +1,5 @@
+[/EN#27445/animals A brown dog] with [/EN#27450/other a lease] is running with [/EN#27446/people a person] behind [/EN#27445/animals the dog] .
+[/EN#27446/people A man] is walking behind [/EN#27445/animals a dog] [/EN#0/notvisual that] is standing on [/EN#27449/bodyparts its hind legs] .
+[/EN#27445/animals A tan dog] on [/EN#27448/clothing a leash] stands on [/EN#27449/bodyparts his hind legs] .
+[/EN#27445/animals A brown dog] is running away from [/EN#27446/people his owner] .
+[/EN#27445/animals Dog] on [/EN#27448/clothing leash] running from [/EN#27446/people man]

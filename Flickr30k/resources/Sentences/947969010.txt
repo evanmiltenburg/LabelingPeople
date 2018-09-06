@@ -1,0 +1,5 @@
+[/EN#283929/animals A black dog] with [/EN#283931/clothing a brown muzzle] next to [/EN#283930/scene a body of water] , shaking off [/EN#283935/scene water] with [/EN#283931/other a stick] in [/EN#283932/bodyparts its mouth] .
+[/EN#283929/animals A black dog] with [/EN#283934/clothing a red collar] has [/EN#283931/other an item] in [/EN#283932/bodyparts his mouth] and is climbing out of [/EN#283930/scene a pool] .
+[/EN#283929/animals A brown dog] climbing out of [/EN#283930/scene a pool] with [/EN#283931/other a stick] in [/EN#283932/bodyparts his mouth] .
+[/EN#283929/animals A dog] with [/EN#283931/other a stick] in [/EN#283932/bodyparts its mouth] climbs out of [/EN#283930/scene the water] .
+[/EN#283929/animals The dog] is climbing out of [/EN#283930/scene the water] with [/EN#283931/other a stick] .

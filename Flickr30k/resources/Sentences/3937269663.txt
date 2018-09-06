@@ -1,0 +1,5 @@
+[/EN#148720/people A man] in [/EN#148718/clothing a white shirt] carries [/EN#148722/other a bucket] on [/EN#148727/bodyparts his shoulder] while [/EN#148724/people another man] drives [/EN#148719/other a yellow machine] .
+[/EN#148715/people A man] wearing [/EN#148718/clothing a white shirt] and [/EN#148725/clothing a yellow hard hat] is using [/EN#148719/other construction equipment] .
+[/EN#148721/people Men] work on and around [/EN#148719/other equipment] on [/EN#148716/scene a construction site] at [/EN#148726/scene night] .
+[/EN#148715/people A man] in [/EN#148719/other a yellow excavator] on [/EN#148723/scene a construction site] .
+[/EN#148719/vehicles A bulldozer] is working on [/EN#148717/scene a building] .

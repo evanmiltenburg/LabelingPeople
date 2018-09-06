@@ -1,0 +1,5 @@
+[/EN#64333/people A member of the clergy] carries [/EN#64334/clothing a blue bag] in [/EN#64338/bodyparts his hand] and talks on [/EN#64335/other the phone] as [/EN#0/notvisual he] walks .
+[/EN#64333/people A priest] carrying [/EN#64334/clothing a small blue bag] walking down [/EN#64336/scene the street] talking on [/EN#64335/other a cellphone] .
+[/EN#64333/people Priest] in [/EN#64337/clothing black] walking on [/EN#64336/scene sidewalk] carrying [/EN#64334/clothing a blue bag] and talking on [/EN#64335/other cellphone] .
+[/EN#64333/people A man] talks on [/EN#64335/other his cellphone] while [/EN#0/notvisual he] walks down [/EN#64336/scene the street] .
+[/EN#64333/people Priest] walking with [/EN#64334/clothing blue bag] while talking on [/EN#64335/other cellphone] .

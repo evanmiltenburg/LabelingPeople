@@ -1,0 +1,5 @@
+[/EN#278468/vehicles/scene A train] approaches [/EN#278472/other a stop] at [/EN#278469/other an indoor station] as [/EN#278466/people several people] walk and sit inside [/EN#278471/scene the building] .
+[/EN#278466/people A few people] are waiting in [/EN#278470/scene a subway station] , with [/EN#278476/vehicles an arriving car] in [/EN#0/notvisual the distance] .
+[/EN#278467/people A man] waits on [/EN#278474/other a subway platform] while [/EN#278468/vehicles/scene train] is pulling into [/EN#278469/other the station] .
+[/EN#0/notvisual There] are [/EN#278466/people a few people] at [/EN#278470/scene a subway station] and [/EN#278473/vehicles/scene a subway] is coming by .
+[/EN#278467/people A man] is waiting for [/EN#278468/vehicles/scene the subway] .

@@ -1,0 +1,5 @@
+[/EN#89468/animals Five white and white and brown , muzzled dogs] run across [/EN#89469/scene a green , grassy lawn] .
+[/EN#89468/animals Five white dogs] with [/EN#89470/clothing muzzles] are running towards [/EN#0/notvisual the camera] .
+[/EN#89468/animals Five small white dogs] are wearing [/EN#89470/clothing muzzles] and running .
+[/EN#89472/other Little] muzzled [/EN#89468/animals white dogs] are running in [/EN#89469/scene the grass] .
+[/EN#89468/animals Several dogs] in [/EN#89470/clothing muzzles] are racing on [/EN#89471/scene the grass] .

@@ -1,0 +1,5 @@
+[/EN#146143/people A young man] in [/EN#146147/clothing a white hat] is painting [/EN#146145/other a mural] outside on [/EN#146146/other a wall] .
+[/EN#146143/people The painter] in [/EN#146147/clothing the white hat] is painting [/EN#146145/other a mural] .
+[/EN#146143/people A person] in [/EN#146147/clothing a white hat] is painting [/EN#146145/other a mural] .
+[/EN#146143/people A guy] in [/EN#146148/clothing black shirt] is drawing on [/EN#146146/other a wall]
+[/EN#146143/people A person] is panting on [/EN#146146/other a wall] outside .

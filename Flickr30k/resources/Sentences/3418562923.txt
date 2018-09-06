@@ -1,0 +1,5 @@
+[/EN#116772/people A young man] in [/EN#116779/clothing black and white striped shirt] rests on [/EN#116773/scene the grass] while [/EN#116774/scene traffic passes] nearby on [/EN#116773/scene the road] .
+[/EN#116772/people A woman] lays in [/EN#116773/scene the grass] , using [/EN#116775/clothing her backpack] as [/EN#116778/other a pillow] , just off to [/EN#116773/scene the side of a busy road] .
+[/EN#116772/people A man] lies down and rests [/EN#116781/bodyparts his head] on [/EN#116775/clothing his backpack] as [/EN#0/notvisual he] watches [/EN#116774/scene car pass] [/EN#116780/other by] .
+[/EN#116772/people A man] lying on [/EN#0/notvisual the ground] as [/EN#116782/vehicles vehicles] pass by on [/EN#116773/scene the road] .
+[/EN#116772/people A person] is laying in [/EN#116773/scene the grass] and relaxing .

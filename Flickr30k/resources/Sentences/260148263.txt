@@ -1,0 +1,5 @@
+[/EN#60776/people A welder] in [/EN#60778/clothing protective clothing] and [/EN#60779/clothing mask] works to weld [/EN#60783/other together pieces of metal] on [/EN#60782/other a structure] [/EN#0/notvisual that] is coming up out of [/EN#60777/scene a body of water] .
+[/EN#60776/people A man] wearing [/EN#60778/clothing a denim jacket] and [/EN#60785/clothing jeans] welds on [/EN#60784/scene a bridge] above [/EN#60777/scene water] while wearing [/EN#60779/clothing his safety mask] .
+[/EN#60776/people A welder] is welding [/EN#60781/other something] [/EN#0/notvisual that] appears to be coming out of [/EN#60777/scene the water] .
+[/EN#60776/people A man] is sitting down while welding [/EN#60780/other an object] .
+[/EN#60776/people A man] wearing [/EN#60779/clothing a helmet] is welding [/EN#60781/other something] .

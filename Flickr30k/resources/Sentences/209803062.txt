@@ -1,0 +1,5 @@
+[/EN#28572/people A woman] in [/EN#28578/clothing black clothing] is holding [/EN#28574/other a tennis racket] in [/EN#28576/scene a tennis field] .
+[/EN#28572/people A woman] crouches down with [/EN#28574/other a tennis racket] in [/EN#28579/bodyparts both hands] .
+[/EN#28572/people A young woman] is awaiting [/EN#28573/other the serve] from [/EN#28577/people her opponent] .
+[/EN#28572/people A female tennis player] stands in [/EN#28575/scene a ready position] .
+[/EN#28572/people Female tennis player] poised to receive [/EN#28573/other a serve]

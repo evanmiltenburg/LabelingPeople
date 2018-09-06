@@ -1,0 +1,5 @@
+[/EN#133977/people A stocky gentleman] wearing [/EN#133979/clothing a long-sleeve , blue shirt] , [/EN#133984/clothing black slacks] , aged , [/EN#133986/clothing black boots] and [/EN#133978/clothing a blue billed cap] is scaling [/EN#133983/scene a roof] , using [/EN#133985/other the structure 's struts] to approach [/EN#133988/other stacks of tiles] stored at [/EN#133983/scene the roof 's apex] .
+[/EN#133977/people A man] wearing [/EN#133979/clothing a blue shirt] and [/EN#133984/clothing black pants] is working on [/EN#133982/scene an unfinished tile roof of a building] .
+[/EN#133977/people A person] in [/EN#133979/clothing a blue shirt] and [/EN#133978/clothing hat] working on [/EN#133982/other a roof of a structure] [/EN#0/notvisual that] is behind [/EN#133980/scene a fence] .
+[/EN#133977/people Man] on top of [/EN#133981/scene a partially completed roof] getting ready to lay down [/EN#133987/other more shingles] .
+[/EN#133977/people A man] with [/EN#133979/clothing a blue shirt] is working on building [/EN#133983/scene a roof] .

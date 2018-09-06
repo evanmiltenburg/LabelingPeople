@@ -1,0 +1,5 @@
+[/EN#18425/people Pedestrians] navigate [/EN#18429/scene their way] up and down [/EN#18426/other a busy city stairwell] .
+[/EN#18425/people A crowd of people] walking up and down [/EN#18426/scene a flight of stairs] .
+[/EN#18425/people A crowd of people] [/EN#18427/other a going] up and down [/EN#18426/other a stairway] .
+[/EN#18425/people Crowd of people] climbing [/EN#18426/other stairs] to [/EN#18428/other a platform] .
+[/EN#18426/other Stairs] crowded with [/EN#18425/people several people]

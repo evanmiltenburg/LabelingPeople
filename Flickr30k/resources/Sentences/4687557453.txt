@@ -1,0 +1,5 @@
+[/EN#190842/people Two people] in [/EN#190847/clothing orange shirts] sits at [/EN#190840/other a table] on [/EN#190836/people the right of a group of people] in [/EN#190848/clothing blue shirts] in [/EN#190844/scene front] [/EN#190843/scene an old building] .
+[/EN#190836/people A crowd of people] sitting at [/EN#190845/other picnic tables] in front of [/EN#190838/other a brick] , historic-looking [/EN#190839/scene building] .
+[/EN#190836/people A crowd of people] gathered in [/EN#190839/scene a public place] outdoors sitting at [/EN#190841/other picnic tables] .
+[/EN#0/notvisual This] is [/EN#190836/people a large group of people] sitting outside on [/EN#190837/other benches] .
+[/EN#190836/people People] are sitting at [/EN#190846/other tables] .

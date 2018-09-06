@@ -1,0 +1,5 @@
+[/EN#42652/people A man] walks [/EN#42651/animals three white dogs] with [/EN#42656/scene spots] down [/EN#42653/scene a street] with [/EN#42657/other palm trees] .
+[/EN#42652/people This man] with [/EN#42651/animals three dogs] takes [/EN#42655/scene his route] along [/EN#42653/scene the tree-lined street] .
+[/EN#42652/people Man] walking [/EN#42651/animals three dalmatians] along [/EN#42653/scene a palm-tree lined street] .
+[/EN#42652/people A man] walking [/EN#42651/animals 3 dalmatians] along [/EN#42653/scene a sunny street] .
+[/EN#42652/people A man] walks [/EN#42651/animals a group of Dalmatians] on [/EN#42654/scene the beach] .

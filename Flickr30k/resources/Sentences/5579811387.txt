@@ -1,0 +1,5 @@
+[/EN#239003/people A man] with [/EN#239007/clothing a pinstriped shirt] and [/EN#239011/clothing tan slacks] adjust [/EN#239005/clothing his tie] while looking at [/EN#239004/other a apple laptop computer] .
+[/EN#239003/people A man] is tying [/EN#239005/clothing his tie] in front of [/EN#239004/other his Apple] branded [/EN#239004/other laptop] in [/EN#239006/scene a brightly lit room] .
+[/EN#239003/people A man] recording [/EN#0/notvisual himself] on [/EN#239004/other his laptop] while tying [/EN#239005/clothing a tie] around [/EN#239009/clothing his collar] .
+[/EN#239003/people A man] gets dressed in [/EN#239010/scene his home] as [/EN#0/notvisual he] looks at [/EN#239004/other his laptop] .
+[/EN#239003/people A man] is watching [/EN#239008/other a video] about how to tie [/EN#239005/clothing his tie] .

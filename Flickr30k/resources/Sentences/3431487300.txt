@@ -1,0 +1,5 @@
+[/EN#117760/people A man] and [/EN#117763/people two women] are riding [/EN#117761/vehicles a vehicle] [/EN#0/notvisual that] is racing past [/EN#117765/scene the surrounding scenery] .
+[/EN#117760/people A man] and [/EN#117763/people two women] are all sat on [/EN#117761/vehicles a single motor scooter] .
+[/EN#117760/people A man] and [/EN#117763/people two woman] are riding around on [/EN#117761/vehicles a motor scooter] .
+[/EN#117760/people A man] and [/EN#117763/people two women] on [/EN#117761/other one motorcycle] .
+[/EN#117764/people three people] riding on [/EN#117761/other a motorcycle]

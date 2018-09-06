@@ -1,0 +1,5 @@
+[/EN#2357/people A girl] in [/EN#2358/clothing a floral bathing suit] jumping on [/EN#2359/scene the beach] in front of [/EN#2360/scene the waves] .
+[/EN#2357/people A little girl] in [/EN#2358/clothing a flower print bathing suit] , jumping into [/EN#2360/scene the ocean] .
+[/EN#2357/people A girl] in [/EN#2358/clothing a swimsuit] is jumping high , near [/EN#2360/scene water] .
+[/EN#2357/people A young girl] is jumping in [/EN#0/notvisual the air] at [/EN#2359/scene the beach] .
+[/EN#2357/people A girl] jumping into [/EN#2360/scene the ocean] .

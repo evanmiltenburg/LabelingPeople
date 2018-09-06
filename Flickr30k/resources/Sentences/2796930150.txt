@@ -1,0 +1,5 @@
+[/EN#73424/people A man] is sitting next to [/EN#73425/scene a canal] in [/EN#73426/other a green beach chair] with [/EN#73430/clothing an unopened beach umbrella] .
+[/EN#73424/people A man] wearing [/EN#73431/clothing a pink shirt] , sits in [/EN#73426/other a lawn chair] at [/EN#73428/scene the park] while [/EN#73432/other fishing] .
+[/EN#73424/people Man] sitting on [/EN#73426/other a green chair] with [/EN#73429/other fishing pole] in [/EN#73425/scene the water]
+[/EN#73424/people A man] sits in [/EN#73426/other a chair] with [/EN#73429/other a fishing pole] next to [/EN#73425/scene water] .
+[/EN#73424/people A man] is sitting by [/EN#73425/scene a creek] , watching [/EN#73429/other a fishing pole] .

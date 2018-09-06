@@ -1,0 +1,5 @@
+[/EN#8576/people A man] wearing [/EN#8578/clothing white overalls] and [/EN#8579/clothing a baseball cap] is holding [/EN#8577/other a paintbrush] .
+[/EN#8576/people An elderly man] is wearing [/EN#8578/clothing overalls] and holding [/EN#8577/other a paintbrush] .
+[/EN#8576/people older gentleman] wearing [/EN#8578/clothing white overalls] holding [/EN#8577/other a paintbrush] .
+[/EN#8576/people An elderly man] wearing [/EN#8578/other white coveralls] holding [/EN#8577/other a paintbrush] .
+[/EN#8576/people An elderly man] wearing [/EN#8578/clothing white overalls] holding [/EN#8577/other a paintbrush] .

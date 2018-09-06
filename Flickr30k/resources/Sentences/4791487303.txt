@@ -1,0 +1,5 @@
+[/EN#203131/people Woman] in [/EN#203132/clothing pink shirt] and [/EN#203133/clothing black shorts] , holding [/EN#203136/other a blue shovel] , shoveling [/EN#203134/scene white snow] .
+[/EN#203131/people A white person] wearing [/EN#203133/clothing shorts] and [/EN#203135/scene a purple t-shirt shovels snow] .
+[/EN#203131/people A man] is shoveling [/EN#203134/scene snow] while wearing [/EN#203133/clothing shorts] and [/EN#203132/clothing a pink shirt] .
+[/EN#203131/people A person] in [/EN#203133/clothing shorts] shoveling [/EN#203134/scene snow] .
+[/EN#203131/people A woman] in [/EN#203133/clothing shorts] shoveling [/EN#203134/scene snow] .

@@ -1,0 +1,5 @@
+[/EN#73465/people A kid] jumps over [/EN#73466/other a small waterful] while [/EN#73467/people another boy] looks on .
+[/EN#73468/people A boys] jumps in [/EN#73469/scene the water] while [/EN#73467/people another boy] looks on .
+[/EN#73465/people A boy] jumps into [/EN#73469/scene water] while [/EN#0/notvisual another] watches .
+[/EN#73465/people A boy] jumps into [/EN#73469/scene water] fully clothed .
+[/EN#73468/people Two boys] playing in [/EN#73469/scene a lake] .

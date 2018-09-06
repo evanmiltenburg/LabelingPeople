@@ -1,0 +1,5 @@
+[/EN#181004/people A man] in [/EN#181008/clothing a pink shirt] is spotted drinking [/EN#181005/other a beer] .
+[/EN#181004/people A man] in [/EN#181009/other his 40ts] smiling as [/EN#0/notvisual he] drinks [/EN#181005/other a drink] .
+[/EN#181004/people A man] wearing [/EN#181008/clothing a pink shirt] is enjoying [/EN#181005/other a drink] .
+[/EN#181004/people A man] wearing [/EN#181007/clothing a jacket] is having [/EN#181005/other a drink] .
+[/EN#181004/people A man] in [/EN#181007/clothing a plaid jacket] is drinking [/EN#181005/other beer] .

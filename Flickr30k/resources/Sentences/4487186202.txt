@@ -1,0 +1,5 @@
+[/EN#172534/people A girl] in [/EN#172537/clothing a pink shirt] is reading [/EN#172535/other a book] on [/EN#172536/people an e-book reader] .
+[/EN#172534/people A girl] is [/EN#172540/other concentrated] reading on [/EN#172536/other her eReader] .
+[/EN#172534/people A girl] in [/EN#172537/clothing a pink shirt] is using [/EN#172536/other an iPad] .
+[/EN#172534/people A young girl] reading [/EN#172536/other an electronic book] .
+[/EN#172534/people a girl] in [/EN#172537/clothing red shirt] playing [/EN#172535/other a game] .

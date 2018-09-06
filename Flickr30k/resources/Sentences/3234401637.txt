@@ -1,0 +1,5 @@
+[/EN#103120/people Two children] on [/EN#103122/vehicles bikes] riding on [/EN#103121/scene a desolate street] near [/EN#103123/scene water] and [/EN#103124/other a street lamp] .
+[/EN#103120/people Two people] are riding [/EN#103122/vehicles bikes] on [/EN#103121/scene a vacant street] near [/EN#103123/scene the ocean] .
+[/EN#103120/people Two kids] ride [/EN#103122/vehicles their bikes] by [/EN#103123/scene the ocean] , in [/EN#103126/scene the evening] .
+[/EN#103120/people Two people] are on [/EN#103122/vehicles bikes] are next to [/EN#103125/scene a white building] .
+[/EN#103120/people Two bicycle riders] in [/EN#103128/other twilight] on [/EN#103127/scene the shore] .

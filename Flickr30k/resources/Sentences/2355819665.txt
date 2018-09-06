@@ -1,0 +1,5 @@
+[/EN#43860/people A child] is riding [/EN#43861/vehicles a green bike] and wearing [/EN#43865/clothing an orange shirt] and [/EN#43866/clothing red helmet] .
+[/EN#43860/people Boy] wearing [/EN#43867/other safety gear] rides [/EN#43861/vehicles green bike] through [/EN#43864/scene suburban streets] .
+[/EN#43860/people The kid] rides [/EN#43861/vehicles his green and black bike] down [/EN#43863/scene the street] .
+[/EN#43860/people A child] rides [/EN#43861/vehicles a bicycle] in [/EN#43862/scene a sunny neighborhood] .
+[/EN#43860/people A boy] on [/EN#43861/vehicles a bike] rides around [/EN#43862/scene the neighborhood] .

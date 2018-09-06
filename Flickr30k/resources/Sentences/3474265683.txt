@@ -1,0 +1,5 @@
+[/EN#120880/people A man] in [/EN#120882/clothing a blue sweater] , [/EN#120881/clothing black leather jacket] and [/EN#120884/clothing gray hat] is surrounded by [/EN#120883/people people] .
+[/EN#120887/other an old] wearing [/EN#120884/clothing a gray hat] and [/EN#120881/clothing a leather jacket] surrounded by [/EN#120890/people several other people] .
+[/EN#120880/people A man] wearing [/EN#120888/clothing a shirt] and [/EN#120891/clothing tie] , looks perplexed as [/EN#0/notvisual he] navigates through [/EN#120883/people a crowd] .
+[/EN#120880/people A man] and [/EN#120892/people woman] in [/EN#120883/people a crowd of people] are having [/EN#120889/other a verbal exchange] .
+[/EN#120880/people Man] wearing [/EN#120884/clothing hat] , [/EN#120885/clothing cardigan] , and tie in [/EN#120883/people a crowd of people]

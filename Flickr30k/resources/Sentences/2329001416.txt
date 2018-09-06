@@ -1,0 +1,5 @@
+[/EN#41979/people A man] is kneeling on [/EN#41980/scene a metal roof] and is looking over [/EN#41982/other a structure] on [/EN#41980/scene the roof] .
+[/EN#41979/people A man] with [/EN#41987/bodyparts dark hair] and [/EN#41984/clothing clothing] is working on [/EN#41980/scene a silver colored roof] .
+[/EN#41979/people A man] in [/EN#41981/clothing a black t-shirt] works on [/EN#41980/scene a metal roof] under [/EN#41983/other a tree] .
+[/EN#41979/people An adult male] is kneeling on top of [/EN#41980/scene a roof] make [/EN#41985/other repairs]
+[/EN#41979/people A worker] on [/EN#41980/scene a metal roof] fixes [/EN#41986/other some grating] .

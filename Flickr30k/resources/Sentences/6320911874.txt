@@ -1,0 +1,5 @@
+[/EN#252586/people A man] in [/EN#252587/clothing a white t-shirt] and [/EN#252588/clothing blue jeans] does [/EN#0/notvisual a skateboard trick] in front of [/EN#252589/other colorful graffiti] reading [/EN#252593/other " Having fun is the worst "]
+[/EN#252586/people A male] wearing [/EN#252590/clothing a hat] is skateboarding in front of [/EN#252589/other a graffiti covered wall] .
+[/EN#252586/people Man] in [/EN#252590/clothing fedora] , [/EN#252587/clothing white shirt] , and [/EN#252588/clothing black jeans] , grinding on [/EN#252591/other a skateboard] .
+[/EN#252586/people A person] in [/EN#252590/clothing a hat] is skateboarding and [/EN#0/notvisual there] is [/EN#252589/other graffiti] behind [/EN#0/notvisual them] .
+[/EN#252586/people A man] with [/EN#252590/clothing a brimmed hat] is skateboarding near [/EN#252589/other some graffiti]

@@ -1,0 +1,5 @@
+[/EN#273533/people A bicyclist] wearing [/EN#273538/clothing a red helmet] , [/EN#273540/clothing sunglasses] , and [/EN#273536/clothing blue spandex clothing] in [/EN#273537/other a race] on [/EN#273535/scene the street] .
+[/EN#273533/people A bicycle racer] is riding [/EN#273534/vehicles a bike] on [/EN#273535/scene the street] with [/EN#273539/people people] watching from [/EN#273542/other the sidelines] .
+[/EN#273533/people A man] [/EN#0/notvisual who] is wearing [/EN#273534/other the same colors] as [/EN#273534/vehicles the bike] is riding down [/EN#273535/scene the street] .
+[/EN#273533/people A cyclist] dressed in [/EN#273536/clothing blue] is riding up [/EN#273535/scene a road] .
+[/EN#273533/people A man] cycling on [/EN#273535/scene road] and enjoying .

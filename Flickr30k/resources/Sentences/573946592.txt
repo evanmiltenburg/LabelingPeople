@@ -1,0 +1,5 @@
+[/EN#242156/people a girl] in [/EN#242158/clothing a yellow shirt] in front of [/EN#242159/vehicles a yellow truck] with [/EN#242160/bodyparts her arms] in [/EN#0/notvisual the air] and [/EN#242161/scene a forest] in [/EN#242157/scene the backdrop] .
+[/EN#242156/people A woman] with [/EN#242160/bodyparts her arms] spread standing in front of [/EN#242159/vehicles a yellow pick-up truck] .
+[/EN#242156/people A girl] in [/EN#242158/clothing a bright yellow jacket] poses in front of [/EN#242159/vehicles a bright yellow truck] .
+[/EN#242156/people One person] wearing [/EN#242158/clothing a yellow shirt] , in [/EN#242157/scene a field] , next to [/EN#242159/vehicles a truck] .
+[/EN#242156/people A woman] is posing in [/EN#242162/scene a meadow] next to [/EN#242159/vehicles an old truck] .

@@ -1,0 +1,5 @@
+[/EN#41850/people A man] wearing [/EN#41860/clothing a red hat] and holding [/EN#41858/other a fake pistol] talking to [/EN#41853/people a girl] in [/EN#41856/scene a large hallway] .
+[/EN#41850/people A man] dressed as [/EN#41852/other Judge Dredd] converses with [/EN#41853/people a woman] during [/EN#41857/people a convention] .
+[/EN#41850/people Man] in [/EN#41852/clothing costume] talks to [/EN#41853/people a girl] in [/EN#41851/clothing a blue hoodie] in [/EN#41856/scene a conference center] .
+[/EN#41850/people A man] in [/EN#41852/clothing a superhero costume] talks to [/EN#41853/people a girl] with [/EN#41861/bodyparts a ponytail] .
+[/EN#41850/people a man] in [/EN#41852/clothing a costume] talking to [/EN#41853/people a woman] in [/EN#41851/clothing a blue jacket]

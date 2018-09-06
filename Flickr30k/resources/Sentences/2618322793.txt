@@ -1,0 +1,5 @@
+[/EN#61947/people A child] wearing [/EN#61948/clothing an orange shirt] , [/EN#61950/clothing dark blue denim shorts] and [/EN#61951/clothing sandals] rides on [/EN#61949/other a swing] .
+[/EN#61947/people A boy] wearing [/EN#61948/clothing an orange shirt] is playing on [/EN#61949/other a swing] .
+[/EN#61947/people A child] in [/EN#61948/clothing an orange shirt] swings on [/EN#61949/other a swing] .
+[/EN#61947/people a boy] swinging on [/EN#61949/other a swing] .
+[/EN#61947/people A boy] swings in [/EN#0/notvisual the air] .

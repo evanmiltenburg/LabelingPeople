@@ -1,0 +1,5 @@
+[/EN#142937/people Two people] are walking down [/EN#142938/scene a path] in [/EN#142941/scene the forest preserves] .
+[/EN#142937/people Two people] are walking on [/EN#142938/scene a trail] through [/EN#142942/other the woods] .
+[/EN#142936/people An older man] and [/EN#142939/people a woman] walk along [/EN#142938/scene a forest path] .
+[/EN#142937/people Two people] are walking down [/EN#142938/scene an isolated road] .
+[/EN#142936/people A man] and [/EN#142939/people a woman] are walking on [/EN#142938/scene a dirt road] .

@@ -1,0 +1,5 @@
+[/EN#32726/people A child] playing in [/EN#32732/scene the sand of a beach] with [/EN#32727/other the sun] low on [/EN#32728/scene the horizon] .
+[/EN#32729/scene Image of a sunset] at [/EN#32730/scene the beach] with [/EN#32726/people a kid] in [/EN#0/notvisual the foreground] .
+[/EN#32726/people Someone] paddles [/EN#32735/vehicles/scene a small boat] across [/EN#32730/scene a still lake] at [/EN#32731/scene sunset] .
+[/EN#32726/people A child] playing in [/EN#32732/other the beach sand] during [/EN#32731/scene a sunset] .
+[/EN#32726/people A person] on [/EN#32733/scene the beach] beside [/EN#32730/scene the ocean] at [/EN#32731/scene sunset] .

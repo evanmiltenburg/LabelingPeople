@@ -1,0 +1,5 @@
+[/EN#97384/animals A white and brown dog] jumps on [/EN#97385/other a white leather recliner chair] .
+[/EN#97384/animals A brown and white dog] sliding off [/EN#97385/other an oversized cream chair] .
+[/EN#97384/animals A brown and white dog] jumps onto [/EN#97385/other a beige leather chair] .
+[/EN#97384/animals A dog] laying on [/EN#97385/other the edge of a white chair]
+[/EN#97384/animals A small white dog] jumps on [/EN#97385/other a chair]

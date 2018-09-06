@@ -1,0 +1,5 @@
+[/EN#84799/people A worker] welding [/EN#84800/other some metal] wearing [/EN#84805/other full protective gear] while [/EN#0/notvisual he] is sitting down
+[/EN#84799/people A man] in [/EN#84801/clothing a yellow jumpsuit] and [/EN#84804/clothing blue face mask] welds [/EN#84800/other a metal beam] .
+[/EN#84799/people Man] in [/EN#84801/clothing yellow work suit] welding [/EN#84802/other two pipes] together .
+[/EN#84799/people A welder] is working outside by [/EN#84803/other some concrete ruble]
+[/EN#84799/people A man] welding at [/EN#84806/scene a construction site] .

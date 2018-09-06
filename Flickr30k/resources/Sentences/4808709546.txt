@@ -1,0 +1,5 @@
+[/EN#205222/people A man] in [/EN#205227/clothing a black t-shirt] and [/EN#205219/people a man] in [/EN#205228/clothing a pink t-shirt] are playing [/EN#205221/instruments guitars] on [/EN#205220/scene a stage] .
+[/EN#205219/people Two people] play [/EN#205221/instruments guitars] on [/EN#205220/scene a stage] next to [/EN#205226/other other musical equipment] .
+[/EN#205219/people A band] is playing [/EN#205221/instruments guitars] and singing on [/EN#205220/scene stage] .
+[/EN#205219/people Musicians] play on [/EN#205220/scene stage] at [/EN#205223/scene Coney Island] , [/EN#205224/other NY] .
+[/EN#205219/people Two men] playing [/EN#205221/instruments guitars] on [/EN#205220/scene stage] .

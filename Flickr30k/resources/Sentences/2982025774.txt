@@ -1,0 +1,5 @@
+[/EN#85474/people A man] in [/EN#85460/clothing a bright orange vest] and [/EN#85461/clothing white construction helmet] leads [/EN#85462/people a group of other men] in [/EN#85463/clothing bright colored jackets] through [/EN#85464/scene a site] .
+[/EN#85462/people Men] in [/EN#85465/clothing hard hats] and [/EN#85466/clothing orange] and [/EN#85467/clothing green outfits] walking outside of [/EN#85468/other a gray concrete structure] with [/EN#85469/other short fencing] in front of [/EN#0/notvisual it] .
+[/EN#85470/people Four people] in [/EN#85471/clothing safety clothes] walk next to [/EN#85468/other a barricade] at [/EN#85464/scene a construction site] .
+[/EN#85462/people Men] in [/EN#85472/other safety colors] and [/EN#85473/clothing hard hats] in [/EN#85464/scene a construction area] .
+[/EN#85462/people Four men] walking around [/EN#85464/scene a construction site] .

@@ -1,0 +1,5 @@
+[/EN#267301/people A child] is hanging upside down on [/EN#267304/other a ladder] while [/EN#267302/people another child] is swinging from [/EN#267303/other a rope] .
+[/EN#267301/people A boy] hanging upside down on [/EN#267304/other a ladder] next to [/EN#267302/people another boy] climbing [/EN#267303/other a knotted rope] .
+[/EN#267301/people A child] hangs upside down on [/EN#267304/other a ladder] while [/EN#267302/people another child] swings on [/EN#267303/other a rope] .
+[/EN#267302/people A young girl] hangs by [/EN#267303/other a rope] while [/EN#267301/people another person] lays [/EN#267304/other stairs] .
+[/EN#267301/people A man] is hanging upside down while [/EN#267302/people a child] swings on [/EN#267303/other a rope] .

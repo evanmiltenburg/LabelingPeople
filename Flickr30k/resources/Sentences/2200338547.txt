@@ -1,0 +1,5 @@
+[/EN#33717/people A bearded man] in with [/EN#33721/other a ukulele] vocalizes against [/EN#33723/scene the background of a clear blue sky] .
+[/EN#33717/people A man] in [/EN#33719/clothing a green shirt] with [/EN#33724/bodyparts long beard] plays [/EN#33720/instruments a stringed instrument] .
+[/EN#33717/people A man] in [/EN#33718/clothing a beard and glasses] sings along as [/EN#0/notvisual he] plays [/EN#33721/other his ukulele] .
+[/EN#33717/people Man] in [/EN#33719/clothing a green shirt] strums [/EN#33720/instruments his mandolin] while [/EN#33722/other singing] .
+[/EN#33717/people A bearded man] with [/EN#33718/clothing glasses] playing [/EN#33720/instruments an instrument] .

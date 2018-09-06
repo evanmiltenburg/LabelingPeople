@@ -1,0 +1,5 @@
+[/EN#77150/people A man] in [/EN#77151/clothing a light blue cap] is riding on [/EN#77152/vehicles a cart] behind [/EN#77153/animals an animal] [/EN#0/notvisual who] is pulling [/EN#77152/vehicles the cart] .
+[/EN#77150/people A man] is sitting on [/EN#77152/vehicles a wagon] being loaded with [/EN#77154/clothing bags] and being pulled by [/EN#77153/animals an animal] .
+[/EN#77150/people Man] sitting on [/EN#77152/vehicles a cart] [/EN#0/notvisual that] is being pulled by [/EN#77153/animals a large white ox] .
+[/EN#77150/people A man] and [/EN#77153/animals his cattle] pulling [/EN#77152/vehicles a cart] in [/EN#77155/scene the street] .
+[/EN#77150/people A man] being pulled on [/EN#77152/vehicles a cart] by [/EN#77153/animals a cow] .

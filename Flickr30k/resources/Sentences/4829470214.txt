@@ -1,0 +1,5 @@
+[/EN#208171/people An old woman] wearing [/EN#208174/clothing a white shirt] and [/EN#208175/clothing green shorts] is standing on [/EN#208173/scene a sidewalk] .
+[/EN#208171/people An old woman] in [/EN#208175/clothing shorts] and [/EN#208174/clothing a white t-shirt] is standing on [/EN#208173/scene a brick path] .
+[/EN#208171/people Senior woman] in [/EN#208174/clothing white shirt] and [/EN#208175/clothing khaki shorts] poses for [/EN#0/notvisual the camera] .
+[/EN#208171/people A very old woman] stands gazing at [/EN#0/notvisual the camera] next to [/EN#208177/scene a dock] .
+[/EN#208171/people The lady] is posing for [/EN#208178/other a picture] by [/EN#208172/scene the water] .

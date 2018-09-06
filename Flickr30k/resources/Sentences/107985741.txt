@@ -1,0 +1,5 @@
+[/EN#1911/people A group of people] on [/EN#1912/other a riverbank] [/EN#1913/other some] sitting on [/EN#1914/scene the grass] [/EN#1915/other some] standing .
+[/EN#1911/people Several people] sitting and standing on [/EN#1914/scene a grassy area] next to [/EN#1916/scene the water] .
+[/EN#1913/people Four girls] are sitting in [/EN#1914/scene the grass] while [/EN#1918/people several men] stand near [/EN#0/notvisual them] .
+[/EN#1911/people A group of people] are gathered near [/EN#1916/scene the water] .
+[/EN#1911/people People] gather in [/EN#1914/scene a grassy area] near [/EN#1916/scene a lake] .

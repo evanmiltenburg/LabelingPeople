@@ -1,0 +1,5 @@
+[/EN#36216/people An old woman] walking along [/EN#36219/scene a sidewalk] with [/EN#36220/scene buildings] [/EN#0/notvisual that] are littered with [/EN#36221/other graffiti] .
+[/EN#36216/people An elderly woman] is sweeping [/EN#36219/scene the sidewalk] in front of [/EN#36218/scene a graffiti-covered building] .
+[/EN#36216/people An old woman] standing in front of [/EN#36224/other a white door] in [/EN#36218/other a wall] covered in [/EN#36221/other graffiti] .
+[/EN#36216/people A woman] sweeps among [/EN#36221/other the graffiti] written on [/EN#36217/scene the outside of her home] .
+[/EN#36216/people An older lady] wearing [/EN#36225/clothing a green dress] is sweeping [/EN#36219/scene her sidewalk] .

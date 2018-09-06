@@ -1,0 +1,5 @@
+[/EN#268198/people A man] is sitting on [/EN#268203/other a blue stool] working outside at [/EN#268199/other a worn wooden desk] .
+[/EN#268198/people A man] sitting on [/EN#268203/other a stool] is selling [/EN#268202/other plastic housewares] .
+[/EN#268198/people A man] sitting at [/EN#268203/other a desk] repairing [/EN#268201/other an object] .
+[/EN#268198/people a man] in [/EN#268207/clothing white] organizes [/EN#268206/other a yellow folder] .
+[/EN#268198/people A man] working at [/EN#268199/other a workbench] .

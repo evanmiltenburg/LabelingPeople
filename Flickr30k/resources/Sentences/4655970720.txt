@@ -1,0 +1,5 @@
+[/EN#187501/people Man] with [/EN#187503/clothing a black shirt] and [/EN#187504/clothing red pants] walking up [/EN#187502/scene a black path] towards [/EN#187505/scene a building] .
+[/EN#187501/people A man] in [/EN#187503/clothing a black shirt] and [/EN#187504/clothing red pants] walks down [/EN#187502/scene a corridor] .
+[/EN#187501/people A man] walking down [/EN#187502/scene a walkway] , away from [/EN#0/notvisual the camera] .
+[/EN#187501/people A man] is walking down [/EN#187502/scene a narrow walkway] .
+[/EN#187501/people A man] in [/EN#187504/clothing red pants] walks around .

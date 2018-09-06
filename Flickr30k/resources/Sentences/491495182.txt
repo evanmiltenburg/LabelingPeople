@@ -1,0 +1,5 @@
+[/EN#217888/people A group of people] are inside [/EN#217887/scene a building] and [/EN#217886/people one man] with [/EN#217892/clothing a black bandanna] is sitting looking at [/EN#0/notvisual the camera] .
+[/EN#217887/scene A crowded bars] with [/EN#217888/people a mixture of people] and [/EN#217890/other many different languages] written on [/EN#217891/other the wall] .
+[/EN#217886/people A black man] is sitting in [/EN#217887/scene a crowded place] with [/EN#217893/bodyparts his leg] crossed over [/EN#217894/bodyparts his knee] .
+[/EN#217888/people People] in [/EN#217889/other an eatery] laughing and talking .
+[/EN#217888/people People] relaxing at [/EN#217887/scene a local venue] .

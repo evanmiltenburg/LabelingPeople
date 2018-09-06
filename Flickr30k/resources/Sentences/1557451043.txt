@@ -1,0 +1,5 @@
+[/EN#16248/people The girl] in [/EN#16251/clothing the blue dress] and [/EN#16249/clothing the baseball cap] is sitting near [/EN#16252/scene the ocean] .
+[/EN#16248/people A woman] sits on [/EN#16250/scene a rocky beach] looking [/EN#16253/other a yellow object] in [/EN#16252/scene the water] .
+[/EN#16248/people A woman] in [/EN#16251/clothing a dress] and [/EN#16249/clothing baseball cap] sits next to [/EN#16252/scene the water] .
+[/EN#16248/people A girl] is sitting on [/EN#16250/scene the beach] and staring at [/EN#16252/scene the ocean] .
+[/EN#16248/people The woman] is looking out on [/EN#16250/scene the beach] .

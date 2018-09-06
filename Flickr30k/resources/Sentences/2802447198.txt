@@ -1,0 +1,5 @@
+[/EN#73762/animals A horse] with [/EN#73763/people a rider] on [/EN#73769/clothing top] are jumping over [/EN#73766/scene a fence] in [/EN#73764/scene a equestrian event] .
+[/EN#73762/animals A horse] is jumping [/EN#73765/other two rails] with [/EN#73763/people a rider] wearing [/EN#73767/clothing a green jacket] .
+[/EN#73763/people A male jockey] riding [/EN#73762/animals a horse] as [/EN#0/notvisual it] vaults over [/EN#73765/other an obstacle] .
+[/EN#73763/people A man] riding [/EN#73762/animals a horse] jumps over [/EN#73765/other two hurdles] at [/EN#73764/scene an event] .
+[/EN#73763/people A man] competing in [/EN#73768/other a sport] with [/EN#73762/animals a horse] .

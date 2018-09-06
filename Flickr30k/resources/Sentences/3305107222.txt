@@ -1,0 +1,5 @@
+[/EN#108176/people A man] in [/EN#108180/clothing a pink shirt] and [/EN#108177/people a woman] in [/EN#108183/clothing a teal shirt] , [/EN#0/notvisual who] is drinking [/EN#108181/other wine] , are sitting in [/EN#108178/scene a dark corner] and talking .
+[/EN#108177/people A woman] is drinking [/EN#108179/other a glass of wine] while sitting next to [/EN#108176/people a man] wearing [/EN#108180/clothing a purple sweater] .
+[/EN#108175/people A couple] , wearing [/EN#108184/clothing bright shirts] , converse in [/EN#108178/scene a quiet corner of a room] .
+[/EN#108175/people A couple] enjoying [/EN#108179/other a glass of white wine] .
+[/EN#108182/people a man] and [/EN#108177/people a lady] drinking [/EN#108181/other wine]

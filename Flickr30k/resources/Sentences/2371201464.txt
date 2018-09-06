@@ -1,0 +1,5 @@
+[/EN#44649/people A girl] in [/EN#44650/clothing a red shirt] and [/EN#44651/clothing plaid hat] , and [/EN#44652/people a boy] in [/EN#44653/clothing a black sweatshirt] and [/EN#44654/clothing hat] are in [/EN#44659/scene a playground] , touching [/EN#44655/animals a blue seahorse] .
+[/EN#44656/people Two young children] are playing with [/EN#44655/animals a sit-atop seahorse] in [/EN#44659/scene a playground] with [/EN#44657/people an adult] .
+[/EN#44656/people Two young children] are in [/EN#44659/scene a park] , playing with [/EN#44655/other a horse ride] .
+[/EN#44656/people Two children] are playing on [/EN#44659/scene a playground] .
+[/EN#44656/people Children] playing on [/EN#44659/scene a playground] .

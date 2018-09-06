@@ -1,0 +1,5 @@
+[/EN#14376/people A man] wears [/EN#14368/clothing white socks] with beat up [/EN#14369/clothing brown shoes] on [/EN#14370/vehicles a black bicycle] .
+[/EN#14371/people A man] wearing [/EN#14368/clothing white socks] is pedaling [/EN#14370/vehicles a bicycle] .
+[/EN#14376/people Closeup of man] [/EN#14372/bodyparts 's legs] on [/EN#14373/other a bicycle peddal] .
+[/EN#14371/people A closeup of a bicycle rider] [/EN#14374/bodyparts 's leg] .
+[/EN#14376/people A man] in [/EN#14375/clothing shorts] on [/EN#14370/vehicles a black bicycle] .

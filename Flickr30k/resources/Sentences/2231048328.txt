@@ -1,0 +1,5 @@
+[/EN#35737/animals The back of a light brown dog] sitting on [/EN#35739/other sand] looking out at [/EN#35736/other a rock] and [/EN#35735/scene the ocean] .
+[/EN#35734/animals A dog] sits still while looking at [/EN#35736/other large rocks] .
+[/EN#35734/animals Dog] sitting looking out over [/EN#35735/scene a body of water] .
+[/EN#35734/animals A brown dog] is sitting near [/EN#35736/other a large rock] .
+[/EN#35734/animals The dog] is waiting for [/EN#35740/people his master] .

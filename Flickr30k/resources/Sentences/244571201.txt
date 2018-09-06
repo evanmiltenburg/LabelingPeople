@@ -1,0 +1,5 @@
+[/EN#50078/animals Five dogs] are swimming and [/EN#50079/people four people] are wading , together inside [/EN#50080/scene a dog park pool] .
+[/EN#50079/people Several people] and [/EN#50078/animals dogs] are in or near [/EN#50080/scene a large outdoor swimming pool] .
+[/EN#50079/people People] and [/EN#50078/animals several dogs] in [/EN#50080/scene a swimming pool] in [/EN#50081/scene a park] like [/EN#50082/scene setting] .
+[/EN#50077/animals A bunch of dogs] and [/EN#50079/people kids] playing in [/EN#50080/scene a swimming pool] .
+[/EN#50077/animals Dogs] and [/EN#50079/people people] play in [/EN#50080/scene a pool] .

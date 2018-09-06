@@ -1,0 +1,5 @@
+[/EN#57371/people A man] in [/EN#57367/clothing a black business suit] stands upright next to [/EN#57365/people a man] wearing [/EN#57368/clothing blue] and leaning against [/EN#57372/other a railing] .
+[/EN#57366/people two men] standing in [/EN#57369/other a line] , [/EN#57371/other one] wearing [/EN#57367/clothing a dark blue business suit] [/EN#57365/other the other] wearing [/EN#57368/clothing a blue sweet suit] .
+[/EN#57366/people Two men] , [/EN#57371/other one] in [/EN#57367/clothing a suit] and [/EN#57365/other one] in [/EN#57373/other blue sweats] , stand [/EN#57380/bodyparts a few feet] from [/EN#57376/other one] [/EN#0/notvisual another] in [/EN#57381/scene a building] .
+[/EN#57366/people two men] waiting in [/EN#57370/other line one] wearing [/EN#57367/clothing black suit] .
+[/EN#57365/people A man] in [/EN#57368/clothing a jumpsuit] stands next to [/EN#57379/other the wall] .

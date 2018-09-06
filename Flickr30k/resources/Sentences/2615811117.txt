@@ -1,0 +1,5 @@
+[/EN#61754/people A baby] is wearing [/EN#61755/clothing an adult life jacket] whilst sitting in [/EN#61755/other a dinghy] inside [/EN#61758/scene the house] .
+[/EN#61754/people The toddler] sits in [/EN#61755/vehicles/scene the boat] with [/EN#61755/clothing a life jacket] on [/EN#61759/other indoors] .
+[/EN#61754/people A happy baby] wears [/EN#61755/clothing an orange life vest] .
+[/EN#61754/people A baby] in [/EN#61755/clothing a life jacket] on [/EN#61755/scene a raft] .
+[/EN#61754/people A young kid] wearing [/EN#61755/clothing a life jacket]

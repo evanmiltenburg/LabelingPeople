@@ -1,0 +1,5 @@
+[/EN#10822/people A woman] in [/EN#10823/clothing a black graduation robe] is standing in [/EN#10824/people a crowd] .
+[/EN#10822/people The blond woman] is wearing [/EN#10823/clothing graduation robes] .
+[/EN#10822/people A woman] at [/EN#10827/other graduation] without [/EN#10825/clothing a cap] on .
+[/EN#10822/people Woman] standing at [/EN#10828/scene a graduation event] .
+[/EN#10826/people People] are at [/EN#10827/other a graduation] .

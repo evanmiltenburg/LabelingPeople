@@ -1,0 +1,5 @@
+[/EN#54015/animals A brown dog] in [/EN#54017/clothing a blue collar] is chasing [/EN#54016/other a green ball] through [/EN#54019/other mulch] .
+[/EN#54015/animals A white dog] wearing [/EN#54017/clothing a blue collar] runs for [/EN#54016/other a green ball] .
+[/EN#54015/animals The dog] is running after [/EN#54016/other a ball] and stirring up [/EN#54018/other dust] .
+[/EN#54015/animals A dog] is running towards [/EN#54016/other a ball] to catch [/EN#0/notvisual it] .
+[/EN#54015/animals A dog] chases [/EN#54016/other a ball] through [/EN#54019/scene dirt] .

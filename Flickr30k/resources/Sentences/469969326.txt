@@ -1,0 +1,5 @@
+[/EN#192597/people A woman] wearing [/EN#192598/clothing a red backpack] is sitting on [/EN#192600/other a rock] overlooking [/EN#192599/scene the water] .
+[/EN#192597/people A woman] carrying [/EN#192598/clothing a backpack] sits on [/EN#192600/other a rocky ledge] overlooking [/EN#192599/scene the water] .
+[/EN#192597/people A woman] sits alone on [/EN#192600/other the rocks] by [/EN#192599/scene a beach] .
+[/EN#192597/people A woman] sits on [/EN#192600/other a rock] by [/EN#192599/scene the water] .
+[/EN#192597/people a woman] sits on [/EN#192600/other the rock] .

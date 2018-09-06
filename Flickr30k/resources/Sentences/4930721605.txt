@@ -1,0 +1,5 @@
+[/EN#219546/people A man] wearing [/EN#219555/clothing sunglasses] , [/EN#219552/clothing a cap] , and [/EN#219547/clothing a blue shirt] with [/EN#219550/other a Superman logo] on [/EN#0/notvisual it] is walking on [/EN#219548/scene the sidewalk] holding [/EN#219549/other a stereo] .
+[/EN#219546/people A middle-aged man] in [/EN#219547/clothing a Superman shirt] and [/EN#219553/clothing knee socks] walks down [/EN#219548/scene a sidewalk] past [/EN#219551/scene a brick building] .
+[/EN#219546/people An old pudgy man] walks down [/EN#219548/scene a sidewalk] wearing [/EN#219547/clothing a tight blue Superman shirt] .
+[/EN#219546/people A man] in [/EN#219547/clothing a superman t-shirt] walks down [/EN#219548/scene the street] carrying [/EN#219549/other a radio] .
+[/EN#219546/people A man] wearing [/EN#219547/clothing a Superman shirt] and [/EN#219554/clothing shorts] walks down [/EN#219548/scene a city street] .

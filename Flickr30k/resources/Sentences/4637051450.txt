@@ -1,0 +1,5 @@
+[/EN#185224/people Two women] walking in front of [/EN#185232/scene a brick building] carrying [/EN#185226/clothing backpacks] and [/EN#185231/clothing sleeping bags] on [/EN#185227/other their backs] .
+[/EN#0/notvisual There] are [/EN#185224/people two people] walking down [/EN#185225/scene the street] carrying [/EN#185228/other lots of luggage] on [/EN#185226/clothing their bags] .
+[/EN#185224/people Two people] with [/EN#185226/clothing backpacks] and [/EN#185231/clothing sleeping bags] walking outside on [/EN#185225/scene a sidewalk] .
+[/EN#185224/people Two women] are walking through [/EN#185225/scene an urban setting] with [/EN#185228/other camping equipment] .
+[/EN#185224/people Two women] walk on [/EN#185233/other cement] carrying [/EN#185226/other many packs] and [/EN#185226/clothing backpacks] .

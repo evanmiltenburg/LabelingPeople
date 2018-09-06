@@ -1,0 +1,5 @@
+[/EN#158348/people Men] are driving away from [/EN#158349/scene a dock] in [/EN#158347/vehicles/scene an orange boat] with [/EN#158350/other an outboard motor] .
+[/EN#158348/people Three uniformed people] take off in [/EN#158347/vehicles/scene a small boat] with [/EN#158350/other an outboard motor] .
+[/EN#158347/vehicles/scene A orange inflatable speed boat] with [/EN#158348/people three men] gets ready to take off .
+[/EN#158348/people People] are on [/EN#158347/vehicles/scene a motorized life boat] and are backing [/EN#0/notvisual it] up to [/EN#158349/scene a ramp] .
+[/EN#158348/people Three people] leaving [/EN#158349/scene a dock] in [/EN#158347/scene a raft] .

@@ -1,0 +1,5 @@
+[/EN#94371/people one performer] wearing [/EN#94370/clothing a feathered headdress] dancing with [/EN#94368/people another performer] in [/EN#94374/scene the streets]
+[/EN#94368/people A man] and [/EN#94371/people a woman] wearing [/EN#94372/clothing decorative costumes] and dancing in [/EN#94369/people a crowd of onlookers] .
+[/EN#94371/people Two people] are dancing with [/EN#94376/instruments drums] on [/EN#94375/scene the right] and [/EN#94369/people a crowd] behind [/EN#0/notvisual them] .
+[/EN#94368/people A man] and [/EN#94371/people a woman] with [/EN#94370/clothing feathers] on [/EN#94377/bodyparts her head] dance .
+[/EN#94368/people A man] and [/EN#94371/people a woman] in [/EN#94372/clothing festive costumes] dancing .

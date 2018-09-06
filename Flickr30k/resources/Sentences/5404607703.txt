@@ -1,0 +1,5 @@
+[/EN#235670/people A male boxer] in [/EN#235674/clothing a red outfit] is boxing [/EN#235672/people his opponent] in [/EN#235673/clothing/scene a boxing ring] .
+[/EN#235670/people A boxer] in [/EN#235681/scene red lands] [/EN#235676/other a glancing blow] off of [/EN#235672/people a boxer] in [/EN#235675/clothing white] .
+[/EN#235671/people Two men] boxing [/EN#235673/clothing a ring] while [/EN#235670/people one boxer] is hitting [/EN#235672/other the other] .
+[/EN#235670/people A guy] with [/EN#235678/other a tattoo boxing] [/EN#235672/people another guys] with [/EN#235675/clothing a white shirt] .
+[/EN#235671/people Two guys] boxing wearing [/EN#235674/clothing a red shirt] and [/EN#235679/clothing blue shirt] .

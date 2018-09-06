@@ -1,0 +1,5 @@
+[/EN#107899/people A small girl] dressed in [/EN#107906/clothing a red sweater] playing [/EN#107900/other hula hoop] on [/EN#107902/scene a sidewalk] in [/EN#107901/scene a neighborhood] .
+[/EN#107899/people A little girl] plays with [/EN#107900/other a hula hoop] on [/EN#107903/scene the sidewalk] in [/EN#107901/scene a residential neighborhood] .
+[/EN#107899/people A little girl] on [/EN#107902/scene the sidewalk] close to [/EN#107905/scene the road] is playing with [/EN#107904/other three hula hoops]
+[/EN#107899/people A small child] is playing with [/EN#107904/other hula-hoops] in [/EN#107903/scene a yard of a neighborhood] .
+[/EN#107899/people The girl] on [/EN#107903/scene the sidewalk] is using [/EN#107900/other a hula hoop] .

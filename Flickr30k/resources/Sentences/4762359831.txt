@@ -1,0 +1,5 @@
+[/EN#200210/people Two people] ride [/EN#200211/vehicles a blue motorbike] down [/EN#200212/scene the street] in [/EN#200214/scene an asian town] .
+[/EN#200210/people Two people] ride [/EN#200211/vehicles a motorbike] on [/EN#200212/scene a road] in front of [/EN#200215/scene stores] .
+[/EN#200210/people Two men] riding on [/EN#200211/vehicles a motorbike] in [/EN#200213/other an Asian community] .
+[/EN#200210/people two men] riding [/EN#200211/vehicles a blue motorbike] down [/EN#200212/scene the street]
+[/EN#200216/other two police ride] on [/EN#200211/vehicles the same bike] .

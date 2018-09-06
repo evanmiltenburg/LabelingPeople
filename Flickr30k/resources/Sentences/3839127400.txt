@@ -1,0 +1,5 @@
+[/EN#145095/people A smiling little girl] in [/EN#145098/other a green polka] dotted [/EN#145098/clothing bathing suit] is looking down at [/EN#145096/other the beach sand] while holding [/EN#145097/other a blue shovel] .
+[/EN#145095/people A little girl] in [/EN#145098/clothing a bright green bathing suit] is playing in [/EN#145096/other the sand] with [/EN#145097/other a blue shovel] .
+[/EN#145095/people A toddler girl] in [/EN#145098/clothing a green polka-dot bathing suit] plays with [/EN#145097/other a blue shovel] on [/EN#145096/scene the beach] .
+[/EN#145095/people A child] in [/EN#145098/clothing a green polka dot bathing suit] hold [/EN#145097/other a blue shovel] on [/EN#145096/scene the beach] .
+[/EN#145095/people A little girl] enjoys [/EN#145100/scene a day] at [/EN#145096/scene the beach] .

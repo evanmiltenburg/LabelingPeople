@@ -1,0 +1,5 @@
+[/EN#235961/people A woman] wearing [/EN#235965/clothing all orange clothing] and [/EN#235966/people a man] wearing [/EN#235974/clothing blue shorts] are sweeping [/EN#235967/scene water] into [/EN#235970/other a drain] in [/EN#0/notvisual the ground] next to [/EN#235964/other a blue trashcan] .
+[/EN#235961/people A woman] in [/EN#235965/clothing orange work clothes] next to [/EN#235964/other a large blue trashcan] is helping [/EN#235966/people a man] sweep [/EN#235967/scene some dirt] and [/EN#235967/scene water] into [/EN#235971/other a dustpan] .
+[/EN#0/notvisual There] is [/EN#235961/people a lady] and [/EN#235966/people another person] trying to wash [/EN#235967/scene the floor] together .
+[/EN#235962/people Two people] are cleaning up [/EN#235967/scene a watery area] .
+[/EN#235962/people Two people] are cleaning [/EN#235973/scene the road] .

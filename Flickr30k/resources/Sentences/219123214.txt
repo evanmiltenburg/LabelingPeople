@@ -1,0 +1,5 @@
+[/EN#33127/people A person] covered partially with [/EN#33131/other a pink blanket] sleeps as [/EN#33129/animals a gray and white cat] sleeps on [/EN#33132/scene the floor] nearby .
+[/EN#33127/people A girl] in [/EN#33134/clothing a blue and white shirt] sleeps on [/EN#33133/other a green pillow] , while [/EN#33129/animals a cat] naps beneath [/EN#33128/other the bed] .
+[/EN#33127/people A woman] is sleeping with [/EN#33131/other a pink blanket] while [/EN#33129/animals a black and white cat] sleep on [/EN#33132/scene the floor] .
+[/EN#33127/people A girl] sleeps on [/EN#33128/other a couch] while [/EN#33129/animals cats] sleep near [/EN#0/notvisual her] on [/EN#33132/scene the floor] .
+[/EN#33127/people A young man] sleeping next to [/EN#33129/animals a dog] .

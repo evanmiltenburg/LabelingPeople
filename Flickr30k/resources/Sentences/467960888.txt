@@ -1,0 +1,5 @@
+[/EN#189789/animals Balck dog] is running on [/EN#189790/scene clean sand beach] , very close to [/EN#189791/other surf] .
+[/EN#189789/animals A black dog] running along [/EN#189792/scene the edge of the ocean] .
+[/EN#189789/animals A black dog] runs through [/EN#189791/other surf] on [/EN#189790/scene a sandy beach] .
+[/EN#189789/animals A black dog] runs along [/EN#189790/scene the beach] .
+[/EN#189789/animals A dog] runs along [/EN#189791/other the ocean surf] .

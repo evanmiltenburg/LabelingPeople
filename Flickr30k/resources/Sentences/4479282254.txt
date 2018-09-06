@@ -1,0 +1,5 @@
+[/EN#171802/people A little child] is running past [/EN#171806/other a wooden double door] wearing [/EN#171803/clothing a hooded jacket] and [/EN#171807/clothing shoes] with [/EN#171804/clothing orange pants] .
+[/EN#171802/people a little baby] wearing [/EN#171803/clothing a pink jacket] with [/EN#171805/other a hood] and [/EN#171804/clothing orange pants] is running .
+[/EN#171802/people A young child] in [/EN#171803/clothing a brightly colored jacket] and [/EN#171804/clothing pants] is running .
+[/EN#171802/people A child] in [/EN#171803/clothing a pink coat] and [/EN#171804/clothing orange pants] is running .
+[/EN#171802/people A small child] is running .

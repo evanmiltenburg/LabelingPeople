@@ -1,0 +1,5 @@
+[/EN#265220/people A woman] in [/EN#265223/clothing a red apron] and [/EN#265224/clothing black shirt] holds [/EN#265226/bodyparts her hand] up and [/EN#265222/other different types of bread] are in [/EN#0/notvisual the background] .
+[/EN#265220/people A woman] in [/EN#265223/clothing a red apron] is gesturing toward [/EN#265222/other a selection of different loaves] of [/EN#265222/other bread] behind [/EN#0/notvisual her] .
+[/EN#265220/people A woman] working in [/EN#265221/scene a bakery] is showing [/EN#0/notvisual the camera] [/EN#265222/other the bread] [/EN#0/notvisual they] sell .
+[/EN#265220/people A woman] [/EN#0/notvisual who] works at [/EN#265221/scene an organic bakery] , is showing of [/EN#265225/other the products] .
+[/EN#265220/people/scene A baker] is showing off [/EN#265222/other her bread] .

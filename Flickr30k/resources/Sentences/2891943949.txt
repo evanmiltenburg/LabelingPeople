@@ -1,0 +1,5 @@
+[/EN#79435/people Woman] in [/EN#79439/clothing orange jacket] is sitting crossed legged on [/EN#79436/other a bench] while [/EN#79447/people woman] in [/EN#79444/clothing blue] is leaning against [/EN#79438/other the glass] .
+[/EN#79435/people A dark-haired woman] wearing [/EN#79445/clothing glasses] , [/EN#79439/clothing a red jacket] and [/EN#79446/clothing jeans] sitting on [/EN#79436/other a bench] on [/EN#79437/scene the sidewalk] .
+[/EN#79435/people A woman] in [/EN#79439/clothing an orange windbreaker] waits with [/EN#79435/people a woman] in [/EN#79442/clothing a navy blue shirt] for [/EN#79441/vehicles/scene the bus] .
+[/EN#79435/people A woman] in [/EN#79439/clothing an orange jacket] sits on [/EN#79436/other a bench] .
+[/EN#79440/people People] waiting at [/EN#79437/other a bus stop] .

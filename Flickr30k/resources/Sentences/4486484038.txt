@@ -1,0 +1,5 @@
+[/EN#172493/people A woman] with [/EN#172497/bodyparts long blond-hair] runs across [/EN#172494/scene a busy street] with [/EN#172498/vehicles several cars] passing nearby .
+[/EN#172493/people The blond woman] crossing [/EN#172494/scene street] has [/EN#172495/clothing a golden purse] over [/EN#172496/bodyparts her shoulder] .
+[/EN#172493/people A woman] with [/EN#172495/clothing a tan purse] is running across [/EN#172494/scene a city street] .
+[/EN#172493/people A woman] with [/EN#172495/clothing a yellow purse] runs across [/EN#172494/scene a busy street] .
+[/EN#172493/people The woman] is crossing [/EN#172499/other the signal] .

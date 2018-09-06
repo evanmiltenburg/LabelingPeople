@@ -1,0 +1,5 @@
+[/EN#225997/people A woman] in [/EN#225998/clothing an orange shirt] and [/EN#226000/clothing white pants] attending [/EN#225999/scene church] .
+[/EN#225997/people A woman] in [/EN#225998/clothing an orange shirt] and [/EN#226000/clothing white pants] at [/EN#225999/scene church] .
+[/EN#225997/people A woman] is exiting [/EN#225999/other a place of worship] .
+[/EN#225997/people Older woman] standing by [/EN#226001/other church pew] .
+[/EN#225997/people Lady] getting up to leave [/EN#225999/scene church] .

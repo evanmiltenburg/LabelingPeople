@@ -1,0 +1,5 @@
+[/EN#121449/people An elderly woman] in [/EN#121453/clothing a white jacket] walking past [/EN#121450/other a brick wall] using [/EN#121451/other a cain] to support [/EN#0/notvisual herself] .
+[/EN#121449/people An elderly lady] with [/EN#121451/other a cane] and [/EN#121454/clothing handbag] walks along [/EN#121452/scene the sidewalk] .
+[/EN#121449/people An elderly woman] walks in front of [/EN#121450/other a brick wall] with [/EN#121451/other a cane] .
+[/EN#121449/people An older woman] walks by [/EN#121450/other a wall] with [/EN#121451/other the help of a cane] .
+[/EN#121449/people An old woman] walks down [/EN#121452/scene the sidewalk] with [/EN#121451/other her cane] .

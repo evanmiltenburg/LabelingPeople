@@ -1,0 +1,5 @@
+In [/EN#24379/scene a music classroom] with [/EN#24383/instruments a grand piano] in [/EN#0/notvisual the background] , [/EN#24373/people a conductor] wearing [/EN#24376/clothing an orange shirt] , is leading [/EN#0/notvisual a choir of which] [/EN#24375/people only one lady] is visible .
+[/EN#24373/people A caucasian male] wearing [/EN#24376/clothing an orange dress shirt] is reviewing [/EN#24382/other a stack of pages] while addressing [/EN#24375/people a class member] .
+[/EN#24373/people A man] is standing behind [/EN#24380/scene a podium] , holding up [/EN#24384/bodyparts/people his right arm] in front of [/EN#24375/people a lady] holding [/EN#24374/other a brochure] .
+[/EN#24373/people The man] in [/EN#24376/clothing the orange shirt] is giving [/EN#24381/other a speech] .
+[/EN#24373/people A man] conducting with [/EN#24375/people a woman] holding [/EN#24374/other a book] .

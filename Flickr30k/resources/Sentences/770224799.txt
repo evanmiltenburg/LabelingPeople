@@ -1,0 +1,5 @@
+[/EN#273652/people A man] in [/EN#273655/scene a green room] is standing on [/EN#273654/scene a diving board] and cleaning with [/EN#273653/other a long mop] .
+[/EN#273652/people This a picture of a man] cleaning off [/EN#273654/scene a diving board] with [/EN#273653/other a broom] .
+[/EN#273652/people A man] using [/EN#273653/other a long stick] at [/EN#273654/scene the end of a diving board] .
+[/EN#273652/people Janitor] cleans off [/EN#273654/scene diving board] with [/EN#273653/other broom] at [/EN#273656/scene night] .
+[/EN#273652/people A man] is cleaning [/EN#273654/scene a diving board] .

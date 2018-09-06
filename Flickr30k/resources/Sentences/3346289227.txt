@@ -1,0 +1,5 @@
+[/EN#111428/people A man] is rollerblading down [/EN#111430/other a white railing] beside [/EN#111432/scene a red brick building] .
+[/EN#111428/people A male] on [/EN#111429/other Rollerblades] skating down [/EN#111430/other a railing] next to [/EN#111431/other stairs] .
+[/EN#111428/people A man] is skating down [/EN#111430/other a rail] above [/EN#111431/other some steps] .
+[/EN#111428/people A man] slides [/EN#111429/other a skateboard] down [/EN#111433/scene a stair ramp] .
+[/EN#111428/people An in-line skater] grinding on [/EN#111430/other a rail] .

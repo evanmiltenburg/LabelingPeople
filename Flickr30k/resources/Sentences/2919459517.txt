@@ -1,0 +1,5 @@
+[/EN#81388/people A cyclist] wearing [/EN#81392/clothing blue and yellow] riding past [/EN#81395/other trees] .
+[/EN#81388/people a lone bicyclist] wearing [/EN#81393/other a helmet racing] in [/EN#81391/other a race] .
+[/EN#81388/people A man] in [/EN#81392/clothing blue] rides [/EN#81389/vehicles a bike] in [/EN#81391/other a race] in [/EN#81390/scene the forest] .
+[/EN#81388/people The man] is riding [/EN#81389/vehicles a bicycle] through [/EN#81390/scene the forest] .
+[/EN#81388/people Man] with [/EN#81392/clothing blue and yellow shirt] rides [/EN#81389/vehicles bike] .

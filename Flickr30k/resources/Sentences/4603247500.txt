@@ -1,0 +1,5 @@
+[/EN#181733/people A man] in [/EN#181736/clothing a white shirt] is standing in [/EN#181735/scene a T-shirt booth] .
+[/EN#181733/people A bald man] standing to [/EN#181738/other the side of a t-shirt display] .
+[/EN#181733/people Bald white men] stands in [/EN#181734/scene a shop] with [/EN#181737/clothing many shirts] .
+[/EN#181733/people An elderly man] is standing in [/EN#181734/scene a t-shirt shop] .
+[/EN#181733/people A businessman] is hard at [/EN#181739/other work] .

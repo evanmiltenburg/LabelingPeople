@@ -1,0 +1,5 @@
+[/EN#45945/people A blond girl] in [/EN#45950/clothing a yellow top] and [/EN#45951/clothing orange pants] sings [/EN#45947/other karaoke] .
+[/EN#45945/people A girl] sings into [/EN#45946/other a microphone] while [/EN#45949/people a man] watches [/EN#0/notvisual her] .
+[/EN#45945/people A young girl] in [/EN#45953/bodyparts a ponytail] is singing in [/EN#45946/other a microphone] .
+[/EN#45945/people This woman] in [/EN#45951/clothing shorts] is holding [/EN#45946/other a microphone] .
+[/EN#45945/people A woman] standing and drinking [/EN#45948/other a beverage] .

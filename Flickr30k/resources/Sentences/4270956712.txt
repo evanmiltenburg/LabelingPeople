@@ -1,0 +1,5 @@
+[/EN#161107/people A man] in [/EN#161109/clothing a blue shirt] , [/EN#161112/clothing khaki shorts] , [/EN#161114/clothing ball cap] and [/EN#161118/clothing white socks] and [/EN#161115/clothing loafers] walking behind [/EN#161108/people a group of people] walking down [/EN#161110/scene a stone walkway] with [/EN#161111/other a water bottle] in [/EN#161119/bodyparts his left hand] .
+[/EN#161107/people A man] in [/EN#161109/clothing a bright blue shirt] and [/EN#161112/clothing khaki shorts] holding [/EN#161111/other a water bottle] is walking down [/EN#161110/scene the path] between [/EN#161117/other two steep cavern walls] .
+[/EN#161108/people Many people] , including [/EN#161107/people a man] wearing [/EN#161109/clothing a light blue shirt] and [/EN#161112/clothing khaki shorts] , walk along [/EN#161110/scene a stone path] surrounded by [/EN#161116/other rock walls] .
+[/EN#161108/people Many people] are walking through [/EN#161113/other a tourist attraction] .
+[/EN#161108/people group of people] walking down [/EN#161110/scene a stone walkway]

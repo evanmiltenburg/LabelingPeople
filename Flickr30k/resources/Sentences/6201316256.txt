@@ -1,0 +1,5 @@
+[/EN#249940/people The soccer player] in [/EN#249942/clothing red] kicks [/EN#249946/other the ball] over [/EN#249943/people the head of his white and green clad opponent] .
+[/EN#0/notvisual It] looks as though [/EN#249940/people the player] in [/EN#249942/other burgundy] just kicked [/EN#249946/other the soccer ball] over [/EN#249947/bodyparts # 5 's head] .
+[/EN#249940/people A soccer player] wearing [/EN#249942/clothing a burgundy uniform] has just hit [/EN#249946/other the ball] with [/EN#249944/bodyparts his head] .
+[/EN#249949/other Two football] ( [/EN#249945/other soccer] [/EN#249941/people ) players] play at [/EN#249952/scene night] .
+[/EN#249941/people Two men] playing [/EN#249945/other soccer] on [/EN#249951/clothing the greens] .

@@ -1,0 +1,5 @@
+[/EN#103705/animals two dogs] run through [/EN#103706/scene a grassy patch] [/EN#0/notvisual that] is surrounded by [/EN#103707/other trees] .
+[/EN#103708/other Two] staffordshire [/EN#103709/other terriers race] through [/EN#103706/scene a field] in [/EN#103707/other the woods]
+[/EN#103705/animals Two tan dogs] run along [/EN#103706/scene a field] at [/EN#103707/other the edge of a woods] .
+[/EN#103705/animals Two brown dogs] running in [/EN#103706/scene a grassy field] .
+[/EN#103705/animals Two dogs] running in [/EN#103707/other the woods] .

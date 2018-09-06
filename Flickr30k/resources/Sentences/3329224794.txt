@@ -1,0 +1,5 @@
+[/EN#109881/people A Caucasian male] with [/EN#109885/clothing sunglasses] laying [/EN#109882/other a wooden board] on [/EN#109883/scene the roof of a building] .
+[/EN#109881/people A man] kneeling on [/EN#109883/scene a roof] touching [/EN#109882/other a piece of plywood] wearing [/EN#109885/clothing sunglasses] .
+[/EN#109881/people A man] on top of [/EN#109883/scene a flat roof] wearing [/EN#109884/clothing a white shirt] and [/EN#109887/clothing brown pants] .
+[/EN#109881/people A man] in [/EN#109884/clothing a white shirt] is on [/EN#109883/scene a rooftop] lifting [/EN#109882/other a board] .
+[/EN#109881/people A man] putting [/EN#109882/other wood] on top of [/EN#109883/scene a house] .

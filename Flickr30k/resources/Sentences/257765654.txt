@@ -1,0 +1,5 @@
+[/EN#59234/people A woman] in [/EN#59237/clothing a red shirt] and [/EN#59238/clothing tan pants] carries red and yellow [/EN#59239/other flowers] in [/EN#59236/other a bucket] on [/EN#59241/bodyparts his shoulder] .
+[/EN#59234/people A woman] wearing [/EN#59237/clothing a red shirt] and [/EN#59238/clothing khaki pants] carries [/EN#59235/other flowers] .
+[/EN#59234/people A woman] carrying [/EN#59235/other a bucket of flowers] .
+[/EN#59234/people A woman] carrying [/EN#59235/other a pot of flowers] .
+[/EN#59234/people A woman] is carrying [/EN#59239/other flowers] .

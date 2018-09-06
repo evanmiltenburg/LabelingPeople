@@ -1,0 +1,5 @@
+[/EN#20087/people A person] in [/EN#20088/clothing a purple and white jacket] is standing behind [/EN#20086/people a man] with [/EN#20091/clothing a gray shirt] while [/EN#20087/people a woman] with [/EN#20092/clothing a purse] passes [/EN#0/notvisual them] , going [/EN#0/notvisual the opposite direction] .
+[/EN#20086/people A man] with [/EN#20096/bodyparts his eyes] closed and [/EN#20090/people two women] with [/EN#20095/bodyparts dark hair] walk by [/EN#20089/bodyparts with one face] obscured .
+[/EN#20086/people An older man] is walking along [/EN#20093/scene the street] in front of [/EN#20087/people a woman] .
+[/EN#20086/people A man] in [/EN#20088/clothing a purple jacket] has [/EN#20098/other an expression] on [/EN#20089/bodyparts his face] .
+[/EN#20086/people a man] squinting with [/EN#20090/people two women] behind [/EN#0/notvisual him]

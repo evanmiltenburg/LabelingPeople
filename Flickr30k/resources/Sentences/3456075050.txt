@@ -1,0 +1,5 @@
+[/EN#119498/people A young boy] wearing [/EN#119501/clothing blue jeans] , [/EN#119502/clothing a green shirt] and [/EN#119499/clothing an orange jacket] is sitting on [/EN#119506/other a rug] in front of [/EN#119507/bodyparts a wooden chest] is putting on [/EN#119500/clothing a tennis shoe] with [/EN#119508/other a green couch] in [/EN#0/notvisual the background] .
+[/EN#119498/people A young 5 year old boy] puts on [/EN#119500/clothing his right shoe] and begins [/EN#119504/scene his day of preschool] .
+[/EN#119498/people A young boy] in [/EN#119499/clothing an orange hoodie] and [/EN#119501/clothing jeans] inside [/EN#119503/scene a room] putting on [/EN#119500/clothing his shoes] .
+[/EN#119498/people A young boy] is sitting on [/EN#119505/scene the floor] putting on [/EN#119500/clothing his sneaker] .
+[/EN#119498/people A young boy] puts on [/EN#119500/clothing his sneakers] .

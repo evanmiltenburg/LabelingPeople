@@ -1,0 +1,5 @@
+[/EN#55950/people A man] in [/EN#55951/clothing an orange vest] and [/EN#55952/clothing yellow hard hat] looks on as [/EN#55953/vehicles a yellow vehicle] lays [/EN#55954/scene track] .
+[/EN#55955/people A railroad work crew] performs [/EN#55957/other maintenance] on [/EN#55958/scene railroad tracks] .
+[/EN#55955/people Construction workers] deal with removing [/EN#55954/scene railroad tracks] .
+[/EN#55955/people Workers] laying [/EN#55954/other gravel] along [/EN#55954/scene a railroad track] .
+[/EN#55955/people Men] working on [/EN#55954/other the railway lines] .

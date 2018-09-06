@@ -1,0 +1,5 @@
+[/EN#99892/people A blond woman] sitting at [/EN#99894/other a desk] in [/EN#99893/scene a dimly lit room] with [/EN#99896/other ladders] and [/EN#99898/other metal frame chairs] behind [/EN#0/notvisual her] .
+[/EN#99892/people A blond-haired lady] is sitting at [/EN#99894/other a desk] with [/EN#99897/other a yellow map] hanging on [/EN#99895/other the wall] .
+[/EN#99892/people A blond woman] alone in [/EN#99893/scene a dimly lit room] .
+[/EN#99892/people A blond woman] works in [/EN#99893/scene a dark office] .
+[/EN#99892/people A blond woman] sits behind [/EN#99894/other a desk] .

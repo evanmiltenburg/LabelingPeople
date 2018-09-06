@@ -1,0 +1,5 @@
+[/EN#151534/people A barefoot man] in [/EN#151538/clothing rainbow shorts] and [/EN#151536/clothing a green shirt] completes [/EN#151535/other a food purchase] at [/EN#151537/scene an outdoor concession stand] .
+[/EN#151534/people A man] with [/EN#151538/clothing bright shorts] and [/EN#151540/bodyparts bare feet] stands in front of [/EN#151537/scene an outdoor vending booth] .
+[/EN#151534/people A man] in [/EN#151536/clothing a green shirt] is standing in front of [/EN#151537/scene a stand] selling [/EN#151535/other a product] .
+[/EN#151534/people a man] in [/EN#151536/clothing a green shirt] standing next to [/EN#151539/other a trashcan] .
+[/EN#151534/people The man] in [/EN#151538/clothing colorful shorts] is barefoot .

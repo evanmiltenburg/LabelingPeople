@@ -1,0 +1,5 @@
+[/EN#118462/people An older woman] sits at [/EN#118465/other a table] wearing [/EN#118464/clothing a purple blazer] awaits [/EN#118461/other her dish of pasta] .
+[/EN#118463/other Food] is being served to [/EN#118465/other a table] where [/EN#118462/people a woman] in [/EN#118464/clothing a blue blazer] sits .
+[/EN#118466/people A man] serves up [/EN#118461/other food] at [/EN#118465/other a table] [/EN#0/notvisual that] seats [/EN#118462/people an elderly woman] .
+[/EN#118461/other A dish of food] is about to be served to [/EN#118462/people an elderly woman] .
+[/EN#118462/people Woman] being served [/EN#118463/other Ravioli] in [/EN#118467/scene restaurant] .

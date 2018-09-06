@@ -1,0 +1,5 @@
+[/EN#20100/people An older , white woman] stands along [/EN#20104/scene a crowded street] wearing [/EN#20101/clothing a swimsuit] , holding [/EN#20105/other a yellow sign] with [/EN#20103/other black letters] that [/EN#20109/scene states] , " [/EN#20107/people/scene Secure Borders] , [/EN#20106/other Legal Immigration] . "
+[/EN#20100/people An elderly woman] wearing [/EN#20101/clothing a bathing suit] is holding [/EN#20105/other a picket sign] while participating in [/EN#20108/other a demonstration] about [/EN#20102/other immigration] .
+[/EN#20100/people An older woman] in [/EN#20101/clothing a one-piece swimsuit] is protesting in [/EN#20104/scene the street] .
+[/EN#20100/people An older woman] in [/EN#20101/clothing a bathing suit] carrying [/EN#20105/other a sign] about [/EN#20102/other immigration] .
+[/EN#20100/people A protester] shows how [/EN#0/notvisual she] feels [/EN#20102/other about immigration]

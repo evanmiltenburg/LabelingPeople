@@ -1,0 +1,5 @@
+[/EN#172437/animals A few dogs] are roaming on [/EN#172438/other a patch of sand] off [/EN#172443/scene a busy street] .
+[/EN#172441/animals A black dog] and [/EN#172445/animals a tan dog] sniff around [/EN#172444/scene an empty lot] .
+[/EN#172437/animals Two large dogs] smelling [/EN#0/notvisual the ground] in front of [/EN#0/notvisual them] .
+[/EN#172437/animals Three dogs] are searching for [/EN#172440/other something] outdoors .
+[/EN#172437/animals Group of dogs] walking and sniffing on [/EN#172438/other gravel] .

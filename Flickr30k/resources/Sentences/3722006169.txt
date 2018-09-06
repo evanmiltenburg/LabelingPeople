@@ -1,0 +1,5 @@
+[/EN#139567/vehicles A drag race car] being worked on by [/EN#139568/people 3 people] on [/EN#139569/scene a track]
+[/EN#139568/people Three men] are examining [/EN#139567/vehicles a red and white race car] .
+[/EN#139568/people Three men] standing around [/EN#139567/vehicles a car] on [/EN#139569/other a racetrack] .
+[/EN#139568/people Several men] standing around [/EN#139567/vehicles an antique race car]
+[/EN#139568/people Pit crew] working on [/EN#139567/vehicles a race car] .

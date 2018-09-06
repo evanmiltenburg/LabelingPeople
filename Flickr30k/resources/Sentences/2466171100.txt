@@ -1,0 +1,5 @@
+[/EN#51547/animals a black dog] chasing after [/EN#51548/animals a brown and white dog] in [/EN#51550/scene the grass]
+[/EN#51548/animals A dog] is running away from [/EN#51547/animals another dog] .
+[/EN#51547/animals Two dogs] play around in [/EN#51550/scene the grass] .
+[/EN#51547/animals Two dogs] play in [/EN#51550/scene the grass] .
+[/EN#51552/clothing A black] and [/EN#51548/animals a tan dog] .

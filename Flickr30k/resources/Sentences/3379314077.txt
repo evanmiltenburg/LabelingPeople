@@ -1,0 +1,5 @@
+[/EN#114235/people A man] wearing [/EN#114238/clothing a flannel shirt] is smiling at [/EN#0/notvisual the camera] while walking [/EN#114236/animals his horse] .
+[/EN#114235/people A man] leads while [/EN#114236/animals his horse] pulls [/EN#114241/vehicles his cart] along [/EN#114237/scene the dirt road] .
+[/EN#114235/people A man] wearing [/EN#114239/scene a ha] is taking [/EN#114236/animals his horse] out for [/EN#114242/other a walk] .
+[/EN#114236/animals Horse] and [/EN#114235/people man] standing on [/EN#114237/scene a dirt trail] .
+[/EN#114235/people Man] in [/EN#114240/clothing cap] stands next to [/EN#114236/animals horse] .

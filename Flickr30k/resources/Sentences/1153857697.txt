@@ -1,0 +1,5 @@
+[/EN#4039/people A man] in [/EN#4040/clothing tan shorts] talking to [/EN#4041/people a young girl] in [/EN#4042/clothing a red shirt] .
+[/EN#4039/people A man] and [/EN#4041/people a woman] under [/EN#4043/other a structure] in [/EN#4046/scene an outdoor setting] .
+[/EN#4041/people A girl] talking to [/EN#4039/people a man] holding [/EN#4044/other various materials] .
+[/EN#4041/people Girl] learning about [/EN#4048/animals animals] at [/EN#4047/scene the zoo] .
+[/EN#4045/scene Employees of a park] discussing [/EN#4049/other work] .

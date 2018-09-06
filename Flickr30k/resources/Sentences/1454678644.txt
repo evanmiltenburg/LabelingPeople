@@ -1,0 +1,5 @@
+[/EN#13481/animals A big black dog] chases [/EN#13482/animals a big brown dog] with [/EN#13483/other a green object] in [/EN#13484/bodyparts his mouth] while [/EN#13482/other another big brown dog tags] behind .
+[/EN#13486/animals A brown dog] holds [/EN#13483/other an object] in [/EN#13484/bodyparts its mouth] while [/EN#13481/animals a black dog] tries to take [/EN#0/notvisual it] away . [/EN#13482/animals Another brown dog] looks on .
+[/EN#13487/animals Three dogs] fight for [/EN#13483/other a green chew toy] on [/EN#13488/scene a stone walkway] .
+[/EN#13487/animals Three dogs] running together on [/EN#13488/scene a paved walkway] .
+[/EN#13489/animals Two dogs] chase [/EN#13486/animals a third dog] with [/EN#13483/other a toy] .

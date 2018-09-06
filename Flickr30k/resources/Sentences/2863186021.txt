@@ -1,0 +1,5 @@
+[/EN#77504/people The back of a woman] wearing [/EN#77507/clothing a white jacket] with [/EN#77508/clothing blue jeans] walking towards [/EN#77505/animals a flock of birds] .
+[/EN#77504/people A woman] in [/EN#77508/clothing blue jeans] looks upon [/EN#77505/animals the group of birds] and [/EN#77510/vehicles buses] in [/EN#0/notvisual the background] .
+[/EN#77504/people A girl] in [/EN#77507/clothing a white sweater] and [/EN#77508/clothing blue jeans] is walking through [/EN#77506/scene the city] .
+[/EN#77504/people A person] is walking in [/EN#77506/scene a city] with [/EN#77505/animals a group of birds] .
+[/EN#77505/animals Pigeons] gather at [/EN#77509/scene the edge of a park] in [/EN#77506/scene a city] .

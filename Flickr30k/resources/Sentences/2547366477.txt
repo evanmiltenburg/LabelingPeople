@@ -1,0 +1,5 @@
+[/EN#57332/people A mildly overweight man] with [/EN#57333/clothing a backpack] is at [/EN#57334/scene the beach] with [/EN#57335/people two kids] , [/EN#0/notvisual who] are playing in [/EN#57334/other the sand] .
+[/EN#57332/people A man] with [/EN#57333/clothing a backpack] and [/EN#57335/people two children] are on [/EN#57334/scene the beach] .
+[/EN#57332/people A man] wearing [/EN#57333/clothing a backpack] with [/EN#57335/people two children] on [/EN#57334/scene a beach] .
+[/EN#57336/people A family] takes [/EN#57338/other tourist photos] in [/EN#57334/scene the desert] .
+[/EN#57332/people A man] and [/EN#57335/people two children] at [/EN#57334/scene the beach] .

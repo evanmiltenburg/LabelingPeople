@@ -1,0 +1,5 @@
+[/EN#105868/people a swimmer] wearing [/EN#105869/clothing a black hat] and [/EN#105871/clothing goggles] is doing [/EN#105873/other the butterfly stroke] .
+[/EN#105868/people Young man] swimming , wearing [/EN#105869/clothing swimming cap] and [/EN#105871/clothing protective goggles] .
+[/EN#105868/people A swimmer] comes up above [/EN#105872/scene the surface of the water] for [/EN#0/notvisual air] .
+[/EN#105868/people A swimmer] wearing [/EN#105869/clothing a black cap] surfaces for [/EN#0/notvisual air] .
+[/EN#105868/people Person] in [/EN#105871/clothing goggles] and [/EN#105869/clothing black swim cap] swimming

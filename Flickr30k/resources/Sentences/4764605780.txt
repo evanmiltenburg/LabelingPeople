@@ -1,0 +1,5 @@
+[/EN#200621/people A woman] is waiting to cross [/EN#200629/scene the street] while [/EN#200622/people another woman] with [/EN#200624/clothing a backpack] stands near [/EN#200625/vehicles a bicycle] .
+[/EN#200621/people A lady] in [/EN#200623/clothing black dress] and [/EN#200622/people a girl] in [/EN#200631/clothing pink dress] is walking near [/EN#200625/vehicles bicycle] .
+[/EN#200622/people A woman] and [/EN#200630/scene a tee] with [/EN#0/notvisual there] backs turned on [/EN#200627/scene a city sidewalk] .
+[/EN#200622/people A woman] with [/EN#200624/clothing a backpack] is standing next to [/EN#200625/vehicles a bicycle] .
+[/EN#200628/people Two women] are walking near [/EN#200625/vehicles a bicycle] through [/EN#200627/scene the city] .

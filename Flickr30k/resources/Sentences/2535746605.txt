@@ -1,0 +1,5 @@
+[/EN#55890/people a young girl] wearing [/EN#55891/clothing a red shirt] and [/EN#55893/clothing a white skirt] running through [/EN#55892/scene the grass] .
+[/EN#55890/people A little girl] in [/EN#55891/clothing a red coat] runs in [/EN#55892/scene the green grass] toward [/EN#55894/scene the pavement] .
+[/EN#55890/people The little girl] wearing [/EN#55891/clothing a red shirt] is walking through [/EN#55892/scene the grass] .
+[/EN#55890/people The girl] with [/EN#55891/clothing a red coat] is walking across [/EN#55892/scene the grass] .
+[/EN#55890/people A girl] in [/EN#55891/clothing a red sweater] runs on [/EN#55892/scene the grass] .

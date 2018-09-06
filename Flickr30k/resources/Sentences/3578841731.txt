@@ -1,0 +1,5 @@
+[/EN#129117/vehicles a red and white rally car] throws up [/EN#129121/other dust] behind [/EN#0/notvisual it] as drives away down [/EN#129120/scene the trail] .
+[/EN#129117/vehicles A race car] kicks up [/EN#129121/other dust] as [/EN#0/notvisual it] speeds down [/EN#129118/other a gravel racetrack] .
+[/EN#129117/vehicles The car] leaves [/EN#129118/scene a dust trail] as [/EN#0/notvisual it] goes around [/EN#129120/scene the dirt] track .
+[/EN#129117/vehicles a red and white race car] racing on [/EN#129118/other a dirt racetrack] .
+[/EN#129117/vehicles A car] is driven on [/EN#129118/scene a dusty track] .

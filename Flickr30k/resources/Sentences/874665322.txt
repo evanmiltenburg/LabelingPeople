@@ -1,0 +1,5 @@
+[/EN#282680/animals A brown dog] wearing [/EN#282681/clothing a blue harness] jumps over [/EN#282682/scene the grassy field] .
+[/EN#282680/animals A brown dog] with [/EN#282681/clothing a blue bandanna] is jumping over [/EN#282682/scene grass] .
+[/EN#282680/animals A brown dog] is playing outside in [/EN#282682/scene a grassy area] .
+[/EN#282680/animals A dog] is jumping in [/EN#282682/scene the grass] .
+[/EN#282680/animals A dog] runs through [/EN#282682/scene the grass] .

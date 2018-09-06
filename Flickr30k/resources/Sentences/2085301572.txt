@@ -1,0 +1,5 @@
+[/EN#27718/people A woman] in [/EN#27720/clothing a fedora] with [/EN#27722/other a striped knapsack] is walking in front of [/EN#27719/other a brick wall] , [/EN#27727/other crosses] , and [/EN#27725/scene an arch] .
+[/EN#27718/people A woman] with [/EN#27724/clothing a colorful bag] and [/EN#27721/clothing a red skirt] stands by [/EN#27719/other a wall] at [/EN#27719/scene the edge of a church] .
+[/EN#27718/people A woman] wearing [/EN#27721/clothing a red skirt] is walking beside [/EN#27719/other a stone wall] .
+[/EN#27718/people An old lady] with [/EN#27721/clothing a red skirt] and [/EN#27720/clothing hat] is walking in [/EN#27729/other the sun] .
+[/EN#27718/people A traveler] is walking down [/EN#27726/scene a road] .

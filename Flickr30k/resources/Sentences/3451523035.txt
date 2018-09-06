@@ -1,0 +1,5 @@
+[/EN#119202/animals Several greyhounds] with [/EN#119204/clothing numbered shirts] racing around [/EN#119203/scene a track] .
+[/EN#119202/animals Muzzled greyhounds] are racing along [/EN#119203/scene a dog track] at [/EN#119208/scene night] .
+[/EN#119202/animals The dogs] in [/EN#119204/clothing numbered uniforms] are running .
+[/EN#119206/other Race dog # 2] is ahead of [/EN#119207/animals a few other dogs] .
+[/EN#119205/other A few horses race] [/EN#0/notvisual each other] on [/EN#119203/scene the track] .

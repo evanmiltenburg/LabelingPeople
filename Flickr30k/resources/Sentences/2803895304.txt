@@ -1,0 +1,5 @@
+[/EN#73847/people A boy] and [/EN#73849/people two girls] stand on [/EN#73852/scene a white sanded beach] facing away from [/EN#73855/scene the water] and behind [/EN#73851/scene a large sand castle] .
+[/EN#73848/people Three children] in [/EN#73854/clothing bathing suits] stand next [/EN#73851/scene a sand castle] with [/EN#73855/scene water] and [/EN#73855/scene waves] in [/EN#0/notvisual the background] .
+[/EN#73847/people One male] and [/EN#73849/people two females] ( [/EN#0/notvisual both] in [/EN#73854/clothing swimsuits] [/EN#73857/other )] are standing next to [/EN#73851/scene a sand castle] at [/EN#73850/scene the beach] .
+[/EN#73849/people Two girls] and [/EN#73847/people a boy] are standing behind [/EN#73851/scene a large sand castle] at [/EN#73850/scene the beach] .
+[/EN#73848/people Three young adults] building [/EN#73851/scene a large sand castle] at [/EN#73850/scene the beach] .

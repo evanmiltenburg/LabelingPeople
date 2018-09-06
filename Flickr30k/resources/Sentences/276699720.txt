@@ -1,0 +1,5 @@
+[/EN#71578/people The person] with [/EN#71583/clothing a helmet] is doing [/EN#0/notvisual a jumping trick] on [/EN#71579/other a 4-wheeler] .
+[/EN#71579/vehicles A yellow ATV] is airborne in [/EN#71581/scene field of long grass] .
+[/EN#71578/people A man] on [/EN#71579/vehicles a four-wheeler] jumps while in [/EN#71581/scene a field] .
+[/EN#71578/people A person] riding [/EN#71579/vehicles a yellow ATV] over [/EN#71581/scene tall grass] .
+[/EN#71578/people A person] jumping [/EN#71579/other a 4-wheel] off [/EN#71579/vehicles road vehicle] .

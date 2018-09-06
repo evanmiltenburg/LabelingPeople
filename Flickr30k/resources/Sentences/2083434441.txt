@@ -1,0 +1,5 @@
+[/EN#27585/people Older woman] wearing [/EN#27592/other glassses] riding [/EN#27586/vehicles a bicycle] with [/EN#27591/clothing a shopping bag] on [/EN#27593/other the handle] , [/EN#27588/vehicles yellow car] is in [/EN#0/notvisual the background] .
+[/EN#27585/people an elderly woman] is riding [/EN#27586/vehicles a bicycle] in [/EN#27589/scene the city] as [/EN#27588/vehicles a yellow taxi] is about to pass by .
+[/EN#27585/people An older woman] with [/EN#27594/bodyparts blond-hair] rides [/EN#27586/vehicles a bicycle] down [/EN#27587/scene the street] .
+[/EN#27585/people A woman] in [/EN#27590/clothing a gray overcoat] rides [/EN#27586/vehicles her bicycle] along [/EN#27587/scene a street] .
+[/EN#27585/people An elderly woman] rides [/EN#27586/vehicles a bicycle] along [/EN#27587/scene a city street] .

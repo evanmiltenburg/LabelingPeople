@@ -1,0 +1,5 @@
+[/EN#17080/people A person] stands beside [/EN#17081/vehicles/scene a boat] , on [/EN#17082/scene a dock] , looking out across [/EN#17083/scene a lake] [/EN#0/notvisual that] reflect [/EN#17084/other trees] in [/EN#0/notvisual the distance] .
+[/EN#17080/people Man] standing on [/EN#17082/scene a pier] next to [/EN#17081/vehicles/scene a boat] on [/EN#17083/scene a still lake] .
+[/EN#17080/people The man] is looking out over [/EN#17083/scene a placid lake] .
+[/EN#17080/people A man] is standing , looking at [/EN#17083/scene a lake] .
+[/EN#17080/people A man] on [/EN#17082/scene a dock] is standing by [/EN#17081/vehicles/scene a boat] .

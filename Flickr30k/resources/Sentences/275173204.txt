@@ -1,0 +1,5 @@
+[/EN#70553/people A person] retrieving [/EN#70563/other something] from [/EN#70558/clothing a bag] on [/EN#70561/other a cooking counter] .
+[/EN#70553/people A woman] taking [/EN#70562/other her wallet] out of [/EN#70558/clothing her purse] at [/EN#70553/people a vendor] stand .
+[/EN#70553/other A woman purchases food] from [/EN#70553/people a street vendor] .
+[/EN#70553/people A woman] pulling out [/EN#70557/other her wallet] at [/EN#70559/scene a market] .
+[/EN#70553/people A woman] is buying [/EN#70556/other something] at [/EN#70559/scene the market] .

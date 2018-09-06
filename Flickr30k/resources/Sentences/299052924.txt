@@ -1,0 +1,5 @@
+[/EN#85859/people A man] wearing [/EN#85860/clothing sunglasses] and [/EN#85861/clothing a cap] lies on [/EN#85862/scene a metal bench outside] to do [/EN#85867/other a stomach exercise] .
+[/EN#85859/people A man] in [/EN#85863/clothing green shorts] and [/EN#85860/clothing sunglasses] is doing [/EN#85867/other stomach crunches] by [/EN#85864/scene the beach] .
+[/EN#85859/people A man] doing [/EN#85869/vehicles the bicycle] on [/EN#85862/other a public area bench] .
+[/EN#85859/people A man] in [/EN#85861/clothing a ball cap] does [/EN#85868/other crunches] on [/EN#85862/other a bench] .
+[/EN#85859/people A man] exercises on [/EN#85862/other a bench] near [/EN#85866/scene water] .

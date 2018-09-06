@@ -1,0 +1,5 @@
+[/EN#249719/people An elderly man] in [/EN#249720/vehicles a vintage race car] goes quickly around [/EN#249720/other a right turn] .
+[/EN#249719/people A gentleman] driving [/EN#249720/vehicles a blue car] with [/EN#249722/other the number 27] on [/EN#0/notvisual it] in [/EN#249720/other race gear] .
+[/EN#249719/people An elderly man] is racing in [/EN#249723/other an old fashioned] looking [/EN#249720/vehicles blue car] .
+[/EN#249719/people A man] drives [/EN#249720/vehicles a vintage race car] around [/EN#249725/scene the track] .
+[/EN#249719/people A man] is driving [/EN#249720/vehicles an older model race car] .

@@ -1,0 +1,5 @@
+[/EN#268638/people A woman] wearing [/EN#268644/clothing a brown jacket] and [/EN#268649/clothing brown pants] is walking [/EN#268643/animals her two dogs] along [/EN#268640/scene the beach] as [/EN#0/notvisual they] follow [/EN#268646/people another person] .
+[/EN#268639/people Two women] are walking along [/EN#268640/scene the beach] with [/EN#268643/animals two dogs] , while [/EN#268638/people one of the women] has [/EN#268641/animals one of the dogs] on [/EN#268642/clothing a leash] .
+[/EN#268638/people A woman] walking [/EN#268641/animals a dog] on [/EN#268642/clothing a leash] at [/EN#268640/scene the beach] , trailing behind as [/EN#268648/animals a pug] follows [/EN#268646/people another unseen woman] .
+[/EN#268639/people Two people] are walking [/EN#268643/animals their dogs] on [/EN#268640/scene the beach] , with [/EN#268645/scene a cloudy sky] .
+[/EN#268638/people A woman] is walking [/EN#268643/animals her two dogs] on [/EN#268640/scene the beach] .

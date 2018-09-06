@@ -1,0 +1,5 @@
+[/EN#122609/people The boy] wearing [/EN#122611/clothing a red shirt] is standing in [/EN#122612/other the marketplace] whilst reading [/EN#122610/other a book] .
+[/EN#122609/people A young child] wearing [/EN#122611/clothing an orange shirt] reads [/EN#122610/other a book] while [/EN#122613/other others] walk around .
+[/EN#122609/people a young boy] wearing [/EN#122611/clothing a red shirt] and reading [/EN#122610/other a book]
+[/EN#122609/people A young boy] reads [/EN#122610/scene a paperback book outside] .
+[/EN#122609/people A boy] reads [/EN#122610/other a book] .

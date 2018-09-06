@@ -1,0 +1,5 @@
+[/EN#280990/people a man] in [/EN#280991/clothing a leather jacket] is looking down at [/EN#280992/other a bunch of bananas] and [/EN#280995/other a light] made out of [/EN#280993/other a can] .
+[/EN#0/notvisual There] is [/EN#280990/people a man] standing in [/EN#280998/scene the dark] with [/EN#280993/other a lamp light] shining on [/EN#280992/other a huge batch of bananas] .
+[/EN#280990/people One man] and [/EN#280994/people a boy] standing next to [/EN#280992/other a large amount of bananas] .
+[/EN#280990/people A man] in front of [/EN#280997/other bunches of bananas] in [/EN#280991/clothing a black jacket] .
+[/EN#280990/people A man] is looking at [/EN#280992/other bananas] on [/EN#280996/other a table] .

@@ -1,0 +1,5 @@
+[/EN#46097/people A woman] wearing [/EN#46098/clothing a tan overcoat] and [/EN#46102/clothing black boots] is walking down [/EN#46099/scene the street] while carrying [/EN#46100/clothing a white bag] over [/EN#46104/bodyparts her right shoulder] .
+[/EN#46097/people A woman] in [/EN#46098/clothing a mustard dress] with [/EN#46100/clothing a white purse] is walking down [/EN#46099/scene the street] in front of [/EN#46101/scene a brick building] .
+[/EN#46097/people Lady] in [/EN#46103/scene yellow turning corner of a sidewalk] .
+[/EN#46097/people A woman] walking on [/EN#46099/scene street] with [/EN#46100/clothing white purse] .
+[/EN#46097/people A woman] walking down [/EN#46099/scene a sidewalk] .

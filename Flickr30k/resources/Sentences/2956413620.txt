@@ -1,0 +1,5 @@
+[/EN#83925/people A man] wearing [/EN#83927/clothing a helmet] driving [/EN#83924/vehicles a black race car] down [/EN#83926/scene the street]
+[/EN#83925/people A drag racer] speeds down [/EN#83926/scene a city street] in [/EN#83924/vehicles a black race car] .
+[/EN#83925/people A person] wearing [/EN#83927/clothing a white helmet] races in [/EN#83924/vehicles a black race car] .
+[/EN#83925/people Someone] drives [/EN#83924/vehicles a fast car] past [/EN#83928/scene old buildings] .
+[/EN#83924/vehicles A black car] on [/EN#83926/scene the street] behind [/EN#83929/other wire mesh] .

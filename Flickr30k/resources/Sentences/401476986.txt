@@ -1,0 +1,5 @@
+[/EN#151954/animals A big dog] is running in [/EN#151955/scene the grassy field] with [/EN#151958/other woods] behind [/EN#0/notvisual him] .
+[/EN#151957/clothing Black] and [/EN#151954/animals brown dog] runs through [/EN#151955/scene field] .
+[/EN#151954/animals/people A German Shepherd] jumping in [/EN#151956/scene midair] .
+[/EN#151954/animals/people A German shepherd] leaps in [/EN#151956/scene midair] .
+[/EN#151954/animals a dog] runs across [/EN#151955/scene the land] .

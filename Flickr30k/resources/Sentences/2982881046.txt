@@ -1,0 +1,5 @@
+[/EN#85479/scene a skateboarding ramp] located in [/EN#85482/scene a room] with [/EN#85484/other multicolored graffti] painted on [/EN#85486/other the wall] .
+[/EN#85476/people A man] is doing [/EN#0/notvisual a jump] on [/EN#85477/vehicles bicycle] in [/EN#85481/other an indoor skate] and [/EN#85483/scene bike center] .
+[/EN#85476/people A man] is doing [/EN#0/notvisual a trick] on [/EN#85477/vehicles a bike] in [/EN#0/notvisual the air] over [/EN#85479/scene a ramp] .
+[/EN#85476/people A person] doing [/EN#0/notvisual a bicycle trick] over [/EN#85479/scene a wooden ramp] .
+[/EN#85476/people A person] jumping with [/EN#85477/vehicles a bicycle] over [/EN#85479/scene a ramp]

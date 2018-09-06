@@ -1,0 +1,5 @@
+[/EN#283536/people A guy] in [/EN#283537/clothing a black jacket] and [/EN#283542/clothing blue jeans] holding [/EN#283541/other a large arrangement of roses] while walking down [/EN#283544/scene the sidewalk] .
+[/EN#283536/people A man] in [/EN#283537/clothing a black jacket] and [/EN#283542/clothing blue jeans] carries [/EN#283541/other a bouquet of red roses] along [/EN#283538/scene a city sidewalk] past [/EN#283543/other a bus stop] .
+[/EN#283536/people A man] wearing [/EN#283537/clothing a black jacket] walks down [/EN#283538/scene the sidewalk] with [/EN#283541/other roses] while [/EN#283545/people two other men] watch [/EN#0/notvisual him] .
+[/EN#283536/people A man] walking down [/EN#283540/scene a busy street] carrying [/EN#283541/other red roses] .
+[/EN#283536/people A man] is carrying [/EN#283541/other red flowers] down [/EN#283539/scene the block] .

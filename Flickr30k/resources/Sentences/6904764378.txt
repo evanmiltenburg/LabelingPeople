@@ -1,0 +1,5 @@
+[/EN#260906/people A man] in [/EN#260915/clothing a green shirt] and [/EN#260907/people a woman] in [/EN#260916/clothing a white tank top] are standing by [/EN#260908/other a yellow flag] at [/EN#260911/scene the hole] on [/EN#260909/scene a golf course] , with [/EN#260912/people other golfers] in [/EN#0/notvisual the background] .
+[/EN#260907/people A woman] and [/EN#260906/people man] pose at [/EN#260911/scene the hole of a golf course] with [/EN#260912/people other golfers] in [/EN#0/notvisual the background] .
+[/EN#0/notvisual There] are [/EN#260914/people people] on [/EN#260909/scene a golf course] and [/EN#260907/people one lady] is holding [/EN#260908/other a flag] at [/EN#260910/scene one of the holes] .
+[/EN#260906/people A man] and [/EN#260907/people a woman] pose smiling at [/EN#260909/scene a golf course] holding on to [/EN#260908/other a yellow flag] .
+[/EN#260913/people Two middle-aged people] stand by [/EN#260910/scene a golf hole] .

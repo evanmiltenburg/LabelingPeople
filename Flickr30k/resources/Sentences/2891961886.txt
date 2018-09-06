@@ -1,0 +1,5 @@
+[/EN#79448/people The man] is standing on [/EN#79449/other the white wall] in front of [/EN#79453/scene the building] .
+[/EN#79448/people A man] on [/EN#79451/other rollerblades] grinds [/EN#79449/other a wall] .
+[/EN#79448/people A boy] skateboards on [/EN#79449/other a cement wall] .
+[/EN#79448/people a man] doing [/EN#0/notvisual a trick] on [/EN#79451/other skateboard]
+[/EN#79448/people Man] skates along [/EN#79449/other cement wall] .

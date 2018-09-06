@@ -1,0 +1,5 @@
+[/EN#33446/people A girl] wearing [/EN#33449/clothing a white outfit] is playing [/EN#33451/other tennis] as [/EN#33453/other others] watch .
+[/EN#33446/people A woman] wearing [/EN#33452/other a white sun visor] is playing [/EN#33451/other tennis] .
+[/EN#33446/people A woman] with [/EN#33449/clothing a white dress] is playing [/EN#33451/other tennis] .
+[/EN#33446/people A woman] in [/EN#33449/clothing a white dress] is playing [/EN#33448/other tennis]
+[/EN#33446/people A girl] in [/EN#33449/clothing white] is hitting [/EN#33447/other a tennis ball] .

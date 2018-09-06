@@ -1,0 +1,5 @@
+[/EN#170209/people Three people] are walking down [/EN#170211/scene the street] with [/EN#170208/vehicles cars] and [/EN#170213/scene buildings] in [/EN#0/notvisual the background] .
+[/EN#170209/people Three people] walking on [/EN#170210/scene a sidewalk] with [/EN#170208/vehicles 3 light colored cars] in [/EN#0/notvisual the background] .
+[/EN#170209/people three people] wearing [/EN#170214/clothing winter clothes] standing on [/EN#170211/scene the sidewalk] near [/EN#170210/scene a street]
+[/EN#170209/people Three men] walking on [/EN#170210/scene a sidewalk] in [/EN#170212/scene a city] .
+[/EN#170209/people Three people] stand along [/EN#170210/scene a main road] .

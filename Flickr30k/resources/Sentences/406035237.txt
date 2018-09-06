@@ -1,0 +1,5 @@
+[/EN#153765/people A small child] in [/EN#153766/other a hood] is sitting in [/EN#153770/vehicles/scene a train] and looking at [/EN#153771/other the platform] .
+[/EN#153765/people A young child] is looking at [/EN#153767/scene a commuter train station] from [/EN#153769/scene the train seat] .
+[/EN#153765/people Boy] sitting looking through [/EN#153768/other a glass window] at [/EN#153767/scene a train station] .
+[/EN#153765/people A small child] with [/EN#153766/other a blue hood] is looking out [/EN#153768/other the window] .
+[/EN#153765/people A boy] with [/EN#153766/other a hood] looks out [/EN#153768/other a train window] .

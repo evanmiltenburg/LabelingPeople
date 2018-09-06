@@ -1,0 +1,5 @@
+[/EN#241592/people A person] is clothed in [/EN#241593/clothing an elaborate red gown] is chiming [/EN#241596/bodyparts a small bell] held in [/EN#241599/bodyparts the left hand] on [/EN#241595/scene the sidewalk] .
+[/EN#241592/people A woman] wearing [/EN#241593/clothing a red dress] and [/EN#241597/bodyparts head] covering is standing outside of [/EN#241594/scene a building] .
+[/EN#241592/people A woman] with [/EN#241593/clothing a red dress] is standing outside with [/EN#241598/bodyparts her eyes] closed .
+[/EN#241592/people A woman] in [/EN#241593/clothing a bright red dress] is standing outside of [/EN#241594/scene a building] .
+[/EN#241592/people A woman] is standing in front of [/EN#241600/other a glass door] in [/EN#241593/clothing a red dress] .

@@ -1,0 +1,5 @@
+[/EN#128829/people A man] on [/EN#128825/other a motorcycle] is jumping over [/EN#128823/scene a dirt hill] in front of [/EN#128824/people spectators] .
+[/EN#128829/people A motocross rider] wearing [/EN#128827/clothing a blue uniform] flies through [/EN#0/notvisual the air] .
+[/EN#128829/people A person] in [/EN#128827/clothing blue] on [/EN#128825/vehicles a bike] in [/EN#128828/scene midair] .
+[/EN#128829/people A man] in [/EN#128827/clothing blue] jumping [/EN#128825/vehicles a dirt bike] .
+[/EN#128829/people A man] on [/EN#128825/vehicles a dirt bike] , airborne .

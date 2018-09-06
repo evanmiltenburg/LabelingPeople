@@ -1,0 +1,5 @@
+[/EN#207370/clothing Women dress] in [/EN#207371/clothing a blue shirt] standing next to [/EN#207372/people a man] holding [/EN#207373/other a pitchfork] [/EN#0/notvisual he] used to spread [/EN#207367/other the hay] around as [/EN#207364/people the crowd] looks on .
+[/EN#207364/people A group of men] in [/EN#207374/clothing blue shirts] , [/EN#207368/clothing banded hats] , and [/EN#207375/clothing red bandannas] stand in [/EN#207365/people a group] .
+[/EN#207365/people The men] in [/EN#207368/clothing the straw hats] are standing near [/EN#207367/other the pile of straw] on [/EN#207366/scene the pavement] .
+[/EN#207369/people Two men] in [/EN#207368/clothing straw hats] stand by [/EN#207367/other a pile of hay] on [/EN#207366/scene a busy street] .
+[/EN#207365/people People] stand on [/EN#207366/scene the street] next to [/EN#207367/other a pile of hay] .

@@ -1,0 +1,5 @@
+[/EN#76991/animals The four large , black dogs] are running on [/EN#76992/scene the grass] .
+[/EN#76991/animals Four black dogs] run together on [/EN#76992/scene bright green grass] .
+[/EN#76991/animals Four black dogs] run across [/EN#76992/scene the grass] .
+[/EN#76991/animals Four black dogs] running over [/EN#76992/scene grass] .
+[/EN#76991/animals Four dogs] run on [/EN#76992/scene field]

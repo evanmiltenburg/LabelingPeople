@@ -1,0 +1,5 @@
+[/EN#112400/people A snowboarder] clothed in [/EN#112404/clothing red] is in [/EN#0/notvisual the middle of a jump] from [/EN#112403/scene a snowy hill] .
+[/EN#112400/people A snowboarder] is doing [/EN#0/notvisual a big jump] and is in [/EN#0/notvisual the air] .
+[/EN#112400/people A snowboarder] soars through [/EN#0/notvisual the air] .
+[/EN#112400/people The snowboarder] is in [/EN#0/notvisual the air] .
+[/EN#112400/people A snowboarder] in [/EN#112401/scene midair]

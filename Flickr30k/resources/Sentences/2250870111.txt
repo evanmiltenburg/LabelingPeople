@@ -1,0 +1,5 @@
+[/EN#36867/people A person] wearing [/EN#36874/clothing jeans] and [/EN#36875/clothing a brown coat] is reading and smoking on [/EN#36871/scene the sidewalk] by [/EN#36870/scene a road] covered with [/EN#36873/scene dirty snow] .
+[/EN#36867/people A woman] smokes [/EN#36868/other a cigarette] and looks at [/EN#36869/other a magazine] in [/EN#36871/scene the middle of a snowy road] .
+[/EN#36867/people A woman] smoking [/EN#36868/other a cigarette] is standing next to [/EN#36870/scene the road] during [/EN#36872/scene a wintery day] .
+[/EN#36867/people A person] is reading [/EN#36869/other a magazine] on [/EN#36871/scene a snowing sidewalk] .
+[/EN#36867/people A woman] reads on [/EN#36869/other newspaper] on [/EN#36870/scene a snow covered street] .

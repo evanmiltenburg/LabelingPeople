@@ -1,0 +1,5 @@
+[/EN#152627/people A group of individuals] at [/EN#152626/scene a bar] wait at [/EN#152629/other the counter] for [/EN#152628/people a bartender] to take [/EN#152631/other their order] .
+[/EN#152627/people A group of people] are standing in [/EN#152626/scene a bar] lined with [/EN#152630/other many different bottles of alcohol] .
+[/EN#152627/people A crowd of people] talking at [/EN#152626/scene a bar] .
+[/EN#152627/people A group of people] are in [/EN#152626/scene a bar] .
+[/EN#152626/scene A bar] crowded with [/EN#152627/people patrons] .

@@ -1,0 +1,5 @@
+[/EN#45316/people A blond girl] wearing [/EN#45317/clothing a green jacket] walks on [/EN#45318/scene a trail] along side [/EN#45319/scene a metal fence] .
+[/EN#45316/people A young girl] in [/EN#45317/clothing a parka] playing [/EN#45320/instruments a flute] while walking by [/EN#45319/scene a fenced in field] .
+[/EN#45316/people A girl] in [/EN#45317/clothing a green coat] walks down [/EN#45318/scene a rural road] playing [/EN#45320/instruments a flute]
+[/EN#45316/people Girl] in [/EN#45317/clothing green and blue jacket] walking past [/EN#45319/scene an enclosed field] .
+[/EN#45316/people Girl] playing [/EN#45320/instruments flute] as [/EN#0/notvisual she] walks by [/EN#45319/scene fence] in [/EN#45319/scene rural area] .

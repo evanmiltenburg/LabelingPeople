@@ -1,0 +1,5 @@
+[/EN#105105/people Basketball player] wearing [/EN#105108/other a white , number] [/EN#105104/clothing 23 jersey] jumps up with [/EN#105106/other the ball] while guarded by [/EN#105110/other number 13] on [/EN#105107/people the opposite team] .
+[/EN#105107/people A boy] in [/EN#105112/clothing a blue basketball uniform] , [/EN#105110/other number 13] and [/EN#105105/people a boy] in [/EN#105104/clothing a white basketball uniform] , [/EN#0/notvisual number 23 jump] for [/EN#105106/other the ball] .
+[/EN#105105/people A man] in [/EN#105104/clothing a white uniform] jumps while holding [/EN#105106/other a basketball] as [/EN#0/notvisual another] in [/EN#105112/scene blue blocks] [/EN#0/notvisual him] .
+[/EN#105105/people The man] in [/EN#105104/clothing white] is playing [/EN#105106/other basketball] against [/EN#105107/people the man] in [/EN#105112/clothing blue] .
+[/EN#105105/people A basketball player] performing [/EN#106000/other a lay-up] .

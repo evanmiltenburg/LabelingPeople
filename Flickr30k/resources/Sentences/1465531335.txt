@@ -1,0 +1,5 @@
+[/EN#13943/people Young boy] next to [/EN#13944/vehicles a bike] [/EN#0/notvisual that] 's turned upside down is handling [/EN#13945/other a socket wrench set] [/EN#0/notvisual that] is set next to [/EN#13944/vehicles the bike] .
+[/EN#13943/people A young boy] with [/EN#13946/clothing an orange shirt] on is looking at [/EN#13947/other a] [/EN#13945/other tool set] with [/EN#13944/vehicles an overturned bike] at [/EN#0/notvisual his side] .
+[/EN#13943/people A little boy] is kneeling in front of [/EN#13944/vehicles an overturned bicycle] , looking at [/EN#13945/other tools] .
+[/EN#13943/people A little boy] attempts to fix [/EN#13944/vehicles his bike] .
+[/EN#13943/people A young boy] fixes [/EN#13944/vehicles his bike] .

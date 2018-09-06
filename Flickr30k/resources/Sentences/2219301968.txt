@@ -1,0 +1,5 @@
+[/EN#34918/people A small child] playing with [/EN#34919/other a toy oven] in [/EN#34919/scene a mock kitchen] at [/EN#34924/scene home] .
+[/EN#34918/people A toddler] is opening [/EN#34921/other the oven door of a pink play kitchen set] .
+[/EN#34918/people A child] plays with [/EN#34923/other a pink kitchen set] [/EN#0/notvisual that] is child-sized .
+[/EN#34918/people A young girl] plays in [/EN#34919/scene her pink toy kitchen] .
+[/EN#34918/people A little girl] playing with [/EN#34922/other kitchen toys] .

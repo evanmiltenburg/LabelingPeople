@@ -1,0 +1,5 @@
+[/EN#3687/people A group of people] standing on [/EN#3688/scene the lawn] in front of [/EN#3689/scene a building] .
+[/EN#3690/people Many people] in [/EN#3691/clothing blue jeans] stand in front of [/EN#3689/scene a white church] .
+[/EN#3687/people A large group of people] stand outside of [/EN#3689/scene a church] .
+[/EN#3690/people Family members] standing outside [/EN#3689/scene a home] .
+[/EN#3690/people People] standing outside of [/EN#3689/scene a building] .

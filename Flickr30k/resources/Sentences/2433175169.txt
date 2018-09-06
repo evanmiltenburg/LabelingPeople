@@ -1,0 +1,5 @@
+[/EN#49139/people The man] is standing on [/EN#49140/other a stone stump] on top of [/EN#49143/scene a hill] with [/EN#49142/bodyparts his arms] outstretched .
+[/EN#49139/people A man] is standing on [/EN#49140/other a stone structure] with [/EN#49142/bodyparts his arms] out like [/EN#49145/animals a bird] .
+[/EN#49139/people a man] standing on [/EN#49140/other a concrete platform] with [/EN#49142/bodyparts his arms] [/EN#49144/scene wide open]
+[/EN#49139/people Man] with [/EN#49142/bodyparts outstretched arms] standing on [/EN#49140/other a stone base]
+[/EN#49139/people Man] standing on [/EN#49140/other rock] with [/EN#49142/bodyparts outstretched hands] .

@@ -1,0 +1,5 @@
+[/EN#168380/people A woman] with [/EN#168385/clothing a red purse] and [/EN#168381/clothing a dark colored coat] is walking along [/EN#168382/scene a city street] while talking on [/EN#168383/other a cellphone] .
+[/EN#168380/people A woman] is talking on [/EN#168383/other her cellphone] while walking through [/EN#168382/scene a busy city] .
+[/EN#168380/people A smiling woman] walking down [/EN#168384/scene the street] while talking on [/EN#168383/other the phone] .
+[/EN#168380/people A woman] in [/EN#168381/clothing a black jacket] talking on [/EN#168383/other the phone] on [/EN#168384/scene a street corner] .
+[/EN#168380/people Woman] on [/EN#168384/scene street corner] smiles and talks on [/EN#168383/other her cellphone] .

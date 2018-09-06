@@ -1,0 +1,5 @@
+[/EN#123888/people A solemn young man] in [/EN#123890/clothing a striped collared shirt] is holding [/EN#0/notvisual a picture of himself] and [/EN#123891/people a woman] in [/EN#123894/other a silver frame] .
+[/EN#123888/people A man] in [/EN#123890/clothing a brown and white striped shirt] holding and looking at [/EN#123889/people a framed picture of a man] and [/EN#123891/people a woman] .
+[/EN#123888/people A man] wearing [/EN#123890/clothing a brown and white striped shirt] is looking at [/EN#123889/people a black and white photo of someone] .
+[/EN#123888/people A man] in [/EN#123892/other a brown and white striped shift] looks at [/EN#0/notvisual a photo of himself] and [/EN#123891/people a woman] .
+[/EN#123888/people A man] with [/EN#123896/bodyparts blond-hair] and [/EN#123890/clothing shirt] with [/EN#123892/clothing brown stripes] looking at [/EN#123889/other a framed photo] .

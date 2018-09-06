@@ -1,0 +1,5 @@
+[/EN#22474/people A man] in [/EN#22482/clothing a green shirt] and [/EN#22483/clothing black hat] is smoothing [/EN#22476/other concrete] .
+[/EN#22475/people Two men] in [/EN#22481/clothing green and white] cementing [/EN#22476/scene a patio] in [/EN#22476/scene a yard] .
+[/EN#22474/people A man] is smoothing freshly poured [/EN#22476/other cement] over [/EN#22476/scene a patio] .
+[/EN#22474/people A man] in [/EN#22479/other a green shirt smoothing wet concrete] .
+[/EN#22475/people Two men] doing [/EN#22478/other a construction] works

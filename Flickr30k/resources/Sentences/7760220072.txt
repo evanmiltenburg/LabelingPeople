@@ -1,0 +1,5 @@
+[/EN#274716/people A motocross racer] in [/EN#274719/clothing a green and black jumpsuit] rides [/EN#274717/vehicles his dirt bike] down [/EN#274722/scene the dirt road] .
+[/EN#274716/people A man] wearing [/EN#274719/clothing a green jumpsuit] on [/EN#274717/vehicles a motocross bike] rides through [/EN#274718/other the dirt course] .
+[/EN#274716/people Racer] riding [/EN#274717/other a motorcycle] with [/EN#274718/other the racetrack] in [/EN#0/notvisual the background] .
+[/EN#274716/people Dirt biker] just completing [/EN#0/notvisual a jump] on [/EN#274718/other a race course] .
+[/EN#274716/people A guy] wearing [/EN#274719/clothing green] on [/EN#274717/vehicles a dirt bike] .

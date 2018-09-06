@@ -1,0 +1,5 @@
+[/EN#225306/people A man] wearing [/EN#225307/clothing a blue suit] and carrying [/EN#225309/clothing a briefcase] walking briskly by [/EN#225310/other some arrow signs] .
+[/EN#225306/people a man] wearing [/EN#225307/clothing a blue jacket] and holding [/EN#225309/clothing a briefcase] is walking in front of [/EN#225310/other two arrows] .
+[/EN#225306/people A man] in [/EN#225307/clothing a blue business suit] passes [/EN#225311/other a wall] with [/EN#225310/other two arrows] pointing at [/EN#0/notvisual him] .
+[/EN#225306/people Businessman] walking as [/EN#225310/scene two arrows point] to [/EN#0/notvisual him] .
+[/EN#225306/people A man] wearing [/EN#225307/clothing a blue blazer] is walking outside .

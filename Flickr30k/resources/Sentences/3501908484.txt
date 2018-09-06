@@ -1,0 +1,5 @@
+[/EN#123175/people Child] in [/EN#123177/clothing a denim jacket] , sitting on [/EN#123183/other a red car toy] looking [/EN#123176/vehicles a people bike] and walk down [/EN#123180/scene a street] .
+[/EN#123175/people A child] in [/EN#123177/clothing a blue jacket] is looking to [/EN#123184/scene his left] as [/EN#123176/vehicles bike] rides down [/EN#123180/scene the street] .
+[/EN#123175/people A boy] holding [/EN#123179/vehicles a red car] watching [/EN#123178/people a man] on [/EN#123176/vehicles a bicycle] riding down [/EN#123180/scene a street] .
+[/EN#123175/people A boy] with [/EN#123179/vehicles a toy car] is watching [/EN#123178/people a cyclist] go down [/EN#123180/scene the street] .
+[/EN#123175/people A little blond boy] watching [/EN#123178/other a bicyclist ride] down [/EN#123180/scene a street] .

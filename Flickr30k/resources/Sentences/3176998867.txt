@@ -1,0 +1,5 @@
+[/EN#98525/people Someone] is snowboarding in [/EN#98526/scene the snow] on [/EN#98532/scene a cold day] overlooking [/EN#98534/scene the serene mountains] .
+[/EN#98525/people Snowboarder] wearing [/EN#98527/other cream] and [/EN#98528/clothing brown snowsuit] is jumping on [/EN#98526/other a snowy slope] .
+[/EN#98525/people A snowboarder] catches [/EN#0/notvisual some air] and [/EN#98536/other sprays] up [/EN#98530/scene some snow] .
+[/EN#98525/people A man] is catching [/EN#0/notvisual air] while [/EN#98533/other snowboarding] .
+[/EN#98525/people A man] on [/EN#98531/other a snowboard] jumping .

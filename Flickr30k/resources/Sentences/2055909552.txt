@@ -1,0 +1,5 @@
+[/EN#26112/people A female musician] holding [/EN#26113/instruments her violin] and bow under [/EN#26110/other stage lights] .
+[/EN#26112/people A woman] with [/EN#26114/bodyparts short blond-hair] holds [/EN#26113/instruments her violin] and [/EN#26109/other bow] .
+[/EN#26112/people A woman] with [/EN#26114/bodyparts short blond-hair] is playing [/EN#26113/instruments the violin] .
+[/EN#26112/people A woman] with [/EN#26114/bodyparts short blond-hair] is holding [/EN#26113/instruments a violin] .
+[/EN#26112/people A lady] dressed in [/EN#26111/clothing black] is holding [/EN#26113/instruments a violin] .

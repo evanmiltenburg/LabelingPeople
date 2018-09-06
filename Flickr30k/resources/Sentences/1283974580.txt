@@ -1,0 +1,5 @@
+[/EN#7255/people A child] with [/EN#7257/clothing a blue safety helmet] is standing near [/EN#7256/vehicles a blue bicycle] .
+[/EN#7255/people A child] wearing [/EN#7257/clothing a blue helmet] with [/EN#7260/other stars] explores [/EN#7256/vehicles a bicycle]
+[/EN#7255/people A young boy] [/EN#0/notvisual who] is wearing [/EN#7257/clothing a helmet] looks at [/EN#7256/vehicles a bicycle] .
+[/EN#7255/people A young boy] is looking and touching [/EN#7256/vehicles a bike]
+[/EN#7255/people kid] about to go on [/EN#7258/other bike ride] with [/EN#7259/people parent]

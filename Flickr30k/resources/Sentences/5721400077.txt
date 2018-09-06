@@ -1,0 +1,5 @@
+[/EN#241638/people A young boy] sits backwards while riding [/EN#241640/animals a donkey] in [/EN#241637/scene an open hilly field] .
+[/EN#241638/people A young male boy] is sitting [/EN#241641/other backwards] on [/EN#241640/animals a gray mule] in [/EN#241637/other the dessert] .
+[/EN#241638/people A young hispanic-looking boy] sitting [/EN#241641/other backwards] on [/EN#241640/animals a donkey] .
+[/EN#241638/people A young boy] in [/EN#241637/scene a desert] is sitting on [/EN#241640/animals a donkey] backwards .
+[/EN#241638/people Boy] riding [/EN#241641/other backwards] on [/EN#241640/animals a donkey] .

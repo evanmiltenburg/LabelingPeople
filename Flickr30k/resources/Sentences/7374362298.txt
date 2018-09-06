@@ -1,0 +1,5 @@
+[/EN#269101/people A man] dressed in [/EN#269103/clothing a uniform] and wearing [/EN#269104/clothing glasses] plays [/EN#269102/instruments a brass instrument] .
+[/EN#269101/people A uniformed man] in [/EN#269105/clothing glasses] performs on [/EN#269102/instruments a french horn] in [/EN#269106/other a concert] .
+[/EN#269101/people A military officer] dressed in [/EN#269103/clothing black] is playing [/EN#269102/instruments a french horn] .
+[/EN#269101/people A male] with [/EN#269104/clothing blond-hair and glasses] plays [/EN#269102/instruments a type of horn] .
+[/EN#269101/people A man] in [/EN#269103/clothing a uniform] with [/EN#269104/clothing glasses] is playing [/EN#269102/instruments a french horn] .

@@ -1,0 +1,5 @@
+[/EN#58667/animals Two gray puppies] are chewing on [/EN#58668/other a plastic red toy] .
+[/EN#58667/animals The two gray dogs] are trying to get [/EN#58668/other a red object] .
+[/EN#58667/animals Two puppies] play with [/EN#58668/other a red chew toy] in [/EN#58669/scene a field] .
+[/EN#58667/animals two gray dogs] fighting over [/EN#58668/other a red toy] .
+[/EN#58667/animals Two dogs] try to get [/EN#58668/other an orange toy] .

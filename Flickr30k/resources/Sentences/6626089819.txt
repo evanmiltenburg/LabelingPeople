@@ -1,0 +1,5 @@
+[/EN#256298/people A man] is cutting shaving [/EN#256302/bodyparts another man 's hair] in [/EN#256301/scene an area] with [/EN#256300/scene a dirt floor] .
+[/EN#256298/people 1 man] is shaving [/EN#256302/bodyparts another man 's head] in [/EN#256301/scene a room] with [/EN#256300/scene a dirt floor] .
+[/EN#256298/people One man] shaves [/EN#256303/bodyparts another man 's head] with [/EN#256306/other an electric razor] .
+[/EN#256298/people A guy] getting [/EN#256303/bodyparts his head] shaved by [/EN#256298/people another guy] .
+[/EN#256298/people the man] is giving [/EN#256303/people the other man] [/EN#256305/bodyparts a haircut]

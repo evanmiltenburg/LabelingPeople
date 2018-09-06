@@ -1,0 +1,5 @@
+[/EN#208990/people A woman] waring [/EN#208992/clothing a purple sweatshirt] in [/EN#208996/scene a jewelry store] is bent over inside [/EN#208993/other the display case] .
+[/EN#208990/people a woman] working in [/EN#208993/scene the storefront of a jewelry shop] fixing [/EN#208991/other the display shelf] .
+[/EN#208990/people Lady] in [/EN#208992/clothing purple sweater] putting [/EN#208994/clothing jewelry] away into [/EN#208991/other a window case] .
+[/EN#208990/people A woman] putting [/EN#208994/clothing jewelry] in [/EN#208991/other the window display] .
+[/EN#208990/people A woman] adjusts window [/EN#208993/other display] .

@@ -1,0 +1,5 @@
+[/EN#192347/people A large man] with [/EN#192351/clothing mp3 headphones] and [/EN#192354/clothing a backpack] waits at [/EN#192350/scene a subway station] on [/EN#192352/scene Wall Street] .
+[/EN#192347/people A well built black man] stands in [/EN#192348/vehicles/scene the subway] , listening to [/EN#192351/clothing headphones] .
+[/EN#192347/people Buff african american man] waits for [/EN#192349/vehicles/scene subway] at [/EN#192352/other Wall Street station] .
+[/EN#192347/people Muscular man] waiting for [/EN#192348/vehicles/scene train] while listening to [/EN#192355/other music] .
+[/EN#192347/people A young man] standing and watching carefully .

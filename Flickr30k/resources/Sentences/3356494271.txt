@@ -1,0 +1,5 @@
+[/EN#112295/animals Two dogs] are on [/EN#112297/scene a trail] in [/EN#112299/other the woods] while [/EN#112296/people two people] are looking at [/EN#0/notvisual them] from [/EN#112301/other behind] .
+[/EN#112300/animals One huge dog] and [/EN#112302/animals one little dog] are on [/EN#112297/scene a path] with [/EN#112294/people a tall man] and [/EN#112298/people shorter woman] .
+[/EN#112296/people Two women] with [/EN#112295/animals their dogs] on [/EN#112297/scene a forest path] .
+[/EN#112295/animals Two dogs] and [/EN#112296/people two people] in [/EN#112299/other the woods] .
+[/EN#112294/people A man] and [/EN#112298/people a woman] watch [/EN#112295/animals two dogs] .

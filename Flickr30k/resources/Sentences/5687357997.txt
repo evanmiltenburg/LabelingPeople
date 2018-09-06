@@ -1,0 +1,5 @@
+[/EN#240957/people A police officer] wearing [/EN#240958/clothing a blue helmet] rides [/EN#240960/other his motorcycle] across [/EN#240959/scene a sidewalk] .
+[/EN#240957/people The officer] , on [/EN#240960/vehicles the white moped] , is crossing [/EN#240959/scene the cobblestone sidewalk] .
+[/EN#240957/people A patrol officer] wearing [/EN#240958/clothing a blue helmet] is riding [/EN#240960/vehicles a white scooter] .
+[/EN#240957/people A police person] is on [/EN#240960/other a motorcycle] on [/EN#240959/scene the side of a street] .
+[/EN#240962/people Two police officers] on [/EN#240960/vehicles mopeds] , [/EN#0/notvisual side] by [/EN#0/notvisual side] .

@@ -1,0 +1,5 @@
+[/EN#85632/people A boy] dressed in [/EN#85636/clothing green] running with [/EN#85633/animals a brown and white dog] in [/EN#85634/scene a green field] .
+[/EN#85633/animals A white dog] and [/EN#85632/people green shirted child] running in [/EN#85634/scene the grass] .
+[/EN#85632/people Boy] and [/EN#85633/animals white dog] running in [/EN#85635/scene grassy field]
+[/EN#85632/people A boy] and [/EN#85633/animals a dog] running on [/EN#85635/scene grass]
+[/EN#85632/people A child] and [/EN#85633/animals small dog] running .

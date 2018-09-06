@@ -1,0 +1,5 @@
+[/EN#138957/people A man] in [/EN#138960/clothing a blue polo shirt] sits at [/EN#138958/other a table] looking off in [/EN#0/notvisual the distance] .
+[/EN#138957/people An indian man] sits [/EN#138962/scene outside of a restaurant] at [/EN#138958/other a table] .
+[/EN#138957/people A man] in [/EN#138960/other a blue polo] stares into [/EN#138959/scene space] .
+[/EN#138957/people A man] sits at [/EN#138958/scene a table outside] .
+[/EN#138957/people A man] is sitting at [/EN#138958/other a table] .

@@ -1,0 +1,5 @@
+[/EN#216793/people A woman] in [/EN#216798/clothing a yellow top] and [/EN#216799/clothing shorts] is sitting on [/EN#216795/scene the pavement] in front of [/EN#216794/scene a building] .
+[/EN#216793/people A young woman] sits on [/EN#216795/scene the sidewalk] with [/EN#216797/other her back] against [/EN#216794/scene a building] .
+[/EN#216793/people Young woman] sitting on [/EN#0/notvisual the ground] outdoors on [/EN#216795/scene the sidewalk] alone .
+[/EN#216793/people A girl] sits against [/EN#216794/scene a building] near [/EN#216796/other a fire hydrant] .
+[/EN#216793/people A woman] sitting on [/EN#216795/scene the sidewalk] by [/EN#0/notvisual herself] .

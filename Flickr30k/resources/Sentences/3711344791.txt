@@ -1,0 +1,5 @@
+[/EN#138641/people A man] wearing [/EN#138643/clothing an orange shirt] and [/EN#138644/clothing orange hard hat] is working on [/EN#138648/other something high] above [/EN#138646/scene other buildings] and [/EN#138645/scene a street] below .
+[/EN#138641/people A man] in [/EN#138643/clothing an orange shirt] and [/EN#138644/clothing hard hat] is hanging outside of [/EN#138642/scene a building] .
+[/EN#138641/people A worker] hangs off of [/EN#138642/scene a tall building] overlooking [/EN#138649/vehicles traffic] below .
+[/EN#138641/people A worker] does [/EN#138647/other his duty high] above [/EN#138646/scene buildings] and [/EN#138645/scene the street] .
+[/EN#138641/people A man] in [/EN#138644/clothing a orange helmet] on [/EN#138642/scene building] .

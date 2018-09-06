@@ -1,0 +1,5 @@
+[/EN#12852/people An asian woman] eating [/EN#12853/other something] from [/EN#12854/other a tiny bowl] .
+[/EN#12852/people A chinese woman] is eating [/EN#12853/scene some kind of desert] .
+[/EN#12852/people Woman] is eating [/EN#12853/other something] from [/EN#12854/other small bowl] .
+[/EN#12852/people An Asian woman] eating with [/EN#12855/other a spoon] .
+[/EN#12852/people An Asian woman] enjoys [/EN#12853/other a nice treat]

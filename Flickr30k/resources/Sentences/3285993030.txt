@@ -1,0 +1,5 @@
+[/EN#106971/animals A black dog] is running along [/EN#106972/scene a muddy stream] surrounded by [/EN#106974/other fall foliage] .
+[/EN#106971/animals Fuzzy dark gray dog] running along [/EN#106972/scene a dirt path] with [/EN#106974/other weeds] on [/EN#0/notvisual the sides] .
+[/EN#106971/animals A curly clack dog] is running down [/EN#106972/scene a natural path] .
+[/EN#106971/animals Dark colored dog] leaping down [/EN#106972/scene a path] .
+[/EN#106971/animals A black dog] is running down [/EN#106972/scene a path] .

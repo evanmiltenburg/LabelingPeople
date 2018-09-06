@@ -1,0 +1,5 @@
+[/EN#715/people A man] in [/EN#716/scene black attire shovels snow] into [/EN#717/scene the street] , disregarding [/EN#727/scene all public safety] .
+[/EN#715/people Man] in [/EN#718/clothing black jacket] [/EN#719/clothing gray snow cap] , [/EN#720/scene shovels snow] near [/EN#717/scene a street] with [/EN#721/vehicles cars] .
+[/EN#715/people A man] shoveling [/EN#720/scene snow] off [/EN#717/scene the roads] and [/EN#722/scene sidewalks] in [/EN#726/scene a city] .
+[/EN#715/people A person] is cleaning [/EN#720/scene snow] and [/EN#720/other ice] off of [/EN#724/scene a city sidewalk] .
+[/EN#715/people A man] shovels [/EN#725/scene slush of the street] .

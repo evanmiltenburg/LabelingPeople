@@ -1,0 +1,5 @@
+[/EN#104347/people Three girls] and [/EN#104349/people a guy] wait for [/EN#104351/vehicles/scene a rail train] .
+[/EN#104349/people a few people] waing around at [/EN#104353/other a train stop]
+[/EN#104347/people three people] stand on [/EN#104348/scene the sidewalk] .
+[/EN#104346/people five people] standing on [/EN#104348/scene a sidewalk]
+[/EN#104346/people Five people] on [/EN#104348/scene a sidewalk] .

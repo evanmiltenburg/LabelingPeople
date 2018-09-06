@@ -1,0 +1,5 @@
+[/EN#94458/animals A black and white dog] holds [/EN#94459/other a stick] in [/EN#94460/bodyparts his paw] for [/EN#94461/other chewing] or playing .
+[/EN#94458/animals a black and white staffordshire terrier] has [/EN#94460/bodyparts his paw] on [/EN#94459/other large branch]
+[/EN#94458/animals A black and white dog] laying down with [/EN#94459/other a big stick] under [/EN#94460/bodyparts its paw] .
+[/EN#0/notvisual There] is [/EN#94458/animals a black and white dog] chewing on [/EN#94459/other a branch] outside .
+[/EN#94458/animals The black and white dog] has [/EN#94459/other a stick] in [/EN#94460/bodyparts his paws] .

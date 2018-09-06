@@ -1,0 +1,5 @@
+[/EN#218847/people A man] wearing [/EN#218852/clothing a long-sleeved gray shirt] and [/EN#218853/clothing dark pants] is walking through [/EN#218848/other a gray stone archway] .
+[/EN#218850/scene This path] leads up to [/EN#218849/scene the apple market entrance] .
+[/EN#218847/people A man] is walking through [/EN#218848/other an older archway] .
+[/EN#218847/people A man] walks through [/EN#218848/other a pathway] .
+[/EN#218847/people A man] walks though [/EN#218849/scene an arch] .

@@ -1,0 +1,5 @@
+[/EN#198943/people An old woman] in [/EN#198952/clothing a pink shirt] is leaning over [/EN#198946/other an item-filled table] and [/EN#198953/other exchanging money] with [/EN#198942/people a man] [/EN#0/notvisual who] is wearing [/EN#198944/clothing a black and sleeveless shirt] and holding [/EN#198945/other a book] under [/EN#198954/bodyparts/people his arm] .
+[/EN#198942/people A bald middle-aged man] in [/EN#198944/clothing a tank top] is purchasing [/EN#198948/other something] from [/EN#198946/other an elderly woman 's table] at [/EN#198947/other a yard sale] .
+[/EN#198942/people A man] and [/EN#198943/people a woman] make [/EN#198950/other an exchange] at [/EN#198947/other a yard sale] .
+[/EN#198942/people A man] and [/EN#198943/people woman] make [/EN#198951/other an exchange] for [/EN#198948/other goods] .
+[/EN#198942/people A man] buys [/EN#198945/other a book] from [/EN#198943/people a street vendor] .

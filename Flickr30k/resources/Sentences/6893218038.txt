@@ -1,0 +1,5 @@
+[/EN#260636/people A young adult female] in [/EN#260637/clothing a white lab coat] and [/EN#260640/clothing purple latex gloves] is looking through [/EN#260639/other a microscope] in [/EN#260638/animals/scene a lab] .
+[/EN#260636/people A woman] in [/EN#260637/clothing a blue scrubs uniform] and [/EN#260640/clothing purple latex gloves] looks into [/EN#260639/other a microscope] .
+[/EN#260636/people A woman] in [/EN#260638/scene a dimly lit room] looks through [/EN#260639/other her microscope] and adjusts [/EN#260642/other the vision] .
+[/EN#260636/people A scientist] looking through [/EN#260639/other a microscope] at [/EN#260641/other a sample] .
+[/EN#260636/people A female researcher] looking through [/EN#260639/other a microscope] .

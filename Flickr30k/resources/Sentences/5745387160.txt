@@ -1,0 +1,5 @@
+[/EN#242310/people A young white male] wearing [/EN#242311/clothing sunglasses] and [/EN#242312/clothing a white tank top] is playing [/EN#242313/instruments a black bass guitar] on [/EN#242320/scene an outdoor stage] in front of [/EN#242318/scene a city skyline] with [/EN#242314/other amplifiers] , [/EN#242315/other light scaffolding] , and [/EN#242316/people a drummer] off to [/EN#242323/scene the far right] .
+[/EN#242310/people Punk musician] with [/EN#242313/instruments a guitar] pouts at [/EN#0/notvisual the camera] from [/EN#242319/scene his position] on [/EN#242320/scene the stage] .
+[/EN#242310/people A young musician] performs in front of [/EN#242318/scene a skyline] .
+[/EN#242317/people A band] is playing [/EN#242325/other music] on [/EN#242320/scene stage] in [/EN#242321/scene the city] .
+[/EN#242310/people A man] plays [/EN#242313/instruments guitar] in [/EN#242322/scene an outside theater] .

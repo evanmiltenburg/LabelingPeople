@@ -1,0 +1,5 @@
+[/EN#155815/people A man] with [/EN#155820/bodyparts short , styled hair] using [/EN#155816/other an electric razor] to trim [/EN#155818/bodyparts his facial hair] .
+[/EN#155815/people A young white man] wearing [/EN#155817/clothing glasses] is shaving [/EN#155818/bodyparts his beard] with [/EN#155816/other an electric razor] .
+[/EN#155815/people A man] with [/EN#155817/clothing glasses] and [/EN#155819/bodyparts a beard] shaves [/EN#155818/bodyparts his beard] with [/EN#155816/other a shaver] .
+[/EN#155815/people A pensive looking man] uses [/EN#155816/other an electric razor] to shave [/EN#0/notvisual himself] .
+[/EN#155815/people A man] using [/EN#155816/other a pair of clippers] on [/EN#155818/bodyparts his face] .

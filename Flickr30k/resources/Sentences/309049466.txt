@@ -1,0 +1,5 @@
+[/EN#92683/clothing Brown] and [/EN#92679/animals black dog] with [/EN#92680/other yellow object] in [/EN#92681/bodyparts mouth] in [/EN#92682/scene the snow] .
+[/EN#92679/animals A dog] with [/EN#92680/other a Frisbee] in [/EN#92681/bodyparts its mouth] is running through [/EN#92682/scene snow] .
+[/EN#92679/animals An orange dog] fetching [/EN#92680/other a Frisbee] in [/EN#92682/scene the snow] .
+[/EN#92679/animals The dog] retrieves [/EN#92680/other the Frisbee] is [/EN#92682/scene the snow] .
+[/EN#92679/animals A dog] with [/EN#92680/other a Frisbee] in [/EN#92682/scene the snow] .

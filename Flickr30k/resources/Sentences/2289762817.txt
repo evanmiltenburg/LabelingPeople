@@ -1,0 +1,5 @@
+[/EN#39345/people A man] in [/EN#39347/clothing a red shirt] is smiling with [/EN#39346/other food] in front of [/EN#0/notvisual him] while seated at [/EN#39351/other a table] on [/EN#39350/other an outside deck] .
+[/EN#39345/people A man] sits in [/EN#39349/other an outdoor cafe] finishing [/EN#39346/other a meal] .
+[/EN#39345/people A man] in [/EN#39347/clothing a red shirt] is about to eat [/EN#39346/other a taco] .
+[/EN#39345/people A man] eating at [/EN#39352/scene an outdoor restaurant]
+[/EN#39348/people A man] in [/EN#39347/clothing a red shirt] is eating .

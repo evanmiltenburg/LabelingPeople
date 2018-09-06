@@ -1,0 +1,5 @@
+[/EN#81636/animals A brown dog] is running between [/EN#81637/other two gray poles] [/EN#0/notvisual that] are very close together .
+[/EN#81636/animals a brown and white dog] is running through [/EN#81637/other a white marker] in [/EN#81638/scene a grassy field] .
+[/EN#81636/animals An Australian Shepherd dog] runs through [/EN#81637/other an obstacle] .
+[/EN#81636/animals Long-haired dog] moves quickly beneath [/EN#81637/other two poles] .
+[/EN#81636/animals A brown and white dog] runs through [/EN#81637/other an obstacle] .

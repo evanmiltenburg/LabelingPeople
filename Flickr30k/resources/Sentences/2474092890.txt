@@ -1,0 +1,5 @@
+[/EN#52183/people Someone] is sitting on [/EN#52184/other a wooden bench] holding [/EN#52187/bodyparts the picture of a face] up in front of [/EN#52187/bodyparts their own face] .
+[/EN#52183/people a person] holding [/EN#52186/bodyparts a picture of a face] in front of [/EN#52187/bodyparts their own face] sitting on [/EN#52184/other a bench] .
+[/EN#52183/people A person] sitting on [/EN#52184/other a bench] and holding [/EN#52185/other a picture] in front of [/EN#52186/bodyparts their face] .
+[/EN#52183/people The person] blocks [/EN#52186/bodyparts his face] with [/EN#52185/other newspaper] to avoid being photographed .
+[/EN#52183/people The person] is holding [/EN#52185/other a picture] in front of [/EN#52187/bodyparts their face] .

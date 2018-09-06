@@ -1,0 +1,5 @@
+[/EN#94223/people A woman] in [/EN#94226/clothing a white robe] sits on [/EN#94224/other a bathroom counter] in front of [/EN#94228/other a mirror] , applying [/EN#94227/bodyparts eye makeup] .
+[/EN#94223/people A woman] in [/EN#94229/scene a bathroom] , sitting on [/EN#94225/other the sink] , is doing [/EN#94227/bodyparts her makeup] .
+[/EN#94223/people A woman] in [/EN#94226/clothing a white robe] is sitting on [/EN#94224/other a counter] putting on [/EN#94227/bodyparts makeup] .
+[/EN#94223/people Woman] , sitting on [/EN#94224/other a countertop] , applying [/EN#94227/bodyparts eyeliner] .
+[/EN#94223/people A woman] crouches on [/EN#94225/other a sink] while applying [/EN#94227/bodyparts mascara] .

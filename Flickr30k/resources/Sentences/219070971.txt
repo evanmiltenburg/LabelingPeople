@@ -1,0 +1,5 @@
+[/EN#33091/people A man] is looking on as [/EN#33090/people another man] attempts to climb [/EN#33094/other a small boulder] with [/EN#33093/vehicles his dirt bike] .
+[/EN#33092/people A man] in [/EN#33095/clothing red] on [/EN#33093/vehicles a dirt bike] struggles up [/EN#33094/other a rock] while [/EN#33090/people another man] in [/EN#33095/clothing red] watches .
+[/EN#33092/people A red-clad man] rides [/EN#33093/vehicles a bike] through [/EN#0/notvisual rocky ground] while [/EN#33090/people another man] looks on
+[/EN#33090/people A dirt biker] pushes [/EN#33093/other his motorcycle] up [/EN#33094/other a rock] while [/EN#33091/people another rider] watches .
+[/EN#33090/people A man] in [/EN#33095/clothing red] pushes [/EN#33093/vehicles his motocross bike] up [/EN#33094/other a rock] .

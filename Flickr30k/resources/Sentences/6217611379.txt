@@ -1,0 +1,5 @@
+[/EN#250377/people Two policemen] in [/EN#250384/clothing yellow police jackets] are standing next to [/EN#250378/vehicles a silver car] while [/EN#250376/people a man] in [/EN#250378/vehicles the car] looks out [/EN#250383/other the window] .
+[/EN#250377/people Two police officers] stand on [/EN#250385/scene the sidewalk] as [/EN#250376/vehicles the occupant of the car] looks at [/EN#0/notvisual them] .
+[/EN#0/notvisual You] have [/EN#250377/people two officers] pulling over [/EN#250378/other a BMW] for getting [/EN#250382/other a ticket] from [/EN#250377/people both officers] .
+[/EN#250377/people Two police officers] are talking to [/EN#250376/people someone] [/EN#0/notvisual who] 's inside [/EN#250378/vehicles a car] [/EN#0/notvisual they] stopped .
+[/EN#250376/people Someone] in [/EN#250379/other Europe] pulled over by [/EN#250377/people a motorcycle cop] .

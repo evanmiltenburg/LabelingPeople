@@ -1,0 +1,5 @@
+[/EN#115354/animals A brown and white dog] has caught [/EN#115355/other a yellow ball] in [/EN#115356/scene a grassy field] surrounded by [/EN#115358/other trees] .
+[/EN#115354/animals a brown dog] with [/EN#115355/other a yellow toy] in [/EN#115357/bodyparts his mouth] is jumping off [/EN#0/notvisual the grassy ground]
+[/EN#115354/animals A fluffy brown dog] jumping with [/EN#115355/other a ball] in [/EN#115357/bodyparts his mouth] .
+[/EN#115354/animals A white fluffy dog] is jumping and catching [/EN#115355/other a toy] .
+[/EN#115354/animals The shaggy dog] leaps and catches [/EN#115355/other the ball] .

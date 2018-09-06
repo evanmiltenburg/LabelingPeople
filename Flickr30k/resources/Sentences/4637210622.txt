@@ -1,0 +1,5 @@
+[/EN#185253/people A young man] is pouring [/EN#185255/other tea] from [/EN#185256/other a kettle] into [/EN#185254/other a glass] .
+[/EN#185253/people A male] pouring liquid into [/EN#185257/other a cup] out of [/EN#185256/other a tea kettle] .
+[/EN#185253/people a young man] pouring [/EN#185255/other tea] inside of [/EN#185254/other a glass jar] .
+[/EN#185253/people A man] is pouring [/EN#185255/other a hot liquid] from [/EN#185256/other a kettle] .
+[/EN#185253/people A boy] pours [/EN#185255/other tea] from [/EN#185256/other a pot] into [/EN#185254/other a glass] .

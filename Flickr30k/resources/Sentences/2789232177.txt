@@ -1,0 +1,5 @@
+[/EN#73071/people People] in [/EN#73078/scene a grocery store] crowd around to watch [/EN#73072/other a Tv] , except [/EN#73073/people one man] [/EN#0/notvisual who] walks toward [/EN#0/notvisual the camera] .
+[/EN#73071/people A group of people] standing around [/EN#73079/scene a grocery store] and watching [/EN#73074/other a tv] .
+[/EN#73071/people Several people] in [/EN#73079/scene a market] looking at [/EN#73081/other something] on [/EN#73075/other the television] .
+[/EN#0/notvisual There] are [/EN#73071/people people] watching [/EN#73074/other tv] and [/EN#73073/people a man] walking away in [/EN#73076/clothing a suit] .
+[/EN#73071/people A bunch of shoppers] watching [/EN#73072/other the TV screens] in [/EN#73077/scene a store] .

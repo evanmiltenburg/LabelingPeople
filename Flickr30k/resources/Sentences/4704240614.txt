@@ -1,0 +1,5 @@
+[/EN#193052/people A helmeted man] with [/EN#193053/other a camera] around [/EN#193055/bodyparts his neck] is riding [/EN#193054/vehicles a scooter] and waving [/EN#193056/other hello] .
+[/EN#193052/people A man] on [/EN#193054/vehicles a scooter] with [/EN#193057/clothing a red and white jacket] on and [/EN#193053/other a camera] around [/EN#193055/bodyparts his neck] .
+[/EN#193052/people A man] with [/EN#193053/other a camera] around [/EN#193055/bodyparts his neck] rides [/EN#193054/vehicles a moped] in [/EN#193058/scene a latin American country] .
+[/EN#193052/people A man] on [/EN#193054/vehicles a scooter] is waving to [/EN#0/notvisual the camera] .
+[/EN#193052/people A man] riding [/EN#193054/vehicles a scooter] is waving .

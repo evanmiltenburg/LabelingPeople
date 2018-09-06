@@ -1,0 +1,5 @@
+[/EN#230542/people An old man] wearing [/EN#230544/clothing a hooded sweatshirt] is crouched over [/EN#230543/animals a fish] [/EN#0/notvisual that] has been cut open .
+[/EN#230542/people An elderly man] in [/EN#230544/clothing coat] and [/EN#230545/clothing boots] prepares [/EN#230543/animals a freshly caught fish] .
+[/EN#230542/people An elderly woman] cleans [/EN#230543/scene fish outdoors] .
+[/EN#230542/people A man] preparing [/EN#230547/other something] to eat .
+[/EN#230542/people The old woman] cleaned [/EN#230543/animals the fish] .

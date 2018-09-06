@@ -1,0 +1,5 @@
+[/EN#16743/people A waiter] in [/EN#16744/clothing a black shirt] and [/EN#16745/clothing red & white checkered pants] clears [/EN#16746/other items] from [/EN#16747/other a table] onto [/EN#16748/other his tray] .
+[/EN#16743/people A man] in [/EN#16745/clothing checkered pants] [/EN#16744/clothing black jacket] and [/EN#16749/clothing a checkered hat] is holding [/EN#16748/other a waiters tray] .
+[/EN#16743/people A busboy] cleaning [/EN#16747/other the table] at [/EN#16750/scene an outdoor restaurant] .
+[/EN#16743/people A waiter] clears [/EN#16747/other a table] at [/EN#16752/other an outdoor cafe] .
+[/EN#16751/other An empty chair] at [/EN#16750/scene an upscale restaurant] .

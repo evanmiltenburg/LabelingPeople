@@ -1,0 +1,5 @@
+[/EN#259566/people A young male] wearing [/EN#259570/clothing black shorts] and [/EN#259569/clothing a red shirt] and holding [/EN#259567/other a bottle] is laying on [/EN#259571/scene the grass] next to [/EN#259568/other a tree] .
+[/EN#259566/people A young man] is lying underneath [/EN#259568/other a large tree] in [/EN#259572/scene a park] , holding [/EN#0/notvisual what] appears to be [/EN#259567/other a beer] .
+[/EN#259566/people A man] in [/EN#259569/clothing a red shirt] and [/EN#259574/other white sneakers lays] in [/EN#259571/scene the grass] beneath [/EN#259568/other a tree] .
+[/EN#259566/people A man] in [/EN#259570/clothing shorts] laying under [/EN#259568/other a large tree] .
+[/EN#259566/people Man] laying on [/EN#259573/other his back] underneath [/EN#259568/other a tree] .

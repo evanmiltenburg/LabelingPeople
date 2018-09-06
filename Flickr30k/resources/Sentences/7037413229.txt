@@ -1,0 +1,5 @@
+[/EN#264545/people A man] [/EN#0/notvisual who] wearing [/EN#264554/clothing blue color jacket] and [/EN#264555/clothing light green color trouser] is cleaning [/EN#264549/other his fishing nets] after [/EN#264553/other went] for [/EN#264551/other fishing] .
+[/EN#264545/people A fisherman] untangles [/EN#264549/other his fishing nets] in [/EN#264546/vehicles/scene his blue boat] as [/EN#0/notvisual it] sits on [/EN#264552/scene the water] .
+[/EN#264545/people A fisherman] is handling [/EN#264547/other a net] on [/EN#264546/vehicles/scene a small boat] near [/EN#264550/scene a dock] .
+[/EN#264545/people A man] stands on [/EN#264546/vehicles/scene a blue boat] , handling [/EN#264549/other fishing nets] .
+[/EN#264545/people A man] is standing in [/EN#264546/vehicles/scene a boat] holding [/EN#264547/other some netting] .

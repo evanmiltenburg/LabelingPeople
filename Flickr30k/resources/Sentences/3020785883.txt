@@ -1,0 +1,5 @@
+[/EN#88001/people A toddler] sits on [/EN#88004/scene the floor] amid [/EN#88005/other a floury mess] that [/EN#0/notvisual he] has created with [/EN#88008/bodyparts his hand] still in [/EN#88002/other the flour container] .
+[/EN#88001/people A little baby] is sitting on [/EN#0/notvisual the ground] with [/EN#88009/bodyparts his hands] in [/EN#88002/other a cup] .
+[/EN#88001/people A toddler] sits on [/EN#88007/other a white rug] and plays with [/EN#88003/other a cup of flour] .
+[/EN#88001/people A child] is playing in with [/EN#88010/other paint] in [/EN#88006/scene the kitchen] .
+[/EN#88001/people A little boy] play with [/EN#88003/other flour] on [/EN#88004/scene the floor] .

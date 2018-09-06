@@ -1,0 +1,5 @@
+[/EN#123949/people An umpire] in [/EN#123951/other a baseball game] crouches to catch [/EN#123950/other a ball] while [/EN#123952/people an opposing team member] runs to [/EN#123955/other homebase] .
+[/EN#123949/people A baseman] tries to catch [/EN#123950/other a ball] while [/EN#123952/people a runner] tries to make [/EN#123956/other the base] in [/EN#123951/other a community game] .
+[/EN#123949/people A baseball player] attempts to catch [/EN#123950/other a ball] while [/EN#0/notvisual another] runs towards [/EN#123955/other the base] .
+[/EN#123949/people A baseball player] catches [/EN#123950/other the ball] while [/EN#123949/people the batter] reaches [/EN#123956/other the base] .
+[/EN#123957/people Two children] are playing [/EN#123951/other baseball]

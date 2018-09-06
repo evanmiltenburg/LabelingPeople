@@ -1,0 +1,5 @@
+[/EN#131428/people A blond woman] in [/EN#131431/clothing a black shirt] is standing behind [/EN#131429/other a counter] .
+[/EN#131428/people A waitress] stands behind [/EN#131429/other a counter] full of [/EN#131430/other cakes] .
+[/EN#131428/people Woman] behind [/EN#131429/other the counter] running [/EN#131432/scene a shop] .
+[/EN#131428/people A lady] behind [/EN#131429/other the counter] selling [/EN#131430/other cake] .
+[/EN#131428/people a woman] is standing behind [/EN#131429/other a counter] .

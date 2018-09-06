@@ -1,0 +1,5 @@
+[/EN#147701/people A man] wearing [/EN#147710/clothing a blue hoodie] is [/EN#147703/other outside writing] on [/EN#147704/other a piece of paper] .
+[/EN#147701/people The man] is painting while sitting on [/EN#147702/scene the sidewalk] near [/EN#147706/other a white van] .
+[/EN#147701/people A balding painter] working on [/EN#147703/other a piece] on [/EN#147702/scene the street] in [/EN#147709/other the daytime] .
+[/EN#147701/people An artist] works [/EN#147707/other his craft] on [/EN#147702/scene a damp city sidewalk] in [/EN#147708/scene solitude] .
+[/EN#147701/people A man] is creating [/EN#147703/other art] outside .

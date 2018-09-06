@@ -1,0 +1,5 @@
+[/EN#185917/people A person] with [/EN#185927/bodyparts a ponytail] , [/EN#185920/clothing jean jacket] , walking near [/EN#185919/scene slitted fence] outside on [/EN#185922/scene a sunny day] .
+[/EN#185918/other The sunlight] casts [/EN#185921/scene long vertical shadows] on [/EN#185926/people the back of a young girls] [/EN#185920/clothing ' denim jacket] .
+[/EN#185919/scene A tall wrought-iron fence] casts [/EN#185921/scene horizontal shadows] in [/EN#185918/other the sun] on [/EN#185924/other a woman 's back] .
+[/EN#185917/people A woman] in [/EN#185920/clothing a striped denim jacket] is walking by [/EN#185919/scene a fence] .
+[/EN#185917/people A person] walking by [/EN#185919/other a window] with [/EN#185918/other the drapes] closed .

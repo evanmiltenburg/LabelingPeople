@@ -1,0 +1,5 @@
+[/EN#196275/people A curly-haired man] wearing [/EN#196277/clothing a long-sleeved gray shirt] is sitting bent over and reading [/EN#196276/other a book] .
+[/EN#196275/people A young man] sits with [/EN#196278/bodyparts his elbows] on [/EN#196279/bodyparts his legs] while [/EN#0/notvisual he] reads [/EN#196276/other a book] .
+[/EN#196275/people A man] is hunched over reading [/EN#196276/other a book] .
+[/EN#196275/people A man] becomes engulfed in [/EN#196276/other his book] .
+[/EN#196275/people A man] is sitting reading [/EN#196276/other a book] .

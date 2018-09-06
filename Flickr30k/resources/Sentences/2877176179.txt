@@ -1,0 +1,5 @@
+[/EN#78399/people A man] in [/EN#78406/clothing a cowboy hat] rides [/EN#78401/animals a rodeo horse] , as [/EN#78407/people another man] stands inside [/EN#78403/scene the enclosed area] and [/EN#78402/people a group of people] stand outside [/EN#78400/scene the gates] to watch .
+[/EN#78399/people A man] , wearing [/EN#78408/clothing cowboy attire] , is riding [/EN#78401/animals a horse] in [/EN#78404/other a rodeo] , while [/EN#78402/people a crowd] behind [/EN#78400/scene a barricaded fence] surrounds [/EN#0/notvisual him] .
+[/EN#78399/people A cowboy] rides [/EN#78401/animals a bucking bronco] in [/EN#78403/scene an arena] while [/EN#78402/people people] in [/EN#78409/scene the stands] watch [/EN#0/notvisual him] .
+[/EN#78399/people A cowboy] desperately tries to hang on to [/EN#78405/other a bucking] pinto [/EN#78401/animals horse] during [/EN#78404/other a rodeo] .
+[/EN#78399/people A cowboy] riding [/EN#78401/animals a bucking white , black and brown horse] .

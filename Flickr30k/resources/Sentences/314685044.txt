@@ -1,0 +1,5 @@
+[/EN#96484/people A woman] is standing near [/EN#96487/other a public phone] outside [/EN#96488/scene a bookstore] on [/EN#96485/scene a city street] .
+[/EN#96484/people A woman] in [/EN#96486/clothing a green coat] standing next to [/EN#96489/scene a telephone stand] .
+[/EN#96484/people Woman] standing next to [/EN#96487/other a public telephone] near [/EN#96485/scene the street] .
+[/EN#96484/people A woman] in [/EN#96486/clothing a green coat] is standing near [/EN#96487/other a pay phone] .
+[/EN#96484/people A woman] in [/EN#96486/clothing a coat] reclines next to [/EN#96487/other a pay phone] .

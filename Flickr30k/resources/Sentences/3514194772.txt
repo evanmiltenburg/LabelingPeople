@@ -1,0 +1,5 @@
+[/EN#123976/animals A brown dog] with [/EN#123978/bodyparts white paws] is trotting through [/EN#123977/scene a field of green grass] .
+[/EN#123976/animals A brown dog] is running through [/EN#123977/scene the grass] panting .
+[/EN#123976/animals A panting brown dog] walking on [/EN#123977/scene the grass] .
+[/EN#123976/animals A brown dog] is walking on [/EN#123977/scene the grass] .
+[/EN#123976/animals A brown dog] in running on [/EN#123977/scene grass] .

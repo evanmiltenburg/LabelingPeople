@@ -1,0 +1,5 @@
+[/EN#140412/scene A crane] is lifting [/EN#140420/people two people] up [/EN#140416/clothing a tan] and [/EN#140413/scene brick building] while [/EN#140419/people two other people] look on .
+[/EN#140411/people The construction crew] has brought in [/EN#140412/scene a crane] to assist in erecting [/EN#140421/scene ventilation shaft] .
+[/EN#140413/scene Large commercial brick building] with [/EN#140411/people construction workers] and [/EN#140414/other a heavy equipment] .
+[/EN#140411/people Construction workers] are working on [/EN#140415/other a pipe] on [/EN#140418/scene the side of a building] .
+[/EN#140412/scene A crane] is hoisting [/EN#140417/people someone] up next to [/EN#140413/scene a building] .

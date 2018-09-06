@@ -1,0 +1,5 @@
+[/EN#242634/people A young woman] inside [/EN#242643/scene a room] is handing [/EN#242639/people another woman] ( on [/EN#242645/scene the outside] ) [/EN#242635/other a toy doll] , with [/EN#242642/other a mattress] inside [/EN#242641/scene the room] and [/EN#242638/other a ladder] up against [/EN#242646/other the wall] outside [/EN#242637/scene the room] .
+[/EN#242634/people A woman] is handing [/EN#242636/other dolls] out of [/EN#242641/other a large window] to [/EN#242639/people another woman] outside on [/EN#242638/other a ladder] .
+[/EN#242634/people A young women] hands someone [/EN#242636/other a doll] , in [/EN#0/notvisual what] looks like [/EN#242640/scene a disaster area] .
+[/EN#242634/people A woman] is handing [/EN#242639/people another woman] [/EN#242635/other a baby doll] from [/EN#242637/scene a house] .
+[/EN#242634/people A young woman] gives [/EN#242636/other a doll] to [/EN#242639/people an older woman] .

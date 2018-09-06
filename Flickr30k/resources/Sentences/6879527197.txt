@@ -1,0 +1,5 @@
+[/EN#260220/people A boy] in [/EN#260221/clothing a bright blue shirt] with [/EN#260230/clothing white helmet] in on [/EN#260222/other a skateboard] doing [/EN#0/notvisual tricks] on [/EN#260227/scene a ramp] .
+[/EN#260220/people A boy] in [/EN#260221/clothing a blue shirt] is on [/EN#260222/other a skateboard] in [/EN#260223/scene midair] doing [/EN#260224/other stunt] , while [/EN#260229/other others] watch .
+[/EN#260220/people A skateboarder] performing [/EN#0/notvisual an aerial trick] on [/EN#260225/other a half pipe] .
+[/EN#260220/people a kid] performing [/EN#260228/other his talent] of skating with [/EN#260222/other skateboards]
+[/EN#260220/people A skateboarder] flies through [/EN#0/notvisual the air] .

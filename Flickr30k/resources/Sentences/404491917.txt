@@ -1,0 +1,5 @@
+[/EN#153060/people A black-haired swimmer] in [/EN#153061/scene a pool] .
+[/EN#153060/people a man] is swimming inside of [/EN#153061/scene a pool]
+[/EN#153060/people Man] with [/EN#153062/bodyparts black hair] is swimming .
+[/EN#153060/people Someone] is swimming in [/EN#153061/scene a pool] .
+[/EN#153060/people Swimmer] doing [/EN#153063/bodyparts laps] in [/EN#153061/scene a pool] .

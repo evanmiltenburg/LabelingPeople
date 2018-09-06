@@ -1,0 +1,5 @@
+[/EN#8356/people Two people] , [/EN#8354/people a boy] in [/EN#8350/clothing yellow] and [/EN#8355/people girl] in [/EN#8351/clothing brown] , standing at [/EN#8349/scene the shore of a lake] .
+[/EN#8354/people A boy] and [/EN#8355/people a slightly older girl] stand on [/EN#8349/scene the shore of a small blue lake] .
+[/EN#8354/people A boy] and [/EN#8355/people a girl] are standing on [/EN#8352/other a riverbank] facing [/EN#8353/scene the water] .
+[/EN#8355/people A young woman] and [/EN#8354/people a young boy] stand on [/EN#8349/scene the shore of a river] .
+[/EN#8356/people Two people] stand by [/EN#8353/scene the water 's edge] .

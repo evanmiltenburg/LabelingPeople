@@ -1,0 +1,5 @@
+[/EN#94176/people A man] in [/EN#94177/clothing a tan jacket] and [/EN#94178/clothing blue jeans] is sitting on [/EN#94179/other a bench] playing [/EN#94180/instruments the guitar] , with [/EN#94181/people another man] close-by .
+[/EN#94176/people A man] in [/EN#94177/clothing a brown jacket] is playing [/EN#94180/instruments an acoustic guitar] while [/EN#94181/people a man] dressed in [/EN#94182/clothing black] is sitting near [/EN#0/notvisual him] .
+[/EN#94176/people A man] is playing [/EN#94180/instruments a guitar] on [/EN#94179/other a bench] in [/EN#94184/other the woods] and [/EN#94181/people another man] is praying on [/EN#94183/other another bench] .
+[/EN#94176/people A man] in [/EN#94177/clothing a beige jacket] is playing [/EN#94180/instruments a guitar] as [/EN#0/notvisual he] sits on [/EN#94183/other a bench] .
+[/EN#94176/people The man] is listening to [/EN#94176/people the guitar player] .

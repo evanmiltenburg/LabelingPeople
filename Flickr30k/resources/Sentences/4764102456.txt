@@ -1,0 +1,5 @@
+[/EN#200530/people A woman] with [/EN#200535/bodyparts blond-hair] , wearing [/EN#200531/clothing a white shirt] is standing on [/EN#200527/scene a street] among [/EN#200534/people other people] .
+[/EN#200526/people A man] taking [/EN#200530/people a cellphone picture of a woman] in [/EN#200531/clothing white] on [/EN#200527/scene a crowded street] .
+[/EN#200526/people A man] in [/EN#200533/clothing a Hawaiian shirt] takes [/EN#200530/people a photo of a woman] wearing white .
+[/EN#200526/people A man] is taking [/EN#200530/people a picture of a woman] on [/EN#200527/scene a crowded street] .
+[/EN#200527/scene Crowded street] with [/EN#200526/people a man] taking [/EN#200528/other a photo] with [/EN#200529/other his phone] .

@@ -1,0 +1,5 @@
+[/EN#249726/people A person] wearing [/EN#249726/other protective clothing coverings] is sitting in front of [/EN#249728/other a microscope] .
+[/EN#249726/people A medical professional] operating [/EN#249728/other a microscope] and viewed on [/EN#249727/other a computer] .
+[/EN#249726/people A researcher] analyzes [/EN#249732/other the image] being displayed from [/EN#249728/other the microscope] .
+[/EN#249726/people a woman] in [/EN#249729/clothing a hairnet] looks at [/EN#249733/other a sample] under [/EN#249728/other a microscope] .
+[/EN#249726/people A woman] in [/EN#249726/clothing a lab suit] operates [/EN#249727/other a computer] and [/EN#249728/other microscope] .

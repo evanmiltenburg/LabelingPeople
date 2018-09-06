@@ -1,0 +1,5 @@
+[/EN#180504/people An older man] in [/EN#180508/clothing a white plaid shirt] is using [/EN#180505/other a sewing machine] , stitching [/EN#180507/other some fabric] .
+[/EN#180504/people An older man] in [/EN#180508/clothing a plaid shirt] sews on [/EN#180505/other a Singer sewing machine] .
+[/EN#180504/people A man] with [/EN#180508/clothing a white shirt] sowing [/EN#180507/other a piece of fabric] .
+[/EN#180504/people A man] with [/EN#180506/bodyparts a beard] is using [/EN#180505/other a sewing machine] .
+[/EN#180504/people A man] with [/EN#180506/bodyparts a beard] and [/EN#180509/bodyparts gray hair] is sewing .

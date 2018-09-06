@@ -1,0 +1,5 @@
+[/EN#99001/people an older man] with [/EN#99005/bodyparts long gray hair] and [/EN#99006/vehicles a long gray beard bike] riding on [/EN#99002/scene the shore] .
+[/EN#99001/people Gentleman] with [/EN#99005/bodyparts long gray hair] and [/EN#99003/bodyparts a beard] riding [/EN#99004/vehicles bicycle] on [/EN#99002/scene the beach] .
+[/EN#99001/people A man] with [/EN#99003/bodyparts a gray beard] rides [/EN#99004/vehicles his bike] on [/EN#99002/scene the beach of the ocean] .
+[/EN#99001/people A white-bearded man] rides [/EN#99004/vehicles a bicycle] on [/EN#99002/scene the beach] .
+[/EN#99001/people A bearded man] is riding [/EN#99004/vehicles a bicycle] on [/EN#99002/scene the beach] .

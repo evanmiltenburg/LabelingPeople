@@ -1,0 +1,5 @@
+[/EN#275667/people A man] in [/EN#275670/clothing a yellow helmet] is kayaking in [/EN#275669/other a pink kayak] with [/EN#275675/other the phrase] 'Scrambler 11' written on [/EN#0/notvisual the left back side] .
+[/EN#275667/people A woman] wearing [/EN#275676/clothing a pink shirt] and [/EN#275670/other yellow helmet paddles] around in [/EN#275669/other a pink kayak] .
+[/EN#275667/people A person] is in [/EN#275669/other a pink kayak] , paddling on [/EN#275674/scene a beautiful body of water] .
+[/EN#275667/people Someone] out [/EN#275673/other Kayaking] , Near [/EN#275677/scene a town] , [/EN#0/notvisual it] is [/EN#275668/scene a beautiful day] .
+[/EN#275667/people A person] kayaking on [/EN#275668/scene a sunny day] .

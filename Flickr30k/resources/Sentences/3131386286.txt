@@ -1,0 +1,5 @@
+[/EN#95606/people An elderly woman] walks down [/EN#95607/scene a path] holding [/EN#95612/clothing two white bags] .
+[/EN#95606/people A woman] carrying [/EN#95608/clothing plastic bags] walks down [/EN#95607/scene a scenic path] .
+[/EN#0/notvisual There] is [/EN#95606/people a lady] walking with [/EN#95608/clothing bag] possibly groceries
+[/EN#95606/people Someone] walking down [/EN#95607/scene a path] in [/EN#95611/other the woods] .
+[/EN#95606/people A woman] walking [/EN#95610/scene home] with [/EN#95609/other her groceries] .

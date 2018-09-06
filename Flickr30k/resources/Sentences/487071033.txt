@@ -1,0 +1,5 @@
+[/EN#213348/people Boy] dressed in [/EN#213353/clothing black] is doing [/EN#0/notvisual a skateboarding jump] with [/EN#213349/people a crowd] watching .
+[/EN#213349/people People] watching [/EN#213348/people a guy] in [/EN#213351/clothing a black and green baseball cap] skateboarding .
+[/EN#213348/people A man] does skateboard [/EN#0/notvisual tricks] off [/EN#213352/scene a ramp] while [/EN#213354/other others] watch .
+[/EN#213348/people A skateboarder] doing [/EN#0/notvisual a trick] off [/EN#213352/other a quarter pipe] .
+[/EN#213348/people A skateboarder] does [/EN#0/notvisual a trick] for [/EN#213349/people an audience] .

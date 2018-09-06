@@ -1,0 +1,5 @@
+[/EN#41944/people A woman] wearing [/EN#41950/clothing a blue and white dress] washes [/EN#41946/bodyparts a man 's hair] while [/EN#0/notvisual he] sits in [/EN#41947/other a barber 's chair] .
+[/EN#41943/people An Asian man] is at [/EN#41945/scene a hair salon] getting [/EN#41948/other a shampoo] from [/EN#41944/people an Asian hair stylist] .
+[/EN#41943/people A man] gets [/EN#41946/bodyparts his hair] washed by [/EN#41944/people a woman] in [/EN#0/notvisual what] seems to be [/EN#41945/scene a barber shop] .
+[/EN#41944/people A woman] is shampooing and man [/EN#41949/bodyparts 's head] in [/EN#41945/scene a hair salon] .
+[/EN#41943/people Asian man] is at [/EN#41945/scene a salon] getting [/EN#41946/bodyparts his hair] done .

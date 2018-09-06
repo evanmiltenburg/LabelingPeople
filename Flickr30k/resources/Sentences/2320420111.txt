@@ -1,0 +1,5 @@
+[/EN#41476/people A guy] is riding [/EN#41477/vehicles his bike] next to [/EN#41479/scene a brick building] with [/EN#41478/other bright blue doors] .
+[/EN#41476/people A man] in [/EN#41477/vehicles a bicycle] is passing through [/EN#41479/scene a house] with [/EN#41478/other blue doors] .
+[/EN#41476/people A man] rides [/EN#41477/vehicles a bike] on [/EN#41480/scene a dirt road] past [/EN#41478/other a blue door] .
+[/EN#41476/people Man] in [/EN#41481/clothing black shirt] riding [/EN#41477/vehicles a bike] near [/EN#41479/scene a building] .
+[/EN#41476/people A man] on [/EN#41477/vehicles a bicycle] rides past [/EN#41478/other a bright blue door] .

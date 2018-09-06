@@ -1,0 +1,5 @@
+[/EN#224582/people A man] wearing [/EN#224594/clothing a powder blue shirt] , [/EN#224595/clothing khakis] and [/EN#224596/clothing gray tennis shoes] sits beside [/EN#224583/people a Muslim mother] wearing [/EN#224597/clothing a navy scarf] , [/EN#224598/clothing gray skirt] , [/EN#224599/clothing turquoise shirt] with [/EN#224586/people her son] sleeping on [/EN#224600/bodyparts her knee] behind [/EN#224587/other a large suitcase] at [/EN#224590/scene a bus station] .
+[/EN#224582/people A man] , [/EN#224583/people woman] and [/EN#224593/people child] are sitting on [/EN#224592/other benches] with [/EN#224587/other luggage] , waiting .
+[/EN#224582/people a man] and [/EN#224583/people a woman] are sitting on [/EN#224585/other a bench] with [/EN#224587/other luggage] nearby .
+[/EN#224582/people A man] , [/EN#224583/people woman] , [/EN#224586/people child] sitting on [/EN#224584/other benches] waiting for [/EN#224589/vehicles/scene the bus] .
+[/EN#224588/people A family] waiting on [/EN#224585/other a public bench] with [/EN#224587/other their luggage] .

@@ -1,0 +1,5 @@
+[/EN#182228/people Two gentlemen] in [/EN#182232/clothing top hats] and [/EN#182230/people a well-dressed lady] in [/EN#182229/clothing a straw hat] ride in [/EN#182227/vehicles a green and red carriage] pulled by [/EN#182226/animals four white horses] .
+[/EN#182226/animals Four white horses] are pulling [/EN#182227/vehicles a carriage] [/EN#0/notvisual that] has [/EN#182225/people people] sitting in [/EN#0/notvisual it] , [/EN#0/notvisual one of them] are waving .
+[/EN#182225/people A group of middle-aged people] ride [/EN#182227/vehicles a horse drawn carriage] while dressed in [/EN#182231/clothing historical costumes] .
+[/EN#182225/people a group of people] being pulled in [/EN#182227/vehicles a horse buggy] by [/EN#182226/animals 4 horses] on [/EN#182233/scene a grassy field] .
+[/EN#182225/people Three people] are riding [/EN#182227/vehicles a carriage] pulled by [/EN#182226/animals four horses] .

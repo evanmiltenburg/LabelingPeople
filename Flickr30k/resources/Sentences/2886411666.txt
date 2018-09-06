@@ -1,0 +1,5 @@
+[/EN#79038/animals a black , brown and white dog] is running beside [/EN#79039/scene a green fence] in [/EN#79040/scene a grassy garden] .
+[/EN#79038/animals A tri-colored dog] is running on [/EN#79040/scene the green grass] .
+[/EN#79038/animals Dog] running through [/EN#79040/scene grass] in [/EN#79041/scene fenced in area] .
+[/EN#79038/animals A dog] runs through [/EN#79040/scene a lush , green lawn] .
+[/EN#79038/animals A dog] is galloping through [/EN#79040/scene the grass] .

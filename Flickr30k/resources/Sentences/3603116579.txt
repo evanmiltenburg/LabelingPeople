@@ -1,0 +1,5 @@
+[/EN#130842/people A baseball player] in [/EN#130844/clothing a black and orange shirt] , and with [/EN#130846/clothing a glove] on , [/EN#130849/scene pitches] [/EN#130843/other the ball] .
+[/EN#130842/people A baseball pitcher] with [/EN#130845/other Shelton] on [/EN#130844/clothing his shirt] throws [/EN#130843/other the ball] .
+[/EN#130842/people A male] dressed in [/EN#130847/clothing a sports outfit] tries to catch [/EN#130843/other a baseball] .
+[/EN#130842/people The baseball player] is running after [/EN#130843/other the ball] .
+[/EN#130842/people A man] playing [/EN#130848/other baseball] .

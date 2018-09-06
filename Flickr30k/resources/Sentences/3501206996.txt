@@ -1,0 +1,5 @@
+[/EN#123124/people A child] in [/EN#123125/clothing a brown coat] is kicking [/EN#123127/other a soccer ball] across [/EN#123126/scene an open field] .
+[/EN#123124/people The young boy] wearing [/EN#123125/clothing a brown coat] is playing [/EN#123128/other soccer] .
+[/EN#123124/people A child] in [/EN#123125/clothing a gray coat] kicking [/EN#123127/other a soccer ball] .
+[/EN#123124/people Child] playing with [/EN#123127/other soccer ball] in [/EN#123126/scene a field] .
+[/EN#123124/people A child] kicks [/EN#123127/other a soccer ball] .

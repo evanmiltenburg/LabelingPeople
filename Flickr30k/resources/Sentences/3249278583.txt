@@ -1,0 +1,5 @@
+[/EN#104289/animals A team of dogs] pulls [/EN#104293/other a sleigh] holding [/EN#104291/people two people] across [/EN#104292/scene the snow] .
+[/EN#104290/other A dog sled] with [/EN#104291/people two passengers] travelling through [/EN#104292/scene the snow] .
+[/EN#104291/people Two people] on [/EN#104290/other a sled] pulled by [/EN#104289/animals a team of dogs] .
+[/EN#104291/people Two people] are on [/EN#104290/other a sled] pulled by [/EN#104294/animals many dogs] .
+[/EN#104289/people A complete dog sled team] in [/EN#104295/other motion] .

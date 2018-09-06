@@ -1,0 +1,5 @@
+[/EN#120230/people man] wearing [/EN#120232/clothing glasses] with [/EN#120231/bodyparts his mouth] being held open and examined by [/EN#120229/people a dentist] .
+[/EN#120230/people A man] is having [/EN#120231/bodyparts his teeth] inspected by [/EN#120229/people a dentist] .
+[/EN#120230/people A dentist patient] is having [/EN#120231/bodyparts his teeth] looked at
+[/EN#120230/people A man] with [/EN#120232/clothing glasses] is at [/EN#120229/people the dentist] .
+[/EN#120229/people A dentist] working in [/EN#120231/bodyparts a man 's mouth] .

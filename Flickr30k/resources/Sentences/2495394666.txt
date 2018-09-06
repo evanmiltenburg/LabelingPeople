@@ -1,0 +1,5 @@
+[/EN#53322/animals The brown dog] is swimming in [/EN#53323/scene the water] .
+[/EN#53322/animals A brown dog] is swimming in [/EN#53323/scene a creek] .
+[/EN#53322/animals A brown dog] is standing in [/EN#53323/scene a lake] .
+[/EN#53322/animals Dog] swimming in [/EN#53323/scene body of water]
+[/EN#53322/animals A dog] swimming in [/EN#53323/scene a pond]

@@ -1,0 +1,5 @@
+[/EN#232133/people A man] , wearing [/EN#232137/clothing a cap] , is pushing [/EN#232139/vehicles a cart] , on [/EN#0/notvisual which] [/EN#232135/other large display boards] are kept , on [/EN#232134/scene a road] .
+[/EN#232133/people A man] in [/EN#232138/clothing white] holds on to [/EN#232135/other large pieces of something] as [/EN#0/notvisual they] are driven down [/EN#232134/scene the road] .
+[/EN#232133/people A man] is transporting [/EN#232135/other flat objects] down [/EN#232134/scene the street] .
+[/EN#232136/people Two people] transport [/EN#232135/other a wide load] .
+[/EN#232133/people A man] taking [/EN#232135/other frames] on [/EN#232134/scene the road] .

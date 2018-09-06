@@ -1,0 +1,5 @@
+[/EN#20765/people A young boy] is walking towards [/EN#20767/animals a seagull] on [/EN#20764/scene the shoreline of a beach] .
+[/EN#20765/people A boy] in [/EN#20763/clothing a swimsuit] walking in [/EN#20764/other the sand] towards [/EN#20768/scene the water]
+[/EN#20765/people A little boy] on [/EN#20764/scene a beach] runs towards [/EN#20768/scene the water] .
+[/EN#20765/people A boy] is running towards [/EN#20767/animals a seagull] on [/EN#20764/scene a beach] .
+[/EN#20765/people A young boy] chasing [/EN#20767/animals a gull] on [/EN#20764/scene the beach]

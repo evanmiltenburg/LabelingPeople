@@ -1,0 +1,5 @@
+[/EN#198774/people A man] without [/EN#198781/clothing a shirt] is working on top of [/EN#198776/scene a building] with [/EN#198778/other scaffolding] attached .
+[/EN#198774/people A man] with [/EN#198783/clothing a hat] but [/EN#198781/clothing no shirt] attaches [/EN#198780/other something] to [/EN#198776/scene a building 's roof] .
+[/EN#198774/people Man] during [/EN#198776/scene sunny afternoon top of roof] fixing [/EN#198784/other light] without [/EN#198781/clothing shirt] .
+[/EN#198774/people A man] using [/EN#198778/other a scaffold] to work on [/EN#198775/scene the roof of a building] .
+[/EN#198774/people A man] is perched on [/EN#198776/scene a rooftop] .

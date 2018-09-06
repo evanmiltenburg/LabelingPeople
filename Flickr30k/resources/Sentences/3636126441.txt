@@ -1,0 +1,5 @@
+[/EN#133044/people A boy] flipping off [/EN#133047/other a skateboard] going down [/EN#133045/scene a flight of stairs]
+[/EN#133044/people Boy] jumping off [/EN#133047/other skateboard] as [/EN#0/notvisual it] goes down [/EN#133045/other the stairs] .
+Skateboarding on [/EN#133045/other stairs] , with [/EN#0/notvisual open air trick] .
+[/EN#133044/people A skateboarder] leaps over [/EN#133045/other stairs] in [/EN#133050/scene a city] .
+[/EN#133044/people The skateboarder] does [/EN#0/notvisual a jump] down [/EN#133045/other stairs] .

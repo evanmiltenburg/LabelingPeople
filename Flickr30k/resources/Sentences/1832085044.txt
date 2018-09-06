@@ -1,0 +1,5 @@
+[/EN#21671/animals A gray and white cat] sits behind [/EN#21673/other a sheet music copy of Chopin] [/EN#21676/other 's Prelude] in [/EN#21674/other A Major] .
+[/EN#21671/animals A cat] is in [/EN#21675/scene a room] staring at [/EN#21673/other sheet music] while sitting next to [/EN#21672/other a glass lamp base] .
+[/EN#21671/animals A cat] sits on [/EN#21678/instruments a piano] behind [/EN#21673/other open sheet music] and [/EN#21672/other a glass lamp] [/EN#0/notvisual that] is on .
+[/EN#21671/animals A cat] looks out over [/EN#21673/scene the top of a music sheet] from behind [/EN#21672/other a lamp] .
+[/EN#21671/animals A satisfied cat] is perched beside [/EN#21672/other a crystal lamp] .

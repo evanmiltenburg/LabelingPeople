@@ -1,0 +1,5 @@
+[/EN#99393/people A man] in [/EN#99394/clothing a black shirt] and [/EN#99397/clothing blue jeans] reads [/EN#99395/other a book] on [/EN#99396/other his couch] .
+[/EN#99393/people A balding man] in [/EN#99394/clothing a black Enrolling Stones T-shirt] reads [/EN#99395/other a book] .
+[/EN#99393/people A man] is sitting looking at [/EN#99395/other a book] .
+[/EN#99393/people man] in [/EN#99394/clothing black shirt] reading [/EN#99395/other a book] .
+[/EN#99393/people A man] on [/EN#99396/other a couch] reading [/EN#99395/other a book] .

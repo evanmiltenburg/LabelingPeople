@@ -1,0 +1,5 @@
+[/EN#34141/people The man] wearing [/EN#34147/clothing black] makes [/EN#34148/bodyparts a face] as [/EN#34144/people the woman] across from [/EN#0/notvisual him] speaks .
+[/EN#34141/people A man] and [/EN#34144/people woman] sit at [/EN#34143/other a table] inside [/EN#34142/scene a fast food restaurant] .
+[/EN#34140/people A couple] sits at [/EN#34143/other a cramped table] in [/EN#34142/scene a busy restaurant] .
+[/EN#34141/people A man] and [/EN#34144/people woman] sit at [/EN#34143/other a table] in [/EN#34142/scene a restaurant] .
+[/EN#34140/people A couple] sits at [/EN#34143/other a table] for [/EN#34146/other lunch] in [/EN#34145/other a mall] .

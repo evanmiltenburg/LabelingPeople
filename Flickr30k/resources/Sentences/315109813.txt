@@ -1,0 +1,5 @@
+[/EN#96822/people A woman] in [/EN#96825/clothing a transparent gown] holds [/EN#96821/people an unconscious child] with [/EN#96823/other an arm cast] and [/EN#96828/other tube] secured to [/EN#96827/bodyparts their cheek] .
+[/EN#96822/people A woman] in [/EN#96825/clothing a yellow hospital gown] is holding [/EN#96821/people a sleeping child] [/EN#0/notvisual that] has [/EN#96823/other a cast] on [/EN#96824/bodyparts/people the right arm] .
+[/EN#96822/people A woman] wearing [/EN#96825/other a yellow cover] up is holding [/EN#96821/people a young child] [/EN#0/notvisual who] has [/EN#96823/bodyparts/people a cast of their arm] .
+[/EN#96822/people A woman] in [/EN#96825/clothing yellow scrubs] is sitting in [/EN#96822/scene a hospital] , holding [/EN#96821/people a child] [/EN#0/notvisual that] is sick .
+[/EN#96821/people A child] [/EN#0/notvisual who] has hurt [/EN#96824/bodyparts/people her arm] is being held by [/EN#96822/people her mother] .

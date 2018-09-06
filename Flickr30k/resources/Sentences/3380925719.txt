@@ -1,0 +1,5 @@
+[/EN#114351/people A child] with [/EN#114355/clothing a striped shirt] and [/EN#114356/clothing no shoes] on [/EN#114357/other rides] [/EN#114354/people the shoulders of a man] with [/EN#114353/clothing a red sweatshirt] .
+[/EN#114351/people A little boy] sits on [/EN#114354/people the shoulders of a man] wearing [/EN#114353/clothing red shirt] .
+[/EN#114352/people A man] in [/EN#114353/clothing a red sweater] holds [/EN#114351/people a child] on top of [/EN#114354/bodyparts his shoulders] .
+[/EN#114352/people A man] in [/EN#114353/clothing a red shirt] is holding [/EN#114351/people an infant] on [/EN#114354/bodyparts his shoulders] .
+[/EN#114352/people A man] holds [/EN#114351/people his child] on [/EN#114354/bodyparts his shoulders] .

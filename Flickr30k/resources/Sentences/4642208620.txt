@@ -1,0 +1,5 @@
+[/EN#185809/people A man] with [/EN#185810/clothing a dark jacket] , [/EN#185818/clothing shirt] , and [/EN#185812/clothing pants] , standing near [/EN#185811/other a grill] with [/EN#185813/bodyparts one hand] holding [/EN#185819/other the handle of the grill] [/EN#185814/other 's lid] .
+[/EN#185809/people A man] wearing [/EN#185810/clothing a gray jacket] , [/EN#185810/clothing black shirt] , and [/EN#185812/clothing gray pants] is standing by [/EN#185811/other a grill] on [/EN#185816/other a deck] on [/EN#185820/scene a cloudy evening] .
+[/EN#185809/people The man] wearing [/EN#185810/clothing a jacket] has [/EN#185813/bodyparts his hand] on [/EN#185815/other the handle of a closed outdoor grill] .
+[/EN#185809/people A man] in [/EN#185810/clothing a black jacket] is touching [/EN#185811/other a grill] .
+[/EN#185809/people A man] standing in front of [/EN#185811/other a grill] .

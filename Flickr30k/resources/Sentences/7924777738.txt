@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] are [/EN#276657/people two people] running around [/EN#276661/scene a track] in [/EN#276660/other lane three] and [/EN#276662/other the one] wearing [/EN#276664/clothing a blue shirt] with [/EN#276667/other a green thing] over [/EN#276672/bodyparts the eyes] is just barely ahead of [/EN#276668/people the guy] wearing [/EN#276658/clothing an orange shirt] and [/EN#276671/clothing sunglasses] .
+[/EN#276657/people Two people] , [/EN#276668/other one] with [/EN#276658/clothing a bright orange shirt] and [/EN#276669/clothing green pants] , [/EN#276662/other the other] with [/EN#276666/clothing a green shirt] , are running [/EN#0/notvisual side] by [/EN#0/notvisual side] in [/EN#276660/other lane three] on [/EN#276661/scene a track] .
+[/EN#276657/people Two people] share [/EN#276660/other a lane] on [/EN#276661/scene a red rubber track] as [/EN#276659/other the run] into [/EN#276665/other the curve] .
+[/EN#276663/scene Two track] and [/EN#276657/people field sprinters] are running [/EN#0/notvisual side] by [/EN#0/notvisual side] .
+[/EN#276657/people Two people] are running in [/EN#276659/other a competition] on [/EN#276661/scene a track] .

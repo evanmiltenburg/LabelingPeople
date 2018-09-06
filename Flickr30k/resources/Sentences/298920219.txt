@@ -1,0 +1,5 @@
+[/EN#85807/animals The black dog] is swimming in [/EN#85809/scene a lake] with [/EN#85808/animals a white duck] .
+[/EN#85807/animals a dog] and [/EN#85808/animals a redheaded bird] are swimming in [/EN#85809/scene the water]
+[/EN#85808/animals The white duck] is swimming with [/EN#85807/animals a black dog]
+[/EN#85807/animals A black dog] and [/EN#85808/animals a goose] swim in [/EN#85809/scene the water] .
+[/EN#85808/animals White duck] with [/EN#85810/bodyparts red face] swimming

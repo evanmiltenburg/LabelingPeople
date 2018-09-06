@@ -1,0 +1,5 @@
+[/EN#204931/people A gray-haired man] is standing on [/EN#204934/scene a sidewalk] in front of [/EN#204934/scene a busy street] .
+[/EN#204931/people White-haired man] looking down [/EN#204934/scene a street] with [/EN#204933/people pedestrians] .
+[/EN#0/notvisual There] are [/EN#204932/people many people] spread out across [/EN#204937/scene an urban area] .
+[/EN#204932/people People] crossing [/EN#204934/scene the street] and [/EN#204931/people a man] on [/EN#204935/scene the sidewalk] .
+[/EN#204933/people The peoples] walking in [/EN#204936/scene the road]

@@ -1,0 +1,5 @@
+[/EN#9468/animals A brown dog] on [/EN#9469/clothing a leash] runs through [/EN#9470/scene the white water] .
+[/EN#9468/animals A tan dog] on [/EN#9469/clothing a leash] running in [/EN#9470/scene shallow ocean water] .
+[/EN#9468/animals A wet dog] on [/EN#9469/clothing a leash] is running through [/EN#9470/scene some water] .
+[/EN#9468/animals Brown dog] running through [/EN#9470/scene shallow water] .
+[/EN#9468/animals A soaked dog] is playing in [/EN#9470/scene the water] .

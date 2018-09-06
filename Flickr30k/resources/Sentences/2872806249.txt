@@ -1,0 +1,5 @@
+[/EN#78093/people An elderly person] in [/EN#78097/clothing bright orange overalls] is standing along side [/EN#78096/scene a street] .
+[/EN#78093/people A person] wearing [/EN#78097/clothing orange overalls] stands on [/EN#78095/scene the sidewalk] .
+[/EN#78093/people The man] in [/EN#78097/clothing the red overalls] stands on [/EN#78095/scene the sidewalk] .
+[/EN#78094/people Woman] in [/EN#78097/clothing red overalls] standing on [/EN#78095/scene the sidewalk] .
+[/EN#78094/people A woman] in [/EN#78097/clothing red overalls] stands on [/EN#78095/scene sidewalk] .

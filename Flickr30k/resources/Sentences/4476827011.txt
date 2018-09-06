@@ -1,0 +1,5 @@
+[/EN#171531/people A group of men] walk down [/EN#171534/scene the middle of a street] [/EN#0/notvisual that] has [/EN#171535/other poles] lining [/EN#171530/scene the street] .
+[/EN#171533/people A group of people] are walking down [/EN#171530/scene a road] .
+[/EN#171531/people People] walking down [/EN#171530/scene the street] in [/EN#171532/scene a city] .
+[/EN#171531/people A group of men] walk down [/EN#171532/scene a city street] .
+[/EN#171531/people People] walking down [/EN#171530/scene A European Street] .

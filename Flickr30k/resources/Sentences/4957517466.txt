@@ -1,0 +1,5 @@
+[/EN#223171/people A group of jacketed people] are marching down [/EN#223173/scene the street] in [/EN#223178/other the rain] while [/EN#223179/vehicles cars] drive along side [/EN#0/notvisual them] .
+[/EN#223170/people A couple] sharing [/EN#223174/clothing an umbrella] walk down [/EN#223172/scene the sidewalk] , passing [/EN#223171/people more people] on [/EN#223175/scene the street] .
+[/EN#223171/people Crowds of people] walking down [/EN#223175/scene street] , [/EN#223170/people couple] in [/EN#0/notvisual foreground] with [/EN#223174/clothing umbrella] .
+[/EN#223176/people A woman] with [/EN#223174/clothing an umbrella] and [/EN#223171/people other people] walking on [/EN#223173/scene a street] .
+[/EN#223171/people People] walking on [/EN#223173/scene a busy street] with [/EN#223177/clothing umbrellas] .

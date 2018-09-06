@@ -1,0 +1,5 @@
+[/EN#254978/animals A large black and white dog] is licking [/EN#254979/animals a smaller white and black dog] [/EN#0/notvisual who] is growling .
+[/EN#254979/animals A dog] sits back on [/EN#254982/bodyparts his hind legs] and [/EN#254978/animals another dog] stoops down .
+[/EN#254980/animals Two black and white dogs] are playing together outside .
+[/EN#254979/animals A smaller puppy] playfully nips at [/EN#254978/animals a larger dog] .
+[/EN#254978/animals A big dog] sniffs [/EN#254979/animals a little dog] .

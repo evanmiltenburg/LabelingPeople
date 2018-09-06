@@ -1,0 +1,5 @@
+[/EN#38865/animals The dog] with [/EN#38868/clothing the green collar] and [/EN#38867/other ball] is running behind [/EN#38866/animals the dog] with [/EN#38869/clothing the red collar]
+[/EN#38862/animals Two dogs] enjoy playing in [/EN#38863/scene the cold of the snow] .
+[/EN#38862/animals Two dogs] play in [/EN#38863/scene the snow] together .
+[/EN#38862/animals Two dogs] run through [/EN#38864/scene the snow] .
+[/EN#38862/animals Two dogs] play in [/EN#38864/scene the snow] .

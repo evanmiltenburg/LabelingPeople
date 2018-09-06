@@ -1,0 +1,5 @@
+[/EN#5455/people A young lady] with [/EN#5456/bodyparts brown hair] is reading [/EN#5457/other a compass] while [/EN#5458/people the man] next to [/EN#0/notvisual her] points to [/EN#5460/other a paper] .
+[/EN#5461/people Two people] walking down [/EN#5462/scene a dirt trail] with [/EN#5466/clothing backpacks] on looking at [/EN#5463/other items] [/EN#0/notvisual they] are carrying .
+[/EN#5461/people Two young male hikers] using [/EN#5460/other a map] and [/EN#5457/other compass] to find [/EN#0/notvisual their direction] in [/EN#5464/other the woods] .
+[/EN#5461/people Two people] are on [/EN#5462/scene a path] using [/EN#5460/other a map] and [/EN#5457/other a compass] .
+[/EN#5455/people A woman] and [/EN#5458/people a man] in [/EN#5465/scene a forest] .

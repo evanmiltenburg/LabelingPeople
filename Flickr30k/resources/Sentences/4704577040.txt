@@ -1,0 +1,5 @@
+[/EN#193060/people A bald man] stands next to [/EN#193062/other a pay phone] , looking [/EN#0/notvisual the other direction] .
+[/EN#193060/people A thin man] in [/EN#193061/clothing a maroon shirt] standing next to [/EN#193062/other a pay phone] .
+[/EN#193060/people An older bald man] stands in front of [/EN#193064/other a white brick wall] .
+[/EN#193060/people A bald man] standing with [/EN#193065/bodyparts his hand] down [/EN#193063/clothing his pants] .
+[/EN#193060/people A bald man] tucks [/EN#193061/clothing his shirt] into [/EN#193063/clothing his pants] .

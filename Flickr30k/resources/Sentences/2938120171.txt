@@ -1,0 +1,5 @@
+[/EN#82731/animals Two blond dogs] are standing together on [/EN#82732/scene a patio] .
+[/EN#82731/animals Two golden dogs] are standing on [/EN#82732/scene a wooden patio] .
+[/EN#82733/animals A large dog] sniffing [/EN#82734/scene a smaller dog outside] .
+[/EN#82731/animals Two dogs] are standing together on [/EN#82732/scene a patio] .
+[/EN#82731/animals Two golden dogs] on [/EN#82732/other a wood deck] .

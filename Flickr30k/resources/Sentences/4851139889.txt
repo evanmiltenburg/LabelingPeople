@@ -1,0 +1,5 @@
+[/EN#210641/people A group of people] walk down [/EN#210645/scene the street] next to [/EN#210647/other a bike lane] .
+[/EN#210641/people Three people] walk down [/EN#210645/scene a sidewalk] on [/EN#210644/scene an empty city street] .
+[/EN#210641/people Three women] walking down [/EN#210645/scene a sidewalk] in [/EN#210646/scene the early evening] .
+[/EN#210641/people Three women] walking down [/EN#210644/scene a sidewalk] near [/EN#210643/scene a bistro] .
+[/EN#210641/people Three people] walking down [/EN#210642/scene a street] together .

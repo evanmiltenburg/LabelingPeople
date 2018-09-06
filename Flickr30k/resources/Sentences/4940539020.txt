@@ -1,0 +1,5 @@
+[/EN#221046/people A couple] strolls up [/EN#221048/scene the sidewalk] and [/EN#221056/other the newspaper machine] sits on [/EN#221049/scene the side of a building] .
+[/EN#221047/people A young man] and [/EN#221052/people lady] are walking on [/EN#221048/scene a sidewalk] next to [/EN#221049/scene a white building] .
+[/EN#221047/people A man] and [/EN#221052/people woman] walk down [/EN#221048/scene a sidewalk] while [/EN#0/notvisual they] hold [/EN#221051/bodyparts hands] .
+[/EN#221053/bodyparts Couple strolling hand] in [/EN#221051/bodyparts hand] past [/EN#221050/scene shop] in [/EN#221054/scene city] .
+[/EN#221046/people A couple] holds [/EN#221051/bodyparts hands] while walking by [/EN#221050/scene buildings] .

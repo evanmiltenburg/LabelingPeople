@@ -1,0 +1,5 @@
+[/EN#48530/people A young boy] stands on [/EN#48535/other a golf mat] with [/EN#48531/scene a city] on [/EN#48538/scene the horizon] , and [/EN#48533/other a golf club] in [/EN#48539/bodyparts his hand] , [/EN#0/notvisual which] appears to have just been swung .
+[/EN#48530/people A young boy] wearing [/EN#48536/other crocs] tries to hit [/EN#48534/other yellow golf balls] into [/EN#48532/scene a large lawn] overlooking [/EN#48531/scene a town] .
+[/EN#48530/people A young boy] in [/EN#48540/clothing a blue golf shirt] and [/EN#48541/clothing khaki shorts] is practicing [/EN#48537/other his gold swing] .
+[/EN#48530/people A young boy] swings [/EN#48533/other a golf club] with [/EN#48532/scene an open field] in front of [/EN#0/notvisual him] .
+[/EN#48530/people A little boy] is hitting [/EN#48534/other golf balls] on [/EN#48532/scene a driving range] .

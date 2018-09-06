@@ -1,0 +1,5 @@
+[/EN#99670/people A man] in [/EN#99679/clothing tie] , [/EN#99680/clothing white shirt] , and [/EN#99671/clothing coat] uses [/EN#99672/other a cellphone] across [/EN#99677/scene the street] from [/EN#99675/scene an older building] with [/EN#99674/other a maroon canopy] .
+[/EN#99670/people A balding man] in [/EN#99671/clothing a suit] with [/EN#99676/clothing a red scarf] talks on [/EN#99672/other his cellphone] .
+[/EN#99670/people Man] wearing [/EN#99671/clothing a black coat] walks outside talking on [/EN#99672/other his cellphone] .
+[/EN#99670/people A man] is talking on [/EN#99672/other his cellphone] in [/EN#99673/scene a city] .
+[/EN#99670/people A man] on [/EN#99678/scene his telephone outside] .

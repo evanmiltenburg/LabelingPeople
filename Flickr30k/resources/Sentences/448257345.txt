@@ -1,0 +1,5 @@
+[/EN#172034/people Someone] in [/EN#172037/clothing a blue and white striped sweater] is eating and [/EN#172033/animals the dog] next to [/EN#0/notvisual them] is interested in [/EN#172035/other their food] .
+[/EN#172034/people A person] is eating [/EN#172035/other a plate of pasta] with [/EN#172033/animals a black and brown dog] on [/EN#172038/bodyparts his or her lap] .
+[/EN#172033/animals A dog] is staring at [/EN#172035/other the food] in [/EN#172035/people the plate of a person] eating .
+[/EN#172034/people A person] is eating [/EN#172035/other pasta] , while [/EN#172033/animals a dog] is watching .
+[/EN#172034/people A person] holding [/EN#172033/animals a dog] while [/EN#0/notvisual they] eat .

@@ -1,0 +1,5 @@
+[/EN#238222/people A male] and [/EN#238225/people a teen female] are inside [/EN#238232/vehicles a moving transportation vehicle] are entertained , [/EN#238222/people the male] is on [/EN#238226/other his cellphone] while [/EN#238225/people the child] is reading [/EN#238224/other a book] .
+[/EN#238222/people A man] wearing [/EN#238223/clothing a black jacket] plays on [/EN#238226/other his smartphone] , while [/EN#238225/people the little girl] next to [/EN#0/notvisual him] wearing [/EN#238228/clothing a scarf] and [/EN#238230/clothing blue jacket] reads [/EN#238224/other a book] .
+[/EN#238222/people A man] looking up close at [/EN#238226/other his cellphone] sits next to [/EN#238225/people a girl] with [/EN#238231/clothing red glasses] [/EN#0/notvisual who] is reading .
+[/EN#238222/people An adult male] in [/EN#238223/clothing a gray jacket] is sitting next to [/EN#238225/people a girl] reading [/EN#238224/other a book] .
+[/EN#238222/people A man] on [/EN#238226/other his cellphone] is sitting beside [/EN#238225/people a girl] reading [/EN#238224/other a book] .

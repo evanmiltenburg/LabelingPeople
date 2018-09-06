@@ -1,0 +1,5 @@
+[/EN#105974/people A man] wearing [/EN#105975/clothing a black hat] points at [/EN#105977/people a woman] in [/EN#105982/clothing black] while [/EN#105981/people another woman] looks on .
+[/EN#105974/people A man] in [/EN#105980/bodyparts a beret and thin mustache] gestures to [/EN#105978/people two women] in [/EN#105976/other conversation] .
+[/EN#105974/people The man] is pointing [/EN#105983/bodyparts his finger] down while [/EN#105978/people two ladies] look on .
+[/EN#105974/people The man] in [/EN#105975/clothing the black beret] has [/EN#105976/other a conversation] with [/EN#105978/people two women] .
+[/EN#105979/people Suprised couple] talking to [/EN#105977/people woman] .

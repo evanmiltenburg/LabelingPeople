@@ -1,0 +1,5 @@
+[/EN#179977/people A woman] stands behind [/EN#179978/other an ornate arched window] , with [/EN#179979/other decorative gold objects] hanging on [/EN#179979/other the wall] behind [/EN#0/notvisual her] .
+[/EN#179977/people Woman] stands behind [/EN#179978/other an arched window] in front of [/EN#179979/other a wall of golden objects] .
+[/EN#179977/people A woman] in [/EN#179980/clothing black] is looking out [/EN#179978/other a window] on [/EN#179981/scene a white building] .
+[/EN#179977/people A woman] looks out of [/EN#179978/other a window] with [/EN#179982/bodyparts a smile] .
+[/EN#179977/people Woman] standing inside [/EN#179978/other a window] with [/EN#179979/other artwork] .

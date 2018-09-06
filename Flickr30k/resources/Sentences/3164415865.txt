@@ -1,0 +1,5 @@
+[/EN#97608/people Five children] sledding down [/EN#97610/scene a snow-covered street] .
+[/EN#97608/people Four children] snow sledding down [/EN#97609/scene a hill] .
+[/EN#97608/people Children] are sledding down [/EN#97609/scene a snowy hill] .
+[/EN#97607/people The people] ride down [/EN#97610/scene the road] on [/EN#97611/other sleds] .
+[/EN#97611/other sleds] sled down [/EN#97610/scene the street]

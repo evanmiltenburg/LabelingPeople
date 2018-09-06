@@ -1,0 +1,5 @@
+[/EN#23263/people A man] is standing outside [/EN#23264/scene a building] while [/EN#23262/people another man] in [/EN#23268/clothing a military uniform] leans against [/EN#23267/other a low wall] .
+[/EN#23262/people A male security officer] stands at [/EN#23270/scene his post] behind [/EN#23263/people another man] in [/EN#23265/clothing a patterned sweater] .
+[/EN#23262/people A police officer] is monitoring [/EN#23263/other a by stander] while guarding [/EN#23264/scene a building] .
+[/EN#23262/people A security officer] and [/EN#23263/people a man] stand in front of [/EN#23264/scene a building] .
+[/EN#23263/people A man] in [/EN#23265/clothing a sweater] and [/EN#23269/clothing black pants] waits .

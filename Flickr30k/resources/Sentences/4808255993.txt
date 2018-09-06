@@ -1,0 +1,5 @@
+[/EN#205023/people Middle-aged woman] wearing [/EN#205027/clothing a white blouse] , sitting at [/EN#205025/other a table] outside [/EN#205029/scene a restaurant] .
+[/EN#205023/people A woman] in [/EN#205027/clothing a white shirt] sitting at [/EN#205025/other a table] in front of [/EN#205028/scene a clear booth] .
+[/EN#205022/people A small number of people] sit around [/EN#205024/scene an outside sitting area] .
+[/EN#205022/people Several people] are sitting at [/EN#205026/other tables] outside .
+[/EN#205022/people People] eat at [/EN#205026/other tables] in [/EN#205024/scene a large atrium] .

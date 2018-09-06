@@ -1,0 +1,5 @@
+[/EN#280748/people A little girl] dressed in [/EN#280751/clothing pink] on [/EN#280752/scene the floor] playing with [/EN#280749/vehicles a toy airplane] with [/EN#280747/animals a cat] looking on .
+[/EN#280747/animals A cat] is watching [/EN#280748/people the movement of a young girl] [/EN#0/notvisual who] is playing with [/EN#280749/vehicles a toy airplane] .
+[/EN#280748/people A girl] and [/EN#280747/animals her cat] are curious to see how [/EN#280749/vehicles this airplane] is built with [/EN#280750/other legos] .
+[/EN#280748/people A small child] plays with [/EN#280749/vehicles her airplane] as [/EN#280747/animals a cat] looks on .
+[/EN#280747/animals A cat] is watching [/EN#280748/people a girl] construct [/EN#280749/vehicles a Lego airplane] .

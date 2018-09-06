@@ -1,0 +1,5 @@
+[/EN#61787/people Two people] wearing [/EN#61788/clothing all white] are painting [/EN#61789/other a brick wall] .
+[/EN#61787/people Two people] , wearing [/EN#61788/clothing white] , are painting [/EN#61789/other a wall] .
+[/EN#61787/people Two workers] spread [/EN#61791/other cement] onto [/EN#61790/scene a brick building] .
+[/EN#61787/people Two women] repairing [/EN#61789/other a wall] with [/EN#61791/other concrete] .
+[/EN#61787/people Two people] painting [/EN#61789/other a brick wall] .

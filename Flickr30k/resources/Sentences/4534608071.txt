@@ -1,0 +1,5 @@
+[/EN#176181/people Two adults] are standing on and using [/EN#176182/other a playground swing] .
+[/EN#176184/people Two kids] are swinging on [/EN#176182/other a swing] while [/EN#176185/other standing] .
+[/EN#176181/people Two children] stand on [/EN#176182/other a swing] in [/EN#176183/scene a playground] .
+[/EN#176181/people Two boys] play on [/EN#176182/other a swing] in [/EN#176183/scene a playground] .
+[/EN#176181/people Two kids] standing on [/EN#176182/other a circular swing] .

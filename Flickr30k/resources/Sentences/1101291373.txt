@@ -1,0 +1,5 @@
+[/EN#2552/people A man] in [/EN#2553/clothing sandals] and [/EN#2554/clothing white cardigan] sits on [/EN#2555/other a green bench] while talking on [/EN#2556/other his cellphone] .
+[/EN#2552/people A man] with [/EN#2557/clothing blue pants] and [/EN#2554/clothing a white shirt] sitting on [/EN#2555/other a bench] talking on [/EN#2558/other a cellphone] .
+[/EN#2552/people A bald man] in [/EN#2553/clothing flip-flops] sits on [/EN#2555/other a green bench] and talks on [/EN#2558/other a cellphone] .
+[/EN#2552/people A man] sitting on [/EN#2555/other a green bench] talking on [/EN#2556/other the telephone] .
+[/EN#2552/people A man] on [/EN#2555/other a green bench] is talking on [/EN#2556/other his cellphone] .

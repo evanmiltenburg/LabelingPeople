@@ -1,0 +1,5 @@
+[/EN#64628/people A man] dressed in [/EN#64633/clothing military uniform] sits down and looks through [/EN#64630/other some papers] .
+[/EN#64628/people A man] in [/EN#64633/other army fatigues] is reading [/EN#64630/other something] while laying on [/EN#64634/scene the floor] .
+[/EN#64628/people The soldier] looks out [/EN#64629/other the window] as [/EN#0/notvisual he] sits with [/EN#64636/bodyparts his legs] crossed .
+[/EN#64628/people A soldier] is looking out of [/EN#64629/other a window] .
+[/EN#64628/other A GI] relaxes and waits at [/EN#64632/scene an airport] .

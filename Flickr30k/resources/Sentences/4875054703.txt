@@ -1,0 +1,5 @@
+[/EN#213861/people A flower vendor] in [/EN#213862/clothing purple] stands in front of [/EN#213869/other his flowers] with [/EN#213870/bodyparts/people his arm] stretched out with [/EN#213865/people many people] around .
+[/EN#213861/people A man] wearing [/EN#213862/clothing a blue tank top] in front of [/EN#213863/vehicles a truck] with [/EN#213864/other flower pots] in front of [/EN#0/notvisual it] .
+[/EN#213861/people A man] pointing in [/EN#0/notvisual a direction] while [/EN#213865/people other people] look on .
+[/EN#213861/people A man] uncovering [/EN#213863/vehicles a truck] full of [/EN#213864/other flower pots] .
+[/EN#213861/people A vendor] sells [/EN#213864/other plants] at [/EN#213868/scene an outdoor market] .

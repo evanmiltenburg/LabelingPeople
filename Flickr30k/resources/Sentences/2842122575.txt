@@ -1,0 +1,5 @@
+[/EN#76235/people A curly-haired man] in [/EN#76238/clothing a blue t-shirt] is fixing [/EN#76237/vehicles his red bicycle] , [/EN#0/notvisual which] is upside down on [/EN#76239/scene the sidewalk] , with [/EN#76242/people a friend] wearing [/EN#76241/clothing a black watch] .
+[/EN#76236/people Two men] inspecting and fixing [/EN#76237/vehicles the tire of a red framed , yellow forked bike] with [/EN#76240/scene the bike seat] towards [/EN#0/notvisual the ground] .
+[/EN#76236/people Two men] , [/EN#76243/other one] with [/EN#76238/clothing a blue shirt] , are attempting to fix [/EN#76237/vehicles a bicycle] [/EN#0/notvisual which] is upside down on [/EN#76239/scene a sidewalk] .
+[/EN#76236/people Two guys] are trying to fix [/EN#76237/vehicles a bike] .
+[/EN#76235/people A biker] fixes [/EN#76237/vehicles his bicycle]

@@ -1,0 +1,5 @@
+[/EN#710/people Two young men] and [/EN#712/people a young lady] walk through [/EN#711/scene a field] near [/EN#713/scene the water] .
+[/EN#709/people Three people] walking through [/EN#711/scene a beautiful meadow] towards [/EN#713/scene the ocean] .
+[/EN#710/people Two men] and [/EN#712/people a woman] are walking through [/EN#711/scene a field] .
+[/EN#710/people Two males] and [/EN#712/people one female] walking on [/EN#711/scene a path] .
+[/EN#709/people Three people] walking on [/EN#714/scene a path] in [/EN#711/scene a meadow] .

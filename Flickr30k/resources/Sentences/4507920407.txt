@@ -1,0 +1,5 @@
+[/EN#173984/people A man] in [/EN#173988/clothing black jacket] and [/EN#173995/clothing beige pants] is in [/EN#173991/other an ATM machine] while [/EN#173992/people another guy] with [/EN#173986/clothing a hat] sits from [/EN#0/notvisual a distance] .
+[/EN#173984/people A man] in [/EN#173986/clothing black cap] and [/EN#173988/clothing jacket] sitting on [/EN#173985/clothing blue duffel bag] in front of [/EN#173989/scene a building] .
+[/EN#173984/people A man] is sitting up against [/EN#173994/other a wall] with [/EN#173993/other a sign] near [/EN#173997/bodyparts his feet] .
+[/EN#173984/people A man] sits on [/EN#173985/other his suitcase] on [/EN#173987/scene a street] , panhandling .
+[/EN#173984/people A person] sitting on [/EN#173985/clothing a bag] on [/EN#173987/scene the sidewalk] .

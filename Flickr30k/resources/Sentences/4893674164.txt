@@ -1,0 +1,5 @@
+[/EN#215795/people A young woman] wearing [/EN#215797/clothing a black and white striped shirt] looks at [/EN#215798/clothing a necklace] [/EN#0/notvisual that] [/EN#215796/people another woman] is holding up .
+[/EN#215795/people A woman] wearing [/EN#215797/clothing a striped shirt] is looking at [/EN#215800/other a mannequin] holding up [/EN#215798/clothing a necklace] in [/EN#215801/other a store window] .
+[/EN#215795/people A woman] in [/EN#215797/clothing a striped shirt] looking at [/EN#215798/clothing necklaces] and [/EN#215799/clothing other jewelry] at [/EN#215802/scene a market stall] .
+[/EN#215795/people A woman] in [/EN#215797/clothing a striped shirt] is being shown [/EN#215798/clothing a necklace] .
+[/EN#215795/people one woman] is showing [/EN#215796/people another woman] [/EN#215798/clothing a necklace] .

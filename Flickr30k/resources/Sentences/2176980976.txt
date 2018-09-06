@@ -1,0 +1,5 @@
+[/EN#32455/people a group of people] peering over [/EN#32456/scene the edge of a large rocky mountain]
+[/EN#32455/people Several people] on top of [/EN#32457/other a mountain look] down at [/EN#0/notvisual the ground] .
+[/EN#32455/people A few people] standing on top of [/EN#32456/scene a mountain] taking [/EN#32460/other pictures] .
+[/EN#32456/scene The mountain] are [/EN#32457/clothing light tan] in [/EN#32458/other color] .
+[/EN#32455/people Three people] sitting on [/EN#32456/scene a cliff] .

@@ -1,0 +1,5 @@
+[/EN#119225/people a man] with [/EN#119226/clothing a backpack] wearing [/EN#119229/clothing a yellow raincoat] is riding [/EN#119227/vehicles a bicycle] past [/EN#119231/other red brick] and [/EN#119232/other stone wall] .
+[/EN#119225/people A cyclist] rides [/EN#119227/vehicles his black bicycle] while wearing [/EN#119229/clothing a yellow jacket] and [/EN#119228/clothing white helmet] .
+[/EN#119225/people A cyclist] is riding past [/EN#119232/scene buildings] with [/EN#119226/clothing backpack] and [/EN#119230/other cycling gear] .
+[/EN#119225/people A cyclist] with [/EN#119228/clothing a helmet] , [/EN#119226/clothing backpack] , and [/EN#119229/clothing yellow jacket] .
+[/EN#119225/people A man] wearing [/EN#119226/clothing a backpack] and [/EN#119228/clothing helmet] riding [/EN#119227/vehicles a bicycle] .

@@ -1,0 +1,5 @@
+[/EN#190830/people A woman] standing next to [/EN#190832/people another woman] [/EN#0/notvisual who] is sitting down next to [/EN#190827/other a table of food] .
+[/EN#190832/people Women] at [/EN#190826/scene their food store] at [/EN#190834/scene marketplace ..Asian food court] .
+[/EN#190832/people Women] at [/EN#190826/scene an outside market] with [/EN#190828/other various foods] and [/EN#190829/other plates] .
+[/EN#190832/people Two Asian women] are next to [/EN#190827/other a table] [/EN#0/notvisual that] has [/EN#190828/other food] on [/EN#0/notvisual it] .
+[/EN#190832/people A woman] sits by [/EN#190827/other a table] covered in [/EN#190829/other plates] and [/EN#190831/other dishes] .

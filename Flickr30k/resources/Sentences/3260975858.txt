@@ -1,0 +1,5 @@
+[/EN#105201/animals A dog] sledding [/EN#105209/people team] pulling [/EN#105202/people a man] wearing [/EN#105203/clothing a bright orange jacket] in [/EN#105205/scene the snow] .
+[/EN#105200/animals Dogs] lead [/EN#105204/other a sled] with [/EN#105202/people a man] in [/EN#105203/clothing an orange parka] through [/EN#105205/scene the snow] .
+[/EN#105202/people A man] in [/EN#105203/clothing an orange snowsuit] is on [/EN#105207/scene a dogsled in the snow] .
+[/EN#105202/people A man] is in [/EN#105204/other a dog sled race] with [/EN#105205/scene snow] on [/EN#0/notvisual the ground] .
+[/EN#105200/animals A pack of sled dogs] pulling [/EN#105204/other a sled] through [/EN#105208/scene a town] .

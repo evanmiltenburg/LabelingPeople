@@ -1,0 +1,5 @@
+[/EN#69810/people One little boy] is standing inside [/EN#69816/scene a house] on [/EN#69813/other one side of a window] while [/EN#69810/people another boy] is [/EN#69818/scene outside] squirting [/EN#69813/other the window] with [/EN#69814/other a hose] .
+[/EN#69810/people A child] is looking through [/EN#69813/other the glass] at [/EN#69812/people the child] squirting [/EN#69814/other a water hose] onto [/EN#69813/other the glass] .
+[/EN#69810/people A boy] looks out [/EN#69813/other the window] at [/EN#69810/people another boy] [/EN#0/notvisual who] is spraying [/EN#69813/other the window] with [/EN#69820/scene water] .
+[/EN#69810/people A little boy] spays [/EN#69814/other a hose] at [/EN#69810/people his brother] [/EN#0/notvisual who] is on [/EN#69813/other the other side of a window] .
+[/EN#69812/people One child] sprays [/EN#69814/other a water hose] at [/EN#0/notvisual another] [/EN#0/notvisual who] is inside behind [/EN#69813/other a glass window] .

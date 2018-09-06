@@ -1,0 +1,5 @@
+[/EN#7415/animals Two dogs] , [/EN#7416/clothing one black] and [/EN#7417/clothing one white] , face [/EN#0/notvisual the camera] in [/EN#7418/scene a field of snow] .
+[/EN#7419/animals A black dog] and [/EN#7420/animals a white dog] are standing on [/EN#7418/scene snow] .
+[/EN#7416/clothing A black] and [/EN#7420/animals a white dog] on [/EN#7418/scene the snow] .
+[/EN#7415/animals Two dogs] standing in [/EN#7418/scene the snow] .
+[/EN#7415/animals two dogs] stand in [/EN#7418/scene the snow] .

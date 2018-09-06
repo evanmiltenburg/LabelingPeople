@@ -1,0 +1,5 @@
+[/EN#56565/people A man] with [/EN#56573/clothing an orange vest] and [/EN#56574/clothing pants] pouring [/EN#56569/other stones] on [/EN#56567/scene railroad tracks] .
+[/EN#56565/people A construction worker] watches as [/EN#56571/other a tractor] dumps [/EN#56569/other rocks] onto [/EN#56567/scene a track] .
+[/EN#56570/other Construction workers work] on [/EN#56567/scene railroad tracks] at [/EN#56568/scene night] .
+[/EN#56566/people Construction workers] stand near [/EN#56567/scene tracks] at [/EN#56568/scene night] .
+[/EN#56566/people Workers] standing in [/EN#56572/scene a work zone] .

@@ -1,0 +1,5 @@
+[/EN#224972/animals A basset hound] is tied to [/EN#224976/scene a doorway] in [/EN#224974/scene an alley] in front of [/EN#224973/people a man] and [/EN#224981/people woman] .
+[/EN#224975/animals A dog] stares while sitting on [/EN#224977/scene a red brick floor] , near [/EN#224979/scene pale buildings] .
+[/EN#224972/animals A dog] is tied to [/EN#224980/other something] with [/EN#224973/people a man] in [/EN#0/notvisual the background] .
+[/EN#224973/people A man] crouches in front of [/EN#224978/other a yellow wall] .
+[/EN#224972/animals A dog] with [/EN#224982/bodyparts big ears] in [/EN#224974/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#23595/people A man] with [/EN#23605/bodyparts brown hair] , [/EN#23604/clothing glasses] and [/EN#23598/clothing a green shirt] sits in front of [/EN#23597/other a computer monitor] with [/EN#23599/people a man] in [/EN#23600/clothing a white shirt] .
+[/EN#23595/people A man] in [/EN#23598/clothing a green shirt] is sitting next to [/EN#23599/people a man] in [/EN#23600/clothing a white shirt] working on [/EN#23597/other a computer] .
+[/EN#23595/people A man] in [/EN#23598/clothing a green t-shirt] watches [/EN#23599/people another man] typing on [/EN#23602/other a computer keyboard] .
+[/EN#23596/people Two people] sit in front of [/EN#23601/other computers] and [/EN#23603/other a large dark window] .
+[/EN#23596/people Two men] working with [/EN#23601/other computers] .

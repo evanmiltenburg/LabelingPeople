@@ -1,0 +1,5 @@
+[/EN#235160/people Blond woman] wearing [/EN#235164/clothing a red shirt] and [/EN#235165/clothing white pants] stands on [/EN#235162/other a garbage] can as [/EN#0/notvisual she] holds [/EN#235161/other a camera] .
+[/EN#235160/people A woman] in [/EN#235165/clothing white pants] and [/EN#235164/clothing a red shirt] is standing above [/EN#235166/people a crowd] ready to take [/EN#235168/other a picture] .
+[/EN#235160/people A lady] in [/EN#235164/clothing a red shirt] and [/EN#235165/clothing white pants] is standing on [/EN#235162/other a trashcan] trying to take [/EN#235169/other pictures] .
+[/EN#235160/people A woman] is elevated on [/EN#235162/other a trashcan] taking [/EN#235167/other photographs] .
+[/EN#235160/people A woman] standing on [/EN#235162/other trashcan] with [/EN#235161/other a camera] .

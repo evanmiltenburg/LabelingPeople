@@ -1,0 +1,5 @@
+[/EN#270345/people A guy] is standing in front of [/EN#270347/other a toilet] with [/EN#270346/other a coffee cup] in [/EN#270349/bodyparts one hand] and [/EN#270348/other a toilet brush] in [/EN#270353/other the other] .
+[/EN#270345/people Man] in [/EN#270350/clothing zippered black jacket] and [/EN#270352/clothing green shirt] poses next to [/EN#270347/other a urinal] , holding [/EN#270348/other a toilet brush] .
+[/EN#270345/people Man] holding [/EN#270346/other a cup] and [/EN#270347/other toilet] brush next to [/EN#270347/other a urinal] .
+[/EN#0/notvisual He] is in [/EN#270345/scene the bathroom] with [/EN#270346/other a drink] in [/EN#270349/bodyparts his hand] .
+[/EN#270345/people A man] in [/EN#270350/clothing jacket] holds [/EN#270346/other a mug] in [/EN#270345/scene the bathroom] .

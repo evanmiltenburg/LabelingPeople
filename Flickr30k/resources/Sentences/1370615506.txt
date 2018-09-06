@@ -1,0 +1,5 @@
+[/EN#10374/scene The Wine Shop] on [/EN#10374/scene Twenty Fourth building] lit up in [/EN#10377/people the dark , two people] in [/EN#10382/scene front] .
+[/EN#10374/scene A wine shop] with [/EN#10380/other an open sign] in [/EN#10381/other the window] and [/EN#10377/people two people] out [/EN#10374/scene front] .
+[/EN#10379/people Two people] are standing outside of [/EN#10374/scene a wine shop] .
+[/EN#10377/people Two people] stand outside [/EN#10374/scene a wine shop] .
+[/EN#10374/scene The Wine Shop]

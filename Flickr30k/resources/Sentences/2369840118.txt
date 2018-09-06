@@ -1,0 +1,5 @@
+[/EN#44598/people The boy] wearing [/EN#44599/clothing the blue hooded top] is holding [/EN#44600/animals a baby goat] in [/EN#44601/bodyparts his arms] .
+[/EN#44598/people A boy] wearing [/EN#44602/other a blue hood] holds [/EN#44600/animals a baby animal] and smiles .
+[/EN#44598/people Young boy] dressed in [/EN#44603/clothing green] holds [/EN#44600/animals baby goat] in [/EN#44601/bodyparts arms] .
+[/EN#44598/people A boy] with [/EN#44599/clothing a coat] on [/EN#44604/bodyparts his head] holds [/EN#44600/animals a goat]
+[/EN#44598/people a boy] holds [/EN#44600/animals a goat] in [/EN#44601/bodyparts his arms] .

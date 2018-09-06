@@ -1,0 +1,5 @@
+[/EN#14343/people A surfer] with [/EN#14345/other a large white surfboard] and [/EN#14350/other tether line] is standing on [/EN#14344/scene the beach] on [/EN#14348/scene an overcast day] .
+[/EN#14343/people A surfboarder] emerging from [/EN#14347/scene the ocean] with [/EN#14345/other his board] , as [/EN#14349/other the waves crash] ashore behind [/EN#0/notvisual him] .
+[/EN#14343/people A male surfer] exiting [/EN#14347/scene the ocean] with [/EN#14345/other his surfboard] .
+[/EN#14343/people A man] walks out of [/EN#14346/scene the waves] with [/EN#14345/other his surfboard] .
+[/EN#14343/people A man] carries [/EN#14345/other a surfboard] at [/EN#14344/scene the beach] .

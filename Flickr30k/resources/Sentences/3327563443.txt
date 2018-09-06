@@ -1,0 +1,5 @@
+[/EN#109658/people A woman] in [/EN#109662/clothing a white hat] and [/EN#109663/clothing a white t-shirt] with [/EN#109668/clothing a red basket woven purse] is talking to [/EN#109660/people a woman] in [/EN#109659/clothing a green shirt] and [/EN#109661/clothing red hat] .
+[/EN#109658/people A woman] in [/EN#109662/clothing a white baseball hat] reveals [/EN#109669/other her tan line] to [/EN#109660/people her friend] , [/EN#0/notvisual who] wears [/EN#109661/clothing a sunhat]
+[/EN#109658/people The Asian girl] in [/EN#109663/clothing white] is standing next to [/EN#109660/people the woman] in [/EN#109659/clothing green] is carrying [/EN#109667/other a basket] .
+[/EN#109658/people A young girl] in [/EN#109662/clothing a white hat] with [/EN#109660/people an older woman] in [/EN#109661/clothing a tan hat] .
+[/EN#109666/people Two women] looking at [/EN#109670/people the arm of the woman] on [/EN#109658/scene the left] .

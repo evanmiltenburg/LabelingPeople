@@ -1,0 +1,5 @@
+[/EN#133819/people A man] standing in [/EN#133828/scene water] at [/EN#133820/scene the beach] , is wearing [/EN#133822/clothing a pale blue , long-sleeved shirt] and [/EN#133821/clothing a woven hat] , and pulling [/EN#133827/other netted fabric] from [/EN#133828/scene the water] .
+[/EN#133819/people A man] wearing [/EN#133821/clothing a straw hat] and [/EN#133822/clothing a blue shirt] is standing in [/EN#133828/scene the water] at [/EN#133820/scene a beach] and is dragging out [/EN#133827/other a red net] .
+[/EN#133819/people A person] in [/EN#133822/clothing long shirt] and [/EN#133821/clothing a hat] is in [/EN#133828/scene the water] with [/EN#133824/other a large orange net] .
+[/EN#133819/people A fisherman] in [/EN#133821/clothing a hat] gathering [/EN#133824/other his nets] in [/EN#133828/scene murky water] near [/EN#133820/scene the shore] .
+[/EN#133819/people A fisherman] drags [/EN#133827/other a red net] through [/EN#133828/scene the water] close to [/EN#133820/scene the beach] .

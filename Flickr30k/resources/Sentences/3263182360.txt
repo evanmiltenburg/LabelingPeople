@@ -1,0 +1,5 @@
+[/EN#105442/people A professionally dressed woman] standing at [/EN#105443/scene a podium] debating or discussing [/EN#105450/other something of importance] .
+[/EN#105442/people A woman] in [/EN#105444/clothing a tan suit] and [/EN#105449/clothing red shirt] speaks into [/EN#105448/other microphones] at [/EN#105443/scene a podium] .
+[/EN#105442/people A woman] with [/EN#105451/bodyparts long curly hair] is standing at [/EN#105443/scene a podium] and speaking .
+[/EN#105442/people The woman] in [/EN#105444/clothing the tan suit] is speaking at [/EN#105446/other the pedestal] .
+[/EN#105442/people A lovely woman] makes [/EN#105447/scene a point] at [/EN#105445/other a business] meeting .

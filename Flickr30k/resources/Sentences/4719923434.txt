@@ -1,0 +1,5 @@
+[/EN#195075/people A elderly man] wearing [/EN#195080/clothing a blue sweater] is surrounded by [/EN#195076/animals pigeons] on [/EN#195078/scene the street] .
+[/EN#195075/people A man] walking in [/EN#195079/scene the city] next to [/EN#195076/animals a group of pigeons] .
+[/EN#195075/people A man] is walking down [/EN#195078/scene the road] while reading [/EN#195077/other a paper] .
+[/EN#195075/people A bald man] walks amidst [/EN#195076/animals a group of pigeons] .
+[/EN#195075/people Man] reading [/EN#195077/other a newspaper] next to [/EN#195076/animals pigeons] .

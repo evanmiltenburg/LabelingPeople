@@ -1,0 +1,5 @@
+[/EN#172237/people An older man] in [/EN#172238/clothing a blue shirt] is spooning [/EN#172242/other a substance] onto [/EN#172244/other objects] while [/EN#172239/people a woman] is wearing [/EN#172238/clothing a blue shirt] in [/EN#0/notvisual the background] .
+[/EN#172237/people An older gentleman] in [/EN#172238/clothing a blue long-sleeve shirt] is preparing [/EN#172240/other food] on [/EN#172241/other a round table] with [/EN#172239/people a woman] in [/EN#0/notvisual the background] .
+[/EN#172237/people An older gentleman] with [/EN#172243/clothing glasses] and [/EN#172238/clothing a blue sweater] seems to be preparing [/EN#172240/other food] .
+[/EN#172237/people An elderly man] in [/EN#172238/clothing a blue shirt] is preparing [/EN#172240/other food] .
+[/EN#172237/people An older man] in [/EN#172238/clothing a blue shirt] prepares [/EN#172240/other food] .

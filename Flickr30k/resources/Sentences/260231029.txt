@@ -1,0 +1,5 @@
+[/EN#60875/animals Two dogs] [/EN#60879/clothing one black the other brown] on [/EN#0/notvisual a sandy ground] [/EN#60874/animals the tan dog] is behind [/EN#60873/animals the black dog] .
+[/EN#60873/animals A black dog] and [/EN#60874/animals brown dog] are running around in [/EN#60878/other the sand] .
+[/EN#60873/animals A black dog] plays with [/EN#60874/animals a brown dog] on [/EN#60878/other the sand] .
+[/EN#60874/animals A brown dog] and [/EN#60873/animals a black dog] in [/EN#60878/other the sand] .
+[/EN#60875/animals two dogs] playing on [/EN#60876/scene a sandy beach]

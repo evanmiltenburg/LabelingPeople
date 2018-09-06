@@ -1,0 +1,5 @@
+[/EN#189389/people The lady] in [/EN#189396/clothing blue] is jogging while [/EN#189391/people the guy] in [/EN#189393/clothing the purple shirt] is riding [/EN#189390/vehicles a bike] .
+[/EN#189389/people A young female] jogging on [/EN#189394/scene the sidewalk] with [/EN#189391/people a man] riding on [/EN#189390/vehicles a bike] behind [/EN#0/notvisual her] .
+[/EN#189389/people A woman] is running down [/EN#189394/scene the street] and [/EN#189391/people a man] is behind [/EN#0/notvisual her] riding [/EN#189390/vehicles a bicycle] .
+[/EN#189389/people A lady] is jogging and [/EN#189391/people a man] is riding [/EN#189390/vehicles a bicycle] .
+[/EN#189389/people A woman] in [/EN#189392/clothing a blue tank top] and [/EN#189397/clothing blue pants] jogs .

@@ -1,0 +1,5 @@
+[/EN#162793/people A boy] and [/EN#162794/people a girl] sit at [/EN#162791/other a black table] , while [/EN#162795/people a second boy] sits near [/EN#0/notvisual them] on [/EN#162792/other a windowsill] .
+[/EN#162789/people Three children] sitting in [/EN#162799/scene the corner of a room] , with [/EN#162798/other one] sitting out on [/EN#162792/other the window seal] .
+[/EN#162790/people Two children] are at [/EN#162791/other a table] while [/EN#162795/other a third] sits in [/EN#162792/other a window] above [/EN#0/notvisual it] .
+[/EN#162790/people Two kids] sitting at [/EN#162791/other a desk] while [/EN#0/notvisual another] sits in [/EN#162797/other the windowsill] .
+[/EN#162789/people The three youngsters] are playing near [/EN#162792/other the window] .

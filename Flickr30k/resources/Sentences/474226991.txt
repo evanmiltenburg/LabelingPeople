@@ -1,0 +1,5 @@
+[/EN#197736/people A man] in [/EN#197740/clothing a white shirt] is standing next to [/EN#197737/vehicles a cart] with [/EN#197738/other a green tarp] and [/EN#197743/scene a filled sack] on [/EN#197748/clothing top] .
+[/EN#197736/people A man] is standing in [/EN#197739/scene the street] next to [/EN#197741/other a bale of hay] and [/EN#197737/vehicles a wagon] loaded down with [/EN#197745/other packages] .
+[/EN#197736/people A man] in [/EN#197740/clothing a white shirt] is standing beside [/EN#197737/vehicles a cart] covered in [/EN#197738/other a green tarp] .
+[/EN#197736/people A man] is standing near [/EN#197737/vehicles a cart] loaded with [/EN#197747/other straw] and [/EN#197743/clothing bags] .
+[/EN#197736/people A man] with [/EN#197742/vehicles a cart] full of [/EN#197746/other rice] smokes on [/EN#197739/scene the street] .

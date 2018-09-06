@@ -1,0 +1,5 @@
+[/EN#2001/people A man] and [/EN#2000/people woman] sitting on [/EN#2004/other a deck] next to [/EN#2003/scene a lake] .
+[/EN#2001/people A man] and [/EN#2000/people a woman] are sitting on [/EN#2002/scene a dock] together .
+[/EN#2001/people A shirtless man] and [/EN#2000/people a woman] sitting on [/EN#2002/scene a dock] .
+[/EN#2000/people A lady] and [/EN#2001/people a man] with [/EN#2005/clothing no shirt] sit on [/EN#2002/scene a dock] .
+[/EN#2001/people A man] and [/EN#2000/people a woman] sitting on [/EN#2002/scene a dock] .

@@ -1,0 +1,5 @@
+[/EN#231932/people A balding man] wearing [/EN#231935/clothing a striped sweater] and [/EN#231938/clothing blue jeans] is writing [/EN#231939/other some scores] with [/EN#231936/other white chalk] [/EN#0/notvisual which] includes [/EN#231940/other the words Gambas] and [/EN#231941/animals Langostinos] [/EN#0/notvisual which] both have [/EN#231937/other 5] points on [/EN#231933/other a chalkboard] .
+[/EN#231932/people A man] in [/EN#231935/clothing a striped sweater] writes on [/EN#231933/other a small rectangular chalkboard] .
+[/EN#231932/people A man] in [/EN#231935/clothing a striped shirt] writes with [/EN#231934/other chalk] on [/EN#231933/other a blackboard] .
+[/EN#231932/people A man] in [/EN#231935/clothing a striped top] is writing on [/EN#231934/other a blackboard] .
+[/EN#231932/people A man] is writing in [/EN#231936/other chalk] on [/EN#231934/other a small blackboard] .

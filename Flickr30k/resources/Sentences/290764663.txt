@@ -1,0 +1,5 @@
+[/EN#80563/people A man] wearing [/EN#80568/clothing all blue] walking down [/EN#80566/scene street] across [/EN#80567/other a blue van] and [/EN#80571/vehicles blue car]
+[/EN#80563/people A man] with [/EN#80564/clothing a blue coat] is walking down [/EN#80566/scene the street] with [/EN#80565/other a white flower] .
+[/EN#80563/people A man] in [/EN#80564/clothing a blue jacket] walks alone by [/EN#80569/scene an office building] .
+[/EN#80563/people A grizzly postman] carries [/EN#80565/other a flower] and [/EN#80570/other mail] to deliver .
+[/EN#80563/people Bearded man] in [/EN#80564/clothing a blue jacket] walking down [/EN#80566/scene the street] .

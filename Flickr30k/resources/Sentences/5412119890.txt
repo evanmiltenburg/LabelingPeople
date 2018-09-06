@@ -1,0 +1,5 @@
+[/EN#235925/people A young girl] wearing [/EN#235927/clothing a pink flower print shirt] and [/EN#235929/clothing blue jeans] examines [/EN#235926/other an object] in [/EN#235930/bodyparts her hands] while sitting on [/EN#235925/scene the grass] .
+[/EN#235925/people Asian-American little girl] wearing [/EN#235929/clothing blue jeans] and [/EN#235927/clothing a flowery shirt] playing with [/EN#235926/other a flower] on [/EN#0/notvisual the ground] .
+[/EN#235925/people A young girl] looking at [/EN#235932/other something] in [/EN#235930/bodyparts her hands] while sitting in [/EN#235925/scene a grass field] .
+[/EN#235925/people A young girl] sits in [/EN#235925/scene the grass] , admiring [/EN#235926/other a tiny plant] .
+[/EN#235925/people A young girl] is inspecting [/EN#235931/scene a flower outside] .

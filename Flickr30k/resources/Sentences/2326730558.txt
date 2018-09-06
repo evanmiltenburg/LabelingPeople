@@ -1,0 +1,5 @@
+[/EN#41884/animals A brown dog] kisses [/EN#41887/animals the ear of a white dog] in [/EN#41888/scene the snow] .
+[/EN#41883/animals One dog] liking [/EN#41886/bodyparts another 's face] in [/EN#41888/scene the snow] .
+[/EN#41883/animals A beige dog] and [/EN#41884/animals brown dog] in [/EN#41888/scene the snow] .
+[/EN#41885/animals Two dogs] play in [/EN#41888/scene the snow] .
+[/EN#41885/animals Two dogs] playing in [/EN#41888/scene snow] .

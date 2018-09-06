@@ -1,0 +1,5 @@
+[/EN#120114/people The lady] sat by [/EN#120115/people a good looking young man] in [/EN#120118/clothing red shirt] in [/EN#120117/scene the dimly lit bar] .
+[/EN#120115/people A man] in [/EN#120118/clothing a red shirt] , out with [/EN#120114/people a woman] in [/EN#120119/other a crowded location] .
+[/EN#120115/people A man] and [/EN#120114/people a woman] are sitting at [/EN#120120/other a table] in [/EN#120116/scene a crowded place] .
+[/EN#120115/people A man] and [/EN#120114/people women] sitting at [/EN#120117/scene a restaurant or bar] .
+[/EN#120115/people A man] and [/EN#120114/people women] go to [/EN#120116/scene a busy bar] .

@@ -1,0 +1,5 @@
+[/EN#192187/people A woman] walking down [/EN#192188/scene a hallway] next to [/EN#192194/scene beautiful scenery] .
+[/EN#192187/people People] traveling [/EN#192193/scene a side street] in [/EN#192192/other Venice] at [/EN#192195/scene night] .
+[/EN#192186/scene A view of a river] running under [/EN#192189/scene a bridge] .
+[/EN#192191/other The nighttime] by [/EN#192186/scene the river canal] is busy .
+[/EN#192187/people A woman] walking along [/EN#192186/scene a river] .

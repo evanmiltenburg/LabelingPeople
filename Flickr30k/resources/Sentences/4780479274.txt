@@ -1,0 +1,5 @@
+[/EN#201985/scene An open , low density street] with [/EN#201988/other a few residents] observing [/EN#201986/scene the side of a building] .
+[/EN#201985/scene An unidentified curved street] with [/EN#201987/people three people] walking away from [/EN#0/notvisual the camera] .
+[/EN#201985/scene A street] surrounded by [/EN#201986/scene buildings] and [/EN#201984/people people] walking .
+[/EN#201984/people A few people] are standing in front of [/EN#201986/scene green house] .
+[/EN#0/notvisual There] are [/EN#201984/people three guys] standing in [/EN#201985/scene an empty road] .

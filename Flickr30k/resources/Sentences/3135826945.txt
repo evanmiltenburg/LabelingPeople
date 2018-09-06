@@ -1,0 +1,5 @@
+[/EN#95948/people A little boy] with [/EN#95953/clothing a yellow shirt] is looking at [/EN#95952/other a book] [/EN#95950/people someone] is holding in front of [/EN#0/notvisual him] .
+[/EN#95950/people A person] in [/EN#95954/clothing a sweater] sits looking at [/EN#95952/other a book] with [/EN#95948/people a child] on [/EN#95957/bodyparts their lap] .
+[/EN#95950/people A woman] teaches [/EN#95948/people a young boy] about [/EN#95948/people babies] through [/EN#95952/other a book] .
+[/EN#95950/people A parent] and [/EN#95948/people their toddler] are reading [/EN#95952/other a book] .
+[/EN#95948/people a boy] wearing [/EN#95953/clothing yellow] reads [/EN#95952/other a book] .

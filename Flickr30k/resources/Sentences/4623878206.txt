@@ -1,0 +1,5 @@
+[/EN#183938/people A woman] in [/EN#183941/clothing a long green shirt] , [/EN#183945/clothing a yellow backpack] , and [/EN#183939/scene a bottle of water] is walking across [/EN#183942/scene a street] as [/EN#183940/people a couple] follows close behind .
+[/EN#183938/people A tattooed woman] with [/EN#183941/clothing a green dress] and [/EN#183945/clothing yellow backpack] holding [/EN#183939/other a water bottle] is walking across [/EN#183942/scene the street] .
+[/EN#183938/people A dark-haired woman] wearing [/EN#183941/clothing a green dress] and carrying [/EN#183945/clothing a yellow backpack] crossing [/EN#183942/scene a street] .
+[/EN#183938/people A woman] with [/EN#183945/clothing a yellow backpack] , [/EN#183944/bodyparts a tattoo] , [/EN#183941/clothing a green dress] and [/EN#183947/other spandex] walks past [/EN#183940/people a couple] .
+[/EN#183938/people A woman] with [/EN#183945/clothing a yellow backpack] , [/EN#183943/bodyparts tattoos] , and [/EN#183939/scene a bottle of water] walks on [/EN#183942/scene the street] .

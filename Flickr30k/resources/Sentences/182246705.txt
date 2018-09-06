@@ -1,0 +1,5 @@
+[/EN#21546/people Two young boys] are walking over [/EN#21548/scene a wet section of pavement] , [/EN#21551/other one] is holding [/EN#21552/clothing a hat] over [/EN#21558/bodyparts his head] , [/EN#21557/other the other] is holding [/EN#21547/clothing an umbrella] .
+[/EN#21551/people A child] , carrying [/EN#21547/clothing a closed blue umbrella] , is walking with [/EN#21553/people another child] [/EN#0/notvisual who] is under [/EN#21554/clothing a yellow umbrella] , on [/EN#21548/scene a muddy path] .
+[/EN#21546/people School children] walking [/EN#21550/scene home] after [/EN#21549/other a rainstorm] .
+[/EN#21546/people Two little boys] walking [/EN#21550/scene home] in [/EN#21549/other the rain] .
+[/EN#21546/people Young boys] are walking in [/EN#21555/clothing galoshes] .

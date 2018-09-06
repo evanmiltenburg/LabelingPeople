@@ -1,0 +1,5 @@
+[/EN#42918/people A young child] plays with [/EN#42919/vehicles a toy car] and [/EN#42920/scene a displayed track] set in [/EN#42925/scene a store] .
+[/EN#42918/people A child] with [/EN#42921/other a moose] on [/EN#42922/clothing his shirt] is playing with [/EN#42920/other a train set] .
+[/EN#42918/people A little boy] with [/EN#42922/clothing a moose sweater] plays with [/EN#42920/other a train set] .
+[/EN#42918/people A young boy] is testing out [/EN#42920/scene a train track] in [/EN#42925/scene a store] .
+[/EN#42918/people A young boy] is playing with [/EN#42924/vehicles/scene toy trains] in [/EN#42925/scene a store] .

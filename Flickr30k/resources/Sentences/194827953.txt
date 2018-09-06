@@ -1,0 +1,5 @@
+[/EN#23880/people A shirtless man] wearing [/EN#23882/clothing light blue shorts] and [/EN#23881/clothing a baseball cap] stands at [/EN#23883/vehicles/scene the front of a boat] .
+[/EN#23880/people A man] in [/EN#23881/clothing a blue hat] and [/EN#23882/clothing a bathing suit] paints [/EN#23883/vehicles/scene the bottom of a boat] with [/EN#23885/other white paint] .
+[/EN#23880/people A white man] in [/EN#23882/clothing blue and red striped shorts] paints [/EN#23884/other the bow of a sailboat] .
+[/EN#23880/people A man] wearing [/EN#23882/clothing shorts] is working on [/EN#23884/vehicles/scene the fiberglass of a boat] .
+[/EN#23880/people A man] in [/EN#23882/clothing striped shorts] and [/EN#23881/clothing a blue hat] is working on [/EN#23883/vehicles/scene a boat] .

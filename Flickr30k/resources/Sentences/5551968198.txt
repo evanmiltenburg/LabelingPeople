@@ -1,0 +1,5 @@
+[/EN#238699/people A man] with [/EN#238700/clothing a ball cap] , [/EN#238707/clothing white shirt] , and [/EN#238709/clothing camouflage] standing in [/EN#238701/vehicles/scene a boat] cleaning [/EN#238705/animals fish] with [/EN#238704/animals pelicans] floating in [/EN#238706/scene the water] watching .
+[/EN#238699/people A man] in [/EN#238700/clothing a cap] and [/EN#238707/clothing white shirt] is cutting [/EN#238705/animals some fish] on [/EN#238701/vehicles/scene a boat] [/EN#0/notvisual that] is floating on [/EN#238706/scene water] next to [/EN#238702/scene a wooden dock] .
+[/EN#238699/people A fisherman] cutting [/EN#238703/other bait] aboard [/EN#238701/vehicles/scene his boat] , [/EN#0/notvisual which] is moored at [/EN#238702/scene the dock] , while [/EN#238704/animals pelicans] swim nearby .
+[/EN#238699/people A man] is cutting [/EN#238703/other food] on [/EN#238708/other a watercraft] at [/EN#238702/scene the dock] as [/EN#238704/animals six pelicans] float nearby in [/EN#238706/scene the water] .
+[/EN#238699/people A man] in [/EN#238701/vehicles/scene a boat] cleaning [/EN#238705/animals fish] and feeding [/EN#238704/animals the ducks] .

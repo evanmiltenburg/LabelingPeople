@@ -1,0 +1,5 @@
+[/EN#132457/animals a black and white dog] jumping over [/EN#132458/other a red , white and blue striped pole]
+[/EN#132457/animals A gray and white dog] jumps over [/EN#132460/scene a bar] during [/EN#132459/other an obstacle course] .
+[/EN#132457/animals A dog] is jumping over [/EN#132458/other red , white , and blue hurdles] .
+[/EN#132457/animals A black and white dog] jumping over [/EN#132458/other an obstacle] .
+[/EN#132457/animals Large black and white dog] jumping [/EN#132458/other hurdle]

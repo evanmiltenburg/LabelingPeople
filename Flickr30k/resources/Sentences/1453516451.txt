@@ -1,0 +1,5 @@
+[/EN#13442/people A man] in [/EN#13447/clothing a white t-shirt] does [/EN#0/notvisual a trick] with [/EN#13443/other a bronze colored yo-yo] .
+[/EN#13442/people A man] in [/EN#13447/clothing a white t-shirt] performing [/EN#0/notvisual tricks] with [/EN#13445/other a yo-yo] .
+[/EN#13442/people Man] wearing [/EN#13447/clothing white shirt] does [/EN#13448/other a yo-yo demonstration] .
+[/EN#13442/people A man] in [/EN#13447/clothing a white t-shirt] playing with [/EN#13443/other a yo-yo] .
+[/EN#13442/people A man] playing with [/EN#13443/other a yo-yo] in [/EN#13447/clothing a white shirt] .

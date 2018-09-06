@@ -1,0 +1,5 @@
+[/EN#155894/people A man] with [/EN#155901/clothing an apron] on is standing in front of [/EN#155898/other a stove] cooking .
+[/EN#155894/people man] cooking with [/EN#155897/other a pan] in [/EN#155895/scene a commercial kitchen] .
+[/EN#155894/people A cook] is preparing [/EN#155896/other food] in [/EN#155895/scene a restaurant] .
+[/EN#155894/people A cook] preparing [/EN#155896/other lunch] in [/EN#155895/scene the kitchen] .
+[/EN#155894/people Man] cooking up [/EN#155900/other some breakfast] .

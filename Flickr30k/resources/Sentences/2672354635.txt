@@ -1,0 +1,5 @@
+[/EN#65320/animals Several brown dogs] playing with [/EN#65321/other a tennis ball] in [/EN#65322/scene a grassy field] .
+[/EN#65320/animals Three dogs] are playing outside with [/EN#65321/other a tennis ball] .
+[/EN#65320/animals Three tan dogs] run after [/EN#65321/other a tennis ball] .
+[/EN#65320/animals Three dogs] play with [/EN#65321/other a ball] on [/EN#65322/scene a field] .
+[/EN#65320/animals Three brown dogs] chase [/EN#65321/other a tennis ball] .

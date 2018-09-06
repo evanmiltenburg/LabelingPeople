@@ -1,0 +1,5 @@
+[/EN#152150/people An older man] in [/EN#152151/clothing a dark blue shirt] and [/EN#152153/people an older woman] in [/EN#152156/other a beige blazer share] [/EN#152149/other a meal] and look at [/EN#0/notvisual one another] .
+[/EN#152150/people A man] wearing [/EN#152151/clothing a dark colored shirt] is sitting at [/EN#152154/other a table] with [/EN#152153/people a woman] wearing [/EN#152157/clothing a scarf] .
+[/EN#152150/people A man] and [/EN#152153/people woman] share [/EN#152152/other a meal] at [/EN#152154/other a table] .
+[/EN#152150/people An older man] and [/EN#152153/people women] having [/EN#152149/other dinner]
+[/EN#152149/other A couple share wine] and [/EN#152152/other dinner] .

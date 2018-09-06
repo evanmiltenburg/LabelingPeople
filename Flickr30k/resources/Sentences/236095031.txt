@@ -1,0 +1,5 @@
+[/EN#44101/people The climber] is hanging off [/EN#44103/scene a vertical cliff] with [/EN#44104/other gear] but [/EN#44102/clothing no shirt] .
+[/EN#44101/people The boy] looked down as [/EN#0/notvisual he] climbed [/EN#44105/bodyparts the steep rock face] .
+[/EN#44101/people A man] is rock climbing without [/EN#44102/clothing a shirt]
+[/EN#44101/people A young boy] rock climbing .
+[/EN#44101/people A boy] rock climbs .

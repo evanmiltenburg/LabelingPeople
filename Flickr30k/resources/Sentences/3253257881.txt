@@ -1,0 +1,5 @@
+[/EN#104611/people A toddler] in [/EN#104617/clothing light clothing] walking down [/EN#104612/scene a foliage covered street] .
+[/EN#104611/people A little girl] is walking down [/EN#104612/scene a path] lined with [/EN#104616/other large trees] .
+[/EN#104611/people A little girl] taking [/EN#104614/other a stroll] in [/EN#104613/scene a huge , manicured park] .
+[/EN#104611/people A little girl] walks down [/EN#104615/other the tree] lined [/EN#104612/scene road] .
+[/EN#104611/people Toddler] walking along [/EN#104612/scene path] .

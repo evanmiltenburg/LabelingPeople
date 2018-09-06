@@ -1,0 +1,5 @@
+[/EN#136167/people A person] wearing [/EN#136171/clothing a black coat] and [/EN#136173/clothing a helmet] with [/EN#136174/other spiky things] is posing on [/EN#136169/scene the lawn] in front of [/EN#136168/people a crowd of people] .
+[/EN#136167/people one person] performing [/EN#136170/other a show] in front of [/EN#136168/people a large audience] sitting on [/EN#136169/scene the lawn]
+[/EN#136167/people A performer] putting on [/EN#136170/other an act] in front of [/EN#136168/people a large crowd of people] .
+[/EN#136167/people A guy] in [/EN#136172/clothing a costume] , [/EN#136168/people a crowd] watching [/EN#0/notvisual him] .
+[/EN#136167/people A man] standing in front of [/EN#136168/people a crowd] .

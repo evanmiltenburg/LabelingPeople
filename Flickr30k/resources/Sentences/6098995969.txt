@@ -1,0 +1,5 @@
+[/EN#247972/people A group of people] are in [/EN#247973/vehicles/scene a small boat] on [/EN#247974/scene a nice , blue river] with [/EN#247978/other lush green forestry] in [/EN#0/notvisual the background] .
+[/EN#247972/people 3 people] sitting in [/EN#247973/vehicles/scene a boat] , rowing in [/EN#247974/scene a large body of water] surrounded by [/EN#247975/other greenery] .
+[/EN#247972/people Four people] are in [/EN#247973/vehicles/scene a boat] moving across [/EN#247974/scene a lake] [/EN#0/notvisual that] 's surrounded by [/EN#247975/other trees] .
+[/EN#247972/people Four people] are rowing in [/EN#247977/other a canoe] on [/EN#247974/scene a calm peaceful lake] .
+[/EN#247976/people Three people] are canoeing in [/EN#247974/scene a body of water] .

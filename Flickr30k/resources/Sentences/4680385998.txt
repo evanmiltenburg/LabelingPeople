@@ -1,0 +1,5 @@
+[/EN#189867/people A woman] in [/EN#189869/clothing a red shirt] jogging by [/EN#189868/other a multicolored wall] .
+[/EN#189867/people A woman] with [/EN#189870/bodyparts her hair] in [/EN#189871/bodyparts a ponytail] is running .
+[/EN#189867/people A woman] is running in front of [/EN#189868/other a striped wall] .
+[/EN#189867/people A woman] in [/EN#189869/clothing red] runs past [/EN#189868/other a rainbow wall] .
+[/EN#189867/people Girl] jogging down [/EN#189872/scene the sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#53325/animals a dog] laying on [/EN#53329/scene the floor] and [/EN#0/notvisual another] standing over [/EN#0/notvisual him] , licking [/EN#53332/bodyparts his ear] .
+[/EN#53325/animals A brown dog] is sniffing [/EN#53326/animals a white dog] [/EN#0/notvisual that] is lying on [/EN#53329/scene the floor] .
+[/EN#53326/animals A dog] lays under [/EN#53328/other a table] being sniffed by [/EN#53325/animals another dog] .
+[/EN#53326/animals Dog] sniffing [/EN#53325/animals another dog] lying under [/EN#53328/other furniture] .
+[/EN#53325/animals One dog] sniffs [/EN#0/notvisual another] lying on [/EN#0/notvisual the ground] .

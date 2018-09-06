@@ -1,0 +1,5 @@
+[/EN#96539/people A woman] rows [/EN#96540/vehicles/scene a small boat] loaded with [/EN#96542/other plants] down [/EN#96544/scene a waterway] , next to [/EN#96541/other a display of potted plants] .
+[/EN#96539/people An elderly woman] paddles [/EN#96540/vehicles/scene a boat] filled with [/EN#96542/other baskets of green vegetables] .
+[/EN#96539/people A woman] in [/EN#96545/other blue rows] [/EN#96540/vehicles/scene a canoe type boat] loaded with [/EN#96541/other plants] .
+[/EN#96539/people A woman] is rowing [/EN#96540/vehicles/scene a boat] filled with [/EN#96542/other green plants] .
+[/EN#96539/people An older lady] in [/EN#96546/clothing a blue shirt] in [/EN#96540/other a rowboat] .

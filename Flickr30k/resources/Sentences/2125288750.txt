@@ -1,0 +1,5 @@
+[/EN#30099/people Two people] , [/EN#30100/other one] wearing [/EN#30101/clothing an orange jersey] and [/EN#30102/clothing a white belt] , and [/EN#0/notvisual another] wearing [/EN#30103/clothing a blue jersey] and [/EN#30104/clothing a red belt] are playing [/EN#30109/other flag football] .
+[/EN#30100/people A woman] in [/EN#30101/clothing an orange jersey] is holding [/EN#30109/other a football] and being pursued by [/EN#30100/people a woman] in [/EN#30103/clothing a blue t-shirt] on [/EN#30106/scene a field] .
+[/EN#30107/people A guy] in [/EN#30103/clothing a blue shirt] chases [/EN#30107/people a guy] in [/EN#30101/clothing an orange shirt] during [/EN#30109/other a game of flag football] .
+[/EN#30100/people A flag football player] in [/EN#30101/clothing a red jersey] is being pursued by [/EN#30107/other one] in [/EN#30103/clothing a blue jersey] .
+[/EN#30107/people One man] is chasing [/EN#30100/people another man] with [/EN#30109/other a football] in [/EN#30109/other a game of flag football] .

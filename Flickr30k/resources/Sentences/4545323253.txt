@@ -1,0 +1,5 @@
+[/EN#176902/people A blurred person] on [/EN#176903/vehicles a motorized bicycle] while [/EN#176904/people three people] are on [/EN#176905/scene the right side of the street] .
+[/EN#176904/people Three people] are standing next to [/EN#176905/scene a road] while [/EN#176902/people a man] on [/EN#176907/other a red motorcycle] passes by quickly .
+[/EN#176903/vehicles A scooter] whizzing down [/EN#176905/scene a street] quite quickly past [/EN#176904/people three people] on [/EN#176905/scene the sidewalk] .
+[/EN#176902/people A person] on [/EN#176903/vehicles a motorbike] zooms down [/EN#176905/scene the street] past [/EN#176904/people three onlookers] .
+[/EN#176902/people A motorist] passing by and [/EN#176904/people a group of people] sitting on [/EN#176906/other a bench] .

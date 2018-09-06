@@ -1,0 +1,5 @@
+[/EN#84676/people A woman] with [/EN#84684/bodyparts a long ponytail] and [/EN#84677/people a man] with [/EN#84685/bodyparts short hair] enjoy [/EN#84680/other a laugh] while eating [/EN#84683/other dessert] .
+[/EN#84676/people A girl] in [/EN#84682/clothing a black t-shirt] laughs at [/EN#84677/people a man] in [/EN#84678/clothing a black t-shirt] [/EN#0/notvisual who] is telling [/EN#84679/other a story] .
+[/EN#84677/people A man] talks to [/EN#84676/people a laughing woman] at [/EN#84686/scene a restaurant] .
+[/EN#84677/people The man] in [/EN#84678/clothing the black shirt] made [/EN#84676/people the lady] laugh .
+[/EN#84676/people A woman] laughing at [/EN#84677/people a man] .

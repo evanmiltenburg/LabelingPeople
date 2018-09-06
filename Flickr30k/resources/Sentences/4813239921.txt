@@ -1,0 +1,5 @@
+[/EN#205844/people A man] with [/EN#205852/clothing a rucksack] , wearing [/EN#205853/clothing shorts] and [/EN#205854/clothing sunglasses] , waits to cross [/EN#205843/scene the road] , while [/EN#205841/people a young male] with [/EN#205842/vehicles a bicycle] looks at [/EN#205848/vehicles oncoming traffic] .
+[/EN#205841/people The man] with [/EN#205842/vehicles the bicycle] is waiting for [/EN#205845/vehicles the car] to pass so [/EN#0/notvisual he] can cross [/EN#205843/scene the street] .
+[/EN#205851/people two men] , [/EN#205849/other one] with [/EN#205842/vehicles a bicycle] , and [/EN#205847/people a woman] waiting to cross [/EN#205843/scene the road] .
+[/EN#205840/people A few people] standing on [/EN#205846/scene a street corner] waiting to go across .
+[/EN#205840/people A group of people] wait for [/EN#205850/other their turn] to cross [/EN#205843/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#268112/people a surfer] in [/EN#268115/clothing a dark wetsuit] carries [/EN#268116/other a white surfboard] towards [/EN#268118/scene the ocean] .
+[/EN#268112/people A surfer] in [/EN#268115/clothing a black wetsuit] carrying [/EN#268116/other a surfboard] into [/EN#268117/scene the waves] .
+[/EN#268112/people A Person] with [/EN#268116/other white and black suit board] waking into [/EN#268117/scene the waves] .
+[/EN#268112/people A person] in [/EN#268115/clothing a wetsuit] is carrying [/EN#268116/other a surfboard] into [/EN#268114/scene the ocean] .
+[/EN#268112/people A man] in [/EN#268115/clothing a wetsuit] with [/EN#268116/other a surfboard] walks along [/EN#268113/scene a beach]

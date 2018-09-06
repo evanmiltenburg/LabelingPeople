@@ -1,0 +1,5 @@
+[/EN#77009/people A football player] in [/EN#77010/clothing a blue and yellow uniform] is tackling [/EN#77011/people another player] in [/EN#77012/clothing a white and gold uniform] .
+[/EN#77013/people Two football players] are tackling [/EN#77009/people an opposing football player] with [/EN#77014/people a referee] nearby .
+[/EN#77013/people Two football players] are tackling [/EN#77017/other a third] while [/EN#77014/people a referee] watches .
+[/EN#77015/people Players on a football team] scuffle in [/EN#77018/other an attempt] to get [/EN#77016/other the ball] .
+[/EN#77013/people two football players] tackle [/EN#77011/people another football player] .

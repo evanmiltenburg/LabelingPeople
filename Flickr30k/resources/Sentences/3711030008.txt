@@ -1,0 +1,5 @@
+[/EN#138579/people A woman] in [/EN#138584/clothing a pink hooded sweatshirt] carrying [/EN#138580/other advertisement signs] down [/EN#138585/scene a sidewalk] .
+[/EN#138579/people A person] in [/EN#138584/clothing a hoodie] and [/EN#138587/clothing red cap] holding [/EN#138586/other pizza] and root [/EN#138581/other beer advertisements] .
+[/EN#138579/people The lady] solicits [/EN#138583/other her restaurants 's products] on [/EN#138585/scene the street] .
+[/EN#138579/people A woman] wearing [/EN#138584/clothing a pink sweatshirt] walks carrying [/EN#138580/other signs] .
+[/EN#138579/people A woman] holding [/EN#138580/other signs] advertising [/EN#138582/other food]

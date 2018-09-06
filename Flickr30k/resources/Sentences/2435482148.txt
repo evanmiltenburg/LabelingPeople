@@ -1,0 +1,5 @@
+[/EN#49251/people A woman] , wearing [/EN#49252/clothing a white shirt] , smiles as [/EN#0/notvisual she] unfolds [/EN#49253/other her napkin] prior to eating [/EN#49254/other her lunch] at [/EN#49255/other the red table] .
+[/EN#49251/people A woman] eats [/EN#49254/other a meal] outdoors , sitting on [/EN#49257/other a picnic bench] .
+[/EN#49251/people A woman] is looking happily at [/EN#49254/other a plate of food] .
+[/EN#49251/people Woman] in [/EN#49252/clothing white top] eating [/EN#49254/other lunch] at [/EN#49258/other a bench] .
+[/EN#49251/people Woman] in [/EN#49252/clothing white shirt] smiling at [/EN#49254/other her food] .

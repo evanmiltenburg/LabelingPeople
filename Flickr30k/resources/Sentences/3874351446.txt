@@ -1,0 +1,5 @@
+[/EN#146549/people A small group of people] listen to [/EN#146550/people a man] in [/EN#146551/clothing a blue shirt] in front of [/EN#146552/other a natural stone two-story structure] with [/EN#146558/other five steps] leading to [/EN#146553/other a white door] on [/EN#146556/other the lower level] .
+[/EN#146550/people A short-haired man] wearing [/EN#146551/clothing a blue shirt] talks to [/EN#146549/people a group of people] outside of [/EN#146552/scene the pueblo house] [/EN#0/notvisual that] has [/EN#146553/other a white door] and [/EN#146554/scene a balcony] .
+[/EN#146550/people A man] in [/EN#146551/clothing a blue shirt] is speaking to [/EN#146555/people a group of people] in front of [/EN#146552/scene a building] .
+[/EN#146549/people A group of people] are standing in front of [/EN#146552/scene a building] [/EN#0/notvisual that] has [/EN#146553/other a white door] .
+[/EN#146550/people Tour guide] telling [/EN#146549/people people] about [/EN#146552/scene a house] .

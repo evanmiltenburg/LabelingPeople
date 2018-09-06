@@ -1,0 +1,5 @@
+[/EN#130928/people a man] in [/EN#130936/clothing a red shirt] is laying on [/EN#130930/scene the grass] reaching out to [/EN#130929/people another person] .
+[/EN#130928/people a man] on [/EN#0/notvisual the ground] stretches [/EN#130935/bodyparts his hands] out to [/EN#130929/people another person] .
+[/EN#130928/people A man] , lying on [/EN#130930/scene the grass] , [/EN#130933/bodyparts hand] outstretched to [/EN#130931/bodyparts/people another arm] .
+[/EN#130928/people A man] is lying in [/EN#130930/scene the grass] with [/EN#130934/bodyparts his arms] outstretched .
+[/EN#130928/people A man] reaching for [/EN#130929/people someone] on [/EN#130930/scene the grass] .

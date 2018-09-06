@@ -1,0 +1,5 @@
+[/EN#142497/animals A dog] is jumping over [/EN#142498/other a log] in [/EN#142499/scene a wooded area] while carrying [/EN#142498/other another log] .
+[/EN#142497/animals A dog] with [/EN#142498/other a stick] in [/EN#142501/bodyparts his mouth] jumps over [/EN#142498/other a fallen tree] in [/EN#142499/scene the forest] .
+[/EN#142497/animals The dog] carries [/EN#142498/other a stick] and jumps over [/EN#142498/other a log] in [/EN#142503/other the woods] .
+[/EN#142497/animals The dog] jumps over [/EN#142498/other the log] with [/EN#142498/other a stick] in [/EN#142501/bodyparts its mouth] .
+[/EN#142497/animals Dog] carries [/EN#142498/other stick] and jumps over [/EN#142498/other a log] .

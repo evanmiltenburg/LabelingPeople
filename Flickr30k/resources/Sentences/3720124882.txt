@@ -1,0 +1,5 @@
+[/EN#139343/people An Asian woman] in [/EN#139347/clothing a pink shirt] and [/EN#139349/clothing a hat] carrying [/EN#139344/scene a part of a fence] .
+[/EN#139343/people Someone] is [/EN#139347/clothing purple] is carrying [/EN#139344/other a screen] made from [/EN#139344/other wood] and [/EN#139344/other mesh] .
+[/EN#139343/people A person] in [/EN#139347/clothing a pink shirt] carries [/EN#139344/other a large bamboo framed screen] .
+[/EN#139343/people A person] in [/EN#139347/clothing a purple shirt] is carrying [/EN#139344/other a wired wooden grid] .
+[/EN#139343/people A person] in [/EN#139347/clothing purple] carrying [/EN#139344/other a large metal object] .

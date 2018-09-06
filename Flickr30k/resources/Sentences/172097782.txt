@@ -1,0 +1,5 @@
+[/EN#19422/people A man] wearing [/EN#19423/clothing a red life jacket] is holding [/EN#19427/other a purple rope] while [/EN#19428/other waterskiing] .
+[/EN#19422/people A man] wearing [/EN#19426/clothing swimming trunks] is waterskiing [/EN#19424/other backwards] using [/EN#19425/bodyparts only one hand] .
+[/EN#19422/people A man] in [/EN#19426/clothing swim trunks] and [/EN#19423/scene a red life vest jet] skiing .
+[/EN#19422/people Person] in [/EN#19423/clothing red ski jacket] skiing [/EN#19424/other backwards]
+[/EN#19422/people A man] waterskiing with [/EN#19425/bodyparts one hand] .

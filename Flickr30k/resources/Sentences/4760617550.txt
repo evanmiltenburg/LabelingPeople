@@ -1,0 +1,5 @@
+[/EN#199973/people A person] is walking on [/EN#199975/scene the bridge] over [/EN#199976/scene a canal] , and [/EN#199974/scene buildings] are bright under [/EN#199981/other sun] and [/EN#199980/scene clear sky] .
+[/EN#199973/people A man] wearing [/EN#199977/clothing a white shirt] crossing [/EN#199975/scene a bridge] in front of [/EN#199974/scene a stucco colored building] .
+[/EN#199973/people A man] in [/EN#199978/clothing black pants] and [/EN#199977/clothing a white shirt] crossing [/EN#199975/scene a bridge] in front of [/EN#199974/scene a tan building] .
+[/EN#199973/people A man] walks off of [/EN#199975/scene a bridge] in front of [/EN#199974/scene a large orange building] .
+[/EN#199974/scene An orange building] in front of [/EN#199976/scene a river] with [/EN#199975/scene a bridge] .

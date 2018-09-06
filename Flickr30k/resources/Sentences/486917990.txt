@@ -1,0 +1,5 @@
+[/EN#213213/people A person] wearing [/EN#213215/clothing a white hat] climbs [/EN#213214/other a rock] .
+[/EN#213213/people A person] climbs [/EN#213216/scene a steep mountain] .
+[/EN#213213/people A girl] is climbing [/EN#213214/other a rock wall] .
+[/EN#213213/people Someone] climbs [/EN#213214/other a rocks] .
+[/EN#213213/people A rock climber] ascends .

@@ -1,0 +1,5 @@
+[/EN#103765/people A woman] in [/EN#103767/clothing a blue shirt] , [/EN#103766/clothing white apron] and [/EN#103773/other yellow kerchief] is placing [/EN#103769/other an ingredient] from [/EN#103772/other a glass jar] in to [/EN#103768/other her dish] .
+[/EN#103765/people Lady] wearing [/EN#103766/clothing a apron] is adding [/EN#103770/other ingredients] to [/EN#103768/other a rice dish] .
+[/EN#103765/people An old women] is placing [/EN#103769/other something] into [/EN#103768/other a plate of food] .
+[/EN#103765/people An older woman] adding [/EN#103770/other spices] to [/EN#103768/other food] [/EN#0/notvisual she] is preparing .
+[/EN#103765/people Older man] cooking [/EN#103768/other a new dish] .

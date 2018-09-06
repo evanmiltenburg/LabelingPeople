@@ -1,0 +1,5 @@
+[/EN#152295/people An older man] in [/EN#152301/clothing white] , standing at [/EN#152297/other a fire] with [/EN#152300/other tool] in [/EN#152307/bodyparts hand] , and [/EN#152299/other a pile of wood] behind [/EN#152295/people the man] .
+[/EN#152295/people A man] in [/EN#152301/clothing a white apron] and [/EN#152305/clothing gloves] stoking [/EN#152302/other coals] under [/EN#152297/other a large fire] in front of [/EN#152299/people a wood pile] .
+[/EN#152295/people A chef] working on [/EN#152298/other an outside stove] burning [/EN#152302/other coal] and logs to cook [/EN#152306/other the top layer of food]
+[/EN#152295/people A man] is holding [/EN#152300/other a tool] to stoke [/EN#152302/other the coals] on [/EN#152297/scene a large cooking fire outside] .
+[/EN#152295/people A working man] is burning [/EN#152299/other logs] , [/EN#0/notvisual he] is wearing [/EN#152303/clothing a hat] and [/EN#152301/clothing white uniform] .

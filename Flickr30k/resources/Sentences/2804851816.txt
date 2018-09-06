@@ -1,0 +1,5 @@
+[/EN#73900/animals The brown dog] is running through [/EN#73902/scene the dry grass] with [/EN#73901/other a ball] in [/EN#73903/bodyparts its mouth] .
+[/EN#73900/animals The brown dog] is running through [/EN#73902/scene a field] , with [/EN#73901/other a ball] in [/EN#73903/bodyparts its mouth] .
+[/EN#73900/animals A brown dog] runs with [/EN#73901/other a toy] in [/EN#73903/bodyparts his mouth] through [/EN#73902/scene long green grass] .
+[/EN#73900/animals A brown dog] has [/EN#73901/other a ball] in [/EN#73903/bodyparts his mouth] while playing in [/EN#73904/scene the fence] .
+[/EN#73900/animals The brown dog] with [/EN#73905/bodyparts pointy ears] is holding [/EN#73901/other a ball] in [/EN#73903/bodyparts its mouth] .

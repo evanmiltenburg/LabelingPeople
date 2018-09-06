@@ -1,0 +1,5 @@
+[/EN#162094/people A young woman] wearing [/EN#162095/clothing a blue coat] and [/EN#162099/clothing brown leggings] getting ready to walk into [/EN#162096/scene a building] , after riding [/EN#162093/vehicles her bicycle] .
+[/EN#162094/people A woman] wearing [/EN#162095/clothing a blue jacket] is standing outside next to [/EN#162093/vehicles a bicycle] .
+[/EN#162093/vehicles A bicycle] with [/EN#162100/other a basket] is on [/EN#162098/scene a sidewalk] .
+[/EN#162093/vehicles A bike] is parked in front of [/EN#162097/people the metro] .
+[/EN#162094/people An Asian girl] has parked [/EN#162093/vehicles her bicycle] .

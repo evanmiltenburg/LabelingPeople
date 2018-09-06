@@ -1,0 +1,5 @@
+[/EN#27125/animals A small puppy] stands on [/EN#27126/bodyparts his hind legs] to bite [/EN#27127/animals a bigger dog] [/EN#0/notvisual who] is lying on [/EN#27128/other the stairs] .
+[/EN#27127/animals The small brown dog] is laying down while [/EN#27125/animals the black dog] is biting [/EN#0/notvisual it] .
+[/EN#27125/animals A black and tan puppy] is biting [/EN#27129/animals the ear of a brown dog] .
+[/EN#27125/animals A black puppy] chewing on [/EN#27127/animals an adult brown dog] .
+[/EN#27125/animals A black puppy] chewing on [/EN#27127/bodyparts a brown dog 's neck]

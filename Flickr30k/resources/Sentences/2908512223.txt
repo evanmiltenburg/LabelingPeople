@@ -1,0 +1,5 @@
+[/EN#80629/people The little girl] in [/EN#80630/clothing the yellow dress] and [/EN#80633/other the pink boots strides] down [/EN#80631/scene the sidewalk] .
+[/EN#80629/people A little girl] in [/EN#80630/clothing a yellow dress] and [/EN#80633/clothing pink boots] running down [/EN#80632/scene the street]
+[/EN#80629/people A young girl] in [/EN#80630/clothing a dress] runs along [/EN#80632/scene a street] toward [/EN#0/notvisual the camera] .
+[/EN#80629/people A little girl] in [/EN#80630/clothing a yellow dress] is prancing down [/EN#80631/scene the sidewalk] .
+[/EN#80629/people A little girl] in [/EN#80633/clothing pink boots] runs down [/EN#80632/scene the street] .

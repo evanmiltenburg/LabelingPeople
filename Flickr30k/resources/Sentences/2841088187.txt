@@ -1,0 +1,5 @@
+[/EN#76182/people A boy] with [/EN#76186/other a whistle] around [/EN#76189/bodyparts his neck] is standing by [/EN#76184/scene a lake] and gesturing .
+[/EN#76182/people A boy] with [/EN#76187/clothing goggles] and [/EN#76186/other a whistle] standing near [/EN#76184/scene a body of water] .
+[/EN#76182/people A boy] wearing [/EN#76183/clothing a blue shirt] and [/EN#76186/other a whistle] standing by [/EN#76184/scene a lake] .
+[/EN#76182/people A boy] in [/EN#76183/clothing a blue shirt] and [/EN#76187/clothing goggles] is standing by [/EN#76185/other a tree] .
+[/EN#76182/people a boy] at [/EN#76188/scene the park] under [/EN#76185/other the trees]

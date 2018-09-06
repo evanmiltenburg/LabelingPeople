@@ -1,0 +1,5 @@
+[/EN#258755/people A teenager] in [/EN#258757/clothing a blue Hollister brand sweatshirt] adjusts [/EN#258756/other a " Sky-Watcher " telescope] .
+[/EN#258755/people A woman] in [/EN#258757/clothing a blue hoodie] is looking through [/EN#0/notvisual her] telescope inside .
+[/EN#258755/people A person] is touching [/EN#258756/other a telescope] inside .
+[/EN#258755/people The person] is adjusting [/EN#258756/other the telescope] .
+[/EN#258755/people A boy] examines [/EN#258756/other a black telescope] .

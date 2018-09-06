@@ -1,0 +1,5 @@
+[/EN#32083/people Two people] are seated in [/EN#32085/other striped outdoor chairs] [/EN#0/notvisual which] are placed in [/EN#32084/scene a body of water] and [/EN#32088/people one man] is holding [/EN#32086/other a large fishing pole] .
+[/EN#32083/people Two people] are sitting fishing on [/EN#32085/other striped beach chairs] in [/EN#32084/scene a body of water] .
+[/EN#32083/people Two men] sit in [/EN#32085/other beach chairs] in [/EN#32089/other the shallows] as [/EN#32087/other one] goes fishing .
+[/EN#32083/people Two men] are sitting in [/EN#32085/other chairs] in [/EN#32084/scene the water] fishing .
+[/EN#32083/people Men] sitting in [/EN#32085/other chairs] in [/EN#32084/scene shallow water] fishing .

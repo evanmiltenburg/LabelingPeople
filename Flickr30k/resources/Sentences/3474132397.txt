@@ -1,0 +1,5 @@
+[/EN#120839/people A woman] with [/EN#120846/clothing a yellow cap] in [/EN#120840/scene a tennis court] hits [/EN#120842/other a tennis ball] with [/EN#120845/other a tennis racket] .
+[/EN#120839/people A girl] in [/EN#120843/clothing a white shirt] and [/EN#120844/clothing black shorts] playing [/EN#120841/other tennis] .
+[/EN#120839/people A tennis player] in [/EN#120843/clothing a white shirt] is hitting [/EN#120842/other the ball] .
+[/EN#120839/people A woman] is playing [/EN#120841/other a tennis] in [/EN#120840/scene the lawn] .
+[/EN#120839/people A woman] hitting [/EN#120842/other a tennis ball] .

@@ -1,0 +1,5 @@
+[/EN#196326/people A person] in [/EN#196333/clothing a hat] is pushing [/EN#196328/vehicles a blue cart] with [/EN#196328/other two wheels] with [/EN#196331/people lots of people] behind [/EN#0/notvisual them] .
+[/EN#196325/people A person] pushes [/EN#196328/vehicles a food cart] through [/EN#196332/scene the streets] .
+[/EN#196326/people Street vendors] [/EN#196330/people all] over in [/EN#196329/scene a asian market] .
+[/EN#196325/people The man] is pulling [/EN#196328/vehicles the food cart] .
+[/EN#196325/people A person] working at [/EN#196328/vehicles a food cart] .

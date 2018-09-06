@@ -1,0 +1,5 @@
+On [/EN#99977/scene a rainy day] , near [/EN#99978/scene a river] , [/EN#99970/people many people] are standing with [/EN#99975/clothing umbrellas] and [/EN#99973/clothing raincoats] near [/EN#99972/scene a fountain] [/EN#0/notvisual that] features [/EN#99976/other a central stone statue] while [/EN#99980/other others] stand in [/EN#99979/other line] .
+[/EN#99971/people People] are walking in [/EN#99974/other the rain] with [/EN#99975/clothing umbrellas] and [/EN#99973/clothing raincoats] around [/EN#99972/scene the fountain] .
+[/EN#99971/people A large group of people] standing near [/EN#99972/scene a big fountain] as [/EN#0/notvisual it] rains .
+[/EN#99970/people A crowd] gathered around [/EN#99972/scene a park water fountain] in [/EN#99974/other the rain] .
+[/EN#99970/people People] gathering near [/EN#99972/scene a fountain] while [/EN#0/notvisual it] snows .

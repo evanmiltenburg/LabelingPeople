@@ -1,0 +1,5 @@
+[/EN#216315/people A woman] stands at [/EN#216316/scene a crosswalk] as [/EN#216321/other the light displays] [/EN#216318/bodyparts a hand] showing [/EN#216320/bodyparts a middle finger] flipping [/EN#216323/people the viewers] off .
+[/EN#216315/people A woman] standing at [/EN#216316/scene a crosswalk] [/EN#0/notvisual which] has [/EN#216318/bodyparts only the hand] and [/EN#216322/scene the middle] finger lit up .
+[/EN#216315/people Woman] in [/EN#216324/clothing short-sleeve purple shirt] pushing [/EN#216317/other button] on [/EN#216319/scene street] .
+[/EN#216315/people A woman] is pressing [/EN#216317/other the crosswalk button] .
+[/EN#216315/people A woman] waiting to cross [/EN#216319/scene the street] .

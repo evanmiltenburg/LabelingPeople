@@ -1,0 +1,5 @@
+[/EN#247449/people A tennis player] , wearing [/EN#247452/clothing a yellow shirt] , jumps to hit [/EN#247456/other the ball] to [/EN#247453/people the other player] , [/EN#0/notvisual who] is wearing [/EN#250000/clothing black] .
+[/EN#247450/people Two female tennis players] are [/EN#247460/other one] [/EN#247451/other the court] and [/EN#247454/other the one] in [/EN#247452/clothing the yellow shirt] is serving [/EN#247456/other the ball] .
+[/EN#247450/people Two girls] playing [/EN#247455/other tennis] , [/EN#247449/people the girl] in [/EN#247457/scene the forefront] is serving [/EN#247456/other the tennis ball] to [/EN#247453/people her opponent] .
+[/EN#247450/people Two women] , [/EN#247454/other one] caught in [/EN#0/notvisual mid jump] as [/EN#0/notvisual she] hits [/EN#247456/other the ball] with [/EN#247458/other a racket] , play [/EN#247455/other tennis] on [/EN#247451/other a court] .
+In [/EN#247461/other the midst of a tennis match] , [/EN#247449/people a girl] in [/EN#247452/clothing yellow] is jumping to hit [/EN#247456/other the ball] .

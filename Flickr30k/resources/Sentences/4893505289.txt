@@ -1,0 +1,5 @@
+[/EN#215746/people A man] mows [/EN#215748/scene the lawn] at [/EN#215747/scene an orchard] , careful to avoid [/EN#215752/other the hedges] and [/EN#215754/other flowers] on [/EN#0/notvisual either side of him] .
+[/EN#215746/people A man] in [/EN#215755/clothing a green shirt] trims [/EN#215748/scene the grass] in [/EN#215750/other a riding mower] .
+[/EN#215746/people A man] riding [/EN#215750/other a lawn mower] around [/EN#215752/other the hedges] in [/EN#215747/scene a garden] .
+[/EN#215746/people A man] cuts [/EN#215748/scene the grass] along side [/EN#215752/other a wall of hedges] .
+[/EN#215746/people A man] is using [/EN#215751/other a ride] on [/EN#215750/other lawn mower] .

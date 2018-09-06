@@ -1,0 +1,5 @@
+[/EN#127614/people person] wearing [/EN#127620/clothing a helmet] on [/EN#127615/vehicles a four wheeled bike] in [/EN#0/notvisual air]
+[/EN#127614/people A man] riding [/EN#127615/vehicles an ATV] makes [/EN#0/notvisual a jump] over [/EN#127617/scene a dirt road] .
+[/EN#127614/people A racer] on [/EN#127615/vehicles an ATV] leaves [/EN#0/notvisual the ground] in [/EN#0/notvisual a jump] .
+[/EN#127614/people The man] does [/EN#0/notvisual a trick] on [/EN#127615/other the fourwheeler] .
+[/EN#127614/people A man] driving [/EN#127615/vehicles a four-wheeler] off-road .

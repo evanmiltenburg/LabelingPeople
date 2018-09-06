@@ -1,0 +1,5 @@
+[/EN#197674/animals Two enormous elephants] standing on [/EN#197671/other a platform] not fenced in , with [/EN#197665/people a lady] sitting causally sitting on [/EN#197666/other a bench] , in front of [/EN#0/notvisual them] .
+[/EN#197665/people A woman] in [/EN#197667/clothing a green blouse] and [/EN#197672/clothing black skirt] sitting on [/EN#197666/other a bench] in front of [/EN#197670/people an elephant model] .
+[/EN#197665/people A woman] wearing [/EN#197667/clothing a green shirt] is sitting on [/EN#197666/other a bench] in front of [/EN#197669/other two elephant statues] .
+[/EN#197665/people A woman] sits on [/EN#197666/other a bench] in front of [/EN#197669/other an elephant display] in [/EN#197668/scene a museum] .
+[/EN#197665/people A woman] poses in front of [/EN#197669/other two large elephant statues] in [/EN#197668/scene a museum] .

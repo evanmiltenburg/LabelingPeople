@@ -1,0 +1,5 @@
+[/EN#80666/people An Asian man] and [/EN#80667/people woman] smile while [/EN#80666/people the man] points to [/EN#80670/other something] to [/EN#80669/other the right of the picture] .
+[/EN#0/notvisual There] is [/EN#80666/people an Asian man] and [/EN#80667/people woman] , [/EN#0/notvisual both] smiling , and [/EN#0/notvisual he] is pointing at [/EN#0/notvisual her] .
+[/EN#80666/people A guy] is pointing with [/EN#80667/people a girl] sitting beside [/EN#0/notvisual him] .
+[/EN#80666/people A man] and [/EN#80667/people a woman] are smiling
+[/EN#80668/people two people] laugh .

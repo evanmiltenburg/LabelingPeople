@@ -1,0 +1,5 @@
+[/EN#85326/people A worker] , elevated on [/EN#85332/other a piece of equipment] , is trying to repair [/EN#85328/other a pole] near [/EN#85331/other a window] .
+[/EN#85326/people A man] in [/EN#85330/clothing a red shirt] and [/EN#85333/clothing jeans] on [/EN#85326/people a cherry picker] holds onto [/EN#85329/other a wooden sign] .
+[/EN#85326/people A man] in [/EN#85330/clothing a red tank top] is on [/EN#85326/people a cherry picker] fixing [/EN#85329/other a pole] .
+[/EN#85326/people A man] in [/EN#85330/clothing a red shirt] is working on [/EN#85328/other a large statue] .
+[/EN#85326/people A construction worker] is fixing [/EN#85331/other a window] .

@@ -1,0 +1,5 @@
+[/EN#184070/people One female] wearing [/EN#184071/clothing a blue sweatshirt] and [/EN#184077/clothing ski cap] is holding [/EN#184072/other a camera] and jumping .
+[/EN#184070/people A woman] in [/EN#184071/clothing a blue sweater] , holding [/EN#184072/other a camera] , is jumping in [/EN#184073/scene a park] .
+[/EN#184070/people A person] dressed in [/EN#184071/clothing blue] carrying [/EN#184072/other a camera] is jumping in [/EN#0/notvisual the air] .
+[/EN#184070/people A female photographer] jumping for [/EN#184076/other joy] in [/EN#184073/scene a quiet winter park] .
+[/EN#184070/people A photographer] relishes capturing [/EN#184075/other a great shot] .

@@ -1,0 +1,5 @@
+[/EN#282069/people A large billboard of a woman] wearing [/EN#282079/clothing a white shirt] and [/EN#282080/clothing lavender cami] is being hung by [/EN#282071/people 2 people] in [/EN#282073/scene mechanical lift] and [/EN#282077/people one man] standing on [/EN#282075/other the ledge] behind [/EN#282069/other the billboard] .
+[/EN#282071/people Two men] are in [/EN#282073/people a cherry picker] looking at [/EN#282069/other the billboard] [/EN#0/notvisual which] has [/EN#282069/people a picture of a blond woman] on [/EN#0/notvisual it] .
+[/EN#282069/people A billboard of a woman] , with [/EN#282070/people three men] , [/EN#282078/other two] in [/EN#282073/scene a lift] , and [/EN#282076/other one] on top of [/EN#282069/other the billboard] .
+[/EN#282071/people Two men] on [/EN#282073/people a cherry picker] putting up [/EN#282069/people a billboard of a woman] .
+[/EN#282070/people Men] working on [/EN#282069/other a billboard] .

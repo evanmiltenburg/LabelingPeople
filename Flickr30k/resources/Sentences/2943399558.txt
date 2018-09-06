@@ -1,0 +1,5 @@
+[/EN#83189/people A person] wearing [/EN#83197/clothing slacks] and [/EN#83198/clothing a backpack] climbs [/EN#83192/other a ladder] up [/EN#83190/bodyparts the side of the rock face] of [/EN#83195/scene a gorge] .
+[/EN#83189/people A person] is climbing [/EN#83192/other a wooden ladder] on [/EN#83194/scene a very steep , jagged , rock cliff] .
+[/EN#83189/people A person] climbs [/EN#83192/other a wood ladder] laid down on [/EN#83194/scene a steep rock cliff] .
+[/EN#83189/people A person] is climbing [/EN#83191/other a flimsy] looking [/EN#83192/other ladder] up [/EN#83190/bodyparts a cliff face] .
+[/EN#83189/people A person] is climbing [/EN#83192/other a wooden ladder] up [/EN#83196/other a rocky ledge] .

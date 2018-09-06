@@ -1,0 +1,5 @@
+[/EN#279022/people A person] in [/EN#279024/clothing white] carries [/EN#279025/other a tray of food] on [/EN#279023/scene a beach] .
+[/EN#279022/people Someone] wearing [/EN#279024/clothing a dress] is carrying [/EN#279025/other a tray of food] .
+[/EN#279022/people A woman] preparing to serve [/EN#279025/other a meal] on [/EN#279023/scene the beach] .
+[/EN#279022/people A lady] on [/EN#279023/scene a foreign beach] holding [/EN#279025/other a food tray] .
+[/EN#279022/people A waiter] serving [/EN#279025/other lunch] on [/EN#279023/scene the beach] .

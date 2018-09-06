@@ -1,0 +1,5 @@
+[/EN#196280/people Three men] chat while sitting and standing on top of [/EN#196281/clothing a military tank] .
+[/EN#196280/people Three men] rest on [/EN#196281/clothing the turret of a tank] .
+[/EN#196280/people Three men] sit on top of [/EN#196281/clothing a green tank] .
+[/EN#196280/people Three men] sit atop [/EN#196281/other a tank turret] .
+[/EN#196280/people Men] sitting on [/EN#196281/clothing an army tank] .

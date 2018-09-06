@@ -1,0 +1,5 @@
+[/EN#13561/animals A long-necked bird] standing on [/EN#13563/other a rock] with [/EN#13567/scene waves] crashing in [/EN#0/notvisual the background] .
+[/EN#13561/animals A bird] is standing on [/EN#13563/other a rock] overlooking [/EN#13565/scene a waterfall] .
+[/EN#13561/animals A long-necked bird] standing on [/EN#13562/other rocks] by [/EN#13562/other river rapids] .
+[/EN#13561/animals An egret] stands on [/EN#13563/other a rock] at [/EN#13565/scene the edge of a river] .
+[/EN#13561/animals A bird] watches [/EN#13562/other the waves crash] over [/EN#13562/other the rocks] .

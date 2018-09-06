@@ -1,0 +1,5 @@
+[/EN#33029/people A little boy] stands behind [/EN#33030/other a tree] wearing [/EN#33031/clothing a hooded sweater] and smiles for [/EN#0/notvisual the camera] .
+[/EN#33029/people Young boy] wearing [/EN#33031/other a hood] , smiling and hiding behind [/EN#33030/other a tree] .
+[/EN#33029/people Small child] playing [/EN#33032/other peek-a-boo] behind [/EN#33030/other a tree] in [/EN#33034/scene a park] .
+[/EN#33029/people A young Asian child] is smiling from around [/EN#33030/other the tree] .
+[/EN#33029/people A smiling child] is standing behind [/EN#33030/other a tree] .

@@ -1,0 +1,5 @@
+[/EN#225176/people A man] in [/EN#225178/clothing a red shirt] is sitting with [/EN#225177/animals his brown and white dog] .
+[/EN#225176/people A man] sitting on [/EN#225179/scene the floor] with [/EN#225177/animals a puppy] .
+[/EN#225176/people A man] is looking [/EN#0/notvisual it] [/EN#225177/animals his pitbull dog] .
+[/EN#225176/people A man] sitting with [/EN#225177/animals his small dog] .
+[/EN#225177/animals This man 's dog] looks surprised .

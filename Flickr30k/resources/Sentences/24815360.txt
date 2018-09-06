@@ -1,0 +1,5 @@
+[/EN#52698/people A man] wearing [/EN#52705/clothing blue jeans] and [/EN#52706/clothing red bowling shoes] stands in [/EN#52700/other a bowling alley lane] with [/EN#52701/other a green ball] in [/EN#52702/bodyparts his hand] .
+In [/EN#52699/scene a bowling alley] , [/EN#52698/people a man] holding [/EN#52701/other a green bowling ball] looks ahead at [/EN#52704/other the pins] [/EN#0/notvisual that] [/EN#0/notvisual he] must knock down .
+[/EN#52698/people A man] holding [/EN#52701/other a green bowling ball] stands by [/EN#52703/other the ball return machine] in [/EN#52699/scene a bowling alley] .
+[/EN#52698/people A guy] stands with [/EN#52701/other a green bowling ball] in [/EN#52702/bodyparts his hand] , and looks down [/EN#52700/other the bowling lane] .
+[/EN#52698/people A man] is standing up holding [/EN#52701/other a green bowling ball] with [/EN#52702/bodyparts his right hand] .

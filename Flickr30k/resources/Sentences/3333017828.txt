@@ -1,0 +1,5 @@
+[/EN#110183/animals A white and brown dog] runs along [/EN#110186/scene the shoreline] .
+[/EN#110183/animals A white and tan dog] is running on [/EN#110184/scene a beach] .
+[/EN#110183/animals A dog] runs along [/EN#110184/scene a beach] near [/EN#110185/scene the waves] .
+[/EN#110183/animals A white dog] running along side [/EN#110185/scene a river]
+[/EN#110183/animals A white dog] is running on [/EN#110187/other wet rocks] .

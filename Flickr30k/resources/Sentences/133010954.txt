@@ -1,0 +1,5 @@
+[/EN#8782/people A man] in [/EN#8783/clothing a military-type uniform] is standing in [/EN#8790/scene the street] listening to [/EN#8784/people another man] [/EN#0/notvisual who] has [/EN#8786/other a piece of paper] in [/EN#8787/bodyparts his hands] .
+[/EN#8782/people A man] in [/EN#8783/clothing uniform] and [/EN#8784/people a man] in [/EN#8788/clothing a blue shirt] are standing in front of [/EN#8789/vehicles a truck] .
+[/EN#8784/people A man] in [/EN#8788/clothing a blue shirt] gesticulates as [/EN#0/notvisual he] speaks to [/EN#8782/people a uniformed official] .
+[/EN#8784/people A man] in [/EN#8788/clothing dressy clothes] instructed [/EN#8782/people a captain] near [/EN#8789/vehicles a large truck] .
+We have to go there to look into the machine .

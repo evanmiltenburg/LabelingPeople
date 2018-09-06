@@ -1,0 +1,5 @@
+[/EN#268934/people An older man] wearing [/EN#268939/other a blue button] up [/EN#268935/clothing shirt] is removing [/EN#268937/other a fishing lure] from [/EN#268936/other a large net] .
+[/EN#268934/people A bearded man] wearing [/EN#268935/clothing a blue shirt] and [/EN#268940/clothing white t-shirt] is working on [/EN#268936/other a fishing net] .
+[/EN#268934/people A man] with [/EN#268935/clothing a blue shirt] on [/EN#0/notvisual that] is with [/EN#268936/other a fishing net] .
+[/EN#268934/people A thin man] is working with [/EN#268936/other some fishing gear] .
+[/EN#268934/people An older gentleman] tends to [/EN#268936/other his net] .

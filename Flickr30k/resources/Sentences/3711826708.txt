@@ -1,0 +1,5 @@
+[/EN#138727/animals A dog] is running through [/EN#138731/scene a very wooded area] with [/EN#138730/other large white flowers] .
+[/EN#138727/animals A dog] is walking through [/EN#138729/other an area of heavy foliage] along [/EN#138728/scene a dirt path] .
+[/EN#138727/animals A brown dog] is walking on [/EN#138728/scene a wooded path] with [/EN#138730/other white flowers] .
+[/EN#138727/animals A corgi] is walking down [/EN#138728/scene a path] in [/EN#138729/scene a forest] .
+[/EN#138727/animals a dog] runs across [/EN#138728/scene the path] .

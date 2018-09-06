@@ -1,0 +1,5 @@
+[/EN#43102/people A woman] talks on [/EN#43103/other a cellphone] while sitting in front of [/EN#43104/other blue railings] [/EN#0/notvisual that] are in front of [/EN#43105/scene the ocean] .
+[/EN#43102/people A woman] [/EN#43109/clothing in blue] sits on [/EN#43106/other a curb] next to [/EN#43104/other blue railings] in front of [/EN#43105/scene the ocean] .
+[/EN#43102/people A woman] relaxes on [/EN#43107/scene a pier] with [/EN#43104/other railings] while on [/EN#43103/other the phone] .
+[/EN#43102/people A girl] is talking on [/EN#43103/other the phone] while sitting on [/EN#43106/other a wall]
+[/EN#43102/people A woman] talking on [/EN#43103/other a cellphone] near [/EN#43105/scene water] .

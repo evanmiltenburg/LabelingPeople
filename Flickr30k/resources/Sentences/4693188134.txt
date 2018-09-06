@@ -1,0 +1,5 @@
+[/EN#191782/people A waiter] waiting for [/EN#191786/vehicles/scene a bus] to take [/EN#191791/scene her home] after [/EN#191792/scene long day] without getting [/EN#191782/people enough customers] at [/EN#191787/scene the restaurant] .
+[/EN#191782/people A woman] in [/EN#191783/clothing a black dress] and [/EN#191790/clothing heels] waiting to cross [/EN#191784/scene the street] .
+[/EN#191782/people A woman] is standing on [/EN#191788/scene the sidewalk] , in front of [/EN#191784/scene a crosswalk] .
+[/EN#191782/people A woman] in [/EN#191783/clothing a short black skirt] waits on [/EN#191785/scene a street corner] .
+[/EN#191782/people A woman] in [/EN#191783/clothing a black dress] waiting to cross [/EN#191785/scene the street] .

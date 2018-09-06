@@ -1,0 +1,5 @@
+[/EN#109331/people A man] in [/EN#109334/clothing red swim trunks] is serving [/EN#109333/other a beach volleyball] .
+[/EN#109331/people The volleyball player] in [/EN#109334/clothing red] is about to hit [/EN#109333/other the ball] .
+[/EN#109331/people A man] in [/EN#109334/clothing red a red swimsuit] hitting [/EN#109333/other a volleyball] .
+[/EN#109331/people A man] hits [/EN#109333/other a volleyball] on [/EN#109332/scene the beach] .
+[/EN#109331/people A man] plays [/EN#109333/other volleyball] on [/EN#109332/scene the beach] .

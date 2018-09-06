@@ -1,0 +1,5 @@
+[/EN#19285/people A boy] in [/EN#19287/clothing a colorful hat] and [/EN#19288/clothing red shirt] holding [/EN#19290/other a green seed] at [/EN#19286/scene the beach] .
+[/EN#19285/people A younger child] wearing [/EN#19288/clothing a red sweater] showing [/EN#19291/other us] [/EN#0/notvisual whats] in [/EN#19292/bodyparts his hand] .
+[/EN#19285/people A smiling child] in [/EN#19287/clothing a hat] and [/EN#19288/clothing sweatshirt] at [/EN#19286/scene the beach] .
+[/EN#19285/people A young boy] is smiling on [/EN#19286/scene the beach] .
+[/EN#19285/people A child] is holding [/EN#19289/other a bean] .

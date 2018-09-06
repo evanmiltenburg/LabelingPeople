@@ -1,0 +1,5 @@
+[/EN#24512/people A man] in [/EN#24517/clothing jeans] is using [/EN#24514/other a yard work tool] just above [/EN#24515/other some pavement steps] .
+[/EN#24512/people A man] is cleaning [/EN#24513/scene his yard] with [/EN#24514/other a leaf blower] .
+[/EN#24512/people A man] using [/EN#24514/other a leaf blower] in [/EN#24513/scene a garden] .
+[/EN#24512/people A man] works on [/EN#24513/scene his garden] .
+[/EN#24512/people A man] does [/EN#24516/other yard work] .

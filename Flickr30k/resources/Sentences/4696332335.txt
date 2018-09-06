@@ -1,0 +1,5 @@
+[/EN#192231/people A boy] wearing [/EN#192234/clothing a gray and white striped shirt] with [/EN#192233/clothing dark blue vest] is sitting in [/EN#192232/other a large container of Legos] , playing with [/EN#192236/other some] .
+[/EN#192231/people A young boy] with [/EN#192233/clothing a blue vest] and [/EN#192234/clothing striped gray sweatshirt] is playing with [/EN#192232/other Legos] .
+[/EN#192231/people A young boy] wearing [/EN#192233/clothing a vest] is sitting surrounded by and playing with [/EN#192232/other Legos] .
+[/EN#192231/people A child] wearing [/EN#192233/clothing a blue coat] is playing with [/EN#192232/other Legos] in [/EN#192235/other a large lego pit] .
+[/EN#192231/people A boy] sits and plays in [/EN#192235/other a pile of Legos] .

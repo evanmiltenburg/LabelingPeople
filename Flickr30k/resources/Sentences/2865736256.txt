@@ -1,0 +1,5 @@
+[/EN#77665/people A man] and [/EN#77666/people woman] speak with [/EN#77665/people a bus driver] while boarding [/EN#77663/vehicles/scene the bus] .
+[/EN#77664/people Some people] stand by [/EN#77670/other some poles] on [/EN#77663/vehicles/scene some kind of bus or train] .
+[/EN#77665/people A man] and [/EN#77666/people a woman] are entering [/EN#77663/vehicles/scene a bus] and paying [/EN#77667/other toll] .
+[/EN#77664/people A couple] are paying [/EN#77667/other their fare] at [/EN#77671/vehicles/scene the front of a bus] .
+[/EN#77663/vehicles/scene A bus] with [/EN#77669/people people] on [/EN#0/notvisual it] .

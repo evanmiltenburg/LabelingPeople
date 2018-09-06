@@ -1,0 +1,5 @@
+[/EN#126519/people one man] sitting playing [/EN#126521/instruments a small guitar] while [/EN#126523/people another man] is standing playing [/EN#126526/other a large chello] .
+[/EN#126519/people A seated man] playing [/EN#126521/instruments a small guitar] next to [/EN#126523/people a standing man] plucking [/EN#126526/instruments a bass] .
+[/EN#126523/people A man] with [/EN#126521/instruments a double bass] and [/EN#126519/people a man] with [/EN#126521/instruments a mandolin] play [/EN#126530/other music] .
+[/EN#126520/people The two gentleman] are playing [/EN#126524/instruments stringed instruments] .
+[/EN#126520/people two men] play [/EN#126524/instruments instruments] .

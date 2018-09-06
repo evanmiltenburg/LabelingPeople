@@ -1,0 +1,5 @@
+[/EN#221864/people A woman] [/EN#221872/other its alone] in [/EN#221870/scene an empty brick yard] , near [/EN#221867/other a bike rack] and [/EN#221869/clothing a blue umbrella] .
+[/EN#221864/people A girl] in [/EN#221868/clothing a black and white tank top] sits by [/EN#221865/scene little white buildings] .
+[/EN#221864/people A young lady] is sitting close to [/EN#221865/scene homes] with [/EN#221873/other solar panels] .
+[/EN#221864/people Girl] sitting on [/EN#0/notvisual the ground] in front of [/EN#221865/scene white huts] .
+[/EN#221864/people A girl] sits on [/EN#221871/scene a sidewalk] behind [/EN#221865/scene sheds] on [/EN#221866/scene a beach] .

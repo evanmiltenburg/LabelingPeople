@@ -1,0 +1,5 @@
+[/EN#23148/people A woman] in [/EN#23153/clothing a red coat] reviews [/EN#23157/scene an unseen sheet] on [/EN#23152/scene a podium] while [/EN#23147/people a man] in [/EN#23154/clothing blue tie] reviews [/EN#23159/scene his own podium] and plays [/EN#23151/instruments an acoustic guitar] .
+[/EN#23147/people A man] in [/EN#23154/clothing a tie] plays [/EN#23151/instruments guitar] while [/EN#23148/people a well dressed woman] looks over [/EN#23155/other sheet music] , possibly to sing .
+[/EN#23150/people Man] is playing [/EN#23151/instruments guitar] and reading [/EN#23155/other notes] , [/EN#23148/people woman] with [/EN#23153/clothing burgundy outfit] stands beside [/EN#0/notvisual him] .
+[/EN#23148/people A woman] in [/EN#23153/clothing a brown coat] looks at [/EN#23152/scene her music stand] while [/EN#23150/people a man] plays [/EN#23151/instruments guitar] beside [/EN#0/notvisual her] .
+[/EN#23147/people A male] playing [/EN#23151/instruments guitar] and [/EN#23148/people a female] singing together in [/EN#23158/scene a room] .

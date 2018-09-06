@@ -1,0 +1,5 @@
+[/EN#60960/people A young , blond girl] in [/EN#60962/clothing a fairy outfit] is riding [/EN#60961/vehicles a pink and purple tricycle] .
+[/EN#60960/people A small girl] dressed in [/EN#60962/clothing a green fairy costume] is riding [/EN#60961/vehicles a big wheel bicycle] .
+[/EN#60960/people a young girl] wearing [/EN#60962/clothing a green fairy costume] riding [/EN#60961/other a bigwheels]
+[/EN#60960/people A girl] wearing [/EN#60962/clothing a fairy costume] rides [/EN#60961/vehicles a tricycle] .
+[/EN#60960/people A girl] wearing [/EN#60962/clothing a fairy costume] rides [/EN#0/notvisual her] [/EN#60961/vehicles tricycle]

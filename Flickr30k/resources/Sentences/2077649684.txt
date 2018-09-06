@@ -1,0 +1,5 @@
+[/EN#27285/people An Asian woman] holding [/EN#27286/clothing a green bag] has fallen asleep on [/EN#27287/vehicles/scene the train] while [/EN#27288/people onlookers] in [/EN#27290/clothing suits] stand in front of [/EN#0/notvisual her]
+[/EN#27285/people An East Asian woman] sits in [/EN#0/notvisual what] appears to be [/EN#27291/vehicles a subway car] as [/EN#27288/people two businessmen] stand before [/EN#0/notvisual her] .
+[/EN#27285/people A woman] sleeps on [/EN#27289/vehicles/scene the subway] , holding [/EN#27286/clothing a green bag] .
+[/EN#27285/people A woman] with [/EN#27286/clothing a green bag] sits on [/EN#27287/vehicles/scene the train] .
+[/EN#27285/people A woman] is sitting down with [/EN#27286/clothing her bag] .

@@ -1,0 +1,5 @@
+[/EN#81511/animals a small black dog] biting [/EN#81513/people a ladies] [/EN#81512/bodyparts two fingers] on [/EN#81514/other a beige couch]
+[/EN#81511/animals Small black dog] biting [/EN#81512/people the fingers of a woman] .
+[/EN#81511/animals Small black dog] biting on [/EN#81512/bodyparts a person 's finger] .
+[/EN#81511/animals A small dog] bites [/EN#81512/bodyparts a ladies fingers] .
+[/EN#81511/animals A small black dog] chews on [/EN#81512/bodyparts fingers] .

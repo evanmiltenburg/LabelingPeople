@@ -1,0 +1,5 @@
+[/EN#41816/animals A black dog] wearing [/EN#41817/clothing a blue collar] is running through [/EN#41818/scene the snow] .
+[/EN#41816/animals A black dog] with [/EN#41817/clothing a blue collar] is running in [/EN#41818/scene the snow] .
+[/EN#41816/animals A black dog] running through [/EN#41818/scene the snow] .
+[/EN#41816/animals The black dog] has [/EN#41817/clothing a blue collar] on .
+[/EN#41816/animals a black dog] runs across [/EN#41818/scene the snow] .

@@ -1,0 +1,5 @@
+[/EN#188340/people Middle-aged woman] in [/EN#188345/clothing a sweater] and [/EN#188341/clothing white apron] is using [/EN#188342/other a spinning wheel] with [/EN#188342/other a second spinning wheel] in [/EN#0/notvisual the foreground] .
+and [/EN#188340/people elderly lady] is spooling [/EN#188347/other thread] on [/EN#188342/other an old fashioned spool] .
+[/EN#188340/people A woman] in [/EN#188341/clothing a white apron] is working on [/EN#188342/other a spinning wheel] .
+[/EN#188340/people A woman] smiles with [/EN#188342/other her old-fashioned sewing machine] .
+[/EN#188340/people A woman] wearing [/EN#188341/clothing an apron] is using [/EN#188342/other a spinning wheel] .

@@ -1,0 +1,5 @@
+[/EN#138678/people A man] in [/EN#138684/clothing a black shirt] and [/EN#138679/people a woman] in [/EN#138685/clothing black and red] sit at [/EN#138682/other a table] eating together .
+[/EN#138679/people A woman] and [/EN#138678/people a man] , wearing [/EN#138686/clothing black shirts] , [/EN#138687/other share] [/EN#138681/other a dinner conversation] .
+[/EN#138679/people A woman] and [/EN#138678/people a man] sitting at [/EN#138682/other a table] eating .
+[/EN#138683/people Two people] eating at [/EN#138688/scene a restaurant] .
+[/EN#138678/people man] and [/EN#138679/people women] having [/EN#138680/other dinner] .

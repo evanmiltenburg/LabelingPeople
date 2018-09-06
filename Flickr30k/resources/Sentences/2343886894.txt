@@ -1,0 +1,5 @@
+[/EN#43020/people A man] wearing [/EN#43022/clothing a red t-shirt] is snowboarding even though [/EN#0/notvisual he] 's not wearing [/EN#43022/clothing a jacket] .
+[/EN#43020/people A man] without [/EN#43028/other safety equipment] rides [/EN#43026/other a snowboard] across [/EN#43029/scene an elevated , curved surface]
+[/EN#43020/people One young man] is wearing [/EN#43025/clothing a hat] and [/EN#43027/clothing protective goggles] while snowboarding .
+[/EN#43020/people A young man] wearing [/EN#43021/clothing black pants] and [/EN#43022/clothing a red shirt] is snowboarding .
+[/EN#43020/people An extreme sports skier] grinding on top of [/EN#43024/other a curved structure]

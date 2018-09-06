@@ -1,0 +1,5 @@
+[/EN#239093/people A man] in [/EN#239094/clothing a suit] is playing [/EN#239096/instruments a musical instrument] on [/EN#239099/scene stage] with [/EN#0/notvisual lighted background] .
+[/EN#239093/people A middle-aged man] plays [/EN#239096/instruments a trumpet] illuminated by [/EN#239097/clothing purple] lighting .
+[/EN#239093/people A man] in [/EN#239094/clothing a beige suit] is playing [/EN#239096/instruments a trumpet] into [/EN#239095/other a microphone] .
+[/EN#239093/people An elderly white man] is playing [/EN#239096/instruments a trumpet] into [/EN#239095/other a microphone] .
+[/EN#239093/people A trombonist] plays [/EN#239098/other music] into [/EN#239095/other a microphone] .

@@ -1,0 +1,5 @@
+[/EN#119400/animals A black dog] wearing [/EN#119403/clothing a collar] running across [/EN#119401/scene the beach] .
+[/EN#119400/animals A black dog] running on [/EN#119401/scene the beach] near [/EN#119401/scene the shore] .
+[/EN#119400/animals A black dog] leaping off [/EN#119404/other the sand] .
+[/EN#119400/animals A dog] leaps on [/EN#119401/scene the sandy beach] .
+[/EN#119400/animals A black dog] runs on [/EN#119401/scene the beach] .

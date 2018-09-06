@@ -1,0 +1,5 @@
+[/EN#156630/people A small group of people] stands in [/EN#156631/scene a rocky field] surrounded by [/EN#156632/other camping equipment] and [/EN#156634/scene patches of snow] .
+[/EN#156630/people three cold men] set down [/EN#156632/other their supplies] in [/EN#156633/scene a ditch] .
+[/EN#156630/people A group of people] are camping out on [/EN#156635/other some rocks] .
+[/EN#156630/people People] with [/EN#156632/other camping equipment] on [/EN#0/notvisual rocky ground] .
+[/EN#156630/people A group] camps in [/EN#156631/scene a desolate area] .

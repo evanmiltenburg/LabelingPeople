@@ -1,0 +1,5 @@
+[/EN#26627/people A snowboarder] coasting down [/EN#26629/scene the side of a snowy hill] .
+[/EN#26628/people A skier] rapidly descending [/EN#26629/scene a steep snow covered hill] .
+[/EN#26627/people A man] snowboarding down [/EN#26629/scene a mountain] covered with [/EN#26629/scene snow] .
+[/EN#26631/other The sun] is shining above [/EN#26629/scene the snow] and [/EN#26632/other trees] .
+[/EN#26628/people Snowboarder] going down [/EN#26629/scene a fresh hill] .

@@ -1,0 +1,5 @@
+[/EN#30050/bodyparts A lone leafless tree of about 25 feet] stands in front of [/EN#30047/scene a construction site] using [/EN#30053/other blue mesh] and [/EN#30046/people a construction worker] resting [/EN#30054/bodyparts/people an arm] on [/EN#30049/other a traffic light pole] .
+[/EN#30046/people A person] wearing [/EN#30055/clothing a construction uniform] is leaning against [/EN#30049/other a traffic light pole] on [/EN#30052/scene the sidewalk] .
+[/EN#30046/people A construction worker] is leaning against [/EN#30048/other a traffic light pole] in front of [/EN#30047/scene a construction site] .
+[/EN#30046/people Construction worker] leaning against under [/EN#30048/other a crosswalk light] .
+[/EN#30046/people A construction worker] leaning against [/EN#30051/scene a post] .

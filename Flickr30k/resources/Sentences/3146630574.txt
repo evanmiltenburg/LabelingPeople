@@ -1,0 +1,5 @@
+[/EN#96477/animals A black and white dog] is running through [/EN#96481/scene the water] while holding [/EN#96479/other something] red in [/EN#96480/bodyparts its mouth] .
+[/EN#96477/animals The brown and white dog] is running across [/EN#96483/other the sand] with [/EN#96479/other a red object] in [/EN#96480/bodyparts his mouth] .
+[/EN#96477/animals A dog] runs on [/EN#96478/scene the beach] with [/EN#96479/other a red toy] with [/EN#96482/other a string] in [/EN#96480/bodyparts his mouth] .
+[/EN#96477/animals A dog] is running along [/EN#96478/scene a beach] with [/EN#96479/other a red object] in [/EN#96480/bodyparts its mouth] .
+[/EN#96477/animals A dog] is running in [/EN#96481/scene water] with [/EN#96479/other a red stick] in [/EN#96480/bodyparts its mouth]

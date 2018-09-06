@@ -1,0 +1,5 @@
+[/EN#221990/people A young man] dressed in [/EN#221991/clothing a black shirt] and [/EN#221993/clothing pants] is coming out of [/EN#221992/scene a grocery store] with [/EN#221997/other an anonymous piece of food] in [/EN#221999/bodyparts his mouth] .
+[/EN#221990/people A man] in [/EN#221991/clothing a blue sweater] and [/EN#221993/clothing black pants] exits [/EN#221998/other a news] and [/EN#221992/scene grocery store] .
+' [/EN#221994/people The Herald] ' being sold and advertised at [/EN#221992/other a mini-mart] .
+[/EN#221990/people A man] walks out of [/EN#221992/scene a grocery store] .
+[/EN#221990/people A man] walking out of [/EN#221992/scene a newsstand] .

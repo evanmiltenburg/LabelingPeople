@@ -1,0 +1,5 @@
+[/EN#147005/people Four guys] in [/EN#147009/clothing striped shirts] playing [/EN#147010/instruments music instruments] in [/EN#147006/scene a restaurant] .
+[/EN#147004/people A Mariachi band] performing in [/EN#147007/scene the back of a restaurant] .
+[/EN#147005/people Small Hispanic band] plays in [/EN#147007/scene a restaurant] .
+[/EN#147004/people String band] performs in [/EN#147006/scene restaurant] .
+[/EN#147004/people A band] gives [/EN#147008/other a performance] .

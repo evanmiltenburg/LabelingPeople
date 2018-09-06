@@ -1,0 +1,5 @@
+[/EN#126823/people An Asian male] with [/EN#126825/bodyparts a long white beard] playing [/EN#126826/instruments a musical instrument] with [/EN#126828/other a drink] at [/EN#126830/bodyparts his feet] .
+[/EN#126823/people A man] with [/EN#126825/bodyparts a white beard] and [/EN#126824/clothing a hat] is playing [/EN#126826/instruments a musical instrument] .
+[/EN#126823/people A man] wearing [/EN#126824/clothing a hat] and playing [/EN#126826/other a ukulele] is sitting on [/EN#126827/other the bench] .
+[/EN#126823/people A man] sits playing [/EN#126826/instruments his instrument] as [/EN#126831/people park goers] sit behind [/EN#0/notvisual him] .
+[/EN#126823/people An elderly Asian man] plays [/EN#126826/instruments an instrument] .

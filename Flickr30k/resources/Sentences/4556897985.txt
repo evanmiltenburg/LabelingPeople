@@ -1,0 +1,5 @@
+[/EN#178145/people A brown-haired man] with [/EN#178150/clothing glasses] is wearing [/EN#178147/clothing a black suit] , [/EN#178152/clothing blue shirt] , and [/EN#178153/clothing pink striped tie] while walking down [/EN#178144/scene the street] .
+[/EN#178143/people A group of people] are walking on [/EN#178144/scene the sidewalk of a busy street] .
+[/EN#178143/people People] in [/EN#178147/other mainly business attire hurry] along [/EN#178144/scene a city sidewalk] .
+[/EN#178143/people People] hurrying to get to [/EN#178149/other work] in [/EN#178146/scene a busy city] .
+[/EN#178143/people People] in [/EN#178148/other motion] down [/EN#178144/scene a city sidewalk] .

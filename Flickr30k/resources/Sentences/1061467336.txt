@@ -1,0 +1,5 @@
+[/EN#1550/people A few firefighters] , wearing [/EN#1556/clothing black , yellow , and pink jackets] , standing next to [/EN#1551/other a firetruck] .
+[/EN#1550/people Several firefighters] stand outside of [/EN#1553/scene a building] near [/EN#1555/other their firetrucks] .
+[/EN#1550/people Firefighters] at [/EN#1554/scene a scene] with [/EN#1551/other a firetruck] [/EN#0/notvisual that] has [/EN#0/notvisual it] 's [/EN#1552/other lights] on .
+[/EN#1550/people Firemen] stand outside of [/EN#1551/other their firetruck] with [/EN#1552/other all its lights] on .
+[/EN#1550/people Four on-duty firemen] talk in front of [/EN#1551/other a firetruck] .

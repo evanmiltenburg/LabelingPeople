@@ -1,0 +1,5 @@
+[/EN#40198/people A woman] wearing [/EN#40199/clothing a brown fur coat] and [/EN#40205/clothing hat] is walking outside in [/EN#40208/other the winter] in front of [/EN#40201/clothing a white] statues of [/EN#40204/people a mother] and [/EN#40200/people child] .
+[/EN#40198/people A woman] in [/EN#40199/clothing a long coat] passes by [/EN#40201/people a statue of a woman] on [/EN#40209/bodyparts her knees] kissing [/EN#40200/people a child] on [/EN#40207/bodyparts the top of his head] .
+[/EN#40198/people A woman] is walking in front of [/EN#40202/scene a building] with [/EN#40201/people a statue of a mother] and [/EN#40200/people child] .
+[/EN#40198/people A person] in [/EN#40199/clothing a fur collared coat] is walking past [/EN#40201/other a statue] .
+[/EN#40198/people A person] is walking through [/EN#40206/scene the snow] on [/EN#40203/scene a cold day] .

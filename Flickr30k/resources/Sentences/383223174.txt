@@ -1,0 +1,5 @@
+[/EN#144863/animals A lean light brown dog] has [/EN#144865/bodyparts his head] down on [/EN#0/notvisual the ground] playing with [/EN#144864/other a stick] .
+[/EN#144863/animals A brown dog] wearing [/EN#144867/other a key] is playing in [/EN#144868/scene the dirt] .
+[/EN#144863/animals A tan dog] rests [/EN#144865/bodyparts his head] in [/EN#144868/other the sand] .
+[/EN#144863/animals A brown dog] plays with [/EN#144864/other a stick] .
+[/EN#144866/animals Two dogs] and [/EN#144870/people a person] .

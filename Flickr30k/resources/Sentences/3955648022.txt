@@ -1,0 +1,5 @@
+[/EN#149469/people A woman] and [/EN#149468/people a boy] are in [/EN#149479/scene a parking lot] , [/EN#0/notvisual he] is riding [/EN#149472/vehicles a bike] and carrying [/EN#149474/other a shovel] while [/EN#0/notvisual she] is pulling [/EN#149470/other a laundry basket] on [/EN#149471/other a furniture dolly] .
+[/EN#149468/people Person] on [/EN#149472/vehicles bike] holding [/EN#149474/other a shovel] next to [/EN#149469/people a woman] in [/EN#149481/clothing a green shirt] with [/EN#149470/other a laundry basket] on [/EN#149471/vehicles a dolly cart] .
+[/EN#149468/people A boy] on [/EN#149472/vehicles a bicycle] with [/EN#149474/other a shovel] and [/EN#149469/people a woman] with [/EN#149470/other a laundry basket] wait beside [/EN#149480/scene the road] .
+[/EN#149468/people A young man] rides [/EN#149472/vehicles a bike] while carrying [/EN#149474/other a shovel] as [/EN#0/notvisual he] passes [/EN#149469/people a woman] with [/EN#149470/other a basket] .
+[/EN#149468/people A boy] with [/EN#149474/other a shovel] riding [/EN#149472/vehicles a bike] and [/EN#149469/people a woman] rolling [/EN#149470/other a basket] with [/EN#149471/other a dolly] .

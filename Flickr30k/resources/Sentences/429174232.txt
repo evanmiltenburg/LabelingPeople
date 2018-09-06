@@ -1,0 +1,5 @@
+[/EN#161885/bodyparts Two pairs of legs] walk past [/EN#161887/scene the end of an alley] between [/EN#161893/scene two brick buildings] .
+[/EN#161885/people Two people] walk down [/EN#161892/scene the street] , seen from [/EN#161894/other a alleyway] .
+[/EN#161889/people The legs of several people] walking past [/EN#161886/scene an alley] .
+[/EN#161890/scene View] through [/EN#161887/people an alley of pedestrians] passing by .
+[/EN#161886/scene an alley] open to [/EN#161891/people a couple of people] walking by

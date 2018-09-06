@@ -1,0 +1,5 @@
+[/EN#103596/people An older person] is sitting on [/EN#103598/other a red bench] next to [/EN#103599/people a black man] with [/EN#103600/scene a children 's bookstore] behind [/EN#0/notvisual them] [/EN#0/notvisual both] .
+[/EN#103596/people A person] sits on [/EN#103598/other a red bench] to eat while [/EN#0/notvisual another] watches .
+[/EN#103596/people An older man] is sitting on [/EN#103598/other a red bench] with [/EN#103599/people a younger man] .
+[/EN#103597/people Two people] sitting on [/EN#103598/other a red bench] in front of [/EN#103601/other books] .
+[/EN#103597/people two men] sit on [/EN#103598/other a bench] .

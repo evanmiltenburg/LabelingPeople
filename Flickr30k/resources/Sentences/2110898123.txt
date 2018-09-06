@@ -1,0 +1,5 @@
+[/EN#29336/animals The brown dog] is running on [/EN#29337/scene the grass] whilst wearing [/EN#29338/clothing an orange jacket] .
+[/EN#29336/animals A brown dog] wearing [/EN#29338/clothing a red vest] is running through [/EN#29337/scene the grass] .
+[/EN#29336/animals A brown dog] wearing [/EN#29338/clothing a red vest] is running in [/EN#29337/scene the grass] .
+[/EN#29336/animals A dog] wearing [/EN#29338/clothing a red cape] runs quickly across [/EN#29337/scene a field] .
+[/EN#29336/animals a dog] sprints across [/EN#29337/scene the grass] .

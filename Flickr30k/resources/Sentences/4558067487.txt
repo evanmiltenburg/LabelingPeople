@@ -1,0 +1,5 @@
+[/EN#178336/people two women] , smiling , walking past [/EN#178340/scene a closed clothing boutique] .
+[/EN#178336/people A couple of women] walk down [/EN#178341/scene the street] doing window shopping .
+[/EN#178336/people Two girls] are walking past [/EN#178338/other a storefront] [/EN#0/notvisual that] is closed .
+[/EN#178339/other Two mannequins] are in [/EN#178337/scene the window of a closed shop] .
+[/EN#178336/people Two young women] enjoy [/EN#0/notvisual themselves] on [/EN#178342/scene a sunny day] .

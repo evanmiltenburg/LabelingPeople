@@ -1,0 +1,5 @@
+[/EN#90181/people A man] in [/EN#90182/other a number] [/EN#90184/clothing ten jersey] kicks [/EN#90183/other a soccer ball] while [/EN#90185/people another team member] watches .
+[/EN#90181/people A man] in [/EN#90184/clothing a blue jersey] is kicking [/EN#90183/other a ball] while [/EN#90185/people another man] watches .
+[/EN#90186/people Two men] in [/EN#90187/clothing blue jersey tops] and [/EN#90190/clothing white shorts] play [/EN#90189/other soccer] .
+[/EN#90182/other Number ten] is kicking [/EN#90183/other the ball] as [/EN#90185/other number seven] watches .
+[/EN#90181/people A rugby player] swings [/EN#90191/bodyparts his leg] back to punt [/EN#90183/other the ball] .

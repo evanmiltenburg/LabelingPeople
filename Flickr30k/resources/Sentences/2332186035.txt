@@ -1,0 +1,5 @@
+[/EN#42159/people A photo of a woman] in [/EN#42160/clothing a black coat] standing in front of [/EN#42159/other a large two-paneled photo] depicting [/EN#42162/people a woman] in [/EN#42163/clothing a gray dress] looking down with [/EN#42164/bodyparts her hand] in [/EN#42165/clothing a bag] .
+[/EN#42166/people A lady] dressed in [/EN#42160/clothing a black coat] , [/EN#42167/clothing jean skirt] , [/EN#42168/clothing black boots] and [/EN#42165/clothing black handbag] , walking by [/EN#42159/people a huge ad of a lady] digging through [/EN#42169/clothing her purse] .
+[/EN#42166/people The lady pedestrian] appears oblivious to [/EN#42159/other the large ad] in [/EN#42170/other the window] [/EN#0/notvisual she] is passing .
+[/EN#42166/people A woman] wearing [/EN#42160/clothing a black jacket] and [/EN#42165/clothing purse] walking in front of [/EN#42159/other an advertisement] .
+[/EN#42166/people A woman] is walking past [/EN#42159/other an advertisement] in [/EN#42170/other a window] .

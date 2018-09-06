@@ -1,0 +1,5 @@
+[/EN#26149/people A man] in [/EN#26151/clothing a yellow suit] is kneeling on top of [/EN#26145/instruments a piano] while [/EN#26146/people another man] in [/EN#26153/clothing yellow] has [/EN#26143/instruments a musical instrument] in [/EN#26154/bodyparts his hands] .
+[/EN#26142/people Men] wearing [/EN#26148/clothing yellow suits] are on [/EN#26147/scene stage] with [/EN#26145/instruments a piano] and [/EN#26146/people one man] is playing [/EN#26143/instruments an upright bass] .
+[/EN#26142/people Two jazz musicians] are wearing [/EN#26148/clothing yellow suits] and performing on [/EN#26147/scene stage] .
+[/EN#26142/people Two performers] with [/EN#26148/clothing yellow suits] are playing on [/EN#26147/scene stage] .
+[/EN#26142/people Two men] performing on [/EN#26152/instruments instruments] .

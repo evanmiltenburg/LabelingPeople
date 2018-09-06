@@ -1,0 +1,5 @@
+[/EN#11452/people A man] in [/EN#11459/clothing a dark , blue shirt] is using [/EN#11453/vehicles a wheelbarrow] to dump [/EN#11457/scene dirt] next to [/EN#11454/scene a fence] .
+[/EN#11452/people A man] is pouring out [/EN#11453/vehicles the contents of his wheelbarrow] .
+[/EN#11452/people A man] pouring [/EN#11453/other a wheelbarrow of cement] on [/EN#11455/scene a sidewalk] .
+[/EN#11452/people A man] emptying [/EN#11453/vehicles a wheelbarrow]
+[/EN#11452/people Man] tipping [/EN#11453/other a wheel burro] .

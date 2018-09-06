@@ -1,0 +1,5 @@
+[/EN#170129/people An old man] in [/EN#170134/clothing dress pants] and [/EN#170131/clothing a light brown jacket] sitting on [/EN#170130/other a green bench] .
+[/EN#170129/people An old man] in [/EN#170132/clothing a cabbie hat] and [/EN#170135/clothing sunglasses] sits on [/EN#170130/other a green park bench] .
+[/EN#170129/people A man] in [/EN#170131/clothing a jacket] sits and snoozes on [/EN#170130/other a green park bench] .
+[/EN#170129/people An older man] sits on [/EN#170130/other a green park bench] next to [/EN#170133/other a tree] .
+[/EN#170129/people An elderly man] sits on [/EN#170130/other a green park bench] .

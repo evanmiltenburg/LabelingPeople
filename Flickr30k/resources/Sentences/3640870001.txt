@@ -1,0 +1,5 @@
+[/EN#133587/animals A brown dog] is walking in [/EN#133589/scene the river] with [/EN#133588/clothing a yellow ring] in [/EN#133590/bodyparts its mouth] .
+[/EN#133587/animals A dog] holding [/EN#133588/clothing a ring] in [/EN#133590/bodyparts his mouth] is standing in [/EN#133589/scene a small river] .
+[/EN#133587/animals The dog] runs through [/EN#133589/scene the water] while holding [/EN#133588/clothing a yellow ring] .
+[/EN#133587/animals Gray dog] in [/EN#133589/scene a stream] surrounded by [/EN#133591/other trees] and [/EN#133592/other shrubs] .
+[/EN#133587/animals A dog] with [/EN#133588/clothing a ring] in [/EN#133590/bodyparts its mouth] is standing in [/EN#133589/scene water] .

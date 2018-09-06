@@ -1,0 +1,5 @@
+[/EN#16883/people Woman] singing with [/EN#16884/other a microphone] next to [/EN#16885/people a person] playing [/EN#16886/instruments guitar] .
+[/EN#16883/people A woman] sings into [/EN#16884/other a microphone] by [/EN#16885/people a guy] playing [/EN#16886/instruments a guitar] .
+[/EN#16883/people A woman] sings in [/EN#16888/other a club] with [/EN#16885/people a guitarist] behind [/EN#0/notvisual her] .
+[/EN#16883/people A female performer] singing with [/EN#16890/people her band] .
+[/EN#16890/people A band] performs in [/EN#16889/scene a dimly lit setting] .

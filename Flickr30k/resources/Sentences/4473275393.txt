@@ -1,0 +1,5 @@
+[/EN#171287/people A monk] riding in [/EN#171289/vehicles a tricycle] observing [/EN#171291/other the surrounding] and [/EN#171288/people a driver] wearing [/EN#171295/clothing a yellow shirt]
+[/EN#171287/people A man] in [/EN#171290/clothing an orange wrap clothing] is being driven by [/EN#171288/people a man] on [/EN#171289/vehicles a motorbike] .
+[/EN#171287/people A man] in [/EN#171290/clothing a orange robe] is sitting on [/EN#171292/other the passenger seat of a motorcycle] .
+[/EN#171288/people A man] on [/EN#171289/vehicles a motorbike] is driving [/EN#171287/people a man] in [/EN#171290/clothing an orange robe] around [/EN#171296/scene town] .
+[/EN#171288/people A man] being escorted in [/EN#171293/vehicles a cart] attached to [/EN#171294/other a motorcycle] .

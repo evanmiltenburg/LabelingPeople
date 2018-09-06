@@ -1,0 +1,5 @@
+[/EN#14962/animals Two light-colored female goats] in [/EN#14967/scene an indoor arena] with [/EN#14963/people handlers] dressed in [/EN#14964/clothing white] .
+[/EN#14963/people A group of females] in [/EN#14964/clothing white suits] are in [/EN#14967/scene a petting zoo] with [/EN#14965/animals two goats] .
+[/EN#14963/people People] dressed in [/EN#14966/clothing all white] are looking at [/EN#14965/animals some shaved lambs] .
+[/EN#14963/people A group of people] in [/EN#14964/clothing white] stand with [/EN#14965/animals white goats] .
+[/EN#14963/people The people] have [/EN#14965/animals some animals] with [/EN#0/notvisual them] .

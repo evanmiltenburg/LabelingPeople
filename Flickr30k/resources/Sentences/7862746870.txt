@@ -1,0 +1,5 @@
+[/EN#276145/other A white race car full of logos] on [/EN#276147/scene a dirt track] with [/EN#276148/people a photographer] in [/EN#0/notvisual the background] .
+[/EN#276145/vehicles A race car] is doing [/EN#276146/other a turn] while [/EN#276148/people a man] is taking [/EN#276151/other a photo] in [/EN#0/notvisual the background] .
+[/EN#276145/vehicles A racing car] slides through [/EN#276146/other a curve] in [/EN#276147/other an off-road racing course] .
+[/EN#276145/vehicles A race car] making [/EN#276146/other a quick turn] in [/EN#276152/scene a wooded area] .
+[/EN#276145/vehicles A race car] takes [/EN#276146/other a turn] on [/EN#276147/scene a dirt road] .

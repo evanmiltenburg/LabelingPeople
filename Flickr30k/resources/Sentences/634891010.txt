@@ -1,0 +1,5 @@
+[/EN#253319/animals A three legged black and white dog] running behind [/EN#253320/animals a brown dog] with [/EN#253326/clothing a red bandanna] .
+[/EN#253319/animals A black and white dog] jumping out of [/EN#253324/scene the water] and [/EN#253320/animals a brown dog] shaking off .
+[/EN#253320/animals A brown dog] and [/EN#253319/animals a black and white dog] stand beside [/EN#253323/scene a hole] in [/EN#253322/scene the dirt] .
+[/EN#253321/animals Two dogs] are shaking [/EN#0/notvisual themselves] dry on [/EN#253322/scene the path] next to [/EN#253324/scene the water] .
+[/EN#253321/animals Two dogs] are shaking [/EN#253324/scene water] off .

@@ -1,0 +1,5 @@
+[/EN#176443/people A man] with [/EN#176448/clothing brown pants] and [/EN#176445/clothing brown jacket] is pushing [/EN#176444/vehicles a cart] up [/EN#176447/other a incline] .
+[/EN#176443/people A man] in [/EN#176445/clothing brown] is pushing [/EN#176444/other a dumpster] down [/EN#176446/scene a sidewalk] .
+[/EN#176443/people The man] wearing [/EN#176445/clothing a jacket] is carrying [/EN#176444/other a garbage bin] .
+[/EN#176443/people A man] pushing [/EN#176444/other a refuse bin] down [/EN#176446/scene the sidewalk] .
+[/EN#176443/people A man] wearing [/EN#176445/clothing a jacket] pushes [/EN#176444/other a garbage bin] .

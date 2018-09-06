@@ -1,0 +1,5 @@
+[/EN#74059/people A man] working on [/EN#74060/scene a roof] [/EN#74059/people the man] is not wearing [/EN#74063/clothing a shirt] because [/EN#0/notvisual it] looks like [/EN#74062/scene a hot day] .
+[/EN#74059/people A man] in [/EN#74061/clothing a blue ball cap] and wearing [/EN#74065/clothing no shirt] working on [/EN#74060/scene a roof] .
+[/EN#74059/people A man] does [/EN#74064/other construction work] on [/EN#74060/scene the roof of a building] .
+[/EN#74059/people a shirtless man] is working on [/EN#74060/scene the roof of a building] .
+[/EN#74059/people A guy] on [/EN#74060/scene a roof] working on [/EN#74060/other terracotta roof tiles] .

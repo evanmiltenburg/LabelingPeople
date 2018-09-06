@@ -1,0 +1,5 @@
+[/EN#262343/people A man] sits on [/EN#262345/other an ornately designed stone bench] , [/EN#262349/bodyparts his legs] crossed , looking at [/EN#262344/other his smartphone] .
+[/EN#262343/people A man] sitting on [/EN#262345/other a stone bench] checks [/EN#262344/other an electronic device] on [/EN#262347/scene a sunny day] .
+[/EN#262343/people A young man] sits [/EN#262348/other cross] legged on [/EN#262345/other a stone bench] looking at [/EN#262344/other his cellphone] .
+[/EN#262343/people A man] checks [/EN#262344/other his phone] while sitting on [/EN#262345/other a stone bench] .
+[/EN#262343/people A man] is in [/EN#262346/scene a park] using [/EN#262344/other his mobile phone] .

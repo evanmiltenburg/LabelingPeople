@@ -1,0 +1,5 @@
+[/EN#148872/people The woman] in [/EN#148875/clothing the red jacket] looks as if [/EN#0/notvisual she] was buying [/EN#148874/other something] from [/EN#148872/people the open air vendor] .
+[/EN#148872/people Woman] in [/EN#148875/clothing red coat] buying [/EN#148874/other something] from [/EN#148872/people a street vendor] .
+[/EN#148872/people A woman] makes [/EN#148876/other a purchase] at [/EN#148872/people an outdoor vendor] .
+[/EN#148872/people A woman] at [/EN#148877/scene an outdoor food stand] .
+[/EN#148872/people The woman] is purchasing [/EN#148874/other a product]

@@ -1,0 +1,5 @@
+[/EN#78454/animals Fluffy golden puppy] holding [/EN#78455/clothing yellow rings] in [/EN#78456/bodyparts mouth] while running through [/EN#78459/scene grass]
+[/EN#78454/animals A tan dog] is running through [/EN#78459/scene the grass] with [/EN#78455/other a yellow toy] in [/EN#78456/bodyparts its mouth] .
+[/EN#78454/animals A puppy] is running across [/EN#78459/scene the grass] with [/EN#78455/other a yellow toy] in [/EN#78456/bodyparts its mouth] .
+[/EN#78454/animals A tan dog] with [/EN#78458/clothing a red collar] runs with [/EN#78455/other a yellow toy] in [/EN#78456/bodyparts its mouth] .
+[/EN#78454/animals A cute puppy] fetches [/EN#78455/clothing a yellow ring] chew [/EN#78455/other toy] in [/EN#78459/scene the yard] .

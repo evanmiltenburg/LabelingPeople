@@ -1,0 +1,5 @@
+[/EN#198339/people A young man] crossing [/EN#198341/scene the street] in front of [/EN#198343/scene an old apartment building] on [/EN#198346/scene his way home] from [/EN#198344/scene the store] carrying [/EN#198340/clothing a plastic grocery bag] .
+[/EN#198339/people A man] walks through [/EN#198341/scene an almost-empty street] with [/EN#198340/clothing a plastic shopping bag] .
+[/EN#198339/people A man] with [/EN#198345/clothing a tan jacket] with [/EN#198340/clothing a full grocery bag] is crossing [/EN#198341/scene the street] .
+[/EN#198339/people A man] is carrying [/EN#198340/clothing a bag] in [/EN#198342/bodyparts his left hand] .
+[/EN#198339/people man] walking up [/EN#198341/scene a hill] with [/EN#198340/clothing bag] in [/EN#198342/bodyparts hand]

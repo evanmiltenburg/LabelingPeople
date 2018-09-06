@@ -1,0 +1,5 @@
+[/EN#164223/people A person] dressed in [/EN#164225/clothing black] shoveling [/EN#164230/scene a path] to [/EN#164224/scene the road] from [/EN#164232/other the stairs] .
+[/EN#164223/people Lady] starting to shovel [/EN#164231/other her walk] , after [/EN#164229/other a large snowstorm] .
+[/EN#164223/people Person] in [/EN#164226/clothing black coat] shoveling [/EN#164227/scene snow] off of [/EN#164224/scene a walkway] .
+[/EN#164223/people An individual] is shoveling [/EN#164227/scene heavy snow] .
+[/EN#164228/scene A neighborhood] is covered in [/EN#164227/scene snow] .

@@ -1,0 +1,5 @@
+[/EN#58629/animals Two dogs] racing across [/EN#58630/scene the water] toward [/EN#58634/scene a beach] .
+[/EN#58629/animals Two dogs] run in [/EN#58630/scene the shallow water] at [/EN#58631/scene the beach] .
+[/EN#58629/animals Two dogs] run through [/EN#58630/scene shallow water] in [/EN#58632/scene a bay] .
+[/EN#58629/animals Two dogs] running in [/EN#58630/scene water] by [/EN#58631/scene a beach] .
+[/EN#58629/animals Two dogs] running in [/EN#58630/scene shallow water] .

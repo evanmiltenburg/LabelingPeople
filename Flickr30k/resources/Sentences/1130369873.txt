@@ -1,0 +1,5 @@
+[/EN#3349/animals A brown dog] swims through [/EN#3350/scene water outdoors] with [/EN#3351/other a tennis ball] in [/EN#3352/bodyparts its mouth] .
+[/EN#3349/animals A red dog] , holding [/EN#3351/other a ball] , splashes through [/EN#3350/scene vegetation filled water] .
+[/EN#3349/animals A brown dog] is running through [/EN#3350/scene neck-deep water] carrying [/EN#3351/other a tennis ball] .
+[/EN#3349/animals A brown dog] splashes in [/EN#3350/scene the water] while carrying [/EN#3351/other a ball] in [/EN#3352/bodyparts its mouth] .
+[/EN#3349/animals Brown dog] with [/EN#3351/other tennis ball] in [/EN#3352/bodyparts mouth] , in [/EN#3350/scene water] and [/EN#3353/scene bushes] .

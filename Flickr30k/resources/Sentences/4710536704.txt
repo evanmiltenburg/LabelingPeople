@@ -1,0 +1,5 @@
+[/EN#193789/people A man] in [/EN#193797/clothing a purple shirt] and [/EN#193798/clothing jeans] and [/EN#193793/people a woman] in [/EN#193791/clothing a light green shirt] and [/EN#193794/clothing black shorts] are standing in front of [/EN#193792/scene an electronic kiosk] , with [/EN#193801/scene a second kiosk] to [/EN#193802/scene the right] .
+[/EN#193789/people A man] in [/EN#193795/clothing a baseball cap] stands in front of [/EN#193792/other an ATM] as [/EN#193793/people a woman] in [/EN#193794/clothing shorts] and [/EN#193791/clothing a yellow shirt] stands next to [/EN#0/notvisual him] .
+[/EN#193790/people Two tourists] simply dressed standing in front of [/EN#193799/other two ATM machines] .
+[/EN#193790/people Two people] having [/EN#193796/other a conversation] while using [/EN#193792/other a payment machine] .
+[/EN#193789/people A man] and [/EN#193793/people a woman] are standing in front of [/EN#193792/other ticketing machine] .

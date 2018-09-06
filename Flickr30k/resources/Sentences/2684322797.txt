@@ -1,0 +1,5 @@
+[/EN#65985/people A person] wearing [/EN#65986/clothing a white tank top] sits at [/EN#65987/other a table] with [/EN#65988/other a beer] .
+[/EN#65985/people A large person] in [/EN#65989/clothing shorts] and [/EN#65986/clothing a white shirt] sitting at [/EN#65987/other a table] .
+[/EN#65985/people A person] sits at [/EN#65987/other a table] outside drinking [/EN#65988/other beer] .
+[/EN#65985/people A fat guy] in [/EN#65990/clothing pink] , drinking [/EN#65988/other beer] .
+[/EN#65985/people An overweight person] drinking .

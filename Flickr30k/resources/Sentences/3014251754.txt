@@ -1,0 +1,5 @@
+[/EN#87340/people A boy] in [/EN#87341/clothing a green shirt] is bent overlooking through [/EN#87342/other a telescope] perched on [/EN#87343/scene a stand] in [/EN#87346/scene the grass] .
+[/EN#87340/people A boy] in [/EN#87341/clothing a green t-shirt] looks through [/EN#87342/other a telescope] on [/EN#87346/scene a grassy area] .
+[/EN#87340/people A person] looks through [/EN#87342/other a telescopes viewfinder] during [/EN#87345/other the daytime] .
+[/EN#87340/people A young boy] in [/EN#87341/clothing a green shirt] looks into [/EN#87342/scene a telescope outside] .
+[/EN#87340/people a boy] looks into [/EN#87342/other his telescope] in [/EN#87346/scene a grassy field] .

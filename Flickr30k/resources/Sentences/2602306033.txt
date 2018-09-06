@@ -1,0 +1,5 @@
+[/EN#60867/animals Big black dog] swimming in [/EN#60868/scene the ocean] with [/EN#60868/other something] in [/EN#60872/bodyparts his mouth] .
+[/EN#60867/animals A black dog] biting onto [/EN#60868/other something] is swimming in [/EN#60870/scene the beach] .
+[/EN#60867/animals A black dog] with [/EN#60868/other a stick] swimming in [/EN#60868/scene the ocean] .
+[/EN#60867/animals A dog] with [/EN#60868/other a Frisbee] , swimming in [/EN#60868/scene a lake] .
+[/EN#60867/animals Dog] swimming in [/EN#60868/scene the water] with [/EN#60868/other a stick] .

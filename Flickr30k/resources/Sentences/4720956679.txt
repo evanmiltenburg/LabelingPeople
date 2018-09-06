@@ -1,0 +1,5 @@
+[/EN#195206/people A man] wearing [/EN#195208/clothing a brown shirt] is walking on [/EN#195207/scene a sidewalk] past [/EN#195212/people a woman] wearing [/EN#195209/clothing a blue jacket] .
+[/EN#195206/people A man] in [/EN#195208/clothing a brown shirt] is walking down [/EN#195211/scene the street] looking at [/EN#195214/other something] in [/EN#195215/bodyparts his hands] .
+[/EN#195206/people A man] peers at [/EN#195213/scene his finger tips] while walking down [/EN#195207/scene the street] .
+[/EN#195206/people A dark-haired man] in [/EN#195208/clothing a brown t-shirt] walking on [/EN#195207/scene the street] .
+[/EN#195207/scene A sidewalk] [/EN#0/notvisual that] is in [/EN#195210/other a busy mood] .

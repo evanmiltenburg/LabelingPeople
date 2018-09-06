@@ -1,0 +1,5 @@
+[/EN#27566/people A woman] in [/EN#27573/clothing a blue winter coat] and [/EN#27570/people a person] in [/EN#27574/clothing a black winter vest] are crossing [/EN#27565/scene the street] when [/EN#27568/other the "] Do n't Walk " [/EN#27564/other sign] is lit .
+[/EN#27563/people Two people] are crossing [/EN#27565/scene the street] , even though [/EN#27564/other the sign] says [/EN#0/notvisual they] should not be .
+[/EN#27567/other Some] were in [/EN#27569/scene a city] with [/EN#27572/scene tall buildings] and [/EN#27571/people people] .
+[/EN#27563/people Two people] crossing [/EN#27565/scene the street downtown] .
+[/EN#27563/people Two people] walking across [/EN#27565/scene a street] .

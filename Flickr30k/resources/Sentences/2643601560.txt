@@ -1,0 +1,5 @@
+[/EN#63455/people A girl] wearing [/EN#63459/clothing a red tank top] and [/EN#63460/clothing denim shorts] with [/EN#63461/clothing no shoes] is walking in [/EN#63458/scene a parking lot] towards [/EN#63456/scene a group of stores] .
+[/EN#63455/people A woman] in [/EN#63459/clothing a red tank] and [/EN#63460/clothing blue shorts] is walking [/EN#63463/other bear foot] next to [/EN#63464/vehicles cars] towards [/EN#63456/scene a store] .
+[/EN#63455/people A lady] in [/EN#63460/clothing denim shorts] and [/EN#63459/clothing red sleeveless shirt] is walking towards [/EN#63456/scene a building] .
+[/EN#63455/people A woman] walking through [/EN#63458/scene a parking lot] with [/EN#63461/clothing no shoes] on .
+[/EN#63455/people A woman] walking barefoot through [/EN#63458/scene a parking lot] .

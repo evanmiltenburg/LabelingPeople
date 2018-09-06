@@ -1,0 +1,5 @@
+[/EN#147579/people A man] singing with [/EN#147586/bodyparts his eyes] closed and holding [/EN#147585/other a microphone] , with [/EN#147581/people a woman] behind [/EN#0/notvisual him] playing [/EN#147584/instruments an electric bass guitar] .
+[/EN#147579/people A man] in [/EN#147587/clothing a blue shirt] singing while [/EN#147581/people a girl] in [/EN#147588/clothing a black dress] plays [/EN#147584/instruments guitar] in [/EN#0/notvisual the background] .
+[/EN#147579/people A man] singing on [/EN#147589/scene stage] with [/EN#147581/people a female musician] accompanying .
+[/EN#147579/people A man] singing with [/EN#147585/other a microphone] with [/EN#147581/people a girl] playing [/EN#147584/instruments a guitar]
+[/EN#147579/people a man] singing while [/EN#147581/people a woman] plays [/EN#147584/instruments guitar] .

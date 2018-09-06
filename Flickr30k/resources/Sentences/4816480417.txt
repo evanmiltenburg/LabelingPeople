@@ -1,0 +1,5 @@
+Here is [/EN#206352/people a picture of a toddler girl] wearing [/EN#206355/clothing a dress] and eating [/EN#206354/other a cookie] and holding [/EN#206353/scene a bottle of cold water] .
+[/EN#206352/people A little girl] with [/EN#206359/bodyparts curly hair] is sitting on [/EN#206357/other some stairs] , drinking [/EN#206353/scene a bottled water] , and eating [/EN#206356/other a snack] .
+[/EN#206352/people A small girl] is sitting on [/EN#206357/other stairs] drinking [/EN#206353/scene water] and eating [/EN#206354/other a snack] .
+[/EN#206352/people a girl] is sitting on [/EN#206357/other a stoop] with [/EN#206353/scene a bottle of water] and [/EN#206354/other a snack] .
+[/EN#206352/people A little girl] in [/EN#206355/clothing a dress] sits on [/EN#206357/other the steps] to have [/EN#206356/other a snack] .

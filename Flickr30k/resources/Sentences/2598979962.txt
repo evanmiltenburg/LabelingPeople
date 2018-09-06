@@ -1,0 +1,5 @@
+[/EN#60556/people a tennis player] wearing [/EN#60557/clothing a red shirt] about to hit [/EN#60559/other a tennis ball] with [/EN#60558/other her racquet] .
+[/EN#60556/people A woman] in [/EN#60557/clothing an orange shirt] and [/EN#60560/clothing white skirt] hits [/EN#60559/other a tennis ball] with [/EN#60558/other a racket] .
+[/EN#60556/people A woman] in [/EN#60557/clothing a red shirt] , [/EN#60563/clothing white hat] , and [/EN#60560/clothing white shirts] is playing [/EN#60562/other tennis] .
+[/EN#60556/people Female tennis player] on [/EN#60564/scene grass] prepares [/EN#60561/other a two handed backhand] .
+[/EN#60556/people A woman] swings at [/EN#60559/other a tennis ball] .

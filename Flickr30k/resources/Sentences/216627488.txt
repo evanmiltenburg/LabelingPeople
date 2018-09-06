@@ -1,0 +1,5 @@
+[/EN#31914/people A man] wearing [/EN#31919/clothing khaki pants] and [/EN#31915/clothing a red jacket] is lying on [/EN#0/notvisual the ground] beside [/EN#31918/other a small tree] .
+[/EN#31914/people A person] in [/EN#31915/clothing a hooded red and gray jacket] is lying on [/EN#0/notvisual the ground] .
+[/EN#31914/people A man] in [/EN#31915/clothing a red and gray jacket] laying on [/EN#31916/scene the grass] .
+[/EN#31914/people A person] lays down on [/EN#31916/scene the grass] with [/EN#31917/other a hood] on .
+[/EN#31914/people A man] in [/EN#31915/clothing a red hoodie] laying down in [/EN#31916/scene the grass] .

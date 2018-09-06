@@ -1,0 +1,5 @@
+[/EN#240261/people Two children] , [/EN#240260/other one] in [/EN#240265/clothing a yellow shirt] and [/EN#240262/other the other] in [/EN#240268/clothing red rain boots] , swing on [/EN#240264/other the swings] at [/EN#240263/scene a playground] .
+[/EN#240261/people Two children] , [/EN#240260/people a boy] in [/EN#240265/clothing a yellow shirt] and [/EN#240262/people a girl] in [/EN#240266/clothing blue and white stripes] , swinging .
+[/EN#240261/people Two children] , [/EN#240262/people a girl] and [/EN#240260/people a boy] , are swinging on [/EN#240264/other a swing] set .
+[/EN#240260/people A boy] and [/EN#240262/people a girl] are swinging on [/EN#240264/other a swing] set in [/EN#240263/scene a park] .
+[/EN#240260/people A boy] and [/EN#240262/people a girl] swinging in [/EN#240263/scene a park] shaded by [/EN#240270/other trees] .

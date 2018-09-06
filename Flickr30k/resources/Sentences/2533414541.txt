@@ -1,0 +1,5 @@
+[/EN#55751/vehicles The blue and white car] is in [/EN#55753/scene the road] , with [/EN#55752/people onlookers] nearby .
+[/EN#55751/vehicles a lone blue and white race car] [/EN#55754/other about] to cross [/EN#55755/other the finish line]
+[/EN#55752/people Spectators] watching [/EN#55751/vehicles white and blue race car] passing by .
+[/EN#55751/vehicles A white and blue car] is on [/EN#55753/scene the street] .
+[/EN#55751/vehicles A race car] is observed by [/EN#55752/people the crowd] .

@@ -1,0 +1,5 @@
+[/EN#60729/animals Two dogs] run and [/EN#60736/scene bark outdoors] , [/EN#60734/clothing one white and brown] , [/EN#60732/clothing one white and black] .
+[/EN#60729/animals Two lean dogs] , [/EN#60732/clothing one brown and white] and [/EN#60732/clothing one black and white] , run together .
+[/EN#60729/animals Two dogs] , [/EN#60734/clothing one brown and white] and [/EN#60732/clothing one black and white] , run on [/EN#60731/scene a field] .
+[/EN#60735/animals A large brown dog] and [/EN#60728/animals a large black and white dog] running together
+[/EN#60729/animals Two dogs] are running in [/EN#60731/scene a grassy field] .

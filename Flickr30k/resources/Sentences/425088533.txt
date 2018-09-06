@@ -1,0 +1,5 @@
+[/EN#160340/people A toddler] in [/EN#160341/clothing a red sweatshirt] and [/EN#160343/clothing gray sweatpants] in [/EN#160342/other the branches of a tree]
+[/EN#160340/people A little boy] in [/EN#160341/clothing a red sweater] is climbing [/EN#160342/other a tree] .
+[/EN#160340/people A young boy] in [/EN#160341/clothing a red shirt] plays in [/EN#160342/other a tree] .
+[/EN#160340/people A little boy] in [/EN#160341/clothing red] is climbing [/EN#160342/other a tree] .
+[/EN#160340/people A small child] in [/EN#160342/other a tree] .

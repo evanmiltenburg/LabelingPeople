@@ -1,0 +1,5 @@
+[/EN#203801/people Two women] wearing [/EN#203805/clothing jeans] and [/EN#203803/people a man] wearing [/EN#203806/clothing shorts] walking up [/EN#203796/scene a gravel mountain road] carrying [/EN#203798/clothing backpacks] .
+[/EN#203795/people Three people] are walking up [/EN#203796/scene a mountain trail] , while [/EN#203797/people one woman] is looking at [/EN#203799/other her camera] .
+[/EN#203795/people Three people] are hiking down [/EN#203796/scene a long gravel trail] with [/EN#203800/scene scenic green hills] behind [/EN#0/notvisual them] .
+[/EN#203795/people Three people] , with [/EN#203798/clothing backpacks] hiking along [/EN#203796/scene a dirt road] through [/EN#203800/scene the mountains] .
+[/EN#203795/people Three hikers] [/EN#203802/other a] traversing [/EN#203804/scene a trail] as [/EN#203797/people a young lady] inspects [/EN#203799/other her camera] .

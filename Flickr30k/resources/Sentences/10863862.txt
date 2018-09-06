@@ -1,0 +1,5 @@
+[/EN#2056/people An older , male construction worker] wearing [/EN#2057/clothing a yellow vest] climbing down from [/EN#2060/scene the roof of a building] onto [/EN#2058/other scaffolding] .
+[/EN#2056/people A man] in [/EN#2057/clothing a yellow vest] is standing on [/EN#2061/other the wall] above [/EN#2058/other the scaffold] .
+[/EN#2056/people A man] in [/EN#2057/clothing a reflective jacket] positions [/EN#0/notvisual himself] on [/EN#2058/other scaffolding] .
+[/EN#2056/people A construction worker] is on climbing on top of [/EN#2059/scene a building] .
+[/EN#2056/people A man] climbs down [/EN#2058/other a scaffolding] .

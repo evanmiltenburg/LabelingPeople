@@ -1,0 +1,5 @@
+[/EN#206809/people Four people] sit around [/EN#206810/other a campfire] and [/EN#206813/scene the sky] is blue behind [/EN#0/notvisual them] .
+[/EN#206809/people Three people] lounge on [/EN#206812/scene a dark prairie] in front of [/EN#206810/other a campfire]
+[/EN#206809/people Several people] sit by [/EN#206810/other a campfire] in [/EN#206811/scene the darkness] .
+[/EN#206809/people A group of people] sit before [/EN#206810/other a campfire] .
+[/EN#206809/people Three people] sitting around [/EN#206810/other a fire] .

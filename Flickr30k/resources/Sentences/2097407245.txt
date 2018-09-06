@@ -1,0 +1,5 @@
+[/EN#28507/people A man] in [/EN#28508/clothing a winter jacket] and [/EN#28509/clothing knit cap] stand with [/EN#28510/bodyparts his arms] up at [/EN#0/notvisual his side] in [/EN#28511/scene a snow landscape] .
+[/EN#28507/people A man] is standing on [/EN#28512/scene dirt] with [/EN#28510/bodyparts his hands] in [/EN#0/notvisual the air] with [/EN#28513/scene mountains] and [/EN#28511/scene snow] behind [/EN#0/notvisual him] .
+[/EN#28507/people One lone man] with [/EN#28510/bodyparts fist] in [/EN#0/notvisual the air] with [/EN#28511/scene large rocky mountains] in [/EN#0/notvisual the background]
+[/EN#28507/people Man] with [/EN#28510/bodyparts outstretched arms] standing on [/EN#28514/other snow-covered rocks] .
+[/EN#28507/people A man] raises [/EN#28510/bodyparts his arms] on [/EN#28512/scene rocky beach] .

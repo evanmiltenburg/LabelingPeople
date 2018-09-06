@@ -1,0 +1,5 @@
+[/EN#210839/people A woman] in [/EN#210843/clothing blue jeans] and [/EN#210840/clothing a bright orange shirt] walks through [/EN#210841/scene a puddle of water] on [/EN#210842/scene the sidewalk of an urban neighborhood] .
+[/EN#210839/people A person] wearing [/EN#210845/clothing sunglasses] and [/EN#210840/clothing a bright orange shirt] walks down [/EN#210841/scene a wet sidewalk] .
+[/EN#210846/other Man waters plants] as [/EN#210839/people woman] in [/EN#210840/clothing orange shirt] walks by .
+[/EN#210839/people Woman] walking on [/EN#210842/scene sidewalk] as [/EN#210844/people man] is hosing [/EN#0/notvisual it] down .
+[/EN#210839/people Woman] walking on [/EN#210841/scene a puddle of water] .

@@ -1,0 +1,5 @@
+[/EN#33583/people A man] climbs [/EN#33585/other a steep rock wall] using [/EN#33586/other safety ropes] .
+[/EN#33583/people A man] is rock climbing with [/EN#33587/clothing no noticable harness] .
+[/EN#33583/people A man] clings to [/EN#33584/bodyparts the side of a rock face] .
+[/EN#33583/people A man] climbs [/EN#33584/bodyparts a sheer cliff face] .
+[/EN#33583/people A man] climbing [/EN#33584/bodyparts a cliff face] .

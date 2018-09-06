@@ -1,0 +1,5 @@
+[/EN#83014/people Two men] stand beside [/EN#83012/vehicles a yellow and blue tow truck] on [/EN#83022/scene the side of the street] outside of [/EN#83015/scene a discount grocery store] .
+[/EN#83012/other A blue and yellow tow-truck] pulls up in front of [/EN#83019/other a grocery] .
+[/EN#83012/vehicles A tow truck] is sitting outside of [/EN#83015/scene a Discount Grocery store] .
+[/EN#83013/people Three men] are having [/EN#83018/other a discussion] behind [/EN#83012/vehicles a tow truck] .
+[/EN#83013/people Cops] asking [/EN#83020/people a tow truck man] [/EN#83021/other some questions] .

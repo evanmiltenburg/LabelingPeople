@@ -1,0 +1,5 @@
+[/EN#6847/animals A black dog] runs after [/EN#6851/animals another black dog] [/EN#0/notvisual who] is carrying [/EN#6848/other a ball] .
+[/EN#6846/animals Two black dogs] are trotting through [/EN#6850/scene an empty public area] .
+[/EN#6846/animals Two black dogs] are running on [/EN#6852/scene pavement]
+[/EN#6846/animals Two dogs] are playing on [/EN#6849/other a hardscape] .
+[/EN#6846/animals Two black dogs] running

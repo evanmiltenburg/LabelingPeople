@@ -1,0 +1,5 @@
+[/EN#27507/people A group of people] are sitting outside of [/EN#27510/scene a stone building] on [/EN#0/notvisual the ground] and underneath [/EN#27508/other a beige] covering .
+[/EN#27507/people People] sitting and standing at [/EN#27512/scene some sort of outdoor fair] .
+[/EN#27507/people People] sit on [/EN#0/notvisual the ground] and on [/EN#27511/scene benches outdoors] .
+[/EN#27507/people A large group of people] are congregated outside .
+[/EN#27507/people These people] are waiting for [/EN#27509/other a performance] .

@@ -1,0 +1,5 @@
+[/EN#229232/people A person] with [/EN#229235/clothing a scarf] over [/EN#229242/bodyparts their head] and [/EN#229231/people a boy] in [/EN#229239/clothing a black t-shirt] looking at [/EN#0/notvisual what] appear to be [/EN#229234/other olives] in [/EN#229240/people a pile] on [/EN#229237/other a tarp] on [/EN#0/notvisual the ground] .
+[/EN#229231/people A boy] and [/EN#229232/people a woman] in [/EN#229235/clothing a white shawl] working with [/EN#229234/other plant products] underneath [/EN#229238/other a tree] .
+[/EN#229233/people Two people] , [/EN#229232/other one] with [/EN#229241/bodyparts a white head] covering , sit in [/EN#229243/other the sand] under [/EN#229238/other a tree] .
+[/EN#229233/people Two people] sitting under [/EN#229238/other a tree] picking [/EN#229234/other a green vegetable] .
+[/EN#229231/people The boy] and [/EN#229232/people woman] are working .

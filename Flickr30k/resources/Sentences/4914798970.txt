@@ -1,0 +1,5 @@
+[/EN#217815/people A group of men] are riding [/EN#217819/vehicles bicycles] down [/EN#217816/scene a road] where [/EN#217822/people other people] are walking .
+[/EN#217815/people Three men] riding [/EN#217817/vehicles a bicycle] , [/EN#0/notvisual tow of them] are wearing [/EN#217824/clothing a helmet] .
+[/EN#217815/people Bicyclists] roam through [/EN#217823/people the vendors] [/EN#217820/scene ' corner] .
+[/EN#217815/people Three men] biking on [/EN#217816/scene a road] with [/EN#217821/people many people] .
+[/EN#217815/people People] are biking in [/EN#217816/scene a public] walkways .

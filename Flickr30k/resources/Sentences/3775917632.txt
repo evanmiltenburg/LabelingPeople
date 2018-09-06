@@ -1,0 +1,5 @@
+[/EN#142178/vehicles/scene An orange bus] with [/EN#142181/other advertising] waits at [/EN#142179/scene a crossing] heading for [/EN#142180/scene Baker Street] .
+[/EN#142178/vehicles/scene An orange charter bus] at [/EN#142183/scene a street] crossing [/EN#0/notvisual that] advertises [/EN#142177/other easy Bus.co.uk] .
+[/EN#142178/vehicles/scene A public transportation bus] is stopped near [/EN#142179/scene a crosswalk] .
+[/EN#142178/vehicles/scene An orange bus] is parked on [/EN#142182/scene the side of a road] .
+[/EN#142178/vehicles/scene A large orange bus] is stopped on [/EN#142182/scene the street] .

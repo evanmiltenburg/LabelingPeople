@@ -1,0 +1,5 @@
+[/EN#274479/people A lone man] heads off on [/EN#274481/scene a high mountain trail] wearing [/EN#274480/clothing a bright red jacket] , [/EN#274484/clothing black backpack] and carrying [/EN#274488/other two ski poles] for [/EN#274483/other assistance] .
+[/EN#274479/people A hiker] wearing [/EN#274480/clothing a red jacket] , is walking up [/EN#274481/scene a dirt path] on [/EN#274482/scene a grassy mountain] , with [/EN#274487/scene other mountains] in [/EN#0/notvisual the background] .
+[/EN#274479/people A person] with [/EN#274480/clothing a red jacket] and [/EN#274485/other crosscountry skis] is walking up [/EN#274482/scene a mountain] .
+[/EN#274479/people A person] in [/EN#274480/clothing a red hoodie] uses [/EN#274486/other nordic poles] to walk up [/EN#274482/scene a mountain] .
+[/EN#274479/people A lone hiker] walking along [/EN#274481/scene a path] in [/EN#274482/scene a high mountainous area] .

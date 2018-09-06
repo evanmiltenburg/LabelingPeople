@@ -1,0 +1,5 @@
+[/EN#103637/people A group of people] walking down [/EN#103642/scene a trail] in [/EN#103643/other the woods] with [/EN#103638/animals two dogs] leading [/EN#103645/scene the way] .
+[/EN#103637/people A family] walking in [/EN#103643/other the woods] with [/EN#103638/animals their two dogs] on [/EN#103641/scene a cold day] .
+[/EN#103637/people A group of people] in [/EN#103639/clothing heavy clothing] and [/EN#103638/animals a few dogs] are walking .
+[/EN#103637/other A family of six] and [/EN#103638/animals their two dogs] enjoy [/EN#103644/other a walk] in [/EN#103643/other the woods] .
+[/EN#103637/other A family of six] and [/EN#103640/animals three dogs] taking [/EN#103644/other a walk] in [/EN#103643/other the woods] .

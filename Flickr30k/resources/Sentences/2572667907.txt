@@ -1,0 +1,5 @@
+[/EN#58802/people A woman] in [/EN#58803/clothing a green shirt] making [/EN#58805/other a statement] from [/EN#58804/scene a podium] .
+[/EN#58802/people A woman] in [/EN#58803/clothing a green t-shirt] speaks into [/EN#58806/other a microphone] .
+[/EN#58802/people A woman] in [/EN#58803/clothing a green shirt] standing at [/EN#58804/scene a podium] .
+[/EN#58802/people Girl] giving [/EN#58805/other school presentation] .
+[/EN#58802/people A woman] speaking [/EN#58807/other her mind] .

@@ -1,0 +1,5 @@
+[/EN#106541/animals Two white dogs] run along [/EN#106542/scene a light colored field] and [/EN#106543/other one] has [/EN#106544/other a blue toy] .
+[/EN#106541/animals Two black and white dogs] and [/EN#106543/other one] has [/EN#106546/other something] blue in [/EN#106547/bodyparts its mouth] .
+[/EN#106541/animals Two white dogs] with [/EN#106545/scene black spots] jumping through [/EN#106542/scene the grass] .
+[/EN#106541/animals Two black and white dogs] run through [/EN#106542/scene a field] .
+[/EN#106541/animals Two white dogs] are running through [/EN#106542/scene a field] .

@@ -1,0 +1,5 @@
+[/EN#118925/people two men] stand on [/EN#118930/clothing a cliff top] overlooking [/EN#118926/scene a sandy beach] .
+[/EN#118925/people The two men] look at [/EN#118926/scene the shoreline] from atop [/EN#118931/other the bluff] .
+[/EN#118925/people Two people] stand on [/EN#118929/scene a cliff] overlooking [/EN#118927/scene the ocean] .
+[/EN#118925/people Two people] at [/EN#118929/scene the top of a beach side cliff] .
+[/EN#118925/people two men] look over [/EN#118929/scene cliff] near [/EN#118926/scene the beach] .

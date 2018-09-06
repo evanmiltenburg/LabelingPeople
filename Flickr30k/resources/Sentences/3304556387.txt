@@ -1,0 +1,5 @@
+[/EN#108149/people A man] is holding [/EN#108151/other a treat] up in [/EN#0/notvisual the air] and [/EN#108150/animals a dog] is in [/EN#108155/scene midair] trying to grab [/EN#0/notvisual it] while [/EN#108153/animals another dog] watches .
+[/EN#108149/people The man] holds up [/EN#108151/other something] in [/EN#108157/bodyparts his hand] to get [/EN#108150/animals the dogs] to jump .
+[/EN#108149/people The man] is playing in [/EN#108152/scene the yard] with [/EN#108150/animals two dogs] .
+[/EN#108149/people A man] is playing with [/EN#108150/animals two dogs] in [/EN#108152/scene his yard] .
+[/EN#108149/people A man] playing [/EN#108154/other fetch] with [/EN#108150/animals two brown dogs] .

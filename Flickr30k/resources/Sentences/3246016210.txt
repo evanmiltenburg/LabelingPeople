@@ -1,0 +1,5 @@
+[/EN#103978/people A man] in [/EN#103981/clothing a hat] and [/EN#103982/clothing blue jacket] is using [/EN#103979/other a contraption] to cut [/EN#103980/other ice] on [/EN#0/notvisual what] looks like [/EN#103980/scene a frozen pond] in [/EN#103984/other winter] .
+[/EN#103978/people a man] in [/EN#103981/clothing a hat] operates [/EN#103979/other machinery] on [/EN#103980/other smooth ice] in [/EN#103984/other the winter] .
+[/EN#103978/people A man] in [/EN#103981/clothing a gray hat] pushes [/EN#103979/other some type of equipment] over [/EN#103980/other ice] .
+[/EN#103978/people A man] in [/EN#103982/clothing blue] is working outside on [/EN#103980/other a patch of ice] .
+[/EN#103978/people One man] cutting through [/EN#103980/other ice] on [/EN#103985/scene a cold day] .

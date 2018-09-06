@@ -1,0 +1,5 @@
+[/EN#159398/animals A dog] looks curious at [/EN#159400/other adventures] lying ahead in [/EN#159399/scene the snow] .
+[/EN#159398/animals A yellow puppy] walking through [/EN#159399/scene the snow] .
+[/EN#159398/animals A brown puppy] walking through [/EN#159399/scene the snow] .
+[/EN#159398/animals A brown dog] walks through [/EN#159399/scene snow] .
+[/EN#159398/animals A dog] walking in [/EN#159399/scene the snow]

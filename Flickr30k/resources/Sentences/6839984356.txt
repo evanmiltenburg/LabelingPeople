@@ -1,0 +1,5 @@
+[/EN#258986/people An sitting Asian male] wearing [/EN#258989/clothing a yellow shirt] with [/EN#258987/other a skateboard] in [/EN#258990/bodyparts his lap] .
+[/EN#258986/people An Asian youth] sitting on [/EN#258988/other a wall] with [/EN#258987/other a skateboard] on [/EN#258990/bodyparts his lap] .
+[/EN#258986/people A youth] wearing [/EN#258989/clothing yellow] sits on [/EN#258988/other a wall] holding [/EN#258987/other a skateboard]
+[/EN#258986/people A young Asian man] sits with [/EN#258987/other his skateboard] on [/EN#258990/bodyparts his lap] .
+[/EN#258986/people The boy] with [/EN#258987/other the skateboard] is taking [/EN#258991/scene a break] .

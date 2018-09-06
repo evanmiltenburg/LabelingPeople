@@ -1,0 +1,5 @@
+[/EN#251089/people An older man] in [/EN#251091/clothing a black jacket] walks down [/EN#251092/scene the street] while [/EN#251097/people men] in [/EN#251098/clothing yellow jackets] [/EN#251099/vehicles direct traffic] behind [/EN#0/notvisual him] .
+[/EN#251089/people An elderly man] with [/EN#251090/bodyparts a beard] in [/EN#251091/clothing a dark suit] is walking through [/EN#251095/scene a rainy city] .
+[/EN#251089/people An old man] with [/EN#251090/bodyparts a white beard] is walking down [/EN#251092/scene a city street] .
+[/EN#251089/people An old man] is walking [/EN#251096/scene home] in [/EN#251093/other the rain] without [/EN#251094/clothing an umbrella] .
+[/EN#251089/people An old man] is walking in [/EN#251093/other bad weather] .

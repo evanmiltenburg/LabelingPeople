@@ -1,0 +1,5 @@
+[/EN#110836/people A child] in [/EN#110838/clothing a tie dye shirt] and [/EN#110840/other one] in [/EN#110841/clothing a white shirt] are on [/EN#110839/other a climbing wall] .
+[/EN#110836/people A child] in [/EN#110838/clothing a Tye-dyed shirt] is climbing [/EN#110839/other a rock wall] with [/EN#110840/people another child] .
+[/EN#110837/people Two children] climbing [/EN#110839/other a rock climbing wall] .
+[/EN#110837/people The children] take [/EN#110843/scene a crack] at [/EN#110844/scene rock climbing] .
+[/EN#110837/people Two kids] climb [/EN#110839/other a rock wall] .

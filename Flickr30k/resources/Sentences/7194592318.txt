@@ -1,0 +1,5 @@
+[/EN#266879/people Two people] wearing [/EN#266885/clothing brightly colored protective headgear] are in [/EN#266881/scene a swimming pool] with [/EN#266881/scene very choppy water] and [/EN#266883/people the person] in [/EN#0/notvisual the foreground] has [/EN#266891/bodyparts a hand] on [/EN#266880/other a yellow and blue ball] [/EN#0/notvisual which] is [/EN#266880/other approximately the size of a basketball] .
+[/EN#266879/people Two competitors] , [/EN#266883/other one] with [/EN#266887/other number thirteen] on [/EN#266886/clothing his headgear] , are at [/EN#266882/other battle] in [/EN#266881/scene a large swimming pool] .
+[/EN#266879/people Two people] playing with [/EN#266880/other a volleyball] in [/EN#266881/scene a pool] .
+[/EN#266879/people Two people] are swimming in [/EN#266881/scene a pool] with [/EN#266880/other a ball] .
+[/EN#266879/people Two men] play [/EN#266882/other a water sport] .

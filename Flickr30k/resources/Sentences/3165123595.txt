@@ -1,0 +1,5 @@
+[/EN#97647/people Four men] in [/EN#97654/clothing red vests] with [/EN#97650/other crosses] on [/EN#0/notvisual them] ski on [/EN#97648/scene a mountain] .
+[/EN#97647/people Four ski patrollers] on [/EN#97655/other skis] are wearing [/EN#97652/clothing helmets] and [/EN#97651/clothing goggles] .
+[/EN#0/notvisual there] are [/EN#97647/people four snow skiers] going down [/EN#97648/scene the side of a hill] .
+[/EN#97647/people Skiers] in [/EN#97656/scene uniform progress] down [/EN#97649/other a snowy slope] .
+[/EN#97653/people people] are skiing down [/EN#97648/scene a snow covered hill]

@@ -1,0 +1,5 @@
+[/EN#6206/people A man] wearing [/EN#6207/clothing a white apron] is sitting at [/EN#6208/other a table] with [/EN#6209/other a meal] in front of [/EN#0/notvisual him] .
+[/EN#6206/people A bald man] with [/EN#6210/clothing a white shirt] and watch eating [/EN#6211/other food] and drinking [/EN#6212/other wine] .
+[/EN#6206/people A man] with [/EN#6213/bodyparts a mustache] , sitting in [/EN#6216/scene a restaurant] eating [/EN#6209/other a meal] .
+[/EN#6206/people A man] with [/EN#6213/bodyparts facial hair] in [/EN#6214/clothing white clothes] eating [/EN#6215/other a steak] .
+[/EN#6206/people Cook or butcher] enjoying [/EN#6209/other a meal] in [/EN#6216/scene a restaurant] .

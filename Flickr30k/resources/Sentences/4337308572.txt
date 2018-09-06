@@ -1,0 +1,5 @@
+[/EN#163867/people A person] is standing on [/EN#163874/scene a snowy mountain] covered in [/EN#163873/scene snow] while wearing [/EN#163880/other ski gear] and is holding [/EN#163872/other one ski stick] .
+[/EN#163867/people A skier] in [/EN#163870/clothing a red snowsuit] and [/EN#163881/clothing white hat] is holding [/EN#163872/other a ski pole] while standing in [/EN#163873/scene the snow] .
+[/EN#163867/people Person] wearing [/EN#163879/clothing goggles] , [/EN#163869/clothing red ski pants] and [/EN#163868/clothing jacket] has [/EN#163872/other ski poles] and is standing in [/EN#163873/scene snow] .
+[/EN#163867/people Someone] dressed in [/EN#163868/clothing red] poses for [/EN#163882/other a picture] while [/EN#163875/other skiing] .
+[/EN#163867/people Skier] wearing [/EN#163868/clothing red] walking up [/EN#163878/other a snowy hillside] .

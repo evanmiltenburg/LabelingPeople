@@ -1,0 +1,5 @@
+[/EN#26217/other The purple parachutes] floats off [/EN#26219/scene the cliff] toward [/EN#26218/scene the gray ocean] below .
+[/EN#26216/people A paraglider] soars near [/EN#26219/scene a cliff] and over [/EN#26218/scene a body of water] .
+[/EN#26216/people Someone] with [/EN#26217/other a purple parachute] has jumped off [/EN#26219/scene a cliff] .
+[/EN#26216/people A purple paraglider] flying over [/EN#26218/scene the ocean] near [/EN#26219/scene a cliff] .
+[/EN#26216/people A person] parachuting over [/EN#26218/scene the ocean]

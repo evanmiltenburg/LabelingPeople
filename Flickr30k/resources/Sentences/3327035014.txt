@@ -1,0 +1,5 @@
+[/EN#109630/people A young woman] is leaning over [/EN#109631/other a large yellow mop bucket] to wring out [/EN#109632/other the mop] .
+[/EN#109630/people A woman] in [/EN#109633/clothing a baseball hat] and [/EN#109635/other jeans squeezes] [/EN#109632/other a mop] into [/EN#109631/other a yellow bucket] .
+[/EN#109630/people A woman] wearing [/EN#109634/clothing black] is resting [/EN#109636/bodyparts her hands] on [/EN#109631/other a container] .
+[/EN#109630/people A person] wrings out [/EN#109632/other a mop] in [/EN#109631/other a janitor 's bucket] .
+[/EN#109630/people A woman] wringing out [/EN#109632/other a mop] .

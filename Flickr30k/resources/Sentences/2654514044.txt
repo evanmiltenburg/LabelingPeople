@@ -1,0 +1,5 @@
+[/EN#64210/animals A brown dog] with [/EN#64213/bodyparts its front paws] off [/EN#0/notvisual the ground] on [/EN#64211/scene a grassy surface] near [/EN#64212/other red and purple flowers] .
+[/EN#64210/animals A yellow dog] is playing in [/EN#64211/scene a grassy area] near [/EN#64212/other flowers] .
+[/EN#64210/animals A dog] runs across [/EN#64211/scene a grassy lawn] near [/EN#64212/other some flowers] .
+[/EN#64210/animals A brown dog] running over [/EN#64211/scene grass] .
+[/EN#64210/animals A brown dog] running

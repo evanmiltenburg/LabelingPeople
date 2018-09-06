@@ -1,0 +1,5 @@
+[/EN#70659/people A woman] with [/EN#70660/bodyparts a ponytail] dressed in [/EN#70661/clothing jean shorts] and [/EN#70662/clothing a black tank top] sitting on [/EN#70663/people the lap of a man] with [/EN#70664/clothing camo shorts] and [/EN#70665/clothing a white shirt] on [/EN#70667/vehicles/scene a subway] .
+[/EN#70659/people A woman] is sitting on [/EN#70666/bodyparts a man 's lap] on [/EN#70668/other a public transportation system] .
+[/EN#70663/people A man] and [/EN#70659/people woman] sit together on [/EN#70669/vehicles public transportation] .
+[/EN#70659/people A girl] in [/EN#70662/clothing black] sitting on [/EN#70666/bodyparts a man 's lap] on [/EN#70670/vehicles/scene a subway] .
+[/EN#70659/people A girl] sitting on [/EN#70666/bodyparts a man 's lap] on [/EN#70670/vehicles/scene a passenger train]

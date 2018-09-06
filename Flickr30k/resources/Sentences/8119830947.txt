@@ -1,0 +1,5 @@
+[/EN#279274/people Four gentlemen] , [/EN#279282/other two] in [/EN#279284/clothing shorts] and [/EN#279283/other two] in [/EN#279285/clothing pants] are walking along [/EN#279277/scene the left side of the street] , while [/EN#279276/vehicles a buggy or carriage] is parked on [/EN#279280/scene the right side of the street] with [/EN#279273/animals a cat] lounging in [/EN#279281/scene the lower compartment] .
+[/EN#279273/animals A cat] is laying on [/EN#279276/vehicles an empty carriage] in [/EN#279277/scene a narrow street] with [/EN#279274/people people] walking by .
+[/EN#279274/people Five people] in walking in [/EN#279278/scene an alley] near [/EN#279276/other a rickshaw] with [/EN#279273/animals a cat] sleeping on [/EN#0/notvisual it] .
+[/EN#279273/animals A cat] sits in [/EN#279276/vehicles a trolley cart] while [/EN#279274/people people] pass on [/EN#279280/scene the street] .
+[/EN#279274/people Several people] walk by [/EN#279276/other a rickshaw] containing [/EN#279273/animals a sleeping cat] .

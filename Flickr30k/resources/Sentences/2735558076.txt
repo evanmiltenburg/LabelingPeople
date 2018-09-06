@@ -1,0 +1,5 @@
+[/EN#69253/bodyparts A row of legs] and [/EN#69252/clothing black boots] with [/EN#69249/people a boy] sitting at [/EN#69256/other the end of the row] .
+[/EN#69250/people A group of people] sit on [/EN#69251/scene pavement] wearing [/EN#69252/clothing dark shoes] and [/EN#69257/clothing warm clothes] .
+[/EN#69250/people A row of people] sitting on [/EN#0/notvisual the ground] wearing [/EN#69252/clothing matching heeled boots] .
+[/EN#69249/people The young man] is waiting with [/EN#69254/other others] on [/EN#69251/scene the sidewalk] .
+[/EN#69249/people A boy] looks suspiciously at [/EN#69255/people someone] nearby .

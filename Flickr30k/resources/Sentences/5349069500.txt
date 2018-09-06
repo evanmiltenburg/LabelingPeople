@@ -1,0 +1,5 @@
+[/EN#234226/people Two men] , [/EN#234235/other one] in [/EN#234232/clothing a blue shirt] and [/EN#234230/other one] in [/EN#234233/clothing a green shirt] analyze [/EN#234228/other a piece of paper] in [/EN#234240/scene the middle of a workshop area] .
+[/EN#234230/people One man] in [/EN#234234/clothing a hat] holding [/EN#234228/other a newspaper] and showing [/EN#0/notvisual it] to [/EN#234235/people another man] [/EN#0/notvisual who] is standing next to [/EN#0/notvisual him] .
+[/EN#234226/people Two men] are studying [/EN#234227/other plans] over [/EN#234241/vehicles a partially built reed aircraft] mounted on [/EN#234239/other sawhorses] .
+[/EN#234226/people Two middle-aged men] standing and looking at [/EN#234227/other a document] .
+[/EN#234230/people Instructor] on [/EN#234229/other Basket] weaving at [/EN#234236/scene fair]

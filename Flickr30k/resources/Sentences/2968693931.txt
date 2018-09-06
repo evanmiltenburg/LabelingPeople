@@ -1,0 +1,5 @@
+[/EN#84562/people A skateboarder] in [/EN#84566/scene midair] above [/EN#84563/scene a large staircase] and [/EN#84563/other handrail] .
+[/EN#84562/people A kid] skateboards down [/EN#84563/other railings of a large set] of [/EN#84565/other stairs] .
+[/EN#84562/people A teenage boy] does [/EN#0/notvisual tricks] jumping across [/EN#84563/other a railing] .
+[/EN#84562/people Skater] rides skateboard down [/EN#84565/other a long stair] railing
+[/EN#84562/people An inline skater] is grinding down [/EN#84563/other a long rail] .

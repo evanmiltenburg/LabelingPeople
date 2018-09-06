@@ -1,0 +1,5 @@
+[/EN#141977/people A bearded man] with [/EN#141979/clothing a bandanna] and [/EN#141978/clothing bowler hat] sits relaxedly near [/EN#141987/scene water] .
+[/EN#141977/people A man] in [/EN#141983/other a white button] down [/EN#141981/clothing shirt] and [/EN#141978/clothing black hat] sits on [/EN#141980/other board] [/EN#141980/vehicles/scene a boat] .
+[/EN#141977/people A man] , with [/EN#141981/clothing a white t-shirt] , and [/EN#141978/clothing black hat] , relaxes on [/EN#141980/people a peer] .
+[/EN#141977/people A man] is enjoying [/EN#141988/other the sun] and [/EN#0/notvisual open air] while sailing on [/EN#141980/vehicles/scene a boat] .
+[/EN#141977/people A man] sits on [/EN#141980/scene a raft] in [/EN#141987/scene the sea]

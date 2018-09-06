@@ -1,0 +1,5 @@
+[/EN#94494/people a musician] plays [/EN#94499/instruments a strange pipe instrument] whilst standing next to [/EN#94496/people a drummer] on [/EN#94500/scene a stage] .
+[/EN#94494/people A man] blows into [/EN#94504/other a tube] while standing in front of [/EN#94496/people a man] at [/EN#94498/instruments the drumset] on [/EN#94500/scene stage] .
+[/EN#94494/people A man] blows into [/EN#94499/instruments an electrical instrument] by [/EN#94502/other a microphone] .
+[/EN#94494/people A man] plays [/EN#94497/instruments an instrument] next to [/EN#94496/people a drummer] .
+[/EN#94501/people Two men] perform [/EN#94503/other a song] together on [/EN#94500/scene stage] .

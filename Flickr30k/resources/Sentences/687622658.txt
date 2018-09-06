@@ -1,0 +1,5 @@
+[/EN#260043/people A dark-haired waitress] wearing [/EN#260052/clothing a white top] , [/EN#260047/other brown peddle pushers] , [/EN#260053/clothing sneakers] and [/EN#260044/clothing a red apron] carrying [/EN#260046/other a tray of drinks] .
+[/EN#260043/people a waitress] carrying [/EN#260050/other beverages] with [/EN#260044/clothing a red apron]
+[/EN#260043/people A woman] carrying [/EN#260045/other a tray] with [/EN#260051/other drinks] on [/EN#0/notvisual it] .
+[/EN#260043/people a waitress] with [/EN#260044/clothing a red skirt] bringing [/EN#260049/other beer]
+[/EN#260043/people A lady] with [/EN#260054/bodyparts brown hair] holding [/EN#260048/other a tray] .

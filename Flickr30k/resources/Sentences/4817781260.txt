@@ -1,0 +1,5 @@
+[/EN#206561/people Someone] with [/EN#206562/clothing a blue hat] on , standing at [/EN#206564/scene a overlook] looking at [/EN#206563/scene a bridge] and [/EN#206565/scene train tracks] .
+[/EN#206561/people A person] in [/EN#206562/clothing a blue hat] is on [/EN#206563/scene a bridge] overlooking [/EN#206565/scene train tracks] .
+[/EN#206561/people A man] wearing [/EN#206562/clothing a blue hat] is peering out at [/EN#206565/scene train tracks] .
+[/EN#206561/people Man] on [/EN#206564/scene overpass] looking at [/EN#206565/scene the railroad tracks] .
+[/EN#206561/people A man] stares out across [/EN#206565/scene a rail yard] .

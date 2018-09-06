@@ -1,0 +1,5 @@
+[/EN#118749/people A girl] in [/EN#118750/clothing a floral shirt] and [/EN#118751/clothing jeans] stands on [/EN#118752/scene a rocky shore] looking toward [/EN#118753/scene the water]
+[/EN#118749/people A litle girl] stands on [/EN#118752/scene a rocky shore] at looks out at [/EN#118753/scene the water] .
+[/EN#118749/people A young girl] stands on [/EN#118752/scene a rocky beach] looking at [/EN#118753/scene the water] .
+[/EN#118749/people A young girl] stands on [/EN#118754/other some rocks] staring at [/EN#118753/scene the ocean] .
+[/EN#118749/people A little girl] in [/EN#118751/clothing jeans] is standing by [/EN#118752/other the seashore] .

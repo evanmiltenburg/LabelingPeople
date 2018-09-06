@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#62412/animals a tan dog] in [/EN#62414/scene the middle of a field] , fetching [/EN#62413/other a tennis ball] .
+[/EN#62412/animals A dog] is fetching [/EN#62413/other a tennis ball] in [/EN#62415/scene a patch of green grass] .
+[/EN#62412/animals Brown dog] chases after [/EN#62413/other yellow ball] in [/EN#62416/scene park]
+[/EN#62412/animals A large dog] chases [/EN#62413/other a ball] [/EN#62417/scene outdoors] .
+[/EN#62412/animals A brown dog] is fetching [/EN#62413/other a ball] .

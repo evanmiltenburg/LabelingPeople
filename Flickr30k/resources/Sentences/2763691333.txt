@@ -1,0 +1,5 @@
+[/EN#71300/people A tennis player] in [/EN#71301/clothing a gray t-shirt] is jumping and trying to hit [/EN#71302/other a tennis ball] .
+[/EN#71300/people A man] wearing [/EN#71303/clothing shorts] and [/EN#71301/clothing a tank top] jumping into [/EN#0/notvisual the air] .
+[/EN#71300/people A man] in [/EN#71301/clothing a gray shirt] and [/EN#71304/clothing black pants] is playing [/EN#71305/other tennis] .
+[/EN#71300/people A man] playing [/EN#71305/other tennis] jumped higher than [/EN#71307/other a kite] .
+[/EN#71300/people A man] jumping to hit [/EN#71302/other a tennis ball] .

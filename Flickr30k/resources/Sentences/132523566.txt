@@ -1,0 +1,5 @@
+[/EN#8647/people A woman] in [/EN#8648/clothing a white shirt] and [/EN#8649/clothing blue checker pants] is cooking [/EN#8653/other waffles] in [/EN#8652/scene the kitchen] .
+[/EN#8647/people A woman] in [/EN#8648/clothing a white shirt] mixing [/EN#8653/other something] on [/EN#8650/other the kitchen counter] .
+[/EN#8647/people The elderly woman] in [/EN#8651/clothing house clothes] is making [/EN#8653/other waffles] .
+[/EN#8647/people An elderly woman] is making [/EN#8653/other pancakes] .
+[/EN#8647/people A woman] is about to make [/EN#8653/other waffles] .

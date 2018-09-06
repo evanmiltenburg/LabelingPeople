@@ -1,0 +1,5 @@
+[/EN#235846/people A girl] with [/EN#235849/bodyparts black hair] wearing [/EN#235847/clothing a blue jacket] smiles as [/EN#0/notvisual she] rides [/EN#235848/other a red sled] in [/EN#235850/scene the snow] .
+[/EN#235846/people A young girl] with [/EN#235849/bodyparts long brown hair] and [/EN#235848/other a red sled] plays in [/EN#235850/scene the snow] .
+[/EN#235846/people A girl] in [/EN#235847/clothing a coat] on [/EN#235848/other a sled] in [/EN#235850/scene the snow] .
+[/EN#235846/people A young girl] is sledding in [/EN#235850/scene the snow] .
+[/EN#235846/people A girl] enjoying [/EN#0/notvisual her] sledding [/EN#235851/other ride] .

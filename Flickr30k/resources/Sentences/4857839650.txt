@@ -1,0 +1,5 @@
+[/EN#211699/other A motorcycle] is parked next to [/EN#211700/scene an information booth] on [/EN#211705/scene a dark street] .
+[/EN#211699/vehicles An electric scooter] sits [/EN#211706/scene outside] of [/EN#211700/other a lighted advertisement board] .
+[/EN#211700/scene A well lit advertising stand] showcasing [/EN#211703/other various movie posters] .
+[/EN#211699/other A motorcycle] is siting beside [/EN#211704/other a lighted movie advertisement] .
+[/EN#211700/scene A small bus shelter] is advertising [/EN#211704/other movies] .

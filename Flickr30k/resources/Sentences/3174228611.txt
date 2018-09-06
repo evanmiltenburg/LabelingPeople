@@ -1,0 +1,5 @@
+[/EN#98300/people a basketball player] wearing [/EN#98303/clothing a red and white jersey] while running down [/EN#98305/other the court] .
+[/EN#98300/people A dark-skinned man] in [/EN#98303/clothing a white sports outfit] plays [/EN#98302/other basketball] .
+[/EN#98300/people A man] dribbles [/EN#98301/other a ball] during [/EN#98302/other a basketball game] .
+[/EN#98300/people The SMU basketball player] drives to [/EN#98304/other the basket] .
+[/EN#98300/people An SMU basketball player] playing [/EN#98301/other basketball] .

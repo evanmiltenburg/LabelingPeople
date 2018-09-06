@@ -1,0 +1,5 @@
+[/EN#218905/people Two people] ride on [/EN#218907/other a white motorcycle] between [/EN#218911/other two rows of parked motorcycles] , and [/EN#218904/people the driver] smokes [/EN#218906/other a cigarette] .
+[/EN#218904/people A woman] on [/EN#218907/vehicles a scooter] with [/EN#218906/other a cigarette] hanging out of [/EN#218912/bodyparts her mouth] .
+[/EN#218904/people Man] in [/EN#218913/clothing blue shirt] riding [/EN#218907/vehicles his bike] , smoking [/EN#218906/other a cigarette] .
+[/EN#218904/people A man] rides [/EN#218910/other a moped smoking] [/EN#218906/other a cigarette] .
+[/EN#218905/people Two people] are riding on [/EN#218907/other a motorcycle] .

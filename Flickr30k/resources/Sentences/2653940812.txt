@@ -1,0 +1,5 @@
+[/EN#64182/people A man] , in [/EN#64183/clothing a green shirt] , is attempting to light [/EN#64184/other a firework] near [/EN#64189/scene the water of a lake] .
+[/EN#64182/people A man] in [/EN#64183/clothing a green shirt] is checking [/EN#64185/other a thin pole] stuck on [/EN#64186/scene the edge of a waterway] .
+[/EN#64182/people An old man] squats near [/EN#64187/scene the water] where [/EN#0/notvisual there] are [/EN#64188/vehicles/scene boats] docked .
+[/EN#64182/people Older man] measuring [/EN#64186/scene the water line of nearby shore] .
+[/EN#64182/people A man] bends down to light [/EN#64184/other a firework] near [/EN#64187/scene a lake] .

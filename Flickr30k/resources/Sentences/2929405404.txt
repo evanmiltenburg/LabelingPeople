@@ -1,0 +1,5 @@
+[/EN#82106/people A motorcyclist] is turning [/EN#82111/scene a sharp corner] on [/EN#82110/vehicles his red motorbike] and is scraping [/EN#0/notvisual it] on [/EN#82107/scene the road] .
+[/EN#82106/people A motorcycle racer] is producing [/EN#82109/other sparks] by leaning during [/EN#82108/other a turn] .
+[/EN#82106/people The motorcycle rider] makes [/EN#82109/other sparks] as [/EN#0/notvisual he] leans in for [/EN#82108/other a turn] .
+[/EN#82106/people A man] rides [/EN#82110/other a motorcycle] on [/EN#82107/scene a track] .
+[/EN#82106/people A motorcyclist] making [/EN#82108/other a sharp turn] .

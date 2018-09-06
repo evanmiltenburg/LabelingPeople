@@ -1,0 +1,5 @@
+[/EN#179423/scene A barbecue tent] , with [/EN#179434/clothing a large red umbrella] , and [/EN#179433/people two male cooks] , both with [/EN#179435/clothing white aprons] , standing over [/EN#179427/other a barbecue grill] as [/EN#179425/people a crowd of people] pass by .
+[/EN#179423/scene A red tent] in front of [/EN#179426/scene a brick building] is serving [/EN#179424/people passersby] on [/EN#179428/scene the brick road] .
+[/EN#179425/people People] stop on [/EN#179432/scene their way] by [/EN#179423/scene a food concession stand] outside of [/EN#179426/scene a building] .
+[/EN#179425/people Many people] are walking through [/EN#179429/other an outdoor marketplace] .
+[/EN#179425/people People] are waiting outside [/EN#179423/scene the tent] for [/EN#179431/other food] .

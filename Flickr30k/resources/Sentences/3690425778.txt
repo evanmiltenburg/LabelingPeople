@@ -1,0 +1,5 @@
+[/EN#137082/people The person] wearing [/EN#137085/clothing shorts] and [/EN#137086/clothing a shirt] is jumping off [/EN#137083/scene a dock] , into [/EN#137084/scene the water] .
+[/EN#137082/people A man] jumps off of [/EN#137083/scene a dock] and into [/EN#137084/scene the water] .
+[/EN#137082/people The boy] jumps into [/EN#137084/scene the water] off of [/EN#137083/scene a dock] .
+[/EN#137082/people A person] jumping off [/EN#137083/scene a dock] into [/EN#137084/scene water] .
+[/EN#137082/people Person] jumping into [/EN#137084/scene the water] .

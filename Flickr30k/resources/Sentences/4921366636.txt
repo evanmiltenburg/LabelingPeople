@@ -1,0 +1,5 @@
+[/EN#218537/people Some people] standing outside next to [/EN#218529/people a flower vendor] and across [/EN#218532/scene the street] from [/EN#218531/other a McDonald] 's on [/EN#218539/scene a rainy day] .
+[/EN#218536/other A McDonald 's sign] in [/EN#0/notvisual the distance] beyond [/EN#218530/people a pair of people] with [/EN#218535/clothing colored umbrellas] .
+[/EN#218529/people A woman] is sitting next to [/EN#218533/scene a flower stand] in front of [/EN#218538/scene a McDonald 's restaurant] .
+[/EN#218530/people Two people] with [/EN#218535/clothing umbrellas] are in front of [/EN#218531/other a McDonald] 's .
+[/EN#218529/people A girl] attends [/EN#218534/scene a flower shop] near [/EN#218532/scene a busy street] .

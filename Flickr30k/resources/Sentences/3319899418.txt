@@ -1,0 +1,5 @@
+[/EN#109153/people A person] in [/EN#109163/clothing a green jacket] and [/EN#109164/clothing yellow pants] is on [/EN#109161/other a snowboard] coming down [/EN#109154/scene a roof] into [/EN#109159/scene the snow] .
+[/EN#109153/people A snowboarder] slides down [/EN#109154/scene the side of an A-frame house] buried in [/EN#109159/scene snow] .
+[/EN#109153/people The snowboarder] does [/EN#0/notvisual a trick] off [/EN#109154/scene the side of a large green building] .
+[/EN#109160/people Someone] snowboards up [/EN#109154/scene the roof of a barn] .
+[/EN#109153/people A snowboarder] goes up [/EN#109156/scene a ramp] .

@@ -1,0 +1,5 @@
+[/EN#29857/people A woman] in [/EN#29863/clothing a cream coat] and [/EN#29862/clothing yellow scarf] holding out [/EN#29865/bodyparts her hand] to [/EN#29860/people a person] in [/EN#29861/clothing a brown sweater] [/EN#0/notvisual that] appears to be taking [/EN#29864/other a picture of a piece] of [/EN#29864/other art] .
+[/EN#29857/people A woman] wearing [/EN#29862/clothing a yellow] and [/EN#29862/clothing cream colored scarf] , and [/EN#29863/clothing a cream color jacket] stands in front of [/EN#29867/other a wall] with [/EN#29864/other a painting] and holds [/EN#29865/bodyparts her hand] out .
+[/EN#29858/people A lady] wearing [/EN#29862/clothing a checkered scarf] around [/EN#29869/bodyparts her neck] is talking to [/EN#29860/people a person] in [/EN#29861/clothing a striped sweater] .
+[/EN#29860/people One person] is looking at [/EN#29864/other a painting] while [/EN#29858/people another person] is holding [/EN#29865/bodyparts her hand] up .
+[/EN#29860/people A man] takes [/EN#29857/people a photograph of woman] standing next to [/EN#29864/other a painting] .

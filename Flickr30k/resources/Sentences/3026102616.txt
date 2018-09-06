@@ -1,0 +1,5 @@
+[/EN#88320/animals A dog] standing on [/EN#88321/bodyparts his hind legs] has [/EN#88322/bodyparts his head] and [/EN#88327/bodyparts front paws] on [/EN#88323/other the kitchen counter] .
+[/EN#88320/animals A dog] is standing up against [/EN#88324/other the kitchen counters] trying to get into [/EN#88325/clothing bags] .
+[/EN#88320/animals Dog] on [/EN#88321/bodyparts two legs] leaning against [/EN#88324/other a counter] with [/EN#88325/clothing filled bags] .
+[/EN#88320/animals A curious dog] sniffs at [/EN#88326/clothing grocery bags] on [/EN#88323/other a counter] .
+[/EN#88320/animals Dog] climbs counter with [/EN#88325/clothing red grocery bags]

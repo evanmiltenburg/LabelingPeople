@@ -1,0 +1,5 @@
+[/EN#84523/people A boy] in [/EN#84528/clothing t-shirt] , [/EN#84530/clothing jeans] and [/EN#84531/clothing knit cap] jumps up with [/EN#84526/other his skating board] , [/EN#84532/bodyparts arms] flung out .
+[/EN#84523/people A man] performs [/EN#0/notvisual a skateboarding trick] on [/EN#84529/other a cement monument] in [/EN#84524/scene a city park] .
+[/EN#84523/people A skateboarder] is airborne in [/EN#84524/scene a city green space] .
+[/EN#84523/people A boy] in [/EN#84528/clothing a white t-shirt] does skateboard [/EN#0/notvisual tricks] .
+[/EN#84523/people Young skateboarder] doing [/EN#0/notvisual a trick] in [/EN#84524/scene the park] .

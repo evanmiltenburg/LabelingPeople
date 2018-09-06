@@ -1,0 +1,5 @@
+[/EN#99923/scene A canal] with [/EN#99925/vehicles/scene a boat] sitting in [/EN#0/notvisual it] and [/EN#99931/people people] walking and sitting on [/EN#99927/scene the sidewalk]
+[/EN#99924/people A woman] in [/EN#99926/clothing a green top] and [/EN#99930/clothing black pants] is walking past [/EN#99925/vehicles/scene some boats] in [/EN#99922/scene the water] .
+[/EN#99924/people A woman] in [/EN#99926/clothing a green tank top] walking past [/EN#99925/vehicles/scene some boats] on [/EN#99927/scene a pier] .
+[/EN#99924/people A woman] walks outdoors near [/EN#99928/scene a canal] .
+[/EN#99924/people A woman] walking down [/EN#99927/scene the street] .

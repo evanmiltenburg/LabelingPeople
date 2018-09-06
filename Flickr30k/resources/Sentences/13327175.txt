@@ -1,0 +1,5 @@
+[/EN#8869/people A man] , wearing [/EN#8873/clothing a red sash] and [/EN#8875/clothing white shirt] , walks [/EN#8872/animals a pig] with [/EN#8871/other a long piece of rope]
+[/EN#8869/people A man] is walking [/EN#8872/animals a pig] on [/EN#8871/clothing a rope leash] down [/EN#8870/scene a dirt road] .
+[/EN#8869/people A man] is holding [/EN#8871/other a rope] [/EN#0/notvisual which] is tied to [/EN#8872/animals a pig] .
+[/EN#8869/people A farmer] walks [/EN#8872/animals his pet pig] down [/EN#8870/scene the dirt road] .
+[/EN#8869/people A man] walking [/EN#8872/animals a pig] on [/EN#8870/scene a dirt road] .

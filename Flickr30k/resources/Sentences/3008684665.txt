@@ -1,0 +1,5 @@
+[/EN#87020/people A man] in [/EN#87023/clothing orange vest] with [/EN#87024/other a rifle] in [/EN#87027/bodyparts one hand] and [/EN#87021/animals a dead bird] in [/EN#87029/other the other] smiling .
+[/EN#87020/people A young hunter] wearing [/EN#87023/clothing an orange vest] holding [/EN#87021/animals a pheasant] in [/EN#87022/scene a field] .
+[/EN#87020/people A hunter] is holding [/EN#87021/animals a bird] in [/EN#87026/bodyparts one hand] and [/EN#87024/other his gun] in [/EN#87028/other the other] .
+[/EN#87020/people A young male hunter] caught [/EN#87021/animals a turkey] in [/EN#87022/scene the corn field] .
+[/EN#87020/people The hunter] is proud of [/EN#87021/scene this catch of the day] .

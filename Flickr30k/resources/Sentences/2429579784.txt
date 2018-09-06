@@ -1,0 +1,5 @@
+[/EN#48933/people A man] wearing [/EN#48938/clothing blue jeans] and [/EN#48937/clothing a white t-shirt] is standing on [/EN#48935/other a ladder] with [/EN#48939/other a bucket] hanging from [/EN#0/notvisual it] working on [/EN#48934/scene a building] .
+[/EN#48933/people A man] in [/EN#48938/clothing blue jeans] and [/EN#48937/clothing a white shirt] is standing on [/EN#48935/other a ladder] .
+[/EN#48933/people A man] on [/EN#48935/other a ladder] scraping [/EN#48936/scene some molding] on [/EN#48934/scene a building] .
+[/EN#48933/people A man] does work on [/EN#48936/scene a stone part of a building] .
+[/EN#48933/people Man] working on [/EN#48936/other building decor] .

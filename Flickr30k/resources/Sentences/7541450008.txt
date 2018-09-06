@@ -1,0 +1,5 @@
+[/EN#271192/people Two men] in [/EN#271197/clothing orange hazard vests] and [/EN#271206/clothing sandals] paint [/EN#271196/clothing a curb white] : [/EN#271204/people one man] , in [/EN#271207/clothing tan khaki shorts] , [/EN#271199/clothing a backpack] , and [/EN#271203/other a yellow polo] is crouching as [/EN#0/notvisual he] paints , and [/EN#0/notvisual another] in [/EN#271200/clothing a blue and yellow shirt] and [/EN#271198/clothing gray khakis] holds [/EN#271202/other a small bucket] and [/EN#271194/other brush] as [/EN#0/notvisual he] stands and watches [/EN#271204/people his partner] .
+[/EN#271192/people Two men] in [/EN#271197/clothing bright orange vests] are painting [/EN#271193/clothing a curb white] .
+[/EN#271192/people Two men] in [/EN#271197/clothing orange safety vests] paint [/EN#271193/clothing a curb white] .
+[/EN#271192/people Two men] are painting [/EN#271193/other a curb] with [/EN#271196/other white paint] .
+[/EN#271192/people Two men] paint [/EN#271193/other a curb] on [/EN#271208/scene a busy street corner] .

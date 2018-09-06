@@ -1,0 +1,5 @@
+[/EN#198560/people A woman] in [/EN#198561/clothing a bright yellow top] and [/EN#198565/clothing short plaid shorts] gives [/EN#198566/other a look of disgust] .
+[/EN#198560/people A young lady] , in [/EN#198561/clothing blouse] , [/EN#198565/clothing shorts] , and [/EN#198564/clothing sandals] walks on [/EN#198563/scene a city sidewalk] .
+[/EN#198560/people A woman] wearing [/EN#198564/clothing sandals] and [/EN#198561/clothing a yellow shirt] is carrying [/EN#198562/clothing a tan bag] .
+[/EN#0/notvisual This] is [/EN#198560/people a woman] in [/EN#198561/clothing a yellow shirt] carrying [/EN#198562/clothing a brown purse] .
+[/EN#198560/people Woman] in [/EN#198565/clothing shorts] and [/EN#198561/clothing yellow shirt] walks down [/EN#198563/scene a street] .

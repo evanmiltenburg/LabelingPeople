@@ -1,0 +1,5 @@
+[/EN#188881/people A short elderly man] with [/EN#188887/clothing a red shirt] and [/EN#188882/other a cane] stands at [/EN#188884/scene a pastry portion of a supermarket] .
+[/EN#188881/people A man] in [/EN#188887/clothing a red shirt] holding [/EN#188882/other a cane] is ordering [/EN#188889/other some food] at [/EN#188886/scene the market] .
+[/EN#188881/people An older man] with [/EN#188882/other a can] is standing next to [/EN#188885/other a counter] .
+[/EN#188881/people A male] is placing [/EN#188888/other an order] in [/EN#188883/other a deli] .
+[/EN#188881/people A man] in [/EN#188886/scene a grocery store] .

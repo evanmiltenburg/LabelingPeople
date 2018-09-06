@@ -1,0 +1,5 @@
+[/EN#23389/people A baseball player] wearing [/EN#23390/clothing a Houston uniform] is about to throw [/EN#23391/other a baseball] in [/EN#23395/scene a stadium] while [/EN#23392/people spectators] watch .
+[/EN#23389/people A Houston baseball player] has caught [/EN#23391/other a ball] and is now throwing [/EN#23391/other the ball] towards [/EN#23396/people another team member] .
+[/EN#23389/people A baseball pitcher] preparing to pitch [/EN#23391/other a ball] with [/EN#23392/people a shot of the baseball crowd] .
+[/EN#23389/other Houston Astros pitcher number 22] prepares to throw [/EN#23394/scene home] .
+[/EN#23389/people A pitcher] from [/EN#23389/people a Houston baseball team] is mid-throw .

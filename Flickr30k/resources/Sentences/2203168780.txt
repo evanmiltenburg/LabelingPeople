@@ -1,0 +1,5 @@
+[/EN#33873/people A man] in [/EN#33874/clothing a black sweater] sits at [/EN#33877/other a desk] typing on [/EN#33875/other a computer keyboard] .
+[/EN#33873/people a man] with [/EN#33876/bodyparts a short beard] , wearing [/EN#33874/clothing a sweater] , is working at [/EN#33877/other his desk] .
+[/EN#33873/people A gentlemen] dressed nicely looking at [/EN#33879/other something] on [/EN#33877/other his desk] .
+[/EN#33873/people Man] with [/EN#33876/bodyparts goatee] looking at [/EN#33879/other a computer screen] .
+[/EN#33873/people A man] with [/EN#33876/bodyparts a goatee] is working in [/EN#33878/scene an office] .

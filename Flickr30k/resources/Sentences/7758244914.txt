@@ -1,0 +1,5 @@
+[/EN#274675/people A woman] wearing [/EN#274678/clothing a blue dress] and [/EN#274682/clothing high heels] at [/EN#274679/scene a train station] walks away from [/EN#274679/scene the tracks] towards [/EN#274681/other a yellow upright suitcase] , while [/EN#274676/people a bald man] in [/EN#274684/clothing black] looks on from [/EN#274677/other a nearby bench] .
+[/EN#0/notvisual There] is [/EN#274675/people a woman] in [/EN#274678/clothing a blue dress] in [/EN#274685/other this picture] [/EN#0/notvisual who] appears to be traveling and waiting for [/EN#274683/vehicles/scene a subway] to arrive .
+[/EN#274675/people woman] in [/EN#274678/clothing blue dress] looking down [/EN#274679/scene the tracks of the train station] while [/EN#274676/people man] watches off [/EN#274677/other the bench] .
+[/EN#274675/people An attractive young woman] in [/EN#274678/clothing a blue jacket] walks around [/EN#274679/scene a train station] .
+[/EN#274675/people A woman] in [/EN#274682/clothing high heels] is walking towards [/EN#274681/other some a suitcase] .

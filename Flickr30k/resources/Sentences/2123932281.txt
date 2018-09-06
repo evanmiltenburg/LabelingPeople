@@ -1,0 +1,5 @@
+[/EN#30031/people A little girl] is eating [/EN#30033/other cake] and [/EN#30035/other strawberries] at [/EN#30032/other a wooden table] .
+[/EN#30031/people A girl] wearing [/EN#30036/clothing a halter top] eats [/EN#30033/other cake] at [/EN#30032/other a table] .
+[/EN#30031/people A young girl] sits at [/EN#30032/other a table] and eats .
+[/EN#30031/people The little girl] is eating [/EN#30037/scene outdoors] .
+[/EN#30031/people a little girl] holds up [/EN#30034/other her plate] .

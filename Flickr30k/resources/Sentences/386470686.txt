@@ -1,0 +1,5 @@
+[/EN#146260/people A man] in [/EN#146264/clothing tan capris] , [/EN#146265/clothing brown sandals] , and [/EN#146263/clothing a white t-shirt] , crouches on [/EN#146260/other the trunk of a tree] .
+[/EN#146260/people A man] in [/EN#146263/clothing a white shirt] and [/EN#146264/clothing khaki pants] crouches on [/EN#146261/other a fallen tree trunk] .
+[/EN#146260/people A man] sitting in [/EN#146260/other the middle of branches] on [/EN#146261/other a fallen tree] .
+[/EN#146260/people A man] crouched in [/EN#146261/other the bare branches of a fallen tree] .
+[/EN#146260/people A man] is crouched on top of [/EN#146260/other a horizontal tree] .

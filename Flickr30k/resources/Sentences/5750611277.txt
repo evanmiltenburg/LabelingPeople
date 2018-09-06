@@ -1,0 +1,5 @@
+[/EN#242425/people A girl] in [/EN#242428/clothing a green shirt] fishing in [/EN#242432/scene the ocean] while standing next to [/EN#242426/people a man] in [/EN#242427/clothing a blue t-shirt] .
+[/EN#242425/people a woman] in [/EN#242428/clothing a green shirt] is fishing while [/EN#242426/people a man] in [/EN#242427/clothing a blue shirt] is looking backwards
+[/EN#242425/people A woman] in [/EN#242428/clothing green] fishes while [/EN#242426/people a man] wearing [/EN#242427/clothing blue] turns to face [/EN#0/notvisual the camera] .
+[/EN#242426/people A man] poses looking back while [/EN#242425/people a younger girl] fishes .
+[/EN#242429/people A group of people] are fishing from [/EN#242430/vehicles/scene a boat] .

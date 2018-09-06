@@ -1,0 +1,5 @@
+[/EN#126575/animals A black and yellow bird] is eating [/EN#126576/animals a worm] while resting on [/EN#0/notvisual the grassy ground] .
+[/EN#126575/animals A black bird] with [/EN#126578/bodyparts a yellow beak] standing in [/EN#126577/scene green grass] .
+[/EN#126575/animals A brown bird] is standing still in [/EN#126577/scene a grassy field] .
+[/EN#126575/animals A black and orange bird] in [/EN#126577/scene the grass]
+[/EN#126575/animals A bird] with [/EN#126576/animals a bug] in [/EN#126579/bodyparts its mouth] .

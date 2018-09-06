@@ -1,0 +1,5 @@
+[/EN#33299/people A man] wearing [/EN#33300/clothing a white cap] is drinking [/EN#33301/scene water] with [/EN#33302/other lemon] at [/EN#33303/other a table] next to [/EN#33304/other a mirror] [/EN#0/notvisual that] shows [/EN#33305/people a server] and [/EN#33306/people three more seated customers] .
+[/EN#33299/people A man] sits and drinks [/EN#33307/other a drink] with [/EN#33308/people other people] in [/EN#0/notvisual the background] .
+[/EN#33299/people A man] drinks from [/EN#33307/other a glass] while sitting at [/EN#33303/other a table] .
+[/EN#33299/people A man] in [/EN#33300/clothing a white hat] takes [/EN#33307/other a drink] .
+[/EN#33309/people Customers] dining at [/EN#33310/scene a restaurant] .

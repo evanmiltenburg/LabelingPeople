@@ -1,0 +1,5 @@
+[/EN#77788/animals A large , white dog] , with [/EN#77790/bodyparts a fluffy tail] is running on [/EN#77789/scene grass] .
+[/EN#77788/animals Large white dog] running on [/EN#77789/scene grass]
+[/EN#77788/animals A white dog] runs on [/EN#77789/scene the grass] .
+[/EN#77788/animals White dog] running on [/EN#77789/scene the grass]
+[/EN#77788/animals The white dog] is running .

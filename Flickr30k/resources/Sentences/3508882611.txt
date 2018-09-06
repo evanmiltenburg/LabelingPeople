@@ -1,0 +1,5 @@
+[/EN#123651/people a woman] running around [/EN#123653/other a course] with [/EN#123652/animals a gray dog] jumping [/EN#123654/other a railing]
+[/EN#123651/people Trainer] runs [/EN#123652/animals her dog] through [/EN#123653/other training course] with [/EN#123655/other green pipe]
+[/EN#123651/people A lady] is running [/EN#123652/animals her dog] through [/EN#123653/other an agility course] .
+[/EN#123651/people A woman] and [/EN#123652/animals a dog] work through [/EN#123653/other an agility course] .
+[/EN#123652/animals A large gray dog] is jumping over [/EN#123654/other a white hurdle] .

@@ -1,0 +1,5 @@
+[/EN#284080/animals A Beagle dog] is walking on [/EN#284082/scene the shoreline] at [/EN#284081/scene the beach] .
+[/EN#284080/animals The beagle] is walking on [/EN#284081/scene the beach] at [/EN#284082/scene the waterline] .
+[/EN#284080/animals The beagle] is on [/EN#284081/scene a beach] walking along [/EN#284084/scene the shoreline]
+[/EN#284080/animals A beagle] walking on [/EN#284081/scene the beach] next to [/EN#284083/scene some waves] .
+[/EN#284080/animals A beagle] walks along [/EN#284082/scene the calm shore] .

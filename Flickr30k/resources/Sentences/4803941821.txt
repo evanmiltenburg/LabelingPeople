@@ -1,0 +1,5 @@
+[/EN#204456/people A street vendor] wearing [/EN#204467/clothing a gray shirt] , [/EN#204468/clothing gray pants] , and [/EN#204469/clothing a blue baseball cap] is selling [/EN#204460/other bananas] and [/EN#204465/other limes] from [/EN#204464/other blue plastic crates] .
+[/EN#204462/people Two men] , [/EN#204456/people one man] selling [/EN#204461/other fruit] [/EN#204455/other the other] inspecting [/EN#204458/other the fruit] and conversing with [/EN#204456/people the seller] .
+[/EN#204455/people A customer] examines [/EN#204461/other fruit] sold on [/EN#204463/other the curb] by [/EN#204456/people a street vendor] .
+[/EN#204455/people A customer] asking [/EN#204456/people a street vendor] for [/EN#204460/other the price of bananas] .
+[/EN#204456/people A gentleman] selling [/EN#204457/other banana 's and grapes] .

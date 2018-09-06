@@ -1,0 +1,5 @@
+[/EN#128836/people Woman] wearing [/EN#128840/clothing tennis shoes] is stopped and looking at [/EN#0/notvisual her] [/EN#128838/other cellphone] .
+[/EN#128836/people A young woman] dressed in [/EN#128837/clothing a gray jumpsuit] looking at [/EN#128838/other her phone] .
+[/EN#128836/people A woman] wearing [/EN#128837/clothing a warm up suit] looks at [/EN#128838/other her cellphone] .
+[/EN#128836/people A casually-dressed woman] is outside using [/EN#128838/other her phone] .
+[/EN#128836/people A girl] doing [/EN#128839/other something] on [/EN#128838/other her cellphone] .

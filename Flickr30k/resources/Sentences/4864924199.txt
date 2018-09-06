@@ -1,0 +1,5 @@
+[/EN#212755/people Two middle-aged white women] stare at [/EN#212753/vehicles a collection of bicycles] .
+[/EN#212755/people Two women] are looking at [/EN#212753/vehicles several bicycles] lined up .
+[/EN#212755/people Two women] are looking at [/EN#212756/vehicles a bunch of bicycles] .
+[/EN#212755/people Two women] stand near [/EN#212753/vehicles a group of bicycles] .
+[/EN#212754/vehicles Bike] are being displayed in [/EN#212757/scene the street] .

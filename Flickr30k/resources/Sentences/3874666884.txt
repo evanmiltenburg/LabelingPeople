@@ -1,0 +1,5 @@
+[/EN#146583/people A guy] in [/EN#146585/clothing a yellow parachute jumpsuit] is standing between [/EN#146584/other a row of packed parachutes] .
+[/EN#146583/people A man] in [/EN#146585/clothing a yellow jumpsuit] is standing outside next to [/EN#146587/clothing brown bags] on [/EN#0/notvisual the ground] .
+[/EN#146583/people A man] in [/EN#146585/clothing a yellow jumpsuit] stands next to [/EN#146584/other parachuting equipment] .
+[/EN#146584/other Protective padding] at [/EN#146586/other the ready] for [/EN#146589/people some type] of gearing up .
+[/EN#146583/people A man] in [/EN#146585/clothing a yellow suit] is standing [/EN#146588/people front of the crowd] .

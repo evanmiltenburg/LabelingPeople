@@ -1,0 +1,5 @@
+[/EN#31311/people A man] in [/EN#31312/clothing a choir robe] is standing at [/EN#31313/other a microphone] while [/EN#31314/people the choir] sits behind [/EN#0/notvisual him] .
+[/EN#31311/people The professor] reading [/EN#31321/people the names of students] [/EN#0/notvisual who] have passed [/EN#31318/other the exam] .
+[/EN#31311/people A man] sings with [/EN#31314/people a choir] , dressed in [/EN#31315/clothing red and yellow] .
+[/EN#31311/other the canter] in [/EN#31312/clothing red and gold] sings to [/EN#31319/scene his church] .
+[/EN#31311/people A robed man] reading from [/EN#31317/other a booklet] .

@@ -1,0 +1,5 @@
+[/EN#113903/people Two young women] are crossing [/EN#113904/scene a street] just after [/EN#113902/vehicles/scene a yellow school bus] has passed by .
+[/EN#113903/people Two women] walk across [/EN#113904/scene the street] after [/EN#113902/vehicles/scene a yellow school bus] passes [/EN#0/notvisual them] by .
+[/EN#113903/people Two young women] being to cross [/EN#113904/scene the street] as [/EN#113902/vehicles/scene a yellow school bus] passes .
+[/EN#113902/vehicles/scene A yellow school bus] drives away as [/EN#113903/people two people] walk behind [/EN#0/notvisual it] .
+[/EN#113903/people Two people] strolling behind [/EN#113902/vehicles/scene a school bus] .

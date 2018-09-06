@@ -1,0 +1,5 @@
+[/EN#268042/people A man] sitting on [/EN#268044/other a newspaper machine] behind [/EN#268043/other a big yellow arrow sign] [/EN#0/notvisual that] says [/EN#268045/other insurance] .
+[/EN#268042/people A boy] sitting on [/EN#268044/other a newspaper machine] , [/EN#268049/other hides] behind [/EN#268043/other an insurance sign] .
+[/EN#268043/other A sign] with [/EN#268048/other the word insurance] written in [/EN#268050/clothing red] is attached to [/EN#268047/other a pole] .
+[/EN#268042/people A man] sitting on [/EN#268044/other a newspaper dispenser] , behind [/EN#268043/other a sign] .
+[/EN#268043/other A yellow sign] advertises [/EN#268045/other insurance] in [/EN#268046/other Spanish] .

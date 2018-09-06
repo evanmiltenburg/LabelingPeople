@@ -1,0 +1,5 @@
+[/EN#10056/people Two men] are sitting on [/EN#10060/scene the floor] under [/EN#10057/scene a staircase] playing [/EN#10058/instruments guitars] .
+[/EN#10056/people 2 men] playing [/EN#10058/instruments guitar] on [/EN#10061/scene the street] outside [/EN#10062/scene a restaurant] .
+[/EN#10056/people two man] are sitting in [/EN#10063/scene white room] playing [/EN#10058/instruments guitar] .
+[/EN#10056/people Two people] are sitting near [/EN#10059/other a door] playing [/EN#10058/instruments the guitar] .
+[/EN#10056/people Two men] are playing [/EN#10058/instruments guitar] in [/EN#10064/scene the hallway] .

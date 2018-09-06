@@ -1,0 +1,5 @@
+[/EN#21151/animals A black and white dog] standing on [/EN#21152/bodyparts its hind legs] on carpeting in front of [/EN#21153/other a chair] .
+[/EN#21154/clothing Black] and [/EN#21151/animals white dog] in [/EN#21155/scene living room] standing on [/EN#21152/bodyparts hind legs] .
+[/EN#21151/animals A black and white dog] stands on [/EN#21152/bodyparts its hind legs] .
+[/EN#21151/animals Closeup of a dog] standing on [/EN#21152/bodyparts its hind legs]
+[/EN#21156/people a boy] jumps .

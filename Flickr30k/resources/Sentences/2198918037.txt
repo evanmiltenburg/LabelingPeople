@@ -1,0 +1,5 @@
+[/EN#33616/people A shirtless brown-skinned man] wearing [/EN#33617/clothing sunglasses] and [/EN#33618/clothing blue jean shorts] is standing in front of [/EN#33619/people a group of people] .
+[/EN#33616/people a man] in [/EN#33620/clothing shorts] with [/EN#33621/clothing no shirt] is standing in front of [/EN#33619/people a group of people] on [/EN#33623/scene the beach] .
+[/EN#33616/people A man] , in [/EN#33618/clothing cutoff jeans] and [/EN#33621/clothing no shirt] , is standing in [/EN#33619/people a crowd] on [/EN#33623/scene the beach] .
+[/EN#33616/people A shirtless man] with [/EN#33617/clothing sunglasses] looks at [/EN#0/notvisual the camera] during [/EN#33624/other a beach party] .
+[/EN#33616/people Man] wearing [/EN#33618/clothing shorts] stands in front of [/EN#33622/other others] .

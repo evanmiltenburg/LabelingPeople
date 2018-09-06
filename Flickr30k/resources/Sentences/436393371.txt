@@ -1,0 +1,5 @@
+[/EN#164969/animals A brown doberman] is outside with [/EN#164970/other a stick] in [/EN#164972/bodyparts its mouth] .
+[/EN#164969/animals A dog] with [/EN#164971/bodyparts sharp teeth] is chewing on [/EN#164970/other a stick] outside .
+[/EN#164969/animals A brown dog] shows [/EN#164971/bodyparts his teeth] .
+[/EN#164969/animals A dog] is biting [/EN#164970/other a twig] .
+[/EN#164969/animals a dog] bites [/EN#164970/other a stick] .

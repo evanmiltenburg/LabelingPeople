@@ -1,0 +1,5 @@
+[/EN#37054/animals Two dogs] play in [/EN#37059/scene the snow] on [/EN#0/notvisual the ground] near [/EN#37055/other a tree] , with [/EN#37056/other one] on top of [/EN#37057/other the other] .
+[/EN#37054/animals Two dogs] are playing with [/EN#37058/other a tennis ball] in [/EN#37059/scene snow] near [/EN#37055/other a tree] .
+[/EN#37054/animals Two dogs] are playing in [/EN#37059/scene the snow] next to [/EN#37055/other a tree] .
+[/EN#37054/animals Two dogs] tussle in [/EN#37059/scene the snow] over [/EN#37058/other a tennis ball] .
+[/EN#37054/animals Two big dogs] play in [/EN#37059/scene the snow] under [/EN#37055/other a tree] .

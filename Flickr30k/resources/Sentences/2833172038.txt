@@ -1,0 +1,5 @@
+[/EN#75573/people A man] in [/EN#75575/clothing a white t-shirt] is holding [/EN#75574/other the ten of clubs] in [/EN#75580/bodyparts his right hand] near [/EN#75577/bodyparts his head] and [/EN#75581/other the remaining cards] in [/EN#75579/bodyparts his left hand] .
+[/EN#75573/people A young man] in [/EN#75578/clothing glasses] is drinking [/EN#75576/other beer] and holding [/EN#75574/other the 10 of clubs] to [/EN#75577/bodyparts his forehead] .
+[/EN#75573/people A man] [/EN#0/notvisual who] has been drinking [/EN#75576/other beer] is holding [/EN#75574/other a card] to [/EN#75577/bodyparts his forehead] .
+[/EN#75573/people The man] in [/EN#75575/clothing the white shirt] holds up [/EN#75574/other a playing card] .
+[/EN#75573/people A man] holds [/EN#75574/other a card] to [/EN#75577/bodyparts his head] .

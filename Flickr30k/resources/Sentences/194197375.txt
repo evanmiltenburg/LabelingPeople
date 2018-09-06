@@ -1,0 +1,5 @@
+[/EN#23607/people Six men] seat in [/EN#23610/vehicles/scene a wooden boat] while [/EN#23612/other two] are [/EN#0/notvisual the background] surrounded by [/EN#23611/other logs] and [/EN#23616/scene a green landscape]
+[/EN#23607/people A group of fishermen] on [/EN#23610/vehicles/scene a boat] tied up in [/EN#23609/scene a bay] , with [/EN#23608/other piles of driftwood] near [/EN#0/notvisual them] .
+[/EN#23607/people Some men] are sitting on [/EN#23610/vehicles/scene a boat] near [/EN#23608/scene a beach] covered in [/EN#23608/other stacked logs] and [/EN#23618/other sticks] .
+Behind [/EN#23613/other a pile of wood] on [/EN#23608/scene a beach] [/EN#23607/people a group of men] stand in [/EN#23610/vehicles/scene a wooden boat] .
+[/EN#23607/people A group of black gentlemen] sit sail to go on [/EN#23615/other a fishing trip] .

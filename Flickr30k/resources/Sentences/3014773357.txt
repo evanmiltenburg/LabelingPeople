@@ -1,0 +1,5 @@
+[/EN#87379/animals Two geese] in [/EN#87380/scene dark blue water] [/EN#87378/animals one goose] has [/EN#87381/clothing wings] outstreached [/EN#87385/other the other] is starting [/EN#87386/people a dive] .
+[/EN#87378/animals A swan] unfurling [/EN#87381/clothing his wings] over [/EN#87380/scene the water] with [/EN#87382/animals a second swan] in [/EN#0/notvisual the background] .
+[/EN#87379/animals Two swans] are in [/EN#87380/scene the water] , [/EN#87378/other the one] in [/EN#87383/scene front] is flapping [/EN#87381/clothing its wings] .
+[/EN#87379/animals two white geese] on [/EN#87380/scene the surface of the ocean]
+[/EN#87379/animals Two white swans] on [/EN#87380/scene the water] .

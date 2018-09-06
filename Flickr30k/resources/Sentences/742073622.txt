@@ -1,0 +1,5 @@
+[/EN#269546/people A little child] stands in [/EN#269549/scene the middle of the street] wearing [/EN#269547/clothing a large red hat] while [/EN#269550/people people] sit on [/EN#269551/scene the grass] .
+[/EN#269546/people A boy] wearing [/EN#269547/clothing a red hat] is standing in [/EN#269549/scene the middle of the road] .
+[/EN#269546/people A small child] with [/EN#269547/clothing a funny red hat] stands in [/EN#269548/scene the road] .
+[/EN#269546/people A small boy] wearing [/EN#269547/clothing a red hat] is standing in [/EN#269548/scene a street] .
+[/EN#269546/people A boy] stands in [/EN#269548/scene the road] wearing [/EN#269547/clothing a big red hat] .

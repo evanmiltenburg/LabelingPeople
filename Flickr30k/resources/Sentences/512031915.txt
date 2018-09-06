@@ -1,0 +1,5 @@
+[/EN#229331/animals A black puppy] is playing with [/EN#229332/clothing an orange] on [/EN#229333/scene a carpeted floor] .
+[/EN#229331/animals The black dog] is standing by [/EN#229336/other the wall] next to [/EN#229332/clothing the orange] .
+[/EN#229331/animals A black dog] on [/EN#229333/other a white carpet] next to [/EN#229332/clothing an orange] .
+[/EN#229331/animals A black puppy] standing inside beside [/EN#229332/clothing an orange] .
+[/EN#229332/clothing An orange] on [/EN#229333/scene the floor] next to [/EN#229331/animals a dog] .

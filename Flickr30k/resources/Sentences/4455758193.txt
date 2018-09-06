@@ -1,0 +1,5 @@
+[/EN#170042/people A few people] are standing outside [/EN#170040/scene a building] where [/EN#0/notvisual it] is snowing [/EN#170044/scene a lot] .
+[/EN#170039/people Snowfalls as three people] stand in front of [/EN#170040/scene a shuttered store] .
+[/EN#170043/people Person] in [/EN#170046/clothing a red hat] walking on [/EN#170041/scene a sidewalk] on [/EN#170045/scene a snowy day] .
+[/EN#170039/people A couple people] stand outside while [/EN#0/notvisual it] 's snowing .
+[/EN#170039/people People] on [/EN#170041/scene a sidewalk] during [/EN#170047/other a snowstorm] .

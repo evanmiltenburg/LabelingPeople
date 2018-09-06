@@ -1,0 +1,5 @@
+[/EN#107176/people A snowboarder] is going down [/EN#107177/scene a snowy hill] next to [/EN#107181/scene a staircase] behind [/EN#107180/scene a building] .
+[/EN#107176/people Person] snowboarding on [/EN#107177/scene hill] near [/EN#107178/other snow covered stairs] with [/EN#107183/scene buildings] nearby .
+[/EN#107176/people A person] jumping down [/EN#107177/scene a hill] on [/EN#107179/other his snowboard] in [/EN#107185/other the winter]
+[/EN#107176/people A snowboarder] goes down [/EN#107177/scene a short hill] next to [/EN#107184/other stairs] .
+[/EN#107176/people A snowboarder] glides down [/EN#107182/other a stair rail] .

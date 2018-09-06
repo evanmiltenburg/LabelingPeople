@@ -1,0 +1,5 @@
+[/EN#132041/people A man] in [/EN#132043/clothing a wetsuit] and [/EN#132045/clothing helmet] walks in front of [/EN#132042/scene a bright red building] .
+[/EN#132041/people A man] is walking past [/EN#132042/scene a red building] while wearing [/EN#132044/other specialized gear] .
+[/EN#132041/people A man] is loaded up with [/EN#132044/other gear] to go diving into [/EN#132048/scene the ocean] .
+[/EN#132041/people A man] in [/EN#132043/clothing a wetsuit] and [/EN#132045/clothing helmet] in front of [/EN#132042/other a red wall] .
+[/EN#132041/people A man] in [/EN#132047/clothing scuba gear] is walking .

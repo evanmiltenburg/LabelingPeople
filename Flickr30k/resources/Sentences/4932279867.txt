@@ -1,0 +1,5 @@
+[/EN#219900/people An elderly man] clad in [/EN#219904/clothing gray slacks] and [/EN#219903/clothing a white button shirt] is sitting on [/EN#219902/other a rounded step] next to [/EN#219901/clothing a full bag] .
+[/EN#219900/people An elderly Asian man] is sitting on [/EN#219902/other stone steps] in [/EN#0/notvisual what] looks to be [/EN#219905/other a downtown business environment] .
+[/EN#219900/people An elderly man] is sitting on [/EN#219902/other the steps] with [/EN#219901/clothing a bag] .
+[/EN#219900/people A man] is sitting on [/EN#219902/other steps] outside .
+[/EN#219900/people A man] is sitting on [/EN#219902/other a gray bench] .

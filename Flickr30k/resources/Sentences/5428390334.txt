@@ -1,0 +1,5 @@
+[/EN#236351/people A man] in [/EN#236353/clothing a laboratory coat] looking into [/EN#236355/other the lenses of a microscope] .
+[/EN#236351/people A scientist] intently looks through [/EN#236354/other a microscope] in [/EN#236352/scene a laboratory] .
+[/EN#236351/people A man] in [/EN#236353/clothing a lab coat] is looking through [/EN#236355/other a microscope] .
+[/EN#236351/people A scientist] looking through [/EN#236354/other a microscope] in [/EN#236352/animals/scene a lab] .
+[/EN#236351/people A man] in [/EN#236353/clothing a lab coat] looks through [/EN#236354/other a microscope] .

@@ -1,0 +1,5 @@
+[/EN#127733/animals Wolf-like dog] chasing [/EN#127734/other white wiffle ball] through [/EN#127735/scene a green field] .
+[/EN#127733/animals A multicolor dog] chasing after [/EN#127734/other a ball] across [/EN#127735/scene the grass] .
+[/EN#127733/animals A dog] chases [/EN#127734/other a Nerf ball] in [/EN#127735/scene the grass] .
+[/EN#127733/animals Dog] chasing after [/EN#127734/other a ball] on [/EN#127735/scene the grass] .
+[/EN#127733/animals A dog] playing [/EN#127736/other fetch] in [/EN#127735/scene a green field] .

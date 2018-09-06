@@ -1,0 +1,5 @@
+[/EN#140191/people A baseball pitcher] standing on [/EN#140192/other a mound] with [/EN#140198/other the number 35] on [/EN#140196/clothing his red and white uniform] .
+[/EN#140191/people A pitcher] wearing [/EN#140194/clothing a red shirt] and [/EN#140199/clothing white pants] is standing on [/EN#140192/other the mound] .
+[/EN#140191/people A baseball pitcher] in [/EN#140192/other a circle] with [/EN#140192/other a symbol] to [/EN#140200/scene his right] .
+[/EN#140191/people A baseball player] is standing on [/EN#140192/other the pitcher 's mound] .
+[/EN#140191/people Pitcher] on [/EN#140192/other mount] , in [/EN#140197/other red and white suite] , pitching .

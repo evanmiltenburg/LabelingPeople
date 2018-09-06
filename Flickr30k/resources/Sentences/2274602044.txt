@@ -1,0 +1,5 @@
+[/EN#38352/people Man] wearing [/EN#38355/clothing a gray jacket] sitting on [/EN#38353/other a green bench] petting [/EN#38354/animals a black dog] wearing [/EN#38356/clothing a red collar] .
+[/EN#38352/people A man] is sitting on [/EN#38353/other a green bench] located on [/EN#38357/scene a grassy hill] while playing with [/EN#38354/animals a black dog] .
+[/EN#38352/people Old man] sitting on [/EN#38353/other the park bench] with [/EN#38354/animals a black dog] .
+[/EN#38352/people a man] on [/EN#38353/other a bench] feeds [/EN#38354/animals a dog] .
+[/EN#38352/people A man] on [/EN#38353/other a bench] pets [/EN#38354/animals a dog] .

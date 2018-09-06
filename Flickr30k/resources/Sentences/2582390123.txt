@@ -1,0 +1,5 @@
+[/EN#59593/animals A small gray dog] is in [/EN#59596/scene the grass] with [/EN#59594/animals a brown cow] .
+[/EN#59593/animals A small dog] barks at [/EN#59594/animals a brown and white cow] .
+[/EN#59593/animals a small dog] is barking into [/EN#59595/bodyparts a cow 's ear] .
+[/EN#59593/animals The little dog] is going after [/EN#59594/animals the bull] .
+[/EN#59593/animals A sheepdog] barks at [/EN#59594/animals a cow] .

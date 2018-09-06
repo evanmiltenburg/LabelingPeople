@@ -1,0 +1,5 @@
+[/EN#227818/animals a large brown dog] is running across [/EN#227819/other sand dunes] in front of [/EN#227821/other some small green foliage] .
+[/EN#227818/animals A brown , white , and black dog] runs in [/EN#227819/other the sand] .
+[/EN#227818/animals A striped dog] is running in [/EN#227820/scene the desert] .
+[/EN#227818/animals A wild dog] runs through [/EN#227820/scene the desert] .
+[/EN#227818/animals A wolf] running in [/EN#227819/other sandy plains] .

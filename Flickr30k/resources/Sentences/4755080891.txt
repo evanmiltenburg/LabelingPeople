@@ -1,0 +1,5 @@
+[/EN#198996/people Some people] sitting in [/EN#198997/scene a outside chinese restaurant] eating .
+[/EN#198995/people Some people] are eating at [/EN#198997/scene an outside restaurant] at [/EN#198999/scene night] .
+[/EN#198995/people A crowd] gathers around [/EN#198997/scene a propped up Japanese food booth] .
+[/EN#198996/people Chinese people] are eating and watching [/EN#198995/people people] make [/EN#199000/other food] .
+[/EN#198996/people people] at [/EN#198997/scene an outdoor restaurant] on [/EN#198998/scene the sidewalk]

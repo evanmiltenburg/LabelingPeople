@@ -1,0 +1,5 @@
+[/EN#270782/people A man] jumps from [/EN#270783/other a large boulder] with [/EN#270787/scene a clear blue sky] behind [/EN#0/notvisual him] .
+[/EN#270782/people Bald man] in [/EN#270788/clothing glasses] in [/EN#0/notvisual the middle of a jump] on [/EN#270784/scene a rock landscape] .
+[/EN#270782/people A man] in [/EN#270786/clothing a black shirt] is [/EN#0/notvisual mid jump] on [/EN#270783/other a large rock formation] .
+[/EN#270782/people A short-haired man] is jumping while on top of [/EN#270783/other a huge boulder] .
+[/EN#270782/people man] jumping excitedly on [/EN#270784/scene a mountain]

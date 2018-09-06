@@ -1,0 +1,5 @@
+[/EN#1481/people A kid] jumps off [/EN#1482/scene the diving board] and into [/EN#1483/scene the swimming pool] below .
+[/EN#1481/people The boy] is jumping off [/EN#1482/scene a high diving board] into [/EN#1483/scene the pool] .
+[/EN#1481/people A child] jumps off [/EN#1482/scene a high diving board] into [/EN#1483/scene the pool] .
+[/EN#1481/people A little kid] is jumping off [/EN#1481/people a high dive] at [/EN#1483/scene the pool] .
+[/EN#1481/people A boy] descends off [/EN#1482/scene the end of a high diving board] .

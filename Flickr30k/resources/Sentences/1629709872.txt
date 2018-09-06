@@ -1,0 +1,5 @@
+[/EN#17924/people A man] wearing [/EN#17930/clothing a brown shirt] , [/EN#17925/clothing green hat] , and [/EN#17929/clothing black headphones] handles [/EN#17928/other audio equipment] in [/EN#17926/scene a white room] with [/EN#17933/other two black boxes] in [/EN#0/notvisual the foreground] .
+[/EN#17924/people A man] wearing [/EN#17929/clothing headphones] and [/EN#17925/clothing a green hat] is hooking up [/EN#17928/other a microphone] in [/EN#17927/scene a home] .
+[/EN#17924/people A man] in [/EN#17925/clothing a green hat] is bent over [/EN#17931/other his DJ equipment] plugging in [/EN#17928/other a microphone]
+[/EN#17924/people A man] with [/EN#17929/clothing headphones] holds [/EN#17928/other a microphone] .
+[/EN#17924/people A male DJ] hooks up [/EN#17928/other his microphone] .

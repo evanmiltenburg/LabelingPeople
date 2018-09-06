@@ -1,0 +1,5 @@
+[/EN#100090/people The small boy] is using [/EN#100091/clothing his blue shirt] to wipe [/EN#100092/bodyparts his face] , exposing [/EN#100094/bodyparts his belly] .
+[/EN#100090/people A blond boy] wipes [/EN#100093/bodyparts his nose] on [/EN#100091/clothing his light blue shirt] .
+[/EN#100090/people A little boy] wipes [/EN#100092/bodyparts his nose] with [/EN#100091/clothing his blue shirt] .
+[/EN#100090/people Blond boy] wiping [/EN#100092/bodyparts his face] with [/EN#100091/clothing his blue shirt] .
+[/EN#100090/people a blond boy] wiping [/EN#100093/bodyparts his nose] on [/EN#100091/clothing his blue shirt]

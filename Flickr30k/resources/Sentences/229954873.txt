@@ -1,0 +1,5 @@
+[/EN#39859/people Two men] , [/EN#39873/other one] wearing [/EN#39866/clothing a gray shirt] , [/EN#39876/other the other] wearing [/EN#39865/clothing a black shirt] appear in [/EN#39860/scene a store] while [/EN#0/notvisual another] accesses [/EN#39869/clothing an upper shirt] with [/EN#39870/people a woman] in [/EN#39867/clothing a green hat] in [/EN#0/notvisual the foreground] .
+[/EN#39863/people Several men] are inside [/EN#39861/scene a store] among [/EN#39874/other stocked shelves] and [/EN#39872/other many bags of grains] .
+[/EN#39868/people man] reaching for [/EN#39862/other a type of an item] in [/EN#39860/scene a general store] .
+[/EN#39859/people Two young men] help [/EN#39868/people another man] in [/EN#39861/scene a store back room] .
+[/EN#39863/people Three men] working in [/EN#39860/scene a shop] by stocking [/EN#39862/other items]

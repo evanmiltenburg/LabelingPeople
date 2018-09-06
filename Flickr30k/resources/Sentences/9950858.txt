@@ -1,0 +1,5 @@
+[/EN#285136/people One police officer] standing on [/EN#285142/scene the street] along [/EN#285135/people with three police officers] on [/EN#285138/other horseback] .
+[/EN#285135/people A group of people] on [/EN#285139/animals horses] ride down [/EN#285137/scene a city street] behind [/EN#285143/other others] [/EN#0/notvisual who] are walking .
+[/EN#285136/people Three mounted police] stand in [/EN#285137/scene the middle of a street] .
+[/EN#285135/people a troupe of police officers] atop [/EN#285139/animals horses] in [/EN#285140/scene the city]
+[/EN#285136/people Police] on [/EN#285138/other horseback] at [/EN#285141/other an outside protest] .

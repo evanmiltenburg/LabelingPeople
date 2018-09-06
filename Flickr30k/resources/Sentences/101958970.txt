@@ -1,0 +1,5 @@
+[/EN#597/people A man] and [/EN#596/people a little girl] happily posing in front of [/EN#597/vehicles their cart] in [/EN#598/scene a supermarket] .
+[/EN#597/people A man] sitting with [/EN#596/people his daughter] in [/EN#597/vehicles his daughter 's pink car] in [/EN#598/scene a grocery store] .
+[/EN#597/people A man] is sitting on [/EN#597/vehicles a pink cart] with [/EN#596/people a little girl] in [/EN#598/scene the grocery store] .
+[/EN#597/people A man] with [/EN#596/people his daughter] sitting on [/EN#597/other a stroller] in [/EN#598/scene a supermarket] .
+[/EN#596/people The little girl] and [/EN#597/people the man] are smiling .

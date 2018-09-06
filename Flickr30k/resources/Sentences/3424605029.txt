@@ -1,0 +1,5 @@
+[/EN#117160/people The boy] is wearing [/EN#117162/clothing a blue shirt] , and [/EN#117163/people the girl] is wearing [/EN#117167/clothing black clothes] .
+[/EN#117160/people A young boy] wearing [/EN#117162/clothing a blue shirt] is playing at [/EN#117166/scene a park] .
+[/EN#117160/people The boy] and [/EN#117163/people girl] are playing on [/EN#117164/scene the outdoor gym] .
+[/EN#117165/people The two kids] are playing at [/EN#117164/scene the playground] .
+[/EN#117160/people Children] playing on [/EN#117164/scene a playground] .

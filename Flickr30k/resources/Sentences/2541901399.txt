@@ -1,0 +1,5 @@
+[/EN#56922/people a toddler] in [/EN#56927/clothing a green and yellow jersey] is being followed by [/EN#56923/people a wheelchair bound woman] in [/EN#56925/clothing a red sweater] past [/EN#56928/other a wooden bench] .
+[/EN#56923/people A woman] in [/EN#56926/other a wheelchair] and [/EN#56925/clothing orange sweater] follows [/EN#56922/people a young boy] in [/EN#56924/scene a park] .
+[/EN#56922/people A little boy] walks with [/EN#56923/people a woman] wearing red in [/EN#56926/other a wheelchair] .
+[/EN#56923/people A woman] in [/EN#56926/other a wheelchair] follows [/EN#56922/people a young boy] at [/EN#56924/scene a park] .
+[/EN#56923/people A woman] in [/EN#56926/other a wheelchair] and [/EN#56922/people a toddler] at [/EN#56924/scene a park] .

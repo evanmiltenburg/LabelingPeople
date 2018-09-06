@@ -1,0 +1,5 @@
+[/EN#79491/people A little girl] in [/EN#79493/clothing a green shirt] and [/EN#79498/clothing pink shorts] is running up [/EN#79492/scene a grassy hill] near [/EN#79494/scene a pavilion] .
+[/EN#79491/people The child] in [/EN#79493/clothing the green shirt] is running up [/EN#79492/scene the hill] with [/EN#79495/other a picnic table] behind [/EN#0/notvisual her] .
+[/EN#79491/people The little blond-haired child] is walking up [/EN#79496/other the slope] .
+[/EN#79491/people A young girl] is walking up [/EN#79496/scene a steep grassy hill] .
+[/EN#79491/people A little blond girl] going up [/EN#79492/scene a hill] .

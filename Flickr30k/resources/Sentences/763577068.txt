@@ -1,0 +1,5 @@
+[/EN#272464/animals A small dog] with [/EN#272465/other a red ribbon] on [/EN#272469/bodyparts its head] walks through [/EN#272467/scene the grass] .
+[/EN#272464/animals The little dog] walking on [/EN#272467/scene the grass] has [/EN#272465/other a red bow] in [/EN#272466/bodyparts its hair] .
+[/EN#272464/animals A little dog] with [/EN#272465/other a red ribbon] on [/EN#272466/bodyparts its head] takes [/EN#272468/other a walk] .
+[/EN#272464/animals Yorkshire terrier] walking in [/EN#272467/scene the grass] .
+[/EN#272464/animals A dog] on [/EN#272470/people the heels of a man] .

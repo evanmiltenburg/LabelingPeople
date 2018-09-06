@@ -1,0 +1,5 @@
+[/EN#106053/vehicles a motocross bike] kicks up [/EN#106056/scene dirt] as [/EN#0/notvisual it] is being ridden around [/EN#106057/other a bend] in [/EN#106055/scene the circuit] .
+[/EN#106054/people A person] in [/EN#106062/clothing a blue outfit] rides [/EN#106059/other a motorcycle] through [/EN#106056/scene a hill of dirt] .
+[/EN#106054/people A man] on [/EN#106053/vehicles a bike] throws up [/EN#106056/scene dirt] during [/EN#106058/scene a motor cross event] .
+[/EN#106054/people A dirt biker] participates in [/EN#106060/other a race] .
+[/EN#106053/vehicles A dirt bike] tears up [/EN#106055/scene the terrain] .

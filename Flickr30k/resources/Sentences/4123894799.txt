@@ -1,0 +1,5 @@
+[/EN#156385/people A person] wearing [/EN#156389/clothing a tan jacket] and holding [/EN#156390/clothing a yellow bag] is walking [/EN#156386/animals a black dog] at [/EN#156391/other the Fossar] de les Moreres , [/EN#156387/scene a memorial plaza] in [/EN#156392/other Barcelona] , [/EN#156393/other Spain] .
+[/EN#156385/people Man] walks [/EN#156386/animals his dog] over [/EN#156388/scene interesting surface] .
+[/EN#156385/people A woman] is watching [/EN#156386/animals a black dog] .
+[/EN#156385/people an older female] walking [/EN#156386/animals a dog] .
+[/EN#156385/people A man] stares lost at [/EN#156386/animals his dog] .

@@ -1,0 +1,5 @@
+[/EN#245570/people A man] wearing [/EN#245578/clothing safety glasses] and holding [/EN#245571/other a flashlight] is looking at [/EN#245574/other a piece of machinery] .
+[/EN#0/notvisual They] [/EN#245570/people aircraft inspector] is conducting [/EN#245575/other a quality check] to ensure [/EN#245579/scene safety] and [/EN#245577/other performance] .
+[/EN#245570/people A man] with [/EN#245572/clothing a gray shirt] with [/EN#245576/vehicles the tag bombardier] is using [/EN#245571/other an orange flashlight] .
+[/EN#245570/people A man] holding [/EN#245571/other an orange flashlight] .
+[/EN#245570/people A man] inspects [/EN#245573/vehicles an airplane] .

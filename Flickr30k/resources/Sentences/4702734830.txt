@@ -1,0 +1,5 @@
+[/EN#192911/people A young woman] carrying [/EN#192913/clothing a small handbag] and wearing [/EN#192914/clothing earmuffs] walks on [/EN#192912/scene a street] .
+[/EN#192911/people A woman] in [/EN#192915/clothing a black dress] and [/EN#192914/clothing fluffy earmuffs] walking down [/EN#192912/scene the street] .
+[/EN#192911/people A woman] walks down [/EN#192912/scene the street] with [/EN#192913/clothing a pink purse] and [/EN#192914/clothing earmuffs] .
+[/EN#192911/people A woman] holding [/EN#192913/clothing a pink purse] is wearing [/EN#192914/clothing fluffy earmuffs] .
+[/EN#192911/people Female] wearing [/EN#192914/clothing white earmuffs] walking on [/EN#192912/scene a paved road] .

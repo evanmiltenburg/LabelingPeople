@@ -1,0 +1,5 @@
+[/EN#232086/people A man] wearing [/EN#232087/clothing a black backpack] and holding [/EN#232090/other a rolling suitcase] is approaching [/EN#232089/scene an escalator] .
+[/EN#232086/people A man] holding [/EN#232090/other a suitcase] walks alone towards [/EN#232089/scene an escalator] in [/EN#232088/scene a dimly-lit area] .
+[/EN#232086/people One man] [/EN#0/notvisual who] has [/EN#232087/clothing a black backpack] is approaching [/EN#232089/scene an escalator] .
+[/EN#232086/people A man] about to go up [/EN#232089/other the escalator or stairs] at [/EN#232088/scene an airport] .
+[/EN#232086/people A person] approaches [/EN#232089/scene a escalator] while holding [/EN#232090/clothing a bag] .

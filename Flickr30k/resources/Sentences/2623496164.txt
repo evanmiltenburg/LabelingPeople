@@ -1,0 +1,5 @@
+[/EN#62201/people A person] rides [/EN#62202/vehicles a bike] off [/EN#62203/scene the top of a hill] and is airborne .
+[/EN#62201/people A person] riding [/EN#62202/vehicles a bmx bike] on [/EN#62206/other a dirt course] .
+[/EN#62201/people The person] on [/EN#62202/vehicles the bicycle] is wearing red .
+[/EN#62201/people A biker] in [/EN#62205/clothing red] rides in [/EN#62203/scene the countryside] .
+[/EN#62201/people A biker] on [/EN#62204/scene a dirt path] .

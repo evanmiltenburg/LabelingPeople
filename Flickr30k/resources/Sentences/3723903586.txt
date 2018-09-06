@@ -1,0 +1,5 @@
+[/EN#139745/other A greyhound race] with [/EN#139749/animals the lead dog] wearing [/EN#139752/clothing yellow and black stripes] and [/EN#139748/other the number] 8
+[/EN#139745/other Greyhound dogs race] on [/EN#139747/scene the track] , with [/EN#139748/other # 8] leading [/EN#139751/scene the way] .
+[/EN#139746/animals Some greyhound dogs] are racing on [/EN#139747/scene a dirt track] .
+[/EN#139746/animals greyhounds] racing on [/EN#139747/scene a track]
+[/EN#139746/animals Dogs] racing at [/EN#139747/scene a track] .

@@ -1,0 +1,5 @@
+[/EN#8637/people A young man] in [/EN#8638/clothing a suit] and tie [/EN#8641/other leans] against [/EN#8639/other a railing] to take [/EN#8644/other a nap] on [/EN#8642/vehicles public transit] .
+[/EN#8637/people A tired businessman] takes [/EN#8644/other a quick nap] while riding [/EN#8643/vehicles/scene the train] .
+[/EN#8637/people A man] sleeping with [/EN#8640/clothing a bag] on [/EN#8645/bodyparts his lap] on [/EN#8642/vehicles public transportation]
+[/EN#8637/people A man] [/EN#0/notvisual who] has fallen asleep on [/EN#8642/vehicles public transportation] .
+[/EN#8637/people An asian man] in [/EN#8638/clothing a suit] on [/EN#8643/vehicles/scene the subway] , asleep .

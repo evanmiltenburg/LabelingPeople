@@ -1,0 +1,5 @@
+[/EN#112365/people A man] with [/EN#112374/clothing glasses] and [/EN#112367/clothing a blue and black striped shirt] and [/EN#112368/people another man] wearing [/EN#112369/clothing a brown jacket] pose for [/EN#112376/other a picture] .
+[/EN#112365/people One man] in [/EN#112367/clothing stripes] and [/EN#112365/other one] in [/EN#112369/other leather] pose for [/EN#0/notvisual the camera] in [/EN#112370/scene a city] .
+[/EN#112365/people A man] with [/EN#112367/clothing a blue shirt] posing with [/EN#112368/people a taller man] in [/EN#112375/clothing sunglasses]
+[/EN#112366/people Two men] are standing on [/EN#112371/scene a street] surrounded by [/EN#112372/scene buildings] .
+[/EN#112366/people Two men] wearing [/EN#112373/clothing eyeglasses] standing together .

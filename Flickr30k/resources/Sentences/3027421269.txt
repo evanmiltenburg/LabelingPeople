@@ -1,0 +1,5 @@
+[/EN#88513/people a small boy] holding [/EN#88514/scene a laundry sack] next to [/EN#88515/people two people] with [/EN#88516/clothing safety vests] on .
+[/EN#88513/people A young african child] in [/EN#88517/clothing a dirty yellow shirt] carrying [/EN#88514/clothing a bag] on [/EN#88519/bodyparts his head] .
+[/EN#88513/people A child] carrying [/EN#88514/other a large object] on [/EN#88519/bodyparts his head] while looking at [/EN#0/notvisual the camera] .
+[/EN#88513/people A young boy] in [/EN#88517/clothing a cream shirt] is carrying [/EN#88514/clothing a large bag] on [/EN#88519/bodyparts his head] .
+[/EN#88513/people A black child] is carrying [/EN#88514/clothing a large bag] over [/EN#88519/bodyparts their head] .

@@ -1,0 +1,5 @@
+[/EN#219606/people Two men] sitting on [/EN#219611/other horses one] wearing [/EN#219609/clothing a cowboy hat] , [/EN#219614/other the other] in [/EN#219608/clothing a baseball cap] , with [/EN#219615/other a big tree] behind [/EN#0/notvisual them] .
+[/EN#219606/people Two men] ride [/EN#219611/animals horses] and talk while [/EN#219612/people other men] are also riding [/EN#219607/animals horses] around [/EN#0/notvisual them] .
+[/EN#219606/people Two men] with [/EN#219610/clothing hats] are sitting on [/EN#219607/animals horses] .
+[/EN#219606/people two older men] are riding [/EN#219607/animals horses]
+[/EN#219606/people Two men] are riding [/EN#219607/animals horses] .

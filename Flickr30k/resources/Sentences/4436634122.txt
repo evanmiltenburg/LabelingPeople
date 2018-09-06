@@ -1,0 +1,5 @@
+[/EN#167945/people Woman] in [/EN#167946/clothing a pink shirt] and wearing [/EN#167952/clothing a pink hat] in front of [/EN#167955/other table] with [/EN#167947/other food] on [/EN#0/notvisual it] .
+[/EN#167945/people A woman] wearing [/EN#167946/clothing all pink] is standing behind [/EN#167953/scene a range] with [/EN#167947/other pancakes] on [/EN#0/notvisual it] .
+[/EN#167945/people A vendor] stands behind [/EN#167947/other her products] waiting for [/EN#167954/people customers] .
+[/EN#167945/people women] wearing [/EN#167946/clothing a pink shirt] selling [/EN#167947/other donuts] in [/EN#167951/scene a park] .
+[/EN#167945/people A woman] in [/EN#167946/clothing a pink shirt] standing over [/EN#167949/other a griddle] .

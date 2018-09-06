@@ -1,0 +1,5 @@
+[/EN#252800/people A man] in [/EN#252801/clothing a brown apron] is smiling as [/EN#0/notvisual he] looks at [/EN#252803/other a dish of food] in [/EN#0/notvisual what] appears to be [/EN#252802/scene a commercial kitchen] .
+In [/EN#252802/scene the kitchen of a fancy restaurant] , [/EN#252803/other a fine dish] has been prepared by [/EN#252800/other the staff] .
+[/EN#252800/people A young , white man] looks at [/EN#252803/other a fancy dish] in [/EN#252802/scene a kitchen] .
+[/EN#252800/people A man] wearing [/EN#252801/clothing an apron] is smiling at [/EN#252803/other a plate of food] .
+[/EN#252800/people The cook] enjoys [/EN#252806/other some downtime] with [/EN#252800/people a coworker] .

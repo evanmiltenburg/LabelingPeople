@@ -1,0 +1,5 @@
+[/EN#120767/people A man] without [/EN#120772/clothing a shirt] wearing [/EN#120773/clothing black jogging shorts] and [/EN#120771/people a woman] in [/EN#120768/clothing a black t-shirt] and [/EN#120775/clothing red shorts] jog together through [/EN#120769/scene a park] .
+[/EN#120767/people A man] and [/EN#120771/people woman] running [/EN#0/notvisual side] by [/EN#0/notvisual side] down [/EN#120769/scene a tree-lined street] casting [/EN#120774/scene long shadows] .
+[/EN#120767/people A shirtless man] and [/EN#120771/people a woman] are jogging on [/EN#120770/scene a sidewalk] .
+[/EN#120767/people a shirtless man] and [/EN#120771/people woman] in [/EN#120768/clothing a black shirt] running .
+[/EN#120767/people A man] and [/EN#120771/people a woman] are jogging down [/EN#120770/scene the sidewalk] .

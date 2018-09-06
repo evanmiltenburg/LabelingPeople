@@ -1,0 +1,5 @@
+[/EN#184217/people A man] wearing [/EN#184221/clothing a yellow vest] and [/EN#184222/clothing gray fisherman 's cap] is sitting in [/EN#184219/other a red chair] along with [/EN#184218/people another similarly dressed man] in [/EN#184219/other a red chair] next to [/EN#0/notvisual him] .
+[/EN#184214/people Two men] wearing [/EN#184216/clothing yellow vests] are lounging with [/EN#184224/bodyparts their eyes] closed in [/EN#184213/other two cycle rickshaws] .
+[/EN#184213/vehicles Two bicycle taxi] [/EN#184214/people ( rickshaw ) drivers] sleeping in [/EN#184215/vehicles the cabs of their vehicles] .
+[/EN#184214/people Two bicycle taxi drivers] rest on [/EN#184215/vehicles the seats of their taxis] .
+[/EN#184214/people Two people] in [/EN#184216/clothing yellow vests] rests in [/EN#184213/vehicles carts] .

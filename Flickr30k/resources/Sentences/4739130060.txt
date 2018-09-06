@@ -1,0 +1,5 @@
+[/EN#197418/people A crowd of people] are standing outside [/EN#197420/vehicles/scene a white train] with [/EN#197424/scene multiple entrances] .
+[/EN#197418/people People] wait to board [/EN#197420/vehicles/scene a white train] with [/EN#197423/other green trim] as [/EN#197425/other others] get off .
+[/EN#197418/people People] getting on and off from [/EN#197420/vehicles/scene a bus] in [/EN#197421/scene a sunny day] .
+[/EN#197419/people Passengers] getting on , and off [/EN#197420/other a trolley] .
+[/EN#197418/people People] are exiting and boarding [/EN#197420/vehicles/scene a bus] .

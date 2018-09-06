@@ -1,0 +1,5 @@
+[/EN#18810/people A woman] in [/EN#18811/clothing red] is standing in [/EN#0/notvisual the background] , watching [/EN#18812/animals a golden dog] race through [/EN#18814/scene a field of tall grass] .
+[/EN#18812/animals A dog] is running through [/EN#18814/scene high grass] with [/EN#18810/people a woman] wearing [/EN#18811/clothing red] in [/EN#0/notvisual the background] .
+[/EN#18812/animals A dog] is running through [/EN#18814/scene a field] away from [/EN#18810/people a person] .
+[/EN#18810/people A woman] watches [/EN#18812/animals a dog] jumping through [/EN#18814/scene a field] .
+[/EN#18810/people A man] watches [/EN#18812/animals a dog] bound through [/EN#18814/scene a field] .

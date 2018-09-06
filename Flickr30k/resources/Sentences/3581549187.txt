@@ -1,0 +1,5 @@
+[/EN#129337/people A bearded man] in [/EN#129341/clothing a black coat] and [/EN#129342/clothing black cap] stands near [/EN#129338/people a young girl] [/EN#0/notvisual who] is inside [/EN#129339/other a large brown open container] .
+[/EN#129337/people A man] standing next to [/EN#129338/people a little girl] standing in [/EN#129339/other a garbage] can in [/EN#129343/scene a yard] .
+[/EN#129337/people A man] carting [/EN#129338/people a little girl] around in [/EN#129339/other a trash barrel] .
+[/EN#129338/people A little girl] is riding in [/EN#129339/other a garbage container] .
+[/EN#129337/people A man] watches [/EN#129338/people a girl] in [/EN#129339/other a garbage] can .

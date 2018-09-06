@@ -1,0 +1,5 @@
+[/EN#150182/people Three young , male members of a band] , [/EN#150188/bodyparts one of whose face] is not shown , [/EN#150181/other one] [/EN#0/notvisual who] is playing [/EN#150183/instruments a bass guitar] , and [/EN#150190/other one] [/EN#0/notvisual who] is smiling .
+[/EN#150181/people A man] with [/EN#150186/clothing a brown shirt] , [/EN#150184/clothing gray vest] and [/EN#150185/clothing black cap] plays [/EN#150183/instruments an electric bass] .
+[/EN#150181/people A man] wearing [/EN#150184/clothing a black sweater vest] and [/EN#150185/clothing a hat] plays [/EN#150183/instruments the bass] .
+[/EN#150181/people A man] with [/EN#150187/clothing glasses] wearing [/EN#150185/clothing a hat] is playing [/EN#150183/instruments the bass] .
+[/EN#150181/people A man] is playing [/EN#150183/instruments guitar] in [/EN#150182/people a band] .

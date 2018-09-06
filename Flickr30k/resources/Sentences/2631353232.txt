@@ -1,0 +1,5 @@
+[/EN#62586/people A woman] wearing [/EN#62587/clothing a black tank top] , [/EN#62588/clothing jeans] and [/EN#62589/clothing black sneakers] is sitting on [/EN#62590/other a wall] near [/EN#62591/scene a mountainside full of houses] .
+[/EN#62586/people A woman] sits on [/EN#62590/other a wall] in [/EN#62595/scene a cemetery] with [/EN#62591/other a cityscape] in [/EN#0/notvisual the background] .
+[/EN#62586/people A redhead women] in [/EN#62588/clothing blue jeans] is sitting in [/EN#62595/scene a cemetery] on [/EN#62593/scene the coast] .
+[/EN#62586/people A girl] sitting on [/EN#62590/other a wall] near [/EN#62594/other white crosses] in [/EN#0/notvisual the ground] .
+[/EN#62586/people A woman] is sitting outside on [/EN#62590/other a ledge] near [/EN#62595/scene a cemetery] .

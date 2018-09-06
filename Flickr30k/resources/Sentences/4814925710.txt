@@ -1,0 +1,5 @@
+[/EN#206207/people One man] in [/EN#206210/clothing a leather jacket] , holding [/EN#206205/bodyparts his head] in [/EN#206213/bodyparts his hands] , wearing [/EN#206212/clothing blue jeans] , with [/EN#206204/clothing a giant yellow bag] , sitting on [/EN#206203/other a white bench] , next to [/EN#206201/people an older male] wearing [/EN#206215/clothing reading glasses] and reading [/EN#206209/other a book] .
+[/EN#206201/people Two men] sitting on [/EN#206203/other a bench] where [/EN#206207/other one] has [/EN#206205/bodyparts his head] in [/EN#206214/bodyparts his lap] and [/EN#206204/clothing a large yellow bag] next to [/EN#0/notvisual him] .
+[/EN#206202/people Two older men] are sitting [/EN#0/notvisual outside and one of them] has [/EN#206205/bodyparts his head] down while [/EN#206201/other the other] is reading .
+[/EN#206201/people Gentlemen] sitting on [/EN#206203/other city benches] .
+[/EN#206202/people Two men] are sitting on [/EN#206203/other a bench] .

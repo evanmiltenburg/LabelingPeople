@@ -1,0 +1,5 @@
+[/EN#90124/people An artist] sculpting [/EN#90125/other a statue] on [/EN#90126/scene a stand] in [/EN#90129/scene a studio] .
+[/EN#90124/people A woman] works on [/EN#90125/other a sculpture] on [/EN#90126/other a wood platform] .
+[/EN#90124/people A artist] is at [/EN#90127/other work] making [/EN#90125/other a sculpture] .
+[/EN#90124/people Blond-hair woman] with [/EN#90130/clothing a black jacket] .
+[/EN#90124/people An artist] is working on [/EN#90125/other a statue] .

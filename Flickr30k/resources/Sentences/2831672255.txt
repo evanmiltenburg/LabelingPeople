@@ -1,0 +1,5 @@
+[/EN#75416/animals A light brown dog] is walking down [/EN#75417/scene a blue and yellow ramp] .
+[/EN#75416/animals A brown dog] is running down [/EN#75417/other a green and yellow obstacle] .
+[/EN#75416/animals A dog] running down [/EN#75417/scene a ramp] during [/EN#75419/other a dog show] .
+[/EN#75416/animals A dog] at [/EN#75418/other a competition] runs down [/EN#75417/scene a ramp] .
+[/EN#75416/animals The dog] runs down [/EN#75417/scene the wooden ramp] .

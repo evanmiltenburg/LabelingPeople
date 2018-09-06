@@ -1,0 +1,5 @@
+[/EN#181149/people A woman] with [/EN#181151/clothing a black shirt] and [/EN#181158/clothing flowered dress] rides [/EN#181150/vehicles a bicycle] with [/EN#181153/people a child] sleeping in [/EN#181152/clothing a blue jacket] .
+[/EN#181149/people A woman] in [/EN#181151/clothing a black shirt] and [/EN#181157/clothing a skirt] is riding [/EN#181150/vehicles a bike] with [/EN#181153/people a child] in [/EN#181152/clothing a blue jacket] .
+[/EN#181149/people A woman] is riding [/EN#181150/vehicles a bike] as [/EN#181153/people a child] rides on [/EN#181155/vehicles the back of the bike] .
+[/EN#181149/people Women] riding [/EN#181150/vehicles a bicycle] with [/EN#181153/people a girl] riding on [/EN#181155/other the back] .
+[/EN#181149/people A woman] is taking [/EN#181153/people her child] for [/EN#181156/other a ride] on [/EN#181150/vehicles her bicycle] .

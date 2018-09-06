@@ -1,0 +1,5 @@
+[/EN#65949/people Two people] [/EN#65950/other one] in [/EN#65951/clothing a brown shirt] wearing [/EN#65952/clothing a backpack] and [/EN#65963/other the other] wearing [/EN#65953/clothing a pick sweater] and [/EN#65954/clothing bike helmet] are kneeling at [/EN#65955/other a bicycle tire] .
+[/EN#65949/people Two women] with [/EN#65956/vehicles decorated bicycles] [/EN#65957/other one] is wearing [/EN#65952/clothing a red backpack] and [/EN#65963/other the other] has [/EN#65954/clothing a black helmet] and [/EN#65953/clothing pink sweatshirt] .
+[/EN#65958/people A young girl] is sitting on [/EN#65959/scene the sidewalk] , changing [/EN#65955/other the tire] on [/EN#65960/vehicles a bike] while [/EN#65950/people another young girl] sits and watches [/EN#0/notvisual her] .
+[/EN#65949/people Two children] or [/EN#65949/people possibly young adults] fixing [/EN#65956/vehicles their bikes] .
+[/EN#65949/people 2 girls] are [/EN#65962/scene outside] working on [/EN#65956/vehicles their bicycles]

@@ -1,0 +1,5 @@
+[/EN#255948/people A man] in [/EN#255956/clothing a white shirt] and [/EN#255953/people a woman] in [/EN#255951/clothing a green and white top] have [/EN#255950/scene a fallen down tower of Jenga blocks] in front of [/EN#0/notvisual them] on [/EN#255952/other a white table] .
+[/EN#255948/people A man] and [/EN#255953/people a woman] dressed in [/EN#255956/other semi-formal attire show] faces of [/EN#255957/other excitement] looking over [/EN#255952/other a table] with [/EN#255950/scene Jenga blocks] scattered over [/EN#0/notvisual it] .
+[/EN#255948/people A man] with [/EN#255958/clothing glasses] and [/EN#255955/clothing a tie] plays [/EN#255949/other Jenga] with [/EN#255953/people a woman] in [/EN#255951/clothing a green shirt] .
+[/EN#255948/people A man] and [/EN#255953/people woman] sit at [/EN#255952/other a table] and play [/EN#255949/other Jenga] .
+[/EN#255954/people Two people] playing [/EN#255949/other Jenga] looking very silly .

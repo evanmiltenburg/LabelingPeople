@@ -1,0 +1,5 @@
+[/EN#223215/people A man] wearing [/EN#223219/clothing a blue shirt] , [/EN#223222/clothing black apron] , [/EN#223217/clothing eyeglasses] , and [/EN#223216/clothing a mask] is handling [/EN#223218/other food] in [/EN#223221/other a tray] .
+[/EN#223215/people An asian man] wearing [/EN#223217/clothing glasses] and [/EN#223216/clothing face-mask] is cooking [/EN#223218/other some barbecue] .
+[/EN#223215/people Worker] wears [/EN#223216/clothing a mask] to protect [/EN#223223/bodyparts his face] from [/EN#223225/other spicy chili fumes] .
+[/EN#223215/people A man] wearing [/EN#223216/clothing a mask] over [/EN#223224/bodyparts his mouth] is holding [/EN#223226/other tongs] .
+[/EN#223215/people A man] in [/EN#223216/clothing face mask] working on [/EN#223220/other a machine] .

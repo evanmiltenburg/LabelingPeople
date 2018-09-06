@@ -1,0 +1,5 @@
+[/EN#215738/people A woman] wearing [/EN#215745/clothing a blue and white striped shirt] is standing at [/EN#215742/scene a bar] .
+[/EN#215738/people An old lady] is behind [/EN#215744/scene the counter of a store] with [/EN#215739/other a lot of alcohol] .
+[/EN#215738/people A woman] working [/EN#215743/scene her beverage shop] .
+[/EN#215738/people A woman] is working behind [/EN#215741/scene a bar] .
+[/EN#215738/people A worker] in [/EN#215740/scene the liquor store] .

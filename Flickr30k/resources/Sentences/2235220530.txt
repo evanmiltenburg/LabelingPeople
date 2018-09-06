@@ -1,0 +1,5 @@
+[/EN#36016/people A man] wearing [/EN#36017/clothing a green and burgundy coat] , and [/EN#36021/clothing a hat] with [/EN#36026/clothing some khakis pants] is shoveling [/EN#36018/scene snow] in [/EN#36025/scene his yard] .
+[/EN#36016/people A man] shoveling [/EN#36018/scene snow] in [/EN#36027/other the middle of winter] [/EN#36016/people A man] wearing [/EN#36017/clothing jacket] and [/EN#36023/clothing gloves] shoveling [/EN#36022/scene the sidewalk]
+[/EN#36016/people Resident man] shovels [/EN#36019/scene a path of snow] from [/EN#36024/scene his house] .
+[/EN#36016/people A man] shovels [/EN#36019/scene snow] in front of [/EN#36018/scene a house] .
+[/EN#36016/people A man] is shoveling [/EN#36018/scene snow] in [/EN#36018/scene his yard] .

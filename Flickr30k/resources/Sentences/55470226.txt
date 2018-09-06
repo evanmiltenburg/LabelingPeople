@@ -1,0 +1,5 @@
+[/EN#238610/people A climber] stops to take [/EN#238611/other a drink] while climbing [/EN#238613/scene a snow covered mountain] .
+[/EN#238610/people A man] in [/EN#238614/clothing a yellow suit] is holding up [/EN#238611/other a cup] while standing in [/EN#238615/scene snow] .
+[/EN#238610/people A mountaineer] in [/EN#238614/clothing a yellow jacket] is drinking from [/EN#238612/other a thermos cup] .
+[/EN#238610/people A man] holding [/EN#238611/other a cup] on [/EN#238613/scene a snow mountain] .
+[/EN#238610/people A mountain climber] stops for [/EN#238612/other a drink] .

@@ -1,0 +1,5 @@
+[/EN#64340/people A balding man] pours [/EN#64341/other a bottle of wine] into [/EN#64342/other a tumbler] while watched by [/EN#64343/people a woman] in [/EN#64344/clothing a yellow shirt] .
+[/EN#64340/people A man] pouring [/EN#64342/other a drink] into [/EN#64342/other a small glass] as [/EN#64343/people a woman] sits next to [/EN#0/notvisual him] looking on .
+[/EN#64340/people A man] with [/EN#64346/clothing glasses] pours [/EN#64341/other wine] for [/EN#64343/people a woman] in [/EN#64344/clothing a yellow shirt] .
+[/EN#64340/people A man] pours [/EN#64341/other a drink] into [/EN#64342/other a glass] , while [/EN#64343/people a woman] watches .
+[/EN#64340/people A man] is pouring [/EN#64341/other wine] in [/EN#64342/other a glass] .

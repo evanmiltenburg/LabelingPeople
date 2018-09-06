@@ -1,0 +1,5 @@
+[/EN#13998/animals A brown dog] runs through [/EN#13999/scene the grass] holding [/EN#14001/other something] in [/EN#14002/bodyparts its mouth] .
+Chocolate [/EN#13998/animals brown dog] running on [/EN#13999/scene grass] with [/EN#14001/other something] in [/EN#14002/bodyparts its mouth] .
+[/EN#13998/animals A small dog] runs in [/EN#13999/scene a field] , with [/EN#14000/other a toy] in [/EN#14002/bodyparts its mouth] .
+[/EN#13998/animals The dog] is running with [/EN#14001/other food] in [/EN#14002/bodyparts his mouth] .
+[/EN#13998/animals A brown dog] runs with [/EN#14000/other a toy] in [/EN#14002/bodyparts its mouth] .

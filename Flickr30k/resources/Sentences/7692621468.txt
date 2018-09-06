@@ -1,0 +1,5 @@
+[/EN#273446/animals A horse] and [/EN#273447/people its rider] jump over [/EN#273449/other an obstacle] decorated with [/EN#273454/other multicolored international flags] .
+[/EN#273447/people A small jockey] is in [/EN#273452/scene midair] jumping [/EN#273446/animals a horse] over [/EN#273449/other some white poles] in [/EN#273450/scene an event] .
+[/EN#273447/people A jockey] , atop [/EN#273446/animals their horse] , is in [/EN#0/notvisual mid jump] in [/EN#273448/other an equestrian competition] .
+[/EN#273446/animals A horse] and [/EN#273447/people its rider] are jumping over [/EN#273455/scene white bars] in [/EN#273448/other a competition] .
+[/EN#273446/animals A horse] with [/EN#273447/people a man] on [/EN#0/notvisual it] is jumping over [/EN#273449/other hurdles] .

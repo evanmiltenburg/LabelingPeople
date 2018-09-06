@@ -1,0 +1,5 @@
+[/EN#45234/people A female hiker] leans against [/EN#45237/other a tree] while [/EN#45243/people another female] and [/EN#45242/people a male] with [/EN#45240/scene a backup climb] [/EN#45236/scene a wooded hill] .
+[/EN#45234/people A girl] in [/EN#45238/clothing a yellow shirt] leans against [/EN#45237/other a tree] as [/EN#45244/people her friends] climb [/EN#45236/scene a steep , rocky hill] .
+[/EN#45235/people Two people] hiking and [/EN#45234/people a woman] in [/EN#45238/clothing a yellow shirt] looking back at [/EN#0/notvisual the camera] .
+[/EN#45235/people Two hikers] climbing while [/EN#45234/other one] poses for [/EN#45241/other a camera] .
+[/EN#45235/people Three people] hiking in [/EN#45246/other the woods] climbing uphill .

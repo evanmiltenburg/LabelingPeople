@@ -1,0 +1,5 @@
+[/EN#11589/people A man] with [/EN#11591/bodyparts long hair] and [/EN#11593/clothing a beanie] is posing with [/EN#11590/instruments a guitar] .
+[/EN#11589/people A man] with [/EN#11591/bodyparts long hair] and [/EN#11592/bodyparts a beard] plays [/EN#11590/instruments a guitar] .
+[/EN#11594/other Bushy] bearded [/EN#11589/people man] sitting playing [/EN#11590/instruments a guitar] .
+[/EN#11589/people Bearded man] playing [/EN#11590/instruments an acoustic guitar] .
+[/EN#11589/people Bearded man] playing [/EN#11590/instruments an acoustic guitar]

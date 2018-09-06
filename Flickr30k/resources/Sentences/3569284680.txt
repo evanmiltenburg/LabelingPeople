@@ -1,0 +1,5 @@
+[/EN#128401/people The boy] in [/EN#128405/clothing the red top] is following [/EN#128404/people the girl] in [/EN#128406/clothing the colorful dress] up [/EN#128403/scene a flight of stairs] .
+[/EN#128401/people A young boy] in [/EN#128405/clothing a red jacket] and [/EN#128404/people a young girl] in [/EN#128407/clothing a pink jacket] are climbing [/EN#128403/other stairs] .
+[/EN#128402/people Two young children] climbing [/EN#128403/other stairs] and seen from [/EN#128408/other the back] .
+[/EN#128402/people Two young kids] walk up [/EN#128403/other some stairs] .
+[/EN#128402/people Two kids] climb [/EN#128403/other the stairs]

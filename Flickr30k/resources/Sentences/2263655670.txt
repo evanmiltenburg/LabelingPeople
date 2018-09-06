@@ -1,0 +1,5 @@
+[/EN#37614/animals The German Shepherd dog] is running after [/EN#37617/animals the white dog] while [/EN#0/notvisual they] [/EN#0/notvisual both] are running on [/EN#37616/scene the grass] .
+[/EN#37614/animals A large dog] runs through [/EN#37616/scene a field] with [/EN#37617/animals a smaller dog] .
+[/EN#37614/animals/people A German shepherd] jumps at [/EN#37617/animals a small white dog] .
+[/EN#37615/animals Two dogs] run and play in [/EN#37618/scene the long dry grass] .
+[/EN#37615/animals Two dogs] play in [/EN#37616/scene the grass] .

@@ -1,0 +1,5 @@
+[/EN#92312/people A blond-hair boy] holding [/EN#92314/vehicles a toy airplane] is in front of [/EN#0/notvisual what] looks like [/EN#92313/other a colorful toy monster] .
+[/EN#92312/people Boy] wearing [/EN#92316/clothing a gray sweatshirt] playing with [/EN#92314/vehicles a toy airplane] .
+[/EN#92312/people A child] near [/EN#92317/scene a blue stage] with [/EN#92313/animals a colorful creature] on [/EN#0/notvisual it] .
+[/EN#92312/people A boy] standing in front of [/EN#92313/other a multicolored statue] .
+[/EN#92312/people A child] admires [/EN#92315/other an exhibit or store window] .

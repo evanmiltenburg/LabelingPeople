@@ -1,0 +1,5 @@
+[/EN#138273/people A boy] is sitting on [/EN#138274/vehicles/scene a small boat] with [/EN#138275/other two flags] flying from [/EN#0/notvisual it] not far from [/EN#138277/scene the coast] with [/EN#138279/other some trees] in [/EN#0/notvisual the background] .
+[/EN#138273/people A boy] is sitting on [/EN#138274/vehicles/scene a black boat] with [/EN#138275/other two flags] on [/EN#138278/other long poles] .
+[/EN#138276/people Two men] are sailing in [/EN#0/notvisual what] looks like [/EN#138274/vehicles/scene a homemade boat] .
+[/EN#138274/vehicles/scene Boat] with [/EN#138275/other two flags] in [/EN#138280/scene water] just off shore .
+[/EN#138273/people A boy] is sitting on [/EN#138274/vehicles/scene a boat] with [/EN#138275/other two flags] .

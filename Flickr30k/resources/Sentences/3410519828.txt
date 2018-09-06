@@ -1,0 +1,5 @@
+[/EN#116139/people A man] in [/EN#116142/clothing a green shirt] and [/EN#116141/clothing red bandanna] covering [/EN#116143/bodyparts the upper half of his face] , is laying in [/EN#116144/scene the grass] while [/EN#116140/animals a pigeon] walks along side [/EN#0/notvisual him] .
+[/EN#116139/people A man] in [/EN#116142/clothing a green shirt] is lying on [/EN#116144/scene the grass] with [/EN#116141/clothing a bandanna] over [/EN#116143/bodyparts his eyes] , next to [/EN#116140/animals a black bird] .
+[/EN#116139/people A man] wearing [/EN#116141/clothing a bandanna] over [/EN#116143/bodyparts his eyes] is sleeping in [/EN#116144/scene the grass] while [/EN#116140/animals a bird] walks next to [/EN#0/notvisual him] .
+[/EN#116140/animals A pigeon] lurks near [/EN#116139/people a man] sleeping with [/EN#116141/clothing a red bandanna] wrapped around [/EN#116146/bodyparts his face] .
+[/EN#116139/people A man] lays on [/EN#116144/scene the grass] with [/EN#116143/other a cover] on [/EN#116143/bodyparts his eyes] while [/EN#116140/animals a bird] walks by .

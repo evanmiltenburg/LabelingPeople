@@ -1,0 +1,5 @@
+[/EN#139807/vehicles An antique car] [/EN#0/notvisual that] is yellow is shown lined up with [/EN#139810/vehicles other cars] .
+[/EN#139806/people Some old people] admiring [/EN#139809/scene classic cars park] in front of [/EN#0/notvisual them] .
+[/EN#139805/vehicles Several old fashioned cars] are parked together .
+[/EN#139805/vehicles A bunch of vintage cars] are parked in [/EN#139808/scene a lot] .
+[/EN#139806/people People] admire [/EN#139805/vehicles classic cars] .

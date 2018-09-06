@@ -1,0 +1,5 @@
+[/EN#57493/people A young child] is wearing [/EN#57495/clothing blue goggles] and sitting in [/EN#57496/clothing a float] in [/EN#57494/scene a pool] .
+[/EN#57493/people A young child] wearing [/EN#57495/clothing blue goggles] sits on [/EN#57496/scene a raft] in [/EN#57494/scene a swimming pool] .
+[/EN#57493/people The little child] is wearing [/EN#57495/clothing blue goggles] .
+[/EN#57493/people A small child] wears [/EN#57495/clothing goggles] near [/EN#57494/scene a pool] .
+[/EN#57493/people A child] wearing [/EN#57495/clothing swim goggles] .

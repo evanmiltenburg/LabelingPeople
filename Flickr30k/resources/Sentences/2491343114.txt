@@ -1,0 +1,5 @@
+[/EN#53127/animals A skinny brown dog] runs across [/EN#53128/other the wet sand] with [/EN#53130/scene his mouth open] .
+[/EN#53127/animals The dog] is running through [/EN#53128/other the wet sand] .
+[/EN#53127/animals a dog] running on [/EN#53128/scene the beach]
+[/EN#53127/animals A dog] walks on [/EN#53128/scene the beach] .
+[/EN#53127/animals A dog] runs across [/EN#53128/other sand] .

@@ -1,0 +1,5 @@
+[/EN#217542/people A boat worker] grabs [/EN#217545/other a length] of mooring [/EN#217543/other rope] [/EN#0/notvisual that] is connected to [/EN#217546/scene a dock] .
+[/EN#217542/people A man] pulling on [/EN#217543/other a rope] , [/EN#0/notvisual he] 's doing [/EN#0/notvisual this] wearing [/EN#217544/clothing a yellow hard hat] .
+[/EN#217542/people A man] in [/EN#217544/clothing a yellow work helmet] has [/EN#217543/other a rope] in [/EN#217547/bodyparts his hand] .
+[/EN#217542/people A man] wearing [/EN#217544/clothing a yellow hard hat] is pulling on [/EN#217543/other a rope] .
+[/EN#217542/people A boat worker] holding [/EN#217543/other a rope] .

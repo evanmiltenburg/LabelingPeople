@@ -1,0 +1,5 @@
+[/EN#51025/people The man] with [/EN#51026/bodyparts a white beard] and [/EN#51028/clothing blue cap] is standing in [/EN#51029/scene the doorway of a workshop] .
+[/EN#51025/people A man] with [/EN#51026/bodyparts a beard] stands in front of [/EN#51030/other a used tires business] .
+[/EN#51025/people A man] in [/EN#51028/clothing a hat] standing in front of [/EN#51027/scene a tire shop] .
+[/EN#51025/people The man] at [/EN#51027/scene the used tire shop] has [/EN#51026/bodyparts a white beard] .
+[/EN#51025/people A man] standing in front of [/EN#51027/scene a garage] .

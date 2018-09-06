@@ -1,0 +1,5 @@
+[/EN#185133/people A man] in [/EN#185141/clothing tan pants] and [/EN#185140/clothing a red shirt] is grilling [/EN#185138/other something] in [/EN#185134/scene a backyard] .
+[/EN#185133/people A man] in [/EN#185140/clothing a red shirt] and [/EN#185141/clothing khaki pants] fixing [/EN#185136/other dinner] on [/EN#185139/other the grill] .
+[/EN#185133/people An old man] is grilling [/EN#185135/other food] in [/EN#185134/scene a backyard] .
+[/EN#185133/people An man] cooks on [/EN#185139/other his grill] at [/EN#185142/scene sunset] .
+[/EN#185133/people Man] in [/EN#185140/clothing red shirt] about to have [/EN#185137/other a barbecue]

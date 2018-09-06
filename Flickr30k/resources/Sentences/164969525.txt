@@ -1,0 +1,5 @@
+[/EN#18104/people Three people] dancing acrobatically in [/EN#18110/scene a subway station] , with [/EN#18105/people one girl] in [/EN#18106/clothing a skirt] doing [/EN#18111/other a cartwheel] over [/EN#18107/people another person] bending over .
+[/EN#18107/people A person] is cartwheeling over [/EN#18104/people another person] while [/EN#18108/people a third person] runs behind [/EN#0/notvisual them] .
+[/EN#18104/people Three teenagers] in [/EN#18110/vehicles/scene a subway] playing around .
+[/EN#18109/people Four people] in [/EN#18110/vehicles/scene the subway] are having [/EN#0/notvisual fun] .
+[/EN#18104/people Three people] dancing in [/EN#18110/vehicles/scene the subway] .

@@ -1,0 +1,5 @@
+[/EN#153458/people A person] is walking wearing [/EN#153459/clothing a pinkish colored jacket] and [/EN#153462/other a toboggan] on [/EN#153464/bodyparts their head] .
+[/EN#153458/people A person] in [/EN#153459/clothing a purple jacket] walking in [/EN#153460/scene the snow] .
+[/EN#153458/people A woman] is running in [/EN#153460/scene the snow] in [/EN#153459/clothing a parka] .
+[/EN#153458/people Woman] on [/EN#153463/other cellphone] running in [/EN#153460/scene the snow] .
+[/EN#153458/people A woman] is jogging through [/EN#153460/scene snow] .

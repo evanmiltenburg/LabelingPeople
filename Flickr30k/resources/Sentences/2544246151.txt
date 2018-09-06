@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#57139/people a young child] with [/EN#57140/clothing a red shirt] with [/EN#57141/other a skull and crossbones] on [/EN#0/notvisual it] .
+[/EN#57139/people A child] wearing [/EN#57140/clothing a red shirt] and [/EN#57142/clothing blue Crocs shoes] runs toward [/EN#0/notvisual the camera] .
+[/EN#57139/people A young child] with [/EN#57140/clothing a red shirt] is running in [/EN#57143/scene the grass]
+[/EN#57139/people A girl] with [/EN#57140/clothing a red shirt] is running in [/EN#57143/scene the grass] .
+[/EN#57139/people a girl] in [/EN#57140/clothing red] runs across [/EN#57143/scene the grass] .

@@ -1,0 +1,5 @@
+[/EN#2525/people A boy] is jumping off [/EN#2526/scene the side of a running stone water fountain] in front of [/EN#2527/scene a building] .
+[/EN#2525/people A boy] in [/EN#2528/bodyparts s] [/EN#2528/clothing striped shirt] is jumping in front of [/EN#2526/scene a water fountain] .
+[/EN#2525/people A little boy] is playfully jumping off [/EN#2526/scene the side of a fountain] .
+[/EN#2525/people A happy boy] is jumping in [/EN#2530/scene front] OD [/EN#2526/scene city fountain] .
+[/EN#2525/people A little boy] is jumping in front of [/EN#2526/scene a fountain] .

@@ -1,0 +1,5 @@
+[/EN#108286/people Man] in [/EN#108288/clothing red and white top hat] walks past [/EN#108289/other dilapidated sign] for [/EN#108287/other disco club] .
+[/EN#108286/people A man] in [/EN#108288/clothing a wig and red and white hat] walks past [/EN#108287/other a disco club] .
+[/EN#108286/people A man] in [/EN#108288/clothing a striped hat] walks by [/EN#108287/other a disco establishment] .
+[/EN#108286/people A man] wearing [/EN#108288/clothing a hat] in front of [/EN#108287/other a disco club] .
+[/EN#0/notvisual This] is [/EN#108290/scene the entrance] to [/EN#108287/other a disco club] .

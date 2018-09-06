@@ -1,0 +1,5 @@
+[/EN#1884/people A person] with [/EN#1888/clothing brown pants] is sitting around [/EN#1890/scene a fenced area] [/EN#0/notvisual that] has [/EN#1892/other sparks] flying .
+[/EN#1884/people A man] in [/EN#1884/other workman 's gear] is welding [/EN#0/notvisual an I] beam above [/EN#1889/scene a chain link fence] .
+[/EN#1884/people A man] is wearing [/EN#1888/clothing brown pants] and [/EN#1891/clothing boots] , while welding .
+[/EN#1884/people Construction worker] , welding on [/EN#1886/other high beam] .
+[/EN#1884/people A metal worker] doing [/EN#1885/other some kind of work] .

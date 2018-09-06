@@ -1,0 +1,5 @@
+[/EN#192282/people A man] wearing [/EN#192287/clothing a black shirt] and [/EN#192289/clothing black shorts] is leaning on [/EN#192285/other a deck] looking over [/EN#192284/scene a body of water]
+[/EN#192282/people A man] is leaning over [/EN#192285/other a wood deck] overlooking [/EN#192284/scene water] with [/EN#192290/bodyparts his hand] inside [/EN#192283/other a bag of food] .
+[/EN#192282/people A lone person] leans over [/EN#192286/scene the railing of a pier] while enjoying [/EN#192283/other a bag of chips] .
+[/EN#192282/people A young man] snacks while on [/EN#192285/scene a dock] looking out into [/EN#192284/scene a body of water] .
+[/EN#192282/people A man] standing on [/EN#192285/other a deck] above [/EN#192284/scene a lake or river] .

@@ -1,0 +1,5 @@
+[/EN#282340/people A man] is vacuuming [/EN#282341/other the rug] in [/EN#282344/scene a child 's room] while [/EN#282342/people a toddler] does [/EN#282346/other the same] with [/EN#282343/other his toy] .
+[/EN#282340/people A man] is vacuuming [/EN#282341/other a carpet] while [/EN#282342/people a toddler] is pushing [/EN#282343/other a toy vacuum] next to [/EN#0/notvisual him] .
+[/EN#282340/people A grown man] is using [/EN#282345/other the vacuum] next to [/EN#282342/people a little boy] with [/EN#282343/other a pretend vacuum] .
+[/EN#282340/people A man] in [/EN#282347/clothing a NASCAR hat] vacuums while [/EN#282342/people a little boy] plays with [/EN#282343/other a toy vacuum] .
+[/EN#282340/people A man] vacuums while [/EN#282342/people a child] pretends to vacuum with [/EN#282343/other a toy vacuum] cleaner .

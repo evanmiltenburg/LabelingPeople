@@ -1,0 +1,5 @@
+[/EN#148776/other A many] in [/EN#148775/clothing an orange t-shirt] , [/EN#148781/clothing tan shorts] and [/EN#148780/clothing tan and black baseball cap] is moving [/EN#148777/vehicles a tall metal cart] with [/EN#148773/other sheets of pretzels] [/EN#0/notvisual that] is surrounded by [/EN#148779/vehicles similar carts] .
+[/EN#148772/people A man] in [/EN#148775/clothing an orange shirt] is loading or unloading [/EN#148773/other a large amount of pretzels] from [/EN#148774/vehicles a delivery truck] .
+[/EN#148772/people/scene A baker] lines up [/EN#148778/other his pretzel racks] as [/EN#0/notvisual he] prepares to board [/EN#0/notvisual them] on [/EN#148774/vehicles the back of the truck] .
+[/EN#148773/other Trays of freshly-baked pretzels] are being loaded onto [/EN#148774/vehicles a delivery truck] .
+[/EN#148772/people A man] is loading [/EN#148774/vehicles a box truck] with [/EN#148773/other lots of baked pretzels] .

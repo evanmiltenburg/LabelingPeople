@@ -1,0 +1,5 @@
+[/EN#258308/people A man] on [/EN#258310/vehicles/scene a boat] feeding [/EN#258309/animals many water birds] and [/EN#258316/people two parents] in [/EN#258314/other chairs] with [/EN#258315/people their little girl] on [/EN#0/notvisual the side] .
+[/EN#258308/people A man] in [/EN#258310/vehicles/scene a boat] wearing [/EN#258317/clothing a white shirt] is holding [/EN#258312/other a buoy] while being surrounded by [/EN#258309/animals swan] .
+[/EN#258311/other A flock of swans gathers] around [/EN#258308/people a person] in [/EN#258310/vehicles/scene a boat] on [/EN#258313/scene a sunny day] .
+[/EN#258309/animals Swans] are gathering around [/EN#258308/people a man] and [/EN#258310/vehicles/scene a boat] .
+[/EN#258308/people Man] riding in [/EN#258310/vehicles/scene boat] feeds [/EN#258309/animals group of swan] .

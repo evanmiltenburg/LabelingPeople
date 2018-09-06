@@ -1,0 +1,5 @@
+[/EN#223935/vehicles A blue , white and yellow painted rail car] stopped at [/EN#223937/other a station] with [/EN#223934/people people] getting on .
+[/EN#223933/people People] boarding [/EN#223935/vehicles/scene a blue , white , and gold train] .
+[/EN#223933/people People] entering [/EN#223935/vehicles/scene a train] [/EN#0/notvisual that] is stopped .
+[/EN#223934/people Riders] waiting to get on [/EN#223935/vehicles/scene the train] .
+[/EN#223933/people Passengers] boarding [/EN#223935/vehicles/scene a train] .

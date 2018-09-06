@@ -1,0 +1,5 @@
+[/EN#265679/people A single runner] , clothed in [/EN#265682/clothing appropriate attire] , jogging on [/EN#265681/scene a sidewalk] next to [/EN#265680/scene a body of water] , with [/EN#265685/scene buildings] in [/EN#265688/scene the backdrop] on [/EN#265680/scene the other side of the water] .
+[/EN#265679/people A man] in [/EN#265684/clothing a white shirt] and [/EN#265683/clothing black shorts] running along [/EN#265680/other the edge of a lack] along [/EN#265681/scene a concrete path] , with [/EN#265685/scene buildings] and [/EN#265692/other trees] in [/EN#0/notvisual the background] .
+[/EN#265689/other a fit] , [/EN#265679/people white man] wearing [/EN#265684/clothing a sleeveless tank top] , [/EN#265683/clothing black jogging shorts] , and [/EN#265686/clothing orange shoes] running on [/EN#265681/scene the sidewalk] next to [/EN#265680/scene a river] .
+[/EN#265679/people A young white man] in [/EN#265691/other running gear] is jogging by [/EN#265680/scene the water] .
+[/EN#265679/people An athletic man] runs wearing [/EN#265686/clothing orange and blue shoes] .

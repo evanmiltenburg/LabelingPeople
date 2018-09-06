@@ -1,0 +1,5 @@
+[/EN#127830/people Two people] with [/EN#127834/clothing red vests] on standing in [/EN#127831/scene white snow] in [/EN#127833/other a passage] .
+[/EN#127829/people The man] with [/EN#127834/clothing the red vest] is trying to walk in [/EN#127832/scene the snow] .
+[/EN#127830/people Two people] wearing [/EN#127837/other snow gear] are hiking on [/EN#127831/scene a glacier] .
+[/EN#127829/people a man] is wearing [/EN#127834/clothing a short-sleeved shirt] in [/EN#127832/scene the snow] .
+[/EN#127830/people Two men] dressed alike standing in [/EN#127832/scene the snow] .

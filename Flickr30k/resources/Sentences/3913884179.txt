@@ -1,0 +1,5 @@
+[/EN#148023/people A woman] in [/EN#148025/clothing a pink overcoat] is looking surprised while talking to [/EN#148030/people someone] in [/EN#148029/clothing a purple coat] , on [/EN#148026/scene the streets] in front of [/EN#148024/other Vitamin Shoppe] .
+[/EN#148023/people A woman] wearing [/EN#148025/clothing a bright pink overcoat] makes [/EN#148028/bodyparts a face] to [/EN#148030/people a woman] wearing [/EN#148029/clothing a purple overcoat] while standing outside [/EN#148024/other a Vitamin Shoppe] .
+[/EN#0/notvisual There] is [/EN#148023/people a lady] in [/EN#148025/clothing a pink coat] standing on [/EN#148034/scene street] with [/EN#148032/other a comical surprised look] on [/EN#148028/bodyparts her face] .
+[/EN#148023/people Woman] with [/EN#148028/bodyparts a surprised face] in front of [/EN#148024/other a Vitamin Shoppe]
+[/EN#148030/people Two women] having [/EN#148033/other a conversation] in [/EN#148027/scene a city area] .

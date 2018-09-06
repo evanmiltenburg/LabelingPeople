@@ -1,0 +1,5 @@
+[/EN#181789/people A woman] wearing [/EN#181790/clothing a blue plaid shirt] and [/EN#181799/clothing sunglasses] has [/EN#181798/scene her mouth open] and is walking down [/EN#181795/scene the sidewalk] beside [/EN#181796/scene a white building] .
+[/EN#181789/people A woman] in [/EN#181790/clothing a blue plaid shirt] and [/EN#181799/other sunglasses scratches] [/EN#181793/bodyparts her face] as [/EN#0/notvisual she] walks down [/EN#181791/scene the street] .
+[/EN#181789/people A woman] scratches [/EN#181793/bodyparts her cheek] as [/EN#0/notvisual she] walking down [/EN#181792/scene a sidewalk] alone .
+[/EN#181789/people A woman] walks down [/EN#181791/scene the street] while scratching [/EN#181797/bodyparts her face] .
+[/EN#181789/people A woman] walking in [/EN#181800/scene the evening] down [/EN#181791/scene a city street] .

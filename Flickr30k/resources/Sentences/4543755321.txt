@@ -1,0 +1,5 @@
+[/EN#176744/people Two men] holding [/EN#176747/other shovels] are standing around [/EN#176745/scene dirt] and [/EN#176748/other trees] .
+[/EN#176744/people Two men] working beside [/EN#176745/scene a trench] between [/EN#176749/scene two buildings] .
+[/EN#176744/people Two men] work outside near [/EN#176745/scene a trench] in [/EN#176745/scene the road] .
+[/EN#176744/people Two men] digging at [/EN#176746/other a construction sight] .
+[/EN#176744/people Two men] working on digging [/EN#176745/scene a ditch] .

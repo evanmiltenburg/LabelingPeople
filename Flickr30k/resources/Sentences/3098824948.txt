@@ -1,0 +1,5 @@
+[/EN#93491/people A man] wearing [/EN#93495/clothing a tuxedo] and [/EN#93490/people a woman] in [/EN#93496/clothing a white dress] .
+[/EN#93490/people A bride] and [/EN#93491/people groom] walk together in [/EN#93497/scene a dark room] .
+[/EN#93491/people The man] is walking [/EN#93490/people the bride] down [/EN#93492/other the aisle] .
+[/EN#93490/people A bride] and [/EN#93491/people groom] leaving after [/EN#93493/other the wedding] .
+[/EN#93491/people A man] and [/EN#93490/people bride] walk down [/EN#93492/other the aisle]

@@ -1,0 +1,5 @@
+[/EN#9925/people A young blond-haired girl] wearing [/EN#9926/clothing a YMCA sweater] looks into [/EN#9927/other a telescope] while [/EN#9928/people another girl] with [/EN#9929/clothing glasses] watches [/EN#0/notvisual her] .
+[/EN#9925/people A blond girl] looks through [/EN#9927/other a telescope] while [/EN#9928/people another girl] wearing [/EN#9929/clothing glasses] looks at [/EN#0/notvisual her] .
+[/EN#9925/people A girl] in [/EN#9926/clothing a gray YMCA sweater] looking through [/EN#9927/other a telescope] .
+[/EN#9925/people A girl] looking through [/EN#9927/other a large telescope] on [/EN#9930/other a school trip] .
+[/EN#9925/people A female] with [/EN#9931/bodyparts blond-hair] is looking through [/EN#9927/other a telescope] .

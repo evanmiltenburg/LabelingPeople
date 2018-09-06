@@ -1,0 +1,5 @@
+[/EN#172808/people A guy] in [/EN#172810/clothing a white hat] is sitting on [/EN#172809/vehicles a cart] being pulled down [/EN#172812/scene the street] by [/EN#172807/animals a donkey] .
+[/EN#172808/people A man] in [/EN#172811/clothing a black shirt] and [/EN#172810/clothing a white hat] is pulled on [/EN#172809/vehicles a trailer] by [/EN#172807/animals a donkey] .
+[/EN#172808/people A man] rides on [/EN#172813/other a platform] with [/EN#172814/other wheels] and is being pulled by [/EN#172807/animals a donkey] .
+[/EN#172808/people A man] riding [/EN#172809/vehicles a cart] being pulled by [/EN#172807/animals a donkey] .
+[/EN#172807/animals A donkey] pulling [/EN#172808/people a person] on [/EN#172809/vehicles a cart] .

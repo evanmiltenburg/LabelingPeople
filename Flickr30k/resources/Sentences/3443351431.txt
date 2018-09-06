@@ -1,0 +1,5 @@
+[/EN#118737/animals A blue insect] is flying near [/EN#118738/other the bloom of a flowering plant] .
+[/EN#118737/animals A black-blue insect] flying over [/EN#118738/other a white flower] .
+[/EN#118737/animals A black insect] approaches [/EN#118738/other a flower] .
+[/EN#118736/other A bee] hovering over [/EN#118738/other white flowers] .
+[/EN#118736/other The bee hovers] above [/EN#118738/other the flower] .

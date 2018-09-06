@@ -1,0 +1,5 @@
+[/EN#206770/people Two people] wearing [/EN#206778/clothing the same costume] standing in front of [/EN#206773/scene a large glass doorway] .
+[/EN#206770/people 2 people] dressed as [/EN#206774/people cowboys] standing by [/EN#206772/scene the entrance] to [/EN#206771/scene a hotel] .
+[/EN#206770/people Two people] in [/EN#206776/clothing odd outfits] are standing by [/EN#206772/other a glass door] .
+[/EN#206770/people Two people] are standing and talking with [/EN#0/notvisual each other] .
+[/EN#206770/people Two women] operate [/EN#206772/other the doors] at [/EN#206771/scene a hotel] .

@@ -1,0 +1,5 @@
+[/EN#107853/people A large crowd] dressed in [/EN#107854/clothing renaissance attire] gathers together in [/EN#107855/scene a city street] .
+[/EN#0/notvisual There] is [/EN#107853/people a large gathering of people] in [/EN#107854/clothing costumes] outside on [/EN#107855/scene the street] .
+[/EN#107853/people Some people] in [/EN#107854/clothing medieval costume] are walking through [/EN#107855/scene a crowded street] .
+[/EN#107856/people People] are dressed in [/EN#107854/clothing Victorian outfits] in [/EN#107855/scene a crowded outdoor area] .
+[/EN#107855/people street scene of elegant dressed people] of [/EN#107857/other older times]

@@ -1,0 +1,5 @@
+[/EN#59577/people A boy] is kicking [/EN#59578/other a ball] in [/EN#59580/scene the cobble-stoned courtyard] in front of [/EN#59579/scene a building] .
+[/EN#59577/people A youth] is kicking [/EN#59578/other a soccer ball] in [/EN#59580/scene an empty brick area] .
+[/EN#59577/people A boy] is kicking [/EN#59578/other a ball] in [/EN#59580/scene a building courtyard] .
+[/EN#59577/people A boy] kicks [/EN#59578/other a soccer ball] outside of [/EN#59579/scene a hotel] .
+[/EN#59577/people Boy] kicking [/EN#59578/other a soccer ball] .

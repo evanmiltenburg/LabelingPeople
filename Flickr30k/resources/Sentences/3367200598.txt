@@ -1,0 +1,5 @@
+[/EN#113356/people A baseball player] wearing white with [/EN#113362/clothing blue sleeves] and [/EN#113359/clothing a gold helmet] is swinging to hit [/EN#113357/other a ball] .
+[/EN#113356/people A smiling baseball player] with [/EN#113359/clothing a gold helmet] is [/EN#113360/other 3 inches] from hitting [/EN#113357/other a ball] with [/EN#113358/other his bat] .
+[/EN#113356/people A baseball player] is about to hit [/EN#113357/other a baseball] with [/EN#113358/other a bat] .
+[/EN#113356/people A baseball player] in [/EN#113363/clothing white] is swinging at [/EN#113357/other the ball] .
+[/EN#113356/people A baseball player] takes [/EN#113361/other a swing] at [/EN#113357/scene a pitch] .

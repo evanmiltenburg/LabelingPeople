@@ -1,0 +1,5 @@
+[/EN#105603/animals a brown dog] wearing [/EN#105609/clothing a chain collar] on [/EN#105607/scene a mountain] running crazily .
+[/EN#105603/animals A brown dog] wearing [/EN#105610/other a chain] around [/EN#105608/bodyparts its neck] is shaking [/EN#0/notvisual it] [/EN#105604/bodyparts head] .
+[/EN#105603/animals A brown dog] making [/EN#105604/bodyparts a funny face] while standing on [/EN#105605/scene a beach] .
+[/EN#105603/animals A dark brown dog] rapidly shaking off .
+[/EN#105603/animals A brown dog] shaking [/EN#105604/bodyparts its head] .

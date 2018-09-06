@@ -1,0 +1,5 @@
+[/EN#186605/people A middle-age man] in [/EN#186606/clothing a black jacket] is standing on [/EN#186612/vehicles/scene a boat] holding onto [/EN#186607/other a black rope] .
+[/EN#186605/people a man] waiting for [/EN#186616/vehicles/scene train] with [/EN#186606/clothing a blue coat] [/EN#187000/clothing blue jeans] while holing [/EN#186607/other a rope] .
+[/EN#186605/people A man] in [/EN#186606/clothing a black jacket] looking over [/EN#186609/vehicles/scene the railing of a boat] .
+[/EN#186605/people A man] in [/EN#186606/clothing a black] flees holds [/EN#186614/other ropes] on [/EN#186609/scene a balcony] .
+[/EN#186605/people A man] in [/EN#186606/clothing black] stands behind [/EN#186609/other a railing] .

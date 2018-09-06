@@ -1,0 +1,5 @@
+[/EN#233903/people A man] rides [/EN#233905/vehicles a bicycle] through [/EN#233912/scene an inner-city neighborhood] next to [/EN#233914/other a wall] containing [/EN#233906/bodyparts a graffiti picture of a big hand] showing [/EN#233913/other the peace sign] .
+[/EN#233906/other A spray] painted [/EN#233906/bodyparts hand] showing [/EN#0/notvisual the peace side] at [/EN#233907/scene the entrance of a small road] with [/EN#233903/people a young man] in [/EN#233915/clothing a red shirt] riding [/EN#233905/vehicles his bike] through [/EN#0/notvisual it] .
+[/EN#233903/people A person] rides up [/EN#233907/scene a narrow street] on [/EN#233905/vehicles a bike] , past [/EN#233906/bodyparts a spray-painted sign of a hand] giving [/EN#233906/other the peace sign] .
+[/EN#233903/people One man] riding [/EN#233905/vehicles his bicycle] through [/EN#233910/other an alleyway] next to [/EN#233906/other some graffiti] .
+[/EN#233903/people A child] is riding [/EN#233905/vehicles a bike] down [/EN#233911/other an alleyway] with [/EN#233906/other graffiti] in [/EN#0/notvisual it] .

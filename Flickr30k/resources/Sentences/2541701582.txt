@@ -1,0 +1,5 @@
+[/EN#56904/people A middle-aged man] and [/EN#56905/vehicles woman ride bikes] down [/EN#56909/scene a road] beside [/EN#56906/scene the water] .
+[/EN#56904/people An older man] and [/EN#56905/vehicles woman ride bikes] on [/EN#56909/scene the boardwalk] near [/EN#56906/scene the ocean]
+[/EN#56904/people Man] and [/EN#56907/people woman] riding [/EN#56905/vehicles bikes] on [/EN#56909/scene paved , fenced path] near [/EN#56906/scene ocean] .
+[/EN#56908/people A couple] ride [/EN#56905/vehicles bikes] next to [/EN#56910/scene an orange fence] by [/EN#56906/scene the ocean] .
+[/EN#56904/people A man] and [/EN#56907/people a woman] ride [/EN#56905/vehicles bikes] on [/EN#56909/scene the boardwalk] .

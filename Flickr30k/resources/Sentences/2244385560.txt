@@ -1,0 +1,5 @@
+[/EN#36439/people A man] in [/EN#36444/clothing a light coat] and [/EN#36440/clothing a blue hat] feeding [/EN#36442/animals several seagulls] along [/EN#36443/scene a wide brick walkway] in [/EN#36441/scene a park] .
+[/EN#36439/people Young male] wearing [/EN#36440/clothing a blue hat] feeding [/EN#36442/animals multiple birds] .
+[/EN#36439/people A person] is feeding [/EN#36443/people a flock] seagulls in [/EN#36441/scene a park] .
+[/EN#36439/people A child] is feeding [/EN#36442/animals seagulls] in [/EN#36441/scene a park] .
+[/EN#36439/people A boy] is feeding [/EN#36442/animals birds] in [/EN#36441/scene a park] .

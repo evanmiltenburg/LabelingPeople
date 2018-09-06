@@ -1,0 +1,5 @@
+[/EN#263109/people An Asian woman] , dressed in [/EN#263110/clothing a bright pink shirt] , is washing [/EN#263111/clothing her clothes] in [/EN#263112/scene the river] .
+[/EN#263109/people An Asian woman] in [/EN#263113/clothing a hat] and [/EN#263110/clothing pink shirt] squats next to [/EN#263112/scene a river] with [/EN#263114/other two buckets] .
+[/EN#263109/people An Asian woman] with [/EN#263113/clothing a conical hat] does [/EN#0/notvisual her] washing next to [/EN#263115/scene a small waterfall] .
+[/EN#263109/people A woman] in [/EN#263110/clothing a pink shirt] is kneeling next to [/EN#263112/scene a river] while washing .
+[/EN#263109/people An asian woman] washes [/EN#263111/clothing clothes] in [/EN#263112/scene the river] .

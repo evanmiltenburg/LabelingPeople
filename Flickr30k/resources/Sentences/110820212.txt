@@ -1,0 +1,5 @@
+[/EN#2820/people A man] in [/EN#2823/clothing a gray uniform] carefully inserts [/EN#2828/other a metal rod] into [/EN#2826/scene a glowing opening] .
+[/EN#2820/people A man] in [/EN#2821/scene an old building] holding [/EN#0/notvisual what] looks like [/EN#2827/other a light] on [/EN#2824/other a long pole] .
+[/EN#2820/people A man] in [/EN#2823/clothing a light green suit] is operating [/EN#2825/other machinery] in [/EN#2821/scene a factory] .
+[/EN#2820/people A technician] is figuring out [/EN#2830/scene the best way] to open [/EN#2822/other a huge safe] .
+[/EN#2820/people A professional glass maker] firing [/EN#2829/other a piece] in [/EN#2822/other a gigantic oven] .

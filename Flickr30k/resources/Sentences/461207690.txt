@@ -1,0 +1,5 @@
+[/EN#182621/people A construction worker] is inside [/EN#182622/scene a tower] with [/EN#182622/other lots of pipes] wearing [/EN#182625/clothing a maroon sweater] .
+[/EN#182621/people A construction worker] in [/EN#182623/clothing a hard hat] is standing on [/EN#182622/scene a contraption outside] , working .
+[/EN#182621/people A man] with [/EN#182625/clothing a red sweatshirt] and [/EN#182623/other white hard hot] is working on [/EN#182622/other some kind of rig] .
+[/EN#182621/people A worker] with [/EN#182623/clothing a hard hat] working on [/EN#182622/other a rig] high off [/EN#0/notvisual the ground] .
+[/EN#182621/people A man] in [/EN#182625/clothing a red shirt] is working on [/EN#182622/other a machine] in [/EN#182627/scene the field] .

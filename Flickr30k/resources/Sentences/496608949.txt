@@ -1,0 +1,5 @@
+[/EN#224013/people A man] in [/EN#224015/clothing a blue shirt] and [/EN#224019/clothing brown pants] is sitting next to [/EN#224014/vehicles a parked blue car] .
+[/EN#224013/people A man] in [/EN#224015/clothing a blue sweater] is sitting outside in front of [/EN#224014/vehicles a blue car] .
+[/EN#224013/people A man] in [/EN#224015/clothing a blue shirt] is sitting beside [/EN#224014/other a blue van]
+[/EN#224013/people An elderly man] sits in [/EN#224017/other a chair] in [/EN#224018/other an alleyway] .
+[/EN#224013/people The man] in [/EN#224015/clothing the blue shirt] looks very lonely .

@@ -1,0 +1,5 @@
+[/EN#78204/other A dog of dark color] holds [/EN#78205/clothing a red leash] in [/EN#78207/bodyparts his mouth] .
+[/EN#78206/clothing A black and brown] dogs pulling [/EN#78205/clothing a red leash] .
+[/EN#78204/animals A black dog] chewing on [/EN#78205/clothing a red leash] .
+[/EN#78204/animals A dog] chews on [/EN#78205/clothing his red leash] .
+[/EN#78204/animals a dog] tugs on [/EN#78205/clothing his red leash] .

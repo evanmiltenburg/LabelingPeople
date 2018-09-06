@@ -1,0 +1,5 @@
+[/EN#126044/people Two people] are sitting in [/EN#126042/other a sailboat] on [/EN#126046/scene the ocean] as [/EN#126048/people another person] fishes from [/EN#126042/vehicles/scene the same boat] .
+[/EN#126042/other A sailboat] on [/EN#126046/scene a beautiful blue ocean] with [/EN#126045/people three people] aboard , [/EN#0/notvisual one of them] fishing .
+[/EN#126042/other A lone sailboat] moves across [/EN#126046/scene a beautiful blue sea] with [/EN#126043/people two men] at [/EN#126047/other the helm] .
+[/EN#126044/people Three people] are sailing on [/EN#126046/scene the open , clear blue ocean] .
+[/EN#126045/people Three people] sailing on [/EN#126046/scene very blue waters] .

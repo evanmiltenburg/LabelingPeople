@@ -1,0 +1,5 @@
+[/EN#146699/people A woman] in [/EN#146701/clothing an orange sari] sits in front of [/EN#146700/other a low wall] among [/EN#146702/other baskets of vegetables] [/EN#0/notvisual that] include [/EN#146703/other potatoes] .
+[/EN#146699/people A woman] wearing [/EN#146701/clothing orange] sits against [/EN#146700/other a wall] surrounded by [/EN#146702/other baskets of vegetables] .
+[/EN#146699/people Person] in [/EN#146701/clothing orange garb] selling [/EN#146702/other vegetables] in [/EN#146705/scene an open market] .
+[/EN#146699/people A dark-skinned woman] sits among [/EN#146702/other baskets of vegetables] .
+[/EN#146699/people A woman] is sitting next to [/EN#146703/other potatoes] and [/EN#146702/other vegetables] .

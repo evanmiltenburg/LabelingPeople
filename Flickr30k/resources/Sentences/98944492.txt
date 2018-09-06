@@ -1,0 +1,5 @@
+[/EN#285064/people A man] walks on [/EN#285067/scene the street] with [/EN#285065/other a snow shovel] during [/EN#285066/other a snowstorm] .
+[/EN#285064/people Person] with [/EN#285065/other shovel] walks through [/EN#285066/other snowstorm] in front of [/EN#285069/other cafe] .
+[/EN#285064/people A person] with [/EN#285071/clothing red gloves] carries [/EN#285065/other a shovel] through [/EN#285070/scene the snow] .
+[/EN#285064/people A person] is carrying [/EN#285065/other a shovel] walking down [/EN#285067/scene a snowy street] .
+[/EN#285064/people Someone] is walking through [/EN#285066/other a snowstorm] carrying [/EN#285065/other a shovel] .

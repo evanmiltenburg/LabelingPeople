@@ -1,0 +1,5 @@
+[/EN#82352/people A football player] wearing [/EN#82354/clothing an orange uniform] smiling and holding [/EN#82353/other the football] .
+[/EN#82352/people A man] in [/EN#82354/clothing an orange jersey] with [/EN#82357/other the letter] " [/EN#82351/other 12] " on [/EN#0/notvisual it] plays [/EN#82353/other football] .
+[/EN#82352/people a football player] wearing [/EN#82354/clothing an orange jersey] holding [/EN#82353/other a football]
+[/EN#82351/other Number 12] in [/EN#82354/clothing orange] gets ready to throw [/EN#82353/other the football] .
+[/EN#82352/people A University of Miami player] holds [/EN#82353/other a football] .

@@ -1,0 +1,5 @@
+[/EN#211269/people A man] wearing [/EN#211271/clothing a blue collared shirt] and [/EN#211270/clothing a black newsboy hat] plays [/EN#211272/instruments an accordion] next to [/EN#211275/other a stone wall] .
+[/EN#211269/people A man] in [/EN#211271/clothing a dress shirt dress] paints and [/EN#211274/clothing overalls] plays [/EN#211272/scene the accordion outside] .
+[/EN#211269/people A man] wearing [/EN#211270/clothing a cap] and [/EN#211271/clothing long blue shirt] and [/EN#211274/clothing blue pants] playing [/EN#211272/instruments the Accordion]
+[/EN#211269/people A man] in [/EN#211270/clothing a hat] playing [/EN#211272/scene an accordion outside] .
+[/EN#211269/people A guy] playing [/EN#211272/instruments an accordion] with [/EN#211270/clothing a hat] on .

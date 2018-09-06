@@ -1,0 +1,5 @@
+[/EN#106041/people Two people] wearing [/EN#106048/clothing backpacks] cross [/EN#106042/scene a rickety chain bridge] , [/EN#0/notvisual which] is above [/EN#106043/scene a flowing river] .
+[/EN#106044/people Two backpackers] walking across [/EN#106047/other an intricate rope] and [/EN#106042/scene wood bridge] over [/EN#106043/scene a river] .
+[/EN#106041/people Two people] cross [/EN#106042/scene a bridge] over [/EN#106043/scene a river] in [/EN#106046/scene a forest] .
+[/EN#106041/people A couple of hikers] cross [/EN#106042/scene a bridge] .
+[/EN#106041/people Two people] crossing [/EN#106045/other a footbridge] .

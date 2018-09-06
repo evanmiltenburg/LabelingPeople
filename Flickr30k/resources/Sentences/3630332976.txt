@@ -1,0 +1,5 @@
+[/EN#132673/people The boy] in [/EN#132680/clothing the gray shirt] is holding [/EN#132673/people the boy] in [/EN#132681/clothing the red shirt] on [/EN#132675/other his back] .
+[/EN#132676/people Two boys] are back to [/EN#132675/other back] as [/EN#132673/other one] holds up [/EN#132679/other the other] .
+[/EN#132673/people One child] lifts [/EN#0/notvisual another] on [/EN#132675/other his back] , inside [/EN#132682/scene a room] .
+[/EN#132673/people One boy] hoists [/EN#132673/people another boy] up on [/EN#132675/other his back] .
+[/EN#132673/people Boy] pulls [/EN#132678/people other boy] over [/EN#132675/other back] .

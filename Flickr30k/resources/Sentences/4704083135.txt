@@ -1,0 +1,5 @@
+[/EN#193040/people African American woman] with [/EN#193041/clothing a bluish white dress] and [/EN#193043/clothing an orange hair tie] dancing .
+[/EN#193040/people A woman] with [/EN#193042/bodyparts long black hair] is dancing in [/EN#193041/clothing a voluminous white dress] .
+[/EN#193040/people A woman] with [/EN#193042/bodyparts a long black ponytail] and [/EN#193041/clothing a flowing white dress] twirls .
+[/EN#193040/people A woman] with [/EN#193042/bodyparts long hair] smiles as [/EN#0/notvisual she] dances .
+[/EN#193040/people A lady] wearing [/EN#193041/clothing white] is dancing .

@@ -1,0 +1,5 @@
+[/EN#12981/vehicles A yellow taxi cab] with [/EN#12985/other a sign] reading " [/EN#12984/other MAMA MIA] ! " on [/EN#0/notvisual it] , and [/EN#12983/people a guy] sitting in [/EN#12988/other the back] .
+[/EN#12982/scene A crowded street] is filled with [/EN#12986/vehicles many cars] and [/EN#12987/people pedestrians] .
+[/EN#12981/vehicles a taxi cab] with [/EN#12984/other a mama mia ad] on top of [/EN#0/notvisual it]
+[/EN#12981/vehicles A cab] is driving on [/EN#12982/scene a busy city street] .
+[/EN#12983/people A man] in [/EN#12981/vehicles a taxi] waiting to go .

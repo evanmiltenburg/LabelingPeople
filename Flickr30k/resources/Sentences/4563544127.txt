@@ -1,0 +1,5 @@
+[/EN#178829/people A man] in [/EN#178837/clothing a red sweater vest] advertising [/EN#178831/other a tattoo service] on [/EN#178830/scene a busy street] .
+[/EN#178829/people An older man] holding [/EN#178831/other a sign] for [/EN#178831/bodyparts tattoos] soliciting [/EN#178833/other business] on [/EN#178830/scene the street] .
+[/EN#178829/people A man] holds up [/EN#178831/other a sign] [/EN#0/notvisual that] reads " [/EN#178831/bodyparts tattoo] " as [/EN#178839/people many people] walk near [/EN#0/notvisual him] .
+[/EN#178829/people A male] with [/EN#178836/clothing a hat] is out advertising [/EN#178831/scene a tattoo shop] .
+[/EN#178829/people An older man] holds [/EN#178831/other a sign] advertising [/EN#178831/bodyparts tattoos] .

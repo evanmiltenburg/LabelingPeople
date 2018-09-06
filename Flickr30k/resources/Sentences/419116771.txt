@@ -1,0 +1,5 @@
+[/EN#158575/animals Three dogs] look on as [/EN#158576/animals two dogs] attack [/EN#158577/animals a third dog] in [/EN#158580/scene the streets] .
+[/EN#158578/animals a pack of dogs] roughhousing by [/EN#158579/vehicles a car] on [/EN#158580/scene a dirty street] .
+[/EN#158578/animals Several dogs] brawl in [/EN#158581/scene an alley] near [/EN#158579/vehicles a silver car] .
+[/EN#158578/animals A pack of dogs] fighting near [/EN#158579/vehicles a car] in [/EN#158581/scene an alley] .
+[/EN#158578/animals A group of dogs] standing by [/EN#158579/vehicles a car]

@@ -1,0 +1,5 @@
+[/EN#108003/vehicles/scene A boat] with [/EN#108008/other a hotel name] on [/EN#0/notvisual side] and with [/EN#108004/people several people] on [/EN#108011/other board] navigates through [/EN#108006/scene the water] .
+[/EN#108005/people Tourists] board [/EN#108007/other a Vietnamese skiff] for [/EN#108010/other a river tour] .
+[/EN#108004/people A group of people] paddling down [/EN#108006/scene a dirty river] .
+[/EN#108005/people A group of people] are on [/EN#108003/vehicles/scene a boat] in [/EN#108009/other a marina] .
+[/EN#108004/people Lots of people] on [/EN#108003/vehicles/scene a boat] .

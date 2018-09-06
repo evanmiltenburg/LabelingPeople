@@ -1,0 +1,5 @@
+[/EN#323/people Man] wearing [/EN#324/clothing a blue and white outfit] , holding [/EN#325/other a broom] , with [/EN#327/other a traditional Asian architecture] in [/EN#0/notvisual the background] .
+[/EN#323/people A Asian man] wearing [/EN#328/clothing a white top] and [/EN#329/clothing baby blue bottoms] is using [/EN#325/other a broom] to remove [/EN#330/scene the dirt of the pavement] .
+[/EN#323/people A man] in [/EN#324/clothing a white and blue kimono] is using [/EN#325/other a broom] to sweep [/EN#326/scene pavement] .
+[/EN#323/people Man] sweeping [/EN#326/scene the street] outside .
+[/EN#323/people Asian man] sweeping [/EN#326/scene the walkway] .

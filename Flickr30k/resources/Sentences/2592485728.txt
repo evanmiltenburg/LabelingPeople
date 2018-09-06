@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#60084/people a person] in [/EN#60085/clothing a swimming cap] , and [/EN#60086/clothing swimming goggles] [/EN#0/notvisual that] is swimming in [/EN#60087/scene the water] with [/EN#60088/bodyparts their head] partially submerged .
+[/EN#60084/people A child] with [/EN#60086/clothing goggles] and [/EN#60085/clothing a swim cap] swimming in [/EN#60087/scene a pool] .
+[/EN#60084/people A young person] is swimming in [/EN#60087/scene the pool] .
+[/EN#60084/people A woman] is swimming through [/EN#60087/scene water] .
+[/EN#60084/people A person] swimming in [/EN#60089/other swim gear] .

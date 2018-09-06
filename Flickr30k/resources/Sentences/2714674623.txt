@@ -1,0 +1,5 @@
+[/EN#68125/people Man] wearing [/EN#68126/clothing hat] and [/EN#68127/clothing t-shirt] with " [/EN#68128/people Genetic Freak] " sleeping on [/EN#68131/vehicles public transportation] .
+[/EN#68129/people Three people] , [/EN#68125/other one] wearing [/EN#68127/clothing a t-shirt] and [/EN#68126/clothing baseball cap] , are seated on [/EN#68132/vehicles/scene a bus] .
+[/EN#68125/people A man] with [/EN#68127/clothing a black shirt] [/EN#0/notvisual that] says " [/EN#68128/people Genetic Freak] " is sleeping on [/EN#68132/vehicles/scene a bus] .
+[/EN#68125/people The heavy man] is sitting on [/EN#68132/vehicles/scene a bus] and sleeping .
+[/EN#68125/people a large man] dozes off on [/EN#68132/vehicles/scene the bus] .

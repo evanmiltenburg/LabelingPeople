@@ -1,0 +1,5 @@
+[/EN#93531/people A man] in [/EN#93533/clothing a black suit] is walking up [/EN#93534/scene a street] carrying [/EN#93537/other an accordion file] and [/EN#93535/other a cellphone] .
+[/EN#93532/people a crowd of people] standing next to [/EN#93538/other a sign] while [/EN#93539/other some] check [/EN#93540/other their cellphone]
+[/EN#93531/people A man] in [/EN#93533/clothing a suit] looks worried as [/EN#0/notvisual he] walks don [/EN#93534/scene the crowded street] .
+[/EN#93531/people A man] is looking away from [/EN#93535/other his phone] on [/EN#93534/scene a busy street] .
+[/EN#93532/people People] in [/EN#93536/scene a big city] are waiting to cross [/EN#93534/scene the street] .

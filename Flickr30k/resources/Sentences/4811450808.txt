@@ -1,0 +1,5 @@
+[/EN#205586/people A woman] in [/EN#205588/clothing a green top] and [/EN#205589/clothing white skirt] stands next to [/EN#205587/people a man] with [/EN#205590/clothing a pale blue shirt] and [/EN#205594/clothing white shoes] .
+[/EN#205586/people A woman] in [/EN#205589/clothing a white skirt] is standing outside of [/EN#205595/scene a building] with [/EN#205587/people a man] .
+[/EN#205587/people A man] and [/EN#205586/people a woman] dressed in [/EN#205588/clothing green] stand besides [/EN#205591/other a pillar] .
+[/EN#205586/people A girl] in [/EN#205588/clothing green] and [/EN#205587/people a man] in [/EN#205593/clothing white] are standing outside .
+[/EN#205586/people A woman] dressed in [/EN#205592/clothing green and white] stands near [/EN#205587/people a man] .

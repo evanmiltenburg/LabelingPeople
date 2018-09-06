@@ -1,0 +1,5 @@
+[/EN#69237/people Three men] sitting on [/EN#69238/scene the sidewalk] up against [/EN#69239/scene the building] , with [/EN#69240/scene piles of dirt] and [/EN#69241/other an orange cone] indicating [/EN#69242/scene the work area] .
+[/EN#69237/people Three men] in [/EN#69243/clothing vests] sitting down near [/EN#69240/scene a pile of dirt] with [/EN#69247/other their backs] facing [/EN#69239/other a wall] .
+[/EN#69237/people Three construction workers] sitting in front of [/EN#69239/scene a building] in [/EN#69245/other the shade] .
+[/EN#69237/people Workers] rest against [/EN#69239/other the wall] after [/EN#69246/scene a long day] .
+[/EN#69237/people Three construction workers] rest on [/EN#69242/scene job site] .

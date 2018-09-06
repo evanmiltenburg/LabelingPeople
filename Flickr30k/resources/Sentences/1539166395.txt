@@ -1,0 +1,5 @@
+[/EN#15900/people A child] with [/EN#15902/bodyparts a skull] on [/EN#15903/clothing his shirt] is sitting in front of [/EN#15907/other some plants] and [/EN#15908/scene a building] and is holding onto [/EN#15901/other handlebars] .
+[/EN#15900/people A young girl] with [/EN#15904/bodyparts curly hair] with [/EN#15903/clothing a white shirt] with [/EN#15902/bodyparts a skull] and [/EN#15906/other bones picture] on [/EN#0/notvisual it] .
+[/EN#15900/people A curly-haired child] in [/EN#15903/clothing a white t-shirt] grasps [/EN#15901/other the handlebars of a riding toy] .
+[/EN#15900/people A little girl] with [/EN#15904/bodyparts curly hair] sitting on [/EN#15901/other a teeter totter] .
+[/EN#15900/people A small child] with [/EN#15904/bodyparts curly hair] is on [/EN#15901/other a riding toy] .

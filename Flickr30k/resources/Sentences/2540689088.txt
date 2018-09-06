@@ -1,0 +1,5 @@
+[/EN#56755/people A girl] in [/EN#56757/clothing a black sweatshirt] and [/EN#56760/clothing jeans] pouring [/EN#56756/other a liquid] into [/EN#56758/other a measuring glass] in [/EN#56759/scene a kitchen] .
+[/EN#56755/people A woman] in [/EN#56761/scene a house] wearing [/EN#56760/clothing jeans] and [/EN#56757/clothing a sweater] , is pour [/EN#56756/other a drink] into [/EN#56758/other a glass] .
+[/EN#56755/people A girl] in [/EN#56757/clothing a black sweatshirt] pours [/EN#56756/other a bit of liquid] into [/EN#56758/other a small glass] .
+[/EN#56755/people A girl] in [/EN#56757/clothing a black hoodie] and [/EN#56760/clothing jeans] is in [/EN#56759/scene a kitchen] pouring [/EN#56758/other a drink] .
+[/EN#56755/people A woman] in [/EN#56759/scene her kitchen] is pouring [/EN#56756/other something] into [/EN#56758/other a container] .

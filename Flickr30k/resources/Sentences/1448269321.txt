@@ -1,0 +1,5 @@
+[/EN#13244/people A female] in [/EN#13246/clothing blue jeans] and [/EN#13251/clothing white high heels] is walking down [/EN#13250/scene the street] .
+[/EN#13244/people a woman] in [/EN#13247/clothing high heels] and [/EN#13246/clothing jeans] is standing on [/EN#13245/scene the sidewalk] .
+[/EN#13244/people The back side of a woman] standing on [/EN#13245/scene a city sidewalk] .
+[/EN#13244/people A woman] wearing [/EN#13247/clothing high heels] and [/EN#13249/clothing a hat] .
+[/EN#13244/people A lady] in [/EN#13246/clothing jeans] and [/EN#13247/clothing high heels] .

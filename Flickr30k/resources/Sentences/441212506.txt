@@ -1,0 +1,5 @@
+[/EN#166833/animals Three dogs] running in [/EN#166836/scene grass] , [/EN#166838/other one] carrying [/EN#166835/other a tennis ball] in [/EN#166837/bodyparts mouth] .
+[/EN#166832/animals The black dog] runs with [/EN#166835/other a ball] with [/EN#166834/animals two smaller dogs] behind [/EN#0/notvisual it] .
+[/EN#166833/animals Three dogs] playing in [/EN#166836/scene a field] , [/EN#166838/other one] with [/EN#166835/other a ball] in [/EN#166837/bodyparts its mouth] .
+[/EN#166834/animals Two small dogs] follow [/EN#166832/animals a larger dog] with [/EN#166835/other a tennis ball]
+[/EN#166839/other Three dogs race] towards [/EN#166840/people the viewer] over [/EN#166836/scene a lawn] .

@@ -1,0 +1,5 @@
+[/EN#95215/people A group of people] are watching [/EN#95216/vehicles/scene the trains] at [/EN#95219/other a train stop] .
+[/EN#95215/people People] looking at [/EN#95216/vehicles/scene the train] from [/EN#95219/other a train track platform] .
+[/EN#95215/people A large group of people] are waiting at [/EN#95217/scene a train station] .
+[/EN#95215/people A crowd] awaits for [/EN#95216/vehicles/scene a train] as [/EN#0/notvisual it] enters [/EN#95219/other the station]
+[/EN#95215/people A group of people] taking [/EN#95218/vehicles/scene photos of a train] .

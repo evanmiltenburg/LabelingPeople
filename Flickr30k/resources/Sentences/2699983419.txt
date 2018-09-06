@@ -1,0 +1,5 @@
+[/EN#66890/people A man] in [/EN#66893/clothing a white shirt] slides through [/EN#66894/other the sand] towards [/EN#66888/people a man] in [/EN#66892/clothing a blue uniform] and [/EN#66896/clothing hat] holding [/EN#66895/clothing a sporting glove] out towards [/EN#0/notvisual him] .
+[/EN#0/notvisual There] are [/EN#66890/people two men] playing [/EN#66891/other baseball] , [/EN#66890/people one man] in [/EN#66893/clothing a white shirt] is sliding and [/EN#66888/people the other man] in [/EN#66892/clothing a blue shirt] is trying to tag [/EN#0/notvisual him] .
+[/EN#66889/people A catcher] tries to strike [/EN#66890/people a runner] out as [/EN#0/notvisual he] slides into [/EN#66894/other base] during [/EN#66891/other a baseball game] .
+[/EN#66890/people A man] in [/EN#66893/scene a white shirt slides home] during [/EN#66891/other a baseball game] .
+[/EN#66888/people A man] in [/EN#66893/clothing a white shirt] is sliding onto [/EN#66894/other base] .

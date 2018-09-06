@@ -1,0 +1,5 @@
+[/EN#26634/people A woman] is being seen by [/EN#26635/people a doctor] [/EN#0/notvisual who] is wearing [/EN#26637/clothing a flower hair cap] .
+[/EN#26635/people A doctor] in [/EN#26638/other surgical scrubs consults] with [/EN#26634/people his patient] .
+[/EN#26635/people A male doctor] looking at [/EN#26639/bodyparts a female patients hand] .
+[/EN#26635/people Doctor] treating [/EN#26634/people an injured patient] .
+[/EN#26635/people A doctor] consulting with [/EN#26634/people a patient] .

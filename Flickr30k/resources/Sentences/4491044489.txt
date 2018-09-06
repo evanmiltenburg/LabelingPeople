@@ -1,0 +1,5 @@
+[/EN#172825/other Two men one] wearing [/EN#172827/clothing a red shirt] , and [/EN#172829/other one] wearing [/EN#172828/clothing a white shirt] are standing on [/EN#172826/vehicles/scene a boat] and paddling [/EN#0/notvisual it] to shore .
+[/EN#172824/people Two men] , [/EN#172825/other one] in [/EN#172827/clothing a red shirt] and [/EN#172829/other one] in [/EN#172828/clothing a white shirt] , are on [/EN#172826/vehicles/scene a boat] in [/EN#172830/scene the beautiful blue-green water] .
+[/EN#172824/people Two people] on [/EN#172826/other a floating device] in [/EN#172830/scene the water] on [/EN#172832/scene a nice day] .
+[/EN#172824/people Two men] stand and row [/EN#172826/vehicles/scene a thin boat] in [/EN#172830/scene the ocean] .
+[/EN#172824/people Two men] are making [/EN#172833/scene their way] across [/EN#172830/scene the ocean] .

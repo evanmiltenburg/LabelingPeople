@@ -1,0 +1,5 @@
+[/EN#269553/people Two men] look out of [/EN#269557/vehicles the control tower of a sea tanker] - [/EN#269556/scene one waves] .
+[/EN#269553/people Two men] look out towards [/EN#269555/other a camera] while [/EN#0/notvisual they] stand on [/EN#269554/other a ship] .
+[/EN#269553/people Two men] look out from [/EN#269554/other the bridge of a large sea-faring ship] .
+[/EN#269553/people Two men] wave from atop [/EN#269554/other a piece of heavy machinery] .
+[/EN#269553/people two men] standing on [/EN#269554/other the deck of a large ship]

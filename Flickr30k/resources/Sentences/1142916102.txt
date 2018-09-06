@@ -1,0 +1,5 @@
+[/EN#3619/people A little girl] , with [/EN#3625/bodyparts long blond-hair] and wearing [/EN#3620/clothing a dress] , looking at [/EN#3622/other her refection] in [/EN#3621/scene a puddle] .
+[/EN#3619/people A young girl] in [/EN#3620/clothing a sundress] and [/EN#3624/clothing sandals] looking at [/EN#3622/other her reflection] in [/EN#3621/scene a puddle] .
+[/EN#3619/people A young girl] in [/EN#3620/clothing a dress] is looking at [/EN#3622/other her reflection] in [/EN#3621/other a river bed] .
+[/EN#3619/people A little girl] wearing [/EN#3620/clothing a green dress] is standing in front of [/EN#3621/scene puddle] .
+[/EN#3619/people A child] looks at [/EN#3622/other her reflection] in [/EN#3621/scene a puddle of water] .

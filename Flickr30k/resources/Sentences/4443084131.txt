@@ -1,0 +1,5 @@
+All [/EN#168693/people the people] sitting on [/EN#168695/vehicles/scene the subway] are reading , except for [/EN#168699/people one man] [/EN#0/notvisual who] is checking [/EN#168698/other his phone] .
+[/EN#168693/people Several people] on [/EN#168695/vehicles/scene the subway] reading [/EN#168694/other the newspaper] .
+[/EN#168697/people A woman] is intently reading [/EN#168694/other a paper] on [/EN#168695/vehicles/scene the subway] .
+[/EN#168693/people Several people] reading [/EN#168696/other newspapers] on [/EN#168695/vehicles/scene the subway] .
+[/EN#168693/people People] on [/EN#168695/vehicles/scene a subway] read [/EN#168696/other their newspapers] .

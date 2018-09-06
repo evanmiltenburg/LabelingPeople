@@ -1,0 +1,5 @@
+[/EN#34258/people 2 women] wearing [/EN#34261/clothing scarves] , waiting for [/EN#34262/other the light] to change so [/EN#0/notvisual they] can cross [/EN#34260/scene the street]
+[/EN#34258/people Two women] wearing [/EN#34261/clothing scarves] are waiting to cross [/EN#34260/scene the street] .
+[/EN#34258/people Two women] waiting for [/EN#34262/other the crosswalk light] to turn green .
+[/EN#34257/people A man] and [/EN#34258/people women] waiting for [/EN#34260/scene a street] crossing [/EN#34262/other sign] .
+[/EN#34258/people Two pedestrians] are waiting to cross [/EN#34260/scene the street] .

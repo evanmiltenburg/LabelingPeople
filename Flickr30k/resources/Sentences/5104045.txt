@@ -1,0 +1,5 @@
+[/EN#228955/people Several people] are laying on [/EN#228958/scene the floor] sleeping covered by [/EN#228956/other blankets] .
+[/EN#228955/people People] are sprawled out on [/EN#228958/scene the floor] under [/EN#228956/other blankets] in [/EN#228959/scene a messy room] .
+[/EN#228954/people A person] is sleeping under [/EN#228961/other a table] covered in [/EN#228956/other a yellow blanket] .
+[/EN#228955/people Several friends] have passed out together on [/EN#228958/scene the floor] .
+[/EN#228954/people A man] in [/EN#228963/clothing a suit] takes [/EN#228960/other a nap] .

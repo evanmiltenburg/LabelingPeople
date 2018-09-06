@@ -1,0 +1,5 @@
+[/EN#169785/other A strange " cafe] express [/EN#169782/other " sign] on [/EN#169787/other a brick wall] with [/EN#169791/people a man] walking in [/EN#0/notvisual the background] .
+[/EN#0/notvisual There] is [/EN#169785/other a CAFE EXPRESS sign] with [/EN#169782/other graffiti] hanging on [/EN#169787/other the side of a brick wall] .
+[/EN#169782/other An abandoned ' Cafe Express] [/EN#169782/other ' sign] is now covered in [/EN#169782/other graffiti] .
+[/EN#0/notvisual There] is [/EN#169782/other graffiti] all over [/EN#169782/other a yellow cafe express sign] .
+" [/EN#169782/other Cafe Express " sign] covered in [/EN#169782/other graffiti] .

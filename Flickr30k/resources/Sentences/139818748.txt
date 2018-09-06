@@ -1,0 +1,5 @@
+[/EN#11242/people A man] wearing [/EN#11243/clothing headphones] and [/EN#11244/clothing a checkered shirt] with [/EN#11245/clothing tan jacket] reaches inside [/EN#11245/clothing his jacket] while crossing [/EN#11250/scene a busy street] .
+[/EN#11242/people A man] wearing [/EN#11246/clothing a black baseball cap] and [/EN#11243/clothing headphones] reaches into [/EN#11247/clothing his shirt pocket] .
+[/EN#11242/people A man] is oblivious to [/EN#11248/people the crowds] behind [/EN#0/notvisual him] at [/EN#11249/scene the Pennsylvania train station] .
+[/EN#11242/people A man] in [/EN#11246/clothing a black hat] and [/EN#11245/clothing tan jacket] walking across [/EN#11250/scene the street] .
+[/EN#11242/people A man] wearing [/EN#11243/clothing headphones] is standing in [/EN#11250/scene the street] .

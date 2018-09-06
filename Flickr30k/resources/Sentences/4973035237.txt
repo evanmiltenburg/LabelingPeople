@@ -1,0 +1,5 @@
+On [/EN#224988/scene a sunny day] , [/EN#224984/people three men] stand along [/EN#224985/scene the side of a cliff] , [/EN#224990/other one] wielding [/EN#224986/other a shovel] .
+[/EN#224984/people Three men] , [/EN#224992/other two] holding [/EN#224986/other a shovel] , are standing on [/EN#224985/scene side of a mountain] .
+[/EN#224984/people Three tan men] on [/EN#224985/scene the side of a mountain] take [/EN#224987/scene a break] from [/EN#224989/other digging] .
+[/EN#224984/people Three men] are holding [/EN#224991/other shovels] on [/EN#224985/scene a rocky mountainside] .
+[/EN#224984/people Three men] excavating [/EN#0/notvisual what] appears to be [/EN#224985/scene a mountainside] .

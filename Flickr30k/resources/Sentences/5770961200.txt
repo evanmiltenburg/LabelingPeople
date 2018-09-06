@@ -1,0 +1,5 @@
+[/EN#242761/people A man] at [/EN#242768/scene a museum] holds [/EN#242762/animals a two dollar bill] in front of [/EN#242765/other the painting] [/EN#0/notvisual which] is represented on [/EN#242762/animals the back of the bill] .
+[/EN#242761/people A man] in [/EN#242763/clothing a red coat] with [/EN#242766/clothing a striped tie] holds up [/EN#242762/animals a dollar bill] .
+[/EN#242761/people A man] in [/EN#242763/clothing a red jacket] holding up [/EN#242764/other money] to [/EN#0/notvisual the camera] .
+[/EN#242761/people A old man] in [/EN#242763/clothing a red jacket] is holding up [/EN#242764/other money] .
+[/EN#242761/people A man] shows off [/EN#242762/animals an old fashioned bill] .

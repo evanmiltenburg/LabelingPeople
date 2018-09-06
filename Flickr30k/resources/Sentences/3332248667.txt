@@ -1,0 +1,5 @@
+[/EN#110147/people A man] in [/EN#110152/clothing a purple shirt] sits with [/EN#110149/people a woman] on [/EN#110150/vehicles/scene the subway] and smiles .
+[/EN#110147/people An oriental man] and [/EN#110149/people woman] are sitting in [/EN#110150/vehicles/scene a subway train] .
+[/EN#110147/people Two guys] are sitting and [/EN#110149/people a lady] is sleeping .
+[/EN#110148/people Three people] are sitting on [/EN#110153/vehicles a subway car] .
+[/EN#110148/people Three commuters] sit on [/EN#110150/vehicles/scene a train] .

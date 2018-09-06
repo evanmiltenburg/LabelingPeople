@@ -1,0 +1,5 @@
+[/EN#47131/people A football player] in [/EN#47133/clothing red] is trying to tackle [/EN#47131/people another player] [/EN#0/notvisual who] has [/EN#47139/other the ball] .
+[/EN#47131/people A football player] wears [/EN#47135/clothing a jersey] wuth [/EN#47140/other the number] " 4 " on [/EN#0/notvisual it] .
+[/EN#47131/people A football player] in [/EN#47133/clothing red] chases [/EN#47131/people a football player] in [/EN#47137/clothing blue] .
+[/EN#47131/people A football player] dodges [/EN#47136/other a tackle] from [/EN#47138/people his opponent] .
+[/EN#47131/people The football player] in [/EN#47134/clothing the gold helmet] is running .

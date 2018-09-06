@@ -1,0 +1,5 @@
+[/EN#219505/animals A horse] looking [/EN#219510/other sad and tired] with [/EN#219504/people a cowboy-looking man] holds [/EN#219506/other a rope] in [/EN#219509/bodyparts his hands] sits on [/EN#0/notvisual it] .
+[/EN#219504/people A white man] is sitting on [/EN#219505/animals a brown horse] as [/EN#0/notvisual he] swings [/EN#219506/other a lasso] around above [/EN#219507/bodyparts his head] .
+[/EN#219504/people A cowboy] on [/EN#219505/animals a horse] is about to lasso [/EN#219511/other something] .
+[/EN#219504/people A cowboy] on [/EN#219505/animals a horse] has [/EN#219506/other a lasso] above [/EN#219507/bodyparts his head] .
+[/EN#219504/people A man] with [/EN#219506/other a lasso] and [/EN#219505/animals his horse] at [/EN#219508/other the rodeo] .

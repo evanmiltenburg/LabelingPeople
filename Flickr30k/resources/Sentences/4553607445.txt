@@ -1,0 +1,5 @@
+[/EN#177814/people A man] and [/EN#177817/people a woman] wearing [/EN#177823/clothing chef 's uniforms] having [/EN#177821/other a conversation] next to [/EN#177816/other a park bench] .
+[/EN#177815/people Two chefs] stand on [/EN#177826/scene a street] next to [/EN#177817/people a woman] sitting on [/EN#177816/other a bench] .
+[/EN#177814/people The man] in [/EN#177825/clothing white] is talking to [/EN#177817/people the women] by [/EN#177818/other the bench] .
+[/EN#177814/people A man] in [/EN#177819/clothing a chef hat] is talking to [/EN#177817/people a woman] in [/EN#177820/clothing a chef hat]
+[/EN#177815/people Two people] dressed as [/EN#177815/people cooks] speak to [/EN#0/notvisual each other] .

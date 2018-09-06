@@ -1,0 +1,5 @@
+[/EN#65942/people A man] and [/EN#65945/people a woman] dressed in [/EN#65948/clothing black] walk towards [/EN#65943/scene a gate] near [/EN#65947/scene a wooded area] .
+[/EN#65942/people A man] and [/EN#65945/people a woman] walk away with [/EN#65944/bodyparts their arms] around [/EN#0/notvisual each other] .
+[/EN#65942/people Man] and [/EN#65945/people woman] wearing [/EN#65946/clothing black] walk with [/EN#65944/bodyparts arms] around [/EN#0/notvisual each other] .
+[/EN#65941/people A couple] in [/EN#65946/clothing black clothes] are walking towards [/EN#65943/scene a white gate] .
+[/EN#65941/people Two people] dressed in [/EN#65946/clothing black] are leaving .

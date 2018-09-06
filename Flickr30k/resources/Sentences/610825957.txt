@@ -1,0 +1,5 @@
+[/EN#248085/people A marching band] in [/EN#248088/clothing white clothing] is performing in [/EN#248091/people a sports stadium full of fans] in [/EN#248092/clothing red] .
+[/EN#248085/people Various people] in [/EN#248088/clothing white uniforms] stand on [/EN#248086/scene a soccer field] in [/EN#248087/other a starburst pattern] .
+[/EN#248086/scene The stadium] is filled with [/EN#248093/people spectators] viewing [/EN#248090/scene a sporting event] .
+[/EN#248085/people A group of people] are in [/EN#248087/other a special formation] on [/EN#248086/scene a soccer field] .
+[/EN#248085/people Performers] doing as [/EN#0/notvisual they] should atop [/EN#248086/scene a soccer field] .

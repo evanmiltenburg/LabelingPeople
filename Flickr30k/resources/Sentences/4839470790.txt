@@ -1,0 +1,5 @@
+[/EN#209483/people Three older Asian people] sit on [/EN#209485/other a curb] in [/EN#209486/scene a parking lot] .
+[/EN#209483/people Three people] sit on [/EN#209485/other the curb] in [/EN#209486/scene a parking lot] .
+[/EN#209483/people Three people] sits on [/EN#209487/scene the sidewalk of the road] .
+[/EN#209483/people Three men] sit on [/EN#209485/scene the curb of a parking lot] .
+[/EN#209483/people homeless people] sitting on [/EN#0/notvisual ground]

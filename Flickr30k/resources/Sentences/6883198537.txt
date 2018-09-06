@@ -1,0 +1,5 @@
+[/EN#260314/people A bearded man] , wearing [/EN#260321/clothing a hat] and [/EN#260322/clothing vest] , is standing next to [/EN#260315/other an open fire] from [/EN#260319/other a stove] .
+[/EN#260314/people A man] leans towards [/EN#260315/other a fire] to check on [/EN#260320/other the contents of a pot] .
+[/EN#260314/people A man] lighting [/EN#260315/other a fire] in [/EN#0/notvisual what] appears to be [/EN#260316/scene a wood cabin] .
+[/EN#260314/people an older gentleman] is stoking [/EN#260315/other a fire] .
+[/EN#260314/people A man] starting [/EN#260317/scene a fireplace]

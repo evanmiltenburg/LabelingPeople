@@ -1,0 +1,5 @@
+[/EN#155609/people A man] is standing in front of [/EN#155610/other glass doors] with [/EN#155613/scene a blue spot] and [/EN#155614/scene a pink spot] .
+[/EN#155609/people Person] standing at [/EN#155610/other glass doors] with [/EN#155613/other big blue circle] and [/EN#155614/other big pink circle]
+[/EN#155609/people A man] stands at [/EN#155610/scene the entrance of Yerba Buena Center] for [/EN#155612/other the Arts] .
+[/EN#155609/people A man] is standing outside [/EN#155610/scene the glass doors of an art center] .
+[/EN#155609/people A man] walking through [/EN#155610/other glass double doors] .

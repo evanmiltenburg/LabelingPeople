@@ -1,0 +1,5 @@
+[/EN#171326/people A man] and [/EN#171329/people a woman] are walking on [/EN#171328/scene a street] at [/EN#171328/scene the top of a hill] .
+[/EN#171326/people A man] and [/EN#171329/people woman] are walking down [/EN#171328/scene the street] holding [/EN#171330/bodyparts hands] .
+[/EN#171325/people A couple] holding [/EN#171330/bodyparts hands] walks down [/EN#171328/scene a street] .
+[/EN#171325/people A couple] walk through [/EN#171331/scene a white brick town] .
+[/EN#171325/people Children] going home from [/EN#171333/other school] .

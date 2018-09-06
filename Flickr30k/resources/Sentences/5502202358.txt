@@ -1,0 +1,5 @@
+In [/EN#237711/scene a bird 's-eye view] , [/EN#237707/people a man] has jumped off [/EN#237708/scene a diving board] , facing [/EN#237712/other the poolside] , and is midair before hitting [/EN#237709/scene the water] .
+[/EN#237707/people This man] is doing [/EN#0/notvisual a back jump] off [/EN#237708/scene diving board] .
+[/EN#237707/people A man] jumping off [/EN#237708/scene a diving board] into [/EN#237709/scene a pool] .
+[/EN#237707/people A big man] falling backwards into [/EN#237709/scene the pool] .
+[/EN#237707/people A man] landing in [/EN#237709/scene a pool] .

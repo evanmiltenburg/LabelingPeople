@@ -1,0 +1,5 @@
+[/EN#200273/people Two women] walk past [/EN#200276/scene a shopping area] displaying [/EN#200277/other a large American flag] while [/EN#200272/people a man] in [/EN#200278/clothing a red shirt] and [/EN#200282/other sombrero] stands on [/EN#200279/other a ladder] .
+[/EN#200273/people Two women] walking by [/EN#200275/scene a building] with [/EN#200277/other a large American flag] and [/EN#200272/people a man] standing in [/EN#200278/clothing an orange shirt] .
+[/EN#200273/people Two asian ladies] walking by [/EN#200281/scene a store] with [/EN#200277/other an american flag] on [/EN#200283/other the outside wall] .
+[/EN#200273/people Two women] walk along [/EN#200274/scene the street] while [/EN#0/notvisual another] poses for [/EN#200284/other a picture] .
+[/EN#200272/people A man] walks through [/EN#200276/scene a busy street] .

@@ -1,0 +1,5 @@
+[/EN#282985/people People] riding down [/EN#282988/scene the street] including [/EN#282987/people a man] wearing [/EN#282989/clothing a red and white shirt] with [/EN#282995/other the number 20] on [/EN#0/notvisual it] .
+[/EN#282985/people A group of people] ride [/EN#282992/vehicles their bicycles] on [/EN#282988/scene a city street] .
+[/EN#282987/people Kid] in [/EN#282989/clothing red shirt] rides [/EN#282991/vehicles tall bicycle] by [/EN#282994/other stop signs] .
+[/EN#282993/scene A green street post] is covered in [/EN#282986/people fliers] .
+[/EN#282987/people A male] is riding [/EN#282990/vehicles his bike] on [/EN#282988/scene the road] .

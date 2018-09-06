@@ -1,0 +1,5 @@
+[/EN#64508/people A group of children] outside [/EN#64509/scene a building] includes [/EN#64507/people a boy] jumping in [/EN#64510/scene the grass] .
+[/EN#64507/people A boy] is jumping on [/EN#64510/scene the grass] whist [/EN#64512/people other children] are standing around .
+[/EN#0/notvisual There] is [/EN#64507/people a boy] in [/EN#64513/clothing blue shorts] and [/EN#64514/clothing a blue shirt] jumping in [/EN#64510/scene the grass] .
+[/EN#64508/people A group of kids] are standing outside together .
+[/EN#64508/people Some children] stand outside [/EN#64509/scene a building] .

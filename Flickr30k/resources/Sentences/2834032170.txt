@@ -1,0 +1,5 @@
+[/EN#75628/people A group of people] is standing to [/EN#75627/vehicles the left of two station wagons] with [/EN#75630/other the backs] open and large [/EN#75631/clothing white bags] are on [/EN#0/notvisual the ground] and in [/EN#75634/vehicles back of the car] on [/EN#75638/scene the left] .
+[/EN#75628/people A group of people] stand in [/EN#75629/scene the dirt] near [/EN#75627/vehicles two station wagons] , with [/EN#75637/scene some sacks] in [/EN#75630/vehicles the back of a station wagon] and [/EN#75636/scene other sacks] piled on [/EN#75629/scene the dirt] .
+[/EN#75628/people A group of people] in [/EN#75629/scene a yard] , with [/EN#75631/clothing big white bags] being removed or placed in [/EN#75627/vehicles 2 blue vehicles] .
+[/EN#75633/people Third world country workers] bring [/EN#75635/other collections of bananas] and [/EN#75632/other other supplies] .
+[/EN#75627/vehicles Two station wagons] unloading [/EN#75632/other cargo] in [/EN#75639/scene third world village] .

@@ -1,0 +1,5 @@
+[/EN#36511/people A woman] is reading [/EN#36513/other a book] while [/EN#36518/other standing] and waiting for [/EN#36514/vehicles/scene the subway] .
+[/EN#36511/people A woman] in [/EN#36512/clothing a blue coat] is reading [/EN#36513/other a book] in [/EN#36515/scene the subway station] .
+[/EN#36511/people A woman] in [/EN#36512/clothing blue coat] reads [/EN#36513/other a book] on [/EN#36517/other the subway platform] .
+[/EN#36511/people A woman] reads [/EN#36513/other a book] in [/EN#36515/scene a subway station] .
+[/EN#36516/people People] waiting for [/EN#36514/vehicles/scene the subway] .

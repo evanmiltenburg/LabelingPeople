@@ -1,0 +1,5 @@
+[/EN#29339/people A man] wearing [/EN#29340/clothing a beige shirt] and [/EN#29347/other cowboy hat ropes] [/EN#29342/animals a calf] while riding [/EN#29341/animals a brown horse] .
+[/EN#29339/people A man] in [/EN#29340/clothing a yellow shirt] and [/EN#29343/clothing a cowboy hat] lassos [/EN#29342/animals a calf] while riding [/EN#29341/animals a horse] .
+Looks like [/EN#29339/people a man] in [/EN#29345/other a rodeo] on [/EN#29341/animals a horse] about to catch [/EN#29342/animals another animal] .
+[/EN#29339/people Man] in [/EN#29343/clothing white hat] riding [/EN#29348/other horse lassos] [/EN#29342/other a small bovine] .
+[/EN#29339/people A rodeo man] is roping [/EN#29342/animals a calf] during [/EN#29344/other a competition] .

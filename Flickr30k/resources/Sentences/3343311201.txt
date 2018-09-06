@@ -1,0 +1,5 @@
+[/EN#111171/people A woman] wearing [/EN#111177/clothing overalls] standing at [/EN#111173/other an easel painting] [/EN#111174/other a picture] .
+[/EN#111171/people The lady] holds [/EN#111176/other her paintbrush] next to [/EN#111173/other the artist 's easel] .
+[/EN#111171/people A woman] standing on [/EN#111172/other a lawn painting] [/EN#111174/other a picture] .
+[/EN#111172/other An artist painting] on [/EN#111174/other a small canvas]
+[/EN#111171/people Girl] in [/EN#111172/other blue coverall painting]

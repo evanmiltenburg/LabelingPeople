@@ -1,0 +1,5 @@
+[/EN#266061/people A crowd of people] run [/EN#266064/other a marathon] in [/EN#266063/other a cityscape] with [/EN#266065/scene two skyscrapers] in [/EN#0/notvisual the background] .
+[/EN#266061/people Multiple people] in [/EN#266066/clothing running outfits] are running with [/EN#266063/other a cityscape] in [/EN#0/notvisual the background] .
+[/EN#266061/people A group of runners] are running towards [/EN#266065/scene two identical skyscrapers] .
+[/EN#266061/people A large group of people] are running [/EN#266064/other a marathon] through [/EN#266062/scene a city] .
+[/EN#266061/people Many people] run in [/EN#266064/other a marathon] through [/EN#266062/scene a city] .

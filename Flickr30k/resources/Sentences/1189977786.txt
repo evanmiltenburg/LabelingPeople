@@ -1,0 +1,5 @@
+[/EN#4888/animals One dog] is jumping into [/EN#4889/scene a pool] while [/EN#0/notvisual another] runs along side [/EN#4889/scene the pool 's edge] .
+[/EN#4890/animals A gray dog] runs along side [/EN#4889/scene a pool] while [/EN#4888/animals a yellow dog] jumps into [/EN#4889/scene the pool] .
+[/EN#4888/animals one tan dog] jumping in [/EN#4889/scene a pool] while [/EN#4890/animals the other gray dog] is on [/EN#4891/other the deck]
+[/EN#4892/animals Two dogs] jumping into [/EN#4889/scene a swimming pool] .
+[/EN#4888/animals A dog] jumping into [/EN#4889/scene a swimming pool] .

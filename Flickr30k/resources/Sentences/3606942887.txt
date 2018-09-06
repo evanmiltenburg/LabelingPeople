@@ -1,0 +1,5 @@
+[/EN#131131/people A man] with [/EN#131132/clothing a blue , yellow and green swimming cap] is wearing [/EN#131134/clothing goggles] and swimming .
+[/EN#131131/people The swimmer] is wearing [/EN#131132/clothing a green and yellow hat] and [/EN#131134/clothing goggles] .
+[/EN#131131/people A man] in [/EN#131134/clothing blue goggles] is in [/EN#131133/scene the swimming pool] .
+[/EN#131131/people A swimmer] doing [/EN#131135/other the breaststroke] in [/EN#131133/scene a pool] .
+[/EN#131131/people A swimmer] swimming [/EN#131136/animals butterfly] in [/EN#131133/scene a pool]

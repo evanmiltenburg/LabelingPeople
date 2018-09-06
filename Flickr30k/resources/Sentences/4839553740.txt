@@ -1,0 +1,5 @@
+[/EN#209500/animals lot of pigeons] roaming on [/EN#209499/scene the street] enjoying [/EN#209503/other the sun] .
+[/EN#0/notvisual There] are [/EN#209498/animals a bunch of pigeons] walking on [/EN#0/notvisual the ground] .
+[/EN#209498/people A flock of pigeons parades] across [/EN#209501/other an empty square] .
+[/EN#209498/animals A group of pigeons] walk on [/EN#209499/scene a sidewalk] .
+[/EN#209500/animals pigeons] scouring for [/EN#209502/other food] on [/EN#209499/scene sidewalk]

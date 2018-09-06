@@ -1,0 +1,5 @@
+[/EN#48000/people Three individuals] preparing [/EN#48002/other food] on [/EN#48004/other a kitchen counter] .
+[/EN#48000/people Three young adults] are cooking in [/EN#48001/scene a kitchen] together .
+[/EN#48000/people The students] are preparing [/EN#48002/other food] in [/EN#48001/scene the kitchen] .
+[/EN#48003/people The girl] in [/EN#48006/other the back] is wearing [/EN#48007/clothing a black shirt] .
+[/EN#48000/people Three students] preparing [/EN#48002/other a meal] with [/EN#48005/other onions] .

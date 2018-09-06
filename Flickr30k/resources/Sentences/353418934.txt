@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#125599/people a gray-haired man] wearing [/EN#125605/clothing a black and orange jacket] sitting on [/EN#125600/other chair] on [/EN#125604/scene the sidewalk] playing [/EN#125601/instruments an accordion] .
+Why , if [/EN#0/notvisual it] is n't [/EN#125603/other Bilbo Baggins] , playing [/EN#125601/instruments the accordion] .
+[/EN#125599/people A older man] sits on [/EN#125600/other a chair] playing [/EN#125601/instruments the accordion] .
+[/EN#125599/people Old man] playing [/EN#125601/instruments the accordion] on [/EN#125602/scene a street corner] .
+[/EN#125599/people A man] sits [/EN#125602/scene outside] and plays [/EN#125601/instruments a red accordion] .

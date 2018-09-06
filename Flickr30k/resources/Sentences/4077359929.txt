@@ -1,0 +1,5 @@
+[/EN#154416/people A man] and [/EN#154415/people a woman] are talking in [/EN#154421/scene a conference room] .
+[/EN#154415/people A blond woman] shows [/EN#0/notvisual what] is on [/EN#154420/other her computer screen] .
+[/EN#154416/people a man] in [/EN#154422/clothing a white shirt] leaning over [/EN#154417/other a computer] .
+[/EN#154415/people Woman] and [/EN#154416/people man] showing [/EN#154419/other an image] on [/EN#154417/other a laptop] .
+[/EN#154418/people Two people] working near [/EN#154417/other a laptop computer] .

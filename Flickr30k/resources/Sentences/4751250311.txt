@@ -1,0 +1,5 @@
+[/EN#198593/people A man] strolling down [/EN#198594/scene the sidewalk] wearing [/EN#198595/clothing a red shirt] and [/EN#198596/clothing jeans] .
+[/EN#198593/people A young black man] walks down [/EN#198594/scene a street] with [/EN#198597/animals a stray dog] on [/EN#0/notvisual it] .
+[/EN#198593/people An African American man] walking down [/EN#198594/scene the street] .
+[/EN#198593/people A black man] with [/EN#198595/clothing a red shirt] on is walking .
+[/EN#198593/people A guy] with [/EN#198595/clothing a red shirt] walking .

@@ -1,0 +1,5 @@
+[/EN#95186/people A young boy] in [/EN#95188/clothing a red , white , and blue jacket] and [/EN#95190/clothing blue shorts] pulls [/EN#95189/vehicles a wagon] in [/EN#95187/scene a garden] .
+[/EN#95186/people A little boy] wearing [/EN#95190/clothing shorts] and [/EN#95188/clothing a jacket] is pulling [/EN#95189/vehicles a red wagon] with [/EN#95191/other a pumpkin] in [/EN#0/notvisual it] .
+[/EN#95186/people Young boy] wheeling [/EN#0/notvisual his] take from [/EN#95187/scene the Pumpkin farm] .
+[/EN#95186/people A young child] is dragging [/EN#95189/vehicles his wheel cart] .
+[/EN#95186/people A boy] is pulling [/EN#95189/vehicles a red flier wagon]

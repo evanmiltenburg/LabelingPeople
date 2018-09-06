@@ -1,0 +1,5 @@
+[/EN#146023/people Blond man] crossing [/EN#146029/scene street] , in [/EN#146035/clothing white shirt] and [/EN#146033/clothing red t-shirt] , carrying [/EN#146032/clothing a white bag] .
+[/EN#146023/people A man] in [/EN#146025/clothing a blue-collared shirt] is seen watching [/EN#146023/people a man] at [/EN#146027/vehicles his cart] in [/EN#146034/scene the evening] .
+[/EN#146023/people A man] in [/EN#146026/clothing formal attire] plays [/EN#146028/instruments a piano] on [/EN#146029/scene the sidewalk of a city street] .
+[/EN#146023/people A man] dressed in [/EN#146030/clothing Victorian-era clothing] plays [/EN#146028/instruments a piano] in [/EN#146029/scene the street] .
+[/EN#146024/people Person] standing with [/EN#146027/vehicles a cart] on [/EN#146036/other wheels] in front of [/EN#146031/scene a brick building] .

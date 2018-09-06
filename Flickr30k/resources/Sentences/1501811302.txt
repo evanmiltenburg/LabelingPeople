@@ -1,0 +1,5 @@
+[/EN#15053/animals A black and white dog] runs around [/EN#15054/animals a farm animal] inside [/EN#15055/scene a fenced yard] .
+[/EN#15053/animals a black sheepdog] is chasing [/EN#15054/animals a gray sheep] around [/EN#15055/other a pen] .
+[/EN#15053/animals A border collie] rallies [/EN#15054/animals a lamb] in [/EN#15055/other a fenced] in [/EN#15055/scene area] .
+[/EN#15053/animals The dog] is chasing [/EN#15054/animals the goat] around [/EN#15055/scene the yard] .
+[/EN#15053/animals A dog] chases [/EN#15054/animals a sheep] in [/EN#15055/scene an enclosure] .

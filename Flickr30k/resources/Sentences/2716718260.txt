@@ -1,0 +1,5 @@
+[/EN#68329/people A young man] with [/EN#68333/bodyparts long , frizzy hair] pulled back in [/EN#68332/bodyparts a ponytail] and wearing [/EN#68330/clothing a blue button-up shirt] plays [/EN#68331/instruments the clarinet] .
+[/EN#68329/people A man] with [/EN#68332/bodyparts a ponytail] wearing [/EN#68330/clothing a blue collared shirt] is playing [/EN#68331/clothing an instrument 's mouthpiece] .
+[/EN#68329/people A man] with [/EN#68333/bodyparts long hair] tied back and wearing [/EN#68330/clothing a blue shirt] is playing [/EN#68331/instruments a clarinet] .
+[/EN#68329/people A young man] playing [/EN#68331/instruments the clarinet] wearing [/EN#68330/clothing a baby blue button-up shirt] .
+[/EN#68329/people A musician] is reading [/EN#68334/other music] while playing [/EN#68331/instruments his clarinet] .

@@ -1,0 +1,5 @@
+[/EN#189231/people A man] in [/EN#189233/clothing a white shirt] is reading [/EN#189232/other a newspaper] while leaning on [/EN#189234/other a rail] .
+[/EN#189231/people A man] leaning against [/EN#189234/scene a small fence] reading [/EN#189232/other a newspaper] .
+[/EN#189231/people An older man] at [/EN#189237/scene a train station] reads [/EN#189232/other the newspaper] .
+[/EN#189231/people A man] reading [/EN#189232/other a newspaper] while waiting for [/EN#189236/vehicles/scene a train] .
+[/EN#189231/people A man] in [/EN#189233/clothing a white shirt] is reading [/EN#189232/other a newspaper] .

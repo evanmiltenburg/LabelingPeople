@@ -1,0 +1,5 @@
+[/EN#153006/people A middle-aged man] is using [/EN#153011/other a hammer] and [/EN#153008/other metal spike] and splitting [/EN#153007/other a log] .
+[/EN#153010/bodyparts A gloved hand] holds [/EN#0/notvisual what] appears to be [/EN#153013/other an oversize nail] against [/EN#153007/other a log] .
+[/EN#153006/people A man] with [/EN#153012/bodyparts a mustache] prepares to hammer [/EN#153008/other a nail] into [/EN#153007/other a piece of tree] .
+[/EN#153006/people a white man] is [/EN#153014/other splitting wood indoors]
+[/EN#153006/people Man] hitting [/EN#153008/other a nail] into [/EN#153007/other a tree log] .

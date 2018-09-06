@@ -1,0 +1,5 @@
+[/EN#39008/people A man] is seated at [/EN#39013/other a counter] with [/EN#39009/other all types of delicious looking foods] , yet is completely unaffected , casually reading [/EN#39011/other his newspaper] .
+[/EN#39008/people A man] is reading [/EN#39011/other a newspaper] at [/EN#39010/scene a Chinese food store] .
+[/EN#39008/people A man] reading [/EN#39011/other the newspaper] at [/EN#39015/scene a sushi bar] .
+[/EN#39012/people Patrons] [/EN#39014/other a eating] at [/EN#39009/scene a rotating sushi bar] .
+[/EN#39009/other A spread of asian food] at [/EN#39010/scene a bar] .

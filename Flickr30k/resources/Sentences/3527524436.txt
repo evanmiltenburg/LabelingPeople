@@ -1,0 +1,5 @@
+[/EN#125057/people Person] in [/EN#125063/clothing black shirt] and [/EN#125058/clothing black tutu] waterskiing with [/EN#125066/bodyparts hands] over [/EN#125067/bodyparts head] and [/EN#125060/people people] in [/EN#0/notvisual the background] .
+[/EN#125057/people A man] in [/EN#125058/clothing a tutu] waterskies in [/EN#125059/scene a lake] surrounded by [/EN#125065/scene snow] .
+[/EN#125057/people A man] waterskiing during [/EN#125062/other the winter time] as [/EN#125060/people people] watch
+[/EN#125057/other Figure] dressed in [/EN#125058/clothing a black tutu] is on [/EN#125064/other jet-skis] .
+[/EN#125057/people A waterskier] moves through [/EN#125059/scene the water] .

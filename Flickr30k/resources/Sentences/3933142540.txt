@@ -1,0 +1,5 @@
+[/EN#148600/people An older man] wearing [/EN#148602/clothing a polo shirt] walking down [/EN#148601/scene a street] lined with [/EN#148605/scene stores] and [/EN#148606/other green trees] as [/EN#148607/vehicles cars] pass by .
+[/EN#148600/people A man] walking with [/EN#148608/bodyparts his hands] in [/EN#148604/clothing his pants pockets] .
+[/EN#148600/people A chubby man] walking down [/EN#148601/scene the sidewalk] .
+[/EN#148600/people A man] is walking across [/EN#148601/scene the street] .
+[/EN#148600/people Old man] walking on [/EN#148603/scene the sidewalk] .

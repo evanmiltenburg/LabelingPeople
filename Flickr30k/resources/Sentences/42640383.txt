@@ -1,0 +1,5 @@
+[/EN#160782/people A man] wearing [/EN#160785/clothing a blue t-shirt] and [/EN#160787/clothing blue jeans] standing in front of [/EN#160783/scene a lily covered pond] next to [/EN#160788/other a hillside] .
+[/EN#160782/people A young man] poses for [/EN#160789/other a pictures] while standing in front of [/EN#160783/scene a pond] .
+[/EN#160782/people A man] stands in front of [/EN#160783/scene a pond] with [/EN#160786/scene a green hill] behind [/EN#0/notvisual it] .
+[/EN#160782/people A blond man] with [/EN#160784/clothing a backpack] stands next to [/EN#160783/scene a pond] .
+[/EN#160782/people A man] standing in front of [/EN#160783/scene a pond]

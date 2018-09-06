@@ -1,0 +1,5 @@
+[/EN#118885/people A person] is standing on [/EN#118886/other a brick ledge] taking [/EN#118889/other a picture of something] in [/EN#0/notvisual the distance] .
+[/EN#118885/people A woman] with [/EN#118890/bodyparts long hair] pointing [/EN#118887/other her camera] skyward as [/EN#0/notvisual she] stands on [/EN#118886/other a brick wall] .
+[/EN#118885/people The woman] is holding [/EN#118887/other a camera] and standing on [/EN#118886/other a brick wall] .
+[/EN#118885/people Woman] standing on [/EN#118886/other a brick wall] and taking [/EN#118888/other a picture]
+[/EN#118885/people A woman] takes [/EN#118891/other a photograph] .

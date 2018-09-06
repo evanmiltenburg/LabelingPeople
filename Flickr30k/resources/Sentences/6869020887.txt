@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#259855/people a woman] at [/EN#259860/scene the window of a building] getting ready to hang [/EN#259859/clothing a small piece of clothing] on [/EN#259862/scene a clothesline right outside] , [/EN#0/notvisual which] already contains [/EN#259856/clothing some articles of clothing] .
+[/EN#259855/people A person] in [/EN#259863/clothing a tan] and [/EN#259864/clothing blue sweater] hanging [/EN#259858/clothing clothes] on [/EN#259856/other a clothesline] outside [/EN#259860/scene the window of her building] .
+[/EN#259855/people A woman] is standing at [/EN#259860/other her window] hanging [/EN#259858/clothing clothes] to dry from [/EN#259856/other a clothesline] .
+[/EN#259855/people Woman] in [/EN#259860/other the window] just trying to dry [/EN#259856/clothing some socks] .
+[/EN#259855/people A woman] hangs [/EN#259857/clothing socks] on [/EN#259856/other a line] outside [/EN#259860/other her window] .

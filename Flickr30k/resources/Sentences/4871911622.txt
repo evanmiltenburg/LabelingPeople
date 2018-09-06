@@ -1,0 +1,5 @@
+[/EN#213506/people People] standing in [/EN#213508/other line] for at [/EN#213513/scene a ticket booth] for [/EN#213511/scene a fair] .
+[/EN#213506/people A crowd] standing in [/EN#213508/other line] for [/EN#213512/other an amusement park ride] .
+[/EN#213509/other Folks] are in [/EN#213514/other line] for [/EN#213515/other tickets] at [/EN#213507/scene an amusement park] .
+[/EN#213506/people People] waiting in [/EN#213508/other food line] at [/EN#213507/scene a fair] .
+[/EN#213506/people A line of people] for [/EN#213510/other a carnival ride] .

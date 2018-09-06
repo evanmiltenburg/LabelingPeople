@@ -1,0 +1,5 @@
+[/EN#13118/people A group of men] are sitting around [/EN#13119/other a table] [/EN#0/notvisual that] has [/EN#13120/other bottles of beer] on [/EN#0/notvisual it] .
+[/EN#13118/people A group of men] sit around [/EN#13119/other a table] laden with [/EN#13120/other drinks] and [/EN#13120/other beer bottles] .
+[/EN#13118/people A group of guys] gathered and drinking at [/EN#13121/scene a bar] .
+[/EN#13118/people A group of men] are at [/EN#13121/scene a bar] having [/EN#13120/other drinks] .
+[/EN#13118/people A group of men] is drinking at [/EN#13119/other a table] .

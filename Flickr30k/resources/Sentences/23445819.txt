@@ -1,0 +1,5 @@
+[/EN#43064/animals a beagle] and [/EN#43061/animals a golden retriever] wrestling in [/EN#43063/scene the grass]
+[/EN#43060/animals Two puppies] are playing in [/EN#43063/scene the green grass] .
+[/EN#43060/animals two puppies] playing around in [/EN#43063/scene the grass]
+[/EN#43061/animals Two dogs] are wrestling in [/EN#43063/scene the grass] .
+[/EN#43060/animals Two puppies] play in [/EN#43063/scene the grass]

@@ -1,0 +1,5 @@
+[/EN#179812/people A brunette man] wearing [/EN#179814/clothing a pinkish dress shirt] , [/EN#179816/clothing jeans] , and [/EN#179815/clothing glasses] is leaning against [/EN#179817/other a red pole] while reading [/EN#179813/other a book] in [/EN#179820/scene a subway station] .
+[/EN#179812/people A man] in [/EN#179816/clothing jeans] and [/EN#179815/clothing glasses] stands next to [/EN#179817/other a subway rail] , leaning against [/EN#179817/scene a post] and reading [/EN#179813/other a book] .
+[/EN#179812/people Man] in [/EN#179816/clothing jeans] , [/EN#179821/other button] up [/EN#179814/clothing shirt] , and wearing [/EN#179815/clothing glasses] reading [/EN#179813/other a book] .
+[/EN#179812/people A man] wearing [/EN#179815/clothing glasses] is leaning against [/EN#179822/other the wall] reading [/EN#179813/other a book] .
+[/EN#179812/people A man] in [/EN#179814/clothing white shirt] is reading while waiting on [/EN#179823/vehicles/scene train] .

@@ -1,0 +1,5 @@
+[/EN#270635/people A person] wearing [/EN#270643/clothing a helmet] and [/EN#270644/clothing racing gear] is jumping [/EN#270637/other a four wheeler] up [/EN#270636/other a dune] .
+[/EN#270635/people A quad driver] goes racing up [/EN#270636/other a sand dune] and catches [/EN#0/notvisual air] .
+[/EN#270635/people A brave person] rides [/EN#270637/other their quad] in [/EN#270639/scene the desert] .
+[/EN#270635/people An ATV rider] gets [/EN#0/notvisual air] out in [/EN#270642/other the sand dunes] .
+[/EN#270635/people A man] is riding [/EN#270637/vehicles an ATV] through [/EN#270639/scene the desert] .

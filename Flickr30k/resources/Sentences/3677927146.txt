@@ -1,0 +1,5 @@
+[/EN#136267/animals Several large dogs] are running through [/EN#136268/scene a large grassy area] .
+[/EN#136267/animals Three dogs] on [/EN#136268/scene grass] running towards [/EN#0/notvisual the camera] .
+[/EN#136267/animals Three dogs] run through [/EN#136268/scene a manicured lawn] .
+[/EN#136267/animals Three dogs] running in [/EN#136268/scene a field of grass] .
+[/EN#136267/animals Three dogs] moving through [/EN#136268/scene grass] .

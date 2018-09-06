@@ -1,0 +1,5 @@
+[/EN#192938/people A woman] with [/EN#192950/bodyparts black hair] and [/EN#192944/clothing a purple scarf] looks at [/EN#192940/clothing a pink scarf] from [/EN#192942/people a vendor] in [/EN#192939/scene a street market] .
+[/EN#192938/people An asian woman] seems to be buying [/EN#192949/other something] in [/EN#192946/scene a tent] where [/EN#0/notvisual there] are [/EN#192948/people other vendors] .
+[/EN#192938/people A woman] looks at [/EN#192940/other a red scarf of one] of [/EN#192942/people the vendors] set up in [/EN#192945/scene the street] .
+[/EN#192938/people A woman] examines [/EN#192940/clothing fabric or clothing] in [/EN#192939/scene an open-air market] .
+[/EN#192938/people A woman] is shopping in [/EN#192939/scene the night street market] .

@@ -1,0 +1,5 @@
+[/EN#42330/people A man] dressed in [/EN#42335/clothing black] is bowling in [/EN#42334/other an attempt] to knock down [/EN#42332/other the last pin] at [/EN#42339/scene a bowling alley] .
+[/EN#42330/people A man] sends [/EN#42331/other a bowling ball] down [/EN#42337/other the lane] to pick up [/EN#42332/other the last pin of a spare] .
+[/EN#42330/people A person] in [/EN#42335/clothing black] tries to knock [/EN#42332/other the last pin] down in [/EN#42336/other a game of bowling] .
+[/EN#42330/people A man] throws [/EN#42331/other the bowling ball] to knock down [/EN#42332/other the last pin] .
+[/EN#42330/people A person] is attempting to pick up [/EN#42333/other a spare] while bowling .

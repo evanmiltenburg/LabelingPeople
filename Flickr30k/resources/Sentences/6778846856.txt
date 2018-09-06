@@ -1,0 +1,5 @@
+[/EN#257977/people Asian man] wearing [/EN#257979/clothing glasses] and [/EN#257981/clothing a sweater] plays [/EN#257978/instruments acoustic guitar] in [/EN#257980/vehicles the backseat of car] while driving on [/EN#257983/scene a two-lane road] .
+[/EN#257977/people A man] wearing [/EN#257979/clothing glasses] sits in [/EN#257980/vehicles the backseat of a car] and plays [/EN#257978/instruments a guitar] while looking out [/EN#257982/other the window] .
+[/EN#257977/people An Asian man] playing [/EN#257978/instruments a black guitar] in [/EN#257980/vehicles the backseat of a car] .
+[/EN#257977/people A man] in [/EN#257980/vehicles the backseat of a moving car] is playing [/EN#257978/instruments a guitar] .
+[/EN#257977/people A guy] is playing [/EN#257978/instruments his guitar] in [/EN#257980/vehicles the backseat of a car] .

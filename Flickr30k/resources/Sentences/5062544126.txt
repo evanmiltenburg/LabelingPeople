@@ -1,0 +1,5 @@
+[/EN#227806/people A man] in [/EN#227808/clothing a bright yellow and orange safety vest] is showing [/EN#227811/people a white architectural model] to [/EN#227817/people four people] sitting at [/EN#227815/other a table] in [/EN#227814/scene a room] .
+[/EN#227806/people A man] in [/EN#227808/clothing a fluorescent construction vest] is showing off [/EN#227811/scene a model of a building] at [/EN#227813/other a meeting] .
+[/EN#227806/people A contractor] explaining [/EN#227816/other details] about [/EN#227809/other a construction] on [/EN#227811/scene a scale model of the building] .
+[/EN#0/notvisual There] are [/EN#227807/people five people] looking at [/EN#227810/other a white object] .
+[/EN#227807/people A group of people] in [/EN#227812/people a conference] .

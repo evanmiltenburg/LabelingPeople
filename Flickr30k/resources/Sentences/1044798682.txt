@@ -1,0 +1,5 @@
+[/EN#1169/people A man] wearing [/EN#1172/clothing a hat] and [/EN#1170/clothing a white shirt] is cleaning [/EN#1174/other windows] .
+[/EN#1169/people A man] in [/EN#1170/clothing a white shirt] stands high up on [/EN#1171/other scaffolding]
+[/EN#1169/people A man] stands on [/EN#1171/other boards] on top of [/EN#1171/other a huge ladder] .
+[/EN#1169/people Man] works on top of [/EN#1171/other scaffolding] .
+[/EN#1169/people A guy] works on [/EN#1175/scene a building] .

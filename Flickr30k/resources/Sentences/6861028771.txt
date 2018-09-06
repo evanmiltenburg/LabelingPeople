@@ -1,0 +1,5 @@
+[/EN#259647/people Local villagers] are riding [/EN#259657/other oxen] carrying [/EN#259650/other hay] in [/EN#259656/people man] made [/EN#259648/vehicles wooden carriages] traveling on [/EN#259649/scene a narrow street] with [/EN#259655/other gavel] and [/EN#259651/other trees] on [/EN#0/notvisual each side] .
+[/EN#259652/vehicles A line of ox carts] is proceeding toward [/EN#0/notvisual the camera] on [/EN#259658/scene the left side of a road] with [/EN#259651/other trees] on [/EN#0/notvisual both sides] .
+[/EN#259648/vehicles Cattle-drawn wagons] traveling down [/EN#259649/scene a paved road] and loaded with [/EN#259650/other sticks] .
+[/EN#259648/vehicles A row of old fashion wagons] being pulled by [/EN#259659/animals cattle] .
+[/EN#259647/people A group of farmers] riding on [/EN#259648/vehicles cow drawn carriages] .

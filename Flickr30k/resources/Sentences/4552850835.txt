@@ -1,0 +1,5 @@
+[/EN#177689/people A person] dressed in [/EN#177693/clothing black] , standing in [/EN#177690/scene the doorway of a big cement building] .
+[/EN#177689/people A person] in [/EN#177692/clothing a white hat] stands in [/EN#177690/scene the doorway of a white concrete building] .
+[/EN#0/notvisual There] is [/EN#177689/people a man] standing in [/EN#177690/scene the doorway] and in front of [/EN#177691/other a tree] .
+[/EN#0/notvisual It] is hard to see [/EN#177689/people this person] standing under [/EN#177691/other a tall tree] .
+[/EN#177689/people The person] is standing in [/EN#177690/scene the doorway] beneath [/EN#177691/other the tree] .

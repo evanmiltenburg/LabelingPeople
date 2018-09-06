@@ -1,0 +1,5 @@
+[/EN#58604/people A man] in [/EN#58608/clothing a yellow shirt] is playing [/EN#58610/scene slide] on [/EN#58605/instruments an acoustic guitar] on [/EN#58607/scene a stage] with [/EN#58606/other a microphone] .
+[/EN#58604/people A middle-aged married guy] in [/EN#58608/clothing a yellow shirt] is sweating and playing [/EN#58605/instruments a brown guitar]
+[/EN#58604/people A guitarist] plays at [/EN#58606/other a microphone] with [/EN#58611/instruments some drums] visible past [/EN#0/notvisual him] .
+[/EN#58604/people A man] in [/EN#58608/clothing a yellow shirt] covered in [/EN#58612/other sweat] playing [/EN#58605/instruments a guitar] .
+[/EN#58604/people Middle-age male musician] playing [/EN#58605/instruments his guitar] on [/EN#58607/scene a stage]

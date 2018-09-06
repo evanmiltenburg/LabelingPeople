@@ -1,0 +1,5 @@
+[/EN#102709/people A girl] wearing [/EN#102710/clothing black athletic clothing] with [/EN#102711/other the number 1102] on [/EN#102712/clothing her jersey] runs across [/EN#102713/scene some grass] .
+[/EN#102709/people A woman] wearing [/EN#102710/clothing a black athletic uniform] has [/EN#102711/other the number 1102] on [/EN#0/notvisual her] and [/EN#0/notvisual she] is running .
+[/EN#102709/people A female soccer player] dressed in [/EN#102710/clothing black] .
+[/EN#102709/people Women] running on [/EN#102713/scene a soccer field] .
+[/EN#102709/people A girl] in [/EN#102710/clothing black] runs [/EN#102714/other a race] .

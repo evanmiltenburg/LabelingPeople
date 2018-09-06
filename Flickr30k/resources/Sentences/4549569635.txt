@@ -1,0 +1,5 @@
+[/EN#177366/people An elderly man] wearing [/EN#177367/clothing a bright blue jacket] sitting in [/EN#177370/other a wheelchair] with [/EN#177372/other an oxygen container] .
+[/EN#177366/people A man] in [/EN#177370/other a wheelchair] is sitting outside holding [/EN#177371/other a beverage] and looking in [/EN#177373/other a window] .
+[/EN#177366/people A man] sits in [/EN#177370/other a wheelchair] on [/EN#177369/scene a sidewalk] with [/EN#177368/clothing a portable oxygen tank] at [/EN#0/notvisual his side] .
+[/EN#177366/people An old man] wearing [/EN#177367/clothing a blue shirt] sitting in [/EN#177370/other a wheelchair] by [/EN#177368/clothing his oxygen tank] .
+[/EN#177366/people An elderly person] wearing [/EN#177367/clothing a blue jacket] is in [/EN#177370/other a wheelchair] on [/EN#177369/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#198370/other A crowd of people lines] [/EN#198374/scene the street] with [/EN#198371/people the person] standing [/EN#198378/other closest] to [/EN#0/notvisual the camera] wearing [/EN#198381/clothing sunglasses] and [/EN#198382/clothing a v-neck shirt] .
+[/EN#198371/people A man] standing in [/EN#198372/other the middle of times square] looking up at [/EN#198380/other something] .
+[/EN#0/notvisual There] is [/EN#198373/scene a crosswalk] full of [/EN#198370/people pedestrians] crossing in [/EN#198374/scene a downtown area] .
+[/EN#198370/people A large crowd] walking [/EN#198373/scene the city streets] at [/EN#198379/other nighttime] .
+[/EN#198375/other A busy city square] in [/EN#198376/scene an asian country] .

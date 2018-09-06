@@ -1,0 +1,5 @@
+[/EN#84586/people A woman] wearing [/EN#84592/clothing a black apron] , [/EN#84591/scene waves] toward [/EN#84588/scene the street] with [/EN#84590/bodyparts one hand] while [/EN#84587/vehicles a yellow car] drives by .
+[/EN#84586/people A girl] is standing in [/EN#84588/scene the street] waving [/EN#84590/bodyparts/people her arm] as [/EN#84589/vehicles cars] pass by .
+[/EN#84586/people The woman] is trying to hail [/EN#84587/vehicles a taxi] while [/EN#84589/vehicles cars] speed past [/EN#0/notvisual her] .
+[/EN#84586/people A asian women] on [/EN#84588/scene the side of a road] .
+[/EN#84586/people Lady] walking past [/EN#84587/vehicles a driving taxi] .

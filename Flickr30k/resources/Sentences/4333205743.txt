@@ -1,0 +1,5 @@
+[/EN#163693/people A man] in [/EN#163694/clothing a wide brimmed hat] carrying [/EN#163697/other a basket] walking down [/EN#163695/scene railroad tracks] .
+[/EN#163693/other A main] wearing [/EN#163694/clothing a cowboy styled hat] standing on [/EN#163695/people a railroad] .
+[/EN#163693/people A man] with [/EN#163694/clothing an orange hat] walks down [/EN#163695/scene a railroad track] .
+[/EN#163693/people A man] carrying [/EN#163700/other plants] and [/EN#163699/other herbs] along [/EN#163695/scene a train track] .
+[/EN#163693/people Man] carrying [/EN#163701/other produce] walking down [/EN#163695/scene train tracks]

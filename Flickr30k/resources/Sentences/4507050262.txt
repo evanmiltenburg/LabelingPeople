@@ -1,0 +1,5 @@
+[/EN#173867/people Asian male] uses [/EN#173868/vehicles a hand truck] to deliver [/EN#173871/other a stack of produce filled boxes] .
+[/EN#173867/people A man] in [/EN#173873/clothing a gray jacket] is pushing [/EN#173868/vehicles a cart] down [/EN#173869/scene the road] past [/EN#173872/vehicles a bicycle] .
+[/EN#173867/people A person] wheeling [/EN#173871/other a stack of boxes] on [/EN#173870/other a dolly] down [/EN#173869/scene a street] .
+[/EN#173867/people A man] pushes [/EN#173870/other a dolly] with [/EN#173871/other some boxes] down [/EN#173869/scene a city street] .
+[/EN#173867/people Delivery person] delivering [/EN#173871/other goods] to be sold .

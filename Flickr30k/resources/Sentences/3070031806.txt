@@ -1,0 +1,5 @@
+[/EN#91341/animals A dog] running on [/EN#91340/other the sand] by [/EN#91340/scene the beach] while [/EN#91339/people his owner] looks at [/EN#91344/animals the other dogs] on [/EN#91340/scene the beach] .
+[/EN#91339/people A man] is standing at [/EN#91345/scene the shoreline] on [/EN#91340/scene the beach] with [/EN#91341/animals 4 dogs] .
+[/EN#91339/people A man] is standing in front of [/EN#91341/animals 4 dogs] on [/EN#91340/scene the beach] .
+[/EN#91339/people Man] watching [/EN#91342/animals four dogs] play on [/EN#91340/scene the beach]
+[/EN#91339/people A man] and [/EN#91342/animals 4 dogs] playing on [/EN#91340/scene the beach] .

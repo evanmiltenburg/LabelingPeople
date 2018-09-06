@@ -1,0 +1,5 @@
+[/EN#214900/people A girl] dressed in [/EN#214912/clothing a black shirt] sits on [/EN#214905/other a curb] next to [/EN#214901/people a man] in [/EN#214913/clothing a white shirt] while [/EN#214909/other others] gather around [/EN#214902/other a green statue] in [/EN#214906/other the square] .
+[/EN#214901/people Man] and [/EN#214900/people women] sitting on [/EN#214911/other the steps] in [/EN#214910/scene the evening] with [/EN#214907/other many pillars] around [/EN#0/notvisual them] .
+[/EN#214903/people A couple] are sitting and looking at [/EN#214902/other a green colored statue] .
+[/EN#214904/people A crowd of people] gathers around [/EN#214902/other a green statue] .
+[/EN#0/notvisual This] is [/EN#214908/scene nice place] to relax and chat .

@@ -1,0 +1,5 @@
+[/EN#155591/animals A black and brown dog] runs through [/EN#155592/scene the snow] next to [/EN#155594/other some trees] .
+[/EN#155591/animals a dog] with [/EN#155593/other a shiny dog tags changes course of his stride]
+[/EN#155591/animals A dog] is running in [/EN#155592/scene the snow] .
+[/EN#155591/animals A dog] runs through [/EN#155592/scene the snow] .
+[/EN#155591/animals A dog] in [/EN#155592/scene the snow] .

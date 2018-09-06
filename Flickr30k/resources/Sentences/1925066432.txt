@@ -1,0 +1,5 @@
+[/EN#23293/people A brown-haired woman] wearing [/EN#23298/clothing glasses] , [/EN#23282/clothing a black long-sleeved shirt] and [/EN#23301/clothing pin striped pants] flipping through [/EN#23289/other a book] and smiling as [/EN#23284/people a blond woman] wearing [/EN#23291/clothing a white sweatshirt] and [/EN#23296/clothing a white shoulder bag] on [/EN#23300/bodyparts her right shoulder] watches smiling .
+[/EN#23281/people A woman] in [/EN#23297/other black flips] through [/EN#23289/other pages of a book] in [/EN#23290/scene a library] as [/EN#23283/people a girl] in [/EN#23291/clothing white] wearing [/EN#23299/clothing headphones] smiles .
+[/EN#23293/people Two women] in [/EN#23290/scene library] [/EN#23281/people the librarian] assist [/EN#23283/people the other women] to help in [/EN#23289/other her research] .
+[/EN#23281/people Librarian] in [/EN#23282/clothing black] and [/EN#23283/people a library patron] in [/EN#23302/bodyparts white thumb] through [/EN#23289/other a book] .
+[/EN#23281/people A teacher] is explaining [/EN#23295/other answers] to [/EN#23283/people a student] from [/EN#23289/other a book] .

@@ -1,0 +1,5 @@
+[/EN#64007/people A young woman] and [/EN#64006/people her daughter] play with [/EN#64008/other a blue and white beach ball] in [/EN#64010/scene the grass] .
+[/EN#64006/people Girl] with [/EN#64013/clothing tan dress] and [/EN#64009/clothing a hat] with [/EN#64007/people woman] in [/EN#64011/clothing a gray top] with [/EN#64008/other blue ball] on [/EN#0/notvisual ground] .
+[/EN#64006/people A young asian girl] with [/EN#64007/people a woman] plays with [/EN#64008/other a blue ball] in [/EN#64012/other a part] setting .
+[/EN#64006/people A little girl] with [/EN#64009/clothing a hat] playing [/EN#64008/other ball] with [/EN#64007/people her mom] .
+[/EN#64006/people A child] and [/EN#64007/people her mother] are playing [/EN#64008/other ball] in [/EN#64010/scene a park] .

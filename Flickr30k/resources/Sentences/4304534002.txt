@@ -1,0 +1,5 @@
+[/EN#162501/people A few people] relax at [/EN#162500/scene a large lake] with [/EN#162510/scene a view of the mountains] , with [/EN#162507/people some people] on [/EN#162502/scene the beach] under [/EN#162508/clothing umbrellas] and [/EN#162509/other the rest] swimming in [/EN#162503/scene the lake] .
+[/EN#162500/scene A beautiful lake] in [/EN#162515/scene the mountains] with [/EN#162507/people people] sitting under [/EN#162508/clothing umbrellas] on [/EN#0/notvisual it] 's [/EN#162502/scene shore] while [/EN#162512/people other people] swim , [/EN#162511/vehicles/scene boat] and [/EN#162514/scene raft] in [/EN#162503/scene the water] .
+[/EN#0/notvisual There] are [/EN#162507/people several people] swimming in [/EN#162500/scene the lake] while [/EN#162513/other others] are sitting under [/EN#162508/clothing umbrellas] on [/EN#162502/scene the beach] .
+[/EN#162501/people A group of people] are sitting under [/EN#162508/clothing umbrellas] on [/EN#162502/scene the beach] .
+[/EN#162501/people People] sit and relax along [/EN#162502/scene the beach of a lake] .

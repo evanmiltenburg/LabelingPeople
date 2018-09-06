@@ -1,0 +1,5 @@
+[/EN#93354/people A skateboarder] is performing [/EN#0/notvisual a grab trick] while hovering above [/EN#93356/scene a ramp] , [/EN#0/notvisual which] is located within [/EN#93358/scene a city] .
+[/EN#93354/people A skateboarder] soars above [/EN#93356/scene a ramp] .
+[/EN#93354/people Skateboarder] in [/EN#93357/scene midair] at [/EN#93359/scene a park] .
+[/EN#93354/people A skateboarder] makes [/EN#0/notvisual a high jump] .
+[/EN#93354/people Man] in [/EN#93357/scene midair] on [/EN#93360/other skateboard]

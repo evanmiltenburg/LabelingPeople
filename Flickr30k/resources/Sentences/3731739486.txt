@@ -1,0 +1,5 @@
+[/EN#140228/people Four people] , [/EN#140229/people One male] in [/EN#140240/clothing a blue shirt] and [/EN#140241/clothing slacks] with [/EN#140225/people three females] , [/EN#140233/other one] in [/EN#140242/clothing pink] , [/EN#140229/other one] in [/EN#140243/clothing blue] , and [/EN#140238/other the other] with [/EN#140244/clothing a white shirt] and [/EN#140245/clothing blue blouse] , in [/EN#140231/other line] to enter [/EN#140230/vehicles/scene a yellow school bus] , while [/EN#140233/people a female] in [/EN#140237/other pink hold paper] is on [/EN#140239/other the phone] .
+[/EN#140226/people A line of people] are leaving [/EN#140234/scene the sidewalk] and entering [/EN#140230/vehicles/scene a yellow school bus] .
+[/EN#140227/people 3 women] and [/EN#140229/people a man] waiting in [/EN#140231/other line] to board [/EN#140230/vehicles/scene a yellow bus] .
+[/EN#140228/people 4 young adults] are lined up to get onto [/EN#140230/vehicles/scene a school bus] .
+[/EN#140228/people people] are getting ready to get on [/EN#140230/vehicles/scene the bus]

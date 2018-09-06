@@ -1,0 +1,5 @@
+[/EN#187544/people A woman] holding [/EN#187547/clothing a black umbrella] and wearing [/EN#187548/clothing black boots] , [/EN#187538/people a man] in [/EN#187549/clothing a black vest] and [/EN#187550/clothing pants] with [/EN#187551/clothing a black messenger bag] , and [/EN#187538/people a man] dressed in [/EN#187552/clothing a black suit] walking [/EN#187541/animals a black poodle] walk in front of [/EN#187540/other a mural] depicting [/EN#187542/animals a life-sized jumping cow] in [/EN#187545/scene a field] .
+[/EN#187538/people A man] walking [/EN#187541/animals a gray poodle] is walking past [/EN#187540/other a billboard] with [/EN#187542/animals a cow] on [/EN#0/notvisual it] .
+[/EN#187543/scene A busy sidewalk] , overlooked by [/EN#187540/animals a painting of a cow] .
+[/EN#187539/people Three people] walk by [/EN#187540/animals a mural of a cow] .
+[/EN#187539/people People] walking in [/EN#187546/other the platform] .

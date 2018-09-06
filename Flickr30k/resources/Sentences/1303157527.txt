@@ -1,0 +1,5 @@
+[/EN#7985/people A food vendor] is standing on [/EN#7986/scene the sidewalk] next to [/EN#7987/vehicles his food cart] looking at [/EN#7988/people a black woman] walking by .
+[/EN#7985/people A man] with [/EN#7989/clothing a red apron] and [/EN#7990/clothing a white cook 's hat] is standing in front of [/EN#7987/vehicles his food cart] .
+[/EN#7985/people A man] sells [/EN#7991/other food] from [/EN#7987/vehicles a cart] on [/EN#7986/scene the street] while [/EN#7992/people pedestrians] walk past .
+[/EN#7987/other A mobile food station] set up to serve [/EN#7994/people patrons] on [/EN#7986/scene the city streets] .
+[/EN#7992/people People] are walking by [/EN#7987/vehicles a food cart] in [/EN#7995/scene the city] .

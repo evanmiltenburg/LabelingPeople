@@ -1,0 +1,5 @@
+[/EN#100634/people A woman] in [/EN#100635/clothing a Nike hat] and [/EN#100640/clothing black apron] scoops [/EN#100636/other something] out of [/EN#100639/other a pot] .
+[/EN#100634/people Woman] frying up [/EN#100641/other some goods] at [/EN#100637/other a festival] .
+[/EN#100634/people A woman] with [/EN#100635/clothing a Nike hat] on [/EN#100636/other is cooking] .
+[/EN#100634/people A woman] with [/EN#100635/clothing a Nike hat] hard at [/EN#100642/other work] .
+[/EN#100634/people The woman] cooks over [/EN#100638/other the hot fire] .

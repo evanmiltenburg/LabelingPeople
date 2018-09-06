@@ -1,0 +1,5 @@
+[/EN#157878/people A woman] wearing [/EN#157880/clothing a red work man 's hat] and [/EN#157881/clothing red jacket] is hiking in [/EN#157882/scene the snow] topped [/EN#157879/scene mountains] .
+[/EN#157878/people A person] wearing [/EN#157881/clothing a red jacket] and [/EN#157880/clothing helmet] walks up near [/EN#157882/other the large rock] .
+[/EN#157878/people A person] in [/EN#157881/clothing a red jacket] and [/EN#157880/clothing a red hard hat] stands near [/EN#157879/scene a mountain] .
+[/EN#157878/people The person] wearing [/EN#157880/clothing the red hard hat] is on [/EN#157879/scene the mountain] .
+[/EN#157878/people A hiker] in [/EN#157883/clothing a red] on [/EN#157879/scene a snowy peak] .

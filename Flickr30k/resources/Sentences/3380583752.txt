@@ -1,0 +1,5 @@
+[/EN#114334/people Someone] wearing [/EN#114335/clothing a conical hat] is gardening in [/EN#0/notvisual the foreground] while [/EN#114336/people people] dressed in [/EN#114342/clothing blue] are looking out in [/EN#0/notvisual the opposite direction] .
+[/EN#114334/people One person] wearing [/EN#114335/clothing a Chinese hat] , gardening , while [/EN#114336/people a group of people] facing [/EN#0/notvisual the opposite direction] stand behind [/EN#0/notvisual him] .
+[/EN#114334/people A worker] in [/EN#114335/clothing a white straw hat] with [/EN#114337/clothing pink gloves] on tending [/EN#114340/scene a small garden] .
+[/EN#114334/people A gardener] in [/EN#114339/clothing a blue jumpsuit] and [/EN#114337/clothing pink gloves] is kneeling in [/EN#114343/scene the bushes] .
+[/EN#114334/people A worker] is gardening in [/EN#114340/other a variety of plants] .

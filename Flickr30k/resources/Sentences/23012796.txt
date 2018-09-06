@@ -1,0 +1,5 @@
+[/EN#40045/people A tennis player] wearing [/EN#40050/clothing a black and white top] and [/EN#40051/clothing black pants] strikes [/EN#40047/other the tennis ball] .
+[/EN#40045/people A blond woman] playing [/EN#40049/other tennis] , in front of [/EN#0/notvisual a blue advertising background] .
+[/EN#40045/people A blond-haired women tennis player] hitting [/EN#40047/other the tennis ball] .
+[/EN#40045/other A blond female tennis] playing hitting [/EN#40047/other the ball] .
+[/EN#40045/other Woman tennis player strains] to return [/EN#40047/other ball] .

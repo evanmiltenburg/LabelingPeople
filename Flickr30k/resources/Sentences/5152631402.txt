@@ -1,0 +1,5 @@
+[/EN#229988/people Four people] and [/EN#229990/animals three dogs] are standing along [/EN#229994/other a concrete planter] near [/EN#229996/scene an intersection] playing [/EN#229991/other music] in front of [/EN#229997/other an open guitar case] with [/EN#229998/other a sign] saying " [/EN#229992/other Traveling] . "
+[/EN#229993/people Two men] are playing [/EN#229995/instruments a guitar] for [/EN#229999/other money] on [/EN#229989/scene the street] , and [/EN#0/notvisual there] are [/EN#229990/animals dogs] on [/EN#230002/clothing leashes] around [/EN#0/notvisual them] .
+[/EN#229988/people A group of 4 people] are sitting outside playing [/EN#230000/instruments musical instruments] to [/EN#230001/people random passerby] .
+[/EN#229988/people A band] performing on [/EN#229989/scene the corner of the street] .
+[/EN#229988/people A group of street musicians] laying [/EN#229991/other music] .

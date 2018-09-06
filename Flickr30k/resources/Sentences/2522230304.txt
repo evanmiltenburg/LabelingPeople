@@ -1,0 +1,5 @@
+[/EN#55026/people a climber] is climbing [/EN#55029/bodyparts a rock face] above [/EN#55028/other a mattress] [/EN#0/notvisual that] is lying on [/EN#0/notvisual the ground] below .
+[/EN#55026/people A man] with [/EN#55033/clothing a dark brown shirt] is climbing up [/EN#55027/scene a rocky elevation] .
+[/EN#55026/people A man] is on [/EN#55031/other his back] in [/EN#55030/other a rocky cave] .
+[/EN#55026/people A man] is climbing [/EN#55027/scene a rocky mountain] .
+[/EN#55026/people A man] climbs [/EN#55029/other a rock] .

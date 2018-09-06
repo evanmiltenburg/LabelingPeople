@@ -1,0 +1,5 @@
+[/EN#30759/people Worker] wearing [/EN#30760/clothing blue uniform] and [/EN#30767/clothing gloves] stands in [/EN#30769/vehicles the bed of a truck] looks down [/EN#30766/other at cardboard boxes] and [/EN#30763/other crates] .
+[/EN#30759/people A man] in [/EN#30760/clothing a blue shirt] with [/EN#30770/bodyparts his face] covered by [/EN#30771/bodyparts his hair] stands next to [/EN#30763/other crates] at [/EN#30761/scene a market] .
+[/EN#30759/people a person] in [/EN#30760/clothing a blue jacket] stands on [/EN#30764/other the back of a track full] of [/EN#30762/other boxes] , [/EN#30763/other crates] , and [/EN#30768/other kegs] .
+[/EN#30759/people A person] in [/EN#30760/clothing a blue jacket] stands along side [/EN#30762/other crates] and [/EN#30763/other kegs] on [/EN#30765/scene a busy Asian street] .
+[/EN#30759/people One man] , wearing [/EN#30760/clothing a blue shirt] , standing on [/EN#30764/vehicles the back of a truck] in [/EN#30761/scene a market] .

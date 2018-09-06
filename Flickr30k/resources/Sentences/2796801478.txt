@@ -1,0 +1,5 @@
+[/EN#73406/people A man] rides [/EN#73411/other his skateboard] with [/EN#73410/scene his shadow] falling on [/EN#73407/other a wall] covered in [/EN#73407/other graffiti] .
+[/EN#73406/people A skateboarder] is jumping through [/EN#0/notvisual the air] in front of [/EN#73407/other a graffiti covered wall] .
+[/EN#73406/people A skateboarder] performs [/EN#0/notvisual tricks] on [/EN#73409/scene a ramp] in front of [/EN#73407/other a wall] with [/EN#73407/other graffiti] .
+[/EN#73406/people A skateboarder] performs [/EN#0/notvisual a skateboard trick] against [/EN#73407/other a graffiti wall] .
+[/EN#73406/people A skateboarder] grinding [/EN#73413/bodyparts a lip] .

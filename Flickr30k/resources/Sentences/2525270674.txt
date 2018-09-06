@@ -1,0 +1,5 @@
+[/EN#55206/animals A dog] with [/EN#55210/bodyparts his front paws] off [/EN#0/notvisual the ground] holds [/EN#55207/other a white Frisbee] in [/EN#55208/bodyparts his mouth] in [/EN#55209/scene an RV campground] .
+[/EN#55206/animals The brown and white dog] is catching [/EN#55207/other a Frisbee] in [/EN#55208/bodyparts his mouth] .
+[/EN#55206/animals A white and brown dog] jumps up for [/EN#55207/other a white Frisbee] .
+[/EN#55206/animals A brown and white dog] with [/EN#55207/other a Frisbee] in [/EN#55208/bodyparts his mouth] .
+[/EN#55206/animals Dog] catching [/EN#55207/other Frisbee] .

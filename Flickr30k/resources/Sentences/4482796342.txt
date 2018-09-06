@@ -1,0 +1,5 @@
+[/EN#172063/people A woman] dressed in [/EN#172064/clothing a green shirt] and [/EN#172070/clothing dark pants] stands in [/EN#172065/scene the middle of a street] looking at [/EN#172066/other storm clouds] in [/EN#0/notvisual the distance] .
+[/EN#172063/people A woman] in [/EN#172064/clothing a green blouse] stands in [/EN#172065/scene the road] and looks at [/EN#172066/other dark clouds] gathering in [/EN#0/notvisual the distance] .
+[/EN#172063/people A woman] stands in [/EN#172065/scene the road] looking off at [/EN#172069/scene the buildings] in [/EN#0/notvisual the distance] .
+[/EN#172063/people A lady] in [/EN#172064/clothing a green shirt] is standing in [/EN#172065/scene the street] on [/EN#172068/scene a cloudy day] .
+[/EN#172063/people Woman] in [/EN#172064/clothing green tops] is watching [/EN#172066/other the dark clouds] .

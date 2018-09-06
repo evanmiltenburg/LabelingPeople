@@ -1,0 +1,5 @@
+[/EN#283748/people A person] is [/EN#283748/other crosscountry skiing] through [/EN#283749/scene the snow] .
+[/EN#283748/people A crosscountry skier] going through [/EN#283750/other the woods] .
+[/EN#283748/people A crosscountry skier] following [/EN#283751/scene a path] .
+[/EN#283748/people A skier] is by [/EN#0/notvisual himself] in [/EN#283750/other the woods] .
+[/EN#283748/people Lone skier] walks through [/EN#283749/scene the snow] .

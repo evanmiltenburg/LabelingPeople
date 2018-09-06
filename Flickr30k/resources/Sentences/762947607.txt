@@ -1,0 +1,5 @@
+[/EN#272346/people A little boy] in [/EN#272351/clothing shorts] and [/EN#272347/clothing t-shirt] run in [/EN#272348/scene a field of grass] towards [/EN#272352/other some trees] .
+[/EN#272346/people A little boy] in [/EN#272347/clothing a blue shirt] is running through [/EN#272348/scene a forested green area] .
+[/EN#272346/people Little boy] running in [/EN#272348/scene a grassy field] towards [/EN#272349/other a tree] .
+[/EN#272346/people A youg boy] in [/EN#272347/clothing a blue shirt] walks through [/EN#272348/scene a park] .
+[/EN#272346/people A boy] walks in [/EN#272348/scene a meadow] near [/EN#272349/other some trees] .

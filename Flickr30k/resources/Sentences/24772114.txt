@@ -1,0 +1,5 @@
+[/EN#52454/people A construction worker] with [/EN#52455/bodyparts a barbed wire tattoo] and [/EN#52457/clothing a white hard hat] is bending over while [/EN#52459/other a stack of bricks] are on [/EN#52464/other the wall] behind [/EN#0/notvisual him] .
+[/EN#52454/people A construction worker] wearing [/EN#52463/clothing jeans] , [/EN#52460/clothing a white shirt] with [/EN#52458/other a black stripe] , and [/EN#52457/clothing a white hard hat] repairing [/EN#52456/other something] .
+[/EN#52454/people A construction worker] in [/EN#52457/clothing a white hard hat] with [/EN#52455/bodyparts a tribal tattoo] on [/EN#52461/bodyparts/people his right arm] working in [/EN#52454/scene a bent over position] .
+[/EN#52454/people A construction worker] is bent over [/EN#52456/other the beams] concentrating on [/EN#52462/other his work] .
+[/EN#52454/people construction worker] working on [/EN#52456/other a structure]

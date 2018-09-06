@@ -1,0 +1,5 @@
+[/EN#248009/people A woman] wearing [/EN#248010/clothing a black shirt] with [/EN#248018/other purple flowers] and [/EN#248008/people a small girl] with [/EN#248015/bodyparts blond-hair] wearing [/EN#248013/clothing a purple] stand in [/EN#248008/scene front] [/EN#248019/other a sink] while [/EN#248009/people the woman] brushes [/EN#248012/bodyparts her teeth] .
+[/EN#248009/people A woman] wearing [/EN#248010/clothing a black shirt] is brushing [/EN#248012/bodyparts her teeth] next to [/EN#248008/people her daughter] [/EN#0/notvisual who] is wearing [/EN#248013/clothing purple] .
+[/EN#248009/people A woman] is brushing [/EN#248012/bodyparts her teeth] in [/EN#248017/scene the bathroom] with [/EN#248008/people her daughter] .
+[/EN#248009/people A woman] and [/EN#248008/people child] are brushing [/EN#248012/bodyparts their teeth] .
+[/EN#248008/people A little girl] and [/EN#248009/people lady] brushing [/EN#248012/bodyparts her teeth] .

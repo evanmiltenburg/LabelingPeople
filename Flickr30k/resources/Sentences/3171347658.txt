@@ -1,0 +1,5 @@
+[/EN#98101/people A driver] with [/EN#98102/clothing a white helmet] is sitting in [/EN#98103/vehicles a yellow race car] .
+[/EN#98101/people A person] with [/EN#98102/clothing helmet] is sitting inside [/EN#98103/vehicles a yellow vehicle] .
+[/EN#98101/people a person] in [/EN#98102/clothing a white helmet] strapped into [/EN#98103/vehicles a yellow car]
+[/EN#98101/people a man] sitting inside [/EN#98103/vehicles some sort of yellow vehicle]
+[/EN#98104/scene Bird 's eye view] of [/EN#98101/people a driver] in [/EN#98103/vehicles his car]

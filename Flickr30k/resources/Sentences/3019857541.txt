@@ -1,0 +1,5 @@
+[/EN#87907/animals The small brown dog] is amidst [/EN#87910/other the potted plants] and [/EN#87909/other fallen leaves] .
+[/EN#87907/animals A dog] knocking over [/EN#87910/other potted plants] in [/EN#87908/scene a yard] covered in [/EN#87909/other leaves] .
+[/EN#87907/animals A dog] is running through [/EN#87908/scene a backyard] full of [/EN#87909/other leaves] .
+[/EN#87907/animals A brown dog] leaps in [/EN#0/notvisual the air] over [/EN#87909/other colorful leafs]
+[/EN#87907/animals A dog] is jumping in [/EN#0/notvisual the air] over [/EN#87909/other some leaves] .

@@ -1,0 +1,5 @@
+[/EN#32110/people A girl] in [/EN#32111/scene a swimming pool] looks on while [/EN#32112/people a boy] in [/EN#32113/clothing a mask] jumps in from [/EN#32114/scene a diving board] .
+[/EN#32112/people A boy] does [/EN#32115/other a cannonball] into [/EN#32111/scene a pool] while [/EN#32110/people a girl] watches .
+[/EN#32112/people A boy] jumping off of [/EN#32114/scene a diving board] while [/EN#32110/people a girl] watches .
+[/EN#0/notvisual There] is [/EN#32110/people a kid] jumping off [/EN#32114/scene a diving board] into [/EN#32111/scene a pool] .
+[/EN#32112/people A boy] jumps into [/EN#32111/scene a pool] while [/EN#32110/people a girl] watches .

@@ -1,0 +1,5 @@
+[/EN#20677/people A young girl] wearing [/EN#20680/clothing a light blue dress] and [/EN#20679/people a young boy] wearing [/EN#20681/clothing navy pants] and [/EN#20682/clothing a yellow shirt] walk up [/EN#20676/other the steps] to [/EN#20675/vehicles the cockpit of an airplane] sitting in [/EN#20683/scene the field of an aviation museum] .
+[/EN#20674/people Two little children] are walking up [/EN#20676/other some steps] to get into [/EN#20675/vehicles an airplane] .
+[/EN#20674/people Two children] are climbing [/EN#20676/other stairs] [/EN#0/notvisual which] lead to [/EN#20675/vehicles an airplane] .
+[/EN#20674/people Two children] are climbing [/EN#20676/other the stairs] into [/EN#20675/vehicles an airplane] .
+[/EN#20674/people Two small children] climbing [/EN#20676/other the steps] onto [/EN#20678/other a plane] .

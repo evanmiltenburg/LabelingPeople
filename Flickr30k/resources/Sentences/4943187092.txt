@@ -1,0 +1,5 @@
+[/EN#221487/people A lady] is standing along side [/EN#221488/scene the road of an Asian city] next to [/EN#221486/people a man] pushing [/EN#221489/other a wheelchair] .
+[/EN#221486/people A Chinese man] is pushing [/EN#221489/other a wheelchair] with [/EN#221490/people nobody] in [/EN#0/notvisual it] on [/EN#221488/scene a busy Chinese street] .
+[/EN#221486/people A Chinese man] in [/EN#221491/clothing a white shirt] pushing [/EN#221489/other a wheelchair] .
+[/EN#221487/people A woman] stands beside [/EN#221486/people a man] with [/EN#221489/other a wheelchair] .
+[/EN#221486/people An Asian man] pushing [/EN#221489/other a wheelchair] .

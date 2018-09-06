@@ -1,0 +1,5 @@
+[/EN#37170/people Six people] are attempting to move [/EN#37171/vehicles a car] on [/EN#37173/scene a snowy street] .
+[/EN#37170/people Some men] in [/EN#37174/clothing burgundy coats] try to push [/EN#37171/vehicles a car] in [/EN#37172/scene the snow] .
+[/EN#37170/people A bunch of men] pushing [/EN#37171/vehicles a car] [/EN#0/notvisual that] is stuck in [/EN#37172/scene snow] .
+[/EN#37170/people A group of men] try to budge [/EN#37171/vehicles a car] from [/EN#37172/scene a snowbank] .
+[/EN#37170/people Multiple men] trying to move [/EN#37175/other a van] in [/EN#37172/scene the snow] .

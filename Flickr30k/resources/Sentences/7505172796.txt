@@ -1,0 +1,5 @@
+[/EN#270679/people A schoolgirl] wearing [/EN#270681/clothing a white dress] , [/EN#270684/clothing blue-striped knee socks] , [/EN#270683/clothing a blue tie] , and [/EN#270687/bodyparts braids] , [/EN#270688/bodyparts smiles] in front of [/EN#270680/people a line of her classmates] .
+[/EN#270679/people The little girl] with [/EN#270681/clothing the white dress] is smiling in [/EN#0/notvisual the direction of the camera] .
+[/EN#270679/people A little girl] in [/EN#270681/clothing a white dress] stands in front of [/EN#270680/people a line of children] .
+[/EN#270679/people A young schoolgirl] is smiling at [/EN#0/notvisual the camera] .
+[/EN#270682/people Young school children] are standing [/EN#270685/scene outdoors] .

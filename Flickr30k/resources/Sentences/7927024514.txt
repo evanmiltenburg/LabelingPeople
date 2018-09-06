@@ -1,0 +1,5 @@
+[/EN#276739/people Person] in [/EN#276741/clothing a red shirt] , [/EN#276746/clothing khaki pants] and [/EN#276744/clothing blue large brim hat] , walking [/EN#276742/scene a worn path] , up [/EN#276745/scene the mountainside] .
+[/EN#276739/people A person] walking on [/EN#276742/scene a trail] with [/EN#276741/clothing a red shirt] and [/EN#276744/clothing blue hat] on .
+[/EN#276739/people Lady] in [/EN#276741/clothing red sweatshirt] taking [/EN#276743/other a walk] on [/EN#276740/scene a rocky hill] .
+[/EN#276739/people A man] is walking on [/EN#276742/scene a rocky trail] up [/EN#276740/scene a hill] .
+[/EN#276739/people A person] is taking [/EN#276743/other a walk] on [/EN#276742/scene a rocky trail] .

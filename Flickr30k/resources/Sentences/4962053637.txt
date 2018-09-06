@@ -1,0 +1,5 @@
+[/EN#223626/people Someone] laying on [/EN#223627/other a big tanned sofa] outside next to [/EN#223629/other a parking meter]
+[/EN#223626/people A man] lies down on [/EN#223627/other a couch] [/EN#0/notvisual that] has been placed on [/EN#223628/scene the street] .
+[/EN#223627/other An outdoor sofa] is being occupied by [/EN#223626/people a sleepy teenager] .
+[/EN#223626/people A person] relaxing on [/EN#223627/other a sofa] out on [/EN#223628/scene the sidewalk] .
+[/EN#223626/people A man] lays on [/EN#223627/other a tan couch] .

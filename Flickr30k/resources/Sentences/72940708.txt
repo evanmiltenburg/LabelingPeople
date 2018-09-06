@@ -1,0 +1,5 @@
+[/EN#268068/people A woman] in [/EN#268072/clothing a gray pea coat] and [/EN#268074/clothing white scarf] is dragging [/EN#268069/other a Christmas tree] by [/EN#268075/other a rope] through [/EN#268073/scene the snow] .
+[/EN#268068/people A woman] dressed in [/EN#268074/clothing winter clothing] dragging [/EN#268069/other a Christmas Tree] through [/EN#268073/scene the snow] .
+[/EN#268068/people A woman] in [/EN#268072/clothing a coat] pulls [/EN#268069/other her selected pine tree] through [/EN#268073/scene the snow] .
+[/EN#268068/people A girl] wearing [/EN#268072/clothing black coat] and [/EN#268076/clothing jean] pulls [/EN#268069/other a pine tree] .
+[/EN#268068/people A woman] [/EN#0/notvisual who] picked out [/EN#268069/other a tree] for [/EN#268070/other Christmas] .

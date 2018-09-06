@@ -1,0 +1,5 @@
+[/EN#60599/animals A black dog] paddles behind [/EN#60601/animals a black cat] in [/EN#60602/scene a body of water] .
+[/EN#60600/animals Two black dogs] are [/EN#60604/animals dog] paddling in [/EN#60602/scene a sparkling blue pool] .
+[/EN#60599/animals A dog] and [/EN#60601/animals a cat] are swimming in [/EN#60602/scene a swimming pool] .
+[/EN#60600/animals Two black dogs] are swimming in [/EN#60602/scene a pool] .
+[/EN#60600/animals Two dogs] swimming in [/EN#60602/scene a pool] .

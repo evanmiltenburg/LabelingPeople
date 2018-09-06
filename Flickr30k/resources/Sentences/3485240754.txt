@@ -1,0 +1,5 @@
+[/EN#121780/people A person] on [/EN#121784/clothing blue pants] and [/EN#121783/clothing a white shirt] walks away from [/EN#121782/other a dirt circle] on [/EN#121786/scene multicolored grass] .
+[/EN#121780/people A girl] wearing [/EN#121783/clothing a white shirt] and [/EN#121784/clothing blue jeans] and [/EN#121785/clothing a baseball glove] is walking off [/EN#121782/other the mound] .
+[/EN#121780/people A young girl] in [/EN#121783/clothing a white baseball shirt] playing [/EN#121781/other a game] , in [/EN#121787/scene the center of the field] .
+[/EN#121780/people A girl] steps off [/EN#121782/other the mound] after throwing [/EN#121788/scene the first pitch] out at [/EN#121781/other a baseball game] .
+[/EN#121780/people A girl] is walking away from [/EN#121782/other the pitcher mound] .

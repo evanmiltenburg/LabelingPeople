@@ -1,0 +1,5 @@
+[/EN#281345/people A young child] stands in [/EN#281347/scene the street of a downtrodden neighborhood] , while [/EN#281346/people another person] walks in [/EN#0/notvisual his direction] .
+[/EN#281345/people Small child] standing in [/EN#281347/scene the middle of a dirt road] with [/EN#281346/people adult] running towards [/EN#0/notvisual them] .
+[/EN#281345/people A small child] in [/EN#281349/clothing a red shirt] stands in [/EN#281347/scene the middle of the street] .
+[/EN#281345/people A small child] is watched by [/EN#281346/people an adult] as [/EN#0/notvisual it] walks in [/EN#281347/scene the street] .
+[/EN#281345/people A young girl] is standing in [/EN#281347/scene the middle of an empty street] .

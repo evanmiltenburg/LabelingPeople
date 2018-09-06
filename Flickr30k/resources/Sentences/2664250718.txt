@@ -1,0 +1,5 @@
+[/EN#64855/people A man] waring [/EN#64856/clothing a blue plaid shirt] talks to [/EN#64855/people another man] wearing [/EN#64861/clothing a black t-shirt] while holding [/EN#64857/other a camera] on [/EN#64858/other a tripod] .
+[/EN#64855/people A man] is holding [/EN#64857/other camera equipment] while talking to [/EN#64860/people two other men] .
+[/EN#64855/people A man] talking to [/EN#64860/people other men] while behind [/EN#64857/other a camera] on [/EN#64858/other a tripod] .
+[/EN#64855/people The man] with [/EN#64856/clothing the blue checked shirt] is taking [/EN#64864/other pictures] .
+[/EN#64855/people A cameraman] is talking to [/EN#64860/people people] in [/EN#64865/scene the street] .

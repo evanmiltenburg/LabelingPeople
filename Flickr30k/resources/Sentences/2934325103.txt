@@ -1,0 +1,5 @@
+[/EN#82418/people A person] rides [/EN#82419/vehicles his mountain bike] down [/EN#82420/scene a dirt road] very fast .
+[/EN#82418/people A person] on [/EN#82419/vehicles a BMX bike] is riding on [/EN#82422/other an outdoor course] .
+[/EN#82418/people Dirt bike rider] jumping down [/EN#82420/scene the hill] .
+[/EN#82418/people A biker] rides on [/EN#82420/scene a dirt road] .
+[/EN#82418/people A person] on [/EN#82419/vehicles a bmx bike] .

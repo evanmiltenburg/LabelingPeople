@@ -1,0 +1,5 @@
+[/EN#268821/people A small jockey] jogs along side of [/EN#268824/scene the horse track] with [/EN#268823/animals his horse] through [/EN#268822/scene the green grass] , as [/EN#268829/other a photo] is taken next to [/EN#268826/other the Sparkasse sign] in [/EN#268827/scene a 2012 horse event] .
+[/EN#268821/people A Jockey] in [/EN#268828/clothing a blue helmet] , [/EN#268825/clothing red shirt] and [/EN#268830/clothing white pants] is riding [/EN#268823/animals a race horse] with [/EN#268826/other " sparkasse " signs] in [/EN#0/notvisual the background] .
+[/EN#268821/people A jockey] wearing [/EN#268825/clothing red] rides [/EN#268823/animals a horse] over [/EN#268822/scene a lush green grassy area] .
+[/EN#268821/people A jockey] riding [/EN#268823/animals a race horse] in [/EN#268822/scene a grass field] .
+[/EN#268821/people The horseman] is galloping around [/EN#268824/scene the track] .

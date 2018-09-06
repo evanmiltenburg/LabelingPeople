@@ -1,0 +1,5 @@
+[/EN#54709/people A little girl] is holding up [/EN#54710/other a yellow water hose] and [/EN#54711/scene water] is pouring out and [/EN#54708/animals the big brown dog] is drinking [/EN#54711/scene the water] .
+[/EN#54709/people A young girl] holds [/EN#54710/other a running water hose] , from [/EN#0/notvisual which] [/EN#54708/animals a brown dog] next to [/EN#0/notvisual her] is drinking .
+[/EN#54708/animals the dog] is drinking [/EN#54711/scene the water] being squirted from [/EN#54710/other the hose] by [/EN#54709/people the little girl] .
+[/EN#54709/people A little girl] holds [/EN#54710/other the water hose] for [/EN#54708/animals the dog] to drink from .
+[/EN#54709/people The little girl] is holding [/EN#54710/other a yellow hose] for [/EN#54708/animals a brown dog] .

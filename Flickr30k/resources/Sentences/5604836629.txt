@@ -1,0 +1,5 @@
+[/EN#239500/people An older man] and [/EN#239503/people a young girl] are looking [/EN#239501/animals a fish] in [/EN#239502/scene pool] at [/EN#239504/scene a shopping mall] .
+[/EN#239500/people An older man] and [/EN#239503/people a young girl] looking at [/EN#239501/animals the fish] in [/EN#239502/scene an artificial pond] .
+[/EN#239500/people A man] and [/EN#239503/people a toddler] are looking at [/EN#239501/animals a green fish] in [/EN#239502/scene a small pond] .
+[/EN#239500/people An older man] and [/EN#239503/people a young girl] stare at [/EN#239501/animals a large fish] in [/EN#239502/scene a pool] .
+[/EN#239500/people Old man] and [/EN#239503/people young child] look at [/EN#239501/animals the fish] .

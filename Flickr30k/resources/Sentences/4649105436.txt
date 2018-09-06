@@ -1,0 +1,5 @@
+[/EN#186617/people People] are riding [/EN#186618/vehicles/scene a boat] in [/EN#186620/scene the body of water] approaching [/EN#186619/scene a bridge] .
+[/EN#186617/people People] looking over [/EN#186622/other the rail] at [/EN#186623/other something] in [/EN#0/notvisual the distance] .
+[/EN#186617/people A group of people] face towards [/EN#186619/scene a bridge] across [/EN#186620/scene the water] .
+[/EN#186617/people A group of people] are looking at [/EN#186620/scene the river] .
+[/EN#186617/people People] sit in [/EN#186618/vehicles/scene a boat] watching [/EN#186620/scene the water] .

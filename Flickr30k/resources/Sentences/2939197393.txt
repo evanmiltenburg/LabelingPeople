@@ -1,0 +1,5 @@
+[/EN#82862/people A mountain biker] , wearing [/EN#82863/clothing a black helmet] and [/EN#82869/clothing shirt] , in [/EN#82866/other motion] .
+[/EN#82862/people One biker] wearing [/EN#82863/clothing a black helmet] riding on [/EN#82864/scene a dirt hill] .
+[/EN#82862/people The guy] on [/EN#82867/vehicles the BMX bike] is taking [/EN#82865/other a sharp turn] .
+[/EN#82862/people Person] riding [/EN#82867/vehicles bike] on [/EN#82864/scene dirt] track in [/EN#82870/scene wooded area]
+[/EN#82862/people Dirt biker] taking [/EN#82868/scene a corner]

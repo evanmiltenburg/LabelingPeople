@@ -1,0 +1,5 @@
+[/EN#182446/vehicles The bike] is upside down on [/EN#0/notvisual the ground] and being looked at by [/EN#182447/people a man] in [/EN#182449/clothing a blue shirt] and [/EN#182450/people another man] in [/EN#182451/clothing a red shirt] .
+[/EN#182447/people A man] in [/EN#182449/clothing a blue shirt] helping [/EN#182450/people a man] in [/EN#182451/clothing a red shirt] fix [/EN#182446/vehicles a trail bike]
+[/EN#182448/people Two men] outdoors working on [/EN#182446/vehicles a bicycle] .
+[/EN#182448/people Two men] fix [/EN#182446/vehicles a bicycle] on [/EN#182452/scene a trail] .
+[/EN#182448/people Two men] fixing [/EN#182446/vehicles a bicycle] .

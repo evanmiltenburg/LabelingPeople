@@ -1,0 +1,5 @@
+[/EN#256570/people A man] with [/EN#256578/bodyparts a mustache] and [/EN#256572/clothing pink sunglasses] controls [/EN#256574/other an audio panel] as [/EN#256575/other a portion of a microphone] appears in [/EN#0/notvisual the front of him] .
+[/EN#256570/people A man] wearing [/EN#256571/clothing a red shirt] and [/EN#256572/clothing pink sunglasses] is standing in front of [/EN#256573/other a blue wall] .
+[/EN#256570/people A man] wearing [/EN#256572/clothing pink sunglasses] and [/EN#256571/clothing red t-shirt] playing with [/EN#256577/other musical equipment] .
+[/EN#256570/people A DJ] with [/EN#256572/clothing sunglasses] and [/EN#256571/clothing a red shirt] plays [/EN#256576/other music] .
+[/EN#256570/people A mustached man] plays [/EN#256574/instruments electronic instruments] .

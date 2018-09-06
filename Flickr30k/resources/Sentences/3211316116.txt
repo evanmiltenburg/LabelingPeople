@@ -1,0 +1,5 @@
+[/EN#101442/people A surfer] in [/EN#101444/clothing a yellow shirt] is riding [/EN#101443/scene a wave] [/EN#0/notvisual that] is reflecting [/EN#101446/other sunlight] .
+[/EN#101442/people The man] is riding [/EN#101443/scene a large wave] on [/EN#101445/other a surfboard] .
+[/EN#101442/people A surfer] is riding on [/EN#101443/scene a breaking wave] .
+[/EN#101442/people Surfer] surfs ahead of [/EN#101443/scene a crashing wave]
+[/EN#101442/people A man] in [/EN#101444/clothing a yellow shirt] surfing .

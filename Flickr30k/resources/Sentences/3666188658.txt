@@ -1,0 +1,5 @@
+[/EN#135341/people A man] wearing [/EN#135343/clothing a long brown robe] is playing [/EN#135342/instruments the guitar] while [/EN#135344/people another person] is sitting at [/EN#135346/instruments the drums] and yet [/EN#0/notvisual another] is wearing [/EN#135340/clothing a long gray robe] and singing .
+[/EN#135338/people An eclectic group] performs [/EN#135347/other their concert] , complete with [/EN#135340/clothing hooded robes] .
+[/EN#135338/people Men] in [/EN#135340/clothing hooded robes] are playing in [/EN#135338/people a band] in front of [/EN#135339/scene a building] .
+[/EN#135338/people A group of people] in [/EN#135340/clothing robes] singling and playing [/EN#135345/instruments instruments] .
+[/EN#135338/people Band] performs at [/EN#135348/animals the Bras Cat] , [/EN#135339/scene Cafe Bar] .

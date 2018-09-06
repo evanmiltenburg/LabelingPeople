@@ -1,0 +1,5 @@
+[/EN#101792/people A woman] with [/EN#101795/clothing a white hat] , [/EN#101799/clothing orange shirt] , and [/EN#101796/other a sickle] is standing in [/EN#101794/scene a field] with [/EN#101798/clothing black gloves] .
+[/EN#101792/people A woman] in [/EN#101795/clothing a hat] holding [/EN#101793/other her harvest] while clamping [/EN#101796/other her sickle] in [/EN#101800/bodyparts her armpit] .
+[/EN#101792/people A woman] in wearing [/EN#101795/clothing a white hat] holding [/EN#101796/other a scythe] and [/EN#101793/other a cutting of wheat] .
+[/EN#101792/people A woman] gathering [/EN#101793/other wheat] outside in [/EN#101794/scene a wheat field] .
+[/EN#101792/people Asian woman] harvesting [/EN#101793/other wheat] .

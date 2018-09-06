@@ -1,0 +1,5 @@
+[/EN#118758/people A woman] in [/EN#118761/clothing a beige blazer] and [/EN#118768/clothing sunglasses] stares toward [/EN#118757/people a man] in [/EN#118765/clothing a striped t-shirt] , [/EN#0/notvisual who] is staring at [/EN#118760/people two smiling women] in [/EN#118763/clothing military attire] on [/EN#118759/scene a city sidewalk] .
+[/EN#118760/people Two police women] are talking to [/EN#118757/people someone] while [/EN#118758/people an elderly lady] in [/EN#118761/clothing a beige jacket] stares at [/EN#118767/other something] above [/EN#118764/scene a store] .
+[/EN#118757/people An older gentleman] and [/EN#118758/people an elderly lady] are talking to [/EN#118760/people two younger ladies] in [/EN#118763/clothing uniform] on [/EN#118759/scene an urban street] .
+[/EN#118758/people An old woman] gazes up with [/EN#118770/other thought] , with [/EN#118760/people two smiling women] and [/EN#118757/people a large man] in [/EN#118769/other the back] and [/EN#0/notvisual foreground] .
+[/EN#118759/scene Street scene] with [/EN#118760/people two lady police officers] with [/EN#118760/people two civilians] in [/EN#118766/other foreground of picture] .

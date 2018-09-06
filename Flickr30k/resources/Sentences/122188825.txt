@@ -1,0 +1,5 @@
+[/EN#5500/people A construction worker] in [/EN#5503/clothing a yellow vest] digs in [/EN#5496/scene the street] while [/EN#5502/people a second worker] looks on .
+[/EN#5495/people Two workers] [/EN#0/notvisual that] are working on [/EN#5498/scene the side of a street] in [/EN#5497/clothing neon yellow vests] .
+[/EN#5495/people Two construction workers] are patching up [/EN#5501/scene a hole] in [/EN#5496/scene a street] .
+[/EN#5495/people Two construction workers] are digging up [/EN#5499/scene pavement] on [/EN#5496/scene a road] .
+[/EN#5495/people Two men] in [/EN#5497/clothing yellow vests] are working on [/EN#5496/scene a road] .

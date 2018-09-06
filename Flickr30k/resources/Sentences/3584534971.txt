@@ -1,0 +1,5 @@
+[/EN#129600/people A man] leads [/EN#129606/scene the way] on [/EN#129603/vehicles his bike] while [/EN#129607/other two others] follow in [/EN#0/notvisual the distance] .
+[/EN#129597/people Three men] fight [/EN#129598/scene the forest terrain] on [/EN#129605/vehicles their mountain bikes] .
+[/EN#129597/people Three cyclists] ride through [/EN#129602/other cordoned pathway] near [/EN#129599/other woods] .
+[/EN#129597/people Several bicyclists] are riding though [/EN#129598/scene a wooded area] .
+[/EN#129597/people Three mountain bikers] are in [/EN#129601/other a race] in [/EN#129599/other the woods] .

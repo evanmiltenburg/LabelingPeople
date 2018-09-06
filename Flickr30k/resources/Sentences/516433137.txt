@@ -1,0 +1,5 @@
+[/EN#230176/people An elderly man] lies on [/EN#230177/other a couch] in [/EN#230179/other an alleyway] , both [/EN#230177/other the couch] and [/EN#230176/people man] are quite dirty .
+[/EN#230176/people Older man] sleeping on [/EN#230177/other an old couch] near [/EN#230181/vehicles parked cars] .
+[/EN#230176/people A man] sleeping on [/EN#230177/other a couch] on [/EN#230178/scene the side of the road] .
+[/EN#230176/people Man] sleeping on [/EN#230177/other an old couch] in [/EN#230178/scene an alley] .
+[/EN#230176/people A man] is sleeping on [/EN#230177/scene a sofa outside] .

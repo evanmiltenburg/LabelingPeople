@@ -1,0 +1,5 @@
+[/EN#63641/people A woman] sits with [/EN#63642/people a child] , reading [/EN#63643/other a big blue book] .
+[/EN#63642/people An infant] is eating while being read [/EN#63643/other a book] .
+[/EN#63641/people The woman] with [/EN#63642/people the baby] is drinking [/EN#63644/other wine] .
+[/EN#63641/people A woman] is hold [/EN#63642/people a child] while [/EN#0/notvisual he] reads .
+[/EN#63641/people A mother] reads [/EN#63643/other a book] to [/EN#63642/people her baby] .

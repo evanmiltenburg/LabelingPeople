@@ -1,0 +1,5 @@
+[/EN#183926/people A man] wearing [/EN#183935/clothing black clothing] and [/EN#183929/clothing a black hat] looking at [/EN#183932/people a woman] in [/EN#183929/clothing a hat] chew [/EN#183931/bodyparts her finger] .
+[/EN#183926/people A man] is looking at [/EN#183932/people a young woman] [/EN#0/notvisual who] is wearing [/EN#183930/clothing a cap] and biting [/EN#183937/other her nails] .
+[/EN#183926/people A man] and [/EN#183932/people a woman] having [/EN#183934/other a conversation] and [/EN#0/notvisual both] are wearing [/EN#183928/clothing hats] .
+[/EN#183926/people A guy] is looking at [/EN#183932/people a girl] [/EN#0/notvisual that] has [/EN#183931/bodyparts a finger] in [/EN#183936/bodyparts her mouth] .
+[/EN#183926/people A man] and [/EN#183932/people women] both in [/EN#183928/clothing hats] standing outside .

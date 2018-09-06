@@ -1,0 +1,5 @@
+[/EN#9508/people A young man] in [/EN#9509/vehicles/scene a small motor boat] is emptying out [/EN#9501/scene a container of water] into [/EN#9503/scene the lake] .
+[/EN#9508/people A boy] in [/EN#9509/vehicles/scene a blue boat] tied to [/EN#9504/vehicles/scene a larger boat] dumps out [/EN#9501/scene a bucket of water] .
+[/EN#9508/people A young boy] pours [/EN#9502/scene water] from [/EN#9506/other a container] while standing on [/EN#9509/vehicles/scene a boat] .
+[/EN#9508/people The child] with [/EN#9505/people the pitcher] is draining [/EN#9502/scene the water] out of [/EN#9509/vehicles/scene the boat] .
+[/EN#9508/people A young male] dumps [/EN#9501/scene the extra water] out of [/EN#9507/vehicles his small motorboat] .

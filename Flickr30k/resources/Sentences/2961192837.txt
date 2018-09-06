@@ -1,0 +1,5 @@
+[/EN#84299/scene A view of a dirt street] with [/EN#84300/vehicles a motorbike] driving away in [/EN#0/notvisual the distance] and [/EN#84301/people people] standing outside .
+[/EN#84299/scene A dirt road] [/EN#0/notvisual that] has [/EN#84302/other trees] on [/EN#0/notvisual one side] and run down [/EN#84303/scene buildings] on [/EN#84312/other the other] .
+[/EN#84304/people Motorcyclists] and [/EN#84305/scene outdoor markets] on [/EN#84299/scene a dirt road] in [/EN#84307/people/scene a developing country] .
+[/EN#84299/scene Dirt road] in [/EN#84308/scene a village] with [/EN#84306/other various sops] on [/EN#0/notvisual either side] .
+[/EN#84301/people People] are standing in [/EN#84305/scene a market area] .

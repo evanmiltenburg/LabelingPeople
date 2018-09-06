@@ -1,0 +1,5 @@
+[/EN#141386/people A man] and [/EN#141387/people woman] sweep [/EN#0/notvisual a the ground] in front of [/EN#141391/other an orange wall] with [/EN#141390/scene green patterned bars] .
+[/EN#141387/people An Arab woman] and [/EN#141386/people man] sweeping [/EN#141389/scene the street] .
+[/EN#141387/people A woman] and [/EN#141386/people a man] sweeping [/EN#141389/scene the sidewalk] .
+[/EN#141388/people Two people] sweeping [/EN#0/notvisual a dirt ground] .
+[/EN#141388/people People] are sweeping [/EN#141389/scene a sidewalk] .

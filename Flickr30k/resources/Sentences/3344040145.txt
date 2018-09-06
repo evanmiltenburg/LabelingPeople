@@ -1,0 +1,5 @@
+[/EN#111199/people A person] in [/EN#111200/clothing a red jacket] yelling [/EN#111207/other something] with [/EN#111204/scene a snow scene] in [/EN#0/notvisual the background] .
+[/EN#111199/people A person] in [/EN#111200/clothing a red jacket] is pointing and exclaiming on [/EN#111202/other a snowy hill-side]
+[/EN#111199/people a woman] in [/EN#111200/clothing red] , panicking as [/EN#0/notvisual she] watches [/EN#120000/people someone] ski down [/EN#111202/scene a hill]
+[/EN#0/notvisual There] may be [/EN#111201/scene a avalanche] , lets grab [/EN#111206/other some cocoa] .
+[/EN#111199/people a woman] in [/EN#111200/clothing a red coat] is on [/EN#111202/other the skiing] .

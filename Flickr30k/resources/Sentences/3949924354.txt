@@ -1,0 +1,5 @@
+[/EN#149250/people A food vendor] in [/EN#149257/other Korea] is siting behind [/EN#149251/vehicles a tricycle cart] on [/EN#149258/scene the street] selling [/EN#149255/other some kind of food] .
+[/EN#149250/people A man] in [/EN#149259/clothing a white shirt] and [/EN#149260/clothing baseball hat] is pushing [/EN#149251/vehicles a cart] carrying [/EN#149261/clothing several bags] on [/EN#149253/scene a street] .
+[/EN#149250/people A man] and [/EN#149251/vehicles his wheeled cart] selling [/EN#149255/other items] on [/EN#149252/scene a street corner] .
+[/EN#149250/people An Asian bicycling food salesman] waits at [/EN#149254/scene crosswalk] .
+[/EN#0/notvisual this] is [/EN#149250/people a vendor] selling [/EN#149255/other something]

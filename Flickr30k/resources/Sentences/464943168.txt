@@ -1,0 +1,5 @@
+[/EN#186636/people A man] is standing in [/EN#186642/scene a white room] , with [/EN#186639/other the lights] turned down , holding [/EN#186637/other a detailed lantern] with [/EN#0/notvisual another] hanging nearby .
+[/EN#186636/people A man] balances [/EN#186637/other a paper lantern] on [/EN#186638/bodyparts his outstretched hand] .
+[/EN#186639/other Two glowing lamps] hang above [/EN#186638/bodyparts a man 's hand] and [/EN#186640/bodyparts his head] .
+[/EN#186636/people A man] in [/EN#186643/clothing a dark colored shirt] holds up [/EN#186637/other a unique light] .
+[/EN#186636/people A man] is checking out [/EN#186637/other a lantern] .

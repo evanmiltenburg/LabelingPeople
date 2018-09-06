@@ -1,0 +1,5 @@
+[/EN#186298/people An elderly man] in [/EN#186301/clothing a brown shirt] and [/EN#186306/clothing jeans] walks by [/EN#186299/people a woman] in [/EN#186303/clothing a sweatshirt] and [/EN#186307/clothing jeans] holding [/EN#186300/people a baby] in [/EN#186302/clothing a pink sweatshirt] .
+[/EN#186298/people A bald man] with [/EN#186305/clothing his eyeglasses] hanging behind [/EN#186309/bodyparts his head] and [/EN#186299/people a woman] with [/EN#186310/bodyparts her hair] in [/EN#186311/bodyparts a ponytail] is holding [/EN#186300/people a baby] .
+[/EN#186298/people A man] and [/EN#186299/people a woman] holding [/EN#186300/people a baby] walk past [/EN#186308/other some wooden furniture] .
+[/EN#186299/people A woman] in [/EN#186303/other black jacket carrier] [/EN#0/notvisual her] baby watched by [/EN#186298/people an old man] .
+[/EN#186298/people a man] walking and [/EN#186299/people a woman] walking holding [/EN#186300/people a baby girl]

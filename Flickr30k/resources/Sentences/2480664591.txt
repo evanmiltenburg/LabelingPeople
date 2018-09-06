@@ -1,0 +1,5 @@
+[/EN#52584/people Two people] are on [/EN#52585/vehicles/scene a very small boat] on [/EN#52588/scene the water] with [/EN#52587/other big trees] in [/EN#0/notvisual the background] .
+[/EN#52584/people Two people] in [/EN#52585/vehicles/scene a boat] paddle [/EN#52589/scene their way] past [/EN#52587/other large trees] .
+[/EN#52584/people Two people] are rowing [/EN#52586/other a canoe] through [/EN#52588/scene the water] .
+[/EN#52584/people Two people] are riding in [/EN#52586/other a canoe] near [/EN#52590/scene a forest] .
+[/EN#52584/people Two people] row [/EN#52585/vehicles/scene a boat] .

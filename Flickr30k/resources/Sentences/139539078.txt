@@ -1,0 +1,5 @@
+[/EN#11149/people One man] in [/EN#11152/clothing a uniform] standing inside [/EN#11151/vehicles/scene a school bus] with [/EN#11150/other the backdoor] open , while [/EN#11149/people another man] sits on top of [/EN#11149/people the boss] wearing [/EN#11157/clothing a similar uniform] .
+[/EN#11149/people One mechanic] is sitting on [/EN#11159/vehicles/scene the roof of a school bus] with [/EN#11150/other an open door] , while [/EN#11153/other the other] is standing inside [/EN#11151/vehicles/scene the bus] .
+[/EN#11149/people One man] is sitting on top of [/EN#11151/vehicles/scene a school bus] , while [/EN#11153/people another man] , wearing [/EN#11152/clothing a matching shirt] , is standing inside .
+[/EN#0/notvisual There] is [/EN#11149/people one man] [/EN#0/notvisual who] is sitting on top of [/EN#11151/vehicles/scene a school bus] while [/EN#11153/people another man] walks down [/EN#11151/vehicles/scene the aisle of the bus] .
+[/EN#11155/people Two men] inspecting [/EN#11151/vehicles/scene a school bus] .

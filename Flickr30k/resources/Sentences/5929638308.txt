@@ -1,0 +1,5 @@
+[/EN#245616/people A man] in [/EN#245621/clothing jeans] and [/EN#245622/clothing a gray t-shirt] is taking apart [/EN#245617/instruments a piano] on [/EN#245623/scene a hardwood floor] .
+[/EN#245616/people A person] looking into [/EN#245620/instruments the bottom of a piano] , as if to repair [/EN#0/notvisual it] .
+[/EN#245616/people One man] building [/EN#245618/other something] from [/EN#245617/instruments an old piano] .
+[/EN#0/notvisual There] is [/EN#245616/people a carpenter] measuring [/EN#245619/other a board] .
+[/EN#245616/people Someone] rebuilding [/EN#245618/other this structure] .

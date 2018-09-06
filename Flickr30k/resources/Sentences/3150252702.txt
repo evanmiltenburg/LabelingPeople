@@ -1,0 +1,5 @@
+[/EN#96762/people A snowboarder] flies through [/EN#0/notvisual the air] after leaving [/EN#96764/scene a large snow ramp] .
+[/EN#96762/people A person] riding [/EN#96765/other a snowboard] goes over [/EN#96764/scene a snowy ramp] .
+[/EN#96762/people The snowboarder] jumps in [/EN#96763/scene midair] on [/EN#96765/other his board] .
+[/EN#96762/people A snowboarder] flies off [/EN#0/notvisual a huge jump] .
+[/EN#96762/people person] on [/EN#96765/other snowboard] in [/EN#0/notvisual air]

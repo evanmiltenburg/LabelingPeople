@@ -1,0 +1,5 @@
+[/EN#246562/people A person] wearing [/EN#246572/clothing a white helmet] rides [/EN#246566/vehicles a mountain bike] on [/EN#246568/scene a narrow path] along [/EN#246569/other a ledge] with [/EN#246567/scene forest] in [/EN#0/notvisual the background] .
+[/EN#246562/people A person] riding [/EN#246566/vehicles a dirt bike] dangerously close to [/EN#246564/scene a cliff] in [/EN#246567/scene a forest] .
+[/EN#246562/people Bicyclist] rides on [/EN#246563/scene dirt path] overlooking [/EN#246567/other a stand of trees] .
+[/EN#246562/people A mountain biker] rounding [/EN#246565/scene a corner] on [/EN#246568/scene a narrow trail] .
+[/EN#246562/people A person] is biking in [/EN#246570/other nature] during [/EN#246571/scene the day] .

@@ -1,0 +1,5 @@
+[/EN#120900/animals The brown dog] is jumping [/EN#120903/other a hurdle] over [/EN#120904/other a yellow and black pole] .
+[/EN#120900/animals a brown dog] jumping over [/EN#120902/other a blue and yellow stick] .
+[/EN#120900/animals A dog] jumps over [/EN#120903/other a hurdle] at [/EN#120905/other a competition] .
+[/EN#120900/animals A brown dog] jumps over [/EN#120901/other an obstacle] .
+[/EN#120900/animals A brown dog] jumping over [/EN#120903/other a hurdle] .

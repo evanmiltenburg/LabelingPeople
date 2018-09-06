@@ -1,0 +1,5 @@
+[/EN#80657/people A man] wearing [/EN#80660/clothing all black] is climbing on [/EN#80658/other a black train engine] with [/EN#80664/other trees] in [/EN#0/notvisual the distance] .
+[/EN#80657/people A man] in [/EN#80660/clothing black clothes] standing on [/EN#0/notvisual what] appears to be [/EN#80658/other a black locomotive] .
+[/EN#80657/people A man] standing on [/EN#80658/other a locomotive] working on [/EN#0/notvisual it] .
+[/EN#80657/people A man] is working on [/EN#80658/vehicles/scene the coal car of a train] .
+[/EN#80657/people Man] fixing [/EN#80658/vehicles/scene a train] as [/EN#0/notvisual it] stops .

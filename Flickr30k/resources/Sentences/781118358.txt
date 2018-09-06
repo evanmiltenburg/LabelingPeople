@@ -1,0 +1,5 @@
+[/EN#275612/people A little boy] with [/EN#275616/bodyparts brown curly hair] , wearing [/EN#275614/clothing a red shirt] , is jumping on [/EN#275613/other a white bed] .
+[/EN#275612/people The young boy] in [/EN#275615/clothing the red and blue outfit] is poised in [/EN#275617/scene midair] .
+[/EN#275612/people A young boy] in [/EN#275614/clothing a red shirt] jumps on [/EN#275613/other a bed] .
+[/EN#275612/people A curly-haired boy] jumps up on [/EN#275613/other a bed] .
+[/EN#275612/people A little boy] jumping on [/EN#275613/other the bed]

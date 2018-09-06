@@ -1,0 +1,5 @@
+[/EN#117258/animals A group of horses] and [/EN#117259/people riders] are playing [/EN#117262/other polo] on [/EN#117260/scene the grass] .
+[/EN#117258/animals A group of horses] and [/EN#117259/people their riders] are racing [/EN#0/notvisual each other] .
+[/EN#117259/people Jockeys] are riding [/EN#117258/animals their horses] down [/EN#117260/scene the track] .
+[/EN#117259/people Jockeys] racing [/EN#117258/animals horses] down [/EN#117260/scene a grass track] .
+[/EN#117261/other A horse race] on [/EN#117260/scene a grass track]

@@ -1,0 +1,5 @@
+[/EN#118001/people A man] with [/EN#118002/clothing a cap] and [/EN#118012/clothing brown shirt] is standing on [/EN#118003/other a grassy incline] by [/EN#118004/scene a pile of hay or grass] on [/EN#118005/other some kind of wooden sled] attached to [/EN#118006/animals a horse] with [/EN#118013/other chains] .
+[/EN#118001/people A man] in [/EN#118002/clothing a hat] holding [/EN#118011/other a tool] stands next to [/EN#118006/animals a horse] hitched to [/EN#118005/other a sled] filled with [/EN#118004/other hay] in [/EN#118010/scene a hilly area] .
+[/EN#118001/people A man] wearing [/EN#118014/clothing dark clothing] and [/EN#118002/clothing a ball cap] stands next to [/EN#118006/animals a horse] [/EN#0/notvisual that] is hauling [/EN#118004/scene a load of grass] .
+[/EN#118001/people A farmer] stands beside [/EN#118006/animals his horse] [/EN#0/notvisual which] is pulling [/EN#118005/other a sled] loaded with [/EN#118004/other hay] along [/EN#118009/scene a dirt path] .
+[/EN#118001/people A man] stands next to [/EN#118005/other a horse-drawn sled] piled with [/EN#118004/scene grass] .

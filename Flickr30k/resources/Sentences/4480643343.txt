@@ -1,0 +1,5 @@
+[/EN#171912/people A little girl] in [/EN#171916/clothing an orange] sarong holds [/EN#171913/other her doll] against [/EN#171914/scene an iron fence] as [/EN#171918/vehicles a bicycle] passes behind [/EN#0/notvisual her] .
+[/EN#171912/people A small girl] in [/EN#171915/clothing an orange dress] holds [/EN#171913/other her rag doll] up against [/EN#171914/scene the gate] .
+[/EN#171912/people A child] is looking through [/EN#171914/scene a fence] , while holding [/EN#171913/people a smaller child] .
+[/EN#171912/people This little child] in [/EN#171915/clothing orange] is holding [/EN#171913/other a baby doll] .
+[/EN#171912/people A young Indian child] holds [/EN#171913/other a doll] along [/EN#171914/scene a fence] .

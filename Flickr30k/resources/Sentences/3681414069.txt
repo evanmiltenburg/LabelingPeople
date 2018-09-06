@@ -1,0 +1,5 @@
+[/EN#136481/animals One black and white dog] sleeps while [/EN#136479/animals the other two black and white dogs] play with [/EN#136480/clothing a plastic bag] .
+[/EN#136478/animals Three black and white pug dogs] were laying and playing outside .
+[/EN#136479/animals Two small dogs] are fighting over [/EN#136480/clothing a bag] while [/EN#0/notvisual another] sleeps .
+[/EN#136479/animals Two puppies] playing with [/EN#136480/clothing a plastic bag] .
+[/EN#136482/other Three] spotted [/EN#136478/animals dogs] outside [/EN#136483/scene a house] .

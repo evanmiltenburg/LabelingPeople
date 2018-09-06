@@ -1,0 +1,5 @@
+[/EN#32887/people A child] leans on [/EN#32890/bodyparts an adult 's lap] while peaking underneath [/EN#32889/other a table] at [/EN#32888/scene a booth] .
+[/EN#32887/people A boy] is laying [/EN#32894/bodyparts his head] on [/EN#32890/people the lap of the person] [/EN#0/notvisual who] is sitting at [/EN#32889/other a desk] .
+[/EN#32893/scene A view] from under [/EN#32887/people a table of a young boy] laying in [/EN#32891/bodyparts an older person 's lap] .
+[/EN#32887/people A boy] leaning against [/EN#32891/people somebody] on [/EN#32888/scene a booth seat] looking under [/EN#32887/other the table] .
+[/EN#32887/people A little boy] lying down looking under [/EN#32887/other a table] .

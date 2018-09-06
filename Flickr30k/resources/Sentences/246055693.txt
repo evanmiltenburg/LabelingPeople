@@ -1,0 +1,5 @@
+[/EN#51193/animals A yellow dog] is jumping across [/EN#51194/scene a grassy yard] in front of [/EN#51195/other a wooden deck] .
+[/EN#51193/animals A tan dog] runs down [/EN#51197/scene a wooden staircase] to [/EN#51194/scene the green grass] .
+[/EN#51193/animals A blond dog] runs down [/EN#51195/scene a flight of stairs] to [/EN#51194/scene the backyard] .
+[/EN#51193/animals A yellow dog] jumping off of [/EN#51196/scene a porch] .
+[/EN#51193/animals A dog] jumps off [/EN#51195/other the stairs] .

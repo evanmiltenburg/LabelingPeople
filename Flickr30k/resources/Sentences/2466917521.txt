@@ -1,0 +1,5 @@
+[/EN#51597/people An elderly person] wearing [/EN#51603/clothing glasses] and [/EN#51599/clothing an oversized gray coat] is sitting in [/EN#51600/scene a doorway] .
+[/EN#51597/people An elderly person] wearing [/EN#51599/clothing a robe] sitting on [/EN#51598/other a stool] at [/EN#51605/other the bottom of a stairs] .
+[/EN#51597/people An elderly man] in [/EN#51599/clothing a white turban] sitting in [/EN#51598/other a chair] near [/EN#51601/scene a staircase] .
+[/EN#51597/people A religious man] in [/EN#51599/clothing a robe] is sitting in [/EN#51602/other contemplation] .
+[/EN#51597/people An elderly man] sits on [/EN#51598/other a stool] robed in [/EN#51599/other off-white]

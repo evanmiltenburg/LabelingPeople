@@ -1,0 +1,5 @@
+[/EN#58703/people The people] seem to be dancing , [/EN#58704/people a man] in [/EN#58705/clothing a black hat] in [/EN#58718/other the back of the image] is pointing [/EN#58706/bodyparts his finger] , and [/EN#0/notvisual there] is [/EN#58707/people a picture of a woman] on [/EN#0/notvisual the left side] .
+[/EN#58704/people A man] is standing on [/EN#58708/bodyparts his hands] while [/EN#0/notvisual another] is on [/EN#58709/other his back] with [/EN#58710/people two men] wearing [/EN#58711/clothing white] watching .
+[/EN#58710/people A few men] are inside [/EN#58717/scene a gym] , [/EN#58712/other some standing] on [/EN#58713/bodyparts their hands] and [/EN#58714/other some] standing up .
+[/EN#58715/people A man] is being lifted by [/EN#58704/people another man] in [/EN#58716/other a asian martial arts] move .
+[/EN#58703/people A group of martial arts students] are practicing [/EN#58721/other their moves] .

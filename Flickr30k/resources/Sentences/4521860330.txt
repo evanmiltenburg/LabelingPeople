@@ -1,0 +1,5 @@
+[/EN#175174/people A man] [/EN#0/notvisual that] is working efficiently is wearing [/EN#175181/clothing a denim jacket] and attempting to fix [/EN#175175/other something] .
+[/EN#175174/people An electrician] is observed from [/EN#175177/scene a birds eye view] working on [/EN#175175/other a transformer box] .
+[/EN#175174/people A man] works with [/EN#175176/other tools] on [/EN#175179/scene an automatic toll-booth bar] .
+[/EN#175174/people A man] uses [/EN#175176/other tools] to work on [/EN#175178/scene a mechanical gate] .
+[/EN#175174/people A man] is using [/EN#175176/other tools] to make [/EN#175180/other repairs] .

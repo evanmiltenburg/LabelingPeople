@@ -1,0 +1,5 @@
+[/EN#32787/people A man] in [/EN#32788/clothing a gray sweater] is eating [/EN#32789/other a sandwich] with [/EN#32791/other meat] .
+[/EN#32787/people A man] in [/EN#32788/clothing a gray jacket] is eating [/EN#32789/other a sandwich] .
+[/EN#32787/people A man] in [/EN#32788/clothing a gray jacket] eating [/EN#32789/other a sandwich] .
+[/EN#32787/people A man] in [/EN#32788/clothing a sweatshirt] eating [/EN#32789/other a sandwich] .
+[/EN#32787/people A young man] is eating [/EN#32789/other a sandwich] .

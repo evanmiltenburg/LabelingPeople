@@ -1,0 +1,5 @@
+[/EN#223631/people A man] walking past [/EN#223633/scene a lamp post] with [/EN#223632/other a sign] saying [/EN#223639/animals ' no dogs] allowed ' .
+[/EN#223631/people A man] is walking by [/EN#223635/other a pole] with [/EN#223632/other a no pets sign] .
+[/EN#223631/people A man] in [/EN#223640/clothing a gray shirt] is walking along [/EN#223634/scene a path] .
+[/EN#223631/people A man] talks on [/EN#223637/other his cellphone] in [/EN#223638/people private] .
+[/EN#223631/people Man] taking [/EN#223636/other a walk] by [/EN#0/notvisual himself] .

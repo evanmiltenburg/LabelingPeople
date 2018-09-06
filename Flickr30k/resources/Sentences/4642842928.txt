@@ -1,0 +1,5 @@
+[/EN#185882/people A man] in [/EN#185885/people a woman] sit on [/EN#185886/other a motorcycle] on [/EN#185889/scene a busy street] at [/EN#185888/scene night] .
+[/EN#185882/people A man] and [/EN#185885/people a woman] are riding on [/EN#185886/vehicles a motorized scooter] .
+[/EN#185884/people Two people] riding [/EN#185886/vehicles a scooter] at [/EN#185888/scene night] in [/EN#185890/vehicles traffic] .
+[/EN#185883/people An Asian couple] riding on [/EN#185886/vehicles a motor scooter] .
+[/EN#185882/people A man] and [/EN#185885/people a woman] on [/EN#185886/vehicles a scooter] .

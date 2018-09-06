@@ -1,0 +1,5 @@
+[/EN#167052/people A man] in [/EN#167058/clothing a purple outfit] milking [/EN#167062/animals reindeer] with [/EN#167055/scene a forest] in [/EN#0/notvisual the background] .
+[/EN#167052/people A woman] in [/EN#167058/clothing purple garb] is crouched down in [/EN#167056/animals a group of reindeer] .
+[/EN#167052/people A person] in [/EN#167058/clothing a purple jacket] is squatting around [/EN#167057/other several moose] .
+[/EN#167052/people A woman] in [/EN#167060/clothing a hat] tends to [/EN#167056/animals a herd of reindeer] in [/EN#167059/scene a field] .
+[/EN#167052/people woman] surrounded by [/EN#167055/scene forest] tending to [/EN#167057/other a moose]

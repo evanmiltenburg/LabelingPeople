@@ -1,0 +1,5 @@
+[/EN#8049/animals Two dogs] playing in [/EN#8050/scene a misty field] filled with [/EN#8050/other purple flowers]
+[/EN#8049/animals Two dogs] are running through [/EN#8050/other a field of pink flowers] .
+[/EN#8049/animals The two dogs] are running through [/EN#8050/other a field of flowers] .
+[/EN#8049/animals Two gray dogs] run through [/EN#8050/other a field of pink heather] .
+[/EN#8049/animals Two dogs] bound over [/EN#8050/scene a flower-covered hill] .

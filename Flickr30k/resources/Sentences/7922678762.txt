@@ -1,0 +1,5 @@
+[/EN#276641/people A man] and [/EN#276645/people a woman] are spray painting [/EN#276644/other an image] on [/EN#276643/other a wall] .
+[/EN#276642/people two artist] spray painting [/EN#276644/other a mural] on [/EN#276643/other a concrete wall]
+[/EN#276641/people A man] and [/EN#276645/people woman] spray painting [/EN#276643/other a wall] with [/EN#276644/other art] .
+[/EN#276641/people A man] and [/EN#276645/people a woman] are spray painting [/EN#276643/other a wall] .
+[/EN#276642/people Two people] create [/EN#276644/other graffiti] .

@@ -1,0 +1,5 @@
+[/EN#239459/people 3 people] ( [/EN#239465/people 2 male] [/EN#239464/people 1 female] ) are replacing [/EN#239466/other the wood chips] at [/EN#239460/scene a playground] , using [/EN#239462/vehicles wheelbarrows] .
+[/EN#239459/people 3 people] are working in [/EN#239460/scene a park] doing [/EN#239461/other various tasks] using [/EN#239462/vehicles wheelbarrows] and [/EN#239463/other a rake] .
+[/EN#239459/people People] working together fill [/EN#239462/vehicles wheelbarrows] at [/EN#239460/scene a playground] .
+[/EN#239459/people People] pushing [/EN#239462/vehicles wagons] do [/EN#239461/other yard work] on [/EN#239460/scene a children 's park] .
+[/EN#0/notvisual This] is [/EN#239458/people two men] building [/EN#239460/scene a playground] .

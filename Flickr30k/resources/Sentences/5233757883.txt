@@ -1,0 +1,5 @@
+[/EN#231659/people A dark-haired gentleman] with [/EN#231662/bodyparts a mustache] and wearing [/EN#231661/clothing a sweater] is simultaneously pressing [/EN#231667/other buttons] on [/EN#231660/other an old-fashioned computer monitor] and [/EN#231666/other the keyboard] .
+[/EN#231659/people A man] wearing [/EN#231661/clothing a gray sweater] sitting at [/EN#231664/other a desk] with [/EN#231663/other an old version of a computer] in front of [/EN#0/notvisual him] , [/EN#231669/bodyparts one of his hands] is turning [/EN#231665/other a dial] on [/EN#231660/other the computer] .
+[/EN#231659/people A man] with [/EN#231662/bodyparts a mustache] and wearing [/EN#231661/clothing a gray sweater] sits in front of [/EN#231660/other an old style computer] .
+[/EN#231659/people A man] with [/EN#231662/bodyparts a mustache] sits in front of [/EN#231663/other a small computer] .
+[/EN#231659/people A man] with [/EN#231668/bodyparts curly hair] is looking at [/EN#231660/other an old computer]

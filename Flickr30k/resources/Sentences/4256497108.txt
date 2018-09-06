@@ -1,0 +1,5 @@
+[/EN#160480/people A man] is sitting on [/EN#160481/people a blue machine of some kind] , on [/EN#160482/scene the side of the road] .
+[/EN#160480/people A man] is sitting on [/EN#160481/other a piece of machinery] along side [/EN#160482/scene a road] near [/EN#160483/scene farmland] .
+[/EN#160480/people A man] in [/EN#160487/clothing a blue shirt] and [/EN#160488/clothing black pants] is sitting on [/EN#160481/other a blue generator] .
+[/EN#160480/people A older man] waits for [/EN#160484/other a ride] on [/EN#160482/scene the side of a country road] .
+[/EN#160480/people A man] takes [/EN#160486/scene a seat] while [/EN#0/notvisual he] rests .

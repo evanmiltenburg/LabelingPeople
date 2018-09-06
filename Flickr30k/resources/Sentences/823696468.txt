@@ -1,0 +1,5 @@
+[/EN#280697/people A man] in [/EN#280699/clothing a white shirt] with [/EN#280702/clothing green oven mitts] grilling [/EN#280700/animals fish] on [/EN#280698/other a gas bar-b-que] .
+[/EN#280697/people A man] is examining [/EN#280700/animals some fish] being cooked by planking on [/EN#280698/other a grill] .
+[/EN#280697/people A man] in [/EN#280699/clothing a white sweatshirt] standing over [/EN#280698/other an open grill] .
+[/EN#280697/people A man] is checking [/EN#280701/other the meat] [/EN#0/notvisual he] prepared on [/EN#280698/other the grill] .
+[/EN#280697/people A man] grilling [/EN#280701/scene three pieces of salmon outside] .

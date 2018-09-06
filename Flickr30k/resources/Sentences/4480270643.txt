@@ -1,0 +1,5 @@
+[/EN#171875/people A person] standing in front of [/EN#171880/other a window] overlooking [/EN#171876/scene a large body of water] , next to [/EN#171877/scene a large indoor pool] .
+[/EN#171875/people A person] standing next to [/EN#171877/scene an indoor pool] while looking at [/EN#171876/scene the ocean outside] .
+[/EN#171875/people A man] standing in [/EN#171878/scene a strange building] is looking out [/EN#171879/other a window] at [/EN#171876/scene the water] .
+[/EN#171875/people Man] checking out [/EN#171876/scene a body of water] from inside [/EN#171880/other latticework] .
+[/EN#171875/people A man] standing in [/EN#171878/scene a large room] by [/EN#171880/other a window] .

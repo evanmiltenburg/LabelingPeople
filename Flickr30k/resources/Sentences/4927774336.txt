@@ -1,0 +1,5 @@
+[/EN#219156/people A person] has [/EN#219164/bodyparts his or her arms] crossed , holding [/EN#219162/other an object] , while [/EN#219163/other a piece of clothing lays] on [/EN#219160/bodyparts his or her head] and [/EN#219159/clothing an umbrella] is beside [/EN#0/notvisual him] or [/EN#0/notvisual her] .
+[/EN#219156/people A woman] sitting outside in [/EN#219157/other the sun] with [/EN#219158/clothing a jacket] over [/EN#219160/bodyparts her head] and [/EN#219159/clothing a rainbow umbrella] next to [/EN#0/notvisual her] .
+[/EN#219156/people A woman] sitting down by [/EN#219161/clothing a closed umbrella] with [/EN#219158/clothing a piece of clothing] on [/EN#219160/bodyparts her head] .
+[/EN#219156/people A woman] covers [/EN#219160/bodyparts her head] while [/EN#219165/scene outside] in [/EN#219157/other the bright sunlight] .
+[/EN#219156/people A woman] with [/EN#219158/clothing a jacket] over [/EN#219160/bodyparts her head] .

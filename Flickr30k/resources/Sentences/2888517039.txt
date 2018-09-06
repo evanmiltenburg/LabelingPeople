@@ -1,0 +1,5 @@
+[/EN#79150/people Two men] pouring [/EN#80000/other concrete] onto [/EN#79152/vehicles another truck] .
+[/EN#79150/people Two men] are working by [/EN#79152/vehicles a big truck] .
+[/EN#79150/people These men] operate [/EN#79152/other the cement mixer] .
+[/EN#79150/people Men] are working by [/EN#79152/other a cement mixer] .
+[/EN#79150/people People] operating [/EN#79152/vehicles a cement truck]

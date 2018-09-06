@@ -1,0 +1,5 @@
+[/EN#168295/people An elderly man] with [/EN#168301/bodyparts light brown hair] , wearing [/EN#168302/clothing a gray sweater] , [/EN#168303/clothing blue shirt] , [/EN#168304/clothing brown pants] and [/EN#168306/clothing tan shoes] , reads [/EN#168298/other a book] sitting at [/EN#168296/other a bench] , as [/EN#168300/animals two ducks] feed [/EN#0/notvisual themselves] on [/EN#168308/scene the grass] .
+[/EN#168295/people A man] with [/EN#168301/bodyparts parted hair] and wearing [/EN#168305/clothing glasses] is seated [/EN#168299/scene outdoors] on [/EN#168296/other a bench] where [/EN#0/notvisual he] is reading .
+[/EN#168295/people A man] sits outside at [/EN#168296/other a wooden table] and reads [/EN#168298/other a book] while [/EN#168300/animals ducks] eat in [/EN#0/notvisual the foreground] .
+[/EN#168295/people An elderly man] sitting on [/EN#168296/other a bench] while reading [/EN#168298/other a book] .
+[/EN#168295/people Man] reads in [/EN#168299/scene a park] while feeding [/EN#168300/animals the ducks] .

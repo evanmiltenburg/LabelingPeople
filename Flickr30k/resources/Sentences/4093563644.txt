@@ -1,0 +1,5 @@
+[/EN#155112/other A backhoe] is digging [/EN#155113/scene a trench] outside of [/EN#155114/scene a building] .
+[/EN#155112/other A piece of heavy machinery] sits in front of [/EN#155113/scene a hole] .
+[/EN#155112/other A yellow tractor] digging in [/EN#155115/other an urban environment] .
+[/EN#155112/vehicles A bulldozer] digging [/EN#155113/other a whole] in [/EN#0/notvisual the ground] .
+[/EN#155112/other Tractor] doing [/EN#155117/other construction work] .

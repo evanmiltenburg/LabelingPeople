@@ -1,0 +1,5 @@
+[/EN#107639/people A man] jumps [/EN#107642/vehicles a bicycle] down [/EN#107641/other a porch stairway] too close to [/EN#107643/scene the fence] .
+[/EN#107639/people Man] jumping over [/EN#107643/scene a rusty fence] on [/EN#107642/vehicles a blue bicycle] .
+[/EN#107639/people The boy] is on [/EN#107642/vehicles blue bike] and is above [/EN#107643/scene a fence] .
+[/EN#107639/people A kid] is jumping [/EN#107642/vehicles his bike] over [/EN#107643/scene a fence] .
+[/EN#107640/other Narrow streetway] in [/EN#107644/scene old village] .

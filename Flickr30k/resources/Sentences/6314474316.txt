@@ -1,0 +1,5 @@
+[/EN#252310/people A mustached man] wearing [/EN#252314/clothing red plaid kilt] , [/EN#252317/clothing blue shirt] , and [/EN#252315/clothing a black vest] is playing [/EN#252312/instruments a bagpipe] in front of [/EN#252311/people a similarly dressed man] holding [/EN#252313/instruments a drum] .
+[/EN#0/notvisual There] are [/EN#252311/people two kilted men] , [/EN#0/notvisual one of them] older and is holding [/EN#252312/instruments bagpipes] with [/EN#252311/other the other one] with [/EN#252313/instruments a drum] .
+[/EN#252310/people One man] in [/EN#252314/clothing a kilt] is playing [/EN#252312/instruments bagpipes] while [/EN#0/notvisual another] has [/EN#252313/instruments a drum] .
+[/EN#252311/people The Scottish musicians] are performing for [/EN#252316/people the crowd] .
+[/EN#252310/people A man] in [/EN#252314/clothing a irish suit] playing [/EN#252319/other the pipes] .

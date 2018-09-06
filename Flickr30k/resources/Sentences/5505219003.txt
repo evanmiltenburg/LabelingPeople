@@ -1,0 +1,5 @@
+[/EN#237789/people A man] in [/EN#237790/clothing a black collared shirt] is writing on [/EN#237791/other a chalkboard] covered in [/EN#237792/other equations] .
+[/EN#237789/people A man] in [/EN#237790/clothing a black striped shirt] is erasing [/EN#237791/other a chalkboard] while facing [/EN#0/notvisual it] .
+[/EN#237789/people A math professor] writes [/EN#237793/other his name] on [/EN#237791/other a chalkboard] full of [/EN#237792/other equations] .
+[/EN#237789/other Dr. Nava] working on [/EN#237792/other some mathematical equations] on [/EN#237791/other a blackboard] .
+[/EN#237789/people A professor] in [/EN#237790/clothing a black blazer] is writer on [/EN#237791/other a chalkboard] .

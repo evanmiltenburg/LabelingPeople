@@ -1,0 +1,5 @@
+[/EN#226156/animals A black dog] with [/EN#226161/scene a white spot] on [/EN#0/notvisual it] 's [/EN#226162/bodyparts neck] holding [/EN#226157/other a frisbee] looking away from [/EN#0/notvisual the camera] .
+[/EN#226156/animals A black dog] holds [/EN#226157/other a frisbee] in [/EN#226158/bodyparts his mouth] while standing in [/EN#226160/scene a dark room] with [/EN#226165/people two people] .
+[/EN#226156/animals Dog] staring at [/EN#226163/other something] with [/EN#226157/other a toy] in [/EN#226158/bodyparts his mouth] .
+[/EN#226156/animals A black dog] with [/EN#226157/other a toy] in [/EN#226159/bodyparts his mouth] by [/EN#226164/other the shade] .
+[/EN#226156/animals A dog] with [/EN#226157/other a frisbee] in [/EN#226159/bodyparts its mouth] .

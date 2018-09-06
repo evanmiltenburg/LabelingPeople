@@ -1,0 +1,5 @@
+[/EN#199812/people Several people] wait at [/EN#199818/other a subway stop] in [/EN#199816/scene an Asian country] , [/EN#0/notvisual there] is [/EN#199813/other graffiti] on [/EN#199815/other the wall] at [/EN#199820/scene the train tracks] .
+[/EN#0/notvisual It] seems to be [/EN#199814/scene an asian subway station] with [/EN#199812/people few people] and [/EN#199819/other signs] in [/EN#199813/other a foreign writing] on [/EN#199815/other the wall] .
+[/EN#199812/people People] standing at [/EN#199814/scene a train station] waiting for [/EN#199811/vehicles/scene the train] .
+[/EN#199811/vehicles/scene A train] passes [/EN#199812/people a number of people] on [/EN#199817/other a subway platform] .
+[/EN#199812/people People] waiting at [/EN#199814/scene a subway station] .

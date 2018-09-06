@@ -1,0 +1,5 @@
+[/EN#72180/vehicles A number of cars] , including [/EN#72185/other a small blue one] with [/EN#72186/other chipped paint] and [/EN#72181/people a man] inside of [/EN#0/notvisual it] , are parked beside [/EN#72179/scene a Pemex gas station] .
+[/EN#72180/vehicles Vehicles] parked at [/EN#72184/scene a restaurant] and [/EN#72179/scene gas station] somewhere in [/EN#72183/other Mexico] .
+[/EN#72180/vehicles A row of cars] outside of [/EN#72179/scene a gas station] .
+[/EN#72179/scene A gas station] with [/EN#72182/vehicles many parked cars] .
+[/EN#72181/people a man] sitting in [/EN#72182/vehicles a parked car] .

@@ -1,0 +1,5 @@
+[/EN#22490/people An older woman] dressed in [/EN#22494/clothing an ill-fitting yellow shirt] and [/EN#22495/clothing blue plaid skirt] is sitting on [/EN#0/notvisual the ground] next to [/EN#22492/other two pails] .
+[/EN#22490/people A black woman] sitting in [/EN#22491/scene the dirt] next to [/EN#22492/other two buckets of rock] .
+[/EN#22490/people An old woman] sitting on [/EN#0/notvisual the ground] next to [/EN#22492/other two pails] .
+[/EN#22490/people A woman] sits next to [/EN#22493/other a bucket of collected clams] .
+[/EN#22490/people A woman] sitting in [/EN#22491/scene the dirt] .

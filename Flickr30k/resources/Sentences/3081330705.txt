@@ -1,0 +1,5 @@
+[/EN#91898/people The man] has [/EN#91907/clothing a blue shirt] on and is standing in front of [/EN#91905/scene some snowy mountains] .
+[/EN#91898/people A man] stands on [/EN#91904/other a mountaintop] looking over [/EN#91901/scene dry forests] and [/EN#91902/scene lakes] .
+[/EN#91898/people A man] is on top of [/EN#91900/scene a cliff] overlooking [/EN#91901/scene a forest] and [/EN#91902/scene lake] .
+[/EN#91898/people A man] stands on [/EN#91899/scene a mountain] overlooking [/EN#91906/other trees] and [/EN#91902/scene a lake] .
+[/EN#91898/people A man] on [/EN#91900/scene a cliff] .

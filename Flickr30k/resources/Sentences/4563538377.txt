@@ -1,0 +1,5 @@
+[/EN#178823/people A couple of men] on [/EN#178825/vehicles/scene a bus] are looking out [/EN#178827/other the window] .
+[/EN#178823/people An African American man] is riding [/EN#178825/vehicles/scene a bus] .
+[/EN#178823/people A man] is standing while riding [/EN#178825/vehicles/scene the bus] .
+[/EN#178823/people two men] are about to get off [/EN#178825/vehicles/scene a train] .
+[/EN#178823/people A black man] on [/EN#178826/vehicles/scene a train] .

@@ -1,0 +1,5 @@
+[/EN#130763/people Two men] are standing under [/EN#130764/other a large work of art] by [/EN#130769/scene a brick building] .
+[/EN#130763/people Two men] standing near [/EN#130764/other a metal structure] in front of [/EN#130766/other a brick wall] .
+[/EN#130763/people Two men] are standing under [/EN#0/notvisual what] looks to be [/EN#130764/other a giant robot] .
+[/EN#130763/people Two men] standing at [/EN#130768/other the feet of a large sculpture] .
+[/EN#130767/people a man] leans against [/EN#130764/other a large robot] .

@@ -1,0 +1,5 @@
+[/EN#102593/animals A white and brown spotted dog] runs along [/EN#102594/scene the snow] to catch [/EN#102595/other a ball] .
+[/EN#102593/animals A white dog] is running fast on [/EN#102594/scene a trail] covered by [/EN#102594/scene snow] .
+[/EN#102593/animals The brown and white dog] is playing in [/EN#102594/scene the snow] .
+[/EN#102593/animals A spotted dog] catching [/EN#102595/other a ball] on [/EN#102594/scene a snowy field] .
+[/EN#102593/animals A dog] in [/EN#102594/scene a snowy area] .

@@ -1,0 +1,5 @@
+[/EN#54095/people A woman] wearing [/EN#54097/clothing a straw hat] and [/EN#54096/clothing floral skirt] is sitting on [/EN#54098/other cement stairs] with [/EN#54100/bodyparts her head] in [/EN#54099/bodyparts her hands] .
+[/EN#54095/people The woman] wearing [/EN#54096/clothing a dress] and [/EN#54097/clothing hat] , sits on [/EN#54098/other the steps] , with [/EN#54100/bodyparts her head] on [/EN#54099/bodyparts her hands] .
+[/EN#54095/people The girl] wearing [/EN#54097/clothing the straw hat] is sitting on [/EN#54098/other the concrete steps] .
+[/EN#54095/people A woman] with [/EN#54097/clothing a straw hat] is sitting on [/EN#54098/scene steps outdoors] .
+[/EN#54095/people The woman] sits on [/EN#54098/other the steps] outside .

@@ -1,0 +1,5 @@
+[/EN#97455/people A man] wearing [/EN#97463/clothing a tan sweater] is sitting on [/EN#97461/scene the floor] playing [/EN#97458/instruments his violin] , using [/EN#97456/other a chair] as [/EN#97457/scene a music stand] .
+[/EN#97455/people A man] plays [/EN#97458/instruments violin] in [/EN#97460/scene a small living room] , looking at [/EN#97459/other music] propped on [/EN#97456/other a chair]
+[/EN#97455/people A man] plays [/EN#97458/instruments violin] while using [/EN#97456/other a living room chair] to hold [/EN#97459/other his sheet music] .
+[/EN#97455/people A man] in [/EN#97462/scene the kneeling position] playing [/EN#97458/instruments the violin] .
+[/EN#97455/people A violin player] uses [/EN#97456/other an old chair] as [/EN#97457/scene a music stand]

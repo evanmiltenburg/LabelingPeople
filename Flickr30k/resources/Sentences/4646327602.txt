@@ -1,0 +1,5 @@
+[/EN#186273/people A man] with [/EN#186278/clothing glasses] and [/EN#186276/clothing a red scarf] is walking behind [/EN#186269/people a woman] with [/EN#186279/clothing glasses] and [/EN#186270/clothing a black outfit] .
+[/EN#186269/people An older black woman] is walking along [/EN#186271/scene a tree-covered city street] .
+[/EN#186269/people A older woman] in [/EN#186270/clothing a dark coat] holds [/EN#186280/other a pack of paper] tightly .
+[/EN#186269/people A woman] with [/EN#186270/clothing a black coat] is walking down [/EN#186272/scene a sidewalk] .
+[/EN#186274/people People] going to [/EN#186277/scene a workshop] in [/EN#186275/scene another city] .

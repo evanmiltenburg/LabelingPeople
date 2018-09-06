@@ -1,0 +1,5 @@
+[/EN#157023/animals A brown and black dog] running through [/EN#0/notvisual snow-covered ground] .
+[/EN#157023/animals A dog] with [/EN#157023/other black and brown fur] runs in [/EN#157025/scene the snow] .
+[/EN#157023/animals A dog] is standing in [/EN#157025/scene the snow] watching [/EN#0/notvisual the camera]
+[/EN#157023/animals A black dog] is running in [/EN#157025/scene snow] .
+[/EN#157023/animals A dog] running on [/EN#157025/scene snow] and [/EN#157025/other ice] .

@@ -1,0 +1,5 @@
+[/EN#188486/people A man] sits in [/EN#188487/other a chair] in [/EN#188496/other the shade] while [/EN#188490/people another man] paints graffiti on [/EN#188488/other a wall] .
+[/EN#188486/people A man] is sitting in [/EN#188487/other a chair] , as [/EN#188490/people another man] spray [/EN#188488/other paints] graffiti on [/EN#188488/other a wall] .
+[/EN#188492/people Two people] , [/EN#188494/other one seated and one] standing , in front of [/EN#188488/other a graffiti painting] .
+[/EN#188486/people A man] sits on [/EN#188487/other a stool] as [/EN#0/notvisual another] paints [/EN#188488/other a graffiti piece] on [/EN#188488/other a wall] .
+[/EN#188486/people Man] in [/EN#188497/clothing shorts] painting graffiti on [/EN#188488/other wall] .

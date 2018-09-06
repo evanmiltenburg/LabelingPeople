@@ -1,0 +1,5 @@
+[/EN#49721/people A man] in [/EN#49724/clothing blue overalls] and [/EN#49725/clothing red shirt] holding [/EN#49722/other a chainsaw] .
+[/EN#49721/people A man] in [/EN#49724/clothing blue overalls] is operating [/EN#49722/other a chainsaw] .
+[/EN#49721/people A man] in [/EN#49724/clothing blue overalls] is sawing [/EN#49723/other wood] .
+[/EN#49721/people A man] using [/EN#49722/other a chainsaw] to cut [/EN#49723/other lumber] .
+[/EN#49721/people A man] is sawing [/EN#49723/other a piece of wood] .

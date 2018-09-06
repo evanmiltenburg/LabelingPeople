@@ -1,0 +1,5 @@
+[/EN#90595/people Five hikers] stand around [/EN#90596/people a large rock pile] on [/EN#90599/scene a hill or mountain] .
+[/EN#90595/people A group of people] standing next to [/EN#90596/other flat stones] on [/EN#90597/scene a mountainside] .
+[/EN#90595/people Several hikers] are standing on [/EN#90596/scene a hill] by [/EN#90596/other a large pile of rocks] .
+[/EN#90596/other A pile of rocks] and [/EN#90595/people a group of people] around [/EN#0/notvisual it] .
+[/EN#90595/people Five people] standing by [/EN#90596/other rocks] and [/EN#90598/scene mountains] .

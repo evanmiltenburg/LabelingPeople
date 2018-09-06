@@ -1,0 +1,5 @@
+[/EN#122424/vehicles/scene An orange boat] with [/EN#122425/people three men] in [/EN#122427/clothing life jackets] aboard is making [/EN#122430/other a turn] in [/EN#122426/scene an ocean] setting .
+[/EN#122425/people Three men] in [/EN#122424/other a bright orange boat race] across [/EN#122426/scene the water] as [/EN#122431/other foam sprays] in [/EN#0/notvisual the air] .
+[/EN#122425/people Men] wearing [/EN#122427/clothing life vests] speed across [/EN#122426/scene a body of water] in [/EN#122424/vehicles/scene an orange boat] .
+[/EN#122425/people The rescue team] is going fast to reach [/EN#122432/other survivors of the sunken ship] .
+[/EN#122425/people Three rescue workers] in [/EN#122424/vehicles/scene an orange boat] racing to [/EN#122429/other an emergency] .

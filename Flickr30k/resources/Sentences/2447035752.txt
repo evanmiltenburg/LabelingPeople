@@ -1,0 +1,5 @@
+[/EN#50329/people Some people] are sitting in [/EN#50330/scene a watery pool] beside [/EN#50331/scene the river] .
+[/EN#50329/people People] in or near [/EN#50330/scene water] with [/EN#50328/other trees] in [/EN#0/notvisual the background] .
+[/EN#0/notvisual There] are [/EN#50329/people people] in [/EN#50330/scene swimming pool] next to [/EN#50331/scene a river] .
+[/EN#50329/people people] lounge in [/EN#50327/people a man] made [/EN#50330/scene pool] , next to [/EN#50331/scene a river]
+[/EN#50329/people Seven people] are wading in [/EN#50330/scene a natural pool] .

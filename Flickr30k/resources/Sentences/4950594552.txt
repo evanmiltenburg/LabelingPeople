@@ -1,0 +1,5 @@
+[/EN#222350/people A man] in [/EN#222354/clothing a smart fedora hat] , [/EN#222360/clothing black shirt] , and [/EN#222361/clothing blue jeans] , carrying [/EN#222359/other a manila folder] , strides to [/EN#222355/scene the left] against [/EN#222358/other a black wall] with [/EN#222351/other a large white arrow] pointing [/EN#222355/scene the other way] .
+[/EN#222350/people Gentleman] with [/EN#222354/clothing pork pie hat] walking with [/EN#222362/other conviction] in [/EN#0/notvisual opposite direction] that [/EN#222351/other large white arrow] is pointing .
+[/EN#222350/people A man] is walking in front of [/EN#222352/scene a building] with [/EN#222351/other an arrow] pointing in [/EN#0/notvisual the opposite direction] .
+[/EN#222350/people Man] walking in front of [/EN#222357/people Queen] and [/EN#222353/scene Portland Lofts] and [/EN#222356/other Condominiums] .
+[/EN#222351/other An arrow] pointing at [/EN#222350/people a man] in [/EN#222354/clothing a white hat] [/EN#0/notvisual who] is walking by .

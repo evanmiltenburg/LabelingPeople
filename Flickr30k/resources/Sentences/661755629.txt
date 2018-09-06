@@ -1,0 +1,5 @@
+[/EN#256206/animals A black and brown dog] with [/EN#256209/scene a red ball overhead] plays in [/EN#256211/scene the grass] .
+[/EN#256206/animals This tiny dog] is about to jump in [/EN#0/notvisual the air] to catch [/EN#256207/other a red ball] .
+[/EN#256206/animals a little furry dog] playing with [/EN#256207/other a red ball] in [/EN#256208/scene a forest]
+[/EN#256206/animals A small dog] tries to catch [/EN#256207/other a red ball] .
+[/EN#256206/animals A little dog] is looking at [/EN#256207/other a red ball] .

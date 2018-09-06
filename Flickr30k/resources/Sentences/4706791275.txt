@@ -1,0 +1,5 @@
+[/EN#193386/people A small child] in [/EN#193391/clothing a white shirt] and [/EN#193392/clothing yellow pants] uses [/EN#193389/other a too-large mop] to clean [/EN#193387/scene a kitchen floor] .
+[/EN#193386/people A little boy] on [/EN#193387/scene a tiled kitchen floor] holding [/EN#193389/clothing a red] swifter .
+[/EN#193386/people A child] is cleaning in [/EN#193387/scene the kitchen] with [/EN#193389/other a mop] .
+[/EN#193386/people A small child] is trying to mop [/EN#193387/scene the tile floor] .
+[/EN#193386/people toddler] plays with [/EN#193389/other mop] on [/EN#193387/scene kitchen floor]

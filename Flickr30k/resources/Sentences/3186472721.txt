@@ -1,0 +1,5 @@
+[/EN#99463/people A man] is standing at [/EN#99468/other a counter] making [/EN#99466/other a meal] , following [/EN#99465/other a recipe] from [/EN#99465/other a cookbook] in front of [/EN#0/notvisual him] .
+[/EN#99463/people A man] wearing [/EN#99464/clothing a black t-shirt] is preparing [/EN#99466/other a meal] following [/EN#0/notvisual directions] from [/EN#99465/other a recipe book] .
+[/EN#99463/people A man] in [/EN#99464/clothing a black shirt] is cooking out of [/EN#99465/other a cookbook] in [/EN#99470/scene a cluttered kitchen] .
+[/EN#99463/people A man] reading [/EN#99465/other a cookbook] and making [/EN#99465/other the recipe] .
+[/EN#99463/people a man] in [/EN#99464/clothing a black shirt] is cooking from [/EN#99465/other a recipe]

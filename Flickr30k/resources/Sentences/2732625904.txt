@@ -1,0 +1,5 @@
+[/EN#69157/people A girl] in [/EN#69159/clothing a pink sundress] rides [/EN#69158/vehicles a bike] next to [/EN#69160/scene a white picket fence] .
+[/EN#69157/people A girl] in [/EN#69159/clothing a pink dress] rides [/EN#0/notvisual her] [/EN#69158/vehicles bike] along [/EN#69160/scene a white picket fence] .
+[/EN#69157/people A girl] in [/EN#69159/clothing a red sundress] rides [/EN#69158/vehicles a bike] past [/EN#69160/scene a white picket fence] .
+[/EN#69157/people A girl] in [/EN#69159/clothing a red dress] rides [/EN#69158/vehicles her bike] in front of [/EN#69160/scene a white fence] .
+[/EN#69157/people A girl] wearing [/EN#69159/clothing pink] rides [/EN#69158/vehicles a yellow bike] near [/EN#69160/scene a white fence] .

@@ -1,0 +1,5 @@
+[/EN#116695/people A man] is sleeping on [/EN#116699/scene the floor] with [/EN#116696/animals a sleeping dog] across [/EN#116700/bodyparts his chest] .
+[/EN#116695/people A girl] in [/EN#116697/clothing a gray hooded sweatshirt] asleep with [/EN#116696/animals a black dog] .
+[/EN#116695/people A girl] in [/EN#116697/clothing a hoodie] takes [/EN#116701/other a nap] with [/EN#116696/animals her black dog] .
+[/EN#116695/people A lady] and [/EN#116696/animals a dog] are sleeping next to [/EN#0/notvisual each other] .
+[/EN#116695/people A sleeping woman] holding [/EN#116696/animals a sleeping dog] .

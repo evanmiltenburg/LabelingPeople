@@ -1,0 +1,5 @@
+[/EN#63430/people Two women] , [/EN#63431/other one] with [/EN#63432/clothing a blue shirt] , [/EN#63431/other the other] with [/EN#63433/clothing a red and white striped shirt] are shopping at [/EN#63442/scene target] .
+[/EN#63430/people 2 women] , [/EN#63431/other one] wearing [/EN#63433/clothing a red and white striped shirt] and [/EN#63434/other the other] in [/EN#63432/clothing a blue shirt] shopping at [/EN#63442/scene Target] .
+[/EN#63430/people Two ladies] are shopping at [/EN#63442/scene Target] for [/EN#63443/other various items] [/EN#0/notvisual they] had put on [/EN#63435/other their shopping list] .
+[/EN#63430/people Two women] are consulting [/EN#63436/other a shopping list] while stopped at [/EN#63437/other the end of an aisle] at [/EN#63442/scene Target] .
+[/EN#63431/people One woman] reads [/EN#63439/other a piece] [/EN#63436/other a paper] while [/EN#63434/people the woman] next to [/EN#0/notvisual her] holds on to [/EN#63441/vehicles a shopping cart] .

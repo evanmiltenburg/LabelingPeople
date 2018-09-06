@@ -1,0 +1,5 @@
+[/EN#258074/people A woman] in [/EN#258077/clothing a striped sweater] and [/EN#258078/clothing cap] is reading [/EN#258076/other the description of an item] on [/EN#258072/other exhibit] and [/EN#258080/scene a museum] .
+[/EN#258079/people Group of people] in [/EN#258080/scene a museum] looking at [/EN#258072/other the exhibits] .
+[/EN#258079/people People] are looking at [/EN#258073/other pieces] on [/EN#258072/other display] at [/EN#258080/scene a museum] .
+[/EN#258074/people A couple] are looking at [/EN#258073/other stuff] at [/EN#258080/scene a museum] .
+[/EN#258079/people People] studying [/EN#258072/other a display] .

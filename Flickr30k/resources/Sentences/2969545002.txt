@@ -1,0 +1,5 @@
+[/EN#84635/people A white-haired man] and [/EN#84636/people a dark headed woman] are standing in [/EN#84637/scene the forest] while talking .
+[/EN#84636/people A young woman] and [/EN#84635/people an elderly man] standing in [/EN#84638/other the woods] .
+[/EN#84635/people A man] and [/EN#84636/people a woman] are standing in [/EN#84637/scene a forest] .
+[/EN#84639/people Two people] having [/EN#84640/other a conversation] [/EN#84637/scene outdoors] .
+[/EN#84635/people A old man] and [/EN#84636/people a woman] stand in [/EN#84638/other the woods] .

@@ -1,0 +1,5 @@
+[/EN#152749/animals A dog] on [/EN#152752/scene wood floor] is staring at [/EN#152750/other a yellow ball] [/EN#0/notvisual that] is lying on [/EN#152751/other orange carpet] .
+[/EN#152749/animals The dog] crouched on [/EN#152751/other the orange rug] and stared at [/EN#152750/other the tennis ball] .
+[/EN#152749/animals A little brown dog] stares at [/EN#152750/other a tennis ball] on [/EN#152751/other an orange carpet] .
+[/EN#152749/animals A dog] is about to get [/EN#152750/other a ball] [/EN#0/notvisual that] is on [/EN#152751/other orange carpet] .
+[/EN#152749/animals Puppy] playing with [/EN#152750/other a tennis ball] on [/EN#152751/other an orange rug] .

@@ -1,0 +1,5 @@
+[/EN#20198/people A woman] in [/EN#20204/clothing a white shirt] sitting on [/EN#20199/other a gray bench] in front of [/EN#20200/other a wall] with [/EN#20201/other graffiti] written on [/EN#0/notvisual it] .
+[/EN#20198/people An woman] sits on [/EN#20199/other a gray bench] in front of [/EN#20200/other a concrete wall] with [/EN#20201/other graffiti] .
+[/EN#20198/people A woman] sitting on [/EN#20199/other a bench] looking at [/EN#20203/other something] in [/EN#20205/bodyparts her lap] .
+[/EN#20198/people A woman] sits on [/EN#20199/other a gray bench] beside [/EN#20202/other a bottle] .
+[/EN#20198/people A woman] is sitting alone on [/EN#20199/scene a block] .

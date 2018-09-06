@@ -1,0 +1,5 @@
+[/EN#352/people A person] in [/EN#359/clothing tan pants] is inside [/EN#353/other a silver mobile object] while [/EN#351/people people] watch .
+[/EN#351/people People] are watching [/EN#352/people a person] in [/EN#353/vehicles a weird vehicle] in [/EN#360/scene a plaza] .
+[/EN#357/people A man] in [/EN#358/clothing a blue shirt] driving [/EN#353/vehicles a Segway type vehicle] .
+[/EN#353/other a showing of product] to advertise
+[/EN#351/people A crowd] admiring [/EN#353/other modern art] ?

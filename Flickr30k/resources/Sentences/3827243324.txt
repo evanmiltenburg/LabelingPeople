@@ -1,0 +1,5 @@
+[/EN#144641/people A lone hiker] with [/EN#144642/clothing a red backpack] walks down [/EN#144643/scene a cobblestone path] .
+[/EN#144641/people A person] with [/EN#144642/clothing a backpack] is walking on [/EN#144643/scene a cobblestone path] .
+[/EN#144641/people Hiker] walks along [/EN#144643/scene mountainside stone path] .
+[/EN#144641/people A solitary hiker] walks down [/EN#144643/scene a stone path] .
+[/EN#144641/people A person] walks across [/EN#144643/scene a stoned path] .

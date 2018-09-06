@@ -1,0 +1,5 @@
+[/EN#153259/people A group of people] in [/EN#153260/scene a dimly lit restaurant] with [/EN#153261/scene a black and white tile floor] .
+[/EN#153259/people A bunch of friends] sharing [/EN#153262/other a drink] and looking at [/EN#153263/other something] .
+[/EN#153259/people People] standing around [/EN#153260/scene a dimly lit bar] socializing .
+[/EN#153259/people People] at [/EN#153260/scene an upscale restaurant] socializing .
+[/EN#153259/people a group of people] at [/EN#153260/scene a hotel bar] .

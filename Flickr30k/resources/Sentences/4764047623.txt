@@ -1,0 +1,5 @@
+[/EN#200476/people A man] and [/EN#200479/people a woman] with [/EN#200486/bodyparts a head] covering are on [/EN#200478/scene a bridge] looking at [/EN#200480/scene the water] and [/EN#200477/vehicles/scene a boat] .
+[/EN#200476/people A man] and [/EN#200479/people a woman] wearing [/EN#200479/scene a hijab stand] on [/EN#200478/scene a bridge] as [/EN#200477/other a ship] passes in [/EN#0/notvisual the distance] .
+[/EN#200476/people A man] and [/EN#200479/people a woman] standing on [/EN#200481/other a bridge look] across [/EN#200480/scene the water] at [/EN#200477/vehicles/scene a boat] .
+[/EN#200476/people A man] and [/EN#200479/people woman] looking out over [/EN#200480/scene the water] while [/EN#200477/vehicles/scene a boat] goes by .
+[/EN#200476/people A man] and [/EN#200479/people woman] stop to take in [/EN#200484/scene the view] from [/EN#200478/scene a bridge] .

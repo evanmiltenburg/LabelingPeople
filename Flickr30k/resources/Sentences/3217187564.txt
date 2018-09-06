@@ -1,0 +1,5 @@
+[/EN#101899/animals A number eight racing dog] is beating [/EN#101900/other a number] [/EN#101901/animals four racing dog] slightly in [/EN#101898/other a race] .
+[/EN#0/notvisual There] are [/EN#101897/animals three dogs] wearing [/EN#101903/clothing numbered jerseys] running [/EN#101898/other a race] .
+[/EN#101897/animals Several dogs] wearing [/EN#101902/clothing muzzles] are racing on [/EN#101904/scene a track] .
+[/EN#101897/animals Three race dogs] run to finish [/EN#101898/other a race] .
+[/EN#101897/animals A group of dogs] racing .

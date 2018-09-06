@@ -1,0 +1,5 @@
+[/EN#26168/people The person] is in [/EN#26174/other a conoe] and holding [/EN#26175/other a paddle] in front of [/EN#26170/scene some mountains] .
+[/EN#26169/scene Beautiful scenery] with [/EN#26171/vehicles/scene a boat] on [/EN#26172/scene the lake] .
+[/EN#26168/people A person] paddles [/EN#26171/vehicles/scene a boat] on [/EN#26172/scene a lake] .
+[/EN#26168/people A man] paddling in [/EN#26172/scene water] .
+[/EN#26173/other Person canoes] in [/EN#26172/scene lake] .

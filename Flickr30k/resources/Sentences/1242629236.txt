@@ -1,0 +1,5 @@
+[/EN#6103/people A man] is sitting on [/EN#6104/other a short stool] , with [/EN#6105/other his back] turned to [/EN#0/notvisual the camera] , facing [/EN#6106/clothing some stacked orange] and [/EN#6107/other yellow crates] .
+[/EN#6103/people A man] in [/EN#6108/clothing a gray and black sweater] is sitting on [/EN#6104/other a stool] in front of [/EN#6109/other a group of cages] .
+[/EN#6103/people A man] wearing [/EN#6110/clothing a brown shoes] and with [/EN#6108/clothing a cardigan] and [/EN#6111/clothing glasses] sits in [/EN#6104/other a short stool] .
+[/EN#6103/people a man] sitting down on [/EN#6104/other a chair] next to [/EN#6109/other a bunch of cages]
+[/EN#6103/people A man] sitting on [/EN#6104/other a stool] next to [/EN#6109/other cages] .

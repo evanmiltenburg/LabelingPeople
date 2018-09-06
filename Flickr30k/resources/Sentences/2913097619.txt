@@ -1,0 +1,5 @@
+[/EN#80910/people A woman] wearing [/EN#80912/clothing a yellow shirt] is holding [/EN#80911/other a plate] [/EN#0/notvisual which] contains [/EN#80909/other a piece of cake] .
+[/EN#80910/people A woman] with [/EN#80912/clothing a yellow shirt] , [/EN#80908/bodyparts hands] out [/EN#80909/other chocolate cake] to [/EN#80904/people young children] .
+[/EN#80904/people A child] looking at [/EN#80909/other a cake] while [/EN#80909/other a slice] is being served .
+[/EN#80909/other A piece of cake] is being served on [/EN#80911/other a paper plate] .
+[/EN#80905/other a female handing cake] to [/EN#80906/people a group of people] .

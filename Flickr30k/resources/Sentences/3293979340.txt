@@ -1,0 +1,5 @@
+[/EN#107498/people A young man] with [/EN#107508/bodyparts black hair] , in [/EN#107501/clothing a white t-shirt] , [/EN#107505/clothing black shorts] with [/EN#107507/clothing red and blue stripes] along [/EN#0/notvisual the side] , jogging along [/EN#107504/scene a wire fence] .
+[/EN#107498/people A man] wearing [/EN#107500/clothing a white shirt and red and black shorts] is running on [/EN#107499/scene the sidewalk] .
+[/EN#107498/people A man] jogging on [/EN#107499/scene the sidewalk] while listening to [/EN#107506/other music] .
+[/EN#107498/people A man] in [/EN#107501/clothing a white shirt] is jogging on [/EN#107499/scene a sidewalk] .
+[/EN#107498/people A man] takes [/EN#107502/other a jog] down [/EN#107499/scene the sidewalk] .

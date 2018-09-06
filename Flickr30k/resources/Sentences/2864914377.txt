@@ -1,0 +1,5 @@
+[/EN#77614/people A man] in [/EN#77617/clothing a blue outfit] wearing [/EN#77618/clothing glasses] listening to [/EN#77619/clothing his headphones] while sitting on [/EN#77615/other a bench] .
+[/EN#77614/people A man] sitting on [/EN#77615/other a bus bench] while listening to [/EN#77620/other music] .
+[/EN#77614/people A man] in [/EN#77616/clothing a blue shirt] is sitting at [/EN#77615/other a bus stop] .
+[/EN#77614/people An African american] is waiting at [/EN#77615/other a bus stop] .
+[/EN#77614/people A man] in [/EN#77616/clothing a blue shirt] is sitting at [/EN#77615/other a bus stop] .

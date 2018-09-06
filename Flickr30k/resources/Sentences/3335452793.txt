@@ -1,0 +1,5 @@
+[/EN#110401/people A woman] is standing in [/EN#110408/scene a street] pointing to [/EN#110407/clothing hats] on [/EN#110406/other a table] next to [/EN#110402/people a little girl] .
+[/EN#110401/people A woman] in [/EN#110404/scene a market] gestures to [/EN#110403/clothing a hat] , while [/EN#110402/people a child] reaches for [/EN#110403/clothing the hat] .
+[/EN#110401/people A woman] stands on [/EN#110405/scene a sidewalk] behind [/EN#110406/other a table] filled with [/EN#110407/clothing hats] .
+[/EN#110402/people A small girl] reaches for [/EN#110403/clothing a black hat] as [/EN#110401/people the vendor] stands by .
+[/EN#110401/people A Hispanic mom] and [/EN#110402/people child] are selling [/EN#110407/clothing hats]

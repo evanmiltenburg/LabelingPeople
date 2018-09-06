@@ -1,0 +1,5 @@
+[/EN#155259/people A lady] walking in [/EN#0/notvisual a alleyway of what] appears to be [/EN#155265/scene a third world country] .
+[/EN#155259/people A woman] in [/EN#155264/clothing a flowered skirt] walks along [/EN#155261/scene the dirt streets] in [/EN#155260/scene her village] .
+[/EN#155259/people A woman] wearing [/EN#155266/clothing blue and red] walks through [/EN#155260/scene a rustic urban area] .
+[/EN#155259/people A woman] in [/EN#155263/clothing a blue shirt] walking in [/EN#155260/scene a village] .
+[/EN#155260/scene Little town] and [/EN#155267/people its people] on [/EN#155261/scene the streets] .

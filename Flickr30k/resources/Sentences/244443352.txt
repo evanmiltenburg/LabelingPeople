@@ -1,0 +1,5 @@
+[/EN#49955/animals A yellow dog] with [/EN#49956/clothing a red bandanna] fallen through [/EN#49958/scene the crust of the snow] .
+[/EN#49955/animals A brown dog] in [/EN#49956/clothing a red collar] is diving into [/EN#49957/scene the snow] .
+[/EN#49955/animals A brown dog] wearing [/EN#49956/clothing a red collar] diving into [/EN#49957/scene snow] .
+[/EN#49955/animals A brown dog] has [/EN#49959/bodyparts his face] down in [/EN#49958/scene the snow] .
+[/EN#49955/animals A dog] in [/EN#49958/scene the snow] .

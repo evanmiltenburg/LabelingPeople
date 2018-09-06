@@ -1,0 +1,5 @@
+[/EN#26007/people One young girl] with [/EN#26010/bodyparts brown hair] is smiling and talking to [/EN#26005/people a young girl] with [/EN#26011/bodyparts blond-hair] .
+[/EN#26007/people A brunette girl] with [/EN#26012/clothing glasses] and [/EN#26005/people a blond girl] are talking outside on [/EN#26006/scene a field] .
+[/EN#26004/people Two little girls] playing in front of [/EN#26009/scene soccer goalie gates] .
+[/EN#26004/people two young girls] playing with [/EN#0/notvisual each other] .
+[/EN#26004/people Two girls] are talking on [/EN#26006/scene a soccer field] .

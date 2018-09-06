@@ -1,0 +1,5 @@
+[/EN#224106/people A young boy] wearing [/EN#224108/clothing a backpack] stands in front of [/EN#224107/people a vegetable vendor] in [/EN#224110/scene a dirty street] .
+[/EN#224107/people A man] sitting at [/EN#224111/scene a fruit stand] talks to [/EN#224106/people a boy] wearing [/EN#224108/clothing a bookbag] .
+[/EN#224107/people An elderly man] talking to [/EN#224106/people a young boy] by [/EN#224109/other a table of produce] .
+[/EN#224106/people A small boy] purchases [/EN#224112/other vegetables] from [/EN#224107/people an older man] .
+[/EN#224106/people A boy] buying [/EN#224109/other produce] from [/EN#224107/people an old man] .

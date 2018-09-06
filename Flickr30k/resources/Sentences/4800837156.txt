@@ -1,0 +1,5 @@
+[/EN#204102/people A person] wearing [/EN#204105/clothing a yellow shirt] and [/EN#204106/clothing camouflage pants] and [/EN#204104/clothing a reggae hat] walking down [/EN#204103/scene the sidewalk] carrying [/EN#204108/clothing a backpack] .
+[/EN#204101/people A man] wearing [/EN#204106/clothing camouflage pants] , [/EN#204105/clothing yellow shirt] and [/EN#204104/clothing orange cap] is walking down [/EN#204103/scene a neighborhood street] wearing .
+[/EN#204102/people An individual] dressed in [/EN#204105/clothing a yellow shirt] and [/EN#204106/clothing camouflage pants] is walking down [/EN#204103/scene the sidewalk] .
+[/EN#204101/people The back of a man] in [/EN#204106/clothing gray camouflage pants] and [/EN#204105/clothing a yellow shirt] walking down [/EN#204103/scene the sidewalk] .
+walking down [/EN#204109/other flower] lined [/EN#204103/scene sidewalk] wearing [/EN#204105/clothing yellow shirt]

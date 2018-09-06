@@ -1,0 +1,5 @@
+[/EN#211572/people A woman] in [/EN#211579/clothing blue dress] in crossing [/EN#211573/scene the street] while [/EN#211578/people a person] in [/EN#211582/clothing bright yellow] is riding [/EN#211583/vehicles their bike] down [/EN#0/notvisual it] .
+[/EN#211572/people A woman] in [/EN#211579/clothing a blue and white polka dotted dress] is crossing [/EN#211573/scene the street] in [/EN#211575/scene a busy city] .
+[/EN#211576/scene A city street scene] with [/EN#211572/people the backs of a woman] crossing [/EN#211573/scene the street] and [/EN#211578/people a bicyclist] .
+[/EN#211572/people A busy women] in [/EN#211579/clothing black and white color dress] is crossing [/EN#211573/scene the road] .
+[/EN#211577/people Pedestrians] busy walking and shopping .

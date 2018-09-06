@@ -1,0 +1,5 @@
+[/EN#116837/animals A black dog] runs in [/EN#116838/scene the grass] , [/EN#116839/bodyparts its tongue] hanging out .
+[/EN#116837/animals A black dog] running across [/EN#116838/scene green grass] .
+[/EN#116837/other A black dong] runs across [/EN#116838/scene a grassy field]
+[/EN#116837/animals Small black dog] running in [/EN#116838/scene grass]
+[/EN#116837/animals A black dog] running in [/EN#116838/scene grass] .

@@ -1,0 +1,5 @@
+[/EN#25642/people A balding older man] in [/EN#25648/clothing denim pants] and [/EN#25644/people a young boy] with [/EN#25649/bodyparts a Beatles haircut] are riding on [/EN#25643/vehicles a scooter] .
+[/EN#25642/people A man] and [/EN#25644/people a young boy] are riding together on [/EN#25643/vehicles a Segway] .
+[/EN#25642/people A guy] and [/EN#25644/people boy] are riding on [/EN#25643/other a skateboard] together .
+[/EN#25642/people a man] and [/EN#25644/people his son] on [/EN#25643/other an interesting skateboard]
+[/EN#25642/people A man] and [/EN#25644/people a boy] ride [/EN#25643/vehicles a four wheeled vehicle] .

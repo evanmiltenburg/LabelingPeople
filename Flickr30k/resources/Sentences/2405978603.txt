@@ -1,0 +1,5 @@
+[/EN#46866/animals A brown dog] is running into [/EN#46868/scene the ocean] as [/EN#0/notvisual it] chases [/EN#46867/other a purple Frisbee] .
+[/EN#46866/animals A brown and white dog] running through [/EN#46869/scene water] towards [/EN#46867/other a toy] .
+[/EN#46866/animals A brown and white dog] running into [/EN#46868/scene the water]
+[/EN#46866/animals The dog] runs out into [/EN#46868/scene the ocean] .
+[/EN#46866/animals A dog] splashing in [/EN#46868/scene the water] .

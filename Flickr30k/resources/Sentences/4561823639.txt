@@ -1,0 +1,5 @@
+[/EN#178637/people A man] standing alone playing with [/EN#178639/instruments a saxophone] in [/EN#178642/other a empty square] with [/EN#178638/other red floor tiles] .
+[/EN#178637/people A man] wearing [/EN#178641/clothing blue jeans] and [/EN#178640/clothing a white t-shirt] playing [/EN#178639/instruments a saxophone]
+[/EN#178637/people Single man] in [/EN#178638/scene empty brick area] playing [/EN#178639/instruments the saxophone] .
+[/EN#178637/people A man] in [/EN#178640/clothing a white shirt] standing in [/EN#178638/scene a plaza] .
+[/EN#178637/people A man] playing [/EN#178639/instruments a saxophone] .

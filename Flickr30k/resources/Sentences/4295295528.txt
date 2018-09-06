@@ -1,0 +1,5 @@
+[/EN#162057/people A man] is sitting in [/EN#162059/scene the street] eating fast [/EN#162061/other food] and using [/EN#162064/other a cellphone] .
+[/EN#162057/people Man] sitting on [/EN#162059/other curb] eats [/EN#162061/other hamburger] and [/EN#162065/other checks text message] .
+[/EN#162057/people A short-haired man] in sitting on [/EN#162059/other a curb] eating [/EN#162058/other McDonalds] .
+[/EN#162057/other Subjects] eating [/EN#162058/other a McDonalds meal] along [/EN#162059/scene the street] .
+[/EN#162062/people People] sitting on [/EN#162059/scene the street] eating [/EN#162058/other McDonalds] .

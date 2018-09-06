@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] are [/EN#110617/animals three lambs] : [/EN#110620/clothing one white] , [/EN#110621/clothing one black] , and [/EN#110622/other one] spotted .
+[/EN#110617/animals Three young sheep] walk along [/EN#110618/scene the grassy hill] .
+[/EN#110617/animals Three lambs] are in [/EN#110618/scene a field] .
+[/EN#110617/animals Young sheep] in [/EN#110618/scene the grass] .
+[/EN#110617/animals Lambs] on [/EN#110619/scene a grassy hill] .

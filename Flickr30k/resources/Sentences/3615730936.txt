@@ -1,0 +1,5 @@
+[/EN#131832/people A person] wearing [/EN#131835/clothing a helmet] rides [/EN#131833/vehicles a dirty bike] on [/EN#131834/scene a dirt path] in [/EN#131836/other the woods] .
+[/EN#131832/people A man] in [/EN#131838/clothing black] wearing [/EN#131835/clothing a helmet] on [/EN#131833/vehicles a mountain bike] travelling very fast .
+[/EN#131832/people A BMX biker] riding down [/EN#131834/scene a muddy trail] wearing [/EN#131839/other protective gear] .
+[/EN#131832/people A rider] on [/EN#131833/vehicles a dirt bike] races through [/EN#131837/scene a forest] .
+[/EN#131832/people A man] rides [/EN#131833/vehicles his dirt bike] through [/EN#131836/other the woods] .

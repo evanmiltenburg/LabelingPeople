@@ -1,0 +1,5 @@
+[/EN#58440/people A young kid] cin [/EN#58442/clothing orange] climbs [/EN#58441/other a rock climbing wall] .
+[/EN#58440/people A young child] climbs [/EN#58441/other an indoor rock climbing wall] .
+[/EN#58440/people a young boy] climbing on [/EN#58441/other a rock wall]
+[/EN#58440/people a young boy] climbs [/EN#58441/other the rock wall] .
+[/EN#58440/people A boy] is rock climbing .

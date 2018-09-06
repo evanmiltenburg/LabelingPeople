@@ -1,0 +1,5 @@
+[/EN#64535/people A man] on [/EN#64536/vehicles/scene a thatched-roof boat] with [/EN#64539/other an oar] in [/EN#64542/other the back] is busy as [/EN#64536/vehicles/scene the boat] sits on [/EN#64537/scene bluish-green water] .
+[/EN#64535/people A man] maneuvers [/EN#64536/vehicles/scene a thatched covered boat] through [/EN#64543/scene the turquoise colored water] .
+[/EN#64535/people A man] is floating on [/EN#64536/vehicles/scene a small boat] down [/EN#64537/scene a city water street] .
+[/EN#64535/people A man] guides [/EN#64536/vehicles/scene a little roofed boat] through [/EN#64537/scene teal blue waters] .
+[/EN#64535/people A man] preparing [/EN#64536/other his gondola] for [/EN#64540/other a short trip] .

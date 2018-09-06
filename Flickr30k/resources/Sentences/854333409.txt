@@ -1,0 +1,5 @@
+[/EN#281652/animals The dog] on [/EN#281651/scene the right] has [/EN#281649/other a red object] in [/EN#281650/bodyparts his mouth] , and [/EN#281652/animals the other dog] has biting [/EN#0/notvisual it] .
+[/EN#281648/animals Two dark dogs] run together and [/EN#281651/other one] holds [/EN#281649/other something] in [/EN#281650/bodyparts its mouth] .
+[/EN#281648/animals Two black dogs] playing with [/EN#281649/other orange object] run across [/EN#281653/scene grass] .
+[/EN#281648/animals/scene Two black labs] run , [/EN#281651/other one] carrying [/EN#281649/other an orange dog toy] .
+[/EN#281648/animals Two black dogs] play with [/EN#281649/other a toy] .

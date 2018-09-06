@@ -1,0 +1,5 @@
+[/EN#193002/scene A late-night market] filled with [/EN#193006/people many consumers] and [/EN#193001/people workers] , depicting [/EN#193000/other food] being prepared .
+[/EN#192999/other Steam] rises from [/EN#193004/other a hot grill] while [/EN#192998/people a man] cooks at [/EN#193005/scene an outdoor food stand] .
+[/EN#0/notvisual There] are [/EN#193007/people many people] in [/EN#193003/scene a building] with [/EN#193001/people some people] cooking [/EN#193000/other food] .
+[/EN#192998/people A man] is cooking [/EN#193000/other food] [/EN#0/notvisual that] is producing [/EN#192999/other a lot of smoke] .
+[/EN#192998/people A man] in [/EN#193008/clothing a hat] and [/EN#193009/clothing apron] is cooking [/EN#193000/other food] .

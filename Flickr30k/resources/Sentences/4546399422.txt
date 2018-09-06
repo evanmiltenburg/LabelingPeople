@@ -1,0 +1,5 @@
+[/EN#177060/people A man] in [/EN#177065/clothing a blue sweatshirt] buys [/EN#177062/other a bratwurst] from [/EN#177061/people a man] in [/EN#177066/clothing an orange shirt] and [/EN#177071/clothing a blue hat] , [/EN#177062/other the bratwurst] costs [/EN#177067/other one euro] .
+[/EN#177061/people A man] in [/EN#177066/clothing an orange shirt] is selling [/EN#177062/other bratwurst] for [/EN#177067/other one euro] to [/EN#177060/people an old man] in [/EN#177065/clothing a blue shirt] .
+[/EN#177061/people A man] in [/EN#177069/other Europe] is selling [/EN#177064/other German sausage] on [/EN#177073/scene the street] to [/EN#177060/people an elderly man] with [/EN#177070/clothing a bag] .
+[/EN#177061/people A man] stand [/EN#177074/scene outdoors] is wearing [/EN#177072/other a sign] [/EN#0/notvisual that] is advertising [/EN#177062/other bratwurst] .
+[/EN#177060/people A man] in [/EN#177065/clothing a blue jacket] is buying [/EN#177063/other street food] .

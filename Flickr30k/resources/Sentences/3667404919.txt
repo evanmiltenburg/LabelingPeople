@@ -1,0 +1,5 @@
+[/EN#135432/people A man] in [/EN#135436/clothing a white uniform] rides [/EN#135433/vehicles a motocross bike] down [/EN#135434/scene a forest trail] .
+[/EN#135432/people A person] on [/EN#135433/vehicles a bike] and wearing [/EN#135435/clothing a helmet] rides through [/EN#135434/scene a wooded area] .
+[/EN#135432/people A dirt biker] rounding [/EN#135437/other a bend] on [/EN#135438/other a downhill course] .
+[/EN#135432/people The motorbiker] is biking on [/EN#135434/scene an off road trail]
+[/EN#135432/people BMX rider] , riding downhill on [/EN#135434/scene forest path] .

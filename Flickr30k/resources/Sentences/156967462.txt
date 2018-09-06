@@ -1,0 +1,5 @@
+[/EN#16605/animals Two gray dogs] and [/EN#16608/animals a black dog] playing in [/EN#16607/scene a pond] under [/EN#16606/scene an overpass] .
+[/EN#16605/animals Two dogs] running near [/EN#16607/scene a river] while [/EN#16610/animals one dogs] in swimming in [/EN#0/notvisual it] .
+[/EN#16605/animals a couple dogs] in and around [/EN#16607/scene a small lake of water] near [/EN#16606/scene a highway]
+[/EN#16605/animals Two dogs] play in [/EN#16607/scene the water] under [/EN#16606/scene a bridge] .
+[/EN#16605/animals A couple of dogs] are playing in [/EN#16607/scene the water] .

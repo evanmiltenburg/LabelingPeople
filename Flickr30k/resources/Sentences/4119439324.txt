@@ -1,0 +1,5 @@
+[/EN#156238/people A man] wearing [/EN#156240/clothing a pink shirt] with [/EN#156240/clothing black stripes] is protecting [/EN#0/notvisual himself] from [/EN#156242/other the rain] using [/EN#156239/other a newspaper] .
+[/EN#156243/people People] on [/EN#156245/scene a sidewalk] are trying to protect [/EN#0/notvisual themselves] from [/EN#156242/other the rain] with [/EN#156248/clothing umbrellas] and [/EN#156239/other a newspaper] .
+[/EN#156238/people A man] is walking down [/EN#156246/scene the street] , on [/EN#156244/scene a rainy day] , holding [/EN#156239/other a newspaper] over [/EN#156241/bodyparts his head] .
+[/EN#156238/people A man] in [/EN#156240/clothing a pink shirt] running through [/EN#156242/other the rain] with [/EN#156239/other a newspaper] to cover [/EN#156241/bodyparts his head] .
+[/EN#156238/people A man] using [/EN#156239/other a newspaper] to keep [/EN#156242/other the rain] off of [/EN#0/notvisual himself] .

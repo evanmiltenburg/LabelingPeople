@@ -1,0 +1,5 @@
+[/EN#128030/people The person] walked with [/EN#128032/other the support of a cane] while dressed in [/EN#128031/clothing a dark robe] from head to toe .
+[/EN#128030/people An old woman] wearing [/EN#128031/clothing a black scarf] is walking with [/EN#128032/other a cane] down [/EN#128035/scene the sidewalk] .
+[/EN#128030/people A person] wearing [/EN#128031/clothing a long robe] and carrying [/EN#128032/other a cane] is walking .
+[/EN#128030/people A person] in [/EN#128031/clothing a long cloak] and [/EN#128032/other a cane] walking .
+[/EN#128030/people An elderly lady] walks outside with [/EN#128032/other a cane] .

@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#239643/people a man] with [/EN#239650/bodyparts a moustache] , [/EN#239648/clothing cap] and [/EN#239645/clothing backpack] standing by [/EN#239646/scene a bridge] [/EN#0/notvisual that] running [/EN#239649/scene crosses water] .
+[/EN#239643/people A bearded man] with [/EN#239645/clothing a backpack] on [/EN#239651/other his back] holding [/EN#239652/other a tripod] in front of [/EN#239647/scene a rocky creek] and [/EN#239646/scene bridge] .
+[/EN#239643/people A man] dressed in [/EN#239644/clothing warm clothes] stands before [/EN#239646/scene a bridge] [/EN#0/notvisual that] traverses [/EN#239647/scene a river] .
+[/EN#239643/people A man] standing in front of [/EN#239646/scene a wooden bridge] near [/EN#239647/scene a rocky river] .
+[/EN#239643/people The man] is walking outside near [/EN#239647/scene a rocky river] .

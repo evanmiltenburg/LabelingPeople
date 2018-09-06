@@ -1,0 +1,5 @@
+[/EN#119448/animals A black dog] jumps at [/EN#119450/other a ball] held by [/EN#119449/people a man] wearing [/EN#119451/clothing blue jeans] , [/EN#119452/clothing a blue striped shirt] , and [/EN#119453/clothing a dark blue jacket] .
+[/EN#119448/animals The black dog] is jumping up at [/EN#119450/other the yellow ball] being held by [/EN#119449/people the man] .
+[/EN#119449/people A man] blays with [/EN#119448/animals a black dog] and [/EN#119450/other a yellow ball] .
+[/EN#119449/people man] playing with [/EN#119448/animals a dog] with [/EN#119450/other a yellow ball]
+[/EN#119449/people A man] and [/EN#119448/animals a dog] play with [/EN#119450/other a yellow ball] .

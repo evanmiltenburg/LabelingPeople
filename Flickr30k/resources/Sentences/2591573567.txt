@@ -1,0 +1,5 @@
+[/EN#60024/people A young swimmer] with [/EN#60030/clothing a yellow hairnet] touching [/EN#60034/other the wall] .
+[/EN#60025/people Two children] in [/EN#60032/clothing swim caps] have [/EN#60033/other a race] in [/EN#60029/scene a pool] .
+[/EN#60024/people A girl] in [/EN#60030/clothing a yellow hat] is swimming with [/EN#60023/people a boy] .
+[/EN#60025/people Two young children] in [/EN#60029/scene a swimming pool] .
+[/EN#60023/people A boy] and [/EN#60024/people girl] play in [/EN#60029/scene a pool] .

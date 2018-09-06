@@ -1,0 +1,5 @@
+[/EN#106317/people A woman] in [/EN#106322/scene a park] wearing [/EN#106318/clothing a hat] and holding [/EN#106319/clothing a scarf] over [/EN#106321/bodyparts her face] .
+[/EN#106317/people The adult] is covering [/EN#106321/bodyparts their face] with [/EN#106319/clothing a piece of clothing] outside
+[/EN#106317/people A person] in [/EN#106319/clothing winter clothes] covers [/EN#106321/bodyparts their face] with [/EN#106319/clothing a sweater] .
+[/EN#106317/people A person] in [/EN#106318/clothing a knit hat] hiding [/EN#106321/bodyparts their face] with [/EN#106319/clothing a scarf] .
+[/EN#106317/people A woman] outside covers [/EN#106321/bodyparts her face] with [/EN#106319/other fabric] .

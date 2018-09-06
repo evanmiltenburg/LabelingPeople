@@ -1,0 +1,5 @@
+[/EN#14546/people Two asian children] working on [/EN#14549/vehicles bicycles] at [/EN#14548/scene a shop] in front of [/EN#14550/people their mother] .
+[/EN#14545/people A man] in front of [/EN#14548/other an Asian shop of some sort] working on [/EN#14547/vehicles a bicycle] .
+[/EN#14545/people One man] checks out [/EN#14547/vehicles a bicycle] in [/EN#14548/scene a shop] while [/EN#0/notvisual another] sits nearby .
+[/EN#14545/people man] in [/EN#14551/clothing orange shirt] squatting and working on [/EN#14547/vehicles black bicycle] .
+[/EN#14546/people Two people] working on [/EN#14549/vehicles bicycles] .

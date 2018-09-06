@@ -1,0 +1,5 @@
+[/EN#123019/animals A black poodle] and [/EN#123023/animals another dog] with [/EN#123020/other something] in [/EN#123025/bodyparts its mouth] are playing on [/EN#123021/scene some dry grass] .
+[/EN#123019/animals A black poodle] plays with [/EN#123023/animals another dog] in [/EN#123021/scene a dry field] .
+[/EN#123019/animals A black dog] looks through [/EN#123022/scene the fence] at [/EN#123023/animals another dog] .
+[/EN#123024/animals Two dogs] play in [/EN#123021/scene the yellow grass] with [/EN#123020/other a ball] .
+[/EN#123019/animals A black dog] is playing inside [/EN#123022/scene the fence] .

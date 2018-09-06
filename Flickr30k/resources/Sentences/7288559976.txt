@@ -1,0 +1,5 @@
+[/EN#267982/people A rowing team member] in [/EN#267987/clothing a black and purple uniform] is carrying [/EN#267984/vehicles/scene his boat] to [/EN#267985/scene the water] while [/EN#267982/people another team member] is carrying [/EN#267993/other the oars] and [/EN#0/notvisual another] watches .
+[/EN#267983/people Athletes] [/EN#0/notvisual who] are wearing [/EN#267992/clothing numbered outfits] are preparing to enter [/EN#267985/scene the water] for [/EN#267990/scene a sporting event] .
+[/EN#267982/people A woman] and [/EN#267980/people a man] carrying [/EN#267984/other kayaking equipment] while [/EN#267989/people another man] sits and watches [/EN#0/notvisual them] .
+[/EN#267980/people A person] is carrying [/EN#267984/vehicles/scene a small kayak or boat] to [/EN#267985/scene the water] while [/EN#267994/people two other people] watch .
+[/EN#267983/people People] getting ready for [/EN#267988/other a boat race] .

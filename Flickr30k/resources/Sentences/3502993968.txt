@@ -1,0 +1,5 @@
+[/EN#123224/people A man] in [/EN#123227/clothing a yellow shirt] riding [/EN#123225/vehicles a blue bicycle] moving very fast .
+[/EN#123224/people A man] in [/EN#123227/clothing a safety vest] riding [/EN#123225/vehicles a bicycle] on [/EN#123226/scene the highway] .
+[/EN#123224/people A bike rider] in [/EN#123229/clothing green jersey] races along [/EN#123226/scene a road] .
+[/EN#123224/people A biker] looks back at [/EN#0/notvisual the camera] for [/EN#123230/other a photo] .
+[/EN#123224/people A cyclist] in [/EN#123228/clothing a helmet] and [/EN#123227/clothing yellow jersey] .

@@ -1,0 +1,5 @@
+[/EN#187401/people A man] wearing [/EN#187403/clothing a blue and white plaid shirt] is sitting at [/EN#187405/other an outdoor restaurant table] , looking at [/EN#187408/other a menu] while [/EN#187402/people a waiter] waits to take [/EN#187404/other his order] .
+[/EN#187401/people A man] in [/EN#187403/clothing a black and white plaid shirt] is sitting at [/EN#187405/other a table] in [/EN#187406/scene the restaurant] ordering [/EN#187409/other food] .
+[/EN#187402/people A waiter] waits for [/EN#187404/other a man 's order] in [/EN#187406/scene a restaurant] .
+[/EN#187402/people A waiter] with [/EN#187407/other a green menu] is taking [/EN#187404/other an order] .
+[/EN#187402/people A waiter] taking [/EN#187404/other an order] at [/EN#187406/scene a restaurant] .

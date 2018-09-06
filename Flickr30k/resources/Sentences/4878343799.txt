@@ -1,0 +1,5 @@
+[/EN#214095/vehicles A yellow vehicle] stops for [/EN#214097/people pedestrians] as [/EN#0/notvisual they] cross [/EN#214098/scene the street] on [/EN#214100/scene a sunny day] .
+[/EN#214096/people Some people] crossing [/EN#214098/scene the street] with [/EN#214095/vehicles a yellow vehicle] in [/EN#0/notvisual the background] .
+[/EN#214099/people Woman] and [/EN#214101/people child] crossing [/EN#214098/scene street] .
+[/EN#214096/people People] are crossing [/EN#214102/other the signal] .
+[/EN#214097/people People] crossing [/EN#214098/scene a busy street] .

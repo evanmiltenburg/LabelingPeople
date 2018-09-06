@@ -1,0 +1,5 @@
+[/EN#130000/people A young woman] lifts [/EN#130006/other her voice] in [/EN#130007/other song] in [/EN#130004/scene a field] near [/EN#130008/other an old wooden structure] .
+[/EN#130000/people A woman] with [/EN#130002/instruments a guitar] sings in front of [/EN#130003/scene a building] and [/EN#130001/scene grass] .
+[/EN#130000/people a woman] with [/EN#130002/instruments a nylon stringed guitar] is playing in [/EN#130001/scene a field]
+[/EN#130000/people The girl] plays [/EN#130002/instruments a guitar] while singing in [/EN#130005/scene a rural scene] .
+[/EN#130000/people A woman] is outside playing [/EN#130002/instruments the guitar] .

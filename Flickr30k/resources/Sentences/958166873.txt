@@ -1,0 +1,5 @@
+[/EN#284212/people A man] wearing [/EN#284213/clothing a fisherman 's hat , blue jacket] , [/EN#284219/clothing khaki cargo shorts] , and [/EN#284218/clothing hiking shoes] is carrying [/EN#284215/other a gray water bottle] as [/EN#0/notvisual he] walks down [/EN#284216/scene a trail] .
+[/EN#284212/people A man] in [/EN#284218/clothing hiking boots] , [/EN#284219/clothing shorts] , [/EN#284213/clothing a blue jacket] and [/EN#284221/clothing a wide brimmed hat] is walking through [/EN#284220/scene an area] with [/EN#284222/other pine trees] .
+[/EN#284212/people A man] is hiking on [/EN#284216/scene a path] , surrounded by [/EN#284217/other trees] , wearing [/EN#284214/clothing a hat] and carrying [/EN#284215/other a water bottle] .
+[/EN#284212/people A man] in [/EN#284213/clothing a blue jacket] walking [/EN#284216/scene a stony path] through [/EN#284217/other the woods] .
+[/EN#284212/people A hiker] travels along [/EN#284216/scene a rocky path] bordered by [/EN#284217/other greenery] .

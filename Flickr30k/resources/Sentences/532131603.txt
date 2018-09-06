@@ -1,0 +1,5 @@
+[/EN#233609/animals The black and white dog] sprints through [/EN#233610/scene the red parachute tunnel] on [/EN#233611/scene the grassy field] .
+[/EN#233609/animals A border collie] is running out of [/EN#233610/other a red tunnel obstacle] .
+[/EN#233609/animals a black dog] is emerging from [/EN#233610/scene a red tunnel] .
+[/EN#233609/animals A dog] peeks out of [/EN#233610/scene a red play tunnel] .
+[/EN#233609/animals Dog] in folding [/EN#233610/scene red tunnel] on [/EN#233611/scene grass] .

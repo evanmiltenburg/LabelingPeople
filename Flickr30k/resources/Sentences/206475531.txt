@@ -1,0 +1,5 @@
+[/EN#26576/people A person] in [/EN#26577/clothing red pants] and [/EN#26578/clothing shirt] standing in [/EN#26584/scene the middle] of [/EN#26585/other rail lines] in [/EN#26579/scene the middle of a street] with [/EN#26580/other palm trees] and [/EN#26581/other streetlights] .
+[/EN#26576/people Confused person] standing in [/EN#26586/scene the middle] of [/EN#26582/scene the trolley tracks] trying to figure out [/EN#26583/other the signs] .
+[/EN#26576/people A lady] in [/EN#26578/clothing red] is standing in [/EN#26579/scene the middle of the street] between [/EN#26582/scene the cable car tracks] .
+[/EN#26576/people A woman] in [/EN#26578/clothing pink] is standing alone in [/EN#26579/scene the middle of the street] .
+[/EN#26576/people Someone] in [/EN#26578/clothing red] stands dangerously on [/EN#26582/scene some railroad tracks] .

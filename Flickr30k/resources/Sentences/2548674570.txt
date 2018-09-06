@@ -1,0 +1,5 @@
+[/EN#57382/people A man] in [/EN#57384/clothing a yellow Hawaiian shirt] is playing [/EN#57386/instruments a guitar] and singing with [/EN#57382/people a guy] in [/EN#57392/clothing a black shirt] .
+[/EN#57382/people A man] in [/EN#57384/clothing a floral yellow shirt] is playing [/EN#57386/instruments the guitar] with [/EN#57382/people a Japanese man] on [/EN#57394/scene stage] .
+[/EN#57382/people The man] in [/EN#57384/clothing the yellow shirt] is singing and playing [/EN#57386/instruments guitar] .
+[/EN#57390/people Two men] playing [/EN#57385/instruments guitars] in [/EN#57383/people a band] on [/EN#57389/scene a stage] .
+[/EN#57390/people Two men] in [/EN#57383/people a band] play at [/EN#57388/scene a venue] .

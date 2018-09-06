@@ -1,0 +1,5 @@
+[/EN#43714/people The boy] in [/EN#43715/scene the white shirt dribbles] [/EN#43716/other the soccer ball] away from [/EN#43717/people the yellow and blue team] .
+[/EN#43714/people Boy] in [/EN#43718/clothing a black and white soccer uniform] kicking [/EN#43716/other the ball] with [/EN#43717/people other players] nearby .
+[/EN#0/notvisual There] are [/EN#43719/people five young boys] on [/EN#43724/scene a soccer field] running and playing [/EN#43725/other soccer] .
+[/EN#43720/people Children] playing [/EN#43722/other soccer] , [/EN#43714/other one] in [/EN#43723/other the process] of kicking [/EN#43716/other the ball] .
+[/EN#43719/people Two young soccer teams] competing in [/EN#43725/other a game] .

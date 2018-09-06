@@ -1,0 +1,5 @@
+[/EN#122621/people The surfer] is riding [/EN#122624/scene a wave] with [/EN#122622/scene a mountain] in [/EN#0/notvisual the background] .
+[/EN#122621/people The surfer] in [/EN#122628/clothing the black bodysuit] rides [/EN#122624/scene a wave] off [/EN#122626/scene the coast]
+[/EN#122621/people A man] rides [/EN#122629/other a surfboard] as [/EN#122623/scene a wave] comes up behind [/EN#0/notvisual him] .
+[/EN#122621/people A surfer] is riding [/EN#122623/scene a wave] in [/EN#122627/scene the ocean] on [/EN#122625/scene a clear day]
+[/EN#122621/people A man] surfing with [/EN#122622/scene a mountain] in [/EN#0/notvisual the background] .

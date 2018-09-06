@@ -1,0 +1,5 @@
+On [/EN#147310/scene the sidewalk] , near [/EN#147313/scene the store 's entrance] , [/EN#147307/other a local] entertains all , by playing [/EN#147309/instruments the accordion] .
+[/EN#147307/people A man] in [/EN#147314/clothing a red shirt] with [/EN#147315/clothing sunglasses] playing [/EN#147309/instruments an accordion] outside of [/EN#147308/scene a clothes shop] .
+[/EN#147307/people A man] is playing [/EN#147309/instruments the accordion] in front of [/EN#147308/scene a store] [/EN#0/notvisual that] is having [/EN#147312/other a sale] .
+[/EN#147307/people a man] is playing [/EN#147309/instruments the accordion] on [/EN#147310/scene the sidewalk] in front of [/EN#147308/scene a store] .
+[/EN#147307/people a man] standing outside [/EN#147308/scene a store] playing [/EN#147309/instruments a musical instrument]

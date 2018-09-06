@@ -1,0 +1,5 @@
+[/EN#50546/people A person] with [/EN#50548/clothing a brown hat] and [/EN#50555/clothing black jacket] is in [/EN#50547/other a wheelchair] crossing in front of [/EN#50554/other a sign] [/EN#0/notvisual that] says " park " .
+[/EN#50546/people a person] wearing [/EN#50548/clothing a knit cap] riding in [/EN#50547/other a wheelchair] along [/EN#50550/other a seidwalk] outside of [/EN#50549/scene a building] .
+[/EN#50547/other The handicapped man wheels] past [/EN#50551/scene the parking lot] .
+[/EN#50546/people A person] in [/EN#50547/other a wheelchair] is on [/EN#50553/scene a sidewalk] .
+[/EN#50546/people A man] in [/EN#50547/other a wheelchair] riding to [/EN#50550/scene the park] .

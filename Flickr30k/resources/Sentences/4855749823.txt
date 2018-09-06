@@ -1,0 +1,5 @@
+[/EN#211304/people A woman] is walking down [/EN#211306/scene the street] with [/EN#211305/clothing a blue bag] .
+[/EN#211304/people a person] is walking down [/EN#211306/scene an alley] lined with [/EN#211308/other trees]
+[/EN#211304/people Person] with [/EN#211305/clothing a blue bag] walking down [/EN#211307/scene an alley] .
+[/EN#211304/people A woman] walking down [/EN#211307/scene a suburban street] .
+[/EN#211304/people A person] walking down [/EN#211306/scene a street] .

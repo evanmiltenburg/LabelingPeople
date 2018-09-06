@@ -1,0 +1,5 @@
+[/EN#265778/people A rock climber] rappels down [/EN#265787/bodyparts a sheer rock face] with [/EN#265781/scene a view of snow covered mountains] in [/EN#0/notvisual the background] .
+[/EN#265778/people Somebody] is rappelling down [/EN#265782/scene a tall cliff] with [/EN#265786/other the sun] and [/EN#265784/other clouds] in [/EN#265779/scene the sky] .
+[/EN#265778/people A man] is suspended [/EN#265779/scene midair] from [/EN#265783/other a rope] as [/EN#0/notvisual he] climbs [/EN#265780/scene a mountain] .
+[/EN#265778/people A person] climbs [/EN#265782/scene a cliff] with [/EN#265779/scene a blue sky] in [/EN#0/notvisual the background] .
+[/EN#265778/people A man] rappels off [/EN#265785/scene the side of a cliff] .

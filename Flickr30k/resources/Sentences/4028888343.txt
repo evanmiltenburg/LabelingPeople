@@ -1,0 +1,5 @@
+[/EN#152466/people A man] in [/EN#152469/clothing a short-sleeve shirt] is ironing [/EN#152468/clothing a shirt] while smoking [/EN#152467/other a cigarette] .
+[/EN#152466/people A older gentleman] smoking [/EN#152467/other a cigarette] and ironing [/EN#152468/clothing clothes] .
+[/EN#152466/people A man] is smoking [/EN#152467/other a cigarette] while ironing [/EN#152468/clothing some clothes] .
+[/EN#152466/people A man] irons [/EN#152468/other fabric] while smoking [/EN#152467/other a cigarette] .
+[/EN#152466/people a man] ironing [/EN#152468/clothing his brown coat] .

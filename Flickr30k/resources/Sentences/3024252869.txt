@@ -1,0 +1,5 @@
+[/EN#88219/other Figures] cross [/EN#88215/scene the street] , both on and outside [/EN#88218/scene the crosswalk] , while [/EN#88216/vehicles many cars] have stopped .
+[/EN#88214/people Seven people] walking in [/EN#88215/scene the street] while [/EN#88216/vehicles traffic] waits .
+[/EN#88214/people Pedestrians] walking across [/EN#88215/scene the street] at [/EN#88217/scene night] .
+[/EN#88214/people People] are crossing [/EN#88215/scene a busy street] at [/EN#88217/scene night] .
+[/EN#88214/people People] are crossing [/EN#88215/scene a street] at [/EN#88217/scene night] .

@@ -1,0 +1,5 @@
+[/EN#9966/people A woman] works at [/EN#0/notvisual her] [/EN#9968/other computer] inside [/EN#9973/scene a large office] housing [/EN#9969/other several rows of desks] .
+[/EN#9970/people People] are working on [/EN#9971/other computers] in [/EN#9973/scene an office] with [/EN#9974/other gray carpet] and [/EN#9975/other white walls] .
+[/EN#9966/people A woman] is sitting at [/EN#9972/other a desk] in [/EN#9973/other an office environment] working on [/EN#9968/other a computer] .
+[/EN#9970/people several people] are sitting at [/EN#9969/other computer desks] in [/EN#9973/scene a messy office] .
+[/EN#9966/people Worker] at [/EN#9968/other computer] in [/EN#9973/scene empty office] .

@@ -1,0 +1,5 @@
+[/EN#39451/people A person] wearing [/EN#39452/clothing a hooded sweatshirt] and [/EN#39453/clothing jeans] stands on [/EN#39454/other a tree] [/EN#0/notvisual that] has fallen over [/EN#39457/scene a creek] .
+[/EN#39451/people Man] in [/EN#39453/clothing jeans] and [/EN#39452/clothing a sweatshirt] using [/EN#39455/other a handsaw] to cut [/EN#39456/other a tree branch] in [/EN#39457/scene a wooded area] .
+[/EN#39451/people A person] standing by [/EN#39456/other fallen and moss covered trees] wearing [/EN#39452/clothing a hooded jacket] .
+[/EN#39451/people A person] in [/EN#39452/clothing a black hoodie] stands in [/EN#39458/other the woods] surrounded by [/EN#39459/other tree branches] .
+[/EN#39451/people A person] wearing [/EN#39452/clothing a hooded sweatshirt] in [/EN#39460/scene a wooded area] .

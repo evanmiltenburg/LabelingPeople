@@ -1,0 +1,5 @@
+[/EN#162834/people A man] wearing [/EN#162837/clothing a white hat] is sitting is sitting [/EN#162835/vehicles a horse drawn cart] on [/EN#162836/scene the street] .
+[/EN#162833/animals A donkey] pulling [/EN#162834/people a man] in [/EN#162835/vehicles a cart] [/EN#0/notvisual that] clearly has seen [/EN#162839/other many years of service] .
+[/EN#162834/people A man] with [/EN#162838/clothing a blue shirt] in [/EN#162835/vehicles a horse drawn cart] travels down [/EN#162836/scene a cobbled street] .
+[/EN#162834/people A man] in [/EN#162837/clothing a hat] is driving [/EN#162835/vehicles a horse-driven cart] down [/EN#162836/scene a cobblestone street] .
+[/EN#162833/animals A horse or mule] is pulling [/EN#162834/people a man] in [/EN#162835/vehicles a cart] down [/EN#162836/scene a paved road] .

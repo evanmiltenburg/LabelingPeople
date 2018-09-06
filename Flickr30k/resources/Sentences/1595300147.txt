@@ -1,0 +1,5 @@
+[/EN#17163/people A man] wearing [/EN#17165/clothing a blue shirt] and [/EN#17168/clothing red hat] riding on [/EN#17166/vehicles the back of a cart] filled with [/EN#17164/other hay] and pulled by [/EN#17162/animals a white horse] .
+[/EN#17162/animals A horse] pulls [/EN#17166/vehicles a wagon] with [/EN#17164/other a bale of hay] on [/EN#17170/clothing top] , while [/EN#17163/people a man] sits on top of [/EN#17164/other the bale] with [/EN#17171/bodyparts his hand] in [/EN#0/notvisual the air] .
+[/EN#17163/people An man] in [/EN#17165/clothing a blue shirt] sits atop [/EN#17166/vehicles a horse drawn cart] filled with [/EN#17164/other hay] .
+[/EN#17162/animals A white horse] pulling [/EN#17163/people a boy] on top of [/EN#17164/other a stack of hay] .
+[/EN#17162/animals White horse] hauling [/EN#17164/other a huge pile of hay] .

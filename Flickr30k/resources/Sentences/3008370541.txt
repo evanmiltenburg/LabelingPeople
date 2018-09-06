@@ -1,0 +1,5 @@
+[/EN#87001/animals A black dog] leaps from [/EN#87002/scene the bank] into [/EN#87003/scene a body of water] , with [/EN#87005/scene a field of dry grass] in [/EN#0/notvisual the background] .
+[/EN#87001/animals The black dog] is running down [/EN#87006/other the grassy knoll] to jump in [/EN#87003/scene the water] below .
+[/EN#87001/animals/scene A black lab] runs headlong into [/EN#87003/scene a lake] surrounded by [/EN#87005/scene farmland] .
+[/EN#87001/animals A black dog] with [/EN#87004/clothing a blue collar] is jumping into [/EN#87003/scene the water] .
+[/EN#87001/animals The dog] is jumping into [/EN#87003/scene the lake] .

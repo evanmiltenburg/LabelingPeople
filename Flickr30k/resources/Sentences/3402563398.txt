@@ -1,0 +1,5 @@
+[/EN#115775/people man] with [/EN#115777/clothing reflective vest] clears [/EN#115779/other leaves] off [/EN#115778/scene a sidewalk] using [/EN#115776/other a blower] .
+[/EN#115775/people A man] with [/EN#115777/clothing a reflective vest] is using [/EN#115776/other a leaf blower] on [/EN#115778/scene a sidewalk] .
+[/EN#115775/people A public servant] clears fallen [/EN#115779/other leaves] off [/EN#115778/scene a suburban sidewalk] .
+[/EN#115775/people a man] is using [/EN#115776/other a leaf blower] to get [/EN#115779/other leaves] off [/EN#115778/scene the sidewalk]
+[/EN#115775/people A faceless man] is performing [/EN#115780/other sanitation duties] .

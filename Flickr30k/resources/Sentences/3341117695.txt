@@ -1,0 +1,5 @@
+[/EN#110942/people Bicyclist] dressed in [/EN#110944/clothing black and white] with [/EN#110947/clothing white sunglasses] on [/EN#110949/scene points] at [/EN#110948/other something] .
+[/EN#110942/people A person] in [/EN#110944/clothing a black top] and [/EN#110945/clothing bicycle helmet] gestures while sitting on [/EN#110943/vehicles a bike] .
+[/EN#110942/people A bicyclist] wearing [/EN#110947/clothing white sunglasses] and [/EN#110945/clothing a white and black helmet] .
+[/EN#110942/people A cyclist] dressed in [/EN#110944/clothing black and white] is pointing .
+[/EN#110942/people A person] in [/EN#110944/clothing a black and white shirt] on [/EN#110943/vehicles a bicycle] .

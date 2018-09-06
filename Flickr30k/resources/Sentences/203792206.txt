@@ -1,0 +1,5 @@
+[/EN#25425/people A man] in [/EN#25430/clothing black swim trunks] is in [/EN#25429/scene the middle] of diving off of [/EN#25427/scene a diving board] into [/EN#25426/scene a swimming pool] .
+[/EN#25425/people A shirtless man] diving into [/EN#25426/scene a fenced , green pool] while [/EN#0/notvisual there] is [/EN#25428/scene a forest] behind [/EN#0/notvisual him] .
+[/EN#25425/people A man] is diving off of [/EN#25427/scene a diving board] into [/EN#25426/scene a pool of green water] .
+[/EN#25425/people Man] is diving off of [/EN#25427/scene a diving board] into [/EN#25426/scene a built-in pool] .
+[/EN#25425/people A man] is diving into [/EN#25426/scene a swimming pool] from [/EN#25427/scene a diving board] .

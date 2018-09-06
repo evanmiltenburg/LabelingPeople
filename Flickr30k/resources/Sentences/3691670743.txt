@@ -1,0 +1,5 @@
+[/EN#137190/people A boy] is jumping on [/EN#137191/other skateboard] in [/EN#137195/scene the middle of a red bridge] .
+[/EN#137190/people The skateboarder] in [/EN#137197/clothing the white shirt] jumped into [/EN#0/notvisual the air] .
+[/EN#137193/people a kid] doing [/EN#0/notvisual tricks] on [/EN#137191/other a skateboard] on [/EN#137192/scene a bridge]
+[/EN#137190/people A skateboarder] is airborne on [/EN#137192/scene a bridge] .
+[/EN#137191/other A skateboard] jumps down [/EN#137192/scene a bridge] .

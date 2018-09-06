@@ -1,0 +1,5 @@
+[/EN#12167/animals A black and white dog] jumps over [/EN#12168/other a pole] while splashing [/EN#12173/scene water] around .
+[/EN#12167/animals A wet , white dog] is jumping over [/EN#12168/other obstacles] .
+[/EN#12167/animals A wet dog] is jumping over [/EN#12171/other a hurdle] .
+[/EN#12167/animals A wet spaniel] clears [/EN#0/notvisual a jump] .
+[/EN#12167/animals a wet dog] jumps over [/EN#12168/scene a bar] .

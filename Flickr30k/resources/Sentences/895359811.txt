@@ -1,0 +1,5 @@
+[/EN#283133/people A group of woman] are walking [/EN#283135/scene the street] in [/EN#0/notvisual different directions] .
+[/EN#283134/people Woman] in [/EN#283138/clothing white shirt and blue and white shorts] walking .
+[/EN#283133/people Pedestrians] walk across [/EN#283135/scene the street] on [/EN#283136/scene a sunny day] .
+[/EN#283134/people A woman] is running across [/EN#283135/scene the street] .
+[/EN#283133/people girls] walking across [/EN#283135/scene the street] .

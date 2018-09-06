@@ -1,0 +1,5 @@
+[/EN#29068/people A small boy] wearing [/EN#29072/clothing a yellow shirt] is standing next to [/EN#29070/other a red wall] .
+[/EN#29068/people A little boy] is standing in front of [/EN#29069/scene a bright red building] .
+[/EN#29068/people A young boy] playing outside of [/EN#29069/scene his red house] .
+[/EN#29071/people Two children] in front of [/EN#29069/scene a red building] .
+[/EN#29068/people A small boy] looking at [/EN#29070/other a red wall]

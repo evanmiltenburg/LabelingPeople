@@ -1,0 +1,5 @@
+[/EN#124106/people A soccer player] kicking toward [/EN#124111/other the ball] with [/EN#124109/people another player] on [/EN#0/notvisual the soaked ground] .
+[/EN#124105/people Two men] playing [/EN#124110/other soccer] , [/EN#124109/other one] on [/EN#0/notvisual the ground] holding [/EN#124111/other the ball] .
+[/EN#124105/people Two players] are on [/EN#124108/scene a wet field] and [/EN#124109/other one] is on [/EN#0/notvisual the ground] .
+[/EN#124105/people two men] playing [/EN#124113/other soccer] on [/EN#124108/scene a wet field]
+[/EN#124105/people Two men] playing [/EN#124110/other rugby collide] .

@@ -1,0 +1,5 @@
+[/EN#49159/people A boy] wearing [/EN#49166/clothing only swim trunks] jumps off [/EN#49160/scene a dock] into [/EN#49162/scene a large , blue lake] [/EN#0/notvisual that] has [/EN#49164/scene a forest] in [/EN#0/notvisual the far background] .
+[/EN#49159/people Young boy] jumping off of [/EN#49163/other a trampoline] into [/EN#49162/scene a lake] .
+[/EN#49159/people Young child] jumping off of [/EN#49160/scene the pier] into [/EN#49162/scene the lake] .
+[/EN#49159/people A young boy] is jumping into [/EN#49162/scene a large body of water] .
+[/EN#49159/people A boy] jumping off [/EN#49163/other a trampoline] into [/EN#49162/scene a lake] .

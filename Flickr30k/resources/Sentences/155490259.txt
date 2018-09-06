@@ -1,0 +1,5 @@
+[/EN#16216/people A man] is on [/EN#16218/scene the roof of a building] while [/EN#0/notvisual he] paints [/EN#16217/other the outside window trim] .
+[/EN#16216/people A man] in [/EN#16222/clothing a blue shirt] and [/EN#16223/clothing white overalls] standing on [/EN#16220/other a roof painting] .
+[/EN#16216/people A man] cleaning [/EN#16221/other windows] on [/EN#16218/scene the 3rd story of a mansion]
+[/EN#16216/people a man] working on [/EN#16217/scene a window of the old building] .
+[/EN#16216/people A worker] is painting [/EN#16217/other a window] .

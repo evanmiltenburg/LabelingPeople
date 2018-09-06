@@ -1,0 +1,5 @@
+[/EN#218886/scene A Walgreens store] is located at [/EN#218884/scene the corner of two streets] .
+[/EN#218887/people two people] walking past [/EN#218883/other a Walgreens] located on [/EN#218885/scene a corner] .
+[/EN#218882/vehicles A black car] is about to cross [/EN#218883/other Walgreens] .
+[/EN#218882/vehicles A black car] passes [/EN#218883/other a Walgreens] .
+[/EN#218883/other Walgreens] on [/EN#218885/scene a street corner] .

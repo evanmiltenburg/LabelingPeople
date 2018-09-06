@@ -1,0 +1,5 @@
+With [/EN#154946/other flowers] in [/EN#0/notvisual the foreground] , [/EN#154942/people a man] in [/EN#154947/clothing a blue striped shirt] bikes past [/EN#154944/scene a large white building] .
+[/EN#154942/people The old man] is driving [/EN#154943/vehicles his bicycle] across [/EN#154945/scene the street] from [/EN#154944/scene the white building] .
+[/EN#154942/people An elderly man] riding [/EN#154943/vehicles his bike] with [/EN#154944/scene a large white building] behind [/EN#0/notvisual him] .
+[/EN#154942/people A man] on [/EN#154943/vehicles a bicycle] drives by [/EN#154944/scene a large white Christian building] .
+[/EN#154942/people An old man] on [/EN#154943/vehicles a bicycle] is biking past [/EN#154944/scene a large white chapel] .

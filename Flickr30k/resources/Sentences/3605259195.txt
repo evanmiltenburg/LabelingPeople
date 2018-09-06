@@ -1,0 +1,5 @@
+[/EN#131027/people Toddler] in [/EN#131031/clothing blue shirt] and [/EN#131034/clothing beige khaki shorts] and [/EN#131035/clothing brown shoes] , holding [/EN#131032/other a small blue shovel] , walking along [/EN#131030/scene beach shore] with [/EN#131033/animals two white seagulls] swooping towards [/EN#0/notvisual him] .
+[/EN#131027/people A little boy] with [/EN#131031/clothing a blue shirt] carries [/EN#131032/other a blue shovel] at [/EN#131030/scene the beach] , as [/EN#0/notvisual he] runs towards [/EN#131033/animals a couple of seagulls] .
+[/EN#131027/people child] in [/EN#131034/clothing tan shorts] , [/EN#131031/clothing blue striped shirt] playing on [/EN#131030/scene a beach] with [/EN#131033/animals birds]
+[/EN#131027/people A little child] with [/EN#131032/other a shovel] is walking on [/EN#131030/scene a beach] .
+[/EN#131027/people A young boy] chases [/EN#131033/animals seagulls] on [/EN#131030/scene a sandy beach] .

@@ -1,0 +1,5 @@
+[/EN#163889/people A man] in [/EN#163890/clothing a black shirt] and [/EN#163896/clothing jeans] and wearing [/EN#163895/clothing glasses] serving [/EN#163888/other food] to [/EN#163884/people a kid] wearing [/EN#163892/clothing an orange shirt] .
+[/EN#163884/people A male] in [/EN#163892/clothing an orange shirt] next to [/EN#163886/other a container] full of [/EN#163887/other an orange substance] .
+[/EN#163883/people A man] is scooping [/EN#163887/other something] out of [/EN#163886/other a barrel] into [/EN#163894/other a plastic container] .
+[/EN#163897/people two men] serving preparing [/EN#163888/other food] .
+[/EN#163883/people A man] serves [/EN#163887/other food] to [/EN#163884/people a boy] .

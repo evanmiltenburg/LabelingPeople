@@ -1,0 +1,5 @@
+[/EN#197009/people A bald man] leaning on [/EN#197016/scene a building] with [/EN#197012/people a young girl] crouching and holding [/EN#197011/other a bottle of liquid] .
+[/EN#197009/people An old man] in [/EN#197013/clothing glasses] is looking around and [/EN#197012/people a young child] in [/EN#197015/clothing red] is sitting on [/EN#0/notvisual the ground] .
+[/EN#197009/people A man] is standing by [/EN#197014/other a wall] , [/EN#197012/people a young girl] is sitting at [/EN#197017/bodyparts his feet] .
+[/EN#197009/people A man] in [/EN#197013/clothing glasses] is standing and [/EN#197012/people a girl] is crouching outside .
+[/EN#197009/people Dad] and [/EN#197012/people daughter] waiting for [/EN#197010/other something] .

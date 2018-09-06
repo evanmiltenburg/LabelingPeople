@@ -1,0 +1,5 @@
+[/EN#196827/people A woman] wearing [/EN#196835/clothing a hat white shirt] and [/EN#196831/clothing blue jeans] is standing on [/EN#196829/scene a sidewalk] looking at [/EN#196839/other something] while [/EN#196833/people people] walk by .
+[/EN#196827/people A woman] wearing [/EN#196830/clothing a tan hat] with [/EN#196836/clothing a red sweatshirt] wrapped around [/EN#196832/bodyparts her shoulders] stands in [/EN#196833/people the middle of a small crowd] .
+[/EN#196827/people A person] with [/EN#196831/clothing blue jeans] and [/EN#196837/clothing a white shirt] is standing on [/EN#196829/scene a sidewalk] with [/EN#196836/clothing something red] draped over [/EN#196832/bodyparts their shoulder] .
+[/EN#196827/people A woman] wearing [/EN#196828/clothing a backpack] and [/EN#196838/clothing glasses] is standing on [/EN#196829/scene a street] .
+[/EN#196827/people Woman] wearing [/EN#196830/clothing a cap] and [/EN#196828/clothing backpack] , standing on [/EN#196829/scene a busy sidewalk] .

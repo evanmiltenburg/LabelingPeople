@@ -1,0 +1,5 @@
+[/EN#137601/people A boy] wearing [/EN#137602/clothing a green checked shirt] is standing by [/EN#137604/other a tree] with [/EN#137603/other a piece of rope] .
+[/EN#137601/people A boy] in [/EN#137602/clothing a plaid shirt] plays with [/EN#137603/other string] .
+[/EN#137601/people The boy] under [/EN#137604/other the tree] holding [/EN#137603/other a rope] .
+[/EN#137601/people A boy] with [/EN#137603/other rope] in [/EN#137604/other the woods] .
+[/EN#137601/people A boy] holding [/EN#137603/other a rope] .

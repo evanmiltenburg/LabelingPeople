@@ -1,0 +1,5 @@
+[/EN#57772/people A motorcycle rider] in [/EN#57776/clothing a white helmet] leans into [/EN#57773/other a curve] on [/EN#57775/scene a rural road] .
+[/EN#0/notvisual There] is [/EN#57772/people a professional motorcyclist] turning [/EN#57774/scene a corner] .
+[/EN#57772/people Someone] on [/EN#57771/other a motorcycle] leaning into [/EN#57773/other a turn] .
+[/EN#57772/people A motorcycle rider] making [/EN#57773/other a turn] .
+[/EN#57771/other A motorcycle] races .

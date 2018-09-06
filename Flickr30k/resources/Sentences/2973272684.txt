@@ -1,0 +1,5 @@
+[/EN#84897/people A football player] in [/EN#84898/clothing a purple jersey] is running [/EN#84899/other the ball] in for [/EN#84904/other a touchdown] .
+[/EN#84897/people A football player] runs across [/EN#84903/scene the field] as [/EN#84900/people the referee] blows [/EN#84901/other his whistle] .
+[/EN#84897/people A football player] in [/EN#84902/clothing a gold helmet] is running with [/EN#84899/other a football] .
+[/EN#84897/people A football player] runs past [/EN#84900/people an official] carrying [/EN#84899/other a football] .
+[/EN#84897/people The football player] runs [/EN#84899/other the ball] past [/EN#84900/people the referee] .

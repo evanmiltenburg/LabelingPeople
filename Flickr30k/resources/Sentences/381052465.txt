@@ -1,0 +1,5 @@
+[/EN#143531/other a yellow firetruck] is parked next to [/EN#143530/other a fire] with [/EN#143526/people a man] on [/EN#143532/other a ladder] pouring [/EN#143533/scene water] on [/EN#0/notvisual it]
+[/EN#143529/people Firefighters] putting out [/EN#143530/other a big fire] .
+[/EN#143531/other a firetruck] fights [/EN#143530/other a fire] .
+[/EN#143527/people People] putting out [/EN#143530/other a fire] .
+[/EN#143528/people Fireman] fighting [/EN#143530/other a fire] .

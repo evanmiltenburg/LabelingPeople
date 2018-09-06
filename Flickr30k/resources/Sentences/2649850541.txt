@@ -1,0 +1,5 @@
+[/EN#63891/people A girl] lays on [/EN#63892/scene the sidewalk] with [/EN#63895/bodyparts her arms] and [/EN#63893/bodyparts face] in [/EN#63894/scene the grass] .
+[/EN#63891/people A little girl] lays on [/EN#63892/scene the sidewalk] with [/EN#63893/bodyparts her face] in [/EN#63894/scene the grass] .
+[/EN#63891/people The little girl] is laying on [/EN#63892/scene the sidewalk] .
+[/EN#63891/people a girl] lays on [/EN#63892/scene her driveway] .
+[/EN#63891/people A girl] laying on [/EN#63892/scene a sidewalk] .

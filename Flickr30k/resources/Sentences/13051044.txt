@@ -1,0 +1,5 @@
+[/EN#8118/people Puppeteer] wearing [/EN#8119/clothing a purple sleeveless shirt] showing off [/EN#8121/other a puppet] [/EN#0/notvisual that] looks like [/EN#8123/people a black man] with [/EN#8126/other shades] playing [/EN#8120/instruments a saxophone] .
+[/EN#8118/people A man] dressed in [/EN#8119/clothing a burgundy shirt] and [/EN#8125/clothing black pants] maneuvering [/EN#8121/other a puppet] [/EN#0/notvisual which] is holding [/EN#8120/instruments a musical instrument] .
+[/EN#8118/people Puppeteer] entertaining with [/EN#8121/other a puppet] playing [/EN#8120/instruments the saxophone] on [/EN#8122/scene the side of the street] .
+[/EN#8118/people A man] wearing [/EN#8119/clothing a red shirt] has [/EN#8121/people a puppet band] , on [/EN#8122/scene the street] .
+[/EN#8118/people A man] manipulates [/EN#8120/instruments a saxophone] playing [/EN#8121/other marionette] .

@@ -1,0 +1,5 @@
+[/EN#191528/people A couple] standing next to [/EN#191529/other a bench] in [/EN#191531/scene the center of a street] at [/EN#191532/scene night] .
+[/EN#191528/people A man] in [/EN#191534/clothing a leather coat] waits with [/EN#0/notvisual another] at [/EN#191529/other a bus stop] .
+[/EN#191528/people Two people] with [/EN#191535/clothing bags] next to [/EN#191531/scene a street] at [/EN#191532/scene night] .
+[/EN#191528/people Two people] on [/EN#191530/vehicles/scene the bus] stand with [/EN#191536/other luggage] .
+[/EN#191528/people People] at [/EN#191532/scene night] waiting for [/EN#191530/vehicles/scene a bus] .

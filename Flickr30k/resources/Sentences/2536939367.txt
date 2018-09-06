@@ -1,0 +1,5 @@
+[/EN#56081/people A man] is [/EN#56083/clothing a construction outfit] with [/EN#56082/other a floor buffer] is riding down [/EN#56084/scene an escalator] .
+[/EN#56081/people A man] in [/EN#56086/other reflective orange gear] carrying [/EN#56082/other a buffer] up [/EN#56084/scene an escalator] .
+[/EN#56081/people A worker] is holding [/EN#56082/other a yellow machine] on [/EN#56084/scene an escalator] .
+[/EN#56081/people A man] in [/EN#56083/clothing an orange vest] is riding on [/EN#56084/scene an escalator] .
+[/EN#56081/people A worker] taking [/EN#56082/other a large machine] on [/EN#56084/scene an escalator] .

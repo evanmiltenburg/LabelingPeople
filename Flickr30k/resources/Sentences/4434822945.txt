@@ -1,0 +1,5 @@
+[/EN#167750/people Two men] in [/EN#167747/scene a street] where [/EN#167749/other 1] is pushing [/EN#167746/vehicles his bike] and carrying [/EN#167755/other something] in [/EN#167758/bodyparts his other hand] looking towards [/EN#167748/people the other man] as [/EN#0/notvisual he] is saying [/EN#167756/other something] .
+[/EN#167745/people A woman] with [/EN#167746/vehicles a bike] is looking at [/EN#167748/other a statue] , [/EN#167748/other the statue] is [/EN#167751/other a display] for [/EN#167753/scene an Asian restaurant] .
+[/EN#167745/people A passerby] with [/EN#167746/vehicles a bike] looking at [/EN#167748/people a mime] on [/EN#167747/scene the street] .
+[/EN#167745/people A person] is walking [/EN#167746/vehicles a bicycle] down [/EN#167747/scene a city street] .
+[/EN#167745/people man] walking beside [/EN#167746/vehicles bicycle] by [/EN#167748/people a statue of a boy] .

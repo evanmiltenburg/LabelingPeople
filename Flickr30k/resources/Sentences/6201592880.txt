@@ -1,0 +1,5 @@
+[/EN#249953/people A female marathon runner] wearing [/EN#249956/clothing a red headband] , [/EN#249957/clothing a red tank top] and [/EN#249958/clothing black shorts] jogging down [/EN#249960/scene a paved road] .
+[/EN#249953/people A woman] running along [/EN#249960/scene a street] in [/EN#249958/clothing black shorts] and [/EN#249957/other a red halter] in [/EN#249959/other a competition] .
+[/EN#249953/people A woman] wearing [/EN#249957/clothing a red sports bra] and [/EN#249958/clothing black shorts] is racing in [/EN#249955/other a marathon] .
+[/EN#249953/people A runner] is caught running in [/EN#249954/other the middle of a race] .
+[/EN#249953/people A female marathon runner] wearing [/EN#249956/clothing a pink headband] .

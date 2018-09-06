@@ -1,0 +1,5 @@
+[/EN#119999/people A boy] sticks [/EN#120009/bodyparts his head] through [/EN#120005/scene a gap] between [/EN#120008/other red striped fabric partitions] .
+[/EN#119999/people A man] in [/EN#120002/clothing a blue shirt] and [/EN#120006/clothing black pants] looking through [/EN#120007/scene circus tents] .
+[/EN#119999/people A man] in [/EN#120002/clothing a blue shirt] is looking through [/EN#120003/other a white and red curtain] .
+[/EN#119999/people A boy] is looking through [/EN#120003/scene the flap of a red and white tent] .
+[/EN#119999/people Someone] is peeking on [/EN#119999/people someone] peeking into [/EN#120004/other the circus] .

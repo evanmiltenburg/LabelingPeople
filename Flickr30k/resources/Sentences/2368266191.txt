@@ -1,0 +1,5 @@
+[/EN#44565/animals A dog] jumps by [/EN#44566/other a tree] while [/EN#0/notvisual another] lays on [/EN#0/notvisual the ground] .
+[/EN#44565/animals A dog] leaps high in [/EN#0/notvisual the air] while [/EN#0/notvisual another] watches .
+[/EN#44565/animals A dog] chases [/EN#0/notvisual another] by [/EN#44566/other a tree] .
+[/EN#44567/animals Two dogs] are playing outside .
+[/EN#44567/animals Two dogs] play by [/EN#44566/other a tree] .

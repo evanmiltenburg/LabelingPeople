@@ -1,0 +1,5 @@
+[/EN#204085/people A man] wearing [/EN#204091/clothing a brown shirt] and [/EN#204089/clothing blue jeans] is standing alone in [/EN#204088/scene a room] holding [/EN#204086/instruments a guitar] .
+[/EN#204085/people A man] with [/EN#204089/clothing blue jeans] and [/EN#204090/clothing glasses] stands playing [/EN#204086/instruments a guitar] in [/EN#204088/scene a room] with [/EN#204092/other two chairs] .
+[/EN#204085/people a man] stands with [/EN#204086/instruments a guitar] and [/EN#204087/scene music stand] in [/EN#204088/scene an empty room] .
+[/EN#204085/people A man] wearing [/EN#204090/clothing glasses] plays [/EN#204086/instruments a guitar] behind [/EN#204087/scene a music stand] .
+[/EN#204085/people A gentleman] is playing [/EN#204086/instruments an acoustic guitar] .

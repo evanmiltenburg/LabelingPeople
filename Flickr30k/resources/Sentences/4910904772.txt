@@ -1,0 +1,5 @@
+[/EN#217341/people A woman] in [/EN#217346/clothing a black top] and [/EN#217342/clothing blue skirt] is pushing [/EN#217343/vehicles a carriage] or cart down [/EN#217344/scene a long empty tree-lined road] .
+[/EN#217341/people A woman] in [/EN#217342/clothing a blue skirt] pushing [/EN#217343/other a stroller] along [/EN#217347/other a tree] lined [/EN#217344/scene street] .
+[/EN#217341/people A woman] with [/EN#217343/other a stroller] is walking down [/EN#217344/scene a path] lined with [/EN#217348/other trees]
+[/EN#217341/people A woman] pushing [/EN#217343/other a stroller] down [/EN#217344/scene a tree-lined walkway] .
+[/EN#217341/people A woman] is pushing [/EN#217343/vehicles a cart] down [/EN#217344/scene a narrow road] .

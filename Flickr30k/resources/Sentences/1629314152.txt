@@ -1,0 +1,5 @@
+[/EN#17874/people A man] in [/EN#17879/clothing a black shirt] is making [/EN#17876/other a video] recording of [/EN#17874/people another man] in [/EN#17881/clothing a black shirt] .
+[/EN#17875/people Two middle-aged men] sit with [/EN#17876/other a camera] , and seem to be holding [/EN#17877/other a conversation] .
+[/EN#17875/people Two men] wearing [/EN#17879/clothing black shirts] have [/EN#17877/other a conversation] near [/EN#17876/other a video camera] .
+[/EN#17874/people A cameraman] recording [/EN#17874/people yet another man] while [/EN#0/notvisual he] makes [/EN#17877/other a speech] .
+[/EN#17875/people Two men] in [/EN#17879/clothing black shirts] are conversing around [/EN#17876/other a video camera] .

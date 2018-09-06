@@ -1,0 +1,5 @@
+[/EN#86111/people A woman] is holding [/EN#86112/people her child] while [/EN#86113/people a man] is reading [/EN#86122/other something] from [/EN#86121/other a piece of paper] and taking [/EN#86123/other something] from [/EN#86117/other a bowl] that [/EN#86112/people a younger girl] is holding in [/EN#86120/scene a park] with [/EN#86114/scene a small lake] in [/EN#0/notvisual the background] .
+[/EN#86111/people Woman] wearing [/EN#86124/clothing brown sandals] and [/EN#86125/clothing blue jeans] , in [/EN#86126/clothing a white shirt] , holding [/EN#86112/people a baby] under [/EN#86115/other a tall tree] .
+[/EN#86110/people A small group of people] meeting together at [/EN#86115/other a tree] by [/EN#86114/scene water] .
+[/EN#86116/people Two women] and [/EN#86113/people a man] are having [/EN#86118/other a discussion] at [/EN#86119/scene an event] .
+[/EN#86110/people A family] is standing under [/EN#86115/other a very large tree] .

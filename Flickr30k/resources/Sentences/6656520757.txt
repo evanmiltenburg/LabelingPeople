@@ -1,0 +1,5 @@
+[/EN#256580/people An old chinese man] is looking at [/EN#256581/other a computer monitor] with [/EN#256584/bodyparts his hands] on [/EN#256586/bodyparts his cheeks] .
+[/EN#256580/people An older man] sits and looks at [/EN#256581/other his computer screen] with [/EN#256583/bodyparts his face] in [/EN#256584/bodyparts his hands] .
+[/EN#256580/people An older Asian man] sits in front of [/EN#256581/other his laptop] with [/EN#256587/bodyparts his head] in [/EN#256584/bodyparts his hands] .
+[/EN#256580/people A man] in [/EN#256585/clothing a gray striped shirt] and [/EN#256582/clothing glasses] looks at [/EN#256581/other a monitor] .
+[/EN#256580/people Man] with [/EN#256582/clothing glasses] is holding [/EN#256584/bodyparts his hands] up to [/EN#256583/bodyparts his face] .

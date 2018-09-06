@@ -1,0 +1,5 @@
+[/EN#158467/other A group of people of mixed ages] sit on [/EN#158468/vehicles/scene a bus] [/EN#0/notvisual that] features [/EN#158472/other red headrests] .
+[/EN#158467/people A group of people] sit in [/EN#158469/scene gray seats] on [/EN#158468/vehicles/scene a bus] with [/EN#158471/scene a red roof] .
+[/EN#158468/vehicles/scene Interior scene of fairly full tour bus] .
+[/EN#158467/people People] ride on [/EN#158468/vehicles/scene a bus] with [/EN#158469/scene red seats] .
+[/EN#158467/people A group of people] on [/EN#158468/vehicles/scene a crowded bus] .

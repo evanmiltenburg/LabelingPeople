@@ -1,0 +1,5 @@
+[/EN#183448/people A woman] wearing [/EN#183455/clothing a headscarf] is pouring [/EN#183449/other liquid] from [/EN#183453/other one cup] into [/EN#0/notvisual another] , in front of [/EN#183451/scene a scenic backdrop] .
+[/EN#183448/people A woman] in [/EN#183450/scene a high mountain range] is pouring [/EN#183449/other drink] from [/EN#183453/other one cup] to [/EN#0/notvisual another] .
+[/EN#183448/people A woman] pouring [/EN#183449/other a cup of coffee] in [/EN#183454/other the wild] .
+[/EN#183448/people A woman] is pouring [/EN#183449/other coffee] in [/EN#183452/scene the mountains] .
+[/EN#183448/people A woman] is pouring [/EN#183449/other a drink] on [/EN#183450/scene a hilltop] .

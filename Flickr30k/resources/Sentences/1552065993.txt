@@ -1,0 +1,5 @@
+[/EN#16145/animals The brown and white dog] is running through [/EN#16147/scene a field of grass] and [/EN#16148/other pink flowers] .
+[/EN#16145/animals a multicolored dog] running through [/EN#16147/scene a flowery field]
+[/EN#16145/animals Dog] with [/EN#16146/clothing a thick collar] running through [/EN#16147/scene the grass]
+[/EN#16145/animals Dog] with [/EN#16146/clothing big collar] running .
+[/EN#16145/animals A dog] is running in [/EN#16149/scene a field] .

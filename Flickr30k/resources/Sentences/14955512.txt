@@ -1,0 +1,5 @@
+[/EN#14861/people A child] lays asleep on [/EN#14862/other a bed] , wearing [/EN#14865/clothing a bib] [/EN#0/notvisual that] says [/EN#14866/other ' Tuesday] ' .
+[/EN#14861/people A frowning toddler] sleeps while wearing [/EN#14865/clothing a bib] .
+[/EN#14861/people A sleeping baby] in [/EN#14865/clothing a bib] laying on [/EN#14864/other a blanket] .
+[/EN#14861/people Young infant] sleeps peacefully .
+[/EN#14861/people Baby] taking [/EN#14867/other a nap] in [/EN#14863/other his crib] .

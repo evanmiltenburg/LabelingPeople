@@ -1,0 +1,5 @@
+[/EN#159272/people a child] in [/EN#159275/clothing an orange sweater] is playing with [/EN#159274/people a child] in [/EN#159279/clothing blue clothes] on [/EN#159276/other a white couch] under [/EN#159278/other a red painting] .
+[/EN#159272/people A kid] in [/EN#159275/clothing a yellow shirt] wrestles with [/EN#159277/other a denim] wearing [/EN#159274/people kid] on [/EN#159276/other the white couch] .
+[/EN#159273/people Two young boys] playing on [/EN#159276/other a white sofa] .
+[/EN#159273/people Two kids] are wrestling on [/EN#159276/other a white sofa] .
+[/EN#159273/people Two toddlers] wrestle on [/EN#159276/other a white couch] .

@@ -1,0 +1,5 @@
+[/EN#118131/animals A large , brown dog] is jumping on [/EN#118132/people a man] in [/EN#118135/clothing a protective suit] .
+[/EN#118131/people Dog nudges owner] while out for [/EN#118136/other a stoll] in [/EN#118134/scene the grass] .
+[/EN#118131/animals A dog] trying to bite [/EN#118132/people a man] [/EN#0/notvisual who] is training [/EN#0/notvisual him]
+[/EN#118131/animals Police dog] has caught [/EN#118132/people a trainer] .
+[/EN#118131/animals A dog] biting [/EN#118132/scene a man 's rear]

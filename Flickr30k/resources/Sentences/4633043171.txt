@@ -1,0 +1,5 @@
+[/EN#184743/people An old man] wearing [/EN#184745/clothing a gray jacket] is looking at [/EN#184744/vehicles/scene a red bus] on [/EN#184747/scene the street] next to [/EN#184746/other a large sign] .
+Here is [/EN#184743/people a picture of a man] waiting for [/EN#184744/vehicles/scene the bus] to pick [/EN#0/notvisual him] up and [/EN#0/notvisual he] is hiding [/EN#184749/bodyparts his face] .
+[/EN#184743/people A man] in [/EN#184745/clothing a long coat] and [/EN#184748/clothing dress pants] looks up at [/EN#184746/other a sign] on [/EN#184744/vehicles/scene a bus] as [/EN#0/notvisual it] passes by
+[/EN#184743/people A man] awaits [/EN#184744/vehicles/scene a double-decker bus] .
+[/EN#184743/people A man] waiting for [/EN#184744/vehicles/scene the bus] .

@@ -1,0 +1,5 @@
+[/EN#147963/animals A brown and white dog] is standing on [/EN#147967/bodyparts its hind legs] reaching for [/EN#147964/other a ball] .
+[/EN#147963/animals The brown and white dog] is jumping up in [/EN#147966/other an attempt] to catch [/EN#147964/other a ball] .
+[/EN#147963/animals A dog] stands on [/EN#147968/bodyparts one leg] and tries to get [/EN#147964/other a soccer ball] .
+[/EN#147963/animals A dog] jumps to meet [/EN#147964/other a soccer ball] flying towards [/EN#0/notvisual it] .
+[/EN#147965/clothing Black] and [/EN#147963/animals white dog] jumps for [/EN#147964/other ball] .

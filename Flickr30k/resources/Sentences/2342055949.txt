@@ -1,0 +1,5 @@
+[/EN#42907/people Two men] dressed in [/EN#42908/clothing all black] on top of [/EN#42909/other some structure] with [/EN#42910/scene a dark sky] behind [/EN#0/notvisual them] .
+[/EN#42911/people The person] is standing far away while [/EN#42912/people another person] is taking [/EN#42917/other a picture] .
+[/EN#42911/people A woman] dressed in [/EN#42908/clothing black] is silhouetted against [/EN#42910/scene a cloud darkened sky] .
+[/EN#0/notvisual There] are [/EN#42910/other dark clouds] in [/EN#42910/scene the sky] while [/EN#42911/people a woman] stands looking .
+[/EN#42914/other Two tourist gaze] outside at [/EN#42915/scene a serene area] .

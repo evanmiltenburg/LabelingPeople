@@ -1,0 +1,5 @@
+[/EN#33567/people A woman] in [/EN#33568/clothing blue shorts] and [/EN#33569/clothing white shirt] holds [/EN#33570/other a tennis racket] on [/EN#33575/scene a blue tennis court] .
+[/EN#33567/people A female tennis player] is standing with [/EN#33571/bodyparts her feet] apart on [/EN#33572/other a court] .
+[/EN#33567/people A woman] in [/EN#33569/clothing a white top] and [/EN#33568/clothing blue shorts] is playing [/EN#33574/other tennis] .
+[/EN#33567/people Woman] in [/EN#33569/clothing a white shirt] and [/EN#33568/clothing blue shorts] playing [/EN#33574/other tennis] .
+[/EN#33567/people A blond woman] wearing [/EN#33573/clothing glasses] is playing [/EN#33574/other tennis] .

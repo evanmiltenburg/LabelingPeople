@@ -1,0 +1,5 @@
+[/EN#203121/people A woman] wearing [/EN#203123/clothing a white shirt] and [/EN#203124/clothing gray shorts] using [/EN#203127/other a shovel] to dig in [/EN#203125/scene snow] .
+[/EN#203121/people A man] wearing [/EN#203122/clothing a hat] and [/EN#203129/clothing boots] is digging for [/EN#203130/other something] in [/EN#203125/scene the snow] .
+[/EN#203121/people Person] in [/EN#203123/clothing a white shirt] wearing [/EN#203122/clothing a hat] digging in [/EN#203125/scene the snow] .
+[/EN#203126/other a main] shorts digs in [/EN#203125/scene the snow] on [/EN#203128/other a sunny afternoon] .
+[/EN#203121/people A man] in [/EN#203124/clothing shorts] is shoveling [/EN#203125/scene snow] .

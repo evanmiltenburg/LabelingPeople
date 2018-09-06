@@ -1,0 +1,5 @@
+[/EN#214815/people A person] playing [/EN#214817/instruments a guitar] with [/EN#214818/people a capo] on [/EN#214820/other the second fret] .
+[/EN#214815/people A man] playing [/EN#214817/instruments a guitar] while sitting on [/EN#214816/other a chair] [/EN#214819/other indoors] .
+[/EN#214815/people A man] is sitting in [/EN#214816/other a chair] and playing [/EN#214817/instruments the guitar] .
+[/EN#214815/people A man] with [/EN#214821/clothing torn jeans] plays [/EN#214817/instruments an acoustic guitar] .
+[/EN#214815/people A man] is sitting in [/EN#214816/other a chair] playing [/EN#214817/instruments guitar] .

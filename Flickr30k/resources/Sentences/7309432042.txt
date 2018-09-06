@@ -1,0 +1,5 @@
+[/EN#268322/people Three men] with [/EN#268323/clothing blue jerseys] try to score [/EN#268319/other a goal] in [/EN#268317/other soccer] against [/EN#268326/people the other team] in [/EN#268327/clothing white jerseys] and [/EN#268315/people their goalie] in [/EN#268320/clothing green] .
+[/EN#268316/scene A soccer field] where [/EN#268315/people the goalie] [/EN#0/notvisual who] is wearing [/EN#268320/clothing a green jersey] has just caught [/EN#268321/other the ball] .
+[/EN#268315/people A goalie] caught [/EN#268321/other the ball] in [/EN#268317/other a game of soccer] in [/EN#268316/scene a stadium] with [/EN#268324/scene empty seats] .
+[/EN#268315/people A soccer goalie] jumping up to save [/EN#268321/other the ball] from going in [/EN#268318/other the net] .
+[/EN#268315/people A soccer goalie] in [/EN#0/notvisual the air] after catching [/EN#268321/other the soccer ball] .

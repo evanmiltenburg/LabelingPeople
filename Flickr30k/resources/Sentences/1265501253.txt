@@ -1,0 +1,5 @@
+[/EN#6694/people A woman] in [/EN#6698/clothing jeans] and [/EN#6695/clothing a hoodie] on [/EN#6696/vehicles/scene a subway] sleeping while [/EN#6699/other others] ride along .
+[/EN#6694/people A woman] in [/EN#6695/clothing a polka dotted jacket] is asleep on [/EN#6697/people a train full of people]
+[/EN#6694/people A woman] on [/EN#6696/vehicles/scene a subway] is falling asleep .
+[/EN#6694/people A woman] is asleep in [/EN#6700/vehicles a subway car] .
+[/EN#6694/people A woman] sleeping on [/EN#6696/vehicles/scene the subway] .

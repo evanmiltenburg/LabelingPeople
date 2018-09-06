@@ -1,0 +1,5 @@
+[/EN#158156/people Three young children] wearing [/EN#158165/clothing winter coats] and [/EN#158163/clothing hats] ride on [/EN#158161/vehicles the front end of a bicycle] built for [/EN#158160/other four] while [/EN#158155/people a blond adult] wearing [/EN#158159/clothing a black coat] rides on [/EN#158164/other the backseat] .
+[/EN#158155/people A man] [/EN#0/notvisual who] is wearing [/EN#158159/clothing a black coat] is on [/EN#158157/vehicles the back of a four seat bicycle] with [/EN#158156/people three children] riding on [/EN#158161/scene the seats] in front of [/EN#0/notvisual him] .
+[/EN#158155/people Mom] and [/EN#158156/people her three children] riding on [/EN#158157/vehicles a bicycle] built for [/EN#158160/other four] .
+[/EN#158155/people A blond woman] and [/EN#158156/people three young children] ride [/EN#158157/vehicles a tandem bicycle] .
+[/EN#158155/people A man] and [/EN#158156/people three children] riding [/EN#158157/vehicles a bike] with [/EN#158161/scene four seats] .

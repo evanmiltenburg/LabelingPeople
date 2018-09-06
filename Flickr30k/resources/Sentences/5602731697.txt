@@ -1,0 +1,5 @@
+[/EN#239449/people A group of 6 men] are attempting to pick up or move [/EN#239451/other a heavy missile] looking [/EN#239452/other object] [/EN#0/notvisual that] is supported by [/EN#239450/other a chicken foot] .
+[/EN#239449/people Four men] in [/EN#239455/clothing purple shirts] and [/EN#239454/other two] in [/EN#239453/clothing dark gray] moving [/EN#239451/other a sculpture] .
+[/EN#239449/people A group of men] place [/EN#239450/other a chicken foot statue] in [/EN#239456/scene its setting] .
+[/EN#239449/people some men] are trying to place [/EN#239451/other a statue] down on [/EN#0/notvisual the ground]
+[/EN#239449/people A group of men] are carrying [/EN#239452/other playground equipment] .

@@ -1,0 +1,5 @@
+[/EN#64817/people Cowboy] wearing [/EN#64820/scene robin egg blue chaps] and [/EN#64823/clothing a white hat] gets thrown by [/EN#64818/animals a bucking bronco] at [/EN#64819/other the rodeo] .
+[/EN#64817/people A cowboy] with [/EN#64820/scene bright blue chaps] is thrown from [/EN#64818/animals a bucking horse] at [/EN#64819/other a rodeo] .
+[/EN#64817/people A person] is at [/EN#64819/other a rodeo] trying to dodge getting hit from [/EN#64818/animals a horse] .
+[/EN#64817/people A cowboy] and [/EN#64818/animals his horse] [/EN#64822/other both fall] to [/EN#0/notvisual the ground] in [/EN#64821/scene an arena] .
+[/EN#64817/people bull rider] on [/EN#0/notvisual the ground]

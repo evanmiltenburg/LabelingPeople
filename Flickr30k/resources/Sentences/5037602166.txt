@@ -1,0 +1,5 @@
+[/EN#227327/people A man] stands upon [/EN#227329/other a large cart-load of hay] while [/EN#227328/animals two horses] drawing [/EN#227333/other the cart snack] on [/EN#227331/other a pile of hay] before [/EN#0/notvisual them] .
+[/EN#227327/people A man] wearing [/EN#227336/clothing a hat] stands atop [/EN#227329/vehicles an overstuffed hay wagon] while [/EN#227335/other two horses partake] in [/EN#227332/other some fallen hay] .
+[/EN#227327/people A man] is standing on top of [/EN#227329/other a large pile of hay] [/EN#0/notvisual which] is being pulled in [/EN#227329/vehicles a cart] by [/EN#227328/animals two horses] .
+[/EN#227328/animals Two horses] , pulling [/EN#227329/vehicles a cart] full of [/EN#227332/other hay] , are eating [/EN#227331/other hay] from [/EN#0/notvisual the ground] .
+[/EN#227327/people A man] is gathering [/EN#227332/other hay] on [/EN#227334/vehicles a horse drawn wagon] .

@@ -1,0 +1,5 @@
+[/EN#231860/people A man] in [/EN#231862/clothing a black suit] with [/EN#231873/clothing tie] and [/EN#231870/other corsage] smiles at [/EN#231861/people a girl] [/EN#0/notvisual who] smiles back , [/EN#0/notvisual both] are sitting at [/EN#231868/other a table] at [/EN#231864/scene a semi formal event] such as [/EN#231869/people a wedding or reunion] .
+[/EN#231860/people Man] in [/EN#231862/clothing a black suit] smiles at [/EN#231861/people a female] in [/EN#231863/clothing a black sleeveless dress] at [/EN#231864/scene a formal event] .
+[/EN#231860/people A man] in [/EN#231862/clothing a suit] talks to [/EN#231861/people a woman] in [/EN#231863/clothing a black dress] .
+[/EN#231861/people A young woman] is flirting with [/EN#231860/other her handsome date] .
+[/EN#231860/people A man] and [/EN#231861/people woman] enjoying [/EN#231871/other dinner] at [/EN#231866/other a party] .

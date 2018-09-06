@@ -1,0 +1,5 @@
+[/EN#45344/people A man] in [/EN#45346/clothing a gray shirt] and [/EN#45351/clothing white apron] is slicing [/EN#45348/other meat] using [/EN#45347/other equipment] in front of [/EN#45349/other salami] and [/EN#45350/other prosciutto] .
+[/EN#45344/people Deli man] slicing [/EN#45348/other meat] thin and weighing [/EN#45349/other the sliced pieces] .
+[/EN#45345/other Deli] setting with [/EN#45344/people worker] slicing [/EN#45348/other some meat] to be weighed .
+[/EN#45344/people A man] in [/EN#45345/other a deli] is using [/EN#45347/other a meat slicer] .
+[/EN#45344/people A man] in [/EN#45346/clothing a black shirt] cutting [/EN#45348/other meat] .

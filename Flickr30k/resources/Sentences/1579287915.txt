@@ -1,0 +1,5 @@
+[/EN#16896/people A man] in [/EN#16903/clothing shorts] and [/EN#16904/clothing a black jacket] stands on top of [/EN#16897/other a big rock] looking down on [/EN#16900/scene hills] and [/EN#16902/scene valleys] .
+[/EN#16896/people A lone man] stands on [/EN#16899/scene a rocky outcropping] and looks out over [/EN#16902/scene the wilderness] .
+[/EN#16896/people Man] standing on [/EN#16898/other edge of large rock] overlooking [/EN#16901/scene scenic view] .
+[/EN#16896/people A man] is standing on [/EN#16897/other a big rock] overlooking [/EN#16901/scene a valley] .
+[/EN#16896/people A man] stands atop [/EN#16897/other a large mountain of rocks] .

@@ -1,0 +1,5 @@
+[/EN#271308/people A girl] wearing [/EN#271310/clothing a black bikini] jumps into [/EN#271311/scene a large body of water] while [/EN#271309/animals an inflatable zebra] floats above [/EN#271315/bodyparts her head] .
+[/EN#271308/people A woman] in [/EN#271310/clothing a black bikini] enjoys [/EN#271309/scene a frolic by the seaside] with [/EN#271309/animals her zebra] shaped [/EN#271309/other balloon] .
+[/EN#271308/people A woman] in [/EN#271310/clothing a bikini] is in [/EN#271311/scene the water] jumping in [/EN#0/notvisual the air] as [/EN#0/notvisual she] holds [/EN#271309/other a zebra balloon] .
+[/EN#271308/people Girl] jumping into [/EN#271311/scene ocean] with [/EN#271309/other a Zebra balloon] attached to [/EN#272000/bodyparts/people arm] .
+[/EN#271308/people A woman] in [/EN#271310/clothing a black bikini] jumps into [/EN#271311/scene the water] .

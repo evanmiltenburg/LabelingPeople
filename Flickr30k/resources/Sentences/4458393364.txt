@@ -1,0 +1,5 @@
+[/EN#170184/people A man] wearing [/EN#170195/clothing a green top] , [/EN#170196/clothing orange pants] , and [/EN#170197/clothing a white hat] is walking on [/EN#170187/scene a dock] by [/EN#170186/other a bot] with [/EN#170184/people a man] in [/EN#170198/clothing a blue shirt] behind [/EN#0/notvisual him] .
+[/EN#170184/people A man] dressed in [/EN#170191/other protective gear] walking along [/EN#170189/scene a stream] with [/EN#170193/people another man] close behind [/EN#0/notvisual him] .
+[/EN#170184/people A man] carrying [/EN#170190/other a rope] over [/EN#170199/bodyparts his shoulder] is walking next to [/EN#170188/scene the edge of the water] .
+[/EN#170184/people Young man] hard at [/EN#170194/other work] over by [/EN#170192/scene the lake] .
+[/EN#170184/people A construction worker] pulls [/EN#170186/other a whaler] .

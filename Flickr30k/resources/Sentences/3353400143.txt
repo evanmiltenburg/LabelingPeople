@@ -1,0 +1,5 @@
+[/EN#112048/people A man] in [/EN#112051/clothing a yellow outfit] riding [/EN#112049/other a yellow motorcycle] .
+[/EN#112049/other A yellow motorcycle] is being ridden on [/EN#112050/other a racetrack] .
+[/EN#112048/people A motorcyclist] in [/EN#112051/clothing yellow and white] rides [/EN#112049/vehicles his bike] .
+[/EN#112049/other A yellow motorcycle] drives down [/EN#112050/scene the road] .
+[/EN#112048/people A motorcyclist] in [/EN#112051/clothing yellow] .

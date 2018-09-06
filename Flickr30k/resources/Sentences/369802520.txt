@@ -1,0 +1,5 @@
+[/EN#137660/animals An ash colored dog] is walking forward in [/EN#137661/scene the snow] .
+[/EN#137660/animals a fluffy little dog] running through [/EN#137661/scene the snow]
+[/EN#137660/animals A small tan dog] runs through [/EN#137661/scene the snow] .
+[/EN#137660/animals a small dog] walking through [/EN#137661/scene the snow]
+[/EN#137660/animals A tan dog] is walking through [/EN#137661/scene snow] .

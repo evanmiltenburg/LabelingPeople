@@ -1,0 +1,5 @@
+[/EN#184376/people A female] with [/EN#184381/bodyparts blond-hair] , wearing [/EN#184382/clothing blue jeans] , walking past [/EN#184379/scene a music store] and [/EN#184380/scene tall , beige building] [/EN#0/notvisual which] has [/EN#184377/other tall glass doors] .
+[/EN#184376/people A female] in [/EN#184382/clothing blue jeans] and [/EN#184378/clothing a black jacket] is walking in front of [/EN#184380/scene a building] with [/EN#184377/other a big black door] .
+[/EN#184376/people A girl] with [/EN#184381/bodyparts a ponytail of brown hair] wearing [/EN#184382/clothing jeans] is walking up [/EN#184383/scene a street] in front of [/EN#184384/scene stores] .
+[/EN#184376/people A woman] in [/EN#184382/clothing blue jeans] and [/EN#184378/clothing a dark jacket] walks in front of [/EN#184380/scene a building] .
+[/EN#184376/people A woman] walks by [/EN#184377/other a tall black door] .

@@ -1,0 +1,5 @@
+[/EN#37324/people An elderly Asian woman] wearing [/EN#37325/clothing a blue winter coat] and [/EN#37329/clothing red hat] in front of [/EN#37326/other a food counter] .
+[/EN#37324/people A woman] with [/EN#37329/clothing a red hat] and [/EN#37330/bodyparts face] stands in front of [/EN#37327/other jars] .
+[/EN#37324/people A woman] wearing [/EN#37329/clothing a red hat] and [/EN#37325/clothing black coat] .
+[/EN#37324/people The hapy asian woman] is at [/EN#37328/scene the market] .
+[/EN#37324/people A woman] in [/EN#37329/clothing a red cap] in [/EN#37328/scene a store] .

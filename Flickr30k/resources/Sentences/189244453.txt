@@ -1,0 +1,5 @@
+[/EN#22739/people A man] is touching [/EN#22742/people the hand of another man] at [/EN#0/notvisual what] appears to be [/EN#22741/scene a produce store] .
+[/EN#22739/people A man] with [/EN#22743/scene a fruit stand] giving [/EN#22746/other change] to [/EN#22744/people another man] .
+[/EN#22739/people A man] in [/EN#22747/clothing a black shirt] selling [/EN#22740/other fruit] at [/EN#22741/scene the market] .
+[/EN#22739/people A man] is pointing into [/EN#22742/bodyparts another man 's hand] .
+[/EN#22739/people A man] bought [/EN#22740/other a fruits] with [/EN#22745/bodyparts a smile]

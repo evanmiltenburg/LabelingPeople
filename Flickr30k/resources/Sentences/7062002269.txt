@@ -1,0 +1,5 @@
+[/EN#264817/people A man] in [/EN#264819/clothing a red shirt] is playing [/EN#264818/other a racing video game] .
+[/EN#264817/people A child] standing in [/EN#264822/scene a room] playing [/EN#264821/other a video game] .
+[/EN#264817/people A boy] wearing [/EN#264819/clothing a red shirt] plays [/EN#264818/other a video] games .
+[/EN#264817/people A male] plays [/EN#264818/other a video game] on [/EN#264820/other a television] .
+[/EN#264817/people A young man] plays [/EN#264818/other a racing video game] .

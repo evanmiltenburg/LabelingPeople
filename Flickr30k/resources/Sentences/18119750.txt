@@ -1,0 +1,5 @@
+[/EN#21216/people A lady] wearing [/EN#21219/clothing a green sweatshirt] and [/EN#21221/clothing jeans] sits on [/EN#0/notvisual the ground] and hits [/EN#21217/other a tennis ball] with [/EN#21220/other a tennis racket] .
+[/EN#21216/people A woman] in [/EN#21219/clothing a green sweater] is sitting down with [/EN#21220/other a tennis racket] about to hit [/EN#21217/other a tennis ball] .
+[/EN#21216/people A woman] sitting on [/EN#21218/scene a grassy hill] hitting [/EN#21217/other a tennis ball] with [/EN#21220/other a racket] .
+[/EN#21216/people A woman] is playing [/EN#21222/other tennis] while sitting down in [/EN#21218/scene the grass] .
+[/EN#21216/people A woman] sitting in [/EN#21218/scene the grass] hits [/EN#21217/other a ball] with [/EN#21220/other a racquet] .

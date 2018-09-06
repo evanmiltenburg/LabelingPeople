@@ -1,0 +1,5 @@
+[/EN#45884/people A woman] in [/EN#45886/clothing a jacket] is standing next to [/EN#45885/scene a fence] playing [/EN#45890/clothing horse shoes] .
+[/EN#45884/people A Yong lady] in [/EN#45886/clothing a gray hoodie] is by [/EN#45885/scene a brown fence] on [/EN#45888/scene a snowy day] .
+[/EN#45884/people Woman] standing outside holding [/EN#45887/other a horseshoe] in [/EN#45892/bodyparts each hand] .
+[/EN#45884/people A blond woman] playing [/EN#45889/other horseshoes] in [/EN#45891/scene the snow] .
+[/EN#45884/people A woman] outside throws [/EN#45887/other a horseshoe] .

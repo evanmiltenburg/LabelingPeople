@@ -1,0 +1,5 @@
+[/EN#179288/people A person] clad in [/EN#179290/clothing black attire] stands in front of [/EN#179287/scene a store] where [/EN#179293/other produce] is displayed by [/EN#179296/scene the sidewalk] and [/EN#179297/other the signage] is displayed in [/EN#179298/other both English] and [/EN#179295/other an Arabic language] .
+[/EN#179288/people A woman] with [/EN#179289/clothing a shawl] on [/EN#179300/bodyparts her head] is standing in front of [/EN#179287/scene a supermarket] observing [/EN#179293/other the items] out [/EN#179292/scene front] .
+[/EN#179288/people A woman] with [/EN#179294/clothing a headscarf] and [/EN#179289/clothing a shawl] stands in front of [/EN#179287/scene a shop] selling [/EN#179293/other produce] and [/EN#179299/other meat] .
+[/EN#179287/scene A foreign market] with [/EN#179288/people a woman] in [/EN#179292/scene front] .
+[/EN#179288/people A woman] is standing outside [/EN#179287/scene a store] .

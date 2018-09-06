@@ -1,0 +1,5 @@
+[/EN#176339/people A woman] wearing [/EN#176343/clothing a light colored jacket] walks down [/EN#176338/scene a street] at [/EN#176341/scene night] next to [/EN#176340/vehicles parked cars] .
+[/EN#176338/scene A dark city street] containing [/EN#176339/people one woman] walking and [/EN#176340/vehicles many parked cars] .
+[/EN#176339/people A person] is walking around at [/EN#176344/other nighttime] in [/EN#176338/scene an isolated area] .
+[/EN#176339/people A woman] walks down [/EN#176338/scene a city street] at [/EN#176341/scene night] .
+[/EN#176339/people A woman] walking around [/EN#176342/scene the city] at [/EN#176341/scene night] .

@@ -1,0 +1,5 @@
+[/EN#127114/people Two men] in [/EN#127116/clothing camouflage pants] are running past [/EN#127115/scene a parking lot] .
+[/EN#127114/people Two men] run through [/EN#127115/scene a parking lot] wearing [/EN#127116/clothing camouflage pants] .
+[/EN#127114/people Two men] wearing [/EN#127116/clothing army pants] are running next to [/EN#127117/scene a fence] .
+[/EN#127114/people Two soldiers] are running down [/EN#127115/scene a track] .
+[/EN#127114/people Two men] in [/EN#127116/clothing camouflage pants] are running past [/EN#127115/scene a parking lot] .

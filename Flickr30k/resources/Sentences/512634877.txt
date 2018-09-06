@@ -1,0 +1,5 @@
+[/EN#229492/animals A dog] wearing [/EN#229493/clothing a harness] is playing with [/EN#229494/other red ball] in [/EN#229495/scene a grassy area] .
+[/EN#229492/animals A brown dog] with [/EN#229493/clothing a harness] is chasing after [/EN#229494/other a red ball] .
+[/EN#229492/animals A brown dog] in [/EN#229493/clothing a red harness] chasing [/EN#229494/other a red ball] .
+[/EN#229492/animals A dog] in [/EN#229493/clothing a harness] chasing [/EN#229494/other a red ball] .
+[/EN#229492/animals A pitbull dog] chasing [/EN#229494/other a red ball] .

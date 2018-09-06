@@ -1,0 +1,5 @@
+[/EN#202936/people An upset girl] sits on [/EN#202938/other a log] , [/EN#202940/bodyparts head] in [/EN#202941/bodyparts hands] , in front of [/EN#202935/vehicles a bicycle] lodged in [/EN#202937/other a tree] .
+[/EN#202936/people A girl] is sitting on [/EN#0/notvisual the ground] next to [/EN#202939/other a tree] and [/EN#0/notvisual there] is [/EN#202935/vehicles a bicycle] in [/EN#202937/other the tree] .
+[/EN#202936/people A woman] is posing artistically in front of [/EN#202935/vehicles a bicycle] lodged in [/EN#202937/other a tree] .
+[/EN#202936/people Girl] rest on [/EN#202942/scene a tree root] and [/EN#202935/vehicles a bike] is stuck in [/EN#202937/other a tree] .
+[/EN#202935/vehicles A bike] wrapped up in [/EN#202937/other a tree] .

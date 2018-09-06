@@ -1,0 +1,5 @@
+[/EN#56911/people The back of two women] looking down [/EN#56916/scene a street] [/EN#0/notvisual that] has [/EN#56917/scene a pizzeria] , [/EN#56912/scene a restaurant] , [/EN#56913/people several people] , [/EN#56921/vehicles a black car] , and [/EN#56914/vehicles two red cars] .
+[/EN#56913/people People] walking through [/EN#56918/scene an intersection of a city] consisting of [/EN#56912/other a grill] and [/EN#56912/scene pizzeria] .
+[/EN#56913/people People] walking outside into [/EN#56916/scene a street] .
+[/EN#56911/people Two women] crossing [/EN#56918/scene an intersection] .
+[/EN#56911/people Two women] crossing [/EN#56916/scene road] in [/EN#56919/other Paris] .

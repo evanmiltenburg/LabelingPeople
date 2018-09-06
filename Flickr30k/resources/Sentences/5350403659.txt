@@ -1,0 +1,5 @@
+[/EN#234270/people A man] in [/EN#234271/clothing a long gray gown] and [/EN#234277/clothing hat] is standing with [/EN#234279/bodyparts his hand] on [/EN#234272/animals a mule] [/EN#0/notvisual that] is wearing [/EN#234280/other blankets] and [/EN#234281/other decorations] on [/EN#234273/scene a stone street] outside of [/EN#234274/scene a building] , with [/EN#234275/people a number of other people] in [/EN#0/notvisual the background] .
+[/EN#234270/people Man] clothed in [/EN#234271/clothing a traditional dress] like [/EN#234276/clothing attire] , while standing next to [/EN#234272/animals his mule] [/EN#0/notvisual who] also seems to be clothed as well .
+[/EN#234270/people A man] and [/EN#234272/scene his donkey stand] along [/EN#234273/scene a sidewalk] .
+[/EN#234270/people A man] in [/EN#234273/scene an alley] with [/EN#234272/animals his mule] .
+[/EN#234270/people Older man] stands by [/EN#234272/animals his donkey] .

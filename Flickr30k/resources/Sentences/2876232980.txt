@@ -1,0 +1,5 @@
+[/EN#78299/people A child] wearing [/EN#78301/clothing a red top] is standing behind [/EN#78300/people a blond headed child] sitting in [/EN#78302/vehicles a wheelbarrow] .
+[/EN#78299/people a child] is pushing [/EN#78300/people another kid] in [/EN#78306/other a wheeler] dressed in [/EN#78301/clothing a red top] and wearing [/EN#78303/clothing a cap] .
+[/EN#78299/people A blond child] is pulling [/EN#78302/vehicles a wagon] with [/EN#78300/people a little blond boy] in [/EN#0/notvisual it] .
+[/EN#78299/people A child] in [/EN#78301/clothing a red shirt] pushes [/EN#78300/people a boy] in [/EN#78306/vehicles a wagon] .
+[/EN#78299/people A small child] pushes [/EN#0/notvisual another] in [/EN#78302/vehicles a wheelbarrow] .

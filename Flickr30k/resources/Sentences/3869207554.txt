@@ -1,0 +1,5 @@
+[/EN#146387/people A woman] with [/EN#146394/bodyparts brown hair] in [/EN#146392/clothing a red shirt] and [/EN#146393/clothing black runner 's shorts] runs down [/EN#146388/scene a paved trail] going through [/EN#146389/scene a forested area] .
+[/EN#146387/people A woman] in [/EN#146392/clothing a red shirt] and [/EN#146393/clothing black shorts] jogs down [/EN#146388/scene a narrow road] .
+[/EN#146387/people A girl] in [/EN#146392/clothing a red shirt] is jogging down [/EN#146388/other a long stretch of asphalt] .
+[/EN#146388/scene A view of a straight road] with [/EN#146387/people a woman] jogging along [/EN#0/notvisual the side] .
+[/EN#146387/people Woman] in [/EN#146392/clothing red shirt] , [/EN#146393/clothing black shorts] and [/EN#146395/bodyparts ponytail] jogging .

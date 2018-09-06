@@ -1,0 +1,5 @@
+[/EN#219939/people A guy] outside of [/EN#219940/scene a gas station] wearing [/EN#219944/clothing no shirt] and behind [/EN#219941/vehicles a red truck] .
+[/EN#219939/people A man] without [/EN#219942/clothing a shirt] on walking behind [/EN#219941/vehicles a maroon Ford truck] .
+[/EN#219945/other A typical gas station image] on [/EN#219943/scene a sunny day] .
+[/EN#219939/people A shirtless man] behind [/EN#219941/vehicles a red pick up truck] .
+[/EN#219939/people A shirtless man] is at [/EN#219940/scene a gas station] .

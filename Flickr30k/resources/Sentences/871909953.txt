@@ -1,0 +1,5 @@
+[/EN#282598/people A man] in [/EN#282602/clothing a white shirt] is sitting in front of [/EN#282599/other a large amount of computer equipment] .
+[/EN#282598/people A man] in [/EN#282602/clothing a white long-sleeve shirt] sits at [/EN#282599/other a sound board] in [/EN#282601/scene a studio] .
+[/EN#282598/people A guy] in [/EN#282604/scene a white sweater site] in front of [/EN#282599/other computer equipment] .
+[/EN#282598/people A man] is operating [/EN#282600/scene a recording booth] at [/EN#282601/scene a studio] .
+[/EN#282603/people Two men] and [/EN#282605/people a woman] are in [/EN#282600/scene a recording studio] .

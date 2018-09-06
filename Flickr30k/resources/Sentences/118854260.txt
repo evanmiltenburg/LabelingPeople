@@ -1,0 +1,5 @@
+[/EN#4840/people A blond woman] wearing [/EN#4844/clothing glasses] and [/EN#4841/clothing a gray sweatshirt] is cutting [/EN#4843/other something] with [/EN#4842/other scissors] .
+[/EN#4840/people A woman] wearing [/EN#4844/clothing glasses] is trimming [/EN#4843/other her nails] with [/EN#4842/other a pair of scissors] .
+[/EN#4840/people A woman] with [/EN#4846/bodyparts dirty blond-hair] and [/EN#4844/clothing glasses] is cutting [/EN#4843/other something] .
+[/EN#4840/people A blond woman] in [/EN#4841/clothing a gray sweatshirt] is cutting with [/EN#4842/other scissors] .
+[/EN#4840/people A woman] cutting [/EN#4843/other construction paper] for [/EN#4845/other a detailed project] .

@@ -1,0 +1,5 @@
+[/EN#267995/people A woman] is writing while sitting on [/EN#267996/other cloth] in [/EN#267997/scene a field] near [/EN#267999/scene a windmill] .
+[/EN#267995/people Female] sitting on [/EN#267996/other a colorful blanket] in [/EN#267998/scene the grass] , near [/EN#267999/scene a windmill] .
+[/EN#267995/people A female artist] sits on [/EN#267996/other a blanket] and [/EN#268001/other paints] in front of [/EN#267999/scene a windmill] .
+[/EN#267995/people A girl] is writing on [/EN#268000/other her journal] on [/EN#267996/other a picnic cloth] .
+[/EN#267995/people A woman] reads by [/EN#267999/scene a windmill] .

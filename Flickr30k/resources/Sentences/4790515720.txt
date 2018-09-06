@@ -1,0 +1,5 @@
+[/EN#203084/people Man] in [/EN#203087/clothing black] walking in front of [/EN#203085/scene a hotel] with [/EN#203090/other road construction] in front of [/EN#0/notvisual it] .
+[/EN#203084/people A man] is walking in front of [/EN#203085/scene a pink hotel] holding [/EN#203088/clothing a yellow bag] .
+[/EN#203084/people A man] in [/EN#203087/clothing all black] is walking past [/EN#203085/scene a pink hotel] .
+[/EN#203086/other Road cones] are set up in front of [/EN#203085/scene a red hotel] .
+[/EN#203084/people A man] walking past [/EN#203085/scene a reddish hotel building] .

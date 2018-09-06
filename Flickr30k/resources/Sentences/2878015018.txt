@@ -1,0 +1,5 @@
+[/EN#78483/people A man] wearing [/EN#78489/clothing blue jeans] , [/EN#78488/clothing a blue shirt] , and [/EN#78485/clothing a cowboy hat] rides [/EN#78484/animals a brown horse] on [/EN#78490/scene a field] in front of [/EN#78487/people spectators] .
+[/EN#78483/people A man] is riding [/EN#78484/animals a horse] in [/EN#78486/other a western rodeo competition] .
+[/EN#78483/people A man] in [/EN#78485/clothing a cowboy hat] is riding [/EN#78484/animals a horse] at [/EN#78486/other a show] .
+[/EN#78483/people A man] is riding [/EN#78484/animals a horse] as [/EN#78487/people people] watch .
+[/EN#78483/people A man] riding [/EN#78484/animals a horse] at [/EN#78486/other a rodeo] .

@@ -1,0 +1,5 @@
+[/EN#184492/people A man] in [/EN#184494/clothing a t-shirt] and [/EN#184495/clothing shorts] is sitting on [/EN#0/notvisual the ground] holding [/EN#184493/other a cup] while [/EN#184498/other a bottle of water lays] beside [/EN#0/notvisual him] .
+[/EN#184492/people The man] in [/EN#184494/clothing the gray shirt] is staring at [/EN#184500/people a man] and [/EN#184503/people a woman] [/EN#0/notvisual that] are walking away from [/EN#0/notvisual him] .
+[/EN#184492/people A homeless middle-aged man] holding [/EN#184493/other a soda cup] looks at [/EN#184496/people two people] [/EN#0/notvisual who] have walked past .
+[/EN#184492/people A man] in [/EN#184494/clothing a gray shirt] and [/EN#184495/clothing shorts] sits in [/EN#184502/scene a walkway] as [/EN#184496/people two individuals] pass [/EN#0/notvisual him] by .
+[/EN#184492/people A man] takes [/EN#184499/scene a break] after having [/EN#184501/other a meal] at [/EN#184497/other McDonald] 's .

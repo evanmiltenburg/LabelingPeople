@@ -1,0 +1,5 @@
+[/EN#46028/people A man] wearing [/EN#46029/clothing a gray shirt] is talking and [/EN#46030/people a woman] wearing [/EN#46031/clothing a red tank top] and [/EN#46032/people a man] wearing [/EN#46033/clothing a green shirt] is listening to [/EN#0/notvisual him] .
+[/EN#46030/people A redheaded woman] is sitting in front of [/EN#46034/scene a chain link fence] and has [/EN#46032/people two men] on [/EN#0/notvisual either side of her] .
+[/EN#46028/people A guy] is talking while holding [/EN#46035/other a bottle] and [/EN#46030/people the two people] near [/EN#0/notvisual him] are listening .
+[/EN#46028/people People] are sitting down and talking in [/EN#46036/other the shade] .
+[/EN#46028/people People] talking outside drinking [/EN#46037/other beer] .

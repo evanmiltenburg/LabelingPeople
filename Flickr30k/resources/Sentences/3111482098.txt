@@ -1,0 +1,5 @@
+[/EN#94379/people A person] on [/EN#94378/vehicles a large wheeled vehicle] drives through [/EN#94380/scene an orange desert landscape] .
+[/EN#94379/people Distant person] riding [/EN#94378/vehicles off-road vehicle] across [/EN#94380/other sand dunes] marked with [/EN#94383/other treads] .
+[/EN#94379/people A person] on [/EN#94378/vehicles an ATV] in [/EN#94380/other dunes] with [/EN#94382/scene a purple sky] .
+[/EN#94378/vehicles An ATV] rides over [/EN#94380/scene a vast sandy landscape] .
+[/EN#94379/people A person] rides [/EN#94378/vehicles an ATV] through [/EN#94380/scene the desert] .

@@ -1,0 +1,5 @@
+[/EN#208998/people A man] bicycles through [/EN#209003/scene a narrow road] toward [/EN#209006/other a square] bordered by [/EN#209001/scene a castle] with [/EN#209000/scene a block tower] .
+[/EN#208998/people A man] on [/EN#209008/vehicles a bicycle] is riding down [/EN#209002/scene a city street] towards [/EN#209000/scene a tower] with [/EN#209005/other a clock] on [/EN#0/notvisual it] .
+[/EN#209004/people People] are out and about on [/EN#209002/scene a road] in [/EN#208999/scene a European looking town] .
+[/EN#209000/scene A tall clock tower] protrudes over [/EN#209003/scene a narrow alley street] .
+[/EN#208999/scene A picture of a brick building] .

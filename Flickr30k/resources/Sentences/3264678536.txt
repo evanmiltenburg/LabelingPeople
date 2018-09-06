@@ -1,0 +1,5 @@
+[/EN#105548/animals A small black and brown dog] on [/EN#105550/clothing a leash] is jumping on [/EN#105548/animals a bigger tri-colored dog] on [/EN#105550/clothing a leash] .
+[/EN#105549/animals A dog] is nipping at [/EN#105553/animals the ear of another dog] on [/EN#105550/clothing a leash] , in [/EN#105554/scene a park] .
+[/EN#105548/animals A small dog] jumps up to play with [/EN#105548/animals a larger dog] .
+[/EN#105548/animals A dog] holds [/EN#105549/animals a smaller animal] in [/EN#105552/bodyparts its mouth] .
+[/EN#105548/animals A large dog] holding [/EN#105549/animals a smaller dog] .

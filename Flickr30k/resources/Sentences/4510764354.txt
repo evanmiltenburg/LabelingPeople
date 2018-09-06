@@ -1,0 +1,5 @@
+[/EN#174264/people A young man] in [/EN#174266/clothing a blue shirt] reads off of [/EN#174267/scene a stand] in [/EN#174265/scene a highly ornate church] .
+[/EN#174264/people A man] in [/EN#174266/clothing a blue shirt] reading [/EN#174268/other the Holy Bible] in [/EN#174265/scene a Catholic church] .
+[/EN#174264/people A young man] in [/EN#174266/clothing a blue shirt] standing at [/EN#174267/scene a podium] .
+[/EN#174264/people Catholic boy] standing at [/EN#174267/scene a podium] .
+[/EN#174264/people A man] is singing in [/EN#174265/scene church] .

@@ -1,0 +1,5 @@
+[/EN#113051/animals A small brown dog] is running over [/EN#113052/scene grass] littered with [/EN#113055/other dry leaves] .
+[/EN#113051/animals A puppy] runs in [/EN#113052/scene a grassy field] , [/EN#113054/scene a dirt road] in [/EN#0/notvisual the background] .
+[/EN#113051/animals A little brown dog] is running on [/EN#113052/scene the grass] .
+[/EN#113051/animals A little brown dog] runs through [/EN#113052/scene the grass] .
+[/EN#113051/animals A little brown dog] is running in [/EN#113052/scene a field] .

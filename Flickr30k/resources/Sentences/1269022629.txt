@@ -1,0 +1,5 @@
+[/EN#6786/people A skinny guy] with [/EN#6794/bodyparts long curly hair] and [/EN#6791/clothing glasses] is wearing [/EN#6788/clothing white gloves] as [/EN#0/notvisual he] injects [/EN#6793/other something] in [/EN#6789/other a bottle]
+[/EN#6786/people A man] wearing [/EN#6788/clothing white gloves] is working in [/EN#6787/animals/scene a lab] .
+[/EN#6786/people A male] working in [/EN#6787/animals/scene a lab] with [/EN#6790/clothing a hat] on .
+[/EN#6786/people A man] with [/EN#6792/other gloves works] in [/EN#6787/animals/scene a lab] .
+[/EN#6786/people A guy] is working in [/EN#6787/animals/scene a lab] .

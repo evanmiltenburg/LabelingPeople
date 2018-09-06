@@ -1,0 +1,5 @@
+[/EN#72665/people Man] in [/EN#72668/clothing brown jacket] extends [/EN#72672/bodyparts his hand] for [/EN#72671/scene water] outside [/EN#72667/scene a blue building] .
+[/EN#72665/people A man] in [/EN#72668/clothing a brown coat] is leaving [/EN#72667/scene a blue shop] with [/EN#72670/other a painting]
+[/EN#72665/people A dark-skinned man] tending to [/EN#72669/scene the merchandise of his shop] .
+[/EN#72666/people A hooded man] working in [/EN#72667/scene a kiosk] displays [/EN#72669/other his wares] .
+[/EN#72666/people A man] in [/EN#72668/clothing a brown jacket] stands in [/EN#72667/scene a small shop] .

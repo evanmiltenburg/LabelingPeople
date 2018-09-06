@@ -1,0 +1,5 @@
+[/EN#222702/people A person] in [/EN#222706/clothing a red shirt] bicycles down [/EN#222705/scene a city street] , over [/EN#222704/scene a bridge] .
+[/EN#222702/people A black female bike rider] is crossing [/EN#222704/scene a bridge] using [/EN#222705/other the bike lane] .
+[/EN#222702/people A young boy] rides [/EN#222703/vehicles his bike] along [/EN#222704/scene a bridge] within [/EN#222707/scene a city] .
+[/EN#222702/people A teenager] in [/EN#222706/clothing a red shirt] is riding [/EN#222703/vehicles a bicycle] .
+[/EN#222702/people A person] is riding [/EN#222703/vehicles a bicycle] down [/EN#222705/scene the street] .

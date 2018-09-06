@@ -1,0 +1,5 @@
+[/EN#11774/people A woman] in [/EN#11779/clothing a white long-sleeve shirt] is leaning against [/EN#11774/people a sleeping man] in [/EN#11780/clothing a green plaid shirt] to attempt to sleep while sitting in [/EN#11777/vehicles/scene a bus] .
+[/EN#11774/people A man] sleeping on [/EN#11774/people someone] on [/EN#0/notvisual what] appears to be [/EN#11777/vehicles/scene a bus] .
+[/EN#11778/people Three people] are sleeping in [/EN#11781/vehicles a mass-transit vehicle] .
+[/EN#11774/people A young couple] sleep together on [/EN#11777/vehicles/scene a train] .
+[/EN#11774/people A couple] is sleeping on [/EN#11777/vehicles/scene a bus] .

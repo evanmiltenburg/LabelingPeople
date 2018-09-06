@@ -1,0 +1,5 @@
+[/EN#154314/people A man] in [/EN#154320/clothing a jacket] and [/EN#154321/clothing jeans] and [/EN#154318/people a woman] in [/EN#154322/clothing a green coat] are reading [/EN#154319/other books] on [/EN#154317/other a bench] with [/EN#154316/other a baby stroller] parked next to [/EN#0/notvisual it] .
+[/EN#154315/people Two people] sitting in front of [/EN#154323/scene an older building] on [/EN#154317/other a bench] .
+[/EN#154314/people A man] and [/EN#154318/people a woman] are sitting on [/EN#154317/other a bench] reading [/EN#154319/other books] .
+[/EN#154315/people Two people] sitting on [/EN#154317/other a black bench] reading [/EN#154319/other books] .
+[/EN#154315/people Two people] and [/EN#154316/other a stroller] sitting on [/EN#154317/other a bench] .

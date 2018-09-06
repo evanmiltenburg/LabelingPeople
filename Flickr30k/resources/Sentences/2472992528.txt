@@ -1,0 +1,5 @@
+[/EN#52055/people A boy] wearing [/EN#52059/clothing jeans] [/EN#52058/clothing a white shirt] and [/EN#52060/clothing red shoes] is on [/EN#52056/other a climbing wall] .
+[/EN#52055/people A boy] in [/EN#52059/clothing jeans] , [/EN#52057/clothing a helmet] , and [/EN#52060/clothing red shoes] goes rock climbing [/EN#52061/other indoors] .
+[/EN#52055/people A young boy] in [/EN#52062/other red Crocs] and [/EN#52057/clothing a helmet] hangs from [/EN#52056/other a climbing wall] .
+[/EN#52055/people A little boy] in [/EN#52058/clothing a white shirt] is rock climbing .
+[/EN#52055/people A child] scales [/EN#52056/other a climbing wall] .

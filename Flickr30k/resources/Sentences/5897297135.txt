@@ -1,0 +1,5 @@
+[/EN#244800/people A man] in [/EN#244801/clothing a bright pastel blue overcoat] plays [/EN#244803/instruments a unique instrument] by [/EN#244806/scene the corner of a building] with [/EN#244809/other a sign] propped against [/EN#244807/clothing a bag] in front of [/EN#0/notvisual him] .
+[/EN#244800/people A man] with [/EN#244808/bodyparts a crazy hairdo] and [/EN#244802/bodyparts a long braided mustache] sits on [/EN#244804/scene the sidewalk] outside playing [/EN#244803/instruments a stringed instrument] .
+[/EN#244800/people A man] wearing [/EN#244801/clothing a light blue robe-style jacket] is sitting on [/EN#244805/scene a street corner] playing [/EN#244803/instruments a musical instrument] .
+[/EN#244800/people A man] with [/EN#244802/bodyparts a mustache] and [/EN#244801/other blue garment] sitting on [/EN#244804/scene a sidewalk] and playing [/EN#244803/instruments a stringed instrument] .
+[/EN#244800/people A man] plays [/EN#244803/instruments a strange stringed instrument] on [/EN#244805/scene a street corner] .

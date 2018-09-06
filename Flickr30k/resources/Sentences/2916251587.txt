@@ -1,0 +1,5 @@
+[/EN#81211/people A man] in [/EN#81216/other the background of the image] across [/EN#81212/scene a beach] and [/EN#81220/animals a turtle] is present at [/EN#81217/scene the fore front] and also on [/EN#81213/other the sand] .
+[/EN#81211/people A man] hunts for [/EN#81219/other treasure] on [/EN#81212/scene the beach] using [/EN#81215/other his metal detector] .
+[/EN#81211/people A man] with [/EN#81221/clothing a hat] on walking in [/EN#81213/other the sand] .
+[/EN#81211/people A man] walking on [/EN#81212/scene a beach] [/EN#0/notvisual that] has [/EN#81218/other trash] .
+[/EN#81211/people A person] is going for [/EN#81214/other a walk] .

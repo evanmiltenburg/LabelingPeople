@@ -1,0 +1,5 @@
+[/EN#227437/animals A brown dog] is splashing [/EN#227439/scene water] everywhere by shaking [/EN#227443/scene the water] off of [/EN#227437/other itself] .
+[/EN#227437/animals A white dog] is standing by [/EN#227440/scene a river] shaking [/EN#0/notvisual himself] dry .
+[/EN#227437/animals A big dog] shakes [/EN#227437/other itself] dry while standing in [/EN#227438/scene a creek] .
+[/EN#227437/animals A blond dog] shakes [/EN#227443/scene water] off next to [/EN#227440/scene a lake] .
+[/EN#227437/animals A tan dog] is shaking [/EN#227438/scene water] off [/EN#227441/other its fur] .

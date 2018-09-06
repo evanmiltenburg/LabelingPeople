@@ -1,0 +1,5 @@
+[/EN#5989/people A blond woman] waring [/EN#5992/clothing a straw hat] , [/EN#5996/clothing black halter top] , [/EN#5997/clothing gray shorts] and [/EN#5995/clothing black flip-flops] sitting on [/EN#0/notvisual the ground] drawing on [/EN#5991/scene the sidewalk] .
+[/EN#5989/people An artist] consults [/EN#5990/other the plan] for [/EN#5994/other her section of an elaborate chalk] drawing on [/EN#5991/scene a sidewalk] .
+[/EN#5989/people A woman] is sitting on [/EN#5991/scene the sidewalk] , sketching [/EN#5990/other an image] with [/EN#5993/other chalk] .
+[/EN#5989/people A woman] in [/EN#5992/clothing a straw hat] draws [/EN#5990/other a design] on [/EN#5994/scene the pavement] with [/EN#5993/other chalk] .
+[/EN#5989/people A female] drawing [/EN#5990/other a picture] on [/EN#0/notvisual the ground] .

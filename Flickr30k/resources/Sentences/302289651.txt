@@ -1,0 +1,5 @@
+[/EN#88128/people A man] in [/EN#88133/clothing sunglasses] is eating and holding [/EN#88129/people a baby] wearing [/EN#88131/clothing a white bucket hat] .
+[/EN#88128/people A man] in [/EN#88133/clothing sunglasses] is eating [/EN#88130/other something] while [/EN#0/notvisual he] has [/EN#88129/people a girl] on [/EN#88132/bodyparts his lap] .
+[/EN#88128/people A man] eating [/EN#88130/other a sandwich] with [/EN#88129/people his baby daughter] in [/EN#88132/bodyparts his lap] .
+[/EN#88128/people A man] eating and holding [/EN#88129/people a baby] with [/EN#88131/clothing a white hat] on .
+[/EN#88128/people Man] eats while holding [/EN#88129/people a baby]

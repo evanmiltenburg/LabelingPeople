@@ -1,0 +1,5 @@
+[/EN#61152/people An over weight man] wearing [/EN#61157/clothing overalls] and [/EN#61155/clothing a helmet] rides down [/EN#61154/scene the sidewalk] on [/EN#61153/vehicles his Segway] .
+[/EN#61158/other A main] in [/EN#61157/clothing overalls] and [/EN#61155/clothing a helmet] riding [/EN#61153/other a two-wheeled machine] .
+[/EN#61152/people A man] in [/EN#61157/clothing denim overalls] rides [/EN#61153/vehicles a Segway] down [/EN#61154/scene a city sidewalk] .
+[/EN#61152/people A large man] in [/EN#61157/clothing overalls] , driving [/EN#61153/vehicles a Segway] .
+[/EN#61152/people A man] on [/EN#61153/other a monocycle] riding on [/EN#61154/scene a sidewalk] .

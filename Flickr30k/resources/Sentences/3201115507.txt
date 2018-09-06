@@ -1,0 +1,5 @@
+[/EN#100469/people A bearded man] in [/EN#100470/clothing a long-sleeve shirt] is singing with [/EN#100471/other a microphone] .
+[/EN#100469/people A man] is holding [/EN#100471/other a microphone] while [/EN#0/notvisual her] performs with [/EN#100473/people his band] .
+[/EN#100469/people A male singer] holding [/EN#100474/scene the mike stand] and singing in [/EN#100471/other the mic] .
+[/EN#100469/people Lead singer] stands in front of [/EN#100473/people his band] while performing .
+[/EN#100469/people Man] singing into [/EN#100475/other microphone] while [/EN#100473/people band] plays .

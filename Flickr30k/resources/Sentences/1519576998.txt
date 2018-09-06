@@ -1,0 +1,5 @@
+[/EN#15544/people The little boy] is holding [/EN#15546/other a cookie] while sitting on [/EN#15547/other a log] and pointing upward .
+[/EN#15544/people A young boy] in [/EN#15549/clothing a red shirt] points at [/EN#15551/other something] .
+[/EN#15544/people A young boy] in [/EN#15545/clothing a blue hat] is pointing .
+[/EN#15544/people A toddler boy] being [/EN#15550/other cute] and pointing .
+[/EN#15544/people A baby] wearing [/EN#15548/other a nice] clothes

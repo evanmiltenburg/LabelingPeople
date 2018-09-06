@@ -1,0 +1,5 @@
+[/EN#156124/people The person] in [/EN#156132/scene front] [/EN#0/notvisual who] is wearing [/EN#156127/clothing a yellow jumpsuit] and [/EN#156134/clothing white hard hat] is carrying [/EN#156135/other a bottle] .
+[/EN#156125/people Two workers] dressed in [/EN#156133/clothing hard hats] and [/EN#156127/clothing yellow jumpsuits] work around [/EN#156126/scene a construction scene] .
+[/EN#156124/people A man] in [/EN#156127/clothing a yellow suit] climbs over [/EN#156130/scene a broken fence] while [/EN#156131/people another man] looks on .
+[/EN#156125/people Two construction workers] in [/EN#156127/clothing yellow jumpsuits] are walking through [/EN#156126/scene a site] .
+[/EN#156125/people Two men] in [/EN#156127/clothing yellow jumpsuits] are working with [/EN#156129/scene a blue crane] .

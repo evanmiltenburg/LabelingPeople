@@ -1,0 +1,5 @@
+[/EN#2461/scene Two buildings] beyond [/EN#2464/other a concrete wall] facing [/EN#2463/scene a walkway] with [/EN#2460/people a woman] talking on [/EN#2462/other a cellphone] .
+[/EN#2460/people A girl] in [/EN#2468/clothing a red winter coat] walks down [/EN#2463/scene the city sidewalk] as [/EN#0/notvisual she] speaks on [/EN#2462/other the phone] .
+[/EN#2461/scene Two modern buildings] made of [/EN#2461/other glass] and [/EN#2464/other stone accent] [/EN#2465/scene the setting] .
+[/EN#2460/people A woman] is walking at [/EN#2466/other dusk] down [/EN#2463/scene an urban street] .
+[/EN#2460/people Someone] walking along [/EN#2464/other a wall] .

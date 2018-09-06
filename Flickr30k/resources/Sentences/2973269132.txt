@@ -1,0 +1,5 @@
+[/EN#84892/animals a lioness] is chasing [/EN#84893/animals a black bison] across [/EN#84895/other a grassy plain] .
+[/EN#84892/animals A large wild cat] is pursuing [/EN#84893/animals a horse] across [/EN#84896/scene a meadow] .
+[/EN#84892/animals The lioness] attacks [/EN#84893/animals a wildebeest] on [/EN#84895/other a plain] .
+[/EN#84892/animals A lioness] chases [/EN#84893/animals a black animal] with [/EN#84894/instruments horns] .
+[/EN#84892/animals A lioness] closes in on [/EN#84893/animals its prey] .

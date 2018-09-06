@@ -1,0 +1,5 @@
+[/EN#175740/people A woman] , wearing [/EN#175741/clothing a gray coat] , [/EN#175746/scene places] clothing into [/EN#175743/other a washing machine] at [/EN#175742/scene a laundromat] .
+[/EN#175740/people A woman] is placing [/EN#175747/clothing the final articles of clothing] from [/EN#175748/vehicles her cart] into [/EN#175743/other a washing machine] .
+[/EN#175740/people Someone] is removing [/EN#175744/scene laundry] from [/EN#175743/other a machine] in [/EN#175745/other a laundry mat] .
+[/EN#175740/people A woman] wearing [/EN#175741/clothing a gray sweater] uses [/EN#175743/other a washing machine] .
+[/EN#175740/people A woman] attends to [/EN#175744/scene her laundry] in [/EN#175742/scene a laundromat] .

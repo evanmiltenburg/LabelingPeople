@@ -1,0 +1,5 @@
+[/EN#93254/people A guy] wearing [/EN#93255/clothing a black hoodie] and [/EN#93256/clothing sunglasses] is speaking into [/EN#93257/other a microphone] , while [/EN#93258/people a guy] in [/EN#93259/clothing a ski mask] plays [/EN#93260/instruments a guitar] in [/EN#0/notvisual the background] .
+[/EN#93254/people A guy] in [/EN#93255/clothing a black hoodie] standing in front of [/EN#93261/other a Factory sign] talks into [/EN#93257/other a microphone] .
+[/EN#93254/people Man] with [/EN#93256/clothing sunglasses] singing with [/EN#93262/people his band] .
+[/EN#93262/people A band] dressed in [/EN#93263/clothing black] performs .
+[/EN#93262/people A band] is performing on [/EN#93264/scene stage] .

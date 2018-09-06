@@ -1,0 +1,5 @@
+[/EN#31847/people A woman] standing in [/EN#31853/other smoke or steam] underneath [/EN#31848/clothing a beach umbrella] in [/EN#31855/scene a neighborhood] holding [/EN#31849/other a food platter] .
+[/EN#31847/people A woman] in [/EN#31851/clothing black] stands by [/EN#31850/other a grill] , with [/EN#31848/clothing a bright green , blue , and yellow umbrella] shading [/EN#0/notvisual her] .
+[/EN#31847/people Woman] in [/EN#31851/clothing a black top] carrying [/EN#31849/other something] to drink and [/EN#31849/other a green plastic basket] past [/EN#31850/other a grill] .
+[/EN#31847/people A woman] stands behind [/EN#31850/other an outdoor grill] with [/EN#31849/other a blue basket of food] in [/EN#31856/bodyparts her hands] .
+[/EN#31847/people A person] is holding [/EN#31849/other a green basket of food] near [/EN#31848/clothing a yellow and blue umbrella] .

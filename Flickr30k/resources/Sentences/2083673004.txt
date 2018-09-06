@@ -1,0 +1,5 @@
+[/EN#27595/people A woman] in [/EN#27600/clothing an orange shirt] is leaning into [/EN#27597/scene a doorway] , smiling and smoking [/EN#27596/other a cigarette] .
+[/EN#27595/people A blond-hair woman] with [/EN#27600/clothing an orange shirt] is standing outside smoking [/EN#27596/other a cigarette] .
+[/EN#27595/people A blond woman] is leaning against [/EN#27599/other the outside of a door] smoking [/EN#27596/other a cigarette] .
+[/EN#27595/people A female] standing in [/EN#27597/scene a doorway] , smoking [/EN#27596/other a cigarette] .
+[/EN#27595/people A woman] in [/EN#27600/clothing an orange shirt] smoking [/EN#27598/scene outside] .

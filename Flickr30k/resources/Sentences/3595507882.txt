@@ -1,0 +1,5 @@
+[/EN#130280/people A woman] in [/EN#130292/clothing a black t-shirt] is showing [/EN#130282/people a man] in [/EN#130293/clothing a striped shirt] [/EN#130291/other something] at [/EN#130283/other an exhibit] .
+[/EN#130287/people Large group of people] at [/EN#130284/other convention of some sort] perusing [/EN#130285/other merchandise] .
+[/EN#130288/people Two young adults] are looking at [/EN#130281/other a computer screen] in [/EN#130294/scene a large room] .
+[/EN#130280/people Woman] describing [/EN#130290/other software] to [/EN#130282/people a customer] at [/EN#130285/people a convention] .
+[/EN#130280/people A woman] and [/EN#130282/people man] look at [/EN#130281/other a computer screen] at [/EN#130286/other an expo] .

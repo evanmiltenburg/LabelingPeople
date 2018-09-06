@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] are [/EN#31805/people two people] , [/EN#31807/people a man] and [/EN#31804/people a woman] , sitting on [/EN#31806/vehicles/scene a bus] .
+[/EN#31804/people A lady] is looking into [/EN#0/notvisual the camera] as [/EN#0/notvisual she] and [/EN#31807/people a young man] .
+[/EN#31804/people A woman] is on [/EN#31806/vehicles/scene a public bus] riding through [/EN#31808/scene a town] .
+[/EN#31805/people 2 people] sitting on [/EN#31806/vehicles/scene a bus] looking at [/EN#0/notvisual the camera] .
+[/EN#31805/people Two people] are sitting on [/EN#31806/vehicles/scene a bus] .

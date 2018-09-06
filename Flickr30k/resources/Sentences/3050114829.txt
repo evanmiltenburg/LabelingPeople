@@ -1,0 +1,5 @@
+[/EN#90148/people a lone surfer] surfing [/EN#90149/scene a large collapsing wave] in [/EN#90149/scene the ocean] .
+[/EN#90148/people A person] surfing through [/EN#90149/scene a crashing wave] in [/EN#90149/scene the ocean] .
+[/EN#90148/people A person] is surfing under [/EN#90149/scene a large wave] .
+[/EN#90149/scene Water] splashing up against [/EN#90150/other something] .
+[/EN#90148/people A surfer] riding under [/EN#90149/scene a wave] .

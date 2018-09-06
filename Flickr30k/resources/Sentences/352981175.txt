@@ -1,0 +1,5 @@
+[/EN#125206/people One mountaineer] is kneeling on [/EN#0/notvisual the ground] next to [/EN#125206/people another mountaineer] [/EN#0/notvisual who] is standing .
+[/EN#125206/people a skier] helping [/EN#125205/people a fellow skier] get up from [/EN#125209/scene the snow]
+[/EN#125208/people two hikers] in [/EN#125209/scene the snow] adjusting [/EN#125211/other rope equipment]
+[/EN#125205/people One climber] helps [/EN#0/notvisual another] in [/EN#125209/scene the snow] .
+[/EN#125208/people Two people] are hiking in [/EN#125209/scene the snow] .

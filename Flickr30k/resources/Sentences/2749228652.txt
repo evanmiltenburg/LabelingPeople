@@ -1,0 +1,5 @@
+[/EN#70282/people A man] is holding [/EN#70285/other a microphone] and [/EN#70282/people another man] is playing [/EN#70283/instruments a guitar] and jumping on [/EN#70284/scene a stage] .
+[/EN#70282/people A man] wearing [/EN#70288/clothing a pink shirt] and [/EN#70289/clothing white pants] in [/EN#0/notvisual mid jump] playing [/EN#70283/instruments a guitar] .
+[/EN#70281/people A band] is rocking out on [/EN#70284/scene stage] , looking completely focused .
+[/EN#70282/people A man] is playing [/EN#70283/instruments his guitar] while jumping up in down .
+[/EN#70280/people Two men] and [/EN#70281/people their band] are performing live on [/EN#70284/scene stage] .

@@ -1,0 +1,5 @@
+[/EN#101723/scene A long view of a curving railroad track] with [/EN#101724/people a group of people] off in [/EN#0/notvisual the distance] .
+[/EN#101724/people People] are walking away from [/EN#0/notvisual the camera] , along [/EN#101723/scene railroad tracks] .
+[/EN#101724/people A group of people] walking on [/EN#101723/scene the side of a railroad track] .
+Looking along [/EN#101723/scene a railroad track] at [/EN#101724/people people] in [/EN#0/notvisual the distance] .
+[/EN#101724/people People] near [/EN#101723/scene railroad tracks] in [/EN#101725/other the woods] .

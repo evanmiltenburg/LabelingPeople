@@ -1,0 +1,5 @@
+[/EN#18605/people A man] in [/EN#18606/clothing a Las Vegas t-shirt] smiles while [/EN#18608/other meat] is being cooked on [/EN#18607/other a grill] in [/EN#0/notvisual the background] .
+[/EN#18605/people Man] with [/EN#18609/bodyparts goatee] , wearing [/EN#18606/clothing a Las Vegas T-shirt] barbecuing outside at [/EN#18607/other a grill] .
+[/EN#18605/people A smiling man] in [/EN#18606/clothing a white shirt] is grilling on [/EN#18607/other an open grill] .
+[/EN#18605/people Happy man] grilling [/EN#18608/other meat] on [/EN#18607/other his barbecue] .
+[/EN#18605/people A man] is grilling [/EN#18608/other food] on [/EN#18607/other a barbecue] .

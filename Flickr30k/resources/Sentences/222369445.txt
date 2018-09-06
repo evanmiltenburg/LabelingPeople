@@ -1,0 +1,5 @@
+[/EN#35117/people Two surfers] carry [/EN#35118/other their boards] to [/EN#35126/scene the end] of [/EN#35119/scene a walkway] to join [/EN#35127/other the others] in [/EN#35124/scene the water] .
+[/EN#35120/people Man] in [/EN#35121/clothing green swim trunks] carrying [/EN#35122/other a surfboard] along [/EN#35119/other a rock wall] to [/EN#35124/scene the ocean] .
+[/EN#35120/people A man] is carrying [/EN#35122/other a surfboard] along [/EN#35119/other a stone wall] [/EN#0/notvisual that] leads to [/EN#35124/scene the ocean] .
+[/EN#35117/people Surfers] walking along [/EN#35119/scene a seawall] as [/EN#35125/other the ocean churns] around [/EN#0/notvisual them] .
+[/EN#35117/people Two surfers] walk along [/EN#35119/other a rock wall] to reach [/EN#35124/scene the waves] .

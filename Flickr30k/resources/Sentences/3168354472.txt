@@ -1,0 +1,5 @@
+[/EN#97839/people A little girl] in [/EN#97840/clothing a purple plaid dress] lays on [/EN#97842/scene the floor] and cries with [/EN#97843/other her toy] beside [/EN#0/notvisual her] .
+[/EN#97839/people A little girl] in [/EN#97840/clothing a purple plaid dress] is lying on [/EN#97842/scene the floor] crying .
+[/EN#97839/people A young girl] in [/EN#97840/clothing a purple dress] throws [/EN#97841/other a tantrum] .
+[/EN#97839/people A girl] in [/EN#97840/clothing a purple dress] is throwing [/EN#97841/other a tantrum] .
+[/EN#97839/people A girl] in [/EN#97840/clothing a purple dress] crying on [/EN#97842/scene the floor] .

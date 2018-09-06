@@ -1,0 +1,5 @@
+[/EN#47551/people A group of football players] in [/EN#47553/clothing gold helmets] stand around [/EN#47550/people a man] in [/EN#47552/clothing a purple shirt] .
+[/EN#47551/people A group of footballs players] is standing behind [/EN#47550/people a coaching official] .
+[/EN#47550/people A man] in [/EN#47552/clothing blue shirt] is surrounded by [/EN#47551/people football players] .
+[/EN#47550/people A football coach] standing with [/EN#47551/people his players] behind [/EN#0/notvisual him] .
+[/EN#47550/people A man] surrounded by [/EN#47551/people football players] .

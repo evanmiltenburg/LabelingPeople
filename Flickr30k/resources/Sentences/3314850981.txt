@@ -1,0 +1,5 @@
+[/EN#108760/people An obese male] in [/EN#108762/clothing a blue business shirt] and [/EN#108767/clothing dark pants] , walking past [/EN#108761/other a vending machine] in [/EN#108766/scene a strip mall] .
+[/EN#108760/people A heavier man] wearing [/EN#108762/clothing a blue shirt] and [/EN#108767/clothing black pants] walks down [/EN#108765/scene the sidewalk of a shopping center] .
+[/EN#108760/people A man] with [/EN#108762/clothing a blue shirt] and [/EN#108767/clothing black pants] walking outside of [/EN#108764/scene a store] talking on [/EN#108763/other a cellphone] .
+[/EN#108760/people A man] in [/EN#108762/clothing a blue shirt] and [/EN#108767/clothing black pants] walking to [/EN#108764/scene a store] while talking on [/EN#108763/other his phone] .
+[/EN#108760/people A man] in [/EN#108762/clothing a blue shirt] and [/EN#108767/clothing black pants] walks next to [/EN#108761/other a Glacier vending machine] .

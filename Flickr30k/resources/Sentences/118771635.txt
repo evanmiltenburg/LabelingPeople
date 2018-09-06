@@ -1,0 +1,5 @@
+[/EN#4803/people A girl] wearing [/EN#4807/clothing glasses] and [/EN#4806/clothing a brown plaid long-sleeved shirt] holds [/EN#4804/other a cup] and looks through [/EN#4805/other a book] with [/EN#4808/other people photographs] and [/EN#4810/other text] .
+[/EN#4803/people A woman] with [/EN#4811/bodyparts brown hair] and wearing [/EN#4806/clothing a brown shirt] has [/EN#4804/other a drink] while perusing [/EN#4805/other a book] with [/EN#4808/people photographs of people] in [/EN#0/notvisual it] .
+[/EN#4803/people A person] in [/EN#4806/clothing a plaid shirt] reading [/EN#4805/other a book] and having [/EN#4804/other a beverage] .
+[/EN#4803/people A hip person] reading [/EN#4805/other a magazine] while enjoying [/EN#4804/other a beverage] .
+[/EN#4803/people A boy] with [/EN#4807/clothing glasses] and [/EN#4806/clothing plaid shirt] reads [/EN#4805/other a book] .

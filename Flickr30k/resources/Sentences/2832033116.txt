@@ -1,0 +1,5 @@
+[/EN#75462/people A person] wearing [/EN#75463/clothing a blue helmet] is hooking [/EN#75465/other a pulley] onto [/EN#75466/other a thick steel wire] .
+[/EN#75462/people A person] in [/EN#75468/clothing a striped fleece] clips [/EN#75467/other a carabiner] onto [/EN#75464/other a metal line] .
+[/EN#75462/people A young woman] in [/EN#75463/clothing a helmet] attaches [/EN#75465/other a pulley] to [/EN#75464/other a cable] .
+[/EN#75462/people A woman] attaching [/EN#75465/other a carabiner] to [/EN#75466/other a guide wire] .
+[/EN#75462/people A woman] in [/EN#75463/clothing a helmet] hooking up to [/EN#75466/other a wire] .

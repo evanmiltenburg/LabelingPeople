@@ -1,0 +1,5 @@
+[/EN#198889/people A girl] with [/EN#198898/clothing a white shirt] , [/EN#198899/clothing sunglasses] , and [/EN#198891/other a lei] standing behind [/EN#198893/other a table] with [/EN#198886/other items] on top of [/EN#0/notvisual it] , with [/EN#198890/people a few people] in [/EN#198887/scene front] said [/EN#198893/other table] .
+[/EN#198900/people People] standing at [/EN#198893/other a table] with [/EN#198886/other items] on [/EN#0/notvisual it] [/EN#0/notvisual one of which] is holding [/EN#198892/other and item] and looking to [/EN#0/notvisual the side] .
+[/EN#198887/people A bald man] asking [/EN#198897/other questions] about [/EN#198892/other a product] .
+[/EN#198900/people People] are standing around [/EN#198893/scene a table outside] .
+[/EN#198888/other A exhibit] for [/EN#198894/people children parties] .

@@ -1,0 +1,5 @@
+[/EN#196519/people A large group of cyclists] pedal down [/EN#196520/scene a road] lined with [/EN#196525/other trees] .
+[/EN#196521/other Cyclists race] to try and pass [/EN#0/notvisual each other] on [/EN#196520/scene a country road] .
+[/EN#0/notvisual There] are [/EN#196522/people a lot of people] riding [/EN#196526/vehicles bikes] .
+[/EN#196519/people Bicyclers] share [/EN#196520/scene a road] and [/EN#196523/scene destination] .
+[/EN#0/notvisual They] are biking in [/EN#196524/scene the streets] .

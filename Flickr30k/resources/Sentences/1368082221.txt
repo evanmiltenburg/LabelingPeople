@@ -1,0 +1,5 @@
+[/EN#10282/people A man] wearing [/EN#10283/clothing a black sweater] cooks [/EN#10286/other food] in [/EN#10287/other a pan] while standing in [/EN#10284/scene a cluttered kitchen] .
+[/EN#10282/people A man] is cooking on [/EN#10285/other a stove] in [/EN#10284/scene a kitchen] , using [/EN#10288/other wooden utensil] .
+[/EN#10282/people A man] in [/EN#10283/clothing a black hoodie] is preparing [/EN#10286/other food] .
+[/EN#10282/people A man] preparing [/EN#10286/other food] in [/EN#10284/scene his kitchen] .
+[/EN#10282/people A man] cooking [/EN#10286/other food] on [/EN#10285/other the stove] .

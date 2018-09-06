@@ -1,0 +1,5 @@
+[/EN#169349/people A group of people] are standing around [/EN#169350/other a big bonfire] .
+[/EN#169349/people A crowd] is gathering around [/EN#169350/other a large fire] at [/EN#169352/scene night] .
+[/EN#169349/people A group of people] gathered around [/EN#169350/other a bonfire] .
+[/EN#169349/people A crowd] gathers and watches [/EN#169350/other a bonfire] .
+[/EN#169350/other A large bonfire] is burning at [/EN#169351/other dusk] .

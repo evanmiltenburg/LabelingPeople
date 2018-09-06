@@ -1,0 +1,5 @@
+[/EN#55230/people A man] and [/EN#55231/people a young boy] are on [/EN#55235/other a rock] overlooking [/EN#55232/scene a lake] populated with [/EN#55233/animals ducks] .
+[/EN#55230/people A man] and [/EN#55231/people a child] [/EN#0/notvisual both] wearing [/EN#55236/clothing winter hats] are at [/EN#55232/scene the pond] .
+[/EN#55231/people A young boy] and [/EN#55230/people an adult man] looking at [/EN#55233/animals ducks] in [/EN#55232/scene a pond] .
+[/EN#55230/people A father] and [/EN#55231/people son] are feeding [/EN#55233/animals the birds] on [/EN#55234/scene a spring day] .
+[/EN#55230/people A man] and [/EN#55231/people his son] at [/EN#55232/scene the lake] .

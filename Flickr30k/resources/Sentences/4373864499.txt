@@ -1,0 +1,5 @@
+[/EN#165286/people A male snowboarder] in [/EN#165289/clothing an orange sweatshirt] is doing [/EN#0/notvisual a trick] on [/EN#165287/other a table] at [/EN#165288/scene the mountain] .
+[/EN#165286/people A male snowboarder] wearing [/EN#165291/clothing orange and blue] standing atop [/EN#165287/other a blue table] at [/EN#165288/scene a ski resort] .
+[/EN#165286/people A man] in [/EN#165289/clothing an orange jacket] performing [/EN#0/notvisual snowboarding tricks] at [/EN#165288/scene a ski resort] .
+[/EN#165286/people A man] is snowboarding over [/EN#165287/other a snow-covered table] .
+[/EN#165286/people A snowboarder] slides across [/EN#165287/other an icy table] .

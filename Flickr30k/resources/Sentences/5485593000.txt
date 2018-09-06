@@ -1,0 +1,5 @@
+[/EN#237360/people Construction workers] in [/EN#237361/scene a Spanish town] are working on [/EN#237367/scene a business outside] .
+[/EN#237360/people A road crew] in [/EN#237361/scene a South American city] clearing [/EN#237364/other debris] off [/EN#237362/scene the sidewalk] .
+[/EN#237365/people Men] are doing clean up [/EN#237370/other work of a tree] [/EN#0/notvisual that] fell down on [/EN#237362/scene a sidewalk] .
+[/EN#237365/people A man] in [/EN#237371/clothing a white shirt] and [/EN#237372/clothing jeans] sweeps [/EN#237362/scene the sidewalk of a street] .
+[/EN#237360/people Men] are working by [/EN#237362/scene a road] in with [/EN#237363/other limbs] in [/EN#237369/other the roadway] .

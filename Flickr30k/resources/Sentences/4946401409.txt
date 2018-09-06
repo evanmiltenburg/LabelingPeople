@@ -1,0 +1,5 @@
+[/EN#221890/people Pedestrians] on [/EN#221896/scene the sidewalk] on [/EN#221893/scene a block corner] where [/EN#221887/bodyparts a mural of an eye] and [/EN#221891/bodyparts Two raises hands] has [/EN#221902/other the writings] " Stop [/EN#221897/other the Violence] " and " [/EN#221892/other We] ( [/EN#221900/other Heart] ) [/EN#221889/other a Safe NY] " .
+[/EN#221886/people A man] in [/EN#221903/clothing a dark suit] strides in front of [/EN#221894/scene an apartment building] in [/EN#221888/other New York] with [/EN#221887/other a mural] painted on [/EN#0/notvisual it] protesting against [/EN#221897/other violence] .
+[/EN#221894/scene Apartment building] on [/EN#221893/scene a street corner] with [/EN#221887/other graffiti] on [/EN#221894/scene the building] and [/EN#221890/people people] walking on [/EN#221896/scene the sidewalk] in front of [/EN#0/notvisual it] .
+[/EN#221887/other A mural] with [/EN#221887/bodyparts an eye] and [/EN#221891/bodyparts hands] says " [/EN#221904/other stop the violence , we heart a safe N.Y.] "
+[/EN#221886/people A man] is crossing [/EN#221895/other the stop] [/EN#221898/other the violence painting] .

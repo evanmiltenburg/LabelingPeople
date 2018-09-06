@@ -1,0 +1,5 @@
+[/EN#151203/people Two men] stand on [/EN#151204/vehicles the deck of a speedboat] [/EN#0/notvisual which] is labeled on [/EN#0/notvisual the side] with [/EN#151210/other the word] ' [/EN#151208/other Maritimo] . '
+[/EN#151203/people Two men] are aboard [/EN#151204/vehicles/scene a speed boat] sitting calmly in [/EN#151206/scene the water] .
+[/EN#151207/people A speedboat racer] stands on [/EN#151204/vehicles/scene his boat] in [/EN#151206/scene the water] .
+[/EN#151203/people Two men] are standing on [/EN#151204/vehicles/scene the deck of a speed boat] .
+[/EN#151203/people Two men] standing on [/EN#151204/vehicles/scene a sleek racing boat] .

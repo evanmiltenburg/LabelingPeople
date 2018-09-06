@@ -1,0 +1,5 @@
+[/EN#25910/people A businessman] is leaning against [/EN#25911/other a green pillar] in [/EN#25918/scene a subway station] is watching [/EN#25912/vehicles/scene the train] go by .
+[/EN#25910/people A man] standing on [/EN#25913/scene a green post] watching [/EN#25912/vehicles/scene a train] go by .
+[/EN#25910/people A man] in [/EN#25914/clothing a striped shirt] watches [/EN#25919/vehicles a subway car] go by .
+[/EN#25910/people A man] in [/EN#25915/clothing tan pants] is waiting on [/EN#25916/other a subway platform] .
+[/EN#25910/people A man] leans against [/EN#25917/people a green column] in [/EN#25918/vehicles/scene the subway] .

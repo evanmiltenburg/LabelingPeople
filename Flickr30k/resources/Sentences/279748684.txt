@@ -1,0 +1,5 @@
+[/EN#73475/people A group of people] inside [/EN#73483/vehicles some form of public transportation] ( such as [/EN#73484/vehicles/scene a bus] ) , are looking out [/EN#73476/other the windows] on [/EN#0/notvisual the left side] .
+[/EN#73484/vehicles/scene A tour bus] packed with [/EN#73475/people people] as [/EN#0/notvisual they] [/EN#73475/people all] look left , straining [/EN#73477/bodyparts their eyes] at [/EN#73487/people a subject the tour guide] pointed out .
+[/EN#73475/people A group of middle-aged adults] are riding [/EN#73484/vehicles/scene a bus] and [/EN#73475/people all] looking to [/EN#73482/scene their left] out [/EN#73478/other the window] .
+[/EN#73475/people A group of people] are riding on [/EN#73484/vehicles/scene a tour bus] and viewing [/EN#73488/other something] interesting out [/EN#73478/other the window] .
+[/EN#73475/people A bus full of people] , among [/EN#0/notvisual them] [/EN#73479/people a small boy] in [/EN#73480/clothing a blue shirt] and [/EN#73481/clothing a white ball cap] .

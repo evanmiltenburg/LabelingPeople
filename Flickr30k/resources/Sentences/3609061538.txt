@@ -1,0 +1,5 @@
+[/EN#131301/vehicles A crowded vehicle] , filled with [/EN#131302/people tourists] , drives on [/EN#131304/scene a road] through [/EN#131305/scene a wooded area] .
+[/EN#131302/people A group of passengers] relax and enjoy [/EN#131301/other a trolley ride] through [/EN#131306/scene town]
+[/EN#0/notvisual There] are [/EN#131302/people a lot of people] are riding in [/EN#131301/vehicles the car] .
+[/EN#131302/people People] are traveling in [/EN#131301/vehicles/scene a train] .
+[/EN#131302/people Group of people] riding in [/EN#131301/vehicles/scene a bus] .

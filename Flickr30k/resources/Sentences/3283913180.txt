@@ -1,0 +1,5 @@
+[/EN#106851/people Onlookers] watch as [/EN#106850/people a man] on [/EN#106854/other a skateboard] attempts [/EN#0/notvisual a trick] off [/EN#106852/other a table] sitting on [/EN#106855/other stairs] .
+[/EN#106851/people People] watch as [/EN#106850/people a man] does skateboard [/EN#0/notvisual tricks] down [/EN#106852/other a table] on [/EN#106855/other the steps] .
+[/EN#106850/people A man] rides [/EN#106854/other a skateboard] off of [/EN#106852/other a picnic table] over [/EN#106855/other the steps] .
+[/EN#106850/people A skateboarder] is jumping off [/EN#106852/other a wooden table] down [/EN#106855/other some steps] .
+[/EN#106850/people a man] skateboard down [/EN#106853/other a railing] .

@@ -1,0 +1,5 @@
+[/EN#107004/animals Brown dog] barking at [/EN#107009/other something] off-camera , [/EN#0/notvisual green background] .
+[/EN#107004/animals/people A German shepherd] on [/EN#107005/clothing a leash] barking up at [/EN#107006/people somebody] .
+[/EN#107004/animals The brown and black dog] has [/EN#107007/bodyparts his mouth] open .
+[/EN#107004/animals A leashed dog] holds [/EN#107007/bodyparts its mouth] open wide .
+[/EN#107004/animals A brown dog] bares [/EN#107008/other its fangs] .

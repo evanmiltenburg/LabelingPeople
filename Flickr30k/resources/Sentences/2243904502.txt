@@ -1,0 +1,5 @@
+[/EN#36384/animals A yellow dog] running through [/EN#36389/scene a yard] covered in [/EN#36385/other leaves] while holding [/EN#36386/other a yellow toy] in [/EN#36387/bodyparts his mouth] .
+[/EN#36384/animals Dog] trotting with [/EN#36386/animals a rubber duck] in [/EN#36387/bodyparts its mouth]
+[/EN#36384/animals A dog] running with [/EN#36386/other a toy] in [/EN#36387/bodyparts his mouth] .
+[/EN#36384/animals A dog] with [/EN#36386/other a yellow toy] in [/EN#36387/bodyparts its mouth] .
+[/EN#36384/animals The dog] has retrieved [/EN#36386/other his toy] .

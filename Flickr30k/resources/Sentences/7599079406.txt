@@ -1,0 +1,5 @@
+[/EN#271986/people A professionally dressed man] is sitting on [/EN#271987/vehicles/scene the subway] looking at [/EN#271988/other his cellphone] .
+[/EN#271986/people an asian male] in [/EN#271989/clothing a white shirt] on [/EN#271987/vehicles/scene a subway] reading [/EN#271988/other his phone]
+[/EN#271986/people a man] sitting and looking at [/EN#271988/other his phone] .
+[/EN#271986/people A man] is using [/EN#271988/other his phone] on [/EN#271987/vehicles/scene a bus] .
+[/EN#271986/people A man] looking at [/EN#271988/other his cellphone] .

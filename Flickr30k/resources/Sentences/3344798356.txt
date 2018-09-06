@@ -1,0 +1,5 @@
+[/EN#111327/people A child] is wearing [/EN#111329/clothing a blue hat] and [/EN#111330/clothing snowsuit] with [/EN#111328/other red skis] on [/EN#111334/bodyparts their feet] .
+[/EN#0/notvisual There] is [/EN#111327/people a little child] in [/EN#111330/clothing a snowsuit] on [/EN#111333/other red skies] in [/EN#111331/scene the snow] .
+[/EN#111327/people A small child] in [/EN#111329/clothing a blue hat] and [/EN#111332/other coat skis] on [/EN#111331/scene the snow] .
+[/EN#111328/other A child skis] across [/EN#0/notvisual the snowy ground] .
+[/EN#111327/people a young skier] looks at [/EN#0/notvisual the camera] .

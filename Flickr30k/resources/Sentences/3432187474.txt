@@ -1,0 +1,5 @@
+[/EN#117818/people A man] in [/EN#117827/clothing a black suit] is sitting with [/EN#117819/people a dark-haired woman] wearing [/EN#117828/clothing a blue jacket] on [/EN#117820/scene a dock] .
+[/EN#117818/people A man] and [/EN#117819/people woman] sit on [/EN#117820/scene a dock] looking out over [/EN#117821/scene the water] on [/EN#117826/scene an overcast day] .
+[/EN#117818/people A man] and [/EN#117819/people woman] are sitting on [/EN#117820/scene a pier] in front of [/EN#117825/scene a body of water] .
+[/EN#117824/people A couple] sits on [/EN#117820/scene a rocky pier] made of [/EN#117822/scene wood blocks] and [/EN#117829/other chains] .
+[/EN#117818/people a man] and [/EN#117819/people a woman] sitting on [/EN#117823/scene the shore] looking at [/EN#117821/scene the scenery]

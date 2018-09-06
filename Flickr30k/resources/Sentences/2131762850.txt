@@ -1,0 +1,5 @@
+[/EN#30413/people A winking boy] in [/EN#30413/scene the snow] wears [/EN#30414/clothing a helmet] and [/EN#30415/clothing an orange LL Bean jacket] .
+[/EN#30413/people Child] in [/EN#30415/clothing orange jacket] and [/EN#30414/clothing a helmet] playing in [/EN#30413/scene the snow] .
+[/EN#30413/people The boy] wearing [/EN#30415/clothing the red jacket] and [/EN#30414/clothing helmet] is winking
+[/EN#30413/people A boy] wearing [/EN#30415/clothing an orange coat] winks at [/EN#0/notvisual the camera] .
+[/EN#30413/people A boy] in [/EN#30415/clothing an orange jacket] appears unhappy .

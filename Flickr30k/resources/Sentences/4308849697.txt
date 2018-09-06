@@ -1,0 +1,5 @@
+[/EN#162605/people A woman] in [/EN#162606/clothing a black uniform] is pushing [/EN#162608/other a bright yellow mop bucket] down [/EN#162609/scene a hallway] .
+[/EN#162605/people A person] in [/EN#162606/clothing a black suit] is moving [/EN#162608/other a yellow bucket] and mop down [/EN#162609/scene a hallway] .
+[/EN#162605/people An lady] in [/EN#162606/clothing a uniform] is using [/EN#162608/other a yellow mop bucket] .
+[/EN#162605/people A girl] wearing [/EN#162606/clothing a black uniform] is holding [/EN#162610/other a mop] .
+[/EN#162605/people A teenage] mops [/EN#162609/scene the floor] in [/EN#162609/scene a hallway] .

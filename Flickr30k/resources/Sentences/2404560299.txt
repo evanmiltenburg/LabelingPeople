@@ -1,0 +1,5 @@
+[/EN#46798/people A man] in [/EN#46804/clothing a uniform] is looking to [/EN#46805/other his right standing] by [/EN#46799/scene a building] .
+[/EN#46798/people A police officer] is standing by [/EN#46803/scene the corner of a building] .
+[/EN#46798/people An officer] is standing by [/EN#46799/scene an important building]
+[/EN#46798/people Uniformed police officer guards] [/EN#46800/scene a corner] .
+[/EN#46798/people A policeman] standing [/EN#46802/scene outside a gate] .

@@ -1,0 +1,5 @@
+[/EN#555/people A young gymnast] , jumps high in [/EN#0/notvisual the air] , while performing on [/EN#556/other a balance beam] .
+[/EN#555/people A woman] wearing [/EN#557/clothing an orange leotard] doing [/EN#555/other gymnastics] in front of [/EN#559/people an audience] .
+[/EN#555/people A gymnast] performing on [/EN#556/other the balance beam] in front of [/EN#559/people an audience] .
+[/EN#555/bodyparts The young gymnast 's supple body] soars above [/EN#556/other the balance beam] .
+[/EN#555/people A gymnast] is performing on [/EN#556/other the balance beam] .

@@ -1,0 +1,5 @@
+[/EN#235249/people A blond woman] wearing [/EN#235255/clothing a gray jacket] converses with [/EN#235250/people an older man] in [/EN#235256/clothing a green shirt] and [/EN#235254/clothing glasses] while sitting on [/EN#235252/scene a restaurant patio] .
+[/EN#235249/people A blond pony-tailed woman] and [/EN#235250/people a gray-haired man] converse while seated at [/EN#235252/scene a restaurant 's outdoor area] .
+[/EN#235249/people A woman] and [/EN#235250/people man] meet at [/EN#235251/scene a restaurant] to talk , while sitting in [/EN#235257/scene the outside area] .
+[/EN#235249/people A woman] with [/EN#235259/bodyparts blond-hair] is sitting at [/EN#235253/other a table] and talking to [/EN#235250/people a man] with [/EN#235254/clothing glasses] .
+[/EN#235249/people a woman] discusses [/EN#235258/other something] with [/EN#235250/people a older man] at [/EN#235253/other a table] outside [/EN#235251/scene a restaurant] .

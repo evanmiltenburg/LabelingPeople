@@ -1,0 +1,5 @@
+[/EN#173326/people A woman] with [/EN#173333/clothing earphones] in [/EN#173334/bodyparts her ears] is walking down [/EN#173330/scene the street] while [/EN#173327/people a man] talking on [/EN#173335/other his cellphone] is walking behind [/EN#0/notvisual her] .
+[/EN#173326/people A woman] in [/EN#173329/clothing a red shirt] and [/EN#173332/clothing blue jeans] is walking outside while [/EN#173327/people a man] in [/EN#173328/clothing a khaki jacket] is right behind [/EN#0/notvisual her] .
+[/EN#173326/people A woman] in [/EN#173329/clothing a red shirt] and [/EN#173332/clothing blue jeans] walking down [/EN#173330/scene the street]
+[/EN#173327/people A man] and [/EN#173326/people a woman] are walking around [/EN#173330/scene a path] outside .
+[/EN#173326/people A lady] in [/EN#173329/clothing a red shirt] walking down [/EN#173330/scene a sidewalk] .

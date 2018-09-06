@@ -1,0 +1,5 @@
+[/EN#108127/people a skateboarder] in [/EN#108128/clothing a green shirt] is taking [/EN#108129/other a jump of a step] in front of [/EN#108132/scene a pink building] .
+[/EN#108127/people A person] in [/EN#108128/clothing a green shirt] on [/EN#108131/other a skateboard] jumping off of [/EN#108133/other a short set of stairs] .
+[/EN#108127/people A boy] in [/EN#108134/clothing black pants] and [/EN#108128/clothing green t-shirt] jumps high with [/EN#108131/other his skateboard] .
+[/EN#108127/people A guy] on [/EN#108131/other a skateboard] , jumping off [/EN#108130/other some steps] .
+[/EN#0/notvisual He] is in [/EN#0/notvisual the air] on [/EN#108131/other his skateboard] .

@@ -1,0 +1,5 @@
+[/EN#106273/people A man] in [/EN#106274/clothing a black jacket] with [/EN#106279/other a hood] is cleaning [/EN#106275/scene the windows of a building] while being suspended over [/EN#106277/scene the city] .
+[/EN#106273/people A man] is up on [/EN#106280/other a scaffold] and appears to be washing [/EN#106275/scene the windows of a building] .
+[/EN#106273/people A man] working high up in [/EN#0/notvisual the air] on [/EN#106275/scene a building] with [/EN#106278/other a cityscape] behind [/EN#0/notvisual him] .
+[/EN#106273/people A man] cleaning outside [/EN#106275/scene the window of a building]
+[/EN#106273/people a man] in [/EN#106274/clothing a black jacket] cleaning [/EN#106275/other windows]

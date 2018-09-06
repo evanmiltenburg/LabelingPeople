@@ -1,0 +1,5 @@
+[/EN#153243/people A man] is wearing [/EN#153248/clothing yellow protective headphones] while using [/EN#153244/other a circular saw] to carve [/EN#153251/other pieces] away from [/EN#153245/other a tan stone sculpture] .
+[/EN#153243/people A man] in [/EN#153249/clothing a white shirt] wearing [/EN#153248/clothing yellow safety earmuffs] is using [/EN#153244/other a tool] to cut [/EN#153247/other a shape] .
+[/EN#153243/people Man] working on [/EN#153245/other beige] carving while wearing [/EN#153252/people yellow ear protectors] .
+[/EN#0/notvisual There] is [/EN#153243/people a artist] completing [/EN#153245/other a large piece of work] .
+[/EN#153243/people A man] carves [/EN#153245/other a sculpture] with [/EN#153244/other a circular saw] .

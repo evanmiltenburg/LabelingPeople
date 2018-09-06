@@ -1,0 +1,5 @@
+[/EN#212727/people Two white men] and [/EN#212728/people a black man] , [/EN#212722/people all] wearing [/EN#212726/clothing jeans] and [/EN#212724/clothing a black t-shirt] , are sitting on [/EN#212723/other a bench] with [/EN#212731/other sandwich] and [/EN#212730/other drink] .
+[/EN#212722/people Two white-skinned and one dark-skinned man] are sitting [/EN#0/notvisual side] by [/EN#0/notvisual side] in [/EN#212726/clothing jeans] and [/EN#212724/clothing black shirts] .
+[/EN#212722/people Three men] sitting [/EN#212723/other a cement bench] and [/EN#212729/other a brick wall] behind [/EN#0/notvisual them] .
+[/EN#212722/people Three men] sit on [/EN#212723/other a bench] taking [/EN#212725/scene a break] from [/EN#212732/other their work] .
+[/EN#212722/people Three men] sitting on [/EN#212723/other a bench] during [/EN#212725/scene a work break] .

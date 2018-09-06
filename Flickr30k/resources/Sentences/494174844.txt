@@ -1,0 +1,5 @@
+[/EN#221272/people Six people] sitting by [/EN#221279/other the window] in [/EN#221276/scene a restaurant] , getting ready to order .
+[/EN#221273/people A group] at [/EN#221275/other a restaurant decide] [/EN#0/notvisual what] [/EN#0/notvisual they] want to eat from [/EN#221280/other their menus] .
+[/EN#221272/people A group of people] are sitting at [/EN#221277/other a table] having [/EN#221278/other a meal] .
+[/EN#221272/people Five people] sitting at [/EN#221277/other a table] in [/EN#221276/scene a restaurant] .
+[/EN#221272/people A few people] are sitting down for [/EN#221274/other a meal] .

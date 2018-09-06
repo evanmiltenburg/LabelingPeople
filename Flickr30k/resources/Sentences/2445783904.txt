@@ -1,0 +1,5 @@
+[/EN#50084/animals Brown dog] on [/EN#50086/clothing a leash] is sniffing [/EN#0/notvisual the ground] in [/EN#50085/scene a field of grass] .
+[/EN#50084/animals The large brown dog] with [/EN#50087/clothing the red collar] is in [/EN#50085/scene the grass] .
+[/EN#50084/animals A dog] , [/EN#50089/bodyparts nose] to [/EN#0/notvisual the ground] , walks in [/EN#50085/scene a grassy field] .
+[/EN#50084/animals A dog] with [/EN#50087/clothing a red collar] is walked on [/EN#50085/scene a field] .
+[/EN#50084/animals a gray dog] walking on [/EN#50086/clothing a leash] in [/EN#50085/scene some grass]

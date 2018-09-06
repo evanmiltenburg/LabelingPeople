@@ -1,0 +1,5 @@
+[/EN#123589/people An older gentleman] in [/EN#123590/clothing a checkered shirt] carrying [/EN#123591/other milk jugs] using [/EN#123592/other a yoke] .
+[/EN#123589/people The man] is carrying [/EN#123591/other tins] and taking [/EN#0/notvisual them] somewhere .
+[/EN#123589/people A man] in [/EN#123593/clothing plaid yellow] carrying [/EN#123591/other two tin buckets] .
+[/EN#123589/people A man] in [/EN#123590/clothing costume] , carrying [/EN#123591/other two milk jugs] .
+[/EN#123589/people A gentleman] with [/EN#123591/other two milk jugs] .

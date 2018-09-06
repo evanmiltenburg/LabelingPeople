@@ -1,0 +1,5 @@
+[/EN#37276/animals A dog] bounding across [/EN#37280/scene the sandy landscape] in front of [/EN#37281/people people] watching .
+[/EN#37276/animals A black and white dog] is running through [/EN#37278/other the sand] at [/EN#37277/scene a beach] .
+[/EN#37276/animals A black and white dog] playing in [/EN#37278/other the sand] .
+[/EN#37276/animals Black dog] running across [/EN#37279/scene dirt] .
+[/EN#37276/animals A dog] lunges across [/EN#37277/scene a beach] .

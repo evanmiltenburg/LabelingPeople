@@ -1,0 +1,5 @@
+[/EN#160926/people A man] and [/EN#160928/people a woman] play [/EN#160930/instruments an accordion] and [/EN#160937/instruments violin] on [/EN#160929/scene the sidewalk] for [/EN#160936/scene tips] from [/EN#160935/people pedestrians] .
+[/EN#160926/people A man] plays [/EN#160932/other a saw] and [/EN#160928/people a woman] plays [/EN#160930/instruments an accordion] on [/EN#160931/scene a sidewalk] .
+[/EN#160928/people A woman] and [/EN#160926/people a man] play [/EN#160930/instruments musical instruments] on [/EN#160929/scene a city sidewalk] .
+[/EN#160926/people A old couple] is playing [/EN#160930/instruments musical instrument] on [/EN#160931/scene a street corner] .
+[/EN#160926/people The street performers] are making [/EN#160933/other music] together .

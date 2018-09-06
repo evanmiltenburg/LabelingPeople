@@ -1,0 +1,5 @@
+[/EN#28026/people A man] with [/EN#28027/clothing a backpack] and [/EN#28028/clothing hat] is standing by [/EN#28029/scene a high cliff] where [/EN#0/notvisual you] can see for [/EN#28035/other miles] .
+[/EN#28026/people The man] wearing [/EN#28027/clothing a backpack] and [/EN#28028/clothing a hat] , stands on [/EN#28030/other a ledge] overlooking [/EN#28031/scene a city] .
+[/EN#28026/people A man] in [/EN#28028/clothing a hat] with [/EN#28032/clothing long sleeves] and [/EN#28033/clothing long pants] stands overlooking [/EN#28031/scene a city] .
+[/EN#28026/people Hiker] standing on top of [/EN#28030/other a rock] overlooking [/EN#28031/scene a town] .
+[/EN#28026/people A man] stands on [/EN#28029/scene a cliff] overlooking [/EN#28031/scene a city] .

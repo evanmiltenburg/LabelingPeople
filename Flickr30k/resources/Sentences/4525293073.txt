@@ -1,0 +1,5 @@
+[/EN#175495/people An older woman] with [/EN#175499/bodyparts gray hair] and [/EN#175496/clothing a plaid jacket] is standing on [/EN#175498/scene a sidewalk] .
+[/EN#175495/people a woman] with [/EN#175499/bodyparts gray hair] , wearing [/EN#175496/clothing a plaid jacket] , walking down [/EN#175498/scene a sidewalk] .
+[/EN#175495/people A woman] with [/EN#175496/clothing a flannel jacket] and [/EN#175501/clothing black purse] standing on [/EN#175498/scene the sidewalk] .
+[/EN#175495/people An older woman] in [/EN#175496/other a green pattered] overcoat standing for [/EN#0/notvisual the camera] .
+[/EN#175495/people A woman] in [/EN#175496/clothing a turquoise] and [/EN#175496/clothing brown plaid jacket] standing on [/EN#175500/scene a street] .

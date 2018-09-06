@@ -1,0 +1,5 @@
+[/EN#96045/animals A brown and white horse] runs in [/EN#96046/other the gravel] .
+[/EN#96045/animals A large horse] with [/EN#96047/other gear] , but [/EN#96048/people no rider] .
+[/EN#96045/animals A brown and white horse] runs quickly .
+[/EN#96045/animals The horse] gallops around [/EN#96049/scene the field] .
+[/EN#96045/animals a horse] runs .

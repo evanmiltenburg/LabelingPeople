@@ -1,0 +1,5 @@
+[/EN#81516/people A man] wearing [/EN#81523/clothing a blue jacket] is looking at [/EN#81524/other a glass bottle] while [/EN#81518/people the person] next to [/EN#0/notvisual him] enjoys [/EN#81520/other his food] .
+[/EN#81516/people One man] is holding [/EN#81519/other a beer] and [/EN#81518/other the other] is taking [/EN#81520/other a bite of food] .
+[/EN#81517/people Two men] at [/EN#81522/other a backyard barbecue] , eating and drinking [/EN#81519/other beer] .
+[/EN#81517/people Two men] wearing [/EN#81526/clothing blue] are eating and drinking [/EN#81528/scene outside] .
+[/EN#81516/people One man] drinking [/EN#81519/other a beer] while [/EN#81518/people another man] eats .

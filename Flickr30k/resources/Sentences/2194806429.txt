@@ -1,0 +1,5 @@
+[/EN#33440/people Two woman] ride [/EN#33441/vehicles a bicycle] together as [/EN#0/notvisual they] pass [/EN#33442/other a painting] on [/EN#33445/other a wall] .
+[/EN#33440/people two women] on [/EN#33441/vehicles a red two seater bike] looking at [/EN#33442/other a painting] on [/EN#33445/other wall]
+[/EN#33440/people The two girls] ride together on [/EN#33441/vehicles the bicycle] while [/EN#33443/other sightseeing] .
+[/EN#33440/people Two women] riding [/EN#33441/vehicles a tandem bicycle] go by [/EN#33442/other a wall painting] .
+[/EN#33440/people Two girls] on [/EN#33441/vehicles a tandem bicycle] , looking at [/EN#33442/other wall art] .

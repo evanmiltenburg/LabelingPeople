@@ -1,0 +1,5 @@
+[/EN#227367/people A baby] wearing [/EN#227369/clothing a blue shirt] with [/EN#227368/other a baseball] on [/EN#0/notvisual it] is making [/EN#227370/bodyparts a face] like [/EN#0/notvisual he] 's about to sneeze .
+[/EN#227367/people A baby] wearing [/EN#227369/clothing a navy blue shirt] with [/EN#227368/other a baseball] on [/EN#0/notvisual it] is crying .
+[/EN#227367/people A little boy] with [/EN#227368/other a baseball] on [/EN#227369/clothing his shirt] is crying .
+[/EN#227367/people An adorable baby boy] sitting outside .
+[/EN#227367/people A baby] is sitting outside in [/EN#227371/scene grass] .

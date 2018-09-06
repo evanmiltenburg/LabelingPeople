@@ -1,0 +1,5 @@
+[/EN#14557/people A janitor] dressed in [/EN#14558/clothing white] is using [/EN#14559/other a dust mop] to clean [/EN#14560/scene a floor] .
+[/EN#14557/people A man] in [/EN#14561/clothing a white apron] and [/EN#14562/clothing sandals] is dry mopping [/EN#14560/scene a floor] .
+[/EN#14557/people Man] in [/EN#14558/clothing white uniform] mops [/EN#14560/scene the floor] .
+[/EN#14557/people Man] in [/EN#14558/clothing white] cleans [/EN#14560/scene the floor] .
+[/EN#14557/people A man] cleaning [/EN#14560/scene the floor] .

@@ -1,0 +1,5 @@
+[/EN#33712/people A white man] playing [/EN#33713/instruments an acoustic guitar] with [/EN#33715/people another person] .
+[/EN#33712/people A man] with [/EN#33714/bodyparts brown hair] is playing [/EN#33713/instruments the guitar] .
+[/EN#33712/people A man] with [/EN#33714/bodyparts brown hair] is holding [/EN#33713/instruments a guitar] .
+[/EN#33712/people A young man] playing [/EN#33713/instruments the guitar] .
+[/EN#33712/people A man] is playing [/EN#33713/instruments a guitar] .

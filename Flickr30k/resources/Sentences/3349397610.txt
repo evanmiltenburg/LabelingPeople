@@ -1,0 +1,5 @@
+[/EN#111658/scene A shop or building] with [/EN#111656/people a man] and [/EN#111663/people a woman] standing in [/EN#111654/scene the front] .
+[/EN#111655/scene A street corner] with [/EN#111659/vehicles a blue truck] and [/EN#111662/vehicles a red car] sitting parked .
+[/EN#111656/people Two people] talk at [/EN#111660/scene a cross way] with [/EN#111657/vehicles many cars] parked around .
+[/EN#111656/people Two people] standing outside in front of [/EN#111664/vehicles two trucks] talking .
+[/EN#111655/scene A street corner] with [/EN#111657/vehicles parked cars] - [/EN#111665/other white , red and back] .

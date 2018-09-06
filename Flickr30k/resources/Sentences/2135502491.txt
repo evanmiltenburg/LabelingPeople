@@ -1,0 +1,5 @@
+[/EN#30591/animals Large St Bernard dog] wearing [/EN#30595/clothing red collar] galloping through [/EN#30593/scene the snow] .
+[/EN#30591/animals The large brown and white dog] is running through [/EN#30593/scene the snow] .
+[/EN#30591/other A beautiful brown and white St Bernard] running in [/EN#30593/scene the snow]
+[/EN#30591/animals St Bernard dog] running in [/EN#30593/scene the snowy field] .
+[/EN#30591/other A St Bernard] lunges through [/EN#30593/scene the snow] .

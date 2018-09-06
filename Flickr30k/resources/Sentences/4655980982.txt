@@ -1,0 +1,5 @@
+[/EN#187506/people A man] in [/EN#187508/clothing a gray sweatshirt] making [/EN#187510/bodyparts a face] while playing [/EN#187509/instruments the drums] .
+[/EN#187506/people A man] is playing [/EN#187509/instruments drums] in [/EN#187507/people a band] with [/EN#187508/clothing a gray jacket] on .
+[/EN#187506/people Man] plays [/EN#187511/other electronic drum set] in [/EN#187507/people band] .
+[/EN#187506/people A man] is playing [/EN#187509/instruments drums] with [/EN#187507/people a band] .
+[/EN#187506/people Drummer] playing [/EN#187509/instruments drums] quickly .

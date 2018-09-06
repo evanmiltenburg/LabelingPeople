@@ -1,0 +1,5 @@
+[/EN#114746/people A man] sits in [/EN#114747/clothing a brown shirt] , playing [/EN#114748/instruments a wooden looking guitar] with [/EN#114749/other microphone] stands on [/EN#0/notvisual his sides] .
+[/EN#114746/people An Asian male] with [/EN#114747/clothing a brown sweater] playing [/EN#114748/instruments a guitar] .
+[/EN#114746/people A young man] in [/EN#114747/clothing a brown shirt] holding [/EN#114748/instruments a guitar] .
+[/EN#114746/people A man] is playing [/EN#114748/instruments an acoustic guitar] .
+[/EN#0/notvisual There] is [/EN#114746/people a person] playing [/EN#114748/instruments a guitar] .

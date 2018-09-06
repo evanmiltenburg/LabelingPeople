@@ -1,0 +1,5 @@
+[/EN#192220/people A single woman] walking in front of [/EN#192219/scene a large white building] with [/EN#192222/other many palm trees] in [/EN#192221/scene the front] , and [/EN#192224/scene a cloudy blue sky] .
+[/EN#192219/scene A large white building] with [/EN#192222/other many palm trees] in [/EN#192221/scene front] and [/EN#192220/people a man] with [/EN#192230/bodyparts his hands] in [/EN#192227/clothing his pockets] walking by .
+[/EN#192220/people A person] in [/EN#192225/clothing a dark top] and [/EN#192229/clothing light pants] walks past [/EN#192219/scene a white building] .
+[/EN#192220/people A man] walking down [/EN#192226/scene a street] beside [/EN#192219/scene a large white building] .
+[/EN#192220/people An indian man] walks past [/EN#192219/scene a temple] on [/EN#192228/scene his way] to pray .

@@ -1,0 +1,5 @@
+[/EN#282670/people Man] in [/EN#282671/clothing yellow t-shirt] , [/EN#282676/clothing black denim shorts] , [/EN#282677/clothing black socks] and [/EN#282678/clothing white sneakers] , juggling [/EN#282675/other knives] in [/EN#282679/scene a city park] .
+[/EN#282670/people A man] in [/EN#282672/clothing a yellow short and shorts] juggles [/EN#282675/other knives] .
+[/EN#282670/people A man] in [/EN#282671/clothing a yellow shirt] is juggling [/EN#282675/other knives] .
+[/EN#282670/people A man] in [/EN#282671/clothing a yellow shirt] juggles [/EN#282675/other knives] .
+[/EN#282670/people A man] wearing [/EN#282671/clothing yellow] juggles [/EN#282675/other knives]

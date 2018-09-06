@@ -1,0 +1,5 @@
+[/EN#57668/animals The large dog] is walking outside , carrying [/EN#57669/other a colorful toy] in [/EN#57670/bodyparts its mouth] .
+[/EN#57668/animals A black and white dog] is walking with [/EN#57669/other a blue Frisbee] in [/EN#57670/bodyparts its mouth] .
+[/EN#57668/animals A black and tan dog] is carrying [/EN#57669/other a light blue ball] near [/EN#57673/scene a fence] .
+[/EN#57668/animals A dog] runs on [/EN#57672/other concrete] holding [/EN#57669/other a blue ball] .
+[/EN#57668/animals The dog] has [/EN#57669/other a blue ball] in [/EN#57670/bodyparts its mouth] .

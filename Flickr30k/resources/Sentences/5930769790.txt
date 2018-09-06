@@ -1,0 +1,5 @@
+[/EN#245643/people A dog groomer] gives [/EN#245644/animals a dog] [/EN#245645/bodyparts a haircut] using [/EN#245647/other electric hair clippers] .
+[/EN#245643/people A brown-haired woman] is giving [/EN#245644/animals a black and white dog] [/EN#245645/bodyparts a haircut] .
+[/EN#245643/people A woman] is shaving [/EN#245646/bodyparts the hair] off of [/EN#245644/animals a black and white dog] .
+[/EN#245643/people A woman] shaving [/EN#245644/animals a black and white dog] .
+[/EN#245643/people A woman] giving [/EN#245644/animals a dog] [/EN#245645/bodyparts a haircut] .

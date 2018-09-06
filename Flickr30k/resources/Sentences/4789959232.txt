@@ -1,0 +1,5 @@
+[/EN#203056/people Male] in [/EN#203058/scene the street] wearing [/EN#203057/clothing a blue plaid shirt] waiting for [/EN#203062/other the light] to turn .
+[/EN#203056/people A middle-aged man] standing in [/EN#203059/people the middle of a crowd] looking [/EN#203061/scene the other way] .
+[/EN#203056/people A man] is standing on [/EN#203058/scene a busy street] looking with [/EN#203063/bodyparts his head] tilted up .
+[/EN#203056/people Man] with [/EN#203057/clothing plaid shirt] staring off into [/EN#0/notvisual the distance] .
+[/EN#203056/people A man] in [/EN#203057/clothing a blue plaid shirt] looking up .

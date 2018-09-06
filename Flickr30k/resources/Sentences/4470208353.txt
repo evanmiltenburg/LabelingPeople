@@ -1,0 +1,5 @@
+[/EN#171179/people A man] in [/EN#171180/clothing a white tunic] is standing in [/EN#171181/other the marketplace] .
+[/EN#171179/people A man] in [/EN#171180/clothing a gray robe] is walking in [/EN#171185/other the shade] .
+[/EN#171179/people A man] is walking in [/EN#171182/scene the shade of a market] .
+[/EN#171179/people Older man] walking in [/EN#171184/scene crazy shadows] .
+[/EN#171179/people A man] walking in [/EN#171180/clothing a white robe] .

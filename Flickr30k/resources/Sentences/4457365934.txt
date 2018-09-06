@@ -1,0 +1,5 @@
+[/EN#170125/animals A golden furred puppy] sits , gazing out [/EN#170126/vehicles the back window of the car] , with [/EN#170124/other his pink clad doll] .
+[/EN#170125/animals A toy dog] and [/EN#170124/other a pink doll] rest on [/EN#170126/vehicles the dashboard of a vehicle] .
+[/EN#170126/vehicles The dashboard of a car] with [/EN#170125/other a brown dog toy] and [/EN#170124/other a pink doll] .
+[/EN#170124/other A doll] and [/EN#170125/animals stuffed dog] sit in [/EN#170126/vehicles the back window of a car] .
+[/EN#170124/other A doll] and [/EN#170125/animals a dog] lying in [/EN#170126/vehicles the back of a red car] .

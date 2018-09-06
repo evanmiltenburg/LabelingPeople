@@ -1,0 +1,5 @@
+[/EN#88573/people A soccer player] is sitting on [/EN#88576/scene the field] drinking from [/EN#88575/other a water bottle] .
+[/EN#88573/people An athelete] takes [/EN#88578/scene a break] and sits in [/EN#88576/scene the grass] drinking [/EN#88575/scene water] .
+[/EN#88573/people A man] sitting on [/EN#88576/scene a soccer field] drinking [/EN#88575/scene a bottle of water] .
+[/EN#88573/people A man] sits on [/EN#88576/scene the grass] and [/EN#88575/other drinks] from [/EN#88575/other a water bottle] .
+[/EN#88573/people A soccer player] sits on [/EN#88576/scene the field] drinking [/EN#88575/scene water] .

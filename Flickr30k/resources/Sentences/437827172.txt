@@ -1,0 +1,5 @@
+[/EN#165500/people A boy] in [/EN#165501/clothing a blue coat] hangs [/EN#165502/other his artwork] on [/EN#165503/other the wall] .
+[/EN#165500/people Boy] standing in [/EN#0/notvisual what] looks like [/EN#165504/other a prop] for [/EN#165505/other a play] .
+[/EN#165500/people A young boy] hangs [/EN#165502/other something] above [/EN#165504/other his playhouse] .
+[/EN#165500/people A child] is placing [/EN#165502/other an item] on [/EN#165503/other a red wall] .
+[/EN#165500/people A child] in [/EN#165501/clothing a denim jacket] plays [/EN#165507/scene house] .

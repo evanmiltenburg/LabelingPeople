@@ -1,0 +1,5 @@
+[/EN#30207/people A man] in [/EN#30208/clothing a gray sweater] speaks to [/EN#30209/people two women] and [/EN#30210/people a man] pushing [/EN#30211/vehicles a shopping cart] through [/EN#30214/other Walmart]
+[/EN#30207/people A man] in [/EN#30212/clothing a red coat] at [/EN#30214/other Walmart] looks at [/EN#0/notvisual the camera] while [/EN#30209/people a group of women] talk .
+[/EN#30213/people Four Walmart shoppers] in [/EN#30217/other a deep discussion] in [/EN#30215/scene the grocery section] .
+[/EN#30213/people A group of people] are discussing [/EN#0/notvisual what] [/EN#0/notvisual they] need to buy from [/EN#30214/other Walmart]
+[/EN#30213/people Four people] talking during [/EN#30218/other a shopping trip] .

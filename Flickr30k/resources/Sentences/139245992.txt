@@ -1,0 +1,5 @@
+[/EN#10988/people An older gentleman] , dressed in [/EN#10991/clothing jeans] and [/EN#10992/clothing a long-sleeved shirt] , tosses [/EN#10989/other a small red ball] on [/EN#10990/scene the beach] .
+[/EN#10988/people An elderly man] tossing [/EN#10989/other a red rubber ball] on [/EN#10990/scene the beach] .
+[/EN#10988/people A man] in [/EN#10991/clothing jeans] at [/EN#10990/scene the beach] playing with [/EN#10989/other a red ball] .
+[/EN#10988/people Man] on [/EN#10990/scene the beach] is throwing [/EN#10989/other a red ball] .
+[/EN#10988/people A man] plays with [/EN#10989/other a ball] at [/EN#10990/scene the beach] .

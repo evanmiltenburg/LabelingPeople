@@ -1,0 +1,5 @@
+[/EN#108291/people A group of people] in [/EN#108299/clothing red clothing] with [/EN#108297/vehicles scooters] ride down [/EN#108295/scene the hill] on [/EN#108298/other rollerblades] .
+[/EN#108301/people The brightly colored rider] is riding down [/EN#108293/scene a countryside hill] on [/EN#108298/vehicles a scooter] .
+[/EN#108291/people several people] dressed alike are traveling down [/EN#108294/scene a curvy road] on [/EN#108297/vehicles scooters] .
+[/EN#108291/people Several children] wearing [/EN#108299/clothing red sweaters] are riding [/EN#108296/vehicles tricycles] in [/EN#108292/scene the park] .
+[/EN#108291/people a group] enjoying [/EN#108302/scene a day] at [/EN#108292/scene the park] in [/EN#108298/other their trekkies]

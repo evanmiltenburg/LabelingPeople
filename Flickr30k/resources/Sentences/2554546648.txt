@@ -1,0 +1,5 @@
+[/EN#57777/people A young man] playing [/EN#57778/instruments an electric guitar] while sitting on [/EN#57779/scene the sidewalk] .
+[/EN#57777/people A guitarist] plays for [/EN#57781/other money] on [/EN#57779/scene the street corner] while sitting .
+[/EN#57777/people A man] is siting on [/EN#0/notvisual the ground] strumming [/EN#57778/instruments an electric guitar] .
+[/EN#57777/people A man] in [/EN#57780/clothing a red shirt] and [/EN#57780/clothing black vest] is playing [/EN#57778/instruments the guitar] .
+[/EN#57777/people A man] playing [/EN#57783/other music] for [/EN#57784/other money] .

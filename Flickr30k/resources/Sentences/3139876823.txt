@@ -1,0 +1,5 @@
+[/EN#96169/people The skier] is aiming downhill , overlooking [/EN#96170/scene a wooded area] .
+[/EN#96169/people A downhill skier] in [/EN#96171/clothing black] catches [/EN#0/notvisual a tiny bit of air]
+[/EN#96169/people A skier] about to go down [/EN#96172/scene the mountain] .
+[/EN#96169/people A skier] is on [/EN#96172/scene a snow covered hill] .
+[/EN#96169/people A man] skis down [/EN#96172/scene a snowy hill] .

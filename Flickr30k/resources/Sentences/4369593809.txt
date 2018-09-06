@@ -1,0 +1,5 @@
+[/EN#165182/people Two men] are pushing [/EN#165183/vehicles/scene a small boat] with [/EN#165186/other fishing poles] out into [/EN#165184/scene the water] from [/EN#165185/scene the beach] .
+[/EN#165182/people Two fishermen] are launching [/EN#0/notvisual themselves] out to [/EN#165184/scene sea] .
+[/EN#165182/people Two people] taking [/EN#165183/vehicles/scene their boat] out in to [/EN#165184/scene the ocean] .
+[/EN#165182/people Two men] are pushing [/EN#165183/vehicles/scene their boat] out to [/EN#165184/scene sea] .
+[/EN#165182/people Two men] push [/EN#165183/vehicles/scene a boat] into [/EN#165184/scene water] .

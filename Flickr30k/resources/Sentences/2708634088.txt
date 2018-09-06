@@ -1,0 +1,5 @@
+[/EN#67740/animals Two large black and brown dogs] run through [/EN#67741/scene the tall grass] .
+[/EN#67740/animals Two dogs] are running [/EN#0/notvisual side] by [/EN#0/notvisual side] through [/EN#67741/scene long grass] .
+[/EN#67740/other two brown dogs one] with [/EN#67743/other a stick] in [/EN#67744/bodyparts its mouth]
+[/EN#67740/animals Two tall black dogs] run through [/EN#67741/scene tall grass] .
+[/EN#67740/animals Two large dogs] bound through [/EN#67741/scene a field] .

@@ -1,0 +1,5 @@
+[/EN#233730/people A man] in [/EN#233737/clothing a blue shirt] and [/EN#233738/clothing tie] is holding [/EN#233735/other a wineglass] next to [/EN#233731/people two other men] .
+[/EN#233730/people A guy] with [/EN#233739/bodyparts long hair] and [/EN#233735/other a wineglasses] standing near [/EN#233731/people two other men] .
+[/EN#233731/people Three men] are having [/EN#233734/other a conversation] during [/EN#233736/other an office party] .
+[/EN#233732/people Three businessmen] share [/EN#233735/other drinks] after [/EN#233734/other a meeting] .
+[/EN#233732/people Three guys] have [/EN#233734/other a conversation] in [/EN#233740/scene a office] .

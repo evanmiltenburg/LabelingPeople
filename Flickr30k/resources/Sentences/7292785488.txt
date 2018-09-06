@@ -1,0 +1,5 @@
+[/EN#268051/people A man] in [/EN#268052/clothing a blue shirt] rides [/EN#268054/other a skateboard] along [/EN#268053/other a railing] not far from [/EN#268055/other a brick wall] .
+[/EN#268051/people A young man] in [/EN#268052/clothing a blue shirt] grinds [/EN#268053/other a rail] on [/EN#268054/other a skateboard] in [/EN#268057/scene an urban area] .
+[/EN#268051/people A man] in [/EN#268052/clothing a blue shirt] and [/EN#268056/other jeans grinds] down [/EN#268053/other a rail] on [/EN#268054/other his skateboard] .
+[/EN#268051/people A man] in [/EN#268052/clothing a blue shirt] is skateboarding .
+[/EN#268051/people Man] , skateboarding

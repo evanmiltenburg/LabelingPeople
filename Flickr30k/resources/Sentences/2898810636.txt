@@ -1,0 +1,5 @@
+[/EN#80060/people A child] wearing [/EN#80061/clothing a blue shirt] is jumping in [/EN#0/notvisual the air] .
+[/EN#80060/people A child] jumping off [/EN#80063/people/scene bleachers] with [/EN#80061/clothing a blue shirt] .
+[/EN#80060/people A child] in [/EN#80061/clothing a blue shirt] jumping off [/EN#80063/other a bench] .
+[/EN#80060/people A child] wearing [/EN#80061/clothing a jersey] jumps in [/EN#0/notvisual the air] .
+[/EN#80060/people A girl] jumps in [/EN#0/notvisual the air] .

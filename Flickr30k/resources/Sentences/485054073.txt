@@ -1,0 +1,5 @@
+[/EN#210468/animals A white dog] with [/EN#210469/bodyparts long hair] jumps to catch [/EN#210467/other a red and green toy] .
+[/EN#210468/animals a white dog] is attempting to catch [/EN#210467/other a green and pink object] .
+[/EN#210468/animals A white furry dog] jumping to catch [/EN#210467/other a Frisbee] .
+[/EN#210468/animals The dog] is trying to catch [/EN#210467/other a Frisbee] .
+[/EN#210467/other A Frisbee] casts [/EN#210470/scene a shadow] on [/EN#210468/animals the dog] .

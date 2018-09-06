@@ -1,0 +1,5 @@
+[/EN#190793/people A man] stands at [/EN#190797/other a microphone] , reading from [/EN#190794/other a sheet of paper] at [/EN#190799/scene an outdoor event] .
+[/EN#190793/people An older man] with [/EN#190800/clothing a yellow blouse] is reading [/EN#190794/other something] while [/EN#0/notvisual he] stands on [/EN#190796/scene stage] .
+[/EN#190793/people A man] in [/EN#190801/clothing blue slacks] addresses [/EN#190798/people an audience] and reads [/EN#190794/other a piece of paper] .
+[/EN#190793/people A man] stands giving [/EN#190793/other a speech] on [/EN#190796/scene a stage] .
+[/EN#190793/people A man] on [/EN#190796/scene a stage] giving [/EN#190793/other a speech] .

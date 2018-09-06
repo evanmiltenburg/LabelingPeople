@@ -1,0 +1,5 @@
+[/EN#81587/animals White dog] holding [/EN#81588/other pink floppy Frisbee] in [/EN#81592/bodyparts mouth] jumping with [/EN#81593/bodyparts all four feet] off [/EN#0/notvisual the ground] .
+[/EN#81590/scene A medium] sized [/EN#81587/animals white dog] is jumping up to catch [/EN#81588/other a small cloth Frisbee] .
+[/EN#81587/animals A large yellow dog] leaps into [/EN#0/notvisual the air] to catch [/EN#81588/other his Frisbee] .
+[/EN#81587/animals A yellow dog] is jumping to catch [/EN#81588/other a toy] in [/EN#81591/scene a park] .
+[/EN#81587/animals A dog] leaps in [/EN#0/notvisual the air] to catch [/EN#81588/other a disc] .

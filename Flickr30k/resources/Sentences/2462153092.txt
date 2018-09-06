@@ -1,0 +1,5 @@
+[/EN#51302/people A girl] is running through [/EN#51307/scene a field] with [/EN#51303/animals a brown dog] and [/EN#51304/animals white dog] running beside [/EN#0/notvisual her] .
+[/EN#51302/people Girl] running through [/EN#51307/scene a field] with [/EN#51303/animals a brown dog] and [/EN#51305/animals a white dog] .
+[/EN#51302/people A girl] in [/EN#51306/clothing purple pants] running with [/EN#51304/animals two dogs] .
+[/EN#51302/people A girl] runs with [/EN#51304/animals dogs] in [/EN#51307/scene a dry field] .
+[/EN#51302/people A girl] running outside with [/EN#51304/animals three dogs]

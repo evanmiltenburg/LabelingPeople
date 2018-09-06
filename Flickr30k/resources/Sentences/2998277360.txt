@@ -1,0 +1,5 @@
+[/EN#86360/people An elderly lady] in [/EN#86361/clothing a yellow raincoat] is sitting by [/EN#86362/scene a white building] , holding up [/EN#86363/other a cardboard sign] to [/EN#86364/vehicles a car] driving by .
+[/EN#86360/people Older woman] in [/EN#86361/clothing yellow jacket] , holds [/EN#86363/other sign] saying [/EN#86367/other " DOWN AND OUT "] in [/EN#86366/scene urban area] .
+[/EN#86360/people A man] in [/EN#86361/other a yellow slicker] holds [/EN#86363/other a sign] saying [/EN#86368/other " down and out "] .
+[/EN#86360/people Man] with [/EN#86361/clothing a yellow coat] and [/EN#86363/other a cardboard sign] .
+[/EN#86360/people Elderly woman] in [/EN#86361/other yellow parka pan] handling

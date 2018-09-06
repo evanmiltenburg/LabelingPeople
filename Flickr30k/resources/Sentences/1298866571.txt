@@ -1,0 +1,5 @@
+[/EN#7802/people Man] in [/EN#7804/clothing suit] is using [/EN#7803/other his cellphone] while sitting on [/EN#7805/vehicles/scene a train] .
+[/EN#7802/people A serious looking young man] with [/EN#7804/clothing a suit] holds [/EN#7803/other a cellphone] .
+[/EN#7802/people A man] in [/EN#7804/clothing a suit] holds [/EN#7803/other his cellphone] in [/EN#0/notvisual the air] .
+[/EN#7802/people A young Asian man] is looking at [/EN#7803/other his cellphone] .
+[/EN#7802/people a asian man] gives [/EN#7807/bodyparts an evil eye] to [/EN#0/notvisual the camera] .

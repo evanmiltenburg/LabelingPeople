@@ -1,0 +1,5 @@
+[/EN#143916/people An oriental woman] with [/EN#143919/clothing a white purse] walking past [/EN#143921/vehicles a yellow bicycle] and [/EN#143917/scene a closed shop] .
+[/EN#143916/people A woman] with [/EN#143919/clothing a handbag] walks past [/EN#143917/other a chinese store of some sort] .
+[/EN#143916/people A young Asian female] walking outside [/EN#143917/other a business establishment] .
+[/EN#143916/people A Japanese woman] biked to work on [/EN#143920/scene a sunny day] .
+[/EN#143916/people A woman] works by [/EN#143917/scene a store] .

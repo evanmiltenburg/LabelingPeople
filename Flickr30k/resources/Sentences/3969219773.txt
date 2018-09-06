@@ -1,0 +1,5 @@
+[/EN#150065/people A man] with [/EN#150071/clothing a dark shirt] and [/EN#150077/clothing light shorts] is standing next to [/EN#150065/people a person] wearing [/EN#150073/clothing a light shirt] on [/EN#150067/scene a sidewalk] .
+[/EN#150066/people Two men] , [/EN#150065/other one] carrying [/EN#150070/clothing a white purse] on [/EN#150076/other his back] , are walking down [/EN#150067/scene a brick sidewalk] .
+[/EN#150066/people Two men] stand on [/EN#150067/scene a street] in [/EN#150069/scene a city] and [/EN#150065/people the man] on [/EN#150065/scene the right] points at [/EN#150072/other something] .
+[/EN#150066/people Two men] walking in [/EN#150067/scene the street] looking at [/EN#150072/other something] .
+[/EN#150066/people Two men] walking down [/EN#150068/scene a city street] .

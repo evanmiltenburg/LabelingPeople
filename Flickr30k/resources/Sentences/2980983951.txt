@@ -1,0 +1,5 @@
+[/EN#85359/people Construction worker] in [/EN#85360/clothing orange safety vests] and [/EN#85361/clothing white safety hats] , cleaning [/EN#85366/other a window] , while standing on [/EN#85362/other a steel platform] .
+[/EN#85363/people A group of people] wearing [/EN#85361/clothing hard hats] and [/EN#85360/clothing bright orange vests] are outside of [/EN#85366/other a window] .
+[/EN#85364/people Some men] in [/EN#85361/clothing safety hats] and [/EN#85360/clothing orange vests] are working on [/EN#85365/scene a building] .
+[/EN#85359/people Construction workers] are working outside [/EN#85365/scene a building] .
+[/EN#85364/people Men] in [/EN#85360/clothing orange vests] work hard cleaning [/EN#85367/other the windows] .

@@ -1,0 +1,5 @@
+[/EN#48498/people A man] in [/EN#48499/clothing a hoodie] skateboards in front of [/EN#48500/scene a blue sky] and [/EN#48501/scene building] , shot from [/EN#48504/other below] .
+[/EN#48498/people Man] with [/EN#48502/clothing jeans] and [/EN#48503/other a hooding] doing [/EN#0/notvisual skateboarding tricks] .
+[/EN#48498/people A skateboarder] jumps [/EN#48506/scene midair] near [/EN#48501/scene a building] .
+[/EN#48498/people A kid] wearing [/EN#48499/clothing a brown hoodie] doing [/EN#48507/other an ollie] .
+[/EN#48498/people A skateboarder] making [/EN#0/notvisual a jump] .

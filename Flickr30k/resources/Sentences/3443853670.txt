@@ -1,0 +1,5 @@
+[/EN#118786/people Person] sitting and leaning back against [/EN#118788/scene white house] while [/EN#118787/animals dog] sits in front of [/EN#0/notvisual him]
+[/EN#118786/people A person] sits with [/EN#118791/other their back] against [/EN#118788/other a white wall] with [/EN#118787/animals a tan dog] .
+[/EN#118786/people A man] with [/EN#118787/animals his dog] sitting against [/EN#118788/scene a white building] in [/EN#118790/scene the grass] .
+[/EN#118786/people A person] siting against [/EN#118788/other a wall] with [/EN#118787/animals a dog] .
+[/EN#118787/animals Dog] and [/EN#118786/people owner] sitting on [/EN#118790/scene lawn] .

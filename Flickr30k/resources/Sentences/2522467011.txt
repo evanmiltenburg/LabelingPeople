@@ -1,0 +1,5 @@
+[/EN#55048/people A little girl] in [/EN#55049/clothing a long red skirt] is hula hooping with [/EN#55050/other four brightly colored hula hoops] .
+[/EN#55048/people A girl] in [/EN#55052/clothing a red and white dress] is playing with [/EN#55050/other hula hoops] .
+[/EN#55048/people The small girl] in [/EN#55049/clothing the red skirt] played with [/EN#55050/other the hula hoops] .
+[/EN#55048/people A little girl] hula [/EN#55050/other hoops] with [/EN#55050/other multiple colorful hoops] .
+[/EN#55048/people a girl] in [/EN#55049/clothing a red skirt] with [/EN#55050/other some hula hoops]

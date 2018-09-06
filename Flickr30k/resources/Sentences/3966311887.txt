@@ -1,0 +1,5 @@
+[/EN#150010/people A boy] dressed in [/EN#150015/clothing blue jeans] and [/EN#150012/clothing a red shirt] sits on [/EN#150013/scene the road] holding [/EN#150019/other a water bottle] while [/EN#150011/people a little girl] dressed in [/EN#150017/clothing a red shirt] looks on .
+[/EN#150011/people A little girl] , standing by [/EN#150013/scene the side of the road] , is watching [/EN#150010/people a little boy] as [/EN#0/notvisual he] sits in [/EN#150014/scene the street] .
+[/EN#150010/people The young boy] in [/EN#150012/clothing a red shirt] and [/EN#150015/clothing jeans] resists [/EN#150020/other his sister 's request] for [/EN#150016/scene water] on [/EN#150013/scene the road] .
+[/EN#150010/people A young boy] is sitting on [/EN#150014/other asphalt] in front of [/EN#150011/people a young girl] [/EN#0/notvisual who] is standing up .
+[/EN#150010/people A boy] in [/EN#150012/clothing a red shirt] is sitting in [/EN#150013/scene the road] with [/EN#150016/scene bottle of water] .

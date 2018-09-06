@@ -1,0 +1,5 @@
+[/EN#136400/animals A brown dog] with [/EN#136403/clothing a silver collar] runs through [/EN#136401/scene shallow water] .
+[/EN#136400/animals A brown dog] swimming through [/EN#136401/scene murky water] .
+[/EN#136400/animals A brown dog] is running through [/EN#136401/scene the ocean] .
+[/EN#136400/animals The dog] is swimming across [/EN#136402/scene the water] .
+[/EN#136400/animals A small brown dog] swims in [/EN#136402/scene the water] .

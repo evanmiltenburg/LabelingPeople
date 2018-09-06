@@ -1,0 +1,5 @@
+[/EN#283303/people A man] , wearing [/EN#283308/clothing a black shirt] and [/EN#283312/clothing striped tie] , talking on [/EN#283304/other the phone] and reviewing [/EN#283306/other paperwork] .
+[/EN#283303/people A man] with [/EN#283305/clothing glasses] is sitting at [/EN#283309/other a desk] holding [/EN#283304/other a phone] and [/EN#283306/other some papers] .
+[/EN#283303/people A man] in [/EN#283305/clothing glasses] smiles as [/EN#0/notvisual he] answers [/EN#283304/other the phone] in [/EN#283314/scene the office] .
+[/EN#283307/people Crazy] looking [/EN#283303/people guy] hard at [/EN#283313/other work] in [/EN#283311/other his cube] .
+[/EN#283303/people An officer worker] making [/EN#283310/other a phone call] .

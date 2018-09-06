@@ -1,0 +1,5 @@
+[/EN#45574/people A person] sits on [/EN#45575/other the front deck of a ship] and [/EN#45576/scene a city] and [/EN#45577/other another ships] is lit up in [/EN#0/notvisual the distance] .
+[/EN#45574/people A man] is sitting on [/EN#45575/vehicles/scene the end of hit boat] overlooking [/EN#45579/scene the water] .
+[/EN#45575/other A ship] in [/EN#45579/scene a harbor] at [/EN#45581/scene night] with [/EN#45576/scene a city skyline] behind .
+[/EN#45575/other A large ship] on [/EN#45579/scene the water] at [/EN#45582/other dusk] .
+[/EN#45577/vehicles/scene A boat] is illuminated at [/EN#45581/scene night] .

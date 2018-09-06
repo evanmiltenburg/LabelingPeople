@@ -1,0 +1,5 @@
+[/EN#224379/people White man] with [/EN#224382/bodyparts long gray beard] , wears [/EN#224384/clothing a black top hat] and [/EN#224385/clothing long black suit] as [/EN#0/notvisual he] walks down [/EN#224386/scene the street] .
+[/EN#224379/people A gray bearded man] dressed in [/EN#224385/clothing a black suit] is walking past [/EN#224387/scene a street] marking of [/EN#224379/people a person] on [/EN#224383/vehicles a bicycle] .
+[/EN#224379/people A man] with [/EN#224382/bodyparts a beard] walks down [/EN#224386/scene the sidewalk] past [/EN#224383/vehicles a bicycle] crossing [/EN#224383/other sign] on [/EN#0/notvisual the ground] .
+[/EN#224379/people An elderly man] in [/EN#224385/clothing black clothes] and [/EN#224384/clothing a black hat] walking down [/EN#224387/scene a sidewalk] .
+[/EN#224379/people Well dressed man] walks along [/EN#224386/scene a city street] .

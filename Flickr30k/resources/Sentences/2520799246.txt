@@ -1,0 +1,5 @@
+[/EN#54855/people A small child] is running with [/EN#54856/clothing a pendant] towards [/EN#54857/scene a small bridge] .
+[/EN#54855/people A young boy] in [/EN#54858/clothing a blue fleece] walk on [/EN#54859/scene a path] toward [/EN#54857/scene a bridge] .
+[/EN#54855/people A boy] dressed [/EN#54860/clothing all in blue] waves [/EN#54861/other a flag] and skips away .
+[/EN#54855/people A little boy] is walking carrying [/EN#54861/other a little pink flag] .
+[/EN#54855/people A child] walking towards [/EN#54857/scene a bridge] waving [/EN#54861/other a flag] .

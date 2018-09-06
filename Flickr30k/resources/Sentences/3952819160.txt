@@ -1,0 +1,5 @@
+[/EN#149343/people A worker] is pointing at [/EN#149352/other something] while suspended above [/EN#0/notvisual ground] , standing on [/EN#149344/other a platform] .
+[/EN#149343/people A man] wearing [/EN#149354/clothing an orange vest] is in [/EN#149344/scene a lift] while extending [/EN#149355/bodyparts/people one arm] out .
+[/EN#149343/people A worker] , dressed in [/EN#149343/other safety gear] , standing on [/EN#149345/scene a walkway] on [/EN#149344/scene a tower] .
+[/EN#149343/people A man] in [/EN#149344/scene some sort of lift] pointing to [/EN#149350/people perhaps another worker] .
+[/EN#149347/other A construction] working on [/EN#149348/scene a foggy day] up in [/EN#0/notvisual the air] on [/EN#149344/scene a lift] .

@@ -1,0 +1,5 @@
+[/EN#37252/people A woman] is playing [/EN#37253/instruments an upright piano] [/EN#37255/scene outdoors] near [/EN#37254/other some flowers] .
+[/EN#37252/people A woman] wearing [/EN#37256/other a visor] is playing [/EN#37253/instruments a piano] [/EN#37255/scene outdoors] .
+[/EN#37252/people A woman] plays [/EN#37253/instruments piano] near [/EN#37254/other some flowers] .
+[/EN#37252/people Lady] playing [/EN#37253/instruments piano] outside by [/EN#37254/other flowers] .
+[/EN#37252/people Woman] playing [/EN#37253/instruments piano] in [/EN#37255/scene the outdoors]

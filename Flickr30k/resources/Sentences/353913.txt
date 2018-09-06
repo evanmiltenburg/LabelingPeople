@@ -1,0 +1,5 @@
+[/EN#125927/people A man] wearing [/EN#125934/clothing a sleeveless vest] is lying down in front of [/EN#125929/other double doors] with [/EN#125930/clothing plastic shopping bags] at [/EN#125936/bodyparts his feet] .
+[/EN#125927/people A man] wearing [/EN#125932/clothing all black] and with [/EN#125928/bodyparts a covered head] lies in front of [/EN#125929/scene a doorway] with [/EN#125930/clothing grocery bags] .
+[/EN#125927/people A man] sleeping on [/EN#0/notvisual the ground] against [/EN#125929/other a door] with [/EN#125930/clothing plastic bags] by [/EN#125937/other his foot] .
+[/EN#125927/people A person] is sleeping on [/EN#125933/scene the sidewalk] with [/EN#0/notvisual his] or [/EN#125928/bodyparts his face] covered .
+[/EN#125927/people A man] in [/EN#125932/clothing black] sleeps in front of [/EN#125929/other a door] .

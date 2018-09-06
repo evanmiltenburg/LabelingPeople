@@ -1,0 +1,5 @@
+[/EN#245769/people The baseball player] with [/EN#245779/clothing the hat] leans over [/EN#245770/scene the fence] to talk to [/EN#245769/other the one] with [/EN#245773/bodyparts the mohawk] .
+[/EN#245769/people A man] leaning over [/EN#245770/scene a fence] is talking to [/EN#245769/people a baseball player] [/EN#0/notvisual who] is resting .
+[/EN#245772/people Two baseball players] talk , [/EN#245769/other one] is sitting , [/EN#245778/other the other] is standing .
+[/EN#245769/people A baseball player] sitting on [/EN#245774/other a pipe] with [/EN#245775/other a stain] on [/EN#245776/bodyparts his knee] .
+[/EN#245769/people A baseball player] sitting on [/EN#245777/scene the field] covering .

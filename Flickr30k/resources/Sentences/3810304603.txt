@@ -1,0 +1,5 @@
+[/EN#143504/people A guy] with [/EN#143513/bodyparts blond-hair] is standing on [/EN#143507/scene a stage] playing [/EN#143506/instruments a red guitar] with [/EN#143505/people the drummer] in [/EN#0/notvisual the background] .
+[/EN#143504/people A man] in [/EN#143514/clothing a blue shirt] is singing and playing [/EN#143506/instruments guitar] on [/EN#143507/scene a stage] in front of [/EN#143505/people a drummer] .
+[/EN#143504/people A man] in [/EN#143510/clothing a blue and white] is performing on [/EN#143507/scene stage] with [/EN#143506/instruments a red guitar] .
+[/EN#143504/people A blond guy] with [/EN#143506/instruments a red guitar] is singing in [/EN#143509/people a band] .
+[/EN#143504/other Chickenfoot] plays [/EN#143511/other a musical set] on [/EN#143507/scene a stage] .

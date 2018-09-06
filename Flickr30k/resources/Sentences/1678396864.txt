@@ -1,0 +1,5 @@
+[/EN#18584/people An elderly woman] in [/EN#18587/clothing a black dress] holds [/EN#18585/clothing a black umbrella] over [/EN#18583/people a small boy] in [/EN#18589/clothing a red jacket] and [/EN#18590/clothing brown pants] on [/EN#18586/scene a pier] with [/EN#18588/vehicles/scene a boat] in [/EN#0/notvisual the background] .
+[/EN#18584/people An adult woman] and [/EN#18583/people a young male child] walking along [/EN#18586/scene a pier] , holding [/EN#18585/clothing an umbrella] , while [/EN#0/notvisual it] 's raining .
+[/EN#18584/people An older women] and [/EN#18583/people child] walking in [/EN#18585/clothing the rain holding and umbrella] .
+[/EN#18584/people A woman] with [/EN#18585/clothing an umbrella] is walking with [/EN#18583/people a little boy] to [/EN#18591/scene his home] .
+[/EN#18583/people A little boy] and [/EN#18584/people elderly Lady] are sharing [/EN#18585/clothing a black umbrella] .

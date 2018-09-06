@@ -1,0 +1,5 @@
+[/EN#28012/people The man] is posing for [/EN#28022/other a picture] in [/EN#28013/scene the desert] wearing [/EN#28014/clothing a green shirt] and [/EN#28015/clothing hat] , and holding [/EN#28016/other a metal detector] .
+[/EN#28012/people a lone hiker] on [/EN#28020/scene a dirt] hiking [/EN#28013/scene trail] with [/EN#28015/clothing a hat] and [/EN#28017/clothing sunglasses] on with [/EN#28018/other trees] in [/EN#0/notvisual the background]
+[/EN#28012/people A man] stops for [/EN#28024/other a picture] with [/EN#28021/scene the scenery] during [/EN#28025/other his hike] .
+[/EN#28012/people A hiker] is ready to take on [/EN#28013/scene a rugged outdoor trail] .
+[/EN#28012/people A man] in [/EN#28019/clothing shorts] is hiking in [/EN#28020/scene a dry region] .

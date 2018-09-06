@@ -1,0 +1,5 @@
+[/EN#235934/people Two boys] try to eat [/EN#235935/other a banana] and [/EN#235937/other an apple] on [/EN#235936/other the couch] , but [/EN#0/notvisual they] are distracted by [/EN#235939/other astonishment] .
+[/EN#235934/people Two young boys] , [/EN#235943/other one] in [/EN#235945/clothing a green shirt] eating [/EN#235935/other a banana] and [/EN#235942/other one] in [/EN#235946/clothing a blue shirt] eating [/EN#235937/other an apple] .
+[/EN#235934/people Two blue-eyed , blond children] eat [/EN#235938/other fruit] while sitting on [/EN#235936/other a couch] .
+[/EN#235934/people Two boys] are eating [/EN#235940/other bananas] and watching [/EN#235944/other television] .
+[/EN#235934/people Two boys] eat [/EN#235941/other fruit] on [/EN#235936/other a couch] .

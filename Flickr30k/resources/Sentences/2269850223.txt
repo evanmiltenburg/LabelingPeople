@@ -1,0 +1,5 @@
+[/EN#38041/people A woman] in [/EN#38044/clothing jeans] is sleeping on [/EN#38042/people a man] .
+[/EN#38039/people A young couple] takes [/EN#38043/other a nap] on [/EN#38040/other a couch] .
+[/EN#38039/people Two people] are sleeping on [/EN#38040/other a couch] .
+[/EN#38039/people Two people] are sleeping on [/EN#38040/other a sofa] .
+[/EN#38039/people Two people] sleep on [/EN#38040/other a couch] .

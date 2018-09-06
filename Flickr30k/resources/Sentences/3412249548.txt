@@ -1,0 +1,5 @@
+[/EN#116240/people The bald man] with [/EN#116242/bodyparts the white mustache] is wearing [/EN#116241/clothing a bluetooth earpiece] .
+[/EN#116240/people A bald man] with [/EN#116241/clothing an earpiece] is smiling [/EN#116243/scene nearby a building] opening .
+[/EN#116240/people A man] with [/EN#116242/bodyparts a white mustache] and [/EN#116241/clothing an earpiece] is smiling .
+[/EN#116240/people A smiling man] with [/EN#116241/clothing a headphones] and [/EN#116242/bodyparts a gray mustache]
+[/EN#116240/people A mustache man] wears [/EN#116241/clothing an earphone] .

@@ -1,0 +1,5 @@
+[/EN#248495/people A girl] with [/EN#248503/clothing a brown jacket] , [/EN#248498/clothing white shirt] with [/EN#248504/animals a black wolf] on [/EN#0/notvisual it] , [/EN#248500/clothing goggles] , and [/EN#248499/clothing blue gloves] on working with [/EN#248496/other test tubes] .
+[/EN#248495/people A young female student] , wearing [/EN#248498/clothing an owl t-shirt] , works on [/EN#248497/other an experiment] by filling [/EN#248501/other her test tubes] .
+[/EN#248495/people A girl] , wearing [/EN#248500/clothing safety goggles] and [/EN#248499/clothing blue rubber gloves] , is using [/EN#248501/other test tubes] .
+[/EN#248495/people A girl] wearing [/EN#248500/clothing goggles] is doing [/EN#248497/other an experiment] .
+[/EN#248495/people A woman] is using [/EN#248502/other various chemicals] .

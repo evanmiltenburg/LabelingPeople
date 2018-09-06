@@ -1,0 +1,5 @@
+[/EN#116184/people The man] is wearing [/EN#116188/clothing a red shirt] , while [/EN#116185/people the woman] standing with [/EN#0/notvisual him] has [/EN#116191/other purple streaks] in [/EN#116190/bodyparts her hair] .
+[/EN#116184/people A man] in [/EN#116188/clothing a red shirt] [/EN#0/notvisual that] says [/EN#116192/other ' Espana] ' and [/EN#116185/people a girl] with [/EN#116191/other purple streaks] in [/EN#116190/bodyparts her hair] are smiling .
+[/EN#116184/people A man] in [/EN#116188/clothing a red shirt] standing next to [/EN#116185/people a woman] in [/EN#116193/clothing a black shirt] with [/EN#116194/vehicles a car] in [/EN#0/notvisual the background] .
+[/EN#116184/people A man] with [/EN#116188/clothing a red Spain shirt] and [/EN#116185/people a woman] with [/EN#116191/other purple streaks] in [/EN#116190/bodyparts her hair] .
+[/EN#116184/people The man] and [/EN#116185/people lady] pose for [/EN#116195/other a picture] .

@@ -1,0 +1,5 @@
+[/EN#200670/people A man] steps off [/EN#200674/vehicles/scene a bus] carrying [/EN#200671/clothing a large bag] on [/EN#200673/bodyparts his shoulder] .
+[/EN#200670/people A boy] carries [/EN#200671/clothing a large bag] on [/EN#200672/bodyparts his head] from [/EN#200674/other a van] .
+[/EN#200670/people A young child] carries [/EN#200671/clothing a large bag] over [/EN#200672/bodyparts his head] .
+[/EN#200670/people Boy] carries [/EN#200671/clothing big white and red bag] from [/EN#200674/vehicles truck] .
+[/EN#200670/people A young man] carries [/EN#200671/clothing a large bag] .

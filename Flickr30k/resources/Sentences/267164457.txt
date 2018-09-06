@@ -1,0 +1,5 @@
+[/EN#65286/people There man] on top of [/EN#65287/scene an snow covered mountain] with [/EN#65288/scene a lake] behind [/EN#0/notvisual him] .
+[/EN#65286/people A man] climbs over [/EN#65287/other snow covered rocks] by [/EN#65291/scene a shore] .
+[/EN#65290/people A man] is standing on [/EN#65287/scene a snowcapped mountain] .
+[/EN#65286/people A person] hikes down [/EN#65287/scene a snowy mountain] .
+[/EN#65286/people A climber] walks along [/EN#65287/scene a snowy peak] .

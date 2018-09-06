@@ -1,0 +1,5 @@
+[/EN#275450/people A middle-aged couple] is happily opening [/EN#275453/other a white KitchenAid mixer] .
+[/EN#275450/people A couple] opening up [/EN#275453/other a new electronically mixer] .
+[/EN#275451/people A man] and [/EN#275452/people women] opening up [/EN#275453/other a KitchenAid mixer] .
+[/EN#275451/people A man] and [/EN#275452/people a woman] opening [/EN#275453/other a KitchenAid mixer] .
+[/EN#275452/people A woman] and [/EN#275451/people man] are opening [/EN#275453/other a mixer box] .

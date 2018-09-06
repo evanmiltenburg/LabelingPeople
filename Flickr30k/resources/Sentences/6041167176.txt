@@ -1,0 +1,5 @@
+[/EN#247011/people A man] walks through [/EN#247020/scene a clearing] and carries [/EN#247010/other a rifle] along [/EN#247019/other his back] , casually holding [/EN#0/notvisual it] by [/EN#247021/clothing the muzzle] .
+[/EN#247011/people This man] seems oblivious to [/EN#247014/animals the insects] hitching [/EN#247013/other a ride] on [/EN#0/notvisual him] and [/EN#247010/other his weapon] .
+[/EN#247011/people African soldier] carrying [/EN#247017/other a fly] covered [/EN#247010/other AK-47] over [/EN#247015/bodyparts his shoulder] .
+[/EN#247016/other A solider] in [/EN#247011/other fatigues] holds [/EN#247010/other a large gun] covered in [/EN#247014/animals insects] .
+[/EN#247011/people A soldier] carries [/EN#247010/other a gun] covered in [/EN#247014/animals bugs] on [/EN#247015/bodyparts his shoulder] .

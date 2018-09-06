@@ -1,0 +1,5 @@
+[/EN#96125/people A blond girl] with [/EN#96126/bodyparts a ponytail] and [/EN#96127/clothing white sweater] is sitting at [/EN#96128/other a desk] with [/EN#96129/other a laptop] , while looking down at [/EN#96130/scene the black binder] on [/EN#96135/bodyparts her lap] .
+[/EN#96125/people A woman] at [/EN#96128/other a desk] working on [/EN#96129/other a laptop] with [/EN#96130/scene a binder] in [/EN#96135/bodyparts her lap] .
+[/EN#96125/people A woman] working at [/EN#96129/other a laptop] referencing [/EN#96131/other documents] in [/EN#96130/scene a binder] on [/EN#96135/bodyparts her lap] .
+[/EN#96125/people A girl] in [/EN#96127/clothing a white sweater] and [/EN#96132/clothing blue jeans] typing [/EN#96133/other a paper] on [/EN#96129/other a laptop] .
+[/EN#96125/people A girl] reads off [/EN#96134/other her papers] while working on [/EN#96129/other her laptop] .

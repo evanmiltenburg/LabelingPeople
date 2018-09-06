@@ -1,0 +1,5 @@
+In [/EN#177836/clothing a black leather coat] , [/EN#177835/people a man] waiting for [/EN#177842/vehicles/scene the subway] to come [/EN#177843/other pauses] to look up from [/EN#177837/other his book] to check [/EN#177841/scene the oncoming track] .
+[/EN#177835/people Man] wearing [/EN#177838/clothing a hat] with [/EN#177840/other an NBA logo] and [/EN#177836/clothing a black leather jacket] reading [/EN#177837/other a book] while waiting for [/EN#177839/vehicles/scene the subway] .
+[/EN#177835/people A man] in [/EN#177836/clothing a leather jacket] and [/EN#177838/clothing ball cap] reading [/EN#177837/other a book] while waiting for [/EN#177839/vehicles/scene the train] .
+[/EN#177835/people A man] in [/EN#177836/clothing a leather jacket] and [/EN#177838/clothing hat] looking off into [/EN#0/notvisual the distance] .
+[/EN#177835/people Man] in [/EN#177836/clothing leather jacket] reading [/EN#177837/other a book] .

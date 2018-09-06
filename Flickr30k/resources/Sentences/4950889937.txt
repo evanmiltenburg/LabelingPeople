@@ -1,0 +1,5 @@
+[/EN#222405/people A woman] in [/EN#222411/clothing a gray kimono] walks past [/EN#222404/vehicles a black car] in [/EN#222402/other the middle of a crowded street full] of [/EN#222403/other Japanese signs] , with [/EN#222406/people a man] in [/EN#222412/clothing an orange shirt] and [/EN#222413/clothing khaki slacks] .
+[/EN#0/notvisual There] are [/EN#222409/people people] walking down [/EN#222401/scene a busy nighttime street] with [/EN#222403/other signs] lighting [/EN#222410/scene the way] .
+[/EN#222402/people A narrow street full of people] and [/EN#222404/vehicles a car] in [/EN#222407/scene an Asian city] .
+[/EN#222401/scene A busy street scene] in [/EN#222408/other an Asian community] .
+[/EN#222401/scene A busy Asian street] with [/EN#222403/other bright signs] .

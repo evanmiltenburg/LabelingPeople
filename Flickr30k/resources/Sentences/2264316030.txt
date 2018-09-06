@@ -1,0 +1,5 @@
+[/EN#37628/animals A brown and black dog] walks in [/EN#37631/scene the snow] with [/EN#37629/bodyparts its tongue] hanging out .
+[/EN#37628/animals A dog] with [/EN#37629/bodyparts its tongue] out walking in [/EN#37631/scene the snow] .
+[/EN#37628/animals A brown and black dog] walks in [/EN#37630/scene the white snow] .
+[/EN#37628/animals A brown dog] is running through [/EN#37630/scene snowy woodland] .
+[/EN#37628/animals A dog] runs around in [/EN#37632/other the snowy woods] .

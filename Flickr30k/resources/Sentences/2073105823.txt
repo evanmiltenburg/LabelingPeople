@@ -1,0 +1,5 @@
+[/EN#27017/people A man] in [/EN#27021/clothing a black hoodie] and [/EN#27022/clothing jeans] skateboards down [/EN#27018/other a railing] .
+[/EN#27017/people A person] walks down [/EN#27018/other the brick railing] near [/EN#27019/other a set of steps] .
+[/EN#27017/people A man] skateboards down [/EN#27018/other a steep railing] next to [/EN#27019/other some steps] .
+[/EN#27017/people a person] is sliding down [/EN#27018/other a brick rail] on [/EN#27020/other a snowboard] .
+[/EN#27017/people A snowboarder] rides down [/EN#27018/other a handrail] without [/EN#27023/scene snow] .

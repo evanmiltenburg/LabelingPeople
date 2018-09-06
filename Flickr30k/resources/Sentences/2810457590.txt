@@ -1,0 +1,5 @@
+[/EN#74303/people A man] on [/EN#74305/scene a stage] raising [/EN#74307/bodyparts his hand] and smiling .
+[/EN#74303/people A rock star] holding [/EN#74304/other a concert] with [/EN#74306/people his band] .
+[/EN#74302/people A band] is performing on [/EN#74305/scene a stage] .
+[/EN#74301/people People] setting up for [/EN#74302/people a band] .
+[/EN#0/notvisual There] is [/EN#74304/other a concert] going on .

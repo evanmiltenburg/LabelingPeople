@@ -1,0 +1,5 @@
+[/EN#116351/animals A dog] stands in [/EN#116352/scene deep snow] surrounded by [/EN#116353/other trees] .
+[/EN#116351/animals A brown and white dog] stands in [/EN#116352/scene the deep snow] .
+[/EN#116351/animals A dog] stands up to [/EN#116354/bodyparts his elbows] in [/EN#116352/scene snow] .
+[/EN#116351/animals A dog] in [/EN#116352/scene the snow] .
+[/EN#116351/animals Dog] sits in [/EN#116352/scene snow] .

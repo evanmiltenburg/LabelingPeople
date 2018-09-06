@@ -1,0 +1,5 @@
+[/EN#67671/animals A little gray dog] jumps over [/EN#67672/scene a bar] at [/EN#67674/other an agility test] .
+[/EN#67671/animals A small dog] jumping [/EN#67673/other an obstacle] in [/EN#67675/scene a grassy field] .
+[/EN#67671/animals A little gray dog] jumps over [/EN#67673/other a small hurdle] .
+[/EN#67671/animals A little gray dog] is jumping over [/EN#67672/scene a fence] .
+[/EN#67671/animals A small dog] jumping over [/EN#67673/other an obstacle] .

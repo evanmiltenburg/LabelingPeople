@@ -1,0 +1,5 @@
+[/EN#6333/people A woman] and [/EN#6334/people a young boy] sit on [/EN#6335/other a police motorcycle] and smile for [/EN#0/notvisual the camera] .
+[/EN#6333/people A woman] and [/EN#6334/people a child] are sitting on [/EN#6335/vehicles a motorized police vehicle] .
+[/EN#6333/people An adult] and [/EN#6334/people a child] sitting on [/EN#6335/other a police motorcycle] .
+[/EN#6333/people A woman] and [/EN#6334/people little boy] sits on [/EN#6335/other a police motorcycle] .
+[/EN#6333/people A woman] and [/EN#6334/people boy] sit on [/EN#6335/other a police motorcycle] .

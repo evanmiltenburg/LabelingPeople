@@ -1,0 +1,5 @@
+[/EN#239701/people A worker] in [/EN#239705/clothing a hard hat] is sitting on [/EN#239702/other a beam] in [/EN#0/notvisual what] appears to be [/EN#239703/scene an unfinished building] .
+[/EN#239701/people Male construction worker] wearing [/EN#239708/clothing overalls] while sitting on [/EN#239702/other a steel girder] .
+[/EN#239701/people A construction worker] is working on [/EN#239702/other a support beam] on [/EN#239703/scene a building] .
+[/EN#239701/people A man] in [/EN#239707/other construction] takes [/EN#239704/scene a break] while [/EN#0/notvisual he] looks at [/EN#239706/scene the view] .
+[/EN#239701/people A construction worker] works on [/EN#239702/other a metal structure] .

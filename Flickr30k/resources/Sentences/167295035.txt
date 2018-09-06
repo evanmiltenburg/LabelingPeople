@@ -1,0 +1,5 @@
+[/EN#18451/people A climber] wearing [/EN#18453/clothing a white helmet] is perched on [/EN#18456/bodyparts the side of a rock face] .
+[/EN#18451/people The man] in [/EN#18452/clothing a blue shirt] , wearing [/EN#18453/clothing a helmet] , is readying to climb .
+[/EN#18451/people a lone climber] wearing [/EN#18453/clothing a white helmet] climbing [/EN#18455/other a wall] .
+[/EN#18451/people A man] wearing [/EN#18452/clothing blue] climbs [/EN#18456/scene a steep cliff] .
+[/EN#18451/people The rock climber] looks down from [/EN#18454/other above] .

@@ -1,0 +1,5 @@
+[/EN#56243/people A group of various people] stand outside of [/EN#56245/scene a store] called " [/EN#56244/scene Central Market] . "
+[/EN#56243/people People] stand in [/EN#56246/scene the parking lot] in front of [/EN#56244/scene a Central Market] .
+[/EN#56243/people People] gathered in front of [/EN#56245/scene a store] named [/EN#56244/scene Central market] .
+[/EN#56243/people A group of people] stand outside of [/EN#56244/scene Central Market] .
+[/EN#56243/people People] stand outside of [/EN#56244/scene a market] .

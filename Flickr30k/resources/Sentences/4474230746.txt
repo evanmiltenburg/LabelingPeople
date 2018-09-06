@@ -1,0 +1,5 @@
+[/EN#171354/people A man] leans over near [/EN#171357/other a wall] with [/EN#171356/other graffiti] with [/EN#171355/other a can of paint] and [/EN#171359/other a brush] .
+[/EN#171354/people A man] in [/EN#171358/clothing blue jeans] paints [/EN#171356/other a mural] onto [/EN#0/notvisual a light blue background] .
+[/EN#171354/people A man] stand with [/EN#171355/other a can of paint] on [/EN#171361/scene the street] .
+[/EN#171354/people Someone] is painting [/EN#171357/other a wall] outside .
+[/EN#171354/people A man] in [/EN#171358/clothing jeans] painting [/EN#171357/other a wall] .

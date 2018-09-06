@@ -1,0 +1,5 @@
+[/EN#258426/people A man] and [/EN#258429/people a woman] are in [/EN#258427/vehicles/scene a small white boat] with [/EN#258433/other a red paddle] and [/EN#258432/other an outboard motor] in [/EN#258428/scene a body of water] on [/EN#258434/scene a sunny day] .
+[/EN#258426/people A man] in [/EN#258427/vehicles a cluttered motorboat] rows whilst [/EN#258429/people his female passenger] has [/EN#258431/other a look of disappointment] on [/EN#258438/bodyparts her face] .
+[/EN#258426/people A man] and [/EN#258429/people woman] are rowing [/EN#258427/vehicles/scene a white boat] named [/EN#258427/other La Chorriada II] in [/EN#258428/scene water] .
+[/EN#258426/people A man] and [/EN#258429/people a woman] are riding in [/EN#258427/vehicles/scene a boat] along with [/EN#258435/other several large items] .
+[/EN#258436/people two people] on [/EN#258427/vehicles/scene a small boat] in [/EN#258428/scene the middle of the ocean] .

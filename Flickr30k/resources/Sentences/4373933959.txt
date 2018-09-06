@@ -1,0 +1,5 @@
+[/EN#165293/people A crowd of people] in [/EN#165298/clothing winter garb] gather in [/EN#165294/scene the street] against [/EN#165297/other a backdrop of bare trees] and [/EN#165295/scene snow] .
+[/EN#165293/people People] are gathered in [/EN#165294/scene a street] , [/EN#0/notvisual there] is [/EN#165295/scene snow] on [/EN#0/notvisual the ground] .
+[/EN#165293/people A group of people] gather in [/EN#165294/scene a park] during [/EN#165296/other the winter] .
+[/EN#165293/people A large crowd of people] are in [/EN#165294/scene a park] during [/EN#165296/other winter] .
+[/EN#165293/people People] crowd [/EN#165294/scene a sidewalk] in [/EN#165296/other the cold] .

@@ -1,0 +1,5 @@
+[/EN#222304/people A group of colorfully dressed children] walk near [/EN#222306/scene a garden] bordered by [/EN#222310/scene ruins] .
+[/EN#222309/people Men] and [/EN#222305/people women] walking down [/EN#222307/scene a sidewalk] next to [/EN#222306/scene a garden] .
+[/EN#222305/people A group of women] holding [/EN#222308/bodyparts hands] walking down [/EN#222307/scene a street] .
+[/EN#222304/people Children] in [/EN#222311/clothing colorful clothing] are walking to [/EN#222312/other school] .
+[/EN#222305/people Two girls] walking holding [/EN#222308/bodyparts hands] .

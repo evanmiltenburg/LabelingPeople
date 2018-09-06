@@ -1,0 +1,5 @@
+[/EN#31307/animals A fluffy white dog] and [/EN#31308/animals two white sheep] smell [/EN#0/notvisual each other] .
+[/EN#31307/animals A white dog] is sniffing [/EN#31308/animals a sheep] through [/EN#31309/scene a fence] .
+[/EN#31307/animals White fluffy dog] kissing [/EN#31308/animals sheep] through [/EN#31309/scene a fence] .
+[/EN#31307/animals A white dog] sniffing [/EN#31308/animals sheep] through [/EN#31309/scene a fence] .
+[/EN#31307/animals A small white dog] inspects [/EN#31308/animals two sheep] .

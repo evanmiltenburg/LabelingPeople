@@ -1,0 +1,5 @@
+[/EN#252099/people A dirt biker] showing [/EN#252105/other his biking skills] on [/EN#252103/other an off road course] in [/EN#252102/other the woods] .
+[/EN#0/notvisual This] is [/EN#252099/people a man] riding [/EN#252100/vehicles an orange mountain bike] through [/EN#252101/scene a pine forest trail] .
+[/EN#252099/people A person] speeding through [/EN#252101/scene a heavily wooded trail] on [/EN#252100/vehicles a bicycle] .
+[/EN#252099/people A person] on [/EN#252100/vehicles a bicycle] is riding on [/EN#252101/scene a dirt road] in [/EN#252102/other the woods] .
+[/EN#252099/people A mountain biker] is riding down [/EN#252104/other a tree] lined [/EN#252101/scene path] .

@@ -1,0 +1,5 @@
+[/EN#111443/animals A black dog] is running behind [/EN#111444/animals a brown and white dog] across [/EN#111447/scene a low cut field] .
+[/EN#111444/animals A brown and white dog] runs through [/EN#111447/scene the grass] chased by [/EN#111443/animals a black dog] .
+[/EN#111443/animals A black dog] is chasing [/EN#111449/clothing a tan] and [/EN#111444/animals white dog] on [/EN#111448/scene a sunny day] .
+[/EN#111445/animals Two dogs] chase down [/EN#111447/scene a mowed grass field] .
+[/EN#111445/animals two dogs] running in [/EN#111447/scene grassy area]

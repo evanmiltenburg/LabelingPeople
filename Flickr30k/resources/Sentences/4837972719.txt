@@ -1,0 +1,5 @@
+[/EN#209324/people A girl] with [/EN#209325/clothing a red scarf] wrapped around [/EN#209329/bodyparts her neck] is walking down [/EN#209326/scene the road] carrying [/EN#209327/clothing a white bag] .
+[/EN#209324/people A woman] in [/EN#209328/clothing tan boots] and [/EN#209325/clothing a bright orange scarf] is walking down [/EN#209326/scene a cobblestone street] .
+[/EN#209324/people Women] with [/EN#209327/clothing a white shopping bag] wearing [/EN#209325/clothing a red scarf] walks through [/EN#209326/scene a corridor] .
+[/EN#209324/people A lady] in [/EN#209325/clothing a red scarf] is walking through [/EN#209326/scene the cobblestone streets] .
+[/EN#209324/people A woman] in [/EN#209325/clothing a red scarf] walking through [/EN#209330/other an entryway] on [/EN#209326/scene a street] .

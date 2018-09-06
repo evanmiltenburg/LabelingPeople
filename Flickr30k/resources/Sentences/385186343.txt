@@ -1,0 +1,5 @@
+[/EN#145667/animals A black dog] in [/EN#145668/clothing a pink sweater] is up on [/EN#145669/bodyparts his hind legs] in front of [/EN#145670/other a pink blanket] .
+[/EN#145667/animals a little puppy] wearing [/EN#145668/clothing a pink sweater] , jumps .
+[/EN#145667/animals A dog] on [/EN#145669/bodyparts two feet] wearing [/EN#145668/clothing a pink sweater] .
+[/EN#145667/animals The dog] is wearing [/EN#145668/clothing a pink sweater] .
+[/EN#145667/animals A dog] wears [/EN#145668/clothing a pink sweater] .

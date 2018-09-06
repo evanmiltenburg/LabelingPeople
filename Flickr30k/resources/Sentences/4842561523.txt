@@ -1,0 +1,5 @@
+[/EN#209761/people A man] in [/EN#209763/clothing a white t-shirt] is crossing [/EN#209762/scene the sidewalk] .
+[/EN#209761/people A man] in [/EN#209763/clothing a white shirt] walking down [/EN#209762/scene the sidewalk] .
+[/EN#209761/people Man] going into [/EN#209764/other a shallow , dark passageway] .
+[/EN#209761/people The person] in [/EN#209763/clothing white T-shirt] is walking .
+[/EN#209761/people A man] walks down [/EN#209762/scene a shady sidewalk] .

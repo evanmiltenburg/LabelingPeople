@@ -1,0 +1,5 @@
+[/EN#173095/people A young man] in [/EN#173099/clothing a white and pink striped shirt] is riding in [/EN#173097/animals a horse] and [/EN#173096/vehicles buggy] down [/EN#173098/scene a paved road] .
+[/EN#173095/people A man] in [/EN#173099/clothing a pink and white striped shirt] holding [/EN#173100/animals the reins of a horse] .
+[/EN#173095/people A man] is traveling down [/EN#173098/scene the street] in [/EN#173096/vehicles a vehicle] pulled by [/EN#173097/animals a horse] .
+[/EN#173095/people A man] conducts [/EN#173096/vehicles a horse-driven carriage] on [/EN#173098/scene a tree-lined avenue] .
+[/EN#173095/people A man] controlling [/EN#173096/vehicles a horse drawn carriage]

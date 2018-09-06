@@ -1,0 +1,5 @@
+[/EN#202839/people A man] in [/EN#202845/clothing yellow] rides [/EN#202841/vehicles a motocross bike] down [/EN#202842/scene a dirt track] in [/EN#202847/scene a forest] .
+[/EN#202839/people A dirt biker] with [/EN#202844/other number 625] is racing on [/EN#202842/other a course] .
+[/EN#202839/people A man] in [/EN#202843/clothing a helmet] does [/EN#0/notvisual a jump] on [/EN#202841/vehicles his bike] .
+[/EN#202839/people A dirt bike rider] rides off of [/EN#0/notvisual a jump] .
+[/EN#202839/people dirt bike racer]

@@ -1,0 +1,5 @@
+[/EN#138984/people Two people] are standing on [/EN#138983/scene sidewalk] in front of [/EN#138985/scene a large building] .
+[/EN#138981/people A man] crouches down and [/EN#138982/people a little girl] stops on [/EN#138983/scene the sidewalk] .
+[/EN#138981/people A man] is kneeling on [/EN#138983/scene the sidewalk] to talk to [/EN#138982/people a little girl] .
+[/EN#138981/people A man] crouches on [/EN#138983/scene the sidewalk] next to [/EN#138982/people a little girl] .
+[/EN#138981/people A man] bends down to speak to [/EN#138982/people a little girl] .

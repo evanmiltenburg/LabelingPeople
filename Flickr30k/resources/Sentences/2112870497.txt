@@ -1,0 +1,5 @@
+[/EN#29423/people A mother] walks with [/EN#29424/people her child] while crossing [/EN#29426/scene the street] and ingesting [/EN#29428/other food] .
+[/EN#29423/people A woman] and [/EN#29424/people a child] are standing in front of [/EN#29425/other a wall] with [/EN#29429/other graffiti] on [/EN#0/notvisual it] .
+[/EN#29423/people A woman] in [/EN#29430/clothing a red coat] stands with [/EN#29424/people a small child] on [/EN#29426/scene a street corner] .
+[/EN#29423/people A mother] and [/EN#29424/people daughter] standing in front of [/EN#29425/other a graffiti covered wall] .
+[/EN#29423/people Mother] and [/EN#29424/people daughter] walking through [/EN#29427/scene a city] .

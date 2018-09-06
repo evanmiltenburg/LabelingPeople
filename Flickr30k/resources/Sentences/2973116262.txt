@@ -1,0 +1,5 @@
+[/EN#84883/people A cowboy] wearing [/EN#84886/clothing a green short] sits on top of [/EN#84885/animals the white calf] [/EN#0/notvisual he] just roped at [/EN#84884/other the rodeo] .
+[/EN#84883/people A man] in [/EN#84886/clothing a green shirt] and [/EN#84889/clothing a cowboy hat] is wrangling [/EN#84885/animals a bull] as [/EN#84887/people the audience] looks on .
+[/EN#84883/people A man] in [/EN#84886/clothing green] is on top of [/EN#84885/animals an animal] while [/EN#84887/people spectators] watch at [/EN#84884/other a rodeo] .
+[/EN#84884/other A rodeo competition] where [/EN#84888/other the contest] is roping [/EN#84885/other calves] .
+[/EN#84883/people A man] in [/EN#84886/clothing a green shirt] roping [/EN#84885/animals a calf] in [/EN#84891/scene a rodeo arena] .

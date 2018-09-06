@@ -1,0 +1,5 @@
+[/EN#494/animals A mottled black and gray dog] in [/EN#497/clothing a blue collar] jumping over [/EN#495/other a fallen tree] .
+[/EN#494/animals A gray dog] is leaping over [/EN#495/other a fallen tree] .
+[/EN#494/animals A large black dog] leaps [/EN#495/other a fallen log] .
+[/EN#493/animals The black dog] jumped [/EN#495/other the tree stump] .
+[/EN#493/animals A black dog] leaps over [/EN#495/other a log] .

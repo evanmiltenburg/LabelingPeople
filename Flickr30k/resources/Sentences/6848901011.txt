@@ -1,0 +1,5 @@
+[/EN#259252/people A young waiter] in [/EN#259260/scene a bar] setting pours [/EN#259253/other a drink] from [/EN#259253/other a bottle] into [/EN#259253/other a cup] .
+[/EN#259252/people Person] dressed in [/EN#259252/clothing newspaper boy attire] pouring [/EN#259253/other drinks] .
+[/EN#259252/people A bartender] wearing [/EN#259257/clothing a hat] is pouring [/EN#259253/other a drink] .
+[/EN#259252/people A bartender] is laughing while mixing [/EN#259253/other drinks] .
+[/EN#259252/people A person] in [/EN#259252/other a newsboy getup] pours [/EN#259253/other a drink] .

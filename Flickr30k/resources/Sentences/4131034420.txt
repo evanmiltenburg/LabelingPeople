@@ -1,0 +1,5 @@
+[/EN#156553/people A man] wearing [/EN#156554/clothing a black shirt] , [/EN#156558/clothing khaki shorts] and [/EN#156559/clothing white tennis shoes] is holding [/EN#156555/other an object] .
+[/EN#156553/people A person] in [/EN#156554/clothing a black shirt] is unloading [/EN#156556/other items] from [/EN#156557/vehicles a truck] .
+[/EN#156552/people A person] is placing [/EN#156556/other an object] inside [/EN#156555/other a large container] .
+[/EN#156552/people A birds-eye view of a person] loading [/EN#156555/other a storage unit] .
+[/EN#156552/people Overhead view of man] loading [/EN#156556/other objects] into [/EN#156557/vehicles a truck]

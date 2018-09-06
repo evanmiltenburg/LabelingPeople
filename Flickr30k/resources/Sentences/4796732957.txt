@@ -1,0 +1,5 @@
+[/EN#203577/people A young man] wearing [/EN#203578/clothing a backpack] and [/EN#203580/clothing dark glasses] approaches [/EN#203579/scene the brick building] where [/EN#0/notvisual there] is [/EN#203581/other a bit of graffiti] on [/EN#203586/other the wall] .
+[/EN#203577/people a young man] wearing [/EN#203578/clothing a backpack] and [/EN#203580/clothing sunglasses] is walking towards [/EN#203582/scene a shopping area] .
+[/EN#203577/people A young man] in [/EN#203580/clothing blue sunglasses] walking in front of [/EN#203579/scene a red brick building] .
+[/EN#203577/people A young man] with [/EN#203578/clothing a backpack] and [/EN#203580/clothing blue sunglasses] is crossing [/EN#203583/scene the street] .
+[/EN#203577/people A man] dressed in [/EN#203584/clothing blue] is wearing [/EN#203578/clothing a backpack] and [/EN#203585/other shades] .

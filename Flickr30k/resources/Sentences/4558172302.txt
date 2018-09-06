@@ -1,0 +1,5 @@
+[/EN#178362/people Two people] are standing along [/EN#178364/scene the side of the road] looking into [/EN#0/notvisual the distance] .
+[/EN#178362/people Two people] standing next to [/EN#178368/scene a road] looking off [/EN#178367/scene a hill] .
+[/EN#178362/people A couple] is looking at [/EN#178363/scene a beautiful mountain scenery] .
+[/EN#178362/people Two humans] looking out in [/EN#0/notvisual the distance] from [/EN#178363/scene a hill] .
+[/EN#178366/people A man] and [/EN#178370/people woman] standing at [/EN#178363/scene a mountain overlook] .

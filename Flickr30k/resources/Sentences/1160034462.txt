@@ -1,0 +1,5 @@
+[/EN#4186/people White-haired man] in [/EN#4190/clothing gray sweater] and [/EN#4188/clothing a straw hat] sitting on [/EN#4187/other a bench] under [/EN#4189/other a tree] .
+[/EN#4186/people The old man] in [/EN#4188/clothing the brown hat] is sitting on [/EN#4187/other the bench] .
+[/EN#4186/people A elderly man] in [/EN#4188/clothing a straw hat] is sitting on [/EN#4187/other a bench] .
+[/EN#4186/people An old man] in [/EN#4188/clothing a straw hat] sits on [/EN#4187/other a park bench] .
+[/EN#4186/people a elderly man] sits alone on [/EN#4187/other a park bench] .

@@ -1,0 +1,5 @@
+[/EN#62226/people A toddler] in [/EN#62238/clothing a sesame street t-shirt] , and [/EN#62227/people an infant] , wearing [/EN#62239/clothing a shirt] with [/EN#62232/other a baseball] printed on , [/EN#62235/other play] with [/EN#62229/scene dirt] in [/EN#62234/scene a public park] .
+[/EN#62226/other A toddle] and [/EN#62227/people a baby] are playing with [/EN#62230/other leaves] and [/EN#62229/scene dirt outside] .
+[/EN#62228/people Two children] playing with [/EN#62230/other leaves] on [/EN#62236/other playground equipment] .
+[/EN#62226/people A toddler] and [/EN#62227/people a baby] play at [/EN#62236/scene the end of a slide] .
+[/EN#62228/people Two boys] are playing on [/EN#0/notvisual the ground] .

@@ -1,0 +1,5 @@
+[/EN#274385/animals a white dog] jumping in [/EN#274387/scene green grass] by [/EN#274388/other a brickwall] and [/EN#274386/scene a stream of water]
+[/EN#274385/animals A white dog] jumps on [/EN#274387/scene the green grass] next to [/EN#274388/scene a brick building] .
+[/EN#274385/animals A white dog] jumps from [/EN#274387/scene the grass] into [/EN#274386/scene water] from [/EN#274390/other a hose] .
+[/EN#274385/animals A white dog] is jumping up at [/EN#274386/scene a jet of water] .
+[/EN#274385/animals A dog] is jumping to play in [/EN#274386/scene the water]

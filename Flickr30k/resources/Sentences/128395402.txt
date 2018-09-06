@@ -1,0 +1,5 @@
+[/EN#7186/people A woman] on [/EN#7187/vehicles a blue bike] with [/EN#7193/clothing a pink helmet] rides by [/EN#7188/scene a public fountain] as [/EN#7196/other the sun] rises over [/EN#7192/scene an urban area] .
+[/EN#7186/people A woman] is riding [/EN#7187/vehicles her bike] past [/EN#7194/scene a water] fountain [/EN#7195/other display] .
+[/EN#7186/people A woman] in [/EN#7191/clothing a light blue jacket] is riding [/EN#7187/vehicles a bike] .
+[/EN#7186/people A woman] is riding [/EN#7187/vehicles a bicycle] on [/EN#7188/scene the pavement] .
+[/EN#7186/people A girl] rides [/EN#7187/vehicles a bike] down [/EN#7188/scene a city sidewalk] .

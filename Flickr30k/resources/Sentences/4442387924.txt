@@ -1,0 +1,5 @@
+[/EN#168605/people A middle-aged man] is mowing [/EN#168606/scene the lawn] while striking [/EN#168609/other a pose] in [/EN#168613/clothing his green shirt] and [/EN#168614/clothing blue jeans] .
+[/EN#168605/people A person] is mowing [/EN#168606/scene the lawn] while holding [/EN#168610/bodyparts/people his right arm] up in [/EN#0/notvisual the air] .
+[/EN#168605/people A man] excitedly pushing in [/EN#168607/other lawn mower] in [/EN#168606/scene the backyard of a house] .
+[/EN#168605/people Man] shows excitement for running over [/EN#168612/other things] with [/EN#168607/other the lawn mower] .
+[/EN#168605/people A man] holds up [/EN#168608/bodyparts a clenched fist] while posing with [/EN#168607/other a lawn mower] .

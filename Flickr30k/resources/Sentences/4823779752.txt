@@ -1,0 +1,5 @@
+[/EN#207354/people A man] in [/EN#207360/clothing a white cap] and [/EN#207361/clothing shirt] plays [/EN#207357/instruments the violin] with [/EN#207359/people other street performers] .
+[/EN#207354/people A man] playing [/EN#207357/instruments a violin] is in front of [/EN#207356/people another man] playing [/EN#207355/instruments the accordion] .
+[/EN#207354/people Man] playing [/EN#207357/instruments the violin] [/EN#207356/people another man] playing [/EN#207355/instruments the accordion] .
+[/EN#207354/people A group of musician] are entertaining [/EN#207362/other the community] .
+[/EN#207354/people A Caucasian male] is playing [/EN#207357/instruments the violin] .

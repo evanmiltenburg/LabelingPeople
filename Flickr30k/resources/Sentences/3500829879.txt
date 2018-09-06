@@ -1,0 +1,5 @@
+[/EN#123089/people a loan motorcyclist] riding [/EN#123090/other a red motorcycle] on [/EN#123090/other a racetrack]
+[/EN#123089/people Number 75 motorcycle racer] rides [/EN#123090/vehicles his red and black bike] .
+[/EN#123089/people A person] in [/EN#123094/other protective gear] riding [/EN#123090/vehicles a matching motorbike] .
+[/EN#123089/people A man] is leaning on [/EN#123090/other a racing motorcycle] .
+[/EN#123090/other An overhead view of a racing motorcycle] .

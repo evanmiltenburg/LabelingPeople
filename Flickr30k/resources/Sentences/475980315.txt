@@ -1,0 +1,5 @@
+[/EN#199834/animals A white dog] retrieves [/EN#199836/other the stick] from [/EN#199835/scene the lake] for [/EN#199837/people her owner] .
+[/EN#199834/animals A white dog] fetches [/EN#199836/other a stick] as [/EN#0/notvisual he] swims in [/EN#199835/scene a lake]
+[/EN#199834/animals A white dog] holds [/EN#199836/other a stick] while swimming .
+[/EN#199834/animals White dog] retrieving [/EN#199836/other stick] from [/EN#199835/scene water]
+[/EN#199834/animals A white dog] swims with [/EN#199836/other a stick] .

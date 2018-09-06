@@ -1,0 +1,5 @@
+[/EN#192780/people A girl] stands up straight on [/EN#192782/scene a sloping street] in front of [/EN#192783/other a brick wall] .
+[/EN#192780/people A young woman] is standing on [/EN#192781/other a slope] , facing [/EN#192785/other the top of the slope] .
+[/EN#192780/people A woman] standing on [/EN#192782/scene the side of a very inclined road] .
+[/EN#192780/people The young woman] stopped and stood midway up [/EN#192782/scene the ramp] .
+[/EN#192780/people A woman] standing on [/EN#192781/other an incline] with [/EN#192784/clothing a red bag] .

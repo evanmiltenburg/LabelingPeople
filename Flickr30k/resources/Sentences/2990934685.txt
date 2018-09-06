@@ -1,0 +1,5 @@
+[/EN#85888/people A little boy] in [/EN#85889/clothing a blue hoodie] is spinning [/EN#85890/other the handle of a crank operated machine] .
+[/EN#85888/people A cute boy] is turning [/EN#0/notvisual the handle of what] looks to be [/EN#85890/other a giant drill statue] .
+[/EN#85888/people Toddler] in [/EN#85889/clothing blue jacket] poses holding [/EN#85893/scene handle of large metal bore] .
+[/EN#85888/people A small child] wearing [/EN#85889/clothing a blue jacket] playing with [/EN#85891/other a water gadget] .
+[/EN#85894/other Uh oh] . Looks like [/EN#85888/people baby] threw [/EN#85895/other something] in [/EN#85896/scene the water]

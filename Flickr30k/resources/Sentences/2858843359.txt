@@ -1,0 +1,5 @@
+[/EN#77240/people A overweight male] is playing [/EN#77243/instruments electric guitar] while wearing [/EN#77244/clothing a white hat] .
+[/EN#77240/people A man] wearing [/EN#77244/clothing a hat] and [/EN#77242/clothing glasses] is playing [/EN#77243/instruments an electric guitar] .
+[/EN#77240/people A man] playing [/EN#77243/instruments an electric guitar] in [/EN#77246/scene a concert-like setting] .
+[/EN#77240/people A man] is playing [/EN#77243/instruments his guitar] and wearing [/EN#77242/clothing glasses] .
+[/EN#77240/people A man] in [/EN#77241/clothing a black shirt] is playing [/EN#77243/instruments the guitar] .

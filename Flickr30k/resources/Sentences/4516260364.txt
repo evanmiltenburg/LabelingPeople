@@ -1,0 +1,5 @@
+[/EN#174823/people A woman] , with [/EN#174825/other a drink] in [/EN#174828/bodyparts hand] , is leaning against [/EN#174824/vehicles a silver car] parked along [/EN#174829/scene the street] , while looking at [/EN#0/notvisual the camera] .
+[/EN#174823/people A woman] in [/EN#174826/clothing a red jacket] is having [/EN#174825/other a drink] on [/EN#174827/vehicles the hood of a car] .
+[/EN#174823/people A woman] is standing next to [/EN#174824/vehicles a car] drinking [/EN#174825/other a soda] .
+[/EN#174823/people Woman] in [/EN#174826/clothing red coat] leaning against [/EN#174824/vehicles a car] .
+[/EN#174823/people a woman] in [/EN#174826/clothing a red coat] drinking [/EN#174825/other coffee] .

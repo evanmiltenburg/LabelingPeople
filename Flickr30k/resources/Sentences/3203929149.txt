@@ -1,0 +1,5 @@
+[/EN#100821/people A man] with [/EN#100823/clothing a bag] walking along [/EN#100822/scene a stone street] in front of [/EN#100825/scene an old looking building] with [/EN#100826/other blue pillars] .
+[/EN#100821/people The man] in [/EN#100824/clothing the black jacket] is walking past [/EN#100827/scene the dilapidated doorways] .
+[/EN#100821/people A man] walking on [/EN#100822/scene the sidewalk] , passing [/EN#100828/other three doors] .
+[/EN#100821/people A man] is walking down [/EN#100822/scene a deserted street] .
+[/EN#100821/people A man] walks on [/EN#100822/scene the street] .

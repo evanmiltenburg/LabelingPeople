@@ -1,0 +1,5 @@
+[/EN#16473/people Some people] are jogging on [/EN#16474/scene an outdoor track] in [/EN#16477/scene the dark] .
+[/EN#16473/people Two people] are running on [/EN#16474/scene a light blue track] at [/EN#16476/scene sunset] .
+[/EN#16473/people Two people] are jogging around [/EN#16474/scene a blue track] at [/EN#16479/other dusk] .
+[/EN#16473/people Someone] is running on [/EN#16474/scene a track] at [/EN#16476/scene sunset] .
+[/EN#16473/people Two people] running [/EN#16474/scene track] at [/EN#16475/scene night] .

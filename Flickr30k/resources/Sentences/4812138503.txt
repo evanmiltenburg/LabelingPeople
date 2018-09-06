@@ -1,0 +1,5 @@
+[/EN#205705/people A person] with [/EN#205713/bodyparts dark hair] is standing on [/EN#205707/scene the sidewalk] in front of [/EN#205712/clothing an orange] and [/EN#205709/vehicles white truck] .
+[/EN#205705/people A man] in [/EN#205710/clothing a green and black coat] is leaning on [/EN#205706/other trashcan] .
+[/EN#205705/people A man] in [/EN#205710/clothing a blue coat] stands on [/EN#205707/scene the street] near [/EN#205708/vehicles buses] .
+[/EN#205705/people Person] standing on [/EN#205707/scene sidewalk] next to [/EN#205706/other pile of garbage] .
+[/EN#205705/people A person] is leaning against [/EN#205706/other a box] .

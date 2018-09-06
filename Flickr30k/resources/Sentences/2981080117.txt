@@ -1,0 +1,5 @@
+[/EN#85368/people A man] standing outside of [/EN#85369/other a safety control chamber] , dressed in [/EN#85370/clothing an orange suit] , [/EN#85374/clothing black pants] , and [/EN#85375/clothing gray gloves] .
+[/EN#85368/people A man] in [/EN#85373/clothing a hard hat] wearing [/EN#85370/clothing an orange safety vest] , standing next to [/EN#85372/scene a building] .
+[/EN#85368/people Construction crew] awaits [/EN#85376/other passage] through [/EN#85377/scene the gates of a construction site] .
+[/EN#85368/people A man] in [/EN#85370/clothing a orange jacket] stands against [/EN#85378/other the wall] .
+[/EN#85369/other a large yellow electrical box] .

@@ -1,0 +1,5 @@
+[/EN#13639/people A man] is standing in [/EN#13640/scene the doorway of a building] containing [/EN#13641/other a garage door] painted with " [/EN#13644/other No Parking] . "
+[/EN#13639/people A man] in [/EN#13642/clothing a gray t-shirt] and [/EN#13643/clothing jeans] standing in [/EN#13640/scene the doorway] next to [/EN#13641/scene a graffiti-covered garage] .
+[/EN#13639/people A man] is standing in [/EN#13640/scene a doorway] in [/EN#13645/scene the city] , near [/EN#13641/other a garage door] covered with [/EN#13641/other graffiti] .
+[/EN#13639/people A man] wearing [/EN#13643/clothing jeans] and [/EN#13642/clothing a gray shirt] standing behind [/EN#13647/other a spray painted brick wall] .
+[/EN#13639/people A man] in [/EN#13643/clothing jeans] and [/EN#13642/clothing gray t-shirt] stands hidden in [/EN#13640/scene a doorway] .

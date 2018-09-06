@@ -1,0 +1,5 @@
+[/EN#221435/people A man] with [/EN#221438/clothing a red hat , blue shirt] , and [/EN#221439/clothing glasses] is grilling [/EN#221442/other meat] and [/EN#221436/other asparagus] .
+[/EN#0/notvisual There] is [/EN#221435/people a guy] barbecuing and [/EN#0/notvisual he] is wearing [/EN#221439/clothing glasses] and [/EN#221438/clothing a red hat] .
+[/EN#221435/other An Asian man barbecues meat] on [/EN#221441/scene a charcoal grill outside] .
+[/EN#221435/people A guy] enjoying [/EN#221444/scene the day] , having [/EN#221440/other a barbecue] .
+[/EN#221435/people Man] barbecuing [/EN#221443/scene meat outside] .

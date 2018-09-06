@@ -1,0 +1,5 @@
+[/EN#194191/people A man] in [/EN#194196/clothing blue jeans] and [/EN#194195/clothing a white shirt] walks along [/EN#194192/scene a dirty street] in front of [/EN#194193/other fencing] [/EN#0/notvisual that] is covered in [/EN#194194/other posters] and [/EN#194197/other graffiti] .
+[/EN#194191/people A man] walking down [/EN#194192/scene a dirty street] in front of [/EN#194198/scene a building] [/EN#0/notvisual that] has [/EN#194199/other graffiti] and [/EN#194194/other posters] on [/EN#0/notvisual it] .
+[/EN#194191/people A man] wearing [/EN#194195/clothing a white shirt] and [/EN#194196/clothing jeans] is walking by looking at [/EN#194194/other a large advertisement poster] .
+[/EN#194191/people A man] in [/EN#194195/clothing a white shirt] and [/EN#194196/clothing jeans] is walking in front of [/EN#194193/other a graffiti covered wall] .
+[/EN#194191/people A man] walks [/EN#194197/other past weathered posters] on [/EN#194192/scene urban street] .

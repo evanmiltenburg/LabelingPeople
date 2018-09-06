@@ -1,0 +1,5 @@
+[/EN#225639/people A man] with [/EN#225642/clothing a green t-shirt] and [/EN#225649/bodyparts beard] is carrying [/EN#225641/clothing a backpack] while standing next to [/EN#225640/people a woman] wearing [/EN#225647/clothing a white sleeveless blouse] and [/EN#225646/clothing a purse] .
+[/EN#225640/people Woman] in [/EN#225647/clothing pink and green tank top] listens to [/EN#225639/people a man] in [/EN#225642/clothing green] carrying [/EN#225641/clothing a blue backpack] .
+[/EN#225639/people A man] in [/EN#225642/clothing a green shirt] inside [/EN#225643/scene a large building] .
+[/EN#225640/people Female] looking at [/EN#225639/people male] while [/EN#225639/people male] looks away .
+[/EN#225644/people A couple of travelers] in [/EN#225643/scene a train station] .

@@ -1,0 +1,5 @@
+[/EN#154928/people A man] shovels [/EN#154929/scene snow] while standing between [/EN#154930/vehicles two black trucks] .
+[/EN#154928/people A man] shoveling [/EN#154929/scene snow] from [/EN#154932/scene a driveway] between [/EN#154930/vehicles vehicles] .
+[/EN#154928/people A man] is shoveling [/EN#154929/scene snow] between [/EN#154930/vehicles two pickup trucks] .
+[/EN#154928/people A man] shovels [/EN#154929/scene snow] between [/EN#154930/vehicles two black vehicles] .
+[/EN#154928/people A man] shoveling [/EN#154929/scene snow] between [/EN#154930/vehicles two vehicles] .

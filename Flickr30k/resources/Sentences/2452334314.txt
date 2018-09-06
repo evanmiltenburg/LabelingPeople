@@ -1,0 +1,5 @@
+[/EN#50682/people A show jumper] wearing [/EN#50683/clothing a blue helmet] rides [/EN#50684/animals a white horse] over [/EN#50685/scene wooden fence] [/EN#0/notvisual that] is decorated with [/EN#50686/other red and yellow flowers] .
+[/EN#50682/people A rider] on [/EN#50684/animals a white horse] is in [/EN#0/notvisual the middle of a jump] over [/EN#50687/other a hurdle] .
+[/EN#50682/people The rider] is practicing [/EN#0/notvisual jumps] on [/EN#50684/animals a beautiful white horse] .
+[/EN#50684/animals An equestrian and horse] make [/EN#0/notvisual a jump] on [/EN#50688/other a course] .
+[/EN#50684/animals White horse] with [/EN#50682/people jockey] jumps [/EN#50687/other a barrier]

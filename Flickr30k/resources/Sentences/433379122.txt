@@ -1,0 +1,5 @@
+[/EN#163723/scene A bright market] in [/EN#163727/scene a far eastern country] is displayed with [/EN#163725/vehicles a line of bikes] while [/EN#163726/people people] walk by .
+[/EN#163724/other A busy marketplace] with [/EN#163728/other a yellow sign] on [/EN#163730/scene the left] and [/EN#163726/people many people] and [/EN#163725/vehicles bikes] on [/EN#163731/scene the right] .
+[/EN#163725/vehicles A row of bikes] and [/EN#163726/people people] inside [/EN#163723/scene a shopping center] .
+[/EN#163724/other An Asian storefront] with [/EN#163725/vehicles bikes] and [/EN#163726/people people] walking .
+[/EN#163725/vehicles Many bikes] are parked next to [/EN#0/notvisual one another] .

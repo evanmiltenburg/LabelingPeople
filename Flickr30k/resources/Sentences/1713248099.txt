@@ -1,0 +1,5 @@
+[/EN#19267/animals A brown dog] , [/EN#19268/animals a black dog] and [/EN#19269/animals a black and white dog] are in [/EN#19271/scene a grassy field]
+[/EN#19269/animals A white and black dog] , [/EN#19267/animals a yellow dog] and [/EN#19268/animals a black dog] in [/EN#19271/scene a grassy field] .
+[/EN#19268/animals Black dog] , [/EN#19267/animals orange dog] and [/EN#19269/animals black and white dog] , on [/EN#19271/scene grass] .
+[/EN#19270/animals three multicolored dogs] standing in [/EN#19271/scene a grassy field]
+[/EN#19270/animals Three dogs] are running through [/EN#19271/scene a grassy field] .

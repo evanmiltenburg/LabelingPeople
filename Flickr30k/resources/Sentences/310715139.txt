@@ -1,0 +1,5 @@
+[/EN#94072/animals A small dog] is jumping on [/EN#94073/scene the dirt] in front of [/EN#94075/scene some water]
+[/EN#94072/animals A furry white dog] playing in [/EN#94074/other the sand] .
+[/EN#94072/animals A muddy dog] runs next to [/EN#94075/scene water] .
+[/EN#94072/animals Dog] on [/EN#94074/other a rock] next to [/EN#94075/scene water] .
+[/EN#94072/animals A dog] jumping at [/EN#94073/scene the beach] .

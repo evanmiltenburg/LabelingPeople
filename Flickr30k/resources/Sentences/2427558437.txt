@@ -1,0 +1,5 @@
+[/EN#48670/animals A large brown dog] and [/EN#48674/animals a small brown dog] are standing near [/EN#0/notvisual each other] beside [/EN#48673/scene a body of water] .
+[/EN#48670/animals A big dog] and [/EN#48674/animals a little dog] stand near [/EN#0/notvisual each other] near [/EN#48673/scene the water] .
+[/EN#48671/animals Two brown dogs] together standing on [/EN#48672/scene the bank of a lake] .
+[/EN#48671/animals The two dogs] are walking past [/EN#0/notvisual each other] on [/EN#48672/scene a beach]
+[/EN#48671/animals Two dogs] pass [/EN#0/notvisual each other] near [/EN#48673/scene some water] .

@@ -1,0 +1,5 @@
+[/EN#265739/people A man] on [/EN#265741/other a skateboard] ollies down [/EN#265743/scene a small flight of stairs] connect to [/EN#265740/other a brown brick] and [/EN#265745/scene green tile building] .
+[/EN#265739/people A male skateboarder] skates off [/EN#265740/other the steps] to make [/EN#265744/other a trick move] for [/EN#0/notvisual the camera] .
+[/EN#265739/people A man] in [/EN#265747/clothing shorts] and [/EN#265742/clothing T-shirt] is skateboarding in [/EN#265746/scene midair] down [/EN#265740/other concrete stairs] .
+[/EN#265739/people An adolescent boy] is skating off [/EN#265740/other the top of five stairs] .
+[/EN#265739/people A kid] on [/EN#265741/other a skateboard] jumps [/EN#265740/scene a small flight of stairs] .

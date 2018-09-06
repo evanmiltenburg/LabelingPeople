@@ -1,0 +1,5 @@
+[/EN#261008/people A man] in [/EN#261010/clothing a red and black checked shirt] and [/EN#261011/clothing gray pants] jumping into [/EN#261009/scene a lake] .
+[/EN#261008/people A skinny boy] flocking in [/EN#261009/scene dirty water] wearing [/EN#261011/clothing his skinny pants] .
+[/EN#261008/people A male photographer] with [/EN#261010/clothing a plaid shirt] is jumping on [/EN#261009/scene water] .
+[/EN#261008/people A barefooted man] with [/EN#261012/other a camera] jumps out of [/EN#261009/scene a lake] .
+[/EN#261008/people A man] is jumping in [/EN#261009/scene water] in [/EN#261010/clothing a plaid shirt] .

@@ -1,0 +1,5 @@
+[/EN#101292/people A young Asian woman] wearing [/EN#101293/clothing a mask] drives [/EN#101294/vehicles a scooter] in [/EN#101299/scene a crowded street] , with [/EN#101295/people a young man] sitting behind [/EN#0/notvisual her] .
+[/EN#101296/people women] ( wearing [/EN#101293/clothing scarf] ) driving [/EN#101294/vehicles motorized scooter] and [/EN#101295/people man] ( in [/EN#101301/other the backseat] ) riding in [/EN#101299/scene the busy streets] .
+[/EN#101296/people A young woman] in [/EN#101297/clothing a plaid jacket] and [/EN#101293/clothing face mask] drives [/EN#101295/people a passenger] on [/EN#101294/vehicles a scooter] .
+[/EN#101298/people An oriental couple] riding [/EN#101294/vehicles a motor scooter] .
+[/EN#101298/people Two people] are commuting on [/EN#101294/vehicles a scooter] .

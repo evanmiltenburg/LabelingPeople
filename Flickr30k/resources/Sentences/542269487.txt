@@ -1,0 +1,5 @@
+[/EN#236194/people Two women] jogging down [/EN#236198/scene a sidewalk] in front of [/EN#236197/people a person] leaning on [/EN#236195/other a bench] in front of [/EN#236196/scene a lake] . with [/EN#236197/people another person]
+[/EN#236194/people Two people] wearing [/EN#236206/clothing blue] are jogging on [/EN#236198/scene a sidewalk] in front of [/EN#236196/scene a lake] with [/EN#236205/scene mountains] in [/EN#236201/other the backround] .
+[/EN#236200/people A man] and [/EN#236203/people a woman] in [/EN#236204/other blue jog] on [/EN#236198/scene the sidewalk] while [/EN#236197/people a man] stretches on [/EN#236195/other a park bench] .
+[/EN#236194/people Two ladies] jogging on [/EN#236198/scene a path] near [/EN#236196/scene the waterfront] .
+[/EN#236194/people An older couple] jogging by [/EN#236196/scene the water]

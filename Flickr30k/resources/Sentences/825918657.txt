@@ -1,0 +1,5 @@
+[/EN#280902/animals A brown and white dog] with [/EN#280903/other a pink Frisbee] in [/EN#280906/bodyparts its mouth] leaps through [/EN#0/notvisual the air] next to [/EN#280905/people a young man] in [/EN#280907/clothing a knit cap] .
+[/EN#280902/animals A brown and white dog] with [/EN#280903/other a pink Frisbee] in [/EN#280906/bodyparts its mouth] is humping over [/EN#280905/other a man 's back] .
+[/EN#280902/animals Dog] jumps over [/EN#280904/people a man] and catches [/EN#280903/other a Frisbee] in [/EN#280906/bodyparts his mouth] .
+[/EN#280902/animals a dog] with [/EN#280903/other a Frisbee] in [/EN#280906/bodyparts its mouth] , jumps over [/EN#280904/people a man] .
+[/EN#280902/animals A dog] catches [/EN#280903/other a pink Frisbee] .

@@ -1,0 +1,5 @@
+[/EN#22039/people 2 men] running in [/EN#22043/clothing warm clothing] , while [/EN#22041/people another man] is biking on [/EN#22040/scene a pier] in [/EN#22044/other the stormy] looking [/EN#22048/other weather] .
+[/EN#22039/people Two people] are running from [/EN#22046/other something] while [/EN#22041/people a person] is riding [/EN#22049/vehicles a bike] .
+[/EN#22039/people Two men] wearing [/EN#22042/clothing tan] are running outside on [/EN#22040/scene the boardwalk] .
+[/EN#22039/people Two men] with [/EN#22045/clothing bags] run in [/EN#0/notvisual the same direction] .
+[/EN#22039/people Two males] are running in [/EN#22040/scene an uncrowded area] .

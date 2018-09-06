@@ -1,0 +1,5 @@
+[/EN#155269/people An elderly man] with [/EN#155273/clothing a multicolored bag] is reaching for [/EN#155274/bodyparts an elderly woman 's hand] .
+[/EN#155271/people One old couple] with [/EN#155279/clothing their winter jackets] standing in front of [/EN#155272/scene a shopping mall] .
+[/EN#155269/people A man] is offering [/EN#155270/people his wife] [/EN#155276/bodyparts his hand] to help [/EN#0/notvisual her] cross [/EN#155275/scene the street] .
+[/EN#155271/people Old couple] with [/EN#155273/clothing shopping bags] outside of [/EN#155280/other storefront] .
+[/EN#155269/people An old man] and [/EN#155270/people woman] stand in front of [/EN#155272/scene a shop] .

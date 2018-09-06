@@ -1,0 +1,5 @@
+[/EN#32247/animals A brown dog] is in [/EN#32252/other the middle of a line] of [/EN#32248/animals dogs] chasing [/EN#32249/other a dirty tennis ball] over [/EN#32250/scene dirt] .
+[/EN#32248/animals two white dogs] and [/EN#32247/animals one brown dog] jumping through [/EN#32250/scene the dirt] after [/EN#32249/other a tennis ball] .
+[/EN#0/notvisual There] are [/EN#32248/animals two white dogs] and [/EN#32247/animals one brown dog] chasing [/EN#32249/other a ball] .
+[/EN#32247/animals A brown dog] and [/EN#32248/animals two white dogs] are bounding after [/EN#32249/other a ball] .
+[/EN#32248/animals Two white dogs] are playing with [/EN#32247/animals a brown dog] and [/EN#32249/other a ball] .

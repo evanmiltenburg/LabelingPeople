@@ -1,0 +1,5 @@
+[/EN#83993/people A young girl] in [/EN#83994/clothing a red jacket] and [/EN#83995/people a man] in [/EN#83996/clothing a blue and white shirt] are watching [/EN#83997/people a woman] in [/EN#83998/clothing black] [/EN#0/notvisual who] is holding [/EN#83999/other a white object] in [/EN#84000/bodyparts her hands] .
+[/EN#83995/people A man] and [/EN#83993/people a child] in [/EN#84001/other a red jacket stare] at [/EN#83997/people a woman] using [/EN#83999/other a device] .
+[/EN#83993/people A young girl] in [/EN#83994/clothing a red top] is looking at [/EN#83997/people a woman] in [/EN#83998/clothing a black jacket] .
+[/EN#83995/people Man] and [/EN#83993/people a child] at [/EN#84004/scene an exhibit booth] looking at [/EN#83999/other something] .
+[/EN#84002/people People] surrounding [/EN#84003/other a table] looking at [/EN#83999/other something] .

@@ -1,0 +1,5 @@
+[/EN#198802/people Brown-haired girl] wearing [/EN#198804/clothing a green tank top] , talking on [/EN#198803/other a cellphone] .
+[/EN#198802/people A woman] in [/EN#198804/clothing a tank top] , walks through [/EN#198805/scene a market] on [/EN#198803/other her cellphone] .
+[/EN#198802/people A woman] in [/EN#198804/clothing a green-patterned shirt] is talking on [/EN#198803/other a cellphone] .
+[/EN#198802/people A girl] in [/EN#198804/clothing a green shirt] talking on [/EN#198803/other a cellphone] .
+[/EN#198802/people Young woman] in [/EN#198805/scene market] talking on [/EN#198803/other cellphone] .

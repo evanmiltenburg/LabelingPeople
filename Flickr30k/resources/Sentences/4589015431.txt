@@ -1,0 +1,5 @@
+[/EN#180860/people A senior citizen] wearing [/EN#180863/clothing a blue jacket] and [/EN#180862/clothing cap] stands in front of [/EN#180861/scene a GNC building] .
+[/EN#180860/people A man] wearing [/EN#180862/clothing a blue hat] and [/EN#180863/clothing a blue jacket] standing on [/EN#180864/scene the sidewalk] .
+[/EN#180860/people An older man] stands in front of [/EN#180861/scene a vitamin store] .
+[/EN#180860/people A man] with [/EN#180861/scene a GNC store] in [/EN#0/notvisual the background] .
+[/EN#180860/people An older man] on [/EN#180864/scene a street corner] .

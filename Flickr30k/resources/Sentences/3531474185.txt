@@ -1,0 +1,5 @@
+[/EN#125265/people A man] is biking down [/EN#125268/scene the street] while holding [/EN#125267/other a ladder] , off to [/EN#0/notvisual the side] , [/EN#125273/people a man] is carrying [/EN#125272/other a large bucket] and [/EN#125279/other two sticks] .
+[/EN#125269/people Men] are riding [/EN#125275/vehicles bicycles] while trying to carry [/EN#125267/other items] at [/EN#125278/other the same time] in front of [/EN#125270/scene a blue building] with [/EN#125277/other red trim] .
+[/EN#125265/people Man] wearing [/EN#125280/clothing jeans] and [/EN#125281/clothing black shirt] rides down [/EN#125268/scene the road] on [/EN#125266/vehicles a bike] carrying [/EN#125267/other a ladder] .
+[/EN#125265/people A man] carrying [/EN#125267/other a ladder] rides [/EN#125266/vehicles his bike] on [/EN#125268/scene the street] .
+[/EN#125265/people one cyclist] carrying [/EN#125267/other a ladder] to [/EN#125270/scene the shop]

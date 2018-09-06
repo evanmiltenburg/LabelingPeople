@@ -1,0 +1,5 @@
+[/EN#19278/people Child] standing in [/EN#19281/scene a snowy landscape] pulling down [/EN#19280/other a snow-covered tree branch] .
+[/EN#19278/people A boy] in [/EN#19279/clothing a red jacket] smacks [/EN#19280/other a snow covered tree] with [/EN#19282/other a stick] .
+[/EN#19278/people A person] in [/EN#19279/clothing a red jacket] stands under [/EN#19280/other a snow-covered tree] .
+[/EN#19278/people A child] stands underneath [/EN#19280/other a snow-covered tree] .
+[/EN#19278/people A little boy] shakes [/EN#19280/scene the snow] off of [/EN#19280/other a tree] .

@@ -1,0 +1,5 @@
+[/EN#123155/animals/people A German Shepherd] jumps off of [/EN#123156/other a set of stairs] .
+[/EN#123157/people A woman] watches [/EN#123155/animals a dog] jump down [/EN#123156/other the stairs] .
+[/EN#123155/animals/people The German shepherd] leaps off [/EN#123156/other the stairs] .
+[/EN#123155/animals A dog] jumps down [/EN#123156/scene a flight of stairs] .
+[/EN#123155/animals A dog] is jumping down [/EN#123156/other the stairs] .

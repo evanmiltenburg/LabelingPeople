@@ -1,0 +1,5 @@
+[/EN#59243/people A man] , wearing [/EN#59244/clothing a blue shirt] , is wearing [/EN#59246/clothing headphones] and working with [/EN#59245/other sound equipment] .
+[/EN#0/notvisual There] is [/EN#59243/people a person] wearing [/EN#59244/clothing a blue shirt] and [/EN#59246/clothing headphones] operating [/EN#59245/people a record player] .
+[/EN#59243/people A young man] in [/EN#59244/clothing a blue shirt] wears [/EN#59246/clothing headphones] and operates [/EN#59245/other a turntable] .
+[/EN#59243/people Man] wearing [/EN#59244/clothing a blue shirt] is DJing .
+[/EN#59243/people A DJ] working [/EN#59245/other a turntable] .

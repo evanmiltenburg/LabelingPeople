@@ -1,0 +1,5 @@
+[/EN#178658/people A tan woman] is wearing [/EN#178662/clothing a yellow , black , and red shawl] holding [/EN#178660/other a long piece of wood] under [/EN#178659/scene an incomplete hut] .
+[/EN#178658/people A woman] wearing [/EN#178662/clothing yellow] is outside under [/EN#178659/scene a hut] [/EN#0/notvisual that] has not yet been completely built .
+[/EN#178658/people A man] finishes [/EN#178659/scene his hut] before [/EN#178663/other the big storm] .
+[/EN#178658/people This person] is trying to build [/EN#178661/other something] .
+[/EN#178658/people An individual] is building [/EN#178659/scene a shelter] .

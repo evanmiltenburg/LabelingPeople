@@ -1,0 +1,5 @@
+[/EN#203455/people A group of people] in [/EN#203459/clothing orange shirts] walk down [/EN#203457/scene a narrow street] with [/EN#203458/vehicles cars] on [/EN#0/notvisual the left hand side] on [/EN#203460/people person] is wearing [/EN#203461/clothing a blue and white outfit] .
+[/EN#203456/people A group of people] wearing [/EN#203459/clothing matching orange uniforms] walk down [/EN#203457/scene a street] with [/EN#203458/vehicles cars] parked on [/EN#0/notvisual the side]
+[/EN#203455/people Four people] in [/EN#203459/clothing orange clothing] and [/EN#203460/people one man] holding [/EN#203462/instruments an orange horn] walk down [/EN#203457/scene a narrow street] .
+[/EN#203456/people Teammates] in [/EN#203459/clothing orange uniforms] walk up [/EN#203457/scene a brick street] .
+[/EN#203455/people People] walk down [/EN#203457/scene a brick road] lined with [/EN#203458/vehicles cars] .

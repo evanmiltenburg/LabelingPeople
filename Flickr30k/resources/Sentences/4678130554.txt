@@ -1,0 +1,5 @@
+[/EN#189632/people A dark-haired woman] wearing [/EN#189635/clothing a blue shirt] and [/EN#189641/clothing black pants] with [/EN#189634/clothing a black and white striped shoulder bag] standing in [/EN#189637/scene a train station]
+[/EN#189632/people A lady] holding [/EN#189634/clothing a purse] stands in [/EN#189636/scene an airport] while [/EN#189639/people a security guard] watches behind [/EN#0/notvisual her] .
+[/EN#189633/other The image] shows [/EN#189639/people the reflection of a man] and [/EN#189632/people woman] located at [/EN#189638/other a terminal of some sort] .
+[/EN#189633/other A pole mirror] reflect [/EN#189632/people a woman] with [/EN#189635/clothing a blue shirt] carrying [/EN#189634/clothing a bag] .
+[/EN#189632/people A standing woman] is reflected in [/EN#189633/scene a shiny surface] .

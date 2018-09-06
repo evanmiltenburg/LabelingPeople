@@ -1,0 +1,5 @@
+[/EN#65621/people An old woman] in [/EN#65622/clothing brown] carrying [/EN#65623/clothing a bag] is holding [/EN#65624/bodyparts hands] with [/EN#65625/people a child] in [/EN#65626/clothing a pink shirt] as [/EN#0/notvisual they] walk on [/EN#65627/scene the grass] in front of [/EN#65628/scene a brick building] .
+[/EN#65621/people An adult] walking [/EN#65625/people a small child] on [/EN#65627/scene green grass] towards [/EN#65628/scene the front of an old brownstone building]
+[/EN#65625/people A small child] walks [/EN#65631/other hand-in-hand] with [/EN#65621/people an adult] on [/EN#65627/scene the grass] leading up to [/EN#65628/scene a brick building] .
+[/EN#65621/people An older person] and [/EN#65625/people a young child] walking together in front of [/EN#65628/scene a large building] .
+[/EN#65621/people Grandmother] and [/EN#65625/people grandchild] walking [/EN#65629/bodyparts home hand] in [/EN#65630/bodyparts hand] on [/EN#65627/scene the green grass] .

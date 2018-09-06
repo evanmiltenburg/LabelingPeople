@@ -1,0 +1,5 @@
+[/EN#51774/animals A greyhound] wearing [/EN#51775/clothing a muzzle] and [/EN#51776/other the number six] on [/EN#51777/clothing a yellow jacket] is running on [/EN#51778/scene a dog track] .
+[/EN#51774/animals A tan greyhound] wearing [/EN#51777/clothing a gold shirt] with [/EN#51776/other a number] on [/EN#0/notvisual it] runs down [/EN#51778/scene a track] .
+[/EN#51774/animals muxzzled greyhound] leaping in [/EN#51779/other race] with [/EN#51777/clothing yellow jacket] .
+[/EN#51774/animals a muzzle greyhound dog] running on [/EN#51778/scene a track]
+[/EN#51774/animals A dog] races while wearing [/EN#51776/other number 6] .

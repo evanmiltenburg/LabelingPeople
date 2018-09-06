@@ -1,0 +1,5 @@
+[/EN#43566/people A girl] in [/EN#43567/clothing a bright yellow shirt] and [/EN#43569/clothing dark green shorts] is sleeping on [/EN#43568/other a couch] with [/EN#43570/other a bag of pretzels] on [/EN#43571/scene the floor] next to [/EN#0/notvisual her] .
+[/EN#43566/people A young tan girl] in [/EN#43567/clothing a yellow t-shirt] and [/EN#43569/clothing short olive shorts] is asleep on [/EN#43568/other the sofa] .
+[/EN#43566/people Blond-haired women] in [/EN#43567/clothing yellow shirt] and [/EN#43569/clothing green shorts] dozing on [/EN#43568/other a couch] .
+[/EN#43566/people A blond girl] sleeping on [/EN#43568/other a couch] .
+[/EN#43566/people A blond girl] sleeps on [/EN#43568/other a couch] .

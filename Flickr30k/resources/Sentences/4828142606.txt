@@ -1,0 +1,5 @@
+[/EN#207996/people A man] in [/EN#207997/clothing a blue shirt] is sitting on [/EN#207999/other a doorstep] talking on [/EN#207998/other his cellphone] .
+[/EN#207996/people A man] in [/EN#207997/clothing a blue shirt] sitting on [/EN#207999/other a step] and talking on [/EN#208000/other the phone] .
+[/EN#207996/people A lone man] talks on [/EN#208000/other his cellphone] outside [/EN#208001/scene a Subway station] .
+[/EN#207996/people A man] talks on [/EN#207998/other a cellphone] while sitting on [/EN#207999/other a stoop] .
+[/EN#207996/people A man] sitting down talking on [/EN#207998/other a cellphone] .

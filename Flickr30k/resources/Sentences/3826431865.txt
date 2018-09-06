@@ -1,0 +1,5 @@
+[/EN#144419/people A day-hiker] wearing [/EN#144420/clothing a blue jacket] and [/EN#144425/clothing floppy hat] is descending [/EN#144422/scene a rocky path] on [/EN#144421/scene the hill] .
+[/EN#144419/people A lone hiker] with walking [/EN#144424/other stick] descending [/EN#144422/other a stony stairway] in [/EN#144421/scene remote countryside] .
+[/EN#144419/people A hiker] in [/EN#144420/clothing a blue jacket] and [/EN#144425/clothing hat] uses [/EN#144424/other his hiking stick] to help [/EN#0/notvisual him] down [/EN#144422/other the rocks] .
+[/EN#144419/people A hiker] walks down [/EN#144422/scene a rock path] next to [/EN#144426/scene a field of wild grass] .
+[/EN#144419/people A woman] with [/EN#144424/other a walking stick] climbing down [/EN#144422/other stone stairs] .

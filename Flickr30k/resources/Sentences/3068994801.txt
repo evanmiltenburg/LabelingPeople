@@ -1,0 +1,5 @@
+[/EN#91250/people A woman] in [/EN#91253/clothing a purple top] is walking [/EN#91251/vehicles a bicycle] between [/EN#91255/people two stone columns] .
+[/EN#91250/people A woman] with [/EN#91253/clothing a purple top] and [/EN#91256/clothing blue pants] walks [/EN#91251/vehicles her bike] in [/EN#91252/scene the shadows] .
+[/EN#91250/people A girl] dressed in [/EN#91254/clothing purple and blue] walks beside [/EN#91251/vehicles her bike] at [/EN#91257/scene night] .
+[/EN#91250/people A girl] in [/EN#91254/other vibrant colors] is walking [/EN#91251/vehicles her bike] in [/EN#91252/scene a dark area] .
+[/EN#91250/people A woman] walks [/EN#91251/vehicles a bicycle] between [/EN#91255/people some columns] .

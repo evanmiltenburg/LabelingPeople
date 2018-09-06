@@ -1,0 +1,5 @@
+[/EN#184255/people A young woman] wearing [/EN#184261/clothing a black shirt] , [/EN#184264/clothing blue jeans] , [/EN#184256/clothing black hat] , [/EN#184259/clothing glasses] , and [/EN#184262/clothing a blue sweater] draped around [/EN#184266/bodyparts her shoulders] , walks holding [/EN#184257/clothing an umbrella] to protect [/EN#0/notvisual her] from [/EN#184260/other the sun] .
+[/EN#184255/people A woman] in [/EN#184256/clothing a black hat] and [/EN#184259/clothing sunglasses] holding [/EN#184257/clothing a red umbrella] walks on [/EN#184258/scene some pavement] .
+[/EN#184255/people A lady] is walking across [/EN#184258/scene a road] using [/EN#184257/clothing an umbrella] to shade [/EN#0/notvisual her] from [/EN#184260/other the sun] .
+[/EN#184255/people A woman] shielding [/EN#184265/bodyparts her face] from [/EN#184260/other the sun] with [/EN#184257/clothing a colorful umbrella] .
+[/EN#184255/people A woman] is walking with [/EN#184263/other a red patterned parasol] .

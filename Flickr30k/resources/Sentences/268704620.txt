@@ -1,0 +1,5 @@
+[/EN#66154/animals Two white dogs] are running along side [/EN#66154/other one] [/EN#0/notvisual another] in [/EN#66155/scene snowy grass] .
+[/EN#66154/animals Two little white dogs] are playing outside in [/EN#66155/scene the snow] .
+[/EN#66154/animals Two little white dogs] are playing in [/EN#66155/scene the snow] .
+[/EN#66154/animals Two white dogs] run through [/EN#66155/other a fiels] with [/EN#66155/scene snow] .
+[/EN#66154/animals Two white dogs] running in [/EN#66155/scene the snow] .

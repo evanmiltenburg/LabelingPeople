@@ -1,0 +1,5 @@
+[/EN#47800/people The man] wearing [/EN#47801/clothing the blues brothers suit] is dancing with [/EN#47802/people the little girl] in [/EN#47804/clothing the pink top] .
+[/EN#47800/people A man] wearing [/EN#47801/clothing black] dances with [/EN#47802/people a young girl] wearing [/EN#47804/clothing a pink shirt] .
+[/EN#47800/people A man] in [/EN#47801/clothing a suit] dances with [/EN#47802/people a young girl] in front of [/EN#47803/people an audience] .
+[/EN#47800/people A man] and [/EN#47802/people a girl] stand in front of [/EN#47803/people a large crowd] .
+[/EN#47800/people A man] dances with [/EN#47802/people a girl] .

@@ -1,0 +1,5 @@
+[/EN#203378/people A smiling man] in [/EN#203380/clothing a white t-shirt] is cradling [/EN#203379/people a smiling baby] in [/EN#203382/bodyparts his arms] .
+[/EN#203378/people A man] in [/EN#203380/clothing a t-shirt] holds [/EN#203379/people an infant] , [/EN#0/notvisual who] is reaching for [/EN#203383/bodyparts his face] .
+[/EN#203378/people A dark-haired man] is smiling at [/EN#203379/people a baby] that [/EN#0/notvisual he] is holding .
+[/EN#203378/people A man] holds [/EN#203379/people a baby] as [/EN#203381/bodyparts both smile] .
+[/EN#203378/people A man] is holding [/EN#203379/people an infant] .

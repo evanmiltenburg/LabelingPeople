@@ -1,0 +1,5 @@
+[/EN#35975/people A man] with [/EN#35981/clothing glasses] and [/EN#35977/clothing a red backpack] standing in front of [/EN#35978/other a brick wall]
+[/EN#35975/people A man] in [/EN#35976/clothing a black jacket] and [/EN#35979/clothing jeans] stands in front of [/EN#35978/other a brick wall] .
+[/EN#35975/people A man] with [/EN#35977/clothing backpack] stands in front of [/EN#35978/other a brown brick wall] .
+[/EN#35975/people A man] wearing [/EN#35979/clothing jeans] and [/EN#35977/clothing a backpack] stands on [/EN#35982/scene the sidewalk] .
+[/EN#35975/people The man] in [/EN#35976/clothing the black jacket] is waiting .

@@ -1,0 +1,5 @@
+[/EN#79153/people A man] wearing [/EN#79158/clothing a white t-shirt] and [/EN#79155/clothing blue jeans] standing on [/EN#79154/vehicles a large vehicle] in front of [/EN#79156/scene a house] .
+[/EN#79153/people A man] in [/EN#79155/clothing blue jeans] is reaching for [/EN#79160/other something] on [/EN#79154/vehicles a truck] .
+[/EN#79153/people A man] working on [/EN#79157/other a large piece of equipment] .
+[/EN#79153/people A Man] fixing [/EN#79154/scene machinery outside] .
+[/EN#79153/people A man] works on [/EN#79154/vehicles a large vehicle] .

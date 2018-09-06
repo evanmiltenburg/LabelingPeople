@@ -1,0 +1,5 @@
+[/EN#156030/people A man] and [/EN#156033/people a woman] are seated holding [/EN#156043/instruments musical instruments] while [/EN#156033/people another woman] stands at [/EN#156031/scene a podium] .
+[/EN#156035/people An audience] are watching [/EN#156046/people two seated musicians] and [/EN#156033/people a speaker] standing at [/EN#156031/scene a podium] .
+[/EN#156030/people A man] with [/EN#156038/instruments a guitar] , [/EN#156041/people a woman] with [/EN#156037/instruments a flute] , and [/EN#156033/people a woman] singing at [/EN#156039/other a recital] .
+[/EN#156034/other A musical] trio - [/EN#156045/people two females] and [/EN#156030/people a male] - is performing in [/EN#156032/scene an auditorium]
+[/EN#156036/people Three musicians] join [/EN#0/notvisual each other] in [/EN#156044/other song] on [/EN#156040/scene a stage] .

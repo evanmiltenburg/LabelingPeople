@@ -1,0 +1,5 @@
+[/EN#208308/people An elderly man] stands at [/EN#208310/scene a podium] ready to speak into [/EN#208309/other the microphone] .
+[/EN#208308/people An old man] wearing [/EN#208314/clothing glasses] speaking in front of [/EN#208310/scene a podium] .
+[/EN#208308/people A man] wearing [/EN#208311/clothing a tuxedo] is at [/EN#208310/scene a podium] giving [/EN#208313/other a speech] .
+[/EN#208308/people A man] is standing in front of [/EN#208309/other a microphone] at [/EN#208310/scene a podium]
+[/EN#208308/people A man] in [/EN#208311/clothing a suit] standing at [/EN#208310/scene a podium] .

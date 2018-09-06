@@ -1,0 +1,5 @@
+[/EN#213112/people A person] wearing [/EN#213118/clothing gray shorts] and [/EN#213115/clothing a red shirt] , biking on [/EN#213117/scene the street] , in front of [/EN#213113/scene shop] [/EN#0/notvisual that] sells [/EN#213116/other candy] and [/EN#213119/other ice cream] .
+[/EN#213112/people A large man] in [/EN#213115/clothing a red shirt] is struggling to ride [/EN#213114/vehicles his bike] past [/EN#213113/scene a shop] [/EN#0/notvisual that] sells [/EN#213116/other sweets] .
+[/EN#213112/people A man] in [/EN#213115/clothing a red t-shirt] rides [/EN#213114/vehicles his bicycle] past [/EN#213113/scene Eddie 's Sweet Shop] .
+[/EN#213112/people A heavyset man] on [/EN#213114/vehicles a bicycle] in front of [/EN#213113/scene Eddie 's Sweet Shop]
+[/EN#213112/people A man] is on [/EN#213114/vehicles a bike] in front of [/EN#213113/scene Eddies sweet shop] .

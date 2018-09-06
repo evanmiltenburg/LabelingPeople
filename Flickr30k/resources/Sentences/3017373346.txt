@@ -1,0 +1,5 @@
+[/EN#87618/animals The large black dog] and [/EN#87619/animals a small red and white dog] are standing in [/EN#87620/scene the water] .
+[/EN#87621/animals Two dogs] are sniffing [/EN#0/notvisual each other] while standing in [/EN#87620/scene a body of water] .
+[/EN#87618/animals A black dog] and [/EN#87619/animals a dog] [/EN#0/notvisual that] is brown and white [/EN#87624/scene stand] in [/EN#87620/scene the water] .
+[/EN#87619/animals A black and brown dog] playing in [/EN#87620/scene the water] at [/EN#87620/scene a beach] .
+[/EN#87621/animals Two dogs] in [/EN#87620/scene the water] .

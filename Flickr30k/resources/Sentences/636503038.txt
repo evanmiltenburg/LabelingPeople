@@ -1,0 +1,5 @@
+[/EN#253543/people Three fishers] walk over [/EN#253545/other rocks] toward [/EN#253544/scene water] , [/EN#253544/scene lake] and [/EN#253546/scene cloudy sky] in [/EN#0/notvisual background] .
+[/EN#253543/people Three people] stand with [/EN#253547/other fishing poles] on [/EN#253545/other the rocks] near [/EN#253544/scene the water] .
+[/EN#253543/people Three people] are standing on [/EN#253545/other rocks] near [/EN#253544/scene a body of water] .
+[/EN#253543/people Three people] walking along [/EN#253545/other rocks] , going to go [/EN#253548/animals fish]
+[/EN#253543/people Three people] are walking on [/EN#253545/other rocks] towards [/EN#253544/scene a lake] .

@@ -1,0 +1,5 @@
+[/EN#221032/other Large bridge-like structure] built on [/EN#221025/scene a road] between [/EN#221031/scene tall buildings] within [/EN#221028/scene the city] .
+[/EN#221023/people People] walk across [/EN#221029/scene the street] under [/EN#221027/scene a bridge] .
+[/EN#221023/people People] using [/EN#221030/scene crosswalk] on [/EN#221025/scene big city street] .
+[/EN#221026/people A man] is walking under [/EN#221024/scene a bridge] .
+[/EN#221024/scene The bottom view of a bridge] .

@@ -1,0 +1,5 @@
+[/EN#87817/people A man] is in [/EN#87819/vehicles a red race car] while [/EN#87822/people another man] is at [/EN#0/notvisual the back of it] .
+[/EN#87817/people A race car driver] smiles and gives [/EN#87821/bodyparts the thumbs] up before [/EN#87818/other a race] .
+[/EN#87817/people A man] is smiling whilst sitting inside [/EN#87819/vehicles a red racing car] .
+[/EN#87817/people A man] inside [/EN#87819/vehicles a red race car] gives [/EN#87821/bodyparts a thumbs] up [/EN#87823/other sign] .
+[/EN#87817/people A driver] is at [/EN#87819/vehicles the wheel of a race car] .

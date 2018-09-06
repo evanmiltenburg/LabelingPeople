@@ -1,0 +1,5 @@
+[/EN#102042/people Two women] on [/EN#102043/other horseback] gingerly ride down [/EN#102045/scene a street] .
+[/EN#102042/people Two women] riding [/EN#102044/animals horses] together .
+[/EN#0/notvisual There] are [/EN#102042/people two woman] on [/EN#102043/other horseback] .
+[/EN#102042/people Two people] are riding [/EN#102044/animals horses] .
+[/EN#102042/people Two women] riding [/EN#102043/other horseback] .

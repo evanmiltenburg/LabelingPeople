@@ -1,0 +1,5 @@
+[/EN#136882/people A group of men] play [/EN#136885/other xylophones] in [/EN#136884/scene a concert space] filled with [/EN#136889/instruments percussion instruments] .
+[/EN#136882/people A group of six people] are standing near [/EN#0/notvisual each other] playing [/EN#136885/other individual xylophones] .
+[/EN#136883/people Six musicians] are playing [/EN#136888/other xylophones] together in [/EN#136887/scene the middle of a dark room] .
+[/EN#136883/people Six people] play [/EN#136885/other xylophones] in [/EN#136884/scene a darkened room] .
+[/EN#136882/people Xylophonists] play in [/EN#136886/scene a dark setting] .

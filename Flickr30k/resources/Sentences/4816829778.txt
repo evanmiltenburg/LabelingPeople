@@ -1,0 +1,5 @@
+[/EN#206405/people The man] in [/EN#206406/clothing the brown shirt] is touching [/EN#206407/other the machine] on [/EN#206410/other the desk] .
+[/EN#206405/people A man] wearing [/EN#206411/clothing blue jeans] and [/EN#206406/clothing a t-shirt] is using [/EN#206407/other a machine] .
+[/EN#206405/people A man] is using [/EN#0/notvisual what] looks to be [/EN#206407/other a fax machine] .
+[/EN#206405/people A guy] in [/EN#206408/scene an office] is fixing [/EN#206407/people the coffee maker] .
+[/EN#206405/people A man] in [/EN#206408/scene an office] inspecting [/EN#206407/other a machine] .

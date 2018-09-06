@@ -1,0 +1,5 @@
+[/EN#71102/people A lady] in [/EN#71103/clothing a black sweatshirt] and [/EN#71104/clothing black jeans] is jumping [/EN#71105/other rope] while [/EN#71106/other others] lean against [/EN#71107/scene a fence] and watch .
+[/EN#0/notvisual There] is [/EN#71106/people a lot of people] outside watching [/EN#71109/other a girl jump rope] .
+[/EN#71102/people A woman] at [/EN#71112/other a backyard party] is jumping [/EN#71105/other rope] on [/EN#71110/scene the grass] .
+[/EN#71102/people A young girl] is jumping [/EN#71105/other rope] while [/EN#71106/people onlookers] watch .
+[/EN#71102/people A smiling woman] is jumping over [/EN#71105/other a long jump rope] .

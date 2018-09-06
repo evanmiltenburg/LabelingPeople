@@ -1,0 +1,5 @@
+[/EN#194765/people A woman] in [/EN#194772/clothing black] talking to [/EN#194771/people a woman] in [/EN#194773/clothing purple] standing behind [/EN#194770/clothing a long table of hats] talking about [/EN#194767/clothing hats] .
+[/EN#194765/people Two women] are talking at [/EN#194766/scene a booth] [/EN#0/notvisual that] is full of [/EN#194767/clothing hats] .
+[/EN#194765/people Women] at [/EN#194766/scene outdoor hat stall] discussing [/EN#194768/clothing hats] .
+[/EN#194765/people Two women] holding [/EN#194768/clothing hats] at [/EN#194766/scene a hat stand]
+[/EN#194765/people Two women] looking at [/EN#194768/clothing hats] .

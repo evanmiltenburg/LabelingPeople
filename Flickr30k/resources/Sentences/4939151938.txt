@@ -1,0 +1,5 @@
+[/EN#220900/people A person] wearing [/EN#220907/animals a Red Bull] ski [/EN#220901/clothing helmet] and ski [/EN#220906/other suit snowboard] .
+[/EN#220900/people A snowboarder] on [/EN#220900/other a Red Bull snowboard] rounds [/EN#220904/other a curve] .
+[/EN#220900/people A man] in [/EN#220908/scene midair] about to land on [/EN#220900/other a snowboard] .
+[/EN#220900/people A snowboarder] makes [/EN#0/notvisual a jump] in [/EN#220903/other a competition] .
+[/EN#220900/people Man] in [/EN#220901/clothing Red Bull helmet] snowboarding .

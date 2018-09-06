@@ -1,0 +1,5 @@
+[/EN#183314/people A well dressed young woman] waits on [/EN#183318/other a bench] for [/EN#183316/vehicles/scene the train] while [/EN#183319/people a man] busy writing [/EN#183322/other something] waits nearby .
+[/EN#183314/people The woman] wearing [/EN#183323/clothing the scarf] is quietly waiting for [/EN#183316/vehicles/scene the train] .
+[/EN#183314/people A seated black woman] is waiting for [/EN#183315/vehicles/scene a subway] .
+[/EN#183314/people A black women] in [/EN#183321/scene a subway tunnel] .
+[/EN#183317/people Two people] waiting in [/EN#183320/other a station] .

@@ -1,0 +1,5 @@
+[/EN#54678/people A man] in [/EN#54683/clothing a plaid shirt] wields [/EN#54680/instruments an accordion] while chatting to [/EN#54684/people a couple of friends] on [/EN#54681/scene a busy sidewalk] .
+[/EN#54679/people An older gentleman] is standing next to [/EN#54678/people the man] with [/EN#54680/instruments a red accordion] over [/EN#54686/bodyparts his shoulder] .
+[/EN#54678/people A man] with [/EN#54680/instruments an accordion] walks down [/EN#54681/scene the street of a public area] .
+[/EN#54678/people A man] wearing [/EN#54683/clothing a blue plaid shirt] has [/EN#54680/instruments a accordion] in [/EN#54682/other his back] .
+[/EN#54678/people A man] is carrying [/EN#54680/instruments a red accordion] on [/EN#54682/other his back] .

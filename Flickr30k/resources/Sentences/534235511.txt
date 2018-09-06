@@ -1,0 +1,5 @@
+[/EN#234129/people A little boy] wearing [/EN#234130/clothing a yellow shirt] is eating [/EN#234131/other something] .
+[/EN#234129/people A small boy] wearing [/EN#234130/clothing a polo shirt] eating [/EN#234131/other something] .
+[/EN#234129/people A child] smiles while eating [/EN#234131/other some food] .
+[/EN#234129/people An Asian boy] in [/EN#234130/clothing a yellow shirt] eating .
+[/EN#234129/people A male child] is enjoying [/EN#234131/other his food] .

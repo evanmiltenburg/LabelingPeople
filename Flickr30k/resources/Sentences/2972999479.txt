@@ -1,0 +1,5 @@
+[/EN#84873/people The man] in [/EN#84878/clothing the striped shirt] is admiring [/EN#84874/vehicles a yellow car] , while wearing [/EN#84879/clothing white shoes] and [/EN#84880/clothing blue jeans] with [/EN#84881/clothing a black backpack] .
+[/EN#84873/people A man] smiles as [/EN#0/notvisual he] looks down at [/EN#84874/vehicles an orange sports car] [/EN#0/notvisual that] 's parked at [/EN#84875/other a curb] .
+[/EN#84873/people A man] admires [/EN#84876/other an expensive looking] , [/EN#84874/vehicles yellow , sports car] .
+[/EN#84873/people A man] on [/EN#84877/other the street checks] out [/EN#84874/vehicles an orange sports car] .
+[/EN#84873/people A guy] is looking at [/EN#84874/vehicles fancy orange car] .

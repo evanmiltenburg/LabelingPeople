@@ -1,0 +1,5 @@
+[/EN#2346/animals A yellow dog] and [/EN#2347/animals a black and white dog] are running in [/EN#2349/scene the dirt] .
+[/EN#2346/animals A blond dog] and [/EN#2347/animals a black and white dog] run in [/EN#2349/scene a dirt field] .
+[/EN#2350/animals Two dogs] are running in [/EN#2349/scene a field] .
+[/EN#2347/animals a dog] chases [/EN#2346/animals another dog] .
+[/EN#2348/animals two dogs] running around

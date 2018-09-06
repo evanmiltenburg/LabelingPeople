@@ -1,0 +1,5 @@
+[/EN#100414/people A man] with [/EN#100415/bodyparts a beard] and [/EN#100416/people a woman] in [/EN#100417/clothing a red shirt] sitting in [/EN#100418/other lawn chairs] in front of [/EN#100419/scene tents] .
+[/EN#100416/people A woman] is smiling at [/EN#100414/people the bearded man] sitting in [/EN#100420/other the lawn chair] next to [/EN#0/notvisual her] .
+[/EN#100414/people A man] and [/EN#100416/people a woman] smile as [/EN#0/notvisual they] sit in [/EN#100418/other yellow lawn chairs] .
+[/EN#100414/people A man] and [/EN#100416/people a woman] sitting on [/EN#100418/other camp chairs] and laughing .
+[/EN#100414/people A man] and [/EN#100416/people a woman] sit in [/EN#100418/other lawn chairs] and laugh .

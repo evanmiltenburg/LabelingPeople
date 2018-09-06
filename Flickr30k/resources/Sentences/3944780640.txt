@@ -1,0 +1,5 @@
+[/EN#149064/people A woman] in [/EN#149066/clothing a purple sweater] and [/EN#149065/clothing bucket hat] is on [/EN#149067/scene a sidewalk] carrying [/EN#149068/clothing many shopping bags] .
+[/EN#149064/people A woman] in [/EN#149065/clothing a bucket hat] and [/EN#149066/clothing purple shirt] carries [/EN#149068/clothing many shopping bags] .
+[/EN#149064/people A woman] in [/EN#149066/clothing a purple sweater] is holding [/EN#149068/clothing three bags] on [/EN#149067/scene a street] .
+[/EN#149064/people A woman] in [/EN#149066/clothing a purple shirt] carries [/EN#149068/clothing three full shopping bags] .
+[/EN#149064/people A woman] in [/EN#149066/clothing a purple shirt] carries [/EN#149068/clothing shopping bags] .

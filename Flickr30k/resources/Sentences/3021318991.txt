@@ -1,0 +1,5 @@
+[/EN#88039/people An athletic girl] in [/EN#88040/clothing an orange uniform] is on [/EN#88045/scene a playing field of green grass] and swinging at [/EN#88041/other a ball] .
+[/EN#88039/people A woman hockey player] in [/EN#88040/other an orange strip] is striking [/EN#88041/other the ball] with [/EN#88043/other her stick] .
+[/EN#88039/people A girl] in [/EN#88040/clothing an orange uniform] hits [/EN#88041/other a ball] in [/EN#88046/other field hockey] .
+[/EN#88039/people A girl] in [/EN#88044/clothing orange] is hitting [/EN#88041/other the ball] in [/EN#88046/other field hockey] .
+[/EN#88039/people A female lawn hockey player] hitting [/EN#88041/other the ball]

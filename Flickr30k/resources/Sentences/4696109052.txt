@@ -1,0 +1,5 @@
+[/EN#192168/people A man] with [/EN#192177/clothing a blue jacket] and [/EN#192172/people a woman] wearing [/EN#192178/clothing a black jacket] are standing near [/EN#192163/other a large statue] and looking at [/EN#192162/scene a body of water] and [/EN#192173/scene bridges] in [/EN#0/notvisual the distance] under [/EN#192164/other a quarter moon] .
+[/EN#192161/people Two people] survey [/EN#192167/scene the night sky] , illuminated by [/EN#192164/other the moon] and [/EN#192165/scene the glow of the city] [/EN#0/notvisual they] are in , with [/EN#192163/other an ornate bust] occupying [/EN#192171/scene the space] to [/EN#192175/scene their right] .
+[/EN#192161/people Two people] are staring at [/EN#192162/scene a river] at [/EN#192167/scene night] next to [/EN#192163/people a statue of a man] .
+[/EN#192161/people Two people] look on in [/EN#192176/other the nighttime] at [/EN#192166/other the lights] in [/EN#192170/scene a city] .
+[/EN#192161/people Couple] watching [/EN#192164/other the moon] on [/EN#192169/scene a bridge] .

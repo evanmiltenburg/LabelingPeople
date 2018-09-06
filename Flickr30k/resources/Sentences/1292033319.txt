@@ -1,0 +1,5 @@
+[/EN#7531/people A woman] standing outside leaning against [/EN#7532/other a shovel] [/EN#0/notvisual which] is in [/EN#7533/other a bucket] as [/EN#0/notvisual she] stairs at [/EN#7534/people a man] with [/EN#7535/clothing a green cap] .
+[/EN#7534/people A man] standing in [/EN#7536/scene a hole] in front of [/EN#7531/people a woman] in [/EN#7538/scene a garden] .
+[/EN#7534/people Man] and [/EN#7531/people woman] starting [/EN#7540/other a gardening project] .
+[/EN#7534/people Two people] are planting [/EN#7541/other a flower] in [/EN#7537/scene a hole] .
+[/EN#7534/people A man] and [/EN#7531/people a woman] work in [/EN#7538/scene their garden] .

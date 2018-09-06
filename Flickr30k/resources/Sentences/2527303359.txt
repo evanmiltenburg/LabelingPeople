@@ -1,0 +1,5 @@
+[/EN#55402/people A woman] in [/EN#55404/clothing a white dress] walks toward [/EN#55408/scene the water] on [/EN#55403/scene a beach] with [/EN#55405/clothing white boots] in [/EN#0/notvisual the foreground] .
+[/EN#55402/people A girl] in [/EN#55404/clothing a white dress] walks toward [/EN#55408/scene the water] and away from [/EN#55405/clothing white boots] on [/EN#55403/scene a beach] .
+[/EN#55402/people A little girl] in [/EN#55409/other white leaves] [/EN#0/notvisual her] [/EN#55405/clothing boots] behind as [/EN#0/notvisual she] walks in [/EN#55403/other the sand] .
+[/EN#55402/people A girl] in [/EN#55404/clothing a white dress] on [/EN#55403/scene the beach] .
+[/EN#55402/people A girl] walking on [/EN#55403/scene a beach] barefoot .

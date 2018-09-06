@@ -1,0 +1,5 @@
+[/EN#572/people a woman] with [/EN#576/clothing a red jacket] and [/EN#574/clothing headscarf] looks out [/EN#577/scene over a scenic view of a bay] through [/EN#575/other a set of pay binoculars] on [/EN#580/other a viewing deck] .
+[/EN#572/people A woman] inside [/EN#578/scene a building] is wearing [/EN#574/clothing a headscarf] and looking out of [/EN#577/other a window] through [/EN#575/other a mounted telescope] .
+[/EN#572/people Woman] in [/EN#576/clothing red windbreaker] looking though [/EN#577/scene a rooftop] binoculars at [/EN#573/scene the city] below .
+[/EN#572/people A woman] in [/EN#574/clothing a headscarf] uses [/EN#575/other a telescope] to look out over [/EN#573/scene the city] and [/EN#577/scene bay] .
+[/EN#572/people A Woman] is looking through [/EN#575/other a telescope] while wearing [/EN#576/clothing a red coat] .

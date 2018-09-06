@@ -1,0 +1,5 @@
+[/EN#15011/people A dark-haired woman] wearing [/EN#15017/clothing a gray shirt] with [/EN#15012/clothing a creme shirt] over [/EN#0/notvisual it] and [/EN#15018/clothing jeans] walking down [/EN#15013/scene the parking lot] past [/EN#15016/vehicles a blue car] .
+[/EN#15011/people A woman] looks down in [/EN#15013/scene a steeply-angled asphalt parking lot] next to [/EN#15015/scene a blue-roofed building] .
+[/EN#15011/people a woman] in [/EN#15012/clothing a white sweater] crossing [/EN#15013/scene the street] .
+[/EN#15011/people Woman] standing in [/EN#15013/scene a parking lot] by [/EN#15014/vehicles vehicles] .
+[/EN#15011/people A girl] walks downhill past [/EN#15014/vehicles some parked cars] .

@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#60212/people a little boy] in [/EN#60213/clothing a red shirt] and [/EN#60214/bodyparts a dirty face] and [/EN#0/notvisual he] is smiling .
+[/EN#60212/people The little boy] is laying back relaxing on [/EN#60215/other the colorful blanket] .
+[/EN#60212/people A little boy] with [/EN#60214/bodyparts a messy face] sitting on [/EN#60215/other a colorful blanket] .
+[/EN#60212/people A little boy] with [/EN#60214/bodyparts a dirty face] lays on [/EN#60215/other a colorful rug] .
+[/EN#60212/people little boy] in [/EN#60213/clothing red shirt] and [/EN#60216/clothing gray shorts] with [/EN#60214/bodyparts messy face]

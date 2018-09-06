@@ -1,0 +1,5 @@
+[/EN#120265/people A street performer] is using [/EN#120270/other a hula hoop] surrounded by [/EN#120268/other fire] and performing on [/EN#120272/scene the street] .
+[/EN#120264/people People] sit around [/EN#120265/people a street performer] playing with [/EN#120268/other fire] .
+[/EN#120264/people A crowd] is watching [/EN#120265/people a group of fire dancers] perform .
+[/EN#120264/people A group of people] watch [/EN#120265/people someone] play with [/EN#120268/other fire] .
+[/EN#120266/people Two people] are doing [/EN#0/notvisual tricks] with [/EN#120268/other fire] .

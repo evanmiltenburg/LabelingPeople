@@ -1,0 +1,5 @@
+[/EN#195500/people A woman] in [/EN#195505/clothing a red sweater] carries [/EN#195507/other fabric] and walks through [/EN#195511/other the mud] .
+[/EN#195500/people A woman] dressed in [/EN#195506/clothing ethnic clothing] is outside on [/EN#195503/scene a dirty street] .
+[/EN#195500/people A mother] carries [/EN#195501/people her child] through [/EN#195504/scene a market] on [/EN#195508/other her back] .
+[/EN#195500/people A woman] carrying [/EN#195501/people her baby] on [/EN#195509/other her back] in [/EN#195502/other a city square] .
+[/EN#195500/people Woman] wearing [/EN#195510/clothing red and black] looking at [/EN#0/notvisual the camera] .

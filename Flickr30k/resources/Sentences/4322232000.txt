@@ -1,0 +1,5 @@
+[/EN#163002/people A lady] wearing [/EN#163009/clothing a hat] and [/EN#163012/clothing tan coat] walks down [/EN#163004/scene a brick sidewalk of a city] while holding [/EN#163008/people the hand of a little boy] wearing [/EN#163003/clothing a backpack] and holding [/EN#163007/clothing a striped umbrella] upside down .
+[/EN#163002/people A woman] and [/EN#163006/people a little boy] with [/EN#163003/clothing a backpack] walking with [/EN#163007/clothing an umbrella] in [/EN#163004/scene the city] .
+[/EN#163002/people A woman] walks down [/EN#163004/scene the sidewalk] holding [/EN#163008/bodyparts a young boy 's hand] on [/EN#163011/scene a rainy day] .
+[/EN#163002/people An adult woman] and [/EN#163006/people a young boy] walking through [/EN#163004/scene a city] in [/EN#163013/scene the evening] .
+[/EN#163002/people An adult] and [/EN#163006/people a kid] walk down [/EN#163004/scene a city sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#41013/people A woman] in [/EN#41014/clothing a bright fuchsia shirt] and [/EN#41016/clothing glasses] is smiling broadly as [/EN#0/notvisual she] holds up [/EN#41015/other a brown knitted item] .
+[/EN#41013/people A woman] with [/EN#41016/clothing glasses] in [/EN#41014/clothing a pink shirt] and [/EN#41017/clothing flowered skirt] is smiling .
+[/EN#41013/people A woman] in [/EN#41014/clothing pink] is sitting and enjoying [/EN#41015/other the object] [/EN#0/notvisual she] is holding .
+Smiling [/EN#41013/people woman] holding [/EN#41015/other a piece of cloth] .
+[/EN#41013/people A woman] smiles after opening up [/EN#41015/other a gift] .

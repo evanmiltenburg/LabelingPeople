@@ -1,0 +1,5 @@
+[/EN#181880/people An elderly man] in [/EN#181886/clothing a white and gray striped shirt] eating [/EN#181881/other food] .
+[/EN#181880/people An elderly gentleman] takes [/EN#181885/other time] away from [/EN#181884/other his tasks] to eat .
+[/EN#0/notvisual He] is eating [/EN#181881/other roadside dish] and enjoying [/EN#0/notvisual it] .
+[/EN#181880/people An elderly man] eats [/EN#181881/other dinner] from [/EN#181882/other a bowl] .
+[/EN#181880/people A man] eating [/EN#181881/other something] with [/EN#181883/other a spoon] .

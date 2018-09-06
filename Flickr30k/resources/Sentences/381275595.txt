@@ -1,0 +1,5 @@
+[/EN#143580/animals A brown dog] is chewing on [/EN#143581/bodyparts a bone] with [/EN#143582/animals a stuffed animal] underneath [/EN#0/notvisual it] .
+[/EN#143580/animals Big hairy dog] chews on [/EN#143581/bodyparts a bone] while lying on [/EN#143582/other a furry toy] .
+[/EN#143580/animals Brown dog] chews on [/EN#143581/bodyparts bone] while laying on [/EN#143583/other the rug] .
+[/EN#143580/animals Big brown dog] chews on [/EN#143581/bodyparts bone] lying down .
+[/EN#143580/animals a dog] chews on [/EN#143581/bodyparts a bone] .

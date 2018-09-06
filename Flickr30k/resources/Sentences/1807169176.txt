@@ -1,0 +1,5 @@
+[/EN#21088/other A large campfire] at [/EN#21089/scene night] with [/EN#21087/people several people] sitting around [/EN#0/notvisual it] .
+[/EN#21087/people A group of people] sit around [/EN#21088/other a blazing fire] at [/EN#21089/scene night] .
+[/EN#21087/people Several people] are sitting around [/EN#21088/other a fire] at [/EN#21089/scene night] .
+[/EN#21087/people People] are clustered around [/EN#21088/other a bonfire] at [/EN#21089/scene night] .
+[/EN#21087/people People] sitting around [/EN#21088/other a campfire] at [/EN#21089/scene night] .

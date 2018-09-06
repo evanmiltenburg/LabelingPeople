@@ -1,0 +1,5 @@
+[/EN#69308/scene A market] with [/EN#69300/other fruit] and [/EN#69301/other blankets] hanging from [/EN#69302/scene roof] [/EN#0/notvisual that] is [/EN#69303/people blue and white colored] .
+[/EN#69304/people A man] walking down [/EN#69310/people the walkway of a bunch] of [/EN#69305/other storefronts] .
+[/EN#69304/people Man] walking down [/EN#69306/scene an ally of food stands] .
+[/EN#69307/clothing Blue] and [/EN#69301/other white drapes] hanging down .
+[/EN#69304/people A man] is walking down [/EN#69306/scene an alley] .

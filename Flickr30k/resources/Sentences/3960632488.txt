@@ -1,0 +1,5 @@
+[/EN#149713/people A man] and [/EN#149717/people a woman] sit on [/EN#149714/other a deck] under [/EN#149719/scene a blue sky] [/EN#0/notvisual that] is about to be overtaken by [/EN#149721/other tumultuous clouds] .
+[/EN#149718/people Two people] sit on [/EN#149715/other a bench] enjoying [/EN#149722/other nature] as [/EN#149721/other a huge cloud] looms overhead .
+[/EN#149712/people A couple] sits on [/EN#149716/scene a boardwalk] looking towards [/EN#149723/scene the sea] after [/EN#149720/other a hike] .
+[/EN#149713/people A man] and [/EN#149717/people a woman] are sitting on [/EN#149716/vehicles/scene the deck of a boat] .
+[/EN#149712/people Two people] are sitting probably in [/EN#149716/scene a training field] .

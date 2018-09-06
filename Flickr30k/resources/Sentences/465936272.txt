@@ -1,0 +1,5 @@
+[/EN#187773/people A man] in [/EN#187775/clothing a blue shirt] is sitting in [/EN#187778/scene a crowded setting] beside [/EN#187781/people a woman] in [/EN#187779/clothing a red dress] [/EN#0/notvisual that] is looking out [/EN#187780/other the window] as [/EN#0/notvisual they] are surrounded by [/EN#187782/people other people] .
+[/EN#187773/people a man] in [/EN#187775/clothing a blue shirt] sitting on [/EN#187777/scene a blue seat] .
+[/EN#187774/people People] sitting at [/EN#187783/other tables] in [/EN#187776/vehicles/scene a bus or train] .
+[/EN#187774/people Oriental people] are riding in [/EN#187776/vehicles/scene a train] .
+[/EN#187774/people People] sitting in [/EN#187784/vehicles an airplane] .

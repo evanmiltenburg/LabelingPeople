@@ -1,0 +1,5 @@
+[/EN#207377/people A man] wearing [/EN#207378/clothing a jacket] and [/EN#207385/clothing blue jeans] sits on [/EN#207380/other a railing] as [/EN#0/notvisual he] looks out into [/EN#207379/scene a body of water] alone .
+[/EN#207377/people A man] in [/EN#207378/clothing a black leather jacket] sitting looking at [/EN#207383/other the city beyond] .
+[/EN#207377/people A man] sitting on [/EN#207380/scene a metal fence] overlooking [/EN#207379/scene the water] and [/EN#207383/scene skyline] .
+[/EN#207377/people A man] in [/EN#207378/clothing a leather jacket] is sitting on [/EN#207380/scene a fence] by [/EN#207382/scene the beach] .
+[/EN#207377/people Man] look at [/EN#207379/scene water] sitting on [/EN#207380/scene a bar] .

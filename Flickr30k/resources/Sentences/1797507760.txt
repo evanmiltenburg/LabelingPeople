@@ -1,0 +1,5 @@
+[/EN#20693/people Four shirtless men] are hiking up [/EN#20694/scene a canyon] .
+[/EN#20693/people The hikers] are climbing up [/EN#20694/scene the mountains] .
+[/EN#20693/people Four shirtless men] hike up [/EN#20694/scene a canyon] .
+[/EN#20693/people Topless men] walking up [/EN#20694/scene a rocky path] .
+[/EN#20693/other Shirtless men hike] through [/EN#20694/scene a canyon] .

@@ -1,0 +1,5 @@
+[/EN#226497/people A young boy] is dressed in [/EN#226498/clothing a blue helmet] , [/EN#226501/clothing sweater] , [/EN#226500/clothing jeans] and [/EN#226503/clothing sneakers] looks like [/EN#0/notvisual he] is going to go [/EN#226505/other zip] lining .
+[/EN#226497/people a young boy] in [/EN#226500/clothing jeans] and [/EN#226501/clothing a blue shirt] is wearing [/EN#226498/clothing a blue helmet] .
+[/EN#226497/people A little boy] is wearing [/EN#226502/clothing a climbing harness] and [/EN#226498/clothing a blue helmet] .
+[/EN#226497/people A young smiling boy] wearing [/EN#226499/clothing a harness] and [/EN#226498/clothing helmet] .
+[/EN#226497/people A young boy] in [/EN#226499/clothing suspenders] .

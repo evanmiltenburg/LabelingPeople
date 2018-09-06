@@ -1,0 +1,5 @@
+[/EN#96758/animals Two long-haired dogs] racing down [/EN#96760/scene a forest path] .
+[/EN#96758/animals The two dogs] are running toward [/EN#0/notvisual the camera] .
+[/EN#96758/animals Two dogs] running down [/EN#96760/scene a path] in [/EN#96761/other the woods] .
+[/EN#96758/animals Two dogs] running along [/EN#96759/scene dirt path] .
+[/EN#96758/animals Two dogs] run through [/EN#96759/scene a field] .

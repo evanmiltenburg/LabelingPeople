@@ -1,0 +1,5 @@
+[/EN#174779/animals Brown dog] leaping up with [/EN#174780/other orange disc] in [/EN#174784/bodyparts mouth] with [/EN#174782/vehicles/scene blue and yellow toy boat] in [/EN#0/notvisual background] .
+[/EN#174779/animals A dog] is jumping in [/EN#0/notvisual the air] to catch [/EN#174780/other an orange Frisbee] .
+[/EN#174779/animals A dog] leaping to catch [/EN#174780/other a Frisbee] in [/EN#174783/scene the yard] .
+[/EN#174779/animals A brown dog] leaps up to catch [/EN#174780/other an orange toy] .
+[/EN#174779/animals A dog] catches [/EN#174780/other a disk] in [/EN#0/notvisual the air] .

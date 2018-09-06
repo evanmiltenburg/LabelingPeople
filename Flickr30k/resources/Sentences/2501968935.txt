@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#53602/people a man] in [/EN#53603/clothing a purple shirt] , [/EN#53605/scene leather chaps] and [/EN#53604/clothing a red bandanna] , standing near [/EN#53606/people other men] .
+[/EN#53602/people A man] dressed in [/EN#53603/clothing a purple shirt] and [/EN#53604/clothing red bandanna] smiles at [/EN#53608/people the people] watching [/EN#0/notvisual him] .
+[/EN#53602/people A man] wearing [/EN#53603/clothing a purple shirt] and [/EN#53605/scene black leather chaps] poses for [/EN#0/notvisual the camera] .
+[/EN#53602/people Man] dressed in [/EN#53605/scene leather chaps] and [/EN#53603/clothing purple shirt] stands in front of [/EN#53606/people onlookers]
+[/EN#53602/people A man] on [/EN#53607/scene the street] wearing [/EN#53605/scene leather chaps] and [/EN#53609/other a chainmail codpiece] .

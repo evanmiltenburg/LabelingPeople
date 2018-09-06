@@ -1,0 +1,5 @@
+[/EN#19977/people A group of spectators] sitting in [/EN#19978/other lawn chairs] in [/EN#19985/scene the street] facing [/EN#19979/scene a building] and drinking [/EN#19980/other beer] .
+[/EN#19981/people People] sitting around in [/EN#19984/other a semi circle] [/EN#19977/people all] looking in [/EN#0/notvisual the same direction] .
+[/EN#19982/people A large group of people] of [/EN#19987/other various ages and genders] sit outside together .
+[/EN#19981/people People] sit in [/EN#19978/other green chairs] at [/EN#19983/other tables] in [/EN#19985/scene the street] .
+[/EN#19981/people some of the people] in [/EN#19977/people the crowd] are having [/EN#19980/other a drink]

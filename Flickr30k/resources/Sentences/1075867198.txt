@@ -1,0 +1,5 @@
+[/EN#1813/people A man] in [/EN#1817/clothing a brown shirt] and [/EN#1815/clothing dark shorts] plays on [/EN#1814/scene the beach] with [/EN#1816/animals his two black dogs] .
+[/EN#1813/people A man] in [/EN#1815/clothing shorts] with [/EN#1816/animals two black dogs] holds [/EN#1818/other a ball] throwing [/EN#1819/other toy] at [/EN#1814/scene the beach] .
+[/EN#1813/people a man] playing with [/EN#1816/animals two black dogs] on [/EN#1814/scene the beach]
+[/EN#1813/people Man] at [/EN#1814/scene the beach] with [/EN#1816/animals two dogs] .
+[/EN#1813/people A man] with [/EN#1816/animals two dogs] on [/EN#1814/scene a beach]

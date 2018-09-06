@@ -1,0 +1,5 @@
+[/EN#130642/people A person] on [/EN#130647/other a skateboard] is in [/EN#0/notvisual the air] while performing [/EN#0/notvisual a skateboarding trick] .
+[/EN#130642/people A skateboarder] does [/EN#0/notvisual a trick] on [/EN#130643/other the coping of a bowl] .
+[/EN#130642/people A skateboarder] grinds [/EN#130643/other a curved bowl] at [/EN#130646/scene night] .
+[/EN#130642/people A man] is skateboarding on [/EN#130643/scene a ramp] in [/EN#130646/scene the dark] .
+[/EN#130642/people A skateboarder] gets to [/EN#130643/scene the top of a ramp] .

@@ -1,0 +1,5 @@
+[/EN#157575/people A little boy] is wearing [/EN#157578/clothing headphones] while watching [/EN#157580/bodyparts a pair of hands] on [/EN#157576/other a TV screen] with [/EN#157582/scene a microphone stand] in front of [/EN#157583/bodyparts the hands] .
+[/EN#157575/people A brown-haired boy] is wearing [/EN#157577/clothing a red t-shirt] and [/EN#157578/clothing headphones] as [/EN#0/notvisual he] watches [/EN#157576/other TV] .
+[/EN#157575/people A boy] with [/EN#157577/clothing a red shirt] and [/EN#157578/clothing headphones] is looking at [/EN#157576/other a monitor] .
+[/EN#157579/other A white wall] with [/EN#157576/other pictures] with [/EN#157575/people a little boy] looking at [/EN#0/notvisual them] .
+[/EN#157575/people A person] is watching [/EN#157576/other a TV screen] and wearing [/EN#157578/clothing headphones] .

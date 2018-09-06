@@ -1,0 +1,5 @@
+[/EN#69214/people Two men] , [/EN#69218/other one] in [/EN#69221/clothing a red shirt] and [/EN#69214/other one] in [/EN#69222/clothing a green shirt] , sit atop [/EN#69215/scene a tile roof] .
+[/EN#69214/other Two young men labor] in [/EN#69220/other the sun] placing [/EN#69216/other tiles] on [/EN#69215/scene a roof] .
+[/EN#69214/people Two men] are applying [/EN#69216/other ceramic tile] to [/EN#69215/scene an old roof] .
+[/EN#69214/people Two guys] are tiling [/EN#69215/scene a roof] while sitting on [/EN#0/notvisual it] .
+[/EN#69214/people Two men] on top of [/EN#69215/scene a roof] fixing [/EN#0/notvisual it] .

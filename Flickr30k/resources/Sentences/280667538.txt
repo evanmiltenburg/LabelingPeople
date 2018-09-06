@@ -1,0 +1,5 @@
+[/EN#74000/people A man] on [/EN#74003/animals a horse] holding [/EN#74006/other a banner] with [/EN#74007/scene a castle] on [/EN#0/notvisual it] is talking to [/EN#74001/people another man] in [/EN#74010/clothing a red cloak] and [/EN#74015/clothing turban] .
+[/EN#74000/people A knight] on [/EN#74012/other horseback] and [/EN#74001/people another man] reenact [/EN#74009/scene a medieval scene] for [/EN#74008/people a group of spectators] .
+[/EN#74000/people A man] wearing [/EN#74005/clothing black and gold] is preparing for [/EN#74011/other competition] at [/EN#74014/scene medieval times event] .
+[/EN#74002/people Two men] in [/EN#74013/clothing medieval dress] , [/EN#74005/other one] on [/EN#74003/animals a horse] , appear to be talking to [/EN#0/notvisual each other] .
+[/EN#74000/people A man] in [/EN#74005/clothing black and yellow] on [/EN#74003/animals a horse] is talking to [/EN#74001/people a person] wearing [/EN#74010/clothing red] .

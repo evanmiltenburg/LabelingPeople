@@ -1,0 +1,5 @@
+[/EN#270358/people A guy] in [/EN#270359/clothing a blue shirt] , [/EN#270364/clothing shorts] and [/EN#270365/clothing sandals] is giving [/EN#270363/other a speech] with [/EN#270360/other a microphone] to [/EN#270361/people some people] sitting in [/EN#270362/scene the front row of an auditorium] .
+[/EN#270358/people A man] in [/EN#270359/clothing a blue shirt] is talking on [/EN#270360/other a microphone] , in front of [/EN#270361/people people] sitting down .
+[/EN#270358/people A guy] in [/EN#270359/clothing a blue polo shirt] and [/EN#270364/clothing shorts] addresses [/EN#270361/people an audience] in [/EN#270362/scene an auditorium] .
+[/EN#270358/people A man] is speaking through [/EN#270360/other the microphone] to [/EN#270361/people people] in [/EN#270361/people an audience] .
+[/EN#270358/people A man] is giving [/EN#270363/other a speech] .

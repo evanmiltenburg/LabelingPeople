@@ -1,0 +1,5 @@
+[/EN#200056/people Three people] walking through [/EN#200057/scene the subway station] , while [/EN#200058/people a fourth person] waits .
+[/EN#200056/people People] walk near [/EN#200063/other the yellow line] on [/EN#200057/scene the platform of a subway station] .
+[/EN#200057/scene The inside of a subway tunnel] with [/EN#200062/other bright advertisement] on [/EN#200060/other the wall] .
+[/EN#200056/people People] walk up and down [/EN#200057/scene a hallway] with [/EN#200061/other advertisements] on [/EN#200060/other the wall] .
+[/EN#200056/people Three women] walking down [/EN#200057/scene a tunnel] while [/EN#200058/people a seated man] watches [/EN#0/notvisual them] .

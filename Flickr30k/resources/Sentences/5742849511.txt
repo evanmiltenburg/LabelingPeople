@@ -1,0 +1,5 @@
+[/EN#242215/people a boy] in [/EN#242224/clothing a purple shirt] is playing with [/EN#242218/other a toy] ans [/EN#242219/people another young boy] in [/EN#242225/clothing a blue shirt] is watching [/EN#0/notvisual him] .
+[/EN#242214/people Two young boys] are playing [/EN#242218/other a game] on [/EN#242217/scene a cobblestone street] with [/EN#242221/scene cobblestone buildings] .
+[/EN#242214/people Two kids] play outside on [/EN#242217/scene a cobblestone street] near [/EN#242223/other some Porta Potties] .
+[/EN#242214/people Kids] pass [/EN#242220/other the time] while [/EN#242222/other others] watch .
+[/EN#242214/people Two kids] playing together .

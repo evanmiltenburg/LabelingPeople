@@ -1,0 +1,5 @@
+[/EN#203902/people A woman] in [/EN#203904/clothing a red dress] is looking at [/EN#203908/other something] down [/EN#203906/scene the street] .
+[/EN#203902/people A woman] in [/EN#203904/clothing a red coat] is leaving [/EN#203903/scene a photo shop] .
+[/EN#0/notvisual They] can take [/EN#203907/other care of all your photo] needs .
+[/EN#203902/people A blond woman] exiting [/EN#203903/scene a photography store] .
+[/EN#203905/people 4 people] stand outside [/EN#203903/scene a photography store]

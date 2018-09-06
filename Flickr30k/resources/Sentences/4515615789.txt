@@ -1,0 +1,5 @@
+[/EN#174722/people Single man] in [/EN#174723/clothing blue] rowing [/EN#174724/vehicles/scene a boat] across [/EN#174726/scene a river] .
+[/EN#174722/other A local] paddles [/EN#174724/other their canoe] through [/EN#174725/scene the water] .
+[/EN#174722/people A man] in [/EN#174723/clothing all blue clothing] canoeing alone .
+[/EN#174722/people A man] is paddling [/EN#174724/vehicles/scene a boat] in [/EN#174725/scene the water] .
+[/EN#174722/people a boy] in [/EN#174723/clothing a blue outfit] rowing [/EN#174724/vehicles/scene a boat]

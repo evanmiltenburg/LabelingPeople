@@ -1,0 +1,5 @@
+[/EN#97782/people A person] in [/EN#97783/clothing a black wetsuit] is surfing in [/EN#97785/scene the ocean] with [/EN#97784/scene a wave] coming down .
+[/EN#97782/people A woman] in [/EN#97783/clothing a black wetsuit] surfs in [/EN#97787/other bad weather] .
+[/EN#97782/people A surfer] in [/EN#97783/clothing all black] is riding [/EN#97784/scene a wave] .
+[/EN#97782/people A surfer] rides [/EN#97788/scene the waves] .
+[/EN#97782/people A person] is surfing .

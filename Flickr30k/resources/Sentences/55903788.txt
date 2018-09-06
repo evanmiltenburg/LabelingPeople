@@ -1,0 +1,5 @@
+[/EN#239253/people A woman] in [/EN#239254/clothing a dark green tank top] holds [/EN#239255/people a long strand of another woman] [/EN#239256/bodyparts 's red-colored hair] while running [/EN#239259/other a hairbrush] through [/EN#0/notvisual it] .
+[/EN#239253/people A woman] wearing [/EN#239254/clothing a blue top] , brushes [/EN#239256/people the hair of another woman] , wearing [/EN#239258/clothing a green top] .
+[/EN#239257/people A woman] sits as [/EN#239253/people another woman] brushes out [/EN#239256/bodyparts her hair] .
+[/EN#239253/people A woman] combing [/EN#239255/bodyparts another woman 's hair] .
+[/EN#239253/people A lady] is fixing [/EN#239256/bodyparts another lady 's hair] .

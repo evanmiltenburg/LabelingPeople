@@ -1,0 +1,5 @@
+[/EN#50823/people The woman] is holding up [/EN#50827/other the line] with [/EN#50825/animals the fish] that [/EN#0/notvisual she] caught in [/EN#50828/scene the lake] with [/EN#50826/other her bamboo fishing pole] .
+[/EN#50823/people A woman] holds [/EN#50825/animals a fish] up [/EN#0/notvisual that] is connected to [/EN#50826/other her fishing pole] .
+[/EN#50823/people A woman] in [/EN#50824/clothing a black bathing suit] holds up [/EN#50825/animals a fish] .
+[/EN#50823/people A young woman] holds up [/EN#50825/animals a fish] [/EN#0/notvisual she] caught .
+[/EN#50823/people A girl] in [/EN#50824/clothing black tank top] catches [/EN#50825/animals a fish] .

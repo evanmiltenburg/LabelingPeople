@@ -1,0 +1,5 @@
+[/EN#167311/animals A Brown dog] is jumping over [/EN#167312/other a fallen tree] in [/EN#167315/other the woods] .
+[/EN#167311/animals Tan colored dog] jumping over [/EN#167312/other a branch] in [/EN#167313/scene the forest] .
+[/EN#167311/animals The white dog] is jumping over [/EN#167312/other a fallen tree] .
+[/EN#167311/animals The dog] leaps over [/EN#167312/other the log] in [/EN#167313/scene the forest] .
+[/EN#167311/animals A small tan dog] jumps over [/EN#167312/other a small log] .

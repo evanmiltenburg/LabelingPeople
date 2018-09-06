@@ -1,0 +1,5 @@
+[/EN#116036/people A woman] wearing [/EN#116038/clothing a white shirt] looks at [/EN#116039/people a woman] sitting next to [/EN#0/notvisual her] [/EN#0/notvisual who] is making [/EN#116041/bodyparts a funny face] .
+[/EN#116032/people Two women] in [/EN#116040/clothing black and white] sit on [/EN#116037/scene a white , leather seat] and talk over [/EN#116035/clothing beer glasses] .
+[/EN#116032/people Two women] are sitting at [/EN#116034/other a table] in [/EN#116033/scene a restaurant] with [/EN#116035/clothing empty glasses] in front of [/EN#0/notvisual them] .
+[/EN#116032/people Two women] are sitting at [/EN#116034/other a table] with [/EN#116035/clothing empty glasses] in front of [/EN#0/notvisual them] .
+[/EN#116032/people two women] talk at [/EN#116033/scene a restaurant] .

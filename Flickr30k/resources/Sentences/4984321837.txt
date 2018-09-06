@@ -1,0 +1,5 @@
+[/EN#226082/people A man] wearing [/EN#226084/clothing an orange hat] is kneeling down with [/EN#226086/bodyparts his hands] on [/EN#0/notvisual the ground] on [/EN#226083/other some rocks] .
+[/EN#226082/people An individual] is crouched down on top of [/EN#226083/other rocks] underneath [/EN#226088/scene a blue sky] .
+[/EN#226082/people A person] in [/EN#226084/bodyparts an orange head] covering [/EN#226085/other crouches] atop [/EN#226083/other a rock formation] .
+[/EN#226082/people A man] is crouching on [/EN#226083/other rocks] .
+[/EN#226082/people A man] bends down on [/EN#226083/other a rock] .

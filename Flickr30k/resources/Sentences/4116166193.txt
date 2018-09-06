@@ -1,0 +1,5 @@
+[/EN#156160/people A man] wearing [/EN#156163/other a tag] [/EN#0/notvisual that] says [/EN#156163/other Jake] is standing in front of [/EN#156162/other microphone] wearing [/EN#156165/clothing a brown jacket] and [/EN#156166/clothing a red patterned tie] with [/EN#156161/other a large screen] displaying [/EN#156170/other text] in [/EN#0/notvisual the background] .
+[/EN#156160/people A man] , wearing [/EN#156165/clothing a suit] with [/EN#156163/other a name tag] , is speaking into [/EN#156162/other a microphone] , while standing in front of [/EN#156161/other a video presentation] .
+[/EN#156160/people Man] in [/EN#156165/clothing suit] and tie [/EN#156169/other talks] into [/EN#156162/other a microphone] while giving [/EN#156164/other a presentation] .
+[/EN#0/notvisual There] is [/EN#156160/people a man] in [/EN#156165/clothing a suit] speaking in [/EN#156162/other a microphone] in front of [/EN#156161/other a screen] .
+[/EN#156160/people Man] in [/EN#156165/clothing a suit] and tie making [/EN#156164/other a presentation] .

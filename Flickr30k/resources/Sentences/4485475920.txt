@@ -1,0 +1,5 @@
+[/EN#172364/people A group of people] in [/EN#172369/clothing black and white] walk past [/EN#172371/scene two black and white striped sign posts] on [/EN#172365/scene a city street corner] .
+[/EN#172365/scene An intersection] where [/EN#172364/people many people] are crossing [/EN#172368/scene the street] [/EN#0/notvisual that] has [/EN#172370/other black and white striped poles] .
+[/EN#172364/people A crowd of people] pass through [/EN#172366/scene a busy intersection] in [/EN#172367/scene a city] .
+[/EN#172364/people Many people] are crossing [/EN#172366/scene a busy intersection] .
+[/EN#172364/people Shoppers] walking on [/EN#172365/scene a busy city street] .

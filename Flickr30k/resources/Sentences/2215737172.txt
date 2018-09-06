@@ -1,0 +1,5 @@
+[/EN#34673/people A long-haired man] wearing [/EN#34688/clothing a blue shirt] and [/EN#34689/clothing dark pants] plays [/EN#34680/instruments a guitar] while sitting on [/EN#34685/other a wood] and [/EN#34679/other metal bench] with [/EN#34684/people another man] and [/EN#34673/people woman] in front of [/EN#34674/other a Joes Cafe rainbow mural] .
+[/EN#34674/other A wall] with [/EN#34676/other a rainbow] leading to [/EN#34683/other a cup of coffee] saying [/EN#34674/other Joe 's Cafe] , [/EN#0/notvisual there] are [/EN#34672/people three people] sitting on [/EN#34679/other a bench] by [/EN#34674/other the wall] and , [/EN#34673/other one] is playing [/EN#34680/instruments a guitar] .
+[/EN#34672/people Three adults] sitting on [/EN#34679/other a bench] in front of [/EN#34675/other a sign] for [/EN#34674/other Joe 's Cafe] listening to [/EN#34673/people one man] play [/EN#34680/instruments the guitar] .
+[/EN#34673/people A man] is playing [/EN#34680/instruments his guitar] at [/EN#34682/other Joe 's Cafe] .
+[/EN#34672/people A few people] are sitting on [/EN#34679/other a bench] .

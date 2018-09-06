@@ -1,0 +1,5 @@
+[/EN#132049/animals A white dog] catches [/EN#132050/other a green ball] while standing in [/EN#132051/scene shallow water] .
+[/EN#132049/animals a white dog] is jumping up out of [/EN#132051/scene the water] to catch [/EN#132050/other a ball] .
+[/EN#132049/animals A white dog] jumps out of [/EN#132051/scene the water] to catch [/EN#132050/other a tennis ball] .
+[/EN#132049/animals A white dog] jumps in [/EN#132051/scene the water] to catch [/EN#132050/other a tennis ball] .
+[/EN#132049/animals a white dog] jumps out of [/EN#132051/scene the water] to catch [/EN#132050/other a ball] .

@@ -1,0 +1,5 @@
+[/EN#107346/people A man] wearing [/EN#107348/clothing protective clothing] is being bitten on [/EN#107347/bodyparts/people the arm] by [/EN#107345/animals a dog] .
+[/EN#107346/people A man] with [/EN#107351/other a stick] and [/EN#107350/other arm protection] is being bitten by [/EN#107345/animals a large dog] .
+[/EN#107346/people The man] wearing [/EN#107348/clothing padded clothing] is fending off [/EN#107349/other an attack] by [/EN#107345/animals a dog] .
+[/EN#107345/animals/people A German shepherd] biting [/EN#107347/people the protected arm of an attack trainer] .
+[/EN#107346/people A man] training [/EN#107345/animals a dog] to attack [/EN#107347/bodyparts/people his padded arm] .

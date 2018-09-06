@@ -1,0 +1,5 @@
+[/EN#136227/people A man] in [/EN#136229/clothing a brown shirts] standing underneath [/EN#136233/other the sign] for [/EN#136226/scene a clothing store] .
+[/EN#136224/scene A city street] , outside of [/EN#136226/scene a clothing store] , with [/EN#136228/people several passersby] .
+[/EN#136226/scene The outside of a fashion store] beside [/EN#136232/scene a road] .
+[/EN#136227/people man] in [/EN#136229/clothing brown shirt] walking on [/EN#136225/scene sidewalk] .
+[/EN#136228/people People] walking past [/EN#136231/other a fashion] shops .

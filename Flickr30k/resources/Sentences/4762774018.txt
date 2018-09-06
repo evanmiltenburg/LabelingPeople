@@ -1,0 +1,5 @@
+[/EN#200286/people Policeman] have set up [/EN#200290/other a barricade] on [/EN#200288/scene a sidewalk] near [/EN#200291/other a fire hydrant] .
+[/EN#200286/people Police officers] holding back [/EN#200292/people a group of people] on [/EN#0/notvisual the other side] .
+[/EN#200285/people Five policemen] blocking off [/EN#200287/scene a section of a street] .
+[/EN#200286/people Three police officers] guarding [/EN#200289/scene a store] .
+[/EN#200285/people Police] are policing [/EN#200293/scene the scene] .

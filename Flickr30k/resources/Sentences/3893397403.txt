@@ -1,0 +1,5 @@
+[/EN#147271/people A man] wearing [/EN#147275/clothing a blue blazer] using [/EN#147272/other a cane] to help [/EN#0/notvisual him] walk across [/EN#147273/scene the crosswalk] .
+[/EN#147271/people a man] wearing [/EN#147276/clothing sunglasses] and walking with [/EN#147272/other a cane] is crossing [/EN#147273/scene the street] .
+[/EN#147271/people A man] [/EN#0/notvisual who] uses [/EN#147272/other a cane] walks over [/EN#147273/scene the white lines of a crosswalk] .
+[/EN#147271/people The man] is walking with [/EN#147272/other a cane] and carrying [/EN#147274/clothing a bag] .
+[/EN#147271/people A man] with [/EN#147272/other a cane] walking in [/EN#147273/scene a crosswalk] .

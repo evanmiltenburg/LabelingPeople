@@ -1,0 +1,5 @@
+[/EN#202511/people A girl] in [/EN#202514/clothing a green shirt] with [/EN#202516/bodyparts long dark hair] with [/EN#202512/clothing a pink and purple backpack] with [/EN#202515/other the flag of Italy] in [/EN#0/notvisual it] .
+[/EN#202511/people A woman] stands in [/EN#202513/people a crowd] wearing [/EN#202514/clothing a green shirt] , [/EN#202518/clothing pink backpack] , and [/EN#202515/other a mexican flag] attached to [/EN#202512/clothing the bag] .
+[/EN#202511/people Woman] in [/EN#202519/clothing shorts] and [/EN#202514/clothing t-shirt] standing by [/EN#202513/people some seated men] and watching [/EN#202517/people a performance or speaker] .
+[/EN#202511/people A young Mexican woman] is in [/EN#202520/scene the foreground of a room] filled with [/EN#202513/people seated people] .
+[/EN#202511/people A woman] with [/EN#202516/bodyparts long black hair] and [/EN#202514/clothing a green shirt] is standing next to [/EN#202513/people an audience] .

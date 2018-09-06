@@ -1,0 +1,5 @@
+[/EN#122302/people A man] wearing [/EN#122305/clothing a professional blue suit] and [/EN#122306/clothing protective glasses] is trying to open [/EN#122304/other a locker] with [/EN#122303/other a tool] .
+[/EN#122302/people A man] in [/EN#122305/clothing a suit] is breaking into [/EN#122304/other a locker] using [/EN#122303/other a tool] [/EN#0/notvisual that] makes [/EN#122307/scene a lot] sparks .
+[/EN#122302/people A man] in [/EN#122305/clothing a suit] wearing [/EN#122306/clothing safety goggles] is welding open [/EN#122304/other a locker] .
+[/EN#122302/people A man] welding [/EN#0/notvisual what] looks to be [/EN#122304/other a locked locker] .
+[/EN#122302/people A man] is using [/EN#122303/other a grinder] on [/EN#122304/other a locker 's lock]

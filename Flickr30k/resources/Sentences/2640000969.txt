@@ -1,0 +1,5 @@
+[/EN#63226/animals A big brown dog] jumps into [/EN#63227/scene a swimming pool] on [/EN#63228/scene the backyard] .
+[/EN#63226/animals The brown dog] is jumping into [/EN#63227/scene the crystal-clear pool] .
+[/EN#63226/animals The large brown dog] is jumping into [/EN#63227/scene a swimming pool] .
+[/EN#63226/animals A dog] in [/EN#63229/other mid-leap] into [/EN#63227/scene a pool] .
+[/EN#63226/animals Brown dog] jumping into [/EN#63227/scene the pool]

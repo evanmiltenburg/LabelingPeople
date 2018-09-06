@@ -1,0 +1,5 @@
+[/EN#65134/people An infant] is crawling on [/EN#65136/scene a wood floor] , with [/EN#65135/other a water bottle] laying nearby .
+[/EN#65134/people A young baby] crawls across [/EN#65136/scene the wood floor] towards [/EN#65135/other the water bottle] .
+[/EN#65134/people A baby] crawls on [/EN#65136/scene hardwood floors] towards [/EN#65135/other a water bottle] .
+[/EN#65134/people A baby] crawls on [/EN#65136/scene a wood floor] near [/EN#65135/scene a bottle of water] .
+[/EN#65134/people A baby] on [/EN#65136/scene a wood floor] with [/EN#65135/other a water bottle]

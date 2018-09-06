@@ -1,0 +1,5 @@
+[/EN#46492/people A woman] wearing [/EN#46494/clothing a gray jacket] and visibly laughing is seated next to [/EN#46495/people a woman] [/EN#0/notvisual who] is wearing [/EN#46493/clothing a dark blue sweater] and is smirking .
+[/EN#46490/people Two women] wearing [/EN#46491/clothing glasses] [/EN#46492/other one] is laughing and [/EN#46495/other one] is smiling .
+[/EN#46490/people Two women] smiling and laughing [/EN#0/notvisual that] are wearing [/EN#46491/clothing glasses] .
+[/EN#46490/people Two young girls] with [/EN#46491/clothing glasses] laughing together .
+[/EN#46490/people Sisters] laughing about [/EN#46498/other something] ridiculous .

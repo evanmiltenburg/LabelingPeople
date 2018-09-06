@@ -1,0 +1,5 @@
+[/EN#181367/people A man] and [/EN#181368/people a woman] are standing at [/EN#181371/other a roadside vegetable] and [/EN#181375/scene fruit stand] .
+[/EN#181364/people Two people] are at [/EN#181371/scene a vegetable stand] by [/EN#181373/vehicles a white truck] .
+[/EN#181364/people A couple] examining [/EN#181365/other produce] at [/EN#181370/people a farmers] [/EN#181376/scene ' market] .
+[/EN#181366/other A vegetables] stand with [/EN#181377/other yellow tablecloths] .
+[/EN#181368/people Someone] with [/EN#181369/vehicles a bike] is buying [/EN#181365/other produce] .

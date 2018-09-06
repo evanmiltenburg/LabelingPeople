@@ -1,0 +1,5 @@
+[/EN#165788/people A boy] in [/EN#165792/clothing red] and [/EN#165793/clothing a girl pink] are walking through [/EN#165790/scene a low cut field] .
+[/EN#165788/people The little boy] and [/EN#165791/people little girl] are walking [/EN#0/notvisual side] by [/EN#0/notvisual side] .
+[/EN#165789/people Two young children] are walking across [/EN#165790/scene an open field] .
+[/EN#165789/people Two small children] walk away in [/EN#165790/scene a field] .
+[/EN#165789/people Two small children] walking in [/EN#165790/scene a field] .

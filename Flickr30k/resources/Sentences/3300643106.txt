@@ -1,0 +1,5 @@
+[/EN#107883/people A man] stands in front of [/EN#107884/other a microphone] wearing [/EN#107886/clothing glasses] and looking at [/EN#107885/other a piece of paper] .
+[/EN#107883/people A man] wearing [/EN#107886/clothing glasses] at [/EN#107884/other the microphone] is looking down at [/EN#107885/other some paper] in [/EN#107890/bodyparts his hand] .
+[/EN#107883/people A man] with [/EN#107886/clothing glasses] reads off [/EN#107885/other a paper] into [/EN#107884/other the microphone] in [/EN#107891/scene a red-lit room] .
+[/EN#107883/people A bespectacled man] speaks into [/EN#107884/other a microphone] under [/EN#107888/clothing red] , [/EN#107887/other neon] lighting .
+[/EN#107883/people A man] in [/EN#107886/clothing glasses] is reading off [/EN#107885/other a paper] .

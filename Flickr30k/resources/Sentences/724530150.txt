@@ -1,0 +1,5 @@
+[/EN#267432/people A little boy] in [/EN#267434/clothing a blue shirt] and [/EN#267437/other blue Crocs] stands in [/EN#267438/other the branches of a tree] .
+[/EN#267433/people A man] holding [/EN#267432/people a young child] on [/EN#267435/other a tree branch] .
+[/EN#267436/people A man] holds [/EN#267432/people a small child] on [/EN#267435/other a tree limb] .
+[/EN#267432/people Little child] with [/EN#267434/clothing blue shirt] in [/EN#267435/other tree] .
+[/EN#267433/people A man] holds [/EN#267432/people a child] on [/EN#267435/other a tree branch] .

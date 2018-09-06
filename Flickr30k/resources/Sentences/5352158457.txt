@@ -1,0 +1,5 @@
+[/EN#234318/people A person] wearing [/EN#234321/clothing a cowboy hat] , [/EN#234327/clothing jeans] , and [/EN#234319/clothing a black shirt] is riding [/EN#234320/animals a brown horse] in [/EN#234324/scene a barrel racing arena] .
+[/EN#234318/people A woman] on [/EN#234320/animals a horse] , racing towards [/EN#234328/other something] with [/EN#234325/other a logo] for [/EN#234323/scene Skirvin Farms] in [/EN#0/notvisual the background] .
+[/EN#234318/people A woman] in [/EN#234319/clothing a maroon shirt] and [/EN#234321/clothing a cowboy hat] is riding [/EN#234320/animals a brown horse] .
+[/EN#234318/people An intrepid cowgirl] rides [/EN#234320/other a mustang] at [/EN#234322/other the rodeo] .
+[/EN#234318/people A girl] riding [/EN#234320/animals a horse] in [/EN#234322/other a rodeo] .

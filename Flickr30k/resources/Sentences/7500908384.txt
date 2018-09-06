@@ -1,0 +1,5 @@
+[/EN#270571/people A smartly-dressed solitary young man] or [/EN#270571/people teenage boy] leans against [/EN#270572/other a railway station platform pillar] and gazes in [/EN#0/notvisual the camera-left direction] .
+[/EN#270571/scene Young boy of Asian descent] wearing [/EN#270573/other a blue button] up [/EN#270574/clothing shirt] and [/EN#270575/clothing green pants] is leaning up against [/EN#270572/other a pillar] in [/EN#270578/scene a subway station] .
+[/EN#270571/people A boy] dressed in [/EN#270575/clothing khakis] and [/EN#270573/other a button up] leans against [/EN#270576/scene a post] at [/EN#270578/scene a train station] .
+[/EN#270571/people A young boy] with [/EN#270577/clothing a green bag] stands behind [/EN#270572/other a pole] in [/EN#270578/scene a subway station] .
+[/EN#270571/people A young boy] is standing with [/EN#270580/other his back] against [/EN#270572/other a support pillar] .

@@ -1,0 +1,5 @@
+[/EN#36899/people Various people] are walking along [/EN#36902/scene a path] towards [/EN#36901/scene a fenced-in area] [/EN#0/notvisual that] is surrounded by [/EN#36903/scene small buildings] .
+[/EN#36898/people People] running on [/EN#36902/scene a sidewalk] in [/EN#36902/scene the middle of a grassy area] .
+[/EN#36899/people People] running and walking in and out of [/EN#36904/scene a small farm town] .
+[/EN#36898/people Several couples] running down [/EN#36902/scene the road] to [/EN#36900/scene a farm house] .
+[/EN#36906/people A woman] runs along [/EN#36902/scene the sidewalk] .

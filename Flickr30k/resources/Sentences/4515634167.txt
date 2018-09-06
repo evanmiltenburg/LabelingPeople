@@ -1,0 +1,5 @@
+[/EN#174752/people Older man] standing behind [/EN#174754/scene a booth of the street] [/EN#0/notvisual that] is full of [/EN#174755/clothing various sunglasses] .
+[/EN#174752/people A man] in [/EN#174757/clothing a hat] is standing behind [/EN#174755/clothing a street display of sunglasses] .
+[/EN#174752/people A man] is walking near [/EN#174755/clothing a sunglasses] stand on [/EN#174754/scene the street] .
+[/EN#174752/people A man] is standing by [/EN#174755/scene his stand] selling [/EN#174755/clothing sunglasses] .
+[/EN#174753/people A sungalsses vendor] gazes into [/EN#0/notvisual the distance] .

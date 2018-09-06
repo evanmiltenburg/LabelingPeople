@@ -1,0 +1,5 @@
+[/EN#37225/people A man] dressed in [/EN#37226/clothing all black] is wearing [/EN#37227/other shades] and standing in [/EN#37228/scene snow] and [/EN#0/notvisual there] is [/EN#37229/vehicles a red vehicle] in [/EN#0/notvisual back of him] .
+[/EN#37225/people A man] standing in [/EN#37228/scene snow] in front of [/EN#37229/vehicles a red nissan jeep] .
+[/EN#37225/people A man] in [/EN#37226/clothing black] is walking to [/EN#37229/vehicles his truck] in [/EN#37230/scene the snow] .
+[/EN#37225/people Man] in [/EN#37226/clothing black] standing by [/EN#37229/vehicles parked car] in [/EN#37228/scene the snow] .
+[/EN#37225/people Guy] outside of [/EN#37229/vehicles his car] stuck in [/EN#37228/scene snow] .

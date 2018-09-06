@@ -1,0 +1,5 @@
+[/EN#217366/people Man] in [/EN#217371/clothing a white shirt] and [/EN#217377/clothing dark pants] leaning against [/EN#217370/other a wall] with [/EN#217372/other two shop windows] [/EN#0/notvisual that] have [/EN#217376/other bright lights] .
+[/EN#217366/people A man] with [/EN#217369/other the American flag] on [/EN#217371/clothing a white shirt] is standing on [/EN#217374/scene the sidewalk] in front of [/EN#217370/scene a liquor store] .
+[/EN#217366/people A man] stands between [/EN#217372/other two windows] , [/EN#0/notvisual one of which] advertises " [/EN#217368/other Liquors] " in front of [/EN#217369/other an American flag] .
+[/EN#217366/people A male] is looking down in front of [/EN#217372/other two displays] that [/EN#217367/other one] has [/EN#217369/other a flag] in .
+[/EN#217366/people A man] stands in front of [/EN#217370/scene a liquor store] with [/EN#217367/other a bright display] .

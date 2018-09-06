@@ -1,0 +1,5 @@
+[/EN#34742/other A yellow backhoe] near [/EN#34744/scene a large pile of dirt] and [/EN#34744/other rocks] near [/EN#34743/other a blue machine] with [/EN#34745/people a worker] standing on [/EN#0/notvisual it] .
+[/EN#34747/people A man] operates [/EN#34743/other a piece of machinery] as [/EN#34745/people another worker] in [/EN#34751/clothing an orange vest] watches .
+[/EN#34742/other Construction machinery] in [/EN#34750/other use] next to [/EN#34746/vehicles/scene trains] and [/EN#34748/scene a large red building] .
+[/EN#34742/other A yellow , heavy machine] is picking up [/EN#34744/scene dirt] , while [/EN#34746/vehicles/scene a train] goes by .
+[/EN#34742/other An excavator] being worked in front of [/EN#34746/vehicles/scene a train] .

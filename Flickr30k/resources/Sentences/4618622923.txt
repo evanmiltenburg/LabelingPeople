@@ -1,0 +1,5 @@
+[/EN#183325/people A man] in [/EN#183326/clothing a black shirt] is holding [/EN#183327/other a microphone] on [/EN#183334/scene stage] with [/EN#183332/people a drummer] and [/EN#183333/people guitarist] .
+[/EN#183325/people A man] in [/EN#183326/clothing a black shirt] prepares to perform in front of [/EN#183327/other a microphone] .
+[/EN#183325/people A singer] in [/EN#183326/clothing a black shirt] is playing in [/EN#183324/people a band] .
+[/EN#183324/people A band] on [/EN#183328/scene stage] in front of [/EN#183330/scene a body of water] .
+[/EN#183329/people A band] giving [/EN#183331/other a concert] on [/EN#183328/scene stage] .

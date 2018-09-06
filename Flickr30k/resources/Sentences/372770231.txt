@@ -1,0 +1,5 @@
+[/EN#140008/people A man] wearing [/EN#140010/clothing a dark colored sweater] is smiling while holding [/EN#140009/other a glass of beer] .
+[/EN#140008/people The man] is sitting down while enjoying [/EN#140009/other his beer] .
+[/EN#140008/people A grinning man] is lifting [/EN#140009/other his glass] .
+[/EN#0/notvisual He] is smiling while having [/EN#140009/other a drink] .
+[/EN#140008/people A man] enjoys [/EN#140009/other a glass of beer] .

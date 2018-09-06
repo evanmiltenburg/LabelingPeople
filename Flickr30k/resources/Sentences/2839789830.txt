@@ -1,0 +1,5 @@
+[/EN#76103/animals The black and white dog] jumps in [/EN#0/notvisual the air] to catch [/EN#76104/other the white Frisbee] on [/EN#76105/scene the grassy field] .
+[/EN#76103/animals a black and white dog] jumping in [/EN#0/notvisual the air] to catch [/EN#76104/other a white Frisbee] .
+[/EN#76103/animals A black and white dog] catches [/EN#76104/other a Frisbee] on [/EN#76105/scene a grassy field] .
+[/EN#76103/animals The dog] leaps to attempt to catch [/EN#76104/other the Frisbee] .
+[/EN#76103/animals A dog] jumping to catch [/EN#76104/other a Frisbee] .

@@ -1,0 +1,5 @@
+[/EN#169475/people A man] in [/EN#169480/clothing a red shirt] , [/EN#169478/clothing black overalls] and [/EN#169479/clothing sunglasses] plays [/EN#169476/instruments a guitar] .
+[/EN#169475/people A man] wearing [/EN#169478/clothing overalls] and [/EN#169477/clothing a hat] is playing [/EN#169476/scene acoustic guitar outside] .
+[/EN#169475/people A man] in [/EN#169478/clothing overalls] , [/EN#169479/clothing sunglasses] , and [/EN#169477/clothing a hat] plays [/EN#169476/instruments the guitar] .
+[/EN#169475/people A man] in [/EN#169478/clothing overalls] plays [/EN#169476/instruments the guitar] and sings .
+[/EN#169475/people A man] in [/EN#169478/clothing blue overalls] plays [/EN#169476/instruments the guitar] .

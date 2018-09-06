@@ -1,0 +1,5 @@
+[/EN#138022/vehicles/scene A bus] [/EN#0/notvisual that] 's being driven by [/EN#138026/people a man] [/EN#0/notvisual that] seems to be giving [/EN#138027/other a tour] by [/EN#138023/people the woman] .
+[/EN#138023/people A lady] wearing [/EN#138025/clothing red glasses] and [/EN#138024/clothing a floral shirt] speaks to [/EN#138028/people passengers] in [/EN#138022/vehicles/scene a bus] .
+[/EN#138023/people A woman] in [/EN#138024/clothing a blue shirt] and [/EN#138025/clothing red glasses] holding [/EN#138030/other something] on [/EN#138022/vehicles/scene a bus] .
+[/EN#138023/people A woman] is standing up on [/EN#138022/vehicles/scene a bus] .
+[/EN#138023/people Tour bus lady] taking [/EN#138029/other pictures] .

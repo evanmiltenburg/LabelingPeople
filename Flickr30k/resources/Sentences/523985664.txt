@@ -1,0 +1,5 @@
+[/EN#231820/people A girl] in [/EN#231821/clothing a blue bikini] is wearing [/EN#231822/other a cardboard sign] around [/EN#231826/bodyparts her neck] .
+[/EN#231820/people A girl] wearing [/EN#231825/clothing a swimsuit top] wears [/EN#231822/other a sign] to give [/EN#231824/other free hugs] .
+[/EN#231820/people A girl] in [/EN#231821/clothing a bikini] wears [/EN#231822/other a sign] saying " [/EN#231824/other free hugs] " .
+[/EN#231820/people Woman] in [/EN#231821/clothing blue bikini] wearing [/EN#231822/other a " free hugs " sign] .
+[/EN#231820/people a girl] wears [/EN#231822/other a sign] [/EN#0/notvisual that] says " [/EN#231824/other free hugs] " .

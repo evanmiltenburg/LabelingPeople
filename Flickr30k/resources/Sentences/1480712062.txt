@@ -1,0 +1,5 @@
+[/EN#14462/people Scuba diver] under [/EN#14462/scene the water] holding [/EN#14463/animals small crustacean] in [/EN#14465/bodyparts his hands] .
+[/EN#14462/people The scuba diver] shows off [/EN#14463/other something] [/EN#0/notvisual he] found underwater .
+[/EN#14462/people A person] in [/EN#14462/clothing a scuba suit] holds [/EN#14463/animals a very small lobster] .
+[/EN#14462/people A scuba diver] holds up [/EN#14463/animals a small lobster] underwater .
+[/EN#14462/people A scuba diver] underwater holding [/EN#14463/animals a small lobster]

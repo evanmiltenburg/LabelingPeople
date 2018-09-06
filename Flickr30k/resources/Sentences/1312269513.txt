@@ -1,0 +1,5 @@
+[/EN#8317/people A woman] in [/EN#8318/clothing a colorful dress] drives [/EN#8319/other a motorized chair] past [/EN#8323/scene a corner] on [/EN#8324/scene a city sidewalk] , while [/EN#8320/people a man] in [/EN#8321/clothing a long white t-shirt] walks towards [/EN#8325/scene the road] .
+[/EN#8317/people A lady] is in [/EN#8319/other a wheelchair] on [/EN#8323/scene the corner of a street] , and [/EN#8320/people a man] in [/EN#8321/clothing a white shirt] is about to cross [/EN#8326/scene the street] .
+[/EN#8317/people Older lady] in [/EN#8319/other a motorized wheelchair] on [/EN#8323/scene a corner] with [/EN#8320/people a man] walking in front of [/EN#0/notvisual her] .
+[/EN#8317/people An older black woman] is operating [/EN#8319/other her electric wheelchair] .
+[/EN#8317/people Elderly black woman] riding on [/EN#8319/other motorized chair]

@@ -1,0 +1,20 @@
+little
+chubby
+large
+slim
+plump
+overweight
+heavyset
+stout
+larger
+skinny
+thin
+hefty
+fit
+fat
+heavy
+obese
+big fat
+heavy set
+very large
+very overweight

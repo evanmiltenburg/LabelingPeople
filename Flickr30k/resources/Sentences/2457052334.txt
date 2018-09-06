@@ -1,0 +1,5 @@
+[/EN#50997/people A boy] with [/EN#51003/clothing a red shirt] climbs [/EN#50999/other a large rock] while [/EN#50998/people a man] with [/EN#51004/clothing a red shirt] helps [/EN#0/notvisual him] .
+[/EN#50998/people a man] stands at [/EN#51005/bodyparts the bottom of a rock face] [/EN#51006/other whist] [/EN#50997/people another man] climbs up [/EN#0/notvisual it] .
+[/EN#51001/people a person] climbing [/EN#50999/other a large rock] with [/EN#50998/people another person] on [/EN#0/notvisual the ground] helping
+[/EN#50998/people Man] helps [/EN#50998/people another person] reach [/EN#50999/other the top of a rock] [/EN#0/notvisual they] are climbing .
+[/EN#50997/people A man] climbing [/EN#50999/other the face of a rock] .

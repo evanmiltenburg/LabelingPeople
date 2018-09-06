@@ -1,0 +1,5 @@
+[/EN#207723/people A man] with [/EN#207730/bodyparts a bald head] is standing in [/EN#207726/scene the street] as [/EN#207731/other other walk] around at [/EN#207725/scene an event] .
+[/EN#207723/people A man] in [/EN#207727/clothing a white shirt] is standing in [/EN#207726/scene a street] [/EN#0/notvisual that] is crowded with [/EN#207728/people people] .
+[/EN#207723/people Man] in [/EN#207727/clothing white shirt] standing in [/EN#207726/scene street] with [/EN#207729/people vendors] and [/EN#207724/people lots of people] .
+[/EN#207723/people A man] looks at [/EN#0/notvisual the camera] on [/EN#207726/scene a street] [/EN#0/notvisual that] is busy with [/EN#207724/people pedestrians] .
+[/EN#207724/people People] walking around [/EN#207725/scene a city market] on [/EN#207726/scene a city street] .

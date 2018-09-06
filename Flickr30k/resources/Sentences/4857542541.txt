@@ -1,0 +1,5 @@
+[/EN#211495/people A man] ( with [/EN#211496/other a name tag] on [/EN#211497/clothing his shirt] ) is sitting in [/EN#211498/other a printed cloth chair] in [/EN#0/notvisual what] appears to be [/EN#211502/scene a hospital room] .
+[/EN#211495/people A man] in [/EN#211497/clothing a gray shirt] and [/EN#211499/clothing black shorts] sitting in [/EN#211498/other a chair] smiling in [/EN#211502/scene a hospital room] .
+[/EN#211495/people A man] lounges in [/EN#211503/scene a hotel room] in front of [/EN#211500/other a window] with [/EN#211501/other open curtains] .
+[/EN#211495/people A man] with [/EN#211496/other a name tag] on is sitting in [/EN#211498/other a chair] .
+[/EN#211495/people A man] in [/EN#211497/clothing a gray shirt] sits back in [/EN#211498/other a chair] .

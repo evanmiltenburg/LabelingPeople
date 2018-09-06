@@ -1,0 +1,5 @@
+[/EN#70735/animals A brown skinny dog] is jumping over [/EN#70738/scene a tuft of grass] on [/EN#70740/other a dirt pathway] .
+[/EN#70735/animals A dog] jumps on [/EN#70737/scene a sandy embankment] near [/EN#70736/animals another dog] .
+[/EN#70736/animals A dog] is jumping over [/EN#70738/scene a bush] on [/EN#70737/scene the beach] .
+[/EN#70735/animals The yellow dog] kicks up [/EN#70739/other sand] as [/EN#0/notvisual it] jumps .
+[/EN#70735/animals A brown dog] jumps in [/EN#70739/other the sand] .

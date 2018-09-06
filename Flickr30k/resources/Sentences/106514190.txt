@@ -1,0 +1,5 @@
+[/EN#1625/people A skier] is overlooking [/EN#1627/scene the beautiful white snow covered landscape] .
+[/EN#1625/people A hiker] standing high on [/EN#1626/other a bluff] overlooking [/EN#1628/scene the mountains] below .
+[/EN#1625/people a person] on [/EN#1629/other ski 's looks] from [/EN#1628/scene hill] over [/EN#1627/scene snow covered landscape]
+[/EN#1625/people A skier] is overlooking [/EN#1627/scene a snow-covered mountain] .
+[/EN#1625/people A skier] pauses on [/EN#1626/other a mountaintop] .

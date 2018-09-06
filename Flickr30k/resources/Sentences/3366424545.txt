@@ -1,0 +1,5 @@
+[/EN#113257/scene A building front] with [/EN#113258/people a few people] sitting down at [/EN#113261/other a table] .
+[/EN#113258/people A group of people] eat outside [/EN#113257/other the Utah Museum of Fine Arts] .
+[/EN#113258/people 3 people] having [/EN#113262/other coffee] outside of [/EN#113257/scene a museum] .
+[/EN#113258/people A group of people] sitting from [/EN#113260/other afar] .
+[/EN#113258/people People] sit outside [/EN#113257/scene a building] .

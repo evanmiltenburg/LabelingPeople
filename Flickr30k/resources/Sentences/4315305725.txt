@@ -1,0 +1,5 @@
+[/EN#162801/people A boy] wearing [/EN#162806/clothing a striped hoodie] is staring at [/EN#162802/animals a pigeon] on [/EN#162803/scene a street] .
+[/EN#162801/people Picture of a little boy] on [/EN#162803/scene a sidewalk] looking at [/EN#162802/animals a pigeon] .
+[/EN#162801/people A boy] wearing [/EN#162805/clothing a black hat] staring at [/EN#0/notvisual the ground] .
+[/EN#162801/people A child] is looking at [/EN#162802/other a dove] on [/EN#162803/scene the sidewalk] .
+[/EN#162801/people Boy] watching [/EN#162802/animals pigeon] on [/EN#162803/scene sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#227044/people A man] with [/EN#227048/clothing black glasses] on is holding [/EN#227047/other a sign] [/EN#0/notvisual that] says , " [/EN#227045/other freeword] . "
+[/EN#227044/people A man] with [/EN#227048/clothing glasses] holds [/EN#227047/other a sign] [/EN#0/notvisual that] says [/EN#227045/other " FREEWORD] " .
+[/EN#227044/people A man] in [/EN#227046/clothing a suit jacket] with [/EN#227045/other a ” free word] ” [/EN#227047/other sign] .
+[/EN#227044/people A man] holding [/EN#227047/other a sign] saying [/EN#227045/other " free word] " .
+[/EN#227044/people A man] in [/EN#227046/clothing a gray coat] hold [/EN#227047/other a sign] .

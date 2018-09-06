@@ -1,0 +1,5 @@
+[/EN#201615/people A man] in [/EN#201623/clothing a black hat & black shirt] painting [/EN#201624/other a slogan] in [/EN#201622/scene the road] for [/EN#201621/scene a possible event] .
+[/EN#201615/people A young man] on [/EN#201626/bodyparts his hands] and [/EN#201627/bodyparts knees] painting [/EN#201616/other a colorful sign] on [/EN#201619/scene a parking lot] .
+[/EN#201615/people A man] dressed in [/EN#201623/clothing black] , [/EN#201616/other paints artwork] on [/EN#201622/scene the street] .
+[/EN#201615/people A man] paints [/EN#201616/other a large mural] on [/EN#0/notvisual the ground] .
+[/EN#201615/people A man] does [/EN#201616/other artwork] on [/EN#201620/scene a paved street] .

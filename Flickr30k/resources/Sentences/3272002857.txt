@@ -1,0 +1,5 @@
+[/EN#105962/people A woman] in [/EN#105962/other formal riding gear] riding [/EN#105964/animals her horse] on [/EN#105963/scene the beach] .
+[/EN#105962/people A woman] is riding [/EN#105964/animals a brown horse] on [/EN#105963/scene the shore of the ocean] .
+[/EN#105962/people a woman] riding [/EN#105964/animals a large brown horse] on [/EN#105963/scene the beach]
+[/EN#105962/people A woman] on [/EN#105967/other horseback] , riding on [/EN#105963/scene the beach] .
+[/EN#105962/people Person] on [/EN#105964/animals a horse] on [/EN#105963/scene the beach] .

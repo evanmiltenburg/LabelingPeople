@@ -1,0 +1,5 @@
+[/EN#181099/people A man] wears [/EN#181100/clothing a brightly colored ceremonial robe] while holding [/EN#181108/other a similarly colored cone] shaped [/EN#181109/clothing hat] with [/EN#181105/other a star] on [/EN#181105/clothing top] .
+[/EN#181099/people A man] is dressed in [/EN#181100/clothing a purple robe] and holding [/EN#181104/other a flag] with [/EN#181105/other a silver star] at [/EN#181100/clothing the top] .
+[/EN#181099/people A man] with [/EN#181111/bodyparts a painted face] is wearing [/EN#181100/clothing a purple top] with [/EN#181104/other an orange flag] .
+[/EN#181099/people A man] is dressed in [/EN#181100/clothing a purple] and [/EN#181100/clothing orange outfit] for [/EN#181112/scene an event] .
+[/EN#181099/people A man] in [/EN#181100/clothing a costume] is at [/EN#181106/people a parade] .

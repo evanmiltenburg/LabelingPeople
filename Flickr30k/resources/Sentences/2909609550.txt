@@ -1,0 +1,5 @@
+[/EN#80683/animals A shaggy white dog] eyes [/EN#80684/other the remaining part of an ice cream cone] .
+[/EN#80683/animals A white shaggy dog] wants [/EN#80684/other a bite of its owners ice cream cone] .
+[/EN#80683/animals The shaggy dog] is looking at [/EN#80684/other the last of an ice cream cone] .
+[/EN#80683/animals A dog] staring at [/EN#80684/other the end of an ice cream cone] .
+[/EN#80683/animals Dog] looking at [/EN#80684/other food] being held by [/EN#80686/people person] .

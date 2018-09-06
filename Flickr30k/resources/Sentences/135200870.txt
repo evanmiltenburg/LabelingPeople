@@ -1,0 +1,5 @@
+[/EN#9601/people A young girl] standing next to [/EN#9602/other a bowl] holding [/EN#9604/other an egg] .
+[/EN#9601/people A little girl] wearing [/EN#10000/clothing pink] with [/EN#9604/other a raw egg] in [/EN#9602/other a bowl] .
+[/EN#9601/people A sweet young lady] deciding [/EN#0/notvisual whats] for [/EN#9602/other breakfast] !
+[/EN#9601/people A little girl] is helping [/EN#9606/other make breakfast] .
+[/EN#9601/people a toddler] with [/EN#9605/other eggs] in [/EN#9602/other a bowl] .

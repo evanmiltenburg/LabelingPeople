@@ -1,0 +1,5 @@
+[/EN#103632/animals A brown dog] is catching [/EN#103633/other a ball] in [/EN#103636/bodyparts its mouth] whilst playing in [/EN#103635/scene a snow covered field] .
+[/EN#103632/animals A blond dog] is catching [/EN#103634/other a ball] in [/EN#103636/bodyparts its mouth] in [/EN#103635/scene the snow] .
+[/EN#103632/animals A golden retriever] catches [/EN#103634/other a tennis ball] in [/EN#103635/scene the snow] .
+[/EN#103632/animals A tan dog] catches [/EN#103633/other an orange ball] in [/EN#103635/scene the snowy yard] .
+[/EN#103632/animals A dog] catching [/EN#103633/other an orange ball] , in [/EN#103635/scene the snow] .

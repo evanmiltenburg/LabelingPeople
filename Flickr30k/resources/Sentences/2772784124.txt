@@ -1,0 +1,5 @@
+[/EN#71954/people A man or woman] holds [/EN#71955/other a branch] high in [/EN#0/notvisual the air] as [/EN#0/notvisual they] look out at [/EN#71962/scene the horizon] from [/EN#71957/scene a cliff edge] .
+[/EN#71954/people A single person] stands on [/EN#71957/other a heavily-eroded cliff-side rock] while holding [/EN#71955/other a bare branch] aloft .
+[/EN#71954/people A man] is standing at [/EN#71957/scene the top of a cliff] holding [/EN#71955/other a branch] .
+[/EN#71954/people One person] stands on [/EN#71957/scene a cliff] overlooking [/EN#71956/scene a broad valley] .
+[/EN#71959/people A woman] holding [/EN#71955/other a branch] on [/EN#71963/clothing top] [/EN#71957/scene a cliff] .

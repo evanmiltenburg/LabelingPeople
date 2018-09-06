@@ -1,0 +1,5 @@
+[/EN#203679/people A balding , heavyset man] and [/EN#203680/animals a dog] are resting beside [/EN#203681/other an ornate monument] featuring [/EN#203682/people a greenish statue of a man] and [/EN#203683/people a woman] .
+[/EN#203679/people A man] with [/EN#203680/animals a dog] is seated at [/EN#203684/other the base of a statue] .
+[/EN#203679/people Fat man] and [/EN#203680/animals dog] are sitting in front of [/EN#203681/other a statue] .
+[/EN#203685/scene A great place] for [/EN#203679/people a man] and [/EN#203680/animals his dog] to relax .
+[/EN#203679/people A man] and [/EN#203680/animals his dog] sitting by [/EN#203681/other a statue] .

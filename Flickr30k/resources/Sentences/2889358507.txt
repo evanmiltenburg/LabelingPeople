@@ -1,0 +1,5 @@
+[/EN#79250/people A man] with [/EN#79253/bodyparts long black hair] wearing [/EN#79256/clothing a black shirt] and [/EN#79257/clothing multi-color tie] is using [/EN#79252/other a electronic board] with [/EN#79255/other lights] on [/EN#0/notvisual it] .
+[/EN#79250/people A man] with [/EN#79254/bodyparts a strange beard] is working on [/EN#79252/other computer products] in [/EN#79251/scene a dimly lit room] .
+[/EN#79250/people A man] with [/EN#79253/bodyparts black hair] is standing in [/EN#79251/scene a very dark room] and looking downwards .
+[/EN#79250/people A man] is working on [/EN#79252/other electronic equipment] .
+[/EN#79250/people A technician] readying [/EN#79252/other his equipment] .

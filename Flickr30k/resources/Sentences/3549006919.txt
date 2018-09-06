@@ -1,0 +1,5 @@
+[/EN#126693/people a man] wearing [/EN#126695/clothing a yellow helmet] climbing [/EN#126696/other the side of a large rock wall] .
+[/EN#126693/people A man] wearing [/EN#126695/clothing a yellow helmet] tries to climb [/EN#126696/other a rock] with [/EN#126698/bodyparts his hands] .
+[/EN#126693/people A person] wearing [/EN#126695/clothing a yellow helmet] is climbing [/EN#126694/scene a cliff] .
+[/EN#126693/people A man] in [/EN#126695/clothing a yellow helmet] climbs up [/EN#126694/scene a rock cliff] .
+[/EN#126693/people A mountain climber] reaches [/EN#126694/scene the top of a cliff] .

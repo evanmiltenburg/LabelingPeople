@@ -1,0 +1,5 @@
+[/EN#33140/animals The white dog] has [/EN#33144/clothing a blue shirt] on and is behind [/EN#33139/animals a black dog] with [/EN#33145/clothing a rellow shirt] on .
+[/EN#33137/animals Dogs] racing at [/EN#33135/other the racetrack] .
+[/EN#33138/other Horse number] [/EN#33136/other 8] is racing
+[/EN#33139/other Dogs race] on [/EN#33135/scene a track] .
+[/EN#33137/animals Dogs] racing in [/EN#33135/scene dirt] .

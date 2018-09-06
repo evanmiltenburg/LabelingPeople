@@ -1,0 +1,5 @@
+[/EN#66643/animals A hairy dog] tries to follow [/EN#66649/people its owner] around [/EN#66647/other an obstacle course] .
+[/EN#66643/animals A shaggy , brown dog] is doing [/EN#66644/other an obstacle] .
+[/EN#66643/animals A dog] is performing [/EN#66645/other act] at [/EN#66648/other dog show] .
+[/EN#66643/animals A dog] completing [/EN#66646/other a fitness excercise]
+[/EN#66643/animals Dog] passes through [/EN#66644/other obstacles] .

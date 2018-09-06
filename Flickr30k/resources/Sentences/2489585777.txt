@@ -1,0 +1,5 @@
+[/EN#53021/people An older , balding man] is sitting at [/EN#53022/other computer] with [/EN#53023/clothing a reflective orange vest] on in [/EN#53027/other a work environment] .
+[/EN#53021/people A man] in [/EN#53023/clothing an orange vest] worn over [/EN#53024/clothing a blue short-sleeve collar shirt] sits at [/EN#53022/scene a computer terminal] .
+[/EN#53021/people Man] in [/EN#53023/clothing an orange vest] is sitting down in front of [/EN#53022/other a computer] at [/EN#53026/other a desk] .
+[/EN#53021/people A man] wearing [/EN#53023/clothing an orange vest] is sitting working at [/EN#53022/other a computer] .
+[/EN#53021/people A man] working on [/EN#53022/other the computer] .

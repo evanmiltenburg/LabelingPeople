@@ -1,0 +1,5 @@
+[/EN#124370/animals A yellow dog] with [/EN#124376/clothing a brown collar] is in [/EN#124374/scene a field] , and trying to catch [/EN#124371/other a yellow and blue toy] in [/EN#124372/bodyparts its mouth] .
+[/EN#124370/animals A brown dog] has [/EN#124375/scene its mouth open] waiting to catch [/EN#124371/other a blue and yellow toy] .
+[/EN#124370/animals A dog] has [/EN#124372/bodyparts his mouth] wide open , ready to catch [/EN#124371/other a toy] in [/EN#0/notvisual the air] .
+[/EN#124370/animals A dog] opens [/EN#124372/bodyparts its mouth] to catch [/EN#124371/other a blue and yellow toy] .
+[/EN#124370/animals dog] with [/EN#124372/bodyparts open mouth] and [/EN#124371/other a toy close] by in [/EN#0/notvisual the air]

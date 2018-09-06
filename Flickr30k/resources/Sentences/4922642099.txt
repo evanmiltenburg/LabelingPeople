@@ -1,0 +1,5 @@
+[/EN#218643/animals A dog] on [/EN#218645/clothing a leash] sits alone on [/EN#218648/other a city step] with [/EN#218647/other a bottled drink] and [/EN#218646/other a book] next to [/EN#0/notvisual it] .
+[/EN#218643/animals The dog] with [/EN#218649/scene all the comforts of home] and yet still has [/EN#218650/scene no home] .
+[/EN#218643/animals A dog] with [/EN#218645/clothing a collar] on lying on [/EN#218644/scene the street] .
+[/EN#218643/animals Dog] relaxing on [/EN#218644/scene a busy street] for [/EN#218652/scene tips] .
+[/EN#218643/animals A dog] laying on [/EN#218651/scene the side of the street] .

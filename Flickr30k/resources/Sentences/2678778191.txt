@@ -1,0 +1,5 @@
+[/EN#65697/people A young man] wearing [/EN#65699/clothing a bandanna] on [/EN#65707/bodyparts his head] stands leaning on [/EN#65698/other a short brick wall] , with [/EN#65705/other flowers] behind [/EN#0/notvisual him] .
+[/EN#65697/people A young man] in [/EN#65706/clothing odd clothes] leaning against [/EN#65698/other a brick wall] with [/EN#65702/scene a garden] in [/EN#0/notvisual it] .
+[/EN#65697/people A man] in [/EN#65704/clothing a white tank top] is leaning against [/EN#65701/scene a brick fence] .
+[/EN#65697/people A man] is taking [/EN#65700/scene a break] after digging [/EN#65703/scene a hole] .
+[/EN#65697/people a man] leaning against [/EN#65698/other a brick wall] outside .

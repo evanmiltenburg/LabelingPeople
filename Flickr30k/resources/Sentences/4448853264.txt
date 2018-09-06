@@ -1,0 +1,5 @@
+[/EN#169416/people A man] wearing [/EN#169420/clothing sunglasses] , [/EN#169419/clothing headphones] and [/EN#169417/clothing a dark coat] is walking down [/EN#169418/scene the street] .
+[/EN#169416/people A man] wearing [/EN#169419/clothing headsets] and [/EN#169420/clothing sunglasses] is walking down [/EN#169418/scene the street] .
+[/EN#169416/people A man] in [/EN#169421/clothing a pink shirt] and [/EN#169417/clothing black jacket] with [/EN#169419/clothing headphones] on .
+[/EN#169416/people A man] is wearing [/EN#169417/clothing a black jacket] and has on [/EN#169419/clothing headphones] .
+[/EN#169416/people A young man] on [/EN#169418/scene the street] listening to [/EN#169419/clothing headphones] .

@@ -1,0 +1,5 @@
+[/EN#271249/people A man] with [/EN#271250/clothing a baseball cap] and [/EN#271251/clothing shiny sunglasses] looks down while [/EN#271255/people another bald man] looks down .
+[/EN#271252/people Two men] in [/EN#271251/clothing sunglasses] look at [/EN#271257/other something] in front of [/EN#0/notvisual them] .
+[/EN#271249/people Man] in [/EN#271250/clothing denim cap] and [/EN#271251/clothing sunglasses] amid [/EN#271254/people a crowd] .
+[/EN#271252/people Man] in [/EN#271250/clothing denim hat] wearing [/EN#271251/clothing dark sunglasses] .
+[/EN#271249/people Two men] wearing [/EN#271256/clothing sunglasses] .

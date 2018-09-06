@@ -1,0 +1,5 @@
+[/EN#203471/people A man] reads inside of [/EN#203472/scene an Asian bakery] , and [/EN#203474/people another man] is working behind [/EN#0/notvisual him] .
+[/EN#203471/people A man] in [/EN#203477/clothing a green t-shirt] sitting reading [/EN#203473/other a newspaper] while vending [/EN#203475/other bread]
+[/EN#203471/people An older man] reads [/EN#203473/other a newspaper] in front of [/EN#203472/scene a store] .
+[/EN#203471/people A man] is sitting down [/EN#203476/other reading] .
+[/EN#203471/people A man] is reading [/EN#203473/other a newspaper] .

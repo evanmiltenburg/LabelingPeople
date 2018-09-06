@@ -1,0 +1,5 @@
+[/EN#89802/people Three men] are standing on [/EN#89803/scene a cliff] overlooking [/EN#89806/scene mountains] and [/EN#89808/scene the ocean] .
+[/EN#89802/people Three men] are staring at [/EN#89805/scene the big , green hills] in [/EN#0/notvisual the distance] .
+[/EN#89802/people Three men] stand on [/EN#89804/scene a mountain] looking at [/EN#0/notvisual another] .
+[/EN#89802/people Three men] looking at [/EN#89805/scene grass covered hill] .
+[/EN#89802/people Three man] looking into [/EN#0/notvisual the distance]

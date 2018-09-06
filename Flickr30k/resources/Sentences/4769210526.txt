@@ -1,0 +1,5 @@
+[/EN#201003/people A boy] with [/EN#201005/clothing a blue shirt] on holding [/EN#201004/other a white ball] with [/EN#201009/other colorful circles] under [/EN#201010/bodyparts/people his arm] .
+[/EN#201003/people A young boy] in [/EN#201005/clothing a blue shirt] walking down [/EN#201007/scene the street] holding [/EN#201004/other a soccer ball] .
+[/EN#201003/people An aerial shot of a small boy] carrying [/EN#201004/other a soccer ball] .
+[/EN#201003/people A young boy] with [/EN#201008/bodyparts brown hair] walks with [/EN#201004/other a soccer ball] .
+[/EN#201003/people A boy] carrying [/EN#201004/other a ball] is walking down [/EN#201006/scene the sidewalk] .

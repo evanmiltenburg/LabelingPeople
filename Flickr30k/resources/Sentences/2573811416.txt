@@ -1,0 +1,5 @@
+[/EN#58986/people People] walking around [/EN#58987/scene a dirt covered lot] with [/EN#58991/vehicles a white and green truck] parked at [/EN#0/notvisual opposite sides] .
+[/EN#58986/people People] walking in [/EN#58987/scene a lot] where [/EN#0/notvisual it] looks like [/EN#58992/other construction] may be [/EN#58989/other about] to occur .
+[/EN#58988/people Young black boys] walk around on [/EN#58987/other sand] on [/EN#58990/scene a sunny day] .
+[/EN#58986/people Some people] wandering near [/EN#58987/scene a construction field] .
+[/EN#58986/people People] walking on [/EN#58987/scene dirt road] with [/EN#58995/vehicles two trucks]

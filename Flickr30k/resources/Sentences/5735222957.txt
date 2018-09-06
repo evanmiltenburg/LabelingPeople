@@ -1,0 +1,5 @@
+[/EN#242034/scene A subway station] where [/EN#242033/people numerous people] are standing and [/EN#242030/people one woman] is sitting and reading .
+[/EN#242030/people A woman] is reading while sitting on [/EN#242035/other a bench] on [/EN#242032/other a platform] with [/EN#242033/people other people] .
+[/EN#242030/people A seated woman] reading [/EN#242031/other a newspaper] on [/EN#242032/other a subway platform] .
+[/EN#242030/people A woman] reading [/EN#242031/other her paper] while waiting for [/EN#242037/vehicles/scene the train] .
+[/EN#242030/people Woman] sitting on [/EN#242035/other a bench] reading [/EN#242031/other a magazine] .

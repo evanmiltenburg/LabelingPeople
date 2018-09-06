@@ -1,0 +1,5 @@
+[/EN#84425/animals The skinny dog] with [/EN#84427/bodyparts the long tail] is traveling through [/EN#84426/scene the field] .
+[/EN#84425/animals A gray dog] is walking through [/EN#84426/scene a grassy field] .
+[/EN#84425/animals A greyhound] is active in [/EN#84426/scene a grassy field] .
+[/EN#84425/animals A gray dog] runs in [/EN#84426/scene a grassy field] .
+[/EN#84425/animals A dog] runs through [/EN#84426/scene a field] .

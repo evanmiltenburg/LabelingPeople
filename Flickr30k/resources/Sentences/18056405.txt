@@ -1,0 +1,5 @@
+[/EN#21051/people A man] dressed in [/EN#21056/clothing black] is sitting on [/EN#21057/scene a seat] in [/EN#21054/scene the subway station] [/EN#0/notvisual that] has [/EN#21053/clothing an opened black umbrella] laying on [/EN#0/notvisual the ground] .
+[/EN#21051/people A man] wearing [/EN#21056/clothing all black] sits on [/EN#21052/other a wooden bench] and reads , [/EN#21053/clothing his umbrella] is open nearby on [/EN#0/notvisual the ground] .
+[/EN#21051/people A man] in [/EN#21054/vehicles/scene the subway] waits with [/EN#21053/clothing his wet umbrella] for [/EN#21059/vehicles/scene the next train] .
+[/EN#21051/people A man] sitting down reading in [/EN#21054/scene the subway station] .
+[/EN#21051/people Man] sitting on [/EN#21052/other a bench] , reading [/EN#21055/other a book] .

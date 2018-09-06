@@ -1,0 +1,5 @@
+[/EN#169495/people A blond woman] is sitting on [/EN#0/notvisual the ground] , and [/EN#169498/vehicles a blue car] is standing on [/EN#169497/scene the street] .
+[/EN#169495/people A girl] sitting down on [/EN#0/notvisual the ground] alone in [/EN#169496/scene the middle of a park] .
+[/EN#169495/people A girl] sitting in [/EN#169496/scene the middle of a dirt field] by [/EN#0/notvisual herself] .
+[/EN#169495/people A girl] in [/EN#169499/clothing a black shirt] sits alone on [/EN#0/notvisual the ground] .
+[/EN#169495/people A woman] is sitting alone .

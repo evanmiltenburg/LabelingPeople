@@ -1,0 +1,5 @@
+[/EN#122124/people A little child] in [/EN#122126/clothing a green shirt] eats [/EN#122125/other a crust of bread] , smiling .
+[/EN#122124/people A smiling little boy] in [/EN#122126/clothing a green jacket] eats [/EN#122125/other a snack] .
+[/EN#122124/people A small child] in [/EN#122126/clothing a green jacket] eating [/EN#122125/other something] .
+[/EN#122124/people A child] eating [/EN#122125/other food] and smiling at [/EN#0/notvisual the camera] .
+[/EN#122124/people A small child] looks and smiles as [/EN#0/notvisual she] eats .

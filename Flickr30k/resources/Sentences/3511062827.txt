@@ -1,0 +1,5 @@
+[/EN#123764/animals The black dog] is pulling on [/EN#123765/clothing something purple] with [/EN#123766/bodyparts its mouth] .
+[/EN#123764/animals A black dog] pulling on [/EN#123765/other a purple object] with [/EN#123766/bodyparts its mouth] .
+[/EN#123764/animals A dog] playing with [/EN#123765/other a purple toy] .
+[/EN#123764/animals A black dog] pulls on [/EN#123765/other something] .
+[/EN#123764/animals A dog] bites [/EN#123765/other purple fabric] .

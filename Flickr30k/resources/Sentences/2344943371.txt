@@ -1,0 +1,5 @@
+[/EN#43113/scene The National Gallery] stands in [/EN#0/notvisual the distance] .
+[/EN#43111/people People] walking on [/EN#43112/scene a busy city street] .
+[/EN#43111/people People] are walking down [/EN#43112/scene the street] .
+[/EN#43111/people People] are walking down [/EN#43112/scene a street] .
+[/EN#43111/people People] are walking down [/EN#43112/scene a street] .

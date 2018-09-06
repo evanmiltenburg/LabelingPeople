@@ -1,0 +1,5 @@
+[/EN#228492/people A girl] with [/EN#228496/bodyparts black hair] and [/EN#228497/clothing jeans] is lugging [/EN#228495/other 2 large pumpkins] in [/EN#228494/vehicles a red wagon] behind [/EN#0/notvisual her] .
+[/EN#228492/people A woman] is pulling [/EN#228494/vehicles a red cart] with [/EN#228495/other pumpkins] in [/EN#0/notvisual it] down [/EN#228493/scene a dirt path] .
+[/EN#228492/people A woman] pulls [/EN#228495/other two pumpkins] in [/EN#228494/vehicles a red wagon] through [/EN#228493/scene a garden area] .
+[/EN#228492/people A woman] is dragging [/EN#228495/other two large pumpkins] in [/EN#228494/vehicles a red wagon] .
+[/EN#228492/people A woman] is pulling [/EN#228494/vehicles a wagon] with [/EN#228495/other two pumpkins] in [/EN#0/notvisual it] .

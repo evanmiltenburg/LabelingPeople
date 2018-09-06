@@ -1,0 +1,5 @@
+[/EN#68855/people A woman] in [/EN#68860/clothing a blue shirt] and [/EN#68859/clothing a bicycle helmet] pushes [/EN#68857/vehicles a special bicycle] [/EN#0/notvisual that] holds [/EN#68856/people a baby] in [/EN#68861/scene a car seat] and [/EN#68863/other a shovel] .
+[/EN#68855/people A man] wearing [/EN#68859/clothing a red helmet] is taking [/EN#68856/people a baby] for [/EN#68862/other a ride] on [/EN#68857/other a bike mechanism] .
+[/EN#68855/people A woman] in [/EN#68860/clothing a blue shirt] pushes [/EN#68857/other a bicycle contraption] with [/EN#68856/people a baby] in [/EN#0/notvisual it] .
+[/EN#68855/people A woman] is pushing [/EN#68857/vehicles her bike] with [/EN#68857/vehicles a baby carriage] in [/EN#68864/scene front] .
+[/EN#68855/people A woman] with [/EN#68857/vehicles a special type of bike] looking at [/EN#68856/people a baby] .

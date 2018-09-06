@@ -1,0 +1,5 @@
+[/EN#218239/people A brightly colored skinned women] in [/EN#218245/clothing summer clothes] is riding [/EN#218240/vehicles a bicycle] upon [/EN#218246/scene a street] is carrying [/EN#218241/other a white chair] on [/EN#218242/bodyparts her shoulders] with [/EN#218247/scene several obscured large buildings] in [/EN#0/notvisual the background] .
+[/EN#218239/people A blond woman] riding [/EN#218240/vehicles a blue bicycle] while carrying [/EN#218241/other a chair] over [/EN#218243/bodyparts her shoulders] .
+[/EN#218239/people A blond woman] pedals [/EN#218240/vehicles a bicycle] while carrying [/EN#218241/other a chair] on [/EN#218243/bodyparts her shoulders] .
+[/EN#218239/people A woman] riding [/EN#218240/vehicles a blue bike] is carrying [/EN#218241/other a white chair] on [/EN#218242/bodyparts her neck] .
+[/EN#218239/people A woman] riding [/EN#218240/vehicles a bike] with [/EN#218241/other a chair] on [/EN#218244/other her back] .

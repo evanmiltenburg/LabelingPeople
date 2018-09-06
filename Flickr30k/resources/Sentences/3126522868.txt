@@ -1,0 +1,5 @@
+[/EN#95304/people A boy] , wearing [/EN#95306/clothing a gray shirt] and [/EN#95308/clothing black pants] , is bowling with [/EN#95305/other a black bowling ball] with [/EN#95309/other only two pins] left to knock down .
+[/EN#95304/people A guy] in [/EN#95306/clothing a gray shirt] is bowling at [/EN#95310/scene a bowling alley] with [/EN#95305/other a black ball] in [/EN#95311/bodyparts his left hand] .
+[/EN#95304/people A man] about to throw [/EN#95305/other a bowling ball] down [/EN#95307/other a bowling lane] .
+[/EN#95304/people A boy] is winding up to send down [/EN#95305/other a bowling ball] .
+[/EN#95304/people A young child] winds up to roll [/EN#95305/other a bowling ball] .

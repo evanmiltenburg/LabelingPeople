@@ -1,0 +1,5 @@
+[/EN#31782/people A shirtless man] with [/EN#31783/clothing a backpack] and [/EN#31784/clothing a hat] is standing on [/EN#31788/scene a rocky shoreline] .
+[/EN#31782/people The man] in [/EN#31785/clothing shorts] and [/EN#31784/clothing a hat] is standing in [/EN#31788/scene the bay] beside [/EN#31789/scene the ocean] .
+[/EN#31782/people A shirtless man] in [/EN#31784/clothing a pink hat] is standing on [/EN#31788/scene a rocky shore] .
+[/EN#31782/people A shirtless man] in [/EN#31784/clothing a pink hat] stands on [/EN#31790/scene a rocky shore] .
+[/EN#31782/people A man] stands at [/EN#31786/scene the edge of the water] near [/EN#31787/other the rocks] .

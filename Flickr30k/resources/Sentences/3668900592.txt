@@ -1,0 +1,5 @@
+[/EN#135573/people A young male surfer] wearing [/EN#135578/clothing a yellow shirt] rides [/EN#135574/scene a wave] in [/EN#135577/scene the ocean] on [/EN#135576/other his whiteboard] .
+[/EN#135573/people A surfer] in [/EN#135575/clothing a yellow and black wetsuit] is falling off [/EN#135574/scene a breaking wave] .
+[/EN#135573/people A young man] in [/EN#135575/clothing a yellow shirt] flies off [/EN#135576/other his surfboard] into [/EN#135574/scene a wave] .
+[/EN#135573/people A surfer] on [/EN#135576/other his white surfboard] catching [/EN#135574/scene a wave] .
+[/EN#135573/people A man] in [/EN#135575/clothing a wetsuit] is surfing on [/EN#135577/scene the ocean] .

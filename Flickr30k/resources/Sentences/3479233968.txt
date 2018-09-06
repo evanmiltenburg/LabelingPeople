@@ -1,0 +1,5 @@
+[/EN#121419/people A man] in [/EN#121422/clothing a blue shirt] and [/EN#121425/clothing blue jeans] rides [/EN#121420/animals a dark brown horse] with [/EN#121427/bodyparts white feet] at [/EN#121424/other the rodeo] .
+[/EN#121419/people A man] wearing [/EN#121423/clothing a cowboy hat] and chaps [/EN#121419/other rides] [/EN#121420/animals a bucking horse] while [/EN#121418/people a crowd of people] look on .
+[/EN#121419/other A rodeo star] rides [/EN#121420/animals a bucking bronco] as [/EN#121418/people the large crowd] watches [/EN#0/notvisual them] .
+[/EN#121419/people A rodeo rider] is riding [/EN#121420/animals a bucking horse] in [/EN#121428/scene an arena] .
+[/EN#121418/people A crowd] watches [/EN#121419/people a bronco rider] .

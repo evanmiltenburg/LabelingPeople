@@ -1,0 +1,5 @@
+[/EN#124916/people A man] at [/EN#124919/other a table] eating , holding up [/EN#124917/other a lone potato chip] and looking at [/EN#0/notvisual it] .
+[/EN#124916/people A fat man] in [/EN#124918/clothing a purple shirt] eating [/EN#124917/other a potato chip] .
+[/EN#124916/people a man] in [/EN#124918/clothing a purple shirt] holding [/EN#124917/other a potato chip] .
+[/EN#124916/people A big man] is eating [/EN#124917/other a potato] chips
+[/EN#124916/people Old man] eating [/EN#124921/other meat] and [/EN#124920/other chips] .

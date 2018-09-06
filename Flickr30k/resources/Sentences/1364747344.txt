@@ -1,0 +1,5 @@
+[/EN#10127/people s large man] in [/EN#10135/clothing a blue shirt] and [/EN#10136/clothing shorts] leaning against [/EN#10134/other a van] in front of [/EN#10129/scene a store] called " [/EN#10128/other Terrible 's] "
+[/EN#10127/people A fat man] is refueling [/EN#10131/vehicles his Chevy SUV] outside of [/EN#10129/scene a store] [/EN#0/notvisual that] has [/EN#10133/other a sign] [/EN#0/notvisual that] says [/EN#10132/other Terrible 's Beer] .
+[/EN#10127/people A man] getting [/EN#10130/other gas] in front of [/EN#10129/scene a convenience store] .
+[/EN#10127/people A man] fills [/EN#10131/vehicles his SUV] up with [/EN#10130/other gas] at [/EN#10128/other Terrible 's] .
+[/EN#10127/people A man] fills up [/EN#10131/vehicles his vehicle] with [/EN#10130/other gas] .

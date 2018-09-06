@@ -1,0 +1,5 @@
+[/EN#221134/people A woman] in [/EN#221136/clothing a white shirt] and [/EN#221138/clothing white Capri] is walking with [/EN#221128/people a man] in [/EN#221137/clothing red balloon pants] and [/EN#221135/clothing a blue shirt] [/EN#0/notvisual who] carries [/EN#221132/other a gun] .
+[/EN#221127/people A young man] is dressed in [/EN#221131/clothing a vividly colored pirate outfit] carrying [/EN#221132/other a shotgun] .
+[/EN#221129/people Some colorful riflemen] are walking in [/EN#221133/people a parade] .
+[/EN#221128/people Men] and [/EN#221139/people women] in [/EN#221133/people a military parade] .
+[/EN#221127/people A guy] in [/EN#221131/clothing a costume] .

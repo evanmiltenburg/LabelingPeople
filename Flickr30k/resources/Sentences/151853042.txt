@@ -1,0 +1,5 @@
+[/EN#15501/people Person] welding [/EN#15502/other a large green pipe] with [/EN#15507/other welding equipment] on .
+[/EN#15501/people A person] in [/EN#15504/clothing a green shirt] and [/EN#15505/clothing jeans] welds [/EN#15502/other a large pipe] .
+[/EN#15501/people A worker] making [/EN#15502/other sure his machine] is working correctly .
+[/EN#15501/people Man] welding [/EN#15508/scene large pipe section] while wearing [/EN#15503/clothing mask] .
+[/EN#15501/people A man] wearing [/EN#15503/clothing a welding mask] working on [/EN#15502/other a duct] .

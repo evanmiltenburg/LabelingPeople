@@ -1,0 +1,5 @@
+[/EN#129039/people A large audience of people] seated at [/EN#129041/other banquet tables] is watching [/EN#129044/other the happenings] on [/EN#129043/scene a stage] surrounded by [/EN#129046/other blue curtains] .
+[/EN#129045/people Three people] are standing on [/EN#129043/scene a lit stage] while [/EN#129039/people groups of people] sitting at [/EN#129041/other tables] face [/EN#0/notvisual them] .
+[/EN#129040/people A woman] in [/EN#129047/clothing a white robe] is speaking in front of [/EN#129039/people an audience] at [/EN#129042/other a banquet] .
+[/EN#129039/people A large group of people] watching [/EN#129040/people a performer] on [/EN#129043/scene a stage] .
+[/EN#129039/people An audience] watching [/EN#129044/other a performance] .

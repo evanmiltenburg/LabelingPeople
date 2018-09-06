@@ -1,0 +1,5 @@
+[/EN#79975/people A man] in [/EN#79976/clothing a beige shirt] and [/EN#79977/clothing tan slacks] sits in [/EN#79978/other a chair] next to [/EN#79979/people a hospital patient] wearing [/EN#79980/clothing a blue gown] [/EN#0/notvisual who] is sitting cross-legged on [/EN#79981/other his hospital bed] .
+[/EN#79982/people Two men] in [/EN#79985/scene a hospital] , [/EN#79975/other one] is visiting [/EN#79979/other the other] is [/EN#79979/people a patient] .
+[/EN#79975/people A man] visiting [/EN#79979/people a friend] in [/EN#79985/scene the hospital] .
+[/EN#79982/people Two elderly men] sitting at [/EN#79985/scene the hospital] .
+[/EN#79982/people Two men] are waiting at [/EN#79985/scene a hospital] .

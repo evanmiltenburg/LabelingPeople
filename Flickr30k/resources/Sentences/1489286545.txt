@@ -1,0 +1,5 @@
+[/EN#14669/people A man] sits on [/EN#14670/other a bench] holding [/EN#14672/animals his dog] and looking at [/EN#14671/scene the water] .
+[/EN#14669/people A man] holding [/EN#14672/animals a dog] sitting on [/EN#14670/other a bench] overlooking [/EN#14671/scene a lake] .
+[/EN#14669/people A man] and [/EN#14672/animals a dog] sit on [/EN#14670/other a bench] near [/EN#14671/scene a body of water] .
+[/EN#14669/people A man] and [/EN#14672/animals his dog] watch [/EN#14673/scene the sunset] from [/EN#14670/other a bench] .
+[/EN#14669/people a man] holds [/EN#14672/animals his dog] near [/EN#14671/scene a pond] .

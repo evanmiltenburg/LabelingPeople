@@ -1,0 +1,5 @@
+[/EN#100284/people A man] in [/EN#100285/clothing a dress shirt] and tie , wearing [/EN#100286/clothing strange looking goggles] , is sitting in [/EN#100287/other a chair] looking at [/EN#100288/bodyparts his hand] .
+[/EN#100284/people A college student] is discussing while wearing [/EN#100286/clothing a pair of goggles] , as if [/EN#0/notvisual he] is [/EN#100284/people a scientist] .
+[/EN#100284/people This man] is wearing [/EN#100286/clothing large goggles] [/EN#0/notvisual that] cover [/EN#100286/bodyparts half his face] .
+[/EN#100284/people A man] wearing [/EN#100290/clothing a hat] and [/EN#100286/clothing goggles] is looking at [/EN#100288/bodyparts his hand] .
+[/EN#100284/people this man] is wearing [/EN#100286/clothing a pair of funny sunglasses] .

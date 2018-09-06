@@ -1,0 +1,5 @@
+[/EN#46827/people A young man] in [/EN#46830/clothing a gray jacket] and [/EN#46831/people a man] wearing [/EN#46832/clothing glasses] and wearing [/EN#46829/clothing a blue and black striped shirt] look at [/EN#0/notvisual each other] .
+[/EN#0/notvisual There] is [/EN#46831/people a man] in [/EN#46829/clothing a striped shirt] wearing [/EN#46832/clothing glasses] looking at [/EN#46827/people a man] in [/EN#46830/clothing a gray hooded shirt] .
+[/EN#46827/people A man] in [/EN#46830/clothing a gray hoodie] stares at [/EN#46831/people a heavier man] with [/EN#46832/clothing spectacles] and [/EN#46828/clothing an earring] .
+[/EN#46827/people A man] wearing [/EN#46830/clothing a hooded shirt] faces [/EN#46831/people a man] wearing [/EN#46832/clothing glasses] and [/EN#46833/clothing a hat] .
+[/EN#46836/people two men] looking at [/EN#0/notvisual each other] .

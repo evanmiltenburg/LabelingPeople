@@ -1,0 +1,5 @@
+[/EN#229348/people A male] in [/EN#229357/clothing gray pants] with [/EN#229353/clothing a blue shirt] and [/EN#229349/clothing backpack] walking down [/EN#229351/scene a sidewalk] in [/EN#229354/scene a neighborhood] .
+[/EN#229348/people A person] with [/EN#229349/clothing a backpack] carrying [/EN#229356/other bags of groceries] down [/EN#229351/scene a sidewalk] between [/EN#229350/scene houses] .
+[/EN#229348/people The person] is walking down [/EN#229351/other a paved walk] between [/EN#229350/scene two rows of houses] .
+[/EN#229348/people A woman] with [/EN#229349/clothing a backpack] walks along [/EN#229350/scene a series of buildings] .
+[/EN#229348/people A man] walks between [/EN#229350/scene houses]

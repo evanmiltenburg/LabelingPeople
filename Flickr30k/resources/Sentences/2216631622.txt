@@ -1,0 +1,5 @@
+[/EN#34786/people Three workers] with [/EN#34788/clothing orange clothes] are working on [/EN#34785/scene a building] .
+[/EN#34789/people A man] in [/EN#34788/clothing a construction uniform] is kneeling down .
+[/EN#34786/people Construction workers] work on [/EN#34785/scene an old building] .
+[/EN#34785/scene A construction area] closed off by [/EN#34790/other fencing] .
+[/EN#34786/people Workers] standing at [/EN#34785/scene a construction scene] .

@@ -1,0 +1,5 @@
+[/EN#99694/people An elderly man] is chopping [/EN#99696/other some sort of orange vegetable] on [/EN#99695/scene the street] .
+[/EN#99694/people An old man] cutting [/EN#99696/other vegetables] in [/EN#99695/scene the middle of a busy walkway] .
+[/EN#99694/people An elderly man] is preparing [/EN#99697/other vegetables] on [/EN#99695/scene a busy street] .
+[/EN#99694/people Man] in [/EN#99698/clothing khaki pants] shaving [/EN#99696/other carrots] .
+[/EN#99694/people A man] is squatting on [/EN#0/notvisual the ground] .

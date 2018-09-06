@@ -1,0 +1,5 @@
+[/EN#135731/people Many people] walking on [/EN#135733/scene a street] with [/EN#135732/other a barricade] and [/EN#135737/other trash] littered on [/EN#135733/scene street]
+[/EN#135731/people People] walk in [/EN#135733/scene the street] where [/EN#135732/other a barricade] has been set up .
+[/EN#135731/people A large group of people] standing on [/EN#135733/scene blocked off street] .
+[/EN#135734/other The street party] is over and [/EN#135731/other everybody] went [/EN#135735/scene back home] .
+[/EN#135731/people Many people] are gathered on [/EN#135733/scene busy street] .

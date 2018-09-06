@@ -1,0 +1,5 @@
+[/EN#104482/people A boy] is running in [/EN#104483/scene a spinning metal tunnel] in [/EN#104484/scene the playground] .
+[/EN#104482/people A man] is at [/EN#104484/scene a park] and [/EN#104486/other about] to enter [/EN#104483/other a large round structure] .
+[/EN#104485/people Two children] play on [/EN#104483/other large barrel hoops] on [/EN#104484/scene a playground] .
+[/EN#104482/people A boy] plays at [/EN#104484/scene the playground] .
+[/EN#104482/people a boy] run through [/EN#104483/other a big wheel] .

@@ -1,0 +1,5 @@
+[/EN#212155/people a woman] riding [/EN#212156/animals a tan horse] with [/EN#212160/bodyparts a white mane] around [/EN#212157/scene a rodeo arena] .
+[/EN#212155/people A female cowgirl] riding [/EN#212156/animals a horse] , at [/EN#212157/scene a ranch] .
+[/EN#212155/people A person] in [/EN#212158/clothing a cowboy hat] rides [/EN#212156/animals a tan horse] .
+[/EN#212155/people A woman] is riding [/EN#212156/animals a palomino horse] .
+[/EN#212155/people A cowboy] riding [/EN#212156/animals a horse] in [/EN#212159/clothing a ring] .

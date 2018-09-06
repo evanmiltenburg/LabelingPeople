@@ -1,0 +1,5 @@
+[/EN#237232/people A man] wearing [/EN#237234/clothing a light blue shirt] and [/EN#237235/clothing gray pants] is crouched in [/EN#237233/scene a field] holding [/EN#237236/other nuts] in [/EN#237240/bodyparts his hand] .
+[/EN#237232/people A man] is crouched on [/EN#237233/scene his field] harvesting [/EN#237237/scene roots] in [/EN#237239/scene the middle of the day] .
+[/EN#237232/people A guy] wearing [/EN#237234/clothing a white shirt] and [/EN#237235/clothing blue pants] is harvesting [/EN#237236/other some vegetables] .
+[/EN#237232/people A man] is harvesting [/EN#237236/other vegetables] from [/EN#237233/other the brown earth] .
+[/EN#237232/people Man] digging in [/EN#237233/scene his garden] for [/EN#237236/other vegetables] .

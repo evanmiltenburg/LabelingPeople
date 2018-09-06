@@ -1,0 +1,5 @@
+[/EN#46983/animals Brown dog] with [/EN#46986/scene mouth open] running toward [/EN#46985/other camera] in [/EN#46987/scene a wooded area] .
+[/EN#46983/animals A black and brown dog] is running through [/EN#46984/other the woods] .
+[/EN#46983/animals A black and brown dog] runs through [/EN#46984/other the woods] .
+[/EN#46983/animals A dog] running through [/EN#46984/other the woods] .
+[/EN#46983/animals A dog] runs through [/EN#46984/other the woods] .

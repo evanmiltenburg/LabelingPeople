@@ -1,0 +1,5 @@
+[/EN#175241/people A woman] wearing [/EN#175245/clothing sunglasses] rides [/EN#175244/vehicles her bicycle] across [/EN#175242/scene the crosswalk] .
+[/EN#175241/people A woman] wearing [/EN#175245/clothing sunglasses] riding [/EN#175244/vehicles her bike] across [/EN#175243/scene the street] .
+[/EN#175241/people A girl] rides [/EN#0/notvisual her] [/EN#175244/vehicles bike] in [/EN#175242/scene a crosswalk] at [/EN#175243/scene an intersection] .
+[/EN#175241/people A blond American girl] rides [/EN#0/notvisual her] [/EN#175244/vehicles bike] on [/EN#175246/scene a nice day] .
+[/EN#175241/people A female] is bicycling down [/EN#175243/scene a street] .

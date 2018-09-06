@@ -1,0 +1,5 @@
+[/EN#234705/people A woman] in [/EN#234707/clothing a navy blue shirt] and [/EN#234708/clothing jeans] stands in front of [/EN#234711/scene a metal building] , [/EN#234720/bodyparts her hand] resting on [/EN#234709/scene a fence] , with [/EN#234706/animals her black and white dog] lying in front of [/EN#0/notvisual her] .
+[/EN#234705/people A young woman] wearing [/EN#234708/clothing a dark blue top and jeans] is standing in [/EN#234710/scene a dirt] filled [/EN#234710/scene area] with [/EN#234706/animals a black and white dog] at [/EN#234719/bodyparts her feet] .
+[/EN#234705/people A girl] stands beside [/EN#234706/animals a laying dog] while leaning on [/EN#234709/scene a fence] and standing on [/EN#0/notvisual the dirt ground] .
+[/EN#234705/people A woman] in [/EN#234707/clothing a blue shirt] and [/EN#234708/clothing jeans] and [/EN#234706/animals her dog] are standing near [/EN#234716/other a pen] and [/EN#234711/scene a large shed] .
+[/EN#234705/people A young lady] and [/EN#234706/other her dog strike] [/EN#234717/other a pose] at [/EN#234713/scene their farm] .

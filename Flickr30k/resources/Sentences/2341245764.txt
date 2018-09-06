@@ -1,0 +1,5 @@
+[/EN#42786/people One black man] , [/EN#42794/scene outside] , painting [/EN#42793/other blue letters] on [/EN#42792/other a white wall] [/EN#0/notvisual that] is [/EN#42789/scene part of a building] .
+[/EN#42786/people An artist] paints [/EN#42790/other a mural] onto [/EN#42789/scene a building] .
+[/EN#42786/other A picture of an African man painting] .
+[/EN#42786/other Man painting] on [/EN#42791/scene the street] .
+[/EN#42786/people black man] painting [/EN#42790/other a sign] .

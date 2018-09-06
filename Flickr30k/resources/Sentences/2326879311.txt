@@ -1,0 +1,5 @@
+[/EN#41895/people A man] in [/EN#41900/other red lays] on [/EN#41898/scene the sidewalk] next to [/EN#41896/scene a red brick building] .
+[/EN#41895/people A man] in [/EN#41897/clothing a red sleeveless shirt] curled up in front of [/EN#41899/other a door] .
+[/EN#41895/people A man] in [/EN#41897/clothing a red shirt] is curled up on [/EN#41898/scene pavement outdoors] .
+[/EN#41895/people A ragged man] sleeping behind [/EN#41896/scene a building] .
+[/EN#41895/people a man] sleeping on [/EN#41898/scene the street]

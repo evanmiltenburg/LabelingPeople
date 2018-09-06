@@ -1,0 +1,5 @@
+[/EN#33520/people A man] and [/EN#33522/people a woman] are sitting at [/EN#33521/other a table] with [/EN#33523/other jars of beer] and [/EN#33526/other cigarettes] .
+[/EN#33520/people A man] and [/EN#33522/people a woman] at [/EN#33521/other a table] with playing [/EN#33524/other cards] and [/EN#33523/other beer] in [/EN#33523/other mason jars] .
+[/EN#33520/people A man] and [/EN#33522/people a woman] are sitting at [/EN#33521/other a table] smiling at [/EN#0/notvisual the camera] .
+[/EN#33520/people The man] and [/EN#33522/people woman] are drinking out of canning [/EN#33523/other jars] .
+[/EN#33520/people A man] and [/EN#33522/people a woman] playing [/EN#33524/other cards] .

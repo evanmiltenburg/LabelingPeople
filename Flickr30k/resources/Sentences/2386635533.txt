@@ -1,0 +1,5 @@
+[/EN#45677/people A woman] with [/EN#45678/clothing a dark blue shirt] and [/EN#45679/clothing jeans] throws [/EN#45680/other a bag of trash] in [/EN#45681/other a dumpster] .
+[/EN#45677/people A woman] in [/EN#45678/clothing a blue shirt] and [/EN#45679/clothing jeans] is throwing [/EN#45682/other something] away in [/EN#45681/other a dumpster] .
+[/EN#45677/people A woman] throwing [/EN#45680/other a white trash-bag] into [/EN#45681/other a dumpster] in front of [/EN#45683/vehicles a car] .
+[/EN#45677/people A woman] throwing [/EN#45680/other a bag of trash] into [/EN#45681/other an outdoor bin]
+[/EN#45677/people A woman] tosses [/EN#45680/other a bag of trash] into [/EN#45681/other a dumpster] .

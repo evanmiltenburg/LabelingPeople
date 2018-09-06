@@ -1,0 +1,5 @@
+[/EN#259679/people A group of people] sitting around [/EN#259683/other a rectangular table] having [/EN#259681/other either pieces of paper or laptops] in front of [/EN#0/notvisual them] .
+[/EN#259678/people 11 men] and [/EN#259684/people women] sit around [/EN#259683/other a table] eating , while [/EN#259688/people 1 woman] bends over in [/EN#0/notvisual the background] .
+[/EN#259685/people A group of men] and [/EN#259684/people women] are sitting at [/EN#259682/other a long table] with [/EN#259689/other papers] .
+[/EN#259679/people A bunch of people] gathered around [/EN#259682/other a long table] .
+[/EN#259686/other Dinner] and [/EN#259687/other decisions] , with [/EN#259680/people the crew] .

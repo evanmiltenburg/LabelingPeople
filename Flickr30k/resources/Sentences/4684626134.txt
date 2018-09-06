@@ -1,0 +1,5 @@
+[/EN#190356/people A man] in [/EN#190361/clothing a white shirt] and [/EN#190362/clothing brown pants] pushes [/EN#190357/vehicles a cart] .
+[/EN#190356/people A man] pushes [/EN#190356/people his walker] passed [/EN#190363/other a ' Model Express] ' .
+[/EN#190356/people An old man] pushes [/EN#190357/vehicles a cart] down [/EN#190359/scene the sidewalk] .
+[/EN#190356/people An old man] pushes [/EN#190357/vehicles a cart] past [/EN#190358/scene a shoe store] .
+[/EN#190356/people old man] pushing [/EN#190357/vehicles cart] in [/EN#190358/scene front noodle shop] .

@@ -1,0 +1,5 @@
+[/EN#23871/people A man] in [/EN#23878/clothing a white baseball cap] is sitting on [/EN#23872/vehicles/scene a boat] with [/EN#23879/bodyparts his feet] in [/EN#23873/other a yellow net] .
+[/EN#23871/people A man] is sitting on [/EN#23872/vehicles/scene a boat] with [/EN#23874/other his foot] in [/EN#23873/other a yellow net] .
+[/EN#23871/people A man] in [/EN#23876/other blue handles] [/EN#23873/other a fishing net] on [/EN#23872/vehicles/scene a boat] .
+[/EN#23871/people A fisherman] has [/EN#23874/other his foot] caught in [/EN#23873/other his net] .
+[/EN#23871/people A man] taking [/EN#23875/scene a break] from [/EN#23877/other fishing] .

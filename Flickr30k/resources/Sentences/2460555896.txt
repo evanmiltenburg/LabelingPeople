@@ -1,0 +1,5 @@
+[/EN#51184/people A man] in [/EN#51190/clothing blue coat] , [/EN#51189/clothing a red plaid shirt] , and [/EN#51187/clothing a sailor hat] , sits on [/EN#51185/other a park bench] next to [/EN#51186/vehicles a bicycle] .
+[/EN#51184/people A man] in [/EN#51187/clothing a captain 's hat] sits on [/EN#51185/other a park bench] next to [/EN#51186/vehicles a bicycle] .
+[/EN#51184/people A man] with [/EN#51192/bodyparts a beard] in [/EN#51188/clothing a captain suit] with [/EN#51186/vehicles a bike] next time [/EN#0/notvisual him] .
+[/EN#51184/people A man] sitting on [/EN#51185/other a bench] with [/EN#51186/vehicles his bike] next to [/EN#0/notvisual him] .
+[/EN#51184/people A man] is sitting on [/EN#51185/other a park bench] while [/EN#51191/other panhandling] .

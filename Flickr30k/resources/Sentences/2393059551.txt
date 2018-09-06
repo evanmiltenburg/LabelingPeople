@@ -1,0 +1,5 @@
+[/EN#46106/people A man] is standing inside [/EN#46105/scene a building] under [/EN#46107/other construction] filled with [/EN#46110/other bricks] and [/EN#46111/other various tools] .
+[/EN#46109/people Two people] work [/EN#46107/other construction] on [/EN#46108/scene the inside of a house] .
+[/EN#46106/people Man] standing inside [/EN#46108/scene a room] under [/EN#46107/other construction] .
+[/EN#46105/scene A house] is in [/EN#46107/other the middle of construction] .
+[/EN#46107/other Construction] on [/EN#46108/scene the inside of a house] .

@@ -1,0 +1,5 @@
+[/EN#199606/people A young woman] in [/EN#199610/clothing a green jacket] flies [/EN#0/notvisual her] [/EN#199604/other green model plane] as [/EN#199607/people another young person] in [/EN#199611/clothing a red hat] prepares to launch [/EN#199604/other their yellow model plane] .
+[/EN#199601/vehicles A classic propeller-driven airplane] flies in [/EN#0/notvisual the distance] as [/EN#199602/people two men] play with [/EN#199605/vehicles a remote-controlled toy airplane] in [/EN#199603/scene a field] in [/EN#0/notvisual the foreground] .
+[/EN#199602/people Two people] in [/EN#199603/scene a field] have [/EN#199605/vehicles a toy airplane] while [/EN#199601/vehicles an airplane] lands behind [/EN#0/notvisual them] .
+[/EN#199602/people Two individuals] move about [/EN#199603/scene a field] as [/EN#199601/vehicles an airplane] flies in [/EN#0/notvisual the background] .
+[/EN#199602/people These people] are flying [/EN#199604/other a plane] .

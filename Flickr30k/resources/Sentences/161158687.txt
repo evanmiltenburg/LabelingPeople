@@ -1,0 +1,5 @@
+[/EN#17451/people A man] on [/EN#17455/other a bike hit] by [/EN#17458/vehicles a vehicle] sitting on [/EN#17461/scene the floor] holding [/EN#17462/bodyparts his head] while [/EN#17460/other others] watch .
+[/EN#17453/people A man] standing in front of [/EN#17458/vehicles/scene a bus] and [/EN#17457/vehicles a bike] [/EN#0/notvisual that] is on [/EN#0/notvisual the ground] .
+[/EN#17454/people Onlookers] question [/EN#17452/people the bus driver] after [/EN#17451/people a man] on [/EN#17457/vehicles a bike] is hit .
+[/EN#17456/other The scene of an accident] where [/EN#17458/vehicles/scene a bus] hit [/EN#17451/people a biker] .
+[/EN#17454/people Four people] standing in front of [/EN#17458/vehicles/scene a bus] .

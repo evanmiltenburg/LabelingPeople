@@ -1,0 +1,5 @@
+[/EN#104999/people A woman] holds [/EN#105000/other a blue blanket] with [/EN#105000/other red and yellow patterns] while sitting on [/EN#105001/other a brown sofa] .
+[/EN#104999/people A red-haired woman] is nursing [/EN#0/notvisual what] appears to be [/EN#105000/people a baby] .
+[/EN#104999/people A person] in [/EN#105004/clothing a green robe] sits on [/EN#105001/other a couch] with [/EN#105000/other a blanket] .
+[/EN#104999/people A woman] with [/EN#105005/bodyparts dark hair] working on [/EN#105000/other some colorful fabric] .
+[/EN#104999/people Woman] sitting on [/EN#105001/other the couch sews] .

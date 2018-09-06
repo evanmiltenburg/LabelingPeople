@@ -1,0 +1,5 @@
+[/EN#170802/people A person] rides [/EN#170803/other a trike] with [/EN#170804/scene a green and gray building] [/EN#0/notvisual that] has [/EN#170810/other work] casual written on [/EN#0/notvisual it] in [/EN#0/notvisual the background] .
+[/EN#170802/people An older woman] rides [/EN#170803/vehicles a bicycle] across [/EN#170805/scene the street] in front of [/EN#170804/scene a large green building] .
+[/EN#170806/vehicles A blue car] passes through [/EN#170805/scene the intersection] at [/EN#170809/other the same time] as [/EN#170802/people the man] on [/EN#170803/vehicles the bike] .
+[/EN#170802/people A man] is riding [/EN#170803/vehicles a bike] on [/EN#170807/scene a city street] in front of [/EN#170804/scene a green building] .
+[/EN#170802/people A person] in [/EN#170811/clothing black] riding [/EN#170803/vehicles a three wheeled bike] .

@@ -1,0 +1,5 @@
+[/EN#21238/people A shirtless man] wearing [/EN#21241/clothing a white turban] is climbing [/EN#21240/other a tree trunk] .
+[/EN#21238/people A man] in [/EN#21241/clothing a turban] climbing [/EN#21240/other a tree] in [/EN#21239/scene a tropical wooded setting] .
+[/EN#21238/people A man] , with [/EN#21242/other a machete] clinging to [/EN#0/notvisual his side] , climbs [/EN#21240/other a tree] .
+[/EN#21238/people Man] wearing [/EN#21241/clothing headscarf] grasping [/EN#21240/other a tree] in [/EN#21239/scene the jungle] .
+[/EN#21238/people An Indian man] climbing [/EN#21240/other a tree] .

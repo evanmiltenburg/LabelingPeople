@@ -1,0 +1,5 @@
+[/EN#78270/animals One monkey] is jumping near [/EN#78271/animals another monkey] on top of [/EN#78273/other a wooden structure] .
+[/EN#0/notvisual There] is [/EN#78270/animals one small monkey] jumping while [/EN#78271/animals another monkey] watches .
+[/EN#78274/animals twos small brown monkeys] on [/EN#78272/other a wall] fighting with [/EN#0/notvisual each other] .
+[/EN#78270/animals A monkey] is jumping towards [/EN#78271/animals another monkey] on [/EN#78272/other a smooth rock] .
+[/EN#78270/animals A small monkey] is jumping on top of [/EN#78271/animals another small monkey] .

@@ -1,0 +1,5 @@
+[/EN#213433/people A man] and [/EN#213436/people woman] wearing [/EN#213431/clothing black and white striped shirts] walking towards [/EN#0/notvisual the camera] with [/EN#213434/other a group of others] walking behind [/EN#0/notvisual them] .
+[/EN#213429/people couple] wearing [/EN#213431/clothing black and white striped shirts] walking along [/EN#213430/scene a city street] .
+[/EN#213429/people People] in [/EN#213431/clothing black and white striped shirts] walking down [/EN#213430/scene a street] .
+[/EN#213429/people People] wearing [/EN#213431/clothing striped shirts] walking towards [/EN#213435/other camera] .
+[/EN#213432/people A group of people] walking down [/EN#213430/scene a city street] .

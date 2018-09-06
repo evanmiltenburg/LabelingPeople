@@ -1,0 +1,5 @@
+[/EN#163235/people A bearded man] wearing [/EN#163237/clothing a blue jacket] rides [/EN#163238/other his snow sled] pulled by [/EN#163236/animals his two dogs] .
+[/EN#163235/people Man] in [/EN#163237/clothing blue coat] is being pulled in [/EN#163238/other a dog sled] by [/EN#163236/animals two dogs] .
+[/EN#163235/people A man] in [/EN#163237/clothing a blue coat] is propelled on [/EN#163238/other his sled] by [/EN#163236/animals two dogs] .
+[/EN#163235/people A man] [/EN#163239/other us] using [/EN#163236/animals his two dogs] to sled across [/EN#163240/scene the snow] .
+[/EN#163236/animals Two Huskies] pull [/EN#163238/other a sled] with [/EN#163235/people a man] in [/EN#163237/clothing a blue jacket] .

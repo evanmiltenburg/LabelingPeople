@@ -1,0 +1,5 @@
+[/EN#66688/people Four people] are walking along [/EN#66691/scene a trail] in [/EN#66690/scene the desert] .
+[/EN#66689/people Four people] walking across [/EN#66693/scene brown mountains] .
+[/EN#66688/people A family] explores [/EN#66692/scene a rocky desert area] .
+[/EN#66689/people 4 people] walking through [/EN#66694/scene the desert] .
+[/EN#0/notvisual This] is [/EN#66695/other a grassy] and [/EN#66693/scene rocky place] .

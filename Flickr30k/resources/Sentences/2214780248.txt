@@ -1,0 +1,5 @@
+[/EN#34612/people An older gentleman] stands along [/EN#34613/scene the shore of an immense lake] with [/EN#34615/other a cityscape] across [/EN#34616/scene the water] .
+[/EN#34612/people A man] with [/EN#34614/clothing a black coat] and [/EN#34619/clothing glasses] stands near [/EN#34613/scene the shore of a bay] across from [/EN#34615/other a cityscape] .
+[/EN#34612/people An older gentleman] in [/EN#34614/clothing a long coat] and [/EN#34618/clothing blue sandals] is standing near [/EN#34613/scene the beach] .
+[/EN#34612/people Man] dressed in [/EN#34617/clothing black] standing in front of [/EN#34616/scene ocean] .
+[/EN#34612/people An old man] stands beside [/EN#34616/scene a sea] .

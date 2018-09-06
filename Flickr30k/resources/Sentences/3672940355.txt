@@ -1,0 +1,5 @@
+[/EN#135915/people A little girl] in [/EN#135917/clothing a pink shirt] kicks [/EN#135916/other a blue ball] .
+[/EN#135915/people A little girl] gives [/EN#135918/other a good kick] to [/EN#135916/other a blue ball] .
+[/EN#135915/people Young girl] in [/EN#135917/clothing pink shirt] kicking [/EN#135916/other blue ball] .
+[/EN#135915/people a young girl] kicking [/EN#135916/other a blue ball]
+[/EN#135915/people A girl] kicks [/EN#135916/other a ball]

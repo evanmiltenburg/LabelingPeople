@@ -1,0 +1,5 @@
+[/EN#215756/people A man] in [/EN#215758/clothing a gray suit] walks down [/EN#215759/scene a stone corridor] , carrying [/EN#215760/clothing a briefcase] .
+[/EN#215756/people A man] in [/EN#215758/clothing a business suit] strolls beneath [/EN#215761/scene a covered walkway] .
+[/EN#215757/people Four people] are depicted inside [/EN#215759/scene a cathedral-like building] .
+[/EN#215756/people A man] in [/EN#215758/clothing a suit] is walking through [/EN#215759/other an archway] .
+[/EN#215757/people People] visiting [/EN#215759/scene a historical building] .

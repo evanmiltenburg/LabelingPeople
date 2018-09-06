@@ -1,0 +1,5 @@
+[/EN#77848/people A woman] in [/EN#77849/clothing a red shirt] and [/EN#77850/clothing glasses] leans out [/EN#77851/other an order window] next to [/EN#77852/other a tall chef statue] and [/EN#77853/other a famous sign] .
+[/EN#77848/people A senior] is waiting at [/EN#77855/scene the window of a restaurant] [/EN#0/notvisual that] serves [/EN#77859/other sandwiches] .
+[/EN#77848/people An elderly woman] is working at [/EN#77854/scene a concession stand] .
+[/EN#77848/people A Food Service Worker] sitting on [/EN#77856/other the Counter] .
+[/EN#77848/people A counter person] looks on [/EN#77857/scene at a food court] .

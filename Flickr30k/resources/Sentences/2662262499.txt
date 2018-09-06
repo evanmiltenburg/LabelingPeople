@@ -1,0 +1,5 @@
+[/EN#64683/people This baseball player] , dressed in [/EN#64687/clothing red and white uniform] and holding [/EN#64684/other a bat] , is falling after being hit by [/EN#64685/scene a pitch] .
+[/EN#64683/people A boy] at [/EN#64684/other bat] playing [/EN#64688/other a baseball game] falls to [/EN#0/notvisual the ground] while [/EN#64689/people onlookers] watch .
+[/EN#64683/people A child] in [/EN#64687/clothing a uniform] is falling to [/EN#0/notvisual the ground] with [/EN#64684/other a bat] in [/EN#64690/bodyparts his or her hand] .
+[/EN#64683/people A baseball hitter] holding [/EN#64684/other a bat] falling down .
+[/EN#64683/people A baseball player] runs on [/EN#64685/scene the field] .

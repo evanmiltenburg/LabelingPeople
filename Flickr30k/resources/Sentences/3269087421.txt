@@ -1,0 +1,5 @@
+[/EN#105786/people A man] in [/EN#105797/clothing a flowered shirt] holds [/EN#105790/other a microphone] beside [/EN#105786/people a violin player] standing in [/EN#105788/people a crowd of people] .
+[/EN#105786/people A man] plays [/EN#105791/instruments a violin] at [/EN#105794/other a concert] while [/EN#105789/people a man] speaks into [/EN#105790/other a microphone] .
+[/EN#105786/people A man] is holding [/EN#105791/instruments a violin] whilst [/EN#105789/people the woman] plays [/EN#0/notvisual it] with [/EN#105793/other the bow] .
+[/EN#105789/people one man] singing next to [/EN#105786/people another man] playing [/EN#105791/instruments the violin] .
+[/EN#105786/people A violinist] and [/EN#105789/people a singer] perform in front of [/EN#105788/people people] .

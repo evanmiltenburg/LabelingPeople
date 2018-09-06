@@ -1,0 +1,5 @@
+[/EN#158628/people A man] in [/EN#158635/clothing a white uniform] is standing , looking over [/EN#158631/other a ledge] , with [/EN#158633/scene tall buildings] and palm [/EN#158634/other trees] in front of [/EN#0/notvisual him] .
+[/EN#158628/people A man] stand in front of [/EN#158629/other a brick wall] with [/EN#158630/scene the city] in [/EN#0/notvisual the background] .
+[/EN#158628/people A soldier] standing on [/EN#158632/scene a rooftop] overlooking [/EN#158630/scene a city] .
+[/EN#158628/people The guard] is looking at [/EN#158630/scene the city] past [/EN#158629/other the wall] .
+[/EN#158628/people A uniformed man] stands along side [/EN#158629/other a brick wall] .

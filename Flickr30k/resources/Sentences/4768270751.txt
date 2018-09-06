@@ -1,0 +1,5 @@
+[/EN#200920/people A woman] painting on [/EN#200922/scene the sidewalk of a busy street] as [/EN#200920/people people] walk by [/EN#0/notvisual her] .
+[/EN#200920/people A woman] in [/EN#200921/clothing a t-shirt] paints on [/EN#200922/other a large piece of paper] on [/EN#0/notvisual the ground] .
+[/EN#200920/people A woman] wearing [/EN#200921/clothing a green shirt] is painting [/EN#200922/other part of a mural] .
+[/EN#200920/people A brunette woman] is painting [/EN#200922/other large mural] on [/EN#0/notvisual the ground] .
+[/EN#200920/people A young woman] paints on [/EN#200922/other a large community mural] .

@@ -1,0 +1,5 @@
+[/EN#120510/animals A black dog] chasing [/EN#120514/animals another black dog] down [/EN#120513/scene a grass covered hill] .
+[/EN#120511/animals Two dogs] running in [/EN#120513/scene a field of dry grass] on [/EN#120512/scene a clear day] .
+[/EN#120510/animals One black dog] and [/EN#120514/animals one mixed color dog] run down [/EN#120513/scene a hill] .
+[/EN#120511/animals Two dogs] race across [/EN#120513/scene a field] on [/EN#120512/scene a sunny day] .
+[/EN#120511/animals Two black dogs] run through [/EN#120513/scene a field] .

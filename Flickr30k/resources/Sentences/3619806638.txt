@@ -1,0 +1,5 @@
+[/EN#132057/people A man] in [/EN#132065/clothing blue pants] and [/EN#132066/clothing no shirt] is doing [/EN#0/notvisual a skateboard trick] while [/EN#132059/people another man] films [/EN#0/notvisual it] .
+[/EN#132057/people A skateboarder] does [/EN#0/notvisual a trick] on [/EN#132063/scene a ramp] as [/EN#132059/people another guy] takes [/EN#132067/other a picture] .
+[/EN#132057/people A skateboarder] completes [/EN#0/notvisual a jump] while [/EN#132059/people another man] records [/EN#0/notvisual it] .
+[/EN#132060/people Two young men] are skateboarding at [/EN#132062/scene a park] near [/EN#132061/scene a large house] .
+[/EN#132057/people A skateboarder] is being photographed jumping off [/EN#132064/other a step] .

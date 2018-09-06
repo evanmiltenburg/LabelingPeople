@@ -1,0 +1,5 @@
+[/EN#71083/people A person] wearing [/EN#71086/clothing dark blue] and holding [/EN#71084/clothing a bright red umbrella] is reflected in [/EN#71085/scene the rainy pavement] .
+[/EN#71083/people A stout gentleman] does not know how to use [/EN#71084/clothing his umbrella] .
+[/EN#71083/people Person] with [/EN#71084/clothing red umbrella] walks across [/EN#71085/scene a wet sidewalk] .
+[/EN#71083/people A man] carries [/EN#71084/clothing a red umbrella] while walking .
+[/EN#71083/people Person] walking with [/EN#71084/clothing umbrella] in [/EN#71087/other the rain] .

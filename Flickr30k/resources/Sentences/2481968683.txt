@@ -1,0 +1,5 @@
+[/EN#52718/people A group of old and young people] standing in [/EN#52719/scene a dirt field] with [/EN#52720/animals a herd of sheep] against [/EN#52721/scene a deep blue sky] .
+[/EN#52718/people A group of people] [/EN#52722/people both adult] and [/EN#52723/people children] stand around [/EN#52720/animals a bunch of sheep] .
+[/EN#52724/people Four children] and [/EN#52725/people a woman] are tending [/EN#52720/animals sheep] in [/EN#52726/other an arid location] .
+[/EN#52723/people Three kids] and [/EN#52722/people there parents] tending to [/EN#52720/animals their pack of sheep] .
+[/EN#0/notvisual There] are [/EN#52718/people a group of people] around [/EN#52720/animals a heard of sheep] .

@@ -1,0 +1,5 @@
+[/EN#102056/people The skateboarder] wearing [/EN#102062/clothing jeans] and [/EN#102061/clothing a white shirt] performs [/EN#0/notvisual a trick] .
+[/EN#102056/people A skateboarder] is balancing on [/EN#102059/other a wooden box] in [/EN#102057/scene a dark room] .
+[/EN#102056/people A child] performs [/EN#0/notvisual skateboard tricks] on [/EN#102059/other a wooden platform] .
+[/EN#102056/people A man] in [/EN#102057/scene a darkened room] performing [/EN#0/notvisual skateboard tricks] .
+[/EN#102056/people The skateboarder] is wearing [/EN#102060/clothing a helmet] .

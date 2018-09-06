@@ -1,0 +1,5 @@
+[/EN#261705/people A man] in [/EN#261707/clothing a red shirt] is sitting in [/EN#261708/vehicles the drivers seat of a car] [/EN#0/notvisual that] has [/EN#261709/other the steering wheel] on [/EN#0/notvisual the right hand side] .
+[/EN#261705/people A man] in [/EN#261707/clothing a red t-shirt] and [/EN#261711/clothing jeans] is driving [/EN#261706/vehicles a right-hand drive car] .
+[/EN#261705/people Man] with [/EN#261707/clothing red shirt] is sitting in [/EN#261708/vehicles drivers seat of a car] .
+[/EN#261705/people A man] is sitting behind [/EN#261709/other the driver 's wheel] in [/EN#261706/vehicles a car] .
+Enjoying [/EN#261710/other a nice test drive] in [/EN#261706/vehicles a Foreign compact car] .

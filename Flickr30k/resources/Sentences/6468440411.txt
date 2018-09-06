@@ -1,0 +1,5 @@
+[/EN#254604/people A bearded man] leans back and smokes [/EN#254606/other a cigarette] while [/EN#254608/other the sun] sets over [/EN#254605/scene a body of water] in [/EN#0/notvisual the background] .
+[/EN#254604/people A man] is lying down next to [/EN#254605/scene a river] and smoking [/EN#254606/other a cigarette] .
+[/EN#254604/people A young man] leans [/EN#254609/bodyparts his head] back as [/EN#0/notvisual he] smokes during [/EN#254607/scene sunset] .
+[/EN#254604/people A man] leaning back , smoking [/EN#254606/other a cigarette] near [/EN#254605/scene the water] .
+[/EN#254604/people A man] is smoking at [/EN#254607/scene sunset] .

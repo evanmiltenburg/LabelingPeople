@@ -1,0 +1,5 @@
+[/EN#271634/people A man] in [/EN#271637/clothing a yellow t-shirt] with [/EN#271639/other the word] " [/EN#0/notvisual FUN.] " and [/EN#271638/clothing a denim jacket] holds [/EN#271635/other a microphone] in [/EN#271640/bodyparts one hand] and places [/EN#271641/bodyparts his other hand] on [/EN#271642/bodyparts his hip] .
+[/EN#271634/people A guy] wearing [/EN#271637/clothing a yellow shirt] is holding [/EN#271635/other a microphone] .
+[/EN#271634/people Man] on [/EN#271643/scene stage] in [/EN#271637/clothing shirt] [/EN#0/notvisual that] says [/EN#0/notvisual fun] performing .
+[/EN#271634/people A young man] holding [/EN#271635/other a microphone] and singing .
+[/EN#271634/people Man] in [/EN#271637/clothing yellow shirt] is holding [/EN#271635/other a microphone] .

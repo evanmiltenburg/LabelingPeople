@@ -1,0 +1,5 @@
+[/EN#212361/people A man] with [/EN#212369/bodyparts shoulder length dark hair] sits near [/EN#212364/scene the rocks of a waterfront] while holding [/EN#212363/other a cigarette] in [/EN#212370/bodyparts his right hand] .
+On [/EN#212366/scene a sunny day] , [/EN#212361/people a man] sits on [/EN#212364/other rocks] smoking beside [/EN#212362/scene a body of water] .
+[/EN#212361/people A man] is smoking by [/EN#212365/scene the beach] while [/EN#212367/vehicles/scene boats] sail in [/EN#0/notvisual the distance] .
+[/EN#212361/people A man] smokes [/EN#212363/other a cigarette] on [/EN#212364/other rocks] by [/EN#212362/scene the beach] .
+[/EN#212361/people A person] sitting near [/EN#212362/scene the beach] .

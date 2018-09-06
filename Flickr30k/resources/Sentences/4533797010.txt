@@ -1,0 +1,5 @@
+[/EN#176154/people A man] wearing [/EN#176155/clothing a blue polo shirt] and [/EN#176157/clothing dark pants] is carrying [/EN#176156/other a protest sign] that say " [/EN#176156/other Come on now , what 's gayer than tea] " .
+[/EN#176154/people A man] in [/EN#176155/clothing a blue shirt] is holding [/EN#176156/other a sign] [/EN#0/notvisual that] says " [/EN#176156/other Come on now ... what 's gayer than tea] . "
+[/EN#176154/people A man] in [/EN#176155/clothing a blue shirt] holds up [/EN#176156/other a protest sign] .
+[/EN#176154/people A man] in [/EN#176155/clothing a blue shirt] holding [/EN#176156/other a protest sign] .
+[/EN#176154/people A man] in [/EN#176155/clothing a blue shirt] holds [/EN#176156/other a political sign] .

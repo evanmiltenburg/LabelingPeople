@@ -1,0 +1,5 @@
+[/EN#60525/animals A white dog] in [/EN#60529/clothing a red collar] biting [/EN#60527/animals an orange tabby cat] on [/EN#60526/other a bed] .
+[/EN#60525/animals A white dog] biting [/EN#60527/animals an orange cat] on [/EN#60526/other the bed] , [/EN#60528/other pillows] behind .
+[/EN#60525/animals A dog] bites [/EN#60527/animals a cat] while [/EN#0/notvisual they] lay on [/EN#60526/other a bed] together .
+[/EN#60525/animals A white dog] biting at [/EN#60527/animals an orange cat] .
+[/EN#60525/animals White dog] biting [/EN#60527/animals orange cat] .

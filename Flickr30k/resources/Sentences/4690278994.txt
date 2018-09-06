@@ -1,0 +1,5 @@
+[/EN#191469/people A man] in [/EN#191473/clothing athletic clothing] holding [/EN#191470/other a water bottle] running .
+[/EN#191469/people A man] jogging in [/EN#191474/other athletic wear] holding [/EN#191470/scene a bottle of water] .
+[/EN#191469/people A man] is running with [/EN#191470/other a water bottle] in [/EN#191477/bodyparts his hand] .
+[/EN#191469/people A guy] in [/EN#191476/clothing white shirt] and [/EN#191475/clothing black pants] is running .
+[/EN#191469/people Man] jogging on [/EN#191472/scene a sunny day] .

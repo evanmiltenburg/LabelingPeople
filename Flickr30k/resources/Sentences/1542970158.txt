@@ -1,0 +1,5 @@
+[/EN#15978/people A man] in [/EN#15981/clothing a plaid shirt] and [/EN#15982/clothing blue jeans] stands on [/EN#15979/other scaffolding] .
+[/EN#15978/people The man] stands on [/EN#15979/other the scaffolding] as [/EN#0/notvisual he] looks outward .
+[/EN#15978/people A man] is standing on [/EN#15979/other red scaffolding] .
+[/EN#15978/people Older male] standing on [/EN#15979/other scaffolding] .
+[/EN#15978/people A man] is standing on [/EN#15979/other a builder] .

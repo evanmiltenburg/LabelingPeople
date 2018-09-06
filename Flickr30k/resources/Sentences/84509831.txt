@@ -1,0 +1,5 @@
+[/EN#281385/people Young boy] dressed in [/EN#281389/clothing long pants] and [/EN#281387/clothing a plaid shirt] is holding [/EN#281388/other a shovel] near [/EN#281386/scene the ocean] .
+[/EN#281385/people A boy] in [/EN#281387/clothing a long-sleeved shirt] and [/EN#281389/clothing long pants] is on [/EN#281386/scene the beach] .
+[/EN#281385/people A boy] in [/EN#281387/clothing a plaid shirt] wields [/EN#281388/other a shovel] on [/EN#281386/scene the beach] .
+[/EN#281385/people A boy or young man] is playing [/EN#281390/other a ballgame] on [/EN#281386/scene a beach] .
+[/EN#281385/people A boy] is running on [/EN#281386/scene the beach] with [/EN#281388/other a shovel] .

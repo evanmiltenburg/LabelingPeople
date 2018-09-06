@@ -1,0 +1,5 @@
+[/EN#16822/other The picture] is of [/EN#16816/scene a downtown area] with [/EN#16810/people people] crossing [/EN#16818/scene the street] , and walking on [/EN#16819/scene the sidewalk] .
+[/EN#16811/people A man] walking down [/EN#16819/scene a sidewalk] while [/EN#16811/people a man] on [/EN#16817/scene the left] in [/EN#16812/clothing blue] crosses [/EN#16819/scene the street] .
+[/EN#16811/people A man] with [/EN#16813/clothing a plastic bag] walks down [/EN#16818/scene the street] , passing by [/EN#16814/scene apartment buildings] .
+[/EN#0/notvisual A picture] of [/EN#16820/scene a sidewalk] in [/EN#16821/scene a city] with [/EN#16810/people people] and [/EN#16815/vehicles cars] .
+[/EN#16811/people A man] walking down [/EN#16818/scene the street] carrying [/EN#16813/clothing a shopping bag] .

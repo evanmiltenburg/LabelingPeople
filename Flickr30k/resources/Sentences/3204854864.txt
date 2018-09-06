@@ -1,0 +1,5 @@
+[/EN#100903/people A warmly dressed man] stands with [/EN#100905/other a carving station] on [/EN#100907/scene the street] in front of [/EN#100909/other his rotisserie machine] .
+[/EN#100903/people A vendor] cooking [/EN#100908/other food] [/EN#0/notvisual there] are [/EN#100912/other two red gas cans] with [/EN#100904/other food] lined up [/EN#100910/other ready] to sell .
+[/EN#100903/people A smiling man] in [/EN#100913/clothing a dark puffy vest] shows off [/EN#100904/other a kebab] .
+[/EN#100903/people A man] preparing [/EN#100904/other food] at [/EN#100906/scene a food stand] .
+[/EN#100903/people A man] is cooking [/EN#100911/scene some food outside] .

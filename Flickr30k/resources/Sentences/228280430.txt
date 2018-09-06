@@ -1,0 +1,5 @@
+[/EN#38896/people A man] is preparing [/EN#38900/other food] at [/EN#38897/scene an outdoor food shop] in [/EN#0/notvisual what] looks like [/EN#38902/scene a poor country] .
+[/EN#38896/people A man] in [/EN#38903/clothing a brown plaid shirt] is selling [/EN#38900/other pastries] from [/EN#38897/vehicles a blue vending cart] .
+[/EN#38896/people A foreign man] stands behind [/EN#38897/vehicles his beautiful blue cart] in [/EN#38897/scene an outdoor market] .
+[/EN#38901/other A middle eastern marketplace] sells [/EN#38900/other homemade food] .
+[/EN#38896/people A man] is cooking [/EN#38898/vehicles food inside of a wagon] .

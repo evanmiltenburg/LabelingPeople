@@ -1,0 +1,5 @@
+[/EN#129650/people A man] sitting in [/EN#129652/other a chair] with [/EN#129656/bodyparts his hands] folded in [/EN#129657/bodyparts his lap] sitting in front of [/EN#129651/scene a building] .
+[/EN#129650/people An old man] is sitting in [/EN#129652/other a chair] outside [/EN#129651/scene a colorfully painted building] .
+[/EN#129650/people A lone old man] sitting on [/EN#129652/other a white chair] in front of [/EN#129653/scene a gate] .
+[/EN#129650/people A man] sitting in [/EN#129652/other a chair] in front of [/EN#129651/scene a red building] .
+[/EN#129650/people Man] with [/EN#129654/other cane] sits next to [/EN#129653/other door] with [/EN#129653/scene metal gate] .

@@ -1,0 +1,5 @@
+At [/EN#220745/other the end of a long alleyway] between [/EN#220744/scene two city buildings] are [/EN#220742/people two people] walking [/EN#220749/other side-by-side] .
+[/EN#220742/people Two people] can be seen in [/EN#0/notvisual the distance] in [/EN#220743/scene an alley] between [/EN#220744/scene two large buildings] .
+[/EN#220742/people Two people] walking down [/EN#220743/scene a narrow alley] with [/EN#220744/scene large buildings] on [/EN#0/notvisual each side] .
+At [/EN#220747/scene the end of a long alley] [/EN#0/notvisual there] are [/EN#220742/people two people] walking .
+[/EN#220742/people Two people] are walking down [/EN#220743/scene a very deserted ally way] .

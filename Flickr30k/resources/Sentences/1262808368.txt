@@ -1,0 +1,5 @@
+[/EN#6617/people A woman] with [/EN#6618/clothing a blue shirt] and [/EN#6619/clothing blue shorts] has [/EN#6620/bodyparts her hand] on [/EN#6621/vehicles a white taxi] , as [/EN#6622/people a boy] in [/EN#6623/clothing a green and white shirt] walks beside [/EN#0/notvisual her] .
+[/EN#6617/people A woman] in [/EN#6618/clothing blue] wearing [/EN#6624/clothing flip-flops] touches [/EN#6621/vehicles a passing car] while walking beside [/EN#6622/people a young man] in [/EN#6623/clothing a green striped shirt] .
+[/EN#6617/people A woman] in [/EN#6618/clothing a dark blue , and white sweater] , walks with [/EN#6622/people her son] , down [/EN#6625/scene a street] .
+[/EN#6617/people The women] with [/EN#6619/clothing shorts] has [/EN#6620/bodyparts her hand] placed on [/EN#6621/vehicles a white car] .
+[/EN#6617/people A woman] wearing [/EN#6626/clothing blue] standing next to [/EN#6621/vehicles a white car] .

@@ -1,0 +1,5 @@
+[/EN#118051/animals A white and brown shaggy dog] is running down [/EN#118052/scene a dirt path] in [/EN#118053/scene a park] .
+[/EN#118051/animals The curly-haired white dog] is running down [/EN#118052/scene a wooded path] .
+[/EN#118051/animals A shaggy dog] runs down [/EN#118052/scene a dirt trail] in [/EN#118053/scene a lush forest] .
+[/EN#118051/animals A pale dog] is running along [/EN#118052/scene a dirt path] .
+[/EN#118051/animals A dog] runs along [/EN#118052/other a forest lane] .

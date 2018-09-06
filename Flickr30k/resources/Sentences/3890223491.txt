@@ -1,0 +1,5 @@
+[/EN#147142/people A man] with [/EN#147151/clothing a white t-shirt] and [/EN#147152/clothing red hat] is working outside [/EN#147144/scene a house] .
+[/EN#147142/people A man] stands [/EN#147146/other new a saw] with [/EN#147145/other a white mailbox] in [/EN#0/notvisual the foreground] .
+[/EN#147143/people Two contractors] at [/EN#147150/other work] behind [/EN#147145/other a white mailbox] .
+[/EN#147142/people A man] sitting by [/EN#147149/other trees] in front of [/EN#147144/scene a building] .
+[/EN#147143/people Constructions workers] starting [/EN#147147/scene the day] .

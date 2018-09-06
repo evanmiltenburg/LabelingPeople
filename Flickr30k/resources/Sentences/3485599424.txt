@@ -1,0 +1,5 @@
+[/EN#121817/animals A leashed dog] is in [/EN#121818/people the backyard of someone] [/EN#121819/scene 's home] .
+[/EN#121817/animals A brown and white dog] plays in [/EN#121821/scene the yard] by [/EN#121819/scene a house] .
+[/EN#121817/animals A brown and white dog] standing in [/EN#121821/scene a yard] .
+[/EN#121817/animals A dog] stands on [/EN#121821/scene the grass] while tied up .
+[/EN#121817/animals A dog] chained in [/EN#121819/scene fronr of a house] .

@@ -1,0 +1,5 @@
+[/EN#48367/people A man] in [/EN#48368/clothing a red coat] stands in front of [/EN#48369/scene a lighthouse] surrounded by [/EN#48370/other a stone wall] .
+[/EN#48367/people Female] in [/EN#48368/clothing red jacket] standing in front of [/EN#48369/scene a white tower] surrounded by [/EN#48370/other rocks] .
+[/EN#48367/people Girl] in [/EN#48368/clothing red jacket] poses for [/EN#48371/other a picture] in front of [/EN#48369/scene a white lighthouse] .
+[/EN#48367/people A man] in [/EN#48368/clothing a red jacket] is standing in front of [/EN#48369/scene a tall white building] .
+[/EN#48367/people Man] in [/EN#48368/clothing red jacket] standing in front of [/EN#48369/scene lighthouse] .

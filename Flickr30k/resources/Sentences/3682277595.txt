@@ -1,0 +1,5 @@
+[/EN#136536/animals A brown and white dog] trots across [/EN#136537/scene shallow water] with [/EN#136538/scene his mouth open] .
+[/EN#136536/animals A greyhound] walks in [/EN#136539/other the rain] through [/EN#136537/scene a large puddle] .
+[/EN#136536/animals A white and brown dog] is walking through [/EN#136537/scene the water] .
+[/EN#136536/animals A brown spotted dog] walks in [/EN#136537/scene shallow water] .
+[/EN#136536/animals The dog] walks through [/EN#136537/scene the water] .

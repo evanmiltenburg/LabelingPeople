@@ -1,0 +1,5 @@
+[/EN#154112/people A man] in [/EN#154115/clothing a yellow coat] and [/EN#154115/clothing neon green safety vest] pushes [/EN#154119/other janitorial equipment] down [/EN#154116/scene a sidewalk] .
+[/EN#154112/people A woman] walks toward [/EN#154112/people a janitor] [/EN#0/notvisual that] 's wearing [/EN#154115/clothing a raincoat] and pushing [/EN#154114/vehicles a cleaning cart] .
+[/EN#154112/people A garbage man] , doing [/EN#154118/other his best] to clean up [/EN#154116/scene the streets] .
+[/EN#154116/scene a street] cleaner cleaning [/EN#154116/scene the street] in [/EN#154120/other the rain] .
+[/EN#154112/people A worker] in [/EN#154115/clothing a yellow coat] pushes [/EN#154114/vehicles a cart] .

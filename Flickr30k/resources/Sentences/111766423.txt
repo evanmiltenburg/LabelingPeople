@@ -1,0 +1,5 @@
+[/EN#3000/clothing Black] and [/EN#2997/animals white bird] standing on [/EN#2998/people hand of someone] holding [/EN#2999/other sunflower seeds]
+[/EN#2997/animals The small bird] is clinging to [/EN#3001/bodyparts a finger of the hand] holding [/EN#2999/other the seeds] .
+[/EN#2997/animals A black and white bird] eating [/EN#2999/other seeds] out of [/EN#2998/bodyparts someone 's hand]
+[/EN#2997/animals A small bird] sits in [/EN#2998/bodyparts a person 's hand] and eats [/EN#2999/other seeds] .
+[/EN#2997/animals A black and white bird] standing on [/EN#2998/bodyparts a hand] .

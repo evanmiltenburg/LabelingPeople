@@ -1,0 +1,5 @@
+[/EN#49622/people A little kid] in [/EN#49623/clothing a blue helmet] is riding [/EN#49624/vehicles a bike] with [/EN#49625/other training wheels] on [/EN#0/notvisual it] down [/EN#49626/scene a pebbled grassy trail] .
+[/EN#49622/people A young boy] rides [/EN#49624/vehicles his bike] with [/EN#49625/other training wheels] down [/EN#49626/scene a nature path] next to [/EN#49627/scene the road] .
+[/EN#49622/people A boy] in [/EN#49623/clothing a helmet] is riding [/EN#49624/vehicles his tricycle] down [/EN#49626/scene a grassy gravel path] beside [/EN#49628/scene a fence] .
+[/EN#49622/people A little boy] is riding [/EN#49624/vehicles his bike] on [/EN#0/notvisual what] appears to be [/EN#49626/scene a walking trail] .
+[/EN#49622/people Little boy] riding [/EN#49624/vehicles his bicycle] on [/EN#49626/scene a path] .

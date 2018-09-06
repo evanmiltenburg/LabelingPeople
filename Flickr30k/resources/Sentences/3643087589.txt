@@ -1,0 +1,5 @@
+[/EN#133684/animals A small light tan dog] is running past [/EN#133683/animals a large brown dog] standing in [/EN#133685/scene the grass] .
+[/EN#133683/animals The large brown dog] faces [/EN#133684/animals the little white dog] on [/EN#133685/scene the grass] .
+[/EN#133684/animals A small white dog] and [/EN#133683/animals large brown dog] play on [/EN#133685/scene the grass] .
+[/EN#133683/animals A large yellow dog] and [/EN#133684/animals a small white dog] in [/EN#133685/scene the grass] .
+[/EN#133687/animals Two dogs] playing in [/EN#133685/scene a yard] .

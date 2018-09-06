@@ -1,0 +1,5 @@
+[/EN#59408/vehicles A red dump truck] is dumping [/EN#59410/other a load] in front of [/EN#59409/scene some buildings] while [/EN#59416/people 3 men] stand next to [/EN#59408/vehicles the truck] .
+[/EN#59412/people Four men] are performing [/EN#59417/other work] in [/EN#59413/scene a dirt lot] , near [/EN#59409/scene a building] , using [/EN#59408/vehicles a dump truck] .
+[/EN#59407/people The Workers] using [/EN#59408/vehicles a truck] to distribute [/EN#59410/other rocks] so [/EN#0/notvisual they] can build [/EN#59414/scene house] with it
+[/EN#59408/vehicles A dump truck] is unloading [/EN#59410/other rocks] while [/EN#59407/people 3 people] watch between [/EN#59409/scene two buildings] .
+[/EN#59408/vehicles A red dump truck] is [/EN#59415/scene on scene] beside [/EN#59409/scene some buildings] .

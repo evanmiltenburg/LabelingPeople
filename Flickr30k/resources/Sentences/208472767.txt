@@ -1,0 +1,5 @@
+[/EN#27660/people A girl] , wearing [/EN#27663/clothing a white blouse] , is holding [/EN#27662/other a ball] , and pointing to [/EN#27661/other a frisbee] .
+[/EN#27660/people A girl] in [/EN#27663/clothing a white shirt] is holding [/EN#27662/other a ball] and pointing at [/EN#27661/other an object] .
+[/EN#27660/people A child] in [/EN#27664/other school] , holding [/EN#27662/other a ball] as [/EN#0/notvisual she] points [/EN#27661/other a the frisbee] .
+[/EN#27660/people A little girl] with [/EN#27662/other a volleyball] pointing at [/EN#27661/other a Frisbee] .
+[/EN#27660/people A girl] is holding [/EN#27662/other a ball] and pointing to [/EN#27661/other a frisbee] .

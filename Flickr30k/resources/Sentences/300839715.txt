@@ -1,0 +1,5 @@
+[/EN#87009/people A man] wearing [/EN#87018/clothing light colored pants] and [/EN#87011/clothing a dark pink shirt] is looking at [/EN#87015/other something] as [/EN#87010/people a young girl] , wearing [/EN#87014/clothing a red skirt] and [/EN#87019/clothing white sweater] , looks on in [/EN#87013/scene a straw covered area] .
+[/EN#87009/people A man] in [/EN#87011/clothing a red jacket] is smiling down at [/EN#87010/people a little girl] wearing [/EN#87012/clothing a hat] and [/EN#87014/clothing a red dress] in [/EN#87013/scene an area] covered in [/EN#87017/other hay] .
+[/EN#87009/people A man] in [/EN#87011/clothing a pink jacket] is standing in front of [/EN#87010/people a young girl] [/EN#0/notvisual that] is wearing [/EN#87012/clothing a hat] .
+[/EN#87009/people A man] and [/EN#87010/people a child] stand nearby [/EN#0/notvisual each other] within [/EN#87016/people a tribal group] .
+[/EN#87009/people Male tourist] talking to [/EN#87010/people a local native child] and buying [/EN#87015/other artwork] .

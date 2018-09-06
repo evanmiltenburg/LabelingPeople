@@ -1,0 +1,5 @@
+[/EN#124667/animals A large brown dog] with [/EN#124668/other a stick] in [/EN#124669/bodyparts his mouth] coming out of [/EN#124670/scene water] .
+[/EN#124667/animals A dog] with [/EN#124668/other a stick] in [/EN#124669/bodyparts his mouth] walking through [/EN#124670/scene water] .
+[/EN#124667/animals A dog] carrying [/EN#124668/other a stick] while walking in [/EN#124670/scene water]
+[/EN#124667/animals A wet dog] carrying [/EN#124668/other a stick] in [/EN#124669/bodyparts its mouth] .
+[/EN#124667/animals Dog] retrieving [/EN#124668/other stick] in [/EN#124670/scene water]

@@ -1,0 +1,5 @@
+[/EN#154589/animals A dog] is shaking off [/EN#154592/scene water] in [/EN#154591/scene a lake] as [/EN#154590/other a red and green tennis ball] floats by .
+[/EN#154589/animals A dog] in [/EN#154592/scene water] with [/EN#154593/bodyparts its head] cocked to [/EN#0/notvisual the side] looking at [/EN#154590/other a ball] .
+[/EN#154589/animals A dog] is running through [/EN#154592/scene the water] chasing after [/EN#154590/other a ball] .
+[/EN#154589/animals A brown and black dog] fetching [/EN#154590/other a tennis ball] in [/EN#154591/scene a lake] .
+[/EN#154589/animals A dog] playing with [/EN#154590/other a ball] in [/EN#154592/scene water]

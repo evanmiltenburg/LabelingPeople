@@ -1,0 +1,5 @@
+[/EN#214883/people A man] in [/EN#214885/clothing a blue shirt] is swinging [/EN#214884/other a baseball bat] at [/EN#214887/scene a pitch] with [/EN#214890/scene the U.S. Capitol building] in [/EN#0/notvisual the background] .
+[/EN#214889/people Several people] are playing [/EN#214891/other baseball] on [/EN#214886/scene a grassy lawn] , with [/EN#214890/scene a government building] in [/EN#0/notvisual the background] .
+[/EN#214883/people A guy] wearing [/EN#214885/clothing a blue # 5 jersey] is hitting [/EN#214888/other a yellow softball] in [/EN#214886/scene a grassy field] to [/EN#214892/people some fielders] .
+[/EN#214883/people The batter] , [/EN#0/notvisual who] is wearing [/EN#214893/other the number 5] , swinging at [/EN#214887/scene the pitch] .
+[/EN#214883/people A man] swinging [/EN#214884/other a bat] and hitting [/EN#214888/other the ball] .

@@ -1,0 +1,5 @@
+[/EN#246305/people A small child] smiles while swinging inside [/EN#246306/other a green playground toy] .
+[/EN#246305/people A young boy] smiles as [/EN#0/notvisual he] rides [/EN#246306/other the swing] .
+[/EN#246305/people a young child] swinging on [/EN#246306/other a green swing] .
+[/EN#246305/people A boy] plays on [/EN#246306/other a green swing] .
+[/EN#246305/people A small boy] in [/EN#246306/other a swing] .

@@ -1,0 +1,5 @@
+[/EN#269369/people A man] in [/EN#269377/clothing a black wetsuit] rides [/EN#269376/scene a wave] with [/EN#269372/animals his dog] on [/EN#269375/other the surfboard] .
+[/EN#269369/people A professional surfer] brings along [/EN#269372/animals his dog] to ride with [/EN#0/notvisual him] .
+[/EN#269369/people Man] surfing on [/EN#269374/other board] with [/EN#269372/animals his dog] in [/EN#269370/scene the ocean] .
+[/EN#269369/people A man] and [/EN#269372/animals his dog] riding [/EN#269373/other the surf] at [/EN#269371/scene the beach] .
+[/EN#269369/people A man] is surfing [/EN#269376/scene the waves] with [/EN#269372/animals a dog] .

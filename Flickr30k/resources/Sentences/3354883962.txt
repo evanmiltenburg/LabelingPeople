@@ -1,0 +1,5 @@
+[/EN#112199/animals An off-white dog] has [/EN#112203/bodyparts his mouth] open as [/EN#0/notvisual he] bounds through [/EN#112201/scene the fenced-in snowy area] .
+[/EN#112199/animals A white poodle] is running in [/EN#112201/scene the snow] , near [/EN#112200/scene a chain link fence] .
+[/EN#112199/animals A white dog] with [/EN#112204/clothing a black collar] runs in [/EN#112201/scene the snow] .
+[/EN#112199/animals A white dog] runs past [/EN#112200/scene a fence] on [/EN#112202/scene a snowy day] .
+[/EN#112199/animals A dog] runs in [/EN#112201/scene the snow] .

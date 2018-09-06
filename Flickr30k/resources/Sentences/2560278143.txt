@@ -1,0 +1,5 @@
+[/EN#58075/animals A black and brown dog] walks down [/EN#58076/scene a dirt and grass hill] .
+[/EN#58075/animals A young beagle] playing in [/EN#58076/scene the grass] .
+[/EN#58075/animals A beagle] walks down [/EN#58076/scene a grassy hill] .
+[/EN#58075/animals A beagle] is playing in [/EN#58076/scene the grass] .
+[/EN#58075/animals Basset hound] on [/EN#58077/other a grassy slope] .

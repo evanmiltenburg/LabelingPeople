@@ -1,0 +1,5 @@
+[/EN#27302/people A man] in [/EN#27303/clothing a black shirt] , [/EN#27304/clothing jeans] , and wearing [/EN#27305/clothing a hat] is dangling from [/EN#27306/other a rope] with [/EN#27307/other two buckets] with [/EN#0/notvisual him] while painting [/EN#27308/scene the exterior of a building] with [/EN#27308/other a brown paint] .
+[/EN#27302/people A painter] hanging on [/EN#27312/other the side of a building painting] , with [/EN#27307/other two buckets] strapped at [/EN#0/notvisual his sides] .
+[/EN#27302/people A man] hanging over [/EN#27308/scene the side of a building] in [/EN#27310/clothing a rappelling harness] doing [/EN#27311/other repairs] .
+Carrying [/EN#27307/other two buckets] , [/EN#27302/people a worker] scales [/EN#27308/scene the outside of a building] .
+[/EN#27302/people A man] sitting on [/EN#27306/other a swing] is painting [/EN#27308/scene the outside of building] .

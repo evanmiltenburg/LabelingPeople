@@ -1,0 +1,5 @@
+[/EN#165107/people A young man] is sitting next to [/EN#165117/other the ornate building wall] with [/EN#165108/clothing the backpack] on [/EN#0/notvisual the ground] and hiding [/EN#165111/bodyparts his face] in [/EN#165112/bodyparts his hands] .
+[/EN#165107/people A person] in [/EN#165109/clothing a black sweater] puts down [/EN#165108/clothing a backpack] , sits on [/EN#165110/scene a block] and holds [/EN#165111/bodyparts his or her head] .
+[/EN#165107/people A man] with [/EN#165111/bodyparts black hair] sits on [/EN#165110/other a cement slab] with [/EN#165115/bodyparts his head] down and [/EN#165112/bodyparts his hands] over [/EN#165111/bodyparts his face] .
+[/EN#165107/people man] sitting on [/EN#165110/other a stone] with [/EN#165108/clothing a backpack] and [/EN#165113/clothing a scarf] around [/EN#165116/other his next looking] as to be sad .
+[/EN#165107/people A man] in [/EN#165109/clothing a black shirt] sits with [/EN#165112/bodyparts his hands] covering [/EN#165111/bodyparts his face] .

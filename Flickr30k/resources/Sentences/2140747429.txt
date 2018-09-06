@@ -1,0 +1,5 @@
+[/EN#30797/people The little boy] with [/EN#30802/other the yellow stripe] on [/EN#30804/clothing his hat] is in [/EN#30798/scene the snow] .
+[/EN#30797/people A child] in [/EN#30798/scene the snow] with [/EN#30799/scene a house] in [/EN#0/notvisual the background] .
+[/EN#30798/scene Snow] covers [/EN#0/notvisual the ground] and [/EN#30803/clothing a young boy 's jacket] .
+[/EN#30797/people A little boy] is throwing [/EN#30798/scene snow] around [/EN#30800/scene outside] .
+[/EN#30797/people This boy] is throwing [/EN#30801/other a snowball] .

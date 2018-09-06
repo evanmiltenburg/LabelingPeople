@@ -1,0 +1,5 @@
+[/EN#31860/animals Four white dogs] are running and jumping with [/EN#31862/clothing masks] over [/EN#31865/bodyparts their mouth] .
+[/EN#31860/animals Four muzzled black and white dogs] racing over [/EN#0/notvisual a jump] .
+[/EN#31860/animals Four white dogs] with [/EN#0/notvisual muzzles jump] over [/EN#31864/other a red wall] .
+[/EN#31860/animals A group of dogs] wearing [/EN#31862/clothing muzzles] running [/EN#31863/other a race] .
+[/EN#31860/animals dogs] racing

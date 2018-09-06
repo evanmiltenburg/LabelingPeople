@@ -1,0 +1,5 @@
+[/EN#70014/people A man] wearing [/EN#70016/clothing a red bicycle helmet] is buried in fallen [/EN#70020/other tree] leaves with [/EN#70015/people two young boys] with [/EN#70019/other playground equipment] and [/EN#70021/other trees] with [/EN#70017/other golden leaves] in [/EN#0/notvisual the background] .
+[/EN#70014/people A man] with [/EN#70016/clothing a bike helmet] and [/EN#70015/people two young boys] have [/EN#70022/bodyparts just their heads] peeking up from [/EN#70017/other a pile of leaves] .
+[/EN#70014/people A man] wearing [/EN#70016/clothing a bicycle helmet] and [/EN#70015/people two young boys] are covered in [/EN#70017/other fall leaves] in [/EN#70017/scene a playground] .
+[/EN#70015/people Two children] [/EN#70014/people an adult] wearing [/EN#70016/clothing a bicycle helmet] playing in [/EN#70017/other a pile of fall leaves] .
+[/EN#70014/people A man] and [/EN#70015/people two boys] lay in [/EN#70017/other autumn leaves] at [/EN#70017/scene a playground] .

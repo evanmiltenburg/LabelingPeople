@@ -1,0 +1,5 @@
+[/EN#113783/people A frightened boy] is carrying [/EN#113785/other a hammer] , ready to defend [/EN#0/notvisual himself] .
+[/EN#113783/people A man] is sitting on [/EN#113784/other a brown sofa] while holding [/EN#113785/other a red hammer] .
+[/EN#113783/people Boy] sitting on [/EN#113784/other a couch] staring with [/EN#113785/other a hammer] in [/EN#113786/bodyparts his hands] .
+[/EN#113783/people A teenage boy] holds [/EN#113785/other a hammer] with [/EN#113786/bodyparts both hands] .
+[/EN#113783/people a boy] in [/EN#113787/clothing a black shirt] holding [/EN#113785/other a hammer] .

@@ -1,0 +1,5 @@
+[/EN#4023/people Two ladies] are cooking & talking and [/EN#4025/people two gentlemen] are talking in [/EN#4029/scene the opposite site of the kitchen] .
+[/EN#4025/people Two men] and [/EN#4023/people two women] are preparing [/EN#4030/other food] and talking in [/EN#4031/scene a kitchen] .
+[/EN#4025/people Two men] and [/EN#4023/people two women] are preparing [/EN#4030/other a large meal] in [/EN#4031/scene the kitchen] .
+[/EN#4026/people Four middle-aged people] are preparing [/EN#4030/other a meal] in [/EN#4031/scene a kitchen] .
+[/EN#4027/people An elderly woman] places [/EN#5000/other carrots] into [/EN#4028/other a casserole] .

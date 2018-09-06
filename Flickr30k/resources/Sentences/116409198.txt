@@ -1,0 +1,5 @@
+[/EN#4307/people A mountaineer] sits in [/EN#4308/scene the snow] in front of [/EN#4309/scene a yellow tent] under [/EN#4310/scene clear blue sky] .
+[/EN#4307/people Person] wearing [/EN#4311/clothing a hooded jacket] sitting on [/EN#4308/scene snow] in front of [/EN#4309/scene a yellow tent] .
+[/EN#4307/people Young man] in [/EN#4311/clothing hooded jacket] sitting on [/EN#4308/scene snow] in [/EN#4308/scene mountain area] .
+[/EN#4307/people A man] sitting near [/EN#4309/scene a tent] in [/EN#4308/scene the snow] and [/EN#4308/other ice] .
+[/EN#4307/people A man] eats near [/EN#4309/scene a tent] in [/EN#4308/scene the snow] .

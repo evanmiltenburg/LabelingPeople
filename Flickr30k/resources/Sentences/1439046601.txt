@@ -1,0 +1,5 @@
+[/EN#13103/people A boy] is smiling whilst standing in front of [/EN#13104/scene a swimming pool] .
+[/EN#13103/people A boy] smiles standing in front of [/EN#13104/scene a swimming pool] .
+[/EN#13103/people Smiling boy] standing near [/EN#13104/scene the pool] .
+[/EN#13103/people a kid] smiling at [/EN#13104/scene the swimming pool]
+[/EN#13103/people a boy] standing by [/EN#13104/scene a swimming pool]

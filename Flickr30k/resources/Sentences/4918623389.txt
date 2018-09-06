@@ -1,0 +1,5 @@
+[/EN#218274/people A man] wearing [/EN#218278/clothing a black top] and [/EN#218277/people a woman] wearing [/EN#218279/clothing a purple] are riding [/EN#218275/vehicles a suzuki motorbike] .
+[/EN#218274/people A man] and [/EN#218277/people women] wearing [/EN#218282/clothing jeans] and [/EN#218283/clothing no helmets] are riding on [/EN#218275/vehicles a Suzuki street bike] .
+[/EN#218274/people A man] and [/EN#218277/people woman] are riding [/EN#218275/other a green Suzuki motorcycle] together .
+[/EN#218273/people People] riding on [/EN#218275/other a motorcycle] on [/EN#218281/scene a waterfront street] .
+[/EN#218273/people A couple] taking [/EN#218280/other a ride] near [/EN#218284/scene the ocean] .

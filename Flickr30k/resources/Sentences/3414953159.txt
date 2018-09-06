@@ -1,0 +1,5 @@
+[/EN#116386/people A young boy] in [/EN#116387/clothing a blue striped shirt] lays in [/EN#116390/scene the grass] in front of [/EN#116389/other a red table] and reads [/EN#116388/other a book] .
+[/EN#116386/people A young boy] is reading [/EN#116388/other a book] while laying on [/EN#116390/scene the grass] near [/EN#116392/scene a private home] .
+[/EN#116386/people A boy] laying down in [/EN#116390/scene the grass] , next to [/EN#116389/other a red stool] , reading [/EN#116388/other a book] .
+[/EN#116386/people A boy] is reading [/EN#116388/other a comic book] in front of [/EN#116389/other a red chair] and [/EN#116391/other a grill] .
+[/EN#116386/people A boy] with [/EN#116387/clothing a striped shirt] reads [/EN#116388/other a book] in [/EN#116390/scene the grass] .

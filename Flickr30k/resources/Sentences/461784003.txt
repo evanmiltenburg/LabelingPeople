@@ -1,0 +1,5 @@
+[/EN#183246/people a white male] in [/EN#183249/clothing a green shirt] and [/EN#183250/clothing brown pants] is jumping in [/EN#0/notvisual the air] with [/EN#183251/bodyparts his arms] extended and [/EN#183250/bodyparts his legs] pulled up on [/EN#183245/other a pile of rocks] in [/EN#183248/scene the middle of a grassy field] on [/EN#183255/scene a sunny day] .
+[/EN#183246/people A man] [/EN#0/notvisual who] is wearing [/EN#183249/clothing a green shirt] and [/EN#183250/clothing brown pants] , appears to be very exciting , jumping in [/EN#0/notvisual the air] with [/EN#183251/bodyparts his hands] raised .
+[/EN#183246/people A man] is outdoors in [/EN#183248/scene a grassy area] and [/EN#0/notvisual he] has jumped up from [/EN#183245/other a pile of large rocks] .
+[/EN#183246/people A man] wearing [/EN#183249/clothing a green striped shirt] while jumping up onto [/EN#183245/scene a mountain] .
+[/EN#183246/people A man] wearing [/EN#183249/clothing a green shirt] jumping off [/EN#183254/other a rock] .

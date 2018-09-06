@@ -1,0 +1,5 @@
+[/EN#90032/animals A small white dog] is jumping over [/EN#90033/other a branch] on [/EN#0/notvisual the ground] covered with [/EN#90034/other leaves] .
+[/EN#90032/animals A small white dog] leaps over [/EN#90033/scene a root] in [/EN#90035/other the woods] .
+[/EN#90032/animals A white dog] running in [/EN#90034/other the fallen leaves] .
+[/EN#90032/animals A dog] runs over [/EN#90033/other a stick] in [/EN#90034/other the leaves] .
+[/EN#90032/animals A white dog] jumps over [/EN#90033/other a log] .

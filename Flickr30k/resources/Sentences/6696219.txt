@@ -1,0 +1,5 @@
+[/EN#256976/people A group of hikers] are clustered together on [/EN#256977/scene gray rocky terrain] bordering [/EN#256978/scene the bluish-white ice of a glacier] .
+[/EN#256976/people A group of adults] with [/EN#256981/clothing backpacks] are in [/EN#256977/scene a rocky and foggy canyon] with [/EN#256978/scene snow] on [/EN#0/notvisual the ground] .
+[/EN#256976/people A groups of hikers] dressed in [/EN#256982/clothing blue] scaling [/EN#256978/scene a mountain] .
+[/EN#256976/people A group of people] are standing near [/EN#256977/scene a glacier] .
+[/EN#256976/people The people] look around at [/EN#256978/scene the glacier] .

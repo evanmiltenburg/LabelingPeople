@@ -1,0 +1,5 @@
+[/EN#70797/animals A brown and white dog] moving forward with [/EN#70803/other two forelegs] in [/EN#0/notvisual the air] and [/EN#70799/bodyparts two hind legs] on [/EN#0/notvisual the ground] .
+[/EN#70797/animals The white dog] is running on [/EN#70798/other the sand] in front of [/EN#70801/scene fallen bushes] .
+[/EN#70797/animals a brown and white dog] jumping on [/EN#70800/scene a sandy beach]
+[/EN#70797/animals A dog] takes off running on [/EN#70798/other the sand] .
+[/EN#70797/animals dog] running on [/EN#70799/bodyparts two legs]

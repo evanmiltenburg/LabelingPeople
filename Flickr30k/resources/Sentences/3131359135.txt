@@ -1,0 +1,5 @@
+[/EN#95594/people A man] in [/EN#95597/clothing a tan jacket] is in [/EN#95595/scene a crosswalk] carrying [/EN#95596/clothing a bag] in [/EN#95603/bodyparts his right hand] while [/EN#95598/vehicles taxis] pass in [/EN#95595/scene the street] .
+[/EN#95594/people A man] in [/EN#95597/clothing a coat] with [/EN#95599/clothing a briefcase] walks down [/EN#95595/scene a street] next to [/EN#95604/other the bus lane] .
+[/EN#95594/people A man] with [/EN#95597/clothing a beige coat] is crossing [/EN#95595/scene the street] carrying [/EN#95596/clothing a bag] .
+[/EN#95594/people A man] is walking down [/EN#95595/scene a street] , holding [/EN#95596/clothing a briefcase] .
+[/EN#95595/scene A street] filled with [/EN#95598/vehicles cars] and [/EN#95594/people people] in [/EN#95600/scene a city] .

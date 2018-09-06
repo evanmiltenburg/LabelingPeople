@@ -1,0 +1,5 @@
+[/EN#52689/people A man] wearing [/EN#52691/clothing jeans] , [/EN#52693/clothing a tank-top] , and [/EN#52695/clothing a work glove] is bent overlooking at [/EN#52690/vehicles a wheelbarrow] .
+[/EN#52689/people A man] in [/EN#52691/clothing jeans] loading [/EN#52692/other rocks] into [/EN#52690/vehicles a wheelbarrow] .
+[/EN#52689/people A man] is bending down looking at [/EN#52696/other something] .
+[/EN#52689/people A man] moving [/EN#52692/other rocks] out of [/EN#52690/other a wheel barrel] .
+[/EN#52689/people A man] loading [/EN#52692/other rocks] into [/EN#52690/vehicles a wheelbarrow] .

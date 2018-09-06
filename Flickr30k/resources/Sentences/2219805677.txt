@@ -1,0 +1,5 @@
+[/EN#34945/animals A gold dog] is on [/EN#34947/scene the beach] and is looking at [/EN#34946/other the tennis ball] in [/EN#0/notvisual the air] .
+[/EN#34945/animals A dog] gets ready to catch [/EN#34946/other a yellow ball] while standing in [/EN#34949/other the sand] .
+[/EN#34945/animals A dog] watches [/EN#34946/other a tennis ball] on [/EN#34947/scene the beach] .
+[/EN#34945/animals A dog] trying to catch [/EN#34946/other a tennis ball] .
+[/EN#34945/animals a golden dog] tries to catch [/EN#34946/other a ball]

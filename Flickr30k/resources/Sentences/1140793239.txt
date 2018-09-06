@@ -1,0 +1,5 @@
+[/EN#3551/people A girl] holding [/EN#3554/other a drink] with [/EN#3557/other a straw] in [/EN#0/notvisual it] standing in front of [/EN#3552/people a man] kissing [/EN#0/notvisual her] on [/EN#3556/bodyparts the cheek] as [/EN#0/notvisual she] smiles .
+[/EN#3552/people A man] in [/EN#3553/clothing a blue t-shirt] kisses [/EN#3551/people a woman] in [/EN#3555/clothing a white tank top] holding [/EN#3554/other a drink] at [/EN#3559/scene a bar] .
+[/EN#3552/people A man] in [/EN#3553/clothing a blue shirt] is kissing [/EN#3551/people a woman] in [/EN#3555/clothing a white shirt] on [/EN#3556/bodyparts the cheek] .
+[/EN#3552/people A man] in [/EN#3553/clothing a blue shirt] is kissing [/EN#3551/people a woman] with [/EN#3558/bodyparts blond-hair] on [/EN#3556/bodyparts the cheek] .
+[/EN#3552/people A man] is kissing [/EN#3551/people a woman] holding [/EN#3554/other a drink] .

@@ -1,0 +1,5 @@
+[/EN#57240/people Man] walking while using [/EN#57246/other his phone] and [/EN#57239/people woman] with [/EN#57245/clothing shorts] on [/EN#57244/scene crossing street] .
+[/EN#57240/people A man] in [/EN#57242/clothing a red t-shirt] texts as [/EN#0/notvisual he] stands on [/EN#57243/scene a sidewalk] .
+[/EN#57239/people A lady] waiting to walk across [/EN#57241/scene the street] .
+[/EN#57239/people A woman] is waiting to cross [/EN#57241/scene the road] .
+[/EN#57240/people Man] and [/EN#57239/people a woman] walking on [/EN#57241/scene the street]

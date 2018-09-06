@@ -1,0 +1,5 @@
+[/EN#176329/people A lady] wearing [/EN#176334/clothing black pants] and [/EN#176333/clothing a white shirt] is sleeping on [/EN#176331/other a sofa] with [/EN#176330/other red pillows] .
+[/EN#176329/people A brown-haired woman] sleeping on [/EN#176331/other a couch] with [/EN#176337/bodyparts her head] on [/EN#176330/other a stack of pillows] .
+[/EN#176329/people A young girl] is sleeping on [/EN#176331/other the sofa] , amidst [/EN#176330/other a bunch of pillows] .
+[/EN#176329/people A woman] is in [/EN#176332/other a deep sleep] without [/EN#176336/clothing her shoes] on .
+[/EN#176329/people A woman] with [/EN#176335/clothing glasses] falls asleep on [/EN#176331/other a couch] .

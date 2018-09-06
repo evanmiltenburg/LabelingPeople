@@ -1,0 +1,5 @@
+[/EN#141189/people A man] is sitting at [/EN#141194/other a table] outside of [/EN#141190/scene a restaurant]
+[/EN#141191/scene The outside of a restaurant] called [/EN#141190/other El Triuneo] .
+[/EN#141189/people A man] smoking [/EN#141193/other a cigarette] outside of [/EN#141190/scene a store] .
+[/EN#141190/other The front of a very small eatery] at [/EN#141195/scene night]
+[/EN#141196/vehicles A car] stopping in front of [/EN#141191/scene a restaurant] .

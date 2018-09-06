@@ -1,0 +1,5 @@
+[/EN#38261/people a snowboarder] leaning against [/EN#38265/other his snowboard] while looking at [/EN#38264/scene view of foggy mountains]
+[/EN#38261/people A person] sitting atop [/EN#38263/scene a sandy mountainside] staring into [/EN#38266/scene waterfalls] .
+[/EN#38261/people A snowboarder] sits on [/EN#38264/scene a mountain] staring at [/EN#38264/scene a white foggy scenery] .
+[/EN#38261/people A man] with [/EN#38265/other a snowboard] sits atop [/EN#38263/scene a mountain] looking at [/EN#38267/scene the view] .
+[/EN#38261/people The snowboarder] gazes into [/EN#0/notvisual the distance] at [/EN#38264/scene some mountains] .

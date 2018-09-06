@@ -1,0 +1,5 @@
+[/EN#244877/vehicles/scene A boat] is just off [/EN#244880/scene the beach] with [/EN#244888/people three people] standing on [/EN#0/notvisual it] , and [/EN#244889/people the two people] loading [/EN#244886/other something] on [/EN#244881/vehicles/scene the boat] .
+[/EN#244879/people Six men] wearing [/EN#244890/clothing yellow suits] and [/EN#244883/clothing orange life vests] are leaving [/EN#244880/scene a rocky shoreline] on [/EN#244881/vehicles/scene their boat] .
+[/EN#244878/people Five rescue personnel] load up [/EN#244881/other their ship] for [/EN#244885/other a voyage] .
+[/EN#244879/people Men] in [/EN#244882/clothing yellow suits] are on [/EN#244877/vehicles/scene a boat] by [/EN#244880/scene the shore] .
+[/EN#244884/other The beginning of a coast guard rescue] .

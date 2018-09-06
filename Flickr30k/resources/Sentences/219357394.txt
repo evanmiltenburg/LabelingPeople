@@ -1,0 +1,5 @@
+[/EN#33340/people A man] and [/EN#33345/people a lady] are sitting on [/EN#33342/other a bench] looking at [/EN#33346/scene the surrounding place] in [/EN#33344/scene a cliff] .
+[/EN#33341/people Two people] are sitting on [/EN#33342/other a bench] while [/EN#0/notvisual one of them] is holding [/EN#33343/other a phone] to [/EN#33348/bodyparts his ear] .
+[/EN#33340/people Man] on [/EN#33343/other a cellphone] sitting with [/EN#33345/people a woman] overlooking [/EN#33346/scene the land] .
+[/EN#33341/people Two people] are enjoying [/EN#33346/scene a scenic view] from [/EN#33342/other a park bench] .
+[/EN#33340/people A guy] and [/EN#33345/people a girl] are sitting on [/EN#33342/other a bench] on [/EN#33344/scene an overlook] .

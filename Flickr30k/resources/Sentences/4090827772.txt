@@ -1,0 +1,5 @@
+[/EN#154975/people A man] in [/EN#154980/clothing shorts] and [/EN#154981/clothing a black shirt] is riding [/EN#154976/other a motorcycle] and wearing [/EN#154977/clothing a red helmet] .
+[/EN#154975/people This man] is wearing [/EN#154977/clothing a red helmet] and [/EN#154979/clothing flip-flops] and driving [/EN#154976/other a Spyder] .
+[/EN#154975/people A man] in [/EN#154980/clothing green shorts] and [/EN#154977/clothing red helmet] rides [/EN#154976/other a motorcycle] .
+[/EN#154975/people A man] wearing [/EN#154977/clothing a helmet] riding [/EN#154976/other a black motorcycle]
+[/EN#154975/people A man] rides [/EN#154976/other a motorcycle] in [/EN#154979/clothing flip-flops] .

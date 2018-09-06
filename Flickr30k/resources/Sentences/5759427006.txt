@@ -1,0 +1,5 @@
+[/EN#242551/people A small child] dressed for [/EN#242556/other winter] stares across [/EN#242554/scene a lake] while leaning on [/EN#242559/scene a mesh fence] in [/EN#242560/scene a scenic park] setting .
+[/EN#242551/people A small child] in [/EN#242553/clothing a coat] looks out over [/EN#242554/scene the lake of a park] in [/EN#242555/other the fall] .
+[/EN#242552/people Some people] standing around [/EN#242554/scene a pond] with [/EN#242557/scene a bridge] in [/EN#0/notvisual the background] .
+[/EN#242551/people a little kid] in [/EN#242553/clothing a blue coat] watching [/EN#242561/animals ducks] swim .
+[/EN#242552/people Sightseers] are enjoying [/EN#242558/scene a cool day] .

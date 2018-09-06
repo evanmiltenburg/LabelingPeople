@@ -1,0 +1,5 @@
+[/EN#237530/people A man] dressing in [/EN#237534/clothing a black shirt] is waiting to cross [/EN#237531/scene the street] with [/EN#237532/vehicles traffic] .
+[/EN#237530/people An asian man] tries to jaywalk on [/EN#237531/scene a street] with [/EN#237532/vehicles heavy traffic] .
+[/EN#237530/people Man] waits for [/EN#237533/vehicles taxis] to pass before crossing [/EN#237531/scene the wet road] .
+[/EN#237530/people A man] waiting for [/EN#237532/vehicles traffic] to stop at [/EN#237531/scene road] crossing
+[/EN#237530/people A man] standing in [/EN#237531/scene a crosswalk]

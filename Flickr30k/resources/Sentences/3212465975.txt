@@ -1,0 +1,5 @@
+[/EN#101522/people A man] jumps high on [/EN#101523/other his yellow skateboard] over [/EN#101526/other the concrete tile] .
+[/EN#101522/people Skateboarder] in [/EN#101528/clothing black] with [/EN#101523/other yellow skateboard] in [/EN#101525/scene midair] .
+[/EN#101522/people A skateboarder] jumping with [/EN#101523/other his skateboard]
+[/EN#101522/people Boy] jumping in [/EN#0/notvisual the air] with [/EN#101523/other a skateboard] .
+[/EN#101522/people A skateboarder] gets [/EN#101527/other airtime] .

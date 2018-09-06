@@ -1,0 +1,5 @@
+[/EN#232758/people A woman] is smiling at [/EN#232759/scene the bowling alley] while [/EN#232760/people a woman] in [/EN#0/notvisual the background] is preparing to roll [/EN#232764/other the ball] .
+[/EN#232758/people A woman] smiles to [/EN#0/notvisual the camera] , while [/EN#232757/people a man] watches [/EN#232760/people another bowler] at [/EN#232761/other a bowling rink] .
+[/EN#232757/people A man] is watching [/EN#232760/other a woman bowl] while [/EN#232758/people another woman] smiles .
+[/EN#232758/people A woman] laughing and having [/EN#0/notvisual fun] at [/EN#232759/scene a bowling alley] .
+[/EN#232758/people One female] and [/EN#232757/people one male] playing [/EN#232762/other a game of bowling]

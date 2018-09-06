@@ -1,0 +1,5 @@
+[/EN#282606/animals A big gray dog] wearing [/EN#282614/clothing a chain collar] has [/EN#282607/animals a smaller brown dog] pinned down .
+[/EN#282607/other The Mastif] playfully pins [/EN#282607/animals/people the German Shepherd] in [/EN#282608/scene the grass] .
+[/EN#282606/animals A black dog] stands on top of [/EN#282607/animals a brown dog] on [/EN#282608/scene the grass] .
+[/EN#282611/animals Two dogs] are wrestling in [/EN#282608/scene a grassy field] .
+[/EN#282609/clothing Brown] and [/EN#282613/other black dog tussle] on [/EN#282608/scene grass] .

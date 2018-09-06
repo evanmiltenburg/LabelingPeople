@@ -1,0 +1,5 @@
+[/EN#31587/other A black dog with tan markings] stands in [/EN#31589/scene deep snow] ; [/EN#0/notvisual there] is [/EN#31588/other an evergreen] to [/EN#31591/scene the right] .
+[/EN#31587/animals A black dog] is trying to run with [/EN#31592/bodyparts its legs] buried in [/EN#31589/scene the snow] .
+[/EN#31587/animals The dog] is trying to outrun [/EN#31589/scene the deep snow] .
+[/EN#31587/animals a dog] plays in [/EN#31589/scene the snow] .
+[/EN#31587/animals Dog] lies in [/EN#31589/scene snow] .

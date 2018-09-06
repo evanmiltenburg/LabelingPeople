@@ -1,0 +1,5 @@
+[/EN#133690/people A man] wearing [/EN#133696/clothing a white shirt] and [/EN#133697/clothing black pants] balances at [/EN#133692/other the top of a red ladder] as [/EN#0/notvisual it] leans against [/EN#133694/scene a brick building] .
+[/EN#133690/people A man] in [/EN#133696/clothing a white shirt] climbs [/EN#133692/other a red ladder] leaned against [/EN#133693/other a break wall] bearing [/EN#133698/other signage] about [/EN#133689/other Rees.com] .
+[/EN#133690/people A man] on [/EN#133692/other a red ladder] works on [/EN#133693/other a brick wall] [/EN#0/notvisual that] has [/EN#133691/other a black-and-white advertising logo] painted on [/EN#0/notvisual it] .
+[/EN#133690/people A man] stands on [/EN#133692/other a ladder] propped up against [/EN#133694/scene a brick building] .
+[/EN#133690/people A man] is on [/EN#133692/other a ladder] leaned up against [/EN#133694/scene a building] .

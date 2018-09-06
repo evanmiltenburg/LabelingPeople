@@ -1,0 +1,5 @@
+[/EN#4388/people A young child] in [/EN#4392/clothing a striped sweatshirt] brushes [/EN#4389/people the hair of a younger child] .
+[/EN#4388/people A small boy] is brushing [/EN#4389/bodyparts a baby 's hair] [/EN#0/notvisual who] has [/EN#4390/other a blank facial expression] .
+[/EN#4388/people A boy] is combing [/EN#4389/bodyparts a baby 's hair] with [/EN#4391/other a brush] .
+[/EN#4388/people A child] is brushing [/EN#4389/bodyparts an infant 's hair] .
+[/EN#4388/people Young boy] brushing [/EN#4389/bodyparts a baby 's hair] .

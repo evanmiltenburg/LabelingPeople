@@ -1,0 +1,5 @@
+[/EN#109365/people A well-groomed young man] wearing [/EN#109371/clothing dark trousers] and [/EN#109367/clothing a military-style jacket] takes [/EN#109370/other a puff] from [/EN#109366/other a cigarette] in [/EN#109372/bodyparts his left hand] while holding [/EN#109369/other a cup] in [/EN#109373/bodyparts his right hand] .
+[/EN#109365/people a man] sits on [/EN#109365/scene a red building] smoking [/EN#109366/other a cigarette] and drinking .
+[/EN#109365/people A man] wearing [/EN#109367/clothing a jacket] sitting and smoking [/EN#109366/other a cigarette]
+[/EN#109365/people A man] sits by [/EN#109365/scene a red building] while [/EN#109366/other smoking] .
+[/EN#109365/people This man] is smoking outside .

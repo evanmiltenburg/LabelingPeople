@@ -1,0 +1,5 @@
+[/EN#110039/animals A bird] with [/EN#110041/clothing blue and white feathers] and [/EN#110045/bodyparts a long pointy beak] is flying through [/EN#0/notvisual the air] .
+[/EN#110039/animals A white bird] flies agains [/EN#110040/other the backdrop of green foliage] .
+[/EN#110039/animals A long-beaked bird] in [/EN#110042/other mid-flight] .
+[/EN#110039/animals A bird] soars with [/EN#110044/clothing wings] spread .
+[/EN#110039/animals A white bird] flying over [/EN#110040/other trees]

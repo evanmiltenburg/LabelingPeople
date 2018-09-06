@@ -1,0 +1,5 @@
+[/EN#4167/people A female] washes [/EN#4162/scene her medium-sized dog outdoors] in [/EN#4163/other a plastic container] while [/EN#4165/people a friend] secures [/EN#0/notvisual it] with [/EN#4166/clothing a leash] .
+[/EN#4162/animals A brown dog] is in [/EN#4163/other a blue tub] , while [/EN#4165/people one person] holds [/EN#4166/clothing his leash] and [/EN#0/notvisual another] is soaping [/EN#0/notvisual him] .
+[/EN#4168/people Two people] give [/EN#4162/animals a dog] [/EN#4163/other a bath] [/EN#4170/scene outdoors] in [/EN#4163/other a blue container] .
+[/EN#4162/animals A small brown dog] is being washed in [/EN#4163/other a small blue bin] .
+[/EN#4162/animals A dog] calmly waits until [/EN#4163/other his bath] is over .

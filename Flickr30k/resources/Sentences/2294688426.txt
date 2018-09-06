@@ -1,0 +1,5 @@
+[/EN#39646/people A man] wearing [/EN#39647/clothing a black hooded sweatshirt] smokes [/EN#39648/other a cigarette] at [/EN#39652/scene the side of a road] .
+[/EN#39646/people A man] dressed in [/EN#39647/clothing a black poncho] stands in [/EN#39652/scene the middle of a parking lot] .
+[/EN#39646/people A man] wearing [/EN#39647/clothing a black sweatshirt] poses for [/EN#39653/other a picture] in [/EN#39652/scene a parking lot] .
+[/EN#39646/people A man] with [/EN#39649/bodyparts a beard] , dressed in [/EN#39647/clothing black] , is smoking .
+[/EN#39646/people The man] in [/EN#39647/clothing the robe] has [/EN#39650/clothing gold] on [/EN#39650/bodyparts his beard] .

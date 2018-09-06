@@ -1,0 +1,5 @@
+[/EN#178869/people People] walk down [/EN#178868/scene a city street] at [/EN#178877/other nighttime] in front of [/EN#178876/other construction] and [/EN#178870/other a "] Do Not Enter [/EN#178874/other " street sign] .
+[/EN#178868/scene A city street] at [/EN#178873/scene night] with [/EN#178872/people a person] under [/EN#178871/clothing an umbrella] and [/EN#178870/other a "] Do Not Enter [/EN#178874/other " sign] .
+[/EN#178875/people Two men] and [/EN#178872/people a woman] with [/EN#178871/clothing an umbrella] walking down [/EN#178868/scene a street] .
+[/EN#178869/people people] walking on [/EN#178878/scene sidewalk] in [/EN#178868/scene city]
+[/EN#178868/scene a lively city street] at [/EN#178873/scene night] .

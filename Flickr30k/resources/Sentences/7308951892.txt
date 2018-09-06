@@ -1,0 +1,5 @@
+[/EN#268283/people A construction worker] is standing on [/EN#268284/scene a crane] placing [/EN#268285/bodyparts/people a large arm] on top of [/EN#268286/other a stature] in [/EN#268289/scene progress] .
+[/EN#268283/people A man] in [/EN#268287/clothing a red safety hat] stands in [/EN#268284/scene an orange lift] while placing [/EN#268285/bodyparts/people a giant arm] on [/EN#268286/other a statue] .
+[/EN#268283/people A construction worker] , with [/EN#268287/clothing a red hard hat] , assemble [/EN#268286/other a giant man statue] .
+[/EN#268283/people Construction worker] on [/EN#268284/scene orange crane] attaching [/EN#268285/other parts] to [/EN#268286/other a large statue] .
+[/EN#268283/people A man] on [/EN#268284/scene a mechanical lift] wearing [/EN#268287/clothing a hard hat] is assembling [/EN#268286/other a statue] .

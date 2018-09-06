@@ -1,0 +1,5 @@
+[/EN#198510/people a young girl] reads [/EN#198512/other a book] while [/EN#0/notvisual another] lies down in [/EN#198511/scene a bedroom] .
+[/EN#198510/people A little girl] in [/EN#198514/clothing a striped shirt] is reading [/EN#198512/other a book] .
+[/EN#198510/people One child] reading and [/EN#198513/people one child] resting in [/EN#198511/scene a room] .
+[/EN#198510/people One young girl] reads [/EN#198512/other a book] to [/EN#0/notvisual another] .
+[/EN#198510/people One child] is reading to [/EN#0/notvisual another] .

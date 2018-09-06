@@ -1,0 +1,5 @@
+[/EN#214245/people A violin player] with [/EN#214246/bodyparts a painted face] is playing in front of [/EN#214249/people a crowd] .
+[/EN#214245/people A man] with [/EN#214252/clothing glasses] wearing [/EN#214250/clothing a tie] plays [/EN#214247/instruments the violin] .
+[/EN#214245/people A clown] in [/EN#214251/clothing a white shirt] and tie playing [/EN#214247/instruments a violin] .
+[/EN#214245/people A Violinist] plays as [/EN#0/notvisual he] is decorated as [/EN#214245/people a clown] .
+[/EN#214245/people A man] with [/EN#214246/bodyparts a painted face] plays [/EN#214247/instruments his violin] .

@@ -1,0 +1,5 @@
+[/EN#110973/people A young man] , in [/EN#110975/clothing a red t-shirt] , is looking in [/EN#0/notvisual the camera] while [/EN#0/notvisual he] is preparing to cut up [/EN#110978/animals two butchered animals] .
+[/EN#110973/people A male] in [/EN#110975/clothing a red shirt] has [/EN#110978/animals two dead skinned animals] on [/EN#110976/other a table] with [/EN#110979/other a saw] nearby and [/EN#110974/other a knife] in [/EN#110981/bodyparts his hand] .
+[/EN#110973/people A man] looks intently at [/EN#0/notvisual the camera] as [/EN#0/notvisual he] is holding [/EN#110974/other a knife] to butcher [/EN#110977/other some meat] .
+[/EN#110973/people A man] in [/EN#110975/clothing a red shirt] is butchering [/EN#110977/animals a small animal] on [/EN#110976/other a wooden board] .
+[/EN#110973/people A young male] in [/EN#110975/clothing a red shirt] is carving [/EN#110977/other meat] .

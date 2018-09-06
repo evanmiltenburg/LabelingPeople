@@ -1,0 +1,5 @@
+[/EN#205448/people A young man] with [/EN#205453/clothing a dark shirt] [/EN#205455/other an plaid] pants carries [/EN#205451/vehicles a pair of unicycles] while [/EN#205450/people a girl] next to [/EN#0/notvisual him] carries [/EN#205449/other a lawn chair]
+[/EN#205448/people A man] with [/EN#205458/clothing plaid pants] is walking next to [/EN#205450/people a woman] and carrying [/EN#205451/vehicles a unicycle] .
+[/EN#205448/people A boy] walks down [/EN#205456/scene the road] with [/EN#205451/vehicles two unicycles] and [/EN#205450/people a girl] walks beside [/EN#0/notvisual him] .
+[/EN#0/notvisual This] is [/EN#205457/scene one of those places] [/EN#0/notvisual that] [/EN#0/notvisual you] may see just about anything .
+[/EN#205448/people A boy] pushing [/EN#205451/vehicles unicycles] walks along side [/EN#205450/people a girl] with [/EN#205449/other a chair] .

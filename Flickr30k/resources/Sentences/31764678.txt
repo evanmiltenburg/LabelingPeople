@@ -1,0 +1,5 @@
+[/EN#98489/people Some people] are walking through [/EN#98491/scene a narrow crevice] in [/EN#98492/other some rocks] .
+[/EN#98490/people People] are squeezing through [/EN#98491/scene a space] between [/EN#98492/other rocks] .
+[/EN#98490/people Two people] [/EN#0/notvisual who] are making [/EN#98494/scene there way] between [/EN#98492/other rocks] .
+[/EN#98490/people Tourists] enter and inspect [/EN#98491/scene a geological crevice] .
+[/EN#98489/people People] shimmy along [/EN#98493/other a narrow pathway] .

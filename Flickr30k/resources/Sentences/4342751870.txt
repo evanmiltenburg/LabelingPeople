@@ -1,0 +1,5 @@
+[/EN#164059/people The thin , older man] wearing [/EN#164061/clothing an orange-striped shirt] and [/EN#164064/clothing gray pants] carries [/EN#164065/other his tools] on [/EN#164060/vehicles a vintage gray bicycle] and rests for [/EN#164063/other a moment] by [/EN#164069/scene the corrugated building] .
+[/EN#164059/people a man] is riding [/EN#164060/vehicles a bicycle] [/EN#0/notvisual that] has been adjusted from [/EN#164066/other its original style] , by replacing [/EN#164067/vehicles many parts of the bike] with [/EN#164068/other odd parts] .
+[/EN#0/notvisual There] is [/EN#164059/people a man] in [/EN#164061/clothing a striped shirt] on [/EN#164060/vehicles an old-looking bicycle] with [/EN#164062/other boxes] on [/EN#0/notvisual it] .
+[/EN#164059/people A man] is sitting on [/EN#164060/vehicles a bicycle] laden down with [/EN#164062/other boxes] .
+[/EN#164059/people An older man] sitting on [/EN#164060/vehicles a decrepit bike] .

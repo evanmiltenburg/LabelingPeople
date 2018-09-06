@@ -1,0 +1,5 @@
+[/EN#231442/people Man] in [/EN#231445/clothing a yellow shirt] crossing [/EN#231444/scene the street] with [/EN#231448/scene large buildings] in [/EN#0/notvisual the background] .
+[/EN#231442/people A man] in [/EN#231445/clothing yellow polo shirt] is walking in [/EN#231444/scene the crosswalk] .
+[/EN#231443/people People] bustle about in [/EN#231447/scene a glimmering city] at [/EN#231449/other dusk] .
+[/EN#231443/people People] are walking trough [/EN#231444/scene a city street] at [/EN#231446/scene night] .
+Walking on [/EN#231444/scene the street of a large city] at [/EN#231446/scene sunset] .

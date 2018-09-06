@@ -1,0 +1,5 @@
+[/EN#109858/people A man] in [/EN#109866/clothing a white shirt] with [/EN#109860/other a plate of food] sits outside in folding [/EN#109861/other chairs] with [/EN#109859/people a little girl] [/EN#0/notvisual who] is writing .
+[/EN#109858/people A young man] sitting and eating next to [/EN#109859/people a little girl] sitting and reading .
+[/EN#109858/people A man] with [/EN#109862/other dark shades] and [/EN#109859/people his daughter] sitting in [/EN#109861/other chairs] .
+[/EN#109864/people A family] enjoying [/EN#109860/other a meal] outside in [/EN#109863/other the shade] .
+[/EN#109858/people A man] is watching [/EN#109859/other a girl draw] as [/EN#0/notvisual he] eats .

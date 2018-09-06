@@ -1,0 +1,5 @@
+[/EN#117684/animals Two black dogs] are chasing [/EN#0/notvisual each other] through [/EN#117686/scene shallow grass] toward [/EN#117685/scene water] .
+[/EN#117684/animals Two dogs] are running towards [/EN#117685/scene the water] through [/EN#117686/scene brown grass] .
+[/EN#117684/animals The dogs] run through [/EN#117686/scene the field] near [/EN#117685/scene the water] .
+[/EN#117684/animals Two dogs] run [/EN#117689/other two] [/EN#117685/scene a pond] on [/EN#117687/scene a winter day] .
+[/EN#117684/animals Two dogs] are running toward [/EN#117685/scene the water] .

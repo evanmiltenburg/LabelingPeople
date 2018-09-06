@@ -1,0 +1,5 @@
+[/EN#200589/people A band] is playing as [/EN#200590/people the crowd] watches at [/EN#200591/scene a bistro] .
+[/EN#200589/people A band] is performing outside of [/EN#200591/scene B B Bistro] .
+[/EN#200590/people A group of people] watching [/EN#200589/people a band] play .
+[/EN#200590/people Crowd of people] watching [/EN#200589/people a band] play .
+[/EN#200589/people A small band] plays at [/EN#200591/scene a bistro] .

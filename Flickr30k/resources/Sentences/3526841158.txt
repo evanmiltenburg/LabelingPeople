@@ -1,0 +1,5 @@
+[/EN#124961/people A man] in [/EN#0/notvisual the distance] is walking past [/EN#124962/other a brick wall] painted with [/EN#124967/other words] and [/EN#124963/other graffiti] .
+[/EN#124961/people Man] wearing [/EN#124968/clothing dark clothes] walks down [/EN#124964/scene a street] with [/EN#124963/other a wall of graffiti] to [/EN#124965/scene his left] .
+[/EN#124961/people A man] is walking along [/EN#124962/other a brick wall] with writing on [/EN#0/notvisual it] .
+[/EN#124961/people An older man] is walking past writing on [/EN#124962/other a wall] .
+[/EN#124961/people A man] walking proudly down [/EN#124964/scene the street] .

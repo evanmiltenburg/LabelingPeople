@@ -1,0 +1,5 @@
+[/EN#131080/people Two men] in [/EN#131081/clothing life jackets] speed through [/EN#131082/scene the water] in [/EN#131083/vehicles an orange motorboat] .
+[/EN#131080/people two men] in [/EN#131083/other an orange boat ride] across [/EN#131082/scene the water] .
+[/EN#131083/vehicles/scene The orange rescue boat] rushes across [/EN#131082/scene the water] .
+[/EN#131080/people Two men] ride [/EN#131083/scene an orange raft] to [/EN#131082/scene shore] .
+[/EN#131080/people two men] in [/EN#131083/vehicles/scene an orange raft boat]

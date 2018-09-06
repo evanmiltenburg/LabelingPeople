@@ -1,0 +1,5 @@
+[/EN#3883/people A girl] wearing [/EN#3889/clothing flip-flop sandals] swinging on [/EN#3884/other a swing] set in [/EN#3887/scene a park] underneath [/EN#3890/other fluffy white clouds] .
+[/EN#3883/people A woman] in [/EN#3888/clothing a pink jacket] is swinging on [/EN#3884/other a swing-set] with [/EN#3885/other some trees] in [/EN#0/notvisual the background] .
+[/EN#3883/people The young girl] is swinging high above [/EN#0/notvisual the ground] on [/EN#3886/scene a nice summer day] .
+[/EN#3883/people A young woman] plays on [/EN#3884/other a swing] set while [/EN#3885/other trees] sway in [/EN#0/notvisual the background] .
+[/EN#3883/people A young girl] swinging very high on [/EN#3884/other playground swing] set .

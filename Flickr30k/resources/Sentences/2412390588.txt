@@ -1,0 +1,5 @@
+[/EN#47106/people A child] in [/EN#47107/clothing a red longsleeve shirt] is pointing at [/EN#47108/other the red tulips] .
+[/EN#47106/people A child] in [/EN#47107/clothing a red jacket] is pointing at [/EN#47109/other beautiful orange flowers] .
+[/EN#47106/people The child] in [/EN#47107/clothing the red jacket] is looking at [/EN#47109/other the flowers] .
+[/EN#47106/people A boy] in [/EN#47107/clothing a red jacket] points at [/EN#47109/other red tulips] .
+[/EN#47106/people A boy] in [/EN#47107/clothing red] is pointing to [/EN#47108/other a red tulip] .

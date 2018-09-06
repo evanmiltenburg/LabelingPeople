@@ -1,0 +1,5 @@
+[/EN#34396/people A girl] in [/EN#34397/clothing a pink shirt] jumping from [/EN#34398/other one couch] to [/EN#0/notvisual another] in [/EN#34400/scene a well apportioned living room] .
+[/EN#34396/people A little girl] in [/EN#34397/clothing a pink shirt] has jumped into [/EN#0/notvisual the air] in [/EN#34401/scene her house] .
+[/EN#34396/people a little girl] in [/EN#34397/clothing a pink cardigan] is jumping from [/EN#34398/other the couch] .
+[/EN#34396/people A little girl] jumps through [/EN#0/notvisual the air] to land on [/EN#34399/other the sofa] .
+[/EN#34396/people Girl] jumps from [/EN#34398/other couch] to [/EN#34398/other couch] .

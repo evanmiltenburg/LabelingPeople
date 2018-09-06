@@ -1,0 +1,5 @@
+[/EN#11067/animals The dog] is running through [/EN#11069/scene the water] carrying [/EN#11068/other a black and yellow object] in [/EN#11071/bodyparts its mouth] .
+[/EN#11067/animals A dog] with [/EN#11068/other a water pack] is walking through [/EN#11069/scene clear green water] .
+[/EN#11067/other The Irish Setter] is retrieving [/EN#11068/other a flashlight] from [/EN#11069/scene the pond] .
+[/EN#11067/animals A brown dog] carrying [/EN#11068/other a black object] .
+[/EN#11067/animals A dog] retrieving in [/EN#11069/scene the water] .

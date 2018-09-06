@@ -1,0 +1,5 @@
+[/EN#32411/people A man] in [/EN#32412/clothing a red jacket] is standing by [/EN#32413/vehicles a bicycle] and [/EN#32414/vehicles trailer] in [/EN#32415/scene a city street] .
+[/EN#32411/people The man] is wearing [/EN#32412/clothing a red jacket] and standing next to [/EN#32413/vehicles a bicycle] .
+[/EN#32411/people A man] in [/EN#32412/clothing a red jacket] holds [/EN#32413/vehicles his bike] for [/EN#32416/other the picture] .
+[/EN#32411/people A man] standing beside [/EN#32413/vehicles his bicycle] on [/EN#32415/scene the street] .
+[/EN#32411/people A man] on [/EN#32415/scene the street] standing by [/EN#32413/vehicles his bicycle] .

@@ -1,0 +1,5 @@
+[/EN#49752/animals A tan dog] wearing [/EN#49754/clothing a blue collar] is playing with [/EN#49753/other an orange toy] .
+[/EN#49752/animals A dog] prepares to bite [/EN#49753/other a yellow dog toy] .
+[/EN#49752/animals A brown dog] lunges for [/EN#49753/other a yellow toy] .
+[/EN#49752/animals A brown dog] chasing [/EN#49753/other a yellow toy] .
+[/EN#49752/animals a dog] chases [/EN#49753/other a toy] .

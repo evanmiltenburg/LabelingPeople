@@ -1,0 +1,5 @@
+[/EN#52984/animals A small dog] stops in [/EN#52987/scene its tracks] to look at [/EN#52983/animals the big dog] chasing [/EN#0/notvisual it] .
+[/EN#52983/animals A larger brown dog] is chasing [/EN#52984/animals a smaller gray dog] on [/EN#52986/scene the grass] .
+[/EN#52983/animals A large tan dog] runs after [/EN#52984/animals a small tan dog] on [/EN#52985/scene a grassy yard] .
+[/EN#52983/animals A large dog] is running on [/EN#52986/scene the grass] .
+[/EN#52983/animals A dog] chases [/EN#52984/animals a smaller dog] .

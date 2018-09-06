@@ -1,0 +1,5 @@
+[/EN#226237/people A costumed man] talks to [/EN#226238/people a woman] seated on [/EN#226241/other a wooden plank] , teetering over [/EN#226245/scene a concrete edge] , while [/EN#226239/people an amused audience] watches .
+[/EN#226238/people A woman] sitting in [/EN#226242/other a chair] attached to [/EN#226248/bodyparts/people a long wooden arm] with [/EN#226239/people a crowd] gathered around [/EN#0/notvisual her] .
+[/EN#226239/people A group of people] gathered around looking at [/EN#226244/people two men] lifting [/EN#226238/people a woman] on [/EN#226240/other a wooden seesaw] .
+[/EN#226238/people A girl] sits on [/EN#226242/other a wooden device] suspended in [/EN#0/notvisual air] while [/EN#226244/people two men] hold [/EN#0/notvisual her] in [/EN#226247/scene place] .
+[/EN#226237/people A man] dressed like [/EN#226236/people a pirate] sings while [/EN#226238/people a woman] sits on [/EN#226240/other a giant seesaw] .

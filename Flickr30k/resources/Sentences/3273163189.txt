@@ -1,0 +1,5 @@
+[/EN#106049/animals A brown toy dog] is running across [/EN#106050/scene low snow] with [/EN#106051/bodyparts tail] raised .
+[/EN#106049/animals A little brown dog] is running in [/EN#106050/scene the snow] .
+[/EN#106049/animals A small brown dog] is running across [/EN#106050/scene snow] .
+[/EN#106049/animals The small brown dog] runs in [/EN#106050/scene the snow] .
+[/EN#106049/animals A small brown dog] running in [/EN#106050/scene snow] .

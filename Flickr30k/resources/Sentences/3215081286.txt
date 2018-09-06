@@ -1,0 +1,5 @@
+[/EN#101721/scene A dark street scene] shows [/EN#101715/other a neon lights] and [/EN#101716/people a group of people] dining while [/EN#101717/people another group] walks .
+[/EN#101716/people People] inside [/EN#101719/scene a shop] at [/EN#101720/scene night] while [/EN#101717/people other people] walk around outside .
+[/EN#0/notvisual There] are [/EN#101716/people some people] in [/EN#101718/scene a restaurant] and [/EN#101717/people two men] walking by [/EN#0/notvisual them]
+[/EN#101716/people Some people] in [/EN#101719/scene building] as seen from [/EN#101721/scene the street] at [/EN#101720/scene night] .
+[/EN#101716/people People] sit in [/EN#101719/scene a lit alcove] off [/EN#101721/scene a dark street] .

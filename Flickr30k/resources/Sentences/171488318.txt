@@ -1,0 +1,5 @@
+[/EN#19301/animals A dog] walking along [/EN#19302/scene a cracked and ashen surface] .
+[/EN#19301/animals A dog] is walking along [/EN#19302/other some dry cracked earth] .
+[/EN#19301/animals A dog] walks across [/EN#0/notvisual the rocky ground] .
+[/EN#19301/animals A dog] walks through [/EN#19302/other some mud] .
+[/EN#19301/animals A dog] walking on [/EN#19302/other mud flats] .

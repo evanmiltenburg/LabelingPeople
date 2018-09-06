@@ -1,0 +1,5 @@
+[/EN#1510/people Two young girls] are playing in [/EN#1514/scene the forest] ; [/EN#1508/other the younger one] is climbing [/EN#1511/other a short tree] and is [/EN#1515/bodyparts about 2 feet] off [/EN#0/notvisual the ground] .
+[/EN#1508/people A little girl] in [/EN#1516/clothing a red shirt] and [/EN#1517/clothing jeans] climbs [/EN#1511/other a small tree] while [/EN#1509/people another little girl] looks on .
+[/EN#1510/people Two young girl] are playing near [/EN#1511/other a small tree] , and [/EN#1508/other one] has climbed up into [/EN#1513/other the branches] .
+[/EN#1508/people One child] is climbing in [/EN#1511/other a tree] while [/EN#0/notvisual another] , [/EN#1509/people older child] , watches .
+[/EN#1509/people A young girl] watched as [/EN#1508/people a girl] younger than [/EN#0/notvisual her] climb [/EN#1511/other a tree] .

@@ -1,0 +1,5 @@
+[/EN#49451/people a worker] is trying to move [/EN#49452/other a large tree limb] into [/EN#49453/other the tree shredder] wearing [/EN#49454/clothing an orange hard hat] and [/EN#49455/clothing a orange shirt] .
+[/EN#49451/people A man] wearing [/EN#49455/clothing an orange t-shirt] and [/EN#49456/clothing a hard hat] is working with [/EN#49453/other the wood-chipping machine] .
+[/EN#49451/people A man] wearing [/EN#49454/clothing an orange hard hat] is feeding [/EN#49452/other brush] into [/EN#49453/other an orange wood chipper] .
+[/EN#49451/people A man] in [/EN#49455/clothing an orange shirt] and [/EN#49454/clothing hard hat] is clearing away [/EN#49452/other tree branches] .
+[/EN#49451/people A worker] in [/EN#49455/clothing an orange shirt] looking to [/EN#49457/scene the left] .

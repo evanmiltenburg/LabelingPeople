@@ -1,0 +1,5 @@
+[/EN#182236/people A man] in [/EN#182239/clothing a long black coat] with [/EN#182238/other a walking stick] is walking next to [/EN#182237/vehicles/scene a bus] where [/EN#182235/people the passenger] is resting [/EN#182240/bodyparts his head] on [/EN#182244/bodyparts his hand] .
+[/EN#182236/people A man] in [/EN#182239/clothing a long coat] with [/EN#182238/other a cane] walking down [/EN#182241/scene a sidewalk] as seen from inside [/EN#182237/vehicles/scene a bus] , where [/EN#182235/people another man] is resting .
+[/EN#182235/people A boy] sits on [/EN#182237/vehicles/scene a bus] and sleeps , as [/EN#182236/people a man] walks past [/EN#182242/other the window] beside [/EN#0/notvisual him] on [/EN#182246/scene the outside] .
+[/EN#182235/people A kid] bored in [/EN#182237/vehicles/scene a train] with [/EN#182243/bodyparts brown hair] and [/EN#182240/bodyparts his head] lying down .
+[/EN#0/notvisual He] want to catch [/EN#182237/vehicles/scene the bus] and go to [/EN#182245/scene his place] .

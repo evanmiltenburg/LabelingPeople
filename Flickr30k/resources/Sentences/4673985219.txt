@@ -1,0 +1,5 @@
+[/EN#189203/scene A cobblestone street] lined with [/EN#189205/scene houses] and [/EN#189209/people some pedestrians] milling around .
+[/EN#189206/people People] walk down [/EN#189203/scene a street] in [/EN#189202/scene an uncrowded neighborhood] .
+[/EN#189206/people people] walking on [/EN#189208/scene sidewalks] on [/EN#189203/scene a beautiful city street] .
+[/EN#189205/scene Older looking buildings] on [/EN#189204/scene a cobblestone road] .
+[/EN#189206/people People] are going about [/EN#189210/scene their day] in [/EN#189207/scene the town] .

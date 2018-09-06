@@ -1,0 +1,5 @@
+[/EN#91687/people A person] is sitting under [/EN#91688/other the ceiling] and working on [/EN#91689/other architectural restoration] .
+[/EN#91687/people A man] works on [/EN#91695/scene the roof of an ornate building] with [/EN#91690/other a cup] and [/EN#91691/other brush] .
+[/EN#91687/people A person] working while sitting on [/EN#91692/other a scaffold high] up in [/EN#0/notvisual the air] .
+[/EN#91687/people A man] sits on [/EN#91693/other a raised platform] behind [/EN#91696/scene a decorative arch] .
+[/EN#91687/people A person] sitting on [/EN#91692/other a scaffold] is painting [/EN#91697/other a wall] .

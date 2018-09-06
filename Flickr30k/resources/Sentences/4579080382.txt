@@ -1,0 +1,5 @@
+[/EN#180144/people A man] holding [/EN#180146/other a cane] and wearing [/EN#180148/clothing a hat] is sleeping on [/EN#180145/other a bench] .
+[/EN#180144/people A person] holding [/EN#180146/other a cane] sleeps on [/EN#180149/scene a bench outside] .
+[/EN#180144/people A person] with [/EN#180146/other a cane] takes [/EN#180147/other a nap] on [/EN#180145/other a park bench] .
+[/EN#180144/people A man] with [/EN#180146/other a cane] sleeping on [/EN#180145/other a park bench] .
+[/EN#180144/people A man] with [/EN#180146/other a cane] sleeps on [/EN#180145/other a bench] .

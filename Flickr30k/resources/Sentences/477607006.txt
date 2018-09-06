@@ -1,0 +1,5 @@
+[/EN#201698/people A woman] in [/EN#201701/clothing a white dress] is holding [/EN#201700/other flowers] and standing next to [/EN#201699/people a little girl] in [/EN#201702/clothing a white dress] .
+[/EN#201698/people A woman] in [/EN#201701/clothing white] holds [/EN#201700/other some roses] standing next to [/EN#201699/people a young girl] also in white .
+[/EN#201699/people A young girl] and [/EN#201698/people a woman] stand in [/EN#201705/clothing white dresses] stand against [/EN#201703/other a wall] .
+[/EN#201698/people A woman] in [/EN#201701/clothing white] is holding [/EN#201700/other a bouquet of roses] .
+[/EN#201698/people A woman] holding [/EN#201700/other roses] while [/EN#0/notvisual she] waits .

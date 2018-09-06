@@ -1,0 +1,5 @@
+[/EN#44958/animals A tall white dog] sits and watches [/EN#44959/animals a small black dog] run around [/EN#0/notvisual him] in [/EN#44960/scene the snow] .
+[/EN#44958/animals A large white dog] watching [/EN#44959/animals a little black dog] run in [/EN#44960/scene the snow] .
+[/EN#44958/animals A big white dog] and [/EN#44959/animals a small black dog] sit in [/EN#44960/scene the snow] .
+[/EN#44958/animals A white dog] looks at [/EN#44959/animals a black puppy] in [/EN#44960/scene the snow] .
+[/EN#44959/animals A small dog] and [/EN#44958/animals a large dog] in [/EN#44960/scene the snow] .

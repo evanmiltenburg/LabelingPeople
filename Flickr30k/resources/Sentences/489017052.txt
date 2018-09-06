@@ -1,0 +1,5 @@
+[/EN#215340/people A woman] in [/EN#215342/clothing a blue dress] and [/EN#215346/people a little girl] walking in [/EN#215344/other an outside marketplace] .
+[/EN#215340/people A woman] dressed in [/EN#215341/clothing blue] is walking down [/EN#215345/scene a street] near [/EN#215344/other a marketplace] .
+[/EN#215339/people People] are walking through [/EN#215345/scene an alley] in [/EN#215347/animals Turkey] .
+[/EN#215339/people A group of people] walking through [/EN#215343/scene a market] .
+[/EN#215340/people A woman] is walking in [/EN#215343/scene an alley] .

@@ -1,0 +1,5 @@
+[/EN#124545/people Two people] are sitting on [/EN#124546/other a wooden structure] near [/EN#124549/other a tree] while [/EN#124551/other conversing] .
+[/EN#124547/people A man] and [/EN#124550/people a woman] are sitting on [/EN#124546/other a bench] outside [/EN#124552/scene a wooden building] .
+[/EN#124545/people Two people] sit on [/EN#124546/other a wooden bench] and [/EN#124553/bodyparts face] [/EN#0/notvisual each other] to talk .
+[/EN#124545/people Two people] sit on [/EN#124548/other a brick wall] and talk .
+[/EN#124545/people two people] sit on [/EN#124546/other a park bench] .

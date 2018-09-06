@@ -1,0 +1,5 @@
+[/EN#281039/people A man] in [/EN#281040/clothing a green shirt] is sitting at [/EN#281042/other a table] eating [/EN#281046/other rice] and [/EN#281045/other meat] .
+[/EN#281039/people A man] in [/EN#281040/clothing a green shirt] enjoying [/EN#281041/other a meal] and [/EN#281043/other drink] .
+[/EN#281039/people A man] in [/EN#281040/clothing a green shirt] is eating [/EN#281041/other food] .
+[/EN#281039/people A man] in [/EN#281044/clothing glasses] is eating [/EN#281041/other food] .
+[/EN#281039/people Man] in [/EN#281040/clothing green shirt] eating .

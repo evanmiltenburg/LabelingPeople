@@ -1,0 +1,5 @@
+[/EN#167162/people A lady] in [/EN#167165/clothing white shorts] and [/EN#167167/clothing a black tank top] is riding [/EN#167164/vehicles a bike] along [/EN#167163/scene the beach] .
+[/EN#167162/people A woman] in [/EN#167166/clothing a black bikini] and [/EN#167165/clothing white shorts] rides [/EN#167164/vehicles a bicycle] on [/EN#167163/scene the beach] .
+[/EN#167162/people An attractive woman] riding [/EN#167164/vehicles a bicycle] on [/EN#167163/scene a beach] .
+[/EN#167162/people A woman] is riding [/EN#167164/vehicles a bicycle] on [/EN#167163/scene the beach] .
+[/EN#167162/people A woman] is riding [/EN#167164/vehicles a bike] along [/EN#167163/scene a beach] .

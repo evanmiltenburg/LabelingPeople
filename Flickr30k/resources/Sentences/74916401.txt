@@ -1,0 +1,5 @@
+[/EN#270444/people A man] in [/EN#270446/clothing a red shirt] is giving [/EN#270445/other a lecture] in [/EN#270452/scene an auditorium] , with [/EN#270451/people two men] sitting at [/EN#270447/other a desk] at [/EN#270453/scene the front of the full room] .
+[/EN#270443/people A college class] is in [/EN#270449/other session] with [/EN#270450/people students] in [/EN#270448/other attendance] .
+[/EN#270444/people A professor] in front of [/EN#270443/people his class] giving [/EN#270445/other a lecture] .
+[/EN#270444/people Man] with [/EN#270454/bodyparts long hair] and [/EN#270455/bodyparts beard] teaching [/EN#270443/people a class] .
+[/EN#270444/people A man] in [/EN#270446/clothing red] is conducting [/EN#270445/other a lecture] .

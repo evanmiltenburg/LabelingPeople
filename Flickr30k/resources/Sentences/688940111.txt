@@ -1,0 +1,5 @@
+[/EN#260548/people a boy] in [/EN#260550/clothing a red baseball cap] eats [/EN#260549/other a Ritz cracker] and has [/EN#260551/other a big pink cup of juice]
+[/EN#260548/people A small boy] with [/EN#260550/clothing a red ball cap] holding [/EN#260549/other a cracker] with [/EN#260551/other a pink cup] nearby .
+[/EN#260548/people A boy] holding [/EN#260549/other a cookie] and wearing [/EN#260550/clothing a red hat] is looking at [/EN#0/notvisual the camera] .
+[/EN#260548/people A little boy] wearing [/EN#260550/clothing a red hat] with [/EN#260549/other an Ritz cracker] in [/EN#260553/bodyparts his hand] .
+[/EN#260548/people The small boy] in [/EN#260550/clothing the red hat] has [/EN#260549/other a cracker] .

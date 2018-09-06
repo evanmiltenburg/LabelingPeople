@@ -1,0 +1,5 @@
+[/EN#143037/people a man] with [/EN#143043/scene a tall glass of water] sitting at [/EN#143041/other a table] looking at [/EN#143042/other his phone] at [/EN#143040/scene a eating place] .
+[/EN#143037/people A man] in [/EN#143038/clothing an olive shirt] texts on [/EN#143042/other his phone] as [/EN#0/notvisual he] sits at [/EN#143041/other a table] in [/EN#143039/other a cafe] .
+[/EN#143037/people A man] in [/EN#143038/clothing a brown shirt] is sitting at [/EN#143041/other a table] outside of [/EN#143040/scene a restaurant] .
+[/EN#143037/people A guy] checking [/EN#143042/other his phone] while at [/EN#143040/scene a restaurant] .
+[/EN#143037/people Guy] at [/EN#143039/other a cafe] texting on [/EN#143042/other his phone] .

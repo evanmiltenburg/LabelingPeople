@@ -1,0 +1,5 @@
+[/EN#147913/people A woman] wearing [/EN#147915/clothing short sleeves] and [/EN#147916/clothing sunglasses] is backpacking up [/EN#147914/scene a snowy mountain cliff] .
+[/EN#147913/people A woman] wearing [/EN#147917/clothing a black hat] and [/EN#147916/clothing white sunglasses] walks up [/EN#147918/other a snowy] and [/EN#147918/scene steep path] .
+[/EN#147913/people A woman] in [/EN#147915/clothing a tank] and [/EN#147916/clothing sunglasses] climbs [/EN#147918/other a sunny but snow-covered slope] .
+[/EN#147913/people Woman] climbing [/EN#147914/scene a snow covered mountain] looking at [/EN#147920/people people] behind [/EN#0/notvisual her] .
+[/EN#147913/people A hiker] moves up [/EN#147914/scene a snowy mountain] .

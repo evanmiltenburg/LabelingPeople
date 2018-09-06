@@ -1,0 +1,5 @@
+[/EN#107838/people A man] is standing behind [/EN#107840/other a microphone] looking at [/EN#107841/other a sheet of paper] while [/EN#107847/people another man] behind [/EN#107840/other a microphone] looks at [/EN#0/notvisual him] .
+[/EN#107838/people A man] in [/EN#107839/clothing all black clothing] on [/EN#107844/scene stage] reading [/EN#107843/other something] from [/EN#107842/other a piece of paper] into [/EN#107840/other the microphone] to [/EN#107851/people the audience] .
+[/EN#107838/people A man] in [/EN#107839/clothing a black suit] reads [/EN#107842/other a poem] into [/EN#107840/other a microphone] on [/EN#107844/scene stage] at [/EN#107846/other a club] .
+[/EN#107838/people A man] wearing [/EN#107849/clothing glasses] is reading [/EN#107843/other something] from [/EN#107841/other a paper] [/EN#0/notvisual he] is holding .
+[/EN#107845/people Two men] in [/EN#107848/clothing black suits] stand on [/EN#107844/scene stage] next to [/EN#107850/other microphones] .

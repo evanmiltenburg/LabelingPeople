@@ -1,0 +1,5 @@
+[/EN#157734/people A woman] in [/EN#157736/clothing an apron] standing in front of [/EN#157740/other shelves of bread] in [/EN#157735/scene a bakery] .
+[/EN#157734/people A woman] in [/EN#157741/clothing a black dress] and [/EN#157736/clothing apron] looks upon [/EN#157739/other the shelves] on [/EN#157738/other bread] .
+[/EN#157734/people A young woman] picks up [/EN#157737/other bread] at [/EN#157735/scene a bakery] in [/EN#0/notvisual which] [/EN#0/notvisual she] works .
+[/EN#157734/people A woman] in [/EN#157736/clothing an apron] is looking for [/EN#157737/other bread] .
+[/EN#157734/people A woman] is taking [/EN#157738/other food] from [/EN#157742/other a shelf] .

@@ -1,0 +1,5 @@
+[/EN#255644/people A lady] in [/EN#255652/clothing a white hat] , [/EN#255645/clothing long light green coat] , [/EN#255653/clothing black pants] and [/EN#255654/clothing white shoes] is at [/EN#255646/other the map] deciding where to go .
+[/EN#255644/people A lady] in [/EN#255645/clothing a gray coat] seeking [/EN#255649/other information] from [/EN#255648/other a sign] .
+[/EN#255644/people A girl] is pointing to [/EN#255651/scene a spot] on [/EN#255646/other a map] in [/EN#255650/scene a park] .
+[/EN#255644/people Woman] points to [/EN#255646/other the center of a sign] in [/EN#255650/scene a park] .
+[/EN#255644/people Woman] looking at [/EN#255647/scene a map of a city] .

@@ -1,0 +1,5 @@
+[/EN#211941/people A young person] dressed in [/EN#211942/clothing a blue shirt] and [/EN#211945/clothing jeans] passes by [/EN#211943/scene an asian supermarket] on [/EN#211944/other a motorcycle] .
+[/EN#211941/people A man] in [/EN#211942/clothing a blue shirt] is riding [/EN#211944/other a motorcycle] near [/EN#211943/scene the supermarket] .
+[/EN#211941/people A man] on [/EN#211944/other a motorcycle] rides past [/EN#211943/scene a large supermarket] .
+[/EN#211941/people A motorcyclist] rides past [/EN#211943/scene an Asian supermarket] .
+[/EN#211941/people A motorcyclist] riding by [/EN#211943/scene a supermarket] .

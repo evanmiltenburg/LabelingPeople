@@ -1,0 +1,5 @@
+[/EN#29011/people An Asian man] is seated in [/EN#29012/other an ornate chair] in front of [/EN#29013/other a yellow wall] on [/EN#0/notvisual which] hangs [/EN#29014/people a darker colored banner of some kind] .
+[/EN#29011/people A man] is sitting at [/EN#29015/other a table] adorned with [/EN#29016/other religious items] with [/EN#29017/other a brightly colored tablecloth] .
+[/EN#29011/people A man] sits behind [/EN#29015/other a decorated table] inside [/EN#29020/scene a room] with [/EN#29013/other fabrics] draped down [/EN#29013/other the walls] .
+[/EN#29011/people An older man] sits on [/EN#29012/other an ornate chair] with [/EN#29015/other a table] in front of [/EN#0/notvisual him] .
+[/EN#29011/people A man] [/EN#0/notvisual that] looks like [/EN#29018/people a king] enjoying [/EN#29019/other a cup of tea] .

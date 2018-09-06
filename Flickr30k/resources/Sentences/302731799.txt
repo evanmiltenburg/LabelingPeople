@@ -1,0 +1,5 @@
+[/EN#88435/people young man] asleep in [/EN#88436/scene the booth of a restaurant] with [/EN#88440/other dishes] and [/EN#88441/other newspaper] around [/EN#0/notvisual him] .
+[/EN#88435/people A young man] in [/EN#88442/clothing a black jacket] asleep at [/EN#88437/scene a restaurant] .
+[/EN#88435/people a man] is sleeping in [/EN#88438/scene a booth] at [/EN#88436/scene a restaurant] .
+[/EN#88435/people A man] sleeping at [/EN#88439/other a table] in [/EN#88437/scene a restaurant] .
+[/EN#88435/people A person] sleeping at [/EN#88437/scene a restaurant] .

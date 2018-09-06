@@ -1,0 +1,5 @@
+[/EN#24792/people A man] in [/EN#24793/clothing a red baseball cap] is adjusting [/EN#24795/other the flame of a blowtorch] .
+[/EN#24792/people A man] in [/EN#24793/clothing a red hat] holds [/EN#24794/other a welding torch] near [/EN#24799/scene water] and [/EN#24798/scene a city] .
+[/EN#24792/people A man] in [/EN#24797/clothing a blue shirt] and [/EN#24793/clothing red hat] is looking at [/EN#24794/other a torch] .
+[/EN#24792/people A middle-aged man] wearing [/EN#24793/clothing a red hat] is fishing .
+[/EN#24792/people A man] is using [/EN#24796/scene a blowtorch outside] .

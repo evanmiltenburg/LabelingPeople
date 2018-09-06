@@ -1,0 +1,5 @@
+[/EN#24219/animals A golden haired dog] is lying in [/EN#24220/vehicles/scene a boat] [/EN#0/notvisual that] is traveling on [/EN#24222/scene a lake] .
+[/EN#24219/animals A big brown dog] floats in [/EN#24220/other a canoe] on [/EN#24222/scene the river] at [/EN#24223/scene sunset] .
+[/EN#24219/animals A brown dog] in [/EN#24220/other a canoe] looks out [/EN#24222/scene over still waters] .
+[/EN#24219/animals A dog] is drifting on [/EN#24222/scene a lake] in [/EN#24220/vehicles/scene a small boat] .
+[/EN#24219/animals A fat dog] sitting in [/EN#24220/vehicles/scene a boat]

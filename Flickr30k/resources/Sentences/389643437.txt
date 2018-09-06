@@ -1,0 +1,5 @@
+[/EN#147317/people A girl] in [/EN#147325/clothing a white cap] eats [/EN#147319/other a slice of fruit] next to [/EN#147323/people a girl] in [/EN#147322/clothing a blue cap] [/EN#0/notvisual who] is eating [/EN#147321/other chocolate] .
+[/EN#147318/people Two girls] with [/EN#147320/clothing baseball caps] are eating [/EN#147319/scene a snack outside] .
+[/EN#147318/people Two girls] sitting in [/EN#147326/scene the grass] wearing [/EN#147320/clothing hats] eat [/EN#147319/other snacks] .
+[/EN#147317/people One young girl] eats [/EN#147319/other fruit] while [/EN#0/notvisual another] eats [/EN#147321/other chocolate] .
+[/EN#147318/people Two children] taking in [/EN#147319/other a snack] .

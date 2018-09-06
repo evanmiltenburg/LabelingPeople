@@ -1,0 +1,5 @@
+[/EN#85215/vehicles a few different small cars] racing around [/EN#85216/scene a track] in [/EN#85218/other the rain]
+[/EN#85215/vehicles Race cars] driving through [/EN#85218/other rain] on [/EN#85216/other a racetrack] at [/EN#85217/scene night] .
+[/EN#85215/vehicles The cars] are on [/EN#85216/scene a track] , in [/EN#85218/other the rain] , at [/EN#85217/scene night] .
+[/EN#85219/vehicles A white car] with [/EN#85221/other headlights] on .
+[/EN#85215/vehicles Race cars] at [/EN#85217/scene night] in [/EN#85218/other the rain] .

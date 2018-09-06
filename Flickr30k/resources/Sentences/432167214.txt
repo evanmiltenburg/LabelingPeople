@@ -1,0 +1,5 @@
+[/EN#162975/people A man] in [/EN#162980/clothing a blue and yellow jacket] holding [/EN#162977/other a religious sign] stands in [/EN#162976/scene a street] with [/EN#162979/people people] behind [/EN#0/notvisual him] on [/EN#162982/scene the sidewalk] .
+[/EN#162975/people A dark colored man] is holding [/EN#162977/other a protest banner] in [/EN#162976/scene a busy city street] with [/EN#162979/people people] staring from [/EN#162983/other behind] .
+[/EN#162975/people A man] wearing [/EN#162981/clothing a hat] holding [/EN#162977/other a sign] with writing on [/EN#0/notvisual it] .
+[/EN#162975/people Man] standing on [/EN#162976/scene the street] holding [/EN#162977/other a sign]
+[/EN#162975/people A man] is holding [/EN#162977/other a religious poster] .

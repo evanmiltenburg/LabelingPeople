@@ -1,0 +1,5 @@
+[/EN#158545/people Two men] , [/EN#158544/other one] in [/EN#158547/clothing a green shirt] , [/EN#158548/other one] in [/EN#158549/clothing a white shirt] , are building and stacking [/EN#158550/other wooden crates] .
+[/EN#158544/people One man] in [/EN#158551/other a green shirt hammers wood] , while [/EN#158548/people another man] in [/EN#158549/clothing a white short] moves [/EN#158546/other a crate] .
+[/EN#158544/people A guy] in [/EN#158547/clothing a green shirt] hammering and [/EN#158548/people another guy] moving [/EN#158546/other a box] .
+[/EN#158545/scene Two men of hispanic descent] are working at [/EN#158550/other the wood boards] .
+[/EN#158545/people The two men] are stacking up [/EN#158550/other crates] outside .

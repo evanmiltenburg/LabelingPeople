@@ -1,0 +1,5 @@
+[/EN#69702/animals The dog] is jumping over [/EN#69703/scene a low yellow bar] with [/EN#69704/other other obstacles] nearby .
+[/EN#69702/animals The terrier] is performing [/EN#0/notvisual a jump] in [/EN#69706/other an agility test] .
+[/EN#69702/animals The small furry dog] is jumping over [/EN#69705/other a low beam] .
+[/EN#69702/animals The dog] leaps across [/EN#69705/other the yellow board] .
+[/EN#69702/animals A small dog] jumps over [/EN#69705/other a yellow beam] .

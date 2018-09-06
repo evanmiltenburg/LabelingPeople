@@ -1,0 +1,5 @@
+[/EN#231202/people A man] is playing [/EN#231207/instruments a guitar] , while [/EN#231204/people someone] else is sitting at [/EN#231205/other a drum set] , and [/EN#0/notvisual there] is [/EN#231203/people a baby] sitting on [/EN#231215/scene the floor] next to [/EN#231212/other a keyboard] .
+[/EN#231202/people A man] is wearing [/EN#231216/clothing a sweater] and [/EN#231217/clothing denim jeans] is playing [/EN#231207/instruments the guitar] while [/EN#231204/people a female] is playing [/EN#231209/instruments the drums]
+[/EN#231210/people Two people] are playing [/EN#231207/instruments instruments] ; [/EN#231202/other one] is playing [/EN#231207/instruments a guitar] , while [/EN#231204/other the other] is playing [/EN#231209/instruments the drums]
+[/EN#231202/people a father] and [/EN#231204/people his daughter] are playing [/EN#231207/instruments musical instruments] .
+[/EN#231202/people A man] playing [/EN#231207/instruments guitar] with [/EN#231203/people a baby] in [/EN#231214/scene the corner] .

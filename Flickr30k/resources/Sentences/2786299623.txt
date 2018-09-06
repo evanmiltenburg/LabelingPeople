@@ -1,0 +1,5 @@
+[/EN#72938/people a lone woman] wearing [/EN#72939/clothing a bikini] on [/EN#72940/scene a beach] walking [/EN#72941/animals a dog] on [/EN#72942/clothing a leash]
+[/EN#72938/people A woman] in [/EN#72939/clothing a bikini] pulls [/EN#72941/animals a dog] on [/EN#72942/clothing a leash] at [/EN#72940/scene the beach] .
+[/EN#72938/people A woman] is standing at [/EN#72940/scene the beach] with [/EN#72941/animals her dog] on [/EN#72942/clothing a leash]
+[/EN#72938/people A woman] in [/EN#72939/clothing a bathing suit] walks [/EN#72941/animals a dog] on [/EN#72940/scene the beach] .
+[/EN#72938/people A woman] walking [/EN#72941/animals a dog] on [/EN#72940/scene a beach] .

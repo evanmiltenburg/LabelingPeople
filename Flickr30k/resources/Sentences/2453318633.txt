@@ -1,0 +1,5 @@
+[/EN#50746/animals A tan and black dog] leaps through [/EN#50747/other a burning hoop] on [/EN#50750/scene a field] .
+[/EN#50746/animals A brown and black dog] is jumping through [/EN#50748/other a ring of fire] .
+[/EN#50746/animals/people A German shepherd] is jumping through [/EN#50748/clothing a ring] on [/EN#50749/other fire] .
+[/EN#50746/animals a brown and black dog] jumping through [/EN#50747/other a hoop of fire]
+[/EN#50746/animals A dog] jumping through [/EN#50748/other a ring of fire] .

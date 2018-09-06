@@ -1,0 +1,5 @@
+[/EN#218864/people A man] walking outside with [/EN#218866/clothing a golf cap] on in front of [/EN#218867/other a wall] with [/EN#218868/other yellow graffiti] .
+[/EN#218864/people a man] with [/EN#218865/clothing a backpack] staring to [/EN#0/notvisual the camera] on [/EN#0/notvisual a yellow abstract background]
+[/EN#218864/people A well dressed man] standing in front of [/EN#218867/scene an abstract fence] painting .
+[/EN#218864/people A man] with [/EN#218866/clothing a hat] and [/EN#218865/clothing bookbag] is walking .
+[/EN#218864/people A man] is wearing [/EN#218865/clothing a backpack] and [/EN#218866/clothing a hat] .

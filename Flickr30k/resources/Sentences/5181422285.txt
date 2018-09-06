@@ -1,0 +1,5 @@
+[/EN#230483/people a young girl] with [/EN#230489/bodyparts black hair] and [/EN#230484/clothing a colorful striped t-shirt] putting [/EN#230486/other toppings] on [/EN#230485/other a pizza] , eating [/EN#230486/other some toppings] , standing in [/EN#230490/scene a messy kitchen] .
+[/EN#230483/people A girl] in [/EN#230484/clothing a long-sleeved t-shirt] with [/EN#230484/clothing multicolored stripes] , and [/EN#230487/clothing black pants] , is eating [/EN#230486/other a topping] from [/EN#230485/other a homemade pizza] [/EN#0/notvisual she] is preparing .
+[/EN#230483/people A little girl] is eating [/EN#230486/other toppings] from [/EN#230485/other an uncooked pizza] .
+[/EN#230483/people a little girl] eating and cooking [/EN#230485/other some sort of pizza] .
+[/EN#230483/people a little girl] is helping make [/EN#230485/other a pizza]

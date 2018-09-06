@@ -1,0 +1,5 @@
+[/EN#81496/people A person] wearing [/EN#81497/clothing a blue shirt] , [/EN#81503/clothing gray pants] , and [/EN#81502/clothing black shoes] is laying on [/EN#0/notvisual the ground] next to [/EN#81498/other a crutch] .
+[/EN#81496/people A homeless man] sleeping with [/EN#81498/other a walking stick] in [/EN#81500/scene the middle of a city] , while [/EN#81505/people two women] walk up [/EN#81504/other stairs] .
+[/EN#81496/people A guy] in [/EN#81497/clothing a blue shirt] is sleeping on [/EN#81499/scene outdoors] .
+[/EN#81496/people A man] with [/EN#81498/other a crutch] is sleeping on [/EN#81501/other a bench] .
+[/EN#81496/people A man] with [/EN#81498/other a crutch] lying on [/EN#0/notvisual the ground] .

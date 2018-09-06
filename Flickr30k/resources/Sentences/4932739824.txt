@@ -1,0 +1,5 @@
+[/EN#219954/people A man] is walking across [/EN#219956/scene a bridge] , [/EN#219959/scene buildings] with [/EN#219958/other asian writing] in [/EN#0/notvisual background]
+[/EN#219954/people A man] in [/EN#219955/clothing a blue shirt] is walking over [/EN#219956/scene a bridge] .
+[/EN#219954/people The man] in [/EN#219955/clothing blue] is walking on [/EN#219956/scene the red bridge] .
+[/EN#219957/scene A scene] over [/EN#219956/other a bridge of old and new Asia] .
+[/EN#219954/people Man] in [/EN#219955/clothing a blue shirt] walking on [/EN#219956/scene a bridge] .

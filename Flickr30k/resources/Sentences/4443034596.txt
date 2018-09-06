@@ -1,0 +1,5 @@
+[/EN#168687/scene The terminal] is nearly empty , [/EN#168688/people only a few people] are there getting to [/EN#168690/scene their destination] .
+[/EN#168688/people People] milling around in [/EN#168687/scene a subway station] before [/EN#168689/vehicles/scene the train] comes through .
+[/EN#168688/people People] wait for [/EN#168689/vehicles/scene trains] in [/EN#168687/scene an empty train station] .
+[/EN#168688/people People] stand on [/EN#168691/other a train platform] underground .
+[/EN#168687/scene An almost empty subway terminal] .

@@ -1,0 +1,5 @@
+[/EN#161540/animals A brown and white dog] is jumping with [/EN#161541/other a red Frisbee] in [/EN#161542/bodyparts its mouth] .
+[/EN#161540/animals A brown and white dog] leaps , holding [/EN#161541/other a flexible Frisbee] .
+[/EN#161540/scene The brown and white bog] has [/EN#161541/other a red item] in [/EN#161542/bodyparts its mouth] .
+[/EN#161540/animals A fit dog] leaps with [/EN#161541/other a disc] in [/EN#161542/bodyparts its mouth] .
+[/EN#161540/animals A dog] running with [/EN#161541/other a Frisbee] .

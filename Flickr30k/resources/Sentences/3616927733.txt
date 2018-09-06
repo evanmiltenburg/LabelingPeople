@@ -1,0 +1,5 @@
+[/EN#131893/people A man] is painting [/EN#131894/scene a portrait of an outside scene] [/EN#0/notvisual that] includes [/EN#131903/other a street sign] with [/EN#131904/vehicles a bicycle] chained to [/EN#0/notvisual it] .
+[/EN#131893/other An artist painting] standing in [/EN#131901/scene the street] painting [/EN#131895/scene his scenery of a red and white building] .
+[/EN#131893/people A man] in [/EN#131905/clothing a cap] and [/EN#131906/clothing scarf] is [/EN#131896/scene outside] painting [/EN#131894/scene a scene] with [/EN#131899/scene a green fence] in [/EN#0/notvisual it] .
+[/EN#131893/people An older man] stands on [/EN#131901/scene the sidewalk] painting [/EN#131897/scene the view] .
+[/EN#131893/people A male] painting [/EN#131900/scene a scene] in front of [/EN#0/notvisual him] .

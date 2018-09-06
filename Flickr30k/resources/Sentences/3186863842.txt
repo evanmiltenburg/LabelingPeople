@@ -1,0 +1,5 @@
+[/EN#99534/people A woman] wearing [/EN#99539/clothing a black shirt] browses through [/EN#99536/other a book] at [/EN#99538/scene a store] .
+[/EN#99534/people A woman] looks at [/EN#99536/other a book] in [/EN#99538/scene a bookstore] while holding [/EN#99535/people a baby] .
+[/EN#99534/people A woman] with [/EN#99535/people a baby] looks through [/EN#99537/other a book display] .
+[/EN#99534/people A woman] with [/EN#99535/people a baby] browses in [/EN#99538/scene a bookstore] .
+[/EN#99534/people Woman] holding [/EN#99535/people a baby] shopping for [/EN#99537/other books]

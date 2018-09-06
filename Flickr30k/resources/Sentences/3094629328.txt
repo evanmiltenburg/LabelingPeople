@@ -1,0 +1,5 @@
+[/EN#93213/people Person] trying to dig [/EN#93215/other something] out of [/EN#0/notvisual the ground] wearing [/EN#93220/clothing a blue sweater] and [/EN#93218/other hood] .
+[/EN#93213/people A man] digging through [/EN#93216/other reinforced concrete] with [/EN#93214/other a hand tool] .
+[/EN#93213/people Somebody] digging in [/EN#93217/scene the dirt] with [/EN#93214/other a shovel] .
+[/EN#93213/people Someone] grinding [/EN#93216/other stones] with [/EN#93214/other a pestle] .
+[/EN#93213/people A man] chips away at [/EN#93215/other cement] in [/EN#93217/scene a hole] .

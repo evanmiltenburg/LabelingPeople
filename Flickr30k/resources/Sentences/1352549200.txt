@@ -1,0 +1,5 @@
+[/EN#9632/people A young girl] holding [/EN#9633/other a hose] and watering [/EN#9635/other some small plants] .
+[/EN#9632/people A young girl] with [/EN#9638/clothing a purple shirt] , [/EN#9637/scene waters grass] .
+[/EN#9632/people A child] holding [/EN#9633/other a hose] watering [/EN#9634/other a plant] .
+[/EN#9632/people a child] watering [/EN#9635/other plants] on [/EN#9636/scene a backyard]
+[/EN#9632/people A girl] is holding [/EN#9633/other a water hose] .

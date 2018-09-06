@@ -1,0 +1,5 @@
+[/EN#0/notvisual This] is [/EN#200755/scene a gas station] with [/EN#200754/other a bright sign] displaying [/EN#200754/other the price of gasoline] .
+On [/EN#200758/scene a foggy night] , [/EN#200755/scene a gas station] displays [/EN#200754/other the price of gas] .
+[/EN#200755/scene A gas station] [/EN#0/notvisual that] costs [/EN#200754/other $ 2.52 and nine-tenths] [/EN#200760/other a gallon] .
+[/EN#200755/other A gas station name m&h] with [/EN#200761/other gas] [/EN#200754/other the price of $ 2.52] .
+[/EN#200754/other A neon gas station sign] at [/EN#200758/scene night] .

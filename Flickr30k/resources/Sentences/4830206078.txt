@@ -1,0 +1,5 @@
+[/EN#208316/people Two children] on [/EN#208319/scene the sidewalk] in front of [/EN#208317/scene a building] and [/EN#208315/people one of the children] is playing with [/EN#208324/vehicles hand shopping carts] .
+[/EN#208315/people A child] in [/EN#208320/clothing red pants] holding [/EN#208318/other a metal basket] next to [/EN#208322/people another child] in [/EN#208321/clothing a blue jacket] .
+[/EN#208316/people Two children] select [/EN#208318/other wire baskets] from [/EN#208323/people a pile] in front of [/EN#208317/scene a store] .
+[/EN#208316/people Two children] are on [/EN#208319/scene a sidewalk] playing with [/EN#208318/other metal baskets] .
+[/EN#208315/people A little child] in [/EN#208320/clothing red pants] playing with [/EN#208318/other a grocery basket] .

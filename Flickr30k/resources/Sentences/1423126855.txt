@@ -1,0 +1,5 @@
+[/EN#12321/people A man] in [/EN#12323/scene a field] wearing [/EN#12322/clothing a backpack] and [/EN#0/notvisual there] are [/EN#12325/animals sheep] and [/EN#12328/scene mountains] behind [/EN#0/notvisual him] .
+[/EN#12321/people A man] wearing [/EN#12326/clothing a black shirt] is standing next to [/EN#12324/other a pole] in [/EN#12323/scene a grassy field] .
+[/EN#12321/people A man] carrying [/EN#12322/clothing a backpack] on [/EN#12327/other his back] walks in [/EN#12323/scene a large field of grass] .
+[/EN#12321/people A man] wearing [/EN#12322/clothing a hiking backpack] is leaning on [/EN#12324/other a wooden pole]
+[/EN#12321/people A hiker] poses in [/EN#12323/scene a green field] with [/EN#12325/animals sheep] .

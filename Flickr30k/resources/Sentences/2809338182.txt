@@ -1,0 +1,5 @@
+From [/EN#74230/vehicles the inside of a car] , [/EN#74227/scene a verdant neighborhood] and [/EN#74224/people a man] on [/EN#74226/other a tractor] pulling [/EN#74225/other a fallen tree] are visible .
+[/EN#74224/people A man] is pulling [/EN#74225/other a tree] with [/EN#74226/other his tractor] through [/EN#74227/scene town] .
+[/EN#74224/people A man] on [/EN#74226/other a riding lawn mower] is pulling [/EN#74225/other a tree] .
+[/EN#74224/people A man] is riding [/EN#74226/other a lawn mower] on [/EN#74229/scene the street] .
+[/EN#74224/people A man] on [/EN#74226/other a lawn mower] drives past [/EN#74228/vehicles a car] .

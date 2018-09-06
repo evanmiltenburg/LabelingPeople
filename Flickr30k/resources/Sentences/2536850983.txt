@@ -1,0 +1,5 @@
+[/EN#55997/people A group of men] in [/EN#56004/clothing orange safety vest] and [/EN#56005/clothing yellow hard hats] is inspecting [/EN#56008/other a subway system] with [/EN#56006/other a LED sign] saying [/EN#56001/vehicles/scene " Trains] to [/EN#56002/scene Wembley Park] and [/EN#56000/other Stanmore] Please wait for [/EN#56009/other information] " .
+[/EN#55999/people A team of five visible construction workers] wearing [/EN#56005/clothing yellow safety helmets] and [/EN#56004/clothing orange vests] are at [/EN#56003/scene a train station area] doing [/EN#56007/other a job] .
+[/EN#55999/people Workers] work on [/EN#56003/scene a train tunnel] [/EN#0/notvisual that] goes form [/EN#56002/scene Wembley Park] to [/EN#56000/other Stanmore] .
+[/EN#55999/people a group of construction workers] busy refinishing [/EN#56003/scene a subway station] .
+[/EN#55998/people A construction worker] is talking on [/EN#56010/other the phone] in [/EN#56001/scene a train tunnel] .

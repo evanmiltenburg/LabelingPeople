@@ -1,0 +1,5 @@
+[/EN#73705/people An attractive young woman] with [/EN#73709/bodyparts blond-hair] is playing [/EN#73706/instruments a guitar] in [/EN#73707/scene the street] .
+[/EN#73705/people A young woman] is playing [/EN#73706/instruments a black guitar] in front of [/EN#73710/other a microphone] on [/EN#73707/scene stage] .
+[/EN#73705/people A young women] with [/EN#73709/bodyparts long brown hair] , plays [/EN#73706/instruments a black guitar] , left handed .
+[/EN#73705/people A woman] in [/EN#73708/clothing a white t-shirt] is playing [/EN#73706/instruments acoustic guitar] and singing .
+[/EN#73705/people Girl] wearing [/EN#73708/clothing white shirt] sings on [/EN#73707/scene stage] while playing [/EN#73706/instruments guitar]

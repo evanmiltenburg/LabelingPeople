@@ -1,0 +1,5 @@
+[/EN#174899/people A woman] with [/EN#174903/clothing a blue sweater] over [/EN#174909/clothing a red shirt] sits on [/EN#174904/other a blanket] with [/EN#174898/people a man] holding [/EN#174901/other a red cup] in front of [/EN#174912/bodyparts his face] .
+[/EN#174900/people Two people] are sitting on [/EN#0/notvisual the ground] and [/EN#174898/other one] is holding [/EN#174901/other a red plastic cup] .
+[/EN#174898/people A person] holding [/EN#174901/other a red cup] sitting next to [/EN#174899/people a woman] wearing [/EN#174903/clothing a black shirt] .
+[/EN#174898/people A man] and [/EN#174899/people a woman] sit on [/EN#174908/other a picnic blanket] on [/EN#174906/scene a field] [/EN#174907/scene a green grass] .
+[/EN#174900/people Friends] enjoying [/EN#174902/scene a beautiful day] on [/EN#174910/scene campus] .

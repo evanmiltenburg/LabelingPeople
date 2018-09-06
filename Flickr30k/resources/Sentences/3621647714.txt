@@ -1,0 +1,5 @@
+[/EN#132211/people A man] is standing on [/EN#132213/scene snow] with [/EN#132218/other trees] and [/EN#132212/scene mountains] all around [/EN#0/notvisual him] .
+[/EN#132211/people A man] stands on [/EN#132213/scene snow] and looks out at [/EN#132212/scene mountains] and [/EN#132216/scene forests] .
+[/EN#132211/people A man] standing in [/EN#132213/scene snow] with [/EN#132212/scene a mountain] in [/EN#0/notvisual the background]
+[/EN#132211/people A man] stands on [/EN#132213/scene a snowy hill] next to [/EN#132212/scene a mountain] .
+[/EN#132211/people A man] standing near [/EN#132212/scene a mountain range]

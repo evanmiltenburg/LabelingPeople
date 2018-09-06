@@ -1,0 +1,5 @@
+[/EN#42108/people A little girl] riding [/EN#42110/vehicles a tricycle] , holding [/EN#42116/bodyparts hands] with [/EN#42114/people another little girl] at [/EN#42115/scene a street fair] .
+[/EN#42109/people Children] ride [/EN#42110/vehicles their bikes] on [/EN#42111/scene a street] covered in [/EN#42117/other chalk drawings] .
+[/EN#42109/people Children] riding [/EN#42110/vehicles bikes] and playing on [/EN#42111/scene a neighborhood street] .
+[/EN#42113/people Two children] play together in [/EN#42111/scene the street] .
+[/EN#42108/people A little girl] is riding [/EN#42110/vehicles a bicycle] .

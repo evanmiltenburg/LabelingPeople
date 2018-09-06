@@ -1,0 +1,5 @@
+[/EN#246348/vehicles A small white car] is stuck on [/EN#246349/scene the track] , while [/EN#246346/vehicles the train car] [/EN#0/notvisual that] hit [/EN#0/notvisual it] at [/EN#246351/other a slow speed] , sits still , as [/EN#246347/people a rescue worker] helps [/EN#246354/people the driver] .
+[/EN#246350/people The people] driving [/EN#246348/vehicles the tiny white car] were nearly hit by [/EN#246346/vehicles/scene the train] , but [/EN#0/notvisual it] had fortunately stopped just in [/EN#246355/other time] .
+[/EN#246347/people A man] is observing [/EN#246348/other a small white motor vehicle perpendicular] on [/EN#246349/scene the tracks] against [/EN#246346/vehicles/scene a large blue and gray train] .
+[/EN#246348/vehicles A small white car] is on [/EN#246349/scene the train tracks] and may or may not have been hit by [/EN#246346/vehicles/scene the train] behind [/EN#0/notvisual it] .
+[/EN#246346/vehicles/scene A blue train] collides with [/EN#246348/vehicles a small car] on [/EN#246349/scene the tracks] .

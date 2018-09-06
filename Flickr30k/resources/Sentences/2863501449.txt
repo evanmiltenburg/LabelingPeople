@@ -1,0 +1,5 @@
+[/EN#77534/people A man] in [/EN#77536/clothing black shorts] jumping into [/EN#77535/scene a small swimming pool] [/EN#0/notvisual that] is enclosed in [/EN#77537/scene a screened-in porch] .
+[/EN#77534/people A white male] in [/EN#77536/clothing black and red swim trunks] is jumping into [/EN#77535/scene an indoor pool] .
+[/EN#77534/people Man] in [/EN#77536/clothing black swim trunks] jumping in [/EN#77535/scene a swimming pool] .
+[/EN#77534/people A man] is jumping into [/EN#77535/scene a screened-in outdoor pool] .
+[/EN#77534/people An excited man] jumps in [/EN#77535/scene his pool] !

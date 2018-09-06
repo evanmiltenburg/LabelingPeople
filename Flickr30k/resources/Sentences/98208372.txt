@@ -1,0 +1,5 @@
+[/EN#284887/people A group of people] walk past [/EN#284888/scene a lake] in [/EN#0/notvisual the background] .
+[/EN#284887/people Group of people] walking around [/EN#284888/scene a lake] at [/EN#284890/other dusk] .
+[/EN#284887/people A crowd] marches on [/EN#284889/scene a path] besides [/EN#284888/scene a lake] .
+[/EN#284887/people A group of people] walking by [/EN#284888/scene a lake] .
+[/EN#284887/people Some people] walking by [/EN#284888/scene the water] .

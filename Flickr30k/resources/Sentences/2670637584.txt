@@ -1,0 +1,5 @@
+[/EN#65243/people A child] in [/EN#65247/clothing a blue shirt] sitting on [/EN#65244/scene a forest floor] , looking through [/EN#65245/other binoculars] .
+[/EN#65243/people A girl] sitting on [/EN#0/notvisual the ground] in [/EN#65244/scene the forest] looking through [/EN#65245/other binoculars] .
+[/EN#65243/people A young girl] sits on [/EN#65244/scene the forest floor] and looks up through [/EN#65245/other binoculars] .
+[/EN#65243/people The woman] with [/EN#65245/other binoculars] is sitting on [/EN#65244/scene the forest floor] looking up .
+[/EN#65243/people A child] sits in [/EN#65246/other the woods] looking up with [/EN#65245/other binoculars] .

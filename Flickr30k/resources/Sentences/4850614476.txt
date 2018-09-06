@@ -1,0 +1,5 @@
+[/EN#210473/people Artwork of a young child] and [/EN#210476/animals his dog] overlook [/EN#210474/scene a quiet sidewalk] and [/EN#210472/people a man] sleeping against [/EN#210481/scene the side of a building] .
+[/EN#210472/people A man] sits on [/EN#0/notvisual the ground] with [/EN#210482/bodyparts his head] in [/EN#210483/clothing his jacket] and [/EN#0/notvisual there] is [/EN#210473/people a painting of a child] and [/EN#210476/animals dog] in [/EN#0/notvisual the distance] .
+[/EN#210475/scene Street scene] with [/EN#210472/people a man] sat outside [/EN#210478/scene a closed and shuttered shop]
+[/EN#210472/people A man] slumped on [/EN#0/notvisual the ground] under [/EN#210477/other a building overhang] .
+[/EN#210472/people A man] sleeping alone on [/EN#210474/scene the side of the road] .

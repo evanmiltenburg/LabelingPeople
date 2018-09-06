@@ -1,0 +1,5 @@
+[/EN#284729/people A scientist] studies [/EN#284734/scene a slide] in order to work on [/EN#284733/other her new creation] .
+[/EN#284729/people A woman] in [/EN#284730/clothing a white shirt] looking through [/EN#284731/other a microscope] .
+[/EN#284729/people A woman] in [/EN#284730/clothing a lab coat] is looking through [/EN#284731/other a microscope] .
+[/EN#284729/people A scientist] looks through [/EN#284731/other a microscope] in [/EN#284732/other a alb] .
+[/EN#284729/people A person] looking through [/EN#284731/other a microscope] .

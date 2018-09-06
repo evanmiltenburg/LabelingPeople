@@ -1,0 +1,5 @@
+[/EN#93283/people People] are standing on [/EN#93284/scene an escalator] moving up .
+[/EN#93283/people People] travel up [/EN#93284/scene the elevator] together .
+[/EN#93283/people Several people] ride up [/EN#93284/scene an escalator] .
+[/EN#93286/people People] ride up [/EN#93284/scene an escalator] .
+[/EN#93283/people people] go up [/EN#93284/scene the escalator] .

@@ -1,0 +1,5 @@
+[/EN#135350/people A man] , wearing [/EN#135351/clothing all black clothing] , is running down [/EN#135353/scene the street] as [/EN#135359/vehicles a car] comes toward [/EN#0/notvisual him] with [/EN#135358/other its headlights] on .
+[/EN#135350/people A man] in [/EN#135351/clothing a black shirt] and [/EN#135356/clothing shorts] with [/EN#135354/bodyparts his hands] on [/EN#135355/bodyparts his hips] crossing [/EN#135353/scene the street] while smoking [/EN#135352/other a cigarette] .
+[/EN#135350/people A man] in [/EN#135357/clothing a black shirt] and [/EN#135356/clothing shorts] stands in [/EN#135353/scene the street] with [/EN#135354/bodyparts is hands] on [/EN#135355/bodyparts his hips] .
+[/EN#135350/people A man] is strutting across [/EN#135353/scene the street] while smoking [/EN#135352/other a cigarette] .
+[/EN#135350/people A man] dressed in [/EN#135351/clothing black] posing on [/EN#135353/scene a street] .

@@ -1,0 +1,5 @@
+[/EN#4748/people This picture of a man] reading is tilted .
+[/EN#4748/people A man] looks at [/EN#4749/other a book] on [/EN#4751/scene a sunny day] .
+[/EN#4748/people A man] is reading [/EN#4749/other a small book] .
+[/EN#4748/people A man] reading [/EN#4750/scene a book outside] .
+[/EN#4748/people Man] reading [/EN#4750/scene book outdoors] .

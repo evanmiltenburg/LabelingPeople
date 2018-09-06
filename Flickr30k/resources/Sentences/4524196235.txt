@@ -1,0 +1,5 @@
+[/EN#175322/people A construction man] is holding on to [/EN#175324/other a handrail] while [/EN#0/notvisual there] is [/EN#175325/scene a crane] in [/EN#0/notvisual the background] .
+[/EN#175322/people A man] in [/EN#175323/clothing a blue jacket] working under [/EN#175328/other construction equipment] .
+[/EN#175322/people A worker] in [/EN#175323/clothing a blue jumpsuit] standing on [/EN#175324/vehicles/scene the deck of a boat] .
+[/EN#175322/people A man] standing on [/EN#175324/scene a bridge] under [/EN#175325/scene a crane] .
+[/EN#175322/people A steel worker] on [/EN#175327/other the job] .

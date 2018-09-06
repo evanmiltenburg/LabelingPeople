@@ -1,0 +1,5 @@
+[/EN#201041/people A blond woman] in [/EN#201043/clothing a red dress] and [/EN#201040/people a fedora-adorned man] in [/EN#201045/clothing black] dance in [/EN#201046/scene a public pavilion] across from [/EN#201050/other a cafe] and near [/EN#201051/other a bike rack] .
+[/EN#201040/people Man] in [/EN#201045/clothing casual dark shirt] and [/EN#201047/clothing pants] and [/EN#201042/clothing hat] dances with [/EN#201041/people curly-haired blond woman] in [/EN#201043/clothing short red dress] and [/EN#201049/clothing red high heels]
+[/EN#201040/people A Man] in [/EN#201045/clothing black] with [/EN#201042/clothing a fedora] dancing with [/EN#201041/people a woman] wearing [/EN#201043/clothing a red cocktail dress] in [/EN#201048/scene public]
+[/EN#201040/people A man] dressed in [/EN#201045/clothing black] dances with [/EN#201041/people a woman] in [/EN#201043/scene a red dress outside] .
+[/EN#201040/people A man] dressed in [/EN#201045/clothing black] and [/EN#201041/people a woman] in [/EN#201043/scene red dancing outside] .

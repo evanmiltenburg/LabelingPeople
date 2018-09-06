@@ -1,0 +1,5 @@
+[/EN#284674/animals A multicolor cat] fighting with [/EN#284675/animals a black and brown dog] in [/EN#284676/clothing a red collar] .
+[/EN#284674/animals The yellow and black cat] and [/EN#284675/animals the brown and black dog] are fighting .
+[/EN#284674/animals A calico cat] raising [/EN#284677/bodyparts its paws] towards [/EN#284675/animals a dog] with [/EN#284678/bodyparts an open mouth]
+[/EN#284675/animals A dog] and [/EN#284674/animals cat] are fighting on [/EN#284679/other a chair] .
+[/EN#284674/animals A cat] swatting at [/EN#284675/animals a doberman dog]

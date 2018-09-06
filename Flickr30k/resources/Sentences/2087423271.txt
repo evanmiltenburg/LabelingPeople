@@ -1,0 +1,5 @@
+[/EN#27809/people A man] sitting down in [/EN#27811/scene a bar] with [/EN#27810/people a woman] behind [/EN#0/notvisual him] resting [/EN#27815/bodyparts/people her arm] on [/EN#27816/bodyparts his shoulder] and holding [/EN#27813/other her drink] .
+[/EN#27810/people A woman] and [/EN#27809/people a man] having [/EN#27812/other a beer] in [/EN#27811/scene a pub] .
+[/EN#27809/people A man] and [/EN#27810/people woman] are drinking at [/EN#27811/scene a bar] .
+[/EN#27809/people A man] and [/EN#27810/people woman] drink [/EN#27812/other beer] at [/EN#27811/scene a bar] .
+[/EN#27814/people A group of people] in [/EN#27811/scene a bar] .

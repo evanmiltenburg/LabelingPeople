@@ -1,0 +1,5 @@
+[/EN#36796/animals A small white and gray dog] in [/EN#36797/clothing a jacket] standing in [/EN#36798/scene the snow] .
+[/EN#36796/animals The white dog] stands in [/EN#36798/scene the snow] wearing [/EN#36797/clothing a black jacket] .
+[/EN#36796/animals A white dog] in [/EN#36797/clothing a black coat] is standing in [/EN#36798/scene the snow] .
+[/EN#36796/animals A dog] , wearing [/EN#36797/clothing a coat] , looks up from [/EN#36798/scene the snow] .
+[/EN#36796/animals A dog] plays in [/EN#36798/scene the snow] .

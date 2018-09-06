@@ -1,0 +1,5 @@
+[/EN#109517/people A woman] wearing [/EN#109525/clothing headphones] is performing [/EN#109523/other aerobic exercise] in [/EN#109527/scene a home] setting on [/EN#109519/other a piece of exercise equipment] , with [/EN#109526/other other exercise equipment] visible in [/EN#0/notvisual the background] .
+[/EN#109517/people A woman] wearing [/EN#109518/clothing a blue workout outfit] is on [/EN#109519/other a treadmill] , looking down at [/EN#109520/other the screen] , with [/EN#109524/other a water bottle] in [/EN#109522/other the cup holder] .
+[/EN#109517/people A young woman] focuses on [/EN#109520/other the screen of her treadmill] as [/EN#0/notvisual she] exercises and listens to [/EN#109521/other music] .
+[/EN#109517/people A woman] runs on [/EN#109519/other a treadmill] while listening to [/EN#109521/other music] .
+[/EN#109517/people The young woman] in [/EN#109518/clothing blue] is running on [/EN#109519/other a treadmill] .

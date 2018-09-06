@@ -1,0 +1,5 @@
+[/EN#18236/people Two men] sitting in front of [/EN#18237/scene a building] and [/EN#18238/scene a field of grass] in front of [/EN#0/notvisual them] .
+[/EN#18235/people A group of people] are sitting on [/EN#18238/scene the grass] outside of [/EN#18237/scene a rustic building] .
+[/EN#18235/people People] sitting in [/EN#18238/scene the grass] outside [/EN#18237/scene a building] , taking [/EN#18239/scene a break] .
+[/EN#18236/people Two people] sit on [/EN#18238/scene a grassy lawn] in front of [/EN#18237/scene a building] .
+[/EN#18235/people People] sitting outside [/EN#18237/scene a house] enjoying [/EN#18240/other wine] .

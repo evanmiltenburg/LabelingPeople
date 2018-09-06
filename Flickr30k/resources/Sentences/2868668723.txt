@@ -1,0 +1,5 @@
+[/EN#77861/people A young boy] wearing [/EN#77865/clothing a gray sweater] , [/EN#77866/clothing blue jeans] and [/EN#77867/clothing boots] hangs upside down in [/EN#77862/other a tire swing] .
+[/EN#77861/people A young boy] is hanging [/EN#77863/bodyparts head] down in [/EN#77862/other a tire swing] with [/EN#77864/other gravel] beneath [/EN#0/notvisual it] .
+[/EN#77861/people a boy] is swinging upside-down with [/EN#77863/bodyparts his head] sticking through [/EN#77862/other a tire] .
+[/EN#77861/people A child] upside down in [/EN#77862/other a horizontal tire swing] .
+[/EN#77861/people A boy] is hanging upside down from [/EN#77862/other a tire swing] .

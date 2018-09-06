@@ -1,0 +1,5 @@
+[/EN#78949/people The person] is dress from [/EN#78953/bodyparts head to toe] in [/EN#78950/clothing white] and is walking on [/EN#78951/scene the street] .
+[/EN#78949/people A woman] wearing [/EN#78950/clothing an all-white outfit] is walking across [/EN#78951/scene a crosswalk] .
+[/EN#78949/people The nurse] is all dressed in [/EN#78950/clothing white] walking on [/EN#78952/scene a street] .
+[/EN#78949/people A woman] in [/EN#78950/clothing a white dress] walking down [/EN#78952/scene a street] .
+[/EN#78949/people A woman] dressed in [/EN#78950/clothing all white] in [/EN#78952/scene a crosswalk] .

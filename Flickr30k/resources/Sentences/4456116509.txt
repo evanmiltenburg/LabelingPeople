@@ -1,0 +1,5 @@
+[/EN#170082/people A man] in [/EN#170085/clothing a green shirt] plays [/EN#170084/other a game] with [/EN#170087/people clowns] while [/EN#170082/people a man] in [/EN#170089/clothing red shirt] watches .
+[/EN#170082/people A man] in [/EN#170085/clothing a green jacket] plays [/EN#170084/other a clown-themed carnival game] while [/EN#170088/other others] watch .
+[/EN#170082/people A man] in [/EN#170085/clothing a green jacket] is playing [/EN#170084/other a game] to win [/EN#170086/other a prize] .
+[/EN#170082/people A man] in [/EN#170085/clothing a green jacket] is playing [/EN#170084/other a fairground game] .
+[/EN#170082/people A guy] playing [/EN#170084/other a game] at [/EN#170090/scene a fair] .

@@ -1,0 +1,5 @@
+[/EN#24411/people A blond woman] at [/EN#24419/scene a sporting event] looking for [/EN#24416/scene her seat] .
+[/EN#24411/people Blond women] in [/EN#24421/clothing a blue shirt] looking for [/EN#24416/scene her seat] .
+[/EN#24413/people A couple] trying to find [/EN#24420/other their sets] at [/EN#24414/scene a stadium] .
+[/EN#24413/people Couple] looks for [/EN#24417/scene their seats] at [/EN#24415/scene sporting event] .
+[/EN#24418/other People search] for [/EN#24417/scene their seats] in [/EN#24414/scene a stadium] .

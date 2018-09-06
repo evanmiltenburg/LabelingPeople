@@ -1,0 +1,5 @@
+[/EN#59699/animals A dog] is jumping in [/EN#0/notvisual the air] in [/EN#59700/scene a field of grass] .
+[/EN#59699/animals A red dog] jumping up in [/EN#59700/scene a field of tall grass] .
+[/EN#59699/animals A brown dog] jumps high on [/EN#59700/scene a field of grass] .
+[/EN#59699/animals A brown dog] jumps high in [/EN#59700/scene the grass] .
+[/EN#59699/animals a brown dog] jumps into [/EN#59700/scene the grass] .

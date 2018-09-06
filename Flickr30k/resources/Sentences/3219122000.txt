@@ -1,0 +1,5 @@
+[/EN#102072/animals A brown dog] with [/EN#102074/bodyparts its mouth open and ears] in [/EN#0/notvisual the air] running on [/EN#102076/scene a grassy surface] .
+[/EN#102072/animals a tan dog] runs through [/EN#102073/scene a field] with [/EN#102074/bodyparts his ears] flying in [/EN#0/notvisual the air]
+[/EN#102072/animals A yellow Labrador] running with [/EN#102074/bodyparts its ears] flopping .
+[/EN#102072/animals This dog] is running along [/EN#102073/scene the path] .
+[/EN#102072/animals The brown dog] is running .

@@ -1,0 +1,5 @@
+[/EN#4700/people A woman] in [/EN#4701/clothing a white hat] is conversing with [/EN#4702/people another woman] with [/EN#4703/vehicles a bike] on [/EN#4710/scene a busy street] .
+[/EN#4710/scene A busy street] with [/EN#4704/people lots of people] standing around talking and [/EN#4705/other two] are holding [/EN#4706/vehicles bikes] .
+[/EN#4707/people Two woman] are standing next to [/EN#4708/other each other , one] holding onto [/EN#4703/vehicles a bicycle] .
+[/EN#4707/people Two woman] stop and talk in [/EN#4711/scene the downtown area] .
+[/EN#4704/people People] walking around at [/EN#4709/other a downtown festival] .

@@ -1,0 +1,5 @@
+[/EN#199259/people People] are walking down [/EN#199261/scene a street] near [/EN#199263/vehicles/scene a subway] opening .
+[/EN#199259/people People] milling around on [/EN#199261/scene corner of city street] .
+[/EN#199259/people Women] are walking on [/EN#199261/scene the sidewalk] in [/EN#199260/scene a city] .
+[/EN#199259/people people] walking outside [/EN#199266/other a transport station] .
+[/EN#199264/scene A subway tunnel] with [/EN#199259/people people] around [/EN#0/notvisual it]

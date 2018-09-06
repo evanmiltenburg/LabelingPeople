@@ -1,0 +1,5 @@
+[/EN#189649/people A girl] with [/EN#189658/clothing a uniform] standing on [/EN#189656/scene a sidewalk] with [/EN#189652/other something] red and blue in [/EN#189653/bodyparts her hand] .
+[/EN#189649/people A woman] standing with [/EN#189660/bodyparts smile] on [/EN#189659/bodyparts her face] and [/EN#0/notvisual she] is holding [/EN#189650/other a wood] in [/EN#189653/bodyparts her hand]
+[/EN#189649/people a female] in [/EN#189657/clothing a sweater vest] with [/EN#189655/other a name tag] on [/EN#0/notvisual it] is holding [/EN#189651/other a bat] .
+[/EN#189649/people A parking attendant] poses near [/EN#189654/scene the lot] where [/EN#0/notvisual she] works .
+[/EN#189649/people The girl] with [/EN#189661/bodyparts the long curly hair] is directing [/EN#189662/vehicles cars] .

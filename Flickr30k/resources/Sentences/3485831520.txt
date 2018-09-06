@@ -1,0 +1,5 @@
+[/EN#121841/people Man] in [/EN#121845/clothing a flannel shirt] using [/EN#121843/other a table] saw to cut [/EN#121848/other a tree limb] .
+[/EN#121841/people A man] in [/EN#121845/clothing a flannel shirt] cutting [/EN#121846/other wood] with [/EN#121843/other a table] saw .
+[/EN#121842/people Three men] wearing [/EN#121849/clothing plaid shirts] are cutting [/EN#121846/other wood] .
+[/EN#121842/people Three men] are cutting [/EN#121846/other the branches] from [/EN#121847/other a tree] .
+[/EN#121841/people Man] cutting [/EN#121846/other wood] with [/EN#121843/other a cutting machine] .

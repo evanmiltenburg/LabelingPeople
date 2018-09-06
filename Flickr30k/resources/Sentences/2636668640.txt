@@ -1,0 +1,5 @@
+[/EN#63007/people A little asian girl] in [/EN#63015/clothing a yellow shirt] and [/EN#63016/clothing blue shirt] standing in front of [/EN#63008/people a little boy] with [/EN#63013/clothing a sleeveless shirt] and [/EN#63018/clothing shorts] on .
+[/EN#63008/people A young boy] and [/EN#63007/people young girl] [/EN#0/notvisual both] wearing [/EN#63017/clothing shorts] stand [/EN#63019/bodyparts face] on [/EN#63011/scene the street] while [/EN#63012/bodyparts/people an adult 's arm] can be seen nearby .
+[/EN#63008/people A little boy] and [/EN#63010/people a little girl] talking and holding [/EN#63020/other the items] [/EN#0/notvisual they] just got from [/EN#63021/vehicles a nearby food cart] .
+[/EN#63009/people Two small children] , [/EN#63008/people one boy] and [/EN#63010/people one girl] , standing near [/EN#63014/people a street vendor] talking .
+[/EN#63009/people Two young Asian children] stand together on [/EN#63011/scene a public street] .

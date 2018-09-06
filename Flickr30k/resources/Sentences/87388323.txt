@@ -1,0 +1,5 @@
+[/EN#282659/people A person] wearing [/EN#282666/clothing dark jeans] and [/EN#282669/clothing white t-shirt] , with [/EN#282660/clothing a dark backpack] on [/EN#282667/other his back] , and [/EN#282661/other a camera] in [/EN#282668/scene his left] with [/EN#282665/other a big lenses] jumping off [/EN#282662/scene the end of a dock] and into [/EN#282663/scene the water]
+[/EN#282659/people A photographer] jumping at [/EN#282662/scene the end of a dock] in [/EN#282663/scene a lake] with [/EN#282661/other his equipment] .
+[/EN#282659/people A man] with [/EN#282660/clothing a black backpack] is jumping off [/EN#282662/scene a pier] into [/EN#282663/scene a lake] .
+[/EN#282659/people A man] wearing [/EN#282660/clothing a backpack] is jumping off [/EN#282662/scene a pier] .
+[/EN#282664/other A photograph] jumps from [/EN#282662/scene a dock] beside [/EN#282663/scene a lake]

@@ -1,0 +1,5 @@
+[/EN#245509/people A girl] with [/EN#245511/clothing a red cap] , [/EN#245513/bodyparts hair] tied up and [/EN#245512/clothing a gray shirt] is fishing in [/EN#245510/scene a calm lake] .
+[/EN#245509/people A lady] wearing [/EN#245511/clothing a red hat] is fishing in [/EN#245510/scene a quiet and peaceful lake] .
+[/EN#245509/people a woman] with [/EN#245511/clothing a red cap] is fishing in [/EN#245510/scene the river] .
+[/EN#245509/people A woman] with [/EN#245511/clothing a red hat] is fishing at [/EN#245510/scene a lake] .
+[/EN#245509/people Woman] in [/EN#245511/clothing red hat] fishing .

@@ -1,0 +1,5 @@
+[/EN#78010/people An american footballer] in [/EN#78014/other a white strip] [/EN#0/notvisual who] is carrying [/EN#78009/other the ball] is being pursued by [/EN#78010/people another player] in [/EN#78013/other a black strip] .
+[/EN#78008/people One football player] holding [/EN#78009/other the ball] is chased by [/EN#78010/people another football player] from [/EN#78008/people the opposing team]
+[/EN#78008/people A football player] with [/EN#78009/other a football] is being pursued by [/EN#78010/people another player] .
+[/EN#78008/people A football player] in [/EN#78015/other mid stride] holding [/EN#78009/other a football] .
+[/EN#78008/people A football player] is running with [/EN#78009/other a football] .

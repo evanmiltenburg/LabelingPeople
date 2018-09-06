@@ -1,0 +1,5 @@
+[/EN#138913/people A person] in [/EN#138918/clothing a green and white jacket] and [/EN#138916/clothing green pants] is practicing on [/EN#138915/other his snowboard] .
+[/EN#138913/people A person] in [/EN#138916/clothing green pants] on [/EN#138915/other a snowboard] above [/EN#0/notvisual the snow covered ground] .
+[/EN#138913/people A snowboarder] in [/EN#138916/clothing green] is balancing on [/EN#138914/other a wodden bench] .
+[/EN#138913/people Someone] in [/EN#138916/clothing green pants] is standing on [/EN#138915/other a snowboard] .
+[/EN#138913/people A man] dressed in [/EN#138916/clothing green] snowboarding on [/EN#138914/other a bench] .

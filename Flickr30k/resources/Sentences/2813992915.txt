@@ -1,0 +1,5 @@
+[/EN#74436/people A man] on [/EN#74437/vehicles a bike] executes [/EN#0/notvisual a jump] as [/EN#74443/other part of a competition] while [/EN#74438/people the crowd] watches .
+[/EN#74436/people A man] is doing [/EN#0/notvisual tricks] on [/EN#74437/vehicles a bicycle] on [/EN#74440/scene ramps] in front of [/EN#74438/people a crowd] .
+[/EN#74436/people A man] rides [/EN#74437/vehicles a yellow bike] over [/EN#74440/scene a ramp] while [/EN#74442/other others] watch .
+[/EN#74436/people Bike rider] jumping [/EN#74441/other obstacles] .
+[/EN#74436/people Bmx biker] Jumps off of [/EN#74440/scene ramp]

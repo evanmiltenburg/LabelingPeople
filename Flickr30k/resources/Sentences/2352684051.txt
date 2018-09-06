@@ -1,0 +1,5 @@
+[/EN#43548/people An elderly woman] sits on [/EN#43550/scene the sidewalk] against [/EN#43552/other a dirty wall] with [/EN#43551/bodyparts her legs] crossed and [/EN#43555/bodyparts her hands] in [/EN#43556/bodyparts her lap] .
+[/EN#43548/people A person] wearing [/EN#43549/clothing a shirt] with [/EN#43554/other a rainbow] on [/EN#0/notvisual it] sits on [/EN#43550/scene a sidewalk] with [/EN#43551/bodyparts legs] crossed .
+[/EN#43548/people A lady] in [/EN#43549/clothing an orange shirt] sits alone on [/EN#43550/scene a sidewalk] .
+[/EN#43548/people A person] in [/EN#43549/clothing a yellow shirt] sits on [/EN#43550/scene a sidewalk] .
+[/EN#43548/people a old lady] sitting on [/EN#43550/other the footpath] .

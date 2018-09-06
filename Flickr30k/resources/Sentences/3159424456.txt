@@ -1,0 +1,5 @@
+[/EN#97320/people A man] in [/EN#97323/clothing glasses] has [/EN#97327/bodyparts/people his arm] around [/EN#97319/people a baby] in [/EN#97325/clothing orange] and [/EN#97326/clothing yellow] [/EN#0/notvisual that] has [/EN#97324/other foam] on [/EN#97328/bodyparts her nose] .
+[/EN#97319/people A baby] is held by [/EN#97320/people an adult] and is sitting on [/EN#97322/other a table] at [/EN#97321/scene a coffee shop] .
+[/EN#97320/people An adult] holds [/EN#97319/people a small child] [/EN#0/notvisual who] sits on [/EN#97322/other a table] in [/EN#97321/scene a mall food court] .
+[/EN#97320/people Man] in [/EN#97323/clothing glasses] holding [/EN#97319/people a toddler] on [/EN#97322/other the table] at [/EN#97321/scene a restaurant] .
+[/EN#97320/people A man] holds [/EN#97319/people a baby] on [/EN#97322/other the table] at [/EN#97321/scene a restaurant] .

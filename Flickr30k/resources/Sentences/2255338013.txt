@@ -1,0 +1,5 @@
+[/EN#37199/people A man] is repelling down [/EN#37201/scene the side of a mountain] over [/EN#37200/scene the ocean] .
+[/EN#37199/people A person] rappelling [/EN#37201/scene a cliff] above [/EN#37200/scene a body of water] .
+[/EN#37199/people A man] is repelling down [/EN#37201/scene a cliff] next to [/EN#37200/scene a lake] .
+[/EN#37199/people A man] is abseiling down [/EN#37201/scene a cliff] over [/EN#37200/scene the ocean] .
+[/EN#37199/people A person] is swinging by [/EN#37202/other a cord] over [/EN#37200/scene the ocean] .

@@ -1,0 +1,5 @@
+[/EN#195825/people A man] in [/EN#195828/clothing a red shirt] and [/EN#195831/clothing shorts] walks down [/EN#195829/scene the sidewalk] past [/EN#195827/scene a Pizza Inn] .
+[/EN#195825/people a man] in [/EN#195828/clothing red] walking under [/EN#195827/scene a pizza inn] and looking sad with [/EN#195833/bodyparts his head] down .
+[/EN#195825/people A man] walking down [/EN#195829/scene the street] next to [/EN#195827/scene a pizza restaurant] .
+[/EN#195825/people Man] walking down [/EN#195829/scene the sidewalk] in front of [/EN#195827/scene a pizza shop] .
+[/EN#195825/people an old man] walking down [/EN#195832/scene the street of a pizza inn]

@@ -1,0 +1,5 @@
+[/EN#64376/people A man] dressed in [/EN#64377/clothing a black shirt] and [/EN#64378/clothing jean pants] is cutting [/EN#64379/other wood] on [/EN#64380/other a table] to use for [/EN#64385/other his half] finished wooden [/EN#64381/scene fence] around [/EN#64382/scene his yard] .
+[/EN#64376/people A man] cuts [/EN#64379/other wood] to add to [/EN#64381/scene the fence] [/EN#0/notvisual he] is in [/EN#64384/scene the middle of building] .
+[/EN#64376/people A man] working in [/EN#64382/scene a yard] using [/EN#64383/other power tools] .
+[/EN#64376/people Man] building [/EN#64381/scene a wood picket fence] .
+[/EN#64376/people A person] is building [/EN#64381/scene a fence] .

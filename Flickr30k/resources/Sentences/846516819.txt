@@ -1,0 +1,5 @@
+[/EN#281450/people A man] wearing [/EN#281451/clothing sunglasses] , [/EN#281457/clothing white shirt] , and [/EN#281455/bodyparts a smile] plays [/EN#281452/instruments the drums] .
+[/EN#281450/people A man] with [/EN#281453/bodyparts a beard] , and wearing [/EN#281451/clothing sunglasses] , is playing [/EN#281452/instruments the drums] .
+[/EN#281450/people A happy guy] wearing [/EN#281451/clothing sunglasses] plays [/EN#281454/instruments the drum] on [/EN#281458/scene a sunny day] .
+[/EN#281450/people A sun-glassed man] plays [/EN#281452/instruments the drums] .
+[/EN#281450/people A drummer] is playing [/EN#281456/instruments drums] .

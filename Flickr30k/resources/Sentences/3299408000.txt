@@ -1,0 +1,5 @@
+[/EN#107803/people A redheaded woman] is dressed in [/EN#107804/clothing a brown and white outfit] with [/EN#107806/clothing a matching headband] and [/EN#107808/bodyparts heavy makeup] while looking startled in front of [/EN#107805/other a brick wall] .
+[/EN#107803/people A woman] in [/EN#107804/clothing a black and white long-sleeve floral print dress] with [/EN#107811/bodyparts pink lipstick] appears to be singing near [/EN#107805/other a brick wall] and [/EN#107810/other an atm machine] .
+[/EN#107803/people A woman] wearing [/EN#107804/clothing a black and white shirt] and [/EN#107806/clothing headband] [/EN#0/notvisual who] has [/EN#107807/bodyparts red-hair] and [/EN#107808/bodyparts makeup] is talking to [/EN#107814/people someone] across [/EN#107815/scene the room] .
+[/EN#107803/people A girl] with [/EN#107807/bodyparts brown hair] and [/EN#107804/clothing a black and white dress] with [/EN#107811/bodyparts her mouth] wide open .
+[/EN#107803/people Women] with [/EN#107813/clothing red-hair and white and black shirt] with [/EN#107809/bodyparts an O face] .

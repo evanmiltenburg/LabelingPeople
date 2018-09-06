@@ -1,0 +1,5 @@
+[/EN#40145/people A guy] wearing [/EN#40151/clothing blue jeans] and [/EN#40146/clothing long-sleeve shirt] is walking down [/EN#40150/scene the sidewalk] .
+[/EN#40145/people An black man] , walks [/EN#40147/other past political graffiti] on [/EN#40147/scene the side of a building] .
+[/EN#40145/people A man] walking in front of [/EN#40148/other graffiti] on [/EN#40149/scene a cloudy day] .
+[/EN#40145/people A man] in [/EN#40146/clothing a black jacket] walks past [/EN#40147/other some graffiti] .
+[/EN#40145/people A man] walks in front of [/EN#40148/other a wall] with [/EN#40147/other a painting] .

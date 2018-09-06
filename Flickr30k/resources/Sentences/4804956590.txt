@@ -1,0 +1,5 @@
+[/EN#204602/people An older man] with [/EN#204605/clothing a green shirt] walks down [/EN#204603/scene the sidewalk] past [/EN#204604/scene a large building] .
+[/EN#204602/people An old man] in [/EN#204605/clothing green] is walking down [/EN#204603/scene a broad sidewalk] .
+[/EN#204602/people A man] is walking by [/EN#204604/scene a building] on [/EN#204606/scene a sunny day] .
+[/EN#204602/people A Man] walking [/EN#204607/scene home] from [/EN#204608/other work] in [/EN#204609/other deep thought] .
+[/EN#204602/people An old man] is walking with [/EN#204610/bodyparts his head] down .

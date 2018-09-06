@@ -1,0 +1,5 @@
+[/EN#45616/animals A white horse] with [/EN#45617/people a jockey] on [/EN#0/notvisual it] 's back is jumping over [/EN#45618/other an obstacle] .
+[/EN#45617/people A horse jockey] is jumping [/EN#45616/animals a horse] over [/EN#45618/other an obstacle] on [/EN#45619/other a coarse] .
+[/EN#45617/people A jockey] on [/EN#45616/animals a horse] is attempting to jump [/EN#45618/other logs] in [/EN#45622/scene a field] .
+[/EN#45616/animals A horse] and [/EN#45617/people jockey] jumping over [/EN#45618/other a barrier] .
+[/EN#45617/people A jockey] riding [/EN#45616/animals a horse] over [/EN#0/notvisual a jump] .

@@ -1,0 +1,5 @@
+[/EN#49580/people A guy] in [/EN#49581/clothing a Baltimore Ravens baseball cap] holds [/EN#49589/other something] and looks at [/EN#0/notvisual the camera] .
+[/EN#49580/people A man] wearing [/EN#49585/bodyparts a mustache] and [/EN#49581/clothing cap] stands in front of [/EN#49583/vehicles shopping carts] and grins .
+[/EN#49580/people Mustached man] in [/EN#49586/clothing blue flannel shirt] and [/EN#49581/clothing brown Baltimore Ravins hat] smiles .
+[/EN#49580/people A man] in [/EN#49581/clothing a hat] leaves [/EN#49590/scene a store] , walking past [/EN#49583/vehicles carts] and [/EN#49587/vehicles cars] .
+[/EN#0/notvisual This] is [/EN#49580/people a man] with [/EN#49584/bodyparts a goofy grin] on [/EN#49588/bodyparts his face] .

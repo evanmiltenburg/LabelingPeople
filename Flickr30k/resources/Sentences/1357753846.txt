@@ -1,0 +1,5 @@
+[/EN#9830/animals A big , black dog] runs through [/EN#9831/scene the water] , near [/EN#9831/scene the shore] .
+[/EN#9830/animals A black dog] is walking through [/EN#9831/scene a stream of water] .
+[/EN#9830/animals A black dog] walks through [/EN#9831/scene some water] .
+[/EN#9830/animals a black dog] runs through [/EN#9831/scene the water] .
+[/EN#9830/animals A black dog] crossing [/EN#9831/scene a stream]

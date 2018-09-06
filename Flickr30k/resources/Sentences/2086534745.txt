@@ -1,0 +1,5 @@
+[/EN#27784/other A yellow kayak] is descending quickly down [/EN#27787/other a white water rapid] .
+[/EN#27783/scene A rafter in a yellow raft] in [/EN#27786/scene a steamy white river] .
+[/EN#27782/people A man] in [/EN#27784/vehicles/scene a yellow boat] paddling down [/EN#27786/scene rough waters] .
+[/EN#27784/other The yellow kayak] is in [/EN#27787/other the middle of the rapids] .
+[/EN#27782/people Kayacker] riding [/EN#27787/other rough current downstream] .

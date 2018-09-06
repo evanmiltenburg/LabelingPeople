@@ -1,0 +1,5 @@
+[/EN#60989/people Two people] are walking towards [/EN#60988/people a group of people] on [/EN#60990/scene the beach] at [/EN#60992/scene sunset] .
+[/EN#60989/people Two people] walking along [/EN#60990/scene the beach] at [/EN#60992/scene sunset] towarn [/EN#60993/people a group of people] .
+[/EN#60989/people Two people] walking along [/EN#60991/scene the shore] at [/EN#60992/scene sunset] .
+[/EN#60989/people Two people] walking on [/EN#60990/scene the beach] at [/EN#60992/scene sunset] .
+[/EN#60988/people A bunch of people] on [/EN#60991/scene the beach] at [/EN#60992/scene sunset] .

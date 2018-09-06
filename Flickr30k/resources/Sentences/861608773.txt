@@ -1,0 +1,5 @@
+[/EN#282101/animals A dog] running at [/EN#282103/scene a park] , with [/EN#282105/other a park bench] in [/EN#0/notvisual the background] .
+[/EN#282101/animals A black dog] is running across [/EN#282102/scene a grassy field] by [/EN#282104/scene a tall fence] .
+[/EN#282101/animals A black and white dog] running on [/EN#282102/scene a green grassy field] .
+[/EN#282101/animals A black dog] runs very fast in [/EN#282102/scene a field] in [/EN#282103/scene a park] .
+[/EN#282101/animals a black dog] runs through [/EN#282102/scene a field] .

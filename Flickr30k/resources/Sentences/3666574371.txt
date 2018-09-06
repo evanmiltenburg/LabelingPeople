@@ -1,0 +1,5 @@
+[/EN#135372/people A rugby player] wearing [/EN#135380/clothing a colored top] has scored [/EN#135378/other a try] as [/EN#135379/people the players] in [/EN#135381/clothing black] are running towards [/EN#0/notvisual him] .
+[/EN#135372/people A man] lying on [/EN#135374/scene the grass] on [/EN#135373/scene a rugby field] , holding [/EN#135376/other a rugby ball] .
+[/EN#135372/people The young man] dives on [/EN#135373/scene the field] during [/EN#135377/scene a sporting event] .
+[/EN#135372/people A sports player] on [/EN#135373/scene a field] lying [/EN#135382/bodyparts face] down on [/EN#135374/scene the grass] .
+[/EN#135375/people Three men] on [/EN#135373/scene a field] .

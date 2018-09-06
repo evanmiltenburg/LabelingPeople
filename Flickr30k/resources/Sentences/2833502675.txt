@@ -1,0 +1,5 @@
+[/EN#75588/people A man] with [/EN#75591/bodyparts brown hair] and [/EN#75589/clothing a green shirt] is playing [/EN#75590/instruments a trumpet] .
+[/EN#75588/people A brown-haired man] in [/EN#75589/clothing a green shirt] plays [/EN#75590/instruments a trumpet] [/EN#75592/scene outdoors] .
+[/EN#75588/people A man] in [/EN#75589/clothing a green shirt] playing [/EN#75590/instruments the trombone] .
+[/EN#75588/people A man] in [/EN#75589/clothing a green shirt] is playing [/EN#75590/instruments a trumpet] .
+[/EN#75588/people A man] is playing [/EN#75593/other music] with [/EN#75590/instruments a trumpet] .

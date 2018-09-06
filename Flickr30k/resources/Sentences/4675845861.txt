@@ -1,0 +1,5 @@
+[/EN#189379/people A man] wearing [/EN#189380/clothing a blue shirt] and [/EN#189386/clothing blue pants] is talking on [/EN#189382/other his cellphone] on [/EN#189381/scene a street] .
+[/EN#189379/people A man] in [/EN#189384/other a baby blue work-shirt] talks on [/EN#189382/other the phone] on [/EN#189381/scene the busy sidewalk] .
+[/EN#189379/people The guy] in [/EN#189385/other the button] down [/EN#189380/clothing shirt] is talking on [/EN#189382/other a cellphone] .
+[/EN#189383/people People] are talking on [/EN#189387/other cellphones] on [/EN#189381/scene a busy sidewalk] .
+[/EN#189379/people A man] outside talking into [/EN#189382/other a cellphone] .

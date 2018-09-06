@@ -1,0 +1,5 @@
+[/EN#176682/people A man] in [/EN#176684/clothing a cap] and [/EN#176685/clothing red , blue , and white jacket] looks off to [/EN#176688/scene the left] while [/EN#176686/people people] are milling about behind [/EN#0/notvisual him] .
+[/EN#176682/people A man] in [/EN#176685/clothing a red sweatshirt] looks intently at [/EN#176689/other something] in [/EN#176683/scene a Best Buy store] .
+[/EN#176682/people A man] in [/EN#176685/clothing a red shirt] and [/EN#176684/clothing backwards hat] looks off in [/EN#0/notvisual the distance] .
+[/EN#176682/people A man] in [/EN#176684/clothing a backwards hat] is standing in [/EN#176683/scene a Best Buy store] .
+[/EN#176682/people Man] in [/EN#176685/clothing red sweater] with [/EN#176684/clothing a backwards hat] .

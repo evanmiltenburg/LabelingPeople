@@ -1,0 +1,5 @@
+[/EN#42069/animals A large gray dog] is playing in [/EN#42070/scene the deep snow] .
+[/EN#42069/animals A gray dog] with [/EN#42071/bodyparts a bobbed tail] digs in [/EN#42070/scene snow] .
+[/EN#42069/animals A brown dog] is up to [/EN#42072/bodyparts its knees] in [/EN#42070/scene snow] .
+[/EN#42069/animals A brown dog] plays in [/EN#42070/scene the snow] .
+[/EN#42069/animals A dog] plays in [/EN#42070/scene the snow] .

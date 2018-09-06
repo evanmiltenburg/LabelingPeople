@@ -1,0 +1,5 @@
+[/EN#44883/people A bald man] wearing [/EN#44884/clothing a plaid shirt] welds together [/EN#44885/vehicles a yellow car] .
+[/EN#44883/people Man] in [/EN#44884/other plaid] welding [/EN#44889/other something] with [/EN#44887/other eye protection] on .
+[/EN#44883/people Skilled worker] in [/EN#44884/clothing plaid shirt] works with [/EN#44888/people welder] .
+[/EN#44883/people A man] welds in [/EN#44885/vehicles a yellow car] .
+[/EN#44883/people Mechanic] fixing [/EN#44885/vehicles yellow car] .

@@ -1,0 +1,5 @@
+[/EN#62550/people Lady] wearing [/EN#62553/clothing a straw hat] and [/EN#62557/clothing flip-flops] watches [/EN#62554/other the tossed object] fly through [/EN#0/notvisual the air] .
+[/EN#62550/people a family] is playing [/EN#62552/other some sort of game] [/EN#0/notvisual which] appears to be [/EN#62554/other frisbee] in [/EN#62560/scene their yard] .
+[/EN#62550/people A man] is throwing [/EN#62554/other a water balloon] at [/EN#62559/people someone] during [/EN#62552/other a party] .
+[/EN#62550/people A man] tosses [/EN#62554/other something] into [/EN#0/notvisual the air] while [/EN#62558/other others] look on .
+[/EN#62550/people A Man] in [/EN#62553/clothing a yellow hat] is throwing [/EN#62554/other a water balloon] .

@@ -1,0 +1,5 @@
+[/EN#67654/people some people] are sitting and [/EN#67653/other others] are standing next to [/EN#67649/other a false wall] in [/EN#67650/scene an art gallery] .
+[/EN#67651/people A man] sits in front of [/EN#67649/other a wall] with [/EN#67652/other art pictures] on [/EN#0/notvisual it] .
+[/EN#67648/people Group of men] sitting and standing in [/EN#67650/scene an art gallery] .
+[/EN#67648/people People] are hanging out in [/EN#67650/scene an art gallery] .
+[/EN#67648/people A group of men] in [/EN#67650/scene an art gallery] .

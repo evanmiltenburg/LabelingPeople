@@ -1,0 +1,5 @@
+[/EN#133753/people A man] wearing [/EN#133758/clothing an orange jacket] , [/EN#133759/clothing a ski cap] , [/EN#133760/clothing goggles] and [/EN#133761/clothing a backpack] stands on [/EN#0/notvisual what] appears to be [/EN#133755/other solid blue ice] .
+[/EN#133753/people An explorer] in [/EN#133756/other an ice cave] stands above [/EN#133755/other a large sheet of dark blue ice] .
+[/EN#133753/people A man] stares into [/EN#133757/other the depths] below [/EN#133755/other the clear ice] [/EN#0/notvisual he] is standing on .
+[/EN#133753/people Explorer] inside [/EN#133754/other a snow cave] standing on [/EN#133755/other clear blue ice] .
+[/EN#133753/people an man] in [/EN#133756/other the north pole] walking on [/EN#133755/other ice] .

@@ -1,0 +1,5 @@
+[/EN#77764/people An older woman] in [/EN#77765/clothing a dark blue suit] is standing next to [/EN#77766/other a bookcase] with [/EN#77766/other a plethora of file folders] making [/EN#77772/other some kind of hand gesture] .
+[/EN#77764/people A middle-aged woman] in [/EN#77765/clothing a blue business suit] speaks next to [/EN#77766/other a bookshelf] full of [/EN#77766/other paperwork] .
+[/EN#77764/people An older woman] in [/EN#77765/clothing business dress] talks in front of [/EN#77766/other shelves] full of [/EN#77766/other folders] .
+[/EN#77764/people A woman] in [/EN#77765/clothing a blue suit] is addressing [/EN#77770/other others] in [/EN#77773/scene a file room] .
+[/EN#77764/people A woman] describes [/EN#0/notvisual what] [/EN#77766/other the stack of files] is [/EN#77769/other for] .

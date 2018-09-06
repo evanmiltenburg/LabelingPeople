@@ -1,0 +1,5 @@
+[/EN#235394/animals A gray dog] is bouncing [/EN#235395/other a soccer ball] on [/EN#235399/bodyparts his head] in [/EN#235397/scene a grass field] .
+[/EN#235394/animals The dog] , [/EN#235398/bodyparts all belly] , leaps in [/EN#0/notvisual the air] to catch [/EN#235395/other a large ball] .
+[/EN#235394/animals A dog] tries to play with [/EN#235395/other a ball] [/EN#0/notvisual that] is tossed to [/EN#0/notvisual it] .
+[/EN#235394/animals A dog] with [/EN#235400/clothing a blue collar] plays [/EN#235396/scene ball outside] .
+[/EN#235394/animals A dog] plays with [/EN#235395/other a soccer ball]

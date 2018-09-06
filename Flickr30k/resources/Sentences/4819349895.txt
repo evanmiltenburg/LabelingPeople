@@ -1,0 +1,5 @@
+[/EN#206860/people A group of young people] sit at [/EN#206861/scene bar] , socializing .
+[/EN#206860/people A group of people] gathered at [/EN#206861/scene a posh bar] .
+[/EN#206860/people People] sitting around [/EN#206861/scene a bar] conversing .
+[/EN#206860/people People] sit around [/EN#206861/scene a circular bar] .
+[/EN#206860/people People] sitting at [/EN#206861/scene a bar] .

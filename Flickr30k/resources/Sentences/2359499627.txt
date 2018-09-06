@@ -1,0 +1,5 @@
+[/EN#43999/people Two men] wearing [/EN#44002/clothing dingy blue clothing] are doing [/EN#44004/other their job] on [/EN#44000/vehicles/scene a boat] .
+[/EN#43999/people Two guys] in [/EN#44002/clothing blue jumpsuits] sit on [/EN#44000/vehicles/scene a boat] with [/EN#44001/other lots of equipment] .
+[/EN#43999/people Two men] in [/EN#44002/clothing work clothes] aboard [/EN#44000/other a ship] with [/EN#44001/other a lot of rigging] .
+[/EN#43999/people Two men] in [/EN#44002/clothing blue clothing] sit on [/EN#44000/vehicles/scene a boat] .
+[/EN#43999/people Two men] are riding in [/EN#44000/vehicles/scene a work boat] .

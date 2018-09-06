@@ -1,0 +1,5 @@
+[/EN#234872/people Two people] in [/EN#234884/other skis] , wearing [/EN#234883/clothing blue jackets] , with [/EN#234882/clothing backpacks] are standing in [/EN#234874/scene the snow] on [/EN#234879/scene a mountain] near [/EN#234878/other a marker] .
+[/EN#234875/people One man] in [/EN#234876/clothing a blue jacket] is skiing while [/EN#234880/other another one] is taking [/EN#234881/scene a picture of the mountains] behind [/EN#0/notvisual them] .
+[/EN#234872/people Two people] wearing [/EN#234873/other climbing gear] on [/EN#234885/clothing snowshoes] are trekking through [/EN#234874/scene the snowy landscape] .
+[/EN#234872/people Two snowshoers] are standing on [/EN#234874/other a declining , snow-covered slope] .
+[/EN#234872/people Two people] in [/EN#234873/other cold weather gear] skiing .

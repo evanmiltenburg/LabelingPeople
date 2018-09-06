@@ -1,0 +1,5 @@
+[/EN#199517/people An older man] sits in [/EN#199524/vehicles the cab of a parked utility truck] with [/EN#199521/scene the door open] , looking out at [/EN#199518/scene the street] .
+[/EN#199517/people An old man] sitting in [/EN#199518/scene a parked street] [/EN#199519/people cleaner] opens [/EN#199520/other the door] .
+[/EN#199517/people A man] on [/EN#199519/vehicles a sanitation truck] waits for [/EN#199522/other a job] to be finished .
+[/EN#199517/people A man] with [/EN#199525/bodyparts a beard] sitting out [/EN#199520/vehicles the door of his big truck] .
+[/EN#0/notvisual There] is [/EN#199517/people a man] sitting in [/EN#199519/vehicles some kind of truck] .

@@ -1,0 +1,5 @@
+[/EN#248899/people A man] holding [/EN#248904/other a skateboard] against [/EN#248901/scene a blue sky] with [/EN#248911/other white clouds] with [/EN#248909/scene buildings] in [/EN#0/notvisual the background] .
+[/EN#248899/people A skateboarder] wearing [/EN#248912/clothing a green and purple hat] does [/EN#248906/other a kick] flip out of [/EN#248903/scene an empty swimming pool] .
+[/EN#248899/people A skateboarder] pulls [/EN#0/notvisual some tricks] at [/EN#248908/other the skating rink] on [/EN#248902/scene a bright sunny day] near [/EN#248905/scene the beach] .
+[/EN#248899/people Male] on [/EN#248904/other a skateboard] , using [/EN#248903/scene an empty pool] as [/EN#248907/scene a ramp] on [/EN#248902/scene a very pretty day] .
+[/EN#0/notvisual There] is [/EN#248899/people a skateboarder] jumping in [/EN#0/notvisual the air] .

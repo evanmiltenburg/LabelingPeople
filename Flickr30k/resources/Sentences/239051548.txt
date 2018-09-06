@@ -1,0 +1,5 @@
+[/EN#45862/people People] sit in [/EN#45860/scene a restaurant] with [/EN#45867/other tall ceilings] and [/EN#45866/other large windows] drinking [/EN#45868/other various wines] and socializing .
+[/EN#45861/people A man] wearing [/EN#45869/clothing a black shirt] , with [/EN#45870/bodyparts his face] propped up by [/EN#45871/bodyparts his elbow] , is sitting at [/EN#45865/other a table] .
+[/EN#45860/scene A busy restaurant] filled with [/EN#45863/people many people] talking .
+[/EN#45862/people People] conversing in [/EN#45860/scene a busy restaurant] .
+[/EN#45861/people A man] is at [/EN#45864/other a dinner] with [/EN#45863/people friends] .

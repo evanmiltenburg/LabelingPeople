@@ -1,0 +1,5 @@
+[/EN#23090/people A man] in [/EN#23094/clothing a black shirt] and [/EN#23095/clothing blue jeans] stands in front of [/EN#23092/other a shop window] next to [/EN#23098/scene a open cellar] .
+[/EN#23090/people A man] in [/EN#23094/clothing a black shirt] and [/EN#23095/clothing jeans] reading [/EN#23097/other something] on [/EN#23091/other the door of a cafe] .
+[/EN#23090/people A man] is standing in front of [/EN#23091/other Prince St Cafe] and [/EN#23096/other Catering] .
+[/EN#23090/people A man] is standing in front of [/EN#23091/other a Prince St. Cafe] .
+[/EN#23090/people A man] looks inside of [/EN#23093/other a shop window] .

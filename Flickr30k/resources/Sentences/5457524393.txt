@@ -1,0 +1,5 @@
+[/EN#237000/people A man] in [/EN#237002/clothing an orange shirt] is sitting at [/EN#237004/other a table] and eating [/EN#237001/other a french fry] dipped in dressing with [/EN#237003/other chopsticks] .
+[/EN#237000/people A man] wearing [/EN#237002/clothing an orange shirt] picks up [/EN#237001/other a french fry] with [/EN#237003/other chopsticks] .
+[/EN#237000/people A man] in [/EN#237002/clothing an orange t-shirt] eating [/EN#237001/other french fries] with [/EN#237003/other chopsticks] .
+[/EN#237000/people A man] in [/EN#237002/clothing an orange shirt] holding [/EN#237001/other a french fry] with [/EN#237003/other chopsticks] .
+[/EN#237000/people A man] in [/EN#237002/clothing an orange shirt] is eating [/EN#237001/other a meal] .

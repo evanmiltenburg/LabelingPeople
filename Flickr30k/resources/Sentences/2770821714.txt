@@ -1,0 +1,5 @@
+[/EN#71792/people Three people] , [/EN#71793/people an adult asian] in [/EN#71794/clothing white] , [/EN#71793/people a white male] in [/EN#71795/clothing green] , and [/EN#71796/people an asian child] stand for [/EN#71804/other a portrait] overlooking [/EN#71805/scene many mountains] covered in [/EN#71797/other trees] .
+[/EN#71798/people Two adults] and [/EN#71796/people a child] are standing on [/EN#71799/other a rock] with [/EN#71806/scene mountains] in [/EN#0/notvisual the background] .
+[/EN#71800/people A man] , [/EN#71793/people woman] , and [/EN#71796/people child] get [/EN#71804/other their picture] taken in front of [/EN#71806/scene the mountains] .
+[/EN#71801/other A family photo] on top of [/EN#71806/scene a mountain] with [/EN#71807/scene a beautiful view] behind [/EN#0/notvisual them] .
+[/EN#71802/people A boy] and [/EN#71798/people two young men] pose for [/EN#71809/other a photo] on [/EN#71803/scene a rocky outcropping] .

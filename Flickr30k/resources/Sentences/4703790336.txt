@@ -1,0 +1,5 @@
+[/EN#193017/people A woman] in [/EN#193018/clothing a traditional yellow dress] walks along [/EN#193019/scene a street] carrying [/EN#193020/clothing a bucket of greens] with [/EN#193021/clothing a large blue bag] balanced atop [/EN#193022/bodyparts her head] .
+[/EN#193017/people A black woman] in [/EN#193018/clothing a yellow and green dress] walking along [/EN#193019/scene a road] carrying [/EN#193023/other a bushel] with [/EN#193021/scene a large sack] on [/EN#193022/bodyparts her head] .
+[/EN#193017/people A woman] in [/EN#193018/clothing a yellow dress] transporting picked [/EN#193025/other food] from [/EN#193026/scene the fields] to wherever [/EN#0/notvisual it] may need to go .
+[/EN#193017/people Black woman] balancing [/EN#193021/clothing a large blue bag] on [/EN#193022/bodyparts her head] walking on [/EN#193019/scene the roadside] .
+[/EN#193017/people An African lady] carries [/EN#193027/other the day 's pickings] from [/EN#193026/scene the field] .

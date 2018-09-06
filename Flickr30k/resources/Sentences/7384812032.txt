@@ -1,0 +1,5 @@
+[/EN#269238/people A young man] in [/EN#269239/clothing a blue jersey] riding [/EN#269240/vehicles a yellow dirt bike] appears to be riding [/EN#0/notvisual it] around [/EN#269242/scene a corner] in [/EN#269246/other the midst of a race] .
+[/EN#269238/people Man] in [/EN#269239/clothing a blue motocross outfit] and [/EN#269245/clothing red helmet] riding [/EN#269240/vehicles a dirt bike] on [/EN#269241/scene a trail] .
+[/EN#269238/people A person] is racing around [/EN#269241/scene a dirt track] on [/EN#269240/vehicles a yellow dirt bike] .
+[/EN#269238/people A person] dressed in [/EN#269244/clothing blue] is riding [/EN#269240/other a motorcycle] .
+[/EN#269238/people A BMX rider] on [/EN#269241/scene the trail] .

@@ -1,0 +1,5 @@
+[/EN#207060/people A man] wearing [/EN#207061/clothing a denim jacket] is [/EN#207065/scene outside] playing [/EN#207062/instruments his guitar] as [/EN#207060/people a woman] in [/EN#207067/clothing a pink shirt] passes .
+[/EN#207060/people A street performer] plays [/EN#207062/instruments a guitar] while [/EN#207060/people a woman] in [/EN#207063/other pink walks past] .
+[/EN#207060/people A guy] out on [/EN#207066/scene the sidewalk] play [/EN#207062/instruments his guitar] as [/EN#207060/people a woman] walks past .
+[/EN#207060/people A black woman] with [/EN#207062/instruments a guitar] is playing on [/EN#207066/scene the sidewalk] .
+[/EN#207060/people A man] in [/EN#207061/clothing a blue coat] plays [/EN#207062/instruments guitar] beneath [/EN#207064/other a tree] .

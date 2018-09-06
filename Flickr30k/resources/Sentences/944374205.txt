@@ -1,0 +1,5 @@
+[/EN#283837/people Similarly dressed children] are playing [/EN#283841/other soccer] in [/EN#283838/scene a rocky field] in front of [/EN#283843/scene a building] .
+[/EN#283837/people A group of boys] play [/EN#283841/other soccer] on [/EN#283838/scene the grass] while [/EN#0/notvisual another] looks down from [/EN#283839/other a rock] .
+[/EN#283837/people A group of young boys] are playing [/EN#283841/other soccer] in front of [/EN#283839/scene a small hill]
+[/EN#283837/people Eight boys] playing [/EN#283842/other soccer] in [/EN#283840/scene the grass] .
+[/EN#283837/people Children] play [/EN#283842/other soccer] in [/EN#283838/scene a field] .

@@ -1,0 +1,5 @@
+[/EN#195005/people Firefighters] walk down [/EN#195007/scene a street] with [/EN#195010/other a red tape] strung across [/EN#195006/scene the area] .
+[/EN#195005/people A group of firemen] move about in [/EN#195006/scene a restricted area] .
+[/EN#195005/people Firefighters] in [/EN#195011/clothing black suits] walking in [/EN#195008/other Chicago] .
+[/EN#195005/people Firemen] walk on [/EN#195007/scene a street] next to [/EN#195009/scene a building] .
+[/EN#195005/people A group of firemen] leaving [/EN#195006/scene a fire scene] .

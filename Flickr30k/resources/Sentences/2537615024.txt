@@ -1,0 +1,5 @@
+[/EN#56360/people Subway workers] are working near [/EN#56366/scene the train tracks] at [/EN#56361/other the station] .
+[/EN#0/notvisual There] is [/EN#56363/other construction] being done on [/EN#56361/scene the train station] .
+[/EN#56364/vehicles/scene This train] is yellow and [/EN#56365/other gravel] sits beside [/EN#0/notvisual it] .
+[/EN#56360/people Workers] wearing [/EN#56367/clothing orange vests] are at [/EN#56361/other a station]
+[/EN#56361/scene Train station] with [/EN#56363/other construction] going on .

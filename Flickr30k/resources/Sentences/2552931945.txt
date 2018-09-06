@@ -1,0 +1,5 @@
+[/EN#57688/people A man] wearing [/EN#57689/clothing a green hat] is sitting in front of [/EN#57690/scene a department store] playing [/EN#57691/instruments guitar] .
+[/EN#57688/people a man] with [/EN#57692/clothing a green hat & jacket] sitting on [/EN#57693/scene the sidewalk] playing [/EN#57691/instruments a guitar] .
+[/EN#57688/people A man] in [/EN#57689/clothing a green hat] sits on [/EN#0/notvisual the ground] playing [/EN#57691/instruments an acoustic guitar] .
+[/EN#57688/people A man] playing [/EN#57691/instruments acoustic guitar] in front of [/EN#57690/other a shop window] .
+[/EN#57688/people Man] sitting playing [/EN#57691/instruments guitar] .

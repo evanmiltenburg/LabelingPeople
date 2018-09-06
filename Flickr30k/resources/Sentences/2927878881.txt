@@ -1,0 +1,5 @@
+[/EN#82014/people A man] holds [/EN#82019/other a stick] up for [/EN#82017/animals a dog] to catch while [/EN#82018/animals another dog] looks on at [/EN#82016/scene the beach] .
+[/EN#82014/people A man] standing on [/EN#82016/scene a beach] is playing with [/EN#82015/animals two dogs] .
+[/EN#82014/people Someone] playing with [/EN#82015/animals their dogs] on [/EN#82016/scene the beach] .
+[/EN#82014/people A man] plays with [/EN#82015/animals two dogs] on [/EN#82016/scene the beach] .
+[/EN#82015/animals Two dogs] play with [/EN#82014/people a man] on [/EN#82016/scene the beach] .

@@ -1,0 +1,5 @@
+[/EN#203440/people Two men] in [/EN#203444/clothing red and yellow jackets] look out at [/EN#203442/scene the water] from [/EN#203441/vehicles/scene a red-orange boat] .
+[/EN#203440/people Two rescue workers] stare off into [/EN#0/notvisual the distance] while standing in [/EN#203441/vehicles/scene a red boat] .
+[/EN#0/notvisual There] are [/EN#203440/people two coast guard men] patrolling [/EN#203442/scene the water] in [/EN#203441/other their craft] .
+[/EN#203440/people Two men] are looking across [/EN#203442/scene the water] in [/EN#203441/vehicles/scene a small boat] .
+[/EN#203440/people Two men] are standing in [/EN#203441/vehicles/scene a boat] on [/EN#203442/scene the water] .

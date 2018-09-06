@@ -1,0 +1,5 @@
+[/EN#59058/people A man] in [/EN#59059/clothing a black jacket] stands under [/EN#59061/scene a tent] near [/EN#59072/other some chairs] and [/EN#59066/people a weather-beaten statue of a man] in [/EN#59070/clothing jeans] .
+[/EN#59058/people A man] standing under [/EN#59061/scene a tent] with [/EN#59058/other his back] to [/EN#0/notvisual the camera] near [/EN#59066/people a statue of a man] doing [/EN#59073/other the same] .
+[/EN#59058/people A man] in [/EN#59059/clothing a quilted jacket] seen from [/EN#59062/other behind] stands in front of [/EN#59068/other a wicker chair] .
+[/EN#59058/people A man] in [/EN#59059/clothing a blue jacket] standing at [/EN#59060/other a table] with [/EN#59069/other his back] to [/EN#0/notvisual the camera] .
+[/EN#59064/other Outdoor cafe] with [/EN#59071/other rain flaps] down and [/EN#59060/other empty tables] .

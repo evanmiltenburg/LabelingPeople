@@ -1,0 +1,5 @@
+[/EN#43255/people An adult] is attending to [/EN#43257/people child] on [/EN#43261/scene a crowded path] surrounding [/EN#43260/scene a body of water] .
+[/EN#43255/people A woman] wearing [/EN#43259/clothing a backpack] leans down to speak with [/EN#43257/people a young child] .
+[/EN#43255/people Woman] in [/EN#43256/clothing yellow shirt] bending over [/EN#43257/people boy] crouching on [/EN#0/notvisual the ground] .
+[/EN#43255/people A woman] bends over to [/EN#43255/other attend] to [/EN#43257/people her child] in [/EN#43256/clothing a yellow jacket] .
+[/EN#43258/people Children] at [/EN#43262/scene the park] with [/EN#43255/people their parents] .

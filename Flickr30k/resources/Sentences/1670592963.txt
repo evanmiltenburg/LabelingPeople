@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#18410/animals a brown and white dog] jumping off of [/EN#18411/other a seesaw] .
+[/EN#18410/animals The collie] is running down [/EN#18411/other a blue and yellow board] .
+[/EN#18410/animals A dog] is running down [/EN#18412/scene a ramp] .
+[/EN#18410/animals Dog] is jumping down [/EN#18412/scene a ramp] .
+[/EN#18410/animals A collie] runs down [/EN#18412/scene a slide] .

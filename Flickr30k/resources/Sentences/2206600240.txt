@@ -1,0 +1,5 @@
+[/EN#34150/people A man] and [/EN#34151/people woman] sit across from [/EN#0/notvisual each other] at [/EN#34153/other a restaurant table] .
+[/EN#34150/people A young man] and [/EN#34151/people an older woman] sitting together in [/EN#34152/scene a restaurant] .
+[/EN#34150/people Man] with [/EN#34151/people older woman] , seated at [/EN#34153/other table] in [/EN#34152/scene sunny , crowded area] .
+[/EN#34150/people The man] and [/EN#34151/people the woman] are sitting at [/EN#34153/other a table] in [/EN#34152/scene a food court] .
+[/EN#34151/people a elderly lady] and [/EN#34150/people a middle-aged man] talk over [/EN#34153/other a table] .

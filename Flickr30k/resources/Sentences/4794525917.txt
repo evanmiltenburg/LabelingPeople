@@ -1,0 +1,5 @@
+[/EN#203384/people A woman] with [/EN#203395/clothing blue earring] reads [/EN#203385/other a book] besides [/EN#203386/scene a river] in [/EN#203387/scene a German speaking country] .
+[/EN#203384/people A lady] sitting on [/EN#203394/scene the edge of a dock] reading [/EN#203385/other a book] and listening to [/EN#203393/other music] .
+[/EN#203384/people A woman] reads [/EN#203385/other a book] on [/EN#203389/other a ledge] in [/EN#203392/scene front] on [/EN#203388/scene a building] with [/EN#203390/other blue doors] .
+[/EN#203384/people A woman] sitting on [/EN#203391/other concrete] reading [/EN#203385/other a book] barefoot .
+[/EN#203384/people A barefoot woman] reads [/EN#203385/other a book] along [/EN#203386/scene the water] .

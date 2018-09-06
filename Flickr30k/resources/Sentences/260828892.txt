@@ -1,0 +1,5 @@
+[/EN#61300/people A woman] in [/EN#61296/clothing a black dress] is leaving [/EN#61298/other footprints] in [/EN#61297/other the sand] as [/EN#0/notvisual she] walks towards [/EN#61295/scene the ocean] .
+[/EN#61300/people A person] walks along [/EN#61297/scene the beach] and leaves [/EN#61298/other footprints] in [/EN#61297/other the sand] .
+[/EN#61300/people A man] is walking on [/EN#61297/scene the beach] and leaving [/EN#61298/other some footprints] behind
+[/EN#61300/people a lone person] walking in [/EN#0/notvisual the distance] on [/EN#61297/scene a long beach] .
+[/EN#61300/people woman] walking on [/EN#61297/other sand] leaving [/EN#61298/other footprints]

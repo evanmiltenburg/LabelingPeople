@@ -1,0 +1,5 @@
+[/EN#124083/people A person] surfs in [/EN#124082/scene the curl of a wave] , obsured by [/EN#124082/scene the falling water] .
+[/EN#124083/people Someone] is surfing underneath [/EN#124082/scene a wave] on [/EN#124084/other a white surfboard] .
+[/EN#124083/people A person] surfs through [/EN#124082/scene a wave] as [/EN#0/notvisual it] crashes down .
+[/EN#124082/scene The large wave] is crashing down over [/EN#124083/people a surfer] .
+[/EN#124083/people A surfer] is riding in [/EN#124082/scene the barrel of a wave] .

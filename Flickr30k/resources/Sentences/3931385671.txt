@@ -1,0 +1,5 @@
+[/EN#148560/people A vendor] wearing [/EN#148563/clothing a red shirt] and [/EN#148567/clothing khaki bottoms] hands [/EN#149000/people someone] [/EN#148562/other an Italian Ice] from [/EN#148564/vehicles his cart] [/EN#0/notvisual that] reads " [/EN#148565/other Bada Bing] " .
+[/EN#148560/people A street vendor] in [/EN#148563/clothing a red shirt] and [/EN#148566/clothing white hat] selling [/EN#148561/other Italian Ices] from [/EN#148564/vehicles his cart] .
+[/EN#148560/people A man] in [/EN#148563/clothing an orange shirt] is holding [/EN#148562/other a Bada Bing Original Italian Ice] .
+[/EN#148560/people A man] in [/EN#148563/clothing a red shirt] peddles [/EN#148561/other Italian ice] on [/EN#148568/scene the sidewalk] .
+[/EN#148560/people A man] in [/EN#148563/clothing a red shirt] is selling [/EN#148561/other Italian Ices] .

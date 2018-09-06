@@ -1,0 +1,5 @@
+[/EN#22622/people Three young men] wearing [/EN#22629/clothing blue jeans] stand in front of [/EN#22625/scene a garage] while having [/EN#22623/other a conversation] .
+[/EN#22620/people Two guys] are standing in front of [/EN#22625/other a garage door] looking at [/EN#0/notvisual each other] talking .
+[/EN#22620/people Two young men] talk together on [/EN#22621/scene an outdoor sidewalk] on [/EN#22624/scene a dark night] .
+[/EN#22620/people Two young men] are standing on [/EN#22621/scene the sidewalk] talking to [/EN#0/notvisual each other] .
+[/EN#22620/people Two young men] talk on [/EN#22628/scene the street corner] under [/EN#22627/other the streetlights] .

@@ -1,0 +1,5 @@
+[/EN#146916/vehicles A yellow taxi] and [/EN#146913/people a person] riding [/EN#146920/other a bicycle travel] in [/EN#0/notvisual the same direction] .
+[/EN#146913/people A single man] riding [/EN#146914/vehicles a bike] with [/EN#146915/scene red brick buildings] in [/EN#0/notvisual the background] .
+[/EN#146913/people A person] is riding [/EN#146914/vehicles a bike] in front of [/EN#146915/scene brick buildings] .
+[/EN#146913/people A man] in [/EN#146921/clothing a white shirt] riding [/EN#146914/vehicles his bike] in [/EN#146917/scene the city] .
+[/EN#146913/people A person] is riding [/EN#146914/vehicles a bike] on [/EN#146918/scene a shady sidewalk] .

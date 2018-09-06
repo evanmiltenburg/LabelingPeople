@@ -1,0 +1,5 @@
+[/EN#47814/people A woman] wearing [/EN#47815/clothing a backpack] walks in front of [/EN#47816/other a purple wall] .
+[/EN#47814/people A woman] with [/EN#47815/clothing a backpack] walking past [/EN#47816/other a purple wall] .
+[/EN#47814/people A woman] walking along side [/EN#47816/scene a purple building] .
+[/EN#47814/people A woman] walking beside [/EN#47816/other a purple wall] .
+[/EN#47814/people A woman] walking down [/EN#47817/scene the block] .

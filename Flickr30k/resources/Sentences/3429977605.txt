@@ -1,0 +1,5 @@
+[/EN#117647/people A man] works on sharpening [/EN#117653/scene a blade edge] , at [/EN#117652/other the table] in [/EN#117649/scene a sun-splashed kitchen] .
+[/EN#117647/people A man] in [/EN#117648/clothing a green sweater] is attempting to cut [/EN#117651/other something] in [/EN#117649/scene a kitchen] .
+[/EN#117647/people A man] in [/EN#117648/clothing a green sweater] sharping knifes on [/EN#117651/other a sharping stone] .
+[/EN#117647/people A man] in [/EN#117649/scene a kitchen] leaning over [/EN#117652/other a table] sharpening [/EN#117650/other a knife] .
+[/EN#117647/people A man] chopping [/EN#117651/other something] with [/EN#117650/other a knife] on [/EN#117652/other a table] .

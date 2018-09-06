@@ -1,0 +1,5 @@
+[/EN#42348/people A person] wearing [/EN#42349/clothing a striped skirt] and [/EN#42350/bodyparts head] covering is walking with [/EN#42351/other a bowl] on [/EN#42350/bodyparts her head] while [/EN#42352/people a child] follows behind .
+[/EN#42348/people A woman] with [/EN#42351/other a bowl] on [/EN#42350/bodyparts her head] being followed by [/EN#42352/people a child] walking in front of [/EN#42353/other a large white wall] .
+[/EN#42352/people A boy] follows [/EN#42348/people a woman] holding [/EN#42351/other a basket] on [/EN#42350/bodyparts her head] as [/EN#0/notvisual they] pass [/EN#42354/scene a tall white building] .
+[/EN#42348/people A woman] carrying [/EN#42351/other a bowl] on [/EN#42350/bodyparts her head] is walking ahead of [/EN#42352/people a child] outside .
+[/EN#42352/people A young boy] walking behind [/EN#42348/people a woman] .

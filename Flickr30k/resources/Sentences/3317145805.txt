@@ -1,0 +1,5 @@
+[/EN#108944/animals A black dog] with [/EN#108945/other a red and white rope dog toy] in [/EN#108946/bodyparts its mouth] , standing in front of [/EN#108947/scene a building] .
+[/EN#108944/animals A black standard poodle] is playing with [/EN#108945/scene a red and white toy outside] .
+[/EN#108944/animals A black poodle] with [/EN#108945/other a red rope toy] in [/EN#108946/bodyparts its mouth] .
+[/EN#108944/animals A black poodle] with [/EN#108945/other a rope toy] in [/EN#108946/bodyparts its mouth] .
+[/EN#108944/animals Black poodle] carrying [/EN#108945/other red and white dog toy]

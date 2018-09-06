@@ -1,0 +1,5 @@
+[/EN#93898/people A woman] wearing [/EN#93901/clothing a long black jacket] and [/EN#93899/clothing a brown hat] is walking beside [/EN#93904/scene a park] with [/EN#93902/other a lot of blooming trees] .
+[/EN#93898/people The woman] is wearing [/EN#93899/clothing a brown hat] and [/EN#93901/clothing black coat] , and is on [/EN#93900/scene a sidewalk] .
+[/EN#93898/people a woman] in [/EN#93906/clothing black] walks down [/EN#93900/scene the sidewalk] .
+[/EN#93898/people A woman] wearing [/EN#93899/clothing a cap] on [/EN#93900/scene a wintry street] .
+[/EN#93898/people A woman] walks on [/EN#93900/scene a city street] .

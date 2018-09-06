@@ -1,0 +1,5 @@
+[/EN#37416/animals Little white dog] wearing [/EN#37418/clothing a leash] jumping after [/EN#37417/other a red ball] .
+[/EN#37416/animals A white and brown dog] jumps towards [/EN#37417/other a red ball] .
+[/EN#37416/animals A small dog] on [/EN#37418/clothing a leash] jumps toward [/EN#37417/other a pink ball]
+[/EN#37416/animals A fox terrier] leaps after [/EN#37417/other a ball] .
+[/EN#37416/animals A terrier] chasing [/EN#37417/other a red ball] .

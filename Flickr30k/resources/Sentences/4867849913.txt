@@ -1,0 +1,5 @@
+[/EN#213000/people A woman] behind [/EN#213003/scene a fair booth] filled with [/EN#213007/animals stuffed animals] talks to [/EN#213001/people a man] with [/EN#213004/clothing a blue shirt] on [/EN#0/notvisual the other side] .
+[/EN#213001/people Man] in [/EN#213004/clothing blue shirt] talking to [/EN#213000/people woman] behind [/EN#213009/other a counter] with [/EN#213007/animals stuffed animals] hanging [/EN#213003/people all] around [/EN#0/notvisual them] .
+[/EN#213002/people People] walk around at [/EN#213006/other a carnival] where [/EN#213007/animals large stuffed animals] are on [/EN#213010/other display] .
+[/EN#213008/people People] standing in and in front of [/EN#213003/scene a booth] full of [/EN#213007/animals stuffed animals] .
+[/EN#213001/people A young man] talks to [/EN#213000/scene the operator of a prize booth] .

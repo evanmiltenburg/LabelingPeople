@@ -1,0 +1,5 @@
+[/EN#51615/people An oriental man] in [/EN#51625/clothing a green shirt] is leaning on [/EN#51616/vehicles a bike] in front of [/EN#51617/scene brightly lit food stand] [/EN#0/notvisual that] is outside on [/EN#51620/scene a street] .
+[/EN#51615/people A man] sits near [/EN#51616/vehicles a bicycle] while [/EN#51622/people people] make [/EN#51623/other selections] from [/EN#51617/people a street vendor] in [/EN#0/notvisual the background] .
+[/EN#51615/people An Asian man] is sitting outside [/EN#51617/scene a food kiosk] at [/EN#51621/scene night] in [/EN#51619/scene the city] .
+[/EN#51615/people Asian man] resting against [/EN#51624/other something] in front of [/EN#51617/people a street vendor]
+[/EN#51615/people A man] is sitting near [/EN#51617/scene a food stand] .

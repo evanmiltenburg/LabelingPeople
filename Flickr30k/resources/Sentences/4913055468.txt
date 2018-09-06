@@ -1,0 +1,5 @@
+[/EN#217599/people An man] in [/EN#217604/clothing a blue shirt] and [/EN#217600/people a boy] in [/EN#217605/clothing a white shirt] are riding [/EN#217603/vehicles bikes] down [/EN#217602/scene the sidewalk of a tree-line street] on [/EN#217601/scene a sunny day] .
+[/EN#217599/people A dad] and [/EN#217600/people a son] enjoying [/EN#217606/other a bike ride] in [/EN#217601/scene a nice sunny day] .
+[/EN#217599/people A man] and [/EN#217600/people his son] riding [/EN#217603/vehicles bikes] down [/EN#217602/scene the sidewalk] .
+[/EN#217599/people A man] and [/EN#217600/people a boy] riding [/EN#217603/vehicles bikes] down [/EN#217602/scene a sidewalk] .
+[/EN#217599/people Man] and [/EN#217600/people boy] riding [/EN#217603/vehicles bicycles] on [/EN#217602/scene the sidewalk] .

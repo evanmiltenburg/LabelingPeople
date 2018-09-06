@@ -1,0 +1,5 @@
+[/EN#31658/people A man] sits in [/EN#31659/vehicles/scene the back of a boat] [/EN#0/notvisual that] is grounded on [/EN#31661/scene the shore of a large body of water] .
+[/EN#31658/people A man] is sitting in [/EN#31662/vehicles/scene a boat] on [/EN#31661/scene the shore] with [/EN#31660/scene the lake] in [/EN#0/notvisual the background] .
+[/EN#31658/people A man] sitting in [/EN#31659/other a canoe] on [/EN#31660/scene the shore of a lake] .
+[/EN#31658/people Man] sitting in [/EN#31659/other a beached canoe] by [/EN#31660/scene a lake] .
+[/EN#31658/people A man] sitting in [/EN#31659/other a rowboat]

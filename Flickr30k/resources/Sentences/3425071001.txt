@@ -1,0 +1,5 @@
+[/EN#117233/people A boy] hits [/EN#117235/other a tennis ball] with [/EN#117234/other a black and yellow racket] .
+[/EN#117233/people A boy] hits [/EN#117235/other a tennis ball] with [/EN#117234/other his tennis racquet] .
+[/EN#117233/people A teenage boy] hits [/EN#117235/other a tennis ball] with [/EN#117234/other a racket] .
+[/EN#117233/people A boy] hits [/EN#117235/other a tennis ball] on [/EN#117236/other a court] .
+[/EN#117233/people A boy] plays [/EN#117237/other tennis] .

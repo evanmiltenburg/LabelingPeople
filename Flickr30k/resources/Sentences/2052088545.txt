@@ -1,0 +1,5 @@
+[/EN#25936/people A man] in [/EN#25937/clothing a blue shirt] pets [/EN#25938/animals a dog] while [/EN#0/notvisual another] watches at [/EN#25939/people the feet of the photographer] .
+[/EN#25936/people A bald man] with [/EN#25940/bodyparts colored tattoos] on [/EN#25941/bodyparts his arms] stops in [/EN#25944/scene the forest] with [/EN#25942/animals two dogs] .
+[/EN#25936/people A man] in [/EN#25937/clothing a blue shirt] is resting [/EN#25942/animals his dogs] in [/EN#25945/other the woods] .
+[/EN#25936/people A man] walking [/EN#25942/animals his two dogs] through [/EN#25946/scene a wooded area] .
+[/EN#25936/people A man] taking [/EN#25943/scene a break] with [/EN#25938/animals his dog] in [/EN#25944/scene a park] .

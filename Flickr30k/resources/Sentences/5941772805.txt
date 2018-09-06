@@ -1,0 +1,5 @@
+[/EN#245734/people A baseball player] throws [/EN#245738/scene a pitch] while [/EN#0/notvisual another] waits in [/EN#245739/scene the outfield] .
+[/EN#245734/people A pitcher] in [/EN#245736/clothing a red and white uniform] is throwing [/EN#245735/other a baseball] .
+[/EN#245734/people A man] throwing [/EN#245735/other a baseball] from [/EN#245737/other the pitcher 's mound] .
+[/EN#245734/people Pitcher] in [/EN#245736/clothing red uniform] throwing [/EN#245735/other a baseball] .
+[/EN#245734/people A little league pitcher] is throwing [/EN#245735/other the ball]

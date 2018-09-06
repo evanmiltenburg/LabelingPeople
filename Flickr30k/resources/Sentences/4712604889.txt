@@ -1,0 +1,5 @@
+[/EN#194001/people An elderly woman] is squinting [/EN#194009/bodyparts her eyes] down [/EN#194003/scene a body of water] while [/EN#194002/other a fishing rod line] has been cast in [/EN#194003/scene the water] .
+[/EN#194001/people A man] with [/EN#194004/clothing a bamboo bandanna] looks off into [/EN#0/notvisual the distance] as [/EN#0/notvisual he] holds [/EN#194002/other a bamboo fishing pole] .
+[/EN#194001/people A person] wearing [/EN#194006/clothing a white headband] and [/EN#194008/clothing brown shirt] fishing with [/EN#194002/other a wooden rod] .
+[/EN#194001/people A woman] with [/EN#194006/other a white rag] on [/EN#194006/bodyparts her head] is fishing .
+[/EN#194001/people a guy] enjoying [/EN#194005/scene a day] at [/EN#194003/scene the lake] catching [/EN#195000/animals fish] .

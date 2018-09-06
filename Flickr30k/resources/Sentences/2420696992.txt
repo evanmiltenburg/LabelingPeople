@@ -1,0 +1,5 @@
+[/EN#48074/people A little boy] with [/EN#48076/clothing an orange shirt] is riding [/EN#48075/vehicles his blue and white toy car] .
+[/EN#48074/people A toddler boy] is riding [/EN#48075/vehicles a push car] designed as [/EN#48075/vehicles a police car] in [/EN#48077/scene a home] .
+[/EN#48074/people A child] in [/EN#48076/clothing an orange shirt] sitting on [/EN#48075/vehicles a blue and white toy car] .
+[/EN#48074/people A small child] on [/EN#48075/other a blue toy] is wearing [/EN#48076/clothing an orange shirt] .
+[/EN#48074/people The boy] is riding on [/EN#48075/vehicles a toy truck] .

@@ -1,0 +1,5 @@
+[/EN#152333/people This man] is skiing in [/EN#152334/scene the white snow] and going through [/EN#152334/people a course of some kind] .
+[/EN#152333/people A man] dressed in [/EN#152337/clothing all black] with [/EN#152335/clothing a green helmet] is skiing down [/EN#152334/scene a ski slope] .
+[/EN#152333/people A skier] in [/EN#152335/clothing a green helmet] is skiing in [/EN#152334/scene the fluffy , white snow] .
+[/EN#0/notvisual There] is [/EN#152333/people a snow skier] on [/EN#152334/other a slalom course] taking [/EN#152338/other a turn] .
+[/EN#152333/people Snow skier] skiing down [/EN#152334/scene a course of snow] .

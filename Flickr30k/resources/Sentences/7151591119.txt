@@ -1,0 +1,5 @@
+[/EN#266079/people A man] on [/EN#266081/other a motorcycle] is driving up [/EN#266080/scene a dirt path] with [/EN#266082/other trees] on [/EN#0/notvisual either side] .
+[/EN#266079/people A motorbike rider] travels along [/EN#266080/scene a long dirt road] lined with [/EN#266082/other green trees] .
+[/EN#266079/people A person] on [/EN#266081/other a red motorcycle] is riding down [/EN#266080/scene a tree-lined dirt road] .
+[/EN#266079/people One man] ridge [/EN#266086/vehicles a bike] off [/EN#266080/scene a dirt road mountain] on [/EN#266084/scene a clear day] .
+[/EN#266079/people Two people] are riding [/EN#266081/other one motorcycle] down [/EN#266080/scene a dirt road] .

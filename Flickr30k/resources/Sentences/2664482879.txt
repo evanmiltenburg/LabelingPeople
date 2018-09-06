@@ -1,0 +1,5 @@
+[/EN#64866/people a person] in [/EN#64868/clothing jeans] and [/EN#64870/clothing a black coat] talks on [/EN#64869/other the phone] while walking past [/EN#64871/other a bus stop] .
+[/EN#64866/people A person] in [/EN#64868/clothing blue jeans] is talking on [/EN#64869/other the phone] and walking down [/EN#64867/scene a street] .
+[/EN#64866/people A man] with [/EN#64868/clothing tight blue jeans] is walking while talking on [/EN#64869/other his cellphone] .
+[/EN#64866/people Man] walks on [/EN#64867/scene sidewalk] while talking on [/EN#64869/other the phone] .
+[/EN#64866/people A lady] talking on [/EN#64869/other her cellphone] .

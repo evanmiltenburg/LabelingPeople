@@ -1,0 +1,5 @@
+[/EN#78084/people A man] walking by [/EN#78085/people a woman] [/EN#0/notvisual who] is standing on [/EN#78087/scene the street] smoking [/EN#78091/other a cigarette] .
+[/EN#78084/people A man] walks past [/EN#78085/people a woman] on [/EN#78087/scene a sidewalk] as [/EN#0/notvisual he] looks back at [/EN#0/notvisual her] .
+[/EN#78084/people A man] looking back at [/EN#78085/people a blond woman] smoking in [/EN#78090/scene the street] .
+[/EN#78084/people Man] looking at [/EN#78085/people a woman] [/EN#0/notvisual that] is smoking on [/EN#78087/scene the sidewalk] .
+[/EN#78085/people A lady] wearing [/EN#78092/clothing black dress] talking to [/EN#78084/people a stranger] .

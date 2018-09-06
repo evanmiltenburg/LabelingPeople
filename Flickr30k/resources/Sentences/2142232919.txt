@@ -1,0 +1,5 @@
+[/EN#30878/animals A black dog] carries [/EN#30881/other an orange ball] , walking on [/EN#0/notvisual the ground] covered in [/EN#30880/other leaves] .
+[/EN#30878/animals A black dog] with [/EN#30881/other an orange toy] in [/EN#30882/bodyparts its mouth] is walking in [/EN#30880/other fall leaves] .
+[/EN#30878/animals Black dog] with [/EN#30881/other orange ball] approaches [/EN#30877/other camera] across [/EN#30880/other dead leaves] .
+[/EN#30878/animals The black dog] walks through [/EN#30880/other brown leaves] with [/EN#30881/other an orange ball] .
+[/EN#30878/animals A black lab puppy] runs with [/EN#30881/other an orange ball] on [/EN#30883/scene an autumn day] .

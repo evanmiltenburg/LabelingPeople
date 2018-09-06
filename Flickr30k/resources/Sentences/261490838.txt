@@ -1,0 +1,5 @@
+[/EN#61730/animals A dog] chasing [/EN#61731/animals a deer] in [/EN#61732/scene a field] with [/EN#61735/other yellow flowers] .
+[/EN#61730/animals A dog] chases [/EN#61731/animals a deer] on [/EN#61732/scene a field] with [/EN#61733/other yellow flowers] .
+[/EN#61730/animals A dog] chasing [/EN#61731/animals a deer] in [/EN#61733/other a field of yellow flowers] .
+[/EN#61730/animals The dog] chases [/EN#61731/animals a deer] near [/EN#61734/other the woods] .
+[/EN#61730/animals A dog] chases [/EN#61731/animals a deer] into [/EN#61734/other the woods] .

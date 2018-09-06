@@ -1,0 +1,5 @@
+[/EN#278827/people A woman] sits on [/EN#278828/other a bench] in [/EN#278832/scene an art museum or church] under [/EN#278830/other a large religious painting] .
+[/EN#278827/people A woman] sits under [/EN#278829/other a picture of Jesus] with [/EN#278838/other the light] streaming through [/EN#278835/other the window] .
+[/EN#278827/people A woman] in [/EN#278834/clothing blue] resting on [/EN#278828/other a bench] in front of [/EN#278833/other a huge religious mural]
+[/EN#278827/people A young woman] in [/EN#278831/other a blue wrap] around [/EN#278837/clothing scarf] sitting in [/EN#278832/scene a museum] .
+[/EN#278827/people A woman] wearing [/EN#278834/clothing all blue] is sitting under [/EN#278830/other a large painting] .

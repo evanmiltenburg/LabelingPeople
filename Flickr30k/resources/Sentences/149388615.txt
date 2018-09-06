@@ -1,0 +1,5 @@
+[/EN#14844/people A lady] with [/EN#14847/clothing a bandanna] , [/EN#14850/people a man] with [/EN#14852/clothing a red hat] and [/EN#14857/people man] with [/EN#14856/clothing glasses] and [/EN#14849/other a cane] sit on [/EN#14845/other a bench] while [/EN#14858/other others] stand waiting for [/EN#14846/vehicles/scene a train] .
+[/EN#14844/people A woman] wearing [/EN#14848/clothing a black jacket] , [/EN#14859/clothing red and white sneakers] , and [/EN#14851/clothing a red bandanna] sits on [/EN#14845/other a bench] .
+[/EN#14843/people A group of people] sitting in [/EN#14854/scene a subway station] looking at [/EN#0/notvisual the camera] .
+[/EN#14843/people People] are standing on [/EN#14855/other a train platform] waiting for [/EN#14846/vehicles/scene the train] .
+[/EN#14843/people People] either standing or sitting waiting in [/EN#14853/vehicles/scene a subway] .

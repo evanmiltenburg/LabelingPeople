@@ -1,0 +1,5 @@
+[/EN#120049/people A man] is wearing [/EN#120053/clothing black and white] while looking at [/EN#0/notvisual what] [/EN#120052/people a woman] in [/EN#120054/clothing gray and white] is holding .
+[/EN#120049/people A man] in [/EN#120053/clothing a black vest] and [/EN#120057/other white button-up] sits with [/EN#120052/people a woman] in [/EN#120059/clothing a striped sweatshirt] .
+[/EN#120048/people Two people] are conversing while [/EN#0/notvisual they] eat sitting inside [/EN#120060/scene a building] .
+[/EN#120048/people A couple] is sitting at [/EN#120051/other a cafe table] in front of [/EN#120056/other some windows] .
+[/EN#120048/people A couple] are having [/EN#120055/other lunch] together .

@@ -1,0 +1,5 @@
+[/EN#257740/people A blond woman] wearing [/EN#257744/clothing an orange shirt and purple and white wristband] stands under [/EN#257741/other green lights] and speaks into [/EN#257743/other the microphone] .
+[/EN#257740/people A blond woman] in [/EN#257744/clothing a red t-shirt] and [/EN#257742/clothing a blur wristband] sings into [/EN#257743/other a microphone] against [/EN#0/notvisual a green background] .
+[/EN#257740/people A blond woman] in [/EN#257744/clothing a red dress] takes [/EN#257743/other the microphone] against [/EN#257741/clothing a background of green] .
+[/EN#257740/people A blond woman] wearing [/EN#257744/clothing a red shirt] and [/EN#257742/clothing a wristband] , at [/EN#257743/other a microphone] .
+[/EN#257740/people A woman] in [/EN#257744/clothing red] is holding [/EN#257743/other a microphone] in front of [/EN#0/notvisual a green background] .

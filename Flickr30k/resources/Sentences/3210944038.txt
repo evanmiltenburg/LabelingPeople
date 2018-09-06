@@ -1,0 +1,5 @@
+[/EN#101383/people A man] dressed in [/EN#101385/clothing camouflage] riding [/EN#101386/vehicles a four wheel ATV] while towing [/EN#101388/people a girl] , [/EN#0/notvisual who] is wearing [/EN#101384/clothing a blue coat] and [/EN#101391/clothing red hat] , through [/EN#101392/scene the snow] on [/EN#101390/other a sled] .
+[/EN#101383/people A man] wearing [/EN#101385/clothing a camouflage jacket] is driving [/EN#101387/other a four wheeler] while pulling [/EN#101388/people a little girl] wearing [/EN#101384/clothing a purple coat] and [/EN#101391/clothing pink hat] on [/EN#101390/other a sled] .
+[/EN#101383/people A man] in [/EN#101385/clothing a camouflage jacket] pulling [/EN#101389/people a little girl] in [/EN#101384/clothing a light purple jacket] with [/EN#101391/clothing pink beanie] on [/EN#101390/other a sled] through [/EN#101392/scene the snow] with [/EN#101386/vehicles an ATV] .
+[/EN#101383/people A man] is giving [/EN#101389/people his daughter] [/EN#101393/other a ride] on [/EN#101390/other a sledge] with [/EN#101387/other his motorcycle] .
+[/EN#101383/people Man] with [/EN#101389/people a small child] playing in [/EN#101392/scene the snow] .

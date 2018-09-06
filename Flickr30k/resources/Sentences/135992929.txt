@@ -1,0 +1,5 @@
+[/EN#9902/people A woman] with [/EN#9907/bodyparts red-hair] and [/EN#9909/clothing a black shirt] has [/EN#9903/bodyparts her eyes] closed and [/EN#9905/other a mirror] behind [/EN#0/notvisual her] .
+[/EN#9902/people A brown-haired women] closes [/EN#9903/bodyparts her eyes] for [/EN#9906/other a moment] .
+[/EN#9902/people A woman] falling asleep while holding [/EN#0/notvisual the camera] .
+[/EN#9910/scene A long day] makes [/EN#9902/people the woman] tired and sleepy .
+[/EN#9904/other 3pm] and struggling to stay awake at [/EN#9908/other work] .

@@ -1,0 +1,5 @@
+[/EN#40714/people A man] wearing [/EN#40719/clothing a sunhat] and carrying [/EN#40718/clothing a rucksack] poses on [/EN#40713/scene the side of a desert hill] .
+[/EN#40714/people A man] in [/EN#40720/clothing a white shirt] and [/EN#40717/clothing Khaki pants] with [/EN#40715/clothing a hat] on climbing [/EN#40713/scene a mountain] .
+[/EN#40713/scene A dessert mountain] with [/EN#40714/people a man] wearing [/EN#40715/clothing a hat] standing on [/EN#40713/other the hillside] .
+[/EN#40714/people A man] wearing [/EN#40715/clothing straw hat] is hiking while looking at [/EN#0/notvisual the camera] .
+[/EN#40714/people A man] posing on [/EN#40713/other a tall desert hillside] .

@@ -1,0 +1,5 @@
+[/EN#187791/people A man] with [/EN#187797/clothing a red shirt] and [/EN#187799/clothing white shorts] is walking near [/EN#187796/people a man] with [/EN#187798/clothing a white shirt] and [/EN#187803/clothing black pants] down [/EN#187793/scene a busy street] .
+[/EN#187792/people Several people] are walking across [/EN#187800/scene a crosswalk] in [/EN#187795/scene a city] while [/EN#187796/people a man] carries [/EN#187805/other a cup of coffee] .
+[/EN#187791/people A man] in [/EN#187797/clothing a red shirt] and [/EN#187799/clothing white shorts] is walking behind [/EN#187796/people a man] in [/EN#187798/clothing a white shirt] .
+[/EN#187792/people People] crossing [/EN#187801/scene the street] in [/EN#187794/scene a busy downtown area] with [/EN#187802/clothing backpacks] .
+[/EN#187792/people two guys] walking , on [/EN#187800/scene the side of the street] , outside .

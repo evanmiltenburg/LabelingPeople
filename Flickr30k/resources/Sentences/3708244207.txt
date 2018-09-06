@@ -1,0 +1,5 @@
+[/EN#138438/people A man] stands on [/EN#138434/scene a dock] near [/EN#138435/vehicles/scene several boats] , while [/EN#138444/people 2 other men] are on [/EN#138440/vehicles/scene one of the boats] .
+[/EN#138434/scene A dock] over [/EN#138445/scene water] with [/EN#138436/other a palm tree] at [/EN#138442/scene the end] and [/EN#138435/vehicles/scene five boats] , during [/EN#138443/other twilight] .
+[/EN#138435/vehicles/scene Boats] docked at [/EN#138434/scene a pier] [/EN#0/notvisual which] has [/EN#138437/people three men] and [/EN#138436/other a lone palm tree] .
+[/EN#0/notvisual There] are [/EN#138437/people three people] on [/EN#138434/scene the dock] by [/EN#138435/vehicles/scene the boats] .
+[/EN#138435/vehicles/scene Boats] parked at [/EN#138439/other a marina] at [/EN#138441/scene sunset] .

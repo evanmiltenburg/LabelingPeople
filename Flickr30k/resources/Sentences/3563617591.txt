@@ -1,0 +1,5 @@
+[/EN#127953/people A woman] wearing [/EN#127956/clothing a pink shirt] and [/EN#127955/other a name tag] [/EN#0/notvisual which] reads " [/EN#127953/other Amanda] " applies [/EN#127959/bodyparts lipstick] to [/EN#127958/bodyparts her upper lip] , [/EN#127960/bodyparts her mouth] moderately open .
+[/EN#127953/people An overweight woman] with [/EN#127957/bodyparts long black hair] in [/EN#127956/clothing a pink shirt] with [/EN#127955/other a name tag] is applying [/EN#127959/bodyparts lipstick] .
+[/EN#127953/people A plump woman] with [/EN#127956/clothing a pink shirt] and [/EN#127957/bodyparts black hair] is applying [/EN#127959/bodyparts red lipstick] to [/EN#127958/bodyparts her lips] .
+[/EN#127953/people A woman] named [/EN#127953/other Amanda] is applying [/EN#127959/bodyparts lipstick] to [/EN#127958/bodyparts her lips] .
+[/EN#127953/people Large woman] in [/EN#127956/clothing pink shirt] putting on [/EN#127959/bodyparts red lipstick] .

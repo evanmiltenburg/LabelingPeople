@@ -1,0 +1,5 @@
+[/EN#56662/people A man] in [/EN#56663/clothing blue] stands outside of [/EN#56664/scene a building] whilst using [/EN#56665/other the phone] .
+[/EN#56662/people An older man] stands by [/EN#56664/scene a building] talking on [/EN#56665/other his cellphone] .
+[/EN#56662/people A man] on [/EN#56665/other his cellphone] standing outside of [/EN#56664/scene a building] .
+[/EN#0/notvisual He] is calling [/EN#56666/people his wife] to tell [/EN#0/notvisual he] will be coming late .
+[/EN#56662/people Man] in [/EN#56663/clothing a blue shirt] talking on [/EN#56665/other a cellphone] .

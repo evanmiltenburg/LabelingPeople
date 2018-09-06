@@ -1,0 +1,5 @@
+[/EN#61342/people A woman] in [/EN#61349/clothing a black dress] and [/EN#61351/clothing black heels] carries [/EN#61345/clothing a shopping bag] while leaning against [/EN#61344/scene a green bar] while [/EN#61341/people her child] plays with [/EN#61346/vehicles a toy truck] on [/EN#0/notvisual the ground] .
+[/EN#61341/people A young toddler] plays with [/EN#61352/other his plastic toys] on [/EN#61350/scene the sidewalk] , while [/EN#61342/people a woman] with [/EN#61345/clothing a shopping bag] leans against [/EN#61344/scene a green metal bar] .
+[/EN#61342/people A woman] waits [/EN#61347/scene outside] while [/EN#61341/people her son] plays with [/EN#61346/vehicles a toy truck] and [/EN#61353/other shovel] .
+[/EN#61341/people Young boy] plays with [/EN#61346/vehicles a truck] [/EN#61347/scene outdoors] , while [/EN#61342/people a woman] waits .
+[/EN#61341/people A child] playing under [/EN#61344/other a bench] where [/EN#61342/people a woman] is sitting .

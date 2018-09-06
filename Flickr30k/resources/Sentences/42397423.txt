@@ -1,0 +1,5 @@
+[/EN#159990/people A young boy] in [/EN#159993/clothing green shorts] balances on [/EN#159992/other a pipe] above [/EN#159991/scene a river] .
+[/EN#159990/people A young boy] is walking across [/EN#159992/other a pipe] [/EN#0/notvisual that] runs across [/EN#159991/scene water] .
+[/EN#159990/people A young boy] walks on [/EN#159992/other a pipe] [/EN#0/notvisual that] stretches over [/EN#159991/scene water] .
+[/EN#159990/people A young boy] walking across [/EN#159992/other pipe] over [/EN#159991/scene a body of water] .
+[/EN#159990/people a boy] is standing on [/EN#159992/other a sewer tube] for [/EN#0/notvisual fun] .

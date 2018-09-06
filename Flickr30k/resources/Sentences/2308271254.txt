@@ -1,0 +1,5 @@
+[/EN#40606/animals A small black dog] chasing [/EN#40603/animals a small fluffy brown dog] just above [/EN#40605/scene water] .
+[/EN#40602/animals Two dogs] moving through [/EN#40604/scene water] close to [/EN#40604/scene the shore] .
+[/EN#40606/animals A gray dog] chasing [/EN#40603/animals a brown dog] in [/EN#40604/scene shallow water] .
+[/EN#40602/animals Two dogs] playing on [/EN#40605/scene the shore] .
+[/EN#40602/animals Two dogs] playing in [/EN#40604/scene a lake] .

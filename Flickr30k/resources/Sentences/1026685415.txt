@@ -1,0 +1,5 @@
+[/EN#754/animals A black dog] carries [/EN#755/other a green toy] in [/EN#757/bodyparts his mouth] as [/EN#0/notvisual he] walks through [/EN#756/scene the grass] .
+[/EN#754/animals A wet black dog] is carrying [/EN#755/other a green toy] through [/EN#756/scene the grass] .
+[/EN#754/animals A black dog] carrying [/EN#755/other something] through [/EN#756/scene the grass] .
+[/EN#754/animals A dog] in [/EN#756/scene grass] with [/EN#755/other a blue item] in [/EN#757/bodyparts his mouth] .
+[/EN#754/animals A black dog] has [/EN#755/other a blue toy] in [/EN#757/bodyparts its mouth] .

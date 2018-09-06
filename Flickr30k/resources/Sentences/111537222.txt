@@ -1,0 +1,5 @@
+[/EN#2968/people A climber] wearing [/EN#2969/clothing a blue helmet] and [/EN#2973/other headlamp] is attached to [/EN#2972/other a rope] on [/EN#2974/bodyparts the rock face] .
+[/EN#2968/people Person] with [/EN#2969/clothing blue helmet] and [/EN#2971/clothing purple pants] is rock climbing .
+[/EN#2968/people A woman] in [/EN#2971/clothing purple snakeskin pants] climbs [/EN#2970/other a rock] .
+[/EN#2968/people a rock climber] climbs [/EN#2970/other a large rock] .
+[/EN#2968/people A man] climbs [/EN#2970/other a rocky wall] .

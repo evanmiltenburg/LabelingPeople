@@ -1,0 +1,5 @@
+[/EN#118379/people A little boy] holding [/EN#118383/animals a chocolate bunny] looks at [/EN#118380/other the object] held up in front of [/EN#0/notvisual him] .
+[/EN#118379/people Young boy] looking at [/EN#118380/bodyparts a purple letter " P " the hand] in front of [/EN#0/notvisual him] is holding .
+[/EN#118379/people A child] holding [/EN#118383/animals a gold rabbit] stares at [/EN#118380/other a P-shaped cookie] .
+[/EN#118379/people A little boy] is looking at [/EN#118380/other a purple letter " P] " .
+[/EN#118379/people A young boy] looks at [/EN#118384/bodyparts a hand] holding [/EN#118380/other the letter] [/EN#118380/other P] .

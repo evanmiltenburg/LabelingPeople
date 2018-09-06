@@ -1,0 +1,5 @@
+[/EN#76650/people A group of people] sit near [/EN#76655/scene a large red brick building] in [/EN#76651/scene the grass] .
+[/EN#76655/scene A red building] with [/EN#76650/people people] sitting outside on [/EN#76651/scene the lawn] in [/EN#76651/scene front] .
+[/EN#0/notvisual It] looks like [/EN#76652/other a school] with [/EN#76653/people children] sitting outside of [/EN#0/notvisual it] .
+[/EN#76653/people Some students] sit [/EN#76655/scene outside school buildings] in [/EN#76651/scene the grass] .
+[/EN#76650/people People] sitting in [/EN#76654/other a circle] outside [/EN#76655/scene a large building] .

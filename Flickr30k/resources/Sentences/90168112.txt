@@ -1,0 +1,5 @@
+[/EN#283279/people A young girl] is playing on [/EN#283280/scene the shore of a beach] , [/EN#0/notvisual she] is running away from [/EN#283283/scene a wave] .
+[/EN#283279/people A little girl] with [/EN#283284/bodyparts blond-hair] plays in [/EN#283283/scene the water] at [/EN#283280/scene the edge of a rocky beach] .
+[/EN#283279/people Little girl] wearing [/EN#283285/clothing purple top] and [/EN#283286/clothing blue jeans] playing on [/EN#283280/scene a rocky beach] .
+[/EN#283279/people A little girl] is running through [/EN#283287/other the incoming surf] on [/EN#283280/scene a beach] .
+[/EN#283279/people A little girl] plays in [/EN#283280/scene the ocean] on [/EN#283280/scene the beach] .

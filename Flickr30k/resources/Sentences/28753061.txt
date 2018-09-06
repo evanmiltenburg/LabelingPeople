@@ -1,0 +1,5 @@
+[/EN#78241/people Two young girls] and [/EN#78242/people a boy] sit at [/EN#78240/other a table] in [/EN#78243/scene a kitchen] as [/EN#78238/people a man] in [/EN#78246/clothing a gray sweater] holds [/EN#78239/other a white disk] in front of [/EN#0/notvisual them] .
+[/EN#78237/people A group of kids] sitting around [/EN#78240/other a table] while [/EN#78238/people another person] holds [/EN#78239/other a circle] blocking out [/EN#78244/other light] .
+[/EN#78237/people Three children] are drawing at [/EN#78240/other a table] while being supervised by [/EN#78238/people an adult] .
+[/EN#78238/people A man] is showing [/EN#78237/people three kids] sitting at [/EN#78240/other a table] shadows .
+[/EN#78237/people Kids] are studying [/EN#78245/scene shadows] .

@@ -1,0 +1,5 @@
+[/EN#176699/people An African-American man] in [/EN#176700/clothing a dark jacket] walks past [/EN#176701/scene a iron fence] with [/EN#176705/other gold accents] [/EN#0/notvisual that] encloses [/EN#176702/scene a park] .
+[/EN#176699/people A man] wearing [/EN#176700/clothing a black coat] walking past [/EN#176701/scene a fence] .
+[/EN#176699/people A man] dressed in [/EN#176700/clothing black] walks down [/EN#176703/scene the street] .
+[/EN#176699/people Man] walking along side of [/EN#176701/scene a black iron fence] .
+[/EN#176699/people A man] and [/EN#176704/people a woman] walking past [/EN#176701/scene a black gate] .

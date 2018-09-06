@@ -1,0 +1,5 @@
+[/EN#175199/people A few people] sit in [/EN#175203/other benches] along [/EN#175202/scene a tree-lined avenue] next to [/EN#175206/scene a parking lot] .
+[/EN#175199/people Some people] sit on [/EN#175203/other benches] under [/EN#175200/other rows of trees] in front of [/EN#175204/scene a building] .
+[/EN#175199/people People] sitting on [/EN#175203/other benches] in between [/EN#175200/other trees] .
+[/EN#175200/other Two row of trees] leading to [/EN#175205/scene an open gate] .
+[/EN#175199/people People] are sitting on [/EN#175203/other benches] in [/EN#175201/scene a plaza] .

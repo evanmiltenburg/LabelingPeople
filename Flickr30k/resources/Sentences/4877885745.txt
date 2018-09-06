@@ -1,0 +1,5 @@
+[/EN#214057/people A large number of cyclists] wearing [/EN#214063/clothing helmets] cross [/EN#214058/scene a bridge] on [/EN#214060/scene a gray and cloudy day] .
+[/EN#214057/people Dozens of cyclists] ride [/EN#214064/vehicles their bikes] on [/EN#214058/scene a suspension bridge] , with [/EN#214065/vehicles no cars] visible .
+[/EN#214057/people Several bicyclists] are crossing [/EN#214058/scene a large bridge] with [/EN#214059/scene the city] in [/EN#0/notvisual the distance] .
+[/EN#214057/people A group of cyclist] begin [/EN#214062/other their race] across [/EN#214058/scene a bridge] .
+[/EN#214057/people Numerous bicyclists] riding across [/EN#214058/scene a bridge] .

@@ -1,0 +1,5 @@
+[/EN#49919/animals The furry brown and white dog] is jumping around near [/EN#49923/other a door] .
+[/EN#49919/animals A dog] standing up on [/EN#49924/bodyparts two legs] with [/EN#49920/other something] in [/EN#49921/bodyparts his mouth] .
+[/EN#49919/animals A dog] is jumping up in [/EN#0/notvisual the air] to catch [/EN#49920/other a toy] .
+[/EN#49919/animals Dog] jumping up with [/EN#49920/other something] in [/EN#49921/bodyparts its mouth] .
+[/EN#49919/animals A blurry dog] inside on [/EN#49922/other a carpet] .

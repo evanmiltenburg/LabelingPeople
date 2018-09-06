@@ -1,0 +1,5 @@
+[/EN#151879/people 5 people] are in [/EN#151876/scene a room] with [/EN#151880/other a bookcase] and [/EN#151877/other chairs] , [/EN#151878/other 2] standing and 3 sitting .
+[/EN#151875/people Five young women] are gathered together in [/EN#151876/scene a room] with [/EN#151877/other green and blue chairs] .
+[/EN#151875/people Five young women] are in [/EN#151876/scene a room] interacting with [/EN#0/notvisual one another] .
+[/EN#151875/people 5 young women] are interacting around [/EN#151881/other a table] .
+[/EN#151875/people A group of girls] hang out .

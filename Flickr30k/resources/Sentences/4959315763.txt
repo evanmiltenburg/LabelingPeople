@@ -1,0 +1,5 @@
+[/EN#223338/people A man] sits on [/EN#223339/scene the edge of a dock] with [/EN#223340/other a fishing pole] , facing [/EN#223341/scene a cloudy sky] and [/EN#223342/scene still water] .
+[/EN#223338/people Lone man] with [/EN#223340/other a large fishing rod] fishing in [/EN#223342/scene a inlet] .
+[/EN#223338/people A man] wearing [/EN#223346/clothing a hat] is fishing off of [/EN#223339/scene a dock] .
+[/EN#223338/people A man] sits alone fishing along [/EN#223342/scene the shoreline] .
+[/EN#223338/people Man] sitting on [/EN#223343/other chair] fishing

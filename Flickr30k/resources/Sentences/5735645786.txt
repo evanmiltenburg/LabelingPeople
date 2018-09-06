@@ -1,0 +1,5 @@
+[/EN#242038/people 2 police officers] with [/EN#242044/clothing helmets] on are looking down at [/EN#242042/other something] and are riding on [/EN#242040/other horseback] .
+[/EN#242038/people Two helmeted police officers] on [/EN#242040/other horseback turn] back towards [/EN#0/notvisual the direction of the camera] .
+[/EN#242038/people Two police] are mounted on [/EN#242041/animals horses] checking [/EN#242042/other something] out .
+[/EN#242038/people Two officers] on [/EN#242040/other horseback] looking down [/EN#242039/scene the city street] .
+[/EN#242038/people Two officers] sit on [/EN#242041/animals horses] in [/EN#242039/scene a urban setting] .

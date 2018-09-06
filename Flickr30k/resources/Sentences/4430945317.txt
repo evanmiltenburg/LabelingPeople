@@ -1,0 +1,5 @@
+[/EN#167477/people A man] with [/EN#167479/bodyparts a red beard] and [/EN#167483/bodyparts mustache] is smiling and wearing [/EN#167478/clothing a hat] crocheted with [/EN#167478/other green yarn] and [/EN#167480/other Miller beer cans] .
+[/EN#167477/people A man] in [/EN#167481/clothing a dark brown shirt] is wearing [/EN#167478/clothing a bright green hat] with [/EN#167484/other the Miller logo] on [/EN#0/notvisual it] , and smiling .
+[/EN#167477/people a man] with [/EN#167478/clothing a large green hat] smiling while looking in [/EN#0/notvisual the camera]
+[/EN#167477/people Guy] with [/EN#167479/bodyparts a red beard] wearing [/EN#167478/clothing a green Miller beer hat] .
+[/EN#167477/people A man] with [/EN#167479/bodyparts a red beard] wearing [/EN#167478/clothing a green Miller hat] .

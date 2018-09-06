@@ -1,0 +1,5 @@
+[/EN#50862/people A long-haired child] wearing [/EN#50863/clothing a gray shirt] , [/EN#50871/clothing blue shorts] and [/EN#50870/clothing black sandals] stands on [/EN#50867/other one foot] in [/EN#50866/scene a rocky area] , behind [/EN#50873/other two others] .
+[/EN#50860/people A female] wearing [/EN#50863/clothing a shirt] [/EN#0/notvisual that] has [/EN#50875/clothing the word Green] is balancing on [/EN#50867/other one foot] , while [/EN#50864/people an adult male] and [/EN#50869/people another female] walk away .
+[/EN#50862/people small blond girl] balances on [/EN#50867/other one foot] on [/EN#50865/other a sandy rock] while [/EN#50864/people man] and [/EN#50869/people woman] walk away in [/EN#0/notvisual the background]
+[/EN#50862/people A young , blond girl] wearing [/EN#50868/other Crocs] , balancing on [/EN#50867/other one foot] in [/EN#50866/scene a windy desert area] .
+[/EN#50860/people Young girls] stands on [/EN#50867/other one foot] on top of [/EN#50865/other a rock] while [/EN#50876/bodyparts her hair] blows in [/EN#50872/other the wind] .

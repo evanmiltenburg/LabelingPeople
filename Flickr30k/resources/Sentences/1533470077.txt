@@ -1,0 +1,5 @@
+[/EN#15780/people A man] in [/EN#15782/clothing a blue work uniform] is working on [/EN#15779/vehicles/scene a blue bus] on [/EN#15781/scene a lift] .
+[/EN#15780/people A mechanic] is working on [/EN#15779/vehicles/scene the underside of a bus] [/EN#0/notvisual that] is lifted .
+[/EN#15780/people A mechanic] in [/EN#15780/other blue coveralls] works on [/EN#15779/vehicles/scene a bus] .
+[/EN#15779/vehicles/scene A bus] being worked on by [/EN#15780/people a mechanic] .
+[/EN#15780/people A mechanic] working on [/EN#15779/vehicles/scene a bus] .

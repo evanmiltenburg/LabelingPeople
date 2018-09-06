@@ -1,0 +1,5 @@
+[/EN#257672/people A barber] wearing [/EN#257676/clothing his white coat] trims [/EN#257675/people the beard of his customer] wearing [/EN#257677/clothing the red apron] .
+[/EN#257673/people An older gentlemen] getting [/EN#257675/bodyparts his beard] trimmed by [/EN#257672/people a younger barber] .
+[/EN#257672/people One man] shaving [/EN#257673/bodyparts another man 's mustache] in [/EN#257678/scene barber shop] .
+[/EN#257672/people A barber] is trimming [/EN#257674/bodyparts a customer 's mustache] .
+[/EN#257672/people A man] shaving [/EN#257674/bodyparts another man 's mustache] .

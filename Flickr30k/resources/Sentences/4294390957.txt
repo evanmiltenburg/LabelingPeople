@@ -1,0 +1,5 @@
+[/EN#161932/people A man] in [/EN#161933/clothing a blue suit] wearing [/EN#161935/clothing glasses] is standing at [/EN#161934/scene a podium] talking .
+[/EN#161932/people Man] in [/EN#161933/clothing suits] stands at [/EN#161934/scene podium] and speaks .
+[/EN#161932/people A man] in [/EN#161933/clothing a suit] is speaking at [/EN#161934/other a lectern] .
+[/EN#161932/people A man] talks behind [/EN#161934/scene a podium] .
+[/EN#161932/people A man] standing at [/EN#161934/scene a podium] .

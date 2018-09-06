@@ -1,0 +1,5 @@
+[/EN#34796/people Young lady] , in [/EN#34800/clothing a white shirt] and [/EN#34801/clothing jeans] , sitting on [/EN#34799/scene the edge of a harbor] next to [/EN#34797/vehicles/scene a docked boat] .
+[/EN#34796/people Young Asian girl] in [/EN#34800/clothing white shirt] and [/EN#34801/clothing jeans] sitting on [/EN#34799/scene a dock] near [/EN#34797/other a cargo ship] .
+[/EN#34796/people An Asian woman] is posing on [/EN#34799/scene the pier] near [/EN#34797/vehicles/scene a boat] on [/EN#34803/scene the water] .
+[/EN#34796/people A woman] is sitting on [/EN#34799/scene a dock] in front of [/EN#34797/other a big gray ship] .
+[/EN#34796/people A woman] sits on [/EN#34799/scene a dock 's edge] near [/EN#34797/vehicles/scene a large boat] .

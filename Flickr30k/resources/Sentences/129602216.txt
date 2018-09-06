@@ -1,0 +1,5 @@
+[/EN#7678/people A man] sitting at [/EN#7679/other a table] wears [/EN#7680/clothing a red sweater] while [/EN#7681/scene two glasses of water] rest on [/EN#7679/other the table] ; [/EN#7682/other one glass] is [/EN#7688/other half empty] .
+[/EN#7678/people A man] in [/EN#7680/clothing a red sweater] sitting at [/EN#7679/other a table] with [/EN#7683/other plates] , [/EN#7684/other bowls] and [/EN#7681/scene glasses of water] on [/EN#0/notvisual it] .
+[/EN#7678/people A man] in [/EN#7680/clothing a red sweater] is sitting at [/EN#7679/other a table] with [/EN#7685/other food] and [/EN#7686/other drinks] in front of [/EN#0/notvisual him] .
+[/EN#7678/people A man] in [/EN#7680/clothing a red shirt] sits at [/EN#7679/other a table] with [/EN#7687/scene a glass of water] .
+I am very thirsty , let me drink water .

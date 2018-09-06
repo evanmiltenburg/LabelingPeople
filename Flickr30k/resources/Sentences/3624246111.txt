@@ -1,0 +1,5 @@
+[/EN#132365/people A man] in [/EN#132367/clothing a striped shirt] standing in front of [/EN#132371/other a projection screen] leans over [/EN#132368/other a desk] and touches [/EN#132369/other the keyboard] on [/EN#132366/other a laptop] .
+[/EN#132365/people A young man] in [/EN#132367/clothing a polo shirt] prepares [/EN#132366/other his laptop] for [/EN#132370/other a presentation] .
+[/EN#132365/people A man] in [/EN#132373/scene an office] is checking [/EN#132372/other information] on [/EN#132366/other his laptop] .
+[/EN#132365/people A young man] in [/EN#132367/clothing a stripe shirt] is working on [/EN#132366/other a laptop] .
+[/EN#132365/people A guy] typing on [/EN#132366/other a laptop computer] .

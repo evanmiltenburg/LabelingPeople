@@ -1,0 +1,5 @@
+[/EN#61619/animals A brown dog] is soaked and is walking out of [/EN#61620/scene the water] .
+[/EN#61619/animals A very wet brown dog] is emerging from [/EN#61620/scene the water] .
+[/EN#61619/animals a long brown-haired dog] walking through [/EN#61620/scene a river] .
+[/EN#61619/animals A wet dog] walks out of [/EN#61620/scene the water] .
+[/EN#61619/animals a dog] walks out of [/EN#61620/scene the water] .

@@ -1,0 +1,5 @@
+[/EN#126272/people A man] with [/EN#126277/instruments an electric guitar] and [/EN#126283/bodyparts long hair] leans towards [/EN#126280/people another musician] .
+[/EN#126273/people Two musicians] are on [/EN#126274/scene a stage] , [/EN#126282/other one] plays [/EN#126277/instruments the bass guitar] .
+[/EN#126275/other The spotlight] is on [/EN#126272/people a guitarist] [/EN#0/notvisual who] is playing in [/EN#126273/people a band] .
+[/EN#126272/people A woman] in [/EN#126275/clothing white] lighting talks to [/EN#126278/people a man] lit in [/EN#130000/clothing green] .
+[/EN#126276/people Two people] perform on [/EN#126274/scene a stage] with [/EN#126277/instruments electric guitars] .

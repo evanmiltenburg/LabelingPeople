@@ -1,0 +1,5 @@
+[/EN#15166/people An adult] and [/EN#15168/people a child] walking on [/EN#15170/scene the sidewalk] next to [/EN#15167/scene a large building] with [/EN#15171/other graffiti] .
+[/EN#15166/people An adult] and [/EN#15168/people a child] walking past [/EN#15167/other a tree] in front of [/EN#15167/scene a vandalized building] .
+[/EN#15166/people A woman] and [/EN#15168/people a child] are walking past [/EN#15167/other a tree] and [/EN#15167/scene a building] .
+[/EN#15166/people A woman] and [/EN#15168/people a child] walking by [/EN#15167/scene a vandalized building] .
+[/EN#15166/people A woman] and [/EN#15168/people child] walking by [/EN#15167/scene a building] .

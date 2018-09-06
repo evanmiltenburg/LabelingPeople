@@ -1,0 +1,5 @@
+[/EN#129764/people The boxer] wearing [/EN#129769/clothing black gloves] is kicking [/EN#129766/people the boxer] [/EN#0/notvisual who] is wearing [/EN#129770/clothing gray gloves] .
+[/EN#129763/people Two men] are kickboxing in [/EN#129767/other a kickboxing] ring .
+[/EN#129763/other Two MMA fighters spar] in [/EN#129768/clothing a ring] .
+[/EN#129763/people Two men] are kickboxing .
+[/EN#129763/people Two men] kickboxing .

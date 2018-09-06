@@ -1,0 +1,5 @@
+[/EN#75564/people A person] in [/EN#75565/clothing a white and red shirt] and [/EN#75566/clothing green backpack] hiking on [/EN#75569/scene a mountain] .
+[/EN#75564/people A hiker] climbing [/EN#75569/scene a rocky hill] with [/EN#75567/other fog] surrounding [/EN#0/notvisual him] .
+[/EN#75564/people A person] wearing [/EN#75568/clothing red and white] climbs [/EN#75569/scene a foggy mountain] .
+[/EN#75564/people A hiker] with [/EN#75566/clothing a backpack] is up on [/EN#75570/other a misty mountaintop] .
+[/EN#75564/people A hiker] walks on [/EN#75569/scene a mountainside] .

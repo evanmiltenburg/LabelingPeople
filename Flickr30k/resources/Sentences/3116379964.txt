@@ -1,0 +1,5 @@
+[/EN#94680/animals A dog] sits between [/EN#94681/people a man] and [/EN#94682/people a woman] while [/EN#0/notvisual they] are eating .
+[/EN#94681/people A man] and [/EN#94682/people a woman] at [/EN#94684/other a meal] , with [/EN#94680/animals a dog] between [/EN#0/notvisual them] .
+[/EN#94682/people A woman] eats while [/EN#94680/animals a dog] sits next to [/EN#0/notvisual her] and [/EN#94681/people a man] .
+[/EN#94680/animals A dog] looks on as a [/EN#94682/people woman] eats .
+[/EN#94680/animals A dog] and [/EN#94683/people two people] .

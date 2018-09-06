@@ -1,0 +1,5 @@
+[/EN#204365/other A news media van] is set up to broadcast in [/EN#204368/scene the middle of a large urban street] as [/EN#204364/people an Asian man] crosses [/EN#204367/scene the road] .
+[/EN#204364/people A man] in [/EN#204371/clothing a hat] is walking across [/EN#204366/scene a lawn] from [/EN#204372/vehicles a small truck] to [/EN#204365/other a van] with [/EN#204370/other a satellite] .
+[/EN#204364/people A man] walking across [/EN#204366/scene a patch of grass] in [/EN#204368/scene the middle of a street] .
+[/EN#204364/people A man] is crossing [/EN#204367/scene a street] and [/EN#0/notvisual there] is [/EN#204365/people a news crew] next to [/EN#0/notvisual him] .
+[/EN#204364/people A man] walks across [/EN#204367/scene the street] behind [/EN#204366/scene a field of grass] .

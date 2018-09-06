@@ -1,0 +1,5 @@
+[/EN#275353/people A young woman] hikes [/EN#275357/scene her way] up [/EN#275355/scene a wooded area] surrounded by [/EN#275358/other vegetation] .
+[/EN#275353/people A middle-aged woman] jogging along [/EN#275354/scene a trail] in [/EN#275355/scene the wilderness] .
+[/EN#275356/other A vibrant tracker] hikes through [/EN#275355/scene a scenic trail] .
+[/EN#275353/people A person] jogging along [/EN#275354/scene a beautiful greenway] .
+[/EN#275353/people Woman] with [/EN#275359/clothing a backpack] hiking up [/EN#275354/scene a path] .

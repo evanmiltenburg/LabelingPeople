@@ -1,0 +1,5 @@
+[/EN#92034/animals A white dog] walks across [/EN#0/notvisual the sandy ground] with [/EN#92037/other a tumbleweed] .
+[/EN#92034/animals A white dog] is running around [/EN#92037/other a tumbleweed] on [/EN#92035/other a sand dune] .
+[/EN#92034/animals A white poodle] circles [/EN#92038/other a sparkler] embedded in [/EN#92035/other sand] .
+[/EN#92034/animals A dog] plays on [/EN#92035/scene the beach] .
+[/EN#92034/animals poodle] playing on [/EN#92035/scene a beach]

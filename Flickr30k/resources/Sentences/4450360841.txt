@@ -1,0 +1,5 @@
+[/EN#169567/people A man] in [/EN#169568/clothing a long black coat] looks down as [/EN#0/notvisual he] waits for [/EN#169573/vehicles/scene the train] .
+[/EN#169567/people A man] in [/EN#169569/clothing black] staring down at [/EN#169571/scene the sidewalk] with [/EN#169570/scene shadows] .
+[/EN#169567/people A man] standing on [/EN#169571/scene a sidewalk] looking towards [/EN#0/notvisual the ground] .
+[/EN#169567/people A man] in [/EN#169568/clothing a trench coat] stares at [/EN#169572/scene the street] .
+[/EN#169567/people A man] standing in [/EN#169570/scene a shadow] .

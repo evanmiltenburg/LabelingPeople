@@ -1,0 +1,5 @@
+[/EN#224303/people An older man] with [/EN#224305/clothing work gloves] holds [/EN#224307/other the handrail] while wearing [/EN#224304/clothing a helmet] with [/EN#224306/other a flashlight] attached .
+[/EN#224303/people Man] with [/EN#224310/clothing dark shirt] in [/EN#224305/clothing work gloves] and [/EN#224304/clothing a helmet] [/EN#0/notvisual that] has [/EN#224306/other a yellow flashlight] attached .
+[/EN#224303/people A man] in [/EN#224304/clothing a helmet] is holding on to [/EN#224308/other a railing] .
+[/EN#224303/people A man] is wearing [/EN#224305/clothing gloves] and [/EN#224304/clothing a safety helmet] .
+[/EN#224303/people A man] in [/EN#224304/clothing a helmet] is standing .

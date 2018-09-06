@@ -1,0 +1,5 @@
+Here is [/EN#152100/people a picture of a male model] tanning near [/EN#152102/scene his swimming pool] in [/EN#152105/scene his backyard] .
+[/EN#152100/people A young man] in [/EN#152106/clothing swim trunks] relaxes in [/EN#152101/other a lounge chair] by [/EN#152102/scene the pool] .
+[/EN#152100/people A man] is sunbathing next to [/EN#152102/scene a pool] with [/EN#152103/scene a waterfall fountain] .
+[/EN#152100/people A young man] sunning [/EN#0/notvisual himself] on [/EN#152101/other a deck chair] by [/EN#152104/other the poolside] .
+[/EN#152100/people A man] is lying on [/EN#152101/other a deck chair] by [/EN#152102/scene a pool] .

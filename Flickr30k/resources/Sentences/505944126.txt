@@ -1,0 +1,5 @@
+[/EN#227708/animals A yellow and black dog] looking in [/EN#0/notvisual the same direction] standing in [/EN#227712/other some brush] .
+[/EN#227710/animals A light brown dog] and [/EN#227711/animals a black and brown dog] are in [/EN#227712/other some dry brush] .
+[/EN#227708/animals A brown dog] and [/EN#227711/animals black dog] are foraging in [/EN#227712/other some brush-land] .
+[/EN#227710/animals One tan dog] with [/EN#227714/other a stick] and [/EN#227711/animals one mostly black dog] .
+[/EN#227708/animals Two dogs] playing outside .

@@ -1,0 +1,5 @@
+[/EN#122546/people A man] with [/EN#122549/bodyparts red-hair] dressed in [/EN#122548/clothing a reflective jacket] leans against [/EN#122547/other a wooden railing] .
+[/EN#122546/people A man] standing looking sad with [/EN#122551/people cleaner] and [/EN#122550/other a tool] next to [/EN#0/notvisual him] .
+[/EN#122546/people A man] with [/EN#122549/bodyparts red-hair] leans against [/EN#122547/scene a brown fence] .
+[/EN#122546/people A man] in [/EN#122548/clothing a yellow jacket] leaning on [/EN#122547/other a railing] .
+[/EN#122546/people A red-haired man] rests on [/EN#122547/other a railing] .

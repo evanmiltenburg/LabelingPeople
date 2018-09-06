@@ -1,0 +1,5 @@
+[/EN#85637/people A lady] in [/EN#85638/clothing a business suit] sits at [/EN#85639/other a desk] and [/EN#85640/people types] on [/EN#85641/other her keyboard] .
+[/EN#85637/people A businesswoman] sitting at [/EN#85639/other her desk] and working on [/EN#85642/other the computer] .
+[/EN#85637/people A blond lady] wearing [/EN#85638/clothing a brown coat] working on [/EN#85642/other a computer] .
+[/EN#85637/people A woman] sits at [/EN#85639/other a desk] and [/EN#85643/people types] on [/EN#85642/other a computer] .
+[/EN#85637/people A woman] on [/EN#85642/other a computer] at [/EN#85644/other a desk] .

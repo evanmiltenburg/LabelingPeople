@@ -1,0 +1,5 @@
+[/EN#162303/animals The dog] is concerned with [/EN#162304/other a purple object] lying in [/EN#162305/scene an uncut field] .
+[/EN#162303/animals A brown dog] possessively grabs [/EN#162304/other a purple Frisbee] in [/EN#162305/scene a field] .
+[/EN#162303/animals A brown dog] running to catch [/EN#162304/other a Frisbee] in [/EN#162305/scene a field of grass] .
+[/EN#162303/animals A brown dog] with [/EN#162304/other a purple Frisbee] in [/EN#162306/bodyparts its mouth] .
+[/EN#162303/animals A dog] in [/EN#162305/scene a field] with [/EN#162304/other a Frisbee] .

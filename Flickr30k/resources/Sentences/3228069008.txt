@@ -1,0 +1,5 @@
+[/EN#102729/animals a brown puppy] is gnawing in [/EN#102731/scene a metallic post] [/EN#0/notvisual that] is stuck into [/EN#0/notvisual the ground] .
+[/EN#102729/animals Brown dog] chewing on [/EN#102730/other a brown walking cane] .
+[/EN#102729/animals A puppy] mouthing [/EN#102730/other a pole] on [/EN#0/notvisual the ground] .
+[/EN#102729/animals A dog] is chewing on [/EN#102730/other a metal pole] .
+[/EN#102729/animals Brown puppy] biting [/EN#102730/other pole]

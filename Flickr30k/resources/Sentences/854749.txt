@@ -1,0 +1,5 @@
+[/EN#281663/people A man] wearing [/EN#281664/clothing a black shirt] and [/EN#281668/clothing gray pants] is in [/EN#281667/scene a large grocery store] pushing [/EN#281671/other a shopping basket] in front of [/EN#281665/other a candy isle] .
+[/EN#281663/people A guy] wearing [/EN#281664/clothing a black shirt] and [/EN#281668/clothing gray pants] pushing [/EN#281666/vehicles his shopping cart] past [/EN#281665/other a candy aisle of a Walmart] .
+[/EN#281663/people A man] in [/EN#281664/clothing a black shirt] and [/EN#281668/clothing gray pants] is walking with [/EN#281666/vehicles a cart] past [/EN#281665/other a candy isle] .
+[/EN#281669/other America] , [/EN#281670/other the beautiful] , as epitomized by [/EN#281672/scene this candy isle scene] .
+[/EN#281663/people A man] shopping at [/EN#281667/scene a department store] next to [/EN#281665/other a lot of candy] .

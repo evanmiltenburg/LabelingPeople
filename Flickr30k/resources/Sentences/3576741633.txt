@@ -1,0 +1,5 @@
+[/EN#128917/people A boy] is in [/EN#128923/scene midair] doing [/EN#0/notvisual a skateboard trick] at [/EN#128919/scene a skate park] while [/EN#128924/people two women] and [/EN#128921/people a toddler] walk behind [/EN#0/notvisual him] .
+[/EN#128917/people A skateboarder] in doing [/EN#0/notvisual a trick] in [/EN#128919/scene a skate park] .
+[/EN#128917/people A boy] wearing [/EN#128925/clothing blue jeans] is skateboarding .
+[/EN#128917/people A young man] does [/EN#0/notvisual tricks] on [/EN#128922/other his skateboard] .
+[/EN#128920/other A buy] skateboarding at [/EN#128919/scene a skate park] .

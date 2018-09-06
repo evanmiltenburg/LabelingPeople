@@ -1,0 +1,5 @@
+[/EN#204496/people Black man] in [/EN#204500/clothing gray jumpsuit] shows [/EN#204498/bodyparts both hands] to [/EN#0/notvisual the camera] .
+[/EN#204496/people A man] standing in front of [/EN#204497/vehicles a car] is holding up [/EN#204498/bodyparts his hands] .
+[/EN#204496/people A man] standing next to [/EN#204497/vehicles a car] holding up [/EN#204498/bodyparts his hands] .
+[/EN#204496/people A man] standing next to [/EN#204497/vehicles a car] holds up [/EN#204498/bodyparts his hands] .
+[/EN#204496/people A man] showing [/EN#204499/bodyparts his ten fingers] .

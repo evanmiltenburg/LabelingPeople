@@ -1,0 +1,5 @@
+[/EN#67215/people A bigger man] with [/EN#67216/clothing a gray shirt] and [/EN#67217/clothing sweatband] going down [/EN#67226/other the stairs] where [/EN#67218/people another guy] in [/EN#67219/clothing glasses] and [/EN#67220/clothing an orange shirt] is standing .
+[/EN#67215/people The man] in [/EN#67216/clothing the gray top] is walking down [/EN#67226/other the steps] , and [/EN#67215/people the man] in [/EN#67220/clothing the orange shirt] is standing by [/EN#67221/scene the railroad tracks] .
+[/EN#67222/people Two men] near [/EN#67221/scene train tracks] , while [/EN#67215/other one] is walking down [/EN#67226/other stairs] .
+[/EN#67222/people Two men] decide [/EN#0/notvisual what] to do with [/EN#67224/other an obstructing fallen branch] .
+[/EN#67215/people A man] in [/EN#67220/clothing an orange shirt] is standing next to [/EN#67225/other a railway line] .

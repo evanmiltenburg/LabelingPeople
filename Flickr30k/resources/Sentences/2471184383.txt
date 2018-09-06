@@ -1,0 +1,5 @@
+[/EN#51932/people A woman] in [/EN#51933/clothing blue] in [/EN#51934/scene a kitchen] with [/EN#51939/other a tea kettle] of steaming [/EN#51935/scene hot water] in [/EN#51940/bodyparts her hand] .
+[/EN#51932/people A smiling elderly woman] with [/EN#51937/other a head wrap] prepares boiled [/EN#51935/scene water] .
+[/EN#51932/people A woman] in [/EN#51933/clothing a blue shirt] and [/EN#51937/clothing a black headscarf] is brewing [/EN#51936/other tea] .
+[/EN#51932/people An elderly woman] is making [/EN#51936/other tea] in [/EN#51934/scene her kitchen] .
+[/EN#51932/people Old lady] making [/EN#51936/other tea] before [/EN#0/notvisual she] dies .

@@ -1,0 +1,5 @@
+[/EN#205626/people A man] in [/EN#205627/clothing a tan overcoat] is standing with [/EN#205628/other his back] to [/EN#0/notvisual the camera] and looking into [/EN#205629/other the woods] .
+[/EN#205626/people A man] standing in [/EN#205630/scene a clearing] in [/EN#205629/other the woods] stares off in [/EN#0/notvisual the distance] on [/EN#205631/scene a cloudy day] .
+[/EN#205626/people Man] with [/EN#205628/other back] to [/EN#205634/other camera] looking out over [/EN#205632/scene a forest] .
+[/EN#205626/people A man] in [/EN#205627/clothing a tan shirt] looks at [/EN#205636/animals a bird] in [/EN#205633/other a tree] .
+[/EN#205626/people Man] in [/EN#205627/clothing beige shirt] looking out into [/EN#205629/other the woods] .

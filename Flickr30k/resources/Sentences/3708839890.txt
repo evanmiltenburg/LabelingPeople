@@ -1,0 +1,5 @@
+[/EN#138476/animals A black dog] leaps from [/EN#138477/scene the water] near [/EN#138478/scene a wooded shoreline]
+[/EN#138476/animals A black dog] jumping in [/EN#138477/scene water] in [/EN#138479/other the woods] .
+[/EN#138476/animals A black dog] is jumping out of [/EN#138477/scene water] .
+[/EN#138476/animals Animal] jumping up from [/EN#138477/scene the pond] .
+[/EN#138476/animals A dog] playing in [/EN#138477/scene water] .

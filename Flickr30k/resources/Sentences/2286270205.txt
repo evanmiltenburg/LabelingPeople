@@ -1,0 +1,5 @@
+[/EN#39061/animals A golden retriever] looking at [/EN#39062/other its relection] in [/EN#39065/scene water] next to [/EN#39063/scene a snow] .
+[/EN#39061/animals a brown dog] at [/EN#39064/scene the edge of a body of water] surrounded by [/EN#39063/scene snow] .
+[/EN#39061/animals A golden dog] walks carefully around [/EN#39064/scene a frozen pond] .
+[/EN#39061/animals A dog] standing near [/EN#39063/scene snow] looking at [/EN#39065/scene water] .
+[/EN#39061/animals A tan dog] is walking along [/EN#39063/scene snow] to [/EN#39064/scene water] .

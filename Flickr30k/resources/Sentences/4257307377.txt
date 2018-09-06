@@ -1,0 +1,5 @@
+[/EN#160505/people People] walk down [/EN#160506/scene a narrow street] between [/EN#160507/scene tall buildings] .
+[/EN#160505/people A group of pedestrians] walk down [/EN#160506/scene a city street] .
+[/EN#160508/people A man] in [/EN#160509/clothing black] stands beside [/EN#160507/scene a tall building] .
+[/EN#160506/scene A snow covered street] with [/EN#160505/people people] walking .
+[/EN#160505/people People] walking on [/EN#160506/scene a desert street] .

@@ -1,0 +1,5 @@
+[/EN#64710/people Two small children] play with [/EN#64711/other a toy] riding [/EN#64711/vehicles car] in [/EN#64716/scene the street] with [/EN#64713/people a grownup] .
+[/EN#64713/people A man] pushes [/EN#64714/people a child] in [/EN#64711/vehicles a blue car] while [/EN#64715/people another child] looks on .
+[/EN#64713/people A father] pushes [/EN#64714/people his daughters] go-kart while [/EN#64715/people another girl] watches
+[/EN#64714/people A girl] riding in [/EN#64711/vehicles a toy car] with [/EN#64713/people a man] behind [/EN#0/notvisual her]
+[/EN#64714/people The little girl] is driving [/EN#64711/vehicles the small blue car] .

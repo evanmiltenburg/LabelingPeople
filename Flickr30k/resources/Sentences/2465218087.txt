@@ -1,0 +1,5 @@
+[/EN#51493/people A person] in [/EN#51498/clothing red and blue] holding [/EN#51495/other a paddle] in front of [/EN#51494/other a yellow canoe] in [/EN#51497/scene the water] .
+[/EN#51493/people Person] standing in [/EN#51497/scene the water] by [/EN#51496/vehicles/scene a yellow boat] with [/EN#51495/other an oar] in [/EN#51499/bodyparts their hand] .
+[/EN#51493/people A man] holding [/EN#51495/other a paddle] is standing in front of [/EN#51494/other a yellow kayak] .
+[/EN#51493/people A man] stands next to [/EN#51496/vehicles/scene his yellow boat] in [/EN#51497/scene the water] .
+[/EN#51493/people A man] is standing in [/EN#51497/scene the water] with [/EN#51494/other a kayak] .

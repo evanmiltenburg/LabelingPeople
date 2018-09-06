@@ -1,0 +1,5 @@
+[/EN#179190/people A man] in [/EN#179191/clothing a black suit] with [/EN#179193/clothing an orange shirt] is playing [/EN#179194/instruments a trumpet] , along with [/EN#179196/people other musicians] , with [/EN#179192/people background onlookers] .
+[/EN#179190/people A man] in [/EN#179191/clothing a black jacket] plays [/EN#179194/instruments the trumpet] while [/EN#179192/people a crowd] watches in [/EN#0/notvisual the background] .
+[/EN#179190/people A man] with [/EN#179195/clothing glasses] , [/EN#179193/clothing a red shirt] and [/EN#179191/clothing black jacket] is playing [/EN#179194/instruments a trumpet] .
+[/EN#179190/people A man] plays [/EN#179194/instruments a trumpet] in front of [/EN#179192/people a crowd of people]
+[/EN#179190/people A man] in [/EN#179191/clothing black clothing] plays [/EN#179194/instruments a trumpet] .

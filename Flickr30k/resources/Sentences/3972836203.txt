@@ -1,0 +1,5 @@
+[/EN#150470/people A child] laying on [/EN#150471/other a hospital gurney] near [/EN#150473/other a tv monitor] mounted on [/EN#150474/other the wall] .
+[/EN#150470/people A boy] lying on [/EN#150471/other a hospital bed] with [/EN#150472/bodyparts his leg] hanging over [/EN#0/notvisual the side] .
+[/EN#150470/people A young boy] laying on [/EN#150471/other a hospital bed] with [/EN#150472/bodyparts his leg] over [/EN#0/notvisual the side] .
+[/EN#150470/people A child] is laying in [/EN#150471/other a bed] in [/EN#150475/scene a medical setting] .
+[/EN#150470/people A young boy] rests in [/EN#150471/other a hospital bed] .

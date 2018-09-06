@@ -1,0 +1,5 @@
+[/EN#175333/people A man] wearing [/EN#175340/other dark-colored rain wear] and [/EN#175342/clothing jeans] is standing on [/EN#175339/scene a wooden walkway] and staring at [/EN#175335/other some machinery] to [/EN#175341/scene his right] .
+[/EN#175333/people A man] in [/EN#175334/clothing raincoat] stands in [/EN#175337/scene a dry dock] next to [/EN#175335/other a ship] .
+[/EN#0/notvisual What] is happening there and [/EN#0/notvisual he] has to go and check [/EN#0/notvisual it] .
+[/EN#175333/people A man] in [/EN#175334/clothing a green raincoat] smoking [/EN#175336/other a cigarette] .
+[/EN#175333/people A workman] standing along side [/EN#175338/vehicles/scene a train] .

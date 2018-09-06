@@ -1,0 +1,5 @@
+[/EN#171850/people A man] is reading [/EN#171851/other the newspaper] in [/EN#171852/scene a train compartment] .
+[/EN#171850/people A man] is reading [/EN#171851/other a newspaper] sitting in [/EN#171852/vehicles/scene a train] .
+[/EN#171850/people A man] reading [/EN#171851/other a newspaper] in front of [/EN#171853/other a window] .
+[/EN#171850/people A middle-aged man] reads [/EN#171851/other a newspaper] on [/EN#171852/vehicles/scene a train]
+[/EN#171850/people A blond male] reading [/EN#171851/other a newspaper] .

@@ -1,0 +1,5 @@
+[/EN#200897/people A man] in [/EN#200898/clothing a black shirt] and [/EN#200902/clothing gray pants] holds [/EN#200899/other his luggage] at [/EN#0/notvisual what] appears to be [/EN#200904/scene an airport] .
+[/EN#200897/people A man] wearing [/EN#200898/clothing a black short-sleeve shirt] is waiting in [/EN#200900/other line] with [/EN#200899/other his luggage] .
+[/EN#200897/people An Oriental traveler] awaits [/EN#200903/other his turn] at [/EN#200901/other the currency exchange] .
+[/EN#200897/people A man] in [/EN#200898/clothing a black shirt] is standing in [/EN#200900/other line] with [/EN#200899/other his luggage] .
+[/EN#200897/people Man] in [/EN#200898/clothing black shirt] waiting with [/EN#200899/other luggage] .

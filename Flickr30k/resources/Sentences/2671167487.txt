@@ -1,0 +1,5 @@
+[/EN#65248/people A woman] on [/EN#65251/vehicles/scene a boat] named " [/EN#65250/other El Corazon] " drops [/EN#65254/other black weights] into [/EN#65255/scene the water] .
+[/EN#65248/people A woman] is standing on [/EN#65249/vehicles/scene the deck of a boat] while holding [/EN#65254/other a weight] .
+[/EN#65248/people A boater] pulls [/EN#65252/other a weight] on [/EN#65253/other a rope] out of [/EN#65255/scene the water] .
+[/EN#65248/people A woman] raising [/EN#65252/other the anchors] on [/EN#65251/vehicles/scene a boat] .
+[/EN#65248/people A woman] lowering [/EN#65253/other ballast] on [/EN#65251/vehicles/scene a boat] .

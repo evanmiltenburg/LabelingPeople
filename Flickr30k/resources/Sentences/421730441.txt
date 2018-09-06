@@ -1,0 +1,5 @@
+[/EN#159363/people a man] in [/EN#159364/clothing a black hat] standing in front of [/EN#159365/other a brick wall] and [/EN#159366/other a sign]
+[/EN#159363/people Man] wearing [/EN#159367/clothing black shirt] standing in front of [/EN#159365/other a red brick wall] .
+[/EN#159363/people The man] in [/EN#159364/clothing the black hat] has [/EN#159368/other his back] to [/EN#159366/other a theater sign] .
+[/EN#159363/people A man] in [/EN#159364/clothing a knit cap] stands next to [/EN#159365/other a brick wall] .
+[/EN#159363/people A man] standing in front of [/EN#159365/scene a brick building] .

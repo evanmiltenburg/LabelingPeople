@@ -1,0 +1,5 @@
+[/EN#272260/people A woman] , wearing [/EN#272266/clothing a dress] , while sitting down playing [/EN#272262/instruments a musical instrument] and singing into [/EN#272261/other a microphone] .
+[/EN#272260/people A woman] is sitting on [/EN#272264/other a chair] [/EN#272263/scene outdoors] with [/EN#272261/other a microphone] near [/EN#272267/bodyparts her mouth] and [/EN#272262/instruments an instrument] on [/EN#272268/bodyparts her lap] .
+[/EN#272260/people A brown-haired woman] plays [/EN#272262/instruments an instrument] while having [/EN#272260/other an interaction] with [/EN#272261/other a microphone] .
+[/EN#272260/people A woman] is singing into [/EN#272261/other a microphone] while sitting and playing [/EN#272262/instruments an instrument] .
+[/EN#272260/people A woman] is sitting down , playing [/EN#272262/instruments an instrument] , and [/EN#272263/scene signing outdoors] .

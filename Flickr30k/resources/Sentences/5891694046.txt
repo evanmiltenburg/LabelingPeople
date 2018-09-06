@@ -1,0 +1,5 @@
+[/EN#244558/people A group of workers] are staring at [/EN#244560/other a map] and [/EN#244563/people two men] are pointing at [/EN#244559/other the map] .
+[/EN#244558/people A group of men] is standing around [/EN#244562/other a table] and looking at [/EN#244560/other a map] .
+[/EN#244558/people A group of men] are looking at [/EN#244559/other multiple maps] .
+[/EN#244558/people Five men] looking at [/EN#244560/other a topographical map] .
+[/EN#244561/people Official] looking [/EN#244558/people people] view [/EN#244559/other a map] .

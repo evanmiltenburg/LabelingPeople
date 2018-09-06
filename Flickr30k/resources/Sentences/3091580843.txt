@@ -1,0 +1,5 @@
+[/EN#92819/people A man] in [/EN#92825/clothing a black jacket] walks thorugh [/EN#92820/scene an Asian market] .
+[/EN#92819/people A man] walking on [/EN#92821/scene the sidewalk] past [/EN#92824/other storefronts] .
+[/EN#92819/people A man] walking down [/EN#92821/scene a street] with [/EN#92820/scene Asian shops] .
+[/EN#92819/people A man] walks on [/EN#92821/scene the sidewalk] by [/EN#92822/other a sign] .
+[/EN#92819/people A man] walks in [/EN#92821/scene a street]

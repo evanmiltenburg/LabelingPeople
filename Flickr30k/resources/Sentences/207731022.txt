@@ -1,0 +1,5 @@
+Looking over [/EN#27257/vehicles/scene the prow of a boat] at [/EN#27260/vehicles/scene another boat] on [/EN#27259/scene a foggy lake] .
+[/EN#27262/other A canoe] in [/EN#0/notvisual the distance] on [/EN#27259/scene a lake] as seen from [/EN#27257/other another canoe] .
+[/EN#27257/other One canoe] heading for [/EN#0/notvisual another] on [/EN#27258/other a foggy riverbank] .
+[/EN#27261/vehicles/scene A view of a boat] from [/EN#27257/vehicles/scene another boat] on [/EN#27259/scene the water] .
+[/EN#27261/vehicles/scene boats] out on [/EN#27259/scene the water] on [/EN#27258/other a foggyday]

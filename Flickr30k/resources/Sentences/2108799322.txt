@@ -1,0 +1,5 @@
+[/EN#29255/animals A mostly black short-haired dog] is running in [/EN#29256/scene a swampy area] with [/EN#29257/bodyparts its tongue] out .
+[/EN#29255/animals A black dog] is running through [/EN#29256/scene a marsh-like area] .
+[/EN#29255/animals A black dog] runs through [/EN#29256/scene a muddy bank] .
+[/EN#29255/animals A dog] running through [/EN#0/notvisual mucky ground] .
+[/EN#29255/animals A black dog] in running in [/EN#29256/scene a field] .

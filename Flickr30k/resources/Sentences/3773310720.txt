@@ -1,0 +1,5 @@
+[/EN#142040/people A man] in [/EN#142044/clothing a sleeveless brown shirt] and [/EN#142043/clothing khaki shorts] sews on [/EN#142041/other a piece of cloth] covering [/EN#142041/other a ramshackle shade structure] .
+[/EN#142040/people Man] in [/EN#142043/clothing shorts] standing by [/EN#142041/scene the water] .
+[/EN#142040/people A man] is working on [/EN#142041/vehicles/scene his wooden boat] .
+[/EN#142040/people A man] in [/EN#142045/scene brown building] [/EN#142041/scene a raft] .
+[/EN#142040/people A man] making [/EN#142041/other a canvas shade] .

@@ -1,0 +1,5 @@
+[/EN#101656/people a surfer] is riding [/EN#101657/scene a wave] through [/EN#101658/scene green colored ocean water] .
+[/EN#101656/people A surfer] rides [/EN#101657/scene a big wave] across [/EN#101658/scene dark green water] .
+[/EN#101656/people The surfer] is coming in from riding [/EN#101657/scene a big wave] .
+[/EN#101656/people a man] in [/EN#101659/clothing a wetsuit] is surfing
+[/EN#101656/people A man] surfing in [/EN#101657/scene a wave]

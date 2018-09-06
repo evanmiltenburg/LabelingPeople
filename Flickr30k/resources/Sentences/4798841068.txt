@@ -1,0 +1,5 @@
+[/EN#203822/people Three people] in [/EN#203831/clothing shorts] , [/EN#203822/other one] in [/EN#203832/clothing a dark green shirt] , [/EN#203828/other one] in [/EN#203833/clothing a white shirt] , and [/EN#203829/other one] in [/EN#203834/clothing a cyan shirt] , walk down [/EN#203835/scene a sidewalk] with [/EN#203824/other a retaining wall] and [/EN#203821/other a sign] in [/EN#0/notvisual the foreground] .
+[/EN#203822/people Three pedestrians] walk beside [/EN#203824/other a short wall] , past [/EN#203821/other a street sign] [/EN#0/notvisual that] is covered by [/EN#203826/other blooming flowers] .
+[/EN#203821/other A blue road sign] is partially concealed by [/EN#203823/other a nearby foliage] .
+[/EN#203821/other A blue road sign] is obscured by [/EN#203823/other a near bye tree] .
+[/EN#203821/other A blue street sign] is covered by [/EN#203823/other tree branches] .

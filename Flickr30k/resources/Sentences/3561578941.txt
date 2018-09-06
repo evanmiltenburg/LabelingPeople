@@ -1,0 +1,5 @@
+[/EN#127768/people A soccer player] numbered [/EN#127767/other 24] , wearing [/EN#127770/clothing a yellow shirt] , [/EN#127771/clothing blue shorts] , and [/EN#127774/clothing blue socks] , takes to [/EN#127769/scene the vibrant green field] .
+[/EN#127772/people Two teams] consisting of [/EN#127779/clothing yellow] with [/EN#127773/clothing blue and red] with [/EN#127778/other white team colors] are on [/EN#127769/scene a sports field] .
+[/EN#127768/people A man] with [/EN#127770/clothing a yellow shirt] and [/EN#127771/clothing blue shorts] is walking off of [/EN#127769/scene a soccer field] .
+[/EN#127767/other Number 24] feels [/EN#0/notvisual it] is [/EN#127776/other his turn] to score [/EN#127777/other the soccer ball] .
+[/EN#127768/people A soccer player] is joining [/EN#127775/people his teammates] on [/EN#127769/scene the field] .

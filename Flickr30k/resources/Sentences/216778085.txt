@@ -1,0 +1,5 @@
+[/EN#32008/people Two workers] in [/EN#32007/clothing hard hats] examine [/EN#32005/other a piece of industrial equipment] in [/EN#32002/scene a tunnel] underground .
+[/EN#32001/people Two men] in [/EN#32007/clothing hard hats] inside [/EN#32004/other a structure look] at [/EN#32005/other a yellow tractor] .
+[/EN#32001/people Two men] stand next to [/EN#32005/other some large machinery] in [/EN#32002/scene a tunnel] .
+[/EN#32001/people Men] working with [/EN#32005/other heavy equipment] in [/EN#32004/other a mine shaft] .
+[/EN#32001/people Two men] observe [/EN#32005/other a yellow drill] in [/EN#32003/scene a mine] .

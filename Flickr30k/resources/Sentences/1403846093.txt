@@ -1,0 +1,5 @@
+[/EN#11434/people A woman] in [/EN#11435/clothing a black dress] with [/EN#11436/other a name tag] stands and [/EN#11441/scene addresses] [/EN#11437/people a group of seated people] .
+[/EN#11434/people Woman] in [/EN#11435/clothing black dress] speaking to [/EN#11437/people attendees] sitting randomly in [/EN#11438/scene a room] .
+[/EN#11437/people A crowd of people] indoors sitting at [/EN#11439/other tables] with [/EN#11440/other name tags] .
+[/EN#11434/people A woman] in [/EN#11435/clothing a black dress] is speaking to [/EN#11437/people a group of people] .
+[/EN#11434/people A lady] in [/EN#11435/clothing a black dress] is talking to [/EN#11437/people a group of people] .

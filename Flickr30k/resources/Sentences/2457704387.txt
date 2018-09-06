@@ -1,0 +1,5 @@
+[/EN#51007/people A band] composed of [/EN#51008/people a man] on [/EN#51009/instruments trumpet] with [/EN#51010/clothing a orange shirt] , [/EN#51011/people drummer] in [/EN#51012/clothing yellow] and [/EN#51013/instruments bass] in [/EN#51014/clothing green] performs for [/EN#51015/people a crowd] .
+[/EN#51007/people A band] plays in front of [/EN#51015/people a crowd] at [/EN#51017/other a Euro Jazz concert] .
+[/EN#51017/other A live jazz concert] with [/EN#51016/other a red jazz banner] .
+[/EN#51007/people A band] is playing at [/EN#51017/other a Euro Jazz festival] .
+[/EN#51007/people A jazz band] playing at [/EN#51017/other a jazz festival] .

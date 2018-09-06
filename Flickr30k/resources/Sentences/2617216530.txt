@@ -1,0 +1,5 @@
+[/EN#61890/people A girl] wearing [/EN#61891/clothing a blue tank top] and [/EN#61899/clothing kahki shorts] has [/EN#61894/bodyparts two tattoos] and has [/EN#61900/clothing no shoes] on , is looking in [/EN#61893/other a toy isle] at [/EN#61896/other transformers] .
+[/EN#61890/people A barefoot woman] with [/EN#61894/bodyparts tattoos] on [/EN#61898/bodyparts her shoulders] shopping in [/EN#61892/scene a grocery store] .
+[/EN#61890/people A barefoot woman] wearing [/EN#61891/clothing a tank top] looking at [/EN#61895/other toys] in [/EN#61893/other an aisle] at [/EN#61892/scene a store] .
+[/EN#61890/people A woman] is looking through [/EN#61897/scene the toy section] in [/EN#61892/scene a store] .
+[/EN#61890/people A shoeless woman] looking at [/EN#61893/other toys] in [/EN#61892/scene a store] .

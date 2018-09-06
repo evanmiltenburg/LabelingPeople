@@ -1,0 +1,5 @@
+[/EN#170025/people A person] dressed in [/EN#170026/clothing a jacket] and [/EN#170027/clothing long pants] walks down [/EN#170028/scene a snow-covered street] in [/EN#170033/scene a small town] .
+[/EN#170025/people A person] walking down [/EN#170034/scene a snowy and well lit street] close to [/EN#170029/scene a house] with [/EN#170030/other Christmas lights] .
+[/EN#170025/people Person] dressed in [/EN#170031/clothing black] walks down [/EN#170028/scene a snowy sidewalk] during [/EN#170035/scene the early evening] .
+[/EN#170025/people Someone] is walking down [/EN#170028/scene a snowy sidewalk] on [/EN#170036/scene a cloudy day] .
+[/EN#170033/scene A small quaint town] [/EN#170032/people all] lit up during [/EN#170037/other the holiday season] .

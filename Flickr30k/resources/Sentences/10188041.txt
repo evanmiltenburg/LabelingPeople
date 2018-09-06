@@ -1,0 +1,5 @@
+[/EN#583/people A man] in [/EN#584/clothing a black coat] walks past [/EN#585/other a red spaceship] with [/EN#587/other a parking ticket] stuck to [/EN#589/other its window] .
+[/EN#583/people A man] is standing in front of [/EN#585/other a small red object] [/EN#0/notvisual that] looks like [/EN#585/other a plane] .
+[/EN#583/people A man] wearing [/EN#584/clothing a black jacket] is walking towards [/EN#586/scene the street] .
+[/EN#583/people A man] in [/EN#584/clothing a black jacket] is moving towards [/EN#586/scene a street] .
+[/EN#583/people Man] in [/EN#584/clothing black coat] examining [/EN#590/bodyparts airplane nose] .

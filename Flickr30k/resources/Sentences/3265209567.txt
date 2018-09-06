@@ -1,0 +1,5 @@
+[/EN#105573/animals A dog] is running past [/EN#105574/animals a farm animal] nearby [/EN#105577/scene a fence] diving [/EN#105575/scene tall and short grass] .
+[/EN#105573/animals The brown and white dog] ran through [/EN#105575/scene the green grass] .
+[/EN#105573/animals A dog] running along beside [/EN#105574/animals a cow] in [/EN#105575/scene a grassy field] .
+[/EN#105573/animals A brown and white dog] walks behind [/EN#105574/animals a brown cow] .
+[/EN#105573/animals Dog] and [/EN#105574/animals cow] in [/EN#105575/scene field] .

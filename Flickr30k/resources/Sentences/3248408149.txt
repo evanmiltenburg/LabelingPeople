@@ -1,0 +1,5 @@
+[/EN#104208/animals A brown and white dog] standing next to [/EN#104210/animals a smaller brown and white dog] in front of [/EN#104209/scene a fence] .
+[/EN#104208/animals A brown and white dog] stands on [/EN#104211/other the sand] to look at [/EN#104210/animals another dog] .
+[/EN#104208/animals A large dog] plays in [/EN#104211/other the sand] with [/EN#104210/animals a small dog] .
+[/EN#104213/animals Two dogs] playing in [/EN#104211/other the sand] next to [/EN#104209/scene a fence] .
+[/EN#104212/scene Collie dog digs] in [/EN#104211/other sand] .

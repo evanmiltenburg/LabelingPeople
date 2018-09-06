@@ -1,0 +1,5 @@
+[/EN#128711/people A man] is standing in [/EN#0/notvisual what] appears to be [/EN#128720/scene a parking lot] and shaving [/EN#128712/bodyparts his face] , while [/EN#128713/animals his dog] looks at [/EN#0/notvisual the ground] near [/EN#128714/bodyparts his feet] .
+[/EN#128711/people A shirtless soldier] is shaving [/EN#128712/bodyparts his face] out in [/EN#128720/scene the street] while [/EN#128713/animals his dog] drinks [/EN#128715/scene some water] .
+[/EN#128711/people A man] wearing [/EN#128716/clothing khaki pants] and [/EN#128717/clothing no shirt] is shaving [/EN#128712/bodyparts his face] near [/EN#128718/other a boxcar] .
+[/EN#128711/people A shirtless soldier] is shaving [/EN#128721/scene outdoors] with [/EN#128713/animals a small puppy] .
+[/EN#128711/other A solider] shaving [/EN#128722/scene outside] while [/EN#128713/animals a dog] is at [/EN#0/notvisual his side] .

@@ -1,0 +1,5 @@
+[/EN#55465/people A man] in [/EN#55466/clothing a floral shirt] unbuttoned over [/EN#55472/clothing a white t-shirt] stands in [/EN#55467/scene the street] in front of [/EN#55469/scene a building] and [/EN#55471/other a telephone pole] .
+[/EN#55465/people A man] in [/EN#55466/clothing a colorful shirt] and [/EN#55468/clothing sunglasses] stares off into [/EN#0/notvisual the distance] .
+[/EN#55465/people A man] in [/EN#55468/clothing black sunglasses] is standing in [/EN#55467/scene a road] looking to [/EN#0/notvisual the side] .
+[/EN#55465/people A gentleman] overlooking [/EN#55470/other a neighborhood situation] .
+[/EN#55465/people A man] stands in [/EN#55467/scene a run-down looking area] .

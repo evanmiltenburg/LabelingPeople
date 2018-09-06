@@ -1,0 +1,5 @@
+[/EN#170055/people A man] squints into [/EN#0/notvisual the camera] as [/EN#0/notvisual he] stands on [/EN#170056/scene a sunny beach] and holds [/EN#170057/other a small orange plastic bucket] atop [/EN#170058/bodyparts his head] .
+[/EN#170055/people Man] with [/EN#170059/bodyparts a shaved head] and [/EN#170060/bodyparts beard] poses on [/EN#170056/scene a expansive beach] with [/EN#170057/other an orange sand bucket] on [/EN#170058/bodyparts his head] .
+[/EN#170055/people A man] standing on [/EN#170056/scene the beach] , with [/EN#170057/other a red bucket] on [/EN#170058/bodyparts his head] .
+[/EN#170055/people A man] stands on [/EN#170056/scene the beach] with [/EN#170057/other an orange pail] on [/EN#170058/bodyparts his head] .
+[/EN#170055/people A man] is standing on [/EN#170056/scene the beach] with [/EN#170057/other a bucket] on [/EN#170058/bodyparts his head] .

@@ -1,0 +1,5 @@
+[/EN#66004/people A man] wearing [/EN#66006/clothing a long blue robe] and [/EN#66010/clothing black pants] crouches [/EN#66009/clothing beside two travel bags] to play [/EN#66005/instruments a black and gold studded stringed instrument] on [/EN#66008/scene a cobblestone sidewalk] .
+[/EN#66004/people Older man] playing [/EN#66005/instruments an odd guitar] like [/EN#66005/instruments instrument] in [/EN#0/notvisual what] appears to be [/EN#66007/scene a park or open area] .
+[/EN#66004/people A man] with [/EN#66011/bodyparts a long mustache] is playing [/EN#66005/instruments an instrument] outdoors .
+[/EN#66004/people A man] sitting in [/EN#66007/scene a park] is playing [/EN#66005/instruments a musical instrument] .
+[/EN#66004/people A man] in [/EN#66006/clothing blue] plays [/EN#66005/instruments a stringed instrument] .

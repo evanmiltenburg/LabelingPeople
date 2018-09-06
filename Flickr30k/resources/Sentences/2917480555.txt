@@ -1,0 +1,5 @@
+[/EN#81311/people A young man] with [/EN#81314/bodyparts long brown hair] is standing outside [/EN#81316/scene a yellow house] and looking at [/EN#81313/other the pages of a book] .
+[/EN#81311/people A man] with [/EN#81314/bodyparts long brown hair] and [/EN#81312/clothing a black leather jacket] is reading [/EN#81313/other a map] .
+[/EN#81311/people A man] with [/EN#81314/bodyparts long brown hair] is reading [/EN#81313/other a map] .
+[/EN#81311/people A man] in [/EN#81312/clothing a leather jacket] is reading [/EN#81313/other a book] .
+[/EN#81311/people A person] with [/EN#81314/bodyparts long hair] reading [/EN#81313/other something] .

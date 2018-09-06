@@ -1,0 +1,5 @@
+[/EN#31372/people A man] in [/EN#31374/clothing a brown jacket] holding [/EN#31380/clothing a red bag] is speaking to [/EN#31378/people another man] with [/EN#31385/bodyparts a white beard] and [/EN#31383/clothing green cap] .
+[/EN#31372/people A man] on [/EN#31374/clothing a brown coat] is talking to [/EN#31372/people a man] with [/EN#31382/clothing black pants] and [/EN#31372/people a man] in [/EN#31381/clothing a suit] .
+[/EN#31373/people Two men] are having [/EN#31376/other a conversation] in [/EN#31375/scene a cathedral or mosque] .
+[/EN#31377/people People] inside of [/EN#31375/scene a building] , [/EN#31384/other one] is taking [/EN#31379/other a photo] .
+[/EN#31373/people Two elderly men] having [/EN#31376/other a conversation] .

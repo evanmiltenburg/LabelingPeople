@@ -1,0 +1,5 @@
+In [/EN#216728/scene a laundry room] , [/EN#216725/people a man] with [/EN#216731/bodyparts a shaved head] is looking intently in [/EN#216726/clothing his laundry bag] .
+[/EN#216725/people Man] in [/EN#216727/clothing yellow shirt] looking into [/EN#216726/clothing his blue laundry bag] , next to [/EN#216729/people a washer] .
+[/EN#216725/people A man] in [/EN#216727/clothing a yellow shirt] looks through [/EN#216726/clothing a blue bag] .
+[/EN#0/notvisual This] is [/EN#216725/people a man] [/EN#0/notvisual that] is about to do [/EN#216730/scene his laundry] .
+[/EN#216725/people A man] in [/EN#216727/clothing a yellow shirt] looks in [/EN#216726/clothing a blue bag] .

@@ -1,0 +1,5 @@
+[/EN#268305/people A man] wearing [/EN#268311/clothing a blue shirt] is dribbling [/EN#268308/other a soccer ball] while [/EN#268306/people a man] in [/EN#268312/clothing a white shirt] is trying to take [/EN#0/notvisual it] .
+[/EN#268306/people Two men] are competing for [/EN#268308/other the ball] in [/EN#268307/other a game of soccer] .
+[/EN#268306/people Two soccer players] going after [/EN#268308/other the soccer ball] .
+[/EN#268309/other Today] is [/EN#268313/scene a great day] for [/EN#268307/other a soccer game] .
+[/EN#268305/people A soccer player] about to kick [/EN#268308/other the ball] .

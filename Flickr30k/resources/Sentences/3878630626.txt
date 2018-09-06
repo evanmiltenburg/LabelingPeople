@@ -1,0 +1,5 @@
+[/EN#146721/people Man] in [/EN#146728/clothing black pants] , [/EN#146725/clothing white shirt] playing [/EN#146727/other a flue] as [/EN#146723/people a lady] in [/EN#146724/clothing pink] dances
+[/EN#146721/people A man] in [/EN#146725/clothing a white shirt] is playing [/EN#146722/instruments the flute] to [/EN#146723/people someone] in [/EN#146724/clothing a red skirt] .
+[/EN#146721/people A man] is playing [/EN#146722/instruments the flute] while [/EN#146723/people a woman] dances along .
+[/EN#146721/other Two men one] playing [/EN#146722/instruments a flute] and [/EN#146729/other one] dancing .
+[/EN#146721/people A man] in [/EN#146725/clothing a white shirt] is playing [/EN#146722/instruments a flute] .

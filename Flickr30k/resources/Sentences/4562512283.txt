@@ -1,0 +1,5 @@
+[/EN#178693/people man] standing at [/EN#178695/other a counter] in [/EN#178694/scene a convenience store] with [/EN#178692/people a woman] on [/EN#178705/other the other side of the counter] wearing [/EN#178700/clothing a white shirt] looking at [/EN#0/notvisual him] very expectantly .
+[/EN#178693/people A man] in [/EN#178699/clothing a striped t-shirt] and [/EN#178704/clothing khakis] stands at [/EN#178695/scene the counter of a convenience store] while [/EN#178692/people the female attendant] faces [/EN#0/notvisual him] .
+[/EN#178693/people A man] touches [/EN#178702/clothing his back pocket] as [/EN#178692/people a blond woman] behind [/EN#178695/scene the counter of a convenience store] looks at [/EN#0/notvisual him] .
+[/EN#178692/people A clerk] in [/EN#178694/scene a convenience store] asks [/EN#178693/people a customer] buying [/EN#178697/other alcohol] for [/EN#178701/other his age] and [/EN#178703/other identification] .
+[/EN#178693/people A guy] ready to make [/EN#178698/other a purchase] at [/EN#178694/scene a small shop] .

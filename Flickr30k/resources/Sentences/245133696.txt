@@ -1,0 +1,5 @@
+[/EN#50655/people A man] in [/EN#50657/clothing a black shirt] and [/EN#50666/clothing jeans] stands at [/EN#50663/other a microphone] holding [/EN#50659/instruments a guitar] .
+[/EN#50656/people Two young men] and [/EN#50660/people a woman] play [/EN#50659/instruments guitars] and [/EN#50662/instruments a drum] in [/EN#50658/scene a dimly-lit room] .
+[/EN#50656/people Two men] with [/EN#50665/instruments guitars] and [/EN#50660/people a woman] are performing [/EN#50664/other a song live] .
+[/EN#50655/people A man] in [/EN#50657/clothing a black shirt] is holding [/EN#50659/instruments a guitar] .
+[/EN#50661/people A band] plays in [/EN#50658/scene a windowless venue] .

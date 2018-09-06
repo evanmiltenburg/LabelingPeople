@@ -1,0 +1,5 @@
+[/EN#240945/people An older man] sits at [/EN#240946/other a clean , shiny desk] and faces [/EN#240948/other his computer screen] , [/EN#240955/bodyparts his hands] are both on [/EN#240953/other the keyboard] and [/EN#0/notvisual he] is intensely focused .
+[/EN#240945/people An elderly man] in [/EN#240950/clothing a white shirt] looking at [/EN#240949/other a webpage] on [/EN#240947/other his computer] , in [/EN#240951/scene his office] .
+[/EN#240945/people balding man] faces [/EN#240947/other computer] in [/EN#240951/scene his office] as [/EN#0/notvisual he] types using [/EN#240948/other microsoft word] .
+[/EN#240945/people A man] wearing [/EN#240950/clothing a white shirt] is sitting at [/EN#240946/other a desk] typing on [/EN#240947/other a computer] .
+[/EN#240945/people A balding man] in [/EN#240950/clothing a white shirt] sits at [/EN#240946/other a wooden desk] using [/EN#240947/other a computer] .

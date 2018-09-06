@@ -1,0 +1,5 @@
+[/EN#60202/people A smiling boy] in [/EN#60205/clothing an orange shirt] with [/EN#60204/clothing a safari hat] sits at [/EN#60206/scene the playground] , while [/EN#60208/people a boy] in [/EN#60203/clothing a blue shirt] looks on .
+[/EN#60202/people A boy] with [/EN#60205/clothing an orange shirt] smiles , while [/EN#60208/people a boy] in [/EN#60203/clothing a blue shirt] looks on .
+[/EN#60202/people Boy] in [/EN#60204/clothing tan hat] laughs while sitting near [/EN#60211/other playground equipment] .
+[/EN#60202/people A little boy] in [/EN#60204/clothing a tan hat] on [/EN#60206/scene the ground of a play area] .
+[/EN#60207/people Two boys] , [/EN#60210/other one] wearing [/EN#60204/clothing a hat] , in [/EN#60206/scene a playground] .

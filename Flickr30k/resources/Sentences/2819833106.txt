@@ -1,0 +1,5 @@
+[/EN#74752/people A woman] in [/EN#74754/clothing a hospital gown] sitting next to [/EN#74753/people a woman] [/EN#0/notvisual who] is writing on [/EN#74758/other a pad] .
+[/EN#74752/people An elderly woman] in [/EN#74754/clothing a hospital gown] and [/EN#74753/people a young woman] writing with [/EN#74759/other a pen] .
+[/EN#74752/people A patient] sits with [/EN#74753/people a woman] in [/EN#74757/clothing a green shirt] .
+[/EN#74753/people A woman] writes [/EN#74755/other a note] for [/EN#74752/people an older woman] .
+[/EN#74752/people The patient] is giving [/EN#74755/other the list] to write .

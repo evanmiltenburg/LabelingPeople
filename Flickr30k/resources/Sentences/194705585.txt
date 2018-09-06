@@ -1,0 +1,5 @@
+[/EN#23841/people Five construction men] working on building [/EN#23843/other the roof frame] to [/EN#23842/scene a new building] .
+[/EN#23844/other Construction workers hammer nails] on [/EN#23843/scene the unfinished roof of a house] .
+[/EN#23841/people Construction workers] are working on [/EN#23842/scene a building] .
+[/EN#23841/people constructions workers] are building [/EN#23842/scene a house] .
+[/EN#23841/people Three men] are building [/EN#23843/scene a roof] .

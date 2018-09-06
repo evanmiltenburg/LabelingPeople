@@ -1,0 +1,5 @@
+[/EN#209287/people A young man] with [/EN#209290/clothing glasses] is sitting on [/EN#209292/other a marble bench] reading [/EN#209288/other a book] by [/EN#0/notvisual himself] .
+[/EN#209287/people A man] wearing [/EN#209289/clothing an orange shirt] and [/EN#209290/clothing glasses] is sitting outside reading [/EN#209288/other a book] .
+[/EN#209287/people A man] sitting and reading in [/EN#209293/scene a busy public area] .
+[/EN#209287/people A man] with [/EN#209290/clothing glasses] is reading [/EN#209288/other a book] in [/EN#209291/other a mall] .
+[/EN#209287/people A man] in [/EN#209289/clothing a yellow shirt] is reading [/EN#209288/other a book] .

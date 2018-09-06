@@ -1,0 +1,5 @@
+[/EN#162575/people A man] in [/EN#162576/clothing a plaid shirt] is taking out [/EN#162578/other money] from [/EN#162577/other an ATM] .
+[/EN#162575/people A man] in [/EN#162576/clothing a flannel shirt] is getting [/EN#162578/other money] from [/EN#162577/other an ATM] .
+[/EN#162575/people A man] in [/EN#162576/clothing a plaid shirt] receives [/EN#162578/other money] from [/EN#162577/other an ATM] .
+[/EN#162575/people A guy] getting [/EN#162578/other money] out of [/EN#162577/other an ATM machine] .
+[/EN#162575/people A man] withdraws [/EN#162578/other money] from [/EN#162577/other an ATM] .

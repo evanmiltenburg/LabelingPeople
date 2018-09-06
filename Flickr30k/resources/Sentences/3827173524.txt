@@ -1,0 +1,5 @@
+[/EN#144527/people A young woman] in [/EN#144528/clothing a hat] with [/EN#144531/other a big pink bow] stands alone on [/EN#144529/scene the street] next to [/EN#144530/other a table] with [/EN#144536/other fruits] and [/EN#144535/other fruit juice] .
+[/EN#144527/people Woman] wearing [/EN#144528/clothing a hat] [/EN#0/notvisual who] is standing by [/EN#144530/other a table] by [/EN#144529/scene a brick street] facing away from [/EN#0/notvisual the camera] .
+[/EN#144527/people A woman] in [/EN#144528/clothing a big hat] stands next to [/EN#144530/other a table] with [/EN#144532/other a red cloth] .
+[/EN#144527/people A woman] in [/EN#144528/clothing a white hat] is standing on [/EN#144534/scene a sidewalk] .
+[/EN#144527/people A woman] is wearing [/EN#144528/clothing a sun cap] by [/EN#144530/scene a red stand] .

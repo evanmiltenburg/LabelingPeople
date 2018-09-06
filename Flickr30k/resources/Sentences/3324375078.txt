@@ -1,0 +1,5 @@
+[/EN#109472/animals Three dogs] , [/EN#109476/people one black and two blond] , run in [/EN#109473/scene the snow] .
+[/EN#109472/animals Three large dogs] enjoy [/EN#109474/other a romp] in [/EN#109473/scene the snow] .
+[/EN#109475/other three dogs race] through [/EN#109473/scene the snow]
+[/EN#109472/animals Three dogs] are in [/EN#109473/scene the snow] .
+[/EN#109472/animals Dogs] playing in [/EN#109473/scene the snow]

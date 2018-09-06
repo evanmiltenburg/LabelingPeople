@@ -1,0 +1,5 @@
+[/EN#156793/people A man] in [/EN#156794/clothing apron] and [/EN#156799/clothing latex glove] cleaning [/EN#156795/other the desk tables] in [/EN#156797/scene a theater type auditorium] .
+[/EN#156793/people A man] in [/EN#156794/clothing a blue-checkered apron] is using [/EN#156798/other cleaning products] to sanitize [/EN#156796/scene a surface] .
+[/EN#156793/people A balding man] in [/EN#156794/clothing a blue apron] is cleaning [/EN#156795/other a tabletop] .
+[/EN#156793/people A man] in [/EN#156794/clothing a gingham apron] is cleaning [/EN#156795/other desks] .
+[/EN#156793/people A man] in [/EN#156794/clothing a checkered apron] cleans [/EN#156795/other a desk] .

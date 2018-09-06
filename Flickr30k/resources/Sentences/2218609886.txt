@@ -1,0 +1,5 @@
+[/EN#34867/people A man] wearing [/EN#34868/clothing a dark blue hat] sits on [/EN#0/notvisual the ground] and leans against [/EN#34871/scene a building] .
+[/EN#34867/people Man] with [/EN#34868/clothing black hat] , [/EN#34874/clothing coat] , and [/EN#34875/clothing pants] sitting next to [/EN#34869/scene the door of a building] .
+[/EN#34867/people The man] in [/EN#34868/clothing the black hat] is sitting on [/EN#34870/scene the floor] beside [/EN#34869/other the green door] .
+[/EN#34867/people A man] is sitting on [/EN#34870/scene the floor] outside [/EN#34869/other a door] and [/EN#34876/bodyparts his head] on [/EN#34877/bodyparts his chin] .
+[/EN#34867/people A man] sits against [/EN#34873/other a yellow wall] wearing [/EN#34872/clothing all black] .

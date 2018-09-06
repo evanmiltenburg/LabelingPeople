@@ -1,0 +1,5 @@
+[/EN#205769/people Two people] sit at [/EN#205772/people the table of a caricature artist] in [/EN#205774/other a mall] .
+[/EN#205769/people A couple] visits [/EN#205775/people an artist] at [/EN#205773/other her display table] .
+[/EN#205770/people A group of people] sitting at [/EN#205773/other a table] together .
+[/EN#205770/people Three people] are sitting at [/EN#205771/other a table] together .
+[/EN#205770/people 3 people] sitting at [/EN#205771/other a table] talking

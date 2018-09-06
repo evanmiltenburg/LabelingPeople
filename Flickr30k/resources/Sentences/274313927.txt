@@ -1,0 +1,5 @@
+[/EN#69787/animals A black Labrador retriever] in [/EN#69788/scene a grassy field] returns with [/EN#69789/other a white nubby cylinder] in [/EN#69790/bodyparts its mouth] .
+[/EN#69787/animals A black dog] standing in [/EN#69788/scene some grass] holding [/EN#69789/other a white plastic item] in [/EN#69790/bodyparts its mouth] .
+[/EN#69787/animals A black dog] is carrying [/EN#69789/other a white dog toy] through [/EN#69788/scene a field of high grass] .
+[/EN#69787/animals A black dog] with [/EN#69789/other a white toy] in [/EN#69790/bodyparts his mouth] in [/EN#69788/scene a field of grass] .
+[/EN#69787/animals A black dog] is holding [/EN#69789/other a white object] in [/EN#69790/bodyparts its teeth] .

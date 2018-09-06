@@ -1,0 +1,5 @@
+[/EN#64015/people Man] in [/EN#64016/clothing a camel colored jacket] [/EN#0/notvisual that] is standing looking at [/EN#64017/scene the stone walkway] .
+[/EN#64015/people A man] in [/EN#64016/clothing a brown jacket] is standing and looking at [/EN#64018/other plants] in [/EN#64017/scene a garden] .
+[/EN#64015/people An elderly man] in [/EN#64016/clothing a tan jacket] is looking down at [/EN#64018/other a plant] .
+[/EN#64015/people A man] in [/EN#64016/clothing a tan suit jacket] looks at [/EN#64018/other a plant] .
+[/EN#64015/people The old person] is watching down .

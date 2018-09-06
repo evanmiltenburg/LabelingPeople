@@ -1,0 +1,5 @@
+[/EN#283327/people A man] in [/EN#283336/clothing a baseball cap] is standing on [/EN#283330/scene a rocky beach] at [/EN#283332/scene sunset] with [/EN#283328/other a fishing pole] in [/EN#283337/bodyparts his hands] and [/EN#283333/other the sun] setting behind [/EN#0/notvisual him] .
+[/EN#283327/people A fisherman] is standing on [/EN#283331/other some rocks] by [/EN#283335/scene the sea] , illuminated by [/EN#283333/other the sun] , [/EN#0/notvisual which] is near [/EN#283332/scene the horizon] .
+[/EN#283327/people A fisherman] casts [/EN#283329/other his line] from [/EN#283330/scene a rocky bank] as [/EN#283333/other the sun] begins to lift above [/EN#283332/scene the horizon] .
+[/EN#283327/people A man] fishing on [/EN#283331/other some large rocks] while [/EN#283333/other the sun] is low in [/EN#283332/scene the sky] .
+[/EN#283327/people A man] is fishing at [/EN#283334/other dusk] off of [/EN#283330/scene a rocky pier] .

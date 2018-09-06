@@ -1,0 +1,5 @@
+[/EN#163942/people A person] in [/EN#163951/clothing a black coat] playing [/EN#163947/other Frisbee] with [/EN#163941/animals a dog] near [/EN#163949/scene a wooded area] .
+[/EN#163942/people The dog owner] attempts to retrieve [/EN#163947/other the Frisbee] from [/EN#163941/animals her pet] .
+[/EN#163941/animals A dog] jumps [/EN#163943/bodyparts a man 's leg] to take [/EN#163947/other a Frisbee] from [/EN#163952/bodyparts his hand] .
+[/EN#163941/animals a dog] jumps for [/EN#163947/other the Frisbee] [/EN#163942/people the girl] is holding .
+[/EN#163942/people A woman] and [/EN#163941/animals a dog] play with [/EN#163947/other a disk] in [/EN#163948/scene a field] .

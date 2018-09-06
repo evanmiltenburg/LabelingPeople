@@ -1,0 +1,5 @@
+[/EN#29771/people A man] walking on [/EN#0/notvisual a side] walking passing [/EN#29772/scene the space] between [/EN#29775/scene two buildings] .
+[/EN#29771/people A man] wearing [/EN#29774/clothing black] walking past [/EN#29776/other an alleyway] between [/EN#29775/scene two buildings] .
+[/EN#29771/people A person] in [/EN#29774/clothing black] walking on [/EN#29773/scene the sidewalk] between [/EN#29775/scene two buildings] .
+[/EN#29771/people a man] walking in [/EN#29778/scene the side street] with [/EN#29779/bodyparts his head] down .
+[/EN#29771/people A man] walks on [/EN#29773/scene the sidewalk] between [/EN#29775/scene two buildings] .

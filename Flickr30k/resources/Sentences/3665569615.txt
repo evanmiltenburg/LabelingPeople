@@ -1,0 +1,5 @@
+[/EN#135243/people A baseball pitcher] wearing [/EN#135246/clothing a white and red uniform] caught in [/EN#135245/other midpitch of the ball] .
+[/EN#135243/people The man] in [/EN#135246/clothing the white and red uniform] gets ready to throw [/EN#135245/other the baseball] .
+[/EN#0/notvisual There] is [/EN#135243/people a man] pitching [/EN#135244/other a baseball] and has [/EN#135247/clothing a glove] [/EN#135249/bodyparts his left hand] .
+[/EN#135243/people A profession baseball player] pitches [/EN#135244/other a ball] in [/EN#135245/other a baseball game] .
+[/EN#135243/people a baseball player] in [/EN#135246/clothing white uniform] throwing [/EN#135245/other baseball]

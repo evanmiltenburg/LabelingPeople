@@ -1,0 +1,5 @@
+[/EN#225574/people A woman] wearing [/EN#225579/clothing a tan skirt] is standing in front of [/EN#225575/scene a very big building] .
+[/EN#225573/people A man] standing in [/EN#225576/scene the street] enjoying [/EN#225578/scene the architecture of a building] .
+[/EN#225574/people A woman] stands [/EN#225577/other outside of a church door] alone .
+[/EN#225573/people Women] looking at [/EN#225575/scene a arched building] .
+[/EN#225573/people A woman] is looking at [/EN#225575/scene a building] .

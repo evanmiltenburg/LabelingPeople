@@ -1,0 +1,5 @@
+[/EN#114615/people A person] in [/EN#114617/clothing a red and tan coat] is snowboarding off [/EN#114616/scene a hill of snow] .
+[/EN#114615/people Man] on [/EN#114618/other a snowboard] sliding in [/EN#0/notvisual the air] down [/EN#114616/scene a snow covered hill] .
+[/EN#114615/people a snowboarder] in [/EN#114617/clothing an orange jacket] is airborne on [/EN#114618/other a snowboard] .
+[/EN#114615/people A snowboarder] is jumping over [/EN#114616/scene a snowy hill]
+[/EN#114615/people A man] is snowboarding down [/EN#114616/scene a snowy hill] .

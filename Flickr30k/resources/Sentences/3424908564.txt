@@ -1,0 +1,5 @@
+[/EN#117196/people A person] with [/EN#117202/bodyparts red-hair] and [/EN#117199/clothing a black shirt] is standing outside , talking and gesturing with [/EN#117204/bodyparts hands] .
+[/EN#117196/people A woman] with [/EN#117202/bodyparts red-hair] and wearing [/EN#117199/clothing a black tank top] and [/EN#117205/clothing short jeans shorts] appears to be yelling .
+[/EN#117196/people A woman] with [/EN#117202/bodyparts red-hair] is talking to [/EN#117197/people a man] in [/EN#117200/clothing a gray hoodie] .
+[/EN#117197/people The young man] is wearing [/EN#117203/clothing a shoulder bag] and [/EN#117200/clothing a gray jacket] .
+[/EN#117196/people A lady] with [/EN#117202/bodyparts a short and red-hair] yelling at [/EN#117197/people a person] .

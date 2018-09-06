@@ -1,0 +1,5 @@
+[/EN#25073/people A boy] wearing [/EN#25074/clothing a Steve Nash shirt] dribbles [/EN#25075/other a basketball] on [/EN#25077/other an indoor court] .
+[/EN#25073/people A child] in [/EN#25074/clothing a gray t-shirt] is bouncing [/EN#25075/other a basketball] on [/EN#25076/scene a basketball court] .
+[/EN#25073/people A boy] dribbles [/EN#25075/other a basketball] in [/EN#25076/scene the gymnasium] .
+[/EN#25073/people One little boy] dribbles [/EN#25075/other his basketball] .
+[/EN#25073/people A boy] dribbling [/EN#25075/other a basketball] in [/EN#25076/scene a gym] .

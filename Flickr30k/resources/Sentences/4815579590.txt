@@ -1,0 +1,5 @@
+Riding on [/EN#206334/scene the road] beside [/EN#206335/scene a forest] , [/EN#206329/people a person] hauls fallen [/EN#206332/other tree branches] in [/EN#206333/vehicles a cart] [/EN#0/notvisual that] is attached to [/EN#206331/vehicles his bicycle] .
+[/EN#206329/people A man] on [/EN#206331/vehicles a bicycle] is pulling [/EN#206333/vehicles a cart] full of [/EN#206332/other sticks] and [/EN#206332/other branches] down [/EN#206334/scene a road] .
+[/EN#206329/people A man] riding [/EN#206331/vehicles a bike] down [/EN#206334/scene the road] pulling [/EN#206332/other a big bundle of sticks] behind [/EN#0/notvisual him] .
+[/EN#206329/people A hard working person] trying to clean up [/EN#206336/other the woods] .
+[/EN#206329/people A person] on [/EN#206331/vehicles a bicycle] pulls [/EN#206333/vehicles a cart] full of [/EN#206332/other sticks] .

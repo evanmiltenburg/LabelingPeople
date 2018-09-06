@@ -1,0 +1,5 @@
+[/EN#79483/people A cyclist] wearing [/EN#79485/clothing a black helmet] is riding by [/EN#79489/other some black vans] .
+[/EN#79483/people A bicycler] is riding [/EN#79484/vehicles a bike] at [/EN#79486/scene a racing event] .
+[/EN#79483/people Man] wearing [/EN#79485/clothing helmet] and [/EN#79488/clothing racing gear] on [/EN#79484/vehicles a bicycle]
+[/EN#79483/people A person] on [/EN#79484/vehicles a bicycle] goes down [/EN#79487/scene the street] .
+[/EN#79484/vehicles Funky bicycle] being raced

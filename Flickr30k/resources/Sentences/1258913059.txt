@@ -1,0 +1,5 @@
+[/EN#6521/people Three people] sit at [/EN#6522/other an outdoor table] in front of [/EN#6524/scene a building] painted like [/EN#6523/other the Union Jack] .
+[/EN#6521/people Three people] sit at [/EN#6522/other a picnic table] outside of [/EN#6524/scene a building] painted like [/EN#6523/other a union jack] .
+[/EN#6521/people Three people] are sitting at [/EN#6522/other an outside picnic bench] with [/EN#6526/clothing an umbrella] .
+[/EN#6521/people A couple of people] sit outdoors at [/EN#6522/other a table] with [/EN#6526/clothing an umbrella] and talk .
+[/EN#6521/people Three people] sit at [/EN#6525/other an outdoor cafe] .

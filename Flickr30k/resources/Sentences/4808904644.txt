@@ -1,0 +1,5 @@
+[/EN#205262/people A woman] in [/EN#205265/clothing a white shirt] and [/EN#205266/clothing shorts] walks in front of [/EN#205263/scene a labeled parking garage] with [/EN#205264/scene one entrance] closed .
+[/EN#205262/people A woman] is walking in front of [/EN#205263/scene a parking garage] .
+[/EN#205262/people A young girl] is walking past [/EN#205263/scene a parking garage] .
+[/EN#205262/people A girl] is walking by [/EN#205263/scene a parking garage] .
+[/EN#205262/people A woman] leaving [/EN#205263/scene a parking garage] .

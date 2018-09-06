@@ -1,0 +1,5 @@
+[/EN#146183/people A man] with [/EN#146190/clothing sunglasses] and [/EN#146183/people a man] in [/EN#146191/clothing a chartreuse shirt] with [/EN#146192/clothing a beige jacket] sit at [/EN#146187/other a table] .
+[/EN#146184/people Two men] , [/EN#146184/other one] holding [/EN#146185/other a cigarette] , sitting at [/EN#146187/other a table] [/EN#146193/scene outdoors] on [/EN#146194/scene the street] .
+[/EN#146184/people Two men] sitting at [/EN#146187/other a table] smoking with [/EN#146188/other a creepy picture] in [/EN#0/notvisual the background] .
+[/EN#146183/people One man] smokes [/EN#146185/other a cigarette] while [/EN#146183/people a friend] sits at [/EN#146187/other the table] with [/EN#0/notvisual him] .
+[/EN#146184/people Two men] sitting and smoking at [/EN#146187/other a table] .

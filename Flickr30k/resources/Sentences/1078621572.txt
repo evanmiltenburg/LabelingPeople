@@ -1,0 +1,5 @@
+[/EN#1859/people A large group of people] traveling down [/EN#1862/scene a countryside road] in [/EN#1864/vehicles the back of a small pickup truck] while [/EN#1863/people one person] is walking along side [/EN#1860/vehicles the truck] .
+[/EN#1859/people People] cram together in [/EN#1864/vehicles the back of a truck] [/EN#0/notvisual that] is heading through [/EN#1861/scene green rolling hills] while passing [/EN#1863/people a pedestrian] along [/EN#1862/scene the way] .
+[/EN#1860/vehicles A rickety old truck] , stuffed to overflowing with [/EN#1859/people men] , is traveling down [/EN#1862/scene a country road] on [/EN#0/notvisual the left hand side] .
+[/EN#1859/people A group of people] riding in [/EN#1864/vehicles the back of a truck] , down [/EN#1862/scene the road] , in [/EN#1861/scene a country area] .
+[/EN#1859/people Many men] on [/EN#1865/other the back of a pick] [/EN#1864/vehicles up truck] going down [/EN#1862/scene a road] .

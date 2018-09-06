@@ -1,0 +1,5 @@
+[/EN#22554/people A woman] takes [/EN#0/notvisual a picture] of [/EN#22555/people a baby] wearing [/EN#22556/clothing a pink hat] while [/EN#22557/people a man] carries [/EN#0/notvisual her] .
+[/EN#22557/people A man] is holding [/EN#22555/people his baby] while [/EN#22554/people a woman] takes [/EN#0/notvisual a picture] of [/EN#22555/people the baby] .
+[/EN#22555/people A baby] with [/EN#22556/clothing a pink hat] , held by [/EN#22557/people a man] in [/EN#22558/clothing red] and [/EN#22554/people a woman] in [/EN#22559/clothing pink] .
+[/EN#22554/people A woman] takes [/EN#0/notvisual a photo] of [/EN#22555/people a baby] being held by [/EN#22557/people a man] .
+[/EN#22554/people Woman] is taking [/EN#0/notvisual a picture] of [/EN#22555/people a baby] in [/EN#22556/clothing a pink hat] .

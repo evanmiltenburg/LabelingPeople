@@ -1,0 +1,5 @@
+[/EN#88659/people Two men] wearing [/EN#88660/clothing dark pants] and [/EN#88661/clothing red shirts] are leaping [/EN#88665/other in-synch] in front of [/EN#88664/scene a white building] .
+[/EN#88659/people Two men] in [/EN#88661/clothing red shirts] appear to be walking on [/EN#88664/scene the exterior walls of a decorative building] .
+[/EN#88659/people Two men] in [/EN#88661/clothing red shirts] walking on [/EN#88664/scene the walls of a white building] .
+[/EN#88659/people Two men] holding [/EN#88662/bodyparts their arms] out from [/EN#88663/bodyparts their bodies] .
+[/EN#88659/people Two guys] running along [/EN#88666/other a wall] .

@@ -1,0 +1,5 @@
+[/EN#72848/people A boy] is jumping over [/EN#72849/scene shallow water] near [/EN#72850/other some large rocks] .
+[/EN#72848/people A young boy] jumps for [/EN#72852/other joy] in front of [/EN#72850/other a rock formation] .
+[/EN#72848/people A little kid] jumps up into [/EN#0/notvisual the air] above [/EN#72849/scene the ocean] .
+[/EN#72848/people A child] jumps in [/EN#0/notvisual the air] over [/EN#72851/scene the watery beach] .
+[/EN#72848/people A child] jumping in [/EN#0/notvisual the air] on [/EN#72851/scene the beach] .

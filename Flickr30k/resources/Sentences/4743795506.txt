@@ -1,0 +1,5 @@
+[/EN#197875/people A man] in [/EN#197878/clothing a white t-shirt] stands at [/EN#197877/scene a podium] giving [/EN#197881/other a speech] while [/EN#197876/people another man] in [/EN#197880/clothing a red polo shirt] stand behind [/EN#0/notvisual him] .
+[/EN#197875/people A young man] in [/EN#197878/clothing a t-shirt] is speaking at [/EN#197877/scene a podium] while [/EN#197876/people another young man] stands by .
+[/EN#197875/people A man] is standing at [/EN#197877/scene a podium] with [/EN#197879/other a microphone] in front of [/EN#197882/bodyparts his face] .
+[/EN#197875/people The man] in [/EN#197878/clothing the white T-shirt] is speaking at [/EN#197877/scene a podium] .
+[/EN#197875/people A man] is standing behind [/EN#197877/scene a podium] .

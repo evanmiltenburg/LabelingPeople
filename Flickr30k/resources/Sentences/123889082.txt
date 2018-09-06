@@ -1,0 +1,5 @@
+[/EN#5984/animals Two dogs] are playing in [/EN#5985/scene a grassy field] ; [/EN#5983/animals one dog] is biting [/EN#5986/animals the ear of the other dog] .
+[/EN#5983/animals Tan dog] on [/EN#5985/scene grass] with [/EN#5987/bodyparts mouth] open , about to bite [/EN#5986/bodyparts gray dog 's ear] .
+[/EN#5984/animals Two dogs] are playing together on [/EN#5985/scene green grass] .
+[/EN#5983/animals A brown dog] biting [/EN#5986/bodyparts a gray dogs ear] .
+[/EN#5983/animals Brown dog] biting [/EN#5986/bodyparts a gray dogs ear] .

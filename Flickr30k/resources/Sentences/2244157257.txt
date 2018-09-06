@@ -1,0 +1,5 @@
+[/EN#36412/people Woman] helping [/EN#36416/people young child] ride [/EN#36418/other a yellow pedal] powered [/EN#36413/vehicles cart] .
+[/EN#36412/people A woman] is pushing [/EN#36416/people her child] in [/EN#36414/vehicles a four-wheeled cart] .
+[/EN#36412/people A mother] pushes [/EN#36416/people her young son] [/EN#0/notvisual who] is riding [/EN#36413/vehicles a bike] .
+[/EN#36412/people Woman] pushing [/EN#36416/people child] in [/EN#36414/vehicles a toy car] down [/EN#36415/scene a street] .
+[/EN#36412/people A mom] and [/EN#36416/people son] enjoying [/EN#36417/scene a day] in [/EN#36415/scene the park] .

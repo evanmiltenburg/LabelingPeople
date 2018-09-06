@@ -1,0 +1,5 @@
+[/EN#37824/people A man] in [/EN#37825/clothing formal dress] and [/EN#37826/clothing aviator sunglasses] turns to talk to [/EN#37827/people the woman] [/EN#0/notvisual he] is sits with .
+[/EN#37824/people A man] wearing [/EN#37826/clothing sunglasses] and [/EN#37825/clothing a suit] is looking at [/EN#37827/people a girl] with [/EN#37828/bodyparts short hair] .
+[/EN#37824/people Men] in [/EN#37826/clothing dark sunglasses] sit suspiciously in [/EN#37829/other white lawn chairs] .
+[/EN#37824/people A man] in [/EN#37826/clothing sunglasses] sits with [/EN#37827/people his girlfriend] at [/EN#37831/other a wedding] .
+[/EN#37830/people People] gathered on [/EN#37832/scene a lawn] with [/EN#37824/people a man] talking to [/EN#37827/people a woman] .

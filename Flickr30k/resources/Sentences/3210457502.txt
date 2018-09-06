@@ -1,0 +1,5 @@
+[/EN#101363/clothing White] , [/EN#101359/animals long-necked bird] with [/EN#101364/bodyparts yellow legs] flies over [/EN#101361/scene water] .
+[/EN#101359/animals A long necked white bird] is floating above [/EN#101361/scene the water] .
+[/EN#101359/animals A white bird] is flying over [/EN#101361/scene the surface of the water] .
+[/EN#101359/scene A crane] lifts into [/EN#0/notvisual the air] above [/EN#101361/scene the water] .
+[/EN#101359/scene A white crane] landing in [/EN#101361/scene the water] .

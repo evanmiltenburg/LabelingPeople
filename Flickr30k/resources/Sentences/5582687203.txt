@@ -1,0 +1,5 @@
+[/EN#239046/people A person] dressed up like [/EN#239047/animals a panda] has surprised [/EN#239041/people a man] wearing [/EN#239048/other a zebra print garment] with [/EN#239053/people classes] and [/EN#239051/clothing a red hoodie] , carrying [/EN#239054/scene a white sack] .
+[/EN#239041/people A lady] in [/EN#239048/clothing a zebra-striped coat] is interacting with [/EN#239043/people someone] dressed in [/EN#239047/clothing a panda costume] .
+[/EN#239041/people A man] in [/EN#239048/other a zebra-print muumuu] is swinging [/EN#239050/other a pillow] at [/EN#239043/people a person] in [/EN#239047/clothing a panda costume] .
+[/EN#239041/people A black man] in [/EN#239048/other a zebra print unitard] smiles at [/EN#239046/people a person] in [/EN#239047/clothing a panda costume] .
+[/EN#239041/people A man] is goofing around with [/EN#239043/animals a big panda bear] .

@@ -1,0 +1,5 @@
+[/EN#113880/people A person] with [/EN#113890/bodyparts red-hair] , wearing [/EN#113884/clothing jeans] and [/EN#113881/clothing a blue sweatshirt] , is jogging downhill past [/EN#0/notvisual what] appears to be [/EN#113883/scene some sort of shed] that [/EN#113889/people someone] has drawn [/EN#113885/other a heart] on [/EN#113888/other one of the doors] .
+[/EN#113880/people A man] in [/EN#113881/clothing a blue hooded sweatshirt] and [/EN#113884/clothing jeans] jogging downhill by [/EN#113882/scene a street] .
+[/EN#113880/people A man] in [/EN#113881/clothing a blue sweatshirt] is running down [/EN#113886/scene a hill] by [/EN#113882/other a small shack] .
+[/EN#113880/people A man] passes [/EN#113883/scene a wooden shed] as [/EN#0/notvisual he] runs downhill .
+[/EN#113880/people A woman] is running downhill on [/EN#113882/scene a sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#90215/people A man] is swimming with [/EN#90214/people a little girl] wearing [/EN#90216/clothing a pink life jacket] in [/EN#90217/scene an indoor pool]
+[/EN#90215/people A man] with [/EN#90218/clothing glasses] and [/EN#90214/people a little girl] with [/EN#90216/clothing a life jacket] swimming in [/EN#90217/scene a pool] .
+[/EN#90215/people A man] and [/EN#90214/people young girl] are swimming in [/EN#90217/scene a pool] together .
+[/EN#0/notvisual There] is [/EN#90215/people a man] swimming with [/EN#90214/people a child] .
+[/EN#90214/people A little girl] learning how to swim .

@@ -1,0 +1,5 @@
+[/EN#126405/animals The big black dog] is jumping up in [/EN#0/notvisual the air] to catch [/EN#126406/other a ball] .
+[/EN#126405/animals A dog] catches [/EN#126406/other a toy] outside of [/EN#126408/scene a brick house] .
+[/EN#126405/animals A black dog] jumps up to catch [/EN#126406/other a white ball] .
+[/EN#126405/animals A dog] catches [/EN#126406/other a ball] in [/EN#0/notvisual the air]
+[/EN#126405/animals A dog] leaps to catch [/EN#126406/other a ball] .

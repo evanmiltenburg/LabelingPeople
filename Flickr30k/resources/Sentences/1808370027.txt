@@ -1,0 +1,5 @@
+[/EN#21130/animals The dog] swims through [/EN#21132/scene the water] toward [/EN#21131/scene the waterfall] .
+[/EN#21130/animals a tan and white dog] swimming towards [/EN#21131/scene a waterfall]
+[/EN#21130/animals A yellow dog] swims towards [/EN#21131/scene a waterfall] .
+[/EN#21130/animals The dog] swims towards [/EN#21131/scene a waterfall] .
+[/EN#21130/animals A dog] swims towards [/EN#21131/scene a waterfall] .

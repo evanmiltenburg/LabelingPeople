@@ -1,0 +1,5 @@
+[/EN#97612/people The boy] in [/EN#97618/clothing the black outfit] is riding down [/EN#97613/scene the snowy hill] on [/EN#97614/other a red sled] .
+[/EN#97612/people The young boy] sleds down [/EN#97613/scene the hill] in [/EN#97616/scene the snow] .
+[/EN#97612/people A person] riding [/EN#97614/other a sled] down [/EN#97617/other a snowy slope] .
+[/EN#97612/people A man] riding down [/EN#97615/scene a snowy hill] .
+Riding [/EN#97614/other a sled] down [/EN#97613/scene a hill] .

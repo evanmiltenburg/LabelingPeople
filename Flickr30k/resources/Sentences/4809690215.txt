@@ -1,0 +1,5 @@
+[/EN#205347/people A woman] holding [/EN#205348/clothing her hat] to [/EN#205351/bodyparts her head] passing in front of [/EN#205349/vehicles an ice cream truck] on [/EN#205350/scene the street] .
+[/EN#205347/people A woman] passing [/EN#205349/vehicles an ice cream truck] is holding [/EN#205348/clothing her hat] on [/EN#205351/bodyparts her head] .
+[/EN#205347/people A woman] in [/EN#205348/clothing a hat] walks away from [/EN#205349/vehicles a small ice cream vendor car] .
+[/EN#205347/people A woman] walking down [/EN#205350/scene the street] away from [/EN#205349/vehicles an ice cream truck] .
+[/EN#205347/people A woman] holding [/EN#205348/clothing her hat] as [/EN#0/notvisual she] crosses [/EN#205350/scene the street] .

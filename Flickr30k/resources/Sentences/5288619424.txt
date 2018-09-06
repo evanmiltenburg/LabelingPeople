@@ -1,0 +1,5 @@
+[/EN#232909/people A woman] in [/EN#232916/other a light-purple] colored down [/EN#232914/clothing winter coat] with [/EN#232919/bodyparts red-hair] is reading [/EN#232917/other price tags] in [/EN#232913/scene the aisle of a supermarket] .
+[/EN#232909/people A woman] in [/EN#232914/clothing a purple jacket] is selecting [/EN#232915/other food] in [/EN#232910/other a grocery store aisle] .
+[/EN#232909/people A woman] in [/EN#232914/clothing a purple coat] at [/EN#232910/scene a grocery store] looking at [/EN#232910/other items] to buy .
+[/EN#232909/people A woman] with [/EN#232914/clothing a purple coat] is examining [/EN#232915/other noodles] in [/EN#232910/scene a supermarket] .
+[/EN#232909/people Woman] with [/EN#232914/clothing puffy jacket] looking at [/EN#232918/other soup items] in [/EN#232910/scene a grocery store] .

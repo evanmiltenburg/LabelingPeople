@@ -1,0 +1,5 @@
+[/EN#107288/people Man] in [/EN#107290/clothing blue jacket] and [/EN#107291/clothing jeans] is holding [/EN#107289/other a chainsaw] in [/EN#107294/scene an outdoor space] with [/EN#107298/other large concrete furniture pieces] and [/EN#107292/other a few plants] .
+[/EN#107288/people A man] in [/EN#107291/clothing jeans] and [/EN#107290/clothing a work shirt] and [/EN#107297/clothing gloves] holds [/EN#107289/other a chainsaw] with [/EN#107292/other a plant] in [/EN#0/notvisual the foreground] .
+[/EN#107288/people Man] standing with [/EN#107289/other a chainsaw] , looking down at [/EN#107296/other the work] [/EN#0/notvisual he] is about to do .
+[/EN#107288/people a person] with [/EN#107289/other cutting machine] cleaning [/EN#107293/scene the garden] .
+[/EN#107288/people The man] is holding [/EN#107289/other the chainsaw] .

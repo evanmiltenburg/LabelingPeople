@@ -1,0 +1,5 @@
+[/EN#169919/people An older woman] wearing [/EN#169922/clothing a green cloth coat] walking in [/EN#169924/scene an urban area] and crossing in front of [/EN#169920/vehicles a blue car] .
+[/EN#169919/people An elderly woman] wearing [/EN#169922/clothing a green parka] +is walking with [/EN#169921/other a cane] near [/EN#169923/scene an intersection] .
+[/EN#169919/people A woman] in [/EN#169922/clothing a green coat] walked in [/EN#169925/scene the shadows of the city] .
+[/EN#169919/people An old woman] with [/EN#169921/other a cane] walking next to [/EN#169920/vehicles a car] .
+[/EN#0/notvisual He] is standing next to [/EN#169920/vehicles a blue car] .

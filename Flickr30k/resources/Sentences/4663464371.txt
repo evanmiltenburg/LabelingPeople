@@ -1,0 +1,5 @@
+[/EN#188128/scene Street view of a quiet four way street] as [/EN#188134/people commuters] make [/EN#188136/scene their way] in [/EN#188131/vehicles cars] , by walking , and by [/EN#188133/vehicles way of bicycle] .
+[/EN#0/notvisual This] is [/EN#188128/other a four-way stop] featuring [/EN#188131/vehicles three cars] , [/EN#188129/people one cyclist] , and [/EN#188138/people two pedestrians] .
+[/EN#188129/people A person] on [/EN#188133/vehicles a bike] is riding across [/EN#188128/scene the street] .
+[/EN#188127/scene A city intersection] lined with [/EN#188135/other palm trees] .
+[/EN#0/notvisual there] are [/EN#188137/vehicles three cars] at [/EN#188128/other a four-way cross] .

@@ -1,0 +1,5 @@
+[/EN#15603/animals A golden retriever] has on [/EN#15604/clothing a collar] and [/EN#15605/clothing a harness] and has [/EN#15606/bodyparts a muddy lower body] .
+[/EN#15603/animals A dog] with [/EN#15609/other mud] stuck on [/EN#15606/scene his underside] is running on [/EN#15608/scene grass] .
+[/EN#15603/animals A white dog] that is muddy walks across [/EN#15608/scene the green grass] .
+[/EN#15603/animals A muddy dog] prances through [/EN#15608/scene the grass] .
+[/EN#15603/animals A muddy golden dog] running in [/EN#15608/scene grass]

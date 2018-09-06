@@ -1,0 +1,5 @@
+[/EN#271766/people A young girl] with [/EN#271771/bodyparts blond-hair] is digging in [/EN#271769/other the sand] with [/EN#271768/other a small scoop] on [/EN#271767/scene the beach] with [/EN#271770/scene the ocean] in [/EN#0/notvisual the background] .
+[/EN#271766/people A little girl] in [/EN#271772/clothing a yellow t-shirt] sits on [/EN#271767/scene a sandy beach] playing with [/EN#271768/other her green shovel] .
+[/EN#271766/people A little girl] sits on [/EN#271767/scene the beach] digging in [/EN#271769/other the wet sand] with [/EN#271768/other a green shovel] .
+[/EN#271766/people A little girl] is using [/EN#271768/other a small green shovel] to scoop [/EN#271769/other sand] at [/EN#271767/scene the beach] .
+[/EN#271766/people A young girl] digs on [/EN#271767/scene the wet beach] with [/EN#271768/other a trowel] .

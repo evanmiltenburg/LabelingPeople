@@ -1,0 +1,5 @@
+[/EN#177294/people A man] is holding up [/EN#177296/other a flag] with [/EN#177296/clothing three stripes] - red , yellow , and [/EN#177300/clothing purple] - in front of [/EN#177295/people a crowd of people] holding up [/EN#177297/other signs] .
+[/EN#177294/people A protester] holds up [/EN#177296/other a flag] , while [/EN#177295/people people] in [/EN#0/notvisual the background] hold up [/EN#177297/other signs] .
+[/EN#177294/people A person] holding up [/EN#177296/other a red , yellow and purple striped flag] on [/EN#177302/scene a street] .
+[/EN#177294/people A man] in [/EN#177303/clothing a black jacket] holds [/EN#177296/other a red , yellow and purple flag] .
+[/EN#177294/people Woman] holds up [/EN#177296/other a flag] during [/EN#177299/other a protest] .

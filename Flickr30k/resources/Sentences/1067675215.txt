@@ -1,0 +1,5 @@
+[/EN#1680/people A man] lies on [/EN#1681/other a mat] in [/EN#1689/scene a parking lot] between [/EN#1682/vehicles a brown SUV] and [/EN#1683/other a yellow pickup] with [/EN#1684/other an open door] .
+[/EN#1680/people A shirtless man] is laying down in [/EN#1687/scene the middle of a busy street] .
+[/EN#1680/people A man] laying down in [/EN#1689/scene middle of street] during [/EN#1685/vehicles heavy traffic] .
+[/EN#1680/people A man] in [/EN#1686/clothing blue shorts] lays down [/EN#1688/scene outside] in [/EN#1689/scene a parking lot] .
+[/EN#1680/people A man] in [/EN#1686/clothing blue shorts] is laying in [/EN#1689/scene the street] .

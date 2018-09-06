@@ -1,0 +1,5 @@
+[/EN#39927/animals A brown dog] lying in [/EN#39929/scene the grass] playing with [/EN#39928/other a white rag] .
+[/EN#39927/animals A brown dog] laying in [/EN#39929/scene the grass] with [/EN#39928/other a white chew toy] .
+[/EN#39927/animals Orange dog] with [/EN#39928/other knotted white rag] on [/EN#39929/scene grass] .
+[/EN#39927/animals A brown dog] sitting on [/EN#39929/scene grass]
+[/EN#39927/animals A dog] sitting on [/EN#39929/scene grass] .

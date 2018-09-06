@@ -1,0 +1,5 @@
+[/EN#15925/people A small toddler] wearing [/EN#15928/clothing a stripe shirts] and [/EN#15929/clothing purple pants] runs happily down [/EN#15926/scene a sidewalk] .
+[/EN#15925/people A little child] walking on [/EN#15926/other a concrete ledge] .
+[/EN#15925/people A toddler] runs toward [/EN#0/notvisual the camera] at [/EN#15927/scene a park] .
+[/EN#15925/people A young girl] walking on [/EN#15926/scene the sidewalk] .
+[/EN#15925/people Child] running on [/EN#15926/scene a sidewalk] .

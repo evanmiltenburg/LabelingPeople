@@ -1,0 +1,5 @@
+[/EN#27003/animals A dog] runs on [/EN#27004/scene the grass] in [/EN#27004/scene a yard] , [/EN#27005/scene a gazebo] in [/EN#0/notvisual the background] .
+[/EN#27003/animals A large brown dog] is running through [/EN#27004/scene a grassy backyard] .
+[/EN#27003/animals Large brown dog] runs through [/EN#27004/scene a large grassy area] .
+[/EN#27003/animals A dog] trotting through [/EN#27004/scene someone 's yard] .
+[/EN#27003/animals A brown dog] running in [/EN#27004/scene a yard] .

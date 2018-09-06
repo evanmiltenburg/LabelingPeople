@@ -1,0 +1,5 @@
+[/EN#78943/animals A dog] in [/EN#78945/scene a swimming pool] and [/EN#78944/animals another dog] on [/EN#78947/scene the edge of the pool] .
+[/EN#78943/animals A dog] swims in [/EN#78945/scene the pool] while [/EN#78944/animals another dog] watches from [/EN#78947/other the deck] .
+[/EN#78943/animals A tan dog] swims in [/EN#78945/scene a pool] while [/EN#78943/animals a black and brown dog] looks on .
+[/EN#78943/animals A dog] swims in [/EN#78945/scene a pool] while [/EN#0/notvisual another] watches .
+[/EN#78944/animals Two dogs] playing in [/EN#78945/scene a pool]

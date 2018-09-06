@@ -1,0 +1,5 @@
+[/EN#152677/people A man] wearing [/EN#152680/clothing a sweater] is pushing [/EN#152678/people an old man] wearing [/EN#152680/clothing a suit] and [/EN#152686/clothing blue tie] in [/EN#152682/other a wheelchair] next to [/EN#152685/other a row of bookshelves] .
+[/EN#152678/people An older man] in [/EN#152680/clothing a suit] is being wheeled on [/EN#152682/other his wheelchair] through [/EN#152679/scene a bookstore] by [/EN#152677/people a young man] in [/EN#152680/clothing a sweater] .
+[/EN#152678/people A man] being pushed in [/EN#152682/other a wheelchair] through [/EN#152679/scene a library] .
+[/EN#152678/people A man] in [/EN#152682/other a wheelchair] being pushed in [/EN#152679/scene the library]
+[/EN#152683/people A crowd] follows [/EN#152684/other a queue line] in [/EN#152679/scene a bookstore] .

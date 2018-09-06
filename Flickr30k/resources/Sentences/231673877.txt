@@ -1,0 +1,5 @@
+[/EN#41198/people A man] on [/EN#41200/vehicles/scene a boat] in [/EN#41199/clothing a blue shirt] is holding [/EN#41201/other a fishing pole] [/EN#0/notvisual that] is bending towards [/EN#41205/scene the sea] as if [/EN#0/notvisual he] has caught [/EN#41206/animals a fish] .
+[/EN#41198/people A man] in [/EN#41200/vehicles/scene a boat] in [/EN#41199/clothing a blue shirt] and [/EN#41202/clothing hat] has [/EN#41201/other a fishing pole] [/EN#0/notvisual that] is bent halfway .
+[/EN#41198/people A guy] holding onto [/EN#41201/other a tight fishing pole] while on [/EN#41200/vehicles/scene a boat] fishing .
+[/EN#41203/people Two men] are on [/EN#41200/vehicles/scene a boat] , [/EN#41198/other one] is fishing .
+[/EN#41198/people A man] in [/EN#41202/clothing a hat] is fishing from [/EN#41200/vehicles/scene a boat] .

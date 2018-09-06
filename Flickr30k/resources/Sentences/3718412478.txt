@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#139266/animals a herd of antelope] running , with [/EN#139269/other a few] jumping over [/EN#139267/scene a fence] , in [/EN#139268/scene a field] .
+[/EN#139265/animals Several deer] are moving across [/EN#139268/scene the field] and are required to jump [/EN#139267/scene the fence] .
+[/EN#139266/other Several fawns] are jumping over [/EN#139267/scene a fence] out in [/EN#139268/scene open land] .
+[/EN#139265/animals Several deer] jump [/EN#139267/scene a fence] into [/EN#139268/scene an open field] .
+[/EN#139265/animals Gazelles] jumping over [/EN#139267/scene the fence] in [/EN#139268/scene a field] .

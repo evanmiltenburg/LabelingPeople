@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] 's [/EN#217907/vehicles/scene a red bus] making [/EN#217913/other a left turn] into [/EN#217914/other a traffic circle] [/EN#0/notvisual that] has [/EN#217915/other a sprinkler system] .
+[/EN#217907/vehicles/scene A red bus] is driving on [/EN#217904/scene a street] between [/EN#217910/scene a large building] and [/EN#217909/scene a water fountain] .
+[/EN#217907/vehicles/scene A red bus] travels down [/EN#217904/scene a street] with [/EN#217909/scene a large waterfall] in [/EN#217912/scene the middle] .
+[/EN#217905/scene A busy city] with [/EN#217916/vehicles cars] and [/EN#217917/people people] with [/EN#217910/scene a giant skyscraper] .
+[/EN#217904/scene A view of a street] in [/EN#217906/scene a busy town] .

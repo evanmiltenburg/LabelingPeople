@@ -1,0 +1,5 @@
+[/EN#73112/people A woman] in [/EN#73119/clothing a red shirt] stands by [/EN#73117/people a man] in [/EN#73121/clothing a white shirt] and [/EN#73122/people a woman] in [/EN#73113/clothing a black shirt] in front of [/EN#73111/other a stairway] .
+[/EN#73110/people A group of people] mill around while [/EN#73118/people a man] in [/EN#73115/clothing a fish costume] descends [/EN#73111/scene a staircase] .
+[/EN#73109/people An overweight family] with sling across [/EN#73123/clothing bags] stand near [/EN#73110/people a group of people] .
+[/EN#73109/people People] walk in [/EN#73114/scene a building] near [/EN#73111/other a set of stairs] .
+[/EN#73109/people A group of people] waiting in [/EN#73124/other line] for [/EN#73116/other a game] .

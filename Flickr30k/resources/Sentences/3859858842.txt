@@ -1,0 +1,5 @@
+[/EN#146089/people a man] wearing [/EN#146090/clothing a white and blue shirt] and [/EN#146091/clothing gray pants] is staring off into [/EN#0/notvisual the distance] .
+[/EN#146089/people A slender man] wearing [/EN#146091/clothing rolled pants] and [/EN#146090/clothing a striped white and blue shirt] walks on [/EN#146092/other sand] .
+[/EN#146089/people A man] in [/EN#146090/clothing a white and blue striped shirt] walks in [/EN#146092/other the sand] .
+[/EN#146089/people A man] walking in [/EN#146092/other the sand] with [/EN#146093/clothing no shoes] on .
+[/EN#146089/people A man] in [/EN#146090/clothing a striped shirt] walks barefoot .

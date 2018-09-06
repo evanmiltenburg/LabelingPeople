@@ -1,0 +1,5 @@
+[/EN#212278/people An Asian man] wearing [/EN#212285/clothing a white t-shirt] and [/EN#212279/people an Asian woman] wearing [/EN#212281/clothing a skirt] are walking down [/EN#212280/scene a busy sidewalk] .
+[/EN#212279/people A woman] in [/EN#212281/clothing a long floral skirt] carrying [/EN#212283/other a basket] walks in [/EN#212284/people a crowd of people] down [/EN#212280/scene a city street] .
+[/EN#212279/people Asian woman] with [/EN#212286/clothing purse] stares off into [/EN#0/notvisual distance] in [/EN#212280/scene crowded street]
+[/EN#212279/people A plain woman] in [/EN#212281/clothing a dress] standing in [/EN#212280/scene the street] facing [/EN#212287/other the sun] .
+[/EN#212279/people Woman] in [/EN#212281/clothing a long skirt] and [/EN#212278/people a man] walk down [/EN#212280/scene the street] .

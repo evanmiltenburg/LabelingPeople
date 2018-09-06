@@ -1,0 +1,5 @@
+[/EN#77538/people An Asian man] is cooking [/EN#77539/other several meat] on [/EN#77539/other a stick] .
+[/EN#77538/people A balding man] is cooking [/EN#77539/other some meat] on [/EN#77539/other a stick] .
+[/EN#77538/people An Asian man] is cooking [/EN#77539/other food] outdoors .
+[/EN#77538/other A kitchen staff] is preparing [/EN#77539/other food] .
+[/EN#77538/people A man] preparing [/EN#77539/other food] on [/EN#77541/other a grill] .

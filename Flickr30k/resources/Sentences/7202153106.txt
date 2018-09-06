@@ -1,0 +1,5 @@
+[/EN#267074/people A male bike rider] wearing [/EN#267085/clothing a neon yellow shirt] with [/EN#267084/other the number] " [/EN#267080/other 52] " , and [/EN#267086/clothing black bike shorts] , is turning [/EN#267081/scene a corner] on [/EN#267077/scene the road] while [/EN#267083/people other bikers] follow in [/EN#0/notvisual the background] .
+[/EN#267075/people Men] riding [/EN#267079/other bicycles race] on [/EN#267077/scene a curvy bike trail] .
+[/EN#267075/people Men] in [/EN#267076/other a bicycle race] going down [/EN#267078/scene a hill]
+[/EN#267074/people Cyclist] riding [/EN#267087/vehicles his bicycle] in [/EN#267079/other a race] .
+[/EN#267074/people This man] is in [/EN#267076/other a bicycle race] .

@@ -1,0 +1,5 @@
+[/EN#125909/people A person] in [/EN#125911/clothing a blue biking uniform] is ridding [/EN#125910/vehicles a dirt bike] on [/EN#125912/scene a grassy track] .
+[/EN#125909/people A person] riding [/EN#125910/vehicles a bicycle] travels down [/EN#125912/scene an overgrown hill] .
+[/EN#125909/people A person] in [/EN#125911/clothing a biking suit] rides [/EN#125910/vehicles a bike] down [/EN#125913/scene a hill] .
+[/EN#125909/people A biker] prepares to go down [/EN#125913/scene a hill] .
+[/EN#125909/people A biker] is racing downhill .

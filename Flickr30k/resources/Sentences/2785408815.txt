@@ -1,0 +1,5 @@
+[/EN#72868/people A man] wearing [/EN#72869/clothing a white jacket] with [/EN#72876/other a name] [/EN#72877/other on] [/EN#0/notvisual it] stands smiling at [/EN#0/notvisual the camera] in front of [/EN#72870/other a white wall] with [/EN#72871/other a lamp] illuminating [/EN#72872/other a number of pictures] and [/EN#72873/other posters] below [/EN#0/notvisual it] .
+[/EN#72868/people A doctor] is wearing [/EN#72874/clothing a t-shirt] saying " smile " under [/EN#72869/clothing his lab coat] upon smiling .
+[/EN#72868/people A doctor] in [/EN#72869/clothing a white coat] smiles for [/EN#72879/other a picture] in front of [/EN#72870/other a wall] with [/EN#72872/other photos] .
+[/EN#72868/people A doctor] in [/EN#72875/scene an office] smiling at [/EN#0/notvisual the camera] .
+[/EN#72868/people a man] smiling in [/EN#72869/clothing a white coat] .

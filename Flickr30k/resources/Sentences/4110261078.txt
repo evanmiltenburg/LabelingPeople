@@ -1,0 +1,5 @@
+[/EN#155939/people Someone] walks along [/EN#155942/other a lonely pathway] in [/EN#155944/other a nearly abandoned passageway] .
+[/EN#155939/people A person] walks , alone , through [/EN#155940/scene a dimly lit area] with [/EN#155945/other glass walls] .
+[/EN#155939/people A person] walks along [/EN#155941/scene a mirrored corridor] in [/EN#155943/scene an airport] .
+[/EN#155939/people A person] wearing [/EN#155946/clothing a suit] is walking through [/EN#155940/scene an airport] .
+[/EN#155939/people A woman] walks threw [/EN#155941/scene a terminal of an airport] .

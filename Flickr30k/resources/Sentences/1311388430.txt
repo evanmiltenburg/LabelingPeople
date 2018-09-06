@@ -1,0 +1,5 @@
+[/EN#8287/people A person] hanging from [/EN#8290/other a telephone pole] near [/EN#8293/scene the mountains] .
+[/EN#8287/people A person] is hanging in [/EN#0/notvisual the air] from [/EN#8289/other the power lines] .
+[/EN#8287/people A person] is hanging upside down from [/EN#8289/other power lines] .
+[/EN#8287/people Someone] is suspended from [/EN#8288/other electrical wires] .
+[/EN#8287/people Person] hanging upside down from [/EN#8290/other poles]

@@ -1,0 +1,5 @@
+[/EN#93853/people People] crowd around [/EN#93856/scene a street] filled with [/EN#93852/vehicles colorful buses] .
+[/EN#93853/people People] walk amongst [/EN#93857/people a traffic jam] in [/EN#93854/scene a crowded city] .
+[/EN#93852/vehicles/scene A brightly colored bus] is stopped in [/EN#93855/vehicles traffic] .
+[/EN#0/notvisual There] is [/EN#93855/vehicles traffic] on [/EN#93854/scene a crowded city street] .
+[/EN#93852/vehicles/scene A bus] stuck in [/EN#93855/vehicles heavy city traffic] .

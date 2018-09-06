@@ -1,0 +1,5 @@
+[/EN#100209/animals A black and brown dog] walks on [/EN#100206/scene the frozen surface of a pond] , holding [/EN#100207/other a stick] .
+[/EN#100205/animals A brown dog] is carrying [/EN#100207/other a stick] in [/EN#100208/bodyparts his mouth] across [/EN#100206/scene an ice covered pond] .
+[/EN#100205/animals A brown dog] walking on [/EN#100206/scene a frozen lake] carrying [/EN#100207/other a stick] .
+[/EN#100205/animals The big dog] is carrying [/EN#100207/other an object] is [/EN#100208/bodyparts its mouth] .
+[/EN#100205/animals A big dog] carries [/EN#100207/other a stick] across [/EN#100206/scene a frozen pond] .

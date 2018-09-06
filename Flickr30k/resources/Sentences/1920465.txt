@@ -1,0 +1,5 @@
+[/EN#23176/people A brown-haired man] wearing [/EN#23180/clothing glasses] , [/EN#23178/clothing a dark polo shirt] and [/EN#23182/clothing jeans] sits in front of [/EN#23179/instruments a piano] while [/EN#23183/other reading] .
+[/EN#23176/people A boy] in [/EN#23178/clothing a dark shirt] is reading [/EN#23177/other a book] while sitting on [/EN#23181/other a piano bench] .
+[/EN#23176/people A man] with [/EN#23180/clothing glasses] is reading [/EN#23177/other a book] while sitting in front of [/EN#23179/instruments a piano] .
+[/EN#23176/people A guy] reads [/EN#23177/other a book] while sitting in front of [/EN#23179/instruments a piano] .
+[/EN#23176/people A man] with [/EN#23180/clothing glasses] reading [/EN#23177/other a book] .

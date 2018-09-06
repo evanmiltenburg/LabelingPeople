@@ -1,0 +1,5 @@
+[/EN#199497/people A black man] dressed in [/EN#199499/clothing a blue shirt] and [/EN#199503/clothing blue jeans] walk through [/EN#199502/scene a parking lot] carrying [/EN#199501/other a white object] and [/EN#199498/other a black object] .
+[/EN#199497/people A young man] wearing [/EN#199499/clothing blue] carries [/EN#199498/other equipment] across [/EN#199502/scene a street] .
+[/EN#199497/people A male] dressed in [/EN#199499/clothing blue] is carrying [/EN#199501/other things] in [/EN#199504/bodyparts both hands] .
+[/EN#199497/people A man] in [/EN#199499/clothing a blue football shirt] carrying [/EN#199498/other knick-knacks] .
+[/EN#199497/people A man] is carrying [/EN#199501/other a mechanical device] on [/EN#199502/scene a street] .

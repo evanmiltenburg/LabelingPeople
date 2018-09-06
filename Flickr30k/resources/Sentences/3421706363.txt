@@ -1,0 +1,5 @@
+[/EN#117000/people A boy] in [/EN#117006/clothing dark pants] and [/EN#117003/clothing green t-shirt] rides [/EN#117004/vehicles his bike] up [/EN#117002/scene a ramp] .
+[/EN#117000/people A man] is jumping [/EN#117004/vehicles his bicycle] off [/EN#117002/scene a ramp] in [/EN#117005/scene a skate park] .
+[/EN#117000/people A man] wearing [/EN#117003/clothing a yellow shirt] jumps [/EN#117004/vehicles his bike] over [/EN#117002/scene a ramp] .
+[/EN#117000/people A young man] is performing [/EN#0/notvisual a bicycle jump] on [/EN#117002/scene a ramp] .
+[/EN#117000/people A teen boy] doing [/EN#0/notvisual a bicycle trick] on [/EN#117002/scene a bike ramp]

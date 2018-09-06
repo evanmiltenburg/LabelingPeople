@@ -1,0 +1,5 @@
+[/EN#209491/people People] are walking on [/EN#209489/scene the street] , and [/EN#209493/vehicles cars] are standing on [/EN#209494/scene the intersection] for [/EN#209496/other the red light] .
+[/EN#209488/scene A Street corner] is inhabited by [/EN#209491/people a number of people] standing outside [/EN#209490/scene a coffee shop] .
+[/EN#209491/people Many people] and [/EN#209493/vehicles cars] going past [/EN#209490/scene a coffee shop] on [/EN#209489/scene the corner of the street] .
+[/EN#209490/scene Coffee shop] on [/EN#209488/scene a corner] in [/EN#209492/scene a city] with [/EN#209495/scene tall buildings]
+[/EN#209490/scene A coffee shop] located [/EN#209492/scene downtown] .

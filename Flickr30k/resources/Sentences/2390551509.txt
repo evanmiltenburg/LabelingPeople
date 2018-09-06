@@ -1,0 +1,5 @@
+[/EN#45873/people A man] sitting on [/EN#45877/other a stool] under [/EN#45875/clothing a blue and white umbrella] indicates [/EN#45882/other something] with [/EN#45878/bodyparts his free hand] .
+[/EN#45873/people An Asian man] in [/EN#45876/clothing a beige shirt] is giving [/EN#0/notvisual directions] to [/EN#45874/people another person] on [/EN#45880/scene the street] .
+[/EN#45873/people A man] in [/EN#45876/clothing a white shirt] waves [/EN#45878/bodyparts his hand] under [/EN#45875/clothing a white and blue umbrella] .
+[/EN#45873/people A local man] sitting on [/EN#45877/other a stool] gives [/EN#0/notvisual directions] to [/EN#45874/people a tourist] .
+[/EN#45874/people A tourist] asking [/EN#45879/other a local] for [/EN#0/notvisual directions] to [/EN#45883/scene their hotel] .

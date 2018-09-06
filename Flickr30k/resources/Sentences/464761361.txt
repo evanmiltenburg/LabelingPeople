@@ -1,0 +1,5 @@
+[/EN#186402/people A man] and [/EN#186405/people woman] sit in [/EN#186409/scene a restaurant] holding [/EN#186403/other books] , [/EN#186405/people the woman] reading [/EN#0/notvisual hers] and [/EN#186407/people the man] looking at [/EN#186405/people the woman] .
+[/EN#186402/people A man] wearing [/EN#186399/clothing a plaid shirt] is staring at [/EN#186405/people a woman] in [/EN#186400/clothing glasses] [/EN#0/notvisual who] is reading [/EN#186404/other a book] .
+[/EN#186401/people A few Asian men] and [/EN#186405/people one Asian woman] sitting at [/EN#186406/other a couple of tables] .
+[/EN#186401/people Japanese people] sitting in [/EN#186408/other a really fancy cafe] reading .
+[/EN#186401/people A group of Asian people] are reading .

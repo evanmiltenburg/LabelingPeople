@@ -1,0 +1,5 @@
+[/EN#76361/animals The white and brown dog] is running through [/EN#76362/scene the grass] .
+[/EN#76361/animals A brown and white dog] runs through [/EN#76362/scene the green grass] .
+[/EN#76361/animals A brown and white dog] runs across [/EN#76362/scene the grass] .
+[/EN#76361/animals A dog] runs around in [/EN#76362/scene a field] .
+[/EN#76361/animals A dog] running on [/EN#76362/scene the grass] .

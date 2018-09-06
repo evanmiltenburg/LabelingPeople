@@ -1,0 +1,5 @@
+[/EN#127821/people tourists] are standing [/EN#127827/other a mountain viewpoint] beneath [/EN#127826/scene a clear blue sky] .
+[/EN#127821/people People] stand at [/EN#127825/scene the bottom of a meandering walkway] [/EN#0/notvisual that] goes uphill .
+[/EN#127821/people A group of people] on [/EN#127824/other a zig] zagging [/EN#127823/scene path] through [/EN#127822/scene the mountains]
+[/EN#127821/people People] are standing around [/EN#127822/scene a scenic lookout] on [/EN#127828/scene a sunny day] .
+[/EN#127821/people A group of people] on [/EN#127823/scene a walkway] .

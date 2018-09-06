@@ -1,0 +1,5 @@
+[/EN#80825/people A biker] on top of [/EN#80827/scene a shallow hill] attempts [/EN#0/notvisual a trick] nearby [/EN#80829/scene a gate] and [/EN#80827/scene grassy area] .
+[/EN#80825/people A man] stands on [/EN#80831/vehicles the front wheel of his bicycle] , doing [/EN#0/notvisual a trick] .
+[/EN#80825/people Man] is performing [/EN#0/notvisual a trick] with [/EN#80826/vehicles a bicycle] on [/EN#80827/scene a ramp] .
+[/EN#80825/people A person] does [/EN#0/notvisual tricks] on [/EN#80826/vehicles their bike] .
+[/EN#80825/people A biker] does [/EN#0/notvisual a trick] on [/EN#80827/scene a ramp] .

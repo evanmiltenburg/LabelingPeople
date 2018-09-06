@@ -1,0 +1,5 @@
+[/EN#237619/people A man] wearing [/EN#237623/clothing a mask] is cutting [/EN#237621/scene a hole] in [/EN#237620/scene a roof] and [/EN#0/notvisual there] is [/EN#237622/scene an orange crane] next to [/EN#0/notvisual him] .
+[/EN#237620/scene A roof] is being torn apart by [/EN#237619/people one person] .
+[/EN#237619/people A fireman] is on [/EN#237620/scene the roof of the house] .
+[/EN#237619/people A firefighter] is on [/EN#237620/scene the roof] .
+[/EN#237619/people A man] is fixing [/EN#237620/scene the roof] .

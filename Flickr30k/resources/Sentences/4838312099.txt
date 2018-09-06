@@ -1,0 +1,5 @@
+[/EN#209371/people A middle-aged man] wearing [/EN#209378/clothing glasses] and [/EN#209372/people a middle-aged woman] both look [/EN#209374/other grumpy and upset] .
+[/EN#209372/people A woman] and [/EN#209371/people a man] sit on [/EN#209373/other a bench] against [/EN#209377/other a wall] with [/EN#209374/other somber expressions] .
+[/EN#209375/other Two people of the opposite sex] sitting on [/EN#209373/other a bench] .
+[/EN#209371/people A man] and [/EN#209372/people woman] are sitting on [/EN#209373/other a bench] .
+[/EN#209371/people A man] and [/EN#209372/people woman] sitting on [/EN#209373/other a bench] .

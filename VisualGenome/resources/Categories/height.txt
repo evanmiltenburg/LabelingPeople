@@ -1,0 +1,9 @@
+shorter
+tall
+long
+short
+taller
+tallest
+is tall
+is small
+not tall

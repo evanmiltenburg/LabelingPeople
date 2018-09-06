@@ -1,0 +1,5 @@
+[/EN#138037/people a man] and [/EN#138040/people a woman] sit back to [/EN#138041/other back] on [/EN#138038/other a bench] in front of [/EN#138039/scene a building] with [/EN#138043/other a colorful painted door] .
+[/EN#138042/people Two people] are sitting on [/EN#138038/other a bench] outside of [/EN#138039/scene a decorative building] .
+[/EN#138037/people A man] and [/EN#138040/people a woman] sit back-to-back on [/EN#138038/other a bench] outside [/EN#138044/other a storefront] .
+[/EN#138037/people A man] and [/EN#138040/people woman] sitting back-to-back outside [/EN#138039/scene a building] .
+[/EN#138037/people A man] and [/EN#138040/people woman] sitting back to [/EN#138041/other back] outside in [/EN#138045/other the sun] .

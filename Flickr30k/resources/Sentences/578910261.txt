@@ -1,0 +1,5 @@
+[/EN#243039/other Indoors] , [/EN#243031/people a woman] wearing [/EN#243033/clothing a surgical mask] , [/EN#243032/clothing gown] and [/EN#243041/other gloves works] on [/EN#243034/people a reclining person] .
+[/EN#243031/people A woman] in [/EN#243032/clothing a blue coat] is cleaning [/EN#243036/people the teeth of a child] with [/EN#243040/clothing a pink bib] .
+[/EN#243031/people The lady] in [/EN#243032/clothing blue] is wearing [/EN#243033/clothing a mask] while [/EN#0/notvisual she] works on [/EN#243034/people a patient] .
+[/EN#243031/people A dental technician] is completing [/EN#243037/other a procedure] on [/EN#243034/people a patient] .
+[/EN#243031/people A brunette] in [/EN#243032/clothing scrubs] is performing [/EN#243037/other surgery] .

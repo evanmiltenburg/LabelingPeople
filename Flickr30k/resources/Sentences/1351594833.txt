@@ -1,0 +1,5 @@
+[/EN#9564/people A man] in [/EN#9565/clothing a yellow rain jacket] is playing [/EN#9566/instruments a musical instrument] amidst [/EN#9567/animals black and white birds] .
+[/EN#9564/people A man] is selling [/EN#9571/other hotdogs] on [/EN#9570/scene a walkway] , and [/EN#0/notvisual there] are [/EN#9567/animals tons of pigeons] .
+[/EN#9564/people A man] is sitting in [/EN#9568/other a chair] under [/EN#9569/clothing an umbrella] surrounded by [/EN#9567/animals pigeons] .
+[/EN#9564/people A man] under [/EN#9569/clothing umbrella] is watching [/EN#9567/animals pigeons] .
+[/EN#9567/animals A bunch of birds] outside of [/EN#9573/scene a building] .

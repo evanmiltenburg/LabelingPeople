@@ -1,0 +1,5 @@
+[/EN#240112/people Two women] playing [/EN#240113/instruments musical instruments] ; [/EN#240121/other one] plays [/EN#240114/instruments violin] and [/EN#240115/other the other] play [/EN#240113/instruments a wind instrument] .
+[/EN#240112/people A woman] in [/EN#0/notvisual the foreground] plays [/EN#240114/instruments a red violin] , in front of [/EN#240112/people a woman] in [/EN#240116/clothing glasses] playing [/EN#240117/other oboe] .
+[/EN#240115/people One woman] playing [/EN#240117/other an oboe] behind [/EN#240112/people a woman] playing [/EN#240114/instruments a violin] and eyeing [/EN#240119/other sheet music] .
+[/EN#240112/people Two woman] are playing [/EN#240113/instruments instruments] ; [/EN#240115/other one] [/EN#240117/instruments a clarinet] , [/EN#240114/instruments the other a violin] .
+[/EN#240112/people A girl] play [/EN#240114/instruments a violin] and [/EN#240115/other another one] playing [/EN#240117/instruments a clarinet] behind [/EN#0/notvisual her] .

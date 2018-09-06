@@ -1,0 +1,5 @@
+[/EN#269428/people An Asian man] is sitting on [/EN#269429/other the bench] on [/EN#269430/scene the street] and sleeping .
+[/EN#269428/people An older gentleman] with [/EN#269432/clothing a gray jacket] is asleep on [/EN#269429/other a bench] .
+[/EN#269428/people A black-haired man] is sleeping on [/EN#269429/other a bench] in [/EN#269430/scene a city street] .
+[/EN#269428/people An Asian man] sleeps in [/EN#269429/other a chair] [/EN#269431/scene outdoors] .
+[/EN#269428/people A man] rests on [/EN#269429/other a bench] on [/EN#269430/scene a street] .

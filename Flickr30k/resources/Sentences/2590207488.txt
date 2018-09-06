@@ -1,0 +1,5 @@
+[/EN#59949/animals A dog] with [/EN#59952/scene black and white spots] walks on [/EN#59950/scene the beach] , looking behind [/EN#59953/other itself] .
+[/EN#59949/animals A black and white dog] looks back while walking on [/EN#59950/scene the beach] .
+[/EN#59951/clothing Black] and [/EN#59949/animals white dog] , walking on [/EN#59950/scene beach] and looking back .
+[/EN#59949/animals A black and white dog] is walking on [/EN#59950/scene a beach] .
+[/EN#59949/animals A black and white dog] walks on [/EN#59950/scene a beach] .

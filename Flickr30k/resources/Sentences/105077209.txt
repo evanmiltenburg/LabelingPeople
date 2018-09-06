@@ -1,0 +1,5 @@
+[/EN#1295/people A man] with [/EN#1298/other a badge] is standing on [/EN#1300/scene a wood floor] next to [/EN#1297/other a structure] .
+[/EN#1295/people A security guard] stands by [/EN#1297/other a metal] , lighted [/EN#1297/other sculpture] .
+[/EN#1295/people A white-haired man] in [/EN#1302/clothing a suit] stands in [/EN#1296/scene an empty room] .
+[/EN#1295/people A security guard] on watch [/EN#1301/other duty] at [/EN#1296/scene the museum] .
+[/EN#1295/people Security guard] at [/EN#1296/scene a art museum] .

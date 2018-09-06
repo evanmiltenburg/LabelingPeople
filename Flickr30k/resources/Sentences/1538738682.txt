@@ -1,0 +1,5 @@
+[/EN#15894/people A child] is sleeping in [/EN#15897/vehicles the front passenger seat of a car] with [/EN#15895/other the window] slightly open .
+[/EN#15894/people A child] sleeps viewed through [/EN#15895/vehicles a window of a car] [/EN#0/notvisual which] is cracked slightly .
+[/EN#15894/people A young child] is sleeping inside [/EN#15896/vehicles a vehicle] [/EN#0/notvisual that] is parked outside .
+[/EN#15894/people A child] asleep in [/EN#15896/vehicles a car] with [/EN#15895/other the window] open
+[/EN#15894/people A child] is sleeping in [/EN#15896/vehicles a car] .

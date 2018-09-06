@@ -1,0 +1,5 @@
+[/EN#24629/people A man] wearing [/EN#24630/other blue coveralls] is handing [/EN#24633/other a tool] to [/EN#24632/people another person] .
+[/EN#24629/people A man] in [/EN#24630/clothing a navy blue jacket] holding [/EN#24633/other a tool] in [/EN#24636/bodyparts his dirty hand] .
+[/EN#24629/people A man] in [/EN#24630/clothing a work uniform] passing [/EN#24633/other a tool] to [/EN#24632/people another person] .
+[/EN#24629/people Man] in [/EN#24630/clothing a blue jumpsuit] attempts to repair [/EN#24631/scene an escalator] .
+[/EN#24629/people A man] with [/EN#24634/bodyparts a mustache] works on [/EN#24631/scene a broken escalator] .

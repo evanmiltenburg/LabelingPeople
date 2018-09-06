@@ -1,0 +1,5 @@
+[/EN#98346/people Person] in [/EN#98359/clothing a straw hat] sitting in [/EN#98347/vehicles/scene a boat] with [/EN#98349/other produce] in [/EN#98357/other the back] , rowing down [/EN#98348/scene a river] with [/EN#98355/people people] on [/EN#98356/scene shore] .
+[/EN#98346/people A person] in [/EN#98347/vehicles/scene a boat] floating on [/EN#98348/scene water] , and [/EN#98354/people two other people] sitting in [/EN#98352/vehicles/scene another boat] .
+[/EN#98346/people An Asian man] paddles [/EN#98347/other a gondola] full of [/EN#98349/other vegetables] past [/EN#98353/scene a thatch roofed village] .
+[/EN#98346/people A oriental person] rowing [/EN#98347/vehicles/scene a boat] , full of [/EN#98349/other vegetables] , down [/EN#98348/scene a river] .
+[/EN#98350/vehicles/scene Two boats] hold [/EN#98354/people people] and [/EN#98349/other food items] .

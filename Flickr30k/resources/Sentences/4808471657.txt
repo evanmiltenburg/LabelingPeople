@@ -1,0 +1,5 @@
+[/EN#205150/people A woman] in [/EN#205153/clothing a white shirt] and [/EN#205154/clothing blue shorts] follows [/EN#205152/people a two people] in [/EN#205155/clothing red shirts] up [/EN#205151/scene a staircase] .
+[/EN#205147/people A group of three people] climb [/EN#205149/other a path of wooden stairs] up [/EN#205148/scene a rocky hill] .
+[/EN#205147/people Three people] are outside walking up [/EN#205149/other a set of wooden stairs] .
+[/EN#205147/people These people] are climbing [/EN#205149/other the steps] to go [/EN#205148/scene the mountain]
+[/EN#205147/people People] walking up [/EN#205149/other a narrow set of wooden stairs] .

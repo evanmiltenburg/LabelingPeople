@@ -1,0 +1,5 @@
+[/EN#127974/people This person] , [/EN#127980/other whose board] displays [/EN#127975/other an orange and yellow sail] , is sailing through [/EN#127977/scene the water] .
+[/EN#0/notvisual There] is [/EN#127974/people a person] on [/EN#127976/other a sailboard] with [/EN#127975/other an orange and yellow sail] out on [/EN#127977/scene the water] .
+[/EN#127974/people That person] is in [/EN#127977/scene the water] with [/EN#127975/other a World festival sign] .
+[/EN#127974/people A windboarder] stands on [/EN#127976/other their windboard] in [/EN#127977/scene the ocean] .
+[/EN#127974/people A person] stands on [/EN#127976/vehicles/scene a boat] in [/EN#127977/scene the ocean] .

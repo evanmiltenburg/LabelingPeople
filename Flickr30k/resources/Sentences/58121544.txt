@@ -1,0 +1,5 @@
+[/EN#243336/people A group of men] and [/EN#243342/people women] sit at [/EN#243338/other a restaurant table] with [/EN#243339/other beer] and [/EN#243341/other food] .
+[/EN#243336/people Friends] are at [/EN#243337/scene a bar] drinking , eating , and having [/EN#243343/other a conversation] .
+[/EN#243336/people A group of people] sit at [/EN#243338/other a table] [/EN#0/notvisual that] has [/EN#243341/other food] and [/EN#243340/other drinks] on [/EN#0/notvisual it] .
+[/EN#243336/people A group of people] [/EN#243344/people both men] and [/EN#243342/people woman] are talking at [/EN#243338/other a table] .
+[/EN#243336/people A group of young people] eating at [/EN#243337/scene a restaurant] .

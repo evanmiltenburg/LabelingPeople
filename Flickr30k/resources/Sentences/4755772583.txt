@@ -1,0 +1,5 @@
+[/EN#199105/people People] walking on [/EN#199110/scene street] toward [/EN#199114/other exhibit] with [/EN#199109/other artwork] and [/EN#199115/other symbols] written on [/EN#199108/other display]
+[/EN#199105/people A group of people] walk towards [/EN#199109/scene an ornately decorated Asian gate] .
+[/EN#0/notvisual There] are [/EN#199106/people people] walking down [/EN#199110/scene a sidewalk] in [/EN#199111/scene a Japanese city] .
+[/EN#199106/people Two women] walking towards [/EN#199107/other a giant christmas tree] .
+[/EN#199105/people People] enter [/EN#199109/scene a large building] .

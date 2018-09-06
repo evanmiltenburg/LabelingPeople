@@ -1,0 +1,5 @@
+[/EN#187227/people A man] and [/EN#187231/people a woman] are walking on [/EN#187230/scene the grass] with [/EN#187228/other the American flags] on [/EN#0/notvisual either side of them]
+[/EN#187229/people An elderly couple] is walking in between [/EN#187232/other a large row of American flags] .
+[/EN#187229/people An elderly couple] is walking in [/EN#187230/scene a field] filled with [/EN#187228/other American flags] .
+[/EN#187227/people An old man] and [/EN#187231/people lady] on [/EN#187230/scene grass] in between [/EN#187228/other rows of American flags] .
+[/EN#187229/people old couple] walking through [/EN#187230/scene a field] .

@@ -1,0 +1,5 @@
+[/EN#107961/people a young girl] wearing [/EN#107963/clothing a colorful outfit] dancing down [/EN#107964/scene the street] in [/EN#107967/other a performance] .
+[/EN#107961/people A woman] in [/EN#107963/clothing red and white] standing in [/EN#107964/scene the middle of the street] .
+[/EN#107961/people A dancer] posing for [/EN#0/notvisual the camera] in [/EN#107963/clothing a red and white dress] .
+[/EN#107961/people A cheerleader] in [/EN#107963/clothing a red uniform] poses in [/EN#107962/people a parade] .
+[/EN#107961/people A woman] in [/EN#107963/clothing red and white] poses in [/EN#107962/people a parade]

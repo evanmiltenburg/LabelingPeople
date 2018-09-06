@@ -1,0 +1,5 @@
+[/EN#35453/people A man] wearing [/EN#35463/clothing jeans] and [/EN#35459/other a button] down [/EN#35456/clothing shirt] leads [/EN#35454/animals a brown horse] wearing [/EN#35457/clothing a saddle] on [/EN#35454/animals a horse] racing [/EN#35462/scene dirt] track .
+[/EN#35453/people A man] wearing [/EN#35458/clothing blue jeans] is walking while [/EN#0/notvisual he] leads [/EN#35454/animals a horse] .
+[/EN#35453/people A man] in [/EN#35456/clothing a pink shirt] leading [/EN#35454/animals a horse] down [/EN#35460/scene a dirt road] .
+[/EN#35453/people A man] is walking [/EN#35454/animals his horse] on [/EN#35460/other a racetrack] .
+[/EN#35453/people A man] is walking [/EN#35454/animals a small horse] .

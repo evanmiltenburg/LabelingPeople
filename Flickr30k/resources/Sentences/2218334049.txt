@@ -1,0 +1,5 @@
+[/EN#34851/animals A black dog] is standing outside in [/EN#34852/scene the dark of night] .
+[/EN#34851/animals A black and brown dog] is standing outdoors at [/EN#34852/scene night] .
+[/EN#34851/animals The black dog] is standing on [/EN#34853/scene the grass] at [/EN#34852/scene night] .
+[/EN#34851/animals Black dog] in [/EN#34853/scene the yard] at [/EN#34852/scene night] .
+[/EN#34851/other A Doberman Pinscher] at [/EN#34852/scene night]

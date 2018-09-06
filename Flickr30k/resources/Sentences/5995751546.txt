@@ -1,0 +1,5 @@
+[/EN#246449/people Two men] are sitting on [/EN#246452/other a pile of fishing nets] on [/EN#246450/scene a dock] next to [/EN#246451/vehicles an elaborately designed fishing vessel] .
+[/EN#246454/people One man] trying to fix [/EN#246452/other the net] for [/EN#246451/vehicles/scene the boat] on [/EN#246450/scene the shore] while [/EN#246454/other the other one] is facing [/EN#0/notvisual him] .
+[/EN#246449/people Two men] work on [/EN#246452/other a net] with [/EN#246451/other a large , decorative sailboat] in [/EN#0/notvisual the background] .
+[/EN#246449/people Two people] sitting down on [/EN#246450/people the peer] behind [/EN#246451/other a docked ship]
+[/EN#246449/people Two men] repair [/EN#246452/other a fisherman 's net] near [/EN#246451/other a ship] .

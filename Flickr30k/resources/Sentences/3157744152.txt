@@ -1,0 +1,5 @@
+[/EN#97226/people A barefoot man] in [/EN#97229/clothing his pajamas] is looking toward [/EN#97230/scene the sky] while walking on [/EN#97228/scene the tennis court] .
+[/EN#97226/people The man] is wearing [/EN#97227/clothing a blue sweater] and is barefoot on [/EN#97228/other a court] .
+[/EN#97226/people a man] wearing [/EN#97227/clothing a blue shirt] walking barefoot on [/EN#97228/scene a tennis court]
+[/EN#97226/people A barefoot man] walks across [/EN#97228/scene a tennis court] .
+[/EN#97226/people A man] in [/EN#97227/clothing a blue shirt] is walking barefoot .

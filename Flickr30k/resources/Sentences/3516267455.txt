@@ -1,0 +1,5 @@
+[/EN#124079/animals A white dog] jumps into [/EN#124080/scene natural water] .
+[/EN#124079/animals A dog] running into [/EN#124080/scene the water] .
+[/EN#124079/animals A dog] runs through [/EN#124080/scene the water] .
+[/EN#124079/animals A dog] swims in [/EN#124080/scene the lake] .
+[/EN#124079/animals A dog] in [/EN#124080/scene a lake] .

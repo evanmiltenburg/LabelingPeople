@@ -1,0 +1,5 @@
+[/EN#220141/people A man] with [/EN#220142/clothing a blue shirt] is looking over [/EN#220144/other a railing] with [/EN#220146/bodyparts his hands] at [/EN#0/notvisual his sides] and [/EN#220143/clothing an orange hard hat] in [/EN#220145/bodyparts one hand] .
+[/EN#220141/people An older man] with [/EN#220143/clothing his hard hat] in [/EN#220145/bodyparts hand] , standing and staring out at [/EN#220148/other something] .
+[/EN#220141/people Construction worker] stands looking over [/EN#220144/other a rail] while resting .
+[/EN#220141/people A man] in [/EN#220142/clothing a blue shirt] is holding [/EN#220143/clothing a construction hat] .
+[/EN#220141/people The man] in [/EN#220142/clothing the blue] looks very tired .

@@ -1,0 +1,5 @@
+[/EN#81657/people A man] with [/EN#81662/clothing a Nike hat] , [/EN#81658/clothing Nike shirt] , [/EN#81661/clothing Nike shorts] , and [/EN#81660/clothing Nike shoes] is sitting on [/EN#81663/vehicles some sort of public transportation] .
+[/EN#81657/people A man] sitting on [/EN#81659/vehicles/scene a bus] with [/EN#81664/bodyparts his head] down .
+[/EN#81657/people A man] falling asleep while sitting down .
+[/EN#81657/people A man] in [/EN#81658/clothing a gray t-shirt] rests .
+[/EN#81657/people A man] is sleeping on [/EN#81659/vehicles/scene the bus] .

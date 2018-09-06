@@ -1,0 +1,5 @@
+[/EN#67701/people Cowboy] is riding [/EN#67702/animals a bucking horse] in [/EN#67703/clothing a red shirt] , [/EN#67705/clothing blue jeans] , and [/EN#67706/clothing cowboy boots] in [/EN#67704/other a rodeo] .
+[/EN#67701/people A cowboy] wearing [/EN#67703/clothing a pink shirt] attempting to ride [/EN#67702/animals a bucking horse] .
+[/EN#67701/people A cowboy] in [/EN#67703/clothing a pink shirt] is riding [/EN#67702/animals a bucking horse] .
+[/EN#67701/people A cowboy] is riding [/EN#67702/animals a bucking bronco] at [/EN#67704/other the rodeo] .
+[/EN#67701/people A man] in [/EN#67703/clothing a pink shirt] rides [/EN#67702/animals a bucking horse] .

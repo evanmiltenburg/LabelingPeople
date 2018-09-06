@@ -1,0 +1,5 @@
+[/EN#107623/vehicles A sport utility vehicle] is driving through [/EN#107626/scene deep and muddy water] .
+[/EN#107623/vehicles A large vehicle] travels through [/EN#107625/scene a bumpy and muddy path] .
+[/EN#107623/vehicles An off road vehicle] driving through [/EN#107624/scene a mud puddle] .
+[/EN#107623/vehicles A large vehicle] drives through [/EN#107624/scene a mud puddle] .
+[/EN#107623/vehicles An SUV] traveling through [/EN#107625/other mud] .

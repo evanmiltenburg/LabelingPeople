@@ -1,0 +1,5 @@
+[/EN#64724/people Woman] in [/EN#64725/clothing a hat] outside [/EN#64726/scene a building] on [/EN#64727/other a stool] with [/EN#64728/other a canvas] on [/EN#64729/bodyparts her lap] doing [/EN#64728/other art] .
+[/EN#64724/people An older woman] is sitting outside drawing with [/EN#64726/scene a brick building] behind [/EN#0/notvisual her] .
+[/EN#64724/people one lady] wearing [/EN#64725/clothing a hat] sitting in front of [/EN#64726/scene her house] drawing [/EN#64728/other portrait]
+[/EN#64724/people An old woman] is sitting next to [/EN#64726/scene a brick building] , [/EN#64728/other painting] .
+[/EN#64724/people An older woman] is drawing outside of [/EN#64726/other an old school] .

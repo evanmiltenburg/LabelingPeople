@@ -1,0 +1,5 @@
+[/EN#52729/people A young man] in [/EN#52732/clothing all black] running in [/EN#52733/other a race] on [/EN#52730/scene a sidewalk] with [/EN#52736/people onlookers] sitting in [/EN#52735/scene grass] behind [/EN#0/notvisual him] .
+[/EN#52729/people A runner] dressed in [/EN#52732/clothing black] is preparing for [/EN#52733/other a race] .
+[/EN#52729/people Young man] wearing [/EN#52732/clothing all black] jogs in [/EN#52734/scene a park] .
+[/EN#52729/people A runner] heads through [/EN#52731/scene the city] .
+[/EN#52729/people A man] jogging in [/EN#52733/other a marathon]

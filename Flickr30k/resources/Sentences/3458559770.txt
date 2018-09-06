@@ -1,0 +1,5 @@
+[/EN#119725/people Person] in [/EN#119727/clothing blue jacket] on [/EN#119726/vehicles a bike] on [/EN#119728/other a dirt course] with [/EN#119732/people people] looking from behind [/EN#119735/other a red and white barrier] .
+[/EN#119725/people A biker] with [/EN#119727/clothing a blue jacket] , [/EN#119727/clothing black pants] , and [/EN#119733/clothing white helmet] driving on [/EN#119728/scene dirt] while [/EN#119731/people people] watch .
+[/EN#119725/people The motocross rider] wearing [/EN#119727/clothing blue and black pants] .
+[/EN#119725/people The biker] in [/EN#119727/clothing blue] is going around [/EN#119729/scene a corner] .
+[/EN#119725/people A person] on [/EN#119726/vehicles a bmx bike] .

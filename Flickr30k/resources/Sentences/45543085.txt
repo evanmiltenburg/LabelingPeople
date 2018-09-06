@@ -1,0 +1,5 @@
+[/EN#177881/people A man] in [/EN#177883/clothing a blue shirt] is working on [/EN#177885/other some sort of machine] and is standing below [/EN#177882/people a picture of a man] [/EN#0/notvisual who] looks like [/EN#177882/other Fidel Castro] .
+[/EN#177881/people A man] wearing [/EN#177883/clothing a blue shirt] operates [/EN#177885/other a cash machine] in [/EN#177887/scene a room] with [/EN#177882/other a picture of Fidel Castro] hanging on [/EN#177889/other the wall] .
+[/EN#177881/people A man] in [/EN#177883/clothing a blue shirt] observes [/EN#177885/other a piece of machinery] in [/EN#177887/scene a small room] .
+[/EN#177881/people A hispanic man] under [/EN#177882/people a picture of a man] in [/EN#177884/clothing uniform] .
+[/EN#177881/people A young man] is working very hard for [/EN#177888/scene his country] .

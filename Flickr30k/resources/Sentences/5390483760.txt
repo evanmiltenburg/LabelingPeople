@@ -1,0 +1,5 @@
+[/EN#235241/people A police officer] and [/EN#235245/people firemen] are surveying [/EN#235240/vehicles a car wreck] where [/EN#235238/other a van] has gone off-road .
+[/EN#235241/people Police] and [/EN#235246/people firemen] discuss [/EN#0/notvisual what] to do about [/EN#235238/vehicles the overturned SUV] lying in [/EN#235244/scene the snow] .
+[/EN#235243/people First responders] look at [/EN#235238/vehicles car] [/EN#0/notvisual that] has slid off [/EN#235244/scene a snowbank] and flipped over .
+[/EN#235238/other A van] is overturned in [/EN#235244/scene snow] while [/EN#235243/people police] and [/EN#235246/people firemen] assess [/EN#235248/other the situation] .
+[/EN#235238/vehicles A car] is turned upside down in [/EN#235244/scene a ditch] with [/EN#235245/people emergency workers] nearby .

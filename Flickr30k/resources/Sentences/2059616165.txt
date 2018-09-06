@@ -1,0 +1,5 @@
+[/EN#26324/animals A black puppy] wearing [/EN#26328/clothing black collar] sits on [/EN#26325/scene the grass] and [/EN#26326/other leaves] .
+[/EN#26324/animals A black dog] lays in [/EN#26325/scene the grass] and looks towards [/EN#0/notvisual the camera] .
+[/EN#26324/animals A black dog] lays on [/EN#26325/scene a grassy lawn] covered in [/EN#26326/other leaves] .
+[/EN#26324/other Black dog lays] on [/EN#26325/scene grass]
+[/EN#26324/animals A black dog] .

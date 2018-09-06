@@ -1,0 +1,5 @@
+[/EN#23620/people Several people] float in [/EN#23619/other a large , ornately-decorated sailboat] .
+[/EN#23620/people People] are riding and rowing [/EN#23619/vehicles/scene a boat] near [/EN#23625/scene the coastline] .
+[/EN#23619/vehicles/scene A boat] with [/EN#23623/other one sail] is being steered in [/EN#23624/scene calm water] .
+[/EN#23619/vehicles/scene A Japanese boat] is sailing on [/EN#23624/scene dark waters] .
+[/EN#23620/people People] are sailing [/EN#23619/other a ship] on [/EN#23624/scene the ocean] .

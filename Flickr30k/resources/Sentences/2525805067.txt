@@ -1,0 +1,5 @@
+[/EN#55301/other An outdoor art fair or exhibition] where [/EN#55297/people one artist] is painting and displaying [/EN#55299/other his work] along with [/EN#55308/people other artists] outside [/EN#55302/scene a building] .
+[/EN#55297/people An artist] is painting at [/EN#55305/scene an art fair] while [/EN#55298/people a woman] and [/EN#55304/people a man] talk in [/EN#0/notvisual the background] and [/EN#55300/people several people] walk by .
+On [/EN#55303/scene a gray bricked street] , [/EN#55297/people a man] in [/EN#55310/clothing a vest] sits and paints among [/EN#55299/other his other works] while [/EN#55298/people a woman] and [/EN#55309/people 3 men] talk .
+[/EN#55297/people Artist] in [/EN#55307/scene courtyard] sitting drawing with [/EN#55300/people people] in [/EN#0/notvisual foreground] .
+[/EN#55297/people Male street artist] painting [/EN#55306/other a portrait] .

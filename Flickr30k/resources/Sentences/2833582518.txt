@@ -1,0 +1,5 @@
+[/EN#75603/animals Greyhound] running on [/EN#75604/scene track] with [/EN#75608/clothing blue vest] with [/EN#75607/other a white numeral two] .
+[/EN#75603/animals The # 2 greyhound dog] is running around [/EN#75604/scene a track] .
+[/EN#75605/other a] muzzled [/EN#75603/animals greyhound dog] is running around [/EN#75604/scene a track]
+[/EN#75603/animals A dog] running down [/EN#75604/scene a dirt track] .
+[/EN#75603/animals A greyhound] running [/EN#75606/other a race] .

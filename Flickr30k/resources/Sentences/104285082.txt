@@ -1,0 +1,5 @@
+[/EN#1105/people A man] with [/EN#1106/clothing glasses] is sitting [/EN#1107/other a chair] playing [/EN#1108/other the oboe] while [/EN#1109/people a man] in [/EN#1110/clothing a purple shirt] plays [/EN#1111/instruments percussion] and [/EN#1112/people spectators] look on .
+[/EN#1105/people An older man] with [/EN#1113/bodyparts gray hair] is sitting in [/EN#1107/other a chair] playing [/EN#1114/instruments a large instrument] made of [/EN#1114/other bamboo] .
+[/EN#1105/people Gray-haired man] in [/EN#1116/clothing dress shirt] plays [/EN#1108/other the bassoon] while reading [/EN#1119/other sheet music] from [/EN#1117/scene a stand]
+[/EN#1105/people A gray-haired man] sitting in [/EN#1107/other a chair] playing [/EN#1118/instruments a wind instrument] among [/EN#1109/people other musicians] .
+[/EN#1105/people A man] playing [/EN#1118/instruments a musical instrument] .

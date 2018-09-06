@@ -1,0 +1,5 @@
+[/EN#94960/people A motorcycle rider] wearing [/EN#94960/other black and silver] does [/EN#94961/other a wheelie] on [/EN#94962/scene a sandy terrain] .
+[/EN#94960/people A man] is riding [/EN#94964/vehicles his dirt bike] through [/EN#0/notvisual the air] in [/EN#94962/scene the desert] .
+[/EN#94960/people A man] does [/EN#0/notvisual a jump] in [/EN#94962/scene the desert] on [/EN#94964/other a motorcycle] .
+[/EN#94960/people A man] is doing [/EN#0/notvisual a motocross jump] into [/EN#0/notvisual the air] .
+[/EN#94960/people A dirt biker] in [/EN#94962/scene the desert] .

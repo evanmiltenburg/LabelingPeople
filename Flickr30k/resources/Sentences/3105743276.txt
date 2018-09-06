@@ -1,0 +1,5 @@
+[/EN#93924/people A group of people] standing on [/EN#93925/other a hillside] decorated with [/EN#93930/other yellow flowers] as [/EN#93923/other fog rolls] over [/EN#93922/scene a nearby mountainside] .
+[/EN#93921/people A large group of people] are walking up [/EN#93925/scene a steep mountain] with [/EN#93923/other clouds] hanging in [/EN#0/notvisual the background] .
+[/EN#93920/people A group male] and [/EN#93928/people female hikers] observe [/EN#93929/scene the scenery] .
+[/EN#93921/people A large group of people] walking on [/EN#93922/scene a mountainside] .
+[/EN#93921/people A group of people] on [/EN#93926/scene a mountain trail] .

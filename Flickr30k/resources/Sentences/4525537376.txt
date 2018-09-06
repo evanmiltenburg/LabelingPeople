@@ -1,0 +1,5 @@
+[/EN#175519/people One man] facing [/EN#175523/scene the entire city] , focusing on [/EN#175527/other one thing] , [/EN#175525/other everything] else is [/EN#175522/other a blur] .
+[/EN#175520/people Several people] are walking [/EN#0/notvisual one direction] while [/EN#175519/people 1 man] is walking [/EN#175524/other the opposite] .
+[/EN#175519/people A man] in [/EN#175528/clothing a purple shirt] is walking along [/EN#175521/scene a street] with [/EN#175520/people a group of people] .
+[/EN#0/notvisual There] are [/EN#175520/people many people] walking on [/EN#175521/scene a city street] .
+[/EN#175519/people A man] walking through [/EN#175520/people a crowd] on [/EN#175521/scene a city street] .

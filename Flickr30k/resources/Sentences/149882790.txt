@@ -1,0 +1,5 @@
+[/EN#14922/people A man] in [/EN#14924/clothing a blue swimsuit] and [/EN#14925/clothing a red beanie] kneels in [/EN#14930/other the wet sand] on [/EN#14923/scene the edge of a beach] , making [/EN#14926/scene a sand castle] [/EN#0/notvisual that] is as tall as [/EN#0/notvisual he] is when [/EN#0/notvisual he] is kneeling .
+[/EN#14922/people a man] with [/EN#14931/bodyparts medium length hair] , wearing [/EN#14925/clothing a red beanie] and [/EN#14924/clothing blue shorts] with [/EN#14929/clothing no shirt] , on [/EN#14932/bodyparts one knee] at [/EN#14923/scene the beach] , sculpting [/EN#14926/scene a sand castle] with [/EN#14927/other a trough] .
+[/EN#14922/people A young man] , wearing [/EN#14925/clothing a red beanie] , is building [/EN#14926/scene a sand castle] on [/EN#14923/scene the beach] .
+[/EN#14922/people White man] in [/EN#14925/clothing orange beanie] and [/EN#14924/clothing blue shorts] carving [/EN#14926/other mud] on [/EN#14923/scene the shore] .
+[/EN#14922/people A man] in [/EN#14924/clothing blue shorts] and [/EN#14925/clothing a red hat] sculpting [/EN#14926/scene a sand castle] .

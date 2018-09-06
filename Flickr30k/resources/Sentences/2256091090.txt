@@ -1,0 +1,5 @@
+[/EN#37258/people A blond boy] is staring at [/EN#37259/other a toy robot] and looks like [/EN#0/notvisual he] wants to play with [/EN#0/notvisual it] .
+[/EN#37258/people A blond-haired boy] is looking at [/EN#37261/other an odd] looking [/EN#37259/other humanoid robot] .
+[/EN#37258/people A young blond boy] looking at [/EN#37259/other a white robot] on [/EN#37260/other a green table] .
+[/EN#37258/people A blond child] in [/EN#37262/clothing a red jacket] looking at [/EN#37259/other a robotic toy] .
+[/EN#37258/people A child] looks at [/EN#37259/other a robot] .

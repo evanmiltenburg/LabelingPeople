@@ -1,0 +1,5 @@
+[/EN#168705/people A businessman] dressed in [/EN#168711/clothing a suit] talks on [/EN#168710/other a cellphone] as [/EN#0/notvisual he] walks down [/EN#168708/scene a busy street] .
+[/EN#168706/people A few people] are walking on [/EN#168708/scene a street] through [/EN#168713/scene a busy city] on [/EN#168714/scene a nice day] .
+[/EN#168712/people People] walking on [/EN#168708/scene the sidewalk of a large city] while [/EN#168715/vehicles traffic] goes by .
+[/EN#168705/people Man] on [/EN#168710/other phone] in [/EN#168711/clothing business suit] walking down [/EN#168707/scene a busy street] .
+[/EN#168706/people People] walking down [/EN#168707/scene the busy streets] in [/EN#168707/scene a city] .

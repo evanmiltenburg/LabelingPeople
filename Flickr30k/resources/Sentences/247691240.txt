@@ -1,0 +1,5 @@
+[/EN#52424/people A young man] in [/EN#52425/clothing a blue short-sleeved shirt] climbs up [/EN#52426/bodyparts a rock face] with [/EN#52427/other no ropes] .
+[/EN#0/notvisual There] is [/EN#52424/people a man] in [/EN#52425/clothing a light shirt] climbing [/EN#52426/scene a rocky cliff] .
+[/EN#52424/people A guy] is rock climbing .
+[/EN#52424/people A man] is rock climbing .
+[/EN#52424/people A man] rock climbing .

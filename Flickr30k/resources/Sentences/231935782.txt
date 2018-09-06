@@ -1,0 +1,5 @@
+[/EN#41374/people A man] wearing [/EN#41376/clothing a white shirt] is looking out [/EN#41377/other a window of a metal construction] .
+[/EN#41374/people A man] wearing [/EN#41378/other a white button] down [/EN#41376/clothing shirt] looking out of [/EN#41377/vehicles/scene a window of a train] .
+[/EN#41374/people A man] in [/EN#41376/clothing a white shirt] peers out [/EN#41375/vehicles/scene a brown train] .
+[/EN#41374/people Man] looking out [/EN#41377/vehicles/scene the window of a train] .
+[/EN#41374/people Man] on [/EN#41375/vehicles/scene train] starring out [/EN#41377/other a window] .

@@ -1,0 +1,5 @@
+[/EN#145284/people A woman] in [/EN#145285/clothing a blue sparkly dress] with [/EN#145288/other a slit] up [/EN#145292/bodyparts the leg] holding [/EN#145286/other a microphone] .
+[/EN#145284/people A woman] in [/EN#145285/clothing a blue sparkly evening dress] and [/EN#145290/clothing high heels] with [/EN#145286/other a microphone] .
+[/EN#145284/people A woman] is holding [/EN#145286/other a microphone] in [/EN#145291/bodyparts one hand] and [/EN#145289/bodyparts her mouth] is open .
+[/EN#145284/people Woman] in [/EN#145285/clothing a blue evening dress] holds [/EN#145286/other a microphone] on [/EN#145287/scene stage] .
+[/EN#145284/people A singer] wearing [/EN#145285/clothing a blue dress] stands on [/EN#145287/scene stage] .

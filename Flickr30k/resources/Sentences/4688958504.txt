@@ -1,0 +1,5 @@
+[/EN#191158/people A surgeon] peering over [/EN#191156/people his patient] , while [/EN#191159/other the computer screen] shows [/EN#191166/scene the outside waiting room] and [/EN#191161/scene an image of the surgery room] .
+[/EN#191154/people Two men] in [/EN#191164/people surgeons] [/EN#191163/clothing ' gowns] are completing [/EN#191155/other an operation] in [/EN#191160/other an] OR .
+[/EN#191154/people Two surgeons] in [/EN#191157/clothing blue] with [/EN#191165/clothing white masks] and [/EN#191162/clothing glasses] perform [/EN#191155/other surgery]
+[/EN#191154/people Two doctors] in [/EN#191157/clothing blue uniforms] are in [/EN#191155/other the process of surgery] .
+[/EN#191154/people Two doctor] [/EN#0/notvisual who] are working on [/EN#191156/people a patient] .

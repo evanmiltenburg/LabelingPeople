@@ -1,0 +1,5 @@
+[/EN#34837/people A person] with [/EN#34840/clothing a green helmet] waits in [/EN#34836/scene the doorway of the tourist info center] .
+[/EN#34838/people People] are standing in and outside of [/EN#34836/scene a building] marked [/EN#34836/other Tourist Info] .
+[/EN#34836/scene A front view shot of a tourist information center] at [/EN#34839/scene night]
+[/EN#34837/people A man] is standing in [/EN#34836/scene the Tourist-Info store] .
+[/EN#34836/scene A lighted up tourist information building] .

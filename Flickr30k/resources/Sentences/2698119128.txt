@@ -1,0 +1,5 @@
+[/EN#66775/people A young girl] in [/EN#66776/clothing an orange bathing suit] is about to splash into [/EN#66777/scene a pool] .
+[/EN#66775/people A young girl] in [/EN#66776/clothing a red bathing suit] is swimming in [/EN#66777/scene a pool] .
+[/EN#66775/people Girl] in [/EN#66776/clothing orange suit] swims in [/EN#66777/scene pool] .
+[/EN#66775/people The girl] is swimming in [/EN#66777/scene the pool] .
+[/EN#66775/people A girl] enjoys [/EN#66777/scene the swimming pool] .

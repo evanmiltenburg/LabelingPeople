@@ -1,0 +1,5 @@
+[/EN#143330/people Several people] shop at [/EN#143332/scene an outdoor farmer 's market] on [/EN#143331/scene a cloudy day] .
+[/EN#143330/people People] shop for [/EN#143334/other fresh produce] at [/EN#143332/scene an outdoor market] in [/EN#143333/scene the city] .
+[/EN#143332/scene a white tented fruit stand] with [/EN#143330/people several people] shopping in [/EN#0/notvisual it] .
+[/EN#143330/people A group of people] stand at [/EN#143332/scene a farmers market] on [/EN#143331/scene a dreary day] .
+[/EN#143330/people People] visiting [/EN#143332/scene a street market] .

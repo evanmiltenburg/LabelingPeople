@@ -1,0 +1,5 @@
+[/EN#109940/people A man] in [/EN#109941/clothing a black jacket] is beside [/EN#109945/scene the window of a coffee shop] looking down .
+[/EN#109940/people A man] wearing [/EN#109941/clothing a black shirt] and [/EN#109944/clothing sweater] is looking down .
+[/EN#109940/people An older man] in [/EN#109941/clothing a black jacket] looking down .
+[/EN#109940/people A man] wearing [/EN#109941/clothing a black jacket] looking down .
+[/EN#109940/people A man] in [/EN#109941/clothing a dark jacket] looking down .

@@ -1,0 +1,5 @@
+[/EN#80422/people A bald man] and [/EN#80424/people a dark-haired man] with [/EN#80428/bodyparts a mustache] are standing in [/EN#80422/scene the doorway] near [/EN#80430/scene a chair store] .
+[/EN#80419/people Two men] stand on [/EN#80426/other stairs] with [/EN#80420/other an assortment of chairs] and [/EN#80425/other a woven basket] in [/EN#0/notvisual the foreground] .
+[/EN#80419/people Two men] are standing behind [/EN#80420/other an eclectic group of different sized chairs] .
+[/EN#80419/people Two middle-aged men] standing outside of [/EN#80423/other a business] [/EN#0/notvisual that] sells [/EN#80421/other chairs] .
+[/EN#80419/people Two guys] talking about [/EN#80421/other chairs] .

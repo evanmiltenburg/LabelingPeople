@@ -1,0 +1,5 @@
+[/EN#261297/people A man] standing at [/EN#261306/scene the front of the room] is pointing up while [/EN#261301/people several people] [/EN#0/notvisual who] are seated look towards [/EN#0/notvisual him] .
+[/EN#261297/people A man] in [/EN#261307/clothing a collared shirt] points to [/EN#261299/other a projector] as [/EN#0/notvisual he] gives [/EN#261298/other a presentation] to [/EN#261301/people a room full of people] .
+[/EN#261302/people Students] are paying [/EN#261305/other attention] to [/EN#261297/people their teacher] pointing at [/EN#261300/other an object] on [/EN#261300/other the screen]
+[/EN#261297/people A man] is giving [/EN#261298/other a presentation] to [/EN#261301/people a room full of people] .
+[/EN#261297/people A man] gives [/EN#261298/other a presentation] to [/EN#261303/scene a crowded room] .

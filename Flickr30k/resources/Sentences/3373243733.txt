@@ -1,0 +1,5 @@
+[/EN#113795/people A person] rides [/EN#113796/vehicles their bicycle] onto [/EN#113798/other a rock] and balances on [/EN#113799/other one wheel] .
+[/EN#113795/people A person] on [/EN#113797/other a motorcycle] doing [/EN#113797/other a wheelie] off of [/EN#113798/other a rock] .
+[/EN#113795/people A person] in [/EN#113802/clothing a black jacket] doing [/EN#0/notvisual tricks] on [/EN#113796/vehicles a motorbike] .
+[/EN#113795/people The man] is riding [/EN#113797/other a motorcycle] over [/EN#113798/other jagged rocks] .
+[/EN#113795/people A person] on [/EN#113796/vehicles a bike] doing [/EN#113797/other a wheelie] on [/EN#113798/other a rock] .

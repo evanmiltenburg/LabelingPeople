@@ -1,0 +1,5 @@
+[/EN#41989/people A man] is instructing [/EN#41990/people a woman] in [/EN#41995/clothing a green parka] on using [/EN#41992/other a compound miter] saw .
+[/EN#41993/people Two people] are using [/EN#41992/other an electrical saw] to cut [/EN#41991/other a piece of lumber] .
+[/EN#41993/people two people] using [/EN#41992/other a circular saw] to cut [/EN#41991/other a piece of lumbar] .
+[/EN#41989/people A man] shows [/EN#41990/people a woman] how to use [/EN#41992/other a saw] to cut [/EN#41991/other a board] .
+[/EN#41990/people A woman] saws [/EN#41991/other a board] with [/EN#41989/people a man] watching over [/EN#0/notvisual her] .

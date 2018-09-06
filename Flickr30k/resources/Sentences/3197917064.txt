@@ -1,0 +1,5 @@
+[/EN#100277/animals A dog] running through [/EN#100278/scene the snow] with [/EN#0/notvisual what] appears to be [/EN#100279/other a chunk of wood] in [/EN#100280/bodyparts its mouth] .
+[/EN#100277/animals A white dog] runs over [/EN#100278/scene a snowy field or lawn] , with [/EN#100279/other a log] in [/EN#100280/bodyparts his jaws] .
+[/EN#100277/animals A white dog] carries [/EN#100279/other something] in [/EN#100281/bodyparts its mouth] through [/EN#100278/scene the snow] .
+[/EN#100277/animals A white dog] in [/EN#100278/scene the snow] running with [/EN#100279/other an object] in [/EN#100280/bodyparts its mouth]
+[/EN#100277/animals A white dog] with [/EN#100282/clothing a purple necklace] on plays in [/EN#100278/scene the snow] .

@@ -1,0 +1,5 @@
+[/EN#53843/animals a black and white dog] jumping in [/EN#0/notvisual the air] while balancing [/EN#53844/other a gold soccer ball] on [/EN#53845/bodyparts its nose]
+[/EN#53843/animals A black dog] holds [/EN#53844/other a beat up soccer ball] in [/EN#53845/bodyparts his mouth] on [/EN#53848/scene the grass] in front of [/EN#53846/scene a home] .
+[/EN#53843/animals a black dog] balances [/EN#53844/other a soccer ball] on [/EN#53845/bodyparts its nose] .
+[/EN#53843/animals A black dog] jumping to get [/EN#53844/other a soccer ball] .
+[/EN#53843/animals A dog] plays with [/EN#53844/other a soccer ball] .

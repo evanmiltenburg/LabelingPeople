@@ -1,0 +1,5 @@
+[/EN#107362/animals A blond dog] is standing beside [/EN#107363/animals a blond puppy] , [/EN#0/notvisual who] is trying to get [/EN#107364/animals a stuffed animal] from [/EN#107362/animals the adult dog] .
+[/EN#107363/animals The small , golden dog] is attempting to take [/EN#107364/other a furry object] from [/EN#107362/people a larger look-alike]
+[/EN#107365/clothing An adult golden] retriever and [/EN#107363/animals a puppy] are playing [/EN#107368/other tug-of-war] with [/EN#107364/other a brown toy] .
+[/EN#107362/animals A big dog] and [/EN#107363/animals a smaller dog] fight over [/EN#107364/other a piece of fabric] .
+[/EN#107362/animals An older dog] and [/EN#107363/other a younger one] playing with [/EN#107364/other a toy] .

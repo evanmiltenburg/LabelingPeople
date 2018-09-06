@@ -1,0 +1,5 @@
+[/EN#23927/people Four people] are sitting at [/EN#23936/other a picnic bench] eating while [/EN#23933/people a fifth man] stands next to [/EN#23931/other the bench] .
+[/EN#23927/people A family] or [/EN#23934/people a group of friends] are having [/EN#23935/other a picnic] in [/EN#0/notvisual what] appears to be [/EN#23928/scene a park] .
+[/EN#23927/people Coeds] sit on [/EN#23929/other a stone picnic table] and eat [/EN#23930/other lunch] in [/EN#23932/scene the courtyard] .
+[/EN#23927/people A group of five people] having [/EN#23930/other lunch] at [/EN#23929/other a picnic table] in [/EN#23928/scene a park] .
+[/EN#23927/people A group of people] are eating at [/EN#23929/scene a table outside] .

@@ -1,0 +1,5 @@
+[/EN#87953/people A man] in [/EN#87954/clothing a long blue shirt] and [/EN#87966/clothing blue shorts] leans against [/EN#87956/other a green and white wall] near [/EN#87960/vehicles a red car] , with [/EN#87955/vehicles a larger blue vehicle] sitting in [/EN#0/notvisual the foreground] .
+[/EN#87953/people A man] in [/EN#87954/clothing a blue shirt] leans on [/EN#87962/other a wall] beside [/EN#87961/scene a road] with [/EN#87955/other a blue van] and [/EN#87960/vehicles red car] with [/EN#87957/scene water] in [/EN#0/notvisual the background] .
+[/EN#87953/people A man] in [/EN#87963/clothing a blue uniform] lean against [/EN#87962/other a wall] with [/EN#87964/other a no smoking sign] .
+[/EN#87953/people A man] waits by [/EN#87961/scene the side of the road] , near [/EN#87957/scene a body of water] .
+[/EN#87953/people A man] leaning against [/EN#87962/other a wall] near [/EN#87958/vehicles a red car] .

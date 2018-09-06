@@ -1,0 +1,5 @@
+[/EN#43950/animals The dogs] are pulling [/EN#43952/people a man] on [/EN#43951/vehicles a type of bike] , through [/EN#43953/scene the snow] .
+[/EN#43950/animals a froup of sled dogs] pulling [/EN#43952/people a man] wearing [/EN#43957/clothing an orange vest] .
+[/EN#43954/animals Three dogs] pulling [/EN#43952/people a man] on [/EN#43951/vehicles a bicycle] through [/EN#43953/scene the snow] .
+[/EN#43954/people A three dog sled team] pulls [/EN#43958/other an unusual tricycle sled] .
+[/EN#43950/animals Several dogs] carry [/EN#43952/people a man] with [/EN#43956/clothing a helmet] through [/EN#43953/scene snow] .

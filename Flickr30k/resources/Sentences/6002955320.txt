@@ -1,0 +1,5 @@
+[/EN#246494/people A young man] jumping [/EN#246497/other his skateboard] in [/EN#246496/scene a skate park] with [/EN#246505/scene the ocean] and [/EN#246495/scene a beach] in [/EN#0/notvisual the background] .
+[/EN#246494/people A man] in [/EN#246501/scene a green sheet] is in [/EN#246504/scene midair] on [/EN#246497/other a green-wheeled skateboard] at [/EN#246496/scene a skateboard park] .
+[/EN#246494/people A man] wearing [/EN#246506/clothing a yellow shirt] and [/EN#246499/other a fedora skateboarding] in [/EN#246496/scene a concrete skate park] .
+[/EN#246494/people A man] at [/EN#246496/scene a skate park] is doing [/EN#246502/other an ollie] out of [/EN#246500/other a bowl] near [/EN#246495/scene a beach] .
+[/EN#246494/people A young man] on [/EN#246495/scene a beach] is performing [/EN#246498/other skateboard stunts] .

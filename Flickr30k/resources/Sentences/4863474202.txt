@@ -1,0 +1,5 @@
+[/EN#212591/people Someone] wearing [/EN#212597/clothing a green shirt] and [/EN#212603/clothing jean knee high jeans] riding [/EN#212594/vehicles a bike] on [/EN#212598/scene the sid of the road] about to pass [/EN#212595/vehicles a gray car] and [/EN#212601/other a texaco sign]
+[/EN#212591/people A person] is riding [/EN#212594/vehicles a bike] along [/EN#212598/scene a street] in [/EN#212592/scene a desolate city] setting .
+[/EN#212593/scene A vacant gas station] among [/EN#212604/scene the shadows of the street corner] .
+[/EN#212599/people A person] riding [/EN#212594/vehicles a bicycle] wearing [/EN#212597/clothing a green shirt] .
+[/EN#212591/people A man] on [/EN#212594/other his bike pedals] down [/EN#212598/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#107090/people A woman] in [/EN#107098/clothing black] and [/EN#107093/people her two children] walk down [/EN#107092/scene a city street] in [/EN#107095/other the rain] , [/EN#107099/clothing their umbrellas] keeping [/EN#0/notvisual them] dry .
+[/EN#107090/people A woman] and [/EN#107093/people two young girls] shelter [/EN#0/notvisual themselves] from [/EN#107095/other the rain] with [/EN#107094/clothing umbrellas] .
+[/EN#107090/people A woman] [/EN#107093/people an children] walking on [/EN#107092/scene a rainy street] in [/EN#107097/scene the city] .
+[/EN#107091/scene Rainy dat outdoors] with [/EN#107090/people a mom] and [/EN#107093/people 2 children] .
+[/EN#107096/other Today] is [/EN#107091/scene a great day] for [/EN#107094/clothing an umbrella] .

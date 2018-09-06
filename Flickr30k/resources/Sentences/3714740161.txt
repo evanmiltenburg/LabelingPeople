@@ -1,0 +1,5 @@
+[/EN#138920/people A man] in [/EN#138925/clothing a gray shirt] and [/EN#138926/clothing flip-flops] is looking in [/EN#138921/other his blue cooler] at [/EN#138922/other the items] [/EN#0/notvisual that] are in [/EN#138921/other the cooler] .
+[/EN#138920/people A young man] wearing [/EN#138924/people all great] is filling [/EN#138921/other a cooler] up with [/EN#138922/other an assortment of foods] .
+[/EN#138920/people A young man] is looking at [/EN#138922/other some food] [/EN#0/notvisual which] is inside of [/EN#138921/other a blue cooler] .
+[/EN#138920/people A man] is unpacking [/EN#138921/other a cooler] filled with [/EN#138922/other food] .
+[/EN#138920/people A man] is getting into [/EN#138921/other a blue cooler] .

@@ -1,0 +1,5 @@
+[/EN#81994/people A man] wearing [/EN#81996/clothing an orange jumpsuit] and [/EN#81995/clothing gray sweatshirt] works on [/EN#81998/scene the side of a railroad track] .
+[/EN#81994/people A guy] wearing [/EN#81995/clothing a gray shirt] and [/EN#81996/clothing an orange jumpsuit] working on [/EN#81997/people the railroad] .
+[/EN#81994/people Man] wearing [/EN#81996/clothing a orange safety uniform] is working on [/EN#81998/scene a railroad track] .
+[/EN#81994/people A worker] [/EN#0/notvisual that] is working on [/EN#81999/other the switch] with [/EN#81999/other a tool] .
+[/EN#81994/people A man] is working on [/EN#81997/people the railroad] .

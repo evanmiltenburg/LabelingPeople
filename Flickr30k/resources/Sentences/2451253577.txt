@@ -1,0 +1,5 @@
+[/EN#50637/people A man] pulls [/EN#50641/other a rope] [/EN#0/notvisual that] is attached to [/EN#50638/vehicles/scene a floating boat] marked " [/EN#50639/other Avocet Market Drayton] " .
+[/EN#50637/people A man] dressed in [/EN#50643/clothing blue] pulling on [/EN#50641/other a rope] [/EN#0/notvisual that] 's attached to [/EN#50638/vehicles/scene a boat] .
+[/EN#50637/people A man] pulling [/EN#50638/other a houseboat] up to [/EN#50647/scene the shore] with [/EN#50641/other a rope] .
+[/EN#50637/people A man] in [/EN#50643/clothing a jumpsuit] and [/EN#50642/clothing a headband] is docking [/EN#50638/vehicles/scene a boat] .
+[/EN#50637/people A man] is working [/EN#50646/scene outdoors] trying to do [/EN#50645/other his job] .

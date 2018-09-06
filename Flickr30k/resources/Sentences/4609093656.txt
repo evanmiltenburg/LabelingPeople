@@ -1,0 +1,5 @@
+[/EN#182252/people A man] in [/EN#182255/clothing a blue striped shirt] has [/EN#182254/clothing a black backpack] on with [/EN#182258/people another man] in [/EN#182257/clothing a green shirt] .
+[/EN#182252/people A man] in [/EN#182255/clothing a blue shirt] wearing [/EN#182254/clothing a backpack] walks through [/EN#182260/other a door] .
+[/EN#182253/people Students] with [/EN#182256/clothing backpacks] are casually walking .
+[/EN#182253/people Two men] with [/EN#182256/clothing backpacks] wait .
+[/EN#182253/people Students] wait before [/EN#182259/people class] .

@@ -1,0 +1,5 @@
+[/EN#106197/animals Two large dogs] lying on [/EN#106199/other their backs] on [/EN#106198/other a purple comforter] .
+[/EN#106197/animals Two dogs] lay on [/EN#106199/other their backs] on [/EN#106198/other a purple bedspread] .
+[/EN#106197/animals Two dogs] lying on [/EN#106199/other their backs] on [/EN#106198/other the purple bed] .
+[/EN#106197/animals The two dogs] are rolling on [/EN#106198/other a purple blanket] .
+[/EN#106197/animals Two dogs] lay upside down on [/EN#106198/other a purple bed] .

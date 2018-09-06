@@ -1,0 +1,5 @@
+[/EN#169244/people A young blond woman] holding [/EN#169245/other a camera] and wearing [/EN#169246/clothing a long black coat] , [/EN#169250/clothing knee high boots] and [/EN#169247/clothing a purple purse] is standing along [/EN#169248/other a wall] .
+[/EN#169244/people A blond woman] dressed in [/EN#169249/clothing black] is holding [/EN#169245/other a camera] and staring at [/EN#169251/other something] on [/EN#0/notvisual the ground] .
+[/EN#169244/people A woman] with [/EN#169246/clothing a coat] and [/EN#169247/clothing a purse] on , halting and looking behind [/EN#0/notvisual herself] .
+[/EN#169244/people A woman] dressed in [/EN#169249/clothing black] is staring at [/EN#169252/scene the floor] on [/EN#169253/scene a sunny day] .
+[/EN#169244/people A woman] with [/EN#169245/other a camera] stands next to [/EN#169248/other a stone wall] .

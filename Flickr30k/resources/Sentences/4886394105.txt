@@ -1,0 +1,5 @@
+[/EN#214745/people A woman] in [/EN#214756/clothing a blue shirt] and [/EN#214749/people a woman] in [/EN#214757/clothing a brown shirt] are bent over [/EN#214746/other a metal food dish] .
+[/EN#214745/people A woman] serving [/EN#214749/people another woman] [/EN#0/notvisual that] is waiting in [/EN#214755/other line] .
+[/EN#214745/people A woman] get [/EN#214748/other some food] from under [/EN#214750/scene a blue tent] .
+[/EN#214745/people A woman] serving [/EN#214748/other food] at [/EN#214752/people a family reunion] .
+[/EN#214749/people Someone] is getting [/EN#214747/other food] at [/EN#214751/scene a booth] .

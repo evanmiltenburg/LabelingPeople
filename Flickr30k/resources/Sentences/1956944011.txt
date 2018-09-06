@@ -1,0 +1,5 @@
+[/EN#24050/people The child] in [/EN#24053/clothing white] is on [/EN#24052/scene the monkey bars] , while [/EN#24057/other the one] in [/EN#24056/clothing brown] stands below .
+[/EN#24050/people A child] wearing [/EN#24053/clothing a white shirt] hangs from [/EN#24052/other the playground equipment] .
+[/EN#24051/people Two children] playing on [/EN#24052/scene an orange jungle gym] in [/EN#24055/other the winter time] .
+[/EN#24051/people Two children] are playing on [/EN#24052/scene monkey bars] .
+[/EN#24051/people Two children] playing on [/EN#24052/scene a jungle gym] .

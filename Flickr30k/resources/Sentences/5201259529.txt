@@ -1,0 +1,5 @@
+[/EN#230926/people A young man] with [/EN#230928/clothing a brown shirt] [/EN#0/notvisual who] is doing [/EN#230931/other some work] on [/EN#230927/other his computer] .
+[/EN#230926/people A man] with [/EN#230932/clothing thick rimmed glasses] is working diligently on [/EN#230927/other his computer] .
+[/EN#230926/people A graduate student] stays up late to do [/EN#230930/other research] on [/EN#230927/other his laptop] .
+[/EN#230926/people A man] intensely works on [/EN#230927/other his laptop] in [/EN#230933/other an office environment] .
+[/EN#230926/people A man] is using [/EN#230927/other his computer] while seated at [/EN#230929/other a desk] .

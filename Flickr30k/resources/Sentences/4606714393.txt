@@ -1,0 +1,5 @@
+[/EN#182104/people Two groups of people] crossing [/EN#182106/scene a street] with [/EN#182115/vehicles no traffic] , with [/EN#182113/scene multicolored multistory apartment buildings] and [/EN#182112/scene a religious building] in [/EN#0/notvisual the background] .
+[/EN#182104/people People] out for [/EN#182107/other a stroll] on [/EN#182102/scene a picturesque European city street] with [/EN#182111/other a green rotunda] in [/EN#0/notvisual the background] .
+[/EN#182103/people A woman] in [/EN#182105/clothing a red coat] is crossing [/EN#182102/scene the street] [/EN#182106/scene the street] with [/EN#182110/people a girl] in [/EN#182114/clothing red pants] and [/EN#182108/other a stroller] .
+[/EN#182102/scene A view of a street] over [/EN#0/notvisual which] [/EN#182104/people people] are crossing at [/EN#182109/other 4:06pm] .
+[/EN#182103/people A woman] in [/EN#182105/clothing a red coat] pushes [/EN#182108/other a stroller] across [/EN#182102/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#118956/people Two men] are [/EN#118959/scene inside] cooking over [/EN#118957/other a fire] .
+[/EN#118956/people Two men] are cooking [/EN#118958/other food] on [/EN#118957/other a grill] .
+[/EN#118956/people Two men] are stoking [/EN#118957/other a wood fire] .
+[/EN#118956/people two men] grilling on [/EN#118957/other a wood stove]
+[/EN#118956/people Two men] are cooking with [/EN#118957/other fire] .

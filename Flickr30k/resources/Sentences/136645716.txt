@@ -1,0 +1,5 @@
+[/EN#10229/people A man] sits on [/EN#10236/scene a beach] wearing [/EN#10230/clothing swim trunks] and [/EN#10231/other a lei] , holding [/EN#10232/clothing a blue umbrella] over [/EN#10233/bodyparts his head] .
+[/EN#10229/people Young man] alone on [/EN#10236/scene a white-sand beach] enjoys [/EN#10234/other a snack] under [/EN#10232/clothing a beach umbrella] .
+[/EN#10229/other One Hispanic mail] sitting on [/EN#10236/scene the beach] under [/EN#10232/clothing an umbrella] in [/EN#10237/other the sun] .
+[/EN#10229/people A man] is holding [/EN#10232/clothing his beach umbrella] as [/EN#0/notvisual he] smiles for [/EN#0/notvisual the camera] .
+[/EN#10229/people A boy] is sitting on [/EN#10236/scene a tropical beach] with [/EN#10232/clothing a blue umbrella] .

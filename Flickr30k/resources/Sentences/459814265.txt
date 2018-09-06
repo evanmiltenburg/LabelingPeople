@@ -1,0 +1,5 @@
+[/EN#181511/animals A shaggy dog] plays in [/EN#181512/scene a field of grass] and [/EN#181512/other yellow flowers] .
+[/EN#181511/animals A long-haired dog] frolics in [/EN#181512/other a meadow of yellow flowers] .
+[/EN#181511/animals A big , shaggy dog] runs in [/EN#181512/other a field of dandylions] .
+[/EN#181511/animals a dog] sitting in [/EN#181512/scene the grass] , with [/EN#181514/bodyparts his tongue] out
+[/EN#181511/animals a dog] running in [/EN#181512/other a field of daisies]

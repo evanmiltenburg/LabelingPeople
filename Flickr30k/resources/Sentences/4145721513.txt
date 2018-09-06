@@ -1,0 +1,5 @@
+[/EN#156854/people An African American man] getting [/EN#156855/bodyparts his haircut] by [/EN#156853/people another man] .
+[/EN#156854/people Young man] gets [/EN#156855/bodyparts haircut] by [/EN#156853/people another young man] .
+[/EN#156854/people An african american] gets [/EN#156855/bodyparts a haircut] .
+[/EN#156853/people A barber] cutting [/EN#156856/bodyparts a man 's hair] .
+[/EN#156854/people A black man] getting [/EN#156855/bodyparts a haircut] .

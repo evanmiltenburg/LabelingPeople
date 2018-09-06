@@ -1,0 +1,5 @@
+[/EN#284524/scene A medium] sized [/EN#284521/animals brown dog] is running through [/EN#284522/scene an open white wooded area] .
+[/EN#284521/animals A brown dog] is running over [/EN#284522/scene snow] near [/EN#284525/other leafless trees] .
+[/EN#284521/animals A brown dog] runs across [/EN#284522/scene a snowy field] .
+[/EN#284521/animals A dog] is running through [/EN#284522/scene the snow] .
+[/EN#284521/animals A dog] runs through [/EN#284522/scene the snow] .

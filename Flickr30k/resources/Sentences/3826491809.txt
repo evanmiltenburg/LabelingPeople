@@ -1,0 +1,5 @@
+[/EN#144464/people A man] wearing [/EN#144465/clothing a green hat] and [/EN#144467/clothing a white shirt] is taking [/EN#144466/other a nap] outside under [/EN#144468/other the tree] .
+[/EN#144464/people A man] wearing [/EN#144467/clothing a white shirt] taking [/EN#144466/other a nap] with [/EN#144465/clothing a green hat] over [/EN#144469/bodyparts his eyes] .
+[/EN#144464/people A man] wearing [/EN#144467/clothing a white shirt] and [/EN#144465/clothing a cap] lays on [/EN#144470/scene a patch of grass] .
+[/EN#144464/people A person] with [/EN#144465/clothing a green hat] laying down on [/EN#0/notvisual the ground] .
+[/EN#144464/people A gentlemen] is laying on [/EN#0/notvisual the ground] napping .

@@ -1,0 +1,5 @@
+[/EN#97083/animals A dog] with [/EN#97089/scene its mouth open] is about to catch [/EN#97084/other a ball] in [/EN#97087/scene a living room] .
+[/EN#97083/animals A white dog] with [/EN#97088/scene black spots] is catching [/EN#97084/other a baseball] with [/EN#97085/bodyparts its mouth] .
+[/EN#97083/animals A dog] reaches to catch [/EN#97084/other a ball] with [/EN#97085/bodyparts its mouth] .
+[/EN#97083/animals A dog] leaps up to catch [/EN#97084/other a blue and tan ball] .
+[/EN#97083/animals A dog] catches [/EN#97084/other a ball] in [/EN#97085/bodyparts its mouth] .

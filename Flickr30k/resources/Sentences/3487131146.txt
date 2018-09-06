@@ -1,0 +1,5 @@
+[/EN#121956/people A group of men] stands near [/EN#121964/other a tree] as [/EN#121957/vehicles a racing car] stirs up [/EN#121958/other a cloud of dust] on [/EN#121959/scene the gravel road] beside [/EN#0/notvisual them] .
+[/EN#121956/people Six spectators] watching [/EN#121962/scene a dirt racing car pass] by in [/EN#121958/other a cloud of dust] .
+[/EN#121956/people People] are watching [/EN#121963/other a race car speed] thorugh [/EN#121960/scene the dirt] .
+[/EN#121957/vehicles A race car] kicks up [/EN#121960/scene dirt] and [/EN#121958/other dust] on [/EN#121959/scene a gravel track] .
+[/EN#121956/people Many people] stand by watching [/EN#121961/other a car smoke] heavily .

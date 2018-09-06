@@ -1,0 +1,5 @@
+[/EN#251710/people A group of people] stand around [/EN#251713/people a young man] wearing [/EN#251718/clothing a black and white checkered shirt] [/EN#0/notvisual who] is sitting at [/EN#251712/other a table] with [/EN#251719/bodyparts his head] down .
+[/EN#251710/people A few people] are in [/EN#251711/scene a classroom] standing in [/EN#251717/scene the back of the room] while [/EN#251714/other one] sits at [/EN#251712/other a desk] .
+[/EN#251710/people A group of Asians] standing in [/EN#251711/scene a room] while [/EN#0/notvisual one of them] lies on [/EN#251712/other the desk] .
+[/EN#251710/people A bunch of Asians] posing cheerfully in [/EN#251711/scene a classroom] .
+[/EN#251713/people boy] in [/EN#251716/people class] looking [/EN#251715/other bored] thrown on [/EN#251712/other his desk] .

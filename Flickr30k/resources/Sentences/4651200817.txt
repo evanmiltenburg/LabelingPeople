@@ -1,0 +1,5 @@
+[/EN#186831/people A woman cyclist] in [/EN#186837/clothing a shirt] wearing [/EN#186838/clothing a bike helmet] waits with [/EN#186834/people a child passenger] at [/EN#186828/other a stop] with [/EN#186835/people another woman cyclist] wearing [/EN#186839/clothing a blue shirt] and [/EN#186840/clothing black pants] .
+[/EN#186825/people Two people] riding [/EN#186829/vehicles bicycles] are stopped along with [/EN#186836/vehicles cars] at [/EN#186826/scene an intersection] after crossing [/EN#186833/scene the bridge] in front of [/EN#186832/other Marriott] .
+[/EN#186825/people Two bicyclists] stop beside [/EN#186830/vehicles motor traffic] at [/EN#186826/scene an intersection] .
+[/EN#186825/people Two people] are riding [/EN#186829/vehicles their bikes] in [/EN#186830/vehicles city traffic] .
+[/EN#186825/people Two women] await [/EN#186827/other a traffic light] at [/EN#186826/scene the crosswalk] .

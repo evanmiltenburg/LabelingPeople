@@ -1,0 +1,5 @@
+[/EN#189359/people A woman] in [/EN#189360/clothing a black coat] with [/EN#189358/animals a large dog] is walking down [/EN#189362/other a tree] lined [/EN#189361/scene road] toward [/EN#189364/scene a large house] .
+[/EN#189359/people A woman] with [/EN#189363/bodyparts red-hair] is walking down [/EN#189362/other a tree] lined [/EN#189361/scene path] with [/EN#189358/animals a brindled dog] following [/EN#0/notvisual her] .
+[/EN#189358/animals A dog] follows [/EN#189359/people a woman] in [/EN#189360/clothing a black dress] with [/EN#189363/bodyparts orange hair] down [/EN#189361/scene a road] .
+[/EN#189359/people A woman] with [/EN#189358/animals a dog] , walking in [/EN#189365/scene a long courtyard] .
+[/EN#189359/people A person] walking with [/EN#189358/animals a dog] .

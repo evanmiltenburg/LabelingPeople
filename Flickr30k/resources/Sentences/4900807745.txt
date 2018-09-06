@@ -1,0 +1,5 @@
+[/EN#216627/people The back of a young boy] [/EN#0/notvisual who] is wearing [/EN#216628/clothing a blue shirt] and [/EN#216629/clothing red hat] .
+[/EN#216627/people Boy] in [/EN#216629/clothing a red hat] and [/EN#216628/clothing blue shirt] is walking on [/EN#216630/scene a sidewalk] .
+[/EN#216627/people A small boy] in [/EN#216628/clothing a blue shirt] is walking down [/EN#216631/scene the street] .
+[/EN#216633/bodyparts Children head] down [/EN#216631/scene the street] next to [/EN#216634/vehicles vehicle traffic] .
+[/EN#216627/people Little boy] walking down [/EN#216630/scene sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#253823/people Two workers] at [/EN#253824/scene a grocery store] observing [/EN#253827/other something] out of [/EN#253826/scene camera range] .
+[/EN#253823/people Two grocery store employees] talk at [/EN#253825/other a checkstand] .
+[/EN#253823/people Two workers] in [/EN#253824/scene a store] are wearing [/EN#253828/clothing aprons] .
+[/EN#253823/people Two people] are working at [/EN#253824/scene a coffee shop]
+[/EN#253823/people Two workers] at [/EN#253824/scene a grocery store] .

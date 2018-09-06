@@ -1,0 +1,5 @@
+[/EN#64872/people A child] in [/EN#64873/clothing a yellow jacket] gazes at [/EN#64874/other something] [/EN#0/notvisual he] holds in [/EN#64875/bodyparts his hand] , [/EN#0/notvisual which] [/EN#0/notvisual he] has lifted from among [/EN#64876/other a set of boxes] of [/EN#64877/other items] arranged on [/EN#64877/other a table] in front of [/EN#0/notvisual him] .
+[/EN#64872/people A boy] in [/EN#64873/clothing a yellow raincoat] examines [/EN#64874/other a piece of food] [/EN#0/notvisual he] holds in [/EN#64875/bodyparts his hand] .
+[/EN#64872/people A little boy] in [/EN#64873/clothing a yellow jacket] examining [/EN#64874/other a cracker] in [/EN#64875/bodyparts his hand] .
+[/EN#64872/people A young male child] in [/EN#64873/clothing a yellow jacket] placing [/EN#64874/other a piece] down .
+[/EN#64872/people little boy] in [/EN#64873/clothing a yellow jacket]

@@ -1,0 +1,5 @@
+[/EN#80165/animals A black and white dog] with [/EN#80167/bodyparts a spotted face] is running through [/EN#80166/scene a dirt field] .
+[/EN#80165/animals The black and white dog] trots through [/EN#80166/scene the dirt] .
+[/EN#80165/animals A white and black dog] is running over [/EN#80166/scene dirt] .
+[/EN#80165/animals a dog] runs across [/EN#0/notvisual the ground] .
+[/EN#80165/animals A dog] is running .

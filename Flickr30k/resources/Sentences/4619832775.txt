@@ -1,0 +1,5 @@
+[/EN#183381/people A young woman] with [/EN#183383/clothing a pink bag] and [/EN#183385/clothing white umbrella] is standing at [/EN#183382/other a metro station] .
+[/EN#183381/people A woman] , carrying [/EN#183383/clothing a pink bag] and [/EN#183385/clothing white umbrella] , walks down [/EN#183384/vehicles/scene a subway] .
+[/EN#183381/people A woman] with [/EN#183383/clothing a pink bag] and [/EN#183385/clothing white umbrella] waits at [/EN#183382/other a train platform] .
+[/EN#183381/people A woman] in [/EN#183384/vehicles/scene a subway] with [/EN#183385/clothing a white umbrella] and [/EN#183383/clothing a pink bag] .
+[/EN#183381/people A girl] in [/EN#183388/clothing high heels] is waiting for [/EN#183387/vehicles/scene the subway train] .

@@ -1,0 +1,5 @@
+[/EN#146877/other An aisle] at [/EN#146875/other Best Buy] with [/EN#146874/people an employee] standing at [/EN#146876/other the computer] and [/EN#146878/other a Geek Squad sign] in [/EN#0/notvisual the background] .
+[/EN#146874/people A woman employee] at [/EN#146875/other a best buy] seems to be using [/EN#146879/other the computer] .
+[/EN#146874/people An employee] stands in front of [/EN#146876/other computer monitors] [/EN#146875/other at Best Buy] .
+[/EN#146874/people A woman] wearing [/EN#146881/clothing a blue top] and [/EN#146882/clothing white pants] working in [/EN#146883/scene a store]
+[/EN#146874/people An employee] uses [/EN#146876/other a computer] on [/EN#146880/other the job] .

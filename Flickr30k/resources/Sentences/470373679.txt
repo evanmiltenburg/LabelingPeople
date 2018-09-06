@@ -1,0 +1,5 @@
+[/EN#193012/people Sillhouttes of people] in front of [/EN#193013/scene a mountain] and in front of [/EN#193011/other a window] .
+[/EN#193011/other A large window] with [/EN#193013/scene a mountain range] while [/EN#193012/people onlookers] stand in [/EN#193015/scene front] .
+[/EN#193012/people a group of people] inside [/EN#193014/scene a building] [/EN#0/notvisual that] overlooks [/EN#193013/scene a large mountain]
+[/EN#193012/people People] stand and look out [/EN#193011/other the window] to view [/EN#193013/scene the mountain] .
+[/EN#193012/people People] look out [/EN#193011/other the window] at [/EN#193016/scene mountains] .

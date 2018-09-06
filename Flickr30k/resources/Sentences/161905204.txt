@@ -1,0 +1,5 @@
+[/EN#17680/people A girl] in [/EN#17681/clothing an aqua jacket] walks down [/EN#17682/scene a long road] surrounded by [/EN#17683/other shrubs] .
+[/EN#17680/people a girl] in [/EN#17681/clothing a light blue windbreaker] walks down [/EN#17682/scene a cement road] .
+[/EN#17680/people A woman] in [/EN#17681/clothing a blue shirt] and [/EN#17684/clothing black pants] walks down [/EN#17682/scene a road] .
+[/EN#17680/people A woman] walks down [/EN#17682/scene a country road] .
+[/EN#17680/people Woman] walking down [/EN#17682/scene paved road] .

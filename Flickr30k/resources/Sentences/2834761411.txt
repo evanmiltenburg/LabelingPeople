@@ -1,0 +1,5 @@
+[/EN#75689/people A man] wearing [/EN#75691/clothing a blue jacket] , [/EN#75692/clothing sunglasses] and [/EN#75690/clothing black top hat] is sitting on [/EN#75693/other a bench] inside of [/EN#75694/scene a building] .
+[/EN#75689/people A young man] wearing [/EN#75690/clothing a top hat] and [/EN#75700/other tracksuit] is sitting in [/EN#75699/vehicles the drivers seat of a petty cab] .
+[/EN#75689/people A man] in [/EN#75690/clothing a top-hat and sunglasses] is waiting to give [/EN#75698/people people] [/EN#75701/animals a horse] and [/EN#75695/other buggy ride] .
+[/EN#75689/people A man] in [/EN#75690/clothing a black hat] and [/EN#75691/clothing jacket] is sitting down .
+[/EN#75689/people A man] in [/EN#75692/clothing large sunglasses] rides in [/EN#75695/vehicles a carriage] .

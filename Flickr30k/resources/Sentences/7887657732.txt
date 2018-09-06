@@ -1,0 +1,5 @@
+[/EN#276355/people A young lady] with [/EN#276360/clothing a pink shirt] and [/EN#276356/clothing white hat] is standing on [/EN#276357/animals her horse] with [/EN#276361/bodyparts her hand] over [/EN#276364/other her heart] .
+[/EN#276355/people A woman] in [/EN#276356/clothing a cowgirl hat] is kneeling on [/EN#276358/clothing a horse 's saddle] while holding [/EN#276361/bodyparts her hand] over [/EN#276365/other her heart] .
+[/EN#276355/people A girl] in [/EN#276360/clothing a pink shirt] and [/EN#276366/clothing jeans] is standing on [/EN#276357/animals a horse] during [/EN#276367/other the pledge of allegiance] .
+[/EN#276355/people A woman] in [/EN#276360/clothing a pink shirt] is placing [/EN#276361/bodyparts her hand] over [/EN#276363/other her heart] as [/EN#0/notvisual she] rides [/EN#276357/animals a horse] .
+[/EN#276355/people A woman] in [/EN#276360/clothing a pink shirt] is kneeling atop [/EN#276357/animals a horse] with [/EN#276361/other her hard] over [/EN#276364/other her heart] .

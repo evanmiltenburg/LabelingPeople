@@ -1,0 +1,5 @@
+[/EN#200222/people A woman] in [/EN#200225/clothing a white dress] walking down [/EN#200220/scene the street] with [/EN#200223/people a woman] in [/EN#200226/clothing a purple shirt] crossing [/EN#200220/scene the street] .
+[/EN#200217/people Two Asian women] are crossing [/EN#200220/scene a street] in front of [/EN#200221/people two men] on [/EN#200218/other a motorcycle] .
+[/EN#200217/people Two women] cross [/EN#200220/scene a street] in front of [/EN#200218/vehicles a motorized bike] with [/EN#200221/people two passengers] .
+[/EN#200217/people Two women] walk across [/EN#200220/scene the street] while [/EN#200224/other two men drive] by on [/EN#200218/other a motorcycle] .
+[/EN#200217/people Two Asian women] are walking by [/EN#200221/people two Asian men] on [/EN#200218/vehicles a bike] .

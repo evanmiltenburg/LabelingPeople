@@ -1,0 +1,5 @@
+[/EN#26115/people A lone hiker] is sitting on [/EN#26117/other a rock] on [/EN#26116/scene a snowy mountain trail] .
+[/EN#26115/people A person] is climbing [/EN#26116/scene a snowy mountain] .
+[/EN#26115/people The person] is in [/EN#26116/scene the snowy mountains] .
+[/EN#26115/people A man] descends [/EN#26116/scene a snowy mountain] .
+[/EN#26115/people Someone] hiking in [/EN#26116/scene the mountains] .

@@ -1,0 +1,5 @@
+[/EN#107273/people The man] holds [/EN#107272/people the child] while [/EN#107272/people the child] pets [/EN#107274/animals a brown horse] .
+[/EN#107272/people A toddler] is petting [/EN#107274/animals a brown and cream colored pony] .
+[/EN#107273/people A man] holding [/EN#107272/people a baby] [/EN#0/notvisual who] is petting [/EN#107274/animals a pony] .
+[/EN#107275/people A family] pets [/EN#107274/animals a brown and white pony]
+[/EN#107272/people A child] and [/EN#107273/people parent] pet [/EN#107274/animals a horse] .

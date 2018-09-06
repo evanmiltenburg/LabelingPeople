@@ -1,0 +1,5 @@
+[/EN#107073/people People] walk down [/EN#107071/scene a paved street] [/EN#0/notvisual that] has red [/EN#107072/other lanterns] hung from [/EN#107076/scene the buildings] .
+[/EN#107073/people People] walking down [/EN#107071/scene street] lined with [/EN#107072/other Chinese lanterns] .
+[/EN#107071/scene A busy city street] with [/EN#107073/people many people] walking along [/EN#0/notvisual it] .
+[/EN#107074/people A couple] walk to [/EN#107071/scene the side of a crowded walkway] .
+[/EN#107071/scene Chinese market street] in [/EN#107075/other the winter time] .

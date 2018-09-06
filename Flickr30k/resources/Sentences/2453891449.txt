@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] are [/EN#50761/animals two dogs] , [/EN#50767/clothing black and white] , and [/EN#50762/other the black one] is jumping .
+[/EN#50761/animals Two dogs] running in [/EN#50764/other a grassy] , fenced in [/EN#50765/scene area] surrounded by [/EN#50771/other trees] .
+[/EN#50761/animals Two dogs] running through [/EN#50765/scene a yard] with [/EN#50763/scene a forest] in [/EN#0/notvisual the distance] .
+[/EN#50760/animals A white dog] is following [/EN#50762/animals a black dog] through [/EN#50764/scene the grassy area] .
+[/EN#50760/animals A white dog] chasing [/EN#50762/animals a black dog] across [/EN#50764/scene the grass] .

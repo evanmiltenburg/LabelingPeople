@@ -1,0 +1,5 @@
+[/EN#136251/people A man] with [/EN#136258/clothing a white t-shirt] and [/EN#136253/people a woman] with [/EN#136259/clothing a sleeveless dress] walk down [/EN#136252/scene a dirt road] together holding [/EN#136254/bodyparts hands] .
+[/EN#136251/people a man] and [/EN#136253/people woman] are walking whilst holding [/EN#136254/bodyparts hands] down [/EN#136252/other a leafy lane] .
+[/EN#136251/people a man] and [/EN#136253/people a woman] walking down [/EN#136252/scene a sandy path] surrounded by [/EN#136257/other trees]
+[/EN#136251/people A man] and [/EN#136253/people woman] walk [/EN#0/notvisual side] by [/EN#0/notvisual side] down [/EN#136252/scene the road] .
+[/EN#136255/people A couple] walking and holding [/EN#136254/bodyparts hands] .

@@ -1,0 +1,5 @@
+[/EN#117812/animals A black dog] approaches [/EN#0/notvisual the camera] with [/EN#117816/bodyparts his hind legs] raised and [/EN#117817/bodyparts his ears] forward .
+[/EN#117812/other a black great Dane] running toward [/EN#0/notvisual the camera] in [/EN#117813/scene a backyard]
+[/EN#117812/animals A black dog] running in [/EN#117815/other a grassy fenced] in [/EN#117813/scene yard] .
+[/EN#117812/animals A black dog] running in [/EN#117813/scene a backyard]
+[/EN#117812/animals A black dog] in [/EN#117813/scene the backyard] .

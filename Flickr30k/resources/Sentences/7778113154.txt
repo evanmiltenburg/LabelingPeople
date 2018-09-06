@@ -1,0 +1,5 @@
+[/EN#275039/people Man] in [/EN#275045/clothing dark shirt] , [/EN#275041/clothing yellow shorts] and [/EN#275047/clothing yellow bandanna] leaps to catch [/EN#275040/other a white frisbee] on [/EN#275044/other a soccer court] .
+[/EN#275039/people A person] [/EN#0/notvisual that] 's wearing [/EN#275041/clothing a pair of yellow shorts] dives to catch [/EN#275040/other a frisbee] .
+[/EN#275039/people A man] in [/EN#275041/clothing yellow shorts] is leaping in [/EN#0/notvisual the air] to catch [/EN#275040/other a frisbee] .
+[/EN#275039/people An Ultimate Frisbee player] leaps toward [/EN#275043/other the orange cone] .
+[/EN#275039/people A man] playing [/EN#275046/other ultimate frisbee] makes [/EN#275042/other a diving catch] .

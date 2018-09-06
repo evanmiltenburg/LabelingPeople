@@ -1,0 +1,5 @@
+[/EN#13970/people A man] in [/EN#13974/clothing an orange vest] trying to pull [/EN#13972/vehicles a vehicle] [/EN#0/notvisual which] is attached to [/EN#13972/vehicles another vehicle] out of [/EN#13977/scene a rocky area] .
+[/EN#13970/people A man] in [/EN#13974/clothing an orange vest] leans over [/EN#13971/vehicles a pickup truck] .
+[/EN#13976/people A group of people] pull [/EN#13971/vehicles a jeep] stuck on [/EN#13975/other a rock] .
+[/EN#13971/vehicles The white truck] is stuck on [/EN#13975/other the large rocks] .
+[/EN#13970/people A person] in [/EN#13974/clothing a safety vest] pushing [/EN#13971/vehicles a truck] .

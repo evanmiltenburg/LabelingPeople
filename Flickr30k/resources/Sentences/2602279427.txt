@@ -1,0 +1,5 @@
+[/EN#60862/people A woman] wearing [/EN#60864/clothing a yellow apron] and [/EN#60863/clothing a knit hat] walks among [/EN#60865/people other pedestrians] .
+[/EN#60862/people An oriental woman] [/EN#0/notvisual who] is wearing [/EN#60863/clothing a hat] walks down [/EN#60866/scene the busy street] .
+[/EN#60862/people A person] wearing [/EN#60864/clothing a yellow apron] looking toward [/EN#60865/people other people] .
+[/EN#60862/people An oriental girl] wearing [/EN#60864/clothing a yellow apron] and [/EN#60863/clothing a stocking cap] .
+[/EN#60862/people A person] with [/EN#60864/clothing a yellow apron] walking .

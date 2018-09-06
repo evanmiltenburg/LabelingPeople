@@ -1,0 +1,5 @@
+[/EN#163837/people A woman] in [/EN#163845/scene the kitchen] , holding [/EN#163844/other a spoon] with [/EN#163846/bodyparts her left hand] and [/EN#163838/other upper rack of the dishwasher] with [/EN#163847/bodyparts her right hand] .
+[/EN#163837/people An adult lady] wearing [/EN#163841/clothing a tank top] and [/EN#163840/clothing a skirt] is putting [/EN#163842/other dishes] in [/EN#163838/other the dishwasher] .
+[/EN#163837/people Women] wearing [/EN#163841/clothing a white tank top] and [/EN#163840/clothing green pants] loading [/EN#163842/other dishes] into [/EN#163839/other a dishwasher] .
+[/EN#163837/people A woman] is standing near [/EN#163843/other a kitchen sink] and loading [/EN#163838/other a dishwasher] .
+[/EN#163837/people A woman] in [/EN#163841/clothing a white top] standing next to [/EN#163838/other a dishwasher] and [/EN#163839/other sink] .

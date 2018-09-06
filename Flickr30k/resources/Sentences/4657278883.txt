@@ -1,0 +1,5 @@
+[/EN#187669/people A man] is sitting on [/EN#187670/other the stoop] with [/EN#187673/other beer] and [/EN#187674/other cigarettes] next to [/EN#0/notvisual him] .
+[/EN#187669/people The man] is sitting on [/EN#187670/other red steps] outside [/EN#187672/other apartment] with [/EN#187671/other red doors] .
+[/EN#187669/people A man] with [/EN#187675/bodyparts a beard] is sitting on [/EN#187670/other red painted steps] .
+[/EN#187669/people Lone man] sitting on [/EN#187670/other steps] leading to [/EN#187671/other two red doors] .
+[/EN#187669/people A older man] sitting on [/EN#187676/scene a porch] .

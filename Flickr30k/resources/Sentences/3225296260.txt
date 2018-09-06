@@ -1,0 +1,5 @@
+[/EN#102513/people Two people] wearing [/EN#102515/clothing helmets] are sitting in [/EN#102514/vehicles a race car] .
+[/EN#102513/people Two people] in [/EN#102515/clothing helmets] sitting in [/EN#102514/vehicles an orange car] .
+[/EN#102513/people Two people] ride in [/EN#102514/vehicles a orange race car] .
+[/EN#102513/people Two people] in [/EN#102514/vehicles an orange race car] .
+[/EN#102513/people Two racers] driving [/EN#102514/vehicles an orange car]

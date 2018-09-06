@@ -1,0 +1,5 @@
+[/EN#241706/people One man] wearing [/EN#241706/clothing all black] is standing close and listening to [/EN#241706/people another man] wearing [/EN#241709/clothing a green vest] and [/EN#241712/clothing brown pants] .
+[/EN#241706/people A man] wearing [/EN#241709/clothing a gray vest] and [/EN#241712/clothing tan pants] talks to [/EN#241706/people a man] wearing [/EN#241706/clothing all black] on [/EN#241711/scene the sidewalk] .
+[/EN#241708/people Two men] are talking with [/EN#0/notvisual each other] around [/EN#241717/scene the corner of a cemented type of building] .
+[/EN#241708/people Two men] , [/EN#241706/other one] in [/EN#241713/clothing a black coat] , have [/EN#241715/other a conversation] in front of [/EN#241714/scene a building] .
+[/EN#241708/people Two old men] talk with [/EN#0/notvisual each other] in [/EN#241711/scene a rugged urban area] .

@@ -1,0 +1,5 @@
+[/EN#45978/people A person] sits on [/EN#45982/other a blanket] on [/EN#45980/scene the street] while [/EN#45979/animals his dog] sleeps in [/EN#45981/bodyparts his lap] .
+[/EN#45978/people A person] sits on [/EN#45983/other the gravel] holding [/EN#45979/animals a sleeping dog] .
+[/EN#45978/people A man] sitting on [/EN#45980/scene the sidewalk] with [/EN#45979/animals his dog] .
+[/EN#45978/people a seated person] with [/EN#45979/animals a dog] in [/EN#45981/bodyparts his lap]
+[/EN#45978/people A man] is sleeping with [/EN#45979/animals a small dog] .

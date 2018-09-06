@@ -1,0 +1,5 @@
+[/EN#146648/people A man] wearing [/EN#146649/clothing a black cap] and [/EN#146652/clothing white shirt] rowing [/EN#146653/vehicles/scene a boat] on [/EN#146650/scene open water] .
+[/EN#146648/people a man] in [/EN#146652/clothing a white shirt] and [/EN#146649/clothing hat] paddling [/EN#146651/other a canoe] in [/EN#146650/scene a body of water] .
+[/EN#146648/people A man] rowing in [/EN#146651/other the front of a canoe] in [/EN#146650/scene a large body of water] .
+[/EN#146648/people A man] in [/EN#146652/clothing a white t-shirt] paddles [/EN#146651/other his canoe] across [/EN#146650/scene the lake]
+[/EN#146648/people A man] paddles in [/EN#146653/other a canoe] on [/EN#146650/scene calm water] .

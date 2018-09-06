@@ -1,0 +1,5 @@
+[/EN#117328/people a young boy] wearing [/EN#117333/clothing a blue shirt] and [/EN#117332/clothing a red helmet] riding [/EN#117329/vehicles a bike] on [/EN#117331/scene a sidewalk]
+[/EN#117328/people A small boy] wearing [/EN#117332/clothing a red helmet] rides [/EN#117329/vehicles his bicycle] down [/EN#117328/scene a patterned path] .
+[/EN#117328/people A toddler] rides [/EN#117329/vehicles his little bicycle] down [/EN#117331/scene a paved path] .
+[/EN#117328/people A young boy] in [/EN#117332/clothing a red helmet] bikes through [/EN#117331/scene a park] .
+[/EN#117328/people A young boy] riding [/EN#117329/vehicles a bike] on [/EN#117328/scene a brick road]

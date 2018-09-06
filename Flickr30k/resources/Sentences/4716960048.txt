@@ -1,0 +1,5 @@
+[/EN#194426/people A woman] in [/EN#194432/clothing dark pants] , [/EN#194433/clothing sunglasses] and [/EN#194431/clothing a black and white tank top] is crossing [/EN#194428/scene the street] while holding [/EN#194429/other a red cup] and [/EN#194430/clothing two plastic bags] .
+[/EN#194426/people A lady] crosses [/EN#194428/scene a street] with [/EN#194430/clothing shopping bags] and [/EN#194429/other a drink] in [/EN#194434/bodyparts her hands] .
+[/EN#194426/people A woman] is crossing [/EN#194428/scene the street] while [/EN#194427/people a man] looks at [/EN#0/notvisual her] .
+[/EN#194426/people A tall black woman] crossing [/EN#194428/scene a cobblestone street] .
+[/EN#194427/people A man] watching [/EN#194426/people a lady] cross [/EN#194428/scene the street] .

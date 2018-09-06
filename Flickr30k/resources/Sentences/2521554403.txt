@@ -1,0 +1,5 @@
+[/EN#54936/people A large group of people] are sitting watching [/EN#54940/other something] in [/EN#54942/scene the front of the room] .
+[/EN#54936/people A large group of teenagers] are seated [/EN#54939/other indoors] in [/EN#54943/scene yellow seats] .
+[/EN#54936/people A group of people] are sitting in [/EN#54937/scene a large room] .
+[/EN#54936/people A big group of people] sitting in [/EN#54941/scene the dark] .
+[/EN#54936/people An audience] sits in [/EN#54938/other chairs] .

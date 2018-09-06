@@ -1,0 +1,5 @@
+[/EN#146822/people A blond man] in [/EN#146825/clothing a striped shirt] and [/EN#146829/clothing jeans] sitting at [/EN#146826/other a table] with [/EN#146824/other a computer] and talking on [/EN#146823/other a cellphone] .
+[/EN#146822/people A man] sitting at [/EN#146826/other a small outdoor table] is conversing on [/EN#146823/other his cellphone] while working on [/EN#146827/other his laptop] .
+[/EN#146822/people A man] in [/EN#146825/clothing a pink shirt] sitting outside talking on [/EN#146823/other his cellphone] and viewing [/EN#146824/other a computer screen] .
+[/EN#146822/people A blond man] in [/EN#146825/clothing a striped shirt] talking on [/EN#146823/other the phone] while relaxing in [/EN#146828/other a chair] .
+[/EN#146822/people A man] is talking on [/EN#146823/other his cellphone] while looking at [/EN#146827/other his laptop] .

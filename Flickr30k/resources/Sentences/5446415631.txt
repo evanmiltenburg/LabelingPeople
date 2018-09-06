@@ -1,0 +1,5 @@
+[/EN#236772/people A person] in [/EN#236776/clothing a red jacket] is crossing [/EN#236775/scene a snow covered bridge] over [/EN#236773/scene the cold river] in [/EN#236777/scene the forest] .
+[/EN#236772/people Person] with [/EN#236778/other ski poles] and [/EN#236776/clothing a red jacket] , walking on [/EN#236774/other a snow covered tree] over [/EN#236773/scene water] .
+[/EN#236772/people Traveler] walking through [/EN#236779/scene snow] crossing [/EN#236773/scene a river] on [/EN#236775/scene a narrow path] .
+[/EN#236772/people A man] crossing [/EN#236773/scene a stream] over [/EN#236774/other a log] covered with [/EN#236780/scene snow] in [/EN#236781/other winter] .
+[/EN#236772/people A man] is walking across [/EN#236774/other a snow covered log]

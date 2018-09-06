@@ -1,0 +1,5 @@
+[/EN#107438/people A man] in [/EN#107444/clothing a black coat] and [/EN#107445/clothing hat] and [/EN#107442/people a woman] in [/EN#107446/clothing a blue coat] with [/EN#107447/clothing pink hat] snowshoeing on [/EN#107440/scene the side of a road] with [/EN#107448/other a stoplight] in [/EN#0/notvisual the background] .
+[/EN#107439/people People] walking on [/EN#107440/scene the side of the road] during [/EN#107441/scene a snowy day] .
+[/EN#107439/people Two people] are outside walking through [/EN#107440/scene the snow] .
+[/EN#107438/people A man] and [/EN#107442/people a woman] are walking in [/EN#107440/scene the snow] .
+[/EN#107439/people Two people] are walking in [/EN#107440/scene the snow] .

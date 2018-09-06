@@ -1,0 +1,5 @@
+[/EN#86164/people A large group of people] are protesting [/EN#86171/other something] on [/EN#86165/other a street-corner] .
+[/EN#86164/people A crowd of people] walking on [/EN#86169/scene the sidewalk] and crossing [/EN#86166/scene the street] .
+[/EN#86167/people A policeman] is directing [/EN#86164/people a crowd of people] walking .
+[/EN#86164/people A group of people] doing [/EN#86170/other a walk] for [/EN#86168/other charity] .
+[/EN#86169/scene A very busy walkway] with [/EN#86167/people a man] directing .

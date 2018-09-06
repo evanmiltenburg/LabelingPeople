@@ -1,0 +1,5 @@
+[/EN#7030/other A tall gray pole] behind [/EN#0/notvisual which] [/EN#7029/people a person] wearing [/EN#7033/clothing an orange shirt] is perched on [/EN#7036/other the wall] and hiding [/EN#7037/bodyparts his or her face] with [/EN#7038/bodyparts one hand] .
+[/EN#7029/people A person] wearing [/EN#7033/clothing a red long-sleeved shirt] is lying down on [/EN#7031/other a wall] in front of [/EN#7032/scene a lamp post] in [/EN#7034/other a very unusual manner] .
+[/EN#7029/people A man] in [/EN#7033/clothing an orange sweater] and [/EN#7035/clothing dark pants] lies on [/EN#7031/other a white wall] next to [/EN#7032/scene a lamp post] .
+[/EN#7029/people A man] in [/EN#7033/clothing an orange shirt] is laying curled up on [/EN#7031/other a concrete ledge] behind [/EN#7030/other a pole] .
+[/EN#7029/people A person] with [/EN#7033/clothing a long-sleeve red shirt] laying on [/EN#7031/other a ledge] .

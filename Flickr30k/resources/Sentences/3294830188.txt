@@ -1,0 +1,5 @@
+[/EN#107548/animals Four birds] are chasing [/EN#107549/animals another bird] [/EN#0/notvisual which] has [/EN#107550/other a piece of food] in [/EN#107551/bodyparts its mouth]
+[/EN#107549/animals A seagull] flies under [/EN#0/notvisual another] with [/EN#107550/other food] while [/EN#107553/other three others] follow .
+[/EN#107548/animals A flock of birds] fly away with [/EN#107550/other food] in [/EN#107552/bodyparts their beaks] .
+[/EN#107548/animals Seagulls] fighting over [/EN#107550/other a scrap of bread] .
+[/EN#107548/animals Several birds] flying in front of [/EN#107554/other trees] .

@@ -1,0 +1,5 @@
+[/EN#157081/people A young girl] playing is [/EN#157085/other a sprinkler] [/EN#157087/scene fountain] jumps on [/EN#157086/scene a yellow concrete spot] .
+[/EN#157081/people A young girl] is jumping on [/EN#157084/other a yellow dot] in [/EN#157082/scene the middle of a blue play area] .
+[/EN#157081/people Little girl] jumping up to land on [/EN#157084/other a yellow circle] at [/EN#157083/other a splash pad] .
+[/EN#157081/people A young girl] is jumping over [/EN#157083/other a yellow circle] on [/EN#0/notvisual the ground] .
+[/EN#157081/people A little girl] jumps on [/EN#157083/other a yellow circle] in [/EN#157082/clothing a field of blue] .

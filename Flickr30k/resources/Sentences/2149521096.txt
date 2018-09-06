@@ -1,0 +1,5 @@
+[/EN#31240/people A man] in [/EN#31242/clothing a cowboy hat] is sitting in [/EN#31244/scene the driver 's seat] of [/EN#31240/vehicles a car] , while [/EN#31240/vehicles the car] is in [/EN#31245/other motion] .
+[/EN#31240/people A bearded man] looks forward as [/EN#0/notvisual he] drives [/EN#31240/vehicles a car] .
+[/EN#31240/people A bearded man] with [/EN#31242/clothing a hat] drives down [/EN#31243/scene the road] .
+[/EN#31240/people a bearded man] wearing [/EN#31242/clothing a hat] drives [/EN#31240/vehicles a car] .
+[/EN#31240/people A man] wearing [/EN#31242/clothing a hat] is driving [/EN#31240/vehicles a car] .

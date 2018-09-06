@@ -1,0 +1,5 @@
+Wearing [/EN#93550/clothing a long-sleeved white shirt] , [/EN#93551/clothing gray pants] , and [/EN#93552/clothing sandals] , [/EN#93553/people a man] stands next to [/EN#93554/other a makeshift wood] cooking [/EN#93555/scene hut] , complete with [/EN#93556/other smoke filled cylinder] .
+[/EN#93553/people A man] dressed in [/EN#93550/clothing a gray , short-sleeved shirt] and [/EN#93551/clothing dark colored pants] is waiting on [/EN#93561/other food] , as [/EN#93557/other smoke] rises from [/EN#93558/instruments a drum] .
+[/EN#93553/people A man] stands in front of [/EN#93554/other a shabby structure] while [/EN#93557/other smoke billows] out of [/EN#93556/other a wooden burner] and obscures [/EN#93559/bodyparts the man 's face] .
+[/EN#0/notvisual There] is [/EN#93553/people a man] standing outside [/EN#93554/other a shack] with [/EN#93556/other some sort of a primitive looking grill] [/EN#0/notvisual that] 's smoking .
+[/EN#93553/people A man] starting [/EN#93560/other a small fire] in [/EN#0/notvisual what] appears to be [/EN#93556/other a cooking pot or stove] .

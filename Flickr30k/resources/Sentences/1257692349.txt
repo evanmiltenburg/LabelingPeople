@@ -1,0 +1,5 @@
+[/EN#6502/people A varied crowd] mills about ( or rough-houses ) on [/EN#6503/scene a public street] , with [/EN#6504/vehicles lots of bicycles] on [/EN#6510/other display] .
+[/EN#6502/people A crowd of people] are in [/EN#6511/other a city square] , seemingly oblivious to [/EN#6505/other a human sculpture] in [/EN#6512/scene their midst] .
+[/EN#6502/other A group of onlookers glance] at [/EN#6505/people a person] doing [/EN#0/notvisual a strange trick] on [/EN#6507/bodyparts her head] .
+[/EN#6502/people Group of people] gathered out on [/EN#6503/scene the streets] near [/EN#6504/vehicles a display of bicycles] .
+[/EN#6502/scene A large crown] walks by [/EN#6505/people three friends] climbing on top of [/EN#0/notvisual each other] .

@@ -1,0 +1,5 @@
+[/EN#66526/people Two children] wearing [/EN#66530/clothing life jackets] face [/EN#66525/people an older male] while [/EN#0/notvisual he] paddles [/EN#66527/other the canoe] [/EN#0/notvisual they] are sitting in .
+[/EN#66525/people A man] and [/EN#66526/people two children] in [/EN#66530/clothing life jackets] in [/EN#66527/vehicles/scene a boat] on [/EN#66529/scene a lake] .
+[/EN#66525/people A man] paddling [/EN#66527/other a rowboat] , with [/EN#66526/people two children] in [/EN#66531/other back] .
+[/EN#66525/people A man] and [/EN#66526/people two children] in [/EN#66527/vehicles/scene a boat] on [/EN#66529/scene the water] .
+[/EN#66525/people Man] and [/EN#66526/people two kids] on [/EN#66527/vehicles/scene a boat] on [/EN#66529/scene the lake] .

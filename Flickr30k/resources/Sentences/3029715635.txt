@@ -1,0 +1,5 @@
+[/EN#88667/animals A black and white dog] with [/EN#88669/other a blue toy] in [/EN#88671/bodyparts its mouth] runs on [/EN#88672/scene a grassy surface] just beyond [/EN#88670/scene a fence] .
+[/EN#88667/animals a black dog] is running [/EN#88673/other pasts] [/EN#88670/scene a wire mesh fence] with [/EN#88668/bodyparts a blue bone] shaped [/EN#88669/other toy] in [/EN#88671/bodyparts its mouth] .
+[/EN#88667/animals A black dog] is running with [/EN#88668/bodyparts a blue bone] in [/EN#88671/bodyparts his mouth] .
+[/EN#88667/animals A black dog] running with [/EN#88669/other a blue toy] in [/EN#88671/bodyparts his mouth] .
+[/EN#88667/animals A dog] is running with [/EN#88668/bodyparts a blue bone] in [/EN#88671/bodyparts its mouth]

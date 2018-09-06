@@ -1,0 +1,5 @@
+[/EN#63884/people A woman] is jogging on [/EN#63885/scene a road] by [/EN#63886/scene a shoreline] , holding [/EN#63888/other an item] up in [/EN#0/notvisual the air] .
+[/EN#63884/people The woman] in [/EN#63887/clothing the yellow shirt] jogged along [/EN#63885/scene the coastline] .
+[/EN#63884/people A woman] jogs down [/EN#63889/other the rode] near [/EN#63886/scene a rocky shore] .
+[/EN#63884/people A woman] passing by [/EN#63886/scene the shore] .
+[/EN#63884/people A woman] in [/EN#63887/clothing yellow] , jogging .

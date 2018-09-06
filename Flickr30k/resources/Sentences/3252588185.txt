@@ -1,0 +1,5 @@
+[/EN#104560/people A smiling woman] stands in front of [/EN#104561/scene a body of water] with [/EN#104564/animals water birds] .
+[/EN#104560/people A woman] in [/EN#104565/clothing a white shirt] and [/EN#104566/clothing dark jacket] stands in [/EN#104561/scene a marsh] .
+[/EN#104560/people A woman] standing in front of [/EN#104563/scene water] and [/EN#104562/scene dry grass] smiles .
+[/EN#104560/people The smiling woman] stands in [/EN#104562/scene grass] near [/EN#104561/scene a creek] .
+[/EN#104560/people A woman] laughing by [/EN#104561/scene a lake] .

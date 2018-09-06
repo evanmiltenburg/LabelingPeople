@@ -1,0 +1,5 @@
+[/EN#147620/people A person] wearing [/EN#147626/clothing a Darth Vader outfit] and holding [/EN#147625/instruments a violin] and [/EN#147629/other violin bow] , is standing beside [/EN#147623/other a cement wall] , and is playing for [/EN#147628/people some people] .
+[/EN#147620/people Man] dressed as [/EN#147621/other Darth Vader] playing [/EN#147625/instruments a violin] on [/EN#147624/scene the sidewalk] .
+[/EN#147620/people A man] is standing beside [/EN#147623/other a wall] dressed in [/EN#147621/clothing a black costume] .
+[/EN#147620/people A person] in [/EN#147621/clothing a darth vader costume] walks down [/EN#147624/scene a sidewalk] .
+[/EN#147621/other Darth Vader] playing [/EN#147625/instruments a violin] on [/EN#147627/scene a sunny day] .

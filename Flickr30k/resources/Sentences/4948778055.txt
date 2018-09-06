@@ -1,0 +1,5 @@
+[/EN#222122/people A person] in [/EN#222124/clothing a red shirt] jumping over [/EN#222123/other a railing] .
+[/EN#222122/people Young man] in [/EN#222124/clothing red shirt] leaps from [/EN#222123/other a handrail] .
+[/EN#222122/people A daredevil] in [/EN#222124/clothing a red shirt] taking [/EN#0/notvisual a jump] .
+[/EN#222122/people A teenage boy] jumping over [/EN#222123/other a railing] .
+[/EN#222122/people A free runner] is jumping [/EN#222123/other a rail] .

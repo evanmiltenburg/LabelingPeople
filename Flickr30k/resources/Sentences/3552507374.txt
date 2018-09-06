@@ -1,0 +1,5 @@
+[/EN#127076/animals A elephant] carrying [/EN#127079/people two people] , [/EN#0/notvisual one of them] [/EN#127078/people a passenger] in [/EN#127083/other a chair] on top of [/EN#127076/animals the elephant] , and [/EN#0/notvisual one of them] guiding [/EN#127081/animals the elephant] .
+[/EN#0/notvisual This] is [/EN#127078/people a young lady] riding [/EN#127076/animals an elephant] with [/EN#127077/people her safari guide] riding on [/EN#127081/animals the head of the elephant] .
+[/EN#127078/people A young woman] is riding [/EN#127076/animals an elephant] while [/EN#127077/people the handler] sits in front of [/EN#0/notvisual her] .
+[/EN#127077/people A tour guide] and [/EN#127078/people a woman] ride [/EN#127081/animals elephant] back along [/EN#127080/scene rice fields] .
+[/EN#127079/people Two people] [/EN#127077/people a man] and [/EN#127078/people woman] riding [/EN#127076/animals an elephant] in [/EN#127080/scene a field] .

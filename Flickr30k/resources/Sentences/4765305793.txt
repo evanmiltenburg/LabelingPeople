@@ -1,0 +1,5 @@
+[/EN#200692/people A person] wearing [/EN#200694/clothing a white shirt] pushes [/EN#200700/vehicles shopping carts] in front of [/EN#200693/scene a market] selling [/EN#200695/other fruit] .
+[/EN#200692/people A Chinese man] wearing [/EN#200694/clothing a white shirt] shopping for [/EN#200695/other fruit] at [/EN#200693/scene a market] .
+[/EN#200692/people A man] is wearing [/EN#200694/clothing a white t-shirt] with [/EN#200699/other a red design] and shopping .
+[/EN#200692/people A man] [/EN#0/notvisual that] has [/EN#200701/bodyparts a mohawk] is at [/EN#200693/scene a market] with [/EN#200697/vehicles a buggy] in [/EN#200702/bodyparts hand] .
+[/EN#200696/people Shoppers] are browsing in [/EN#200698/scene a produce market] .

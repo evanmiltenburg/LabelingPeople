@@ -1,0 +1,5 @@
+[/EN#247404/people Two women] walk around [/EN#247407/other a laundry mat] while [/EN#247408/people a man] sits at [/EN#247411/other a desk] and eats .
+[/EN#247412/people lady] in [/EN#247410/clothing gray top] and [/EN#247415/clothing white pants] carrying [/EN#247413/other soap] in [/EN#247407/other laundry mat] .
+[/EN#247404/people People] in [/EN#247406/scene the laundromat] washing [/EN#247409/clothing clothes] .
+[/EN#247404/people People] are getting [/EN#247414/clothing their clothes] cleaned .
+[/EN#247404/people Two women] and [/EN#247408/people a man] are in [/EN#247406/scene a laundromat] .

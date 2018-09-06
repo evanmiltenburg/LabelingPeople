@@ -1,0 +1,5 @@
+[/EN#32930/animals A dark brown dog] running on [/EN#32931/scene a muddy beach] , [/EN#32932/people a person] in [/EN#32933/clothing yellow pants] following [/EN#0/notvisual him] .
+[/EN#32930/animals A dog] running and jumping in [/EN#32931/other the mud] , with [/EN#32932/people a person] walking behind [/EN#0/notvisual it] .
+[/EN#32930/animals A dog] runs on [/EN#32935/other wet sand] as [/EN#32932/people a man] in [/EN#32933/clothing yellow pants] walks further back .
+[/EN#32930/animals a black dog] runs through [/EN#32931/other the black mud] .
+[/EN#32930/animals A dirt dog] runs down [/EN#32931/scene a muddy shore] .

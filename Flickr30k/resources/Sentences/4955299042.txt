@@ -1,0 +1,5 @@
+[/EN#222950/people A short-haired middle-aged woman] is walking on [/EN#222954/scene a city sidewalk] , passing [/EN#222953/scene a building] with [/EN#222955/other mirrored windows] .
+[/EN#222950/people A woman] in [/EN#222952/clothing a blue jean skirt] walking down [/EN#222954/scene the street] near [/EN#222957/other her reflection] in [/EN#222953/scene a building] .
+[/EN#222950/people A woman] wearing [/EN#222956/clothing a striped shirt] and [/EN#222952/clothing blue skirt] walking in front of [/EN#222955/other a mirror window]
+[/EN#222950/people A woman] walks along [/EN#222954/scene the sidewalk] in front of [/EN#222955/other a mirror]
+[/EN#222950/people Reflection of an elderly woman] in [/EN#222954/scene a street] .

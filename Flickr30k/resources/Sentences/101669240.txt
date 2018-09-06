@@ -1,0 +1,5 @@
+[/EN#538/people A person] wearing [/EN#539/other skis] looking at [/EN#540/other framed pictures] set up in [/EN#541/scene the snow] .
+[/EN#542/people A man] in [/EN#543/clothing a hat] is displaying [/EN#540/other pictures] next to [/EN#538/people a skier] in [/EN#544/clothing a blue hat] .
+[/EN#538/people A man] skis past [/EN#542/people another man] displaying [/EN#540/other paintings] in [/EN#541/scene the snow] .
+[/EN#538/people A skier] looks at [/EN#540/other framed pictures] in [/EN#541/scene the snow] next to [/EN#545/other trees] .
+[/EN#538/people Man] on [/EN#539/other skis] looking at [/EN#540/other artwork] for [/EN#546/other sale] in [/EN#541/scene the snow]

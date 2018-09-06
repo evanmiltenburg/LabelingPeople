@@ -1,0 +1,5 @@
+[/EN#81031/people A nun] is sitting down at [/EN#81035/other a table] in [/EN#81033/scene a restaurant] eating [/EN#81036/other a burger] with [/EN#81041/other two coca cola cans] in front of [/EN#0/notvisual her] with [/EN#81039/people people] behind [/EN#0/notvisual her] .
+[/EN#81031/people Woman] wearing [/EN#81038/clothing nun 's veil] eating [/EN#81032/other a sandwich] in [/EN#81034/scene a crowded area] .
+[/EN#81031/people A Nun] eating at [/EN#81035/other a table] , in [/EN#81033/scene a crowded restaurant] .
+[/EN#81031/people A young nun] enjoying [/EN#81032/other her lunch] among [/EN#81040/people strangers] .
+[/EN#81031/people A nun] is grabbing [/EN#81032/other a bite] to eat .

@@ -1,0 +1,5 @@
+[/EN#202582/people A man] is drinking [/EN#202584/other a beer] with [/EN#202583/people two young children] [/EN#0/notvisual who] are drinking [/EN#202587/scene water] on [/EN#202586/bodyparts his lap] .
+[/EN#202582/people A man] is drinking [/EN#202584/other a beer] while [/EN#202583/people two children] sit on [/EN#202586/bodyparts his lap] drinking [/EN#202587/scene water] .
+[/EN#202582/people A man] and [/EN#202583/people two children] [/EN#202589/people all] enjoying [/EN#202588/other a drink] ; [/EN#202587/scene water] , [/EN#202590/other soda] and [/EN#202584/other beer] .
+[/EN#202583/people Two toddlers] and [/EN#202582/people a younger man] enjoy [/EN#202585/other their bottles] .
+[/EN#202582/people A man] and [/EN#202583/people two children] take [/EN#202585/other a drink] .

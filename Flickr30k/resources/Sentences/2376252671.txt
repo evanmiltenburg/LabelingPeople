@@ -1,0 +1,5 @@
+[/EN#45022/people A man] dressed in [/EN#45026/clothing black] , is carrying [/EN#45023/other a table] across [/EN#45028/other a large empty looking hall] .
+[/EN#45022/people A man] wearing [/EN#45026/clothing black] is moving [/EN#45023/clothing a table top] in [/EN#45025/scene an empty room] .
+[/EN#45022/people A man] in [/EN#45026/clothing black] rolling [/EN#45023/other a round table] across [/EN#45024/scene a floor] .
+[/EN#45022/people A man] is rolling [/EN#45023/other a circular table] across [/EN#45024/scene the floor] .
+[/EN#45022/people A man] puts away [/EN#45023/other a table] .

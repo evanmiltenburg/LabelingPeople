@@ -1,0 +1,5 @@
+[/EN#48026/people A man] , [/EN#48038/bodyparts whose face] is obstructed by [/EN#48027/other a lampshade] , is sitting next to [/EN#48033/scene a bar] with [/EN#48028/other drinks] , and [/EN#48026/other a mannequin] stands nearby .
+[/EN#48026/people One man] is standing in [/EN#48034/scene a red room] while [/EN#48030/people another person] sits next to [/EN#0/notvisual him] .
+[/EN#48026/people Two people] in [/EN#48035/other a lounge] , [/EN#48026/other one] is playing [/EN#48031/scene pool] .
+[/EN#48026/people 2 guys] on [/EN#48036/scene a bar] [/EN#48026/other 1] is holding [/EN#48032/other a pool cue]
+[/EN#48026/people A man] standing in front of [/EN#48037/other a red wall] .

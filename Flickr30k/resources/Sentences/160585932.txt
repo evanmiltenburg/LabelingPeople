@@ -1,0 +1,5 @@
+[/EN#17407/vehicles A black station wagon] with [/EN#17408/other its lights] on , partially submerged in [/EN#17409/scene water] with [/EN#17410/scene a wooded area] behind [/EN#0/notvisual it] .
+[/EN#17407/vehicles The four wheel drive car] is driving through [/EN#17409/scene a river] .
+[/EN#17407/vehicles A car] is sinking underwater in [/EN#17409/scene a lake] or [/EN#17411/scene river] .
+[/EN#17407/vehicles A car] is partially submerged in [/EN#17409/scene a lake] .
+[/EN#17407/vehicles A Toyota car] drives into [/EN#17409/scene water]

@@ -1,0 +1,5 @@
+[/EN#226959/people Three men] , [/EN#226963/people a woman] , and [/EN#226960/people a baby] eat at [/EN#226957/other a table] with [/EN#226957/scene a red tablecloth outside] .
+[/EN#226954/people People] sit around [/EN#226957/other a table] with [/EN#226957/other a red tablecloth] [/EN#0/notvisual that] has [/EN#226956/other food] on [/EN#0/notvisual it] .
+[/EN#226954/people A group of people] are at [/EN#226957/other an outdoor table] , sharing [/EN#226956/other a meal] .
+[/EN#226955/people A man] holds up [/EN#226956/other a plate] with [/EN#226956/other food] at [/EN#226961/other a park lunch] .
+[/EN#226955/people A man] in [/EN#226965/clothing a blue shirt] passing [/EN#226956/other a plate of food] .

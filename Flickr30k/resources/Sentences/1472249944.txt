@@ -1,0 +1,5 @@
+[/EN#14201/people A woman] in [/EN#14202/clothing an orange coat] and [/EN#14203/clothing jeans] is squatting on [/EN#14204/other a rock wall] while [/EN#14205/people a blond woman] in [/EN#14206/clothing a red jacket] stands next to [/EN#0/notvisual her] on [/EN#14207/other the wall] checking [/EN#14208/other her electronic device]
+[/EN#14205/people A woman] in [/EN#14206/clothing a red jacket] standing on [/EN#14209/other a rock] next to [/EN#14201/people a woman] crouching on [/EN#14207/other a rock] .
+[/EN#14210/people Two women] are on [/EN#14207/other a rock wall] while [/EN#14211/other others] walk along [/EN#14212/scene a path] .
+[/EN#14213/people Many people] are walking through [/EN#14214/scene a park] with [/EN#14215/other a lot of trees] .
+[/EN#14201/people A girl] squats on [/EN#14207/other a rock] while [/EN#0/notvisual another] stands by [/EN#0/notvisual her] .

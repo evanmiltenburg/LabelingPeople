@@ -1,0 +1,5 @@
+[/EN#197310/other A display of flowers] and [/EN#197312/other various plants] encased in [/EN#197319/other glass] , [/EN#197309/people a man] in [/EN#197320/clothing a blue shirt] looks on .
+[/EN#197309/people A man] and [/EN#197313/people a woman] are walking next to [/EN#197310/other a flower display case] and [/EN#197318/scene an escalator] .
+[/EN#197309/people A man] and [/EN#197313/people woman] are walking past [/EN#197312/other a pot of flowers] in [/EN#197316/other a glass case] .
+[/EN#197315/people An oriental couple] walks by [/EN#197317/scene a hallway] in [/EN#197311/other a museum of art] .
+[/EN#197310/other An ornamental plant] [/EN#0/notvisual that] is in [/EN#197311/scene a museum] .

@@ -1,0 +1,5 @@
+[/EN#199093/people A baby] in [/EN#199094/clothing an orange t-shirt] holds onto [/EN#199096/other his stroller] like [/EN#199095/other a steering wheel] .
+[/EN#199093/people A young toddler] in [/EN#199094/clothing an orange t-shirt] is riding in [/EN#199096/other a stroller] .
+[/EN#199093/people A toddler] in [/EN#199096/other a stroller] is wearing [/EN#199094/clothing an orange shirt] .
+[/EN#199093/people A baby] in [/EN#199094/clothing an orange shirt] sits in [/EN#199096/other a stroller] .
+[/EN#199093/people Child] in [/EN#199096/other a stroller] with [/EN#199094/clothing an orange shirt] on .

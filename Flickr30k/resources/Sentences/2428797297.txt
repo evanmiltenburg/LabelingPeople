@@ -1,0 +1,5 @@
+[/EN#48741/animals Two dogs] , [/EN#48744/clothing one brown and white] , [/EN#48745/clothing the other black and white] , play [/EN#48743/other tug-of-war] with [/EN#48742/other a green toy] .
+[/EN#48741/animals Two dogs] holding [/EN#48742/other a green and orange toy] between [/EN#0/notvisual them] .
+[/EN#48741/animals Two dogs] are playing [/EN#48743/other tug-of-war] with [/EN#48742/other a green toy] .
+[/EN#48741/animals Two dogs] fight over [/EN#48742/other a green stuffed toy] .
+[/EN#48741/animals Two dogs] sharing [/EN#48742/other a toy] .

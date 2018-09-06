@@ -1,0 +1,5 @@
+[/EN#77948/people Three little children] in [/EN#77949/scene a grassy yard] running towards [/EN#0/notvisual the camera] .
+[/EN#77948/people Three toddlers] are running towards [/EN#0/notvisual the camera] in [/EN#77949/scene a grassy yard] .
+[/EN#77950/people Two little girls] and [/EN#77951/people one little boy] are running on [/EN#77949/scene the grass] .
+[/EN#77948/people Three young children] are walking through [/EN#77949/scene a grassy yard] .
+[/EN#77948/people Three little kids] are playing on [/EN#77949/scene a yard] .

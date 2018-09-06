@@ -1,0 +1,5 @@
+[/EN#61485/people An older man] wearing [/EN#61487/clothing a black baseball cap] and [/EN#61490/clothing black shirt] holding [/EN#61486/people a baby] wrapped in [/EN#61488/other a blue and white striped towel] .
+[/EN#61485/people The old man] in [/EN#61487/clothing a baseball cap] and [/EN#61489/clothing glasses] looked down at [/EN#61486/people the baby] wrapped in [/EN#61488/other a striped blanket] .
+[/EN#61485/people An older gentlemen] in [/EN#61487/clothing a hat] and [/EN#61489/clothing glasses] holding [/EN#61486/people a baby] [/EN#0/notvisual who] is wrapped in [/EN#61488/other a towel] .
+[/EN#61485/people An older man] holds [/EN#61486/people a small infant] [/EN#0/notvisual that] 's wrapped in [/EN#61488/other a blue and white blanket] .
+[/EN#61485/people An older man] holds [/EN#61486/people a newborn] swaddled in [/EN#61488/other a white and blue striped blanket] .

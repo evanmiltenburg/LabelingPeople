@@ -1,0 +1,5 @@
+[/EN#92737/people A man] standing on [/EN#92741/scene stage] holding [/EN#92738/instruments a bass guitar] and drinking [/EN#92742/other something] out of [/EN#92739/other a can] .
+[/EN#92737/people A guy] with [/EN#92740/clothing a white sweatshirt] and [/EN#92738/instruments guitar] drinks from [/EN#92739/other a can] while on [/EN#92741/scene stage] .
+[/EN#92737/people man] with [/EN#92738/instruments guitar] on [/EN#92741/scene stage] drinking [/EN#92739/other a can drink] .
+[/EN#92737/people Man] with [/EN#92738/instruments a guitar] drinking [/EN#92739/other a canned drink] .
+[/EN#92737/people A man] is playing [/EN#92738/instruments an electric guitar] .

@@ -1,0 +1,5 @@
+On [/EN#150883/scene a natural stone bridge] high over [/EN#150884/scene an evergreen valley] , [/EN#150882/people a man] jumps into [/EN#0/notvisual the air] .
+[/EN#150882/people A man] is doing [/EN#0/notvisual a jump] on [/EN#150883/other a rocky passage] [/EN#0/notvisual that] overlooks [/EN#150886/other a barren group of trees] .
+[/EN#150882/people A man] crossing [/EN#150883/scene a natural stone bridge] jumps while in [/EN#0/notvisual the middle of it] .
+[/EN#150882/people A man] is jumping on [/EN#150883/scene a bridge] made of [/EN#150883/other stone] near [/EN#150884/scene a mountain] .
+[/EN#150882/people This man] is jumping up in [/EN#0/notvisual the air] on [/EN#150883/scene a rock bridge] .

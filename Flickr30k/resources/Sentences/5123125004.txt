@@ -1,0 +1,5 @@
+[/EN#229429/people A man] attending [/EN#229432/other a trade show] is looking through [/EN#229431/other a telescope] at [/EN#229435/scene a booth] there .
+[/EN#229429/people A man] in [/EN#229430/clothing a hat] and [/EN#229433/clothing glasses] looks through [/EN#229431/other a telescope] .
+[/EN#229429/people A man] with [/EN#229430/clothing a hat] and [/EN#229434/clothing jacket] peers into [/EN#229431/other a telescope] .
+[/EN#229429/people A man] is looking through [/EN#229431/other a telescope] .
+[/EN#229429/people A man] is looking into [/EN#229431/other a telescope] .

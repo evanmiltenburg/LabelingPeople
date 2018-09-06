@@ -1,0 +1,5 @@
+[/EN#2510/people A man] is cooking [/EN#2511/other a square pancake] : [/EN#0/notvisual he] lifts [/EN#0/notvisual it] with [/EN#2512/bodyparts his fingers] and [/EN#2513/other a spatula] to check to see if [/EN#0/notvisual it] is done .
+[/EN#0/notvisual There] is [/EN#2514/other a pancake pan] cooking [/EN#2511/other a pancake] and [/EN#2510/people a man] is rolling [/EN#0/notvisual it] over on [/EN#0/notvisual its opposite side] with [/EN#2513/other a spatula] .
+[/EN#2515/bodyparts A man 's hand] is shown helping [/EN#2513/other a spatula] to flip [/EN#2511/other a pancake] from [/EN#2514/other a square frying pan] in [/EN#2517/scene a messy kitchen] .
+[/EN#2516/bodyparts Two hands] are flipping [/EN#2511/other some food] in [/EN#2514/other a cast iron pan] , with [/EN#2513/other a spatula] .
+[/EN#2510/people A man] makes [/EN#2511/other a perfect , golden crepe] .

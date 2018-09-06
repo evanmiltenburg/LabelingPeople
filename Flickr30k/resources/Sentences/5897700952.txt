@@ -1,0 +1,5 @@
+[/EN#244855/people A man] and [/EN#244857/people a woman] are walking down [/EN#244856/scene a beach] by [/EN#244860/scene the water] together holding [/EN#244859/clothing their shoes] in [/EN#244858/bodyparts their hands] .
+[/EN#244854/people A couple] walking down [/EN#244856/scene a beach] in [/EN#244860/other the surf] carrying [/EN#244859/clothing their sandals] .
+[/EN#244854/people A couple] holding [/EN#244858/bodyparts hands] while walking down [/EN#244856/scene the beach] .
+[/EN#244855/people A man] and [/EN#244857/people a woman] walk along [/EN#244856/scene a beach] barefoot .
+[/EN#244854/people A couple] is walking on [/EN#244856/scene the beach] .

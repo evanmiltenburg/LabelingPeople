@@ -1,0 +1,5 @@
+[/EN#217731/people A woman] in [/EN#217732/clothing a dark skirt] and [/EN#217740/clothing red short-sleeve shirt] with [/EN#217736/clothing a beige handbag] and [/EN#217741/clothing sandals] is walking over [/EN#217734/scene a glass walled walkway] .
+[/EN#217731/people A woman] with [/EN#217739/clothing a white purse] walks across [/EN#217738/other a gray platform] in front of [/EN#217733/scene a tall building] .
+[/EN#217731/people A woman] is walking [/EN#217737/other a footbridge] with [/EN#217735/other a Pac Man Ghost] painted on [/EN#0/notvisual the side] .
+[/EN#217731/people A woman] with [/EN#217732/clothing a black long skirt] on top of [/EN#217733/scene a building] .
+[/EN#217731/people A woman] in [/EN#217732/clothing a skirt] walking across [/EN#217734/scene a skywalk] .

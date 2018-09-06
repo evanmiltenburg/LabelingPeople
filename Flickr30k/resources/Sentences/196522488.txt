@@ -1,0 +1,5 @@
+[/EN#24204/other A giant shovel machine] works away at [/EN#24205/other a construction sight] full of [/EN#24206/scene dirt] .
+[/EN#24204/other An excavator] working at [/EN#24207/scene a construction site] .
+[/EN#24208/people A man] digging [/EN#24206/scene dirt] with [/EN#24204/other a Case machine] .
+[/EN#24204/other Large earth moving equipment] at [/EN#24205/other work] .
+[/EN#24204/other a tractor] digging in [/EN#24206/scene dirt] .

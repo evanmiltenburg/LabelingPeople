@@ -1,0 +1,5 @@
+[/EN#126296/people A man] in [/EN#126298/clothing a long-sleeved shirt] , riding [/EN#126299/vehicles a yellow moped] across [/EN#126300/scene a street] .
+[/EN#126296/people A man] wearing [/EN#126302/clothing sunglasses] and [/EN#126298/clothing a white shirt] is riding [/EN#126299/vehicles a yellow moped] .
+[/EN#126296/people A middle-aged man] on [/EN#126299/vehicles a yellow motor scooter] crosses [/EN#126297/scene the street] .
+[/EN#126296/people A man] riding [/EN#126299/vehicles a scooter] , crosses [/EN#126300/scene the street] , in [/EN#126297/scene the crosswalk] .
+[/EN#126296/people A gray-haired man] rides [/EN#126299/vehicles a yellow scooter] across [/EN#126300/scene a street] .

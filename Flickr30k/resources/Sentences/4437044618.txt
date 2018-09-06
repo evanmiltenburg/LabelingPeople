@@ -1,0 +1,5 @@
+[/EN#168005/other A woman wit] [/EN#168003/clothing a brown long jacket] on passing by [/EN#168001/people two women] hugging in [/EN#0/notvisual the background] in [/EN#168002/scene the street] .
+[/EN#168001/people Two woman] in [/EN#168003/clothing brown coats] in [/EN#168009/people the background of a woman] walking toward [/EN#168011/other the front of the picture] .
+[/EN#168004/people A woman] in [/EN#168006/clothing a black hat] and [/EN#168003/clothing brown jackets] passes [/EN#168001/people two women] [/EN#0/notvisual who] are hugging .
+[/EN#168001/people Two Russian women] talk while [/EN#168004/other a third] walks by in [/EN#0/notvisual the foreground] .
+[/EN#168001/people Two women] talking on [/EN#168002/scene a street] .

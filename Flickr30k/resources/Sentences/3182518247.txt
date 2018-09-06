@@ -1,0 +1,5 @@
+[/EN#99108/people An old black woman] in [/EN#99112/clothing a straw hat] and [/EN#99117/clothing a blue sweater] points to [/EN#99116/other something] off-camera .
+[/EN#99108/people A black man] with [/EN#99114/clothing an earring] is directing [/EN#99110/people someone] to [/EN#99115/other a particular location] .
+[/EN#99108/people A lady] wearing [/EN#99112/clothing a straw hat] and [/EN#99113/clothing gold hoop earrings] is pointing [/EN#99119/bodyparts a finger] .
+[/EN#99108/people A woman] wearing [/EN#99112/clothing a hat] pointing into [/EN#0/notvisual the distance] .
+[/EN#99108/people This person] is pointing at [/EN#99118/other something] .

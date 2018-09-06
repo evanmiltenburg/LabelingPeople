@@ -1,0 +1,5 @@
+[/EN#257260/people A man] works on [/EN#257261/vehicles the wheel of a bicycle] in [/EN#257265/scene a workshop] , likely to repair [/EN#257263/other a broken one] .
+[/EN#257260/people A smiling man] in [/EN#257264/clothing a blue shirt] is working on [/EN#257266/other the spokes of a bicycle wheel] .
+[/EN#257260/people A man] in [/EN#257264/clothing a blue shirt] is working on [/EN#257261/other a bicycle rim] .
+[/EN#257260/people A man] in [/EN#257264/clothing a blue shirt] is fixing [/EN#257261/other a bicycle wheel] .
+[/EN#257260/people A man] in [/EN#257265/scene a garage] working on [/EN#257261/other a bicycle wheel] .

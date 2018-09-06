@@ -1,0 +1,5 @@
+[/EN#126905/people A man] wearing [/EN#126908/clothing a red jacket] is sitting on [/EN#126906/other a wooden bench] and is cooking [/EN#126907/other something] in [/EN#126909/other a small pot] .
+[/EN#126905/people a man] wearing [/EN#126908/clothing a red jacket] sitting on [/EN#126906/other a bench] next to [/EN#126910/other various camping items]
+[/EN#126905/people A man] in [/EN#126908/clothing a red jacket] is sitting on [/EN#126906/other a bench] whilst cooking [/EN#126907/other a meal] .
+[/EN#126905/people A man] is sitting on [/EN#126906/other a bench] , cooking [/EN#126907/other some food] .
+[/EN#126905/people A man] sits on [/EN#126906/other a bench] .

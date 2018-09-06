@@ -1,0 +1,5 @@
+[/EN#234541/people A woman] in [/EN#234542/clothing a white dress] is sitting on [/EN#234543/other a swing] and reading from [/EN#234544/scene a black binder] .
+[/EN#234541/people A woman] in [/EN#234545/clothing costume] sits on [/EN#234543/other a suspended swing] on [/EN#234548/scene stage] and reads from [/EN#234544/scene a binder] .
+[/EN#234541/people A woman] , dressed in [/EN#234546/other a shrewdly] sewn [/EN#234542/clothing white dress] , sits and reads [/EN#234549/other out loud] .
+[/EN#234541/people A woman] draped in and [/EN#234545/clothing odd dress] , reads to [/EN#234550/people the audience] .
+[/EN#234541/people A woman] weeps while reading [/EN#234544/other a book] .

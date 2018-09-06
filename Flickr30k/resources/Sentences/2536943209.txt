@@ -1,0 +1,5 @@
+[/EN#56087/people A person] in [/EN#56088/clothing an orange jumpsuit] with [/EN#56089/other silver reflectors] is working underneath [/EN#56090/vehicles/scene a train] .
+[/EN#56087/people A man] wearing [/EN#56088/clothing an orange jumpsuit] is working underneath [/EN#56090/vehicles a railroad car] .
+[/EN#56087/people A person] in [/EN#56088/clothing a orange jumpsuit] working on [/EN#56091/clothing a railroad tie] .
+[/EN#56087/people A mechanic] in [/EN#56088/clothing an orange jumpsuit] working on [/EN#56090/vehicles/scene a train] .
+[/EN#56087/people A man] in [/EN#56088/clothing a work suit] fixing [/EN#56093/other something] on [/EN#56092/scene a track] .

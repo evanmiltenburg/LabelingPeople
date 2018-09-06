@@ -1,0 +1,5 @@
+[/EN#167530/people A woman] with [/EN#167536/clothing a white shirt] and [/EN#167533/clothing blue striped pants] is walking past [/EN#167532/scene a building] with [/EN#167531/other a lot of graffiti] on [/EN#0/notvisual it] .
+[/EN#167530/people A woman] walks by [/EN#167532/scene a brick building] [/EN#0/notvisual that] 's covered with [/EN#167531/other graffiti] .
+[/EN#167530/people Woman] in [/EN#167533/clothing blue pants] walks [/EN#167537/other past brick wall] with [/EN#167531/other graffiti] .
+[/EN#167531/other Graffiti] is tagged outside [/EN#167532/scene a wall of the om boutique] .
+[/EN#167530/people A woman] with [/EN#167534/clothing a purse] walking down [/EN#167535/scene a street] .

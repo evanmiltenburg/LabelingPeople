@@ -1,0 +1,5 @@
+[/EN#211258/people A man] wearing [/EN#211263/clothing a blue and black plaid overshirt] sells [/EN#211260/other organic fruit] to [/EN#211262/people a man] in [/EN#211266/clothing a gray polo shirt] .
+[/EN#211258/people A bearded man] in [/EN#211261/clothing a baseball cap] hands [/EN#211260/other a bag of organic food] to [/EN#211262/people a customer] at [/EN#211264/scene a farmer 's market] .
+[/EN#211258/people A red bearded man] purchases [/EN#211260/other a bag of fruit] at [/EN#211265/scene a fruit stand] .
+[/EN#211258/people A bearded man] in [/EN#211261/clothing a baseball cap] selling [/EN#211267/other vegetables] .
+[/EN#211258/people A man] with [/EN#211268/bodyparts a beard] holds [/EN#211260/other a bag of fruit] .

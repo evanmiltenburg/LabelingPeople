@@ -1,0 +1,5 @@
+[/EN#65539/people A man] in [/EN#65544/clothing a kilt] follows [/EN#65542/people a girl] and [/EN#65539/people another man] in [/EN#65545/clothing a kilt] and holds [/EN#65538/people a girl] wearing [/EN#65546/clothing silver shoes] .
+[/EN#65537/people These people] are walking away from [/EN#0/notvisual the camera] , while [/EN#65539/people one person] carries [/EN#0/notvisual another] .
+[/EN#65538/people One woman] is being carried behind [/EN#65537/people three people] [/EN#0/notvisual who] are walking on [/EN#65540/scene path] .
+[/EN#65537/people Group of people] walking around [/EN#65543/scene outdoors] , [/EN#65538/people one girl] is being carried .
+[/EN#65537/people People] walking on [/EN#65540/scene a sidewalk] , with [/EN#65539/other one] carrying [/EN#65538/people a female] .

@@ -1,0 +1,5 @@
+[/EN#95318/people A man] stands on [/EN#95322/other a surfboard] and [/EN#95320/scene coasts] down [/EN#95319/scene a large wave] .
+[/EN#95318/people The surfer] in [/EN#95323/clothing the wetsuit] is riding [/EN#95319/scene a wave] .
+[/EN#95318/people a surfer] surfs across [/EN#95319/scene the large wave] .
+[/EN#95318/people A surfer] catches [/EN#95319/scene a large wave] .
+[/EN#95318/people A surfer] rides [/EN#95321/scene the waves] .

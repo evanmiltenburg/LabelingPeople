@@ -1,0 +1,5 @@
+[/EN#256385/people A middle-aged male carpenter] uses [/EN#256389/other a drill press] in [/EN#256387/scene a crowded workshop] .
+[/EN#256385/people A man] with [/EN#256386/clothing a plaid shirt] is working on [/EN#256388/other some wood] in [/EN#256387/scene his workshop] .
+[/EN#256385/people A man] working on [/EN#256388/other a project] in [/EN#256387/scene his workshop] .
+[/EN#256385/people a man] in [/EN#256386/clothing a checkered shirt] doing [/EN#256388/other woodwork]
+[/EN#256385/people A man] working in [/EN#256387/scene a cluttered workshop] .

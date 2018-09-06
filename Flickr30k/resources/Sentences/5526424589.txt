@@ -1,0 +1,5 @@
+[/EN#238280/people A man] in [/EN#238283/clothing a suit] and with [/EN#238284/other a name tag] and [/EN#238286/clothing red tie] stands in [/EN#238281/scene a dining area] .
+[/EN#238280/people A thin middle-aged man] stands behind [/EN#238282/scene a podium] in [/EN#238281/scene an empty banquet room] .
+[/EN#238280/people A man] in [/EN#238283/clothing a suit] looking down at [/EN#238282/scene a podium] in [/EN#238281/scene a dinning restaurant] .
+[/EN#238280/people A man] in [/EN#238283/clothing a suit] is about to give [/EN#238285/other a speech] at [/EN#238282/scene the podium] .
+[/EN#238280/people Thin man] in [/EN#238283/clothing suit] standing at [/EN#238282/scene a podium] in [/EN#238281/scene a banquet room] .

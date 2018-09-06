@@ -1,0 +1,5 @@
+[/EN#193536/people A woman] dressed in [/EN#193537/clothing a black shirt] is standing at [/EN#193542/other a kitchen sink] , washing [/EN#193538/other a cutting board] , looking at [/EN#0/notvisual the camera] .
+[/EN#193536/people A woman] with [/EN#193544/bodyparts long hair] and [/EN#193537/clothing a black shirt] washes [/EN#193538/other the dishes] .
+[/EN#193536/people A hispanic woman] is washing [/EN#193538/other her dishes] with [/EN#193543/other a sponge] .
+[/EN#193536/people A woman] washes [/EN#193538/other dishes] in [/EN#193545/scene her kitchen] .
+[/EN#193536/people a lady] in [/EN#193537/clothing black] washing [/EN#193539/other dishes] .

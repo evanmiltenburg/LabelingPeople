@@ -1,0 +1,5 @@
+[/EN#131208/people The girl] with [/EN#131213/clothing red sunglasses] and [/EN#131207/clothing a white shirt] is sitting on [/EN#131206/other a bench] next to [/EN#131208/people the girl] in [/EN#131214/clothing the black tank top] .
+[/EN#131205/people Two women] , [/EN#131208/other one] in [/EN#131207/clothing white] , [/EN#131211/other one] in [/EN#131210/clothing black] , are sitting on [/EN#131206/other a bench] .
+[/EN#131205/people Two people] sitting on [/EN#131206/other a park bench] on [/EN#131216/scene a sunny day]
+[/EN#131205/people Two people] on [/EN#131206/other a bench] sitting in [/EN#131215/other the shade] .
+[/EN#131205/people Two women] on [/EN#131206/other a bench] .

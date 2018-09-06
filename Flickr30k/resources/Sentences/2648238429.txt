@@ -1,0 +1,5 @@
+[/EN#63819/people A lady] in [/EN#63820/clothing a cream blouse] and [/EN#63821/clothing black pants] is posing in [/EN#63828/other a photo] with [/EN#63822/bodyparts her hand] extended toward [/EN#63823/other a large beige] and [/EN#63824/other black grill] .
+[/EN#63819/people Woman] wearing [/EN#63821/clothing dark pants] , [/EN#63820/clothing white top] and [/EN#63820/clothing gray shawl] is motioning to [/EN#63825/other a large cooking appliance] in [/EN#63829/scene a retail store] .
+[/EN#63819/people A woman] is shopping for [/EN#63826/clothing a stove top] in [/EN#63829/scene a home improvement store] and has found [/EN#63827/other one] that [/EN#0/notvisual she] likes .
+[/EN#63819/people A woman] showing [/EN#63825/other a large freestanding grill] at [/EN#0/notvisual what] looks to be [/EN#63829/scene a Home Depot store] .
+[/EN#63819/people An older woman] models [/EN#63825/other a large grill installation] at [/EN#63829/scene a home center] .

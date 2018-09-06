@@ -1,0 +1,5 @@
+[/EN#51840/people A boy] in [/EN#51841/clothing an orange shirt] , with [/EN#51842/clothing a blue bookbag] across [/EN#51843/bodyparts his shoulder] , talks with [/EN#51844/people a man] wearing [/EN#51845/clothing a red kilt] and holding [/EN#51846/instruments bagpipes] .
+[/EN#51847/people People] gather around [/EN#51844/people the bagpipe player] wearing [/EN#51845/clothing a kilt] .
+[/EN#51844/people A man] is wearing [/EN#51845/clothing a kilt] and is carrying [/EN#51848/instruments bagpipes] .
+[/EN#51844/people A man] in [/EN#51849/other a kiln] sharing [/EN#51850/other a snack] with [/EN#51840/people his kids] .
+[/EN#51844/people A man] in [/EN#51845/clothing a red kilt] has [/EN#51848/instruments a bagpipe] .

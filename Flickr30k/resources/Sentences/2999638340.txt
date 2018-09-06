@@ -1,0 +1,5 @@
+[/EN#86414/animals A brown dog] lays in [/EN#86415/scene the snow] while posing for [/EN#86416/other a picture] .
+[/EN#86414/animals A brown dog] is laying in [/EN#86415/scene the snow] .
+[/EN#86414/animals A brown dog] playing in [/EN#86415/scene the snow] .
+[/EN#86414/animals a tan dog] is sitting in [/EN#86415/scene some snow]
+[/EN#86414/animals A brown dog] is laying on [/EN#86415/scene snow] .

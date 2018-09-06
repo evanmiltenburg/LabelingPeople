@@ -1,0 +1,5 @@
+[/EN#168080/animals A white dog] with [/EN#168085/other light brown markings] has [/EN#168081/other a stick] in [/EN#168082/bodyparts his mouth] and [/EN#168084/bodyparts his paws] in [/EN#168083/scene the snow] .
+[/EN#168080/animals A tan curly-haired dog] jumps in [/EN#168083/scene the snow] with [/EN#168081/other a stick] in [/EN#168082/bodyparts its mouth] .
+[/EN#168080/animals A white dog] holds [/EN#168081/other a stick] in [/EN#168082/bodyparts its mouth] while [/EN#0/notvisual it] runs through [/EN#168083/scene snow] .
+[/EN#168080/animals A white dog] catches [/EN#168081/other a stick] in [/EN#168083/scene the snow] .
+[/EN#168080/animals a white dog] jumps in [/EN#168083/scene the snow] .

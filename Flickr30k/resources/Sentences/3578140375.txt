@@ -1,0 +1,5 @@
+[/EN#129026/people Child] with [/EN#129031/bodyparts dark hair] and [/EN#129032/clothing fair skin] in [/EN#129027/clothing striped shirt] and [/EN#129035/clothing jeans] with [/EN#129029/other stick] in [/EN#129036/other raised handstanding] on [/EN#129033/scene floor of gazebo] .
+[/EN#129026/people A boy] in [/EN#129027/clothing a green and black striped shirt] is waving [/EN#129029/other a stick] in [/EN#0/notvisual the air] while standing on [/EN#129028/scene a porch] .
+[/EN#129026/people A little boy] in [/EN#129027/clothing a green striped shirt] holding up [/EN#129029/other a stick] on [/EN#129028/scene his porch] .
+[/EN#129026/people A young boy] in [/EN#129027/clothing a striped shirt] is playing in [/EN#129030/scene a outside] on [/EN#129028/scene a porch] .
+[/EN#129026/people Boy] in [/EN#129027/clothing green striped shirt] reaching up with [/EN#129029/other a stick] in [/EN#129034/bodyparts his hand] .

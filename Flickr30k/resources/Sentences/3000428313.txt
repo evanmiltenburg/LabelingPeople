@@ -1,0 +1,5 @@
+[/EN#86463/people A boy] rides [/EN#86464/other a surfboard] over [/EN#86468/scene a small wave] in [/EN#86466/scene bright blue water] .
+[/EN#86463/people A boy] wearing [/EN#86465/clothing a blue wetsuit] rides on [/EN#86464/other a blue surfboard] .
+[/EN#86463/people A boy] in [/EN#86465/clothing a blue wetsuit] is riding [/EN#86464/other a surfboard]
+[/EN#86463/people The boy] is riding [/EN#86464/other a blue board] in [/EN#86466/scene the water] .
+[/EN#86463/people Two kids] in [/EN#86469/other blue wetsuits surf] .

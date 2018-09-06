@@ -1,0 +1,5 @@
+[/EN#95748/people a man] in [/EN#95749/clothing a red shirt] at [/EN#95752/other the top of a set] of [/EN#95750/other stairs] with [/EN#95753/other arena lights] on in [/EN#0/notvisual the background]
+[/EN#95748/people A man] stands at [/EN#95751/other the top of a flight] of [/EN#95750/other stairs] at [/EN#95756/scene the entrance] to [/EN#95754/scene a stadium] .
+[/EN#95748/people A man] in [/EN#95749/clothing a red jacket] is standing at [/EN#95752/other the top of some steps] at [/EN#95755/scene night] .
+[/EN#95748/people A man] in [/EN#95749/clothing a red jacket] is standing at [/EN#95752/other the top of the stadium steps] .
+[/EN#95748/people A man] stands at [/EN#95752/scene the top of a stadium staircase] .

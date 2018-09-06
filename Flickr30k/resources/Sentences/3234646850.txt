@@ -1,0 +1,5 @@
+[/EN#103130/people A woman] wearing [/EN#103135/clothing a red bandanna] is carrying [/EN#103131/other two pots] past [/EN#103136/other a stone structure] and [/EN#103134/scene a house] in [/EN#0/notvisual the background] .
+[/EN#103130/people A woman] wearing [/EN#103132/clothing a brown dress] with [/EN#103133/clothing a green undershirt] is walking carrying [/EN#103131/other two buckets] .
+[/EN#103130/people A woman] carrying [/EN#103131/other buckets] in [/EN#103139/scene the mountains of the countryside] .
+[/EN#103130/people An older woman] carrying [/EN#103131/other two pails] on [/EN#103137/scene a sunny day] .
+[/EN#103130/people Lady] takes [/EN#103140/scene water] from [/EN#103136/other well] for [/EN#103138/other home uses] .

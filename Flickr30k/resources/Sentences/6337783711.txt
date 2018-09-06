@@ -1,0 +1,5 @@
+[/EN#253008/people A football player] runs with [/EN#253011/other a football] across [/EN#253016/scene a field] with [/EN#253015/people team members] and [/EN#253014/people opponents] in [/EN#0/notvisual background] .
+[/EN#253008/other A running back] for [/EN#253012/people a college football team] stumbling after getting [/EN#253011/other the ball] .
+[/EN#253008/people Football player] , [/EN#253011/other ball] in [/EN#253017/bodyparts hand] , [/EN#253010/other races] to make [/EN#253013/other a touchdown] .
+[/EN#0/notvisual There] is [/EN#253008/people a football player] running with [/EN#253011/other the football] .
+[/EN#253008/people A Texas A&M football player] running with [/EN#253011/other the ball] .

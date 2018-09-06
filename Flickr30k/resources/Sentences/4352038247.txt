@@ -1,0 +1,5 @@
+[/EN#164499/people A small child] all bundled up in [/EN#164500/clothing a brown coat] , [/EN#164503/clothing striped hat] and [/EN#164502/clothing blue scarf] , playing in [/EN#164512/scene the snow] behind [/EN#164507/scene his house] with [/EN#164511/scene the sky] as blue as [/EN#164510/scene the ocean] .
+[/EN#164499/people A young child] dressed in [/EN#164502/clothing a scarf] , [/EN#164503/clothing hat] , [/EN#164500/clothing jacket] , [/EN#164506/clothing gloves] , [/EN#164509/clothing pants] , and [/EN#164505/clothing boots] , [/EN#164508/scene outside] playing in [/EN#164504/scene the snow] .
+[/EN#164499/people A young child] is shoveling [/EN#164504/scene snow] with [/EN#164501/other a green plastic shovel] .
+[/EN#164499/people A child] plays in [/EN#164504/scene the snow] with [/EN#164501/other a green shovel] .
+[/EN#164499/people A boy] playing with [/EN#164501/other a shovel] in [/EN#164504/scene the snow] .

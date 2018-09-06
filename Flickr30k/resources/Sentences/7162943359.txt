@@ -1,0 +1,5 @@
+[/EN#266286/people A jockey] , wearing [/EN#266289/clothing a purple shirt] , is riding [/EN#266287/animals a brown race horse] on [/EN#266288/scene a grass track] .
+[/EN#266286/people A woman] wearing [/EN#266289/clothing a purple shirt] and [/EN#266292/clothing white helmet] is riding [/EN#266287/animals a brown horse] .
+[/EN#266286/people A woman] in [/EN#266289/clothing purple] riding [/EN#266287/animals a brown horse] , competitively .
+[/EN#266286/people A woman] with [/EN#266289/clothing a purple shirt] is riding [/EN#266287/animals a brown horse] .
+[/EN#266286/people A woman] is riding [/EN#266287/animals a horse] along [/EN#266288/scene a track] .

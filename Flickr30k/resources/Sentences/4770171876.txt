@@ -1,0 +1,5 @@
+[/EN#201059/people A little boy] in [/EN#201060/clothing a gray and white striped sweater] and [/EN#201063/clothing tan pants] is playing on [/EN#201062/other a piece of playground equipment] .
+[/EN#201059/people White small child] wearing [/EN#201060/clothing a brown and gray striped hoodie] plays at [/EN#201061/scene park] .
+[/EN#201059/people A little boy] in [/EN#201063/clothing brown pants] is playing on [/EN#201062/other ropes] at [/EN#201061/scene a park] .
+[/EN#201059/people Toddler] in [/EN#201060/clothing striped sweatshirt] plays on [/EN#201062/other rope] on [/EN#201061/scene playground] .
+[/EN#201059/people A young boy] climbing up [/EN#201062/other a rope of some playground toy] .

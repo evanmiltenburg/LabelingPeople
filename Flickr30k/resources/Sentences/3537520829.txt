@@ -1,0 +1,5 @@
+[/EN#125821/people A person] in [/EN#125823/clothing a white shirt] grinding [/EN#125824/other a skateboard] down [/EN#125822/other a long rail] in [/EN#125825/scene a skate park] .
+[/EN#125821/people A person] in [/EN#125823/clothing a white shirt] skateboarding off [/EN#125822/other a rail] .
+[/EN#125821/people A skateboarder] grinds down [/EN#125822/other a long rail] .
+[/EN#125821/people A skateboarder] rides down [/EN#125822/other a rail] .
+[/EN#125821/people A skateboarder] riding [/EN#125822/other a rail] .

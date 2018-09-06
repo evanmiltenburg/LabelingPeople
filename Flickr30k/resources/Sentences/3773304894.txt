@@ -1,0 +1,5 @@
+[/EN#142032/people Person] dressed in [/EN#142038/clothing black] stands next to [/EN#142033/vehicles a white car] [/EN#0/notvisual that] has [/EN#142035/other inter tubes] and [/EN#142034/other a couch] stacked on top of [/EN#0/notvisual it] .
+[/EN#142032/people A woman] stands in front of [/EN#142033/vehicles a car] with [/EN#142035/other inflated innertubes] and [/EN#142034/other a sofa] balanced on [/EN#142036/clothing top] .
+[/EN#142032/people A lady] in [/EN#142037/clothing a hat] is standing next to [/EN#142033/vehicles a car] with [/EN#142034/other a couch] and [/EN#142035/other innertubes] on [/EN#142036/clothing top] .
+[/EN#142032/people A woman] standing in front of [/EN#142033/vehicles a white car] [/EN#0/notvisual that] is piled with [/EN#142039/other things] on [/EN#142036/clothing top] .
+[/EN#142032/people Lady] standing by [/EN#142033/vehicles white car] [/EN#0/notvisual that] has [/EN#142034/other a couch] and [/EN#142035/other innertubes] on top of [/EN#0/notvisual it] .

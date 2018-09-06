@@ -1,0 +1,5 @@
+[/EN#44005/people A young boy] in [/EN#44006/clothing a trench coat] is holding [/EN#44010/other a red bottle] outside of [/EN#44009/scene a brick building] .
+[/EN#44005/people A man] in [/EN#44006/clothing a long gray overcoat] stands in [/EN#44012/scene a courtyard] as [/EN#44013/other snowfalls] .
+[/EN#44005/people A young man] is wearing [/EN#44008/clothing a blue outfit] and [/EN#44006/clothing gray coat] .
+[/EN#44005/people Person] spraying [/EN#44010/other squirt bottle] in [/EN#44014/scene the snow] .
+[/EN#44005/people Woman] in [/EN#44006/clothing coat] outside [/EN#44009/scene a house] while snowing

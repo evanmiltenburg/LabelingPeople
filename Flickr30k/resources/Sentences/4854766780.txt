@@ -1,0 +1,5 @@
+[/EN#211181/people A person] is sitting in [/EN#211179/other a green kayak] in [/EN#211180/scene the middle of a pond] [/EN#0/notvisual that] is surrounded by [/EN#211185/other trees] .
+[/EN#211178/people A man] in [/EN#211183/other a canoe] sits on [/EN#211180/scene a placid lake] surrounded by [/EN#211184/other lush green foliage] .
+[/EN#211178/people A man] sets in [/EN#211182/vehicles/scene a boat] in [/EN#211180/scene the water] .
+[/EN#211178/people A man] in [/EN#211179/other a canoe] rows in [/EN#211180/scene a lake] .
+[/EN#211178/people A man] is on [/EN#211179/other a canoe] in [/EN#211180/scene a pond] .

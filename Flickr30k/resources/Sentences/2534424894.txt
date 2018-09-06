@@ -1,0 +1,5 @@
+[/EN#55821/people A small girl] wearing [/EN#55822/clothing a green shirt] jumping off [/EN#55823/other a grassy] , [/EN#55824/scene sandy hill] with [/EN#55825/clothing a black scarf] in [/EN#55826/bodyparts her hand] .
+[/EN#55821/people A girl] jumps over [/EN#55823/other the grass tufts] on [/EN#55827/scene a sandy area] near [/EN#55829/scene the sea] .
+[/EN#55821/people A girl] running through [/EN#55828/other uneven sand] with [/EN#55827/scene some withered grass] .
+[/EN#55821/people A girl] wearing [/EN#55822/clothing a jacket] and [/EN#55825/clothing scarf] is playing on [/EN#55827/scene the beach] .
+[/EN#55821/people A little girl] is jumping down [/EN#55827/scene a sandy hill] .

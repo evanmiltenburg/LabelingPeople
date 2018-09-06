@@ -1,0 +1,5 @@
+[/EN#47460/people An American footballer] in [/EN#47462/clothing a red outfit] is attacking [/EN#47461/people the player] in [/EN#47464/clothing white] [/EN#0/notvisual who] is running with [/EN#47463/other the ball] , whilst [/EN#47467/people other players] are nearby .
+[/EN#47461/people A football player] in [/EN#47466/clothing a purple uniform] holds [/EN#47463/other the ball] while [/EN#47460/people a player] in [/EN#47462/clothing red] tries to tackle [/EN#0/notvisual him] .
+[/EN#47461/people A football player] in [/EN#47464/clothing white] is being tackled by [/EN#47460/people a Oklahoma University player] .
+[/EN#47460/people A Sooners football player] is tackling [/EN#47461/people an opposing player] .
+[/EN#47461/people The receiver] is tackled after making [/EN#47465/other the catch] .

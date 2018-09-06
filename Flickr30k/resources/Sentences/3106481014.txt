@@ -1,0 +1,5 @@
+[/EN#93995/people A young female food preparer] under [/EN#93996/clothing a green , yellow , and white umbrella] prepares [/EN#94006/other a fancy meal] , with [/EN#93997/other a flambe dish] in front of [/EN#0/notvisual her] and [/EN#93998/people a crowd] behind [/EN#0/notvisual her] .
+[/EN#93995/people A female worker] wearing [/EN#93999/clothing a white uniform] is preparing [/EN#93997/other a flaming dish] at [/EN#94000/other a banquet table] under [/EN#94005/scene a green , yellow and white tent] .
+[/EN#93995/people A lady] wearing [/EN#94001/clothing gloves] , and [/EN#94002/bodyparts a ponytail] cooks [/EN#93997/other something] while [/EN#93998/people people] stand and watch .
+[/EN#93995/people A woman] in [/EN#93999/clothing a white shirt] wears [/EN#94001/clothing gloves] as [/EN#0/notvisual she] prepares [/EN#93997/other food] under [/EN#93996/other a canopy] .
+[/EN#93995/people A girl] is serving [/EN#93997/other food] and [/EN#94004/people a man] is staring at [/EN#0/notvisual her] .

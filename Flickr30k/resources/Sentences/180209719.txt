@@ -1,0 +1,5 @@
+[/EN#20924/scene A sushi restaurant] with [/EN#20915/people a man] cooking while in [/EN#0/notvisual the background] is [/EN#20916/people a man] and [/EN#20917/people young boy] sitting at [/EN#20918/other a table] .
+[/EN#20915/people The man] in [/EN#20919/clothing a Japanese cooking suit] is preparing [/EN#20920/other a meal] for [/EN#20921/people two people] .
+[/EN#20915/people A teppanyaki chef] prepares [/EN#20920/other dinner] for [/EN#20922/people restaurant guests] .
+[/EN#20915/people A man] cooking at [/EN#20924/scene a restaurant] in front of [/EN#20921/people/scene diners] .
+[/EN#20915/people A chef] cooking at [/EN#20923/other a hibachi grill] .

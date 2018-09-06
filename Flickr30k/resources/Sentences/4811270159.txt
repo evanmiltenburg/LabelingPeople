@@ -1,0 +1,5 @@
+[/EN#205544/people A woman] looks at [/EN#205553/other the peppers] [/EN#205552/people a street vendor] is selling at [/EN#205545/scene a farmer 's market] .
+[/EN#205544/people A gray-haired lady] is standing next to [/EN#205546/other a vegetable display] at [/EN#205545/scene the market] .
+[/EN#205544/people Woman] with [/EN#205554/bodyparts gray hair] behind [/EN#205551/scene a stall] selling [/EN#205549/other fresh produce] .
+[/EN#205544/people An older lady] standing in front of [/EN#205546/scene a fruit stand] .
+[/EN#205544/people Lady] looking at [/EN#205546/other vegetables] in [/EN#205547/scene outside market] .

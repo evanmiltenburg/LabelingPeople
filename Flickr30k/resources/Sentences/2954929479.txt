@@ -1,0 +1,5 @@
+[/EN#83816/people A young man] in [/EN#83817/clothing a blue sweatshirt] and [/EN#83821/clothing jeans] holds [/EN#83819/other a pumpkin] in [/EN#83822/bodyparts his arms] as [/EN#0/notvisual he] stands amidst [/EN#83818/other a field of pumpkins] .
+[/EN#83816/people A young boy] with [/EN#83820/clothing glasses] and [/EN#83817/clothing a blue sweatshirt] holds [/EN#83819/other a pumpkin] that [/EN#0/notvisual he] picked from [/EN#83818/scene a pumpkin patch] .
+[/EN#83816/people A young boy] holding [/EN#83819/other a pumpkin] in [/EN#83818/scene the middle of a pumpkin patch] .
+[/EN#83816/people A young boy] is at [/EN#83818/scene a pumpkin patch] holding up [/EN#83819/other a large pumpkin] .
+[/EN#83816/people A boy] with [/EN#83820/clothing glasses] holding [/EN#83819/other a pumpkin] in [/EN#83818/scene a patch]

@@ -1,0 +1,5 @@
+[/EN#33931/people A man] in [/EN#33934/clothing a white apron] holding [/EN#33932/other a blue plastic bin] in [/EN#33939/bodyparts one hand] , uses [/EN#33940/bodyparts his other hand] to tend to [/EN#33933/animals a large steaming cooker of shrimp] .
+[/EN#33931/people A man] wearing [/EN#33934/clothing an apron] stands before [/EN#33933/other some food] and holds [/EN#33932/other a blue container] .
+[/EN#33931/people A man] cooks [/EN#33933/animals a large amount of shellfish] in [/EN#33933/other a wok] [/EN#33938/scene outdoors] .
+[/EN#33931/people A cook] prepares [/EN#33933/scene festive food outdoors] .
+[/EN#33931/people a man] in [/EN#33935/clothing a sweatshirt] cooks [/EN#33933/other seafood] .

@@ -1,0 +1,5 @@
+[/EN#178308/people Two men] , [/EN#178317/bodyparts arms] crossed , with [/EN#178318/clothing brown and blue jackets] are having [/EN#178310/other a discussion] on [/EN#178314/scene a corner] with [/EN#178309/scene a graffiti covered building] behind [/EN#0/notvisual them] .
+[/EN#178308/people two older men] are discussing [/EN#178311/other something] on [/EN#178312/scene a street corner] with [/EN#178313/other graffiti] in [/EN#0/notvisual the background] .
+[/EN#178308/people Two men] on [/EN#178312/scene the street] in [/EN#178315/other the daytime standing] in front of [/EN#178309/scene a graffiti inscribed building] .
+[/EN#178308/people Two men] converse near [/EN#178309/other a wall] with [/EN#178313/other graffiti] on [/EN#0/notvisual it] .
+[/EN#178308/people Two men] talking next to [/EN#178309/scene a building] .

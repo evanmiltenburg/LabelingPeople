@@ -1,0 +1,5 @@
+[/EN#41019/people A woman] smiles while [/EN#0/notvisual she] opens [/EN#41020/other a red package] in front of [/EN#41024/other a table] with [/EN#41025/other yarn] and [/EN#41022/other glass of liquid] on [/EN#0/notvisual it] .
+[/EN#41019/people A woman] opens [/EN#41020/other a present] while taking [/EN#41026/scene a break] from [/EN#41022/other her beer] .
+[/EN#41019/people a woman] opens [/EN#41020/other a present] while drinking [/EN#41022/other beer]
+[/EN#41023/clothing Brown] headed [/EN#41019/people woman] opens [/EN#41020/other a red package]
+[/EN#41019/people A female] is opening up [/EN#41020/other a present] .

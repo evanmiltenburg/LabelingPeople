@@ -1,0 +1,5 @@
+[/EN#90000/people A boy] with [/EN#90003/clothing a yellow shirt] on [/EN#0/notvisual it] sitting , holding [/EN#90001/instruments an electric guitar] , and singing into [/EN#90002/other a microphone] .
+[/EN#90000/people A young man] in [/EN#90003/clothing a yellow shirt] with [/EN#90001/instruments a guitar] singing into [/EN#90002/other a microphone] while [/EN#0/notvisual another] plays [/EN#90005/instruments his guitar] .
+[/EN#90000/people A man] in [/EN#90003/clothing a yellow shirt] is singing into [/EN#90002/other a microphone] while holding [/EN#90001/instruments a guitar] .
+[/EN#90000/people A man] with [/EN#90003/clothing a yellow shirt] is singing into [/EN#90002/other a microphone] .
+[/EN#90000/people Two musicians] are making [/EN#90006/other music] .

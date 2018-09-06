@@ -1,0 +1,5 @@
+[/EN#115977/animals Two dogs] kick up [/EN#115978/scene dirt] while running down [/EN#115979/scene a hill] .
+[/EN#115977/animals Two dogs] run through [/EN#115978/scene dirt] and [/EN#115981/other weeds] .
+[/EN#115977/animals Two yellow dogs] running on [/EN#115979/other sand] .
+[/EN#115977/animals Two dogs] running in [/EN#115978/scene the dirt] .
+[/EN#115977/animals Two dogs] running in [/EN#115978/scene the dirt]

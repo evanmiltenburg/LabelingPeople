@@ -1,0 +1,5 @@
+[/EN#131455/people a man] in [/EN#131458/clothing a gray t-shirt] is sitting on [/EN#131456/other a rock] in front of [/EN#131457/scene a waterfall] .
+[/EN#131455/people A man] in [/EN#131458/clothing gray] sits and watches [/EN#131457/scene a waterfall] from [/EN#131456/other a rock] .
+[/EN#131455/people A person] sitting on [/EN#131456/other a rock] beside [/EN#131457/scene a waterfall] .
+[/EN#131455/people A woman] sits staring at [/EN#131457/scene a waterfall] .
+[/EN#131455/people A man] sits watching [/EN#131457/scene a waterfall] .

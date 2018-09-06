@@ -1,0 +1,5 @@
+[/EN#40592/people A small boy] wearing [/EN#40593/clothing glasses] stands on [/EN#40594/other a rope] and holds [/EN#40594/other two ropes] with [/EN#40595/bodyparts his hands] .
+[/EN#40592/people A child] in [/EN#40596/clothing a green shirt] balancing on [/EN#40594/other a red rope] while holding [/EN#40594/other two white ropes] .
+[/EN#40592/people The little boy] is smiling as [/EN#0/notvisual he] crosses [/EN#40594/other a rope] on [/EN#40597/other an assault course] .
+[/EN#40592/people A boy] walks across [/EN#40594/other a rope structure] on [/EN#40600/scene a playground] .
+[/EN#40600/scene A playground] with [/EN#40598/people two children] and [/EN#40599/people an adult] .

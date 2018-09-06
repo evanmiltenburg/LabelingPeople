@@ -1,0 +1,5 @@
+[/EN#11460/animals A dog] running at [/EN#11461/scene the beach] in front of [/EN#11464/scene the ocean] and [/EN#11463/scene a bright blue cloudy sky] .
+[/EN#11460/animals Slender dog] running in [/EN#11465/other the sand] on [/EN#11462/scene a sunny day] .
+[/EN#11460/animals A dog] is running along [/EN#11461/scene a beach] on [/EN#11462/scene a sunny day] .
+[/EN#11460/animals A dog] runs along [/EN#11466/clothing the short] at [/EN#11461/scene a beach] .
+[/EN#11460/animals A lean dog] runs along [/EN#11461/scene the beach] .

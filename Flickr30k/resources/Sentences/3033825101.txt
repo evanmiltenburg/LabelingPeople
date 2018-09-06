@@ -1,0 +1,5 @@
+[/EN#89060/people The guy] is in [/EN#89063/clothing a baseball uniform] , in [/EN#89064/scene a baseball field] , and is throwing [/EN#89062/other a baseball]
+[/EN#89060/people A man] playing [/EN#89062/other baseball] , throwing [/EN#89061/other the ball] .
+[/EN#89060/people A baseball pitcher] is bowling [/EN#89061/other the ball] .
+[/EN#89060/people A pitcher] throws [/EN#89061/other the ball] .
+[/EN#89060/people Minor league pitcher]

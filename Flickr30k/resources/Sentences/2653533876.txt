@@ -1,0 +1,5 @@
+[/EN#64111/scene A downtown city street] complete with [/EN#64107/vehicles buses] , [/EN#64112/vehicles traffic] and [/EN#64108/people people] on [/EN#64113/scene the street] .
+[/EN#64109/people A woman] crosses through [/EN#64114/scene the middle of the street] to get to [/EN#0/notvisual the other side] .
+[/EN#64109/people A lady] in [/EN#64110/clothing a sundress] is jaywalking across [/EN#64111/scene a city street] .
+[/EN#64109/people A woman] crossing [/EN#64111/scene the street] in [/EN#64113/scene downtown shopping area] .
+[/EN#64109/people A woman] wearing [/EN#64110/clothing a dress] is crossing [/EN#64111/scene the street] .

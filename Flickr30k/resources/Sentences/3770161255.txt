@@ -1,0 +1,5 @@
+[/EN#141849/people Three men] at [/EN#141854/other a bus stop] , [/EN#141861/people one man] is turned around to tie [/EN#141860/clothing his shoe] as [/EN#141847/people one man] stands in front of [/EN#141864/other the other] [/EN#0/notvisual who] is sitting on [/EN#141850/other a bench] talking to [/EN#0/notvisual him] .
+[/EN#141849/people Three men] are at [/EN#141854/other a buss stop] , [/EN#141865/other two] on [/EN#141852/other the ends of the bench] are dressed in [/EN#141856/clothing tan] , [/EN#141847/people the middle man] is wearing [/EN#141853/clothing a black suit] and is talking .
+[/EN#141857/people Two men] in [/EN#141855/clothing suits] , [/EN#141863/other one sitting and one] standing , are having [/EN#141851/other a discussion] as [/EN#0/notvisual they] wait for [/EN#141867/vehicles public transportation] .
+[/EN#141847/people A man] is sitting on [/EN#141850/other a bench] in front of [/EN#141858/scene a fence] with [/EN#141866/people two other men] standing beside [/EN#0/notvisual him] .
+[/EN#141847/people a guy] in [/EN#141853/clothing a suit] is talking [/EN#141847/people a man] sitting on [/EN#141852/other a bench]

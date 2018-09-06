@@ -1,0 +1,5 @@
+[/EN#37552/people A man] in [/EN#37553/clothing a cowboy hat] is walking through [/EN#37554/scene a market] and reaching into [/EN#37557/clothing his pocket] .
+[/EN#37552/people A man] in [/EN#37556/clothing a leather jacket] and [/EN#37553/clothing cowboy hat] walks through [/EN#37559/other a mall] .
+[/EN#37552/people A man] in [/EN#37553/clothing a cowboy hat] walks in [/EN#37554/scene a department store] .
+[/EN#37552/people A man] in [/EN#37553/clothing a hat] is making [/EN#37558/scene his way] through [/EN#37554/scene a store] .
+[/EN#37555/people Six people] inside [/EN#37554/scene a store] .

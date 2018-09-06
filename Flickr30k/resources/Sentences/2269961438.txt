@@ -1,0 +1,5 @@
+[/EN#38045/animals A dog] wearing [/EN#38046/clothing a coat] plays with [/EN#38047/other a toy] on [/EN#38048/scene fake grass] .
+[/EN#38045/animals s gray dog] wearing [/EN#38046/clothing a coat] jumping to get [/EN#38047/other a toy] .
+[/EN#38045/animals a dog] wearing [/EN#38046/clothing a jacket] , [/EN#38050/other pounces] [/EN#38047/other a toy] .
+[/EN#38045/animals A black dog] is pawing [/EN#38047/other a dog toy] .
+[/EN#38045/other Brown dog pounces] on [/EN#38047/other toy] .

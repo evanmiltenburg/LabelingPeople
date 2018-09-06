@@ -1,0 +1,5 @@
+[/EN#12705/people Someone] is holding up [/EN#12706/animals a green fish] for [/EN#12708/scene display outdoors] .
+[/EN#12705/people The person] in [/EN#12709/clothing blue jeans] holds [/EN#12706/animals a yellow fish] .
+[/EN#12705/people A man] holds [/EN#12706/animals a large fish] on [/EN#12707/vehicles/scene a boat] .
+[/EN#12705/people A man] holds [/EN#12706/animals a fish] in [/EN#12710/bodyparts both hands] .
+[/EN#12705/people A man] holding [/EN#12706/animals a fish] .

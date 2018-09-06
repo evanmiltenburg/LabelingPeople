@@ -1,0 +1,5 @@
+[/EN#259530/people A person] wearing [/EN#259538/clothing a helmet] and riding [/EN#259539/clothing suit] is riding [/EN#259530/other a four wheeler] on [/EN#259533/scene a dusty plot of land] .
+[/EN#259536/people A person] on [/EN#259530/other a dirty 4 wheeler] driving through [/EN#259534/scene the dirt] .
+[/EN#259530/people Man] on [/EN#259530/vehicles ATV] is making [/EN#259534/other a large cloud of dust] .
+[/EN#259530/people A quad rider] kicking up [/EN#259534/other dust] in [/EN#259537/scene the jungle] .
+[/EN#259530/people A man] riding [/EN#259530/vehicles an ATV] in [/EN#259534/scene dirt] .

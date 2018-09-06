@@ -1,0 +1,5 @@
+[/EN#246604/people One male] wearing [/EN#246619/clothing a blue jacket] is singing , while [/EN#246612/people another male] wearing [/EN#246620/clothing a white shirt] is playing [/EN#246613/other a tambourine and singing] , and [/EN#246612/people a third male] also wearing [/EN#246621/clothing a white shirt] is playing [/EN#246605/other a keyboard] .
+[/EN#246603/people three musicians] standing on [/EN#246608/scene a stage] , [/EN#246609/other one] is playing [/EN#246606/instruments an instrument] with [/EN#246605/other a keyboard] and [/EN#246618/other the other two] are singing into [/EN#246615/other microphones] .
+[/EN#246603/people Three men] playing [/EN#246607/other music] on [/EN#246608/scene a stage] , [/EN#246609/other one] is on [/EN#246606/instruments the piano] , [/EN#246604/other one] is singing , while [/EN#246617/other the other] is playing [/EN#246611/instruments a drum] with [/EN#246622/bodyparts his hands] .
+[/EN#246610/people Two musicians] and [/EN#246604/people a singer] are on [/EN#246608/scene a stage] performing [/EN#246607/other a song] .
+[/EN#246603/people A three-man band] performs .

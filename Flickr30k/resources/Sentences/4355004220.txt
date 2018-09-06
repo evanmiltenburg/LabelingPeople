@@ -1,0 +1,5 @@
+[/EN#164614/people A smiling man] wearing [/EN#164616/clothing a black shirt] and [/EN#164620/clothing red pants] stands in [/EN#164619/scene front] [/EN#164618/other a white wall] and [/EN#164615/other a Christmas tree] while holding [/EN#164617/other a bottle of wine]
+[/EN#164614/people Man] in [/EN#164616/clothing dark clothes] as [/EN#0/notvisual he] stands in front of [/EN#164615/other a lighted Christmas tree] in [/EN#164621/scene the shadows] .
+[/EN#164614/people A man] standing in front of [/EN#164615/other a Christmas tree] and holding [/EN#164617/other a bottle of champagne] .
+[/EN#164614/people A man] standing with [/EN#164615/other a Christmas tree] nearby .
+[/EN#164614/people A man] with [/EN#164617/other wine] near [/EN#164615/other a Christmas tree] .

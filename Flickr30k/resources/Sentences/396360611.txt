@@ -1,0 +1,5 @@
+[/EN#149847/people A person] with [/EN#149851/clothing a backpack] stands on [/EN#149849/scene a rocky bank] beside [/EN#149848/scene a body of water] .
+[/EN#149847/people Person] standing on [/EN#149849/scene rocky edge of water] with [/EN#149849/scene hilly land] in [/EN#0/notvisual background] .
+[/EN#149847/people A person] is standing on [/EN#149850/other jagged rocks] above [/EN#149848/scene the water] below .
+[/EN#149847/people A man] stands on [/EN#149849/scene a rocky cliff] overlooking [/EN#149848/scene a body of water] .
+[/EN#149847/people a man] stands alone on [/EN#149850/other the rocks] .

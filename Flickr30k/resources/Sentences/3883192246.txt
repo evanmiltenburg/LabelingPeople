@@ -1,0 +1,5 @@
+[/EN#146922/people A man] in [/EN#146923/clothing a blue uniform] works beside [/EN#146924/vehicles/scene a train] on [/EN#146925/scene train tracks] .
+[/EN#146922/people A man] working on [/EN#146924/vehicles/scene a train] on [/EN#146925/scene railroad tracks] .
+[/EN#146922/people A man] in [/EN#146923/clothing all blue] working on [/EN#146924/vehicles/scene a train] .
+[/EN#146922/people A man] is working in [/EN#146924/vehicles/scene the train] .
+[/EN#146922/people Man] in [/EN#146923/clothing blue suit] fixing [/EN#146924/vehicles/scene train] .

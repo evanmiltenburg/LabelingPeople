@@ -1,0 +1,5 @@
+[/EN#165529/people A woman] wearing [/EN#165532/clothing a red poncho] is talking on [/EN#165533/other her cellphone] while holding [/EN#165530/people her daughter] [/EN#0/notvisual who] is wearing [/EN#165531/clothing a pink dress] .
+[/EN#165529/people A woman] wearing [/EN#165532/clothing a red flowered shawl] is on [/EN#165533/other her cellphone] while carrying [/EN#165530/people a little girl] in [/EN#165531/clothing a pink dress] .
+[/EN#165529/people A dark-haired woman] on [/EN#165533/other her cellphone] holds [/EN#165530/people a little girl] wearing [/EN#165531/clothing a bright pink dress] .
+[/EN#165530/people A little girl] in [/EN#165531/clothing a pink dress] is being held by [/EN#165529/people a woman] [/EN#0/notvisual who] is on [/EN#165533/other her cellphone] .
+[/EN#165529/people A woman] carries [/EN#165530/people a toddler] in [/EN#165531/clothing a costume] while talking on [/EN#165533/other her cellphone] .

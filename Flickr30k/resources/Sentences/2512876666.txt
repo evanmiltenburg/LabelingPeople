@@ -1,0 +1,5 @@
+[/EN#54468/animals The dog] is standing on top of [/EN#54464/other the rocks] next to [/EN#54465/people a man] taking [/EN#54469/other a photograph] .
+[/EN#54465/people A man] and [/EN#54468/animals a dog] stand atop [/EN#54464/scene a black ashy mountain range] .
+[/EN#54465/people A man] with [/EN#54467/other a camera] and [/EN#54468/animals a dog] on [/EN#54464/other a mound of gravel] .
+[/EN#54465/people A man] and [/EN#54468/animals a dog] stand on [/EN#54464/scene a black rocky mountain] .
+[/EN#54465/people A man] taking [/EN#54468/animals a picture of a dog] on [/EN#54464/other a dune] .

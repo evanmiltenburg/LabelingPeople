@@ -1,0 +1,5 @@
+[/EN#138174/people A man] wearing [/EN#138175/clothing a long-sleeved blue shirt] and [/EN#138179/clothing jeans] is riding [/EN#138177/vehicles a unicycle] down [/EN#138176/scene a street] .
+[/EN#138174/people A man] wearing [/EN#138175/clothing a blue checkered shirt] rides [/EN#138177/vehicles a unicycle] in [/EN#138176/scene the street] .
+[/EN#138174/people A balding man] wearing [/EN#138178/clothing blue] is riding [/EN#138177/vehicles a unicycle] on [/EN#138176/scene a paved road] .
+[/EN#138174/people A man] in [/EN#138175/clothing a blue shirt] rides [/EN#138177/vehicles a unicycle] on [/EN#138176/scene the street] .
+[/EN#138174/people A man] riding [/EN#138177/vehicles a unicycle] down [/EN#138176/scene a paved road]

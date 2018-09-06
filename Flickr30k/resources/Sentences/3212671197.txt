@@ -1,0 +1,5 @@
+[/EN#101541/people A man] wearing [/EN#101543/clothing black pants] , [/EN#101544/clothing a black shirt] , and [/EN#101542/clothing an orange hat] is using [/EN#101545/other a nail gun] to attach [/EN#101550/other tar paper] to [/EN#101546/scene a roof] .
+[/EN#101541/people A middle-aged guy] wearing [/EN#101542/clothing a baseball cap] , [/EN#101544/clothing black shirt] and [/EN#101543/clothing black pants] is using [/EN#101545/other a power tool] on [/EN#101546/scene a rooftop] .
+[/EN#101541/people A man] wearing [/EN#101542/clothing an orange hat] and [/EN#101549/clothing dark clothes] is working on top of [/EN#101546/scene a roof] with [/EN#101545/other his tool] .
+[/EN#101541/people A man] in [/EN#101542/clothing a Texas Longhorns hat] , uses [/EN#101545/other a nail gun] on [/EN#101546/scene a roof] .
+[/EN#101541/people A man] works on [/EN#101546/scene a roof] with [/EN#101545/other a nail gun] .

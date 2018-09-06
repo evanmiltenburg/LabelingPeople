@@ -1,0 +1,5 @@
+[/EN#227018/people someone] is holding out [/EN#227019/other a punctured ball] in front of [/EN#227017/animals a brown dog] with [/EN#227021/clothing a red collar] .
+[/EN#227018/people A man] holding out [/EN#227019/other a deflated soccer ball] to [/EN#227017/animals a gray dog] .
+[/EN#227018/people The owner] tries to hand [/EN#227019/other a deflated ball] to [/EN#227017/animals his dog] .
+[/EN#227017/animals Large gray dog] being handed [/EN#227019/other a white soccer ball] .
+[/EN#227017/animals A brown dog] starring at [/EN#227019/other a soccer ball] .

@@ -1,0 +1,5 @@
+[/EN#17773/animals Lean dog] trots through [/EN#17775/scene a sunny park] in front of [/EN#17774/scene a chain link fence] .
+[/EN#17773/animals A brown dog] trotting across [/EN#17776/other a grassy] , [/EN#17775/scene fenced-in yard] .
+[/EN#17773/animals A brown dog] is walking on [/EN#17776/scene the grass] beside [/EN#17774/scene a fence] .
+[/EN#17773/animals Large dog] is playing [/EN#17775/scene outdoors] inside of [/EN#17774/scene a fence] .
+[/EN#17773/animals A large brown dog] in [/EN#17775/scene a fenced yard]

@@ -1,0 +1,5 @@
+[/EN#153396/people A young boy] in [/EN#153398/clothing a blue shirt] is lying on [/EN#153397/other a bed] and reading .
+[/EN#153396/people A young man] on [/EN#153397/other a bed] in [/EN#153399/scene a small boat cabin] .
+[/EN#153396/people A boy] with [/EN#153398/clothing a blue t-shirt] laying on [/EN#153397/other a bed] .
+[/EN#153396/people A boy] is doing [/EN#153401/other work] in [/EN#153397/other his bed] on [/EN#153399/vehicles/scene a boat] .
+[/EN#153396/people A child] is reading [/EN#153400/other a book] on [/EN#153397/other a bed] .

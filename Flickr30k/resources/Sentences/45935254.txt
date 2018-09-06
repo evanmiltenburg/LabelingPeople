@@ -1,0 +1,5 @@
+[/EN#181265/people A man] in [/EN#181267/clothing red bermuda pants] is climbing [/EN#181264/scene a mountain] with [/EN#181266/people his friend] .
+[/EN#181262/people Two men] climbing up [/EN#181264/scene a mountain] .
+[/EN#181262/people Two males] are climbing [/EN#181263/other a rock] .
+[/EN#181262/people Two men] climbing [/EN#181263/other a large rock] .
+[/EN#181262/people Two men] climb [/EN#181263/other a large rock] .

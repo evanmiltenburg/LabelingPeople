@@ -1,0 +1,5 @@
+[/EN#131672/people A man] does [/EN#0/notvisual a jump] on [/EN#131678/other a skateboard] , surrounded by [/EN#131677/other graffiti] .
+[/EN#131672/people A male skateboarder] is skating in [/EN#131674/scene a vandalized skate park] .
+[/EN#131672/people A man] does [/EN#0/notvisual a skating trick] off of [/EN#131676/other graffiti-filled stairs] .
+[/EN#131672/people A skateboarder] skates down [/EN#131676/other stairs] covered in [/EN#131677/other graffiti] .
+[/EN#131672/people A boy] skateboards off [/EN#131675/scene a ramp] covered in [/EN#131677/other graffiti] .

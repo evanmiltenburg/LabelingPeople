@@ -1,0 +1,5 @@
+[/EN#185651/people A young man] with [/EN#185654/clothing no shirt] on is wearing [/EN#185655/clothing black pants] and [/EN#185656/clothing sneakers] is jumping over [/EN#185652/other a blue skateboard] .
+[/EN#185651/people A shirtless man] with [/EN#185652/other a blue skateboard] is performing [/EN#0/notvisual a trick] .
+[/EN#185651/people A man] wearing [/EN#185655/clothing black pants] jumps off [/EN#185652/other his blue skateboard] .
+[/EN#185651/people Skateboarder] not wearing [/EN#185654/clothing a shirt] does [/EN#0/notvisual a cool trick] .
+[/EN#185651/people A man] is doing [/EN#0/notvisual tricks] on [/EN#185652/other a skateboard] .

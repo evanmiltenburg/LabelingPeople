@@ -1,0 +1,5 @@
+[/EN#99239/people A woman] on [/EN#99240/other a surfboard] in front of [/EN#99241/scene a wave of green water]
+[/EN#99239/people A man] surfs , [/EN#99243/other the sun] behind [/EN#0/notvisual him] , [/EN#99242/bodyparts his face] in [/EN#99245/scene shadow] .
+[/EN#99239/people A man] is about to fall off [/EN#99240/other his surfboard] in [/EN#99241/scene a wave] .
+[/EN#99239/people Someone] is surfing [/EN#99241/scene a giant wave] .
+[/EN#99239/people The boy] is surfing .

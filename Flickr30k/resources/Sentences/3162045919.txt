@@ -1,0 +1,5 @@
+[/EN#97408/people A lone surfer] on [/EN#97412/other a white surfboard] atop [/EN#97410/scene a huge wave] in [/EN#97411/scene the ocean] .
+[/EN#97408/people A man] in [/EN#97409/clothing a wetsuit] is surfing up and over [/EN#97410/scene a wave] .
+[/EN#0/notvisual This] is [/EN#97408/people a male surfer] riding against [/EN#97410/scene the waves] .
+[/EN#97408/people A surfer] in [/EN#97409/clothing a black wetsuit] rides [/EN#97410/scene a wave] .
+[/EN#97408/people A man] in [/EN#97409/clothing a wetsuit] surfs .

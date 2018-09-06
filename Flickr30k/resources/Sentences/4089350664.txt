@@ -1,0 +1,5 @@
+[/EN#154866/people A man] in [/EN#154874/clothing military camouflage] and [/EN#154871/clothing a dark green hard hat] is holding [/EN#154870/other a framed child 's crayon] drawing .
+[/EN#154867/people A woman] with [/EN#154868/clothing a Donald Duck bag] is talking to [/EN#154866/people a soldier] and looking at [/EN#154870/other a children 's drawing] .
+[/EN#154866/people A soldier] is handing [/EN#154870/other a picture] to [/EN#154867/people a woman] holding [/EN#154868/clothing a Donald Duck bag] .
+[/EN#154867/people Women] handing [/EN#154870/other a picture] in [/EN#154870/other a frame] to [/EN#154866/people a man] wearing [/EN#154869/clothing camouflage] .
+[/EN#154866/people A man] in [/EN#154869/clothing a army uniform] is holding [/EN#154870/other a picture] with [/EN#154875/other trees] in [/EN#0/notvisual it] .

@@ -1,0 +1,5 @@
+[/EN#122646/people A woman] wearing [/EN#122649/clothing a white shirt] and [/EN#122650/clothing red pants] is writing [/EN#122653/other something] down at [/EN#122654/scene a museum] .
+[/EN#122646/people The lady] is wearing [/EN#122649/clothing a white shirt] with [/EN#122650/clothing red pants] and writing on [/EN#122647/other a note pad] .
+[/EN#122646/people A woman] in [/EN#122650/clothing red shorts] is writing on [/EN#122647/other a tablet] .
+[/EN#122646/people A woman] writing while standing by [/EN#122651/people men] .
+[/EN#122646/people The lady] is taking [/EN#122652/other notes] .

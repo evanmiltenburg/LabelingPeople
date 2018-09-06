@@ -1,0 +1,5 @@
+[/EN#281820/people A zoo worker] is inside [/EN#281825/other an exhibit] , playing with [/EN#281821/animals a tiger] [/EN#0/notvisual that] is climbing up [/EN#281823/other a tree] .
+[/EN#281820/people A zookeeper] holding [/EN#281826/other a rope] while [/EN#281821/animals a white tiger] is trying to climb [/EN#281822/other a wooden pole] .
+[/EN#281820/people A zookeeper] working with [/EN#281821/animals a white tiger] [/EN#0/notvisual who] is climbing [/EN#281823/other a tree] .
+[/EN#281820/people A Zoo handler] engages in [/EN#281824/other an activity] with [/EN#281821/animals a white tiger] .
+[/EN#281821/animals the tiger] is being trained by [/EN#281820/people the man]

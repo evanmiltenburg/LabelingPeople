@@ -1,0 +1,5 @@
+[/EN#139211/people Two young children] ride on [/EN#139213/other the swings] at [/EN#139212/scene a playground] .
+[/EN#139210/people A young child] swinging on [/EN#139214/other a swing] at [/EN#139212/scene a playground]
+[/EN#139211/people Two kids] are swinging on [/EN#139212/scene a playground] .
+[/EN#139210/people A child] swings high at [/EN#139212/scene a park] .
+[/EN#139211/people Two children] swinging on [/EN#139213/other swings]

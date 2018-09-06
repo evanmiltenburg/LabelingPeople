@@ -1,0 +1,5 @@
+[/EN#109612/animals A black standard poodle] running through [/EN#109613/scene the snow] in [/EN#109614/scene a fenced-in yard] .
+[/EN#109612/animals A black poodle] is running in [/EN#109613/scene the snow] .
+[/EN#109612/animals A black poodle] frolics in [/EN#109613/scene the snow] .
+[/EN#109612/animals A black dog] runs through [/EN#109613/scene the snow] .
+[/EN#109612/animals A black poodle] plays in [/EN#109613/scene the snow] .

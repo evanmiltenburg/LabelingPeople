@@ -1,0 +1,5 @@
+[/EN#147065/people An older woman] is working behind [/EN#147066/other a counter] at [/EN#147070/scene a restaurant] .
+[/EN#147065/people A woman] is working behind [/EN#147066/other the counter] at [/EN#147065/people/scene a diner] .
+[/EN#147065/people A woman] working behind [/EN#147068/other a restaurant counter] .
+[/EN#147065/people A server] at [/EN#147065/people/scene a diner] cleaning [/EN#147068/other countertops] .
+[/EN#147065/people An old woman] is working as [/EN#147065/people a waitress] .

@@ -1,0 +1,5 @@
+[/EN#175836/people A young boy] , wearing [/EN#175840/clothing an orange shirt] , is standing outside , while [/EN#175839/people a man] in [/EN#175842/clothing a green shirt] pours [/EN#175841/other mulch] from [/EN#175837/clothing a bag] .
+[/EN#175836/people A young child] wearing [/EN#175840/clothing an orange shirt] is standing in [/EN#175838/scene a garden] while [/EN#175839/people an adult] is pouring [/EN#175841/other mulch] from [/EN#175837/clothing a bag] .
+[/EN#175836/people A young toddler] smiling at [/EN#0/notvisual the camera] while standing in [/EN#175838/scene the garden] .
+[/EN#175836/people A youngster] plays in [/EN#175838/scene the yard] while [/EN#175839/people his dad] does [/EN#175843/other lawn work] .
+[/EN#175836/people a child] in [/EN#175840/clothing a orange shirt] standing on [/EN#175844/other mulch] .

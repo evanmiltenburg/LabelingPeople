@@ -1,0 +1,5 @@
+[/EN#115120/people A football player] in [/EN#115125/clothing a white jersey] has [/EN#115126/bodyparts his hand] on [/EN#115120/people a football player] in [/EN#115127/clothing a green jersey] [/EN#0/notvisual who] is in [/EN#0/notvisual the air] .
+[/EN#115121/people A team of players] [/EN#115122/other the middle of a football game] .
+[/EN#115120/people A player] is being tackled during [/EN#115122/other football game] .
+[/EN#115120/people A college football player] making [/EN#115123/other a tackle] .
+[/EN#115121/people Two teams] playing [/EN#115122/other rugby] in [/EN#0/notvisual the ground] .

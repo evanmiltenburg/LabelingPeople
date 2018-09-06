@@ -1,0 +1,5 @@
+[/EN#219593/people A man] with [/EN#219595/clothing a cowboy hat] , [/EN#219601/clothing sunglasses] , [/EN#219594/clothing dark shirt] , and [/EN#219600/clothing jeans] stands near [/EN#219596/animals a horse] with [/EN#219597/other the horse 's reins] in [/EN#219602/bodyparts his hands] .
+[/EN#219593/people A man] wearing [/EN#219594/clothing a US Army jacket] and [/EN#219595/clothing a white cowboy hat] is standing next to [/EN#219596/animals a horse] .
+[/EN#219593/people A cowboy] wearing [/EN#219594/clothing a brown shirt] [/EN#0/notvisual that] says [/EN#219599/other US] Army holding [/EN#219597/other a horses lead] .
+[/EN#219593/people A cowboy] is holding [/EN#219597/animals the reins of his horse] as [/EN#0/notvisual he] poses for [/EN#219603/other a picture] .
+[/EN#219593/people A US Army officer] is standing with [/EN#219596/animals his horse] on [/EN#219604/scene a bright day] .

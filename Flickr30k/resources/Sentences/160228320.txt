@@ -1,0 +1,5 @@
+[/EN#17302/people A woman] wearing [/EN#17303/clothing a horizontal striped shirt] and [/EN#17304/people a woman] wearing [/EN#17305/clothing a white tank top] walk up [/EN#17306/other elongated steps] in [/EN#17307/scene an alley] lined with [/EN#17308/other graffiti] painted [/EN#17309/other walls] .
+[/EN#17310/people Several people] walk up and down [/EN#17306/other a set of stairs] in [/EN#17313/other an alleyway] with [/EN#17308/other graffiti] painted on [/EN#17309/other the walls]
+[/EN#17307/scene A long outdoor walkway] with [/EN#17308/other graffiti] on [/EN#17309/other the walls] and [/EN#17310/people people] walking .
+[/EN#17311/people Woman] walk up [/EN#17307/scene an alley] with [/EN#17312/other shuttered property] on [/EN#0/notvisual one side] .
+[/EN#17310/people Some people] walk between [/EN#17313/other some walls] with [/EN#17308/other graffiti] on [/EN#0/notvisual them] .

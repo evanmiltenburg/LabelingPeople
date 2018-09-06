@@ -1,0 +1,5 @@
+[/EN#60251/people A man] holding [/EN#60252/other a cigarette] is kissing [/EN#60253/people a woman] at [/EN#60257/scene a bar] while [/EN#60254/people people] are sitting behind [/EN#0/notvisual them] .
+[/EN#60251/people A man] with [/EN#60252/other a cigarette] and [/EN#60253/people a woman] in [/EN#60255/clothing a blue shirt] are kissing in [/EN#60257/scene a bar] .
+[/EN#60251/people A man] [/EN#0/notvisual who] is smoking [/EN#60252/other a cigarette] is kissing [/EN#60253/people a woman] in [/EN#60255/clothing a blue shirt] .
+[/EN#60251/people A man] in [/EN#60256/clothing a gray shirt] kissing [/EN#60253/people a woman] in [/EN#60255/clothing a blue shirt] at [/EN#60257/scene a bar] .
+[/EN#60251/people Man] with [/EN#60252/other cigarette] kisses [/EN#60253/people woman] in [/EN#60257/scene bar] .

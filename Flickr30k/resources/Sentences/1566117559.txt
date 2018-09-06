@@ -1,0 +1,5 @@
+[/EN#16528/animals A little white dog] with [/EN#16528/other long fur] stands on [/EN#16529/bodyparts his hind legs] .
+[/EN#16528/animals A white , fluffy dog] is standing on [/EN#16529/bodyparts its hind legs] .
+[/EN#16528/animals A small white dog] stands on [/EN#16529/bodyparts its hind legs] .
+[/EN#16528/animals The white dog] is begging .
+[/EN#16528/animals A little white dog] begs .

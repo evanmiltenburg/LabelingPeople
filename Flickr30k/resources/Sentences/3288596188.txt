@@ -1,0 +1,5 @@
+[/EN#107196/people Two men] standing on [/EN#107197/scene a bank] , looking at [/EN#107200/vehicles/scene a small boat] [/EN#0/notvisual that] has pulled along side [/EN#107198/other a huge cruise ship] .
+[/EN#107196/people Two men] stand near [/EN#107197/scene the shore] , looking at [/EN#107198/other a cruise liner] .
+[/EN#107196/people A beautiful view of two men] observing [/EN#107198/other a ship] in [/EN#107201/other passing] .
+[/EN#107196/people A couple of people] are watching [/EN#107198/other a cruise ship] .
+[/EN#107196/people Two men] viewing [/EN#107198/other a passing cruise ship] .

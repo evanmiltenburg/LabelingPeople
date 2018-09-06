@@ -1,0 +1,5 @@
+[/EN#253882/people A standing man] is reading [/EN#253883/other a newspaper] on [/EN#253884/other a deck] in [/EN#253886/people a park type] setting .
+[/EN#253882/people Man] reading [/EN#253883/other book] on [/EN#253884/other the deck] with [/EN#253885/other lots of trees] around .
+[/EN#253882/people A man] reads [/EN#253883/other the paper] on [/EN#253884/other a deck] under [/EN#253885/other some trees] .
+[/EN#253882/people A man] is leaning on [/EN#253884/other a railing] reading .
+[/EN#253882/people The person] is reading [/EN#253883/other a book] .

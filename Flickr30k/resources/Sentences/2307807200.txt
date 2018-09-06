@@ -1,0 +1,5 @@
+[/EN#40549/people a person] standing on [/EN#40550/scene the sidewalk] , next to [/EN#40551/other a window] , wearing [/EN#40552/clothing warm clothes]
+[/EN#40549/people An elderly woman] is standing by [/EN#40551/scene the window of a gray stone building] .
+[/EN#40549/people A woman] all dressed in [/EN#40552/clothing blue] with [/EN#40555/clothing blue bags] stands outside [/EN#40551/other a window] .
+[/EN#40549/people A woman] in [/EN#40554/clothing a fur hat] and [/EN#40556/clothing fur coat] stands outside [/EN#40553/scene a building] .
+[/EN#40549/people The elderly lady] waits on [/EN#40550/scene the sidewalk] .

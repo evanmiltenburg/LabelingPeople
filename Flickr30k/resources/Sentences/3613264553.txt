@@ -1,0 +1,5 @@
+[/EN#131628/animals White dog] on [/EN#131629/scene mountainside] turns to face [/EN#131633/other something] offstage , [/EN#131631/scene sky] in [/EN#0/notvisual background] .
+[/EN#131628/animals A white dog] is on [/EN#131629/scene a large rocky surface] at [/EN#131629/scene a high elevation] .
+[/EN#131628/animals White dog] standing on [/EN#131629/other rock] in front of [/EN#131631/scene blue sky]
+[/EN#131628/animals A white dog] is walking on top of [/EN#131629/scene a mountain] .
+[/EN#131628/animals A white dog] is walking on [/EN#131629/other a rocky hillside] .

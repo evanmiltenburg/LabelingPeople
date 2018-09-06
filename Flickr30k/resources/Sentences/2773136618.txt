@@ -1,0 +1,5 @@
+[/EN#72016/people A young man] with [/EN#72017/clothing a red uniform] on practicing [/EN#72021/other his soccer kick] .
+[/EN#72016/people Person] in [/EN#72017/clothing red athletic shirt] is kicking [/EN#72018/other the soccer ball] .
+[/EN#72016/people A young man] in [/EN#72017/clothing a red uniform] kicking [/EN#72018/other a soccer ball] .
+[/EN#72016/people A young soccer player] kicking [/EN#72018/other a soccer ball] .
+[/EN#72016/people Two young men] participate in [/EN#72020/other a soccer game] .

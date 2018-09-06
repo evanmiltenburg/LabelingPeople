@@ -1,0 +1,5 @@
+[/EN#220964/people Woman] and [/EN#220963/people man] in [/EN#220967/clothing shorts] hold [/EN#220966/bodyparts hands] as [/EN#0/notvisual they] walk on [/EN#220965/scene a busy sidewalk] .
+[/EN#220963/people Man] and [/EN#220964/people women] dressed in [/EN#220967/clothing shorts] holding [/EN#220966/bodyparts hands] leaving [/EN#220968/vehicles/scene the subway] .
+[/EN#220962/people A young couple] holds [/EN#220966/bodyparts hands] as [/EN#0/notvisual they] walk along [/EN#220965/scene a city street] .
+[/EN#220962/people A couple] walking down [/EN#220965/scene a city street] holding [/EN#220966/bodyparts hands] .
+[/EN#220962/people A couple] walks down [/EN#220965/scene a busy sidewalk] holding [/EN#220966/bodyparts hands] .

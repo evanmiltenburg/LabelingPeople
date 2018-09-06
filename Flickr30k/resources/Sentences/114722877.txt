@@ -1,0 +1,5 @@
+[/EN#3827/people a man] wearing [/EN#3834/clothing a blue shirt] , standing on [/EN#3829/people the railroad] is taking [/EN#3828/scene picture of the bridge] .
+[/EN#3827/people A man] standing on [/EN#3829/scene a railroad track] taking [/EN#3828/scene a picture of the water] between [/EN#3830/scene two bridges] .
+[/EN#3827/people A man] standing on [/EN#3829/scene a railroad track] looking through [/EN#3833/other his binoculars] at [/EN#3828/scene a river] .
+[/EN#3827/people A woman] is taking [/EN#3830/scene a photo of a bridge] while standing on [/EN#3829/scene the train tracks] .
+[/EN#3827/people A person] standing on [/EN#3829/scene railroad tracks] in front of [/EN#3830/scene two bridges] .

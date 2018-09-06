@@ -1,0 +1,5 @@
+[/EN#147503/people A man] and [/EN#147504/people a woman] with [/EN#147507/other a blue banana] on [/EN#147511/bodyparts her head] using [/EN#147508/other tools] to work on [/EN#147505/vehicles part of a vehicle] .
+[/EN#147503/people A man] is using [/EN#147509/other a wrench] to fix [/EN#147506/vehicles the wheel of his car] while [/EN#147504/people a blond girl] helps [/EN#0/notvisual him] .
+[/EN#147503/people A man] and [/EN#147504/people a woman] are working on [/EN#147506/vehicles the wheel of a vehicle] .
+[/EN#147503/people Man] and [/EN#147504/people woman] repairing [/EN#147508/other automobile brakes] .
+[/EN#147503/people A man] and [/EN#147504/people a woman] repairing [/EN#147505/other something] .

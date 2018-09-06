@@ -1,0 +1,5 @@
+[/EN#10800/people An old man] with [/EN#10801/clothing a blue shirt] is looking askance with [/EN#10802/people people] behind [/EN#0/notvisual him] .
+[/EN#0/notvisual There] are [/EN#10800/people a couple of old men] sitting on [/EN#10803/scene a concrete bench outside] .
+[/EN#10800/people An old man] is sitting on [/EN#10803/other a stone bench] .
+[/EN#10800/people Two old men] sitting on [/EN#10803/scene the dock] .
+[/EN#10800/people An old man] sits .

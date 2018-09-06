@@ -1,0 +1,5 @@
+[/EN#140893/people A man] in [/EN#140896/clothing a red apron] is standing on [/EN#140894/vehicles/scene a boat] and holding [/EN#140898/other a big string of mussels] .
+[/EN#140893/people A worker] at [/EN#140899/scene a seafood farm] pulls up [/EN#140897/other a rope] seeded with [/EN#140895/bodyparts muscles] for [/EN#140900/other harvesting] .
+[/EN#140893/people A man] on [/EN#140894/vehicles/scene a boat] wearing [/EN#140896/clothing orange pants] holding [/EN#140897/other a rope] .
+[/EN#140893/people A man] is holding [/EN#140895/other a bunch of things] caught on [/EN#140897/other a rope] .
+[/EN#140893/people A fisherman] holding [/EN#140895/other a lot of mussels] .

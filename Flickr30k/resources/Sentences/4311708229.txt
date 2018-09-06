@@ -1,0 +1,5 @@
+[/EN#162718/people Many people] are walking on [/EN#162719/scene a brightly lit plaza] at [/EN#162721/scene night] .
+[/EN#162722/vehicles A trolley car] is passing through [/EN#162719/scene a city] .
+[/EN#162718/people People] walking through [/EN#162720/scene an Asian city] .
+[/EN#162722/other A trolley] heads through [/EN#162724/other chinatown] .
+[/EN#162723/other The lights] at [/EN#162721/scene night] in [/EN#162720/scene the city] .

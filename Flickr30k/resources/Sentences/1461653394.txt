@@ -1,0 +1,5 @@
+[/EN#13755/animals The black dog] and [/EN#13756/animals the white dog] seem to be getting ready to fight .
+[/EN#13756/animals A white dog] snarls at [/EN#13755/animals a black dog] in front of [/EN#13757/other a set of steps] .
+[/EN#13756/animals A large white dog] growling at [/EN#13755/animals a large black dog] .
+[/EN#13758/animals A white and black dog] wrestle together .
+[/EN#13756/animals A white dog] bites at [/EN#13755/animals a black dog] .

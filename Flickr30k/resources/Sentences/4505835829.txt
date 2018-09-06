@@ -1,0 +1,5 @@
+[/EN#173719/people A man] with [/EN#173727/clothing shopping bags] is standing on [/EN#173722/scene the sidewalk] looking at [/EN#173720/other a subway sign] , while [/EN#173728/vehicles a taxi] drives past [/EN#0/notvisual him] .
+[/EN#173719/people A man] in [/EN#173725/scene New York City] stares at [/EN#173720/other an ad] outside [/EN#173723/other 14th street station] [/EN#0/notvisual that] reads " [/EN#173724/other Kimora] is Back . "
+[/EN#173719/people A man] is looking at [/EN#173720/other an advertisement] located at [/EN#173721/scene the top of a subway entrance] .
+[/EN#173719/people A black man] wearing [/EN#173726/clothing a beanie] is reading [/EN#173720/other a billboard] at [/EN#173721/scene the subway entrance] .
+[/EN#173719/people A man] looking at [/EN#173720/other the sign] above [/EN#173721/scene a subway entrance] .

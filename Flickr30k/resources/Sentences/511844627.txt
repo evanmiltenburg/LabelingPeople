@@ -1,0 +1,5 @@
+[/EN#229303/people The skier] is descending [/EN#229304/scene the hill] whilst wearing [/EN#229306/clothing a silver helmet] and [/EN#229307/clothing red backpack] .
+[/EN#229303/people a skier] skiing down [/EN#229304/scene a snowy mountainside]
+[/EN#229303/people A person] skis down [/EN#229304/scene a steep snowy hill] .
+[/EN#229303/people A skier] speeds through [/EN#229305/scene the snow] .
+[/EN#229303/people A man] skis on [/EN#229304/scene a snowy mountain] .

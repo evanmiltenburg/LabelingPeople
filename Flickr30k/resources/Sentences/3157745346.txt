@@ -1,0 +1,5 @@
+[/EN#97232/people A bicyclist] attempting to pay for [/EN#97235/other a transportation ticket] at [/EN#97234/scene a kiosk] .
+[/EN#97232/people A man] wearing [/EN#97233/clothing a helmet] is standing in front of [/EN#97234/other a machine] .
+[/EN#97232/people Man] in [/EN#97233/clothing bike helmet] getting [/EN#97235/other fare ticket] out of [/EN#97234/other machine] .
+[/EN#97232/people A man] with [/EN#97233/clothing a helmet] is using [/EN#97234/other an ATM] .
+[/EN#97232/people Man] using [/EN#97234/other an ATM] with [/EN#97233/clothing a helmet] on .

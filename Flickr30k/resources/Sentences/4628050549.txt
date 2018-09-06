@@ -1,0 +1,5 @@
+[/EN#184241/people A man] dressed like [/EN#184243/other the Statue of Liberty] is wearing [/EN#184247/clothing a robe] , has [/EN#0/notvisual his] face painted [/EN#184242/other a bluish color] , and is holding [/EN#184248/other the same type of flame] in [/EN#184249/bodyparts his right hand] .
+[/EN#184241/people A person] dressed up as [/EN#184243/other a decorative replica of the Statue] of [/EN#184246/other Liberty]
+[/EN#184241/people a person] wearing [/EN#184245/clothing sunglasses] is dressed as [/EN#184243/other the statue of liberty]
+[/EN#184241/people Someone] dressed as [/EN#184243/other the Statue of Liberty] wears [/EN#184245/clothing sunglasses] .
+[/EN#184241/people A man] dressed up as [/EN#184243/other the statue of liberty] .

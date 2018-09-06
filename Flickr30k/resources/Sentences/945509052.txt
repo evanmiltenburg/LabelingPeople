@@ -1,0 +1,5 @@
+[/EN#283895/people A woman] in [/EN#283897/clothing a black bathing suit] is sitting under [/EN#283898/clothing a purple umbrella] on [/EN#283896/scene the beach] next to [/EN#283899/scene the ocean] .
+[/EN#283895/people A woman] in [/EN#283897/clothing a black swimsuit] sits under [/EN#283898/clothing a hot-pink umbrella] at [/EN#283896/scene the beach] .
+[/EN#283895/people A person] is sitting under [/EN#283898/clothing a purple umbrella] on [/EN#283896/scene the beach] .
+[/EN#283895/people A girl] sits on [/EN#283896/scene the beach] under [/EN#283900/other a bright pink sunshade] .
+[/EN#283895/people woman] sitting on [/EN#283896/scene the beach] under [/EN#283898/clothing a pink lawn umbrella] .

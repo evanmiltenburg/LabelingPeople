@@ -1,0 +1,5 @@
+[/EN#240769/people A boy] is pushing [/EN#240771/vehicles a bike] across [/EN#240772/other the sand] on [/EN#240770/scene a beach] with [/EN#240773/other the sun] bursting through [/EN#240776/other the clouds] behind [/EN#0/notvisual him] .
+[/EN#240769/people A man] pushes [/EN#240771/vehicles a bicycle] along [/EN#240770/scene the beach] as [/EN#240773/other the sun] sets behind [/EN#0/notvisual him] .
+[/EN#240774/people People] walking or riding [/EN#240771/vehicles a bike] around in [/EN#240772/other the sand] at [/EN#240775/other dusk] .
+[/EN#240769/people A young boy] walking [/EN#240771/vehicles his bicycle] in [/EN#240777/scene the early evening] .
+[/EN#240769/people A person] walking with [/EN#240771/vehicles his bike] and [/EN#240778/people two other people] .

@@ -1,0 +1,5 @@
+[/EN#71702/animals a large brown dog] trying to catch [/EN#71703/animals a small white puppy] from behind
+[/EN#71702/animals A large brown dog] sniffs [/EN#71703/other a small white dog 's behind] .
+[/EN#71702/animals The large brown dog] is sniffing [/EN#71703/animals a small white dog] .
+[/EN#71702/animals A big dog] is biting [/EN#71703/animals a smaller dog] on [/EN#71704/bodyparts the leg]
+[/EN#71702/animals A dog] bites [/EN#71705/animals the tail of another dog] .

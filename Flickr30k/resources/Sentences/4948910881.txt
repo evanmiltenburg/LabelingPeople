@@ -1,0 +1,5 @@
+[/EN#222152/people An overhead view of people] walking on [/EN#222149/scene the street] down below .
+[/EN#222149/scene An aerial view of a city sidewalk] with [/EN#222151/people lots of people] .
+[/EN#222153/people Woman] walking on [/EN#222149/scene a sidewalk] and pushing [/EN#222155/other a stroller] .
+[/EN#222149/scene A birds-eye view of a sidewalk] with [/EN#222151/people many people] .
+[/EN#222151/people peoples] in under [/EN#222154/scene the building]

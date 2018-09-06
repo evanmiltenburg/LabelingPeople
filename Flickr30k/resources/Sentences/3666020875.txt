@@ -1,0 +1,5 @@
+[/EN#135299/people a ballerina] in [/EN#135300/scene an empty worn room] standing on [/EN#135298/other 1 foot] with [/EN#135302/bodyparts/people her arm] and [/EN#135304/bodyparts other leg] in [/EN#0/notvisual the air]
+[/EN#135299/people The ballerina dancer] stands on [/EN#135303/bodyparts her toes] with [/EN#135301/bodyparts outstretched arms] .
+[/EN#135299/people A ballerina] is standing on [/EN#135297/other one] to with [/EN#135301/bodyparts her arms] reaching out .
+[/EN#135299/people Kid] playing on [/EN#135306/scene sidewalk] in [/EN#135305/scene puddle] .
+[/EN#135299/people A dancer] poses in [/EN#135300/scene an empty room] .

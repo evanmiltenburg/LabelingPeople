@@ -1,0 +1,5 @@
+[/EN#117176/people Two men] in [/EN#117185/clothing neon yellow jackets] ride [/EN#117181/animals two brown horses] down [/EN#117178/scene a street] next to [/EN#117177/other a bed of bright yellow flowers] .
+[/EN#117176/people Two officers] ride [/EN#117181/animals their horses] down [/EN#117182/scene a street] bordering [/EN#117177/scene a green and yellow park] .
+[/EN#117176/people Two officers] are riding [/EN#117181/animals horses] in [/EN#117179/scene the city] near [/EN#117183/other some trees] and [/EN#117177/other flowers] .
+[/EN#117176/people Policemen] riding [/EN#117181/animals horses] while patrolling [/EN#117184/scene the streets] .
+[/EN#117176/people Two men] are riding on [/EN#117181/animals horses] through [/EN#117178/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#104596/people A man] in [/EN#104599/clothing a black shirt] laying back with [/EN#104597/other a bag of cookies] in [/EN#104601/bodyparts his hands] .
+[/EN#104596/people A man] laying in [/EN#104598/other bed] with [/EN#104597/other a container of Mandita] in [/EN#104601/bodyparts his hands] .
+[/EN#104596/people A man] in [/EN#104599/clothing a blue t-shirt] is about to open [/EN#104597/other a box of cookies] .
+[/EN#104596/people A man] is laying on [/EN#104598/other a bed] opening [/EN#104597/other a package] .
+[/EN#104596/people A man] about to open [/EN#104597/other Mandita] .

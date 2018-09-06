@@ -1,0 +1,5 @@
+[/EN#74360/people The little boy] wearing [/EN#74361/clothing the blue shirt] is eating with [/EN#74362/other chopsticks] .
+[/EN#74360/people A little boy] is eating [/EN#74363/other a piece of sushi] with [/EN#74362/other his chopsticks] .
+[/EN#74360/people A young boy] eats [/EN#74363/other food] with [/EN#74362/other chopsticks] .
+[/EN#74360/people An Asian boy] eats with [/EN#74362/other chopsticks] .
+[/EN#74360/people A boy] eats with [/EN#74362/other chopsticks] .

@@ -1,0 +1,5 @@
+[/EN#255656/people A young girl] is wearing [/EN#255657/clothing a blue patterned swimsuit] , [/EN#255658/clothing a black and yellow swim cap] and has [/EN#255659/clothing blue swim goggles] on [/EN#255660/bodyparts her head] .
+[/EN#255656/people A young female] wearing [/EN#255657/clothing a swimsuit] , [/EN#255659/clothing goggles] , and swimming [/EN#255658/clothing cap] looking in front of [/EN#0/notvisual her] with [/EN#255661/bodyparts an open mouth] .
+[/EN#255656/people a girl] wearing [/EN#255658/clothing a swim cap] and [/EN#255659/clothing goggles] on [/EN#255660/bodyparts her head] at [/EN#255662/other a swim meet]
+[/EN#255656/people A girl] in [/EN#255657/clothing a bathing suit] , [/EN#255658/clothing swim cap] and [/EN#255659/clothing goggles] .
+[/EN#255656/people A young girl] sitting in [/EN#255659/other swimming gear]

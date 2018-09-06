@@ -1,0 +1,5 @@
+[/EN#67097/people A group of people] , many in [/EN#67104/clothing white coats] , [/EN#67103/other work] in [/EN#67098/scene a laboratory] .
+[/EN#67099/people Two men] and [/EN#67101/people two women] working in [/EN#67098/other a laboratory of some sort] .
+[/EN#67097/people Three researchers] working in [/EN#67098/animals/scene a lab] .
+[/EN#67097/people Scientists] hard as [/EN#67102/other work] in [/EN#67098/animals/scene a lab] .
+[/EN#67097/people the scientists] are [/EN#67100/other experiments]

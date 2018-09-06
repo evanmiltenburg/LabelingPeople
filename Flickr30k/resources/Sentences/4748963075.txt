@@ -1,0 +1,5 @@
+[/EN#198314/people A woman] in [/EN#198318/clothing black pants] and [/EN#198319/clothing sneakers] , wearing [/EN#198317/other a large shopping tote] , is walking [/EN#198316/animals two , big , shaggy dogs]
+[/EN#198314/people a lady] walking [/EN#198316/animals two dogs] in front of [/EN#198315/other a wall] with [/EN#198320/scene a beach] drawn on [/EN#0/notvisual it]
+[/EN#198314/people A woman] walks [/EN#198316/animals two shaggy dogs] in front of [/EN#198315/other a colorful mural] .
+[/EN#198314/people A woman] is walking [/EN#198316/animals two dogs] past [/EN#198315/other a mural] .
+[/EN#198314/people A woman] is walking [/EN#198316/animals two large dogs] .

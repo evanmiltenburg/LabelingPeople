@@ -1,0 +1,5 @@
+[/EN#117640/people A person] in [/EN#117642/clothing a red and black outfit] climbing [/EN#117641/scene the side of an icy mountain] .
+[/EN#117640/people A man] in [/EN#117643/clothing a red jacket] mountain climbing [/EN#117641/scene an icy rock mountain] .
+[/EN#117640/people A man] climbing [/EN#117645/other the icicles] on [/EN#117646/bodyparts a rock face] .
+[/EN#117640/people A man] climbs up [/EN#117644/other a sheer wall of ice] .
+[/EN#117640/people A man] climbs [/EN#117644/other icy rocks] .

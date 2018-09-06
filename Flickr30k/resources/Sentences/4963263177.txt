@@ -1,0 +1,5 @@
+[/EN#223715/people A man] with [/EN#223717/other a bat] swings at [/EN#223716/other a ball] coming towards [/EN#0/notvisual him] .
+[/EN#223715/people A man] swinging [/EN#223717/other a cricket bat] and missing [/EN#223716/other the ball] .
+[/EN#223715/people A person] hitting [/EN#223716/other a ball] in [/EN#223719/other a game of Cricket] .
+[/EN#223715/people A man] is swinging [/EN#223717/other a cricket bat] .
+[/EN#223715/people A boy] whiffs [/EN#223716/other a ball] with [/EN#223717/other a bat] .

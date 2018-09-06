@@ -1,0 +1,5 @@
+[/EN#167466/people A man] in [/EN#167471/clothing a red headband] [/EN#167469/clothing an shirt] is standing in front of [/EN#167467/other a display case] .
+[/EN#167466/people A person] in [/EN#167469/clothing a red shirt] standing close to [/EN#167470/other a fluorescent light] .
+[/EN#167466/people A man] in [/EN#167469/clothing red] looks into [/EN#167473/people the stall of a seller] at [/EN#167474/scene a market] .
+[/EN#167466/people A man] in [/EN#167469/clothing a red shirt] is watching intently at [/EN#167475/vehicles a side cart] .
+[/EN#167466/people A man] is looking over [/EN#167472/other the choices] on [/EN#167468/other a buffet] .

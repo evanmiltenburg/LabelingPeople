@@ -1,0 +1,5 @@
+[/EN#31396/people Two people] drift in [/EN#31395/vehicles/scene a small boat] on [/EN#31397/scene a foggy lake] with [/EN#31401/other trees] in [/EN#0/notvisual the background] .
+[/EN#31396/people Two men] in [/EN#31395/vehicles/scene a fishing boat] on [/EN#31397/scene a river] enjoy [/EN#31399/other a pleasant morning] .
+[/EN#31396/people Two people] are in [/EN#31398/other a canoe] on [/EN#31397/scene a river] in [/EN#31400/other misty conditions] .
+[/EN#31395/vehicles/scene A boat] with [/EN#31396/people two fishermen] sits peacefully on [/EN#31397/scene the lake] .
+[/EN#31396/people A silhouette of two men] in [/EN#31395/vehicles/scene a boat] on [/EN#31397/scene a misty lake]

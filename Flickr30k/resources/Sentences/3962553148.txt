@@ -1,0 +1,5 @@
+[/EN#149794/people A single male] wearing [/EN#149798/clothing a long-sleeve white shirt] riding [/EN#149797/vehicles a dirt bike] .
+[/EN#149794/people A person] is riding [/EN#149797/vehicles an orange dirt bike] is [/EN#149795/scene a desert] setting .
+[/EN#149794/people Motorcyclist] speeds along [/EN#149796/scene a smooth , dusty trail] .
+[/EN#149794/people A guy] going really fast in [/EN#149799/other a motocross] .
+[/EN#149794/people A motorcyclist] rides in [/EN#149795/scene the desert] .

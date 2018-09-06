@@ -1,0 +1,5 @@
+[/EN#187690/people Two men] walking down [/EN#187691/scene a street] with [/EN#187692/vehicles cars] parked on [/EN#187691/scene the street] beside [/EN#0/notvisual them] , [/EN#187689/people one man] is wearing [/EN#187694/clothing a blue shirt] and [/EN#187695/clothing white pants] and [/EN#187693/people the other man] is wearing [/EN#187696/clothing a gray sweatshirt] with [/EN#187697/clothing black pants] .
+[/EN#187689/people One slender man] and [/EN#187693/people one stout man] walk on [/EN#187691/scene a city sidewalk] .
+[/EN#187690/people Two men] walking down [/EN#187691/scene the sidewalk] where [/EN#187692/vehicles cars] are parked .
+[/EN#187690/people Two men] walk down [/EN#187691/scene a street] filled with [/EN#187692/vehicles cars]
+[/EN#187690/people Two men] are walking on [/EN#187691/scene the street]

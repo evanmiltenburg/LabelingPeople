@@ -1,0 +1,5 @@
+[/EN#154679/animals Three dogs] pulling [/EN#154678/people a man] in [/EN#154688/clothing a brown jumpsuit] and [/EN#154681/people a baby] in [/EN#154689/clothing a blue snowsuit] , on [/EN#154682/other a sled] in [/EN#154684/scene a snowy forest] .
+[/EN#154678/people The man] is giving [/EN#154681/people the child] [/EN#154683/other a ride] on [/EN#154682/other his dog sled] .
+[/EN#154678/people Man] and [/EN#154679/animals his sled dogs] traveling down [/EN#154685/scene a snowy road] .
+[/EN#154680/animals Man dog] sledding with [/EN#154681/people his child] in [/EN#154686/scene the icy snow] .
+[/EN#154678/people Man] and [/EN#154681/people child] being pulled by [/EN#154687/animals three dogs] .

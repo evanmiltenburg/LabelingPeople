@@ -1,0 +1,5 @@
+[/EN#143178/people A man] in [/EN#143182/clothing black pants] is wearing [/EN#143180/clothing a yellow hard hat] as [/EN#0/notvisual he] rides [/EN#143179/other a zipline] .
+[/EN#143178/people A man] is hooked to [/EN#143179/other a zipline] and stepped off [/EN#143181/other the platform]
+[/EN#143178/people A person] hanging from [/EN#143179/other a zip line] with [/EN#143180/clothing a yellow helmet] .
+[/EN#143178/people A woman] wearing [/EN#143180/clothing a yellow helmet] is using [/EN#143179/other a zipline] .
+[/EN#143178/people Craftsman] hanging from [/EN#143179/other a rope] .

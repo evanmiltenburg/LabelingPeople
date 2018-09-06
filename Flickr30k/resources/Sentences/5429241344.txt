@@ -1,0 +1,5 @@
+[/EN#236373/people A woman] in [/EN#236377/clothing a plaid shirt] is looking at [/EN#236374/other a microscope] at [/EN#236376/other her desk] .
+[/EN#236373/people A woman] is looking at [/EN#236375/other something] under [/EN#236374/other a microscope] in [/EN#236378/animals/scene a lab] .
+[/EN#236373/people A woman] analyzes [/EN#236375/other an object] using [/EN#236374/other a microscope] .
+[/EN#236373/people A woman] examining [/EN#236375/other samples] under [/EN#236374/other a microscope] .
+[/EN#236373/people A scientist] is looking into [/EN#236374/other his microscope] .

@@ -1,0 +1,5 @@
+[/EN#281254/people A skateboarder] in [/EN#281261/clothing a red shirt] and [/EN#281262/clothing baseball cap] is headed down [/EN#281255/scene a paved hill] .
+[/EN#281254/people A young man] on [/EN#281256/other a skateboard] performing [/EN#0/notvisual a trick] atop [/EN#281255/scene a paved hill] .
+[/EN#281254/people A rollerblade athlete] takes [/EN#0/notvisual a big jump] while performing [/EN#0/notvisual a trick] .
+[/EN#281254/people A rollerblader] is in [/EN#281259/scene midair] about to land on [/EN#281255/scene a hill]
+[/EN#281254/people A man] on [/EN#281256/other a skateboard] jumps over [/EN#281260/other some obstacles] .

@@ -1,0 +1,5 @@
+[/EN#278357/animals Two nearly identical dogs] try to paw [/EN#278358/other a ball] out of [/EN#278359/scene muddy water] .
+[/EN#278357/animals Two black and white dogs] look at [/EN#278358/other a yellow ball] in [/EN#278360/other the wet sand] .
+[/EN#278357/animals The two dogs] are white and black and are digging in [/EN#278360/other the mud] .
+[/EN#278357/animals Two black and white dogs] after [/EN#278358/other something] in [/EN#278360/other the mud] .
+[/EN#278357/animals Two dogs] fight over [/EN#278358/other a ball] [/EN#0/notvisual that] 's in [/EN#278359/scene a puddle] .

@@ -1,0 +1,5 @@
+[/EN#143077/people A man] in [/EN#143083/clothing a black shirt] painting [/EN#143079/other a duplicate copy of another painting] hanging in [/EN#143084/scene an art gallery] .
+[/EN#143077/people A man] is recreating [/EN#143079/other a classic painting] using [/EN#143078/other a paintbrush] and [/EN#143081/other color pallet] .
+[/EN#143077/people This man] is looking at [/EN#143079/other a painting] , with [/EN#143078/other a brush] in [/EN#143085/bodyparts his hand] .
+[/EN#143077/people A male] paused in [/EN#143082/other thought] while painting [/EN#143079/other a picture] .
+[/EN#143077/people A man] replicating [/EN#143079/other a painting] .

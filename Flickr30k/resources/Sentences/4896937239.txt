@@ -1,0 +1,5 @@
+[/EN#216142/people A person] wearing [/EN#216143/clothing all white] is sitting on [/EN#216144/other concrete] while [/EN#216145/animals a cat] sits behind [/EN#0/notvisual them] .
+[/EN#216142/people A man] in [/EN#216143/clothing a robe] sits on [/EN#216144/other a stoop] with [/EN#216146/other his coffee] while [/EN#216145/animals a cat] keeps [/EN#0/notvisual him] [/EN#216151/other company] .
+[/EN#0/notvisual This] striped [/EN#216145/animals tabby cat] sits alone looking for [/EN#216152/other some food] on [/EN#216148/scene the street] .
+[/EN#216142/people A man] drinking [/EN#216146/other coffee] does not notice [/EN#216145/animals a cat] behind [/EN#0/notvisual him] .
+[/EN#216142/people A man] in [/EN#216143/clothing all white] sits [/EN#216149/scene outside] with [/EN#216145/people a feline friend] .

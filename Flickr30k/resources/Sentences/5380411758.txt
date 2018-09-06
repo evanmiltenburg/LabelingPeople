@@ -1,0 +1,5 @@
+[/EN#234973/people A man] with [/EN#234978/clothing glasses] and [/EN#234977/other pick] in [/EN#234983/bodyparts hand] , wearing [/EN#234975/clothing a black vest] and [/EN#234982/clothing tie] , is standing in front of [/EN#234976/other a microphone] surrounded by [/EN#234980/other paintings] .
+[/EN#234973/people A man] suited in [/EN#234975/clothing vest] , tie , and [/EN#234978/clothing glasses] gives [/EN#234979/other a speech] in [/EN#234974/scene an art gallery] .
+[/EN#234973/people A man] speaks into [/EN#234976/other a microphone] at [/EN#234974/scene a art gallery] .
+[/EN#234973/people A man] holding [/EN#234977/other a pick] is speaking into [/EN#234976/other a mic] .
+[/EN#234973/people This man] is discussing [/EN#234981/other something] .

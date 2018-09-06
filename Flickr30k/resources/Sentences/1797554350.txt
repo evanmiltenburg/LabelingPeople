@@ -1,0 +1,5 @@
+[/EN#20698/people A woman] is holding [/EN#20700/clothing a pink and brown umbrella] for [/EN#20697/people a lady] running in [/EN#20703/other a race] wearing [/EN#20706/other number 13406] .
+[/EN#20697/people A runner] is being handed [/EN#20705/other a water bottle] from [/EN#20698/people a woman] in [/EN#20704/clothing a teal jacket] holding [/EN#20700/clothing an umbrella] .
+[/EN#20698/people A woman] assists [/EN#20697/people a marathon runner] by holding [/EN#20700/clothing an umbrella] over [/EN#0/notvisual her] and giving [/EN#0/notvisual her] [/EN#20702/scene water] .
+On [/EN#20701/scene a rainy day] , [/EN#20698/people a woman] holds [/EN#20700/clothing an umbrella] above [/EN#20697/people a runner] and gives [/EN#0/notvisual her] [/EN#20707/scene water] .
+[/EN#20697/people A jogger] is being sheltered with [/EN#20700/clothing an umbrella] .

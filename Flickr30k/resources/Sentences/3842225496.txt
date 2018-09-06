@@ -1,0 +1,5 @@
+[/EN#145219/scene A round] , [/EN#145213/people white-bearded man] with [/EN#145221/other glasses surveys] [/EN#145217/other a paper] from [/EN#145215/other a meeting table] [/EN#0/notvisual which] bears [/EN#145216/other other papers] and [/EN#145218/clothing glasses] and [/EN#145222/scene pitchers of water] .
+[/EN#145213/people A man] wearing [/EN#145214/clothing black clothing] is standing at [/EN#145215/other an empty table] [/EN#0/notvisual that] has [/EN#145218/clothing water glasses] and [/EN#145216/other papers] strewn about .
+[/EN#145213/people A man] with [/EN#145223/bodyparts white hair] and [/EN#145224/bodyparts a white beard] wearing [/EN#145214/clothing a black suit] looks at [/EN#145217/other a paper] in [/EN#145220/scene an office building] .
+[/EN#145213/people A white businessman] reading [/EN#145217/other a paper] at [/EN#145215/other a meeting table] .
+[/EN#145213/people A man] in [/EN#145214/clothing a suit] is holding [/EN#145217/other a paper] .

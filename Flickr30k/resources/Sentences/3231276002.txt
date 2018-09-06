@@ -1,0 +1,5 @@
+[/EN#102871/people A man] writing [/EN#102877/other 'who] are [/EN#0/notvisual you] ' on [/EN#102872/other his notepad] while drinking [/EN#102874/other coffee] and eating [/EN#102875/other muffins] .
+[/EN#102871/people Man] with [/EN#102875/other cupcakes] and [/EN#102874/other coffee] contemplating [/EN#102872/other the statement] " [/EN#0/notvisual who] are [/EN#0/notvisual you] ? "
+[/EN#102871/people A man] in [/EN#102878/clothing glasses] writes [/EN#102872/other the message] " [/EN#0/notvisual Who] are [/EN#0/notvisual you] ? " on [/EN#102872/other a notepad] .
+[/EN#102871/people Man] at [/EN#102876/other a table] writing [/EN#102872/other a note] [/EN#0/notvisual that] reads " [/EN#0/notvisual Who] are [/EN#0/notvisual you] ? "
+[/EN#102871/people A man] wrote " [/EN#0/notvisual who] are [/EN#0/notvisual you] ? " .

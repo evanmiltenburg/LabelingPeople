@@ -1,0 +1,5 @@
+[/EN#127283/people A woman] in [/EN#127290/clothing a red shirt] is examining [/EN#127287/vehicles one of many bicycles] while [/EN#127282/people a man] in [/EN#127291/clothing a blue shirt] is adjusting [/EN#127285/other a wheel] .
+[/EN#127283/people A woman] in [/EN#127284/scene a bicycle store] where [/EN#127289/people two men] are working on [/EN#127287/vehicles a bike] .
+[/EN#127282/people A man] is fixing [/EN#127285/vehicles the wheel of a bicycle] inside [/EN#127284/scene a cycling store] .
+[/EN#127286/people People] shopping in [/EN#127284/scene a bike shop] .
+[/EN#127282/people A man] works in [/EN#127284/scene a bike shop] .

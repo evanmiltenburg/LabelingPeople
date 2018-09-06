@@ -1,0 +1,5 @@
+[/EN#85044/people A little girl] in [/EN#85054/clothing a pink coat] stands on [/EN#85046/vehicles a pink scooter] on [/EN#85045/scene an outdoor walking path] while [/EN#85043/people a younger boy] sits on [/EN#85048/vehicles a blue tricycle] beside [/EN#0/notvisual her] .
+[/EN#85043/people A boy] riding [/EN#85048/people a Thomas] [/EN#85048/vehicles the Tank Engine scooter] and [/EN#85044/people a girl] riding [/EN#85046/vehicles a pink scooter] are on [/EN#85045/scene the sidewalk] .
+[/EN#85044/people A little girl] and [/EN#85043/people boy] out at [/EN#85045/scene the park] riding [/EN#85047/vehicles their scooters] .
+[/EN#85044/people Little girl] and [/EN#85043/people little boy] riding [/EN#85047/vehicles scooters] down [/EN#85045/other pathway] .
+[/EN#85044/people A girl] rides [/EN#85046/vehicles a scooter] and [/EN#85043/people a boy] [/EN#85048/other his three wheel] .

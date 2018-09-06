@@ -1,0 +1,5 @@
+[/EN#151440/people A lady] playing [/EN#151442/instruments a cello] wearing [/EN#151447/clothing a gold skirt] with [/EN#151443/people a green tuba player] in front of [/EN#0/notvisual her] .
+[/EN#151439/people A woman] in [/EN#151448/clothing a green dress] holding [/EN#151446/other a tuba] in front of [/EN#151440/people another woman] holding [/EN#151442/instruments a cello] .
+[/EN#151439/people A woman] plays [/EN#151446/other the tuba] and [/EN#0/notvisual another] plays [/EN#151442/instruments the cello] on [/EN#151445/scene the street] .
+[/EN#151441/people Two women] walk through [/EN#151449/scene the streets] playing [/EN#151446/other a tuba] and [/EN#151442/instruments a cello] .
+[/EN#151441/people An Irish Band] plays down [/EN#151445/scene a road] somewhere .

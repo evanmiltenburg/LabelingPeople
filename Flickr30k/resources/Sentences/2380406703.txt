@@ -1,0 +1,5 @@
+[/EN#45256/people A man] dressed in [/EN#45265/clothing short khaki pants] , [/EN#45264/clothing a white shirt] , [/EN#45263/clothing a red tie] , and [/EN#45257/clothing a blue jacket] playing [/EN#45260/other a drum set] for [/EN#45262/people an audience of mostly children] .
+[/EN#45256/people A man] in [/EN#45257/clothing a blue jacket] plays [/EN#45261/instruments the drums] in [/EN#45266/scene the middle of a street] in front of [/EN#45258/people children] .
+[/EN#45256/people A street performer] playing [/EN#45261/instruments a percussion instrument] in front of [/EN#45258/people a crowd of people] .
+[/EN#45256/people A street performer] playing [/EN#45260/other a drum set] in front of [/EN#45259/people a crowd of people] .
+[/EN#45256/people A man] is standing while playing [/EN#45261/instruments the drums] for [/EN#45259/people an audience] .

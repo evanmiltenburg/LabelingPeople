@@ -1,0 +1,5 @@
+[/EN#171335/people A woman] walks down [/EN#171338/scene the road] in [/EN#171337/clothing all black] as [/EN#0/notvisual she] holds [/EN#171340/clothing a red umbrella] over [/EN#171345/bodyparts her head] in [/EN#171344/other the rain] .
+[/EN#171335/people A woman] in [/EN#171343/clothing black] with [/EN#171340/clothing a red umbrella] walks towards [/EN#171342/scene a cathedral] on [/EN#171338/scene a paved street] .
+[/EN#171335/people A woman] dressed in [/EN#171337/clothing all black] walks with [/EN#171340/clothing a red umbrella] on [/EN#171339/scene a rainy day] .
+[/EN#171336/people People] walking with [/EN#171341/clothing their umbrellas] out on [/EN#171339/scene a rainy day] .
+[/EN#171336/people People] walking with [/EN#171341/clothing umbrellas] .

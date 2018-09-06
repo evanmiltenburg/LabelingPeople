@@ -1,0 +1,5 @@
+[/EN#50609/people A young woman] with [/EN#50612/bodyparts blond-hair] wearing [/EN#50610/clothing a black sleeveless shirt] is holding [/EN#50611/instruments a guitar] [/EN#0/notvisual that] is covered in [/EN#50615/other stickers] .
+[/EN#50609/people A woman] wearing [/EN#50610/clothing a black dress] with [/EN#50614/other flowers] playing [/EN#50611/instruments a guitar] .
+[/EN#50609/people A young woman] smiles as [/EN#0/notvisual she] strum [/EN#50611/scene the guitar outside] .
+[/EN#50609/people A woman] is playing [/EN#50611/instruments a guitar] in front of [/EN#50613/other a tree] .
+[/EN#50609/people Girl] with [/EN#50612/bodyparts short hair] playing [/EN#50611/instruments guitar] .

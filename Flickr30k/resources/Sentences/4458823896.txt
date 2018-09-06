@@ -1,0 +1,5 @@
+[/EN#170227/people A woman] in [/EN#170230/clothing a pink sweater] sitting in [/EN#170229/scene a fast food restaurant] .
+[/EN#170228/people People] sitting at [/EN#170229/scene a restaurant] waiting for [/EN#170233/other their food] .
+[/EN#170228/people People] are eating in [/EN#170229/scene a small restaurant] .
+[/EN#170227/people Woman] with [/EN#170230/clothing pink shirt] sitting in [/EN#170232/other chair] .
+[/EN#170231/other My date] is not coming on [/EN#170234/other time] .

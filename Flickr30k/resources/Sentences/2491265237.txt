@@ -1,0 +1,5 @@
+[/EN#53116/people A woman] in [/EN#53122/clothing a pink dress] with [/EN#53124/clothing a black purse] is walking down [/EN#53121/scene a stone road] .
+[/EN#53116/people A woman] walking to work in front of [/EN#53125/people a family] on [/EN#53126/other vacation] .
+[/EN#53120/people People] getting ready to attend [/EN#53123/scene a big church event] .
+[/EN#53117/people A crowd of people] walks down [/EN#53121/scene an open street] .
+[/EN#53116/people A woman] in [/EN#53122/clothing a purple dress] walks in [/EN#53118/people a crowd] .

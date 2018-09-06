@@ -1,0 +1,5 @@
+[/EN#35800/people A young couple] consults [/EN#35801/other a book] while sitting on [/EN#35802/other a rock] in [/EN#35806/other the ruins of the Roman forum] .
+[/EN#35803/people A man] and [/EN#35804/people woman] are at [/EN#35807/scene the ruins] reading [/EN#35801/other a guidebook] .
+[/EN#35803/people A man] and [/EN#35804/people a woman] read [/EN#35801/other books] by [/EN#35805/other stone structures] .
+[/EN#35800/people A couple] is sitting among [/EN#35807/scene ruins] and is studying .
+[/EN#35803/people A man] and [/EN#35804/people women] sitting on [/EN#35802/other rocks] study [/EN#35801/other a book] .

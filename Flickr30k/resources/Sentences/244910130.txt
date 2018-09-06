@@ -1,0 +1,5 @@
+[/EN#50510/people A dark-haired bearded man] in [/EN#50512/clothing glasses] and [/EN#50514/clothing a Hawaiian shirt] is sitting on [/EN#50513/scene the grass] .
+[/EN#50510/people A man] with [/EN#50515/clothing a beard and glasses] sits in [/EN#50513/scene the grass] next to [/EN#50511/other a pine tree] .
+[/EN#50510/people A man] with [/EN#50512/clothing glasses] and [/EN#50516/bodyparts a beard] sitting in [/EN#50513/scene the grass] .
+[/EN#50510/people An unshaven man] sits in front of [/EN#50511/other an evergreen tree] .
+[/EN#50510/people A man] wearing [/EN#50512/clothing glasses] sits in [/EN#50513/scene the grass] .

@@ -1,0 +1,5 @@
+[/EN#46711/people A woman] in [/EN#46712/clothing a black sweatshirt] is walking on [/EN#46713/scene a dock] with [/EN#46710/animals a wet dog] .
+[/EN#46711/people The girl] with [/EN#46712/clothing the black T-shirt] is out with [/EN#46710/animals a large brown dog] .
+[/EN#46711/people A woman] in [/EN#46712/clothing a black hooded sweatshirt] walking with [/EN#46710/animals a large dog] .
+[/EN#46711/people A woman] walks [/EN#46710/animals a dog] down [/EN#46713/scene a wooden path] .
+[/EN#46710/animals A dog] and [/EN#46711/people its owner] takes [/EN#46714/other a run] .

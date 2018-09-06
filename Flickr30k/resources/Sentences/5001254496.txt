@@ -1,0 +1,5 @@
+[/EN#226556/people One woman] wearing [/EN#226559/clothing a black shirt] , [/EN#226560/clothing black pants] and [/EN#226561/clothing white dirty white shoes] surrounded by [/EN#226566/vehicles bicycles] with [/EN#226565/clothing a helmet] on [/EN#0/notvisual the ground] appears to be fixing [/EN#226557/vehicles the rear wheel of an upside down bicycle] .
+[/EN#226556/people A woman] repairing [/EN#226557/vehicles a bicycle] , wearing [/EN#226559/clothing a black shirt] and [/EN#226560/clothing jeans] and [/EN#226561/clothing white shoes] .
+[/EN#226556/people A woman] in [/EN#226567/clothing dark clothes] and [/EN#226561/clothing white shoes] works on [/EN#226558/vehicles a bicycle] .
+[/EN#226556/people A cyclist] works on [/EN#226558/vehicles her red upside down bike] .
+[/EN#226556/people A man] is fixing [/EN#226564/other a bike 's chains] .

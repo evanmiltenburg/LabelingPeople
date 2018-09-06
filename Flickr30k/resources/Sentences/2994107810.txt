@@ -1,0 +1,5 @@
+[/EN#86186/people The basketball player] in [/EN#86187/clothing the orange jersey] is being guarded by [/EN#86188/people the player] in [/EN#86189/clothing the blue jersey] .
+[/EN#86186/people The basketball player] looks around [/EN#86191/other the court] as [/EN#86188/people another player] tries to block [/EN#0/notvisual him] .
+[/EN#86186/people A basketball player] wearing [/EN#86187/clothing an orange uniform] looks [/EN#86193/other backwards] .
+[/EN#86190/people Two men] from [/EN#86194/people opposite teams] playing [/EN#86195/other basketball] .
+[/EN#86190/people two men] play [/EN#86195/other basketball] .

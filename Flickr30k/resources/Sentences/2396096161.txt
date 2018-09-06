@@ -1,0 +1,5 @@
+[/EN#46296/people Swimmer] in [/EN#46297/clothing a red bathing suit] , [/EN#46298/clothing white cap] , and [/EN#46299/clothing blue goggles] emerging from [/EN#46301/scene the water]
+[/EN#46296/people A person] swimming in [/EN#46301/scene a pool] wearing [/EN#46297/clothing a red bathing suit] and [/EN#46299/clothing blue goggles] .
+[/EN#46296/people Swimmer] in [/EN#46302/scene the water] takes [/EN#46300/other time] to contemplate [/EN#46303/other the race] .
+[/EN#46296/people A woman] in [/EN#46302/scene a pool] looking down .
+[/EN#46296/people A swimmer] doing [/EN#46304/other breaststroke] .

@@ -1,0 +1,5 @@
+[/EN#185481/people A man] dressed in [/EN#185483/clothing a red t-shirt] and [/EN#185484/clothing blue jeans] eats [/EN#185485/other food] [/EN#0/notvisual he] 's holding in [/EN#185492/bodyparts his hand] , as [/EN#0/notvisual he] walks along [/EN#185482/scene a busy sidewalk] , with [/EN#185488/other an antique-style sign] advertising [/EN#185491/clothing wedding rings] on [/EN#185490/other the right-hand side of the picture] .
+[/EN#185481/people A man] wearing [/EN#185484/clothing jeans] and [/EN#185483/clothing a red t-shirt] holding [/EN#185485/other food] on [/EN#185482/scene a busy street corner] .
+[/EN#185481/people A man] in [/EN#185483/clothing a red shirt] is leaning against [/EN#185489/scene a poll] eating .
+[/EN#185481/people A man] eats on [/EN#185482/scene the street] as [/EN#0/notvisual he] walks .
+[/EN#185486/people Several people] commuting in [/EN#185487/scene a city] .

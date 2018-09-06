@@ -1,0 +1,5 @@
+Near [/EN#23730/scene a city road] , [/EN#23724/people a man] in [/EN#23728/clothing a gray sweater] disposes of [/EN#23726/other a plastic bag of garbage] into [/EN#23727/other a large , green , garbage container] .
+[/EN#23724/people A boy] in [/EN#23728/clothing a gray hooded sweatshirt] is throwing away [/EN#23726/other a bag of garbage] into [/EN#23727/other a green dumpster] .
+[/EN#23724/people Two people] are throwing [/EN#23726/other a black garbage] back into [/EN#23727/other a green dumpster] .
+[/EN#23724/people A young man] lifting [/EN#23729/other the lid] to [/EN#23727/other a dumpster] .
+[/EN#23724/people Some people] taking [/EN#23726/other the trash] out .

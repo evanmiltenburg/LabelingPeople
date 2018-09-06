@@ -1,0 +1,5 @@
+[/EN#106460/people Young children] crouch on [/EN#0/notvisual the ground] while looking through [/EN#106462/other a stack of books] in [/EN#106461/scene a library] .
+[/EN#106460/people Three little boys] are looking at [/EN#106462/other books] on [/EN#106463/other the bottom shelf of a rack] .
+[/EN#106460/people Young boys] looking through [/EN#106462/other books] on [/EN#106464/other the bottom of a shelving unit] .
+[/EN#106460/people Three boys] are searching for [/EN#106462/other their books] in [/EN#106461/scene a library] .
+[/EN#106460/people Three young boys] are crouching to look at [/EN#106462/other books] .

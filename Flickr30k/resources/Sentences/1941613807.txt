@@ -1,0 +1,5 @@
+[/EN#23585/people two girls] wearing [/EN#23594/clothing gray sweat jackets] picking on [/EN#23588/scene the side of a busy road] , [/EN#23586/people one of the girls] is picking up [/EN#23587/other something] off [/EN#0/notvisual the ground] while [/EN#23589/other the other] looks on .
+[/EN#23589/people One girl] is standing on [/EN#23590/scene the street] , and [/EN#23586/other the other] is crouching looking at [/EN#23587/other something] on [/EN#0/notvisual the ground] .
+[/EN#23585/people Two people] on [/EN#23588/scene the side of the road] , [/EN#23586/other one] is kneeling in [/EN#23589/scene the dirt] .
+[/EN#23585/people Two people] picking up [/EN#23587/other trash] on [/EN#23588/scene the side of the road] .
+[/EN#23585/people two people] standing on [/EN#23588/scene the side of a street] .

@@ -1,0 +1,5 @@
+[/EN#98865/people A person] in [/EN#98866/clothing an orange jacket] getting out of [/EN#98875/scene the rear] of [/EN#98867/vehicles a Toyota SUV] , parked in front of [/EN#98872/scene a view of the ocean] and [/EN#98868/scene mountains] .
+[/EN#98867/vehicles A SUV] is parked near [/EN#98869/scene a body of water] with [/EN#98865/people a man] standing next to [/EN#0/notvisual the passenger side] of [/EN#98867/vehicles the vehicle] with [/EN#98870/other the door] open .
+[/EN#98865/people A person] , wearing [/EN#98866/clothing an orange coat] , is looking in [/EN#98877/other the backseat] of [/EN#98867/vehicles their SUV] on [/EN#98874/scene a sunny day] .
+[/EN#98865/people A man] opening [/EN#98870/vehicles the back driver side door of his parked vehicle] along [/EN#98871/scene a sandy road] .
+Looks like [/EN#98865/people a traveler] going [/EN#98873/scene places] in [/EN#98867/vehicles his toyota] .

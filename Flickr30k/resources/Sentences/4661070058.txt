@@ -1,0 +1,5 @@
+[/EN#187903/scene A busy street scene] on [/EN#187909/scene a rainy day] full of [/EN#187906/clothing umbrella] toting [/EN#187901/people walkers] .
+[/EN#187901/people Several people] using [/EN#187905/clothing umbrellas] while commuting in [/EN#187908/scene a city] .
+[/EN#187901/people A sea of people] holding [/EN#187907/clothing umbrellas] on [/EN#187902/scene a busy street] .
+[/EN#0/notvisual There] is [/EN#187901/people a huge crowd of people] [/EN#187901/people all] with [/EN#187905/clothing umbrellas] .
+[/EN#187905/clothing Umbrellas] come out as [/EN#187910/other the skies] open up .

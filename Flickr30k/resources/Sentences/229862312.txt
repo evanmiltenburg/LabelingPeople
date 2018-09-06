@@ -1,0 +1,5 @@
+[/EN#39811/animals A brown puppy] is laying on [/EN#39813/other its back] in [/EN#39812/scene the grass] .
+[/EN#39811/animals A golden dog] is laying on [/EN#39813/other its back] in [/EN#39812/scene the grass] .
+[/EN#39811/animals A dog] lays down in [/EN#39812/scene the long green grass] .
+[/EN#39811/animals A dog] rolling in [/EN#39812/scene the grass] .
+[/EN#39811/animals a dog] rolls in [/EN#39812/scene the grass] .

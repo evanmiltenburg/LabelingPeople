@@ -1,0 +1,5 @@
+[/EN#263009/people A man] in [/EN#263015/clothing a red shirt] on [/EN#263010/other a board] splashes into [/EN#263011/scene a body of water] while holding [/EN#263012/other a long stick] .
+[/EN#263009/people A surfer] attempts to stand on [/EN#263010/other his board] as [/EN#263011/scene water] splashes up from [/EN#0/notvisual the sides] .
+[/EN#263009/people man] [/EN#263013/scene half way] on [/EN#263010/other surfboard] surrounded by [/EN#263011/scene water] with [/EN#263011/scene water] splashing up .
+[/EN#263009/people A man] bends down low as [/EN#0/notvisual he] rides [/EN#263010/other his craft] through [/EN#263011/scene the blue waters] .
+[/EN#263009/people A bald man] is on [/EN#263010/other a surfboard] presumably ready to catch [/EN#263014/scene some waves] .

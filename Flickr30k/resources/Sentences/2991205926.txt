@@ -1,0 +1,5 @@
+[/EN#85913/people A girl] wearing [/EN#85921/clothing a black dress] trimmed in [/EN#85926/clothing red and white] is walking in [/EN#85923/scene an alley] with [/EN#85917/other a tool] over [/EN#85918/bodyparts her shoulder] and [/EN#85916/clothing a white plastic bag] in [/EN#85925/bodyparts her hand] .
+[/EN#85913/people A girl] dressed in [/EN#85914/clothing a Halloween costume] is carrying [/EN#85916/other bag of candy] and [/EN#85917/other a scythe] with [/EN#85922/other a jack-o-lantern] on [/EN#85927/scene someones porch] in [/EN#0/notvisual the background] .
+[/EN#85913/other A girl trick or treats] with [/EN#85914/clothing a black and red dress] with [/EN#85924/clothing black and white sleeves] holding [/EN#85917/other a scythe] .
+[/EN#85913/people A young girl] with [/EN#85917/other a scythe] over [/EN#85918/bodyparts her shoulder] is [/EN#0/notvisual trick] or treating as [/EN#85913/other the grim reaper] .
+[/EN#85913/people A girl] dressed as [/EN#85913/other the grim reaper] during [/EN#85920/other Halloween] carries [/EN#85916/clothing a plastic bag] .

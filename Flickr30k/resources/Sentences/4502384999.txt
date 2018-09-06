@@ -1,0 +1,5 @@
+[/EN#173502/people A man] in [/EN#173503/clothing a black beanie] and [/EN#173504/clothing green jacket] sits on [/EN#173505/other a rock] on [/EN#173511/scene a staircase] and speaks to [/EN#173506/people two other people] .
+[/EN#0/notvisual i] do n't see [/EN#173510/other a picture] [/EN#0/notvisual i] do n't see [/EN#173507/other a picture] [/EN#0/notvisual i] do n't see [/EN#173508/other a picture] [/EN#0/notvisual i] do n't see [/EN#173509/other a picture]
+[/EN#173502/people A man] in [/EN#173503/clothing a black knit hat] is pointing [/EN#173515/bodyparts a finger] towards [/EN#173513/scene the sky] .
+[/EN#173506/people Three men] are talking in front of [/EN#173505/other old stairs] on [/EN#173512/scene the street] .
+[/EN#173502/people Man] in [/EN#173504/clothing a green jacket] sitting on [/EN#173505/other steps] .

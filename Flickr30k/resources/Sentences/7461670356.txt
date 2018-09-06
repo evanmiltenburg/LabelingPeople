@@ -1,0 +1,5 @@
+[/EN#270048/people A lady] in [/EN#270051/clothing a red dress] is standing on [/EN#270052/scene the shore] watching [/EN#270049/vehicles/scene a boat] with [/EN#270049/other passengers travel] by .
+[/EN#270048/people A lady] in [/EN#270051/clothing a dress] is watching [/EN#270049/vehicles/scene a river boat] near [/EN#270052/scene the shore] with [/EN#270053/scene a city] in [/EN#0/notvisual the background] .
+[/EN#270048/people Child] standing on [/EN#270054/scene the dock] looking out onto [/EN#270050/scene the water] as [/EN#270049/vehicles/scene a boat] passes by
+[/EN#270048/people A girl] stands on [/EN#270052/scene a pier] as [/EN#270049/other a ferry] comes in .
+[/EN#270048/people A woman] watches [/EN#270050/scene the water] as [/EN#270049/vehicles/scene a boat] goes by .

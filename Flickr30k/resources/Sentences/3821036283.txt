@@ -1,0 +1,5 @@
+[/EN#144016/people woman] in [/EN#144021/clothing dark clothes] walking on [/EN#144017/scene the sidewalk] next to [/EN#144020/scene a gray stone building] .
+[/EN#144016/people A lady] with [/EN#144022/bodyparts blond-hair] is walking briskly down [/EN#144018/scene the street] .
+[/EN#144016/people a woman] in [/EN#144019/clothing black pants] walks down [/EN#144017/scene the sidewalk] .
+[/EN#144016/people woman] walking down [/EN#144018/scene a street] in [/EN#144019/clothing black pants]
+[/EN#0/notvisual This] is [/EN#144016/people a blond woman] walking .

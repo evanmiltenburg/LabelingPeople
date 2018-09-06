@@ -1,0 +1,5 @@
+[/EN#73239/animals A black and white dog] is drooling whilst walking on [/EN#73240/scene the grass] .
+[/EN#73239/animals Black and White Dog] runs across [/EN#73240/scene a lawn] while drooling .
+[/EN#73239/animals The black and white dog] is running on [/EN#73240/scene the grass] .
+[/EN#73239/animals The black and white dog] runs through [/EN#73240/scene the grass] .
+[/EN#73239/animals A black and white dog] is running through [/EN#73240/scene grass] .

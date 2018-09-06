@@ -1,0 +1,5 @@
+[/EN#26349/people An older man] in [/EN#26354/clothing jeans] and [/EN#26353/clothing a sweater] is lifting down [/EN#26352/other a box] from [/EN#26356/people the top of a pile] .
+[/EN#26349/people An older man] places [/EN#26350/other a wooden crate] on top of [/EN#26350/other a stack of wooden crates] .
+[/EN#26349/people Man] in [/EN#26353/clothing sweater] stacks [/EN#26350/other wooden crates] next to [/EN#26355/other pile of plastic crates] .
+[/EN#26349/people Man] stacking [/EN#26350/other wooden crates] on top of [/EN#0/notvisual each other] .
+[/EN#26349/people An elderly male] is reaching for [/EN#26350/other a crate] .

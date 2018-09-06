@@ -1,0 +1,5 @@
+[/EN#162841/people 3 middle-aged men] wearing [/EN#162845/clothing cowboy hats] ride [/EN#162844/animals brown horses] in [/EN#162846/scene a field] lined with [/EN#162843/scene a wire fence] .
+[/EN#162841/people Three men] ride [/EN#162844/animals horses] along [/EN#162843/scene a ranch fence] with sprawling [/EN#162842/scene fields] behind [/EN#0/notvisual them] .
+[/EN#162841/people Three cowboys] riding [/EN#162847/animals their horses] next to [/EN#162843/scene a fence] , in [/EN#162842/scene a dry grassland] .
+[/EN#162841/people Three men] wearing [/EN#162845/clothing cowboy hats] and riding [/EN#162844/animals horses] along side [/EN#162843/scene a fence] .
+[/EN#162841/people Three men] ride [/EN#162844/animals horses] by [/EN#162843/scene a fence] .

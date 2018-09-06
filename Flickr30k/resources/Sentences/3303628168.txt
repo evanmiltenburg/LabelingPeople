@@ -1,0 +1,5 @@
+[/EN#108092/people A person] in [/EN#108093/clothing a white shirt] , [/EN#108100/clothing black shorts] , [/EN#108105/clothing white knee socks] and [/EN#108103/clothing sneakers] has just kicked [/EN#108094/other a soccer ball] toward [/EN#108095/other the goal] while [/EN#108091/people the goalkeeper] , in [/EN#108102/clothing red] , is anticipating [/EN#108094/other the ball] .
+[/EN#108092/people A man] is kicking [/EN#108094/other the soccer ball] towards [/EN#108091/people the goalie] on [/EN#108099/scene a warm day] .
+[/EN#108091/people A goalie] braces [/EN#0/notvisual himself] for [/EN#108094/other the ball] [/EN#0/notvisual that] 's coming [/EN#108101/scene his way] .
+[/EN#108092/people A soccer player] in [/EN#108093/clothing white] kicks [/EN#108094/other the ball] towards [/EN#108095/other the goal] .
+[/EN#108096/people Two guys] playing [/EN#108104/other soccer] in [/EN#108097/scene the park] .

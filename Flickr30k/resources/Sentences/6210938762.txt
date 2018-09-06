@@ -1,0 +1,5 @@
+[/EN#250214/people Men] wearing [/EN#250221/clothing blue outfits] and wearing [/EN#250222/clothing straw hats] are riding on [/EN#250217/animals elephants] through [/EN#250216/scene a river] .
+[/EN#0/notvisual There] is [/EN#250220/people a man] wearing [/EN#250219/clothing a hat] and [/EN#250218/clothing a blue jacket] but [/EN#0/notvisual he] is also riding on [/EN#250215/animals a elephant] .
+[/EN#250214/people A number of men] ride [/EN#250217/animals elephants] through [/EN#250216/scene a muddy river] .
+[/EN#250214/people A few people] are riding [/EN#250215/animals elephants] through [/EN#250216/scene a river] .
+[/EN#250214/people A group of men] ride [/EN#250217/animals elephants] down [/EN#250216/scene a muddy river] .

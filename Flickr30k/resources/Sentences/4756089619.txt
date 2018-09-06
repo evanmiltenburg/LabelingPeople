@@ -1,0 +1,5 @@
+[/EN#199267/people An Asian man] in [/EN#199268/clothing a purple bandanna] and [/EN#199269/clothing dress shirt] stands outside [/EN#199270/scene a restaurant] nearby crates .
+[/EN#199267/people An Asian man] is standing outside of [/EN#199270/scene a restaurant] wearing [/EN#199269/clothing a purple shirt] and [/EN#199268/clothing purple bandanna] .
+[/EN#199267/people A person] with [/EN#199269/clothing a purple head covering and purple shirt] is standing outside [/EN#199270/scene a restaurant] .
+[/EN#199267/people A person] in [/EN#199268/clothing a bandanna] stands on [/EN#199272/scene the street] in front [/EN#199273/other his things] .
+[/EN#199267/people A street vendor] in [/EN#199271/other Asia] tries to bring in [/EN#199274/people more customers] .

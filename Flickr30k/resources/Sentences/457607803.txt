@@ -1,0 +1,5 @@
+[/EN#180020/people A lady] pouring [/EN#180024/other tea] into [/EN#180022/other tea cups] with [/EN#180026/other flower print] on [/EN#0/notvisual them] .
+[/EN#180020/people An Asian woman] pours [/EN#180023/scene hot water] into [/EN#180022/other blue and white cups] .
+[/EN#180020/people Woman] in [/EN#180025/other black polka] dot [/EN#180025/clothing shirt] pouring [/EN#180023/scene water] in [/EN#180021/other a cup]
+[/EN#180020/people A man] pouring [/EN#180024/other tea] into [/EN#180021/other a cup] .
+[/EN#180020/people A woman] pouring [/EN#180021/other a cup of tea] .

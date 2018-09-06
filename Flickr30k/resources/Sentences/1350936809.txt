@@ -1,0 +1,5 @@
+[/EN#9536/people A person] sitting on [/EN#9537/other a ledge] with [/EN#9538/other a letter] in [/EN#9539/bodyparts their hands] .
+[/EN#9536/people Man] sitting in [/EN#9541/scene the shadows] on [/EN#9537/scene the steps of a building] .
+[/EN#9536/people A man] wearing [/EN#9540/clothing sandals] is sitting on [/EN#9537/other the stoop] .
+[/EN#9536/people A man] sits on [/EN#9537/other steps] in [/EN#9541/scene the shadows] .
+[/EN#9536/people A man] is sitting on [/EN#9537/other his front step] .

@@ -1,0 +1,5 @@
+[/EN#189873/people A man] in [/EN#189877/clothing a red life vest] operates [/EN#189874/other a red jet ski] on [/EN#189876/scene a sunny day] .
+[/EN#189873/people A man] rides [/EN#189874/other a jet ski] across [/EN#189875/scene the ocean] .
+[/EN#189873/people A man] riding [/EN#189874/other a jet ski] in [/EN#189875/scene the water] .
+[/EN#189873/people A man] on [/EN#189874/other a jet ski] in [/EN#189875/scene the water] .
+[/EN#189873/people A man] riding [/EN#189873/people a wave rider] .

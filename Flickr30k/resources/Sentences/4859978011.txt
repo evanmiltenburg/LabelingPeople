@@ -1,0 +1,5 @@
+[/EN#212073/people A woman] in [/EN#212074/clothing a purple blouse] and [/EN#212076/clothing big black hat] strolls down [/EN#212075/scene the street] while listening to [/EN#212079/other music] on [/EN#212078/people her mp3 player] .
+[/EN#212073/people A person] in [/EN#212074/clothing a purple dress] , [/EN#212076/clothing black hat] , and [/EN#212077/clothing pink scarf] runs on [/EN#212075/scene a road] .
+[/EN#212073/people A lady] wearing [/EN#212074/clothing a purple dress] and [/EN#212076/clothing black hat] is walking down [/EN#212075/scene the street] .
+[/EN#212073/people Women] in [/EN#212074/clothing a purple dress] and [/EN#212076/clothing big black hat] running down [/EN#212075/scene the street] .
+[/EN#212073/people A woman] is walking in [/EN#212074/clothing a purple shirt] and [/EN#212077/clothing pink scarf] .

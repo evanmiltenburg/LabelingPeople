@@ -1,0 +1,5 @@
+[/EN#83538/people A man] is doing [/EN#0/notvisual tricks] with [/EN#83539/vehicles a bicycle] at [/EN#83545/scene a skate park] .
+[/EN#83538/people Man] on [/EN#83539/vehicles bicycle] is doing [/EN#0/notvisual tricks] in [/EN#83544/scene an old building] .
+[/EN#83538/people A young man] does [/EN#0/notvisual tricks] with [/EN#83539/vehicles his bike] on [/EN#83540/other a course] .
+[/EN#83538/people A BMX biker] performing [/EN#83541/other a wall-ride] on [/EN#83542/scene a ramp] .
+[/EN#83538/people a bmx rider] rides [/EN#83542/scene the ramp] .

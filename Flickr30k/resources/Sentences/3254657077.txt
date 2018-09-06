@@ -1,0 +1,5 @@
+[/EN#104649/people A man] , not wearing [/EN#104652/clothing a shirt] , is sitting on [/EN#104651/other a rock] and looking through [/EN#104650/other a makeshift telescope] .
+[/EN#104649/people A man] is sitting on [/EN#104651/other a rock] and looking through [/EN#104650/other a branch] as though [/EN#0/notvisual it] were [/EN#104650/other a telescope] .
+[/EN#104649/people A shirtless man] sits on [/EN#104651/other a rock] while looking through [/EN#104650/other a long stick] .
+[/EN#104649/people A man] in [/EN#104655/scene a forest] setting looks through [/EN#104650/other a hollow piece of wood] .
+[/EN#104649/people The man] without [/EN#104652/clothing a shirt] is sitting on [/EN#104651/other a rock] by [/EN#104654/other a tree] .

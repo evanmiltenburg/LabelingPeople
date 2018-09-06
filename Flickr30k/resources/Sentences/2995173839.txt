@@ -1,0 +1,5 @@
+[/EN#86237/people A man] in [/EN#86241/clothing a red cap] holding [/EN#86239/other a large rock] sitting on [/EN#86240/other a pile of large rocks] by [/EN#86243/scene the water] .
+[/EN#86237/people A man] is lifting [/EN#86240/other heavy rocks] and stacking [/EN#0/notvisual them] on top of [/EN#0/notvisual one another] .
+[/EN#86237/people A man] in [/EN#86241/clothing a red baseball hat] moves [/EN#86239/other rocks] in [/EN#86240/other a rock formation] .
+[/EN#86237/people A man] is stacking [/EN#86240/other rocks] by [/EN#86238/scene the waterfront] .
+[/EN#86237/people A man] stacking [/EN#86240/other rocks] on [/EN#86238/scene a busy boardwalk] .

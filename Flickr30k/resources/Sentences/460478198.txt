@@ -1,0 +1,5 @@
+[/EN#181957/animals Two dogs] , [/EN#181957/animals a spaniel] and [/EN#181956/animals a husky] , chase [/EN#0/notvisual each other] across [/EN#181960/other the sand] by [/EN#181958/scene a body of water] .
+[/EN#181956/animals A husky] chasing [/EN#181957/animals a brown spoted dog] at [/EN#181960/scene the shore] .
+[/EN#181957/animals Two dogs] chase [/EN#0/notvisual each other] near [/EN#181960/scene the water] .
+[/EN#181956/animals A dog] chasing [/EN#181957/animals another dog] by [/EN#181958/scene a lake] .
+[/EN#181957/animals Two dogs] playing by [/EN#181960/scene the shore] .

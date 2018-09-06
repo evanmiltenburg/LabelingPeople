@@ -1,0 +1,5 @@
+[/EN#60965/people A little boy] and [/EN#60968/animals a dog] run down [/EN#60969/scene a hill] , behind [/EN#0/notvisual them] , [/EN#60965/people a boy] on [/EN#60970/other a mini cycle] and [/EN#60967/people a shouting family] .
+[/EN#60965/people A boy] and [/EN#60968/animals a dog] are running down [/EN#60969/scene a hill] away from [/EN#60967/people a crowd] .
+[/EN#60966/people a group of children] running with [/EN#60968/animals a dog] down [/EN#60969/scene a grassy hill] .
+[/EN#60965/people A boy] and [/EN#60968/animals a dog] run ahead of [/EN#60967/people a group of people] .
+[/EN#60966/people A group of children] running down [/EN#60969/scene a hill] .

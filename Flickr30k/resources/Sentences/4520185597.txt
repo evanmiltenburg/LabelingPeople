@@ -1,0 +1,5 @@
+[/EN#175070/people A man] in [/EN#175071/clothing a business suit] is walking down [/EN#175072/scene the street] , pulling [/EN#175074/other luggage] .
+[/EN#175070/people A man] in [/EN#175071/clothing a suit] and [/EN#175073/clothing red tie] walking down [/EN#175072/scene a city sidewalk] .
+[/EN#175070/people A man] in [/EN#175071/clothing a business suit] walking on [/EN#175072/scene the sidewalk] .
+[/EN#175070/people Angry looking businessman] walking down [/EN#175072/scene sidewalk] .
+[/EN#175070/people A businessman] walking down [/EN#175072/scene a city street] .

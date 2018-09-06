@@ -1,0 +1,5 @@
+[/EN#156801/people A woman] in [/EN#156807/clothing a black and yellow shirts] works the clean [/EN#156804/scene the floor] under [/EN#156808/other the red chairs] .
+[/EN#0/notvisual There] is [/EN#156801/people a woman] wearing [/EN#156802/clothing a yellow scarf] [/EN#0/notvisual who] is mopping [/EN#156805/scene the floors] .
+[/EN#156801/people A woman] with [/EN#156803/clothing a black and yellow shirt] on is cleaning [/EN#156805/scene the floors]
+[/EN#156801/people A custodian] mops [/EN#156805/scene the wooden floor of a classroom] .
+[/EN#156801/people A lady] mopping [/EN#156804/scene the floor] .

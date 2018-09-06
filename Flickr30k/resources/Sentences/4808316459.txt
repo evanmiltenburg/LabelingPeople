@@ -1,0 +1,5 @@
+[/EN#205101/scene An urban street corner] features [/EN#205107/other a white van] and [/EN#205099/people a bicycle rider] to [/EN#205109/scene the left of a brown building] [/EN#0/notvisual which] has [/EN#205106/other a variety of objects] on [/EN#205108/other display] in front of [/EN#0/notvisual it] .
+[/EN#205099/people A person] is riding [/EN#205102/vehicles a bicycle] in [/EN#205104/scene a city] past [/EN#205100/scene a shop] called " [/EN#205103/other Kenji "] .
+[/EN#205099/people A man] riding [/EN#205102/vehicles his bike] down [/EN#205105/scene the sidewalk] by [/EN#205100/scene a store] .
+[/EN#205100/scene An old building] stands at [/EN#205101/scene the corner of a street]
+[/EN#205099/people a man] in [/EN#205110/clothing green pants] on [/EN#205102/vehicles a bicycle] .

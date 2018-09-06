@@ -1,0 +1,5 @@
+[/EN#15770/vehicles A black truck] and [/EN#15766/vehicles a red car] parked on [/EN#15771/scene the street] in front of [/EN#15769/scene a grocery store] painted red .
+[/EN#15767/vehicles Street scene featuring parked cars] and [/EN#15769/scene a small grocery store] .
+[/EN#15766/vehicles A red car] is parked in front of [/EN#15769/scene a red grocery store building] .
+[/EN#15768/vehicles Two vehicles] are parked outside [/EN#15769/scene a small grocery store] .
+[/EN#15767/vehicles Cars] parked in front of [/EN#15769/scene a grocery store] .

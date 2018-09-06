@@ -1,0 +1,5 @@
+[/EN#266225/people A woman] in [/EN#266233/clothing a shirt] with [/EN#266228/other a flower] on [/EN#0/notvisual it] is cutting [/EN#266226/other something] with [/EN#266230/other a large blade] next to [/EN#266224/people a man] in [/EN#266233/clothing a tan shirt] with [/EN#266229/other a lanyard] around [/EN#266235/bodyparts his neck] .
+[/EN#266225/people A woman] and [/EN#266224/people man] cut rolled up [/EN#266226/other dough] into [/EN#266227/other small pieces] .
+[/EN#266225/people A woman] and [/EN#266224/people a man] cutting [/EN#266226/other dough] into [/EN#266227/other small pieces] .
+[/EN#266224/people A man] and [/EN#266225/people woman] make [/EN#0/notvisual food side] by [/EN#0/notvisual side] .
+[/EN#266224/people A man] and [/EN#266225/people a Woman] cutting [/EN#266226/other dough] .

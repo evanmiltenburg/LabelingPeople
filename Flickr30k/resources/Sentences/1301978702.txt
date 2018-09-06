@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#7962/people a middle-sized white male] sleeping in [/EN#7965/other a chair] holding [/EN#7959/other a marker] and [/EN#7963/other a bottle] .
+[/EN#7962/people A middle-aged man] sitting in [/EN#7965/other a chair] holding [/EN#7963/other a drink] , sleeping .
+[/EN#7962/people An adult man] wearing [/EN#7960/clothing jeans] and [/EN#7964/clothing black shirt] holding [/EN#7963/other a beverage] .
+[/EN#7962/people A man] in [/EN#7964/clothing a black shirt] sits in [/EN#7965/other an office chair] next to [/EN#7958/people a fan] .
+[/EN#7962/people A man] in [/EN#7964/clothing a black shirt] sits while closing [/EN#7961/bodyparts his eyes] .

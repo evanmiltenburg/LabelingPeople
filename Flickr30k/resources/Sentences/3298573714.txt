@@ -1,0 +1,5 @@
+[/EN#107778/people A woman] is stepping up onto [/EN#107784/scene the sidewalk] near [/EN#107782/other a garage door] in [/EN#107779/scene a residential neighborhood] .
+[/EN#107778/people A woman] is walking [/EN#107780/animals her dog] along [/EN#107783/scene a row of colorful houses] with [/EN#107785/scene garages] .
+[/EN#107778/people A woman] walking [/EN#107780/animals her dog] along [/EN#107779/scene a street of residences] .
+[/EN#107778/people A girl] walks [/EN#0/notvisual her] [/EN#107780/animals dog] next to [/EN#107781/scene a colorful building] .
+[/EN#107778/people Woman] in [/EN#107786/clothing a jacket] , walking [/EN#107780/animals a small white dog] .

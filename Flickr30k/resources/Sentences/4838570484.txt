@@ -1,0 +1,5 @@
+[/EN#209416/people A large group of people] standing around [/EN#209419/other a sign] for [/EN#209417/other the Oxford Circus Station] and many are reading [/EN#209420/other some sort of newspaper] .
+[/EN#209416/people A crowd of people] gathers around [/EN#209417/other the Oxford Circus Station] in [/EN#209418/people London] .
+[/EN#209416/people Many people] gathered around [/EN#209417/other the Oxford Circus Station] .
+[/EN#0/notvisual There] is [/EN#209416/people a massive crowd] by [/EN#209417/other Oxford Circus Station] .
+[/EN#209416/people A crowd] gathers at [/EN#209421/scene a train station] .

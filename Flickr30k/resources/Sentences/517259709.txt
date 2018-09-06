@@ -1,0 +1,5 @@
+[/EN#230367/people A man] wearing [/EN#230372/clothing glasses] using [/EN#230367/other a spatula] to lift [/EN#230369/other a hamburger] off [/EN#230368/other barbecue grill] .
+[/EN#230367/people A man] in [/EN#230370/clothing a shirt] covered with [/EN#230370/other leaves] is taking [/EN#230369/other a hamburger] off [/EN#230368/other the grill] .
+[/EN#230367/people Overweight man] grills [/EN#230369/other a hamburger] on [/EN#230368/other a gas grill] .
+[/EN#230367/people A man] in [/EN#230370/clothing a yellow shirt] is grilling [/EN#230369/other food] .
+[/EN#230367/people A man] grilling [/EN#230369/other a hamburger] .

@@ -1,0 +1,5 @@
+[/EN#63592/people A person] standing on top of [/EN#63595/other some rocks] with [/EN#63596/scene the sky] behind .
+[/EN#63592/people A man] at [/EN#63593/other the top of rocks] , [/EN#63597/other clouds] behind .
+[/EN#63592/people A man] stands on top of [/EN#63594/scene a rocky mountain] .
+[/EN#63592/people A man] stands on top of [/EN#63594/scene a rocky hill] .
+[/EN#63592/people A person] stands on [/EN#63595/other a mountaintop] .

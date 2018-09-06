@@ -1,0 +1,5 @@
+[/EN#89270/people A man] stands on [/EN#89273/other a sailboat] in [/EN#89272/scene the water] .
+[/EN#89270/people A person] is windsurfing in [/EN#89272/scene the water] .
+[/EN#89270/people A man] is wind sailing in [/EN#89272/scene the ocean] .
+[/EN#89270/people A wind-surfer] in near [/EN#89271/scene the beach] .
+[/EN#89270/people A man] windsurfs near [/EN#89271/scene the beach] .

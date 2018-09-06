@@ -1,0 +1,5 @@
+[/EN#83362/people Three hikers] are sitting on [/EN#83370/scene a mountainside] looking at [/EN#83371/scene the view] , [/EN#83363/other one] using [/EN#83364/other a pair of binoculars] .
+[/EN#83362/people A group of people] sit at [/EN#83365/scene the top of a cliff] and look over [/EN#0/notvisual the side] .
+[/EN#83362/people Three men] sitting on [/EN#83370/scene a hill] looking at [/EN#83366/scene the mountains] and [/EN#83367/scene sky] .
+[/EN#83368/people 2 People] with [/EN#83369/clothing white hats] looking over [/EN#83370/scene the mountain]
+[/EN#83362/people Three people] sit and look at [/EN#83370/scene mountains] .

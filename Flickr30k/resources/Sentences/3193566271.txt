@@ -1,0 +1,5 @@
+[/EN#100037/people A man] wearing [/EN#100040/clothing a red clothing] and [/EN#100043/other a fez] plays [/EN#100039/instruments a stringed instrument] on [/EN#100038/scene a brick sidewalk] .
+[/EN#100037/people A man] in [/EN#100040/clothing a red top] and [/EN#100041/clothing hat] playing [/EN#0/notvisual what] seems to be [/EN#100039/instruments a musical instrument] .
+[/EN#100037/people A street musician] in [/EN#100040/clothing bright red outfit] plays [/EN#100039/instruments his instrument] .
+[/EN#100037/people Man] wearing [/EN#100041/clothing red hat] and [/EN#100040/clothing robe] playing [/EN#100039/instruments guitar] like [/EN#100039/instruments instrument]
+[/EN#100037/people A religious man] plays [/EN#100039/instruments an instrument] on [/EN#100038/scene the streets]

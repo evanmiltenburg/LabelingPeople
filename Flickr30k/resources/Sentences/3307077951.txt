@@ -1,0 +1,5 @@
+[/EN#108252/animals A shaggy black and white dog] is running on [/EN#108253/scene the grass] .
+[/EN#108252/animals The black and white dog] is running on [/EN#108253/scene a green yard] .
+[/EN#108252/animals A black and white dog] is running over [/EN#108253/scene grass] .
+[/EN#108252/animals The black and white dog] is running outdoors .
+[/EN#108252/animals A dog] is running through [/EN#108254/scene the yard]

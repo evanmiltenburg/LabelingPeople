@@ -1,0 +1,5 @@
+[/EN#154017/people A climber] wearing [/EN#154018/clothing a red shirt] is climbing [/EN#154019/bodyparts a rock face] on [/EN#154022/scene a snowy day] .
+[/EN#154017/people A man] in [/EN#154018/clothing a red shirt] climbing [/EN#154019/other a rock] with [/EN#154023/bodyparts his bare hands] .
+[/EN#154017/people A man] is climbing over [/EN#154019/scene a short but sheer rocky cliff] .
+[/EN#154017/people A man] wearing [/EN#154018/clothing a red shirt] clinging to [/EN#154019/bodyparts a rock face] .
+[/EN#154017/people A person] scales [/EN#154019/other a rock] .

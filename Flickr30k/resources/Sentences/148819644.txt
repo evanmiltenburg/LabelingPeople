@@ -1,0 +1,5 @@
+[/EN#14649/people A group of men] and [/EN#14650/people women] walk down [/EN#14652/scene the center of a tree-lined street] .
+[/EN#14649/people A group of people] walking down [/EN#14652/scene a road] [/EN#14651/scene a long road] , in [/EN#14653/scene the suburbs] .
+[/EN#14649/people A group of people] are walking down [/EN#14652/scene a rural street] .
+[/EN#14649/other A group of five] waling down [/EN#14652/scene a street] in [/EN#14653/scene suburbia] .
+[/EN#14649/people five people] walk down [/EN#14651/scene the middle of the street] .

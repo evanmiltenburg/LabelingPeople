@@ -1,0 +1,5 @@
+[/EN#55537/people Three individuals] are sitting in [/EN#55547/scene the room] together , [/EN#55538/other one] playing [/EN#55539/instruments a red guitar] and [/EN#55540/other the other two] sitting on [/EN#55541/other the bench] .
+[/EN#55537/people 3 people] , [/EN#55538/people one man] playing [/EN#55539/instruments a guitar] while sitting on [/EN#55543/scene the floor] and [/EN#55540/people two people] playing [/EN#55545/other a game] on [/EN#55541/other a sofa] .
+[/EN#0/notvisual There] are [/EN#55540/people two women] playing [/EN#55545/other a game] and [/EN#55538/people a man] sitting on [/EN#55543/scene the floor] playing [/EN#55539/instruments a guitar] next to [/EN#55546/other a bunk bed] .
+[/EN#55540/people Two people] on [/EN#55541/other the bench] are playing [/EN#55545/other a board game] while [/EN#55538/people a man] sitting on [/EN#55543/scene the floor] plays [/EN#55539/instruments guitar] .
+[/EN#55538/people A guy] playing [/EN#55539/instruments a guitar] and [/EN#55540/people two people] are sitting on [/EN#55541/other a couch] playing [/EN#55545/other a game] .

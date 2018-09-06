@@ -1,0 +1,5 @@
+[/EN#82782/people A young man] and [/EN#82783/people mother] in [/EN#82785/scene the kitchen] washing and drying [/EN#82786/other the dishes] .
+[/EN#82783/people An older woman] and [/EN#82782/people young man] in [/EN#82785/scene a kitchen] .
+[/EN#82782/people A man] and [/EN#82783/people a woman] are preparing [/EN#82788/other a meal] .
+[/EN#82782/people A man] washing [/EN#82786/other some dishes] .
+[/EN#82787/people Two people] washing [/EN#82786/other dishes] .

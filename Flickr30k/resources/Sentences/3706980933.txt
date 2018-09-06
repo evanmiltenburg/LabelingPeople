@@ -1,0 +1,5 @@
+[/EN#138346/people An older man] wearing [/EN#138350/clothing jeans] and [/EN#138347/clothing a baseball cap] sits on [/EN#138349/other a lawn chair] in [/EN#138348/scene a busy section of an urban area] .
+[/EN#138346/people A man] in [/EN#138352/clothing a black shirt] , [/EN#138350/clothing blue jeans] and [/EN#138347/clothing blue hat] sleeping in [/EN#138349/other a chair] on [/EN#138348/scene the street] .
+[/EN#138346/people Man] sleeping in [/EN#138349/other a chair] on [/EN#138348/scene a sidewalk] in [/EN#138351/scene New York City] .
+[/EN#138346/people An older man] sleeping in [/EN#138349/other a folding chair] on [/EN#138348/scene the street] .
+[/EN#138346/people A man] is sitting on [/EN#138348/scene a sunny street] in [/EN#138349/other a lawn chair] .

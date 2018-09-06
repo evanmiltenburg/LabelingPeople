@@ -1,0 +1,5 @@
+[/EN#53705/animals A black and white dog] looks at [/EN#53706/people a man] about to throw [/EN#53709/other something] .
+[/EN#53706/people A man] with [/EN#53707/other a toy] in [/EN#53711/bodyparts his hand] on [/EN#53708/scene a beach] playing with [/EN#53705/animals his dog] .
+[/EN#53705/animals A dog] waits for [/EN#53706/people a man] to throw [/EN#53707/other a ball] into [/EN#53710/scene the ocean] .
+[/EN#53706/people Man] on [/EN#53708/scene rocky beach] playing with [/EN#53705/animals black and white dog] .
+[/EN#53706/people A man] playing with [/EN#53705/animals his dog] on [/EN#53708/scene a beach]

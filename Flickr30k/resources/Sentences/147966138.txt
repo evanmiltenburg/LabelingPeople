@@ -1,0 +1,5 @@
+[/EN#14421/people An elderly man] and [/EN#14425/people women] walk together past [/EN#14422/scene a jewelery store] on [/EN#14423/scene the sidewalk] .
+[/EN#14419/people An older couple] is walking past [/EN#14422/scene a Jewelry store] on [/EN#14424/scene a sunny day] .
+[/EN#14420/people Two elderly people] are walking down [/EN#14423/scene the street] on [/EN#14424/scene a sunny day] .
+[/EN#14420/people Two older people] walking down [/EN#14423/scene a busy street] on [/EN#14424/scene a sunny day]
+[/EN#14419/people An elderly couple] walks together .

@@ -1,0 +1,5 @@
+[/EN#47699/people A girl] with [/EN#47702/clothing a red coat] is jumping and [/EN#47705/people the girl] in [/EN#47704/clothing the brown coat] is holding [/EN#47706/other a stick] .
+[/EN#47699/people young girl] in [/EN#47702/clothing winter coat] jumping off [/EN#47701/other a boulder] into [/EN#47703/other the sand] at [/EN#47707/scene a beach]
+[/EN#47699/people A child] in [/EN#47702/clothing a red jacket] jumping off of [/EN#47701/other a rock] into [/EN#47703/other sand] .
+[/EN#47699/people A girl] jumps off [/EN#47701/other a rock] while [/EN#0/notvisual another] stands on [/EN#0/notvisual it] .
+[/EN#47699/people This girl] is jumping off of [/EN#47701/other a rock] onto [/EN#47703/other the sand] .

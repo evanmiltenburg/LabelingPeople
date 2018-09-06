@@ -1,0 +1,5 @@
+[/EN#170462/people An elderly couple] are sitting on [/EN#170463/other a park bench] while looking at [/EN#170464/other a pamphlet] .
+[/EN#170462/people An elderly couple] sit on [/EN#170463/other a bench] in [/EN#170465/scene a park] looking at [/EN#170464/other a map] .
+[/EN#0/notvisual Both] are looking at [/EN#170464/other the map] to find out [/EN#0/notvisual the direction] .
+[/EN#170462/people An elderly couple] reads [/EN#170464/other a map] on [/EN#170463/other a park bench] .
+[/EN#170462/people an older couple] reading [/EN#170464/other a map]

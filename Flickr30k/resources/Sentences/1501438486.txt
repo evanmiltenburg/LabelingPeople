@@ -1,0 +1,5 @@
+[/EN#15038/people A football player] in [/EN#15051/clothing a red jersey] is tackling [/EN#15039/people a football player] in [/EN#15052/clothing a white jersey] [/EN#0/notvisual who] is attempting to throw [/EN#15047/other the ball] .
+[/EN#15039/people A quarterback] , in [/EN#15050/scene the statue of liberty position] , is being held onto by [/EN#15041/people an opposing player] from [/EN#15046/other behind] .
+[/EN#15038/people One football player] tackles [/EN#15038/people his opponent] as [/EN#15040/people bystanders] watch from [/EN#15049/other the sidelines] .
+[/EN#15038/people A football player] attempting [/EN#15045/scene a pass] while being tackled by [/EN#15038/people another player] .
+[/EN#15043/people Football players] on [/EN#15044/scene a field] , [/EN#15039/people one player] is being tackled by [/EN#15038/other the other] .

@@ -1,0 +1,5 @@
+[/EN#181963/people The man] in [/EN#181969/clothing the jacket] and [/EN#181970/clothing tie] is being interviewed in [/EN#181964/scene a warehouse retail store] by [/EN#181966/people the man] in [/EN#181971/clothing blue jeans] .
+[/EN#181963/people A news man] is reporting in [/EN#181964/scene a local store] about [/EN#181964/scene an event] .
+[/EN#181963/people A man] stands in front of [/EN#181965/other a camera] in [/EN#181964/scene a Walmart store] .
+[/EN#181963/people Man] in front of [/EN#181965/other cameras] being interviewed .
+[/EN#181966/other A news anchor] is being filmed in [/EN#181964/scene a store] .

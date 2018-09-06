@@ -1,0 +1,5 @@
+[/EN#57309/people Two men] are walking up [/EN#57311/scene a ramp] while [/EN#57315/other a third] walks up [/EN#57312/scene a separate ramp] in [/EN#0/notvisual the opposite direction] .
+[/EN#57309/people Two men] walk up [/EN#57311/scene a ramp] , as [/EN#57310/people another man] in [/EN#57316/clothing a blue shirt] walks along [/EN#57312/scene a road] below [/EN#0/notvisual them] .
+[/EN#57308/people The people] are walking up [/EN#57311/scene the ramp] and [/EN#57310/people the man] in walking on [/EN#57313/scene the road] .
+[/EN#57308/people Three men] are walking up [/EN#57311/scene hill] .
+[/EN#57308/people Three people] walking uphill

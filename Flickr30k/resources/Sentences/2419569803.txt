@@ -1,0 +1,5 @@
+[/EN#47986/people A blond woman] wearing [/EN#47990/clothing a pink tank top] is singing into [/EN#47989/other a microphone] with [/EN#47992/people musicians] in [/EN#0/notvisual the background] at [/EN#47991/scene a venue] with [/EN#47988/other a brick wall] .
+[/EN#47986/people A woman] with [/EN#47993/bodyparts blond-hair] and wearing [/EN#47990/clothing a pink top] is singing in [/EN#47987/other a club] .
+[/EN#47986/people A blond lady] in [/EN#47990/clothing a pink shirt] is singing in front of [/EN#47988/other a brick wall] .
+[/EN#47986/people A woman] in [/EN#47990/clothing a pink shirt] sings at [/EN#47987/scene Paul Colby 's The Bitter End] .
+[/EN#47986/people Women] holding [/EN#47989/other microphone] singing in [/EN#47987/scene bar] .

@@ -1,0 +1,5 @@
+[/EN#274243/vehicles A Dodge race car] is driving down [/EN#274245/scene a dirt road] and throwing up [/EN#274246/other dust] with [/EN#274247/other its wheels] .
+[/EN#274243/vehicles A rally car] bears down on [/EN#0/notvisual the camera] while kicking up [/EN#274246/other a plume of dust] .
+[/EN#274243/scene A red and white Ford Edge] is driven by [/EN#274244/people a professional driver] .
+[/EN#0/notvisual This] is [/EN#274243/vehicles a red and white sports car] going down [/EN#274245/scene a dirt road] .
+[/EN#274244/people A driver] is racing [/EN#274243/vehicles his Ford vehicle] on [/EN#274245/scene a gravel track] .

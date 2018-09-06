@@ -1,0 +1,5 @@
+[/EN#109678/vehicles An expensive car] is parked in [/EN#0/notvisual what] looks like [/EN#109680/other a car-wash] with [/EN#109673/people a man] standing at [/EN#0/notvisual the open passenger door side] .
+[/EN#109674/people Man] in [/EN#109681/clothing yellow shirt] and [/EN#109675/clothing jeans] watching [/EN#109678/other his BMW] coming out of [/EN#109680/other a car wash] .
+[/EN#109674/people Man] in [/EN#109681/clothing yellow shirt] waiting for [/EN#109678/vehicles his car] to be washed .
+[/EN#109673/people A driver] parks [/EN#109678/other his BMW] in [/EN#109677/scene the garage] .
+[/EN#109673/people A man] is standing next to [/EN#109678/other a BMW] .

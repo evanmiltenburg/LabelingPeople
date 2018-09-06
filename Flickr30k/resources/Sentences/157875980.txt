@@ -1,0 +1,5 @@
+[/EN#16854/people A man] in [/EN#16857/clothing a top hat] is playing [/EN#16855/instruments the accordion] on [/EN#16856/scene the side of a city street] .
+[/EN#16854/people Man] in [/EN#16857/clothing a top hat] , playing [/EN#16855/instruments his accordion] on [/EN#16856/scene the sidewalk] by [/EN#16859/scene a street]
+[/EN#16854/people A man] standing on [/EN#16856/scene a street] in [/EN#16858/scene the city] playing [/EN#16855/instruments the accordion] .
+[/EN#16854/people Man] playing [/EN#16855/instruments the accordion] on [/EN#16856/scene a sidewalk] during [/EN#16860/scene the day] .
+[/EN#16854/people A man] in [/EN#16857/clothing a top hat] playing [/EN#16855/instruments the accordion] .

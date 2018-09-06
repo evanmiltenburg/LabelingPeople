@@ -1,0 +1,5 @@
+[/EN#160536/people A man] is reading [/EN#160546/other a newspaper] while standing on [/EN#160541/other a ladder] with [/EN#160543/bodyparts his head] through [/EN#160545/scene a hole] in [/EN#160549/other the ceiling] while [/EN#160537/other a Mexican puppet] hangs nearby .
+[/EN#160536/people A man] standing on [/EN#160541/other a ladder] with [/EN#160543/bodyparts his head] above [/EN#160540/other the ceiling panels] and [/EN#160537/other a puppet] dangling in [/EN#0/notvisual the foreground] .
+[/EN#160536/people A electrician] fixing or replacing [/EN#160544/other lights] in [/EN#160542/scene a office building] wearing [/EN#160550/clothing jeans] and [/EN#160551/clothing a black shirt] .
+[/EN#160536/people An electrician] working on [/EN#160544/other lights] , [/EN#0/notvisual possibly air] conditioning [/EN#160547/other ducts] in [/EN#160542/scene an office building] .
+[/EN#160536/people Man] on [/EN#160541/other ladder] reading while [/EN#160543/bodyparts his head] is inside [/EN#160538/other a ceiling panel] .

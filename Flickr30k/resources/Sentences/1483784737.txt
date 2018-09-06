@@ -1,0 +1,5 @@
+[/EN#14552/people A woman] wearing [/EN#14553/clothing a long black sweater] is standing near [/EN#14554/vehicles a pink bike] on [/EN#14555/scene the sidewalk] .
+[/EN#14552/people A woman] in [/EN#14553/clothing a black dress] stands next to [/EN#14554/vehicles a pink bicycle] .
+[/EN#14552/people A lady] with [/EN#14554/vehicles a pink bike] is smiling for [/EN#0/notvisual the camera] .
+[/EN#14552/people A smiling woman] next to [/EN#14554/vehicles her bright pink bicycle] .
+[/EN#14552/people A woman] standing with [/EN#14554/vehicles a bicycle] .

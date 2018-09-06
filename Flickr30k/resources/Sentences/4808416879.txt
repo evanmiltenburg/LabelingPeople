@@ -1,0 +1,5 @@
+[/EN#205127/people Two people] on [/EN#205131/vehicles bicycles] sit at [/EN#205128/scene a corner crosswalk] in front of [/EN#205129/scene a red brick building] while [/EN#205133/people another bicyclist] rides by behind [/EN#0/notvisual them] .
+[/EN#205132/people Three men] ride [/EN#205131/vehicles bicycles] in front of [/EN#205129/scene a red brick building] .
+[/EN#205126/people Two bikers] wait to cross [/EN#205130/scene a street] at [/EN#205128/scene a crosswalk] .
+[/EN#205126/people Two boys] are riding [/EN#205134/vehicles their bikes] on [/EN#205130/scene the street] .
+[/EN#205127/people Two cyclists] are waiting at [/EN#205128/scene a crossing zone] .

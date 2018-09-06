@@ -1,0 +1,5 @@
+[/EN#105091/people A man] in [/EN#105092/clothing a black shirt] plays [/EN#105094/instruments the acoustic guitar] in front of [/EN#105091/other a red brick wall] .
+[/EN#105091/people An older man] with [/EN#105095/bodyparts shaggy gray hair] and [/EN#105092/clothing a black shirt] plays [/EN#105094/instruments guitar] .
+[/EN#105091/people A man] in [/EN#105092/clothing black clothing] plays [/EN#105094/instruments a guitar] in front of [/EN#105091/other a brick wall] .
+[/EN#105091/people A man] is playing [/EN#105094/instruments a guitar] in front of [/EN#105091/other a brick wall] .
+[/EN#105091/people A man] in [/EN#105092/clothing a black shirt] plays [/EN#105094/instruments an acoustic guitar] .

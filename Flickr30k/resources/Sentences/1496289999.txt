@@ -1,0 +1,5 @@
+[/EN#14876/people A person] in [/EN#14883/clothing a red and black jacket] with [/EN#14884/clothing a black backpack] scales [/EN#14878/bodyparts a mountain face] .
+[/EN#14880/other A adventure] bound [/EN#14876/people person] climbing [/EN#14878/scene the face of a mountain] .
+[/EN#14877/people Two people] are climbing [/EN#14878/other a rock wall] with [/EN#14882/other a rope] .
+[/EN#14877/people Two climbers] climbing [/EN#14878/bodyparts a steep mountain face] .
+[/EN#14876/people A rock climber] climbs [/EN#14878/scene a steep mountain] .

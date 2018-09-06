@@ -1,0 +1,5 @@
+[/EN#183687/people A woman] drives [/EN#183688/vehicles a bike] wearing [/EN#183689/clothing a white blouse] with [/EN#183690/bodyparts her brown hair] blowing in [/EN#183696/other the wind] .
+[/EN#183687/people A woman] with [/EN#183689/clothing a white shirt] and [/EN#183694/clothing jeans] is riding [/EN#183688/vehicles a motorized scooter] .
+[/EN#183687/people Woman] with [/EN#183690/bodyparts black hair] and [/EN#183695/clothing sunglasses] riding [/EN#183688/vehicles a motor scooter] .
+[/EN#183687/people A woman] with [/EN#183690/bodyparts black hair] is riding [/EN#183688/other a motorcycle] on [/EN#183693/scene a street] .
+[/EN#183687/people A woman] is riding [/EN#183688/vehicles a scooter] in [/EN#183691/scene a middle-eastern country] .

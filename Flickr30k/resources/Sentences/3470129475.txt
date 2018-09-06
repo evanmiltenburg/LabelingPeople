@@ -1,0 +1,5 @@
+[/EN#120452/people A man] jumps [/EN#120457/other his bicycle high] above [/EN#120456/other a cement incline] .
+[/EN#120452/people A boy] does [/EN#0/notvisual a trick] on [/EN#120453/vehicles his bike] as [/EN#120458/people other kids] watch .
+[/EN#120452/people A male] doing [/EN#0/notvisual a trick] in [/EN#0/notvisual the air] on [/EN#120453/vehicles his bike] .
+[/EN#120452/people A man] on [/EN#120453/vehicles a BMX bike] in [/EN#120455/scene midair]
+[/EN#120452/people A boy] on [/EN#120453/vehicles a bicycle] in [/EN#120455/scene midair]

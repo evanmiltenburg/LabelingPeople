@@ -1,0 +1,5 @@
+[/EN#152970/people A man] in [/EN#152973/clothing a white shirt] , [/EN#152974/clothing blue jeans] , and [/EN#152975/clothing open-toed sandals] is sitting on [/EN#152972/scene a subway seat] .
+[/EN#152970/people A man] in [/EN#152974/clothing blue jeans] and [/EN#152973/clothing a white shirt] sitting on [/EN#152976/clothing a orange] and [/EN#152977/other yellow bench] .
+[/EN#152970/people A man] in [/EN#152975/clothing sandals] sits on [/EN#152972/scene yellow and orange seats] on [/EN#152978/vehicles public transit] .
+[/EN#152970/people A man] sits with [/EN#152979/bodyparts his head] down on [/EN#152971/vehicles/scene a subway] .
+[/EN#152970/people A depressed man] sitting on [/EN#152971/vehicles/scene a subway train] .

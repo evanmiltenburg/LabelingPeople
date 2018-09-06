@@ -1,0 +1,5 @@
+[/EN#116895/people A group of people] in [/EN#116898/clothing suits] stand around [/EN#116896/people a man] in [/EN#116899/clothing a pink shirt] [/EN#0/notvisual who] is lecturing .
+[/EN#116895/people A group of men] in [/EN#116898/clothing suits] are standing in front of [/EN#116897/animals a statue of a lion] .
+[/EN#116895/people A group of men] stand talking in front of [/EN#116897/animals a statute of a blue lion] .
+[/EN#116896/people Man] giving [/EN#116900/other lecture] to [/EN#116895/people interested people] in front of [/EN#116897/other a clue statue] .
+[/EN#116895/people Men] standing in front of [/EN#116897/animals a statue of a lion] .

@@ -1,0 +1,5 @@
+[/EN#4568/animals a brown dog] jumping into [/EN#4569/scene a pool] after [/EN#4571/other a bloe ball] .
+[/EN#4568/animals A tan colored dog] is jumping into [/EN#4569/scene an outdoor pool] .
+[/EN#4568/animals A tan colored dog] leaps into [/EN#4569/scene the inground pool] .
+[/EN#4568/animals A dog] in [/EN#0/notvisual the air] above [/EN#4569/scene the swimming pool] .
+[/EN#4568/animals A dog] jumps into [/EN#4569/scene a backyard pool] .

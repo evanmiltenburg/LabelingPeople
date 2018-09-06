@@ -1,0 +1,5 @@
+[/EN#53881/people a person] in [/EN#53888/clothing a green jacket] throws [/EN#53882/other a stick] into [/EN#53885/scene the water] for [/EN#53886/animals a black and white dog] to fetch whilst [/EN#53883/animals a brown and white dog] looks on .
+[/EN#53881/people A man] is standing at [/EN#53884/scene edge of a pond] , with [/EN#53887/animals two dogs] and is throwing [/EN#53882/other a branch] is [/EN#53885/scene water] .
+[/EN#53881/people A man] is throwing [/EN#53882/other a big stick] into [/EN#53885/scene the water] so [/EN#53883/animals his two dogs] and go fetch [/EN#0/notvisual it] .
+[/EN#53881/people A man] is throwing [/EN#53882/other a log] into [/EN#53884/scene a waterway] while [/EN#53883/animals two dogs] watch .
+[/EN#53881/people Someone] is at [/EN#53884/scene the water 's edge] with [/EN#53883/animals two dogs] .

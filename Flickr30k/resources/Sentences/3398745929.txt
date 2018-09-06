@@ -1,0 +1,5 @@
+[/EN#115502/bodyparts Someone 's legs] are in [/EN#115506/other frame] running over [/EN#115503/scene a beach shore] .
+[/EN#115501/people A person] is running across [/EN#115504/scene the beach] at [/EN#115503/scene the waters edge] .
+[/EN#115502/bodyparts A person 's legs] , [/EN#115505/other backlit] , run through [/EN#115508/other the surf] .
+[/EN#115501/people An person] runs at [/EN#115503/scene the waters edge] at [/EN#115503/scene the ocean] .
+[/EN#115502/people Someone] runs along [/EN#115503/scene the beach] in [/EN#115507/other the bright sun] .

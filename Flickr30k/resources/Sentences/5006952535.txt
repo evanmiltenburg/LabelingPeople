@@ -1,0 +1,5 @@
+[/EN#226737/people A man] wearing [/EN#226738/clothing a brim hat] and [/EN#226739/clothing white t-shirt] is standing behind [/EN#226740/vehicles a wheeled cart] .
+[/EN#226737/people A guy] in [/EN#226738/clothing a hat] and [/EN#226739/clothing white shirt] selling [/EN#226741/other frozen treats] on [/EN#226744/scene the street] .
+[/EN#226737/people A working man] is standing by [/EN#226740/vehicles the cart] looking at [/EN#226742/other something] .
+[/EN#226737/people A man] in [/EN#226738/clothing a straw hat] has [/EN#226740/vehicles a cart] with [/EN#226745/animals a penguin] on [/EN#0/notvisual it] .
+[/EN#226737/people Latino street vendor] selling [/EN#226741/other ice]

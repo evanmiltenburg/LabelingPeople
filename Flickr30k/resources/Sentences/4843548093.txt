@@ -1,0 +1,5 @@
+[/EN#209817/people A woman] wearing [/EN#209821/clothing a pink dress] , holding [/EN#209819/clothing a black purse] , and hoisting [/EN#209820/clothing an umbrella] over [/EN#209828/bodyparts her head] on [/EN#209818/scene a post] or [/EN#209818/other a beam] .
+[/EN#209817/people A woman] in [/EN#209821/clothing a pink dress] holding [/EN#209820/clothing an umbrella] and standing on [/EN#209818/other a concrete pillar] shushes [/EN#0/notvisual the camera] .
+[/EN#209817/people Women] in [/EN#209821/clothing pink dress] with [/EN#209821/other white polka dots] standing on [/EN#209824/other stone base shoo-shes] [/EN#209825/other those] in [/EN#209826/scene view] .
+[/EN#209817/people A woman] wearing [/EN#209821/clothing a pink dress polka dot dress] carrying [/EN#209820/clothing a white umbrella] and [/EN#209819/clothing black purse] .
+[/EN#209817/people A girl] in [/EN#209821/clothing a pink dress] with [/EN#209820/clothing umbrella] is [/EN#0/notvisual " shh-ing " the camera] .

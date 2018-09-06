@@ -1,0 +1,5 @@
+[/EN#146313/animals The brown and white dog] carries [/EN#146315/other a very large stick] across [/EN#146314/scene the snow] .
+[/EN#146313/animals A black dog] is carrying [/EN#146315/other a huge stick] whilst walking in [/EN#146316/scene the snow] .
+[/EN#146313/animals A dog] carries [/EN#146315/other a very large tree branch] in [/EN#146316/scene the snow] .
+[/EN#146313/animals A black dog] carries [/EN#146315/other a huge stick] in [/EN#146317/bodyparts its mouth] .
+[/EN#146313/animals A dog] carries [/EN#146314/scene a huge , snow] covered [/EN#146315/other stick] .

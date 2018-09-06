@@ -1,0 +1,5 @@
+[/EN#20684/people A hockey goalie] and [/EN#20686/people two other players] are in front of [/EN#20687/other the goal] , with [/EN#20689/other the puck] in [/EN#0/notvisual the foreground] .
+[/EN#20686/people Two hockey players] stand and compete for [/EN#20692/other the puck] while [/EN#20684/people a goalie] crouches in front of [/EN#20687/other the net] .
+[/EN#20685/people Three hockey players] struggle with [/EN#20689/other the puck] in front of [/EN#20687/other the goal] .
+[/EN#20685/people Three hockey players] are fighting over [/EN#20689/other the puck] near [/EN#20687/other the goal] .
+[/EN#20686/people Two Hockey players] are fighting over [/EN#20689/other the puck] .

@@ -1,0 +1,5 @@
+[/EN#14256/people four skiers] climbing [/EN#14257/scene snow] drapped [/EN#14257/scene mountain] .
+[/EN#14256/people Four skiers] walking up [/EN#14257/scene a snow covered hill] .
+[/EN#14256/people Four people] climbing [/EN#14257/scene a hill] in [/EN#14257/scene the snow] .
+[/EN#14256/people Four crosscountry skiers] climb uphill .
+[/EN#14256/people a group of skiers] going up [/EN#14257/scene a mountain]

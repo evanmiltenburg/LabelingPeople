@@ -1,0 +1,5 @@
+[/EN#191919/people A man] in [/EN#191921/clothing a red shirt] with [/EN#191926/clothing blue jeans] on is standing under [/EN#191925/scene a tent] and standing in front of [/EN#191924/other a table] with [/EN#191922/other vegetables] on [/EN#0/notvisual it] .
+[/EN#191919/people An African American man] is looking at [/EN#191922/other a selection of vegetables] at [/EN#191920/scene a stand] .
+[/EN#191919/people A man] works at [/EN#191920/scene a vegetable stand market] , with [/EN#191927/other prices] displayed nearby .
+[/EN#191919/people A merchant] in [/EN#191921/clothing a red shirt] sells [/EN#191928/other produce] at [/EN#191920/scene a farmers market] in [/EN#191923/scene a park] .
+[/EN#191919/people A man] browses [/EN#191920/scene a busy farmer 's market] .

@@ -1,0 +1,5 @@
+[/EN#113835/people A man] in [/EN#113836/clothing a brown coat] is looking at [/EN#113838/other a product] in [/EN#113837/scene a grocery store] .
+[/EN#113835/people A man] holds and looks at [/EN#113838/other a product] at [/EN#113837/scene a grocery store] .
+[/EN#113835/people A man] wearing [/EN#113836/clothing a brown hoodie] is shopping for [/EN#113839/other snacks] .
+[/EN#113835/people A man] buying [/EN#113839/other pastries] in [/EN#113837/scene a grocery store] .
+[/EN#113835/people A man] is [/EN#113840/other grocery] shopping .

@@ -1,0 +1,5 @@
+[/EN#50936/people A man] wearing [/EN#50937/clothing a raincoat] and [/EN#50938/clothing a white hat] is sweeping outside on [/EN#50939/scene wet brick floors] .
+[/EN#50936/people A man] wearing [/EN#50937/clothing a blue rain suit] and [/EN#50938/clothing a hat] sweeps [/EN#50939/scene a wet brick street] .
+[/EN#50936/people A man] in [/EN#50936/other rain gear] is sweeping [/EN#50939/scene the puddles] away on [/EN#0/notvisual the ground] .
+[/EN#50936/people An Asian person] sweeps [/EN#50939/scene a courtyard outside] in [/EN#50942/other the rain] .
+[/EN#50936/people A person] in [/EN#50937/clothing a blue jacket] sweeps up on [/EN#50939/other wet brick] .

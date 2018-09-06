@@ -1,0 +1,5 @@
+[/EN#158855/people A group of hikers] in [/EN#158860/other packs] walk up [/EN#158858/scene a stone staircase] in [/EN#158856/scene the forest] .
+[/EN#158855/people Four hikers] are climbing [/EN#158857/other stone steps] in [/EN#158856/scene a forest area] .
+[/EN#158855/people Four hikers] are walking up [/EN#158857/other stairs] on [/EN#158856/scene a small hill] .
+[/EN#158855/people Backpackers] ascend [/EN#158857/other a set of stairs] in [/EN#158856/other the woods] .
+[/EN#158855/people The hikers] climb [/EN#158858/scene the staircase] in [/EN#158856/other the woods] .

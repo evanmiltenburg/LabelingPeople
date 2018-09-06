@@ -1,0 +1,5 @@
+[/EN#215265/people A man] wearing [/EN#215267/clothing a blue shirt] and [/EN#215270/clothing dark pants] is riding [/EN#215266/vehicles a bicycle] and is approaching [/EN#215268/scene an intersection] .
+[/EN#215265/people A bearded man] in [/EN#215267/clothing a blue shirt] rides [/EN#215266/vehicles a bike] down [/EN#215271/other a tree] lined [/EN#215269/scene street] .
+[/EN#215265/people The man] in [/EN#215267/clothing the blue shirt] is riding [/EN#215266/vehicles his bike] down [/EN#215268/scene the street] .
+[/EN#215265/people A man] in [/EN#215267/clothing a blue shirt] is riding in [/EN#215266/vehicles a bicycle] on [/EN#215269/scene the street]
+[/EN#215265/people A man] in [/EN#215267/clothing a blue shirt] is riding [/EN#215266/vehicles a bike] .

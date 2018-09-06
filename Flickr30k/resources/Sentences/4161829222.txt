@@ -1,0 +1,5 @@
+[/EN#157605/people A police officer] walking out of [/EN#157606/vehicles his parked vehicle] and about [/EN#157609/other the approach] [/EN#157606/vehicles a yellow vehicle] .
+[/EN#157605/people A man] in [/EN#157608/clothing a uniform] walking on [/EN#157613/scene a street] with [/EN#157612/vehicles two cars] and [/EN#157610/other a tree] .
+[/EN#157606/vehicles The partially obscured car] is visible to [/EN#157605/people the man] in [/EN#157608/clothing uniform] .
+[/EN#157605/people A guy] [/EN#0/notvisual who] got out of [/EN#157606/vehicles his car] with [/EN#157610/other trees] around .
+[/EN#157605/people A man] in [/EN#157608/clothing uniform] is walking by [/EN#157606/vehicles a car] .

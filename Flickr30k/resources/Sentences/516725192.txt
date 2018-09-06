@@ -1,0 +1,5 @@
+[/EN#230206/people A person] is standing in [/EN#230210/scene the ocean] fully clothed holding [/EN#230208/other a fishing pole] in [/EN#230213/bodyparts one hand] and [/EN#230209/other a tackle box] in [/EN#230212/other the other] .
+[/EN#230206/people A man] holding [/EN#230208/other a fishing pole] and [/EN#230209/other tackle box] walking in from [/EN#230210/scene the ocean] .
+[/EN#230206/people a man] in [/EN#230214/clothing a yellow cap] is on [/EN#230207/scene the beach] carrying [/EN#230208/other a fishing pole] .
+[/EN#230206/people A fisherman] stands on [/EN#230207/scene the beach] on [/EN#230211/scene a gray day] .
+[/EN#230206/people A Man] with [/EN#230208/other a fishing pole] standing on [/EN#230207/scene a beach] .

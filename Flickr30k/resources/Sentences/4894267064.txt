@@ -1,0 +1,5 @@
+[/EN#215873/people People] walk down [/EN#215871/scene a street] in [/EN#215870/scene a metropolitan area] where [/EN#215872/other graffiti] can be seen .
+[/EN#215867/people A woman] in [/EN#215877/clothing black] walks down [/EN#215871/scene the street] in front of [/EN#215875/other a graffited wall] .
+[/EN#215867/people A lady] is wearing [/EN#215874/clothing a black shirt] carrying [/EN#215876/other an item] in [/EN#215878/bodyparts/people her right arm] .
+[/EN#215868/people 2 woman] walking down [/EN#215870/scene the street] next to [/EN#215872/other graffiti]
+[/EN#215867/people pedestrian] walking on [/EN#215871/scene the street]

@@ -1,0 +1,5 @@
+[/EN#95510/people A lifeguard] with [/EN#95515/clothing a hat] and [/EN#95516/clothing red shorts] is sitting on [/EN#95511/other a rail] , looking at [/EN#95512/scene the water] .
+[/EN#95510/people A lifeguard] is sitting on [/EN#95511/other a rail] , looking out into [/EN#95512/scene the ocean] .
+[/EN#95510/people The lifeguard] is staring into [/EN#95512/scene the calm water] from [/EN#95513/scene his stand] .
+[/EN#95510/people A lifeguard] sitting on [/EN#95511/other the railing] and watching [/EN#95512/scene the water] .
+[/EN#95510/people A lifeguard] looks across [/EN#95512/scene the water] from [/EN#95513/scene his tower] .

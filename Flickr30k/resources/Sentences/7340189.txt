@@ -1,0 +1,5 @@
+[/EN#268687/people A large man] with [/EN#268693/clothing a red shirt] is using [/EN#268691/other a shovel] to attack [/EN#268692/people another man] with [/EN#268698/clothing a gray top] [/EN#0/notvisual who] is using [/EN#268688/other the lid of a grill] as [/EN#268688/other a shield] .
+[/EN#268687/people A woman] in [/EN#268693/clothing a red shirt] scraping out [/EN#268688/other the top of a barbecue pit] with [/EN#268694/other a shovel] while [/EN#268692/people the man] holds [/EN#0/notvisual it] in [/EN#0/notvisual the air] .
+[/EN#268687/people A man] in [/EN#268693/clothing a red shirt] is holding up [/EN#268694/other a shovel] while [/EN#268687/people another man] blocks [/EN#0/notvisual it] with [/EN#268688/other a black shield] .
+[/EN#268697/people Two males] are fighting with [/EN#268694/other a shovel] and [/EN#268688/other the top of a grill] .
+[/EN#268687/people Bearded man] hitting [/EN#268688/other a grill cover] with [/EN#268691/other a shovel] .

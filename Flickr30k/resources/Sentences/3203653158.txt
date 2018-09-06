@@ -1,0 +1,5 @@
+[/EN#100759/people An African person] standing in [/EN#100760/scene a wheat field] .
+[/EN#100759/people African man] standing in [/EN#100760/scene a field] outside .
+[/EN#100759/people African woman] walking through [/EN#100760/scene field] .
+[/EN#100759/people An african man] walks across [/EN#100760/scene a field] .
+[/EN#100759/people An African] walks through [/EN#100760/scene a field] .

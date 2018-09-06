@@ -1,0 +1,5 @@
+[/EN#258900/people A pitcher] , wearing [/EN#258903/clothing a dark green jersey] and [/EN#258905/clothing a green and yellow cap] , is delivering [/EN#258906/scene a pitch] and is pictured in [/EN#0/notvisual his] follow through [/EN#258908/other motion] .
+[/EN#258900/people A man] wearing [/EN#258905/clothing a green and golden yellow baseball cap] appears to have thrown [/EN#258901/other the baseball] .
+[/EN#258900/people A man] wearing [/EN#258904/clothing a green shirt] , standing on [/EN#258907/other a pitcher 's mound] has just thrown [/EN#258901/other a ball] .
+[/EN#258900/people A baseball pitcher] wearing [/EN#258902/clothing a green uniform] throws [/EN#258906/scene a pitch] .
+[/EN#258900/people A guy] in [/EN#258902/clothing a baseball uniform] throwing [/EN#258906/scene a pitch] .

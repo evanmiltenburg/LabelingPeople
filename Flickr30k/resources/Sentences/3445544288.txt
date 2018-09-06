@@ -1,0 +1,5 @@
+[/EN#118895/other An empty chairlift] and [/EN#118894/other a chairlift] occupied by [/EN#118893/people two people] are moving .
+[/EN#118893/people Two people] are riding [/EN#118896/scene a ski lift] with [/EN#118897/scene mountains] behind [/EN#0/notvisual them] .
+[/EN#118893/people Two people] are in [/EN#118898/vehicles a sky carriage] .
+[/EN#118893/people Skiers] riding [/EN#118894/other a ski carousel]
+[/EN#118893/people Two people] on [/EN#118894/other a ski-lift] .

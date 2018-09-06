@@ -1,0 +1,5 @@
+[/EN#174581/animals Large brown dog] jumps over [/EN#174582/other a low tree trunk] in [/EN#174583/scene a wooded area] .
+[/EN#174581/animals A large dog] jumping over [/EN#174584/other a fallen tree] in [/EN#174583/scene the forest] .
+[/EN#174581/animals/people The German Shepherd] is jumping over [/EN#174582/other a fallen tree] .
+[/EN#174581/animals A dog] leaps over [/EN#174582/other a tree] fallen in [/EN#174583/scene the forest] .
+[/EN#174581/animals a dog] jumping over [/EN#174582/other a fallen tree] in [/EN#174583/scene the forest]

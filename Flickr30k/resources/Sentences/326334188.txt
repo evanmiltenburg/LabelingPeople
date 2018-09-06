@@ -1,0 +1,5 @@
+[/EN#105459/people a man] wearing [/EN#105460/clothing a blue hard hat] with [/EN#105463/other a lamp] is standing in [/EN#105462/other a crevice of a cave] .
+[/EN#105459/people A man] with [/EN#105460/clothing a blue hat] with [/EN#105463/other a headlamp] on [/EN#0/notvisual it] is standing in [/EN#105462/other a cave] .
+[/EN#105459/people A worker] wearing [/EN#105460/clothing a hard hat] is working inside [/EN#105461/other a cave] .
+[/EN#105459/people A man] with [/EN#105463/other headlight gear] is standing in [/EN#105461/other a cave] .
+[/EN#105459/people A man] exploring [/EN#105461/other a cave] .

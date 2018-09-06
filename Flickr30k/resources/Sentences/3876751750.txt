@@ -1,0 +1,5 @@
+[/EN#146632/people A man] is wearing [/EN#146638/clothing black and yellow] with [/EN#146641/clothing a black and yellow helmet] riding [/EN#146634/vehicles a mountain bike] .
+[/EN#146632/people A bicyclist] is focused on [/EN#146640/other his ride] as [/EN#0/notvisual he] passes [/EN#146636/scene a lake] surrounded by [/EN#146639/scene hills] .
+[/EN#146632/people A cyclist] pedaling [/EN#146634/vehicles his bike] up [/EN#146635/scene a dirt road] near [/EN#146633/scene a body of water] .
+[/EN#146632/people A cyclist] is on [/EN#146634/vehicles his bicycle] in [/EN#146637/scene a rural setting] .
+[/EN#146632/people Mountain biker] biking besides [/EN#146633/scene a lake] .

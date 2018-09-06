@@ -1,0 +1,5 @@
+[/EN#87774/people A person] wearing [/EN#87777/clothing a hat] and concealing [/EN#87779/clothing clothing] is on [/EN#87776/vehicles a bicycle] carrying [/EN#87778/other a large amount of products] on [/EN#87780/other the back] with [/EN#87785/people a large group of bicyclers] behind [/EN#0/notvisual her] .
+[/EN#87774/people Person] on [/EN#87775/vehicles a bike] wearing [/EN#87777/clothing a cone hat] , with [/EN#87778/other different items] in [/EN#87775/vehicles the front basket of the bike] and tied to [/EN#87780/vehicles the back of the bike] .
+[/EN#87774/people A person] in [/EN#87782/clothing a black jacket] and [/EN#87786/clothing white gloves] is riding [/EN#87775/vehicles a bike] with [/EN#87783/vehicles a bunch of traffic] in [/EN#0/notvisual the background] .
+[/EN#87774/people woman] in [/EN#87777/clothing a hat] and [/EN#87779/clothing mask] on [/EN#87775/vehicles a bike] [/EN#0/notvisual that] is full of [/EN#87778/other carpets] and [/EN#87778/other other things] .
+[/EN#87774/people An ordinary person] [/EN#0/notvisual that] lives in [/EN#87781/other Vietnam] .

@@ -1,0 +1,5 @@
+[/EN#11231/animals The light brown dog] and [/EN#11230/animals dark brown dog] are running in [/EN#11233/scene the green grass] .
+[/EN#11230/animals A brown dog] chases [/EN#11231/other a blond one] in [/EN#11233/scene the grass] .
+[/EN#11231/animals One dog] chases [/EN#0/notvisual another] on [/EN#11233/scene the green grass] .
+[/EN#11232/animals Two brown dogs] are running on [/EN#11233/scene the grass] .
+[/EN#11232/animals The dogs] are running through [/EN#11233/scene the yard] .

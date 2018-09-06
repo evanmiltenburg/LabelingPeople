@@ -1,0 +1,5 @@
+[/EN#37692/people A worker] in [/EN#37694/clothing a blue collared shirt] and [/EN#37695/clothing black pants] walking by [/EN#37693/other his orange work van] .
+[/EN#37692/people A gloved man] is walking on [/EN#37696/scene a sidewalk] near [/EN#37693/other an orange van] .
+[/EN#37692/people A man] is walking next to [/EN#37693/other an orange van] .
+[/EN#37692/people A man] is walking towards [/EN#37693/other an orange van] .
+[/EN#37692/people A man] walking next to [/EN#37693/other an orange van] .

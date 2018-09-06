@@ -1,0 +1,5 @@
+[/EN#111743/people A worker] in [/EN#111747/clothing an orange work suit] is kneeling down inspecting [/EN#111746/other a piece of machinery] .
+[/EN#111743/people A man] in [/EN#111747/clothing heavy clothing] with [/EN#111746/other a cart of tools] bending to inspect [/EN#111750/scene the floor]
+[/EN#111743/people A guy] bending over checking under [/EN#111745/other some stage lights] .
+[/EN#111743/people A man] in [/EN#111747/clothing orange] working under [/EN#111749/other dim lighting] .
+[/EN#111743/people A man] working on [/EN#111744/other a machine] .

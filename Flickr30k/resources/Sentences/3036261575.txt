@@ -1,0 +1,5 @@
+[/EN#89139/people A man] with [/EN#89140/clothing a black suit] and [/EN#89141/people a woman] in [/EN#89142/clothing a white dress] holding [/EN#89143/other red flowers] and [/EN#89144/other her marriage certificate] got married .
+[/EN#89139/people A man] and [/EN#89141/people a woman] standing in [/EN#89146/scene a chapel] with [/EN#89144/other their marriage license] .
+[/EN#0/notvisual This] is [/EN#89139/people a man] and [/EN#89141/people woman] [/EN#0/notvisual who] are holding up [/EN#89144/other a marriage certificate] .
+[/EN#89145/people newlywed couple] is posing with [/EN#89144/other their marriage certificate] .
+[/EN#89139/people A man] and [/EN#89141/people woman] holding [/EN#89144/other a marriage certificate] .

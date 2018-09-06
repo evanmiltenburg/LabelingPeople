@@ -1,0 +1,5 @@
+[/EN#2211/people A woman] dressed in [/EN#2212/clothing a blue jacket] and [/EN#2217/clothing blue jeans] rides [/EN#2213/animals a brown horse] near [/EN#2214/scene a frozen lake] and [/EN#2215/scene snow-covered mountain] .
+[/EN#2211/people A young blond woman] sitting atop [/EN#2213/animals a brown draft horse] in [/EN#2215/scene the snowy mountains] .
+[/EN#2211/people A woman] rides [/EN#2213/animals a horse] near [/EN#2214/scene a frozen lake] in [/EN#2218/other the winter time] .
+[/EN#2216/clothing Woman n blue jacket] sits on [/EN#2213/animals daft horse] near [/EN#2214/scene a frozen lake] .
+[/EN#2211/people A woman] in [/EN#2212/clothing a blue jacket] rides [/EN#2213/animals a brown pony] near [/EN#2214/scene water] .

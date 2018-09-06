@@ -1,0 +1,5 @@
+[/EN#143012/people A man] in [/EN#143014/clothing a red t-shirt] , [/EN#143015/clothing jeans] and [/EN#143016/clothing white sneakers] standing in front of [/EN#143013/other an ATM machine] .
+[/EN#143012/people A man] in [/EN#143014/clothing a red shirt] is standing in front of [/EN#143013/other a blue ATM machine] .
+[/EN#143012/people man] wearing [/EN#143014/clothing red shirt] and [/EN#143015/clothing jeans] at [/EN#143013/other an atm]
+[/EN#143012/people A man] in [/EN#143014/clothing a red t-shirt] is using [/EN#143013/other an ATM] .
+[/EN#143012/people A man] standing at [/EN#143013/other a blue ATM]

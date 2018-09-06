@@ -1,0 +1,5 @@
+[/EN#246013/people A man] leads [/EN#246016/animals a donkey] at [/EN#0/notvisual what] appears to be [/EN#246014/scene a petting zoo] while [/EN#246023/other others] clap at [/EN#246017/scene another event] .
+[/EN#246013/people The Burro handler] in taking [/EN#246021/other the burros] back to [/EN#246024/scene their stall] for [/EN#246022/other dinner] and [/EN#246018/other a rest] .
+[/EN#246013/people A man] leads [/EN#246015/animals two donkeys] on [/EN#246019/other a rope] while [/EN#246025/people three women] clap in [/EN#0/notvisual the background] .
+[/EN#246013/people A man] is leading [/EN#246015/animals two small ponies] on [/EN#246020/other a walk] at [/EN#246014/scene a park] .
+[/EN#246013/people A guy] walking [/EN#246015/animals two donkeys] at [/EN#246014/scene a park] .

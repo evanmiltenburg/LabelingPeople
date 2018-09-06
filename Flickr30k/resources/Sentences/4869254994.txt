@@ -1,0 +1,5 @@
+[/EN#213218/people A person] is walling through [/EN#213217/scene a lit tunnel] with [/EN#213219/other a green railing] running down [/EN#213221/scene the middle] .
+[/EN#213218/people A woman] with [/EN#213223/bodyparts long brown hair] walking down [/EN#213217/scene an eerie tunnel] .
+[/EN#213218/people Person] walking down [/EN#213217/scene lighted tunnel] with [/EN#213219/other green handrail] .
+[/EN#213217/scene A long tunnel] with [/EN#213220/other lighting and graffiti] on [/EN#213222/other the walls] .
+[/EN#213218/people A person] walks through [/EN#213217/scene a tunnel]

@@ -1,0 +1,5 @@
+[/EN#81690/people An athlete] is running down [/EN#81693/scene the road] with [/EN#81694/other the number] " [/EN#81688/other 12] " taped to [/EN#81692/clothing the front of his shirt] .
+[/EN#81690/people A man] in [/EN#81692/clothing blue shirt] , [/EN#81696/clothing black shorts] , [/EN#81697/clothing black gloves] , running in [/EN#81693/scene a city street]
+[/EN#81690/people A man] with [/EN#81694/other a number 12] on [/EN#81700/bodyparts his chest] is mid-stride while running [/EN#81689/other a race] .
+[/EN#81690/people A man] is running down [/EN#81693/scene the street] in [/EN#81698/clothing running shoes] , [/EN#81696/clothing shorts] , and [/EN#81692/clothing shirt] .
+[/EN#81690/people A runner] in [/EN#81691/clothing a black and blue uniform] competes in [/EN#81689/other a race] .

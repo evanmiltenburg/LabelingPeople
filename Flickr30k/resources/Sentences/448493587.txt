@@ -1,0 +1,5 @@
+[/EN#172326/animals A show horse] being ridden by [/EN#172325/people a woman] in [/EN#172333/clothing jockey clothes] is about to jump over [/EN#172330/other a white steeple] on [/EN#172335/scene a green field] in front of [/EN#172336/scene a parking lot] with [/EN#172332/other camper vans] in [/EN#0/notvisual it] .
+[/EN#172325/people A person] with [/EN#172328/clothing a blue helmet] on with [/EN#172331/clothing black boots] , [/EN#0/notvisual who] is riding [/EN#172326/animals a horse] .
+[/EN#172325/people A young rider] on [/EN#172326/animals a white horse] about to jump [/EN#172327/other a hurdle] .
+[/EN#172326/animals Horse] jumping [/EN#172330/other 3 tiers of poles] at [/EN#172329/other a horse exhibition] .
+[/EN#172325/people Performer] riding [/EN#172326/animals her horse] over [/EN#0/notvisual a jump] .

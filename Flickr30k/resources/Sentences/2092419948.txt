@@ -1,0 +1,5 @@
+[/EN#28234/people A long-haired man] walking away beside [/EN#28235/other a canal whist] holding onto [/EN#28239/other a railing] .
+[/EN#28234/people a person] with [/EN#28236/bodyparts a long ponytail] walks along [/EN#28238/scene a waterway] under [/EN#28240/scene a tunnel]
+[/EN#28234/people A person] walks by [/EN#28242/scene some blue-green water] while holding [/EN#28239/other a rail] .
+[/EN#28234/people The man] with [/EN#28236/bodyparts long hair] is walking along [/EN#28235/other a storm drain] .
+[/EN#28234/people A man] walks down [/EN#28237/scene a path] next to [/EN#28237/scene a waterway] .

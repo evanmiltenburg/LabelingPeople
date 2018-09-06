@@ -1,0 +1,5 @@
+[/EN#39563/people a woman] in [/EN#39566/clothing a blue tennis dress] getting ready to hit [/EN#39572/other an incoming ball]
+[/EN#39563/people A lady] wearing [/EN#39567/clothing blue] and [/EN#39571/people a lady] wearing [/EN#39575/clothing white] are playing [/EN#39568/other tennis] .
+[/EN#39564/people The ladies] are prepared to hit [/EN#39574/other the ball] when [/EN#0/notvisual it] comes .
+[/EN#39569/people A man] and [/EN#39563/people a woman] in [/EN#39566/clothing a blue dress] are playing [/EN#39568/other tennis] .
+[/EN#39570/people Two females] play [/EN#39568/other doubles tennis] on [/EN#39573/other a orange court] .

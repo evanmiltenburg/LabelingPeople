@@ -1,0 +1,5 @@
+[/EN#41550/people Two guys] standing on [/EN#41552/scene a soccer field] , [/EN#41554/other one] is drinking [/EN#41551/other something] from [/EN#41553/other a water bottle] and talking to [/EN#0/notvisual each other] .
+[/EN#41550/people Two male soccer players] standing on [/EN#41552/scene a field] , with [/EN#41553/other bottles of liquid] at [/EN#41557/bodyparts their feet] , while [/EN#41554/other one] takes [/EN#41555/other a sip] .
+[/EN#41550/people Two male soccer players] , wearing [/EN#41558/clothing burgundy pants] and [/EN#41559/clothing socks] , are drinking from [/EN#41553/other blue bottles] .
+[/EN#41550/people Two players] from [/EN#41550/people the same team] drinking in [/EN#41552/scene the field] .
+[/EN#41550/people Two male soccer players] are resting to take [/EN#41551/other a drink] .

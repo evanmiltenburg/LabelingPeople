@@ -1,0 +1,5 @@
+[/EN#191997/people A woman] in [/EN#192005/clothing a white shirt] , with [/EN#192007/clothing white shorts] and [/EN#192001/clothing white high heeled shoes] walks past [/EN#192000/people a man] in [/EN#192002/clothing a black shirt] and [/EN#191999/other a black and white graffiti wall painting] .
+[/EN#191997/people A woman] dressed in [/EN#192004/clothing all white and heels] is walking in front of [/EN#191999/other a wall] with [/EN#191999/other a mural] on [/EN#0/notvisual it] .
+[/EN#191997/people A woman] in [/EN#192001/clothing high heels] and [/EN#192000/people a man] in [/EN#192006/clothing jeans] walk past [/EN#191999/other a black and white wall mural] .
+[/EN#191997/people A woman] in [/EN#192003/clothing all white] walking down [/EN#192008/scene the street] .
+[/EN#191997/people The lady] is dressed in white .

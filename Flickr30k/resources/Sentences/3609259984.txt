@@ -1,0 +1,5 @@
+[/EN#131319/people A man] in [/EN#131321/clothing a blue shirt] and [/EN#131325/clothing jeans] appears to be sleeping on [/EN#131322/other a chair] outside of [/EN#131329/scene a building] next to [/EN#131323/other an orange safety cone] and [/EN#131324/other a sign] [/EN#0/notvisual that] says , " OUVERT. "
+[/EN#131319/people A young man] sleeps in front of [/EN#131320/other a blue door] and behind [/EN#131323/other an orange cone] bearing [/EN#131324/other a sign] [/EN#0/notvisual that] says , " [/EN#131326/other Ouvert] " .
+[/EN#131319/people A Man] on [/EN#131322/other a chair] with [/EN#131321/clothing a short-sleeve shirt] and [/EN#131325/clothing jeans] and rain [/EN#131327/clothing boots] .
+[/EN#131319/people A young man] is napping at [/EN#131328/other work] on [/EN#131322/other a chair] outside [/EN#131320/other the door] .
+[/EN#131319/people A man] in [/EN#131325/clothing blue jeans] rests in [/EN#131322/other a chair] .

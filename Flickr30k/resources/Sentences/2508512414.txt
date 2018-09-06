@@ -1,0 +1,5 @@
+[/EN#54114/people A man] in [/EN#54121/clothing a suit] presents [/EN#54118/other a powerpoint presentation] as [/EN#54116/people a woman] sits nearby , operating [/EN#54115/other the computer] .
+[/EN#54114/people A man] in [/EN#54121/clothing a suit] is giving [/EN#54118/other a presentation] while [/EN#54116/people a lady] in [/EN#54122/clothing a black and white top] sits .
+[/EN#54114/people A man] talking in [/EN#54117/other a meeting] with [/EN#54116/people a woman] on [/EN#54115/other a laptop] beside [/EN#54118/other a projector screen] .
+[/EN#54114/people A man] in [/EN#54121/clothing a suit] is giving [/EN#54124/other a presentation] inside [/EN#54125/scene a building] .
+[/EN#54114/people Man] using [/EN#54118/other powerpoint] while giving [/EN#54123/other a lecture] .

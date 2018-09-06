@@ -1,0 +1,5 @@
+[/EN#283874/people A boy] and [/EN#283875/animals a large dog] stand on [/EN#283876/scene a dock] watching [/EN#283877/animals another dog] swim in [/EN#283878/scene the water] .
+[/EN#283874/people a boy] in [/EN#283879/clothing a white shirt] and [/EN#283875/animals a black dog] looking at [/EN#283877/animals another dog] in [/EN#283878/scene the water]
+[/EN#283874/people A boy] and [/EN#283875/animals a dog] on [/EN#283876/scene a dock] are watching [/EN#283877/animals another dog] swim away .
+[/EN#283874/people A boy] and [/EN#283875/animals his dog] are watching [/EN#283880/other an object] in [/EN#283878/scene the water] .
+[/EN#283874/people A boy] and [/EN#283875/animals a dog] stand on [/EN#283876/scene a dock] watching [/EN#283877/animals another dog] .

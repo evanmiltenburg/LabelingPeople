@@ -1,0 +1,5 @@
+[/EN#9998/people A man] with [/EN#10002/bodyparts a long black hair] and [/EN#10004/bodyparts beard] , wearing [/EN#10008/clothing a black shirt] is sitting on [/EN#10006/other rocks] within [/EN#10001/scene a fenced in enclosure] while holding [/EN#10007/animals the paw of a young polar bear] .
+[/EN#9998/people A man] sits outdoors comfortably with [/EN#10005/bodyparts his arms] around [/EN#10003/animals a pale bear] .
+[/EN#9998/people man] sitting in [/EN#10000/scene a wild life scene] playing with [/EN#10003/animals a polar bear] .
+[/EN#9998/people A balding man] is petting [/EN#10003/animals a white panda] in [/EN#10000/scene a zoo] .
+[/EN#9998/people A bearded man] cuddles with [/EN#10003/animals a bear] at [/EN#10000/scene the zoo] .

@@ -1,0 +1,5 @@
+[/EN#202214/people An elderly man] in [/EN#202217/clothing Arab clothes] is walking down [/EN#202218/scene a sidewalk] with [/EN#202215/other a cane] .
+[/EN#202214/people A man] with [/EN#202219/bodyparts a white head] covering is walking down [/EN#202216/other some stone steps] .
+[/EN#202214/people A man] with [/EN#202215/other a cane] walking down [/EN#202216/other stairs] .
+[/EN#202214/people a man] is walking with [/EN#202215/other a cane] .
+[/EN#202214/people A man] walking with [/EN#202215/other a cane] .

@@ -1,0 +1,5 @@
+[/EN#247606/people Girl] in [/EN#247607/other a blue sweater painting] while looking at [/EN#247611/animals a bird] in [/EN#247608/other a book] .
+[/EN#247606/people A young girl] practices drawing by copying [/EN#247609/other a picture] from [/EN#247608/other a book] .
+[/EN#247606/people A girl] in [/EN#247607/clothing a blue shirt] is painting [/EN#247609/other a picture] .
+[/EN#0/notvisual There] is [/EN#247606/people a girl] creating [/EN#247610/other art] in [/EN#247609/other this picture] .
+[/EN#247606/people a girl] with [/EN#247607/other a blue shirt painting]

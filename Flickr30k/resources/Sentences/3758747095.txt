@@ -1,0 +1,5 @@
+[/EN#141510/people A very young boy] is sitting in [/EN#141510/other a swing] in [/EN#141511/scene a park] , smiling and posing with [/EN#141515/bodyparts his arms] above [/EN#0/notvisual him] grabbing [/EN#141514/other the swing cables] .
+[/EN#141510/people A young boy] , wearing [/EN#141513/clothing a yellow shirt] , is sitting on [/EN#141510/other a swing] and holding on at [/EN#141511/scene a park] .
+[/EN#141510/people little boy] in [/EN#141511/scene a playground] sitting on [/EN#141510/other swing] set
+[/EN#141510/people Little boy] on [/EN#141510/other a swing] wearing [/EN#141513/clothing a yellow shirt] .
+[/EN#141510/people A boy] playing on [/EN#141510/other a swing] .

@@ -1,0 +1,5 @@
+[/EN#52598/animals Two black dogs] run into [/EN#52600/scene the white waves] on [/EN#52599/scene a beach] .
+[/EN#52598/animals Two black dogs] are jumping in [/EN#52600/scene waves] at [/EN#52599/scene the beach]
+[/EN#52598/animals Two black dogs] play in [/EN#52600/scene the waves] at [/EN#52599/scene the beach] .
+[/EN#52598/animals Two dog] are playing [/EN#52600/scene the waves] at [/EN#52599/scene a beach] .
+[/EN#52598/animals Two dogs] are running around in [/EN#52600/scene the water] .

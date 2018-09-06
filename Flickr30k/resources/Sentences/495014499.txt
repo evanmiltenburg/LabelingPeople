@@ -1,0 +1,5 @@
+[/EN#222238/people Man] standing on [/EN#222244/scene a street] with [/EN#222243/clothing a green red] and [/EN#222241/other yellow flag] wrapped around [/EN#0/notvisual him] and [/EN#222239/clothing a cap] on [/EN#222246/bodyparts his head] .
+[/EN#222238/people Man] wrapped in [/EN#222241/other flag] stands in [/EN#222240/scene city intersection] , lit [/EN#222245/other billboards] in [/EN#0/notvisual background] .
+[/EN#222238/people A man] in [/EN#222239/clothing a ball cap] stands in [/EN#222240/scene a crosswalk] with [/EN#222241/other a flag] in [/EN#222242/scene a crowded city] .
+[/EN#222238/people A man] holding [/EN#222241/other a flag] is standing on [/EN#222240/scene a busy sidewalk] .
+[/EN#222238/people A man] stands on [/EN#222240/scene a crosswalk] holding [/EN#222241/other a flag] .

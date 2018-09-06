@@ -1,0 +1,5 @@
+[/EN#78638/people A man] dressed in [/EN#78640/clothing white sports attire] and [/EN#78647/clothing white headband] looks toward [/EN#78648/scene a sports event] being played on [/EN#78649/scene green grass] .
+[/EN#78638/people A young man] clad in [/EN#78643/clothing a jersey] and [/EN#78645/clothing shorts] watches [/EN#78641/people some Ultimate Frisbee players] in [/EN#78642/other action] .
+[/EN#78638/people A young man] watches [/EN#78639/other the Ultimate Frisbee game] being played before [/EN#0/notvisual him] .
+[/EN#78638/people A man] in [/EN#78646/clothing white] playing [/EN#78639/other Frisbee] with [/EN#78641/people some friends] .
+[/EN#78638/people A man] in [/EN#78640/clothing a sports uniform] watching [/EN#78644/other a play] .

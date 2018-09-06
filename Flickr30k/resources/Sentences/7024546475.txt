@@ -1,0 +1,5 @@
+[/EN#264097/people A kid] is using [/EN#264099/other a screwdriver] on [/EN#0/notvisual what] looks to be [/EN#264098/other a typewriter] .
+[/EN#264097/people A child] is either screwing or unscrewing [/EN#264100/other a screw] on [/EN#264098/other a machine] .
+[/EN#264097/people Young child] using [/EN#264101/other tools] on [/EN#264098/other a machine] .
+[/EN#264097/people A young child] turning [/EN#264099/other a screwdriver] .
+[/EN#264097/people A young boy] is fixing [/EN#264098/other a typewriter] .

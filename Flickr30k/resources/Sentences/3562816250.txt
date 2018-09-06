@@ -1,0 +1,5 @@
+[/EN#127905/people A man] with [/EN#127906/animals a black dog] sitting in [/EN#127907/other a yellow kayak] on [/EN#0/notvisual that] is floating on [/EN#127908/scene calm water] .
+[/EN#127905/people A person] sits in [/EN#127907/other a yellow kayak] on [/EN#127908/scene the water] with [/EN#127912/animals their little dog] .
+[/EN#127905/people A woman] in [/EN#127907/other a kayak] with [/EN#127906/animals dog] rests [/EN#127911/other her paddle] over [/EN#127913/bodyparts her head] .
+[/EN#127905/people A woman] is kayaking in [/EN#127907/other a yellow kayak] with [/EN#127906/animals her dog] .
+[/EN#127905/people A woman] kayaking with [/EN#127906/animals her small dog]

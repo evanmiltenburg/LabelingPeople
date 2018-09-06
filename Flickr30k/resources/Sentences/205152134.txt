@@ -1,0 +1,5 @@
+[/EN#25920/people Two street workers] in [/EN#25921/clothing yellow jackets] next to [/EN#25922/vehicles a yellow truck] in front of [/EN#25923/scene a gray building] where [/EN#25924/people two men] under [/EN#25925/clothing an umbrella] are holding [/EN#25926/other a camera] on [/EN#25927/other a tripod] .
+[/EN#25920/people Two construction workers] wearing [/EN#25921/clothing yellow jackets] work on [/EN#25933/bodyparts their hands] and [/EN#25928/bodyparts knees] on [/EN#25929/scene a street] during [/EN#25930/scene the day] .
+[/EN#25920/people Workers] kneel on [/EN#0/notvisual the ground] near [/EN#25922/vehicles a yellow truck] and [/EN#25931/other red and white barricades] .
+[/EN#25920/people Worker men] labor in [/EN#25932/scene the city] while being watched by [/EN#25924/people onlookers] .
+[/EN#25920/people Some men] are fixing [/EN#25935/other something] in [/EN#25929/scene the middle of a street] .

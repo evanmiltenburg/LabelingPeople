@@ -1,0 +1,5 @@
+[/EN#256777/people A girl] wearing [/EN#256778/clothing a red and multicolored bikini] is laying on [/EN#256780/other her back] in [/EN#256777/scene shallow water] .
+[/EN#256777/people Girl] wearing [/EN#256778/clothing a bikini] lying on [/EN#256780/other her back] in [/EN#256777/scene a shallow pool of clear blue water] .
+[/EN#256777/people A young girl] is lying in [/EN#256777/other the sand] , while [/EN#256777/scene ocean water] is surrounding [/EN#0/notvisual her] .
+[/EN#256777/people A little girl] in [/EN#256778/clothing a red swimsuit] is laying on [/EN#256780/other her back] in [/EN#256777/scene shallow water] .
+[/EN#256777/people A girl] is stretched out in [/EN#256777/scene shallow water]

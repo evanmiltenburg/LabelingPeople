@@ -1,0 +1,5 @@
+[/EN#30631/people An adult] ice skating with [/EN#30633/people a small child] with [/EN#30637/clothing a red shirt] on [/EN#30636/other an ice] skating [/EN#30635/other rink] .
+[/EN#30631/people An adult] helping [/EN#30633/other a child ice skate] together on [/EN#30635/other a dark rink] .
+[/EN#30631/people An adult] is holding up [/EN#30633/people a child] [/EN#0/notvisual who] is trying to ice [/EN#30632/other skate] .
+[/EN#30631/people A mom] is helping [/EN#30633/people her son] to [/EN#30632/other Rollerblade] .
+[/EN#30631/people A man] helping [/EN#30633/other a young child rollerskate] .

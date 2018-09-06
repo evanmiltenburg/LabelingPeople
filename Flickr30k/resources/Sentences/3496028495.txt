@@ -1,0 +1,5 @@
+[/EN#122554/animals A brown dog] swims back to [/EN#122558/scene shore] after retrieving [/EN#122556/other a yellow tennis ball] .
+[/EN#0/notvisual There] is [/EN#122554/animals a brown dog] swimming outside with [/EN#122556/other a tennis ball] in [/EN#122557/bodyparts its mouth] .
+[/EN#122554/animals A brown dog] swimming in [/EN#122555/scene the water] with [/EN#122556/other a tennis ball] in [/EN#122557/bodyparts his mouth] .
+[/EN#122554/animals a brown labradoodle] retrieves [/EN#122556/other a tennis ball] in [/EN#122555/scene a lake]
+[/EN#122554/animals The brown dog] is swimming .

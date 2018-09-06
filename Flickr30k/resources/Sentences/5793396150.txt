@@ -1,0 +1,5 @@
+[/EN#243137/people A police officer] is riding [/EN#243139/animals his horse] down [/EN#243138/scene a city street] during [/EN#243143/scene the day] .
+[/EN#243137/people A police officer] is riding [/EN#243139/animals his horse] through [/EN#243138/scene an intersection of a town] .
+[/EN#243137/people Two police officers] are riding around on [/EN#243139/animals horses] in [/EN#243138/scene the street] .
+[/EN#243137/people A police officer] is riding [/EN#243139/animals a horse] through [/EN#243138/scene the street] .
+[/EN#243137/people Cop] riding [/EN#243139/animals a horse] on [/EN#243138/scene the street] .

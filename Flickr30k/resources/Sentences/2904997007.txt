@@ -1,0 +1,5 @@
+[/EN#80414/people A little boy] jumps off of [/EN#80415/other a bunk bed] onto [/EN#80416/other another bed] .
+[/EN#80414/people a young boy] jumping from [/EN#80415/other a bunk bed] on [/EN#80416/other a smaller bed] .
+[/EN#80414/people A small boy] jumps from [/EN#80415/other a bunk bed] onto [/EN#80416/other a single bed] .
+[/EN#80414/people A little boy] jumps high off [/EN#80415/other his bed] .
+[/EN#80414/people A child] leaping toward [/EN#80416/other a red bed] .

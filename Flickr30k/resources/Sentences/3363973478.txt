@@ -1,0 +1,5 @@
+[/EN#112933/people Two people] are in [/EN#112932/other a rowboat] on [/EN#112934/scene a rock-lined lake] , [/EN#112938/other one] wearing [/EN#112935/clothing a yellow shirt] and rowing , and [/EN#112940/other the other] sitting in [/EN#112937/vehicles/scene the front of the boat] .
+[/EN#112933/people Two boys] paddle across [/EN#112934/scene the water] with [/EN#112942/other fishing nets] , [/EN#112938/other one] wearing [/EN#112935/clothing a long-sleeved yellow shirt] and [/EN#112940/other the other] wearing [/EN#112941/clothing a baggie hoodie] .
+[/EN#112932/vehicles/scene A boat] with [/EN#112933/people two boys] in [/EN#0/notvisual it] , with [/EN#112939/other one] rowing and [/EN#112940/other the other sitting] , is floating down [/EN#112934/scene a river] .
+[/EN#112933/people 2 boys] in [/EN#112932/vehicles/scene a boat] , [/EN#112939/other one] is paddling and [/EN#112940/other the other] is sitting at [/EN#112937/scene front] on [/EN#112934/scene the lake] .
+[/EN#112933/people Two boys] pilot [/EN#112932/other a rowboat] on [/EN#112934/scene a lazy river] .

@@ -1,0 +1,5 @@
+[/EN#42049/people A man] and [/EN#42053/people a woman] ride [/EN#42048/vehicles bicycles] away from [/EN#0/notvisual the camera] as [/EN#0/notvisual they] traverse [/EN#42051/scene a remote area] toward [/EN#42047/scene undulating hills] , with [/EN#42052/scene blue sky] in [/EN#0/notvisual the background] .
+[/EN#42045/people Two people] bicycle on [/EN#42050/scene a path] separated by [/EN#42047/scene small mountains] .
+[/EN#42045/people Two people] riding [/EN#42048/vehicles bikes] through [/EN#42046/scene a mountainous region] .
+[/EN#42045/people Two cyclists] traverse [/EN#42046/scene a green terrain] .
+[/EN#42045/people Two people] are riding [/EN#42048/vehicles bikes] up [/EN#42047/scene a hill]

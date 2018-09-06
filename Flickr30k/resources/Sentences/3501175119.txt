@@ -1,0 +1,5 @@
+[/EN#123113/people Two women] sit at [/EN#123114/other a bench] in [/EN#123115/scene a small park] , [/EN#123122/other one] in [/EN#123116/clothing a blue dress] , [/EN#123123/other the other] in [/EN#123119/clothing a white dress]
+[/EN#123113/people Two women] , [/EN#123121/other both of whom] are wearing [/EN#123120/clothing blue dresses] are sitting on [/EN#123114/other a bench] in [/EN#123115/scene a courtyard]
+[/EN#123113/people Two women] outside of [/EN#123117/scene the old building] on [/EN#123118/scene the street] sitting in [/EN#123114/other a chair] talking
+[/EN#123113/people two women] are sitting on [/EN#123114/other a park bench] talking to [/EN#0/notvisual each other] .
+[/EN#123113/people Two women] sitting in [/EN#123114/other a green bench] .

@@ -1,0 +1,5 @@
+[/EN#116501/people A woman] on [/EN#116502/vehicles a bicycle] stops by [/EN#116500/people a man] [/EN#0/notvisual who] is sitting on [/EN#116504/other a chair] holding [/EN#116508/other a typewriter] on [/EN#116510/bodyparts his lap] .
+[/EN#116500/people A man] in [/EN#116507/clothing a gray jacket] and [/EN#116503/clothing hat] is talking to [/EN#116501/people a brunette woman] in [/EN#116505/clothing a green jacket] on [/EN#116502/vehicles a bike] .
+[/EN#116501/people A woman] on [/EN#116502/vehicles a bike] stops to talk to [/EN#116500/people a gentlemen] sitting on [/EN#116504/other a chair] on [/EN#116506/scene the sidewalk] .
+[/EN#116501/people The woman] in [/EN#116505/clothing a green sweater] and [/EN#116500/people the man] with [/EN#116503/clothing a cap] are on [/EN#116506/scene the side of the road] .
+[/EN#116500/people The man] at [/EN#116506/scene the street corner] is selling [/EN#116509/other poems] .

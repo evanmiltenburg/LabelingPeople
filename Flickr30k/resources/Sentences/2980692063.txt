@@ -1,0 +1,5 @@
+[/EN#85318/people A man] in [/EN#85319/clothing a red shirt] examining [/EN#85320/other a camera] next to [/EN#85321/clothing a briefcase] filled with [/EN#85325/other sponges] .
+[/EN#85318/people A man] in [/EN#85319/clothing a red Vegas shirt] sits [/EN#85324/other a table] playing with [/EN#85320/other his camera] .
+[/EN#85318/people A man] in [/EN#85319/clothing a red shirt] with [/EN#85321/other a suitcase of sponges] holding [/EN#85320/other an item] .
+[/EN#85318/people A man] wearing [/EN#85319/clothing a Vegas shirt] has [/EN#85321/other an open suitcase] beside [/EN#0/notvisual him] .
+[/EN#85318/people A man] wearing [/EN#85319/clothing a red shirt] holds [/EN#85320/other a camera] .

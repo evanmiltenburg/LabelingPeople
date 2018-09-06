@@ -1,0 +1,5 @@
+[/EN#7436/animals A white dog] is jumping in [/EN#0/notvisual the air] attempting to catch [/EN#7437/other a red ball] .
+[/EN#7436/animals A white dog] with [/EN#7440/clothing a blue collar] plays with [/EN#7437/other a red ball] .
+[/EN#7436/animals A dog] jumps for [/EN#7437/other a red ball] on [/EN#7439/scene the grass] .
+[/EN#7436/animals A white dog] jumping to catch [/EN#7437/other a red ball] .
+[/EN#7436/animals The dog] is playing with [/EN#7437/other a red ball] .

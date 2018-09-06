@@ -1,0 +1,5 @@
+[/EN#46547/people A little boy] is sitting on [/EN#46549/scene the edge of the pool] and eating [/EN#46548/other a fruit] .
+[/EN#46547/people A young boy] is sitting by [/EN#46549/scene a pool] with [/EN#46548/other an apple] in [/EN#46550/bodyparts his mouth] .
+[/EN#46547/people A child] in [/EN#46551/clothing green shorts] is eating near [/EN#46549/scene a swimming pool] .
+[/EN#46547/people The young boy] by [/EN#46549/scene the pool] is eating [/EN#46548/other an apple] .
+[/EN#46547/people A little boy] next to [/EN#46549/scene a pool] .

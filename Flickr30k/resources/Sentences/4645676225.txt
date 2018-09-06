@@ -1,0 +1,5 @@
+[/EN#186192/people A person] wearing [/EN#186193/clothing a big hat] and [/EN#186199/clothing yellow boots] is sweeping [/EN#186195/scene the road] after [/EN#186194/other the rains] .
+[/EN#186192/people A man] in [/EN#186197/other bright yellow goulashes] sweeps [/EN#186196/other garbage] from [/EN#186195/scene the street] .
+[/EN#186192/people A worker] , wearing [/EN#186198/other rain gear] , sweeps [/EN#186196/other debris] out of [/EN#186195/scene the street] .
+[/EN#186192/people A worker] is cleaning [/EN#186195/scene the streets] after [/EN#186194/other a heavy rain] .
+[/EN#186192/people Worker] in [/EN#186193/clothing a hat] is sweeping [/EN#186196/other leaves] down [/EN#186195/scene a street] .

@@ -1,0 +1,5 @@
+[/EN#269650/people A skateboarder] wearing [/EN#269651/clothing gray pants] and [/EN#269652/clothing a white shirt] is in [/EN#269650/other mid-leap] with [/EN#269654/bodyparts/people one arm] extended and [/EN#269659/other the other] holding [/EN#269655/other his board] .
+[/EN#269650/people A man] in [/EN#269656/other rollerblades] with [/EN#269657/other knee pads] and [/EN#269658/clothing a helmet] on does [/EN#0/notvisual a trick] in [/EN#0/notvisual the air] .
+[/EN#269650/people A young male skateboarder] is jumping from [/EN#269662/other a great height] onto [/EN#269660/scene a lower floor] .
+[/EN#269650/people A skateboarder] is landing [/EN#0/notvisual a trick] from [/EN#269661/scene a high place] .
+[/EN#269650/people A person] is jumping using [/EN#269656/other rollerblades] .

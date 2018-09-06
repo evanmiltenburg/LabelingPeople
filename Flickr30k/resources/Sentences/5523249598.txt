@@ -1,0 +1,5 @@
+[/EN#238233/people A man] wearing [/EN#238241/clothing yellow overalls] , [/EN#238242/clothing a hat] , and [/EN#238243/clothing a life jacket] , stands in [/EN#238235/vehicles/scene a small boat] full of [/EN#238237/other equipment] .
+[/EN#238233/people A Fisherman] is standing on [/EN#238235/vehicles/scene a boat] waiting for [/EN#238244/animals a fish] to grab [/EN#238238/other his hook] .
+[/EN#238233/people A man] is going fishing on [/EN#238235/vehicles/scene his boat] called [/EN#238236/other ' Melanie] ' .
+[/EN#238233/people A sailor] stands in [/EN#238235/other his small sailboat] .
+[/EN#238233/people A man] is alone in [/EN#238235/vehicles/scene a boat] in [/EN#238240/scene the water] .

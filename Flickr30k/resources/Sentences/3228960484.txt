@@ -1,0 +1,5 @@
+[/EN#102770/people Two children] are walking on [/EN#102772/scene a sidewalk] wearing [/EN#102773/clothing yellow and red backpacks] .
+[/EN#102771/people Two children] are walking along [/EN#102772/scene a street] wearing [/EN#102773/clothing yellow backpacks] .
+[/EN#102771/people two young children] with [/EN#102773/clothing yellow backpacks] walking down [/EN#102772/scene a sidewalk]
+[/EN#102770/people Children] walking on [/EN#102772/scene a sidewalk] with [/EN#102773/clothing yellow backpacks] .
+[/EN#102771/people Two kids] walk up [/EN#102772/scene the sidewalk] with [/EN#102773/clothing their backpacks] .

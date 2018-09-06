@@ -1,0 +1,5 @@
+[/EN#137635/people A dirt bike racer] jumping off [/EN#137637/scene a hill] with [/EN#137636/people another racer] not far behind .
+[/EN#137635/people A bicycle rider] flies over [/EN#137638/scene a hill] while [/EN#137636/people a competitor] is not far behind .
+[/EN#137635/people A motocross rider] is slightly airborne on [/EN#0/notvisual a competition circuit jump] .
+[/EN#137635/people A person] is riding [/EN#137642/vehicles a dirt bike] in [/EN#137641/other a race] on [/EN#137637/scene a dirt track] .
+[/EN#137635/people Dirtbike rider] jumps over [/EN#137637/other a hill of a racetrack] .

@@ -1,0 +1,5 @@
+[/EN#47230/people The cheerleader] in [/EN#47231/clothing red and white] is sitting on [/EN#47232/people the knee of a man] also wearing [/EN#47233/clothing red and white] .
+[/EN#47230/people A female cheerleader] sits on [/EN#47232/people the knee of a male cheerleader] .
+[/EN#47234/people A boy cheerleader] has [/EN#47230/people a girl cheerleader] on [/EN#47232/bodyparts his knee] .
+[/EN#47235/people Two cheerleaders] are sitting at [/EN#47236/other a football game] .
+[/EN#47235/people cheerleaders] taking [/EN#47237/scene a break]

@@ -1,0 +1,5 @@
+[/EN#150235/people A man] with [/EN#150240/other a white button] up [/EN#150240/clothing shirt] and [/EN#150236/clothing dark brown sweater vest] playing [/EN#150237/instruments drums] .
+[/EN#150235/people A young sweaty man] with [/EN#150242/bodyparts facial hair] hits [/EN#150239/other a symbol] .
+[/EN#150235/people A man] in [/EN#150236/clothing a brown vest] playing [/EN#150238/other a drum set] .
+[/EN#150235/people A man] in [/EN#150236/clothing a black vest] playing [/EN#150237/instruments the drums] .
+[/EN#150235/people A bearded man] is playing [/EN#150237/instruments the drums] .

@@ -1,0 +1,5 @@
+[/EN#1492/animals A white dog] is running down [/EN#1494/scene a rocky beach] .
+[/EN#1492/animals Light brown dog] running along [/EN#1494/scene the beach] .
+[/EN#1492/animals A light-colored dog] runs on [/EN#1494/scene the beach] .
+[/EN#1492/animals A small yellow dog] runs on [/EN#1494/scene a beach]
+[/EN#1492/animals A tan dog] runs on [/EN#1494/scene a sandy beach] .

@@ -1,0 +1,5 @@
+[/EN#386/animals White dog] with [/EN#391/bodyparts brown ears] standing near [/EN#390/scene water] with [/EN#388/bodyparts head] turned to [/EN#0/notvisual one side] .
+[/EN#386/animals Dog] with [/EN#387/other orange ball] at [/EN#392/bodyparts feet] , stands on [/EN#389/scene shore] shaking off [/EN#390/scene water]
+[/EN#386/animals A white dog] shakes on [/EN#389/scene the edge of a beach] with [/EN#387/other an orange ball] .
+[/EN#386/animals White dog] playing with [/EN#387/other a red ball] on [/EN#389/scene the shore] near [/EN#390/scene the water] .
+[/EN#386/animals A dog] shakes [/EN#388/bodyparts its head] near [/EN#389/scene the shore] , [/EN#387/other a red ball] next to [/EN#0/notvisual it] .

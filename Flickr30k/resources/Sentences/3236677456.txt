@@ -1,0 +1,5 @@
+[/EN#103210/animals A brown and black dog] jumps high in [/EN#0/notvisual the air] after [/EN#103211/other a purple Frisbee] .
+[/EN#103210/animals A dog] jumps in [/EN#0/notvisual the air] for [/EN#103211/other a Frisbee disk] as [/EN#103212/people the owner] watches
+[/EN#103210/animals A dog] jumps of [/EN#103211/other a Frisbee] with [/EN#103212/people a woman] looking on .
+[/EN#103210/animals A dog] jumps in [/EN#103213/scene midair] to catch [/EN#103211/other a Frisbee] .
+[/EN#103210/animals The brown dog] jumps for [/EN#103211/other a pink Frisbee] .

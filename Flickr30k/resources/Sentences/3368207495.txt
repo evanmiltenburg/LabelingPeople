@@ -1,0 +1,5 @@
+[/EN#113427/animals Two dogs] in [/EN#113431/scene a field] are running to catch [/EN#113428/other a tennis ball] .
+[/EN#113426/animals A dog] leaps in [/EN#0/notvisual the air] while chasing [/EN#113428/other a tennis ball] .
+[/EN#113426/animals A dog] leaps in [/EN#113429/scene the air parallel] to [/EN#113428/other a tennis ball] .
+[/EN#113426/animals A dog] is leaping for [/EN#113428/other a tennis ball] .
+[/EN#113427/animals Two dogs] chasing [/EN#113428/other a ball] .

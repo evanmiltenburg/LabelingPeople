@@ -1,0 +1,5 @@
+[/EN#163767/people A tall man] dressed in [/EN#163769/clothing a long-sleeved shirt] , [/EN#163772/clothing pants] , and [/EN#163770/clothing tall boots] is sweeping in [/EN#163773/scene a yard] .
+[/EN#163767/people A man] in [/EN#163770/clothing high rubber boots] and [/EN#163769/clothing a plaid shirt] is pushing [/EN#163768/other a broom] over [/EN#163771/other the mossy blacktop] .
+[/EN#163767/people Man] with [/EN#163774/bodyparts black and white hair] wearing [/EN#163769/clothing a white shirt] and [/EN#163770/clothing long boots] sweeps outside .
+[/EN#163767/people A man] wearing [/EN#163770/clothing tall black boots] sweeping [/EN#0/notvisual the ground] with [/EN#163768/other a small push broom] .
+[/EN#163767/people A gentleman] in [/EN#163770/clothing black boots] sweeping [/EN#0/notvisual the ground] outside .

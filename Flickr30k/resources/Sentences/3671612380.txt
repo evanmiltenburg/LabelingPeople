@@ -1,0 +1,5 @@
+[/EN#135746/people A young boy] wearing [/EN#135749/clothing a blue shirt] is walking in [/EN#135748/scene the street] with [/EN#135747/people his father] in [/EN#0/notvisual the background] .
+[/EN#135747/people A man] watches [/EN#135746/people a child] walk down [/EN#135748/scene the street] beside [/EN#135751/scene the railroad tracks] .
+[/EN#135746/people Third-world child] in [/EN#135748/scene street] with [/EN#135750/clothing colorful clothes] hanging on [/EN#135752/other line] .
+[/EN#135746/people A little boy] is walking down [/EN#135748/scene the street] .
+[/EN#135746/people little boy] running in [/EN#135748/scene the street] .

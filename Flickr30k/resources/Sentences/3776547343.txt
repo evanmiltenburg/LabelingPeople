@@ -1,0 +1,5 @@
+[/EN#142207/scene Overhead view of a living room] with [/EN#142199/people a man] on [/EN#142201/other one couch] , sleeping , and [/EN#142198/animals a dog] on [/EN#0/notvisual another] while [/EN#142200/other a coffee table] sits in [/EN#142208/scene the middle of the room] .
+[/EN#142199/people A man] wearing [/EN#142209/clothing a white shirt] and [/EN#142210/clothing black pants] laying on [/EN#142201/other a couch] .
+[/EN#142198/animals A dog] rests on [/EN#142203/other a loveseat] , while [/EN#142199/people a man] lies on [/EN#142201/other a nearby sofa] .
+[/EN#142199/people A man] sleeping on [/EN#142201/other a couch] in front of [/EN#142200/other a glass table] .
+[/EN#142199/people A man] and [/EN#142198/animals dog] sit on [/EN#142203/other couches] .

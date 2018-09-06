@@ -1,0 +1,5 @@
+[/EN#12989/animals A black and white dog] jomps over [/EN#12990/animals another black and white dog] to catch [/EN#12991/other a cloth] [/EN#12991/other Frisbee] .
+[/EN#12989/animals A black and white dog] is jumping up to catch [/EN#12991/other a toy] as [/EN#12990/animals another dog] watches .
+[/EN#12989/animals A black and white dog] leaps for [/EN#12991/other a flying disc] while [/EN#12992/other another one] watches .
+[/EN#12989/animals The white dog] with [/EN#12993/scene black spots] is catching [/EN#12991/other a red Frisbee] .
+[/EN#12990/animals The two dogs] are playing [/EN#12994/other catch] with [/EN#12991/other a red Frisbee] .

@@ -1,0 +1,5 @@
+[/EN#229342/animals A white dog] with [/EN#229345/clothing a muzzle] is running through [/EN#229346/scene an uncut field] with [/EN#229347/scene a fence] nearby .
+[/EN#229342/animals A white dog] with [/EN#229345/clothing a muzzle] trots on [/EN#229346/scene grass] in front of [/EN#229343/other trees] .
+[/EN#229342/animals A white dog] with [/EN#229345/clothing a muzzle] is running on [/EN#229346/scene the grass] .
+[/EN#229342/animals White dog] with [/EN#229345/clothing a muzzle] running in [/EN#229346/scene the grass] .
+[/EN#229344/other a] muzzled [/EN#229342/animals white dog] is running on [/EN#229346/scene the grass] .

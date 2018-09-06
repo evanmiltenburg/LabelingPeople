@@ -1,0 +1,5 @@
+[/EN#16868/people A man] in [/EN#16869/clothing a blue and white t-shirt] is grilling [/EN#16875/scene outdoors] .
+[/EN#16868/people A man] gives [/EN#16870/bodyparts the thumbs] up as [/EN#0/notvisual he] grills [/EN#16872/animals chicken] .
+[/EN#16868/people A man] in [/EN#16869/clothing a blue shirt] barbecues [/EN#16872/other meat] [/EN#16876/scene outside] .
+[/EN#16868/people A man] is grilling out in [/EN#16875/scene his backyard] .
+[/EN#16868/people A man] stands at [/EN#16874/other a barbecues] .

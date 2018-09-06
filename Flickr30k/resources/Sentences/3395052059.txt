@@ -1,0 +1,5 @@
+[/EN#115101/people A male basketball player] wearing [/EN#115107/clothing a black uniform] is trying to block [/EN#115101/people a male basketball player] wearing [/EN#115104/clothing a white uniform] .
+[/EN#0/notvisual I] see [/EN#115109/people two guys] playing [/EN#115105/other basket one] with [/EN#115110/scene a white tee] and [/EN#115108/other the other] with [/EN#115106/clothing a black] .
+[/EN#115101/people The player] in [/EN#115104/clothing the white] is dribbling [/EN#115105/other the basketball] .
+[/EN#115101/people A basketball player] driving to [/EN#115103/other the hoop] .
+[/EN#115101/people A basketball player] drives to [/EN#115103/other the hoop] .

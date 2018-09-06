@@ -1,0 +1,5 @@
+[/EN#147410/animals A short-haired blue bird] [/EN#0/notvisual it] may be wearing [/EN#147412/clothing a black tank top] and [/EN#147414/clothing white pants] is carrying [/EN#147411/people a little girl] with [/EN#147415/bodyparts blond-hair] as [/EN#0/notvisual she] holds on to [/EN#147413/clothing her missing shoe]
+[/EN#147411/people A young girl] with [/EN#147413/clothing a missing shoe] is held by [/EN#147410/people a woman] in [/EN#147414/clothing white pants] with [/EN#147412/clothing a black top] .
+[/EN#147410/people A lady] is taking [/EN#147417/clothing the shoes] off of [/EN#147411/people the young girl] [/EN#0/notvisual she] is carrying .
+[/EN#147410/people A woman] is holding [/EN#147411/people a small girl] in [/EN#147416/bodyparts her arms] .
+[/EN#147410/people A woman] carrying [/EN#147411/people a girl] through [/EN#147419/other some trees] .

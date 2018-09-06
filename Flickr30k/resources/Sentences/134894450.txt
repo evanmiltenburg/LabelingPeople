@@ -1,0 +1,5 @@
+[/EN#9471/people A boy] wearing [/EN#9476/clothing no shirt] and [/EN#9477/clothing some blue jeans] is jumping in [/EN#0/notvisual the air] in [/EN#9474/other the woods] .
+[/EN#9471/people A guy] leaps into [/EN#0/notvisual the air] in [/EN#9472/scene a wooded area] .
+[/EN#9471/people A shirtless man] jumps in [/EN#9472/scene a sunny forest] .
+[/EN#9471/people a shirtless man] jumps over [/EN#9475/other a log] .
+[/EN#9471/people The boy] is jumping in [/EN#9474/other the woods] .

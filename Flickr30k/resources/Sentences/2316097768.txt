@@ -1,0 +1,5 @@
+[/EN#41170/people A man] wearing [/EN#41171/clothing a blue shirt] smokes [/EN#41172/other a cigarette] in front of [/EN#41173/scene an official building] .
+[/EN#41170/people A man] with [/EN#41171/clothing a collarless shirt] smokes [/EN#41172/other a cigarette] in front of [/EN#41173/scene a courthouse] .
+[/EN#41170/people A black man] smoking [/EN#41172/other a cigarette] is in front of [/EN#41173/scene a government type building] .
+[/EN#41170/people An African American man] smoking [/EN#41172/other a cigarette] outside [/EN#41173/scene a large building] .
+[/EN#41170/people A black guy] smoking [/EN#41172/other a cigarette] .

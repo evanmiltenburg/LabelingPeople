@@ -1,0 +1,5 @@
+[/EN#110591/animals a black and brown dog] digging through [/EN#110593/scene the snow] .
+[/EN#110591/animals A large black dog] rubs [/EN#110592/bodyparts its face] in [/EN#110593/scene the snow] .
+[/EN#110591/animals A dog] is rubbing [/EN#110592/bodyparts its face] in [/EN#110593/scene the snow] .
+[/EN#110591/animals A black dog] is digging in [/EN#110593/scene the snow] .
+[/EN#110591/animals A black dog] is digging in [/EN#110593/scene the snow] .

@@ -1,0 +1,5 @@
+[/EN#109096/people A woman] wearing [/EN#109100/clothing a cowboy hat] and [/EN#109099/clothing a pink shirt] is ridding [/EN#109095/animals a horse] in [/EN#109098/other a competition] .
+[/EN#109096/people Someone] in [/EN#109099/clothing a pink shirt] is riding [/EN#109095/animals a brown horse] in [/EN#109098/other a rodeo] .
+[/EN#109096/people A woman] in [/EN#109099/clothing a pink shirt] wears [/EN#109101/other rides] [/EN#109095/animals a horse] in [/EN#109098/other a rodeo] .
+[/EN#109095/animals The brown horse] is next to [/EN#109097/other a red barrel] at [/EN#109098/other the rodeo] .
+[/EN#109096/people A cowgirl] corners [/EN#109097/other a barrel] riding [/EN#109095/animals a horse] .

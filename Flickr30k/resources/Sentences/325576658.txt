@@ -1,0 +1,5 @@
+[/EN#104767/people A person] with [/EN#104768/other a blue blanket] on [/EN#104771/bodyparts his head] sits on [/EN#104769/other a metal bench] in [/EN#104774/scene an urban neighborhood] .
+[/EN#104767/people A man] is sitting on [/EN#104769/other a blue bench] with [/EN#104768/other a blue blanket] covering [/EN#104771/bodyparts his face] .
+[/EN#104767/people The man] sitting on [/EN#104769/other the blue bench] has [/EN#104768/other a blanket] covering [/EN#104771/bodyparts his head] .
+[/EN#104767/people A man] sits on [/EN#104769/other a blue city bench] with [/EN#104768/other a blue blanket] over [/EN#104771/bodyparts his head] .
+[/EN#104767/people A person] on [/EN#104769/other a blue bench] under [/EN#104768/other a blue blanket] .

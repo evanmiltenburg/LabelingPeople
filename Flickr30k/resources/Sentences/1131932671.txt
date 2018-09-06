@@ -1,0 +1,5 @@
+[/EN#3418/people The boy] in [/EN#3422/clothing blue shorts] is bouncing on [/EN#3420/other the bed] .
+[/EN#3418/people A boy] jumps from [/EN#3420/other one bed] to [/EN#0/notvisual another] .
+[/EN#3418/people A boy] jumped up from [/EN#3420/other the green bed] .
+[/EN#3418/people A small child] is jumping on [/EN#3420/other a bed] .
+[/EN#3418/people A boy] is jumping on [/EN#3420/other a bed] .

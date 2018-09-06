@@ -1,0 +1,5 @@
+[/EN#68571/people A man] in [/EN#68576/clothing a white shirt] and [/EN#68575/clothing black cowboy hat] rides [/EN#68572/animals a jumping brown horse] at [/EN#68577/other the rodeo] .
+[/EN#68571/people A man] in [/EN#68576/clothing white] with [/EN#68574/clothing a gold belt] is riding [/EN#68572/animals a bucking creme colored horse] .
+[/EN#68571/people A man] holds [/EN#68578/other a white cloth] in [/EN#0/notvisual the air] while riding [/EN#68573/animals a bucking brown horse]
+[/EN#68571/people The rider] throws [/EN#68580/bodyparts his hand] up for [/EN#68579/other balance] as [/EN#68572/animals the brown horse] bucks .
+[/EN#68571/people A cowboy] on [/EN#68573/animals the back of a galloping horse] .

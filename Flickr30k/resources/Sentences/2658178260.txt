@@ -1,0 +1,5 @@
+[/EN#64500/people A dark-haired woman] with [/EN#64501/clothing a black blouse] is standing against [/EN#64502/scene a blue sky] and [/EN#0/notvisual she] is about to take [/EN#64505/other a picture] with [/EN#64503/other a camera] .
+[/EN#64500/people A woman] takes [/EN#64504/other a photo] while looking down with [/EN#64502/scene the blue sky] behind [/EN#0/notvisual her] .
+[/EN#64500/people A lady short-haired lady] with [/EN#64501/clothing a blank tank top] is taking [/EN#64504/other pictures] .
+[/EN#64500/people A woman] is looking down while taking [/EN#64504/other a picture] with [/EN#64503/other a camera] .
+[/EN#64500/people A woman] in [/EN#64501/clothing a black shirt] taking [/EN#64504/other a picture] .

@@ -1,0 +1,5 @@
+[/EN#227465/people A woman] with [/EN#227470/clothing a scarf] on [/EN#227472/bodyparts her head] stands on [/EN#227466/scene a roof] behind [/EN#227468/scene laundry] hanging on [/EN#227467/other a line] .
+[/EN#227465/people A person] on [/EN#227466/scene a balcony] is standing next to [/EN#227468/clothing some clothes] drying on [/EN#227467/other a line] .
+[/EN#227465/people Woman] in [/EN#227471/clothing ethnic clothing] hanging [/EN#227468/scene laundry] from [/EN#227467/other a line] off [/EN#227466/scene her balcony] .
+[/EN#227465/people A lady] hanging up [/EN#227468/clothing her clothing] to dry .
+[/EN#227465/people A woman] hanging [/EN#227468/scene the laundry outside] .

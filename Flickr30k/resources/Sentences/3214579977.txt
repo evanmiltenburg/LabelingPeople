@@ -1,0 +1,5 @@
+[/EN#101696/animals Black dog] in [/EN#101699/scene snow] leaps for [/EN#101697/other red object] at [/EN#101698/other upper edge of frame] .
+[/EN#101696/animals The black dog] jumps out of [/EN#101699/scene the snow] to catch [/EN#101697/other an object] .
+[/EN#101696/animals One black dog] is jumping off [/EN#0/notvisual the snow filled ground] .
+[/EN#101696/animals A black dog] jumps to catch [/EN#101697/other a Frisbee] in [/EN#101699/scene the snow] .
+[/EN#101696/animals A black dog] jumps in [/EN#101699/scene the snow] .

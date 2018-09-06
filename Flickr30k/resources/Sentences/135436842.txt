@@ -1,0 +1,5 @@
+[/EN#9678/people Man] in [/EN#9679/other wheelchair] is assisted in boarding [/EN#9684/vehicles/scene the subway] by [/EN#9680/people a services employee] .
+[/EN#9680/people A subway employee] is helping [/EN#9681/people a man] in [/EN#9679/other a wheelchair] onto [/EN#9684/vehicles/scene the subway] .
+[/EN#9680/people Worker] loading handicapped [/EN#9681/people man] in [/EN#9679/other wheelchair] onto [/EN#9682/vehicles/scene a train] .
+[/EN#9681/people A man] is loaded on to [/EN#9682/vehicles/scene a train] in [/EN#9679/other a wheelchair] .
+[/EN#9681/people A man] pushing [/EN#9683/vehicles a cart] near [/EN#9684/vehicles/scene the subway] .

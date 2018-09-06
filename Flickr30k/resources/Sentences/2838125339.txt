@@ -1,0 +1,5 @@
+[/EN#75998/animals A large brown dog] climbs over [/EN#75999/scene a tall fence] while [/EN#76000/people three people] look on .
+[/EN#75998/animals a brown dog] jumping [/EN#76001/other a wooden wall] [/EN#76000/people a few people] standind around [/EN#76004/other also]
+[/EN#76000/people People] watch as [/EN#75998/animals a dog] scales [/EN#76001/other a wooden wall] in [/EN#76002/scene a grass field] .
+[/EN#75998/animals A police dog] in [/EN#76003/other training] jumping over [/EN#76001/other a large wall]
+[/EN#75998/animals Dog] climbing over [/EN#76001/other wall]

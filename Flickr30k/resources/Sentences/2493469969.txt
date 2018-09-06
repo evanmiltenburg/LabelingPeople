@@ -1,0 +1,5 @@
+[/EN#53153/animals A muscular dog] is walking on [/EN#53154/scene very short grass] .
+[/EN#53153/animals A blond dog] jumps in [/EN#0/notvisual the air] on [/EN#53154/scene the grass] .
+[/EN#53153/animals A tan dog] is prancing over [/EN#53156/scene grass] .
+[/EN#53153/animals Brown dog] looks mean while running
+[/EN#53157/scene A medium] sized [/EN#53153/animals brown dog] jumping

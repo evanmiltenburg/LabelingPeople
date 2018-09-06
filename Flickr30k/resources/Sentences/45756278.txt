@@ -1,0 +1,5 @@
+In front of [/EN#180001/scene a building] , [/EN#179994/people a man] with [/EN#179997/clothing rolled-up sleeves] stands [/EN#180002/other between two others] wearing [/EN#180000/clothing striped vests] .
+[/EN#179994/people A man] wearing [/EN#179997/clothing a blue shirt] is talking to [/EN#179996/people two men] wearing [/EN#180000/clothing orange and yellow work vest] .
+[/EN#179996/people Two men] dressed in [/EN#180000/clothing orange and yellow vests] talk to [/EN#179994/people a man] in [/EN#179997/clothing a plain blue shirt] .
+[/EN#179995/people Three safety workers] standing by [/EN#179999/scene a manhole] .
+[/EN#179995/people three city workers] standing near [/EN#179999/scene a manhole] .

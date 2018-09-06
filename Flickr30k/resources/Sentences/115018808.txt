@@ -1,0 +1,5 @@
+[/EN#3913/people A man] jogs down [/EN#3916/scene a city street] , with [/EN#3915/other a line] attached to [/EN#3923/other his back] that vanishes out of [/EN#3925/other the left side of the picture] ; [/EN#3917/people a smiling cyclist] rides [/EN#3924/other past] .
+[/EN#3913/people A young man] runs with [/EN#3918/clothing goggles] above [/EN#3926/bodyparts his eyes] and [/EN#3915/other a bungee cord] tethered to [/EN#0/notvisual him] as [/EN#3917/people a man] on [/EN#3919/vehicles a bicycle] with [/EN#3921/clothing a white helmet] laughs .
+[/EN#3913/people A man] wearing [/EN#3920/clothing a black shirt] and [/EN#3918/clothing goggles] is running along [/EN#3916/scene the street]
+[/EN#3913/people A man] wearing [/EN#3922/clothing black clothes] runs next to [/EN#3917/people a woman] on [/EN#3914/vehicles a bicycle] .
+[/EN#3913/people A man] is running and [/EN#3917/people a girl] is riding [/EN#3914/vehicles a bike] .

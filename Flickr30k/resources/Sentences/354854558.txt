@@ -1,0 +1,5 @@
+[/EN#126685/people A man] in [/EN#126686/clothing a baseball cap] holding [/EN#126687/instruments a guitar] with [/EN#126688/people a woman] in [/EN#126689/clothing gray] in [/EN#0/notvisual the foreground] .
+[/EN#126685/people A man] holding [/EN#126687/instruments a guitar] in [/EN#126690/bodyparts his left hand] and [/EN#126691/bodyparts/people his right arm] behind [/EN#126692/bodyparts his head] .
+[/EN#126685/people A man] smiling while holding [/EN#126687/instruments an acoustic guitar] .
+[/EN#126685/people A man] laughing and holding [/EN#126687/instruments an acoustic guitar] .
+[/EN#126685/people Man] in [/EN#126686/clothing ball cap] plays [/EN#126687/instruments guitar] .

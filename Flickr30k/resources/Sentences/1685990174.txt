@@ -1,0 +1,5 @@
+[/EN#18759/people A bunch of kids] run on [/EN#18760/scene a school play field] .
+[/EN#18759/people A group of children] running in [/EN#18760/scene the grass] .
+[/EN#18759/people A group of children] in [/EN#18760/scene a field] .
+[/EN#18759/people Kids] play [/EN#18761/other soccer] on [/EN#18760/scene a field] .
+[/EN#18759/people Kids] running in [/EN#18760/scene the field] .

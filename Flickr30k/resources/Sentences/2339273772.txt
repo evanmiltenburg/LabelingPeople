@@ -1,0 +1,5 @@
+[/EN#42628/people A man] in [/EN#42629/clothing a white and orange jacket] is holding up [/EN#42630/other a creamer] while sitting in front of [/EN#42631/other an empty plate] and [/EN#42632/other a coffee cup] .
+[/EN#42628/people A man] with [/EN#42629/clothing a white jacket] is sitting at [/EN#42635/scene a restaurant] holding [/EN#42630/other a coffee creamer] .
+[/EN#42628/people A male] is sitting at [/EN#42633/other a table] with [/EN#42632/other a coffee cup] in front of [/EN#42634/bodyparts/people his left arm] .
+[/EN#42628/people A man] with [/EN#42629/clothing a white zip up jacket] holding up [/EN#42630/other a coffee creamer packet] .
+[/EN#42628/people A man] holding [/EN#42630/other an individual coffee creamer] .

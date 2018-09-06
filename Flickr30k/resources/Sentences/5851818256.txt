@@ -1,0 +1,5 @@
+[/EN#244080/people Three men] , [/EN#244089/other two] with [/EN#244090/clothing white shirts] [/EN#0/notvisual who] appear to be [/EN#244087/people host] to [/EN#244082/scene a Rodeo House] , and [/EN#244088/people the third man] with [/EN#244091/clothing the brown shirt] rides [/EN#244085/animals a wild horse] .
+[/EN#244080/people Three people] are riding [/EN#244086/animals horses] in [/EN#244081/scene a dirt arena] with [/EN#244084/people several spectators] in [/EN#0/notvisual the background] .
+[/EN#244080/people Three people] riding [/EN#244085/animals horses] in front of [/EN#244084/people a small crowd] .
+[/EN#244080/people Three people] are riding [/EN#244086/animals horses] at [/EN#244083/other a show] .
+[/EN#244080/people Three people] riding [/EN#244086/animals horses] are in [/EN#244083/other a race] .

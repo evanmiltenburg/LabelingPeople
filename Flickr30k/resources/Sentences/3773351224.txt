@@ -1,0 +1,5 @@
+[/EN#142071/people A man] with [/EN#142076/clothing a hat] on is walking through [/EN#142073/scene the water] while holding on to [/EN#142072/other a rope] [/EN#0/notvisual that] is tied to [/EN#142080/other something] .
+[/EN#142071/people Man] drags [/EN#0/notvisual what] seems to be [/EN#142074/other a wooden board] with [/EN#142075/other a carpet] atop of [/EN#142073/scene a shallow body of water] .
+[/EN#142071/people A man] tugging [/EN#142072/other a red rope] is walking through [/EN#142073/scene water] .
+[/EN#142071/people A man] in [/EN#142079/clothing a white shirt] pulls [/EN#142074/scene a raft] down [/EN#142073/scene a river] .
+[/EN#142071/people Man] taking [/EN#142074/other his board] out for [/EN#142078/other a walk]

@@ -1,0 +1,5 @@
+[/EN#88522/people A man] dressed in [/EN#88523/clothing black] tunes [/EN#88524/instruments a black electric guitar] .
+[/EN#88522/people A man] wearing [/EN#88523/clothing a gray shirt] is tuning [/EN#88524/instruments his guitar] .
+[/EN#88522/people A man] in [/EN#88523/clothing a black shirt] is tuning [/EN#88524/instruments his guitar] .
+[/EN#88522/people A man] is tuning [/EN#88524/instruments a black and white guitar] .
+[/EN#88522/people The man] is playing [/EN#88524/instruments a guitar] .

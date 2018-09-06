@@ -1,0 +1,5 @@
+[/EN#44385/people A young boy] in [/EN#44387/clothing an orange shirt] and [/EN#44391/clothing khaki pants] points [/EN#44386/other his toy] at [/EN#0/notvisual the camera] while [/EN#0/notvisual he] stands in front of [/EN#44392/scene the fence] .
+[/EN#44388/bodyparts A little body] in [/EN#44387/clothing an orange shirt] is holding [/EN#44386/other a yellow sword] and holding [/EN#0/notvisual it] toward [/EN#0/notvisual the camera] .
+[/EN#44385/people A boy] wearing [/EN#44389/clothing a white hat] and [/EN#44387/clothing an orange shirt] is pointing [/EN#44386/other an object] at [/EN#0/notvisual the camera] .
+[/EN#44385/people A little boy] wearing [/EN#44387/clothing an orange shirt] points at [/EN#0/notvisual the camera] with [/EN#44386/other a yellow object] .
+[/EN#44385/people Child] with [/EN#44386/other a toy] in [/EN#44390/bodyparts his hand] .

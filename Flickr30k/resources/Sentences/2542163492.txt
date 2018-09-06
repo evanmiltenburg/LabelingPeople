@@ -1,0 +1,5 @@
+[/EN#56953/people The man] is wearing [/EN#56963/clothing an orange] and [/EN#56954/clothing black polo shirt] and is kneeling with [/EN#56955/other his lunch box] in [/EN#56956/bodyparts one hand] while holding [/EN#56957/other a banana] in [/EN#56958/bodyparts his other hand] .
+[/EN#56953/people A man] , holding [/EN#56957/other a banana] and [/EN#56959/other some papers] , kneels down to look through [/EN#56959/clothing a bag] .
+[/EN#56953/people A man] in [/EN#56954/clothing a striped shirt] holding [/EN#56957/other a banana] is squatting on [/EN#56962/scene a street] .
+[/EN#56953/people A man] kneels on [/EN#0/notvisual the ground] while holding [/EN#56957/other a banana] .
+[/EN#56953/people A man] kneels with [/EN#56957/other a banana] on [/EN#56961/bodyparts his knee] .

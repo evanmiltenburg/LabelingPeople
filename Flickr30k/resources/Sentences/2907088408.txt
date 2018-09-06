@@ -1,0 +1,5 @@
+[/EN#80555/people A man] and [/EN#80553/people a woman] in [/EN#80551/other a furniture store stop] to talk to [/EN#80548/people a woman] in [/EN#80552/clothing a white shirt] [/EN#0/notvisual that] has [/EN#80550/animals a small bird] on [/EN#80554/bodyparts her left shoulder] .
+[/EN#80548/people A woman] in [/EN#80552/clothing a white shirt] , standing by [/EN#80555/people another man] and [/EN#80553/people a woman] , has [/EN#80550/animals a green bird] on [/EN#80554/bodyparts her shoulder] inside [/EN#80551/scene a large store] .
+[/EN#0/notvisual There] are [/EN#80549/people three people] standing in [/EN#80551/scene a store] looking at [/EN#80550/animals a bird] on [/EN#80554/people the shoulder of the lady] with [/EN#80552/clothing a white shirt] .
+[/EN#80548/people A woman] is [/EN#80558/other a little] scared because [/EN#80550/animals a bird] landed on [/EN#80554/bodyparts her shoulder] while [/EN#0/notvisual she] was in [/EN#80551/scene the warehouse] .
+[/EN#80549/people Three women] in [/EN#80551/scene a store] looking at [/EN#80550/animals a bird] that [/EN#80548/people one of the women] has .

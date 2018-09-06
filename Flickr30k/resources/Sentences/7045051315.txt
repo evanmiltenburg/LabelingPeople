@@ -1,0 +1,5 @@
+[/EN#264580/people A woman] in [/EN#264584/clothing a colorful red apron] observing [/EN#264579/people another man] in [/EN#264581/clothing a black striped apron] as [/EN#0/notvisual he] cracks open [/EN#264583/other a brown egg] .
+[/EN#264580/people A woman] in [/EN#264584/clothing a red apron] watches as [/EN#264579/people a man] in [/EN#264581/clothing a black apron] cracks [/EN#264583/other eggs] .
+[/EN#264579/people A man] outside cracking [/EN#264586/other an egg] over [/EN#264582/other a bowl] as [/EN#264580/people a woman] looks on .
+[/EN#264579/people A man] and [/EN#264580/people a woman] are [/EN#0/notvisual both] preparing [/EN#264585/other eggs] in [/EN#264582/other a bowl] outdoors .
+[/EN#264579/people A man] cracks [/EN#264585/other eggs] while [/EN#264580/people a woman] watches .

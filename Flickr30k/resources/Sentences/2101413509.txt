@@ -1,0 +1,5 @@
+[/EN#28760/people A small child] in [/EN#28763/clothing a red coat] watches [/EN#28765/other the fireplace display] through [/EN#28764/scene the storefront window of a purse store] .
+[/EN#28760/people A small child] in [/EN#28763/clothing a red coat] points to [/EN#28762/clothing a handbag] in [/EN#28761/other a shop window] .
+[/EN#28760/people A child] wearing [/EN#28763/clothing a red coat] is pointing into [/EN#28761/other a Loewe store window] .
+[/EN#28760/people A little girl] is looking at [/EN#28764/scene the window display of a store] .
+[/EN#28760/people A child] is window shopping for [/EN#28762/clothing a brown purse] .

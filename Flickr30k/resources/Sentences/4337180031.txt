@@ -1,0 +1,5 @@
+[/EN#163849/people A kid] in [/EN#163850/clothing a red and black coat] is laying on [/EN#163856/other his back] in [/EN#163852/scene the snow] with [/EN#163855/bodyparts/people his arm] in [/EN#0/notvisual the air] and [/EN#163851/other a red sled] is next to [/EN#0/notvisual him] .
+[/EN#163849/people A child] in [/EN#163850/clothing a red coat] waves [/EN#163854/bodyparts a hand] in [/EN#0/notvisual the air] while lying in [/EN#163852/scene snow] beside [/EN#163851/other a red plastic sled] .
+[/EN#163849/people A child] lays in [/EN#163852/scene the snow] next to [/EN#163851/other his sled] , raising [/EN#163857/bodyparts his hand] in [/EN#0/notvisual the air] .
+[/EN#163849/people A young boy] with [/EN#163850/clothing a red jacket] fell from [/EN#163851/other his sled] in [/EN#163852/scene the snow] .
+[/EN#163849/people A child] looks bewildered as [/EN#0/notvisual he] lies next to [/EN#163851/other his red sled] .

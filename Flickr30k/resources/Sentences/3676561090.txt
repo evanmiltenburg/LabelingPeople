@@ -1,0 +1,5 @@
+[/EN#136127/animals The yellow dog] wears [/EN#136130/other a blue dog tag] and [/EN#136132/other rolls] on [/EN#136129/scene a green field] .
+[/EN#136127/animals The gray dog] is rolling on [/EN#136131/other its back] on [/EN#136129/scene the grass] .
+[/EN#136127/animals A small white dog] rolls over on [/EN#136129/scene the grass] .
+[/EN#136127/animals A tan dog] rolls in [/EN#136129/scene the grass] .
+[/EN#136127/animals A dog] rolls in [/EN#136129/scene the grass] .

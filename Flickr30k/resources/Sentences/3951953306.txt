@@ -1,0 +1,5 @@
+[/EN#149288/people The man] is standing upside down on [/EN#149289/other the bottle] , with [/EN#149292/bodyparts hands] on [/EN#0/notvisual the ground] .
+[/EN#149288/people A man] is doing [/EN#149288/other a headstand] , balanced on [/EN#149289/other a bottle] , on [/EN#149290/scene a street corner] .
+[/EN#149288/people A man] doing [/EN#149288/other a handstand] with [/EN#149289/other a bottle] under [/EN#149293/bodyparts his head] .
+[/EN#149288/people A person] doing [/EN#149288/other a handstand] on [/EN#149290/scene a street corner] .
+[/EN#149288/people A individual] doing [/EN#149288/other a handstand] on [/EN#149290/scene a corner] .

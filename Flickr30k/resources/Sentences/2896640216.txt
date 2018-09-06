@@ -1,0 +1,5 @@
+[/EN#79896/people A woman] leading [/EN#79895/animals a gray and black spotted dog] in [/EN#79897/clothing a red bandanna] through [/EN#79900/other a competition] .
+[/EN#79896/people A woman] runs along side [/EN#79895/animals her dog] as [/EN#0/notvisual he] jumps [/EN#79898/other a hurdle] .
+[/EN#79895/animals A dog] with [/EN#79897/clothing a bandanna] jumps through [/EN#79898/other hoop] .
+[/EN#79896/people A girl] leads [/EN#0/notvisual her] [/EN#79895/animals dog] over [/EN#79898/other a hurdle] .
+[/EN#79895/animals A dog] and [/EN#79896/people his trainer] at [/EN#79899/other a challenge]

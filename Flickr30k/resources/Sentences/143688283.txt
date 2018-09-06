@@ -1,0 +1,5 @@
+[/EN#13029/people A man] in [/EN#13030/clothing a white shirt] and [/EN#13031/clothing helmet] is using [/EN#13032/other climbing equipment] .
+[/EN#13029/people A man] with [/EN#13030/clothing a white shirt] and [/EN#13031/clothing helmet] is climbing [/EN#13035/scene a mountain] .
+[/EN#13029/people a young man] wearing [/EN#13031/clothing a white helmet] climbing up [/EN#13033/other a rock wall]
+[/EN#13029/people a man] in [/EN#13034/clothing a harness] climbing [/EN#13033/other a rock wall]
+[/EN#13029/people Man] rock climbing looking up [/EN#13033/other the rock]

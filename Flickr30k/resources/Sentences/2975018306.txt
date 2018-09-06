@@ -1,0 +1,5 @@
+[/EN#84949/animals A brown dog] licks [/EN#84951/bodyparts his nose] while standing in [/EN#84950/scene green grass] by [/EN#84953/other the woods] .
+[/EN#84949/animals a brown dog] licking [/EN#84951/bodyparts his nose] in [/EN#84950/scene the middle of some grass]
+[/EN#84949/animals A brown dog] with [/EN#84952/bodyparts his tongue] out looks at [/EN#0/notvisual the camera] .
+[/EN#84949/animals A brown dog] is on [/EN#84950/scene the green grass] .
+[/EN#84949/animals A brown dog] is licking [/EN#84951/bodyparts its nose] .

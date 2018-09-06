@@ -1,0 +1,5 @@
+[/EN#55655/people A little girl] in [/EN#55657/clothing a blue dress] sitting on [/EN#55656/other a park bench] , sticking out [/EN#55658/bodyparts her tongue] .
+[/EN#55655/people The little girl] in [/EN#55657/clothing the blue dress] is sitting on [/EN#55656/other a wooden bench] .
+[/EN#55655/people The little girl] is sitting on [/EN#55656/other an old bench] and making [/EN#55659/bodyparts a face]
+[/EN#55655/people a little girl] sticking [/EN#55658/bodyparts her tongue] out in [/EN#55656/other a bench]
+[/EN#55655/people A girl] sticks out [/EN#55658/bodyparts her tongue] on [/EN#55656/other a bench] .

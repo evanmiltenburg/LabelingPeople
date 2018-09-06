@@ -1,0 +1,5 @@
+[/EN#203604/people A woman] is pointing to [/EN#0/notvisual herself] while walking down [/EN#203606/scene a sidewalk] with [/EN#203614/vehicles a car] reflecting off [/EN#203609/other a window] in [/EN#0/notvisual the background] .
+[/EN#203604/people A woman] with [/EN#203608/bodyparts wavy short red-hair] and [/EN#203611/clothing glasses] wearing [/EN#203607/clothing a tan sleeveless shirt] is walking down [/EN#203606/scene a street] .
+[/EN#203604/people A woman] is confronting [/EN#203612/people someone] about [/EN#203613/other something] [/EN#0/notvisual she] feels upset by .
+[/EN#203604/people A woman] with [/EN#203608/bodyparts red-hair] in [/EN#203607/clothing a tan shirt] walking down [/EN#203606/scene the street] .
+[/EN#203604/people A red-haired woman] is pointing at [/EN#0/notvisual herself] in [/EN#203610/other confusion] .

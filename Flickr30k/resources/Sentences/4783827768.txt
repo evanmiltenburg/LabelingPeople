@@ -1,0 +1,5 @@
+[/EN#202426/people A man] in [/EN#202428/clothing a construction hat] is prying [/EN#0/notvisual a piece of the side] of [/EN#202427/scene a bridge] off .
+[/EN#202426/people A man] wearing [/EN#202430/clothing a red shirt] and [/EN#202432/scene safety] [/EN#202428/clothing hat] works on [/EN#202431/other construction] .
+[/EN#202426/people A construction worker] is working on [/EN#202433/scene the side of a bridge] .
+[/EN#202426/people A man] is standing on top of [/EN#202427/scene a bridge] working .
+[/EN#202426/people A construction worker] working on [/EN#202427/scene a bridge] .

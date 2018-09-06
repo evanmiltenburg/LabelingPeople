@@ -1,0 +1,5 @@
+[/EN#225501/people A man] and [/EN#225504/people a woman] walk around [/EN#225507/scene a corner] next to [/EN#225502/other a painted wall mural] depicting [/EN#225505/people children] .
+[/EN#225502/other Graffiti] on [/EN#225502/other a wall] depicts [/EN#225505/people children] drawing [/EN#225510/other the words] " [/EN#225506/scene Brick City] " on [/EN#225502/other the wall] .
+[/EN#225501/people A man] and [/EN#225504/people a woman] walking past [/EN#225502/other a brick wall] , covered in [/EN#225502/other graffiti] .
+[/EN#225502/people A mural of children] on [/EN#225502/other a brick wall] .
+[/EN#225502/other A mural] on [/EN#225502/scene the side of a building] .

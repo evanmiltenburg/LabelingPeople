@@ -1,0 +1,5 @@
+[/EN#121480/people A person] walks across [/EN#121482/scene the street] while [/EN#121481/other a rainbow] shines in [/EN#0/notvisual the background] .
+[/EN#121480/people A man] walks on [/EN#121482/scene a meandering street] with [/EN#121481/other a rainbow] in [/EN#121484/scene the sky] .
+[/EN#121481/other A rainbow] shines in [/EN#121484/scene the sky] as [/EN#121480/people a man] is crossing [/EN#121482/scene the street] .
+[/EN#121481/other A rainbow] arches over [/EN#121483/scene a suburban neighborhood] .
+[/EN#121481/other A rainbow] over [/EN#121483/scene buildings] .

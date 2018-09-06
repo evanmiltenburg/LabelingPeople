@@ -1,0 +1,5 @@
+[/EN#9510/people A man] in [/EN#9511/clothing a white shirt] is talking down [/EN#9512/scene a street] , looking inside [/EN#9513/clothing his black bag] .
+[/EN#9510/people A man] with [/EN#9514/other a suitcase] walks through [/EN#9512/scene an alley] between [/EN#9515/scene two large buildings] .
+[/EN#9510/people A man] walks down [/EN#9512/scene an ally way] , searching for [/EN#9516/other something] in [/EN#9513/clothing his bag] .
+[/EN#9510/people A man] walking down [/EN#9512/scene a narrow street] .
+[/EN#9510/people a man] walking down [/EN#9517/other an alleyway]

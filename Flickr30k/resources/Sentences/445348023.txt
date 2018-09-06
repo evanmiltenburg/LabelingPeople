@@ -1,0 +1,5 @@
+[/EN#169875/people A man] dangles from [/EN#169877/scene the room of an incompletely built building] in [/EN#169878/scene the middle of a field] .
+[/EN#169875/people A man] laying on [/EN#169876/scene the roof] attempting to rebuild [/EN#0/notvisual it] .
+[/EN#169875/people A man] hanging off [/EN#169876/scene a partially framed roof] .
+[/EN#169875/people Man] laying on [/EN#169877/scene a partially built house] .
+[/EN#169875/people A man] is installing [/EN#169876/scene a roof] .

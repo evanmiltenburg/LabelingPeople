@@ -1,0 +1,5 @@
+[/EN#107223/people Am man] riding [/EN#107225/vehicles a very tall bicycle] down [/EN#107224/scene the street] , past [/EN#107227/scene a large brick building] .
+[/EN#107223/people A young man] rides [/EN#107228/other a self] built [/EN#107225/vehicles bicycle] across [/EN#107224/scene the street] .
+[/EN#107223/people A man] in [/EN#107229/clothing a dark shirt] and [/EN#107230/clothing pants] riding [/EN#107225/vehicles a tall bicycle] .
+[/EN#107223/people A man] on [/EN#107225/vehicles a very tall bike] rides across [/EN#107226/scene a crosswalk] .
+[/EN#107223/people A man] riding [/EN#107225/vehicles a vary tall bike] .

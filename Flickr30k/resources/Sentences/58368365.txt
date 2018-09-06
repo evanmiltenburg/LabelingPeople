@@ -1,0 +1,5 @@
+[/EN#243852/people A man] is standing on top of [/EN#243853/scene a rock or mountain] watching [/EN#243854/scene the sunset] .
+[/EN#243852/people A man] is standing on top of [/EN#243853/scene a mountain] gazing at [/EN#243854/scene the sunset] .
+[/EN#243852/people A man] standing in [/EN#243857/scene the mountains] watching [/EN#243854/scene a sunset] .
+[/EN#243852/people A man] stands on [/EN#243853/scene a hill] at [/EN#243856/other dusk] .
+[/EN#243852/other A man 's sillouhette] at [/EN#243854/scene sunset] .

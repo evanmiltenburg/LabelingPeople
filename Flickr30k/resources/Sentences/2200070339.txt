@@ -1,0 +1,5 @@
+[/EN#33700/people A child] in [/EN#33702/clothing red and white striped pajamas] is standing and holding [/EN#33701/bodyparts her arms] up .
+[/EN#33700/people A young girl] in [/EN#33702/clothing striped pajamas] holding [/EN#33701/bodyparts her arms] up .
+[/EN#33700/people A child] is wearing [/EN#33702/clothing red and white striped pajamas] .
+[/EN#33700/people A child] wearing [/EN#33702/clothing red striped pajamas] is smiling .
+[/EN#33703/people A family] gathered opening [/EN#33704/other presents] .

@@ -1,0 +1,5 @@
+[/EN#980/people A person] in [/EN#985/clothing a green outfit] and [/EN#986/clothing helmet] is swinging [/EN#984/other a baseball bat] at [/EN#981/other a tennis ball] in front of [/EN#987/scene a fence] .
+[/EN#980/people A girl] playing [/EN#982/other softball] hits [/EN#981/other the ball] almost directly downwards
+[/EN#980/people A young girl] is playing [/EN#982/other baseball] and is striking out .
+[/EN#980/people A girl] hitting [/EN#981/other a softball] but [/EN#0/notvisual she] missed [/EN#981/other the ball] .
+[/EN#980/people The batter] missed [/EN#981/other the ball] .

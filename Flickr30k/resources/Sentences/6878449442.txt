@@ -1,0 +1,5 @@
+[/EN#260175/people A man] with [/EN#260185/clothing glasses] , [/EN#260186/clothing a gray button-up shirt] and [/EN#260187/clothing black pants] is standing next to [/EN#260181/scene a stage] used for [/EN#260182/other presentations] and is using [/EN#260184/other a power tool] to grind [/EN#260177/other an object] next to [/EN#260179/other a sawhorse] , emitting [/EN#260176/other many sparks] downward .
+[/EN#260175/people A man] grinds [/EN#260177/other a piece of metal] in front of [/EN#260183/people an onlooker] on [/EN#260180/scene a studio] set .
+[/EN#260175/people A man] is sawing [/EN#260177/other some objects] and [/EN#0/notvisual there] are [/EN#260176/other a lot of sparks] .
+[/EN#260175/people An older man] grinds down [/EN#260177/other some metal] , shooting [/EN#260176/other sparks] .
+[/EN#260175/people Older man] uses [/EN#260178/other grinder] in [/EN#260182/other presentation] .

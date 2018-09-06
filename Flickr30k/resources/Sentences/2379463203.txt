@@ -1,0 +1,5 @@
+[/EN#45190/scene A city street] shows [/EN#45201/vehicles cars] moving along [/EN#45199/scene the road] , [/EN#45197/people a man] in [/EN#45200/clothing black clothing] walking , and [/EN#45192/people a woman] talking to [/EN#45194/people a man] on [/EN#45193/vehicles a bicycle] .
+[/EN#45192/people A girl] with [/EN#45198/clothing a backpack] and [/EN#45194/people a boy] on [/EN#45193/vehicles a bike] are standing at [/EN#45196/scene a crosswalk] .
+[/EN#45191/people Two people] waiting to cross [/EN#45190/scene the road] and [/EN#45197/people a man] walking in [/EN#45195/scene the street] .
+[/EN#45191/people Two random people] talking to [/EN#0/notvisual each other] near [/EN#45190/scene a busy street] .
+[/EN#45191/people A couple of people] wait to cross [/EN#45190/scene the road] .

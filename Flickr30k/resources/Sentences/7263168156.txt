@@ -1,0 +1,5 @@
+[/EN#267667/people A man] wearing [/EN#267669/clothing army camouflage] stands behind [/EN#267671/vehicles the steering wheel of the vehicle] [/EN#0/notvisual he] is operating .
+[/EN#267667/people A military man] with [/EN#267670/clothing an orange safety vest] is behind [/EN#267671/vehicles the wheel of a military vehicle] .
+[/EN#267667/people Man] in [/EN#267669/clothing camouflage uniform] with [/EN#267670/clothing orange life vest] , piloting [/EN#267668/vehicles/scene a boat] .
+[/EN#267667/people A man] in [/EN#267669/clothing a military uniform] and [/EN#267673/people life jacket captains] [/EN#267668/vehicles/scene a boat] .
+[/EN#267667/people A military man] drives [/EN#267668/vehicles/scene a boat] .

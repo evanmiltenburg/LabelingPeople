@@ -1,0 +1,5 @@
+[/EN#280967/people A man] in [/EN#280969/clothing a blue shirt] is talking to [/EN#280974/people someone] unseen while next to [/EN#0/notvisual him] [/EN#280968/people a woman] in [/EN#280972/clothing a pink sweater] closes [/EN#280975/bodyparts her eyes] .
+[/EN#280967/people A man] about to get into [/EN#280971/other an argument] at [/EN#280976/scene a local pub] .
+[/EN#280968/people People] relaxing and conversing [/EN#280970/other indoors] .
+[/EN#280968/people People] enjoying [/EN#0/notvisual themselves] at [/EN#280970/other a party] .
+[/EN#280967/people A man] in [/EN#280969/clothing a blue shirt] sitting .

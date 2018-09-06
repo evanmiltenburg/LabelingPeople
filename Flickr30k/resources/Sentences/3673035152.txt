@@ -1,0 +1,5 @@
+[/EN#135934/people A little girl] in [/EN#135936/clothing an orange striped outfit] is airborne whilst bouncing on [/EN#135935/other a bed] .
+[/EN#135934/people A lady] with [/EN#135936/clothing a yellow outfit] is in [/EN#0/notvisual the air] above [/EN#135935/other the bed] in [/EN#135938/scene a yellow room] .
+[/EN#135934/people A girl] dressed in [/EN#135936/clothing orange] flies in [/EN#0/notvisual the air] while jumping on [/EN#135935/other the bed] .
+[/EN#135934/people A girl] is jumping on [/EN#135935/other the bed] .
+[/EN#135934/people Young girl] jumping on [/EN#135935/other a bed] .

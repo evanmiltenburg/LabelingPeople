@@ -1,0 +1,5 @@
+[/EN#10169/people A man] wearing [/EN#10175/clothing black pants] is holding up [/EN#10171/other a jackhammer] next to [/EN#10170/scene a broken cement walkway] .
+[/EN#10169/people A man] working at [/EN#10177/scene the side of the road] with [/EN#10171/other a grill] .
+[/EN#10169/people a man] in [/EN#10172/clothing a gray shirt] and [/EN#10174/clothing a hat] holding [/EN#10171/other a jackhammer]
+[/EN#10169/people A man] is using [/EN#10171/other a jackhammer] to work on [/EN#10170/scene a sidewalk] .
+[/EN#10169/people A man] with [/EN#10171/other a jackhammer] demolishing [/EN#10176/other cement]

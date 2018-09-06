@@ -1,0 +1,5 @@
+Wearing [/EN#186590/clothing a black shirt] , [/EN#186593/clothing sunglasses] and [/EN#186591/clothing a tiny striped tie] , [/EN#186587/people the man] with [/EN#186588/bodyparts the kewpie-doll hair] sits behind [/EN#186592/other his drum set] .
+[/EN#186587/people A drummer] plays [/EN#186592/instruments the drums] , while wearing [/EN#186590/clothing a black dress shirt] , and [/EN#186591/clothing black and gray striped tie] .
+[/EN#186587/people A man] in [/EN#186590/clothing a dark shirt] and [/EN#186591/clothing tie] is playing [/EN#186592/instruments the drums] .
+[/EN#186587/people A white male] is playing [/EN#186592/instruments the drums] .
+[/EN#186587/people Man] with [/EN#186589/bodyparts Mohawk] is playing [/EN#186592/instruments drums] .

@@ -1,0 +1,5 @@
+[/EN#49755/people A cyclist] is biking down [/EN#49760/scene the street] with [/EN#49756/clothing a helmet] and [/EN#49757/clothing some glasses] on .
+[/EN#49755/people A man] in [/EN#49757/clothing glasses] and [/EN#49756/clothing a helmet] " [/EN#49762/other extreme] bicycling " for [/EN#49763/other exercise] .
+[/EN#49755/people A man] in [/EN#49758/clothing a red jacket] is bicycling down [/EN#49760/scene the road] .
+[/EN#49755/people A white man] in [/EN#49758/clothing a red shirt] riding [/EN#49759/vehicles a bike] .
+[/EN#49755/people A man] in [/EN#49758/clothing red] biking in [/EN#49761/scene a neighborhood] .

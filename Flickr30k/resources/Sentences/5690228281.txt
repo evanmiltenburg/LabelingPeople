@@ -1,0 +1,5 @@
+[/EN#241059/people A man] in [/EN#241061/clothing a yellow outfit] , fixing [/EN#241060/other something] on [/EN#241064/scene the corner of a house] .
+[/EN#241059/people A guy] in [/EN#241061/clothing a yellow suit] is putting [/EN#241067/other numbers] on [/EN#241064/scene the side of a roof] .
+[/EN#241059/people A man] wearing [/EN#241063/clothing lime green pants] and [/EN#241068/clothing shirt] working on [/EN#241060/other a sign] .
+[/EN#241059/people A man] in [/EN#241061/clothing neon clothes] fixes [/EN#241060/other a street sign] .
+[/EN#241059/people A man] is working on [/EN#241066/other a sign] [/EN#241065/scene outdoors] .

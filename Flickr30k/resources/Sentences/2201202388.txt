@@ -1,0 +1,5 @@
+[/EN#33780/people A young guy] is brushing [/EN#33785/bodyparts his teeth] with [/EN#33781/clothing no shirt] standing in front of [/EN#33782/other a mirror] wearing [/EN#33783/clothing his goggles] .
+[/EN#33780/people A shirtless man] only wearing [/EN#33783/clothing sunglasses] and [/EN#33784/clothing jeans] brushing [/EN#33785/bodyparts his teeth] .
+[/EN#33780/people A man] [/EN#0/notvisual that] is not wearing [/EN#33781/clothing a shirt] is brushing [/EN#33785/bodyparts his teeth] .
+[/EN#33780/people A man] with [/EN#33783/clothing glasses] and [/EN#33781/clothing no shirt] brushing [/EN#33785/bodyparts his teeth] .
+[/EN#33780/people A man] brushing [/EN#33785/bodyparts his teeth] in [/EN#33782/other the mirror] .

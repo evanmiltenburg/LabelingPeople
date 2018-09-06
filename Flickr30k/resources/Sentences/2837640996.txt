@@ -1,0 +1,5 @@
+[/EN#75904/people A man] wearing [/EN#75906/clothing a green t-shirt] sits with [/EN#75909/bodyparts his legs] on [/EN#75908/other a ledge] and talks on [/EN#75905/other the phone] .
+[/EN#75904/people The man] in [/EN#75906/clothing the green t-shirt] has [/EN#75907/bodyparts his feet] up whilst talking on [/EN#75905/other a cellphone] .
+[/EN#75904/people Seated man] with [/EN#75910/clothing red hat] and [/EN#75906/clothing green shirt] is talking on [/EN#75905/other the phone] .
+[/EN#75904/people A man] talks on [/EN#75905/other the phone] with [/EN#75907/bodyparts his feet] up .
+[/EN#75904/people A man] with [/EN#75907/bodyparts his feet] up using [/EN#75905/other a telephone] .

@@ -1,0 +1,5 @@
+[/EN#221093/people A man] wearing [/EN#221096/clothing a dark scarf] and [/EN#221097/clothing pants] stands in front of [/EN#221094/scene a shop] .
+[/EN#221093/people An older man] with [/EN#221098/bodyparts gray hair] is standing outside of [/EN#221094/scene a store] .
+[/EN#221093/people An elderly gray-haired man] standing before [/EN#221095/other a storefront] .
+[/EN#221093/people An older man] stand outside of [/EN#221095/other a shop window] .
+[/EN#221093/people An older man] is standing outside [/EN#221094/scene a shop] .

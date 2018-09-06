@@ -1,0 +1,5 @@
+[/EN#38391/people a girl] in [/EN#38393/clothing a green dress] and [/EN#38394/clothing pink jacket] is running down [/EN#38392/scene a dusty path] in [/EN#38392/scene a grassy park] .
+[/EN#38391/people A little girl] holding [/EN#38397/other flowers] is walking away down [/EN#38392/scene a path] on [/EN#38396/scene a sunny day] .
+[/EN#38391/people A girl] wearing [/EN#38394/clothing a pink sweater] and [/EN#38393/clothing green dress] in walking down [/EN#38392/scene a path] .
+[/EN#38391/people A little girl] walking down [/EN#38392/scene the sidewalk] .
+[/EN#38391/people A little girl] is walking along [/EN#38392/scene a path] .

@@ -1,0 +1,5 @@
+[/EN#227856/people A group of people] are standing in front of [/EN#227857/vehicles parked bicycles] on [/EN#227859/scene a corner] with [/EN#227863/other various] carrying [/EN#227864/clothing bags] on [/EN#0/notvisual the ground] .
+[/EN#227856/people A group of male bicyclists] talk outside [/EN#227858/scene a bar] with [/EN#227862/other their gear] sitting on [/EN#0/notvisual the ground] .
+[/EN#227856/people Several young people] standing next to [/EN#227857/vehicles ten-speed bikes] .
+[/EN#227857/vehicles bicycles] stationed while [/EN#227860/other a group of people socialize] .
+[/EN#227856/people Many people] are hanging out by [/EN#227861/scene the bicycle racks] .

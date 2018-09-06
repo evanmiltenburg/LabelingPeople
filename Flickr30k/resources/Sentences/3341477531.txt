@@ -1,0 +1,5 @@
+[/EN#110950/people The skateboarder] enjoys [/EN#110955/scene night] skating at [/EN#110954/scene the skate park] .
+[/EN#110950/people A shirtless man] skateboarding with [/EN#110957/bodyparts his arms] in [/EN#0/notvisual the air] .
+[/EN#110950/people A shirtless man] is doing [/EN#0/notvisual a skateboard trick] .
+[/EN#110950/people A shirtless man] skateboards on [/EN#110951/other a ledge] .
+[/EN#110950/people A shirtless man] rides [/EN#110953/other a skateboard] .

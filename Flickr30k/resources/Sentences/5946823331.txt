@@ -1,0 +1,5 @@
+[/EN#245845/people A dirt bike rider] on [/EN#245847/vehicles a green dirt bike] spraying [/EN#245850/scene dirt] next to [/EN#245846/people a crowd] in [/EN#245849/other a race] .
+[/EN#245845/people A motocross rider] riding [/EN#245847/vehicles his bike] on [/EN#245850/scene a track] in front of [/EN#245846/people a small crowd] .
+[/EN#245845/people A biker] skids [/EN#245852/other his back tire] in [/EN#245854/other the mud] as [/EN#245846/people the crowd] watches .
+[/EN#245846/people A crowd of people] watching [/EN#245845/people a man] ride on [/EN#245847/vehicles a dirt bike] .
+[/EN#0/notvisual This] is [/EN#245848/other a Dirt bike spin] out on [/EN#245853/scene left bank route] .

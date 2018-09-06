@@ -1,0 +1,5 @@
+[/EN#143789/people A man] with [/EN#143797/other a " used cars " advertisement] atop [/EN#143791/vehicles his car] drives down [/EN#143796/scene the street] .
+[/EN#143789/people A man] in [/EN#143791/vehicles a used car] is holding [/EN#143802/bodyparts his hand] out [/EN#143798/other the window] and taking [/EN#143795/other a picture] .
+[/EN#143789/people A man] is driving [/EN#143791/vehicles a car] with [/EN#143793/other a sign] on [/EN#143800/scene the roof] advertising [/EN#143801/vehicles used cars]
+[/EN#143790/people The passenger] is holding onto [/EN#143792/other the load] on top of [/EN#143791/vehicles the car] .
+[/EN#143789/people A man] sticks [/EN#143794/other a camera] out of [/EN#143791/vehicles his vehicle] while [/EN#143799/other driving] .

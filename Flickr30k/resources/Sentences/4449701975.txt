@@ -1,0 +1,5 @@
+[/EN#169500/people An elderly woman] carrying [/EN#169503/clothing a purse] and [/EN#169504/clothing a shopping bag] exiting [/EN#169501/vehicles a small smart car] .
+[/EN#169500/people A woman] wearing [/EN#169505/clothing a tan coat] is getting out of [/EN#169501/vehicles a small red car] .
+[/EN#169500/people Middle-aged woman] exiting [/EN#169501/vehicles a very small compact red car] .
+[/EN#169500/people Women] getting out of [/EN#169501/vehicles a very small red car] .
+[/EN#169500/people A woman] gets out of [/EN#169501/vehicles a very small red car] .

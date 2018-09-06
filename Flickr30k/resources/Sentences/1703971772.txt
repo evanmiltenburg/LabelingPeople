@@ -1,0 +1,5 @@
+[/EN#19032/people Two girls] on [/EN#19037/vehicles tricycles] are riding around [/EN#19033/scene a concrete area] [/EN#0/notvisual that] resembles [/EN#19034/other part of a maze] .
+[/EN#19032/people Two girls] on [/EN#19036/vehicles red bikes] ride by [/EN#19035/other an empty blue dumpster] in [/EN#19033/scene the street] .
+[/EN#19032/people An overhead view of two girls] riding on [/EN#19036/vehicles bike] .
+[/EN#19032/people Two young girls] are riding [/EN#19036/vehicles red tricycles] .
+[/EN#19032/people Two girls] are riding [/EN#19036/vehicles red tricycles] .

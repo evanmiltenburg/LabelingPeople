@@ -1,0 +1,5 @@
+[/EN#221150/people A boy] sits on [/EN#221152/scene a grass hill] in front of [/EN#221151/other an abstract mobile sculpture] .
+[/EN#221151/other A reflector device] beside [/EN#221150/people a little boy] sitting on [/EN#221152/scene the grass] .
+[/EN#221150/people A child] sits on [/EN#221152/other a grassy hillside] next to [/EN#221151/other a steel structure] .
+[/EN#221150/people A boy] sits on [/EN#221152/scene the grass] near [/EN#221151/other a geometric sculpture] .
+[/EN#221150/people A young boy] sits next to [/EN#221151/other a wind sculpture] .

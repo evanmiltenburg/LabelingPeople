@@ -1,0 +1,5 @@
+[/EN#175232/people Boy] in [/EN#175235/clothing green striped shirt] leaning on [/EN#175233/other a large pole] outside in [/EN#175238/other the sunlight] .
+[/EN#175232/people A boy] with [/EN#175235/clothing a green striped shirt] stands in front of [/EN#175233/other a flag pole] .
+[/EN#175232/people A boy] in [/EN#175235/clothing a green striped shirt] stands near [/EN#175233/other a pole] and [/EN#175237/other two flags] .
+[/EN#175232/people A young boy] leans against [/EN#175233/scene a post] with [/EN#175236/other a striped flag] .
+[/EN#175232/people A boy] [/EN#0/notvisual who] looks bored is standing against [/EN#175234/other a tree] .

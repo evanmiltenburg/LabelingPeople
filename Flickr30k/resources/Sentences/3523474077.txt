@@ -1,0 +1,5 @@
+[/EN#124650/people The man] in [/EN#124651/clothing a blue shirt] is holding [/EN#124652/other a camera] near to [/EN#124654/people a boy] wearing [/EN#124653/clothing a backpack] .
+[/EN#124650/people a man] holding [/EN#124652/other a digital camera] standing outside of [/EN#124656/scene a huge building] .
+[/EN#124650/people A man] in [/EN#124651/clothing a blue t-shirt] holds [/EN#124652/other a camera] .
+[/EN#124650/people A man] in [/EN#124651/clothing a blue shirt] holding [/EN#124652/other a camera] .
+[/EN#124650/people a man] wearing [/EN#124651/clothing blue] holds [/EN#124652/other a camera] .

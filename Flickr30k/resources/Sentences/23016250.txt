@@ -1,0 +1,5 @@
+[/EN#40113/people A young woman] plays [/EN#40115/other tennis] while wearing [/EN#40114/clothing a yellow outfit] .
+[/EN#40113/people A woman] wearing [/EN#40114/clothing a yellow outfit] is holding [/EN#40115/other a racket] .
+[/EN#40113/people A woman tennis player] reacts after hitting [/EN#40118/other the ball] .
+[/EN#0/notvisual There] is [/EN#40113/people a woman] in [/EN#40114/clothing yellow] playing [/EN#40115/other tennis] .
+[/EN#40113/people Woman] in [/EN#40114/clothing yellow] playing [/EN#40115/other tennis] .

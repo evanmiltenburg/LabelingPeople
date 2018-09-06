@@ -1,0 +1,5 @@
+[/EN#107300/people A man] , dressed in [/EN#107301/clothing white] and wearing [/EN#107302/clothing a red cap] , plays on [/EN#107303/scene the grass] .
+[/EN#107300/people A man] in [/EN#107304/clothing a rugby uniform] hitting [/EN#107305/other a ball] in [/EN#107303/scene a grassy field] .
+[/EN#107300/people A cricket batter] , dressed all in [/EN#107304/clothing white] , makes [/EN#107308/other a hit]
+[/EN#107300/people Cricket player] with [/EN#107302/clothing red cap] hits [/EN#107306/scene the ball outdoors] .
+[/EN#107300/people A man] playing [/EN#107307/other cricket]

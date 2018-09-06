@@ -1,0 +1,5 @@
+[/EN#44675/people Male] wearing [/EN#44678/clothing orange trunks] on [/EN#44679/scene the water] in [/EN#44676/vehicles a speedboat] leaving [/EN#44677/scene the dock] .
+[/EN#44675/people A man] in [/EN#44678/clothing red bottoms] standing while riding [/EN#44680/other his motor] powered [/EN#44676/scene raft] .
+[/EN#44675/people A man] standing on [/EN#44681/other his moving bout] in [/EN#44677/scene the harbor] .
+[/EN#44675/people A man] in [/EN#44678/clothing red swim trunks] on [/EN#44676/vehicles/scene a boat] in [/EN#44679/scene the water] .
+[/EN#44675/people A man] in [/EN#44678/clothing swim trunks] is riding on [/EN#44676/vehicles/scene a boat] .

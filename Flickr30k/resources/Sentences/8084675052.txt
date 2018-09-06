@@ -1,0 +1,5 @@
+[/EN#278789/people A boy] dressed in [/EN#278799/clothing jeans] and [/EN#278795/clothing a blue sweatshirt] and [/EN#278790/people a girl] dressed in [/EN#278792/clothing pink] are hiking on [/EN#278791/scene a path] through [/EN#278793/other the woods] .
+[/EN#278790/people A girl] wearing [/EN#278792/clothing pink] is walking ahead of [/EN#278789/people a boy] wearing [/EN#278795/clothing blue] along [/EN#278791/scene a path] in [/EN#278793/other the woods] .
+[/EN#278789/people A little boy] and [/EN#278790/people a little girl] are walking up [/EN#278791/scene a hill] with [/EN#278793/other trees] on [/EN#0/notvisual both sides] .
+[/EN#278790/people A girl] in [/EN#278800/other ping] and [/EN#278789/people a boy] in [/EN#278795/clothing blue] walk through [/EN#278791/scene a forest trail] .
+[/EN#278794/people Two children] are walking through [/EN#278793/other the woods] .

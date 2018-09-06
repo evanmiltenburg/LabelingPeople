@@ -1,0 +1,5 @@
+[/EN#37162/people Woman] on [/EN#37163/scene the street window shops] in front of [/EN#37164/other the store , Louis Vuitton] .
+[/EN#37162/people The woman] in [/EN#37165/clothing black] is looking at [/EN#37166/clothing outfits] in [/EN#37163/other a clothing store window] .
+[/EN#37162/people A woman] looks at [/EN#37166/clothing clothes] in [/EN#37163/other a Louis Vuitton store window] .
+[/EN#37163/other A woman window] shops outside of [/EN#37164/scene a Louis Vuitton store] .
+[/EN#37163/other A Louis Vuitton store window] at [/EN#37168/scene night] .

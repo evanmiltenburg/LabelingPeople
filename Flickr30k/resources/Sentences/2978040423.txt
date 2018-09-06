@@ -1,0 +1,5 @@
+[/EN#85196/people A woman] wearing [/EN#85199/clothing a white shirt] , [/EN#85205/clothing tan pants] , and [/EN#85202/clothing boots] is standing beside [/EN#85198/vehicles a vendor cart] [/EN#0/notvisual that] contains [/EN#85209/other various beverages] .
+[/EN#85196/people Lady] at [/EN#85197/scene the beach] standing next to [/EN#85198/vehicles her ice cream cart] , [/EN#85203/people numerous people] is lounging in [/EN#0/notvisual the background] .
+[/EN#85196/people A treat vendor] is standing in [/EN#85207/other the sun] while [/EN#85204/other others] sit in [/EN#85206/other the shade] under [/EN#85208/clothing umbrellas] .
+[/EN#85196/people A black woman] wearing [/EN#85200/clothing a blue hat] and [/EN#85199/clothing white t-shirt] is standing at [/EN#85201/scene a snow cone stand] .
+[/EN#85196/people Woman] with [/EN#85198/vehicles a vending cart] in [/EN#85197/scene the middle of a beach] .

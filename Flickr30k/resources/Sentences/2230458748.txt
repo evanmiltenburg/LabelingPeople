@@ -1,0 +1,5 @@
+[/EN#35612/people A smiling woman] in [/EN#35613/clothing an apron] stirs [/EN#35614/other a pot] on [/EN#35615/other the stove] while [/EN#35616/other pasta] hangs to dry in [/EN#0/notvisual the foreground] .
+[/EN#35612/people Slightly inebriated woman] in [/EN#35613/clothing a maroon apron] excitedly stirs [/EN#35614/other a large pot] .
+[/EN#35612/people A woman] in [/EN#35613/clothing an apron] smiles as [/EN#0/notvisual she] stirs [/EN#35621/other something] in [/EN#35614/other a pot] .
+[/EN#35612/people A woman] in [/EN#35613/clothing a red apron] cooking in [/EN#35618/scene the kitchen] .
+[/EN#35612/people A woman] being excited for [/EN#35617/other cooking] .

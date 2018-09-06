@@ -1,0 +1,5 @@
+[/EN#44061/people A man] is moving [/EN#44062/scene a gate] [/EN#0/notvisual that] impedes [/EN#44065/vehicles/scene the progress of an oncoming train] .
+[/EN#44061/people A man] is closing [/EN#44062/scene a gate] with [/EN#44065/vehicles/scene a train] in [/EN#0/notvisual the distance] .
+[/EN#44061/people A man] opens [/EN#44062/scene a gate] in front of [/EN#44065/vehicles/scene a train] .
+[/EN#44063/people Three men] working with [/EN#44064/other a locomotive] .
+[/EN#44063/people Men] unlocking [/EN#44062/scene a gate] for [/EN#44065/vehicles/scene a train] .

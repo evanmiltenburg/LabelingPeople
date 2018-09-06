@@ -1,0 +1,5 @@
+[/EN#222141/scene A plaza] consisting of [/EN#222140/scene restaurants] with [/EN#222145/people people] walking [/EN#222137/scene the streets] and sitting [/EN#222144/scene outdoors] .
+[/EN#222137/scene a city road] between [/EN#222138/scene two shops] with [/EN#222143/people men] walking into [/EN#0/notvisual it]
+[/EN#222137/scene a long city street] surrounded by [/EN#222138/scene large buildings]
+[/EN#222142/scene A street] with [/EN#222146/other a cafe] and [/EN#222147/other eatery] in [/EN#222148/other Italy] .
+[/EN#222137/scene A brick road] between [/EN#222139/scene tall buildings] .

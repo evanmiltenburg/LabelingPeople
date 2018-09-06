@@ -1,0 +1,5 @@
+[/EN#136278/people A skateboard teenager] wearing [/EN#136283/clothing a dark shirt] and [/EN#136284/clothing blue jeans] rides [/EN#136280/other his board] on top of [/EN#136279/other a red fireplug] .
+[/EN#136278/people A skateboarder] leaps in [/EN#0/notvisual the air] on [/EN#136282/scene a city street] .
+[/EN#136278/people A male] jumps in [/EN#0/notvisual the air] while on [/EN#136280/other a skateboard] .
+[/EN#136278/people This skater] is jumping over [/EN#136279/other a hydrant] .
+[/EN#136278/people A boy] on [/EN#136280/other a skateboard] in [/EN#136281/scene midair]

@@ -1,0 +1,5 @@
+[/EN#50787/people A man] in [/EN#50788/clothing a dark shirt] stands in front of [/EN#50789/other produce] on [/EN#50790/other a pink tablecloth] .
+[/EN#50787/people A man] is looking at [/EN#50789/other vegetables] at [/EN#50792/scene a Farmer 's Market] .
+[/EN#50787/people People] looking at [/EN#50789/other vegetables] at [/EN#50792/scene an outdoor market] .
+[/EN#50787/people A man] looks through [/EN#50789/other produce] at [/EN#50793/people a Farmers] [/EN#50792/scene ' Market] .
+[/EN#50787/people A man] is at [/EN#50787/scene a stand] looking at [/EN#50789/other produce] .

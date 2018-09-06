@@ -1,0 +1,5 @@
+[/EN#20501/people A child] in [/EN#20502/clothing a red sweatshirt] , [/EN#20503/clothing jeans] , and [/EN#20504/clothing black bike helmet] and [/EN#20505/animals a dog] pose for [/EN#20508/other a picture] outdoors .
+[/EN#20505/animals A black and white dog] lies on [/EN#0/notvisual the ground] next to [/EN#20501/people a little girl] on [/EN#20506/vehicles a red bicycle] in [/EN#20507/other the woods] .
+[/EN#20505/animals The dog] is laying on [/EN#0/notvisual the ground] next to [/EN#20501/people the little girl] with [/EN#20506/vehicles the red bike] .
+[/EN#20501/people A little girl] poses on [/EN#20506/vehicles her bike] with [/EN#20505/animals her dog] in [/EN#20507/other the woods] .
+[/EN#20501/people A child] is sitting on [/EN#20506/vehicles a bike] next to [/EN#0/notvisual her] [/EN#20505/animals dog]

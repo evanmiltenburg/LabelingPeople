@@ -1,0 +1,5 @@
+[/EN#178996/people A woman] in [/EN#179000/clothing a yellow shirt] and [/EN#178998/clothing blue jacket] holds [/EN#179001/bodyparts hands] with [/EN#178995/people a man] in [/EN#178999/clothing a blue jacket] and [/EN#178997/clothing black shirt] while walking past [/EN#179006/other a gray-blue manhole cover] .
+[/EN#178996/people woman] wearing [/EN#179000/clothing a yellow shirt] holding [/EN#179001/bodyparts hands] with [/EN#178995/people a man] wearing [/EN#178997/clothing a black shirt] .
+[/EN#178996/people A woman] in [/EN#178998/clothing a blue jacket] holds [/EN#179005/people the hand of man] in [/EN#178999/clothing a blue jacket]
+[/EN#178995/people A couple] [/EN#0/notvisual who] [/EN#0/notvisual both] wear [/EN#179004/clothing glasses] are walking and holding [/EN#179001/bodyparts hands] .
+[/EN#178995/people The man] in [/EN#178999/clothing the jacket] is holding [/EN#179003/bodyparts the lady 's hand] .

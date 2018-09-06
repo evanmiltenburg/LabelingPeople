@@ -1,0 +1,5 @@
+[/EN#26501/people A little boy] wearing [/EN#26508/clothing goggles] on top of [/EN#26510/bodyparts his head] , walks through [/EN#26503/scene a deep water puddle] with [/EN#26509/clothing long pants] on .
+[/EN#26504/people A small child] in [/EN#26507/clothing blue raincoat] and [/EN#26501/people a small child] in [/EN#26506/clothing a white shirt] is waling in [/EN#26503/scene the rain water] .
+[/EN#26502/people Small children] are wading through [/EN#26503/scene shallow waters] [/EN#0/notvisual that] are flooding [/EN#26505/scene the street] .
+[/EN#26502/people People] walking in [/EN#26503/scene a big puddle] .
+[/EN#26502/people Children] walking in [/EN#26511/other the rain] .

@@ -1,0 +1,5 @@
+[/EN#160423/people a person] wearing [/EN#160428/clothing a white hooded sweatshirt] covered with [/EN#160423/other a blanket] sitting on [/EN#160424/other a bench] reading
+[/EN#160423/people The person] wearing [/EN#160423/scene the white sheet] and [/EN#160428/clothing white hoodie] sits on [/EN#160424/other the bench] reading .
+[/EN#160423/people Woman] wrapped in [/EN#160423/other blanket] sits on [/EN#160424/other bench] and reads in [/EN#160427/scene park] .
+[/EN#160423/people A woman] sits on [/EN#160424/other a bench] reading [/EN#160426/other a newspaper] .
+[/EN#160423/people A woman] reads [/EN#160426/other a paper] on [/EN#160424/other a bench] in [/EN#160427/scene a park] .

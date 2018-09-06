@@ -1,0 +1,5 @@
+[/EN#155201/people A man] sitting on [/EN#155203/other a bucket] , facing away from [/EN#155205/people viewer] , with [/EN#155202/other flowers] in front of [/EN#0/notvisual him] .
+[/EN#155201/people A man] is sitting on [/EN#155203/other a bucket] looking at [/EN#155202/other flowers] .
+[/EN#155201/people A man] in [/EN#155204/clothing a flannel shirt] is arranging [/EN#155202/other a bouquet] .
+[/EN#155201/people A man] in [/EN#155204/clothing a plaid jacket] works with [/EN#155202/other flowers] .
+[/EN#155201/people A man] is outside [/EN#155206/scene a store] selling [/EN#155202/other flowers] .

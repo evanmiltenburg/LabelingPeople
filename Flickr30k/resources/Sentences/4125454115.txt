@@ -1,0 +1,5 @@
+[/EN#156417/people One woman] is sitting on [/EN#156420/other a couch] with [/EN#156422/other a bottle] in [/EN#156423/bodyparts her hand] while [/EN#0/notvisual another] is on [/EN#156424/scene the floor] with [/EN#156416/people a child] looking at [/EN#156419/other a computer] .
+[/EN#156417/people A woman] and [/EN#156416/people a child] are looking at [/EN#156419/other a laptop] while [/EN#156417/people another woman] is sitting on [/EN#156420/other the couch] .
+[/EN#156417/people One woman] watches while [/EN#156417/people another woman] and [/EN#156416/people a child] look on [/EN#156419/other the computer] .
+[/EN#156416/people A child] watches intently as [/EN#156417/people a woman] uses [/EN#156419/other a MacBook laptop] .
+[/EN#156421/people A family] sitting around [/EN#156419/other a Macintosh] .

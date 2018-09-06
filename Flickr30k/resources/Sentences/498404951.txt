@@ -1,0 +1,5 @@
+[/EN#226069/animals A white dog] with [/EN#226070/bodyparts long hair] wades through [/EN#226071/scene a pond] surrounded by [/EN#226072/scene green grass] .
+[/EN#226069/animals A blond puppy] wearing [/EN#226073/clothing a red collar] is standing in [/EN#226071/scene the water] .
+[/EN#226069/animals A furry dog] with [/EN#226073/clothing a collar] is sitting in [/EN#226071/scene a pond] .
+[/EN#226069/animals A tan dog] swims around in [/EN#226071/scene the water] .
+[/EN#226069/animals White dog] at [/EN#226071/scene the edge of the water] .

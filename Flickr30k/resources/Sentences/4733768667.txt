@@ -1,0 +1,5 @@
+[/EN#196849/people A man] in [/EN#196853/clothing black leather pants] is holding [/EN#196850/other something] in [/EN#196858/bodyparts his hand] over [/EN#196857/scene the water] , while standing on [/EN#196851/scene a bridge] .
+[/EN#196849/people A man] standing in front of [/EN#196854/scene a gate] wearing [/EN#196853/clothing black pants] and [/EN#196852/clothing a red shirt] .
+[/EN#196849/people An African American man] is standing on [/EN#196851/scene a bridge] wearing [/EN#196852/clothing a pink shirt] .
+[/EN#196849/people The man] wearing [/EN#196852/clothing the red shirt] is looking over [/EN#196856/scene the walkway] .
+[/EN#196849/people A man] on [/EN#196851/scene a bridge] holds [/EN#196850/other a blue object] over [/EN#196855/other the rail] .

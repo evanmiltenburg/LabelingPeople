@@ -1,0 +1,5 @@
+[/EN#184526/people A man] wearing [/EN#184529/clothing a white shirt] and [/EN#184534/clothing dark pants] is standing at [/EN#184528/other the railing] outside [/EN#184527/scene a building] with [/EN#184530/other Asian language] writing displayed on [/EN#0/notvisual it] .
+[/EN#184526/people A person] in [/EN#184529/clothing a white shirt] standing in [/EN#184527/scene front a building] with [/EN#184527/other a lot of glass] .
+[/EN#184526/people A man] in [/EN#184529/clothing a white T-shirt] is overlooking [/EN#184528/other a guard rail] .
+[/EN#184526/people A tourist] in [/EN#184532/other a chinese hall or exhibit] .
+[/EN#184526/people A man] with [/EN#184531/clothing a bag] leaning on [/EN#184528/other a railing] .

@@ -1,0 +1,5 @@
+[/EN#248704/people A person] wearing [/EN#248710/clothing a white suit] is riding [/EN#248705/vehicles their bike] through [/EN#248706/scene a dense forest] , on [/EN#248708/scene a trail] .
+[/EN#0/notvisual There] is [/EN#248704/people a biker] riding [/EN#248705/vehicles a bike] in [/EN#248709/scene midair] in [/EN#248706/scene an outdoor setting] .
+[/EN#248704/people A mountain biker] takes on [/EN#248711/other the challenge of an off-road course] .
+[/EN#248704/people A person] is riding [/EN#248705/vehicles a bike] through [/EN#248707/scene a forest] .
+[/EN#248704/people A man] biking through [/EN#248706/scene the wilderness] .

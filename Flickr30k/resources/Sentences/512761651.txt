@@ -1,0 +1,5 @@
+[/EN#229514/people A young businessman] walking down [/EN#229515/scene the street] while [/EN#229513/animals a black bird] flies in front of [/EN#0/notvisual him] .
+As [/EN#229514/people a man] walks down [/EN#229515/scene the street] [/EN#229513/animals a pigeon] swoops behind [/EN#0/notvisual him] .
+[/EN#229513/animals A bird] flies low as [/EN#229514/people a businessman] walks down [/EN#229515/scene the street] .
+[/EN#229514/people A man] in [/EN#229516/clothing a tie] walking past [/EN#229513/animals a bird] in [/EN#229517/other flight] .
+[/EN#229513/animals A bird] flying pass [/EN#229515/scene the walkway] .

@@ -1,0 +1,5 @@
+[/EN#24543/people A woman] and [/EN#24547/people a little girl] playing in [/EN#24549/other the sand] next to [/EN#24546/scene the ocean]
+[/EN#24544/people Two people] run down [/EN#24545/scene the beach] and [/EN#0/notvisual one of them] is pointing .
+[/EN#24544/people two people] running on [/EN#24545/scene the shore of a beach]
+[/EN#24543/people An adult] and [/EN#24547/people a child] run on [/EN#24545/scene the beach] .
+[/EN#24544/people Two people] running on [/EN#24545/scene a beach] .

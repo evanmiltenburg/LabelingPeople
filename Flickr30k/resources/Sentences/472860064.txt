@@ -1,0 +1,5 @@
+[/EN#196189/animals a gray dog] jumps in [/EN#0/notvisual the air] to catch [/EN#196190/other a Frisbee] in [/EN#196191/scene a grassy park]
+[/EN#196189/animals A black dog] in front of [/EN#196192/other a tree] jumping [/EN#196195/other towards] [/EN#196190/other a red Frisbee] .
+[/EN#196189/animals A shaggy dog] jumps [/EN#196193/scene outside] in [/EN#196191/scene the grass] .
+[/EN#196189/animals The black dog] is jumping up in [/EN#0/notvisual the air] .
+[/EN#196189/animals A dog] jumps through [/EN#196191/scene the grass] .

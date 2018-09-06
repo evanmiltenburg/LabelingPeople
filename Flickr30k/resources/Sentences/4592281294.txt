@@ -1,0 +1,5 @@
+[/EN#181201/people A woman] is talking to [/EN#181202/people a child] in [/EN#181203/vehicles a carriage] that [/EN#0/notvisual she] is pushing .
+[/EN#181201/people A woman] looking into [/EN#181203/vehicles a red and white baby carriage] in [/EN#181205/scene a park] .
+[/EN#181201/people The lady] in [/EN#181206/clothing blue] is pushing [/EN#181203/other the gray and red baby stroller] .
+[/EN#181201/people A woman] is smiling at [/EN#181202/people a baby] in [/EN#181203/other a stroller] in [/EN#181205/scene a meadow] .
+[/EN#181201/people A woman] leans in to peek inside of [/EN#181203/other a stroller] .

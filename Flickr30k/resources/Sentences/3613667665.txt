@@ -1,0 +1,5 @@
+[/EN#131666/animals A black dog] runs across [/EN#131668/scene the water] at [/EN#131668/scene a beach] while [/EN#0/notvisual another] follows .
+[/EN#131666/animals The black dog] is running through [/EN#131668/scene the water] on [/EN#131668/scene the beach] .
+[/EN#131666/animals Two black dogs] splash through [/EN#131671/scene the waves] on [/EN#131668/scene a beach] .
+[/EN#131666/animals A pair of black dogs] runs in [/EN#131670/other the surf] .
+[/EN#131666/animals Dogs] run in [/EN#131670/other the surf] .

@@ -1,0 +1,5 @@
+[/EN#64354/people Many people] lounge in [/EN#64355/scene the long grassy lawn of a classically constructed building] , [/EN#0/notvisual many of them] on [/EN#64356/other folding chairs] .
+[/EN#64354/people A large group of people] are sitting on [/EN#0/notvisual the ground] and in [/EN#64356/other chairs] over [/EN#64355/scene a grassy area] .
+[/EN#64354/people Lots of people] are sitting on [/EN#64355/other blankets] and [/EN#64356/other lawn chairs] in [/EN#64355/scene the grass] .
+[/EN#64354/people A large group of people] are hanging out on [/EN#64355/scene a large lawn] .
+[/EN#0/notvisual There] are [/EN#64354/people many people] in [/EN#64355/scene this park] .

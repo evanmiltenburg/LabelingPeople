@@ -1,0 +1,5 @@
+[/EN#98569/people Someone] is snowboarding down [/EN#98570/scene a hill] , shredding [/EN#98571/scene snow] .
+[/EN#98569/people Person] snowboarding down [/EN#98571/other a snow covered slope] .
+[/EN#98569/people The man] is snowboarding down [/EN#98570/scene a snowy hill] .
+[/EN#98569/people A person] snowboarding down [/EN#98570/scene a snowy hill] .
+[/EN#98569/people A snowboarder] is coming down [/EN#98570/scene a hill] .

@@ -1,0 +1,5 @@
+[/EN#125942/people A man] wearing [/EN#125950/clothing shorts] and [/EN#125944/clothing a long-sleeved orange shirt] , [/EN#125938/people a woman] wearing [/EN#125949/clothing pink shorts] and [/EN#125945/clothing a long-sleeved white shirt] , and [/EN#125951/people two women] wearing [/EN#125947/clothing black shorts] , [/EN#125941/clothing yellow t-shirts] , and [/EN#125952/clothing white hats] participate in [/EN#125940/other an organized race] .
+[/EN#125938/people A woman] with [/EN#125943/other the name] [/EN#125943/other Steph] on [/EN#125941/clothing her yellow shirt] is participating in [/EN#125940/other a running race] with [/EN#125948/people other racers] .
+[/EN#125939/people Four runners] are competing in [/EN#125940/other a road race] .
+[/EN#125939/people Four runners] competing in [/EN#125940/other a road race] .
+[/EN#125939/people Four runners] race down [/EN#125953/scene the street] .

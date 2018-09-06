@@ -1,0 +1,5 @@
+[/EN#11442/people two guys] one in [/EN#11443/clothing red] and [/EN#11444/other the other] in [/EN#11445/clothing black] sitting at [/EN#11446/other computers]
+[/EN#11442/people Two men] sitting at [/EN#11447/other a shared desk] on [/EN#11446/other their computers] .
+[/EN#11442/people Two men] sit at [/EN#11446/other work computers] and [/EN#11449/other work] at [/EN#11450/scene night] .
+[/EN#11442/people Two men] are sitting working on [/EN#11446/other their computers] .
+[/EN#0/notvisual There] 's [/EN#11442/people two men] typing on [/EN#11448/other a computer] .

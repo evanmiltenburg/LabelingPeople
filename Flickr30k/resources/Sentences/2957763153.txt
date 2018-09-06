@@ -1,0 +1,5 @@
+[/EN#84150/people A man] in [/EN#84151/clothing a small bathing suit] talks to [/EN#84155/people another man] on [/EN#84152/scene the beach] in front of [/EN#84147/other a beach patrol] stand .
+[/EN#84148/other A beach patrol station] on [/EN#84152/scene the beach] in front of [/EN#84153/scene the ocean] with [/EN#84150/people a man] in [/EN#84151/clothing a bathing suit] .
+[/EN#84149/people A group of lifeguards] sit together in [/EN#84148/other highchairs] along side [/EN#84153/scene the shoreline of a beach] .
+[/EN#84149/people Lifeguards] gather at [/EN#84148/other the Beach Patrol station] .
+[/EN#84147/other A beach patrol] on [/EN#84154/scene the beach] .

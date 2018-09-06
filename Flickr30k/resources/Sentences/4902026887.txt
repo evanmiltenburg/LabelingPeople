@@ -1,0 +1,5 @@
+[/EN#216743/people A man] is standing in front of [/EN#216746/other an open laundry machine] and [/EN#0/notvisual it] looks like [/EN#216747/people someone] is explaining to [/EN#0/notvisual him] how [/EN#216746/other the laundry machine] works .
+[/EN#216743/people The man] in [/EN#216745/clothing the gray shirt] is blocking [/EN#216747/people the second person] in [/EN#216744/clothing the black shirt] from [/EN#216753/scene view] while looking into [/EN#216750/people the washer] .
+[/EN#216743/people A young man] with [/EN#216751/clothing glasses] and [/EN#216747/people his companion] are attempting to do [/EN#216752/scene laundry] in [/EN#216749/scene a public place] .
+[/EN#216743/people A man] in [/EN#216745/clothing a gray shirt] is talking to [/EN#216747/people another person] wearing [/EN#216744/clothing a black shirt] .
+[/EN#216743/people A man] is loading [/EN#216746/other a washing machine] .

@@ -1,0 +1,5 @@
+[/EN#118016/people A little boy] in [/EN#118022/clothing red] walks and eats [/EN#118019/other a snack] while [/EN#118018/people a little boy] in [/EN#118023/clothing green] walks behind .
+[/EN#118017/people Two little kids] walk [/EN#0/notvisual side] by [/EN#0/notvisual side] while [/EN#118016/other one] eats [/EN#118019/other something] .
+[/EN#118016/people A young boy] eats [/EN#118019/other chips] while [/EN#118018/people another little boy] follows .
+[/EN#118017/people two young children] walking on [/EN#118020/scene a tiled floor]
+[/EN#118017/people Two children] walk on [/EN#118020/scene a tiled floor] .

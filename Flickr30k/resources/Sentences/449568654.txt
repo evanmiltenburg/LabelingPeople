@@ -1,0 +1,5 @@
+[/EN#173113/people A man] in [/EN#173117/clothing a gray hat] , [/EN#173122/clothing red hooded sweatshirt] and [/EN#173115/clothing a gray jacket] over [/EN#0/notvisual it] holds [/EN#173123/other some tool] [/EN#0/notvisual that] looks like [/EN#173114/other a welding torch] over [/EN#173116/other a fire] in [/EN#173121/scene a wall notch] in [/EN#173125/bodyparts his white gloved hands] .
+[/EN#173113/people A man] is working with [/EN#173116/other fire] and [/EN#173124/other tar] to repair [/EN#173118/scene a roof] .
+[/EN#173113/people A man] using [/EN#173114/other a blowtorch] to heat [/EN#173119/other a section of roofing]
+[/EN#173113/people A man] wearing [/EN#173115/clothing a coat] and [/EN#173117/clothing hat] is using [/EN#173114/other a blowtorch] .
+[/EN#173113/people A man] is using [/EN#173114/other a blowtorch] on [/EN#173118/other a piece of fabric] .

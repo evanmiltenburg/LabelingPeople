@@ -1,0 +1,5 @@
+[/EN#173490/people A man] wearing [/EN#173499/clothing a tan sweatshirt] and [/EN#173500/clothing jeans] is transporting [/EN#173493/other wooden furniture] in [/EN#173491/other a blue container] on [/EN#173498/other wheels] across [/EN#173492/scene a street] .
+[/EN#173490/people A man] with [/EN#173496/other a mow-hawk] holds [/EN#173493/other several pieces of wooden furniture] in [/EN#173491/other a plastic tub] at [/EN#173492/scene the street corner] .
+[/EN#173490/people A man] on [/EN#173492/scene a sidewalk] holds onto [/EN#173493/other a chair] [/EN#0/notvisual that] is atop [/EN#173491/other a blue container] .
+[/EN#173490/people A man] is putting [/EN#173493/other various chairs] inside [/EN#173491/other a container] on [/EN#173492/scene the street] .
+[/EN#173490/people A man] trying to cart [/EN#173493/other some items] in [/EN#173491/other a rolling container] .

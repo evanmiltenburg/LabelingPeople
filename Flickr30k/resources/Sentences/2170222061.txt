@@ -1,0 +1,5 @@
+[/EN#32117/animals A small animal] leaps behind [/EN#32117/animals a larger animal] , [/EN#32118/bodyparts the larger animal 's tail] obscuring [/EN#32119/bodyparts the smaller one 's face] .
+[/EN#32117/animals A tan animal] is being swatted in [/EN#32119/bodyparts the face] by [/EN#32117/animals a brown and white bull] .
+[/EN#32120/animals A dog] chasing [/EN#32118/bodyparts an animals tail] on [/EN#32121/scene the grass] .
+[/EN#32120/animals A small dog] chases after [/EN#32117/animals a large brown cow] .
+[/EN#32120/animals A dog] biting [/EN#32118/animals the tail of a cow] .

@@ -1,0 +1,5 @@
+[/EN#213252/people Two people] in [/EN#213254/clothing striped work uniforms] sit at [/EN#213253/other a small table] , [/EN#0/notvisual one of them] resting [/EN#213257/bodyparts his head] on [/EN#213258/bodyparts his arms] .
+[/EN#213252/people two men] in [/EN#213254/other black and white striped shirt 's sitting] at [/EN#213253/other a table] in [/EN#213255/people/scene diner] .
+[/EN#213252/people Two men] in [/EN#213254/clothing white and black striped shirts] sit at [/EN#213253/other a table] .
+[/EN#213252/people Two men] wearing [/EN#213254/other striped strips] sitting at [/EN#213253/other a table] .
+[/EN#213252/people Two people] in [/EN#213254/clothing striped shirts] sitting at [/EN#213253/other a table] .

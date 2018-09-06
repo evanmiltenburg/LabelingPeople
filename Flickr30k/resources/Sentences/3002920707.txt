@@ -1,0 +1,5 @@
+[/EN#86606/people a boy] in [/EN#86607/clothing brown shorts] is dancing with [/EN#86608/people a girl] wearing [/EN#86609/other a green hood] in [/EN#86612/scene a wooden floored room] whilst [/EN#86610/people other children] look on .
+[/EN#86608/people A little girl] and [/EN#86606/people a little boy] are facing [/EN#0/notvisual each other] .
+[/EN#86611/people Two children] facing [/EN#0/notvisual each other] are doing [/EN#86614/other a dance] .
+[/EN#86606/people A boy] and [/EN#86608/people girl] are dancing .
+[/EN#86606/people A boy] and [/EN#86608/people a girl] dancing .

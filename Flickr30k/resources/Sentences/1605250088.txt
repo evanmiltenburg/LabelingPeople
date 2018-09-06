@@ -1,0 +1,5 @@
+[/EN#17385/people A man] in [/EN#17388/clothing a trench coat] walks down [/EN#17387/scene a boardwalk] carrying [/EN#17389/instruments a guitar] in [/EN#17389/other its case] .
+[/EN#17385/people The musician] in [/EN#17388/clothing the brown coat] is walking in [/EN#17391/clothing his tennis shoes] .
+[/EN#17385/people A man] in [/EN#17388/clothing a brown trench coat] carrying [/EN#17389/other a guitar case] .
+[/EN#17385/people A man] is walking down [/EN#17387/scene the street] with [/EN#17389/instruments his guitar]
+[/EN#17385/people A man] is walking with [/EN#17389/other a guitar case] .

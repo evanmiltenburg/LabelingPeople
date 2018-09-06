@@ -1,0 +1,5 @@
+[/EN#117102/people Some people] are standing in [/EN#117104/scene a room] around [/EN#117103/other a circular reception desk] .
+[/EN#117101/people Many people] look at [/EN#117107/other art] in [/EN#117104/scene the main lobby of a museum] .
+[/EN#117102/people People] mill [/EN#117105/other about a large] are with [/EN#117103/other a round desk] .
+[/EN#117102/people People] milling around [/EN#117103/scene the information booth] .
+[/EN#117101/people many people] gather at [/EN#117104/scene the art museum] .

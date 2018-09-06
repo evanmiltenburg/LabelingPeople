@@ -1,0 +1,5 @@
+[/EN#261014/animals A white and gray colored horse] is jumping [/EN#261016/scene a yellow competition fence] while [/EN#0/notvisual it] 's [/EN#261015/people rider] holds on .
+[/EN#261015/other Jokey] on [/EN#261014/animals white or light gray horse] is jumping over [/EN#261017/other a hurdle of yellow , white and black poles] .
+[/EN#261015/people A man] riding [/EN#261014/animals a horse] is jumping over [/EN#261017/other an obstacle] .
+[/EN#261014/animals A horse] and [/EN#261015/people rider] on [/EN#261017/other a steeplechase course] .
+[/EN#261015/people An equestrian] steers [/EN#261014/animals his horse] over [/EN#261016/scene a gate] .

@@ -1,0 +1,5 @@
+[/EN#77704/people A brown-haired white woman] in [/EN#77706/clothing a red shirt] with [/EN#77709/other a fork] up to [/EN#77711/bodyparts her mouth] .
+[/EN#77704/people A brunette woman] wearing [/EN#77708/clothing dark glasses] and [/EN#77706/clothing a red blouse] is eating .
+[/EN#77704/people A woman] in [/EN#77708/clothing sunglasses] is eating in [/EN#77707/scene a restaurant] .
+[/EN#77704/people A young woman] having [/EN#77705/other her lunch] in [/EN#77707/scene a restaurant] .
+[/EN#77705/other This dish] is very tasty and [/EN#0/notvisual I] enjoy [/EN#77710/other this dish]

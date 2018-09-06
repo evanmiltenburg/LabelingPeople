@@ -1,0 +1,5 @@
+[/EN#43702/people An older women] wearing [/EN#43703/clothing a red and gray printed sweater] is standing in [/EN#43704/scene her kitchen] stirring [/EN#43706/other a stew] .
+[/EN#43702/people an older woman] in [/EN#43703/clothing a sweater] stirs [/EN#43706/other a pot of food] in [/EN#43704/scene the kitchen] .
+[/EN#43702/people An older lady] in [/EN#43703/clothing a gray and red sweater] is cooking on [/EN#43705/other a meal] .
+[/EN#43702/people A woman] is stirring [/EN#43706/other a pot of stew] [/EN#0/notvisual that] is cooking .
+[/EN#43702/people A woman] is preparing [/EN#43705/other a soup] on [/EN#43707/other a stove] .

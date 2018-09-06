@@ -1,0 +1,5 @@
+[/EN#72858/people A crowd of people] at [/EN#72863/scene a county] [/EN#72866/scene fair] watch [/EN#72859/people three men] agitate [/EN#72860/animals a large bull] .
+[/EN#72858/people A large crowd] watches as [/EN#72859/people three men] stand in [/EN#72867/clothing a ring] with [/EN#72860/animals a raging bull] .
+[/EN#72858/people A crowd of people] watching [/EN#72862/scene a bull riding event] .
+[/EN#72859/people Three men] are in [/EN#72865/other a pen] with [/EN#72860/animals a bull] at [/EN#72861/other a rodeo] .
+[/EN#72864/people a man] runs from [/EN#72860/animals a bull] at [/EN#72861/other a rodeo] .

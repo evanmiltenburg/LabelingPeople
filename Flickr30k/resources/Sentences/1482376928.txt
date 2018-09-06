@@ -1,0 +1,5 @@
+[/EN#14492/people A man] in [/EN#14499/clothing a yellow shirt] is digging in [/EN#14494/other a cave] , while [/EN#14497/people a man] in [/EN#14500/clothing a white shirt] watches .
+[/EN#14493/people Two men] stand in [/EN#14495/scene a dirt tunnel] ; [/EN#14498/other one] digs further with [/EN#14496/other a shovel] .
+[/EN#14493/people Two men] are underground and appear to be mining .
+[/EN#14492/people A man] with [/EN#14496/other a pick axe] digging [/EN#14495/scene a tunnel] .
+[/EN#14493/people Two men] dig in [/EN#14494/other a cave] .

@@ -1,0 +1,5 @@
+[/EN#114269/people A woman] enjoys [/EN#114276/other a meal] outside of [/EN#114270/scene a building] with [/EN#114273/other her possessions] surrounding [/EN#0/notvisual her] .
+[/EN#114269/people A woman] wearing [/EN#114272/clothing a red hat] surrounded by [/EN#114273/other trash] and sitting [/EN#114277/scene outside of a building]
+[/EN#114269/people A person] sitting in [/EN#114271/other a green chair] outside of [/EN#114270/scene a building] surrounded by [/EN#114273/other trash] .
+[/EN#114269/people A woman] sitting outside [/EN#114274/scene a doorway] wearing [/EN#114272/clothing a red hat] .
+[/EN#114269/people A person] sitting in [/EN#114271/other a chair] in front of [/EN#114275/other a glass door]

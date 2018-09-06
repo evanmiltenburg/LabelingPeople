@@ -1,0 +1,5 @@
+[/EN#194634/people A man] with [/EN#194638/clothing a yellow shirt] and [/EN#194637/clothing blue jeans] crossing [/EN#194636/scene the street] getting ready to take [/EN#194635/other a drink] from [/EN#0/notvisual what] looks like [/EN#194635/other a bottle of beer] .
+[/EN#194634/people A man] in [/EN#194638/clothing a yellow shirt] and [/EN#194637/clothing jeans] is walking down [/EN#194636/scene the street] drinking [/EN#194635/other a beverage] from [/EN#194635/other a bottle] .
+[/EN#194634/people A man] is enjoying [/EN#194635/other a bottled beverage] as [/EN#0/notvisual he] walks down [/EN#194636/scene the street] .
+[/EN#194634/people The man] in [/EN#194638/clothing the yellow shirt] is drinking [/EN#194635/other a refreshing drink] .
+[/EN#194634/people A man] in [/EN#194638/clothing a yellow shirt] walking and drinking [/EN#194635/other a beer] .

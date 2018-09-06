@@ -1,0 +1,5 @@
+[/EN#113947/animals One dog] on [/EN#0/notvisual the ground] and [/EN#113948/animals another dog] standing above [/EN#0/notvisual it] .
+[/EN#113945/animals Two dogs] play with [/EN#113949/other one] [/EN#0/notvisual another] on [/EN#113946/scene the grass] .
+[/EN#113945/animals Two dogs] in [/EN#113946/scene a field] , facing [/EN#0/notvisual each other] .
+[/EN#113945/animals Two beige dogs] play in [/EN#113946/scene the grass] .
+[/EN#113945/animals two tan dogs] play in [/EN#113946/scene the grass]

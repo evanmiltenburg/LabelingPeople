@@ -1,0 +1,5 @@
+[/EN#14134/people a man] holding [/EN#14137/other a camera] is sitting on [/EN#14136/scene a mountain] with [/EN#14135/animals a black dog] .
+[/EN#14134/people A man] poses with [/EN#14135/animals his black dog] at [/EN#14136/scene the top of a mountain] .
+[/EN#14134/people A man] and [/EN#14135/animals his dog] on [/EN#14136/scene the top of a mountain] .
+[/EN#14134/people A man] and [/EN#14135/animals his dog] in [/EN#14136/scene the mountains] .
+[/EN#14134/people A man] with [/EN#14135/animals a dog] .

@@ -1,0 +1,5 @@
+[/EN#32615/people A boy] is sitting in [/EN#32617/other a spherical chair] reading [/EN#32616/other a book] in [/EN#32621/scene a room] with [/EN#32622/scene a wooden floor] and [/EN#32623/other books] in [/EN#0/notvisual the foreground] .
+[/EN#32615/people A child] is sitting in [/EN#32617/scene a large round white seat] , reading , near [/EN#32618/other a pink bin full of books] .
+[/EN#32615/people A young boy] sitting in [/EN#32617/other a white moon chair] playing with [/EN#32616/other an etch-a-sketch] .
+[/EN#32615/people Little boy] sitting in [/EN#32617/other a huge modern chair] , reading [/EN#32616/other a children book] .
+[/EN#32615/people Young boy] quietly reading in [/EN#32617/other his favorite futuristic chair] .

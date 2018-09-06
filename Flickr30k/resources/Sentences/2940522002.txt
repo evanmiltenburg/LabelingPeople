@@ -1,0 +1,5 @@
+[/EN#82930/people A middle-aged blond woman] wearing [/EN#82931/clothing a black sleeveless top] , [/EN#82933/clothing white pants] , and [/EN#82938/bodyparts a frown] stands at [/EN#82937/other a transit stop] .
+[/EN#82930/people A white woman] wearing [/EN#82933/clothing white pants] and [/EN#82931/clothing a black top] is waiting for [/EN#82932/vehicles/scene the bus] to come .
+[/EN#82930/people A blond woman] in [/EN#82931/clothing a black shirt] waits for [/EN#82932/vehicles/scene the train] .
+[/EN#82934/other Unexpected photo op] in [/EN#82936/scene the train station]
+[/EN#82930/people A woman] is walking on [/EN#82935/scene a sidewalk] .

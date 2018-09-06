@@ -1,0 +1,5 @@
+[/EN#107667/people A man] in [/EN#107671/clothing a red jacket] and [/EN#107672/clothing goggles] is skiing in [/EN#107668/scene a flurry of snow] .
+[/EN#107667/people A snowboarder] is throwing up [/EN#107670/scene snow] as [/EN#0/notvisual he] rides [/EN#107673/other his board] .
+[/EN#107667/people The snowboarder] crashes down [/EN#107669/scene the snow covered mountain] .
+[/EN#107667/people A snowboarder] wearing [/EN#107671/clothing orange] is going down [/EN#107669/scene a mountain] .
+[/EN#107667/people a lone snowboarder] in [/EN#107668/other the middle of a snowy gust]

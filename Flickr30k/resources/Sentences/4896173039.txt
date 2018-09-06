@@ -1,0 +1,5 @@
+[/EN#216092/people A woman] wearing [/EN#216092/clothing a black sari] with [/EN#216092/other orange floral print] reads [/EN#216094/other a book] with [/EN#216095/other a purple cover] .
+[/EN#216092/people Woman] in [/EN#216092/clothing a robe type garb] reading [/EN#216095/other a book] in [/EN#0/notvisual what] appears to be [/EN#216097/other a public location] .
+[/EN#216092/people An indian woman] lounges on [/EN#216096/other a park bench] in [/EN#216092/clothing her burka] as [/EN#0/notvisual she] reads [/EN#216094/other a book] .
+[/EN#216092/people A woman] wearing [/EN#216092/clothing a print robe] is reading [/EN#216094/other a book] .
+[/EN#216092/people A woman] in [/EN#216092/clothing a robe] reading [/EN#216094/other a book] .

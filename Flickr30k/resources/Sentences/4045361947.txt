@@ -1,0 +1,5 @@
+[/EN#153090/people A man] with [/EN#153097/bodyparts a beard] sits with [/EN#153092/instruments a guitar] [/EN#0/notvisual that] 's opened up , and [/EN#153096/other wires] exposed .
+[/EN#153090/people A man] in [/EN#153091/clothing a black t-shirt] smiles as [/EN#0/notvisual he] sits in front of [/EN#153092/instruments a guitar] .
+[/EN#153090/people A man] in [/EN#153091/clothing a black shirt] working on [/EN#153092/instruments a guitar] .
+[/EN#153090/people A guy] doing [/EN#153095/other something] with [/EN#153092/instruments guitars] .
+[/EN#153090/people A bearded man] repairing [/EN#153092/instruments guitars] .

@@ -1,0 +1,5 @@
+[/EN#2480/people Three people] on [/EN#2479/vehicles ATVs] in [/EN#2481/scene a brown field] turn [/EN#2485/bodyparts their heads] to look at [/EN#0/notvisual the camera] .
+[/EN#2480/people Three people] ride [/EN#2479/other their four wheelers] through [/EN#2481/scene the field] .
+[/EN#2480/people three people] on [/EN#2483/other four wheel] [/EN#2479/vehicles ATV] 's in [/EN#2481/scene a field] .
+[/EN#2480/people Three people] on [/EN#2479/scene ATV 's outside] .
+[/EN#2480/people Three people] drive [/EN#2479/vehicles ATVs] .

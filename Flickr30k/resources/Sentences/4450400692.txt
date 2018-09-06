@@ -1,0 +1,5 @@
+[/EN#0/notvisual It] is [/EN#169579/scene a busy street] with [/EN#169580/scene a gray tower] and [/EN#169581/bodyparts a golden clock face] at [/EN#169585/clothing the top] and [/EN#169575/other the working of the clock] are somewhat visible .
+[/EN#169577/people several people] standing below [/EN#169580/scene a clock tower] with [/EN#169584/bodyparts two clock faces] .
+[/EN#169575/other A large , golden clock] stands in [/EN#169578/scene the center of a bustling city] .
+[/EN#169575/clothing A large gold] trimmed [/EN#169575/other clock] indicates that [/EN#169583/other the time] is [/EN#169581/other 1:10] .
+[/EN#169577/people Many people] are gathered around [/EN#169580/scene a tall clock tower] .

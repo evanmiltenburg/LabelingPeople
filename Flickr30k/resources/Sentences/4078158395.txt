@@ -1,0 +1,5 @@
+[/EN#154482/people Older bald man] in [/EN#154485/clothing white shorts] and [/EN#154486/clothing a black t-shirt] playing with [/EN#154483/other a skateboard] .
+[/EN#154482/people A man] is playing with [/EN#154483/other his skateboard] on [/EN#154484/scene a street] .
+[/EN#154482/people A man] with [/EN#154485/clothing white shorts] plays in [/EN#154483/other a skateboard] .
+[/EN#154482/people A skater] in [/EN#154486/scene a black tee] demonstrates [/EN#0/notvisual a trick] .
+[/EN#154482/people A bald man] is skateboarding in [/EN#154484/scene the street] .

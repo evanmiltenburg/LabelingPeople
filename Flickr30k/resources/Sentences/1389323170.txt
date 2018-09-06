@@ -1,0 +1,5 @@
+[/EN#10886/people Woman] holding [/EN#10889/other a drink] with [/EN#10887/clothing a white bag] next to [/EN#0/notvisual her] is sitting on [/EN#10890/other a green sculpture] .
+[/EN#10886/people Woman] sitting on [/EN#10890/other a turquoise bench] with [/EN#10892/other a pillow] and [/EN#10887/clothing a bag] near [/EN#10888/scene a restaurant] .
+[/EN#10886/people a lone woman] sitting on [/EN#10890/other an usual green bench] with [/EN#10889/other a cup] in [/EN#10893/bodyparts her hand]
+[/EN#10886/people A woman] sits on [/EN#10890/other a flower pot] at [/EN#10888/scene a crowded coffee shop] .
+[/EN#10886/people The woman] sat on [/EN#10890/other a green bench] and had [/EN#10889/other a drink] .

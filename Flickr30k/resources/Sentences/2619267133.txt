@@ -1,0 +1,5 @@
+[/EN#61971/people a young boy] wearing [/EN#61972/clothing a cowboy hat] and riding on [/EN#61973/animals a horse]
+[/EN#61971/people A young boy] in [/EN#61972/clothing a cowboy hat] rides [/EN#61973/animals a large horse] .
+[/EN#61971/people A young boy] in [/EN#61972/clothing a cowboy hat] rides [/EN#61973/animals a horse] .
+[/EN#61971/people A young boy] rides [/EN#61973/animals a red horse] .
+[/EN#61971/people Boy] riding [/EN#61973/animals a horse] .

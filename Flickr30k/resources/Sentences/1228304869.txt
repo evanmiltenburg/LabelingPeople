@@ -1,0 +1,5 @@
+[/EN#5652/people The man] in [/EN#5655/clothing a red checkered shirt] is having [/EN#5657/other beer] and playing [/EN#5653/other frisbee] in [/EN#5654/scene the park] .
+[/EN#5652/people A man] in [/EN#5655/clothing a red checkered shirt] standing at [/EN#5658/scene the end of a sidewalk] in [/EN#5654/scene a park] .
+[/EN#5652/people A man] wearing [/EN#5656/clothing a black cap] , [/EN#5655/clothing red and white checkered shirt] at [/EN#5654/scene the park] .
+[/EN#5652/people A man] in [/EN#5655/clothing a red and white checked shirt] plays in [/EN#5654/scene a park] .
+[/EN#5652/people A man] in [/EN#5655/clothing a red plaid shirt] playing [/EN#5653/other Frisbee golf] .

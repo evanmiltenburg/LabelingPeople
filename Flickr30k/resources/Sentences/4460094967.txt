@@ -1,0 +1,5 @@
+[/EN#170327/people A few people] are walking down [/EN#170328/scene a brick street] between [/EN#170329/other 2] and [/EN#170330/scene 3 story buildings] .
+[/EN#170327/people People] are walking down [/EN#170333/other an alley half] shadowed by [/EN#170330/scene a building] .
+[/EN#170327/people People] with [/EN#170334/other their back] to [/EN#0/notvisual the camera] walk down [/EN#170328/scene a wide alley] .
+[/EN#170327/people Several adults] walk down [/EN#170328/scene a stone-paved walkway] in [/EN#170331/other Europe] .
+[/EN#170327/people Various people] walking down [/EN#170328/scene a cobblestone street] .

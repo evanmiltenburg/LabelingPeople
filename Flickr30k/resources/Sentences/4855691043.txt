@@ -1,0 +1,5 @@
+[/EN#211296/animals Brown horse] standing in [/EN#0/notvisual the background] while [/EN#211295/people man] in [/EN#211302/clothing a white cowboy hat] and [/EN#211303/clothing blue long-sleeve shirt] is walking off .
+[/EN#211294/people The crowd] watches [/EN#211296/animals the horse] , staring at [/EN#211295/people the cowboy] as [/EN#0/notvisual he] leaves [/EN#211299/scene the arena] , wondering [/EN#0/notvisual what] will happen next .
+[/EN#211295/people Cowboy] on [/EN#211301/other foot] in [/EN#211299/scene some enclosed area] with [/EN#211296/animals a horse] with [/EN#211294/people spectators] .
+[/EN#211295/people A man] dressed as [/EN#211295/people a cowboy] walks away from [/EN#211296/animals a brown horse] .
+[/EN#211295/people A man] jumps off [/EN#211296/animals his horse] at [/EN#211300/other a rodeo] .

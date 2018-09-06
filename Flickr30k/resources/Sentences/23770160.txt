@@ -1,0 +1,5 @@
+[/EN#45067/people Guy] with [/EN#45072/bodyparts long brown , curly hair] and [/EN#45074/clothing eyeglasses] , playing [/EN#45068/instruments guitar] , sitting on [/EN#45071/scene grass] , wearing [/EN#45069/clothing striped shirt] and [/EN#45070/clothing blue jeans] .
+[/EN#45067/people A long dark-haired man] sitting on [/EN#45071/scene the grass] with [/EN#45068/instruments a guitar] in [/EN#45075/bodyparts his lap] in front of [/EN#45073/scene a blue sky] .
+[/EN#45067/people A long-haired man] in [/EN#45069/clothing a striped shirt] sits on [/EN#45071/scene the grass] and plays [/EN#45068/instruments acoustic guitar] .
+[/EN#45067/people A man] plays [/EN#45068/instruments a guitar] while [/EN#0/notvisual he] sits on [/EN#45071/scene the grass] .
+[/EN#45067/people A man] with [/EN#45072/bodyparts long hair] is playing [/EN#45068/instruments the guitar] .

@@ -1,0 +1,5 @@
+[/EN#255843/people A woman] in [/EN#255849/clothing a beige sweater] and [/EN#255847/people a man] in [/EN#255850/clothing a black jacket] , among [/EN#255848/other others] , shopping in [/EN#255841/scene a Christmas department of a store] .
+[/EN#255840/people A group of people] are shopping in [/EN#0/notvisual what] looks to be [/EN#255841/scene a Christmas store] filled with [/EN#255842/other colorful toys] .
+[/EN#255846/scene The Christmas-themed section of a store] , populated by [/EN#255840/people a handful of shoppers] .
+[/EN#255840/people Shoppers] look for [/EN#255844/other Christmas gifts] at [/EN#255841/scene Harrod 's department store] .
+[/EN#255840/people People] are shopping around [/EN#255845/other Christmas time] for [/EN#255842/other decorations] .

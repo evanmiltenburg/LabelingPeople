@@ -1,0 +1,5 @@
+[/EN#112950/people A woman] with [/EN#112953/bodyparts dark , curly hair] and [/EN#112951/clothing a strapless dress] is playing [/EN#112952/instruments a guitar] and singing into [/EN#112954/other a microphone] .
+[/EN#112950/people A woman] with [/EN#112953/bodyparts dark curly hair] and [/EN#112951/clothing a dark dress] is singing and holding [/EN#112952/instruments a guitar] .
+[/EN#112950/people A woman] in [/EN#112951/clothing a formal gown] plays [/EN#112952/instruments a guitar] and sings into [/EN#112955/clothing a microphone headset] .
+[/EN#112950/people A woman] singing and playing [/EN#112952/instruments a guitar] on [/EN#112957/scene stage] , [/EN#112956/other solo] .
+[/EN#112950/people The woman] sings and plays [/EN#112952/instruments her acoustic guitar] .

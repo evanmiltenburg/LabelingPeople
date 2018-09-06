@@ -1,0 +1,5 @@
+[/EN#83757/animals a black dog] with [/EN#83760/other a blue tag] running on [/EN#83758/scene a beach]
+[/EN#83757/animals The brown dog] is running across [/EN#83759/other the sand] .
+[/EN#83757/animals A brown dog] runs down [/EN#83758/scene the sandy beach] .
+[/EN#83757/animals Black dog] running across [/EN#83759/other sand] .
+[/EN#83757/animals A brown dog] runs in [/EN#83759/other the sand] .

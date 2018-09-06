@@ -1,0 +1,5 @@
+[/EN#66971/people A guy] with [/EN#66973/clothing a pink shirt] sitting on [/EN#0/notvisual the ground] , drawing [/EN#66972/animals a peacock] with [/EN#66976/other chalk] .
+[/EN#66971/people A man] sits on [/EN#66975/scene the floor] as [/EN#0/notvisual he] is creating [/EN#66972/other a colorful picture] next to [/EN#0/notvisual him] .
+[/EN#66971/people A man] in [/EN#66973/clothing an orange shirt] is drawing [/EN#66972/animals a peacock] on [/EN#66975/scene the floor] .
+[/EN#66971/people A man] is painting [/EN#66972/other a colorful drawing] on [/EN#66975/scene a tiled floor] .
+[/EN#66971/people A man] is creating [/EN#66972/other a sand painting] on [/EN#66975/scene the floor] .

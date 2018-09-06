@@ -1,0 +1,5 @@
+[/EN#76172/people An old man] , wearing [/EN#76173/clothing a black beret] and [/EN#76174/clothing a black and red jacket] , rides [/EN#76175/animals a pony] in [/EN#76176/other a desolate mountain location] .
+[/EN#76172/people An older man] wearing [/EN#76174/clothing a red coat] and [/EN#76173/clothing black beret] is sitting on top of [/EN#76175/animals short horse] surrounded by [/EN#76177/scene dirt] .
+[/EN#76172/people White man] wearing [/EN#76174/clothing a bright red jacket] is sitting atop [/EN#76175/animals a donkey] in [/EN#76178/scene the desert] .
+[/EN#76172/people A man] atop [/EN#76175/animals a horse] smiling at [/EN#0/notvisual the camera] below [/EN#76179/scene a set of mountains] .
+[/EN#76172/people A man] in [/EN#76174/clothing a red jacket] rides [/EN#76175/animals a horse] in [/EN#76180/scene mountainous terrain] .

@@ -1,0 +1,5 @@
+[/EN#51724/people a man] wearing [/EN#51725/clothing a yellow shirt] and carrying [/EN#51726/other coffee] walking onto [/EN#51727/scene the sidewalk]
+[/EN#51724/people A man] [/EN#51725/clothing in yellow] holding [/EN#51726/other a coffee] is walking on [/EN#51727/scene the sidewalk] .
+[/EN#51724/people A man] in [/EN#51725/clothing a yellow shirt] walks past [/EN#51728/other a tree] on [/EN#51727/scene the sidewalk] .
+[/EN#51724/people Man] walking fast with [/EN#51726/other coffee] in [/EN#51729/bodyparts hand] down [/EN#51727/scene the sidewalk] .
+[/EN#51724/people A man] steps onto [/EN#51727/scene a sidewalk] .

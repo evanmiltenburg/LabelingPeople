@@ -1,0 +1,5 @@
+[/EN#102933/people A woman] with [/EN#102934/clothing a white jacket] and [/EN#102935/clothing black pants] is walking down [/EN#102936/scene the sidewalk] in front of [/EN#102937/other a banner] advertising [/EN#102937/other hamburgers] .
+[/EN#102933/people a woman] wearing [/EN#102934/clothing a white jacket] walks past [/EN#102937/other a billboard] [/EN#0/notvisual that] is advertising [/EN#102937/other hamburgers] .
+[/EN#102933/people A woman] walking down [/EN#102936/scene the sidewalk] beside [/EN#102937/other a cheeseburger advertisement] .
+[/EN#102933/people A woman] is walking in front of [/EN#102938/scene a fast-food restaurant] .
+[/EN#102933/people A woman] walking near [/EN#102938/scene a fast food restaurant] .

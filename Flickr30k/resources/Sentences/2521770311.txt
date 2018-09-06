@@ -1,0 +1,5 @@
+[/EN#54944/people A boy] in [/EN#54949/clothing a long-sleeve shirt] is holding [/EN#54947/other a box] above [/EN#54948/bodyparts his head] .
+[/EN#54944/people A little boy] holds [/EN#54947/other a decorated cardboard box] on [/EN#54948/bodyparts his head] .
+[/EN#54944/people A boy] is inside holding [/EN#54945/other something] on top of [/EN#54948/bodyparts his head] .
+[/EN#54944/people a young boy] with [/EN#54947/other a samll cardboard box] atop [/EN#54948/bodyparts his head] .
+[/EN#54944/people A boy] holds [/EN#54945/other a picture] over [/EN#54948/bodyparts his head] .

@@ -1,0 +1,5 @@
+[/EN#131973/people A kid] in [/EN#131974/clothing a blue shirt] and [/EN#131981/clothing blue shoes] attempts [/EN#0/notvisual a trick] on [/EN#131975/other a skateboard] above [/EN#131982/other the lip of a bowl] .
+[/EN#131973/people a boy] in [/EN#131974/clothing a blue t-shirt] is airborne on [/EN#131975/other a skateboard] in [/EN#131976/scene a skate park] .
+[/EN#131973/people a young man] wearing [/EN#131974/clothing a blue shirt] skateboarding on [/EN#131979/other a graffitied wall]
+[/EN#131973/people A boy] riding [/EN#131975/other a skateboard] on [/EN#131977/scene a skateboarding ramp]
+[/EN#131973/people A skateboarder] riding inside [/EN#131978/scene a swimming pool] .

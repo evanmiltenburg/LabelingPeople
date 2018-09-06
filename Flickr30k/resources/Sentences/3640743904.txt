@@ -1,0 +1,5 @@
+[/EN#133571/people A person] walks [/EN#133575/animals four dogs] on [/EN#133576/clothing leashes] in [/EN#133577/scene a parking lot] .
+[/EN#133571/people A guy] walking [/EN#133575/animals his four dogs] .
+[/EN#133571/people The man] is walking [/EN#133575/animals the dogs] .
+[/EN#133571/people a woman] walks [/EN#133575/animals four dogs] .
+[/EN#133571/people Man] walking [/EN#133575/animals four dogs] .

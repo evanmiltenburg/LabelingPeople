@@ -1,0 +1,5 @@
+[/EN#56812/animals The large brown dog] is running through [/EN#56813/scene shallow water] .
+[/EN#0/notvisual There] is [/EN#56812/animals a chocolate brown dog] running in [/EN#56813/scene water] .
+[/EN#56812/animals A brown dog] splashing through [/EN#56813/scene water] .
+[/EN#56812/animals A dog] is running through [/EN#56813/scene a pond]
+[/EN#56812/animals a dog] pounces into [/EN#56813/scene the water] .

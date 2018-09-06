@@ -1,0 +1,5 @@
+[/EN#40397/people Many people] and [/EN#40403/vehicles cars] sit under [/EN#40398/other a large leafless tree] with [/EN#40400/scene water] and [/EN#40401/scene landscape] in [/EN#0/notvisual the background] .
+[/EN#0/notvisual There] are [/EN#40397/people people] sitting outside under [/EN#40398/other a very large non-blooming tree] .
+[/EN#40397/people People] sitting at [/EN#40399/other a bench] talking to [/EN#0/notvisual each other] by [/EN#40400/scene a body of water] .
+[/EN#40397/people Several people] sitting on [/EN#40399/other a bench] before [/EN#40402/scene sunset] .
+[/EN#0/notvisual They] park under [/EN#40398/other the beautiful tree] .

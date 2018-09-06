@@ -1,0 +1,5 @@
+[/EN#268568/vehicles Indy car] , [/EN#268575/clothing white , blue] with [/EN#268571/other a red mark] on [/EN#268574/scene the roof] , rounding [/EN#268570/other a turn] , in front of [/EN#268573/vehicles the white car] .
+[/EN#268567/vehicles Two race cars] are going down [/EN#268570/other a racetrack bend] .
+[/EN#268567/vehicles Two cars] are driving on [/EN#268569/other a racetrack] .
+[/EN#268567/vehicles The cars] are racing around [/EN#268569/scene the track] .
+[/EN#268567/vehicles Two cars] are on [/EN#268569/other a racetrack] .

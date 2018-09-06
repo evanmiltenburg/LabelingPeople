@@ -1,0 +1,5 @@
+[/EN#215494/other Some graffiti] appears on [/EN#215495/other a column of a stone structure] .
+[/EN#215492/people A person] walking down [/EN#215493/people a lonely corridor of columns] .
+[/EN#215492/people A person] walks down [/EN#215493/other a hallway of stone archways] .
+[/EN#215492/people One person] in [/EN#215496/other a long hall] is walking .
+[/EN#215492/people Someone] walks in [/EN#215493/scene a hallway] .

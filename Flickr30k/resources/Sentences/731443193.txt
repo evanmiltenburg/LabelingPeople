@@ -1,0 +1,5 @@
+[/EN#268370/other An outdoor rodeo] , with [/EN#268369/people a cowboy] in [/EN#268372/clothing a red shirt] riding [/EN#268371/animals a bucking horse] while [/EN#268373/other others] watch from [/EN#268376/other the sidelines] .
+[/EN#268374/people Fellow cowboys] watch as [/EN#268369/people a colleague] rides [/EN#268371/animals a black airborne horse] .
+[/EN#268369/people A man] in [/EN#268372/clothing a red shirt] riding [/EN#268371/animals a horse] in [/EN#0/notvisual what] seems to be [/EN#268370/other a rodeo] .
+[/EN#268369/people A cowboy] riding [/EN#268371/animals a steer] at [/EN#268370/other a rodeo] as [/EN#268373/other others] gaze on .
+[/EN#268369/people cowboy] riding [/EN#268371/animals a bull] at [/EN#268370/other rodeo]

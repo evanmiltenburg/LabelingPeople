@@ -1,0 +1,5 @@
+[/EN#238783/people A man] in [/EN#238784/clothing a black and white pinstriped apron] and [/EN#238786/clothing a butchers coat] is standing behind [/EN#238785/other the counter of a deli] .
+[/EN#238783/people A grocer] wearing [/EN#238784/clothing a black and white apron] stands in front of [/EN#238785/other his display case] in [/EN#238788/scene a market] .
+[/EN#238783/people A bald-headed man] wearing [/EN#238784/clothing a striped apron] stands behind [/EN#238785/other a butcher 's counter] .
+[/EN#238783/people A salesman] standing behind [/EN#238785/other a counter of meats] .
+[/EN#238783/people A merchant] is posing in [/EN#238787/scene a butcher 's shop] .

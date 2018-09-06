@@ -1,0 +1,5 @@
+[/EN#284480/animals A light colored dog] jumping off [/EN#284482/vehicles/scene the back of a boat] into [/EN#284481/scene the water] .
+[/EN#284480/animals The yellow dog] is jumping off of [/EN#284482/other a ship] into [/EN#284481/scene the water] .
+[/EN#284480/animals A tan dog] jumping off of [/EN#284483/vehicles/scene a boat] into [/EN#284481/scene the water] .
+[/EN#284480/animals A dog] leaping into [/EN#284481/scene the water] near [/EN#284484/vehicles a motorboat] .
+[/EN#284480/animals a dog] jumps into [/EN#284481/scene the pond] .

@@ -1,0 +1,5 @@
+[/EN#152980/people The boy] in [/EN#152985/clothing the black and yellow mask] is talking with [/EN#152981/people the man] in [/EN#152983/clothing the blue shirt] .
+[/EN#152982/clothing A boy dress] in [/EN#152985/clothing a yellow and black mask] is looking at [/EN#152981/people a man] in [/EN#152983/clothing a blue t-shirt] .
+[/EN#152981/people An older man] and [/EN#152980/people a young child] in [/EN#152988/other a costume interact] with [/EN#0/notvisual one another] .
+[/EN#152981/people An older man] is making [/EN#152991/bodyparts funny faces] at [/EN#152980/people a boy] dressed in [/EN#152985/clothing costume] .
+[/EN#152980/people A boy] in [/EN#152982/clothing a costume] sits [/EN#152989/other across] from [/EN#152981/people a man] smiling .

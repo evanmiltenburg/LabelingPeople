@@ -1,0 +1,5 @@
+[/EN#146932/people A woman] in [/EN#146935/clothing a white shirt] stands behind [/EN#146933/other a counter] , in [/EN#146934/scene the kitchen of an empty restaurant] with [/EN#146939/other brick walls] .
+[/EN#146932/people A woman] stands behind [/EN#146933/other the counter] in [/EN#146934/scene the open kitchen of a restaurant] .
+[/EN#146932/people A woman] in [/EN#146935/clothing a white shirt] works behind [/EN#146937/other the counter] at [/EN#146936/other a cafe] .
+[/EN#146932/people A young woman] in [/EN#146935/clothing white] working in [/EN#146934/scene a professional kitchen] .
+[/EN#146932/people A woman] in [/EN#146935/clothing a white blouse] is working in [/EN#146938/scene a restaurant] .

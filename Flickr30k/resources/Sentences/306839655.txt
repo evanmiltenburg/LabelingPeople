@@ -1,0 +1,5 @@
+[/EN#91195/people A group of people] , possibly [/EN#91202/people family] , sitting on [/EN#91200/scene the floor] playing [/EN#91198/other a word game] similar to [/EN#91197/other scrabble] .
+[/EN#91195/people A happy family] is sitting around in [/EN#91201/other a circle] in [/EN#91200/scene their living room] playing with [/EN#91197/other a set of dominoes] .
+[/EN#91195/people A group of people] plays [/EN#91198/other a game] on [/EN#91200/scene the floor of a living room] while [/EN#91196/other a TV] plays in [/EN#0/notvisual the background] .
+[/EN#91195/people People] sitting on [/EN#91199/scene the floor] playing [/EN#91197/other a game] , and laughing , as [/EN#91196/other the TV] plays in [/EN#0/notvisual the background] .
+[/EN#91195/people A group of people] in [/EN#91199/scene a living room] , playing [/EN#91197/other a board game] .

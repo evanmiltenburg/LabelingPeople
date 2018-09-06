@@ -1,0 +1,5 @@
+[/EN#123394/people A woman] in [/EN#123400/clothing a white hat] and [/EN#123397/clothing red dress] holding [/EN#123398/bodyparts hands] with [/EN#123392/people a man] in [/EN#123395/clothing a black jacket] with [/EN#123396/other a flower] in [/EN#123402/clothing his upper pocket] .
+[/EN#123394/people A woman] wearing [/EN#123397/clothing a red and white dress] holds [/EN#123398/bodyparts hands] with [/EN#123392/people man] in [/EN#123395/clothing a blue jacket] wearing [/EN#123396/other flowers] on [/EN#123401/other his lapel] .
+[/EN#123392/people A man] and [/EN#123394/people a woman] are smiling nervously at [/EN#0/notvisual each other] as [/EN#0/notvisual they] are being married .
+[/EN#123393/other A traditional ethnic wedding] is taking [/EN#123403/scene place] .
+[/EN#123399/people A couple] [/EN#0/notvisual who] are in [/EN#123393/other a matrimony ceremony]

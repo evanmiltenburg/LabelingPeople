@@ -1,0 +1,5 @@
+[/EN#264612/people Five men] , wearing [/EN#264616/clothing orange reflective suits] , working on [/EN#264614/people railroads] .
+[/EN#264612/people Five men] are working on [/EN#264614/scene a section of railroad tracks] .
+[/EN#264613/people Two guys] working on [/EN#264614/scene the railroad tracks] .
+[/EN#264612/people Five workers] working on [/EN#264614/scene railroad tracks] .
+[/EN#264613/people Workers] repairing [/EN#264614/scene railroad tracks] .

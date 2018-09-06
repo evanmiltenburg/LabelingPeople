@@ -1,0 +1,5 @@
+[/EN#20117/people A man] in [/EN#20122/clothing red] playing [/EN#20123/clothing a red] drums set while looking at [/EN#0/notvisual the camera] .
+[/EN#20117/people A man] in [/EN#20118/clothing a red and white shirt] plays [/EN#20120/instruments red drums] with [/EN#20119/bodyparts his hands] .
+[/EN#20117/people A man] in [/EN#20118/clothing a red soccer jersey] plays [/EN#20120/instruments the drums] with [/EN#20119/bodyparts his hands] .
+[/EN#20117/people A bongo player] wearing [/EN#20118/clothing a red shirt] playing in [/EN#20121/people a band] .
+[/EN#20117/people A man] wearing [/EN#20118/clothing a red shirt] is playing [/EN#20120/instruments the drums] .

@@ -1,0 +1,5 @@
+[/EN#224225/people A man] and [/EN#224226/people a woman] standing on [/EN#224231/scene a sidewalk] in between [/EN#224228/scene buildings] .
+[/EN#224225/people A man] and [/EN#224226/people a woman] are standing next to [/EN#224229/scene old houses] and [/EN#224227/scene water] .
+[/EN#224224/people A couple] standing in [/EN#224230/scene an ally way] near [/EN#224227/scene the water] .
+[/EN#224224/people Two people] standing outside [/EN#224229/scene some buildings] .
+[/EN#224224/people a couple] reads beside [/EN#224227/scene the water]

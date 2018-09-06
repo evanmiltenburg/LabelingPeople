@@ -1,0 +1,5 @@
+[/EN#240965/people A man] wearing [/EN#240970/clothing a yellow shirt] is riding [/EN#240966/vehicles his bicycle] down [/EN#240967/scene a brick road] in front of [/EN#240968/scene some yellow painted buildings] .
+[/EN#240965/people A man] on [/EN#240966/vehicles a bike] is riding past [/EN#240968/scene a yellow building] [/EN#0/notvisual that] has been marked with [/EN#240969/other graffiti] .
+[/EN#240965/people A man] on [/EN#240966/vehicles a bicycle] in front of [/EN#240968/scene an old yellow building] with [/EN#240969/other graffiti] on [/EN#0/notvisual it] .
+[/EN#240965/people Caucasian man] on [/EN#240966/vehicles bicycle] rides in front of [/EN#240968/scene two old yellow buildings] .
+[/EN#240965/people A man] bicycles down [/EN#240967/scene a deserted street] .

@@ -1,0 +1,5 @@
+[/EN#44039/people The boy] wearing [/EN#44042/clothing the red top] is standing by [/EN#44041/other a fishing rod] looking over [/EN#44040/scene the jetty fence] .
+[/EN#44039/people A young boy] in [/EN#44042/clothing a red jacket] stands on [/EN#44040/scene a pier] with [/EN#44041/other a fishing pole] and [/EN#44046/other chair] near [/EN#0/notvisual him] .
+[/EN#44039/people A young boy] in [/EN#44042/clothing a red coat] fishes off [/EN#44040/scene a pier] and looks down at [/EN#44043/scene the water] .
+[/EN#44039/people A little boy] looks over [/EN#44040/other the railing] on [/EN#44040/scene the dock] into [/EN#44043/scene the blue water] .
+[/EN#44039/people a boy] with [/EN#44041/other a fishing pole] looking down on [/EN#44045/scene a lake]

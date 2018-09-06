@@ -1,0 +1,5 @@
+[/EN#89414/people A lady] with [/EN#89416/bodyparts long brown hair] is wearing [/EN#89417/clothing a light brown jacket] and [/EN#89418/clothing blue jeans] .
+[/EN#89412/people A small group of people] walking down [/EN#89413/scene a long subway tunnel] .
+[/EN#89412/people Three people] walking down [/EN#89413/scene a hallway] at [/EN#89415/scene the train station] .
+[/EN#89412/people People] walking down [/EN#89413/scene a ramp] in [/EN#89413/scene an underground tunnel] .
+[/EN#89412/people People] walk in [/EN#89413/scene a subway hallway] .

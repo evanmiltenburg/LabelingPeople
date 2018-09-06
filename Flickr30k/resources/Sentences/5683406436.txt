@@ -1,0 +1,5 @@
+[/EN#240874/people A mountain bike rider] rolls over [/EN#240877/other raised logs] while wearing [/EN#240876/clothing a green helmet] , [/EN#240881/clothing white jersey] and [/EN#240878/other black protective pads] .
+[/EN#240874/people A person] wearing [/EN#240876/clothing a helmet] and [/EN#240878/other pads] is riding [/EN#240875/vehicles a dirt bike] and jumping over [/EN#240877/other a log] .
+[/EN#240874/people Someone] doing [/EN#0/notvisual a jump] on [/EN#240875/vehicles a dirt bike] in [/EN#240880/other the woods] .
+[/EN#240874/people An off road bike rider] is riding over [/EN#240877/other a log] .
+[/EN#240874/people Off-road bike rider] jumps off [/EN#240882/scene a wooden ramp] .

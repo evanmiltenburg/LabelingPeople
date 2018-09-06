@@ -1,0 +1,5 @@
+[/EN#196707/vehicles/scene A blue boat] moves down [/EN#196711/scene a canal] lined with [/EN#196717/scene red , orange and white homes] .
+[/EN#196708/people A man] is driving [/EN#196710/vehicles/scene a blue boat] in front of [/EN#196715/scene a line of buildings] .
+[/EN#196718/vehicles A motorboat] is gliding through [/EN#196711/other the dusty waters of Venice] .
+[/EN#196709/vehicles/scene Boats] on [/EN#196711/scene water] within [/EN#196716/scene a city] .
+[/EN#196708/people Man] is in [/EN#196707/vehicles/scene a boat] in [/EN#196714/scene a city]

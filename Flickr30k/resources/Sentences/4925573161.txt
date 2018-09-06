@@ -1,0 +1,5 @@
+[/EN#218938/people A bicyclist] wearing [/EN#218939/clothing a black and yellow racing suit] rides along [/EN#218942/scene a street] near [/EN#218940/scene a granite building] .
+[/EN#218938/people A professional bicyclist] wearing [/EN#218941/clothing a yellow shirt] and [/EN#218943/clothing black shorts] rides by [/EN#218940/scene an old building] .
+[/EN#218938/people A person] in [/EN#218941/clothing a yellow shirt] cycles past [/EN#218940/scene a historic looking building] .
+[/EN#218938/people A man] in [/EN#218939/clothing yellow] is biking past [/EN#218940/scene a gray building] with [/EN#218944/people columns] .
+[/EN#218938/people A man] wearing [/EN#218939/clothing yellow] riding [/EN#218945/vehicles a bike] .

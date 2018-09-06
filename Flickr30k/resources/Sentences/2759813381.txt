@@ -1,0 +1,5 @@
+[/EN#71070/animals A white and brown dog] is pooping [/EN#71075/other whist] attached to leash by [/EN#71072/other a tree] .
+[/EN#71070/animals A yellow and brown dog] is going to [/EN#71074/scene the bathroom outside] .
+[/EN#71070/animals A dog] on [/EN#71071/clothing a leash] defecating on [/EN#71073/scene grass]
+[/EN#71070/animals A dog] on [/EN#71071/clothing a leash] near [/EN#71072/other a tree] .
+[/EN#71070/animals A dog] is on [/EN#71071/clothing a leash] by [/EN#71072/other a tree]

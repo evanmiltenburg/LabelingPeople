@@ -1,0 +1,5 @@
+[/EN#167190/people A balding Caucasian man] sits cross-legged on [/EN#167191/other a concrete railing] [/EN#0/notvisual which] overlooks [/EN#167195/scene a city] .
+[/EN#167190/people a man] is sitting cross-legged on [/EN#167191/other a wall] with [/EN#167192/scene a view of a city] behind [/EN#0/notvisual him] .
+[/EN#167190/people A young man] sits [/EN#167196/other cross] legged on [/EN#167191/other a ledge] while looking off to [/EN#0/notvisual the side] .
+[/EN#167190/people Man] is sitting on top of [/EN#167191/scene the balcony] and viewing [/EN#167192/scene the beautiful city] .
+[/EN#167190/people A man] sitting on [/EN#167191/other a high ledge] that [/EN#167192/scene overseas the city] .

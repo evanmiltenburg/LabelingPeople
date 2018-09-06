@@ -1,0 +1,5 @@
+[/EN#64452/people a lone person] wearing [/EN#64455/clothing a purple tank top] running on [/EN#64454/scene the shore] at [/EN#64453/scene the beach]
+[/EN#64452/people The woman] is wearing [/EN#64455/clothing a purple shirt] and runs on [/EN#64453/scene the beach] .
+[/EN#64452/people Woman] on [/EN#64453/scene beach] , running from [/EN#64456/scene water] to [/EN#64457/other trees] .
+[/EN#64452/people A girl] jumps over [/EN#64456/scene water] at [/EN#64453/scene the beach] .
+[/EN#64452/people A woman] leaps across [/EN#64453/scene the beach] .

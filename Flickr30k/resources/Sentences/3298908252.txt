@@ -1,0 +1,5 @@
+[/EN#107788/people A man] wearing [/EN#107796/clothing a white shirt] and [/EN#107797/clothing black pants] with [/EN#107789/clothing a white hat] on watching [/EN#107790/animals seagulls] on [/EN#107799/other the sand] with [/EN#107791/people two children] , [/EN#0/notvisual both] wearing [/EN#107798/clothing hats] and [/EN#107800/other one] wearing [/EN#107794/clothing a red shirt] and [/EN#107791/other one] wearing [/EN#107795/clothing a sundress] .
+[/EN#107788/people A father] and [/EN#107791/people his two young children] watch [/EN#107790/animals seagulls] on [/EN#107792/scene the beach] .
+[/EN#107788/people A man] in [/EN#107789/clothing a white hat] watching [/EN#107790/animals seagulls] with [/EN#107791/people two children] .
+[/EN#107788/people A man] and [/EN#107791/people two children] watch [/EN#107790/animals the birds] from [/EN#0/notvisual a distance] .
+[/EN#107788/people A man] with [/EN#107791/people two children] watching [/EN#107790/animals birds] .

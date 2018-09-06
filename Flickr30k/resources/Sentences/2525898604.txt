@@ -1,0 +1,5 @@
+[/EN#55332/vehicles/scene A boat] carrying [/EN#55334/people several men] is pulled to shore by [/EN#55333/animals a large team of horses] .
+[/EN#55333/animals A large team of horses] is pulling [/EN#55332/vehicles/scene a blue and white boat] onto [/EN#55335/scene the beach] .
+[/EN#55334/people A team of men] and [/EN#55333/animals horses] help remove [/EN#55337/other a ship] from [/EN#55335/scene a sandy shore] .
+[/EN#55332/vehicles/scene A boat] is being pulled out of [/EN#55336/scene the water] by [/EN#55333/animals a group of horses] .
+[/EN#55333/animals A team of horses] pulling [/EN#55332/vehicles/scene a boat] out of [/EN#55336/scene the water] .

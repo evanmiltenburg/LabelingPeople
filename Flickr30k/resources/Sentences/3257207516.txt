@@ -1,0 +1,5 @@
+[/EN#104892/people A woman] with [/EN#104893/clothing a blue headdress] and [/EN#104891/people a boy] with [/EN#104894/clothing a headband] make [/EN#104896/other a peace sign] with [/EN#104903/bodyparts their fingers]
+[/EN#104892/people A girl] in [/EN#104894/clothing a headdress] and [/EN#104891/people a boy] with [/EN#104894/clothing a bandanna] are giving [/EN#104896/other the peace sign] to [/EN#0/notvisual the camera] .
+[/EN#104892/people A woman] wearing [/EN#104893/other a blue headcover] and [/EN#104891/people a boy] wearing [/EN#104894/clothing a scarf] hold [/EN#104903/bodyparts fingers] in [/EN#104897/other peace signs] .
+[/EN#104891/people A boy] and [/EN#104892/people a young woman] in [/EN#104894/clothing a headscarf] make [/EN#104896/other peace signs] .
+[/EN#104891/people A boy] and [/EN#104892/people a woman] in [/EN#104898/clothing Arab costume] making [/EN#104897/other peace signs] .

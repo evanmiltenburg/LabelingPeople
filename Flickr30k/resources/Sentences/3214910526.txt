@@ -1,0 +1,5 @@
+[/EN#101707/people A man] is pouring [/EN#101708/other a garbage] can full of [/EN#101710/clothing shoes] into [/EN#101711/vehicles the back of a truck] .
+[/EN#101707/people A man] is dumping [/EN#101708/other a black garbage] can full of [/EN#101709/other junk] into [/EN#101714/other a machine] .
+[/EN#101707/people A garbage man] wearing [/EN#101713/clothing a hat] collects [/EN#101712/other a garbage bin] full of [/EN#101710/clothing shoes] .
+[/EN#101707/people A man] is dumping [/EN#101710/clothing old shoes] into [/EN#101711/vehicles the back of a truck]
+[/EN#101707/people A man] is dumping out [/EN#101709/other some trash] .

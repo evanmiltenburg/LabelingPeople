@@ -1,0 +1,5 @@
+[/EN#76161/other An orange lifeboat] speeds away from [/EN#76162/other its mobile launcher] whilst [/EN#76158/people a man] in [/EN#76159/clothing red] watches [/EN#0/notvisual it] sail away .
+[/EN#76163/vehicles A vehicle] has just released [/EN#76156/vehicles/scene a boat] into [/EN#76160/scene the water] as [/EN#76158/people a man] in [/EN#76159/clothing red] stands on [/EN#76157/scene shore] .
+[/EN#76156/vehicles/scene An orange boat] leaves [/EN#76157/scene the shore] while [/EN#76158/people a person] watches nearby .
+[/EN#76156/vehicles/scene A boat] goes out to see while [/EN#76158/people someone] watches on [/EN#76157/scene the beach] .
+[/EN#76156/vehicles/scene The boat] rushed off .

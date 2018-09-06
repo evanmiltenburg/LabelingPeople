@@ -1,0 +1,5 @@
+[/EN#196139/people A man] in [/EN#196141/clothing a white shirt] and [/EN#196142/clothing black leather vest] plays [/EN#196140/instruments an electric guitar] .
+[/EN#196139/people A man] in [/EN#196141/clothing a white shirt] and [/EN#196142/clothing black vest] is playing [/EN#196140/instruments an electric guitar] .
+[/EN#196139/people A man] in [/EN#196143/clothing glasses] and wearing [/EN#196141/clothing a white shirt] is playing [/EN#196140/instruments an instrument] .
+[/EN#196139/people A man] playing [/EN#196140/instruments an instrument] on [/EN#196144/scene stage] .
+[/EN#196139/people A long-haired man] plays [/EN#196140/instruments a guitar]

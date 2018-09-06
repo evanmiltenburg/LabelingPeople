@@ -1,0 +1,5 @@
+[/EN#7021/people A boy] dressed in [/EN#7024/clothing khaki shorts] and [/EN#7023/clothing a red shirt] runs on [/EN#7022/scene a beach] with [/EN#7026/other green , white and blue structures] and [/EN#7027/other a half moon] behind [/EN#0/notvisual him] .
+[/EN#7021/people Young boy] in [/EN#7023/clothing red] runs on [/EN#7022/scene beach] and passes [/EN#7025/scene white , blue and green beach huts] .
+[/EN#7021/people A boy] wearing [/EN#7023/clothing a red sweater] runs along [/EN#7022/scene a colorful beach] .
+[/EN#7021/people A boy] wearing [/EN#7023/clothing a red shirt] runs along [/EN#7022/scene a beach] .
+[/EN#7021/people A boy] in [/EN#7023/clothing a red sweater] running on [/EN#7022/scene the beach]

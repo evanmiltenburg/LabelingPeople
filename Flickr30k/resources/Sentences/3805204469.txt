@@ -1,0 +1,5 @@
+[/EN#143305/people A man] with [/EN#143314/clothing a gray cap] is holding [/EN#143310/other a hand tool] above [/EN#143312/scene a rusted metal surface] .
+[/EN#143305/people A man] with [/EN#143306/other tools] in [/EN#143315/bodyparts both hands] is focused on [/EN#143307/other his work] .
+[/EN#143305/people A blacksmith] works on [/EN#143312/other an anvil] in [/EN#143311/scene an aged smith shop] .
+[/EN#143305/people A blacksmith] is making [/EN#143308/other something] out of [/EN#143306/other metal] .
+[/EN#143305/people A Blacksmith] shaping [/EN#143306/other red hot iron] .

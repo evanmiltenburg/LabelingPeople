@@ -1,0 +1,5 @@
+[/EN#40859/people A man] with [/EN#40863/bodyparts a shaved head] is sitting on [/EN#40860/scene a sandy beach] holding [/EN#40862/other an electric razor] close to [/EN#40864/bodyparts his face] .
+[/EN#40859/people A bald headed man] with [/EN#40861/bodyparts a beard] holding [/EN#40862/other an electric shaver] on [/EN#40860/scene a beach] .
+[/EN#40859/people A man] is shaving while sitting on [/EN#40860/scene the beach] in front of [/EN#40865/scene the ocean] .
+[/EN#40859/people A bald man] with [/EN#40861/bodyparts a beard] holding [/EN#40862/other a shaving device] on [/EN#40860/scene a beach] .
+[/EN#40859/people A man] using [/EN#40862/other a razor] in front of [/EN#40860/scene a beach] .

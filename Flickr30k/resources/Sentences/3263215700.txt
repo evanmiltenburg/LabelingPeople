@@ -1,0 +1,5 @@
+[/EN#105453/animals Two dogs] are swimming through [/EN#105454/scene deep water] within [/EN#105456/scene close proximity] to [/EN#0/notvisual one another] .
+[/EN#105453/animals Two white dogs] swim [/EN#105457/bodyparts face] to face in [/EN#105454/scene shady water] .
+[/EN#105453/animals Two white dogs] swimming in [/EN#105454/scene the ocean] .
+[/EN#105453/animals Two white dogs] are swimming .
+[/EN#105455/animals White dog] in [/EN#105454/scene the water] .

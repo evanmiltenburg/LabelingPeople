@@ -1,0 +1,5 @@
+[/EN#128500/animals/people A German Shepherd] is running with [/EN#128501/other a stick] in [/EN#128502/bodyparts its mouth] .
+[/EN#128500/animals The yellow dog] is carrying [/EN#128501/other a stick] by [/EN#128503/scene water] .
+[/EN#128500/animals A dog] in [/EN#128503/scene water] holds [/EN#128501/other a stick] in [/EN#128502/bodyparts its mouth] .
+[/EN#128500/animals A large yellow dog] is retrieving [/EN#128501/other a stick] .
+[/EN#128500/animals a tan dog] holding [/EN#128501/other a stick] in [/EN#128502/bodyparts his mouth] .

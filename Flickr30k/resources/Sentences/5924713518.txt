@@ -1,0 +1,5 @@
+[/EN#245448/people A boy] in [/EN#245451/clothing a red hat] uses [/EN#245452/other a telescope] to look into [/EN#245457/scene a sky] with [/EN#245450/other a gibbous moon] .
+[/EN#245448/people A boy] in [/EN#245454/clothing a red shirt] with [/EN#245453/other a flag] on [/EN#245455/clothing the sleeve] looking through [/EN#245452/other a telescope] .
+[/EN#245448/people A young boy] in [/EN#245451/clothing a red hat] looking at [/EN#245450/other the moon] with [/EN#245452/other a telescope] .
+[/EN#245448/people A boy scout] with [/EN#245451/clothing a red cap] is looking through [/EN#245452/other a telescope]
+[/EN#245448/people A man] is looking at [/EN#245450/other the moon] throw [/EN#245452/other a telescope] at [/EN#245456/other dusk] .

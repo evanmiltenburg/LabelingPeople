@@ -1,0 +1,5 @@
+[/EN#240248/people A guy] surfing in [/EN#240249/scene a lake or river] while [/EN#240250/vehicles/scene a boat] is pulling [/EN#0/notvisual him]
+[/EN#240248/people A man] , in [/EN#240251/clothing dark clothing] , is wakeboarding on [/EN#240249/scene the lake] .
+[/EN#240248/people A man] waterskiing with [/EN#240249/scene the water] flying up behind [/EN#0/notvisual him] .
+[/EN#240252/other An athletic man waterskis] on [/EN#240249/scene a lake] .
+[/EN#240248/people A man] wakeboarding in [/EN#240249/scene a lake] .

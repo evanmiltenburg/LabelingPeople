@@ -1,0 +1,5 @@
+[/EN#280979/people A man] wearing [/EN#280981/clothing a blue shirt] and [/EN#280980/people a woman] holding up [/EN#280978/bodyparts four fingers] are sitting next to [/EN#0/notvisual each other] in [/EN#280988/scene a room] with [/EN#280986/people other people] and [/EN#280984/other drinks] .
+[/EN#280980/people The woman] holding up [/EN#280978/bodyparts four fingers] has [/EN#280979/people the attention of the young man] in [/EN#280981/clothing the blue dress shirt] .
+[/EN#280983/people The people] are at [/EN#280982/other a party] and are enjoying [/EN#0/notvisual themselves] .
+[/EN#280980/people A person] in [/EN#280982/other a group situation] has [/EN#280978/bodyparts 4 fingers] held up .
+[/EN#280979/people A man] looks at [/EN#280980/people a woman] as [/EN#0/notvisual she] displays [/EN#280985/bodyparts her hand] .

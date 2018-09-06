@@ -1,0 +1,5 @@
+[/EN#79021/people Soccer player] # [/EN#79023/other 23] is kicking [/EN#79022/other the soccer ball] .
+[/EN#79021/people Soccer player] kicking [/EN#79022/other yellow and blue ball] .
+[/EN#79021/people A soccer player] wearing [/EN#79026/clothing a white jersey] .
+[/EN#79021/people A soccer player] is making [/EN#79025/other a kick] .
+[/EN#79021/people A soccer player] in [/EN#79024/other action] .

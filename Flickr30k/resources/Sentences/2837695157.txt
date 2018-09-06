@@ -1,0 +1,5 @@
+[/EN#75911/people A little boy] in [/EN#75912/clothing a blue shirt] is playing with [/EN#75914/vehicles a yellow dump truck] on [/EN#75918/other a rose colored carpet] in front of [/EN#75916/other a flowered sofa] .
+[/EN#75911/people A young boy] , toddler [/EN#75917/other age] , wearing [/EN#75912/clothing a blue shirt] plays with [/EN#75914/vehicles a yellow dump truck] in [/EN#75915/people a family] living [/EN#75913/scene room] .
+[/EN#75911/people A boy] wearing [/EN#75912/clothing a blue t-shirt] is playing with [/EN#75914/vehicles a yellow dump truck] in [/EN#75913/scene a living room] .
+[/EN#75911/people A young boy] in [/EN#75912/clothing a blue shirt] plays with [/EN#75914/vehicles a toy truck] .
+[/EN#75911/people A boy] with [/EN#75912/clothing a blue shirt] plays with [/EN#75914/vehicles a toy truck] .

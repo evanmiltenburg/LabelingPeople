@@ -1,0 +1,5 @@
+[/EN#1054/people A man] is cooking [/EN#0/notvisual what] appears to be [/EN#1055/other green beans] in [/EN#1056/other a grill basket] on [/EN#1057/other a grill] with [/EN#1058/animals/scene a yellow lab] standing by [/EN#0/notvisual him] while [/EN#1063/people someone] takes [/EN#1064/other a picture] from [/EN#1061/other above] .
+[/EN#1054/people A man] and [/EN#1058/animals his dog] are grilling [/EN#1059/other green beans] on [/EN#1057/other a grill] .
+[/EN#1054/people A man] grilling [/EN#1055/other vegetables] on [/EN#1060/scene a patio] with [/EN#1058/animals his dog] .
+[/EN#1054/people A man] and [/EN#1058/animals a dog] grilling [/EN#1055/other green beans] .
+[/EN#1054/people Guy] and [/EN#1058/animals his dog] cooking outside

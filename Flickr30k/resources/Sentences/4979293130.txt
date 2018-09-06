@@ -1,0 +1,5 @@
+[/EN#225493/people A small child] with [/EN#225499/bodyparts brown hair] sitting on [/EN#225494/vehicles the seat of a red motorbike] on [/EN#225500/scene the side of the street] .
+[/EN#225493/people A young boy] looking back at [/EN#0/notvisual the camera] while sitting on [/EN#225494/vehicles a red scooter] .
+[/EN#225493/people Little girl] with [/EN#225496/bodyparts a cute face] sitting on [/EN#225497/other a motorcycle] .
+[/EN#225493/people A small boy] sits at [/EN#225495/vehicles the controls of a red moped] .
+[/EN#225493/people A small child] points at [/EN#225495/vehicles a moped] .

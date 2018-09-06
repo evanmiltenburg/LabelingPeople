@@ -1,0 +1,5 @@
+[/EN#58405/people A well dressed man] with [/EN#58406/other a cane] and [/EN#58407/bodyparts a beard] , sleeping under [/EN#58408/other a tree] in [/EN#58411/scene a park] .
+[/EN#58405/people A white-haired man] lays down [/EN#58406/other his cane] and [/EN#58409/clothing hat] and rests next to [/EN#58408/other a tree] .
+[/EN#58405/people A bearded man] laying on [/EN#58412/other his back] under [/EN#58408/other a large tree] .
+[/EN#58405/people A gray bearded man] is sleeping under [/EN#58408/other a tree] .
+[/EN#58405/people A man] laying in [/EN#58410/scene the grass] under [/EN#58408/other a tree] .

@@ -1,0 +1,5 @@
+[/EN#26289/people A little girl] in [/EN#26290/clothing a paisley dress] runs across [/EN#26293/scene a sandy playground] .
+[/EN#26289/people A girl] in [/EN#26290/clothing a flower dress] is running on [/EN#26293/other sand] .
+[/EN#26289/people The yuong girl] is standing on [/EN#26291/bodyparts one leg] .
+[/EN#26289/people A girl] running with [/EN#26292/bodyparts outstretched arms]
+[/EN#26289/people A little girl] is running .

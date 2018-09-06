@@ -1,0 +1,5 @@
+[/EN#151831/people People] sitting at [/EN#151834/other white tables] in [/EN#151832/other a cafe] , with [/EN#151837/other a brown bench] filled with [/EN#151839/other thick pillows] next to [/EN#151833/other the glass window] .
+[/EN#151830/other A chandelier] hangs above [/EN#151831/people a group of people] sitting at [/EN#151834/other a restaurant table] in front of [/EN#151833/other a glass window] .
+[/EN#0/notvisual These] are [/EN#151831/people random people] in [/EN#151840/scene a restaurant] underneath [/EN#151830/other a chandelier] .
+[/EN#151835/people White male] sitting at [/EN#151838/other the table] with [/EN#151836/other a beverage] .
+[/EN#151831/people People] eating in [/EN#151832/other an upscale deli] .

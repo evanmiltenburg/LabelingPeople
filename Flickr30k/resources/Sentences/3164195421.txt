@@ -1,0 +1,5 @@
+[/EN#97587/people A group of five individuals] , [/EN#0/notvisual many of them] [/EN#97580/people children] , standing on [/EN#97581/scene a hill] observing [/EN#97585/animals a small animal] .
+[/EN#97580/people Four children] and [/EN#97582/people a man] viewing [/EN#97586/other an armadillo] on [/EN#97589/other a grassy slope] with [/EN#97579/other trees] in [/EN#0/notvisual the background] .
+[/EN#97580/people 4 children] and [/EN#97582/people 1 adult] look at [/EN#97586/other an armadillo] on [/EN#97581/scene a grassy hill] with [/EN#97579/other 2 trees] .
+[/EN#97580/people Four children] and [/EN#97582/people a woman] , look at [/EN#97586/other an armadillo] .
+[/EN#97588/scene Family outdoors] observing [/EN#97585/animals an animal] [/EN#97591/scene outdoors] .

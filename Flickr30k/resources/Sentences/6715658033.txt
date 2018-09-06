@@ -1,0 +1,5 @@
+[/EN#257130/people The lady] is polishing [/EN#257137/bodyparts her fingernails] [/EN#257134/other a bright red color] .
+[/EN#257130/people A woman] is applying [/EN#257136/other red fingernail polish] to [/EN#257133/other her nails] .
+[/EN#257130/people A female] paints [/EN#0/notvisual her] [/EN#257135/other nails] red while sitting in [/EN#257130/vehicles a car] .
+[/EN#257130/people A woman] sitting in [/EN#257130/vehicles a car] painting [/EN#257133/other her nails] .
+[/EN#257130/people A passenger] in [/EN#257130/vehicles a car] painting [/EN#257133/other her nails] .

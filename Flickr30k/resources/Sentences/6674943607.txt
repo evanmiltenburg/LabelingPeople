@@ -1,0 +1,5 @@
+[/EN#256763/people A man] wearing [/EN#256764/clothing a baseball cap] , [/EN#256766/clothing a t-shirt] , and [/EN#256767/clothing red shorts] climbs [/EN#256765/other a palm tree] barefooted .
+[/EN#256763/people A man] with [/EN#256767/clothing orange shorts] and [/EN#256764/clothing a blue cap] is in [/EN#256765/other a tree] .
+[/EN#256763/people Man] in [/EN#256766/clothing white t-shirt] climbing [/EN#256765/other a tree] .
+[/EN#256763/people A barefoot man] climbs [/EN#256765/other a palm tree] .
+[/EN#256763/people A man] very high up on [/EN#256765/other a tree] .

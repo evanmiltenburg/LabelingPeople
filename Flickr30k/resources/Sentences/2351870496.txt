@@ -1,0 +1,5 @@
+[/EN#43519/people Two men] and [/EN#43521/people a woman] swimming in [/EN#43520/scene a large body of water] with [/EN#43517/animals a golden Labrador retriever] .
+[/EN#43519/people Two men] and [/EN#43521/people a woman] are standing in [/EN#43520/scene water] with [/EN#43517/animals a golden retriever] .
+[/EN#43519/people Two men] and [/EN#43521/people a woman] play with [/EN#43517/animals a dog] in [/EN#43520/scene the water] .
+[/EN#43518/people Three friends] play with [/EN#43517/animals a dog] in [/EN#43520/scene a lake] .
+[/EN#43517/animals The dog] is in [/EN#43520/scene the water] with [/EN#43518/people people] .

@@ -1,0 +1,5 @@
+[/EN#125849/people An older , caucasian man] puts [/EN#125850/clothing a gray sock] on [/EN#125855/other his left foot] while sitting in [/EN#125851/other the sand] .
+[/EN#125849/people An older man] wearing [/EN#125854/clothing glasses] and [/EN#125853/clothing a hat] pulls on [/EN#125850/clothing his sock] as [/EN#0/notvisual he] sits on [/EN#0/notvisual the ground] .
+[/EN#125849/people An older man] is on [/EN#125851/scene the dusty beach] putting on [/EN#125850/clothing his socks] .
+[/EN#125849/people Older man] putting on [/EN#125850/clothing socks] in [/EN#125851/other a treeless sand dune] .
+[/EN#125849/people An older man] puts on [/EN#125850/clothing his socks] .

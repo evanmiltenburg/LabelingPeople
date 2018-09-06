@@ -1,0 +1,5 @@
+[/EN#79606/people A football player] in [/EN#79609/clothing an orange jersey] tries to escape with [/EN#79610/other the ball] from [/EN#79611/people the tackler] .
+[/EN#79606/people The football player] in [/EN#79609/clothing the orange uniform] has [/EN#79610/other the ball] in [/EN#79612/bodyparts his arms] .
+[/EN#79606/people A football player] catches [/EN#79608/other the ball] as [/EN#0/notvisual another] tries to tackle [/EN#0/notvisual him] .
+[/EN#79606/people A football player] carries [/EN#79610/other the ball] during [/EN#79607/other a game] .
+[/EN#79606/people A football player] is getting tackled .

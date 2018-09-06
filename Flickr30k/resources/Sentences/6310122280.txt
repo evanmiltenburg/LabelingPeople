@@ -1,0 +1,5 @@
+[/EN#252225/people A baseball player] in [/EN#252226/clothing blue and gray] stands on [/EN#252229/scene the pitchers mound] and winds up for [/EN#252227/scene the pitch] .
+[/EN#252225/people A baseball pitcher] in [/EN#252226/other a blue , white and gray uniform mid-pitch] .
+[/EN#252225/people A baseball pitcher] leans back in [/EN#252231/other preparation] for [/EN#252227/scene a pitch] .
+[/EN#252225/people A baseball player] is throwing [/EN#252227/scene a pitch] from [/EN#252229/other the mound] .
+[/EN#252225/people A guy] [/EN#0/notvisual who] is pitching [/EN#252228/other a baseball] with [/EN#252232/clothing a blue hat] .

@@ -1,0 +1,5 @@
+[/EN#70764/animals A brown , tan , and white dog] and [/EN#70768/animals a black and white dog] are playing with [/EN#70766/other a tennis ball] on [/EN#70767/other a house deck] .
+[/EN#70764/animals A dog] jumps to try to catch [/EN#70766/other a yellow tennis ball] on [/EN#70769/scene a patio] .
+[/EN#70765/animals Two dogs] play with [/EN#70766/other a green ball] on [/EN#70767/other a wooden deck] .
+[/EN#70765/animals two fluffy dogs] jumping to catch [/EN#70766/other a tennis ball] .
+[/EN#70765/animals Two dogs] playing with [/EN#70766/other a tennis ball]

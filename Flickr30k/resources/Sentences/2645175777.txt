@@ -1,0 +1,5 @@
+[/EN#63598/people A street vendor] has [/EN#63604/scene a seat] in [/EN#63605/other the middle of his produce setup] ; [/EN#0/notvisual he] is talking on [/EN#63599/other a cellphone] .
+[/EN#63598/people A person] wearing [/EN#63600/clothing a red shirt] sitting in [/EN#63605/other the middle of fresh fruit] and [/EN#63601/other vegetables] .
+[/EN#63598/people A dark-haired man] is minding [/EN#63607/scene a fruit shop] .
+[/EN#63598/people A man] sits in [/EN#63605/scene the middle of a fruit stand] .
+[/EN#63598/people A man] selling [/EN#63602/other fruits] and [/EN#63603/other vegetables] .

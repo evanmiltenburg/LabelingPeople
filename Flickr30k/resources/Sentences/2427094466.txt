@@ -1,0 +1,5 @@
+[/EN#48645/people A blond girl] wearing [/EN#48650/clothing a white dress] is arguing with [/EN#48648/people another girl] wearing [/EN#48649/other a peach] and [/EN#48650/clothing white dress] .
+[/EN#48645/people A girl] in [/EN#48650/clothing a short white dress] is talking to [/EN#48646/people a girl] in [/EN#48649/clothing an orange] and [/EN#48650/clothing white top] .
+[/EN#48646/people Two women] talk to [/EN#0/notvisual each other] in [/EN#48655/scene a dark room] as [/EN#48653/people other people] stand by .
+[/EN#48646/people Two girls] dressed in [/EN#48647/clothing cocktail dresses] are having [/EN#48651/other a conversation] .
+[/EN#48645/people A girl] in [/EN#48650/clothing a white dress] is talking to [/EN#48648/people a girl] in [/EN#48647/clothing a coral dress] .

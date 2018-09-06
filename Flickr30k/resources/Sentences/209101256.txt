@@ -1,0 +1,5 @@
+[/EN#28167/people A group of nicely dressed people] sitting at [/EN#28168/other a long table] with [/EN#28173/other several bottles of wine] on [/EN#0/notvisual it] .
+[/EN#28167/people People] are sitting at [/EN#28169/other long dining tables] in [/EN#28172/scene a tent] at [/EN#28170/scene some formal event] .
+[/EN#28168/other A long dinner table] with [/EN#28167/people rows of people] talking waiting for [/EN#28171/other their food] .
+[/EN#28167/people Many people] sit at [/EN#28168/other a long dinner table] at [/EN#28170/scene a formal event] .
+[/EN#28167/people Banquet attendees] are waiting for [/EN#28171/other the meal] to be served .

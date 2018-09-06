@@ -1,0 +1,5 @@
+[/EN#183825/people A woman] wearing [/EN#183831/clothing an olive green jacket] and [/EN#183826/clothing navy shirt] looks tired as [/EN#0/notvisual she] comes up [/EN#183834/other the steps] from [/EN#183828/vehicles/scene the subway] .
+[/EN#183825/people A woman] wearing [/EN#183827/clothing a heart-shaped necklace] and [/EN#183826/clothing a blue shirt] is next to [/EN#183829/scene a fence] .
+[/EN#183825/people A woman] walking on [/EN#183832/scene the street] wearing [/EN#183827/clothing a gold necklace] and [/EN#183826/clothing a blue blouse]
+[/EN#183825/people A woman] is coming up to [/EN#183833/other street level] from [/EN#183828/vehicles/scene the subway] .
+[/EN#183825/people A lady] with [/EN#183830/other a gold heart] pendant .

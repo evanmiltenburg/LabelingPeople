@@ -1,0 +1,5 @@
+[/EN#13201/people A blond woman] dressed from [/EN#13202/bodyparts head to toe] in [/EN#13203/clothing black] , [/EN#13209/scene stands] in front of [/EN#13204/vehicles a CHEVROLET car] and [/EN#13205/other sign] .
+[/EN#13201/people Woman] giving [/EN#13210/other a presentation] about [/EN#13204/vehicles a Chevrolet car] .
+[/EN#13201/people A woman] speaking in front of [/EN#13204/other a chevy malibu] .
+[/EN#13204/vehicles Chevrolet car] on [/EN#13207/other display] at [/EN#13208/people a convention]
+[/EN#13201/people A woman] promoting [/EN#13204/other the Chevrolet] .

@@ -1,0 +1,5 @@
+[/EN#24746/bodyparts A hand] turns [/EN#24743/other the tap] to allow [/EN#24742/animals three dogs] to drink [/EN#24744/scene some water] .
+[/EN#24741/animals a dog] attempting to drink from [/EN#24743/other an outdoor water faucet]
+[/EN#24742/animals Three dogs] drinking [/EN#24744/scene water] at [/EN#24743/other a public spigot] .
+[/EN#24745/scene A dog drinks water] out of [/EN#24744/scene a water fountain] .
+[/EN#24741/animals A dog] drinking out of [/EN#24743/other a water spigot] .

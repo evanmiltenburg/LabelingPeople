@@ -1,0 +1,5 @@
+[/EN#19261/animals A brown dog] , [/EN#19263/animals a black and white dog] , and [/EN#19264/animals a black dog] are all standing in [/EN#19265/scene a field] .
+[/EN#19261/animals a brown dog] faces [/EN#19264/animals a black dog] and [/EN#19263/animals a white dog] in [/EN#19266/scene a field of long grass] .
+[/EN#19262/animals The three dogs] are standing in [/EN#19266/scene tall grass] .
+[/EN#19262/animals The three dogs] are in [/EN#19265/scene a field] .
+[/EN#19262/animals Three dogs] in [/EN#19265/scene a field] .

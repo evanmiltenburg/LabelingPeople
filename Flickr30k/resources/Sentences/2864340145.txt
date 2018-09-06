@@ -1,0 +1,5 @@
+[/EN#77549/animals A black dog] is walking through [/EN#77550/scene the water] .
+[/EN#77549/animals A black dog] walks through [/EN#77550/scene the water] .
+[/EN#77549/animals A black dog] walking through [/EN#77550/scene water] .
+[/EN#77549/animals A dark dog] is in [/EN#77550/scene a body of water] .
+[/EN#77549/animals A black dog] in [/EN#77550/scene the water] .

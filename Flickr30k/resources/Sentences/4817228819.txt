@@ -1,0 +1,5 @@
+[/EN#206470/people A taxi driver] rests [/EN#206473/bodyparts one of his hands] on [/EN#206472/bodyparts his forehead] and [/EN#0/notvisual another] on [/EN#206470/scene the head of the passenger seat] .
+[/EN#206470/people Man] sitting in [/EN#206471/vehicles yellow car] in [/EN#206475/other the sun] , wiping [/EN#206472/bodyparts forehead] .
+[/EN#206470/people A man] in [/EN#206471/vehicles a yellow car] has [/EN#206473/bodyparts his hand] to [/EN#206472/bodyparts his forehead] .
+[/EN#206470/people A taxi cab driver] looks stressed out in [/EN#206471/vehicles his car] .
+[/EN#206470/people A man] in [/EN#206471/vehicles a yellow car] covering [/EN#206472/bodyparts his face] .

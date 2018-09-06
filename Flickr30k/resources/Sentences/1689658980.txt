@@ -1,0 +1,5 @@
+[/EN#18805/animals The two dogs] are enjoying [/EN#18809/other a run] through [/EN#18807/other the surf] .
+[/EN#18805/animals Two dogs] running through [/EN#18806/scene the water] on [/EN#18808/scene a beach] .
+[/EN#18805/animals Two dogs] are running through [/EN#18807/other the surf] .
+[/EN#18805/animals Two dogs] run out of [/EN#18806/scene the ocean lake] .
+[/EN#18805/animals Two dogs] play in [/EN#18807/other the surf] .

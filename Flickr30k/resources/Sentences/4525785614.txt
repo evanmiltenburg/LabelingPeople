@@ -1,0 +1,5 @@
+[/EN#175560/people A man] wearing [/EN#175567/clothing glasses] is pointing to [/EN#175568/other text] [/EN#0/notvisual that] is displayed on [/EN#175561/other a projection screen] .
+[/EN#175560/people A presenter] in [/EN#175564/clothing a black shirt] is pointing at [/EN#175561/scene a slide] in [/EN#175562/people a conference] .
+[/EN#175560/people a man] points to [/EN#175561/other a projected image of a Firefox page] at [/EN#175562/people a conference] .
+[/EN#175560/people A man] give [/EN#175566/other a presentation] using [/EN#175565/other an overhead projector] .
+[/EN#175560/people The man] is giving [/EN#175561/other a presentation] on [/EN#175561/other a Smart Board] .

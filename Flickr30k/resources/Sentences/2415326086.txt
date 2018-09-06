@@ -1,0 +1,5 @@
+[/EN#47756/people Several people] , including [/EN#47757/people a boy] in [/EN#47758/clothing a striped shirt] walk on [/EN#47759/scene a concrete path] away from [/EN#47760/scene a body of water] .
+[/EN#47756/people People] are walking down [/EN#47759/scene the sidewalk] with [/EN#47761/people a bride] and [/EN#47760/scene water] in [/EN#0/notvisual the background] .
+[/EN#47756/people People] walking on [/EN#47759/scene a path] in front of [/EN#47761/scene a bridge] .
+[/EN#47756/people People] walking along [/EN#47759/other a pathway] along [/EN#47760/scene a lake] .
+[/EN#47756/people Several people] walking down [/EN#47759/scene a walkway] .

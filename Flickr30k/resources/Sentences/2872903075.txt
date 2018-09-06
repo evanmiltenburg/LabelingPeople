@@ -1,0 +1,5 @@
+[/EN#78110/people A mother] in [/EN#78111/clothing a blue jacket] , and [/EN#78109/people a child] in [/EN#78114/clothing a black jacket] , are walking in [/EN#78113/scene the snow] around [/EN#78116/other trees] .
+[/EN#78110/people A woman] in [/EN#78111/clothing a blue coat] is playing in [/EN#78112/scene the snow] with [/EN#78109/people a child] .
+[/EN#78109/people A child] and [/EN#78110/people a woman] are in [/EN#78113/scene the snow] sledding and playing .
+[/EN#78110/people A lady] and [/EN#78109/people her son] playing outside in [/EN#78115/other the winter] .
+[/EN#78110/people A woman] and [/EN#78109/people child] play in [/EN#78112/scene a snow covered yard] .

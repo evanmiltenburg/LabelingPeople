@@ -1,0 +1,5 @@
+[/EN#184115/people A young Asian woman] sits posing while [/EN#184116/people a portrait artist] draws [/EN#0/notvisual a portrait of her] wearing [/EN#184121/clothing a pink dress] .
+[/EN#184115/people A young , Asian woman] is having [/EN#184118/other a caricature] drawn and colored of [/EN#0/notvisual herself] .
+[/EN#184115/people A woman] has [/EN#0/notvisual a caricature of herself] as [/EN#184120/people a ballerina] done .
+[/EN#184115/people A woman] poses as [/EN#184116/people a street artist] paints [/EN#184119/other her picture] .
+[/EN#184116/people Artist] drawing [/EN#184119/people the portrait of a woman] .

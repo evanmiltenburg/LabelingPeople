@@ -1,0 +1,5 @@
+[/EN#139280/people A woman] wearing [/EN#139282/clothing a teal cardigan] with [/EN#139281/clothing a teal scarf] and [/EN#139286/clothing sunglasses] on [/EN#139283/bodyparts her head] .
+[/EN#139280/people A woman] in [/EN#139282/clothing a blue sweater] with [/EN#139281/clothing a blue scarf] around [/EN#139283/bodyparts her head] .
+[/EN#139280/people A woman] in [/EN#139283/bodyparts a head] covering is looking away from [/EN#0/notvisual the camera] .
+[/EN#139280/people A woman] is wearing [/EN#139281/clothing a blue headscarf] and [/EN#139282/clothing a blue sweater] .
+[/EN#0/notvisual There] is [/EN#139280/people a woman] with [/EN#139281/clothing a green scarf] around [/EN#139283/bodyparts her head] .

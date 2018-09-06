@@ -1,0 +1,5 @@
+[/EN#6582/people Man] dressed in [/EN#6590/clothing coat] , [/EN#6591/clothing scarf] , and [/EN#6583/clothing hat] painting [/EN#6588/scene a picture of a building] on [/EN#6589/other an easel] in [/EN#6584/scene the streets] .
+[/EN#6582/people A man] , standing outside on [/EN#6587/scene a city street] , is painting [/EN#6588/scene a picture of a house] .
+[/EN#6582/people A man] wearing [/EN#6583/clothing a beanie] painting [/EN#6588/scene a realistic portrait of a building] .
+[/EN#6582/people A man] is painting on [/EN#6587/scene a sidewalk] in [/EN#6586/scene the city] .
+[/EN#6582/people A man] is painting on [/EN#6585/scene a city street] .

@@ -1,0 +1,5 @@
+In [/EN#0/notvisual the foreground] , [/EN#223870/people a man] in [/EN#223878/clothing a striped shirt] drinks [/EN#223876/other something] from [/EN#223873/other a bottle] while behind [/EN#0/notvisual him] stand [/EN#223872/people two women] with [/EN#223879/bodyparts dark hair] and [/EN#223880/clothing black shirts] in front of [/EN#223871/people a crowd] in [/EN#223874/scene an urban setting] .
+[/EN#223872/people Two women] look at [/EN#223875/people a cameraman] while walking through [/EN#223871/people a crowd] .
+[/EN#223870/people A man] drinks [/EN#223873/other a purple liquid] on [/EN#223874/scene a crowded street] .
+[/EN#223871/people Many people] walk along [/EN#223874/scene a crowded street] .
+[/EN#223871/people People] walking around [/EN#223874/scene the city streets] .

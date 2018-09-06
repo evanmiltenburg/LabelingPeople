@@ -1,0 +1,5 @@
+[/EN#87494/animals A fluffy dog] runs across [/EN#87495/scene a bridge] near [/EN#87496/scene a forest] .
+[/EN#87494/animals a tan dog] running across [/EN#87495/scene a narrow bridge] .
+[/EN#87494/animals A dog] runs down [/EN#87497/other a footbride] in [/EN#87498/other the fall] .
+[/EN#87494/animals A white dog] is running over [/EN#87495/scene a bridge] .
+[/EN#87494/animals A white dog] running over [/EN#87495/scene a bridge] .

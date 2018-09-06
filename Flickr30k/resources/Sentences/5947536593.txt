@@ -1,0 +1,5 @@
+[/EN#245856/people A person] wearing [/EN#245857/clothing a blue suit] with [/EN#245861/clothing large peacock feathers] is holding [/EN#245860/other a microphone] while standing on [/EN#245859/scene a stage] with [/EN#245862/other others] [/EN#0/notvisual who] are playing [/EN#245863/instruments musical instruments] as [/EN#245858/other a fog] envelopes [/EN#0/notvisual them] .
+[/EN#245856/people A singing musician] on [/EN#245859/scene stage] is wearing [/EN#245857/clothing an elaborate peacock costume] .
+[/EN#245856/people a man] in [/EN#245857/clothing a blue peacock costume] with [/EN#245858/other smoke] and [/EN#245858/other fog] underneath [/EN#0/notvisual him] .
+[/EN#245856/people A singer] is performing in [/EN#245857/clothing costume] during [/EN#245858/other a show] .
+[/EN#245856/people Man] in [/EN#245857/clothing peacock suit] singing on [/EN#245859/scene stage] .

@@ -1,0 +1,5 @@
+[/EN#241080/people A man] in [/EN#241085/clothing blue pants] and [/EN#241081/clothing a blue shirt] is cleaning [/EN#241083/other a window] , [/EN#0/notvisual which] is filled with [/EN#241082/other advertisements] .
+[/EN#241080/people A man] is putting up [/EN#241082/other an advertisement] on [/EN#241083/other a window] .
+[/EN#241080/people A man] is cleaning [/EN#241083/other a window] with [/EN#241084/other a sign] on [/EN#0/notvisual it] .
+[/EN#241080/people A man] cleaning [/EN#241083/scene the window of a gift shop] .
+[/EN#241080/people A man] in [/EN#241081/clothing blue] cleans [/EN#241083/other a shop 's window] .

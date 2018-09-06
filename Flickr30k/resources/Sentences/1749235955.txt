@@ -1,0 +1,5 @@
+[/EN#19898/people A man] in [/EN#19898/other yellow construction safety gear] is working on [/EN#19900/other a large piece of metal] .
+[/EN#19898/people A construction worker] does [/EN#19903/other some grinding] on [/EN#19900/other a piece of iron] .
+[/EN#19898/people A man] working on [/EN#19900/scene a train track] .
+[/EN#19898/people Man] working on [/EN#19900/people the railroad] .
+[/EN#19898/people A man] is working on [/EN#19900/other steel] .

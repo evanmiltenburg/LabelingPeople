@@ -1,0 +1,5 @@
+[/EN#43876/people One woman] is sitting on [/EN#43880/other a bench] waiting for [/EN#43878/vehicles/scene the subway] , while [/EN#43885/people three other women] are standing .
+[/EN#43879/people Four female passengers] wait for [/EN#43878/vehicles/scene their train] , [/EN#43883/other one] is sitting and [/EN#43881/other the rest] are standing .
+[/EN#43875/people Four women] wait with [/EN#43884/other their luggage] on [/EN#43882/other a train platform] .
+[/EN#43875/people A group of people] waiting for [/EN#43878/vehicles/scene the bus] .
+[/EN#43877/people women] waiting to get on [/EN#43878/vehicles/scene the subway] .

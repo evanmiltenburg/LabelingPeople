@@ -1,0 +1,5 @@
+[/EN#219512/people A little boy] in [/EN#219516/clothing a green shirt] plays ping-pong with [/EN#219513/people a man] in [/EN#219514/clothing a blue Nike shirt] .
+[/EN#219512/people a young boy] in [/EN#219516/clothing green] playing [/EN#219515/other ping-pong] with [/EN#219513/people a older man] in [/EN#219514/clothing blue] in [/EN#219521/scene a gymnasium]
+[/EN#219512/people Two boys] wearing [/EN#219516/clothing green shirts] playing [/EN#219515/other ping-pong] in [/EN#219520/other a tournament] .
+[/EN#219513/people A man] and [/EN#219512/other a boy engage] in [/EN#219515/other a game of Ping-Pong] .
+[/EN#219513/people A man] and [/EN#219512/people boy] are playing [/EN#219515/other table tennis] .

@@ -1,0 +1,5 @@
+[/EN#227609/people A man] in [/EN#227610/clothing green] is holding [/EN#227612/other a hose] [/EN#0/notvisual that] is connected to [/EN#227613/vehicles an airplane] .
+[/EN#227609/people A man] wearing [/EN#227610/clothing a green safety vest] is under [/EN#227613/other a plane] holding [/EN#227612/other a hose] .
+[/EN#227609/people A man] wearing [/EN#227610/clothing a green shirt] on [/EN#227612/other the runway fuels] up [/EN#227613/other a jetliner] .
+[/EN#227609/people A man] in [/EN#227610/clothing a yellow vest] is holding [/EN#227612/other a hose] to [/EN#227613/other a plane] .
+[/EN#227609/people A man] is fueling [/EN#227613/vehicles an airplane] wearing [/EN#227610/clothing a green shirt] .

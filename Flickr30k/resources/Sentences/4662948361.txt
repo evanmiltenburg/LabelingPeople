@@ -1,0 +1,5 @@
+[/EN#188073/vehicles Yellow taxi cab] moving across [/EN#188074/scene the bridge] and [/EN#188076/scene huge buildings] in [/EN#0/notvisual the background] .
+[/EN#188073/vehicles a taxi] going over [/EN#188074/scene the bridge] with [/EN#188077/people people] standing or walking on [/EN#188074/scene the bridge] .
+[/EN#188073/vehicles An orange car] is driving across [/EN#188074/scene a steel bridge] in [/EN#188075/scene a city] .
+[/EN#188073/vehicles A yellow taxi] crossing [/EN#188074/scene a large bridge] .
+[/EN#188073/vehicles An orange vehicle] parked on [/EN#188074/scene a bridge] .

@@ -1,0 +1,5 @@
+[/EN#70876/people A shirtless person] with [/EN#70880/clothing jeans] is climbing [/EN#70877/scene a rocky mountainside] .
+[/EN#70876/people A man] climbing [/EN#70877/scene the rocky face of a mountain] .
+[/EN#70878/other Extreme rock wall] climbing
+[/EN#70876/people A climber] on [/EN#70879/other some rocks] .
+[/EN#70876/people A man] rock climbing .

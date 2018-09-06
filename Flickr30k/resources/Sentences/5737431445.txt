@@ -1,0 +1,5 @@
+[/EN#242054/people A lady] in [/EN#242062/clothing a red dress] and [/EN#242058/people a guy] in [/EN#242061/clothing a pinstriped suit] ( but with [/EN#242060/clothing no jacket] ) are dancing [/EN#242057/other the tango] in [/EN#242056/scene a courtyard] with [/EN#242059/other an amplifier] plugged into [/EN#242063/other a wall] .
+[/EN#242054/people A woman] in [/EN#242062/clothing a red dress] and [/EN#242064/clothing heels] and [/EN#242058/people a man] in [/EN#242061/clothing a pin striped suit] are dancing [/EN#242057/other the tango] on [/EN#242056/scene the sidewalk] .
+[/EN#242055/people A young Latin couple] dancing outside in front of [/EN#242059/other an amplifier] .
+[/EN#242058/people well dressed man] and [/EN#242054/people woman] dancing in [/EN#242056/scene the street]
+[/EN#242055/people Two dancers] , dress-ed up , perform [/EN#242057/other a dance] .

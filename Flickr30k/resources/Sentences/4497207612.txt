@@ -1,0 +1,5 @@
+[/EN#173209/people A woman] with [/EN#173214/bodyparts long blond-hair] , wearing [/EN#173215/clothing a mid-length coat] , [/EN#173216/clothing black heeled shoes] is looking in [/EN#173210/scene the window of the Au Levain D'antan shop] .
+[/EN#173209/people A blond woman] is looking into [/EN#173210/scene a window of a French store] .
+[/EN#173209/people A woman] looking into [/EN#173210/scene the window of a French bakery] .
+[/EN#173209/people A woman] looks in [/EN#173210/other the window] as [/EN#0/notvisual she] passes [/EN#173211/scene a shop] .
+[/EN#173211/scene Beautiful french bakery shop] with [/EN#173211/scene blue exterior] .

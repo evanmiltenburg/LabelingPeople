@@ -1,0 +1,5 @@
+[/EN#225165/vehicles A blue construction vehicle] is parked on [/EN#225162/scene a mound of dirt] with [/EN#225160/people a picture of a man] in [/EN#0/notvisual the background] [/EN#0/notvisual that] is painted on [/EN#225157/scene a building] .
+[/EN#225157/other A picture of an artwork] [/EN#0/notvisual that] depicts [/EN#225160/people a man] being flown by [/EN#225161/animals birds] [/EN#0/notvisual that] is in [/EN#225164/scene font of a construction area] .
+[/EN#225158/other Blue tractor] digging in front of [/EN#225157/scene a building] with [/EN#225160/people a mural of a man] laying down with [/EN#225166/clothing no clothes] on .
+[/EN#225158/other Construction equipment] in front of [/EN#225157/scene a building] with [/EN#225160/people a mural of a man] being lifted by [/EN#225161/animals black birds] .
+[/EN#225158/other Tractors] are digging in [/EN#225163/scene a small area] in front of [/EN#225157/other a piece of art] .

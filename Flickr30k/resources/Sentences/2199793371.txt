@@ -1,0 +1,5 @@
+[/EN#33685/animals A brown and white dog] plays with [/EN#33686/other a soccer ball] on [/EN#0/notvisual snowy ground] .
+[/EN#33685/animals This brown pitbull] is carrying [/EN#33686/other a soccer ball] in [/EN#33689/bodyparts his mouth] .
+[/EN#33685/animals The pitbull] returns [/EN#33686/other the chewed up soccer ball] in [/EN#33687/scene the snow] .
+[/EN#33685/animals Large brown dog] playing with [/EN#33686/other soccer ball] in [/EN#33687/scene snow]
+[/EN#33685/animals A dog] is playing with [/EN#33686/other a football] in [/EN#33688/scene the snow] .

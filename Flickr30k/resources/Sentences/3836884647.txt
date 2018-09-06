@@ -1,0 +1,5 @@
+[/EN#144996/people A man] in [/EN#144999/clothing a blue collared shirt] and [/EN#145003/clothing tan pants] is wandering through [/EN#144998/scene a London subway station] .
+[/EN#144996/people A man] in [/EN#144999/clothing a blue shirt] walking in [/EN#145000/scene a subway tunnel] with [/EN#144997/other advertisements] .
+[/EN#144996/people A man] walking along [/EN#145002/other the platform] at [/EN#144998/scene a subway station] .
+[/EN#144996/people A man] walks by [/EN#144998/scene a building] at [/EN#145001/scene night] .
+[/EN#144997/other The marquee of movies] now playing .

@@ -1,0 +1,5 @@
+[/EN#35968/people Man] rides [/EN#35971/vehicles a bicycle] in [/EN#35972/scene a nearly empty courtyard] in front of [/EN#35970/scene a large building] .
+[/EN#35970/scene A very elegant building] with [/EN#35973/people bikers] in [/EN#35972/scene the courtyard]
+[/EN#35969/people Bike riders] pass [/EN#35970/scene an ornate building] with [/EN#35974/other a clock] .
+[/EN#35968/people A man] on [/EN#35971/vehicles a bicycle] is riding through [/EN#35972/scene a courtyard] .
+[/EN#35968/people A man] on [/EN#35971/vehicles a bicycle] rides past [/EN#35970/scene a big building] .

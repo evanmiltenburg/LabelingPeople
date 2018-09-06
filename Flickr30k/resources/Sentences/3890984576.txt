@@ -1,0 +1,5 @@
+[/EN#147182/people An older man] in [/EN#147183/clothing a suit jacket] and [/EN#147187/clothing dress shoes] is riding [/EN#147184/vehicles a bicycle] in [/EN#147185/scene the street] .
+[/EN#147182/people An elderly man] rides [/EN#147184/vehicles a bicycle] past [/EN#147186/scene a restaurant] on [/EN#147185/scene a cobblestone street] .
+[/EN#147182/people An older man] wearing [/EN#147183/clothing a tan coat] is riding [/EN#147184/vehicles his bicycle] down [/EN#147185/scene the street] .
+[/EN#147182/people A man] in [/EN#147183/clothing a beige jacket] riding [/EN#147184/vehicles a bicycle] down [/EN#147185/scene an empty street] .
+[/EN#147182/people A man] in [/EN#147183/clothing a khaki jacket] rides [/EN#147184/vehicles a bike] down [/EN#147185/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#59721/animals A white dog] with [/EN#59722/scene a brown spot] over [/EN#59728/bodyparts one eye] in [/EN#59724/scene a pool of blue water] with [/EN#59725/other a stick] in [/EN#59726/bodyparts its mouth] .
+[/EN#59721/animals A white dog] with [/EN#59723/scene brown spots] on [/EN#59727/bodyparts his face] with [/EN#59725/other a stick] in [/EN#59726/bodyparts his mouth] swimming in [/EN#59724/scene water] .
+[/EN#59721/animals A dog] is wading through [/EN#59724/scene deep water] while holding [/EN#59725/other a stick] .
+[/EN#59721/animals A white and brown dog] is carrying [/EN#59725/other a stick] in [/EN#59724/scene the water] .
+[/EN#59721/animals The white dog] brings [/EN#59725/other a stick] from [/EN#59724/scene the water] .

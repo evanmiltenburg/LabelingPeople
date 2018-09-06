@@ -1,0 +1,5 @@
+[/EN#251034/people Two men] are sitting on [/EN#251035/other a white couch] in [/EN#251036/scene a white room] using [/EN#251037/other separate laptops] .
+[/EN#251034/people Two men] in [/EN#251038/clothing black shirts] are sitting on [/EN#251035/other a white sofa] and working on [/EN#251037/other laptops] .
+[/EN#251034/people Two men] on [/EN#251035/other a couch] are using [/EN#251037/other laptop computers] in [/EN#251036/scene a white room] .
+[/EN#251034/people Two men] on [/EN#251037/other their laptops] not talking to [/EN#0/notvisual each other] .
+[/EN#251034/people Two men] working on [/EN#251037/other two laptops] .

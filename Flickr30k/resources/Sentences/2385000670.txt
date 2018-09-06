@@ -1,0 +1,5 @@
+[/EN#45548/people A man] wearing [/EN#45550/clothing a red shirt] is reaching out for [/EN#45549/clothing his hat] [/EN#0/notvisual that] fell while [/EN#0/notvisual he] is walking [/EN#45551/other a tightrope] .
+[/EN#45548/people A man] in [/EN#45550/clothing a red shirt] grabbing [/EN#45549/clothing a top hat] while standing on [/EN#45551/other a rope] with [/EN#45547/people 6 other people] looking on .
+[/EN#45547/people A crowd of onlookers] watch as [/EN#45548/people a man] performs [/EN#45553/other a stunt] involving [/EN#45549/clothing a hat] and [/EN#45551/other some rope] .
+[/EN#45548/people A man] is balancing on [/EN#45551/other a rope] in [/EN#45554/scene public] with [/EN#45555/clothing silver boots] .
+[/EN#45548/people Man] sitting on [/EN#45551/other a wire] while [/EN#45547/people crowd] on [/EN#45552/scene the street] looks .

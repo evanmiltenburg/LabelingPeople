@@ -1,0 +1,5 @@
+[/EN#113891/people A person] jumping [/EN#113892/vehicles their bike] in [/EN#113894/other the woods] in front of [/EN#113900/other trees] with [/EN#113899/other no leaves] .
+[/EN#113891/people A person] on [/EN#113892/vehicles a bike] is making [/EN#0/notvisual a high jump] along [/EN#113897/scene a trail] in [/EN#113894/other the woods] .
+[/EN#113891/people A boy] on [/EN#113892/vehicles a bicycle] in [/EN#113898/scene midair] after going off of [/EN#113893/scene a wooden ramp] .
+[/EN#113891/people A person] jumps [/EN#113892/vehicles a bicycle] off [/EN#113893/scene a ramp] in [/EN#113895/scene a barren forest] .
+[/EN#113891/people a man] jumping off [/EN#113893/scene a ramp] in [/EN#113892/vehicles a bike]

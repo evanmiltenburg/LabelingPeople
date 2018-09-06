@@ -1,0 +1,5 @@
+[/EN#164312/people The little girl] is wearing [/EN#164314/clothing a black sweater] and standing in front of [/EN#164315/scene a restaurant] .
+[/EN#164312/people A woman] in [/EN#164314/clothing a jacket] is posing for [/EN#164316/other a camera] smiling in [/EN#164315/scene a mostly empty restaurant] .
+[/EN#164313/people A young woman] wearing [/EN#164318/clothing a turtleneck] and [/EN#164314/clothing black jacket] is smiling for [/EN#164321/other a picture] .
+[/EN#164313/people A photo of a smiling young woman] in front of [/EN#164320/other tables] on [/EN#164317/scene the street] .
+[/EN#164312/people a young girl] standing outside [/EN#164315/scene a restaurant] at [/EN#164319/scene night] .

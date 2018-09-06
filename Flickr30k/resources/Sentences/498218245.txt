@@ -1,0 +1,5 @@
+[/EN#225952/people A man] in [/EN#225955/clothing a blue cap] , [/EN#225953/clothing black jacket] , and [/EN#225956/clothing jeans] walks by [/EN#225954/other a pay phone] painted blue .
+[/EN#225952/people A man] in [/EN#225953/clothing a blue jacket] is walking passed [/EN#225954/other a blue pay phone] .
+[/EN#225952/people A man] in [/EN#225953/clothing a navy blue jacket] walks by [/EN#225954/other a public telephone] .
+[/EN#225952/people The man] in [/EN#225953/clothing the blue jacket] walked past [/EN#225954/other the pay phone] .
+[/EN#225952/people A man] walks past [/EN#225954/other blue payphones] .

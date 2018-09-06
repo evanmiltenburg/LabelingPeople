@@ -1,0 +1,5 @@
+[/EN#40317/animals A dog] appearing to be malnourished is standing on [/EN#40322/bodyparts his hind legs] about to [/EN#0/notvisual jump] .
+[/EN#40317/animals Large brown dog] jumping over [/EN#40318/scene a bush] in [/EN#40318/scene a grassy area] .
+[/EN#40317/animals A dog] jumps high while outside .
+[/EN#40317/animals A brown dog] jumps in [/EN#0/notvisual the air] .
+[/EN#40317/animals A dog] jumps on [/EN#40318/scene a lawn] .

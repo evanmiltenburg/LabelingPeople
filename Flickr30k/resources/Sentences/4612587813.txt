@@ -1,0 +1,5 @@
+[/EN#182696/people A man] in [/EN#182698/clothing a black jacket] , [/EN#182698/clothing burgundy shirt] and [/EN#182702/clothing blue jeans] , walking past [/EN#182703/people a newspaper vendor] stand in [/EN#182699/scene a crowded subway station] .
+[/EN#182696/people A man] is walking through [/EN#182700/other a thoroughfare] with [/EN#182697/people other patrons] and [/EN#182706/other vending machines] visible .
+[/EN#182696/people A man] wearing [/EN#182698/clothing a black jacket] is walking through [/EN#182699/scene the train station] .
+[/EN#182697/people People] dressed in [/EN#182701/clothing pants] walking through [/EN#182699/scene a large building] .
+[/EN#182696/people A man] in [/EN#182705/clothing dark clothing] walking in [/EN#182700/other a transit station] .

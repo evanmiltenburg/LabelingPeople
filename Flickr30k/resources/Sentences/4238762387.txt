@@ -1,0 +1,5 @@
+[/EN#159981/people A woman] in [/EN#159984/clothing a yellow shirt] behind [/EN#159986/other an outside counter] is smiling and giving [/EN#159983/other the peace sign] .
+[/EN#159981/people A person] in [/EN#159988/scene a booth] giving [/EN#159983/other the peace sign] while [/EN#159987/people someone] else is holding [/EN#159982/other a map] .
+[/EN#159981/people A tourist guide] smiles for [/EN#0/notvisual the camera] as [/EN#0/notvisual she] hands out [/EN#159982/other a map] .
+[/EN#159981/people A woman] behind [/EN#159985/other a glass] smiling and holding [/EN#159983/other the peace sign] .
+Smiling [/EN#159981/people woman] in [/EN#159984/clothing yellow shirt] gesturing .

@@ -1,0 +1,5 @@
+[/EN#41870/people Seven people] walk on [/EN#41873/scene the sandy beach] while [/EN#41875/other the sun] sets behind [/EN#0/notvisual them] .
+[/EN#41870/people A family] is walking along [/EN#41871/scene the shore of the beach] at [/EN#41872/scene sunset] .
+[/EN#41870/people A group of people] taking [/EN#41874/other a stroll] on [/EN#41871/scene the beach] at [/EN#41872/scene sunset] .
+[/EN#41870/other Family of seven] , walking along [/EN#41871/scene a sandy beach] at [/EN#41872/scene sunset] .
+[/EN#41870/people A group of people] are walking along [/EN#41871/scene a beach] .

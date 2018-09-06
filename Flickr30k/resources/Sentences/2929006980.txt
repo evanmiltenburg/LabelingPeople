@@ -1,0 +1,5 @@
+[/EN#82052/people A man] stands on [/EN#82053/other a four-wheeled board] attached to [/EN#82054/clothing a harness] .
+[/EN#82052/people A man] is leaning on [/EN#82053/other a skateboard] while holding onto [/EN#82055/other a pole] .
+[/EN#82052/people Man] on [/EN#82053/other specialized skateboard] being propelled by [/EN#82057/other unseen kite]
+[/EN#82052/people A man] on [/EN#82053/vehicles a roller scooter] holding on to [/EN#82055/other rope]
+[/EN#82052/people A man] on [/EN#82053/other a skateboard] holding on to [/EN#82058/other a kite]

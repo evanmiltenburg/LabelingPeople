@@ -1,0 +1,5 @@
+[/EN#283159/people A woman] wearing [/EN#283163/clothing a black long-sleeve top] and [/EN#283164/clothing blue jeans] is kneading [/EN#283162/other bread] .
+[/EN#283159/people A woman] kneading [/EN#283162/other dough] in [/EN#283160/scene her kitchen] with [/EN#283165/bodyparts bare hands] .
+[/EN#283159/people A woman] is kneading [/EN#283162/other dough] on [/EN#283161/other a table] .
+[/EN#283159/people A woman] kneading [/EN#283162/other dough] in [/EN#283160/scene a kitchen] .
+[/EN#283159/people A woman] kneading [/EN#283162/other dough] on [/EN#283161/other a table]

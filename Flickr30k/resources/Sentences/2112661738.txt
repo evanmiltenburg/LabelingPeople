@@ -1,0 +1,5 @@
+[/EN#29404/animals A dog] treads through [/EN#29405/scene a shallow area of water] located on [/EN#29407/scene a rocky mountainside] .
+[/EN#29404/animals A dog] is standing in [/EN#29405/scene a small pool of water] on top of [/EN#29407/scene a mountain] .
+[/EN#29404/animals A white dog] standing in [/EN#29405/scene a pool of water] high in [/EN#29407/scene the mountains] .
+[/EN#29404/scene A white dog drinks water] on [/EN#29407/scene a mountainside] .
+[/EN#29404/scene A white dog drinks water] on [/EN#29407/scene a mountain] .

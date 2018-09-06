@@ -1,0 +1,5 @@
+[/EN#8921/people A woman] in [/EN#8924/clothing a red jacket] stands on [/EN#8922/scene the beach] facing [/EN#8922/scene the water] as [/EN#0/notvisual it] covers [/EN#8925/bodyparts her feet] .
+[/EN#8921/people Woman] standing on [/EN#8922/scene the shore of a beach] .
+[/EN#8921/people A woman] is watching [/EN#8926/other the tide] .
+[/EN#8921/people A girl] standing in [/EN#8922/scene the ocean]
+[/EN#8921/people a girl] walks in [/EN#8922/scene the ocean] .

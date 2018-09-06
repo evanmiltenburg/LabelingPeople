@@ -1,0 +1,5 @@
+[/EN#111947/people A man] in [/EN#111951/clothing black] carrying [/EN#111952/clothing an orange backpack] stands next to [/EN#111953/clothing a red backpack] [/EN#0/notvisual that] is laying in [/EN#111948/scene the snow] .
+[/EN#111947/people A man] stands at [/EN#111954/other dusk] on [/EN#111948/scene an almost-pristine , snowy road] , lit only by [/EN#111955/other headlights] .
+[/EN#111947/people A hiker] is walking up [/EN#111950/scene the mountain] on [/EN#111949/scene a snow-covered road] .
+[/EN#111947/people A person] stands in [/EN#111948/scene the snow] at [/EN#111949/scene the edge of a mountain] .
+[/EN#111947/people A traveler] on [/EN#111949/scene a snowy road]

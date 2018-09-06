@@ -1,0 +1,5 @@
+[/EN#79594/people A motorcyclist] rides down [/EN#79595/scene a ramp] held up by [/EN#79596/other colorful barrels] .
+[/EN#79597/other A blue motorcycle] is jumping over [/EN#79596/other some colored barrels] .
+[/EN#79594/people A man] riding [/EN#79597/other a blue motorcycle] jumps over [/EN#79595/scene a ramp] .
+[/EN#79594/people a motorcyclist] jumping on [/EN#79595/scene a ramp]
+[/EN#79594/people A dirt biker] lands on [/EN#79595/scene a ramp] .

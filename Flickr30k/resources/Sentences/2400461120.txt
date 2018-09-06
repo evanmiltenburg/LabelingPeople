@@ -1,0 +1,5 @@
+[/EN#46521/people A woman] is wearing [/EN#46526/clothing a white dress] in [/EN#46525/scene a store] [/EN#0/notvisual that] has [/EN#46527/other some decals] on [/EN#46529/scene the outside] , and is in [/EN#46523/scene the middle of two other stores] , [/EN#46531/other one] [/EN#0/notvisual that] says welcome , and [/EN#46522/other one] [/EN#0/notvisual that] 's called [/EN#46530/other Largo] .
+[/EN#46521/people A woman] is standing near [/EN#46534/scene three stores] , [/EN#46535/other two] have [/EN#46527/other beautiful artwork] and [/EN#46525/scene the other store] has Largo written on [/EN#0/notvisual it] .
+[/EN#46521/people A little girl] with [/EN#46526/clothing a white dress] is standing under [/EN#46528/scene the doorway of a store] .
+[/EN#46523/other A storefront] with [/EN#46533/other poor artist rendition of street art] .
+[/EN#46521/people A girl] is standing in [/EN#46523/scene a store] next to [/EN#46532/scene other stores] .

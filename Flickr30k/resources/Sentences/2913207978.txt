@@ -1,0 +1,5 @@
+[/EN#80923/people An Asian woman] in [/EN#80926/clothing a misspelled t-shirt] fans herself in [/EN#80928/other the mid-afternoon sun] while waiting for [/EN#80927/vehicles/scene a bus] in [/EN#80924/scene the city] .
+[/EN#80923/people A woman] in [/EN#80926/clothing a white shirt] standing beside [/EN#80924/scene a road] fanning [/EN#0/notvisual herself] .
+[/EN#80923/people A woman] waits at [/EN#80924/scene the side of a busy road] holding [/EN#80925/people a fan] .
+[/EN#80923/people An Asian woman] holding [/EN#80925/people a fan] watches [/EN#81000/vehicles traffic] go by .
+[/EN#80923/people A woman] with [/EN#80925/people a fan] near [/EN#80924/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#259272/people A person] is using [/EN#259275/other a dropper] to disperse [/EN#259273/other colored liquid] into [/EN#259278/other a clear beverage] .
+[/EN#259282/bodyparts A hand] is using [/EN#259275/other an eyedropper] to put [/EN#259276/other oranges drops] in [/EN#259273/other a highball glass] .
+[/EN#259272/people Someone] is dropping [/EN#259276/other orange food] coloring into [/EN#259273/other a clear drink] .
+[/EN#259273/other A glass] filled with [/EN#259283/scene water] is being filled with [/EN#259276/other fish eggs] .
+[/EN#259272/people A person] stirs [/EN#259275/other a tube] on [/EN#259279/other a table] .

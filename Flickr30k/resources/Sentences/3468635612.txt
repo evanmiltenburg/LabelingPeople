@@ -1,0 +1,5 @@
+[/EN#120329/people Two men] are riding on [/EN#120330/vehicles/scene a subway train] and [/EN#120333/other one] is holding onto [/EN#120332/other a strap] .
+[/EN#120329/people Two adults] stand up on [/EN#120330/vehicles/scene a bus] and watch out [/EN#120331/other the front window] .
+[/EN#120329/people 2 people] standing inside [/EN#120330/vehicles/scene a bus] waiting .
+[/EN#120329/people Men] waiting to get off [/EN#120330/other transit buss] .
+[/EN#120329/people Two men] stand on [/EN#120330/vehicles/scene the bus] .

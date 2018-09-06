@@ -1,0 +1,5 @@
+[/EN#33364/people A small redheaded child] wearing [/EN#33370/clothing a blue shirt] is sitting on [/EN#33367/scene a sidewalk] at [/EN#33365/scene the beach] overlooking [/EN#33366/scene a body of water] .
+[/EN#33364/people A redheaded child] sits looking through [/EN#33371/other a railing] at [/EN#33366/scene the water] while [/EN#33369/people people] play on [/EN#33365/scene the beach] in [/EN#0/notvisual a distance] .
+[/EN#33364/people An individual] sitting on [/EN#33367/scene the dock] at [/EN#33365/scene the beach] looking at [/EN#33366/scene the ocean] .
+[/EN#33364/people A young boy] is sitting on [/EN#0/notvisual the ground] staring at [/EN#33366/scene the ocean] .
+[/EN#33364/people A boy] is sitting on [/EN#33367/scene the pier] watching [/EN#33366/scene the water] .

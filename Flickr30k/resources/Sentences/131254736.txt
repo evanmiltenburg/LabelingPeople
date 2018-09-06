@@ -1,0 +1,5 @@
+[/EN#8339/people Two men] near [/EN#8340/scene railroad tracks] with [/EN#8342/other a caboose] coming by .
+[/EN#8339/people Two men] are standing beside [/EN#8340/scene the train tracks] .
+[/EN#8341/people A railroad worker] is checking [/EN#8340/scene the tracks] .
+[/EN#8339/people Two men] in [/EN#8343/other orange work] on [/EN#8340/scene train tracks] .
+[/EN#8339/people Two men] are working on [/EN#8340/scene train tracks] .

@@ -1,0 +1,5 @@
+[/EN#266329/people A woman] is walking along [/EN#266331/scene the beach] with [/EN#266330/people three children] following behind [/EN#0/notvisual her] .
+[/EN#266329/people A woman] walks along [/EN#266331/scene the beach] as [/EN#266330/people three children] follow [/EN#0/notvisual her] in [/EN#266332/other a line] .
+[/EN#266329/people A woman] and [/EN#266330/people three children] walk on [/EN#266331/scene the beach] in [/EN#266332/other a line] .
+[/EN#266329/people An adult] and [/EN#266330/people three children] walk along [/EN#266331/scene the beach] .
+[/EN#266330/people The boys] follow [/EN#266329/people their mother] on [/EN#266331/scene the beach] .

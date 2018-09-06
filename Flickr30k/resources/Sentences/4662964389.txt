@@ -1,0 +1,5 @@
+[/EN#188078/people A man] in [/EN#188083/clothing the suit] plays [/EN#188079/instruments a guitar] while sitting on [/EN#188082/other a metal chair] .
+[/EN#188078/people A man] in [/EN#188081/clothing a jacket] sitting at [/EN#188080/other a table] playing [/EN#188079/instruments a guitar] .
+[/EN#188078/people A man] sits alone at [/EN#188080/other a table] , playing [/EN#188079/instruments guitar] .
+[/EN#188078/people An old man] is playing [/EN#188079/instruments his guitar] .
+[/EN#188078/people A man] playing [/EN#188079/instruments acoustic guitar] .

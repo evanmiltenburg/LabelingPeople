@@ -1,0 +1,5 @@
+[/EN#222077/people A man] wearing [/EN#222081/clothing a dark shirt] and [/EN#222087/clothing dark pants] is holding [/EN#222080/other a piece of paper] and singing into [/EN#222082/other a microphone] with [/EN#222090/people two musicians] behind [/EN#0/notvisual him] .
+[/EN#222077/people Lead singer of a band] holds [/EN#222080/other a paper] and [/EN#222083/scene a microphone stand] with [/EN#222076/people this band] playing behind .
+[/EN#222077/people A man] singing while [/EN#222084/people another man] plays [/EN#222091/instruments the guitar] and [/EN#222085/people another man] plays [/EN#222092/instruments the drums] .
+[/EN#222077/people A man] in [/EN#222086/clothing black] sings with [/EN#222077/people a band] in [/EN#222089/other the back] .
+[/EN#222076/people A band] is performing on [/EN#222088/scene stage] .

@@ -1,0 +1,5 @@
+[/EN#14624/people Two workers] at [/EN#14629/scene a train station] are cleaning [/EN#14625/scene an elevator] .
+[/EN#14626/people A custodian] is talking to [/EN#14627/people another man] by [/EN#14625/scene an elevator] .
+[/EN#14624/people Two men] are in [/EN#14629/scene a subway station] getting ready to mop .
+[/EN#14626/people A janitor] about to mop in [/EN#14629/scene a train station] .
+[/EN#14624/people Janitorial crew] at [/EN#14628/other a metro station]

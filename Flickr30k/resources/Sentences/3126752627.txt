@@ -1,0 +1,5 @@
+[/EN#95328/people A basketball player] shooting while [/EN#95325/people another player] is trying to block [/EN#95330/other his shot] .
+[/EN#95325/people A basketball player] tries to block [/EN#0/notvisual another] .
+[/EN#95327/people Two basketball players] reaching for [/EN#95326/other a ball] .
+[/EN#95325/people two men] jump for [/EN#95326/other the basketball] .
+[/EN#95327/people Two men] are playing [/EN#95326/other Basketball]

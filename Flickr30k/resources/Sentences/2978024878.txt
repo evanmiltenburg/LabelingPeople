@@ -1,0 +1,5 @@
+[/EN#85188/animals Two white dogs] with [/EN#85189/clothing muzzles] are jumping over [/EN#85190/other a small barrier] in [/EN#85193/other a race]
+[/EN#85188/animals Two small white dogs] wearing [/EN#85189/clothing muzzles] jumping over [/EN#85190/other a small item] .
+[/EN#85188/animals Two white dogs] wearing [/EN#0/notvisual muzzles jump] over [/EN#85191/other a whiteboard] .
+[/EN#85188/animals Two white dogs] wearing [/EN#85189/clothing muzzles] play in [/EN#85192/scene the grass] .
+[/EN#85188/animals Muzzled white dogs] running .

@@ -1,0 +1,5 @@
+[/EN#77211/people One person] wearing [/EN#77216/clothing a black hooded sweatshirt] is running away from [/EN#77208/other a fire] while [/EN#77213/people someone] else is [/EN#77213/other close] by behind [/EN#0/notvisual him] .
+[/EN#77207/people Two men] with [/EN#77214/other rags] over [/EN#77217/bodyparts their face] are running down [/EN#77210/scene a street] with [/EN#77209/other something] on [/EN#77208/other fire] .
+[/EN#77207/people Two people] running away from [/EN#77209/other an unknown object] on [/EN#77208/other fire] and [/EN#77212/other a water sprayer] .
+[/EN#77207/people Two men] running down [/EN#77210/scene the road] while [/EN#77208/other a fire] burns .
+[/EN#77207/people People] are running from [/EN#77208/other a fire] .

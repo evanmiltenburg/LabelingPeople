@@ -1,0 +1,5 @@
+[/EN#208208/other Two men one] in [/EN#208206/clothing a red shirt] and [/EN#208209/other the other] wearing [/EN#208207/clothing a yellow shirt] are in [/EN#208205/animals/scene a lab] .
+[/EN#208204/people Two men] , [/EN#208208/other one] in [/EN#208206/clothing a red shirt] and [/EN#208209/other the other] in [/EN#208207/other yellow , clean] [/EN#208205/scene a laboratory] .
+[/EN#208204/people 2 males] , [/EN#208208/other one] in [/EN#208206/clothing a red shirt] and [/EN#208209/other one] in [/EN#208207/clothing a yellow shirt] , cleaning [/EN#208205/scene a room] .
+[/EN#208204/people Two male students] clean in [/EN#208205/animals/scene a lab] with [/EN#208211/other the chairs] upturned on [/EN#208213/other the tables] .
+[/EN#208204/people Two men] cleaning [/EN#208205/scene a science laboratory] .

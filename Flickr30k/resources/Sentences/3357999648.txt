@@ -1,0 +1,5 @@
+[/EN#112442/people A woman] in [/EN#112450/clothing a jacket] is swinging on [/EN#112444/other a swing] , facing away , while [/EN#112443/other her coffee mug] sits on [/EN#112444/other the other unoccupied swing] .
+[/EN#112442/people A woman] is on [/EN#112444/other a swing] in [/EN#112445/other the woods] with [/EN#112443/other a coffee cup] resting on [/EN#112444/other the other swing] .
+[/EN#112442/people A young lady] is swinging facing [/EN#112445/other the woods] overlooking [/EN#112448/scene a valley] .
+[/EN#112442/people A woman] is gazing up at [/EN#112449/scene the sky] while swinging on [/EN#112444/other a swing] .
+[/EN#112442/people A young person] is swinging over [/EN#112447/scene a bar] in [/EN#112446/scene a backyard] .

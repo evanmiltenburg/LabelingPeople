@@ -1,0 +1,5 @@
+[/EN#247548/people A woman] in [/EN#247555/clothing black clothing] runs down [/EN#247545/scene the street] barefoot next to [/EN#247546/people two people] on [/EN#247551/vehicles bicycles] and [/EN#247550/people a female runner] .
+[/EN#247547/people A group of three woman] and [/EN#247544/people a man] are walking , jogging , and bicycling across [/EN#247545/scene a pavement] near [/EN#247554/other trees] .
+[/EN#247543/people Two women] are jogging outside while [/EN#247544/people a man] and women [/EN#247552/vehicles ride bikes] behind [/EN#0/notvisual them] .
+[/EN#247543/people Two joggers] and [/EN#247546/people two bicyclists] vie for [/EN#247553/scene room] on [/EN#247545/scene this city street] .
+[/EN#247543/people Two women] jogging along side [/EN#247546/people two bicyclists] on [/EN#247545/other a bike bath] .

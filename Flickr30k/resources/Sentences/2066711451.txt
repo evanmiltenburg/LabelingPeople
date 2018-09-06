@@ -1,0 +1,5 @@
+[/EN#26708/people A boy] wearing [/EN#26712/clothing heavy-duty boots] and [/EN#26711/clothing a sweater] , steers [/EN#26710/vehicles his wagon] as [/EN#0/notvisual he] walks to [/EN#26709/scene the park] .
+[/EN#26708/people A little boy] in [/EN#26711/clothing a sweatshirt] and [/EN#26712/clothing boots] is pulling [/EN#26710/vehicles a wagon] through [/EN#26709/scene a grassy area] .
+[/EN#26708/people A little boy] is pulling [/EN#26710/vehicles a wagon] through [/EN#26709/scene an empty , grassy field] .
+[/EN#26708/people Little boy] pulling [/EN#26710/vehicles a green wagon] wearing [/EN#26711/clothing a sweatshirt] and [/EN#26712/clothing boots] .
+[/EN#26708/people A small boy] is pulling [/EN#26710/vehicles a small utility trailer] .

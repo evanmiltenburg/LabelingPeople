@@ -1,0 +1,5 @@
+[/EN#37282/people A young boy] in [/EN#37283/clothing a blue uniform] running with [/EN#37284/other a football] while playing [/EN#37288/other a game of flag football] .
+[/EN#37282/people A young boy] weating [/EN#37283/clothing blue shorts] and [/EN#37285/other cleats] holding [/EN#37284/other a football] running from [/EN#37286/people other boys] .
+[/EN#37282/people A young male] carrying [/EN#37284/other a football] and running while [/EN#37286/people two other boys] run behind [/EN#0/notvisual him] .
+[/EN#37282/people The boy] in [/EN#37283/clothing blue] runs with [/EN#37284/other the ball] whilst being chased by [/EN#37286/people two boys] in [/EN#37287/clothing red] .
+[/EN#37282/people A child] holds [/EN#37284/other a football] and runs from [/EN#37286/people other children] .

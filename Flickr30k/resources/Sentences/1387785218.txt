@@ -1,0 +1,5 @@
+[/EN#10815/people A little kid] in [/EN#10819/clothing blue shoes] is pushing [/EN#10818/people a toy baby] in [/EN#10816/other a stroller] .
+[/EN#10815/people A small child] pushes [/EN#10816/other a stroller] down [/EN#10820/scene the street] .
+[/EN#10815/people a young child] carrying [/EN#10817/other a doll] in [/EN#10816/other a stroller]
+[/EN#10815/people A child] pushes [/EN#10817/other a doll] in [/EN#10816/vehicles a baby carriage] .
+[/EN#10815/people A little girl] pushing [/EN#10816/other a baby doll stroller]

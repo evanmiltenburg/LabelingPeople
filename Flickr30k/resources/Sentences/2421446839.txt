@@ -1,0 +1,5 @@
+[/EN#48130/animals A small black and white dog] jumps at [/EN#48135/people a woman] in [/EN#48132/vehicles a white jeep] while [/EN#48131/animals a golden dog] follows beside [/EN#0/notvisual them] .
+[/EN#48130/animals A dog] jumps up towards [/EN#48135/people a woman] in [/EN#48132/vehicles a car] , while [/EN#48131/animals another dog] is outside [/EN#48132/vehicles the car] .
+[/EN#48131/animals An orange dog] and [/EN#48130/animals a little white dog] with [/EN#48137/scene black spots] are next to [/EN#48132/vehicles a white car] .
+[/EN#48130/animals A small dog] jumps by [/EN#48132/vehicles a car] to reach [/EN#48134/bodyparts a lady 's face] while [/EN#48131/animals another dog] watches .
+[/EN#48138/clothing White] and [/EN#48130/animals black dog] jumps at [/EN#48135/people someone] through [/EN#48139/other car window] .

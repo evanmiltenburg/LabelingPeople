@@ -1,0 +1,5 @@
+[/EN#172473/people A man] in [/EN#172474/clothing a blue suit] walks by [/EN#172476/scene a red brick building] with [/EN#172475/other a drink] in [/EN#172478/bodyparts his hand] .
+[/EN#172473/people A man] with [/EN#172475/other a soda] walking by [/EN#172476/scene a red and green brick building] .
+[/EN#172473/people A man] is walking in [/EN#172474/clothing a dark suit] holding [/EN#172475/other a green bottle] .
+[/EN#172473/people A man] in [/EN#172474/clothing a blue suit] is walking down [/EN#172477/scene the street] .
+[/EN#172473/people A man] in [/EN#172474/clothing a blue suit] holding [/EN#172475/other a bottle] .

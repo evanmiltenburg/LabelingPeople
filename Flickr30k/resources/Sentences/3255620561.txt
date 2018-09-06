@@ -1,0 +1,5 @@
+[/EN#104742/scene Snow] covered [/EN#104745/scene wooded area] with [/EN#104743/other a structure] and [/EN#104741/people a person] in [/EN#104750/clothing white top] and [/EN#104746/clothing orange pants] in [/EN#104748/scene midair] .
+[/EN#104741/people A snowboarder] jumps over [/EN#104743/scene a shed] [/EN#0/notvisual which] is almost covered with [/EN#104742/scene snow]
+[/EN#104741/people The skier] wearing [/EN#104746/clothing orange pants] is jumping over [/EN#104743/scene the wooden roof] .
+[/EN#104741/people The skier] jumps over [/EN#104743/scene a hut] in [/EN#104742/scene the snow] covered [/EN#104745/scene forest] .
+[/EN#104741/people A person] ski [/EN#0/notvisual jumps] off [/EN#104743/other an A frame shack] .

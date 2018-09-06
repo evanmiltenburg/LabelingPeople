@@ -1,0 +1,5 @@
+[/EN#13474/people Two baseball players] in [/EN#13479/clothing blue jerseys] and [/EN#13480/clothing white pants] stand on [/EN#13475/other a pitcher 's mound] .
+[/EN#13474/people Two baseball players] standing at [/EN#13475/scene the pitchers mound] whispering to [/EN#0/notvisual one another] .
+[/EN#13472/people A catcher] and [/EN#13472/people a pitcher of the same team] talk on [/EN#13475/other the pitcher 's mound] .
+[/EN#13472/people A pitcher] and [/EN#13472/people a catcher] talking on [/EN#13475/other the mound] at [/EN#13476/scene a baseball field] .
+[/EN#13472/people Baseball pitcher] and [/EN#13472/people catcher] discussing

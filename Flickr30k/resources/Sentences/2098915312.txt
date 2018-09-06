@@ -1,0 +1,5 @@
+[/EN#28628/people A middle-aged man] wearing [/EN#28629/clothing a black and white soccer coach 's uniform] is kneeling on [/EN#28630/scene a field] talking to [/EN#28631/people a group of young boys] [/EN#0/notvisual who] have on [/EN#28632/clothing green soccer shirts] and [/EN#28633/clothing black soccer shorts] .
+[/EN#28628/people An older man] is kneeling and talking to [/EN#28631/people a group of younger children] , [/EN#28631/people all] in [/EN#28632/clothing soccer uniforms] .
+[/EN#28627/people A coach] is talking with [/EN#28631/people his team of young players] dressed in [/EN#28632/clothing green jerseys] .
+[/EN#28627/people A boys soccer team coach] talking to [/EN#28631/people his team] on [/EN#28630/scene a soccer field] .
+[/EN#28627/people A coach] talking to [/EN#28631/people the young members of his team] .

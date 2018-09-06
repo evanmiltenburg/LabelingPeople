@@ -1,0 +1,5 @@
+[/EN#245422/people A man] in [/EN#245429/clothing black] is playing [/EN#245423/instruments a flute] in [/EN#245427/other a subway hall] [/EN#0/notvisual that] has graffiti on [/EN#245432/other the walls] .
+[/EN#245422/people A mysterious man] is leaning against [/EN#245431/scene the white wall of a dimly lit tunnel] .
+[/EN#245422/people An older man] wearing [/EN#245428/clothing a suit] is playing [/EN#245423/instruments the flute] inside [/EN#245424/scene a tunnel] .
+[/EN#245422/people Flute player] performs for [/EN#245430/people commuters] in [/EN#245424/scene an underground walkway] .
+[/EN#245422/people A man] wearing [/EN#245426/clothing all black] plays [/EN#245425/other the flue] in [/EN#245424/scene a white hallway] .

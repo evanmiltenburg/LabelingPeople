@@ -1,0 +1,5 @@
+[/EN#201237/people A man] and [/EN#201240/people woman] in [/EN#201236/clothing robes] walking down [/EN#201235/scene the street] as [/EN#201237/people the man] holds [/EN#201234/clothing an umbrella] over [/EN#0/notvisual them] .
+[/EN#201233/people A young japanese couple] holding [/EN#201234/clothing an umbrella] walking down [/EN#201235/scene a street] .
+[/EN#201233/people A Japanese couple] in [/EN#201236/clothing kimonos] walk down [/EN#201235/scene the street] on [/EN#201239/scene a rainy day] .
+[/EN#201233/people An Asian couple] walking down [/EN#201235/scene the street] under [/EN#201234/clothing an umbrella] .
+[/EN#201233/people Traditional Japanese couple] walking down [/EN#201235/scene the street] .

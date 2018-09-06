@@ -1,0 +1,5 @@
+[/EN#125105/people a boy] wearing [/EN#125109/clothing a red shirt] rides [/EN#125107/other a skateboard] up [/EN#125106/scene a ramp]
+[/EN#125105/people A boy] on [/EN#125107/other a skateboard] is riding on [/EN#125106/other a slope] .
+[/EN#125105/people A boy] skateboards on [/EN#125106/scene a ramp] .
+[/EN#125105/people A boy] on [/EN#125106/scene a skateboard ramp] .
+[/EN#125105/people A young boy] skateboarding

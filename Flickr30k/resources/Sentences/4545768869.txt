@@ -1,0 +1,5 @@
+[/EN#176948/people An adolescent boy] sitting on [/EN#176949/scene the water 's edge] is feeding [/EN#176950/animals a goose] in [/EN#176953/scene the water] , [/EN#176951/other a loaf of bread] .
+[/EN#176948/people A kid] wearing [/EN#176952/clothing glasses] and [/EN#176954/clothing a brown shirt] is feeding [/EN#176950/animals a swan] [/EN#176951/other a large loaf of bread]
+[/EN#176948/people A boy] is sitting on [/EN#176949/scene a bank] trying to feed [/EN#176950/animals a beautiful goose] .
+[/EN#176948/people A boy] is sitting by [/EN#176953/scene the water] trying to feed [/EN#176950/animals a swan] .
+[/EN#176948/people A young boy] with [/EN#176952/clothing glasses] feeds [/EN#176950/animals a geese] [/EN#176951/other some bread] .

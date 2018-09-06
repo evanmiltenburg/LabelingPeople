@@ -1,0 +1,5 @@
+[/EN#228855/people People] are coming down [/EN#228856/scene a movable staircase] built through [/EN#228857/scene a tunnel] , [/EN#0/notvisual which] has [/EN#228859/scene three of those staircases] .
+[/EN#228855/people People] are using [/EN#228858/scene the far left of three escalators] , [/EN#0/notvisual which] are enclosed inside [/EN#228857/scene an elongated tunnel] .
+[/EN#228855/people A group of people] are coming through [/EN#228857/scene long tunnel] with [/EN#228858/scene three escalators] in [/EN#0/notvisual it] .
+In [/EN#228860/other this picture] [/EN#0/notvisual there] are [/EN#228855/people several people] on [/EN#228856/scene a series of escalators] .
+[/EN#228855/people Several people] ride down [/EN#228856/scene an escalator] .

@@ -1,0 +1,5 @@
+[/EN#60713/animals A brown dog] steadies [/EN#0/notvisual himself] on [/EN#60714/scene the rocky shore of the ocean] , with [/EN#60716/scene several waves] coming in .
+[/EN#60713/animals A brown dog] is standing in [/EN#60716/scene the water] watching [/EN#60716/scene the waves of the ocean] on [/EN#60719/scene a sunny day] .
+[/EN#60713/animals The brown dog] is standing on [/EN#60714/scene the beach] as [/EN#60716/scene the waves] lap up around [/EN#60715/bodyparts its feet] .
+[/EN#60713/animals A red dog] stands in [/EN#60718/scene a rocky shore] , [/EN#60715/bodyparts its feet] in [/EN#60720/scene the sea] .
+[/EN#60713/animals The brown dog] is in [/EN#60716/scene the waving water] .

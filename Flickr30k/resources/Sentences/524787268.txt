@@ -1,0 +1,5 @@
+[/EN#232112/people Two men] sit on [/EN#232113/other a park bench] , watching [/EN#232116/other the river roll] by , as [/EN#232115/animals a dog] stands off to [/EN#0/notvisual the side] .
+[/EN#232112/people Two people] sitting on [/EN#232113/other a bench] with [/EN#232115/animals their dog] next to [/EN#232114/scene a body of water] .
+[/EN#232112/people Two people] sitting on [/EN#232113/other a bench] by [/EN#232114/scene the water] with [/EN#232115/animals a dog] .
+[/EN#232112/people two people] with [/EN#232115/animals a dog] sitting in front of [/EN#232114/scene the ocean]
+[/EN#232112/people Two people] and [/EN#232115/animals a dog] next to [/EN#232114/scene the water] .

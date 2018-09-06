@@ -1,0 +1,5 @@
+[/EN#19680/people An old man] wearing [/EN#19688/clothing a tan jacket] and [/EN#19689/clothing blue pants] standing on [/EN#19683/scene a sidewalk] with [/EN#19687/other a small suitcase] .
+[/EN#19680/people A man] wearing [/EN#19684/clothing baggy clothes] standing on [/EN#19683/scene a sidewalk] at [/EN#19681/scene the beach] .
+[/EN#19680/people A man] holding up [/EN#19682/other a radio] while walking along [/EN#19683/scene the sidewalk] .
+[/EN#19680/people Bum] listening to [/EN#19682/other the radio] by [/EN#19686/scene a light post] near [/EN#19681/scene the beach] .
+[/EN#19680/people Man] in [/EN#19685/clothing coat] near [/EN#19681/scene beach] trying to get [/EN#19690/other radio signal] .

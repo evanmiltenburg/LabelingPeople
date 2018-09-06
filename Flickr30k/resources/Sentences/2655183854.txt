@@ -1,0 +1,5 @@
+[/EN#64234/people The woman] in [/EN#64235/clothing the black shirt] is pointing in front of [/EN#0/notvisual her] with [/EN#64236/other a cement wall] in front of [/EN#0/notvisual her] .
+[/EN#64234/people A woman] points to [/EN#64241/scene the left] as [/EN#0/notvisual she] and [/EN#64237/other others] look [/EN#64242/scene that way] .
+[/EN#64234/people A woman] is pointing while [/EN#64237/other others] are taking [/EN#64238/other pictures] .
+[/EN#64234/people Woman] pointing while [/EN#64237/other others] take [/EN#64238/other pictures of something]
+[/EN#0/notvisual They] are sitting on [/EN#64239/scene the edge of a fountain]

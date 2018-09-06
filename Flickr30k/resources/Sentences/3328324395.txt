@@ -1,0 +1,5 @@
+[/EN#109722/people Happy man] wearing [/EN#109729/scene a white tee] and [/EN#109730/clothing jeans] , holding [/EN#109726/other a hammer] while standing in front of [/EN#109725/scene a house] [/EN#0/notvisual that] is being rebuilt .
+[/EN#109723/people A group of people] holding [/EN#109726/other tools] stand in front of [/EN#109725/scene an uncompleted house] .
+[/EN#109722/people A carpenter] standing in front of [/EN#109725/other a building project] with [/EN#109726/other a hammer] .
+[/EN#109721/people A worker] stands by [/EN#109725/other a partially completed structure] .
+[/EN#109722/people A young man] looks happy while holding [/EN#109726/other a hammer] .

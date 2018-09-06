@@ -1,0 +1,5 @@
+[/EN#8460/vehicles An ice cream truck] with [/EN#8463/other an open door] is driving through [/EN#8461/scene a residential neighborhood] .
+[/EN#8460/vehicles An ice cream truck] is stopped in front of [/EN#8461/scene two small apartment buildings] .
+[/EN#8464/people A man] driving [/EN#8460/vehicles an ice cream truck] past [/EN#8461/scene apartment buildings] .
+[/EN#8460/vehicles An ice cream truck] outside [/EN#8461/scene apartment buildings] .
+[/EN#8460/vehicles An ice cream truck] is driving down [/EN#8462/scene the street] .

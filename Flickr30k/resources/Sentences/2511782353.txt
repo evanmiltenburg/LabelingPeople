@@ -1,0 +1,5 @@
+[/EN#54324/people A woman] holding [/EN#54325/people a baby] is signing [/EN#54326/other a banner] with [/EN#54327/other a green marker] .
+[/EN#54324/people A woman] is holding [/EN#54325/people a baby] as [/EN#0/notvisual she] writes with [/EN#54327/other a green marker] .
+[/EN#54324/people Mom] is teaching [/EN#54325/people her baby] how to write as [/EN#0/notvisual she] signs [/EN#54326/other a poster] .
+[/EN#54324/people A woman] holds [/EN#54325/people a baby] as [/EN#0/notvisual she] writes on [/EN#54326/other a banner] .
+[/EN#54324/people A woman] holding [/EN#54325/people an infant] is writing on [/EN#54326/other a wall] .

@@ -1,0 +1,5 @@
+[/EN#148917/people two men] are sitting at [/EN#148919/scene a bar] speaking to [/EN#0/notvisual each other] while enjoying [/EN#148921/other drinks] .
+[/EN#148917/people Two people] sitting at [/EN#148919/scene a bar] having [/EN#148920/other a conversation] .
+[/EN#148916/people A man] is socializing with [/EN#148916/people another man] in [/EN#148919/scene the bar] .
+[/EN#148917/people Two men] in [/EN#148920/other conversation] while sitting at [/EN#148919/scene a bar] .
+[/EN#148917/people Two men] having [/EN#148921/other drinks] at [/EN#148919/scene a bar] .

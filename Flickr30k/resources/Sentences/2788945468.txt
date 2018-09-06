@@ -1,0 +1,5 @@
+[/EN#73044/people a middle-aged man] is standing next to [/EN#73045/other a white wall] underneath [/EN#73046/other some catholic theme pictures] .
+[/EN#73044/people A man] is standing in front of [/EN#73045/other an interior brick wall] with [/EN#73046/other pictures] along [/EN#73048/clothing the top] .
+[/EN#73046/other Pictures] on [/EN#73045/other a white brick wall] with [/EN#73044/people a smiling man] standing in front of [/EN#73045/other the wall] .
+[/EN#73044/people A man] is posing in front of [/EN#73045/other a brick wall] [/EN#0/notvisual that] has framed [/EN#73046/other pictures] on [/EN#0/notvisual it] .
+[/EN#73044/people A smiling man] in [/EN#73047/clothing a check shirt] stands below [/EN#73046/other a row of religious pictures] .

@@ -1,0 +1,5 @@
+[/EN#155602/people A very young boy] is wearing [/EN#155604/clothing green shorts] and [/EN#155607/clothing socks] , is preparing to kick [/EN#155603/other a ball] , [/EN#0/notvisual he] is in [/EN#155608/scene a field] .
+[/EN#155602/people A little boy] in [/EN#155605/clothing a green and white uniform] is running towards [/EN#155603/other a red , black , and gold soccer ball] .
+[/EN#155602/people A little boy] wearing [/EN#155604/clothing green shorts] kicking [/EN#155603/other a soccer ball] .
+[/EN#155602/people A little boy] running after [/EN#155603/other a ball] .
+[/EN#155602/people A young boy] playing [/EN#155606/other soccer] .

@@ -1,0 +1,5 @@
+[/EN#203165/people People] are walking down [/EN#203166/scene the street] with [/EN#203174/people vendors] on [/EN#0/notvisual the side] on [/EN#203171/scene a beautiful , sunny day] .
+[/EN#203165/people people] are gathered at [/EN#203169/scene some kind of shop] on [/EN#203166/scene the side of the street] .
+[/EN#203170/people A boy] with [/EN#203175/clothing a yellow shirt] and [/EN#203176/clothing yellow] do-rag walking through [/EN#203172/scene a town] .
+[/EN#203165/people Multiple people] are walking down [/EN#203166/scene a street] at [/EN#203168/scene a street fair]
+[/EN#203165/people People] walk down [/EN#203167/scene a street] with [/EN#203169/scene shops] along [/EN#203173/scene the way] .

@@ -1,0 +1,5 @@
+[/EN#181650/clothing a gray] in [/EN#181651/clothing a gray sweashirt] running along side of [/EN#181646/animals a small dog]
+[/EN#181647/people A woman] flies [/EN#181652/other a kite] in [/EN#181648/scene a field] while [/EN#181646/animals her dog] watches .
+[/EN#181647/people A person] playing with [/EN#181646/animals their black dog] in [/EN#181648/scene the grass] .
+[/EN#181646/animals A black dog] is in [/EN#181648/scene the grass] with [/EN#181647/people a woman] in [/EN#181653/clothing jeans] .
+[/EN#181647/people A woman] and [/EN#181646/animals a dog] are running in [/EN#181648/scene a field] .

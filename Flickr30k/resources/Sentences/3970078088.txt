@@ -1,0 +1,5 @@
+[/EN#150130/people Man] in [/EN#150133/clothing striped pants] and [/EN#150132/clothing mustard yellow shirt] sits at [/EN#150135/other a outside table] at [/EN#150136/scene a restaurant] .
+[/EN#150130/people A man] in [/EN#150132/clothing a yellow shirt] and [/EN#150133/clothing striped pants] is sitting at [/EN#150135/scene a small table outside] .
+[/EN#150130/people A man] in [/EN#150132/clothing a yellow shirt] having [/EN#150134/other a drink] outside of [/EN#150131/other a cafe] .
+[/EN#150130/people A sidewalk cafe patron] relaxes and drinks [/EN#150138/scene bottled water] .
+[/EN#150130/people An older man] is sitting at [/EN#150131/other a cafe] relaxing .

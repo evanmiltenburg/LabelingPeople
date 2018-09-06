@@ -1,0 +1,5 @@
+[/EN#75958/animals A brown a dog] and [/EN#75959/animals a black dog] in [/EN#75966/scene the edge of the ocean] with [/EN#75960/scene a wave] under [/EN#0/notvisual them] [/EN#75968/vehicles/scene boats] are on [/EN#75960/scene the water] in [/EN#0/notvisual the background] .
+[/EN#75961/animals Two dogs] , [/EN#75962/clothing one brown] and [/EN#75963/clothing the other black] , play in [/EN#75960/other the surf] in [/EN#75965/scene the shallow ocean water] .
+[/EN#75961/animals Two dogs] stand [/EN#75969/other back to back] in [/EN#75960/scene the ocean] .
+[/EN#75961/animals Two dogs] playing in [/EN#75960/scene the waves] .
+[/EN#75961/animals two dogs] play in [/EN#75965/scene the water] .

@@ -1,0 +1,5 @@
+[/EN#33146/people Little boy] in [/EN#33151/clothing blue shirt] and [/EN#33152/clothing gray shorts] running at [/EN#33148/scene a park] .
+[/EN#33146/people A little boy] in [/EN#33152/clothing shorts] and [/EN#33151/clothing blue t-shirt] runs on [/EN#33147/scene the grass] .
+[/EN#33146/people A boy] running through [/EN#33149/scene a grassy area] in [/EN#33148/scene a park] .
+[/EN#33146/people A boy] with [/EN#33153/clothing red shoes] runs across [/EN#33150/scene a field] .
+[/EN#33146/people A young boy] running on [/EN#33150/scene a field]

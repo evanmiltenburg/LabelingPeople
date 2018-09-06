@@ -1,0 +1,5 @@
+[/EN#1976/people A woman] wearing [/EN#1977/clothing a pink shirt] and [/EN#1978/clothing red apron] stands in [/EN#1985/scene her restaurant] holding [/EN#1979/other food] and surrounded by [/EN#1980/other bagged breads] , [/EN#1981/other a microwave] and [/EN#1982/other the chalkboard menu] up on [/EN#1983/other the wall] .
+[/EN#1976/people Woman] wearing [/EN#1984/clothing a yellow hat] , [/EN#1977/clothing pink shirt] , and [/EN#1978/clothing red apron] is holding [/EN#1979/other food] in [/EN#1985/scene a kitchen] .
+[/EN#1976/people Employee] in [/EN#1977/clothing pink shirt] smiles for [/EN#1986/other camera] inside [/EN#1985/scene a restaurant kitchen] .
+[/EN#1976/people A woman] holding [/EN#1979/other a bowl of food] in [/EN#1985/scene a kitchen] .
+[/EN#1976/people Women] in [/EN#1985/scene store] happily holding [/EN#1979/other some food] .

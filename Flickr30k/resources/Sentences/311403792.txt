@@ -1,0 +1,5 @@
+[/EN#94600/people A man] wearing [/EN#94602/clothing glasses] holds [/EN#94603/other something] up to [/EN#94601/other a spinning piece of circular machinery] , and [/EN#94606/other sparks] fly off of [/EN#0/notvisual it] .
+[/EN#94600/people A brown-haired man] with [/EN#94602/clothing safety glasses] and [/EN#94604/clothing a green shirt] grinding [/EN#94603/other something] with [/EN#94601/other a machine]
+[/EN#94600/people A blue collar worker] wearing [/EN#94602/clothing safety glasses] is operating [/EN#94601/other an industrial machine] .
+[/EN#94600/people A man] is standing at [/EN#94601/other a machine] .
+[/EN#94600/people Man] welding [/EN#94601/other something metal] .

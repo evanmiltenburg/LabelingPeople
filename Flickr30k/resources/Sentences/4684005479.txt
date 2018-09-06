@@ -1,0 +1,5 @@
+[/EN#190164/people Man] in [/EN#190165/other a blue number] [/EN#190163/clothing 78 sports jersey] walking down [/EN#190167/scene city street] past [/EN#190169/vehicles a white SUV]
+[/EN#190164/people Man] in [/EN#190163/clothing blue shirt] with [/EN#190165/other the number 78] on [/EN#190168/other the back] walking down [/EN#190166/scene that street] .
+[/EN#190164/people A man] wearing [/EN#190163/clothing a jersey] is walking down [/EN#190167/scene a street] .
+[/EN#190164/people Man] in [/EN#190163/clothing a blue shirt] walks down [/EN#190166/scene a sidewalk] .
+[/EN#190164/people A guy] walking down [/EN#190167/scene the sidewalk] .

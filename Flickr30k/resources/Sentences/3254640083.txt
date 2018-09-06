@@ -1,0 +1,5 @@
+[/EN#104640/people A climber] is climbing on [/EN#104641/other an artificial climbing wall]
+[/EN#104640/people A man] climbs up [/EN#104641/other an artificial climbing wall] .
+[/EN#104640/people A man] attemping to climb [/EN#104641/other a fake rock wall] .
+[/EN#104640/people a rock climber] climbs [/EN#104641/other a rock wall] .
+[/EN#104640/people A man] climbs [/EN#104641/other a rock wall] .

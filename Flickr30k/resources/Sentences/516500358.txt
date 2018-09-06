@@ -1,0 +1,5 @@
+[/EN#230183/vehicles A white ice cream truck] stopped on [/EN#230187/scene the side of the road] and [/EN#230182/people a man] stopped to buy [/EN#230184/other some] .
+[/EN#230182/people A man] walking toward [/EN#230183/vehicles a white ice cream truck] parked on [/EN#230186/scene the street] at [/EN#230185/scene night] .
+[/EN#230182/people A man] looking to purchase [/EN#230184/other ice cream] from and [/EN#230183/vehicles ice cream truck] at [/EN#230185/scene night] .
+[/EN#230182/people A man] wearing [/EN#230188/clothing a dark coat] is standing outside [/EN#230183/vehicles an ice cream truck] .
+[/EN#230182/people A man] standing outside [/EN#230183/vehicles an ice cream truck] at [/EN#230185/scene night] .

@@ -1,0 +1,5 @@
+[/EN#250547/people A cyclist] on [/EN#250552/vehicles his bike] jumps over [/EN#250550/other a board] in [/EN#250553/scene a large open grass field] , during [/EN#0/notvisual what] appears to be [/EN#250548/other a race] .
+[/EN#250547/people A male biker] jumping [/EN#250550/scene a ramp] in [/EN#250548/other a contest] or crossing [/EN#250550/other the finish line] .
+[/EN#250547/people A man] in [/EN#250556/other spandex maneuvers] [/EN#250552/vehicles his bike] over [/EN#250549/other an obstacle] .
+[/EN#250547/people A man] in [/EN#250548/other a bike race] jumping over [/EN#250549/other a small obstacle] .
+[/EN#250547/people A cyclist] and [/EN#250552/other his bicycle hop] over [/EN#250549/other an obstacle] .

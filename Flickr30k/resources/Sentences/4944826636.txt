@@ -1,0 +1,5 @@
+[/EN#221673/people A nicely dressed man] reading [/EN#221677/other the newspaper] in front of [/EN#221674/scene an older building] .
+[/EN#221673/people A guy] leaning on [/EN#221678/other a structure] in front of [/EN#221674/scene a building] reading [/EN#221677/other something] .
+[/EN#221673/people A man] in [/EN#221675/clothing a dark jacket] and [/EN#221676/clothing a hat] reading [/EN#221677/other a paper] while leaning .
+[/EN#221673/people A man] with [/EN#221676/clothing a hat] leaning against [/EN#221678/scene a post] reading [/EN#221677/other a newspaper] .
+[/EN#221673/people A man] in [/EN#221676/clothing a hat] and [/EN#221675/clothing black jacket] reads [/EN#221677/other a newspaper]

@@ -1,0 +1,5 @@
+In [/EN#13865/scene the middle of a shopping center] , [/EN#0/notvisual there] is [/EN#13860/people a man] [/EN#0/notvisual who] is painted [/EN#13866/clothing gold] with [/EN#13861/vehicles a gold bicycle] .
+[/EN#13860/people A man] dressed in [/EN#13862/clothing gold] with [/EN#13861/vehicles his gold bike] stops to look at [/EN#13867/scene the city] .
+[/EN#13860/people A man] is wearing [/EN#13862/clothing a gold outfit] while standing with [/EN#13861/vehicles his gold bike] .
+[/EN#13860/people A man] painted in [/EN#13862/clothing gold] with [/EN#13861/other cycle] stands in [/EN#13864/scene the street] .
+[/EN#13860/people A man] in [/EN#13862/clothing a gold coat] has [/EN#13861/vehicles a gold bicycle] in [/EN#13867/scene the city] .

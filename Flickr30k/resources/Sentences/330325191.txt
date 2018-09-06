@@ -1,0 +1,5 @@
+[/EN#108067/people One person] stands and [/EN#0/notvisual another] sits on [/EN#108068/scene the summit of a mountain] .
+[/EN#108068/scene Mountain peaks] in [/EN#0/notvisual the foreground and distance] .
+[/EN#108069/people Two people] stand at [/EN#108068/scene the peak of a mountain] .
+[/EN#108069/people Two people] at [/EN#108068/scene the top of a mountain] .
+[/EN#108067/people A man] stands on [/EN#108068/other a mountaintop] .

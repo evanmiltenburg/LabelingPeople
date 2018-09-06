@@ -1,0 +1,5 @@
+[/EN#138297/people A person] in [/EN#138300/clothing a kilt] and [/EN#138301/clothing a sports jersey] and [/EN#138298/bodyparts a Mohawk] is in [/EN#138299/scene a store] .
+[/EN#138297/people The man] with [/EN#138304/clothing the eccentric clothing] and [/EN#138298/bodyparts hair] poses in [/EN#138299/scene a store] .
+[/EN#138297/people Punk rocker] buys [/EN#138305/other computer ink] in [/EN#138299/scene the big-box store] .
+[/EN#138297/people A man] with [/EN#138298/bodyparts multicolored hair] wearing [/EN#138300/clothing a weird outfit]
+[/EN#138297/people A man] with [/EN#138298/bodyparts a Mohawk] with [/EN#138302/bodyparts his arms] in [/EN#0/notvisual the air] .

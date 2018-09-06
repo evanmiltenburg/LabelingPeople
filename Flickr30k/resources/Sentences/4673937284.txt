@@ -1,0 +1,5 @@
+[/EN#189176/people Two people] scramble across [/EN#189178/scene the street] while [/EN#189179/other rain] falls from [/EN#189181/other above] .
+[/EN#189176/people Two women] are walking under [/EN#189177/clothing an umbrella] while [/EN#0/notvisual it] is raining .
+[/EN#189176/people Two women] huddling under [/EN#189177/clothing an black umbrella] while [/EN#0/notvisual it] rains .
+[/EN#189176/people Two women] are crossing [/EN#189178/scene a street] while sharing [/EN#189177/clothing an umbrella] .
+[/EN#189180/people Several people] are crossing [/EN#189178/scene a street] in [/EN#189179/other the rain] .

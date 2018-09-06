@@ -1,0 +1,5 @@
+[/EN#133547/people A bicyclist] flies through [/EN#0/notvisual the air] as [/EN#0/notvisual he] encounters [/EN#133549/other a tree] in [/EN#133552/scene his path] .
+[/EN#133547/people A man] wearing [/EN#133554/clothing a light brown shirt] is riding [/EN#133548/vehicles a dirt bike] in [/EN#133550/other the woods] .
+[/EN#133547/people A mountain biker] is jumping [/EN#133548/vehicles his bike] over [/EN#133549/other a tree stump] in [/EN#133550/other the woods] .
+[/EN#133547/people A man] on [/EN#133548/vehicles a bike] is jumping off [/EN#133549/scene a dirt ramp] .
+[/EN#133547/people A bicyclist] is jumping over [/EN#133549/other a large object] .

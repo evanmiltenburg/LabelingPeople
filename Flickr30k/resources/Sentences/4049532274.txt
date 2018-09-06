@@ -1,0 +1,5 @@
+[/EN#153336/people A man] with [/EN#153337/other a torch] is heating up [/EN#153341/scene a roof] and laying down [/EN#153340/other a layer of tar paper] .
+[/EN#153336/people A man] stands with on [/EN#153345/other foot] elevated onto [/EN#153343/other a step] in front of [/EN#153339/other a small fire] .
+[/EN#153336/people A man] is spraying [/EN#153346/scene water] into [/EN#153338/other a grate] [/EN#0/notvisual that] has [/EN#153344/other fire] coming out of [/EN#0/notvisual it] .
+[/EN#153336/people A balding man] is standing and working with [/EN#153337/other a blowtorch] .
+[/EN#153336/people A gentleman] using [/EN#153337/other a torch] to seal [/EN#153342/people a runner] to [/EN#153338/other a grate] .

@@ -1,0 +1,5 @@
+[/EN#140000/people A man] wearing [/EN#140004/clothing sandals] standing next to [/EN#140005/other a craft machine] .
+[/EN#140000/people Indian vendor] stops to rest with [/EN#140005/vehicles cart] in [/EN#140002/scene busy market] .
+[/EN#140000/people A man] is working in [/EN#140001/scene a street side jewelry shop] .
+[/EN#140000/people A man] is standing beside [/EN#0/notvisual his] stand waiting .
+[/EN#140000/people Indian shop vendor] working during [/EN#140003/scene the day] .

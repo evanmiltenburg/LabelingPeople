@@ -1,0 +1,5 @@
+[/EN#41344/people A person] with [/EN#41347/bodyparts white hair] wearing [/EN#41346/clothing a long red robe] standing in front of [/EN#41345/other a large brick wall] .
+[/EN#41344/people A woman] in [/EN#41346/clothing a red robe] bows [/EN#41347/bodyparts her head] before [/EN#41345/other a large stone brick wall] .
+[/EN#41344/people A woman] in [/EN#41346/clothing red] is slightly hunched over next to [/EN#41345/scene a brick building] .
+[/EN#41344/people A woman] in [/EN#41346/clothing a red dress] next to [/EN#41345/other a large wall of bricks] .
+[/EN#41344/people Woman] in [/EN#41346/clothing red] standing before [/EN#41345/other a massive sandstone wall] .

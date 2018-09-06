@@ -1,0 +1,5 @@
+[/EN#195031/animals Graffiti of a rodent] on [/EN#195031/scene side of brick building] with [/EN#195030/people guy] in [/EN#195034/clothing yellow] walking by .
+[/EN#195030/people Man] in [/EN#195033/clothing blue jeans] walks [/EN#195031/animals past street art of a ferret] .
+[/EN#195030/people A man] walks by [/EN#195031/animals a mural of a ferret] on [/EN#195032/other a brick wall] .
+[/EN#195030/people A man] walks by [/EN#195032/other a wall] covered in [/EN#195031/other graffiti] .
+[/EN#195031/people Graffiti of a weasel] on [/EN#195032/other a wall] .

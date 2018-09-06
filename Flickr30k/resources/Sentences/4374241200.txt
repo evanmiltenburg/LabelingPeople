@@ -1,0 +1,5 @@
+[/EN#165318/scene A sidewalk] with [/EN#165321/other a reduce speed sign] on [/EN#0/notvisual it] , [/EN#165317/people a tall darker skin man] in [/EN#165322/clothing a blue and yellow shirt] walking away from [/EN#0/notvisual it] .
+[/EN#165317/people A tall man] in [/EN#165324/clothing navy track pants] strolls down [/EN#165318/scene a sidewalk] past [/EN#165321/other a large , orange ' Reduce Speed] [/EN#165325/other ' sign] .
+[/EN#165317/people A man] walks close to [/EN#165319/scene a construction zone] [/EN#0/notvisual that] is clearly marked .
+[/EN#165317/people A man] is walking on [/EN#165318/scene a sidewalk] [/EN#0/notvisual that] is under [/EN#165323/other construction] .
+[/EN#165318/scene Sidewalk] with [/EN#165321/other reduce speed sign] on [/EN#165320/scene the left] .

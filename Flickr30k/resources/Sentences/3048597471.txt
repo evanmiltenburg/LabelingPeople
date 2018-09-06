@@ -1,0 +1,5 @@
+[/EN#90037/animals A wet , brownish-red dog] with [/EN#90038/other an orange ball] in [/EN#90039/bodyparts his mouth] is swimming in [/EN#90040/scene some water] .
+[/EN#90037/animals A dark brow dog] holds [/EN#90038/other an orange ball] in [/EN#90039/bodyparts his mouth] while walking through [/EN#90040/scene water] .
+[/EN#90037/animals A brown dog] is swimming through [/EN#90040/scene water] with [/EN#90038/other an orange ball] in [/EN#90039/bodyparts its mouth] .
+[/EN#90037/animals Brown dog] in [/EN#90040/scene water] , with [/EN#90038/clothing orange] and [/EN#90038/other blue ball] in [/EN#90039/bodyparts mouth] .
+[/EN#90037/animals A dog] wading in [/EN#90040/scene the water] with [/EN#90038/other a ball] in [/EN#90039/bodyparts his mouth]

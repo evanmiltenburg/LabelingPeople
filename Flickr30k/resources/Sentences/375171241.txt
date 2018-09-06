@@ -1,0 +1,5 @@
+[/EN#141248/people Many people] wearing [/EN#141251/clothing silver leotards] are riding [/EN#141250/vehicles bikes] on [/EN#141249/scene the street] .
+[/EN#141248/people Several men] in [/EN#141251/clothing silver suits] are riding [/EN#141250/vehicles bicycles] across [/EN#141249/scene a street] .
+[/EN#141248/people Three people] in [/EN#141251/clothing silver suits] are riding [/EN#141250/vehicles bikes] in [/EN#141252/scene the city] .
+[/EN#141248/people Three people] in [/EN#141251/clothing reflective clothing] riding [/EN#141250/vehicles bikes] .
+[/EN#141248/people Three people] in [/EN#141253/clothing reflective white] on [/EN#141250/vehicles bikes] .

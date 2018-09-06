@@ -1,0 +1,5 @@
+[/EN#176423/people A man] in [/EN#176432/clothing a white shirt] is taking [/EN#176429/other a jog] on [/EN#176427/scene a paved path] [/EN#0/notvisual which] runs through [/EN#176428/other trees] and [/EN#176426/scene grass] .
+[/EN#176423/people A man] jogging on [/EN#176427/scene a nice park jogging path] , surrounded by spring [/EN#176430/other foliage] and [/EN#176428/other trees] .
+[/EN#176423/people A jogger] is making [/EN#176431/scene his way] down [/EN#176427/scene a sidewalk] on [/EN#176425/scene a nature trail] .
+[/EN#176423/people A man] jogging in [/EN#176427/scene a trail] surrounded by [/EN#176428/other trees] and [/EN#176424/scene big bushes] .
+[/EN#176423/people Man] jogging on [/EN#176425/scene a trail] , through [/EN#176424/scene a large forest] .

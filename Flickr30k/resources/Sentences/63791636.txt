@@ -1,0 +1,5 @@
+[/EN#253708/people People] walk down [/EN#253713/other a narrow alleyway] between [/EN#253710/scene tall brick buildings] .
+[/EN#253708/people A man] in [/EN#253714/clothing a white shirt] is seen down [/EN#253709/scene a narrow , brick alley] .
+[/EN#253708/people A man] walks down [/EN#253709/scene a very narrow alley] between [/EN#253710/scene buildings] .
+[/EN#253709/scene A narrow cobblestone alley] between [/EN#253710/scene two buildings] .
+[/EN#253709/scene A small brick alley] with [/EN#253708/people a man] walking at [/EN#253712/scene the end]

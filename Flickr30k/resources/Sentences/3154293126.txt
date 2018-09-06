@@ -1,0 +1,5 @@
+[/EN#96992/people a snowboarder] jumps off of [/EN#96993/scene a ramp] in [/EN#96994/scene the snowy mountains]
+[/EN#96992/people A snowboarder] is leaping of [/EN#0/notvisual a jump] in [/EN#96994/scene the mountains] .
+[/EN#96992/people A snowboarder] in [/EN#96995/scene midair] , hovering over [/EN#96993/scene a snow ramp] .
+[/EN#96992/people A snowboarder] flies through [/EN#0/notvisual the air] .
+[/EN#96992/people A snowboarder] in [/EN#96995/scene midair]

@@ -1,0 +1,5 @@
+[/EN#225057/people A woman] wearing [/EN#225059/clothing a blue skirt] , [/EN#225066/clothing high heels] , [/EN#225062/clothing a white shirt] , [/EN#225064/clothing green jacket] and [/EN#225065/clothing headband] is walking out of [/EN#225061/scene a tunnel] .
+[/EN#225057/people A young woman] in [/EN#225062/clothing a white blouse] and [/EN#225059/clothing blue skirt] walks away from [/EN#225060/scene a building] .
+[/EN#225057/people A woman] wearing [/EN#225062/clothing a white blouse] is walking away from [/EN#225060/scene a building] .
+[/EN#225058/people Two people] walking down [/EN#225063/scene a road] leading out of [/EN#225060/scene a large building] .
+[/EN#225058/people Two woman] walk along [/EN#225061/scene a white and steel path] with [/EN#225067/other walls] .

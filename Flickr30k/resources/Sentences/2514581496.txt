@@ -1,0 +1,5 @@
+[/EN#54547/animals A small , white dog] is in [/EN#54550/scene the kitchen] jumping in front of [/EN#54548/other the counter] .
+[/EN#54547/animals White dog] with [/EN#54549/other orange bows] on [/EN#54551/bodyparts ears] leaps to reach [/EN#54548/other kitchen counter] .
+[/EN#54547/animals A white dog] with [/EN#54549/other orange ribbons] is jumping up to see [/EN#54548/other a countertop] .
+[/EN#54547/animals A white dog] tries to climb on [/EN#54548/other the countertop] .
+[/EN#54547/animals A white dog] tries to jump on [/EN#54548/other the counter] .

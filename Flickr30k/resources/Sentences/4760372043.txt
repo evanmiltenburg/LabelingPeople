@@ -1,0 +1,5 @@
+[/EN#199919/people A man] focused on playing [/EN#199923/instruments his acoustic guitar] on [/EN#199921/scene a sidewalk] .
+[/EN#199919/people A man] plays [/EN#199923/instruments the guitar] while sitting against [/EN#199920/scene a building] .
+[/EN#199919/people Man] with [/EN#199922/clothing a gray shirt] playing [/EN#199923/instruments a guitar] on [/EN#199921/scene a city street] .
+[/EN#199919/people Man] in [/EN#199922/clothing gray shirt] sitting on [/EN#0/notvisual ground] playing [/EN#199923/instruments guitar] .
+[/EN#199919/people A man] playing [/EN#199923/instruments a guitar] in front of [/EN#199920/scene a building] .

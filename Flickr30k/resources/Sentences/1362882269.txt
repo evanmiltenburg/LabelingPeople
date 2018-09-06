@@ -1,0 +1,5 @@
+[/EN#10010/people A shirtless man] in [/EN#10012/clothing a blue hat] and [/EN#10016/clothing sunglasses] runs waist-deep through [/EN#10013/scene a large body of water] .
+[/EN#10010/people A man] with [/EN#10012/clothing a blue hat] and [/EN#10011/clothing blue] with [/EN#10015/clothing red polka dotted bottoms] on is running into [/EN#10013/scene the water] .
+[/EN#10010/people A man] with [/EN#10015/clothing blue shorts] and [/EN#10011/clothing a blue] had running through [/EN#10013/scene water] [/EN#0/notvisual that] is thigh deep .
+[/EN#10010/people A man] wearing [/EN#10012/clothing a hat] is running through [/EN#10013/scene water]
+[/EN#10010/people A man] splashes playfully in [/EN#10014/scene a lake] .

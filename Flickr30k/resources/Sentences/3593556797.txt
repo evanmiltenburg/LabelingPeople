@@ -1,0 +1,5 @@
+[/EN#130200/people A woman] in [/EN#130203/clothing a short skirt] holds [/EN#130201/other a plastic bottle] as [/EN#0/notvisual she] walks down [/EN#130202/scene a street] with [/EN#130204/vehicles auto] and [/EN#130206/vehicles pedestrian traffic] .
+[/EN#130200/people A woman] is walking down [/EN#130202/scene the middle of the road] carrying [/EN#130201/other a bottle] .
+[/EN#130200/people A woman] walking parallel to [/EN#130205/other a yellow line] against [/EN#130207/vehicles traffic] .
+[/EN#130200/people A woman] wearing [/EN#130203/clothing a jean skirt] walks down [/EN#130202/scene a city street] .
+[/EN#130200/people A woman] walking down [/EN#130202/scene the side of a highway] .

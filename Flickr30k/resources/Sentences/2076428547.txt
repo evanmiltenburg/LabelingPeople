@@ -1,0 +1,5 @@
+[/EN#27208/people A man] with [/EN#27215/clothing a hiking backpack] on is standing in front of [/EN#27210/scene a lake] with [/EN#27209/scene a forest] in [/EN#0/notvisual the background] .
+[/EN#27208/people A hiker] is shadowed by [/EN#27214/scene the time of day] near [/EN#27210/scene an open and tree-lined body of water] .
+[/EN#27208/other A hiker 's profile] against [/EN#27211/scene a blue sky] and [/EN#27209/scene mountain range] .
+[/EN#27208/people A backpacker] standing near [/EN#27210/scene water] at [/EN#27212/other dusk] .
+[/EN#27208/people A hiker] standing on [/EN#27213/scene the shore of a lake] .

@@ -1,0 +1,5 @@
+[/EN#34722/people A man] in [/EN#34723/clothing a yellow coat] is on [/EN#34724/scene a blue industrial crane] working on [/EN#34725/scene the side of a tall building] .
+[/EN#34722/people A worker] in [/EN#34723/clothing a yellow suit] and [/EN#34726/clothing red hat] is working high above [/EN#34729/scene the city] .
+[/EN#34722/people A worker] in [/EN#34723/clothing a yellow jacket] is hoisted up high to [/EN#34728/other work] on [/EN#34725/scene a building] .
+[/EN#34722/people A worker] in [/EN#34726/clothing a red hat] and [/EN#34723/clothing yellow coat] is on [/EN#34724/scene crane lift] .
+[/EN#34724/other A Heavy machine] lifting up [/EN#34722/people a worker] .

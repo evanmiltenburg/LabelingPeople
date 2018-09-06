@@ -1,0 +1,5 @@
+[/EN#53699/animals A black dog] , [/EN#53701/animals a golden dog] and [/EN#53699/animals a black and white dog] are running in [/EN#53702/scene a park] .
+[/EN#53699/animals A black and white dog] , [/EN#53703/animals a black dog] and [/EN#53701/animals an orange dog] are in [/EN#53702/scene the grass] .
+[/EN#0/notvisual There] are [/EN#53700/animals three dogs] running in [/EN#53702/scene the grass] with [/EN#53704/other trees] behind [/EN#0/notvisual them] .
+[/EN#53700/animals Dogs] running and playing in [/EN#53702/scene a grassy area] .
+[/EN#53700/animals Three dogs] at [/EN#53702/scene the park] .

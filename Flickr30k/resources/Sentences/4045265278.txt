@@ -1,0 +1,5 @@
+[/EN#153074/people A woman] in [/EN#153080/clothing pink] and [/EN#153073/people a man] wearing [/EN#153081/clothing an apron] watch [/EN#153075/other a food covered grill] .
+[/EN#153072/people A male and female chef] watch over [/EN#153077/other the meat] and [/EN#153076/other corn] [/EN#0/notvisual they] are cooking .
+[/EN#153073/people Man] and [/EN#153074/people woman] cook grilling [/EN#153077/other meats] and [/EN#153076/other corn] .
+[/EN#153072/people Two Asian chefs] grilling up [/EN#153079/other a full meal] .
+[/EN#153073/people A man] and [/EN#153074/people woman] in front of [/EN#153075/other a grill] .

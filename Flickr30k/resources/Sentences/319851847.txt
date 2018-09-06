@@ -1,0 +1,5 @@
+[/EN#100367/people The fellow] with [/EN#100368/other the chainsaw] and [/EN#100369/other brown coveralls] is carving [/EN#100370/other a statue] with [/EN#100368/other a chainsaw] .
+[/EN#100367/people A man] with [/EN#100368/other a chainsaw] is carving [/EN#100370/other wood] into [/EN#100370/people a statue of a man] .
+[/EN#100367/people A man] weilding [/EN#100368/other a chainsaw] carves [/EN#100370/other a log] into [/EN#100370/other a Gnome] .
+[/EN#100367/people The man] is carving [/EN#100370/other a Santa] out of [/EN#100370/other wood] .
+[/EN#100367/people A man] is using [/EN#100368/other a chainsaw] on [/EN#100370/other a statue] .

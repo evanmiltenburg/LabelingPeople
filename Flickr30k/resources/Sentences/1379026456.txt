@@ -1,0 +1,5 @@
+[/EN#10650/people A man] with [/EN#10653/clothing headphones] on is looking at [/EN#10651/other a computer screen] while sitting at [/EN#10652/other a table] .
+[/EN#10650/people A young man] with [/EN#10654/clothing headphones] looking at [/EN#10651/other a Macintosh laptop computer] .
+[/EN#10650/people A man] sits at [/EN#10652/other a table] in front of [/EN#10651/other a computer] wearing [/EN#10653/clothing headphones] .
+[/EN#10650/people A young man] is sitting at [/EN#10652/other a table] with [/EN#10651/other a laptop] and [/EN#10653/clothing earphones] .
+[/EN#10650/people Man] sitting with [/EN#10653/clothing headphones] at [/EN#10651/other a laptop] .

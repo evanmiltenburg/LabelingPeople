@@ -1,0 +1,5 @@
+[/EN#67302/people A young woman] dancing with [/EN#67303/people an old man] while [/EN#67304/people other people] watch .
+[/EN#67303/people An elderly man] is dancing with [/EN#67302/people a young girl] .
+[/EN#67303/people An elderly man] is dancing with [/EN#67302/people a young lady] .
+[/EN#67303/people An old man] is just dancing with [/EN#67302/people a woman] .
+[/EN#67302/people A child] is dancing with [/EN#67303/people an elderly man] .

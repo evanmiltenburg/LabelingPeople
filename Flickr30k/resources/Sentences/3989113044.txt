@@ -1,0 +1,5 @@
+[/EN#151043/people Musician] plays [/EN#151045/instruments a white electric guitar] with [/EN#151048/people a band] at [/EN#151044/other an outdoor concert]
+[/EN#151043/people A young man] in [/EN#151049/clothing a hat] is playing [/EN#151045/instruments the guitar] on [/EN#151046/scene an outdoor stage] .
+[/EN#151043/people A man] in [/EN#151050/clothing a white shirt] playing [/EN#151045/instruments a white guitar] on [/EN#151046/scene a stage] .
+[/EN#151043/people A musician] jamming out on [/EN#151045/instruments his white guitar] at [/EN#151044/other a concert] .
+[/EN#151043/people A man] playing [/EN#151045/instruments a white electric guitar] [/EN#151047/scene outdoors] .

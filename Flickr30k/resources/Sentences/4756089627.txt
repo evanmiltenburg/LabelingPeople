@@ -1,0 +1,5 @@
+[/EN#199284/people Person] wearing [/EN#199285/clothing a red shirt] , [/EN#199286/clothing blue pants] , and [/EN#199287/clothing white shoes] , sitting on [/EN#199288/other curb] with [/EN#199289/other cellphone] in [/EN#199290/bodyparts hands] in front of [/EN#199293/scene a parking lot of an industrial building] .
+[/EN#199284/people An oriental person] in [/EN#199285/clothing a red shirt] and [/EN#199286/clothing black pants] crouching over [/EN#199291/clothing a purse] on [/EN#199292/other concrete] .
+[/EN#199284/people A person] in [/EN#199285/clothing a red shirt] squats down in [/EN#199293/scene the street] .
+[/EN#199284/people Woman] with [/EN#199285/clothing red shirt] sitting holding [/EN#199291/clothing purse] .
+[/EN#199284/people A teen] with [/EN#199291/clothing a purse] squats on [/EN#199288/other a curb] .

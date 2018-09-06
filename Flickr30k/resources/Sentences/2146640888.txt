@@ -1,0 +1,5 @@
+[/EN#31058/people A woman] with [/EN#31062/clothing glasses] reads [/EN#31059/other a paper] while [/EN#31057/people a guy] with [/EN#31060/clothing glasses] in [/EN#31061/clothing a blue shirt] looks on .
+[/EN#31058/people A woman] with [/EN#31060/clothing glasses] is reading [/EN#31059/other something] as [/EN#31057/people a man] watches behind [/EN#0/notvisual her] .
+[/EN#31058/people A woman] is reading [/EN#31059/other a piece of paper] aloud as [/EN#31057/people a man] stands behind [/EN#0/notvisual her] .
+[/EN#31057/people A man] is watching as [/EN#31058/people a woman] is reading [/EN#31059/other a piece of paper] .
+[/EN#31058/people A woman] reading [/EN#31059/other a handwritten paper] while [/EN#31057/people man] listens .

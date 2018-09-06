@@ -1,0 +1,5 @@
+[/EN#4255/people A little girl] with [/EN#4260/other a red hood] and [/EN#4258/clothing shirt] is sitting with [/EN#4264/bodyparts legs] sprawled on [/EN#4256/other a rock] , [/EN#4262/scene her mouth open] .
+[/EN#4255/people A girl] dressed in [/EN#4258/clothing a red top] , [/EN#4257/clothing a red cap] , and [/EN#4263/clothing light colored shorts] , sits on [/EN#4256/scene a rock outside] .
+[/EN#4255/people A young girl] wearing [/EN#4259/clothing yellow flip-flops] is sitting on [/EN#4256/other a large boulder] .
+[/EN#4255/people A little girl] in [/EN#4257/clothing a red hat] and [/EN#4259/clothing yellow flip-flops] sits on [/EN#4256/other a rock] .
+[/EN#4255/people The little girl] sits on top of [/EN#4256/other a rock] .

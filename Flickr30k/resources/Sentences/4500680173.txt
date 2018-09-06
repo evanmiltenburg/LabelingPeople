@@ -1,0 +1,5 @@
+[/EN#173384/people An elderly man] walking down [/EN#173387/scene the sidewalk] carrying [/EN#173386/clothing a shopping bag] .
+[/EN#173384/people A frowning elderly person] is walking and carrying [/EN#173386/clothing a plastic bag]
+[/EN#173384/people An old Asian man] walks [/EN#173387/scene the streets] with [/EN#173386/other a bag of goods] .
+[/EN#173384/people A young Japanese] man does not like [/EN#173388/other his picture] taken .
+[/EN#173384/people Old man] carries [/EN#173386/clothing a bag] down [/EN#173387/scene the street] .

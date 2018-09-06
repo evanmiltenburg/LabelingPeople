@@ -1,0 +1,5 @@
+[/EN#82553/people A woman] in [/EN#82558/clothing a brightly colored top] sitting on [/EN#82555/scene the floor] using [/EN#82554/other an Apple brand laptop] .
+[/EN#82553/people A woman] sits on [/EN#82555/scene the floor] , working on [/EN#82554/other an Apple laptop] .
+[/EN#82553/people A woman] is sitting down looking at [/EN#82554/other her apple laptop] .
+[/EN#82553/people A female student] does [/EN#82556/other research] on [/EN#82554/other her apple laptop] .
+[/EN#0/notvisual This] is called [/EN#82557/other stylish technology] .

@@ -1,0 +1,5 @@
+[/EN#34520/people A black man] plays [/EN#34521/instruments the alto saxophone] in front of [/EN#34523/other a brick storefront] .
+[/EN#34520/people A man] in [/EN#34522/clothing a red shirt] is playing [/EN#34521/instruments a saxophone] outside [/EN#34523/other a business] .
+[/EN#34520/people The saxophone player] is performing on [/EN#34524/scene the street corner] .
+[/EN#34520/people A man] in [/EN#34522/clothing a red and black jacket] playing [/EN#34521/instruments a saxophone] .
+[/EN#34520/people Man] plays [/EN#34521/instruments a saxophone] outside [/EN#34525/scene a store] .

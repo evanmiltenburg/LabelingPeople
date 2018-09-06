@@ -1,0 +1,5 @@
+[/EN#69181/people A blond-haired boy] wearing [/EN#69188/clothing a yellow shirt] and [/EN#69189/clothing blue pants] is climbing [/EN#69190/other a large] , fallen [/EN#69183/scene tree limb outdoors] in [/EN#69184/scene grassy meadow] .
+[/EN#69181/people A boy] wearing [/EN#69188/clothing a yellow shirt] and [/EN#69189/clothing blue pants] is climbing on [/EN#69182/other a tree branch] in [/EN#69184/scene a grassy field] .
+[/EN#69181/people A boy] wearing [/EN#69188/clothing a yellow shirt] and [/EN#69189/clothing blue pants] is climbing [/EN#69183/other a tree] in [/EN#69185/scene a hilly area] .
+[/EN#69181/people A blond child] is laying on [/EN#69183/other a branch of a tree] in [/EN#69184/scene a green field] .
+[/EN#69181/people A young boy] climbing [/EN#69183/other a tree] in [/EN#69184/scene grassy hills] .

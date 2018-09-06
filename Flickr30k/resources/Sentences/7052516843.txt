@@ -1,0 +1,5 @@
+[/EN#264638/people A guy] in [/EN#264639/clothing a blue sweatshirt] is sitting on [/EN#264642/scene the floor] surrounded by [/EN#264640/scene folded laundry] .
+[/EN#264638/people A woman] in [/EN#264644/scene her living room] folding [/EN#264640/scene colorful piles of laundry] for [/EN#264643/people her family] .
+[/EN#264638/people A lady] in [/EN#264639/clothing a sweatshirt] sits on [/EN#264642/scene the floor] and folds [/EN#264640/scene her laundry] .
+[/EN#264638/people a woman] folding [/EN#264641/scene laundry] on [/EN#264642/scene the floor] in front of [/EN#264645/other a recliner] .
+[/EN#264638/people A person] is folding [/EN#264641/scene laundry] on [/EN#264642/scene the floor] .

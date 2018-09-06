@@ -1,0 +1,5 @@
+[/EN#114973/animals A dog] is pawing at [/EN#114975/other a fallen log] nearby [/EN#114974/scene a stream] in [/EN#114978/scene an area] with [/EN#114979/other pinestraw] .
+[/EN#114973/animals The black and white dog] jumps by [/EN#114975/other a log] near [/EN#114974/scene a creek] .
+[/EN#114973/animals A bulldog] jumps over [/EN#114975/other a log] next to [/EN#114974/scene a stream] .
+[/EN#114977/clothing Black] and [/EN#114973/animals white dog] grabs [/EN#114975/other tree limb]
+[/EN#114973/animals The dog] plays with [/EN#114975/other the large log] .

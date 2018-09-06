@@ -1,0 +1,5 @@
+[/EN#15408/animals A black dog] runs on [/EN#15409/scene green grass] with [/EN#15410/scene its mouth open] .
+[/EN#15408/animals The dog] runs across [/EN#15409/scene the green lush grass] .
+[/EN#15408/animals A gray dog] runs along [/EN#15409/scene the green grass] .
+[/EN#15408/animals A lean dog] runs through [/EN#15409/scene green grass] .
+[/EN#15408/animals a dog] runs across [/EN#15409/scene the grass] .

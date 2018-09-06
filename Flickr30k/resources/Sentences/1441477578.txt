@@ -1,0 +1,5 @@
+[/EN#13129/people A young man] in [/EN#13133/clothing a green shirt] and [/EN#13134/clothing paint-splattered blue jeans] is setting up [/EN#13130/other a ladder] .
+[/EN#13129/people A man] is setting up [/EN#13130/other a ladder] to complete [/EN#13132/other some ceiling work] .
+[/EN#13129/people A man] is remodeling [/EN#13131/scene a room] and standing by [/EN#13130/other a ladder] .
+[/EN#13129/people A man] is setting up [/EN#13130/other a ladder] inside [/EN#13131/scene a room] .
+[/EN#13129/people Man] setting up [/EN#13130/other a ladder] inside [/EN#13131/scene an office] .

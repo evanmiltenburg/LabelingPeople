@@ -1,0 +1,5 @@
+[/EN#221105/people A boy] with [/EN#221100/clothing a red jacket] and [/EN#221103/clothing striped shorts] sits on [/EN#221104/people the top of a man] [/EN#221102/bodyparts 's shoulders] in [/EN#221106/people a crowd of people] .
+[/EN#221105/people A boy] in [/EN#221100/clothing a red shirt] is sitting on [/EN#221102/people the shoulders of a man] in [/EN#221106/people a crowd] .
+[/EN#221105/people A child] in [/EN#221101/clothing a red shirt] is sitting on [/EN#221099/bodyparts his father 's shoulders] .
+[/EN#221105/people A little boy] in [/EN#221101/clothing a red outfit] is on [/EN#221099/bodyparts a man 's shoulders] .
+[/EN#221105/people little kid] on [/EN#221099/bodyparts a guys shoulders] in [/EN#221106/people a crowd] .

@@ -1,0 +1,5 @@
+[/EN#164167/people An old woman] in [/EN#164168/clothing a blue sweatshirt] is playing [/EN#164169/instruments piano] in front of [/EN#164170/other a sunny window] and [/EN#164171/other a vase of daffodils] .
+[/EN#164167/people An older woman] is playing [/EN#164169/instruments piano] and smiling with [/EN#164172/other beautiful yellow flowers] near [/EN#0/notvisual her] .
+[/EN#164167/people An old woman] wearing [/EN#164168/clothing a blue sweater] is smiling as [/EN#0/notvisual she] is playing [/EN#164169/instruments a piano] .
+[/EN#164167/people Older women] in [/EN#164168/clothing a blue sweater] playing [/EN#164169/instruments the piano] by [/EN#164170/other the window] .
+[/EN#164167/people An elderly woman] playing [/EN#164169/instruments the piano] in front of [/EN#164170/other a window] .

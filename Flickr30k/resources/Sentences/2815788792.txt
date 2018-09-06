@@ -1,0 +1,5 @@
+[/EN#74561/people A man] standing behind [/EN#74560/animals a small black and white dog] doing [/EN#74563/other a back flip] .
+[/EN#74561/people A man] demonstrating [/EN#74560/animals his black and white dog] performing [/EN#74564/other a back flip] .
+[/EN#74561/people A man] in [/EN#74565/clothing a white t-shirt] watching [/EN#74560/animals a dog] do [/EN#74562/other a back] flip
+[/EN#74560/animals Dog] jumps backwards , doing [/EN#0/notvisual trick] with [/EN#74561/people man] outdoors .
+[/EN#74560/animals A dog] jumping upside down in front of [/EN#74561/people a man] .

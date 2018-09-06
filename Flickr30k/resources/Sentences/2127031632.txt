@@ -1,0 +1,5 @@
+[/EN#30194/people A child] wearing [/EN#30195/clothing a helmet] is sitting on [/EN#30196/other a red sled] outside in [/EN#30197/scene the snow] .
+[/EN#30194/people A child] on [/EN#30196/other a red disc sled] slides down [/EN#30197/scene a small snow-covered hill] .
+[/EN#30194/people a small child] sleeding down [/EN#30197/scene a snowy hill] wearing [/EN#30195/clothing a blue helmet]
+[/EN#30194/people A child] in [/EN#30199/clothing a red jacket] sitting on [/EN#30196/other a red disk] in [/EN#30197/scene the snow] .
+[/EN#30194/people A child] sits on [/EN#30196/other a red disc] in [/EN#30197/scene the snow] .

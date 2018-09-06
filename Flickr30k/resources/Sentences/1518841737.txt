@@ -1,0 +1,5 @@
+[/EN#15527/people A young child] with [/EN#15530/bodyparts brown curly hair] and [/EN#15531/bodyparts brown eyes] sits in [/EN#15528/other a foldaway chair] on [/EN#15529/scene the sidewalk] .
+[/EN#15527/people A little boy] with [/EN#15530/bodyparts black curly hair] sitting in [/EN#15528/other a blue chair] [/EN#0/notvisual that] is on [/EN#15529/scene the sidewalk] .
+[/EN#15527/people A young boy] is sitting in [/EN#15528/other a blue chair] .
+[/EN#15527/people A young boy] smiling next to [/EN#15533/scene the ocean] .
+[/EN#15527/people Young boy] sitting in [/EN#15528/other a lawn chair] .

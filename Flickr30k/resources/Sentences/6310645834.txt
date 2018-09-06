@@ -1,0 +1,5 @@
+[/EN#252238/scene A black , red , and white race car zooms] by on [/EN#252235/scene a gray track] with [/EN#252241/scene a blue border] , sharply in [/EN#252244/scene focus] compared to [/EN#252234/people a blurred crowd] in [/EN#0/notvisual the foreground] .
+[/EN#252238/vehicles A race car] speeds down [/EN#252235/scene the raceway] at [/EN#252245/bodyparts the blink of an eye] , driving so fast that [/EN#0/notvisual the camera] was only able to capture [/EN#252248/vehicles the car] in [/EN#252243/scene focus] .
+[/EN#252240/other A silver] and [/EN#252238/other red race car competes] in [/EN#252235/other a race] while [/EN#252234/people a crowd of people] look on .
+[/EN#252234/people A large crowd] watches [/EN#252237/other a race car speed] around [/EN#252235/scene a track] .
+[/EN#252234/people An audience] is watching [/EN#252235/other a car race] at [/EN#252235/other a racetrack] .

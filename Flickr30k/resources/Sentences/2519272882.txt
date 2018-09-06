@@ -1,0 +1,5 @@
+[/EN#54753/people A young girl] stands beside [/EN#54756/other a box of ice] wearing [/EN#54759/clothing khaki shorts] and [/EN#54755/other a yellow ' Rainforest Cafe] [/EN#54755/clothing ' t-shirt] .
+[/EN#54753/people A female vendor] dressed in [/EN#54755/clothing a yellow work shirt] with [/EN#54753/other her back] to [/EN#0/notvisual the camera] .
+[/EN#54753/people The girl] in [/EN#54755/clothing the yellow shirt] is outside standing next to [/EN#54754/scene a food stand] .
+[/EN#54753/people woman] wearing [/EN#54755/clothing yellow shirt] , standing at [/EN#54754/scene an outdoor food kiosk] .
+[/EN#54753/people a woman] in [/EN#54755/clothing a yellow shirt] is standing by [/EN#54754/scene food stand] .

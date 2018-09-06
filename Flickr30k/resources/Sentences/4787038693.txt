@@ -1,0 +1,5 @@
+[/EN#202762/people A dark-haired man] sits atop [/EN#202764/other a structure] near [/EN#202763/people a dark-haired woman] wearing [/EN#202769/clothing sunglasses] .
+[/EN#202762/people a guy] and [/EN#202763/people girl] are sitting in [/EN#202764/other a sculpture] playing with [/EN#202765/other a] throwing [/EN#202767/clothing ring] .
+[/EN#202762/people A man] sitting on [/EN#202764/other a statue] [/EN#202766/scene outdoors] , near [/EN#202763/people a woman] standing next to [/EN#0/notvisual him] .
+[/EN#202762/people A young man] and [/EN#202763/people women] near [/EN#202764/other a large metal sculpture]
+[/EN#202762/people A guy] and [/EN#202763/people a girl] are dressed for [/EN#202768/scene summer] .

@@ -1,0 +1,5 @@
+[/EN#208691/people A bunch of people] are walking down [/EN#208694/scene a paved street] while [/EN#208693/people a man] is looking at [/EN#208698/other something] .
+[/EN#208691/people A group of people] walking outside [/EN#208695/scene a theme park] in [/EN#208697/scene the middle of the day] .
+[/EN#208691/people Many people] are walking in [/EN#208694/scene the street] carrying [/EN#208699/clothing tote bags] with [/EN#0/notvisual them] .
+[/EN#208693/people A man] reads as [/EN#0/notvisual he] walks with [/EN#208692/people a crowd] down [/EN#208694/scene the street] .
+[/EN#208691/people various people] are walking outside on [/EN#208696/scene a warm day] .

@@ -1,0 +1,5 @@
+[/EN#183518/people Two men] are walking in front of [/EN#183521/scene a blue building] , [/EN#0/notvisual both] are wearing [/EN#183519/clothing backpacks] .
+[/EN#183518/people Two men] wearing [/EN#183519/clothing backpacks] are walking on [/EN#183526/scene opposite sides of the street] .
+[/EN#183518/people Two people] walking down [/EN#183522/scene a city street] , [/EN#183525/other one] shadowed .
+[/EN#183520/people A man] walks by [/EN#183523/other a club called ' Gruta] ' .
+[/EN#183518/people Two men] walk down [/EN#183522/scene the shaded street] .

@@ -1,0 +1,5 @@
+[/EN#241662/people A blond girl] in [/EN#241669/clothing a gray tank top] is serving [/EN#241668/other a drink] to [/EN#241663/people a guy] in [/EN#241670/clothing a white shirt] [/EN#0/notvisual who] is sitting down .
+[/EN#241662/people A woman] wearing [/EN#241673/clothing all gray] is passing [/EN#241668/other something] to [/EN#241663/people a blond man] [/EN#0/notvisual who] is sitting down .
+[/EN#241662/people A girl] in [/EN#241669/clothing a gray tank top] hands [/EN#241668/other a glass] to [/EN#241663/people a man] in [/EN#241670/clothing a white shirt] .
+[/EN#241662/people A blond woman] is handed [/EN#241668/other an object] from [/EN#241663/people a man] in [/EN#241670/clothing a white shirt] .
+[/EN#241663/people A guy] and [/EN#241662/people a girl] presenting [/EN#241668/other object] to [/EN#0/notvisual each other] .

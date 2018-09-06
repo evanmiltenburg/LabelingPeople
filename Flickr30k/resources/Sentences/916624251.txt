@@ -1,0 +1,5 @@
+[/EN#283455/people Two men] and [/EN#283458/people a woman] walking down [/EN#283457/scene a small city street] , while [/EN#283460/people a crowd of people] are walking behind [/EN#0/notvisual them] .
+[/EN#283459/people People] are walking down [/EN#283457/scene the street] surrounded by [/EN#283461/scene buildings] on [/EN#0/notvisual each side] .
+[/EN#283454/people A guy] in [/EN#283462/clothing blue jeans] with [/EN#283463/clothing a black shirt] has [/EN#283464/bodyparts his hand] in [/EN#283465/clothing his pocket] .
+[/EN#283456/people Two men] and [/EN#283458/people a woman] are walking down [/EN#283457/scene an old cobblestone street] .
+[/EN#283456/people Two men] and [/EN#283458/people a woman] walking down [/EN#283457/scene a city street] .

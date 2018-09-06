@@ -1,0 +1,5 @@
+[/EN#129865/people A person] taking [/EN#129864/people a picture of someone] skating down [/EN#129867/other a railing] at [/EN#129869/scene night] .
+[/EN#129865/people A man] slides down [/EN#129867/other a railing] while [/EN#0/notvisual another] shines [/EN#129870/other a light] on [/EN#0/notvisual him] .
+[/EN#129864/people A skateboarder] slides down [/EN#129867/other a stair rail] in [/EN#129868/scene the dark] .
+[/EN#129865/people a young man] sliiding down [/EN#129866/other a railing] near [/EN#129871/other some stairs]
+[/EN#129864/people A man] skateboarding on [/EN#129866/other the side of steps]

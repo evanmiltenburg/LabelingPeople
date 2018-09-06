@@ -1,0 +1,5 @@
+[/EN#12213/people A fisherman] is reeling [/EN#12215/other his rod] while [/EN#0/notvisual another] relaxes in [/EN#12214/vehicles/scene a boat] on [/EN#12219/scene water] .
+[/EN#12213/people A man] sits in [/EN#12214/vehicles/scene a boat] and holds [/EN#12215/other a fishing pole] while [/EN#12218/other another lays] down .
+[/EN#12213/people a man] wearing [/EN#12216/clothing a gray hat] fishing out of [/EN#12214/vehicles/scene a fishing boat] .
+[/EN#12213/people A man] in [/EN#12216/clothing a gray cap] fishing .
+[/EN#12217/people Two men] in [/EN#12214/vehicles/scene a boat] fishing .

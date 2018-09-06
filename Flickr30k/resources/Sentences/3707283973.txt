@@ -1,0 +1,5 @@
+[/EN#138369/people Three people] on [/EN#138376/other a walk] down [/EN#138373/scene a cement path] beside [/EN#138371/other a field of wildflowers] with [/EN#138377/scene skyscrapers] in [/EN#0/notvisual the background] .
+[/EN#138369/people Three people] walking in [/EN#138372/scene a park] right outside of [/EN#138370/scene the city] .
+[/EN#138369/people People] walking through [/EN#138372/scene a garden] in [/EN#138370/scene the middle of a city] .
+[/EN#138369/people People] walking through [/EN#138372/scene a garden] in [/EN#138375/scene a large city] .
+[/EN#138369/people Three people] are walking in [/EN#138372/scene a park] with [/EN#138371/other flowers] .

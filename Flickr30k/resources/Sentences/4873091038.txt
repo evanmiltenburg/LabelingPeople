@@ -1,0 +1,5 @@
+[/EN#213729/people A man] and [/EN#213728/people woman] walking across [/EN#213725/scene a street] next to [/EN#213723/people a mural of a man] giving [/EN#213722/people a woman] [/EN#213730/other a golden apple] .
+[/EN#213722/people Two people] are walking on [/EN#213725/scene the street] toward [/EN#213723/other a colorful mural] on [/EN#213724/scene the side of a building] .
+[/EN#213722/people Two people] walk up to [/EN#213724/scene a brick building] with [/EN#213723/other a colorful mural] on [/EN#0/notvisual its side] .
+[/EN#213723/people A mural of a man] and [/EN#213727/people women] on [/EN#213726/scene the side of a building] .
+[/EN#213722/people A couple] admiring [/EN#213723/other colorful artwork] on [/EN#213724/scene a building] .

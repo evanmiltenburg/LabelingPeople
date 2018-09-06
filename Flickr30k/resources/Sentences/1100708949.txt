@@ -1,0 +1,5 @@
+[/EN#2532/people Two women] hugging in [/EN#2533/scene a grassy , fenced field] with [/EN#2535/other a cow 's behind] in [/EN#0/notvisual the background] .
+[/EN#2532/people Two women] are hugging on [/EN#2539/scene a path] through [/EN#2533/scene a grassy area] with [/EN#2535/animals a cow] visible past [/EN#0/notvisual them] .
+[/EN#2532/people Two sisters] hugging while visiting [/EN#2534/scene a Farm] and looking into [/EN#0/notvisual the camera] .
+[/EN#2532/people Two girls] are hugging in front of [/EN#2540/other a tree] and [/EN#2538/scene a hill] .
+[/EN#2532/people Two people] hugging with [/EN#2535/animals cow] in [/EN#0/notvisual background] at [/EN#2541/scene farm] .

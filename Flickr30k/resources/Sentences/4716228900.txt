@@ -1,0 +1,5 @@
+[/EN#194307/people A female singer] dressed in [/EN#194313/clothing black] sings on [/EN#194309/scene stage] in front of [/EN#194308/people backup dancers] .
+[/EN#194307/people Blond female] sings into [/EN#194311/other a microphone] while [/EN#194308/people her dancers] perform behind [/EN#0/notvisual her] .
+[/EN#194307/people A blond-haired woman] singing on [/EN#194309/scene stage] with [/EN#194308/people dancers] in [/EN#0/notvisual the background] .
+[/EN#194307/people Woman] singing on [/EN#194309/scene stage] in front of [/EN#194308/people backup dancers]
+[/EN#194307/people A singer] singing on [/EN#194309/scene stage] at [/EN#194310/other a concert] .

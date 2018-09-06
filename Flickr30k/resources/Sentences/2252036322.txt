@@ -1,0 +1,5 @@
+[/EN#36982/other Large pieces of heavy equipment] are being used to repair [/EN#36983/scene a road] .
+[/EN#36980/people A construction worker] overseeing [/EN#36980/people someone] digging with [/EN#36982/other a machine] .
+[/EN#36980/people Road construction crew] digging [/EN#36984/scene a trench] with [/EN#36982/other heavy machinery] .
+[/EN#36980/people A road crew] is working on [/EN#36983/scene a road] with [/EN#36982/other equipment] around [/EN#0/notvisual them] .
+[/EN#36980/people A construction crew] moves [/EN#36985/scene dirt] .

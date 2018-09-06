@@ -1,0 +1,5 @@
+[/EN#226716/people A man] in [/EN#226718/clothing a collared shirt] is working next to [/EN#226720/other a small lamp] .
+[/EN#226716/people A man] with [/EN#226721/clothing glasses] looking down at [/EN#226722/other something] in [/EN#226717/bodyparts his hands] .
+[/EN#226716/people An older man] working with [/EN#226717/bodyparts his hands] in [/EN#226724/scene a workshop] .
+[/EN#226716/people A man] looks closely as [/EN#0/notvisual he] sits .
+[/EN#226716/people A man] doing [/EN#226723/other work] at [/EN#226719/other a desk] .

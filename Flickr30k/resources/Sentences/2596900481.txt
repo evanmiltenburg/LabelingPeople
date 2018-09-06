@@ -1,0 +1,5 @@
+[/EN#60443/animals A small dog] is looking at [/EN#60442/people a man] walking towards [/EN#60448/scene the front of the store] carrying [/EN#60444/other a basket] .
+[/EN#60442/people An old woman] at [/EN#60446/scene a furniture shop] , [/EN#60443/animals a small dog] is looking as [/EN#0/notvisual she] walks away .
+[/EN#60442/people An overweight person] walks through [/EN#60445/scene a corridor] .
+[/EN#60442/people A woman] walking through [/EN#60446/scene a furniture shop] .
+[/EN#60442/people A heavyset person] carries [/EN#60444/other a basket] .

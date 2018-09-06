@@ -1,0 +1,5 @@
+[/EN#209684/people A white man] with [/EN#209688/clothing black clothing] stands near [/EN#209689/scene the edge of a sidewalk] with [/EN#209685/people a bunch of people] standing or walking around behind [/EN#0/notvisual him] .
+[/EN#209684/people A man] in [/EN#209685/people a crowd] appears in [/EN#209690/scene a city scene] wearing [/EN#209688/clothing a mostly black outfit] with [/EN#209691/other a graphic picture] on [/EN#209693/clothing his shirt] .
+[/EN#209684/people A gray-haired man] wearing [/EN#209686/clothing all black] is standing on [/EN#209689/scene the corner of a busy street] .
+[/EN#209684/people Man] dressed in [/EN#209688/clothing black] stands on [/EN#209689/scene sidewalk] facing away from [/EN#209685/people crowd] .
+[/EN#209684/people A man] dressed [/EN#209692/people all] in [/EN#209688/clothing black] , standing next to [/EN#209687/other a curb] .

@@ -1,0 +1,5 @@
+[/EN#28333/people A girl] with [/EN#28337/bodyparts red-hair] is sitting on [/EN#28334/animals a crocodile] holding [/EN#28335/bodyparts its jaw] .
+[/EN#28333/people A girl] is posed over [/EN#28334/animals a statue of a dangerous animal] .
+[/EN#28333/people A girl] sits on [/EN#0/notvisual what] appears to be [/EN#28334/animals a crocodile] .
+[/EN#28333/people A girl] holding [/EN#28335/bodyparts a crocodile 's mouth] closed
+[/EN#28333/people A girl] sitting on top of [/EN#28334/animals a crocodile]

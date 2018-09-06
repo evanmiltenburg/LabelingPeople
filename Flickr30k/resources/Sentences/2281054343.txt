@@ -1,0 +1,5 @@
+[/EN#38768/people A man] wearing [/EN#38769/clothing a black hat] is walking through [/EN#38770/scene a busy city street] .
+[/EN#38768/people Person] with [/EN#38769/clothing black hat] and [/EN#38776/clothing black coat] near [/EN#38771/scene buildings] with [/EN#38779/other signs] .
+[/EN#38773/other Thre] is [/EN#38768/people a shot of man] with [/EN#38778/other his back] turned in [/EN#38771/scene a city] .
+[/EN#38768/people A silhouette of a man] in [/EN#38769/clothing a hat] on [/EN#38770/scene a busy city street] .
+[/EN#38774/people Three people] in [/EN#38772/scene a crowded city area] .

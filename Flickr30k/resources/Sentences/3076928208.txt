@@ -1,0 +1,5 @@
+[/EN#91652/animals A black and tan dog] jumping in [/EN#0/notvisual the air] in [/EN#91654/scene a grassy area] in front of [/EN#91653/scene a fence] .
+[/EN#91658/clothing Black] and [/EN#91652/animals tan dog] with [/EN#91659/bodyparts all paws] off [/EN#0/notvisual ground] and [/EN#91656/other yellow object] in [/EN#91655/bodyparts mouth] .
+[/EN#91652/animals A dog] running with [/EN#91656/other something] in [/EN#91655/bodyparts his mouth] in [/EN#91654/scene the grass] .
+[/EN#91652/animals The black and brown dog] is playing in [/EN#91657/scene the yard] .
+[/EN#91652/animals The dog] by [/EN#91653/scene the fence] is running on [/EN#91657/scene the grass] .

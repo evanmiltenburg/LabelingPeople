@@ -1,0 +1,5 @@
+[/EN#48119/people A group of people] examine [/EN#48121/vehicles/scene a boat] with [/EN#48125/other an orange flag] [/EN#0/notvisual that] is sitting on [/EN#48122/other sand] next to [/EN#48120/scene a body of water] .
+[/EN#48119/people Many fishermen] are trying to drag [/EN#48121/vehicles/scene a boat] to [/EN#48122/scene the shore] from [/EN#48120/scene the sea] .
+[/EN#48119/people A group of people] push [/EN#48121/vehicles/scene a boat] away from [/EN#48120/scene the water] onto [/EN#48120/scene the beach] .
+[/EN#48119/people A group of men] using [/EN#48126/other logs] to push [/EN#48121/vehicles/scene a boat] out of [/EN#48120/scene the water] .
+[/EN#48124/people a group of young men] and [/EN#48128/people women] push [/EN#48121/vehicles/scene a boat] to [/EN#48122/scene shore] .

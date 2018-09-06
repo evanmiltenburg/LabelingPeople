@@ -1,0 +1,5 @@
+[/EN#44856/people A blond child] holding [/EN#44859/other a sword] and dressed in [/EN#44858/clothing a black robe] is standing next to [/EN#44860/other a stroller] .
+[/EN#44856/people A little boy] in [/EN#44858/clothing a samurai costume] holds [/EN#44859/other a toy sword] as [/EN#0/notvisual he] stands in front of [/EN#44860/other a stroller] .
+[/EN#44856/people A blond little boy] , wearing [/EN#44857/clothing a robe] and playing with [/EN#44859/other a sword] .
+[/EN#44856/people A child] standing by [/EN#44860/other a stroller] and holding [/EN#44859/other a toy sword] .
+[/EN#44856/people A boy] in [/EN#44857/clothing a black cloak] with [/EN#44859/other a fake sword] .

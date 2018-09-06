@@ -1,0 +1,5 @@
+[/EN#58909/people A small , child] on [/EN#58910/bodyparts her hands] and [/EN#58911/bodyparts knees] , appears to be wiping [/EN#58912/other tiles] with [/EN#58913/other a cloth] .
+[/EN#58909/people A blond-hair toddler] on [/EN#58910/bodyparts her hands] and [/EN#58911/bodyparts knees] in front of [/EN#58914/other a door] .
+[/EN#58909/people A child] is on [/EN#0/notvisual the ground] looking at [/EN#58913/other a cloth] .
+[/EN#58909/people A young girl] cleans [/EN#0/notvisual the ground] with [/EN#58915/other a rag] .
+[/EN#58909/people A child] is crawling on [/EN#58916/scene the floor] .

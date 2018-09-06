@@ -1,0 +1,5 @@
+[/EN#194370/people A man] in [/EN#194374/clothing a gold foils skirt] , sitting at [/EN#194373/other a computer desk] , looks at [/EN#0/notvisual the camera] with [/EN#194376/bodyparts his hands] raised to [/EN#194377/bodyparts his face] .
+[/EN#194370/people A bearded man] in [/EN#194371/clothing a black t-shirt] sits in front of [/EN#194373/other a desk] holding [/EN#194372/other a computer] .
+[/EN#194370/people Man] wearing [/EN#194371/clothing black t-shirt] sitting at [/EN#194373/other a computer desk] .
+[/EN#194370/people A man] in [/EN#194374/clothing a gold skirt] sits in front of [/EN#194372/other the computer] .
+[/EN#194370/people Man] in [/EN#194374/clothing gold pants] looking at [/EN#0/notvisual the camera] .

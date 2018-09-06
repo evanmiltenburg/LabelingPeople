@@ -1,0 +1,5 @@
+[/EN#232787/people A brown-haired woman] wearing [/EN#232791/clothing sunglasses] and [/EN#232789/clothing a blue sleeveless shirt] is sitting with [/EN#232788/people a man] wearing [/EN#232790/clothing a white shirt] .
+[/EN#232787/people A female] wearing [/EN#232791/clothing sunglasses] is talking to [/EN#232788/people a male] with [/EN#232791/clothing short glasses] .
+[/EN#232788/people A man] in [/EN#232790/clothing a white shirt] sitting with [/EN#232787/people a woman] in [/EN#232789/clothing a blue blouse] .
+[/EN#232787/people A woman] in [/EN#232789/clothing a blue shirt] smiles at [/EN#232788/people a man] in [/EN#232790/clothing a white shirt] .
+[/EN#232788/people A man] in [/EN#232790/clothing a white shirt] talks to [/EN#232787/people a woman] in [/EN#232789/clothing a blue shirt] .

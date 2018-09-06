@@ -1,0 +1,5 @@
+[/EN#102479/people A man] holds [/EN#102480/other a microphone] in front of [/EN#102479/people another man] [/EN#0/notvisual who] is wearing [/EN#102483/clothing a blue hat] .
+[/EN#102479/people A man] speaks into [/EN#102480/other a microphone] being held by [/EN#102479/people another man] .
+[/EN#102479/people A old man] talking into [/EN#102480/other a mike] held by [/EN#102479/people another old man] .
+[/EN#102479/people One older man] interviews [/EN#0/notvisual another] in [/EN#102485/clothing a racing suit] .
+[/EN#102479/people Eldery man] being interviewed after [/EN#102484/other a race] .

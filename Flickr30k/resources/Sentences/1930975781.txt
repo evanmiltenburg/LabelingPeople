@@ -1,0 +1,5 @@
+[/EN#23399/people A man] with [/EN#23402/instruments a guitar] is at [/EN#23409/other a microphone] while [/EN#23401/people the drummer] seems to be resting and [/EN#23408/people the other guitarist] has [/EN#23410/other his back] to [/EN#0/notvisual him] .
+[/EN#23400/people A band of two men] playing [/EN#23404/instruments guitars] and [/EN#23401/people a man] playing [/EN#23407/instruments the drums] , are singing on [/EN#23405/scene a stage] .
+[/EN#23399/people The guy] with [/EN#23411/clothing ripped jeans] is singing and playing [/EN#23402/instruments the guitar] .
+[/EN#23398/people Three people] on [/EN#23405/scene stage] singing and playing [/EN#23403/instruments instruments] .
+[/EN#23398/people A band] is performing on [/EN#23405/scene stage] .

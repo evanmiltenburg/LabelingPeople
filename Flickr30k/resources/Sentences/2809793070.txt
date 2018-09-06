@@ -1,0 +1,5 @@
+[/EN#74264/animals Three large black dogs] are playing on [/EN#74266/scene the shore] near [/EN#74267/scene the ocean] .
+[/EN#74264/animals Three black dogs] play on [/EN#74265/scene sand outside] .
+[/EN#74264/animals Three black dogs] playing on [/EN#74266/scene the beach] .
+[/EN#74264/animals Three black dogs] are on [/EN#74265/scene a beach] .
+[/EN#74264/animals three dogs] playing on [/EN#74265/scene a beach]

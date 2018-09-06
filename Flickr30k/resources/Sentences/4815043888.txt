@@ -1,0 +1,5 @@
+[/EN#206285/people A man] in [/EN#206293/clothing a blue shirt] and [/EN#206299/clothing yellow hat] wears [/EN#206292/clothing a backpack] and sells [/EN#206291/other ice cream] treats to [/EN#206297/people another man] and [/EN#206289/people a young girl] from [/EN#206288/vehicles a cart] on [/EN#206290/scene the street] .
+[/EN#206286/people A man] with [/EN#206295/other a gray collar shirt purchases ice cream] from [/EN#206285/people a man] with [/EN#206288/vehicles an ice cram cart] while [/EN#206289/people a child] observes .
+[/EN#206285/people A man] in [/EN#206293/other a blue shirt exchanges money] with [/EN#206286/people a man] in [/EN#206295/clothing a gray shirt] over [/EN#206288/vehicles an ice cream cart] .
+[/EN#206286/people A man] and [/EN#206289/people a child] are purchasing [/EN#206298/other ice cream] from [/EN#206285/people a man] with [/EN#206288/vehicles a hand pushed ice cream cart] .
+[/EN#206285/people A man] selling [/EN#206291/other ice cream] from [/EN#206290/scene the sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#33641/people A girl] in [/EN#33642/clothing a blue jacket] holding [/EN#33643/other a pink bottle] in [/EN#33644/people the front of a crowd of other kids] .
+[/EN#33641/people A girl] in [/EN#33642/clothing a blue jacket] stands in front of [/EN#33644/people a drab crowd] while [/EN#0/notvisual they] watch [/EN#33647/other something] .
+[/EN#33641/people The girl] in [/EN#33642/clothing the blue coat] is holding [/EN#33643/other a purple capped water bottle] .
+[/EN#33641/people Teen girl] in [/EN#33645/other foreround] with [/EN#33644/people crowd] faded out in [/EN#0/notvisual background]
+[/EN#33641/people Girl] with [/EN#33642/clothing blue jacket] holding [/EN#33643/other purple jug] in [/EN#33644/people crowd]

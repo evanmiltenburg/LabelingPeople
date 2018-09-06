@@ -1,0 +1,5 @@
+[/EN#35240/people Two young women] standing outside [/EN#35243/other a blue door] , [/EN#35241/other one] smoking [/EN#35244/other a cigarette] .
+[/EN#35242/people A woman] in [/EN#35246/clothing a animal print coat] standing next to [/EN#35241/people a smoking woman] .
+[/EN#35240/people Tw woman] stand outside [/EN#35247/scene a building] , and [/EN#35241/other one] is smoking .
+[/EN#35240/people Two women] are standing and [/EN#0/notvisual one of them] is smoking .
+[/EN#35240/people Two women] outside and [/EN#35241/other one] is smoking

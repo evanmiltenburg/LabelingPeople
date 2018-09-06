@@ -1,0 +1,5 @@
+[/EN#97291/people A man] standing at [/EN#97293/scene a podium] with [/EN#97294/other a mike] in front of [/EN#0/notvisual him] with [/EN#97298/other a banner] behind [/EN#0/notvisual him] reading " [/EN#97296/other The Cooper Union] . "
+[/EN#97291/people An older man] dressed in [/EN#97292/clothing a suit] is standing behind [/EN#97293/scene a gold-fringed podium] in front of [/EN#97294/other a microphone] .
+[/EN#97291/other Former Governor Cuomo] is wearing [/EN#97292/clothing a brown suit] and [/EN#97301/clothing gold tie] with [/EN#97299/other a flag] in [/EN#97302/scene the back corner] .
+[/EN#97291/people An older gentleman] in [/EN#97292/clothing a suit] is giving [/EN#97300/other a speech] at [/EN#97293/scene a podium] at [/EN#97297/people The Cooper Union college] .
+[/EN#97291/people An older man] standing near [/EN#97293/scene a podium] and smiling

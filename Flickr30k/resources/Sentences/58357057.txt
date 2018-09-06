@@ -1,0 +1,5 @@
+[/EN#243825/people A man] is standing on [/EN#243827/other a mountaintop] looking into [/EN#0/notvisual the distance] .
+[/EN#243825/people A man] is standing on [/EN#243827/other rocks] looking towards [/EN#243826/scene the mountains] .
+[/EN#243828/other A human figure] stands on [/EN#243826/scene the peak of a snowy mountain] .
+[/EN#243825/people Man] standing at [/EN#243826/scene the top of a mountain] at [/EN#243829/other dusk] .
+[/EN#243825/people a man] stands on top of [/EN#243826/scene a mountain] .

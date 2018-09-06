@@ -1,0 +1,5 @@
+[/EN#4934/people Two people] standing in front of [/EN#4935/scene a yellow building] with [/EN#4936/people a painted mural of an athlete] , [/EN#4937/people a rock group] , and [/EN#4938/other graffiti] .
+[/EN#4939/people A man] walks past [/EN#4937/people some graffiti of a group of guys] in [/EN#4940/clothing leather jackets] and [/EN#4941/clothing blue jeans] on [/EN#4935/other a tan wall] .
+[/EN#4934/people People] waiting outside [/EN#4935/scene a building] next to [/EN#4943/other a mural] .
+[/EN#4935/scene A side of a building] with [/EN#4943/other paintings] on [/EN#0/notvisual it] .
+[/EN#4934/people Three people] are on [/EN#4944/scene a sidewalk] .

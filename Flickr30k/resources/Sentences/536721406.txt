@@ -1,0 +1,5 @@
+[/EN#234654/animals A black and brown dog] chasing after [/EN#234655/animals a bull] in [/EN#234656/scene a fenced , muddy area] .
+[/EN#234654/animals A small black dog] chases [/EN#234655/animals a large animal] in [/EN#234656/scene a fenced area] .
+[/EN#234655/animals A bull] runs from [/EN#234654/animals an aggressive dog] behind [/EN#0/notvisual him] .
+[/EN#234658/other The dog barks] madly at [/EN#234655/animals the bull] in [/EN#234657/other the pen] .
+[/EN#234654/animals A dog] chases [/EN#234655/animals a bull] through [/EN#234657/other a muddy pen] .

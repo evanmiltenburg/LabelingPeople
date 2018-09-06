@@ -1,0 +1,5 @@
+[/EN#53193/people A man] in [/EN#53197/clothing a navy blue jacket] with [/EN#53198/bodyparts his hands] behind [/EN#53196/other his back] looking at [/EN#53195/people another man] with [/EN#53199/bodyparts a long beard] [/EN#0/notvisual who] has [/EN#53200/bodyparts his hand] on [/EN#53201/bodyparts his hip] .
+[/EN#53189/people Two men] in [/EN#53194/other Fez 's] have [/EN#53190/other a discussion] in [/EN#53192/scene an outdoor market] .
+[/EN#53189/people Two older gentlemen] are interacting with [/EN#0/notvisual one another] .
+[/EN#53189/people Two elderly men] meeting in front of [/EN#53192/scene a shop] .
+[/EN#53189/people Two men] talking to [/EN#53192/scene each other outside] .

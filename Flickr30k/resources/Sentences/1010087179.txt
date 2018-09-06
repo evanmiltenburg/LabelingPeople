@@ -1,0 +1,5 @@
+[/EN#301/people A tan man] with [/EN#302/other a backwards] [/EN#303/clothing hat] looks at [/EN#0/notvisual the camera] while walking through [/EN#304/scene a factory] .
+[/EN#301/people Older man] working in [/EN#304/scene a factory] not looking too excited about [/EN#306/other the photograph] .
+[/EN#301/people A man] in [/EN#307/clothing a white shirt] and [/EN#303/other black camp] among [/EN#305/other many machines] .
+[/EN#301/people A man] with [/EN#302/other a backwards] [/EN#303/clothing hat] works on [/EN#305/other machinery] .
+[/EN#301/people A man] wearing [/EN#303/clothing a backwards cap] at [/EN#309/other work] .

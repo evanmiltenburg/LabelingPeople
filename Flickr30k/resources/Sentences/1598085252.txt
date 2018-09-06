@@ -1,0 +1,5 @@
+[/EN#17215/animals Dog] running after [/EN#17219/animals another dog] in [/EN#17217/scene a grassy field] .
+[/EN#17215/animals The Doberman] is running through [/EN#17217/scene the tall grass] .
+[/EN#17215/animals A dog] is resting in [/EN#17217/scene a grassy field]
+[/EN#17215/animals A dog] runs through [/EN#17217/scene tall grass] .
+[/EN#17215/animals A dog] in [/EN#17217/scene a field] .

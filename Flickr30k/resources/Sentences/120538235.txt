@@ -1,0 +1,5 @@
+[/EN#5177/people A man] in [/EN#5183/clothing a striped red polo shirt] , [/EN#5184/clothing tan khakis] , and [/EN#5178/other a Nike visor] is surrounded by [/EN#5179/people a crowd of onlookers] as [/EN#0/notvisual he] finishes [/EN#5182/other a golf swing] .
+Surrounded by [/EN#5179/people spectators] , [/EN#5177/people a man] in [/EN#5183/clothing a red shirt] , [/EN#5184/clothing white pants] and [/EN#5178/other visor] , [/EN#5182/other swings] [/EN#5180/other a golf club] .
+[/EN#5177/people A golfer] wearing [/EN#5183/clothing a striped red polo shirt] and [/EN#5184/clothing white pants] watches [/EN#5181/other his drive] after [/EN#5182/other swinging] .
+[/EN#5177/people Golfer] takes [/EN#5182/other a swing] at [/EN#5180/other the ball] as [/EN#5179/people spectators] watch .
+[/EN#5177/people A professional golfer] hitting from [/EN#5185/other the tee box] .

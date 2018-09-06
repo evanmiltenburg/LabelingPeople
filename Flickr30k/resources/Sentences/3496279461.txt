@@ -1,0 +1,5 @@
+[/EN#122560/people 2 people] are in [/EN#122562/vehicles/scene a boat] wearing [/EN#122566/clothing straw hats] as [/EN#122561/people a man] paddles throughout [/EN#122565/scene a river] [/EN#0/notvisual that] very overgrown with [/EN#122570/other plants] .
+[/EN#122561/people An Asian man] navigates [/EN#122562/vehicles/scene a boat] carrying [/EN#122560/people 2 passengers] down [/EN#0/notvisual what] appears to be [/EN#122565/scene a river] deep in [/EN#122563/scene the forest] .
+[/EN#122560/people Two people] with [/EN#122566/clothing straw hats] ride in [/EN#122562/vehicles/scene a boat] with [/EN#122561/people the paddler] up [/EN#122569/scene front] .
+[/EN#122564/people a group of people] are canoeing down [/EN#122565/scene a river] through [/EN#122563/scene a rainforest] .
+[/EN#122561/people A man] is rowing [/EN#122567/other a canoe] with [/EN#122564/people several people] on [/EN#122568/other board] .

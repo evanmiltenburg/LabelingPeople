@@ -1,0 +1,5 @@
+[/EN#82114/people A boy] smiling , leaning over [/EN#82115/vehicles a wagon] filled with [/EN#82116/other two large pumpkins] .
+[/EN#82114/people A child] squats behind [/EN#82115/vehicles a wagon] with [/EN#82116/other two pumpkins] in [/EN#0/notvisual it] .
+[/EN#82114/people boy] pushing [/EN#82115/vehicles wagon] with [/EN#82116/other two pumpkins] in [/EN#0/notvisual it]
+[/EN#82114/people A boy] pushes [/EN#82115/vehicles a wagon] with [/EN#82116/other two pumpkins] .
+[/EN#82114/people a boy] pushes [/EN#82115/vehicles a wagon] full of [/EN#82116/other pumpkins] .

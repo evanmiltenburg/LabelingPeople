@@ -1,0 +1,5 @@
+[/EN#154305/people A man] in [/EN#154307/clothing a bight yellow shirt] carries [/EN#154306/other his wears] to [/EN#154312/scene market] in [/EN#154306/other a large basket] on [/EN#154308/bodyparts his head] .
+[/EN#154305/people A man] in [/EN#154307/clothing a yellow shirt] is walking away from [/EN#0/notvisual the camera] carrying [/EN#154306/other a basket] on [/EN#154308/bodyparts his head] .
+[/EN#154309/other A per] wearing [/EN#154307/clothing a yellow shirt] is walking down [/EN#154310/scene the street] carrying [/EN#154306/other a large basket] .
+[/EN#154305/people A black man] walks away with [/EN#154306/other a large basket full of items] on [/EN#154308/bodyparts his head] .
+[/EN#154305/people A person] with [/EN#154306/other a basket] on [/EN#154308/bodyparts their head] walks through [/EN#154305/people a crowd] .

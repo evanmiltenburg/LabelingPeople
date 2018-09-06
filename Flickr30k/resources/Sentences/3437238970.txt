@@ -1,0 +1,5 @@
+[/EN#118198/people A group of middle-aged women] stand at [/EN#118201/other a bus stop] ; [/EN#118199/people two of the women] prepare to board [/EN#118200/vehicles/scene the bus] .
+[/EN#118199/people Two women] with [/EN#118202/bodyparts dark hair] are standing together outside of [/EN#118200/vehicles/scene a bus] .
+[/EN#118198/people Two women] are standing next to [/EN#118200/vehicles/scene a bus] .
+[/EN#118199/people Two women] standing outside of [/EN#118200/vehicles/scene a bus] .
+[/EN#118199/people Two women] stand in front of [/EN#118200/vehicles/scene a bus] .

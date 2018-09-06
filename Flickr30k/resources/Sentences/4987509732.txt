@@ -1,0 +1,5 @@
+[/EN#226351/people Woman] in [/EN#226355/clothing a white shirt] , [/EN#226364/bodyparts long wet brown hair] , [/EN#226355/clothing beige vest] , [/EN#226356/clothing blue shirt] , sitting on [/EN#226354/other a wood chair] , looking off to [/EN#226363/scene her right] .
+[/EN#226351/people A woman] wearing [/EN#226355/clothing a tan vest] is sitting in [/EN#226354/other a chair] is [/EN#226357/scene a crowded street] .
+[/EN#226350/people A man] wearing [/EN#226356/clothing a blue shirt] and [/EN#226361/clothing baseball cap] is tied to [/EN#226359/other a pole]
+[/EN#226351/people A person] sitting on [/EN#226354/other chair] in front of [/EN#226353/people a crowd] .
+[/EN#226353/people People] gathering for [/EN#226351/scene an event]

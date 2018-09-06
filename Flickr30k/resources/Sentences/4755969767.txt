@@ -1,0 +1,5 @@
+[/EN#199179/scene A city street] has [/EN#199188/scene a oriental store] on [/EN#199184/scene the corner of a one way street] .
+[/EN#199184/scene photo of a street] in [/EN#199183/other chinatown section of US] [/EN#199181/scene city]
+[/EN#199187/people People] are walking on [/EN#199180/scene the sidewalk] in [/EN#199182/scene the city] .
+[/EN#199185/people A person] walking down [/EN#199180/scene the sidewalk] in [/EN#199182/scene a city] .
+[/EN#199186/scene Crosswalk] in [/EN#199181/scene an Asian city] .

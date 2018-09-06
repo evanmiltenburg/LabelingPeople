@@ -1,0 +1,5 @@
+[/EN#82528/animals A Greyhound dog] is wearing [/EN#82529/clothing a red jersey] with [/EN#82530/other the number one] on [/EN#0/notvisual it] and is [/EN#82534/other mid run] .
+[/EN#82528/animals A white greyhound dog] is wearing [/EN#82529/clothing a red jacket] with [/EN#82530/other the number one] printed on [/EN#0/notvisual it] .
+[/EN#82528/animals A greyhound] with [/EN#82529/clothing a red shirt] and [/EN#82533/clothing blue muzzle] on running [/EN#82532/other a race] .
+[/EN#82528/animals A large greyhound dog] races wearing [/EN#82529/clothing a red shirt] .
+[/EN#82531/clothing White] greyhound racing as [/EN#82530/other dog number 1] .

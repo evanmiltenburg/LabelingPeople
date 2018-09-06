@@ -1,0 +1,5 @@
+[/EN#135334/people A child] in [/EN#135336/clothing a yellow shirt] is playing [/EN#135335/other a red arcade ride] .
+[/EN#135334/people a young man] playing [/EN#135335/other a motorcycle video game] .
+[/EN#135334/people A small boy] is playing [/EN#135335/other a racing arcade game] .
+[/EN#135334/people A child] rides [/EN#135335/other a mechanical ride] .
+[/EN#135334/people A boy] rides [/EN#135335/other a game machine] .

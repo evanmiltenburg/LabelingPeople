@@ -1,0 +1,5 @@
+[/EN#273683/vehicles Three race cars] are on [/EN#273684/other a racetrack] decorated with [/EN#273688/other yellow signs] .
+[/EN#273682/vehicles A red race car] is beating [/EN#273687/vehicles two green race cars] around [/EN#273684/scene the track] .
+[/EN#273683/vehicles Formula one cars] racing [/EN#0/notvisual which] [/EN#273682/vehicles the red car] seems to be winning
+[/EN#273683/vehicles Three brightly colored cars] are racing around [/EN#273684/scene a track] .
+[/EN#273685/other Three Go Karts] are racing down [/EN#273684/scene a track] .

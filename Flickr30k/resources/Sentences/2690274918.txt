@@ -1,0 +1,5 @@
+While standing in [/EN#66396/scene a red kitchen] , [/EN#66393/people a man] in [/EN#66398/clothing a white shirt] is mixing [/EN#66400/other dressing] in [/EN#66394/other a large white bowl] while [/EN#66395/people a woman] in [/EN#66401/clothing a gray top] is working at [/EN#66400/other the counter] behind [/EN#0/notvisual him] .
+[/EN#66399/people Two people] cooking [/EN#66400/other a meal] together in [/EN#66396/scene a household kitchen] .
+[/EN#66393/people A man] preparing [/EN#66394/other dinner] with [/EN#66395/people a female companion] .
+[/EN#66393/people A man] in [/EN#66398/clothing a white shirt] mixes [/EN#66400/other liquid] in [/EN#66394/other a bowl] .
+[/EN#66393/people a man] and [/EN#66395/people woman] cook in [/EN#66396/scene a kitchen] painted red .

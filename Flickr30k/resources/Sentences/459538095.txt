@@ -1,0 +1,5 @@
+[/EN#181380/people Two men] are in [/EN#181383/scene an electronics workshop] , working on [/EN#181381/other computers] or [/EN#181381/other equipment] .
+[/EN#181379/people A man] in [/EN#181386/clothing a red shirt] is on [/EN#181381/other a computer] and [/EN#181379/people another man] is sitting near [/EN#0/notvisual him] .
+[/EN#181379/people An older man] and [/EN#181385/people women] are using [/EN#181381/other computers] in [/EN#181383/scene a sort of storage room] .
+[/EN#181380/people Two people] working on [/EN#181381/other computers] .
+[/EN#181380/people Two men] using [/EN#181381/other a computer] .

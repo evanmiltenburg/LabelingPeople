@@ -1,0 +1,5 @@
+[/EN#167016/people A man] in [/EN#167017/clothing a black jacket] standing beside [/EN#167019/other a green mailbox] thoroughly soiled by [/EN#167018/animals a group of pigeons] [/EN#0/notvisual that] are nearby .
+[/EN#167016/people An older man] wearing [/EN#167017/clothing a leather coat] and [/EN#167022/clothing cowboy hat] by [/EN#167019/other a mailbox] standing on [/EN#167021/scene the street] near [/EN#167018/animals a flock of pigeons] .
+[/EN#167016/people A man] in [/EN#167017/clothing a leather jacket] and [/EN#167022/clothing cowboy style hat] standing beside [/EN#167019/other a mailbox] and [/EN#167018/animals group of birds] .
+[/EN#167016/people A man] in [/EN#167017/clothing a leather jacket] and [/EN#167022/clothing cowboy hat] holds [/EN#167023/bodyparts his hand] out on [/EN#167021/scene the street] .
+[/EN#167016/people An old man] in [/EN#167017/clothing a black vest] next to [/EN#167019/other a green mailbox] .

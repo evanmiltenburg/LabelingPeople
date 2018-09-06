@@ -1,0 +1,5 @@
+[/EN#138527/people Two children] and [/EN#138528/animals a dog] play in [/EN#138529/scene the snow] with [/EN#138530/other a woods] behind [/EN#0/notvisual them] .
+[/EN#138527/people Two children] and [/EN#138528/animals a black dog] are playing out in [/EN#138529/scene the snow] .
+[/EN#138527/people Two children] and [/EN#138528/animals a dog] running around in [/EN#138529/scene snow] .
+[/EN#138527/people two children] and [/EN#138528/animals their dog] play in [/EN#138529/scene the snow] .
+[/EN#138527/people Two kids] and [/EN#138528/animals a dog] play in [/EN#138529/scene the snow] .

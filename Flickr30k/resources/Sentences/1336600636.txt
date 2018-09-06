@@ -1,0 +1,5 @@
+[/EN#9062/people A female street vendor] is standing inside [/EN#9057/scene her kiosks] [/EN#0/notvisual which] appears to sell [/EN#9060/other a variety of foreign and handmade snacks] .
+[/EN#9062/people A woman] in [/EN#9061/clothing a flower pattern shirt] standing in [/EN#9059/other a convenience] [/EN#9057/scene store-like stand]
+[/EN#9062/people A woman] smiles at [/EN#9058/scene the register of a small shop] .
+[/EN#9062/people A vendor] standing in [/EN#9058/scene the window of her shop] .
+[/EN#9062/people One lady] working at [/EN#9057/scene a convenience store] .

@@ -1,0 +1,5 @@
+[/EN#206994/people A young girl] with [/EN#206996/bodyparts ponytails] and [/EN#206999/clothing a pink shirt] rides [/EN#206995/vehicles a bike] with [/EN#206997/other training wheels]
+[/EN#206994/people A little girl] with [/EN#206996/bodyparts black pigtails] riding [/EN#206995/vehicles a pink bicycle] with [/EN#206997/other training wheels] .
+[/EN#206994/people A little girl] with [/EN#206996/bodyparts braided pigtails] riding [/EN#206995/vehicles a pink bike] .
+[/EN#206994/people A little girl] with [/EN#206996/bodyparts pigtails] rides [/EN#206995/vehicles her pink bike] .
+[/EN#206994/people A girl] with [/EN#206996/bodyparts dark hair] riding [/EN#206995/vehicles a pink bicycle] .

@@ -1,0 +1,5 @@
+[/EN#114823/people A man] in [/EN#114826/clothing glasses] and [/EN#114825/clothing a white coat] with [/EN#114827/other the name tag " Jim "] smiles .
+[/EN#114823/people A man] [/EN#0/notvisual who] is wearing [/EN#114826/clothing glasses] and [/EN#114825/clothing a lab coat] is smiling .
+[/EN#114823/people A man] named [/EN#114823/other Jim] in [/EN#114825/clothing a lab coat] smiles at [/EN#0/notvisual the camera] .
+[/EN#114823/other A picture of Jim] [/EN#0/notvisual who] wears [/EN#114826/clothing glasses] in [/EN#114825/clothing a lab coat] .
+[/EN#114823/other Jim] has [/EN#114828/bodyparts a grimace] on [/EN#114829/bodyparts his face] .

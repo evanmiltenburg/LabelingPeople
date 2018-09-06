@@ -1,0 +1,5 @@
+[/EN#99261/animals The mouse] is sitting on [/EN#99260/animals the dog] [/EN#0/notvisual that] is in [/EN#99269/other turn] sitting on [/EN#99262/clothing a coat] in front of [/EN#99264/people the man] wearing [/EN#99263/clothing the black top] .
+[/EN#99260/animals A white and brown dog] is laying down on [/EN#99262/clothing a red jacket] with [/EN#99261/animals a rodent] standing on [/EN#0/notvisual it] .
+[/EN#99260/animals Big brown and white spotted dog] laying on [/EN#99262/clothing a jacket] on [/EN#99266/scene the street] .
+[/EN#99260/animals A dog] sits on [/EN#99262/other a red blanket] with [/EN#99264/people a man] in [/EN#99263/clothing a dark hoodie] .
+[/EN#99260/animals THe dog] takes [/EN#99260/other a rest] in [/EN#99265/scene the park] .

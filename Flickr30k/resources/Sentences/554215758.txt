@@ -1,0 +1,5 @@
+[/EN#238545/people 5 men] all in [/EN#238552/clothing white shirts] gathered around [/EN#238549/other a red piece of machinery] .
+[/EN#238545/people Several people] is [/EN#238551/clothing hard hats] are standing on [/EN#238550/other a structure] .
+[/EN#238547/other Hard] hatted [/EN#238545/people construction workers] wait to board [/EN#238546/scene a lift] .
+[/EN#238545/people Construction workers] are waiting to use [/EN#238546/scene the elevator] .
+[/EN#238545/people A group of workers] are entering [/EN#238548/scene a construction site] .

@@ -1,0 +1,5 @@
+[/EN#4479/people Two people] are standing on [/EN#4481/scene the slopes of a mountain] and [/EN#0/notvisual they] have [/EN#4480/animals a dog] with [/EN#0/notvisual them] .
+[/EN#4478/people A man] , [/EN#4482/people his little son] and [/EN#4480/animals their dog] going for [/EN#4484/other a walk] in [/EN#4481/scene the mountains] .
+[/EN#4479/people Two men] and [/EN#4480/animals a white dog] stand in [/EN#4483/scene a meadow] near [/EN#4481/scene a steep hill] .
+[/EN#4479/people Two men] and [/EN#4480/animals a dog] are standing among rolling [/EN#4481/scene green hills] .
+[/EN#4478/people A father] and [/EN#4482/people son] are enjoying [/EN#4481/scene wide open fields] .

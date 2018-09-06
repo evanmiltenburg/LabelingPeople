@@ -1,0 +1,5 @@
+[/EN#83106/people A guy] wearing [/EN#83109/clothing a blue t-shirt] , [/EN#83107/clothing a green and white hat] , [/EN#83112/clothing shorts] and [/EN#83115/clothing sandals] is cleaning out [/EN#83111/scene an enclosed pool] .
+[/EN#83106/people Man] wearing [/EN#83108/clothing flip-flops] , [/EN#83107/clothing baseball cap] , and [/EN#83112/clothing shorts] holding [/EN#83114/other handle of an item] in [/EN#83111/scene a pool] .
+[/EN#83106/people A man] wearing [/EN#83109/clothing an Astro Boy t-shirt] and wearing [/EN#83107/clothing a baseball hat] is cleaning [/EN#83111/scene a pool] .
+[/EN#83106/people A man] wearing [/EN#83109/clothing an astro boy shirt] and [/EN#83107/clothing a green hat] cleans [/EN#83111/scene a pool] .
+[/EN#83106/people A man] wearing [/EN#83107/clothing a hat] is cleaning [/EN#83111/scene a pool] with [/EN#83113/other a large net] .

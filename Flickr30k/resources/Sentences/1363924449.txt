@@ -1,0 +1,5 @@
+[/EN#10079/people The blond boy] wearing [/EN#10080/clothing a striped shirt] is walking through [/EN#10083/scene the grass] .
+[/EN#10079/people A little boy] in [/EN#10080/clothing a striped shirt] has [/EN#10081/bodyparts his hands] on [/EN#10082/bodyparts his head] .
+[/EN#10079/people A little boy] stands with [/EN#10081/bodyparts his hands] on top of [/EN#10082/bodyparts his head]
+[/EN#10079/people A child] with [/EN#10081/bodyparts his hands] on [/EN#10082/bodyparts his head] .
+[/EN#10079/people A boy] holds [/EN#10081/bodyparts his hands] on [/EN#10082/bodyparts his head] .

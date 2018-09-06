@@ -1,0 +1,5 @@
+[/EN#115764/people A man] in [/EN#115770/clothing a striped red shirt] leans in [/EN#115772/scene his truck 's passenger seat] and plays with [/EN#115765/clothing a jacket sleeve] .
+[/EN#115764/people A man] in [/EN#115770/clothing a red shirt] is rolling up [/EN#115769/clothing the sleeve of a jacket] [/EN#0/notvisual that] is lying on [/EN#115774/vehicles his cars] [/EN#115772/scene front seat] .
+[/EN#115764/people man] wearing [/EN#115770/clothing red shirt] and [/EN#115773/clothing blue jeans] standing by [/EN#115771/vehicles car] .
+[/EN#115764/people A young man] rolling up [/EN#115767/clothing the sleeves] on [/EN#115766/clothing his sweater] .
+[/EN#115764/people A man] checking [/EN#115766/clothing clothing] in [/EN#115771/vehicles the back of his car] .

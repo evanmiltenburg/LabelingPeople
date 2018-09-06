@@ -1,0 +1,5 @@
+[/EN#50648/people The man] wearing [/EN#50649/clothing a tan hat] and [/EN#50650/clothing white shirt] holds [/EN#50651/animals his brown dog] [/EN#0/notvisual which] is wearing [/EN#50652/clothing an orange collar] .
+[/EN#50648/people A man] in [/EN#50650/clothing a white shirt] is leaning over [/EN#50651/animals a brown dog] in [/EN#50652/clothing an orange collar] .
+[/EN#50648/people A man] is crouching down holding on to [/EN#50651/animals his large brown dog] .
+[/EN#50648/people A man] holds [/EN#50651/animals his brown dog] back from jumping in [/EN#50654/scene the water] .
+[/EN#50648/people a man] standing behind [/EN#50651/animals a black dog] with [/EN#50652/clothing a red collar]

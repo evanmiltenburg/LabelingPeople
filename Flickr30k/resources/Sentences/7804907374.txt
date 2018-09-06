@@ -1,0 +1,5 @@
+[/EN#275428/people A woman] in [/EN#275429/clothing a pink shirt] riding [/EN#275430/animals a black and white horse] jumps over [/EN#275431/other a black and white striped pole] .
+[/EN#275428/people A young lady] wearing [/EN#275429/clothing a pink shirt] is [/EN#275434/other one the back] of [/EN#275430/animals a black white and gray jumping horse] .
+[/EN#275430/animals a horse] is jumping over [/EN#275432/scene a bar] with [/EN#275428/people a woman] on [/EN#0/notvisual it] like [/EN#275436/scene an equestrian event]
+[/EN#275428/people A woman] on [/EN#275430/animals a gray and white horse] is jumping over [/EN#275431/other an obstacle] .
+[/EN#275428/people A horse-rider] with [/EN#275430/animals their horse] as [/EN#0/notvisual it] jumps over [/EN#275433/other obstacles] .

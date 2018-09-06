@@ -1,0 +1,5 @@
+[/EN#145320/other A motorcycle] is stopped to wait for [/EN#145319/people a man] crossing [/EN#145323/scene the street] with [/EN#145322/instruments a guitar] .
+[/EN#145321/people Two people] on [/EN#145324/vehicles a scooter] wait for [/EN#145319/people a man] with [/EN#145322/other guitar case] to cross [/EN#145323/scene the street] .
+[/EN#145321/people Two people] on [/EN#145324/vehicles a scooter] wait for [/EN#145319/people a man] carrying [/EN#145322/instruments a guitar] to cross [/EN#145323/scene the road] .
+[/EN#145319/people A man] in [/EN#145328/clothing a white shirt] crossing [/EN#145323/scene the street] in [/EN#145325/scene a city] holding [/EN#145322/instruments a guitar] .
+[/EN#145321/people Two people] on [/EN#145320/other a motorcycle] riding through [/EN#145326/other chinatown] .

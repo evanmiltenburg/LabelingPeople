@@ -1,0 +1,5 @@
+[/EN#49081/animals A large , black dog] is chasing [/EN#49080/animals two geese] in [/EN#49082/scene a field] .
+[/EN#49081/animals A dog] chasing [/EN#49080/animals 2 geese] in [/EN#49082/scene an open field] .
+[/EN#49081/animals Dog] runs after [/EN#49080/animals two geese] in [/EN#49082/scene field]
+[/EN#49081/animals A black dog] chasing [/EN#49080/animals geese] .
+[/EN#49081/animals A dog] chases [/EN#49080/animals two geese] .

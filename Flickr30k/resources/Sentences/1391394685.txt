@@ -1,0 +1,5 @@
+[/EN#10963/people A man] wearing [/EN#10964/clothing a black suit] is surrounded by [/EN#10965/people many people] inside [/EN#10973/scene a building] with [/EN#10966/people busts of people] on [/EN#10967/other the wall] .
+[/EN#10963/people A very well dressed man] standing in [/EN#10968/scene the middle of a room] with [/EN#10965/people lots of casually dressed people] .
+[/EN#10963/people A young man] in [/EN#10964/clothing a suit] standing out from [/EN#10965/people the crowd] , at [/EN#0/notvisual what] appears to be [/EN#10972/other an art exhibition] .
+[/EN#10963/people A man] in [/EN#10964/clothing a black suit] with [/EN#10969/clothing a white bowtie] standing in [/EN#10974/scene the middle of a crowded room] .
+[/EN#10963/people A person] wearing [/EN#10964/clothing a tuxedo] is standing [/EN#10970/scene a floor] with [/EN#10971/other black and white squares] .

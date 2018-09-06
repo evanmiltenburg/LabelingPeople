@@ -1,0 +1,5 @@
+[/EN#138895/people A fat woman] wearing [/EN#138897/clothing a blue tank top] and [/EN#138896/clothing a backpack] , eating [/EN#138898/animals a chili cheese dog]
+[/EN#138895/people A woman] in [/EN#138897/clothing a blue shirt] with [/EN#138896/clothing a backpack] eating [/EN#138898/other a hotdog] .
+[/EN#138895/people A woman] in [/EN#138897/clothing a blue tank top] eats [/EN#138898/other a chili cheese hotdog] .
+[/EN#138895/people An obese woman] holding [/EN#138898/animals a chili dog] in [/EN#138901/bodyparts her right hand] .
+[/EN#138895/people A woman] holding [/EN#138898/other a giant hotdog] covered with [/EN#138900/other mustard] .

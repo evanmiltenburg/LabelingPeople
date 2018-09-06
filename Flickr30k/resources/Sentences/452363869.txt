@@ -1,0 +1,5 @@
+[/EN#175247/animals A dog] and [/EN#175249/other a ball] on [/EN#175248/scene green grass] and in front of [/EN#175251/other trees] .
+[/EN#175248/scene Green grass field] , [/EN#175247/animals a black dog] running after [/EN#175249/other a ball] .
+[/EN#175247/animals A black dog] is chasing [/EN#175249/other a ball] on [/EN#175250/scene a green grass] .
+[/EN#175247/animals A black dog] chases [/EN#175249/other a ball] in [/EN#175250/scene the grass] .
+[/EN#175247/animals A dog] chases [/EN#175249/other a ball] in [/EN#175248/scene the grass] .

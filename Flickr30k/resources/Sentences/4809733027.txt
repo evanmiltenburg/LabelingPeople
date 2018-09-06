@@ -1,0 +1,5 @@
+[/EN#205353/people A man] in [/EN#205354/clothing a light blue shirt] with [/EN#205361/bodyparts his hand] in [/EN#205359/clothing his pocket] walks along [/EN#205356/scene a road] with [/EN#205355/scene large buildings] .
+[/EN#205353/people A man] in [/EN#205354/clothing a gray t-shirt] walks down [/EN#205356/scene a public street] past [/EN#205355/scene a pair of tall office buildings] .
+[/EN#205353/people Man] walking with [/EN#205357/scene tall buildings] with [/EN#205362/other reflections] behind [/EN#0/notvisual him] .
+[/EN#205353/people A man] walking through [/EN#205358/scene a large city] with [/EN#205357/scene skyscrapers] .
+[/EN#205363/vehicles Vehicles] and [/EN#205353/scene pedestrians pass] by [/EN#205355/scene nearby skyscrapers] .

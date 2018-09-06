@@ -1,0 +1,5 @@
+[/EN#251524/people a woman] is looking into [/EN#251526/other a microscope] sitting at [/EN#251527/other a desk] .
+[/EN#251524/people The woman] in [/EN#251525/clothing the lab coat] is using [/EN#251526/other the microscope] .
+[/EN#251524/people A woman] in [/EN#251529/scene a laboratory] looking into [/EN#251526/other a microscope] .
+[/EN#251524/people Woman] looking through [/EN#251526/other microscope] with [/EN#251528/clothing gloves] on .
+[/EN#251524/people A scientist] in [/EN#251525/clothing a lab coat] is using [/EN#251526/other a microscope] .

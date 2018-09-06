@@ -1,0 +1,5 @@
+[/EN#80254/people Many people] walk on [/EN#80254/scene a sidewalk] filled with [/EN#80256/other blue street signs] next to [/EN#80262/scene a row of buildings] including [/EN#80257/other one] with [/EN#80258/other yellow balconies] .
+[/EN#80254/people People] are walking down [/EN#80254/scene a street] next to [/EN#80259/vehicles multiple blue taxi cabs] .
+[/EN#80254/people Pedestrians] walk around [/EN#80260/vehicles cars] on [/EN#80254/scene a busy street] .
+[/EN#80254/people View of busy pedestrians] along [/EN#80263/scene a road] in [/EN#80264/other Asia] .
+[/EN#80265/scene A crowded city] during [/EN#80261/other rush hour] .

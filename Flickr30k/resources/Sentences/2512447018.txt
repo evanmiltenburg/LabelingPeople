@@ -1,0 +1,5 @@
+[/EN#54369/people An African American boy] is eating with [/EN#54371/other a spoon] while [/EN#54369/people a man] , sitting against [/EN#0/notvisual a green background] , watches .
+[/EN#54369/scene A young boy of African descent] is sipping [/EN#54372/other soup] from [/EN#54371/other a spoon] .
+[/EN#54369/people Black boy] , [/EN#0/notvisual who] seems to be at [/EN#54375/other a school] , sipping on [/EN#54372/other soup] .
+[/EN#54369/people An African boy] sips on [/EN#54371/other his spoon] in [/EN#54374/scene a green room] .
+[/EN#54369/people A child] eats from [/EN#54371/other a spoon] .

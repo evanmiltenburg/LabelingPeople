@@ -1,0 +1,5 @@
+[/EN#157699/people A girl] wears [/EN#157705/clothing a red dress] with [/EN#157706/clothing a striped shirt] as [/EN#0/notvisual she] point to [/EN#157702/other a book] held buy [/EN#157700/people a woman] in [/EN#157701/clothing a blue sweatshirt] .
+[/EN#157700/people A woman] wearing [/EN#157701/clothing blue clothing] shows [/EN#157702/other a picture book] to [/EN#157703/people several small children] .
+[/EN#157700/people A teacher] instructing [/EN#157703/people young children] in [/EN#157707/scene a classroom] .
+[/EN#157700/people A woman] sitting in [/EN#157704/other a chair] showing [/EN#157703/people children] [/EN#157702/other a book] .
+[/EN#157699/people A little girl] points at [/EN#157702/other a book] .

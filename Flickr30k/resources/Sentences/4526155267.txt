@@ -1,0 +1,5 @@
+[/EN#175627/people An old woman] dressed in [/EN#175630/clothing a red coat] holds [/EN#175629/clothing a red bag] and [/EN#175628/clothing a pink umbrella] .
+[/EN#175627/people An elderly woman] using [/EN#175628/clothing a pink umbrella] to shade [/EN#0/notvisual herself] from [/EN#175632/other the sun] .
+[/EN#175627/people An elderly woman] with [/EN#175628/clothing a pink umbrella] is walking down [/EN#175633/scene the street] .
+[/EN#175627/people A woman] with [/EN#175629/clothing a red bag] is holding [/EN#175628/clothing a pink umbrella] .
+[/EN#175627/people A woman] walks under [/EN#175631/clothing the shade of her umbrella] .

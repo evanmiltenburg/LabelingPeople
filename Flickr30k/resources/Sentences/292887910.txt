@@ -1,0 +1,5 @@
+[/EN#82047/animals A white dog] with [/EN#82048/other brown markings] chases [/EN#82049/other an orange ball] in [/EN#82051/scene a grassy field] .
+[/EN#82047/animals A white dog] with [/EN#82048/scene brown spots] is running in [/EN#82051/scene a yard] , chasing [/EN#82049/other a ball] .
+[/EN#82047/animals The white and brown dog] runs on [/EN#82051/scene a field] for [/EN#82049/other an orange ball] .
+[/EN#82047/animals Dog] on [/EN#82051/scene grass] , running for [/EN#82049/other red ball] .
+[/EN#82047/animals Small white dog] chases [/EN#82049/other orange ball]

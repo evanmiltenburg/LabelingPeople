@@ -1,0 +1,5 @@
+[/EN#51198/people Several people] stand in [/EN#51202/scene a forest area] while [/EN#51199/people a man] in [/EN#51200/clothing a black shirt] sits in [/EN#0/notvisual the distance] .
+[/EN#51198/people Three people] standing in [/EN#51198/people a group] at [/EN#51202/scene a park] and [/EN#51199/people one man] reading at [/EN#51202/scene a park] .
+[/EN#51199/people Boys] sitting on [/EN#0/notvisual the ground] writing .
+[/EN#51201/people A few people] in [/EN#51202/scene a public park] .
+[/EN#51199/people People] sitting in [/EN#51202/scene a park] .

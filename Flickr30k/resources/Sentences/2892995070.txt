@@ -1,0 +1,5 @@
+[/EN#79580/animals A black dog] is running along [/EN#79582/scene the beach] beside [/EN#79581/animals a brown dog] in [/EN#79584/scene midair] catching [/EN#79583/other a stick] in [/EN#79587/bodyparts its mouth] .
+[/EN#79580/animals A black dog] runs on [/EN#79582/scene the shore] while [/EN#79581/animals a light brown dog] jumps up to catch [/EN#79583/other a stick] .
+[/EN#79581/animals A brown dog] leaps into [/EN#0/notvisual the air] next to [/EN#79580/animals a black dog] on [/EN#79582/scene a sandy bay] .
+On [/EN#79585/animals a beach , black and brown dog] runs , [/EN#79581/animals brown dog] jumps .
+[/EN#79585/animals Two dogs] are playing together

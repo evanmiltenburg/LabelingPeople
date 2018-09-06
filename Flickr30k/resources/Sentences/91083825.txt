@@ -1,0 +1,5 @@
+[/EN#283381/people The women] wearing [/EN#283384/clothing a white tank top] and [/EN#283388/bodyparts a brown hair] [/EN#283387/clothing tie] appears to be painting very rapidly in [/EN#283382/clothing the color green] .
+[/EN#283381/people A brunette woman] in [/EN#283385/clothing glasses] and [/EN#283384/clothing a white tank top] paints [/EN#283382/clothing a wall green] .
+[/EN#283381/people A woman] in [/EN#283384/clothing a white shirt] and [/EN#283385/clothing glasses] is painting [/EN#283382/clothing a white wall green] .
+[/EN#283381/people A woman] in [/EN#283384/clothing a white tank top] is painting [/EN#283382/other a green wall] .
+[/EN#283381/people A woman] is painting [/EN#283382/other a wall] [/EN#283382/other a green color] .

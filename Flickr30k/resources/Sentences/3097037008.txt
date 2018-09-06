@@ -1,0 +1,5 @@
+[/EN#93362/people A little girl] is vacuuming [/EN#93369/scene the floor] while [/EN#93364/people two other children] look on .
+[/EN#93365/people Three children] are in [/EN#93366/scene a room] and [/EN#93362/other one] plays with [/EN#93363/other a vacuum] cleaner .
+[/EN#93362/people Little girl] plays with [/EN#93363/other vacuum] as [/EN#93364/people other children] look on .
+[/EN#93362/people A young girl] vacuuming while [/EN#93364/people two boys] watch [/EN#0/notvisual her] .
+[/EN#93362/people A little girl] is using [/EN#93363/people the vacuum cleaner] .

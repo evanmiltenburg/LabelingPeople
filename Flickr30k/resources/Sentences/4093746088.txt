@@ -1,0 +1,5 @@
+[/EN#155119/people This man] with [/EN#155120/clothing a white hard hat] , and [/EN#155123/clothing gray vest] , and [/EN#155124/clothing long-sleeve shirt] is standing on top of [/EN#155122/scene a roof] .
+[/EN#155119/people A worker] in [/EN#155120/clothing a hard hat] standing on [/EN#155122/scene a roof] looks off into [/EN#0/notvisual the distance] .
+[/EN#155119/people An electrician] is working to install [/EN#155126/other wires] upon [/EN#155121/other a pole] on [/EN#155122/scene a roof] .
+[/EN#155119/people A guy] standing by [/EN#155121/other an electric pole] and posing while at [/EN#155127/other work] .
+[/EN#155119/people A man] in [/EN#155120/clothing a hard hat] is standing on [/EN#155122/scene a roof] .

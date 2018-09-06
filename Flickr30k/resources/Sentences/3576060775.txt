@@ -1,0 +1,5 @@
+[/EN#128797/people A person] dressed in [/EN#128803/clothing jeans] running with [/EN#128802/animals two dogs] on [/EN#128800/scene the shore of a lake] .
+[/EN#128797/people A girl] runs along [/EN#128804/other a riverbank] with [/EN#128802/animals two black dogs] .
+[/EN#128798/animals Two dogs] run with [/EN#128797/people a young child] along [/EN#128800/scene a lake]
+[/EN#128797/people Woman] running with [/EN#128802/animals two dogs] near [/EN#128799/scene water] .
+[/EN#128798/animals dogs] playing with [/EN#128797/people their owner] by [/EN#128800/scene a pond]

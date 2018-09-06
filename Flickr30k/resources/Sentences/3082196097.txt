@@ -1,0 +1,5 @@
+[/EN#91945/people A man] in [/EN#91950/clothing a white shirt] and tie [/EN#91951/other sings] into [/EN#91949/other a microphone] while [/EN#91947/people a woman] wearing [/EN#91950/clothing a white shirt] and [/EN#91954/clothing tie] plays [/EN#91948/instruments the guitar] at [/EN#91946/other a concert] .
+[/EN#91945/people A singer] in [/EN#91950/clothing a white button-down shirt] is performing while [/EN#91947/people a girl] plays [/EN#91948/instruments the guitar] in [/EN#91952/other the back] .
+[/EN#91945/people The man] with [/EN#91955/bodyparts short hair] has [/EN#91949/other a microphone] in [/EN#91956/bodyparts his hand] and [/EN#91947/people the other man] is playing [/EN#91948/instruments guitar] .
+[/EN#91945/people a singer] singing on [/EN#91946/other stange] with [/EN#91947/people a guitar player] in [/EN#0/notvisual the background] .
+[/EN#91945/people A singer] and [/EN#91947/people guitarist] performing .

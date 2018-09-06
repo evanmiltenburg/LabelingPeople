@@ -1,0 +1,5 @@
+[/EN#35559/people A person] with [/EN#35560/clothing a yellow umbrella] squats alone on [/EN#35564/scene a beach] , looking towards [/EN#35561/scene the water] .
+[/EN#35564/scene a beach] with [/EN#35562/other footprints] on [/EN#35563/other the sand] [/EN#35559/people a person] sitting down with [/EN#35560/clothing an umbrella]
+[/EN#35559/people A person] is squatting with [/EN#35560/clothing a yellow umbrella] on [/EN#35564/scene a beach] .
+[/EN#35559/people A person] crouches under [/EN#35560/clothing a yellow umbrella] on [/EN#35564/scene the beach] .
+[/EN#35559/people Person] on [/EN#35564/scene beach] with [/EN#35560/clothing an umbrella] .

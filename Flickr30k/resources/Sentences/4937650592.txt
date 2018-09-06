@@ -1,0 +1,5 @@
+[/EN#220703/people A motorcycle racer] riding [/EN#220708/other a yellow motorcycle] with [/EN#220715/other the number 33] is passing [/EN#220707/other a green banner] with [/EN#220705/other the Kawasaki logo] .
+[/EN#220704/people Motorcyclist] racing on [/EN#220709/scene a track] with [/EN#220708/vehicles a yellow dirt bike] and [/EN#220706/other a Kawasaki-branded green advertisement sign] .
+[/EN#0/notvisual There] is [/EN#220704/people a rider] on [/EN#220708/vehicles a dirt bike] in [/EN#220714/other race gear] on [/EN#220709/scene a paved track] .
+[/EN#220703/people A motocross biker] rides [/EN#220713/other mid-turn] in [/EN#220710/other the middle of a race] .
+[/EN#220703/people A man] riding [/EN#220708/vehicles a dirt bike] on [/EN#220709/other a racetrack] .

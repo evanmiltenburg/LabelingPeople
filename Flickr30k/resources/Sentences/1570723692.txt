@@ -1,0 +1,5 @@
+[/EN#16637/animals Two little dogs] are lying on [/EN#16638/scene the green grass] and [/EN#16635/animals a larger dog] looks down on [/EN#0/notvisual them] .
+[/EN#16635/animals A large orange dog] and [/EN#16639/animals a little orange dog] with [/EN#16640/animals another third dog] in [/EN#16638/scene the grass] .
+[/EN#16636/animals Three dogs] greeting [/EN#0/notvisual each other] in [/EN#16638/scene a field of green grass] .
+[/EN#16636/animals Three dogs] sniffing [/EN#0/notvisual each other] .
+[/EN#16637/animals Two dogs] and [/EN#16639/animals a puppy] .

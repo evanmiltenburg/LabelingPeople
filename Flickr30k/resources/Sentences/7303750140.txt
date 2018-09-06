@@ -1,0 +1,5 @@
+[/EN#268226/people A man] with [/EN#268236/clothing glasses] is playing [/EN#268231/instruments his instrument] in [/EN#268233/people a small crown of people] [/EN#0/notvisual that] includes [/EN#268225/people another man] in [/EN#268228/clothing a suit] with [/EN#268231/instruments a trumpet] .
+[/EN#268226/people A tuba player] dressed in [/EN#268229/clothing formal attire] performs along with [/EN#268225/people his band mates] , [/EN#268231/people a banjo player] and [/EN#268225/people a trumpet player] .
+[/EN#268226/people A man] is playing [/EN#268231/other a tuba] with [/EN#268225/people other men] around [/EN#0/notvisual him] holding [/EN#268230/instruments other musical instruments] .
+[/EN#268226/people A man] is playing [/EN#268230/instruments musical instruments] in [/EN#268238/scene the field] .
+[/EN#268225/people The band] plays during [/EN#268232/other the outdoor festivity] .

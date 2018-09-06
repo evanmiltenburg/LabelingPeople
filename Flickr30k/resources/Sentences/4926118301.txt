@@ -1,0 +1,5 @@
+[/EN#219004/people A woman] dressed in [/EN#219010/clothing a silver tank top and black] pants walks down [/EN#219006/scene the sidewalk] in [/EN#219009/scene a poor area of a city] .
+[/EN#219004/people A woman] is walking on [/EN#219006/scene a sidewalk] across [/EN#219006/scene the street] from [/EN#219008/other a Discount food] and [/EN#219008/scene clothing store] .
+[/EN#219004/people A blond girl] with [/EN#219014/clothing dark sunglasses] , [/EN#219007/clothing white tank top] , and [/EN#219012/clothing blue jeans] walks down [/EN#219005/scene a sidewalk] .
+[/EN#219004/people A woman] walks down [/EN#219006/scene a sidewalk] next to [/EN#219005/scene a busy street] .
+[/EN#219004/people A blond woman] in [/EN#219007/clothing a silver shirt] is talking [/EN#219011/other a walk] .

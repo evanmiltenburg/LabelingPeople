@@ -1,0 +1,5 @@
+[/EN#36105/people A short-haired man] in [/EN#36109/clothing a pink striped shirt] is turned away from [/EN#0/notvisual the camera] while holding [/EN#36107/other a tray] carrying [/EN#36106/clothing a number of glasses] , while [/EN#36108/people a frizzy-haired woman] looks on .
+[/EN#36105/people A waiter] carries [/EN#36106/clothing a tray of tall glasses] and [/EN#36110/other one black mug] .
+[/EN#36105/people A male waiter] carries [/EN#36107/other a tray] full of [/EN#36106/clothing glasses] .
+[/EN#36105/people A man] is serving [/EN#36106/other drinks] to [/EN#36108/people people] .
+[/EN#36105/people A man] carries [/EN#36106/clothing a tray of glasses] .

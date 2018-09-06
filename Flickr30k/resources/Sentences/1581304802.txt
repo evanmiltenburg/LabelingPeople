@@ -1,0 +1,5 @@
+[/EN#16986/people A police officer] on [/EN#16987/other a motorcycle] is behind [/EN#16988/other a four door sedan] on [/EN#16989/scene a road] with [/EN#16990/other billboards] in [/EN#0/notvisual the distance] .
+[/EN#16986/people A policeman] on [/EN#16987/other a motorcycle] is stopped behind [/EN#16988/vehicles a car] [/EN#0/notvisual he] pulled over .
+[/EN#16986/people A police] officers on [/EN#16987/other a motorcycle] pulls up behind [/EN#16988/other a silver sedan] .
+[/EN#16986/people A policeman] stopping [/EN#16988/vehicles a vehicle] on [/EN#16989/scene the side of the road] .
+[/EN#16986/people a motorcycle cop] signaling [/EN#16992/people a driver] to pull over

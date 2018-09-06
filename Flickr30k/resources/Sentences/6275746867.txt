@@ -1,0 +1,5 @@
+[/EN#251454/people A person] wearing [/EN#251455/clothing deep sea scuba diving gear] standing in front of [/EN#251456/scene a body of water] [/EN#0/notvisual that] is surrounded by [/EN#251457/scene hills] .
+[/EN#0/notvisual There] is [/EN#251454/people a guy] in [/EN#251455/clothing a scuba outfit] and [/EN#0/notvisual he] is in front of [/EN#251456/scene water] and [/EN#251457/scene mountains] .
+[/EN#251454/people A man] on [/EN#251458/vehicles/scene a boat] is wearing [/EN#251455/clothing a diving outfit] and looking at [/EN#0/notvisual the camera] .
+[/EN#251454/people A person] in [/EN#251455/clothing SCUBA gear] poses in front of [/EN#251456/scene a vast expanse of water] .
+[/EN#251454/people Someone] dressed in [/EN#251455/clothing scuba gear] has [/EN#251456/scene a body of water] behind [/EN#0/notvisual him] .

@@ -1,0 +1,5 @@
+[/EN#231316/people A woman] in [/EN#231319/clothing a purple sweatshirt] with [/EN#231318/clothing a large ivory hat] is painting [/EN#231317/other a scene of a boat launch] on [/EN#231317/other her canvas] , affixed to [/EN#231320/other an easel] .
+[/EN#231316/people A person] , wearing [/EN#231318/clothing a hat] and [/EN#231319/clothing a purple sweatshirt] , painting [/EN#231317/scene a scene of a harbor] .
+[/EN#231316/people A woman] , wearing [/EN#231318/clothing a large hat] , paints [/EN#231317/scene the scenery of a pier] using [/EN#231322/other watercolors] .
+[/EN#231316/people A person] in [/EN#231319/clothing a purple hoodie] and [/EN#231318/clothing straw hat] painting [/EN#231317/scene a dockside scene] .
+[/EN#231316/people A painter] is painting [/EN#231317/scene the harbor scene] in front of [/EN#0/notvisual them] .

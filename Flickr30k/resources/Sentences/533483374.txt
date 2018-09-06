@@ -1,0 +1,5 @@
+[/EN#233884/animals A brown and white dog] is standing on [/EN#233886/scene a beach] with [/EN#233885/other a tennis ball] beside [/EN#0/notvisual it] .
+[/EN#233884/animals The brown dog] is standing next to [/EN#233885/other a ball] on [/EN#233886/scene the beach] .
+[/EN#233884/animals The dog] stands in [/EN#233888/other the sand] near [/EN#233887/scene the ocean] .
+[/EN#233884/animals A dog] is on [/EN#233886/scene the beach] near [/EN#233885/other a ball] .
+[/EN#233884/animals a dog] on [/EN#233886/scene the beach] .

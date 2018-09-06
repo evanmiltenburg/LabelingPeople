@@ -1,0 +1,5 @@
+[/EN#68259/people A man] carrying [/EN#68260/clothing an orange bag] walks past [/EN#68263/other two British style telephone boxes] .
+[/EN#68259/people An older man] with [/EN#68260/clothing a shopping bag] walks by [/EN#68261/scene two red telephone booths] .
+[/EN#68259/people A man] walks by [/EN#68261/scene a red telephone booth] [/EN#0/notvisual that] says , " ring ring " .
+[/EN#68259/people A man] carrying [/EN#68260/clothing a bag] passes by [/EN#68261/scene two telephone booths] .
+[/EN#68259/people A man] walks by [/EN#68261/scene red telephone booths] .

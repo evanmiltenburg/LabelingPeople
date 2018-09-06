@@ -1,0 +1,5 @@
+With [/EN#16353/scene blue slide] in [/EN#0/notvisual background] , [/EN#16354/people a young boy] is standing on [/EN#16355/scene a swing 's seat] at [/EN#16356/scene a playground] .
+[/EN#16354/people a young boy] standing on [/EN#16355/other a swing] in front of [/EN#16353/scene a blue slide] .
+[/EN#16354/people Kid] standing and looking determined in [/EN#16356/scene the playground]
+[/EN#16354/people A kid] is standing on [/EN#16355/other a swing] at [/EN#16356/scene a playground] .
+[/EN#16354/people A kid] standing up on [/EN#16355/other a swing] in [/EN#16356/scene a park] .

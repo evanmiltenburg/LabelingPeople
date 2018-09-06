@@ -1,0 +1,5 @@
+[/EN#49851/people An Asian man] is cutting [/EN#49852/other some meat] on [/EN#49853/other a cutting board] in [/EN#49858/scene a kitchen] and [/EN#0/notvisual he] is wearing [/EN#49854/clothing a long blue t-shirt] .
+[/EN#49851/people A man] in [/EN#49854/clothing a blue shirt] is cutting [/EN#49852/other something] with [/EN#49855/other a knife] and [/EN#49856/other fork] on [/EN#49853/other a kitchen cutting board] .
+[/EN#49851/people A young man] in [/EN#49854/clothing a blue shirt] is cutting [/EN#49852/other a piece of meat] on [/EN#49857/other a kitchen counter] .
+[/EN#49851/people Man] cutting into [/EN#49852/other a piece of meat] with [/EN#49856/other a fork] and [/EN#49855/other knife] .
+[/EN#49851/people A man] is inside [/EN#49858/scene a kitchen] cutting [/EN#49852/other a piece of meat] .

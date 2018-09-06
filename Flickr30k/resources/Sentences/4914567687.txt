@@ -1,0 +1,5 @@
+[/EN#217788/people A man] wearing [/EN#217794/clothing a blue ball cap] is walking past [/EN#217789/scene the Eden Farm store] at [/EN#217790/scene night] .
+[/EN#217788/people Someone] walks past [/EN#217789/scene an open grocery store] at [/EN#217790/scene night] .
+[/EN#217791/other Eden Farm Groceries] offers [/EN#217792/other free delivery] .
+[/EN#217788/people A man] walking in front of [/EN#217789/scene a store] .
+[/EN#217789/scene A store] is open at [/EN#217793/other nighttime] .

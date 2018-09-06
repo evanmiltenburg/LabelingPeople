@@ -1,0 +1,5 @@
+[/EN#115323/people Two women] with [/EN#115330/vehicles a baby carriage] in [/EN#115326/scene a building] next to [/EN#115327/other a table] and [/EN#115328/other chairs] .
+[/EN#115323/people Two women] with [/EN#115324/other strollers] standing next to [/EN#115327/other a table] and [/EN#115328/other chair] .
+[/EN#115323/people Two women] with [/EN#115324/other a baby stroller] in [/EN#115325/scene a fancy restaurant] .
+[/EN#115323/people Two woman] stand near [/EN#115324/other a stroller] in [/EN#115326/scene a dark building] .
+[/EN#115323/people Two ladies] next to [/EN#115324/other a stroller] inside [/EN#115325/scene a building] .

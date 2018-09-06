@@ -1,0 +1,5 @@
+[/EN#23847/people Four children] are in [/EN#23851/scene an industrial kitchen] looking at [/EN#23850/other a recipe] with [/EN#23853/other the ingredients] on [/EN#23852/other the table] in front of [/EN#0/notvisual them] .
+[/EN#23847/people Four children] are reading [/EN#23850/other a recipe] in [/EN#23851/scene a professional kitchen] while [/EN#23853/other the ingredients] are laid out on [/EN#23852/other the table] .
+[/EN#23847/people Four children] hover over [/EN#23850/other a recipe] for [/EN#23854/other soup] in [/EN#23848/other a cooking competition] .
+[/EN#23847/people Four children] are following [/EN#23850/other a recipe] for [/EN#23849/other food] .
+[/EN#23847/people A group of small children] read off of [/EN#23850/other a list] .

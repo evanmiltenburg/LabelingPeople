@@ -1,0 +1,5 @@
+[/EN#278371/other A person of indeterminate sex] wearing [/EN#278372/clothing a dark hat] , [/EN#278378/clothing neutral pants] , and [/EN#278376/clothing a red shirt] walking up [/EN#278374/other a rocky slope] at [/EN#278377/other high altitude] in [/EN#278382/other the daytime] .
+[/EN#278371/people a person] in [/EN#278376/clothing a red jacket] standing on [/EN#278374/scene a mountain] looking out over [/EN#278373/scene a grand view of mountains] and [/EN#278381/other plains] .
+[/EN#278371/people A person] on [/EN#278374/scene the mountain] walking up [/EN#278374/scene a rocky terrain] with [/EN#278377/scene the setting of a blue sky] .
+[/EN#278371/people A person] is climbing [/EN#278374/scene a very stony mountain] overlooking [/EN#278377/scene blue sky] and [/EN#278373/scene more mountains] .
+[/EN#278371/people A person] with [/EN#278376/clothing a red shirt] , [/EN#278378/clothing khaki pants] , and [/EN#278372/clothing a hat] climb [/EN#278374/scene a mountainside] .

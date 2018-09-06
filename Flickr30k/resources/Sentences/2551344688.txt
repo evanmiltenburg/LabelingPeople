@@ -1,0 +1,5 @@
+[/EN#57618/people An old man] with [/EN#57620/bodyparts a white-haired beard] and [/EN#57619/clothing a blue cap] gives [/EN#57621/other a thumbs-up sign] with [/EN#57623/bodyparts his right hand] .
+[/EN#57618/people A man] with [/EN#57620/bodyparts a gray beard] and [/EN#57619/clothing denim hat] gives [/EN#57622/bodyparts a thumbs] up [/EN#57621/other sign] with [/EN#57623/bodyparts his hand] .
+[/EN#57618/people The elderly man] wearing [/EN#57619/clothing the white cap] is holding [/EN#57622/bodyparts his thumb] up .
+[/EN#57618/people A man] with [/EN#57619/clothing a denim hat] and [/EN#57620/bodyparts white beard] gives [/EN#57622/bodyparts a thumbs] up .
+[/EN#57618/people Man] with [/EN#57620/bodyparts white beard] and [/EN#57624/clothing glasses] gives [/EN#57622/bodyparts a thumbs] up .

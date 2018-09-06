@@ -1,0 +1,5 @@
+[/EN#102767/animals A large brown dog] is digging in [/EN#102768/other the sand] .
+[/EN#102767/animals The brown dog] is digging in [/EN#102769/scene the dirt] .
+[/EN#102767/animals A brown dog] digs in [/EN#102768/other the sand] happily .
+[/EN#102767/animals A dog] digs in [/EN#102769/scene the dirt] .
+[/EN#102767/animals Dog] digs in [/EN#102768/other sand]

@@ -1,0 +1,5 @@
+[/EN#132357/people A gray-haired man] wearing [/EN#132359/clothing an orange shirt] and [/EN#132361/clothing blue shirts] tending to [/EN#132358/scene a garden] .
+[/EN#132357/people an elderly man] wearing [/EN#132359/clothing a tan shirt] shoveling [/EN#132358/scene dirt] onto [/EN#132364/other some bricks] .
+[/EN#132357/people A man] is holding [/EN#132360/other a large object] , bending in front of [/EN#132362/other many plants] .
+[/EN#132357/people An older man] is digging out [/EN#132363/other rock] .
+[/EN#132357/people An old man] digs in [/EN#132358/scene his garden] .

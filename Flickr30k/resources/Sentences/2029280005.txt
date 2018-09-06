@@ -1,0 +1,5 @@
+[/EN#25213/people A man] wearing [/EN#25216/clothing a black shirt] and [/EN#25219/other brown pants skates] on [/EN#25217/scene a concrete surface] near [/EN#25215/other a park bench] .
+[/EN#25213/people A man] is wearing [/EN#25214/other Rollerblades] standing on [/EN#25217/scene a paved area] near [/EN#25215/other a park bench] .
+[/EN#25213/people a man] in [/EN#25216/clothing a black shirt] is rollerblading past [/EN#25215/other a bench] in [/EN#25218/scene the city] .
+[/EN#25213/people A man] on [/EN#25214/other Rollerblades] travelling down [/EN#25217/scene the sidewalk] .
+[/EN#25213/people A man] is inline skating in front of [/EN#25215/other a wooden bench] .

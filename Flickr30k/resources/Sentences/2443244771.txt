@@ -1,0 +1,5 @@
+[/EN#49832/people A woman] in [/EN#49834/clothing a black and white striped shirt] leaning down and smiling at [/EN#49835/people a younger girl] with [/EN#49839/bodyparts bangs] .
+[/EN#49832/people The lady] in [/EN#49834/clothing the striped shirt] is talking to [/EN#49835/people the woman] [/EN#0/notvisual who] has [/EN#49840/bodyparts brown hair] .
+[/EN#49833/people Four people] in [/EN#49842/scene a restaurant] with [/EN#49838/other a couple of beers] surrounding [/EN#0/notvisual them] .
+[/EN#49833/people Some people] smile at [/EN#0/notvisual each other] over [/EN#49841/other some beers] .
+[/EN#49836/people Three people] enjoying [/EN#49837/other a chat] together .

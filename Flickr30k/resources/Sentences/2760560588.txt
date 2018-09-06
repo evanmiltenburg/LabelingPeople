@@ -1,0 +1,5 @@
+[/EN#71138/people An individual] with [/EN#71142/bodyparts black hair] and [/EN#71139/clothing a blue-checked shirt] writing on [/EN#71140/other a chalkboard] .
+[/EN#71138/people A teacher] , wearing [/EN#71139/clothing a checkered shirts] , writes on [/EN#71140/other the chalkboard] .
+[/EN#71138/people A man] in [/EN#71139/clothing a blue shirt] is writing [/EN#71141/other sentences] on [/EN#71140/other a chalkboard] .
+[/EN#71138/people A person] in [/EN#71139/clothing a blue plaid shirt] is writing on [/EN#71140/other a chalkboard] .
+[/EN#71138/people A man] in [/EN#71139/clothing a blue shirt] , writing on [/EN#71140/other a chalkboard] .

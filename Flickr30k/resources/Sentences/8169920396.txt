@@ -1,0 +1,5 @@
+[/EN#279899/people A man] in [/EN#279900/clothing a denim shirt] is turning [/EN#279901/other a Fender Telecaster] with [/EN#279902/other lights] behind [/EN#0/notvisual him] .
+[/EN#279899/people Caucasian] holding [/EN#279901/instruments a guitar] , Wearing [/EN#279904/other a jean button] up [/EN#279900/clothing shirt] .
+[/EN#279899/people A man] wearing [/EN#279900/clothing a jean jacket] tuning [/EN#279901/instruments an electric guitar] .
+[/EN#279899/people A person] playing [/EN#279901/instruments a guitar] under [/EN#279902/other bright lights] .
+[/EN#279899/people man] in [/EN#279900/clothing denim shirt] tuning [/EN#279901/instruments guitar]

@@ -1,0 +1,5 @@
+[/EN#138116/people A man] in [/EN#138123/clothing a tuxedo] smiles while standing in front of [/EN#138125/other a microphone] and next to [/EN#138116/people a man] in [/EN#138124/clothing a black hat] on [/EN#138121/instruments the electric guitar] .
+[/EN#138116/people A man] in [/EN#138123/clothing a tuxedo] is standing on [/EN#138129/scene stage] with [/EN#138122/other a keyboard] and [/EN#138126/people another man] with [/EN#138121/instruments a guitar] .
+[/EN#138118/people Two gentlemen] in [/EN#138128/clothing tuxes] play [/EN#138122/other the keyboard] and [/EN#138121/instruments guitar] .
+[/EN#138118/people Two men] in [/EN#138118/people a band] playing [/EN#138127/instruments the piano] and [/EN#138121/instruments the guitar] .
+[/EN#138116/people A musician] in [/EN#138130/bodyparts clown makeup] playing [/EN#138121/instruments the guitar] .

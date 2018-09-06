@@ -1,0 +1,5 @@
+[/EN#193909/people A person] with [/EN#193913/clothing a large bag] walking on [/EN#193911/scene the sidewalk] next to [/EN#193910/other a large brick wall] .
+[/EN#193909/people A person] is walking by [/EN#193910/other a wall] [/EN#0/notvisual that] is surrounding [/EN#193912/scene a church] .
+[/EN#193909/people Man] walking in [/EN#193911/scene the street] near [/EN#193910/other an orange brick wall] .
+[/EN#193909/people A lone person] is walking on [/EN#193911/scene the sidewalk] .
+[/EN#193909/people A person] walking down [/EN#193911/scene an empty street] .

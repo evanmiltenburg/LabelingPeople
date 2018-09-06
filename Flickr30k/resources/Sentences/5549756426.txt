@@ -1,0 +1,5 @@
+[/EN#238647/people a man] with [/EN#238650/bodyparts long hair] on [/EN#238651/scene stage] playing [/EN#238648/other an keyboard] with [/EN#238649/other a mic] in front of [/EN#0/notvisual him] .
+[/EN#238647/people One man] playing [/EN#238648/other the keyboard] , while [/EN#238650/bodyparts his hair] swooshes back and forth .
+[/EN#238647/people A musician] playing [/EN#238653/other a stage lit] in [/EN#238654/clothing red] sings into [/EN#238649/other a microphone] .
+[/EN#238647/people A musician] playing [/EN#238648/other a keyboard] in [/EN#238652/other a concert] .
+[/EN#238647/people A man] plays [/EN#238648/other a keyboard] on [/EN#238651/scene stage] .

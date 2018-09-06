@@ -1,0 +1,5 @@
+[/EN#160150/people A cowboy] gets bucked off [/EN#160153/animals a bull] while [/EN#160150/people a rodeo clown] runs into [/EN#160155/scene the arena] to distract [/EN#160153/animals the bull] .
+[/EN#160151/people A man] is laying on [/EN#0/notvisual the ground] next to [/EN#160153/animals a bull] and [/EN#160151/people another man] is running towards [/EN#0/notvisual him] .
+[/EN#160151/people One man] runs towards [/EN#160153/animals a bull] while [/EN#160150/people another man] lies [/EN#160157/scene dirt] to [/EN#0/notvisual the same bull 's side] .
+[/EN#160151/people A man] runs toward [/EN#160150/people another man] [/EN#0/notvisual who] has fallen during [/EN#160156/other a rodeo competition] .
+[/EN#160154/people Two men] trying to man handle [/EN#160153/animals a bull] by [/EN#160158/other rope] .

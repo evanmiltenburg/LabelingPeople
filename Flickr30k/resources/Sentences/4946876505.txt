@@ -1,0 +1,5 @@
+[/EN#221913/people A woman] in [/EN#221915/clothing a white bikini] rides [/EN#221914/vehicles a bicycle] , [/EN#221917/people people] walk and [/EN#221918/other cycle] behind [/EN#0/notvisual her] .
+[/EN#221913/people A tanned woman] is riding [/EN#221914/vehicles a bicycle] while wearing [/EN#221915/clothing a white bikini] .
+[/EN#221913/people A young woman] riding [/EN#221914/vehicles a bike] wearing [/EN#221915/clothing a white bikini] .
+[/EN#221913/people A tan woman] riding [/EN#221914/vehicles her bike] next to [/EN#221919/scene the beach] .
+[/EN#221913/people A woman] in [/EN#221915/clothing a white bikini] riding [/EN#221914/vehicles a bike] .

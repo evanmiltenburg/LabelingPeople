@@ -1,0 +1,5 @@
+[/EN#71918/people four children] are running up [/EN#71920/scene a path] towards [/EN#71919/scene a red brick building] .
+[/EN#71918/people Boys] running up [/EN#71920/scene a stone road] towards [/EN#71919/scene a brick building] .
+[/EN#71918/people The four children] are running to [/EN#71919/scene a brick building] .
+[/EN#71918/people Four children] run up [/EN#71921/scene a small hill] .
+[/EN#71918/people Four boys] run away up [/EN#71922/other an incline] .

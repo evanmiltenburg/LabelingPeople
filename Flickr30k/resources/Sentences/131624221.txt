@@ -1,0 +1,5 @@
+[/EN#8411/people A man] in [/EN#8412/clothing jeans] and [/EN#8413/clothing sandals] sits outside near [/EN#8414/other trees] and [/EN#8415/animals a goose] and plays [/EN#8416/instruments a string instrument] .
+[/EN#8411/people A man] sits in [/EN#8418/other the sunlight] , on [/EN#8417/other a bench] , playing [/EN#8416/instruments a banjo] while [/EN#8415/animals a Canadian Goose] looks on .
+[/EN#8415/animals The goose] appears to be listening to [/EN#8411/people the banjo player] [/EN#0/notvisual that] is sitting on [/EN#8417/other the park bench] .
+[/EN#8411/people Guy] playing [/EN#8416/instruments banjo] in [/EN#8419/scene the park] as [/EN#8415/animals a duck] enjoys [/EN#8421/other the music] .
+[/EN#8411/people A man] is sitting on [/EN#8417/other a bench] playing [/EN#8416/instruments his guitar] .

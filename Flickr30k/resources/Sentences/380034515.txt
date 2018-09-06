@@ -1,0 +1,5 @@
+[/EN#143137/animals A short , furry dog] stands on [/EN#143140/scene a brick floor] in front of [/EN#143138/other a group of potted plants] .
+[/EN#143138/other Flowers] are behind [/EN#143137/animals the fluffy dog] [/EN#0/notvisual that] is coming up [/EN#143144/other the step] .
+[/EN#143137/animals A furry dog] is running through [/EN#143141/scene a doorway] leading to [/EN#143138/other plants] .
+[/EN#143137/animals A very hairy dog] is running down [/EN#143142/other a hall] .
+[/EN#143139/other A furry] , [/EN#143137/animals tan dog] is outside on [/EN#143143/scene a patio] .

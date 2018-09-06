@@ -1,0 +1,5 @@
+[/EN#248650/people A sitting man] is holding [/EN#248651/other a partially carved stone] in [/EN#248656/scene front] [/EN#248655/other a partially painted wall] .
+[/EN#248650/people A man] in [/EN#248654/clothing yellow clothes] and [/EN#248653/clothing a white turban] is sitting and working on [/EN#248651/other a carving] .
+[/EN#248650/people An older man] wearing [/EN#248653/clothing a turban] sits on [/EN#0/notvisual the ground] while holding [/EN#248651/other a large rock] .
+[/EN#248650/people A poor man] in [/EN#248654/clothing yellow] makes [/EN#248651/other a statue of stone] .
+[/EN#248650/people A person] sits in front of [/EN#248651/other clay] .

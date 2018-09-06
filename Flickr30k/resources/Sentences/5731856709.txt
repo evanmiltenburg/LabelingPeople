@@ -1,0 +1,5 @@
+[/EN#241946/people Older man] wearing [/EN#241949/clothing dark blue clothing] sweeping [/EN#0/notvisual the ground] and [/EN#241947/people a person] wearing [/EN#241953/clothing a red coat] and carrying [/EN#241952/clothing a green bag] entering [/EN#241948/scene the building] .
+[/EN#241946/people A man] is sweeping [/EN#241950/scene floor] in [/EN#241948/scene building] where [/EN#241947/people Female] and [/EN#241946/people Males] walk on [/EN#241955/scene separate sides of the room] .
+[/EN#241946/people old man] in [/EN#241949/clothing navy jumpsuit] sweeps [/EN#241950/scene floor] as [/EN#241947/people women] in [/EN#241954/clothing red hijab] walks in [/EN#0/notvisual the other direction] .
+[/EN#241946/people An old man] sweeps [/EN#241950/scene the floor] as [/EN#241947/people a lady] walks away from [/EN#0/notvisual the camera] .
+[/EN#241946/people An elderly man] mops [/EN#241950/scene the floor of an outdoor walkway]

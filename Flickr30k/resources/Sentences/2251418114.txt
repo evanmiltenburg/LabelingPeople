@@ -1,0 +1,5 @@
+[/EN#36907/people A person] in [/EN#36910/clothing a red jacket] on top of [/EN#36908/other rocks] .
+[/EN#36907/people a little boy] sitts on top of [/EN#36908/other a big rock] .
+[/EN#36907/people A child] sitting on [/EN#36908/other a rock formation] .
+[/EN#36907/people A boy] stands on [/EN#36908/scene a rocky mountain] .
+[/EN#36907/people A child] on [/EN#36908/other a rock formation] .

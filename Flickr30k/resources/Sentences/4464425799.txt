@@ -1,0 +1,5 @@
+[/EN#170663/people A man] is holding [/EN#170664/vehicles his modified tricycle] , [/EN#0/notvisual it] has [/EN#170669/scene an area] for [/EN#170672/other storage] , [/EN#170670/people another man] in [/EN#170665/clothing a leather jacket] is gesturing at [/EN#0/notvisual him] .
+[/EN#170663/people A man] in [/EN#170668/clothing a green sweatshirt] and [/EN#170671/clothing jeans] pushes [/EN#170664/vehicles a bike] with [/EN#170664/vehicles a cart] attached to [/EN#0/notvisual it] down [/EN#170666/scene a street] .
+[/EN#170663/people A man] wearing [/EN#170668/clothing a green shirt] and [/EN#170665/clothing a black sleeveless jacket] is standing next to [/EN#170664/vehicles a tricycle]
+[/EN#170663/people A man] is pushing [/EN#170664/vehicles a bicycle] powered [/EN#170664/vehicles cart] down [/EN#170666/scene the brick street] .
+[/EN#170663/people A man] in [/EN#170668/clothing a green shirt] pushes [/EN#170664/vehicles a strange wheeled cart] .

@@ -1,0 +1,5 @@
+[/EN#254232/people The people] are on [/EN#254230/vehicles/scene the boat] fishing with [/EN#0/notvisual a net two of them] are rowing and [/EN#254231/other one] is pulling [/EN#254233/other the net] in .
+[/EN#254230/vehicles/scene A boat] with [/EN#254234/people two men] paddling while [/EN#254231/people the third man] holds [/EN#254233/other a line] .
+[/EN#254232/people Three people] , [/EN#254234/people two men] and [/EN#254231/people one woman] are riding in [/EN#254230/vehicles/scene a boat] .
+[/EN#254231/people A woman] is using [/EN#254233/other a net] to catch [/EN#254238/animals fish] on [/EN#254236/scene the river] .
+[/EN#254232/people Three Japanese men] fishing from [/EN#254230/vehicles/scene wooden boat] .

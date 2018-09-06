@@ -1,0 +1,5 @@
+[/EN#166971/people A red-haired woman] walking past [/EN#166973/vehicles a red car] on [/EN#166972/scene a busy street] while [/EN#166978/people other people] sit and chat at [/EN#166973/vehicles their car] .
+[/EN#166971/people A young woman] with [/EN#166981/bodyparts red-hair] , dressed in [/EN#166974/clothing purple] is holding [/EN#166982/other an envelope] as [/EN#0/notvisual she] walks on [/EN#166972/scene a city sidewalk] .
+[/EN#166971/people A red-haired woman] in [/EN#166974/clothing a white and purple outfit] walks past [/EN#166973/vehicles a red sports car] .
+[/EN#166971/people A woman] in [/EN#166979/clothing sunglasses] and [/EN#166977/clothing a purple skirt] is walking down [/EN#166976/scene a path] .
+[/EN#166975/people A person] is getting out of [/EN#166973/vehicles a red car] as [/EN#166971/people a woman] walks past .

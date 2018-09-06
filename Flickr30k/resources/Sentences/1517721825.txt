@@ -1,0 +1,5 @@
+[/EN#15489/animals Three dogs] run through [/EN#15490/scene the water] near [/EN#15491/other the rocks] and make [/EN#15492/other splashes] .
+[/EN#15489/animals Three dogs] run through [/EN#15490/other surf] , near [/EN#15491/other rocky outcrop] .
+[/EN#15489/animals A brown , black , and tan dog] run in [/EN#15490/scene the ocean] .
+[/EN#15489/animals Three dogs] running through [/EN#15490/scene water] .
+[/EN#15489/animals Three dogs] run into [/EN#15490/scene the water] .

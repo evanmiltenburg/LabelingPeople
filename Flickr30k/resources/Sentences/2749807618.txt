@@ -1,0 +1,5 @@
+[/EN#70316/people A female] wearing [/EN#70317/clothing an orange hoodie sweater] , cropped [/EN#70318/bodyparts reddish hair] , sitting on [/EN#70319/other a park bench] , holding [/EN#70320/other a beverage glass] .
+[/EN#70316/people A woman] in [/EN#70317/clothing an orange sweatshirt] is holding [/EN#70320/other a glass] in [/EN#70321/bodyparts her hand] .
+[/EN#70316/people A spiky haired woman] in [/EN#70317/clothing an orange sweater] holds [/EN#70322/other a drink] .
+[/EN#70316/people A woman] in [/EN#70317/clothing an orange sweater] have [/EN#70322/other a drink] .
+[/EN#70316/people Two men] having [/EN#70322/other a drink] at [/EN#70323/scene a bar] .

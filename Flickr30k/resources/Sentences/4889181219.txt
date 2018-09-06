@@ -1,0 +1,5 @@
+[/EN#215155/people A man] in [/EN#215157/clothing a blue shirt] lifts [/EN#215159/other a long pole-handled tool] towards [/EN#215158/other a ceiling] in [/EN#215165/scene a restaurant] decorated in [/EN#215163/other an Oriental style] with [/EN#215160/other small orange paper lanterns] .
+[/EN#215155/people A man] wearing [/EN#215157/clothing a blue shirt] trying to get [/EN#215167/other something] with [/EN#215159/other a pole] from [/EN#215168/scene the roof of the room] .
+[/EN#0/notvisual There] is [/EN#215155/people a man] poking [/EN#215159/other a long stick] up towards [/EN#215158/other the ceiling] .
+[/EN#215155/people A man] trimming [/EN#215161/other a palm tree] inside [/EN#215164/other a patio-type cafe] ' .
+[/EN#215155/other A craftsperson] making [/EN#215166/other metal objects] .

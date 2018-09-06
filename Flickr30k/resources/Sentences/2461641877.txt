@@ -1,0 +1,5 @@
+[/EN#51285/people A man] in [/EN#51286/clothing a blue vest] is sitting on [/EN#51287/other a ledge] and [/EN#51289/other a crate] doing [/EN#51285/other work] on [/EN#51288/other window] .
+[/EN#51285/people A man] in [/EN#51286/clothing a blue vest] sits perched outside [/EN#51288/other a window] with [/EN#51291/other a paint] can .
+[/EN#51285/people A man] is sitting outside [/EN#51288/other a window] painting [/EN#51288/other the windowsill] .
+[/EN#51285/people A painter] is sitting on [/EN#51287/other a scaffold] in front of [/EN#51288/other a window] .
+[/EN#51285/people Man] on [/EN#51287/other a makeshift scaffolding] , fixing [/EN#51288/other a window] .

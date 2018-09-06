@@ -1,0 +1,5 @@
+[/EN#174633/people A man] wearing [/EN#174641/clothing an orange jacket] and holding onto [/EN#174645/vehicles one handlebar of a bicycle] points to [/EN#174639/other a window] in [/EN#174638/scene a building] while [/EN#174634/people a person] behind [/EN#0/notvisual him] looks in [/EN#0/notvisual that direction] .
+[/EN#174634/people A girl] walking near [/EN#174633/people a guy] holding onto [/EN#174637/vehicles a bike] pointing up at [/EN#174638/scene a building] while on [/EN#174644/scene the street] in [/EN#174646/scene some Asian country]
+[/EN#174633/people A man] with [/EN#174637/vehicles a bike] in [/EN#174648/bodyparts one hand] and using [/EN#174649/bodyparts his other hand] to point at [/EN#174638/scene a building] .
+[/EN#174633/people Someone] with [/EN#174641/clothing an orange jacket] walking with [/EN#174637/vehicles a bike] points to [/EN#174638/scene a building] .
+[/EN#174633/people Cyclist] walking [/EN#174637/vehicles his bike] while pointing at [/EN#174638/other a house facade] .

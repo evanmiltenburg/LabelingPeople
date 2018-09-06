@@ -1,0 +1,5 @@
+[/EN#53775/people A woman] wearing [/EN#53776/clothing a hat] is using [/EN#53777/clothing an umbrella] to block [/EN#53779/other the sunlight] on [/EN#53778/scene a crowded street] .
+[/EN#53775/people A woman] with [/EN#53776/clothing a blue hat] on holding [/EN#53777/clothing an umbrella] with [/EN#53774/people a large crowd] behind [/EN#0/notvisual her] .
+[/EN#53774/people Peaceful crowd] gathered in [/EN#53780/scene park] setting listening attentively .
+[/EN#53774/people A crowd of people] stand and watch [/EN#53781/other something] going on .
+[/EN#53775/people A woman] in [/EN#53776/clothing a blue straw hat] holding up [/EN#53777/clothing an umbrella] .

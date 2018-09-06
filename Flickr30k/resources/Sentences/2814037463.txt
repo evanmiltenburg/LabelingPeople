@@ -1,0 +1,5 @@
+On [/EN#74468/scene the left] , [/EN#74458/bodyparts a hand] points to [/EN#74459/people a surprised looking woman] with [/EN#74460/bodyparts short hair] sitting at [/EN#74461/other a table] in front of [/EN#74462/other a window]
+[/EN#74459/people A woman] sits at [/EN#74461/other a table] near [/EN#74462/other a window] , with [/EN#74463/other a plate] and [/EN#74464/other glass] in front of [/EN#0/notvisual her] .
+[/EN#74459/people A woman] wearing [/EN#74465/clothing a floral dress] sits as [/EN#74458/bodyparts a finger] is pointed at [/EN#0/notvisual her] .
+[/EN#74459/people A woman] sitting down to have [/EN#74470/other a meal] is being pointed at .
+[/EN#74459/people A woman] has [/EN#74466/bodyparts a finger] pointing in [/EN#74467/bodyparts her face] .

@@ -1,0 +1,5 @@
+[/EN#257984/people A man] in [/EN#257988/clothing a white t-shirt] is about to dunk [/EN#257985/other a basketball] through [/EN#257990/other a net-less hoop] .
+[/EN#257984/people A male] in [/EN#257988/clothing a white shirt] and [/EN#257992/clothing dark shorts] is [/EN#257993/scene outside] playing [/EN#257985/other basketball] .
+[/EN#257984/people A young man] leaps in [/EN#0/notvisual the air] while playing [/EN#257985/other basketball] .
+[/EN#257984/people A man] playing [/EN#257985/other basketball] in [/EN#257989/scene a beautiful day] .
+[/EN#257984/people A man] jumping to make [/EN#257987/other a basketball shot] .

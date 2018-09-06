@@ -1,0 +1,5 @@
+[/EN#262787/other A view of a hockey rink] with [/EN#262793/people the goaltender] and [/EN#262791/other goal] in [/EN#0/notvisual the foreground] .
+[/EN#262788/people Men] are playing [/EN#262786/other a game of hockey] in [/EN#262789/scene a hockey arena] .
+[/EN#262788/people Several men] are playing [/EN#262786/other ice hockey] in [/EN#262789/scene an arena] .
+[/EN#262786/other A hockey game] is going on in [/EN#262787/other a large ice rink] .
+[/EN#262790/people A hockey team] prepares for [/EN#262786/other a game] in [/EN#262789/scene an arena] .

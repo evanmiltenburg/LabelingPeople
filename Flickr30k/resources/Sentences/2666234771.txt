@@ -1,0 +1,5 @@
+[/EN#65003/people A man] wearing [/EN#65010/clothing black pants] and [/EN#65009/clothing a white long-sleeved shirt] appears to be dancing in [/EN#65006/scene the middle of a street] .
+[/EN#65003/people A man] dances with [/EN#65011/other flags] in [/EN#65006/scene the street] in front of [/EN#65008/people a group of onlookers] .
+[/EN#65003/people A man] in [/EN#65012/clothing old costume] leaps across [/EN#65006/scene an English street] besides [/EN#65013/vehicles a Peugeot] .
+[/EN#65003/people A man] jumping in [/EN#65006/scene the middle of the street] with [/EN#65004/other flags] attached to [/EN#0/notvisual him] .
+[/EN#65003/people Man] performing [/EN#65005/other a dance] in [/EN#65006/scene the street] .

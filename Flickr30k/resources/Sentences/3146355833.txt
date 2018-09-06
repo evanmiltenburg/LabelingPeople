@@ -1,0 +1,5 @@
+[/EN#96452/people A little girl] in [/EN#96455/clothing traditional chinese garb] holds [/EN#96453/other a balloon] .
+[/EN#96452/people A young girl] is holding [/EN#96453/other a long thin yellow balloon] .
+[/EN#96452/people The little girl] holds up [/EN#96453/animals a yellow balloon animal] .
+[/EN#96452/people A girl] holds up [/EN#96453/animals a yellow balloon animal] .
+[/EN#96452/people A child] holds [/EN#96453/other a yellow balloon] .

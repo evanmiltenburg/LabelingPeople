@@ -1,0 +1,5 @@
+[/EN#177771/people A man] wearing [/EN#177772/clothing a black hat] and [/EN#177778/other light] in [/EN#177777/bodyparts his eyes] playing [/EN#177775/instruments his guitar] in front of [/EN#177770/people a group of people] .
+[/EN#177770/people A crowd of people] collects around [/EN#177771/people a street performer] with [/EN#177773/bodyparts a glowing eye] [/EN#0/notvisual who] is holding [/EN#177775/instruments a guitar] .
+[/EN#177771/people A man] wearing [/EN#177772/clothing a hat] with [/EN#177774/bodyparts his face] lit up [/EN#177779/scene stands] in [/EN#177780/other the middle of a circle] of [/EN#177770/people people] .
+[/EN#177771/people A man] wearing [/EN#177772/clothing a hat] plays [/EN#177775/instruments guitar] for [/EN#177770/people a group of people] outside at [/EN#177776/scene night] .
+[/EN#177771/people A street performer] with [/EN#177775/instruments a guitar] entertains [/EN#177770/people a group of people] at [/EN#177776/scene night] .

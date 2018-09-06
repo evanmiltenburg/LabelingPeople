@@ -1,0 +1,5 @@
+[/EN#120121/people A man] in [/EN#120124/clothing a yellow shirt] wearing [/EN#120127/clothing a tool belt] examines [/EN#120129/other something] on [/EN#120122/scene a roof] on [/EN#120126/scene a clear day] .
+[/EN#120121/people A crouching white man] in [/EN#120124/clothing a yellow shirt] looks down [/EN#120128/other from] on top of [/EN#120122/other a wooden structure] .
+[/EN#120121/people A man] in [/EN#120124/clothing a yellow shirt] is putting [/EN#120122/scene a new roof] on [/EN#120122/scene a building] .
+[/EN#120121/people A man] on top of [/EN#120122/scene the roof] looks over [/EN#120122/other the ledge] .
+[/EN#120121/people A man] hammers [/EN#120122/other plywood] on [/EN#120122/scene a roof] .

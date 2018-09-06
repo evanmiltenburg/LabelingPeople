@@ -1,0 +1,5 @@
+[/EN#261375/people A young man] dressed in [/EN#261378/clothing a black t-shirt] , [/EN#261381/clothing blue jeans] and [/EN#261376/clothing a blue baseball cap] performs [/EN#0/notvisual a skateboarding trick] on [/EN#261377/other a granite bench] in front of [/EN#261379/scene a pharmacy building] .
+[/EN#261375/people A man] in [/EN#261381/clothing jeans] , [/EN#261378/clothing a gray shirt] , and [/EN#261376/clothing a baseball cap] is skateboarding over [/EN#261377/other a park bench] .
+[/EN#261375/people A man] skateboarding on [/EN#261377/other a bench] next to [/EN#261382/other a bend tree] in front of [/EN#261379/scene a white building] .
+[/EN#261375/people A young man] in [/EN#261381/clothing blue jeans] performs [/EN#261380/other a skateboard stunt] .
+[/EN#261375/people A boy] skateboarding in front of [/EN#261379/scene a pharmacy] .

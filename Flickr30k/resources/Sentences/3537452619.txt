@@ -1,0 +1,5 @@
+[/EN#125802/people A boy] wearing [/EN#125807/clothing jeans] and [/EN#125808/clothing red sneakers] is balancing on [/EN#125803/scene a red bar] .
+[/EN#125802/people A teenage boy] grinds [/EN#125806/other his skateboard] over [/EN#125803/other a red rail] .
+[/EN#125802/people A boy] on [/EN#125805/other a skateboard] balances on [/EN#125803/other a red beam] .
+[/EN#125802/people A skateboarder] balances on [/EN#125803/other a red rail] .
+[/EN#125802/people A skateboarder] sliding on [/EN#125803/other a rail] .

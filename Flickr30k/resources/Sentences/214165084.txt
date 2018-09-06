@@ -1,0 +1,5 @@
+[/EN#30814/people A woman] in [/EN#30817/clothing a pink top] is holding [/EN#30816/other a glass bottle] in [/EN#30820/bodyparts one hand] and [/EN#30815/other a Stitch doll] in [/EN#30819/other the other] .
+[/EN#30814/people A woman] in [/EN#30817/clothing a red blouse] holding [/EN#30815/other stitch] in [/EN#30819/bodyparts her one hand] and [/EN#30816/other a bottle]
+[/EN#30814/people A girl] is holding [/EN#30816/other a beer] and [/EN#30815/animals a stuffed animal] .
+[/EN#30814/people A woman] with [/EN#30815/other a Stitch doll] drinks [/EN#30816/other a beer] .
+[/EN#30814/people A woman] with [/EN#30816/other a drink] and [/EN#30815/other a toy] .

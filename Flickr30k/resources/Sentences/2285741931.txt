@@ -1,0 +1,5 @@
+[/EN#39016/people A little girl] is riding on [/EN#39019/vehicles her scooter] and wearing [/EN#39017/clothing a purple helmet] and [/EN#39018/clothing a purple shirt] .
+[/EN#39016/people A little girl] in [/EN#39018/clothing a purple shirt] and [/EN#39017/clothing helmet] is riding on [/EN#39019/vehicles a scooter] .
+[/EN#39016/people A girl] with [/EN#39017/clothing a purple and white helmet] is riding on [/EN#39019/vehicles a scooter] .
+[/EN#39016/people A girl] wearing [/EN#39017/clothing a helmet] rides [/EN#39019/vehicles a scooter] .
+[/EN#39016/people a girl] speeds by on [/EN#39019/vehicles her scooter] .

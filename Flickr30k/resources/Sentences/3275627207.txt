@@ -1,0 +1,5 @@
+[/EN#106283/people The man] in [/EN#106284/clothing the red sweatshirt] has [/EN#106285/bodyparts his hair] in [/EN#106285/bodyparts dreadlocks] .
+[/EN#106283/people A man] in [/EN#106284/clothing a red shirt] with [/EN#106285/bodyparts dreadlocks] is holding [/EN#106288/bodyparts one cheek] .
+[/EN#106283/people A man] talks on [/EN#106286/other his cellphone] as [/EN#0/notvisual he] walks down [/EN#106289/scene the street] .
+[/EN#106283/people a man] with [/EN#106285/bodyparts dreadlocks] talks on [/EN#106286/other his cellphone] .
+[/EN#106283/people A man] has [/EN#106285/bodyparts dreadlocks] .

@@ -1,0 +1,5 @@
+[/EN#227119/people Three men] paint [/EN#227122/clothing the side of a large structure white] using [/EN#227121/other scaffolding] .
+[/EN#227119/people 3 men] painting [/EN#227122/scene a wall of a building] while standing on [/EN#227121/other a scaffolding] .
+[/EN#227119/people Three workers] paint [/EN#227120/scene the outside of a house] on [/EN#227121/other scaffolding] .
+[/EN#227119/people A group of men] are on [/EN#227121/other scaffolds] painting [/EN#227122/other a wall] .
+[/EN#227119/people Three men] painting [/EN#227120/scene a house] white .

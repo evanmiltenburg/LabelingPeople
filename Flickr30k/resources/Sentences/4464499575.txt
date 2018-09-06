@@ -1,0 +1,5 @@
+[/EN#170678/people A male college student] wearing [/EN#170675/clothing a red shirt] is looking through [/EN#170674/other a microscope] while [/EN#170680/people two of his classmates] watch .
+[/EN#170673/people young students] examine [/EN#170676/other a specimen] on [/EN#170674/other a dissecting microscope] during [/EN#170679/people biology laboratory class] .
+[/EN#170673/people Three male students] work in [/EN#170681/animals/scene a lab] with [/EN#0/notvisual one of them] looking through [/EN#170674/other a microscope] .
+[/EN#170673/people Three male students] , [/EN#170677/other one] in [/EN#170675/clothing red] peering through [/EN#170674/other a microscope] .
+[/EN#170673/people Three men] observe [/EN#170676/other a specimen] under [/EN#170674/other a microscope] .

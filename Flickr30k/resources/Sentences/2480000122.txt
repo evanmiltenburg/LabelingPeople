@@ -1,0 +1,5 @@
+[/EN#52543/people An artist] in [/EN#52549/clothing a black sweater] is sculpting [/EN#52548/other large rocks] .
+[/EN#52543/people A man] is cleaning [/EN#52547/other a large boulder] laying on [/EN#52550/other a pallet] .
+[/EN#52543/people A man] in [/EN#0/notvisual khaki 's is] building [/EN#52547/other a structure] from [/EN#52548/other rocks] .
+[/EN#52545/people A rock sculptor] working on [/EN#52547/other a rock] .
+[/EN#52543/people A sculptor] is carving [/EN#52548/other stone] .

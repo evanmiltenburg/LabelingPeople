@@ -1,0 +1,5 @@
+[/EN#213640/people A young man] , in [/EN#213644/clothing a red t-shirt] and [/EN#213647/clothing shorts] , carrying [/EN#213645/clothing his sneakers] , is walking down [/EN#213641/scene a sandy beach] taking [/EN#213643/other a drink] out of [/EN#213646/other a bottle] .
+[/EN#213640/people A man] is standing in [/EN#213641/other the sand] with [/EN#213645/clothing his shoes] in [/EN#213649/bodyparts one hand] and holding [/EN#213642/other a camera] to [/EN#213650/bodyparts his face] with [/EN#213651/bodyparts the other hand] .
+[/EN#213640/people Man] in [/EN#213644/clothing red shirt] on [/EN#213641/scene the beach] holding up [/EN#213642/other a camera] to take [/EN#213652/other a picture] .
+[/EN#213640/people A man] walks on [/EN#213641/scene the beach] while carrying [/EN#213645/clothing his shoes] .
+[/EN#213640/people A man] holding [/EN#213645/clothing his shoe] on [/EN#213641/scene the beach]

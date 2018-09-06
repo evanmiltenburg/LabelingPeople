@@ -1,0 +1,5 @@
+[/EN#278238/people A man] in [/EN#278241/clothing a suit] with [/EN#278240/bodyparts/people his arm] in [/EN#278239/other a blue sling] is walking down [/EN#278243/scene the sidewalk] in front of [/EN#278244/scene a pink building] while [/EN#278242/people two women] are standing there together .
+[/EN#278238/people A middle-aged man] with [/EN#278240/bodyparts/people a broken left arm] wearing [/EN#278241/clothing a suit] , [/EN#0/notvisual who] is walking by [/EN#278242/people a couple of women] on [/EN#278243/scene a sidewalk] .
+[/EN#278238/people A man] with [/EN#278240/bodyparts/people a his arm] in [/EN#278239/other a sling] and [/EN#278241/clothing a business suit] walks past [/EN#278242/people two woman] talking .
+[/EN#278238/people A man] in [/EN#278241/clothing a suit] walking down [/EN#278243/scene the sidewalk] with [/EN#278240/bodyparts/people his arm] in [/EN#278239/other a sling] .
+[/EN#278238/people A man] with [/EN#278240/bodyparts/people an arm] sling walks past [/EN#278242/people two women] on [/EN#278243/scene a sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#93455/people A snowboarder] rides [/EN#93457/other a rail] on [/EN#93457/other the cement handrail of steps] with [/EN#93458/scene snow] [/EN#93458/people all] around .
+In [/EN#93458/scene the snow] [/EN#93455/people a person] on [/EN#93456/other a board] traverses down [/EN#93457/other a concrete wall] beside [/EN#93461/people/scene bleachers] .
+[/EN#93455/people A snowboarder] is sliding down [/EN#93457/other a cement wall] at [/EN#93462/scene night] .
+[/EN#93455/people A snowboarder] is grinding down [/EN#93457/other a long concrete rail] .
+[/EN#93455/people A person] doing [/EN#0/notvisual a trick] on [/EN#93456/other a snowboard] .

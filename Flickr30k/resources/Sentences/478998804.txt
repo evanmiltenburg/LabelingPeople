@@ -1,0 +1,5 @@
+[/EN#203065/people Blond woman] in [/EN#203066/clothing a black skirt business outfit] interacting with [/EN#203067/people a customer service woman] .
+[/EN#203065/people A blond woman] in [/EN#203066/clothing a black dress] is conversing with [/EN#203067/people a woman] [/EN#0/notvisual who] is wearing [/EN#203070/clothing a red tie] .
+[/EN#203067/other A maitre de] is talking to [/EN#203069/people people] [/EN#0/notvisual who] are standing in [/EN#203073/other line] .
+[/EN#203065/people A woman] in [/EN#203066/clothing a black suit] waits for [/EN#203071/scene a seat] at [/EN#203068/scene a restaurant] .
+[/EN#0/notvisual There] are [/EN#203069/people people] in front of [/EN#203068/scene a restaurant] .

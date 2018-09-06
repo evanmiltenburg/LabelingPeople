@@ -1,0 +1,5 @@
+[/EN#114165/animals/scene A yellow lab] descends [/EN#114163/scene a slide] , while [/EN#114167/people a mother] in [/EN#114168/clothing a red sweater] and [/EN#114164/people a child] in [/EN#114166/clothing a black shirt] play with [/EN#114162/animals a brown dog] .
+[/EN#114162/animals A dog] is at [/EN#114163/scene the top of a blue slide] and [/EN#114164/people a little boy] is behind [/EN#0/notvisual him] .
+[/EN#114162/animals A yellow dog] leads [/EN#114164/people a child] in going down [/EN#114163/scene a blue slide] .
+[/EN#114162/animals dog] coming down [/EN#114163/scene a slide] from [/EN#114169/other a wooden playhouse]
+[/EN#114162/animals A dog] is running onto [/EN#114163/scene the top of a blue slide] .

@@ -1,0 +1,5 @@
+[/EN#110796/people A woman] in [/EN#110804/clothing a red shirt] and [/EN#110805/clothing bandanna] and [/EN#110798/people a girl] in [/EN#110806/clothing a blue shirt] are sitting on [/EN#110797/other a large swing] in front of [/EN#110801/scene a house]
+[/EN#110796/people A lady] sits on [/EN#110799/other a porch swing] in [/EN#110800/scene the yard] while [/EN#110798/people a girl] sits on [/EN#0/notvisual the ground] by [/EN#0/notvisual her] .
+[/EN#110796/people A woman] and [/EN#110798/people child] sit on [/EN#110797/other a bench] in [/EN#110800/scene a yard] covered with [/EN#110800/other fallen leaves] .
+[/EN#110796/people The mother] and [/EN#110798/people child] have [/EN#110802/other a personal moment] in [/EN#110800/scene the yard] .
+[/EN#110796/people Woman] and [/EN#110798/people girl] sitting on [/EN#110799/other a wooden swing]

@@ -1,0 +1,5 @@
+[/EN#199556/people A small boy] hangs from [/EN#199558/clothing a safety harness] next to [/EN#199557/other a climbing wall] .
+[/EN#199556/people A young boy] on [/EN#199558/clothing a harness] climbs up [/EN#199557/other a boulder] .
+[/EN#199556/people The small child] climbs [/EN#199557/other a white rock wall] .
+[/EN#199556/people The boy] is climbing [/EN#199557/other a white rock wall] .
+[/EN#199556/people A boy] in [/EN#199558/clothing a harness] climbs [/EN#199557/other a rock wall] .

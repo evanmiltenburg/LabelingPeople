@@ -1,0 +1,5 @@
+[/EN#132737/animals Two dark colored dogs] are walking through [/EN#132739/scene the grass] [/EN#0/notvisual both] holding [/EN#132738/other a large stick] .
+[/EN#132737/animals Two dogs] walking through [/EN#132739/scene tall grass] carrying [/EN#132738/other a tree branch] in [/EN#132741/bodyparts their mouths] .
+[/EN#132737/animals The brown and black dogs] are carrying [/EN#132738/other a big log] in [/EN#132739/scene the meadow] .
+[/EN#132737/animals Two dogs] share [/EN#132738/other a toy] in [/EN#132739/other a field of vegetation] .
+[/EN#132737/animals Two dogs] retreiving [/EN#132738/other a large stick of wood]

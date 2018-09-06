@@ -1,0 +1,5 @@
+[/EN#126164/people Two boys] , [/EN#126166/other one] is climbing [/EN#126168/scene a roof] , [/EN#126167/other the other] is bending down looking at [/EN#0/notvisual the ground] .
+[/EN#126166/people One person] is tumbling on [/EN#0/notvisual the ground] next to [/EN#126167/people another person] with [/EN#126173/clothing his shoes] off .
+[/EN#126164/people two people] climbing [/EN#126165/other some sort of object] in [/EN#0/notvisual the distance]
+[/EN#126164/people Two children] playing on [/EN#126165/other rocks]
+[/EN#126164/people Two young people] at [/EN#126170/scene park] .

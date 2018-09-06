@@ -1,0 +1,5 @@
+[/EN#177495/people A man] wearing [/EN#177504/clothing black and yellow shorts] is standing on [/EN#177497/other a wooden pole] with [/EN#177499/bodyparts his arms] [/EN#177502/other outstretched] and [/EN#177498/clothing his shirt] pulled over [/EN#177500/bodyparts his face] .
+[/EN#177495/people A man] with [/EN#177498/clothing his shirt] over [/EN#177501/bodyparts his head] is standing on top of [/EN#177496/other a beam] with [/EN#177499/bodyparts his arms] pointed towards [/EN#177505/scene the sky] .
+[/EN#177495/people a man] standing on [/EN#177496/scene a post] with [/EN#177499/bodyparts his arms] [/EN#177502/other outstretched] and [/EN#177498/clothing his shirt] over [/EN#177501/bodyparts his head] .
+[/EN#177495/people A man] with [/EN#177498/clothing his shirt] pulled over [/EN#177501/bodyparts his head] is standing on [/EN#177497/other a pole] .
+[/EN#177495/people A man] with [/EN#177498/clothing a shirt] over [/EN#177500/bodyparts his face] balances on [/EN#177497/other a pole] .

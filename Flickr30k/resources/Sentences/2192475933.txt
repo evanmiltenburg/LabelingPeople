@@ -1,0 +1,5 @@
+[/EN#33261/people A boy] wearing [/EN#33262/clothing a black wetsuit] stands on [/EN#33263/scene a crowded beach] .
+[/EN#33261/people A boy] is wearing [/EN#33262/clothing a wetsuit] on [/EN#33263/scene a crowded beach] .
+[/EN#33261/people A boy] in [/EN#33262/clothing a wetsuit] on [/EN#33263/scene a crowded beach]
+[/EN#33261/people a boy] wears [/EN#33262/clothing a wetsuit] at [/EN#33263/scene the beach] .
+[/EN#33261/people child] wearing [/EN#33264/clothing a hat] at [/EN#33263/scene the beach]

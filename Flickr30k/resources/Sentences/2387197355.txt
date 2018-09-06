@@ -1,0 +1,5 @@
+[/EN#45708/people A woman] wears [/EN#45711/clothing a red dress] and [/EN#45709/clothing a black mask] while [/EN#45707/people people] dance behind [/EN#0/notvisual her] .
+[/EN#45708/people A woman] in [/EN#45711/clothing a red dress] and [/EN#45709/clothing black mask] is on [/EN#45713/scene a crowded dance floor]
+[/EN#45708/people A lady] in [/EN#45712/clothing red and black] grins at [/EN#0/notvisual the camera] at [/EN#45710/other a costume party] .
+[/EN#45708/people A woman] in [/EN#45709/clothing a domino mask] and [/EN#45714/bodyparts severe hair] is at [/EN#45710/other a party] .
+[/EN#45707/people A group of people] are partying at [/EN#45710/other a masquerade party] .

@@ -1,0 +1,5 @@
+[/EN#140120/people The man] is wearing [/EN#140125/clothing a black shirt] , holding [/EN#140122/other a pail] , and walking with [/EN#140123/people a child] next to [/EN#140124/scene the water] .
+[/EN#140120/people A man] and [/EN#140123/people toddler] are walking along [/EN#140121/scene the beach] in front of [/EN#140124/scene the ocean] .
+[/EN#140120/people A man] at [/EN#140121/scene the beach] holding [/EN#140122/other a pail] , standing next to [/EN#140123/people a child] .
+[/EN#140120/people A man] with [/EN#140122/other a bucket] and [/EN#140123/people a girl] in [/EN#140127/clothing a hat] on [/EN#140121/scene the beach] .
+[/EN#140120/people A man] and [/EN#140123/people a young child] walk along [/EN#140121/scene the beach shore] .

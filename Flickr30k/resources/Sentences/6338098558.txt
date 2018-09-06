@@ -1,0 +1,5 @@
+[/EN#253048/people A lady] dances in [/EN#253052/clothing a polka dot dress] and [/EN#253056/other a head of flowers] with [/EN#253055/people a fan] clasped in [/EN#253066/bodyparts her hand] while [/EN#253062/other others] are looking in [/EN#0/notvisual a different direction] with [/EN#253065/people two men] holding onto [/EN#253053/other a ladder] and [/EN#253061/other others] discussing .
+[/EN#253048/people A man] dressed as [/EN#253048/people a woman] and [/EN#253050/people other people] stand around [/EN#253064/other tables] with [/EN#253059/other checkered tablecloths] and [/EN#253053/other a ladder] .
+[/EN#253048/people One man] in [/EN#253052/clothing a dress] dances as [/EN#253057/people another man] stands by [/EN#253053/other a ladder] and faces [/EN#253051/scene the other way] .
+[/EN#253054/people Several older people] stand near [/EN#253053/other a ladder] while wearing [/EN#253060/clothing costumes] .
+[/EN#253050/people Several people] are on [/EN#253063/scene stage] preparing for [/EN#253058/other a show] .

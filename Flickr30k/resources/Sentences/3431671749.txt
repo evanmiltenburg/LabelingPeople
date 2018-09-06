@@ -1,0 +1,5 @@
+[/EN#117788/vehicles A car] is zooming off with [/EN#117789/other fire] coming out of [/EN#117794/other its exhaust pipe] .
+[/EN#117788/vehicles A race car] on [/EN#117793/scene a track] has [/EN#117789/other flames] shooting from [/EN#117791/scene the rear] .
+[/EN#117789/other Flaming] are shooting from [/EN#117791/vehicles the rear of a race car] .
+[/EN#117789/other Fire] is coming out of [/EN#117791/vehicles the back of a race car] .
+[/EN#117788/vehicles A race car] has [/EN#117789/other fire] shooting out [/EN#117791/other the back] .

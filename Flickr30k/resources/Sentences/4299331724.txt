@@ -1,0 +1,5 @@
+[/EN#162194/people An older lady] with [/EN#162209/clothing red shoes] , [/EN#162207/clothing pink scarf] , [/EN#162199/clothing gray hat] , and holding [/EN#162203/clothing a bag] , carrying on [/EN#162206/other a conversation] with [/EN#162193/people an older man] with [/EN#162208/clothing red pants] , [/EN#162195/clothing green coat] , and [/EN#162196/clothing a green hat] .
+[/EN#162194/people An older woman] in [/EN#162204/clothing a black coat] and [/EN#162199/clothing a white knit beret] converses with [/EN#162193/people an older man] in [/EN#162196/clothing a tan scooter hat] and [/EN#162195/clothing a green coat] on [/EN#162198/scene the sidewalk] near [/EN#162210/other storefronts] .
+[/EN#162193/people A man] and [/EN#162194/people woman] , [/EN#0/notvisual both] wearing [/EN#162201/clothing coats] , are facing [/EN#0/notvisual each other] on [/EN#162198/scene the sidewalk] .
+[/EN#162202/people An elderly couple] , facing [/EN#0/notvisual each other] closely , having [/EN#162205/other a conversation] .
+[/EN#162193/people A man] and [/EN#162194/people woman] in [/EN#162201/clothing warm coats] stand face-to-face talking .

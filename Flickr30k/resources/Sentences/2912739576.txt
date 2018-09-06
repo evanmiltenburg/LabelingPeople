@@ -1,0 +1,5 @@
+[/EN#80895/people A toddler] sits beside [/EN#80899/scene a shower] in [/EN#80896/clothing a hooded white robe] with [/EN#80902/bodyparts its hands] in [/EN#0/notvisual the air] .
+[/EN#80895/people A little boy] in [/EN#80896/clothing a bathrobe] sits on [/EN#80898/other a bench] near [/EN#80899/scene the shower] in [/EN#80897/scene a bathroom] .
+[/EN#80895/people A small child] sits in [/EN#80897/scene a bathroom sauna] wearing [/EN#80896/clothing a robe] .
+[/EN#80895/people A baby] in [/EN#80896/clothing a bathrobe] waits for [/EN#80900/scene his shower] .
+[/EN#80895/people Baby] sitting on [/EN#80898/other a chair] with [/EN#80896/clothing a robe] on .

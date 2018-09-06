@@ -1,0 +1,5 @@
+[/EN#205467/people A man] with [/EN#205468/clothing a black t-shirt] is holding [/EN#205469/instruments a yellow electric guitar] on [/EN#205470/scene stage] at [/EN#205473/scene a music event] .
+[/EN#205467/people A man] in [/EN#205468/clothing black clothing] plays [/EN#205469/instruments electric guitar] on [/EN#205470/scene stage] .
+[/EN#205467/people A man] in [/EN#205468/clothing a black shirt] playing [/EN#205469/instruments guitar] in [/EN#205469/people a band] .
+[/EN#205467/people A guy] playing [/EN#205469/instruments a guitar] on [/EN#205470/scene a stage] smiling .
+[/EN#205467/people A musician] is entertaining [/EN#205470/people the crowd] .

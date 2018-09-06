@@ -1,0 +1,5 @@
+[/EN#194097/people An african american woman] wearing [/EN#194099/clothing an orange dress] with [/EN#194102/other a hood] is covering [/EN#194100/bodyparts her face] with [/EN#194101/bodyparts her hand] while sitting in [/EN#194098/other a chair] .
+[/EN#194097/people Woman] in [/EN#194099/clothing orange headscarf] with [/EN#194101/bodyparts her hand] over [/EN#194100/bodyparts her face] sitting in [/EN#194098/other a blue chair] .
+[/EN#194097/people A woman] in [/EN#194099/clothing an orange-hooded outfit] is sitting with [/EN#194101/bodyparts her hand] on [/EN#194100/bodyparts her face] .
+[/EN#194097/people Woman] in [/EN#194099/clothing orange clothing] putting [/EN#194101/other her palm] over [/EN#194100/bodyparts her face] .
+[/EN#194097/people Woman] in [/EN#194103/clothing a red headscarf] covering [/EN#194100/bodyparts her face] .

@@ -1,0 +1,5 @@
+[/EN#69802/people A person] in [/EN#69804/clothing a robe] and [/EN#69805/clothing apron] is cutting [/EN#69806/other bread] on [/EN#69803/other a table] .
+[/EN#69802/people A woman] in [/EN#69808/clothing a white robe] is preparing [/EN#69803/other a table] for [/EN#69807/other a meal] .
+[/EN#69802/people The man] in [/EN#69804/clothing the apron] prepares [/EN#69803/other the dining table] .
+[/EN#69802/people A man] in [/EN#69805/clothing an apron] is standing by [/EN#69803/other a table] .
+[/EN#69802/people A woman] is preparing [/EN#69806/other food] at [/EN#69803/other a table] .

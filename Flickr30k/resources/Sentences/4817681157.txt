@@ -1,0 +1,5 @@
+[/EN#206539/people People] rushing and boarding [/EN#206540/vehicles buses] at [/EN#206544/other the depot station] .
+[/EN#206539/people People] are walking by [/EN#206540/vehicles/scene a bus] in [/EN#206538/scene a city] at [/EN#206541/other dusk] .
+[/EN#206538/scene Busy metro area] with [/EN#206539/people people] rushing about .
+[/EN#206542/other People race] to catch [/EN#206540/people the metro] at [/EN#206541/other dusk] .
+[/EN#206539/people People] are boarding [/EN#206540/vehicles a tram] in [/EN#206538/scene the city] .

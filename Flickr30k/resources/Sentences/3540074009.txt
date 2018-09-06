@@ -1,0 +1,5 @@
+[/EN#126051/people A man] wearing [/EN#126053/clothing an olive vest] and [/EN#126055/clothing black boots] stands near [/EN#126057/people a man] in [/EN#126054/clothing a gray shirt] .
+[/EN#126051/people A man] in [/EN#126053/clothing a fishing vest] and [/EN#126055/clothing rubber boots] is talking to [/EN#126057/people a vendor] .
+[/EN#126052/people Two men] are standing and talking on [/EN#126056/scene a dock area] .
+[/EN#126052/people Two men] wearing [/EN#126051/scene fishing gear talk outside] .
+[/EN#126052/people Men] transporting [/EN#126059/other blocks of ice] .

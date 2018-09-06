@@ -1,0 +1,5 @@
+[/EN#120208/animals A wet dog] in [/EN#120208/other golden tones] runs on [/EN#120213/other the sand] near [/EN#120209/scene the ocean] .
+[/EN#120208/animals A brown dog] running on [/EN#120211/scene the beach] near [/EN#120209/scene the ocean] .
+[/EN#120208/animals A wet yellow dog] runs along [/EN#120209/scene the shoreline] .
+[/EN#120208/animals A wet tan dog] running across [/EN#120211/scene a beach] .
+[/EN#120208/animals A dog] running on [/EN#120211/scene the beach]

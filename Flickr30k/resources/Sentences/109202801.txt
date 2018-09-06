@@ -1,0 +1,5 @@
+[/EN#2219/animals Two golden brown horses] pull [/EN#2221/other a sleigh] driven by [/EN#2222/people a woman] in [/EN#2225/clothing a blue coat] .
+[/EN#2219/animals Two horses] pull [/EN#2220/vehicles a carriage] driven by [/EN#2222/people a woman] over [/EN#0/notvisual snow covered ground] .
+[/EN#2219/animals Two horses] pulling [/EN#2221/other a sled] steered by [/EN#2222/people a smiling blond woman] .
+[/EN#2219/animals Two draft horses] pull [/EN#2220/vehicles a cart] through [/EN#2224/scene the snow] .
+[/EN#2219/animals Two horses] are pulling [/EN#2222/people a woman] in [/EN#2220/vehicles a cart] .

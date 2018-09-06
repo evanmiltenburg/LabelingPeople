@@ -1,0 +1,5 @@
+[/EN#92586/people A man] in [/EN#92592/clothing a suit] and [/EN#92593/clothing top hat] and [/EN#92590/people a woman] in [/EN#92587/clothing a blue Victorian dress] sitting outside at [/EN#92589/other a table] .
+[/EN#92586/people A man] and [/EN#92590/people woman] dressed in [/EN#92587/clothing old fashion clothing] sit outside at [/EN#92589/other a table] .
+[/EN#92586/people A man] and [/EN#92590/people a woman] sit by [/EN#92589/other a small table] in [/EN#92588/clothing colonial clothing] .
+[/EN#92585/people A couple] in [/EN#92587/clothing old fashioned clothes] sitting at [/EN#92589/other a table] outside
+[/EN#92585/people A couple] in [/EN#92587/clothing old clothing] at [/EN#92589/other an outdoor table] .

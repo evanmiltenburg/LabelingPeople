@@ -1,0 +1,5 @@
+[/EN#189893/people Two men] are walking on [/EN#189890/scene the street] in front of [/EN#189897/other a subway stop] , and [/EN#189898/other one] has [/EN#189891/clothing his umbrella] opened and at [/EN#0/notvisual his side] .
+[/EN#189888/people Man] in [/EN#189892/clothing blue jacket] and [/EN#189896/clothing khaki pants] is walking near [/EN#189893/people a man] holding [/EN#189891/clothing a blue and white umbrella] .
+[/EN#189888/people A man] in [/EN#189892/clothing a blue jacket] walking past [/EN#189893/people a man] with [/EN#189891/clothing a blue and white umbrella] .
+[/EN#189888/people A man] is sprinting by [/EN#189893/people another man] with [/EN#189891/clothing an umbrella] .
+[/EN#189894/scene A cold overcast day] in [/EN#189889/scene New York City] .

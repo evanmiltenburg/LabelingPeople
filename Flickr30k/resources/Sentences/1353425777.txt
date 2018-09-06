@@ -1,0 +1,5 @@
+[/EN#9652/people Person] in [/EN#9654/clothing a yellow shirt] and [/EN#9656/clothing black shorts] stretching on [/EN#9653/scene a bridge] .
+[/EN#9652/people A person] in [/EN#9654/clothing a yellow shirt] is stretching while on [/EN#9653/scene a bridge] .
+[/EN#9652/people A woman] with [/EN#9654/clothing a yellow shirt] stretching on [/EN#9653/scene a bridge] .
+[/EN#9652/people A man] is stretching on [/EN#9655/scene a walkway] next to [/EN#9653/scene a bridge] .
+[/EN#9652/people A person] in [/EN#9654/clothing a yellow shirt] stretching on [/EN#9653/scene a bridge] .

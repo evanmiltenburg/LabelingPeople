@@ -1,0 +1,5 @@
+[/EN#225666/people A man] in [/EN#225668/clothing a blue shirt] and [/EN#225669/clothing red jacket] examines [/EN#225667/other a hotdog] [/EN#0/notvisual he] is holding [/EN#0/notvisual that] has [/EN#225670/other an unusually small bun] .
+[/EN#225666/people An older bearded white man] wearing [/EN#225668/clothing a blue shirt] and [/EN#225669/clothing red jacket] looks down at [/EN#225667/other a hotdog] [/EN#0/notvisual he] 's holding .
+[/EN#225666/people A gentleman] holding [/EN#225667/other a hotdog] in [/EN#225673/bodyparts his right hand] , wearing [/EN#225669/clothing a red jacket] and [/EN#225668/clothing blue shirt] .
+[/EN#225666/people A man] eating [/EN#225667/other a awkward shaped hotdog] on [/EN#225672/other a mini] sized [/EN#225670/other bun] .
+[/EN#225666/people a old man] eating [/EN#225667/other a hotdog] .

@@ -1,0 +1,5 @@
+[/EN#61384/animals A brown and white dog] is paddling through [/EN#61387/scene deep water] in [/EN#61385/other a blue container] .
+[/EN#61384/animals A brown and white dog] swims in [/EN#61386/scene a backyard swimming pool] .
+[/EN#61384/animals The little white and brown dog] is swimming in [/EN#61386/scene a pool] .
+[/EN#61384/animals The brown and white dog] swims in [/EN#61386/scene a swimming pool] .
+[/EN#61384/animals A dog] is swimming in [/EN#61386/scene an above ground pool] .

@@ -1,0 +1,5 @@
+[/EN#52779/people A woman] sits next to [/EN#52780/people a smiling young girl] , [/EN#0/notvisual both] seated at [/EN#52783/other a table] for [/EN#52785/other a meal] .
+[/EN#52779/people A woman] and [/EN#52780/people a young girl] are sitting at [/EN#52783/other a table] in [/EN#52784/scene a restaurant] .
+[/EN#52780/people A young girl] smiles for [/EN#0/notvisual the camera] while at [/EN#52783/other the dinner table] .
+[/EN#52780/people A little girl] in [/EN#52786/clothing a striped shirt] smiles at [/EN#52784/scene a restaurant] .
+[/EN#52779/people A lady] and [/EN#52780/people young girl] sit at [/EN#52784/scene a restaurant] together .

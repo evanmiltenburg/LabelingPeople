@@ -1,0 +1,5 @@
+[/EN#157401/other An orange and white emergency van] is on [/EN#157408/scene the street] in front of [/EN#157409/scene a building] with [/EN#157411/other many windows] .
+[/EN#157406/other a emergency] were [/EN#157401/people paramedics] and [/EN#157403/people the fire department] were called in to help
+[/EN#157403/people The Fire Department] is on [/EN#157407/scene the scene] to assist in [/EN#157405/other an accident] .
+[/EN#157401/vehicles A orange and yellow ambulance] on [/EN#157408/scene a street] next to [/EN#157410/scene a crane] .
+[/EN#157401/vehicles An ambulance] and [/EN#158000/other firetruck] try to help at [/EN#157407/scene a scene] .

@@ -1,0 +1,5 @@
+[/EN#206516/people A tanned woman] in [/EN#206517/clothing a green shirt] and [/EN#206520/clothing orange shorts] walks with [/EN#206518/clothing a red shopping bag] .
+[/EN#206516/people A woman] with [/EN#206521/clothing sandals] and [/EN#206517/clothing green shirt] carries [/EN#206518/other supplies] down [/EN#206519/scene the street] .
+[/EN#206516/people A woman] in [/EN#206517/clothing a green shirt] and [/EN#206520/clothing yellow shorts] walking down [/EN#206519/scene the street] .
+[/EN#206516/people A woman] in [/EN#206517/clothing a green top] and [/EN#206520/clothing orange shorts] is walking on [/EN#206519/scene the street] .
+[/EN#206516/people A woman] in [/EN#206517/clothing a green shirt] is carrying [/EN#206518/clothing a shopping bag] .

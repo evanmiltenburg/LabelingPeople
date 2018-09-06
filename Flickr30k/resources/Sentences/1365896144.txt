@@ -1,0 +1,5 @@
+[/EN#10203/people A woman] in [/EN#10204/clothing a blue blouse] leans over [/EN#10208/other a pool table] with [/EN#10210/other her cue] in [/EN#10211/bodyparts hand] and [/EN#10206/other an eight ball] on [/EN#10208/other the table] .
+[/EN#10203/people A woman] in [/EN#10204/clothing blue and purple clothing] playing [/EN#10205/scene pool] .
+[/EN#10203/people A girl] playing [/EN#10205/scene pool] at [/EN#10207/other a pool hall] .
+[/EN#10203/people A girl] in [/EN#10204/clothing a silk shirt] plays [/EN#10205/scene pool]
+[/EN#10203/people A young woman] is playing [/EN#10205/scene pool] .

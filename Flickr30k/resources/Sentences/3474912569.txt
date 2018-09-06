@@ -1,0 +1,5 @@
+[/EN#120923/people A young girl] in [/EN#120925/clothing a blue shirt] is walking in [/EN#120929/scene the sidewalk] and holding up [/EN#120927/other a pink sign] [/EN#0/notvisual that] says , " [/EN#120924/other The Rescue] . "
+[/EN#120923/people A woman] with [/EN#120926/clothing a headband] walking at [/EN#120932/people the lead of a crowd] , holding [/EN#120927/other a sign] saying " [/EN#120928/other the rescue] " .
+[/EN#120923/people A girl] carries [/EN#120927/other a sign] [/EN#0/notvisual that] reads [/EN#120924/other The Rescue] while [/EN#120930/people a group of people] follow [/EN#0/notvisual her] .
+[/EN#120923/people A girl] wearing [/EN#120926/clothing a headband] is carrying [/EN#120927/other a pink sign] on [/EN#120929/scene the street] .
+[/EN#120923/people Girl] with [/EN#120925/clothing blue shirt] at [/EN#120931/other a protest] .

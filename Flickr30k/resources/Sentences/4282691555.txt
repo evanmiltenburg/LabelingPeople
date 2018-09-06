@@ -1,0 +1,5 @@
+[/EN#161495/people A man] in [/EN#161497/clothing a puffy black coat] stands near [/EN#161502/other a tree trunk] while [/EN#161504/people a woman] in [/EN#161507/clothing a white scarf] stands next to [/EN#0/notvisual him] with [/EN#161510/bodyparts her head] slightly bowed .
+[/EN#161505/other A view of a pedestrian thoroughfare] , featuring [/EN#161495/people a man] in [/EN#161496/clothing a black apron] and [/EN#161503/clothing a white baseball cap] standing in [/EN#161509/other the middle of the image] .
+[/EN#161495/people A man] in [/EN#161503/clothing a white hat] and [/EN#161504/people a woman] in [/EN#161499/clothing a light blue jacket] have stopped on [/EN#161498/scene a busy street] to look at [/EN#161508/other something] .
+[/EN#161506/people People] stand and walk on [/EN#161498/scene a brick sidewalk] wearing [/EN#161500/clothing jackets] and [/EN#161501/clothing warm clothes] .
+[/EN#161495/people Man] stands on [/EN#161498/scene city street] beneath [/EN#161502/other pine tree] .

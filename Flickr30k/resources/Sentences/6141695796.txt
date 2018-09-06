@@ -1,0 +1,5 @@
+[/EN#248484/people A teenage boy] in [/EN#248488/clothing a blue shirt] is wearing [/EN#248490/clothing lab goggles] and looking at [/EN#248485/other a beaker] full of [/EN#248489/other blue chemicals] .
+[/EN#248484/people A young man] peers intently into [/EN#248491/other two pyrex containers] , [/EN#0/notvisual one of which] is filled with [/EN#248489/other several beakers] .
+[/EN#248484/people A chemistry student] is eyeballing [/EN#248489/other the contents] as [/EN#0/notvisual it] sits on [/EN#248492/other a weight scale] .
+[/EN#248484/people A kid] wearing [/EN#248488/clothing a blue t-shirt] and [/EN#248490/clothing goggles] on [/EN#248493/bodyparts his face] is doing [/EN#248485/other an experiment] .
+[/EN#248484/people A young man] in [/EN#248490/clothing goggles] observes [/EN#248491/other several test tubes] placed in [/EN#248485/other a beaker] .

@@ -1,0 +1,5 @@
+[/EN#90234/people People] are riding [/EN#90235/other a blue roller coaster-like ride] with [/EN#90234/other wide seating mechanisms] .
+[/EN#90234/people A group of people] ride [/EN#90235/people a blue roller coaster] on [/EN#90239/scene its way] down from [/EN#90238/other a turn] .
+[/EN#90234/people A large group of people] are riding on [/EN#90235/people a blue roller coaster] .
+[/EN#90235/people A very very wide roller coaster] trundles down [/EN#90235/scene the track] .
+[/EN#0/notvisual There] are [/EN#90234/people a lot of people] on [/EN#90235/people the roller coaster] .

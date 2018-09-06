@@ -1,0 +1,5 @@
+[/EN#198159/people Two young people] wait on [/EN#198165/scene the steps of a large stone building] .
+[/EN#198159/people Two women] sit on [/EN#198161/other a set of steps] outside of [/EN#198163/scene a large building] .
+[/EN#198159/people Two dark headed women] sit on [/EN#198161/other gray steps] behind [/EN#198162/scene a gray fence] .
+[/EN#198159/people Two people] sitting together on [/EN#198160/people the base of a column] .
+[/EN#198159/people A couple] sits on [/EN#198160/other a bench] looking in [/EN#0/notvisual the distance] .

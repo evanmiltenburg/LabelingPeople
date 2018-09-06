@@ -1,0 +1,5 @@
+[/EN#128233/people A man] in [/EN#128234/clothing a military uniform] is walking away from [/EN#128232/vehicles a line of military vehicles] .
+[/EN#128232/vehicles A line of military trucks] are passing by [/EN#128233/people a soldier] [/EN#0/notvisual who] is walking away .
+[/EN#128233/people A military man] walks away from [/EN#128232/vehicles a line of Army vehicles] .
+[/EN#128232/vehicles Army vehicles] line up and [/EN#128233/people a soldier] walks near [/EN#0/notvisual them] .
+[/EN#128232/vehicles A convoy of military trucks] are lined up in [/EN#128235/scene a lot] .

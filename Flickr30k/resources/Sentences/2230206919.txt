@@ -1,0 +1,5 @@
+[/EN#35554/people A boy] wearing [/EN#35558/clothing a skullcap] is sitting in [/EN#35556/other a chair] next to [/EN#35557/other a table] with [/EN#35557/other a pink tablecloth] .
+[/EN#0/notvisual This] is [/EN#35554/people a boy] [/EN#0/notvisual that] is [/EN#35554/people a guest] at [/EN#35555/other Jewish outing] .
+[/EN#35554/people A young Jewish boy] sits in [/EN#35556/other a chair] at [/EN#35555/other a party] .
+[/EN#35554/people A young boy] sitting at [/EN#35557/other a pink table] .
+[/EN#35554/people A little boy] is sitting in [/EN#35556/other a chair] .

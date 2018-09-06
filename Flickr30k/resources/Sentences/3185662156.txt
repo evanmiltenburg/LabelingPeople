@@ -1,0 +1,5 @@
+[/EN#99360/people A young child] is sledding down [/EN#99363/scene a snowy hill] on [/EN#99364/other a red sled] .
+[/EN#99360/people A child] in [/EN#99361/clothing a blue jacket] going down [/EN#99363/scene a hill] on [/EN#99364/other a sled] .
+[/EN#99360/people A little kid] in [/EN#99361/clothing blue] is sledding down [/EN#99363/scene a snowy hill] .
+[/EN#99360/people A boy] is riding [/EN#99364/other a red sledge] down [/EN#99363/scene a snowy hill] .
+[/EN#99360/people A kid] riding [/EN#99364/other a red sled] down [/EN#99363/scene a snowy hill] .

@@ -1,0 +1,5 @@
+[/EN#218256/scene An aerial view of a large building] with [/EN#218264/other many windows] , [/EN#218262/scene a terracotta roof] , and [/EN#218257/people a few pedestrians] crossing [/EN#218258/scene a street] .
+[/EN#218257/people People] are crossing [/EN#218263/other a tree] lined [/EN#218258/scene street] in front of [/EN#218256/scene a building] .
+[/EN#218257/people Many people] walking near [/EN#218256/scene tall building] and crossing [/EN#218258/scene street]
+[/EN#218256/scene A distant view of a building] and [/EN#218257/people the people] around [/EN#0/notvisual it] .
+[/EN#218256/scene A large building] in [/EN#218260/scene the city] in [/EN#218261/other the sunlight] .

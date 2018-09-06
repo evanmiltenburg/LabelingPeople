@@ -1,0 +1,5 @@
+[/EN#128475/animals A black dog] on [/EN#128480/clothing a leash] with [/EN#128476/clothing a red collar] has [/EN#128481/bodyparts its face] in [/EN#128478/scene the water] .
+[/EN#128475/animals A black dog] with [/EN#128476/clothing red collar] sticks [/EN#128477/bodyparts his head] in [/EN#128478/scene the water] .
+[/EN#128475/animals A dog] with [/EN#128483/other black fur] has put [/EN#128477/bodyparts its head] underwater .
+[/EN#128475/animals A black dog] sticking [/EN#128482/bodyparts its nose] into [/EN#128478/scene the water] .
+[/EN#128475/animals A black dog] in [/EN#128478/scene shallow water] .

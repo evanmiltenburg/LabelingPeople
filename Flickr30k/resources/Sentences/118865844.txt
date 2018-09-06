@@ -1,0 +1,5 @@
+[/EN#4847/people A woman] wearing [/EN#4849/clothing a pink sweater] and [/EN#4851/clothing eyeglasses] is wiping [/EN#4848/other a wooden table] with [/EN#4850/other a pink sponge] .
+[/EN#4847/people A woman] in [/EN#4849/clothing a pink sweater] and [/EN#4852/clothing an apron] , cleaning [/EN#4848/other a table] with [/EN#4850/other a sponge] .
+[/EN#4847/people A lady] with [/EN#4851/clothing blond-hair and glasses] works hard to clean up [/EN#4848/other her table] .
+[/EN#4847/people A woman] in [/EN#4849/clothing a pink sweater] cleaning [/EN#4848/other a dining table] .
+[/EN#4847/people A woman] in [/EN#4849/clothing a pink shirt] cleaning [/EN#4848/other a wooden table] .

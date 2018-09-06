@@ -1,0 +1,5 @@
+[/EN#50441/people A man] in [/EN#50443/scene a field] with [/EN#50442/clothing a blue Jacket] and [/EN#50446/clothing a hat] holding [/EN#50444/other a stick] with [/EN#50445/animals two dogs] .
+[/EN#50441/people A hiker] and [/EN#50445/animals two dogs] explore [/EN#50447/scene a temperate wilderness] .
+[/EN#50441/people A man] in [/EN#50442/clothing blue] in [/EN#50443/scene a mountain meadow] with [/EN#50445/animals two dogs] .
+[/EN#50441/people A man] is standing in [/EN#50443/scene a field] with [/EN#50445/animals two dogs] .
+[/EN#50441/people A man] with [/EN#50444/other stick] in [/EN#50443/scene field] with [/EN#50445/animals two dogs] .

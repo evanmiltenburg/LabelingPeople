@@ -1,0 +1,5 @@
+[/EN#214467/animals Two brown dogs] running and playing on [/EN#214468/scene a beach] .
+[/EN#214467/animals Two brown dogs] are running on [/EN#214469/other the sand] .
+[/EN#214467/animals Two brown dogs] running together on [/EN#214469/other sand]
+[/EN#214467/animals Two dogs] run on [/EN#214468/scene the beach] .
+[/EN#214467/animals Two brown dogs] on [/EN#214469/other the sand]

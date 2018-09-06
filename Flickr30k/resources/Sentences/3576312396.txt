@@ -1,0 +1,5 @@
+[/EN#128830/people A group of people] in [/EN#128831/vehicles/scene boats] racing towards [/EN#128833/scene the shore] .
+[/EN#128830/people People] in [/EN#128831/scene speed rafts] drive in [/EN#128832/scene the water] .
+[/EN#128830/people People] riding on [/EN#128831/vehicles/scene ski boats] in [/EN#128832/scene the ocean] .
+[/EN#128830/people People] on [/EN#128834/other watercraft] play in [/EN#128832/scene the ocean] .
+[/EN#128830/people A group of people] race with [/EN#128831/vehicles/scene boats] .

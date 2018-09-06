@@ -1,0 +1,5 @@
+[/EN#207119/people A girl] in [/EN#207119/clothing a black jacket] with [/EN#207121/bodyparts crossed arms] holds [/EN#207122/clothing a bag] on [/EN#207125/scene the street] in [/EN#207124/other the rain] .
+[/EN#207119/people Woman] in [/EN#207119/clothing Jacket] with [/EN#207119/other hood] up walks alone down [/EN#207125/scene crowded street] .
+[/EN#207119/people A girl] in [/EN#207119/clothing a dark jacket] standing in [/EN#207124/other the rain] .
+[/EN#207119/people Girl] bundled up in [/EN#207119/clothing jacket] against [/EN#207126/other the cold] .
+[/EN#207119/people A child] standing and staring at [/EN#207127/other something] .

@@ -1,0 +1,5 @@
+[/EN#252161/people A group of people] is traveling through [/EN#252164/scene a terminal] with [/EN#252163/scene moving walkways] .
+[/EN#252162/people Crowds of people] are riding [/EN#252165/scene escalators] up and down in [/EN#252163/scene a large tunnel] .
+[/EN#252162/people People] at [/EN#252164/scene a terminal] are on [/EN#252163/scene an elevator] packed with [/EN#252166/other others] .
+[/EN#252161/people A group of people] stand on [/EN#252163/scene a moving sidewalk] .
+[/EN#252161/people A group of people] going up [/EN#252163/scene an escalator] .

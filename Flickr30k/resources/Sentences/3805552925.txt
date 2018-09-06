@@ -1,0 +1,5 @@
+[/EN#143336/people A little girl] in [/EN#143340/clothing blue jeans] , [/EN#143342/clothing sneakers] , [/EN#143338/clothing a pink top] and [/EN#143337/clothing a brown jacket] is jumping up on [/EN#143339/scene the sidewalk] .
+[/EN#143336/people A happy young girl] wearing [/EN#143337/clothing a brown sweater] , [/EN#143338/clothing pink shirt] and [/EN#143340/clothing blue jeans] is jumping off [/EN#143339/scene a sidewalk] .
+[/EN#143336/people The little girl] wearing [/EN#143340/clothing blue jeans] and [/EN#143338/clothing a pink shirt] is practicing hopping for [/EN#0/notvisual the camera] .
+[/EN#143336/people A young girl] jumps in [/EN#0/notvisual the air] on [/EN#143339/scene a sidewalk] with [/EN#143341/scene houses] and [/EN#143344/vehicles cars] in [/EN#0/notvisual the background] .
+[/EN#143336/people A little girl] jumping in [/EN#143345/other excitement] .

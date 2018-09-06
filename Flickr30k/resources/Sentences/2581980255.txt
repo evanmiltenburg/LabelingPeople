@@ -1,0 +1,5 @@
+[/EN#59570/people A man] in [/EN#59571/clothing a suit] using [/EN#59573/other his phone] standing on [/EN#59575/scene the sidewalk] as [/EN#59572/vehicles the subway tram] goes by .
+[/EN#59570/people A man] in [/EN#59571/clothing a gray suit] standing in front of [/EN#59572/vehicles/scene a red and white moving train] .
+[/EN#59570/people Man] standing next to [/EN#59572/vehicles/scene a speeding train] looking at [/EN#59573/other his cellphone] .
+[/EN#59570/people A man] is looking at [/EN#59573/other his phone] as [/EN#59572/vehicles/scene a train] passes by .
+[/EN#59570/people A man] in [/EN#59571/other a gray suite] looking at [/EN#59573/other his phone] .

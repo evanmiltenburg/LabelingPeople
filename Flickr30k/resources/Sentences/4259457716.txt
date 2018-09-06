@@ -1,0 +1,5 @@
+[/EN#160560/people Two people] wearing [/EN#160567/clothing hats] fish in [/EN#160561/scene a harbor] , off [/EN#160563/scene the dock] .
+[/EN#160560/people Two boys] are fishing on [/EN#160565/scene a pier] next to [/EN#160563/scene a boat dock] .
+[/EN#160564/people A fisherman] with [/EN#160566/people his friend] is setting up [/EN#160568/other his pole] .
+[/EN#160560/people Two people] fishing by [/EN#160561/vehicles/scene a boat] on [/EN#160563/scene the dock] .
+[/EN#160560/people Two people] fishing beside [/EN#160561/vehicles/scene a boat] .

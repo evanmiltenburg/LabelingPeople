@@ -1,0 +1,5 @@
+[/EN#97304/people A smiling little boy] runs on [/EN#97305/scene freshly mowed grass] between [/EN#97306/other a row of trees] .
+[/EN#97304/people A small child] runs along [/EN#97305/scene the grass] smiling .
+[/EN#97304/people A little kid] running towards [/EN#0/notvisual the camera] .
+[/EN#97304/people A child] runs through [/EN#97305/scene the grass] laughing .
+[/EN#97304/people A child] running in [/EN#97305/scene the grass] .

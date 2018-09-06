@@ -1,0 +1,5 @@
+[/EN#216121/scene A farmers market] on [/EN#216128/scene the side of the street] selling [/EN#216124/other fruits] as [/EN#216123/vehicles/scene a bus] passes on [/EN#216120/scene the road] beside .
+[/EN#216122/people People] are shopping at [/EN#216121/scene a roadside vegetable stand] while [/EN#216123/vehicles/scene a bus] passes .
+[/EN#216120/scene The local street] is busy with [/EN#216121/scene a food market] and [/EN#216123/vehicles bus transportation] .
+[/EN#216120/scene A city street] with [/EN#216121/vehicles fruit carts] and [/EN#216123/vehicles/scene a bus] , and [/EN#216122/people lots of people] .
+[/EN#216125/people Group of men] and [/EN#216129/people women] buying [/EN#216124/other fruit] at [/EN#216121/scene a roadside fruit stand]

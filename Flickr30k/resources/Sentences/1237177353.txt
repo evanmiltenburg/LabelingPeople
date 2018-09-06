@@ -1,0 +1,5 @@
+[/EN#5919/people A lady] with [/EN#5922/clothing an orange jacket] is holding [/EN#5924/other a walkie talkie] , while [/EN#5923/people another lady] wearing [/EN#5921/clothing a lime green jacket] is standing near [/EN#0/notvisual her] looking at [/EN#5926/other something] in [/EN#5930/bodyparts her hand] and holding [/EN#5920/other a cane] .
+[/EN#5917/people Two woman] in [/EN#5929/clothing uniforms] are standing in [/EN#5927/scene the middle of a street] in front of [/EN#5918/vehicles an ambulance] .
+[/EN#5917/people Two women] wearing [/EN#5925/other emergency gear] are standing in front of [/EN#5918/vehicles an ambulance] .
+[/EN#5917/people Two emergency responders] are at [/EN#5928/other the scene of an incident] .
+[/EN#5917/people Two women] talk next to [/EN#5918/vehicles an ambulance] .

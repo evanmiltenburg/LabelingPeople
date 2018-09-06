@@ -1,0 +1,5 @@
+[/EN#105941/people A woman] in [/EN#105948/clothing a pick shirt] is holding [/EN#105943/other a shovel] near [/EN#105941/people a woman] in [/EN#105949/clothing brown] sweeping , while [/EN#105946/people a third woman] sits on [/EN#105945/other a stoop] .
+[/EN#105941/people A woman] sitting , [/EN#105941/people a woman] sweeping , and [/EN#105941/people a woman] holding [/EN#105943/other a shovel] .
+[/EN#105939/scene A dirt floor] gets swept by [/EN#105941/people one white and one black woman] .
+[/EN#105941/people a girl] smiles while holding [/EN#105943/other a shovel] .
+[/EN#105940/people lady] helping clean [/EN#105939/scene a " dirty " floor]

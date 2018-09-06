@@ -1,0 +1,5 @@
+[/EN#96389/other Two red chairs] and [/EN#96390/other three green chairs] are at [/EN#96391/other two separate tables] .
+[/EN#96392/people A woman] sitting in [/EN#96396/scene a restaurant] talking on [/EN#96393/other her cellphone] .
+[/EN#96392/people A woman] sitting on [/EN#96394/other a chair] talks on [/EN#96393/other her cellphone] .
+[/EN#96392/people A woman] on [/EN#96393/other a cellphone] is sitting in [/EN#96394/other a chair] .
+[/EN#96392/people A woman] talks on [/EN#96393/other a cellphone] in [/EN#96395/other a cafe] .

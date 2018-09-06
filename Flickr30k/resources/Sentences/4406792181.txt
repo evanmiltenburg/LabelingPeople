@@ -1,0 +1,5 @@
+[/EN#166557/people A young child] in [/EN#166559/clothing a striped shirt] is lying underneath [/EN#166558/other a desk] .
+[/EN#166557/people A young boy] laying on [/EN#166560/other his back] under [/EN#166558/other a piece of furniture] .
+[/EN#166557/people The child] in [/EN#166559/clothing the striped shirt] is laying under [/EN#166558/other the desk] .
+[/EN#166557/other young chile] laying under [/EN#166558/other a piece of furniture] .
+[/EN#166557/people A child] hides under [/EN#166558/other a piece of furniture] .

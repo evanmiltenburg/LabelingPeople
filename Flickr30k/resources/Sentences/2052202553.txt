@@ -1,0 +1,5 @@
+[/EN#25958/animals A reddish brown dog] walking in [/EN#25959/scene water] carrying [/EN#25960/other a stick] in [/EN#25961/bodyparts his mouth] .
+[/EN#25958/animals A dog] is running through [/EN#25959/scene a creek] with [/EN#25960/other a stick] in [/EN#25961/bodyparts its mouth] .
+[/EN#25958/animals A brown dog] wades into [/EN#25959/scene a lake] to retrieve [/EN#25962/other a stick] .
+[/EN#25958/animals A dog] carries [/EN#25960/other a very big stick] through [/EN#25959/scene the water] .
+[/EN#25958/animals A dog] holds [/EN#25960/other a stick] in [/EN#25961/bodyparts its mouth] in [/EN#25959/scene the water] .

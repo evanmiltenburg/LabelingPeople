@@ -1,0 +1,5 @@
+[/EN#14764/people A smiling woman] in [/EN#14767/clothing an orange skirt] holds [/EN#14765/clothing an open briefcase] [/EN#0/notvisual that] displays [/EN#14766/other a claw hammer] .
+[/EN#14764/people A woman] in [/EN#14767/clothing an orange dress] opens [/EN#14765/clothing a numbered briefcase] , revealing [/EN#14766/other an image of a hammer] .
+[/EN#14764/people A lady] in [/EN#14767/clothing an orange dress] holding [/EN#14765/other a suitcase] opened with [/EN#14766/other a hammer] inside .
+[/EN#14764/people A girl] in [/EN#14767/clothing an orange outfit] opens [/EN#14765/other a silver suitcase] with [/EN#14766/other a hammer] inside .
+[/EN#14764/people A model] revealing [/EN#14766/other a drawing of a hammer] in [/EN#14765/clothing a briefcase] .

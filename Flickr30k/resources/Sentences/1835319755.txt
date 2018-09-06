@@ -1,0 +1,5 @@
+[/EN#21731/people A person] wearing [/EN#21732/clothing a beige jacket] and [/EN#21736/clothing a helmet] is riding [/EN#21733/vehicles a bicycle] with [/EN#21735/clothing a filled bag] on [/EN#21739/other each handle] .
+[/EN#21731/people A man] in [/EN#21732/clothing a brown coat] is wearing [/EN#21736/clothing a helmet] and riding [/EN#21733/vehicles a bicycle] while carrying [/EN#21740/clothing two plastic bags] .
+[/EN#21731/people A person] in [/EN#21732/clothing a brown jacket] is riding [/EN#21733/vehicles a bike] wearing [/EN#21738/clothing blue jeans] also .
+[/EN#21731/people A person] biking down [/EN#21741/scene the street] and carrying [/EN#21737/other groceries] .
+[/EN#21731/people A person] using [/EN#21733/vehicles a bike] to carry [/EN#21737/other food] in [/EN#21734/clothing plastic bags] .

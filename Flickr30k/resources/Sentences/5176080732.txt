@@ -1,0 +1,5 @@
+[/EN#230400/people Several people] are in [/EN#230401/scene a building] looking at [/EN#230402/vehicles several bicycles] , and [/EN#230406/people the person] near [/EN#230407/scene the front] has [/EN#230408/clothing a blue shirt] .
+[/EN#230404/people People] in [/EN#230401/scene an indoor gymnasium] [/EN#0/notvisual that] has [/EN#230409/other blue walls] are working on [/EN#230402/vehicles bicycles] .
+[/EN#230400/people Six people] are in [/EN#230401/scene a gymnasium] working on repairing [/EN#230403/vehicles some bicycles] .
+[/EN#230400/people A group of people] in [/EN#230405/scene a basketball court] inspect [/EN#230402/vehicles some bicycles] .
+[/EN#230400/people Students] being taught to [/EN#230403/vehicles fix bikes]

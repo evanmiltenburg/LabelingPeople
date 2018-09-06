@@ -1,0 +1,5 @@
+[/EN#99032/people Four people] are shown in [/EN#99034/scene a gritty basement] setting with [/EN#99039/other blue walls] and [/EN#99033/other a white door] on [/EN#99041/other the ceiling] ; [/EN#99042/people two of the people] wear [/EN#99044/clothing black t-shirts] with [/EN#99037/other a skull-and-crossbones] and [/EN#99043/other the words] [/EN#99040/other ' starve poverty] ' .
+[/EN#0/notvisual There] are [/EN#99032/people four people] in [/EN#0/notvisual what] appears to be [/EN#99038/scene a small blue room] .
+[/EN#99032/people People] in [/EN#99034/scene a room] with [/EN#99035/other blue paint] and [/EN#99033/other a door] above [/EN#99045/bodyparts their heads] .
+[/EN#99032/people People] are observing [/EN#99034/scene a room] with [/EN#99035/other blue walls] .
+[/EN#99032/people A group] examines [/EN#99036/other a run] down [/EN#99034/scene house] .

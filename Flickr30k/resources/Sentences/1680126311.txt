@@ -1,0 +1,5 @@
+[/EN#18652/people A child] is playing soccer with [/EN#18653/other a blue and white soccer ball] nearby [/EN#18654/people onlookers] .
+[/EN#18652/people The boy] hits [/EN#18653/other the blue and white soccer ball] with [/EN#18655/bodyparts his knee] .
+[/EN#18652/people A child] is hitting [/EN#18653/other a soccer ball] with [/EN#18656/bodyparts their chest] .
+[/EN#18652/people A boy] hitting [/EN#18653/other a soccer ball] with [/EN#18656/bodyparts his chest] .
+[/EN#18652/people The boy] is kicking [/EN#18653/other a soccer ball] .

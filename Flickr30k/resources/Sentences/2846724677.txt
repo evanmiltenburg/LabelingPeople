@@ -1,0 +1,5 @@
+[/EN#76600/people A police officer] in [/EN#76601/clothing a white hat] , [/EN#76602/clothing yellow vest] , and [/EN#76603/clothing blue pants] is standing in [/EN#76609/scene an intersection] while [/EN#76604/other several red and yellow firetrucks] line [/EN#76610/scene the street] on [/EN#0/notvisual each side] .
+[/EN#76605/people A crowd] gathers on [/EN#76610/scene a city street] where [/EN#76606/vehicles a large number of emergency fire vehicles] have responded .
+[/EN#76606/other 5 firetrucks] line [/EN#76610/scene the street] , ready for [/EN#76608/other potential problems] .
+[/EN#76604/other Firetrucks] line [/EN#76610/scene both sides of a busy two-way road] .
+[/EN#76612/other A fire] in [/EN#76607/scene a office building] disrupting [/EN#76613/scene the day] .

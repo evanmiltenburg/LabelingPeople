@@ -1,0 +1,5 @@
+[/EN#211801/other An elderly dressed] in [/EN#211805/clothing a white shirt] and [/EN#211806/clothing black pants] walks down [/EN#211804/scene a scenic path] at [/EN#211802/scene a park] .
+[/EN#211801/people An old man] in [/EN#211805/clothing a white shirt] and [/EN#211806/clothing slacks] is walking down [/EN#211803/other a pathway] through [/EN#211802/scene a park] .
+[/EN#211801/people An older gentlemen] with [/EN#211809/clothing dark pants] and [/EN#211805/clothing a white shirt] walks through [/EN#211802/scene a park] .
+[/EN#211801/people An older man] walks down [/EN#211804/scene the sidewalk of a park] towards [/EN#211810/scene parking lot] .
+[/EN#211801/people An elderly man] walks down [/EN#211803/other the pathway] in [/EN#211802/scene a park] on [/EN#211808/scene a sunny day] .

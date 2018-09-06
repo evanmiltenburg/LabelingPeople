@@ -1,0 +1,5 @@
+[/EN#99917/animals A gray and white dog] jumping over [/EN#99919/scene standing water] in [/EN#99920/other the sand] .
+[/EN#99917/animals A dog] is jumping over [/EN#99919/scene a stream of water] on [/EN#99918/scene a sandy beach] .
+[/EN#99917/animals A dog] jumping over [/EN#99919/scene a puddle] on [/EN#99918/scene the beach]
+[/EN#99917/animals A dog] jumping over [/EN#99919/scene a stream of water] .
+[/EN#99917/animals A small dog] leaps over [/EN#99919/scene a stream] .

@@ -1,0 +1,5 @@
+[/EN#28603/people A woman] in [/EN#28611/clothing a red shirt] is cooking in [/EN#28608/other a skillet] on [/EN#28609/other a stove] .
+[/EN#28603/people An elderly woman] is preparing [/EN#28606/other food] in [/EN#28605/scene the kitchen] .
+[/EN#28603/people A woman] is cooking [/EN#28606/other some food] in [/EN#28605/scene a kitchen] .
+[/EN#28603/people A woman] in [/EN#28610/people red cooks] in [/EN#28604/scene a blue kitchen] .
+[/EN#28603/people A woman] preparing [/EN#28607/other a meal] at [/EN#28604/scene home] .

@@ -1,0 +1,5 @@
+[/EN#172706/people A tall , dark-haired man] in [/EN#172717/clothing white sport coat] and [/EN#172718/clothing black slacks] is walking along [/EN#172707/other a tiled mosaic crosswalk of various colors] and [/EN#172707/other designs] beside [/EN#172710/people a woman] with [/EN#172716/bodyparts short , dark hair] [/EN#0/notvisual who] is also wearing [/EN#172719/clothing a white sport coat] but with [/EN#172720/clothing blue jeans] .
+[/EN#172706/people A man] and [/EN#172710/people woman] seen from [/EN#172711/other above] , walking down [/EN#172707/scene a complex geometrically designed surface] .
+[/EN#172706/people A man] and [/EN#172710/people a woman] holding [/EN#172715/bodyparts hands] walk along [/EN#172707/other a brick roadway] .
+[/EN#172705/people Two people] are walking on [/EN#172709/scene a striped path] .
+[/EN#172705/people A couple] is walking down [/EN#172707/scene the street] .

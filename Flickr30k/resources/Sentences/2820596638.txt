@@ -1,0 +1,5 @@
+[/EN#74781/people An adult] and [/EN#74782/other a child hike] through [/EN#74783/scene the forest] with [/EN#74784/clothing backpacks] .
+[/EN#74781/people A man] and [/EN#74786/clothing a boy backpack] hiking through [/EN#74783/scene a forest] .
+[/EN#74781/people A man] and [/EN#74782/people a boy] go hiking through [/EN#74783/scene the forest] .
+[/EN#74782/people Man] and [/EN#74788/people boy] with [/EN#74784/clothing backpacks] on [/EN#74787/scene a hiking trail] .
+[/EN#74785/people Hikers] walk through [/EN#74783/scene a forest] .

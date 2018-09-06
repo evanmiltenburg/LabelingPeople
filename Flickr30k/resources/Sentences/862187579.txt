@@ -1,0 +1,5 @@
+[/EN#282150/people A man] with [/EN#282152/clothing sunglasses] standing by [/EN#282151/scene a white and red building] with [/EN#282156/other a very blue sky above] .
+[/EN#282150/people A man] with [/EN#282152/clothing glasses] is standing in front of [/EN#282151/scene a building] .
+[/EN#282150/people The man] wearing [/EN#282153/clothing the purple shirt] is in [/EN#282155/scene the shadows] .
+[/EN#282150/people A man] wearing [/EN#282152/clothing glasses] is staring off into [/EN#282154/scene space] .
+[/EN#282150/people A man] with [/EN#282152/clothing sunglasses] looking straight ahead .

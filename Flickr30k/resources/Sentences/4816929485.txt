@@ -1,0 +1,5 @@
+[/EN#206413/people A man] in [/EN#206424/clothing a red tee-shirt] steers [/EN#206414/vehicles his bicycle-like vehicle] on [/EN#206415/scene a street] in [/EN#206419/other Santo Domingo] .
+[/EN#0/notvisual There] is [/EN#206413/people a driver] in [/EN#206422/other back] , [/EN#206417/other soda bottles] in [/EN#206416/scene front] , and [/EN#206420/other a blue barrel] in [/EN#206423/scene the middle] .
+[/EN#206413/people A man] driving [/EN#0/notvisual what] looks to be [/EN#206414/other a makeshift rickshaw] .
+[/EN#206413/people A man] is peddling [/EN#206414/vehicles his bike] down [/EN#206415/scene the street] .
+[/EN#206413/people A man] in [/EN#206414/vehicles a bicycle] selling [/EN#206417/other drinks] .

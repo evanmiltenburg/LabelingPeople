@@ -1,0 +1,5 @@
+[/EN#219319/people A man] in [/EN#219321/clothing a green shirt] and [/EN#219326/clothing dark pants] and carrying [/EN#219320/other a really big pot] turns around to talk to [/EN#219322/people 3 other people] .
+[/EN#219319/people A man] in [/EN#219321/clothing a green shirt] is carrying [/EN#219320/other a basket] above [/EN#219324/bodyparts his head] while talking to [/EN#219322/people a group of people] .
+[/EN#219319/people A man] is holding [/EN#219320/other a trashcan] above [/EN#219324/bodyparts his head] in [/EN#219328/scene a garden walkway] .
+[/EN#219319/people A boy] in [/EN#219321/clothing a green shirt] hold up [/EN#219320/other a trashcan] in front of [/EN#219322/people people] .
+[/EN#219319/people A person] in [/EN#219321/clothing a green shirt] carries [/EN#219320/other a container] on [/EN#219324/bodyparts his head] .

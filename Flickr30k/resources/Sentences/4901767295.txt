@@ -1,0 +1,5 @@
+[/EN#216714/people The little boy] sits on [/EN#216713/bodyparts the man 's lap] driving [/EN#216716/other the blue tractor] on [/EN#216719/scene the winding road] down [/EN#216718/scene the hill] .
+[/EN#216713/people A father] and [/EN#216714/people son] enjoy [/EN#216720/other a ride] in [/EN#216716/vehicles a motorized vehicle] in [/EN#216722/scene the country] .
+[/EN#216715/people A man] and [/EN#216714/other child drive] down [/EN#216719/scene the road] in [/EN#216717/scene a forest] in [/EN#216716/other a blue tractor] .
+[/EN#216713/people A person] and [/EN#216714/people a child] riding [/EN#216716/other a lawn mower] down [/EN#216719/scene the road] .
+[/EN#216715/people A man] and [/EN#216714/people a little boy] are driving [/EN#216716/other a tractor] .

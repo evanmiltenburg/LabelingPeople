@@ -1,0 +1,5 @@
+[/EN#127813/people A woman] and [/EN#127814/animals a dog] are riding in [/EN#127815/other a kayak] passing by [/EN#127818/other some trees] .
+[/EN#127813/people The person] and [/EN#127817/animals the dog] are sitting on [/EN#127815/other the yellow canoe] .
+[/EN#127813/people Women] sitting in [/EN#127815/other yellow kayak] with [/EN#127814/animals her dog] .
+[/EN#127813/people One person] and [/EN#127814/animals a dog] in [/EN#127815/other a kayak]
+[/EN#127813/people A woman] is kayaking on [/EN#127819/scene a lake]

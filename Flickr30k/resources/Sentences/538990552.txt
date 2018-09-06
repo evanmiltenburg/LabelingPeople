@@ -1,0 +1,5 @@
+[/EN#235229/people An old woman] carries [/EN#235236/clothing a blue coat] as [/EN#0/notvisual she] walks on [/EN#235231/scene the sidewalk] past [/EN#235230/other the graffiti] on [/EN#235232/other a brick wall] .
+[/EN#235229/people An elderly woman] walks [/EN#235235/other past walls] and [/EN#235234/other doors] covered with [/EN#235230/other graffiti] .`
+[/EN#235229/people A woman] is walking on [/EN#235231/scene the sidewalk] beside [/EN#235230/other graffiti tagged walls] .
+[/EN#235229/people An old woman] is walking by [/EN#235233/scene a building] with [/EN#235230/other graffiti] on [/EN#0/notvisual it] .
+[/EN#235229/people the old woman] is walking in [/EN#235231/scene the street] .

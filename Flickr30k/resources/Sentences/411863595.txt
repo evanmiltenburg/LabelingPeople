@@ -1,0 +1,5 @@
+[/EN#156218/people A man] is holding [/EN#156221/clothing a very long leash] attached to [/EN#156219/animals a very large dog] [/EN#0/notvisual who] is smelling [/EN#156220/scene the grass] .
+[/EN#156218/people A woman] and [/EN#156219/animals a dog] are in [/EN#156220/scene a field of bright green grass] and [/EN#156223/scene brilliant blue sky] .
+[/EN#156218/people A man] holds [/EN#156221/clothing a long leash] with [/EN#156219/animals a large gray dog] attached to [/EN#0/notvisual it] .
+[/EN#156218/people A man] is walking [/EN#156219/animals a gray dog] on [/EN#156220/scene the grass] using [/EN#156221/clothing a long leash] .
+[/EN#156218/people A man] walks [/EN#156219/animals a black dog] on [/EN#156221/clothing a very long leash] .

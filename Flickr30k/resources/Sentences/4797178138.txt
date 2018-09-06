@@ -1,0 +1,5 @@
+[/EN#203649/people A man] in [/EN#203651/clothing a gray shirt] is working on [/EN#203650/other a work of art] with [/EN#203655/bodyparts his glove-covered right hand] .
+[/EN#203649/people A man] wearing [/EN#203652/clothing fume mask] doing [/EN#203650/other a wall graffiti] .
+[/EN#203649/people A man] is using [/EN#203653/other spray paint] on [/EN#203650/other a wall mural] .
+[/EN#203649/people A graffiti artist] is [/EN#203654/other spray painting bricks] .
+[/EN#203649/people An artist] is spray painting [/EN#203650/other an image] .

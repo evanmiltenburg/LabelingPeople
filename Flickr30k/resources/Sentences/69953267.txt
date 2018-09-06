@@ -1,0 +1,5 @@
+[/EN#263510/people A race car driver] is sitting in [/EN#263511/vehicles a red car] talking to [/EN#263512/people two men] [/EN#0/notvisual who] are leaning into [/EN#263511/vehicles the car] to hear [/EN#0/notvisual him] .
+[/EN#263509/people A man] sitting in [/EN#263511/vehicles a red sports car] converses with [/EN#263512/people two other man] inspecting [/EN#263511/vehicles the car] .
+[/EN#263512/people Two men] bending over talking to [/EN#263510/people a man] in [/EN#263511/vehicles a red race car] .
+[/EN#263509/people Reporter] is taking [/EN#263513/other interview] from [/EN#263510/people a red race car driver] .
+[/EN#263511/vehicles A red , Goodyear race car] .

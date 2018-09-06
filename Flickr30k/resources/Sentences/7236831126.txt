@@ -1,0 +1,5 @@
+[/EN#267352/people A female] is running [/EN#267354/other a race] where [/EN#0/notvisual she] wears [/EN#267358/other the number 40] and appears to be drinking [/EN#267353/scene a bottle of water] .
+[/EN#267352/people A woman] is running at [/EN#267354/other a competitive race] , holding [/EN#267353/scene a bottle of water] .
+[/EN#267352/people A middle-aged woman] in [/EN#267357/clothing red and black] is running in [/EN#267354/other a race] .
+[/EN#267352/people A woman] in [/EN#267355/clothing a red shirt] competes in [/EN#267354/other an endurance sport] .
+[/EN#267352/people One female] in [/EN#267355/clothing red] running [/EN#267356/other a race] .

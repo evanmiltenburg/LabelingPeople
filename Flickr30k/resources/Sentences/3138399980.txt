@@ -1,0 +1,5 @@
+[/EN#96021/people A person] wearing [/EN#96022/clothing an orange shirt] has [/EN#96023/bodyparts her hand] in [/EN#0/notvisual the air] as [/EN#96027/other others] watch .
+[/EN#96021/people A woman] in [/EN#96026/scene a park] stands with [/EN#96023/bodyparts/people her arm] up in [/EN#0/notvisual the air] .
+[/EN#96021/people The woman] in [/EN#96022/clothing the orange shirt] has [/EN#96024/bodyparts her hand] raised .
+[/EN#96021/people a woman] in [/EN#96022/clothing orange] throws [/EN#96024/bodyparts her hand] in [/EN#0/notvisual the air] .
+[/EN#96021/people A person] in [/EN#96022/clothing an orange shirt] reaching up .

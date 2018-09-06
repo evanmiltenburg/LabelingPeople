@@ -1,0 +1,5 @@
+[/EN#54225/people A street vendor] is reading [/EN#54228/other a newspaper] while waiting for [/EN#54229/people customers] .
+[/EN#54225/people A vendor] stands in [/EN#54226/scene his stall] [/EN#0/notvisual that] is filled with [/EN#54227/other candles] .
+[/EN#54223/people A gentleman] in [/EN#54226/scene a booth] selling [/EN#54227/other candles] .
+[/EN#54226/scene A street stall] is perused by [/EN#54224/people patrons]
+[/EN#54222/people a man] selling [/EN#54227/other candles] at [/EN#54226/scene a stand]

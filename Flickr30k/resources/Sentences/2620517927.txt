@@ -1,0 +1,5 @@
+[/EN#62002/people A group of officers] on [/EN#62006/other motorcycles] driving down [/EN#62003/scene a city road] .
+[/EN#62002/people Police] patrolled [/EN#62003/scene the downtown streets] on [/EN#62006/other their motorcycles] .
+[/EN#62002/people Police] are driving down [/EN#62003/scene the street] in [/EN#62008/other formation] .
+[/EN#62002/people Police] on [/EN#62006/other motorcycles] are escorting [/EN#62007/other a motorcade] .
+[/EN#62002/people Police] escorting [/EN#62009/people someone] or [/EN#62010/other something] .

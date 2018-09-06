@@ -1,0 +1,5 @@
+[/EN#39496/people A man] in [/EN#39504/clothing a navy] and [/EN#39505/clothing white striped shirt] is riding [/EN#39498/animals a black horse] in [/EN#39501/other the sand] and trying to rope [/EN#39500/animals cattle] .
+[/EN#39496/people One man] is visible riding [/EN#39498/animals a black horse] with [/EN#39503/animals a brown horse] and [/EN#39500/animals bull] in [/EN#0/notvisual the background] .
+[/EN#39496/people Rodeo participants] are riding on [/EN#39502/other horseback] while trying to lasso [/EN#39499/animals a calf] .
+[/EN#39496/people Two people] , on [/EN#39502/other horseback] , roping [/EN#39499/animals a bull] at [/EN#39506/scene an event] .
+[/EN#39496/people A cowboy] wrangling [/EN#39500/animals a calf] .

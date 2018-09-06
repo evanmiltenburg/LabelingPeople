@@ -1,0 +1,5 @@
+[/EN#127868/animals Three black dogs] playing in [/EN#127870/scene a fenced area] with [/EN#127869/other a ball] .
+[/EN#127868/animals Three dogs] are playing with [/EN#127869/other a red ball] in [/EN#127871/scene a field] .
+[/EN#127868/animals Three black dogs] running after [/EN#127869/other an orange ball] .
+[/EN#127868/animals Three dogs] run after [/EN#127869/other a ball] in [/EN#127870/scene a field] .
+[/EN#127868/animals Three dogs] play with [/EN#127869/other a red ball] .

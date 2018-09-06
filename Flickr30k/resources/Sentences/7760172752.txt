@@ -1,0 +1,5 @@
+[/EN#274706/people A man] in [/EN#274707/clothing a dark shirt] and [/EN#274710/clothing overalls] is squatting down on [/EN#274708/other gravel] and working on [/EN#274714/vehicles a railroad car] .
+[/EN#274706/people A middle-aged man] is kneeling in [/EN#274708/other the gravel] working on [/EN#274709/vehicles/scene a train] on [/EN#274711/scene the tracks] .
+[/EN#274706/people A man] in [/EN#274710/clothing jeans] and [/EN#274707/clothing a dark t-shirt] is working on [/EN#274709/vehicles/scene a train] with [/EN#274712/other an oil pot] .
+[/EN#274706/people A middle-aged man] works under [/EN#274709/vehicles/scene the engine of a train] on [/EN#274711/scene rail tracks] .
+[/EN#274706/people A man] is doing [/EN#274713/other some kind of maintenance work] on [/EN#274709/vehicles/scene a train] .

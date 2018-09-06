@@ -1,0 +1,5 @@
+[/EN#207096/people A man] in [/EN#207100/clothing a striped orange shirt] pulls [/EN#207097/vehicles a cart] heavily laden with [/EN#207104/other colorful cleaning supplies] up [/EN#207098/scene a cobblestone street] .
+[/EN#207096/people A man] pulling [/EN#207097/other a cart of cleaning supplies] down [/EN#207098/scene a cobbled street] .
+[/EN#207096/people Man] pulling [/EN#207097/vehicles a cart] full of [/EN#207103/other buckets] , [/EN#207105/other mops] and [/EN#207102/other brooms] .
+[/EN#207096/people A man] in [/EN#207101/clothing a vest] struggling to pull [/EN#207097/vehicles his cart] .
+[/EN#207096/people A man] pulling [/EN#207097/other a cart full cleaning supplies] .

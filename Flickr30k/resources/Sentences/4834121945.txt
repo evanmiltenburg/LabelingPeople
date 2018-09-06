@@ -1,0 +1,5 @@
+[/EN#208928/people Two men] are fishing beside [/EN#208935/other a dam one] is sitting down and [/EN#208936/other the other one] is baiting [/EN#208937/other his hook] .
+[/EN#208928/people Two men] sit at [/EN#208934/scene a pier] with [/EN#208930/scene a pair of cranes] stand in [/EN#0/notvisual the background] near [/EN#208931/scene a building] .
+[/EN#208927/vehicles Two cars] and [/EN#208926/people three men] are standing next to [/EN#208930/scene a loading dock] .
+[/EN#208927/vehicles Two cars] are parked by [/EN#208929/scene a body of water] by [/EN#208930/scene some cranes] .
+[/EN#208926/people Three men] by [/EN#208932/vehicles a car] fishing in [/EN#208929/scene the ocean] .

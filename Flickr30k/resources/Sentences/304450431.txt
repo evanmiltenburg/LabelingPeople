@@ -1,0 +1,5 @@
+Against [/EN#89736/scene a panoramic backdrop] from [/EN#89725/scene a mountain] overview [/EN#89726/people a woman] is photographed wearing [/EN#89727/clothing a biking helmet] and [/EN#89728/clothing sunglasses] .
+[/EN#89726/people A woman] wearing [/EN#89727/clothing a cycling helmet] , [/EN#89728/clothing sunglasses] , and [/EN#89729/clothing a red jacket] is standing [/EN#89730/bodyparts arms] outstretched over [/EN#89732/scene a valley] .
+[/EN#89726/people A woman] , wearing [/EN#89727/clothing a bicycle helmet] , stands , [/EN#89730/bodyparts arms] outstretched with [/EN#89733/scene a mountain valley] behind [/EN#0/notvisual her] .
+[/EN#89726/people A woman] is standing on [/EN#89734/scene a cliff] with [/EN#89733/scene a beautiful landscape] behind [/EN#0/notvisual her] .
+[/EN#89726/people A woman] gives [/EN#89731/bodyparts the thumbs] up over [/EN#89735/other the slope] .

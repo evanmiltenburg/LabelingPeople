@@ -1,0 +1,5 @@
+[/EN#89373/people A man] in [/EN#89375/clothing a yellow helmet] is walking with [/EN#89376/vehicles a yellow bicycle] near [/EN#89377/people a group of protesters] .
+[/EN#89373/people a man] wearing [/EN#89375/clothing a yellow bike helmet] walking [/EN#89376/vehicles his yellow bike] along [/EN#89374/scene a sidewalk]
+[/EN#89373/people A man] wearing [/EN#89375/clothing a yellow and black helmet] walks with [/EN#89376/vehicles his yellow bike] .
+[/EN#89373/people A man] is walking along side [/EN#89376/vehicles a yellow bike] on [/EN#89374/scene a sidewalk] .
+[/EN#89373/people A man] on [/EN#89374/scene a street] with [/EN#89376/vehicles his yellow bike]

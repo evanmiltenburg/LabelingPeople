@@ -1,0 +1,5 @@
+[/EN#182582/people Pedestrian] stroll along [/EN#182583/scene the paved walkway] between [/EN#182587/scene bright yellow and red shops] in [/EN#182592/scene the marketplace of city streets] .
+[/EN#182582/people A man] wearing [/EN#182590/clothing a teal jacket] and holding [/EN#182585/clothing a pink umbrella] walking next to [/EN#182586/people a woman] in [/EN#182589/clothing a black coat] walking [/EN#182584/animals a dog] .
+[/EN#182582/people A gentleman] is using [/EN#182585/clothing a red umbrella] as [/EN#182591/other a walking stick] as [/EN#0/notvisual he] walks down [/EN#182583/scene the stone paved road] next to [/EN#182584/animals a dog] .
+[/EN#182582/people A man] , [/EN#182586/people woman] and [/EN#182584/animals dog] are walking down [/EN#182583/scene a street] lined with [/EN#182587/scene shops] .
+[/EN#182583/scene This city street] looks like [/EN#0/notvisual it] is in [/EN#182588/people London] .

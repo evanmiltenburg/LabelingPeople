@@ -1,0 +1,5 @@
+[/EN#203562/people A woman] wearing [/EN#203565/clothing a short , white dress] while riding [/EN#203564/vehicles a bicycle] [/EN#0/notvisual that] has [/EN#203563/other a basket] on [/EN#203566/scene front] with [/EN#203568/other things] in [/EN#0/notvisual it] .
+[/EN#203562/people A young woman] in [/EN#203565/clothing a white sundress] and wearing [/EN#203567/clothing sunglasses] rides [/EN#0/notvisual her] [/EN#203564/vehicles bike] with [/EN#203563/other a basket] .
+[/EN#203562/people A woman] riding [/EN#203564/vehicles a bicycle] with [/EN#203563/other a basket] on [/EN#203566/scene the front] .
+[/EN#203562/people A woman] in [/EN#203565/clothing a white dress] is riding [/EN#203564/vehicles a bicycle] .
+[/EN#203562/people A lady] in [/EN#203565/clothing a white dress] riding [/EN#203564/vehicles a bike]

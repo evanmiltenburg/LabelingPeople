@@ -1,0 +1,5 @@
+On [/EN#247303/scene the road] [/EN#0/notvisual there] is [/EN#247302/people one man] with [/EN#247301/vehicles a wagon] and [/EN#247304/animals two cattle] passing [/EN#247300/vehicles an Isuzu truck] [/EN#0/notvisual which] is carrying [/EN#247309/people three men] .
+[/EN#247300/vehicles A white Isuzu truck] is passing by [/EN#247302/people a man] with [/EN#247301/vehicles a wagon] and [/EN#247304/animals two donkeys] on [/EN#247303/scene a road] .
+[/EN#247300/vehicles A truck] and [/EN#247302/people a man] and [/EN#247304/animals two donkeys] are passing [/EN#0/notvisual each other] on [/EN#247303/scene a narrow road] .
+[/EN#247300/vehicles Isuzu truck] driving by while [/EN#247302/people a man] with [/EN#247304/animals some cows] drive [/EN#247308/scene the opposite way] .
+[/EN#247300/vehicles A truck] and [/EN#247304/vehicles an ox-drawn cart] passing [/EN#0/notvisual each other] on [/EN#247303/scene a road] .

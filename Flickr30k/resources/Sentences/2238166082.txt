@@ -1,0 +1,5 @@
+[/EN#36136/people A girl] in [/EN#36137/clothing a purple coat] on [/EN#36138/other a red sled] coasting down [/EN#36140/scene a snowy hill] .
+[/EN#36136/people A young girl] is sliding down [/EN#36141/other a snow slope] in [/EN#36138/other a red sled] .
+[/EN#36136/people Girl] wearing [/EN#36137/clothing purple jacket] rides [/EN#36138/other a red snow sled] .
+[/EN#36136/people A child] in [/EN#36137/other purple winter gear] is on [/EN#36138/other a red sled] .
+[/EN#36136/people A child] is sledding on [/EN#36138/other a red sled]

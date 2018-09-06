@@ -1,0 +1,5 @@
+[/EN#196951/people A man] and [/EN#196950/people a woman] are sitting at [/EN#196952/other a table] outside , next to [/EN#196957/scene a small flower garden] .
+[/EN#196951/people The man] in [/EN#196953/clothing the white shirt] is sitting on [/EN#196954/other a chair] [/EN#0/notvisual that] is by [/EN#196959/other the yellow flowers] .
+[/EN#196951/people A man] in [/EN#196953/clothing a white shirt] sits [/EN#196955/other across] from [/EN#196950/people a woman] at [/EN#196952/other an outdoor table] .
+[/EN#196948/people Two people] are sitting outside [/EN#196956/scene the restaurant] talking .
+[/EN#196949/people A couple] at [/EN#196952/other an outside cafe] .

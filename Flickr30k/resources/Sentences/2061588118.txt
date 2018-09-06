@@ -1,0 +1,5 @@
+[/EN#26428/people A man] with [/EN#26429/clothing a dark hat] and [/EN#26430/people a blond woman] walk through [/EN#26431/scene the water] with [/EN#26432/other the aide of sticks] .
+[/EN#26430/people A woman] hiking upstream while [/EN#26428/people a man] watched from [/EN#0/notvisual the side] .
+[/EN#26433/people 2 hikers] are in [/EN#26431/scene the water] trying to cross .
+[/EN#26428/people A man] and [/EN#26430/people a woman] are crossing [/EN#26431/scene a stream] .
+[/EN#26433/people A family] is hiking through [/EN#26431/other a spring] .

@@ -1,0 +1,5 @@
+[/EN#186139/people A man] sits on top of [/EN#186143/other a ladder] on [/EN#186144/scene a street] in front of [/EN#186142/other the Cafe Dante] .
+[/EN#0/notvisual This] is [/EN#186147/people a scene of a production crew] outside in [/EN#186144/scene a street] near [/EN#186142/other a deli] .
+[/EN#186145/other A tall light] and [/EN#186148/other reflector] with [/EN#186139/people a man] sitting on [/EN#186143/other a tall ladder] .
+[/EN#186140/people A film crew] is set up outside [/EN#186146/scene a deli building] .
+[/EN#186139/people A man] is sitting outside [/EN#186142/other a cafe] on [/EN#186143/other a stepladder]

@@ -1,0 +1,5 @@
+[/EN#16224/people A man] is shaving [/EN#16225/bodyparts his face] in [/EN#16226/other the mirror] while [/EN#16227/people a girl] stands behind [/EN#0/notvisual him] and takes [/EN#16230/other a picture] .
+[/EN#16224/people A man] is looking into [/EN#16226/other the mirror] and shaving while [/EN#16227/people a woman] is taking [/EN#0/notvisual a picture] of [/EN#0/notvisual him] .
+[/EN#16224/people A young man] shaves [/EN#16225/bodyparts his face] , while [/EN#16227/people a girl] behind [/EN#0/notvisual him] takes [/EN#16231/other a picture] in [/EN#16226/other the mirror] .
+[/EN#16227/people A girl] taking [/EN#0/notvisual a picture] of [/EN#16224/people a boy] shaving in [/EN#16226/other the mirror] .
+[/EN#16224/people A man] shaves as [/EN#16227/people his girlfriend] takes [/EN#16232/other a picture] .

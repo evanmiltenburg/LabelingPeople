@@ -1,0 +1,5 @@
+[/EN#74372/people A man] is photographing [/EN#74373/vehicles a Budweiser sprint car] at [/EN#74374/other a speedway] smoking [/EN#74375/other its tires] .
+[/EN#74373/vehicles A Budweiser-sponsored race car] accelerates quickly with [/EN#74376/other smoke] behind [/EN#0/notvisual it] .
+[/EN#74373/vehicles A dragster] is taking off and leaving [/EN#74376/other a huge trail of smoke] behind [/EN#0/notvisual him] .
+[/EN#74376/other Smoke] is spewing out of [/EN#74379/other the back] of [/EN#74373/vehicles a red race car] on [/EN#74374/other a racetrack] .
+[/EN#74373/vehicles Red racing car] on [/EN#74377/scene track] blowing [/EN#74376/other smoke]

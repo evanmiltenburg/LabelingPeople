@@ -1,0 +1,5 @@
+[/EN#69104/animals A black and white shorthair dog] runs across [/EN#69105/scene brown and green grass] .
+[/EN#69104/animals A black and white dog] running away across [/EN#69105/scene the grass] .
+[/EN#69104/animals The brown and white dog] is running through [/EN#69105/scene a field] .
+[/EN#69104/animals A black and white dog] is running in [/EN#69105/scene the grass] .
+[/EN#69104/animals A dog] sprints across [/EN#69105/scene a grassy field] .

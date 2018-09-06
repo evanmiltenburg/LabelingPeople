@@ -1,0 +1,5 @@
+[/EN#116741/people A man] on [/EN#116745/other a stool] works [/EN#116743/other a large piece of pottery] on [/EN#116744/other a pottery wheel] .
+[/EN#116741/people A man] with [/EN#116746/bodyparts a mustache] in [/EN#116742/clothing a blue shirt] working on [/EN#116743/other a pottery bowl] .
+[/EN#116741/people An elderly man] sculpts [/EN#116743/other a large bowl] on [/EN#116743/other a pottery] spinning [/EN#116744/other wheel] .
+[/EN#116741/people A man] in [/EN#116742/clothing a blue shirt] is spinning [/EN#116743/other a clay bowl] .
+[/EN#116741/people A man] is sitting in [/EN#116747/scene a room] spinning [/EN#116743/other pottery] .

@@ -1,0 +1,5 @@
+[/EN#124706/animals A dark brown dog] is looking at [/EN#124708/other bubbles] while walking on [/EN#124707/scene green grass] .
+[/EN#124706/animals A brown dog] walking across [/EN#124707/scene a lawn] as [/EN#124708/other bubbles] float by .
+[/EN#124706/animals The brown dog] is chasing and popping [/EN#124708/other bubbles] .
+[/EN#124706/animals Dog] catching [/EN#124708/other bubbles] on [/EN#124707/scene the grass] .
+[/EN#124706/animals A brown dog] playing with [/EN#124708/other bubbles] .

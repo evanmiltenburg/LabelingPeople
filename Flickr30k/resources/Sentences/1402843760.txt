@@ -1,0 +1,5 @@
+[/EN#11393/animals A white dog] lifts [/EN#11396/bodyparts its paw] as [/EN#0/notvisual it] stands on [/EN#11394/scene the grass] near [/EN#11397/other striped poles] .
+[/EN#11393/animals The small furry white dog] is walking in [/EN#11394/scene the green grass] .
+[/EN#11393/animals A white dog] competing in [/EN#11395/scene an agility event] .
+[/EN#11393/animals a dog] trots through [/EN#11394/scene the grass] .
+[/EN#11393/animals A fluffy white dog] is outside .

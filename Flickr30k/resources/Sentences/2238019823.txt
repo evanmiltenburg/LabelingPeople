@@ -1,0 +1,5 @@
+[/EN#36131/people Man] surfing under [/EN#36132/scene the Golden Gate Bridge] on [/EN#36133/scene a foggy day] .
+[/EN#36131/people A man] surfs by [/EN#36132/scene the Golden Gate bridge] on [/EN#36133/scene a foggy day] .
+[/EN#36131/people A surfer] rides [/EN#36134/scene a wave] under [/EN#36132/scene a red bridge] .
+[/EN#36131/people A surfer] by [/EN#36132/scene a bridge] in [/EN#36135/other foggy conditions]
+[/EN#36131/people A surfer] under [/EN#36132/scene a bridge] .

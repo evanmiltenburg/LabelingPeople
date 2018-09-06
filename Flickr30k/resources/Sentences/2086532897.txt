@@ -1,0 +1,5 @@
+[/EN#27776/people A person] is on [/EN#27779/vehicles/scene a small boat] and going down [/EN#27777/scene some very strong water currents] .
+[/EN#27776/people A man] on [/EN#27779/other a kayak] coming down [/EN#27777/scene a raging waterfall]
+[/EN#27777/scene White water] rafter [/EN#27781/other goes] through [/EN#27777/scene a rough spot] .
+[/EN#27776/people A man] is kayaking down [/EN#27777/scene a waterfall] .
+[/EN#27776/people A kayaker] falling down [/EN#27777/scene a waterfall]

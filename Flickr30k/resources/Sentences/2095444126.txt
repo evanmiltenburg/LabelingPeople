@@ -1,0 +1,5 @@
+[/EN#28371/animals A dog] shakes off [/EN#28372/scene water] and gets contorted .
+[/EN#28371/animals The dog] is shaking [/EN#28372/scene water] off of [/EN#28373/bodyparts his body] .
+[/EN#28371/animals A dog] is shaking off [/EN#28372/scene water] .
+[/EN#28371/animals A dog] shakes [/EN#28374/bodyparts his head] .
+[/EN#28371/animals A dog] shakes off [/EN#28372/scene water]

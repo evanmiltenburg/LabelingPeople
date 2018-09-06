@@ -1,0 +1,5 @@
+[/EN#74040/animals A black dog] emerges from [/EN#74044/scene the water] onto [/EN#74045/other the sand] , holding [/EN#74041/other a white object] in [/EN#74043/bodyparts its mouth] .
+[/EN#74040/animals a black dog] walking out of [/EN#74044/scene the water] with [/EN#74041/other a white ball] in [/EN#74042/bodyparts his mouth] .
+[/EN#74040/animals A black dog] emerges from [/EN#74044/scene the water] with [/EN#74041/other a white ball] in [/EN#74042/bodyparts its mouth] .
+[/EN#74040/animals The black dog] jumps out of [/EN#74044/scene the water] with [/EN#74041/other something] in [/EN#74043/bodyparts its mouth] .
+[/EN#74040/animals A black dog] on [/EN#74045/scene a beach] carrying [/EN#74041/other a ball] in [/EN#74043/bodyparts its mouth] .

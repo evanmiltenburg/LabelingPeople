@@ -1,0 +1,5 @@
+On [/EN#241089/scene a moving walkway] , [/EN#241087/people a man] looks back to see [/EN#241088/vehicles a long row of green shopping carts] moving toward [/EN#0/notvisual him] .
+[/EN#241087/people A man] in [/EN#241091/clothing a uniform] is on [/EN#241090/scene a ramp] looking back at [/EN#241088/vehicles a stacked row of grocery shopping carts] .
+[/EN#241087/people A man] is riding up [/EN#241090/scene an escalator] [/EN#0/notvisual that] is carrying [/EN#241088/vehicles shopping carts] .
+[/EN#241087/people Man] in [/EN#241092/clothing white shirt] on moving [/EN#241089/scene sidewalk] with [/EN#241088/vehicles shopping carts] .
+[/EN#241087/people A man] and [/EN#241088/vehicles some carts] are on [/EN#241089/scene a motorized floor] .

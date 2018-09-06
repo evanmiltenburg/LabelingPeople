@@ -1,0 +1,5 @@
+[/EN#206524/people A black man] in [/EN#206530/clothing white clothes] walks [/EN#206525/vehicles a blue drink cart] down [/EN#206527/scene a cobbled street] .
+[/EN#206524/people A man] is pushing [/EN#206525/vehicles his blue painted snack cart] through [/EN#206527/scene the street] .
+[/EN#206524/people A man] is pushing [/EN#206529/vehicles a bike] with [/EN#206525/other a large basket] filled with [/EN#206528/other drinks] .
+[/EN#206524/people A man] is pushing [/EN#206525/other a bicycle kart] with [/EN#206528/other various drinks] on [/EN#0/notvisual it] .
+[/EN#206524/people A man] is pushing [/EN#206525/vehicles a cart] selling [/EN#206528/other drinks] .

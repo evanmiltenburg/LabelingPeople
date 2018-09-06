@@ -1,0 +1,5 @@
+[/EN#263215/people A woman] wearing [/EN#263218/clothing a maroon hoodie] is holding [/EN#263216/other a black object] as [/EN#0/notvisual she] wades through [/EN#263219/scene shallow water] under [/EN#263220/scene a bridge] .
+[/EN#263215/people A woman] with [/EN#263218/clothing a red hoodie] on trying to cross [/EN#263219/scene a stream of water] shoeless with [/EN#263216/other a covered television] .
+[/EN#263215/people A white female] wearing [/EN#263218/clothing a hooded maroon sweater] carries [/EN#263216/other an object] across [/EN#263219/scene a shallow river] .
+[/EN#263215/people A barefoot woman] wearing [/EN#263218/clothing a red sweater] is carrying [/EN#263216/other an object] through [/EN#263219/scene water] .
+[/EN#263215/people A young woman] wades across [/EN#263219/scene a stream] carrying [/EN#263216/other a box] .

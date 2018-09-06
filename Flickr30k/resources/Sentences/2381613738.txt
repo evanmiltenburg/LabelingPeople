@@ -1,0 +1,5 @@
+[/EN#45331/people A blond boy] in [/EN#45333/clothing a brown jacket] sits on [/EN#45332/other a tire swing] .
+[/EN#45331/people A blond-haired child] is swinging on [/EN#45332/other a tire swing] .
+[/EN#45331/people A blond-haired toddler] swinging on [/EN#45332/other a tire swing] .
+[/EN#45331/people Little boy] swinging fast in [/EN#45332/other tire swing] .
+[/EN#45331/people A blond child] riding [/EN#45332/other a tire swing] .

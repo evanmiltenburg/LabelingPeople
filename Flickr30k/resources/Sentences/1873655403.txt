@@ -1,0 +1,5 @@
+[/EN#22377/clothing 3 safety jacket] clad [/EN#22376/people Construction workers] appear to be poking [/EN#22380/other something] interesting with [/EN#22379/other their shovels] .
+[/EN#22376/people Three male construction workers] are examining [/EN#22380/other something] in [/EN#22378/scene a field] , [/EN#0/notvisual two of them] are holding [/EN#22379/other shovels] .
+[/EN#22376/people Three male workers] in [/EN#22377/clothing bright jackets] are working in [/EN#22378/scene a field] with [/EN#22379/other shovels] .
+[/EN#22376/people People] with [/EN#22377/clothing safety vests] stand in [/EN#22378/scene a field] with [/EN#22379/other shovels] .
+[/EN#22376/people Men] doing [/EN#22382/other work] in [/EN#22378/scene a field] .

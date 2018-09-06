@@ -1,0 +1,5 @@
+[/EN#92268/people A blond woman] speaks at [/EN#92271/scene a podium] labeled " [/EN#92269/other Holiday Stars Project] " in front of [/EN#92272/other a blue wall] [/EN#0/notvisual that] says " [/EN#92270/other University of Illinois Springfield] " .
+[/EN#92268/people A woman] in [/EN#92275/clothing a suit] is speaking at [/EN#92271/scene a podium] at [/EN#92270/other the University of Illinois at Springfield] for [/EN#92269/other a Holiday Stars Project] .
+[/EN#92268/people A white lady] speaking into [/EN#92273/other microphone] .
+[/EN#92268/people A woman] is standing at [/EN#92271/scene a podium] .
+[/EN#92268/people A woman] stands at [/EN#92271/scene a podium] .

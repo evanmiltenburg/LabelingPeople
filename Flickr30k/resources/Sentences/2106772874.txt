@@ -1,0 +1,5 @@
+[/EN#29161/animals A brown and black dog] and [/EN#29162/animals a white dog] are wrestling on [/EN#29162/other the carpet] .
+[/EN#29161/animals A large white dog] and [/EN#29163/animals a smaller brown dog] fight .
+[/EN#29162/animals A white dog] opens [/EN#29165/bodyparts its mouth] near [/EN#29163/animals a smaller dog] .
+[/EN#29162/animals A white dog] plays with [/EN#29163/animals a brown dog] on [/EN#29162/other carpet] .
+[/EN#29161/animals Two dogs] playing rough .

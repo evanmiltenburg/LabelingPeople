@@ -1,0 +1,5 @@
+[/EN#59930/animals Two dogs] are running around on [/EN#59933/scene dead grass] and [/EN#59932/other sand] with [/EN#59934/scene green grass] in [/EN#0/notvisual the background] .
+[/EN#59930/animals two dogs] are running towards [/EN#0/notvisual each other] across [/EN#59932/other the sand] .
+[/EN#59930/animals Two dogs] are running towards [/EN#0/notvisual each other] on [/EN#59931/scene a beach] .
+[/EN#59930/animals Two dogs] run towards [/EN#0/notvisual each other] on [/EN#59931/scene a marshy area] .
+[/EN#59930/animals Two dogs] run toward [/EN#0/notvisual each other] .

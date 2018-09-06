@@ -1,0 +1,5 @@
+[/EN#138363/scene Crowded Mexican restaurant] , [/EN#138365/other empty chair] in [/EN#0/notvisual foreground] .
+[/EN#138364/people People] are sitting in [/EN#138363/scene a cheery Mexican restaurant] .
+[/EN#138366/clothing A red colored diner features dark red] chairs .
+[/EN#138365/scene An empty seat] at [/EN#138363/scene a Mexican themed restaurant] .
+[/EN#138364/people Many people] sit in [/EN#138363/scene a Mexican restaurant] .

@@ -1,0 +1,5 @@
+[/EN#174438/people Bearded man] wearing [/EN#174447/clothing socks] with [/EN#174440/clothing sandals] sitting on [/EN#174439/other a bench] .
+[/EN#174438/people A man] in [/EN#174445/clothing a sweater] is sitting on [/EN#174439/other a bench] next to [/EN#174442/clothing a bag] .
+[/EN#174438/people man] in [/EN#174441/clothing a green hat] sites on [/EN#174439/other a green bench] with [/EN#174446/other snacks] .
+[/EN#174438/people a man] sitting at [/EN#0/notvisual ground] with [/EN#174444/other a nice] wearing
+[/EN#174438/people A man] in [/EN#174441/clothing a green hat] sitting on [/EN#174439/other a bench] .

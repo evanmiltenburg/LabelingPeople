@@ -1,0 +1,5 @@
+[/EN#101472/animals A brown horse] with [/EN#101473/people a rider] on [/EN#101475/other its back] jumps [/EN#101474/other a barrier] .
+[/EN#101472/animals A horse] jumps [/EN#101474/scene a fence] in [/EN#101477/other a show] jumping [/EN#101478/other competeition] .
+[/EN#101472/animals A horse] leaps [/EN#101474/other a hurdle] with [/EN#101473/people a rider] on [/EN#101475/other its back] .
+[/EN#101473/people An equestrian] on [/EN#101472/animals a horse] makes [/EN#0/notvisual a jump] .
+[/EN#101472/animals Horse] and [/EN#101479/other rider leap] over [/EN#101474/other a barrier]

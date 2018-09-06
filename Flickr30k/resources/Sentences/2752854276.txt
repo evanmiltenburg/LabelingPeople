@@ -1,0 +1,5 @@
+[/EN#70672/people a young girl] wearing [/EN#70673/clothing a blueish green shirt] standing at [/EN#70674/other the kitchen counter] .
+[/EN#70672/people A young girl] with [/EN#70673/clothing a bright blue shirt] is eating [/EN#70675/other food] off of [/EN#70674/other a countertop] .
+[/EN#70672/people A little girl] in [/EN#70673/clothing a blue shirt] is playing with [/EN#70676/other something] on [/EN#70674/other a countertop] .
+[/EN#70672/people A small child] is stirring [/EN#70675/other food] with [/EN#70677/other a red spoon] on [/EN#70674/other a kitchen counter] .
+[/EN#70672/people A girl] eats [/EN#0/notvisual her] [/EN#70676/other food] on [/EN#70674/other the counter] .

@@ -1,0 +1,5 @@
+[/EN#17237/animals A dog] enjoys playing in [/EN#17238/scene the water] at [/EN#17240/scene the edge of a field] .
+[/EN#17237/animals A dog] splashing though [/EN#17238/scene a large puddle] in [/EN#17239/scene a field] .
+[/EN#17237/animals A dog] runs through [/EN#17238/scene muddy water] .
+[/EN#17237/animals A brown dog] playing in [/EN#17240/other mud] .
+[/EN#17237/animals A dog] is playing in [/EN#17238/scene water] .

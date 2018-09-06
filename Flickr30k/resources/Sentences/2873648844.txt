@@ -1,0 +1,5 @@
+[/EN#78186/animals A fluffy dog] is wearing [/EN#78187/clothing a green guard jacket] for [/EN#78188/other an elementary school] .
+[/EN#78186/scene a white puddle] wearing [/EN#78190/clothing a yellow school jacket] on [/EN#78191/other a lease]
+[/EN#78186/animals a white dog] on [/EN#78192/clothing a leash] is wearing [/EN#78190/clothing a yellow jacket] .
+[/EN#78186/animals A dog] in training to become [/EN#78186/animals a seeing-eye dog] .
+[/EN#78186/animals A dog] wearing [/EN#78190/clothing a bright green jacket] .

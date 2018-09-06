@@ -1,0 +1,5 @@
+[/EN#59973/scene A restaurant] with [/EN#59967/scene two booths] occupied and [/EN#59968/other a wheelchair] leaning against [/EN#59969/other a table] .
+[/EN#59970/people Two couples] sitting at [/EN#59971/other separate tables] eating in [/EN#59973/scene a restaurant] .
+[/EN#59970/people Two groups of people] sitting at [/EN#59967/scene a booth] in [/EN#59974/other a dinner] .
+[/EN#59970/people Two couples] sit in [/EN#59967/scene booths] at [/EN#59973/scene a small restaurant] .
+[/EN#59972/people A couple] eating in [/EN#59973/scene a restaurant] .

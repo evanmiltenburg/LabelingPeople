@@ -1,0 +1,5 @@
+[/EN#96319/people A man] is wearing [/EN#96322/clothing a Santa hat] and holding [/EN#96323/clothing a white umbrella] while [/EN#96321/people two men] with [/EN#96329/clothing orangish red boas] look on in [/EN#96325/other amusement] .
+[/EN#96319/people A man] in [/EN#96322/clothing an elf hat] holding [/EN#96323/clothing a white umbrella] is standing on [/EN#96326/scene the sidewalk] with [/EN#96321/people two other men] .
+[/EN#96321/people Two men] in [/EN#96327/clothing black leather jackets] , [/EN#96328/clothing glasses] , and [/EN#96322/clothing hats] , open [/EN#0/notvisual them] up for [/EN#96320/people walkers] .
+[/EN#96319/people A man] in [/EN#96322/clothing a pointed red hat] holds [/EN#96323/clothing a white umbrella] .
+[/EN#96320/people People] walk out of [/EN#96324/scene a building] past [/EN#96330/other two manequins] .

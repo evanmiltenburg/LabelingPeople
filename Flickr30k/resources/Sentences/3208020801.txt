@@ -1,0 +1,5 @@
+[/EN#101158/people A person] wearing [/EN#101160/clothing jeans] and [/EN#101159/clothing an orange jacket] walks by [/EN#101163/scene a lighted building] and [/EN#101166/other parking structure] .
+[/EN#101158/people One person] wearing [/EN#101159/clothing an orange hooded jacket] and [/EN#101160/clothing blue jeans] was walking down [/EN#101162/scene a city street] .
+[/EN#101158/people A person] wearing [/EN#101159/clothing an orange coat] is walking during [/EN#101164/other dark hour] .
+[/EN#101158/people A person] in [/EN#101159/clothing a yellow coat] is walking outside at [/EN#101161/scene night] .
+[/EN#101158/people Person] walking [/EN#101165/scene home] late at [/EN#101161/scene night] .

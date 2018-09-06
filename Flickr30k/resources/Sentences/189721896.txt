@@ -1,0 +1,5 @@
+[/EN#22860/people A man] rock climbs up [/EN#22861/scene a very tall cliff] , with [/EN#22864/other a blue rope] behind [/EN#0/notvisual him] .
+[/EN#22860/people The climber] in [/EN#22862/clothing red] is leading [/EN#22865/people climbers] up [/EN#22867/bodyparts a long rock face] .
+[/EN#22860/people A man] wearing [/EN#22862/clothing a red shirt] is climbing up [/EN#22866/other the rock wall] .
+[/EN#22860/people A young man] climbs [/EN#22861/scene a mountain] , [/EN#0/notvisual another] follows below .
+[/EN#22860/other Man scales rock] .

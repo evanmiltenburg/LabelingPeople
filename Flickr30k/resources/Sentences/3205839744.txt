@@ -1,0 +1,5 @@
+[/EN#100991/animals A large brown dog] is lying in [/EN#100993/other the sun] on [/EN#100992/other a big , green dog bed] .
+[/EN#100991/animals A brown dog] laying on [/EN#100992/other a green cushion] .
+[/EN#100991/animals A brown dog] sleeps on [/EN#100992/other a green pillow] .
+[/EN#100991/animals A brown dog] rests on [/EN#100992/other a green cushion] .
+[/EN#100991/animals A dog] laying down on [/EN#100992/other a green cushion] .

@@ -1,0 +1,5 @@
+[/EN#17797/people A man] in [/EN#17804/clothing a yellow shirt] and [/EN#17801/people a man] in [/EN#17802/clothing an orange shirt] jump in [/EN#0/notvisual the air] .
+[/EN#17798/people Two men] in [/EN#17805/clothing hiking boots] strike [/EN#17806/other martial arts] poses .
+[/EN#17798/people Two men] jumping on [/EN#17800/other a rock wall]
+[/EN#17798/people Two men] leap into [/EN#0/notvisual the air] .
+[/EN#17797/people A man] jumps off [/EN#17800/scene a hill] .

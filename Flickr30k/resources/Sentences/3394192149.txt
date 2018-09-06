@@ -1,0 +1,5 @@
+[/EN#115055/vehicles/scene A train] flies bu [/EN#115054/people a man] in [/EN#115056/clothing a olive green officers uniform] .
+[/EN#115054/people A man] in [/EN#115056/clothing uniform] watches as [/EN#115055/vehicles/scene a subway train] passes [/EN#0/notvisual him] .
+[/EN#115054/people A uniformed man] watches [/EN#115057/other a train speed] by .
+[/EN#115054/people A man] in [/EN#115056/clothing green] is watching [/EN#115055/vehicles/scene a train] go by .
+[/EN#115054/people Soldier] watches as [/EN#115055/vehicles/scene a train] zooms by .

@@ -1,0 +1,5 @@
+[/EN#207107/people A fair-skinned woman] with [/EN#207112/bodyparts dark hair] wears [/EN#207108/clothing a pair of large dark sunglasses] , [/EN#207110/bodyparts crimson lipstick] , and [/EN#207109/clothing a red and white plaid shirt] .
+[/EN#207107/people A woman] with [/EN#207110/bodyparts bright red lipstick] , [/EN#207108/clothing sunglasses] and [/EN#207109/clothing a red plaid shirt] is looking towards [/EN#0/notvisual the camera] .
+[/EN#207107/people A lady] wearing [/EN#207108/clothing black sunglasses] frowning as [/EN#0/notvisual she] stares at [/EN#207111/other something] .
+[/EN#207107/people A lady] with [/EN#207108/clothing big glasses] is looking at [/EN#207111/other something] .
+[/EN#207107/people A woman] with [/EN#207108/clothing sunglasses] and [/EN#207109/clothing a plaid shirt] .

@@ -1,0 +1,5 @@
+[/EN#120086/people A race car driver] with [/EN#120094/clothing an orange helmet] sits in [/EN#120087/vehicles a team Penske Indy car] at [/EN#120088/scene the raceway] .
+[/EN#120087/vehicles Racing car] marked [/EN#120089/other TEAM PENSKE] on [/EN#120088/scene track] , [/EN#120090/other banners] and [/EN#120092/people spectators] in [/EN#0/notvisual background] .
+[/EN#120086/people Race car driver] getting ready for [/EN#120093/other the start of the race] .
+[/EN#120086/people A driver] is sitting in [/EN#120087/vehicles a Team Penske race car] .
+[/EN#120087/vehicles A race car] sits in [/EN#120091/other the pits] .

@@ -1,0 +1,5 @@
+[/EN#53132/people An individual] in [/EN#53133/clothing a red plaid shirt] is standing in [/EN#53134/scene a telephone booth] outside .
+[/EN#53132/people A person] with [/EN#53135/clothing blue jeans] and [/EN#53133/clothing a red and white shirt] is using [/EN#53134/scene a phone booth] .
+[/EN#53132/people A man] wearing [/EN#53135/clothing jeans] and [/EN#53133/clothing a red plaid shirt] stands inside of [/EN#53134/scene a phone booth] .
+[/EN#53132/people A person] in [/EN#53133/clothing a checkered shirt] stands in [/EN#53134/scene a phone booth] .
+[/EN#0/notvisual This] is [/EN#53132/people a man] in [/EN#53134/scene a photo booth] .

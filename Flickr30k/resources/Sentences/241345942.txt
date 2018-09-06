@@ -1,0 +1,5 @@
+[/EN#47248/people The football player] in [/EN#47257/clothing white] is defending against [/EN#47249/people the player] in [/EN#47250/clothing red] [/EN#0/notvisual who] is running with [/EN#47251/other the ball] .
+[/EN#47248/people The football player] in [/EN#47250/clothing red] keeps [/EN#47251/other the football] away from [/EN#47248/people the player] in [/EN#47255/clothing purple and white] .
+[/EN#47248/people One football player] tries to tackle [/EN#47249/people a player] on [/EN#47249/people the opposing team] .
+[/EN#47249/people A man] in [/EN#47252/clothing a Sooners jersey] blocks [/EN#47253/other an attempted UW tackle] .
+[/EN#47248/people A football player] is trying to tackle [/EN#47248/other another one] .

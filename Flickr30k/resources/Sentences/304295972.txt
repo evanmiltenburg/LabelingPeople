@@ -1,0 +1,5 @@
+[/EN#89601/people Two men] are dressed in [/EN#89604/clothing white] with [/EN#89605/clothing paper hats] preparing [/EN#89607/other pizzas] in [/EN#89602/scene a kitchen] near [/EN#89603/other a large oven] .
+[/EN#89601/people Two men] are working in [/EN#89602/scene a kitchen] preparing [/EN#89607/other pizzas] to be cooked in [/EN#89603/other the oven] behind [/EN#0/notvisual them] .
+[/EN#89601/people Two men] in [/EN#89609/clothing white uniforms] , [/EN#89605/clothing hats] and [/EN#89604/clothing aprons] are making [/EN#89607/other pizzas] .
+[/EN#89601/people Two men] dressed in [/EN#89604/clothing white shirts] and [/EN#89604/clothing aprons] prepare [/EN#89606/other pizzas] .
+[/EN#89601/people Cook] in [/EN#89604/clothing white apron] making [/EN#89606/other pizza] .

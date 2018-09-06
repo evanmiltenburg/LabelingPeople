@@ -1,0 +1,5 @@
+[/EN#278820/people A girl] in [/EN#278821/clothing a blue dress] stands on [/EN#278823/other a wooden plank] [/EN#0/notvisual that] 's affixed to [/EN#278822/other a tree] , staring downward while maintaining [/EN#278824/other her balance] .
+[/EN#278820/people A little girl] in [/EN#278821/clothing a blue dress] climbing on [/EN#278825/other some old wood] .
+[/EN#278820/people A little girl] ventures on [/EN#278826/scene a collapsed tree house] .
+[/EN#278820/people A young girl] climbs [/EN#278822/other the supported tree] .
+[/EN#278820/people A girl] is balancing on [/EN#278823/other a wooden beam] .

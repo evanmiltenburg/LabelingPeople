@@ -1,0 +1,5 @@
+[/EN#271644/people A man] wearing [/EN#271647/clothing swimming trunks] is jumping off [/EN#271646/other a large rock] into [/EN#271645/scene a body of water] .
+[/EN#271644/people A man] is jumping from [/EN#271646/other a boulder] into [/EN#271645/scene a body of water] while wearing [/EN#271647/clothing only shorts] .
+[/EN#271644/people A man] in swimming [/EN#271647/clothing shorts] is jumping off [/EN#271646/scene a cliff] into [/EN#271645/scene a body of water] .
+[/EN#271644/people A man] wearing [/EN#271647/clothing shorts] leaps off [/EN#271646/other a rock] into [/EN#271645/scene the ocean] .
+[/EN#271644/people Man] jumping off [/EN#0/notvisual a cliff side] into [/EN#271645/scene the ocean waters] .

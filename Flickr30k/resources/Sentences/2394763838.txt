@@ -1,0 +1,5 @@
+[/EN#46235/animals A tan dog] carrying [/EN#46236/other a stick] runs over [/EN#46237/other a garden hose] lying in [/EN#46239/scene a low cut grassy area] .
+[/EN#46235/animals A golden colored dog] jumps [/EN#46240/other around] in [/EN#46239/scene the grass] while holding [/EN#46236/other a stick] in [/EN#46238/bodyparts its mouth] .
+[/EN#46235/animals a small tan dog] running in [/EN#46239/scene the grass] with [/EN#46236/other a stick] in [/EN#46238/bodyparts his mouth]
+[/EN#46235/animals A blond dog] runs in [/EN#46239/scene the grass] holding [/EN#46236/other a stick] in [/EN#46238/bodyparts its mouth] .
+[/EN#46235/animals A pale tan dog] is carrying [/EN#46236/other a stick] in [/EN#46238/bodyparts its mouth] outside .

@@ -1,0 +1,5 @@
+[/EN#164811/people A couple] are sitting on [/EN#164812/other a rock] in front of [/EN#164814/scene a street] .
+[/EN#164811/people Two people] sit on [/EN#164812/other a large rock] near [/EN#164814/scene a city street] .
+[/EN#164815/people A man] and [/EN#164816/people a woman] sit on [/EN#164812/other a rock] beside [/EN#164813/scene a street] .
+[/EN#164811/people Two people] sitting on [/EN#164812/other a rock] in [/EN#164813/scene a city park] .
+[/EN#164811/people Two people] talk while sitting on [/EN#164812/other a big rock] .

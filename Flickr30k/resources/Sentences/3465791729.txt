@@ -1,0 +1,5 @@
+[/EN#120181/people Two men] are sitting in [/EN#120187/other chairs] in front of [/EN#120182/scene a building] while [/EN#120184/people a group of people] climb [/EN#120186/other a set of steps] .
+[/EN#0/notvisual There] are [/EN#120181/people 2 men] dressed in [/EN#120188/clothing stripes] sitting under [/EN#120183/clothing a green umbrella] .
+[/EN#120181/people Two gondola drivers] rest in [/EN#120189/clothing the shade of a table umbrella] .
+[/EN#120181/people Two gondola operators] sit along [/EN#120185/scene a road] in [/EN#120180/other Italy] .
+[/EN#120181/people Two gondoliers] sitting in [/EN#120180/other Venice]

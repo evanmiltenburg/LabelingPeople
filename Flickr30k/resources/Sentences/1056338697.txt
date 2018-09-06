@@ -1,0 +1,5 @@
+[/EN#1440/people A woman] with [/EN#1442/bodyparts blond-hair] wearing [/EN#1441/clothing a blue tube top] is waving on [/EN#1449/scene the side of the street] .
+[/EN#1440/people The woman] in [/EN#1441/clothing the blue dress] is holding out [/EN#1443/bodyparts/people her arm] at [/EN#1444/vehicles oncoming traffic] .
+[/EN#1440/people A blond woman] in [/EN#1441/clothing a blue shirt] appears to wait for [/EN#1445/other a ride] .
+[/EN#1440/people A woman] is signaling is to [/EN#1444/vehicles traffic] , as seen from [/EN#1448/other behind] .
+[/EN#1440/people A blond woman] is on [/EN#1446/scene the street] hailing [/EN#1447/vehicles a taxi] .

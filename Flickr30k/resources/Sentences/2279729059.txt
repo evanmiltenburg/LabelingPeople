@@ -1,0 +1,5 @@
+[/EN#38672/people A man] , in [/EN#0/notvisual what] looks like [/EN#38673/clothing a firefighter suit] , standing in [/EN#38674/scene the street] with [/EN#38675/vehicles a large vehicles] in [/EN#38674/scene the street] .
+[/EN#38672/people A man] in [/EN#38673/clothing an orange jacket] and [/EN#38676/clothing pants] standing in [/EN#38674/scene the street] looking at [/EN#38677/vehicles a orange truck] .
+[/EN#0/notvisual There] is [/EN#38672/people a man] in [/EN#38678/other fireman 's gear] crossing [/EN#38674/scene the road] near [/EN#38679/vehicles/scene a white bus] and [/EN#38677/vehicles a red semi] .
+[/EN#38672/people A man] in [/EN#38673/clothing a fire suit] is looking at [/EN#38677/vehicles an orange truck] on [/EN#38674/scene a busy street] .
+[/EN#38672/people a firefighter] standing proud in front of [/EN#38677/vehicles his truck] .

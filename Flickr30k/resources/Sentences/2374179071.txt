@@ -1,0 +1,5 @@
+[/EN#44875/people A man] is standing on [/EN#44880/other some rocks] and casting [/EN#44876/other a fishing line] into [/EN#44878/scene the ocean]
+[/EN#44875/people A man] looks at [/EN#44882/scene the sunset] and [/EN#44878/scene the ocean] , seen in [/EN#44879/scene silhouette] .
+[/EN#44875/people a lone man] casting [/EN#44876/other a fishing line] into [/EN#44878/scene the water] at [/EN#44881/scene sunset] .
+[/EN#44875/people Person] fishing in [/EN#44878/scene large body of water] with [/EN#44877/other low sunlight] .
+[/EN#44875/people A man] is fishing in [/EN#44878/scene the ocean] at [/EN#44877/other dusk] .

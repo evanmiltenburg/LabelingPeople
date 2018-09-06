@@ -1,0 +1,5 @@
+Looks like [/EN#230342/people a man] wearing [/EN#230343/clothing a black uniform] riding [/EN#230344/animals a brown horse] in [/EN#0/notvisual what] looks like [/EN#230346/people a parade] .
+[/EN#230342/people A soldier] in [/EN#230343/clothing his uniform] riding on [/EN#230344/animals a dark brown horse] in front of [/EN#230345/people an audience] .
+[/EN#230342/people A man] in [/EN#230343/clothing a uniform] is riding [/EN#230344/animals a horse] in [/EN#230346/people a parade] .
+[/EN#230342/people A soldier] in [/EN#230343/clothing uniform] rides [/EN#230344/animals a brown horse] .
+[/EN#230342/people A man] in [/EN#230343/clothing a suit] rides [/EN#230344/animals a brown horse] .

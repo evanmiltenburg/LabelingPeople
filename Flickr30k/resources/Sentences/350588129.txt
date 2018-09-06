@@ -1,0 +1,5 @@
+[/EN#123506/animals A dog] jumps into [/EN#123507/scene a pool] while [/EN#123508/people someone] watches from [/EN#0/notvisual the side] .
+[/EN#0/notvisual There] is [/EN#123506/animals a black dog] jumping into [/EN#123507/scene a swimming pool] .
+[/EN#123506/animals A black dog] is leaping into [/EN#123507/scene a swimming pool] .
+[/EN#123506/animals A black dog] jumps into [/EN#123507/scene a swimming pool] .
+[/EN#123506/animals Black dog] jumps in [/EN#123507/scene pool] .

@@ -1,0 +1,5 @@
+[/EN#24/people Someone] in [/EN#25/clothing a blue shirt] and [/EN#28/clothing hat] is standing on [/EN#26/other stair] and leaning against [/EN#27/other a window] .
+[/EN#24/people A man] in [/EN#25/clothing a blue shirt] is standing on [/EN#26/other a ladder] cleaning [/EN#27/other a window] .
+[/EN#24/people A man] on [/EN#26/other a ladder] cleans [/EN#27/scene the window of a tall building] .
+[/EN#24/people man] in [/EN#25/clothing blue shirt] and [/EN#29/clothing jeans] on [/EN#26/other ladder] cleaning [/EN#27/other windows]
+[/EN#24/people a man] on [/EN#26/other a ladder] cleans [/EN#27/other a window]

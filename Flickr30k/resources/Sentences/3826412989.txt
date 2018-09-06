@@ -1,0 +1,5 @@
+[/EN#144338/people A boy] is riding on [/EN#144342/animals a donkey] carrying [/EN#144350/other various items] strapped to [/EN#0/notvisual it] .
+[/EN#144340/people People] are traveling via [/EN#144345/animals donkey] with [/EN#144349/other their belongings] on [/EN#144344/other back] .
+[/EN#144341/other A pack of donkeys or burros] carrying [/EN#144340/people people] and [/EN#144348/scene parcels] .
+[/EN#144339/animals Mules] loaded with [/EN#144346/other luggage] with [/EN#144338/people a man] on [/EN#0/notvisual one of them] .
+[/EN#144340/people Several men] traveling down [/EN#144343/scene a hill] riding [/EN#144339/animals donkeys] .

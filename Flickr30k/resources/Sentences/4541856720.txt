@@ -1,0 +1,5 @@
+[/EN#176599/people A man] surfing [/EN#176602/scene a large wave] in [/EN#176601/scene vibrant blue water] , with [/EN#176605/other large rocks] in [/EN#0/notvisual the foreground] .
+[/EN#176599/people A man] surfing in [/EN#176601/scene a blue watered ocean] along [/EN#176600/scene a rock lined beach] .
+[/EN#176599/people A bare chested man] riding [/EN#176604/other a surfboard] on [/EN#176602/scene a wave] in [/EN#176601/scene an ocean] .
+[/EN#176599/people Man] surfing in [/EN#176601/scene the ocean] with [/EN#176603/other a beautiful beachfront] .
+[/EN#176599/people The surfer] is riding [/EN#176602/scene a wave] back towards [/EN#176600/scene the beach] .

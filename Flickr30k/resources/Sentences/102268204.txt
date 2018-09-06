@@ -1,0 +1,5 @@
+[/EN#670/people Three men] are standing at [/EN#678/scene night] near [/EN#671/vehicles a black car] near [/EN#672/scene a shelter] filled with [/EN#673/vehicles bicycles] .
+[/EN#670/people Some men] standing in front of [/EN#672/scene a building] next to [/EN#671/vehicles a parked car] .
+[/EN#0/notvisual There] are [/EN#673/vehicles a lot of bikes] parked under [/EN#674/other the curved roof tonight] .
+[/EN#675/people police] questioning [/EN#676/vehicles the driver of a black wagon] at [/EN#679/other nighttime] .
+[/EN#670/people Men] under [/EN#677/other a dome] beside [/EN#671/vehicles a black station wagon] .

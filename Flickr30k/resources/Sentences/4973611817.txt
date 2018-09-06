@@ -1,0 +1,5 @@
+[/EN#225029/people A police officer] is writing [/EN#225035/other a ticket] for [/EN#225030/vehicles a silver car] [/EN#0/notvisual that] is pulled up halfway on [/EN#225034/other the curb] .
+[/EN#225029/people A cop] in [/EN#225031/clothing a blue shirt] pulling over [/EN#225030/vehicles a car] in [/EN#225032/scene the city] .
+[/EN#225029/people A police officer] talks to [/EN#225033/vehicles the owner of a parked car] .
+[/EN#225029/people A police officer] writes [/EN#225035/other a ticket] for [/EN#225037/other poor] parking .
+[/EN#225029/people A officer] is standing by [/EN#225030/vehicles a car] .

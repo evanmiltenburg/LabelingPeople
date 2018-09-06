@@ -1,0 +1,5 @@
+[/EN#136120/people A woman] rides [/EN#136121/vehicles a bike] over [/EN#136122/scene a dirt path] through [/EN#136124/scene the long grass] .
+[/EN#136120/people A woman] biking along [/EN#136125/scene a trail] surrounded by [/EN#136126/other various plants] .
+[/EN#136120/people A woman] rides [/EN#136121/vehicles a bike] on [/EN#136122/scene a trail] through [/EN#136123/scene a field] .
+[/EN#136120/people Woman] on [/EN#136121/vehicles bicycle] riding down [/EN#136122/scene dirt trail] .
+[/EN#136120/people A woman] riding [/EN#136121/vehicles a bicycle] in [/EN#136123/scene a field] .

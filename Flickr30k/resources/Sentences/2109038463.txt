@@ -1,0 +1,5 @@
+[/EN#29264/other Four bikes line] up [/EN#29262/scene the sidewalk] as [/EN#29259/people man] stands next to [/EN#29265/other a wall] in front of [/EN#29261/scene a light green building] .
+[/EN#29259/people A man] stands by [/EN#29261/scene a building] , [/EN#29263/scene his shadow] right next to [/EN#0/notvisual him] , and [/EN#29260/vehicles four bikes] behind [/EN#0/notvisual him] .
+[/EN#29260/vehicles Four bikes] are standing up and [/EN#29259/people a man] is standing next to [/EN#29261/scene a building] .
+[/EN#29259/people A man] and [/EN#29260/vehicles some bicycles] are in front of [/EN#29261/scene a large building] .
+[/EN#29259/people A man] and [/EN#29260/vehicles four bicycles] outside [/EN#29261/scene a building] .

@@ -1,0 +1,5 @@
+[/EN#154036/people A man] in [/EN#154040/clothing a white t-shirt] and [/EN#154041/clothing blue jeans] is using [/EN#154045/bodyparts a hand] tools to adjust [/EN#154039/other a plumbing fixture] in [/EN#154037/scene an unfinished room] .
+[/EN#154036/people One man] in [/EN#154040/clothing a white shirt] constructing [/EN#154038/other an industrial sized sink] .
+[/EN#154036/people One man] , in [/EN#154040/clothing a white shirt] , is remodeling [/EN#154037/scene a bathroom] .
+[/EN#154036/people A man] in [/EN#154040/clothing a white t-shirt] and [/EN#154041/clothing jeans] is using [/EN#154043/other a wrench] .
+[/EN#154036/people A man] is using [/EN#154044/other tools] to make [/EN#154042/other a repair] .

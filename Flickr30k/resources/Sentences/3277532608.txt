@@ -1,0 +1,5 @@
+[/EN#106406/people Pedestrians] use [/EN#106407/scene the crosswalks] as [/EN#106404/vehicles traffic] awaits [/EN#106411/other their turn] to drive through [/EN#106407/scene an intersection] .
+[/EN#106402/vehicles A blue delivery truck] is parked in front of [/EN#106408/scene a white building] on [/EN#106407/scene a street corner] .
+[/EN#106404/vehicles No traffic] because [/EN#0/notvisual it] is [/EN#106410/other Sunday] and [/EN#106405/people the man] is waiting to cross [/EN#106403/scene the road] .
+[/EN#0/notvisual There] is [/EN#106402/vehicles blue truck] stopped in front of [/EN#106408/scene a shop] on [/EN#106403/scene Masonic street] .
+[/EN#106405/people A man] walks [/EN#106412/animals his dog] across [/EN#106403/scene the street] at [/EN#106407/scene a crosswalk] .

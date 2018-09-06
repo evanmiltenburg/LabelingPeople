@@ -1,0 +1,5 @@
+[/EN#94645/people Skateboarder] jumping down [/EN#94646/scene a short flight of stairs] in [/EN#94647/scene a dimly lit warehouse] .
+[/EN#94645/people A skateboarder] performing [/EN#94648/other a kickflip] over [/EN#94646/other short stairs] .
+[/EN#94645/people A skateboarder] casts [/EN#94649/scene a shadow] jumping down [/EN#94646/other stairs] .
+[/EN#94645/people A skateboarder] flies off [/EN#94646/other the stairs] .
+[/EN#94645/people a skateboarder] jumps [/EN#94646/scene a staircase] .

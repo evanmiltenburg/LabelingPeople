@@ -1,0 +1,5 @@
+[/EN#225845/people A man] in [/EN#225852/clothing a white sweatshirt] and [/EN#225853/clothing dark pants] stands close to [/EN#225846/people a girl] in [/EN#225854/clothing a pink sweatshirt] and [/EN#225855/clothing blue jeans] on [/EN#225847/scene an escalator] .
+[/EN#225846/other A young couple gaze] into [/EN#225856/bodyparts each others eyes] while riding [/EN#225847/scene an escalator] in [/EN#225851/other a shopping mart] .
+[/EN#225845/people A man] and [/EN#225846/people a woman] are on [/EN#225847/scene an escalator] looking at [/EN#0/notvisual one another] .
+[/EN#225845/people A man] and [/EN#225846/people a woman] riding on [/EN#225847/scene an escalator] making [/EN#225846/other eye contact] .
+[/EN#225849/people A couple] going up [/EN#225847/scene an escalator] .

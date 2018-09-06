@@ -1,0 +1,5 @@
+[/EN#151818/people A worker] in [/EN#151821/clothing a bright orange uniform] is cleaning up [/EN#151826/other the mess] on [/EN#151822/scene the street] while [/EN#151819/people a small boy] in [/EN#151828/clothing red pants] walks by .
+[/EN#151819/people Boy] walks [/EN#151818/people past man] in [/EN#151821/clothing orange overalls] [/EN#0/notvisual who] is sweeping [/EN#151824/other garbage] from [/EN#151822/scene the street] .
+[/EN#151818/people A worker] dressed in [/EN#151821/other orange sweeping trash] on [/EN#151822/scene the street] .
+[/EN#151818/people Workers] cleaning up after [/EN#151825/other the festival] .
+[/EN#151818/people People] are cleaning up [/EN#151822/scene a street] .

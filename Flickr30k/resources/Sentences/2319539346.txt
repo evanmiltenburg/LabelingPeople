@@ -1,0 +1,5 @@
+[/EN#41390/people A man] with [/EN#41396/clothing a brown t-shirt] , [/EN#41402/clothing blue jeans] , [/EN#41389/clothing backpack] and [/EN#41400/clothing a neon green id badge necklace] with [/EN#41388/other 2 badges] attached to [/EN#0/notvisual it] , is walking through [/EN#41399/scene a crowded room] .
+[/EN#41390/people A man] wearing [/EN#41396/clothing a red shirt] is shown among [/EN#41403/people other men] in [/EN#0/notvisual the background] talking to [/EN#0/notvisual each other] .
+[/EN#41395/people Several people] with [/EN#41389/other baggage] , lost looks on [/EN#41405/bodyparts their faces] , and comfortable .
+[/EN#41391/people A group of men] are at [/EN#41398/scene a college fair] carrying [/EN#41404/clothing white bags] and [/EN#41389/clothing backpacks] .
+[/EN#41392/people People] are gathered at [/EN#41397/people a business conference] .

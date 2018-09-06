@@ -1,0 +1,5 @@
+[/EN#178779/people Two people] with [/EN#178782/clothing blue pants] and [/EN#178781/clothing yellow safety vests] sit at [/EN#178780/scene an open gate] on [/EN#178784/other a red and blue wall] .
+[/EN#178779/people Two people] in [/EN#178781/clothing yellow vests] sit in front of [/EN#178783/scene gates] .
+[/EN#178779/people Two guards] sitting and talking to [/EN#0/notvisual each other] .
+[/EN#178779/people Two guards] are sitting near [/EN#178780/scene an entrance] .
+[/EN#178779/people Two workers] stand at [/EN#178780/scene an entrance] .

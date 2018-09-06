@@ -1,0 +1,5 @@
+[/EN#218460/people A person] sits on [/EN#218461/other a bus stop bench] wrapped in [/EN#218462/other a blanket] and wearing [/EN#218463/clothing a hat] with [/EN#218467/other some packages] next to [/EN#0/notvisual them] .
+[/EN#218460/people A person] wrapped in [/EN#218464/other a neutral color] blanket sitting on [/EN#218461/other a bench] .
+[/EN#218460/people A person] huddles under [/EN#218462/other a blanket] while sitting on [/EN#218461/other a bench] .
+[/EN#218460/people A person] is wrapped in [/EN#218464/clothing a shawl] sitting at [/EN#218468/scene a bus station] .
+[/EN#218460/people A homeless man] next to [/EN#218465/other a pepsi machine] .

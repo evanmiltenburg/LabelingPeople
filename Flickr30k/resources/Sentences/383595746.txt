@@ -1,0 +1,5 @@
+[/EN#144969/people A man] in [/EN#144970/clothing a red jacket] and [/EN#144973/clothing white apron] stands in front of [/EN#144971/other a brightly painted wall] with [/EN#144975/other yellow lettering] .
+[/EN#144970/clothing Man red jacket] wears [/EN#144973/clothing an apron] and stands against [/EN#144971/other the backdrop of a colorfully painted wall] .
+[/EN#144969/people A man] in [/EN#144970/clothing a red hoodie] with [/EN#144973/clothing a white apron] stands in front of [/EN#144971/other a mural] .
+[/EN#144969/people A man] wearing [/EN#144973/clothing a white apron] is standing in front of [/EN#144971/other a mural] .
+[/EN#144969/people A man] in [/EN#144970/clothing a red jacket] and [/EN#144974/other stubble] stands before [/EN#144971/other a mural] .

@@ -1,0 +1,5 @@
+[/EN#107011/animals A large black and brown dog] is carrying [/EN#107014/other something] in [/EN#107013/bodyparts its mouth] while walking on [/EN#107012/scene grass] .
+[/EN#107011/animals A dog] with [/EN#107015/clothing a choke collar] is holding [/EN#107016/clothing a gauntlet] in [/EN#107013/bodyparts its mouth] .
+[/EN#107011/animals A brown dog] is fetching [/EN#107014/other something] in [/EN#107013/bodyparts its mouth] on [/EN#107012/scene a field] .
+[/EN#107011/animals A dog] in [/EN#107012/scene a field] holding [/EN#107014/other something] in [/EN#107013/bodyparts its mouth] .
+[/EN#107011/animals A dog] is carrying [/EN#107014/other something] in [/EN#107013/bodyparts his mouth] .

@@ -1,0 +1,5 @@
+[/EN#269961/people A man] in [/EN#269964/clothing a white t-shirt] and [/EN#269969/people a trucker] [/EN#269963/clothing hat] removes [/EN#269965/other cookies] from [/EN#269966/scene a cookie sheet] at [/EN#269962/scene a cookie restaurant or kiosk] .
+[/EN#269961/people A man] with [/EN#269970/bodyparts a beard] wearing [/EN#269963/clothing a brown and white hat] and [/EN#269964/clothing a white shirt] is cooking [/EN#269965/other something] .
+[/EN#269961/people A man] is lifting [/EN#269965/other cookies] off of [/EN#269966/scene a baking sheet] at [/EN#269962/scene a bakery] .
+[/EN#269961/people A man] in [/EN#269964/clothing a white shirt] and [/EN#269963/clothing baseball cap] baking [/EN#269965/other cookies] .
+[/EN#269961/people Man] in [/EN#269964/clothing a white shirt] removing [/EN#269965/other cookies] from [/EN#269966/other a tray] .

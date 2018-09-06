@@ -1,0 +1,5 @@
+[/EN#84753/people A person] is running past [/EN#84754/other a large display of plants] and [/EN#84754/other flowers] .
+[/EN#84753/people A runner] in [/EN#84759/clothing black] is passing [/EN#84754/scene an outdoor florist shop] .
+[/EN#84753/people A runner] is running past [/EN#84754/scene an outdoor flower stall] .
+[/EN#84753/people A person] runs by [/EN#84755/other a flower] and [/EN#84754/scene plant shop] .
+[/EN#84753/other A human figure] runs past [/EN#84754/scene a flower stand] .

@@ -1,0 +1,5 @@
+[/EN#249613/people A man] in [/EN#249616/clothing orange clothing] is kneeling , holding [/EN#249614/clothing a trash bag] , and reaching for [/EN#249615/other a broom] in [/EN#249617/scene the road] near [/EN#249617/scene the sidewalk] .
+[/EN#249613/people An older gentleman] in [/EN#249616/clothing an orange jumpsuit] and [/EN#249618/clothing gray hat] is on [/EN#249617/other the curb] with [/EN#249614/clothing a black trash bag] and [/EN#249615/other a broom] .
+[/EN#249613/people A street janitor] in [/EN#249616/clothing orange suit] and [/EN#249618/clothing dark hat] squatting down on [/EN#249617/scene the side of the street] .
+[/EN#249613/people A street worker] wearing [/EN#249622/other bright orange safety gear] picks up [/EN#249614/other trash] along [/EN#249617/scene the street] .
+[/EN#249613/people A man] in [/EN#249616/clothing a orange jumpsuit] picking up [/EN#249614/other garbage] along [/EN#249617/scene the street] .

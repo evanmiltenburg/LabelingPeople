@@ -1,0 +1,5 @@
+[/EN#90230/animals Birds] are fleeing [/EN#90231/other a rock] [/EN#0/notvisual that] has recently been splashed by [/EN#90229/scene heavy waves] .
+[/EN#90230/animals Seagulls] abandon [/EN#90231/other their rock] as [/EN#90229/scene a wave] crashes against [/EN#0/notvisual it] .
+[/EN#90229/scene Waves] crashing against [/EN#90232/other rocks] with [/EN#90230/animals seagulls] flying over .
+[/EN#90230/animals Seagulls] are flying above [/EN#90229/scene the crashing waves] .
+[/EN#90229/scene A wave] splashes [/EN#90232/other the rocks] as [/EN#90230/animals seagulls] fly by .

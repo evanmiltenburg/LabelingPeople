@@ -1,0 +1,5 @@
+[/EN#125842/people An Asian man] in [/EN#125847/scene a warehouse] is talking and writing on [/EN#125844/other a clipboard] .
+[/EN#125842/people An Asian man] in [/EN#125843/clothing a brown hat] hold [/EN#125844/other a yellow folder] .
+[/EN#125842/people A man] in [/EN#125843/clothing a brown hat] is standing up in [/EN#125846/people a group] .
+[/EN#125842/people A man] wearing [/EN#125845/clothing a blue jacket] is writing .
+[/EN#125842/people A man] in [/EN#125843/clothing a hat] is writing .

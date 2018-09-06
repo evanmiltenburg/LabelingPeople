@@ -1,0 +1,5 @@
+[/EN#4820/people Two men] in [/EN#4821/clothing black clothes] at [/EN#4829/scene a meat market] showing [/EN#4831/other a red meat] while [/EN#4822/people workers] in [/EN#4823/clothing blue] look on .
+[/EN#4820/people Customers] browse [/EN#4824/other a meat counter] while [/EN#4825/people employees] wait .
+[/EN#4826/people A man] in [/EN#4827/clothing a blue t-shirt] buying [/EN#4831/other something] at [/EN#4830/other a deli] .
+[/EN#4820/people Two men] in [/EN#4828/clothing black hats] buying [/EN#4831/other food] at [/EN#4824/other a counter] .
+[/EN#4820/people 2 men] stand in [/EN#4832/other line] at [/EN#4829/scene a restaurant] .

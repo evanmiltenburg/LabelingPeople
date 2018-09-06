@@ -1,0 +1,5 @@
+[/EN#12004/people A group of people] sitting at [/EN#12005/other tables] with [/EN#12006/other a row of wineglasses] in front of [/EN#0/notvisual each of them] .
+[/EN#12004/people A group of people] are looking forward while drinking [/EN#12006/other glasses of whine] .
+[/EN#12004/people A room full of people] sit at [/EN#12008/other counters] with [/EN#12006/other many wineglasses] .
+[/EN#12004/people People] are sitting and drinking [/EN#12006/other wine] at [/EN#12005/other tables] .
+[/EN#12004/people People] sit at [/EN#12009/scene bars] with [/EN#12006/other a lot of wineglasses] .

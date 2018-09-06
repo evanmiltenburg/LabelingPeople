@@ -1,0 +1,5 @@
+[/EN#52824/people A blond woman] walks through [/EN#52825/other shoulder-high pink tulips] , in front of [/EN#52829/scene a green field] with [/EN#52826/scene a small house] and [/EN#52827/other trees] in [/EN#0/notvisual the distance] .
+[/EN#52824/people The blond woman] is crouching in [/EN#52825/other a field of pink tulips] , near [/EN#52829/scene a grassy field] and [/EN#52827/other trees] .
+[/EN#52824/people A woman] standing among [/EN#52825/other a bunch of pink flowers] , with [/EN#52826/other a little shack] in [/EN#52831/other the back] .
+[/EN#52824/people A blond woman] is standing in [/EN#52829/scene the middle of a field] of [/EN#52825/other tall pink flowers] .
+[/EN#52824/people A woman] sitting in [/EN#52825/other a field of flowers]

@@ -1,0 +1,5 @@
+[/EN#90826/people A young child] with [/EN#90831/clothing no shirt] and [/EN#90828/clothing flip-flops] sits on [/EN#90827/other a skateboard] in [/EN#90829/scene the middle of a street] .
+[/EN#90826/people A young shirtless boy] in [/EN#90830/clothing blue jeans] and [/EN#90828/clothing sandals] sits on [/EN#90827/other a skateboard] .
+[/EN#90826/people A young boy] is sitting on [/EN#90827/other a skateboard] in [/EN#90829/scene the middle of the street] .
+[/EN#90826/people The shirtless boy] is sitting on [/EN#90827/other a skateboard] .
+[/EN#90826/people The boy] is riding [/EN#90827/other his skateboard] .

@@ -1,0 +1,5 @@
+[/EN#16489/people A little boy] falls asleep while reading [/EN#16490/other The Da Vinci Code] .
+[/EN#16489/people A dark-haired man] is covering [/EN#16492/bodyparts his face] with [/EN#16490/other a book] in [/EN#16491/other bed] .
+[/EN#16489/people A man] has fallen asleep while reading [/EN#16490/other The Da Vinci Code] .
+[/EN#16489/people A young man] reads [/EN#16490/other a book] in [/EN#16491/other bed] .
+[/EN#16489/people Boy] sleeping while reading [/EN#16490/other book] .

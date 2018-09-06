@@ -1,0 +1,5 @@
+[/EN#87335/people A man] wearing [/EN#87336/clothing a yellow shirt] jumps into [/EN#87338/scene a lake] surrounded by [/EN#87337/scene two waterfalls] .
+[/EN#87335/people A person] wearing [/EN#87336/clothing a yellow shirt] just jumped from [/EN#87339/scene the top of the waterfall] .
+[/EN#87335/people A person] wearing [/EN#87336/clothing a yellow shirt] stands between [/EN#87337/scene two waterfalls] .
+[/EN#87335/people A man] in [/EN#87336/clothing yellow] standing between [/EN#87337/scene two waterfalls] .
+[/EN#87335/people A man] standing between [/EN#87337/scene waterfalls] .

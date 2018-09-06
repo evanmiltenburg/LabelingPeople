@@ -1,0 +1,5 @@
+[/EN#72553/people A man] in [/EN#72554/clothing a black jacket] is eating [/EN#72555/other a pastry] while standing next to [/EN#72558/people two other men] .
+[/EN#72553/people A man] in [/EN#72554/clothing a black coat] eats [/EN#72555/other a doughnut] while [/EN#72558/people other men] look out of [/EN#72557/other frame] .
+[/EN#72553/people A man] in [/EN#72554/clothing black] is eating [/EN#72556/people a baked good near two elderly men] .
+[/EN#72553/people A guy] in [/EN#72554/clothing black jacket] eating .
+[/EN#72553/people A man] eats [/EN#72555/other a pastry] .

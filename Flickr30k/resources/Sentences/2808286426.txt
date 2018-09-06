@@ -1,0 +1,5 @@
+[/EN#74140/people A young boy] wearing [/EN#74143/clothing a tuxedo] with [/EN#74139/other purple accents] is carrying [/EN#74144/other a satin pillow] with [/EN#74148/other a purple ribbon] tied around [/EN#0/notvisual it] .
+[/EN#74140/people Very young boy] standing in front of [/EN#74147/people a bride] and [/EN#74151/people groom] , wearing [/EN#74145/clothing a suit] and holding [/EN#74144/other a ring-bearer 's pillow] .
+[/EN#74140/people A ring bearer] carrying [/EN#74150/other a rung] on [/EN#74144/other a pillow] at [/EN#74146/other a wedding] .
+[/EN#74140/other The little] ring bearer [/EN#74140/people boy] is wearing [/EN#74142/clothing a lavender tie] .
+[/EN#74140/people A little boy] in [/EN#74145/clothing a suit] holds [/EN#74149/clothing the ring] for [/EN#74146/other a wedding] .

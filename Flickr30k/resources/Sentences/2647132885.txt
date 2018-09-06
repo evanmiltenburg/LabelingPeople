@@ -1,0 +1,5 @@
+[/EN#63751/people A man] in [/EN#63756/clothing a red hat] is sitting on [/EN#63753/scene the floor] making [/EN#63752/other a craft] .
+[/EN#63751/people A worker] is constructing [/EN#63752/other an artistic project] .
+[/EN#63751/people A man] sits on [/EN#63753/scene a floor] and makes [/EN#63752/other a blue kite] .
+[/EN#63751/people A man] sits and works on [/EN#63752/other a crafts project] .
+[/EN#63751/people A man] prepares [/EN#63752/other a kite] for [/EN#63754/other flight] .

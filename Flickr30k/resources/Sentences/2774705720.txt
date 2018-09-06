@@ -1,0 +1,5 @@
+[/EN#72288/people A man] and [/EN#72283/people a woman] on [/EN#72285/other a bench] facing [/EN#72286/scene a building] with [/EN#72287/other trees] along [/EN#0/notvisual the front of it] .
+[/EN#72284/people Two people] sit on [/EN#72285/other a park bench] admiring [/EN#72287/other the trees] and [/EN#72286/scene large building] [/EN#0/notvisual they] face .
+[/EN#72284/people Two people] are sitting on [/EN#72285/other a wooden bench] by [/EN#72287/other trees] in front of [/EN#72286/scene a white building] .
+[/EN#72282/people A couple] sits on [/EN#72285/other a shaded bench] with [/EN#72287/other a view of trees] and [/EN#72286/scene a large building] .
+[/EN#72282/people A couple] sitting on [/EN#72285/other a bench] in [/EN#72289/scene a park]

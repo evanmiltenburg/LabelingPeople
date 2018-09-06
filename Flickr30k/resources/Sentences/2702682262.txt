@@ -1,0 +1,5 @@
+[/EN#67082/people A tattooed man] sitting on [/EN#67083/scene a sidewalk] has pulled [/EN#67086/clothing the neck of his shirt] up over [/EN#67088/bodyparts his face] .
+[/EN#67082/people A man] sits on [/EN#67083/scene the sidewalk] , [/EN#67085/bodyparts head] in [/EN#67084/bodyparts hands] and [/EN#67086/clothing shirt] over [/EN#67087/bodyparts his eyes] .
+[/EN#67082/people Dejected man] sits crossed-legged with [/EN#67085/bodyparts head] in [/EN#67084/bodyparts hands] .
+[/EN#67082/people A man] sitting on [/EN#67083/scene sidewalk] with [/EN#67086/clothing shirt] over [/EN#67085/bodyparts his head] .
+[/EN#67082/people Depressed man] [/EN#0/notvisual who] does not know [/EN#0/notvisual what] to do .

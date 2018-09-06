@@ -1,0 +1,5 @@
+[/EN#107254/animals A Rotweiler] with [/EN#107256/other a tennis ball] in [/EN#107261/bodyparts its mouth] and [/EN#107254/animals/scene a black lab] running in [/EN#107258/scene the snow] .
+[/EN#107255/animals Two black dogs] run with [/EN#107256/other a tennis ball] across [/EN#107258/scene the snowy dirt] .
+[/EN#107255/animals Two dogs] run through [/EN#107258/scene the snow] , [/EN#107257/other one] with [/EN#107256/other a tennis ball] .
+[/EN#107259/clothing A black] and [/EN#107254/animals a black dog] are running [/EN#0/notvisual side] by [/EN#0/notvisual side] .
+[/EN#107255/animals Two dogs] run in [/EN#107258/scene the snow] ; [/EN#107257/other one] has [/EN#107256/other a ball] .

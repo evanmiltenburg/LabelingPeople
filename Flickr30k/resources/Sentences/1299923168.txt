@@ -1,0 +1,5 @@
+[/EN#7865/other This picture] is taken outside [/EN#7861/vehicles/scene a bus] with [/EN#7857/scene people of Asian descent] riding along with [/EN#7862/other open windows] .
+[/EN#7857/people Various passengers] on [/EN#7861/other a bus look] out [/EN#7863/other the window] or into [/EN#0/notvisual the distance] .
+[/EN#7857/people People] on [/EN#7861/vehicles/scene a bus] , riding and looking out [/EN#7862/other the windows] .
+[/EN#7858/people Southeast Asians] look out [/EN#7864/vehicles/scene the windows of a bus] .
+[/EN#7867/people a woman] staring off while on [/EN#7861/vehicles/scene a bus] .

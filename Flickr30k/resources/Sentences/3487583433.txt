@@ -1,0 +1,5 @@
+Here is [/EN#122001/people a picture of someone] doing [/EN#122006/other diagnostics] on [/EN#122011/vehicles a vehicle] in [/EN#122012/scene the dark] .
+[/EN#122001/people A man] in [/EN#122009/other protective gear] welds [/EN#122005/other a piece of metal] on [/EN#122002/other a machine] .
+[/EN#122001/people Man] in [/EN#122010/clothing striped shirt] with [/EN#122007/clothing gloves] on [/EN#122002/other welding machinery] .
+[/EN#122001/people A man] in [/EN#122004/clothing a black shirt] and [/EN#122008/clothing gloves] is welding .
+[/EN#122003/people A man] with [/EN#122013/bodyparts short dark hair] is welding .

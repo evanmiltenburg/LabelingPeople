@@ -1,0 +1,5 @@
+[/EN#123310/people A woman] in [/EN#123312/clothing a brown shirt] and [/EN#123314/clothing glasses] looks at [/EN#123313/other a diagram] on [/EN#123311/other a screen] .
+[/EN#123310/people A woman] in [/EN#123312/clothing a brown top] with [/EN#123314/clothing glasses] is standing in front of [/EN#123313/other a chart] .
+[/EN#123310/people A woman] standing in front of [/EN#123311/other a big screen] looking at [/EN#0/notvisual what] is on [/EN#0/notvisual it] .
+[/EN#123310/people A short-haired woman] giving [/EN#123311/other a presentation] .
+[/EN#123310/people A woman] in [/EN#123312/clothing black] is explaining [/EN#123313/other a diagram] .

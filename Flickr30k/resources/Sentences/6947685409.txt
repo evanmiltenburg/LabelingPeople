@@ -1,0 +1,5 @@
+[/EN#262209/people A person] wearing [/EN#262215/clothing a helmet] and [/EN#262218/clothing dark snow pants] is standing on [/EN#262212/other a snowboard] on [/EN#262216/other a platform] balancing [/EN#262220/bodyparts their arms] in [/EN#0/notvisual the air] and looking down .
+[/EN#262209/people A snowboarder] performs [/EN#0/notvisual a trick] by riding down [/EN#262211/scene the rail of a staircase] .
+[/EN#262209/people A snowboarder] leaps through [/EN#0/notvisual the air] against [/EN#0/notvisual a dark background] .
+[/EN#262209/people A person] wearing [/EN#262212/other a snowboard] and [/EN#262217/clothing coat] going down [/EN#262219/other stairs] .
+[/EN#262209/people Female snowboarder] doing [/EN#262210/other a 50-50 grind] on [/EN#262211/other a rail] .

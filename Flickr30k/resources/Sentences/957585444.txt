@@ -1,0 +1,5 @@
+[/EN#284171/people Four people] are looking at [/EN#284176/other something] on [/EN#284174/other the wall] in [/EN#284173/scene a waiting room] .
+[/EN#284171/people Four people] in [/EN#284173/scene a waiting room] looking at [/EN#284172/other a picture] on [/EN#284174/other the wall] .
+[/EN#284171/people Four adults] look at [/EN#284172/other posters] on [/EN#284174/scene the wall of a waiting room] .
+[/EN#284175/other The toy] in [/EN#284173/scene the room] is amongst [/EN#284177/other blue chairs] .
+[/EN#284171/people People] are looking at [/EN#284176/other a picture] .

@@ -1,0 +1,5 @@
+[/EN#28311/people A young girl] , wearing [/EN#28312/clothing a matching red hat] , [/EN#28313/clothing scarf] and [/EN#28314/clothing boots] , bravely jumps above [/EN#28315/other a patch of ice] .
+[/EN#28311/people A girl] , wearing [/EN#28312/clothing a red hat] and [/EN#28314/clothing boots] , jumping above [/EN#28315/other ice] .
+[/EN#28311/people A little girl] is playing outside in [/EN#28317/other the cold] on [/EN#28315/other ice] .
+[/EN#28311/people A little girl] is playing in [/EN#28315/scene a puddle] on [/EN#28318/scene a cold day] .
+[/EN#28311/people A young girl] , on [/EN#28316/scene a road] , playing on [/EN#28315/other the ice] .

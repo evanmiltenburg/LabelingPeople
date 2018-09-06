@@ -1,0 +1,5 @@
+[/EN#60162/people A man] with [/EN#60163/bodyparts gray hair] accepts [/EN#60164/other coins] in front of [/EN#60165/scene a kiosk] [/EN#0/notvisual that] has [/EN#60166/other a multitude of fine colored powders] in [/EN#60167/other large bowls] on [/EN#60171/other display] .
+[/EN#60162/people A man] in [/EN#60168/clothing a gray long-sleeved shirt] is making [/EN#60173/other a transaction] with [/EN#60169/people another person] from [/EN#60165/scene his street market] .
+[/EN#60162/people A man] in [/EN#60168/clothing a gray shirt] stands in front of [/EN#60170/scene a stand] with contains [/EN#60166/other bowls of colorful powders] .
+[/EN#60162/people A man] stands in front of [/EN#60165/scene a booth] full of [/EN#60166/other colorful products] .
+[/EN#60162/people A man] in at [/EN#60165/scene an open-air market stall] makes [/EN#60174/other change] .

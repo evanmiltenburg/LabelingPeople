@@ -1,0 +1,5 @@
+[/EN#58063/people The girl] wearing [/EN#58066/clothing pink goggles] is in [/EN#58064/scene the swimming pool] doing [/EN#58063/other the backstroke] .
+[/EN#58063/people A young girl] in [/EN#58066/clothing swim goggles] does [/EN#58063/other the backstroke] in [/EN#58064/scene a pool] .
+[/EN#58063/people A swimmer] in [/EN#58067/clothing a dark blue suit] swimming [/EN#58063/other backstroke] .
+[/EN#58063/people A swimmer] does [/EN#58063/other the backstroke] in [/EN#58064/scene a swimming pool] .
+[/EN#58063/people A girl] does [/EN#58063/other the backstroke] in [/EN#58064/scene the pool] .

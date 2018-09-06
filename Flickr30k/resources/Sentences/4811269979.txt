@@ -1,0 +1,5 @@
+[/EN#205534/animals A brown dog] lays on [/EN#0/notvisual the ground] in front of [/EN#205538/scene a doorway] beside [/EN#205541/other a red box] on [/EN#205540/other a pedestal] .
+[/EN#205534/animals A dog] is laying on [/EN#0/notvisual the ground] in front of [/EN#205538/other a door] with [/EN#205536/other Asian writing] on [/EN#0/notvisual it] .
+[/EN#205534/animals Dog] sleeps [/EN#205543/scene outside] on [/EN#205537/scene the cemented street] in [/EN#205542/scene asian country] .
+[/EN#205534/animals A dog] is sleeping on [/EN#0/notvisual the ground] near [/EN#205535/scene a building] .
+[/EN#205534/animals a dog] lying asleep outside of [/EN#205535/scene a house]

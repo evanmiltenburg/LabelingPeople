@@ -1,0 +1,5 @@
+[/EN#45108/people One guy] and [/EN#45111/people one girl] playing [/EN#45109/other Trivia Pursuit] , on [/EN#45112/scene the floor] beside [/EN#45114/scene a fireplace] .
+[/EN#45110/people Two people] play [/EN#45109/other Settlers of Catan] on [/EN#45112/scene the floor] while [/EN#0/notvisual another] sits on [/EN#45113/other a chair] .
+[/EN#45110/people Two people] with [/EN#45115/clothing glasses] are playing [/EN#45109/other a game] while sitting on [/EN#45112/scene the floor] .
+[/EN#45108/people A guy] and [/EN#45111/people girl] playing [/EN#45109/other a board game] on [/EN#45112/scene the floor] .
+[/EN#45110/people a couple] is playing [/EN#45109/other trivial pursuit]

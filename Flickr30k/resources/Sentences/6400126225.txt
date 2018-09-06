@@ -1,0 +1,5 @@
+[/EN#253872/people A man] in [/EN#253879/clothing red pants] and [/EN#253875/clothing a white shirt] rollerskating with [/EN#253878/people a woman] in [/EN#253876/clothing a purple and white dress] in front of [/EN#253874/people an audience] .
+[/EN#253872/people A man] wearing [/EN#253879/clothing red pants] and [/EN#253878/people a woman] wearing [/EN#253876/clothing a matching dress] are ice skating together in front of [/EN#253874/people a crowd] .
+[/EN#253871/other A male and female team of rollerskaters] are in [/EN#253877/clothing costume] and performing in [/EN#253873/other a competition] .
+[/EN#0/notvisual This] is [/EN#253872/people a man] and [/EN#253878/people a woman] doing [/EN#253873/other a skating performance] , in front of [/EN#253874/people an audience] .
+[/EN#253880/other An ice] skating [/EN#253871/people couple] performs in [/EN#253881/scene an arena] .

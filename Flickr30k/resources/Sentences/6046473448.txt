@@ -1,0 +1,5 @@
+[/EN#247093/people A young man] in [/EN#247104/clothing shorts] and [/EN#247105/clothing tank top] sitting on [/EN#247094/vehicles a bike] with [/EN#247096/other a double seat pull] behind [/EN#247103/other two wheeler] attached to [/EN#0/notvisual it] and [/EN#247102/other one] in [/EN#247106/scene front] with [/EN#247099/clothing both being yellow] in [/EN#247100/other color] .
+[/EN#247095/vehicles A pedicab] driving sitting on [/EN#0/notvisual the side] and waiting for [/EN#247093/people his next customer] .
+[/EN#247093/people A man] sitting on [/EN#247096/other a rickshaw] waiting for [/EN#247093/people someone] to need [/EN#247098/other a ride] .
+[/EN#247093/people A rickshaw operator] waiting for [/EN#247093/people his next costumer] .
+[/EN#247093/people A pedicab driver] waiting on [/EN#247101/vehicles his bike]

@@ -1,0 +1,5 @@
+[/EN#228255/people A lady] wearing [/EN#228259/clothing a red bandanna] and [/EN#228263/clothing apron] is standing in [/EN#228257/scene a store] [/EN#0/notvisual that] contain [/EN#228266/other many bottles] and [/EN#228265/clothing glasses] inside [/EN#228260/other a china cabinet] .
+[/EN#0/notvisual This] is [/EN#228261/other a classic European style cafe] , with [/EN#228255/people a woman] standing behind [/EN#228256/other the counter] making [/EN#228264/other coffee] .
+[/EN#228255/people A woman] in [/EN#228259/clothing a red scarf] is working behind [/EN#228256/other a counter] .
+[/EN#228255/people A woman] is behind [/EN#228256/other a counter] near [/EN#228262/people a coffee maker] .
+[/EN#228255/people A woman] working in [/EN#228258/scene an old-fashioned bar] .

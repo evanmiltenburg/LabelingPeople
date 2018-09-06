@@ -1,0 +1,5 @@
+[/EN#108778/people Two people] drive [/EN#108777/vehicles/scene a small motor boat] on [/EN#108779/scene choppy water] .
+[/EN#108777/vehicles/scene A speed boat] jumps over [/EN#108779/scene waves] in [/EN#108779/scene the water] .
+[/EN#108781/people Someone] is in [/EN#108777/vehicles/scene a speed boat] on [/EN#108779/scene the water] .
+[/EN#108778/people People] in [/EN#108777/vehicles/scene a boat] floating above [/EN#108779/scene waves] .
+[/EN#108782/vehicles A speedboat] rips through [/EN#108779/scene the water] .

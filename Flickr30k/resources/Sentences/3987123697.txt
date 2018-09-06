@@ -1,0 +1,5 @@
+[/EN#150998/people A teenage boy] in [/EN#151002/clothing red pants] rides [/EN#150996/vehicles a bicycle] down [/EN#150997/scene a street] , [/EN#151000/people another teenager] sits on [/EN#151003/other the back] .
+[/EN#150995/people Two men] are riding down [/EN#150997/scene the street] on [/EN#150996/vehicles a bicycle] next to [/EN#150999/scene a gray building] .
+[/EN#150995/people Two people] are riding at once on [/EN#150996/vehicles one single bicycle] .
+[/EN#150995/people Two African boys] share [/EN#150996/vehicles a bike] on [/EN#151001/scene a sunny day] .
+[/EN#150995/people Two people] riding [/EN#150996/vehicles a bicycle] .

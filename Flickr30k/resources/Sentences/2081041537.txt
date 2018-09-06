@@ -1,0 +1,5 @@
+[/EN#27518/people A brown-haired boy] with [/EN#27519/clothing a white shirt] looking out [/EN#27520/vehicles/scene the window of a bus or subway] .
+[/EN#27518/people A boy] in [/EN#27519/clothing a t-shirt] is watching [/EN#27520/scene the scenery outside] from [/EN#27521/vehicles/scene a train] .
+[/EN#27518/people A young man] sits , looking out of [/EN#27520/other a train window] .
+[/EN#27518/people A man] looking out [/EN#27520/vehicles/scene a window of a train] .
+[/EN#27518/people A man] is looking outside of [/EN#27520/other a window] .

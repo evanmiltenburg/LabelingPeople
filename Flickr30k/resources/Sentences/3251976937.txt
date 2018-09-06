@@ -1,0 +1,5 @@
+[/EN#104514/animals The brown dog] running in [/EN#104518/scene the snow] is carrying [/EN#104515/other a large stick] , also covered with [/EN#104517/scene snow] .
+[/EN#104514/animals Brown dog] runs through [/EN#104517/scene snow] with [/EN#104515/other a snow covered branch] in [/EN#104516/bodyparts its mouth] .
+[/EN#104514/animals A brown dog] holding [/EN#104515/other a huge stick] in [/EN#104516/bodyparts its mouth] running in [/EN#104517/scene the snow] .
+[/EN#104514/animals A dog] in [/EN#104517/scene the snow] carrying [/EN#104515/other a tree limb] in [/EN#104516/bodyparts its mouth] .
+[/EN#104514/animals A brown dog] holding [/EN#104515/other a really big stick] .

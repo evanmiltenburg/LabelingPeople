@@ -1,0 +1,5 @@
+[/EN#256308/people A young man] wearing [/EN#256316/clothing red shorts] and [/EN#256310/clothing a red and white sleeveless shirt] holds [/EN#256309/other a stick] as [/EN#256314/people a woman] passes behind [/EN#0/notvisual him] .
+[/EN#256308/other A dark-haired young] in [/EN#256311/clothing a red and white uniform] is holding [/EN#256309/other a vaulting pole] .
+[/EN#256308/people A pole vaulter] is carrying [/EN#256309/other his equipment] while looking away .
+[/EN#256308/people A track athlete] in [/EN#256311/clothing red and white] carrying [/EN#256309/other a large pole] .
+[/EN#256308/people A pole vaulter] leaving [/EN#256313/other the pit] with [/EN#256309/other his pole] .

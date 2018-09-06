@@ -1,0 +1,5 @@
+[/EN#175808/people A male soccer player] attempting to head [/EN#175813/other the ball] past [/EN#175810/people the goalkeeper] to score [/EN#175811/other a goal] .
+[/EN#175810/people A soccer goalie] is standing with [/EN#175817/bodyparts his legs] spread while [/EN#175808/people another player] is jumping .
+[/EN#175808/people A boy] heading [/EN#175813/other a soccer ball] towards [/EN#175811/other the goal] while [/EN#175810/people the goalie] waits to block [/EN#0/notvisual it] .
+[/EN#175808/people A soccer player] in [/EN#0/notvisual the air] after kicking [/EN#175813/other the ball] towards [/EN#175810/people the defensive goalie] .
+[/EN#175808/people The soccer player] is [/EN#175808/scene midair] near [/EN#175811/other an opponents goal] .

@@ -1,0 +1,5 @@
+[/EN#161996/people Three people] sitting on [/EN#162000/other a table] , [/EN#162002/people one woman] is speaking , and [/EN#161997/people people] are listening to [/EN#0/notvisual them] .
+[/EN#162001/people A man] sits in [/EN#162004/clothing a suit] between [/EN#162003/people two woman] at [/EN#161998/other a presentation] with [/EN#162005/bodyparts his hand] on [/EN#162006/bodyparts his chin] .
+[/EN#161996/people A group of people] sitting in front of [/EN#161999/people a table of three people] in [/EN#162007/scene a conference room] .
+[/EN#161996/people Three people] sit at [/EN#162000/other a table] in front of [/EN#161997/people a crowd of people] .
+[/EN#161996/people Three people] giving [/EN#161998/other a presentation] before [/EN#161997/people a crowd] .

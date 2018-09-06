@@ -1,0 +1,5 @@
+[/EN#57034/people A boy] in [/EN#57035/clothing a blue collard shirt] plays with [/EN#57037/other an aerosol] can .
+[/EN#57034/people A boy] in [/EN#57035/clothing a blue shirt] is about to use [/EN#57037/other a spray bottle] .
+[/EN#57034/people A boy] in [/EN#57035/clothing a blue print shirt] is holding [/EN#57036/other a can] .
+[/EN#57034/people The boy] is [/EN#57039/scene outside] holding [/EN#57036/other a spray] can .
+[/EN#57034/people Young boy] standing with [/EN#57036/other a can] .

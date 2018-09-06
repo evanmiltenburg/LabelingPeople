@@ -1,0 +1,5 @@
+[/EN#38783/animals One black dog] chases [/EN#0/notvisual another] on [/EN#38781/scene grass] nearby [/EN#38781/scene a road] [/EN#0/notvisual that] was recently snowed on .
+[/EN#38781/animals Two black dogs] are playing in [/EN#38781/other a grassy plain] .
+[/EN#38781/animals Two black dogs] chase [/EN#0/notvisual each other] on [/EN#38781/scene grass] .
+[/EN#38781/animals Two black dogs] running on [/EN#38781/scene grass] .
+[/EN#38781/animals Two black dogs] running

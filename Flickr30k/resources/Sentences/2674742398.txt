@@ -1,0 +1,5 @@
+[/EN#65384/people A man] dressed in [/EN#65385/clothing blue pants] and [/EN#65386/clothing a blue shirt] poses in [/EN#65387/other an alleyway] with [/EN#65388/other a camera] and [/EN#65389/other a piece of paper] .
+[/EN#65384/people A man] with [/EN#65388/other a camera] wearing [/EN#65386/clothing a blue shirt] and [/EN#65385/clothing jeans] stands between [/EN#65391/scene two tall buildings] .
+[/EN#65384/people A man] standing in [/EN#65387/scene a narrow alley] posing for [/EN#65393/other a picture] .
+[/EN#65384/people A man] wearing [/EN#65386/clothing a blue shirt] stands between [/EN#65392/other two walls] .
+[/EN#65384/people A man] with [/EN#65388/other a camera] stands in [/EN#65387/other an alleyway] .

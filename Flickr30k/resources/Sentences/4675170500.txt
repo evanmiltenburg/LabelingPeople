@@ -1,0 +1,5 @@
+[/EN#189331/people A girl] in [/EN#189332/clothing a black shirt] looks at [/EN#0/notvisual the camera] while eating [/EN#189328/other an apple] and [/EN#0/notvisual another] smiles while looking downward .
+[/EN#189327/people Two girls] in [/EN#189329/clothing black shirts] ; [/EN#189334/other one] smiling and [/EN#189335/other the other] eating [/EN#189328/other an apple] .
+[/EN#189327/people Two women] wearing [/EN#189329/clothing black t-shirts] are sitting in [/EN#189330/scene the grass] .
+[/EN#189327/people Two women] sitting in [/EN#189330/scene the grass] on [/EN#189333/scene a sunny day] .
+[/EN#189327/people Two women] are walking through [/EN#189330/scene tall grass] .

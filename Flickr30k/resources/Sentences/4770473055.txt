@@ -1,0 +1,5 @@
+[/EN#201078/people A man] wearing [/EN#201079/clothing a black shaggy hat] and leopard printed [/EN#201086/clothing sash] with [/EN#201085/other red accents] is holding [/EN#201080/instruments a drum] [/EN#0/notvisual that] says [/EN#201081/people Premier] on [/EN#0/notvisual it] .
+[/EN#201078/people A man] in [/EN#201079/clothing a fur hat] is carrying [/EN#201080/instruments a drum] [/EN#0/notvisual that] says [/EN#201081/people Premier] .
+[/EN#201078/people A man] in [/EN#201079/clothing a fuzzy hat] is holding [/EN#201080/instruments a large bass drum] .
+[/EN#201078/people A man] is playing [/EN#201080/instruments a drum] in [/EN#201078/people a marching band] .
+[/EN#201078/people A bass drummer] marches in [/EN#201083/other a band formation] .

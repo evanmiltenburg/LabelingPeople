@@ -1,0 +1,5 @@
+[/EN#220361/people A large group of people] eat and talk together on [/EN#220363/scene the outdoor patio of a restaurant] , as seen through [/EN#220364/other a window] with [/EN#220360/vehicles a green bike] in [/EN#0/notvisual the foreground] .
+[/EN#220361/people A group of people] eating at [/EN#220362/other an outside cafe] with [/EN#220360/vehicles a bike] showing in [/EN#0/notvisual the foreground] .
+[/EN#220361/people People] eating at [/EN#220363/scene a restaurant] [/EN#220364/other whose doors] is blocked by [/EN#220360/vehicles a green bicycle] .
+[/EN#220360/vehicles A green bike] is parked next to [/EN#220366/other a door] .
+[/EN#220361/people People] eating outside at [/EN#220362/other an eatery] .

@@ -1,0 +1,5 @@
+[/EN#169998/people A small child] lays on [/EN#169999/scene a glossy hardwood floor] .
+[/EN#169998/people A little boy] in [/EN#170000/other blue lays] on [/EN#169999/scene an empty floor] .
+[/EN#169998/people Small child] laying on [/EN#169999/scene a hardwood floor] .
+[/EN#169998/people The child] lays on [/EN#169999/scene the hardwood floor] .
+[/EN#169998/people Small boy] laying on [/EN#169999/scene wooden floor] .

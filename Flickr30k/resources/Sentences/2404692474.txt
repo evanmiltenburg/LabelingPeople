@@ -1,0 +1,5 @@
+[/EN#46806/animals The light colored dog] is chasing after [/EN#46807/other a toy] [/EN#46810/scene outdoors] .
+[/EN#46806/animals A dog] runs across [/EN#46811/scene the grass] to get [/EN#46807/other his toy] .
+[/EN#46806/animals White dog] chasing [/EN#46807/other a yellow toy] .
+[/EN#46806/animals A dog] chasing [/EN#46809/animals a toy duck] .
+[/EN#46808/other the dog barks] at [/EN#46807/other the toy] .

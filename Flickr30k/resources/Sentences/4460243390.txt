@@ -1,0 +1,5 @@
+[/EN#170346/people A woman] wearing [/EN#170353/clothing a scarf] , [/EN#170356/clothing hat] , and [/EN#170347/clothing coat] , holding [/EN#170348/clothing a shopping bag] is looking at [/EN#170350/other her phone] while standing in front of [/EN#170349/scene a store] .
+[/EN#170346/people A woman] in [/EN#170347/clothing a brown coat] and [/EN#170355/clothing black slacks] is standing in front of [/EN#170354/other a store window] looking down .
+[/EN#170346/people A woman] in [/EN#170347/clothing a brown coat] stands [/EN#170357/scene outside of a store] while holding [/EN#170348/clothing a shopping bag] .
+[/EN#170346/people An old woman] on [/EN#170352/scene a cold day] , outside [/EN#170349/scene a sports store] somewhere in [/EN#170351/other Brazil] .
+[/EN#170346/people A woman] looking at [/EN#0/notvisual her] [/EN#170350/other cellphone] .

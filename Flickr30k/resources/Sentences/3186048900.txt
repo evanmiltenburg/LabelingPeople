@@ -1,0 +1,5 @@
+[/EN#99417/people A small boy] with [/EN#99418/clothing a white shirt] and [/EN#99419/clothing red striped tie] has [/EN#99420/bodyparts his hand] on [/EN#99421/other a door] and [/EN#0/notvisual there] are [/EN#99422/clothing several pairs of shoes] beside [/EN#99421/other the door] .
+[/EN#99417/people A young child] dressed in [/EN#99418/other a fitting white buttoned down] [/EN#99418/clothing shirt] , [/EN#99424/clothing tan pants] and [/EN#99419/clothing red tie] stands over [/EN#99422/clothing shoes] on [/EN#99425/other a shoe rack] .
+[/EN#99417/people A little boy] in [/EN#99418/clothing a dress shirt] and [/EN#99419/clothing tie] is standing next to [/EN#99422/clothing a bunch of tennis shoes] .
+[/EN#99417/people A little Asian boy] is trying to open [/EN#99421/other a door] stepping through [/EN#99422/clothing a batch of shoes] .
+[/EN#99417/people A little boy] wearing [/EN#99426/clothing dress clothes] is waiting by [/EN#99421/other a door] .

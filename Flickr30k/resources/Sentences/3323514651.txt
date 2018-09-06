@@ -1,0 +1,5 @@
+[/EN#109419/people one boy] wearing [/EN#109422/clothing a black jersey] holding [/EN#109421/other a basketball] while [/EN#0/notvisual another] is behind [/EN#0/notvisual him] trying to get [/EN#109423/other the ball]
+[/EN#109419/people A basketball player] in [/EN#109422/clothing black] jumps , while [/EN#0/notvisual another] in [/EN#109425/clothing white] attempts to block .
+[/EN#109420/people Two male basketball players] are fighting over [/EN#109421/other a basketball] .
+[/EN#109420/people Two young men] play [/EN#109423/other basketball] while [/EN#109424/people crowd] looks on
+[/EN#109420/people Two basketball players] fighting over [/EN#109423/other the ball] .

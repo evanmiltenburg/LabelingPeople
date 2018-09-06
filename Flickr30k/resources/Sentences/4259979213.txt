@@ -1,0 +1,5 @@
+[/EN#160602/people A young child] is in [/EN#160606/clothing a harness] climbing [/EN#160603/other a rock wall] .
+[/EN#160602/people A child] in [/EN#160605/other safety gear] is climbing up [/EN#160603/other a wall] .
+[/EN#160602/people a child] rock climbing with [/EN#160604/other a safety rope] on
+[/EN#160602/people A child] smiles as [/EN#0/notvisual she] rock climbs .
+[/EN#160602/people little guy] rock climbing [/EN#160603/other the wall] .

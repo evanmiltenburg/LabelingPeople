@@ -1,0 +1,5 @@
+[/EN#189220/other A single motorcycle] stops at [/EN#189215/scene a crosswalk] while [/EN#189212/scene the parking area] to [/EN#0/notvisual the left of it] is filled with [/EN#189218/vehicles parked bicycles] and [/EN#189212/other motorcycles] .
+[/EN#189219/people A motorcyclist] stops at [/EN#189215/scene an empty crosswalk] , while [/EN#189212/other thirty or forty motorcycles] and [/EN#189218/vehicles bicycles] sit parked in [/EN#189217/scene the street] beside [/EN#0/notvisual him] .
+[/EN#189212/other A group of motorcycles] and [/EN#189218/vehicles scooters] are parked together in [/EN#189212/scene a lot] in [/EN#189217/scene the middle of a street] .
+[/EN#189212/other A line of motorcycles] are parked on [/EN#189221/other a divider] in [/EN#189217/scene the middle of a city street] .
+[/EN#189213/scene A city street] is lined with [/EN#189212/other parked motorcycles] .

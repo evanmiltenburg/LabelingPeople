@@ -1,0 +1,5 @@
+[/EN#260424/people A man] wearing [/EN#260425/clothing a purple cap] , [/EN#260433/clothing yellow snow goggles] , [/EN#260430/clothing a periwinkle jacket] and [/EN#260432/clothing red backpack] moves quickly through [/EN#260427/scene powdery snow] near [/EN#260426/other a winter tree] .
+[/EN#260424/people A person] wearing [/EN#260425/clothing a purple helmet] is snowboarding down [/EN#260428/other a hillside] .
+[/EN#260424/people A snowboarder] kicking up [/EN#260427/scene snow] under [/EN#260426/other a tree] on [/EN#260429/scene a mountain] .
+[/EN#260424/people An individual] is skiing or snowboarding
+[/EN#260424/people A skier] skiing after [/EN#260431/other a snowstorm] .

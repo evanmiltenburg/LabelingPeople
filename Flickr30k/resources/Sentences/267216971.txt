@@ -1,0 +1,5 @@
+[/EN#65304/people A man] in [/EN#65305/clothing a gray shirt] works behind [/EN#65306/other the counter] at [/EN#65310/scene a fish market] .
+[/EN#65304/people A man] is standing behind [/EN#65307/other the fish display] in [/EN#65311/scene the restaurant] .
+[/EN#65312/scene A street vending area] [/EN#0/notvisual that] sells [/EN#65308/other foreign food] .
+[/EN#65304/people A man] is selling [/EN#65309/animals fish] in [/EN#65313/scene a blue booth] .
+[/EN#65312/scene Outdoor restaurant] and [/EN#65314/other marketplace] .

@@ -1,0 +1,5 @@
+[/EN#227888/people A man] in [/EN#227891/clothing a silver gray tea shirt] parked [/EN#227890/vehicles his red bicycle] up against [/EN#227892/other a tree] .
+[/EN#227888/people A cyclist] leans [/EN#227890/vehicles his bike] against [/EN#227892/other a tree] near [/EN#227893/people the campers] .
+[/EN#227888/people A man] leans [/EN#0/notvisual his] bike up against [/EN#227892/other a tree] on [/EN#227894/scene the grass] .
+[/EN#227888/people Man] in [/EN#227891/clothing gray shirt] resting [/EN#227890/vehicles a bike] against [/EN#227892/other a tree] .
+[/EN#227888/people A man] is leaning [/EN#227890/vehicles his bicycle] on [/EN#227892/other a tree] .

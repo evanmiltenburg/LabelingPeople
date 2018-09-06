@@ -1,0 +1,5 @@
+[/EN#1951/people A group of construction workers] dressed in [/EN#1953/clothing orange safety vest] sit on [/EN#0/notvisual the ground] assembling [/EN#1952/scene a railroad track] .
+[/EN#1951/people Several workers] in [/EN#1953/clothing orange vests] are repairing [/EN#1952/other tram rails] , as [/EN#1955/people onlookers] stand by .
+[/EN#1951/people Workers] wearing [/EN#1953/clothing reflective vests] working near [/EN#1957/vehicles a train car] .
+[/EN#1951/people Rail workers] working on [/EN#1952/scene train tracks] in [/EN#1954/scene the city] .
+[/EN#0/notvisual There] are [/EN#1951/people laborers] working on [/EN#1952/scene a train track] .

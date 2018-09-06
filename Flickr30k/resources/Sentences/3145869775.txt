@@ -1,0 +1,5 @@
+[/EN#96413/people A girl] wearing [/EN#96414/clothing a Bohemian hat] and [/EN#96415/clothing black jacket] is walking trying to get [/EN#96421/other something] out of [/EN#96416/clothing her blue purse] .
+[/EN#96413/people The lady] is wearing [/EN#96415/clothing a black coat] , [/EN#96417/clothing gloves] , and [/EN#96418/clothing boots] .
+[/EN#96413/people The woman] walking is wearing [/EN#96419/clothing a skirt] and [/EN#96418/clothing boots] .
+[/EN#96413/people The lady] is dressed for [/EN#96420/other cold weather] .
+[/EN#96413/people A woman] in [/EN#96419/clothing a short skirt] and [/EN#96418/clothing boots] .

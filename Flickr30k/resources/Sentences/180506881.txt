@@ -1,0 +1,5 @@
+[/EN#21020/people two people] wearing [/EN#21029/clothing white shirts] and [/EN#21030/clothing jeans] [/EN#21020/other each] carrying [/EN#21023/other a skateboard]
+[/EN#21026/bodyparts The legs] and [/EN#21025/people mid-sections of two people] with [/EN#21028/other skateboards] .
+[/EN#21020/people Two guys] walking , [/EN#21027/other one] carrying [/EN#21023/other a skateboard]
+[/EN#0/notvisual The camera] focuses on [/EN#21019/bodyparts two people 's legs] .
+[/EN#21020/people two male skaters] walk on [/EN#21031/scene sidewalk]

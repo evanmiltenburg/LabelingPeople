@@ -1,0 +1,5 @@
+[/EN#79572/animals A large black and white dog] is catching [/EN#79573/other a Frisbee] in [/EN#79578/scene the park] with [/EN#79574/people a crowd of people] behind [/EN#0/notvisual him] .
+[/EN#79572/animals A black and white dog] with [/EN#79573/other a Frisbee] in [/EN#79575/bodyparts his mouth] on [/EN#79576/bodyparts his hind legs]
+[/EN#79572/animals A black dog] with [/EN#79577/clothing an orange bandanna] catches [/EN#79573/other a white Frisbee] .
+[/EN#79572/animals A black dog] catches [/EN#79573/other a Frisbee] at [/EN#79578/scene a park] .
+[/EN#79572/animals Dog] catching [/EN#79573/other the Frisbee] .

@@ -1,0 +1,5 @@
+[/EN#186290/people A woman] in [/EN#186291/clothing a black shirt] with [/EN#186295/clothing a white vest] is walking down [/EN#186294/scene the street] in [/EN#186292/scene a city] .
+[/EN#186290/people A young woman] in [/EN#186291/clothing a black shirt] walking down [/EN#186294/scene a city street] .
+[/EN#186290/people A woman] with [/EN#186296/bodyparts short brown hair] walks down [/EN#186294/scene the street] .
+[/EN#186290/people A woman] wearing [/EN#186291/clothing a black top] walks around [/EN#186292/scene the city] .
+[/EN#186290/people A woman] walking down [/EN#186293/scene the street] in [/EN#186292/scene a city] .

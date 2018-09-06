@@ -1,0 +1,5 @@
+[/EN#163100/people A little girl] with [/EN#163105/clothing a black bandanna] on [/EN#163106/bodyparts her hair] is posing for [/EN#163107/other a picture] while [/EN#0/notvisual she] searches for [/EN#163108/other a four leaf] clover
+[/EN#163100/people A young girl] is lying down in [/EN#163101/scene the grass] staring apathetically into [/EN#0/notvisual the camera] .
+[/EN#0/notvisual This] is [/EN#163100/people a young girl] in [/EN#163101/scene the grass] at [/EN#163101/scene a park] posing for [/EN#0/notvisual the camera] .
+[/EN#163100/people An unhappy looking child] lays in [/EN#163104/scene the grass] at [/EN#163101/scene a park] .
+[/EN#163100/people A bored-looking girl] relaxes in [/EN#163101/scene the park] .

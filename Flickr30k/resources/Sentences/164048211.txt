@@ -1,0 +1,5 @@
+[/EN#18006/people Two young children] , [/EN#18013/other one] wearing [/EN#18008/clothing a blue shirt] and [/EN#18014/other something] on [/EN#18016/bodyparts their head] climbing [/EN#18010/other a tree] standing in front of [/EN#18010/scene a body of water] .
+[/EN#18006/people One small child] is climbing [/EN#18010/other a tree] near [/EN#18010/scene a body of water] while [/EN#18011/people another child] walks away .
+[/EN#18006/people A child] climbing [/EN#18010/other a tree] wearing [/EN#18009/clothing a purple hat] with [/EN#18011/people a little boy] in [/EN#0/notvisual the foreground] .
+[/EN#18006/people Two children] by [/EN#18010/other a tree] near [/EN#18010/scene some water] .
+[/EN#18006/people Two children] playing near [/EN#18010/scene a lake] .

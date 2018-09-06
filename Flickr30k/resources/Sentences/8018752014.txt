@@ -1,0 +1,5 @@
+[/EN#277801/people An older food vendor] , in [/EN#277805/clothing a white embroidered shirt] , [/EN#277806/clothing maroon vest] and checked [/EN#277807/clothing apron] , is sitting , leaning forward , with [/EN#277808/bodyparts her elbows] on [/EN#277809/bodyparts her knees] and [/EN#277810/bodyparts her hands] clasped , behind [/EN#277803/other her foodstuffs] .
+[/EN#277801/people A woman] sits in [/EN#277802/scene a market stall] with [/EN#277803/other three large trays of produce] in front of [/EN#0/notvisual her] .
+[/EN#277801/people A woman] is working selling [/EN#277803/other food] at [/EN#277802/scene an open air bazaar] .
+[/EN#277801/people A woman] sits behind [/EN#277803/other baskets of fruit] at [/EN#277802/scene a market] .
+[/EN#277801/people A woman] sits on [/EN#277804/other a crate] by [/EN#277803/other her baskets of fruit] .

@@ -1,0 +1,5 @@
+At [/EN#71210/scene night] , [/EN#71204/people a man] wearing [/EN#71207/clothing a green vest] is looking across [/EN#71205/scene a body of water] with [/EN#71206/people a crowd of people] on [/EN#0/notvisual the other side] .
+[/EN#71204/people A security officer] looks out over [/EN#71205/scene some water] where [/EN#0/notvisual there] are [/EN#71208/other lights] .
+[/EN#71204/people A security officer] is monitoring [/EN#71206/people the crowd] across [/EN#71205/scene the water] .
+[/EN#71204/people A patrol officer] is looking at [/EN#71209/other things] lit up on [/EN#71205/scene a river] .
+[/EN#71204/people A man] in [/EN#71207/clothing a green vest] is standing in front of [/EN#71205/scene water] .

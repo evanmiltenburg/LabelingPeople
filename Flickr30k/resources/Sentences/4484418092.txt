@@ -1,0 +1,5 @@
+[/EN#172220/people A woman] in [/EN#172224/clothing a white shirt] and [/EN#172225/clothing sunglasses] standing with [/EN#172222/clothing a plaid jacket] over [/EN#172228/bodyparts her shoulder] and [/EN#172221/clothing a brown paper bag] .
+[/EN#172220/people A woman] in [/EN#172225/clothing sunglasses] is carrying [/EN#172226/clothing a purse] , [/EN#172222/clothing a jacket] , and [/EN#172221/clothing a brown bag] while walking down [/EN#172223/scene the street] .
+[/EN#172220/people A woman] wearing [/EN#172224/clothing white shirt] and [/EN#172225/clothing sunglasses] is walking on [/EN#172223/scene the street] holding [/EN#172221/clothing a brown paper bag] .
+[/EN#172220/people A black woman] holding [/EN#172222/clothing a flannel jacket] and [/EN#172221/clothing paper bag] walks down [/EN#172223/scene the street] .
+[/EN#172220/people A woman] in [/EN#172224/clothing a white shirt] walks while carrying [/EN#172222/clothing a jacket] .

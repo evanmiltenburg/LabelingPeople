@@ -1,0 +1,5 @@
+[/EN#28163/animals A short black dog] is walking over [/EN#28164/scene a barren landscape] .
+[/EN#28163/animals A small black dog] running across [/EN#28164/other the sand] .
+[/EN#28163/animals A small black dog] walks in [/EN#28164/other the sand] .
+[/EN#28163/animals A black dog] bounds across [/EN#28164/other the sand] .
+[/EN#28163/animals A dog] walking across [/EN#28164/scene the desert] .

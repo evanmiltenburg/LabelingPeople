@@ -1,0 +1,5 @@
+[/EN#52098/people A young boy] with [/EN#52100/bodyparts brown hair] and [/EN#52101/bodyparts green eyes] looks at [/EN#0/notvisual the camera] and sticks [/EN#52102/bodyparts his tongue] out .
+[/EN#52098/people A young boy] with [/EN#52100/bodyparts reddish hair] and [/EN#52101/bodyparts gray colored eyes] sticks [/EN#52102/bodyparts his tongue] out .
+[/EN#52098/people A young boy] wearing [/EN#52099/clothing a denim jacket] sticks [/EN#52102/bodyparts his tongue] out .
+[/EN#52098/people Young boy] wearing [/EN#52099/clothing a denim shirt] sticks out [/EN#52102/bodyparts his tongue] .
+[/EN#52098/people Kid] in [/EN#52099/clothing jacket] points [/EN#52102/bodyparts tongue] out

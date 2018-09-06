@@ -1,0 +1,5 @@
+[/EN#76851/people One man] holding [/EN#76852/other a flashlight] is examining [/EN#76846/other a row of similar objects] while [/EN#76853/people another man] is taking [/EN#76848/other notes] .
+[/EN#76845/people Two men] are looking at [/EN#76846/other meat] [/EN#0/notvisual that] is set out on [/EN#76847/other a table] while [/EN#76848/other taking notes] .
+[/EN#76845/people Two Asian men] wearing [/EN#76854/clothing dark clothes] are looking down near [/EN#76850/other wooden crates]
+[/EN#76845/people Men] are looking at [/EN#76849/other slabs of meat] on [/EN#76847/other a table] .
+[/EN#76845/people Men] examine [/EN#76846/other meat] at [/EN#76855/scene an outdoor meat market] .

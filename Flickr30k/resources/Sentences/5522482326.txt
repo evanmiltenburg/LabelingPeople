@@ -1,0 +1,5 @@
+[/EN#238214/people A man] wearing [/EN#238220/clothing white and black clothes] doing [/EN#238217/other a construction project] .
+[/EN#238214/people A man] with [/EN#238216/bodyparts long hair] works on putting [/EN#238219/other tile] on [/EN#0/notvisual the ground] .
+[/EN#238214/people A man] with [/EN#238216/bodyparts a long ponytail] is working on tiling [/EN#238215/scene a floor] .
+[/EN#238214/people Long-haired man] works in [/EN#238218/scene a white room] .
+[/EN#238214/people A man] installing [/EN#238215/scene a tile floor] .

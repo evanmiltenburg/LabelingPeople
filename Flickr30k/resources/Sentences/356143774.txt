@@ -1,0 +1,5 @@
+[/EN#127737/animals A pair of long necked birds] swimming .
+[/EN#127737/animals Two swans] swimming near [/EN#127739/scene the shore] .
+[/EN#127737/animals Two swans] swimming in [/EN#127738/scene the water] .
+[/EN#127737/animals Two white swans] in [/EN#127738/scene the lake] .
+[/EN#127737/animals Two swans] glide on [/EN#127738/scene river] .

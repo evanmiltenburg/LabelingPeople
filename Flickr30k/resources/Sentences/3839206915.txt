@@ -1,0 +1,5 @@
+[/EN#145123/people 2 men] , [/EN#145131/other one] holding [/EN#145129/clothing an umbrella] , walk past [/EN#145125/other a window display] with [/EN#145130/clothing a suit] displayed [/EN#0/notvisual that] has [/EN#145124/clothing yellow stripes] and [/EN#145128/clothing a matching hat] .
+[/EN#145123/people Two African American men] walking by [/EN#145125/other a shop window] containing [/EN#145124/other a manikin] dressed in [/EN#145124/clothing a striped shirt] and [/EN#145124/clothing striped pants] .
+[/EN#145126/people A man] and [/EN#145131/people a woman] are walking past [/EN#145125/other a store window] with [/EN#145124/clothing an African outfit] on [/EN#145125/other display] .
+[/EN#145123/people Two men] are walking by [/EN#145134/scene a shop] with [/EN#145124/clothing an african outfit] displayed in [/EN#145125/other the window] .
+[/EN#145123/people Two men] passing [/EN#145125/other a shop window] .

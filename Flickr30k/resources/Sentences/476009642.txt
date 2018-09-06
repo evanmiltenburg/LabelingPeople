@@ -1,0 +1,5 @@
+[/EN#199862/people A boy] wearing [/EN#199873/clothing brown shorts] and [/EN#199874/clothing a red t-shirt] and [/EN#199869/people a girl] wearing [/EN#199875/clothing khaki pants] and [/EN#199876/clothing a blue shirt] are jumping in [/EN#0/notvisual the air] really high , [/EN#0/notvisual they] are on [/EN#199865/scene a round] , [/EN#199865/scene white Asian looking bridge] over [/EN#199872/scene a small river] .
+[/EN#199862/people A young man] and [/EN#199866/people woman] are excitedly leaping into [/EN#0/notvisual the air] on [/EN#199863/scene a bridge] at [/EN#199864/scene a park] .
+[/EN#199862/people A man] and [/EN#199866/people a woman] are jumping into [/EN#0/notvisual the air] excitedly on [/EN#199865/other a wooden footbridge] .
+[/EN#199868/people Two people] on [/EN#199863/scene a bridge] in [/EN#199870/scene a park] jumping with [/EN#199878/bodyparts their arms] in [/EN#0/notvisual the air] .
+[/EN#199862/people A man] and [/EN#199866/people woman] are jumping in [/EN#199863/scene the middle of a bridge] .

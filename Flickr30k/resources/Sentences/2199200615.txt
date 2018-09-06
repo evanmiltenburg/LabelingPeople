@@ -1,0 +1,5 @@
+[/EN#33648/animals A dog] running on [/EN#33649/scene green grass] with [/EN#33651/bodyparts its mouth open and tongue] hanging out .
+[/EN#33648/animals a white dog] is running with [/EN#33650/scene its mouth open] across [/EN#33649/scene the grass] .
+[/EN#33648/animals A white , black , and brown dog] runs in [/EN#33649/scene a field] .
+[/EN#33648/animals A dog] runs across [/EN#33649/scene the grassy field] .
+[/EN#33648/animals A dog] runs across [/EN#33649/scene the grass] .

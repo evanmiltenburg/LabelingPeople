@@ -1,0 +1,5 @@
+[/EN#103106/people A person] in [/EN#103107/other a blue hat chops wood] on [/EN#0/notvisual a cold snowy ground] .
+[/EN#103106/people A guy] cuts [/EN#103109/other wood] in [/EN#103112/other little pieces] in [/EN#103113/scene the snow] .
+[/EN#103106/people This person] is chopping [/EN#103109/other wood] in [/EN#103108/other the winter] .
+[/EN#103106/people A person] chopping [/EN#103109/other wood] in [/EN#103108/other the winter] .
+[/EN#103107/other A woman chops wood] with [/EN#103111/other an ax] .

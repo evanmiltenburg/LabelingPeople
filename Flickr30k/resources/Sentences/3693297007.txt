@@ -1,0 +1,5 @@
+[/EN#137349/people A girl] in [/EN#137356/clothing a white shirt] is looking down at [/EN#137348/people a bunch of people] sitting on [/EN#0/notvisual the ground] .
+[/EN#137348/people A group of people] gather outside on [/EN#137355/scene the pavement] , [/EN#137354/other some standing] , [/EN#137353/other some sitting] .
+[/EN#137348/people A group of people] are standing and sitting around on [/EN#0/notvisual the ground] at [/EN#137351/scene night] .
+[/EN#137348/people Group of people] standing and sitting [/EN#137352/scene outdoors] .
+[/EN#137348/people Young adults] gather near [/EN#137350/other a bright light] .

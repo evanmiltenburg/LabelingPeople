@@ -1,0 +1,5 @@
+[/EN#43538/people A little girl] in [/EN#43544/clothing cuffed jeans] , [/EN#43545/clothing a long-sleeve pink shirt] and [/EN#43546/clothing no shoes] is sleeping on [/EN#43539/other the sofa] .
+[/EN#43538/people The little girl] is sitting in [/EN#43539/other the chair] with [/EN#43542/bodyparts her head] resting on [/EN#43540/other the arm of the chair] .
+[/EN#43538/people A little girl] is sitting on [/EN#43539/other a chair or couch] with [/EN#43542/bodyparts her head] on [/EN#43541/bodyparts/people the arm] .
+[/EN#43538/people A little girl] tries taking [/EN#43543/other a nap] on [/EN#43539/other the comfy sofa] .
+[/EN#43538/people A sleepy little girl] on [/EN#43539/other a couch] .

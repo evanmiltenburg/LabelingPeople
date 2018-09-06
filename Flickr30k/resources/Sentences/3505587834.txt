@@ -1,0 +1,5 @@
+[/EN#123469/people Pedestrians] and [/EN#123472/people a bicyclist] leisurely move past [/EN#123470/scene a modern building] .
+[/EN#123469/people A group of people] walking in front of [/EN#123473/scene a large building] .
+[/EN#123470/scene The front of a movie theater] with [/EN#123471/people people] walking by .
+[/EN#123469/people People] walking and riding [/EN#123475/vehicles bikes] on [/EN#123474/scene the sidewalk] .
+[/EN#123469/people People] walk and bike in front of [/EN#123470/scene a box office] .

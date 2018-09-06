@@ -1,0 +1,5 @@
+[/EN#172527/vehicles A bicycle] [/EN#0/notvisual which] has been painted completely white , and has been written on in [/EN#172532/scene multiple places] , is chained to [/EN#172528/other a pole] along [/EN#172531/scene the street] .
+[/EN#172533/people The boy] locked [/EN#172527/other the cycle] and went away .
+[/EN#172527/vehicles A white bike] is leaning against [/EN#172529/scene a post] .
+[/EN#172527/vehicles A white bike] is tied to [/EN#172528/other a street sign] .
+[/EN#172527/vehicles A white bicycle] is tied to [/EN#172529/scene a post] .

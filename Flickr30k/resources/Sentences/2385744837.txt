@@ -1,0 +1,5 @@
+[/EN#45623/people A boy] in [/EN#45624/clothing a red jacket] and [/EN#45625/clothing balck hat] sliding on [/EN#45626/bodyparts his knees] down [/EN#45627/scene a snowy hill]
+[/EN#45623/people A child] in [/EN#45624/clothing a red parka] slides down [/EN#45627/scene a snowy hill] .
+[/EN#45623/people Little boy] in [/EN#45624/clothing a red jacket] sliding in [/EN#45627/scene the snow] .
+[/EN#45623/people A boy] in [/EN#45624/clothing a red jacket] slides down [/EN#45627/other the ice] .
+[/EN#45623/people Child] sliding in [/EN#45627/scene the snow] .

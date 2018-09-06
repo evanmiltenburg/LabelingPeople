@@ -1,0 +1,5 @@
+[/EN#175149/animals A dog] is standing in front of [/EN#175151/scene a pizza parlor] and [/EN#175150/people the man] is smiling looking at [/EN#0/notvisual him] .
+[/EN#175150/people The pizza maker] is laughing at [/EN#175149/animals the white dog] watching [/EN#0/notvisual him] through [/EN#175152/other the window] .
+[/EN#175149/animals A small brown and white dog] looks in [/EN#175152/other the window of Driggs Pizza] .
+[/EN#175149/animals A lost dog] trying to find [/EN#175154/other some food] in [/EN#175151/scene a pizza restaurant] .
+[/EN#175149/animals A dog] is looking in [/EN#175152/scene the window of a pizza parlor] .

@@ -1,0 +1,5 @@
+[/EN#45102/people A group of people] are standing outside watching [/EN#45106/other something] happening .
+[/EN#45102/people Many people] are watching [/EN#45103/people a parade] on [/EN#45105/scene the side of a street] .
+[/EN#45102/people A group of people] are watching [/EN#45106/other something] .
+[/EN#45102/people A group of people] at [/EN#45104/people a parade] .
+[/EN#45102/people People] watching [/EN#45103/people a parade] .

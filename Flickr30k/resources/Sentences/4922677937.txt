@@ -1,0 +1,5 @@
+[/EN#218656/people A line of people] rides [/EN#218658/other an escalator upstairs] while [/EN#218655/other an advertisement] is featured in [/EN#0/notvisual the foreground] .
+[/EN#218655/other A light green sign] on [/EN#218658/other the stairs] [/EN#0/notvisual that] says " [/EN#218660/other STAI GUARDANO GRATIS IL PAVITMENTO] "
+[/EN#218656/people People] riding [/EN#218658/scene the escalator] rather than taking [/EN#218659/other the stairs] .
+[/EN#218654/people A group of 9 men] and [/EN#218657/people women] walking [/EN#218659/other upstairs] .
+Where are [/EN#218654/people these people] going ?

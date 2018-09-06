@@ -1,0 +1,5 @@
+[/EN#36328/scene The brown mountains] have [/EN#36332/scene snow] on [/EN#0/notvisual them] and [/EN#0/notvisual there] are [/EN#36331/other clouds] in [/EN#36333/scene the sky] .
+[/EN#36327/scene A beautiful view of the mountains] on [/EN#36329/scene a snowy day] .
+[/EN#36328/scene The mountain] climbers set up [/EN#36330/other camp] at [/EN#36326/scene the apex] .
+[/EN#36334/people People] walking up [/EN#36328/scene a snowy mountain] .
+[/EN#36328/scene A snowy peak] .

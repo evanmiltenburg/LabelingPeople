@@ -1,0 +1,5 @@
+[/EN#195231/people A man] in [/EN#195242/clothing red] with [/EN#195237/other a satchel slung] on [/EN#195241/other his back] , walks on [/EN#195234/scene the tree-lined sidewalk] and is heading to [/EN#195235/scene the water] .
+[/EN#195231/people a man] wearing [/EN#195243/clothing sandal] , walking down [/EN#195234/scene a wood path] toward [/EN#195235/scene water] carrying [/EN#195239/other a towel] and [/EN#195236/clothing a beach bag] .
+[/EN#195231/people A man] walking down [/EN#195233/other a lane] to [/EN#195232/scene a beach] on [/EN#195238/scene a sunny day] .
+[/EN#195231/people A boy] in [/EN#195244/clothing shorts] walking down [/EN#195234/scene a pier] to [/EN#195232/scene a beach] .
+[/EN#195231/people A man] walking down [/EN#195233/other a pathway] ending at [/EN#195232/scene a lake] .

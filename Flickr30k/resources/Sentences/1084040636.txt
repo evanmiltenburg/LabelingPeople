@@ -1,0 +1,5 @@
+[/EN#2030/animals A white dog] is resting [/EN#2033/bodyparts its head] on [/EN#2030/scene a tiled floor] with [/EN#2034/bodyparts its eyes] open .
+[/EN#2030/animals A closeup of a white dog] [/EN#0/notvisual that] is laying [/EN#2033/bodyparts its head] on [/EN#2035/bodyparts its paws] .
+[/EN#2030/animals A white dog] rests [/EN#2033/bodyparts its head] on [/EN#2030/other the patio bricks] .
+[/EN#2030/animals A white dog] has [/EN#2033/bodyparts its head] on [/EN#0/notvisual the ground] .
+[/EN#2030/animals a large white dog] lying on [/EN#2030/scene the floor] .

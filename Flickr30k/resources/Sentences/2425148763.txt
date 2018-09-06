@@ -1,0 +1,5 @@
+[/EN#48488/people A woman] in [/EN#48490/clothing a red shirt] is speaking at [/EN#48489/other a table] in [/EN#48486/scene a room] where [/EN#48485/people three other people] are listening to [/EN#0/notvisual her] .
+[/EN#48488/people A woman] talks to [/EN#48497/people two other women] and [/EN#48491/people a man] with [/EN#48496/other notepads] in [/EN#48484/scene an office building] with [/EN#48494/other large windows] .
+[/EN#48485/people People] in [/EN#48492/other a meeting] setting paying [/EN#48493/other attention] to [/EN#48488/people a speaker] in [/EN#48490/clothing an orange shirt] .
+[/EN#48485/people A meeting of young people] sitting at [/EN#48489/other a conference table] .
+[/EN#48487/people A classroom of students] discussing [/EN#48495/other lecture] .

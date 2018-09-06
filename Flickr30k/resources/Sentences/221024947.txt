@@ -1,0 +1,5 @@
+[/EN#34374/people A group of men] , [/EN#34377/other some] with [/EN#34378/instruments musical instruments] , sit in [/EN#34376/other chairs] around [/EN#34375/scene the perimeter of a room] .
+[/EN#0/notvisual There] is [/EN#34374/people a group of musicians] sitting in [/EN#34376/other wooden chairs] [/EN#34377/other each] with [/EN#34379/instruments a different instrument] .
+[/EN#34374/people A group of six males] sitting near [/EN#0/notvisual each other] playing [/EN#34379/instruments instruments] in [/EN#34375/scene a room] .
+[/EN#34374/people Musicians] gather in [/EN#34375/scene a classroom] to play [/EN#34380/instruments guitar] and [/EN#34378/instruments other instruments] .
+[/EN#34374/people A group of men] playing [/EN#34378/instruments instruments] in [/EN#34375/scene a small room] .

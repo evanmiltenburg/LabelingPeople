@@ -1,0 +1,5 @@
+[/EN#139812/people A man] and [/EN#139816/people a woman] are walking past [/EN#139813/vehicles a car] with [/EN#139814/other a fancy symbol] on [/EN#139817/scene the front] .
+[/EN#139812/people A man] and [/EN#139816/people woman] walking next to [/EN#139813/vehicles a red car] with [/EN#139814/other an unusual hood ornament] .
+[/EN#139812/people A man] and [/EN#139816/people a woman] walk past [/EN#139813/vehicles a red car] with [/EN#139814/other a silver hood ornament]
+[/EN#139811/people A couple] walks past [/EN#139813/vehicles a car] in [/EN#139815/scene a parking lot] .
+[/EN#139811/people A couple] in [/EN#139815/scene a parking lot] .

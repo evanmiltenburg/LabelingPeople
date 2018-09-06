@@ -1,0 +1,5 @@
+[/EN#139835/people A crowd] standing in [/EN#139838/scene a room] with [/EN#139839/other their backs] to [/EN#0/notvisual the camera] .
+[/EN#139835/people A group of people] [/EN#139835/people all] gathered together for [/EN#139836/other a concert] .
+[/EN#139835/people A big group of people] are enjoying [/EN#139837/scene a public event] .
+[/EN#139835/people A large crowd] enjoying [/EN#139836/other a show] .
+[/EN#139835/people A crowd of people] at [/EN#139836/other a show] .

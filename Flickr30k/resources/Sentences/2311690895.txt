@@ -1,0 +1,5 @@
+[/EN#40828/animals A brown dog] looks up while [/EN#40829/bodyparts a person 's fingers] are in [/EN#40830/bodyparts its mouth] .
+[/EN#40831/people A person] has [/EN#40832/bodyparts his or her hands] in [/EN#40830/bodyparts a dog 's mouth] .
+[/EN#40828/animals A dog] is chewing on [/EN#40829/bodyparts someone 's finger] .
+[/EN#40831/people A person] touches [/EN#40833/bodyparts a dog 's tooth] .
+[/EN#40828/animals A dog] bites [/EN#40829/bodyparts someone 's finger] .

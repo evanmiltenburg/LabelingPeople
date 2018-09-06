@@ -1,0 +1,5 @@
+[/EN#3330/people A boy] in [/EN#3333/clothing a striped blue shirt] and [/EN#3337/clothing gray pants] , holding [/EN#3331/vehicles a blue scooter] , is looking across [/EN#3332/scene a river] .
+[/EN#3335/people Several people] walk along [/EN#3332/scene a waterway] including [/EN#3330/people a boy] with [/EN#3331/vehicles a scooter] .
+[/EN#3330/people A boy] wearing [/EN#3333/clothing a rugby shirt] standing next to [/EN#3332/scene a body of water] .
+[/EN#3330/people Boy] in [/EN#3333/clothing striped shirt] looks at [/EN#3332/scene peaceful lake] .
+[/EN#3330/people A boy] strolls by [/EN#3332/scene a pond] in [/EN#3336/scene a park] .

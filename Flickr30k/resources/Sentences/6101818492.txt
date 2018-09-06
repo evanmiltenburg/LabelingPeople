@@ -1,0 +1,5 @@
+[/EN#248027/people A mother] and [/EN#248029/people her two children] sitting on [/EN#248028/other a couch] [/EN#0/notvisual that] is in [/EN#248030/scene the grass] on [/EN#248033/scene the side of a road] .
+[/EN#248027/people A woman] in [/EN#248034/clothing shorts] and [/EN#248035/clothing sneakers] , sitting outside on [/EN#248028/other a couch] with [/EN#248029/people two young children] .
+[/EN#248027/people A mother] and [/EN#248029/people two young children] sit on [/EN#248028/other a couch] [/EN#0/notvisual that] is outside on [/EN#248031/other the curb] .
+[/EN#248027/people A woman] and [/EN#248029/people two children] sit on [/EN#248028/scene a sofa outside] .
+[/EN#248027/people woman] sitting on [/EN#248028/other couch] with [/EN#248029/people kids] in [/EN#248030/scene yard]

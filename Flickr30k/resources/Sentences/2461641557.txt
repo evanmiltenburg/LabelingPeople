@@ -1,0 +1,5 @@
+[/EN#51277/people A painter] sits on [/EN#51280/other a dangerous wooden ledge] while painting [/EN#51282/other a third story window] .
+[/EN#51277/people A painter] is painting [/EN#51281/other a white window] outside [/EN#51278/scene a brick building] .
+[/EN#51277/people A man] working on [/EN#51278/scene a building] [/EN#51282/other three stories] up .
+[/EN#51283/other A sign] on [/EN#51278/scene a store] in and [/EN#51284/scene urban neighborhood] .
+[/EN#51277/people A man] sitting on [/EN#51279/other a windowsill] .

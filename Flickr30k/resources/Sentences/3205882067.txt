@@ -1,0 +1,5 @@
+[/EN#100994/people A child] , in [/EN#100995/clothing a red shirt] and [/EN#100996/clothing blue pants] , holds [/EN#100997/other a piece of paper] up with [/EN#101002/other the word Radeo] on [/EN#0/notvisual it] next to [/EN#0/notvisual what] appears to be [/EN#100998/other a Radio] [/EN#0/notvisual he] built .
+[/EN#100994/people A child] with [/EN#100999/bodyparts shaggy , straight , sandy-blonde hair] holds up [/EN#100997/other a misspelled sign] reading " [/EN#101004/other Radeo] " next to [/EN#101000/animals a radio-making kit] .
+[/EN#100994/people A young boy] holds up [/EN#100997/other a sign] displaying [/EN#100998/other his " radeo "] , [/EN#0/notvisual which] [/EN#0/notvisual he] built out of [/EN#100998/other toys] .
+[/EN#100994/people A young boy] is holding [/EN#100997/other a paper] , [/EN#0/notvisual which] says " [/EN#101002/other Radeo] " , above [/EN#100998/other his homemade radio] .
+[/EN#100994/people Young child] with [/EN#100995/clothing red shirt] on [/EN#101001/scene the floor] with [/EN#100998/other a toy] .

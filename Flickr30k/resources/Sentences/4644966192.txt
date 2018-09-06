@@ -1,0 +1,5 @@
+[/EN#186094/people A man] in [/EN#186095/clothing a hat] and [/EN#186098/clothing shorts] is raising [/EN#186096/other an axe] above [/EN#186101/bodyparts his head] and standing near [/EN#186097/other a wooden structure] .
+[/EN#186094/people A man] in [/EN#186095/clothing a hat] wields [/EN#186096/other an axe] with [/EN#186099/other the sun] in [/EN#0/notvisual the distance] .
+[/EN#186094/people A man] in [/EN#186095/clothing a brown hat] is swinging [/EN#186096/other an axe] .
+[/EN#186094/people Man] using [/EN#186096/other ax] to take down [/EN#186097/other a structure] .
+[/EN#186094/people A man] uses [/EN#186096/other an axe] to do [/EN#186100/other yard work] .

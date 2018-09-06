@@ -1,0 +1,5 @@
+[/EN#225519/people A lady] in [/EN#225520/clothing a pink coat] walking with [/EN#225521/clothing a small pink umbrella] in [/EN#225523/bodyparts her hand] .
+[/EN#225519/people A woman] in [/EN#225520/clothing a red coat] is taking [/EN#225524/other a walk] outside with [/EN#225521/clothing a small umbrella] .
+[/EN#225519/people A woman] in [/EN#225522/clothing pink] with [/EN#225521/clothing an umbrella] walking across [/EN#225525/scene a bridge] .
+[/EN#225519/people A lady] with [/EN#225520/clothing a hot pink jacket] walking with [/EN#225521/clothing an umbrella] .
+[/EN#225519/people A lady] in [/EN#225520/clothing a pink coat] is walking with [/EN#225521/clothing an umbrella] .

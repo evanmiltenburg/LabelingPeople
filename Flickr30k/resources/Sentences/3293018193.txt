@@ -1,0 +1,5 @@
+[/EN#107410/people A man] is playing [/EN#107412/instruments a guitar] next to [/EN#107413/people another man] [/EN#0/notvisual who] is sitting behind [/EN#107418/vehicles a green cart] wearing [/EN#107414/clothing a mask] .
+On [/EN#107415/scene the street] [/EN#107413/people a man] sits and plays [/EN#107416/instruments the drums] while [/EN#107410/people a man] standing beside [/EN#0/notvisual him] plays [/EN#107412/instruments the guitar] .
+[/EN#107410/people A man] plays [/EN#107412/instruments a guitar] while [/EN#107413/people another man] sits next to [/EN#0/notvisual him] wearing [/EN#107414/clothing a mask] .
+[/EN#107411/people Two guys] are on [/EN#107415/scene the side of the street] playing [/EN#107412/instruments a guitar] and [/EN#107416/instruments drums] .
+[/EN#107411/people Two men] next to [/EN#107417/scene a building] playing [/EN#107412/instruments a guitar] and [/EN#107416/instruments drums] .

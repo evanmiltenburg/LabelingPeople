@@ -1,0 +1,5 @@
+[/EN#153023/people A smiling man] in [/EN#153027/clothing a blue jacket] and [/EN#153030/clothing black vest] stands in front of [/EN#153028/other a crowd of marchers] near [/EN#153029/scene a red tent] with [/EN#153032/other green trees] in [/EN#0/notvisual the background] .
+[/EN#153023/people A military man] walks in front of [/EN#153022/people a procession of people] during [/EN#153021/people a parade] .
+[/EN#153023/people A man] wearing [/EN#153026/clothing a beret] walks down [/EN#153024/scene the street] and smiles .
+[/EN#153022/people A group of people] are walking down [/EN#153024/scene a busy street] .
+[/EN#153025/people Some policemen] escort demonstrating [/EN#153031/people citizens] .

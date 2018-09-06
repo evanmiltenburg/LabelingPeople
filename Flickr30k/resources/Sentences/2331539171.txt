@@ -1,0 +1,5 @@
+[/EN#42099/people Two men] wearing are standing over [/EN#42100/scene a sewer access point] while wearing [/EN#42101/clothing safety hat] , [/EN#42102/other ear protection] and [/EN#42103/clothing vests] .
+[/EN#0/notvisual There] are [/EN#42099/people two men] in [/EN#42103/clothing yellow vests] working in [/EN#42104/clothing a large green] filed .
+[/EN#42099/people Two working men] in [/EN#42103/clothing neon vests] tackle [/EN#42107/other a problem] .
+[/EN#42099/people Two men] are wearing [/EN#42101/clothing hard hats] and [/EN#42103/clothing safety vests] .
+[/EN#42099/people Two city workers] working on [/EN#42105/scene something outside] .

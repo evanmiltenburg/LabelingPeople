@@ -1,0 +1,5 @@
+[/EN#48307/people A little girl] in [/EN#48310/clothing a red and white shirt] is playing with [/EN#48308/other a inflatable ball] .
+[/EN#48307/people A child] running outside with [/EN#48308/other a bright colored ball] next to [/EN#0/notvisual her] .
+[/EN#48307/people A little girl] , running in [/EN#48309/scene the grass] , kicking [/EN#48308/other a beach ball] .
+[/EN#48307/people A little girl] is running by [/EN#48308/other a colorful ball] on [/EN#48309/scene the grass] .
+[/EN#48307/people The girl] is running on [/EN#48309/scene the grass] next to [/EN#48308/other a colorful toy] .

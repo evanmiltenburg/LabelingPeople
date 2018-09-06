@@ -1,0 +1,5 @@
+[/EN#52287/people A woman] holding [/EN#52288/other a ball] chases [/EN#52289/people a small boy] running in [/EN#52290/scene the grass] .
+[/EN#52287/people A woman] with [/EN#52288/other a softball] runs after [/EN#52289/people a child] in [/EN#52290/scene a grassy lawn] .
+[/EN#52287/people A woman] carrying [/EN#52288/other a white ball] is running behind [/EN#52289/people a small boy] .
+[/EN#52287/people a woman] holding [/EN#52288/other a small ball] chasing after [/EN#52289/people a small boy] .
+[/EN#52287/people A woman] is running after [/EN#52289/people a boy] on [/EN#52290/scene the grass] .

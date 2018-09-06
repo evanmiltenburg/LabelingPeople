@@ -1,0 +1,5 @@
+[/EN#65594/animals A dog] in [/EN#65595/scene a swimming pool] swims toward [/EN#65596/other sombody] [/EN#65598/other we] cannot see .
+[/EN#65594/animals a brown and white dog] swimming towards [/EN#65596/other some] in [/EN#65595/scene the pool]
+[/EN#65594/animals Small dog] is paddling through [/EN#65597/scene the water] in [/EN#65595/scene a pool] .
+[/EN#65594/animals The small brown and white dog] is in [/EN#65595/scene the pool] .
+[/EN#65594/animals A dog] swims in [/EN#65595/scene a pool] near [/EN#65599/people a person] .

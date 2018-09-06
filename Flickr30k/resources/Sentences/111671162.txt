@@ -1,0 +1,5 @@
+[/EN#2984/people People] are eating in [/EN#2990/scene a cafeteria] with [/EN#2985/other a wood beam] and [/EN#2985/other glass] ceiling .
+[/EN#2984/people People] sitting in [/EN#2990/scene a restaurant] eating and [/EN#2986/other one] is reading [/EN#2987/other the paper] .
+[/EN#2990/scene A restaurant] filled with [/EN#2988/other chairs] and [/EN#2984/people consumers] .
+[/EN#2984/people People] sitting and eating inside [/EN#2989/people/scene a diner] .
+[/EN#2984/people Lots of people] eating in [/EN#2990/scene a restaurant] .

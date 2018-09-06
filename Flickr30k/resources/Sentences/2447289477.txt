@@ -1,0 +1,5 @@
+[/EN#50353/people The woman] in [/EN#50355/clothing the blue shirt] sits on [/EN#50354/other a bench] in [/EN#50356/scene a museum] as [/EN#50360/other others] pass [/EN#50359/other her by] .
+[/EN#50353/people The lady] in [/EN#50355/clothing the aqua shirt] and [/EN#50357/clothing blue jeans] is sitting on [/EN#50354/other a white bench] .
+[/EN#50353/people A woman] in [/EN#50357/clothing jeans] rests on [/EN#50354/other a bench] in [/EN#50356/scene a gallery or shop] setting .
+[/EN#50353/people Woman] sitting alone with [/EN#50358/other drink] on [/EN#50354/other a bench] as [/EN#50361/people people] walk by .
+[/EN#50353/people A woman] wearing [/EN#50355/clothing a blue shirt] sits on [/EN#50354/other a white bench] .

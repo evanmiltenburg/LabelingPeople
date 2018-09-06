@@ -1,0 +1,5 @@
+[/EN#205863/people Three men] sit on [/EN#205865/other a ledge] in front of [/EN#205866/other a wall] , [/EN#0/notvisual one of them] is smoking [/EN#205864/other a cigarette] .
+[/EN#205863/people Three men] are sitting on [/EN#205865/other a stone ledge] , and [/EN#205867/other one] has [/EN#205864/other a cigarette] in [/EN#205868/bodyparts his mouth] .
+[/EN#205863/people Three men] are sitting together on [/EN#205866/other a small wall] as [/EN#205867/other one] smokes [/EN#205864/other a cigarette] .
+[/EN#205863/people Three men] sit next to [/EN#205866/other a wall] , as [/EN#0/notvisual they] look to [/EN#205869/scene their right] .
+[/EN#205863/people 3 men] sitting on [/EN#205865/other a stone ledge] .

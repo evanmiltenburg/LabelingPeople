@@ -1,0 +1,5 @@
+[/EN#100314/people A man] standing by [/EN#100315/vehicles/scene a boat] at [/EN#100317/scene a dock] surrounded by [/EN#100321/scene rocky terrain] and [/EN#100319/scene water] and [/EN#100323/vehicles/scene two other boats] .
+[/EN#100314/people A man] in [/EN#100324/clothing jeans] and [/EN#100325/clothing black boots] tends to [/EN#100318/vehicles/scene a small boat] up on [/EN#100320/scene blocks] on [/EN#100322/other the ramp of a marina] .
+[/EN#100314/people A man] by [/EN#100315/vehicles/scene a white , yellow and red boat] on [/EN#100316/scene a boat ramp] near [/EN#100319/scene the water] .
+[/EN#100314/people Man] cleaning [/EN#100318/vehicles/scene boat] , at [/EN#100316/scene boat dock] .
+[/EN#100314/people An old man] is cleaning [/EN#100315/vehicles/scene his boat] .

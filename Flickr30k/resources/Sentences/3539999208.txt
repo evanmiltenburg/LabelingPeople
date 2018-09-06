@@ -1,0 +1,5 @@
+[/EN#126033/people A boy] in [/EN#126037/clothing a white shirt] and [/EN#126040/clothing yellow shorts] walks in [/EN#126034/scene a crosswalk] at [/EN#126039/scene night] .
+[/EN#126033/people A young boy] crosses [/EN#126036/scene the road] on [/EN#126034/scene a crosswalk] in [/EN#126035/scene the city] .
+[/EN#126033/people Boy] in [/EN#126037/clothing a white shirt] runs across [/EN#126036/scene the street] .
+[/EN#126033/people A little boy] is running across [/EN#126034/scene a crosswalk] .
+[/EN#126033/people Boy] running across [/EN#126036/scene street] at [/EN#126041/other nighttime] .

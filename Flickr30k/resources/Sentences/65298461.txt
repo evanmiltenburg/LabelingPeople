@@ -1,0 +1,5 @@
+[/EN#255293/people An older man] sitting on [/EN#255298/other a blue stool] playing [/EN#255295/other a sitar] for [/EN#255297/other money] , with [/EN#255294/people a young boy] sitting on [/EN#255300/scene a white sack] next to [/EN#0/notvisual him] .
+[/EN#255293/people An old gentleman] plays [/EN#255303/other music] on [/EN#255296/scene the street] for [/EN#255302/other money] with [/EN#255294/people a young boy] by [/EN#0/notvisual his side] .
+[/EN#255293/people A man] and [/EN#255294/people a boy] playing [/EN#255295/instruments an instrument] for [/EN#255297/other spare change] on [/EN#255296/scene a sidewalk] .
+[/EN#255293/people A man] playing [/EN#255295/instruments an instrument] seated next to [/EN#255294/people a boy] on [/EN#255296/scene the street] .
+[/EN#255293/people A man] playing [/EN#255295/instruments a musical instrument] beside [/EN#255294/people a boy] on [/EN#255296/scene a street] .

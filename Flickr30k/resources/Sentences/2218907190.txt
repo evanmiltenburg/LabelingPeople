@@ -1,0 +1,5 @@
+[/EN#34901/animals A small dog] going up [/EN#34904/other concrete stairs] near [/EN#34902/other many plants] .
+[/EN#34901/animals A dog] begins to climb [/EN#34903/scene a brick staircase] near [/EN#34902/other plants] .
+[/EN#34901/animals A dog] climbing [/EN#34904/other stone stairs] surrounded by [/EN#34902/other plants] .
+[/EN#34901/animals A dog] runs up [/EN#34904/other some outdoor steps] .
+[/EN#34901/animals A dog] climbs [/EN#34904/other steps] near [/EN#34902/other plants] .

@@ -1,0 +1,5 @@
+[/EN#169362/people A man] in [/EN#169367/clothing a yellow helmet] climbs [/EN#169364/bodyparts a cliff face] , [/EN#169363/scene snow] behind [/EN#0/notvisual him] .
+[/EN#169362/people A man] leans back while climbing [/EN#169364/scene a mountain] tethered to [/EN#169366/other a rope] .
+[/EN#169362/people Man] with [/EN#169367/clothing helmet] rock climbing in [/EN#169363/scene a snowy area] .
+[/EN#169362/people A man] is climbing up [/EN#169364/other a wall] with [/EN#169366/other a rope]
+[/EN#0/notvisual He] is rock climbing .

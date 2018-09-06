@@ -1,0 +1,5 @@
+[/EN#200296/people A large group of people] standing beside [/EN#200298/other a fire engine] looking across [/EN#200300/scene the street] while [/EN#200297/people two police officers] look on .
+[/EN#200296/people People] wait patiently in [/EN#200296/people the crowd] by [/EN#200298/other the firetruck] as [/EN#0/notvisual they] are directed by [/EN#200299/people the fireman] .
+[/EN#200297/people Two police officers] stand in front of [/EN#200296/people a crowd] next to [/EN#200298/other a firetruck] .
+[/EN#200296/people A crowd of ordinary people] is in front of [/EN#200298/other a firetruck] .
+[/EN#200296/people The crowd] is looking at [/EN#200298/other the firetruck] .

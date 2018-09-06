@@ -1,0 +1,5 @@
+[/EN#263338/people A man] wearing [/EN#263343/clothing a gray shirt] and [/EN#263344/clothing jeans] tries to mold [/EN#263339/other some pottery] in [/EN#263340/scene a room] with [/EN#263340/scene wooden floors] .
+[/EN#263338/people The man] is trying to make [/EN#263339/other a pottery] that [/EN#0/notvisual he] can market soon .
+[/EN#263338/people A man] is working on [/EN#263341/other a spinning table] in [/EN#263340/scene a workshop] .
+[/EN#263338/people A man] is using [/EN#263341/other a wheel] to create [/EN#263339/other pottery] .
+[/EN#263338/people This man] is spinning [/EN#263339/other pottery] .

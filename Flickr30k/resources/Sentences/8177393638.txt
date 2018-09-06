@@ -1,0 +1,5 @@
+[/EN#280046/people A young man] with [/EN#280054/bodyparts brown hair] wearing [/EN#280050/clothing shorts] and [/EN#280048/clothing t-shirt] walking down [/EN#280049/scene a street] while holding [/EN#280047/clothing a backpack] .
+[/EN#280046/people A man] with [/EN#280048/clothing a red shirt] and [/EN#280050/clothing a gray] pants with [/EN#280047/clothing a black bag] and [/EN#280052/clothing gray sneakers] standing on [/EN#280049/scene the street] .
+[/EN#280046/people Male] standing in [/EN#280049/other the roadway] , [/EN#0/notvisual he] is wearing [/EN#280048/clothing a light colored shirt] and holding [/EN#280047/clothing a backpack] .
+[/EN#280046/people A young male] is standing in [/EN#280049/scene a street] holding [/EN#280047/clothing a backpack] .
+[/EN#280046/people A man] in [/EN#280048/clothing a red shirt] holding [/EN#280047/clothing a backpack] .

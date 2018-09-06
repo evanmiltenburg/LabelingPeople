@@ -1,0 +1,5 @@
+[/EN#18195/animals A brown dog] walks in [/EN#18196/scene the grass] with [/EN#18197/bodyparts its tongue] hanging out .
+[/EN#18195/animals A gray dog] walks in [/EN#18196/scene the green grass] , [/EN#18197/bodyparts tongue] hanging out .
+[/EN#18195/animals A brown dog] is panting hard on [/EN#18196/scene grass] during [/EN#18198/scene a sunny day] .
+[/EN#18195/animals a tan dog] jogging with [/EN#18197/bodyparts his tongue] hanging out
+[/EN#18195/animals A dog] running with [/EN#18197/bodyparts tongue] hanging out .

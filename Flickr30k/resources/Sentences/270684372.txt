@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#67623/people a person] in [/EN#67624/clothing zebra striped pants] and [/EN#67622/people another person] in [/EN#67620/clothing a giraffe print pair of pants] both lying down .
+[/EN#67618/people Two people] with [/EN#67620/clothing animal print pants] laying on [/EN#67619/other a bed] next to [/EN#0/notvisual each other] .
+[/EN#67618/people Two men] in [/EN#67621/clothing animal print pajama bottoms] sleep on [/EN#67619/other a bed] .
+[/EN#67618/people Two men] in [/EN#67621/clothing animal print pants] sleep on [/EN#67619/other a white bed] .
+[/EN#67618/people Two people] in [/EN#67621/clothing strange outfits] sleep on [/EN#67619/other a bed] .

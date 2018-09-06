@@ -1,0 +1,5 @@
+[/EN#186649/people A balding man] in [/EN#186656/clothing a pink shirt] [/EN#0/notvisual who] is holding [/EN#186651/other a basket] is waiting in [/EN#186652/other a line] , outside of [/EN#186646/other an establishment] .
+[/EN#186645/people A group of people] standing outside [/EN#186646/scene a building] in [/EN#186655/other the daytime] .
+[/EN#186645/people a lot of people] standing around [/EN#186648/scene a street] next to [/EN#186647/other a sign]
+[/EN#186650/people Two men] holding [/EN#186647/other a sign] on [/EN#186654/scene posts] in front of [/EN#186646/scene building] .
+[/EN#186645/people Some people] are standing in [/EN#186648/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#45296/people An asian man] walking past [/EN#45299/other a red painted brick wall] with [/EN#45297/scene a doorway] with [/EN#45303/other the words] Keep [/EN#45304/scene Clear] printed on [/EN#0/notvisual it] .
+[/EN#45296/people A man] with [/EN#45308/bodyparts black hair] and [/EN#45305/clothing a jacket] walking by [/EN#45299/other a brick wall] with [/EN#45297/other a gray keep clear door] in [/EN#45307/scene the middle] .
+[/EN#45296/people A man] in [/EN#45306/clothing blue jeans] walks by [/EN#45299/other a brick wall] and [/EN#45297/scene a gate] painted with [/EN#45303/other the sign] " [/EN#45298/other KEEP CLEAR 24 HOURS] " .
+[/EN#45296/people A man] strides past [/EN#45297/other a metal door] in [/EN#45299/scene a multicolored brick building] .
+[/EN#45296/people A man] walks past [/EN#45299/scene a building] with [/EN#45297/other a door] [/EN#0/notvisual that] says Keep Clear .

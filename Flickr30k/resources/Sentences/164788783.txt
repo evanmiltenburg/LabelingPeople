@@ -1,0 +1,5 @@
+[/EN#18079/people A man] and [/EN#18081/people a blond woman] in [/EN#18086/clothing a black dress] are sitting close to [/EN#0/notvisual each other] at [/EN#18082/other a table] at [/EN#18080/scene a bar] .
+[/EN#18079/people A man] and [/EN#18081/people a woman] having [/EN#18084/other drinks] and [/EN#0/notvisual fun] in [/EN#18080/scene a local nightclub] in [/EN#18085/other the city of Angeles] .
+[/EN#18079/people A man] and [/EN#18081/people a blond woman] whisper to [/EN#0/notvisual each other] in [/EN#18080/scene a bar] .
+[/EN#18083/people Two people] sitting at [/EN#18082/other a table] talking .
+[/EN#18079/people A man] and [/EN#18081/people a woman] talking in [/EN#18080/scene a bar] .

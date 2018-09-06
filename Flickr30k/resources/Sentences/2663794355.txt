@@ -1,0 +1,5 @@
+[/EN#64802/people Two women] are laying on [/EN#64803/other a concrete structure] beside [/EN#64804/scene the ocean] .
+[/EN#64802/people Two women] sunbathe on [/EN#64803/other a concrete terrace] .
+[/EN#0/notvisual There] are [/EN#64802/people two women] tanning in [/EN#64806/clothing bikinis] .
+[/EN#64802/people Two people] sunbathe beside [/EN#64804/scene water] .
+[/EN#64802/people Two women] sunbathe by [/EN#64804/scene the water] .

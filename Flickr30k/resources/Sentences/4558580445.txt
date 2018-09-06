@@ -1,0 +1,5 @@
+[/EN#178406/animals A line of saddled horses] walks down [/EN#178408/scene the street] past [/EN#178407/vehicles a car] [/EN#0/notvisual that] has [/EN#178409/other its hood] and [/EN#178410/scene trunk open] .
+[/EN#178406/animals A line of horses] walks on [/EN#178408/scene a road] as [/EN#178407/vehicles a car] sits to [/EN#0/notvisual the side] with [/EN#178409/other the hood] and [/EN#178410/scene trunk open] .
+[/EN#178406/animals A line of horses] is walking down [/EN#178408/scene a road] past [/EN#178407/vehicles a broken-down car] .
+[/EN#178412/people People] riding [/EN#178406/animals horses] down [/EN#178408/scene the street] .
+[/EN#178406/animals The horses] are in [/EN#178411/other a straight line] .

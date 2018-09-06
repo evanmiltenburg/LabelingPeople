@@ -1,0 +1,5 @@
+[/EN#16190/people A young blond-haired boy] wearing [/EN#16194/clothing a striped shirt] attempting to lift [/EN#16191/other a large pumpkin] from [/EN#16192/scene the pumpkin patch] .
+[/EN#16190/people A young boy] tries picking up [/EN#16191/other a pumpkin] by [/EN#16193/other its stem] in [/EN#16192/scene a pumpkin patch] .
+[/EN#16190/people A young boy] tried to lift [/EN#16191/other a heavy pumpkin] in [/EN#16192/scene a pumpkin field] .
+[/EN#16190/people A young boy] is struggling to pick up [/EN#16191/other a large pumpkin] .
+[/EN#16190/people A boy] picking [/EN#16191/other a pumpkin] at [/EN#16192/scene a pumpkin patch] .

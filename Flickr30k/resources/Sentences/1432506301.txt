@@ -1,0 +1,5 @@
+[/EN#12722/animals A classic blue Volkswagen Beetle] lines up next to [/EN#12721/vehicles a modern red Volkswagen] for [/EN#12723/other a drag race] .
+[/EN#12725/people Five spectators] are watching [/EN#12719/vehicles two cars] racing at [/EN#12720/other a racetrack] .
+[/EN#12719/vehicles Two older looking cars] are on [/EN#12720/other a drag race strip] .
+[/EN#12722/vehicles A blue car] and [/EN#12721/vehicles a red car] are racing on [/EN#12726/scene a track] .
+[/EN#12719/vehicles Two cars] racing on [/EN#12720/other a drag strip] .

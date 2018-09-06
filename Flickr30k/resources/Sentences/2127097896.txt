@@ -1,0 +1,5 @@
+[/EN#30200/people A group of people] in [/EN#30203/scene a yellow and white tent] watch [/EN#30201/people a man] in [/EN#30205/clothing black clothes] play [/EN#30202/instruments the guitar] .
+[/EN#30201/people A man] plays [/EN#30202/instruments an acoustic guitar] for [/EN#30204/people an audience] inside [/EN#30203/scene a large yellow and white tent] .
+[/EN#30200/people People] under [/EN#30203/scene a tent] listening to [/EN#30201/people a man] with [/EN#30206/bodyparts beard] playing [/EN#30202/instruments a brown guitar] .
+[/EN#30201/people A man] is playing [/EN#30202/instruments a guitar] in [/EN#30203/scene a large tent] with [/EN#30204/people an audience] watching .
+[/EN#30201/people A man] with [/EN#30202/instruments a guitar] is playing under [/EN#30200/people a tent full of people] .

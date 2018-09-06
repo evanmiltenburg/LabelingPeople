@@ -1,0 +1,5 @@
+[/EN#138709/animals The black dog] is wearing [/EN#138714/clothing a red collar] and is jumping into [/EN#138712/scene the water] after [/EN#138710/other a Frisbee] .
+[/EN#138709/animals A black dog] jumps into [/EN#138712/scene the water] to get [/EN#138710/other a Frisbee] while [/EN#138711/vehicles/scene a boat] sits in [/EN#138713/other the back] .
+[/EN#138709/animals The black dog] jumps above [/EN#138712/scene the water] towards [/EN#138710/other a Frisbee] floating near [/EN#138711/vehicles/scene a boat] .
+[/EN#138709/animals a black dog] jumping into [/EN#138712/scene some water] to catch [/EN#138710/other a red and blue Frisbee]
+[/EN#138709/animals A dog] is jumping into [/EN#138712/scene the water]

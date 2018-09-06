@@ -1,0 +1,5 @@
+[/EN#13987/people A man] in [/EN#13988/clothing an orange button-down shirt] and [/EN#13989/clothing a white cowboy hat] looks to [/EN#13996/scene his left] .
+[/EN#13987/people A man] in [/EN#13989/clothing a cowboy hat] walking with to [/EN#13990/people other men] in [/EN#13991/clothing cowboy hats] behind [/EN#0/notvisual him] .
+[/EN#13995/scene A busy street] filled with [/EN#13992/people men] wearing [/EN#13993/clothing cowboy hats]
+[/EN#13992/people Two men] wearing [/EN#13993/clothing white cowboy hats] .
+[/EN#13994/people Multiple men] wearing [/EN#13993/clothing cowboy hats] .

@@ -1,0 +1,5 @@
+[/EN#57290/people A man] with [/EN#57297/clothing a black shirt] , [/EN#57305/clothing shorts] and [/EN#57296/clothing a black messenger bag] , is listening to [/EN#57294/people a man] , sitting with [/EN#57301/clothing black pants] and [/EN#57300/clothing a white t-shirt] , playing [/EN#57293/instruments the guitar] .
+[/EN#57290/people An man] wearing [/EN#57302/clothing headphones] observes [/EN#57294/people an older man] performing [/EN#57293/instruments his guitar] on [/EN#57292/other a public street bench] .
+[/EN#57290/people A man] standing listening to [/EN#57304/other music] while watching [/EN#57291/people a man] picking [/EN#57293/instruments a guitar] while at [/EN#57306/scene the park] .
+[/EN#57291/people Guy] playing [/EN#57293/instruments the guitar] on [/EN#57292/other a bench] with [/EN#57294/people another man] watching [/EN#0/notvisual him] .
+[/EN#57290/people A man] is playing [/EN#57293/instruments guitar] for [/EN#57303/other money] .

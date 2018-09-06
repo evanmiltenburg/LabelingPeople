@@ -1,0 +1,5 @@
+[/EN#143485/people A man] stands in front of [/EN#143486/scene a street vending booth] with [/EN#143488/bodyparts his hands] crossed awkwardly in front of [/EN#0/notvisual him] while [/EN#143495/vehicles two yellow taxis] are seen in [/EN#143492/other the background of the cityscape] .
+[/EN#143485/people A street vendor] [/EN#0/notvisual that] sells [/EN#143493/clothing ties] and [/EN#143490/clothing sunglasses] is standing with [/EN#143488/bodyparts his hands] together looking at [/EN#0/notvisual the camera] .
+[/EN#143485/other A main] in [/EN#143487/clothing a white shirt] and [/EN#143491/clothing tan pants] stands in front of [/EN#143486/scene a stand] [/EN#0/notvisual that] sells [/EN#143494/other various goods] .
+[/EN#143485/people A man] is standing in front of [/EN#143486/scene a street stand] with [/EN#143488/bodyparts folded hands] .
+[/EN#143485/people A man] with [/EN#143487/clothing a white shirt] standing next to [/EN#143486/scene a vending stall] .

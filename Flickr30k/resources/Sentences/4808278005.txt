@@ -1,0 +1,5 @@
+[/EN#205069/people A bunch of people] walking inside [/EN#205071/scene a shopping center] .
+[/EN#205070/other Busy Asian mall] with [/EN#205072/other paper lanterns] and [/EN#205073/people shoppers] .
+[/EN#205069/people People] are walking through [/EN#205071/scene a shopping center] .
+[/EN#205069/people People] walking through [/EN#205070/other the mall] .
+[/EN#205069/people People] walking around in [/EN#205070/other a mall] .

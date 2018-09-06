@@ -1,0 +1,5 @@
+[/EN#45289/people a man] with [/EN#45291/clothing a cap] and not wearing [/EN#45293/clothing shirt] is laying [/EN#45290/other a wooden bench] .
+[/EN#45289/people A shirtless man] wearing [/EN#45291/clothing a hat] is sleeping on [/EN#45290/other a painted bench] .
+[/EN#45289/people Shirtless man] sleeping on [/EN#45290/other bench] [/EN#0/notvisual that] has [/EN#45294/other words Matulog] .
+[/EN#45289/people A boy] wearing [/EN#45291/clothing a hat] and [/EN#45292/clothing shorts] is sleeping on [/EN#45290/other a bench] .
+[/EN#45289/people A dark-skinned boy] in [/EN#45292/clothing shorts] and [/EN#45291/clothing a hat] is sleeping .

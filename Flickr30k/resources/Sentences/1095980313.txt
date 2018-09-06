@@ -1,0 +1,5 @@
+[/EN#2362/people A little girl] in [/EN#2364/clothing a blue swimsuit] is walking along [/EN#2366/scene a wooden fence] next to [/EN#2363/scene a sandy beach] .
+[/EN#2362/people Little girl] in [/EN#2364/clothing blue swimsuit] standing on [/EN#2365/other a handrail] near [/EN#2363/scene a beach] .
+[/EN#2362/people The little girl] in [/EN#2364/clothing the blue bathing suit] is posing at [/EN#2363/scene the beach] .
+[/EN#2362/people A little girl] with [/EN#2367/bodyparts arms] outstretched is posing at [/EN#2363/scene the beach] .
+[/EN#2362/people A young girl] walks on [/EN#2365/other a railing] in front of [/EN#2363/scene the beach] .

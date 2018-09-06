@@ -1,0 +1,5 @@
+[/EN#280875/people Female] wearing [/EN#280879/clothing black shorts] standing on [/EN#280878/scene street sidewalk] awaiting changing of [/EN#280882/other light] so that [/EN#0/notvisual she] can cross in [/EN#280876/scene the walkway] .
+[/EN#280875/people A woman] wearing [/EN#280879/clothing black shorts] and [/EN#280881/clothing a sweater] stands on [/EN#280878/scene the sidewalk] beside [/EN#280876/scene a paved road] .
+[/EN#280875/people A brunette woman] is standing on [/EN#280878/scene the sidewalk] looking down [/EN#280876/scene the road] .
+[/EN#280875/people A woman] stops and waits for [/EN#280885/vehicles a car] to pass before crossing [/EN#280876/scene the street]
+[/EN#280875/people Woman] waiting at [/EN#280877/scene crossing] and looking at [/EN#280883/other something] to [/EN#280884/scene the left] .

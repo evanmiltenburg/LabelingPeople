@@ -1,0 +1,5 @@
+[/EN#27631/people A person] in [/EN#27634/clothing a blue jacket] , wearing [/EN#27632/clothing a bicycle helmet] is riding [/EN#27633/vehicles a bike]
+[/EN#27631/people A woman] with [/EN#27634/clothing a blue jacket] wears [/EN#27632/clothing a helmet] as [/EN#0/notvisual she] rides [/EN#27633/vehicles a bike] .
+[/EN#27631/people A woman] with [/EN#27632/clothing a helmet] riding [/EN#27633/vehicles a bike] .
+[/EN#27631/people A woman] is riding [/EN#27633/vehicles her bicycle] .
+[/EN#27631/people A woman] riding [/EN#27633/vehicles a bike] in [/EN#27635/scene a park]

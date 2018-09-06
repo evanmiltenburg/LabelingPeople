@@ -1,0 +1,5 @@
+[/EN#156685/people A group of three students] is shown sitting in [/EN#156694/scene some sort of lecture hall] and [/EN#0/notvisual they] [/EN#156685/people all] see bored .
+[/EN#156685/people Three women] in [/EN#156694/scene a lecture hall] watch [/EN#156693/other a presentation] while [/EN#156686/other one women dozes] .
+[/EN#156686/people A tired woman] rests [/EN#156688/bodyparts her head] on [/EN#156689/bodyparts her friend 's shoulder] in [/EN#156694/scene an auditorium] .
+[/EN#156686/people A woman] is resting [/EN#156688/bodyparts her head] on [/EN#156689/bodyparts another woman 's shoulder] .
+[/EN#156686/people A woman] in [/EN#156686/clothing a tan coat] is sleeping on [/EN#156691/people a man] with [/EN#156692/clothing glasses] .

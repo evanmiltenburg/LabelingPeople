@@ -1,0 +1,5 @@
+[/EN#88790/animals A brown and black dog] runs on [/EN#88791/scene the grass outdoors] in front of [/EN#88792/scene a sidewalk] .
+[/EN#88790/animals A black and tan dog] leaps over [/EN#88791/scene the green grass] .
+[/EN#88790/animals/people A German shepherd] jumps left on [/EN#88791/scene patchy grass] .
+[/EN#88790/animals A big black and brown dog] plays outdoors .
+[/EN#88790/animals A dog] runs .

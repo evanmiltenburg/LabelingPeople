@@ -1,0 +1,5 @@
+[/EN#153736/people A man] in [/EN#153744/clothing snow clothes] and [/EN#153740/clothing a red helmet] is on top of [/EN#153738/scene a mountain] with [/EN#153739/scene other mountains] in [/EN#0/notvisual the background] .
+[/EN#153736/people a man] wearing [/EN#153737/clothing a huge backpack] and [/EN#153743/clothing blue jacket] with [/EN#153739/scene many distant mountains] in [/EN#0/notvisual the background]
+[/EN#153736/people A hiker] on [/EN#153738/scene a snow-covered mountain] overlooking [/EN#153742/scene a valley] .
+[/EN#153736/people A smiling hiker] poses on top of [/EN#153738/scene a snow-covered mountain]
+[/EN#153736/people A man] carrying [/EN#153737/clothing a backpack] stands on [/EN#153741/scene a snowy area] .

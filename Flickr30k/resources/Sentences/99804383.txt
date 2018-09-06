@@ -1,0 +1,5 @@
+[/EN#285225/people An older busker] in [/EN#285218/clothing glasses] plays [/EN#285223/instruments an Eastern string instrument] for [/EN#285222/people a young boy] in [/EN#285219/clothing a striped shirt] .
+[/EN#0/notvisual This] is [/EN#285225/people a man] in front of [/EN#285215/scene a store] performing with [/EN#285222/people a little boy] standing with [/EN#285214/other a dollar] in [/EN#285220/bodyparts his hand]
+[/EN#285225/people A older Asian man] is playing [/EN#285223/instruments an instrument] in front of [/EN#285222/people a young boy] on [/EN#285224/scene the street] .
+[/EN#285225/people An elderly man] sits outside [/EN#285215/other a storefront] accompanied by [/EN#285222/people a young boy] with [/EN#285221/vehicles a cart] .
+[/EN#285225/people An elderly gentleman] playing [/EN#285223/instruments a musical instrument] on [/EN#285224/scene the sidewalk] for [/EN#285217/other money] .

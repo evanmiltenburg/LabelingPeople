@@ -1,0 +1,5 @@
+[/EN#266203/people A man] is holding [/EN#266208/other a microphone] [/EN#0/notvisual that] says " [/EN#266209/other KFBK] " and is interviewing [/EN#266207/people another man] .
+[/EN#266203/people A man] in [/EN#266206/clothing a blue shirt] is holding [/EN#266208/other a microphone] to [/EN#266207/people a man] in [/EN#266205/clothing a black suit] .
+[/EN#266203/people A man] in [/EN#266206/clothing blue] interviews [/EN#266207/people a man] in [/EN#266205/clothing a dark suit] while in [/EN#266211/scene a white tent] .
+[/EN#266203/people a man] in [/EN#266206/clothing a blue shirt] is interviewing [/EN#266207/people a guy] in [/EN#266205/clothing a suit]
+[/EN#266203/people A man] in [/EN#266206/clothing blue] is interviewing [/EN#266207/people a man] in [/EN#266205/clothing a suit] .

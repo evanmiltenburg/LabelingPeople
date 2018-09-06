@@ -1,0 +1,5 @@
+[/EN#185079/people A baby girl] , wearing [/EN#185090/clothing a white sweater] , [/EN#185090/clothing pink blouse] , [/EN#185092/clothing blue pants] , and [/EN#185093/clothing black shoes] , is sitting on [/EN#185084/other a green and white striped blanket] on [/EN#185080/scene grass] .
+[/EN#185079/people A toddler child] is sitting [/EN#185083/scene outdoors] on [/EN#185084/other a green and white towel] and [/EN#185079/people the child] is smiling at [/EN#185088/people someone] to [/EN#185089/scene the right] .
+[/EN#185079/people A small child] with [/EN#185086/other a pacifier] on [/EN#185087/other a white chain] sits on [/EN#185084/other a green and white striped blanket] in [/EN#185082/scene a field] .
+[/EN#185079/people A little girl] grasps [/EN#185094/bodyparts her hands] while sitting on [/EN#185084/other a green and white striped towel] in [/EN#185085/scene a grassy field] .
+[/EN#185079/people A toddler] sitting on [/EN#185084/other a green and white striped blanket] in [/EN#185080/scene a very grassy area] .

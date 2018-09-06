@@ -1,0 +1,5 @@
+[/EN#46499/people A person] in [/EN#46510/clothing a white shirt] and [/EN#46511/clothing blue jeans] is sitting on [/EN#46501/scene the side of a shaded path] .
+[/EN#46499/people A young man] is sitting at [/EN#46502/other the base of a tree] by [/EN#46505/other a tree] lined [/EN#46507/scene road] .
+[/EN#46499/people A man] sitting on [/EN#46504/other a rock] on [/EN#46508/other the side of a tree] lined [/EN#46500/scene sidewalk] .
+[/EN#46499/people A person] sitting by [/EN#46505/other a tree] underneath [/EN#46503/other a canopy of trees] .
+[/EN#46499/people A man] sitting on [/EN#46502/other the edge of a tree] lined [/EN#46509/other walk] .

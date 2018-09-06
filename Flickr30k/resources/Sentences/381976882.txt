@@ -1,0 +1,5 @@
+[/EN#143984/animals Four little dogs] on [/EN#143986/clothing leashes] take [/EN#143990/other a walk] on [/EN#143985/scene a wide path] .
+[/EN#143984/animals Four small dogs] on [/EN#143986/clothing leashes] walking in [/EN#143988/scene a park] .
+[/EN#143984/animals Four dogs] on [/EN#143986/clothing leashes] walk down [/EN#143985/scene a sidewalk] .
+[/EN#143984/animals Four dogs] are being walked by [/EN#143989/people two owners] .
+[/EN#143987/people Someone] is walking [/EN#143984/animals their dogs] .

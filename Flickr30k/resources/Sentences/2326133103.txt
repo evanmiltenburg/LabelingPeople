@@ -1,0 +1,5 @@
+[/EN#41820/people A woman] wearing [/EN#41822/clothing a red coat] stands on [/EN#41823/scene a wood floor] in front of [/EN#41826/other several paintings] while [/EN#41824/people two girls] sit on [/EN#41823/scene the floor] at [/EN#41831/bodyparts her feet] .
+[/EN#0/notvisual There] are [/EN#41824/people 2 children] wearing [/EN#41827/clothing skirts] and [/EN#41820/people an adult] wearing [/EN#41822/clothing a red coat] at [/EN#41821/other an art display] .
+[/EN#41820/people A woman] viewing [/EN#41821/other art] on [/EN#41830/other the walls] while [/EN#41824/people two girls] are engaged in drawing on [/EN#41823/scene the floor] .
+[/EN#41820/people A woman] looks at [/EN#41821/other art] in [/EN#41825/scene a gallery] while [/EN#41824/people two children] sit on [/EN#41823/scene the floor] .
+[/EN#41820/people A woman] stands looking at [/EN#41821/other art] on [/EN#41829/other the wall] .

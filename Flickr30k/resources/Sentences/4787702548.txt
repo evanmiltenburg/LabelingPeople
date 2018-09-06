@@ -1,0 +1,5 @@
+[/EN#202865/people An old man] walking along [/EN#202866/scene a quiet street] .
+[/EN#202865/people A older man] walks down [/EN#202866/scene a quiet street] .
+[/EN#202865/people a man] walking on [/EN#202866/scene the side of a street] .
+[/EN#202865/people An elderly man] walks along [/EN#202866/scene a street] .
+[/EN#202865/people A older man] walking down [/EN#202866/scene the street] .

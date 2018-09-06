@@ -1,0 +1,5 @@
+[/EN#44248/people A young child] is walking along side [/EN#44249/animals a large black and brown dog] with [/EN#44251/scene snow] on [/EN#0/notvisual the ground] .
+[/EN#44248/people The boy] and [/EN#44249/animals the dog] are outside in [/EN#44250/scene the garden] with [/EN#44251/scene a little snow] still on [/EN#0/notvisual the ground] .
+[/EN#44248/people Little boy] and [/EN#44249/animals a dog] are playing in [/EN#44253/other a fenced] in [/EN#44250/scene backyard] with [/EN#44251/scene snow] on [/EN#0/notvisual the ground] .
+[/EN#44248/people A little boy] is playing with [/EN#44249/animals his dog] in [/EN#44250/scene the backyard] as [/EN#44254/other the snow melts] .
+[/EN#44249/animals A dog] runs for [/EN#44252/other a ball] thrown by [/EN#44248/people a small boy] .

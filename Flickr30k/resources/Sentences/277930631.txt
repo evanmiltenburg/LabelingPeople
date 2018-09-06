@@ -1,0 +1,5 @@
+[/EN#72534/people A man] in [/EN#72536/clothing a red hat] playing [/EN#72537/instruments a guitar] and singing into [/EN#72539/other a microphone] .
+[/EN#72534/people A man] is playing [/EN#72537/instruments an electric guitar] and grimacing strangely .
+[/EN#72534/people A young man] in [/EN#72536/clothing a baseball cap] plays [/EN#72537/instruments an electric guitar] .
+[/EN#72534/people A man] playing [/EN#72537/instruments an electric guitar] at [/EN#72538/other a concert] .
+[/EN#72534/people A musician] sings [/EN#72540/other a song] and plays [/EN#72537/instruments the guitar] .

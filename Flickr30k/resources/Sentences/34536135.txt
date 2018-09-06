@@ -1,0 +1,5 @@
+[/EN#119327/people Man] wearing [/EN#119330/clothing a white short-sleeved t-shirt] , [/EN#119337/clothing red apron] , and [/EN#119332/clothing a black baseball cap] shucking [/EN#119328/other a clam] at [/EN#119329/scene a restaurant stand] .
+[/EN#119327/people A cook] prepares [/EN#119328/other food] at [/EN#119333/other the counter] in [/EN#119329/scene a store] called " [/EN#119331/other Frank 's Burgers] " .
+[/EN#119327/people A man] in [/EN#119330/clothing a white shirt] prepares [/EN#119336/other food] in [/EN#119329/scene a restaurant] .
+[/EN#119327/people A man] is cutting [/EN#119328/other something] above [/EN#119334/other a sink] .
+[/EN#119327/people A food vendor] serves [/EN#119335/people customers] .

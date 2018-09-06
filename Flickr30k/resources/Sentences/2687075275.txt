@@ -1,0 +1,5 @@
+[/EN#66171/people Two male toddlers] in [/EN#66175/vehicles a twin baby carriage] in front of [/EN#66172/other a red firetruck] numbered [/EN#66174/other 535] .
+[/EN#66171/people Two toddlers] , in [/EN#66173/other a stroller] , are placed in front of [/EN#66172/other a firetruck] .
+[/EN#66171/people Two babies] are sitting in [/EN#66173/other a stroller] in front of [/EN#66172/other a firetruck] .
+[/EN#66171/people Two kids] are in [/EN#66173/other a stroller] in front of [/EN#66172/other a fire engine] .
+[/EN#66171/people Two young children] in front of [/EN#66172/other a firetruck] .

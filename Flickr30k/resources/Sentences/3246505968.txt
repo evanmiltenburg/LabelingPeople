@@ -1,0 +1,5 @@
+[/EN#104014/people A little girl] wearing [/EN#104024/clothing a pink and white striped bib] is eating [/EN#104015/other oatmeal] at [/EN#104021/other a restaurant table] .
+[/EN#104014/people a young Asian girl] eats [/EN#104015/other a bowl of oatmeal] and works on [/EN#104022/other a simple test] about [/EN#104018/scene the beach] .
+[/EN#104014/people An Asian baby girl] holds [/EN#104023/other a spoon] with [/EN#104019/other a mouthful of oatmeal] .
+[/EN#104014/people A small child] eating [/EN#104016/other food] in [/EN#104020/scene a restaurant] .
+[/EN#104014/people A baby girl] with [/EN#104017/other a mouthful of cereal] .

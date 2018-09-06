@@ -1,0 +1,5 @@
+[/EN#117845/people A skateboarder] is riding [/EN#117852/other a skateboard] along [/EN#117847/other a metal railing] in front of [/EN#117849/scene a concrete building] .
+[/EN#117845/people An in-line skater] is attempting [/EN#0/notvisual a trick] in [/EN#117847/other a long metal rail] behind [/EN#117849/other a large structure] .
+[/EN#117845/people The boy] is doing [/EN#0/notvisual a trick] on [/EN#117847/other a rail] next to [/EN#117851/scene an overpass] .
+[/EN#117845/people A boy] stands on [/EN#117847/other a rail] with [/EN#117853/bodyparts his arms] outstretched .
+[/EN#117845/people A boy] standing on railing

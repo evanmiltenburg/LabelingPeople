@@ -1,0 +1,5 @@
+[/EN#275836/people A woman] in [/EN#275841/clothing a white dress] is singing , [/EN#275837/people a man] in [/EN#275844/clothing white dress] is playing [/EN#275839/instruments drums] .
+[/EN#275837/people A person] playing [/EN#275839/instruments drums] while [/EN#275836/people another person] sings with [/EN#275838/other a microphone] in [/EN#275845/bodyparts hand] .
+[/EN#275836/people A large woman] in [/EN#275841/clothing a tan shirt] and [/EN#275843/clothing brown pants] uses [/EN#275838/other a microphone] .
+[/EN#275836/people An African American woman] sings while [/EN#275839/instruments drums] accompany [/EN#0/notvisual her] .
+[/EN#275836/people A woman] sings while [/EN#275837/people a man] plays [/EN#275840/other the bongo 's] .

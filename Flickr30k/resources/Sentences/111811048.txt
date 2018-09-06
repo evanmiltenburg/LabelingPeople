@@ -1,0 +1,5 @@
+[/EN#3017/people A man] is crossing [/EN#3018/scene the street] and in [/EN#0/notvisual the distance] [/EN#0/notvisual you] can see [/EN#3020/scene a building] under [/EN#3023/other construction] .
+[/EN#0/notvisual This] is [/EN#3017/people a man] standing on [/EN#3021/scene a rooftop] with [/EN#3023/other construction] in [/EN#0/notvisual the background] .
+[/EN#3017/people A man] is standing on top of [/EN#3020/scene a tall building] that overlooks [/EN#3025/scene the city] .
+[/EN#3017/people A man] walks across [/EN#3019/scene the field of view] in front of [/EN#3024/other a cityscape] .
+[/EN#3017/people A man] with [/EN#3022/clothing a hat] walks along [/EN#3018/scene train tracks] .

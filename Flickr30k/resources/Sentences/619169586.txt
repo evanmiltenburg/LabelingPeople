@@ -1,0 +1,5 @@
+[/EN#249691/people A woman] stands on [/EN#249692/scene a mountain] overlooking [/EN#249693/other a rolling field of trees] underneath [/EN#249695/scene a blue sky] .
+[/EN#249691/people A woman] in [/EN#249698/clothing a brown jacket] is standing on [/EN#249696/other a rock] with [/EN#0/notvisual a forested background] .
+[/EN#249691/people The person] poses for [/EN#249699/other a picture] on [/EN#249692/scene a cliff] overlooking [/EN#249697/scene a valley] .
+[/EN#249691/people A woman] standing in front of [/EN#249693/other trees] and smiling .
+[/EN#249691/people A woman] posing near [/EN#249692/scene a cliff]

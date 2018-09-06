@@ -1,0 +1,5 @@
+[/EN#28353/animals/people The German Shepherd] is running through [/EN#28354/scene the white snow] .
+[/EN#28353/animals The German shepherd dog] is running through [/EN#28354/scene the snow] .
+[/EN#28353/animals A dog] runs through [/EN#28354/scene snow] in front of [/EN#28355/other the woods] .
+[/EN#28353/animals The dog] runs through [/EN#28354/scene the snow] .
+[/EN#28353/animals Large dog] running in [/EN#28354/scene snow]

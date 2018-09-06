@@ -1,0 +1,5 @@
+[/EN#98974/people The snowboarder] is wearing [/EN#98975/clothing a dark top] , [/EN#98976/clothing blue pants] and [/EN#98977/clothing a helmet] with [/EN#98978/clothing goggles] .
+[/EN#98974/people A person] on [/EN#98979/other a yellow snowboard] does [/EN#0/notvisual some tricks] in [/EN#98980/scene the snow] .
+[/EN#98974/people The snowboarder] in [/EN#98976/clothing the blue pants] is performing [/EN#0/notvisual a trick] .
+[/EN#98974/people A man] wearing [/EN#98981/other goggles snowboards] on [/EN#98979/other a half pipe] .
+[/EN#98974/people Person] snowboarding at [/EN#98980/scene a ski slope] .

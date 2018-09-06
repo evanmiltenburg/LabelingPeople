@@ -1,0 +1,5 @@
+[/EN#22868/people A man] climbs up [/EN#22873/bodyparts a cliff face] with [/EN#22872/other no safety equipment] .
+[/EN#22868/people A shirtless man] is climbing up [/EN#22870/scene a mountainside] .
+[/EN#22868/people A boy] does [/EN#22871/other a cartwheel] on [/EN#22870/scene a rock cliff] .
+[/EN#22868/people A man] climbs on [/EN#22869/other a steep structure] .
+[/EN#22868/people a man] climbs [/EN#22869/other a large rock] .

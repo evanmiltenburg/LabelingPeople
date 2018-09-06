@@ -1,0 +1,5 @@
+[/EN#183267/people Person] in [/EN#183268/clothing a blue shirt] and [/EN#183272/clothing tan shorts] sits with [/EN#183269/instruments their guitar] between [/EN#183271/bodyparts their legs] while picking at [/EN#183270/bodyparts their fingers] .
+[/EN#183267/people A man] wearing [/EN#183268/clothing a blue shirt] holds [/EN#183269/instruments his guitar] between [/EN#183271/bodyparts his legs] while looking at [/EN#183270/bodyparts his hands] .
+[/EN#183267/people A young man] in [/EN#183268/clothing a blue shirt] and [/EN#183272/clothing white shorts] sitting with [/EN#183269/instruments his guitar] .
+[/EN#183267/people A boy] is looking at [/EN#183270/bodyparts his finger] with [/EN#183269/instruments his guitar] between [/EN#183271/bodyparts his legs] .
+[/EN#183267/people A person] wearing [/EN#183268/clothing a blue shirt] and [/EN#183272/scene short outside] with [/EN#183269/instruments a guitar] .

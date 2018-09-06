@@ -1,0 +1,5 @@
+[/EN#40923/people A man] carrying [/EN#40927/other boxes] on [/EN#40928/bodyparts his shoulder] is walking past [/EN#40924/scene a building] with [/EN#40925/other a Coca-Cola sign] on [/EN#0/notvisual it] .
+[/EN#40924/scene The side of a building] next to [/EN#40929/scene a church] is painted with [/EN#40925/other a brightly colored Coca-Cola sign] .
+[/EN#40923/people Person] holding [/EN#40927/other boxes] in [/EN#40926/scene a street] in front of [/EN#40924/other a wall] painted with [/EN#40930/other antique advertisements] .
+[/EN#40923/people A man] is walking uphill on [/EN#40926/scene a street] with [/EN#40927/other two boxes] on [/EN#40928/bodyparts his shoulder] .
+[/EN#40923/people A man] walks down [/EN#40924/scene a sidewalk] near [/EN#40925/other a Coca Cola mural] .

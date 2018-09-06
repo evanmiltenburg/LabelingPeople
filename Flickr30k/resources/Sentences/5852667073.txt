@@ -1,0 +1,5 @@
+[/EN#244119/people A man] in [/EN#244125/clothing a pair of jeans] and [/EN#244128/clothing blue shirt] is conversing with [/EN#244121/people a woman] in [/EN#244129/clothing a blue shirt] pushing [/EN#244120/other a plaid stroller] .
+[/EN#244123/people Men] and [/EN#244127/people women] eating near [/EN#244119/people a storefront one man] and [/EN#244121/people a woman] with [/EN#244120/other a stroller] taking to [/EN#0/notvisual each other] .
+[/EN#244119/people A man] speaking to [/EN#244121/people a woman] with [/EN#244120/other a stroller] in [/EN#244130/scene a room] with [/EN#244126/other several dinners] .
+[/EN#244119/people A man] talking to [/EN#244121/people a woman] [/EN#0/notvisual who] is pushing [/EN#244120/other a baby stroller] .
+[/EN#244122/people A crowd of people] are in [/EN#244124/other a cafe] .

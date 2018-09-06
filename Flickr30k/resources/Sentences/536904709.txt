@@ -1,0 +1,5 @@
+[/EN#234688/people The woman] in [/EN#234690/clothing the red shirt] [/EN#234691/clothing a blue] jeans is laying on [/EN#234689/other the tan couch] .
+[/EN#234688/people A person] wearing [/EN#234691/clothing jeans] and [/EN#234690/clothing a red shirt] is sleeping on [/EN#234689/other a tan couch] .
+[/EN#234688/people A girl] in [/EN#234690/clothing a red tank] and [/EN#234691/clothing jeans] is sleeping on [/EN#234689/other a brown sofa] .
+[/EN#234688/people a woman] in [/EN#234690/clothing a red shirt] and [/EN#234691/clothing jeans] asleep on [/EN#234689/other a brown couch]
+[/EN#234688/people A woman] in [/EN#234690/clothing a red shirt] is sleeping on [/EN#234689/other a tan couch] .

@@ -1,0 +1,5 @@
+[/EN#242502/people Small blond child] with [/EN#242504/clothing a bright red shirt] smiles while sitting inside [/EN#242503/other a Lexmark box] .
+[/EN#242502/people A little girl] , with [/EN#242509/bodyparts blond-hair] and [/EN#242504/clothing a red shirt] on , is playing in [/EN#242503/other a big box] .
+[/EN#242502/people Two children] sit inside of [/EN#242503/other a box] and have [/EN#242502/scene a small hole] cut out for [/EN#242502/other a door] .
+[/EN#242502/people A young child] playing in [/EN#242503/other a Lexmark box] and using [/EN#0/notvisual it] as [/EN#242503/scene a fort] .
+[/EN#242502/people A little girl] is using [/EN#242503/other a Lexmark Printer box] as [/EN#242503/scene a fort] .

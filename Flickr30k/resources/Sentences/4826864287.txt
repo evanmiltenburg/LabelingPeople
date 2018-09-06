@@ -1,0 +1,5 @@
+[/EN#207883/people A man] wearing [/EN#207892/clothing a dark shirt] and [/EN#207887/people a woman] wearing [/EN#207893/clothing a yellow sweater] are sitting beside [/EN#207886/scene an escalator] looking at [/EN#207889/people a man] standing in front of [/EN#0/notvisual them] holding [/EN#207884/other a box] .
+[/EN#207883/people A young man] and [/EN#207887/people woman] are seated with [/EN#207891/other their backs] to [/EN#207886/scene the side of an escalator] .
+[/EN#207883/people A man] sits and rest [/EN#207894/bodyparts his head] on [/EN#207895/bodyparts his hand] next to [/EN#207885/people a couple of other people] .
+[/EN#207883/people A person] holding [/EN#207884/other a flat box] is standing near [/EN#207885/people two people] sitting down .
+[/EN#207883/people A man] waits impatiently at [/EN#207890/scene a rest stop] .

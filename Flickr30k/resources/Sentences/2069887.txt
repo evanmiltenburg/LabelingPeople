@@ -1,0 +1,5 @@
+[/EN#26802/people A statue of a wizard] holding [/EN#26803/other a gnarled staff] sits in front of [/EN#26805/other a stone wall] as [/EN#26801/other a small white pale] in [/EN#26807/scene front] suggests [/EN#26804/other an offering] .
+[/EN#26802/people A statue of an old , bearded beggar] wearing [/EN#26808/clothing a pointed hat] and holding [/EN#26803/other an ornate stick] with [/EN#26801/other a collection box] in front of [/EN#0/notvisual him] .
+[/EN#26801/other A box] is in front of [/EN#26802/people a likeness of a wizard] on [/EN#26806/scene the street] .
+[/EN#26802/people Stone statue of a wizard] holding [/EN#26803/other his staff] .
+[/EN#26801/other A small tub] sits in front of [/EN#26802/other the statue] .

@@ -1,0 +1,5 @@
+[/EN#268255/people A man] wearing [/EN#268256/other a red garment] is hunched over [/EN#268257/people another man] [/EN#0/notvisual who] has fallen and is rolling on [/EN#268258/scene the grass] while [/EN#268259/people other people] are in [/EN#268270/other visible] in [/EN#0/notvisual the background] .
+[/EN#268260/scene A man of Asian descent] wearing [/EN#268256/clothing red] is leaning over [/EN#268262/scene another man of Asian descent] wearing [/EN#268263/clothing blue] [/EN#0/notvisual who] has fallen on [/EN#268258/scene the grass] in [/EN#268268/scene the park] on [/EN#268267/scene a sunny day] .
+[/EN#268260/people A red-sleeved man] has thrown down , in [/EN#268271/other a sparring manner] , [/EN#268255/people a gentleman] with [/EN#268263/clothing blue sleeves] .
+[/EN#268255/people A man] throws [/EN#268255/people another man] to [/EN#0/notvisual the ground] while [/EN#268265/people a man] in [/EN#0/notvisual the background] watches .
+[/EN#268257/people Someone] has fallen while running [/EN#268260/other one] after [/EN#268272/other the other] .

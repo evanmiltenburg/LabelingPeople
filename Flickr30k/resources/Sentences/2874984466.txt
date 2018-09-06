@@ -1,0 +1,5 @@
+[/EN#78233/animals A black and white dog] is playing with [/EN#78234/animals a sheep] in [/EN#78235/scene a field] .
+[/EN#78233/animals The black and white dog] is herding [/EN#78234/animals the sheep] .
+[/EN#78233/animals A dog] and [/EN#78234/animals sheep] run together .
+[/EN#78234/animals a sheep] chases [/EN#78233/animals a dog] .
+[/EN#78233/animals A dog] herds [/EN#78234/animals a sheep] .

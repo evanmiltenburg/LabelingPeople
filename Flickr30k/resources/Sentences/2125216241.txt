@@ -1,0 +1,5 @@
+[/EN#30085/people Three people] are standing on [/EN#30086/vehicles/scene the dock of a boat] looking at [/EN#30090/other something] off-camera .
+[/EN#30085/people Three men] stand atop [/EN#30086/vehicles/scene a boat] from [/EN#30089/other Seattle Washington] .
+[/EN#30085/people Three people] stand on [/EN#30086/vehicles/scene a boat] [/EN#0/notvisual that] is docked .
+[/EN#30088/other A blue and white sailboat] sits by [/EN#30086/scene a dock] .
+[/EN#30085/people A few people] park [/EN#30086/vehicles/scene their boat] at [/EN#30086/scene a dock] .

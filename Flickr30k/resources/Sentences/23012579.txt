@@ -1,0 +1,5 @@
+[/EN#40029/people A blond , Caucasian female] , wearing [/EN#40030/clothing a white business jacket] , [/EN#40030/clothing pink blouse] , sitting at [/EN#40033/other a table] draped in [/EN#40033/other hot pink tablecloth] , writing on [/EN#40032/other a piece of paper] .
+[/EN#40029/people A brown-haired woman] in [/EN#40030/clothing a beige jacket] writes on [/EN#40032/other a piece of paper] on [/EN#40033/other a pink table] .
+[/EN#40029/people A woman] sits in [/EN#40035/other a chair] and writes [/EN#40031/other a note] on [/EN#40032/other a piece of paper] .
+[/EN#40029/people A woman] in [/EN#40030/clothing dress clothes] is writing [/EN#40031/other something] .
+[/EN#40029/people A blond woman] is writing on [/EN#40032/other a piece of paper] .

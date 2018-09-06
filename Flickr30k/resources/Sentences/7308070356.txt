@@ -1,0 +1,5 @@
+[/EN#268274/people A man] sitting on [/EN#268276/scene railroad tracks] eating [/EN#268282/other something] and selling [/EN#268278/other something] displayed on top of [/EN#268279/other a crate] .
+[/EN#268274/people man] sitting on [/EN#268276/scene a railroad track] selling [/EN#268278/other something] with [/EN#268281/other a scale] in [/EN#268280/other the picture] .
+[/EN#268275/other Some type of snack food] being eaten at [/EN#0/notvisual what] appears to be [/EN#268276/scene a railroad site] .
+[/EN#268274/people An Asian man] sits on [/EN#268276/scene the tracks] with [/EN#268275/other crates of peanuts] .
+[/EN#268274/people A person] sitting on [/EN#268276/scene train tracks] is selling [/EN#268275/other food] .

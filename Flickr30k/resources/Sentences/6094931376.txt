@@ -1,0 +1,5 @@
+[/EN#247936/people A single-file group of people] wearing [/EN#247943/clothing backpacks] and [/EN#247939/other other gear] are hiking up [/EN#247942/scene the side of a green-covered mountain] .
+[/EN#247936/other A group of backpackers treks] across [/EN#247937/scene a green hill] with [/EN#247940/scene snowcapped mountains] off in [/EN#0/notvisual the distance] .
+[/EN#247936/people A line of backpackers] trekking across [/EN#247937/scene a very green , hilly landscape] .
+[/EN#247936/people A group of people] are hiking along [/EN#247937/scene a grassy area] .
+Hiking in [/EN#247941/scene the mountains] to have [/EN#247938/other a scenic picnic] .

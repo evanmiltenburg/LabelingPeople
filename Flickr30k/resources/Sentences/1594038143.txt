@@ -1,0 +1,5 @@
+[/EN#17137/people A man] in [/EN#17146/clothing a pink shirt] is showing [/EN#0/notvisual a magic trick] to [/EN#17138/people a boy] in [/EN#17140/clothing a blue shirt] .
+[/EN#17138/people A young boy] in [/EN#17140/clothing a blue jacket] pulls [/EN#17147/other something] black out of [/EN#17141/clothing a fabric bag] .
+[/EN#17138/people a small boy] wearing [/EN#17140/clothing a blue shirt] pulling [/EN#17142/other an item] from [/EN#17145/clothing a magicians hat] .
+[/EN#17138/people A smiling boy] pulling [/EN#17143/other something] from [/EN#17141/clothing a magician 's bag] .
+[/EN#17138/people A smiling boy] pulls [/EN#17143/other an orange object] from [/EN#17141/clothing a hat] .

@@ -1,0 +1,5 @@
+[/EN#100663/people A man] in [/EN#100669/clothing a white shirt] on [/EN#100665/vehicles a bicycle] with [/EN#100664/other a Coca Cola crate] on [/EN#100667/other the back] rides down [/EN#100666/scene a red dirt road] .
+[/EN#100663/people Single black male] riding [/EN#100665/vehicles a bike] with [/EN#100664/other a basket] on [/EN#100667/other the back] [/EN#0/notvisual that] says [/EN#100664/other coca-cola] on [/EN#0/notvisual it] .
+[/EN#100663/people This man] is riding [/EN#100665/vehicles a bicycle] with [/EN#100664/other a coca-cola basket] on [/EN#100667/other the back] down [/EN#100666/scene a dirt road] .
+[/EN#100663/people A man] is riding [/EN#100665/vehicles a bicycle] down [/EN#100666/scene a dirt road] .
+[/EN#100663/people A man] is riding [/EN#100665/vehicles a bike] along [/EN#100666/scene a dirt trail] .

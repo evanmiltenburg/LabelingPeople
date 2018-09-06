@@ -1,0 +1,5 @@
+[/EN#170575/people An artist] sitting on [/EN#170577/scene the road] beside [/EN#170582/vehicles a white Mercedes car] is painting [/EN#170576/scene a picture of a house corridor] .
+[/EN#170575/people A man] in [/EN#170583/clothing a jumpsuit] is painting [/EN#170576/scene a scene] on [/EN#170576/other a canvas] , outside in [/EN#170577/scene the parking lot] .
+[/EN#170575/people A man] is painting [/EN#170576/other a picture] while on [/EN#170579/scene the sidewalk of the street] .
+[/EN#170575/people A man] is painting [/EN#170576/scene a city scene] on [/EN#170576/other a canvas] in [/EN#170579/scene the street] .
+[/EN#170575/people A painter] is painting on [/EN#170579/scene the side of the road] .

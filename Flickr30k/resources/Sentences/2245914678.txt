@@ -1,0 +1,5 @@
+[/EN#36527/people a red-haired girl] with [/EN#36528/clothing a black and white striped shirt] talking on [/EN#36529/other a cellphone]
+[/EN#36527/people A girl] with [/EN#36530/bodyparts dyed red-hair] wearing [/EN#36531/clothing striped clothing] talking on [/EN#36529/other a cellphone] .
+[/EN#36527/people A woman] with [/EN#36530/bodyparts red-hair] and [/EN#36528/clothing a black striped shirt] talking on [/EN#36529/other the phone] .
+[/EN#36527/people A woman] with [/EN#36530/bodyparts bright red-hair] and [/EN#36531/clothing striped clothing] talks on [/EN#36529/other a phone] .
+[/EN#36527/people A girl] with [/EN#36530/bodyparts red dreadlocks] is talking on [/EN#36529/other the phone] .

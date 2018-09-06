@@ -1,0 +1,5 @@
+With [/EN#138894/other majestic pride] [/EN#138888/animals the horse] soars over [/EN#138890/scene the miniature barn] as [/EN#138887/people the rider] holds on .
+[/EN#138887/people A person] on [/EN#138888/animals a large gray horse] jumping over [/EN#138890/scene a miniature house] with [/EN#138893/scene a red roof] .
+[/EN#138888/animals A white horse] jumping over [/EN#138890/other a hurdle] [/EN#0/notvisual that] looks like [/EN#138890/scene a small barn] .
+[/EN#138887/people A woman] and [/EN#138888/animals a horse] are jumping over [/EN#138889/scene a miniature building] .
+[/EN#138888/animals a horse] with [/EN#138887/people rider] leaps over [/EN#138890/scene a miniature barn] .

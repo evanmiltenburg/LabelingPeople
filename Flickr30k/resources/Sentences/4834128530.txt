@@ -1,0 +1,5 @@
+[/EN#208939/people A woman] in [/EN#208940/clothing a burgundy apron] is reaching over [/EN#208942/other a table] [/EN#0/notvisual that] has [/EN#208944/other brightly colored chairs] .
+[/EN#208939/people A woman] in [/EN#208940/clothing an apron] cleans [/EN#208942/other a table] [/EN#0/notvisual that] is surrounded by [/EN#208943/other different colored chairs] .
+[/EN#208939/people A waitress] is setting up [/EN#208942/other a table] at [/EN#208941/scene an outdoor restaurant] .
+[/EN#208939/people A waitress] wearing [/EN#208940/clothing a red apron] is clearing [/EN#208942/other a table] .
+[/EN#208939/people A woman] setting [/EN#208942/other a table] in [/EN#208941/scene a colorful restaurant] .

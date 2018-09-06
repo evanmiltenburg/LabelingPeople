@@ -1,0 +1,5 @@
+[/EN#73087/animals A curly brown dog] runs across [/EN#73088/scene the lawn] carrying [/EN#73090/other a toy] in [/EN#73091/bodyparts its mouth] .
+[/EN#73087/animals A big black poodle] running on [/EN#73088/scene the grass] with [/EN#73090/other a toy] in [/EN#73091/bodyparts its mouth] .
+[/EN#73087/animals The black dog] is running on [/EN#73088/scene the grass] with [/EN#73090/other a toy] in [/EN#73091/bodyparts its mouth] .
+[/EN#73087/animals A brown dog] frolics in [/EN#73088/scene a field] carrying [/EN#73090/other a plush toy]
+[/EN#73087/animals A dog] jumps and catches [/EN#73092/other a] chew [/EN#73090/other toy] .

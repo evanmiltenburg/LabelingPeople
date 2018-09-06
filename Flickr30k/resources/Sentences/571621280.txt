@@ -1,0 +1,5 @@
+[/EN#241531/people People] in [/EN#241535/clothing bright green shirts] , [/EN#241537/clothing construction hats] and [/EN#241536/clothing blue jeans] are standing near [/EN#241532/other a tree] [/EN#0/notvisual that] is laying on [/EN#0/notvisual the ground] .
+[/EN#241531/people Three people] in [/EN#241534/clothing bright clothing] working on [/EN#241532/other branches of a tree] .
+[/EN#241539/scene Three landscape] works clear away [/EN#241532/other a fallen tree branch] .
+[/EN#241531/people Three people] in [/EN#241535/clothing bright green shirts] work with [/EN#241538/other trees] .
+[/EN#241531/people Three workers] are trimming down [/EN#241532/other trees] .

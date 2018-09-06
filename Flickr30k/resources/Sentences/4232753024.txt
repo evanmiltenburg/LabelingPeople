@@ -1,0 +1,5 @@
+[/EN#159785/people A man] in [/EN#159788/clothing a green shirt] sits next to [/EN#159787/people a small girl] with [/EN#159792/bodyparts blond-hair] , [/EN#0/notvisual who] is reaching for [/EN#0/notvisual what] [/EN#0/notvisual he] has in [/EN#159793/bodyparts his hands] .
+[/EN#159785/people A man] is sitting down at [/EN#159790/other a table] showing [/EN#159789/other something] to [/EN#159787/people a little girl]
+[/EN#159785/people A man] in [/EN#159788/clothing a green shirt] plays with [/EN#159787/people a blond-haired girl] .
+[/EN#159787/people Small girl] sharing [/EN#159791/other dinner] with [/EN#159785/people her dad] .
+[/EN#159785/people A dad] fixing [/EN#159789/other a toy] for [/EN#159787/people his daughter] .

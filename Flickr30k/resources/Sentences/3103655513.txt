@@ -1,0 +1,5 @@
+[/EN#93800/people A man] driving [/EN#93801/vehicles a small , open vehicle] with [/EN#93802/other a green sign] on [/EN#0/notvisual the back of it] in [/EN#93805/vehicles traffic] .
+[/EN#93806/scene A busy street] in [/EN#93807/scene a Spanish-speaking country] , with [/EN#93801/vehicles an ambulance] and [/EN#93801/other a rickshaw] .
+[/EN#93808/scene A busy town] people riding [/EN#93810/other cycles] , [/EN#93801/vehicles bikes] , and [/EN#93804/other some] are walking .
+[/EN#93800/people Man] riding on [/EN#93801/vehicles a bike taxi] on [/EN#93808/scene a crowded street] .
+[/EN#93800/people Man] driving [/EN#93801/vehicles a green taxi] down [/EN#93806/scene a busy street] .

@@ -1,0 +1,5 @@
+[/EN#75399/people A rock singer] in [/EN#75400/clothing a pink shirt] and [/EN#75405/clothing jeans] with [/EN#75404/other chains of beads] is standing on [/EN#75401/scene the stage] singing into [/EN#75402/other the microphone] .
+[/EN#75399/people a man] in [/EN#75400/clothing pink t-shirt] is singing [/EN#75403/other a song]
+[/EN#75399/people A man] in [/EN#75400/clothing a tight pink shirt] singing .
+[/EN#75399/people A man] dressed as [/EN#75399/people a woman] singing .
+[/EN#75399/people Performer] performing on [/EN#75401/scene stage] .

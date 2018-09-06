@@ -1,0 +1,5 @@
+[/EN#219102/people A young man] wearing [/EN#219106/clothing a red shirt] , and [/EN#219108/clothing blue jeans] , is laying down next to [/EN#219107/other a window] .
+[/EN#219102/people This young Asian man] rests for [/EN#219109/clothing a short] while [/EN#219107/scene outside of an office building] .
+[/EN#219102/people A young man] takes [/EN#219105/other a nap] in [/EN#219107/other the window of a business] next to [/EN#219103/scene the street] .
+[/EN#219102/people A man] in [/EN#219106/clothing a red shirt] and [/EN#219108/clothing jeans] is lying down on [/EN#219110/other a small ledge] .
+[/EN#219102/people A man] takes [/EN#219105/other a nap] in [/EN#219104/scene the city] .

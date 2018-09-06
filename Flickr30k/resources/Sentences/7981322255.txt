@@ -1,0 +1,5 @@
+[/EN#277242/people The crowd] sits around in [/EN#277244/scene the stadium] while [/EN#277241/people the pitcher] on [/EN#277249/scene the field] throws [/EN#277243/other the ball] and remains on [/EN#277250/bodyparts one leg] while throwing [/EN#277243/other the ball] forward with [/EN#277251/bodyparts/people his right arm] .
+[/EN#277241/people A baseball pitcher] has just pitched [/EN#277243/other the ball] in [/EN#277244/scene a full stadium] , [/EN#0/notvisual there] is [/EN#277242/people a crowd of fans] wearing [/EN#277252/clothing teal] .
+[/EN#277241/people A pro-baseball pitcher] sends [/EN#277243/other a curve ball] to [/EN#277246/people his opponent] while [/EN#277242/people many fans] relax and enjoy [/EN#277245/other the game] .
+[/EN#277241/people The pitcher] releases [/EN#0/notvisual his] throw during [/EN#277245/other a packed baseball game] .
+[/EN#277241/people Pitcher] caught just after [/EN#277247/scene his pitch] , [/EN#277241/bodyparts body] still in [/EN#277248/other pose] .

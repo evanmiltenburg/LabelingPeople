@@ -1,0 +1,5 @@
+[/EN#14971/people A man] with [/EN#14973/clothing a brown hooded jacket] is kissing [/EN#14975/people a girl] with [/EN#14976/clothing sunglasses] .
+[/EN#14970/people A couple] dressed in [/EN#14974/clothing hoodies] kissing on [/EN#14972/scene the beach] .
+[/EN#14971/people A man] and [/EN#14975/other a woman share] [/EN#14978/other a kiss] on [/EN#14972/scene the beach] .
+[/EN#0/notvisual There] is [/EN#14970/people a couple] kissing on [/EN#14972/scene the beach] .
+[/EN#14970/people Two people] kiss on [/EN#14972/scene the beach] .

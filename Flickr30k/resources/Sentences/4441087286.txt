@@ -1,0 +1,5 @@
+on [/EN#168340/scene a snowy day] [/EN#168337/people a man] with [/EN#168338/clothing a north face jacket] walks through [/EN#168341/scene the crowded streets] past [/EN#168344/vehicles a garbage truck]
+[/EN#168337/people A man] crosses [/EN#168343/scene the city street] in [/EN#168345/other a snowstorm] while [/EN#168346/other a van] and [/EN#168347/other garbage truck drive] by .
+[/EN#168337/people Man] wearing [/EN#168338/clothing a black coat] in [/EN#168342/scene the snow] crossing [/EN#168341/scene the street] .
+[/EN#168337/people A man] crossing [/EN#168341/scene the street] during [/EN#168340/scene a cold winter day] .
+[/EN#168337/people An older man] walking through [/EN#168342/scene the snow] .

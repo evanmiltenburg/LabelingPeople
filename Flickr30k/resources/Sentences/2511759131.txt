@@ -1,0 +1,5 @@
+[/EN#54302/people A blond women] holding [/EN#54303/other a red box] is writing on [/EN#0/notvisual the ground] with [/EN#54304/other white chalk] .
+[/EN#54302/people A young woman] writes [/EN#54305/other a message] in [/EN#54304/other chalk] on [/EN#54306/scene the pavement] .
+[/EN#54302/people A petite woman] writing on [/EN#0/notvisual the ground] in [/EN#54304/other chalk] .
+[/EN#54302/people A woman] writes on [/EN#0/notvisual the ground] with [/EN#54304/other white chalk] .
+[/EN#54302/people A boy] writes on [/EN#0/notvisual the ground] using [/EN#54304/other white chalk] .

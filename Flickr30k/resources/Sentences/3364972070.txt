@@ -1,0 +1,5 @@
+[/EN#113101/people A man] in [/EN#113103/clothing a red shirt] and [/EN#113107/clothing jeans] is clinging to [/EN#113104/people a statue of a winged woman] behind [/EN#113108/scene a metal fence] .
+[/EN#113101/people A young boy] clings to [/EN#113105/other the leg of the marble statue] of [/EN#113104/people a bare-chested woman] .
+[/EN#113101/people A young boy] is climbing on [/EN#113105/other the leg of a statue] .
+[/EN#113101/people A boy] clings to [/EN#113104/people a statue of a beautiful woman] .
+[/EN#113101/people a boy] in [/EN#113103/clothing a red shirt] climbing [/EN#113104/other a statue]

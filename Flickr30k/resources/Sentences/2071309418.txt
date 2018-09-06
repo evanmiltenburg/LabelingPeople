@@ -1,0 +1,5 @@
+[/EN#26896/animals A white dog] wearing [/EN#26897/clothing a christmas reindeer headband] plays with [/EN#26898/animals a brown dog] in [/EN#26899/scene the grass] among [/EN#26900/animals some stuffed animals] .
+[/EN#26896/animals A white dog] with [/EN#26901/bodyparts fake antlers] on [/EN#26902/bodyparts its head] and [/EN#26898/animals a brown dog] play together outdoors .
+[/EN#26896/animals The white dog] next to [/EN#26898/animals the brown dog] is wearing [/EN#26897/clothing a christmas headband] .
+[/EN#26903/animals Two dogs] , [/EN#26896/other one] wearing [/EN#26901/bodyparts christmas antlers] , tussle on [/EN#26899/scene the grass] .
+[/EN#26896/animals A white dog] wearing [/EN#26901/bodyparts reindeer ears] is next to [/EN#26898/animals a brown dog] .

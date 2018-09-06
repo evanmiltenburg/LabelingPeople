@@ -1,0 +1,5 @@
+[/EN#180331/animals A large tan dog] is rolling around on [/EN#180331/other its back] in [/EN#180332/scene a yard of grass] .
+[/EN#180331/animals Big yellow dog] rolling around on [/EN#180332/scene the green lawn] .
+[/EN#180331/animals Large dog] rolling on [/EN#180331/other its back] in [/EN#180332/scene green grass] .
+[/EN#180331/animals A large , tan dog] is rolling in [/EN#180332/scene green grass] .
+[/EN#180331/animals A dog] rolls on [/EN#180331/other his back] in [/EN#180332/scene the grass] .

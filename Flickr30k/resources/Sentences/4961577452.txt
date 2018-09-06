@@ -1,0 +1,5 @@
+[/EN#223588/people Many people] walk down [/EN#223589/scene a street] lined with [/EN#223591/scene shops] , as [/EN#223595/people banners of a woman] [/EN#223597/other 's face fly] overhead .
+[/EN#223588/people A crowd of people] is walking along [/EN#223589/scene a promenade] under [/EN#223590/other signs] [/EN#0/notvisual that] say [/EN#223596/scene " hub] " .
+[/EN#223588/people People] walking down [/EN#223589/scene a pub-laden street] surrounded by [/EN#223590/other billboards] .
+[/EN#223588/people People] walk up and down [/EN#223589/scene a sidewalk downtown] in [/EN#223589/scene front a pub] .
+[/EN#223588/people People] walk between [/EN#223591/scene shops] and under advertising [/EN#223590/other signs] .

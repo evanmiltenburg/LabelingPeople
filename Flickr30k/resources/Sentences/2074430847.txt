@@ -1,0 +1,5 @@
+[/EN#27094/people A young man] wearing [/EN#27095/clothing a dark suit] is giving [/EN#27100/other a lecture] to [/EN#27096/people a group of people] seated in [/EN#27101/scene a classroom] .
+[/EN#27094/people A man] in [/EN#27095/clothing a dark suit] and [/EN#27097/clothing blue shirt] gives [/EN#27100/other a presentation] to [/EN#27096/people many people] sitting in [/EN#27098/other chairs] .
+[/EN#27094/people A professor] motions with [/EN#27099/bodyparts his hands] in front of [/EN#27102/scene a classroom] full of [/EN#27096/people students] .
+[/EN#27094/people A man] wearing [/EN#27097/clothing a brown sport coat] gives [/EN#27100/other a talk] to [/EN#27096/people an audience] .
+[/EN#27094/people A man] is giving [/EN#27100/other a class lecture] .

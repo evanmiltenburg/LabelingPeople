@@ -1,0 +1,5 @@
+[/EN#88605/people A boy] wearing [/EN#88607/clothing a red sweatshirt] is raking [/EN#88606/other a pile of leaves] .
+[/EN#88605/people A boy] in [/EN#88607/clothing a red sweatshirt] rakes [/EN#88606/other leaves] into [/EN#88606/people a pile] .
+[/EN#88605/people A boy] in [/EN#88607/clothing a sweatshirt] raking [/EN#88606/other leaves] into [/EN#88606/people a pile] .
+[/EN#88605/people A boy] is shoveling [/EN#88606/other a pile of leaves] together .
+[/EN#88605/people a man] in [/EN#88607/clothing a sweatshirt] makes [/EN#88606/other a pile of leaves]

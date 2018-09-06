@@ -1,0 +1,5 @@
+[/EN#160800/people Many people] , including [/EN#160803/people a boy] wearing [/EN#160812/clothing a striped brown shirt] and [/EN#160805/people a man] in [/EN#160813/clothing capri pants] and [/EN#160814/clothing flip-flops] , walk past [/EN#160804/scene a hotel] with [/EN#160811/other green brick walls] .
+[/EN#160800/people Different people] are walking on [/EN#160802/scene a sidewalk] , in [/EN#0/notvisual both directions] , in front of [/EN#160806/other an orange canopy] .
+[/EN#160800/people People] are walking on [/EN#160802/scene a sidewalk] in front of [/EN#160801/scene a restaurant] .
+[/EN#160800/people People] enjoying [/EN#160810/scene food outside of a restaurant] .
+[/EN#160800/people People] walk and dine in front of [/EN#160801/scene a hotel] .

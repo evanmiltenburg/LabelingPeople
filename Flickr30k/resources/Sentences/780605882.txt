@@ -1,0 +1,5 @@
+[/EN#275485/people A crowd of people] is walking through [/EN#275486/scene a parking lot] at [/EN#275487/scene night] .
+[/EN#275485/people Crowd] outside at [/EN#275487/scene night] walking to [/EN#275488/scene their destination] .
+[/EN#275485/people A crowd of people] walking on [/EN#275486/scene a pavement] at [/EN#275487/scene night] .
+[/EN#275485/people A large group of people] gathered at [/EN#275487/scene night] .
+[/EN#275485/people Many people] walk around at [/EN#275487/scene night] .

@@ -1,0 +1,5 @@
+[/EN#88699/people A young couple] sits and talks [/EN#88706/scene outside of a small restaurant] .
+[/EN#88699/people Two people] sitting and talking in front of [/EN#88702/scene a restaurant] .
+[/EN#88699/people Two people] are sitting at [/EN#88703/other a table] outside of [/EN#88702/scene a building] .
+[/EN#88700/people A couple] talk at [/EN#88703/other a table] outside [/EN#88704/other Au Grain de Folie] .
+[/EN#88699/people A man] and [/EN#88705/people a woman] sit outside of [/EN#88702/scene a restaurant] .

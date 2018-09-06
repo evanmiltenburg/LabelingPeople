@@ -1,0 +1,5 @@
+[/EN#141077/people Someone] with [/EN#141080/clothing a red shirt] and [/EN#141085/clothing light blue jeans] bends over to place [/EN#141084/other an object] in [/EN#141081/other a box] outside of [/EN#141078/scene a store] .
+[/EN#141077/people A man] is bending over in front of [/EN#141078/other a business] and next to [/EN#141079/other a yellow ladder] .
+[/EN#141077/people A man] is bending over in front of [/EN#141078/scene a building] on [/EN#141083/scene a city block] .
+[/EN#141077/people A man] in [/EN#141080/clothing a red shirt] bending over outside [/EN#141078/scene an empty building] .
+[/EN#141077/people A guy] in [/EN#141086/clothing red] squatting near [/EN#141079/other a red latter] .

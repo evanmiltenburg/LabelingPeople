@@ -1,0 +1,5 @@
+[/EN#132335/people A small boy] wearing [/EN#132338/clothing a hat] is standing in [/EN#132339/other wet sand] on [/EN#132336/scene a beach] .
+[/EN#132335/people A child] is walking through [/EN#132339/other wet sand] wearing [/EN#132337/clothing a blue shirt] .
+[/EN#132335/people The child] in [/EN#132337/clothing the blue shirt] is running through [/EN#132339/other the sand] .
+[/EN#132335/people A little kid] wearing [/EN#132338/clothing a hat] is walking in [/EN#132339/other the wet sand] .
+[/EN#132335/people A boy] wearing [/EN#132338/clothing a white hat] is running on [/EN#132336/scene the beach] .

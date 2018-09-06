@@ -1,0 +1,5 @@
+[/EN#203319/people A male student] , with [/EN#203329/bodyparts an army buzz haircut] , [/EN#203325/clothing blue plaid shirt] , [/EN#203320/clothing black backpack] , walking along [/EN#203323/scene a graffiti painted building] , down [/EN#203322/scene an alley] with [/EN#203327/other heavy shadowing effects] along [/EN#203321/other the building 's walls] .
+[/EN#203319/people A man] wearing [/EN#203320/clothing a black backpack] is walking beside [/EN#203321/other a graffiti filled wall] .
+[/EN#203319/people A man] wearing [/EN#203326/clothing headphones] walks past [/EN#203321/other a wall] with [/EN#203328/other red and purple graffiti] .
+[/EN#203319/people A man] wearing [/EN#203320/clothing a backpack] walking down [/EN#203322/scene a street] .
+[/EN#0/notvisual i] cannot see [/EN#203324/other an image] here .

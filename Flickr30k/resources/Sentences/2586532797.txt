@@ -1,0 +1,5 @@
+[/EN#59788/animals A black dog] in [/EN#59789/scene the grass] is holding [/EN#59790/animals a bird] in [/EN#59791/bodyparts his mouth] .
+[/EN#59788/animals A black dog] is holding [/EN#59790/animals a black bird] in [/EN#59791/bodyparts his mouth] .
+[/EN#59788/animals A black dog] is holding [/EN#59790/animals a bird] in [/EN#59791/bodyparts his mouth] .
+[/EN#59788/animals A black dog] fetches [/EN#59790/animals a dead bird] .
+[/EN#59788/animals A black dog] retrieves [/EN#59790/animals a bird] .

@@ -1,0 +1,5 @@
+[/EN#219960/people A man] without [/EN#219964/clothing a shirt] walking towards [/EN#219961/scene a gas station] .
+[/EN#219960/people A man] walking behind [/EN#219963/vehicles a red truck] near [/EN#219965/other a storefront] .
+[/EN#219960/people A shirtless man] walks through [/EN#219961/scene a busy gas station] .
+[/EN#219960/people Shirtless guy] walking toward [/EN#219961/scene a gas station] .
+[/EN#219962/vehicles Cars] are parking at [/EN#219961/scene a convenience store] .

@@ -1,0 +1,5 @@
+[/EN#148640/people A man] smiles , while clinking [/EN#148642/other ale bottles] , with [/EN#148641/people an unseen person] , at [/EN#148646/other a public establishment] .
+[/EN#148640/people A man] clinks [/EN#148642/other bottles] with [/EN#148641/people another person] while smiling in [/EN#148643/scene a restaurant] .
+[/EN#148644/people Two friends] happily cheer [/EN#0/notvisual each other] at [/EN#148643/scene a restaurant] .
+[/EN#148640/people A man] share [/EN#148645/other a Carlsberg toast] with [/EN#148641/people someone] .
+[/EN#148640/people Man] cheering [/EN#148641/people a friend] with [/EN#148642/other beers] .

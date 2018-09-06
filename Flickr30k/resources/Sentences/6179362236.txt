@@ -1,0 +1,5 @@
+[/EN#249319/people A man] , wearing [/EN#249329/clothing green and yellow clothing] , is bicycling around [/EN#249324/scene a track] with [/EN#249322/other a motorcycle] and [/EN#249325/vehicles another car] following [/EN#0/notvisual him] .
+[/EN#249319/people A bicycle rider] in [/EN#249320/other a race] being followed by [/EN#249321/people a police officer] on [/EN#249322/other a motorcycle] .
+[/EN#249319/people A bicyclist] rounds [/EN#249328/other a turn] , followed by [/EN#249321/people a cameraman] .
+[/EN#249319/people bicyclist] leading [/EN#249326/vehicles a pack of cars] in [/EN#249327/other a racetrack] .
+[/EN#249319/people A man] comes around [/EN#249323/scene the corner] in [/EN#249320/other a bicycle race] .

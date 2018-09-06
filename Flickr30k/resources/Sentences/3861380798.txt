@@ -1,0 +1,5 @@
+[/EN#146111/people A woman] in [/EN#146116/clothing white shorts] and [/EN#146117/clothing a blue sleeveless top] standing in front of [/EN#146113/other a wall] is joined by [/EN#146108/other a group of others] on [/EN#146110/scene a sidewalk] outside [/EN#146109/scene a one story stone building] with [/EN#146114/other red and white flags] strung across [/EN#146118/clothing the top] .
+[/EN#0/notvisual There] is [/EN#146108/people a group of people] standing outside [/EN#146109/scene a small building] in [/EN#146112/scene a village]
+[/EN#146108/people A group of people] are standing around on [/EN#146110/scene the sidewalk] .
+[/EN#146108/people People] waiting for [/EN#146115/other something] in front of [/EN#146109/scene a house] .
+[/EN#146108/people A group of people] standing outside [/EN#146109/scene a building] .

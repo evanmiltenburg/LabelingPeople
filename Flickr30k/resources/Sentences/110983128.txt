@@ -1,0 +1,5 @@
+[/EN#2843/other Grocery] store [/EN#2837/people employee] , dressed in [/EN#2838/clothing a red apron] & [/EN#2839/clothing a baseball cap] , sits on [/EN#2840/other a ledge] in front of [/EN#2842/scene the store] .
+[/EN#2837/people An elderly man] in [/EN#2844/clothing a white shirt] and [/EN#2838/clothing red apron] sits outside [/EN#2842/scene a store] .
+[/EN#2837/people A man] in [/EN#2838/clothing a red apron] wearing [/EN#2839/clothing a baseball cap] is sitting on [/EN#2840/other a step] .
+[/EN#2837/people Butcher] waiting outside [/EN#2842/scene the store] .
+[/EN#2837/people A man] in [/EN#2838/clothing an apron] sits on [/EN#2840/other a curb] .

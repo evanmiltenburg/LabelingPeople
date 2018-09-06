@@ -1,0 +1,5 @@
+[/EN#30695/people An adult] riding [/EN#30696/vehicles a bike] on [/EN#30697/scene a beach] with [/EN#30698/scene many visible vapour trails] in [/EN#30698/scene the sky] .
+[/EN#30695/people A person] rides [/EN#30696/vehicles his bicycle] in [/EN#30697/other the sand] beside [/EN#30700/scene the ocean] .
+[/EN#30695/people A man] riding [/EN#30696/vehicles his bike] on [/EN#30697/scene the beach] by [/EN#30700/scene the ocean] .
+[/EN#30695/people A man] rides [/EN#30696/vehicles a bike] under [/EN#30698/scene a blue and white sky] .
+[/EN#30695/people A man] on [/EN#30696/vehicles a bicycle] riding on [/EN#30697/scene the beach] .

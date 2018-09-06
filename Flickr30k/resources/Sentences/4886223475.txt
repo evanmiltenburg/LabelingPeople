@@ -1,0 +1,5 @@
+[/EN#214707/people A man] in [/EN#214709/clothing a one piece tunic] is riding [/EN#214708/vehicles a bike] in front of [/EN#214710/other a sandstone wall] while touching [/EN#214711/bodyparts his nose] .
+[/EN#214707/people Man] picking [/EN#214711/bodyparts nose] on [/EN#214708/vehicles bike] , in [/EN#214712/clothing tan hood jacket] , by [/EN#214710/other orange wall] .
+[/EN#214707/people A man] in [/EN#214709/clothing a brown jumpsuit] riding [/EN#214708/vehicles his bicycle] on [/EN#214713/scene a sidewalk] .
+[/EN#214707/people A man] rides [/EN#214708/vehicles a bicycle] past [/EN#214710/other an orange wall] outside .
+[/EN#214707/people A man] rides [/EN#214708/vehicles his bike] while picking [/EN#214711/bodyparts his nose] .

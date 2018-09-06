@@ -1,0 +1,5 @@
+[/EN#49844/people A child] in [/EN#49847/clothing an orange shirt] holding [/EN#49846/other a baseball bat] watches [/EN#49845/other the ball] thrown at [/EN#0/notvisual him] .
+[/EN#49844/people Boy] in [/EN#49847/clothing yellow shirt] getting ready to hit [/EN#49845/other orange ball] with [/EN#49846/other baseball bat]
+[/EN#49844/people a young man] wearing [/EN#49847/clothing a yellow shirt] and [/EN#49850/clothing baseball helemt] swinging [/EN#49846/other a bat]
+[/EN#49844/people A young boy] is getting ready to hit [/EN#49845/other a baseball] .
+[/EN#49848/other A little league game] in [/EN#49849/other action] .

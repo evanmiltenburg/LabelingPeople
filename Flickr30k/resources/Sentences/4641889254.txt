@@ -1,0 +1,5 @@
+[/EN#185779/people A short woman] wearing [/EN#185788/clothing a pink backpack] over [/EN#185790/scene her front] walks past [/EN#185780/people a very tall man] in [/EN#185781/clothing a black jacket] at [/EN#185791/other the Gubbängen metro station] in [/EN#185786/other Stockholm] , [/EN#185787/other Sweden] .
+[/EN#185779/people A lady] is walking out of [/EN#185784/scene a short tunnel] as [/EN#185780/people a male] prepares to enter [/EN#0/notvisual it] from [/EN#0/notvisual the opposite side] .
+[/EN#185780/people A man] in [/EN#185781/clothing a black jacket] and [/EN#185779/people a woman] with [/EN#185789/clothing a pink shirt] walking under [/EN#185783/scene a concrete bridge]
+[/EN#185778/people A group of people] walk under [/EN#185782/scene some train tracks] in [/EN#185785/other Europe] .
+[/EN#185778/people People] walking through [/EN#185784/scene the underpass of a bridge] .

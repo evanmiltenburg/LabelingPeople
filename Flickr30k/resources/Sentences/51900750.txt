@@ -1,0 +1,5 @@
+[/EN#230594/people A blond man] with [/EN#230599/bodyparts a light beard] , wearing [/EN#230597/clothing a dark , short-sleeved shirt] , [/EN#230595/other bundles wheat] .
+[/EN#230594/people A man] in [/EN#230597/clothing black] holding [/EN#230595/other a bundle of hay] .
+[/EN#230594/people A blond man] collecting [/EN#230596/other mounds of wheat]
+[/EN#230594/people A man] in [/EN#230597/clothing black shirt] is [/EN#230596/other binding wheat] .
+[/EN#230594/people A man] carrying [/EN#230595/other a bundle of straw] .

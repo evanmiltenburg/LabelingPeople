@@ -1,0 +1,5 @@
+[/EN#135791/people A man] in [/EN#135798/clothing a blue unbuttoned shirt] is walking through [/EN#135792/scene a local street market] [/EN#0/notvisual that] is selling [/EN#135795/other various fabrics] .
+[/EN#135791/people an older man] walking in [/EN#135794/scene the street] looking at [/EN#135797/other merchandise] .
+[/EN#135791/people Old man] looking through [/EN#135795/other wares] at [/EN#135792/scene a market] .
+[/EN#135790/people People] shopping at [/EN#135796/other a busy street bazzar] .
+[/EN#135790/people A crowd] and [/EN#135793/scene sidewalk stores] .

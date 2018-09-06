@@ -1,0 +1,5 @@
+[/EN#193100/people A woman] in [/EN#193102/clothing a blue shirt] wears [/EN#193106/clothing a backpack] in [/EN#193104/scene a seafood market] , and [/EN#193107/animals people order fish] behind [/EN#0/notvisual her] .
+[/EN#193105/people People] are walking in [/EN#193103/scene a building] where [/EN#193108/other food] is being sold .
+[/EN#193100/people A woman] in [/EN#193102/clothing a purple shirt] walking in [/EN#193103/scene a market] .
+[/EN#193101/people Two overweight women] walk in [/EN#193103/scene a grocery store] .
+[/EN#193101/people Two women] walk through [/EN#193104/scene a seafood market] .

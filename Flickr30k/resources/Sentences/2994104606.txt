@@ -1,0 +1,5 @@
+[/EN#86180/animals A white dog] with [/EN#86181/clothing patches of brown and black] on [/EN#86182/bodyparts his eye] is running through [/EN#86183/scene green grass] .
+[/EN#86180/animals A white dog] wearing [/EN#86184/clothing a red collar] is jumping up from [/EN#86183/scene the grass] .
+[/EN#86180/animals White and brown dog] with [/EN#86185/scene mouth open] running on [/EN#86183/scene grass] .
+[/EN#86180/animals A white and brown dog] is running on [/EN#86183/scene grass]
+[/EN#86180/animals The small white dog] jumps in [/EN#86183/scene the grass] .

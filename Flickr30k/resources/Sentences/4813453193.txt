@@ -1,0 +1,5 @@
+[/EN#205878/people A man] wearing [/EN#205884/clothing a gray coat] , [/EN#205885/clothing black hat] and [/EN#205886/clothing gloves] drives [/EN#205880/vehicles a red and white carriage] being drawn by [/EN#205879/animals two white horses] .
+[/EN#205878/people A man] driving [/EN#205880/vehicles a carriage] and [/EN#205879/animals two horses] is walking along [/EN#205883/scene the street]
+[/EN#205878/people A man] is driving [/EN#205882/vehicles a horse-drawn wagon] on [/EN#205881/scene a busy intersection] .
+[/EN#205879/animals Two white horses] are pulling [/EN#205880/vehicles a carriage] with [/EN#205878/people a man] driving .
+[/EN#205879/animals Two white horses] drawing [/EN#205880/vehicles a carriage] .

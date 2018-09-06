@@ -1,0 +1,5 @@
+[/EN#113869/people A chubby , curly-haired brunette] with [/EN#113878/clothing glasses] is wearing [/EN#113876/clothing flip-flops] and [/EN#113870/clothing a blue t-shirt] while holding [/EN#113872/other an odd red object] .
+[/EN#113869/people A woman] in [/EN#113875/clothing blue jeans] and [/EN#113870/clothing a blue shirt] seems to be shopping and taking [/EN#0/notvisual a picture of herself] holding [/EN#113872/other something] .
+[/EN#113869/people A woman] in [/EN#113871/scene a store] is holding [/EN#113872/other an item] in [/EN#113873/bodyparts her left hand] while looking away from [/EN#0/notvisual the camera] .
+[/EN#113869/people A woman] with [/EN#113874/clothing a casual outfit] and [/EN#113877/scene flip-flops shops] in [/EN#113871/scene an Ikea store] .
+[/EN#113869/people Woman] standing in [/EN#113871/scene a store] with [/EN#113872/other an item] in [/EN#113873/bodyparts hand] .

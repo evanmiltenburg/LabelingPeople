@@ -1,0 +1,5 @@
+[/EN#32255/people Three people] take [/EN#32256/scene a lift] up [/EN#32262/scene the mountain] in [/EN#32258/other the ski resort of Adirondack] express .
+[/EN#0/notvisual There] is [/EN#32257/scene snow] on [/EN#0/notvisual the ground] and [/EN#32261/other a bit] on [/EN#32254/other the roof of Adirondack Express] .
+[/EN#32260/other the adirondack] express [/EN#32256/scene ski lift] has [/EN#32257/scene plenty of snow] for [/EN#32255/people skiers] to enjoy .
+[/EN#32255/people Three people] are on [/EN#32256/scene a ski lift] called [/EN#32254/other Adirondack Express] .
+[/EN#32255/people People] on [/EN#32256/scene a chair lift] at [/EN#32254/other a snow-covered location] .

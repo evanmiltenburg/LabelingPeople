@@ -1,0 +1,5 @@
+[/EN#123419/people A woman] wearing [/EN#123422/clothing glasses] and [/EN#123428/clothing tan pants] leans against [/EN#123425/other a table] while [/EN#0/notvisual there] is [/EN#123420/other a large picture] on [/EN#123420/other an overhead screen of a word document] .
+[/EN#123419/people A woman] in [/EN#123423/clothing a black shirt] gives [/EN#123420/other a presentation] while projecting [/EN#123427/scene slides] onto [/EN#123420/other a screen] .
+[/EN#123419/people A woman] is presenting [/EN#123420/other various documents] using [/EN#123426/other multimedia equipment] .
+[/EN#123419/people A woman] does [/EN#123420/other a presentation] in [/EN#123424/scene a dark room] .
+[/EN#123419/people Woman] with [/EN#123422/clothing glasses] gives [/EN#123420/other a presentation] .

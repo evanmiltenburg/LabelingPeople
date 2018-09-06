@@ -1,0 +1,5 @@
+[/EN#41339/people A man] is standing on [/EN#41340/scene a dock] looking at [/EN#41338/vehicles/scene a boat] on [/EN#41343/scene the water] at [/EN#41342/scene sunrise] .
+[/EN#41339/people A man] on [/EN#41340/scene a boat dock] looking onto [/EN#41343/scene the water] at [/EN#41338/vehicles/scene a boat]
+[/EN#41339/people A man] on [/EN#41340/scene a dock] and [/EN#41338/vehicles/scene boat] in [/EN#41343/scene the water] at [/EN#41341/scene sunset] .
+[/EN#41338/vehicles/scene A boat] floating in [/EN#41343/scene the water] at [/EN#41341/scene sunset] .
+[/EN#41339/people A man] is watching [/EN#41338/vehicles/scene a boat] at [/EN#41341/scene sunset] .

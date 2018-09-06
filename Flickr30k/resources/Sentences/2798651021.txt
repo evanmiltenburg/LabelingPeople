@@ -1,0 +1,5 @@
+[/EN#73573/people A man] sits by [/EN#73575/scene a driveway] in front of [/EN#73577/scene a white building] playing [/EN#73574/instruments an accordion] .
+[/EN#73573/people A guy] sitting on [/EN#73575/scene the side of the road] playing [/EN#73574/instruments an accordion] .
+[/EN#73573/people A man] with [/EN#73574/instruments an accordion] sitting along side [/EN#73575/scene a path] .
+[/EN#73573/people A man] is playing [/EN#73574/instruments the accordion] in [/EN#73576/scene an empty park] .
+[/EN#73573/people Older man] playing [/EN#73574/instruments accordion] on [/EN#73575/scene a street] .

@@ -1,0 +1,5 @@
+[/EN#201398/people A white male] with [/EN#201406/bodyparts a shaved head] and [/EN#201409/bodyparts goatee] wearing [/EN#201399/clothing a black t-shirt] and [/EN#201401/clothing blue jeans] is playing [/EN#201400/instruments a guitar] with [/EN#201411/other red symbols] painted on [/EN#0/notvisual it] in [/EN#201412/other some structure] with [/EN#201408/people columns] and [/EN#201407/scene a wooden roof] .
+[/EN#201398/other A male figure] wearing [/EN#201399/clothing a black shirt] and [/EN#201401/clothing jeans] is strumming [/EN#201400/instruments a guitar] while holding [/EN#201405/other the pick] with [/EN#201410/bodyparts his mouth] .
+[/EN#201398/people Male] wearing [/EN#201401/clothing blue jeans] and [/EN#201399/clothing a black shirt] playing [/EN#201400/instruments the guitar] outside [/EN#201403/scene a building] .
+[/EN#201398/people A bald caucasian man] in [/EN#201401/clothing blue jeans] and [/EN#201399/clothing black print t-shirt] playing [/EN#201400/instruments a guitar] .
+[/EN#201398/people Guy] playing [/EN#201400/instruments an acoustic guitar] at [/EN#201404/other a concert]

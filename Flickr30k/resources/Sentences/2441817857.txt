@@ -1,0 +1,5 @@
+[/EN#49700/people A man] with [/EN#49709/bodyparts brown hair] wearing [/EN#49704/clothing a blue sweatshirt] in front of [/EN#49705/other a workbench] [/EN#0/notvisual that] is behind [/EN#49701/other a green barrel] holding [/EN#49702/other a piece of wood] .
+[/EN#49700/people A man] in [/EN#49704/clothing blue] is working on [/EN#49702/other a wood project] , and [/EN#49708/other the wood chips] are going into [/EN#49701/other a green can] .
+[/EN#49700/people A man] is in [/EN#49703/scene a workshop] working on [/EN#49702/other a piece of wood] .
+[/EN#49700/people A student] uses [/EN#49707/other old planer] to work [/EN#49702/other wood] in [/EN#49703/scene a shop] .
+[/EN#49700/people A carpenter] working in [/EN#49703/scene his wood shop] .

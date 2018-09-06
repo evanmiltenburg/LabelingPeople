@@ -1,0 +1,5 @@
+[/EN#179015/people A man] in [/EN#179018/clothing a red-and-white jacket] and [/EN#179021/clothing black pants] rides [/EN#179017/vehicles a bicycle] down [/EN#179019/scene the street] in [/EN#179020/scene a commercial district] .
+[/EN#179015/people A woman] in [/EN#179018/clothing a red and white jacket] riding [/EN#179017/vehicles a bicycle] .
+[/EN#179015/people A woman] riding [/EN#179017/vehicles a bike] while wearing [/EN#179022/other a tracksuit] .
+[/EN#179015/people girl] on [/EN#179017/vehicles a bicycle] going down [/EN#179019/scene a street] .
+[/EN#179015/people A woman] riding [/EN#179017/vehicles a bicycle] .

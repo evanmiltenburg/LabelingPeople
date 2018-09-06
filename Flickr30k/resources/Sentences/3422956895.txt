@@ -1,0 +1,5 @@
+[/EN#117095/people A person] wearing [/EN#117099/clothing a blue top] in [/EN#117096/other a field of bright yellow flowers] with [/EN#117098/other a white flowered tree] and [/EN#117097/people another person] in [/EN#0/notvisual the background]
+[/EN#117095/people A young girl] , with flowing [/EN#117100/bodyparts black hair] , is walking in [/EN#117096/other a beautiful field of waist high bright yellow flowers] .
+[/EN#117095/people A young girl] is standing in [/EN#117096/other a field of yellow flowers] .
+[/EN#117095/people This child] is playing in [/EN#117096/other the pretty yellow flowers] .
+[/EN#117095/people A child] running through [/EN#117096/other a field of yellow flowers] .

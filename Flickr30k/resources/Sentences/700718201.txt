@@ -1,0 +1,5 @@
+[/EN#263838/people A man] wearing [/EN#263840/clothing a yellow shirt] is checking [/EN#263839/vehicles the rear tire of his bicycle] before beginning [/EN#0/notvisual what] appears to be [/EN#263841/other a long bike trip] .
+[/EN#263838/people A man] in [/EN#263840/clothing a yellow-and-black cycling outfit] kneels against [/EN#263839/vehicles a bike] , adjusting [/EN#263844/other its mechanism] .
+[/EN#263838/people Man] in [/EN#263840/clothing yellow shirt] performing [/EN#263845/other maintenance] on [/EN#263839/vehicles Schwinn bicycle] near [/EN#263842/other a picnic table] .
+[/EN#263838/people A man] checks [/EN#263839/vehicles the rear tire of a bike] [/EN#0/notvisual which] is packed with [/EN#263843/other gear] .
+[/EN#263838/people A man] in [/EN#263840/clothing a yellow shirt] examining [/EN#263839/vehicles the wheel of his bicycle] .

@@ -1,0 +1,5 @@
+[/EN#30538/people A woman] and [/EN#30539/people her child] are resting outside of [/EN#30540/scene a McDonald 's restaurant] while eating meanwhile [/EN#30541/people a man] in [/EN#30542/clothing white] is sitting inside [/EN#30540/scene the restaurant] next to [/EN#30543/other a large window] .
+[/EN#30538/people A woman] and [/EN#30539/people a child] are outside of [/EN#30540/other a Mcdonald] 's and [/EN#0/notvisual there] 's [/EN#30541/people a man] seated inside with [/EN#30545/other a drink] .
+[/EN#30538/people A woman] and [/EN#30539/people a child] are waiting outside of [/EN#30540/scene a McDonald 's restaurant] .
+[/EN#30538/people A woman] and [/EN#30539/people child] eat and drink outside [/EN#30540/scene a McDonald 's restaurant] .
+[/EN#30546/people People] waiting outside of [/EN#30540/scene a restaurant] .

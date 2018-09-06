@@ -1,0 +1,5 @@
+[/EN#92231/people A runner] jogging on [/EN#92234/scene a city street] past [/EN#92232/other a SAMSUNG advertisement banner] .
+[/EN#92231/people A runner] in [/EN#92233/clothing a blue shirt] and [/EN#92236/clothing blue shorts] participates in [/EN#92235/other a race] .
+[/EN#92231/people A man] in [/EN#92233/clothing a blue shirt] runs under [/EN#92232/other a blue road marker] in [/EN#92235/other a race] .
+[/EN#92231/people A man] in [/EN#92233/clothing a blue shirt] passes under [/EN#92232/scene the Samsung arch] .
+[/EN#92231/people Man] running down [/EN#92234/scene a street] in [/EN#92235/other a marathon] .

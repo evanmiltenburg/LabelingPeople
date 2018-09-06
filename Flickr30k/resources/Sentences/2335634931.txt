@@ -1,0 +1,5 @@
+[/EN#42445/animals A dog] is jumping up at [/EN#42446/people a large man] [/EN#0/notvisual who] is wearing [/EN#42448/clothing jeans] and [/EN#42447/clothing a blue and yellow jacket] .
+[/EN#42445/animals A dog] biting [/EN#42446/people a man] [/EN#0/notvisual who] is falling to [/EN#0/notvisual the ground] .
+[/EN#42446/people A man] is being attacked by [/EN#42445/animals/people a German Shepherd] .
+[/EN#42445/animals Dog] jumping onto [/EN#42446/people a man] in [/EN#42447/clothing a yellow jacket] .
+[/EN#42445/animals A dog] attacking [/EN#42446/people a guy] .

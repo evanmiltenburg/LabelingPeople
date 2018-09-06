@@ -1,0 +1,5 @@
+[/EN#9036/people A crowd of people] are standing on [/EN#9038/other a train platform] are unconcerned as [/EN#9037/vehicles/scene a train] passes [/EN#0/notvisual them] by .
+[/EN#9036/people A group of people] wait at [/EN#9038/other a platform] while [/EN#9037/vehicles/scene a train] passes [/EN#0/notvisual them] .
+[/EN#9036/people A group of people] are waiting for [/EN#9037/vehicles/scene the incoming subway train] .
+[/EN#9036/people A group of business people] stand at [/EN#9034/scene a train station] .
+[/EN#9036/people Commuters] in [/EN#9034/scene a busy city] wait for [/EN#9037/vehicles/scene a train] .

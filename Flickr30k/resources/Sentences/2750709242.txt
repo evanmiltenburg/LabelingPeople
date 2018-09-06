@@ -1,0 +1,5 @@
+[/EN#70375/people A person] wearing [/EN#70376/clothing shorts] looks down at [/EN#70377/other a anvil] on top of [/EN#70378/other a wooden barrel] .
+[/EN#70375/people Person] working with [/EN#70377/other an old-fashioned anvil] [/EN#0/notvisual that] is sitting on [/EN#70378/other a barrel] .
+Using [/EN#70377/other an anvil] , [/EN#70375/people a worker] shapes [/EN#70379/other a piece of metal] .
+[/EN#70375/people Blacksmith] at working [/EN#70381/scene outdoors] .
+[/EN#70375/people A man] is hammering [/EN#70377/other an anvil] .

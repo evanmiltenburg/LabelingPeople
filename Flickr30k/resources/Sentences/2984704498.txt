@@ -1,0 +1,5 @@
+[/EN#85539/people A smartly dressed woman] wearing [/EN#85541/clothing a white jacket] is holding [/EN#85540/other a camera] .
+[/EN#85539/people A woman] in [/EN#85541/clothing a white jacket] is smiling and holding [/EN#85540/other a digital camera] .
+[/EN#85539/people A middle-aged woman] in [/EN#85541/clothing stylish clothes] , holding [/EN#85540/other a camera] .
+[/EN#85539/people A woman] dressed nicely stands happily with [/EN#85540/other her camera] .
+[/EN#85539/people a woman] holds [/EN#85540/other a camera] .

@@ -1,0 +1,5 @@
+[/EN#193633/people A person] with [/EN#193634/clothing a stocking cap] on is sitting down on [/EN#193635/other a grassy plain] with [/EN#193636/scene a mountain] behind [/EN#0/notvisual them] .
+[/EN#193633/people A person] wearing [/EN#193634/clothing a hat] sits on [/EN#193637/scene the grass] with [/EN#193636/scene a mountain] behind [/EN#0/notvisual him] .
+[/EN#193633/people Man] on [/EN#193637/scene green grass] , [/EN#193636/scene mountains] and [/EN#193638/scene semi-cloudy sky] in [/EN#0/notvisual background] .
+[/EN#193633/people A man] wearing [/EN#193634/clothing a hat] is sitting on [/EN#0/notvisual the ground] with [/EN#193639/clothing a small bag] .
+[/EN#193633/people A man] sitting cross-legged in [/EN#193637/scene a field]

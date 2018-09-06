@@ -1,0 +1,5 @@
+[/EN#183949/people A man] in [/EN#183955/clothing glasses] and [/EN#183951/clothing a striped shirt] walks down [/EN#183954/scene the street] with [/EN#183957/bodyparts one hand] in [/EN#183956/clothing his pocket] .
+[/EN#183949/people a man] with [/EN#183950/other a cigarette] in [/EN#183952/bodyparts hand] is looking at [/EN#183959/vehicles a car] in front of [/EN#0/notvisual him] .
+[/EN#183949/people A man] wearing [/EN#183951/clothing a light striped shirt] holds [/EN#183953/scene a cigarette outside] .
+[/EN#183949/people The man] in [/EN#183951/clothing the striped shirt] has [/EN#183950/other a cigarette] in [/EN#183952/bodyparts his hand] .
+[/EN#183949/people A young man] is looking and thinking at [/EN#183958/other the same time] .

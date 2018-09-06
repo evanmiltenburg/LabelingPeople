@@ -1,0 +1,5 @@
+[/EN#265004/people A person] in [/EN#265018/clothing a gray shirt] doles [/EN#265010/other a substance] into [/EN#265013/other cups] on [/EN#265005/other a green tray] while [/EN#265004/people a woman] in [/EN#265019/clothing a seafoam green sweater] on [/EN#265016/scene their left squirts] [/EN#265006/other a liquid] into [/EN#265001/other a bucket] .
+[/EN#265000/people Two women] , [/EN#265015/other one] holding [/EN#265009/other a spoon] and [/EN#265004/other the other] holding [/EN#265008/other a plastic bottle] , are preparing [/EN#265003/other food] at [/EN#265007/scene an event] .
+[/EN#265000/people Two women] measuring [/EN#265014/other ingredients] and placing [/EN#0/notvisual them] in [/EN#265001/other a bowl] .
+[/EN#265000/people Two women] preparing [/EN#265003/other food] in [/EN#265012/other bowls] .
+[/EN#265000/people Two women] prepare [/EN#265003/other food samples] .

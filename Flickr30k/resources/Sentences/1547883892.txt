@@ -1,0 +1,5 @@
+[/EN#16079/people A seated young woman] in [/EN#16080/clothing a hat] is reading at [/EN#16083/scene a coffee shop] .
+[/EN#16079/people A girl] is reading while drinking [/EN#16081/other Starbuck 's coffee] .
+[/EN#16079/people A woman] in [/EN#16080/clothing a hat] sits reading and drinking [/EN#16081/other a coffee] .
+[/EN#16079/people A young woman] sips [/EN#16081/other a coffee] and reads [/EN#16082/other a book] .
+[/EN#16079/people a woman] enjoying [/EN#16084/other her reading] at [/EN#16083/scene a coffee shop]

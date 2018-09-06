@@ -1,0 +1,5 @@
+[/EN#170920/people A man] and [/EN#170923/people woman] with [/EN#170928/bodyparts blond-hair] stand behind [/EN#170921/other a display of flowers] .
+[/EN#170925/people A woman] buying [/EN#170921/other flowers] from [/EN#170920/people a man] in [/EN#170921/scene a flower stand] .
+[/EN#170920/people A man] and [/EN#170923/people woman] [/EN#0/notvisual who] are trying to sell [/EN#170927/other flowers] .
+[/EN#170921/scene A flower stand] , where [/EN#170921/other flowers] are being sold .
+[/EN#170926/people Two people] are standing in [/EN#170921/scene a flower shop] .

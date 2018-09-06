@@ -1,0 +1,5 @@
+[/EN#147571/animals A dog] with [/EN#147572/other a frisbie] in [/EN#147575/bodyparts his mouth] is running in [/EN#147574/scene a snowy field] .
+[/EN#147571/animals A brown dog] is carrying [/EN#147572/other a toy] in [/EN#147573/scene the snow] .
+[/EN#147571/animals A dog] running with [/EN#147577/other something] in [/EN#147575/bodyparts its mouth]
+[/EN#147571/animals Tan dog] with [/EN#147572/other a toy] running in [/EN#147573/scene the snow] .
+[/EN#147571/animals a dog] runs across [/EN#147573/scene the snow] .

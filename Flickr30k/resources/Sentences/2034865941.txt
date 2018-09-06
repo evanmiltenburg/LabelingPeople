@@ -1,0 +1,5 @@
+[/EN#25321/people A woman] wearing [/EN#25331/clothing a blue shirt] and holding [/EN#25322/people a baby] looks down at [/EN#25323/people a little girl] wearing [/EN#25332/clothing a lime green shirt] and [/EN#25333/clothing pink shoes] .
+[/EN#25321/people A mom] with [/EN#25325/people her baby] on [/EN#25334/bodyparts arms] , trying to tell [/EN#25329/other something] to [/EN#25323/people her other daughter] on [/EN#25327/scene the sidewalk] .
+[/EN#25321/people A mother] holds [/EN#25322/people here baby] on [/EN#25327/scene a sidewalk] with [/EN#25323/people her young daughter] at [/EN#0/notvisual her side] .
+[/EN#25321/people A woman] is holding [/EN#25322/people a baby] while [/EN#25323/people another child] stands by [/EN#0/notvisual her side] .
+[/EN#25321/people A mother] holds [/EN#25322/people one child] and watches as [/EN#25330/other the other] stares around .

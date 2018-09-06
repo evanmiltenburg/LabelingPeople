@@ -1,0 +1,5 @@
+[/EN#30824/people This man] is sitting on [/EN#30827/scene the floor] holding up and showing [/EN#30826/animals the bottom of a teddy bear] .
+[/EN#30824/people A boy] in [/EN#30825/clothing an olive shirt] is showing [/EN#30826/animals the bottom side of a blue stuffed animal] .
+[/EN#30824/people A man] wearing [/EN#30825/clothing dark green shirt] and [/EN#30830/clothing sweatpants] is showing off [/EN#30826/other a stuffed toy]
+[/EN#0/notvisual There] is [/EN#30824/people a man] with [/EN#30826/animals a stuffed animal] sitting on [/EN#30828/other a blue rug] .
+[/EN#30824/people A man] sitting on [/EN#30827/scene the floor] holding [/EN#30826/other a toy] .

@@ -1,0 +1,5 @@
+[/EN#285054/people A person] is sliding down [/EN#285055/scene a slide] with [/EN#285057/clothing a coat] , [/EN#285057/clothing jacket] , [/EN#285060/clothing gloves] , and [/EN#285059/clothing boots] on .
+[/EN#285054/people Child] sliding down [/EN#285055/clothing an orange] and [/EN#285055/scene blue slide] in [/EN#285056/other the winter] .
+[/EN#285054/people A boy] in [/EN#285063/clothing winter clothes] slides down [/EN#285055/scene an orange slide] .
+[/EN#285054/people A child] in [/EN#285055/other snow gear] sliding down [/EN#285055/scene a slide] in [/EN#285056/other winter] .
+[/EN#285054/people A child] slides down [/EN#285055/scene an orange slide] .

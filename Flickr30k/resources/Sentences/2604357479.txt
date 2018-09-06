@@ -1,0 +1,5 @@
+[/EN#61044/people A man] in [/EN#61045/clothing a t-shirt] is stirring [/EN#61046/other something] in [/EN#61047/other a pot] [/EN#0/notvisual which] is on [/EN#61048/other a counter] near [/EN#61049/other a microwave oven] .
+[/EN#61044/people A man] wearing [/EN#61045/clothing a white shirt] with [/EN#61050/clothing glasses] stirring [/EN#61046/other food] on [/EN#61051/other the stove] .
+[/EN#61044/people Guy] with [/EN#61045/clothing white shirt] stirring [/EN#61046/other something] in [/EN#61047/other a pot] on [/EN#61051/other the stove] .
+[/EN#61044/people Guy] in [/EN#61045/clothing white shirt] and [/EN#61050/clothing glasses] cooking [/EN#61046/other food] at [/EN#61052/scene home] .
+[/EN#61044/people A young man] cooks [/EN#61046/other something] in [/EN#61053/scene the kitchen] .

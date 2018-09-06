@@ -1,0 +1,5 @@
+[/EN#263029/people Three people] rock climbing in matching [/EN#263032/clothing clothes] beside [/EN#263031/scene a small waterfall] .
+[/EN#263029/people Three men] in matching [/EN#263032/clothing outfits] climb [/EN#263030/other a rock wall] next to [/EN#263031/scene a waterfall] .
+[/EN#263029/people Three people] are climbing [/EN#263030/other rocks] near [/EN#263031/scene a small waterfall] .
+[/EN#263029/people Three men] climb [/EN#263033/bodyparts a natural waterfall rock face] .
+[/EN#263029/people Three climbers] on [/EN#263030/other rocks] near [/EN#263031/scene waterfall] .

@@ -1,0 +1,5 @@
+[/EN#128538/people A man] in [/EN#128540/clothing black pants] climbing [/EN#128539/other a rock wall] .
+[/EN#128538/people The man] is scaling [/EN#128539/other a large brown boulder] .
+[/EN#128538/people Man] without [/EN#128541/clothing shirt] climbing [/EN#128539/bodyparts rock face] .
+[/EN#128538/people A man] climbing up on [/EN#128539/other a rock ledge] .
+[/EN#128538/people A man] climbs [/EN#128539/other some rocks] .

@@ -1,0 +1,5 @@
+[/EN#119900/people Man] wearing [/EN#119909/scene pass] on [/EN#119905/other a lanyard] and standing in [/EN#119901/people a crowd of people] .
+[/EN#119900/people A man] in [/EN#119903/clothing a gray shirt] is standing in [/EN#119902/scene a crowded street] at [/EN#119908/scene night] .
+[/EN#119900/people A man] with [/EN#119907/clothing glasses] and [/EN#119903/clothing a gray shirt] is on [/EN#119902/scene a crowded street] .
+[/EN#119900/people One man] with [/EN#119910/bodyparts his eyes] closed standing in [/EN#119901/people a crowd] .
+[/EN#119900/people A man] stands in [/EN#119901/people a crowd] holding [/EN#119906/other a white object] .

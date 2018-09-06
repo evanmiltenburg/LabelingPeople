@@ -1,0 +1,5 @@
+[/EN#80648/people Three men] in [/EN#80654/clothing black jackets] and [/EN#80650/clothing white helmets] hold onto [/EN#80652/other a silver handrail] next to [/EN#80649/scene a busy street] .
+[/EN#80647/people People] walk and gather in [/EN#80649/scene the street] outside of [/EN#80653/scene a white building] at [/EN#80651/scene night] .
+[/EN#80647/people People] wearing [/EN#80650/clothing white helmets] , looking into [/EN#80649/scene a crowded street corner] .
+[/EN#80647/scene A bunch of people outdoors] and [/EN#0/notvisual some of them] are wearing [/EN#80650/clothing hard hats] .
+[/EN#80648/people Men] in [/EN#80650/clothing helmets] walk down [/EN#80649/scene a crowded street] at [/EN#80651/scene night] .

@@ -1,0 +1,5 @@
+[/EN#112114/animals A black-striped cat] is looking at [/EN#112117/other a cord] [/EN#0/notvisual it] has pinned with [/EN#112115/bodyparts a paw] .
+[/EN#112114/animals Closeup image of a cat] licking [/EN#112119/bodyparts his front leg] .
+[/EN#112114/animals A tabby cat] licking [/EN#112116/bodyparts its left front leg] .
+[/EN#112114/animals A cat] licks [/EN#112114/other itself] on [/EN#112121/scene a tile floor] .
+[/EN#112114/animals A striped cat] is on [/EN#112118/other the pathway] .

@@ -1,0 +1,5 @@
+[/EN#22126/people A woman] wearing [/EN#22131/bodyparts heavy makeup] stands in front of [/EN#22127/scene a store] with [/EN#22129/other a neon sign] saying , " [/EN#22129/other Red Light] . "
+[/EN#22126/people a woman] wearing [/EN#22131/bodyparts heavy makeup] and [/EN#22130/clothing a pink jacket] is walking past [/EN#22128/scene a clothing shop] at [/EN#22136/scene night] .
+[/EN#22126/people A person] wearing [/EN#22130/clothing a pink jacket] [/EN#0/notvisual who] has [/EN#22131/bodyparts lots of makeup] on [/EN#22137/other walks] down [/EN#22133/scene a street] .
+[/EN#22126/people An upset woman] with [/EN#22131/bodyparts her makeup] streaming down [/EN#22134/bodyparts her face] from [/EN#22135/scene her tears] .
+[/EN#22126/people A woman] with [/EN#22131/bodyparts heavy makeup] is standing next to [/EN#22129/other a red light sign] .

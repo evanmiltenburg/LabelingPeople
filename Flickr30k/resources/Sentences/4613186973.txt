@@ -1,0 +1,5 @@
+[/EN#182819/people A small girl] standing on [/EN#182820/other a chair] in [/EN#182823/scene a restaurant] fiddles with [/EN#182821/other a large machine] .
+[/EN#182819/people A girl] in [/EN#182822/clothing a pink shirt] is standing on [/EN#182820/other a chair] and inspecting [/EN#182821/other a drink machine] .
+[/EN#182819/people A girl] in [/EN#182822/clothing a pink shirt] and [/EN#182825/clothing jeans] standing on [/EN#182820/other a chair] in [/EN#182823/scene a restaurant] .
+[/EN#182819/people A woman] in [/EN#182822/clothing a pink shirt] is making [/EN#182826/other orange juice] in [/EN#182823/scene a restaurant] .
+[/EN#182819/people A woman] is attending to [/EN#182821/other an orange juice machine] .

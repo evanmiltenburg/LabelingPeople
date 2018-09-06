@@ -1,0 +1,5 @@
+[/EN#15349/animals Two puppies] are wrestling on [/EN#15350/scene green grass] .
+[/EN#15351/animals A black dog] plays with [/EN#15352/animals another animal] .
+[/EN#15349/animals Two puppies] wrestle with [/EN#0/notvisual each other]
+[/EN#15349/animals Two dogs] wrestle in [/EN#0/notvisual the ground] .
+[/EN#15349/animals Two dogs] wrestle in [/EN#15350/scene the grass] .

@@ -1,0 +1,5 @@
+[/EN#15884/people Someone] is looking out [/EN#15891/other their window] watching [/EN#15882/people the mailman] deliver [/EN#15885/other their mail] and [/EN#15890/other drive] on to [/EN#15887/scene the next house] .
+[/EN#15883/people A middle-aged Caucasian man] is driving [/EN#15888/other a postal van] .
+[/EN#15882/people A mailman] in [/EN#15888/vehicles his truck] [/EN#15882/other whom] is in front of [/EN#15886/scene a gate] .
+[/EN#15883/people A man] wearing [/EN#15889/scene a blue tee] is driving [/EN#15888/other a white van] .
+[/EN#15882/people A mailman] delivering [/EN#15885/other the days mail] .

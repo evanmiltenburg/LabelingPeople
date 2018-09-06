@@ -1,0 +1,5 @@
+[/EN#137581/people A man] wearing [/EN#137586/clothing glasses] and holding [/EN#137583/other a cup of tea] in [/EN#137585/bodyparts his left hand] is biting on [/EN#137582/other some food] that [/EN#0/notvisual he] is holding in [/EN#137591/bodyparts his right hand] .
+[/EN#137581/people A man] wearing [/EN#137588/clothing a yellow shirt] and [/EN#137586/clothing glasses] in front of [/EN#137587/other a wall of drawings bites] into [/EN#137582/other his food] while holding [/EN#137583/other a full mug] .
+[/EN#137581/people A man] with [/EN#137590/bodyparts brown hair] and [/EN#137586/clothing glasses] having [/EN#137583/other a cup of coffee] and eating [/EN#137582/other something crunchy] .
+[/EN#137581/people Man] with [/EN#137584/bodyparts dark hair] and [/EN#137589/bodyparts beard] eating [/EN#137582/other a crunchy food item] drinking [/EN#137583/other coffee] .
+[/EN#137581/people Scruffy man] with [/EN#137592/bodyparts jagged teeth] holding [/EN#137583/other coffee] and eating [/EN#137582/other a burnt pastry] .

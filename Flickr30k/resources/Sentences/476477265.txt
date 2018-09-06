@@ -1,0 +1,5 @@
+[/EN#200640/people The woman] in [/EN#200648/clothing the blue skirt] is sleeping on [/EN#200641/other a cardboard box] under [/EN#200646/other a picture of Mary] and [/EN#200647/other baby Jesus] .
+[/EN#200640/people a woman] sleeping on [/EN#200641/other cardboard] under [/EN#200645/other an icon] against [/EN#200642/other the church wall]
+[/EN#200640/people A woman] asleep on [/EN#0/notvisual the ground] on [/EN#200641/other a mat] in front of [/EN#200642/scene a shrine] .
+[/EN#200640/people a homeless women] is sleeping in front of [/EN#200644/other an altar] .
+[/EN#200640/people A homeless women] sleeps under [/EN#200642/scene a church] .

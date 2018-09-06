@@ -1,0 +1,5 @@
+[/EN#6741/people A man] in [/EN#6744/clothing a black shirt] and [/EN#6745/clothing blue pants] jumps over [/EN#6742/other a stack of wooden boxes] .
+[/EN#6741/people A male gymnast] leaps over [/EN#6742/other a stack of wooden platforms] .
+[/EN#6741/people A man] is jumping over [/EN#6742/other a tall object] in [/EN#6746/scene a gymnasium] .
+[/EN#6741/people A man] is in [/EN#6743/other mid-leap] over [/EN#6742/other a stack of wooden steps] .
+[/EN#6741/people A man] is jumping over [/EN#6742/other some gymnastics equipment] .

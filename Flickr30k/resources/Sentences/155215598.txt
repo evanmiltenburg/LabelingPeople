@@ -1,0 +1,5 @@
+[/EN#16165/people Two people] in [/EN#16166/clothing green jackets] are talking to [/EN#16167/people a young man] about [/EN#0/notvisual him] playing [/EN#16168/instruments a dulcimer] .
+[/EN#16167/people A man] in [/EN#16169/clothing a sweater] is conversing with [/EN#16170/people a man] and [/EN#16171/people a woman] [/EN#0/notvisual both] wearing [/EN#16166/clothing green] .
+[/EN#16165/people Two people] talking to [/EN#16167/people a man] about [/EN#16168/instruments the instrument] [/EN#0/notvisual he] is playing .
+[/EN#16165/people A couple] talks to [/EN#16167/people a man] sitting with [/EN#16168/instruments a hammer dulcimer] .
+[/EN#16167/people A street performer] smiles at [/EN#16165/people two potential customers] .

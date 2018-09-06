@@ -1,0 +1,5 @@
+[/EN#60860/scene A dimly lit room] with [/EN#60854/people several individuals] including [/EN#60855/people a young man] and [/EN#60856/people woman] holding [/EN#60857/bodyparts hands] across [/EN#60858/other a table] .
+[/EN#60855/people A man] and [/EN#60856/people woman] are sitting at [/EN#60858/other a restaurant table] holding [/EN#60857/bodyparts hands] .
+[/EN#60859/people A couple] is sitting in [/EN#60860/scene a restaurant] holding [/EN#60857/bodyparts hands] .
+[/EN#60859/people A couple] in [/EN#60860/scene a restaurant] are holding [/EN#60857/bodyparts hands] .
+[/EN#60859/people A couple] holding [/EN#60857/bodyparts hands] across [/EN#60858/other a table] .

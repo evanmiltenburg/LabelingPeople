@@ -1,0 +1,5 @@
+[/EN#42303/people The man] climbing [/EN#42305/other the rock] is wearing [/EN#42304/clothing a blue helmet] .
+[/EN#42303/people A man] wearing [/EN#42304/clothing a blue helmet] is rock climbing .
+[/EN#42303/people A rock climber] scaling [/EN#42305/other a stone wall] .
+[/EN#42303/people A man] climbing [/EN#42305/bodyparts a rock face]
+[/EN#42303/people A man] climbs up [/EN#42305/other a rock] .

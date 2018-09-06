@@ -1,0 +1,5 @@
+[/EN#115051/animals Small brown dog] jumping out of [/EN#115052/scene the water] .
+[/EN#115051/animals Wet brown dog] , jumping out of [/EN#115052/scene the water] .
+[/EN#115051/animals A small tan dog] jumping out of [/EN#115052/scene the water]
+[/EN#115051/animals The fuzzy dog] runs through [/EN#115052/scene the water] .
+[/EN#115051/animals A blurry dog] jumps through [/EN#115052/scene water] .

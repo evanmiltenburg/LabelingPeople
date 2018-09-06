@@ -1,0 +1,5 @@
+[/EN#284772/people A young man] , in [/EN#284777/clothing baggy jeans] and [/EN#284776/clothing a white t-shirt] is using [/EN#284778/other a hammer] on [/EN#284773/other a door frame] .
+[/EN#284772/people A man] in [/EN#284777/clothing blue jeans] and [/EN#284776/clothing a white t-shirt] is working on [/EN#284779/other a window] with [/EN#284773/people rail guards] .
+[/EN#284772/people A young man] does [/EN#284780/other improvements] on [/EN#284774/scene an older building] .
+[/EN#284772/people A guy] is working on [/EN#284775/scene the outside of a town home] .
+[/EN#284772/people Young man] works on [/EN#284773/other window frame] .

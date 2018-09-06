@@ -1,0 +1,5 @@
+[/EN#106490/people People] sitting on [/EN#106492/vehicles/scene a boat] listening to [/EN#106491/people two males] play [/EN#106493/instruments guitar] .
+[/EN#106491/people two men] play [/EN#106494/instruments guitar] together on [/EN#106492/vehicles/scene a boat] with [/EN#106495/people their friends] .
+[/EN#106491/people Two men] play [/EN#106493/instruments guitar] among [/EN#106490/people a group of people] on [/EN#106492/vehicles/scene a boat] .
+[/EN#106490/people People] listen to [/EN#106491/people two men] play [/EN#106494/instruments guitar] on [/EN#106492/vehicles/scene a boat] .
+[/EN#106491/people Two men] play [/EN#106493/instruments the guitar] while on [/EN#106492/vehicles/scene a boat] .

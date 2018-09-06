@@ -1,0 +1,5 @@
+[/EN#160495/people A man] wearing [/EN#160496/clothing a blue apron] in [/EN#160499/scene a room] filled with [/EN#160500/other equipment] performs [/EN#160498/other a blurred action] with [/EN#0/notvisual what] seems to be [/EN#160503/people a pitcher] .
+[/EN#160495/people A man] wearing [/EN#160496/clothing an apron] and [/EN#160502/clothing a gray shirt] is working in [/EN#160499/scene a white tiled area] with [/EN#160500/other some equipment] .
+[/EN#160495/people A man] wearing [/EN#160496/clothing an apron] works in [/EN#160497/other a crude] , [/EN#160499/animals/scene makeshift lab] .
+[/EN#160495/people A man] in [/EN#160496/clothing an apron] is using [/EN#160500/other shop equipment] .
+[/EN#160501/people Two men] cleaning [/EN#160504/other dishes] .

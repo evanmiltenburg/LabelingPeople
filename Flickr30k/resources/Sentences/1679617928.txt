@@ -1,0 +1,5 @@
+[/EN#18632/animals A basset hound] is leashed to [/EN#18633/vehicles the rearview mirror of a yellow and white vehicle]
+[/EN#18632/animals a dog] with [/EN#18637/clothing black , white , and brown] coloring is leashed up to [/EN#18633/other a mirror]
+[/EN#18632/animals A dog] , lying down [/EN#18634/other , tethered] to [/EN#18633/vehicles/scene the side mirror of a yellow VW bus] .
+[/EN#18632/animals The black and white dog] is tethered next to [/EN#18635/vehicles a yellow car] .
+[/EN#18632/animals a black and white dog] tied to [/EN#18635/other a yellow and white van]

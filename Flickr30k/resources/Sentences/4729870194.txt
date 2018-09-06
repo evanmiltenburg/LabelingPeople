@@ -1,0 +1,5 @@
+[/EN#196337/people Men] fishing on [/EN#196339/scene a village pier] near [/EN#196341/scene downtown] .
+[/EN#196336/people A man] in [/EN#196340/clothing a hat] fishing along [/EN#196339/scene a pier] .
+[/EN#0/notvisual There] is [/EN#196336/people a man] fishing on [/EN#196338/scene a bridge] .
+[/EN#196336/people Man] in [/EN#196340/clothing hat] fishing with [/EN#196342/other large rod] .
+[/EN#196337/people People] fishing off [/EN#196339/scene a pier] .

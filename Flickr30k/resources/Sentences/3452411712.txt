@@ -1,0 +1,5 @@
+[/EN#119249/people A boy] pulls back [/EN#119251/other a swing] with [/EN#119250/people a little girl] on [/EN#0/notvisual it]
+[/EN#119249/people A boy] helps to push [/EN#119250/people a young girl] on [/EN#119251/other the swing] .
+[/EN#119249/people The boy] is pushing [/EN#119250/people a girl] on [/EN#119251/scene a swing outside] .
+[/EN#119249/people A child] pushes [/EN#119250/people another child] on [/EN#119251/other a swing] .
+[/EN#119249/people A boy] pushes [/EN#119250/people a girl] on [/EN#119251/other a swing] .

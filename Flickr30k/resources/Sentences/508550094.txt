@@ -1,0 +1,5 @@
+[/EN#228505/people A guy] in [/EN#228507/clothing a black shirt] coming through [/EN#228508/other the door] with [/EN#228510/other two bags of ice] .
+[/EN#228505/people A man] wearing [/EN#228507/clothing a black shirt] is carrying [/EN#228506/other a bag of ice] in [/EN#228511/bodyparts each hand] .
+[/EN#228505/people A man] carrying [/EN#228506/clothing bags] is walking through [/EN#228508/other a door] into [/EN#228509/scene a house] .
+[/EN#228505/people A man] holding [/EN#228506/other two bags of ice enters] [/EN#228509/scene a house] .
+[/EN#228505/people The man] is holding [/EN#228510/other two heavy bags of ice] .

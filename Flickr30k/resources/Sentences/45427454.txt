@@ -1,0 +1,5 @@
+[/EN#176663/people A man] in [/EN#176665/clothing a yellow shirt] fixes [/EN#176666/other shingles] on [/EN#176664/scene a roof] with [/EN#176667/other a hammer] .
+[/EN#176663/people A man] with [/EN#176665/clothing a yellow shirt] and [/EN#176668/clothing blue jeans] re [/EN#176666/other shingles] [/EN#176664/scene a roof] .
+[/EN#176663/people A man] in [/EN#176665/clothing a yellow shirt] is on [/EN#176664/scene a roof] hammering in [/EN#176666/other shingles] .
+[/EN#176663/people A man] in [/EN#176665/clothing a yellow shirt] re-shingles [/EN#176664/scene a roof] .
+[/EN#176663/people A man] is repairing [/EN#176666/other roof shingles] .

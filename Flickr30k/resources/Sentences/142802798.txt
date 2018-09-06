@@ -1,0 +1,5 @@
+[/EN#12531/people a man] in [/EN#12532/clothing a green t-shirt] is skateboarding along [/EN#12533/other a graffiti covered wall] in front of [/EN#12534/other a blue door] .
+[/EN#12531/people A boy] in [/EN#12532/clothing a green shirt] on [/EN#12535/other a skateboard] on [/EN#12533/other a stone wall] with [/EN#12533/other graffiti]
+[/EN#12531/people A skateboarder] doing [/EN#0/notvisual a trick] on [/EN#12533/other a stone wall] .
+[/EN#12531/people The boys] rides [/EN#12535/other his skateboard] up [/EN#12533/other the wall] .
+[/EN#12531/people A skater] rides [/EN#12535/other his board] on [/EN#12533/scene a ramp] .

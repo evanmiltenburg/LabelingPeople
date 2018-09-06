@@ -1,0 +1,5 @@
+[/EN#32638/people a single person] squated down at [/EN#32639/scene the edge of a pier] overlooking [/EN#32640/scene a lake]
+[/EN#32638/people A person] with [/EN#32641/clothing a red backpack] squatting at [/EN#32639/scene the end of a dock] .
+[/EN#32638/people A person] is squatting at [/EN#32639/scene the end of a pier] near [/EN#32640/scene a lake] .
+[/EN#32638/people A person] crouches at [/EN#32639/scene the end of a dock] on [/EN#32640/scene a lake] .
+[/EN#0/notvisual I] am squatting on [/EN#32639/scene a dock] , looking into [/EN#32640/scene a lake] .

@@ -1,0 +1,5 @@
+[/EN#233807/people A singer] with [/EN#233815/instruments a guitar] sings into [/EN#233812/other a microphone] on [/EN#233808/scene stage] while [/EN#233809/people the drummer] sits behind [/EN#0/notvisual him] .
+[/EN#233807/people A guitarist] and [/EN#233809/people drummer] appear on [/EN#233808/scene stage] in front of [/EN#233811/other a giant screen] .
+[/EN#233808/scene A red lit stage] with [/EN#233807/people a guitarist] and [/EN#233809/people a drummer] playing .
+[/EN#233806/people A rock group] performing for [/EN#233810/people a crowd] , finishing [/EN#233813/other a song]
+[/EN#233806/people A band] is playing [/EN#233814/other music] in [/EN#233808/scene a light filled stage] .

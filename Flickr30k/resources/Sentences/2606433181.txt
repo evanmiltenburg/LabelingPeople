@@ -1,0 +1,5 @@
+[/EN#61198/animals Two white dogs] run [/EN#0/notvisual side] by [/EN#0/notvisual side] in [/EN#61199/scene green grass] .
+[/EN#61198/animals Two white dogs] run on [/EN#61199/scene the grass] next to [/EN#61200/scene a road] .
+[/EN#61198/animals Two pale dogs] run in [/EN#61199/scene grass] .
+[/EN#61198/animals two dogs] running in [/EN#61199/scene grass]
+[/EN#61198/animals Two dogs] play in [/EN#61199/scene grass] .

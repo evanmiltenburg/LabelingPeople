@@ -1,0 +1,5 @@
+[/EN#52514/animals A white dog] is going for [/EN#52514/other a walk] through [/EN#52515/scene the desert] with [/EN#52516/people its owner] .
+[/EN#52514/animals A dog] walks down [/EN#52517/scene the dirt road] as [/EN#52516/people a person] follows .
+[/EN#52514/animals Dog] in [/EN#52515/scene desert area] with [/EN#52516/people distant man] in [/EN#0/notvisual background] .
+[/EN#52514/animals A yellow dog] is walking along [/EN#52515/scene a mountain trail]
+[/EN#52514/animals A tan dog] walks ahead of [/EN#52516/people a man] in [/EN#52515/scene a dry area] .

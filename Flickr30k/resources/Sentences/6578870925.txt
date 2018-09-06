@@ -1,0 +1,5 @@
+[/EN#255828/people A man] jumps from [/EN#255832/other a concrete slab] to [/EN#255835/scene the surface] below as [/EN#255831/people someone] on [/EN#255833/other the lower level] ignores [/EN#0/notvisual him] .
+[/EN#255828/people A skateboarder] jumps off [/EN#255829/other a building 's raised platform] as [/EN#255831/people another young man] films [/EN#0/notvisual him] .
+[/EN#255828/people One man] in [/EN#255837/clothing a red sweatshirt] skateboarding while [/EN#255831/people a man] in [/EN#255838/clothing a blue sweatshirt] films [/EN#0/notvisual him] .
+[/EN#255828/people A skateboarder] does [/EN#0/notvisual a trick] off [/EN#255829/scene a dock] while [/EN#255831/people a photographer] documents [/EN#0/notvisual it] .
+[/EN#255828/people A skateboarder] makes [/EN#0/notvisual a jump] while [/EN#255831/other someone films] [/EN#0/notvisual it] .

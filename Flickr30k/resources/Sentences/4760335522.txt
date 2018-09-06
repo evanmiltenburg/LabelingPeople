@@ -1,0 +1,5 @@
+[/EN#199912/people Two people] are walking in [/EN#0/notvisual opposite directions] in front of [/EN#199914/scene the same store] [/EN#0/notvisual that] says [/EN#0/notvisual there] is [/EN#199909/other a 50 % sale] .
+[/EN#199911/people People] are walking , sitting , and standing [/EN#199914/scene outside of a department store] .
+[/EN#199912/people People] walk in front of [/EN#199914/scene a store] [/EN#0/notvisual that] is having [/EN#199909/other a 50 % SALE] .
+[/EN#199910/people Man] and [/EN#199917/people women] walk in front of [/EN#199914/scene store] with [/EN#199909/other 50 %] off [/EN#199915/other sale] .
+[/EN#199912/people Pedestrians] walking past [/EN#199909/other a 50 %] off [/EN#199915/other sale] .

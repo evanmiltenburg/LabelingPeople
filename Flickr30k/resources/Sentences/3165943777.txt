@@ -1,0 +1,5 @@
+[/EN#97676/people Children] playing on [/EN#97677/scene a playground] sliding down [/EN#97678/scene a slide] .
+[/EN#97676/people Two children] in [/EN#97680/clothing winter clothes] playing on [/EN#97678/scene a slide] .
+[/EN#97676/people Two boys] are playing on [/EN#97678/scene the slide] at [/EN#97677/scene a playground]
+[/EN#0/notvisual There] are [/EN#97676/people two children] playing in [/EN#97677/scene a playground] .
+[/EN#97676/people Two boys] playing on [/EN#97678/scene the slide] in [/EN#97677/scene a playground] .

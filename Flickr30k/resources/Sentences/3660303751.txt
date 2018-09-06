@@ -1,0 +1,5 @@
+[/EN#134887/people A man] wearing [/EN#134892/clothing blue jeans] and [/EN#134888/clothing blue shirt] sitting on [/EN#134890/other a windowing] washing [/EN#134894/other swing] washing [/EN#134890/other a window] .
+[/EN#134887/people A man] in [/EN#134892/clothing blue jeans] and [/EN#134888/clothing a blue shirt] is washing [/EN#134890/other the exterior of a window] .
+[/EN#134887/people Man] in [/EN#134888/clothing blue shirt] wearing [/EN#134889/clothing a harness] while cleaning [/EN#134890/other windows] .
+[/EN#134887/people A man] in [/EN#134888/clothing a blue shirt] cleaning [/EN#134890/other windows] from [/EN#134889/clothing a harness] .
+[/EN#134887/people A man] is sitting in [/EN#134889/clothing a harness] and washing [/EN#134890/other a window] .

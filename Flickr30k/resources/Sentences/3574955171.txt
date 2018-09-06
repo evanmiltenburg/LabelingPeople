@@ -1,0 +1,5 @@
+[/EN#128734/people A man] in [/EN#128738/clothing a brown shirt] with [/EN#128737/clothing glasses] talking with [/EN#128735/people a woman] in [/EN#128739/clothing a white shirt] .
+[/EN#128735/people Woman] smiling and looking [/EN#128734/people a man] while [/EN#0/notvisual he] is looking in [/EN#128736/other a book] smiling .
+[/EN#128735/people A woman] and [/EN#128734/people a man] with [/EN#128737/clothing glasses] study [/EN#128736/other an open notebook] .
+[/EN#128734/people A man] and [/EN#128735/people women] are working with [/EN#0/notvisual each other]
+[/EN#128735/people A woman] and [/EN#128734/people man] talk about [/EN#128736/other something] .

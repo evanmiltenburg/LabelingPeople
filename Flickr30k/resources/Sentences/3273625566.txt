@@ -1,0 +1,5 @@
+[/EN#106098/animals A black greyhound] in [/EN#106106/clothing white and green] coming up on [/EN#106098/animals the rear of a white greyhound] in [/EN#106096/clothing yellow and black] in [/EN#106101/other a race] .
+[/EN#106100/animals The racing dog] has [/EN#106103/clothing a muzzle] and is wearing [/EN#106096/clothing striped jersey] [/EN#106097/other # 8] .
+[/EN#106098/animals The greyhound] is running in [/EN#106101/other a race] .
+[/EN#106100/animals Racing dog] with [/EN#106096/other yellow number] [/EN#106096/clothing 8 vest]
+[/EN#106098/animals A greyhound] running on [/EN#106104/scene a track] .

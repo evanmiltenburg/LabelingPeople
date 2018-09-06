@@ -1,0 +1,5 @@
+[/EN#143731/people An older man] is standing by [/EN#143732/scene a tarnished bronze post] while [/EN#143734/scene his dog laps water] .
+[/EN#143731/people A man] wearing [/EN#143735/clothing a suit] is walking [/EN#143730/animals his dog] by [/EN#143732/scene a green streetlight post] .
+[/EN#143731/people A white-haired man] walking [/EN#143730/animals dog] stopped at [/EN#143732/scene a lamp post] .
+[/EN#143731/people A male] is walking [/EN#143730/animals his dog] down [/EN#143733/scene the street] .
+[/EN#143730/animals A dog] drinks from [/EN#143736/other the gutter] .

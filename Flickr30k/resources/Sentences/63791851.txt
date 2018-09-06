@@ -1,0 +1,5 @@
+[/EN#253716/people A shirtless man] sleeps on [/EN#253718/scene the sidewalk] next to [/EN#253717/scene a building] .
+[/EN#253716/people A man] without [/EN#253719/clothing a shirt] on is laying on [/EN#253718/scene the sidewalk] .
+[/EN#0/notvisual There] is [/EN#253716/people a homeless man] outside [/EN#253717/scene this building] .
+[/EN#253716/people A homeless man] asleep on [/EN#253718/scene a sidewalk] .
+[/EN#253716/people A shirtless man] lies on [/EN#253718/scene the street] .

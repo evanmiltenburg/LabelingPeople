@@ -1,0 +1,5 @@
+[/EN#55419/people A young girl] is standing in [/EN#55421/scene a field of grass] with [/EN#55420/clothing a flag printed hat] on [/EN#55422/bodyparts her head] .
+[/EN#55420/clothing American hat] is with [/EN#55423/other blue stars] and [/EN#55424/clothing red stripes] , looks pretty on [/EN#55419/people this girl] .
+[/EN#0/notvisual There] is [/EN#55419/people a girl] wearing [/EN#55420/clothing an American flag hat] standing in [/EN#55421/scene a field] .
+[/EN#55419/people A little girl] is wearing [/EN#55420/clothing a large American flag hat] in [/EN#55421/scene a field] .
+[/EN#55419/people A little girl] is wearing [/EN#55420/clothing USA flag cap] .

@@ -1,0 +1,5 @@
+[/EN#237434/people A man] wearing [/EN#237436/clothing a red t-shirt] sweeps [/EN#237437/scene the sidewalk] in front of [/EN#237435/scene a brick building] .
+[/EN#237434/people A man] sweeps [/EN#237437/scene a sidewalk] outside of [/EN#237435/scene a brick building] during [/EN#237440/scene the day] .
+[/EN#237434/people A person] is sweeping off [/EN#237437/scene a sidewalk] in [/EN#237439/scene an urban area] .
+[/EN#237434/people A shopkeeper] sweeps [/EN#237437/scene the front of his store] .
+[/EN#237434/people A man] in [/EN#237436/clothing a red shirt] sweeping [/EN#237437/scene the sidewalk] .

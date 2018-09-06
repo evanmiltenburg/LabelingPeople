@@ -1,0 +1,5 @@
+[/EN#227834/people A man] is holding up [/EN#227836/other a stick] by [/EN#227835/scene a breaking wave] in [/EN#227835/scene the ocean] .
+[/EN#227834/people A man] looks out over [/EN#227835/scene the water] with [/EN#227836/other an object] in [/EN#227838/bodyparts his hand] .
+[/EN#0/notvisual There] is [/EN#227834/people a fisherman] standing in front of [/EN#227835/scene a large wave] .
+[/EN#227834/people A man] fishes near [/EN#227835/scene some white waves] .
+[/EN#227834/people Man] fishes in [/EN#227835/scene ocean] .

@@ -1,0 +1,5 @@
+[/EN#95803/people a woman] with [/EN#95805/clothing a pink bag] is sitting on [/EN#95808/other a stone ledge] with [/EN#95804/other a basket]
+[/EN#95803/people A lady] with [/EN#95804/other a basket] and [/EN#95805/clothing a pink bag] sitting outside [/EN#95809/other needling] .
+[/EN#95803/people A woman] is making [/EN#95804/other a basket] out of [/EN#95810/other straw] .
+[/EN#95803/people A woman] is seated and sewing [/EN#95811/other textiles] .
+[/EN#95803/people A woman] in [/EN#95807/clothing a dress] doing [/EN#95804/other a craft] .

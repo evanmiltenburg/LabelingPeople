@@ -1,0 +1,5 @@
+[/EN#282246/people A man] in [/EN#282249/clothing a yellow shirt] walking down [/EN#282248/scene the street] with [/EN#282251/clothing a bag] in [/EN#282254/bodyparts his hands] .
+[/EN#282247/people Two people] are walking past [/EN#282252/scene an industrial building] .
+[/EN#282250/other two red phones] behind [/EN#282246/people a man] in [/EN#282249/clothing a yellow shirt]
+[/EN#282246/people A man] and [/EN#282253/people a woman] walk past [/EN#282250/other red payphones] .
+[/EN#282247/people Two adults] walking on [/EN#282248/scene the street] .

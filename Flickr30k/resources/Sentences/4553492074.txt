@@ -1,0 +1,5 @@
+[/EN#177794/people A bearded young man] wearing [/EN#177796/clothing a t-shirt] and [/EN#177798/clothing jeans] is reading [/EN#177795/other a book] at [/EN#177799/other an outdoor cafe]
+[/EN#177794/people A man] is sitting outside at [/EN#177797/other a table] and [/EN#177802/clothing his backpack] is next to [/EN#0/notvisual him] on [/EN#0/notvisual the ground] .
+[/EN#177794/people A young man] reading in [/EN#177800/scene the street] while sitting at [/EN#177797/other a table] .
+[/EN#177794/people A man] in [/EN#177796/clothing a gray shirt] is reading [/EN#177795/other a book] at [/EN#177797/scene a table outside] .
+[/EN#177794/people A man] is sitting [/EN#177803/scene outside] wearing [/EN#177798/clothing blue pants] .

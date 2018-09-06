@@ -1,0 +1,5 @@
+[/EN#200079/people An Asian male] in [/EN#200085/clothing a blue jacket] and [/EN#200089/clothing jeans] talking with [/EN#200081/people a brown-haired girl] sitting on [/EN#200084/other the stairs] .
+[/EN#200079/people A man] and [/EN#200081/people a woman] , sitting outside on [/EN#200084/other the stairs] and talking to [/EN#0/notvisual each other] .
+[/EN#200079/people A young man] sitting on [/EN#200084/other stone steps] talking to [/EN#200081/people a young woman] wearing [/EN#200087/clothing a scarf] .
+[/EN#200079/people A man] and [/EN#200081/people woman] sit on [/EN#200084/other steps] outdoors having [/EN#200086/other a conversation] .
+[/EN#200081/people A woman] talking to [/EN#200079/people a chinese guy] on [/EN#200084/other stairs] .

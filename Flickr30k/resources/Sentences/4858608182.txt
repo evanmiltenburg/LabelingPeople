@@ -1,0 +1,5 @@
+[/EN#211812/people Two people] wearing [/EN#211815/clothing red] are standing outside of [/EN#211811/scene a beautiful oriental building] .
+[/EN#211811/scene The beautiful oriental building] is being occupied .
+[/EN#211813/people A man] off in [/EN#0/notvisual the distance] by [/EN#211811/scene a Buddhist temple] .
+[/EN#211811/scene A photo of a beautiful Asian structured house] .
+[/EN#211812/people Two people] standing outside of [/EN#211811/scene a Temple] .

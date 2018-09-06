@@ -1,0 +1,5 @@
+[/EN#144439/people A lone hiker] proceeds along [/EN#144447/scene a trail] [/EN#144449/scene outdoors] in [/EN#144450/other the daytime] , on [/EN#144441/scene a cobblestone path] leading to [/EN#144445/scene a stone staircase] going up [/EN#144444/other the hillside] .
+[/EN#144439/people Two backpackers] make [/EN#144451/scene their way] up [/EN#144442/scene the steps of an ancient temple] .
+[/EN#144439/people A hiker] walks up [/EN#144441/other a path of stone steps] using [/EN#144448/other a walking stick] .
+[/EN#144439/people Two hikers] walk up [/EN#144441/scene an old stone path] and [/EN#144442/other steps] .
+[/EN#144443/other Two hikers scale] [/EN#144446/other a tiered hillside] .

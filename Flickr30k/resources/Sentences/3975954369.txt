@@ -1,0 +1,5 @@
+[/EN#150575/people A woman] checks [/EN#150580/clothing her purse] while at [/EN#150579/other a outside cafe] .
+[/EN#150575/people A woman] in [/EN#150577/clothing a yellow shirt] sits at [/EN#150576/other a cafe table] .
+[/EN#150575/people A woman] is sitting at [/EN#150576/other an outdoor dining table] .
+[/EN#150575/people Lady] wearing [/EN#150577/clothing a yellow top] is sitting on [/EN#150578/other a chair]
+[/EN#150575/people A woman] in [/EN#150577/clothing a yellow shirt] seated at [/EN#150576/other a table] .

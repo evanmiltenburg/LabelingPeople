@@ -1,0 +1,5 @@
+In front of [/EN#73860/scene a Penney 's store] , [/EN#73863/other a metal sculpture] depicts [/EN#73859/people a man] dressed in [/EN#73870/clothing a suit] and [/EN#73871/clothing top hat] holding [/EN#73861/other broom] and pushing [/EN#73867/vehicles a wheelbarrow] containing [/EN#73866/other a suitcase] , [/EN#73862/other a bucket] , and [/EN#73864/other another object] .
+[/EN#73859/people A man] holding [/EN#73861/other a brush] pushes [/EN#73867/vehicles a wheelbarrow] with [/EN#73866/other a suitcase] , [/EN#73862/other bucket] and [/EN#73864/other radio] , and is completely covered in [/EN#73863/other gray paint] .
+[/EN#73859/people A man] costumed as [/EN#73863/other a statue] is pushing [/EN#73868/other a wheel barrel] down [/EN#73865/scene the sidewalk] .
+[/EN#73859/people Street performer] standing outside of [/EN#73860/scene a clothing store] .
+[/EN#73859/people A man] [/EN#0/notvisual that] looks like [/EN#73863/other a statue] on [/EN#73865/scene the sidewalk] .

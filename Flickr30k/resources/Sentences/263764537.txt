@@ -1,0 +1,5 @@
+[/EN#63063/people A bicyclist] looks behind [/EN#0/notvisual him] to check on [/EN#63065/people a girl] riding [/EN#63067/vehicles a bike] behind [/EN#0/notvisual him] .
+[/EN#63069/other The sun] sets behind [/EN#63071/scene a bridge] while [/EN#63068/people a man] rides [/EN#63066/vehicles a bicycle] .
+[/EN#63068/people a person] and [/EN#63065/people a child] riding through [/EN#63072/scene water] on [/EN#63067/vehicles their bikes]
+[/EN#63062/people A woman] and [/EN#63065/people a child] bikes through [/EN#63072/scene a flooded path] .
+[/EN#63065/people A kid] and [/EN#63062/people a boy] is riding [/EN#63067/other their cycles] .

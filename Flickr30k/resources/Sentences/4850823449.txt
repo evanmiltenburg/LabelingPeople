@@ -1,0 +1,5 @@
+[/EN#210549/people A middle-aged businessman] with [/EN#210550/clothing briefcase] and [/EN#210554/clothing jacket] in [/EN#210557/bodyparts hand] looking up at [/EN#210556/other a local establishments sign] .
+[/EN#210549/people A man] holds [/EN#210550/clothing a briefcase] and [/EN#210554/clothing suit jacket] while [/EN#0/notvisual he] looks up at [/EN#210551/scene a building] from [/EN#210552/scene the street] .
+[/EN#210549/people A man] in [/EN#210553/clothing a suit] with [/EN#210550/clothing a briefcase] stands on [/EN#210555/other the curb] in front of [/EN#210558/vehicles a bicycle] .
+[/EN#210549/people Gentleman] standing on [/EN#210552/scene a sidewalk] looking at [/EN#210551/scene a building] .
+[/EN#210549/people A man] in [/EN#210553/clothing dress clothes] looking up .

@@ -1,0 +1,5 @@
+[/EN#219035/people A woman] in [/EN#219039/clothing a red shirt] is walking past [/EN#219038/scene a store] called [/EN#219036/other Burrito Bandidos] and [/EN#0/notvisual it] is open .
+[/EN#219035/people A woman] with [/EN#219039/clothing a red shirt] walking by [/EN#219038/scene a restaurant] named [/EN#219036/other Burrito Bandidos] .
+[/EN#219035/people Woman] talks on [/EN#219041/other her phone] while picking up [/EN#219037/other burritos] .
+[/EN#219035/people A woman] in [/EN#219039/clothing a red shirt] walking on [/EN#219040/scene the sidewalk] .
+[/EN#219035/people A woman] is walking by [/EN#219038/scene a Mexican restaurant]

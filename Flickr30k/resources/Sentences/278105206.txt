@@ -1,0 +1,5 @@
+[/EN#72630/animals A dog] is running through [/EN#72632/scene the snow] away from [/EN#72631/scene the wire fence] .
+[/EN#72630/animals a balck and tan dog] running through [/EN#72632/scene the snow] .
+[/EN#72630/animals The dog] is running through [/EN#72632/scene deep snow] .
+[/EN#72630/animals The dog] is running through [/EN#72632/scene the snow] .
+[/EN#72630/animals A dog] running through [/EN#72632/scene snow] .

@@ -1,0 +1,5 @@
+[/EN#253829/people A woman] is reading [/EN#253831/other the Metro newspaper] on [/EN#253830/vehicles/scene a crowded subway train] .
+[/EN#253829/people A woman] is reading [/EN#253831/other a newspaper] on [/EN#253830/vehicles/scene the subway] .
+[/EN#253829/people A woman] on [/EN#253830/vehicles/scene the bus] is reading [/EN#253831/other the newspaper] .
+[/EN#253833/people women] standing on [/EN#253830/vehicles/scene a bus] reading [/EN#253831/other a newspaper] .
+[/EN#253832/people A group of people] are on [/EN#253830/vehicles/scene a crowded subway] .

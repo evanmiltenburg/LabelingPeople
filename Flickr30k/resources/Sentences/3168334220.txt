@@ -1,0 +1,5 @@
+[/EN#97818/people A person] in [/EN#97827/clothing a blue shirt] and [/EN#97823/clothing white hat] and [/EN#97824/people a person] in [/EN#97823/clothing a tan hat] and [/EN#97829/other red shirt hike] toward [/EN#97821/other a tree] on [/EN#97825/scene the side of a hill] .
+[/EN#97818/people A man] wearing [/EN#97823/clothing a jungle hat] is trekking with [/EN#97824/people his guide] in [/EN#97830/scene the wilderness] .
+[/EN#97819/people Hikers] are walking down [/EN#97820/scene a grassy path] on [/EN#97822/other a hillside] .
+[/EN#97819/people Hikers] walking along [/EN#97820/scene a trail] overlooking [/EN#97826/scene a valley] .
+[/EN#97819/people Two people] wearing [/EN#97828/clothing hats] are hiking in [/EN#97831/other the woods] .

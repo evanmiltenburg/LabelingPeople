@@ -1,0 +1,5 @@
+[/EN#121183/people A man] in [/EN#121185/clothing a green shirt] and [/EN#121186/clothing large beige hat] is supervising [/EN#121188/scene a newsstand] [/EN#0/notvisual that] sells [/EN#121187/other snacks] and [/EN#121192/other drinks] .
+[/EN#121183/people A vendor] , wearing [/EN#121186/clothing a large-brimmed tan hat] , is sitting on [/EN#121191/other a stool] next to [/EN#121187/other his wares] .
+[/EN#121184/scene Small roadside kiosk] with [/EN#121183/people attendant] sitting in [/EN#121185/clothing a green shirt] and [/EN#121186/clothing pale yellow hat] .
+[/EN#121183/people The man] in [/EN#121186/clothing the white hat] has [/EN#121187/other various items] on [/EN#121189/scene the sidewalk] .
+[/EN#121183/people A man] in [/EN#121186/other a sombrero] sits next to [/EN#121184/scene a newsstand] .

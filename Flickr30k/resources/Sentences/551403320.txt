@@ -1,0 +1,5 @@
+[/EN#238055/people A woman] is walking across [/EN#238057/scene a step ladder bridge] between [/EN#238058/scene two mountains] .
+[/EN#238055/people a long woman] wearing [/EN#238061/other a white helment] crossing [/EN#238056/other a chain] linked [/EN#238057/scene bridge]
+[/EN#238055/people A woman] traverses [/EN#238057/scene a wire bridge] across [/EN#238060/scene a rocky canyon] .
+[/EN#238055/people A man] is crossing [/EN#238057/scene a mountain pass] on [/EN#238057/scene a metal bridge] .
+[/EN#238055/people A climber] traverses [/EN#238056/other a rope ladder] between [/EN#238058/scene cliffs] .

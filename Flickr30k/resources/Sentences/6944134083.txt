@@ -1,0 +1,5 @@
+[/EN#262147/people Two jockeys] lead [/EN#262149/animals their horses] over [/EN#262148/other an obstacle] during [/EN#262153/other a race] .
+[/EN#262150/people A Jockey] riding [/EN#262151/animals the # 4 horse] is jumping over [/EN#262148/other the hedge] .
+[/EN#262147/people Two jockeys] riding [/EN#262149/animals horses] are jumping over [/EN#262148/other a barrier] .
+[/EN#262147/people Two men] are competing in [/EN#262152/other a horse race] .
+[/EN#262147/people Two people] race [/EN#262149/animals their horses] .

@@ -1,0 +1,5 @@
+[/EN#172647/people A barista] [/EN#0/notvisual that] is wearing [/EN#172649/clothing a black shirt] is making [/EN#172650/other a cup of coffee] using [/EN#172651/other a big machine] .
+[/EN#172647/people A female barista] wearing [/EN#172649/clothing black] is making [/EN#172650/other coffee] in [/EN#172654/scene a coffee shop] .
+[/EN#172647/people A woman] is dispensing [/EN#172653/other something] out of [/EN#172652/people a fancy coffee maker] .
+[/EN#172647/people A cafe worker] making [/EN#172650/other a cup of espresso] .
+[/EN#172647/people A female barista] making [/EN#172650/other a latte] .

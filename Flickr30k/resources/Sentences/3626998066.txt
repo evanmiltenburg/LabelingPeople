@@ -1,0 +1,5 @@
+[/EN#132483/animals Two black dogs] are running in [/EN#132484/scene the grass] , [/EN#132488/other one] has [/EN#132485/other a green ball] in [/EN#132490/bodyparts his mouth] .
+[/EN#132486/animals A brown dog] chases [/EN#132488/animals another brown dog] [/EN#0/notvisual who] has [/EN#132485/other a green ball] .
+[/EN#132483/animals Two brown dogs] are playing with [/EN#132485/other a green toy] on [/EN#132484/scene grass] .
+[/EN#132483/animals Two brown dogs] run through [/EN#132484/scene a field] .
+[/EN#132483/animals Two brown dogs] run together .

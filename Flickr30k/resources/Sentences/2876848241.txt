@@ -1,0 +1,5 @@
+[/EN#78338/people Biker] with [/EN#78344/clothing helmet] riding [/EN#78339/scene a green dirt bike midair] .
+[/EN#78339/other Green motorcycle] moving fast down [/EN#78343/scene dirt path] .
+[/EN#78338/people A person] is riding [/EN#78339/other a green motorcycle] .
+[/EN#78338/people A motocross rider] is on [/EN#78341/scene a dirt hill] .
+[/EN#78338/people Motorcycle rider] going over [/EN#78340/other a bump] .

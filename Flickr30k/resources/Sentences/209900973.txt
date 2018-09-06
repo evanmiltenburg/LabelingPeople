@@ -1,0 +1,5 @@
+On [/EN#28642/scene a sunny day] , [/EN#28635/people a man] wearing [/EN#28639/clothing dark brown pants] and [/EN#28638/clothing a light brown shirt] is taking [/EN#28641/other a golf swing] , near [/EN#28646/other his gear] and on [/EN#28644/clothing the green] , with [/EN#28640/other trees] in [/EN#0/notvisual the background] .
+[/EN#28635/people Man] in [/EN#28638/clothing tan shirt] and [/EN#28639/clothing brown pants] looks down [/EN#28636/scene the fairway] at [/EN#28647/other the golf ball] [/EN#0/notvisual he] just hit .
+[/EN#28644/scene green grass] with [/EN#28640/other trees] and [/EN#28635/people a man] swinging [/EN#28637/other a golf club] .
+[/EN#28635/people Man] swinging [/EN#28637/other a golf club] at [/EN#28636/scene a golf course] .
+[/EN#28635/people A man] is on [/EN#28636/scene a golf course] playing [/EN#28643/other golf] .

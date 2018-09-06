@@ -1,0 +1,5 @@
+[/EN#34962/animals Two dogs] are running in [/EN#34964/scene the water] while [/EN#34961/people a man] watches from [/EN#34963/scene the dock] .
+[/EN#34962/animals Two dogs] wade through [/EN#34964/scene shallow water] while [/EN#34961/people a man] watches from [/EN#34963/scene a dock] .
+[/EN#34961/people Man] on [/EN#34965/scene a pier] looks at [/EN#34962/animals two dogs] standing in [/EN#34964/scene shallow water] .
+[/EN#34962/animals Two dogs] in [/EN#34964/scene water] as [/EN#34961/people a man] looks on from [/EN#34963/scene a dock] .
+[/EN#34961/people A man] watching [/EN#34962/animals two dogs] in [/EN#34964/scene the water] .

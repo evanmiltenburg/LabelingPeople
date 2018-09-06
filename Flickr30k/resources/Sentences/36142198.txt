@@ -1,0 +1,5 @@
+[/EN#131739/people A man] in [/EN#131741/clothing a red shirt] and [/EN#131741/clothing jacket] leads [/EN#131742/people a group of other man] with [/EN#131740/animals a large group of spotted dogs] .
+[/EN#131738/people A group of people] with [/EN#131740/animals a sizable group of hunting dogs] .
+[/EN#131738/people A group of well dressed men] with [/EN#131740/animals a pack of dogs] .
+[/EN#131739/people A man] in [/EN#131741/clothing red] is walking [/EN#131740/animals multiple dogs] .
+[/EN#131738/people Men] are walking with [/EN#131740/animals a pack of dogs] .

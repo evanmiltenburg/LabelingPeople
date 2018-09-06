@@ -1,0 +1,5 @@
+[/EN#145165/people A woman] wearing [/EN#145166/clothing a brown coat] and [/EN#145169/clothing white scarf] is walking [/EN#145167/scene a city street] .
+[/EN#145165/people A woman] wearing [/EN#145166/clothing a long brown coat] walks away from [/EN#145171/other the sun] on [/EN#145167/scene a sidewalk] .
+[/EN#145165/people A woman] in [/EN#145166/clothing a brown coat] and [/EN#145169/clothing white scarf] is walking on [/EN#145167/scene a sidewalk] .
+[/EN#145165/people A woman] in [/EN#145170/clothing sunglasses] and [/EN#145169/clothing a scarf] walk down [/EN#145167/scene the sidewalk] .
+[/EN#145165/people Woman] in [/EN#145169/clothing a scarf] strolls along [/EN#145167/scene a sidewalk] .

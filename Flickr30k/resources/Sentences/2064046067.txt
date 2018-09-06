@@ -1,0 +1,5 @@
+[/EN#26566/people A young child] walks down [/EN#26568/scene a gravel path] lined with [/EN#26567/other a row of red outdoor chairs] .
+[/EN#26568/other A racetrack] with [/EN#26567/other red chairs] stacked beside [/EN#26571/scene fence] with [/EN#26566/people a child] walking .
+[/EN#26566/people A child] in [/EN#26572/clothing a striped shirt] walks by [/EN#26567/other some red chairs] .
+[/EN#26566/people A child] walking and leaving [/EN#26570/scene a trail] behind [/EN#0/notvisual them] .
+[/EN#26566/people A little kid] is walking next to [/EN#26567/other red banners] .

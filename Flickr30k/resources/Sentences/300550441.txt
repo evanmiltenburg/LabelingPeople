@@ -1,0 +1,5 @@
+[/EN#86818/people The woman] wearing [/EN#86819/clothing the brown skirt] is carrying [/EN#86822/clothing a black bag] along [/EN#86820/scene a wooden walkway] .
+[/EN#86818/people A woman] with [/EN#86824/clothing a scarf] on [/EN#86825/bodyparts her head] walks down [/EN#86820/scene a wooden boardwalk] .
+[/EN#86821/people Several people] in [/EN#86823/scene a park] walking on [/EN#86820/scene a low wooden boardwalk] .
+[/EN#86818/people A woman] in [/EN#86819/clothing a skirt] walks down [/EN#86820/scene a path] .
+[/EN#86818/people a woman] walks on [/EN#86826/other boards] .

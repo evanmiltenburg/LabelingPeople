@@ -1,0 +1,5 @@
+[/EN#177440/people A man] in [/EN#177441/clothing a purple hat] , [/EN#177443/clothing white shirt] , wearing [/EN#177444/clothing earbuds] , listening to [/EN#177451/other music] , sitting outside [/EN#177447/scene a city building] .
+[/EN#177440/people Young man] sitting resting on [/EN#177448/scene a surface] with [/EN#177444/clothing headphones] in with [/EN#177442/clothing a plastic bag] .
+[/EN#177440/people A man] is sitting on [/EN#177448/other a granite bench] with [/EN#177442/clothing a bag] at [/EN#177452/bodyparts his feet] .
+[/EN#177440/people A man] in [/EN#177443/clothing a white shirt] Is sitting and listening to [/EN#177445/other music] .
+[/EN#177440/people A young man] in [/EN#177441/clothing a baseball cap] listening to [/EN#177445/other music] .

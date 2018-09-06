@@ -1,0 +1,5 @@
+[/EN#47142/people a man] wearing [/EN#47148/clothing a white shirt] is carrying [/EN#47146/other a headset communications device] along [/EN#47144/other the touchline] in [/EN#47147/scene a sports stadium] .
+[/EN#47141/people A man] in [/EN#47148/clothing a white shirt] with [/EN#47149/clothing a white hat] holding [/EN#47145/clothing a pair of headphones] at [/EN#47143/other a field based game] .
+[/EN#47142/people Man] in [/EN#47150/other visor] and [/EN#47148/clothing polo shirt] holding [/EN#47146/other electronic device] near [/EN#47147/scene a sports field]
+[/EN#47141/people A discouraged looking football coach] .
+[/EN#47141/people A football coach] holds [/EN#47145/clothing a headset] .

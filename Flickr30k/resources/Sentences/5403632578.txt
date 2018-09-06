@@ -1,0 +1,5 @@
+[/EN#235550/people The gentleman] wearing [/EN#235552/clothing a dark sweater] , [/EN#235562/clothing brown slacks] and [/EN#235553/clothing a brown cap] is strumming [/EN#235556/instruments the strings of a bass] while standing on [/EN#235555/scene a sidewalk] next to [/EN#235558/other a light brown railing] , similar to [/EN#235560/scene a subway tunnel] , near [/EN#235554/scene a tall building] .
+[/EN#235550/people A man] wearing [/EN#235557/clothing a beret and black] glasses strums [/EN#235551/instruments his cello] happily in [/EN#235555/scene the streets of an urban area] .
+[/EN#235550/people A man] in [/EN#235552/clothing a green sweater] and [/EN#235553/clothing hat] plays red [/EN#235556/instruments upright bass] on [/EN#235555/scene a city street] .
+[/EN#235550/people A man] in [/EN#235552/clothing a black sweater] plays [/EN#235551/instruments the bass] in front of [/EN#235554/scene a building] .
+[/EN#235550/people a man] in [/EN#235552/clothing a black sweater] plays [/EN#235559/scene the stand] up [/EN#235554/scene bass outdoors]

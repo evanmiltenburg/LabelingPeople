@@ -1,0 +1,5 @@
+[/EN#271339/people A man] wearing [/EN#271344/clothing yellow and black] is riding [/EN#271351/vehicles a bicycle] over [/EN#271345/scene a crosswalk] while [/EN#271343/people people] are watching [/EN#0/notvisual him] .
+[/EN#271338/people A cyclist] in [/EN#271344/clothing neon yellow uniform] rides [/EN#271348/people past spectators] behind [/EN#271341/other a yellow banner] reading " [/EN#271340/other Lotos] . "
+[/EN#271338/people A bicyclist] near [/EN#271349/scene town] is racing in [/EN#271342/other a race] while , wearing [/EN#271344/clothing yellow] and [/EN#271346/clothing a helmet] .
+[/EN#271338/people A bicyclist] rides by as [/EN#271343/people an audience] watches behind [/EN#271341/other a banner] .
+[/EN#271339/people One vibrantly colored male] in [/EN#271342/other a bicycle race] .

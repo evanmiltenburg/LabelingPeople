@@ -1,0 +1,5 @@
+[/EN#50333/people A man] in [/EN#50338/clothing a white t-shirt] takes [/EN#50341/other a picture] in [/EN#50337/scene the middle of the street] with [/EN#50342/vehicles two public buses] in [/EN#0/notvisual the background] .
+[/EN#50333/people A tourist] wearing [/EN#50334/clothing a hat] , [/EN#50338/clothing white t-shir] , and [/EN#50339/clothing blue pants] , kneeling in [/EN#50337/scene the street] to capture [/EN#50340/other photos] .
+[/EN#50333/people A man] with [/EN#50334/clothing a hat] kneeling in [/EN#50336/scene the road] taking [/EN#50335/other a picture] .
+[/EN#50333/people man] kneeling in [/EN#50336/scene the street] taking [/EN#50335/other a photograph] .
+[/EN#50333/people A man] with [/EN#50334/clothing a hat] kneeling and taking [/EN#50335/other a picture] .

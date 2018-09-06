@@ -1,0 +1,5 @@
+[/EN#284378/people A man] is standing at [/EN#284373/scene the front of a conference room] with [/EN#284377/people people] sitting at [/EN#284376/other rows of tables] next to [/EN#284375/other a table] with [/EN#284370/other a laptop] and [/EN#284374/other projector] .
+[/EN#284378/people A man] stands beside [/EN#284374/other a projector] in [/EN#284373/scene a dimly lit conference room] while [/EN#284377/people some people] [/EN#0/notvisual who] are wearing [/EN#284372/clothing dress shirts] are talking .
+[/EN#284378/people A man] is standing by [/EN#284375/other a table] in [/EN#284373/scene a banquet room] filled with [/EN#284377/people people] and [/EN#284376/other tables] .
+[/EN#284377/people A dining room full of people] eating and [/EN#284378/people a waiter] serving [/EN#0/notvisual them] .
+[/EN#284377/people A large group] watches [/EN#284371/other a presentation] in [/EN#284373/scene a conference room] .

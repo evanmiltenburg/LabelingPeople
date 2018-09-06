@@ -1,0 +1,5 @@
+[/EN#283684/people A little boy] with [/EN#283688/clothing a shirt] , [/EN#283689/clothing shorts] and [/EN#283690/clothing socks] on , standing on [/EN#283685/scene the beach] .
+[/EN#283684/people A skinny young boy] squints at [/EN#0/notvisual the camera] on [/EN#283685/scene a beach] .
+[/EN#283684/people A boy] is wearing [/EN#283686/other a red towel] standing on [/EN#283685/scene the beach] .
+[/EN#283684/people A boy] is posing for [/EN#283691/other a photograph] on [/EN#283685/scene the beach] .
+[/EN#283684/people A kid] standing in [/EN#283687/other the sand] at [/EN#283685/scene the beach] .

@@ -1,0 +1,5 @@
+[/EN#106606/people A man] , [/EN#106600/people two women] , and [/EN#106605/animals two dogs] on [/EN#106601/scene a beach] with [/EN#106602/scene buildings] in [/EN#0/notvisual the background] .
+[/EN#106600/people Two girls] wrestle in [/EN#106604/other the sand] at [/EN#106601/scene the beach] as [/EN#106607/animals a tan dog] walks by .
+[/EN#106599/people Three people] and [/EN#106607/animals a white dog] are sitting in [/EN#106604/other the sand] on [/EN#106601/scene a beach] .
+[/EN#106599/people Three people] on [/EN#106601/scene a city beach] with [/EN#106605/animals two little dogs] .
+[/EN#106600/people Two women] wrestle at [/EN#106601/scene the beach] next to [/EN#106603/scene a city] .

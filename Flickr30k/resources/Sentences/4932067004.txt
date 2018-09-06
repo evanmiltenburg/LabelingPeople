@@ -1,0 +1,5 @@
+[/EN#219867/other A brown chihuahua] wearing [/EN#219869/clothing a blue denim skirt] and [/EN#219870/clothing a purple harness] .
+[/EN#219867/animals A small brown dog] on [/EN#219870/clothing a leash] wearing [/EN#219869/clothing a denim skirt] .
+[/EN#219867/animals A small brown dog] is wearing [/EN#219869/clothing a denim skirt] .
+[/EN#219867/animals A small dog] wearing [/EN#219869/clothing a denim miniskirt] .
+[/EN#219867/other A chihuahua] wearing [/EN#219869/clothing clothes] .

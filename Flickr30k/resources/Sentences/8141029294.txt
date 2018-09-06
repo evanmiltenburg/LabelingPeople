@@ -1,0 +1,5 @@
+[/EN#279491/people A lady] in [/EN#279495/clothing a skirt] is carrying [/EN#279494/clothing two bags] out onto [/EN#279493/scene the water] and [/EN#279492/animals a dog] is following [/EN#0/notvisual her] .
+[/EN#279491/people A woman] carrying [/EN#279494/clothing bags] walks through [/EN#279493/scene water] as [/EN#279492/animals her dog] follows .
+[/EN#279491/people A young lady] and [/EN#279492/animals a dog] are walking through [/EN#279493/scene ankle deep water] .
+[/EN#279491/people A girl] walking through [/EN#279493/scene shallow water] with [/EN#279492/animals a dog] behind [/EN#0/notvisual her] .
+[/EN#279491/people A woman] and [/EN#279492/animals her dog] out on [/EN#279493/scene the water] .

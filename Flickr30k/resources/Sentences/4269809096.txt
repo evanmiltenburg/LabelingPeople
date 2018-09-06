@@ -1,0 +1,5 @@
+[/EN#161034/people People] dressed in [/EN#161035/clothing red] are walking into [/EN#161033/scene an ivory colored building] [/EN#0/notvisual that] looks like [/EN#161033/scene a castle] .
+[/EN#161034/people People] gathering at [/EN#161033/scene the front of the temple] before [/EN#0/notvisual they] go to meditate .
+[/EN#161034/people Monks] in [/EN#161035/clothing orange robes] face [/EN#161033/scene a building] with [/EN#161033/other intricate architecture] .
+[/EN#161033/scene A beautiful cream colored building] .
+[/EN#161034/people Priests] in [/EN#161035/clothing red] entering [/EN#161033/scene a church] .

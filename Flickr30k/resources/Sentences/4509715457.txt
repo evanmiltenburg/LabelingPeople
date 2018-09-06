@@ -1,0 +1,5 @@
+[/EN#174159/people A dark-haired man] , wearing [/EN#174164/other sungalsses] and [/EN#174162/clothing a white shirt] and [/EN#174163/clothing jeans] , is holding [/EN#174160/instruments a guitar] and sitting in front of [/EN#174161/other a microphone] .
+[/EN#174159/people A man] in [/EN#174162/clothing a white shirt] is sitting in front of [/EN#174161/other a microphone] , playing [/EN#174160/instruments a guitar] .
+[/EN#174159/people A man] appears to be singing and playing [/EN#174160/instruments a string instrument] on [/EN#174165/scene stage] .
+[/EN#174159/people A man] in [/EN#174162/clothing a white shirt] and [/EN#174163/clothing jeans] is playing [/EN#174160/instruments the guitar] .
+[/EN#174159/people A man] in [/EN#174162/clothing a white shirt] is playing [/EN#174160/instruments a string instrument] .

@@ -1,0 +1,5 @@
+[/EN#52395/people A person] is flying with [/EN#52396/other a yellow parachute] above [/EN#52397/scene a green building] .
+[/EN#52402/vehicles A hang glider] high in [/EN#0/notvisual the air] with [/EN#52400/other a few clouds] in [/EN#52399/scene the blue sky] .
+[/EN#52402/vehicles Hang glider] floating through [/EN#0/notvisual the air] above [/EN#52401/other many green trees] .
+[/EN#52396/other Kite] flying high in [/EN#52399/scene the sky] with [/EN#52395/people sky rider] .
+[/EN#52396/other A yellow parasail] is in [/EN#0/notvisual the air] .

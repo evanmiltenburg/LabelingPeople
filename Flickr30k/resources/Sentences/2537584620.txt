@@ -1,0 +1,5 @@
+[/EN#56302/other Construction worker operation heavy machinery] on [/EN#56297/scene a site] next to [/EN#56296/people a railroad] and [/EN#56298/vehicles/scene a train] .
+[/EN#56295/people A group of people] in [/EN#56299/clothing orange vests] are working with [/EN#56302/vehicles a bulldozer] by [/EN#56298/vehicles/scene a train] .
+[/EN#56295/people A construction crew] in [/EN#56299/clothing orange vests] working near [/EN#56303/scene train tracks] .
+[/EN#56301/other Construction work] taking [/EN#56297/scene place] on [/EN#56296/people a gravel railroad] .
+[/EN#56300/people A construction crew] working on [/EN#56296/people a railroad] .

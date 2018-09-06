@@ -1,0 +1,5 @@
+[/EN#196230/people A person] in [/EN#196232/clothing black] is walking up [/EN#196231/other a narrow stairway] outside , between [/EN#196233/scene two red painted buildings] as seen from [/EN#196231/other the base of the stairs] .
+[/EN#196230/people A person] wearing [/EN#196232/clothing black clothing] walks up [/EN#196231/scene a narrow flight of stairs] between [/EN#196233/scene two bright red buildings] .
+[/EN#196230/people A man] with [/EN#196235/clothing a satchel] walks up [/EN#196231/other narrow , stone steps] in [/EN#196234/scene an alley] between [/EN#196233/scene two red houses] .
+[/EN#196230/people A person] is walking up [/EN#196231/other outdoor stairs] between [/EN#196233/scene two buildings] .
+[/EN#196230/people A person] is walking up [/EN#196231/other stairs] between [/EN#196233/scene two buildings] .

@@ -1,0 +1,5 @@
+[/EN#274791/people A group of people] riding [/EN#274793/animals camels] in [/EN#274792/scene a desert-like area] with [/EN#274797/other some brush] and [/EN#274799/other trees] .
+[/EN#274791/people Several people] ride on [/EN#274793/animals camels] as [/EN#0/notvisual they] take [/EN#274795/other a leisurely stroll] on [/EN#274792/scene a dirt road] .
+[/EN#274791/people Tourist] are enjoying [/EN#274796/other the cameos] at [/EN#274792/scene a foreign country] .
+[/EN#274791/people A group] travels on [/EN#274798/animals the back of camels] .
+[/EN#274791/people A group of people] riding [/EN#274793/animals camels] .

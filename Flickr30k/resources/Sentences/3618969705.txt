@@ -1,0 +1,5 @@
+[/EN#132000/people Many students] are sitting in [/EN#132002/scene a lecture hall] , paying [/EN#132006/other attention] and taking [/EN#132008/other notes] .
+[/EN#132000/people A class] full of [/EN#132007/people college students] sit in [/EN#132002/scene a classroom] listening to [/EN#132003/other a presentation] .
+[/EN#132001/people A group of attentive students] are paying [/EN#132005/other attention] to [/EN#132004/other a college lecture] .
+[/EN#132001/people Students] sitting in [/EN#132002/scene a lecture hall] listening to [/EN#132003/other a lecture] .
+[/EN#132001/people A number of students] sitting in [/EN#132002/scene a lecture hall] .

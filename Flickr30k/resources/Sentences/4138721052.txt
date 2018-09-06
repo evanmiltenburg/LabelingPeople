@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#156678/people a man] with [/EN#156679/clothing a fedora hat] and [/EN#156681/clothing blue dress coat] playing [/EN#156680/instruments an accordion] in front of [/EN#156683/other a sign] .
+[/EN#156678/people A man] in [/EN#156679/clothing a black cap] and [/EN#156681/clothing blue coat] is playing [/EN#156680/instruments the accordion] while sitting down .
+[/EN#156678/people Adult man] in [/EN#156679/clothing a Black hat] and [/EN#156681/clothing coat] playing [/EN#156680/instruments an accordion] by [/EN#156684/scene hand outside] .
+[/EN#156678/people A middle-aged man] wearing [/EN#156679/clothing a Pandora hat] is playing [/EN#156680/instruments an old accordion] .
+[/EN#156678/people A man] in [/EN#156679/clothing a black hat] with [/EN#156682/other a green stripe] plays [/EN#156680/instruments the accordion] .

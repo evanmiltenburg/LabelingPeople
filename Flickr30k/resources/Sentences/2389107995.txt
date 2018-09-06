@@ -1,0 +1,5 @@
+[/EN#45768/animals The black dog] gets soaked as [/EN#0/notvisual it] plays in [/EN#45769/scene the water] .
+[/EN#45768/animals a black dog] swimming through [/EN#45769/scene a river] .
+[/EN#45768/animals A black dog] swims through [/EN#45769/scene the water] .
+[/EN#45768/animals The dog] is swimming in [/EN#45769/scene the water] .
+[/EN#45768/animals Black dog] swimming in [/EN#45769/scene water] .

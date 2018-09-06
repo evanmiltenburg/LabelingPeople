@@ -1,0 +1,5 @@
+[/EN#186334/people A man] with [/EN#186343/bodyparts dark hair] and [/EN#186339/clothing a light tan jacket] is standing under [/EN#186335/clothing a umbrella] at [/EN#186338/scene a booth] with [/EN#186336/other a sewing machine] .
+[/EN#186334/people A man] is sitting on [/EN#186342/scene the street] under [/EN#186335/clothing an umbrella] with [/EN#186336/other the sewing machine] and altering [/EN#186337/clothing clothes] .
+[/EN#186334/people A guy] working under [/EN#186335/clothing an umbrella] on [/EN#186340/other a sewing project] .
+[/EN#186334/people Asian boy] works at [/EN#186341/other a sowing machine pushcart] .
+[/EN#186334/people A man] is sewing [/EN#186337/clothing clothes] under [/EN#186335/clothing an umbrella]

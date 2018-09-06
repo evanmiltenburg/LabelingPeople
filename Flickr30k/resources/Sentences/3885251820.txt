@@ -1,0 +1,5 @@
+[/EN#146972/people A woman] stands on [/EN#146973/scene a wide , flat beat] holding up [/EN#146975/animals a squid or octopus] by [/EN#146976/other a sting] .
+[/EN#146972/people A young African woman] stands on [/EN#146973/scene a beach] holding up [/EN#146975/animals an octopus] on [/EN#146976/other a string] .
+[/EN#146972/people A woman] in [/EN#146979/clothing a dress] is holding [/EN#146976/other something] [/EN#0/notvisual she] has caught on [/EN#146973/scene the beach] .
+[/EN#146972/people A girl] standing on [/EN#146973/scene the beach] is holding up [/EN#146975/animals a dead octopus] .
+[/EN#146972/people A native woman] holding [/EN#146975/animals a sea creature] on [/EN#146973/other the beachfront] .

@@ -1,0 +1,5 @@
+[/EN#28598/animals Two black and white dogs] looking at [/EN#28597/animals a black and white kitten] [/EN#0/notvisual who] is sitting on top of [/EN#28602/clothing a tank] with [/EN#28600/other hoses] on [/EN#0/notvisual it] .
+[/EN#28597/animals A black and gray cat] stands on [/EN#28601/other a contracption] while [/EN#28598/animals two big dogs] stare at [/EN#0/notvisual it] .
+[/EN#28598/animals Two black and white dogs] look at [/EN#28597/animals a kitten] perched on [/EN#28599/other some equipment] .
+[/EN#28598/animals Two black and white dogs] are looking at [/EN#28597/animals a gray and white kitty] .
+[/EN#28598/animals Two dogs] are staring at [/EN#28597/animals a gray and white cat] .

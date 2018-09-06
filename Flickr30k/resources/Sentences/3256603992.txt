@@ -1,0 +1,5 @@
+[/EN#104832/people A man] wearing [/EN#104837/clothing sunglasses] and [/EN#104833/clothing a blue shirt] walks in [/EN#104834/scene a dense forest] .
+[/EN#104832/people A man] hiking in [/EN#104834/scene the wilderness] giving [/EN#0/notvisual the camera] [/EN#104835/bodyparts a thumbs] up .
+[/EN#104832/people Man] standing in [/EN#104836/other the midst of plants] is giving [/EN#104835/bodyparts two thumbs] up .
+[/EN#104832/people A man] in [/EN#104833/clothing a blue shirt] is hiking through [/EN#104836/other green foliage] .
+[/EN#104832/people A man] in [/EN#104833/clothing a blue shirt] hikes through [/EN#104834/scene a nature trail] .

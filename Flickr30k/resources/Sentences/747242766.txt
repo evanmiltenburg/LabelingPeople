@@ -1,0 +1,5 @@
+[/EN#270223/animals A brown dog] with [/EN#270226/bodyparts very floppy ears] runs through [/EN#270224/scene a field of emerald grass] .
+[/EN#270223/animals The dog] has [/EN#270225/bodyparts his tongue] sticking out and walking in [/EN#270224/scene the grass] .
+[/EN#270227/clothing Brown] and [/EN#270223/animals white dog] runs at [/EN#270228/other camera] over [/EN#270224/scene grass] .
+[/EN#270223/animals A spaniel] runs through [/EN#270224/scene the grass] .
+[/EN#270223/animals A fluffy dog] in [/EN#270224/scene grass] .

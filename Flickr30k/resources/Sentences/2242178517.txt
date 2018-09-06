@@ -1,0 +1,5 @@
+[/EN#36284/people A small child] dressed [/EN#36289/people all] in [/EN#36292/clothing blue] for [/EN#36291/other winter] stands holding [/EN#36285/other a red snowshovel] with [/EN#36290/other a snow covered mini van] behind [/EN#0/notvisual him] .
+[/EN#36284/people A toddler] shovels [/EN#36287/scene a snowy driveway] with [/EN#36285/other a bright orange shovel] .
+[/EN#36284/people A small child] is shoveling [/EN#36286/scene snow] with [/EN#36285/other an orange shovel] .
+[/EN#36284/people A little girl] is shoveling [/EN#36286/scene snow] .
+[/EN#36288/scene A young child shovels snow] .

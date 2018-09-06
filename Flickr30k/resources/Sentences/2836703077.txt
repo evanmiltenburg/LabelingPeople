@@ -1,0 +1,5 @@
+[/EN#75801/people Two children] on [/EN#75802/other a carnival ride] , [/EN#75804/other tree] in [/EN#0/notvisual background] .
+[/EN#75801/people Two children] riding [/EN#75803/people a blue roller coaster] smile .
+[/EN#75801/people Two children] are in [/EN#75802/other a blue amusement park ride] .
+[/EN#75801/people Two kids] ride [/EN#75802/other an amusement park ride] .
+[/EN#75801/people two children] on [/EN#75802/other a ride]

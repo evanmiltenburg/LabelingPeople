@@ -1,0 +1,5 @@
+[/EN#216554/people A person] with [/EN#216558/clothing a white hat] and [/EN#216557/clothing a red backpack] stands in [/EN#216555/scene a running stream] .
+[/EN#216554/people A man] in [/EN#216560/other hiking gear] , walking across [/EN#216556/scene a shallow waterfall] .
+[/EN#216554/people A man] in [/EN#216559/clothing a white shirt] hiking over [/EN#216561/other rocks] and [/EN#216556/scene water] .
+[/EN#216554/people A hiker] walking near [/EN#216556/scene a waterfall] .
+[/EN#216554/people Hiker] crossing [/EN#216555/scene a waterfall] .

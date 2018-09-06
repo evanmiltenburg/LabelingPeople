@@ -1,0 +1,5 @@
+[/EN#65567/people Two girls] in [/EN#65568/clothing shorts] sit beside [/EN#65569/other bookshelves] filled with [/EN#65570/other books] and [/EN#65571/other toys] while [/EN#65575/other one] reads [/EN#65572/other a large children 's picture book] .
+[/EN#65567/people 2 young girls] are sitting in front of [/EN#65569/other a bookcase] and [/EN#65575/other 1] is reading [/EN#65572/other a book] .
+[/EN#65567/people Two girls] reading [/EN#65572/other a children 's book] in [/EN#65576/scene a classroom] .
+[/EN#65573/people a girl] is reading [/EN#65572/other a book] to [/EN#0/notvisual another] in [/EN#65576/scene a classroom] .
+[/EN#65573/people The teacher] reads [/EN#65572/other a book] to [/EN#65574/people the class] .

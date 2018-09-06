@@ -1,0 +1,5 @@
+[/EN#208268/people One person] is standing beside [/EN#208274/other a tree] with [/EN#208277/other the sun] shining through [/EN#208275/other the leaves] .
+[/EN#208268/people A man] is looking in [/EN#208269/other a row of windows] outside by [/EN#208273/other a trash dumpster] .
+[/EN#208268/people A guy] standing looking into [/EN#208269/scene the windows of a nearby building] .
+[/EN#208268/people A man] enjoys [/EN#208271/other a cold beer] and [/EN#208270/other a cigarette] in [/EN#208272/scene an empty lot] .
+[/EN#208268/people A man] stares at [/EN#208276/scene the sky] as [/EN#0/notvisual he] smokes .

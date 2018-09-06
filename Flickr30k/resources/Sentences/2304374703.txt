@@ -1,0 +1,5 @@
+[/EN#40355/animals A brown dog] plays with [/EN#40356/other a bright orange ball] in [/EN#40357/scene the snow] .
+[/EN#40355/animals The dog] tries to play with [/EN#40356/other a basketball] in [/EN#40357/scene the snow] .
+[/EN#40355/animals The yellow dog] is in [/EN#40357/scene the snow] with [/EN#40356/other a red ball] .
+[/EN#40355/animals A tan dog] is playing with [/EN#40355/animals a red dog] in [/EN#40357/scene snow] .
+[/EN#40355/animals A dog] chasing [/EN#40356/other a ball] in [/EN#40357/scene snow] .

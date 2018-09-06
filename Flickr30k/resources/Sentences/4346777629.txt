@@ -1,0 +1,5 @@
+[/EN#164203/people A man] stands in [/EN#164206/scene a yard] while holding [/EN#164205/other a snow shovel] and surrounded by [/EN#164208/scene snow] .
+[/EN#164203/people The man] in [/EN#164208/scene the blue coat shovels snow] in front of [/EN#164204/scene a brick house] .
+[/EN#164203/people A man] in [/EN#164210/clothing blue jacket] stands amidst [/EN#164209/other ice] with [/EN#164205/other shovel] in [/EN#164211/bodyparts his hand]
+[/EN#164203/people A man] is standing outside of [/EN#164204/scene a house] with [/EN#164205/other a snow shovel] .
+[/EN#164203/people A man] has shoveled [/EN#164208/scene snow] from [/EN#164207/scene his driveway] .

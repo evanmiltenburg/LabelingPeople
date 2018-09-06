@@ -1,0 +1,5 @@
+[/EN#99952/people A little boy] with [/EN#99954/clothing a blue helmet] rides [/EN#99953/vehicles his bike] with [/EN#99955/bodyparts his feet] on [/EN#99956/other the handlebars] .
+[/EN#99952/people A boy] wearing [/EN#99954/clothing a blue helmet] rides [/EN#99953/vehicles a bike] with [/EN#99955/bodyparts his feet] on [/EN#99956/other the handlebars] .
+[/EN#99952/people Boy] with [/EN#99954/clothing a helmet] resting [/EN#99955/bodyparts his feet] on [/EN#99956/vehicles the handlebars of his bike] .
+[/EN#99952/people Boy] in [/EN#99954/clothing blue helmet] riding [/EN#99953/vehicles bike] with [/EN#99955/bodyparts feet] on [/EN#99956/other handlebars] .
+[/EN#99952/people A boy] with [/EN#99954/clothing a blue helmet] plays on [/EN#99953/vehicles his bicycle] .

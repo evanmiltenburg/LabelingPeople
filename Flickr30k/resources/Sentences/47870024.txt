@@ -1,0 +1,5 @@
+[/EN#202754/people A boy] wearing [/EN#202755/clothing a helmet] rides [/EN#202756/vehicles a scooter] in [/EN#202758/scene a suburban neighborhood] .
+[/EN#202754/people a young boy] wearing [/EN#202755/clothing an orange helmet] riding [/EN#202756/vehicles a scooter]
+[/EN#202754/people A boy] in [/EN#202759/clothing yellow] is riding [/EN#202756/vehicles a scooter] on [/EN#202757/scene the street] .
+[/EN#202754/people A child] on [/EN#202756/vehicles a scooter] is jumping [/EN#202760/other the curb] .
+[/EN#202754/people A boy] on [/EN#202756/vehicles a scooter] .

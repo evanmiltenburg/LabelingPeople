@@ -1,0 +1,5 @@
+[/EN#180877/people a blond woman] standing in front of [/EN#180883/scene a store] holding [/EN#180879/clothing a white shopping bag] and [/EN#0/notvisual her] [/EN#180878/other cellphone]
+[/EN#180877/people Lady] with [/EN#180880/bodyparts gray hair] using [/EN#180878/other cellphone] and carrying [/EN#180879/clothing a shopping bag] in front of [/EN#180881/scene a boutique] .
+[/EN#180877/people A woman] is holding [/EN#180878/other a cellphone] and possibly waiting for [/EN#180884/vehicles a taxi] .
+[/EN#0/notvisual There] is [/EN#180877/people a woman] with [/EN#180880/bodyparts blond-hair] [/EN#0/notvisual who] has [/EN#180878/other her cellphone] out .
+[/EN#180877/people A woman] is making [/EN#180882/other a phone call] when [/EN#0/notvisual she] is shipping .

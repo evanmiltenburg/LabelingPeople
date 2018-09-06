@@ -1,0 +1,5 @@
+[/EN#270024/animals A little brown and white dog] emerges from [/EN#270025/scene a yellow collapsable toy tunnel] onto [/EN#270026/scene the lawn] .
+[/EN#270024/animals A white dog] emerges from [/EN#270025/other a yellow tube] on [/EN#270025/other an obstacle course] .
+[/EN#270024/animals A small dog] in front of [/EN#270025/other a yellow tube] on [/EN#270026/scene grass] .
+[/EN#270024/animals A small white dog] walks through [/EN#270025/other a yellow tube] .
+[/EN#270024/animals A dog] coming out of [/EN#270025/other a large yellow tube] .

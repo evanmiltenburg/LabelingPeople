@@ -1,0 +1,5 @@
+[/EN#263172/people One person] walks along [/EN#263176/scene a road] in [/EN#263173/scene a barren landscape] while [/EN#263180/vehicles cars] pass in [/EN#263179/other the same direction of travel] .
+[/EN#263172/people A person] walks along [/EN#263175/scene the shoulder of a road] in [/EN#263177/scene the desert] .
+[/EN#263172/people A woman] walking on [/EN#263174/scene the side of a highway] in [/EN#263173/scene the desert] .
+[/EN#263178/other A lone figure] walks along [/EN#263174/scene a desolate highway] .
+[/EN#263172/people A person] walking down [/EN#263176/scene a road] in [/EN#263177/scene the desert] .

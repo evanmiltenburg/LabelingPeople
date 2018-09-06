@@ -1,0 +1,5 @@
+[/EN#203748/people Young dirt bikers] try to get [/EN#203749/vehicles a dirt bike] up [/EN#203750/scene a sandy hill] .
+[/EN#203747/people A young man] pushes [/EN#203749/vehicles his motocross bike] up [/EN#203750/scene a dirt hill] .
+[/EN#203747/people A fallen dirt biker] is aided by [/EN#0/notvisual another] .
+[/EN#203747/people The dirt bike rider] is deep in [/EN#203750/other the sand] .
+[/EN#203748/people Two boys] lifting [/EN#203749/vehicles a dirt bike] .

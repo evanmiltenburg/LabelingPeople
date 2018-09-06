@@ -1,0 +1,5 @@
+[/EN#262317/vehicles Four sailing vessels] at [/EN#262311/scene sea] on [/EN#262310/scene a cloudy day] , [/EN#0/notvisual one smaller then] [/EN#262315/other the others] and [/EN#0/notvisual one other one much larger then] [/EN#262309/other the other three] .
+[/EN#262312/clothing Blue] and [/EN#262309/other gray sailboat] in [/EN#262311/scene the water] with [/EN#262308/vehicles/scene a few other boats] in front of [/EN#0/notvisual it] against [/EN#262310/scene a gray sky] .
+[/EN#262309/other A large competition sailboat] is surrounded by [/EN#262308/vehicles/scene three small boats] in [/EN#262311/scene the middle of the water] .
+[/EN#262308/other A collection of boats gathers] on [/EN#262311/scene the ocean] during [/EN#262310/scene a sunny day] .
+[/EN#262308/vehicles/scene A bunch of boats] in [/EN#262311/scene the nice blue water] .

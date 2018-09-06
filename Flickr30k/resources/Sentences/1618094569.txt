@@ -1,0 +1,5 @@
+[/EN#17650/people Guy] with [/EN#17651/bodyparts long black hair] and [/EN#17652/clothing t-shirt] playing [/EN#17653/instruments the bass] as [/EN#17654/people a man] holding [/EN#17655/other a microphone] sings
+[/EN#17650/people A man] with [/EN#17651/bodyparts black curly hair] plays [/EN#17653/instruments the bass guitar] in [/EN#17660/other a blurred photograph] .
+[/EN#17656/people Two men] are in [/EN#17661/people a band] ; [/EN#17650/other one] is playing [/EN#17653/instruments the guitar] and [/EN#0/notvisual another] is singing .
+[/EN#17656/people One man] sings while [/EN#0/notvisual another] plays [/EN#17653/instruments guitar] during [/EN#17659/other a stage show] .
+[/EN#17656/people Two men] wearing [/EN#17658/clothing black shirts] sing and play [/EN#17653/instruments the guitar] .

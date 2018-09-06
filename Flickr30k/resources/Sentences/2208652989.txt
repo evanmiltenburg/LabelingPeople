@@ -1,0 +1,5 @@
+[/EN#34240/people A person] in [/EN#34243/other reflective gear] is riding [/EN#34242/animals a white horse] on [/EN#34241/scene a cobblestone city street] .
+[/EN#34240/people A policeman] on [/EN#34242/animals a white horse] are patrolling [/EN#34244/scene the streets of the city] .
+[/EN#34240/people A person] ridding [/EN#34242/animals a white horse] with [/EN#34243/clothing reflective clothing] on .
+[/EN#34240/people A mounted policeman] in [/EN#34243/clothing yellow] is patrolling [/EN#34244/scene the streets] .
+[/EN#34240/people A person] riding [/EN#34242/animals a white horse] on [/EN#34241/scene a cobble street] .

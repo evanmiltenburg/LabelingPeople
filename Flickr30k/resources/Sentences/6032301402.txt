@@ -1,0 +1,5 @@
+[/EN#246829/people An older man] with [/EN#246830/bodyparts a gray beard] , wearing [/EN#246837/clothing jeans] , [/EN#246836/clothing a short-sleeve shirt] , [/EN#246832/clothing white hat] and [/EN#246840/clothing sunglasses] is holding [/EN#246838/other something] up while standing in [/EN#246831/other a field of wildflowers] .
+[/EN#246829/people A man] wearing [/EN#246839/clothing sunglasses] and [/EN#246832/clothing a hat] is standing in [/EN#246831/other a field of wildflowers] , inspecting [/EN#246833/other one of the flowers] .
+[/EN#246829/people An older male] looking at [/EN#246834/other something] in [/EN#246835/bodyparts his hands] as [/EN#0/notvisual he] walks through [/EN#246831/other a field of wildflowers] .
+[/EN#246829/people A man] is standing in [/EN#246831/scene a field] looking at [/EN#246833/other a plant] in [/EN#246835/bodyparts his hand] .
+[/EN#246829/people A man] with [/EN#246830/bodyparts a beard] is holding [/EN#246834/other a purple wildflower] .

@@ -1,0 +1,5 @@
+[/EN#269397/people A man] in [/EN#269398/other a small rowboat] traveling down [/EN#269394/scene a river] surrounded by [/EN#269395/other reeds] and [/EN#269395/scene grasslands] on [/EN#0/notvisual both sides] while [/EN#269401/animals seagulls] fly in [/EN#0/notvisual the air] nearby .
+[/EN#269393/vehicles/scene Boat] rowing along [/EN#269394/scene a tranquil river] flowing through [/EN#269395/other reeds] .
+[/EN#269396/people A group of boaters] boating down [/EN#269394/scene a winding waterway] .
+[/EN#269393/vehicles/scene A small boat] being rowed down [/EN#269394/scene a river] .
+[/EN#269403/animals three birds] flying across [/EN#269394/scene a lake]

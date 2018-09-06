@@ -1,0 +1,5 @@
+[/EN#190432/people A woman] wearing [/EN#190435/clothing a hat] and [/EN#190436/people a man] wearing [/EN#190439/clothing a black jacket] are sitting on [/EN#190434/other a ferry] on [/EN#190442/scene a sunny day] .
+[/EN#190432/people A woman] wearing [/EN#190435/clothing a hat] and [/EN#190436/people a man] covering [/EN#190443/bodyparts his eyes] sit on [/EN#190433/other benches] on [/EN#190434/vehicles/scene a boat] .
+[/EN#190432/people A woman] with [/EN#190435/clothing a flower hat] sits behind [/EN#190436/people a man] at [/EN#190441/scene the pier] .
+[/EN#190432/people A woman] in [/EN#190435/clothing a hat] and [/EN#190436/people a man] look out at [/EN#190437/scene the water] .
+[/EN#190438/people A couple of people] survey [/EN#190437/scene the sea] for [/EN#190444/animals wildlife] .

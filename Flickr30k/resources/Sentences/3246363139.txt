@@ -1,0 +1,5 @@
+[/EN#103995/people A small child] , wearing [/EN#103996/clothing a big coat] and [/EN#103997/clothing snow boots] , is unhappy while [/EN#0/notvisual she] tries to play outside with [/EN#103998/other her playhouse] while [/EN#0/notvisual it] is snowing .
+[/EN#103995/people A child] wearing [/EN#103996/clothing a gray winter coat] and [/EN#103997/clothing blue snow boots] is unhappy upon discovering [/EN#103998/other their playhouse] covered in [/EN#104000/scene snow] .
+[/EN#103995/people A young girl] plays with [/EN#103999/other her snowed] in [/EN#103998/other outdoor playhouse] .
+[/EN#103995/people Toddler] stands next to [/EN#103998/other snow covered playhouse] .
+[/EN#103995/people A young child] playing in [/EN#104000/scene the snow] .

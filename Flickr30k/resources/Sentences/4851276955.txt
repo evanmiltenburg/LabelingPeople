@@ -1,0 +1,5 @@
+[/EN#210725/people A man] in [/EN#210729/clothing a white cotton shirt] holds [/EN#210726/other a lit blue candle] and stands while touching [/EN#210730/bodyparts his forehead] to [/EN#210728/other the foot of a statue] on top of [/EN#210727/other a pillar] .
+[/EN#210725/people A man] carrying [/EN#210731/clothing a backpack] is holding [/EN#210726/other a lit candle] while [/EN#0/notvisual he] rest [/EN#210730/bodyparts his forehead] against [/EN#210732/people a column] .
+[/EN#210725/people A man] holding [/EN#210726/other a lighted candle] with [/EN#210730/bodyparts his head] leaning on [/EN#210728/other a statue] .
+[/EN#210725/people A man] in [/EN#210729/clothing a white shirt] hold [/EN#210726/other a blue candle] against [/EN#210727/other a pedestal] .
+[/EN#210725/people A man] is holding [/EN#210726/other a blue candle] .

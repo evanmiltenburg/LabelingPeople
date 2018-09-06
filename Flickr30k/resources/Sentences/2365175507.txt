@@ -1,0 +1,5 @@
+[/EN#44300/people A black male] leaping over [/EN#44302/other a hurdle] on [/EN#44303/scene a track] during [/EN#44304/scene a sunny day] .
+[/EN#44300/people A young man] in [/EN#44306/other perfect form] clearing [/EN#44301/other a hurdle] on [/EN#44303/scene a track] .
+[/EN#44300/people A young man] jumps over [/EN#44301/other a hurdle] on [/EN#44303/scene a track] .
+[/EN#44300/people A young man] running [/EN#44301/other hurdles] in [/EN#44305/other mid-jump] .
+[/EN#44300/people A track athlete] is jumping [/EN#44302/other a hurdle] .

@@ -1,0 +1,5 @@
+[/EN#234949/people Three people] biking on [/EN#234951/scene a path] with [/EN#234956/scene grass] on [/EN#234951/scene either side of the path] .
+[/EN#234950/people Two people] with [/EN#234959/clothing bicycle helmet] riding [/EN#234953/vehicles bikes] in [/EN#234954/scene a park] .
+[/EN#234949/people Three people] riding [/EN#234953/vehicles their bikes] on [/EN#234951/scene a sidewalk] .
+[/EN#234950/people Two bicyclists] pass [/EN#0/notvisual one another] on [/EN#234951/other a pathway] .
+[/EN#234949/people People] riding [/EN#234958/vehicles their bikes] on [/EN#234951/scene a trail] .

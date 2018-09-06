@@ -1,0 +1,5 @@
+[/EN#118654/people An older lady] in [/EN#118657/clothing a colorful dress] , [/EN#118660/clothing leather jacket] , and [/EN#118658/clothing black hat] sits on [/EN#118655/other a bench] in front of [/EN#118656/other an ancient-looking wall] .
+[/EN#118654/people Older woman] in [/EN#118657/clothing dress] and [/EN#118658/clothing hat] sitting on [/EN#118655/other a bench] waiting for [/EN#118659/other her company] to arrive .
+[/EN#118654/people A woman] sits on [/EN#118655/other a blue bench] in front of [/EN#118656/other a cobblestone wall] between [/EN#118661/other two trees] .
+[/EN#118654/people A woman] sitting on [/EN#118655/other a bench] in front of [/EN#118656/other a brick wall] .
+[/EN#118654/people A woman] is sitting on [/EN#118655/other a bench] on [/EN#118662/scene the street] .

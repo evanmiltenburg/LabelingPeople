@@ -1,0 +1,5 @@
+[/EN#11218/people A crowd of people] are standing outside next to [/EN#11219/scene a canal] at [/EN#11221/scene night] with [/EN#11220/vehicles/scene boats] passing by .
+[/EN#11218/people A group of people] outside after [/EN#11222/scene dark] facing [/EN#11219/scene a waterway] .
+[/EN#11218/people People] are gathered in [/EN#11218/people a crowd] looking at [/EN#11220/vehicles/scene boats] .
+[/EN#11218/people People] standing by [/EN#11219/scene a canal] as [/EN#11220/vehicles/scene boats] pass by .
+[/EN#11218/people a crowd] is gathered around [/EN#11223/vehicles/scene a boat] at [/EN#11221/scene night] .

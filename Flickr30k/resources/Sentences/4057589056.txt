@@ -1,0 +1,5 @@
+[/EN#153689/people A little blond girl] dressed like [/EN#153690/clothing " Little Red] Riding [/EN#153690/other Hood] " sitting on [/EN#153692/scene a fireplace] .
+[/EN#153689/people A young girls] sits in front of [/EN#153692/scene a fireplace] wearing [/EN#153693/clothing a red robe] .
+[/EN#153689/people A little blond girl] is dressed up like [/EN#153690/clothing little Red] Riding [/EN#153690/other Hood] .
+[/EN#153689/people A little girl] in [/EN#153693/clothing a red robe] with [/EN#153694/other a basket] on [/EN#0/notvisual her side] .
+[/EN#153689/people A young child] dressed as [/EN#153690/other little red riding hood] .

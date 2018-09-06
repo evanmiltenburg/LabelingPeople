@@ -1,0 +1,5 @@
+[/EN#163898/people a man] wearing [/EN#163902/clothing a coat] and [/EN#163903/clothing rain hat] pushes [/EN#163899/vehicles a blue shopping cart] loaded with [/EN#163901/other his belongings] across [/EN#163905/scene a street] .
+[/EN#163898/people A man] wearing [/EN#163902/clothing a coat] and [/EN#163903/clothing floppy hat] pushes [/EN#163900/clothing a blue shopping cart full of bags] .
+[/EN#163898/people A homeless man] pushes [/EN#163899/vehicles an overfilled plastic blue shopping cart] .
+[/EN#163898/people Old man] in [/EN#163902/clothing a dark coat] pushing [/EN#163899/vehicles a cart] filled with [/EN#163906/scene sacks] .
+[/EN#163898/people A man] pushes [/EN#163899/vehicles a shopping cart] full of [/EN#163904/other aluminum cans] .

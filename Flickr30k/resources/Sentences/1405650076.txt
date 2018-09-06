@@ -1,0 +1,5 @@
+[/EN#11541/people A young boy] with [/EN#11542/bodyparts long brown hair] hides behind [/EN#11543/other a cardboard box] , peering over [/EN#11544/other the top of the box] in [/EN#11547/scene an area] with [/EN#11545/other green crates of fruits and vegetables] .
+[/EN#11541/people A young male child] with [/EN#11542/bodyparts curly brown hair] , hiding behind [/EN#11543/other a cardboard box] in [/EN#11547/scene a vegetable vendor 's market] .
+[/EN#11541/people A little boy] is hiding underneath [/EN#11546/other a table] on [/EN#11547/scene the street] [/EN#0/notvisual that] is displaying [/EN#11545/other fruit] .
+[/EN#11541/people A young boy] with [/EN#11542/bodyparts brown hair] is hiding behind [/EN#11544/clothing a crate of oranges] .
+[/EN#11541/people A boy] hides among [/EN#11545/other crates of fruit] .

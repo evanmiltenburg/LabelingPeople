@@ -1,0 +1,5 @@
+[/EN#173812/people a man] wearing [/EN#173813/clothing a robe] stands next to [/EN#173814/other a table full of various cheeses]
+[/EN#173812/people A customer] in [/EN#173813/clothing a black jacket] is looking at [/EN#173814/other fine cheeses] .
+[/EN#0/notvisual He] prepares to give [/EN#173817/other meals] to [/EN#173815/other the less fortunate] .
+[/EN#173812/people A monk] is looking at [/EN#173814/other various cheeses] on [/EN#173816/other a table] .
+[/EN#173812/people A man] in [/EN#173813/clothing a brown cloak] looks at [/EN#173814/other baked goods] .

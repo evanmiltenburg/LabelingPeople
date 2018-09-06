@@ -1,0 +1,5 @@
+[/EN#232471/people An aerial view of a group of people] dressed in [/EN#232475/clothing various color clothing] running or walking down [/EN#232473/scene an empty street] .
+[/EN#232471/people A group of joggers] are running downhill on [/EN#232473/scene a street] .
+[/EN#0/notvisual There] are [/EN#232471/people people] running down [/EN#232474/scene a hill] in [/EN#232472/scene the city] .
+[/EN#232471/people People] go by [/EN#232476/other old white walls] with [/EN#232477/other gray squares] .
+[/EN#232471/people People] running downhill in [/EN#232472/scene a city] .

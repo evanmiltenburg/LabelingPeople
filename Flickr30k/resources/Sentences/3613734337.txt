@@ -1,0 +1,5 @@
+[/EN#131680/people A woman] in [/EN#131685/clothing sunglasses] sitting in front of [/EN#131682/other a wall] [/EN#0/notvisual that] is in [/EN#131687/clothing two shades of blue] .
+[/EN#131680/people An official] in [/EN#131681/clothing a blue jacket] sits on [/EN#131682/other the sidelines of a tennis match] .
+[/EN#131680/people A woman] sits on [/EN#131683/other a chair] against [/EN#131682/other a blue wall] beside [/EN#131684/scene a tennis court] .
+[/EN#131680/people Woman] in [/EN#131681/clothing a blue jacket] sitting at [/EN#131686/scene the edge of a tennis court] .
+[/EN#131680/people a woman] is sitting at [/EN#131682/other the line of a tennis match] .

@@ -1,0 +1,5 @@
+[/EN#53158/people A person] making [/EN#53160/other a peanut butter] and [/EN#53159/other jelly sandwich] .
+[/EN#53159/other A sandwich] with [/EN#53160/other peanut butter] is being made .
+[/EN#53158/people A person] putting [/EN#53164/other peanut butter] on [/EN#53163/other bread] .
+[/EN#53158/people Someone] is preparing [/EN#53160/other some kind of food] .
+[/EN#53161/bodyparts A pair of hands] involved in [/EN#53162/other a task] .

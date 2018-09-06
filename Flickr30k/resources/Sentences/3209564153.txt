@@ -1,0 +1,5 @@
+[/EN#101313/people A skier] wearing [/EN#101314/clothing a blue jacket] and [/EN#101315/clothing helmet] is skiing down [/EN#101316/scene a hill] .
+[/EN#101313/people A man] in [/EN#101314/clothing a blue jacket] with [/EN#101315/clothing a helmet] on [/EN#101317/other skiing] .
+[/EN#101313/people A skier] going goes down [/EN#101316/scene the mountain] .
+[/EN#101313/people A skier] is coming down [/EN#101316/scene a hill] .
+[/EN#101313/people A person] skiing down [/EN#101316/scene a hill] .

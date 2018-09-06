@@ -1,0 +1,5 @@
+[/EN#171682/animals The black and brown dog] carries [/EN#171683/other a purple toy] in [/EN#171684/scene the snow] .
+[/EN#171682/animals A black dog] runs through [/EN#171684/scene the snow] carrying [/EN#171683/other a blue toy] .
+[/EN#171682/animals A black dog] playing with [/EN#171683/other a purple toy] in [/EN#171684/scene the snow] .
+[/EN#171682/animals Dog] running with [/EN#171683/other a purple toy] in [/EN#171684/scene the snowy field] .
+[/EN#171682/animals A dog] plays in [/EN#171684/scene the snow] .

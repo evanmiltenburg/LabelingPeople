@@ -1,0 +1,5 @@
+[/EN#155075/people A woman] sits at [/EN#155077/scene a restaurant] with [/EN#0/notvisual her] back against [/EN#155076/other a brick wall] .
+[/EN#155075/people The woman] wearing [/EN#155080/clothing a blue shirt] sits in front of [/EN#155076/other a brick wall] .
+[/EN#155075/people A woman] sitting against [/EN#155076/other a brick wall] inside [/EN#155077/scene a building] .
+[/EN#155075/people A woman] sits in [/EN#155078/other a cafe] , looking out [/EN#155079/other a window] .
+[/EN#155075/people A woman] sits alone against [/EN#155076/other a brick wall]

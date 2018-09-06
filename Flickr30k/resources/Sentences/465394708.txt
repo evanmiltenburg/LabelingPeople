@@ -1,0 +1,5 @@
+[/EN#187243/people A woman] in [/EN#187247/clothing a gray jacket] is riding [/EN#187244/vehicles her bike] and looking at [/EN#187245/other her mobile device] .
+[/EN#187243/people The woman] is checking [/EN#187245/other her device] as [/EN#0/notvisual she] pedals down [/EN#187248/scene the street] .
+[/EN#0/notvisual I] woman pedaling [/EN#187244/vehicles a bicycle cart] looks at [/EN#187245/other her cellphone] .
+[/EN#187243/people woman] riding [/EN#187244/vehicles a bicycle cart] .
+[/EN#187243/people Woman] texting while [/EN#187246/other biking] .

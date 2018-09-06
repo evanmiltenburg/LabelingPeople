@@ -1,0 +1,5 @@
+[/EN#14027/people A man] in [/EN#14029/clothing a white shirt] and [/EN#14032/clothing glasses] is playing [/EN#14028/instruments the guitar] and sitting next to [/EN#14030/people a woman] also dressed in white .
+[/EN#14027/people An asian man] is playing [/EN#14028/instruments guitar] while [/EN#14030/people a woman] is sitting on [/EN#14033/other a couch] .
+[/EN#14027/people A man] in [/EN#14029/clothing white shirt] play [/EN#14028/instruments guitar] to [/EN#14030/people a woman] in [/EN#14031/clothing a white shirt] .
+[/EN#14027/people A man] is playing [/EN#14028/instruments a guitar] while sitting beside [/EN#14030/people a woman] .
+[/EN#14027/people A man] singing and playing [/EN#14028/instruments guitar] for [/EN#14030/people a woman] .

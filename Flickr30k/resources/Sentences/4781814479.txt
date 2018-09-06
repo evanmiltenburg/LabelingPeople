@@ -1,0 +1,5 @@
+[/EN#202109/people Many people] in [/EN#202117/clothing casual clothing] are crossing [/EN#202110/scene a city intersection] in [/EN#0/notvisual both directions] .
+[/EN#202112/people The guy] in [/EN#202113/clothing the blue sweater] is crossing [/EN#202110/scene the street] with [/EN#202115/clothing an umbrella] in [/EN#202118/bodyparts hand] .
+[/EN#202109/people Many people] are walking across [/EN#202110/scene a street] in [/EN#202114/scene a large city] .
+[/EN#202109/people Many people] walking through [/EN#202111/scene a city street] .
+[/EN#202109/people People] are walking in [/EN#202111/scene a city street] .

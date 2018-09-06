@@ -1,0 +1,5 @@
+[/EN#111597/people A skier] wearing [/EN#111599/clothing bright yellow pants] is skiing down [/EN#111598/scene a snowy mountain] .
+[/EN#111597/people Person] in [/EN#111600/clothing black jacket] and [/EN#111599/clothing green pants] skiing downhill
+[/EN#111597/people A skier] in [/EN#111599/clothing yellow pants] goes down [/EN#111598/other a slope] .
+[/EN#111597/people A skier] swishing down [/EN#111598/scene a mountain trail] .
+[/EN#111597/people Someone] skiing down [/EN#111598/scene an empty mountain] .

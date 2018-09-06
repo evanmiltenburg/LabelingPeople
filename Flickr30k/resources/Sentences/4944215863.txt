@@ -1,0 +1,5 @@
+[/EN#221588/people A man] in [/EN#221594/clothing a red apron] sells [/EN#221591/other snacks] and [/EN#221598/other toys] from [/EN#221599/vehicles a cart] .
+[/EN#221588/people A man] sitting at [/EN#221593/scene a market] reading [/EN#221590/other the paper] .
+[/EN#221588/people A man] in [/EN#221596/clothing a vest] is reading [/EN#221590/other the newspaper] .
+[/EN#221588/people Vendors] serve [/EN#221591/other food] on [/EN#221595/scene the street] .
+[/EN#221588/people a cook] selling [/EN#221597/other his goods] .

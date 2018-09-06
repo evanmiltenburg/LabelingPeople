@@ -1,0 +1,5 @@
+[/EN#276884/people A man] and [/EN#276885/people a woman] sit at [/EN#276886/scene the end of a dock] [/EN#0/notvisual which] is surrounded by [/EN#276888/scene water] , near [/EN#276889/scene another dock] [/EN#0/notvisual that] has [/EN#276890/other a wooden roof-type structure] over [/EN#0/notvisual it] .
+[/EN#276884/people A man] and [/EN#276885/people women] sitting on [/EN#276886/scene the end of a dock] overlooking [/EN#276888/scene the water] .
+[/EN#276884/people A man] and [/EN#276885/people woman] sit at [/EN#276886/scene the end of a small dock] along [/EN#276888/scene the water] .
+[/EN#276884/people A man] and [/EN#276885/people a woman] enjoying [/EN#276892/scene the sunset] on [/EN#276886/scene the pier] .
+[/EN#276885/people Old group] sits on [/EN#276886/scene the dock] and [/EN#276891/other contemplates life] .

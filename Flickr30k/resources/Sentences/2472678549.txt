@@ -1,0 +1,5 @@
+[/EN#52031/people A boy] in [/EN#52034/scene the bathroom] wearing [/EN#52036/clothing a Spiderman t-shirt] holding [/EN#52033/other a ball] and [/EN#52035/other a toothbrush] .
+[/EN#52031/people a Kid] in [/EN#52032/clothing a spiderman outfit] holds [/EN#52035/other toothbrush] and [/EN#52033/other ball] in [/EN#52034/scene the bathroom]
+[/EN#52031/people A boy] is in [/EN#52034/scene the bathroom] holding [/EN#52033/other a green ball] and [/EN#52035/other a toothbrush] .
+[/EN#52031/people A boy] wearing [/EN#52032/clothing Spiderman clothes] standing in [/EN#52034/scene a bathroom] .
+[/EN#52031/people A little boy] is in [/EN#52034/scene a bathroom] holding [/EN#52033/other a green ball] .

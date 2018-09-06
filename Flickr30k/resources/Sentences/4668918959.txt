@@ -1,0 +1,5 @@
+[/EN#188538/people A young man] riding [/EN#188544/scene her bicycle home] after [/EN#188547/other long day work] in [/EN#188546/scene his family city restaurant] .
+[/EN#188538/people A cyclist] with [/EN#188540/clothing a green backpack] and [/EN#188543/clothing a helmet] riding [/EN#188539/scene the streets] .
+[/EN#188538/people Man] riding [/EN#188541/vehicles a bicycle] through [/EN#188548/scene town] with [/EN#188540/clothing a green backpack] .
+[/EN#188538/people A cyclist] rides down [/EN#188539/scene the street] followed by [/EN#188542/vehicles a blue car] .
+[/EN#188538/people A man] on [/EN#188541/other his bicycle crosses] [/EN#188539/scene a city street] .

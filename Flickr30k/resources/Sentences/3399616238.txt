@@ -1,0 +1,5 @@
+[/EN#115551/people A man] with [/EN#115553/clothing a bowtie] made out of [/EN#115555/other a dollar] and wearing [/EN#115554/clothing glasses] is looking into [/EN#0/notvisual the camera] .
+[/EN#115551/people An old man] wearing [/EN#115552/clothing a green bowtie] and [/EN#115554/clothing glasses] looking toward [/EN#0/notvisual the camera] .
+[/EN#115551/people A man] with [/EN#115552/clothing a bowtie] looks at [/EN#0/notvisual the camera] with [/EN#115556/other no expression] .
+[/EN#115551/people A man] wearing [/EN#115553/clothing a bowtie] and [/EN#115554/clothing glasses] poses for [/EN#115557/other a photo] .
+[/EN#115551/people A man] wearing [/EN#115554/clothing glasses] and [/EN#115552/clothing a green bowtie] .

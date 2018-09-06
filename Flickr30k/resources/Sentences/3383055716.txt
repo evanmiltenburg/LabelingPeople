@@ -1,0 +1,5 @@
+[/EN#114498/people A man] wearing [/EN#114501/clothing a sweater] , [/EN#114502/clothing jeans] , and [/EN#114503/clothing a green beret] crouches to operate [/EN#114499/other a mechanical tool] .
+[/EN#114498/people A man] is using [/EN#114499/other a machine] on [/EN#0/notvisual the ground] in front of [/EN#114504/animals a stone peacock] .
+[/EN#114498/people Man] sitting on [/EN#0/notvisual the ground] fixing [/EN#114500/other a tool] .
+[/EN#114498/people A man] works on installing [/EN#114505/scene a floor] .
+[/EN#114498/people An artist] works with [/EN#114499/other his tools] .

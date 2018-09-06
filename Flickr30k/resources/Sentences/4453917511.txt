@@ -1,0 +1,5 @@
+[/EN#169914/people An elderly lady] in [/EN#169915/clothing a tan coat] [/EN#0/notvisual who] is walking down [/EN#169916/scene the street] .
+[/EN#169914/people An elderly women] in [/EN#169915/clothing a coat] walking down [/EN#169916/scene the street] .
+[/EN#169914/people woman] with [/EN#169917/bodyparts white hair] walking down [/EN#169916/scene the street] .
+[/EN#169914/people A mature lady] is walking down [/EN#169916/scene the sidewalk] .
+[/EN#169914/people Lady] in [/EN#169915/clothing tan coat] walking down [/EN#169916/scene the street] .

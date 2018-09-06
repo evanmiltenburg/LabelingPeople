@@ -1,0 +1,5 @@
+[/EN#83166/people a man] sitting on [/EN#83167/other a motorcycle] with [/EN#83169/scene a sunset] directly behind [/EN#0/notvisual him]
+[/EN#83166/people The man] sat on [/EN#83167/vehicles the dirt bike] as [/EN#83171/other the sun] sets in [/EN#0/notvisual the distance] .
+[/EN#83166/people The man] is on [/EN#83167/vehicles a bike] and sitting in front of [/EN#83169/scene the sunset] .
+[/EN#83166/people A man] on [/EN#83167/other a motorcycle] is silhouetted by [/EN#83169/scene the sunset] .
+[/EN#83166/people a dirt biker] stands in [/EN#83169/scene the sunset] .

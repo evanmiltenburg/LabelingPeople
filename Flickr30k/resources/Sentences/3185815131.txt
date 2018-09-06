@@ -1,0 +1,5 @@
+[/EN#99385/people A man] with [/EN#99387/clothing a brown shirt] on is using [/EN#99389/other a video camera] .
+[/EN#99385/people A man] wearing [/EN#99387/clothing a brown t-shirt] holds [/EN#99389/other a video camera] .
+[/EN#99385/people A musician] holding [/EN#99388/instruments a guitar] videotapes [/EN#99391/other some action] .
+[/EN#99385/people A man] videotaping with [/EN#99388/instruments a guitar] on [/EN#99392/bodyparts his shoulder] .
+[/EN#99385/people Musician] makes [/EN#99390/other a home movie] .

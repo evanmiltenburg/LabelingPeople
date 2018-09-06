@@ -1,0 +1,5 @@
+[/EN#141906/people A girl] in [/EN#141908/clothing a purple dress] is sitting on [/EN#141910/other furniture] with [/EN#141911/other red pillows] , while smiling for [/EN#0/notvisual the camera] .
+[/EN#141906/people A woman] with [/EN#141908/clothing a blue and black shirt] on is smiling while [/EN#0/notvisual she] sits in front of [/EN#141913/scene a rose bush] .
+[/EN#141906/people A woman] in [/EN#141908/clothing a blue dress] is sitting on [/EN#141910/other a red wooden couch] .
+[/EN#141906/people a woman] in [/EN#141908/clothing a blue shirt] sitting on [/EN#141910/other a red couch]
+[/EN#141906/people A woman] sitting next to [/EN#141912/other roses] .

@@ -1,0 +1,5 @@
+[/EN#107568/people A man] skis down [/EN#107569/scene the hill] , spraying [/EN#107572/scene snow] in [/EN#0/notvisual the air] , [/EN#107570/scene ski lifts] in [/EN#0/notvisual the background] .
+[/EN#107568/people a skier] going down [/EN#107569/scene a hill] with [/EN#107574/vehicles cable cars] in [/EN#0/notvisual the background]
+[/EN#107568/people A skier] descends [/EN#107569/scene the snowy ski slope] beneath [/EN#107570/scene the ski lift] .
+[/EN#107568/people Person] skiing on [/EN#107569/other slope] near [/EN#107570/scene ski lift]
+[/EN#107568/people A person] is skiing .

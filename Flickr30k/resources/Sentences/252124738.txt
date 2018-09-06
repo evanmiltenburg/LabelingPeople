@@ -1,0 +1,5 @@
+[/EN#54907/people A man] with [/EN#54908/bodyparts a tattoo] on [/EN#54909/bodyparts/people one arm] and [/EN#54910/other an ear of corn] in [/EN#54911/other the other] looks at [/EN#54912/people a woman] in [/EN#54913/clothing a yellow shirt] .
+[/EN#54912/people A female] wearing [/EN#54913/clothing yellow] and [/EN#54907/people a man] eating [/EN#54910/other a corn] with [/EN#54914/people a big crowd of people] behind [/EN#0/notvisual them] .
+[/EN#54912/people A woman] [/EN#54913/clothing in yellow] sitting next to [/EN#54907/people a man] with [/EN#54910/other a cob of corn] .
+[/EN#54907/people A man] eats [/EN#54910/other corn] on [/EN#54910/other the cob] while talking to [/EN#54912/people a woman] .
+[/EN#54915/people A couple] sitting together while [/EN#54907/people the man] eats [/EN#54910/other corn] .

@@ -1,0 +1,5 @@
+[/EN#127063/animals A black and white dog] running through [/EN#127064/scene shallow water] .
+[/EN#127063/animals Black dog] with [/EN#127065/bodyparts white feet] running into [/EN#127064/scene a lake] .
+[/EN#127063/animals The black dog] is running through [/EN#127064/scene water] .
+[/EN#127063/animals A black dog] running through [/EN#127064/scene water] .
+[/EN#127063/animals A black dog] is running on [/EN#127064/scene water] .

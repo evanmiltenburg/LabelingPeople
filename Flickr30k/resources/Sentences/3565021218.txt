@@ -1,0 +1,5 @@
+[/EN#128133/people The small girl] in [/EN#128134/clothing the yellow dress] laid on [/EN#128136/other the bedspread] surrounded by [/EN#128135/other flowers] .
+[/EN#128133/people A little girl] in [/EN#128134/clothing a yellow dress] lays on [/EN#128139/scene a wooden floor] surrounded by [/EN#128135/other flowers] .
+[/EN#128133/people The girl] with [/EN#128134/clothing a yellow dress] and [/EN#128137/clothing sandals] on is surrounded by [/EN#128135/other yellow flowers] .
+[/EN#128133/people a young girl] in [/EN#128134/clothing a bright yellow dress] surrounded by [/EN#128135/other yellow flowers]
+[/EN#128133/people a young girl] wearing [/EN#128138/other yellow lays] on [/EN#0/notvisual the ground] .

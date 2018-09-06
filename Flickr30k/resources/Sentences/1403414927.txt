@@ -1,0 +1,5 @@
+[/EN#11413/animals A black dog] in front of [/EN#11414/animals a white dog] walking on [/EN#11415/scene a path] in [/EN#11418/scene a forest] .
+[/EN#11416/clothing A white] and [/EN#11413/animals a gray dog] walking along [/EN#11415/scene a path] in [/EN#11419/other the wood] .
+[/EN#11414/animals White dog] and [/EN#11413/animals black dog] going down [/EN#11415/scene trail] in [/EN#11418/scene wooded area]
+[/EN#11416/clothing Gray] and [/EN#11417/animals black dogs] running away down [/EN#11415/scene forest path]
+[/EN#11417/animals These two dogs] are walking in [/EN#11418/scene a forest] .

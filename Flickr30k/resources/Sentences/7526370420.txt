@@ -1,0 +1,5 @@
+[/EN#271006/people A guitarist] in [/EN#271011/clothing a black shirt] and [/EN#271013/clothing glasses] on [/EN#271008/scene a stage] surrounded by [/EN#271010/other lights] with [/EN#271012/other a microphone] in front of [/EN#0/notvisual him] .
+[/EN#271006/people Male guitarist] wearing [/EN#271009/clothing glasses] on [/EN#271008/scene stage] while [/EN#271010/other lights] shine in [/EN#271015/other the back] .
+[/EN#271006/people One man] on [/EN#271008/scene stage] , playing [/EN#271007/instruments a guitar] with [/EN#271010/other lights] in [/EN#0/notvisual the background] .
+[/EN#271006/people A young man] in [/EN#271009/clothing glasses] plays [/EN#271007/instruments his guitar] on [/EN#271008/scene stage] .
+[/EN#271006/people The bands guitarist] begins [/EN#271014/other his solo] on [/EN#271008/scene stage] .

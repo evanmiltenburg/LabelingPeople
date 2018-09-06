@@ -1,0 +1,5 @@
+[/EN#11783/people A man] in [/EN#11785/clothing jacket] , [/EN#11790/clothing hat] , and [/EN#11791/other hood] , facing away from [/EN#0/notvisual the camera] holds [/EN#11786/bodyparts his hands] up and together .
+[/EN#11783/people A man] wearing [/EN#11785/clothing a gray jacket] has [/EN#11786/bodyparts his fingers] up in [/EN#0/notvisual the air] in [/EN#11792/scene the middle of a street] .
+[/EN#11783/people A black man] is holding is [/EN#11786/bodyparts hands] to [/EN#11787/scene the sky] in [/EN#11788/scene a city] .
+[/EN#11783/people A closeup of a man] holding [/EN#11786/bodyparts his hands] up in [/EN#0/notvisual the air] .
+[/EN#11783/people man] making [/EN#11789/other hand signals] in [/EN#0/notvisual the air]

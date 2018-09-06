@@ -1,0 +1,5 @@
+[/EN#263022/people A man] in [/EN#263023/clothing a black leather coat] with [/EN#263027/bodyparts a 1950s hairstyle] is playing [/EN#263024/instruments a guitar] and singing on [/EN#263025/scene stage] .
+[/EN#263022/people A man] in [/EN#263023/clothing a leather jacket] is playing [/EN#263024/instruments a guitar] and singing to [/EN#263026/people a crowd] .
+[/EN#263022/people A male vocalist] plays [/EN#263024/instruments guitar] and sings under [/EN#263028/other the spotlight] .
+[/EN#263022/people The rock star] is playing [/EN#263024/instruments his guitar] while [/EN#0/notvisual he] is singing .
+[/EN#263022/people A musician] on [/EN#263025/scene stage] singing and playing [/EN#263024/instruments guitar] .

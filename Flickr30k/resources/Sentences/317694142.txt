@@ -1,0 +1,5 @@
+[/EN#98509/people 4 People] are standing on [/EN#98515/scene a stage] in front of [/EN#98514/people an audience] in [/EN#98512/scene a library]
+[/EN#98509/people Several young people] gather in [/EN#98512/scene the library] to hear [/EN#98516/other others] speak .
+[/EN#98508/people A man] with [/EN#98510/clothing a blue shirt] speaks to [/EN#98511/people a crowd] .
+[/EN#98508/people A man] in [/EN#98510/clothing a blue shirt] addresses [/EN#98511/people a crowd] .
+[/EN#98508/people man] making [/EN#98513/other an announcement] at [/EN#98512/scene a library]

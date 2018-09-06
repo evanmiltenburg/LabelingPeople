@@ -1,0 +1,5 @@
+[/EN#13437/people A man] driving [/EN#13438/scene a fork lift] in [/EN#13439/people a large crowd of people] on [/EN#13441/scene the street] .
+[/EN#13437/people A bald man] driving [/EN#13438/other a blue lifting machine] through [/EN#13439/people a crowd] .
+[/EN#13437/people A man] drives [/EN#13438/other a blue forklift trough] [/EN#13441/scene a busy street] .
+[/EN#13437/people A man] drives [/EN#13438/other a blue forklift] through [/EN#13439/people a crowd] .
+[/EN#13437/people man] operating [/EN#13438/other a blue forklift]

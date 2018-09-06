@@ -1,0 +1,5 @@
+[/EN#30491/people A young boy] jumping into [/EN#30492/scene a pool] [/EN#0/notvisual that] says [/EN#30494/other " no diving] " .
+[/EN#30491/people A boy] jumps into [/EN#30492/scene a pool] while [/EN#30493/people lifeguards] watch .
+[/EN#30491/people A boy] jumps into [/EN#30492/scene a not-so-crowded public pool] .
+[/EN#30491/people The boy] is jumping into [/EN#30492/scene the swimming pool] .
+[/EN#30491/people A young boy] jumping into [/EN#30492/scene a pool] .

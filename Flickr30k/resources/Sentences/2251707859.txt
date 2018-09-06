@@ -1,0 +1,5 @@
+[/EN#36943/people An old man] wearing [/EN#36946/clothing a green jacket] sits on [/EN#36944/other a bench] while [/EN#0/notvisual he] reads [/EN#36945/other his book] .
+[/EN#36943/people An old man] in [/EN#36946/clothing a green coat] reading while sitting on [/EN#36944/other a bench] .
+[/EN#36943/people A hold man] in [/EN#36946/clothing green jacket] reads [/EN#36945/other a book] along [/EN#36949/scene a dirt trail] .
+[/EN#36943/people An old man] reading on [/EN#36944/other a bench] by [/EN#36948/other a forrest] .
+[/EN#36943/people An elderly man] sitting on [/EN#36944/other a bench] reading .

@@ -1,0 +1,5 @@
+[/EN#98416/people A person] in [/EN#98426/clothing a white sports coat] and [/EN#98426/clothing a puppy shirt] sits alone at [/EN#98419/other a table] in front of [/EN#98422/other a Starbucks] .
+[/EN#98416/people A person] has [/EN#98418/other a cigarette] in [/EN#98425/bodyparts their left hand] and [/EN#98420/bodyparts their hand] is touching [/EN#98421/bodyparts their head] .
+[/EN#98416/people A woman] sitting at [/EN#98419/other a table] outside of [/EN#98422/scene a store] [/EN#0/notvisual that] says parking in [/EN#98417/other the window] .
+[/EN#98416/people A person] sits outside at [/EN#98419/other a table] and rests [/EN#98421/bodyparts their head] in [/EN#98420/bodyparts their hand] .
+[/EN#98416/people A person] sitting down and taking [/EN#98423/scene a cigarette break] .

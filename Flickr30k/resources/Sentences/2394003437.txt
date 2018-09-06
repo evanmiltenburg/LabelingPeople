@@ -1,0 +1,5 @@
+[/EN#46200/people A boy] rides [/EN#46201/vehicles a Segway scooter] through [/EN#46207/scene a crowded city plaza] .
+[/EN#46200/people The child] in [/EN#46202/clothing the green shirt] is on [/EN#46201/other a machine] with [/EN#46206/other wheels] .
+[/EN#46200/people A boy] in [/EN#46202/clothing a green shirt] and [/EN#46204/clothing blue jeans] riding [/EN#46201/vehicles a segway] .
+[/EN#46200/people A boy] in [/EN#46202/clothing a green t-shirt] is riding on [/EN#46201/vehicles a Segway]
+[/EN#46200/people kid] holding [/EN#46205/other handles] on [/EN#46201/other two wheeled object]

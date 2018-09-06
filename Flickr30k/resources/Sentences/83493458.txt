@@ -1,0 +1,5 @@
+[/EN#281167/people A boy] is pushing [/EN#281171/other an object] with [/EN#281172/other a handle] while wearing [/EN#281170/clothing sunglasses] by [/EN#281168/scene a building] with [/EN#281173/other a blue and white striped awning] .
+[/EN#281167/people A man] is riding [/EN#281169/vehicles a scooter] in front of [/EN#281168/scene a store] .
+[/EN#281167/people A man] wearing [/EN#281170/clothing sunglasses] is riding [/EN#281169/vehicles a scooter] .
+[/EN#281167/people A boy] riding [/EN#281169/vehicles his scooter] with [/EN#281170/clothing sunglasses] on .
+[/EN#281167/people A man] with [/EN#281170/clothing sunglasses] rides [/EN#281169/vehicles a scooter] .

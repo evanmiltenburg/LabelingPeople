@@ -1,0 +1,5 @@
+[/EN#22139/animals A white dog] has jumped up in [/EN#0/notvisual the air] to catch [/EN#22140/other a Frisbee] .
+[/EN#22139/animals A dog] catches [/EN#22140/other a Frisbee] as [/EN#0/notvisual it] jumps on [/EN#22142/scene the grass] .
+[/EN#22139/animals The white dog] has [/EN#22140/other a gray Frisbee] in [/EN#22143/bodyparts its mouth] .
+[/EN#22139/animals A pitbull] jumps to catch [/EN#22140/other a flying disc] .
+[/EN#22139/animals The dog] jumps to catch [/EN#22140/other the Frisbee] .

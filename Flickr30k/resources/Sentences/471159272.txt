@@ -1,0 +1,5 @@
+[/EN#193889/people A man] is walking [/EN#193891/other a tightrope] [/EN#193896/bodyparts a few feet] off [/EN#0/notvisual the ground] on [/EN#193890/scene a sidewalk] as [/EN#193892/people a woman] takes [/EN#193893/other a photo] .
+[/EN#193889/people A tightrope walker] entertains [/EN#193895/people pedestrians] on [/EN#193890/scene an urban street] .
+[/EN#193892/people A woman] runs up to [/EN#193889/people a juggling man] on [/EN#193891/other a tightrope] .
+[/EN#193889/people A man] performing and standing on [/EN#193891/other a rope] .
+[/EN#193889/people A man] is standing on [/EN#193891/other a rope] .

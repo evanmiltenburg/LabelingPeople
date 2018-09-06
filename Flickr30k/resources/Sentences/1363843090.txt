@@ -1,0 +1,5 @@
+[/EN#10065/animals A dog] walking through [/EN#10068/scene a stream] carrying [/EN#10066/other a white towel] in [/EN#10067/bodyparts its mouth]
+[/EN#10065/animals A dog] walking through [/EN#10068/scene a small stream] with [/EN#10066/other a rag] in [/EN#10067/bodyparts his mouth] .
+[/EN#10065/animals A dog] drags [/EN#10066/other a white rag] through an almost-dried up [/EN#10068/scene creek] .
+[/EN#10065/animals A dog] is wading in [/EN#10068/scene a river] with [/EN#10066/other a towel] in [/EN#10067/bodyparts its mouth] .
+[/EN#10065/animals A black dog] retrieves [/EN#10066/other a cloth] from [/EN#10069/other a streambed] .

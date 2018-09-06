@@ -1,0 +1,5 @@
+[/EN#102159/people A man] with [/EN#102164/bodyparts long hair] and [/EN#102165/bodyparts a mustache] sits on [/EN#102160/other a milk crate] and plays [/EN#102161/instruments the guitar] .
+[/EN#102159/people An old black man] , playing [/EN#102161/instruments a guitar] on [/EN#102162/scene the sidewalk] .
+[/EN#102159/people An elderly man] plays [/EN#102161/instruments guitar] for [/EN#102163/other money] on [/EN#102162/scene the street] .
+[/EN#102159/people Man] sitting on [/EN#102160/other milk crate] plays [/EN#102161/instruments guitar] on [/EN#102162/scene sidewalk] .
+[/EN#102159/people A man] sitting on [/EN#102160/other a crate] plays [/EN#102161/instruments the guitar] .

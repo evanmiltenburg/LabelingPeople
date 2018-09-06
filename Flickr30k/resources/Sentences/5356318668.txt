@@ -1,0 +1,5 @@
+[/EN#234491/people A small Asian boy] takes [/EN#234496/other a nap] in [/EN#234492/vehicles a shopping cart] in [/EN#234495/other a grocery store aisle] .
+[/EN#234491/people A little boy] is sleeping in [/EN#234492/vehicles a shopping cart] while in [/EN#234493/scene a grocery store] .
+[/EN#234491/people An Asian child] sleeping in [/EN#234492/vehicles a grocery cart] in [/EN#234493/scene a grocery store] .
+[/EN#234491/other A young ball] falls asleep in [/EN#234492/vehicles a shopping cart] .
+[/EN#234491/people A tired child] resting in [/EN#234492/vehicles a shopping cart] .

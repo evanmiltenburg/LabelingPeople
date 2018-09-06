@@ -1,0 +1,5 @@
+[/EN#9640/animals A cat] sitting next to [/EN#9641/people a person] [/EN#0/notvisual who] has [/EN#9642/clothing black pants] and [/EN#9643/clothing pink flip-flops] on .
+[/EN#9640/animals A cat] sits near [/EN#9641/people a person] wearing [/EN#9642/clothing long pants] and [/EN#9643/clothing pink flip-flop shoes] .
+[/EN#9640/animals The orange cat] stands next to [/EN#9641/people its owner] in [/EN#9643/clothing the pink flip-flops] .
+[/EN#9640/animals A cat] sitting beside [/EN#9641/people someone] wearing [/EN#9643/clothing pink sandals] .
+[/EN#9640/animals The cat] looks away from [/EN#9641/people the person] next to [/EN#0/notvisual it] .

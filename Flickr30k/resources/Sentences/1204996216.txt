@@ -1,0 +1,5 @@
+[/EN#5172/people A little boy] in [/EN#5174/clothing a red shirt] sitting on [/EN#5173/other a wooden picnic table bench] .
+[/EN#5172/people A little boy] lies down on [/EN#5173/other a picnic table bench] .
+[/EN#5172/people A child] is on [/EN#5173/other a bench] with [/EN#5175/bodyparts arms] stretched out .
+[/EN#5172/people A child] is laying down on [/EN#5173/other a wooden bench] .
+[/EN#5172/people A boy] lays on [/EN#5173/other a picnic table bench] .

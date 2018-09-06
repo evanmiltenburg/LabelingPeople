@@ -1,0 +1,5 @@
+[/EN#43344/people Young boy] in [/EN#43350/clothing blue shirt] on [/EN#43348/scene spiral staircase] in [/EN#43346/scene a room] with [/EN#43347/other many books] .
+[/EN#43344/people A little boy] climbs [/EN#43348/scene a spiral staircase] in [/EN#43345/scene a cluttered library] .
+[/EN#43344/people A young boy] climbs [/EN#43348/scene a spiral staircase] in [/EN#43347/other a room full of books] .
+[/EN#43344/people Young boy] climbs [/EN#43348/scene spiral staircase] surrounded by [/EN#43347/other books] .
+[/EN#43344/people This child] is on [/EN#43348/other the library steps] .

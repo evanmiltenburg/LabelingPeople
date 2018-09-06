@@ -1,0 +1,5 @@
+[/EN#213563/people A young girl] wearing [/EN#213567/clothing a red shirt] and [/EN#213565/clothing cap] smiling and holding [/EN#213569/other a small toy] is standing in front of [/EN#213564/people a group of children] playing behind [/EN#0/notvisual her] .
+[/EN#213563/people A girl] in [/EN#213567/clothing a red shirt] plays with [/EN#213570/clothing an orange] and [/EN#213569/other blue toy] , as [/EN#213564/people other children] sit and play in [/EN#0/notvisual the background] .
+[/EN#213563/people A young girl] wearing [/EN#213566/clothing a red hat] and [/EN#213567/clothing sweater] smiles at [/EN#0/notvisual the camera] while holding [/EN#213569/other a toy] .
+[/EN#213563/people A little girl] in [/EN#213563/other a red pull] over holding [/EN#213569/other a toy] in [/EN#213572/bodyparts both hands] smiling .
+[/EN#213563/people A child] in [/EN#213567/clothing a red sweatshirt] and [/EN#213566/clothing hat] holding [/EN#213569/other a toy] .

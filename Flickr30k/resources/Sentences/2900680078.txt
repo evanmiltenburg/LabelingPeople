@@ -1,0 +1,5 @@
+[/EN#80219/people An older man] in [/EN#80220/clothing khakis] sits in [/EN#80221/vehicles a small , donkey-drawn open carriage] .
+[/EN#80219/people An old man] riding [/EN#80221/vehicles an open carriage] drawn by [/EN#80222/animals a small donkey] .
+[/EN#80219/people An old man] is riding in [/EN#80221/vehicles a small cart] pulled by [/EN#80222/animals a donkey] .
+[/EN#80219/people a man] is sitting in [/EN#80221/vehicles a wagon] with [/EN#80222/animals a donkey] attached
+[/EN#80219/people An old man] is being pulled by [/EN#80222/animals a tiny donkey] .

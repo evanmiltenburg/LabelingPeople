@@ -1,0 +1,5 @@
+[/EN#202817/people A boy] is running in [/EN#202818/scene a field] with [/EN#202818/scene green grass] and [/EN#202822/other some trees] in [/EN#0/notvisual the background] .
+[/EN#202817/people A little boy] in [/EN#202819/clothing a blue jacket] is running across [/EN#202818/scene a open field of grass] .
+[/EN#202817/people A young boy] in [/EN#202820/clothing a blue top and jeans] sprints across [/EN#202818/scene a grass field] .
+[/EN#202817/people A small boy] runs in [/EN#202818/scene a large field of grass] .
+[/EN#202817/people A young boy] runs in [/EN#202818/scene a field of grass] .

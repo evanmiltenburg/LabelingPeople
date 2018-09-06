@@ -1,0 +1,5 @@
+[/EN#2874/people A young boy] in [/EN#2879/clothing a yellow shirt] is jumping in [/EN#2877/scene a grassy area] with [/EN#2875/people a younger boy] , in [/EN#2878/clothing a white shirt] , standing behind [/EN#0/notvisual him] .
+[/EN#2875/people A young boy] in [/EN#2878/clothing a white shirt] is following [/EN#2874/people his brother] outside .
+[/EN#2876/people Two young children] are walking through [/EN#2877/scene a wooded area] .
+[/EN#2876/people Two children] running with [/EN#2880/clothing no shoes] on .
+[/EN#2876/people Two young children] playing outside .

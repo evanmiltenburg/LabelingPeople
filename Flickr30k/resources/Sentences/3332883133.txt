@@ -1,0 +1,5 @@
+[/EN#110172/people A man] , wearing [/EN#110181/clothing black jeans] and [/EN#110182/clothing a gray shirt] , stands in [/EN#110180/scene the front of a classroom] writing on [/EN#110173/other a chalkboard] .
+[/EN#110172/people A man] is writing on [/EN#110173/other a chalkboard] full of [/EN#110178/other paragraphs] with [/EN#110174/other a pencil] in [/EN#110175/bodyparts his ear] .
+[/EN#110172/people A boy] with [/EN#110174/other a pencil] behind [/EN#110175/bodyparts his ear] writes on [/EN#110173/other a chalkboard] .
+[/EN#110172/people A person] is writing on [/EN#110173/other a chalkboard] in [/EN#110176/scene a empty classroom] .
+[/EN#110172/people A man] is describing [/EN#110179/other stuff] using [/EN#110177/other chalk] on [/EN#110173/other a chalkboard] .

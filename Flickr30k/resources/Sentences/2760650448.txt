@@ -1,0 +1,5 @@
+[/EN#71156/people A street performer] is standing on [/EN#71157/bodyparts his head] on [/EN#71160/scene a brick street] in front of [/EN#71158/people a crowd] while [/EN#0/notvisual he] is being filmed in front of [/EN#71159/other a red telephone box] .
+[/EN#71156/people A young man] breakdancing on [/EN#71161/scene a cobblestone road] with [/EN#71158/people many people] watching [/EN#0/notvisual him] .
+[/EN#71156/people A street dancer] twirls on [/EN#71157/bodyparts his head] in front of [/EN#71158/people a crowd] while being filmed .
+[/EN#71156/people Young man] breakdancing on [/EN#71161/scene a sidewalk] in front of [/EN#71158/people a crowd of people] .
+[/EN#71158/people A crowd] forms to watch as [/EN#71156/people a man] breakdances in [/EN#71163/scene the street] .

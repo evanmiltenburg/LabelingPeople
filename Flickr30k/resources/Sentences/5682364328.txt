@@ -1,0 +1,5 @@
+[/EN#240864/people A guy] on [/EN#240865/vehicles a BMX bike] is in [/EN#240870/scene midair] over [/EN#240866/scene a dirt road] in [/EN#240867/scene a forest] after having gone off of [/EN#0/notvisual a jump] .
+[/EN#240864/people A man] jumping [/EN#240865/vehicles his bicycle] off [/EN#240871/other dirt mounds] is [/EN#240873/bodyparts several feet] in [/EN#0/notvisual the air] .
+[/EN#240864/people A man] jumping [/EN#240865/vehicles a bicycle] over [/EN#240866/scene a dirt path] surrounded by [/EN#240872/other trees] .
+[/EN#240864/people Bicycle sportsman] leaps [/EN#240865/vehicles bike] in [/EN#0/notvisual the air] on [/EN#240866/scene a camping trail] .
+[/EN#240864/people A man] doing [/EN#0/notvisual a trick] on [/EN#240865/vehicles a bicycle] in [/EN#240867/scene a wooded area] .

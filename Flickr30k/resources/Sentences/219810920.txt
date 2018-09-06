@@ -1,0 +1,5 @@
+[/EN#33578/people A woman] is holding [/EN#33577/people a toddler] in [/EN#33582/clothing a red shirt] , [/EN#0/notvisual who] is looking back at [/EN#0/notvisual her] .
+[/EN#33578/people A mother] is going to kiss [/EN#33579/other a cross] invited by [/EN#33577/people her baby] .
+[/EN#0/notvisual There] is [/EN#33578/people a lady] and [/EN#33577/people a baby] spending [/EN#33581/other some fun time] .
+[/EN#33577/people A baby] looking at [/EN#33578/people the woman] holding [/EN#0/notvisual it] .
+[/EN#33578/people A woman] is holding [/EN#33577/people a baby] by [/EN#33580/other a window] .

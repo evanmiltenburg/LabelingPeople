@@ -1,0 +1,5 @@
+[/EN#3086/people A man] dressed in [/EN#3088/clothing white] walks [/EN#3087/other a yellow rope] on [/EN#0/notvisual the ground] [/EN#0/notvisual that] is attached to [/EN#3093/vehicles the handlebars of a bicycle] .
+[/EN#3086/people A man] wearing [/EN#3088/clothing all white] is walking on [/EN#3087/other a rope] attached to [/EN#3085/vehicles a bike] while surrounded by [/EN#3091/people people] .
+[/EN#3085/vehicles A bike] sitting in [/EN#3095/scene a street] with [/EN#3089/other a rope] tied to [/EN#0/notvisual it] and [/EN#3086/people a guy] walking on [/EN#3087/other the rope] .
+[/EN#3086/people A street performer] is performing with [/EN#3085/vehicles a bike] in [/EN#0/notvisual the foreground] .
+[/EN#3086/people A man] is doing [/EN#0/notvisual a trick] with [/EN#3085/vehicles a bike] .

@@ -1,0 +1,5 @@
+[/EN#254765/people A woman] wearing [/EN#254772/clothing a green shirt] and [/EN#254766/people a boy] wearing [/EN#254773/clothing a red shirt] are washing [/EN#254770/clothing clothes] in [/EN#254767/scene a creek] while sitting on [/EN#254768/other a log] .
+[/EN#254765/people A woman] washes [/EN#254770/clothing her clothes] in [/EN#254767/scene a river] with [/EN#254766/people her young child] seated next to [/EN#0/notvisual her] .
+[/EN#254765/people A woman] washes [/EN#254770/clothing clothes] in [/EN#254767/scene a muddy river] as [/EN#254766/people a child] sits beside [/EN#0/notvisual her] on [/EN#254768/other the log] .
+[/EN#254765/people A woman] and [/EN#254766/people child] are sitting on [/EN#254768/other a log] washing [/EN#254770/clothing clothes] .
+[/EN#254771/people A poor family] washing [/EN#254770/clothing clothes] in [/EN#254767/scene the river] .

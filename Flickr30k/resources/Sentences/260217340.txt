@@ -1,0 +1,5 @@
+[/EN#60837/people A black woman] with [/EN#60844/clothing a red turban] is wrapped in [/EN#60842/other a towel] and wears [/EN#60845/clothing a pink shirt] near [/EN#60838/other a bucket] .
+[/EN#60837/people A woman] stands in front of [/EN#60839/scene a fence] and next to [/EN#60838/other a bucket] , chewing [/EN#60843/other her nails] .
+[/EN#60837/people An African woman] standing near [/EN#60839/scene a picket fence] by [/EN#60840/scene the roadside] .
+[/EN#60837/people A woman] stands on [/EN#60840/scene a sidewalk] in front of [/EN#60839/scene a picket fence] .
+[/EN#60837/people A woman] with [/EN#60838/other a bucket] standing beside [/EN#60839/scene a picket fence] .

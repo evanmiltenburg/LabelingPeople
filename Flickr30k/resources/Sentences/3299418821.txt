@@ -1,0 +1,5 @@
+[/EN#107816/people a boy] in [/EN#107818/clothing a red hooded top] is ice skating on [/EN#107817/other an outdoor ice rink] .
+[/EN#107816/people A child] in [/EN#107818/clothing a red hoodie] and [/EN#107820/clothing black pants] ice skating in [/EN#107817/other a rink] .
+[/EN#107816/people A kid] in [/EN#107818/other a red sweatshirt ice] skating .
+[/EN#107816/people Young boy] in [/EN#107818/other red hoodie ice] skating .
+[/EN#107816/people Kid] in [/EN#107818/other red sweatshirt ice] skating

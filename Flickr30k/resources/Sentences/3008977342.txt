@@ -1,0 +1,5 @@
+[/EN#87053/people A child] with [/EN#87055/clothing a red and gray shirt] climbs on [/EN#87054/other a wall] with [/EN#87056/other red and blue pegs] .
+[/EN#87053/people A young boy] in [/EN#87055/clothing a red shirt] climbs [/EN#87054/other a playground rock wall] .
+[/EN#87053/people A young male child] is playing on [/EN#87054/other a climbing wall] .
+[/EN#87053/people A boy] climbs [/EN#87054/other a plastic wall] at [/EN#87057/scene a playground] .
+[/EN#87053/people A little boy] climbing [/EN#87054/other a rock wall] .

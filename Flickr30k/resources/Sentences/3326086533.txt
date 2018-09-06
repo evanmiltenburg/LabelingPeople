@@ -1,0 +1,5 @@
+[/EN#109576/animals A little black dog] is running in [/EN#109579/scene the grass] with [/EN#109577/clothing a pink purse] in [/EN#109578/bodyparts its mouth] .
+[/EN#109576/animals A black dog] is running on [/EN#109579/scene the grass] with [/EN#109577/clothing a pink purse] in [/EN#109578/bodyparts its mouth] .
+[/EN#109576/animals The wet dog] has retrieved [/EN#109577/clothing the pink purse] with [/EN#109582/other aqua handles] .
+[/EN#109576/animals A black dog] clutches [/EN#109577/clothing a pink purse] in [/EN#109578/bodyparts his teeth] and runs .
+[/EN#109576/animals A brown dog] retrieves [/EN#109577/other a pink toy] .

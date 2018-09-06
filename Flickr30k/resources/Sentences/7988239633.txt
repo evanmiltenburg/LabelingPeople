@@ -1,0 +1,5 @@
+[/EN#277357/people A man] with [/EN#277367/clothing glasses] is walking in [/EN#277360/scene a crowded market] with [/EN#277362/other fruit] being sold in [/EN#277364/scene stands] .
+[/EN#277358/people Customers] look at [/EN#277363/other products] during [/EN#277362/other an open air market of fruit] and [/EN#277359/other vegetables] .
+[/EN#277358/people The people] at [/EN#277366/other the Farmers Market look] at [/EN#277361/other the selection of Fruits] of [/EN#277359/other Veggies] .
+[/EN#277357/people An asian man] looks at [/EN#277363/other fruit] for [/EN#277365/other sale] at [/EN#277360/scene an outdoor market] .
+[/EN#277357/people A man] looks at [/EN#277362/other a fruit] and [/EN#277364/scene vegetable stand] as [/EN#0/notvisual he] walks by .

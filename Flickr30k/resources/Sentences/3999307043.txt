@@ -1,0 +1,5 @@
+[/EN#151414/people A young boy] in [/EN#151415/clothing a green shirt] wearing [/EN#151416/clothing a blue harness] stares at [/EN#151417/animals a white dog] in [/EN#151418/clothing a red harness] while taking [/EN#151423/other a walk] .
+[/EN#151419/people People] out walking and [/EN#151414/people the little boy] seems to be [/EN#151426/other a little frightened] of [/EN#151417/animals the dog] being walked .
+[/EN#151417/animals A dog] on [/EN#151418/clothing a leash] moves [/EN#151424/scene towns] [/EN#151414/people a young boy] on [/EN#151416/clothing a leash] , [/EN#0/notvisual who] is holding [/EN#151420/bodyparts a parents hand] .
+[/EN#151421/people A man] is walking [/EN#151417/animals a white dog] on [/EN#151418/clothing a leash] in [/EN#151425/scene a park] setting .
+[/EN#151417/animals A dog] is threatening [/EN#151422/people a mother] and [/EN#151414/people her child] .

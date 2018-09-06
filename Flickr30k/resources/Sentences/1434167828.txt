@@ -1,0 +1,5 @@
+[/EN#12864/people A person] in [/EN#12866/clothing black glasses] takes [/EN#12869/other a drink] from [/EN#12865/other a shot glass] .
+[/EN#12864/people A person] wearing [/EN#12869/other glasses drinks] out of [/EN#12865/other a very small glass] .
+[/EN#12868/people Face of person] with [/EN#12866/clothing glasses] on [/EN#12870/other drinks] from [/EN#12865/other a small glass] .
+[/EN#12864/people A woman] with [/EN#12866/clothing glasses] drinking from [/EN#12865/other a shot glass]
+[/EN#12864/people A man] drinking out of [/EN#12865/other a shot glass] .

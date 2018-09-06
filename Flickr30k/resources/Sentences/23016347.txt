@@ -1,0 +1,5 @@
+[/EN#40120/people A girl] in [/EN#40122/clothing a yellow tennis suit] , [/EN#40125/other green visor] and [/EN#40128/clothing white tennis shoes] holding [/EN#40124/other a tennis racket] in [/EN#40129/scene a position] where [/EN#0/notvisual she] is going to hit [/EN#40121/other the tennis ball] .
+[/EN#40120/people a woman] wearing [/EN#40122/clothing a yellow shirt] and [/EN#40126/clothing shorts] hit [/EN#40121/other the tennis ball] .
+[/EN#40120/people A young tennis player] stretches for [/EN#40121/other a ball] on [/EN#40123/other a clay court] .
+[/EN#40120/people A woman] tries to volley [/EN#40121/other a tennis ball] .
+[/EN#40120/people a woman] wearing [/EN#40122/clothing yellow] playing [/EN#40127/other tennis]

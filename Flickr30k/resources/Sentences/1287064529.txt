@@ -1,0 +1,5 @@
+[/EN#7316/animals A Husky dog] wearing [/EN#7317/other green straps] is turning [/EN#7322/bodyparts its head] away from [/EN#7319/other the object] in front of [/EN#0/notvisual it] .
+[/EN#7316/animals A dog] wearing [/EN#7317/clothing a blue harness] stands in [/EN#7318/scene the snow] and [/EN#7324/clothing pants] .
+[/EN#7316/animals A Brown furry husky dog] sticking out [/EN#7321/bodyparts his tongue] .
+[/EN#7316/animals A husky dog] wearing [/EN#7317/other the gear] to pull [/EN#7320/other a sled] .
+[/EN#7316/animals A black and tan dog] in [/EN#7318/scene the snow]

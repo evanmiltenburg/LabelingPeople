@@ -1,0 +1,5 @@
+[/EN#203910/people A businessman] holds [/EN#203911/clothing an umbrella] over [/EN#0/notvisual himself] while [/EN#203912/scene the street] is filled with [/EN#203913/other rain] .
+[/EN#203914/clothing A asian male suit] clad , uses [/EN#203911/clothing a umbrella] to shield [/EN#0/notvisual himself] from [/EN#203913/other the rain] .
+[/EN#203910/people Businessman] standing in [/EN#203912/scene street] holding [/EN#203911/clothing an umbrella] .
+[/EN#203910/people Man] standing in [/EN#203913/other the rain] carrying [/EN#203911/clothing an umbrella] .
+[/EN#203910/people A guy] standing in [/EN#203913/other the rain] with [/EN#203911/clothing an umbrella] .

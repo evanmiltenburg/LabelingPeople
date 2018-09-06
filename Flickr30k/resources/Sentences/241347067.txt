@@ -1,0 +1,5 @@
+[/EN#47442/people some football players] in [/EN#47445/clothing red jerseys] taking [/EN#0/notvisual another] in [/EN#47446/clothing a white jersey] to [/EN#0/notvisual the ground]
+[/EN#47439/people Three football players] from [/EN#47440/people red team] tackling [/EN#47438/people one player] from [/EN#47444/people white team] .
+[/EN#47439/people Three football players] tackle [/EN#47438/people another player] [/EN#0/notvisual who] is holding [/EN#47441/other a ball] .
+[/EN#47438/people a football player] getting [/EN#47443/other tackle]
+[/EN#47438/people A football player] is tackled .

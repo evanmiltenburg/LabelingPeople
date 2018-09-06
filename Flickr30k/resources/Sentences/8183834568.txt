@@ -1,0 +1,5 @@
+[/EN#280171/people An old man] wearing [/EN#280177/clothing a black hat] , [/EN#280180/clothing white shirt] and [/EN#280178/clothing black suspenders] is sitting and playing [/EN#280172/instruments a red tambourine] wile [/EN#280175/instruments a trumpet] sits in [/EN#280176/bodyparts his lap] .
+[/EN#280171/people An elder man] , wearing [/EN#280179/clothing celebratory attire] , plays [/EN#280172/instruments a percussion instrument] and is singing [/EN#280173/scene outdoors] .
+[/EN#280171/people An elderly man] plays [/EN#280172/instruments a tambourine] in [/EN#280181/other a concert] , with [/EN#280175/instruments a trumpet] on [/EN#280176/bodyparts his lap] .
+[/EN#280171/people A man] is sitting playing [/EN#280172/instruments the tambourine] with [/EN#280175/instruments a trumpet] in [/EN#280176/bodyparts his lap] .
+[/EN#280171/people A man] sings and plays [/EN#280172/instruments the tambourine] on [/EN#280174/scene the street] .

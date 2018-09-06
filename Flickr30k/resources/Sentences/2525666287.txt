@@ -1,0 +1,5 @@
+[/EN#55259/people A man] in [/EN#55270/clothing blue jeans] sits on [/EN#55260/other a bench] near [/EN#55263/people a woman] in [/EN#55271/clothing green pants] with [/EN#55262/vehicles/scene a red and white bus] behind [/EN#0/notvisual them] .
+[/EN#55259/people A man] and [/EN#55263/people a woman] are waiting for [/EN#55268/vehicles/scene a train] , ignoring [/EN#0/notvisual each other] .
+[/EN#55263/people soldiers] 2 and [/EN#55269/other civillians] sitting on [/EN#55260/other a bench] at [/EN#55260/other a busstop]
+[/EN#55265/people Five people] are sitting on [/EN#55260/other benches] waiting for [/EN#55262/vehicles/scene the bus] .
+[/EN#55266/people Two people] wait on [/EN#55260/other a bench] .

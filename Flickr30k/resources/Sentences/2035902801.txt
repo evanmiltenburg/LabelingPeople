@@ -1,0 +1,5 @@
+[/EN#25368/people Three younger males] riding in [/EN#25374/vehicles city transportation] passing [/EN#25372/scene brick buildings] on [/EN#0/notvisual their right side] .
+[/EN#25370/people 2 brown-haired guys] and [/EN#25377/people a redheaded guy] sitting on [/EN#25375/vehicles/scene a bus] .
+[/EN#25369/people Three men] are riding on [/EN#25374/vehicles public transportation] .
+[/EN#25369/people Three young men] take [/EN#25374/vehicles public transportation] .
+[/EN#25370/people Passengers] riding [/EN#25376/other the rail] through [/EN#25373/scene town] .

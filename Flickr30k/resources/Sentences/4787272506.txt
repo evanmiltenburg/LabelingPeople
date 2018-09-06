@@ -1,0 +1,5 @@
+[/EN#202805/people A kid] in [/EN#202810/clothing a white T-shirt] doing [/EN#202807/other a stunt] on [/EN#202814/other a skateboard] while [/EN#202813/people another kid] in [/EN#202812/clothing an orange shirt] also on [/EN#202806/other a skateboard] looks on .
+[/EN#202805/people A boy] in [/EN#202810/clothing a white t-shirt] does [/EN#0/notvisual a trick] with [/EN#202806/other his skateboard] in [/EN#202808/scene a skate park] .
+[/EN#202805/people A boy] in [/EN#202810/clothing a white shirt] does [/EN#0/notvisual a trick] on [/EN#202806/other his skateboard] at [/EN#202808/scene a skate park] .
+[/EN#202811/people Boys] at [/EN#202808/scene a skateboard park] skating .
+[/EN#202805/people A boy] doing [/EN#0/notvisual a skateboarding jump] .

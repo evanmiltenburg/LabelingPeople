@@ -1,0 +1,5 @@
+[/EN#258008/people A skier] dressed in [/EN#258010/clothing red and black] is skiing down [/EN#258009/scene the side of a steep mountain] .
+[/EN#258008/people A person] in [/EN#258013/clothing a white helmet] is skiing down [/EN#258009/scene a mountain] covered in [/EN#258015/scene snow] .
+[/EN#258008/people A man] in [/EN#258014/other red ski jacket graceful skis] down [/EN#258012/other a snowy slope] .
+[/EN#258008/people one guy] skiing down [/EN#258009/scene a mountain] wearing [/EN#258010/clothing a red ski suit] .
+[/EN#258008/people a person] in [/EN#258010/clothing red and black] is skiing .

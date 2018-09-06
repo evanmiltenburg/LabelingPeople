@@ -1,0 +1,5 @@
+[/EN#210751/people A group of people] sit on [/EN#210754/other a wall] above [/EN#210752/other a large bas-relief sculpture] and reflecting [/EN#210756/scene pond] .
+[/EN#210751/people A group of people] are sitting next to [/EN#0/notvisual each other] on [/EN#210753/other the edge of a high wall] .
+[/EN#210751/people People] sit and talk on [/EN#210754/other the ledge of stone] [/EN#210757/scene public building]
+[/EN#210751/people People] sitting on [/EN#210754/other a wall] next to [/EN#210755/other a statue] .
+[/EN#210751/people Several people] are sitting on [/EN#210754/other wall] .

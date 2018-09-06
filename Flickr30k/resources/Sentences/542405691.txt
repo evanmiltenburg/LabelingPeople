@@ -1,0 +1,5 @@
+[/EN#236259/people A little boy] is kicking [/EN#236260/other a blue ball] on [/EN#236263/other the carpet] surrounded by [/EN#236262/other toys] .
+[/EN#236259/people A child] standing on [/EN#236264/other one foot] and surrounded by [/EN#236262/other toys] .
+[/EN#236259/people A boy] kicks [/EN#236260/other a ball] in [/EN#236261/scene his living room] .
+[/EN#236259/people A boy] kicks [/EN#236260/other a blue ball] in [/EN#236261/scene a room] .
+[/EN#236259/people A child] kicks [/EN#236260/other a ball] into [/EN#0/notvisual the air] .

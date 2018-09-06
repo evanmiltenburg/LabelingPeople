@@ -1,0 +1,5 @@
+[/EN#84519/animals The white dog] is walking through [/EN#84520/other the water of the incoming tide] at [/EN#84520/scene the beach] .
+[/EN#84519/animals A dog] walks on [/EN#84521/scene the shore of a clear blue ocean] .
+[/EN#84519/animals A dog] walks along [/EN#84521/scene a beach] with [/EN#84522/scene breaking waves] .
+[/EN#84519/animals A dog] walking through [/EN#84520/scene the water] at [/EN#84522/scene the ocean] .
+[/EN#84519/animals A dog] playing in [/EN#84522/scene the ocean] on [/EN#84520/scene the beach] .

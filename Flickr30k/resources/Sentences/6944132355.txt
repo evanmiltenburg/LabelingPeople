@@ -1,0 +1,5 @@
+[/EN#262130/animals A horse] , with [/EN#262131/people a jockey] in [/EN#262146/clothing white] with [/EN#262143/other red polka dots] , is making [/EN#0/notvisual a jump] , slightly ahead of [/EN#262130/animals a horse] being ridden by [/EN#262134/people a jockey] in [/EN#262140/clothing blue] .
+[/EN#262135/animals A jockey and horse] in [/EN#262145/people the middle of other jockeys] and [/EN#262142/animals horses] during [/EN#262133/other a race] , in [/EN#262144/scene the middle] of jumping over [/EN#262132/other a hurdle] .
+[/EN#262131/people A jockey] wearing [/EN#262139/clothing a red cap] and [/EN#262130/animals # 1 horse] [/EN#262141/scene clear the fence] in [/EN#262133/other a horse race] .
+[/EN#262130/animals A horse] and [/EN#262134/people jockey] jumping over [/EN#262132/other a hay bale] .
+[/EN#0/notvisual It] is [/EN#262136/scene a beautiful day] at [/EN#262137/scene the horse track] .

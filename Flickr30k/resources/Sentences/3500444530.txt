@@ -1,0 +1,5 @@
+[/EN#123042/people Man] wearing [/EN#123044/clothing a blue and white plaid shirt] and [/EN#123043/clothing a ball cap] playing [/EN#123047/other a piece of metal] with [/EN#123045/other a bow] on [/EN#123048/scene the street] for [/EN#123052/scene tips] .
+[/EN#123042/people A man] in [/EN#123044/clothing a blue plaid shirt] with [/EN#123051/clothing black pants] is sitting on [/EN#123049/other a box] and holding [/EN#123046/other something] in [/EN#123053/bodyparts his hand] .
+[/EN#123042/people a man] sitting by [/EN#123048/scene the sidewalk] runs [/EN#123045/other a violin bow] across [/EN#123047/other another flat object] .
+[/EN#123042/people A man] in [/EN#123043/clothing a blue cap] is working with [/EN#123045/other a bow] .
+[/EN#123042/people A man] on [/EN#123048/scene the street] playing [/EN#123046/other a saw] .

@@ -1,0 +1,5 @@
+[/EN#17099/people Four men] in [/EN#17104/clothing shorts] and [/EN#17105/clothing sandals] ride standing on [/EN#17101/vehicles the back of a garbage truck] on [/EN#17100/scene a cobblestone street] .
+[/EN#17099/people Four men] stand on [/EN#17101/vehicles the back of a garbage truck] as [/EN#0/notvisual it] drives on [/EN#17100/scene a road] paved with [/EN#17100/other stone] .
+[/EN#17099/people A group of men] is riding on [/EN#17101/vehicles the back of a garbage truck] .
+[/EN#17099/people Few people] hitch [/EN#17102/other a ride] on [/EN#17101/vehicles the back of a garbage truck] .
+[/EN#17099/people Four men] ride on [/EN#17101/vehicles the back of a dump truck] .

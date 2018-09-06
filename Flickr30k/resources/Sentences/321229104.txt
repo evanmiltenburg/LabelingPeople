@@ -1,0 +1,5 @@
+[/EN#101503/people a person] standing in [/EN#101505/people the middle of a bunch] of [/EN#101504/other snowy rocks] near [/EN#101508/other a waterhole] .
+[/EN#101503/people A person] stands in [/EN#101506/scene a vast field of melting snow] .
+[/EN#101503/people A person] stands in [/EN#101504/other a vast field of glacial ice] .
+[/EN#101503/people A person] stands on [/EN#101506/scene the peaks of snow] and [/EN#101504/other ice] .
+[/EN#101503/people The person] is standing on [/EN#101504/other white ice] .

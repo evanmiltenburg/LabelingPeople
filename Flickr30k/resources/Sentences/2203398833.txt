@@ -1,0 +1,5 @@
+[/EN#33904/people An apparently elderly person] is sweeping [/EN#33905/scene a slate patio] while wearing [/EN#33906/clothing a straw wide-bimmed hat] and [/EN#33911/clothing light-blue baggy clothing] .
+[/EN#33904/people A person] wearing [/EN#33906/clothing a straw hat] stands on [/EN#33905/scene a stone walkway] holding [/EN#33907/other a broom] and [/EN#33910/other dustpan] , sweeping [/EN#0/notvisual the ground] .
+[/EN#33904/people An elderly woman] is sweeping up [/EN#33912/other trash] on [/EN#33908/scene the street] .
+[/EN#33904/people An elderly woman] sweeping outside on [/EN#33909/scene a sunny day]
+[/EN#33904/people An elderly person] is sweeping .

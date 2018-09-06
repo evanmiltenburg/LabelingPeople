@@ -1,0 +1,5 @@
+[/EN#23781/clothing Green] shirted [/EN#23780/people man] singing at [/EN#23784/other a microphone] wearing [/EN#23782/clothing a white and silver shiny hat] .
+[/EN#23780/people A man] wearing [/EN#23782/clothing a silver cap] and [/EN#23781/clothing a green tank top] is singing into [/EN#23784/other a microphone] .
+[/EN#23780/people A man] wearing [/EN#23781/clothing a green tank top] and [/EN#23782/clothing a white hat] singing into [/EN#23784/other a microphone] .
+[/EN#23780/people A guy] wearing [/EN#23781/clothing a green tank top] and [/EN#23788/clothing sunglasses] talks into [/EN#23784/other a microphone] .
+[/EN#23780/people A man] in [/EN#23781/clothing a green shirt] and [/EN#23782/clothing shiny hat] is talking into [/EN#23784/other a microphone] .

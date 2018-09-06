@@ -1,0 +1,5 @@
+[/EN#233258/people A man] standing on [/EN#233261/other a rock] in [/EN#233260/scene a river] with [/EN#233262/other a spash] next to [/EN#0/notvisual him] .
+[/EN#233258/people A man] is standing on [/EN#233259/animals an elephant] lying in [/EN#233260/scene some water] .
+[/EN#233258/people A man] stands on top of [/EN#233259/animals an elephant] in [/EN#233260/scene the water] .
+[/EN#233258/people A man] stands on top of [/EN#233259/animals a submerged elephant] .
+[/EN#233258/people A man] is standing on [/EN#233259/animals an animal] in [/EN#233260/scene the water] .

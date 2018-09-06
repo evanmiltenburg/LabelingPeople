@@ -1,0 +1,5 @@
+[/EN#70543/people A lady] in [/EN#70547/clothing a pink hat] is looking at [/EN#70546/other food] [/EN#0/notvisual that] is placed in [/EN#70552/other large trays] on [/EN#70548/scene the side of the road] .
+[/EN#70550/vehicles/scene A blue charter bus] driving by [/EN#70543/people a woman] in [/EN#70547/clothing a pink hat] making [/EN#70546/other food] for [/EN#70546/scene her shop] .
+[/EN#70543/people A woman] in [/EN#70547/clothing a pink hat] is working at [/EN#70543/people an outside vendor] .
+[/EN#70543/people A woman] is working at [/EN#70546/scene a food stand] in [/EN#70551/scene the city] .
+[/EN#70543/people a vendor] selling [/EN#70546/other mean and other food] on [/EN#70548/scene a street]

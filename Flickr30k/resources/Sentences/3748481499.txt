@@ -1,0 +1,5 @@
+[/EN#141139/people One person] standing on [/EN#141146/scene a road] , holding [/EN#141141/vehicles a bicycle] up while [/EN#0/notvisual another] bends over to look at [/EN#141145/other something] on [/EN#141148/vehicles the back wheel of the bike] .
+[/EN#141140/people Two people] with [/EN#141141/vehicles bicycles] are stopped to try and fix [/EN#141145/other the chain] on [/EN#141141/vehicles one of the bikes] .
+[/EN#141140/people two bikers] on [/EN#141149/scene the side of a road] trying to fix [/EN#141141/vehicles a bike] .
+[/EN#141138/people A man] helping [/EN#141139/people a biker] fix [/EN#141141/vehicles his bike] on [/EN#141146/scene a road] .
+[/EN#141138/people One man] is helping [/EN#141139/people a woman] with [/EN#141141/vehicles her bicycle] .

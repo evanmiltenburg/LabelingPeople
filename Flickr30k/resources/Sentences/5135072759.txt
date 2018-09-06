@@ -1,0 +1,5 @@
+[/EN#229625/people A man] in [/EN#229627/clothing a red coat] and [/EN#229628/clothing a fedora] is playing [/EN#229629/instruments a trumpet] while [/EN#229630/people fellow musicians] sit nearby .
+[/EN#229625/people A man] in [/EN#229627/clothing a bright red jacket] playing [/EN#229629/instruments the trumpet] with [/EN#229630/people other musicians] .
+[/EN#229625/people A musician] in [/EN#229627/clothing a red jacket] plays [/EN#229629/instruments trumpet] in front of [/EN#229626/people a band] .
+[/EN#229625/people A man] in [/EN#229627/clothing a red coat] and [/EN#229628/clothing black hat] plays [/EN#229629/instruments a trombone] .
+[/EN#229625/people A few man] in [/EN#229626/people a jazz band] performing on [/EN#229632/scene stage] .

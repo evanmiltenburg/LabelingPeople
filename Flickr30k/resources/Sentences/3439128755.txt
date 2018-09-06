@@ -1,0 +1,5 @@
+[/EN#118359/animals A brown dog] in [/EN#118363/clothing a pink shirt] chews [/EN#118362/other something] white while [/EN#118359/animals a brown dog] in [/EN#118364/clothing yellow] watches .
+[/EN#118359/animals A dog] in [/EN#118363/clothing a pink shirt] with [/EN#118362/other something] white in [/EN#118368/bodyparts his mouth] and [/EN#118359/animals a dog] in [/EN#118364/clothing a yellow shirt] .
+[/EN#118359/animals A brown dog] wearing [/EN#118363/clothing a pink shirt] is followed by [/EN#118359/animals a brown dog] wearing [/EN#118364/clothing a yellow shirt] .
+[/EN#118360/animals The two dogs] with [/EN#118367/clothing clothing] are in [/EN#118361/scene a flat uncut field] .
+[/EN#118360/animals Two dogs] fetching [/EN#118362/other an object] in [/EN#118361/scene a field] .

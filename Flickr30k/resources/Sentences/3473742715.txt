@@ -1,0 +1,5 @@
+[/EN#120803/people Two gentlemen] , [/EN#120814/clothing one white] , [/EN#120807/clothing one black] , sitting behind [/EN#120804/other a reception desk] in [/EN#120809/scene a building] [/EN#0/notvisual that] has [/EN#120804/other granite counters] and [/EN#120816/other wood decked walls] .
+[/EN#120803/people Two older gentlemen] sit behind [/EN#120804/other a front desk] [/EN#0/notvisual that] is [/EN#120812/other at chest height] on [/EN#120813/other one and mid-torso height] on [/EN#120808/other the other] .
+[/EN#0/notvisual What] appears to be [/EN#120803/people a taller bald white man] sitting next to [/EN#120808/people a shorter black man] in [/EN#120805/scene a reception area] .
+[/EN#120803/people Two men] sit behind [/EN#120804/other a shiny black counter] wearing [/EN#120806/clothing matching black suits] and [/EN#120815/clothing purple shirts] .
+[/EN#120803/people Two men] in [/EN#120806/clothing suits] sit behind [/EN#120804/other a counter] in [/EN#120805/scene a wood-paneled area] .

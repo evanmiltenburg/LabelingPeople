@@ -1,0 +1,5 @@
+[/EN#106683/people A bearded man] in [/EN#106686/clothing a blue shirt] ls laughing while [/EN#106687/other a suited] [/EN#106691/other mustached] [/EN#106684/people man] holds up [/EN#106688/other a glass] .
+[/EN#0/notvisual There] is [/EN#106683/people a man] with [/EN#106686/clothing a blue shirt] on and [/EN#106684/people man] with [/EN#106687/clothing a gray coat] on holding [/EN#106688/other cups] .
+[/EN#106684/people A man] wearing [/EN#106687/clothing a business suit] holds up [/EN#106688/other a drink] as [/EN#106683/other the other] laughs .
+[/EN#106684/people two men] wearing [/EN#106692/other nametags] having [/EN#106688/other a drink] and smiling
+[/EN#106684/people Two men] have [/EN#0/notvisual fun] drinking

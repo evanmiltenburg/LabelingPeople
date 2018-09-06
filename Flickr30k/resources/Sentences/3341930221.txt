@@ -1,0 +1,5 @@
+[/EN#111000/people A man] carrying [/EN#111004/clothing bags] , walking with [/EN#111003/people a woman] along [/EN#111002/scene the sidewalk] on [/EN#111001/scene a busy city street] .
+[/EN#111000/people A man] with [/EN#111006/clothing a pink bag] and [/EN#111003/people a woman] with [/EN#111005/clothing a gray scarf] and [/EN#111007/clothing jeans] walking [/EN#111002/scene the street] .
+[/EN#110999/people A couple] walks [/EN#111002/scene the street] and [/EN#111000/people the man] is holding [/EN#111004/clothing several shopping bags] .
+[/EN#110999/people A happy couple] returning from [/EN#111008/other their shopping spree] .
+[/EN#110999/people A couple] walking down [/EN#111001/scene a busy sidewalk] .

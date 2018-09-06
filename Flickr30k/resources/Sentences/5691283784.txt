@@ -1,0 +1,5 @@
+[/EN#241128/people An Asian man] is pushing [/EN#241130/vehicles a cart] down [/EN#241129/scene a brick street] while [/EN#241133/other others] walk behind [/EN#0/notvisual him] .
+[/EN#241128/people A male janitor] walks [/EN#241129/scene the streets] and keeps [/EN#0/notvisual them] clean .
+[/EN#241128/people Old man] is pushing around [/EN#241132/other a kart] on [/EN#241129/scene a cities walkway] .
+[/EN#241128/people A man] pushes [/EN#241130/vehicles a cart] on [/EN#241129/scene a pedestrian walkway] .
+[/EN#241128/people Man] pushing [/EN#241130/vehicles a cart] on [/EN#241129/scene the sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#39308/people A man] wearing [/EN#39315/clothing gloves] and [/EN#39310/clothing a hat] is cooking [/EN#39312/other something] on [/EN#39316/other the grill] .
+[/EN#39308/people A chef] is preparing [/EN#39311/other some skewers] with [/EN#39308/other some sort of meat] on [/EN#0/notvisual it] .
+[/EN#39308/people A man] wearing [/EN#39310/clothing a white hat] and [/EN#39315/clothing white gloves] is preparing [/EN#39313/other food] .
+[/EN#39308/other Male food worker grills meat] on [/EN#39317/other a stick] .
+[/EN#39308/people An Asian chef] makes [/EN#39312/other kabobs] .

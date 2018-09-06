@@ -1,0 +1,5 @@
+[/EN#68454/people A woman] with [/EN#68455/clothing a yellow shirt] wears [/EN#68456/clothing sunglasses] and smiles .
+[/EN#68454/people a brunette girl] wearing [/EN#68456/clothing sunglasses] and [/EN#68455/clothing a yellow shirt]
+[/EN#68454/people A girl] wearing [/EN#68455/clothing a yellow shirt] and [/EN#68456/clothing sunglasses] smiles .
+[/EN#68454/people a girl] wearing [/EN#68456/clothing sunglasses] smiles for [/EN#0/notvisual the camera] .
+[/EN#68454/people A girl] in [/EN#68456/clothing sunglasses] smiles .

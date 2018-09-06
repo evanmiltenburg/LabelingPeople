@@ -1,0 +1,5 @@
+[/EN#122325/people A boy] surrounded by [/EN#122327/animals pigeons] is interacting with [/EN#122332/people a person] [/EN#0/notvisual who] is [/EN#122326/people part of a larger crowd] .
+[/EN#122330/people A family] is talking in [/EN#122328/scene a plaza] standing in [/EN#122334/people the middle of a bunch] of [/EN#122327/animals birds] .
+[/EN#122326/people Group of people] in [/EN#122331/other an open square] with [/EN#122327/animals a large flock of pigeons] .
+[/EN#122325/people Boy] in [/EN#122335/clothing yellow shirt] getting [/EN#122333/other picture] taken surrounded by [/EN#122327/animals pigeons]
+[/EN#122329/scene A crowd scene] with [/EN#122327/animals pigeons] in [/EN#122328/scene a plaza] .

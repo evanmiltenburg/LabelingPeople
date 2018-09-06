@@ -1,0 +1,5 @@
+[/EN#145996/people A girl] wearing [/EN#146000/clothing a brown jacket] and [/EN#146003/clothing blue jeans] has on [/EN#145999/clothing some white headphones] and is walking .
+[/EN#145996/people A woman] in [/EN#146002/clothing black and red] listens to [/EN#146001/other an Ipod] , walks down [/EN#145998/scene the street]
+[/EN#145996/people A woman] wearing [/EN#145999/clothing headphones] is walking past [/EN#145997/other a road cone] .
+[/EN#145996/people A girl] wearing [/EN#145999/clothing earphones] walks past [/EN#145997/other a traffic cone] .
+[/EN#145996/people A woman] wearing [/EN#145999/clothing headphones] walks down [/EN#145998/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#11495/animals Two dogs] are shaking off [/EN#11496/scene water] while playing with [/EN#11497/other a ball] on [/EN#11501/scene the edge of a body of water] .
+[/EN#11495/animals Two dogs] shake off [/EN#11496/scene water] in [/EN#11496/scene an area] with [/EN#11502/other very little vegetation] .
+[/EN#11498/animals One dog] shaking [/EN#11496/scene the water] off , getting [/EN#11498/other a second dog wet]
+[/EN#11495/animals Two dogs] shaking off [/EN#11500/other water droplets] on [/EN#11496/scene a beach] .
+[/EN#11495/animals Two dogs] shaking [/EN#0/notvisual themselves] dry on [/EN#11500/other the sand] .

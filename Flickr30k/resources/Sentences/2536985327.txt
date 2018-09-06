@@ -1,0 +1,5 @@
+[/EN#56145/people Three people] wearing [/EN#56150/other fully protective equipment] are working in [/EN#56149/scene an interior of a building] , [/EN#56154/other two] on [/EN#56147/other scaffolding] , [/EN#56151/other one] on [/EN#56153/scene the floor] .
+[/EN#56145/people Men] , wearing [/EN#56152/clothing orange safety vests] , are standing on [/EN#56147/other scaffolding] .
+[/EN#56145/people Construction workers] stand on [/EN#56147/other scaffolding] to finish [/EN#56146/other the ceiling] .
+[/EN#56148/people Workman] on [/EN#56147/other a scaffold] are finishing [/EN#56146/scene a ceiling of a building] .
+[/EN#56145/people Construction workers] in [/EN#56155/clothing white suits] work on [/EN#56147/other a scaffold] .

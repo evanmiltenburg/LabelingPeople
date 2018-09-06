@@ -1,0 +1,5 @@
+[/EN#46170/people a dark-haired man] wearing [/EN#46172/clothing a green shirt] and [/EN#46176/clothing paper hat] hugs [/EN#46165/people a boy] wearing [/EN#46167/clothing a blue shirt] and [/EN#46177/clothing paper hat] while [/EN#46173/people a woman] wearing [/EN#46171/clothing a flowered shirt] and [/EN#46178/clothing paper hat] smiles .
+[/EN#46169/other Families] enjoying [/EN#0/notvisual themselves] at [/EN#46168/scene a restaurants] [/EN#46179/scene promotional event] .
+[/EN#46166/people A man] hugging [/EN#46165/people a young boy] in [/EN#46167/clothing a blue shirt] .
+[/EN#46166/people A young man] being hugged at [/EN#46168/scene a restaurant] .
+[/EN#46165/people The boy] is [/EN#46175/other happy working] at [/EN#46174/other the deli] .

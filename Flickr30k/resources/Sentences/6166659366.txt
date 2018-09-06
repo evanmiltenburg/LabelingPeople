@@ -1,0 +1,5 @@
+[/EN#249074/people A man] with [/EN#249075/bodyparts a beard] is talking on [/EN#249076/other a phone] in front of [/EN#249079/other a bookcase] .
+[/EN#249074/people A bearded man] talks on [/EN#249076/other the phone] while looking [/EN#249080/other content] .
+[/EN#249074/people A guy] with [/EN#249075/bodyparts a beard and mustache] talking on [/EN#249076/other a telephone] .
+[/EN#0/notvisual There] is [/EN#249074/people a man] on [/EN#249076/other the phone] in [/EN#249081/scene an office] setting .
+[/EN#249074/people A man] listens to [/EN#249077/other a phone call] .

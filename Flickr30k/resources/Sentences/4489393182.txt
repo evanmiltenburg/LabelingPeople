@@ -1,0 +1,5 @@
+[/EN#172671/people A woman] with [/EN#172673/clothing a red purse] is looking out from [/EN#172674/other a stone deck] over [/EN#172672/scene the ocean] .
+[/EN#172671/people A long-haired woman] leans on [/EN#172674/other a stone railing] , looking out at [/EN#172672/scene the sea] .
+[/EN#172671/people A lady] wearing [/EN#172675/clothing a long green sweater] is looking over at [/EN#172672/scene the ocean]
+[/EN#172671/people A woman] looks out at [/EN#172672/scene a body of water] , past [/EN#172674/other a stone wall] .
+[/EN#172671/people A woman] with [/EN#172673/clothing a red purse] is looking at [/EN#172672/scene the ocean] .

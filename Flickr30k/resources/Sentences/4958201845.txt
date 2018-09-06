@@ -1,0 +1,5 @@
+[/EN#223205/people A man] wearing [/EN#223211/clothing a cap] juggles [/EN#223210/other a tennis racket] , [/EN#223207/other a bowling ball] , and [/EN#223206/other a basketball] .
+[/EN#223205/people Black man] juggling [/EN#223206/other a basketball] , [/EN#223207/other bowling ball] and [/EN#223210/other a tennis racket] .
+[/EN#223205/people A man] is juggling [/EN#223210/other a tennis racket] , [/EN#223206/other basketball] , and [/EN#223207/other a black ball] .
+[/EN#223205/people The man] in [/EN#223212/clothing the gray shirt] is juggling [/EN#223210/other sports equipment] .
+[/EN#223205/people A man] is juggling [/EN#223214/other two large balls] and [/EN#223210/other a tennis racket] .

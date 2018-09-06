@@ -1,0 +1,5 @@
+[/EN#29488/people A child] wearing [/EN#29491/clothing a red jacket] , [/EN#29496/clothing orange] gloved and [/EN#29489/clothing an orange hat] sits in [/EN#29490/scene snow] next to [/EN#29492/other a snow shovel] .
+[/EN#29488/people A young boy] in [/EN#29491/clothing a red coat] and [/EN#29493/clothing orange mittens] and [/EN#29489/clothing hat] sits on [/EN#29490/scene a pile of snow] next to [/EN#29492/other a snow shovel] .
+[/EN#29488/people A little boy] [/EN#29490/people all] bundled up in [/EN#29491/clothing a blue and red snowsuit] sitting on [/EN#29490/scene pile of snow] next to [/EN#29492/other a shovel] .
+[/EN#29488/people The child] in [/EN#29491/clothing the red jacket] and [/EN#29493/clothing orange mittens] is sitting in [/EN#29490/scene the snow] next to [/EN#29492/other a shovel] .
+[/EN#29488/people A male child] is sitting down on [/EN#29490/scene snow] .

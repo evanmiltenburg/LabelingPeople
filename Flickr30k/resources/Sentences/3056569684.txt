@@ -1,0 +1,5 @@
+[/EN#90666/vehicles A damaged ambulance] is being hauled on [/EN#90667/other a truck bed] down [/EN#90670/scene the road] .
+[/EN#90666/vehicles The ambulance] on [/EN#90667/vehicles the flatbed truck] was in [/EN#90668/other a collision] .
+[/EN#90666/vehicles Recked ambulance] being towed by [/EN#90667/vehicles a large tow truck] .
+[/EN#90666/vehicles Wrecked ambulance] is being towed by [/EN#90667/vehicles a large truck] .
+[/EN#90666/vehicles A wrecked ambulance] is being towed .

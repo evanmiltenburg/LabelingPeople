@@ -1,0 +1,5 @@
+[/EN#65192/people Four people] are standing above [/EN#65197/other the photo line] in front of [/EN#65191/scene a red brick building] taking [/EN#65195/other photographs] .
+[/EN#65192/people Four people] are standing behind [/EN#65193/scene a balcony] in front of [/EN#65191/scene a brick building] .
+[/EN#65192/people People] sitting on [/EN#65193/scene a balcony] enjoying [/EN#65196/other some relaxing time] .
+[/EN#65191/scene A red brick building] with [/EN#65194/people a man] and [/EN#65198/people two women] near [/EN#0/notvisual it] .
+[/EN#65192/people 4 people] are standing in front of [/EN#65191/scene a red brick building]

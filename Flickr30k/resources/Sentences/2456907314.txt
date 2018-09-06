@@ -1,0 +1,5 @@
+[/EN#50990/people A man] standing on [/EN#50992/vehicles/scene a boat] is pulling [/EN#50993/vehicles/scene another boat] close by with [/EN#50991/other a bamboo stick] .
+[/EN#50990/people A man] on [/EN#50992/vehicles/scene a boat] is using [/EN#50991/other a large stick] to push [/EN#50993/vehicles/scene another boat] away .
+[/EN#50990/people A man] on [/EN#50992/vehicles/scene a fishing boat] pushing [/EN#50991/other a wooden pole] into [/EN#50994/scene the water] .
+[/EN#50990/people A man] is using [/EN#50991/other a long pole] to push [/EN#50995/vehicles/scene two boats] apart .
+[/EN#50990/people A man] is docking [/EN#50992/vehicles/scene a boat]

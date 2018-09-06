@@ -1,0 +1,5 @@
+[/EN#113911/people The man] wearing [/EN#113914/clothing glasses] , with [/EN#113913/other a cigarette] in [/EN#113915/bodyparts his mouth] , sits in [/EN#113912/other a chair] .
+[/EN#113911/people Man] sitting in [/EN#113912/other a black chair] smoking at [/EN#113916/scene a restaurant] .
+[/EN#113911/people A man] wearing [/EN#113914/clothing sunglasses] is sitting in [/EN#113912/other a chair] .
+[/EN#113911/people A man] sitting in [/EN#113912/other a chair] smoking [/EN#113913/other a cigarette] .
+[/EN#113911/people A man] sits in [/EN#113912/other a chair] smoking [/EN#113913/other a cigarette] .

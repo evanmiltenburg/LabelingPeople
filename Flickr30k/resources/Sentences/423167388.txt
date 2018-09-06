@@ -1,0 +1,5 @@
+[/EN#159745/people A man] wearing [/EN#159753/clothing a gray jacket] is standing outside on [/EN#159749/scene a sidewalk] and facing [/EN#159756/people another man] [/EN#0/notvisual who] has [/EN#159748/other a large camera] on [/EN#159759/other a tripod] while [/EN#159757/people another man] holds [/EN#159760/other a white pad of paper] .
+[/EN#159748/people A camera crew] is filming [/EN#159755/people an older gentlemen] wearing [/EN#159753/clothing a long gray coat] .
+[/EN#159751/people Two men] filming [/EN#159745/people an older gentleman] , while [/EN#159747/people a fourth man] watches .
+[/EN#159745/people A white man] speaks in front of [/EN#159748/other a camera] on [/EN#159749/scene a sidewalk] in [/EN#159752/scene a city] .
+[/EN#159746/people Four men] are shooting [/EN#159758/scene a scene] .

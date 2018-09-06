@@ -1,0 +1,5 @@
+[/EN#90999/scene Very blue water] with [/EN#91002/scene skyscraper buildings] on [/EN#91004/scene the shore] and [/EN#90998/people a group of people] in [/EN#91001/other a canoes] with [/EN#91003/other paddles] .
+[/EN#90998/people A team of rowers] propel [/EN#91000/vehicles/scene their boat] forward with [/EN#91003/other their paddles] in [/EN#90999/scene the water] .
+[/EN#90998/people Five people] are paddling [/EN#91001/other a kayak] in [/EN#90999/scene the ocean] with [/EN#91002/scene the city] behind [/EN#0/notvisual them] .
+[/EN#90998/people A group of people] rowing in [/EN#91000/vehicles/scene a boat] near [/EN#91002/scene a city] .
+[/EN#90998/people people] row in [/EN#91000/vehicles/scene a crew boat] .

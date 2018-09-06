@@ -1,0 +1,5 @@
+[/EN#189437/people A man] in [/EN#189438/clothing a teal outfit] sitting on [/EN#189439/other a rock] with [/EN#189440/other a half eaten apple] overlooking [/EN#189441/scene a field] .
+[/EN#189437/people A man] in [/EN#189438/clothing a aqua jumpsuit] with [/EN#189440/other an apple] in [/EN#189442/bodyparts his hand] is looking over [/EN#189445/scene a cliff] .
+[/EN#189437/people Man] sitting on [/EN#189439/other a rock] with [/EN#189443/other a water bottle] while wearing [/EN#189438/clothing teal clothing] .
+[/EN#189437/people a man] sitting on [/EN#189439/other a rock] overlooking [/EN#189441/scene a field] .
+[/EN#189437/people A man] sitting up high in [/EN#0/notvisual the air] on [/EN#189445/scene a cliff] .

@@ -1,0 +1,5 @@
+[/EN#102879/people Person] in [/EN#102882/clothing a racing ski outfit] and [/EN#102888/clothing a helmet] is skiing while in [/EN#102884/scene a squat position] .
+[/EN#102879/people A person] playing [/EN#102885/other sports] in [/EN#102880/scene the snow] is crouched down .
+[/EN#102882/other A kid crosscountry] skis wearing [/EN#102886/other the number] " [/EN#102881/other 93] " .
+[/EN#102879/people A snow skier] is going down [/EN#102883/other a slalom course] .
+[/EN#102879/people The skier] is on [/EN#102880/scene the snow] .

@@ -1,0 +1,5 @@
+[/EN#17210/animals A golden retriever] is excitedly greeting [/EN#17213/people a woman] as [/EN#17211/animals a little dog] walks towards [/EN#0/notvisual the camera] .
+[/EN#17210/animals A tan dog] jumping up at [/EN#17213/people a woman] in [/EN#17212/clothing a skirt] and [/EN#17211/animals a black and tan dog] walking away .
+[/EN#17210/animals a brown dog] is jumping up at [/EN#17213/people a woman] [/EN#0/notvisual who] is wearing [/EN#17212/clothing a brown skirt] .
+[/EN#17210/animals One dog] is jumping at [/EN#17213/people the lady] while [/EN#17214/other the other] walks away .
+[/EN#17210/animals A yellow dog] jumps to greet [/EN#17213/people a woman] .

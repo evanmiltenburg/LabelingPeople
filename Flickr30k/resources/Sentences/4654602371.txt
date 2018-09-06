@@ -1,0 +1,5 @@
+[/EN#187327/people a group of people] walking down [/EN#187329/scene a busy street] , [/EN#187336/other one] carrying [/EN#187331/other blue containers] on [/EN#187328/vehicles a bike] , and [/EN#0/notvisual you] can see [/EN#187332/scene the very tall buildings] .
+[/EN#187326/people A man] walking through [/EN#187330/scene a busy city] where [/EN#187326/people another man] on [/EN#187328/vehicles a bicycle] is transporting [/EN#187335/other goods] .
+[/EN#187326/people A man] drives [/EN#187333/other a motorcycle] with [/EN#187331/other two blue baskets] attached down [/EN#187329/scene a street] at [/EN#187334/other dusk] .
+[/EN#187327/people People] walk in [/EN#187329/scene the street] between [/EN#187332/scene two large office buildings] as [/EN#187337/other the sun] sets .
+[/EN#187327/people People] are crossing [/EN#187329/scene a city street] .

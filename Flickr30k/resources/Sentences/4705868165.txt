@@ -1,0 +1,5 @@
+[/EN#193307/people A woman] wearing [/EN#193310/clothing a red coat] is inside [/EN#193305/scene a red and white striped tent] .
+[/EN#193305/scene A red and white tent] with [/EN#193307/people Asian women] inside of [/EN#0/notvisual it] .
+[/EN#193307/people woman] in [/EN#193310/clothing red shirt] shopping in [/EN#193309/scene a outdoor market] .
+[/EN#193306/people Vendors] hawk [/EN#193312/other their goods] at [/EN#193305/scene an outdoor market] .
+[/EN#193311/people People] enjoy [/EN#193309/scene an outdoor cultural fair] .

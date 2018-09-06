@@ -1,0 +1,5 @@
+[/EN#257898/people A person] uses [/EN#257901/other a pair of pliers] to perform [/EN#257904/other a task] on [/EN#257899/other an electronic item] .
+[/EN#257899/other An electronic device] is being worked on by [/EN#257898/people a woman] .
+[/EN#257898/people A female] repairing [/EN#257899/other a small item] with [/EN#257901/other tools] .
+[/EN#257903/bodyparts A pair of hands] taking apart [/EN#257899/other a clock] .
+[/EN#257898/people A girl] rewiring [/EN#257899/other an electronic toy] .

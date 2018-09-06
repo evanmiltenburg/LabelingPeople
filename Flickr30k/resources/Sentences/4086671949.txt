@@ -1,0 +1,5 @@
+[/EN#154742/people A woman] in [/EN#154744/clothing a black coat] is riding [/EN#154743/vehicles her bike] on [/EN#154745/scene a street] as [/EN#154741/people a man] in [/EN#154748/clothing shorts] and [/EN#154747/clothing a striped top] looks at [/EN#0/notvisual her] as [/EN#0/notvisual he] passes [/EN#0/notvisual her] .
+[/EN#154741/people A man] is walking down [/EN#154745/scene the street] with [/EN#154746/clothing a backpack] and [/EN#154742/people a woman] is riding [/EN#154743/vehicles her bike] in [/EN#0/notvisual the opposite direction] .
+[/EN#154742/people A woman] in [/EN#154744/clothing a black coat] is riding [/EN#154743/vehicles a bike] while [/EN#154741/people a man] looks at [/EN#0/notvisual her] over [/EN#154750/bodyparts his right shoulder] .
+[/EN#154741/people A man] looks at [/EN#154742/people a woman] as [/EN#0/notvisual she] rides [/EN#154743/vehicles a bicycle] past [/EN#0/notvisual him] .
+[/EN#154742/people A woman] is riding [/EN#154743/vehicles a bicycle] down [/EN#154745/scene the street] .

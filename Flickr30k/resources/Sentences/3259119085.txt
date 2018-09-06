@@ -1,0 +1,5 @@
+[/EN#105023/people One boy] jumps over [/EN#105022/people several other boys] laying in [/EN#105026/scene the snow] with [/EN#105024/other his sled] , while [/EN#105029/people one boy] sits on [/EN#105030/scene one end] .
+[/EN#105022/people A group] lies in [/EN#105026/scene the snow] while [/EN#105024/people someone] on [/EN#105024/other a blue snow sled] jumps over [/EN#0/notvisual them] .
+[/EN#105027/people A group of people] laying in [/EN#105026/scene the snow] , while [/EN#105023/people another person] jumps [/EN#0/notvisual them] .
+[/EN#105024/people A sledder] is making [/EN#0/notvisual a jump] over [/EN#105031/people other kids] lying in [/EN#105026/scene the snow] .
+[/EN#105023/people A person] rides [/EN#105024/other a sled] over [/EN#105022/people several people] .

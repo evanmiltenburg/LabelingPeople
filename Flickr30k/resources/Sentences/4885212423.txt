@@ -1,0 +1,5 @@
+[/EN#214604/people A man] in [/EN#214608/clothing a black sweater] is walking along [/EN#214605/scene a railroad track] .
+[/EN#214604/people The young man] is trying to balance on [/EN#214606/scene the train tracks] .
+[/EN#214604/people A kid] with [/EN#214607/clothing a backpack] walking on [/EN#214606/scene the railroad tracks] .
+[/EN#214604/people A young man] wearing [/EN#214609/clothing jeans] balances on [/EN#214605/scene a train track] .
+[/EN#214604/people A man] is standing on [/EN#214610/bodyparts one feet] on [/EN#214605/scene a bridge] .

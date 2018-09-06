@@ -1,0 +1,5 @@
+[/EN#127968/people A kayaker] in [/EN#127970/other a red kayak] paddles as [/EN#127969/other an orange kayak] approaches from [/EN#127972/other behind] .
+[/EN#127968/people Man] paddles [/EN#127969/other red kayak] , [/EN#127969/other orange kayak] in [/EN#0/notvisual background] .
+[/EN#127968/people A man] in [/EN#127970/other a red kayak] paddles through [/EN#127971/scene blue water] .
+[/EN#127968/people A man] in [/EN#127969/other a red kayak] in [/EN#127971/scene the water] .
+[/EN#127968/people a man] paddling [/EN#127970/other a red kayak]

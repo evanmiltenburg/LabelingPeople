@@ -1,0 +1,5 @@
+[/EN#57161/animals A black dog] runs in [/EN#57163/scene a grassy yard] while [/EN#57162/people a woman] dressed in [/EN#57165/clothing green] watches from in [/EN#57164/scene fton of a tan house] .
+[/EN#57161/animals A dog] and [/EN#57162/people master] play in [/EN#57163/scene a grassy residential backyard] .
+[/EN#57161/animals A black dog] runs in [/EN#57163/scene a yard] while [/EN#57162/people a woman] observes
+[/EN#57162/people A woman] and [/EN#57161/animals a dog] standing in [/EN#57163/scene the grass] .
+[/EN#57162/people A man] is watching [/EN#57161/animals his dog] in [/EN#57163/scene his yard] .

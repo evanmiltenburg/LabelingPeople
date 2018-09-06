@@ -1,0 +1,5 @@
+[/EN#281699/people A man] wearing [/EN#281702/clothing a colorful shirt] is sitting with [/EN#281701/other a plastic bucket] on [/EN#281703/other a wooden raft-type structure] in [/EN#281700/scene brownish water] with [/EN#281709/other a canoe] nearby , very close to [/EN#281704/scene the shore] [/EN#0/notvisual which] is covered with [/EN#281704/other greenery] .
+[/EN#281699/people A man] in [/EN#281702/clothing a plaid shirt] sits on [/EN#281703/scene a wooden raft] in [/EN#281700/scene a body of water] near [/EN#281704/other plants] .
+[/EN#281699/people woman] sitting on [/EN#281708/other the edge of logs] while calmly located in [/EN#281704/scene a rice field] .
+[/EN#281699/people A man] and [/EN#281701/other a bucket] sit on [/EN#281709/vehicles/scene the edge of a boat] made out of [/EN#281703/other wooden logs] .
+[/EN#281699/people A man] on [/EN#281703/scene a raft] on [/EN#281700/scene the bay of a river] .

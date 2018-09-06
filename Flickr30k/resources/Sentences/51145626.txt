@@ -1,0 +1,5 @@
+[/EN#229134/people A man] with [/EN#229136/clothing a blue shirt] sitting on [/EN#229139/other a bed] and [/EN#229142/people another man] with [/EN#229143/clothing a tan colored shirt] and [/EN#229138/clothing glasses] laying on [/EN#229139/other a bed] .
+[/EN#229134/people A man] with [/EN#229138/clothing glasses] looks at [/EN#229144/other camera] while [/EN#229134/people another man] in [/EN#229136/clothing a blue shirt] looks intently at [/EN#229137/other something] .
+[/EN#229134/people A man] smiles for [/EN#0/notvisual the camera] as [/EN#0/notvisual he] watches [/EN#229145/other his friend work] on [/EN#229137/other a television] beside [/EN#0/notvisual him] .
+[/EN#229135/people Two men] are in [/EN#229146/scene a room] and are looking in [/EN#0/notvisual opposite directions] .
+[/EN#229135/people Two men] looking at [/EN#229141/other a computer] .

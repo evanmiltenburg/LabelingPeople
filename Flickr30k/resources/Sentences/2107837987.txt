@@ -1,0 +1,5 @@
+[/EN#29215/people A child] in [/EN#29221/clothing a blue shirt] is holding [/EN#29217/other something] in [/EN#29218/bodyparts his hand] on [/EN#29216/scene a lake shore] .
+[/EN#29215/people The little boy] is at [/EN#29216/scene the side of the river] throwing [/EN#29217/other rocks] .
+[/EN#29215/people A little boy] is ready to throw [/EN#29217/other a stone] into [/EN#29219/scene the water] .
+[/EN#29215/people A boy] stands near [/EN#29219/scene water] with [/EN#29217/other a stone] in [/EN#29218/bodyparts his hand] .
+[/EN#29215/people A boy] skips [/EN#29217/other rocks] near [/EN#29220/scene a bridge] .

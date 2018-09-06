@@ -1,0 +1,5 @@
+[/EN#272781/people A jockey] rides [/EN#272780/animals his brown horse] as [/EN#272780/other the horse gallops] along [/EN#272785/scene the track] .
+[/EN#272780/animals A horse] and [/EN#272781/people jockey] in [/EN#272783/other the middle of a horse race] .
+[/EN#272781/people Jockey] riding [/EN#272780/animals a racehorse] on [/EN#272784/other a racetrack] .
+[/EN#272781/people A jockey] is riding [/EN#272780/animals a running horse] .
+[/EN#272781/people A jockey] riding [/EN#272780/animals a brown horse] .

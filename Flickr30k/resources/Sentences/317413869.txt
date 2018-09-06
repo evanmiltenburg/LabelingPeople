@@ -1,0 +1,5 @@
+[/EN#98284/people A black person] in [/EN#98285/scene a home bathroom] with [/EN#98286/other a syringe] .
+[/EN#98284/people A lady] is preparing [/EN#98288/other some medicine] to take .
+[/EN#98284/people A nurse] holding [/EN#98286/other a needle] in [/EN#98287/scene a hospital] .
+[/EN#98284/people A woman] in [/EN#98285/scene a bathroom] using [/EN#98286/other a syringe] .
+[/EN#98284/people A woman] in [/EN#98285/scene the bathroom] in [/EN#98289/clothing her pajamas]

@@ -1,0 +1,5 @@
+[/EN#198471/people Three men] stroll down [/EN#198472/scene the street] beneath [/EN#198469/other a large red awning] [/EN#0/notvisual that] says [/EN#198470/other " Arrivo] " .
+[/EN#198471/people Three men] standing under [/EN#198469/other a large red and white sign] [/EN#0/notvisual that] reads [/EN#198470/other Arrivo] .
+[/EN#198469/other A red sign reading " ARRIVO] " is hanging above [/EN#198472/scene a street] .
+[/EN#198469/other A red banner] over [/EN#198472/scene the street] in [/EN#198473/scene a foreign city] .
+[/EN#198469/other The red and white sign] says " arrivo " .

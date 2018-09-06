@@ -1,0 +1,5 @@
+[/EN#79471/people A older man] is wearing [/EN#79472/clothing a white shirt] , sitting [/EN#79476/scene outside] and taking [/EN#79477/other a nap] .
+[/EN#79471/people An elderly man] sits on [/EN#79473/other a stool] outside [/EN#79474/other his door] and sleeps .
+[/EN#79471/people An old man] sits outside [/EN#79474/scene an open doorway] on [/EN#79473/other a low stool]
+[/EN#79471/people An old man] takes [/EN#79477/other a nap] outside of [/EN#79478/scene a red building] .
+[/EN#79471/people the old man] sitting at [/EN#79474/other the door]

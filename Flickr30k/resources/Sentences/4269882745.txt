@@ -1,0 +1,5 @@
+[/EN#161037/people A man] with [/EN#161042/bodyparts dark hair] and [/EN#161040/clothing a white top] is walking toward [/EN#161038/animals a bird] on [/EN#161039/scene a boardwalk] .
+[/EN#161038/animals Pelican] raising [/EN#161041/clothing its wings] and walking toward [/EN#161037/people man] in [/EN#161040/clothing white shirt] .
+[/EN#161037/people A man] with [/EN#161040/clothing a white tank top] feeding [/EN#161038/animals a seagull] on [/EN#161039/scene the pier] .
+[/EN#161037/people A man] in [/EN#161040/clothing a white shirt] is approaching [/EN#161038/animals a seagull] .
+[/EN#161037/people A man] and [/EN#161038/animals a pelican] on [/EN#161039/scene a boardwalk] .

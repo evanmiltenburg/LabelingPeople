@@ -1,0 +1,5 @@
+[/EN#259091/people A man] with [/EN#259101/bodyparts white hair] and [/EN#259102/bodyparts a white mustache] is on [/EN#259092/vehicles a bicycle] with [/EN#259093/other a blue laundry basket] resting on [/EN#259097/other the handlebars] .
+[/EN#259091/other Older male saving money] by taking [/EN#259093/scene his laundry] to be done with [/EN#259092/vehicles the bicycle] instead of [/EN#259099/vehicles the truck] .
+[/EN#259091/people An older man] is riding [/EN#259092/vehicles a bike] with [/EN#259093/other a blue laundry hamper] full of [/EN#259100/clothing clothes] on [/EN#259095/other his handlebars] .
+[/EN#259091/people A middle-aged mustachioed man] riding [/EN#259092/vehicles a bike] with [/EN#259093/other a laundry hamper] on [/EN#259097/other the handlebars] .
+[/EN#259091/people A older man] on [/EN#259092/vehicles a bike] carrying [/EN#259093/clothing a laundry basket of clothes] .

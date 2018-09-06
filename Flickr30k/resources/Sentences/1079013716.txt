@@ -1,0 +1,5 @@
+[/EN#1867/people Two people] are preparing [/EN#1869/other food] in [/EN#1868/scene a restaurant kitchen] .
+[/EN#1867/people The cooks] are preparing [/EN#1871/other hamburgers] for [/EN#1872/people the customers] .
+[/EN#1867/people Two chefs] prepare [/EN#1870/other burgers] in [/EN#1868/scene a restaurant kitchen] .
+[/EN#1867/people Two men] preparing [/EN#1869/other food] in [/EN#1868/scene a kitchen] .
+[/EN#1867/people Two cooks] in [/EN#1868/scene the kitchen] cooking .

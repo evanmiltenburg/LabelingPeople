@@ -1,0 +1,5 @@
+[/EN#113479/people Person] in [/EN#113482/clothing checked shirt] riding [/EN#113480/vehicles unicycle] while [/EN#113481/people crowd] watches .
+[/EN#113479/people A little girl] rides on [/EN#113480/vehicles a bicycle] during [/EN#113483/people a parade] .
+[/EN#113479/people A child] rides [/EN#113480/vehicles a unicycle] while [/EN#113481/people a crowd] watches .
+[/EN#113479/people Girl] in [/EN#113482/clothing plaid shirt] riding [/EN#113480/vehicles a unicycle] .
+[/EN#113479/people A small girl] riding [/EN#113480/vehicles a unicycle] .

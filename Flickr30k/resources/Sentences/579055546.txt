@@ -1,0 +1,5 @@
+[/EN#243080/people Little boy] standing under [/EN#243083/other a tree] in [/EN#243082/scene the park] after throwing [/EN#243081/other a Frisbee] .
+[/EN#243080/people A young child] playing with [/EN#243085/other a empty bucket] in [/EN#243084/scene the grass] .
+[/EN#243080/people A kid] fetches [/EN#243081/other a Frisbee] by [/EN#243083/other a tree] in [/EN#243084/scene the yard] .
+[/EN#243080/people A young child] throws [/EN#243081/other a frisbee] to [/EN#0/notvisual the ground] .
+[/EN#243080/people A child] plays [/EN#243081/other Frisbee] in [/EN#243082/scene a park] .

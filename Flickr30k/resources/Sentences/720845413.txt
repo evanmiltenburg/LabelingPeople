@@ -1,0 +1,5 @@
+[/EN#267136/people Two people] at [/EN#267137/scene the beach] facing [/EN#267143/scene the water] , [/EN#0/notvisual both] are sitting on [/EN#267140/other an elevated wooden platform] , wearing [/EN#267141/clothing red shirts] and [/EN#267142/bodyparts their heads] almost completely shielded by [/EN#267139/other a mounted American flag] .
+[/EN#267135/people Two people] in [/EN#267141/clothing red shirts] are sitting in [/EN#267140/other a lifeguard chair] on [/EN#267137/scene a beach] with [/EN#267139/other an American flag] flying behind [/EN#0/notvisual them] .
+[/EN#267136/people Two people] in [/EN#267141/clothing red shirts] are sitting in [/EN#267138/scene a lifeguard lookout] on [/EN#267137/scene the beach] with [/EN#267139/other a flag] obscuring [/EN#267142/bodyparts their faces] .
+[/EN#267135/people Two lifeguards] watch over [/EN#267143/scene the ocean] on [/EN#267144/scene a cloudy day] and [/EN#267139/other an American flag] is hanging behind [/EN#0/notvisual them] .
+[/EN#267135/people Two lifeguards] sit on [/EN#267138/scene a beach tower] , while [/EN#267139/other an American flag] flaps behind [/EN#0/notvisual them] .

@@ -1,0 +1,5 @@
+[/EN#192489/people A young black person] on [/EN#192490/vehicles a bike] rides in front of [/EN#192491/scene a gate] decorated with [/EN#192492/animals roosters] .
+[/EN#192489/people An African American boy] peddles [/EN#192490/vehicles a bicycle] in front of [/EN#192491/scene an elaborate gold gate] .
+[/EN#192489/people A child] is riding [/EN#192490/vehicles a mountain bike] as [/EN#0/notvisual he] passes by [/EN#192493/other an ornamental gateway] .
+[/EN#192489/people A boy] is riding [/EN#192490/vehicles a bike] past [/EN#192491/scene a gate] with [/EN#192492/animals metal chicken] on [/EN#0/notvisual it] .
+[/EN#192489/people A young man] is riding [/EN#192490/vehicles his bicycle] .

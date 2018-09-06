@@ -1,0 +1,5 @@
+[/EN#164561/people A man] is [/EN#164562/clothing a colorful geometric striped shirt] is holding [/EN#164564/other something] in [/EN#164566/bodyparts his hand] while standing in [/EN#164563/scene a kitchen] with [/EN#164565/people a woman] behind [/EN#0/notvisual him] .
+[/EN#164561/people A man] in [/EN#164562/clothing a colorful , patterned shirt] stands in [/EN#164563/scene his kitchen] .
+[/EN#164561/people A man] examining [/EN#0/notvisual what] appears to be [/EN#164564/other food] in [/EN#164563/scene a kitchen] .
+[/EN#164561/people An older man] wearing [/EN#164562/clothing a funky shirt] .
+[/EN#164561/people A guy] looking down in [/EN#164563/scene a kitchen] .

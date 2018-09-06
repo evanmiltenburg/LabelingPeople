@@ -1,0 +1,5 @@
+[/EN#218773/people A man] in [/EN#218775/clothing blue] lies on [/EN#218776/scene a mostly-barren patch of grass] while [/EN#218774/people small groups of people] congregate in [/EN#0/notvisual the distance] .
+[/EN#218774/people Various people] hanging around [/EN#218778/scene outside of a building] .
+[/EN#218773/people Male] in [/EN#218775/clothing a blue jacket] decides to lay in [/EN#218776/scene the grass] .
+[/EN#218773/people A man] laying on [/EN#0/notvisual the ground] in [/EN#218776/scene a park] .
+[/EN#218773/people A man] is sleeping on [/EN#218776/scene the grass] .

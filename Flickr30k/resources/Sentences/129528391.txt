@@ -1,0 +1,5 @@
+[/EN#7617/people A man] carrying [/EN#7619/instruments a musical instrument] and wearing [/EN#7618/clothing a gray jacket] , [/EN#7622/clothing purple hat] and [/EN#7620/clothing purple scarf] examines [/EN#7623/other some money] as [/EN#0/notvisual he] stands near [/EN#7621/other a worn utility pole] .
+[/EN#7617/people An accordion player] wearing [/EN#7618/clothing a heavy jacket] , [/EN#7620/clothing scarf] and [/EN#7622/clothing beanie] standing by [/EN#7621/other a yellow telephone pole] .
+[/EN#7617/people A white male] [/EN#0/notvisual who] has everything covered but [/EN#7625/bodyparts his face] and [/EN#7626/bodyparts hands] is holding [/EN#7619/instruments an accordion] .
+[/EN#7617/people A gentleman] in [/EN#7620/clothing a purple scarf] and [/EN#7622/clothing hat] is looking at [/EN#7623/other money] while holding [/EN#7619/instruments an accordion] .
+[/EN#7617/people A man] counts [/EN#7623/other his money] while playing [/EN#7619/scene his portable keyboard outside] in [/EN#7624/other the cold] .

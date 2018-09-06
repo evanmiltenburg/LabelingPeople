@@ -1,0 +1,5 @@
+[/EN#61993/animals A white and brown dog] sitting on [/EN#61995/scene a grassy , rocky area] .
+[/EN#61993/animals A white and brown dog] sitting in [/EN#61994/scene the grass] .
+[/EN#61993/animals The white dog] is sitting in [/EN#61995/scene the grass] .
+[/EN#61993/animals A white dog] sits on [/EN#61994/scene a rocky lawn] .
+[/EN#61993/animals A small white dog] sits in [/EN#61994/scene a field]

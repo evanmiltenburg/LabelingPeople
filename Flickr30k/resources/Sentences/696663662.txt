@@ -1,0 +1,5 @@
+[/EN#262733/people Child] in [/EN#262740/clothing blue shirt] with [/EN#262737/bodyparts/people eye closed and left arm] wrapped with [/EN#262736/clothing ace bandage] and propped on [/EN#262739/other a white pillow] .
+[/EN#262733/people A boy] with [/EN#262737/bodyparts/people his arm] wrapped in [/EN#262736/clothing an ACE bandage] rests in [/EN#262734/other a bed] .
+[/EN#262733/people A boy] with [/EN#262735/bodyparts/people a broken arm] is resting in [/EN#262734/other a bed] .
+[/EN#262733/people A kid] with [/EN#262738/other a broken arm asleep] in [/EN#262734/other his bed]
+[/EN#262733/people A boy] with [/EN#262735/bodyparts/people a broken arm] is sleeping .

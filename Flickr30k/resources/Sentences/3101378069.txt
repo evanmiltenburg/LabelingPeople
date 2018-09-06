@@ -1,0 +1,5 @@
+[/EN#93624/people Person] in [/EN#93628/clothing pointed hat] and [/EN#93633/bodyparts face] covered with [/EN#93627/clothing green scarf] poling [/EN#93626/other boatload of stuff] through [/EN#93632/scene water]
+[/EN#93624/people A lady] in [/EN#93630/clothing a pink shirt] , [/EN#93627/clothing green veil] and [/EN#93628/clothing straw hat] rowing [/EN#93625/vehicles/scene a boat] with [/EN#93626/other packages] in [/EN#0/notvisual it] .
+[/EN#93624/people An Asian woman] rows [/EN#93625/vehicles/scene a boat] loaded with [/EN#93626/other supplies] .
+[/EN#93624/people A man] piloting [/EN#93625/vehicles/scene a boat] with [/EN#93626/other goods] in [/EN#93631/other the back] .
+[/EN#93624/people A lady] rows [/EN#93629/other a canoe] filled with [/EN#93626/other things] .

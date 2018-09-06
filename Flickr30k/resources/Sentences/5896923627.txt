@@ -1,0 +1,5 @@
+[/EN#244739/people A young boy] sitting in on [/EN#244740/other one of two orange chairs] , in front of [/EN#244742/other a computer] , [/EN#0/notvisual that] is sitting on [/EN#244747/other a table] , with [/EN#244745/animals a mouse] in [/EN#244749/bodyparts his right hand] on [/EN#244747/other the table] .
+[/EN#244739/people A little boy] sits on [/EN#244740/other an orange chair] while touching [/EN#244745/animals a computer mouse] and looking at [/EN#244742/other a computer screen] .
+[/EN#244739/people A small boy] sitting in [/EN#244740/other a big chair] playing on [/EN#244742/other a computer] .
+[/EN#244739/people Young boy] plays [/EN#244744/other a game] on [/EN#244742/other the computer] .
+[/EN#244739/people A child] is playing [/EN#244744/other computer games] .

@@ -1,0 +1,5 @@
+[/EN#217854/other A bro] is skating on [/EN#217852/other a rail] in [/EN#217850/scene a skate park] with [/EN#217858/other not much] around except [/EN#217857/scene green grass] and [/EN#217849/other concrete] .
+[/EN#217848/people A boy] with [/EN#217859/clothing jean shorts] and [/EN#217860/clothing bright blue sneakers] is riding [/EN#217853/other a skateboard] next to [/EN#217855/scene a tall fence] .
+[/EN#217848/people A skateboarder] does [/EN#0/notvisual a trick] in [/EN#217849/other a concrete] surfaced [/EN#217851/scene enclosure] .
+[/EN#217848/people A shirtless teen] grinding on [/EN#217852/other the rail] with [/EN#217853/other his skateboard] .
+[/EN#217848/people A teenager] is skateboarding in [/EN#217850/scene an empty park] .

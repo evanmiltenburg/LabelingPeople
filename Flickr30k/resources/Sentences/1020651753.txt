@@ -1,0 +1,5 @@
+[/EN#617/animals A white dog] is trying to catch [/EN#618/other a ball] in [/EN#620/scene midair] over [/EN#619/scene a grassy field] .
+[/EN#617/animals The white dog] is playing in [/EN#619/scene a green field] with [/EN#618/other a yellow toy] .
+[/EN#617/animals a black and white dog] jumping in [/EN#0/notvisual the air] to get [/EN#618/other a toy] .
+[/EN#617/animals A black and white dog] jumps up towards [/EN#618/other a yellow toy] .
+[/EN#617/animals A dog] leaps to catch [/EN#618/other a ball] in [/EN#619/scene a field] .

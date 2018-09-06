@@ -1,0 +1,5 @@
+[/EN#70223/people A woman] leads [/EN#70222/people a toddler] and [/EN#70224/animals dog] on [/EN#70226/scene an uphill climb] through [/EN#70227/scene a meadow] .
+[/EN#70222/people An infant] in [/EN#70229/clothing a blue shirt] walking with [/EN#70224/animals the dog] following behind .
+[/EN#70223/people A woman] and [/EN#70222/people the kid] are walking along with [/EN#70224/animals the dog] .
+[/EN#70223/people A woman] , [/EN#70222/people a boy] , and [/EN#70224/animals a dog] are walking up [/EN#70225/scene a hill] .
+[/EN#70228/people Two people] walking up [/EN#70225/scene a hill] with [/EN#70224/animals a dog] .

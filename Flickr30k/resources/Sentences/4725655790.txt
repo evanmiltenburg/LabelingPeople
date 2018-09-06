@@ -1,0 +1,5 @@
+[/EN#195717/people People] shopping in [/EN#195714/scene the meat section of a grocery store] .
+[/EN#195716/people A woman] buying [/EN#195720/other something] from [/EN#195718/other the deli] counter .
+[/EN#195715/scene A food market] with [/EN#195717/people lots of people] inside .
+[/EN#195716/people A woman] is buying [/EN#195719/other meat] at [/EN#195713/scene a supermarket] .
+[/EN#195717/people People] walking in [/EN#195713/scene a supermarket] .

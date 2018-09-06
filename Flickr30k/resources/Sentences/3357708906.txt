@@ -1,0 +1,5 @@
+[/EN#112421/animals A group of brown dogs] are standing on [/EN#112423/scene a road] with [/EN#112422/people 3 people] .
+[/EN#0/notvisual There] are [/EN#112421/animals 5 brown dogs] on [/EN#112424/clothing leashes] with [/EN#112422/people their owners] nearby .
+[/EN#112421/other Several brown dogs of different sizes] gather together .
+[/EN#112422/people Three women] are standing among [/EN#112421/animals a group of brown dogs] .
+[/EN#112421/animals Dogs] and [/EN#112422/people their masters] gather on [/EN#112423/scene a dirt trail] .

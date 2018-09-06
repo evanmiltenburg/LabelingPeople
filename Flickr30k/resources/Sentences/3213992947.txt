@@ -1,0 +1,5 @@
+[/EN#101639/people A woman] in [/EN#101640/clothing a red coat] is smiling , while [/EN#101641/people people] in [/EN#0/notvisual the background] are walking around in [/EN#101642/clothing winter clothing] .
+[/EN#101639/people A woman] in [/EN#101640/clothing a puffy red jacket] poses for [/EN#101645/other a picture] at [/EN#101643/other an ice] skating [/EN#101643/other rink] .
+[/EN#101639/people A woman] wearing [/EN#101640/clothing a red coat] smiles down at [/EN#0/notvisual the camera] .
+[/EN#101639/people The woman] in [/EN#101640/clothing a red jacket] is smiling at [/EN#0/notvisual the camera] .
+[/EN#101639/people A girl] in [/EN#101640/clothing a red jacket] , surrounded by [/EN#101641/people people] .

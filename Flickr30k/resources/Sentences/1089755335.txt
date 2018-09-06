@@ -1,0 +1,5 @@
+[/EN#2173/people A woman] stands with [/EN#2174/people children] on [/EN#2175/scene a boardwalk] at [/EN#2180/scene night] overlooking [/EN#2175/scene the sea] .
+[/EN#2173/people Woman] with [/EN#2174/people three children] fishing over [/EN#2175/scene boardwalk] in [/EN#2180/scene the evening] .
+[/EN#2173/people A woman] and [/EN#2174/people three children] stand on [/EN#2175/other a deck] with [/EN#2177/other a fishing pole] .
+[/EN#2178/people Some people] on [/EN#2175/scene a pier] at [/EN#2180/scene night] with [/EN#2179/people one girl] fishing off [/EN#0/notvisual it] .
+[/EN#2173/people A mother] and [/EN#2174/people children] is fishing on [/EN#2175/scene a boardwalk] at [/EN#2180/scene night] .

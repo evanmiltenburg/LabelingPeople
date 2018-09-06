@@ -1,0 +1,5 @@
+[/EN#30651/people A thin man] wearing [/EN#30655/clothing khakis] is sitting in front of [/EN#30654/other a dark wood door] in [/EN#30652/scene a building] with [/EN#30658/other the walls] painted blue .
+[/EN#30651/people A man] with [/EN#30659/bodyparts a black mustache] sits [/EN#30654/scene outside] in front of [/EN#30654/other a large brown door] on [/EN#30653/other a white chair] .
+[/EN#30651/people A man] wearing [/EN#30656/clothing a blue shirt] and [/EN#30655/clothing white pants] sitting on [/EN#30653/other a chair] in front of [/EN#30652/scene a building]
+[/EN#30651/people A man] is sitting on [/EN#30653/other a white lawn chair] in front of [/EN#30652/scene a blue building] .
+[/EN#30651/people A man] is sitting on [/EN#30653/other a white chair] in front of [/EN#30652/scene a blue building] .

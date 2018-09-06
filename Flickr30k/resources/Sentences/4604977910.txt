@@ -1,0 +1,5 @@
+[/EN#181985/people A woman] in [/EN#181986/clothing a dark shirt] stands facing , but looking away from [/EN#181987/other the large aquarium window] [/EN#0/notvisual she] is leaning against , while [/EN#181990/other a seal] swims on [/EN#181992/other the other side of the glass] .
+[/EN#181985/people A woman] standing in front of [/EN#181987/clothing a large tank] at [/EN#181987/scene an aquarium] turns around to look at [/EN#181993/people the photographer] .
+[/EN#181985/people A young lady] is looking away from [/EN#181987/clothing the tank] while [/EN#181994/animals a shark] is in front of [/EN#0/notvisual her] .
+[/EN#181985/people A woman] in [/EN#181986/clothing a black shirt] is watching [/EN#181990/other a seal] swimming in [/EN#181987/scene an aquarium] .
+[/EN#181985/people A woman] is at [/EN#181989/scene the zoo] watching [/EN#181990/other a seal] .

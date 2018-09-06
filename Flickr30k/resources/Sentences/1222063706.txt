@@ -1,0 +1,5 @@
+[/EN#5526/people A woman] in [/EN#5529/clothing a brown knee length skirt] and [/EN#5532/other a silk brown button] up [/EN#5528/clothing shirt] is sitting on [/EN#5527/other a stone bench] at [/EN#5533/scene a art gallery] fixing [/EN#5529/clothing her skirt] .
+[/EN#5526/people A woman] sitting on [/EN#5527/other a bench] in front of [/EN#5531/other a large painting] .
+[/EN#5526/people An Asian woman] sits in front of [/EN#5531/other a nude painting] .
+[/EN#5526/people A woman] in [/EN#5530/clothing a brown dress] is sitting on [/EN#5527/other a bench] .
+[/EN#5526/people A woman] sitting on [/EN#5527/other a bench] tends to [/EN#5529/clothing her skirt] .

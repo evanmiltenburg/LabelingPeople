@@ -1,0 +1,5 @@
+[/EN#24393/animals A dog] with [/EN#24394/clothing a purple leash] is held by [/EN#24395/people a woman] wearing [/EN#24396/clothing white shoes] .
+[/EN#24393/animals A dog] is on [/EN#24394/clothing a leash] held by [/EN#24395/people a woman] in [/EN#24396/clothing white shoes] .
+[/EN#24393/animals A small black and tan dog] on [/EN#24394/clothing a leash] .
+[/EN#24393/animals A small dog] being held on [/EN#24394/clothing a leash] .
+[/EN#24393/animals Small brown dog] on [/EN#24394/clothing leash]

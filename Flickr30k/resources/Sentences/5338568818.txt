@@ -1,0 +1,5 @@
+[/EN#234003/people three people] play in [/EN#234004/scene the snow] with [/EN#234004/scene a forest] in [/EN#0/notvisual the background] .
+[/EN#234007/people Two people] in [/EN#234005/clothing red coats] sit in [/EN#234004/scene the snow] in [/EN#234004/scene a forest] clearing .
+[/EN#234003/people Three girls] in [/EN#234005/clothing winter coats] are outside in [/EN#234004/scene a snowy forest] .
+[/EN#234003/people Three people] resting on [/EN#234008/scene a snowy mountain] .
+[/EN#234003/people Three people] playing in [/EN#234004/scene the snow] .

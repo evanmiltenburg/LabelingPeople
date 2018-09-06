@@ -1,0 +1,5 @@
+[/EN#32024/people A man] with [/EN#32027/clothing no shirt] on , holding [/EN#32025/other a cup] , watches [/EN#32022/people a woman] wearing [/EN#32023/clothing a yellow bikini top] in [/EN#32021/people a crowd] .
+[/EN#32022/people A woman] in [/EN#32023/clothing a yellow bikini top] and [/EN#32029/clothing sunglasses] in [/EN#32021/people a crowd of people] on [/EN#32019/scene a boardwalk] .
+[/EN#32021/people A very large group of people] walk around [/EN#32030/clothing wearing summer clothes] .
+[/EN#32021/people a group of people] walking at [/EN#32020/scene the beach] on [/EN#32026/scene a hot summer day] .
+[/EN#32019/scene A beach boardwalk] during [/EN#32028/other summertime] .

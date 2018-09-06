@@ -1,0 +1,5 @@
+[/EN#99655/people An older bearded man] in [/EN#99656/clothing a white hat] and [/EN#99657/clothing clothes] weaves [/EN#99658/other a basket] while sitting on [/EN#0/notvisual the ground] .
+[/EN#99655/people A dark-skinned man] wearing [/EN#99657/clothing a white suit] and [/EN#99656/clothing hat] is sitting on [/EN#0/notvisual the ground] making [/EN#99658/other a basket] .
+[/EN#99655/people A smiling older man] in [/EN#99656/clothing a white cap] is sitting with [/EN#99658/other woven straw] in [/EN#99659/bodyparts his hands] .
+[/EN#99655/people This man] is dressed in [/EN#99657/clothing all white] .
+[/EN#99655/people an older man] weaving [/EN#99658/other baskets]

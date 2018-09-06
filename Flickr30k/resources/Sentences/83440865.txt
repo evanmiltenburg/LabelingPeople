@@ -1,0 +1,5 @@
+[/EN#281139/people A person] in [/EN#281142/clothing a white jumpsuit] is using [/EN#281140/other a hose] to wash down [/EN#281141/scene a tiled floor] .
+[/EN#281139/people a man] wearing [/EN#281142/clothing white] cleans [/EN#281144/scene dirt] from [/EN#0/notvisual the ground] with [/EN#281140/other a hose] .
+[/EN#281139/people A man] dressed in [/EN#281142/other white uses] [/EN#281140/other a hose] to wash off [/EN#0/notvisual the ground]
+[/EN#281139/people A man] in [/EN#281142/clothing a white outfit] is washing [/EN#281141/scene a tiled surface] .
+[/EN#281139/people A man] uses [/EN#281140/other a hose] to clean [/EN#281143/scene a plaza] .

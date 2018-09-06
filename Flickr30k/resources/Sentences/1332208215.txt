@@ -1,0 +1,5 @@
+[/EN#8837/people A man] in [/EN#8838/clothing glasses] and [/EN#8839/people an Asian woman] are seated across from [/EN#0/notvisual each other] in [/EN#8840/vehicles/scene a subway train] .
+[/EN#8841/people Two men] and [/EN#8839/people one woman] are sitting in [/EN#8840/vehicles/scene a subway train] .
+[/EN#8842/people Several people] sit on [/EN#8840/vehicles/scene a train] .
+[/EN#8842/people People] sit inside [/EN#8840/vehicles/scene a train] .
+[/EN#8842/people People] on [/EN#8840/vehicles/scene a subway] .

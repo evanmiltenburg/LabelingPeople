@@ -1,0 +1,5 @@
+[/EN#244548/people A young male] in [/EN#244550/clothing a hat] , [/EN#244549/clothing green shirt] and [/EN#244557/clothing black pants] is riding [/EN#244551/other his skateboard] at [/EN#244554/scene the top of a ramp] , with [/EN#244556/other a lot of palm trees] in [/EN#0/notvisual the background] .
+[/EN#244548/people A young man] wearing [/EN#244549/clothing a green shirt] and [/EN#244550/clothing a hat] attempts [/EN#0/notvisual a trick] on [/EN#244551/other a skateboard] while riding [/EN#0/notvisual it] in [/EN#244552/scene a skate park] next to [/EN#244552/scene a beach] .
+[/EN#244548/people A boy] performs [/EN#244553/other a stunt] on [/EN#244551/other a skateboard] in [/EN#244552/scene a skate park] .
+Here is [/EN#244548/people a young male skateboarder] at [/EN#244554/other the top of a turn] .
+[/EN#244548/people A man] is skateboarding in [/EN#244552/scene a skate park] .

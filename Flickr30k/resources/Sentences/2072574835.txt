@@ -1,0 +1,5 @@
+[/EN#26997/animals Greyhound dogs] wearing [/EN#27001/clothing racing stripes] are running out of [/EN#26998/scene a gate] on [/EN#27000/scene a track] .
+[/EN#26997/animals Three racing dogs] are running out of [/EN#26998/scene the starting gate] on [/EN#27000/scene a track] .
+[/EN#26997/animals Greyhounds] jumping out of [/EN#26998/scene the gate] at [/EN#26999/other a race] .
+[/EN#26997/animals Racing greyhounds] leave [/EN#26998/scene the starting gate] .
+[/EN#26997/animals Dogs] in [/EN#26999/other a race] .

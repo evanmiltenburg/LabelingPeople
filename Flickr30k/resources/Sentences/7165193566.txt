@@ -1,0 +1,5 @@
+[/EN#266308/people A blond woman] in [/EN#266310/clothing a short denim skirt] , [/EN#266317/clothing black top] and [/EN#266316/clothing beige jacket] , is reaching towards [/EN#266311/other part of a painting] [/EN#0/notvisual that] is propped up on [/EN#266315/other a windowsill] .
+[/EN#266308/people A woman] is holding [/EN#266309/other a drink] in [/EN#266319/bodyparts one hand] and pointing at [/EN#266311/other a painting] with [/EN#266318/other the other] .
+[/EN#266308/people Woman] with [/EN#266310/clothing a jean skirt] holding [/EN#266309/other a drink] points to [/EN#266312/other an object] in [/EN#266311/other a painting] .
+[/EN#266308/people A girl] holding [/EN#266309/other an empty plastic cup] is pointing to [/EN#266311/other a painting] .
+[/EN#266308/people A girl] holding [/EN#266309/other a beverage] points at [/EN#266311/other a painting] .

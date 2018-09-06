@@ -1,0 +1,5 @@
+[/EN#145452/people A man] wearing [/EN#145458/clothing a striped shirt] is [/EN#145457/other outside painting] with [/EN#145456/scene a view of hills] and [/EN#145454/scene water] .
+[/EN#145452/people A man] using [/EN#145455/other paint] on [/EN#145453/other a deck] above [/EN#145454/scene a large body of water] .
+[/EN#145452/people A man] squatting [/EN#145459/bodyparts/people a using one arm] to balance [/EN#0/notvisual himself] .
+[/EN#145452/people A man] is kneeling down and using [/EN#145455/other a paintbrush] .
+[/EN#145452/people A man] painting [/EN#145453/other a deck] next to [/EN#145454/scene the water] .

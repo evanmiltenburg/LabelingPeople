@@ -1,0 +1,5 @@
+[/EN#146415/animals a white dog] walking on [/EN#146419/other some rocks] along [/EN#146416/scene a house] in [/EN#146417/scene the snow] .
+[/EN#146415/animals A dog] walking along [/EN#146416/scene the side of a house] in [/EN#146417/scene the snow] .
+[/EN#146415/animals A white dog] is walking by [/EN#146416/scene a building] in [/EN#146417/scene the snow] .
+[/EN#146415/animals A white dog] next to [/EN#146418/other a basement window] .
+[/EN#146415/animals A white dog] walks in [/EN#146417/scene the snow]

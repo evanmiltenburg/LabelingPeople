@@ -1,0 +1,5 @@
+[/EN#92373/animals Three dogs] , [/EN#92375/clothing two brown] and [/EN#92376/clothing one black] , run in [/EN#92374/other the surf] .
+[/EN#92373/animals Three dogs] are running through [/EN#92374/scene the water] .
+[/EN#92373/animals Three dogs] run through [/EN#92374/scene shallow water] .
+[/EN#92373/animals The dogs] are running in [/EN#92374/scene the water] .
+[/EN#92373/animals Three dogs] running in [/EN#92374/scene the water] .

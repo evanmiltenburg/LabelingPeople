@@ -1,0 +1,5 @@
+[/EN#155992/animals A brown dog] is shown standing in [/EN#155997/scene the water] near [/EN#155994/scene a muddy beach] .
+[/EN#155992/animals The dog] runs through [/EN#155997/scene the water] with [/EN#155996/other a stick] in [/EN#155998/bodyparts its mouth] .
+[/EN#155992/animals A dog] happily plays in [/EN#155997/scene tidal overflow] on [/EN#155993/scene a cloudy day] .
+[/EN#155992/animals A tan dog] playing with [/EN#155996/other a stick] on [/EN#155995/scene the shore] .
+[/EN#155992/animals A dog] is playing in [/EN#155997/scene water] on [/EN#155994/scene a beach] .

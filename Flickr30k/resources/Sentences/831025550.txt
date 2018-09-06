@@ -1,0 +1,5 @@
+[/EN#281048/people A young girl] in [/EN#281049/clothing a bathing suit] and [/EN#281053/clothing goggles] with [/EN#281050/other a cast] on [/EN#281055/bodyparts/people her lower arm] is diving off [/EN#281051/scene a starter block] into [/EN#281052/scene a swimming pool] with [/EN#281056/other lane lines] .
+[/EN#281048/people A little girl] with [/EN#281050/other a pink cast] dives off [/EN#281051/scene a diving board] into [/EN#281052/scene a pool] .
+[/EN#281048/people A young child] , [/EN#0/notvisual who] has [/EN#281050/other a cast] on [/EN#281054/bodyparts/people her arm] , is diving into [/EN#281052/scene a pool] .
+[/EN#281048/people A girl] wearing [/EN#281049/clothing a blue and pink bathing suit] jumping into [/EN#281052/scene a pool] .
+[/EN#281048/people A young girl] in [/EN#281050/other a cast] is diving into [/EN#281052/scene a pool] .

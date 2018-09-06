@@ -1,0 +1,5 @@
+[/EN#259895/people A bearded man] in [/EN#259898/clothing a tan hat] , assists [/EN#259897/people a bald man] in [/EN#259902/clothing tennis shoes] , near [/EN#259899/other a campfire] .
+[/EN#259895/people A man] in [/EN#259898/clothing a brown hat] is helping [/EN#259897/people a man] with [/EN#259903/bodyparts no hair] up off [/EN#0/notvisual the ground] .
+[/EN#259895/people A man] wearing [/EN#259898/clothing a hat] is picking up [/EN#259896/people another man] beside [/EN#259899/other a campfire] .
+[/EN#259896/other A man 's chair] has collapsed at [/EN#259900/scene a campsite] .
+[/EN#259901/people Two adult men] in [/EN#259900/scene a crowded campsite] .

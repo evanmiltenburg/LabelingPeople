@@ -1,0 +1,5 @@
+[/EN#95035/animals A black dog] in [/EN#95038/clothing an orange bandanna] pouncing on [/EN#95036/other a blue soccer ball] in [/EN#95037/scene an area] covered by [/EN#95037/other fallen leaves] .
+[/EN#95035/animals A little black dog] wearing [/EN#95038/clothing a red collar] is in [/EN#95037/other the leaves] with [/EN#95036/other a blue ball] .
+[/EN#95035/animals A dog] jumps at [/EN#95036/other a shiny blue soccer ball] in [/EN#95037/other a field of dry leaves] .
+[/EN#95035/animals A black dog] pushes [/EN#95036/other a blue ball] in [/EN#95037/other a yard of brown leaves] .
+[/EN#95035/animals A black dog] pounces on [/EN#95036/other a ball] in [/EN#95037/other the leaves] .

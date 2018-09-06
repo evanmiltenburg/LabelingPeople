@@ -1,0 +1,5 @@
+[/EN#155061/people One girl] rides [/EN#155062/animals a horse] while [/EN#155064/people a woman] appears to lead [/EN#0/notvisual them] across [/EN#155063/scene a park] while [/EN#155070/animals two other horses] walk in [/EN#0/notvisual the near background] , with [/EN#155066/scene a street] and [/EN#155071/vehicles parked cars] in [/EN#0/notvisual the far background] .
+[/EN#155061/people Young black girl] being [/EN#155067/other lead] on [/EN#155062/animals a white pony] [/EN#0/notvisual that] has [/EN#155072/clothing pink riding regalia] .
+[/EN#155061/people A young girl] sits atop [/EN#155062/animals a pony] with [/EN#155065/other pink bows] as [/EN#0/notvisual it] is led by [/EN#155064/people a woman] .
+[/EN#155061/people A girl] riding [/EN#155062/animals a pony] with [/EN#155073/bodyparts braids] and [/EN#155065/other pink bows]
+[/EN#155061/people Young black girl] riding [/EN#155062/animals pony] at [/EN#155063/scene petting zoo] .

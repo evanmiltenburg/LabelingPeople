@@ -1,0 +1,5 @@
+[/EN#48521/people A woman] strides across [/EN#48527/scene the corner of a tennis court] with [/EN#48524/other her racket] in [/EN#0/notvisual the air] .
+[/EN#48521/people The tennis player] is enjoying [/EN#48523/other her game] while [/EN#48525/people the crowd] watch [/EN#0/notvisual her] [/EN#48526/other every move] .
+[/EN#48521/people A woman] in [/EN#48528/clothing tennis clothes] running to hit [/EN#48522/other a ball] with [/EN#48524/other her tennis racket] .
+[/EN#48521/people A woman] moves to hit [/EN#48522/other a ball] during [/EN#48523/other a game of tennis] .
+[/EN#48521/people A young woman] plays [/EN#48523/other professional tennis] .

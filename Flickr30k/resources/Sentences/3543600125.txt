@@ -1,0 +1,5 @@
+[/EN#126318/people a woman] in [/EN#126327/clothing black] is sitting next to [/EN#126319/people a man] wearing [/EN#126328/clothing glasses] in [/EN#126320/scene a coffee shop] .
+[/EN#126319/people A man] and [/EN#126318/people a woman] are drinking from [/EN#126322/other ceramic cups] in front of [/EN#126324/other a brick wall] .
+[/EN#126319/people A man] and [/EN#126318/people a girl] are sitting down and have [/EN#126325/other a drink] .
+[/EN#126318/people A lady] laughs as [/EN#0/notvisual she] and [/EN#126326/other a man drink coffee] .
+[/EN#126323/people People] sitting in [/EN#126320/scene building] having [/EN#126321/other drinks]

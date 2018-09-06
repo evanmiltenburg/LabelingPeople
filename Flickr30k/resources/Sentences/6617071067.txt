@@ -1,0 +1,5 @@
+[/EN#256182/people Man] in [/EN#256186/clothing a blue baseball cap] , [/EN#256188/clothing gray shirt] and [/EN#256189/clothing jeans] does [/EN#0/notvisual a skateboard trick] over [/EN#256185/other some stairs] .
+[/EN#256182/people A younger man] where [/EN#256187/clothing black clothes] is doing [/EN#0/notvisual a trick] on [/EN#256184/other his skateboard] off of [/EN#256185/other steps] .
+[/EN#256182/people A skateboarder] flips [/EN#256184/other his board] over [/EN#256185/other some steps] in [/EN#256190/scene a plaza] .
+[/EN#256182/people A young man] performs [/EN#0/notvisual a skateboard trick] over [/EN#256185/other some stairs] .
+[/EN#256182/people A guy] is doing [/EN#0/notvisual a skateboard trick] over [/EN#256185/other stairs] .

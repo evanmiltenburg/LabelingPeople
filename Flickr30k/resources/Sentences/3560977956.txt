@@ -1,0 +1,5 @@
+[/EN#127695/people A man] and [/EN#127696/people a woman] are sitting in [/EN#127698/other a rowboat] on [/EN#127701/scene calm water] .
+[/EN#127696/people The woman] is sitting in [/EN#127698/vehicles/scene the boat] being rowed by [/EN#127695/people the man] .
+[/EN#127695/people A man] rowing [/EN#127698/vehicles/scene a boat] while [/EN#127696/people the woman] watches .
+[/EN#127697/people Two people] wear [/EN#127700/clothing life jackets] in [/EN#127698/other a rowboat] .
+[/EN#127697/people Two people] in [/EN#127700/clothing life jackets] in [/EN#127698/other a rowboat]

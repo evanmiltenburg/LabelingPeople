@@ -1,0 +1,5 @@
+[/EN#76142/people A man] wearing [/EN#76144/clothing a gray cap] , [/EN#76146/clothing gold jewelry] and [/EN#76145/clothing winter attire] looking at [/EN#76152/other something] in [/EN#0/notvisual the distance] .
+[/EN#76142/people An African American man] , wearing [/EN#76149/clothing a sweatshirt] and [/EN#76145/clothing coat] , walking in [/EN#76143/scene a city] .
+[/EN#76142/people A man] with [/EN#76147/other a gold chain] looks on [/EN#76151/other in] [/EN#76143/scene the city] and [/EN#76150/people a woman] gasps behind [/EN#0/notvisual him] .
+[/EN#76142/people A man] stands outside with [/EN#76144/clothing a hat] and [/EN#76146/clothing gold jewelry] .
+[/EN#76142/people A man] in [/EN#76142/other winter wear] stands near [/EN#76148/scene an intersection] .

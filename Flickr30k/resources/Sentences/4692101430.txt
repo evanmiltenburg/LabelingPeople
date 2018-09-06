@@ -1,0 +1,5 @@
+[/EN#191685/people Two teens] are near [/EN#191681/scene a fast food booth] painted blue , while standing on [/EN#191686/scene a tiled street] .
+[/EN#0/notvisual There] is [/EN#191680/people a young man] on [/EN#191683/other a skateboard] in front of [/EN#191682/scene a food booth] .
+[/EN#191680/people A man] watches [/EN#191679/people a boy] on [/EN#191683/other his skateboard] outside [/EN#191681/scene a pizza stand] .
+[/EN#191679/people A man] on [/EN#191683/other a skateboard] in front of [/EN#191682/scene a food stand] .
+[/EN#191684/people People] are ordering [/EN#191687/other pizza] from [/EN#191681/scene a pizza store] .

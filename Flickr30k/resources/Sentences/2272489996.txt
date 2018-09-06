@@ -1,0 +1,5 @@
+[/EN#38223/animals Two dogs] with [/EN#38223/other black and white markings] running with [/EN#38226/bodyparts their mouths] open .
+[/EN#38223/animals Two black and white dogs] run across [/EN#38224/scene a green field] .
+[/EN#38223/animals Two white and black dogs] running in [/EN#38224/scene the grass] .
+[/EN#38223/animals Two dogs] are running across [/EN#38224/scene a grassy field] .
+[/EN#38223/animals Two terriers] running in [/EN#38224/scene a grassy area] .

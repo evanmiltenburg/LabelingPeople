@@ -1,0 +1,5 @@
+[/EN#122068/people A group of workers] are in [/EN#122072/scene a field] planting [/EN#122073/other wheat] for [/EN#122075/other the year] .
+[/EN#122069/people People] in [/EN#122072/scene a field] working to harvest [/EN#122073/other a plant] and pile [/EN#0/notvisual it] up .
+[/EN#122074/people A group of people] are picking [/EN#122073/other crops] in [/EN#122072/scene a field] outdoors .
+[/EN#122068/people Many workers] making [/EN#122077/scene their way] in [/EN#122071/scene the heat of the fields] .
+[/EN#122068/people A group of men] and [/EN#122070/people women] are gathering [/EN#122076/scene grasses] .

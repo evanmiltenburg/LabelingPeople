@@ -1,0 +1,5 @@
+[/EN#25801/people A woman] wearing [/EN#25803/clothing a pink hat] nods off while sitting on [/EN#25802/other a bench] surrounded by [/EN#25804/animals pigeons] .
+[/EN#25801/people A woman] sleeping on [/EN#25802/other a park bench] with [/EN#25804/animals pigeons] behind [/EN#0/notvisual her] .
+[/EN#25801/people A lady] wearing [/EN#25803/clothing a white hat] sitting on [/EN#25802/other bench] sleeping
+[/EN#25801/people A woman] is sleeping while sitting on [/EN#25802/other a park bench] .
+[/EN#25801/people A woman] in [/EN#25805/clothing a spotted shirt] sleeping on [/EN#25802/other a bench] .

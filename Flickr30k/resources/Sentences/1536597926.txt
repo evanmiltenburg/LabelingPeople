@@ -1,0 +1,5 @@
+[/EN#15836/people Two men] pause on [/EN#15837/other a rock] while hiking in [/EN#15842/scene barren terrain] .
+[/EN#15836/people Two people] sitting on [/EN#15837/other rocks] and [/EN#15838/other a pack] at [/EN#15839/bodyparts their feet] .
+[/EN#15836/people Two hikers] rest on [/EN#15840/scene a snow-covered mountain] .
+[/EN#15836/people Two men] resting uptop [/EN#15840/scene a snowy mountain] .
+[/EN#15836/people Two men] and [/EN#15838/clothing a backpack] .

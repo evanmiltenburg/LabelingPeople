@@ -1,0 +1,5 @@
+[/EN#269755/animals A white horse] and [/EN#269754/people a rider] wearing [/EN#269758/clothing a ale blue shirt] , [/EN#269762/clothing white pants] , and [/EN#269756/clothing a black helmet] are jumping [/EN#269757/other a hurdle] .
+[/EN#269754/people A man] wearing [/EN#269761/clothing riding boots] and [/EN#269756/clothing a helmet] is riding [/EN#269755/animals a white horse] , and [/EN#269755/animals the horse] is jumping [/EN#269757/other a hurdle] .
+[/EN#269754/people A man] riding [/EN#269755/animals a horse] and jumping over [/EN#269757/other a hurdle] in [/EN#269760/clothing a ring] .
+[/EN#269754/people a man] on [/EN#269755/animals a horse] , jumping over [/EN#269757/other a horse hurdle] .
+[/EN#269754/people equestrian] competing in [/EN#269759/other a competition]

@@ -1,0 +1,5 @@
+[/EN#144662/people A person] dressed in [/EN#144665/clothing brown and gray] walks down [/EN#144663/scene a long street] lined with [/EN#144664/scene yellow-walled buildings] with [/EN#144667/scene tiled roofs] .
+[/EN#144662/people A man] walks down [/EN#144663/scene a cobblestone street] next to [/EN#144664/scene buildings] painted tan with [/EN#144666/other red eaves] .
+[/EN#144662/people A man] walks down [/EN#144663/scene an alley] between [/EN#144664/scene cream colored houses] .
+[/EN#144662/people A man] is walking down [/EN#144663/scene a narrow street] .
+[/EN#144662/people man] in [/EN#144665/clothing black] walking up [/EN#144663/scene a sidewalk] .

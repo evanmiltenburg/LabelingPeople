@@ -1,0 +1,5 @@
+[/EN#204515/people A newspaper delivery man] smiles as [/EN#0/notvisual he] walks down [/EN#204516/scene a sidewalk] holding [/EN#204517/other his papers] on top of [/EN#204518/bodyparts his head] .
+[/EN#204515/people A young man] wearing [/EN#204520/clothing jeans] is walking down [/EN#204516/scene a sidewalk] with [/EN#204517/other a stack of papers] on [/EN#204518/bodyparts his head] .
+[/EN#204515/people Man] carrying [/EN#204517/other a stack of newspapers] on [/EN#204518/bodyparts his head] turns around to look at [/EN#204519/other camera] .
+[/EN#204515/people A man] carrying [/EN#204517/other a stack of newspapers] on [/EN#204518/bodyparts his head] through [/EN#204516/scene a street] .
+[/EN#204515/people A man] walking down [/EN#204516/scene the street] balancing [/EN#204517/other something] on [/EN#204518/bodyparts his head] .

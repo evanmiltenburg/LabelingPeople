@@ -1,0 +1,5 @@
+[/EN#212371/people Man] in [/EN#212373/clothing a blue jacket] and [/EN#212376/clothing khaki pants] bicycling on [/EN#212375/scene a sidewalk] next to [/EN#212377/other a tree] .
+[/EN#212371/people A man] wearing [/EN#212373/clothing a blue jacket] is riding [/EN#212372/vehicles a bicycle] in [/EN#212374/scene an empty park] .
+[/EN#212371/people A man] in [/EN#212373/clothing a blue jacket] rides [/EN#212372/vehicles a bicycle] on [/EN#212375/scene the sidewalk] .
+[/EN#212371/people A man] in [/EN#212373/clothing a blue coat] rides [/EN#212372/vehicles a bicycle] along [/EN#212375/scene a sidewalk] .
+[/EN#212371/people Man] rides [/EN#212372/vehicles a bike] past [/EN#212374/scene an old baseball field]

@@ -1,0 +1,5 @@
+[/EN#215543/people A little girl] leans on [/EN#215547/other a concrete wall] next to [/EN#215546/other a blue door] where [/EN#215545/people a shirtless child] sits .
+[/EN#215543/people A girl] stands [/EN#215544/scene outside of a blue and white home] while [/EN#215545/people a younger child] sits on [/EN#215549/other its stoop] .
+[/EN#215543/people A young girl] stands against [/EN#215544/scene a blue and white house] with [/EN#215545/people a young boy] [/EN#0/notvisual who] sits .
+[/EN#215543/people A girl] stands nearby while [/EN#215545/people a boy] sits in [/EN#215548/scene an open doorway] .
+[/EN#215545/people a boy] and [/EN#215543/people a girl] stand in front of [/EN#215544/scene a house] .

@@ -1,0 +1,5 @@
+[/EN#131967/people Two pedestrians] passing [/EN#131970/other a restaurant look] at [/EN#131964/animals the dog] [/EN#0/notvisual that] is looking at [/EN#0/notvisual them] .
+[/EN#131967/people People] walk and sit to eat at [/EN#131965/other an outside cafe] where [/EN#131964/animals a dog] is near [/EN#131966/people a woman] .
+[/EN#131966/people a woman] and [/EN#131964/animals her dog] sitting at [/EN#131969/other an outdoor cafe table]
+[/EN#131964/animals The dog] begs for [/EN#131971/other some food] at [/EN#131972/scene a local restaurant] .
+[/EN#131964/animals A dog] sits with [/EN#131966/people a woman] in [/EN#131965/other an outdoor cafe] .

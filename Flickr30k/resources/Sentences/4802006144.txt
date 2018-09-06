@@ -1,0 +1,5 @@
+[/EN#204282/people A man] in [/EN#204283/clothing a dark shirt] is in [/EN#204286/scene the foreground of a street] with [/EN#204285/vehicles an emergency vehicle] and [/EN#204284/vehicles a box truck] .
+[/EN#204282/people A man] wearing [/EN#204283/clothing a blue t-shirt] and smoking [/EN#204287/other a cigarette] is walking along [/EN#204286/scene the street] .
+[/EN#204282/people A man] in [/EN#204283/clothing a black shirt] stands in front of [/EN#204285/vehicles an emergency vehicle] .
+[/EN#204282/people A man] in [/EN#204283/clothing a blue t-shirt] stands on [/EN#204286/scene the side of a city street] .
+[/EN#204282/people A man] walks away from [/EN#204284/vehicles a parked white cargo truck] .

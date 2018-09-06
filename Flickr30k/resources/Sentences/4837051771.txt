@@ -1,0 +1,5 @@
+[/EN#209234/people A man] wearing [/EN#209242/clothing a black jacket] sets up [/EN#209235/scene his ice cream stand] with [/EN#209233/people the help of a small boy] wearing [/EN#209243/clothing a dark blue sweater] and [/EN#209233/people a girl] holding [/EN#209238/other the pole] decorated with [/EN#209244/clothing cotton candy bags] .
+[/EN#209234/people A man] selling [/EN#209237/other ice cream] out of [/EN#209235/vehicles a cart] to [/EN#209233/people a small child] on [/EN#209239/scene the street] .
+[/EN#209235/scene A small ice cream stand] with [/EN#209241/people two people] standing near [/EN#0/notvisual it] .
+[/EN#209233/people A child] getting [/EN#209236/other a treat] at [/EN#209235/scene the ice cream stand] .
+[/EN#209234/people A man] and [/EN#209233/people a child] are looking at [/EN#209240/other ice cream] .

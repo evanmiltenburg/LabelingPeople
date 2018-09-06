@@ -1,0 +1,5 @@
+[/EN#86391/other A group of cyclists race] uphill on [/EN#86394/other foot] with [/EN#86393/vehicles their bikes] on [/EN#86395/bodyparts their shoulders] .
+[/EN#86391/people Several bicyclers] are carrying [/EN#86393/vehicles their bikes] up [/EN#86392/scene a grassy hill] .
+[/EN#86391/people Cyclists] are carrying [/EN#86393/vehicles their bicycles] up [/EN#86392/scene a steep grassy hill] .
+[/EN#86391/people Bicyclists] are carrying [/EN#86393/vehicles their bicycles] up [/EN#86392/scene a hill] .
+[/EN#86391/people people] carry [/EN#86393/vehicles their bikes] up [/EN#86392/scene the hill] .

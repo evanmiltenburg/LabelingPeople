@@ -1,0 +1,5 @@
+[/EN#17575/people These people] are attending [/EN#17579/people a conference] where [/EN#0/notvisual there] are [/EN#17576/other all red chairs] and [/EN#17577/other tables] .
+[/EN#17575/people group of people] seated at [/EN#17578/other red chair] and [/EN#17577/other tables] .
+[/EN#17575/people A group of people] are attending [/EN#17579/people a conference] .
+[/EN#17575/people People] listen intently in [/EN#17581/scene a conference room] .
+[/EN#17575/people People] at [/EN#17580/other a meeting] , listening intently .

@@ -1,0 +1,5 @@
+[/EN#87073/people a boy] in [/EN#87080/clothing a stripy shirt] is playing with [/EN#87074/other a soccer ball] in [/EN#87076/scene a grassy park] in front of [/EN#87079/scene some bushes] .
+[/EN#87073/people Boy] leaning backward to kick [/EN#87074/other a soccer ball] in [/EN#87078/scene midair] .
+[/EN#87073/people A boy] leaping in [/EN#0/notvisual the air] towards [/EN#87074/other a soccer ball] .
+[/EN#87073/people A child] falling back to [/EN#87077/other kick] [/EN#87074/other a soccer ball] .
+[/EN#87073/people A boy] in [/EN#87075/scene midair] trying to kick [/EN#87074/other a soccer ball]

@@ -1,0 +1,5 @@
+[/EN#105190/scene A dark tent] with [/EN#105196/scene nightclub] lighting and [/EN#105191/people people] dancing with [/EN#105192/people a man] in [/EN#105198/clothing a suit] in [/EN#0/notvisual the foreground] .
+[/EN#105191/people People] are gathering under [/EN#105195/other colored lights] in [/EN#105190/scene a large tent] .
+[/EN#105191/people A group of people] in [/EN#105190/scene a dimly lit nightclub] .
+[/EN#105192/people A man] stares out [/EN#105194/other a window] .
+[/EN#105192/people A man] looks on in [/EN#105193/other a club] .

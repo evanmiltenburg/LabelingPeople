@@ -1,0 +1,5 @@
+[/EN#25853/people Young man] standing on [/EN#25855/scene a dock] next to [/EN#25860/other a green and white pole] .
+[/EN#25853/people A boy] in [/EN#25856/clothing a red shirt] is standing on [/EN#25855/scene a dock] beside [/EN#25854/vehicles/scene a boat] .
+[/EN#25853/people a boy] in [/EN#25856/clothing a red shirt] walking down [/EN#25855/scene a dock] past [/EN#25854/vehicles/scene a boat] .
+[/EN#25857/scene A beautiful view] from [/EN#25855/scene the dock] overlooking [/EN#25858/scene the lake] .
+[/EN#25853/people A little boy] is standing on [/EN#25855/people a peer] next to [/EN#25854/vehicles/scene a boat] .

@@ -1,0 +1,5 @@
+[/EN#137261/people A man] in [/EN#137266/clothing a white tee-shirt] is looking at [/EN#137264/other a charcoal grill] with [/EN#137267/other a bag of charcoal] sitting beside [/EN#137262/other the grill] .
+[/EN#137261/people Man] in [/EN#137270/clothing flower pattern shorts] with [/EN#137264/other a grill] and [/EN#137262/other newly lite charcoals] .
+[/EN#137261/people A man] in [/EN#137268/clothing a bathing suit] is lighting [/EN#137263/other coals] to start [/EN#137262/other a barbecue] .
+[/EN#137261/people A man] standing near [/EN#137262/other a grille] with [/EN#137265/other charcoal] in [/EN#0/notvisual it] .
+[/EN#137261/people a man] in [/EN#137266/clothing white] stands in front of [/EN#137262/other a barbecue] .

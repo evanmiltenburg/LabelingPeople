@@ -1,0 +1,5 @@
+[/EN#149277/people A man] in [/EN#149279/clothing a blue shirt] and [/EN#0/notvisual who] has [/EN#149285/other scratches] below [/EN#149286/bodyparts his right elbow] is working on [/EN#149278/vehicles a blue bicycle] .
+[/EN#149277/people A man] wearing [/EN#149279/clothing a blue shirt] is in [/EN#149280/scene a room] full of [/EN#149283/other bicycle tires] while fixing [/EN#149282/other the tire] on [/EN#149278/vehicles a bike] .
+[/EN#149277/people A man] wearing [/EN#149284/clothing glasses] and [/EN#149279/clothing a blue shirt] working on [/EN#149278/vehicles a bicycle] .
+[/EN#149277/people A man] in [/EN#149279/clothing a blue shirt] works on [/EN#149278/vehicles a bicycle] .
+[/EN#149277/people A man] is repairing [/EN#149278/vehicles a bicycle] in [/EN#149281/scene a shop] .

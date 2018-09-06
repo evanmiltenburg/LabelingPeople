@@ -1,0 +1,5 @@
+[/EN#142658/people People] stand along [/EN#142662/scene the sidewalk] watching [/EN#142659/vehicles/scene a bus] come [/EN#142663/scene their way] .
+[/EN#142658/people A line of several people] standing on [/EN#0/notvisual the street side] .
+[/EN#142658/people A group of people] are waiting at [/EN#142660/other a bus stop] .
+[/EN#142658/people People] in [/EN#142661/other line] getting ready to board [/EN#142659/vehicles/scene a bus] .
+[/EN#142658/people People] wait in [/EN#142661/other line] at [/EN#142660/other bus stop] .

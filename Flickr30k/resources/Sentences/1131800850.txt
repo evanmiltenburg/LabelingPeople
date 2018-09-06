@@ -1,0 +1,5 @@
+[/EN#3384/animals A furry dog] attempts to dry [/EN#3389/other itself] by shaking [/EN#3385/scene the water] off [/EN#3384/clothing its coat] .
+[/EN#3384/animals A brown and white dog] stands [/EN#3388/scene outside] while [/EN#0/notvisual it] snows .
+[/EN#3384/other The large brown and white dog shakes] off [/EN#3385/scene water] .
+[/EN#3384/animals A dog] is looking at [/EN#3391/other something] near [/EN#3385/scene the water] .
+[/EN#3384/animals A white and brown dog] shaking [/EN#3389/other its self dry] .

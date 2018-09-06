@@ -1,0 +1,5 @@
+[/EN#251283/people a soccer player] wearing [/EN#251286/clothing a red uniform] walks off [/EN#251284/scene the field] after [/EN#251287/other a game] near [/EN#251288/scene a parking lot] .
+[/EN#251283/people A man] is walking away from [/EN#251284/scene a soccer field] and [/EN#0/notvisual there] are [/EN#251292/vehicles three vehicles] behind [/EN#0/notvisual him] .
+[/EN#251283/people Man] gets [/EN#251290/other dog dung] inside [/EN#251291/clothing his right shoe] and has to disqualify for [/EN#251285/other the finals] .
+[/EN#251283/people A man] is walking across [/EN#251284/scene a soccer field] dressed in [/EN#251286/clothing red and white] .
+[/EN#0/notvisual There] is [/EN#251283/people a man] walking [/EN#0/notvisual that] seems depressed .

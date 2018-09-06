@@ -1,0 +1,5 @@
+[/EN#70231/people A young man] in [/EN#70232/clothing a dark blue striped polo shirt] , [/EN#70240/clothing white slacks] and [/EN#70238/clothing white baseball cap] is following through [/EN#70233/other a golf stroke] from [/EN#70237/scene a sand trap] as [/EN#70235/other sand] flies up in front of [/EN#0/notvisual him] .
+[/EN#70231/people A male golfer] wearing [/EN#70232/clothing a blue polo shirt] and [/EN#70238/clothing a white hat] is attempting to get [/EN#70239/other his ball] out of [/EN#70237/scene a sand trap] .
+[/EN#70231/people A golfer] wearing [/EN#70240/clothing white pants] and [/EN#70232/clothing blue shirt] and [/EN#70238/clothing a white hat] taking [/EN#70241/other a swing] in [/EN#70235/other the sand] .
+[/EN#70231/people A man] is playing [/EN#70234/other golf] , striking [/EN#70239/other his ball] out of [/EN#70235/other a sand bunker] .
+[/EN#70231/people A golfer] shoots [/EN#70239/other his ball] out of [/EN#70237/scene a sand trap] .

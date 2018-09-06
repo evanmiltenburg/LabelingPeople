@@ -1,0 +1,5 @@
+[/EN#80967/people A boy] in [/EN#80976/clothing a green uniform] is kicking [/EN#80970/other a soccer ball] in [/EN#80969/other a game] while [/EN#80975/other two others] stand behind [/EN#0/notvisual him] .
+[/EN#80968/people Some children] are playing [/EN#80971/other soccer] on [/EN#80972/other a sports-field] by [/EN#80973/other the goal] .
+[/EN#80967/people The little boy] gets ready to kick [/EN#80970/other the soccer ball] .
+[/EN#80968/people Boys] play [/EN#80969/other soccer] near [/EN#80973/scene a goal post] .
+[/EN#80974/people three boys] play [/EN#80971/other soccer] .

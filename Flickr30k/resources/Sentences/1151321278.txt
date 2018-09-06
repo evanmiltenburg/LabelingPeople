@@ -1,0 +1,5 @@
+[/EN#3953/people A little boy] is standing on [/EN#3954/scene the beach] with [/EN#3955/other a blue bucket] and [/EN#3956/other a green shovel] while looking at [/EN#3958/scene the water] .
+[/EN#3953/people A young boy] in [/EN#3957/clothing hawaiian style swim trunks] holds [/EN#3955/other a plastic bucket] and [/EN#3956/other shovel] on [/EN#3954/scene the shore of the ocean] .
+[/EN#3953/people A young boy] in [/EN#3957/clothing swimming trunks] holds [/EN#3955/other a blue pail] and [/EN#3956/other a bright green shovel] on [/EN#3954/scene a sandy beach] .
+[/EN#3953/people A boy] standing at [/EN#3954/scene the beach] holding [/EN#3955/other a blue pale] and [/EN#3956/other a green shovel] .
+[/EN#3953/people A young boy] looks at [/EN#3958/scene the ocean] while holding [/EN#3956/other a green shovel] .

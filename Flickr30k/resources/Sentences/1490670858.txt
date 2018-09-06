@@ -1,0 +1,5 @@
+[/EN#14721/people a young boy] wearing [/EN#14724/clothing a blue outfit] sliding down [/EN#14722/scene a red slide] .
+[/EN#14721/people A little boy] slides down [/EN#14722/scene a bright red corkscrew slide] .
+[/EN#14721/people A little boy] sits on [/EN#14722/scene a slide] on [/EN#14723/scene the playground] .
+[/EN#14721/people A little boy] slides down [/EN#14722/scene a red slide] .
+[/EN#14721/people A child] on [/EN#14722/scene a red slide] .

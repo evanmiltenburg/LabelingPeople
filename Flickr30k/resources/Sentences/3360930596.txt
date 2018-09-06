@@ -1,0 +1,5 @@
+[/EN#112713/other A soccer ball] is above [/EN#112718/people the head of a man] wearing [/EN#112715/clothing black shorts] and [/EN#112714/clothing red and black striped shirt] .
+[/EN#112712/people The person] in [/EN#112714/clothing the red and black uniform] has [/EN#112713/other a ball] above [/EN#112716/bodyparts her head] .
+[/EN#112712/people A man] in [/EN#112717/clothing red and black] is hitting [/EN#112713/other a soccer ball] with [/EN#112716/bodyparts his head] .
+[/EN#112712/people A soccer player] in [/EN#112715/clothing black shorts] is jumping into [/EN#0/notvisual the air] .
+[/EN#112712/people A man] in [/EN#112714/clothing a red striped soccer shirt] heads [/EN#112713/other a ball] .

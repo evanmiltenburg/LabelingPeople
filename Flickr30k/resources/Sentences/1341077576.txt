@@ -1,0 +1,5 @@
+[/EN#9200/people A man] in [/EN#9201/clothing a red shirt] and [/EN#9202/clothing blue pants] is going into [/EN#9203/scene a building] while [/EN#9204/animals a dog] watches [/EN#0/notvisual him] .
+[/EN#9200/people A man] walking into [/EN#9203/scene a building] while [/EN#9204/animals a dog] looks at [/EN#0/notvisual him] .
+[/EN#9200/people A man] walks into [/EN#9203/scene a maroon building] as [/EN#9204/animals a dog] looks on .
+[/EN#9200/people A man] in [/EN#9201/clothing a red shirt] entering [/EN#9205/other an establishment] .
+[/EN#9200/people A man] walking into [/EN#9203/scene s foreign building] .

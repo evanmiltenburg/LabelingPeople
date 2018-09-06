@@ -1,0 +1,5 @@
+[/EN#106350/people A child] wearing [/EN#106352/clothing a green t-shirt] takes [/EN#106354/other his first steps] across [/EN#106351/scene a playground bridge] .
+[/EN#106350/people A little boy] in [/EN#106352/clothing a green shirt] is about to cross [/EN#106351/scene the bridge] at [/EN#106351/scene the playground] .
+[/EN#106350/people A little boy] climbing up [/EN#106354/other the steps] to [/EN#106351/scene a bridge] on [/EN#106351/scene a playground] .
+[/EN#106350/people A young child] is trying to discover [/EN#106355/scene his way] .
+[/EN#106350/people A child] climbs onto [/EN#106351/other playground equipment] .

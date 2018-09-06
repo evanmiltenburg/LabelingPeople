@@ -1,0 +1,5 @@
+[/EN#66978/animals A black dog] is drinking next to [/EN#66979/animals a brown and white dog] [/EN#0/notvisual that] is looking at [/EN#66981/other an orange ball] in [/EN#66983/scene the lake] , whilst [/EN#66982/animals a horse] and [/EN#66984/people rider] passes behind .
+[/EN#66980/animals Two dogs] stand on [/EN#66988/other sand] surrounded by [/EN#66983/scene water] , [/EN#66981/other a deflated basketball] and [/EN#66984/people a person] on [/EN#66982/animals a horse] .
+[/EN#66979/animals A brown and white dog] and [/EN#66978/animals a black dog] near [/EN#66983/scene water] with [/EN#66984/people a man] on [/EN#66985/other horseback] in [/EN#0/notvisual the background]
+[/EN#66979/animals Dogs] in [/EN#66983/scene the water] with [/EN#66981/other a basketball] and [/EN#66984/people a person] on [/EN#66985/other horseback] .
+[/EN#66980/animals Two dogs] are playing near [/EN#66983/scene water] next to [/EN#66981/other a deflated basketball] .

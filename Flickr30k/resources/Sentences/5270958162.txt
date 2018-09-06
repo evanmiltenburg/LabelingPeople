@@ -1,0 +1,5 @@
+[/EN#232619/vehicles A streetcar] moves up [/EN#232620/scene a narrow road] while [/EN#232618/people a group of people] gathers at [/EN#232621/scene the bottom of the hill] .
+[/EN#232618/people A group of people] is standing on [/EN#232620/scene a street] with towering [/EN#232624/scene buildings] to [/EN#0/notvisual each side of them] .
+[/EN#232618/people A group of men] standing near [/EN#232620/scene the road] in front of [/EN#232622/other an advertisement] and [/EN#232619/vehicles tram car] .
+[/EN#232618/people A small group] is waiting for [/EN#232619/other the trolley] to reach [/EN#232621/scene the bottom of the hill] .
+[/EN#232618/people A group of people] talk while huddled together in [/EN#232620/scene the street]

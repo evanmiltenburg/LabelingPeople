@@ -1,0 +1,5 @@
+[/EN#121474/animals A black pitbull dog] is running through [/EN#121476/scene the dirt] .
+[/EN#121474/animals A black and white dog] runs across [/EN#121476/scene the red dirt] .
+[/EN#121474/animals Black dog] with [/EN#121477/bodyparts white paws] runs on [/EN#121476/scene barren field]
+[/EN#121474/animals A black dog] running across [/EN#121476/scene barren terrain] .
+[/EN#121474/animals A black and white dog] is running on [/EN#121478/other sand] .

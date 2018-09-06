@@ -1,0 +1,5 @@
+[/EN#122346/animals A white dog] with [/EN#122349/scene brown spots] is chewing on [/EN#122347/other a ropey black toy] .
+[/EN#122346/animals A white and brown dog] playing with [/EN#122347/other a black toy] .
+[/EN#122346/animals A white and brown dog] is playing [/EN#122348/other tug-of-war] .
+[/EN#122346/animals a white dog] is tugging on [/EN#122347/other a black rope]
+[/EN#122346/animals A dog] playing with [/EN#122347/other a toy] .

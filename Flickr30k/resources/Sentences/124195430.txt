@@ -1,0 +1,5 @@
+[/EN#6073/animals A large brown horse] stands over [/EN#6074/other a small black colt] that is kneeling on [/EN#6076/other the sand] .
+[/EN#6073/animals A brown horse] stands near [/EN#6074/animals a black horse] that is sitting on [/EN#0/notvisual the ground] .
+[/EN#6073/animals A thin brown horse] standing and [/EN#6074/animals a small black horse] sitting on [/EN#6076/other sand] .
+[/EN#6073/animals An adult horse] approaching [/EN#6074/animals a foal] on [/EN#6076/other a sandy plain] .
+[/EN#6073/animals A brown horse] and [/EN#6074/animals a black foal] on [/EN#6078/scene the beach]

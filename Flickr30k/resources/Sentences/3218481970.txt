@@ -1,0 +1,5 @@
+[/EN#102036/people A basketball player] is jumping and holding [/EN#102037/other a basketball] over [/EN#102037/other the net] .
+[/EN#102036/people The basketball player] is dropping [/EN#102037/other the basketball] into [/EN#102037/other the net] .
+[/EN#102036/people A basketball player] in [/EN#102040/clothing white] leaps up at [/EN#102037/other the net] .
+[/EN#102036/people A man] jumps with [/EN#102037/other a basketball] to make [/EN#102037/other a hoop] .
+[/EN#102036/other A basketball player slam] dunks [/EN#102037/other the ball] .

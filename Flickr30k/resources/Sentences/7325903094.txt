@@ -1,0 +1,5 @@
+[/EN#268501/people A surfer] wearing [/EN#268503/clothing a black and red wetsuit] on [/EN#268507/other a white surfboard] , [/EN#268508/other slices] through [/EN#268506/scene the waves] on [/EN#268504/scene a bright blue ocean] .
+[/EN#268501/people A male surfboarder] in [/EN#268503/clothing a black wetsuit] is riding [/EN#268504/scene a huge wave] in [/EN#268504/scene beautiful blue water] .
+[/EN#268501/people The man] is skillfully surfing [/EN#268505/scene a violent wave] in [/EN#268504/scene the blue ocean] .
+[/EN#268502/people Two people] are surfing on [/EN#268505/scene a large wave] in [/EN#268504/scene the ocean] .
+[/EN#268502/people Two people] are surfing in [/EN#268504/scene the ocean] .

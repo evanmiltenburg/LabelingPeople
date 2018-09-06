@@ -1,0 +1,5 @@
+[/EN#63381/people A young blond woman] wearing [/EN#63382/clothing a hat] and [/EN#63383/clothing sunglasses] talks on [/EN#63384/other her cellphone] .
+[/EN#63381/people woman] with [/EN#63383/clothing dark glasses] and [/EN#63382/clothing ball cap] talking on [/EN#63384/other a cellphone]
+[/EN#63381/people A blond woman] in [/EN#63383/clothing sunglasses] and [/EN#63382/clothing hat] talks on [/EN#63384/other a cellphone] .
+[/EN#63381/people a lady] with [/EN#63382/clothing a baseball cap] on talking on [/EN#63384/other he cellphone]
+[/EN#63381/people A woman] talks on [/EN#63384/other the phone] at [/EN#63385/scene a stadium] .

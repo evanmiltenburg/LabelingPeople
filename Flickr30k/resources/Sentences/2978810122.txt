@@ -1,0 +1,5 @@
+[/EN#85255/people The surfer] rides [/EN#85258/other a blue board] on [/EN#85257/scene a bright blue wave] .
+[/EN#85255/people A surfer] rides [/EN#85257/scene a large wave] on [/EN#85258/other a blue board] .
+[/EN#85255/people A man] surfs , [/EN#85259/other the foam] right behind [/EN#0/notvisual him] .
+[/EN#85255/people A person] in [/EN#85260/clothing a wetsuit] surfs [/EN#85257/scene a big wave] .
+[/EN#85255/people A man] surfing [/EN#85257/scene a wave] .

@@ -1,0 +1,5 @@
+[/EN#85563/people Some people] are standing on [/EN#85564/scene a city sidewalk] at [/EN#85570/scene night] and waiting to get on [/EN#85565/vehicles/scene a double-decker bus] .
+[/EN#85563/people People] wait in [/EN#85571/other line] to board [/EN#85565/vehicles/scene a double decker bus] under [/EN#85566/other streetlights]
+[/EN#85563/people People] are waiting in [/EN#85571/other line] to board [/EN#85565/vehicles/scene a double decker bus] .
+[/EN#85567/people Large crowd] standing in [/EN#85571/other line] to board [/EN#85565/vehicles/scene the 253 bus] .
+[/EN#85568/people Men] and [/EN#85569/people women] are about to get on [/EN#85565/vehicles/scene a bus] .

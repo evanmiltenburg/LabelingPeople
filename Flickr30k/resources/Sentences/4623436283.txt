@@ -1,0 +1,5 @@
+[/EN#183882/people People] are walking down [/EN#183883/scene a grassy hill] with [/EN#183883/scene a fence] behind [/EN#0/notvisual them] .
+[/EN#183881/people A family] hiking down [/EN#183883/scene the hill] on [/EN#183885/scene a cloudy day] .
+[/EN#183881/people Seven teenagers] walking through [/EN#183883/scene a pasture] .
+[/EN#183881/people A group of people] walking by [/EN#183883/scene a fence] .
+[/EN#183882/people People] walking along [/EN#183883/scene the hill] .

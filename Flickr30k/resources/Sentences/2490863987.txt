@@ -1,0 +1,5 @@
+[/EN#53085/people A man] holds [/EN#53087/other a sign] outside [/EN#53092/scene a hotel] [/EN#0/notvisual that] reads " Ok Ok Ok , [/EN#0/notvisual I] need [/EN#53089/other money] for [/EN#53088/other beer] , [/EN#53090/other pot] and [/EN#53086/people a hooker] . "
+[/EN#53085/people A homeless man] holds up [/EN#53087/other a sign] begging for [/EN#53089/other money] for [/EN#53088/other beer] , [/EN#53090/other pot] and [/EN#53086/people a hooker] .
+[/EN#53085/people A scrubby looking man] in [/EN#53093/clothing a black sweatshirt] holding [/EN#53087/other a sign] .
+[/EN#53085/people A man] in [/EN#53091/other Seattle] holds [/EN#53087/other a sign] begging for [/EN#53089/other money] .
+[/EN#53085/people The man] is asking for [/EN#53089/other money] .

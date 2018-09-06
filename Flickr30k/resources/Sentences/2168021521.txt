@@ -1,0 +1,5 @@
+[/EN#32009/people A smiling man] in [/EN#32010/clothing a blue shirt] and [/EN#32011/clothing straw hat] is standing inside [/EN#32015/other a brick structure] .
+[/EN#32009/people A man] dressed in [/EN#32011/clothing a cowboy hat] and [/EN#32010/clothing a blue unbuttoned shirt] is smiling in [/EN#32017/scene a shed] .
+[/EN#32009/people The man] with [/EN#32011/clothing the cowboy hat] and [/EN#32010/clothing blue shirt] is taking [/EN#32014/scene a break] from [/EN#32012/other his work] .
+[/EN#32009/people A smiling worker] , in [/EN#32011/clothing a cowboy hat] , doing [/EN#32012/other masonry] .
+[/EN#32009/people A rural mexican] amigo posing for [/EN#32018/other a photo] .

@@ -1,0 +1,5 @@
+[/EN#109194/people The man] in [/EN#109197/clothing the blue shirt] climbs [/EN#109196/other a large rock] in [/EN#109195/scene a wooded area] .
+[/EN#109194/people A man] in [/EN#109198/clothing green] climbs [/EN#109196/other a rock] in [/EN#109195/scene a darkened forest] .
+[/EN#109194/people A man] scales [/EN#109196/other a rock] in [/EN#109195/scene the forest] .
+[/EN#109194/people a man] climbs [/EN#109196/other a rock] .
+[/EN#109194/people man] climbing [/EN#109196/other a rock]

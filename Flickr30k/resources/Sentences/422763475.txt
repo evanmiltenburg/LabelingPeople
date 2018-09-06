@@ -1,0 +1,5 @@
+[/EN#159638/people A boy] in [/EN#159639/clothing a blue jacket] , carrying [/EN#159640/other a red sled] , running away , followed by [/EN#159641/animals a small dog]
+[/EN#159638/people A child] wearing [/EN#159639/clothing a blue coat] runs along [/EN#159642/scene the snow] while [/EN#159641/animals a small dog] follows .
+[/EN#159638/people A child] running with [/EN#159640/other a snowboard] on [/EN#159642/scene a snow covered surface] .
+[/EN#159638/people A young boy] plays with [/EN#159641/animals his dog] in [/EN#159642/scene the snow] .
+[/EN#159638/people A boy] drags [/EN#159640/other his sled] through [/EN#159642/scene the snow] .

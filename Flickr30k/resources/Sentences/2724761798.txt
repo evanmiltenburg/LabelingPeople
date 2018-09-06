@@ -1,0 +1,5 @@
+[/EN#68756/people Two women] drink [/EN#68759/other coffee] and [/EN#68760/other chat] while sitting on [/EN#68763/other a blanket] near [/EN#68757/scene a rocky shore] .
+[/EN#68756/people Two people] sit near [/EN#68762/scene water] and [/EN#68757/other rocks] while drinking [/EN#68759/other a beverage] and talking .
+[/EN#68756/people Two woman] are sitting on [/EN#68757/scene a beach] together , facing [/EN#68762/scene the water] .
+[/EN#68756/people Two women] sit by [/EN#68757/other some rocks] while [/EN#0/notvisual one of them] holds [/EN#68759/other a drink] .
+[/EN#68756/people Two women] sitting on [/EN#68757/scene the beach] having [/EN#68760/other a chat] .

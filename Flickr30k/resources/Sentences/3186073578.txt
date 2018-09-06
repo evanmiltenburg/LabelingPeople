@@ -1,0 +1,5 @@
+[/EN#99428/people A man] is standing in front of [/EN#99429/vehicles a motor-scooter] holding up [/EN#99430/other a picture] .
+[/EN#99428/people A man] is holding up [/EN#99430/other a small poster] with [/EN#99431/people two people] in [/EN#0/notvisual it] .
+[/EN#99428/people A man] is walking down [/EN#99433/scene the street] holding up [/EN#99430/other a picture] .
+[/EN#99428/people a man] holding up [/EN#99430/people a picture of two people] suffering
+[/EN#99428/people A man] displays [/EN#99430/other a photograph] .

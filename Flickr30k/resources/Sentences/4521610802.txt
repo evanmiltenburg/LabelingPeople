@@ -1,0 +1,5 @@
+[/EN#175162/people A blond man] is waiting at [/EN#175166/scene a pretzel and hotdog stand] on [/EN#175167/scene the sidewalk] as [/EN#175168/vehicles a yellow taxi] passes by in [/EN#175165/scene New York City] .
+[/EN#175162/people A man] examines [/EN#175170/other the offerings] from [/EN#175166/scene a hotdog stand] on [/EN#175167/scene the street] in front of [/EN#175168/vehicles a yellow cab] .
+[/EN#175162/people A man] stands in front of [/EN#175171/vehicles snack cart] awaiting [/EN#175169/other his pretzel] on [/EN#175165/scene a busy New York street] .
+[/EN#175162/people A pedestrian] waiting for [/EN#175169/other his purchase] from [/EN#175164/people a NYC street vendor] .
+[/EN#175162/people A man] in [/EN#175172/clothing a red sweater] waits at [/EN#175166/scene a street food stand] .

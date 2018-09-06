@@ -1,0 +1,5 @@
+[/EN#68582/people A boy] wearing [/EN#68584/clothing a white shirt] [/EN#0/notvisual that] says " Make [/EN#68583/other Some Noise] " is eating [/EN#68586/other food] off of [/EN#68588/other a fork] and making [/EN#68585/bodyparts a funny face] with [/EN#68587/bodyparts his head] tilted to [/EN#0/notvisual the side] .
+[/EN#68582/people A guy] in [/EN#68584/clothing a Nike shirt] [/EN#0/notvisual that] reads " [/EN#68583/other MAKE SOME NOISE] " tilts [/EN#68587/bodyparts his head] sideways as [/EN#0/notvisual he] eats .
+[/EN#68582/people A man] is making [/EN#68585/bodyparts a funny face] while eating [/EN#68586/other cake] .
+[/EN#68582/people A young man] in [/EN#68584/clothing a Nike t-shirt] is eating [/EN#68586/other cake] .
+[/EN#68582/people An asian boy] eating [/EN#68589/other a piece of cake] .

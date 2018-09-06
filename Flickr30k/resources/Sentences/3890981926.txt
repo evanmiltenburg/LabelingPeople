@@ -1,0 +1,5 @@
+[/EN#147172/people Woman] in [/EN#147174/clothing black jacket] and [/EN#147178/clothing blue pants] rides [/EN#147173/vehicles bike] on [/EN#147181/bodyparts shoulder] through [/EN#147179/scene construction area] .
+[/EN#147172/people A bicyclist] riding down [/EN#147177/scene the road] wearing [/EN#147180/clothing helmet] and [/EN#147174/clothing black jacket] .
+[/EN#147172/people A person] on [/EN#147173/vehicles a bike] riding by [/EN#147175/other a bright orange sign] .
+[/EN#147172/people A woman] is riding [/EN#147173/vehicles a bicycle] towards [/EN#147176/other a red light] .
+[/EN#147172/people A woman] is riding [/EN#147173/vehicles a bike] .

@@ -1,0 +1,5 @@
+[/EN#44281/people The little girl] in [/EN#44283/clothing the pink shirt] is running under [/EN#44285/other a tree] in [/EN#44282/scene the desert] .
+[/EN#44281/people The little girl] in [/EN#44283/clothing the pink top] is running down [/EN#44282/scene the path] .
+[/EN#44281/people A girls] wearing [/EN#44284/clothing jeans] and [/EN#44283/clothing a pink shirt] runs .
+[/EN#44281/people Young girl] in [/EN#44284/clothing jeans] runs through [/EN#44282/scene desert]
+[/EN#44281/people A girl] is running on [/EN#44282/scene a desert path] .

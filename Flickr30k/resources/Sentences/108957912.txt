@@ -1,0 +1,5 @@
+[/EN#2157/people People] walk across [/EN#2158/scene a street] as [/EN#2161/people utility workers] fix [/EN#2159/other a light] .
+[/EN#2157/people Many people] are crossing [/EN#2158/scene a street] in [/EN#2160/scene a large city] .
+[/EN#2157/people People] are crossing [/EN#2158/scene a city street intersection] .
+[/EN#2157/people Pedestrians] cross [/EN#2158/scene the street] at [/EN#2159/other a red light] .
+[/EN#2157/people People] crossing [/EN#2158/scene a city street] .

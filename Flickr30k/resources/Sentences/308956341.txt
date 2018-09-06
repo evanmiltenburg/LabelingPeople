@@ -1,0 +1,5 @@
+[/EN#92610/animals A dog] is shaking [/EN#92611/scene the water] from [/EN#92610/other its fur] creating [/EN#92612/other a spray] and [/EN#92612/other mist] .
+[/EN#92610/animals A wet black dog] shakes [/EN#92610/other itself] off .
+[/EN#92610/animals A black dog] is shaking off [/EN#92611/scene water] .
+[/EN#92610/animals A wet dog] is shaking off [/EN#92611/scene water] .
+[/EN#92610/animals A black dog] shaking off [/EN#92611/scene water]

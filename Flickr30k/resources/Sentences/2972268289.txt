@@ -1,0 +1,5 @@
+[/EN#84816/people A cowboy] is on [/EN#0/notvisual the ground] in [/EN#84817/clothing a rodeo ring] , holding onto [/EN#84818/animals his horse] by [/EN#84819/other a rope] , just missing [/EN#84820/animals a calf] .
+[/EN#84818/animals A horse] and [/EN#84820/animals a baby horse] are in [/EN#84817/clothing a ring] with [/EN#84816/people a man] , wearing [/EN#84821/clothing a cowboy hat] , on [/EN#0/notvisual the ground] .
+[/EN#84816/people a man] [/EN#0/notvisual who] has fallen off [/EN#84818/animals his horse] while trying to catch [/EN#84820/animals a small cattle]
+[/EN#84816/people A cowboy] with [/EN#84821/clothing a white hat] fails to wrangle [/EN#84820/animals a calf] at [/EN#84822/other a rodeo] .
+During [/EN#84820/animals calf] roping [/EN#84816/people a cowboy] calls off [/EN#84818/animals his horse] .

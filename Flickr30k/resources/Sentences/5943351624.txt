@@ -1,0 +1,5 @@
+[/EN#245806/animals The horse] with [/EN#245803/people the rider] in [/EN#245807/clothing blue] has [/EN#245813/other number 3] on [/EN#0/notvisual it] , and [/EN#245806/animals the horse] with [/EN#245803/people the rider] wearing [/EN#245812/clothing green] has [/EN#245816/other the number 7] on [/EN#0/notvisual it] .
+[/EN#245810/people Horse-riders] racing in [/EN#245805/other a competition] as [/EN#245815/clothing their clothes] are covered in [/EN#245808/other mud] .
+[/EN#245803/people A jockey] in [/EN#245807/clothing blue] on [/EN#245806/animals a race horse] trails behind [/EN#245811/people the jockey] in [/EN#245814/clothing orange] .
+[/EN#0/notvisual That] does n't look like [/EN#245808/other mud] on [/EN#245803/people the horse rider] .
+[/EN#245803/people A horse jockey] covered in [/EN#245808/other mud] during [/EN#245805/other a race] .

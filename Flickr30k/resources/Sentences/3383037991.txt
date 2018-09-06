@@ -1,0 +1,5 @@
+[/EN#114491/animals The dog] is lying on [/EN#114492/other a bed] with [/EN#114493/other torn paper] nearby and [/EN#114495/people a person] watching nearby .
+[/EN#114491/animals A very large dog] laying on [/EN#114492/other a bed] with [/EN#114493/other pieces of paper] [/EN#114494/people all] around [/EN#0/notvisual him] .
+[/EN#114491/animals The large brown dog] sat on [/EN#114492/other the bed] surronded by [/EN#114493/other wrapping paper] .
+[/EN#114491/animals A dog] looks [/EN#114496/other content] sitting on [/EN#114492/other a bed] after ripping up [/EN#114493/other some paper]
+[/EN#114491/animals A brown dog] sits on [/EN#114492/other a couch] .

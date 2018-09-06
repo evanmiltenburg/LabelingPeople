@@ -1,0 +1,5 @@
+[/EN#130496/animals A brown dog] runs through [/EN#130497/scene a field of grass] spotted with [/EN#130499/other yellow flowers]
+[/EN#130496/animals A brown and white dog] runs in [/EN#130497/other a field of yellow flowers] .
+[/EN#130496/animals The tan and white dog] is running in [/EN#130497/scene the field] .
+[/EN#130496/animals A brown dog] running at [/EN#130498/other a lean] across [/EN#130497/scene a lawn] .
+[/EN#130496/animals The brown dog] runs through [/EN#130497/scene the field] .

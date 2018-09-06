@@ -1,0 +1,5 @@
+[/EN#148000/people A large man] sits in [/EN#148006/other a chair] with [/EN#148001/other a box] wrapped in [/EN#148004/other paper] sits on [/EN#148003/bodyparts his lap] and [/EN#148002/people a child] nearby plays with [/EN#148005/other paper] .
+[/EN#148000/people An old man] unwrapping [/EN#148001/other a present] covered in [/EN#148004/other newspaper] , while [/EN#148002/people a toddler] plays with [/EN#148005/other the scraps] .
+[/EN#148000/people Elderly man] opening up [/EN#148001/other a gift] in [/EN#148008/scene a living room] setting with [/EN#148002/people a younger relative] nearby .
+[/EN#148000/people Mature male] with [/EN#148001/other a gift] in [/EN#148003/bodyparts his lap] while [/EN#148002/people a young child] opens [/EN#148007/other another gift] .
+[/EN#148000/people A man] unwrapping [/EN#148001/other a box] with [/EN#148002/people a boy] standing beside [/EN#0/notvisual him] .

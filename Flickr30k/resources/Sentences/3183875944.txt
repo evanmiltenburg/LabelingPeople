@@ -1,0 +1,5 @@
+[/EN#99270/animals a brown dog] is running in [/EN#99271/scene the ocean] whilst carrying [/EN#99272/other an orange object] in [/EN#99273/bodyparts its mouth] .
+[/EN#99270/animals A dog] is running out of [/EN#99271/scene the ocean] with [/EN#99272/clothing an orange] floating [/EN#99272/other toy] in [/EN#99273/bodyparts its mouth] .
+[/EN#99270/animals A well-muscled dog] retrieves [/EN#99272/other an orange toy] from [/EN#99274/other the surf] .
+[/EN#99270/animals A dog] running through [/EN#99275/scene the water] with [/EN#99272/other a toy] at [/EN#99271/scene the beach] .
+[/EN#99270/animals A brown dog] is bringing back [/EN#99272/other a buoy] from [/EN#99271/scene the ocean] .

@@ -1,0 +1,5 @@
+[/EN#215649/people An older man] in [/EN#215651/clothing a red vest] and [/EN#215654/clothing blue cap] is walking with [/EN#215650/other a cane] carrying [/EN#215653/clothing a white bag] .
+[/EN#215649/people An aging man] contemplates [/EN#215655/other his life] as [/EN#0/notvisual it] passes [/EN#0/notvisual him] by .
+[/EN#215649/people An elderly man] with [/EN#215650/other a cane] is out shopping .
+[/EN#215649/people Man] in [/EN#215651/clothing a red vest] walks with [/EN#215650/other a cane] .
+[/EN#215652/people Pedestrians] in [/EN#215656/scene a shaded walkway]

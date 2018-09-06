@@ -1,0 +1,5 @@
+[/EN#200381/people A group of casually dressed people] sit on [/EN#200383/other a wall] along side [/EN#200384/scene a pedestrian walkway] outside [/EN#200382/scene an Irish bar] .
+[/EN#200381/people Many people] are sitting [/EN#0/notvisual side] by [/EN#0/notvisual side] on [/EN#200383/other a low cement wall] [/EN#0/notvisual that] separates [/EN#200386/scene a street] from [/EN#200382/other storefronts] .
+[/EN#200381/people People] are sitting and talking outside [/EN#200382/scene a bar] in [/EN#200388/other the afternoon] .
+[/EN#200381/people a line of people] take [/EN#200383/scene a seat] next to [/EN#200382/scene a bar] .
+[/EN#200381/people People] are sitting in front of [/EN#200382/scene a building] .

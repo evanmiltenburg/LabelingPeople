@@ -1,0 +1,5 @@
+[/EN#93718/people A hooded man] with [/EN#93719/bodyparts a beard] is walking up [/EN#93720/other concrete steps] carrying [/EN#93721/clothing a red bag] as [/EN#93722/people a policeman] stares out at [/EN#93723/scene the water] threatening to invade [/EN#93720/other the steps] .
+[/EN#93718/people A man] in [/EN#93724/clothing a heavy coat] is walking up [/EN#93720/scene a stone staircase] with [/EN#93721/clothing a heavy duffel bag] with [/EN#93722/people police] in [/EN#0/notvisual the background] .
+[/EN#93718/people A man] in [/EN#93724/clothing a hooded jacket] carrying [/EN#93721/clothing a red bag] , is walking up [/EN#93720/other stone steps] next to [/EN#93723/scene water] .
+[/EN#93726/people Two men] and [/EN#93722/people a guard] are beside [/EN#93727/scene a tent] with [/EN#93728/scene snow] on [/EN#0/notvisual the ground] .
+[/EN#93718/people A man] is carrying [/EN#93721/clothing a large red bag] up [/EN#93720/other some steps] .

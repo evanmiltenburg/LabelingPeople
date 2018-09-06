@@ -1,0 +1,5 @@
+[/EN#242141/people A man] stands on [/EN#242143/scene the beach] while [/EN#242144/other the tide] comes in and [/EN#242142/other a plane] flies overhead .
+[/EN#242142/other A plane] is flying overhead while [/EN#242141/people a man] is walking near [/EN#242143/scene the water] on [/EN#242143/scene a beach] .
+[/EN#242141/people A man] stands at [/EN#242143/scene the edge of the water] on [/EN#242143/scene a beach] looking into [/EN#242146/scene the horizon] .
+[/EN#242141/people A swimmer] playing in [/EN#242144/other the surf] watches [/EN#242142/vehicles a low flying airplane] headed inland .
+[/EN#242141/people Man] watching [/EN#242142/other plane] above on [/EN#242143/scene a beach] .

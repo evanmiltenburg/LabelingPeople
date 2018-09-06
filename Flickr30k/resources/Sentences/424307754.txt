@@ -1,0 +1,5 @@
+[/EN#160167/people The man] is standing next to [/EN#160166/animals a dog] , while [/EN#160166/animals the dog] jumps in [/EN#0/notvisual the air] .
+[/EN#160166/animals A black dog] jumps into [/EN#0/notvisual the air] to get [/EN#160174/other a treat] from [/EN#160167/people its owner] .
+[/EN#160167/people Man] in [/EN#160172/scene field] with [/EN#160166/animals a black dog] jumping at [/EN#160173/bodyparts/people his raised arm] .
+[/EN#160167/people A man] demonstrating how high [/EN#160166/animals his black dog] can jump .
+[/EN#160166/animals A black dog] jumps up to [/EN#160168/bodyparts a man 's uplifted hand] .

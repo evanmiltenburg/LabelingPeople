@@ -1,0 +1,5 @@
+[/EN#190155/people A man] wearing [/EN#190159/clothing blue jeans] and [/EN#190162/clothing sneakers] walks under [/EN#190157/other a green awning] [/EN#0/notvisual that] extends from [/EN#190161/scene a store] .
+[/EN#190155/people A man] in [/EN#190160/clothing a khaki jacket] and [/EN#190156/clothing ball cap] walks down [/EN#190158/scene the street] .
+[/EN#190155/people A man] walking down [/EN#190158/scene the sidewalk] under [/EN#190157/other a green awning] .
+[/EN#190155/people A man] in [/EN#190156/clothing a blue cap] walking down [/EN#190158/scene a sidewalk] .
+[/EN#190155/people A man] wearing [/EN#190159/clothing jeans] walking down [/EN#190158/scene a sidewalk] .

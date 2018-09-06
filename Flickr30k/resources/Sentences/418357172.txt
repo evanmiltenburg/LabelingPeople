@@ -1,0 +1,5 @@
+[/EN#158319/animals A black and tan dog] is walking over [/EN#158321/scene a shoreline] with [/EN#158322/scene many small sand hills] .
+[/EN#158319/animals a brown and black dog] running on [/EN#158320/scene a shore] near [/EN#158320/scene the beach] .
+[/EN#158319/animals A small black and tan dog] walking in [/EN#158320/other wet sand] .
+[/EN#158319/animals A dog] walking on [/EN#158321/scene a wet beach] .
+[/EN#158319/animals a dog] in [/EN#158320/scene the beach]

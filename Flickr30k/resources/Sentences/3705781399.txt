@@ -1,0 +1,5 @@
+[/EN#138233/people A man] in [/EN#138238/clothing red trunks] with [/EN#138237/bodyparts tattoos] on [/EN#138236/bodyparts/people his right arm] is boxing [/EN#138235/people a man] in [/EN#138239/clothing black trunks] inside [/EN#138240/clothing/scene a boxing ring] .
+[/EN#138229/people Two boxers] punch [/EN#0/notvisual each other] in [/EN#138231/bodyparts the face] at [/EN#138232/other the same time] .
+[/EN#138229/people Two men] punch [/EN#0/notvisual each other] in [/EN#138231/bodyparts the face] in [/EN#138234/other a boxing match] .
+[/EN#138229/people Two boxers] land [/EN#138230/other a punch] to [/EN#138231/bodyparts the face] at [/EN#138232/other the same time] .
+[/EN#138229/people Two boxers] exchanging [/EN#138230/other punches] .

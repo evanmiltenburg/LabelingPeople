@@ -1,0 +1,5 @@
+[/EN#173802/people A woman] wearing [/EN#173804/clothing a scarf] around [/EN#173807/bodyparts her head] and [/EN#173805/clothing black boots] is walking down [/EN#173803/scene a brick path] .
+[/EN#173802/people A lady] wearing [/EN#173805/clothing black boots] , [/EN#173806/clothing a jean skirt] , and [/EN#173804/clothing a scarf] walking down [/EN#173803/scene the sidewalk] .
+[/EN#173802/people A young woman] wearing [/EN#173804/clothing a headscarf] is walking down [/EN#173803/scene the street] carrying [/EN#173810/clothing her purse] .
+[/EN#173802/people A woman] wearing [/EN#173804/clothing a scarf] and [/EN#173809/clothing black knee-high boots] is walking down [/EN#173803/scene the street] .
+[/EN#173802/people A woman] wearing [/EN#173804/clothing a scarf] on [/EN#173807/bodyparts her head] is walking .

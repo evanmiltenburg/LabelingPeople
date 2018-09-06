@@ -1,0 +1,5 @@
+[/EN#39901/people A young boy] wearing [/EN#39904/clothing a red winter coat] is eating and holding up [/EN#39902/scene a candy bar] .
+[/EN#39901/people A kid] turns around with [/EN#39903/other an object] in [/EN#39906/bodyparts hand] while [/EN#39905/people someone] passes behind [/EN#0/notvisual him] .
+[/EN#39901/people A young boy] wearing [/EN#39904/clothing a red coat] eats [/EN#39902/scene a chocolate bar] .
+[/EN#39901/people A boy] in [/EN#39904/clothing a red jacket] holding [/EN#39903/other a stick] and yelling .
+[/EN#39901/people A young boy] holds up [/EN#39902/scene a candy bar] while yelling .

@@ -1,0 +1,5 @@
+[/EN#184785/people A teenage boy] is jumping [/EN#184786/vehicles his bicycle] over [/EN#184787/scene a large dirt hill] .
+[/EN#184785/people A man] is jumping [/EN#184786/vehicles a bike] over [/EN#184787/scene a red dirt ramp] in [/EN#184788/scene the forest] .
+[/EN#184785/people A teen] is on [/EN#184786/vehicles a bicycle] doing [/EN#0/notvisual a jump] on [/EN#184787/scene a dirt ramp] .
+[/EN#184785/people Male] jumping over [/EN#184787/scene dirt ramps] on [/EN#184786/vehicles his bike] .
+[/EN#184785/people A man] on [/EN#184786/vehicles a bicycle] jumps from [/EN#184787/scene a ramp] .

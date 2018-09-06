@@ -1,0 +1,5 @@
+[/EN#15112/people A family of two woman] and [/EN#15120/people a young child] sits on [/EN#15116/scene the grass] in [/EN#15113/scene a park] in front of [/EN#15115/people three young girls] .
+[/EN#15117/people A group of adults] and [/EN#15114/people children] relax on [/EN#15116/scene the grass] in [/EN#15113/scene a park] .
+[/EN#15111/people A family] sits in [/EN#15116/scene the grass] in [/EN#15113/scene a park] in [/EN#15119/other India] .
+[/EN#15111/people A family] is sitting in [/EN#15113/scene a park] on [/EN#15116/scene the grass] .
+[/EN#15118/other Families] are gathered in [/EN#15113/scene a park] .

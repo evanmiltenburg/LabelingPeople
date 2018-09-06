@@ -1,0 +1,5 @@
+[/EN#18657/people A person] with [/EN#18658/clothing a purple shirt] is painting [/EN#18660/people an image of a woman] on [/EN#18659/other a white wall] .
+[/EN#18657/people A lady] in [/EN#18658/clothing a purple shirt] is painting [/EN#18660/people a picture of a person] on [/EN#18659/other a curved wall] .
+[/EN#18657/people A woman] with [/EN#18658/other a purple shirt painting] [/EN#18660/people another woman] on [/EN#18659/other a wall] .
+[/EN#18657/people A woman] is painting [/EN#18660/people a mural of a woman] [/EN#18662/bodyparts 's face] .
+[/EN#18658/other A lady painting] on [/EN#18659/other a public wall] !

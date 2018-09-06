@@ -1,0 +1,5 @@
+[/EN#127160/people A young child] dressed in [/EN#127163/clothing a graduation gown] is throwing [/EN#127161/clothing a graduation cap] in [/EN#0/notvisual the air] .
+[/EN#127160/people Young girl] in [/EN#127163/clothing red graduation suit] flings [/EN#127161/clothing her hat] upward into [/EN#127162/scene the field] .
+[/EN#127160/people A child] [/EN#0/notvisual who] is celebrating [/EN#127167/other their graduation] in [/EN#127162/scene a field] .
+[/EN#127160/people A child] in [/EN#127163/clothing a graduation gown] throws [/EN#127161/clothing the cap] in [/EN#0/notvisual the air] .
+[/EN#127160/people A young girl] throws [/EN#127161/clothing her graduation cap] into [/EN#0/notvisual the air] .

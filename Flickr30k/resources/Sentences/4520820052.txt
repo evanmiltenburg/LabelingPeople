@@ -1,0 +1,5 @@
+[/EN#175115/people A middle-aged woman] with [/EN#175123/bodyparts middle length brown hair] in [/EN#175122/clothing khaki pants] , [/EN#175119/clothing a long-sleeve blue shirt] , and [/EN#175116/clothing a long long gold jacket] is walking in [/EN#175117/scene the subway station] .
+[/EN#175115/people A woman] in [/EN#175121/other her early fifties] walks by [/EN#0/notvisual herself] in [/EN#175117/vehicles/scene the subway] , [/EN#175120/people another woman] is not far behind .
+[/EN#175115/people Woman] in [/EN#175116/clothing a gold jacket] walking on [/EN#175118/other a New York subway platform] .
+[/EN#175115/people The woman] in [/EN#175116/clothing the gold coat] hurries to catch [/EN#175117/vehicles/scene the subway] .
+[/EN#175115/people A woman] in [/EN#175116/clothing a gold jacket] waiting in [/EN#175117/vehicles/scene the subway] .

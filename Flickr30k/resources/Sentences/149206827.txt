@@ -1,0 +1,5 @@
+[/EN#14803/people One person] is standing and [/EN#14804/people one person] is sitting in [/EN#14800/other a canoe] on [/EN#14801/scene open water] .
+[/EN#14799/people Two people] are in [/EN#14800/vehicles/scene a long wooden boat] in [/EN#14801/scene a body of water] .
+[/EN#14799/people Two men] in [/EN#14800/vehicles/scene a boat] sitting in [/EN#14801/scene the middle of the ocean] .
+[/EN#14799/people Two people] in [/EN#14800/other a large canoe] surrounded by [/EN#14801/scene water] .
+[/EN#14799/people Two guys] in [/EN#14800/vehicles/scene a boat] sailing along [/EN#14801/scene the ocean] .

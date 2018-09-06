@@ -1,0 +1,5 @@
+[/EN#61902/people A woman] is posing on [/EN#61905/scene a cobbled road] wearing [/EN#61904/other a polka] dotted [/EN#61904/clothing jacket] while holding [/EN#61903/clothing an umbrella] .
+[/EN#0/notvisual There] is [/EN#61902/people a lady] ready for [/EN#61907/other the rainy weather] with [/EN#61908/clothing rain boots] , [/EN#61904/clothing coat] and [/EN#61903/clothing an umbrella] .
+[/EN#61902/people A woman] standing on [/EN#61905/other a brick roadway] , with [/EN#61903/clothing an umbrella] and [/EN#61904/clothing a polka dot jacket] .
+[/EN#61902/people A colorfully dress person] is posing with [/EN#61903/clothing a blue and white umbrella] .
+[/EN#61902/people A woman] leans on [/EN#61903/clothing an umbrella] .

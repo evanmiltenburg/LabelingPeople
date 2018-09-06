@@ -1,0 +1,5 @@
+[/EN#76692/people The man] holding [/EN#76693/other a newspaper] is wearing [/EN#76695/clothing a white suit] , [/EN#76696/clothing black shirt] and [/EN#76697/clothing black shoes] .
+[/EN#76692/people a man] wearing [/EN#76695/clothing a white suit] holding [/EN#76693/other a newspaper] walking through [/EN#76694/scene the streets] .
+[/EN#76692/people A man] in [/EN#76695/clothing a white suit] walks down [/EN#76694/scene the street] holding [/EN#76693/other a newspaper] .
+[/EN#76692/people The man] is wearing [/EN#76695/clothing a white suit] and walking on [/EN#76694/scene the street] .
+[/EN#76692/people A man] in [/EN#76695/clothing a white suit] walks outside carrying [/EN#76693/other a newspaper] .

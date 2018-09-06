@@ -1,0 +1,5 @@
+[/EN#3525/people A man] in [/EN#3526/clothing a brown uniform] reaching out from [/EN#3529/scene an industrial doorway] , as if [/EN#0/notvisual he] is going to shut [/EN#3527/other the door] .
+[/EN#3525/people A man] is inside [/EN#3528/vehicles a truck] looking out with [/EN#3530/bodyparts/people his left arm] in front of [/EN#3527/other a door] .
+[/EN#3525/people A man] in [/EN#3526/clothing a brown shirt] prepares to close [/EN#3527/other the door] .
+[/EN#3525/people A delivery man] exiting [/EN#3528/vehicles the back of a truck] .
+[/EN#3525/people A man] opening [/EN#3527/other a door] and looking out .

@@ -1,0 +1,5 @@
+[/EN#74033/people A man] in [/EN#74035/clothing a black suit] and [/EN#74039/clothing tie] is walking in front of [/EN#74036/scene a fancy building] with [/EN#74034/other the word grace] written on [/EN#0/notvisual it]
+[/EN#74033/people An older man] in [/EN#74035/clothing a blue suit] is walking out of [/EN#74036/scene a building] with [/EN#74038/other the name] " [/EN#74034/other Grace] " on [/EN#0/notvisual the front of it] .
+[/EN#74033/people A bald man] in [/EN#74035/clothing a black suit] is standing in [/EN#74036/scene front a building] called [/EN#74034/other Grace] .
+[/EN#74033/people A man] in [/EN#74035/clothing a suit] walks away from [/EN#74036/scene the GRACE building] .
+[/EN#74033/people A large suited bald man] is leaving [/EN#74036/scene a shop] .

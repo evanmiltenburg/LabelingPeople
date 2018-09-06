@@ -1,0 +1,5 @@
+[/EN#126180/people A middle-aged man] wearing [/EN#126184/clothing a white shirt] , [/EN#126185/clothing black shorts] and [/EN#126183/clothing a white hat] is running on [/EN#126182/scene the road] .
+[/EN#126180/people A man] with [/EN#126187/clothing white shoes] , [/EN#126183/clothing a white hat] , and [/EN#126184/clothing a white shirt] running on [/EN#126182/scene pavement] .
+[/EN#126180/people A man] is running in [/EN#126181/other a marathon] while [/EN#126186/people some spectators] watch .
+[/EN#126180/people A man] is running down [/EN#126182/scene a street] during [/EN#126181/other a race] .
+[/EN#126180/people A man] running on [/EN#126182/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#254775/people A young boy] is sitting on [/EN#254778/scene a beach] filling [/EN#254776/other a water bottle] with [/EN#254777/other sand] .
+[/EN#254775/people A boy] in [/EN#254780/clothing a dirty white shirt] is filling [/EN#254776/other a water bottle] with [/EN#254775/scene dirt] .
+[/EN#254775/people Boy] playing with [/EN#254776/other empty water bottle] , filling [/EN#0/notvisual it] with [/EN#254777/other sand] .
+[/EN#254775/people A child] is holding [/EN#254776/other an Aquafina water bottle] .
+[/EN#254775/people A child] playing with [/EN#254776/other a water bottle] .

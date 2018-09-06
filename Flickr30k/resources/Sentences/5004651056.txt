@@ -1,0 +1,5 @@
+[/EN#226638/vehicles/scene A conductor of a train] is inside [/EN#226640/vehicles/scene the train] working on [/EN#0/notvisual it] as [/EN#226645/people two other men] watch .
+[/EN#226638/people A man] with [/EN#226646/clothing a blue hat] and [/EN#226647/clothing blue uniform] [/EN#0/notvisual who] is working on [/EN#226641/other some equipment] .
+[/EN#226639/people Three people] working together on [/EN#226640/other the locomotive] .
+[/EN#226638/people A man] working with [/EN#226641/other machinery] with [/EN#226644/people other men] .
+[/EN#226639/people Three men] conducting [/EN#226640/vehicles/scene a train] in [/EN#226642/other Asia] .

@@ -1,0 +1,5 @@
+[/EN#148162/people A man] in [/EN#148164/clothing a fisherman 's cap] with [/EN#148165/clothing a striped shirt] pouring [/EN#148169/other something] onto [/EN#148163/other a bun] .
+[/EN#148162/people A man] in [/EN#148165/clothing a plaid shirt] and [/EN#148164/clothing bucket hat] pours condensed [/EN#148166/other milk] on [/EN#148163/other his sandwich] .
+[/EN#148162/people A man] in [/EN#148164/clothing a hat] and [/EN#148165/clothing a plaid , blue shirt] is preparing [/EN#148163/other an item of food] .
+[/EN#148162/people A man] is pouring [/EN#148166/other something] from [/EN#148167/other a can] onto [/EN#148163/other a sandwich] .
+[/EN#148162/people A man] is making [/EN#148163/other some sort of sandwich]

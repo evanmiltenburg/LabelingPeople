@@ -1,0 +1,5 @@
+[/EN#232679/people People] are walking around [/EN#232680/scene a mall type place] with [/EN#232681/scene a pink tiled floor] .
+[/EN#232682/other Crowds bustle] around [/EN#232678/scene a busy shopping plaza] .
+[/EN#232679/people People] are patronizing [/EN#232678/scene a shopping mall] .
+[/EN#232678/scene An overhead view of a shopping center] .
+[/EN#232678/scene A shopping plaza] with [/EN#232679/people many people] .

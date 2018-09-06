@@ -1,0 +1,5 @@
+[/EN#101682/animals A small white dog] with [/EN#101685/clothing brown] on [/EN#101686/bodyparts his face] and back is jumping over [/EN#101683/other a cushion] .
+[/EN#101682/animals a small white and black dog] jumping over [/EN#101683/other a big brown couch] .
+[/EN#101682/animals A white dog] with [/EN#101687/scene black spots] jumps in [/EN#101688/scene midair] .
+[/EN#101682/animals White dog] high jumping over [/EN#101683/other some pillows] .
+[/EN#101682/animals A small dog] leaps across [/EN#101683/other a brown pillow] .

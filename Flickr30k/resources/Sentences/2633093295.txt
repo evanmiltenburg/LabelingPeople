@@ -1,0 +1,5 @@
+[/EN#62765/people A man] in [/EN#62768/clothing a white jacket] walks underneath [/EN#62766/scene a bridge] and is highlighted by [/EN#62770/other a ray of light] .
+[/EN#62765/people A man] in [/EN#62769/clothing a tan jacket] is walking under [/EN#62767/scene a dark bridge] .
+[/EN#62765/people A man] in [/EN#62768/clothing a suit] is walking under [/EN#62767/scene a metal bridge] .
+[/EN#62765/people A man] heads into [/EN#62766/scene the shadows of an overpass] .
+[/EN#62765/people A man] in [/EN#62768/clothing a suit] is walking .

@@ -1,0 +1,5 @@
+[/EN#176670/people A man] in [/EN#176680/clothing white shirt] and [/EN#176678/clothing blue vest] is playing [/EN#176672/other a large wooden pipe] , with [/EN#176674/scene mountains] and [/EN#176679/other trees] in [/EN#0/notvisual the background] .
+[/EN#176670/people An Asian man] in [/EN#176676/clothing traditional clothing] sounds [/EN#176672/instruments a large horn] in [/EN#176675/scene a pleasant mountain landscape] .
+[/EN#176670/people A man] on [/EN#176671/other a grassy hillside] wearing [/EN#176676/clothing traditional clothing] is blowing [/EN#176672/instruments a long horn] .
+[/EN#176670/people A man] is standing on [/EN#176671/other a mountaintop] blowing [/EN#176672/instruments a long wooden horn] .
+[/EN#176670/people A man] is using [/EN#176672/other a telescope] with [/EN#176674/scene mountains] in [/EN#0/notvisual the background] .

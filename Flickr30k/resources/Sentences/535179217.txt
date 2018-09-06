@@ -1,0 +1,5 @@
+[/EN#234307/people Four people] near [/EN#234308/scene a body of water] , [/EN#234313/other one sitting and three] standing , while [/EN#234315/people two people] walk on [/EN#234312/scene a nearby sidewalk] .
+[/EN#234307/people people] are standing near [/EN#234308/scene water] with [/EN#234309/vehicles/scene a boat] heading [/EN#0/notvisual their direction]
+[/EN#234307/people People] are fishing and walking next to [/EN#234308/scene the water] .
+[/EN#234307/people Several people] fishing on [/EN#234310/scene a cloudy day] .
+[/EN#234316/animals Men fish] on [/EN#234311/other a concrete slab] .

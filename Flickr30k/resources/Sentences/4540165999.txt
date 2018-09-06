@@ -1,0 +1,5 @@
+[/EN#176504/people A woman] wearing [/EN#176499/clothing a black fur coat] is walking down [/EN#176502/scene the street] holding [/EN#176500/clothing an umbrella] .
+[/EN#176498/people Two women] , [/EN#176504/other one] in [/EN#176499/clothing a fur coat] , [/EN#176509/other walk] down [/EN#176502/scene the sidewalk] with [/EN#176500/clothing blue umbrellas] .
+[/EN#176498/people Two women] walk on [/EN#176502/scene a sidewalk] in [/EN#176508/other the rain] , carrying [/EN#176500/clothing umbrellas] .
+[/EN#176498/people Two women] are walking down [/EN#176502/scene the street] holding [/EN#176500/clothing umbrellas] .
+[/EN#176504/people People] under [/EN#176500/clothing a blue umbrella] walking .

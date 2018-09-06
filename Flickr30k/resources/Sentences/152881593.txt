@@ -1,0 +1,5 @@
+[/EN#15708/people a man] wearing [/EN#15709/clothing a black jacket] stands , holding [/EN#15710/other an open book] in front of [/EN#15711/other a chalkboard] and [/EN#15713/other globe] .
+[/EN#15708/people A man] in [/EN#15709/clothing a black leather jacket] and [/EN#15710/other a book] in [/EN#15715/bodyparts his hand] speaks in [/EN#15712/scene a classroom] .
+[/EN#15708/people A man] in [/EN#15709/clothing a leather jacket] reads from [/EN#15710/other a book] to [/EN#15714/people people] in [/EN#15712/scene a classroom]
+[/EN#15708/people A man] is holding [/EN#15710/other a book] standing in front of [/EN#15711/other a chalkboard] .
+[/EN#15708/people A man] in [/EN#15709/clothing a black jacket] reading aloud .

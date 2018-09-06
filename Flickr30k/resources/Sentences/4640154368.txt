@@ -1,0 +1,5 @@
+[/EN#185673/people A man] in [/EN#185678/clothing a gray shirt] and [/EN#185677/clothing blue shorts] is standing outside of [/EN#185676/scene an old fashioned ice cream shop] named [/EN#185674/other Sara 's Old Fashioned Ice Cream] , holding [/EN#185675/vehicles his bike] up , with [/EN#185680/other a wood] like [/EN#185680/other table] , [/EN#185682/other chairs] , [/EN#185681/other benches] in front of [/EN#0/notvisual him] .
+[/EN#185673/people A young man] is standing near [/EN#185675/vehicles his bike] outside [/EN#185676/scene a shop] called , " [/EN#185674/other Sara 's Old Fashioned Ice Cream] . "
+[/EN#185673/people The man] with [/EN#185675/vehicles a bicycle] is at [/EN#185674/scene Sara 's Old Fashioned Ice Cream store] .
+[/EN#185673/people A man] parks [/EN#185683/other his back] outside [/EN#185676/scene an ice cream parlor] on [/EN#185679/scene a sunny day] .
+[/EN#185673/people A man] in [/EN#185677/clothing blue shorts] outside [/EN#185676/scene an ice cream shop] .

@@ -1,0 +1,5 @@
+[/EN#124620/animals Two dogs] , [/EN#124625/clothing one light brown] and [/EN#124626/clothing one gray] , play [/EN#124622/scene outdoors] on [/EN#124621/scene the grass] .
+[/EN#124619/animals A gray dog] and [/EN#124618/animals a tan dog] playing on [/EN#124621/scene a grassy field] .
+[/EN#124618/animals A brown dog] barks at [/EN#124619/animals a gray dog] in [/EN#124621/scene the grass] .
+[/EN#124618/animals A brown dog] and [/EN#124619/animals a gray dog] play in [/EN#124621/scene the grass] .
+[/EN#124620/animals Two dogs] playing on [/EN#124621/scene grass] .

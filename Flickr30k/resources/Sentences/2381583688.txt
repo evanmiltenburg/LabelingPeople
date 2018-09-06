@@ -1,0 +1,5 @@
+[/EN#45326/people An old woman] wearing [/EN#45328/clothing a ski hat] and [/EN#45330/clothing glasses] is sitting on [/EN#45327/other a blue chair] .
+[/EN#45326/people an old woman] wearing [/EN#45328/clothing a wildly decorated knit cap] and [/EN#45329/clothing a white jacket]
+[/EN#45326/people An elderly woman] sits in [/EN#45327/other a chair] and wear [/EN#45328/clothing a winter hat] and [/EN#45329/clothing coat] .
+[/EN#45326/people A lady] with [/EN#45330/clothing glasses] and [/EN#45328/clothing a warm hat] looks in [/EN#0/notvisual the distance] .
+[/EN#45326/people An elderly woman] in [/EN#45328/clothing a knitted cap] and [/EN#45329/clothing white jacket] .

@@ -1,0 +1,5 @@
+[/EN#193045/people A woman] wearing [/EN#193046/clothing a purple top] is walking in [/EN#193049/other the rain] carrying [/EN#193047/clothing a white and red umbrella] .
+[/EN#193045/people A brunette] with [/EN#193047/clothing a red and white polka dot umbrella] is wearing [/EN#193046/clothing a purple tank top] .
+[/EN#193045/people A woman] is walking down [/EN#193050/scene the street] , using [/EN#193047/clothing her umbrella] , as [/EN#0/notvisual it] rains .
+[/EN#193045/people A woman] in [/EN#193046/clothing a purple top] carries [/EN#193047/clothing a red and white umbrella] .
+[/EN#193045/people A woman] in [/EN#193048/clothing purple clothes] with [/EN#193047/clothing a white and red umbrella] .

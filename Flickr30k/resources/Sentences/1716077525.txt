@@ -1,0 +1,5 @@
+[/EN#19309/people A man] in [/EN#19310/clothing glasses] , [/EN#19311/clothing a t-shirt] and [/EN#19312/clothing shorts] stands in [/EN#19319/scene a kitchen] and [/EN#19318/other cuts] [/EN#19313/other a tomato] on top of [/EN#19314/other a cutting board] [/EN#0/notvisual that] rests on [/EN#19315/other a kitchen table] with [/EN#19315/other a green tablecloth] .
+[/EN#19309/people A man] in [/EN#19311/clothing a black shirt] and [/EN#19310/clothing glasses] is slicing [/EN#19316/other a tomato] at [/EN#19315/other a kitchen table] .
+[/EN#19309/people A man] in [/EN#19312/clothing blue shorts] and [/EN#19311/clothing a t-shirt] is slicing [/EN#19317/other tomatoes] on [/EN#19315/other a dining table] .
+[/EN#19309/people A man] is slicing [/EN#19317/other tomatoes] on [/EN#19314/other a cutting board] on top of [/EN#19315/other a table] .
+[/EN#19309/people A man] wearing [/EN#19311/clothing a black shirt] with [/EN#19310/clothing glasses] slicing [/EN#19313/other a tomato] .

@@ -1,0 +1,5 @@
+[/EN#24267/animals The brown dog] [/EN#0/notvisual who] looks like [/EN#24267/animals a dingo] looks out of [/EN#24268/scene the forest] .
+[/EN#24267/animals A dog] standing outside is looking at [/EN#0/notvisual the camera] .
+[/EN#24267/animals A tan and white dog] standing near [/EN#24268/other green plants] .
+[/EN#24267/animals A tan dog] is standing in front of [/EN#24268/other some plants] .
+[/EN#24267/animals A brown and white animal] surrounded by [/EN#24268/other trees] .

@@ -1,0 +1,5 @@
+[/EN#3794/people A man] in [/EN#3803/clothing a white shirt] is talking with [/EN#3801/people two men] and [/EN#3802/people two women] sitting on [/EN#3796/other a bench] .
+[/EN#3794/people Man] with [/EN#3799/bodyparts gray hair] telling [/EN#3798/other a story] to [/EN#3797/people a group of younger people] on [/EN#3796/other a bench] .
+[/EN#3794/people An old man] is talking to [/EN#3795/people a group of people] sitting on [/EN#3796/other a bench] .
+[/EN#3794/people A man] shakes [/EN#3800/bodyparts/people his arm] at [/EN#3795/people a group of people] seated on [/EN#3796/other a bench] .
+[/EN#3795/people People] talking together as [/EN#0/notvisual they] sit on [/EN#3796/other a bench] .

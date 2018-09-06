@@ -1,0 +1,5 @@
+[/EN#149810/people A man] in [/EN#149813/clothing a plaid shirt] and [/EN#149811/clothing a blue helmet] holds onto [/EN#149812/other a blue rope] while hanging against [/EN#149815/other some large boulders] .
+[/EN#149810/people A man] in [/EN#149813/other plaid] descends [/EN#149814/bodyparts a rock face] while harnessed in [/EN#149817/other rock climbing equipment] .
+[/EN#149810/people A man] in [/EN#149811/clothing a blue hat] and [/EN#149813/clothing plaid shirt] is repelling down [/EN#149814/bodyparts the side of a rock face] .
+[/EN#149810/people A man] in [/EN#149813/clothing a plaid shirt] using [/EN#149812/other a blue rope] to rock [/EN#149818/scene climb] .
+[/EN#149810/people Man] in [/EN#149813/clothing plaid shirt] scaling [/EN#149815/other rocks] .

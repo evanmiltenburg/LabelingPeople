@@ -1,0 +1,5 @@
+[/EN#55724/people A woman] in [/EN#55726/other a head wrap] is standing behind [/EN#55729/other a tree] and [/EN#55725/other some beautiful white flowers] .
+[/EN#55724/people a woman] wearing [/EN#55726/clothing a scarf] over [/EN#55731/bodyparts her hair] in [/EN#0/notvisual the distance] behind [/EN#55725/other some flowers] .
+[/EN#55724/people A woman] in [/EN#55726/clothing a headscarf] stands by [/EN#55725/other a garden of white flowers] .
+[/EN#55724/people A woman] in [/EN#55726/clothing a white headscarf] sits near [/EN#55725/other white flowers] .
+[/EN#55724/people A woman] wearing [/EN#55726/clothing a headscarf] is near [/EN#55725/other many tulips] .

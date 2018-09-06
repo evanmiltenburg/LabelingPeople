@@ -1,0 +1,5 @@
+[/EN#104580/people A crowd of men] wearing [/EN#104586/other paper numbers] on [/EN#104587/clothing their shirts] run in [/EN#104583/other a race] .
+[/EN#104580/people People] with [/EN#104585/other numbers] on [/EN#104588/bodyparts their chests] are running in [/EN#104581/other a pack] .
+[/EN#104580/people A group of people] are running [/EN#104582/other a race] .
+[/EN#0/notvisual There] is [/EN#104584/people a large crowd of runners] .
+[/EN#104580/people A large pack of men] jog in [/EN#104583/other a race] .

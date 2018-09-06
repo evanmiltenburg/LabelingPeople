@@ -1,0 +1,5 @@
+[/EN#146095/people A man] with [/EN#146098/clothing a blue shirt] and [/EN#146100/clothing red scarf] on [/EN#146102/bodyparts his head] holds [/EN#146101/other a piece of fruit] in front of [/EN#146099/other a wood container] full of [/EN#146106/other fruit] while [/EN#146096/people a boy] bicycles behind [/EN#0/notvisual him] .
+[/EN#146095/people A man] in [/EN#146098/clothing a light blue long-sleeved shirt] wearing [/EN#146100/clothing a red and white scarf] on [/EN#146102/bodyparts his head] stands beside [/EN#146099/scene a makeshift fruit stand] .
+[/EN#0/notvisual This] is [/EN#146095/people man] standing by [/EN#146099/vehicles a fruit or vegetable cart] peeling [/EN#146101/other a piece of fruit] .
+[/EN#146095/people A man] with [/EN#146100/clothing a headdress] looking among [/EN#146101/other pieces of fruit] .
+[/EN#146095/people A man] sells [/EN#146101/other fruit] on [/EN#146104/scene the street] from [/EN#146099/vehicles a cart] .

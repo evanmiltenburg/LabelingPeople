@@ -1,0 +1,5 @@
+[/EN#123725/people A lady] standing near [/EN#123730/scene the counter of a bakery] smiling at [/EN#0/notvisual the camera] .
+[/EN#123725/people A tourist] waits for [/EN#123729/other her order] at [/EN#123727/other the counter of a local cafe] .
+[/EN#123725/people A woman] is standing in front of [/EN#123727/other a counter] at [/EN#123726/other a cafe] .
+[/EN#123725/people A woman] in [/EN#123726/other an Italian cafe] waits at [/EN#123727/other the counter] .
+[/EN#123725/people A woman] waiting at [/EN#123728/scene a coffee shop] .

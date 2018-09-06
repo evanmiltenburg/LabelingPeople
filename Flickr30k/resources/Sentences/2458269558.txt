@@ -1,0 +1,5 @@
+[/EN#51048/people a blond boy] in [/EN#51049/clothing a white and orange t-shirt] is playing on [/EN#51050/other a swing] .
+[/EN#51048/people A boy] in [/EN#51049/clothing a surfing shirt] is swinging on [/EN#51050/other a swing] .
+[/EN#51048/people A child] is smiling while being on [/EN#51050/other a swing] .
+[/EN#51048/people A little boy] swings at [/EN#51051/scene the playground] .
+[/EN#51048/people Young child] swinging on [/EN#51050/other a swing] .

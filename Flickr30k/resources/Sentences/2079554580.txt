@@ -1,0 +1,5 @@
+[/EN#27422/animals A Dalmatian dog] running downhill through [/EN#27425/other leaves] in [/EN#27423/scene a wooded area] .
+[/EN#27422/animals The Dalmation] is running through [/EN#27424/other the woods] .
+[/EN#27422/animals A dog] runs through [/EN#27423/scene a very wooded area] .
+[/EN#27422/animals A dalmatian] runs through [/EN#27424/other the woods] .
+[/EN#27422/animals A dog] runs in [/EN#27424/other the woods] .

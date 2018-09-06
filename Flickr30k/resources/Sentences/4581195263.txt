@@ -1,0 +1,5 @@
+[/EN#180284/people A little boy] and [/EN#180288/people little girl] are petting [/EN#180286/animals a calf] through [/EN#180287/scene a wooden fence] .
+[/EN#180284/people A boy] and [/EN#180288/people a girl] are petting [/EN#180286/animals a cow] through [/EN#180287/scene a fence] .
+[/EN#180285/people Two young children] petting [/EN#180286/animals a brown cow] .
+[/EN#180285/people Children] interact with [/EN#180286/other a young bovine] .
+[/EN#180285/people Two children] are petting [/EN#180286/animals a calf] .

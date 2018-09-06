@@ -1,0 +1,5 @@
+[/EN#26118/animals A gray dog] is jumping toward [/EN#26119/animals a black and white dog] in [/EN#26120/scene the snow] .
+[/EN#26121/animals Two poodles] are in [/EN#26120/scene the snow] and [/EN#26118/other one] is jumping high
+[/EN#26121/animals Two french poodles] romp on [/EN#26120/scene a snowy field]
+[/EN#26121/animals Two dogs] playing on [/EN#26120/scene the beach] .
+[/EN#26121/animals Two dogs] play on [/EN#26120/scene the beach] .

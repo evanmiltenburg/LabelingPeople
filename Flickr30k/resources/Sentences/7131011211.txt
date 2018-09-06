@@ -1,0 +1,5 @@
+[/EN#265828/people A person] wearing [/EN#265832/clothing a red coat] is holding [/EN#265829/clothing a beige and plaid umbrella] while crossing [/EN#265831/scene the street] .
+[/EN#265828/people An elderly person] is crossing [/EN#265831/scene a street] with [/EN#265829/clothing an umbrella] in [/EN#265833/bodyparts their hands] .
+[/EN#265828/people A person] with [/EN#265829/clothing an umbrella] is crossing [/EN#265831/scene a street] using [/EN#265830/scene a crosswalk] .
+[/EN#265828/people Someone] carrying [/EN#265829/clothing an umbrella] while crossing [/EN#265830/scene an intersection] .
+[/EN#265828/people Old lady] crossing [/EN#265831/scene street] with [/EN#265829/clothing an umbrella] .

@@ -1,0 +1,5 @@
+[/EN#106135/animals Two gray dogs] run near [/EN#106136/scene the water] on [/EN#106137/scene a manicured lawn] in [/EN#106139/other the fall] .
+[/EN#106135/animals Two dogs] run along [/EN#106137/scene the green grass] near [/EN#106136/scene the water] .
+[/EN#106135/animals Two dogs] run through [/EN#106137/scene grass] near [/EN#106136/scene a body of water] .
+[/EN#106135/animals Two dogs] run through [/EN#106137/scene a field] .
+[/EN#106135/animals Two dogs] running past [/EN#106138/other a tree] .

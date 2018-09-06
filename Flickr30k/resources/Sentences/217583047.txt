@@ -1,0 +1,5 @@
+[/EN#32379/people A man] sits in [/EN#32383/other a rowboat] alone on [/EN#32381/scene foggy water] .
+[/EN#32379/people A man] in [/EN#32380/vehicles/scene a white boat] is rowing through [/EN#32384/other fog] .
+[/EN#32379/people A man] is riding in [/EN#32380/vehicles/scene a boat] on [/EN#32381/scene the water] .
+[/EN#32379/people Man] in [/EN#32380/vehicles/scene a small white boat] on [/EN#32381/scene a lake] .
+[/EN#32379/people A man] in [/EN#32380/vehicles/scene his boat] on [/EN#32381/scene the lake]

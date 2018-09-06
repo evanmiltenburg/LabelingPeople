@@ -1,0 +1,5 @@
+[/EN#120602/people An woman] wearing [/EN#120607/clothing headphones] is sitting on [/EN#120606/vehicles/scene a subway] wearing [/EN#120605/clothing a blue face mask] while [/EN#120603/people three men] also wearing [/EN#120612/clothing the masks] to prevent [/EN#120613/other germs] look back in [/EN#0/notvisual her direction] .
+[/EN#120602/people An Asian woman] with [/EN#120607/clothing large personal headphones] and [/EN#120605/clothing a surgical mask] rides [/EN#120606/vehicles/scene a commuter train] while [/EN#120603/people three men] , also wearing [/EN#120605/clothing masks] , look at [/EN#0/notvisual her] .
+[/EN#120608/people Several people] are on [/EN#120606/vehicles/scene the subway] , and [/EN#0/notvisual all of them] are wearing [/EN#120610/clothing black clothes] and [/EN#120605/clothing blue surgical masks] .
+[/EN#120602/people A woman] and [/EN#120603/people several men] wear [/EN#120605/clothing face masks] on [/EN#120606/vehicles/scene a subway] .
+[/EN#120603/people A three man] and [/EN#120602/people women] are sitting on [/EN#120606/vehicles/scene train] .

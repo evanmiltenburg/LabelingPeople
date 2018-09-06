@@ -1,0 +1,5 @@
+[/EN#96355/people A woman] in [/EN#96356/clothing a red shirt] is holding [/EN#96357/animals a black dog] on [/EN#96358/other a brown sofa] with [/EN#96359/people a little girl] wearing [/EN#96360/other a striped onsie] with [/EN#96361/other a pacifier] in [/EN#96362/bodyparts her mouth] .
+[/EN#96359/people A baby] with [/EN#96360/clothing a pink outfit] on has [/EN#96361/other a pacifier] , and [/EN#0/notvisual she] is on [/EN#96358/other a chair] with [/EN#96355/people another woman] .
+[/EN#96359/people A baby] in [/EN#96360/clothing pink , striped clothing] is sitting near [/EN#96355/people an older lady] wearing [/EN#96364/clothing red and black] .
+[/EN#96359/people The baby] sitting next to [/EN#96357/animals the black dog] is sucking [/EN#96361/other a pacifier] .
+[/EN#96359/people A baby] sitting next to [/EN#96355/people a very old woman] .

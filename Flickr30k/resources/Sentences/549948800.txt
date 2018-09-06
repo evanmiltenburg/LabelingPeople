@@ -1,0 +1,5 @@
+[/EN#237561/other A white and red firetruck] with [/EN#237562/people various firemen] is parked near [/EN#237566/other some green trees] .
+[/EN#237561/other Firetrucks] and [/EN#237567/vehicles other emergency vehicles] are responding to [/EN#237564/other an emergency] .
+[/EN#237562/people Firemen] are standing near [/EN#237561/other a firetruck] [/EN#0/notvisual that] has [/EN#237565/other its lights] on .
+[/EN#237562/people Four uniformed firemen] are standing close to [/EN#237561/other a red firetruck] .
+[/EN#237562/people Firemen] gathered around [/EN#237561/other a firetruck] on [/EN#237568/scene a roadside] .

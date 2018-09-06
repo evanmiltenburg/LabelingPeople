@@ -1,0 +1,5 @@
+[/EN#231308/people A young boy] is climbing [/EN#231313/other a stack of timber] next to [/EN#231310/other a sign] [/EN#0/notvisual that] says not to climb on [/EN#231313/other timber stacks] .
+[/EN#231308/people A child] climbing [/EN#231313/other timber stacks] while [/EN#231310/other a sign] says " Do not climb on [/EN#231314/other timber stacks] " .
+[/EN#231308/people A young child] climbing [/EN#231313/other a stack of logs] even though [/EN#231310/other the sign] warns against [/EN#0/notvisual it] .
+[/EN#231308/people A boy] climbs on [/EN#231314/other a stack of timber] despite [/EN#231310/other a sign] prohibiting [/EN#0/notvisual it] .
+[/EN#231308/people A boy] climbing next to [/EN#231311/other a "] Do Not Climb [/EN#231310/other " sign] .

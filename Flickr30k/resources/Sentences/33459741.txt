@@ -1,0 +1,5 @@
+[/EN#111403/people A woman] in [/EN#111404/clothing a long dress] is [/EN#111410/scene outside] walking with [/EN#111405/other a green laundry basket] in [/EN#111406/bodyparts her hands] in front of [/EN#111413/scene a brick building] with [/EN#111407/other an " apartment for rent " sign] .
+[/EN#111403/people A woman] in [/EN#111404/clothing a dress] is preparing to do [/EN#111408/scene laundry] and standing in front of [/EN#111412/other a brick apartment complex] [/EN#0/notvisual that] has ivy growing on up [/EN#111409/scene the fence] .
+[/EN#111403/people A woman] with [/EN#111404/clothing a black and white dress] on is carrying [/EN#111405/other a green plastic laundry basket] in front of [/EN#111413/scene an apartment building] .
+[/EN#111403/people A woman] holding [/EN#111405/other a clothes basket] standing in front of [/EN#111413/scene a building] with [/EN#111412/other an apartment] for [/EN#111415/scene rent] .
+[/EN#111403/people A young lady] appearing to be in [/EN#111411/scene route] to do [/EN#111408/scene laundry] .

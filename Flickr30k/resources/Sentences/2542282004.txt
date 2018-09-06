@@ -1,0 +1,5 @@
+[/EN#56966/people Seven men] wearing [/EN#56968/clothing bright orange reflective vests] are looking inside [/EN#56967/vehicles/scene the door of a red train] .
+[/EN#56966/people A group of men] in [/EN#56968/clothing orange safety jackets] inspect [/EN#56969/vehicles the engine of some sort of tram] .
+[/EN#56966/people A group of men] [/EN#0/notvisual who] are wearing [/EN#56968/clothing orange vests] are looking at [/EN#56967/other a bright red door] .
+[/EN#56966/people Seven transit employees] examining [/EN#56969/vehicles a car] on [/EN#56969/vehicles/scene a train] .
+[/EN#56966/people Men] in [/EN#56968/clothing orange suits] look at [/EN#56969/vehicles a red truck] .

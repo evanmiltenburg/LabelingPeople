@@ -1,0 +1,5 @@
+[/EN#65366/animals A black dog] is running through [/EN#65368/scene the grass] carrying [/EN#65367/other something] red in [/EN#65369/bodyparts its mouth] .
+[/EN#65366/animals Black dog] running through [/EN#65368/scene grass] with [/EN#65367/other something] orange in [/EN#65369/bodyparts its mouth]
+[/EN#65366/animals A dog] holds [/EN#65367/other an orange rag] in [/EN#65369/bodyparts his mouth] while running .
+On [/EN#65368/scene garden lawn] , [/EN#65366/animals black dog] is retriving [/EN#65367/other an object] .
+[/EN#65366/animals A dog] running with [/EN#65370/other a red item] in [/EN#65369/bodyparts its mouth] .

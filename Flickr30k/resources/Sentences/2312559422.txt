@@ -1,0 +1,5 @@
+[/EN#40866/people A small child] with [/EN#40868/clothing a red shirt] stands in front of [/EN#40867/other a large television screen] showing [/EN#40867/other an unfocused image] .
+[/EN#40866/people A short-haired child] is watching [/EN#40867/other a video game] being played on [/EN#40867/other a large television] .
+[/EN#40866/people A young boy] in [/EN#40868/clothing a red shirt] is watching [/EN#40867/other a television program] .
+[/EN#40866/people A young boy] stands staring at [/EN#40867/other a television screen] .
+[/EN#40866/people Child] watching [/EN#40867/other television] .

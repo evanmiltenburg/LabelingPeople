@@ -1,0 +1,5 @@
+[/EN#2343/animals The dog] is running out of [/EN#2345/scene the tunnel] on [/EN#2344/other a dog obedience course] .
+[/EN#2343/animals The small brown and white dog] is running out of [/EN#2345/scene a small tunnel] .
+[/EN#2343/animals Dog] running out of [/EN#2345/scene tunnel] on [/EN#2344/other obstacle course]
+[/EN#2343/animals A dog] runs out of [/EN#2345/scene a tunnel] on [/EN#2344/other a course] .
+[/EN#2343/animals A Corgi] runs out of [/EN#2345/scene a tunnel] .

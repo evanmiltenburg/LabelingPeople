@@ -1,0 +1,5 @@
+[/EN#272876/people A hockey player] scores [/EN#272879/other a goal] with [/EN#272884/people two opposing players] skating nearby and [/EN#272878/people the goalie] in [/EN#272879/other the goal] .
+[/EN#272877/people Several hockey players] are at [/EN#272885/scene the end zone] as [/EN#272878/people the goalie] misses [/EN#272883/other the puck] [/EN#0/notvisual which] slid into [/EN#272879/other the net] .
+[/EN#272878/people The goalie of an ice hockey team] is being scored on as [/EN#272877/people several members of his team] watch .
+[/EN#272876/people A hockey player] in [/EN#272886/clothing a blue shirt] scoring [/EN#272879/other a goal] against [/EN#272881/people a team] in [/EN#272887/clothing white shirts] .
+[/EN#272877/people People] playing [/EN#272882/other ice hockey] and trying to get [/EN#272879/other a goal] .

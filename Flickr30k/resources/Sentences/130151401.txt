@@ -1,0 +1,5 @@
+[/EN#7931/people A man] in [/EN#7932/clothing a bright yellow shirt] plays [/EN#7934/instruments his guitar] as [/EN#7933/people another man] plays [/EN#7937/instruments the drums] in [/EN#0/notvisual the background] .
+[/EN#7931/people A guitarist] in [/EN#7932/clothing a Hawaiian shirt] plays on [/EN#7935/scene a stage] with [/EN#7933/people a drummer] behind [/EN#0/notvisual him] .
+[/EN#7931/people A man] in [/EN#7932/clothing a Hawaiian shirt] is playing [/EN#7934/instruments an orange electric guitar] on [/EN#7935/scene a stage] .
+[/EN#7931/people A man] in [/EN#7932/clothing a colorful shirt] and [/EN#7936/clothing glasses] is playing [/EN#7934/instruments guitar] on [/EN#7935/scene stage] .
+[/EN#7931/people A guy] in [/EN#7932/clothing a Hawaiian shirt] plays [/EN#7934/instruments guitar] .

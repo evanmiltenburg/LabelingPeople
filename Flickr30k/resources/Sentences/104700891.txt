@@ -1,0 +1,5 @@
+[/EN#1216/people A man] wearing [/EN#1219/clothing a gray jacket] and [/EN#1223/clothing blue work pants] is standing in [/EN#1217/scene a hole] in [/EN#0/notvisual the ground]
+[/EN#1216/people A man] in [/EN#1218/clothing a blue hat] stands near [/EN#1221/other a shovel] in [/EN#1217/scene a deep hole] .
+[/EN#1216/people A man] in [/EN#1217/other a whole] next to [/EN#1220/clothing a septic tank] .
+[/EN#1216/people A guy] wearing [/EN#2000/clothing blue] in [/EN#1217/scene a hole] .
+[/EN#1216/people A man] stands in [/EN#1217/scene a hole] .

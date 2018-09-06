@@ -1,0 +1,5 @@
+[/EN#6379/people a man] in [/EN#6382/clothing a red outfit] is riding [/EN#6380/other a red motorbike uphill] on [/EN#6381/scene a motocross circuit] .
+[/EN#6379/people A man] in [/EN#6382/clothing a red biker suit] on [/EN#6380/vehicles a red dirt bike] going down [/EN#6381/scene a muddy road] .
+[/EN#6379/people A motorcycle racer] in [/EN#6382/clothing a red jumpsuit] and [/EN#6384/clothing helmet] rides up [/EN#6381/scene a dirt hill] .
+[/EN#6379/people A man] in [/EN#6382/other red riding gear] riding [/EN#6380/vehicles a dirt bike] down [/EN#6381/scene a path]
+[/EN#6379/people A man] riding [/EN#6380/vehicles a dirt bike] up [/EN#6381/scene a muddy hill] .

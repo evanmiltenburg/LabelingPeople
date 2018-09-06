@@ -1,0 +1,5 @@
+[/EN#138180/people A girl] wearing [/EN#138181/clothing a short-sleeve floral print dress] with [/EN#138182/clothing a watch] on has [/EN#138183/other a microphone] and appears to be speaking or singing to [/EN#138184/people a man] with [/EN#138185/clothing a sports coat] , [/EN#138194/clothing orange shirt] and [/EN#138186/clothing hat] on [/EN#0/notvisual who] is playing [/EN#138187/instruments a guitar] .
+[/EN#138188/people A man] and [/EN#138180/people woman] stand facing [/EN#0/notvisual each other] , [/EN#138184/people the man] holding [/EN#138187/instruments an instrument] and [/EN#138180/people the woman] holding [/EN#138189/other a piece of paper] .
+[/EN#138180/people A woman] holding [/EN#138183/other a mic] and [/EN#138189/other a paper] on [/EN#138192/scene stage] with [/EN#138184/people a musician] .
+[/EN#138188/people A musician] and [/EN#138180/people a lady] with [/EN#138190/bodyparts brown hair] are about to sing .
+[/EN#138191/people Two entertainers] in [/EN#138193/other action] .

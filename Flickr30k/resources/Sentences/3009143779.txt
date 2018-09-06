@@ -1,0 +1,5 @@
+[/EN#87084/people A woman] wearing [/EN#87087/clothing a gold colored jacket] is walking down [/EN#87083/scene the street] while [/EN#87082/people a man] rides [/EN#87092/scene his bike right] past [/EN#0/notvisual her] .
+[/EN#87082/people A man] in [/EN#87088/clothing a helmet] bikes by [/EN#87084/people a young lady] with [/EN#87093/bodyparts blond-hair] checking [/EN#87085/other her phone] .
+[/EN#87084/people Blond woman] texting while [/EN#87082/people bicyclist] in [/EN#87088/scene helmet passes] in front of [/EN#0/notvisual her] .
+[/EN#87084/other Woman text] on [/EN#87085/other phone] while [/EN#87082/people man] on [/EN#87092/vehicles bike] passes [/EN#87091/other her by] .
+[/EN#87083/scene A street] shows [/EN#87089/other busy night life] .

@@ -1,0 +1,5 @@
+[/EN#29702/people A brunette female] is sitting on [/EN#29704/other a blue bench] [/EN#29711/scene outdoors] reading [/EN#29705/other a paper] while [/EN#29703/animals a bird] looks on .
+[/EN#29703/animals Pigeon] staring at [/EN#29702/people a woman] in [/EN#29709/clothing black boots] sitting on [/EN#29704/other a park bench] reading [/EN#29705/other a paper] .
+[/EN#29703/animals A seagull] watches [/EN#29702/people a woman] in [/EN#29707/clothing a sweater] and [/EN#29710/clothing scarf] reading [/EN#29705/other the newspaper] .
+[/EN#29702/people Woman] reading [/EN#29705/other a paper] , sitting on [/EN#29704/other a blue bench] , wearing [/EN#29706/clothing all black] .
+[/EN#29702/people A woman] dressed in [/EN#29706/clothing black] reading [/EN#29705/other the paper] while [/EN#29703/animals a pigeon] watches .

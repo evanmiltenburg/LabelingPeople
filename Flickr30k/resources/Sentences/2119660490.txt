@@ -1,0 +1,5 @@
+[/EN#29849/animals A brown dog] is laying on [/EN#0/notvisual his side] on [/EN#29850/other a beige carpet] , with [/EN#29851/other a green object] in [/EN#0/notvisual the foreground] .
+[/EN#29849/animals A brown dog] is rolling on [/EN#29853/other its back] on [/EN#29850/other a carpet] with [/EN#29854/other several green toys] nearby .
+[/EN#29849/animals A brown dog] is laying on [/EN#29852/other its back] on [/EN#29850/other a white carpet] with [/EN#29851/other a green ball] on [/EN#0/notvisual it] .
+[/EN#29849/animals The dog] is laying on [/EN#29852/other its back] near [/EN#29851/other a green ball] .
+[/EN#29849/animals A dog] lies on [/EN#29853/other its back] on [/EN#29850/other a dog bed] .

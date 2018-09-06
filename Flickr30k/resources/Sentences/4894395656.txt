@@ -1,0 +1,5 @@
+[/EN#215879/people Two people] ride [/EN#215883/vehicles their yellow bikes] down [/EN#215880/scene the road] together .
+[/EN#215879/people Two motorcyclists] traveling down [/EN#215880/scene the road] .
+[/EN#215879/people Two people] riding [/EN#215881/other yellow motorcycles] .
+[/EN#215882/other Two motorcyclist ride] down [/EN#215880/scene a street] .
+[/EN#215879/people Two people] ride [/EN#215881/other yellow motorcycles] .

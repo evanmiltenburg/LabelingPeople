@@ -1,0 +1,5 @@
+[/EN#211843/people A man] stands [/EN#211849/scene outside of a beautiful building] wearing [/EN#211844/clothing a neon green construction jacket] .
+[/EN#211843/people Man] in [/EN#211844/clothing reflective jacket] walking in front of [/EN#211848/other glass wall] and [/EN#211850/other red railing] .
+[/EN#211843/people A man] wearing [/EN#211844/clothing a safety jacket] is walking on [/EN#211845/people a platform of some type] .
+[/EN#211843/people A man] in [/EN#211844/clothing a neon yellow vest] is walking in [/EN#211846/scene a stone walkway] .
+[/EN#0/notvisual He] is walking fast to catch [/EN#211847/vehicles/scene the train] .

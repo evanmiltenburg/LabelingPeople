@@ -1,0 +1,5 @@
+[/EN#121310/people The boy] is wearing [/EN#121313/clothing blue sunglasses] and jumping by [/EN#121312/other a yellow rail] .
+[/EN#121310/people A young boy] is jumping in [/EN#0/notvisual the air] in front of [/EN#121311/other a concrete wall] .
+[/EN#121310/people A boy] jumps off [/EN#121311/other a short wall] with [/EN#121314/bodyparts his arms] out .
+[/EN#121310/people A dark-haired boy] in [/EN#121313/clothing sunglasses] is jumping .
+[/EN#121310/people a little boy] jumps off [/EN#121312/other a yellow railling] .

@@ -1,0 +1,5 @@
+[/EN#6770/people A woman] wearing [/EN#6771/clothing a blue sweater] sits at [/EN#6772/other a table] with [/EN#6772/other a colorful tablecloth] and clasps [/EN#6773/bodyparts her hands] together .
+[/EN#6770/people A woman] in [/EN#6771/clothing a blue shirt] has [/EN#6773/bodyparts her hands] folded on [/EN#6772/other a colorful table] .
+[/EN#6770/people A woman] dressed in [/EN#6771/clothing blue] clasps [/EN#6773/bodyparts her hands] together .
+[/EN#6770/people A woman] is being interviewed at [/EN#6772/other her dining table] .
+[/EN#6770/people Girl] in [/EN#6771/clothing a blue sweater] holding [/EN#6773/bodyparts her own hands] .

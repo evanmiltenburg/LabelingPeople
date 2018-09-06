@@ -1,0 +1,5 @@
+[/EN#202982/people Lady] holding [/EN#202987/bodyparts her head] out of [/EN#202983/vehicles white truck] staring at [/EN#202981/animals a cat] [/EN#0/notvisual who] is returning [/EN#202986/other said stare] .
+[/EN#202982/people An Asian woman] looks out [/EN#202984/other a car window] at [/EN#202981/animals a cat] sitting in [/EN#202985/scene the road] .
+[/EN#202982/people A driver] is staring out [/EN#202984/other her car window] at [/EN#202981/animals a cat] in [/EN#202985/scene the street] .
+[/EN#202982/people The lady] in [/EN#202983/vehicles the car] parked in [/EN#202985/scene the street] is looking at [/EN#202981/animals a cat] .
+[/EN#202981/animals A cat] looks up at [/EN#202982/people an Asian lady] in [/EN#202983/vehicles a white vehicle] .

@@ -1,0 +1,5 @@
+[/EN#15727/people A group of three men] in [/EN#15738/clothing white shirts] stand near [/EN#15732/other a police van] while [/EN#15728/people a man] in [/EN#15739/clothing a black jacket] with [/EN#15735/other a white stripe] sits on [/EN#15734/other the curb] .
+[/EN#15733/people A man] with [/EN#15740/bodyparts/people an injured arm] watches [/EN#15727/people three policemen] as [/EN#15736/other one] addresses [/EN#15731/people the police van driver] and [/EN#15737/other two others] walk away from [/EN#15732/other the van] .
+[/EN#15727/people The police] are on [/EN#0/notvisual the scene of what] ever happened , with [/EN#15728/people a handcuffed man] .
+[/EN#15727/people The men] are talking to [/EN#15731/people the person] in [/EN#15732/other the police van] .
+[/EN#15732/vehicles A police vehicle] in [/EN#15730/scene an urban area] .

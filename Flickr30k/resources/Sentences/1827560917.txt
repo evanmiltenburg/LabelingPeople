@@ -1,0 +1,5 @@
+[/EN#21604/animals A dog] with [/EN#21605/clothing a few leashes] and [/EN#21606/clothing a vest] on [/EN#21609/other pulls] at [/EN#21607/other something] with [/EN#21608/bodyparts its mouth] .
+[/EN#21604/animals A small black and white dog] in [/EN#21606/clothing a harness] is looking at [/EN#0/notvisual the camera]
+[/EN#21604/animals A dog] with [/EN#21606/clothing a reflective harness] looks at [/EN#0/notvisual the camera] .
+[/EN#21604/animals A dog] with [/EN#21607/other a toy] in [/EN#21608/bodyparts its mouth] eyes [/EN#0/notvisual the camera] .
+[/EN#21604/animals A dog] with [/EN#21606/clothing a harness] and [/EN#21607/other a toy] [/EN#21608/bodyparts its mouth] .

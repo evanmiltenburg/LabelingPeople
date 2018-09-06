@@ -1,0 +1,5 @@
+[/EN#1135/people A baseball player] in [/EN#1140/clothing red] leaps into [/EN#0/notvisual the air] to avoid [/EN#1139/people a player] in [/EN#1138/clothing blue] , [/EN#0/notvisual who] is shortly behind [/EN#0/notvisual him] as [/EN#0/notvisual he] catches [/EN#1142/other the ball] , while [/EN#1147/people other blue team members] look on in [/EN#0/notvisual the background] .
+[/EN#1136/people A boy] in [/EN#1140/clothing a red uniform] is attempting to avoid getting out at [/EN#1141/other home plate] , while [/EN#1139/people the catcher] in [/EN#1138/clothing the blue uniform] is attempting to catch [/EN#0/notvisual him] .
+[/EN#1135/people A baseball player] coming into [/EN#1141/other home plate] with [/EN#1146/other knee held high] and [/EN#1139/scene the catcher right] in front of [/EN#0/notvisual him] waiting for [/EN#1142/other the ball] .
+[/EN#1135/people A baseball player] attempting to score [/EN#1145/other a run] before [/EN#1139/people the catcher] tags [/EN#1135/people the player] out .
+[/EN#1139/people A baseball catcher] trying to tag [/EN#1135/people a base runner] in [/EN#1144/other a baseball game] .

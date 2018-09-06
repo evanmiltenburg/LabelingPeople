@@ -1,0 +1,5 @@
+[/EN#131816/people A man] sits on [/EN#131817/other the edge of a brige] , looking out , [/EN#131818/other fishing poles] behind [/EN#0/notvisual him] .
+[/EN#131816/people A man] sits on [/EN#131817/other the edge of a wooden bench] with [/EN#131818/other two fishing poles] behind [/EN#0/notvisual him] .
+[/EN#131816/people Someone] in [/EN#131822/clothing a yellow hat] is sitting next to [/EN#131818/other two fishing poles] .
+[/EN#131816/people The man] is sitting on [/EN#131820/other a wooden rail] near [/EN#131818/other two fishing poles] .
+[/EN#131816/people A man] sits on [/EN#131817/other a deck] , taking [/EN#131819/scene a break] from [/EN#131821/other fishing] .

@@ -1,0 +1,5 @@
+[/EN#247230/people A man] in [/EN#247232/clothing a orange shirt] is on [/EN#247233/other a ladder] working on [/EN#247234/other a power line] , as [/EN#247231/people several men] below [/EN#0/notvisual him] are loading [/EN#247240/vehicles their truck] with [/EN#247238/other equipment] while [/EN#247241/animals a dog] is watching .
+[/EN#247230/people A worker] in [/EN#247232/clothing an orange vest] and [/EN#247235/clothing hard hat] is on top of [/EN#247233/other a yellow ladder] working on [/EN#247234/other a phone line] , while [/EN#247239/people other men] work below .
+[/EN#247230/people A man] in [/EN#247232/clothing a fluorescent orange vest] and [/EN#247235/clothing hard hat] stands at [/EN#247236/other the top of a yellow ladder] fixing [/EN#247234/other a telephone wire] .
+[/EN#247230/people A man] is standing at [/EN#247236/other the top of a very tall ladder] in front of [/EN#247242/scene a pink building] .
+[/EN#247231/people Workers] prepare as [/EN#247230/people one employee] addresses [/EN#247237/other the electrical problem] first .

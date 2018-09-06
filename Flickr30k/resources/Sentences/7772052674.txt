@@ -1,0 +1,5 @@
+[/EN#274892/people A man] in [/EN#274895/scene a bar] drinks from [/EN#274904/people a pitcher] while [/EN#274903/people a man] in [/EN#274907/clothing a green hat] looks on and [/EN#274896/people a woman] in [/EN#274901/other a black shirt drink] from [/EN#274902/other a glass] .
+[/EN#274893/people Two males] and [/EN#274896/people a female] are sitting at [/EN#274897/other a table] at [/EN#274895/scene a bar] and [/EN#274906/other two] are drinking [/EN#274898/other beer] .
+[/EN#274893/people Two men] and [/EN#274896/people a woman] are sitting at [/EN#274897/other a table] inside [/EN#274895/scene a bar] and having [/EN#274905/other drinks] .
+[/EN#274893/people Two guys] and [/EN#274896/people one girl] are sitting at [/EN#274897/other a table] in [/EN#274895/scene a bar] drinking [/EN#274898/other beer] .
+[/EN#274900/people Three young people] drink [/EN#274899/other beers] at [/EN#274895/scene a bar] .

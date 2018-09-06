@@ -1,0 +1,5 @@
+[/EN#32493/people The scuba diver] floats underwater looking at [/EN#32497/scene the beauty of the sea] .
+[/EN#32494/people A person] wearing [/EN#32498/clothing scuba gear] is swimming underwater [/EN#32495/scene water] .
+[/EN#32494/people A person] is scuba diving in [/EN#32495/scene very clear blue water] .
+[/EN#32493/people A scuba diver] swims underwater while wearing [/EN#32496/other fins] .
+[/EN#32493/people A S.C.U.B.A. diver] swims in [/EN#32495/scene deep blue water] .

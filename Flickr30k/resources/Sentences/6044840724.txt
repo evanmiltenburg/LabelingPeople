@@ -1,0 +1,5 @@
+[/EN#247084/people A young man] in [/EN#247090/clothing a white button shirt] and [/EN#247091/other black pants assesses] [/EN#247087/people a washer] in [/EN#247086/scene a laundromat] .
+[/EN#247085/people Two men] checking on [/EN#247088/clothing their drying clothes] at [/EN#247086/scene the laundromat] .
+[/EN#247084/people A young man] looks inside [/EN#247087/people a washer] at [/EN#247086/scene a laundromat] .
+[/EN#247085/people Two patrons] are washing [/EN#247088/clothing clothes] at [/EN#247086/scene the laundromat] .
+[/EN#247085/people People] are in [/EN#247089/other a laundry mat] washing [/EN#247088/clothing clothes] .

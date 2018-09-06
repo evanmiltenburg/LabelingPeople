@@ -1,0 +1,5 @@
+[/EN#233118/people Several people] sit on [/EN#233120/other a low wall] and [/EN#233121/other several steps] in front of [/EN#233119/scene a brick building] with [/EN#233123/vehicles a row of bicycles] next to [/EN#0/notvisual it] .
+[/EN#233118/people A diverse group of people] sitting on [/EN#233121/other the steps] and [/EN#233120/other half wall] in front of [/EN#233119/other a school] .
+[/EN#233118/other People of all ages] casually relaxing on [/EN#233121/other stairs] in front of [/EN#233119/scene a college building] .
+[/EN#233122/people A group of women] and [/EN#233125/people men] gather outside of [/EN#233119/scene a university building] .
+[/EN#233118/people People] gathered outside [/EN#233119/scene a school building] .

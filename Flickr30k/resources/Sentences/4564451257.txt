@@ -1,0 +1,5 @@
+[/EN#178928/people A man] in [/EN#178930/clothing an orange top] and [/EN#178931/clothing blue pants] carries [/EN#178929/other a lot of boxes] while [/EN#178933/people a woman] pulling [/EN#178932/clothing a pink bag] goes in [/EN#0/notvisual the other direction] .
+[/EN#178928/people An Asian man] in [/EN#178930/clothing an orange jacket] carries [/EN#178929/other a high stack of boxes] .
+[/EN#178928/people A man] in [/EN#178930/clothing an orange jacket] and [/EN#178931/clothing blue pants] carrying [/EN#178929/other many boxes] .
+[/EN#178928/people A man] in [/EN#178930/clothing an orange sweater] carrying [/EN#178929/other a large amount of boxes] .
+[/EN#178928/people Man] carrying [/EN#178929/other too many boxes] .

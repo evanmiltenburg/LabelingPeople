@@ -1,0 +1,5 @@
+[/EN#87422/people Two men] playing [/EN#87424/other baseball] with [/EN#87421/other the one] in [/EN#87428/clothing the black and red jersey] running toward [/EN#87423/other base] .
+[/EN#87421/people one baseball player] running toward [/EN#87423/other a base] with [/EN#0/notvisual another] waiting on [/EN#87423/other the base]
+[/EN#87421/people A runner] heading toward [/EN#87423/other a base] while [/EN#87425/people the baseman] tries to tag [/EN#0/notvisual him] out .
+[/EN#87422/people These two people] are in [/EN#87427/clothing baseball uniforms] , making [/EN#87426/other a play] at [/EN#87423/other base] .
+[/EN#87422/people Two people] playing [/EN#87424/other baseball] .

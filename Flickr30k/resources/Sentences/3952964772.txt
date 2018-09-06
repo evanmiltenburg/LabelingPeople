@@ -1,0 +1,5 @@
+[/EN#149372/people A man] and [/EN#149373/people a woman] in with [/EN#149379/clothing a headscarf] and [/EN#149380/clothing a black apron] are leading [/EN#149376/animals two horned cattle] pulling [/EN#149374/vehicles a trailer] down [/EN#149375/scene a paved road] with [/EN#149378/other trees] in [/EN#0/notvisual the background] .
+[/EN#149373/people A woman] is leading [/EN#149377/other an oxen] pulled [/EN#149374/vehicles cart] , with [/EN#149372/people a man] walking beside [/EN#0/notvisual her] .
+[/EN#149373/people Woman] and [/EN#149372/people boy] in on [/EN#149375/scene the road] with [/EN#149376/animals 2 bulls] pulling [/EN#149374/vehicles a wagon] .
+[/EN#149372/people A man] and [/EN#149373/people a woman] are leading [/EN#149376/animals two cows] pulling [/EN#149374/vehicles a cart] .
+[/EN#149372/people A man] and [/EN#149373/people a woman] lead [/EN#149376/animals two cattle] down [/EN#149375/scene a road] .

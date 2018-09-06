@@ -1,0 +1,5 @@
+[/EN#284015/people A man] wearing [/EN#284016/clothing a tan trench coat] and [/EN#284019/clothing jeans] is sitting down and reading [/EN#284017/other a newspaper] .
+[/EN#284015/people A man] in [/EN#284016/clothing a long white coat] sits near [/EN#284018/scene a newsstand] reading [/EN#284017/other a newspaper] .
+[/EN#284015/people A man] in [/EN#284016/clothing a tan jacket] and [/EN#284019/clothing blue jeans] sits and looks at [/EN#284017/other the paper] .
+[/EN#284015/people A man] is reading [/EN#284017/other a newspaper] in front of [/EN#284018/scene a newspaper stand] .
+[/EN#284015/people A man] is sitting at [/EN#284018/scene a newsstand] , reading [/EN#284017/other a paper]

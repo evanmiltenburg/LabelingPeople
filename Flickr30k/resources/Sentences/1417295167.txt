@@ -1,0 +1,5 @@
+[/EN#12095/people A man] wearing [/EN#12099/clothing glasses] is reading [/EN#12097/other his cellphone] and holding [/EN#12096/other a drink] in [/EN#12098/bodyparts the other hand] .
+[/EN#12095/people A man] stares intently at [/EN#12097/other his cellphone] as [/EN#0/notvisual he] carries [/EN#12096/other a green-colored drink] .
+[/EN#12095/people The young man] is holding [/EN#12096/other a drink] and checking [/EN#12097/other his cellphone] .
+[/EN#12095/people A man] holds [/EN#12096/other a drink] in [/EN#12098/bodyparts one hand] and looks at [/EN#12097/other his cellphone] .
+[/EN#12095/people The man] holds [/EN#12096/other a drink] and uses [/EN#12097/other his cellphone] .

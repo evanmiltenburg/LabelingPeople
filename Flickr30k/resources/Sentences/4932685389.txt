@@ -1,0 +1,5 @@
+[/EN#219931/people A person] with [/EN#219934/clothing a red helmet] is riding [/EN#219933/vehicles a scooter] near [/EN#219931/people a person] riding [/EN#219936/vehicles a bicycle] on [/EN#219932/scene a cobblestone street] .
+[/EN#219931/people Person] dressed in [/EN#219938/clothing black] and wearing [/EN#219934/clothing a red helmet] is riding [/EN#219933/vehicles a light blue small motorbike] .
+[/EN#219931/people A man] with [/EN#219934/clothing a red helmet] is riding [/EN#219933/vehicles a silver scooter] on [/EN#219932/scene a cobblestone street] .
+[/EN#219931/people A woman] on [/EN#219933/vehicles a scooter] is stopped at [/EN#219932/scene a city intersection] .
+[/EN#219931/people A person] is riding on [/EN#219933/vehicles a scooter] .

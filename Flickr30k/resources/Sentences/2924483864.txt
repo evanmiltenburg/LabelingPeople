@@ -1,0 +1,5 @@
+[/EN#81728/animals A greyhound] with [/EN#81733/clothing a yellow and black striped jacket] with [/EN#81732/other a red number 8] on [/EN#0/notvisual it] is running on [/EN#81731/scene a track]
+[/EN#81728/animals White dog] with [/EN#81733/clothing yellow and black # 8 jacket] in front of [/EN#81728/animals pack of dogs] in [/EN#81730/other race]
+[/EN#81728/animals Muzzled greyhounds] are racing along [/EN#81731/scene a dog track] .
+[/EN#81728/animals Three greyhounds] are in [/EN#81730/other a dog race] at [/EN#81731/scene the track] .
+[/EN#81728/animals A dog] wearing [/EN#81732/other the number 8] leads in [/EN#81730/other a dog race] .

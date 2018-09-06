@@ -1,0 +1,5 @@
+[/EN#36656/vehicles A line of green and red dune buggys] on [/EN#36657/scene a gravel road] near [/EN#36659/other rocks] and [/EN#36658/other large pine trees] .
+[/EN#36656/vehicles Several off-road vehicles] are driving down [/EN#36657/scene a gravel road] .
+[/EN#36656/vehicles A caravan of green and red vehicles] going up [/EN#36657/scene a mountain] .
+[/EN#36656/vehicles A long line of off-road vehicles] on [/EN#36657/scene a mountain trail]
+[/EN#36656/vehicles A line of off road vehicles] riding along [/EN#36657/scene a trail] .

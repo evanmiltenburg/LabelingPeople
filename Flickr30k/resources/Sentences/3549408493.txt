@@ -1,0 +1,5 @@
+[/EN#126746/people A man] planting [/EN#126749/other seeds] in [/EN#126748/scene a garden] in front of [/EN#126751/scene a set of beautiful mountains] .
+[/EN#126746/people A man] in [/EN#126747/clothing a cowboy hat] is bending over to [/EN#126754/other work] in [/EN#126748/scene the garden] .
+[/EN#126746/people A man] with [/EN#126747/clothing a cowboy hat] is digging up [/EN#126753/scene roots] in [/EN#126748/scene the yard] .
+[/EN#126746/people Someone] wearing [/EN#126747/clothing a cowboy hat] is planting in [/EN#126752/other the soil] .
+[/EN#126746/people A lone farmer] plants [/EN#126749/other his crops] on [/EN#126750/scene a cloudy day] .

@@ -1,0 +1,5 @@
+[/EN#213574/people A young man] in [/EN#213579/clothing a green sweatshirt] holds [/EN#213580/people a young boy] with [/EN#213575/clothing a blue backpack] and [/EN#213577/clothing a yellow sweatshirt] in front of [/EN#213578/scene a run-down building] .
+[/EN#213574/people A young man] is holding [/EN#213580/people a small boy] [/EN#0/notvisual who] is wearing [/EN#213575/clothing a backpack] in front of [/EN#213578/scene a derelict building] in [/EN#213582/scene a poor country] .
+[/EN#213574/people A young caucasian man] is holding [/EN#213580/scene a little boy of perhaps Hispanic descent] in front of [/EN#213578/scene a worn building] .
+[/EN#213574/people A man] holding [/EN#213580/people a small child] [/EN#0/notvisual who] is wearing [/EN#213576/clothing a backpack] .
+[/EN#213574/people A man] in [/EN#213579/clothing a green sweater] holds [/EN#213580/people a young boy] .

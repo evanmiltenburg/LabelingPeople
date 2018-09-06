@@ -1,0 +1,5 @@
+[/EN#60737/animals Two brown dogs] play in [/EN#60738/scene shallow water]
+[/EN#60737/animals Two brown dogs] play in [/EN#60738/scene the water] .
+[/EN#60737/animals two brown dogs] playing [/EN#60738/scene some water]
+[/EN#60737/animals Two dogs] ankle-deep in [/EN#60738/scene water] .
+[/EN#60737/animals Two dogs] in [/EN#60738/scene shallow water] .

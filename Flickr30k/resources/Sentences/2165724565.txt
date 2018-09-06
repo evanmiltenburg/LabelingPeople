@@ -1,0 +1,5 @@
+[/EN#31872/people A woman] with [/EN#31875/bodyparts short black hair] in [/EN#31874/clothing a blue t-shirt] holds [/EN#31873/people a baby] in [/EN#31877/clothing pink clothes] with [/EN#31878/other a pacifier] .
+[/EN#31872/people A woman] with [/EN#31875/bodyparts short hair] holds [/EN#31873/people a small baby] in [/EN#31876/bodyparts her arms] .
+[/EN#31872/people The woman] with [/EN#31874/clothing the blue shirt] is holding [/EN#31873/people a baby] .
+[/EN#31872/people A woman] in [/EN#31874/clothing a blue shirt] talking to [/EN#31873/people a baby] .
+[/EN#31872/people A woman] talks to [/EN#31873/people her newborn child] .

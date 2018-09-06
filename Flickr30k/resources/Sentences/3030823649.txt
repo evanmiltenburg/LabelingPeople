@@ -1,0 +1,5 @@
+[/EN#88788/animals The German shepherd dog] is chasing after [/EN#88789/other a ball] .
+[/EN#88788/animals A tan and black dog] chases [/EN#88789/other a yellow ball] .
+[/EN#88788/animals/people A German shepherd] runs after [/EN#88789/other a tennis ball]
+[/EN#88788/animals Shepherd dog] catches [/EN#88789/other tennis ball]
+[/EN#88788/animals a dog] runs for [/EN#88789/other the tennis ball] .

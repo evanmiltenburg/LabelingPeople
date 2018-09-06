@@ -1,0 +1,5 @@
+[/EN#17821/people A man] in [/EN#17822/clothing a blue hat] and [/EN#17823/clothing green coat] is holding [/EN#17824/other a sign] [/EN#0/notvisual that] says slow , with [/EN#17825/other RVs] parked in [/EN#0/notvisual back of him] .
+[/EN#17821/people An older man] with [/EN#17824/other a " slow " sign] smiles at [/EN#0/notvisual the camera] .
+[/EN#17821/people A man] yields [/EN#17824/other a slow sign] at [/EN#17826/scene a docking area] .
+[/EN#17821/people The man] is holding [/EN#17824/other a SLOW sign] .
+[/EN#17821/people a man] is holding [/EN#17824/other a slow sign]

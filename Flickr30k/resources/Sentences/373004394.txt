@@ -1,0 +1,5 @@
+[/EN#140147/people A man] on [/EN#140152/scene the sidewalk] talks [/EN#140151/other a cellphone] and looks past [/EN#140148/people a man] on [/EN#140150/other the cellphone] in [/EN#140149/vehicles a car] .
+[/EN#140148/people A man] in [/EN#140149/vehicles silver car] talking on [/EN#140150/other cellphone] and [/EN#140147/people another man] standing on [/EN#140152/scene sidewalk] .
+[/EN#140147/people A man] talking on [/EN#140150/other his cellphone] while [/EN#140153/other driving] .
+[/EN#140147/people A man] in [/EN#140149/vehicles a silver car] talking on [/EN#140150/other a cellphone] .
+[/EN#140148/people A man] driving [/EN#140149/vehicles his car] is on [/EN#140150/other his cellphone] .

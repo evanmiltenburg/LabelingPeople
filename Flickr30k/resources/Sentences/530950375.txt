@@ -1,0 +1,5 @@
+[/EN#233361/people A man] dressed in [/EN#233364/clothing a black vest] , [/EN#233365/clothing black hat] , and [/EN#233367/clothing sunglasses] sits on [/EN#233362/vehicles a fancy bike] on [/EN#233363/scene a city sidewalk] .
+[/EN#233361/people Man] in [/EN#233366/clothing punkish outfit] rides [/EN#233362/vehicles unusual bike] on [/EN#233363/scene city sidewalk] .
+[/EN#233361/people A bike rider] sitting on [/EN#233362/vehicles his bike] on [/EN#233363/scene the sidewalk] .
+[/EN#233361/people A leather-clad man] rides [/EN#233362/vehicles a bicycle] down [/EN#233363/scene a street]
+[/EN#233361/people A man] is riding [/EN#233362/vehicles his bicycle] down [/EN#233363/scene the sidewalk] .

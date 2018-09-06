@@ -1,0 +1,5 @@
+[/EN#83310/people A man] in [/EN#83313/clothing boots] holding [/EN#83311/clothing a hard hat] is running on [/EN#83312/scene a street] .
+[/EN#83310/people A man] carrying [/EN#83311/clothing a hard hat] is running down [/EN#83312/scene the street] .
+[/EN#83310/people A man] holding [/EN#83311/clothing a white helmet] is running on [/EN#83312/scene a street] .
+[/EN#83310/people A man] holding [/EN#83311/clothing a hard hat] runs across [/EN#83312/scene a street] .
+[/EN#83310/people A man] holding [/EN#83311/clothing a white hard hat] running .

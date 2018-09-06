@@ -1,0 +1,5 @@
+[/EN#74568/people A dog owner] is running along side [/EN#74567/animals his pet] while [/EN#74567/animals the pet] avoids [/EN#74573/other obstacles] on [/EN#74569/other a course] .
+[/EN#74567/animals A dog] goes through [/EN#74569/other an obstacle course] while [/EN#74568/people his owner] runs beside [/EN#0/notvisual him] .
+[/EN#74568/people Man] in [/EN#74574/clothing red shirt] watches [/EN#74567/animals dog] on [/EN#74569/other an agility course] .
+[/EN#74568/people A man] and [/EN#74567/other a dog navigate] [/EN#74569/other an obstacle course] .
+[/EN#74568/people a man] runs with [/EN#74567/animals his dog] at [/EN#74572/other a dog show] .

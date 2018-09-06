@@ -1,0 +1,5 @@
+[/EN#104025/people A man] with [/EN#104030/clothing a dark hat] , [/EN#104028/clothing red coat] , [/EN#104029/clothing black pants] and [/EN#104032/clothing sneakers] jogs along side [/EN#104027/scene a frozen waterway] .
+[/EN#104025/people A man] is running along [/EN#104026/scene a boardwalk] near [/EN#104027/scene the water] and [/EN#104031/scene buildings] .
+[/EN#104025/people A person] jogs on [/EN#104027/scene a waters edge] in [/EN#104028/clothing a red jacket] and [/EN#104029/clothing black pants] .
+[/EN#104025/people man] wearing [/EN#104028/clothing red jacket] running next to [/EN#104027/scene frozen body of water]
+[/EN#104025/people A man] runs on [/EN#104026/scene a pier] beside [/EN#104027/scene a dirty body of water] .

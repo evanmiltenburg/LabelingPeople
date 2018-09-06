@@ -1,0 +1,5 @@
+[/EN#162706/people A man] looking at [/EN#162711/other some papers] while sitting at [/EN#162709/other a table] in [/EN#162708/scene a room] with [/EN#162715/other others] [/EN#0/notvisual who] are at [/EN#162713/other desks] and looking at [/EN#162712/other computers] .
+[/EN#162706/people A man] with [/EN#162710/clothing a white shirt] is sitting at [/EN#162709/other a table] in [/EN#162708/scene a room] with [/EN#162707/people other people] and [/EN#162716/other posters] along [/EN#162717/other the blue wall] .
+[/EN#162706/people A man] in [/EN#162710/clothing a white shirt] is sitting at [/EN#162709/other a table] looking at [/EN#162711/other some papers] .
+[/EN#162706/people A man] in [/EN#162710/clothing a white shirt] does work at [/EN#162709/other a table] .
+[/EN#162707/people Various people] doing [/EN#162714/other different activities] .

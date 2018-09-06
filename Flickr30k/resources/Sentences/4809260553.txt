@@ -1,0 +1,5 @@
+[/EN#205301/people A young man] with [/EN#205305/bodyparts long dark hair] wears [/EN#205304/clothing a red coat] with [/EN#205302/clothing a Mandarin-style collar] and plays [/EN#205303/instruments a yellow electric guitar] .
+[/EN#205301/people A person] in [/EN#205304/clothing red clothing] is playing [/EN#205303/instruments a guitar] in front of [/EN#205306/other a microphone] .
+[/EN#205301/people A boy] with [/EN#205305/bodyparts long hair] wearing [/EN#205304/clothing a long red jacket] is playing [/EN#205303/instruments the guitar] .
+[/EN#205301/people Young man] with [/EN#205305/bodyparts long dark hair] plays [/EN#205303/instruments a guitar] on [/EN#205307/scene stage] .
+[/EN#205301/people kid] in [/EN#205302/clothing red shirt] playing [/EN#205303/instruments the guitar]

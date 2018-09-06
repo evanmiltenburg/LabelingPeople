@@ -1,0 +1,5 @@
+[/EN#222248/people A woman] in [/EN#222251/clothing a white shirt] and [/EN#222252/clothing a skirt] is singing into [/EN#222250/other a microphone] .
+[/EN#222248/people Girl] singing on [/EN#222249/scene a darkly lit stage] with [/EN#222253/bodyparts her arms] stretched out .
+[/EN#222248/people A woman] standing on [/EN#222249/scene stage] singing in front of [/EN#222250/other a microphone] .
+[/EN#222248/people a woman] [/EN#0/notvisual who] is performing on [/EN#222249/scene stage] with [/EN#222250/other a microphone] .
+[/EN#222248/people A young woman] sings into [/EN#222250/other a microphone] .

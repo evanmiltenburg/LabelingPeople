@@ -1,0 +1,5 @@
+[/EN#123144/people A group] [/EN#123151/people a five people] wearing [/EN#123149/clothing the same shirt] are sitting on [/EN#123148/scene the grass] with [/EN#123147/animals a dog] .
+[/EN#123144/people 4 women] , [/EN#123153/people one child] and [/EN#123147/animals a black and white dog] sit outside at [/EN#123152/scene a social event] .
+[/EN#123150/people Boys] and [/EN#123144/people girls] wearing [/EN#123149/clothing navy blue shirts] smile for [/EN#0/notvisual the camera] .
+[/EN#123145/people People] sitting on [/EN#123148/scene the grass] with [/EN#123147/animals a black and white dog] .
+[/EN#123143/people Good friends] at [/EN#123148/scene a park] gathering .

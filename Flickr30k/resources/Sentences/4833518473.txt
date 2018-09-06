@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#208826/clothing a suit] , [/EN#208838/clothing shoes] and [/EN#208832/other accessories] in [/EN#208830/other a display window] in [/EN#208834/scene the road] .
+[/EN#208827/other Glass windows] showcase [/EN#208833/people a model of a man] sitting and wearing [/EN#208836/clothing black] .
+[/EN#208831/scene The entrance] to [/EN#208835/scene a store] with [/EN#208837/people people] walking in [/EN#0/notvisual the background] .
+[/EN#208827/scene Window of the fancy store] on [/EN#208839/scene the corner] .
+[/EN#208826/clothing A suit] on [/EN#208829/other display] in [/EN#208828/other a storefront] .

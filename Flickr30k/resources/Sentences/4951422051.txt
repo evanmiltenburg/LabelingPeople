@@ -1,0 +1,5 @@
+[/EN#222511/people A jockey] rides [/EN#222513/animals a horse] past [/EN#222514/scene a field of green grass] and [/EN#222516/other a bench] overlooking [/EN#222512/scene water] .
+[/EN#222511/people A jockey] rides [/EN#222513/animals a brown horse] on [/EN#222515/scene a sidewalk] by [/EN#222512/scene a body of water] .
+[/EN#222511/people A person] is riding [/EN#222513/animals a horse] next to [/EN#222512/scene a body of water] .
+[/EN#222511/people A person] in [/EN#222517/clothing a uniform] riding [/EN#222513/animals a horse] near [/EN#222512/scene water] .
+[/EN#222511/people A woman] riding [/EN#222513/animals a brown horse] next to [/EN#222512/scene a pond] .

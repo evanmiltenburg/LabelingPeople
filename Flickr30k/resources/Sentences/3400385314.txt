@@ -1,0 +1,5 @@
+[/EN#115677/people A smiling woman] in [/EN#115679/clothing a brown shirt] leans on [/EN#115678/people a man] in [/EN#115682/clothing a sweater] .
+[/EN#115678/people Man] with [/EN#115685/bodyparts brown hair] and [/EN#115677/people a woman] with [/EN#115686/bodyparts blond-hair] smile .
+[/EN#115677/people A woman] in [/EN#115679/clothing brown] and [/EN#115678/people a man] in [/EN#115682/other gray look] at [/EN#0/notvisual the camera] .
+[/EN#115681/people a couple] posing together [/EN#115683/other each] smiling
+[/EN#115678/people Two guys] and [/EN#115677/people a girl] smiling .

@@ -1,0 +1,5 @@
+[/EN#125401/people A group of people] sit in [/EN#125407/other a circle] outside around [/EN#125402/people a man] playing [/EN#125403/instruments a white accordion] .
+[/EN#125401/people A group of people] on [/EN#125404/scene a street] gather together to listen to [/EN#125403/instruments an accordion] .
+[/EN#125401/people People] gathered on [/EN#125404/scene a sidewalk] listening to [/EN#125402/people a man] play [/EN#125403/instruments an instrument] .
+[/EN#125405/people Seven people] are [/EN#125406/scene outside] listening to [/EN#125402/people a man] playing [/EN#125403/instruments his instrument] .
+[/EN#125402/people A guy] playing [/EN#125403/instruments an accordion] with [/EN#125405/people people] listening and watching .

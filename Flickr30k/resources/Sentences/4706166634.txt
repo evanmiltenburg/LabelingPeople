@@ -1,0 +1,5 @@
+[/EN#193337/people Two girls] running down [/EN#193341/scene the street] in front of [/EN#193338/scene a large building] with [/EN#193340/other white and red flags] by [/EN#193342/other the door] .
+[/EN#193337/people Two young girls] run on [/EN#193339/scene a sidewalk] outside of [/EN#193338/scene a brick building] with [/EN#193340/other banners] on [/EN#0/notvisual it] .
+[/EN#193337/people Two children] play on [/EN#193339/scene the street] outside [/EN#193338/scene an old building] .
+[/EN#193337/people Two people] walk on [/EN#193339/scene the sidewalk] past [/EN#193338/scene a brick building] .
+[/EN#193337/people Two people] are running along side [/EN#193338/scene a building] .

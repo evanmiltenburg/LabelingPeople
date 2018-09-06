@@ -1,0 +1,5 @@
+[/EN#183721/people A man] in [/EN#183728/clothing beige clothes] is sitting on [/EN#183725/vehicles/scene a bus] with [/EN#183722/clothing a messenger bag] slung across [/EN#183729/bodyparts his chest] , while [/EN#183727/people a woman] with [/EN#183726/clothing a purse] stands near [/EN#0/notvisual him] .
+[/EN#183721/people A man] holding [/EN#183722/clothing a briefcase] is seated on [/EN#183724/vehicles public transportation] .
+[/EN#183721/people A man] riding [/EN#183724/vehicles public transportation] sits holding [/EN#183722/clothing a black bag] .
+[/EN#183721/people An old man] sitting on [/EN#183723/vehicles/scene a bus] holding [/EN#183722/clothing a briefcase] .
+[/EN#183721/people A man] holding [/EN#183722/clothing a briefcase] on [/EN#183723/vehicles/scene a subway] .

@@ -1,0 +1,5 @@
+[/EN#53817/people A man] uses [/EN#53818/vehicles a bicycle] to transport [/EN#53816/other a sight] [/EN#0/notvisual that] says " Lovely , " while [/EN#53817/people another man] on [/EN#53819/vehicles a motor scooter] drives by .
+[/EN#53820/people A bicyclist] passes with [/EN#53816/other a giant sign] [/EN#0/notvisual that] reads " lovely . "
+[/EN#53821/people A man] advertises with [/EN#53816/other a giant sign] tied onto [/EN#53818/vehicles his bicycle] .
+[/EN#53816/other A long , green board] [/EN#0/notvisual that] has " [/EN#53816/people lovely] " written on [/EN#0/notvisual it] .
+[/EN#53817/people A man] on [/EN#53819/vehicles a moped] is riding down [/EN#53824/scene the street] .

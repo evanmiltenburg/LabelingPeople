@@ -1,0 +1,5 @@
+[/EN#99722/animals a dog] wearing [/EN#99723/clothing a black collar] is standing open mouthed in [/EN#99724/scene the snow] .
+[/EN#99722/animals A tan dog] with [/EN#99723/clothing a black collar] barking in [/EN#99724/scene the snow] .
+[/EN#99722/animals A brown dog] barks surrounded by [/EN#99724/scene white snow] .
+[/EN#99722/animals Dog] standing in [/EN#99724/scene snow] barking .
+[/EN#99722/animals dog] barking

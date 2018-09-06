@@ -1,0 +1,5 @@
+[/EN#206477/people A man] wearing [/EN#206478/clothing a light green t-shirt] and [/EN#206482/clothing yellow safety earmuffs] around [/EN#206480/bodyparts his head] stares at [/EN#206481/other something] through [/EN#206479/vehicles the safety cage of his vehicle] .
+[/EN#206477/people A man] peers from behind [/EN#206479/other the protective cage of a piece] of [/EN#206485/other heavy machinery] while wearing [/EN#206482/clothing protective headphones] on [/EN#206480/bodyparts his head] .
+[/EN#206477/people An older man] in [/EN#206478/clothing a green t-shirt] and [/EN#206484/clothing gray hat] is looking at [/EN#206481/other something] very intently .
+[/EN#206477/people A man] wearing [/EN#206483/people ear guards] [/EN#0/notvisual who] is looking through [/EN#206479/other a screen] at [/EN#206486/other something] intensely .
+[/EN#206477/people A man] in [/EN#206488/scene a crane cockpit] is intently watching [/EN#206481/other his work] .

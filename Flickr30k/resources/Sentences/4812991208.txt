@@ -1,0 +1,5 @@
+[/EN#205780/people A girl] in [/EN#205779/clothing a green sweatshirt] checks out at [/EN#205776/scene a store] filled with [/EN#205778/other Pokemon items] .
+[/EN#205776/scene A store] with [/EN#205778/other pokemon items] and [/EN#205784/other pokemon balls] in front of [/EN#205785/other the registers] .
+[/EN#205780/people A young man] in [/EN#205779/clothing a green shirt] is making [/EN#205782/other a purchase] at [/EN#205783/scene a store] .
+[/EN#205777/people People] are looking at [/EN#205778/other children 's toys] in [/EN#205776/scene a store] .
+[/EN#205777/people People] are busy shopping at [/EN#205776/scene a grocery store] .

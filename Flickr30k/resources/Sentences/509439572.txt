@@ -1,0 +1,5 @@
+[/EN#228816/people A man] and [/EN#228817/people a woman] are in [/EN#228814/scene a parking lot] moving [/EN#228818/scene some seats] .
+[/EN#228811/people Two people] are carrying [/EN#228815/scene rows of white and teal seats] .
+[/EN#228812/people People] set up [/EN#228815/other rows of chairs] next to [/EN#228813/other a storage box] .
+[/EN#228811/people People] setting up [/EN#228815/other chairs] outside in [/EN#228814/scene a parking lot] .
+[/EN#228812/people 3 guys] setting up [/EN#228815/other chairs] from [/EN#228813/other a container]

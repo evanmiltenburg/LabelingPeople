@@ -1,0 +1,5 @@
+[/EN#172000/people A woman] in [/EN#172005/clothing a tan shirt] is addressing [/EN#171998/people a group of people] in [/EN#171999/scene a restaurant] .
+[/EN#171998/people A group of people] are at [/EN#172004/other tables] looking towards [/EN#172002/people a speaker] .
+[/EN#171998/people A group of elderly people] are meeting together in [/EN#171999/scene a room] .
+[/EN#171998/people A group of people] are conversing with [/EN#0/notvisual one another] .
+[/EN#171998/people People] are gathered at [/EN#172001/other a meeting] .

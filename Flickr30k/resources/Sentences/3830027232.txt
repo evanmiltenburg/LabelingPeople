@@ -1,0 +1,5 @@
+[/EN#144775/people Two people] standing behind [/EN#144778/other a Sonoma display] and [/EN#144780/people a woman] with [/EN#144779/other a stroller] on [/EN#0/notvisual the other side] .
+[/EN#144775/people Two workers] help [/EN#144776/people customers] at [/EN#144781/people/scene the Sonoma Artisan Sourdough Baker] stand .
+[/EN#144775/people Two people] selling [/EN#144774/other baked goods] at [/EN#144773/scene a booth] .
+[/EN#144773/scene A stand] selling [/EN#144774/other Sonoma artisan sourdough] .
+[/EN#144775/people Two people] are working at [/EN#144773/scene a bread booth] .

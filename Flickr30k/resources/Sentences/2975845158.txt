@@ -1,0 +1,5 @@
+[/EN#85064/people A boy] and [/EN#85071/people girl] ride in [/EN#85067/vehicles/scene the front of a small train] labeled " Mississippi Train " .
+[/EN#85069/people A group of adults] and [/EN#85066/people children] are riding on [/EN#85068/other a train ride] .
+[/EN#85063/people A bunch of kids] are riding on [/EN#85067/vehicles/scene a little train] .
+[/EN#85063/people Children] on [/EN#85067/vehicles/scene a train] , at [/EN#85070/scene an amusement park] .
+[/EN#85066/people Young kids] are on [/EN#85068/other a small train ride] .

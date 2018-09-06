@@ -1,0 +1,5 @@
+[/EN#226607/people A woman] wearing [/EN#226612/clothing shorts] is holding [/EN#226609/animals a tan dog] while [/EN#226608/animals a white dog] jumps up in front of [/EN#0/notvisual her] .
+[/EN#226607/people Woman] on [/EN#226610/scene grass] , cradling [/EN#226609/animals small dog] as [/EN#226608/animals another dog] jumps up .
+[/EN#226607/people A lady] in [/EN#226610/scene a yard] holding [/EN#226609/animals a dog] while [/EN#226608/animals another dog] is jumping
+[/EN#226608/animals A white dog] jumps at [/EN#226607/people a woman] holding [/EN#226609/animals another dog] .
+[/EN#226607/people Lady] playing with [/EN#226611/animals her two dogs] in [/EN#226610/scene the yard] .

@@ -1,0 +1,5 @@
+[/EN#136152/people A dark-skinned man] standing outside [/EN#136153/scene a small yellow building] [/EN#0/notvisual which] is [/EN#136156/other setup] to sell [/EN#136155/other items] .
+[/EN#136152/people The man] is standing next to [/EN#136153/scene a yellow building] with [/EN#136154/other a blue window] .
+[/EN#136152/people A man] is standing outside of [/EN#136153/scene a yellow building] .
+[/EN#136152/people A man] is standing outside [/EN#136153/scene a yellow building] .
+[/EN#136152/people A man] standing in front of [/EN#136153/scene a yellow building]

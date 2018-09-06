@@ -1,0 +1,5 @@
+[/EN#44307/animals A dog] jumps up on [/EN#44311/scene the beach] with [/EN#44308/other rocks] in [/EN#0/notvisual the foreground] .
+[/EN#44307/animals A wet dog] is jumping through [/EN#44309/scene some water] on [/EN#44311/scene a beach] .
+[/EN#44307/animals A dog] is jumping as [/EN#0/notvisual he] turns around on [/EN#44311/scene a beach] .
+[/EN#44307/animals A dog] jumps out of [/EN#44309/scene the waves] at [/EN#44311/scene the beach] .
+[/EN#44307/animals A wet dog] jumps in [/EN#44310/other the surf] .

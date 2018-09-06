@@ -1,0 +1,5 @@
+[/EN#73881/people A man] at [/EN#73890/scene a podium] standing behind [/EN#73884/other his laptop] with [/EN#73887/other a microphone] giving [/EN#73882/other a presentation] in front of [/EN#73883/other a poster] .
+[/EN#73881/people Man] reads off of [/EN#73884/other laptop] while giving [/EN#73882/other a presentation] with [/EN#73883/other a lighted advertisement sign] behind [/EN#0/notvisual him] .
+[/EN#73881/people A man] in [/EN#73891/clothing a white checkered shirt] gives [/EN#73882/other a business presentation] with [/EN#73883/other a slide show] behind [/EN#0/notvisual him] .
+[/EN#73881/people A man] stands in front of [/EN#73883/other a slide show] and gives [/EN#73886/other a presentation] .
+[/EN#73881/people Man] with [/EN#73884/other computer] giving [/EN#73886/other speech] .

@@ -1,0 +1,5 @@
+[/EN#41249/people A woman] on [/EN#41254/other the phone] is standing at [/EN#41253/scene the end of the subway entrance] while [/EN#41248/people a man] with [/EN#41256/clothing a black hat] stares straight at [/EN#0/notvisual the camera] .
+[/EN#41249/people A woman] , talking on [/EN#41250/other her cellphone] , and [/EN#41248/people a man] are standing outside of [/EN#41252/scene a Sbarro pizza restaurant] , next to [/EN#41253/vehicles/scene the subway] .
+[/EN#41248/people A man] looks at [/EN#0/notvisual the camera] as [/EN#0/notvisual he] stands outside [/EN#41253/scene a subway entrance] , while [/EN#41249/people a girl] behind [/EN#0/notvisual him] talks on [/EN#41254/other her cellphone] .
+[/EN#41248/people A man] and [/EN#41249/people woman] wait outside [/EN#41255/scene the entrance railing of a subway station] outside of [/EN#41251/other a Sbarro] italian [/EN#41252/scene restaurant] .
+[/EN#41249/people A woman] is on [/EN#41254/other her cellphone] at [/EN#41255/other the top of the subway steps] .

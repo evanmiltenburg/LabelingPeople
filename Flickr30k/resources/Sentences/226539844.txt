@@ -1,0 +1,5 @@
+[/EN#37712/people Three police officers] [/EN#37713/people 2 male 1 female] standing around [/EN#37711/people a girl] holding [/EN#37716/other something] in [/EN#37720/bodyparts her hands] .
+[/EN#37711/people A woman] is talking with [/EN#37713/people two policemen] in [/EN#37719/clothing yellow jackets] at [/EN#37714/scene an outdoor event] .
+[/EN#37712/people Three police officers] talking to [/EN#37711/people a young woman] at [/EN#37714/scene an outdoor music event] .
+[/EN#37712/people Several police officers] in [/EN#37718/other yellow circle] around [/EN#37711/people a young woman] .
+[/EN#37711/people A woman] with [/EN#37715/clothing a black shirt] laughs with [/EN#37712/people some police officers] .

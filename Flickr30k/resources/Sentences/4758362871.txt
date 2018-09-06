@@ -1,0 +1,5 @@
+[/EN#199591/people A cyclist] in [/EN#199594/clothing a yellow shirt] and [/EN#199599/clothing blue helmet] is cycling past [/EN#199592/scene a building] covered in [/EN#199592/other graffiti] .
+[/EN#199591/people A bicyclist] wearing [/EN#199594/clothing a yellow shirt] and [/EN#199598/clothing black shorts] , riding by [/EN#199592/other a wall of graffiti] .
+[/EN#199597/other A bicyclists drive] by [/EN#199592/scene a building] covered in [/EN#199592/other graffiti] .
+[/EN#199591/people A bicyclist] pedals by [/EN#199592/other a wall] covered in [/EN#199592/other graffiti] .
+[/EN#199591/people Cyclist] in [/EN#199594/clothing yellow shirt] rides past [/EN#199592/other graffiti] .

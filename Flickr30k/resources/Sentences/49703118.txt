@@ -1,0 +1,5 @@
+[/EN#224453/people A smiling man] holding [/EN#224454/other a cigarette] in [/EN#224459/bodyparts one hand] and [/EN#224455/other a sledgehammer] in [/EN#224460/other the other] .
+[/EN#224453/people A man] holding [/EN#224455/other a sledgehammer] and [/EN#224454/other a cigarette] in front of [/EN#224461/people two other men] .
+[/EN#224453/people A white man] [/EN#0/notvisual who] is smoking and has [/EN#224455/other a hammer] between [/EN#224457/bodyparts his legs] .
+[/EN#224453/people A man] wearing [/EN#224456/clothing a gray shirt] is holding [/EN#224455/other a hammer] .
+[/EN#224453/people A man] in [/EN#224458/clothing jeans] holding [/EN#224455/other a sledgehammer] .

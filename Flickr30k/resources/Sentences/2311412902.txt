@@ -1,0 +1,5 @@
+[/EN#40804/people A person] in [/EN#40806/clothing a safety vest] inspecting [/EN#40805/other rook shingles] .
+[/EN#40804/people A worker] in [/EN#40806/clothing a vest] is inspecting [/EN#40805/other tiles] on [/EN#40805/scene a roof] .
+[/EN#40804/people A man] in [/EN#40806/clothing a yellow vest] kneels on [/EN#40805/scene a roof] .
+[/EN#40804/people a man] carefully inspects [/EN#40805/other the roof tiles] .
+[/EN#40804/people Man] on [/EN#40805/scene roof] touching [/EN#40808/other a shingle] .

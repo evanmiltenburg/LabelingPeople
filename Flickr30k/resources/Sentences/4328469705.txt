@@ -1,0 +1,5 @@
+[/EN#163340/people A guy] in [/EN#163346/clothing a black shirt] is laughing at [/EN#163342/other a purple thing] in [/EN#163341/bodyparts another guy 's hair] .
+[/EN#163340/people A boy] is looking on [/EN#163342/other a strange purple object] in [/EN#163343/bodyparts his friends hair] .
+[/EN#163341/people A person] in [/EN#163348/clothing white shirt] with [/EN#163342/other something] purple in [/EN#163343/bodyparts their hair] .
+[/EN#163340/people A boy] looking at [/EN#163342/other something] purple in [/EN#163341/bodyparts another boy 's hair] .
+[/EN#163345/people Two boys] , [/EN#163340/other one] with [/EN#163342/other a purple thing] in [/EN#163343/bodyparts his hair] .

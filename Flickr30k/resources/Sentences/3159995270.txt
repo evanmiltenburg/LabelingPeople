@@ -1,0 +1,5 @@
+[/EN#97341/people A female skier] in [/EN#97345/clothing a green] with [/EN#97346/other pink flowers] hat [/EN#97343/other skiing] .
+[/EN#97341/people A woman] wearing [/EN#97347/clothing a white coat] skis down [/EN#97344/scene a snowy hill] .
+[/EN#97341/other The girl skies] down [/EN#97344/scene the snowy mountain] .
+[/EN#97341/people A woman] skiing
+[/EN#97341/people A woman] skies

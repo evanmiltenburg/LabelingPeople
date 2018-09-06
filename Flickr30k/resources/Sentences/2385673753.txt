@@ -1,0 +1,5 @@
+[/EN#45607/people A person] with [/EN#45609/bodyparts black hair] and [/EN#45613/clothing a blue uniform] is standing on [/EN#45610/scene the sidewalk] .
+[/EN#45607/people A man] cleans [/EN#45614/other a strange device] in [/EN#45612/scene the middle of a busy urban setting] .
+[/EN#45607/people A black man] with [/EN#45609/bodyparts long braids] standing in front of [/EN#45608/scene a street booth] .
+[/EN#45607/people A man] hosing out [/EN#45611/scene the inside of a kiosk] .
+[/EN#45607/people A man] is waiting to go in [/EN#45608/scene the booth] .

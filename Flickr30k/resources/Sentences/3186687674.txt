@@ -1,0 +1,5 @@
+[/EN#99514/people A dark-haired man] wearing [/EN#99521/clothing a dark gray shirt] and [/EN#99523/people a light-haired man] wearing [/EN#99525/clothing a tan shirt] are sitting in [/EN#99520/other black office chairs] in [/EN#99516/scene a dark gray room] in front of [/EN#99517/other a pale gray screen] while [/EN#0/notvisual they] use [/EN#99518/other a sound synthesizer] .
+[/EN#99515/people Two men] sitting in [/EN#99520/other office chairs] looking at [/EN#99517/other an image] on [/EN#99517/other a large screen] in front of [/EN#0/notvisual them] .
+[/EN#99514/people A man] in [/EN#99521/clothing a black shirt] is working on [/EN#99518/other a massive control panel] .
+[/EN#99515/people Two men] sitting in [/EN#99516/scene a studio room] watching [/EN#99517/other a tv] or [/EN#99524/other a movie]
+[/EN#99515/people Two men] are watching [/EN#99517/other a video] from [/EN#99516/scene a control room] .

@@ -1,0 +1,5 @@
+[/EN#74611/people A man] in [/EN#74612/clothing a straw hat] is digging with [/EN#74613/other a shovel] .
+[/EN#74611/people A man] wearing [/EN#74612/clothing a white hat] is shoveling [/EN#74616/scene dirt] .
+[/EN#74611/people A man] uses [/EN#74613/other a shovel] to dig in [/EN#74614/scene a green field] .
+[/EN#74611/people An older man] digging [/EN#74615/scene a hole] .
+[/EN#74611/people A man] in [/EN#74612/clothing a hat] is digging .

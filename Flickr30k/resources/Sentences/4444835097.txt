@@ -1,0 +1,5 @@
+[/EN#168898/people A man] in [/EN#168905/clothing a white shirt] and [/EN#168908/clothing blue jeans] is seated by [/EN#168899/scene the road] hitchhiking , backdropped by [/EN#168902/other a field of flowers] and [/EN#168904/other a large green tree] .
+[/EN#168898/people A young man] is looking for [/EN#168907/other a ride] on [/EN#168899/scene a country road] , sitting on [/EN#168903/scene a grassy field] with [/EN#168904/other a large tree] and [/EN#168909/scene mansion] in [/EN#0/notvisual the background] .
+[/EN#168898/people A man] sitting outside on [/EN#168902/scene the grass] near [/EN#168900/scene a field] and [/EN#168904/other a nice tree] .
+[/EN#168898/people A man] wearing [/EN#168905/clothing a white shirt] is sitting on [/EN#168902/scene grass] beside [/EN#168901/scene a road] .
+[/EN#168910/instruments A male playing air guitar] on [/EN#168903/scene a green field] .

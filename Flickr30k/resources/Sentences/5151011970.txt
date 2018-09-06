@@ -1,0 +1,5 @@
+[/EN#229942/people A man] in [/EN#229953/clothing a black shirt] mans [/EN#229944/other a sidewalk cafe] facing [/EN#229950/scene the sidewalk] in [/EN#229946/scene an urban area] .
+[/EN#0/notvisual There] is [/EN#229944/scene a shop] in [/EN#229949/scene a foreign country] with [/EN#229942/people a man] behind [/EN#229943/other the counter] .
+[/EN#229942/people A man] is serving [/EN#229952/other food] at [/EN#229951/scene a stand] [/EN#0/notvisual that] has graffiti on [/EN#0/notvisual it] .
+[/EN#0/notvisual There] is [/EN#229942/people a man] behind [/EN#229943/other a counter] in [/EN#229945/scene an urban setting] .
+[/EN#229948/people Two men] talking while operating [/EN#229944/other a sidewalk cafe] .

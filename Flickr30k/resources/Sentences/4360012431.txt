@@ -1,0 +1,5 @@
+[/EN#164806/people Two boys] wearing [/EN#164809/clothing colorful winter hats] and [/EN#164810/clothing dark coats] are riding [/EN#164808/vehicles bikes] and smiling at [/EN#0/notvisual each other] .
+[/EN#164805/people Child] and [/EN#164804/people adult] wearing [/EN#164809/clothing winter attire] riding [/EN#164808/vehicles bicycles] down [/EN#164807/scene the street] .
+[/EN#164806/people Two people] with [/EN#164809/clothing winter hats] riding [/EN#164808/vehicles bikes] on [/EN#164807/scene a sidewalk] .
+[/EN#164806/people Two people] riding [/EN#164808/vehicles bikes] smile at [/EN#0/notvisual each other] .
+[/EN#164804/people A man] and [/EN#164805/people a boy] riding [/EN#164808/vehicles their bikes] together .

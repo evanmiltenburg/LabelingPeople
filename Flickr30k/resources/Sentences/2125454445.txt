@@ -1,0 +1,5 @@
+[/EN#30131/animals A small black and white dog] on [/EN#30133/clothing a leash] wearing [/EN#30134/clothing a shirt] carrying [/EN#30132/other a large stick] .
+[/EN#30131/animals A black and white dog] in [/EN#30134/clothing a plaid coat] is carrying [/EN#30132/other a very long stick] .
+[/EN#30131/animals A black and white dog] in [/EN#30131/other a dog-shirt] carrying [/EN#30132/other a long piece of wood] .
+[/EN#30131/animals A black and white dog] on [/EN#30133/clothing a leash] is wearing [/EN#30134/clothing a plaid outfit] .
+[/EN#30131/animals A small dog] plays with [/EN#30132/other a very big limb] .

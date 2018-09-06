@@ -1,0 +1,5 @@
+[/EN#8509/animals The dog] is sitting on [/EN#8510/scene the side of the hill] .
+[/EN#8509/animals A brown dog] is sitting in [/EN#8510/scene some long grass] .
+[/EN#8509/animals A large yellow dog] is sitting on [/EN#8510/scene a hill] .
+[/EN#8509/animals A large tan dog] sits on [/EN#8510/scene a grassy hill] .
+[/EN#8509/animals A brown dog] sits still on [/EN#8510/other a hillside] .

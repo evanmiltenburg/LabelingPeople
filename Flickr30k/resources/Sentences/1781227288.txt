@@ -1,0 +1,5 @@
+[/EN#20354/people a man] wearing [/EN#20358/clothing a yellow shirt] standing in [/EN#20362/people the middle of a bunch] of [/EN#20360/other garbage] and [/EN#20355/other a graffitied wall] .
+[/EN#20354/people A man] wearing [/EN#20358/clothing a yellow shirt] is standing in front of [/EN#20355/other a cement wall] with [/EN#20356/other drawings] on [/EN#0/notvisual it] .
+[/EN#20354/people A man] wearing [/EN#20358/clothing a yellow shirt] standing near [/EN#20360/other some refuse] .
+[/EN#20354/people A man] stands near [/EN#20360/other garbage] and [/EN#20357/other a spray] painted drawing .
+[/EN#20354/people A man] in [/EN#20358/clothing yellow] stands in [/EN#20361/other a garbage strewn underpass] .

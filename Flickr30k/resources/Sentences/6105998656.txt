@@ -1,0 +1,5 @@
+[/EN#248061/people A man] in [/EN#248063/clothing a jacket] in [/EN#248061/other sweats] is sitting on [/EN#248064/scene the sidewalk] in front of [/EN#248064/other a brick wall] .
+[/EN#248061/people A man] in [/EN#248066/clothing a green hat] and [/EN#248063/clothing gray jacket] sits outside on [/EN#248064/scene a street corner] .
+[/EN#248061/people A bearded man] in [/EN#248063/clothing a heavy jacket] sits in [/EN#248062/scene a corner] with [/EN#248067/other a paper cup] .
+[/EN#0/notvisual This] is perhaps [/EN#248061/people a homeless man] sitting at [/EN#248062/scene a corner of a building] .
+[/EN#248061/people A grungy looking man] sits on [/EN#248068/clothing a plaid bag] in [/EN#248062/scene a corner] outside .

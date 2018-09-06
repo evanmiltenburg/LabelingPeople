@@ -1,0 +1,5 @@
+[/EN#123213/people A man] in [/EN#123215/clothing a blue shirt] is performing [/EN#0/notvisual a skateboarding trick] near [/EN#123219/other stiars] while [/EN#123218/people two other men] watch .
+[/EN#123213/people A boy] in [/EN#123215/clothing blue] jumps [/EN#123217/other his skateboard] off [/EN#123219/other some steps] while [/EN#123218/people his friends] watch .
+[/EN#123213/people A boy] in [/EN#123215/clothing blue] jumps on [/EN#123217/other a skateboard] while [/EN#123222/other two others] watch [/EN#0/notvisual him]
+[/EN#123214/people A group of skaters] are at [/EN#123216/scene a skate park] .
+[/EN#123214/people Three skateboarders] are in [/EN#123216/scene a park] .

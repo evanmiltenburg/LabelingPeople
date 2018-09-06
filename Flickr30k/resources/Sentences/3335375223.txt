@@ -1,0 +1,5 @@
+[/EN#110397/people A man] in [/EN#110399/clothing a green-glow vest] is standing next to [/EN#110398/other an orange advertising sign] .
+[/EN#110397/people a man] in [/EN#110399/clothing a yellow hi-viz jacket] is standing beside and [/EN#110398/other orange sign] .
+[/EN#110397/people A security guard] standing beside [/EN#110398/other a bright orange advertisement] .
+[/EN#110397/people A man] in [/EN#110399/clothing a security vest] stands by [/EN#110398/other a sign] .
+[/EN#110397/people A security guard] points at [/EN#110398/other a sign] .

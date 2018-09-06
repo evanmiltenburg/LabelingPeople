@@ -1,0 +1,5 @@
+[/EN#284261/people A crowd of people] stands around [/EN#284265/scene a game booth] at [/EN#284266/scene some kind of fair] .
+[/EN#284261/people A crowd of people] at [/EN#284265/scene an outdoor event] .
+[/EN#284264/scene A fair] in [/EN#284268/other texas] with [/EN#284261/people many people] .
+[/EN#284263/people people] at [/EN#284266/scene the park] under [/EN#284269/other the trees]
+[/EN#284262/people Adults] and [/EN#284267/people children] at [/EN#284264/scene a fair] .

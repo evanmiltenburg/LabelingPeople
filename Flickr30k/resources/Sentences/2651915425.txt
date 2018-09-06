@@ -1,0 +1,5 @@
+[/EN#63949/people A smiling boy] swims , with [/EN#63952/bodyparts only his head] above [/EN#63950/scene the water] .
+[/EN#63949/people A boy] smiles and swims in [/EN#63950/scene blue water] .
+[/EN#63949/people A boy] smiles while [/EN#0/notvisual he] swims .
+[/EN#63949/people a boy] swims in [/EN#63950/scene the pool] .
+[/EN#63949/people A smiling child] swims .

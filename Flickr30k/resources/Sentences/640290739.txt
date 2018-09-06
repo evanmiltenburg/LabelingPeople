@@ -1,0 +1,5 @@
+[/EN#253947/people A crowd] is watching [/EN#253949/people a group of people] in [/EN#253953/clothing orange shirts] put on [/EN#253948/other an exhibition of some sort] .
+[/EN#253947/people An audience] is watching [/EN#253950/people people] in [/EN#253951/clothing orange] and [/EN#253956/clothing white outfits] pushing [/EN#253954/other shelves] on [/EN#253955/other wheels] .
+[/EN#253949/people People] in [/EN#253951/clothing orange shirts] roll [/EN#253957/vehicles carts] while [/EN#253947/people people] watch [/EN#0/notvisual them] .
+[/EN#253948/other A demonstration] in [/EN#253958/scene the middle of a crowded airport] .
+[/EN#253952/other A competition] with [/EN#253950/people a large crowd] watching .

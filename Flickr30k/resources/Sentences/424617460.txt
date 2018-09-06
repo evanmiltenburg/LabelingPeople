@@ -1,0 +1,5 @@
+[/EN#160249/people A man] operates [/EN#160256/scene a fruit stand] , primarily consisting of [/EN#160254/other bananas] .
+[/EN#160249/people A man] in [/EN#160252/other a turban displays fruit] on [/EN#160257/vehicles two carts] on [/EN#160255/scene a dusty path] .
+[/EN#160249/people a man] in [/EN#160253/other a turbine] pushes [/EN#160251/other a cart of bananas] .
+[/EN#160249/people A man] is standing by [/EN#160250/vehicles a fruit cart] .
+[/EN#160249/people man] pushing [/EN#160250/vehicles cart] full of [/EN#160254/other bananas]

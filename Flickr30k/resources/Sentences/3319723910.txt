@@ -1,0 +1,5 @@
+[/EN#109135/people A man] wearing [/EN#109141/clothing a black shirt] rides [/EN#109136/other his skateboard] along [/EN#109140/other the top of a ledge] .
+[/EN#109135/people The skateboarder] does [/EN#0/notvisual a trick] near [/EN#109142/scene a construction site] .
+[/EN#109135/people A guy] on [/EN#109136/other a skateboard] is doing [/EN#109137/other a stunt] at [/EN#109138/other dusk] .
+[/EN#109135/people A guy] on [/EN#109136/other skateboard] , doing [/EN#0/notvisual a trick] .
+[/EN#109135/people A skateboarder] in [/EN#109139/other mid-jump] .

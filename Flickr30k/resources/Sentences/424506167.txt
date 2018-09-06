@@ -1,0 +1,5 @@
+[/EN#160242/clothing A small brown] jumps in [/EN#0/notvisual the air] as [/EN#160238/animals a big brown dog] watches .
+[/EN#160238/animals A small dog] stands next to [/EN#160238/animals a larger dog] , out in [/EN#160239/scene a field] .
+[/EN#160237/animals A large and small dog] interact in [/EN#160239/scene a grassy field] .
+[/EN#160237/animals Two dogs] stand [/EN#0/notvisual side] by [/EN#0/notvisual side] in [/EN#160239/scene the yard] .
+[/EN#160237/animals Two dogs] standing in [/EN#160239/scene the field] .

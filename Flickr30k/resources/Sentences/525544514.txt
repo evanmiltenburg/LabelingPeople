@@ -1,0 +1,5 @@
+[/EN#232277/people A man] in [/EN#232280/clothing a vest] and collared [/EN#232281/clothing shirt] walking down [/EN#232279/scene the street] holding [/EN#232278/instruments a guitar] .
+[/EN#232277/people A formally dressed man] walking on [/EN#232279/scene a sidewalk] , playing [/EN#232278/instruments an acoustic guitar] .
+[/EN#232277/people a guy] playing [/EN#232278/instruments the guitar] while walking in front of [/EN#232283/other a business] .
+[/EN#232277/people A man] in [/EN#232280/clothing a vest] and [/EN#232282/clothing tie] is playing [/EN#232278/instruments the guitar] on [/EN#232279/scene a sidewalk] .
+[/EN#232277/people A guy] walking down [/EN#232279/scene the street] playing [/EN#232278/instruments his guitar] .

@@ -1,0 +1,5 @@
+[/EN#217585/other A beautiful street photo] where [/EN#217582/people people] are walking by [/EN#217581/scene an old building] .
+[/EN#0/notvisual There] are [/EN#217584/other trees] outside of [/EN#217581/scene a building] in [/EN#217588/scene the middle of downtown] .
+[/EN#217582/people People] cross [/EN#217583/scene the street] in front of [/EN#217581/scene a large building] .
+[/EN#217582/people People] cross [/EN#217583/scene the street] on [/EN#217587/scene a sunny day] in [/EN#217586/scene the city] .
+[/EN#217581/scene The victorian building] is surrounded by [/EN#217584/other trees] .

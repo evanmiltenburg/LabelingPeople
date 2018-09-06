@@ -1,0 +1,5 @@
+[/EN#208881/people A man] stands on [/EN#208888/scene the sidewalk] near [/EN#208886/scene a lamp post] as well as [/EN#208892/other a pillar] forming [/EN#208887/other part of an edifice] .
+[/EN#208881/people A lone man] leans on [/EN#208886/other a pole] in front of [/EN#208891/scene a large building] on [/EN#208884/scene a deserted street] .
+[/EN#208881/people A man] in [/EN#208882/clothing a black shirt] and [/EN#208893/clothing jeans] standing under [/EN#208883/scene a bridge] in [/EN#208889/scene the city] .
+[/EN#208881/people A person] stands under [/EN#208886/other a city light pole] on [/EN#208888/scene a sidewalk] at [/EN#208894/scene night] .
+[/EN#208881/people Man] in [/EN#208882/clothing sweater] standing alone under [/EN#208885/scene an overpass] .

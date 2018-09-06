@@ -1,0 +1,5 @@
+[/EN#209010/people A man] wearing [/EN#209015/clothing a blue shirt] with [/EN#209016/clothing black stripes] and [/EN#209013/people a woman] [/EN#0/notvisual who] is wearing [/EN#209017/clothing a white jacket] are walking down [/EN#209018/other a narrow pathway]
+[/EN#209011/people Two people] are walking across [/EN#209012/scene a path] between [/EN#209014/scene buildings] .
+[/EN#209010/people A man] and [/EN#209013/people woman] walking in [/EN#209012/scene between two buildings] .
+[/EN#209010/people A man] and [/EN#209013/people a woman] walking between [/EN#209014/scene two buildings] .
+[/EN#209011/people Two people] walking down [/EN#209012/scene an alley] .

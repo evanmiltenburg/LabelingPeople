@@ -1,0 +1,5 @@
+[/EN#116342/people A person] wearing [/EN#116343/clothing a hat] , is sitting on [/EN#116346/other something] yellow while fishing from [/EN#116344/other a rock] .
+[/EN#116342/people A lone fisherman] casts off [/EN#116344/other a rock] with [/EN#116347/scene a city] visible across [/EN#116350/scene the water] .
+[/EN#116342/people Fisherman] wearing [/EN#116348/clothing a poncho] and [/EN#116343/clothing hat] sitting at [/EN#116349/scene the edge of the water] .
+[/EN#116342/people A person] is fishing off [/EN#116344/other some rocks] while seated on [/EN#116346/other a yellow stool] .
+[/EN#116342/people A lone man] sitting on [/EN#116344/other rocks] and fishing .

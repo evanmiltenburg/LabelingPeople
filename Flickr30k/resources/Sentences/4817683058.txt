@@ -1,0 +1,5 @@
+[/EN#206551/people A man] in [/EN#206557/clothing an orange shirt] and [/EN#206553/people a blond woman] sitting on [/EN#206547/vehicles/scene a boat] with [/EN#206550/other wineglasses] on [/EN#206558/other the table] .
+[/EN#206552/people Men] and [/EN#206560/people women] at [/EN#206558/other tables] having [/EN#206550/other drinks] on [/EN#206548/vehicles/scene the aft deck of a boat] moored in [/EN#206555/other a marina] .
+[/EN#206546/people A group of people] are sitting on [/EN#206547/vehicles/scene the top of a boat] .
+[/EN#206546/people A group of people] having [/EN#206556/other a meal] near [/EN#206549/scene the pier] .
+[/EN#206546/people Several people] dining on [/EN#206547/vehicles/scene a boat] in [/EN#206554/scene a harbor] .

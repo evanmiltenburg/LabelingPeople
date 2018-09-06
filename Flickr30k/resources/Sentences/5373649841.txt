@@ -1,0 +1,5 @@
+[/EN#234839/other Airport employee dust] [/EN#234843/scene the floor] while standing on [/EN#234841/scene the moving walkway] .
+[/EN#234840/people A janitor] stands on [/EN#234841/scene a moving walkway] whilst cleaning in [/EN#234842/scene an airport] .
+[/EN#234839/other A man dust] mopping [/EN#234843/scene the floor] while riding [/EN#234844/clothing a conveyor belt] .
+[/EN#234840/people A man] walking along wiping [/EN#234843/scene the floor] at [/EN#234842/scene the airport] .
+[/EN#234840/people A man] is cleaning [/EN#234843/scene the walkway] at [/EN#234842/scene an airport] .

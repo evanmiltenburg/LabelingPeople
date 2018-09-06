@@ -1,0 +1,5 @@
+[/EN#159706/people A man] standing on [/EN#159708/vehicles/scene a train] reading [/EN#159711/other a diagram] on [/EN#159709/other the door] .
+[/EN#159706/people An Asian man] in [/EN#159707/clothing a suit] is standing in [/EN#159708/vehicles/scene a subway train] .
+[/EN#159706/people A man] is standing on [/EN#159708/vehicles/scene a subway] leaning against [/EN#159712/other a pole] .
+[/EN#159706/people A man] in [/EN#159707/clothing a black suit] standing inside of [/EN#159708/vehicles/scene a train] .
+[/EN#159706/people A man] through [/EN#159710/vehicles the window of a train car] .

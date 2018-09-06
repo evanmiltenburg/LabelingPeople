@@ -1,0 +1,5 @@
+[/EN#43502/people A brown-haired keyboardist] in [/EN#43505/clothing a white t-shirt] and [/EN#43506/clothing blue jeans] performing with [/EN#43504/people his band] .
+[/EN#43502/people Band pianist] plays [/EN#43507/instruments piano] in [/EN#43505/clothing white shirt] and [/EN#43506/clothing jeans]
+[/EN#43502/people A young man] in [/EN#43505/clothing a white shirt] playing [/EN#43503/other keyboard] .
+[/EN#43502/people A member of a band] is playing [/EN#43503/other a keyboard] .
+[/EN#43502/people A man] playing [/EN#43503/other keyboard] with [/EN#43504/people a rock band] .

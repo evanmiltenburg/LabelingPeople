@@ -1,0 +1,5 @@
+[/EN#192539/people A man] in [/EN#192540/clothing a suit] looking at [/EN#192541/other a navigation map] .
+[/EN#192539/people a man] in [/EN#192540/clothing a black suit] using [/EN#192541/scene a phone booth] .
+[/EN#192539/people A man] in [/EN#192540/clothing a black suit] is looking at [/EN#192541/other a map] .
+[/EN#192539/people A guy] looking at [/EN#192541/other the city map] .
+[/EN#192539/people A man] standing at [/EN#192541/other a directory] .

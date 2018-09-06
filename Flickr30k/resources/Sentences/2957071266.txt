@@ -1,0 +1,5 @@
+[/EN#84015/animals Two dogs] together in [/EN#84020/scene a field of grass] within [/EN#84021/other sight] of [/EN#84016/scene a beautiful home] .
+[/EN#84017/clothing a black] and [/EN#84018/animals a cream dog] run through [/EN#84020/scene a field] in front of [/EN#84016/scene a blue house]
+[/EN#84019/animals A black dog] and [/EN#84018/animals a white dog] run across [/EN#84020/scene a field] behind [/EN#84016/scene a house] .
+[/EN#84015/animals Two large dogs] are running off together through [/EN#84020/scene the field] .
+[/EN#84015/animals Two dogs] running in [/EN#84020/scene a field] in front of [/EN#84016/scene a house] .

@@ -1,0 +1,5 @@
+[/EN#205855/people An older man] in [/EN#205856/clothing a dark suit] is speaking into [/EN#205857/other a microphone] at [/EN#205861/scene a podium] with [/EN#205858/other an " AMBUC " banner] .
+[/EN#205855/people A man] in [/EN#205856/clothing a suit] is standing in front of [/EN#205857/other a microphone] .
+[/EN#205855/people Man] in [/EN#205859/other black suite] speaking [/EN#205861/scene a podium] .
+[/EN#205855/people a man] in [/EN#205856/clothing a suit] giving [/EN#205860/other a speech] .
+[/EN#205855/people An older man] giving [/EN#205860/other a speech] .

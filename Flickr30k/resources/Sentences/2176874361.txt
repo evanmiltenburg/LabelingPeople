@@ -1,0 +1,5 @@
+[/EN#32450/animals a small black dog] growling at [/EN#32451/animals a large brown and white cow] .
+[/EN#32450/animals A black dog] runs in front of [/EN#32451/animals a large brown and white bull] .
+[/EN#32450/animals A dog] and [/EN#32451/animals a cow] play together inside [/EN#32452/scene the fence] .
+[/EN#32450/animals Running dog] and [/EN#32451/animals cow] in [/EN#32453/scene fenced area] .
+[/EN#32450/animals The dog] is running around [/EN#32451/animals the cow] .

@@ -1,0 +1,5 @@
+[/EN#151409/people a man] in [/EN#151412/clothing a striped blue shirt] and [/EN#151410/clothing a balloon hat] is making [/EN#151411/animals other balloon animals]
+[/EN#151409/people A man] [/EN#0/notvisual that] is wearing [/EN#151410/clothing a balloon hat] while making [/EN#0/notvisual another] .
+[/EN#151409/people A man] in [/EN#151412/clothing a striped shirt] makes [/EN#151411/animals a blue balloon animal] .
+[/EN#151409/people A man] with [/EN#151410/clothing a balloon hat] makes [/EN#151411/animals balloon animals] .
+[/EN#151409/people A man] is making [/EN#151411/animals balloon animals] outside .

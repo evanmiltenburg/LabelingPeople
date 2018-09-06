@@ -1,0 +1,5 @@
+[/EN#19523/people A man] wearing [/EN#19532/clothing glasses] and [/EN#19528/clothing a striped shirt] is eating at [/EN#19524/scene a bar] with [/EN#19526/people a blond woman] in [/EN#19527/clothing a red tank top] .
+[/EN#19523/people A man] and [/EN#19526/people a woman] sitting at [/EN#19525/scene a bar] [/EN#19523/people the man] is eating and [/EN#19526/people the woman] has [/EN#19530/other a green bottle] .
+[/EN#19523/people A man] wearing [/EN#19528/clothing a striped shirt] and [/EN#19526/people a woman] wearing [/EN#19527/clothing a red shirt] sit at [/EN#19524/scene a bar] .
+[/EN#19523/people A man] and [/EN#19526/people a woman] are sitting in [/EN#19525/scene a bar] and are facing [/EN#0/notvisual each other] .
+[/EN#19529/people A couple] converses at [/EN#19531/other a table] in [/EN#19525/scene a bar] .

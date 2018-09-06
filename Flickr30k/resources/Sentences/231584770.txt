@@ -1,0 +1,5 @@
+[/EN#41148/people A man] is standing in [/EN#41154/scene the corner of a baseball field] , dressed in [/EN#41149/clothing a white dress suit] , having [/EN#41150/people a cameraman] pointing [/EN#41151/other a camera] towards [/EN#0/notvisual him] .
+[/EN#41150/people A man] dressed in [/EN#41152/clothing a blue top] and [/EN#41149/clothing white shorts] is using [/EN#41151/other a video camera] at [/EN#41155/other a baseball diamond] .
+[/EN#41148/people A man] dressed [/EN#41148/people all] in [/EN#41149/clothing white] throws [/EN#41157/scene the first pitch] at [/EN#41158/other a baseball game] .
+[/EN#41148/people Man] in [/EN#41149/clothing white suit] throws [/EN#41157/scene first pitch] at [/EN#41158/other baseball game] .
+[/EN#41153/people Several people] standing around on [/EN#41155/other a baseball diamond] .

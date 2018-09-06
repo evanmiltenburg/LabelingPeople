@@ -1,0 +1,5 @@
+[/EN#95903/people A woman] holding [/EN#95904/clothing a blue shopping bag] and [/EN#95910/clothing a purse] while holding [/EN#95906/bodyparts a child 's hand] [/EN#0/notvisual that] is wearing [/EN#95911/clothing a striped blue and red shirt] .
+[/EN#95903/people A woman] in [/EN#95912/clothing jeans] and [/EN#95908/clothing a blouse] is carrying [/EN#95904/clothing a blue shopping bag] and leading [/EN#95905/people a child] through [/EN#95913/other the mall] .
+[/EN#95903/people A woman] carries [/EN#95904/clothing large blue shopping bags] while holding [/EN#95906/people the hand of a small child] .
+[/EN#95903/people A woman] is holding [/EN#95905/people a small child] by [/EN#95906/bodyparts the hand] and carrying [/EN#95904/clothing shopping bags] .
+[/EN#95903/people A woman] is holding [/EN#95906/bodyparts a child 's hand] while carrying [/EN#95904/clothing many bags] .

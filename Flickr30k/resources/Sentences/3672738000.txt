@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] are [/EN#135901/scene a few tents] , [/EN#135904/clothing one blue] and [/EN#135901/clothing one white] , at [/EN#135902/scene a small street market] .
+[/EN#135899/people A crowd of people] browsing at [/EN#135902/scene an open air market] on [/EN#135903/scene a sunny day] .
+[/EN#135899/people People] are walking through [/EN#135902/scene an outdoor market] .
+[/EN#135899/people Shoppers] walk through [/EN#135900/scene an outdoor market] .
+[/EN#135899/people People] shop in [/EN#135902/scene an outside market] .

@@ -1,0 +1,5 @@
+[/EN#65902/people Three men] , [/EN#65910/other two] in [/EN#65904/clothing black business suits] and [/EN#65909/other one] in [/EN#65906/clothing a black dress shirt] are reviewing [/EN#65905/other notes] for [/EN#65907/other a presentation] .
+[/EN#65902/people Three men] dressed in [/EN#65903/clothing all black suits] are reading from [/EN#65905/other some notes] .
+[/EN#65902/people Three men] in [/EN#65904/clothing black suits] looking at [/EN#65905/other something] in front of [/EN#0/notvisual them] .
+[/EN#65902/people The three men] in [/EN#65903/clothing black] are standing in [/EN#65908/other a row] .
+[/EN#65902/people 3 men] wearing [/EN#65903/clothing black attire] are reading .

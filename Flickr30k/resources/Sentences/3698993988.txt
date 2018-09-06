@@ -1,0 +1,5 @@
+[/EN#137739/people A person] is walking inside [/EN#137741/other a large blue and yellow structure] [/EN#0/notvisual that] looks to be made of [/EN#137741/other fabric] .
+[/EN#137739/people A man] is walking inside of [/EN#137741/other a large yellow and blue hot air balloon] on [/EN#0/notvisual the ground] .
+[/EN#137739/people A man] is walking inside of [/EN#137741/other a structure] made of [/EN#137740/other material] .
+[/EN#137739/people A lone man] walking towards [/EN#137741/other a large air-filled balloon] .
+[/EN#137739/people A man] is walking inside of [/EN#137741/other an air balloon] .

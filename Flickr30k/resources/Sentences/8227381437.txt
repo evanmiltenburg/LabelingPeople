@@ -1,0 +1,5 @@
+[/EN#280585/people A man] in [/EN#280587/clothing a gray shirt] sits with [/EN#280586/clothing several pairs of shoes] around [/EN#0/notvisual him] .
+[/EN#280585/people A man] is sitting down and [/EN#0/notvisual he] is surrounded by [/EN#280586/clothing shoes] .
+[/EN#280585/people Older man] with [/EN#280586/clothing shoes] in [/EN#280589/scene front] and behind [/EN#0/notvisual him] .
+[/EN#280585/people This man] has worked here for [/EN#280591/other many decades] .
+[/EN#280585/other an old shoemaker] in [/EN#280590/scene his factory]

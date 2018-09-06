@@ -1,0 +1,5 @@
+[/EN#119954/people A girl] with [/EN#119959/clothing a white backpack] is standing and [/EN#119955/people smaller children] are sitting in [/EN#119961/other a row] on [/EN#0/notvisual the ground] .
+[/EN#119954/people a woman] in [/EN#119960/clothing blue jeans] is standing in front of [/EN#119955/people a group of children] beside [/EN#119956/scene a stone built house] .
+[/EN#119955/people Group of children] and [/EN#119957/people some adults] gathered outside [/EN#119956/scene stone buildings] .
+[/EN#119955/people Many children] and [/EN#119957/people some parents] are waiting near [/EN#119956/scene a decorated castle] .
+[/EN#119954/people A lady] stands on [/EN#119958/scene the street] , surrounded by [/EN#119955/people school children] .

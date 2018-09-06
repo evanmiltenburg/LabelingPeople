@@ -1,0 +1,5 @@
+[/EN#100733/people A man] in [/EN#100741/clothing a black coat] and [/EN#100742/clothing hat] and [/EN#100736/people a child] with [/EN#100738/clothing a red snowsuit] and [/EN#100739/people Pooh backpacker] read [/EN#100737/other advertisements] near [/EN#100734/other a McDonalds] .
+[/EN#0/notvisual There] is [/EN#100733/people a man] with [/EN#100736/people a young child] in [/EN#100738/clothing a red outfit] looking at [/EN#100737/other advertisements] .
+[/EN#100733/people A man] stands on [/EN#100743/scene a street corner] with [/EN#100736/people a small child] looking at [/EN#100737/other a sign] .
+[/EN#100733/people A man] and [/EN#100736/people a toddler] look at [/EN#100735/other advertisements] .
+[/EN#100733/people A man] and [/EN#100736/people child] in front of [/EN#100740/other a billboard]

@@ -1,0 +1,5 @@
+[/EN#147590/people A street performer] dressed as [/EN#147590/other a statue] stands in [/EN#147592/scene the middle of a street] .
+[/EN#147590/people A person] is dressed up in [/EN#147591/clothing a dress] parading around [/EN#147592/scene the streets of a town] .
+[/EN#147593/people The people] walking by are staring at [/EN#147590/people the woman] in [/EN#147592/scene the street] .
+[/EN#147590/people A gold colored street performer] is standing in [/EN#147592/scene the street] .
+[/EN#147590/people A person] is standing in [/EN#147591/clothing a costume] on [/EN#147592/scene a street] .

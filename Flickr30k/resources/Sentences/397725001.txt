@@ -1,0 +1,5 @@
+[/EN#150640/people The people] on [/EN#150641/scene the balcony] are controlling [/EN#150639/people the man] in [/EN#150647/clothing the white shorts] like [/EN#150645/other a puppet] .
+[/EN#150640/people People] on [/EN#150641/other a cruise ship deck] , and overlooking [/EN#150643/other the deck] .
+[/EN#150639/people A man] attached to [/EN#150646/people strings] is watched by [/EN#150642/people a crowd] .
+[/EN#150640/people People] stand on [/EN#150641/scene the balcony] and [/EN#150643/vehicles/scene deck of a boat] .
+[/EN#150639/people A man] stands below [/EN#150642/people a crowd] .

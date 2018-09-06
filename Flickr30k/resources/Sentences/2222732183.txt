@@ -1,0 +1,5 @@
+[/EN#35050/people A woman] and [/EN#35052/people a young boy] are sitting on [/EN#35053/other a flowered couch] and reading .
+[/EN#35050/people A woman] wearing [/EN#35051/clothing a blue sweater] is reading to [/EN#35052/people a boy] on [/EN#35053/other the couch] .
+[/EN#35050/people A woman] with [/EN#35051/clothing a blue shirt] is reading to [/EN#35052/people her son] .
+[/EN#35050/people A woman] in [/EN#35051/clothing a blue shirt] reads to [/EN#35052/people a young boy] .
+[/EN#35050/people a mother] is sitting and reading with [/EN#35052/people her son] .

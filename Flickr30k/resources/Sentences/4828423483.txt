@@ -1,0 +1,5 @@
+[/EN#208030/people A street performer] with [/EN#208031/clothing a black hat] is preparing to play [/EN#208032/instruments guitar] right as [/EN#208033/people the pedestrians] approach [/EN#0/notvisual him] .
+[/EN#208034/scene A crowded city street] with [/EN#208037/scene the focus] on [/EN#208030/people an older man] playing [/EN#208032/instruments the guitar] .
+[/EN#208030/people A guitarist] is playing for [/EN#208033/people people] [/EN#0/notvisual who] are watching .
+[/EN#208030/people A man] is playing [/EN#208032/scene the guitar outdoors] in [/EN#208035/scene a city] .
+[/EN#208030/people A man] in [/EN#208031/clothing a black hat] plays [/EN#208032/instruments guitar] for [/EN#208036/people a crowd] .

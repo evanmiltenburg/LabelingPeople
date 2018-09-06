@@ -1,0 +1,5 @@
+[/EN#50009/people Two men] play [/EN#50010/instruments the violin] with [/EN#50011/scene a blurred music stand] and [/EN#50012/bodyparts another violinist 's hand] in [/EN#0/notvisual the foreground] .
+[/EN#50009/people People] are playing [/EN#50010/instruments violins] with [/EN#50016/other sheet music] at [/EN#50017/other the front of the picture] .
+[/EN#50009/people Two men] in [/EN#50013/clothing black shirts] play on [/EN#50010/instruments the violin] .
+[/EN#50009/people Two men] playing [/EN#50010/instruments violins] with [/EN#50016/other sheep music] .
+[/EN#50009/people Two men] are [/EN#50014/other each] playing [/EN#50010/instruments a violin] .

@@ -1,0 +1,5 @@
+[/EN#34986/animals A brown and white dog] is running through [/EN#34987/scene an uncut field] [/EN#0/notvisual that] has [/EN#34988/other mushrooms] .
+[/EN#34986/animals A brown and white dog] running in [/EN#34987/scene a field of grass] .
+[/EN#34986/animals A brown and white dog] runs on [/EN#34987/scene brownish grass] .
+[/EN#34986/animals The dog] is running in [/EN#34987/scene the grass] .
+[/EN#34986/animals The dog] is running in [/EN#34987/scene a field] .

@@ -1,0 +1,5 @@
+[/EN#243997/people Three children] play with [/EN#244002/scene a giant sphere] on [/EN#243999/scene a playground] while [/EN#243996/people an adult] sits on [/EN#243998/other a bench] reading [/EN#244000/other the newspaper] .
+[/EN#244001/other A cream pink colored tree] shrouds [/EN#243999/scene a child 's playground] while [/EN#243996/people someone] reads [/EN#244000/other the newspaper] on [/EN#243998/other a bench] .
+[/EN#243997/people Kids] playing on [/EN#243999/scene a playground] with [/EN#243996/people a man] sitting on [/EN#243998/other a bench] reading [/EN#244000/other a newspaper] .
+[/EN#243997/people Three kids] are playing in [/EN#243999/scene a park] while [/EN#243996/people a person] reads [/EN#244000/other a newspaper] on [/EN#243998/other a bench] .
+[/EN#243996/people A man] reads [/EN#244000/other the newspaper] while [/EN#243997/people his three children] play on [/EN#243999/scene the playground] .

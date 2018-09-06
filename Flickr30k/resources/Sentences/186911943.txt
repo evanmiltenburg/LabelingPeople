@@ -1,0 +1,5 @@
+[/EN#22287/people A crowd of people] wearing [/EN#22297/clothing blue LA baseball caps] at [/EN#22288/other a game] and [/EN#22291/people a lady] with [/EN#22298/clothing a yellow shirt] is walking up [/EN#22296/other the steps] with [/EN#22292/people a man] behind [/EN#0/notvisual her] wearing [/EN#22299/clothing a dark plaid shirt] .
+[/EN#22290/people Two people] are walking up [/EN#22294/scene the bleachers of a baseball stadium] .
+[/EN#22286/people People] are walking as [/EN#22287/people a crowd] is at [/EN#22293/scene a sporting event] .
+[/EN#22286/people The crowd] at [/EN#22288/other a game] in [/EN#22289/other LA] takes [/EN#22295/scene their seats] .
+[/EN#22287/people People] attending [/EN#22288/other a LA Dodgers baseball game] .

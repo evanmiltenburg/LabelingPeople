@@ -1,0 +1,5 @@
+[/EN#1941/animals A blond horse] and [/EN#1942/people a blond girl] in [/EN#1943/clothing a black sweatshirt] are staring at [/EN#1944/other a fire] in [/EN#1945/other a barrel] .
+[/EN#1946/people A man] , and [/EN#1942/people girl] and [/EN#1947/animals two horses] are near [/EN#1944/other a contained fire] .
+[/EN#1942/people A girl] holding [/EN#1948/other a horse 's lead] behind [/EN#1944/other a fire] .
+[/EN#1949/people Two people] and [/EN#1947/animals two horses] watching [/EN#1944/other a fire] .
+[/EN#1942/people A girl] and [/EN#1941/animals her horse] stand by [/EN#1944/other a fire] .

@@ -1,0 +1,5 @@
+[/EN#1708/people A man] in [/EN#1710/clothing a black shirt] is riding [/EN#1709/other a mule trough] [/EN#1711/scene the desert] , with [/EN#1715/other the sun] shining in [/EN#0/notvisual the background] .
+[/EN#1708/people An old weathered , bearded man] wearing [/EN#1710/clothing all black] , riding [/EN#1709/animals a beautiful white donkey] on [/EN#1711/other white rocks] .
+[/EN#1708/people A man] wearing [/EN#1710/clothing black] is riding [/EN#1709/animals a white horse] with [/EN#1711/other numerous rocks] around [/EN#0/notvisual him] .
+[/EN#1708/people A gray bearded man] in [/EN#1710/clothing black clothing] riding [/EN#1709/animals a horse] on [/EN#1711/scene a rocky path] .
+[/EN#1708/people Man] with [/EN#1716/bodyparts gray hair] and [/EN#1710/clothing a black outfit] riding [/EN#1709/animals a white horse] .

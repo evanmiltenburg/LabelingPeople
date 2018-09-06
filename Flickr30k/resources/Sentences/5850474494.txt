@@ -1,0 +1,5 @@
+[/EN#244051/people A man] washing [/EN#244062/other windows] is suspended outside [/EN#244053/scene a building] on [/EN#244058/scene a seat] on [/EN#244057/other a rope] with [/EN#244056/other a bucket] hanging on [/EN#244061/scene the side of the seat] .
+[/EN#244051/people A man] is hoisted along side [/EN#244054/other a window] on [/EN#244053/scene a building] , with [/EN#244055/other a bucket] attached to [/EN#244059/clothing his harness] .
+[/EN#244051/people A man] in [/EN#244052/clothing blue] bravely cleans [/EN#244054/other windows] on [/EN#244053/scene a tall building] during [/EN#244060/scene the day] .
+[/EN#244051/people A man] in [/EN#244052/clothing a blue shirt] washes [/EN#244054/other a window] high off [/EN#0/notvisual the ground] .
+[/EN#244051/people man] washing [/EN#244054/scene the windows of a skyscraper]

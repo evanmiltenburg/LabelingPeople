@@ -1,0 +1,5 @@
+[/EN#260088/people An older woman] wearing [/EN#260091/clothing a black sweater] with [/EN#260092/clothing a red undershirt] and [/EN#260093/clothing blue jeans] is lying on [/EN#260088/other a bed] and holding [/EN#260090/animals a black cat] , with [/EN#260094/other many pillows] around [/EN#0/notvisual her] .
+[/EN#260088/people A woman] in [/EN#260091/clothing a black sweater] is laying down with [/EN#260090/animals a cat] .
+[/EN#260088/people A woman] lays in [/EN#260088/other bed] with [/EN#260090/animals her cat] as [/EN#0/notvisual she] pets [/EN#0/notvisual her] .
+[/EN#260088/people A woman] is lying down next to [/EN#260090/animals her black cat] .
+[/EN#260088/people Woman] lying down while holding [/EN#260090/animals a black cat] .

@@ -1,0 +1,5 @@
+[/EN#221369/people An artist] wearing [/EN#221375/clothing a red and black sweater] painting [/EN#221370/other a mural] on [/EN#221378/scene the side of a brick building] .
+[/EN#221369/people A guy] , dressed nicely , is painting [/EN#221370/other a mural] on [/EN#221371/other a wall] , with [/EN#221374/other a ladder] sitting beside [/EN#0/notvisual him] .
+[/EN#221369/people Man] in [/EN#221370/other a red and black striped shirt painting] [/EN#221370/other a picture] on [/EN#221373/scene a fence] .
+[/EN#221369/people A man] wearing [/EN#221376/clothing jeans] and [/EN#221377/clothing sandals] drawing in [/EN#221371/other a wall] .
+[/EN#221369/people A man] is painting [/EN#221370/other graffiti] on [/EN#221371/scene a building] .

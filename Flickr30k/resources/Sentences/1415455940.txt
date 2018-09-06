@@ -1,0 +1,5 @@
+[/EN#12023/people A chef] preparing [/EN#12024/other hamburgers] outside , on [/EN#12025/other a grill] for [/EN#12026/people patrons] walking by .
+[/EN#12027/people A man] with [/EN#12028/clothing a multicolored shirt] is standing beside [/EN#12029/scene a white party tent] .
+[/EN#12027/people A man] in [/EN#12028/clothing a colorful t-shirt] is standing at [/EN#12031/scene an outside food stall] .
+[/EN#12027/people A guy] in [/EN#12028/clothing a green and pink shirt] stands near [/EN#12025/other a grill] by [/EN#12032/vehicles/scene a boat] .
+[/EN#12030/people Several people] are at [/EN#12031/scene an outdoor event] near [/EN#12029/scene a tent] .

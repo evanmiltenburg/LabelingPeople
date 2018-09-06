@@ -1,0 +1,5 @@
+[/EN#62983/people A small child] is wearing [/EN#62986/clothing a blue outfit] with [/EN#62987/clothing blue shoes] .
+[/EN#62983/people A young child] is playing with [/EN#62985/other a stick] at [/EN#62984/scene a playground] .
+[/EN#0/notvisual There] is [/EN#62983/people a toddler] playing on [/EN#62984/scene a playground] .
+[/EN#62983/people A child] plays with [/EN#62985/other a toy] on [/EN#62984/scene a playground] .
+[/EN#62983/people A toddler] plays on [/EN#62984/scene a playground] .

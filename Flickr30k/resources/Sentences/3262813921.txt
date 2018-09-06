@@ -1,0 +1,5 @@
+[/EN#105393/people A black woman] in [/EN#105394/clothing a pink shirt] , eating [/EN#105395/other a muffin] , is selling [/EN#105396/animals ducks] and [/EN#105397/other other toys] at [/EN#105400/scene some special event] .
+[/EN#105393/people The sitting girl] with [/EN#105395/other the taco] is helping [/EN#105398/people some men] sell [/EN#105397/other toys] .
+[/EN#105393/people A girl] in [/EN#105394/clothing a pink shirt] is sitting on [/EN#0/notvisual the ground] with [/EN#105397/other toys] .
+[/EN#105393/people Young girl] in [/EN#105394/clothing a pink shirt] with [/EN#105397/other toys] all around [/EN#0/notvisual her] .
+[/EN#105393/people A woman] siting down eating [/EN#105395/other food] .

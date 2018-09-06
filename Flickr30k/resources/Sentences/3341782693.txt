@@ -1,0 +1,5 @@
+[/EN#110983/people A man] wearing [/EN#110985/clothing a gray swimsuit] stands in [/EN#110984/scene the water] amidst [/EN#110984/scene white waves] .
+[/EN#110983/people A young man] in [/EN#110985/clothing a swimsuit] with [/EN#110984/scene water] crashing behind [/EN#0/notvisual him] .
+[/EN#110983/people Young man] with [/EN#110985/clothing black shorts] jumping in [/EN#110984/scene the ocean waves] .
+[/EN#110983/people A surfer] stands in [/EN#110984/scene a crashing wave] .
+[/EN#110983/people a surfer] surfs .

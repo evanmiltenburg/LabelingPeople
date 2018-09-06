@@ -1,0 +1,5 @@
+[/EN#64949/people The girl] dressed in [/EN#64955/clothing purple] walks through [/EN#64951/scene the alley] , followed by [/EN#64949/people a girl] in [/EN#64953/clothing pink] .
+[/EN#64949/people A girl] in [/EN#64952/clothing pink pants] running , [/EN#64951/scene an ornate Spanish ruin] in [/EN#0/notvisual the background] .
+[/EN#64950/people Two little girls] play around [/EN#64951/scene an old abandoned building] .
+[/EN#64950/people Two children] within [/EN#64951/scene the ruins of a building] .
+[/EN#64950/people Two girls] , [/EN#64949/other one] running away from [/EN#64951/other the wall] .

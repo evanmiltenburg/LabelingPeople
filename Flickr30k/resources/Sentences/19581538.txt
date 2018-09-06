@@ -1,0 +1,5 @@
+[/EN#24092/people An older man] in [/EN#24100/clothing gray khakis] walks with [/EN#24094/people a young boy] in [/EN#24099/clothing a green shirt] along [/EN#24102/scene the edge of a fountain] in [/EN#24096/scene a park] .
+[/EN#24092/people A man] in [/EN#24098/clothing a blue shirt] walks holding [/EN#24097/bodyparts a young boy 's hand] outside in [/EN#24096/scene a garden] .
+[/EN#24092/people A man] is walking with [/EN#24094/people a boy] and holding [/EN#24097/bodyparts his hand] .
+[/EN#24092/people A man] holding [/EN#24093/bodyparts a child 's hand] as [/EN#0/notvisual they] walk .
+[/EN#24092/people A father] and [/EN#24094/people son] hold [/EN#24101/bodyparts hands] while walking .

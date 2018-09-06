@@ -1,0 +1,5 @@
+[/EN#130514/animals A black dog] walks through [/EN#130516/scene a rocky , grassy landscape] under [/EN#130515/scene a blue , cloudy sky] .
+[/EN#130514/animals A black dog] is running [/EN#0/notvisual gover rocky ground] under [/EN#130515/scene a cloudy blue sky] .
+[/EN#130514/animals A black dog] is running across [/EN#130516/scene a rocky landscape] .
+[/EN#130514/animals A black dog] walking along [/EN#130516/scene a rocky terrain] .
+[/EN#130514/animals A dog] on [/EN#130516/scene rocky terrain]

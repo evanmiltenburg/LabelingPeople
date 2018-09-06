@@ -1,0 +1,5 @@
+[/EN#2757/people A man] wearing [/EN#2760/clothing a black jacket] and [/EN#2766/clothing gray slacks] , stands on [/EN#2765/scene the sidewalk] holding [/EN#2763/scene a sheet] with [/EN#2763/other something] printed on [/EN#0/notvisual it] in [/EN#2769/bodyparts his hand] .
+[/EN#2757/people A man] in [/EN#2760/clothing a black jacket] is standing with [/EN#2759/people a group of people] behind [/EN#0/notvisual him] .
+[/EN#2757/people A man] in [/EN#2760/clothing a black jacket] is selling [/EN#2763/other lottery tickets] in [/EN#2762/scene the sidewalk] .
+[/EN#2757/people Street vendors] sell [/EN#2763/other their wares] to [/EN#2768/people tourists] .
+[/EN#2757/people Man] stands holding [/EN#2763/other a paper] in [/EN#2761/scene a city] .

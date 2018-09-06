@@ -1,0 +1,5 @@
+[/EN#6915/people A man] talks to [/EN#6916/other several others] behind [/EN#6920/other a table] in [/EN#6919/scene a restaurant kitchen] .
+[/EN#6915/people A man] is putting in [/EN#6917/other an order] at [/EN#6918/scene the kitchen of a restaurant] .
+[/EN#0/notvisual There] is [/EN#6918/scene a restaurant] with [/EN#6915/people a waiter] and [/EN#6921/people some cooks] .
+[/EN#6915/people A waiter] presenting [/EN#6917/other an order] to [/EN#6916/other the kitchen staff] .
+[/EN#6915/people A man] placing [/EN#6917/other an order] at [/EN#6918/scene a restaurant] .

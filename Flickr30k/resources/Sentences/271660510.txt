@@ -1,0 +1,5 @@
+[/EN#68310/people A man] and [/EN#68311/people woman] wearing [/EN#68312/clothing sunglasses] and [/EN#68313/clothing white t-shirts] smile for [/EN#0/notvisual the camera] .
+[/EN#68311/people A woman] and [/EN#68310/people a man] are standing in front of [/EN#68314/scene bushes] wearing [/EN#68312/clothing sunglasses] .
+[/EN#68310/people A man] and [/EN#68311/people a woman] in [/EN#68313/clothing white shirts] and [/EN#68312/clothing dark glasses] smiling .
+[/EN#68310/people The man] and [/EN#68311/people the woman] pose for [/EN#68316/other a picture] by [/EN#68314/scene some bushes] .
+[/EN#68310/people Man] and [/EN#68311/people woman] wearing [/EN#68312/clothing sunglasses] posing for [/EN#68317/other picture] .

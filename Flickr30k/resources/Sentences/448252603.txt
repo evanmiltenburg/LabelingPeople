@@ -1,0 +1,5 @@
+[/EN#172025/people A man] with [/EN#172026/clothing a backpack] is sitting in [/EN#172027/scene a dirt road] and pointing toward [/EN#172030/scene the horizon] .
+[/EN#172025/people a young man] sitting in [/EN#172028/scene the middle of a dirt road] pointing up [/EN#172027/scene the road] .
+[/EN#172025/people A man] points [/EN#172031/bodyparts his finger] to [/EN#172028/scene the path] ahead as [/EN#0/notvisual he] sits on [/EN#172027/scene the dirt path] .
+[/EN#172025/people A boy] with [/EN#172026/clothing a backpack] sits on [/EN#172027/scene a trail] and points .
+[/EN#172025/people A boy] pointing in [/EN#0/notvisual a direction] on [/EN#172027/scene a dirt road] .

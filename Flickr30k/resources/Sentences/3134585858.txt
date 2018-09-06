@@ -1,0 +1,5 @@
+[/EN#95859/people A man] with [/EN#95863/clothing glasses] and [/EN#95860/people a woman] wearing [/EN#95862/clothing a black hat] both wearing [/EN#95861/clothing black winter coats] .
+[/EN#95859/people A man] and [/EN#95860/people woman] in [/EN#95861/clothing black coats] are outside while [/EN#0/notvisual it] is snowing .
+[/EN#95859/people A man] and [/EN#95860/people woman] both wearing [/EN#95861/clothing black coats] pose for [/EN#95864/other a picture] .
+[/EN#95859/people A man] and [/EN#95860/people a woman] wearing [/EN#95861/clothing black wool coats] .
+[/EN#95859/people a man] and [/EN#95860/people a woman] are dressed in [/EN#95861/clothing black coats]

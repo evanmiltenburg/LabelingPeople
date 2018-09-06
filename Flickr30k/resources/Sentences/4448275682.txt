@@ -1,0 +1,5 @@
+[/EN#169342/people A man] is sitting on [/EN#169343/animals a white horse] and [/EN#169344/other the bridle] and [/EN#169346/other saddle straps] are decorated with [/EN#169345/other colorful pieces of tissue-like material] .
+[/EN#169342/people A man] in [/EN#169347/scene the desert] is sitting on [/EN#169343/animals a horse] [/EN#0/notvisual which] has [/EN#169345/other lots of decorations] .
+[/EN#169342/people A man] in [/EN#169348/clothing a green jacket] is riding [/EN#169343/animals a colorfully decorated white horse] .
+[/EN#169342/people A man] is riding [/EN#169343/animals a horse] with [/EN#169344/other a many colored bridle] .
+[/EN#169342/people A man] riding [/EN#169343/animals a white horse] .

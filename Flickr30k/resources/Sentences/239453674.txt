@@ -1,0 +1,5 @@
+[/EN#46230/people A bald policeman] is walking with [/EN#46231/animals a German shepherd dog] by [/EN#46232/other a metal crowd control barrier] .
+[/EN#46230/people A policeman] walks away from [/EN#46232/scene a gate] with [/EN#46231/animals a large brown and black dog] .
+[/EN#46230/people An officer] and [/EN#46231/animals dog] are walking in front of [/EN#46234/people a queue of people] .
+[/EN#46230/people The policeman] walks with [/EN#46231/animals/people his German shepherd] .
+[/EN#46230/people A policeman] is next to [/EN#46231/animals/people his German shepherd] .

@@ -1,0 +1,5 @@
+[/EN#127923/people A man] with [/EN#127925/bodyparts brown hair] and [/EN#127929/scene a five o'clock shadow] is wearing [/EN#127928/clothing sunglasses] and sitting at [/EN#127924/other a table] with [/EN#127926/other cans of soda] and [/EN#127927/other other drinks] .
+[/EN#127923/people A man] in [/EN#127928/clothing sunglasses] sitting at [/EN#127924/people a table full of various kinds] of [/EN#127927/other soda] .
+[/EN#127923/people A man] wearing [/EN#127928/clothing sunglasses] sitting next to [/EN#127924/other a table full of beverages] .
+[/EN#127923/people A young man] with [/EN#127925/bodyparts brown hair] and [/EN#127928/clothing sunglasses] sits by [/EN#127926/other cans of soda] .
+[/EN#127923/people A man] is sitting at [/EN#127924/other a table] filled with [/EN#127926/other softdrinks] .

@@ -1,0 +1,5 @@
+[/EN#213635/people A man] , talking on [/EN#213638/other a cellphone] , passes [/EN#213639/scene a brick building] , with [/EN#213637/other a sign] on [/EN#0/notvisual it] , repeating , " [/EN#213636/other NEVER SLEEP AGAIN] . "
+[/EN#213635/people A man] talking on [/EN#213638/other a cellphone] passes by [/EN#213637/other a billboard] stating , " Never Sleep Again . "
+[/EN#213635/people A man] on [/EN#213638/other a cellphone] walking past [/EN#213637/other four signs] that [/EN#213636/other all say " NEVER SLEEP AGAIN] "
+[/EN#213635/people A man] using [/EN#213638/other a cellphone] is walking past [/EN#213637/other a sign] .
+[/EN#213635/people Businessman] walking and talking on [/EN#213638/other phone] .

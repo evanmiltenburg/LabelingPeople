@@ -1,0 +1,5 @@
+[/EN#129048/people People] converse [/EN#129054/scene the day] while aboard [/EN#129049/scene a floating restaurant] .
+[/EN#129051/people Two women] and [/EN#129053/people a man] converse while on [/EN#129049/vehicles/scene a boat] on [/EN#129052/scene a lake] .
+[/EN#129048/people Three people] on [/EN#129049/vehicles/scene a boat] are laughing and smiling .
+[/EN#129048/people A group of people] smiling and riding on [/EN#129049/vehicles/scene a boat] .
+[/EN#129050/people Three people] are starring happily at [/EN#129055/other something] .

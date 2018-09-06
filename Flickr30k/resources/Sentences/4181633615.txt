@@ -1,0 +1,5 @@
+[/EN#158228/people A man] in [/EN#158230/clothing a pink shirt] and [/EN#158235/other white pants checks] out [/EN#158232/other his cellphone] on [/EN#158234/scene a completely deserted street corner] .
+[/EN#158233/other Picture] out [/EN#158228/people a window of a man] in [/EN#158230/clothing pink shirt] looking at [/EN#158232/other his phone] .
+[/EN#158228/people Man] is [/EN#158230/clothing a pink shirt] is standing on [/EN#158231/scene the sidewalk] .
+[/EN#158228/people A man] in [/EN#158230/clothing a pink shirt] is standing on [/EN#158231/scene a sidewalk] .
+[/EN#158228/people A man] uses [/EN#158232/other his cellphone] on [/EN#158231/scene the street] .

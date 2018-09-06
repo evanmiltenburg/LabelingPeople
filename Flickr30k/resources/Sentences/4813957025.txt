@@ -1,0 +1,5 @@
+[/EN#205999/people An aging man] in [/EN#206001/clothing a green and orange palm tree shirt] and [/EN#206002/clothing straw hat] holds [/EN#206000/instruments a red drum] and [/EN#206003/other a drumstick] .
+[/EN#205999/people A man] with [/EN#206002/clothing a hat] is playing [/EN#206000/instruments the drum] in [/EN#206004/scene the street] .
+[/EN#205999/people An older man] in [/EN#206001/clothing a tropical shirt] plays [/EN#206000/instruments a drum] .
+[/EN#205999/people A man] in [/EN#206002/clothing a straw hat] playing [/EN#206000/instruments the drum] .
+[/EN#205999/people An elderly man] playing [/EN#206000/instruments a drum] .

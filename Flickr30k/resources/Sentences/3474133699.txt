@@ -1,0 +1,5 @@
+[/EN#120847/people A man] wearing [/EN#120849/clothing a white shirt] and [/EN#120850/clothing blue shorts] plays [/EN#120851/other tennis] .
+[/EN#120847/people A man] in [/EN#120849/clothing a white shirt] about to hit [/EN#120848/other a tennis ball] .
+[/EN#120847/people A tennis player] getting ready to serve [/EN#120848/other the ball] .
+[/EN#120847/people The man] in [/EN#120850/clothing shorts] is serving [/EN#120848/other the tennis ball] .
+[/EN#120847/people A man] in [/EN#120852/other the middle of a tennis serve] .

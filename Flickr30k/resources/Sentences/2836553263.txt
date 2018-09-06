@@ -1,0 +1,5 @@
+[/EN#75776/people A boy] with [/EN#75782/clothing a black shirt] and [/EN#75786/clothing white shorts] on [/EN#75777/vehicles a bike] is turning to look behind [/EN#0/notvisual himself] .
+[/EN#75776/people A boy] stopped on [/EN#75777/vehicles his bike] on [/EN#75780/scene a bike trail] as [/EN#75785/people a woman] passes by
+[/EN#75776/people A young boy] with [/EN#75777/vehicles a bicycle] on [/EN#75779/scene a road] going through [/EN#75781/scene a forest]
+[/EN#75776/people A boy] on [/EN#75777/vehicles his bike] stops and looks back at [/EN#75783/people the cameraman] .
+[/EN#75776/people A little boy] posing on [/EN#75777/vehicles his bike] , wearing [/EN#75784/clothing a helmet] .

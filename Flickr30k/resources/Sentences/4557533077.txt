@@ -1,0 +1,5 @@
+In [/EN#178214/scene a sidewalk street scene] , [/EN#178212/people a young woman] wearing [/EN#178220/clothing healed dress shoes] and [/EN#178213/clothing a yellow tank dress] over [/EN#178222/clothing some black leggings] walks away from [/EN#178216/scene a yellow and gray striped building] [/EN#0/notvisual which] has [/EN#178215/other a tall stack of automobile tires] in [/EN#178218/scene the doorway] .
+[/EN#178212/people A woman] in [/EN#178213/clothing a pink and yellow dress] walks past [/EN#178215/other a stack of tires] and [/EN#178216/scene a yellow nd gray striped building] .
+[/EN#178212/people A woman] in [/EN#178221/clothing heels] and [/EN#178213/clothing a yellow dress] walks down [/EN#178214/scene a public street] .
+[/EN#178212/people A woman] wearing [/EN#178213/clothing yellow] walks down [/EN#178214/scene a sidewalk] .
+[/EN#178217/people People] walking down [/EN#178214/scene a street] on [/EN#178219/scene a sunny day] .

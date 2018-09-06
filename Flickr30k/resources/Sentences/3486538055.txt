@@ -1,0 +1,5 @@
+[/EN#121891/animals A black dog] and [/EN#121892/animals a brown dog] are playing rough on [/EN#121893/scene green grass] .
+[/EN#121892/animals A tan dog] and [/EN#121891/animals a black dog] fighting inside [/EN#121893/scene a fenced yard] .
+[/EN#121894/animals Two dogs] biting [/EN#0/notvisual each other] playfully while jumping
+[/EN#121891/animals/people A German shepherd] and [/EN#121892/animals a tan dog] are fighting .
+[/EN#121892/animals A brown dog] is biting [/EN#121891/animals a black dog] .

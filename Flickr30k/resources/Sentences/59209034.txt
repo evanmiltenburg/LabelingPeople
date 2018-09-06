@@ -1,0 +1,5 @@
+[/EN#245217/people A person] with [/EN#245220/bodyparts braided hair] and [/EN#245218/clothing a gray sweatshirt] covers [/EN#245222/bodyparts his mouth] and sits in [/EN#245219/other a purple chair] .
+[/EN#245217/people A person] with [/EN#245220/bodyparts braids] in [/EN#245220/bodyparts their hair] and [/EN#245218/clothing a gray sweatshirt] is sitting in [/EN#245219/other a purple chair] .
+[/EN#245217/people A person] with [/EN#245220/bodyparts braided hair] and [/EN#245218/clothing a gray sweatshirt] is sitting down .
+[/EN#245217/people A person] with [/EN#245220/bodyparts braided hair] is sitting in [/EN#245219/other a purple chair] .
+[/EN#245217/people A person] with [/EN#245220/bodyparts long hair] is sitting on [/EN#245219/other a purple couch] .

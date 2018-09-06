@@ -1,0 +1,5 @@
+[/EN#110002/people A girl] in [/EN#110011/clothing a green knit cap] stands ready to push [/EN#110009/other a sled] , with [/EN#110007/people a little boy] behind [/EN#0/notvisual her] .
+[/EN#110002/people Two children] are riding through [/EN#110005/scene snow] on [/EN#110004/other a sled-like frame] .
+[/EN#110002/people two young children] RIF=ding [/EN#110003/other sleds] down [/EN#110005/scene the snow] .
+[/EN#110002/people Two children] play on [/EN#110005/scene the road] on [/EN#110010/scene a snowy day] .
+[/EN#110002/people Two kids] riding on [/EN#110003/other sleds]

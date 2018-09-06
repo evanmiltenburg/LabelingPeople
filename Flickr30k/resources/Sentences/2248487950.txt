@@ -1,0 +1,5 @@
+[/EN#36686/people A woman] in [/EN#36692/clothing a coat] and [/EN#36685/people a man] in [/EN#36690/other a tracksuit] talking on [/EN#36687/other a phone] cross [/EN#36688/scene the street] .
+[/EN#36685/people a man] talks on [/EN#36687/other his cellphone] and [/EN#36689/people another man] rides [/EN#36691/other a wheelchair] .
+[/EN#36686/people A woman] crosses [/EN#36688/scene the street] near [/EN#36685/people a man] , [/EN#0/notvisual who] is on [/EN#36687/other his cellphone] .
+[/EN#36686/people A woman] tries to cross [/EN#36688/scene the road] before [/EN#36685/people a man] on [/EN#36693/vehicles a red scooter] .
+[/EN#36685/people A man] and [/EN#36686/people a woman] wait to cross [/EN#36688/scene a street] .

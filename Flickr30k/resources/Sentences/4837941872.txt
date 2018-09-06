@@ -1,0 +1,5 @@
+[/EN#209305/people An elderly man] is sitting on [/EN#209307/other a stone bench] eating [/EN#209309/other lunch] with [/EN#209310/animals pigeons] in [/EN#0/notvisual the background] .
+[/EN#209305/people An elderly asian man] in [/EN#209308/clothing a suit] and [/EN#209311/clothing tie] eats [/EN#209309/other some food] in [/EN#209306/scene a park] with [/EN#209310/animals some pigeons] .
+[/EN#209305/people An old man] is sitting on [/EN#209307/other a rock] in [/EN#209306/scene a courtyard] eating .
+[/EN#209305/people A man] is sitting on [/EN#209307/other a square stone] eating [/EN#209309/other his lunch] .
+[/EN#209305/people An old man] in [/EN#209308/clothing a suit] eats [/EN#209309/other lunch] .

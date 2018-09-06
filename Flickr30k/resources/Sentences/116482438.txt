@@ -1,0 +1,5 @@
+[/EN#4344/people An elderly woman] sits in [/EN#4346/other a chair] with [/EN#4345/other a book] and smiles at [/EN#4350/other the pretty flowers] in [/EN#4347/scene her room] .
+[/EN#4344/people An elderly woman] sitting in [/EN#4346/other a rocking chair] with [/EN#4348/other a blanket] and [/EN#4345/other book] in [/EN#4351/bodyparts her lap] .
+[/EN#4344/people An older lady] is sitting on [/EN#4346/other a flower chair] reading [/EN#4345/other a book] .
+[/EN#4344/people Old lady] sitting in [/EN#4349/other a room full of flowers] .
+[/EN#4344/people A grandmother] sitting in [/EN#4347/scene her room] .

@@ -1,0 +1,5 @@
+[/EN#224247/people A woman] with [/EN#224248/clothing a beautiful dress] and [/EN#224249/clothing matching umbrella] is walking down [/EN#224253/scene the street] carrying [/EN#224252/clothing a purse] on [/EN#224254/bodyparts/people her arm] .
+[/EN#0/notvisual She] shades [/EN#0/notvisual herself] with [/EN#224249/clothing her little yellow umbrella] , as [/EN#0/notvisual she] shows off [/EN#224248/clothing her fancy long dress] .
+[/EN#224247/people A woman] in [/EN#224248/clothing a yellow and white dress] is walking with [/EN#224249/clothing a yellow umbrella] .
+[/EN#224247/people A woman] in [/EN#224248/clothing a long yellow dress] holds [/EN#224249/clothing a yellow umbrella] .
+[/EN#224247/people A woman] walks holding [/EN#224249/clothing an umbrella] .

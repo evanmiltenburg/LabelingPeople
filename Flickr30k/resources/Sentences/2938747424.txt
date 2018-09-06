@@ -1,0 +1,5 @@
+[/EN#82793/animals A white dog] is running through [/EN#82794/scene the water] onto [/EN#82794/scene the shore] .
+[/EN#82793/animals White medium sized dog] is running through [/EN#82794/scene the ocean] .
+[/EN#82793/animals A white dog] is running through [/EN#82794/scene the water] at [/EN#82795/scene a beach]
+[/EN#82793/animals A pale colored dog] runs through [/EN#82794/scene a body of water] .
+[/EN#82793/animals The white dog] runs through [/EN#82794/scene the ocean] .

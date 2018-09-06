@@ -1,0 +1,5 @@
+[/EN#50027/people A person] wearing [/EN#50031/clothing a light green tank-top] and [/EN#50033/clothing black pants] is laying down , reading [/EN#50032/other a book] on [/EN#50035/other a built island or structure] very close to [/EN#50028/scene a green brown river] in [/EN#50036/other a city environment]
+[/EN#50027/people A woman] in [/EN#50031/clothing a blue top] lies on [/EN#0/notvisual her] back on [/EN#50035/scene a pier] directly in front of [/EN#50028/scene a body of water] and [/EN#50034/scene a bridge] .
+[/EN#50027/people A woman] wearing [/EN#50031/clothing a tank top] and [/EN#50033/clothing black pants] is laying on [/EN#0/notvisual the ground] while looking at [/EN#50032/other a book] .
+[/EN#50027/people A young lady] lying on [/EN#0/notvisual the ground] near [/EN#50028/scene water] relaxing while reading [/EN#50032/other a book] .
+[/EN#50027/people A woman] is reading [/EN#50032/other her book] at [/EN#50028/scene a beautiful place] .

@@ -1,0 +1,5 @@
+[/EN#98462/people A group of boys] is sitting in [/EN#98464/scene a large mud puddle] in [/EN#98463/scene a grassy field] .
+[/EN#98462/people A group of four boys] plays with [/EN#98465/other mud] in [/EN#98464/scene the water] and [/EN#98463/scene grass] .
+[/EN#98462/people Four boys] are sitting in [/EN#98464/scene a muddy stream] .
+[/EN#98462/people Four boys] play in [/EN#98465/other the mud] .
+[/EN#98462/people Four boys] sit in [/EN#98465/other the mud] .

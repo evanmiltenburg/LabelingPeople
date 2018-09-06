@@ -1,0 +1,5 @@
+[/EN#32499/people The man] in [/EN#32504/clothing the brown cap] is paddling [/EN#32500/vehicles/scene a boat] on [/EN#32501/scene calm river] .
+[/EN#32499/people A man] is rowing on [/EN#32500/vehicles/scene his boat] through [/EN#32501/scene very still water] .
+[/EN#32499/people A old man] canoeing with [/EN#32503/other green Lilly pads] .
+[/EN#32499/people A man] is rowing [/EN#32500/other a canoe] on [/EN#32501/scene a lake] .
+[/EN#32499/people A man] in [/EN#32500/vehicles/scene a paddle boat] on [/EN#32501/scene a lake] .

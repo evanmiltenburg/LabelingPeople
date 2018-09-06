@@ -1,0 +1,5 @@
+[/EN#257000/people A young boy] in [/EN#257001/clothing a Texas Rangers uniform] opens [/EN#257003/clothing his glove] right before [/EN#0/notvisual he] catches [/EN#257002/other a baseball] .
+[/EN#257000/people Young boy] in [/EN#257001/clothing a baseball uniform] about to catch [/EN#257002/other a baseball] in [/EN#257003/clothing his glove] .
+[/EN#257000/people A young boy] in [/EN#257001/clothing a baseball outfit] catches [/EN#257002/other a baseball] .
+[/EN#257000/people A young boy] in [/EN#257001/clothing a baseball uniform] catches [/EN#257002/other the ball] .
+[/EN#257000/people A young boy] is playing [/EN#257002/other baseball] .

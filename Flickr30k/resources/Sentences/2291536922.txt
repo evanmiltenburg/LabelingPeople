@@ -1,0 +1,5 @@
+[/EN#39442/scene A dentist 's office] ; [/EN#39434/people two dentists] in [/EN#39435/clothing blue uniform] are working on [/EN#39436/bodyparts a patient 's mouth] .
+[/EN#39434/people Two dental practitioners] , [/EN#39437/people one male] and [/EN#39438/people one female] , working on [/EN#39439/people a patient] .
+[/EN#39439/people A dental patient] is examined by [/EN#39437/people a man] and [/EN#39438/people a woman] in [/EN#39435/clothing blue scrubs] .
+[/EN#39439/people A person] has [/EN#39440/other dental work] done at [/EN#39441/bodyparts the hands] of [/EN#39437/people a man] and [/EN#39438/people a woman] .
+[/EN#39434/people Two surgeons] working on [/EN#39443/bodyparts a persons teeth] .

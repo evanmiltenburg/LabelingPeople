@@ -1,0 +1,5 @@
+[/EN#169621/people A person] in [/EN#169624/clothing a yellow shirt] carrying [/EN#169620/clothing a clear plastic bag] with [/EN#169620/clothing three oranges] in [/EN#0/notvisual it] .
+[/EN#169621/people A person] in [/EN#169624/clothing a yellow coat] carrying [/EN#169620/other a plastic bag of orange colored fruit] .
+[/EN#169621/people A person] with [/EN#169624/clothing a yellow jacket] carrying [/EN#169620/clothing 3 oranges] in [/EN#169620/clothing a plastic bag] .
+[/EN#169621/people A person] in [/EN#169624/clothing a yellow coat] is carrying [/EN#169620/clothing a bag of three oranges] .
+[/EN#169621/people Someone] holding [/EN#169620/clothing a bag of oranges] walking outside .

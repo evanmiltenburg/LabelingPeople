@@ -1,0 +1,5 @@
+[/EN#148016/people A guy] on [/EN#148017/other inline skates] with [/EN#148020/clothing a white hat] is on [/EN#148018/other a yellow rail] .
+[/EN#148016/people A man] [/EN#148017/other Rollerblades] across [/EN#148018/other a yellow pole] at [/EN#148021/scene night] .
+[/EN#148016/people An inline skater boy] balances on [/EN#148018/other a yellow rail] .
+[/EN#148016/people A skater] does [/EN#0/notvisual a trick] on [/EN#148018/other a yellow handrail] .
+[/EN#148016/people a male skater] is riding [/EN#148018/other a yellow rail]

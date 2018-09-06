@@ -1,0 +1,5 @@
+[/EN#164196/people A boy] in [/EN#164201/clothing a white shirt] prepares to hit [/EN#164198/other a ball] thrown by [/EN#164197/people a boy] in [/EN#164202/clothing a green shirt] in [/EN#164194/scene an empty parking lot] .
+[/EN#164197/people One man] pitches to [/EN#164200/people a waiting batter] as [/EN#0/notvisual they] play in [/EN#164194/scene a parking lot] .
+[/EN#164193/people Two guys] are playing [/EN#164195/other baseball] in [/EN#164194/scene a parking lot] .
+[/EN#164193/people Two men] are playing [/EN#164195/other baseball] in [/EN#164194/scene a parking lot] .
+[/EN#164193/people Two men] playing [/EN#164195/other baseball] in [/EN#164194/scene a parking lot] .

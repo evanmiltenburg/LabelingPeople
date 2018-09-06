@@ -1,0 +1,5 @@
+[/EN#217491/people A window-washer] , dangling from [/EN#217494/other a cord] and carrying [/EN#217497/other a white bucket] , works on [/EN#217492/scene the windows of a red brick building] [/EN#0/notvisual which] is labeled with [/EN#217498/other the word] " [/EN#217493/scene BUILDING] " on [/EN#217496/other a carved lintel] .
+[/EN#217491/people A man] hanging from [/EN#217494/other a rope] washes [/EN#217495/scene the windows of a red brick building] .
+[/EN#217491/people A man] is washing [/EN#217495/scene the windows of a brick building] .
+[/EN#217491/people A man] washing [/EN#217492/other windows] on [/EN#217493/scene a red brick building] .
+[/EN#217492/other A window] cleaner is repelling down [/EN#217493/scene a building] .

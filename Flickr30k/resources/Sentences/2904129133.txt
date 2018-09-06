@@ -1,0 +1,5 @@
+[/EN#80357/scene A little boy drinks water] from [/EN#80355/scene a fountain] while [/EN#80356/people another little boy] watches and makes [/EN#80362/bodyparts a face] .
+[/EN#80357/people An older boy] drinks from [/EN#80355/scene a water fountain] while [/EN#80356/people a younger boy] watches .
+[/EN#80354/people Two boys] stand near [/EN#80355/scene a drinking fountain] as [/EN#80357/other one] takes [/EN#80359/other a drink] .
+[/EN#80354/people Two boys] are getting [/EN#80360/other drinks] out of [/EN#80355/scene a water fountain] .
+[/EN#80354/people Two boys] are at [/EN#80355/scene an outdoor water fountain] .

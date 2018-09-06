@@ -1,0 +1,5 @@
+[/EN#94981/people Three men] stand in [/EN#94983/scene a forest] among [/EN#94982/clothing a dense cluster of large tree trunks] .
+[/EN#94981/people Three men] in [/EN#94983/other the middle of the woods] are looking at [/EN#94982/other a tree] .
+[/EN#94981/people Three men] look at [/EN#94984/other a tree] in [/EN#94985/other the woods] .
+[/EN#94981/people Three men] are standing in [/EN#94983/scene a forest] .
+[/EN#94981/people three men] examine [/EN#94984/other a tree] .

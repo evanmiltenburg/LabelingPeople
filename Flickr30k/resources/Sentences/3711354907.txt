@@ -1,0 +1,5 @@
+[/EN#138669/people A man] wearing [/EN#138672/clothing an orange hard hat] is being lowered down [/EN#138670/scene the side of a building] .
+[/EN#138669/people A man] in [/EN#138674/clothing orange] is hanging by [/EN#138671/other a cable] doing [/EN#138675/other some work] on [/EN#138670/scene a building] .
+[/EN#138669/people A man] working on [/EN#138673/clothing a safety harness] in [/EN#138677/scene the sky] .
+[/EN#138669/people A man] tied to [/EN#138671/other ropes] scaling [/EN#138670/scene a building] .
+[/EN#138669/people A worker] suspended in [/EN#0/notvisual the air] .

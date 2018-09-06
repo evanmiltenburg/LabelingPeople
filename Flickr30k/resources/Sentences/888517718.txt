@@ -1,0 +1,5 @@
+[/EN#283004/animals A brown and black dog] is standing on [/EN#283007/bodyparts its hind legs] trying to catch [/EN#283006/other something] .
+[/EN#283004/animals/people German Shepherd] standing up snapping at [/EN#283005/scene droplets of water]
+[/EN#283004/animals A dog] is jumping up on [/EN#283007/bodyparts hind legs] with [/EN#283009/scene its mouth open] .
+[/EN#283004/animals/people A German shepherd] playing with [/EN#283005/scene water] in [/EN#283008/scene the grass] .
+[/EN#283004/animals A dog] plays on [/EN#283008/scene the grass] .

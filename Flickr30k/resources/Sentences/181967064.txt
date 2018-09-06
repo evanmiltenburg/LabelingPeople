@@ -1,0 +1,5 @@
+[/EN#21442/people A middle-aged man] , wearing [/EN#21447/clothing shorts] and [/EN#21444/clothing a t-shirt] , [/EN#21445/other cooks hamburgers] and [/EN#21446/other hotdogs] on [/EN#21443/other a stainless steel outdoor barbecue grill] .
+[/EN#21442/people An older gentleman] , wearing [/EN#21444/clothing a t-shirt] and [/EN#21447/clothing shorts] , is flipping [/EN#21445/other burgers] on [/EN#21443/other a large stainless steel gas grill] .
+[/EN#21442/people A man] is barbecuing [/EN#21446/other hotdogs] and [/EN#21445/other hamburger patties] on [/EN#21443/other a large grill] .
+[/EN#21442/people A guy] in [/EN#21444/clothing a white t-shirt] is cooking [/EN#21446/other hotdogs] and [/EN#21445/other burgers] on [/EN#21443/other a grill] .
+[/EN#21442/people An old man] is grilling [/EN#21446/other hotdogs] and [/EN#21445/other burgers] outside .

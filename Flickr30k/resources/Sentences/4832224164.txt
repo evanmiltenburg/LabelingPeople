@@ -1,0 +1,5 @@
+[/EN#208700/people A man] in [/EN#208701/clothing a white shirt] and [/EN#208702/clothing black bag] stands by [/EN#208703/other a tree] with [/EN#208704/other a group of others] mostly dressed in [/EN#208705/clothing black] .
+[/EN#208706/people People] stand in [/EN#208704/people a group] next to [/EN#208703/scene a construction site] , listening to [/EN#208708/people a tour guide] in [/EN#208709/clothing a hat] .
+[/EN#208704/people A group of men] and [/EN#208710/people women] are gathered under [/EN#208703/scene a tree outside of a building] .
+[/EN#208704/people A crowd of people] standing outside [/EN#208703/scene a building] .
+[/EN#208711/people a group of people] gathering [/EN#208712/scene outside] .

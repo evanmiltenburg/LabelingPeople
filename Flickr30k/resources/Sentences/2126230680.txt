@@ -1,0 +1,5 @@
+[/EN#30153/people Two men] inside [/EN#30164/clothing/scene a boxing ring] , [/EN#30154/other one] with [/EN#30155/clothing red headgear] and [/EN#30156/other one] with [/EN#30157/clothing blue headgear] , are engaged in [/EN#30163/other a boxing match] .
+[/EN#30156/people The man] in [/EN#30157/clothing blue] is punching [/EN#30153/people the man] with [/EN#30159/clothing the red gloves] while [/EN#0/notvisual he] blocks [/EN#30160/bodyparts his face] .
+[/EN#30153/people Two boxers] are boxing in [/EN#30161/clothing a ring] as [/EN#30162/people spectators] watch .
+[/EN#30153/people Two men] are boxing in [/EN#30165/scene fighting arena] .
+[/EN#30153/people Two men] are boxing in [/EN#30161/clothing a ring] .

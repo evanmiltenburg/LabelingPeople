@@ -1,0 +1,5 @@
+[/EN#107476/people A fashionably dressed woman] holding [/EN#107479/other a record] in [/EN#107479/other a frame] at [/EN#107480/scene a used bookstore] .
+[/EN#107476/people A woman] holds [/EN#107479/other a framed piece of art] at [/EN#107480/scene a store] while [/EN#107477/people another man] shops .
+[/EN#107476/people A girl] and [/EN#107483/scene a guy shop] for [/EN#107485/other records] in [/EN#107480/scene a music store] .
+[/EN#107477/people A man] and [/EN#107476/people woman] look at [/EN#107484/other music cds] .
+[/EN#107477/people Shoppers] in [/EN#107480/scene a record store] .

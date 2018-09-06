@@ -1,0 +1,5 @@
+[/EN#167024/people A toddler] in [/EN#167026/clothing a white shirt] is standing in front of [/EN#167025/vehicles a blue kid 's bike] .
+[/EN#167024/people A child] is looking at [/EN#167025/vehicles his bicycle] wearing [/EN#167026/clothing shirt] , [/EN#167028/clothing pants] and [/EN#167029/clothing shoes] .
+[/EN#167024/people Young child] in [/EN#167026/clothing a white jacket] standing in front of [/EN#167025/vehicles a bike] .
+[/EN#167024/people A toddler] in [/EN#167026/clothing a white sweatshirt] looking at [/EN#167025/vehicles a toy bike] .
+[/EN#167024/people A young child] playing with [/EN#167025/vehicles a toy bike]

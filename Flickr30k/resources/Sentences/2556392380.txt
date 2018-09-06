@@ -1,0 +1,5 @@
+[/EN#57892/people Little boy] in [/EN#57893/clothing a robe] sits in [/EN#57894/other a chair] posing for [/EN#0/notvisual the camera] .
+[/EN#57892/people A little dark-haired boy] on [/EN#57894/other a chair] in [/EN#57893/clothing his white bathrobe] .
+[/EN#57892/people A small boy] in [/EN#57893/clothing a bathrobe] is sitting in [/EN#57894/other a metal chair] .
+[/EN#0/notvisual There] is [/EN#57892/people a little boy] sitting in [/EN#57894/other a chair] .
+[/EN#57892/people A boy] in [/EN#57893/clothing a robe] sits in [/EN#57894/other a chair] .

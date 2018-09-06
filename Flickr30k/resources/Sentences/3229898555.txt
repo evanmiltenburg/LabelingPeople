@@ -1,0 +1,5 @@
+[/EN#102820/animals A cat] standing on [/EN#102824/other carpet] is interested in [/EN#102823/other a piece] of string in [/EN#0/notvisual the air] nearby [/EN#102824/other wood] flooring .
+[/EN#102820/animals A white and brown cat] bats at [/EN#102821/other a frayed string] dangling in front of [/EN#0/notvisual him]
+[/EN#102820/animals The white and black cat] pawed at [/EN#102822/other the piece of fabric] .
+[/EN#102820/animals Cat] playing with [/EN#102821/other a dangling string] .
+[/EN#102820/animals Cat] standing to play with [/EN#102821/other string] .

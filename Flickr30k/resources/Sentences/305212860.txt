@@ -1,0 +1,5 @@
+[/EN#90344/people A young girl] wearing [/EN#90348/clothing a skirt] and [/EN#90347/clothing a pink helmet] is playing with [/EN#90346/vehicles a scooter] .
+[/EN#90344/people A little girl] wearing [/EN#90347/clothing a pink helmet] is playing with [/EN#90346/vehicles a 3 wheeled scooter] .
+[/EN#90344/people A young girl] in [/EN#90350/other white tights] stands [/EN#90349/vehicles nearby a scooter] on [/EN#90351/scene a path] .
+[/EN#90344/people A little girl] wears [/EN#90347/clothing a helmet] and prepares to ride [/EN#90346/vehicles a scooter] .
+[/EN#90344/people A little girl] in [/EN#90347/clothing a pink helmet] is pushing [/EN#90346/vehicles her scooter] .

@@ -1,0 +1,5 @@
+[/EN#56035/people A man] in [/EN#56036/clothing an orange vest] and [/EN#56037/clothing hard hat] repairing [/EN#56040/other a wall] , while standing on [/EN#56038/other scaffolding] .
+[/EN#56035/people A construction worker] in [/EN#56037/clothing a white hard hat] and [/EN#56036/clothing bright orange vest] is washing [/EN#56040/other a wall] .
+[/EN#56035/people A workman] is wearing [/EN#56036/clothing an orange vest] , [/EN#56037/clothing hard hat] while tiling [/EN#56041/scene a building] .
+[/EN#56035/people A construction worker] in [/EN#56036/clothing a orange vest] is grouting [/EN#56039/other tile] on [/EN#56040/other a wall] .
+[/EN#56035/people Man] in [/EN#56036/clothing orange vest] maintains [/EN#56039/other the wall tiles] .

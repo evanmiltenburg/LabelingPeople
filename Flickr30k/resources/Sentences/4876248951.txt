@@ -1,0 +1,5 @@
+[/EN#213945/people A woman] in [/EN#213946/clothing a green apron] uses [/EN#213948/other a meat] cleaver to cut up [/EN#213949/animals an animal] .
+[/EN#213945/people A woman] in [/EN#213946/clothing a green apron] is carving [/EN#213948/other meat] from [/EN#213947/other an animal carcass] .
+[/EN#213945/people A woman] in [/EN#213946/clothing a teal apron] prepares [/EN#213947/other a meal] at [/EN#213950/scene a restaurant] .
+[/EN#213945/people A woman] is carving [/EN#213949/animals an animal] .
+[/EN#213945/people A woman] preparing [/EN#213947/other some pork] .

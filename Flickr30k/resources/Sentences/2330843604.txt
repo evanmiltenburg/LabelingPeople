@@ -1,0 +1,5 @@
+[/EN#42054/people A girl] jumping [/EN#42057/other rope] on [/EN#42056/scene a sidewalk] with [/EN#42055/scene a parking garage] to [/EN#42058/scene the left] .
+[/EN#42054/people A girl] jumping [/EN#42057/other rope] on [/EN#42056/scene a sidewalk] near [/EN#42055/scene a parking garage] .
+[/EN#42054/people A blond child] jumping [/EN#42057/other rope] on [/EN#42056/scene a sidewalk] .
+[/EN#42054/people A girl] jumps [/EN#42057/other rope] on [/EN#42056/scene a sidewalk] .
+[/EN#42054/people A small girl] jumping [/EN#42057/other rope] .

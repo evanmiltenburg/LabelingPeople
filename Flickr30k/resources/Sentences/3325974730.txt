@@ -1,0 +1,5 @@
+[/EN#109566/people A snowboarder] jumps high into [/EN#0/notvisual the air] off of [/EN#109568/scene a snowy ramp] .
+[/EN#109566/people Man] on [/EN#109569/other a snowboard] performing [/EN#0/notvisual a trick] high in [/EN#0/notvisual the air] .
+[/EN#109566/people Person] in [/EN#109573/clothing a purple coat] making [/EN#0/notvisual a jump] on [/EN#109569/other a snowboard] .
+[/EN#109566/people Snowboarder] jumps off [/EN#109568/scene high ramp] over [/EN#109568/scene icy landscape] .
+[/EN#109571/people A snowboarder] jumps off [/EN#109568/scene a ramp] .

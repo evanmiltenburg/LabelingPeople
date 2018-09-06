@@ -1,0 +1,5 @@
+[/EN#90516/people A man] in [/EN#90519/clothing a black shirt] wanders around amongst [/EN#90517/people fencing players] .
+[/EN#90516/people A man] is standing in [/EN#90518/scene a gym] surrounded by [/EN#90517/people men] fencing .
+[/EN#90520/people A fencing class] takes [/EN#90521/scene place] on [/EN#90518/scene a basketball court] .
+[/EN#90517/people Many people] are fencing on [/EN#90518/scene a basketball court] .
+[/EN#90516/people A man] in [/EN#90519/clothing a black shirt] stares at [/EN#90516/people a swordsman]

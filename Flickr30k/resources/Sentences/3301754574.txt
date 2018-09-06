@@ -1,0 +1,5 @@
+[/EN#107947/animals A black bird] flies while carrying [/EN#107948/other a small tree branch] in [/EN#107949/bodyparts its beak] .
+[/EN#107947/animals The bird] is carrying [/EN#107948/other a plant] in [/EN#107949/bodyparts its mouth] while [/EN#107951/other flying] .
+[/EN#107947/animals Black bird] flying with [/EN#107948/other a leafy branch] in [/EN#107949/bodyparts its mouth] .
+[/EN#107947/animals A black bird] in [/EN#0/notvisual the air] with [/EN#107948/other leaves] in [/EN#107949/bodyparts its mouth] .
+[/EN#107947/animals A black bird] carrying [/EN#107948/other a small branch] .

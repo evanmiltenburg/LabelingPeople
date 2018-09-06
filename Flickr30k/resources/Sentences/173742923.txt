@@ -1,0 +1,5 @@
+[/EN#19700/people A large group of people] sit on [/EN#19703/other concrete benches] while [/EN#19708/people two people] walk along in front of [/EN#0/notvisual it] in [/EN#19709/clothing blue jeans] .
+[/EN#19704/people A boy] and [/EN#19706/people a middle-aged woman] are walking out from [/EN#19705/scene a crowd outside] .
+[/EN#19700/people A crowd] gathers in [/EN#19703/scene a set of stands] adjacent to [/EN#19702/scene a field] .
+[/EN#19700/people A group of people] are sitting outside on [/EN#19703/other stone steps] .
+[/EN#19700/people People] are sitting on [/EN#19707/people/scene bleachers] in [/EN#19701/scene a park] .

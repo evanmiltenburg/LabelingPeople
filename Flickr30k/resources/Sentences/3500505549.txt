@@ -1,0 +1,5 @@
+[/EN#123067/people The skateboarder] does [/EN#0/notvisual a trick] on [/EN#123071/other the railing] while [/EN#123073/people other people] passing by watch .
+[/EN#123067/people A person] with [/EN#123075/clothing glasses] is performing [/EN#0/notvisual an aerial trick] on [/EN#123074/scene a post] in [/EN#123070/scene the city] .
+[/EN#123067/people A person] is rollerblading on [/EN#123071/other a railing] by [/EN#123068/scene a sidewalk] with [/EN#123073/people people] .
+[/EN#123067/people Rollerblader] in [/EN#123076/clothing red shirt] is skating on [/EN#123071/other a handrail] .
+[/EN#123067/people A skateboarder] on [/EN#123069/scene a city street] .

@@ -1,0 +1,5 @@
+[/EN#266357/people Middle-aged , guitar playing , male folk singer] , standing on [/EN#266360/scene the stage] performing .
+[/EN#266357/people A man] , dressed in [/EN#266362/clothing a green jacket] , sings into [/EN#266359/other a microphone] while playing [/EN#266358/instruments guitar] .
+[/EN#266357/people A man] is standing while playing [/EN#266358/instruments a guitar] with [/EN#266359/other a microphone] in front of [/EN#0/notvisual him] .
+[/EN#266357/people A middle-aged solo musician] performs by [/EN#266361/other singing] and playing [/EN#266358/instruments the guitar] .
+[/EN#0/notvisual this] is [/EN#266357/people a man] singing , on [/EN#266360/scene stage] and with [/EN#266358/instruments an acoustic guitar] .

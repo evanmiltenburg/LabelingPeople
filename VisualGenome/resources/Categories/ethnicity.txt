@@ -1,0 +1,46 @@
+japanese
+african american
+oriental
+latino
+american
+spanish
+african-american
+asian
+muslim
+vietnamese
+latin
+british
+foreign
+mexican
+middle eastern
+hawaiian
+latina
+native american
+european
+caucasian
+african
+chinese
+hispanic
+south asian
+indian
+ethnic
+not african american
+afroamerican
+european descent
+asian descent
+indian descent
+italian
+senior caucasian
+minority
+of mexican heritage
+greek
+india
+polish
+
+# TYPOS:
+causasian
+caucasin
+caucasion
+caucation
+asain
+not caucasin

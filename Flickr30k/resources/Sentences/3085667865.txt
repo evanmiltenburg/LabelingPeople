@@ -1,0 +1,5 @@
+[/EN#92297/people a lone surfboarder] jumping [/EN#92301/scene a wave] on [/EN#92299/other a white surfboard] .
+[/EN#92297/people A person] in [/EN#92303/clothing a wetsuit] is in [/EN#92300/scene midair] while [/EN#92298/other surfing] .
+[/EN#92297/people A man] flies into [/EN#0/notvisual the air] with [/EN#92299/other his surfboard] .
+[/EN#92297/people A surfer] is in [/EN#0/notvisual the air] above [/EN#92302/scene the ocean] .
+[/EN#92297/people A surfer] performs [/EN#0/notvisual a trick] .

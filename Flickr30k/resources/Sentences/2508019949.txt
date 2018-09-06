@@ -1,0 +1,5 @@
+[/EN#54056/people A person] dressed in [/EN#54057/clothing a dress] with [/EN#54058/other flowers] and [/EN#54059/other a stuffed bee] attached to [/EN#0/notvisual it] , is pushing [/EN#54060/people a baby] stroller down [/EN#54061/scene the street] .
+[/EN#54056/people a green bearded man] wearing [/EN#54057/clothing women 's apparel] while [/EN#0/notvisual he] pushes [/EN#54062/vehicles his cart]
+[/EN#54056/people An oddly dressed man] pushing [/EN#54062/other a stroller] down [/EN#54065/scene a sidewalk] in [/EN#54066/scene a park] .
+[/EN#54056/people A man] in [/EN#54057/other ruffles] pushes [/EN#54062/other a stroller] through [/EN#54067/scene a park] .
+[/EN#54056/people Oddly dressed man] walking down [/EN#54066/scene the street] .

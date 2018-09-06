@@ -1,0 +1,5 @@
+[/EN#66601/people A man] in [/EN#66602/clothing a white shirt] and [/EN#66603/clothing sunglasses] is holding [/EN#66604/bodyparts hands] with [/EN#66605/people a woman] wearing [/EN#66606/clothing a red shirt] outside .
+[/EN#66605/people A woman] in [/EN#66606/clothing a red shirt] and [/EN#66601/people a man] in [/EN#66602/clothing white] stand in front of [/EN#66607/other a mirror] .
+[/EN#66605/people a girl] wearing [/EN#66606/clothing a red shirt] holding [/EN#66601/people the hand of a man] near [/EN#66609/scene a street] .
+[/EN#66608/people A couple] stands in [/EN#66609/scene the street] with [/EN#66610/other their backs] to [/EN#66607/other a large mirror] .
+[/EN#66608/people A couple] are holding [/EN#66604/bodyparts hands] next to [/EN#66607/other a very large mirror] [/EN#66609/scene outdoors] .

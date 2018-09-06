@@ -1,0 +1,5 @@
+[/EN#158940/people A person] wearing [/EN#158943/clothing a hat] and [/EN#158942/clothing a blue shirt] carries [/EN#158945/other their items] on [/EN#158941/vehicles a bike] in [/EN#158946/other a marketplace] .
+[/EN#158940/people A man] in [/EN#158942/clothing a blue jacket] is pushing [/EN#158941/vehicles a bicycle] loaded with [/EN#158947/people a potato type] vegetables .
+[/EN#158940/people A man] in [/EN#158943/clothing a tan hat] and [/EN#158942/clothing blue shirt] walks [/EN#158941/vehicles a bike] loaded with [/EN#158945/other produce] .
+[/EN#158940/people Man] in [/EN#158942/clothing blue jacket] sells [/EN#158944/other cart of turnips] in [/EN#158948/scene busy open market] .
+[/EN#158940/people A man] in [/EN#158942/clothing a blue shirt] pushes [/EN#158941/vehicles a bicycle] loaded with [/EN#158944/other produce] .

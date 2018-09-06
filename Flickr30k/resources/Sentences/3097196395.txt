@@ -1,0 +1,5 @@
+[/EN#93376/animals Two greyhounds] with [/EN#93378/other muzzles race] along [/EN#93381/scene the inside curb of a railed dirt track] .
+[/EN#93376/animals Two racing dogs] run around [/EN#93379/scene a track] .
+[/EN#93376/animals Two dogs] are racing on [/EN#93379/other a ractrack] .
+[/EN#93377/other two dogs race] across [/EN#93379/scene the track] .
+[/EN#93377/other Two greyhounds race]

@@ -1,0 +1,5 @@
+[/EN#25806/people A man] , wearing [/EN#25811/clothing an orange hard hat] , standing on [/EN#25808/other top a pile of bricks] and [/EN#25807/scene rubble] .
+[/EN#25806/people A worker] stands atop [/EN#25807/scene a pile of rubble] with [/EN#25810/other a hose] in [/EN#25813/bodyparts his hand] .
+[/EN#25806/people One man] in [/EN#25812/clothing black clothing] standing atop [/EN#25808/other bricks] and [/EN#25807/scene rubble] .
+[/EN#25806/people A man] in [/EN#25809/scene a hard hat stand] on top of [/EN#25807/scene a pile of rubble] .
+[/EN#25806/people A worker] cleaning up [/EN#25807/scene a demolition site] .

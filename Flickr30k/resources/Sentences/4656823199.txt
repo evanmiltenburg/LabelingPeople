@@ -1,0 +1,5 @@
+[/EN#187628/people A man] is sitting down [/EN#187632/clothing wearing blue gloves] and wearing [/EN#187630/clothing a white jacket] .
+[/EN#187628/people A man] in [/EN#187631/clothing white and glasses] working in [/EN#187629/animals/scene the lab] with [/EN#187632/clothing gloves] on .
+[/EN#187628/people A man] in [/EN#187630/clothing a white lab coat] is seated and working .
+[/EN#187628/people Man] in [/EN#187630/clothing white coat] with [/EN#187633/other glasses works] in [/EN#187629/animals/scene a lab] .
+[/EN#187628/people A man] with [/EN#187631/clothing glasses] working in [/EN#187629/scene a laboratory] .

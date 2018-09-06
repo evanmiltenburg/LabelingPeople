@@ -1,0 +1,5 @@
+[/EN#77678/people The man] in [/EN#77679/clothing a black shirt] under [/EN#77680/other green lights] is holding [/EN#77681/other a microphone] .
+[/EN#77678/people A man] in [/EN#77679/clothing black] is singing into [/EN#77681/other a microphone] behind [/EN#77680/other a green light] .
+[/EN#77678/people A man] in [/EN#77682/clothing glasses] sings into [/EN#77681/other a microphone] under [/EN#77680/other green lights] .
+[/EN#77678/people A man] in [/EN#77679/clothing a dark shirt] and [/EN#77682/clothing glasses] holds [/EN#77681/other a microphone] .
+[/EN#77678/people A man] in [/EN#77679/clothing a black shirt] is talking into [/EN#77681/other a microphone] .

@@ -1,0 +1,5 @@
+[/EN#153539/people A person] is driving across [/EN#153540/scene a dry terrain] on [/EN#153541/vehicles an All Terrain Vehicle] , wearing [/EN#153542/other mostly green gear] .
+[/EN#153539/people A person] dressed in [/EN#153542/clothing a green protective suit] is riding [/EN#153543/vehicles an all terrain vehicle] across [/EN#153540/scene a desert] .
+[/EN#153539/people An individual] is riding [/EN#153541/vehicles a green dirt bike] in [/EN#153542/clothing a matching uniform] .
+[/EN#153539/people Man] in [/EN#153542/clothing a green jacket] riding [/EN#153541/vehicles a green ATV] in [/EN#153540/scene the desert] .
+[/EN#153539/people A man] rides [/EN#153543/other a 4 wheeler] in [/EN#153540/scene the desert] .

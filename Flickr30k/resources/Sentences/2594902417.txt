@@ -1,0 +1,5 @@
+[/EN#60267/animals The two tan colored dogs] are in [/EN#60268/scene a field] , and [/EN#60266/other one] is jumping in [/EN#0/notvisual the air] .
+[/EN#60266/animals A dog] hops in [/EN#60268/scene a field] while [/EN#60269/animals another dog] stands next to [/EN#0/notvisual it] .
+[/EN#60266/animals One dog] is jumping up at [/EN#60269/animals another dog] in [/EN#60268/scene a grassy field] .
+[/EN#60267/animals Two brown dogs] play with [/EN#60266/other one] [/EN#0/notvisual another] in [/EN#60268/scene the field] .
+[/EN#60267/animals Two brown dogs] in [/EN#60268/scene a field] .

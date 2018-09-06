@@ -1,0 +1,5 @@
+[/EN#111834/people A child] in [/EN#111839/clothing a red shirt] is using [/EN#111838/other a black wakeboard] to splash over [/EN#111837/scene a beach wave] .
+[/EN#111834/people A young child] wearing [/EN#111839/clothing a red t-shirt] rides [/EN#111838/other a surfboard] over [/EN#111837/scene a wave] .
+[/EN#111834/people A boy] on [/EN#111838/other a black surfboard] riding [/EN#111837/scene the wave] on [/EN#111841/bodyparts his stomach] .
+[/EN#111834/people A young boy] with [/EN#111839/clothing a red shirt] surfing on [/EN#111838/other a black surfboard] .
+[/EN#111834/people A kid] with [/EN#111834/people red-hair boy] boarding in [/EN#111837/scene the ocean]

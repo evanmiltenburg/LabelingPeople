@@ -1,0 +1,5 @@
+[/EN#69223/animals A dog] stands on [/EN#69225/bodyparts its hind legs] in [/EN#69224/scene a wooded area] while [/EN#69228/animals another dog] watches .
+[/EN#69223/animals A white dog] is jumping in [/EN#0/notvisual the air] to catch [/EN#69227/other a ball] in [/EN#69226/other the woods] .
+[/EN#69223/animals A brown dog] on [/EN#69225/bodyparts his hind legs] in [/EN#69224/other the shadow of some trees] .
+[/EN#69223/animals A brown and white dog] stands on [/EN#69225/bodyparts his hind leg] and [/EN#69229/other barks] .
+[/EN#69223/animals A dog] jumps in [/EN#69226/other the woods] .

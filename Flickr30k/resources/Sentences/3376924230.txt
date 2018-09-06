@@ -1,0 +1,5 @@
+[/EN#114101/people A man] sits on [/EN#114103/other a concrete ledge] with [/EN#114104/vehicles his bicycle] by [/EN#0/notvisual his side] while [/EN#114102/people another man] walks toward [/EN#0/notvisual him] holding [/EN#114114/people the hand of a young girl] and carrying [/EN#114106/people a baby] in [/EN#114109/other a front pack] .
+[/EN#114102/people An asian man] walks down [/EN#114110/scene a gray-tiled walkway] with [/EN#114105/people his two daughters] by [/EN#114102/people a man] sitting with [/EN#114104/vehicles his bike] .
+[/EN#114100/people A family] is walking through [/EN#114107/scene a building] and [/EN#114102/people a man] sits on [/EN#114103/other a ledge] inside [/EN#114108/scene the building] .
+[/EN#114101/people A man] sitting on [/EN#114103/other a bench] with [/EN#114100/people a family] off in [/EN#0/notvisual the distance] .
+[/EN#114102/people The man] and [/EN#114105/people his two kids] are about to walk past [/EN#114101/people a person] .

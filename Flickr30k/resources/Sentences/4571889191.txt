@@ -1,0 +1,5 @@
+[/EN#179725/people A white man] and [/EN#179728/people an African American] appear to be sitting in front of [/EN#179735/scene a scenery] with [/EN#179737/other plants] and [/EN#179729/other a tree] .
+[/EN#179725/people A man] with [/EN#179727/clothing a hat] and [/EN#179733/clothing a checkered shirt] sitting next to [/EN#179728/people another man] with [/EN#179732/clothing sunglasses] on [/EN#179730/bodyparts his forehead] .
+[/EN#179725/people A man] with [/EN#179727/clothing a cowboy hat] and [/EN#179728/people a gentleman] with [/EN#179732/clothing sunglasses] on [/EN#179731/bodyparts his head] are seated next to [/EN#0/notvisual each other] .
+[/EN#179726/people Two men] sitting next to [/EN#0/notvisual each other] are looking in [/EN#0/notvisual different directions] .
+[/EN#179726/people Dark and light-skinned men] sit in front of [/EN#179729/other a tree] .

@@ -1,0 +1,5 @@
+[/EN#273582/people A crowd of people] wearing [/EN#273583/clothing tan pants] and [/EN#273584/clothing purple and orange shirts] march away from [/EN#273588/scene a stadium]
+[/EN#273582/people A group of people] in [/EN#273584/clothing purple shirts] and [/EN#273583/clothing tan pants] [/EN#273585/people all] walking in [/EN#0/notvisual the same direction] .
+[/EN#273582/people A group of people] in [/EN#273586/clothing uniform dress] are walking around outside of [/EN#273588/scene the Olympics] .
+[/EN#273582/people A group of people] wearing [/EN#273584/clothing purple shirts] and [/EN#273590/other name tags] is walking [/EN#273591/other somewhere] .
+[/EN#273587/people Group of workers] at [/EN#273588/scene the olympics] .

@@ -1,0 +1,5 @@
+[/EN#259988/people A person] walking in [/EN#259990/scene the snow] with [/EN#259989/other a forest of trees] in [/EN#0/notvisual the background] .
+[/EN#259988/people A skier] is going down [/EN#259990/other a snowy slope] with [/EN#259989/other a bank of trees] ahead of [/EN#0/notvisual him] .
+[/EN#259988/people A person] is skiing by [/EN#0/notvisual themselves] down [/EN#259992/scene a back country hill] .
+[/EN#259991/other Ice] skiing is [/EN#259994/other a sport] where [/EN#259995/other we] can play [/EN#0/notvisual it] in [/EN#259990/scene a snow] .
+[/EN#259988/people A skier] is heading into [/EN#259989/other a grove of trees] .

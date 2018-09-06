@@ -1,0 +1,5 @@
+[/EN#10908/people Two people] are sitting at [/EN#10905/other a table] and [/EN#10903/animals a bird] is standing on [/EN#10905/other the table] .
+[/EN#10907/people A man] , [/EN#10910/people a woman] , and [/EN#10903/animals a white bird] are at [/EN#10904/other picnic tables] near [/EN#10911/scene water] .
+[/EN#10903/animals A white bird] is standing on [/EN#10905/other a wooden platform] .
+[/EN#10903/animals A seagull] on [/EN#10905/other a picnic table] at [/EN#10909/scene a dock] .
+[/EN#10903/animals A seagull] is standing on [/EN#10905/other a picnic table]

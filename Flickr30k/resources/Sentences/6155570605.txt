@@ -1,0 +1,5 @@
+[/EN#248786/people A man] in [/EN#248790/clothing a red and white helmet] and [/EN#248792/other race gear] is riding [/EN#248787/vehicles a recumbent bicycle] .
+[/EN#248786/people A man] is racing [/EN#248787/vehicles an unusual type of bike] with [/EN#248788/people many people] watching [/EN#0/notvisual him] .
+[/EN#248786/people Man] in [/EN#248789/clothing a cycling uniform] riding with [/EN#248788/people people] behind [/EN#0/notvisual him] .
+[/EN#248786/people An athlete] races down [/EN#248793/scene the track] in [/EN#248787/vehicles his bike] .
+[/EN#248786/people A man] participates in [/EN#248791/other a tricycle race] .

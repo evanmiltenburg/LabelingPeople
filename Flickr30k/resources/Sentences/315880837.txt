@@ -1,0 +1,5 @@
+[/EN#97275/animals Three dogs] , [/EN#97279/other one] holding [/EN#97276/other a red Frisbee] , standing in [/EN#97277/scene snow] .
+[/EN#97275/animals Three dogs] play with [/EN#97276/other a Frisbee] in [/EN#97277/scene a snowy field] .
+[/EN#97275/animals Three dogs] playing with [/EN#97276/other a Frisbee] in [/EN#97277/scene the snow] .
+[/EN#97275/animals Three dogs] playing with [/EN#97276/other a toy] in [/EN#97277/scene the snow] .
+[/EN#97275/animals Three dogs] are playing in [/EN#97277/scene the white snow] .

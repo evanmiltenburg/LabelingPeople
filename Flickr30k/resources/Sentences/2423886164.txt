@@ -1,0 +1,5 @@
+[/EN#48381/people A woman] wearing [/EN#48382/clothing a green sweater] and [/EN#48384/clothing black leggings] covered by [/EN#48386/clothing a short black skirt] walks on [/EN#48388/scene sidewalk] while snowfalls around [/EN#0/notvisual her] .
+[/EN#48381/people A young woman] in [/EN#48384/clothing short leggings] and [/EN#48382/clothing a thin green sweater] is walking outside in [/EN#48383/other a snowstorm] .
+[/EN#48381/people A girl] is walking outside in [/EN#48385/scene the snow] wearing [/EN#48384/clothing capri length pants] and [/EN#48382/clothing a green top] .
+[/EN#48381/people A girl] in [/EN#48382/clothing a green sweater] is walking in [/EN#48383/other a snow flurry] .
+[/EN#48381/people The lady] is walking to [/EN#48387/people class] in [/EN#48385/scene the snow] .

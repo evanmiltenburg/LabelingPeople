@@ -1,0 +1,5 @@
+[/EN#65918/people An elderly Asian man] in [/EN#65919/clothing a blue coat] with [/EN#65921/other a cane] sits outside [/EN#65923/other a brick] and [/EN#65920/scene cement older building] .
+[/EN#65918/people An old man] with [/EN#65921/other a cane] sitting in [/EN#65922/other a folding chair] outside [/EN#65920/scene a dirty house] with [/EN#65924/other boarded windows] .
+[/EN#65918/people A man] with [/EN#65921/other a cane] , wearing [/EN#65919/clothing a blue shirt] is sitting on [/EN#65922/other a folding chair] next to [/EN#65925/vehicles a bicycle] .
+[/EN#65918/people A man] wearing [/EN#65919/clothing blue] sits on [/EN#65922/other a chair] in front of [/EN#65920/scene a brick building] .
+[/EN#65918/people An old Asian man] , with [/EN#65919/clothing a blue shirt] , sits with [/EN#65921/other his cane] .

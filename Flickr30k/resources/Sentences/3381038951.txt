@@ -1,0 +1,5 @@
+[/EN#114374/people A woman] in [/EN#114376/clothing a white t-shirt] points at [/EN#114375/scene a geyser] .
+[/EN#114374/people A person] is pointing at [/EN#114375/scene a geyser] .
+[/EN#114374/people The girl] is pointing at [/EN#114375/scene a geyser]
+[/EN#114374/people A woman] pointing at [/EN#114375/scene a geyser] .
+[/EN#114374/people Women] pointing at [/EN#114375/scene a geyser] .

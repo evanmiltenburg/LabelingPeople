@@ -1,0 +1,5 @@
+[/EN#192426/people Two men] , [/EN#192431/other one] wearing [/EN#192429/clothing a hat] , [/EN#192425/other the other] fixing [/EN#192427/vehicles a bike] are surrounded by [/EN#192428/vehicles numerous other bicycles] while [/EN#192433/other the tool box] is open .
+[/EN#192425/people A man] wearing [/EN#192430/clothing an apron] is watching [/EN#192426/people a boy] work on [/EN#192427/vehicles a bike] , and [/EN#0/notvisual they] are surrounded by [/EN#192428/vehicles other bikes] .
+[/EN#0/notvisual This] is [/EN#192425/people a bicycle repairman] showing [/EN#192426/people his son] how to work .
+[/EN#192426/people Two men] surrounded by [/EN#192428/vehicles several bicycles] repairing [/EN#0/notvisual them] .
+[/EN#192426/people Two men] repairing [/EN#192427/vehicles a red bike] .

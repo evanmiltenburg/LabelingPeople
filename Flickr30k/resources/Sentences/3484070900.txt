@@ -1,0 +1,5 @@
+[/EN#121675/people A man] wearing [/EN#121676/clothing an orange coat] is snowboarding in [/EN#0/notvisual the air] after going over [/EN#121680/scene a hill] .
+[/EN#121675/people A man] wearing [/EN#121676/clothing a bright orange jacket] makes [/EN#0/notvisual a jump] on [/EN#121678/other his snowboard] .
+[/EN#121675/people Man] on [/EN#121678/other a snowboard] jumping off [/EN#121677/other a slope] into [/EN#0/notvisual the air] .
+[/EN#121675/people A snowboarder] in [/EN#121676/clothing orange] is leaping over [/EN#121677/other a snow heap] .
+[/EN#121675/people A man] doing [/EN#0/notvisual a jump] on [/EN#121678/other a snowboard]

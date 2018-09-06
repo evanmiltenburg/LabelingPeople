@@ -1,0 +1,5 @@
+[/EN#250930/people A man] in [/EN#250934/clothing a yellow shirt] and [/EN#250931/clothing helmet] mountain biking down [/EN#250932/scene a dusty path] .
+[/EN#250930/people A man] in [/EN#250934/clothing a yellow shirt] and [/EN#250931/clothing black helmet] biking through [/EN#250932/scene a trail] .
+[/EN#250930/people A guy] with [/EN#250931/clothing a black helmet] , riding [/EN#250933/vehicles a mountain bike] .
+[/EN#250930/people A man] is riding [/EN#250933/vehicles a mountain bike] on [/EN#250932/scene a trail] .
+[/EN#250930/people The man] is riding [/EN#250933/vehicles his bike] along [/EN#250932/scene a trail] .

@@ -1,0 +1,5 @@
+[/EN#254511/people A single person] on [/EN#254512/vehicles a bike] rides through [/EN#254513/scene a dirt path] past [/EN#254516/scene a wooded area] .
+[/EN#254511/people A person] on [/EN#254512/vehicles a motorbike] rides on [/EN#254515/scene a trail] through [/EN#254514/scene a green forest] .
+[/EN#254511/people A biker] rides through [/EN#254516/scene a wild yet beautiful wooded area] .
+[/EN#254511/people guy] riding [/EN#254512/vehicles his bike] coming out of [/EN#254516/scene the forest] .
+[/EN#254511/people A biker] is riding [/EN#254512/vehicles a bike] in [/EN#254516/scene the forest] .

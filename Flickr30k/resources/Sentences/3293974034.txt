@@ -1,0 +1,5 @@
+[/EN#107492/people A woman] lays at [/EN#107493/scene the bottom of a staircase] exhausted , [/EN#107494/clothing one of her shoes] is on [/EN#107493/other the bottom step] .
+[/EN#107492/people This person] is laying on [/EN#107493/scene the floor] at [/EN#107493/other the bottom of the stairs] and is missing [/EN#107494/clothing a shoe] .
+[/EN#107492/people A man] is lying on [/EN#107493/scene the floor] after slipping on [/EN#107493/other the stairs] and injuring [/EN#0/notvisual himself] .
+[/EN#107492/people A woman] is sprawled on [/EN#0/notvisual the ground] at [/EN#107493/scene the bottom of a concrete staircase] .
+[/EN#107492/people A person] lies at [/EN#107493/other the bottom of a flight] of [/EN#107493/other stairs] .

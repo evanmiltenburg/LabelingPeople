@@ -1,0 +1,5 @@
+[/EN#38183/animals A white dog] is chasing after [/EN#38184/animals a small dog] at [/EN#38185/scene the beach]
+[/EN#38183/animals The white dog] is playing with [/EN#38184/animals the muddy dog] .
+[/EN#38183/animals A large dog] chases [/EN#38184/animals a small dog] on [/EN#38186/other the sand] .
+[/EN#38183/animals a big white dog] jumps on [/EN#38184/animals a small dog] .
+[/EN#38183/animals Large dog] and [/EN#38184/animals small dog] in [/EN#38186/other sand]

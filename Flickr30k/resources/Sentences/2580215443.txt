@@ -1,0 +1,5 @@
+[/EN#59418/people A group of people] are standing in [/EN#59420/other a line] looking off in [/EN#0/notvisual different directions] .
+[/EN#59418/people A group of people] stand in [/EN#59420/other a loose line] on [/EN#0/notvisual a brick ground] .
+[/EN#59418/people A group of people] stand in [/EN#59420/other a line] on [/EN#59421/other the concrete tiles] .
+[/EN#59418/people A group of people] are standing together on [/EN#59419/scene the pavement] .
+[/EN#59418/people The people] are waiting in [/EN#59420/other line] .

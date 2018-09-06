@@ -1,0 +1,5 @@
+[/EN#256525/people A man] in [/EN#256526/clothing a blue hooded sweatshirt] on [/EN#256528/other his skateboard] is jumping over [/EN#256530/other an obstacle] in [/EN#256527/scene a garage] .
+[/EN#256525/people A skateboarder] wearing [/EN#256526/clothing a blue shirt] leaps into [/EN#0/notvisual the air] on [/EN#256528/other his skateboard] .
+[/EN#256525/people Guy] in [/EN#256531/clothing jeans] skateboarding in [/EN#256529/scene the middle of the night] [/EN#256527/scene a warehouse] .
+[/EN#256525/people A man] in [/EN#256526/clothing a blue shirt] is jumping [/EN#256528/other his skateboard] in [/EN#256527/scene a garage] .
+[/EN#256525/people Skateboarder] practices at [/EN#256529/scene night] .

@@ -1,0 +1,5 @@
+[/EN#271327/people A person] with [/EN#271334/bodyparts a ponytail] , [/EN#271335/clothing black shirt] , and camouflaged [/EN#271336/clothing cap] gives [/EN#271328/people blond woman] in [/EN#271330/scene an ice cream cone outside] .
+[/EN#271327/people A food service person] is giving [/EN#271328/people a customer] [/EN#271330/other their double scoop ice cream] in [/EN#271330/other a cone] .
+[/EN#271328/people A lady] is receiving [/EN#271330/other an ice cream cone] from [/EN#271327/people a worker] .
+[/EN#271328/people A woman] buying [/EN#271330/other ice cream] from [/EN#271327/people a vendor] .
+[/EN#271328/people A woman] buys [/EN#271330/other ice cream] from [/EN#271333/scene a stand] .

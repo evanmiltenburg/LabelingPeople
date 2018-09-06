@@ -1,0 +1,5 @@
+[/EN#126247/people People] sitting at [/EN#126249/other a picnic table] in [/EN#126248/scene a grassy area] near [/EN#126250/other a tree] .
+[/EN#126247/people People] sit at [/EN#126249/other a park table] underneath [/EN#126250/other a tree] on [/EN#126252/scene a sunny day] .
+[/EN#126247/people Two couples] are seated at [/EN#126249/other a picnic table] in [/EN#126248/scene a park] setting .
+[/EN#126247/people Four kids] eating at [/EN#126249/other a picnic bench] in [/EN#126248/scene a park] .
+[/EN#126247/people People] are sitting outside having [/EN#126251/other a picnic] .

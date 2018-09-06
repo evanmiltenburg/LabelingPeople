@@ -1,0 +1,5 @@
+[/EN#138550/people A man] and [/EN#138551/people a woman] are sitting , while working on [/EN#138555/vehicles the wheel of a blue vehicle] .
+[/EN#138551/people A woman] in [/EN#138558/clothing a yellow shirt] and [/EN#138550/people a man] in [/EN#138559/clothing a gray shirt] are fixing [/EN#138552/vehicles a car] .
+[/EN#138550/people A man] is on [/EN#0/notvisual the ground] beside [/EN#138552/vehicles a blue vehicle] [/EN#138557/other with] [/EN#0/notvisual it] 's [/EN#138556/other tire] removed .
+[/EN#138550/people A guy] working on [/EN#138560/scene his cars breaks] with [/EN#138554/people someone] helping
+[/EN#138553/people Two overweight men] work on [/EN#138552/vehicles blue car] .

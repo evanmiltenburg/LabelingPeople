@@ -1,0 +1,5 @@
+[/EN#108842/people Three children] , [/EN#108849/people one girl] and [/EN#108851/people two boys] are in [/EN#108852/clothing the bathing suits] at [/EN#108843/scene a beach] in [/EN#108844/other the sand] , with [/EN#108848/scene a wave] crashing behind [/EN#0/notvisual them] and [/EN#108847/other at least one ship] in [/EN#0/notvisual the distance] .
+[/EN#108842/people Three children] are looking at [/EN#108846/other an object] [/EN#0/notvisual that] is floating in [/EN#108845/scene the water] on [/EN#108843/scene the beach] .
+[/EN#108842/people Three children] are playing in [/EN#108845/scene the shallow ocean] .
+[/EN#108842/people Three children] are playing at [/EN#108843/scene the beach] .
+[/EN#108842/people Children] play in [/EN#108844/other the sand] at [/EN#108843/scene the beach] .

@@ -1,0 +1,5 @@
+At [/EN#12666/other a table] in [/EN#12665/scene a restaurant] , [/EN#12663/people a girl] is trying to get [/EN#12664/people a little boy] to eat .
+[/EN#12663/people A mother] helps [/EN#0/notvisual her] [/EN#12664/people little boy] eat [/EN#12667/other his food] by feeding [/EN#0/notvisual him] by [/EN#12668/bodyparts hand] .
+[/EN#12663/people A young lady] wearing [/EN#12670/clothing yellow] is feeding [/EN#12664/people a small child] at [/EN#12666/other the table] .
+[/EN#12663/people A mother] is trying to get [/EN#12664/people her son] to eat [/EN#12667/other food] at [/EN#12665/scene a restaurant] .
+[/EN#12663/people Woman] sitting at [/EN#12666/other table] feeding [/EN#12664/people child] [/EN#0/notvisual who] is sitting on [/EN#12669/bodyparts her lap]

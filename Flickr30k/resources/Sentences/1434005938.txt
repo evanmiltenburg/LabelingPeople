@@ -1,0 +1,5 @@
+[/EN#12821/people A person] wearing [/EN#12822/clothing a blue backpack] stands on [/EN#12823/scene a field] above [/EN#12824/scene a scenic view] .
+[/EN#12821/people A man] is carrying [/EN#12822/clothing a large backpack] and looking over [/EN#12825/scene some green fields] .
+[/EN#12821/people A man] with [/EN#12822/clothing a large hiking backpack] outside
+[/EN#12821/people Person] with [/EN#12822/clothing a backpack] in [/EN#12823/scene a field]
+[/EN#12821/people a man] wears [/EN#12822/clothing a backpack] .

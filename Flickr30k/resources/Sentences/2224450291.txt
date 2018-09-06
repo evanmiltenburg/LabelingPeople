@@ -1,0 +1,5 @@
+[/EN#35129/people A man] in [/EN#35130/clothing blue] takes [/EN#35134/people a photo of the person] taking [/EN#0/notvisual a photo of him] .
+[/EN#35129/people A man] in [/EN#35135/other a tropical enviorment] holding [/EN#35131/other a camera] to [/EN#35136/bodyparts his face] .
+[/EN#35129/people A man] taking [/EN#35132/other a picture] with [/EN#35131/other a silver camera] .
+[/EN#35129/people The man] is outdoors , holding [/EN#35131/other a camera] .
+[/EN#35129/people Man] in [/EN#35130/clothing a blue shirt] with [/EN#35131/other a camera] .

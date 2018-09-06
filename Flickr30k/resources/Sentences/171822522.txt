@@ -1,0 +1,5 @@
+[/EN#19364/people A young boy] in [/EN#19366/clothing a green shirt] and [/EN#19367/clothing blue cap] is kicking [/EN#19365/other a soccer ball] .
+[/EN#19364/people The little boy] in [/EN#19366/clothing the green shirt] kicked [/EN#19365/other the soccer ball] high .
+[/EN#19364/people A boy] kicking [/EN#19365/other a soccer ball] and [/EN#19370/people other kids] waiting in [/EN#19368/other line] .
+[/EN#19364/people A boy] is kicking [/EN#19365/other a ball] as [/EN#19369/people other children] watch [/EN#0/notvisual him] .
+[/EN#19364/people A little boy] in [/EN#19366/clothing a green shirt] kicks [/EN#19365/other a ball] .

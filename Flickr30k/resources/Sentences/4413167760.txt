@@ -1,0 +1,5 @@
+[/EN#166890/people A man] in [/EN#166899/other a white button] up [/EN#166899/clothing shirt] , and [/EN#166897/people a man] in [/EN#166893/other a brown button] up [/EN#166893/clothing shirt] discussing [/EN#166903/other something] over [/EN#166895/other a table of food] .
+[/EN#166891/people 2 men] wearing [/EN#166900/clothing neutral color clothes] have [/EN#166894/other a conversation] over [/EN#166898/other a meal] .
+[/EN#166891/people Two men] have [/EN#166894/other an after dinner discussion] at [/EN#166895/other the dinner table] .
+[/EN#166891/people Married couple] having [/EN#166892/other dinner conversation] .
+[/EN#166890/people A man] and [/EN#166904/people woman] sit at [/EN#166895/other a cluttered table] .

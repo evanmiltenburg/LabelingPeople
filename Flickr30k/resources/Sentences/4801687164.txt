@@ -1,0 +1,5 @@
+[/EN#204244/people A woman] wearing [/EN#204245/clothing a black dress] leaning against [/EN#204247/scene a building] smoking [/EN#204246/other a cigarette] .
+[/EN#204244/people A woman] in [/EN#204245/clothing a black dress] is leaning against [/EN#204247/other a wall] , smoking [/EN#204246/other a cigarette] .
+[/EN#204244/people A woman] in [/EN#204245/clothing a black dress] smoking [/EN#204248/scene a cigarette outside] .
+[/EN#204244/people A woman] in [/EN#204245/clothing a short black dress] smoking [/EN#204246/other a cigarette] .
+[/EN#204244/people A woman] is [/EN#204245/clothing a black dress] is smoking outside .

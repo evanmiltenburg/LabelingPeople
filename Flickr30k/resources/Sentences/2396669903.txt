@@ -1,0 +1,5 @@
+[/EN#46309/people A person] in [/EN#46310/clothing a cap] with [/EN#46311/bodyparts earflaps] carries [/EN#46312/clothing two grocery bags] down [/EN#46313/scene a city street] past [/EN#46314/people a poster of a mustached man] .
+[/EN#46309/people A man] dressed in [/EN#46315/clothing a brown coat] and [/EN#46310/clothing bomber hat] is carrying [/EN#46312/clothing shopping bags] and walking towards [/EN#46319/scene an intersection] .
+[/EN#46309/people A man] carries [/EN#46312/clothing two grocery bags] , [/EN#46314/people a sign of a funny man] is by [/EN#46316/other the pole] near [/EN#0/notvisual him] .
+[/EN#46321/other Sombody] has stuck [/EN#46317/people the face of Groucho Marx] on [/EN#46322/other a walk] do n't walk [/EN#46318/other button] .
+[/EN#46309/people A man] is carrying [/EN#46312/clothing bags] nearby [/EN#46313/scene an elevated roadway and crosswalk] .

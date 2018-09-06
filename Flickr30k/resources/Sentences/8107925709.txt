@@ -1,0 +1,5 @@
+[/EN#279063/people A group of bicyclists] riding down [/EN#279067/scene a city road] with [/EN#279072/scene skyscrapers] behind [/EN#0/notvisual them] .
+[/EN#279063/people Bicyclists] wearing [/EN#279073/bodyparts smiles] ride on [/EN#279069/scene a sunny day] in [/EN#279066/scene an urban landscape] .
+[/EN#279063/people A group of bicyclists] travel past [/EN#279064/scene a fountain] in [/EN#279069/scene a metropolitan area] .
+[/EN#279063/people Teens] are riding [/EN#279074/vehicles their bikes] through [/EN#279070/scene the park] near [/EN#279064/scene the fountains]
+[/EN#279063/people Several bicyclists] ride past [/EN#279064/scene a fountain] in [/EN#279068/scene a large city] .

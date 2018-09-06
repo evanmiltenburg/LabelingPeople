@@ -1,0 +1,5 @@
+[/EN#42440/animals A black dog] with [/EN#42442/bodyparts his mouth open and tongue] out runs across [/EN#42441/scene an expanse of snow] .
+[/EN#42440/animals A big black dog] bares [/EN#42443/bodyparts its teeth] while running through [/EN#42441/scene the snow] .
+[/EN#42440/animals A black dog] is running through [/EN#42441/scene the snow] .
+[/EN#42440/animals Black dog] runs through [/EN#42441/scene snow] .
+[/EN#42440/animals A black dog] is running through [/EN#42441/scene the snow] .

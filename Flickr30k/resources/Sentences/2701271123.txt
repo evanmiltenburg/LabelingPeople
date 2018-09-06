@@ -1,0 +1,5 @@
+[/EN#66999/animals A small dog] with [/EN#67001/other a soccer ball] in [/EN#67002/bodyparts its mouth] walking on [/EN#67000/scene a dirt covered area] .
+[/EN#66999/animals The black dog] is walking through [/EN#67000/scene the dirt] with [/EN#67001/other a soccer ball] in [/EN#67002/bodyparts its mouth] .
+[/EN#66999/animals A black dog] is biting onto [/EN#67001/other a soccer ball] on [/EN#0/notvisual the dirt ground] .
+[/EN#66999/animals A black dog] walking in [/EN#67000/scene dirt] has [/EN#67001/other a soccer ball] in [/EN#67002/bodyparts his mouth] .
+[/EN#66999/animals Black dog] holding [/EN#67001/other an old soccer ball] in [/EN#67002/bodyparts its mouth]

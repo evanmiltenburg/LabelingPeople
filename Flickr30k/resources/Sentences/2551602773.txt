@@ -1,0 +1,5 @@
+[/EN#57626/people The passengers] are leaving [/EN#57627/vehicles the airplane] by [/EN#57630/other a stairway] .
+[/EN#57626/people Several people] are exiting [/EN#57627/vehicles a commercial jet aircraft] .
+[/EN#57626/people People] are exiting [/EN#57627/vehicles a Ryanair airplane] .
+[/EN#57626/people A group of passengers] exits [/EN#57627/other a plane] .
+[/EN#57626/people People] are boarding [/EN#57627/other a plane] .

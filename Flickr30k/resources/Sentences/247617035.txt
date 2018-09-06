@@ -1,0 +1,5 @@
+[/EN#52345/people The man] in [/EN#52348/clothing the brown jacket] is sitting on [/EN#0/notvisual the ground] by [/EN#52349/scene the jetty] .
+[/EN#52345/people Man] sitting by [/EN#0/notvisual himself] on [/EN#52347/scene a pier] with [/EN#52346/scene a bottle of water] .
+[/EN#52345/people a lone man] wearing [/EN#52350/clothing sunglasses] sitting on [/EN#52351/other a concrete wall]
+[/EN#52345/people A man] sits on [/EN#52347/scene a dock] with [/EN#52346/scene a bottle of water] .
+[/EN#52345/people A man] sits by [/EN#52347/scene a dock] looking at [/EN#52346/scene the water] .

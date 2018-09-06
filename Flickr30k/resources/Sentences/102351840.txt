@@ -1,0 +1,5 @@
+[/EN#687/people A man] is drilling through [/EN#690/scene the frozen ice of a pond] .
+[/EN#687/people A person] in [/EN#689/scene the snow] drilling [/EN#692/scene a hole] in [/EN#693/other the ice] .
+[/EN#687/people A person] standing on [/EN#691/scene a frozen lake] .
+[/EN#687/people A man] drilling [/EN#692/scene a hole] in [/EN#693/other the ice] .
+[/EN#694/people Two men] are [/EN#690/other ice] fishing .

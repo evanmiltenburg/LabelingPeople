@@ -1,0 +1,5 @@
+[/EN#81475/people The woman] is standing up on [/EN#81476/vehicles a bicycle] riding through [/EN#81477/scene a city] .
+[/EN#81475/people A young man] doing [/EN#0/notvisual bicycle tricks] in [/EN#81477/scene an urban area] .
+[/EN#81475/people A person] is doing [/EN#0/notvisual tricks] on [/EN#81476/vehicles a bicycle] in [/EN#81477/scene a city] .
+[/EN#81475/people Man] standing on [/EN#81476/scene a bike downtown] .
+[/EN#81475/people A man] on [/EN#81476/vehicles a bicycle] in [/EN#81477/scene the city] .

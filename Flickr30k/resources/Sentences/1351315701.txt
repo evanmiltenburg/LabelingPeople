@@ -1,0 +1,5 @@
+[/EN#9549/animals A white dog] and [/EN#9548/animals a black dog] running [/EN#0/notvisual side] by [/EN#0/notvisual side] on [/EN#9551/scene the grass] while [/EN#9552/people onlookers] watch .
+[/EN#9548/animals A black dog] and [/EN#9549/other a white dog race] in [/EN#9551/scene a grassy field] while [/EN#9552/people spectators] look on .
+[/EN#9550/animals Two dogs] , [/EN#9549/animals a pitbull] and [/EN#9548/animals a black Labrador] , run [/EN#0/notvisual side] by [/EN#0/notvisual side] .
+[/EN#9550/animals Two dogs] racing in [/EN#9551/scene a field] , with [/EN#9552/people people] looking on .
+[/EN#9553/clothing A black] and [/EN#9549/animals a white dog] are running on [/EN#9551/scene the grass] .

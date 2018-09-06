@@ -1,0 +1,5 @@
+[/EN#213410/people Three people] sit at [/EN#213412/other a table] in front of [/EN#213409/other an establishment] displaying [/EN#213414/other the words] Bar [/EN#213409/other Gleati Tabacchi] .
+[/EN#213410/people Three people] sitting outside under [/EN#213413/other canopy] [/EN#0/notvisual that] says [/EN#213409/other Bar Gelati Tabacchi] .
+[/EN#213410/people Three people] are sitting at [/EN#213412/other an outdoor table] in front of [/EN#213409/scene a coffee shop] .
+[/EN#213410/people Three people] sitting at [/EN#213412/other a table] outside [/EN#213409/other Bar Gelati Tabacchi] .
+[/EN#213410/people Three men] sit outside of [/EN#213409/other a cafe] .

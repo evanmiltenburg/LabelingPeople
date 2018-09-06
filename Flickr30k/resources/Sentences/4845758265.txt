@@ -1,0 +1,5 @@
+[/EN#209978/people A person] in [/EN#209989/clothing a white shirt] stands near [/EN#209986/scene the middle of a large white circular floor] with [/EN#209983/clothing black stripes] lining [/EN#209985/scene the edges] and [/EN#209982/other a series of black numbers] below said [/EN#209988/clothing stripes] .
+[/EN#209978/people A woman] standing outside on [/EN#209979/other a large circle] with [/EN#209982/other numbers] and [/EN#209983/other lines] around [/EN#209981/scene the edges] .
+[/EN#209978/people A woman] stands in [/EN#209987/scene the middle of a room] [/EN#0/notvisual that] has [/EN#209982/other many numbers] circling [/EN#209986/scene the floor] .
+[/EN#209978/people A woman] is stand in [/EN#209987/scene the middling of a circular floor] with [/EN#209982/other numbers] around [/EN#209984/scene the edge]
+[/EN#209978/people A woman] standing in [/EN#209980/scene a room] [/EN#0/notvisual that] is white with [/EN#209982/other numbers] in [/EN#209979/other a circle] around [/EN#0/notvisual her] .

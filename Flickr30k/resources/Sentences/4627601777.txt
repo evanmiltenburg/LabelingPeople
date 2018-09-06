@@ -1,0 +1,5 @@
+[/EN#184233/people A man] and [/EN#184235/people a young boy] wearing [/EN#184239/clothing striped shirts] walk on [/EN#184236/scene a dirt path] along [/EN#184234/scene the water] .
+[/EN#184233/people A man] and [/EN#184235/people a young boy] hold [/EN#184237/bodyparts hands] while walking on [/EN#184236/scene a dirt path] next to [/EN#184234/scene the water] .
+[/EN#184233/people A man] and [/EN#184235/people a boy] walk on [/EN#184236/scene a path] next to [/EN#184234/scene a body of water] .
+[/EN#184233/people A man] and [/EN#184235/people boy] hold [/EN#184237/bodyparts hands] walking near [/EN#184234/scene the water] .
+[/EN#184233/people A father] and [/EN#184235/people son] walking towards [/EN#184238/vehicles/scene a fishing boat] .

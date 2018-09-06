@@ -1,0 +1,5 @@
+[/EN#151307/animals A brown dog] and [/EN#151312/animals a gray dog] are playing in [/EN#151310/scene the snow] .
+[/EN#151309/animals Two dogs] are wrestling on [/EN#0/notvisual the ground] in [/EN#151310/scene the snow] .
+[/EN#151311/animals Two dogs] playing in [/EN#151310/scene the snow] .
+[/EN#151309/animals Two dogs] play in [/EN#151310/scene the snow] .
+[/EN#151308/animals Dogs] play in [/EN#151310/scene the snow] .

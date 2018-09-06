@@ -1,0 +1,5 @@
+[/EN#0/notvisual This] is [/EN#180312/people a black and white image of a man] cooking [/EN#180313/other something] at [/EN#180314/scene a food stand] on [/EN#180315/scene a street] .
+[/EN#180316/people A vintage photo of a vendor] selling [/EN#180313/other Sabrett hotdogs] on [/EN#180315/scene the sidewalks of the city] .
+[/EN#180311/scene A black and white picture of a city street] with [/EN#180312/people a food vendor] in [/EN#0/notvisual the foreground] .
+[/EN#180312/people A man] stands at [/EN#180318/people the counter of a street vendor] in [/EN#180311/scene a city] .
+[/EN#180312/people a man] getting [/EN#180317/other some food] at [/EN#180314/scene a food stand] .

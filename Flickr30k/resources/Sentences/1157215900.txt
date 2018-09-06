@@ -1,0 +1,5 @@
+[/EN#4090/people A woman] in [/EN#4095/other an outdoor marketplace] , wearing [/EN#4091/clothing a large cone shaped hat] , standing behind [/EN#4094/other two large baskets] containing [/EN#4092/other loaves of bread] .
+[/EN#4090/people A woman] in [/EN#4091/clothing a hat] is [/EN#4093/other either selling] or buying [/EN#4092/other bread] [/EN#0/notvisual that] is stacked in [/EN#4094/other two different woven baskets] .
+[/EN#4090/people An older person] sits on [/EN#4096/scene the street] to sell [/EN#4092/other their bread] .
+[/EN#4090/people A person] is sitting behind [/EN#4094/other two large baskets of bread] .
+[/EN#4090/people An older asian woman] displaying [/EN#4092/other bread] for [/EN#4093/other sale]

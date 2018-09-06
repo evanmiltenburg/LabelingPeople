@@ -1,0 +1,5 @@
+[/EN#50602/people Man] playing [/EN#50603/instruments violin] in front of [/EN#50604/people people] in [/EN#0/notvisual what] seems to be [/EN#50606/scene a bar] .
+[/EN#50602/people A man] playing [/EN#50603/instruments the violin] in [/EN#50605/other a local business] .
+[/EN#50602/people An older man] plays [/EN#50603/instruments violin] in [/EN#50606/scene a bar] .
+[/EN#50602/people A violinist] playing at [/EN#50606/scene a local bar] .
+[/EN#50602/people A man] playing [/EN#50603/instruments a violin] in [/EN#50606/scene a bar] .

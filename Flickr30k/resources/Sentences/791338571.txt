@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#276498/vehicles a small red car] with [/EN#276497/animals a black bull] standing beside [/EN#0/notvisual it] in [/EN#276499/scene the middle of a field] .
+[/EN#276498/vehicles A red car] is parked next to [/EN#276497/animals a black bull] in [/EN#276499/scene a grassy field] .
+[/EN#276497/animals Large black animal] is as large as [/EN#276498/vehicles small red car]
+[/EN#276497/animals A bull] stands in [/EN#276499/scene a field] , next to [/EN#276498/vehicles a red car] .
+[/EN#276498/vehicles A red car] parked next to [/EN#276497/animals a cow] in [/EN#276499/scene a field] .

@@ -1,0 +1,5 @@
+[/EN#238876/people A man] moves [/EN#238878/scene dirt] using [/EN#238877/vehicles a large construction vehicle] .
+[/EN#238876/people A man] in [/EN#238880/clothing a black shirt] uses [/EN#238877/vehicles a yellow bulldozer] .
+[/EN#238876/people A man] operating [/EN#238877/vehicles a large yellow bulldozer] .
+[/EN#238877/vehicles A yellow bulldozer] working to move [/EN#238878/scene dirt] .
+[/EN#238877/people A wheel loader] picking up [/EN#238878/scene some dirt] .

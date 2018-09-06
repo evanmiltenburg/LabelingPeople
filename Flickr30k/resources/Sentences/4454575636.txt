@@ -1,0 +1,5 @@
+[/EN#169955/people A gray-haired woman] wearing [/EN#169960/clothing tan pants] , [/EN#169957/clothing a yellow and white jacket] and [/EN#169959/clothing sunglasses] is sitting on [/EN#169956/other a bench] .
+[/EN#169955/people An elderly woman] with [/EN#169959/clothing large glasses] and [/EN#169957/clothing a cream colored shawl] sits on [/EN#169956/other a bench] against [/EN#169961/other a stone wall] .
+[/EN#169955/people An elderly lady] in [/EN#169960/clothing tan pants] sitting with [/EN#169958/clothing her purse] in [/EN#169963/bodyparts her lap] .
+[/EN#169955/people The aged woman] sits while wearing [/EN#169959/clothing her pink-lensed glasses] .
+[/EN#169955/people An older woman] sitting outside .

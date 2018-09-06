@@ -1,0 +1,5 @@
+[/EN#62928/animals Two dogs] look up at [/EN#62930/people a person] out of [/EN#0/notvisual view of the camera] .
+[/EN#62928/animals A black dog] sits by [/EN#62934/other two bowls] near [/EN#62931/other some tile steps] .
+[/EN#62928/animals A dog] lies on [/EN#62931/other the steps] outside [/EN#62932/scene a building] .
+[/EN#62928/animals Two dogs] are looking up at [/EN#62930/people a person] .
+[/EN#62928/animals a black dog] sits on [/EN#62933/scene the floor] .

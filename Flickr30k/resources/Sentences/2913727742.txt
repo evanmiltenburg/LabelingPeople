@@ -1,0 +1,5 @@
+[/EN#80947/people A man] wearing [/EN#80948/clothing a red shirt] and [/EN#80956/clothing work gloves] , is smoothing out [/EN#80955/other some gravel] underneath [/EN#80950/scene a building] .
+[/EN#80947/people A man] wearing [/EN#80948/clothing a t-shirt] and [/EN#80953/clothing baseball cap] uses [/EN#80952/other a shovel] .
+[/EN#80947/people A man] in [/EN#80948/clothing a red shirt] doing [/EN#80954/other manual labor] .
+[/EN#80947/people A man] is digging , or [/EN#80949/scene spreading dirt] .
+[/EN#80947/people A man] is filling in [/EN#80951/scene a hole] with [/EN#80949/scene dirt] .

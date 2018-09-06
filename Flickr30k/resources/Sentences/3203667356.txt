@@ -1,0 +1,5 @@
+[/EN#100774/people A man] in [/EN#100775/clothing green] carries [/EN#100776/other goods] down [/EN#100779/scene a crowded street] .
+[/EN#100777/people A group of people] are walking through [/EN#100779/scene a busy city] .
+[/EN#100777/people Many people] on [/EN#100779/scene a street] while [/EN#100774/people vendors] sell [/EN#100778/other items] .
+[/EN#100780/scene A busy urban street] full of [/EN#100777/people people] .
+[/EN#100777/people People] in [/EN#100779/scene a crowded outdoor market] .

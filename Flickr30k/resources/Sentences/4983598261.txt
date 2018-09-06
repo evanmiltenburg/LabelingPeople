@@ -1,0 +1,5 @@
+[/EN#226035/people A man] is standing beside [/EN#226039/people a woman] in [/EN#226037/scene a meat market stall] .
+[/EN#226033/people Two people] are standing in front of [/EN#226034/other a table of food] .
+[/EN#226033/people Two men] working at [/EN#226038/other an outside grill] , cooking [/EN#226040/other meat] .
+[/EN#226033/people Two man] are working seriously in [/EN#226036/scene a fish store] .
+[/EN#226033/people Two Asian men] are working with [/EN#226034/other food] .

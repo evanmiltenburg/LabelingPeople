@@ -1,0 +1,5 @@
+[/EN#225208/people Three men] are performing [/EN#225213/other construction work] on [/EN#225210/scene a fence] .
+[/EN#225208/people Three men] are working on [/EN#225210/scene the fence] next to [/EN#225212/scene a park] .
+[/EN#225209/people Two men] with [/EN#225211/other ladders] are working on [/EN#225210/scene a fence] .
+[/EN#225208/people Workers] wearing [/EN#225214/clothing orange vests] work on [/EN#225210/scene fence] .
+[/EN#225209/people Two workers] on [/EN#225211/other ladders] fix [/EN#225210/scene a fence] .

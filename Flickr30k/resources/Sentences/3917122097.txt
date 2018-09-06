@@ -1,0 +1,5 @@
+[/EN#148170/people A man] and [/EN#148173/people woman] are sitting at [/EN#148172/other a table] in [/EN#148171/scene a restaurant] overlooking [/EN#148174/scene mountains] .
+[/EN#148170/people Man] and [/EN#148173/people women] enjoy [/EN#148174/scene view of mountains] and [/EN#148177/scene ocean] while sitting at [/EN#148172/other a table] .
+[/EN#148170/people a man] and [/EN#148173/people a woman] having [/EN#148176/other a conversation] on [/EN#148171/scene a mountaintop restaurant]
+[/EN#148175/people Two people] sit [/EN#148172/other a restaurant table] talking .
+[/EN#148170/people A man] pointing across [/EN#148172/other a table] at [/EN#148173/people a woman]

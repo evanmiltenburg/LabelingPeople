@@ -1,0 +1,5 @@
+[/EN#39186/animals Fluffy white dog] running on [/EN#39188/other pebbles] along [/EN#39187/scene the shore] .
+[/EN#39186/animals A small white dog] running on [/EN#39187/scene a pebble covered beach] .
+[/EN#39186/animals A fuzzy white lap dog] runs along [/EN#39187/scene a rocky beach] .
+[/EN#39186/animals A white dog] runs along [/EN#39187/scene a rocky shoreline] .
+[/EN#39186/animals A dog] zips along [/EN#39187/scene the beach] .

@@ -1,0 +1,5 @@
+[/EN#49109/people A woman] wearing [/EN#49117/clothing a white turtleneck] and [/EN#49118/clothing a dark hat] holds [/EN#49120/other garbage] and watches [/EN#49109/people a woman] in [/EN#49115/clothing a black turtleneck] sweep [/EN#49114/scene a bathroom] .
+[/EN#49109/people A woman] holding [/EN#49116/other a broom] in [/EN#49114/scene a small bathroom] ; [/EN#49109/people another woman] is right outside [/EN#49124/other the door] speaking with [/EN#0/notvisual her] .
+[/EN#49113/people Woman] in [/EN#49115/clothing black shirt] in [/EN#49114/scene bathroom] with [/EN#49116/other broom] while [/EN#49109/people a woman] in [/EN#49117/clothing white shirt] stands [/EN#49123/scene outside bathroom] .
+[/EN#49110/people Two women] are in [/EN#49114/scene a bathroom] and [/EN#49113/other one] has [/EN#49116/other a broom] .
+[/EN#49112/people Two women] doing [/EN#49121/scene house] cleaning .

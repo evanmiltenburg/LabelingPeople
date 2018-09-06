@@ -1,0 +1,5 @@
+[/EN#281958/people A worker] in [/EN#281961/clothing a blue shirt] and [/EN#281959/clothing white hard hat] is climbing [/EN#281960/other a scaffolding] .
+[/EN#281958/people A man] with [/EN#281959/clothing a hard hat] is harnessed to [/EN#281960/other a steel structure] .
+[/EN#281958/people A construction worker] is balancing on [/EN#281960/other some scaffolding] .
+[/EN#281958/people construction worker] scaling building
+[/EN#281958/people A man] hard at [/EN#281963/other work] from [/EN#281964/scene way] up [/EN#281962/other high]

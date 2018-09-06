@@ -1,0 +1,5 @@
+[/EN#76984/people One man] in [/EN#76986/clothing an orange shirt] wearing [/EN#76989/clothing a white helmet] is riding [/EN#76985/vehicles a bike] .
+[/EN#76984/people Person] with [/EN#76990/clothing orange shirt and black and white helmet] riding [/EN#76985/vehicles bike]
+[/EN#76984/people The man] on [/EN#76985/vehicles the bike] just finished riding through [/EN#76987/other some mud] .
+[/EN#76984/people A biker] , [/EN#76984/people all] covered in [/EN#76987/other mud] , riding [/EN#76985/vehicles a blue bike] .
+[/EN#76984/people Biker] in [/EN#76986/clothing muddy orange shirt] riding [/EN#76985/vehicles blue racing bike]

@@ -1,0 +1,5 @@
+[/EN#80049/people A man] in [/EN#80054/clothing a black shirt] , and [/EN#80055/clothing black shorts] is walking down [/EN#80051/scene the street] , holding [/EN#80056/bodyparts hands] with [/EN#80053/people a woman] in [/EN#80057/clothing a black sundress] .
+[/EN#80047/people Various pedestrians] walk down [/EN#80051/other a pathway] in [/EN#80059/other the daylight] .
+[/EN#80047/people a group of tourists] are walking down [/EN#80048/scene a paved trail] .
+[/EN#80047/people People] walk down [/EN#80048/scene the street] on [/EN#80052/scene a sunny day] .
+[/EN#80047/people People] are walking down [/EN#80048/scene a road] together .

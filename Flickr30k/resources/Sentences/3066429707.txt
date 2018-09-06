@@ -1,0 +1,5 @@
+[/EN#91129/scene A girl 's red shoe sole] is shown as [/EN#91126/other the soccer ball] flies through [/EN#0/notvisual the air] .
+[/EN#91124/people A young girl] is kicking [/EN#91126/other a soccer ball] in [/EN#91131/scene the grass] .
+[/EN#91124/people A child] in [/EN#91125/clothing a blue uniform] kicks [/EN#91126/other a soccer ball] .
+[/EN#91124/people Blond girl] in [/EN#91125/clothing blue clothes] playing [/EN#91127/other soccer] .
+[/EN#91124/people the girl] in [/EN#91125/clothing blue] kicks [/EN#91126/other the soccer ball] .

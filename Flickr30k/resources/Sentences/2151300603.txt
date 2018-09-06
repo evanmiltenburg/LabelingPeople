@@ -1,0 +1,5 @@
+[/EN#31344/people A woman] is sitting at [/EN#31345/other a desk] near to [/EN#31346/other a window] [/EN#0/notvisual that] has [/EN#31343/bodyparts a huge picture of a hand] painted on [/EN#0/notvisual it] .
+[/EN#31343/bodyparts A diagram of a hand] is displayed on [/EN#31346/other a wall] , behind [/EN#0/notvisual which] [/EN#31344/people a woman] studies .
+[/EN#31344/people A woman] is sitting at [/EN#31345/other a table] waiting to tell [/EN#31347/other a customer 's fortune] .
+[/EN#31344/people a woman] sitting in [/EN#0/notvisual the background] at [/EN#31345/other a table]
+[/EN#31343/other A picture of the anatomy] of [/EN#31343/bodyparts a hand] .

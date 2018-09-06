@@ -1,0 +1,5 @@
+[/EN#223514/people This man] is walking down [/EN#223515/scene the street] in [/EN#223518/scene a bad neighborhood] while having [/EN#223521/bodyparts his hands] in [/EN#223517/clothing his pants] .
+[/EN#223514/people A man] is walking down [/EN#223515/scene the sidewalk] to [/EN#223519/scene his destination] as [/EN#0/notvisual he] reaches inside [/EN#223522/clothing his pocket] .
+[/EN#223514/people A black man] is walking down [/EN#223515/scene the sidewalk] with [/EN#223520/bodyparts his hand] in [/EN#223517/clothing his beige pants] .
+[/EN#223514/people A man] with [/EN#223517/clothing baggy pants] walking along [/EN#223515/scene an urban street] .
+[/EN#223514/people A man] is walking down [/EN#223515/scene the street] .

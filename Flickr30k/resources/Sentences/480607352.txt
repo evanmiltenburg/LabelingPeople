@@ -1,0 +1,5 @@
+[/EN#204795/people a man] wearing [/EN#204796/clothing a multicolored striped shirt] playing [/EN#204800/instruments the guitar] on [/EN#204801/scene the street]
+[/EN#204795/people A man] wearing [/EN#204796/clothing a colorful and striped sweater] plays [/EN#204802/other music] in [/EN#204801/scene the street] .
+[/EN#204795/people A man] wearing [/EN#204796/clothing a multi-color coat] is playing [/EN#204800/instruments the guitar] on [/EN#204801/scene the street] .
+[/EN#204795/people Street performer] in [/EN#204796/clothing colorful shirt] performing with [/EN#204800/instruments small guitar] .
+[/EN#204795/people A man] in [/EN#204796/clothing bright clothing] plays [/EN#204800/instruments an instrument] on [/EN#204801/scene the street] .

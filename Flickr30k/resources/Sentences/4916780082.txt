@@ -1,0 +1,5 @@
+[/EN#218144/people A woman] is talking on [/EN#218146/other her phone] while walking toward [/EN#218153/scene an East Asian style gate] over [/EN#218151/scene a street] , while [/EN#218148/people a man] on [/EN#218150/scene the sidewalk] is reading [/EN#218149/other a newspaper] .
+[/EN#218144/people A lady] wearing [/EN#218155/clothing jeans] and [/EN#218147/clothing a green t-shirt] is walking on [/EN#218151/scene the street] , and [/EN#218148/people a man] in [/EN#218145/clothing a blue shirt] is sitting and reading [/EN#218149/other a newspaper] .
+[/EN#218144/people A woman] in [/EN#218147/clothing a green shirt] talks on [/EN#218146/other a cellphone] while walking past [/EN#218148/people a man] in [/EN#218152/clothing a blue shirt] [/EN#0/notvisual who] is sitting and reading [/EN#218149/other a newspaper] .
+[/EN#218144/people A woman] in [/EN#218147/clothing green] and [/EN#218148/people a man] in [/EN#218145/clothing blue] in [/EN#218151/scene the Asian part of town] .
+[/EN#218144/people Woman] talking on [/EN#218146/other a cellphone] while walking down [/EN#218150/scene a street] .

@@ -1,0 +1,5 @@
+in [/EN#189352/scene a crowded asian city] [/EN#189351/people people] can be seen walking to [/EN#189355/scene their various destinations] .
+[/EN#189350/people Man] walking [/EN#189353/people little girl] with [/EN#189356/clothing backpack] across [/EN#189347/scene street] .
+[/EN#189351/people People] walk down [/EN#189348/scene the sidewalks of an Asian city] .
+[/EN#0/notvisual This] looks like [/EN#189347/scene a city street] in [/EN#189349/other Japan] .
+[/EN#189347/scene Busy street] with [/EN#189351/people pedestrians] in [/EN#189349/other Japan] .

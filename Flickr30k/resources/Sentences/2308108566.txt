@@ -1,0 +1,5 @@
+[/EN#40577/people Person] rides [/EN#40578/vehicles a dirt bike] down [/EN#40579/scene a dirt hill] .
+[/EN#40577/people A person] dirtbikes along [/EN#40579/scene a muddy trail] .
+[/EN#40577/people Dirt bike rider] riding down [/EN#40580/other the slope] .
+[/EN#40577/people A person] biking through [/EN#40581/other the woods] .
+[/EN#40577/people A man] rides [/EN#40578/vehicles a bike] on [/EN#40579/scene a dirt path] .

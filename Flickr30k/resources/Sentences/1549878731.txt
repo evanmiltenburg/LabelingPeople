@@ -1,0 +1,5 @@
+[/EN#16119/people A child] lies on [/EN#0/notvisual the ground] near [/EN#16120/other a ball] in front of [/EN#16121/vehicles a parked car] [/EN#16124/other the leads] [/EN#16121/vehicles a line of parked cars] on [/EN#16122/scene the shoulder of a road] .
+[/EN#16119/people A boy] laying in front of [/EN#16121/vehicles a parked car] staring at [/EN#16120/other an orange soccer ball] .
+[/EN#16119/people A boy] in [/EN#16123/clothing camouflage pants] and [/EN#16120/other his ball] lying in front of [/EN#16121/vehicles a blue car] .
+[/EN#16119/people A boy] lays down with [/EN#16120/other an orange ball] in front of [/EN#16121/vehicles a row of blue cars] .
+[/EN#16119/people A little boy] wearing [/EN#16123/clothing camouflage pants] laying in front of [/EN#16121/vehicles a car] .

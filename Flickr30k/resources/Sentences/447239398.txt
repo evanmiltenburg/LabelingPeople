@@ -1,0 +1,5 @@
+[/EN#171264/people A group of people] wearing [/EN#171266/clothing jeans] walk in front of [/EN#171267/other a business] .
+[/EN#171264/people A group of people] walk [/EN#171270/scene past buildings] under [/EN#171265/other construction] .
+[/EN#171264/people People] wearing [/EN#171266/clothing jeans] are walking near [/EN#171265/other some construction] .
+[/EN#171264/people People] walking down [/EN#171269/scene the street] facing away .
+[/EN#171264/people Four people] are walking through [/EN#171268/scene a city] .

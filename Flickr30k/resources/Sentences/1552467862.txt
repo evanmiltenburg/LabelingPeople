@@ -1,0 +1,5 @@
+[/EN#16181/people Boy] in [/EN#16183/clothing cowboy hat] and [/EN#16186/people boy] in [/EN#16189/clothing baseball cap] on [/EN#16185/scene the porch] outside of [/EN#16187/scene a restaurant] .
+[/EN#16182/people Two boys] [/EN#0/notvisual that] are waiting at [/EN#16184/scene the porch] in front of [/EN#16184/scene a house] .
+[/EN#16181/people A child] wearing [/EN#16183/clothing a cowboy hat] running toward [/EN#16186/people another child] .
+[/EN#16181/people A boy] in [/EN#16183/clothing a cowboy hat] walks to [/EN#16187/scene a western-style building] .
+[/EN#16182/people Two young boys] are playing outside [/EN#16187/scene a restaurant] .

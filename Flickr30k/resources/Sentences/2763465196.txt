@@ -1,0 +1,5 @@
+[/EN#71268/people A young man] looks at [/EN#71270/other a coffee marker] on [/EN#71271/scene the shelf of a department store] .
+[/EN#71268/people A male teen] in [/EN#71274/clothing a white hat] looks at [/EN#71269/people a coffee maker] at [/EN#71271/scene the store] .
+[/EN#71268/people One young man] is looking at [/EN#71269/people coffee makers] in [/EN#71273/scene a store] .
+[/EN#71268/people A teenage boy] is looking at [/EN#71269/people coffee makers] at [/EN#71272/other Walmart] .
+[/EN#71268/people A kid] is looking at [/EN#71270/other coffee machines] inside [/EN#71271/scene a store] .

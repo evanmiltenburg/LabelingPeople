@@ -1,0 +1,5 @@
+[/EN#80513/people A woman] and [/EN#80514/people a boy] sitting , [/EN#0/notvisual she] is sipping [/EN#80516/other hot coffee] and [/EN#0/notvisual he] has [/EN#80520/scene finish] eating [/EN#80518/other something] .
+[/EN#80513/people White woman] and [/EN#80514/people boy] sitting around [/EN#80517/other a small white table] , sitting in [/EN#80519/other wicker chairs] .
+[/EN#80513/people A woman] in [/EN#80521/clothing a pink shirt] and [/EN#80522/clothing blue cap] is eating with [/EN#80514/people a young boy] at [/EN#80515/other a cafe] .
+[/EN#80513/people A woman] and [/EN#80514/people a boy] are sitting and eating at [/EN#80517/other a table] .
+[/EN#80513/people A woman] and [/EN#80514/people child] sit at [/EN#80517/other a small table] .

@@ -1,0 +1,5 @@
+[/EN#1232/people A man] in [/EN#1238/clothing a bandanna] and [/EN#1244/clothing a dirty t-shirt] , and [/EN#1235/people a woman] in [/EN#1245/clothing a graphic t-shirt] , are standing next to [/EN#1236/scene a oblong hole] with [/EN#1233/other smoke] coming out .
+[/EN#1232/people The man] , [/EN#0/notvisual who] is wearing [/EN#1238/other the handkerchief] , is performing [/EN#1240/other a task] with [/EN#1236/other the tub] while [/EN#1235/people the woman] watches .
+[/EN#1234/people Two individuals] , [/EN#1232/people a male] and [/EN#1235/people a female] , standing in [/EN#1237/scene a forested area] around [/EN#1236/other a tub] .
+[/EN#1234/people Two people] , [/EN#1232/people one man] and [/EN#1235/people one women] in [/EN#1242/other the woods] putting [/EN#1241/other something] in [/EN#1236/other a tub] .
+[/EN#1233/other Steam] rises from [/EN#1236/other a large outdoor vat] as [/EN#1234/people two workers] look on .

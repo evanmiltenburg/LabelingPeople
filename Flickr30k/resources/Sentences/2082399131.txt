@@ -1,0 +1,5 @@
+[/EN#27557/people People] walking through [/EN#27560/other a crowded food festival] on [/EN#27561/scene a closed off street] .
+[/EN#27559/scene A festival of booths] is visited by [/EN#27557/people a crowd of pedestrians] .
+[/EN#27557/people A crowd of people] walk down [/EN#27560/other a busy alleyway] .
+[/EN#27557/people People] walking down [/EN#27561/scene the street] at [/EN#27558/scene a fair] .
+[/EN#27557/people People] walking through [/EN#27560/other a downtown mall] .

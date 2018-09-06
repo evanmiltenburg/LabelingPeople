@@ -1,0 +1,5 @@
+[/EN#176541/people A group of people] standing by [/EN#176545/other Track 17] and waiting for [/EN#176543/vehicles/scene a subway train] .
+[/EN#176541/people A bunch of people] are waiting for [/EN#176543/vehicles/scene the next subway train] .
+[/EN#176544/people Man] in [/EN#176546/clothing a jersey] waiting on [/EN#176542/other a crowded subway platform] .
+[/EN#176541/people A group of people] are waiting in [/EN#176543/vehicles/scene a subway] .
+[/EN#176541/people People] waiting on [/EN#176542/other a train platform] .

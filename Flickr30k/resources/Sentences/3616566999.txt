@@ -1,0 +1,5 @@
+[/EN#131846/people A child] in [/EN#131847/clothing a brightly colored dress] peaks through [/EN#131849/scene a crack] in [/EN#131848/scene a fence] .
+[/EN#131846/people Young girl] in [/EN#131847/clothing a brightly colored outfit] peeks through [/EN#131848/scene a wooden fence] .
+[/EN#131846/people A young girl] in [/EN#131847/clothing a brightly-colored dress] peeks through [/EN#131850/other a fence slat] .
+[/EN#131846/people Young girl] in [/EN#131847/clothing a flower dress] is peeking through [/EN#131848/scene a brown fence] .
+[/EN#131846/people A little girl] peers through [/EN#131849/scene a crack] in [/EN#131848/scene the fence] .

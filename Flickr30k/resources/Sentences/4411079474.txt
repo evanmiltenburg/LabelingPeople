@@ -1,0 +1,5 @@
+[/EN#166727/people A man] wearing [/EN#166736/clothing glasses] and sitting at [/EN#166734/other a computer] , looks back at [/EN#166727/people a man] wearing [/EN#166732/clothing a white shirt] as [/EN#0/notvisual he] is pointing at [/EN#166737/other something] .
+[/EN#166727/people An Asian man] standing next to [/EN#166728/other a door] points to [/EN#166729/other something] .
+[/EN#166727/people Someone] on [/EN#166730/other a laptop] looks at [/EN#166727/people someone] standing by [/EN#166728/other a door] .
+[/EN#166727/people A man] in [/EN#166732/clothing a white shirt] has [/EN#166738/bodyparts his index finger] raised .
+[/EN#166733/people Two men] are having [/EN#166735/other a discussion] in [/EN#166739/scene a classroom] .

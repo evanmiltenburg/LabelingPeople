@@ -1,0 +1,5 @@
+[/EN#232627/vehicles a green and white trolley car] with [/EN#232636/other an advertisement of coffee] on [/EN#0/notvisual the side] and [/EN#0/notvisual front of it] in [/EN#232629/scene a city] .
+[/EN#232627/vehicles A trolley car] is standing in [/EN#232631/scene the road] surrounded by [/EN#232628/people pedestrians] .
+[/EN#232628/people People] walking on [/EN#232634/scene a beautiful day] in [/EN#232632/other San Francisco] .
+[/EN#0/notvisual This] is [/EN#232635/vehicles/scene a ferry train] in [/EN#232629/scene a busy city] .
+[/EN#232627/other Troll] on [/EN#232630/scene a busy street] in [/EN#232629/scene the city] .

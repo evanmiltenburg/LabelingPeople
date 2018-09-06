@@ -1,0 +1,5 @@
+[/EN#57317/people A man] wearing [/EN#57318/clothing a blue baseball cap] , [/EN#57319/clothing blue jeans] , and [/EN#57321/clothing a polo shirt] , is standing in front of [/EN#57320/other a grill] and is grilling [/EN#57322/other some meat] .
+[/EN#57317/people A man] wearing [/EN#57319/clothing jeans] , [/EN#57321/clothing polo shirt] and [/EN#57318/clothing a baseball cap] , [/EN#57328/other fork] in [/EN#57330/bodyparts hand] , is grilling [/EN#57322/other meat] outside in [/EN#57325/scene a fenced yard] .
+[/EN#57317/people One man] cooking [/EN#57322/other food] on [/EN#57320/other a grill] for [/EN#57326/people a lot of people] , possibly [/EN#57327/other a party] or [/EN#57324/people a big family] .
+[/EN#57317/people A man] cooks on [/EN#57320/other a propane grill] .
+[/EN#57323/other A blank wall of whiteness] .

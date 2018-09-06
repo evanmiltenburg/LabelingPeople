@@ -1,0 +1,5 @@
+[/EN#262276/scene A yellow backhoe digging dirt] and [/EN#262281/other rocks] in [/EN#262279/scene a field] by [/EN#262283/scene a road] .
+[/EN#262285/people A male] driving [/EN#262276/vehicles a bulldozer] to plow [/EN#262279/scene green grass] and [/EN#262281/other rocks]
+[/EN#262276/other A yellow tractor] plows through [/EN#262278/scene muddy , green terrain] .
+[/EN#262276/vehicles A yellow bulldozer] moves [/EN#262279/scene dirt] in [/EN#262279/scene a rocky field] .
+[/EN#262276/other A yellow bulldozer machine] in [/EN#262279/scene a rocky field] .

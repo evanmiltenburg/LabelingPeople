@@ -1,0 +1,5 @@
+[/EN#276810/people A man] is sitting in [/EN#276813/other a folding chair] at [/EN#276816/scene a car shop] while [/EN#276819/other others] look at [/EN#276811/vehicles cars] in [/EN#0/notvisual the background] .
+[/EN#276810/people A man] sitting next to [/EN#276814/other tires] in [/EN#276816/other a showroom] containing [/EN#276811/vehicles race cars] lined up with [/EN#276817/other hoods] opened .
+[/EN#276810/people A man] is sitting on [/EN#276813/other a blue chair] next to [/EN#276814/other three tires] and in front of [/EN#276821/vehicles two yellow racing cars]
+[/EN#276811/vehicles Multiple race cars] seems to need tune ups , [/EN#276820/clothing two yellow car one white] and [/EN#276818/clothing one black]
+[/EN#276810/people A mechanic] for [/EN#276815/people a race car team] is working on [/EN#276812/vehicles the wheels of a race car] .

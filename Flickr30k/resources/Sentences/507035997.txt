@@ -1,0 +1,5 @@
+[/EN#228092/people A partially bald and overweight man] dressed in [/EN#228095/clothing a lime green t-shirt] is seasoning [/EN#228098/other the skewers] [/EN#0/notvisual that] are cooking on [/EN#228094/other the barbecue pit] .
+[/EN#228092/people A man] in [/EN#228095/clothing a green shirt] and [/EN#228096/other blue jeans seasons meat] as [/EN#0/notvisual it] cooks [/EN#228100/other meat] on [/EN#228097/other a grill] in [/EN#228093/scene a backyard] .
+[/EN#228092/people A man] cooking [/EN#228098/other kabobs] on [/EN#228094/other a barbecue] in [/EN#228093/scene his backyard] .
+[/EN#228092/people A man] in [/EN#228096/other a green shirt seasoning food] on [/EN#228097/other a grill] .
+[/EN#228092/people A man] adds seasoning while grilling [/EN#228098/other kabobs] .

@@ -1,0 +1,5 @@
+[/EN#77774/people A bald man] in front of [/EN#77775/other a microphone] plays [/EN#77776/instruments electric guitar] under [/EN#77777/other a spotlight] .
+[/EN#77774/people A man] is holding [/EN#77776/instruments a guitar] with [/EN#77777/other a light] shining behind [/EN#0/notvisual him] .
+[/EN#77774/people A male musician] is playing [/EN#77776/instruments guitar] for [/EN#77778/other a show] on [/EN#77779/scene stage] .
+[/EN#77774/people A man] plays [/EN#77776/instruments his red guitar] under [/EN#77777/other the spotlight] .
+[/EN#77774/people This man] is playing [/EN#77776/instruments an electric guitar] .

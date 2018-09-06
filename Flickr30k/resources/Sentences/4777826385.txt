@@ -1,0 +1,5 @@
+[/EN#201877/people An older man] leans against [/EN#201880/scene a pedestal outside of an ornate building] .
+[/EN#201877/people A man] leans against [/EN#201879/other a statue] in front of [/EN#201878/scene a building] .
+[/EN#201877/people A man] dressed in [/EN#201882/clothing blue] leans against [/EN#201879/other a lion statue] .
+[/EN#201877/people A man] is leaning on [/EN#201879/other an object] beside [/EN#201878/scene a building] .
+[/EN#201877/people Man] in [/EN#201881/other business suite] leaning on [/EN#201879/other lion statue] .

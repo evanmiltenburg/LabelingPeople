@@ -1,0 +1,5 @@
+[/EN#130019/animals a tan dog] climbing over [/EN#130022/other a bare tree trunk] with [/EN#130020/people a man] standing in [/EN#0/notvisual the background]
+[/EN#130020/people A man] watches [/EN#130019/other his yellow dog hunt] for [/EN#130024/other something] from on top of [/EN#130022/other a fallen tree] .
+[/EN#130019/animals A lab dog] is standing on [/EN#130022/other a fallen tree trunk] with [/EN#130020/people a guy] in [/EN#0/notvisual the background] .
+[/EN#130020/people A man] and [/EN#130019/animals a dog] are standing on [/EN#130022/other a tree] [/EN#0/notvisual that] has fallen over to [/EN#0/notvisual the ground] .
+[/EN#130020/people A man] watching [/EN#130019/animals his dog] standing on [/EN#130022/other a dead tree trunk] .

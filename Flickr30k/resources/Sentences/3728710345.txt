@@ -1,0 +1,5 @@
+[/EN#140059/people A man] cooking [/EN#140063/animals chicken] on [/EN#140061/other a grill] with [/EN#140062/other two spatulas] .
+[/EN#140059/people An Asian man] prepares [/EN#140060/other meat] on [/EN#140061/other a grill] .
+[/EN#140059/people A man] is cooking [/EN#140060/other meat] on [/EN#140061/other a grill] .
+[/EN#140059/people A person] making [/EN#140060/other Chinese barbecue] .
+[/EN#140059/people An asian man] grills [/EN#140060/other meat] .

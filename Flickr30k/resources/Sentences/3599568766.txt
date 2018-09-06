@@ -1,0 +1,5 @@
+[/EN#130565/animals A white dog] with [/EN#130567/scene a brown patch] on [/EN#130569/bodyparts his eye] , is running on [/EN#130566/scene a dirt path] .
+[/EN#130565/animals A white dog] with [/EN#130567/scene brown spots] running on [/EN#130566/scene a dirt path]
+[/EN#130565/animals A white dog] runs along [/EN#130566/scene the beach 's shore] .
+[/EN#130565/animals The white dog] ran down [/EN#130568/scene the dusty road] .
+[/EN#130565/animals A dog] runs overtop [/EN#130568/other the dry earth] .

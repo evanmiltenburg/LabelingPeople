@@ -1,0 +1,5 @@
+[/EN#269389/people Two people] are rowing [/EN#269387/vehicles/scene a boat] through [/EN#269391/scene blue sparkling water] as [/EN#269390/animals birds] fly overhead .
+[/EN#269388/people A group of people] are in [/EN#269392/other a rowboat] in [/EN#269391/scene the ocean] surrounded by [/EN#269390/animals seagulls] .
+[/EN#269388/people A few men] on [/EN#269387/vehicles/scene a boat] in [/EN#269391/scene the ocean] with [/EN#269390/animals a flock of seagulls] nearby .
+[/EN#269389/people Two people] are rowing [/EN#269387/vehicles/scene a boat] as [/EN#269390/animals a flock of birds] pass [/EN#0/notvisual them] .
+[/EN#269387/vehicles/scene A boat] floating in [/EN#269391/scene the water] with [/EN#269390/animals seagulls] flying above .

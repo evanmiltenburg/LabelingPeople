@@ -1,0 +1,5 @@
+[/EN#121369/people An older gentleman] with [/EN#121376/bodyparts a gray mustache] sitting on [/EN#121378/other a stool] in front of [/EN#121372/other a small table] in front of [/EN#121375/other a business] .
+[/EN#121369/people An older gentleman] with [/EN#121374/bodyparts a beard] is wearing [/EN#121371/clothing a dark jacket] and trying to sell [/EN#121373/other something] on [/EN#121370/scene a city street] .
+[/EN#121369/people An elderly man] wearing [/EN#121371/clothing a heavy green coat] is selling [/EN#121373/other his goods] at [/EN#121381/scene his spot] on [/EN#121370/scene the sidewalk] .
+[/EN#121369/people An older man] is sitting at [/EN#121372/other his desk] , [/EN#0/notvisual which] is in front of [/EN#121377/scene a shop] , reading [/EN#121380/other cards] .
+[/EN#121369/people Older gentlemen] in [/EN#121371/clothing a green jacket] and [/EN#121379/clothing blue jeans] sitting at [/EN#121372/other a small table] .

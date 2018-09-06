@@ -1,0 +1,5 @@
+[/EN#197210/people A man] in [/EN#197214/clothing a red and white striped shirt] walking past [/EN#197215/other a wall] with [/EN#197212/people a painting of a man] with [/EN#197216/clothing a brown hat] and surrounded by [/EN#197211/other pink paint] .
+[/EN#197210/people A man] in [/EN#197214/clothing a red-striped polo shirt] and [/EN#197219/clothing jeans] walks by [/EN#197215/other a wall] in [/EN#197221/scene a back alley] painted by [/EN#197213/people graffiti artists] .
+[/EN#197210/people A young man] in [/EN#197214/clothing a red and white striped shirt] looks at [/EN#197211/other graffiti] as [/EN#0/notvisual he] walks by .
+[/EN#197210/people A man] in [/EN#197214/clothing a red striped shirt] looks at [/EN#197211/other graffiti] .
+[/EN#197210/people A man] walks by [/EN#197212/people a portrait of a man] on [/EN#197215/other the wall]

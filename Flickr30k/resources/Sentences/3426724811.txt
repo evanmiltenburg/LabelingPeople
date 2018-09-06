@@ -1,0 +1,5 @@
+[/EN#117368/people several men] in [/EN#117372/clothing biohazard suits] carrying [/EN#117369/other a human looking doll] on [/EN#117370/other a rolling bed]
+[/EN#117368/people A group of people] in [/EN#117372/clothing hazmat suits] are standing with [/EN#117369/other a dummy] on [/EN#117370/other a stretcher] .
+[/EN#117368/people People] wearing [/EN#117372/clothing suits] practicing [/EN#117373/other a rescue] in [/EN#117374/other a dangerous environment] .
+[/EN#0/notvisual There] is [/EN#117371/people a man] on [/EN#117370/other a stretcher] surrounded by [/EN#117368/people men] in [/EN#117372/clothing hazmat suits] .
+[/EN#117368/people Several men] in [/EN#117372/clothing protective suits] are rolling [/EN#117371/people a man] on [/EN#117370/other a gurnee] .

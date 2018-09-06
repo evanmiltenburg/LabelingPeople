@@ -1,0 +1,5 @@
+[/EN#201213/people A man] in [/EN#201214/clothing a yellow helmet] , [/EN#201215/clothing white shirt] , and [/EN#201216/clothing blue pants] rides [/EN#201217/vehicles a red motorbike] past [/EN#201218/other a low hedge] .
+[/EN#201213/people A man] wearing [/EN#201214/clothing a yellow helmet] with [/EN#201219/other his visor] up rides [/EN#201217/vehicles a red motorbike] .
+[/EN#201213/people A man] wearing [/EN#201214/clothing a yellow helmet] is riding on [/EN#201217/other his red motorcycle] .
+[/EN#201213/people A man] rides [/EN#201217/other his motorcycle] down [/EN#201221/scene the street] .
+[/EN#201213/people A person] in [/EN#201214/clothing a helmet] on [/EN#201217/other a motorcycle]

@@ -1,0 +1,5 @@
+[/EN#200251/people A person] laying on [/EN#200254/scene the grass] , in [/EN#200258/other the shade] , underneath [/EN#200253/other a tree] .
+[/EN#200251/people Homeless person] sleeping in [/EN#200257/scene the park] in [/EN#200255/scene New york city] .
+[/EN#200251/people Man] wearing [/EN#200259/clothing black] takes [/EN#200256/other a nap] in [/EN#200252/scene a green park] .
+[/EN#200251/people An individual] is sleeping under [/EN#200253/other a tree] .
+[/EN#200251/people A man] sleeps on [/EN#200254/scene the grass] in [/EN#200252/scene a park] .

@@ -1,0 +1,5 @@
+[/EN#133829/people One woman] in [/EN#133830/clothing a black dress] and [/EN#133831/other another one] in [/EN#133832/clothing a gray tank top] and [/EN#133833/clothing green shorts] are walking on [/EN#133834/scene the street] somewhat crowded with [/EN#133835/people people] .
+[/EN#133835/people A group of people] walking in [/EN#0/notvisual the same direction] include [/EN#133836/people two women] , [/EN#133837/other one of whom] is wearing [/EN#133838/clothing sunglasses] and [/EN#133833/clothing shorts] .
+[/EN#133835/people A group of people] crossing [/EN#133834/scene the street] [/EN#133835/people all] are carrying [/EN#133839/clothing bags] and [/EN#133840/clothing purses] .
+[/EN#133835/people Several people] are crossing [/EN#133834/scene a street] .
+[/EN#133835/people People] walking down [/EN#133841/scene the sidewalk]

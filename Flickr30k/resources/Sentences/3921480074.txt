@@ -1,0 +1,5 @@
+[/EN#148226/people A security guard] with [/EN#148230/clothing a white shirt] is guarding [/EN#148228/scene a building] .
+[/EN#148226/people An officer] is standing in front of [/EN#148227/other a white structure] .
+[/EN#148226/people A security guard] standing alone by [/EN#148227/other a building wall] .
+[/EN#148226/people Guard] standing in front of [/EN#148227/other concrete wall] on [/EN#148229/scene lawn] .
+[/EN#148226/people White security guard] , protects [/EN#148227/other giant gray wall] .

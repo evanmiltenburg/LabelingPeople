@@ -1,0 +1,5 @@
+[/EN#148580/people A man] wearing [/EN#148582/other some type of parachuting equipment] walks up to [/EN#148581/other a pink and green parachute] in [/EN#148586/scene an open field] .
+[/EN#148580/people A man] is approaching [/EN#148581/other a parachute] that [/EN#0/notvisual he] might just have used to land on [/EN#0/notvisual the ground] .
+[/EN#148580/people A man] wearing [/EN#148584/clothing a harness] walks towards [/EN#148581/other his parachute] , open on [/EN#0/notvisual the ground] .
+[/EN#148580/people Man] in [/EN#148585/clothing a harness] walks towards [/EN#148581/other a parachute] [/EN#0/notvisual that] has touched [/EN#0/notvisual the ground] .
+[/EN#148580/people A man] walks towards [/EN#148581/other an inflated chute] .

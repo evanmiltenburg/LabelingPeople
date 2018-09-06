@@ -1,0 +1,5 @@
+[/EN#216100/people A man] is walking through [/EN#216102/scene a colorful part of town] on [/EN#216104/scene the way home] with [/EN#216106/other a sack of groceries] .
+[/EN#216100/people A man] walks down [/EN#216104/scene a street] where [/EN#216101/scene the houses] are painted in [/EN#216105/other a geometric pattern] .
+[/EN#216100/people someone] is walking down [/EN#216107/scene the street] in front of [/EN#216101/other all these colorful housed] .
+[/EN#216100/people A man] walking down [/EN#216104/scene the street] [/EN#216101/scene past colorful houses] .
+[/EN#216100/people A man] is walking by [/EN#216101/other a complex] with [/EN#216109/other various colors] .

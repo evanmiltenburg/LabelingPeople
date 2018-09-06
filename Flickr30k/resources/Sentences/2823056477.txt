@@ -1,0 +1,5 @@
+[/EN#74887/people A small , smiling boy] in [/EN#74888/clothing a blue safety helmet] and [/EN#74889/clothing yellow shirt] is riding [/EN#74890/vehicles his scooter] on [/EN#74891/scene a sidewalk] .
+[/EN#74887/people A little boy] wearing [/EN#74888/clothing a blue helmet] and [/EN#74892/other full set of pads] is riding [/EN#74890/vehicles a scooter] down [/EN#74891/other the walk] .
+[/EN#74887/people A little boy] is wearing [/EN#74888/clothing a blue helmet] riding [/EN#74890/vehicles his scooter] on [/EN#74891/scene the sidewalk] .
+[/EN#74887/people A boy] wearing [/EN#74889/clothing a green shirt] rides [/EN#74890/vehicles a scooter] down [/EN#74891/scene the sidewalk] .
+[/EN#74887/people A little boy] with [/EN#74890/vehicles a scooter] riding down [/EN#74891/scene a sidewalk] .

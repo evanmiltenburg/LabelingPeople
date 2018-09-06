@@ -1,0 +1,5 @@
+[/EN#164823/people A man] walks past [/EN#164824/scene a red building] with [/EN#164825/other a fake rocket] attached to [/EN#0/notvisual it] .
+[/EN#164823/people A man] walks under [/EN#164824/scene a building] with [/EN#164825/other a large rocket shaped sculpture] .
+[/EN#164823/people A person] walking by [/EN#164824/scene a red building] with [/EN#164825/scene a jet] on top of [/EN#0/notvisual it] .
+[/EN#164823/people a man] walking around [/EN#164824/scene the corner of a red building] .
+[/EN#164823/people A man] prepares to enter [/EN#164824/scene the red building] .

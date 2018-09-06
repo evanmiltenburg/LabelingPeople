@@ -1,0 +1,5 @@
+[/EN#13885/people A man] or [/EN#13885/people older boy] is standing up in [/EN#13884/vehicles a blue and white speedboat] [/EN#0/notvisual that] 's parked in [/EN#13886/scene a driveway] .
+[/EN#13884/vehicles/scene A blue ski boat] is on [/EN#13888/vehicles its trailer] in [/EN#13886/scene the driveway] with [/EN#13885/people a person] in [/EN#13890/vehicles/scene the front of the boat] .
+[/EN#13885/people A man] in [/EN#13891/clothing shorts] is washing [/EN#13884/vehicles/scene his boat] in [/EN#13886/scene his driveway] .
+[/EN#13885/people A man] is cleaning [/EN#13884/vehicles/scene his boat] in [/EN#13886/scene the driveway] .
+[/EN#13885/people A man] is climbing up into [/EN#13884/vehicles/scene his boat] .

@@ -1,0 +1,5 @@
+[/EN#102897/people A woman] in [/EN#102898/clothing a red shirt] and [/EN#102899/clothing a brown skirt] is watching [/EN#102900/people a group of children] in [/EN#102901/scene a pool] .
+[/EN#102900/people Children] playing in [/EN#102901/scene an outdoor pool] as [/EN#102897/people a woman] watches from [/EN#0/notvisual the side] .
+[/EN#102902/people A group of Chinese people] are relaxing in [/EN#102903/scene the water] .
+[/EN#102897/people A woman] watches [/EN#102900/people children] swimming in [/EN#102903/scene a public pool] .
+[/EN#102902/people People] swimming in [/EN#102901/scene a public pool] .

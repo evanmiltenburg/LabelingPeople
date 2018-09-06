@@ -1,0 +1,5 @@
+[/EN#12557/people The woman] has [/EN#12558/clothing a blue shirt] on with [/EN#12559/people a kid] to [/EN#0/notvisual her side] , and [/EN#0/notvisual she] is making [/EN#12563/other hamburgers] .
+[/EN#12557/people Woman] and [/EN#12559/people young boy] stand in [/EN#12562/scene a kitchen] with [/EN#12563/other a spread of burgers] in front of [/EN#0/notvisual them] .
+[/EN#12557/people A woman] is holding [/EN#12560/other a jar of mustard] and [/EN#12559/people a boy] is looking at [/EN#12563/other a tray of hamburgers] .
+[/EN#12557/people A woman] in [/EN#12558/clothing a white shirt] prepares [/EN#12563/other a large meal of hamburgers] .
+[/EN#12557/people A woman] and [/EN#12559/people a boy] are making [/EN#12563/other hamburgers] in [/EN#12562/scene the kitchen] .

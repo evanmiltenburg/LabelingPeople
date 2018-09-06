@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] are [/EN#192686/people three people] sitting on [/EN#192680/other a bench] outside [/EN#192683/scene a building] and [/EN#192679/people one man] standing next to [/EN#0/notvisual it] looking at [/EN#192681/other a newspaper] .
+[/EN#192679/people A man] in [/EN#192687/clothing a white shirt] is reading [/EN#192681/other a paper] while [/EN#192685/other others] sit on [/EN#192680/other a bench] .
+[/EN#192679/people The man] reading [/EN#192681/other a newspaper] is standing up by [/EN#192684/scene a public sitting area] .
+[/EN#192679/people A man] reads [/EN#192681/other a newspaper] in front of [/EN#192680/other a bench] .
+[/EN#192682/people Four young people] are waiting at [/EN#192680/other a bench] .

@@ -1,0 +1,5 @@
+[/EN#125125/people A picture of people] sitting at [/EN#125130/other tables] outside of [/EN#125126/scene a restaurant] .
+[/EN#125124/people A couple] sits outside [/EN#125126/scene a colorful restaurant] .
+[/EN#125124/people Two people] are sitting at [/EN#125129/scene a table outside] .
+[/EN#125125/people People] sitting outside of [/EN#125126/scene a restaurant] .
+[/EN#125127/other A Fancy outDoors Cafe] on [/EN#125128/scene a Sunny Day] .

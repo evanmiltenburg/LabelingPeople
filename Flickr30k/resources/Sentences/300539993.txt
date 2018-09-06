@@ -1,0 +1,5 @@
+[/EN#86815/animals A brown and black dog] laying down and gnawing on [/EN#86816/other the end of a stick] .
+[/EN#86815/animals A black and brown dog] is chewing on [/EN#86816/other a large stick] .
+[/EN#86815/animals A black and brown dog] chewing on [/EN#86816/other a stick]
+[/EN#86815/animals A dog] gnawing on [/EN#86817/bodyparts a bone] .
+[/EN#86815/animals A dog] chews on [/EN#86816/other a stick] .

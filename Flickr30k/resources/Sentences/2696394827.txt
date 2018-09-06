@@ -1,0 +1,5 @@
+[/EN#66705/animals A dog] swims in [/EN#66708/scene a body of water] while , slightly ahead , [/EN#66706/animals a black duck] takes flight .
+[/EN#66706/animals A bird] is splashing in [/EN#66708/scene the water] next to [/EN#66705/animals the swimming dog] wearing [/EN#66707/clothing the blue collar] .
+[/EN#66705/animals The retriever] is swimming out to [/EN#66706/animals the goose] [/EN#0/notvisual who] is about to get away .
+[/EN#66705/animals a dog] chases [/EN#66706/animals a bird] in [/EN#66708/scene the water] .
+[/EN#66705/animals Dog] and [/EN#66706/animals bird] together in [/EN#66708/scene water] .

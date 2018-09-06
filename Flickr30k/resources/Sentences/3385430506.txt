@@ -1,0 +1,5 @@
+[/EN#114595/people A woman] wearing [/EN#114599/clothing red pants] and [/EN#114597/clothing a pale blue shirt] rides [/EN#0/notvisual her] [/EN#114596/vehicles bike] across [/EN#114598/scene a bridge] .
+[/EN#114595/people A woman] in [/EN#114597/clothing a white shirt] with [/EN#114599/clothing red pants] bicycling across [/EN#114598/scene a bridge] .
+[/EN#114595/people The lady] in [/EN#114597/clothing the blue shirt] is riding [/EN#114596/vehicles a bike] across [/EN#114598/scene a bridge] .
+[/EN#114595/people A woman] in [/EN#114597/clothing a blue shirt] is riding [/EN#114596/vehicles a bicycle] .
+[/EN#114595/people A woman] in [/EN#114597/clothing a blue shirt] riding [/EN#114596/vehicles a bike] .

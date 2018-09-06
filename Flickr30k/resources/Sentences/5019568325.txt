@@ -1,0 +1,5 @@
+[/EN#227091/people A young black man] wearing [/EN#227092/clothing a dark leather jacket] and [/EN#227095/clothing gloves] is standing on [/EN#227093/scene a lit stage] , looking down .
+[/EN#227091/people A singer] wearing [/EN#227092/clothing a leather jacket] performs on [/EN#227093/scene stage] with [/EN#227094/other dramatic lighting] behind [/EN#0/notvisual him] .
+[/EN#227091/people A man] dressed in [/EN#227092/clothing leather clothing] is singing with [/EN#227094/other theater lights] illuminating [/EN#0/notvisual him] .
+[/EN#227091/people A singer] in [/EN#227094/other the spotlight] poses in [/EN#227092/clothing his leather jacket] .
+[/EN#227091/people A musical artist] is performing on [/EN#227093/scene stage] .

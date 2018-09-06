@@ -1,0 +1,5 @@
+[/EN#203284/scene A crane] is being used in [/EN#203293/scene the construction or destruction of a building] along with [/EN#203285/people a worker] spraying [/EN#203287/scene water] at [/EN#203286/scene the building] .
+[/EN#203284/scene A large crane] demolishes [/EN#203286/other a structure] while [/EN#203285/people a person] standing nearby on [/EN#203287/scene an elevated platform squirts water] from [/EN#203290/other a hose] .
+[/EN#203284/scene A demolition crane] tearing down [/EN#0/notvisual what] is left of [/EN#203286/scene a building] with [/EN#203285/people a man] standing on [/EN#203288/other a platform] spraying [/EN#203287/scene water] .
+[/EN#203285/people A man] spraying [/EN#203294/scene water] onto [/EN#203289/other a former piece of architecture] [/EN#0/notvisual that] is being taken down by [/EN#203284/other a piece of machinery] .
+[/EN#203285/people A man] is standing on [/EN#203288/other a platform] looking at [/EN#203284/scene a large crane] .

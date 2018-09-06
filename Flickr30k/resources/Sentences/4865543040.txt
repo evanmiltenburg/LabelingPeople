@@ -1,0 +1,5 @@
+[/EN#212812/other A footpath] lined with [/EN#212820/other lampposts] in front of [/EN#212810/scene a large building] with [/EN#212811/people two people] walking in [/EN#0/notvisual the distance] .
+[/EN#212810/scene A shot of a building] and [/EN#212812/scene sidewalk] , [/EN#212811/people people] are visible in [/EN#0/notvisual the distance]
+[/EN#212811/people Two people] are running down [/EN#212812/scene the side of a freeway] .
+[/EN#212818/people Two people] are walking across [/EN#212812/scene a long bridge] .
+[/EN#212812/scene A pedestrian side way] in [/EN#212814/scene a city] .

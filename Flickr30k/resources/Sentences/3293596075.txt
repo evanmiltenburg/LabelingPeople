@@ -1,0 +1,5 @@
+[/EN#107419/animals A black dog] runs down [/EN#107420/scene a snowy hill] with [/EN#107422/bodyparts his legs] deep in [/EN#107421/scene the snow] .
+[/EN#107419/animals A dog] up to [/EN#107423/bodyparts its belly] in [/EN#107421/scene the snow] attempts to move .
+[/EN#107419/animals A black and brown dog] walking in [/EN#107420/scene deep snow] .
+[/EN#107419/animals The dog] runs in [/EN#107420/scene the deep snow] .
+[/EN#107419/other A dog shoulder-deep] in [/EN#107420/scene snow] .

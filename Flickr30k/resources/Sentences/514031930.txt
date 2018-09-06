@@ -1,0 +1,5 @@
+[/EN#229718/people A bald man] in [/EN#229717/clothing a white t-shirt] is standing at [/EN#229713/scene a bar] next to [/EN#229712/animals a white leashed dog] .
+[/EN#229712/animals A dog] on [/EN#229715/clothing a leash] puts [/EN#229719/bodyparts his front paws] on [/EN#229716/scene a bar] .
+[/EN#229712/animals A tied dog] trying to go in [/EN#229713/scene the sports bar] .
+[/EN#229712/animals A dog] tied to [/EN#229714/other a door] by [/EN#229715/clothing a leash] .
+[/EN#229712/animals A big dog] tied to [/EN#229714/other a door] .

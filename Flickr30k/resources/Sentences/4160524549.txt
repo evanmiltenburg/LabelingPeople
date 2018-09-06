@@ -1,0 +1,5 @@
+[/EN#157532/people Two women] in [/EN#157530/clothing orange shirts] and [/EN#157534/clothing hats] walk in [/EN#157528/scene an organized event] .
+[/EN#157527/people People] either going to or leaving [/EN#157528/scene some kind of event] .
+[/EN#157527/people Five people] in [/EN#157529/other a race] are walking next to [/EN#0/notvisual each other] .
+[/EN#157531/people A group of people] in [/EN#157530/clothing orange] walking in [/EN#157528/scene an event] .
+[/EN#157527/people People] walking in [/EN#157529/other a race] on [/EN#157533/scene a cold day] .

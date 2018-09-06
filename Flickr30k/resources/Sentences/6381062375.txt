@@ -1,0 +1,5 @@
+[/EN#253720/people A woman] wearing [/EN#253724/clothing goggles] and [/EN#253722/clothing a blue swim cap] doing [/EN#253725/other the backstroke] in [/EN#253723/scene a swimming pool] .
+[/EN#253720/people A female swimmer] with [/EN#253724/clothing goggles] and [/EN#253722/clothing a cap] does [/EN#253720/other the backstroke] .
+[/EN#253720/people A woman] is performing [/EN#253725/other the backstroke] in [/EN#253723/scene a pool] .
+[/EN#253720/people A swimmer] in [/EN#253723/scene a pool] swimming on [/EN#253726/other their back]
+[/EN#253720/other Women backstrokes] in [/EN#253723/scene pool] .

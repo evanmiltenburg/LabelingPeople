@@ -1,0 +1,5 @@
+[/EN#4007/people A man] and [/EN#4006/animals dog] concentrating on [/EN#4008/other a camera] taking [/EN#4013/other their picture] in [/EN#4009/scene the street] .
+[/EN#4010/clothing Black] and [/EN#4006/animals white dog] looking at [/EN#4008/other camera] with [/EN#4007/people man] bent over in [/EN#0/notvisual the background] .
+[/EN#4010/clothing White] with [/EN#4006/animals black spots dog] is being looked at by [/EN#4007/people a man] on [/EN#4009/scene the street] .
+[/EN#4007/people A man] and [/EN#4006/animals his dog] are [/EN#4012/other both interested] in [/EN#4014/people the photographer] .
+[/EN#4006/animals A black and white dog] standing near [/EN#4007/people a man] .

@@ -1,0 +1,5 @@
+[/EN#13353/people An elderly man] reads [/EN#13354/other a newspaper] next to [/EN#13355/other some garbage cans] and [/EN#13356/other a wall] covered in [/EN#13357/other graffiti] .
+[/EN#13353/people A man] reading [/EN#13354/other a newspaper] is leaning up against [/EN#13356/other a purple wall] with [/EN#13357/other graffiti] .
+[/EN#13353/people A man] standing reading [/EN#13354/other a paper] by [/EN#13358/scene a building] with [/EN#13356/other graffiti] and [/EN#13355/other garbage cans] .
+[/EN#13353/people Man] in [/EN#13359/clothing hat] and [/EN#13360/clothing coat] reading [/EN#13354/other newspaper] near [/EN#13355/other garbage cans] and [/EN#13357/other graffiti] .
+[/EN#13353/people A man] reading [/EN#13354/other a newspaper] outside next to [/EN#13355/other some trashcans] .

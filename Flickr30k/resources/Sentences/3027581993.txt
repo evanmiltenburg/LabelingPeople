@@ -1,0 +1,5 @@
+[/EN#88537/people A person] [/EN#0/notvisual who] is standing next to [/EN#88539/other a motorcycle] and waving in front of [/EN#88541/scene a small building] , is dressed in [/EN#88547/clothing pants] , [/EN#88538/clothing a jacket] and [/EN#88540/clothing a red scarf] covering [/EN#88542/bodyparts most of the face] .
+[/EN#88537/people A person] trying to disguise [/EN#88542/bodyparts his face] with [/EN#88540/clothing a red scarf] , standing next to [/EN#88539/other a motorcycle] holding [/EN#88546/bodyparts his hand] up , outside of [/EN#88544/people a small grocer] .
+[/EN#88537/people A person] wearing [/EN#88540/clothing a red scarf] and [/EN#88538/clothing a black jacket] is standing in front of [/EN#88541/scene a small roadside shop] next to [/EN#88539/other a motorcycle] and waving .
+[/EN#88537/people a young man] standing next to [/EN#88539/other his motorcycle] in [/EN#88543/scene a poor side of town] waving to [/EN#88545/other camera] .
+[/EN#88537/people The man] on [/EN#88548/scene the side of the road] in [/EN#88538/clothing his black jacket] waves as [/EN#88549/other we] pass .

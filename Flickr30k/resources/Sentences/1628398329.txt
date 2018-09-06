@@ -1,0 +1,5 @@
+[/EN#17858/people A man] in [/EN#17859/clothing an orange shirt] and [/EN#17860/clothing blue pants] standing underneath [/EN#17861/other trees] along with [/EN#17862/people other people] around [/EN#0/notvisual him] .
+[/EN#17863/people Two men] share [/EN#17869/other a conversation] in [/EN#17870/scene the middle of a park] , behind [/EN#17864/scene a short fence] .
+[/EN#17863/people Men] standing in [/EN#17870/scene a sand covered park] , in front of [/EN#17865/scene a big white house] .
+[/EN#17866/people People] are standing on [/EN#17867/other sand] under [/EN#17861/other some trees] to get [/EN#17868/other Shade]
+[/EN#17866/people People] relaxing in [/EN#17871/scene the park] .

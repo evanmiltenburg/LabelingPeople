@@ -1,0 +1,5 @@
+[/EN#12443/people A man] with [/EN#12444/clothing a white shirt] and [/EN#12445/clothing rubber boots] is climbing on [/EN#12446/clothing/vehicles tanks] in order to retrieve [/EN#12447/other items] from [/EN#12448/clothing a specific tank] .
+[/EN#12443/people A worker] wearing [/EN#12445/clothing work boots] stands on [/EN#12449/scene some aquariums] as [/EN#0/notvisual he] puts [/EN#12450/animals fish] on [/EN#12451/other a weighing scale] .
+[/EN#12443/people A man] perched on [/EN#12449/scene a row of aquariums] is using [/EN#12452/other a net] to scoop [/EN#12453/animals a fish] from [/EN#12454/scene another aquarium] .
+[/EN#12443/people A man] in [/EN#12444/clothing a white shirt] balances on [/EN#12446/clothing/vehicles water-filled tanks] containing [/EN#12455/animals crabs] and [/EN#12450/animals fish] .
+[/EN#12443/people A man] trying to catch [/EN#12450/animals the fish] with [/EN#12452/other a little net] .

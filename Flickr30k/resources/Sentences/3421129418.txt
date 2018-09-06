@@ -1,0 +1,5 @@
+[/EN#116957/people A person] in [/EN#116961/clothing black and white swim trunks] falling into [/EN#116959/other the sand] at [/EN#116959/scene the beach] .
+[/EN#116957/people A teenager] in [/EN#116961/clothing striped shorts] is leaping into [/EN#0/notvisual the air] on [/EN#116959/scene the beach] .
+[/EN#116957/people The man] is playing with [/EN#116958/other a foam football] on [/EN#116959/scene the beach] .
+[/EN#116957/people A man] in [/EN#116961/clothing swimming trunks] kicking [/EN#116958/other a ball] at [/EN#116959/scene the beach] .
+[/EN#116957/people A man] jumping in [/EN#0/notvisual the air] at [/EN#116959/scene a beach]

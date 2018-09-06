@@ -1,0 +1,5 @@
+[/EN#37124/people Two boys] filling up [/EN#37125/scene a pan of water] while wearing [/EN#37131/clothing scout uniforms] .
+[/EN#37128/people One kid] holding [/EN#37125/other a bowl] while [/EN#37129/people another kid] sprays [/EN#37127/scene water] into [/EN#0/notvisual it] .
+[/EN#37124/people Two children] are at [/EN#37126/other a sink] and pouring [/EN#37127/scene water] into [/EN#37125/other a bowl] .
+[/EN#37124/people Kids] washing and playing in [/EN#37126/other the sink] with [/EN#37130/other water sprayer] .
+[/EN#37124/people two boy scouts] filling [/EN#37125/other bucket] with [/EN#37127/scene water] from [/EN#37126/other a sink]

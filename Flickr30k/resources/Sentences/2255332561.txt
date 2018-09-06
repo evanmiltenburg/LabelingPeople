@@ -1,0 +1,5 @@
+[/EN#37194/people A man] is on [/EN#37195/scene the side of a mountain] and hiking around [/EN#37196/other huge rocks] .
+[/EN#37194/people a lone man] climbing [/EN#37195/other the side of a large rock wall] .
+[/EN#37194/people A man] stands on [/EN#37196/scene the rocky ledge of a large cliff] .
+[/EN#37194/people A person] stands atop [/EN#37195/bodyparts a rock face] .
+[/EN#37194/people The man] is on [/EN#37195/scene the mountainside] .

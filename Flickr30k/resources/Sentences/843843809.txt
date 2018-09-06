@@ -1,0 +1,5 @@
+[/EN#281340/people A boy] plays with [/EN#281341/other a soccer ball] under [/EN#281342/other a clothesline] in [/EN#281343/scene an alley] .
+[/EN#281340/people A boy] is running towards [/EN#281341/other a yellow soccer ball] .
+[/EN#281340/people A young kid] is having [/EN#0/notvisual fun] playing with [/EN#281341/other a ball] .
+[/EN#281340/people the kid] is running towards [/EN#281341/other the yellow ball]
+[/EN#281340/people A boy] running to get [/EN#281341/other a yellow ball] .

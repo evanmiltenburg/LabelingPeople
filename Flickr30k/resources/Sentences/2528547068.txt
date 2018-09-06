@@ -1,0 +1,5 @@
+[/EN#55521/vehicles A red race car] travels down [/EN#55522/scene a road] marked with [/EN#55526/other red and white striped ribbons] .
+[/EN#55521/vehicles A race car] drives through [/EN#55523/other a dirt-covered racetrack] .
+[/EN#55521/vehicles A red rally car] taking [/EN#55525/other a slippery turn] in [/EN#55524/other a race] .
+[/EN#55521/vehicles A red car] emitting [/EN#55527/other smoke] while on [/EN#55522/scene a paved track] .
+[/EN#55521/vehicles A red race car] pulls off [/EN#55522/scene the track] smoking .

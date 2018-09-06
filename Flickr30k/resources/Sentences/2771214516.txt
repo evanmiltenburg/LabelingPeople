@@ -1,0 +1,5 @@
+[/EN#71841/vehicles A three-wheeled vehicle] is parked outside [/EN#71843/scene a white building] , and [/EN#71842/scene a mountain peak] is visible in [/EN#0/notvisual the background] .
+[/EN#0/notvisual There] is [/EN#71843/scene a white building] , with [/EN#71844/people several people] and [/EN#71842/scene a mountain] nearby , and [/EN#71847/vehicles four automobiles] .
+[/EN#0/notvisual This] is [/EN#71840/scene a non busy street] in [/EN#71845/scene a country] setting with [/EN#71844/people people] going about [/EN#71848/other regular business] .
+[/EN#71841/vehicles An orange truck] is driving down [/EN#71840/scene the street] in front of [/EN#71843/scene a white building] .
+[/EN#71840/scene A city street] with [/EN#71844/people people] in front of [/EN#71842/scene a mountain] back [/EN#71846/other drop] .

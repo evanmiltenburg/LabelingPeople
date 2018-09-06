@@ -1,0 +1,5 @@
+[/EN#57543/people A man] wearing [/EN#57544/clothing a black T-shirt] is chopping up [/EN#57546/other raw meat] .
+[/EN#57543/people A man] cutting [/EN#57546/other a piece of raw meat] in [/EN#57545/scene the kitchen] .
+[/EN#57543/people A man] is cutting up [/EN#57546/other some meat] in [/EN#57545/scene a messy kitchen] .
+[/EN#57543/people A young man] in [/EN#57544/clothing a black shirt] is cutting [/EN#57546/other meat] .
+[/EN#57543/people Man] in [/EN#57545/scene kitchen] carving up [/EN#57546/other some meat] .

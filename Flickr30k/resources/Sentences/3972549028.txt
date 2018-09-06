@@ -1,0 +1,5 @@
+[/EN#150401/people A man] wearing [/EN#150406/clothing a beige shirt] is sitting on [/EN#150403/other a chair] in [/EN#150405/other the sand] holding [/EN#150404/other a white net] .
+[/EN#150401/people A black man] in [/EN#150402/clothing a hat] sitting in [/EN#150403/other a chair] in [/EN#150405/other the sand] holding [/EN#150404/other a net] .
+[/EN#150401/people A man] is sitting in [/EN#150403/other a chair] holding [/EN#150404/other a net] .
+[/EN#150401/people A man] in [/EN#150402/clothing the cap] is tying [/EN#150404/other the net] .
+[/EN#150401/people a man] sitting at [/EN#150405/scene the beach] .

@@ -1,0 +1,5 @@
+[/EN#120224/animals The small fluffy white dog] runs through [/EN#120226/scene the green grass] with [/EN#120225/other a tiny stick] in [/EN#120227/bodyparts its mouth] .
+[/EN#120224/animals a little white and tan dog] running through [/EN#120226/scene the grass] with [/EN#120225/other a stick] in [/EN#120227/bodyparts his mouth] .
+[/EN#120224/animals A little white dog] runs on [/EN#120226/scene freshly mown grass] , holding [/EN#120225/other a small stick] .
+[/EN#120224/other The small dog returns] with [/EN#120225/other his stick] proudly .
+[/EN#120224/animals A dog] fetching [/EN#120225/other a stick] .

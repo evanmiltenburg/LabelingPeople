@@ -1,0 +1,5 @@
+[/EN#45630/people A man] in [/EN#45631/clothing a suit] with [/EN#45632/clothing glasses] stands in front of [/EN#0/notvisual a blurry background] .
+[/EN#45630/people A closeup of a man] in [/EN#45632/clothing glasses] looking at [/EN#0/notvisual the camera] .
+[/EN#45630/people a man] in [/EN#45632/clothing glasses] with [/EN#45631/other a blue jaket] and [/EN#45636/clothing shirt]
+[/EN#45630/people A man] wearing [/EN#45632/clothing glasses] and [/EN#45631/clothing a suit] .
+[/EN#45630/people A guy] wearing [/EN#45632/clothing glasses] .

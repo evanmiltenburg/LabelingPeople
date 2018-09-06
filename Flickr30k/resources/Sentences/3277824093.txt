@@ -1,0 +1,5 @@
+[/EN#106424/people An adolescent] wearing [/EN#106427/clothing a blue striped shirt] is skateboarding on [/EN#106425/other a rock] inside of [/EN#106428/scene a large building] .
+[/EN#106424/people Man] in [/EN#106431/clothing blue hat and blue and black striped shirt] doing [/EN#0/notvisual skateboarding trick] on [/EN#106425/other rock] .
+[/EN#106424/people A skateboarder] wearing [/EN#106430/other blue flannel] is skating on [/EN#106425/other a rock] at [/EN#106429/scene a skate park] .
+[/EN#106424/people A male teenager] rides [/EN#106426/other his skateboard] onto [/EN#106425/other a large rock] .
+[/EN#106424/people A man] gets [/EN#106426/other a skateboard] up on [/EN#106425/other a big rock] .

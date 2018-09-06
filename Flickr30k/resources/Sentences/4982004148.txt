@@ -1,0 +1,5 @@
+[/EN#225922/people A man] with [/EN#225924/clothing a chef 's hat] and [/EN#225930/clothing jacket] , outside making [/EN#225931/other food] at [/EN#225926/scene a food stand] with [/EN#225923/people a crowd] around [/EN#0/notvisual him] .
+[/EN#225922/people A street vendor] in [/EN#225929/clothing chef 's clothing] with [/EN#225925/vehicles a food cart] , [/EN#0/notvisual which] has gathered [/EN#225923/people people] around [/EN#0/notvisual it] .
+[/EN#225922/people A street vendor] wearing [/EN#225924/clothing a chef 's hat] and [/EN#225923/people several people] gathered around [/EN#0/notvisual him] and [/EN#225925/vehicles his cart] .
+[/EN#225923/people Several people] are standing in front of [/EN#225925/vehicles a food cart] with [/EN#225928/scene an umbrella outside] .
+[/EN#225922/people A man] in [/EN#225924/clothing chef 's hat] talking to [/EN#225923/people people] from under [/EN#225927/clothing an umbrella] .

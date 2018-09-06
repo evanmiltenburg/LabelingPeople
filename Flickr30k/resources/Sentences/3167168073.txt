@@ -1,0 +1,5 @@
+[/EN#97722/people An Arab man] leads [/EN#97723/animals three camels] across [/EN#97727/other a sand dune] with [/EN#0/notvisual a rocky background] .
+[/EN#97722/people A man] in [/EN#97728/clothing a blue robe] walking [/EN#97723/animals a herd of camels] in [/EN#97725/scene the desert] .
+[/EN#97722/people An Arabic man] walking [/EN#97723/animals his three camel] 's through [/EN#97725/scene the desert] .
+[/EN#97723/animals Camels] are being led by [/EN#97722/people a man] in [/EN#97725/scene the desert] .
+[/EN#97722/people A man] leading [/EN#97723/animals his camels] through [/EN#97725/scene the desert]

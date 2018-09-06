@@ -1,0 +1,5 @@
+[/EN#138451/scene A city street] with [/EN#138454/scene a telephone booth] , passing [/EN#138460/vehicles cars] , [/EN#138461/vehicles a parked bicycle] , and [/EN#138453/people a blond woman] with [/EN#138457/clothing a purse] and [/EN#138452/people young girl] with [/EN#138456/clothing a backpack] walking away .
+[/EN#138455/people Two people] walking down [/EN#138451/scene the sidewalk] by [/EN#138454/scene a telephone booth] wearing [/EN#138458/clothing jackets] in between [/EN#138459/scene tall buildings] .
+[/EN#138452/people A girl] and [/EN#138453/people a woman] walk through [/EN#138451/scene a street] and are about to pass [/EN#138454/scene a telephone booth] .
+[/EN#138453/people A woman] and [/EN#138452/people a girl] walking together on [/EN#138451/scene a sidewalk] in [/EN#138451/scene a city] .
+[/EN#138453/people A lady] and [/EN#138452/people her daughter] are walking down [/EN#138451/scene the street] .

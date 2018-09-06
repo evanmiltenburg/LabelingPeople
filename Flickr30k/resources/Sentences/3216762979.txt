@@ -1,0 +1,5 @@
+[/EN#101846/people a toddler] in [/EN#101847/clothing a brown sweater] is running along [/EN#101851/scene a path] next to [/EN#101849/scene the grass] .
+[/EN#101846/people A boy] in [/EN#101847/clothing brown] is running on [/EN#101848/scene a dirt road] .
+[/EN#101846/people A child] walking down [/EN#101848/scene a gravel path] .
+[/EN#101846/people A toddler] walks along [/EN#101848/scene a dirt road] .
+[/EN#101846/people a boy] in [/EN#101852/scene a field]

@@ -1,0 +1,5 @@
+[/EN#140817/people A person] in [/EN#140822/clothing a plain shirt] , [/EN#140823/clothing jeans] , [/EN#140819/clothing a hard hat] and [/EN#140825/clothing yellow gloves] puts [/EN#140820/other some sticks] onto [/EN#140824/other the back of a yellow machine] .
+[/EN#140817/people A man] with [/EN#140819/clothing a white hard hat] is loading [/EN#140820/other branches] into [/EN#140818/other a wood chipper] .
+[/EN#140817/people A worker] is placing [/EN#140821/other branches of wood] into [/EN#140818/other a chipper] .
+[/EN#140817/people This worker] is feeding [/EN#140821/other tree limbs] into [/EN#140818/other a grinder] .
+[/EN#140817/people A worker] shredding [/EN#140821/other pieces of wood] .

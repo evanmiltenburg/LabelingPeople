@@ -1,0 +1,5 @@
+[/EN#13705/people A group of individuals] are walking on [/EN#13706/scene a busy sidewalk] with [/EN#13708/scene a river or lake] in [/EN#13710/scene the view] .
+[/EN#13705/people Civilians] are near [/EN#13708/scene the water] and are walking down [/EN#13707/other the lane] .
+[/EN#13705/people Several people] are enjoying [/EN#13711/other a walk] along [/EN#13706/scene the waterfront] .
+[/EN#13705/people A group of people] walk on [/EN#13707/other a pathway] near [/EN#13709/other the lakeside] .
+[/EN#13705/people people] walking down [/EN#13706/scene a sidewalk] next to [/EN#13708/scene water] .

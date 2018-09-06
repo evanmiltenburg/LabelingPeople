@@ -1,0 +1,5 @@
+[/EN#86906/people This man] is wearing [/EN#86907/clothing a Barack Obama T-shirt] and carrying [/EN#86908/other a drink] .
+[/EN#0/notvisual This] is [/EN#86906/people a man] holding [/EN#86908/other a cup] and wearing [/EN#86907/clothing an Obama t-shirt] .
+[/EN#86906/people A man] wearing [/EN#86907/clothing an Obama t-shirt] and holding [/EN#86908/other a coffee cup] .
+[/EN#86906/people A man] wearing [/EN#86907/clothing a Barack Obama shirt] smiles for [/EN#0/notvisual the camera]
+[/EN#86906/people A young man] touts [/EN#86907/clothing an Obama t-shirt] .

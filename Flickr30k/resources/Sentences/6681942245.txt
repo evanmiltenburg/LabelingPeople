@@ -1,0 +1,5 @@
+[/EN#256882/people A woman] with [/EN#256889/bodyparts long black hair] is holding [/EN#256883/other a large metal bowl] with [/EN#256886/other a blue rag] over [/EN#256884/other hot coals] .
+[/EN#256882/people A woman] in [/EN#256890/clothing a green top] is lifting [/EN#256883/other a metal bowl] off of [/EN#256884/other the stove] .
+[/EN#256882/people A woman] is cleaning [/EN#256885/other her homemade grill pan] .
+[/EN#256882/people A happy woman] [/EN#0/notvisual who] is preparing for [/EN#256888/other dinner] .
+[/EN#256882/scene Older woman places] [/EN#256885/other a wok] on [/EN#256887/other a fire stove] .

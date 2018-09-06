@@ -1,0 +1,5 @@
+[/EN#118126/animals A gray dog] sits on [/EN#118128/scene a lawn] wearing [/EN#118127/clothing a bright blue long-sleeved jacket] .
+[/EN#118126/animals a brown dog] is sitting on [/EN#118128/scene the grass] wearing [/EN#118127/clothing a blue sports jacket] .
+[/EN#118126/animals The gray dog] sits quietly , dressed in [/EN#118127/clothing a blue track jacket] .
+[/EN#118126/animals A gray dog] wearing [/EN#118127/clothing a blue long-sleeved zip-up jacket] .
+[/EN#118126/animals A dog] in [/EN#118127/clothing a blue sweater] is sitting in [/EN#118128/scene the grass] .

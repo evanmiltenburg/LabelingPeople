@@ -1,0 +1,5 @@
+[/EN#33823/people A young man] shaving [/EN#33828/bodyparts his beard] outside in front of [/EN#33825/scene a garage] while [/EN#33827/people someone] else holds [/EN#33826/other a mirror] for [/EN#0/notvisual him] to see .
+[/EN#33823/people A shirtless man] shaves outside [/EN#33825/scene a garage] while [/EN#33827/people someone] to [/EN#0/notvisual the side] holds up [/EN#33826/other a mirror] for [/EN#0/notvisual him] to see from .
+[/EN#33823/people A man] wearing [/EN#33831/clothing no shirt] is trimming [/EN#33828/bodyparts his beard] with [/EN#33830/other an electric trimmer] while standing in [/EN#33824/scene a driveway] .
+[/EN#33823/people A man] shaves [/EN#33829/scene his beard outdoors] in [/EN#33824/scene a driveway] while [/EN#33827/people another person] holds up [/EN#33826/other a mirror] for [/EN#0/notvisual him] .
+[/EN#33823/people A man] cutting [/EN#33829/scene his beard outside] on [/EN#33824/scene the driveway] as [/EN#33827/people another person] holds [/EN#33826/other a mirror] .

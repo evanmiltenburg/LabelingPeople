@@ -1,0 +1,5 @@
+[/EN#200650/people A man] wearing [/EN#200653/clothing a green shirt] and [/EN#200655/clothing blue pants] is lying on [/EN#200654/scene the sidewalk] by [/EN#200656/other some trashcans] in front of [/EN#200659/scene a house] , with [/EN#200662/other something] on [/EN#200651/other the steps] by [/EN#200652/other the front door] .
+[/EN#200650/people One person] is wearing [/EN#200653/clothing a green shirt] while sleeping on [/EN#200654/scene the sidewalk] while [/EN#200660/people another person] wearing [/EN#200661/clothing black pants] is sleeping on [/EN#200651/other the stairs] .
+[/EN#200650/people One man] lays on [/EN#200651/other a city stoop] while [/EN#0/notvisual another] rests [/EN#200663/bodyparts his head] on [/EN#200658/other a garbage] can .
+[/EN#200650/people A man] in [/EN#200653/clothing a green shirt] and [/EN#200655/clothing dirty jeans] lays next to [/EN#200656/other four trashcans] .
+[/EN#200657/people Two people] are lying down in front of [/EN#200652/other a door] .

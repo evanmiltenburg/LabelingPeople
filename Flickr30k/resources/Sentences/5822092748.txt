@@ -1,0 +1,5 @@
+[/EN#243456/people A man] in [/EN#243458/clothing a yellow shirt] painting [/EN#243457/scene a house] with [/EN#243463/other the number 37] on [/EN#0/notvisual it] blue .
+[/EN#243456/people A man] is standing on [/EN#243459/other a ladder] repainting [/EN#243461/other a wall] with [/EN#243457/clothing the color blue] .
+[/EN#243456/people A man] in [/EN#243458/clothing an orange shirt] stands on [/EN#243460/other a latter] and paints [/EN#243457/clothing a wall blue] .
+[/EN#243456/people Man] painting [/EN#243457/clothing a house blue] .
+[/EN#243456/people A man] is painting [/EN#243457/other a wall] .

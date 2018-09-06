@@ -1,0 +1,5 @@
+[/EN#99472/people A man] and [/EN#99473/people a woman] in [/EN#99479/clothing a silver coat] are on [/EN#99475/scene a city sidewalk] with [/EN#99478/other their backs] to [/EN#0/notvisual the camera] .
+[/EN#99473/people A woman] walks with [/EN#99472/people another person] at [/EN#99476/scene night] .
+[/EN#99474/people Two people] outside looking to get [/EN#99477/other a paper] .
+[/EN#99474/people People] are outside at [/EN#99476/scene night] .
+[/EN#99474/people Couple] waiting on [/EN#99475/scene sidewalk] .

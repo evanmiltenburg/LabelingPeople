@@ -1,0 +1,5 @@
+[/EN#64484/people A construction worker] holding [/EN#64488/other a hammer] rests against [/EN#64485/other a wooden beam] while wearing [/EN#64489/clothing a yellow vest] , [/EN#64490/clothing cargo pants] , and [/EN#64486/clothing a hard hat] .
+[/EN#64484/people A male construction worker] in [/EN#64486/clothing a hard-hat] , hitting [/EN#64487/other a nail] into [/EN#64485/other a board] .
+[/EN#64484/people A construction worker] with [/EN#64486/clothing a hard hat] is hammering [/EN#64487/other a nail] in .
+[/EN#64484/people A male construction worker] hammers [/EN#64487/other a nail] .
+[/EN#64484/people A man] hammering [/EN#64487/other a nail] into [/EN#64485/other a beam] .

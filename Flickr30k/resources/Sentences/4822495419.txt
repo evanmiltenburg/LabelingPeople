@@ -1,0 +1,5 @@
+[/EN#207197/people A man] standing in front of [/EN#207203/scene a shop] [/EN#0/notvisual that] is closed wearing [/EN#207202/clothing a bag] and eating [/EN#207201/other a yellow Popsicle] talking on [/EN#207198/other his cellphone] .
+[/EN#207197/people A man] in [/EN#207200/clothing a gray shirt] stands [/EN#207199/other outside of a storefront] while eating [/EN#207201/other a snack] and listening to [/EN#207198/other his cellphone] .
+[/EN#207197/people Man] in [/EN#207200/clothing a gray shirt] and [/EN#207204/clothing black pants] standing in front of [/EN#207199/other a storefront] .
+[/EN#207197/people A man] is eating [/EN#207201/other an ice cream cone] in front of [/EN#207199/other a closed shop window] .
+[/EN#207197/people A man] in [/EN#207200/clothing a gray shirt] is talking on [/EN#207198/other a cellphone] and eating .

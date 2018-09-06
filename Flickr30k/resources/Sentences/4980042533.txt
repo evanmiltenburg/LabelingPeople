@@ -1,0 +1,5 @@
+[/EN#225622/people A little person] wearing [/EN#225624/clothing a kilt] and holding [/EN#225623/other a flag] with [/EN#225626/animals a lion] on [/EN#0/notvisual it] is waving from [/EN#225625/scene a stage] .
+[/EN#225622/people A little person] is holding [/EN#225623/other a yellow flag] with [/EN#225626/other a red logo] on [/EN#0/notvisual it] .
+[/EN#225622/people A short redheaded midget] , wearing [/EN#225624/clothing a kilt] , holding [/EN#225623/other a flag] .
+[/EN#225622/people A man] wearing [/EN#225624/clothing a kilt] is waving to [/EN#225627/people the crowd of people] .
+[/EN#225622/people A man] is standing on [/EN#225625/scene a stage] holding [/EN#225623/other a flag] .

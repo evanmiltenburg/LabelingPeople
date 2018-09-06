@@ -1,0 +1,5 @@
+[/EN#43002/people A man] in [/EN#43007/clothing a yellow reflective vest] squats on [/EN#43006/scene a lawn] while using on [/EN#43004/other a cellphone] .
+[/EN#43002/people The man] in [/EN#43007/clothing the yellow vest] sat down on [/EN#43003/other the brick] to make [/EN#43005/other a cellphone call] .
+[/EN#43002/people A man] sitting on [/EN#43003/other a rock] in [/EN#43006/scene a grass field] talking on [/EN#43004/other his cellphone] .
+[/EN#43002/people A man] on [/EN#43004/other a cellphone] sitting in [/EN#43006/scene the middle of a grassy field] .
+[/EN#43002/people a construction worker] sitting on [/EN#43003/other a rock] making [/EN#43005/other a phone call] .

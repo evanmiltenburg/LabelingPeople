@@ -1,0 +1,5 @@
+[/EN#48615/people Four children] playing at [/EN#48620/scene a preschool] , [/EN#48626/other one] looking out [/EN#48625/other the window] , [/EN#48622/other one] is running , and [/EN#48617/other the other two] are playing with [/EN#48621/scene wooden blocks] .
+[/EN#48615/people Four children] are in [/EN#48618/scene a room] and [/EN#0/notvisual there] are [/EN#48617/people two young girls] playing with [/EN#48621/scene wooden blocks] .
+[/EN#48615/people Four kids] are playing with [/EN#48621/scene blocks] in [/EN#48618/scene a children 's playroom] in front of [/EN#48623/other a coat rack] .
+[/EN#48617/people Two girls] playing with [/EN#48621/scene wooden blocks] while [/EN#48622/people a boy] runs across [/EN#48618/scene the room] .
+[/EN#48615/people Children] play with [/EN#48621/scene wooden blocks] in [/EN#48619/scene a room] with [/EN#48624/other a view of trees] .

@@ -1,0 +1,5 @@
+[/EN#146176/people A female teacher] is pointing [/EN#146179/other something] out to [/EN#146178/people a young female student] seated at [/EN#146177/other a school desk] .
+[/EN#146176/people A woman] in [/EN#146180/clothing a gray shirt] is explaining [/EN#146179/other something] to [/EN#146178/people a little girl] sitting in [/EN#146177/other a school desk] .
+[/EN#146176/people A woman] is talking to [/EN#146178/people a girl] sitting at [/EN#146177/other a desk] .
+[/EN#146176/people A woman] helps [/EN#146178/people a young girl] in [/EN#146181/scene a classroom] .
+[/EN#146176/people A teacher] helping [/EN#146178/people a student] at [/EN#146177/other a desk] .

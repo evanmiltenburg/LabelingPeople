@@ -1,0 +1,5 @@
+[/EN#94346/people Three people] are sitting on [/EN#94347/other the couch] and [/EN#94350/people one person] is sitting on [/EN#94349/scene the floor] .
+[/EN#94345/people Young adults] relaxing on [/EN#94347/other a sofa] and [/EN#94349/scene the floor] .
+[/EN#94346/people A group of young people] lounging on [/EN#94347/other the couch] .
+[/EN#94345/people A family] sitting watching [/EN#94348/other the tv] .
+[/EN#94346/people The gang] watches [/EN#94348/other some TV] .

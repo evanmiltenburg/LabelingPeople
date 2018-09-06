@@ -1,0 +1,5 @@
+[/EN#168202/people A lady] with [/EN#168209/clothing a red jacket] and [/EN#168204/clothing a blue scarf] checking [/EN#168208/other her mobile device] while leaning against [/EN#168210/other a wall] with [/EN#168206/other a painting] on [/EN#0/notvisual it] underneath [/EN#168203/other a tall and green tree] .
+[/EN#168202/people A woman] wearing [/EN#168204/clothing a blue scarf] and [/EN#168211/clothing sunglasses] is leaning against [/EN#168205/other a painted wall] , underneath [/EN#168203/other a blossoming tree] .
+[/EN#168202/people Woman] looking at [/EN#168208/other her phone] , standing by [/EN#168205/other a painted wall] blocked by [/EN#168203/other a tree] .
+[/EN#168202/people A lady] standing by [/EN#168203/other a tree] looking at [/EN#168208/other her phone] .
+[/EN#168202/people A woman] stands under [/EN#168203/other a tree] near [/EN#168206/other a mural] .

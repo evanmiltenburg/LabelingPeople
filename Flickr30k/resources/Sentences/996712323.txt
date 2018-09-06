@@ -1,0 +1,5 @@
+[/EN#285167/people A man] laying on [/EN#285170/scene the floor] as [/EN#0/notvisual he] works on [/EN#285168/other an unfinished wooden chair] with [/EN#285169/other a tool] on [/EN#0/notvisual the ground] .
+[/EN#285167/people A man] is building [/EN#285168/other a wooden straight-backed chair] .
+[/EN#285167/people A man] putting together [/EN#285168/other a wooden chair] .
+[/EN#285167/people Carpenter] building [/EN#285168/other a wooden chair] .
+[/EN#285167/people A carpenter] is fixing up [/EN#285168/other a chair] .

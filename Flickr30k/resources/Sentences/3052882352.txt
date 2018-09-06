@@ -1,0 +1,5 @@
+[/EN#90439/people Some people] are standing , [/EN#90450/other some] walking , and [/EN#90449/other one] riding [/EN#90440/vehicles a bike] , in [/EN#90443/other a paved alleyway] .
+[/EN#90445/people A man] riding [/EN#90440/vehicles a bicycle] and [/EN#90439/people other people] walking on [/EN#90442/scene a street] in [/EN#90441/scene a foreign city] .
+[/EN#90439/people People] walking and biking down [/EN#90442/scene a city street] lined with [/EN#90444/scene white-painted houses] .
+[/EN#90439/people People] walk and bicycle down [/EN#90443/scene an alley] between [/EN#90444/scene white buildings] with [/EN#90448/other blue trim] .
+[/EN#90439/people A few citizens] are going about [/EN#90451/scene their day] down [/EN#90446/scene a neighborhood] alleyway .

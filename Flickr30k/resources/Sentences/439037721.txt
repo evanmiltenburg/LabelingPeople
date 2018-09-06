@@ -1,0 +1,5 @@
+[/EN#165955/people Two people] with [/EN#165961/clothing hats] looking at [/EN#165956/scene a lake] while sitting on [/EN#165959/scene a yellow-grassed hill] .
+[/EN#165955/people Two people] sitting on [/EN#165958/scene grass] in front of [/EN#165956/scene a lake] looking at [/EN#165960/scene the sky] .
+[/EN#165955/people Two men] sitting on [/EN#165958/scene the bank of a lake] with [/EN#165962/bodyparts an ice chest] .
+[/EN#165955/people Two people] having [/EN#165957/other a picnic] by [/EN#165958/scene the shore] .
+[/EN#165955/people Two people] having [/EN#165957/other a picnic] by [/EN#165956/scene a lake] .

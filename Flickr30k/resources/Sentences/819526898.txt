@@ -1,0 +1,5 @@
+[/EN#280297/people A man] wearing [/EN#280300/clothing an orange shirt] is running in [/EN#280298/scene a field] .
+[/EN#280297/people The man] in [/EN#280300/clothing the orange shirt] is running [/EN#280299/other a marathon] .
+[/EN#280297/people A man] with [/EN#280300/clothing an orange top] running in [/EN#280298/scene a grassy area] .
+[/EN#280297/people This runner] is wearing [/EN#280300/clothing an orange shirt] .
+[/EN#280297/people A man] running in [/EN#280299/other a race] on [/EN#280298/scene a path] .

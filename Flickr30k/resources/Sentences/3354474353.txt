@@ -1,0 +1,5 @@
+[/EN#112176/animals Two dogs] walk in [/EN#112180/scene the snow] , [/EN#112178/animals the larger dog] has [/EN#112182/animals a fish] in [/EN#112177/bodyparts his mouth] .
+[/EN#0/notvisual There] are [/EN#112176/animals two dogs] in [/EN#112180/scene the snow] and [/EN#112178/other one] has [/EN#112179/other something] in [/EN#112177/bodyparts his mouth] .
+[/EN#112176/animals Two dogs] , [/EN#112178/other one] holding [/EN#112179/other something] in [/EN#112177/bodyparts its mouth] , in [/EN#112180/scene the snow] .
+[/EN#112176/animals Two dogs] are playing in [/EN#112180/scene the snow] .
+[/EN#112176/animals Two dogs] on [/EN#112181/scene the beach] .

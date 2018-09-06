@@ -1,0 +1,5 @@
+[/EN#230955/vehicles An airplane] with [/EN#230962/bodyparts a red tail] is being examined by [/EN#230954/people professionals] inside [/EN#230957/scene a building] .
+[/EN#230954/people Airplane workers] are working on [/EN#230955/other the tail section of a plane] .
+[/EN#230954/people People] performing [/EN#230958/other maintenance] on [/EN#230955/other a jet plane] in [/EN#230956/scene hangar]
+[/EN#230955/other A large plane] in [/EN#230959/other the process] of being assembled .
+[/EN#230955/other A plane] lies in [/EN#230956/scene the background of a warehouse] .

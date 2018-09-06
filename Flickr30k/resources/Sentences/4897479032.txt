@@ -1,0 +1,5 @@
+[/EN#216237/people A shirtless man] is painting over [/EN#216238/other a graffiti filled wall] with [/EN#216241/other a paint roller] .
+[/EN#216237/people A shirtless man] is painting [/EN#216238/other street art] on [/EN#216238/other a concrete wall] .
+[/EN#216237/other A shirtless blond man spray] paints graffiti on [/EN#216238/other a wall] .
+[/EN#216237/people A man] is drawing [/EN#216238/other graffiti] on [/EN#216238/other the side of a gray wall] .
+[/EN#216237/people A man] painting [/EN#216238/other a wall] covered in [/EN#216238/other graffiti] .

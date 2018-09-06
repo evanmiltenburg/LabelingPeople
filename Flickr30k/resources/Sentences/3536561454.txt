@@ -1,0 +1,5 @@
+[/EN#125746/people Two skateboarders] , [/EN#125745/other one] wearing [/EN#125747/clothing a black t-shirt] and [/EN#125754/other the other] wearing [/EN#125751/clothing a white t-shirt] , race [/EN#0/notvisual each other] .
+[/EN#125745/people A man] wearing [/EN#125750/clothing a black helmet] and [/EN#125752/clothing black pants] and [/EN#125747/clothing shirt] rides [/EN#125749/other his skateboard] in [/EN#125755/scene a park] .
+[/EN#125746/people Two men] racing [/EN#0/notvisual each other] on [/EN#125749/other skateboards] .
+[/EN#125745/people The skateboarder] rides near [/EN#125748/other a small cone] .
+[/EN#125745/people A man] skateboards around [/EN#125748/other an orange cone] .

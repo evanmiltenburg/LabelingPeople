@@ -1,0 +1,5 @@
+[/EN#140103/people A woman] is reading [/EN#140109/other literature] and sitting on [/EN#140107/scene the front stoop of a building] .
+[/EN#140103/people A woman] sits and reads on [/EN#140107/scene the front stoop of her building] .
+[/EN#140103/people A woman] sits and reads in [/EN#140105/other the stoop of a wooden door] .
+[/EN#140103/people A lady] sitting on [/EN#140107/scene a front porch] reading [/EN#140104/other a book] .
+[/EN#140103/people A person] sits at [/EN#140105/other a doorstep] and reads [/EN#140108/other a book] .

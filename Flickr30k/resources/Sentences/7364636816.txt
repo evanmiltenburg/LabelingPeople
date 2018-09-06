@@ -1,0 +1,5 @@
+[/EN#269037/people A line of children] in [/EN#269039/clothing yellow hats] are overlooking [/EN#269042/other a short brick wall] with [/EN#269043/other hedges] behind [/EN#0/notvisual it] .
+[/EN#269037/people A row of children] in [/EN#269039/clothing yellow hats] are gazing into [/EN#269041/other an exhibit] .
+[/EN#269037/people A bunch of kids] in [/EN#269039/clothing yellow hats] are looking over [/EN#269038/scene a fence] .
+[/EN#269037/people A line of kids] standing beside [/EN#269038/scene a cement block fence] .
+[/EN#269037/people Children] are on [/EN#269040/other a field trip] .

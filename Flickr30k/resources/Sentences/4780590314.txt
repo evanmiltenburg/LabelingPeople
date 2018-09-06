@@ -1,0 +1,5 @@
+[/EN#202006/people Asian man] with [/EN#202007/clothing a striped polo shirt] and [/EN#202011/clothing jeans] pushing and pulling [/EN#202009/vehicles two stacks of flatbed carts] .
+[/EN#202006/people An Asian man] wearing [/EN#202007/clothing a striped shirt] is pushing [/EN#202009/vehicles carts] next to [/EN#202013/other a van] .
+[/EN#202006/people An asian man] moving [/EN#202009/vehicles carts] on [/EN#202012/scene the sidewalk] to [/EN#202008/scene their destination] .
+[/EN#202006/people A young man] wheels [/EN#202009/other cargo dollies] to [/EN#202008/scene assigned destination] .
+[/EN#202006/people A man] in [/EN#202011/clothing jeans] and [/EN#202007/clothing a brown shirt] is pushing [/EN#202009/other dollies] .

@@ -1,0 +1,5 @@
+[/EN#67124/animals A black dog] follows [/EN#67125/animals a group of sheep] walking in [/EN#67126/scene a field of grass] .
+[/EN#67124/animals Black dog] following [/EN#67125/animals a herd of sheep] down [/EN#67127/other a grassy lane] .
+[/EN#67124/animals a black sheepdog] is guiding [/EN#67125/animals sheep] along [/EN#67128/scene a grassy path] .
+[/EN#67124/animals A sheepdog] is herding [/EN#67125/animals sheep] down [/EN#67128/scene a grassy path] .
+[/EN#67124/animals A dog] chasing [/EN#67125/animals sheep] down [/EN#67129/scene a county road]

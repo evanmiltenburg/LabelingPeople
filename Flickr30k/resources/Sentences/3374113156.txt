@@ -1,0 +1,5 @@
+[/EN#113858/people A little girl] wearing [/EN#113860/clothing a yellow dress] is sitting on [/EN#113861/other the white rocks] .
+[/EN#113858/people A small girl] in [/EN#113860/clothing a yellow dress] sits on [/EN#113859/other a pile of gray rocks] .
+[/EN#113858/people A little girl] in [/EN#113860/clothing a yellow dress] is sitting on [/EN#113861/other some rocks] .
+[/EN#113858/people A cute child] is sitting on [/EN#113859/other the rocks] in [/EN#113859/other a yellow frock] .
+[/EN#113858/people A child] in [/EN#113860/clothing a yellow dress] sits on [/EN#113859/other the rocks] .

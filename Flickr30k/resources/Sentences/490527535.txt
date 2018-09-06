@@ -1,0 +1,5 @@
+[/EN#216934/people A smiling young man] walking on next to [/EN#216939/scene the beach] wearing [/EN#216935/clothing a baseball cap] , [/EN#216938/clothing blue t-shirt] and [/EN#216941/clothing jeans] .
+[/EN#216934/people A guy] with [/EN#216942/bodyparts long hair] , [/EN#216935/clothing a ball cap] , and [/EN#216938/clothing a blue shirt] is smiling as [/EN#0/notvisual he] walks along [/EN#216940/scene the boardwalk]
+[/EN#216934/people A man] in [/EN#216938/clothing a blue shirt] and [/EN#216935/clothing hat] is walking along [/EN#216936/scene the beach] .
+[/EN#216934/people An black man] wearing [/EN#216938/clothing a blue shirt] and [/EN#216935/clothing hat] in [/EN#216936/scene a beach] .
+[/EN#216934/people A young man] is walking close to [/EN#216936/scene the sea] .

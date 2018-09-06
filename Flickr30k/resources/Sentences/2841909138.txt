@@ -1,0 +1,5 @@
+[/EN#76217/people A woman] with [/EN#76227/bodyparts a ponytail] wearing [/EN#76225/clothing a peach shirt] , [/EN#76226/clothing white khaki pants] , and [/EN#76223/clothing black sandals] sits outside [/EN#76219/scene a store] on [/EN#76218/other a wicker bench] as [/EN#0/notvisual she] writes on [/EN#76220/other a notebook] .
+[/EN#76217/people A girl] wearing [/EN#76223/clothing sandals] is writing in [/EN#76220/other a notebook] while sitting in [/EN#76218/scene a chair outside] .
+[/EN#76217/people A woman] is writing in [/EN#76220/other a journal] , while sitting on [/EN#76218/other a bench] at [/EN#76219/scene a coffee shop] .
+[/EN#76217/people A woman] writes in [/EN#76220/other a notebook] while sitting on [/EN#76218/scene a wicker seat] .
+[/EN#76217/people A woman] is sitting [/EN#76222/other outside writing] in [/EN#76220/other a notebook] .

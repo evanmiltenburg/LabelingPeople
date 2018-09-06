@@ -1,0 +1,5 @@
+[/EN#7480/people Woman] in [/EN#7485/other a green and white striped shit] lying in [/EN#7481/other a chair] with [/EN#7483/clothing a yellow bag] , holding [/EN#7484/other a folded piece of paper] .
+[/EN#7480/people A lady] [/EN#0/notvisual that] 's holding [/EN#7483/clothing a yellow bag] is sitting on [/EN#7481/other a chair] in [/EN#7482/scene a store] .
+[/EN#7480/people A woman] is sitting in [/EN#7481/other a white chair] at [/EN#7482/scene a furniture store] .
+[/EN#7480/people A lady] is trying out [/EN#7481/other a chair] in [/EN#7482/scene a furniture store] .
+[/EN#7480/people Young woman] reclines in [/EN#7481/other a chair] at [/EN#7482/scene an Ikea store] .

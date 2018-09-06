@@ -1,0 +1,5 @@
+[/EN#128446/animals a black and white dog] is running though [/EN#128447/scene water] whilst bearing [/EN#128449/bodyparts its teeth] .
+[/EN#128446/animals A dog] is running through [/EN#128447/scene the water] with [/EN#128448/scene its mouth wide open] .
+[/EN#128446/animals A black and white dog] is running and splashing in [/EN#128447/scene water] .
+[/EN#128446/animals A spotted black and white dog] splashes in [/EN#128447/scene the water] .
+[/EN#128446/animals An open-mouthed dog] is running through [/EN#128447/scene the water] .

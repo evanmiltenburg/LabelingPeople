@@ -1,0 +1,5 @@
+[/EN#109359/animals A black dog] carrying [/EN#109361/other a stick] in [/EN#109363/bodyparts its mouth] runs through [/EN#109360/scene a huge puddle] in [/EN#109364/scene the grass] .
+[/EN#109359/animals The black dog] is running through [/EN#109360/scene a swampy area] with [/EN#109362/other pieces of wood] [/EN#109363/bodyparts its mouth] .
+[/EN#109359/animals A black dog] is splashing through [/EN#109360/scene soggy grass] carrying [/EN#109361/other a stick] .
+[/EN#109359/animals A black dog] runs out of [/EN#109360/scene the water] with [/EN#109362/other a stick] in [/EN#109363/bodyparts its mouth] .
+[/EN#109359/animals dog] running in [/EN#109360/scene water] with [/EN#109362/other stick] in [/EN#109363/bodyparts mouth]

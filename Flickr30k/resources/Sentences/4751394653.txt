@@ -1,0 +1,5 @@
+[/EN#198611/people An Asian lady] in [/EN#198617/clothing a red shirt] sits alone in [/EN#198614/scene a street market] with [/EN#198615/other bowls of fresh vegetables] lined in front of [/EN#0/notvisual her] .
+[/EN#198611/people A woman] with [/EN#198617/clothing an orange shirt] selling [/EN#198618/other vegetables] on [/EN#198620/scene the street] .
+[/EN#198611/people An Asian woman] preparing [/EN#198618/other vegetables] for [/EN#198614/scene the market] .
+[/EN#198611/people A guy] is preparing [/EN#198618/other food] at [/EN#198614/scene a market] .
+[/EN#198611/people woman] working at [/EN#198616/other the marketplace] .

@@ -1,0 +1,5 @@
+[/EN#109953/people A man] on [/EN#109954/vehicles a bike] in [/EN#0/notvisual the air] [/EN#0/notvisual he] is wearing [/EN#109957/other a blue hsirt] and [/EN#109961/clothing a yellow and white helmet] .
+[/EN#109953/people A person] riding [/EN#109954/vehicles a bike] jumps through [/EN#109955/other the air high] above [/EN#109958/other a bumpy racetrack] .
+[/EN#109953/people Someone] riding [/EN#109954/vehicles a bicycle] is up in [/EN#0/notvisual the air] over [/EN#109958/scene a dirt] and [/EN#109958/scene hill trail] .
+[/EN#109953/people A person] has ridden [/EN#109954/vehicles their bicycle] into [/EN#0/notvisual the air] .
+[/EN#109953/people A cyclist] in [/EN#0/notvisual a midair jump] .

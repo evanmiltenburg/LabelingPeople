@@ -1,0 +1,5 @@
+[/EN#254385/people A man] in [/EN#254390/clothing a white uniform] [/EN#0/notvisual who] is [/EN#254385/people the pitcher] about to thrown [/EN#254389/other the ball] .
+[/EN#254385/people A man] in [/EN#254390/clothing white] holds up [/EN#254389/other a red ball] over [/EN#254392/other a cricket wicket] .
+[/EN#254385/people A pitcher] prepares to throw [/EN#254386/other a ball] on [/EN#254388/scene a green field] .
+[/EN#254385/people A pitcher] standing at [/EN#254393/other the mound] is making [/EN#254385/other a throw] .
+[/EN#254385/other Amen] on [/EN#254388/scene a baseball field] catching [/EN#254389/other the ball] .

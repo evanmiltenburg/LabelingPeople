@@ -1,0 +1,5 @@
+[/EN#49050/people A man] sitting at [/EN#49053/other an outside table] , eating [/EN#49055/other lunch] , marking on [/EN#49051/other a paper] .
+[/EN#49050/people a single man] sitting at [/EN#49053/other a round table] reading outside of [/EN#49052/scene a shop]
+[/EN#49050/people Man] reading [/EN#49051/other a newspaper] at [/EN#49052/scene an outdoors restaurant] .
+[/EN#49050/people The man] is taking [/EN#49054/other notes] at [/EN#49053/other the table] .
+[/EN#49050/people Man] reading in [/EN#49056/other a chair] outside

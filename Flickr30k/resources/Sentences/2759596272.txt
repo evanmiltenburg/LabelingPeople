@@ -1,0 +1,5 @@
+[/EN#71012/people The little girl] [/EN#71015/clothing a striped shirt] jumped out of [/EN#71013/other a swing] .
+[/EN#71012/people A young girl] jumps off [/EN#71013/other her swing] in front of [/EN#71016/scene building] .
+[/EN#71012/people a girl] wearing [/EN#71017/clothing pink shoes] jumps off [/EN#71013/other a swing] in [/EN#71014/scene a park]
+[/EN#71012/people A girl] with [/EN#71018/bodyparts blond-hair] is jumping off [/EN#71013/other a tire] swing
+[/EN#71012/people Young girl] jumping off [/EN#71013/other a swing] .

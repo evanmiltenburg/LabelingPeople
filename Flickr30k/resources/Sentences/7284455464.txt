@@ -1,0 +1,5 @@
+[/EN#267929/vehicles One white car] is speeding down [/EN#267930/scene a dirt road] , throwing [/EN#267931/scene dirt] up into [/EN#0/notvisual the air] behind [/EN#0/notvisual it] as [/EN#0/notvisual it] goes by .
+[/EN#267929/vehicles A white car] is speeding uphill , and leaving [/EN#267931/other a trail of dust] behind [/EN#0/notvisual it] .
+[/EN#267929/vehicles A white race car] is being driven on [/EN#267930/scene a sandy road] .
+[/EN#267933/people A driver] is speeding [/EN#267929/vehicles a small car] very fast .
+[/EN#267929/vehicles A white vehicle] traverses [/EN#267930/scene a dry terrain] .

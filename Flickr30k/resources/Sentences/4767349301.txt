@@ -1,0 +1,5 @@
+[/EN#200793/people A man] wearing [/EN#200797/clothing glasses] with [/EN#200795/clothing a white shirt] and [/EN#200796/clothing black shorts] is sitting beside [/EN#200799/scene a road] .
+[/EN#200793/people Young guy] sitting on [/EN#200794/other the curb] in [/EN#200795/clothing white t-shirt] , [/EN#200796/clothing dark shorts] and [/EN#200798/clothing sandals] .
+[/EN#200793/people A man] with [/EN#200795/clothing a white shirt] and [/EN#200797/clothing glasses] is sitting on [/EN#0/notvisual the ground] .
+[/EN#200793/people A man] in [/EN#200797/clothing glasses] sitting on [/EN#200794/other a stoop] .
+[/EN#200793/people Man] with [/EN#200800/bodyparts a slight grin] on [/EN#200801/bodyparts his face] .

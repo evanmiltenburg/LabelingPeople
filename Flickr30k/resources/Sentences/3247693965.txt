@@ -1,0 +1,5 @@
+[/EN#104169/animals A dog] wrapped with [/EN#104173/other straps] is walking away from [/EN#104171/other a red tray] holding [/EN#104172/clothing a bag] .
+[/EN#104169/animals A dog] in [/EN#104173/clothing a harness] pulling [/EN#104171/other a pink carrier] behind [/EN#0/notvisual it] on [/EN#104170/scene snow] .
+[/EN#104169/animals a tan dog] wearing [/EN#104174/other a multicolored color] running on [/EN#104170/scene the beach]
+[/EN#104169/animals A dog] is pulling [/EN#104171/other a red sled] across [/EN#104170/scene the snow] .
+[/EN#104169/animals A tan dog] is pulling [/EN#104171/other a red sled] in [/EN#104176/scene the snow] .

@@ -1,0 +1,5 @@
+[/EN#137502/people A black soccer male soccer player] in [/EN#137514/clothing a purple uniform] with [/EN#137504/other a soccer ball] on [/EN#137505/bodyparts his head] , and [/EN#137508/people a white male soccer player] in [/EN#137515/clothing a white uniform] behind [/EN#0/notvisual him] .
+[/EN#137502/people A man] in [/EN#137510/other purple bumps] [/EN#137504/other the soccer ball] with [/EN#137505/bodyparts his head] while [/EN#137507/people a man] in [/EN#137513/other white battles] with [/EN#0/notvisual him] .
+[/EN#137502/people A man] on [/EN#137511/people the purple team] heading [/EN#137504/other the ball] in [/EN#137506/other a game] against [/EN#137507/people the white team]
+[/EN#137503/people Two guys] playing [/EN#137504/other ball] and making [/EN#137509/bodyparts faces] .
+[/EN#137503/people Two guys] colliding while playing [/EN#137504/other soccer]

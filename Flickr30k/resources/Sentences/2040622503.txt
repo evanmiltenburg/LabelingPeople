@@ -1,0 +1,5 @@
+[/EN#25488/people A person] in [/EN#25489/clothing a black jacket] standing in front of [/EN#25490/scene a stone building] .
+[/EN#25488/people A man] standing next to [/EN#25490/scene a building] with [/EN#25494/people pitchers] in [/EN#25492/other the window] .
+[/EN#25488/people A man] in [/EN#25489/clothing a black jacket] looking at [/EN#25492/other a window] with [/EN#25491/other coffee pots]
+[/EN#25488/people Man] holding [/EN#25493/clothing grocery bags] window shopping .
+[/EN#25488/people A man] observes [/EN#25491/other antiques] in [/EN#25490/scene a store] .

@@ -1,0 +1,5 @@
+[/EN#42549/people Snowboarder] holding [/EN#42550/other a blue snowboard] and [/EN#42552/other a green snowboard] .
+[/EN#42549/people A man] with [/EN#42550/other a blue " atomic " ski board] standing on [/EN#42555/scene a hill] .
+[/EN#42549/people A snowboarder] is taking [/EN#42553/other a picture] in front of [/EN#42554/other some trees] .
+[/EN#42549/people A man] standing and holding [/EN#42550/other a blue snowboard] .
+[/EN#42549/people A person] in [/EN#42556/clothing a helmet] is holding [/EN#42550/other his skis] .

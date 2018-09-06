@@ -1,0 +1,5 @@
+[/EN#107527/people A person] in [/EN#107529/clothing an orange jacket] walking in front of [/EN#107528/scene a building] with [/EN#107531/other glass doors] .
+[/EN#107527/people A woman] bundled in [/EN#107529/clothing an orange coat] is [/EN#107533/other walk] in front of [/EN#107532/other glass windows] .
+[/EN#107527/people A person] in [/EN#107529/clothing a long orange coat] walks along [/EN#107530/other a sets of stairs] .
+[/EN#107527/people A person] wearing [/EN#107529/clothing an orange coat] is walking past [/EN#107528/scene a building] .
+[/EN#107527/people Person] in [/EN#107529/clothing a long red coat] walking in front of [/EN#107528/scene a building] .

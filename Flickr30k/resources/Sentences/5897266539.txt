@@ -1,0 +1,5 @@
+[/EN#244777/people The cook] with [/EN#244785/clothing the big white hat] and [/EN#244786/clothing coat] is in [/EN#244787/scene the big kitchen] making [/EN#244779/other pizza] .
+[/EN#244777/people A pastry chef] sprinkles [/EN#244784/other ingredients] on [/EN#244778/other a pan of backed goods] .
+[/EN#244777/people A chef] prepares [/EN#244782/other a table] with [/EN#244779/other food] behind [/EN#0/notvisual it] .
+[/EN#244777/people A pastry chef] preparing [/EN#244778/other some baked goods] .
+[/EN#244777/people/scene A baker] is making [/EN#244783/other cookies] on [/EN#244779/other a large pan] .

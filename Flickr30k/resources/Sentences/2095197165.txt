@@ -1,0 +1,5 @@
+[/EN#28356/people A person] wearing [/EN#28357/clothing jeans] and [/EN#28358/clothing a dark blue shirt] down [/EN#28361/bodyparts on one knee] on [/EN#28359/scene the concrete floor] .
+[/EN#28356/people A man] is working to pull [/EN#28362/other an unknown object] from [/EN#28359/scene a hole] drilled in [/EN#28359/scene the pavement] .
+[/EN#28356/people A man] bends down on [/EN#28359/scene a stone surface] , fixing [/EN#28363/other something] .
+[/EN#28356/people Man] putting up [/EN#28363/other a tile] in [/EN#0/notvisual the ground] .
+[/EN#28356/people Man] doing [/EN#28365/other repairs] to [/EN#28360/other brick] .

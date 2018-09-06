@@ -1,0 +1,5 @@
+[/EN#172930/animals A brown and black puppy] stands by [/EN#172932/other a camera] .
+[/EN#172930/animals A dog] chews on [/EN#172931/other the strap of a camera case] .
+[/EN#172930/animals A small dog] is standing behind [/EN#172932/other a camera] .
+[/EN#172930/animals A small dog] chewing on [/EN#172931/other a black strap] .
+[/EN#172933/other A dog gnaws] on [/EN#172931/other the strap of a camera] .

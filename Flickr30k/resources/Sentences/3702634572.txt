@@ -1,0 +1,5 @@
+[/EN#137989/people A girl] is performing [/EN#137990/other a wheelie] on [/EN#137990/vehicles her bicycle] in front of [/EN#137994/scene a gray cinder block building] .
+[/EN#0/notvisual There] is [/EN#137989/people a woman] riding [/EN#137990/vehicles a bike] down [/EN#137995/scene the road] , and [/EN#0/notvisual she] popped [/EN#137991/other a wheelie] .
+[/EN#137989/people A brunette woman] does [/EN#137991/other a wheelie] on [/EN#137990/vehicles a white bicycle] with [/EN#137993/other purple tires] .
+[/EN#137989/people A woman] does [/EN#137991/other a wheelie] on [/EN#137990/vehicles a bicycle] with [/EN#137993/other purple wheels] .
+[/EN#137989/people Girl] wearing [/EN#137996/clothing blue jeans] doing [/EN#0/notvisual tricks] on [/EN#137990/vehicles a bike] .

@@ -1,0 +1,5 @@
+[/EN#248375/people A caucasian male] wearing [/EN#248378/clothing a red sports shirt] while riding [/EN#248376/vehicles a bike] and [/EN#248379/clothing protective helmet] .
+[/EN#248375/people A BMX biker] in [/EN#248379/clothing a white and blue helmet] rides in front of [/EN#248380/other some blue and black boxes] .
+[/EN#248375/people A person] is riding [/EN#248376/vehicles a bike] on [/EN#248377/scene a dirt track] .
+[/EN#248375/people A person] riding [/EN#248376/vehicles a bike] in [/EN#248377/scene the dirt] .
+[/EN#248375/people A bicycler] in [/EN#248378/clothing a red shirt] riding .

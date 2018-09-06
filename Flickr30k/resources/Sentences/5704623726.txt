@@ -1,0 +1,5 @@
+[/EN#241281/people A man] in [/EN#241286/clothing a white t-shirt] and [/EN#241287/clothing jeans] is doing [/EN#241283/other a handstand] in [/EN#241282/scene a park] while [/EN#241290/people two women] walk by in [/EN#0/notvisual the distance] .
+[/EN#241281/people A man] wearing [/EN#241286/clothing a white shirt] and [/EN#241287/clothing jeans] is doing [/EN#241283/other a handstand] in [/EN#241282/scene a grassy area] .
+[/EN#241281/people A man] with [/EN#241286/clothing a white t-shirt] and [/EN#241287/clothing blue jeans] does [/EN#241283/other a handstand] on [/EN#241282/scene a green lawn] .
+[/EN#241281/people Man] with [/EN#241286/clothing white shirt] and [/EN#241287/clothing blue jeans] doing [/EN#241283/other a handstand] on [/EN#241282/scene the grass] .
+[/EN#241281/people A man] is doing [/EN#241283/other a handstand] in [/EN#241282/scene a park] on [/EN#241288/scene a sunny day] .

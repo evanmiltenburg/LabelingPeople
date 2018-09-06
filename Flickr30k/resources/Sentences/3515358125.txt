@@ -1,0 +1,5 @@
+[/EN#124030/animals A dog] with [/EN#124033/clothing a red leash] still attached [/EN#124034/other chases] over [/EN#124032/scene the grass] toward [/EN#124031/other a tennis ball] .
+[/EN#124030/animals A dog] , trailing [/EN#124033/clothing a leash] , chases [/EN#124031/other a tennis ball] across [/EN#124032/scene a grassy area] .
+[/EN#124030/animals A large brown dog] runs after [/EN#124031/other a tennis ball] in [/EN#124032/scene a field] .
+[/EN#124030/animals A German shepherd dog] is running toward [/EN#124031/other a tennis ball] .
+[/EN#124030/animals A brown dog] is chasing [/EN#124031/other a ball] on [/EN#124032/scene the grass]

@@ -1,0 +1,5 @@
+[/EN#18047/people A man] helping [/EN#18048/people a young child] up to [/EN#18052/other a train engine] , while [/EN#18049/people a woman] climbs up [/EN#18053/other the steps] behind [/EN#0/notvisual them] .
+[/EN#18047/people A man] aboard [/EN#18050/vehicles/scene a red train] helps [/EN#18048/people a small child] onto [/EN#0/notvisual it] while [/EN#18049/people another person] tries to get on .
+[/EN#18047/people A man] in [/EN#18054/clothing an orange safety vest] helps [/EN#18048/people a child] and [/EN#18049/people a woman] onto [/EN#18050/vehicles/scene the front of a train] .
+[/EN#18047/people A man] is helping [/EN#18048/people a small child] get on [/EN#18050/vehicles/scene a train] .
+[/EN#18051/people The family] is getting on [/EN#18050/vehicles/scene the train] .

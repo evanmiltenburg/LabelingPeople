@@ -1,0 +1,5 @@
+[/EN#182691/people A group of people] stand around [/EN#182694/scene the Fulton St subway station] in [/EN#182693/other New York] .
+[/EN#182691/people People] stand near [/EN#182695/scene the entrance] to [/EN#182694/scene the Fulton Street Subway Station] .
+[/EN#182691/people People] stand outside [/EN#182695/scene the entrance] to [/EN#182692/vehicles/scene the Fulton St Station subway] .
+[/EN#182691/people People] outside standing by [/EN#182694/scene the subway station] .
+[/EN#182692/scene A subway station] in [/EN#182693/other New york] .

@@ -1,0 +1,5 @@
+[/EN#235700/people a child] wearing [/EN#235702/clothing a pin-striped shirt] with [/EN#235708/other two buttons] , and [/EN#235704/clothing a yellow hat] , is pointing to [/EN#235704/bodyparts his head] .
+[/EN#235700/people A boy] wearing [/EN#235704/clothing a yellow hat] and [/EN#235702/clothing a shirt] [/EN#0/notvisual that] says [/EN#235706/other " Elmo] " , is pointing to [/EN#235705/bodyparts his forehead] .
+[/EN#235700/people Small Asian boy] with [/EN#235704/clothing a yellow hat] on pointing to [/EN#235705/bodyparts his forehead] .
+[/EN#235700/people A little kid] in [/EN#235702/clothing a baseball uniform] is pointing to [/EN#235705/bodyparts his head] .
+[/EN#235700/people A little boy] is wearing [/EN#235704/clothing a green hat] and [/EN#235702/clothing Elmo shirt] .

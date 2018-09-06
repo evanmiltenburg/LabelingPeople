@@ -1,0 +1,5 @@
+[/EN#63721/people The cowboy] in [/EN#63724/clothing blue] is trying not to be thrown off of [/EN#63722/animals the horse] .
+[/EN#63721/people A man] dressed in [/EN#63725/clothing cowboy attire] is riding [/EN#63722/animals a horse] .
+[/EN#63722/animals A horse] bucks [/EN#63721/people a man] off [/EN#63726/other its back] at [/EN#63723/other the rodeo] .
+[/EN#63721/people A man] is thrown off [/EN#63722/animals a horse] while at [/EN#63723/other a rodeo] .
+[/EN#63722/animals An airborne horse] bucks off [/EN#63721/people a rider] .

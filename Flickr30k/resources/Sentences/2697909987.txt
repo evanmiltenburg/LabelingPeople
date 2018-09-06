@@ -1,0 +1,5 @@
+[/EN#66765/people A man] wearing [/EN#66767/clothing a shirt] [/EN#0/notvisual that] says " [/EN#66766/people Gigolo] " is standing at [/EN#66768/scene a front desk area] with [/EN#66771/other his back] to [/EN#0/notvisual the camera] .
+[/EN#66765/people A man] wearing [/EN#66767/clothing a t-shirt] [/EN#0/notvisual that] says " [/EN#66766/people Gigolo] " stands at [/EN#66768/other the counter] talking to [/EN#66773/people someone] .
+[/EN#66765/people A man] in [/EN#66772/clothing jeans] is standing in front of [/EN#66768/other a reception desk] .
+[/EN#66765/people Man] wearing [/EN#66767/clothing Gigolo shirt] gets [/EN#66770/other assistance] at [/EN#66768/other front desk] .
+[/EN#66765/people A young man] in [/EN#66767/clothing a " GIGOLO " shirt] at [/EN#66768/other a reception desk] .

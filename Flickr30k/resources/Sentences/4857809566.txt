@@ -1,0 +1,5 @@
+[/EN#211681/people Girl] in [/EN#211687/clothing black jacket] and [/EN#211685/clothing pants] walking up [/EN#211682/other a stairway] [/EN#0/notvisual that] is covered in [/EN#211686/other advertisements] .
+[/EN#211681/people A woman] wearing [/EN#211688/clothing dark clothes] walks up [/EN#211682/other the stairs] in [/EN#211683/scene a subway station] .
+[/EN#211681/people A woman] in [/EN#211685/clothing dark pants] with [/EN#211684/clothing a white purse] walking up [/EN#211682/other some stairs] .
+[/EN#211681/people A woman] with [/EN#211684/clothing a white bag] is walking upstairs .
+[/EN#211681/people A lady] walks up [/EN#211682/other the steps] from [/EN#211683/vehicles/scene a subway] .

@@ -1,0 +1,5 @@
+[/EN#160731/people A skier] with [/EN#160743/clothing red] on [/EN#160738/other their skis] and [/EN#160742/clothing boots] is in [/EN#160735/scene midair] in [/EN#160739/scene a hurdling position] while [/EN#160734/other skiing] .
+[/EN#160731/people A man] wearing [/EN#160737/clothing an orange] and [/EN#160737/clothing gray jacket] doing [/EN#160731/other a jumping split] in [/EN#160738/other skis] .
+[/EN#160731/people A man] wearing [/EN#160737/clothing a red and gray jacket] doing [/EN#0/notvisual aerial tricks] on [/EN#160738/other skis] .
+[/EN#160731/people A man] is floating through [/EN#0/notvisual air] doing [/EN#0/notvisual tricks] with [/EN#160738/other his skis] .
+[/EN#160731/people a skier] in [/EN#160736/clothing a red coat] jumps in [/EN#160733/other midair spread-eagle] .

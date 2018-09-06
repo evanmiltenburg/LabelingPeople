@@ -1,0 +1,5 @@
+[/EN#234401/people A person] is leaning on [/EN#234403/scene the white snow] wearing [/EN#234402/clothing a green ski mask] , [/EN#234405/clothing brown jacket] , [/EN#234404/clothing black gloves] and [/EN#234406/clothing black pants] .
+[/EN#234401/people A person] with [/EN#234402/clothing a ski mask] , [/EN#234404/clothing gloves] and [/EN#234405/clothing tan coat] is laying on [/EN#234403/scene snow covered area] .
+[/EN#234401/people Someone] in [/EN#234407/clothing cold weather clothing] is leaning against [/EN#234403/scene a snowbank] .
+[/EN#234401/people A man] in [/EN#234407/other winter gear] and [/EN#234402/clothing a ski mask] lays upon [/EN#234403/scene a pile of snow] .
+[/EN#234401/people A person] in [/EN#234402/clothing a mask] is lounging on [/EN#234403/scene a pile of snow] .

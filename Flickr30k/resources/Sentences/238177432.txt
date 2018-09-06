@@ -1,0 +1,5 @@
+[/EN#45334/people An Asian man] in [/EN#45337/clothing a green uniform shirt] with [/EN#45341/clothing a white speckled headband] is using [/EN#45336/other a torch] to cook [/EN#45339/other food] in [/EN#45338/scene a restaurant] .
+[/EN#45334/people A man] , wearing [/EN#45337/clothing a green shirt] , is cooking [/EN#45339/other food] in [/EN#45338/scene a restaurant] .
+[/EN#45335/people Two men] dressed in [/EN#45343/clothing green] are preparing [/EN#45339/other food] in [/EN#45338/scene a restaurant] .
+[/EN#45334/other A check] with [/EN#45337/clothing a green shirt] uses [/EN#45336/other a blowtorch] on [/EN#45339/other some food] .
+[/EN#45335/people Two men] cooking [/EN#45342/other fast food] .

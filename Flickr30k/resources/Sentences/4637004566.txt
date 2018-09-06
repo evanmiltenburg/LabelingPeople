@@ -1,0 +1,5 @@
+[/EN#185215/people A blond-haired boy] in [/EN#185216/clothing his pajamas] sits on [/EN#185219/other a red chair] next to [/EN#185217/instruments a black guitar] and looks at [/EN#185218/other a book] .
+[/EN#185215/people A boy] sitting on [/EN#185219/other a red chair] , looking through [/EN#185218/other a book] with [/EN#185217/instruments a guitar] and [/EN#185220/other amplifier] next to [/EN#0/notvisual him] .
+[/EN#185215/people A boy] with [/EN#185222/clothing a U.S.M.C. t-shirt] sitting next to [/EN#185217/instruments an electric guitar] while reading [/EN#185218/other a book] .
+[/EN#185215/people A boy] in [/EN#185216/clothing his pajamas] getting ready to play [/EN#185221/other something] on [/EN#185217/instruments his guitar] .
+[/EN#185215/people A boy] in [/EN#185222/clothing a U.S.M.C. shirt] with [/EN#185216/clothing his pajamas] looking at [/EN#185218/other a book] .

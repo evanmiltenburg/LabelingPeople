@@ -1,0 +1,5 @@
+[/EN#69418/people A woman] wearing [/EN#69419/clothing a blue dress] and carrying [/EN#69420/clothing a purple umbrella] is walking in [/EN#69421/scene parking lot] .
+[/EN#69418/people Woman] in [/EN#69419/clothing a blue dress] with [/EN#69420/clothing a purple umbrella] standing in [/EN#69421/scene the road] .
+[/EN#69418/people A woman] is standing in [/EN#69421/scene a parking lot] holding [/EN#69420/clothing an umbrella] .
+[/EN#69418/people A woman] with [/EN#69420/clothing a purple umbrella] is in [/EN#69421/scene a parking lot] .
+[/EN#69418/people a woman] in [/EN#69419/clothing blue] , holds [/EN#69420/clothing a purple umbrella] .

@@ -1,0 +1,5 @@
+[/EN#126515/other The gutarist upfront] is under [/EN#126514/other a spotlight] , and [/EN#126512/people the drummer] in [/EN#126518/other the back] is under [/EN#126517/other one] too .
+[/EN#126511/people A bald man] in [/EN#126516/people a band] is playing [/EN#126513/instruments guitar] in [/EN#126514/other the spotlight] .
+[/EN#126511/people An old bald man] in [/EN#126514/other the spotlight] playing [/EN#126513/instruments the guitar] .
+[/EN#126511/people A bald man] plays [/EN#126513/instruments guitar] while [/EN#126514/other a spotlight] is on [/EN#0/notvisual him] .
+[/EN#126511/people A man] plays [/EN#126513/instruments guitar] next to [/EN#126512/people a drummer] .

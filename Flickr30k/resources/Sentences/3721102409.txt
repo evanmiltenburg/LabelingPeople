@@ -1,0 +1,5 @@
+[/EN#139447/people A man] in [/EN#139449/clothing a green t-shirts] holds [/EN#139450/clothing his sneakers] while walking alone down [/EN#139448/scene a beach] .
+[/EN#139447/people A man] in [/EN#139449/clothing a green t-shirt] walks down [/EN#139448/scene a beach] , carrying [/EN#139450/clothing his tennis shoes] .
+[/EN#139447/people A man] in [/EN#139449/clothing a green shirt] is walking on [/EN#139448/scene the beach] carrying [/EN#139450/clothing his sneakers] .
+[/EN#139447/people A man] in [/EN#139449/clothing green] walking down [/EN#139448/scene the beach] while holding [/EN#139450/clothing his shoes] .
+[/EN#139447/people Man] in [/EN#139449/clothing a green shirt] holding [/EN#139450/clothing his shoes] walking on [/EN#139451/other the sand] .

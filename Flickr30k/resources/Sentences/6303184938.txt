@@ -1,0 +1,5 @@
+[/EN#252069/people A man] in [/EN#252070/clothing a blue shirt] with [/EN#252073/clothing glasses] and [/EN#252077/bodyparts a shaved down head] is looking at [/EN#252072/other a microscope] in [/EN#252071/scene a laboratory] .
+[/EN#252069/people A man] wearing [/EN#252075/clothing laboratory gloves] is looking through [/EN#252072/other a microscope] [/EN#0/notvisual that] is sitting on [/EN#252074/other a metal counter] .
+[/EN#252069/people A male lab worker] with [/EN#252073/clothing glasses] is examining [/EN#252076/other something] using [/EN#252072/other a microscope] .
+[/EN#252069/people A man] in [/EN#252070/clothing a blue shirt] is in [/EN#252071/animals/scene a lab] looking into [/EN#252072/other a microscope] .
+[/EN#252069/people A man] looks into [/EN#252072/other a microscope] in [/EN#252071/scene a office] .

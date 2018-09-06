@@ -1,0 +1,5 @@
+[/EN#146081/people A man] in [/EN#146082/clothing a white and blue striped shirt] is running down [/EN#146085/scene a dirt road] .
+[/EN#146081/people A person] , in [/EN#146082/clothing a striped blue shirt] and [/EN#146084/clothing pants] , is running along .
+[/EN#146081/people Man] in [/EN#146082/clothing blue and white striped shirt] walks along [/EN#146086/other beach barefoot] .
+[/EN#146081/people A man] running with [/EN#146083/clothing no shoes] on [/EN#146087/bodyparts his feet] .
+[/EN#146081/people A man] in [/EN#146082/clothing a striped shirt] running .

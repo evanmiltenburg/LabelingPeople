@@ -1,0 +1,5 @@
+[/EN#171347/people A woman] carts [/EN#171346/people a child] wearing [/EN#171348/clothing a bright green cap] down [/EN#171350/scene the street] in [/EN#171349/vehicles a wooden wagon] .
+[/EN#171346/people A child] in [/EN#171348/clothing a green hat] is being pushed in [/EN#171349/vehicles a cart] by [/EN#171347/people an adult] .
+[/EN#171347/people A woman] is pushing [/EN#171346/people a boy] in [/EN#171349/vehicles a wagon] near [/EN#171350/scene a sidewalk] .
+[/EN#171347/people A woman] is pushing [/EN#171346/people a child] in [/EN#171349/other a card] down [/EN#171350/scene the road] .
+[/EN#171347/people The lady] in [/EN#171352/clothing purple] is pushing [/EN#171346/people the child] in [/EN#171349/vehicles a wagon] .

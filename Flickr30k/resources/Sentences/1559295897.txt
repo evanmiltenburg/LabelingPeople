@@ -1,0 +1,5 @@
+[/EN#16312/people A man] is standing on [/EN#0/notvisual mossy ground] next to [/EN#16314/scene a calm body of water] , holding [/EN#16315/other a fishing pole] and fishing in [/EN#16314/scene the water] .
+[/EN#16312/people Man] with [/EN#16316/clothing long-sleeve black shirt] and [/EN#16317/clothing blue pants] fishes from [/EN#16313/scene a bank] .
+[/EN#16312/people A man] [/EN#16314/scene fresh water] fishing with [/EN#16315/other a long pole] .
+[/EN#16312/people A man] , in [/EN#16316/clothing a black sweater] , fishing .
+[/EN#16312/people One man] is standing outside [/EN#16318/other fishing] .

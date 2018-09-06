@@ -1,0 +1,5 @@
+[/EN#180231/scene A line of blue , green , and white booths] line [/EN#180236/scene the side of a street] outside [/EN#180235/scene a store] with [/EN#180229/people one man] sitting in [/EN#180232/scene a booth] .
+[/EN#180229/people Man] sitting down at [/EN#180234/other table] apparently in [/EN#180238/other thought] with [/EN#180233/people billboard of women] [/EN#180239/bodyparts 's face] in [/EN#0/notvisual background] .
+[/EN#180229/people A man] sits at [/EN#180232/scene brightly colored green and blue booth] with [/EN#180233/other ads] behind [/EN#0/notvisual him] on [/EN#180236/scene the street] .
+[/EN#180229/people A contemplative man] sits alone at [/EN#180234/other a sidewalk restaurant table] .
+[/EN#180229/people A man] wearing [/EN#180240/clothing a green jacket] sitting down on [/EN#180230/other a chair] .

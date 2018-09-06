@@ -1,0 +1,5 @@
+[/EN#200411/people A girl] in [/EN#200412/clothing a green striped bikini] sunbathing on [/EN#200413/other a brown blanket] on [/EN#200414/scene a concrete embankment] .
+[/EN#200411/people A woman] is sunbathing on [/EN#200414/other a concrete ledge] with [/EN#200416/scene a field of grass] behind [/EN#0/notvisual her] .
+[/EN#200411/people A dark-haired woman] in [/EN#200412/clothing a striped bikini] sunbathes on [/EN#200413/other a blanket] .
+[/EN#200411/people A woman] outside sun-bathing on [/EN#200413/other a blanket] in [/EN#200412/clothing a bikini] .
+[/EN#200411/people A woman] is sunbathing on [/EN#0/notvisual the ground] .

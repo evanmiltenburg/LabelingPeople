@@ -1,0 +1,5 @@
+[/EN#178673/people A smiling woman] in [/EN#178677/clothing a black suit] is standing in front of [/EN#178676/people an audience] in [/EN#178675/scene a bookstore or library] , holding [/EN#178674/other a book] and smiling at [/EN#0/notvisual them] .
+[/EN#178673/people A woman] smiles , holding [/EN#178674/other a book] in front of [/EN#178676/people a crowd] looking at [/EN#0/notvisual her] , in [/EN#178675/scene a library]
+[/EN#178673/people A woman] is holding up [/EN#178674/other a book] in front of [/EN#178676/people an audience] at [/EN#178675/scene a bookstore] .
+[/EN#178673/people A lady] in [/EN#178675/scene a library] displaying [/EN#178674/other a yellow book] .
+[/EN#178673/people a woman] is presenting [/EN#178674/other a book] to [/EN#178676/people a crowd] .

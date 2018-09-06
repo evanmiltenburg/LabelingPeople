@@ -1,0 +1,5 @@
+[/EN#223824/people A man] riding [/EN#223825/vehicles a bicycle] with [/EN#223827/other a plant] [/EN#0/notvisual he] is taking [/EN#223832/scene home] on [/EN#223828/other the back] .
+[/EN#223824/people A man] rides [/EN#223826/vehicles a bike] with [/EN#223827/scene a shrubbery] attached to [/EN#0/notvisual the back of it] .
+[/EN#223824/people A man] riding [/EN#223826/vehicles a bike] has [/EN#223827/other a bushel of brush] on [/EN#223828/other the back] .
+[/EN#223824/people A man] on [/EN#223826/vehicles a bike] in [/EN#223833/clothing a gray jacket] carries [/EN#223827/other foliage] .
+[/EN#223824/people People] riding [/EN#223825/vehicles bicycles] down [/EN#223830/scene an alley] .

@@ -1,0 +1,5 @@
+[/EN#200775/people A man] is standing under [/EN#200776/clothing an umbrella] along side [/EN#200777/scene a street] selling [/EN#200778/other items] with [/EN#200781/vehicles a yellow taxi] in [/EN#0/notvisual the background] .
+[/EN#200775/people Black male vendor] staying cool under [/EN#200776/clothing his white umbrella] waiting for [/EN#200780/people customers] .
+[/EN#200775/people A street merchant] selling [/EN#200778/other goods] from underneath [/EN#200776/clothing an umbrella] .
+[/EN#200775/people A man] standing at [/EN#200779/other a table] selling [/EN#200778/other things] .
+[/EN#200775/people A man] is selling [/EN#200778/other items] on [/EN#200777/scene a street] .

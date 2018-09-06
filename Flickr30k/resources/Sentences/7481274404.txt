@@ -1,0 +1,5 @@
+[/EN#270366/people Someone] wearing [/EN#270367/clothing a white and blue uniform] is riding [/EN#270370/vehicles a mountain bike] on [/EN#270368/scene a bumpy trail]
+[/EN#270366/people A BMX racer] in [/EN#270367/clothing a blue and white uniform] competing in [/EN#270372/other a race] on [/EN#270368/scene a dirt track] .
+[/EN#270366/people A bicyclist] in [/EN#270369/clothing a full face helmet] negotiates [/EN#270371/other an outdoor course] on [/EN#270370/vehicles his bike] .
+[/EN#270366/people A cyclist] races down [/EN#270368/scene the rocky trail] .
+[/EN#270366/people Man] in [/EN#270369/clothing a helmet] riding [/EN#270370/vehicles his bike] .

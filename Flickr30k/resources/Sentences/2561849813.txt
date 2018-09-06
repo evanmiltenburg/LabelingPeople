@@ -1,0 +1,5 @@
+[/EN#58187/people The baby] sits on [/EN#58188/other the sand] in [/EN#58192/scene the front of the scene] while [/EN#58189/scene the ocean] is in [/EN#0/notvisual the distance] .
+[/EN#58187/people A baby] sits on [/EN#58188/scene an empty beach] under [/EN#58191/scene a big , blue sky] .
+[/EN#58187/people The baby] sits on [/EN#58188/scene the sandy beach] .
+[/EN#58187/people A toddler] sits on [/EN#58188/scene a sandy beach] .
+[/EN#58187/people Baby] sitting at [/EN#58188/scene a beach] .

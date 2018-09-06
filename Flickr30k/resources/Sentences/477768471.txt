@@ -1,0 +1,5 @@
+[/EN#201861/animals A dog] playing with [/EN#201862/other a golf ball] in front of [/EN#201865/scene a small wooden fence] on [/EN#201863/scene the beach] .
+[/EN#201861/animals A white dog] with [/EN#201866/scene black spots] looks at [/EN#201862/other a golf ball] in [/EN#201863/other the sand] .
+[/EN#201861/animals A black and white dog] is playing with [/EN#201862/other a golf ball] in [/EN#201863/other the sand] .
+[/EN#201867/bodyparts The dog eyes] [/EN#201862/other the ball] before retrieving [/EN#0/notvisual it] .
+[/EN#201861/animals A dog] plays in [/EN#201863/other the sand] with [/EN#201862/other a ball] .

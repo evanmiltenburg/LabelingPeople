@@ -1,0 +1,5 @@
+[/EN#10265/people A young man] sitting on [/EN#10266/other a rock] on [/EN#10267/scene the shore of a body of water] looking contemplative .
+[/EN#10265/people A man] with [/EN#10275/bodyparts brown hair] is sitting on [/EN#10266/other the rocks] and looking out towards [/EN#10267/scene the ocean] .
+[/EN#10265/people The man] is sitting on [/EN#10266/other the seashore] as [/EN#0/notvisual he] watches [/EN#10273/scene the sunset] .
+[/EN#10265/people A man] is sitting [/EN#10270/scene outdoors] at [/EN#10267/scene the edge of a body of water] .
+[/EN#10268/other Earth] , [/EN#10267/scene water] and [/EN#10271/scene sky] make [/EN#10274/scene this a great spot] [/EN#10269/other a time] out .

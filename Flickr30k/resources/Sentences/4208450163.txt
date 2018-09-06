@@ -1,0 +1,5 @@
+[/EN#159190/people A man] and [/EN#159194/people a woman] are standing next to [/EN#159193/vehicles a truck] [/EN#0/notvisual that] has [/EN#159197/other a very weak cloth] covering [/EN#0/notvisual it] .
+[/EN#159190/people Man] and [/EN#159194/people woman] stand behind [/EN#159193/vehicles large truck] in front of [/EN#159195/scene yellow house] .
+[/EN#159191/people Two people] are talking outside of [/EN#159195/scene a yellow house] .
+[/EN#159190/people Man] and [/EN#159194/people a woman] talk behind [/EN#159193/vehicles a large old truck] .
+[/EN#159191/people Two people] in [/EN#159196/scene a foreign country] talking .

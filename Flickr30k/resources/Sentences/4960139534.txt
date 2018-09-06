@@ -1,0 +1,5 @@
+[/EN#223446/people A man] with [/EN#223450/clothing black shorts] and [/EN#223449/clothing a white t-shirt] is walking down [/EN#223448/scene the street] in front of [/EN#223447/scene a building] .
+[/EN#0/notvisual There] is [/EN#223446/people a man] in [/EN#223449/clothing a white t-shirt] and [/EN#223450/clothing dark shorts] walking down [/EN#223448/scene a slightly littered alley] .
+[/EN#223446/people The back of a man] with [/EN#223450/clothing black shorts] and [/EN#223449/clothing a white shirts] walking next to [/EN#223447/scene a building] .
+[/EN#223446/people A man] wearing [/EN#223449/clothing a white shirt] and [/EN#223450/clothing black shorts] is walking by [/EN#223447/scene some old buildings] .
+[/EN#223446/people A man] walks down [/EN#223448/scene a very thin walkway] between [/EN#223447/scene buildings] .

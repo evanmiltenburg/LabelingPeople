@@ -1,0 +1,5 @@
+[/EN#73942/people A man] with [/EN#73943/clothing a backpack] on [/EN#73944/scene a hill] next to [/EN#73944/other a rock] outcroping .
+[/EN#73942/people A hiker] is standing by [/EN#73944/other a mound of rocks] on [/EN#73946/scene the path] .
+[/EN#73942/people A man] with [/EN#73943/clothing a backpack] stands beside [/EN#73944/other a rock] .
+[/EN#73942/people A man] hikes up [/EN#73944/scene a rocky hill] .
+[/EN#73942/people A guy] with [/EN#73943/clothing a backpack] on .

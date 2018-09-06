@@ -1,0 +1,5 @@
+[/EN#239361/people An official] in [/EN#239365/clothing sunglasses] sits behind [/EN#239368/other the wheel] in [/EN#239363/vehicles a white marked car] [/EN#0/notvisual that] has [/EN#239369/clothing yellow and blue stripes] and [/EN#239362/scene a crest] on [/EN#239364/other its door] .
+[/EN#239361/people A man] wearing [/EN#239365/clothing sunglasses] is sitting in [/EN#239363/vehicles a white vehicle] with [/EN#239362/scene a crest] on [/EN#239364/other the door] .
+[/EN#239366/people A policeman] is sitting inside of [/EN#239363/vehicles his car] looking forward .
+[/EN#239361/people A man] sits in [/EN#239363/vehicles a government vehicle] on [/EN#239367/scene the street] .
+[/EN#239361/people A man] is sitting in [/EN#239363/vehicles his car] .

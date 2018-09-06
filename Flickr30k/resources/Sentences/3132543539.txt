@@ -1,0 +1,5 @@
+[/EN#95677/people A man] with [/EN#95685/bodyparts black hair] , wearing [/EN#95678/clothing a blue shirt] and [/EN#95682/clothing tan pants] , is sitting on [/EN#95679/other a stool] in [/EN#95681/scene a room] with [/EN#95684/other tiles] on [/EN#95683/other the wall] .
+[/EN#95677/people A resting security guard] , in [/EN#95678/clothing a blue shirt] , sitting on [/EN#95679/other a stool] .
+[/EN#95677/people A man] in [/EN#95678/clothing a blue shirt] taking [/EN#95680/scene a break] and sitting down .
+[/EN#95677/people A security guard] sitting on [/EN#95679/other a stool] .
+[/EN#95677/people A man] sleeping on [/EN#95679/other a stool] .

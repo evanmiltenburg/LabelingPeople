@@ -1,0 +1,5 @@
+[/EN#103789/people Three people] sit and talk about [/EN#103793/other the menu] at [/EN#103791/scene a chinese restaurant] .
+[/EN#103794/people A woman] points to [/EN#103793/other the menu] while [/EN#103790/people another woman] and [/EN#103792/people man] look on .
+[/EN#103795/people Two women] and [/EN#103792/people a man] are sitting at [/EN#103797/other a round table] .
+[/EN#103796/people a family] deciding [/EN#0/notvisual what] to other at [/EN#103791/scene a restaurant]
+[/EN#103789/people three chinese people] eat [/EN#103798/other soup] .

@@ -1,0 +1,5 @@
+[/EN#91348/people A young boy] and [/EN#91351/people girl] wearing [/EN#91356/clothing coats] , [/EN#91354/clothing hats] , and [/EN#91353/clothing boots] are at [/EN#91350/scene the beach] looking at [/EN#91352/other something] that [/EN#0/notvisual they] found .
+[/EN#91349/people Two children] wearing [/EN#91354/clothing winter hats] and [/EN#91353/clothing boots] are standing on [/EN#91350/scene a beach] talking to [/EN#0/notvisual each other] .
+[/EN#91349/people Two warmly dressed small children] are looking at [/EN#91352/other an object] together .
+[/EN#91348/people A young boy] and [/EN#91351/people girl] on [/EN#91355/other a sandy beach look] at [/EN#91357/animals sea shells] .
+[/EN#91348/people A boy] is handing [/EN#91352/other an orange object] to [/EN#91351/people a girl] .

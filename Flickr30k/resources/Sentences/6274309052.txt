@@ -1,0 +1,5 @@
+[/EN#251368/people A woman] in [/EN#251371/clothing a white shirt] looking in [/EN#251369/other a freezer] with [/EN#251372/other Walmart shelves] in [/EN#0/notvisual the background] as well as [/EN#251379/people other people] in [/EN#0/notvisual the background] .
+[/EN#251368/people A woman] in [/EN#251371/clothing a white T-shirt] and [/EN#251374/people a boy] in [/EN#251377/clothing a turquoise shirt] are looking in [/EN#251370/scene the freezer section of a store] .
+[/EN#251368/people A person] in [/EN#251370/scene a store] opens [/EN#251375/other a door] to [/EN#251369/other a freezer] .
+[/EN#251368/people A woman] does [/EN#251378/other her shopping] at [/EN#251376/other the local Walmart]
+[/EN#251368/people A woman] getting [/EN#251373/other a bag of ice] at [/EN#251370/scene a store] .

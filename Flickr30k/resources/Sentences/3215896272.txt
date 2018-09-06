@@ -1,0 +1,5 @@
+[/EN#101778/animals A dog] wearing [/EN#101780/clothing a green sweater] and [/EN#101783/other fanny pack] walks on [/EN#101781/scene a snow-covered field] .
+[/EN#101778/animals A small dog] wearing [/EN#101780/clothing a green sweater] and [/EN#101779/clothing a backpack] walks through [/EN#101781/scene snow] .
+[/EN#101778/animals A dog] wearing [/EN#101780/clothing a green sweater] and [/EN#101779/clothing a backpack] walking on [/EN#101781/scene snow] .
+[/EN#101778/animals A dog] wearing [/EN#101780/clothing a green sweater] and [/EN#101779/clothing backpack] running in [/EN#101781/scene the snow]
+[/EN#101778/animals A small dog] wearing [/EN#101780/clothing a sweater] walking in [/EN#101781/scene the snow] .

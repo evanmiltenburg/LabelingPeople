@@ -1,0 +1,5 @@
+[/EN#25033/people Two men] , [/EN#25043/other one] wearing [/EN#25041/clothing a yellow shirt] and [/EN#25044/people the other man] wearing [/EN#25038/clothing a blue shirt] are riding [/EN#25035/vehicles bikes] on [/EN#25034/scene a track] .
+[/EN#25033/people Two men] race around [/EN#25034/scene a dirt track] on [/EN#25035/vehicles bicycles] while [/EN#25040/people a handful of onlookers] watch from behind [/EN#25039/scene a fence] .
+[/EN#25033/people Two people] on [/EN#25035/vehicles bikes] wearing [/EN#25042/clothing helmets] riding on [/EN#25034/scene a track] .
+[/EN#25036/vehicles Two men bike] racing around [/EN#25034/scene a track] .
+[/EN#25033/people Two guys] are racing [/EN#25037/other a bike race] .

@@ -1,0 +1,5 @@
+[/EN#144427/people The people] with [/EN#144431/clothing the backpacks] are walking down [/EN#144428/other some stone stairs] .
+[/EN#144427/people 2 men] in [/EN#144430/other hiking gear descend] down [/EN#144428/scene a stone staircase] .
+[/EN#144427/people Two people] are descending down [/EN#144428/other some stone steps] .
+[/EN#144427/people Two people] are hiking down [/EN#144428/scene a steep stone trail] .
+[/EN#144427/people Two hikers] descend [/EN#144428/scene a rocky path] .

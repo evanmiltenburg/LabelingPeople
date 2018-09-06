@@ -1,0 +1,5 @@
+[/EN#234483/people A boy] in [/EN#234477/clothing a red plaid button-up shirt] playing [/EN#234478/instruments a guitar] , with [/EN#234485/people another boy] playing [/EN#234478/instruments an orange bass] behind [/EN#0/notvisual him] , and [/EN#234486/people another person] playing [/EN#234484/other a drum set] .
+[/EN#234475/people Two men] rehearsing , [/EN#234474/other one] wearing [/EN#234477/clothing a checker broad sweater] and [/EN#234485/other the other] playing [/EN#234478/instruments a orange guitar] .
+[/EN#234475/people A group of young adults] come together to perform [/EN#234489/other song] complete with [/EN#234481/instruments drums] and [/EN#234478/instruments a guitar] .
+[/EN#234474/people Three young men] playing [/EN#234480/instruments musical instruments] , [/EN#234474/other one] has [/EN#234478/instruments a guitar] and [/EN#234488/other one] is on [/EN#234481/instruments drums] .
+[/EN#234475/people Young men] perform in [/EN#234473/people a band] [/EN#234487/other indoors] .

@@ -1,0 +1,5 @@
+[/EN#68723/people A black male] in [/EN#68724/clothing a green t-shirt] and [/EN#68727/clothing blue jeans] , playing [/EN#68725/instruments violin] while seated in [/EN#68726/other a green chair] .
+[/EN#68723/people A man] providing [/EN#68728/other entertainment] on [/EN#68731/scene the sidewalk] by playing [/EN#68725/instruments the violin] .
+[/EN#68723/people A musician] on [/EN#0/notvisual the curb side] displaying [/EN#68729/other his talent] publicly .
+[/EN#68723/people A man] in [/EN#68724/clothing a green shirt] is playing [/EN#68725/instruments the violin] .
+[/EN#68723/people A man] playing [/EN#68725/instruments the violin] .

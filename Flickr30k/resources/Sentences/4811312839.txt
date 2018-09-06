@@ -1,0 +1,5 @@
+[/EN#205570/people A man] in [/EN#205573/clothing an orange shirt] and [/EN#205572/other floppy white hat smugly] regards [/EN#0/notvisual the camera] next to [/EN#205571/other a female mannequin] in [/EN#205578/scene a warehouse] setting .
+[/EN#205570/people A man] in [/EN#205573/clothing an orange jacket] and [/EN#205572/clothing white hat] is standing next to [/EN#205571/other a mannequin] and [/EN#205575/other a pile of clothes hangers] .
+[/EN#205570/people A man] in [/EN#205573/clothing an orange shirt] and [/EN#205573/clothing jacket] is standing next to [/EN#205571/other a mannequin] wrapped in [/EN#205571/other plastic] .
+[/EN#205570/people A man] in [/EN#205572/clothing a hat] and [/EN#205573/clothing an orange jacket] stands beside [/EN#205571/other a plastic] wrapped [/EN#205571/other female mannequin] .
+[/EN#205570/people A man] in [/EN#205573/clothing an orange shirt] standing next to [/EN#205571/other a mannequin] wrapped in [/EN#205571/other plastic] .

@@ -1,0 +1,5 @@
+[/EN#34759/people A young boy] walking in [/EN#34760/scene the park] dressed in [/EN#34761/clothing dark clothes] and [/EN#34762/clothing dark cap] .
+[/EN#34759/people A young man] wearing [/EN#34761/clothing dark clothing] and [/EN#34762/clothing a dark beanie] walks on [/EN#34763/scene a road] .
+[/EN#34759/people Young looking man] walks along [/EN#34763/scene a street] with [/EN#34764/other cigarette] in [/EN#34765/bodyparts hand] .
+[/EN#34759/people Teenage boy] wearing [/EN#34761/clothing all black] walking through [/EN#34767/scene a park] .
+[/EN#34759/people Young man] dressed in [/EN#34761/clothing black] , walking down [/EN#34766/scene a road] .

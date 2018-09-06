@@ -1,0 +1,5 @@
+[/EN#114329/animals A small brown and white dog] chases [/EN#114330/other a white ball] over [/EN#114332/scene the grass] .
+[/EN#114329/animals A small dog] is playing with [/EN#114330/other a ball] on [/EN#114331/scene the grass] .
+[/EN#114329/animals A small dog] chases [/EN#114330/other a white ball] on [/EN#114331/scene the grass]
+[/EN#114329/animals A dog] is chasing after [/EN#114330/other a ball] in [/EN#114331/scene a field] .
+[/EN#114329/animals The small dog] is chasing [/EN#114330/other a ball] .

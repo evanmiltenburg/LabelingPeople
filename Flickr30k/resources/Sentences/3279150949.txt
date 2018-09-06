@@ -1,0 +1,5 @@
+[/EN#106510/people Young Asian male] , with [/EN#106517/bodyparts black hair] , wearing [/EN#106514/clothing a red shirt] , [/EN#106513/clothing green shorts] , standing on [/EN#106512/other a thick plank of wood] , sawing [/EN#106512/other the wood] in [/EN#106515/other half] .
+[/EN#106510/people A young man] standing on [/EN#106512/other a plank of wood] and using [/EN#106511/other a large saw] to cut [/EN#0/notvisual it] .
+[/EN#106510/people Small asian man] in [/EN#106513/clothing shorts] with [/EN#106511/other a really huge saw] cutting [/EN#106512/other wood] .
+[/EN#106510/people A man] is using [/EN#106511/other a saw] as tall as [/EN#0/notvisual he] is to cut [/EN#106512/other wood] .
+[/EN#106510/people A man] with [/EN#106516/clothing no shoes] sawing [/EN#106511/other a piece of wood] .

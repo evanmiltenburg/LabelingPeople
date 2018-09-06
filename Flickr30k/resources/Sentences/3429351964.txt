@@ -1,0 +1,5 @@
+[/EN#117581/people A woman] in [/EN#117585/clothing a black shirt] stands in front of [/EN#117584/other bananas] at [/EN#117582/scene a fruit stand] .
+[/EN#117581/people An Asian woman] is at [/EN#117582/scene a market stall] [/EN#0/notvisual that] is selling [/EN#117584/other bananas] .
+[/EN#117581/people A woman] shops for [/EN#117584/other bananas] in [/EN#117583/scene an open-air market] .
+[/EN#117581/people Woman] by [/EN#117584/other green bananas] at [/EN#117583/scene an open air market]
+[/EN#117581/people A woman] holding [/EN#117586/clothing bags] behind [/EN#117587/other plantains] .

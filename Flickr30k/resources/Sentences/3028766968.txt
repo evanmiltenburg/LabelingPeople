@@ -1,0 +1,5 @@
+[/EN#88613/people A man] in [/EN#88614/clothing a black shirt] sits on [/EN#88615/other a chair] in front of [/EN#88616/other a table] with [/EN#88617/other two monitors] , looking through [/EN#88618/other a large pile of papers] .
+[/EN#88613/people Man] with [/EN#88614/clothing a black shirt] on sit behind [/EN#88616/other a desk] sorting threw [/EN#88618/people a giant stack of people] work with [/EN#88623/other a smirk] on [/EN#88619/bodyparts his face] .
+[/EN#88613/people Guy] in [/EN#88614/clothing a black t-shirt] sitting at [/EN#88616/other a desk] with [/EN#88617/other two computer screens] shuffling through [/EN#88618/other a pile of papers] .
+[/EN#88613/people A man] sitting at [/EN#88616/other a desk] with [/EN#88620/other a large pile of papers] on [/EN#88621/bodyparts his lap] .
+[/EN#88613/people A man] in [/EN#88622/scene a cubicle] holds [/EN#88620/other many papers] on [/EN#88621/bodyparts lap] .

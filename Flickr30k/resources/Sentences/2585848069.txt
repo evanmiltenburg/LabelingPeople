@@ -1,0 +1,5 @@
+[/EN#59760/people A young girl] wearing [/EN#59762/clothing a dress] hugs [/EN#59760/people a woman] wearing [/EN#59763/clothing a graduation cap] and [/EN#59764/clothing gown] .
+[/EN#59760/people A woman] in [/EN#59764/clothing a graduation gown] hugs [/EN#59760/people a girl] in [/EN#59762/clothing a pink and white dress] .
+[/EN#59760/people A woman] in [/EN#59764/clothing a graduation gown] is hugging [/EN#59760/people a girl] in [/EN#59762/clothing a pink dress] .
+[/EN#59760/people A young girl] in [/EN#59762/clothing a pink and white dress] is hugging [/EN#59760/people a graduate] .
+[/EN#59760/people Woman] in [/EN#59763/clothing graduation cap] and [/EN#59764/clothing gown] embraces [/EN#59760/people young girl] .

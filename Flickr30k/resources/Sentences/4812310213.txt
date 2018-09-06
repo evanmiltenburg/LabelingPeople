@@ -1,0 +1,5 @@
+[/EN#205744/people A man] in [/EN#205750/clothing a striped shirt] standing behind [/EN#205745/other a large pile of fruits] .
+[/EN#205744/people A clerk] at [/EN#205748/scene a fruit shop] awaits for [/EN#205749/people costumers] .
+[/EN#205744/people A man] is selling [/EN#205745/other fresh fruit] at [/EN#205746/scene the market] .
+[/EN#205747/people People] are in [/EN#205746/scene a Farmer 's Market] browsing .
+[/EN#205745/other Apples] at [/EN#205746/scene an outdoor market] .

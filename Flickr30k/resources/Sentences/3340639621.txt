@@ -1,0 +1,5 @@
+[/EN#110898/people A woman] in [/EN#110906/clothing a jean jacket] and [/EN#110899/clothing black sunglasses] stands [/EN#110905/scene outside] with [/EN#110900/people two young boys] by [/EN#110901/scene a kiosk] , looking at [/EN#110902/other a paper] [/EN#0/notvisual she] is holding in [/EN#110903/bodyparts her hand] .
+[/EN#110898/people A woman] and [/EN#110900/people two boys] are looking at [/EN#110902/other a sheet of paper] by [/EN#110901/scene an information kiosk] .
+[/EN#110898/people A woman] and [/EN#110900/people two boys] looking at [/EN#110901/other an information station] .
+[/EN#110898/people A mother] and [/EN#110900/people her sons] look at [/EN#110901/scene an information kiosk] .
+[/EN#110898/people a mother] and [/EN#110900/people two children] reading [/EN#110902/other something]

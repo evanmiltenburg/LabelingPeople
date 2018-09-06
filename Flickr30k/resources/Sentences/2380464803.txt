@@ -1,0 +1,5 @@
+[/EN#45277/people A man] and [/EN#45278/people a woman] sit at [/EN#45279/other a desk] , [/EN#45280/people another man] stands behind [/EN#45277/people the first man] .
+[/EN#45281/people Two men] wearing [/EN#45282/clothing black] smile while [/EN#45278/people a seated woman] behind [/EN#0/notvisual them] looks tired .
+[/EN#45283/people A group of people] sitting at [/EN#45279/other a table] .
+[/EN#45281/people Two men] and [/EN#45278/people a woman] in [/EN#45286/scene an office] .
+[/EN#45284/people Three adults] at [/EN#45285/other work] .

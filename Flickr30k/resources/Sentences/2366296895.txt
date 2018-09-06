@@ -1,0 +1,5 @@
+[/EN#44411/people A man] sits talking into [/EN#44414/other a microphone] in front of [/EN#44418/other a sign] , [/EN#0/notvisual part of which] says [/EN#44416/other the word " policy] " .
+[/EN#44411/people A man] in [/EN#44412/clothing a business suit] sitting down and holding [/EN#44413/other a microphone] .
+[/EN#44411/people A man] in [/EN#44412/clothing a suit] is sitting and talking into [/EN#44413/other a microphone] .
+[/EN#44411/people A man] in [/EN#44412/clothing a suit] sits talking into [/EN#44414/other a microphone] .
+[/EN#44411/people A man] speaking about [/EN#44416/other policy] at [/EN#44417/other a meeting] .

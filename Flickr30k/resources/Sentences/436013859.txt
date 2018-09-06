@@ -1,0 +1,5 @@
+[/EN#164818/animals A brown dog] chasing [/EN#164819/other a Frisbee] , [/EN#164820/other a barbecue] in [/EN#0/notvisual the background] .
+[/EN#164818/animals A dog] is twisting in [/EN#0/notvisual the air] as [/EN#0/notvisual it] tries to catch [/EN#164819/other a Frisbee] .
+[/EN#164818/animals A brown dog] is trying to catch [/EN#164819/other a flying disk] but missed [/EN#0/notvisual it] .
+[/EN#164818/animals The brown dog] dives [/EN#164821/other backwards] to catch [/EN#164819/other the football] .
+[/EN#164818/animals Brown dog] plays with [/EN#164819/other Frisbee] .

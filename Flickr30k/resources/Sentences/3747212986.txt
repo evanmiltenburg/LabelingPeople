@@ -1,0 +1,5 @@
+[/EN#141063/people A group of people] on [/EN#141068/vehicles/scene different colored boats] enjoys [/EN#141065/scene a great day] on [/EN#141064/scene the water] .
+[/EN#141063/people A group of kayakers] are paddling on [/EN#141064/scene a calm river] in [/EN#141067/scene an industrial area] .
+[/EN#0/notvisual There] is [/EN#141066/other a canoe competition] as [/EN#141063/people many canoers] are rowing [/EN#141062/other their canoes] .
+[/EN#141062/other A group of colorful kayaks] paddling through [/EN#141064/scene the water]
+[/EN#141063/people Group of people] kayaking on [/EN#141065/scene a sunny day] .

@@ -1,0 +1,5 @@
+[/EN#160222/animals a brown dog] is leaping into [/EN#0/notvisual the air] in front of [/EN#160226/other a wooden structure] in [/EN#160225/scene a pine forest] .
+[/EN#160222/animals a brown dog] jumping off [/EN#0/notvisual the ground] in [/EN#160227/other the woods]
+[/EN#160222/animals A brown dog] is jumping on [/EN#160228/bodyparts its hind legs] .
+[/EN#160222/animals The dog] leaps into [/EN#0/notvisual the air] in [/EN#160224/scene a field] .
+[/EN#160222/animals A black dog] jumping .

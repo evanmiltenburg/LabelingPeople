@@ -1,0 +1,5 @@
+[/EN#213365/people A person] stands alone in [/EN#213367/scene a large ditch] with [/EN#213366/scene an overpass] in [/EN#0/notvisual the background] .
+[/EN#213365/people An individual] walking by [/EN#213366/scene a bridge] and [/EN#213369/scene a factory] .
+[/EN#213365/people A person] walks along [/EN#213367/scene a trail] towards [/EN#213366/scene a bridge] .
+[/EN#213365/people A person] is walking by [/EN#213366/scene the bridge] .
+Strolling down [/EN#213368/scene path] to [/EN#213371/other nowhere] .

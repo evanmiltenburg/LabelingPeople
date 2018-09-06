@@ -1,0 +1,5 @@
+[/EN#272337/people A boxer] with [/EN#272341/clothing white shorts] throws [/EN#272339/other a left handed punch] at [/EN#272336/people the boxer] in [/EN#272340/clothing the red shorts] .
+[/EN#272337/people Two men] , [/EN#272344/other one] wearing [/EN#272341/clothing white trunks] and [/EN#272344/other the other] wearing [/EN#272340/clothing red] boxing .
+[/EN#272337/people Two boxers] in [/EN#272338/clothing a ring] are boxing against [/EN#0/notvisual each other] .
+[/EN#272336/people A boxer] throws [/EN#272339/other a punch] at [/EN#272337/people his opponent] .
+[/EN#272337/people Two boxers] , inside [/EN#272338/clothing/scene a boxing ring] .

@@ -1,0 +1,5 @@
+[/EN#133641/people A woman] in [/EN#133646/clothing a multicolored top] is walking down [/EN#133644/scene the street] and holding [/EN#133642/clothing a black purse] while talking on [/EN#133643/other her phone] .
+[/EN#133641/people An African American woman] walks down [/EN#133644/scene the street] while talking on [/EN#133643/other a cellphone] holding [/EN#133642/clothing a black purse] .
+[/EN#133641/people A woman] is having [/EN#133645/other a conversation] on [/EN#133643/other her cellphone] while walking in [/EN#133647/scene town] .
+[/EN#133641/people A woman] walking down [/EN#133644/scene a crowded sidewalk] talking on [/EN#133643/other her cellphone] .
+[/EN#133641/people A woman] is walking down [/EN#133644/scene the street] talking on [/EN#133643/other her cellphone] .

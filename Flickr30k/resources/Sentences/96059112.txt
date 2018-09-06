@@ -1,0 +1,5 @@
+[/EN#284296/people A man] in [/EN#284297/clothing a business suit] holds [/EN#284300/people the hand of a young boy] as [/EN#0/notvisual they] walk across [/EN#284298/scene a lawn] .
+[/EN#284296/people A man] dressed in [/EN#284297/clothing a suit] holding [/EN#284300/people the hand of little boy] , walking .
+[/EN#284296/people A man] in [/EN#284297/clothing a suit] holds [/EN#284301/bodyparts a young boy 's hand] as [/EN#0/notvisual they] walk outside .
+[/EN#284296/people a father] with [/EN#284299/people his son] walking on [/EN#284298/scene their front lawn] .
+[/EN#284296/people A father] and [/EN#284299/people his child] are crossing [/EN#284298/scene the lawn] .

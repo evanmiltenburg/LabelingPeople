@@ -1,0 +1,5 @@
+[/EN#42073/people Three males] wearing [/EN#42074/clothing a yellow vest] with [/EN#42075/clothing silver stripes] and [/EN#42076/clothing jeans] ; [/EN#42077/other one] is digging with [/EN#42078/other an excavator] , and [/EN#42079/other two] are using [/EN#42080/other shovels] .
+[/EN#42073/people Construction workers] work with [/EN#42080/other a backhoe] and [/EN#42080/other shovels] near [/EN#42081/scene a snow fence] .
+[/EN#0/notvisual There] is [/EN#42085/scene a construction site] with [/EN#42080/other a backhoe] and [/EN#42082/people a man] with [/EN#42083/other a shovel] .
+[/EN#42082/people Worker] in [/EN#42074/clothing yellow vest] and [/EN#42084/clothing hard hat] digging aside [/EN#42078/other a tractor] .
+[/EN#42082/people A construction worker] is digging in front of [/EN#42078/other a machine] .

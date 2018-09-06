@@ -1,0 +1,5 @@
+[/EN#229700/people The Elmo t-shirted dirt bike rider] racing through on [/EN#229701/scene the wooded path] , leaps easily over [/EN#229707/other an obstacle] on [/EN#229709/scene his path] .
+[/EN#229700/people Man] with [/EN#229704/clothing a red and black helmet] and [/EN#229703/clothing red elmo shirt] is doing [/EN#0/notvisual some kind of a trick] on [/EN#229702/other his motorcycle] .
+[/EN#229700/people A young man] in [/EN#229703/clothing an Elmo t-shirt] is flying through [/EN#0/notvisual the air] on [/EN#229702/vehicles a mountain bike] in [/EN#229706/other the woods] .
+[/EN#229700/people a man] in [/EN#229703/clothing an Elmo t-shirt] is riding [/EN#229702/vehicles his bike] through [/EN#229706/other the woods] .
+[/EN#229700/people Teenager] rides through [/EN#229701/scene the forest] on [/EN#229702/vehicles his mountain bike] .

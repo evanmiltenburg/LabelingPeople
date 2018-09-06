@@ -1,0 +1,5 @@
+[/EN#200065/people people] on [/EN#200068/vehicles/scene the subway] are reading [/EN#200067/other a book] and looking around like [/EN#0/notvisual they] are bored .
+[/EN#200065/people A group of people] sitting quietly on [/EN#200068/vehicles/scene the subway] , deep in [/EN#200070/other thought] .
+[/EN#200065/people A woman] in [/EN#200071/clothing a black skirt] is reading [/EN#200067/other a book] on [/EN#200068/vehicles/scene the subway] .
+[/EN#200065/people A woman] reading [/EN#200067/other a book] while riding [/EN#200069/vehicles/scene a train] .
+[/EN#200065/people A woman] is reading [/EN#200067/other a book] on [/EN#200068/vehicles/scene the subway] .

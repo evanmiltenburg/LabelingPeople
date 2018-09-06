@@ -1,0 +1,5 @@
+[/EN#172882/people A small child] dressed in [/EN#172884/clothing a pink jacket] running down [/EN#172883/scene a sandy beach] toward [/EN#172885/scene the ocean] .
+[/EN#172882/people A little girl] wearing [/EN#172884/clothing pink] is running along [/EN#172883/scene a beach] towards [/EN#172885/scene the water] .
+[/EN#172882/people A young girl] in [/EN#172884/clothing a pink shirt] is on [/EN#172883/scene a beach] running toward [/EN#172885/scene the ocean] .
+[/EN#172882/people A young girl] fully dresses running on [/EN#172883/scene the beach] towards [/EN#172885/scene the water] .
+[/EN#172882/people A young girl] is running across [/EN#172883/scene the beach] to get to [/EN#172885/scene the water] .

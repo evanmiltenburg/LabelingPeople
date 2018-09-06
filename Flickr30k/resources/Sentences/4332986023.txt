@@ -1,0 +1,5 @@
+[/EN#163681/people A injured man] reads [/EN#163682/other the newspaper] as [/EN#163685/people other people] pass by .
+[/EN#163681/people A man] is standing and reading [/EN#163682/other a newspaper] .
+[/EN#163681/people A man] standing by [/EN#163683/other a door] reading [/EN#163682/other a paper] .
+[/EN#163681/people A man] with [/EN#163686/bodyparts a hurt leg] is reading [/EN#163682/other a paper] .
+[/EN#163681/people A man] on [/EN#163684/other crutches] is reading [/EN#163682/other the paper] .

@@ -1,0 +1,5 @@
+[/EN#229900/people Boy] in [/EN#229901/clothing white dress shirt] , [/EN#229903/clothing black slacks] , tie and [/EN#229910/clothing sneakers] jumping down from [/EN#229905/other steps near yellow flowers] .
+[/EN#229900/people The young boy] with [/EN#229903/clothing nice pants] , [/EN#229906/clothing a belt] , and [/EN#229902/clothing a tie] is jumping off [/EN#229904/other the steps]
+[/EN#229900/people A young boy] in [/EN#229908/clothing dress clothes] and [/EN#229902/clothing a tie] is jumping in [/EN#0/notvisual the air] .
+[/EN#229900/people A boy] in [/EN#229901/clothing a shirt] and tie [/EN#0/notvisual jumps] off [/EN#229907/scene a staircase] .
+[/EN#229900/people A child] , wearing [/EN#229902/clothing a tie] , jumps off [/EN#229904/other steps] .

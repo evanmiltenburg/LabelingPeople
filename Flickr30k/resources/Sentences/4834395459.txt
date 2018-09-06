@@ -1,0 +1,5 @@
+[/EN#209038/people A man] wearing [/EN#209040/clothing a white shirt] , with [/EN#209038/other his back] to [/EN#209038/people the viewer] , goes past [/EN#209051/people three people] going in [/EN#0/notvisual the opposite direction] .
+[/EN#209037/people People] are walking on [/EN#209039/scene the street] , and [/EN#209038/people the young tall guy] wearing [/EN#209047/clothing jeans] and [/EN#209040/clothing t-shirt] is talking on [/EN#209049/other the phone] .
+[/EN#209036/people A woman] is walking down [/EN#209039/scene the street] with [/EN#209041/clothing headphones] in [/EN#209052/bodyparts her ears] next to [/EN#209038/people a man] in [/EN#209043/clothing a business suit] .
+[/EN#209036/people Woman] in [/EN#209044/clothing gray sweater] with [/EN#209045/clothing headband] and [/EN#209041/clothing earbuds] walking on [/EN#209039/scene crowded street] .
+[/EN#209037/people a group of people] walking down [/EN#209039/scene the street] .

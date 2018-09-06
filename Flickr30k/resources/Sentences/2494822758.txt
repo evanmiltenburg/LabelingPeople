@@ -1,0 +1,5 @@
+[/EN#53304/people A man] in [/EN#53308/clothing a blue shirt] , holding [/EN#53307/other a bottle] , standing over [/EN#53305/other a grill] .
+[/EN#53304/people A man] grilling and [/EN#53304/people another man] in [/EN#53308/clothing blue shirt] holding [/EN#53307/other a beer] .
+[/EN#53304/people This Asian man] is drinking [/EN#53307/other a beer] and watching [/EN#53305/other a guy grill] .
+[/EN#53304/people An Asian man] watching [/EN#53304/other someone grill food] on [/EN#53306/other a barbecue] .
+[/EN#53304/people A man] holding [/EN#53307/other a bottle] is standing over [/EN#53305/other a grill] .

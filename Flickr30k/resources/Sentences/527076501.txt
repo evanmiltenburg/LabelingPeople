@@ -1,0 +1,5 @@
+[/EN#232610/people An artist] in [/EN#232612/clothing a gray shirt] and [/EN#232615/clothing multicolored hat] paints [/EN#232614/other fine details] onto [/EN#232611/scene a colorful mural of an outdoor street scene] .
+[/EN#232610/people An artist] dressed in [/EN#232612/clothing a gray sweatshirt] is working on [/EN#232611/scene a brightly colored painting of a town] .
+[/EN#232610/people A man] painting [/EN#232611/scene a picture of buildings] , [/EN#232616/people people] , and [/EN#232617/animals animals] .
+[/EN#232610/people A man] is painting [/EN#232611/scene a vibrantly colored city scene] .
+[/EN#232611/other Artist painting] on [/EN#232611/other a canvas] .

@@ -1,0 +1,5 @@
+[/EN#172856/people A person] in [/EN#172857/clothing a blue jacket] with [/EN#172863/clothing black sleeves] , [/EN#172864/clothing green pants] and [/EN#172860/clothing a blue hat] is sitting on [/EN#172859/scene the sidewalk] .
+[/EN#172856/people A man] is sitting on [/EN#0/notvisual the ground] observing [/EN#172855/people another man] trying to enter [/EN#172858/scene a building] .
+[/EN#172855/people A man] entering into [/EN#172858/scene a building] as [/EN#172856/people another man] sits on [/EN#172859/scene a street] on [/EN#172856/scene a cold day] .
+[/EN#172856/people A man] sleeps against [/EN#172858/scene a building] , as [/EN#0/notvisual another] enters [/EN#172858/scene the building] .
+[/EN#172856/people Man] in [/EN#172857/clothing jacket] sitting on [/EN#0/notvisual ground] leaning up against [/EN#172858/scene building] .

@@ -1,0 +1,5 @@
+[/EN#282529/people A man] is standing in front of [/EN#282530/other a bright lamp] in [/EN#282533/scene an otherwise dark room] , and behind [/EN#0/notvisual him] are [/EN#282532/other a ladder] and [/EN#282531/other a half-painted wall] with [/EN#282534/other some graffiti writing] .
+[/EN#282530/other A single light] shines on [/EN#282529/people a man] with [/EN#282535/clothing a baseball cap] as [/EN#0/notvisual he] stands in [/EN#282533/scene a room] with [/EN#282532/other a ladder] and [/EN#282534/other graffiti] on [/EN#282531/other the wall] .
+[/EN#282529/people A man] in [/EN#282536/clothing a t-shirt] and [/EN#282539/clothing jeans] is standing in [/EN#282533/scene a poorly lit room] surrounded by [/EN#282537/other construction materials] .
+[/EN#282529/people A man] contemplates [/EN#282538/other his next move] as [/EN#0/notvisual he] remodels [/EN#282533/scene his space] .
+[/EN#282529/people A man] stands in [/EN#282533/scene a lighted set room] .

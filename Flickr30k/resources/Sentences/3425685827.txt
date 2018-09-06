@@ -1,0 +1,5 @@
+[/EN#117263/people A group of people] sitting in [/EN#117265/scene a grassy area] under [/EN#117264/other a pink and white blossoming tree] .
+[/EN#117263/people The students] sitting on [/EN#117266/scene the grass] are eating [/EN#117268/other a lunch] from [/EN#117270/clothing a red backpack] .
+[/EN#117263/people Young people] sit on [/EN#117265/scene the grass] near [/EN#117264/other a crooked tree] with [/EN#117269/other pink blossoms] .
+[/EN#117263/people People] outside sitting on [/EN#117265/scene the grass] under [/EN#117264/other cherry blossom trees] .
+[/EN#117263/people People] are sitting at [/EN#117264/scene a park] under [/EN#117264/other flowering trees] .

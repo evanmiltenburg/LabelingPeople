@@ -1,0 +1,5 @@
+[/EN#58998/people An African woman] in [/EN#59002/clothing a black shirt] and [/EN#59001/clothing purple dress] looks at [/EN#58997/people an African man] in [/EN#59000/clothing a blue shirt] and [/EN#59004/clothing green pants] .
+[/EN#58997/people A man] in [/EN#59000/clothing a blue shirt] and [/EN#58998/people a woman] in [/EN#59001/clothing a pink skirt] sit around [/EN#59005/people other people] in [/EN#0/notvisual the background] .
+[/EN#58997/people Young African boy] , in [/EN#59000/clothing a dark blue shirt] , sadly sits next to [/EN#58998/people a woman] .
+[/EN#58999/people Two people] sit with [/EN#59003/clothing a red hat] between [/EN#0/notvisual them] .
+[/EN#58999/people 2 people] in [/EN#59006/other Africa] wait for [/EN#59007/other food] .

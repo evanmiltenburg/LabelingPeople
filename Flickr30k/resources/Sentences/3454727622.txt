@@ -1,0 +1,5 @@
+[/EN#119406/people A woman] stands next to [/EN#119407/people a child] sitting on [/EN#119412/animals a horse] on [/EN#119408/other a carousel] in front of [/EN#119410/other the dizzy dragon ride] .
+[/EN#119406/people An older woman] and [/EN#119407/people a young child] look off into [/EN#0/notvisual the distance] while riding [/EN#119409/other a Merry-go-Round] .
+[/EN#119406/people A mother] and [/EN#119407/people her daughter] on [/EN#119408/other a carousel] looking at [/EN#119411/other something] off to [/EN#0/notvisual the side] .
+[/EN#119407/people a young child] in [/EN#119413/clothing a green shirt] is on [/EN#119408/other a carousel] .
+[/EN#119407/people A young girl] and [/EN#119406/people a woman] ride [/EN#119408/other a carousel] .

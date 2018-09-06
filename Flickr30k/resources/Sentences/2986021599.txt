@@ -1,0 +1,5 @@
+[/EN#85611/people A young woman] wearing [/EN#85612/clothing red shorts] and [/EN#85613/clothing t-shirt] waits [/EN#85618/scene outside] with [/EN#85614/people an older , very well dressed gentleman] .
+[/EN#85615/people Several people] , including [/EN#85611/people a young girl] with [/EN#85613/clothing a pink top] and [/EN#85612/clothing shorts] , waiting at [/EN#85617/other a bus stop] .
+[/EN#85614/people A man] wearing [/EN#85616/clothing a black vest] and [/EN#85611/people a girl] in [/EN#85613/clothing an orange uniform] are waiting at [/EN#85617/other a bus stop] .
+[/EN#85614/people A man] and [/EN#85611/people a woman] wait at [/EN#85617/other a mass transit station] .
+[/EN#85614/people A man] standing and [/EN#85611/people a woman] staring at [/EN#0/notvisual him]

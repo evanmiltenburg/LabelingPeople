@@ -1,0 +1,5 @@
+[/EN#124719/people A group of friends] sit around [/EN#124721/other a table] in front of [/EN#124720/other a flat screen tv] .
+[/EN#124718/people A blond woman] pours [/EN#124722/other wine] for [/EN#124719/people people] while [/EN#0/notvisual they] watch [/EN#124720/other tv] .
+[/EN#124723/people Some men] and [/EN#124724/people women] drink [/EN#124722/other wine] while watching [/EN#124720/other television] .
+[/EN#124719/people Several people] are sitting at [/EN#124721/other a table] drinking [/EN#124722/other wine] .
+[/EN#124718/people a woman] pours [/EN#124722/other wine] and watches tv .

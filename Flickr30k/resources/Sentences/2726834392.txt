@@ -1,0 +1,5 @@
+[/EN#68899/other Some] jumping off [/EN#68897/scene a bridge] into [/EN#68895/scene some water] while [/EN#68900/other others] watch from [/EN#68894/scene the bridge] .
+[/EN#0/notvisual There] is [/EN#68893/people a person] jumping off of [/EN#68894/scene a stone bridge] into [/EN#68895/scene the water] below .
+[/EN#68893/people A man] is jumping off of [/EN#68894/scene a very high bridge] while [/EN#68898/people people] watch [/EN#0/notvisual him] .
+[/EN#68896/people People] jumping off of [/EN#68894/scene a very tall bridge] into [/EN#68895/scene the water] below .
+[/EN#68893/people Man] diving from [/EN#68894/scene an archway bridge] into [/EN#68895/scene water] below .

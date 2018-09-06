@@ -1,0 +1,5 @@
+[/EN#133852/people A man] is bouncing on [/EN#133860/other a trampoline] next to [/EN#133853/scene tall buildings] and [/EN#133855/scene a church] .
+[/EN#133852/people A person] is performing [/EN#133856/other a diving stunt] off [/EN#133853/scene a tall building] .
+[/EN#133852/people A girl] is jumping off [/EN#133857/people a high dive] in [/EN#133859/scene an urban setting] .
+[/EN#133852/people A person] in [/EN#133861/clothing a swimsuit] is diving off [/EN#133853/scene a building] .
+[/EN#133852/scene A diver midair] against [/EN#0/notvisual an urban background] .

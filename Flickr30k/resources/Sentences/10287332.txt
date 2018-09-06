@@ -1,0 +1,5 @@
+[/EN#821/people Two men] sitting on [/EN#824/scene the roof of a house] while [/EN#823/other another one] stands on [/EN#822/other a ladder] .
+[/EN#821/people Two men] on [/EN#824/scene a rooftop] while [/EN#823/people another man] stands atop [/EN#822/other a ladder] watching [/EN#0/notvisual them]
+[/EN#820/people Three men] , [/EN#823/other one] on [/EN#822/other a ladder] , [/EN#826/other work] on [/EN#824/scene a roof] .
+[/EN#820/people People] are fixing [/EN#824/scene the roof of a house] .
+[/EN#820/people Three men] are working on [/EN#824/scene a roof] .

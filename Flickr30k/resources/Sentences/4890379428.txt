@@ -1,0 +1,5 @@
+[/EN#215359/people A woman] is walking in [/EN#215364/scene the road] wearing [/EN#215363/clothing Ugg boots] in front of [/EN#215360/other Hutchesons] [/EN#215362/other ' grammar school] .
+[/EN#215359/people A blond-haired woman] walks in [/EN#215364/scene the street] across from [/EN#215362/other Hutchesons] [/EN#215361/other ' Grammar School] .
+[/EN#215359/people A pedestrian] is making [/EN#215367/scene her way] down [/EN#215364/scene the street] in [/EN#215363/clothing fuzzy brown boots] .
+[/EN#215359/people A woman] in [/EN#215366/clothing a blue jacket] is walking along [/EN#215364/scene a road] .
+[/EN#215359/people A woman] with [/EN#215368/bodyparts blond-hair] walks on [/EN#215364/scene a road] .

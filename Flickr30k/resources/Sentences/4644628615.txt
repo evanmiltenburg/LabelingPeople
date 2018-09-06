@@ -1,0 +1,5 @@
+[/EN#186063/people Several people] are crossing on [/EN#186066/scene an overhead walkway] , while [/EN#186062/people one man] is sitting on [/EN#186064/other a white bench] in [/EN#186068/scene a park] beneath [/EN#186066/scene the walkway] .
+[/EN#186062/people A man] is sitting on [/EN#186064/other a bench] talking on [/EN#186065/other a mobile phone] while [/EN#186063/people other people] stroll across [/EN#186066/scene a walkway] above [/EN#0/notvisual him] .
+[/EN#186062/people A businessman] in [/EN#186067/clothing a suit] is talking on [/EN#186065/other his cellphone] while sitting on [/EN#186064/other a white bench] .
+[/EN#186062/people A man] wearing [/EN#186067/clothing a suit] is talking on [/EN#186065/other a cellphone] and sitting on [/EN#186064/other a bench] .
+[/EN#186062/people A businessman] sitting on [/EN#186064/other a bench] on [/EN#186065/other his cellphone] .

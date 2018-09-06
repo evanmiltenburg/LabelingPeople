@@ -1,0 +1,5 @@
+[/EN#106334/animals one black dog] running with [/EN#106333/other a ball] and [/EN#106335/other small tire] in [/EN#106336/bodyparts his mouth] while [/EN#106332/animals another black dog] follows .
+[/EN#106332/animals A black dog] is chasing [/EN#106334/animals another black dog] [/EN#0/notvisual who] is holding [/EN#106333/other a ball] , [/EN#106335/other a wheel] , and [/EN#106337/other some red rope] .
+[/EN#106332/animals A black dog] is chasing [/EN#106334/animals another black dog] [/EN#0/notvisual that] 's carrying [/EN#106333/other a ball] in [/EN#106336/bodyparts its mouth] .
+[/EN#106332/animals A black dog] holds [/EN#106335/other a tire] and [/EN#106333/other a ball] in [/EN#106336/bodyparts his mouth] as [/EN#0/notvisual another] follows [/EN#0/notvisual him] .
+[/EN#106332/animals A black dog] runs with [/EN#106333/other a deflated ball] and [/EN#106335/other a tiny tire] .

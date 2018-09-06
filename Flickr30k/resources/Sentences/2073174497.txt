@@ -1,0 +1,5 @@
+[/EN#27024/people A dark-skinned man] is cycling in [/EN#27026/scene a street] full of [/EN#27027/vehicles traffic] .
+[/EN#27024/people A man] in [/EN#27028/clothing black] is riding [/EN#27025/vehicles a bike] in [/EN#27026/scene the parking lot] .
+[/EN#27024/people A bicyclist] dressed in [/EN#27028/clothing all black] in [/EN#27027/vehicles traffic] .
+[/EN#27024/people A man] riding [/EN#27025/vehicles a bike] near [/EN#27027/vehicles traffic] .
+[/EN#27024/people a man] riding [/EN#27025/vehicles his bike] in [/EN#27027/vehicles traffic]

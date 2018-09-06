@@ -1,0 +1,5 @@
+[/EN#83102/vehicles A blue buggy] is driving across [/EN#83104/other the sand dunes] .
+[/EN#83102/vehicles A blue go-cart] in [/EN#83105/scene the dirt] pointing downhill .
+[/EN#83102/vehicles A dune buggy] going down [/EN#83103/scene a sandy hill] .
+[/EN#83102/vehicles A dune buggy] traveling on [/EN#83104/other sand] .
+[/EN#83102/vehicles A dune buggy] goes down [/EN#83103/scene a hill] .

@@ -1,0 +1,5 @@
+[/EN#242567/animals The white and black dog] leaped into [/EN#0/notvisual the air] and off [/EN#0/notvisual the snowy ground] .
+[/EN#242567/animals a black and white dog] jumping in [/EN#0/notvisual the air] surrounded by [/EN#242568/scene snow]
+[/EN#242570/clothing Black] and [/EN#242567/animals white dog] jumping up in [/EN#242568/scene the snow] .
+[/EN#242567/animals Shaggy little dog] jumps in [/EN#242568/scene the snow] .
+[/EN#242567/animals Dog] jumping in [/EN#242568/scene the snow] near [/EN#242571/other a tree] .

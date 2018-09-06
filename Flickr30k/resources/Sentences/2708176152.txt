@@ -1,0 +1,5 @@
+[/EN#67690/vehicles A group of people ride bicycles] around [/EN#67698/other a curve] on [/EN#67699/other a racetrack] .
+[/EN#67691/people Group of cyclists] in riding [/EN#67692/other gear] with [/EN#67693/clothing helmets] .
+[/EN#67694/people A group of people] in [/EN#67696/other a bicycle race] .
+[/EN#67694/people A group of bicyclists] in [/EN#67696/other a race] .
+[/EN#67697/other Men race] on [/EN#67695/vehicles bicycles] on [/EN#67700/scene track] .

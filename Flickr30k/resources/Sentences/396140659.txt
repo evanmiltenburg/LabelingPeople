@@ -1,0 +1,5 @@
+[/EN#149759/people A group of people] walk by [/EN#149765/scene some stores] , where [/EN#149760/people one men] in [/EN#149768/scene the front] smokes [/EN#149761/other a cigar] and [/EN#149763/people a woman] toward [/EN#149767/other the back] has [/EN#149769/bodyparts pink hair] .
+[/EN#149760/people A man] with [/EN#149770/clothing a pea green jacket] , [/EN#149771/clothing white hat] , [/EN#149772/clothing sunglasses] and [/EN#149761/other a cigar] walking down [/EN#149762/scene the street] with [/EN#149759/people other people] around [/EN#0/notvisual him] .
+[/EN#149760/people A man] dressed differently than [/EN#149764/other others] walking in [/EN#149758/people a crowd] .
+[/EN#149760/people A man] smokes [/EN#149761/other a cigar] as [/EN#0/notvisual he] walks [/EN#149762/scene the city street] .
+[/EN#149759/people A bunch of people] walking by [/EN#149766/other store windows] .

@@ -1,0 +1,5 @@
+[/EN#19207/people Woman] sitting in [/EN#19208/scene the grass] under [/EN#19209/other a tree] overlooking [/EN#19208/scene a field of grass] and holding [/EN#19210/other a large pad of white paper] .
+[/EN#19207/people a female] wearing [/EN#19211/clothing a shawl] around [/EN#19212/bodyparts her shoulders] , sits upon [/EN#19209/other a tree] in [/EN#19208/scene a green meadow] and reads .
+[/EN#0/notvisual It] is relaxing to sit under [/EN#19209/other a tree] on [/EN#19213/scene a nice day] and sketch [/EN#19214/scene your surroundings] .
+[/EN#19207/people A person] reading [/EN#19210/other something] is sitting under [/EN#19209/other the tree] .
+[/EN#19207/people Woman] reading under [/EN#19209/other a tree] .

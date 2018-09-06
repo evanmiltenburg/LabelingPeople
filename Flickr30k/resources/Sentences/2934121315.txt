@@ -1,0 +1,5 @@
+[/EN#82412/animals A white and tan dog] is running in [/EN#82413/scene shallow water] on [/EN#82414/scene a beach] .
+[/EN#82412/animals A white dog] runs in [/EN#82414/other the surf] with [/EN#82417/bodyparts his mouth] open
+[/EN#82412/animals A light blond dog] is running on [/EN#82413/scene the shoreline] .
+[/EN#82412/animals A young dog] is running across [/EN#82416/scene a shore] .
+[/EN#82412/animals A blond dog] runs in [/EN#82414/other the ocean surf] .

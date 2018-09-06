@@ -1,0 +1,5 @@
+[/EN#20166/animals Black and white dog] wearing [/EN#20167/clothing a harness] walking through [/EN#20168/scene water] .
+[/EN#20166/animals A black and white dog] walking in [/EN#20168/scene shallow water]
+[/EN#20166/animals A black and white dog] plays in [/EN#20168/scene the water] .
+[/EN#20166/animals A dog] splashes through [/EN#20168/scene the water] .
+[/EN#20166/animals A dog] swims .

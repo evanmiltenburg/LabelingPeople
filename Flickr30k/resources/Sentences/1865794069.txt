@@ -1,0 +1,5 @@
+[/EN#22240/people A small child] plays with [/EN#22241/other a ball] while [/EN#22246/other others] relax and converse with [/EN#0/notvisual one another] .
+[/EN#22240/people A blond boy] with [/EN#22243/clothing a navy blue uniform] kicks [/EN#22241/other a soccer ball] in [/EN#22242/scene an open field] .
+[/EN#22240/people A boy] in [/EN#22243/clothing an all blue uniform] kicks [/EN#22241/other a blue soccer ball] in [/EN#22242/scene a grassy area] .
+[/EN#22240/people A young boy] dressed in [/EN#22243/clothing blue and white] is kicking [/EN#22241/other a soccer ball] .
+[/EN#22240/people A little boy] is playing [/EN#22241/other soccer] at [/EN#22242/scene a field] .

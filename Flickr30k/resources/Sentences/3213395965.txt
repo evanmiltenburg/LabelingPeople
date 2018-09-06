@@ -1,0 +1,5 @@
+[/EN#101572/people The woman] is walking through [/EN#101576/scene the snow] and trying to light [/EN#101574/other a cigarette] .
+[/EN#101572/people A woman] in [/EN#101573/clothing a blue jacket] is getting [/EN#101575/scene a cigarette outside] .
+[/EN#101572/people A woman] smoking [/EN#101575/scene a cigarette outside] in [/EN#101576/scene the snow] .
+[/EN#101572/people A woman] in [/EN#101573/clothing a dark blue coat] , [/EN#101574/other cigarette] in [/EN#101578/bodyparts hand] .
+[/EN#101572/people A girl] smokes [/EN#101575/scene a cigarette outside] in [/EN#101577/scene the city] .

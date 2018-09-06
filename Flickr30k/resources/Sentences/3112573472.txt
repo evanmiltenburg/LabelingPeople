@@ -1,0 +1,5 @@
+[/EN#94448/people A man] in [/EN#94452/clothing red] with [/EN#94450/other a beer] is talking to [/EN#94449/people a woman] with [/EN#94451/clothing a gray sweatshirt] and [/EN#94453/other cornrows] in [/EN#94453/bodyparts her hair] .
+[/EN#94449/people A woman] with [/EN#94453/bodyparts braided hair] is laughing with [/EN#94448/people a man] in [/EN#94452/clothing a red shirt] .
+[/EN#94448/people A man] with [/EN#94450/other a beer] puts [/EN#94454/bodyparts/people his arm] behind [/EN#94449/people a smiling woman] .
+[/EN#94448/people Man] in [/EN#94452/other red polo] with [/EN#94454/bodyparts/people his arm] around [/EN#94449/people a girl] in [/EN#94451/clothing gray] .
+[/EN#94448/people A man] and [/EN#94449/people woman] mingle and talk to [/EN#0/notvisual one another] .

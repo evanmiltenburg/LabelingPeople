@@ -1,0 +1,5 @@
+[/EN#255110/people A gymnast] wearing [/EN#255113/clothing a red shirt] and [/EN#255116/clothing white pants] lifts [/EN#255117/bodyparts his entire body] over [/EN#255111/scene parallel bars] using [/EN#255114/bodyparts only one hand] .
+[/EN#255110/people Gymnast] in [/EN#255113/clothing red shirt] and [/EN#255116/clothing white pants] hoists [/EN#0/notvisual himself] in [/EN#0/notvisual the air] on [/EN#255111/scene the parallel bars] .
+[/EN#255110/people A gymnast] is balancing between [/EN#255111/other two rails] using [/EN#255114/bodyparts/people one arm] and [/EN#255116/bodyparts his legs] are in [/EN#0/notvisual the air] .
+[/EN#255110/people Professional gymnast] looks down as [/EN#0/notvisual he] swings between [/EN#255111/scene two parallel bars] .
+[/EN#255110/people A male gymnast] balances on [/EN#255112/scene a beam bar] .

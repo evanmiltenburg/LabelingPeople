@@ -1,0 +1,5 @@
+[/EN#3081/people A little girl] in [/EN#3082/clothing a pink bathing suit] swimming in [/EN#3083/scene a pool] .
+[/EN#3081/people Smiling little girl] swimming in [/EN#3083/scene outdoor pool] .
+[/EN#3081/people A girl] in [/EN#3082/clothing a pink swimsuit] in [/EN#3083/scene a pool]
+[/EN#3081/people A little girl] swimming in [/EN#3083/scene a pool] .
+[/EN#3081/people A girl] swimming in [/EN#3083/scene a pool] .

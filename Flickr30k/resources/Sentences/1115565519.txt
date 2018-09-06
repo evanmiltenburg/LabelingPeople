@@ -1,0 +1,5 @@
+[/EN#2975/people The little girl] is playing with [/EN#2976/other a toy] in [/EN#2977/scene a public fountain] .
+[/EN#2975/people A little girl] playing in [/EN#2978/scene water] on [/EN#2976/other a frog sculpture] .
+[/EN#2975/people A child] playing with [/EN#2977/scene a fountain] at [/EN#2979/scene the beach] .
+[/EN#2975/people A girl] looks at [/EN#2977/scene a fountain] that [/EN#2978/scene sprays water] .
+[/EN#2975/people A child] plays with [/EN#2977/scene a fountain] .

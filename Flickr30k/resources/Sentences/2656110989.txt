@@ -1,0 +1,5 @@
+[/EN#64290/people A black-haired man] is sitting on [/EN#64291/other a bench] on [/EN#64296/scene grass] , and near [/EN#64292/other cement] and [/EN#64293/scene wood blocks] .
+[/EN#64290/people A man] sits on [/EN#64291/other a bench] in [/EN#64296/scene a yard] filled with [/EN#64293/other stacks of wood] and [/EN#64292/other bags of concrete] .
+[/EN#64290/people A man] is sitting at [/EN#64291/other a picnic table] while looking at [/EN#64298/other a construction project] .
+[/EN#64290/people A man] sitting on [/EN#64291/other a bench] taking [/EN#64297/scene a break] from [/EN#64298/other construction work] .
+[/EN#64290/people A man] sitting in [/EN#64296/scene a backyard] with [/EN#64293/other wood] and [/EN#64295/other a pallet] .

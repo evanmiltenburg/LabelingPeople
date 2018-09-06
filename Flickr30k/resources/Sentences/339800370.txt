@@ -1,0 +1,5 @@
+[/EN#115474/people The backside of a woman] leaning against [/EN#115472/vehicles/scene the guard rail of a passenger boat] looking out at [/EN#115473/scene the open ocean] .
+[/EN#115470/people Woman] in [/EN#115471/clothing a pink top] looks [/EN#115476/other leans] on [/EN#115472/other a rail] and looks at [/EN#115473/scene the ocean] .
+[/EN#115470/people A woman] looks out over [/EN#115472/other the railing] into [/EN#115473/scene the ocean] .
+[/EN#115470/people A woman] in [/EN#115471/clothing a pink shirt] looks at [/EN#115473/scene the water] .
+[/EN#115470/people A woman] on [/EN#115472/vehicles/scene a boat] looks out at [/EN#115473/scene the water] .

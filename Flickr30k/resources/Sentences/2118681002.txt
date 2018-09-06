@@ -1,0 +1,5 @@
+[/EN#29750/people A man] , wearing [/EN#29752/clothing a black hoodie] and [/EN#29761/clothing carpenter shorts] , is walking carefully along [/EN#29762/scene the side of a construction site] .
+[/EN#29750/people Construction worker] on [/EN#29751/other a beam] helping guide [/EN#29757/scene the crane] to place [/EN#29753/other another beam] in [/EN#29755/scene the right position] .
+[/EN#29750/people A person] in [/EN#29752/clothing a black jacket] with [/EN#29760/clothing a white helmet] is standing upon [/EN#29751/other a wooden structure] .
+[/EN#29750/people A man] standing on [/EN#29751/other a wooden beam] watching [/EN#29757/scene a crane] lift [/EN#29753/other another beam] into [/EN#29755/scene place] .
+[/EN#29750/people A solitary man] balanced on [/EN#29751/other scaffolding high] above [/EN#29756/scene the city] .

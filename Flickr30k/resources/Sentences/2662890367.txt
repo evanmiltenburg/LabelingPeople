@@ -1,0 +1,5 @@
+[/EN#64739/people one man] lying of [/EN#0/notvisual the ground] in [/EN#64744/scene the grass] surrounded by [/EN#64741/other trees] .
+[/EN#64739/people A man] is laying down on [/EN#64740/scene grass] near [/EN#64741/other trees] and [/EN#64743/other a hose] .
+[/EN#64739/people A man] is lying [/EN#64740/scene the grass] with [/EN#64745/bodyparts long hair] and [/EN#64746/bodyparts beard] .
+[/EN#64739/people A person] lies in [/EN#64740/scene a grassy area] near [/EN#64742/scene a building] .
+[/EN#64739/people A person] lays in [/EN#64740/scene the grass] .

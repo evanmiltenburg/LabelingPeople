@@ -1,0 +1,5 @@
+[/EN#170359/people The woman] is wearing [/EN#170363/clothing sunglasses] in [/EN#170361/scene the middle of a street] and is standing next to [/EN#170360/other a RoadWork Ahead sign] .
+[/EN#170359/people A woman] wearing [/EN#170363/clothing sunglasses] stands along side [/EN#170360/other an orange sign] [/EN#0/notvisual which] reads : " [/EN#170360/other ROADWORK AHEAD] . "
+[/EN#170359/people A woman] in [/EN#170363/clothing sunglasses] is standing next to [/EN#170360/other an orange sign] [/EN#0/notvisual that] reads [/EN#170360/other RoadWork Ahead] .
+[/EN#170359/people The woman] stands in front of [/EN#170360/other the " RoadWork Ahead " sign] on [/EN#170361/scene the city street] .
+[/EN#170359/people A woman] in [/EN#170363/clothing sunglasses] stands in front of [/EN#170360/other an orange roadwork sign] .

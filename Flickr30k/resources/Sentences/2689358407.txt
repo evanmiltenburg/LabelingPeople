@@ -1,0 +1,5 @@
+[/EN#66354/people a young boy] running through [/EN#66356/scene a water fountain]
+[/EN#66354/people A young boy] plays in [/EN#66356/scene the water fountain] .
+[/EN#66355/people Two children] run through [/EN#66357/other a sprinkler] .
+[/EN#66355/people Two boys] are playing in [/EN#66357/other a sprinkler] .
+[/EN#66355/people Two boys] play in [/EN#66356/scene a park fountain] .

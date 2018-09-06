@@ -1,0 +1,5 @@
+[/EN#100083/people a young girl] climbs onto [/EN#100085/scene a red brick floor] while wearing [/EN#100084/clothing green swimming goggles] and [/EN#100088/clothing a white shirt]
+[/EN#100083/people A toddler] wearing [/EN#100084/clothing green swimming goggles] climbs up [/EN#100085/other some steps] outdoors on [/EN#100087/scene a sunny day] .
+[/EN#100083/people An infant] with [/EN#100084/clothing green swimming goggles] on , crawling on [/EN#0/notvisual the ground] .
+[/EN#100083/people A young child] with [/EN#100084/clothing green goggles] leans on [/EN#100085/other a step] .
+[/EN#100083/people The little child] has [/EN#100084/clothing big green glasses] on .

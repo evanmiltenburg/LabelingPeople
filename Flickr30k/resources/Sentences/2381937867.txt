@@ -1,0 +1,5 @@
+[/EN#45352/people Two people] , wearing [/EN#45358/clothing coats] , sitting in [/EN#45354/scene a green field] next to [/EN#45353/other a tree] , facing [/EN#45355/scene the mountains] .
+[/EN#45352/people Two people] sitting under [/EN#45353/other a blossoming tree] looking at [/EN#45355/scene a mountain] near [/EN#45357/other a shack] .
+[/EN#45352/people Two people] relaxing by [/EN#45353/other the tree] enjoying [/EN#45355/scene the gorgeous view of the mountains] .
+[/EN#45352/people Two people] sitting under [/EN#45353/other a tree] looking at [/EN#45355/scene the mountains] .
+[/EN#45352/people Two people] sitting in [/EN#45354/scene a meadow] enjoying [/EN#45356/scene a mountain view] .

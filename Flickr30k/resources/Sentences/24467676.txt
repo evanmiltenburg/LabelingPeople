@@ -1,0 +1,5 @@
+[/EN#50205/people The man] in [/EN#50206/clothing the blue shirt] wearing [/EN#50207/other a crucifix] guards [/EN#50208/scene the entrance] to [/EN#50208/scene the elevator] with [/EN#50209/other the Aztec theme] .
+[/EN#50205/people A man] in [/EN#50206/clothing a blue shirt] standing in front of [/EN#50208/other a garage-like structure] painted with [/EN#50209/other geometric designs] .
+[/EN#50205/people An african american man] with [/EN#50211/other a rosary] around [/EN#50212/bodyparts his neck] is standing in [/EN#50208/scene a room] .
+[/EN#50205/people A man] in [/EN#50206/clothing a blue shirt] stands with [/EN#50213/bodyparts his hands] on [/EN#50214/bodyparts his hips] .
+[/EN#50205/people A man] in [/EN#50206/clothing a blue shirt] standing in front of [/EN#50208/scene a doorway] .

@@ -1,0 +1,5 @@
+[/EN#2412/people A man] gestures while facing [/EN#2415/people a woman] wearing [/EN#2420/clothing glasses] as [/EN#0/notvisual they] sit inside [/EN#2414/scene a restaurant] [/EN#0/notvisual that] includes [/EN#2418/other a yellow wall] .
+[/EN#2412/people A man] in [/EN#2417/clothing a black shirt] talking to [/EN#2415/people a woman] in [/EN#2416/clothing a black shirt] in [/EN#2414/scene a yellow room] .
+[/EN#2411/people Two people] having [/EN#2413/other a discussion] sitting in [/EN#2414/scene a restaurant] .
+[/EN#2412/people A man] and [/EN#2415/people a woman] are talking in [/EN#2414/scene a restaurant] .
+[/EN#2411/people A couple] having [/EN#2413/other a conversation] over [/EN#2419/other drinks] .

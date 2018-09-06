@@ -1,0 +1,5 @@
+[/EN#99206/people A man] wearing [/EN#99216/clothing jeans] and [/EN#99217/clothing a sports t-shirt] is playing [/EN#99207/instruments a banjo] , [/EN#99212/instruments harmonica] and [/EN#99211/instruments drums] on [/EN#99209/scene a street corner] .
+[/EN#99206/people A man] on [/EN#99209/scene a street corner] is playing [/EN#99213/instruments multiple instruments] for [/EN#99215/people walkers] by .
+[/EN#99206/people Man] playing [/EN#99212/instruments harmonica] , [/EN#99207/instruments banjo] , and [/EN#99211/instruments drum] on [/EN#99210/scene the sidewalk of a city] .
+[/EN#99206/people A street performer] playing [/EN#99207/instruments banjo] on [/EN#99208/scene a city street] .
+[/EN#99206/people The man] is standing on [/EN#99214/scene the corner] playing [/EN#99218/other music] .

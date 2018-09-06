@@ -1,0 +1,5 @@
+[/EN#224917/people A man] with [/EN#224920/clothing a white tank top] is on [/EN#224918/vehicles a scooter] is driving up [/EN#224919/scene the street] .
+[/EN#224917/people A man] in [/EN#224920/clothing a white shirt] is riding [/EN#224918/vehicles a white scooter] .
+[/EN#224917/people A man] wearing [/EN#224920/clothing a sleeveless shirt] riding [/EN#224918/vehicles a moped] .
+Driving down [/EN#224919/scene the road] on [/EN#224918/other a mini motorcycle] .
+[/EN#224917/people A man] is driving [/EN#224918/vehicles a very small vehicle] .

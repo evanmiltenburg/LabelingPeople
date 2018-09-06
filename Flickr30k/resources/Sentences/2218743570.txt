@@ -1,0 +1,5 @@
+[/EN#34878/animals A black cat] playing with [/EN#34879/animals a white puppy] next to [/EN#34880/other a duck toy] .
+[/EN#34878/animals A black cat] wrestles with [/EN#34879/animals a white dog] [/EN#0/notvisual who] has [/EN#34881/bodyparts blue eyes] .
+[/EN#34879/animals A dog] and [/EN#34878/animals a cat] are playing on [/EN#34882/scene a wooden floor] .
+[/EN#34878/animals A black cat] hugging [/EN#34879/animals a white and gray dog] .
+[/EN#34879/animals A husky] and [/EN#34878/animals a black cat] nuzzling .

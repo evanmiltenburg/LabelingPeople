@@ -1,0 +1,5 @@
+[/EN#80777/people A man] in [/EN#80778/clothing a blue button-down shirt] and holding [/EN#80780/other a knife] grins at [/EN#80784/people a woman] while standing in front of [/EN#80779/other a white and black cake] while [/EN#80783/people another man] in [/EN#80781/clothing a black shirt] stands behind [/EN#0/notvisual him] .
+[/EN#80777/people The man] in [/EN#80778/clothing the blue shirt] held [/EN#80780/other a knife] and got ready to cut [/EN#80779/other the sheet cake] .
+[/EN#80777/people A man] in [/EN#80778/clothing a blue shirt] smiles while holding [/EN#80780/other a knife] over [/EN#80779/other a cake] .
+[/EN#80777/people The man] in [/EN#80778/clothing the blue shirt] is about to cut [/EN#80779/other the cake] .
+[/EN#80777/people A man] with [/EN#80780/other a knife] in front of [/EN#80779/other a cake] .

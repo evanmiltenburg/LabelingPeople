@@ -1,0 +1,5 @@
+[/EN#120141/people A blond woman] wearing [/EN#120149/clothing a white top] and [/EN#120150/clothing black bottoms] pushes [/EN#120144/other a black stroller] while [/EN#120142/people a brunette male] wearing [/EN#120148/clothing a gray t-shirt] and [/EN#120145/clothing white shorts] walks [/EN#120143/animals a brown dog] .
+[/EN#120142/people A man] in [/EN#120145/clothing shorts] walks [/EN#120143/animals a big brown dog] and [/EN#120141/people a woman] pushing [/EN#120151/vehicles a baby carriage] walks right behind [/EN#0/notvisual him] .
+[/EN#120146/people A couple] walking [/EN#120143/animals a dog] and [/EN#120141/people a child] in [/EN#120144/other a stroller] in front of [/EN#120152/scene a store] .
+[/EN#120142/people A man] walks [/EN#120143/animals a brown dog] while [/EN#120141/people a woman] pushes [/EN#120144/other a stroller] .
+[/EN#120141/people A woman] with [/EN#120144/other a stroller] is passing [/EN#120142/people a man] walking [/EN#120143/animals a dog] .

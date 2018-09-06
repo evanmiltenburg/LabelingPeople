@@ -1,0 +1,5 @@
+[/EN#144380/scene A group of tents] sit in front of [/EN#144383/scene a hill] with [/EN#144381/people a person] standing outside [/EN#144388/other the most prominent one] .
+[/EN#144380/scene A collection of blue tents] , [/EN#0/notvisual one of which] says " [/EN#144384/other Exodus] " , are set up in [/EN#144383/scene a lush landscape] .
+[/EN#144381/people A woman] in [/EN#144389/clothing a blue shirt] is standing by [/EN#144385/scene a blue tent] .
+[/EN#144381/people Someone] standing between [/EN#144382/scene several large tents] .
+[/EN#144382/scene Blue tents] in [/EN#144387/scene the country] next to [/EN#144383/scene a hill]

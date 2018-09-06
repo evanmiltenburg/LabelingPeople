@@ -1,0 +1,5 @@
+[/EN#43328/people A woman] in [/EN#43329/clothing a blue dress] dances with [/EN#43330/people a man] in [/EN#43331/clothing a tuxedo] on [/EN#43326/scene a stage] in front of [/EN#43324/people a mid-sized audience] .
+[/EN#43325/other A dance performance] is going on in front of [/EN#43324/people an audience] .
+[/EN#43327/people A male and female dancer] performing in front of [/EN#43324/people a crowd] .
+[/EN#43324/people A crowd] watching [/EN#43325/other a duo] in [/EN#43332/clothing blue] dance on [/EN#43326/scene a stage] .
+[/EN#43324/people Onlookers] looking upon [/EN#43325/other a play] being performed .

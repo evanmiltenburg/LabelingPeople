@@ -1,0 +1,5 @@
+[/EN#52316/people An Asian man] in [/EN#52324/clothing colorful robes] holds [/EN#52319/bodyparts a bell] and leans toward [/EN#52321/other a small table] , with [/EN#52318/other Buddhist or Hindu decorations] on [/EN#52323/other the table] and [/EN#52328/other the walls] .
+[/EN#52316/people A man] with [/EN#52322/clothing glasses] wearing [/EN#52324/clothing ornate clothing] sitting down with [/EN#52319/other an ornament] in [/EN#52326/bodyparts his hand] .
+[/EN#52316/people A man] hunched over [/EN#0/notvisual is] holding [/EN#52319/other a figure] while looking at [/EN#52321/other the table] in front of [/EN#0/notvisual him] .
+[/EN#52316/people An older man] wearing [/EN#52322/clothing glasses] , clad in [/EN#52324/other beautiful fabric] studies [/EN#52317/other ornate objects] .
+[/EN#52316/people A Hindi man] sits behind [/EN#52321/other a table] with [/EN#52319/bodyparts a bell] looking at [/EN#52317/other objects] .

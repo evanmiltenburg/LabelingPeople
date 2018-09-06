@@ -1,0 +1,5 @@
+[/EN#27103/people A group of motorcyclists] are parked along side and riding down [/EN#27105/scene a road] .
+[/EN#27103/people A group of motorcyclists] sit on [/EN#27108/vehicles their bikes] on [/EN#27105/scene a street] .
+[/EN#27106/other Motorcycles] wait on [/EN#27105/scene the street] for [/EN#27104/other a ride] to begin .
+[/EN#27103/people A group of motorcycle riders] gather on [/EN#27105/scene a street] .
+[/EN#27107/people most of the people] are riding [/EN#27104/other there motorcycle]

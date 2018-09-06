@@ -1,0 +1,5 @@
+[/EN#104002/people A man] in [/EN#104006/clothing a tan jumpsuit] and [/EN#104004/clothing baseball cap] is operating [/EN#104003/other a heavy piece of machinery] .
+[/EN#104002/people This man] studies [/EN#104007/other the controls] while working with [/EN#104003/other heavy machinery] .
+[/EN#104002/people Boy] in [/EN#104005/other Carhartt] and [/EN#104004/clothing camouflage hat] driving [/EN#104003/other a Caterpillar tractor] .
+[/EN#104002/people A white man] is operating [/EN#104003/other a piece of yellow heavy machinery] .
+[/EN#104002/people A man] wearing [/EN#104004/clothing a hat] operating [/EN#104003/other machinery] .

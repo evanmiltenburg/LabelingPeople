@@ -1,0 +1,5 @@
+[/EN#102024/people A basketball player] in [/EN#102033/clothing a white outfit] is dribbling [/EN#102027/other the ball] around [/EN#102029/people a player] in [/EN#102034/clothing a red outfit] as [/EN#102026/people the referee] looks on .
+[/EN#102024/people A basketball player] dribbles [/EN#102027/other the ball] while [/EN#102035/scene another blocks] [/EN#0/notvisual him] and [/EN#102026/people an official] looks on .
+[/EN#102024/people The guard] drives towards [/EN#102031/other the basket] during [/EN#102028/other a college basketball game] .
+[/EN#102024/people A Miami basketball player] dribbles by [/EN#102029/people an Arizona State player] .
+[/EN#102026/people A referee] watches [/EN#102029/people two basketball players] playing [/EN#102027/other basketball] .

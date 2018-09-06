@@ -1,0 +1,5 @@
+[/EN#109456/people A man] dressed [/EN#109459/people all] in [/EN#109462/clothing black] performs [/EN#0/notvisual a trick] on [/EN#109460/other a rail] while wearing [/EN#109461/other inline skates] .
+[/EN#109456/people a lone skateboarder] jumping [/EN#109457/scene a huge skateboarding ramp] .
+[/EN#109456/people The skateboarder] is jumping over [/EN#109457/scene a ramp] .
+[/EN#109456/people An inline skater] doing [/EN#0/notvisual a jump] on [/EN#109457/scene a ramp] .
+[/EN#109456/people A skateboarder] makes [/EN#0/notvisual a jump] off [/EN#109457/scene a ramp] .

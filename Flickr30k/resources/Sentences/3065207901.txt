@@ -1,0 +1,5 @@
+[/EN#91085/people A young girl] sits on [/EN#91086/other a wooden bench] holding [/EN#91087/clothing a shoe] with [/EN#91088/vehicles a blue bike] in [/EN#0/notvisual the foreground] .
+[/EN#91085/people A girl] in [/EN#91089/clothing shorts] is cleaning [/EN#91087/clothing a shoe] , while sitting on [/EN#91086/other a bench] , in [/EN#91092/scene front] [/EN#91088/vehicles a bike] .
+[/EN#91085/people A girl] is sitting on [/EN#91086/other a bench] in front of [/EN#91088/vehicles a bike] cleaning [/EN#91087/clothing shoes] with [/EN#91090/other a brush] .
+[/EN#91085/people A young girl] is sitting on [/EN#91086/other a bench] near [/EN#91091/other a tree] , polishing [/EN#91087/clothing a shoe] .
+[/EN#91085/people A young girl] shines [/EN#91087/clothing shoes] while sitting on [/EN#91086/other a bench] .

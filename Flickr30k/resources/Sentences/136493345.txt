@@ -1,0 +1,5 @@
+[/EN#10153/other A rain bow] is formed from [/EN#10156/scene water] [/EN#0/notvisual that] is splashed from [/EN#10158/clothing a tank] on [/EN#10157/scene the street] .
+[/EN#10153/other A pair of rainbows] reflected in [/EN#10159/other the spray] coming from [/EN#10155/vehicles a vehicle] .
+[/EN#10153/other A rainbow] is formed from [/EN#10158/clothing a tank] spraying [/EN#10156/scene water] on [/EN#10157/scene a street] .
+[/EN#10156/scene Water] spraying from [/EN#10155/vehicles a green truck] is making [/EN#10153/other a rainbow] .
+[/EN#10155/vehicles A water truck] creates [/EN#10153/other a rainbow] across [/EN#10157/scene a street] .

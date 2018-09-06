@@ -1,0 +1,5 @@
+[/EN#117564/people A woman] is playing [/EN#117565/instruments a piano] with [/EN#117566/scene a landscape] painted on [/EN#0/notvisual it] beside [/EN#117567/people a man] [/EN#0/notvisual who] is standing and playing [/EN#117568/instruments a wooden recorder] .
+[/EN#117569/people Two musicians] , [/EN#117564/people a woman] in [/EN#117570/clothing black] playing [/EN#117565/instruments the piano] , and [/EN#117567/people a man] in [/EN#117571/clothing a black suit] playing [/EN#117568/instruments the flute] .
+[/EN#117564/people A woman] plays [/EN#117565/instruments an ornately decorated piano] while [/EN#117567/people the man] next to [/EN#0/notvisual her] plays [/EN#117568/instruments a recorder] .
+[/EN#117564/people A woman] plays [/EN#117573/other a keyboard] while [/EN#117567/people the man] beside [/EN#0/notvisual her] plays [/EN#117568/instruments a flute] .
+[/EN#117564/people A woman] plays [/EN#117565/instruments the harpsichord] while [/EN#117567/people a man] plays [/EN#117568/instruments the recorder] .

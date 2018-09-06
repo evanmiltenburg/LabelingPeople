@@ -1,0 +1,5 @@
+[/EN#270951/people Two baseball player] are standing in [/EN#270952/scene a ball field] [/EN#0/notvisual that] is surrounded by [/EN#270953/people a stadium full of people] .
+[/EN#270950/other Morse] dressed in [/EN#270959/clothing red and white uniform] is waiting for [/EN#270956/scene the pitch] so [/EN#0/notvisual he] can run to [/EN#270958/other the next base] .
+[/EN#270950/other Baseball player # 38] , [/EN#270950/other Morse] is seen standing and looking at [/EN#270948/people the pitcher] .
+[/EN#270948/people A man] is standing on [/EN#270952/scene a baseball field] in front of [/EN#270953/people a crowd] .
+[/EN#270951/people Two baseball players] including [/EN#270950/people a pitcher] on [/EN#270955/other the mound] .

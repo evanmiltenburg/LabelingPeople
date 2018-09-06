@@ -1,0 +1,5 @@
+[/EN#71857/people A baseball player] is standing in [/EN#71861/scene place] , catching [/EN#71858/other a flying baseball] in [/EN#71859/clothing his mitt] .
+[/EN#71857/people A player] for [/EN#71862/animals the Detroit Tigers] is catching [/EN#71858/other a baseball] being thrown to [/EN#0/notvisual him] .
+[/EN#71857/people A male baseball player] catches [/EN#71858/other a baseball] in [/EN#71859/clothing his mitt] .
+[/EN#71857/people Baseball player] in [/EN#71860/clothing a 22 jersey] catching [/EN#71858/other a baseball] .
+[/EN#71857/people baseball player] catches [/EN#71858/other a ball] with [/EN#71864/other ease] .

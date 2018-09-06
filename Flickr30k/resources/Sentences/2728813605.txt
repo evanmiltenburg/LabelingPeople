@@ -1,0 +1,5 @@
+[/EN#69009/people an elderly woman] wearing [/EN#69010/clothing a denim jacket] and [/EN#69011/clothing sunglasses] is posing for [/EN#69016/other a picture] in front of [/EN#69012/scene a green bush] .
+[/EN#69009/people An older woman] with [/EN#69013/bodyparts gray hair] wears [/EN#69011/clothing sunglasses] , [/EN#69014/clothing a necklace] , [/EN#69015/clothing earrings] , and [/EN#69010/clothing blue shirt] and [/EN#69010/clothing jacket] .
+[/EN#69009/people An old woman] in [/EN#69011/clothing sunglasses] and [/EN#69010/clothing a jean jacket] smiles for [/EN#0/notvisual the camera] .
+[/EN#69009/people An elderly lady] in [/EN#69011/clothing sunglasses] and [/EN#69010/clothing a denim jacket] .
+[/EN#69009/people A mature woman] in [/EN#69011/clothing sunglasses] and [/EN#69010/clothing a jean jacket] .

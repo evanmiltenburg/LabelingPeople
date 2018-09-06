@@ -1,0 +1,5 @@
+[/EN#281007/people A person] is standing in [/EN#281008/scene water] with [/EN#0/notvisual it] splashing [/EN#281008/people all] around [/EN#0/notvisual them] while [/EN#281012/people another person] lingers in [/EN#0/notvisual the background] .
+[/EN#281007/people A child] is splashing in [/EN#281008/scene the water] at [/EN#281010/scene the beach] .
+[/EN#281007/people A girl] is playing in [/EN#281008/scene the ocean] at [/EN#281013/other dusk] .
+[/EN#281009/people Two children] playing in [/EN#281008/other the surf] .
+[/EN#281007/people A kid] splashes in [/EN#281008/scene the ocean] .

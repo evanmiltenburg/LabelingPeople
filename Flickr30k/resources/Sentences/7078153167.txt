@@ -1,0 +1,5 @@
+[/EN#265104/people A freckled girl] wearing [/EN#265108/clothing a yellow shirt] sipping [/EN#265105/other a drink] through [/EN#265106/other a straw] .
+[/EN#265104/people Little girl] in [/EN#265107/other yellow shirt sips] [/EN#265105/other a bitter tasting beverage] .
+[/EN#265104/people A little girl] makes [/EN#265109/bodyparts a face] while drinking through [/EN#265106/other a straw] .
+[/EN#265104/people A young girl] is drinking [/EN#265105/other a drink] through [/EN#265106/other a straw] .
+[/EN#265104/people A girl] drinking [/EN#265105/other a pop] .

@@ -1,0 +1,5 @@
+[/EN#21010/scene A street] with [/EN#21011/scene a store] [/EN#0/notvisual that] has [/EN#21012/other a sign] outside of [/EN#0/notvisual it] reading [/EN#21012/other " Bleecker Street Records] " .
+[/EN#21013/people Many people] walk down [/EN#21010/scene street of inner city street] with [/EN#21011/scene record shop] .
+[/EN#0/notvisual A picture] of [/EN#21013/people people] walking in [/EN#21010/scene the street] in front of [/EN#21014/scene shops] .
+[/EN#21015/people Two people] walk past [/EN#21011/scene the Bleecker Street Records store] .
+[/EN#21015/people People] walk down [/EN#21010/scene a city street] past [/EN#21011/scene a record store] .

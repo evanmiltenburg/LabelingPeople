@@ -1,0 +1,5 @@
+[/EN#20049/people A man] in [/EN#20057/clothing jeans] with [/EN#20060/other white paint stains] [/EN#20058/other on] [/EN#0/notvisual them] is standing on [/EN#20051/other a short ladder] working on [/EN#20050/scene the front of a store] .
+[/EN#20049/people A painter] is standing on [/EN#20051/other smaller silver ladder] and [/EN#0/notvisual there] is [/EN#20053/other another silver ladder] close by .
+[/EN#20049/people Man] in [/EN#20056/clothing black] with [/EN#20059/other one foot] on top of [/EN#20051/other a ladder] and [/EN#20061/bodyparts arms] performing [/EN#20055/other a task] on [/EN#20050/other a storefront] .
+[/EN#20050/scene The store] was open even though [/EN#20049/people a man] was working on [/EN#20050/scene the building] .
+[/EN#20049/people A man] climbs [/EN#20051/other a ladder] in front of [/EN#20050/scene a store] .

@@ -1,0 +1,5 @@
+[/EN#114204/people A person] in [/EN#114206/clothing a plaid shirt] is laying on [/EN#0/notvisual the ground] taking [/EN#114205/clothing a picture of a backpack] [/EN#0/notvisual which] reads " vespa " .
+[/EN#114204/people A person] in [/EN#114206/clothing a plaid shirt] takes [/EN#114205/clothing a picture of a white Vespa bag] on [/EN#114210/scene some grass] .
+[/EN#114204/people A photographer] is taking [/EN#114205/clothing a picture of a backpack] with [/EN#114207/other a Vespa logo] on [/EN#0/notvisual it] .
+[/EN#114204/people A guy] with [/EN#114209/clothing glasses] taking [/EN#114205/clothing a photo of a bag] with [/EN#114207/other a motorcycle] on [/EN#0/notvisual it] .
+[/EN#114204/people A person] in [/EN#114206/clothing a plaid shirt] is taking [/EN#114205/clothing a picture of a white bag] .

@@ -1,0 +1,5 @@
+[/EN#31829/people A salesman] is standing in front of [/EN#31830/other a monitor] showing [/EN#31831/people customers] how to use [/EN#31838/other a device] in [/EN#31832/scene a store] .
+[/EN#31833/people A man] on [/EN#31834/vehicles an exercise bike] [/EN#0/notvisual that] is attached to [/EN#31830/other a video screen] .
+[/EN#31835/people A few people] gather around to play [/EN#31836/other video games] together .
+[/EN#31835/people People] engaged trying out [/EN#31838/other new technology] .
+[/EN#31837/people Men] gather around [/EN#31838/other a computer] .

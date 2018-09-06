@@ -1,0 +1,5 @@
+[/EN#61968/animals A gray dog] in [/EN#61969/clothing a white collar] yawning with [/EN#61970/bodyparts its eyes] closed .
+[/EN#61968/animals The gray dog] has [/EN#61970/bodyparts its eyes] closed .
+[/EN#61968/animals A dog] wearing [/EN#61969/clothing a collar] yawning .
+[/EN#61968/animals Dog] with [/EN#61969/clothing white collar] yawning
+[/EN#61968/animals A gray dog] is yawning .

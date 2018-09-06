@@ -1,0 +1,5 @@
+[/EN#256293/animals A small dog] runs after [/EN#256295/other a red ball] , though [/EN#256294/scene a leafy outdoor area] .
+[/EN#256293/animals A small dog] is running behind [/EN#256295/other a red ball] thrown towards [/EN#256296/scene bushes] .
+[/EN#256293/animals A brown and black dog] running to fetch [/EN#256295/other a red ball] .
+[/EN#256293/animals A small dog] plays on [/EN#256294/scene the green grass] .
+[/EN#256293/animals A dog] and [/EN#256295/other a red ball] in [/EN#0/notvisual the air] .

@@ -1,0 +1,5 @@
+[/EN#126373/people One man] wearing [/EN#126374/clothing a black t-shirt] is helping [/EN#126376/people another man] , [/EN#0/notvisual who] is wearing [/EN#126375/clothing a blue shirt] , tie [/EN#126377/clothing his necktie] .
+[/EN#126373/people A man] in [/EN#126374/clothing a black t-shirt] is tying [/EN#126377/people the necktie of a man] wearing [/EN#126375/clothing a blue dress shirt] .
+[/EN#126373/people A larger man] is putting [/EN#126378/clothing a tie] onto [/EN#126376/people a smaller man] .
+[/EN#126373/people A man] making [/EN#126381/other the cravat] to [/EN#126376/people his best friend] .
+[/EN#126373/people A father] helping [/EN#126376/people his son] tie [/EN#126377/clothing his tie] .

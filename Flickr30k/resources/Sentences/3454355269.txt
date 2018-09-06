@@ -1,0 +1,5 @@
+[/EN#119393/people A person] on [/EN#119394/vehicles a bike] is riding through [/EN#119395/scene a rocky trail] in [/EN#119399/other the woods] .
+[/EN#119393/people A man] with [/EN#119396/clothing a helmet] rides [/EN#119394/vehicles his bike] on [/EN#119395/scene a bumpy path] .
+[/EN#119393/people Man] in [/EN#119398/other safety gear] riding [/EN#119394/vehicles a bike] on [/EN#119395/scene a rocky trail] .
+[/EN#119393/people A person] in [/EN#119397/clothing a red jacket] riding [/EN#119394/vehicles a mountain bike] .
+[/EN#119393/people A mountain biker] rides across [/EN#119395/scene a rocky terrain] .

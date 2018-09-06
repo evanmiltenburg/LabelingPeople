@@ -1,0 +1,5 @@
+[/EN#139438/people A mountain biker] travels along [/EN#139441/scene a dirt trail] inside [/EN#139440/scene a heavily wooded area] .
+[/EN#139438/people Bicyclist] in [/EN#139444/clothing racing gear] rides through [/EN#139440/scene forest area] .
+[/EN#139438/people A mountain biker] rides through [/EN#139441/scene a shady trail] .
+[/EN#139438/people a man] riding [/EN#139445/vehicles a bike] through [/EN#139442/scene the forest]
+[/EN#139438/people A person] biking near [/EN#139446/other trees] .

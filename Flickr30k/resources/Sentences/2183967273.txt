@@ -1,0 +1,5 @@
+[/EN#32772/animals A dog] in [/EN#32777/scene a living room] laying on [/EN#32773/animals a stuffed animal] with [/EN#32774/other a television] in [/EN#0/notvisual the background] .
+[/EN#32772/animals A brown and black dog] laying on [/EN#32773/other a gray plushie] in front of [/EN#32774/other a TV] showing [/EN#32776/other breaking news] .
+[/EN#32772/animals Dog] climbing on [/EN#32773/other stuffed animals indoors] , [/EN#32774/other background TV] shows breaking [/EN#32776/other news] .
+[/EN#32772/animals A small dog] laying on [/EN#32773/animals a stuffed animal] in front of [/EN#32774/other a TV]
+[/EN#32772/animals A small dog] grinding against [/EN#32773/animals a stuffed animal] .

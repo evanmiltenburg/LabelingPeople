@@ -1,0 +1,5 @@
+[/EN#259065/people A short-haired male singer] wearing [/EN#259066/clothing a brown buttoned shirt] plays [/EN#259068/instruments the violin] and sings on [/EN#259067/scene a stage] , [/EN#0/notvisual which] is illuminated with [/EN#259069/other a hot pink and blue display] .
+[/EN#259065/people A sole violinist] singing and playing under [/EN#259070/other the spotlight] .
+[/EN#259065/people A man] performing on [/EN#259067/scene stage] with [/EN#259068/instruments a violin] .
+[/EN#259065/people A man] is playing [/EN#259068/instruments a violin] on [/EN#259067/scene a stage] .
+[/EN#259065/people A Man] in [/EN#259066/clothing a gray shirt] playing [/EN#259068/instruments violin] .

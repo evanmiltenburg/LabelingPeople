@@ -1,0 +1,5 @@
+[/EN#172165/people A middle-aged man] coming out of [/EN#172167/vehicles/scene a bus] and talking on [/EN#172165/other the phone] .
+[/EN#172165/people A man] standing on [/EN#172168/scene the street] watching [/EN#172171/vehicles traffic] .
+[/EN#172165/people A man] in [/EN#172166/clothing a black coat] is walking outdoors .
+[/EN#172165/people A man] in [/EN#172169/clothing glasses] is wearing [/EN#172166/clothing a dark coat] .
+[/EN#172165/people A man] in [/EN#172166/clothing a coat] standing outside .

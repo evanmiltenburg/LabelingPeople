@@ -1,0 +1,5 @@
+[/EN#40300/people Two kids] in [/EN#40301/clothing snow hats] and [/EN#40302/clothing blue and green coats] are swinging on [/EN#40303/other a tire] swing out in [/EN#40304/scene the snow] .
+[/EN#40300/people Two young children] are being pushed on [/EN#40303/other a tire swing] with [/EN#40304/scene snow] on [/EN#0/notvisual the ground] .
+[/EN#40300/people Kids] wearing [/EN#40302/clothing jackets] and [/EN#40305/clothing hats] swinging on [/EN#40306/other tire swing] in [/EN#40304/scene snow]
+[/EN#40300/people Two children] swing in [/EN#40303/other a tire] in [/EN#40304/scene the snow] at [/EN#40307/scene a park] .
+[/EN#40300/people Two children] swing on [/EN#40303/other a tire swing] on [/EN#40308/scene a snowy day] .

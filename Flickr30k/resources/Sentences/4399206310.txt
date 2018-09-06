@@ -1,0 +1,5 @@
+[/EN#166289/people A man] is holding [/EN#166291/other a cigarette] [/EN#166293/scene outdoors] in front of [/EN#166290/other a blue wall] with [/EN#166292/other a sink] on [/EN#0/notvisual it] .
+[/EN#166289/people A middle-aged man] stands in front of [/EN#166290/other a blue wall] with [/EN#166291/other a cigarette] in [/EN#166294/bodyparts his hand] .
+[/EN#166289/people A man] standing in front of [/EN#166290/other a blue wall] in [/EN#166295/clothing a brown shirt] and [/EN#166296/clothing white pants] .
+[/EN#166289/people A man] standing in front of [/EN#166290/other a blue wall] looking down while smoking .
+[/EN#166289/people A scowling man] stands in front of [/EN#166290/other a vivid blue wall] .

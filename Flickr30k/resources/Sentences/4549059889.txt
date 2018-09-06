@@ -1,0 +1,5 @@
+[/EN#177339/people A woman] in [/EN#177352/clothing a brown shirt] and [/EN#177353/clothing black pants] is pushing [/EN#177345/people someone] in [/EN#177343/other a wheelchair] down [/EN#177348/other a tree] lined [/EN#177342/scene street] on [/EN#177347/scene a sunny day] .
+[/EN#177339/people A woman] with [/EN#177354/bodyparts long curly brown hair] pushing [/EN#177341/people someone] in [/EN#177343/other a wheelchair] down [/EN#177342/scene a street] filled with [/EN#177351/people people] .
+[/EN#177339/people A woman] pushing [/EN#177340/people another person] in [/EN#177343/other a wheelchair] on [/EN#177342/scene a large street] outside .
+[/EN#177339/people A woman] dressed in [/EN#177339/other dark colors] pushing [/EN#177345/people someone] in [/EN#177343/other a wheelchair] .
+[/EN#177339/people a woman] pushing [/EN#177345/people someone] in [/EN#177343/other a wheelchair] in [/EN#177346/scene a park] .

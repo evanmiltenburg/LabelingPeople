@@ -1,0 +1,5 @@
+[/EN#201971/people A young man] is looking around [/EN#201973/scene a corner] while holding [/EN#201972/other his phone] in [/EN#201977/bodyparts his hands] .
+[/EN#201971/people A man] in [/EN#201975/clothing a white t-shirt] holding [/EN#201972/other a cellphone] is standing on [/EN#201973/scene a street corner] .
+[/EN#201971/people A dark-haired man] in [/EN#201975/clothing a white t-shirt] with [/EN#201972/other a cellphone] looks down [/EN#201974/scene a street] .
+[/EN#201971/people A man] with [/EN#201976/bodyparts dark hair] wearing [/EN#201975/clothing a white t-shirt] on [/EN#201973/scene a street corner] .
+[/EN#201971/people A man] is standing at [/EN#201974/scene a urban intersection] .

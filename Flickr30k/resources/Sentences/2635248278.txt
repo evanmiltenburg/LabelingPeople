@@ -1,0 +1,5 @@
+[/EN#62910/people A man] dressed in [/EN#62914/clothing blue] holding [/EN#62912/other an orange bucket] stands in [/EN#62911/scene the sea] , with [/EN#62913/animals a swan-like bird] in [/EN#0/notvisual the distance] .
+[/EN#62910/people A middle-aged man] is standing in [/EN#62911/scene a body of water] with [/EN#62912/other a yellow bucket] and [/EN#62915/other a toothpick] in [/EN#62917/bodyparts his mouth] .
+[/EN#62910/people A man] in [/EN#62914/clothing blue clothing] carries [/EN#62912/other a yellow bucket] while walking in [/EN#62911/scene the water] near [/EN#62913/animals a pelican] .
+[/EN#62910/people A gray-haired man] is standing in [/EN#62911/scene the water] with [/EN#62912/other a yellow bucket] .
+[/EN#62910/people The man] is standing in [/EN#62911/scene the water] with [/EN#62912/other a yellow bucket] .

@@ -1,0 +1,5 @@
+[/EN#275445/people A group of people] sitting around [/EN#275447/other a table] playing [/EN#275446/other some kind of board or card game] .
+[/EN#275445/other Five people of different ages] are sitting at [/EN#275447/other the table] playing [/EN#275446/other a board game] .
+[/EN#275445/people A group of people] play [/EN#275446/other a card game] at [/EN#275447/other a table] in [/EN#275449/scene a building] .
+[/EN#275448/people Foursome] plays [/EN#275446/other a board or card game] seated at [/EN#275447/other a table] .
+[/EN#275445/people A group of five people] play [/EN#275446/other a game] .

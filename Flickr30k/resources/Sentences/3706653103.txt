@@ -1,0 +1,5 @@
+[/EN#138337/people a bicyclist] wearing [/EN#138345/clothing a helmet] jumping [/EN#0/notvisual a trick] on [/EN#138341/other his back tire]
+[/EN#138337/people A man] is performing [/EN#0/notvisual a trick] on [/EN#138338/vehicles a bicycle] at [/EN#138339/scene a rocky beach] .
+[/EN#138337/people A man] on [/EN#138338/vehicles a white bike] doing [/EN#0/notvisual tricks] on [/EN#0/notvisual rocky ground] .
+[/EN#138337/people A guy] on [/EN#138338/vehicles his bike] doing [/EN#138344/vehicles a truck] on [/EN#138339/scene a rocky beach] .
+[/EN#138337/people A man] pops [/EN#138340/other a wheelie] on [/EN#138338/vehicles a bike] on [/EN#138339/scene a rocky beach] .

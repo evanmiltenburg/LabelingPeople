@@ -1,0 +1,5 @@
+[/EN#39074/people A mechanic] holding [/EN#39076/people part of an engine puller] in [/EN#39074/scene a repair shop] .
+[/EN#39074/people An old man] in [/EN#39075/clothing a blue shirt] holds onto [/EN#39076/other a metal device] .
+[/EN#39074/people Man] wearing [/EN#39075/clothing a blue shirt] holding [/EN#39076/other a chain] .
+[/EN#39074/people A man] in [/EN#39079/clothing work clothes] is holding [/EN#39078/other a chain] .
+[/EN#39074/people A man] working in [/EN#39074/scene a machine shop] .

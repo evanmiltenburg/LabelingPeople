@@ -1,0 +1,5 @@
+[/EN#24074/people A woman] with [/EN#24075/clothing a black shirt] and [/EN#24076/clothing tan apron] is standing behind [/EN#24077/other a counter] in [/EN#24080/scene a restaurant] .
+[/EN#24074/people A female barista] dressed in [/EN#24075/clothing black] is making [/EN#24078/other coffee] behind [/EN#24077/other a counter] .
+[/EN#24074/people A girl] in [/EN#24075/clothing a black shirt] is smiling as [/EN#0/notvisual she] works behind [/EN#24077/scene a bar] .
+[/EN#24074/people A happy woman] is preparing [/EN#24078/other a refreshment] at [/EN#24080/scene a coffee shop] .
+[/EN#24074/people A young woman] is working in [/EN#24080/scene a kitchen] .

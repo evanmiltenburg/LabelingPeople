@@ -1,0 +1,5 @@
+[/EN#63528/people A lady] is wearing [/EN#63535/clothing jeans] and [/EN#63533/clothing a cardboard costume] designed to look like [/EN#63530/other the cartoon character Wall-E]
+[/EN#63529/people Two women] wearing [/EN#63532/clothing unusual outfits] standing among [/EN#63537/other others] [/EN#0/notvisual who] are more normally dressed .
+[/EN#63529/people Two children] wearing [/EN#63532/clothing cardboard costumes] are standing amongst [/EN#63531/people a large crowd of people] .
+[/EN#63529/people Two girls] in [/EN#63531/people a crowd] are dressed up , [/EN#63528/other one] as [/EN#63530/other the cartoon character Wall-E] .
+[/EN#63528/people A girl] is dressed up as [/EN#63530/other Wall-E] [/EN#63528/other the robot] .

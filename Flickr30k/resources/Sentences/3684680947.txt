@@ -1,0 +1,5 @@
+[/EN#136663/people A girl] holding [/EN#136668/clothing a bag] walks down [/EN#136665/scene the street] in front of [/EN#136669/scene the chief justice 's office] .
+[/EN#136663/people A child] carrying [/EN#136667/other something] in [/EN#136670/clothing their shirt] walks in [/EN#136666/other the rain] on [/EN#136665/scene the street] .
+[/EN#136663/people A boy] in [/EN#136664/clothing a red shirt] walks down [/EN#136665/scene the street] through [/EN#136666/other heavy rain] .
+[/EN#136663/people A boy] walks in [/EN#136666/other the rain] with [/EN#136667/other tennis balls] in [/EN#136664/clothing his shirt] .
+[/EN#136663/people A boy] in [/EN#136664/clothing yellow] walks down [/EN#136665/scene the street] .

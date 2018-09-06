@@ -1,0 +1,5 @@
+[/EN#44987/animals A white dog] and [/EN#44986/animals a black dog] holding [/EN#44989/other a toy] between [/EN#0/notvisual them] in [/EN#44993/bodyparts their mouths] .
+[/EN#44986/animals A black dog] and [/EN#44987/animals a white dog] are [/EN#44988/scene outside] playing with [/EN#44989/other a pull toy] .
+[/EN#44992/clothing a black] and [/EN#44987/animals a white dog] play with [/EN#44989/other a rope toy] in [/EN#44988/scene a backyard]
+[/EN#44986/animals A black dog] and [/EN#44987/animals a yellow dog] play with [/EN#44989/other a toy] .
+[/EN#44990/animals Two dogs] wrestle with [/EN#44989/other a toy] in [/EN#44991/scene the backyard] .

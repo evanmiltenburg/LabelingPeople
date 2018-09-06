@@ -1,0 +1,5 @@
+[/EN#246796/people A man] wearing [/EN#246804/clothing a light blue shirt] and [/EN#246799/people a woman] with [/EN#246805/clothing a black and white blouse] are sitting at [/EN#246798/other a table] , behind [/EN#246797/scene an ornate fence] with [/EN#246802/other some vines] attached to [/EN#0/notvisual it] .
+[/EN#246796/people A man] and [/EN#246799/people a woman] are seen through [/EN#246797/scene the fence] seated at [/EN#246798/other a table] , staring into [/EN#246800/bodyparts each other 's eyes] .
+[/EN#246795/people Two people] , [/EN#246796/people one male] and [/EN#246799/people one female] are sitting at [/EN#246798/other a table] staring into [/EN#246800/bodyparts each others eyes] .
+[/EN#246795/people A couple] sitting together at [/EN#246798/other a small circular table] in [/EN#246803/scene an older looking rustic building] .
+[/EN#246796/people A spruced up man] and [/EN#246799/people woman] sit at [/EN#246798/other a small , circular table] , imbibing [/EN#246801/other wine] .

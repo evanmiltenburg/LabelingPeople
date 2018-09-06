@@ -1,0 +1,5 @@
+[/EN#74974/people A man] wearing [/EN#74976/clothing a hat] is working at [/EN#74975/scene the construction site] and smiling in [/EN#0/notvisual the camera] , and [/EN#74982/people the other man] is standing behind .
+[/EN#74974/people a man] smiling at [/EN#74975/scene a construction site] while laying [/EN#74977/other bricks]
+[/EN#74974/people A man] with [/EN#74979/other a wide brim] hat [/EN#74981/other lays bricks] .
+[/EN#74974/people A dark-skinned man] is laying [/EN#74977/other bricks] .
+[/EN#74974/people A man] with [/EN#74976/clothing hat] on [/EN#74980/other builds] [/EN#74978/scene a house] .

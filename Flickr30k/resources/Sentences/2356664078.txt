@@ -1,0 +1,5 @@
+[/EN#43892/animals Three dogs] , [/EN#43897/animals one Rottweiler] with [/EN#43894/other a tennis ball] in [/EN#43895/bodyparts its mouth] , [/EN#43899/other one Irish Setter] and [/EN#43898/animals one Corgi] are running in [/EN#43893/scene field] .
+[/EN#43892/animals Three dogs] trot on [/EN#43893/scene a stretch of grass] , and [/EN#43897/animals one dog] is carrying [/EN#43894/other a tennis ball] .
+[/EN#43892/animals Three dogs] with [/EN#43896/bodyparts tongues] out running on [/EN#43893/scene the grass] with [/EN#43894/other a tennis ball] .
+[/EN#43892/animals Three dogs] are running [/EN#0/notvisual side] by [/EN#0/notvisual side] on [/EN#43893/scene the grass] .
+[/EN#43892/animals Three dogs] running in [/EN#43893/scene a field] .

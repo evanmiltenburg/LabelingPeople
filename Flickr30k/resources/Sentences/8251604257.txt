@@ -1,0 +1,5 @@
+[/EN#280887/people A smiling young boy] , wearing [/EN#280890/clothing a green sweatshirt] and carrying [/EN#280889/other a small blue net] , walks towards [/EN#280888/scene the beach] on [/EN#280892/scene a rocky shoreline] .
+[/EN#280887/people A smiling boy] with [/EN#280900/bodyparts blond-hair] and [/EN#280889/other a net] on [/EN#280894/other a pole] walks away from [/EN#280896/other the tide] on [/EN#280888/scene a beach] strewn with [/EN#280897/other rocks] and [/EN#280898/other seaweed] .
+[/EN#280887/people Boy] in [/EN#280890/clothing large green shirt] carrying [/EN#280889/other a blue shovel] walks towards [/EN#0/notvisual the camera] with [/EN#280888/scene an ocean] behind [/EN#0/notvisual him] .
+[/EN#280887/people A young boy] walking through [/EN#280893/scene the water] with [/EN#280889/other a net] with [/EN#280899/scene waves] behind [/EN#0/notvisual him] .
+[/EN#280887/people A little boy] with [/EN#280894/other a net] at [/EN#280888/scene the beach] walks back to [/EN#280891/scene shore] .

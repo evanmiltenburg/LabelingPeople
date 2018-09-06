@@ -1,0 +1,5 @@
+[/EN#206182/people An Asian man] and [/EN#206183/people woman] wearing [/EN#206189/other badges or IDs] are sitting at [/EN#206185/other a blue table] in [/EN#206186/scene a brightly-lit food court] .
+[/EN#206182/people A man] and [/EN#206183/people a laughing woman] sit at [/EN#206185/other a blue table] with [/EN#206188/other a Styrofoam box] on [/EN#0/notvisual it] .
+[/EN#206182/people A man] and [/EN#206183/people woman] with [/EN#206190/clothing glasses] are sitting at [/EN#206185/other a blue table] .
+[/EN#206184/people Two Asian people] sit at [/EN#206185/other a blue table] in [/EN#206186/scene a food court] .
+[/EN#206184/people Two Asian people] sitting down .

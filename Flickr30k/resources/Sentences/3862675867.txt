@@ -1,0 +1,5 @@
+[/EN#146169/people A large crowd of people] are congregated between [/EN#146170/scene a busy street] and [/EN#146174/scene a tall building] .
+[/EN#146169/other A crowd of people forms] across [/EN#146170/scene the city street] filled with [/EN#146175/vehicles traffic] .
+[/EN#0/notvisual It] is [/EN#146173/scene a sunny busy day] as [/EN#146169/people people] gather on [/EN#146170/scene a city street] .
+[/EN#146169/people A crowd of people] is standing outside next to [/EN#146170/scene a street] .
+[/EN#146171/people Many people] in [/EN#146172/scene a crowded city] .

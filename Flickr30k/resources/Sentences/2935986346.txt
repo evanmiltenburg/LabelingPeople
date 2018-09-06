@@ -1,0 +1,5 @@
+[/EN#82501/animals A dog] with [/EN#82502/clothing a muzzle] in [/EN#82503/scene the grass] and [/EN#82505/other sunlight] .
+[/EN#82501/animals A gray dog] wearing [/EN#82502/clothing a muzzle] runs over [/EN#82504/scene grass] .
+[/EN#82501/animals The furry black dog] is sitting on [/EN#82503/scene the grass]
+[/EN#82501/animals A gray dog] with [/EN#82502/clothing a muzzle] running .
+[/EN#82501/animals A dog] runs through [/EN#82504/scene the grass] .

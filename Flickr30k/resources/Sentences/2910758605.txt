@@ -1,0 +1,5 @@
+[/EN#80758/people A couple] are walking along [/EN#80762/scene a street] while [/EN#80759/people the man] carries [/EN#80760/people a toddler] over [/EN#80761/bodyparts one shoulder] .
+[/EN#80759/people The man] walking next to [/EN#80758/people the woman] up [/EN#80763/other the steps] has [/EN#80760/people a sleeping child] on [/EN#80761/bodyparts his shoulder] .
+[/EN#80758/people A couple] is walking away while [/EN#80760/people an infant] sleeps on [/EN#80761/bodyparts the father 's shoulders] .
+[/EN#80759/people A man] holding [/EN#80760/people a sleeping child] walks with [/EN#80758/people a woman] .
+[/EN#80759/people A man] carries [/EN#80760/people a child] while [/EN#0/notvisual he] walks with [/EN#80758/people a woman] .

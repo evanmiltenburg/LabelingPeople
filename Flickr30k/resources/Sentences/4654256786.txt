@@ -1,0 +1,5 @@
+[/EN#187267/people A young man] sitting at [/EN#187271/other a table] in [/EN#187270/scene a long room] with [/EN#187275/other food counters] and [/EN#187274/people customers] .
+[/EN#187267/people A boy] wearing [/EN#187268/clothing a black tee-shirt] sits to enjoy [/EN#187273/other a meal] at [/EN#187270/scene a fast food restaurant] .
+[/EN#187267/people A man] wearing [/EN#187268/clothing a black shirt] is sitting by [/EN#0/notvisual himself] at [/EN#187269/scene a deli or restaurant] .
+[/EN#187267/people A man] is sitting at [/EN#187271/other a table] in [/EN#187269/scene a restaurant] with [/EN#187272/other his back] turned .
+[/EN#187267/people A man] sits with [/EN#187272/other his back] to [/EN#0/notvisual the camera] .

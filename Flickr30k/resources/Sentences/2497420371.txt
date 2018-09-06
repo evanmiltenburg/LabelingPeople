@@ -1,0 +1,5 @@
+[/EN#53398/people A man] outside at [/EN#53404/scene a red brick building] with [/EN#53401/vehicles a grocery cart] , [/EN#53400/vehicles a bike] , and miscellaneous .
+[/EN#53398/people A man] in [/EN#53403/clothing a black cap] is opening [/EN#53399/clothing a bag] beside [/EN#53400/vehicles a bicycle] and [/EN#53401/vehicles a shopping cart] .
+[/EN#53398/people A man] fiddles with [/EN#53399/scene a shopping bag outside] near [/EN#53402/vehicles a shopping cart] .
+[/EN#53398/people A man] looks in [/EN#53399/clothing a bag] near [/EN#53402/vehicles some grocery carts] and [/EN#53400/vehicles a bike] .
+[/EN#53398/people A man] gathers [/EN#53407/other his belongings] by [/EN#53406/scene the side of a building] .

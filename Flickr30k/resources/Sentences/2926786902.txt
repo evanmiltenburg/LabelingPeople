@@ -1,0 +1,5 @@
+[/EN#82002/people A skiing man] in [/EN#82003/clothing a fluorescent jacket] jumps very high and [/EN#0/notvisual it] looks as though [/EN#0/notvisual he] is flying .
+[/EN#82002/people The skier] in [/EN#82003/clothing the green jacket] and [/EN#82007/clothing white pants] appears to almost fly into [/EN#82005/scene the sky] .
+[/EN#82002/people A skier] in [/EN#82003/clothing a yellow jacket] is airborne above [/EN#82004/scene the mountains] .
+[/EN#82002/people A skier] jumps high in [/EN#0/notvisual the air] with [/EN#82004/scene a view of the mountains] .
+[/EN#82008/other Somone] is high in [/EN#0/notvisual the air] doing [/EN#0/notvisual a ski jump] .

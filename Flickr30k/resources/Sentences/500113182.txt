@@ -1,0 +1,5 @@
+[/EN#226550/people A little girl] in [/EN#226554/people a black jumper] is climbing [/EN#226551/scene a chain link gate] .
+[/EN#226550/people Young child] in [/EN#226553/clothing black overalls] attempting to climb over [/EN#226552/scene a fence]
+[/EN#226550/people A child] in [/EN#226553/clothing overalls] tries to climb [/EN#226552/scene a chain link fence] .
+[/EN#226550/people A little kid] is climbing [/EN#226551/scene a gate] to [/EN#226552/scene a wire fence] .
+[/EN#226550/people A boy] is trying to climb over [/EN#226551/scene a gate] .

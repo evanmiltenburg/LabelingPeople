@@ -1,0 +1,5 @@
+[/EN#41109/animals White dog] with [/EN#41116/scene tan spot] leaping over [/EN#41113/scene snow] covered [/EN#41111/other object] with [/EN#41118/other white and black dog behind] .
+[/EN#41109/animals A small dog] in [/EN#41119/clothing a harness] jumps over [/EN#41110/other a snow covered log] while [/EN#41115/animals another dog] watches .
+[/EN#41109/animals A brown and white dog] is leaping over [/EN#41110/other a log] near [/EN#41117/scene water] in [/EN#41113/scene the snow] .
+[/EN#41109/animals The white dog] leaping over [/EN#41110/other a snow covered log] .
+[/EN#41109/animals a dog] jumps over [/EN#41112/other a fallen tree] .

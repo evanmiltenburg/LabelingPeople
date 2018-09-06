@@ -1,0 +1,5 @@
+[/EN#52264/people A man] in [/EN#52268/clothing a red shirt] climbs [/EN#52269/other a rock] while [/EN#52265/people another man] stands behind to help [/EN#0/notvisual him] .
+[/EN#52265/people A man] wearing [/EN#52266/clothing a brown sweatshirt] helps [/EN#52264/people a man] in [/EN#52268/scene red climb] [/EN#52269/other a rock] .
+[/EN#52264/people A guy] tries to climb [/EN#52267/scene a stone cliff] while [/EN#52265/people his friend] helps [/EN#0/notvisual him] .
+[/EN#52264/people A man] in [/EN#52268/clothing a red shirt] is learning how to climb [/EN#52267/scene a cliff] .
+[/EN#52265/people A man] in [/EN#52266/clothing brown] is helping [/EN#52264/people a man] in [/EN#52268/scene red climb] [/EN#52269/other a rock] .

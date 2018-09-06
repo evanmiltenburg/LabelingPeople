@@ -1,0 +1,5 @@
+[/EN#272009/people A young girl] in [/EN#272015/clothing a blue bathing suit] jumps off of [/EN#272012/scene a yellow slide] into [/EN#272010/scene the water] .
+[/EN#272009/people A little girl] jumps from [/EN#272013/other the yellow ladder] into [/EN#272010/scene the swimming pool] .
+[/EN#272009/people A girl] is jumping into [/EN#272010/scene a pool] with [/EN#272014/other two] slides behind [/EN#0/notvisual her] .
+[/EN#272009/people A girl] goes down [/EN#272012/scene a yellow slide] into [/EN#272010/scene a pool] .
+[/EN#272009/people A child] jumping from [/EN#272012/scene a slide] into [/EN#272010/scene a pool] .

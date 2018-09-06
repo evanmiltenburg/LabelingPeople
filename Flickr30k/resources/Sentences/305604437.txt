@@ -1,0 +1,5 @@
+[/EN#90607/people Two people] , [/EN#90608/other one] in [/EN#90609/clothing a white shirt] and [/EN#90610/other one] in [/EN#90611/clothing a red shirt] , drink [/EN#90612/other beer] together at [/EN#90613/scene a bar] .
+[/EN#90610/people A brown-haired man] with [/EN#90611/clothing a red shirt] drinking at [/EN#90613/scene a bar] with [/EN#90608/people a woman] in [/EN#90609/clothing a white jacket] .
+[/EN#90610/people A man] and [/EN#90608/people a woman] sit at [/EN#90613/scene a bar] outside , [/EN#90616/other each] holding [/EN#90617/other a full glass of beer] .
+[/EN#90610/people A man] and [/EN#90608/people woman] are drinking [/EN#90618/scene beer outdoors] at [/EN#90619/scene night] .
+[/EN#90607/people A young couple] enjoys [/EN#90612/other a drink] together .

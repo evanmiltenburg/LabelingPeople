@@ -1,0 +1,5 @@
+[/EN#181517/people People] can be seen walking down [/EN#181519/scene a quaint city street] , past [/EN#181520/scene colorful buildings] and [/EN#181522/people cafe customers] sitting under [/EN#181525/other parasols] , with [/EN#181526/vehicles no cars] in [/EN#181527/other sight] .
+[/EN#181515/people A man] wearing [/EN#181518/clothing a black shirt] and [/EN#181524/clothing jeans] , is walking down [/EN#181519/scene the street] with [/EN#181528/bodyparts his hands] in [/EN#181523/clothing his pockets] .
+[/EN#181517/people People] walk down [/EN#181519/scene a sidewalk] lined with [/EN#181520/scene pastel colored buildings] .
+[/EN#181515/people A man] wearing [/EN#181518/clothing a black shirt] is walking down [/EN#181516/scene the street] .
+[/EN#181516/scene A serene city street] on [/EN#181521/scene a sunny day] .

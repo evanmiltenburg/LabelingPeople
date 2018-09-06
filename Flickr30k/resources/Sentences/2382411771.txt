@@ -1,0 +1,5 @@
+[/EN#45386/animals A tan dog] is on top of and growling at [/EN#45386/animals a doberman] wearing [/EN#45391/clothing a collar] in [/EN#45388/scene the grass] .
+[/EN#45386/animals A white dog] wrestles with [/EN#45386/animals a black and brown dog] on [/EN#45388/scene the green grass] .
+[/EN#45390/animals Two dogs] wrestle either in [/EN#0/notvisual fun] or fight on [/EN#45388/scene a grassy lawn] .
+[/EN#45392/clothing Black] and [/EN#45386/animals tan dog] play fighting with [/EN#45386/animals a white and tan dog] .
+[/EN#45386/animals A black dog] and [/EN#45386/animals a tan dog] wrestle .

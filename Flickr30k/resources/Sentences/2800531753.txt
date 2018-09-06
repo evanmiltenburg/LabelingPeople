@@ -1,0 +1,5 @@
+[/EN#73689/people A person] wearing [/EN#73693/clothing an orange shirt] with [/EN#73691/clothing a backpack] on looking across [/EN#73695/other a segment of lush green trees] .
+[/EN#73689/people A white person] in [/EN#73690/clothing black pants] is looking at [/EN#73696/scene the scenery] around [/EN#0/notvisual them] .
+[/EN#73689/people Person] with [/EN#73694/clothing a red] backpackers going for [/EN#73692/other a hike] .
+[/EN#73689/people A hiker] is standing on [/EN#73697/scene the side of a mountain] .
+[/EN#73689/people A backpacker] enjoying [/EN#73692/other a view of nature] .

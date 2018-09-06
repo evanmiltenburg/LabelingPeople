@@ -1,0 +1,5 @@
+[/EN#90489/people A man] in [/EN#90490/clothing a coat] and [/EN#90491/other coveralls] is tying [/EN#90492/other a rope] [/EN#0/notvisual that] has been thrown over [/EN#90500/vehicles/scene the side of a boat] .
+[/EN#90489/people A man] wearing [/EN#90491/clothing yellow overalls] and [/EN#90494/clothing a baseball cap] holds [/EN#90495/other a rope] while out to [/EN#90497/scene sea] on [/EN#90501/vehicles/scene a boat] .
+[/EN#90489/people A worker] on [/EN#90502/other a ship] is looking off into [/EN#90498/scene the sea] while tying [/EN#90495/other a knot] in [/EN#90492/other a rope] .
+[/EN#90489/people A man] watches [/EN#90499/scene the waves] from [/EN#90502/other the ship deck] as [/EN#0/notvisual he] ties [/EN#90492/other a rope] .
+[/EN#90489/people A man] in [/EN#90491/other yellow rain gear] on [/EN#90501/vehicles/scene a boat]

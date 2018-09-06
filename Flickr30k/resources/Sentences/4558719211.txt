@@ -1,0 +1,5 @@
+[/EN#178426/people Two people] walking in front of [/EN#178427/scene a Vietnamese store] [/EN#0/notvisual which] has graffiti [/EN#178430/people all] over [/EN#178432/scene the gates] .
+[/EN#178426/people Two people] stroll in front of [/EN#178425/scene a Vietnamese restaurant] [/EN#0/notvisual that] has [/EN#178428/other graffiti] painted on [/EN#0/notvisual it] .
+[/EN#178426/people Someone] is walking in front of [/EN#178427/scene a building] with [/EN#178428/other graffiti] on [/EN#0/notvisual it] .
+[/EN#178425/scene These Asian restaurants] are covered in [/EN#178428/other graffiti] .
+[/EN#178426/people Two people] are waling down [/EN#178431/scene an empty sidewalk] .

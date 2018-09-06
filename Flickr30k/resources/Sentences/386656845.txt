@@ -1,0 +1,5 @@
+[/EN#146319/animals A little tan dog] is in [/EN#146324/other confrontation] with [/EN#146320/animals a large black dog] in [/EN#146323/scene the snow] .
+[/EN#146319/animals A black dog] and [/EN#146320/animals a brown dog] are standing next to [/EN#0/notvisual each other] in [/EN#146323/scene the snow] .
+[/EN#146319/animals A scruffy golden dog] meeting [/EN#146320/animals a black Doberman] in [/EN#146323/scene the snow] .
+[/EN#146321/animals Two dogs] standing in [/EN#146323/scene snow] .
+[/EN#146321/animals Two dogs] in [/EN#146323/scene the snow] .

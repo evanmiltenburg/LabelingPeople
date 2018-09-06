@@ -1,0 +1,5 @@
+[/EN#165419/people A man] wearing [/EN#165422/clothing a black hat] and [/EN#165421/clothing heavy green coat] harnesses [/EN#165420/animals a black horse] wearing [/EN#165425/clothing a teal] and [/EN#165425/other pink blanket] .
+[/EN#165419/people A man] in [/EN#165421/clothing a green coat] checks [/EN#165424/other the carriage equipment] hooked up to [/EN#165420/animals his black horse] .
+[/EN#165419/people A man] in [/EN#165421/clothing a dark green jacket] is hitching [/EN#165420/animals a black horse] to [/EN#165423/other a black pole] .
+[/EN#165419/people A man] in [/EN#165421/clothing a green jacket] is looking after [/EN#165420/animals a black horse] .
+[/EN#165419/people A rider] is being ready to ride [/EN#165420/animals a horse] .

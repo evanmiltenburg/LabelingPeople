@@ -1,0 +1,5 @@
+[/EN#74706/animals A group of dogs] runs down [/EN#74707/scene a path] through [/EN#74707/scene dry grass] and [/EN#74708/scene bushes] .
+[/EN#74706/animals Five brown dogs] are walking down [/EN#74707/scene a grassy path] .
+[/EN#74706/animals Many dogs] are running [/EN#74709/scene the same way] in [/EN#74707/scene a field] .
+[/EN#74706/animals A pack of dogs] are running away down [/EN#74707/scene a trail] .
+[/EN#74706/animals brown dogs] are running down [/EN#74707/scene a trail]

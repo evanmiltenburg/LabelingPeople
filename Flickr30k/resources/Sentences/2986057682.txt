@@ -1,0 +1,5 @@
+[/EN#85620/people A young blond child] in [/EN#85621/clothing a green shirt] and [/EN#85622/clothing blue pants] running through [/EN#85624/other the sand] .
+[/EN#85620/people A young boy] in [/EN#85621/clothing a green shirt] and [/EN#85622/clothing purple pants] is running across [/EN#85624/other the sand] .
+[/EN#85620/people A blond boy] wearing [/EN#85621/clothing a green shirt] is running after [/EN#85623/other a flying toy] .
+[/EN#85620/people A boy] in [/EN#85621/clothing a green short] is running in [/EN#85624/other the sand] .
+[/EN#85620/people A boy] in [/EN#85621/clothing a green shirt] running in [/EN#85624/other the sand] .

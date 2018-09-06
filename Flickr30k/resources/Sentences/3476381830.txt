@@ -1,0 +1,5 @@
+[/EN#121160/people A person] wearing [/EN#121161/clothing a purple shirt] stands on [/EN#121162/other a skateboard] at [/EN#121164/other the top of a small stairway] .
+[/EN#121160/people a boy] wearing [/EN#121161/clothing a red shirt] on [/EN#121162/other a skateboard] jumps up [/EN#121163/other some stairs]
+[/EN#121160/people A skateboarder] jumps off [/EN#121163/other the stairs] .
+[/EN#121160/people A guy] is skateboarding .
+[/EN#121160/people A dancer] on [/EN#121163/other steps] .

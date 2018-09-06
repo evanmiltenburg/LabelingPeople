@@ -1,0 +1,5 @@
+[/EN#181448/people Two men] , [/EN#181447/other one] playing [/EN#181449/instruments a purple guitar] and [/EN#181450/other the other] playing [/EN#181451/instruments an accordion] , sitting on [/EN#181456/other stone steps] .
+[/EN#181447/people One man] plays [/EN#181449/instruments an acoustic guitar] , while [/EN#0/notvisual another] accompanies [/EN#0/notvisual him] on [/EN#181451/instruments the accordion] .
+[/EN#181447/people A man] with [/EN#181449/instruments a guitar] and [/EN#181450/people a man] with [/EN#181452/instruments an accordion] sit playing [/EN#181451/instruments their instruments] .
+[/EN#181447/people A man] plays [/EN#181449/instruments a purple guitar] while sitting next to [/EN#181450/people a man] playing [/EN#181452/instruments the accordion] .
+[/EN#181448/people Two males] are sitting down playing [/EN#181451/instruments musical instruments] .

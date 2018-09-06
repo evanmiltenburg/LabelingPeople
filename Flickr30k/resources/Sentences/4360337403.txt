@@ -1,0 +1,5 @@
+[/EN#164828/people a man] is climbing [/EN#164829/other a wall] with [/EN#164832/clothing blue] , [/EN#164833/clothing orange] and [/EN#164835/other purple pegs] in [/EN#0/notvisual it] .
+[/EN#164828/people A man] with [/EN#164831/clothing a blue harness] climbing [/EN#164829/other a climbing wall] .
+[/EN#164828/people A man] wearing [/EN#164834/clothing pants] is on [/EN#164829/other a rock climb wall] .
+[/EN#164828/people A person] is climbing [/EN#164829/other a rock-climbing wall] .
+[/EN#164830/people A woman] climbing [/EN#164829/other an indoor rock wall] .

@@ -1,0 +1,5 @@
+[/EN#113512/people A man] is slouching on [/EN#113516/other a couch] with [/EN#113514/people people] walking and sitting around [/EN#0/notvisual him] .
+[/EN#113512/people A man] curls up while sitting on [/EN#113516/other a couch] in [/EN#113517/scene a busy public area] .
+[/EN#113512/people A person] in [/EN#113515/clothing a baseball cap] and [/EN#113518/clothing jeans] resting on [/EN#113516/other a brown couch] .
+[/EN#113512/people A man] wearing [/EN#113515/clothing a hat] sleeping in [/EN#113516/other a large brown chair] .
+[/EN#113514/people People] sit and walk through [/EN#113517/scene a crowded area] .

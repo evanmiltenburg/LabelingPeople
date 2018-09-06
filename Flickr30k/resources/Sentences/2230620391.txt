@@ -1,0 +1,5 @@
+[/EN#35640/people A baby] in [/EN#35642/clothing an orange suit] is playing with [/EN#35641/other some strings of beads] .
+[/EN#35640/people A baby] is playing with [/EN#35641/clothing a long bead necklace] on [/EN#35645/scene the floor] .
+[/EN#35640/people A baby] dressed in [/EN#35642/clothing orange] plays with [/EN#35641/clothing a necklace] .
+[/EN#35640/people A baby] is playing with [/EN#35641/other a string of beads] .
+[/EN#35640/people A baby] is playing with [/EN#35641/other a strand of beads] .

@@ -1,0 +1,5 @@
+[/EN#234458/people A person] wearing [/EN#234466/clothing an Asian farmer 's hat] is riding [/EN#234459/vehicles a bicycle] passed [/EN#234457/people a man] in [/EN#234460/vehicles/scene a small boat] wearing [/EN#234467/clothing a similar hat] .
+[/EN#234457/people A person] rides [/EN#234459/vehicles a bike] down [/EN#234462/scene the road] , while [/EN#0/notvisual another] sits in [/EN#234460/vehicles/scene a boat] on [/EN#234463/scene the water] .
+[/EN#234457/people A person] on [/EN#234459/vehicles a bicycle] rides by [/EN#234457/people another person] on [/EN#234460/vehicles/scene a small boat] in [/EN#234463/scene a canal] .
+[/EN#234457/people A fisherman] tethered to [/EN#234465/scene a dock] while [/EN#234458/people someone] rides [/EN#234459/vehicles a bike] nearby
+[/EN#234458/people Asian] biking down [/EN#234462/scene a road] near [/EN#234463/scene the water] .

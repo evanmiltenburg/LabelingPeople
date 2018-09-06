@@ -1,0 +1,5 @@
+[/EN#34512/people A guy] is holding [/EN#34514/people a girl] , while [/EN#0/notvisual another] rests on [/EN#34518/bodyparts his shoulder] on [/EN#34515/vehicles/scene a metro train] .
+[/EN#34512/people A man] in [/EN#34516/clothing a white shirt] hugs [/EN#34514/people a girl] with [/EN#34517/bodyparts blond-hair] on [/EN#34515/vehicles/scene the subway] .
+[/EN#34512/people Three people] are sitting on [/EN#34515/vehicles/scene the subway] .
+[/EN#34512/people A man] wearing [/EN#34516/clothing white] holding [/EN#34519/people two girls] .
+[/EN#34512/people Three people] are sitting and resting .

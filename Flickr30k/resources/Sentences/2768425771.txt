@@ -1,0 +1,5 @@
+[/EN#71685/people A man] standing in front of [/EN#71686/vehicles a Verizon truck] wearing [/EN#71687/clothing a shirt] [/EN#0/notvisual that] says [/EN#71688/other " money] talks " , and drinking [/EN#71690/scene a bottle of water] .
+[/EN#71685/people A man] wearing [/EN#71687/clothing a shirt] [/EN#0/notvisual that] says [/EN#71688/other " money] talks " is drinking [/EN#71689/scene water] while leaning against [/EN#71686/vehicles a Verizon truck] .
+[/EN#71685/people A black man] wearing [/EN#71692/other sunglasses drinks] from [/EN#71691/other a plastic container] while standing next to [/EN#71686/vehicles a Verizon truck] .
+[/EN#71685/people A man] wearing [/EN#71687/clothing a t-shirt] [/EN#0/notvisual that] says [/EN#71688/other money] talks drinking [/EN#71689/scene water] next to [/EN#71686/vehicles a Verizon truck] .
+[/EN#71685/people A man] drinking [/EN#71689/scene water] with [/EN#71687/clothing a black shirt] on [/EN#0/notvisual that] reads [/EN#71688/other " money] talks " .

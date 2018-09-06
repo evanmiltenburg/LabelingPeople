@@ -1,0 +1,5 @@
+[/EN#269829/people A girl] in [/EN#269833/clothing a white tank top] posing with [/EN#269830/instruments a guitar] in front of [/EN#269831/other a red Chevelle] .
+[/EN#269829/people A young girl] in front of [/EN#269831/other a red an old red care] with [/EN#269830/instruments an old red guitar] .
+[/EN#269829/people A girl] is standing in front of [/EN#269831/vehicles an automobile] while holding [/EN#269830/instruments a guitar] .
+[/EN#0/notvisual She] is standing in front of [/EN#269831/vehicles a vintage car] and ready to play [/EN#269830/instruments guitar] .
+[/EN#269829/people A woman] in [/EN#269833/clothing a white shirt] and [/EN#269834/clothing shorts] is playing [/EN#269830/instruments a red guitar] .

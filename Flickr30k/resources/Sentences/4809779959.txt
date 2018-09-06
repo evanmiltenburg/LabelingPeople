@@ -1,0 +1,5 @@
+[/EN#205365/people A black lady] is walking down [/EN#205366/scene the sidewalk] has [/EN#205373/bodyparts a Afro] , wearing [/EN#205369/clothing brown trimmed sunglasses] in [/EN#205368/clothing short gray dress] [/EN#205371/clothing a blue jean jacket] carrying [/EN#205370/clothing a black bag] and talking on [/EN#205367/other a cellphone]
+[/EN#205365/people A black woman] with [/EN#205373/clothing an afro and glasses] walking down [/EN#205374/scene a street] in [/EN#205375/other chinatown] , talking on [/EN#205367/other the phone] and wearing [/EN#205372/clothing a multicolored scarf] .
+[/EN#205365/people Black woman] in [/EN#205368/clothing gray mini skirt] and [/EN#205369/clothing large sunglasses] talks on [/EN#205367/other a cellphone] as [/EN#0/notvisual she] walks down [/EN#205366/scene a busy city street] .
+[/EN#205365/people A trendy dressed black woman] talking on [/EN#205367/other her cellphone] and walking down [/EN#205366/scene a city street]
+[/EN#205365/people African American female] in [/EN#205368/clothing a gray dress] .

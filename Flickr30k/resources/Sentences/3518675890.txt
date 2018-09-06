@@ -1,0 +1,5 @@
+[/EN#124330/animals The skinny brown dog] is running through [/EN#124331/scene the tall green grass] .
+[/EN#124330/animals A light brown dog] is running through [/EN#124331/scene tall grass] .
+[/EN#124330/animals The brown dog] is running on [/EN#124331/scene the grass] .
+[/EN#124330/animals A brown dog] is running in [/EN#124332/scene a field] .
+[/EN#124330/animals Orange dog] runs across [/EN#124331/scene grass] .

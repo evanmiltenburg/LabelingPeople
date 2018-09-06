@@ -1,0 +1,5 @@
+[/EN#10636/people The man] is aiming to shoot [/EN#10641/other something] while [/EN#10638/animals his dog] watches .
+[/EN#10636/people A man] aiming [/EN#10639/other a rifle] with [/EN#10638/animals a dog] standing beside [/EN#0/notvisual him] .
+[/EN#10636/people Man] aiming [/EN#10639/other a rifle] with [/EN#10638/animals his dog] at [/EN#0/notvisual his side] .
+[/EN#10636/people A man] shoots [/EN#10639/other a rifle] while [/EN#10638/animals a dog] looks on .
+[/EN#10636/people A man] , [/EN#10639/other a gun] , and [/EN#10638/animals a dog] .

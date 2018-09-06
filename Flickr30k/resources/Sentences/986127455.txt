@@ -1,0 +1,5 @@
+[/EN#284983/people Man] walking down [/EN#284987/scene the street] is wearing [/EN#284986/clothing a black suit] and carrying [/EN#284984/clothing a small white bag] .
+[/EN#284983/people A person] with [/EN#284984/clothing a bag] walking in [/EN#284985/scene a big city] .
+[/EN#284988/people people] walking [/EN#284989/other a standing] in [/EN#284985/scene a city park] .
+[/EN#284983/people A woman] in [/EN#284986/clothing a black suit] is walking by .
+[/EN#284983/people A person] is walking with [/EN#284984/clothing a white bag] .

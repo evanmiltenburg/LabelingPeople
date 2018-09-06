@@ -1,0 +1,5 @@
+[/EN#57267/animals Black dog] with [/EN#57270/other tan markings] wearing [/EN#57271/clothing a blue collar] standing on [/EN#57268/scene green grass] .
+[/EN#57267/animals A black dog] is walking along [/EN#57268/scene the grass] sniffing at [/EN#0/notvisual the ground] .
+[/EN#57267/animals Black dog] on [/EN#57268/scene grass] , sniffing [/EN#0/notvisual the ground] .
+[/EN#57267/animals A black dog] running in [/EN#57268/scene the grass] .
+[/EN#57267/animals A dog] sniffs [/EN#57268/scene the grass] .

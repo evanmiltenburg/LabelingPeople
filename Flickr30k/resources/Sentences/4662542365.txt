@@ -1,0 +1,5 @@
+[/EN#188053/people A woman] walks down [/EN#188056/scene the sidewalk] , in front of [/EN#188054/other a blue tile mural] .
+[/EN#188053/people An old lady] with [/EN#188055/other a cane] is walking down [/EN#188056/scene the street] .
+[/EN#188053/people A woman] walks on [/EN#188056/scene a street] next to [/EN#188054/other a tiled mural] .
+[/EN#0/notvisual She] walks past [/EN#188054/other the beautiful blue mural] .
+[/EN#188053/people Woman] with [/EN#188055/other can] walking down [/EN#188056/scene street] .

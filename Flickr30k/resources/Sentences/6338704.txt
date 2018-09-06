@@ -1,0 +1,5 @@
+[/EN#253100/people Three people] cross [/EN#253102/scene the street] while [/EN#253101/people a crossing guard] in [/EN#253105/clothing an orange vest] stops [/EN#253106/vehicles traffic] .
+[/EN#253100/people People] are walking across [/EN#253103/scene the street] at [/EN#253102/scene a crosswalk] .
+[/EN#253100/people School children] crossing [/EN#253103/scene the road] at [/EN#253102/scene a crosswalk] .
+[/EN#253101/people a cross guard] helps [/EN#253100/people people] get across [/EN#253102/scene the street] .
+[/EN#253100/people Several people] walking across [/EN#253102/scene the street] .

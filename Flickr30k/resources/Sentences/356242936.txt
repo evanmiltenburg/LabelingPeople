@@ -1,0 +1,5 @@
+[/EN#127857/people A boy] in [/EN#127858/clothing a green and yellow suit] kickboxing [/EN#127860/other a punchbag] .
+[/EN#127857/people Kid] in [/EN#127858/clothing a green and yellow windbreaker] practicing [/EN#127857/other karate]
+[/EN#127857/people A boy] in [/EN#127858/clothing green and yellow dress] is learning boxing .
+[/EN#127857/people Young boy] delivers [/EN#127857/other a jumping martial arts] kick .
+[/EN#127857/people A boy] in [/EN#127858/clothing green and yellow attire] is training .

@@ -1,0 +1,5 @@
+[/EN#106643/animals Some chicken] , [/EN#106642/animals dogs] , and [/EN#106646/animals a turkey] are trying to get [/EN#106647/other some food] out of [/EN#106644/other a white bucket] .
+[/EN#106642/animals Puppies] , [/EN#106645/animals chickens] and [/EN#106646/animals a turkey] examining [/EN#106644/other bucket contents] on [/EN#106650/scene dirt] .
+[/EN#106642/animals Many white puppies] are eating [/EN#106647/other food] near [/EN#106651/animals several brown roosters] .
+[/EN#106642/animals A group of dogs] , [/EN#106645/animals chickens] and [/EN#106648/scene a turkey stand] by [/EN#106644/other a bucket] .
+[/EN#106642/animals Five white puppies] and [/EN#106643/animals several chickens] compete for [/EN#106647/other food]

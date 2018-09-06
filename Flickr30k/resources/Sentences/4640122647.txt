@@ -1,0 +1,5 @@
+[/EN#185642/people A Young woman] with [/EN#185646/bodyparts long hair] and [/EN#185647/clothing no helmet] is riding [/EN#185645/other a skateboard] in [/EN#185643/scene a park] with [/EN#185644/other a mural] behind [/EN#0/notvisual her] .
+[/EN#185642/people A young woman] skateboarding on [/EN#185643/scene an outdoor basketball court] in front of [/EN#185644/other a mural] .
+[/EN#185642/people A man] with [/EN#185646/bodyparts long hair] rides [/EN#185645/other a skateboard] through [/EN#185643/scene a basketball court] .
+[/EN#185642/people A girl] skateboarding in [/EN#185649/clothing red shoes] on [/EN#185648/scene pavement]
+Practicing skateboarding on [/EN#185650/other the court] .

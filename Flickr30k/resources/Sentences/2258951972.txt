@@ -1,0 +1,5 @@
+[/EN#37390/animals Two gray , speckled dogs] running down [/EN#37391/scene grass hill] , [/EN#37392/other trees] in [/EN#0/notvisual background] .
+[/EN#37390/animals Two identical dogs] bound across [/EN#37391/scene a lush green meadow] .
+[/EN#37390/animals Two large gray dogs] running through [/EN#37391/scene a grassy field] .
+[/EN#37390/animals Two gray dogs] run together over [/EN#37391/scene the green grass] .
+[/EN#37390/animals Two gray dogs] running in [/EN#37391/scene green grass] .

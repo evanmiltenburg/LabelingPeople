@@ -1,0 +1,5 @@
+[/EN#227237/people A dark-skinned man] wearing [/EN#227242/clothing a navy blue and white striped shirt] is eating [/EN#227247/other something] pink in [/EN#227241/other a cup] and has [/EN#227240/other a yellow water bottle] tucked under [/EN#227246/bodyparts/people one arm] .
+[/EN#227237/people A black man] in [/EN#227242/clothing a striped shirt] stands eating out of [/EN#227241/other a cup] , holding [/EN#227240/other a yellow water bottle] .
+[/EN#227237/people A dark man] in [/EN#227242/clothing a striped shirt] eats [/EN#227239/other a pink smoothie] and holds [/EN#227240/other a yellow water bottle] .
+[/EN#227237/people A man] is standing with [/EN#227238/other a cup] in [/EN#227245/bodyparts his hand] .
+[/EN#227237/people A man] enjoys [/EN#227243/other a treat] on [/EN#227248/scene a crowded street] .

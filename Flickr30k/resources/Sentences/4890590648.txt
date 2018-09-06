@@ -1,0 +1,5 @@
+[/EN#215383/people People] riding on [/EN#215381/vehicles a vehicle] [/EN#0/notvisual that] is being pulled by [/EN#215382/people another person] down [/EN#215389/scene a street] by [/EN#215386/scene the beach] .
+[/EN#215381/vehicles A geometrically decorated human pull cart] stops next to [/EN#215381/vehicles a Coca Cola cart] on [/EN#215386/scene the beach] .
+[/EN#215381/other A colorful rickshaw] with [/EN#215383/people two patrons] on [/EN#215386/scene the beach] stopping at [/EN#215388/scene a coke kiosk] .
+[/EN#215382/people A man] in [/EN#215390/clothing a pink shirt] carries [/EN#215383/people two people] in [/EN#215381/other a rickshaw] near [/EN#215386/scene the beach] .
+[/EN#215382/people A man] is giving [/EN#215380/other carriage rides] to [/EN#215383/people other people] .

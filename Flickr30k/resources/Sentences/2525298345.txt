@@ -1,0 +1,5 @@
+[/EN#55212/people A man] wearing [/EN#55213/clothing a striped shirt] with [/EN#55214/clothing beige shorts] is walking around on [/EN#55217/scene the grass] over by [/EN#55215/scene the water] .
+[/EN#0/notvisual There] is [/EN#55216/people a small gathering of people] on [/EN#55217/scene the grass] in front of [/EN#55218/scene a beach] .
+[/EN#55216/people A bunch of people] are gathered in [/EN#55217/scene a field] overlooking [/EN#55215/scene a body of water] .
+[/EN#55216/people A group of people] picnic on [/EN#55217/scene a grassy hill] near [/EN#55215/scene the ocean] .
+[/EN#55216/people Crowd of people] are enjoying [/EN#0/notvisual themselves] at [/EN#55218/scene the beach] .

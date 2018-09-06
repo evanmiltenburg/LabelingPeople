@@ -1,0 +1,5 @@
+Behind [/EN#45604/scene a blue fence] , [/EN#45600/people a group of people] prepare to serve [/EN#45606/other some tennis balls] .
+[/EN#45600/people A group of people] are playing [/EN#45602/other tennis] on [/EN#45605/scene a clay tennis court] .
+[/EN#45600/people Group of people] play [/EN#45602/other tennis] in [/EN#45601/other a clay court] .
+[/EN#45600/people A group] plays [/EN#45602/other tennis] together on [/EN#45601/other the court] .
+[/EN#45603/other Tennis match] between [/EN#45600/people friends] .

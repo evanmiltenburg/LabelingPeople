@@ -1,0 +1,5 @@
+[/EN#42935/scene Green sports field] with [/EN#42936/people players] beneath [/EN#42938/scene blue sky] with [/EN#42940/other pink clouds]
+[/EN#42936/people People] playing [/EN#42934/other soccer] on [/EN#42935/scene a soccer field] during [/EN#42937/scene sunset]
+[/EN#42934/other A soccer game] being played as [/EN#42942/other the sun] sets .
+[/EN#42936/people Soccer players] on [/EN#42935/scene a field] from [/EN#0/notvisual a distance] .
+[/EN#42934/other A soccer game] at [/EN#42941/scene sunset]

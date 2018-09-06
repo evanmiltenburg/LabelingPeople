@@ -1,0 +1,5 @@
+[/EN#23675/people A man] in [/EN#23682/clothing a white t-shirt] with [/EN#23683/other blue letters] wearing [/EN#23681/clothing a seat belt] has [/EN#23685/bodyparts/people his arm] around [/EN#23676/people a girl] in [/EN#23677/clothing a black and white striped shirt] and [/EN#23679/clothing a necklace] .
+[/EN#23675/people A young man] and [/EN#23676/people woman] sitting in [/EN#23684/vehicles the backseat of a car] smile at [/EN#0/notvisual the camera] .
+[/EN#23676/people A smiling girl] in [/EN#23677/clothing a striped shirt] sits next to [/EN#23675/people a boy] in [/EN#23678/vehicles a car] .
+[/EN#23676/people A girl] and [/EN#23675/people a boy] are sitting next to [/EN#0/notvisual each other] in [/EN#23678/vehicles a vehicle] .
+[/EN#23675/people A Young Guy] and [/EN#23676/people a young girl] enjoying [/EN#23680/other a ride] , in [/EN#23678/vehicles a car] .

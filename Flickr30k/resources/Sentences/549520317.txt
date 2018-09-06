@@ -1,0 +1,5 @@
+[/EN#237488/people The little boy] in [/EN#237489/clothing the red coat] and [/EN#237491/clothing tan pants] is at [/EN#237490/scene the top of the slide] , holding on to [/EN#237492/scene the handles of the slide] .
+[/EN#237488/people Small child] in [/EN#237489/clothing red jacket] and [/EN#237491/clothing khaki pants] at [/EN#237492/scene the top of a slide] with [/EN#237493/scene a fence] behind .
+[/EN#237488/people The little boy] has [/EN#237489/clothing a red coat] on as [/EN#0/notvisual he] plays outside .
+[/EN#237488/people A toddler] in [/EN#237491/clothing tan pants] and [/EN#237494/other a red hoddie] on [/EN#237490/scene a slide] .
+[/EN#237488/people A child] in [/EN#237489/clothing a red jacket] , sitting atop [/EN#237490/scene a slide] .

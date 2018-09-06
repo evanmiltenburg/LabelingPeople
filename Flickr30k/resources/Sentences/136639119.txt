@@ -1,0 +1,5 @@
+[/EN#10212/people A climber] is attempting to climb around [/EN#10213/other an overhang] above [/EN#10216/other the woods] .
+[/EN#10212/people A man] climbs up [/EN#10213/scene a cliff] and reaches [/EN#10213/other an overhang] .
+[/EN#10212/people A man] is rock climbing under [/EN#10213/scene a large cliff] .
+[/EN#10212/people Climber] on [/EN#10213/other rock formation] using [/EN#10215/other ropes] .
+[/EN#10212/people A person] is rock climbing .

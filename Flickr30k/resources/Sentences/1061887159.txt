@@ -1,0 +1,5 @@
+[/EN#1557/people A man] is kneeling down with [/EN#1558/people a child] on [/EN#1559/scene a beach] where [/EN#1560/vehicles/scene bright blue and red boats] are stationed in [/EN#0/notvisual the background] .
+[/EN#1559/scene a beach] with [/EN#1560/vehicles/scene blue and red boats] , with [/EN#1561/people people] on [/EN#1559/scene shore]
+[/EN#1561/people People] are doing [/EN#1564/other various activities] on [/EN#1559/scene the beach] .
+[/EN#1561/people people] at [/EN#1559/scene beach] looking for [/EN#1565/other things] in [/EN#1559/other sand]
+[/EN#1561/people Many people] walking on [/EN#1559/scene beach] .

@@ -1,0 +1,5 @@
+[/EN#5043/people A woman] in [/EN#5044/clothing a jacket] walks on [/EN#5045/scene the beach] in [/EN#5046/other someone 's footprints] while holding [/EN#5047/clothing her shoes] in [/EN#5048/bodyparts her hands] .
+[/EN#5043/people A person] is walking along [/EN#5045/scene the beach] , making [/EN#5046/other footprints] while holding [/EN#5047/clothing their shoes] .
+[/EN#5043/people A child] hold [/EN#5047/clothing green shoes] is walking in [/EN#5045/other the sand] by [/EN#5050/scene the water] .
+[/EN#5043/people A woman] carrying [/EN#5047/clothing shoes] is walking barefoot on [/EN#5045/scene the beach] .
+[/EN#5043/people A woman] walks in [/EN#5045/other the sand] as [/EN#0/notvisual she] carries [/EN#5047/clothing her shoes] .

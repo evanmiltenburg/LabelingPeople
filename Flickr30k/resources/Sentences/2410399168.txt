@@ -1,0 +1,5 @@
+[/EN#47021/animals One dog] is jumping in [/EN#0/notvisual the air] and [/EN#47022/other the other] is standing next to [/EN#0/notvisual it] .
+[/EN#47023/animals Two large brown and white dogs] are playing in [/EN#47025/scene a grassy area] .
+[/EN#47023/animals The two dogs] are jumping [/EN#47028/other around] .
+[/EN#47021/animals A dog] jumping from [/EN#47022/animals another dog] .
+[/EN#47023/animals Two dogs] are playing .

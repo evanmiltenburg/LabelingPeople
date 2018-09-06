@@ -1,0 +1,5 @@
+[/EN#61129/people A young woman] wearing [/EN#61138/clothing a flowery top] is cooking in [/EN#61130/other a skillet] at [/EN#61132/scene the stove of her kitchen] with [/EN#61133/other some oil] and [/EN#61135/other a knife] on [/EN#61134/other the counter] next to [/EN#0/notvisual her] .
+[/EN#61129/people A lady] in [/EN#61131/scene a kitchen] is standing in front of [/EN#61132/other the stove] frying [/EN#61133/other something] in [/EN#61130/other a frying pan] .
+[/EN#61129/people A woman] is standing at [/EN#61132/other a stove] in [/EN#61131/scene a kitchen] , frying [/EN#61137/other some food] in [/EN#61130/other a big pan] .
+[/EN#61129/people A woman] is cooking in [/EN#61130/other a skillet] .
+[/EN#61129/people A woman] sautes [/EN#61136/other her dinner] .

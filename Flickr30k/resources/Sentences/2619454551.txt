@@ -1,0 +1,5 @@
+[/EN#61976/animals A dog] looking at [/EN#61977/other a ball] [/EN#0/notvisual that] was thrown in [/EN#0/notvisual the air] above [/EN#0/notvisual him] and [/EN#61975/animals a colorful parrot] standing nearby .
+[/EN#61976/animals A little dog] looks at [/EN#61977/other a tennis ball] in [/EN#0/notvisual the air] and [/EN#61975/animals a parrot] sits nearby .
+[/EN#61976/animals The dog] behind [/EN#61975/animals the red parrot] is looking at [/EN#61977/other the green ball] .
+[/EN#61975/animals A colorful bird] and [/EN#61976/animals a brown and white dog] .
+[/EN#61975/animals A brightly colored bird] and [/EN#61976/animals a small dog] .

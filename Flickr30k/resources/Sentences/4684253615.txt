@@ -1,0 +1,5 @@
+[/EN#190209/scene A european city street scene] with [/EN#190207/scene trolley tracks] on [/EN#190219/other the roadway] and [/EN#190211/scene a cathedral clock tower] in [/EN#0/notvisual the background] .
+[/EN#190216/scene Lovely city scene] showing [/EN#190217/scene a clear blue sky] , [/EN#190221/scene three old buildings] and [/EN#190207/scene a narrow street] with [/EN#190207/scene rail tracks] .
+[/EN#190210/people Many people] walking on [/EN#190213/scene the sidewalks] near [/EN#190218/other an Apotheke] .
+[/EN#190215/scene An intersection] in [/EN#190214/scene some city] [/EN#0/notvisual that] has [/EN#190211/scene a clock tower] .
+[/EN#190210/people People] are going about [/EN#190220/scene their day] in [/EN#190208/scene a city] .

@@ -1,0 +1,5 @@
+[/EN#99984/people A standing man] talks to [/EN#99985/people a seated woman] while on [/EN#99989/vehicles some sort of vehicle] .
+[/EN#99985/people An elderly woman] , and [/EN#99986/people two young men] talking on [/EN#99990/vehicles/scene a bus] .
+[/EN#99984/people A man] in [/EN#99987/clothing a blue shirt] is talking to [/EN#99985/people a woman] on [/EN#99990/vehicles/scene a bus] .
+[/EN#99988/people People] are talking and visiting on [/EN#99990/vehicles/scene a bus] .
+[/EN#99988/people Three people] chat on [/EN#99990/vehicles/scene a bus] .

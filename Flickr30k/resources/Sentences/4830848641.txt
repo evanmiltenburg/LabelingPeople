@@ -1,0 +1,5 @@
+[/EN#208479/people A man] in [/EN#208480/clothing a red striped shirt] talks in to [/EN#208481/other a microphone] .
+[/EN#208479/people A man] in [/EN#208480/clothing a colorful shirt] speaks at [/EN#208481/other a microphone] .
+[/EN#208479/people A man] in [/EN#208480/clothing a collared shirt] giving [/EN#208482/other a speech] .
+[/EN#208479/people An older man] giving [/EN#208482/other a speech] .
+[/EN#208479/people A man] is doing [/EN#208482/other his speech] .

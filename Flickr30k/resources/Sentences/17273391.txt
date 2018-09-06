@@ -1,0 +1,5 @@
+[/EN#19483/people A fisherman] fishes at [/EN#19487/scene the bank of a foggy river] .
+[/EN#19483/people A man] fishes by [/EN#19484/other a tree] in [/EN#19486/other the morning mist] .
+[/EN#19483/people A man] is fishing in [/EN#19485/scene a foggy lake] .
+[/EN#19483/people A man] fishing near [/EN#19484/other a large tree] .
+[/EN#19483/people A man] fishes under [/EN#19484/other a large tree] .

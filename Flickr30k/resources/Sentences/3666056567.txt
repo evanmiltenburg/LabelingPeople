@@ -1,0 +1,5 @@
+[/EN#135308/people Four people] are walking along [/EN#135311/scene a city sidewalk] , while [/EN#135314/other the one] in [/EN#135312/clothing the green hat] talks on [/EN#135310/other a cellphone] .
+[/EN#135308/people A group of people] walking down [/EN#135311/scene the street] with [/EN#135314/other one] on [/EN#135310/other the phone] in [/EN#135312/clothing a green hat] .
+[/EN#135308/people A group of people] walk down [/EN#135311/scene a city street] at [/EN#135313/scene night] .
+[/EN#135308/people four people] walk down [/EN#135311/scene a sidewalk] at [/EN#135313/scene night]
+[/EN#135308/people Four people] are walking on [/EN#135311/scene a sidewalk] .

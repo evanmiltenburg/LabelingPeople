@@ -1,0 +1,5 @@
+[/EN#39762/people A man] looking through [/EN#39763/other a microscope] and manipulating [/EN#39766/scene the contents of the slide] .
+[/EN#39762/people A man] , wearing [/EN#39764/clothing a striped shirt] , operates [/EN#39763/other a microscope] in [/EN#39765/scene a laboratory] .
+[/EN#39762/people someone] using [/EN#39763/other a microscope] is working on [/EN#39767/other something] really small
+[/EN#39762/people A man] is covering [/EN#39766/scene a slide] while looking through [/EN#39763/other a microscope] .
+[/EN#39762/people A man] in [/EN#39764/clothing a striped shirt] is using [/EN#39763/other a microscope] .

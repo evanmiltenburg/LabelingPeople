@@ -1,0 +1,5 @@
+[/EN#270522/people A man] wearing [/EN#270525/clothing a white shirt] is standing in [/EN#270524/scene a doorway] surrounded by [/EN#270524/scene green bars] , and [/EN#0/notvisual his] holding [/EN#270523/other a cellphone] up to [/EN#270529/bodyparts his right ear] .
+[/EN#270522/people A man] in [/EN#270525/clothing a white shirt] is on [/EN#270523/other his cellphone] by [/EN#270526/scene the gate] .
+[/EN#270522/people A man] stands [/EN#270524/scene outside of a doorway] on [/EN#270523/other his cellphone] .
+[/EN#270522/people Man] is talking on [/EN#270523/other mobile] , standing in [/EN#270524/scene a doorway] .
+[/EN#270522/people Man] in [/EN#270525/clothing white shirt] talking on [/EN#270523/other phone]

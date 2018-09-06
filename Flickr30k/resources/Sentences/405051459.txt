@@ -1,0 +1,5 @@
+[/EN#153376/people A woman] standing by [/EN#153387/vehicles a car] in [/EN#153382/scene a garage] dressed for [/EN#153386/other winter weather] in [/EN#153378/clothing a red knit scarf] , [/EN#153384/clothing black gloves] and [/EN#153379/clothing hat] and [/EN#153377/clothing red handbag] .
+[/EN#153376/people The woman] wears [/EN#153380/clothing a blue coat] , [/EN#153379/clothing black hat] , and [/EN#153378/clothing red scarf] , while holding [/EN#153377/clothing a red bag] .
+[/EN#153376/people A lady] standing outside [/EN#153383/scene a street] with [/EN#153377/clothing a red purse] and [/EN#153378/clothing scarf] on .
+[/EN#153376/people A person] dressed in [/EN#153385/clothing red and black] outside [/EN#153381/other a cracked wall] .
+[/EN#153376/people A woman] is walking with [/EN#153377/clothing a red bag] .

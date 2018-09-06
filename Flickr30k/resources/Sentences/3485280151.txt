@@ -1,0 +1,5 @@
+[/EN#121790/people Woman] eating [/EN#121791/other a bowl of soup] with [/EN#121794/other chopsticks] while selling [/EN#121793/other raw slabs of meat] .
+[/EN#121790/people A street vendor] eats [/EN#121791/other lunch] while watching over [/EN#121793/other her fresh meat] stand .
+[/EN#121790/people A woman] eating with [/EN#121794/other chopsticks] sits in front of [/EN#121793/other butchered raw meat] .
+[/EN#121790/people Woman] eating [/EN#121791/other food] on [/EN#121792/other a table] with [/EN#121793/other raw meat] on [/EN#0/notvisual it] .
+[/EN#121790/people A woman] is sitting at [/EN#121792/other a table] with [/EN#121793/other raw meat] .

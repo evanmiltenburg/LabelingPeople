@@ -1,0 +1,5 @@
+[/EN#17527/people A girl] is playing [/EN#17531/instruments the violin] in [/EN#17530/scene the street] while [/EN#17532/people her band mate] on [/EN#17529/instruments the guitar] is talking on [/EN#17534/other her cellphone] with [/EN#17533/other a confused look] .
+[/EN#17527/people A female performer] with [/EN#17531/instruments a violin] plays on [/EN#17530/scene a street] while [/EN#17532/people a woman] with [/EN#17529/instruments a blue guitar] looks on .
+[/EN#17528/people Two ladies] play [/EN#17531/instruments the violin] and [/EN#17529/instruments the guitar] on [/EN#17530/scene the street] to entertain [/EN#17536/other the passer byes] .
+[/EN#17528/people Two women] on [/EN#17530/scene the street] , [/EN#17535/other one] is playing [/EN#17529/instruments the guitar] and [/EN#17527/other the other] is playing [/EN#17531/instruments violin] .
+[/EN#17528/people 2 women] are standing in [/EN#17530/scene a street] playing [/EN#17529/instruments a blue guitar] and [/EN#17531/instruments a violin] .

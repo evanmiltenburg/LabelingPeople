@@ -1,0 +1,5 @@
+[/EN#213924/people A boy] in [/EN#213930/clothing a yellow t-shirt] and [/EN#213931/clothing pink sweater] talks on [/EN#213926/other a cellphone] while riding [/EN#213925/animals a horse] through [/EN#213929/people a crowd of people] [/EN#0/notvisual who] are looking on .
+[/EN#213924/people A young man] is riding [/EN#213925/animals a horse] through [/EN#213929/people a group of people] while [/EN#0/notvisual he] talks on [/EN#213926/other his cellphone] .
+[/EN#213924/people A boy] rides on [/EN#213925/animals a camel] in [/EN#213928/scene a crowded area] while talking on [/EN#213926/other his cellphone] .
+[/EN#213924/people A boy] talks on [/EN#213926/other his cellphone] , while riding [/EN#213925/animals a horse] through [/EN#213927/scene an event] .
+[/EN#213924/people A young man] is talking on [/EN#213926/other a phone] while riding [/EN#213925/animals a horse] .

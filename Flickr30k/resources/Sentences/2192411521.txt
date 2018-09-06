@@ -1,0 +1,5 @@
+[/EN#33239/people A bearded man] wearing [/EN#33240/clothing a bandanna] is pointing [/EN#33245/bodyparts his finger] whilst riding [/EN#33241/vehicles a bicycle] .
+[/EN#33239/people Man] in [/EN#33246/clothing blue shirt] and [/EN#33240/clothing black cap] riding [/EN#33241/vehicles bike] down [/EN#33244/scene street] flashing [/EN#33249/other peace sign]
+[/EN#33239/people A man] holds [/EN#33243/other an object] with [/EN#33247/bodyparts his hand] while riding [/EN#33241/vehicles his bike] down [/EN#33244/scene the street] .
+[/EN#33239/people A man] with [/EN#33248/bodyparts long hair] riding [/EN#33241/vehicles a bicycle] gives [/EN#33242/other the peace sign] .
+[/EN#33239/people A man] bicycles down [/EN#33244/scene the street] and points [/EN#33245/bodyparts his finger]

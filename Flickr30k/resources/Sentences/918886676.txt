@@ -1,0 +1,5 @@
+[/EN#283504/animals A tan dog] has [/EN#283507/other a drink] from [/EN#283506/scene water] being poured from [/EN#283505/other a spout] .
+[/EN#283504/animals The yellow dog] is drinking [/EN#283506/scene water] from [/EN#283505/other a bottle] .
+[/EN#283504/animals Yellow Labrador] drinking [/EN#283506/scene water] from [/EN#283505/other a faucet] .
+[/EN#283504/animals A brown dog] drinks from [/EN#283505/other a water bottle] .
+[/EN#283504/scene a yellow lab drinks water] .

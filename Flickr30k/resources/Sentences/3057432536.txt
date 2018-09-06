@@ -1,0 +1,5 @@
+[/EN#90708/animals Three horses] and [/EN#90707/people one man] are silhouetted against [/EN#90711/other a setting sun] and [/EN#90709/scene an orange sky] .
+[/EN#90708/animals Three horses] and [/EN#90707/people a man] are silhouetted in front of [/EN#90710/clothing a orange] and [/EN#90709/scene yellow skyline] .
+[/EN#90708/animals Three camels] and [/EN#90707/people a lone man] are silhouetted against [/EN#90709/scene a sunset] .
+[/EN#90707/people A person] leads [/EN#90708/animals three horses] away against [/EN#90712/scene the sunset] .
+[/EN#90708/animals Three horses] and [/EN#90707/people a person] against [/EN#90709/scene a sunset] .

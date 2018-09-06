@@ -1,0 +1,5 @@
+[/EN#161364/people A woman] and [/EN#161363/people a man] talk over [/EN#161366/other a desk] in [/EN#161368/scene a purple room] .
+[/EN#161363/people A man] and [/EN#161364/people a woman] talk to [/EN#0/notvisual each other] across [/EN#161366/other a desk] .
+[/EN#161365/people Two people] talk while sitting by [/EN#161366/other a desk] .
+[/EN#161363/people A man] and [/EN#161364/people woman] speak in [/EN#161367/other an apartment] .
+[/EN#161365/people Two people] sitting at [/EN#161366/other a table] .

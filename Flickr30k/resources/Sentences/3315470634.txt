@@ -1,0 +1,5 @@
+[/EN#108805/people A woman] in [/EN#108809/clothing a black coat] in [/EN#108806/scene an elementary school classroom] is attending to [/EN#108807/people a young girl] sitting at [/EN#108812/other her desk] .
+[/EN#108805/people The teacher] is getting [/EN#108810/other a little] too friendly with [/EN#108807/people his student] and is looking down [/EN#108813/clothing her shirt] .
+[/EN#108805/people A woman] is sitting at [/EN#108808/other a table] in [/EN#108806/scene a classroom] , with [/EN#108807/people a girl] .
+[/EN#108805/people The teacher] is helping [/EN#108807/people her student] [/EN#108811/other complete some work] .
+[/EN#108805/people Teacher] helping [/EN#108807/people a student] at [/EN#108808/other her desk] .

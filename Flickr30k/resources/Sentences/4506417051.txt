@@ -1,0 +1,5 @@
+[/EN#173775/people A person] in [/EN#173779/clothing baggy pants] and [/EN#173777/clothing brown hoodie] , with [/EN#173776/clothing a backpack] , walks on [/EN#173780/scene a sidewalk] with [/EN#173781/other signs] in [/EN#173782/other Chinese] .
+[/EN#173775/people A person] wearing [/EN#173777/clothing a brown hooded sweatshirt] and [/EN#173779/clothing jeans] with [/EN#173776/clothing a backpack] walks down [/EN#173778/scene the street] .
+[/EN#173775/people Person] in [/EN#173777/clothing a brown sweatshirt] , [/EN#173779/clothing baggy blue jean] and [/EN#173776/clothing a backpack] walking down [/EN#173778/scene the sidewalk] .
+[/EN#173775/people A young man] , wearing [/EN#173777/clothing a hoodie] and [/EN#173776/clothing a backpack] , walks down [/EN#173778/scene an urban street] .`
+[/EN#173775/people A man] in [/EN#173777/clothing a brown sweatshirt] walks down [/EN#173778/scene a sidewalk] .

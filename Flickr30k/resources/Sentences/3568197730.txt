@@ -1,0 +1,5 @@
+[/EN#128313/people A person] wearing [/EN#128314/clothing a blue robe] is in [/EN#0/notvisual the air] , holding [/EN#128315/other a sword] .
+[/EN#128313/people An actor] dressed as [/EN#128313/people a pirate] performs in [/EN#128318/scene an outdoor park] .
+[/EN#128313/people A man] in [/EN#128314/clothing a blue outfit] is swinging [/EN#128315/other a sword] in [/EN#0/notvisual the air] .
+[/EN#128313/people Man] in [/EN#128314/clothing martial arts-style costume] jumping in [/EN#128316/scene midair] .
+[/EN#128313/people A Japanese swordsman] jumps into [/EN#0/notvisual the air] .

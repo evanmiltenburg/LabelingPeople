@@ -1,0 +1,5 @@
+[/EN#265448/people A man] wearing [/EN#265455/clothing a green shirt] and [/EN#265456/other a leaf] on [/EN#265458/bodyparts his head] , runs in [/EN#265454/other a race] with [/EN#265449/scene a bottle of water] in [/EN#265459/bodyparts his hand] and [/EN#265460/bodyparts his eyes] closed .
+[/EN#265448/people A runner] wearing [/EN#265452/clothing a large backpack] is carrying [/EN#265449/other a water bottle] as [/EN#0/notvisual he] runs in [/EN#265453/other a marathon] .
+[/EN#265448/people A runner] with [/EN#265452/clothing a turtle backpack] looking exhausted at [/EN#265453/other a street race] .
+[/EN#265448/people A man] in [/EN#265450/clothing a costume] has [/EN#0/notvisual himself] [/EN#265449/scene some water] .
+[/EN#265448/people Man] dressed in [/EN#265450/clothing green] running in [/EN#265454/other a race] .

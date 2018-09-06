@@ -1,0 +1,5 @@
+[/EN#180/people A man] in [/EN#181/clothing a white t-shirt] looks toward [/EN#0/notvisual the camera] surrounded by [/EN#177/people a crowd] near [/EN#178/other a metro station] .
+[/EN#177/people A large crowd of people] stand outside in front of [/EN#179/scene the entrance] to [/EN#178/other a Metro station] .
+[/EN#177/people A group of people] are walking through [/EN#179/scene a city street] .
+[/EN#177/people A crowd] is portrayed near [/EN#178/other a metro station] .
+[/EN#177/people Crowd] standing outside [/EN#179/scene a metro area] .

@@ -1,0 +1,5 @@
+[/EN#9644/people a couple] attempting to cross [/EN#9649/scene a street] , while [/EN#9645/vehicles a car] zooms past .
+[/EN#9644/people A couple] waiting at [/EN#9650/scene a crosswalk] in [/EN#9651/scene a brightly lit city] .
+[/EN#9644/people A couple] waits to cross [/EN#9649/scene the city street] at [/EN#9648/scene night] .
+[/EN#9646/people A man] and [/EN#9647/people a woman] waiting to cross [/EN#9650/scene the road] .
+[/EN#9644/people A couple] crossing [/EN#9649/scene the street] at [/EN#9648/scene night] .

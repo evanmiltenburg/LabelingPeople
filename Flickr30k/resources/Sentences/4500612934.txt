@@ -1,0 +1,5 @@
+[/EN#173365/people A person] wearing [/EN#173366/clothing a blue and yellow snowsuit] , [/EN#173368/clothing a blue helmet] and [/EN#173374/clothing snow goggles] is moving down [/EN#173371/other a snow covered incline] .
+[/EN#173365/people A person] in [/EN#173366/clothing a blue and yellow snowsuit] is snowboarding and [/EN#173367/scene snow] is coming up in [/EN#0/notvisual the air] around [/EN#173369/other the board] .
+[/EN#173365/people A very adventurous snowboarder] rips through [/EN#173367/scene powder snow] with [/EN#173375/other speed] , [/EN#173370/other agility] , and [/EN#173372/other concentration] .
+[/EN#173365/people Person] snowboarding downwards in [/EN#173367/scene the snow] , wearing [/EN#173373/other snow gear] .
+[/EN#173365/people A snowboarder] slides through [/EN#173367/scene the freshly fallen powder snow] .

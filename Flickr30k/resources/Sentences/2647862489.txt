@@ -1,0 +1,5 @@
+[/EN#63803/people A man] in [/EN#63806/clothing a blue shirt] carrying [/EN#63804/clothing a backpack] and [/EN#63809/people a woman] dressed in [/EN#63805/clothing black] holding [/EN#63807/other some type of box] are deep in [/EN#63808/other conversation] .
+[/EN#63803/people A man] with [/EN#63804/clothing a black backpack] is having [/EN#63808/other a conversation] with [/EN#63809/people a woman] holding [/EN#63810/clothing a orange] and [/EN#63807/other white box] .
+[/EN#63803/people A man] wearing [/EN#63806/clothing a purple shirt] and [/EN#63804/clothing a backpack] talks to [/EN#63809/people a woman] carrying [/EN#63807/other a box] .
+[/EN#63803/people A man] with [/EN#63804/clothing a backpack] engages [/EN#63809/people a woman] on [/EN#63812/scene the street] in [/EN#63808/other conversation] .
+[/EN#63803/people A man] with [/EN#63804/clothing a backpack] is talking to [/EN#63809/people a woman] in [/EN#63805/clothing a black shirt] .

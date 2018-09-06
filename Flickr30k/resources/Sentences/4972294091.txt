@@ -1,0 +1,5 @@
+[/EN#224911/people A woman] on [/EN#224912/vehicles a bike] waits [/EN#224915/scene the corner of an intersection] at [/EN#224914/scene a pedestrian crosswalk] .
+[/EN#224911/people A woman] standing next to [/EN#224912/vehicles her bike] waiting to cross [/EN#224913/scene the street] .
+[/EN#224911/people A woman] on [/EN#224912/vehicles a bicycle] , waiting to cross [/EN#224913/scene the street] .
+[/EN#224911/people A female cyclist] waiting on [/EN#224916/other the corner curb] .
+[/EN#224911/people A bicyclist] waits to cross [/EN#224913/scene a street] .

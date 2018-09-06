@@ -1,0 +1,5 @@
+[/EN#11023/people A person] wearing [/EN#11025/clothing a long-sleeved white shirt] is weaving with [/EN#11027/other yellow thread] .
+[/EN#11023/people A woman] in [/EN#11025/clothing a white shirt] with [/EN#11026/bodyparts old looking hands] is weaving on [/EN#11024/other a loom] .
+[/EN#11023/people An elderly person] weaving [/EN#11027/other yellow yarn] on [/EN#11024/other a loom] .
+[/EN#11023/people A man] weaving [/EN#11027/other yellow yarn] on [/EN#11024/other wooden loom] .
+Wrinkled [/EN#11026/bodyparts hands] work on [/EN#11024/other a hand loom] .

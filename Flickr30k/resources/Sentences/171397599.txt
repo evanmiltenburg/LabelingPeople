@@ -1,0 +1,5 @@
+[/EN#19272/people Several people] are standing holing on [/EN#19273/scene yellow bars] while [/EN#19274/other others] are holding nothing .
+[/EN#19272/people Many people] are standing on [/EN#19276/vehicles/scene a bus] with [/EN#19275/other bright yellow overhead handles] .
+[/EN#19272/people Many people] crowded on [/EN#19277/vehicles some sort of public transportation] .
+[/EN#19272/people People] hang onto [/EN#19275/other safety rails] on [/EN#19276/vehicles/scene a very crowded bus] .
+[/EN#19272/people People] are crowded together on [/EN#19276/vehicles/scene this bus] .

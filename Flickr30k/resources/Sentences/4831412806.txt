@@ -1,0 +1,5 @@
+[/EN#208590/people Seven people] wearing [/EN#208592/clothing green T-shirts] are walking on [/EN#208591/scene the beach] and [/EN#0/notvisual one of them] is waving .
+[/EN#208590/people A groups of seven people] wearing [/EN#208592/clothing green shirts] is walking along [/EN#208591/scene a sandy beach] .
+[/EN#208589/people A group of people] in [/EN#208592/clothing green shirts] walking along [/EN#208591/scene a beautiful beach] .
+[/EN#208589/people Several people] wearing [/EN#208592/clothing green shirts] walk on [/EN#208591/scene the beach] together .
+[/EN#208589/people A group of people] in [/EN#208592/clothing green shirts] are walking along [/EN#208591/scene a beach] .

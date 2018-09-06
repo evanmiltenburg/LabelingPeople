@@ -1,0 +1,5 @@
+[/EN#193154/people A homeless man] is sitting outside [/EN#193158/scene a store] reading [/EN#193157/other a newspaper] with [/EN#193156/other a funny cardboard sign] .
+[/EN#193154/people A man] sitting in front of [/EN#193159/other a store window] with [/EN#193156/other a sign] [/EN#0/notvisual that] says " Help Fight [/EN#193155/other Hobophobia] . "
+[/EN#193154/people Man] reading [/EN#193157/other a paper] and sitting in front of [/EN#193156/other a sign] [/EN#0/notvisual that] says " Help Fight [/EN#193155/other Homophobia] " .
+[/EN#193154/people An homeless man] is reading [/EN#193157/other a magazine] .
+[/EN#193154/people A man] reading on [/EN#193160/scene a street] .

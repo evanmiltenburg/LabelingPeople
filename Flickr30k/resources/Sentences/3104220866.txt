@@ -1,0 +1,5 @@
+[/EN#93838/people A woman] in [/EN#93845/clothing a black shirt] is laying on [/EN#0/notvisual the ground] with [/EN#93839/other a football] on [/EN#93841/bodyparts her head] while [/EN#93843/people someone] points at [/EN#0/notvisual her] .
+[/EN#93838/people Someone] is lying on [/EN#0/notvisual the ground] with [/EN#93839/other a ball] on top of [/EN#93841/bodyparts their head] .
+[/EN#93838/people A girl] is on [/EN#0/notvisual the ground] with [/EN#93839/other a football] on [/EN#93841/bodyparts her head] .
+[/EN#93838/people Woman] laying in [/EN#93840/scene grass] with [/EN#93839/other a rugby ball] on [/EN#93841/bodyparts her head] .
+[/EN#93838/people A girl] lays on [/EN#93840/scene the grass] while playing with [/EN#93843/other others] .

@@ -1,0 +1,5 @@
+[/EN#12774/people A man] wearing [/EN#12779/clothing an orange shirt] and [/EN#12776/clothing a baseball glove] has just thrown [/EN#12775/other a ball] .
+[/EN#12774/people A man] wearing [/EN#12776/clothing a baseball mitt] is in [/EN#12778/scene a field] leaning to [/EN#0/notvisual his side] .
+[/EN#12774/people A man] having just thrown [/EN#12775/other a baseball] in [/EN#12778/scene large field] .
+[/EN#12774/people A man] is leaning over and holding [/EN#12776/clothing a baseball mitt] .
+[/EN#12774/people A man] in [/EN#12781/other motion] wearing [/EN#12776/clothing a catchers mitt] .

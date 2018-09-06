@@ -1,0 +1,5 @@
+[/EN#119122/people A bald man] in [/EN#119132/clothing a black shirt] is standing with [/EN#119133/clothing an umbrella] in [/EN#119124/other a station] beside [/EN#119123/people a man] [/EN#0/notvisual who] is leaning against [/EN#119129/scene a post] as [/EN#119131/people a woman] carrying [/EN#119134/clothing a bag] walks by .
+[/EN#119122/people A bald man] wearing [/EN#119128/clothing all black] waits for [/EN#119125/vehicles/scene the subway] and so does [/EN#119123/people another man] [/EN#0/notvisual who] is leaning on [/EN#119129/other a pillar] .
+[/EN#119122/people A man] holds [/EN#119127/other a blue notebook] while [/EN#0/notvisual he] waits on [/EN#119124/other the train platform] .
+[/EN#119122/people An elderly man] is standing on [/EN#119124/other the edge of a train platform] .
+[/EN#119126/people Two men] wait for [/EN#119125/vehicles/scene the subway] .

@@ -1,0 +1,5 @@
+[/EN#246297/people A man] in [/EN#246299/clothing a gray baseball uniform] and [/EN#246302/clothing a black hat] is catching [/EN#246298/other a ball] in [/EN#246301/other a baseball mit] .
+[/EN#246297/people Baseball player] reaches down to retrieve [/EN#246298/other a baseball] having rolled near [/EN#246303/scene the infield] .
+[/EN#246297/people A baseball player] in [/EN#246299/clothing a gray uniform] is catching [/EN#246298/other a ground ball] in [/EN#246300/clothing his glove] .
+[/EN#246297/people A male baseball player] is holding [/EN#246298/other a baseball] .
+[/EN#246297/people baseball player] grabbing [/EN#246298/other ball] in [/EN#246300/clothing his glove]

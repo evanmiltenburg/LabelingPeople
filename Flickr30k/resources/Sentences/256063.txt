@@ -1,0 +1,5 @@
+[/EN#58105/people Three people] standing behind [/EN#58108/scene the display of an outdoor flea market] stand selling [/EN#58109/other insecticide-free products] from [/EN#58110/scene Clyde 's Farm] .
+[/EN#58111/people Two men] and [/EN#58113/people a woman] gather [/EN#58108/scene a fresh produce stand] .
+[/EN#0/notvisual there] are [/EN#58105/people people] selling [/EN#58109/other some kind of jelly] .
+[/EN#58106/people Vendors] sell [/EN#58109/other products] at [/EN#58108/scene a farmers market] .
+[/EN#58107/other Farmer 's selling] preserves out of [/EN#58112/other a van] .

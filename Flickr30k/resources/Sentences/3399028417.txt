@@ -1,0 +1,5 @@
+[/EN#115530/people A bunch of people] are talking down [/EN#115531/scene a city street] with [/EN#115532/scene old buildings] on [/EN#0/notvisual both sides of them] .
+[/EN#115530/people Group of people] crossing [/EN#115531/scene a street] with [/EN#115532/scene building] surrounding [/EN#0/notvisual them] .
+[/EN#115530/people Crowd of people] in [/EN#115531/scene street] lined with [/EN#115532/scene tall tan buildings] .
+[/EN#115530/people People] walking on [/EN#115531/scene a street] .
+[/EN#115531/scene A crowded street] in [/EN#115533/other Italy] .

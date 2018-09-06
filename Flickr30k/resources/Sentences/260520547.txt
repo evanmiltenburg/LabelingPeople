@@ -1,0 +1,5 @@
+[/EN#61104/people The man] in [/EN#61107/clothing shorts] and [/EN#61106/people the woman] with [/EN#61108/clothing a dress] are walking on [/EN#61102/scene the beachfront path] .
+[/EN#61099/people A group of people] are walking down [/EN#61103/scene a sidewalk] beside [/EN#61102/scene the beach] .
+[/EN#61099/people A couple] walking along side [/EN#61101/scene a waterfront] next to [/EN#61105/scene a city] .
+[/EN#61100/people People] walking down [/EN#61103/scene a sidewalk] on [/EN#61101/scene a beach] .
+[/EN#61100/people People] walking down [/EN#61103/scene trail] beside [/EN#61101/scene water]

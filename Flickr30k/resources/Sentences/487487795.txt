@@ -1,0 +1,5 @@
+[/EN#213824/animals Two dogs] on [/EN#213828/bodyparts hind legs] with [/EN#213829/bodyparts faces] near [/EN#0/notvisual each other] on [/EN#213826/scene a grassy field] .
+[/EN#213824/animals A black and brown dog] is playing with [/EN#213827/animals a brown and white dog] .
+[/EN#213825/animals Two dogs] leap toward [/EN#0/notvisual each other] on [/EN#213826/scene a grassy lawn] .
+[/EN#213825/animals Two dogs] are playing on [/EN#213826/scene the grass] .
+[/EN#213825/animals Two dogs] playing .

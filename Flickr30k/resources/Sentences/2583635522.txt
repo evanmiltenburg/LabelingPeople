@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] are [/EN#59643/people three people] sitting in [/EN#59656/other a sun] lit blue and [/EN#59644/scene white room] with [/EN#59645/vehicles a bicycle] , [/EN#59646/vehicles a motorbike] and [/EN#59647/other a coffee table] ; [/EN#59648/people two men] are sitting with [/EN#59649/bodyparts their legs] crossed in [/EN#59650/other decorative wooden chairs] , and [/EN#0/notvisual one of them] is wearing [/EN#59652/clothing a hat] .
+[/EN#59648/people Two men] sitting in [/EN#59644/scene a living room] , [/EN#59651/other one] wearing [/EN#59653/clothing cultural clothing] and [/EN#0/notvisual another] in [/EN#59654/clothing a white shirt] and [/EN#59655/clothing shorts] , contemplating on [/EN#59645/vehicles their bike] and [/EN#59646/vehicles moped] .
+[/EN#59643/people Three men] sitting in [/EN#59644/scene a room] looking at [/EN#59646/vehicles their one motorbike] and [/EN#59645/vehicles one pedal bike] .
+[/EN#59643/people Three people] sitting in [/EN#59644/scene a room] with [/EN#59645/vehicles a bike] and [/EN#59646/vehicles a scooter] .
+[/EN#59648/people Two men] sit in [/EN#59644/scene a room] with [/EN#59645/vehicles their bicycles] .

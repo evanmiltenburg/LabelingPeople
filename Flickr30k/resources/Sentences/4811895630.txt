@@ -1,0 +1,5 @@
+[/EN#205665/people A man] in [/EN#205667/clothing a dark shirt] and [/EN#205671/clothing pants] sitting on [/EN#205666/other a small stool] , [/EN#0/notvisual which] is in front of [/EN#205668/other a few small shopping desks] .
+[/EN#205665/people A man] facing away from [/EN#0/notvisual the camera] sitting on [/EN#205666/other an aqua colored stool] .
+[/EN#205665/people An older man] in [/EN#205667/clothing a gray shirt] sits in front of [/EN#205668/other a work desk] .
+[/EN#205665/people A man] sits on [/EN#205666/other a blue stool] at [/EN#205673/scene a booth] underneath [/EN#205669/other a banner] .
+[/EN#205665/people The man] sat on [/EN#205666/other the stool] watching [/EN#205670/people the artisan] at [/EN#205672/other work] .

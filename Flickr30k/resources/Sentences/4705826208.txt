@@ -1,0 +1,5 @@
+[/EN#193283/people A woman] wearing [/EN#193279/clothing a black shirt] and holding [/EN#193286/other a red plastic cup] sits on [/EN#193276/other a bench] in front of [/EN#193275/other a Cigar Company] while [/EN#193282/people a man] wearing [/EN#193280/clothing sunglasses] and [/EN#193281/clothing black clothing] sits in [/EN#193277/other a wood chair] next to [/EN#0/notvisual her] .
+[/EN#193283/people A woman] with [/EN#193286/other a cup] and [/EN#193282/people a yawning man] are sitting in front of [/EN#193285/scene the Cigar Company shop] .
+[/EN#193282/people A man] and [/EN#193283/people a woman] resting outside [/EN#193285/scene a tobacco store] .
+[/EN#193284/people Two people] are sitting outside of [/EN#193285/scene a cigar shop] .
+[/EN#193284/people two people] waiting on [/EN#193278/scene the corner] .

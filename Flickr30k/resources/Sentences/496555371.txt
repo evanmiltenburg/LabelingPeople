@@ -1,0 +1,5 @@
+[/EN#223953/animals One black and white dog] and [/EN#223957/animals two brown and white dogs] moving on [/EN#223956/other sand] .
+[/EN#223954/animals A group of three dogs] running across [/EN#223955/scene a rocky , sandy beach] .
+[/EN#223953/animals A black dog] is being chase by [/EN#223957/animals two brown dogs] on [/EN#223955/scene the beach] .
+[/EN#223953/animals A black dog] is followed by [/EN#223957/animals two brown dogs] over [/EN#223956/other sand] .
+[/EN#223954/animals Three dogs] are running across [/EN#223955/scene a sandy landscape] .

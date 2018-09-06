@@ -1,0 +1,5 @@
+[/EN#226127/people A man] prepares to interact with [/EN#226131/other a lock] for [/EN#226128/vehicles a bicycle] while staring away from [/EN#0/notvisual it] .
+[/EN#226127/people An older man] in [/EN#226129/clothing a suit] locking [/EN#226128/vehicles his bike] to [/EN#226130/other a pole]
+[/EN#226127/people A man] locking [/EN#226128/vehicles his bicycle] to [/EN#226130/other a metal pole] .
+[/EN#226127/people An elderly man] in [/EN#226129/clothing a suit] locks [/EN#226128/vehicles his bike] .
+[/EN#226127/people A man] in [/EN#226129/clothing a gray suit] locking up [/EN#226128/vehicles a bicycle]

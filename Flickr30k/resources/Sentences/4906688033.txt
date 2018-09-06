@@ -1,0 +1,5 @@
+[/EN#217061/people A man] in [/EN#217062/clothing a teal shirt] reads [/EN#217063/other a newspaper] inside [/EN#217064/scene a newspaper stand] .
+[/EN#217061/people A newspaper salesman] in [/EN#217062/clothing a blue shirt] reads [/EN#217063/other a paper] at [/EN#217064/scene his stall] .
+[/EN#217061/people man] in [/EN#217062/clothing turquoise shirt] reading [/EN#217063/other new paper] in [/EN#217064/scene a newsstand] .
+[/EN#217061/people A gentleman] reading [/EN#217063/other a newspaper] at [/EN#217064/scene a newspaper stand] .
+[/EN#217061/people A man] in [/EN#217062/clothing a teal shirt] reads [/EN#217063/other a newspaper] .

@@ -1,0 +1,5 @@
+[/EN#235366/people A man] wearing [/EN#235367/clothing a helmet] , floating in [/EN#235368/scene the water] .
+[/EN#235366/people A man] wearing [/EN#235367/clothing a white helmet] is in [/EN#235368/scene the water] .
+[/EN#235369/scene Mountain climber safely lands] in [/EN#235368/scene the water] .
+[/EN#235366/people The spelunker] finds [/EN#235368/scene water] during [/EN#235371/other his trek] .
+[/EN#235366/people A man] in [/EN#235370/scene a helmet treads water] .

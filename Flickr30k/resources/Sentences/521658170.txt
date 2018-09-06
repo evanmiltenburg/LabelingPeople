@@ -1,0 +1,5 @@
+[/EN#231168/people A man] in [/EN#231170/scene a grassy field] throws [/EN#231171/other a stick] for [/EN#231169/animals a group of three brown dogs] .
+[/EN#231168/people The man] in [/EN#231173/clothing the blue shirt] is surrounded by [/EN#231169/animals three dogs] in [/EN#231170/scene the grass] .
+[/EN#231168/people A man] holds [/EN#231171/other a stick] while [/EN#0/notvisual three dogs watch and jump] .
+[/EN#231169/animals Three dogs] are jumping up at [/EN#231168/people the man] waving [/EN#231171/other a stick] .
+[/EN#231169/animals Three dogs] trying to get [/EN#231171/other a stick] from [/EN#231168/people their owner] .

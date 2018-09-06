@@ -1,0 +1,5 @@
+[/EN#124353/people A white man] in [/EN#124365/clothing a brown trench coat] , [/EN#124357/people a black man] in [/EN#124364/clothing a black shirt] and [/EN#124359/people an asian woman] in [/EN#124363/clothing a black coat] walking [/EN#124366/scene a street] in front of [/EN#124358/other a blue wall] passing [/EN#124361/scene phone booths] and [/EN#124360/other green milk crates] .
+[/EN#124355/people Three people] are standing in front of [/EN#124358/other a blue wall] with [/EN#124368/other graffiti] on [/EN#0/notvisual it] , while [/EN#124362/other three metal poles] and [/EN#124360/other three green crates] are in [/EN#0/notvisual the foreground] .
+[/EN#124355/other Three different figures] ( [/EN#124353/people a white man] , [/EN#124357/people a black man] , and [/EN#124359/people an Asian woman] ) stand behind [/EN#124369/other three] outdated [/EN#124361/scene identical phone booths] .
+[/EN#124355/people 3 men] waiting in [/EN#124367/clothing casual clothing] standing .
+[/EN#124355/people people] walking past [/EN#124362/other three street barrier]

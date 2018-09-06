@@ -1,0 +1,5 @@
+[/EN#183020/people Woman] with [/EN#183023/clothing blue plaid shirt] , [/EN#183024/clothing blue print scarf] and [/EN#183029/clothing glasses] , brushing [/EN#183028/other butter] on [/EN#183026/other balls of pastry] .
+[/EN#183020/people A woman] with [/EN#183023/clothing a blue plaid shirt] and [/EN#183024/clothing a bandanna] makes [/EN#183026/other bread] .
+[/EN#183020/people/scene A baker] in [/EN#183023/clothing a blue shirt] is preparing [/EN#183026/other the bread] .
+[/EN#183020/people A person] working baking [/EN#183026/other bread] in [/EN#183022/scene a kitchen] .
+[/EN#183020/people A woman] at [/EN#183021/scene a bakery] is baking [/EN#183026/other pastries] .

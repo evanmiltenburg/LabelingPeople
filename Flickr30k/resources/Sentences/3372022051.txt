@@ -1,0 +1,5 @@
+[/EN#113716/people A boy] is airborne on [/EN#113717/vehicles a bicycle] above [/EN#113721/scene an urban walkway] near [/EN#113718/other a handrail] .
+[/EN#113716/people A cyclist] is performing [/EN#0/notvisual a jump] near to [/EN#113718/other a railing] and [/EN#113720/other a brick wall] .
+[/EN#113716/people The boy] is doing [/EN#113719/other a stunt] through [/EN#0/notvisual the air] , on [/EN#113717/vehicles a bicycle] .
+[/EN#113716/people A teenage boy] does [/EN#0/notvisual tricks] on [/EN#113717/vehicles his bicycle] .
+[/EN#113716/people A man] jumps [/EN#113717/vehicles his bicycle] in [/EN#113722/scene a public park] .

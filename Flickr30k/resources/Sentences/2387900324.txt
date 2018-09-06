@@ -1,0 +1,5 @@
+[/EN#45748/people A gray-haired man] wearing [/EN#45749/clothing a dark gray suit] and [/EN#45750/clothing blue tie] partially extends [/EN#45751/bodyparts his arms] in front of [/EN#45755/bodyparts his body] .
+[/EN#45748/people A man] in [/EN#45749/clothing a suit] engrossed in trying to describe [/EN#45754/other an idea] to [/EN#45756/people his peers] .
+[/EN#45748/people A man] wearing [/EN#45749/clothing a black suit] is talking and gesturing with [/EN#45751/bodyparts his hands] .
+[/EN#45748/people An older man] in [/EN#45749/clothing a suit] and [/EN#45750/clothing blue tie] is making [/EN#45752/other a hand gesture]
+[/EN#45748/people An order man] in [/EN#45749/clothing a suit] appears to be giving [/EN#45753/other a lecture] .

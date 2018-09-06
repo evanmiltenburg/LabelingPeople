@@ -1,0 +1,5 @@
+[/EN#178223/people Three people] walking up [/EN#178228/vehicles/scene the subway] stairs [/EN#178226/other one] is [/EN#178226/people a older black man] with [/EN#178227/other a cane] .
+[/EN#178224/people Young woman] and [/EN#178226/people elderly man] coming out from [/EN#178225/scene an underground subway tunnel] .
+[/EN#178224/people Woman] and [/EN#178226/people man] with [/EN#178230/other cane climb stairs] from [/EN#178232/other underground station] .
+[/EN#178223/people A group of people] walking out of [/EN#178225/scene a train station terminal] .
+[/EN#178223/people Pedestrians] exit [/EN#178229/scene a subway station terminal] .

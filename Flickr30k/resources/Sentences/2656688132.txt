@@ -1,0 +1,5 @@
+[/EN#64328/people A person] stands with [/EN#64327/animals a small dog] balancing on [/EN#64329/bodyparts their leg] .
+[/EN#64328/people The person] is walking with [/EN#64327/animals a small black and white dog] .
+[/EN#64328/people A woman] carrying [/EN#64327/animals a small black dog] between [/EN#64329/bodyparts her legs] .
+[/EN#64327/animals A little dog] is sitting on [/EN#64330/bodyparts a person 's bent leg] .
+[/EN#64328/people a person] with [/EN#64327/animals a small dog] caught in [/EN#64329/bodyparts her legs]

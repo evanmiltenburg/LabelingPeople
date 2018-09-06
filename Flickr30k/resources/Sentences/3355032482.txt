@@ -1,0 +1,5 @@
+[/EN#112205/people Man] in [/EN#112206/vehicles/scene a small boat] , with [/EN#112213/clothing a white turban] around [/EN#112214/bodyparts his head] , transporting [/EN#112212/scene shrubbery] .
+[/EN#112205/people A turbaned man] in [/EN#112209/other a canoe] filled with [/EN#112208/clothing something green] floating in [/EN#112207/scene water] .
+[/EN#112205/people A man] rows [/EN#112211/other a small] dingy laden with [/EN#112208/other green plants] on [/EN#112207/scene a river] .
+[/EN#112205/people This old lady] is rowing [/EN#112208/other her crops] to [/EN#112210/scene the city market] .
+[/EN#112205/people Man] is paddling in [/EN#112206/vehicles/scene a boat] filled with [/EN#112208/other plants] .

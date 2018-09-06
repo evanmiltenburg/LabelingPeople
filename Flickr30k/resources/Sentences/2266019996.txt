@@ -1,0 +1,5 @@
+[/EN#37721/other An individual dressed] in [/EN#37727/clothing white ski top] , [/EN#37726/clothing red ski type pants] , [/EN#37724/clothing white helmet] and [/EN#37733/clothing black gloves] is standing on [/EN#37731/other a ski board] and [/EN#37730/other the photo] was snapped while [/EN#37732/people the skier] is in [/EN#37725/scene midair] .
+[/EN#37721/people A snowboarder] wearing [/EN#37726/clothing red pants] and [/EN#37728/clothing white jacket] and [/EN#37724/clothing helmet] jumps in [/EN#0/notvisual the air] .
+[/EN#37721/people A snowboarder] with [/EN#37726/clothing red pants] does [/EN#37722/other a maneuver] in [/EN#0/notvisual the air] .
+[/EN#37721/people A snowboarder] doing [/EN#0/notvisual a trick] while on [/EN#37723/other a run] .
+[/EN#37721/people A snowboarder] posed [/EN#37723/other mid-jump] .

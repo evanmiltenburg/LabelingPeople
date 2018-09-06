@@ -1,0 +1,5 @@
+[/EN#150667/people A black woman] is sitting on [/EN#150668/other a gray cloth] and is trying to sell [/EN#150670/other tomatoes] at [/EN#150669/scene a market] .
+[/EN#150667/people A woman] is sitting surrounded by [/EN#150671/other buckets] full of [/EN#150670/other tomatoes] .
+[/EN#150667/people A woman] sits on [/EN#150668/other a mat] surrounded by [/EN#150670/other red fruits] .
+[/EN#150667/people A female] at [/EN#150669/scene the market] selling [/EN#150670/other fresh tomatoes] .
+[/EN#150667/people A woman] sells [/EN#150670/other tomatoes] at [/EN#150669/scene an outdoor market] .

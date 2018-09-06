@@ -1,0 +1,5 @@
+[/EN#115097/people A boy] in [/EN#115099/clothing a red shirt] looks down at [/EN#115098/instruments a black guitar] [/EN#0/notvisual he] is playing .
+[/EN#115097/people A young boy] is holding [/EN#115098/instruments a black electric guitar] .
+[/EN#115097/people Little boy] in [/EN#115099/clothing red] playing with [/EN#115098/instruments a black guitar] .
+[/EN#115097/people A boy] in [/EN#115099/clothing a red shirt] trying to play [/EN#115098/instruments a guitar] .
+[/EN#115097/people A little boy] playing [/EN#115098/instruments a guitar] .

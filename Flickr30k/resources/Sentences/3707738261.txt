@@ -1,0 +1,5 @@
+[/EN#138399/people A little girl] in [/EN#138400/clothing a pink jacket] throws [/EN#138399/other leaves] over [/EN#138406/bodyparts her head] in front of [/EN#138399/scene a fence] .
+[/EN#138399/people A little girl] in [/EN#138400/clothing a pink jacket] throwing [/EN#138399/other some leafs] up in [/EN#0/notvisual the air] .
+[/EN#138399/people A young girl] in [/EN#138400/clothing a pink coat] throwing [/EN#138399/other leaves] into [/EN#0/notvisual the air] .
+[/EN#138399/people A girl] in [/EN#138400/clothing a pink coat] throws [/EN#138399/other leaves] in [/EN#0/notvisual the air] .
+[/EN#138399/people A girl] in [/EN#138400/clothing a pink coat] plays in [/EN#138399/other the leaves] .

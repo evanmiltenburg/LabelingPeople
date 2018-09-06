@@ -1,0 +1,5 @@
+[/EN#98955/people The man] is sleeping under [/EN#98956/other a blanket] in [/EN#98958/scene the street] as [/EN#98959/scene the crowds pass] by .
+[/EN#98955/people A man] covered with [/EN#98956/other a blanket] is asleep on [/EN#98958/scene the sidewalk] .
+[/EN#98955/people A man] takes [/EN#98960/other a nap] on [/EN#98958/scene the sidewalk] in [/EN#98957/scene a busy city] .
+[/EN#98955/people A man] sleeps under [/EN#98956/other a blanket] on [/EN#98957/scene a city street] .
+[/EN#98955/people A homeless man] living on [/EN#98958/scene the street]

@@ -1,0 +1,5 @@
+[/EN#77172/people A motorcycle racer] is turning around [/EN#77174/other a curve] on [/EN#77174/scene a wet road] .
+[/EN#77171/other A green motorcycle] is being ridden on [/EN#77173/other a wet racetrack] .
+[/EN#77172/people A man] rides [/EN#77171/other a green motorcycle] on [/EN#77173/other a wet racetrack] .
+[/EN#77172/people Person] riding [/EN#77171/other a green racing motorcycle] .
+[/EN#77172/people a man] on [/EN#77171/vehicles a race bike]

@@ -1,0 +1,5 @@
+[/EN#45785/people People] wearing [/EN#45790/clothing hats] are looking at [/EN#45793/other something] , as [/EN#45792/people a man] holds [/EN#45787/other a black camera] behind [/EN#0/notvisual them] .
+[/EN#45785/people Four people] in [/EN#45790/clothing hats] stand to watch [/EN#45795/scene an event] , [/EN#0/notvisual two of them] with [/EN#45789/other cameras] .
+[/EN#45785/people People] are standing watching [/EN#45791/other something] and taking [/EN#45788/other pictures] .
+[/EN#45785/people People] with [/EN#45790/clothing funny hats] taking [/EN#45791/other pictures of something] .
+[/EN#45785/people Individuals] are standing outside with [/EN#45789/other their cameras] .

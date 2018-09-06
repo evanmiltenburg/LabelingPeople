@@ -1,0 +1,5 @@
+[/EN#33477/animals Two brown dogs] trot along [/EN#0/notvisual frozen ground] in [/EN#33478/scene a rural setting] .
+[/EN#33477/animals Two golden retrievers] running in [/EN#33478/scene a slightly snowy desert] .
+[/EN#33477/animals Two golden retrievers] running in [/EN#33479/scene a snow dusted field] .
+[/EN#33477/animals Two dogs] play out in [/EN#33480/scene the snow covered grass] .
+[/EN#33477/animals Two dogs] run through [/EN#33480/scene a snow-patched desert] .

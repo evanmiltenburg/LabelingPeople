@@ -1,0 +1,5 @@
+[/EN#112845/people A man] in [/EN#112847/clothing a red t-shirt] , [/EN#112851/bodyparts gray hair] stand with [/EN#112846/clothing a black backpack] over [/EN#112852/bodyparts his shoulder] .
+[/EN#112845/people A man] in [/EN#112847/clothing a burnt red shirt] carrying [/EN#112846/clothing a shoulder bag] walking along [/EN#112848/scene a city street] .
+[/EN#112845/people The man] in [/EN#112847/clothing the red shirt] is carrying [/EN#112846/clothing a black bag] through [/EN#112848/scene the city streets] .
+[/EN#112845/people A man] wearing [/EN#112847/clothing a red shirt] looks to [/EN#112850/scene the left] while standing in [/EN#112849/scene a city] .
+[/EN#112845/people Man] carrying [/EN#112846/clothing his shoulder bag] walking down [/EN#112848/scene the street] .

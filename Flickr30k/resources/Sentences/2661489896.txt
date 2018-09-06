@@ -1,0 +1,5 @@
+[/EN#64661/people A child] in [/EN#64663/clothing white shorts] and [/EN#64664/clothing a blue shirt] is standing in [/EN#64662/scene the street] .
+[/EN#64661/people Small boy] is eating [/EN#64666/other a lollipop] and dancing in [/EN#64662/scene the street] .
+[/EN#64661/people A boy] in [/EN#64663/clothing shorts] stands , [/EN#64668/bodyparts arms] outstreched , on [/EN#64667/other a roadway] .
+[/EN#64661/people a young boy] wearing [/EN#64665/clothing a hat] dancing in [/EN#64662/scene the street]
+[/EN#64661/people A child] cavorts on [/EN#64662/scene the road] .

@@ -1,0 +1,5 @@
+[/EN#105051/people Two men] are standing in [/EN#105056/scene the street] behind [/EN#105054/other a table] [/EN#0/notvisual that] has [/EN#105055/other a laptop] and [/EN#105052/other a TV monitor] on [/EN#0/notvisual it] .
+[/EN#105051/people two men] with [/EN#105053/other a lot of electrical equpiment] on [/EN#105054/other a table] in front of [/EN#0/notvisual them] .
+[/EN#105051/people Two men] stand behind [/EN#105054/other a table] with [/EN#105053/other electronics] on [/EN#0/notvisual it] .
+[/EN#105051/people Two men] are setting up [/EN#105053/other some electronic equpitment]
+[/EN#105057/people two men] looking at [/EN#105052/other a screen]

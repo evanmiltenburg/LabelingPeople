@@ -1,0 +1,5 @@
+[/EN#114450/people A boy] is riding [/EN#114453/other a skateboard] down [/EN#114455/other a slope] [/EN#0/notvisual that] leads from [/EN#114451/scene a bridge] to [/EN#114456/scene the street] below .
+[/EN#114450/people A man] jumping with [/EN#114453/other a skateboard] under [/EN#114451/scene a bridge] .
+[/EN#114450/people A male] attempts [/EN#0/notvisual skateboard tricks] by [/EN#114451/scene a bridge] .
+[/EN#114450/people A skateboarder] jumps on [/EN#114454/other an urban alleyway] .
+[/EN#114450/people A guy] skateboarding .

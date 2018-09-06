@@ -1,0 +1,5 @@
+[/EN#152070/people A man] with [/EN#152076/bodyparts brown hair] is sitting on [/EN#152072/scene the sidewalk] next to [/EN#152073/other his luggage] reading [/EN#152071/other a newspaper] .
+[/EN#152070/people A man] contemplates [/EN#152071/other his papers] on [/EN#152072/scene the corner] with [/EN#152073/other a black suitcase] by [/EN#0/notvisual his side] .
+[/EN#152070/people A man] is sitting on [/EN#152072/scene the side of a sidewalk] with [/EN#152075/other a paper] in [/EN#152077/bodyparts his hands] .
+[/EN#152070/people A man] sits on [/EN#152074/other a ledge] on [/EN#152080/scene the street corner] while reading [/EN#152071/other a book] .
+[/EN#152070/people A man] sits on [/EN#152072/scene the sidewalk] reading while wearing [/EN#152081/clothing brown loafers] .

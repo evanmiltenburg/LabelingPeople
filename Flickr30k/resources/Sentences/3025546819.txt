@@ -1,0 +1,5 @@
+[/EN#88283/animals The black and white dog] is in [/EN#88287/scene the brown grass] with [/EN#88284/other a ball] in [/EN#88286/bodyparts his mouth] .
+[/EN#88283/animals A wet dog] runs through [/EN#88285/scene the yellow grass] holding [/EN#88284/other a tennis ball] .
+[/EN#88283/animals A dog] running through [/EN#88287/scene a field] with [/EN#88284/other a ball] in [/EN#88286/bodyparts its mouth]
+[/EN#88283/animals The black and white dog] has [/EN#88284/other a ball] in [/EN#88286/bodyparts its mouth] .
+[/EN#88283/animals A dog] runs on [/EN#88285/scene brown grass] .

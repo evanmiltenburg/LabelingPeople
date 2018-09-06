@@ -1,0 +1,5 @@
+[/EN#133636/vehicles A red jeep] hangs from [/EN#133638/scene the edge of a rocky cliff] as [/EN#133637/people a girl] looks on .
+[/EN#133636/vehicles A four wheel drive car] is navigating along [/EN#133639/other a rocky] off [/EN#133640/scene road trail] .
+[/EN#133637/people A woman] stands next to [/EN#133636/vehicles a red SUV] [/EN#0/notvisual that] has run off into [/EN#133638/scene a ditch] .
+[/EN#133636/vehicles A red truck] is driving over [/EN#133638/scene a rocky surface] .
+[/EN#133636/vehicles A jeep] sidewalks on [/EN#133639/other some rocks] .

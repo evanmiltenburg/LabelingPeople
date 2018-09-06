@@ -1,0 +1,5 @@
+[/EN#117298/people A male athlete] is wearing [/EN#117302/clothing a teal sweatband] and [/EN#117300/clothing a shirt] from [/EN#117301/other Nike] and is holding [/EN#117299/other a tennis racket] .
+[/EN#117298/people a tennis player] wearing [/EN#117300/clothing a yellow , white and blue shirt] carrying [/EN#117299/other a racquet]
+[/EN#117298/people The tennis player] is wearing [/EN#117300/clothing a yellow and blue shirt] and [/EN#117302/clothing a blue headband] .
+[/EN#117298/people A tennis player] is carrying [/EN#117299/other a tennis racket] .
+[/EN#117298/people A man] plays [/EN#117304/other tennis] .

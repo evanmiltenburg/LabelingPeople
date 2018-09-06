@@ -1,0 +1,5 @@
+[/EN#6898/people A boy] in [/EN#6899/clothing a gray hooded sweater] , looking at [/EN#6900/animals a school of fish] at [/EN#6901/scene an aquarium] .
+[/EN#6902/people Children] at [/EN#6901/scene an aquarium] looking at [/EN#6900/animals different kinds of fish] .
+[/EN#6903/people A group of people] are at [/EN#6901/scene an aquarium] to view [/EN#6900/other marine life] .
+[/EN#6902/people Groups of people] observe [/EN#6900/animals fish] in [/EN#6901/clothing a large tank] .
+[/EN#6902/people People] looking at [/EN#6900/animals fish] at [/EN#6901/scene an aquarium] .

@@ -1,0 +1,5 @@
+Near [/EN#72936/other a window] and [/EN#72932/other a chair] , [/EN#72930/people a young boy] in [/EN#72931/clothing a blue shirt] holds [/EN#72934/other something] in [/EN#72933/bodyparts his hand] and smiles .
+[/EN#72930/people a young man] wearing [/EN#72931/clothing a blue striped shirt] standing in front of [/EN#72932/other a floral patterened couch]
+[/EN#72930/people A small boy] wearing [/EN#72931/clothing a light blue shirt] smiles as [/EN#0/notvisual he] holds [/EN#72934/other something] in [/EN#72933/bodyparts his hand] .
+[/EN#72930/people A little boy] wearing [/EN#72935/clothing a red wristband] grins as [/EN#0/notvisual he] holds [/EN#72937/other something] .
+[/EN#72930/people A young boy] smiling with [/EN#72934/other something] in [/EN#72933/bodyparts his hand]

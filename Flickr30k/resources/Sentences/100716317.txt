@@ -1,0 +1,5 @@
+[/EN#210/people A person] with [/EN#211/bodyparts long gray hair] has [/EN#212/clothing a beret] with [/EN#213/clothing beige and white] wearing [/EN#214/clothing a blue raincoat] is painting [/EN#220/scene a marketplace scenery] surrounded by [/EN#215/people other artists] and [/EN#216/other paintings] .
+[/EN#210/people A person] dressed in [/EN#214/clothing a blue coat] is standing in on [/EN#217/scene a busy sidewalk] , studying [/EN#218/scene painting of a street scene] .
+[/EN#210/people A person] with [/EN#211/bodyparts gray hair] is painting in [/EN#217/scene a public place] surrounded by [/EN#219/other others] [/EN#0/notvisual who] are also painting .
+[/EN#210/people Lady] in [/EN#214/clothing blue coat] with [/EN#212/clothing white and brown hat] standing in front of [/EN#218/other a painting] .
+[/EN#210/people Passerby] admiring [/EN#218/other painting] at [/EN#217/scene an outdoor art fair] .

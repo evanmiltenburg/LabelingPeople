@@ -1,0 +1,5 @@
+[/EN#76303/people A man] wearing [/EN#76306/clothing a red shirt] , [/EN#76308/clothing brown shorts] , and [/EN#76313/clothing red and white Nikes] is jumping in [/EN#0/notvisual the air] to hit [/EN#76307/other a tennis ball] on [/EN#76304/other a court] .
+[/EN#76303/people A tennis player] wearing [/EN#76306/clothing an orange shirt] and [/EN#76308/clothing brown shorts] appears to be hitting [/EN#76307/other the ball] back to [/EN#76312/people his opponent] .
+[/EN#0/notvisual There] is [/EN#76303/people a man] wearing [/EN#76306/clothing a red shirt] and [/EN#76308/clothing brown shorts] jumping up to hit [/EN#76307/other a tennis ball] with [/EN#76310/other a racket] .
+[/EN#76305/other A tennis] playing [/EN#76303/people man] jumps in [/EN#0/notvisual the air] , preparing to hit [/EN#76307/other the ball] to [/EN#76314/other the other court] .
+[/EN#76303/people A young man] on [/EN#76304/other the court] hitting [/EN#76311/scene a tennis ball midair] .

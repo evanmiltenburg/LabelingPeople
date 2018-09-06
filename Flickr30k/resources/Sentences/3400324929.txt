@@ -1,0 +1,5 @@
+[/EN#115665/people A group of four people] watch while [/EN#115668/people a man] wearing [/EN#115675/clothing a gray shirt] grabs hold of [/EN#115667/scene a trapeze bar] attached to [/EN#115670/other a tree branch] .
+[/EN#115666/people A group of people] in [/EN#115669/scene a park] filled with [/EN#115671/other trees] while [/EN#115668/people one person] grabs [/EN#115667/other a swing] attached to [/EN#115671/other a tree] .
+[/EN#115665/people A group of young people] relax in [/EN#115669/scene a park] while [/EN#115672/other one] reaches toward [/EN#115667/other a swing] attached to [/EN#115671/other a tree] .
+[/EN#115666/people Five people] are outside in [/EN#115669/scene a park-like area] and [/EN#0/notvisual one of them] is reaching for [/EN#115667/other a hand swing] .
+[/EN#115665/people A group of people] watching [/EN#115668/people a man] reach for [/EN#115667/other a swing] .

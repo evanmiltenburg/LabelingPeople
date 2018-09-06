@@ -1,0 +1,5 @@
+[/EN#194209/people A man] wearing [/EN#194210/clothing a blue coat] with [/EN#194214/clothing yellow stripes] is sitting in [/EN#194211/vehicles an airplane] [/EN#0/notvisual that] is taking off .
+[/EN#194209/people An emergency worker] is looking out [/EN#194212/vehicles the window of a moving vehicle] .
+[/EN#194209/people A bald fireman] in [/EN#194210/clothing his uniform] rides in [/EN#194211/vehicles a moving vehicle] .
+[/EN#194209/people A firefighter] looking out from [/EN#194212/other a vehicle 's window] .
+[/EN#194209/people A firefighter] looking out [/EN#194212/other the window] .

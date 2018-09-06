@@ -1,0 +1,5 @@
+[/EN#196638/people A Japanese man] wearing [/EN#196639/clothing a light-colored button-down shirt] and [/EN#196641/clothing brown slacks] is speaking into [/EN#196640/other a microphone] with [/EN#196643/bodyparts a white head] .
+[/EN#196638/people Asian man] wearing [/EN#196639/clothing a white shirt] and [/EN#196641/clothing gray pants] standing with [/EN#196640/other a microphone] near [/EN#196642/other a loudspeaker] .
+[/EN#196638/people A man] in [/EN#196641/clothing tan slacks] and [/EN#196639/clothing a white dress shirt] is speaking into [/EN#196640/other a microphone] .
+[/EN#196638/people An asian man] stands on [/EN#196644/scene an outdoor stage] speaking into [/EN#196640/other a microphone] .
+[/EN#196638/people A man] in [/EN#196639/clothing a suit] is talking on [/EN#196640/other a microphone] .

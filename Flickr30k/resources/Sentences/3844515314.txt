@@ -1,0 +1,5 @@
+[/EN#145294/people A man] in [/EN#145301/clothing a white striped shirt] at [/EN#145295/other a gambling table] , is next to [/EN#145299/people a woman] in [/EN#145296/clothing a black top] , shuffling [/EN#145298/other a pack of red cards] .
+[/EN#145294/people A man] shuffling [/EN#145298/other cards] over [/EN#145295/other a black counter] with [/EN#145303/other keys] and [/EN#145297/other some poker chips] on [/EN#0/notvisual it] .
+[/EN#145294/people A man] with [/EN#145301/clothing a white dress shirt] shuffles [/EN#145298/other cards] next to [/EN#145299/people a lady] in [/EN#145296/clothing a brown shirt] .
+[/EN#145294/people A man] shuffling [/EN#145298/other cards] at [/EN#145302/other a game] being played with [/EN#145297/other poker chips] .
+[/EN#145294/people A young male] shuffles [/EN#145298/other a deck of cards] .

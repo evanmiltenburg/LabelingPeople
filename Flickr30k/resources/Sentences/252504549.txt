@@ -1,0 +1,5 @@
+[/EN#55189/animals Small dog] catching [/EN#55190/other a ball] in [/EN#55192/bodyparts its mouth] on [/EN#55191/scene a beach] .
+[/EN#55189/animals A white dog] is playing with [/EN#55190/other a ball] on [/EN#55191/scene the beach] .
+[/EN#55189/animals A small dog] is playing with [/EN#55190/other a ball] on [/EN#55193/other the sand] .
+[/EN#55189/animals A dog] on [/EN#55191/scene the beach] has [/EN#55190/other a ball] in [/EN#55192/bodyparts its mouth] .
+[/EN#55189/animals a dog] having [/EN#0/notvisual fun] with [/EN#55190/other a tennis ball]

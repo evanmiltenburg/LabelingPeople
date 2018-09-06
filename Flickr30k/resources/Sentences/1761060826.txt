@@ -1,0 +1,5 @@
+[/EN#20015/people A man] in [/EN#20018/other a wheelchair] wearing [/EN#20024/clothing a brown jacket] and holding [/EN#20016/other a gray cane] sits in front of [/EN#20021/scene some bushes] and [/EN#20023/other trees] .
+[/EN#20015/people A man] in sitting in [/EN#20018/other a wheelchair] located in [/EN#20017/scene a garden] while holding [/EN#20016/other a cane] .
+[/EN#20015/people A man] in [/EN#20018/other a wheelchair] sits in [/EN#20017/scene his garden] and enjoys [/EN#0/notvisual the fresh air] .
+[/EN#20019/other Physically] challenged [/EN#20015/people person] sitting on [/EN#20018/other his wheelchair] in [/EN#20017/scene a park] .
+[/EN#20015/people Man] sits outside to enjoy [/EN#20020/other the weather] .

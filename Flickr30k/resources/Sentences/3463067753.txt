@@ -1,0 +1,5 @@
+[/EN#120015/people A middle eastern man] sells [/EN#120020/animals chicken] from [/EN#120017/scene a street market booth] .
+[/EN#120015/people A middle eastern looking man] weighing [/EN#120019/scene meat outdoors] .
+[/EN#120015/people A merchant] in [/EN#120021/clothing a brown jacket] selling [/EN#120016/other poultry] .
+[/EN#120015/people A man] outside [/EN#120016/other weighing poultry] .
+[/EN#120015/people Man] with [/EN#120016/other poultry] on [/EN#120018/other a table] .

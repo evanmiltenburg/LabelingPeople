@@ -1,0 +1,5 @@
+[/EN#70447/people The construction worker] walks away from [/EN#70452/scene the work site] to go home .
+[/EN#70447/people A construction worker] in [/EN#70449/clothing a white shirt] walking towards [/EN#70448/scene a fence] .
+[/EN#70447/people A man] in [/EN#70449/clothing a white shirt] and [/EN#70453/clothing blue jeans] walking across [/EN#70454/other concrete] .
+[/EN#70447/people A man] in [/EN#70450/clothing a hard hat] moves around [/EN#70451/scene a lot] behind [/EN#70448/scene a fence] .
+[/EN#70447/people The man] in [/EN#70449/clothing white] is walking towards [/EN#70448/scene a fence] .

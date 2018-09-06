@@ -1,0 +1,5 @@
+[/EN#38630/people a man] wearing [/EN#38639/clothing blue shorts] , [/EN#38641/clothing striped shirt] , and [/EN#38640/clothing brown sandals] stands at [/EN#38627/people a street vendor] selling [/EN#38628/other vegetables] engaging with [/EN#38627/people a person] working there in [/EN#38636/clothing a sleeveless shirt] .
+[/EN#0/notvisual There] is [/EN#38637/scene a stand] under [/EN#38632/clothing a large blue and red umbrella] with [/EN#38631/other a large assortment of produce] and [/EN#0/notvisual there] are [/EN#38629/people several people] looking through [/EN#38628/other the produce] .
+[/EN#38626/people A woman] selling [/EN#38628/other produce] to [/EN#38630/people another older woman] at [/EN#38625/scene a produce market] on [/EN#38638/scene a sunny day] .
+[/EN#38625/scene An umbrella-shaded vegetable market] with [/EN#38629/people customers] and [/EN#38642/people workers] about .
+[/EN#38630/people People] at [/EN#38625/scene a market] buying and selling [/EN#38628/other produce] .

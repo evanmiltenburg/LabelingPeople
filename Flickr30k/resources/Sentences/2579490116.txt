@@ -1,0 +1,5 @@
+[/EN#59344/vehicles A white truck] filled with [/EN#59345/other a sofa] , [/EN#59346/other table] , wrapped [/EN#59347/other blue blankets] , and [/EN#59348/other a steel gurney] standing under [/EN#59351/other a thin tree] .
+[/EN#59349/other Furniture] sits [/EN#59344/vehicles inside of a moving truck] with [/EN#59348/scene a ramp] .
+[/EN#59344/vehicles A moving truck] with [/EN#59348/scene ramp] extended holds [/EN#59349/other furniture] .
+[/EN#59349/other Furniture] inside and outside of [/EN#59344/vehicles a moving truck] .
+[/EN#59344/vehicles A moving truck] with [/EN#59348/scene a ramp] still attached .

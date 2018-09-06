@@ -1,0 +1,5 @@
+[/EN#227322/animals A white dog] leaps up to grab [/EN#227323/other a pink Frisbee] .
+[/EN#227322/animals A white dog] catches [/EN#227323/other a red disc] in [/EN#227324/bodyparts his mouth] .
+[/EN#227322/animals A yellow dog] catches [/EN#227323/other a Frisbee] in [/EN#227325/scene midair] .
+[/EN#227322/animals A dog] is catching [/EN#227323/other a Frisbee] i [/EN#227324/bodyparts its mouth] .
+[/EN#227322/animals A yellow dog] catches [/EN#227323/other a red Frisbee] .

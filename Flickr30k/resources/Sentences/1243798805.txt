@@ -1,0 +1,5 @@
+[/EN#6122/people A street performer] strumming on [/EN#6124/instruments his guitar] , waiting for [/EN#6122/people people] to toss [/EN#0/notvisual him] [/EN#6124/scene tips] .
+[/EN#6122/people A man] in [/EN#6123/clothing a brown shirt] and [/EN#6126/clothing black pants] is sitting on [/EN#6122/scene the sidewalk] with [/EN#6124/instruments a guitar] .
+[/EN#6122/people A man] with [/EN#6130/bodyparts a beard] and [/EN#6129/clothing white bandannas] is playing [/EN#6124/instruments the guitar] on [/EN#6122/scene the sidewalk] .
+[/EN#6122/people A man] in [/EN#6123/clothing a brown shirt] is sitting on [/EN#6122/scene the sidewalk] and playing [/EN#6124/instruments a guitar] .
+[/EN#6122/people A young man] sitting by [/EN#6131/other a dumpster] on [/EN#6122/scene a sidewalk] playing [/EN#6124/instruments the guitar] .

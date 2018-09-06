@@ -1,0 +1,5 @@
+[/EN#219872/people A young girl] in [/EN#219874/clothing a blue sweater] holding [/EN#219873/people a baby] in [/EN#219876/clothing a white shirt] outside .
+[/EN#219872/people A young girl] holding [/EN#219873/people a small child] [/EN#0/notvisual who] 's wearing [/EN#219875/clothing blue overalls] .
+[/EN#219872/people A teenager girl] holds [/EN#219873/people a toddler] with [/EN#219877/other a pacifier] .
+[/EN#219872/people Girl] in [/EN#219874/clothing blue jacket] holding [/EN#219873/people a baby] in [/EN#219875/clothing overalls] .
+[/EN#219872/people A young girl] holding [/EN#219873/people a toddler] .

@@ -1,0 +1,5 @@
+[/EN#79189/people A climber] approaches [/EN#79193/scene the top of a cliff] high above [/EN#79192/scene the surrounding terrain] .
+[/EN#79189/people A mountain climber] nears [/EN#79194/bodyparts the top of a steep , high rock face] .
+[/EN#79189/people A climber] is hanging on [/EN#79195/other a rocky ledge] high over [/EN#79191/scene a bridge] .
+[/EN#79189/people A man] is climbing [/EN#79193/scene a cliff] high in [/EN#0/notvisual the air] .
+[/EN#79189/people A man] is scaling [/EN#79193/scene a large cliff]

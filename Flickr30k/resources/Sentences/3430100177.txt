@@ -1,0 +1,5 @@
+[/EN#117667/people A group of people] are gathered on [/EN#117671/scene a sidewalk] in front of [/EN#117673/scene a store] [/EN#117672/scene nearby a littered street] .
+[/EN#117668/people One woman] sitting on [/EN#117671/scene a sidewalk] with [/EN#117675/other others] to [/EN#0/notvisual the side] and behind [/EN#0/notvisual her] .
+[/EN#117667/people Many people] are standing outside on [/EN#117672/scene a street] filled with [/EN#117674/other litter] .
+[/EN#117668/people A woman] is sitting on [/EN#117670/other the curb] staring off into [/EN#0/notvisual the distance] .
+[/EN#117667/people A crowd of people] sit [/EN#117669/other an walk] across [/EN#117672/scene dirty streets]

@@ -1,0 +1,5 @@
+[/EN#203987/people A boy] in [/EN#203991/clothing a striped shirt] is preparing to take [/EN#203995/other a picture] with [/EN#203988/other his camera] .
+[/EN#203987/people A man] wearing [/EN#203991/clothing a striped shirt] has [/EN#203988/other a camera] slung over [/EN#203996/bodyparts his shoulder] .
+[/EN#203987/people Two men] with [/EN#203992/other cameras] are taking [/EN#203989/other pictures] at [/EN#203997/scene an outdoor event] .
+[/EN#203993/people A group of spectators] use [/EN#203992/other their cameras] to capture [/EN#203990/other an image] .
+[/EN#203987/people A man] in [/EN#203991/clothing a striped shirt] taking [/EN#203989/other pictures] .

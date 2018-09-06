@@ -1,0 +1,5 @@
+[/EN#124637/people A woman] is looking through [/EN#124638/instruments a scientific instrument] at [/EN#124639/other a small piece of technology] .
+[/EN#124637/people Woman] looking through [/EN#124638/other a high-powered microscope] at [/EN#124640/other a bacteria] in [/EN#124639/other a small vial]
+[/EN#124637/people A woman] in [/EN#124643/clothing a lab coat] is looking into [/EN#124638/other a microscope] in [/EN#124644/animals/scene a lab] .
+[/EN#0/notvisual There] is [/EN#124637/people a scientist] looking through [/EN#124638/other a microscope] .
+[/EN#124637/people A female researcher] videotaping [/EN#124641/other a specimen] .

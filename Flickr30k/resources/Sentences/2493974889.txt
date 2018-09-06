@@ -1,0 +1,5 @@
+[/EN#53213/people Two children] walking away , down [/EN#53214/scene a path] surrounded by [/EN#53215/other trees] .
+[/EN#53213/people Two boys] are walking down [/EN#53216/other a tree] lined [/EN#53214/scene dirt path] .
+[/EN#53213/people Two children] walking down [/EN#53214/scene a path] in [/EN#53215/other the woods] .
+[/EN#53213/people Two kids] are walking on [/EN#53214/scene a path] in [/EN#53215/other the woods] .
+[/EN#53213/people Two children] walking down [/EN#53214/scene a forest path] .

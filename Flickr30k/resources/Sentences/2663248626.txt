@@ -1,0 +1,5 @@
+[/EN#64765/animals A black and white dog] chasing [/EN#64767/animals a tan and white dog] across [/EN#64763/scene a path] .
+[/EN#64762/animals Two dogs] are running quickly through [/EN#64764/scene a park] .
+[/EN#64762/animals two dogs] are running across [/EN#64763/scene a grassy path] .
+[/EN#64766/animals A dog] runs behind [/EN#0/notvisual another] at [/EN#64764/scene a park] .
+[/EN#64762/animals Two dogs] run through [/EN#64764/scene the park] .

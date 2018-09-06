@@ -1,0 +1,5 @@
+[/EN#122150/vehicles Two dragsters] race down [/EN#122151/scene the track] in front of [/EN#122161/people a crowd of spectators] watching [/EN#122154/other the drag race] from [/EN#122159/scene the stands] .
+[/EN#122150/vehicles Two drag racing cars] [/EN#122157/other resembling train locomotives] are leaving [/EN#122160/other the starting line] .
+[/EN#122150/vehicles Two race cars] speed along [/EN#122151/scene a track] with [/EN#122152/other smoke] coming from [/EN#0/notvisual the backs of them] .
+[/EN#122153/other Two automobiles race] [/EN#0/notvisual each other] and pour [/EN#122152/other smoke] from [/EN#122156/other behind] .
+[/EN#122150/vehicles Two rocket dragsters] racing at [/EN#122155/vehicles a dragsters] .

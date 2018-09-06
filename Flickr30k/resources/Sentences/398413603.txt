@@ -1,0 +1,5 @@
+[/EN#150952/animals A white dog] is leaping into [/EN#0/notvisual the air] to catch [/EN#150953/other a ball] in [/EN#150954/bodyparts its mouth] .
+[/EN#150952/animals A white dog] with [/EN#150957/clothing a black collar] jumps up to catch [/EN#150953/other a tennis ball]
+[/EN#150952/animals A small white dog] stands on [/EN#150956/bodyparts one leg] to catch [/EN#150953/other a ball] .
+[/EN#150952/animals A white dog] is in [/EN#0/notvisual the air] with [/EN#150953/other a ball] in [/EN#150954/bodyparts its mouth] .
+[/EN#150952/animals A small white dog] jumping to catch [/EN#150953/other a tennis ball] .

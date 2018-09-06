@@ -1,0 +1,5 @@
+[/EN#233585/people A small boy] in [/EN#233587/clothing jeans] and [/EN#233586/clothing a white shirt] holding [/EN#233589/other a piece of paper] in [/EN#233591/vehicles a black vehicle] .
+[/EN#233585/people a boy] in [/EN#233586/clothing a white shirt] and [/EN#233587/clothing jeans] in [/EN#0/notvisual what] looks like [/EN#233588/people a black camper]
+[/EN#233585/people A little boy] in [/EN#233586/clothing a white shirt] and [/EN#233587/clothing jeans] stands in [/EN#233588/other an R.V.]
+[/EN#233585/people A little boy] stands in [/EN#233590/other the doorway of a van] .
+[/EN#233585/people A child] in [/EN#233586/clothing a white shirt] and [/EN#233587/clothing jeans] .

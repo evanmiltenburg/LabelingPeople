@@ -1,0 +1,5 @@
+[/EN#202630/people Three men] travel through [/EN#202632/scene water] on [/EN#202631/scene a motorized inflatable raft] .
+[/EN#202630/people Three males] are riding out in [/EN#202631/vehicles/scene a red and black floating boat] .
+[/EN#202630/people Three men] go for [/EN#202634/other a ride] in [/EN#202631/vehicles/scene a boat] .
+[/EN#202630/people Three men] in [/EN#202631/vehicles/scene a boat] on [/EN#202632/scene the water] .
+[/EN#202630/people three men] ride in [/EN#202631/other a dingy] .

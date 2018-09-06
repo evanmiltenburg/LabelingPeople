@@ -1,0 +1,5 @@
+[/EN#123999/animals A spotted dog] stands on [/EN#124004/bodyparts his hind legs] to catch [/EN#124000/other a ball] on [/EN#124001/scene the beach] .
+[/EN#123999/animals a black and gray dog] catches [/EN#124000/other a tennis ball] at [/EN#124001/scene the beach]
+[/EN#123999/animals A dog] is catching [/EN#124000/other a yellow tennis ball] on [/EN#124001/scene the beach] .
+[/EN#123999/animals A dog] jumping for [/EN#124000/other a tennis ball] near [/EN#124002/scene an ocean]
+[/EN#123999/animals A dog] jumps to catch [/EN#124000/other a ball] in [/EN#124003/other the surf] .

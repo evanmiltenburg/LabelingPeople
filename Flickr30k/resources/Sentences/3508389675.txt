@@ -1,0 +1,5 @@
+[/EN#123623/people A little girl] in [/EN#123625/clothing a checkered dress] plays with [/EN#123624/other her big blue ball] near [/EN#123627/scene a mesh fence] .
+[/EN#123623/people A little girl] in [/EN#123625/clothing a pink dress] is carrying [/EN#123624/other a big vinyl ball] outside in [/EN#123626/scene the grass] .
+[/EN#123623/people A small girl] is standing on [/EN#123626/scene the grass] holding [/EN#123624/other a large green ball] .
+[/EN#123623/people A toddler] holds [/EN#123624/other a large blue ball] while playing in [/EN#123626/scene the grass] .
+[/EN#123623/people A little girl] with [/EN#123628/bodyparts blond-hair] is holding [/EN#123624/other a big blue ball] .

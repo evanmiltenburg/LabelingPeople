@@ -1,0 +1,5 @@
+[/EN#195730/people A woman] is standing on [/EN#195731/other a side of the line] making [/EN#195733/other meat] , while [/EN#195726/people a man] is on [/EN#0/notvisual the other side] making [/EN#195729/other bagels] .
+[/EN#195727/people Two people] working in [/EN#195728/scene a bagel store] , [/EN#0/notvisual which] is celebrating [/EN#195732/other it 's 20th anniversary] .
+[/EN#195726/people A man] with [/EN#195735/bodyparts a mustache] is working with [/EN#195729/other bagels] .
+[/EN#195727/scene Employees of a bagel shop] making [/EN#195729/other bagels] .
+[/EN#195727/people Workers] working at [/EN#195728/scene a bagel shop] .

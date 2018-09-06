@@ -1,0 +1,5 @@
+[/EN#174007/people A woman] in [/EN#174008/clothing a red sweater] is standing next to [/EN#174009/other crates of pineapple] .
+[/EN#174007/people A woman] in [/EN#174008/clothing a red jacket] looking at [/EN#174009/other boxes] [/EN#0/notvisual that] are on [/EN#0/notvisual the ground] .
+[/EN#174007/people A woman delivery truck driver] is reaching for [/EN#174013/other a box] .
+[/EN#174007/people A worker] is loading up [/EN#174011/other some pineapples] to transport .
+[/EN#174007/people Woman] emptying [/EN#174009/other produce] off [/EN#174014/vehicles cart] outside at [/EN#174015/scene a stand] .

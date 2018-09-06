@@ -1,0 +1,5 @@
+[/EN#168459/people A man] in [/EN#168461/clothing a dark jacket] and [/EN#168465/clothing gray sweatshirt] is watching [/EN#168458/people his dark-haired female companion] eat [/EN#168463/other a meal] .
+[/EN#168458/people A woman] with [/EN#168462/clothing a headband] on is eating and [/EN#168459/people a man] is watching [/EN#168466/other her eat] .
+[/EN#168458/people A girl] putting [/EN#168464/other food] into [/EN#168467/bodyparts her mouth] while [/EN#168459/people a boy] looks at [/EN#0/notvisual her] .
+[/EN#168459/people A man] and [/EN#168458/people woman] are eating at [/EN#168460/scene a restaurant] .
+[/EN#168459/people A guy] and [/EN#168458/people a girl] eating at [/EN#168460/scene a restaurant] .

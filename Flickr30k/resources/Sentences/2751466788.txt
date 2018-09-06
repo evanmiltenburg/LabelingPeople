@@ -1,0 +1,5 @@
+[/EN#70420/people The man] in [/EN#70421/clothing the purple shirt] is walking towards [/EN#70422/people the policeman] [/EN#0/notvisual who] is standing on [/EN#70423/people the pedestrian] crossing .
+[/EN#70420/people A man] walks toward [/EN#70422/people a policeman] standing in [/EN#70424/scene a crosswalk] on [/EN#70429/scene a city street] .
+[/EN#70425/people People] in [/EN#70429/scene the middle of city street] surrounded by [/EN#70426/scene large buildings] .
+[/EN#70422/people A police officer] directs [/EN#70430/vehicles traffic] on [/EN#70429/scene a city street] .
+[/EN#70422/people A policeman] stands in [/EN#70427/scene a crosswalk] in [/EN#70428/scene a city] .

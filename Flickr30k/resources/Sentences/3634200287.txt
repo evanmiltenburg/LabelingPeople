@@ -1,0 +1,5 @@
+[/EN#132914/people A bald musician] wearing [/EN#132919/clothing a black shirt] plays [/EN#132915/instruments his guitar] on [/EN#132916/scene stage] .
+[/EN#132914/people A guitarist] plays on [/EN#132916/scene stage] with [/EN#132917/other green lights] behind [/EN#0/notvisual him] .
+[/EN#132914/people A musician] is playing [/EN#132915/instruments an instrument] on [/EN#132916/scene stage] .
+[/EN#132914/people A man] playing [/EN#132915/instruments a bass] on [/EN#132916/scene stage] .
+[/EN#132914/people A man] playing [/EN#132918/other music] on [/EN#132916/scene stage] .

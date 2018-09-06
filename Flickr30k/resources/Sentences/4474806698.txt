@@ -1,0 +1,5 @@
+[/EN#171392/people Person] in [/EN#171393/clothing a blue anorak] reading [/EN#171394/other a large sign] standing on [/EN#171396/other a train platform] .
+[/EN#171392/people A woman] in [/EN#171393/clothing a blue and black jacket] looking at [/EN#171394/other a sign] by [/EN#171398/scene railroad tracks] .
+[/EN#171392/people A woman] wearing [/EN#171393/clothing a white baseball cap purple coat] holding [/EN#171394/other a poster] .
+[/EN#171392/people A woman] reads [/EN#171394/other a large annotated map] while waiting for [/EN#171395/vehicles/scene the subway] .
+[/EN#171392/people A woman] in [/EN#171393/clothing a blue coat] holding up [/EN#171394/other a sign] .

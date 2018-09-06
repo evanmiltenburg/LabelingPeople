@@ -1,0 +1,5 @@
+[/EN#232343/animals A white puppy] is drinking [/EN#232345/scene water] from [/EN#232344/other a tap] attached to [/EN#232349/other a white wall] .
+[/EN#232343/scene a big tan dog drinks water] from [/EN#232344/other an outdoor water spout] .
+[/EN#232343/animals A white dog] in [/EN#232350/clothing a brown collar] drinking from [/EN#232344/other a spigot] .
+[/EN#232343/animals A closeup of a white dog] drinking from [/EN#232344/other a pipe] .
+[/EN#232343/animals The dog] is drinking [/EN#232345/scene water] from [/EN#232348/scene a fountain] .

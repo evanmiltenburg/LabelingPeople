@@ -1,0 +1,5 @@
+[/EN#188031/people A person] wearing [/EN#188036/clothing red shorts] and [/EN#188033/clothing a sweater] is pointing upwards and running as [/EN#188038/people people] in [/EN#0/notvisual the background] watch .
+[/EN#188031/people A man] with [/EN#188034/bodyparts a large leg tattoo] is running around in [/EN#188036/clothing his underwear] and [/EN#188033/clothing pajamas] and carrying [/EN#188039/other some cloth] .
+[/EN#0/notvisual This] is [/EN#188031/people a random man] with [/EN#188034/bodyparts a tattoo] on [/EN#188035/bodyparts his leg] running towards [/EN#188040/other something] .
+[/EN#188031/people A man] in [/EN#188041/scene a the streets] wearing [/EN#188032/clothing a blue and white jacket] .
+[/EN#188031/people The man] in [/EN#188036/clothing the red shorts] has [/EN#188034/bodyparts a tattoo] on [/EN#188035/bodyparts his leg] .

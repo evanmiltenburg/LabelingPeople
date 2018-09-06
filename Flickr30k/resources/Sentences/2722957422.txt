@@ -1,0 +1,5 @@
+[/EN#68637/vehicles/scene The school bus] is unloading [/EN#68638/people children] near [/EN#68639/vehicles the parked cars] .
+[/EN#68638/people Small children] are getting off [/EN#68637/vehicles/scene a school bus] .
+[/EN#68639/vehicles Parked cars] with [/EN#68637/vehicles/scene a school bus] behind [/EN#0/notvisual them] .
+[/EN#68638/people Kids] getting off [/EN#68637/vehicles/scene a yellow school bus] .
+[/EN#68638/people The children] are getting off [/EN#68637/vehicles/scene the bus] .

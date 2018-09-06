@@ -1,0 +1,5 @@
+[/EN#190853/people Numerous people] dressed in [/EN#190854/clothing t-shirts] and [/EN#190855/clothing shorts] are walking through [/EN#190851/scene a city park] .
+[/EN#190851/scene A view of a park] during [/EN#190856/other the daytime] with [/EN#190852/scene large skyscrapers] in [/EN#0/notvisual the background] .
+[/EN#190850/people A lot of joggers] running in [/EN#190851/scene a park] with [/EN#190852/scene two skyscrapers] in [/EN#0/notvisual the background] .
+[/EN#190850/people A large group of people] are racing through [/EN#190851/scene a heavily treed park] .
+[/EN#190851/scene View of park] with [/EN#190852/scene city buildings] in [/EN#0/notvisual background] .

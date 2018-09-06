@@ -1,0 +1,5 @@
+[/EN#135604/people A woodcarver] is carving [/EN#135605/animals a bald eagle] out of [/EN#135610/other wood] at [/EN#135608/other a carnival] as [/EN#135613/people spectators] look on .
+[/EN#135604/people An artist] is carving [/EN#135609/other an intricate sculpture] using [/EN#135610/other a tree] and [/EN#135607/other an electric saw] .
+[/EN#135604/people Man] wearing [/EN#135614/clothing black] and carving [/EN#135609/other an eagle sculpture] with [/EN#135606/other a chainsaw] .
+[/EN#135604/people A man] is using [/EN#135606/other a chainsaw] to carve [/EN#135611/animals a bear] and [/EN#135605/animals a bird] out of [/EN#135610/other wood] .
+[/EN#135604/people A person] carving [/EN#135605/animals a hawk] out of [/EN#135610/other a tree trunk] with [/EN#135606/other a chainsaw] .

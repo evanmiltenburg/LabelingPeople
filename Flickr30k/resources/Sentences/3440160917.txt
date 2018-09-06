@@ -1,0 +1,5 @@
+[/EN#118442/people A small child] is holding [/EN#118444/other a basket of brightly colored Easter eggs] and is picking up [/EN#118443/other a pink one] from [/EN#118448/scene the grass] .
+[/EN#118442/people The child] is carrying [/EN#118444/other a basket of colored eggs] and bending over with [/EN#118443/other an egg] in [/EN#118449/bodyparts his hand] .
+[/EN#118442/people A young boy] carrying [/EN#118444/other a basket] collects [/EN#118443/other Easter eggs] in [/EN#118448/scene the grass] .
+[/EN#118442/people A child] in [/EN#118450/clothing a green sweatshirt] is collecting [/EN#118446/other colored eggs]
+[/EN#118442/people A young child] is picking up [/EN#118443/other Easter eggs] in [/EN#118448/scene the grass] .

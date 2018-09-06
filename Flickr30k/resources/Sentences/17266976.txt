@@ -1,0 +1,5 @@
+[/EN#19470/scene A crowded busy dock] with [/EN#19472/people people] standing next to [/EN#19471/vehicles a freight car] either loading or unloading [/EN#0/notvisual it] .aa .
+[/EN#19472/people People] at [/EN#19470/scene a dock] receiving and shipping out [/EN#19471/other merchandise] near [/EN#19473/vehicles/scene a nice big white boat] .
+[/EN#19472/people Men] are standing next to [/EN#19471/other a pallet of goods] near [/EN#19473/vehicles/scene a boat] .
+[/EN#19472/people Shipyard workers] are standing around .
+[/EN#19471/other Cargo] is being loaded onto [/EN#19474/other a ship] .

@@ -1,0 +1,5 @@
+[/EN#31322/people A woman] in [/EN#31323/clothing a white dress] is dancing in [/EN#31326/scene the middle] of [/EN#31324/scene a field] .
+[/EN#31322/people A girl] in [/EN#31323/clothing a white dress] is posing as [/EN#31327/people a ballerina] .
+[/EN#31322/people A young dancer] holds [/EN#31328/other a pose] in [/EN#31325/scene an open field] .
+[/EN#31322/people A girl] in [/EN#31323/clothing a white dress] dancing in [/EN#31324/scene a field] .
+[/EN#31322/people A girl] is dancing in [/EN#31325/scene the valley] .

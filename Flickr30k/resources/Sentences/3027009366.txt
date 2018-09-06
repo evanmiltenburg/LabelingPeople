@@ -1,0 +1,5 @@
+[/EN#88379/people A man] in [/EN#88389/clothing a red uniform] leaps in [/EN#0/notvisual the air] as [/EN#88380/other one] in [/EN#88381/clothing a white uniform] tries to kick [/EN#88382/other a ball] .
+[/EN#88383/people The soccer player] in [/EN#88381/clothing white] is challenging [/EN#88379/people the player] in [/EN#88389/clothing red] for [/EN#88382/other the ball] in [/EN#88387/scene midair] .
+During [/EN#88388/other a soccer game] , [/EN#88379/people one man] is in [/EN#0/notvisual the air] while [/EN#0/notvisual another] has [/EN#88384/other one foot] down .
+[/EN#88391/people Two soccer teams] are playing , [/EN#88380/other one] is in [/EN#88381/clothing white] the other in [/EN#88389/clothing red] .
+[/EN#88385/people A group of men] play [/EN#88388/other soccer] on [/EN#88386/scene the field] .

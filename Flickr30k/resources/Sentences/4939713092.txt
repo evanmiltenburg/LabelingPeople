@@ -1,0 +1,5 @@
+[/EN#220999/people A young male child] in [/EN#221002/clothing an orange dinosaur hoodie] eats [/EN#221003/other a snack] inside of [/EN#220999/vehicles a shopping cart] while leaning against [/EN#220999/other a new , sealed comforter] .
+[/EN#220999/people A child] in [/EN#221002/clothing an orange hooded sweatshirt] , looking at [/EN#0/notvisual the camera] , eating [/EN#221003/other a snack] .
+[/EN#220999/people A young boy] eating [/EN#221003/other a small cake] is in [/EN#220999/vehicles a shopping cart] filled with [/EN#220999/other groceries] .
+[/EN#220999/people Young male child] in [/EN#220999/vehicles a grocery cart] with [/EN#220999/other food items] .
+[/EN#220999/people A child] is eating in [/EN#220999/other a basket of groceries] .

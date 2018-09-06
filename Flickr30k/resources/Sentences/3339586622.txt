@@ -1,0 +1,5 @@
+[/EN#110807/people A woman] in [/EN#110812/clothing purple] is on [/EN#110808/vehicles a purple bike] wearing [/EN#110809/clothing a blue and red helmet] .
+[/EN#110807/people a woman] wearing [/EN#110812/clothing purple] on [/EN#110808/vehicles a purple bike] doing [/EN#0/notvisual a trick] on [/EN#110810/scene a ramp]
+[/EN#110807/people A woman] wearing [/EN#110809/clothing a helmet] rides [/EN#110808/vehicles her bike] down [/EN#110810/other a steep incline] .
+[/EN#110807/people The woman] is performing [/EN#0/notvisual a trick] on [/EN#110810/scene a ramp] with [/EN#110808/vehicles a bicycle] .
+[/EN#110807/scene The helmeted girl perches] on [/EN#110808/vehicles a bike] .

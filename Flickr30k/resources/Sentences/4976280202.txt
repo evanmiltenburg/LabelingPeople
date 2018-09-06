@@ -1,0 +1,5 @@
+[/EN#225167/people A woman] with [/EN#225171/clothing a red and white piece of clothing] draped over [/EN#225174/bodyparts/people her arm] rides [/EN#225169/vehicles a pink cruiser-style bicycle] down [/EN#225168/scene a boardwalk] .
+[/EN#225167/people A lady] rides [/EN#225169/vehicles her bike] on [/EN#225172/other a wooden deck] at [/EN#225170/scene the beach] .
+[/EN#225167/people A girl] in [/EN#225173/clothing blue] rides [/EN#225169/vehicles a pink bicycle] over [/EN#225168/scene a bridge] .
+[/EN#225167/people Women] riding [/EN#225169/vehicles bike] on [/EN#225168/scene boardwalk] .
+[/EN#225167/people A woman] is riding [/EN#225169/vehicles a pink bike] .

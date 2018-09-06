@@ -1,0 +1,5 @@
+[/EN#221652/other A poverty] stricken [/EN#221655/scene housing area] with [/EN#221645/people a lady] in [/EN#221650/clothing black] with [/EN#221647/clothing white headdress] in [/EN#0/notvisual the distance] .
+[/EN#221645/people A woman] in [/EN#221650/clothing black] with [/EN#221647/clothing a white headscarf] is off in [/EN#0/notvisual the distance] from [/EN#221654/scene a hill] .
+[/EN#221645/people Someone] dressed in [/EN#221649/clothing white and black] is walking [/EN#221646/scene the street] .
+[/EN#221645/people A person] walks down [/EN#221646/scene the street] wearing [/EN#221648/other a white shroud] .
+[/EN#221645/people A man] walks on [/EN#221646/scene the sidewalk] next to [/EN#221653/scene a building] .

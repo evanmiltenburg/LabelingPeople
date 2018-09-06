@@ -1,0 +1,5 @@
+[/EN#112645/people A man] and [/EN#112646/people a little boy] are sitting on [/EN#112647/scene the porch] eating [/EN#112648/other a snack] .
+[/EN#112645/people A man] and [/EN#112646/people a young boy] relax while eating [/EN#112648/other snacks] on [/EN#112649/scene the porch] .
+[/EN#112645/people A man] and [/EN#112646/people a young boy] are sitting on [/EN#112651/other a step] eating [/EN#112648/clothing oranges] .
+[/EN#112645/people An adult] and [/EN#112646/people a child] sitting in [/EN#112647/scene a doorway] eating [/EN#112648/other a snack] .
+[/EN#112645/people A man] and [/EN#112646/people a boy] having [/EN#112650/other a snack] .

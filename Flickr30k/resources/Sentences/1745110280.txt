@@ -1,0 +1,5 @@
+[/EN#19844/animals Stretched image of a brown dog] with [/EN#19848/other a white patch of fur] in [/EN#19848/scene his chest area] sitting in [/EN#19850/scene the grass] with [/EN#19846/other trees] in [/EN#0/notvisual the background] .
+[/EN#19844/animals A caramel colored dog] sits in front of [/EN#19846/other trees] looking forward .
+[/EN#19844/animals A brown dog] with [/EN#19845/clothing a black collar] stands next to [/EN#19846/scene a bush] .
+[/EN#19844/animals A sad looking dog] sitting next to [/EN#19846/other shrubs] .
+[/EN#19844/animals The brown dog] is wearing [/EN#19845/clothing a black collar] .

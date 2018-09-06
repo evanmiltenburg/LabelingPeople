@@ -1,0 +1,5 @@
+[/EN#57340/animals A small and gray dog] chases [/EN#57341/animals a large bull] [/EN#0/notvisual who] is jumping away from [/EN#0/notvisual it] .
+[/EN#57341/animals A brown and white cow] jumps away from [/EN#57340/animals a black and white cattle dog] .
+[/EN#57340/animals A black and white dog] is playing with [/EN#57341/animals a large brown cow] .
+[/EN#57340/animals a small dog] chasing after [/EN#57341/animals a bucking cow]
+[/EN#57340/animals A dog] is herding [/EN#57341/animals a bucking cow] .

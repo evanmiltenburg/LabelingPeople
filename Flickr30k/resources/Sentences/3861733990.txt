@@ -1,0 +1,5 @@
+[/EN#146133/people A man] at [/EN#146134/vehicles/scene the wheel of a boat] with [/EN#146136/people a man] reading [/EN#146135/other a newspaper] beside [/EN#0/notvisual him] .
+[/EN#146141/people three men] are in [/EN#146140/vehicles/scene the wheelhouse of a boat] and [/EN#0/notvisual one of them] is driving .
+[/EN#146133/people A man] in [/EN#146142/clothing a hat] is steering [/EN#146134/vehicles/scene a boat] while [/EN#146136/people a passenger] reads [/EN#146135/other the paper] .
+[/EN#146133/people Commuter] reads [/EN#146135/other the paper] while riding on [/EN#146134/vehicles/scene a boat] .
+[/EN#146133/people man] reading [/EN#146137/people a navigator] on [/EN#146134/vehicles/scene a boat] .

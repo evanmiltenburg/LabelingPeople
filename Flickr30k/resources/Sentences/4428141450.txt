@@ -1,0 +1,5 @@
+[/EN#167292/people A man] with [/EN#167301/bodyparts a beard] [/EN#0/notvisual who] wears [/EN#167298/clothing a black knit hat] and [/EN#167299/clothing a gray vest] stands by [/EN#167294/scene a building] .
+[/EN#167292/people A man] operates [/EN#167295/other a drill] while working on [/EN#167294/scene the window of a building] .
+[/EN#167292/people Dark man] uses [/EN#167295/other a screwdriver] to break into [/EN#167294/other a window] in [/EN#167294/scene an alley] .
+[/EN#167292/people A man] wearing [/EN#167299/clothing torn clothes] stands in [/EN#167293/scene an alley] .
+[/EN#167292/people a man] is drilling in [/EN#167294/scene the side of a building] .

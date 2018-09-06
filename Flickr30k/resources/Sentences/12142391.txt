@@ -1,0 +1,5 @@
+[/EN#5370/people A man] in [/EN#5373/clothing a pink plaid shirt] , holds [/EN#5372/other a blue object] , [/EN#5375/other a green object] and [/EN#5376/other a red object] [/EN#0/notvisual that] are often used for [/EN#5379/other juggling] .
+[/EN#5371/clothing The back of hat] wearing [/EN#5370/people juggler] holding [/EN#5374/other two Indian clubs] in [/EN#5380/bodyparts one hand] and [/EN#5372/other one] in [/EN#5381/bodyparts the other hand] .
+[/EN#5370/people A man] wearing [/EN#5371/clothing a hat] with [/EN#5377/bodyparts blond dreadlocks] holds juggling [/EN#5374/other pins] under [/EN#5382/scene a blue sky] .
+[/EN#5370/people man] wearing [/EN#5371/clothing bowler hat] and [/EN#5373/clothing red flannel shirt] holding [/EN#5374/other juggling pins]
+[/EN#5370/people A person] in [/EN#5371/clothing a black hat] is holding [/EN#5374/other multicolored juggling pins] .

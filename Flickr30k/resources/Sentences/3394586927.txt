@@ -1,0 +1,5 @@
+[/EN#115073/people The skateboarder] wearing [/EN#115075/clothing a black t-shirt] and [/EN#115081/clothing black pants] is in front of [/EN#115078/scene the red brick building] .
+[/EN#115073/people The man] in [/EN#115074/clothing the black shirt] is skateboarding on [/EN#115078/scene the front steps of the building] .
+[/EN#115073/people A man] in [/EN#115076/clothing dark clothes] leaning off of [/EN#115079/scene a building entrance] with [/EN#115083/bodyparts upraised arms] .
+[/EN#115073/people A man] on [/EN#115077/other a skateboard] on [/EN#115078/other steps] in [/EN#115082/scene front glass doors of a brick building] .
+[/EN#115073/people A skateboard rider] riding [/EN#115077/other his skateboard] down [/EN#115078/scene the steps of a building] .

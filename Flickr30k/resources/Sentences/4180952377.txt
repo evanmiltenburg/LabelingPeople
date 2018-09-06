@@ -1,0 +1,5 @@
+[/EN#158207/people A man] works on [/EN#158208/vehicles his car] as [/EN#0/notvisual he] tries to keep warm with [/EN#158211/clothing his hat] and [/EN#158209/clothing sweatshirt] .
+[/EN#158207/people An elderly man] in [/EN#158209/clothing a light blue coat] works on [/EN#158208/vehicles a car] on [/EN#158212/scene the roadside] .
+[/EN#158207/people Older man] in [/EN#158209/clothing a teal fleece jacket] working on [/EN#158208/vehicles a car] .
+[/EN#158207/people A man] in [/EN#158209/clothing a green jacket] is working on [/EN#158213/other his tire] .
+[/EN#158207/people A man] in [/EN#158209/clothing a green jacket] working on [/EN#158208/vehicles a car] .

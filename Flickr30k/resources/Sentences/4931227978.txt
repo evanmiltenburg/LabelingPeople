@@ -1,0 +1,5 @@
+[/EN#219643/people a man] wearing [/EN#219648/clothing jeans] and [/EN#219649/clothing a baseball cap] riding [/EN#219645/animals a horse] and trying to rope [/EN#219644/animals a small cow]
+[/EN#219643/people A man] on [/EN#219647/other horseback] chases , and attempts to lasso , [/EN#219644/animals a young calf] .
+[/EN#219643/people A man] playing on [/EN#219650/scene road] and [/EN#219646/other a ball] is running .
+[/EN#219643/people A man] on [/EN#219645/animals a horse] is trying to lasso [/EN#219644/animals a calf] .
+[/EN#219643/people A man] riding [/EN#219645/animals a horse] is chasing [/EN#219644/animals a calf] .

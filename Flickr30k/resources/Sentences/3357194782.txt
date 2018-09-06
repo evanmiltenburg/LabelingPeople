@@ -1,0 +1,5 @@
+[/EN#112389/people A man] standing at [/EN#112392/vehicles the door of a vehicle] , with [/EN#0/notvisual another] sitting , glancing out [/EN#112396/other the window] .
+[/EN#112389/people A man] in [/EN#112392/vehicles/scene the dooorway of a bus] looking onward .
+[/EN#112391/people Three passengers] on [/EN#112393/vehicles a train car] .
+[/EN#112390/people People] ride [/EN#112393/other a bus or trolley] .
+[/EN#112391/people some people] riding [/EN#112393/vehicles/scene an old bus]

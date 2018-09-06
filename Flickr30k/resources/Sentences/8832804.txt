@@ -1,0 +1,5 @@
+[/EN#282915/people A male] in [/EN#282917/clothing a maroon shirt] is using [/EN#282918/other a knife] to cut [/EN#282916/other a cake] .
+[/EN#282915/people A man] in [/EN#282917/clothing a red shirt] starts to cut [/EN#282916/other a cake] at [/EN#282919/other a party] .
+[/EN#282915/people A guy] with [/EN#282920/clothing a yellow bracelet] cutting into [/EN#282916/other a cake] .
+[/EN#282915/people A man] cuts [/EN#282916/other a cake] while [/EN#282922/other others] crowd around [/EN#0/notvisual him] .
+[/EN#282915/people A male] cuts [/EN#282916/other a white cake] with [/EN#282921/other blue roses] .

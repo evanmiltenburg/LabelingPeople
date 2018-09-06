@@ -1,0 +1,5 @@
+[/EN#172179/people This person] is walking down [/EN#172184/scene the street] and talking on [/EN#172182/other their cellphone] on [/EN#172185/scene a windy day] .
+[/EN#172179/people An asian person] is talking on [/EN#172182/other a cellphone] on [/EN#172186/scene the street] while wearing [/EN#172181/clothing a blue coat] .
+[/EN#172179/people A woman] in [/EN#172181/clothing a jacket] with [/EN#172183/other a fur hood] is talking on [/EN#172182/other her cellphone] .
+[/EN#172179/people An Asian Lady] in [/EN#172183/other a fur] trimmed [/EN#172183/other hood] talking on [/EN#172182/other her cellphone] .
+[/EN#172179/people A man] in [/EN#172181/clothing a coat] talking on [/EN#172182/other his phone] on [/EN#172184/scene the street] .

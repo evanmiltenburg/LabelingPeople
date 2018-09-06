@@ -1,0 +1,5 @@
+[/EN#50629/animals Greyhounds] racing chasing [/EN#50630/animals a mechanical rabbit] around [/EN#50631/scene the track] .
+[/EN#50629/animals Four dogs] in [/EN#50632/clothing blue , green , red and black jerseys] are racing .
+[/EN#50629/animals Dogs] with [/EN#50633/clothing muzzles] are racing around [/EN#50631/scene a sandy track] .
+[/EN#50629/animals Four dogs] race around [/EN#50634/other a turn] .
+[/EN#50629/animals Dogs] run at [/EN#50635/other a dog racetrack] .

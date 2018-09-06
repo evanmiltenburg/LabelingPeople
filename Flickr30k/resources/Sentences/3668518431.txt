@@ -1,0 +1,5 @@
+[/EN#135540/other A race] with [/EN#135538/vehicles/scene motor boats] and [/EN#135536/people all the people] are wearing [/EN#135543/clothing red helmets] and [/EN#135541/clothing life jackets] .
+[/EN#135538/vehicles/scene Several speed boats] are racing with [/EN#135536/people people] dressed in [/EN#135542/clothing red] aboard [/EN#0/notvisual them] .
+[/EN#135536/people A group of people] are out on [/EN#135537/other watercraft] in [/EN#135539/scene the middle of the ocean] .
+[/EN#135537/other Four powerboats] racing across [/EN#135539/scene the sea] .
+[/EN#135537/other The group of boats races] [/EN#0/notvisual each other] .

@@ -1,0 +1,5 @@
+[/EN#126755/animals A small black and white dog] paddles in [/EN#126756/scene some clear blue water] .
+[/EN#126755/animals A small black and white dog] is swimming in [/EN#126756/scene water] .
+[/EN#126755/animals A black and white dog] is swimming in [/EN#126756/scene some water]
+[/EN#126755/animals A black and white dog] swims in [/EN#126756/scene blue water] .
+[/EN#126755/animals A black and white dog] swimming .

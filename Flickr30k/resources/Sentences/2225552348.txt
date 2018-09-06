@@ -1,0 +1,5 @@
+[/EN#35219/people Group of people] standing over [/EN#35220/scene a hole] with [/EN#35221/scene a newly planted tree inside] .
+[/EN#35219/people A group of people] , [/EN#35223/other some] with [/EN#35224/clothing orange vests] , plant [/EN#35221/other a tree] together .
+[/EN#35219/people People] looking into [/EN#35220/scene a hole] [/EN#0/notvisual that] has already been dug .
+[/EN#35219/people Guys] digging around [/EN#35221/other a tree] in [/EN#0/notvisual the ground] .
+[/EN#35219/people A group of men] are planting [/EN#35221/other a tree] .

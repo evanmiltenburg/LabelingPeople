@@ -1,0 +1,5 @@
+[/EN#168127/people A woman] in [/EN#168129/clothing a big purple hat] and [/EN#168137/clothing a long blue coat] and [/EN#168126/people a man] with [/EN#168138/other a satchel spending time] in [/EN#168131/scene the city] .
+[/EN#168126/people A man] and [/EN#168127/people a woman] , [/EN#0/notvisual both] in [/EN#168128/clothing hats] , stand on [/EN#168134/scene the sidewalk] in [/EN#168131/scene a busy city] .
+[/EN#168126/people A man] and [/EN#168127/people woman] are standing near [/EN#168130/scene a street] in [/EN#168135/other Times Square] .
+[/EN#168136/people Two people] are standing in [/EN#168130/scene the middle of a downtown area] .
+[/EN#168127/people Girl] with [/EN#168128/clothing floppy purple hat] at [/EN#168133/scene intersection] in [/EN#168131/scene big city] .

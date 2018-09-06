@@ -1,0 +1,5 @@
+[/EN#101461/people The man] is standing on [/EN#101467/other the rocks] above [/EN#101465/scene the river] with [/EN#101463/bodyparts his arms] in [/EN#0/notvisual the air] .
+[/EN#101461/people A person] stands at [/EN#101462/scene the top of a mountain] and raises [/EN#101463/bodyparts his arms] .
+[/EN#101461/people Man] on top of [/EN#101462/scene a mountain] with [/EN#101463/bodyparts his arms] in [/EN#0/notvisual the air] .
+[/EN#101461/people A person] on top of [/EN#101462/scene a mountain] with [/EN#101463/bodyparts arms] over [/EN#101466/bodyparts head] .
+[/EN#101461/people A man] stands atop [/EN#101462/scene a mountain] with [/EN#101463/bodyparts arms] extended .

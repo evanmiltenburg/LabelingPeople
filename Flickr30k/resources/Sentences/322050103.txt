@@ -1,0 +1,5 @@
+[/EN#102175/people A woman] in [/EN#102184/clothing a blue hat] and [/EN#102185/clothing coat] is crossing [/EN#102178/scene the road] on [/EN#102175/people a pedestrian] crossing .
+[/EN#102179/scene A city street] is busy with [/EN#102183/people people] as [/EN#102175/people one person] walks across [/EN#102178/scene the crosswalk] .
+[/EN#102174/people A man] crosses [/EN#102178/scene the street] next to [/EN#102180/other a light rail station] .
+[/EN#102174/people A man] crossing [/EN#102178/scene an intersection] and [/EN#102182/other others] are walking
+[/EN#102174/people Man] walking in [/EN#102178/scene the street] under [/EN#102181/other green lights]

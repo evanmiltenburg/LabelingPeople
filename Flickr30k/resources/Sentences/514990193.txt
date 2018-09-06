@@ -1,0 +1,5 @@
+[/EN#229920/people A woman] is laying on [/EN#229921/other a striped couch] on [/EN#229922/scene a grassy yard] in [/EN#229923/scene a residential neighborhood] .
+[/EN#0/notvisual There] is [/EN#229921/other a couch] sitting on [/EN#229922/scene grass] with [/EN#229920/people a girl] in [/EN#229925/clothing jeans] and [/EN#229926/bodyparts light brown hair] on [/EN#0/notvisual it] .
+[/EN#229920/people A woman] lies down on [/EN#229921/other an old couch] sitting on [/EN#229922/scene the grass] .
+[/EN#229920/people Girl] poses on [/EN#229921/other couch] on [/EN#229922/scene suburban lawn] .
+[/EN#229920/people A woman] lays on [/EN#229921/other a sofa] in [/EN#229922/scene a yard] .

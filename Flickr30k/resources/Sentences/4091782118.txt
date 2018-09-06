@@ -1,0 +1,5 @@
+[/EN#155001/people A man] is holding [/EN#155004/other a gavel] above [/EN#155006/bodyparts his head] .
+[/EN#155001/people A smiling man] is holding up [/EN#155004/other a gavel] .
+[/EN#155001/people A man] is pretending to be [/EN#155001/people a judge] .
+[/EN#155001/people A happy man] holding [/EN#155004/other a gavel] .
+[/EN#155001/people A man] with [/EN#155005/bodyparts his hand] raised .

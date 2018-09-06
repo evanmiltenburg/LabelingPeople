@@ -1,0 +1,5 @@
+[/EN#106201/people A gentleman] dressed in [/EN#106206/clothing jeans] and [/EN#106203/clothing a red shirt] is holding [/EN#106202/other the newspaper] with [/EN#106204/other a camera] slung over [/EN#106207/bodyparts his shoulder] .
+[/EN#106201/people A man] with [/EN#106203/clothing a red shirt] and [/EN#106205/clothing glasses] holding [/EN#106202/other a newspaper] in [/EN#106208/scene a building] .
+[/EN#106201/people A bald man] holding [/EN#106202/other a stack of newspapers] smiles at [/EN#0/notvisual the camera] .
+[/EN#106201/people A man] is carrying [/EN#106202/other a stack of publications] .
+[/EN#106201/people A man] in [/EN#106203/clothing a red shirt] is holding [/EN#106202/other magazines] .

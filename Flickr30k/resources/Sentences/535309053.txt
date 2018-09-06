@@ -1,0 +1,5 @@
+[/EN#234378/scene A campsite] has been established amidst [/EN#234380/other the trees] and [/EN#234383/scene bushes] .
+[/EN#234379/people A group of people] camp in [/EN#234381/scene tents] near [/EN#234380/other some trees] .
+[/EN#234378/scene A campsite] with [/EN#234381/scene tents] and [/EN#234384/other picnic tables] .
+[/EN#234379/people People] are camping in [/EN#234379/people a group] .
+[/EN#234382/people A woman] at [/EN#234378/scene a campground] .

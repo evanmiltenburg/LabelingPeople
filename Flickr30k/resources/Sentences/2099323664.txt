@@ -1,0 +1,5 @@
+[/EN#28655/animals The brown and white dog] is standing on [/EN#28658/bodyparts its hind legs] beside [/EN#28656/scene the path] .
+[/EN#28659/clothing A tan] , white , and [/EN#28655/animals black dog] runs towards [/EN#28656/scene a sidewalk] .
+[/EN#28655/animals A small dog] runs from [/EN#28657/scene the dirt] onto [/EN#28656/scene the street]
+[/EN#28655/animals a dog] jumps onto [/EN#28656/scene the sidewalk] .
+[/EN#28655/animals Dog] leaps out .

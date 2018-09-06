@@ -1,0 +1,5 @@
+[/EN#254223/people A man] with [/EN#254229/clothing a red fleece jacket] is snowboarding , while [/EN#0/notvisual he] casts [/EN#254225/scene a dark shadow] on [/EN#0/notvisual snow covered ground] .
+[/EN#254223/people A snowboarder] is grinding on [/EN#254224/other a rail] in [/EN#254226/scene a snowy , mountainous area] .
+[/EN#254223/people A snowboarder] is sliding along , balanced on [/EN#254224/other a yellow beam] .
+[/EN#254223/people A snowboarder] in [/EN#254227/other red and black grinds] [/EN#254224/other a yellow rail] .
+[/EN#254223/people A snowboarder] is grinding on [/EN#254224/other a rail] .

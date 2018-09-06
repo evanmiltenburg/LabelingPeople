@@ -1,0 +1,5 @@
+[/EN#173604/people A man] in [/EN#173605/clothing a dark long rainproof jacket] but [/EN#173610/bodyparts dry hair] walks to [/EN#173609/scene the left] in [/EN#173607/scene a city] [/EN#0/notvisual that] has recently rained .
+[/EN#173604/people A man] walking in [/EN#173611/other the rain] with [/EN#173605/clothing a black jacket] on .
+[/EN#173604/people a man] standing outside on [/EN#173608/scene a rainy day] .
+[/EN#173604/people A man] wearing [/EN#173605/clothing a black coat] is walking .
+[/EN#0/notvisual There] is [/EN#173604/people a man] in [/EN#173605/clothing a black trench coat] .

@@ -1,0 +1,5 @@
+[/EN#24918/people A young boy] wearing [/EN#24923/clothing white shorts] and [/EN#24919/clothing a blue shirt] has just kicked [/EN#24920/other a soccer ball] .
+[/EN#24918/people The little boy] is wearing [/EN#24922/clothing sunglasses] and kicking [/EN#24920/other a soccer ball] .
+[/EN#24918/people A little boy] in [/EN#24919/clothing a blue shirt] kicking [/EN#24920/other a soccer ball] around .
+[/EN#24918/people A little boy] in [/EN#24919/clothing a blue] kicks [/EN#24920/other a soccer ball] .
+[/EN#24918/people A little boy] is kicking [/EN#24920/other a soccer ball] .

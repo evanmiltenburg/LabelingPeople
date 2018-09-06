@@ -1,0 +1,5 @@
+[/EN#105291/people One man] holding [/EN#105302/scene a post] and [/EN#105301/people another man] and [/EN#105293/people woman] waiting to cross [/EN#105303/scene the street] looking to [/EN#105294/scene their left] .
+[/EN#105297/people Two elderly men] and [/EN#105293/people one elderly woman] standing on [/EN#105303/scene a sidewalk] staring to [/EN#105294/scene their left] .
+[/EN#105295/people Three people] are waiting on [/EN#105300/other the curb] as [/EN#105291/people a man] walks by .
+[/EN#105291/people A man] is holding [/EN#105299/other a bus pole] in front of [/EN#105292/scene a building] .
+[/EN#105295/other Three pole] wait for [/EN#105298/vehicles/scene a bus] outside [/EN#105292/scene a building] .

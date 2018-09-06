@@ -1,0 +1,5 @@
+[/EN#894/animals/scene The Chocolate Lab] jumps too late to get [/EN#895/other the toy] as [/EN#896/animals/scene the Black Lab] captures [/EN#0/notvisual it] in [/EN#901/scene the driveway] .
+[/EN#897/animals/scene A brown and black lab] are [/EN#900/scene outside] and [/EN#896/animals/scene the black lab] is catching [/EN#895/other a toy] in [/EN#898/bodyparts its mouth] .
+[/EN#896/animals A black dog] and [/EN#894/animals a brown dog] play with [/EN#895/other a red toy] on [/EN#901/scene a courtyard] .
+[/EN#896/animals A black dog] and [/EN#894/animals a brown dog] are jumping up to catch [/EN#895/other a red toy] .
+[/EN#899/other Black dog snaps] at [/EN#895/other red and black object] as [/EN#894/animals brown dog] lunges .

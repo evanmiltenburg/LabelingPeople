@@ -1,0 +1,5 @@
+[/EN#86503/people A man] in [/EN#86505/clothing a white shirt] and [/EN#86506/clothing jeans] playing [/EN#86504/instruments an accordion] .
+[/EN#86503/people A man] in [/EN#86505/clothing white] is playing [/EN#86504/instruments a black accordion] .
+[/EN#86503/people A man] plays [/EN#86504/instruments an accordion] on [/EN#86507/other a park bench] .
+[/EN#86503/people A seated boy] plays [/EN#86504/instruments the accordion] .
+[/EN#86503/people A man] plays [/EN#86504/instruments an accordion] .

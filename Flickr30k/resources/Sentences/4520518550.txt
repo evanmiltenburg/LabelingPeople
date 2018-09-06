@@ -1,0 +1,5 @@
+[/EN#175081/people A woman] with [/EN#175086/bodyparts long dark hair] is walking on [/EN#175082/scene a sidewalk] past [/EN#175089/scene some tall buildings] , while [/EN#175090/people two other people] walk across [/EN#175083/scene the street] with [/EN#175091/animals their dog] .
+[/EN#175081/people A woman] in [/EN#175087/clothing a light blue shirt] and [/EN#175085/clothing jeans] walks away from [/EN#0/notvisual the camera] on [/EN#175082/scene a city sidewalk] .
+[/EN#175081/people A woman] with [/EN#175086/bodyparts long dark hair] walks away down [/EN#175088/scene a sunny , European street] .
+[/EN#175081/people A young woman] in [/EN#175085/clothing jeans] walks down [/EN#175082/scene a city street] .
+[/EN#175081/people A woman] walking down [/EN#175083/scene a side street] .

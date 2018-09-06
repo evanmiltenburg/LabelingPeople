@@ -1,0 +1,5 @@
+[/EN#203998/people A man] with [/EN#204001/clothing an umbrella] is walking [/EN#204000/animals his dog] on [/EN#204008/other lead] while [/EN#204002/people a woman] with [/EN#204001/clothing her own umbrella] follows .
+[/EN#204010/scene A rainy day] with [/EN#203998/people a man] walking [/EN#204000/animals his dog] with [/EN#204002/people a woman] at [/EN#204002/other the back] with [/EN#204001/clothing a red umbrella] .
+[/EN#203999/people Two people] walking with [/EN#204000/animals a dog] and using [/EN#204004/clothing umbrellas] .
+[/EN#203998/people A man] and [/EN#204002/people women] walk by [/EN#204005/other a bench] in [/EN#204003/other the rain] .
+[/EN#203999/people Two people] walk in [/EN#204003/other the rain] with [/EN#204004/clothing umbrellas] .

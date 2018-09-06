@@ -1,0 +1,5 @@
+[/EN#78393/people A man] , [/EN#78396/people woman] and [/EN#78392/vehicles three bicycles] are resting by [/EN#78395/vehicles a silver car] .
+[/EN#78394/people Two bike riders] standing with [/EN#78392/vehicles 3 bikes] parked at [/EN#78395/vehicles the car] .
+[/EN#78394/people Two bicyclists] stand by [/EN#78395/vehicles a silver car] with [/EN#78392/vehicles three bikes] .
+[/EN#78393/people A man] and [/EN#78396/people woman] with [/EN#78392/vehicles bicycles] stand by [/EN#78395/vehicles a silver car] .
+[/EN#78393/people A man] and [/EN#78396/people a woman] with [/EN#78392/vehicles three bikes] and [/EN#78395/vehicles a silver car] .

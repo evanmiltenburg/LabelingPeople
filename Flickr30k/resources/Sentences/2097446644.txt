@@ -1,0 +1,5 @@
+[/EN#28526/people A young person] in [/EN#28527/clothing a striped shirt] and wearing [/EN#28530/clothing a hat] stairs at [/EN#28528/other fluid] running down [/EN#28529/other stairs] .
+[/EN#28526/people A person] wearing [/EN#28527/clothing a sweater] looks at [/EN#28528/other a spill] on [/EN#28529/other some brick steps] outside .
+[/EN#28526/people A man] in [/EN#28527/clothing a sweater] is looking at [/EN#28529/other dirty stairs] .
+[/EN#28526/people Someone] staring down at [/EN#28528/other a mess] on [/EN#0/notvisual the ground] .
+[/EN#28526/people Someone] looking at [/EN#28531/other ice] wearing [/EN#28527/clothing a jacket] .

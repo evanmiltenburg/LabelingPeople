@@ -1,0 +1,5 @@
+[/EN#201250/animals A dog] stirs up [/EN#201253/scene the dirt] on [/EN#0/notvisual the ground] while running to catch [/EN#201251/other a ball] .
+[/EN#201250/animals A dog] turns on [/EN#201252/scene the grass] to persue [/EN#201251/other a flying ball] .
+[/EN#201250/animals A light brown dog] is chasing after [/EN#201251/other a ball] .
+[/EN#201250/animals A dog] is playing [/EN#201254/other fetch] with [/EN#201251/other a ball] .
+[/EN#201250/animals A yellow dog] anticipates [/EN#201251/other a ball] .

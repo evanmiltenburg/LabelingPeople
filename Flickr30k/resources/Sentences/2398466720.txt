@@ -1,0 +1,5 @@
+[/EN#46402/people A girl] in [/EN#46404/clothing a colorful dress] is tossing [/EN#46405/other sand] from [/EN#46407/bodyparts her hands] while walking [/EN#46403/scene a sandy beach] with [/EN#46406/other a grass covered dune] behind [/EN#0/notvisual her] .
+[/EN#46402/people A little light-haired girl] in [/EN#46404/clothing a dress] is playing with [/EN#46405/other sand] on [/EN#46403/scene a beach] .
+[/EN#46402/people little girl] wearing [/EN#46404/clothing a polka-dotted dress] playing with [/EN#46405/other sand] .
+[/EN#46402/people A young girl] in [/EN#46404/clothing a polka dot dress] plays on [/EN#46403/scene a beach] .
+[/EN#46402/people A little girl] in [/EN#46404/clothing a sundress] plays in [/EN#46405/other the sand] .

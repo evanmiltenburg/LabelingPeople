@@ -1,0 +1,5 @@
+[/EN#80884/people A man] and [/EN#80885/people a young boy] are eating on [/EN#80890/scene a city sidewalk] next to [/EN#80889/other a cardboard box] and [/EN#80888/vehicles a red shopping cart] .
+[/EN#80884/people A man] and [/EN#80885/people boy] are eating [/EN#80892/scene food outdoors] while sitting down next to [/EN#80888/vehicles a shopping cart] .
+[/EN#80884/people A father] and [/EN#80885/people son] enjoying [/EN#80886/other lunch] after [/EN#80891/other a morning of shopping] .
+[/EN#80884/people A man] and [/EN#80885/people his son] carrying [/EN#80893/clothing bags] are enjoying [/EN#80887/other a meal] .
+[/EN#80885/people A kid] with [/EN#80894/bodyparts black hair] eating .

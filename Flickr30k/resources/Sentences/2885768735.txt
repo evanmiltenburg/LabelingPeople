@@ -1,0 +1,5 @@
+[/EN#78994/people A middle-aged man] , in [/EN#79000/clothing a beige jacket] , sitting on [/EN#78995/other a park bench] holding [/EN#78996/clothing his umbrella] as [/EN#78998/people people] walk by .
+[/EN#78994/people Man] sitting on [/EN#78995/other a bench] in [/EN#78997/scene a wooded park] , watching [/EN#78998/people people] walk past .
+[/EN#78994/people A man] with [/EN#78996/clothing an umbrella] sits on [/EN#78995/other a bench] in [/EN#78997/scene a public area] .
+[/EN#78999/people Four people] in [/EN#78997/scene a park] , [/EN#78994/other one] sitting with [/EN#78996/other a cane] .
+[/EN#78994/people Man] sitting by [/EN#0/notvisual himself] in [/EN#78997/scene city park] .

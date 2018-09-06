@@ -1,0 +1,5 @@
+[/EN#50525/animals A black and tan dog] is running along [/EN#50528/scene a series of stone walkways] spaced between [/EN#50526/scene grass] .
+[/EN#50525/animals Dog] running down [/EN#50528/scene paved walkway] near [/EN#50529/other a Japanese maple tree] .
+[/EN#50525/animals The dog] runs in [/EN#50527/scene the park] .
+[/EN#50525/animals A dog] running in [/EN#50527/scene a park] .
+[/EN#50525/animals A dog] running .

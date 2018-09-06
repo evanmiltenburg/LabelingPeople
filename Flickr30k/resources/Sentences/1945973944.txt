@@ -1,0 +1,5 @@
+[/EN#23802/people One man] is holding [/EN#23806/other a dumpster door] open while [/EN#23801/people another man] puts [/EN#23807/clothing a trash bag] in [/EN#23805/other the dumpster] .
+[/EN#23801/people A man] throwing [/EN#23804/people a garbage man] into [/EN#23805/other a dumpster] while [/EN#23802/people another man] holds [/EN#23806/other the lid] .
+[/EN#23803/people Two men] are putting [/EN#23807/other garbage] into [/EN#23805/other a green garbage container] .
+[/EN#23801/people A man] in [/EN#23809/clothing black] is throwing [/EN#23807/clothing a garbage bag] in to [/EN#23805/other a dumpster] .
+[/EN#23803/people Two men] are throwing [/EN#23807/other garbage] into [/EN#23805/other the large cans] .

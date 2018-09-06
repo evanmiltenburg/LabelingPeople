@@ -1,0 +1,5 @@
+[/EN#1573/people A man] in [/EN#1570/clothing an orange hard hat] and [/EN#1580/clothing vest] looks at [/EN#1574/other an object] in [/EN#1581/bodyparts his hand] while [/EN#1572/people the man] next to [/EN#0/notvisual him] stands on [/EN#1569/other a ladder] in order to reach [/EN#1578/other the ceiling] .
+[/EN#0/notvisual There] are [/EN#1567/people two workers] , [/EN#1572/other one] on [/EN#1569/other a ladder] , against [/EN#1568/other a blue wall] with [/EN#1571/other a yellow-and-black stripe] .
+[/EN#1567/people Construction workers] in front of [/EN#1568/other blue wall] with [/EN#1571/other warning stripe] .
+[/EN#1567/people Men] wearing [/EN#1570/clothing hard hats] and [/EN#1577/clothing safety vests] are working .
+[/EN#1572/people A guy] with [/EN#1575/clothing boots] is on [/EN#1569/other a ladder] .

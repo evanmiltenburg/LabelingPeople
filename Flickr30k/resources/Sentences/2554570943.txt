@@ -1,0 +1,5 @@
+[/EN#57791/people A child] in [/EN#57792/clothing a yellow shirt] and [/EN#57793/clothing blue jeans] climbs through [/EN#57794/scene a red playground tunnel] .
+[/EN#57791/people A child] climbs up [/EN#57794/other the inside of a red tube] in [/EN#57795/other a play structure] .
+[/EN#57791/people A girl] climbs through [/EN#57794/scene a red plastic tunnel] on [/EN#57794/scene a playground] .
+[/EN#57791/people Child] climbs [/EN#57794/scene the inside of a red slide] .
+[/EN#57791/people a girl] climbs up [/EN#57794/scene a red slide] .

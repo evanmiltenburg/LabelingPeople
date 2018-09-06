@@ -1,0 +1,5 @@
+[/EN#71602/people A man] is waiting at [/EN#71604/other a food counter] waiting for [/EN#71603/people the cook] to put [/EN#71605/other chips] on [/EN#71611/other the plate] .
+[/EN#71602/people A man] in [/EN#71608/clothing a black shirt] and [/EN#71613/clothing jeans] is purchasing [/EN#71605/other food] from [/EN#71604/other a counter] .
+[/EN#71606/people Two people] are in [/EN#71609/scene a garage] , while [/EN#71603/other one] is pouring out [/EN#71605/clothing a bag] .
+[/EN#71602/people A man] and [/EN#71603/people woman] standing at [/EN#71604/other a counter] with [/EN#71605/other food] .
+[/EN#71602/people Man] at [/EN#71609/scene bar] with [/EN#71610/other a green drink] .

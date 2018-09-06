@@ -1,0 +1,5 @@
+[/EN#148859/people A man] with [/EN#148864/clothing a green and white striped tank top] with [/EN#148866/other the word] " [/EN#148867/other Tipton] " and [/EN#148860/other a race tag] with [/EN#148861/other the number] [/EN#148861/other C 103] is running .
+[/EN#148859/people A person] running in [/EN#148864/clothing a striped green and white tank top] wearing [/EN#148865/other a sign] on [/EN#148864/clothing his shirt] [/EN#0/notvisual that] says " [/EN#148863/other C103 Birmingham] " .
+[/EN#148859/people A runner] , [/EN#148861/other number C103] , in [/EN#148868/other a race] is wearing [/EN#148864/clothing a green and white tank top] and [/EN#148869/clothing black shorts] .
+[/EN#148859/people A boy] in [/EN#148864/clothing a green and white striped shirt] looks exhausted as [/EN#0/notvisual he] is running
+[/EN#148859/people A determined crosscountry runner] .

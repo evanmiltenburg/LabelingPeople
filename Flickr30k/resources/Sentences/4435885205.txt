@@ -1,0 +1,5 @@
+[/EN#167874/people A tall person] with [/EN#167880/bodyparts long hair] , [/EN#167881/clothing brown sweater] , [/EN#167882/clothing white pants] and [/EN#167883/clothing a orange] and [/EN#167884/clothing white tote bag] is hugging [/EN#167877/people the girl] with [/EN#167885/clothing brown pant] and [/EN#167886/clothing long-sleeved shirt] as [/EN#0/notvisual they] walk down [/EN#167878/scene the sidewalk] .
+[/EN#167874/people A woman] is hugging [/EN#167877/people another women] from behind [/EN#0/notvisual her] .
+[/EN#167875/people Two people] are walking down [/EN#167878/scene a street] together .
+[/EN#167874/people A couple] walking down [/EN#167878/scene an open street] .
+[/EN#167874/people Two lovers] walking on [/EN#167878/scene the street] .

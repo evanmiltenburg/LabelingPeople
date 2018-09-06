@@ -1,0 +1,5 @@
+[/EN#34805/people A man] in [/EN#34807/clothing a blue shirt] is watching [/EN#34809/vehicles three trucks] [/EN#0/notvisual that] are being swept away by [/EN#34808/scene flood waters] .
+[/EN#34805/people A person] in [/EN#34810/clothing black pants] and [/EN#34807/clothing blue jacket] holding [/EN#34806/clothing a umbrella] in front of [/EN#34809/vehicles cars] in [/EN#34808/scene a flood]
+[/EN#34805/people A man] in [/EN#34807/clothing a blue shirt] stands holding [/EN#34806/clothing his umbrella] as [/EN#34808/scene flood waters] rise around [/EN#0/notvisual him] .
+[/EN#34805/people Person] with [/EN#34806/clothing umbrella] observes flooded [/EN#34808/scene streets] with [/EN#34809/vehicles cars] in [/EN#34808/scene the water] .
+[/EN#34805/people A man] walking along [/EN#34808/scene a flooded street] holding [/EN#34806/clothing a black umbrella] .

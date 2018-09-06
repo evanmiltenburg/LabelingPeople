@@ -1,0 +1,5 @@
+[/EN#11921/people A photo of a happy gentleman] driving [/EN#0/notvisual what] looks like [/EN#11922/vehicles a large truck] .
+[/EN#11921/people A gentleman] laughs in [/EN#11922/vehicles his car] while driving on [/EN#11923/scene the countryside] .
+[/EN#11921/people A smiling man] in [/EN#11924/clothing a green shirt] driving [/EN#11922/vehicles a vehicle] .
+[/EN#11921/people A man] smiling as [/EN#0/notvisual he] is driving [/EN#11922/vehicles a large truck] .
+[/EN#11921/people A man] is driving [/EN#11922/vehicles a vehicle] .

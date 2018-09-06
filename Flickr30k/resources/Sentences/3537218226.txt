@@ -1,0 +1,5 @@
+[/EN#125774/people A person] in [/EN#125781/clothing a yellow helmet] rock climbing while [/EN#125776/people another person] waits on [/EN#0/notvisual the ground] with [/EN#125777/other the tether] .
+[/EN#125774/people One person] is rock climbing while [/EN#125776/people another person] is holding [/EN#125778/other the rope] and watching from [/EN#125779/other below] .
+[/EN#125774/people A person] rock climbing and [/EN#125776/people another man] on [/EN#0/notvisual the ground] holding [/EN#125777/other the rope] .
+[/EN#125775/people Two rock climbers] near [/EN#125780/bodyparts the base of a rock face] .
+[/EN#125775/people Two people] are rock climbing .

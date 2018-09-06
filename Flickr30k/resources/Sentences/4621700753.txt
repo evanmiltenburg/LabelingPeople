@@ -1,0 +1,5 @@
+[/EN#183585/people A musician] in [/EN#183592/clothing a colorful shirt] appears to perform [/EN#183590/other a solo] on [/EN#183586/instruments a slide guitar] at [/EN#183589/scene an crowded outdoor musical event] .
+[/EN#183585/people A man] stands on [/EN#183587/scene a stage] with [/EN#183586/instruments a guitar] and [/EN#183588/other a glass] in [/EN#183593/bodyparts his hand] and [/EN#183591/other a sour expression] on [/EN#183594/bodyparts his face] .
+[/EN#183584/people A crowd] is gathered around listening to [/EN#183585/people a guitarist] on [/EN#183587/scene stage] .
+[/EN#183584/people Concert goers] watch as [/EN#183585/people a guitarist] performs on [/EN#183587/scene stage] .
+[/EN#183584/people A crowd] stands and watches [/EN#183585/people a man] perform on [/EN#183587/scene stage] .

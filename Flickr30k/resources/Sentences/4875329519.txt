@@ -1,0 +1,5 @@
+In [/EN#213888/scene a train station] , [/EN#213878/people an attractive woman] in [/EN#213883/clothing a blue skirt] and [/EN#213885/clothing jacket] , surrounded by [/EN#213877/other her luggage] , passes [/EN#213887/other time] with [/EN#213884/other a crossword] .
+[/EN#213878/people A woman] in [/EN#213881/clothing a blue outfit] is sitting on [/EN#213880/other a bench] with [/EN#213877/other suitcases] in front of [/EN#0/notvisual her] .
+[/EN#213878/people A woman] wearing [/EN#213881/clothing a blue business suit] sitting on [/EN#213880/other a bench] with [/EN#213877/other 2 suitcases] .
+[/EN#213878/people A woman] is writing [/EN#213886/other something] down while waiting at [/EN#213879/other a mass transit stop] .
+[/EN#213878/people A flight attendant] is waiting on [/EN#213880/other a bench] .

@@ -1,0 +1,5 @@
+[/EN#34770/people Two people] dressed in [/EN#34780/clothing jackets] are sitting outside of [/EN#34769/scene a restaurant] with [/EN#34772/scene Union Market] written on [/EN#34771/other the awning] .
+[/EN#34770/people Three people] dining while sitting outside at [/EN#34775/other a table] under [/EN#34771/other a brown awning] [/EN#0/notvisual that] reads [/EN#34769/scene Union Market] .
+[/EN#34769/scene A market] with [/EN#34776/scene a wooden lattice fence] and [/EN#34771/other a brown canopy] sits amongst [/EN#34779/other trees] with [/EN#34777/other golden leaves] .
+[/EN#34770/people People] sit at [/EN#34778/other the outdoor tables] under [/EN#34771/other a brown awning] in [/EN#34769/scene a rural setting] .
+[/EN#34770/people People] sit under [/EN#34771/other a canopy] on [/EN#34774/scene a fall day] .

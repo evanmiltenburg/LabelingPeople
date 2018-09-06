@@ -1,0 +1,5 @@
+Atop [/EN#151368/other a Harley] [/EN#151367/people a man] cruises down [/EN#151374/scene a street] with [/EN#151370/people a woman] in [/EN#151373/other tow] on [/EN#151372/other the backseat] .
+[/EN#151367/people A man] in [/EN#151375/clothing a white shirt] and [/EN#151370/people a woman] in [/EN#151376/clothing a black shirt] riding [/EN#151368/other a motorcycle] .
+[/EN#151367/people A man] and [/EN#151370/people a woman] are riding [/EN#151368/other a large motorcycle] .
+[/EN#151371/people A couple] ride by on [/EN#151368/other a large motorcycle] .
+[/EN#151367/people A man] and [/EN#151370/people a woman] on [/EN#151368/other a motorcycle] .`

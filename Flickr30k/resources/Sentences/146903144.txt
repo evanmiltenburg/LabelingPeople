@@ -1,0 +1,5 @@
+[/EN#14084/people Aid big guy] wearing [/EN#14085/clothing an orange jumpsuit] is talking to [/EN#14086/people a skinny lady] [/EN#0/notvisual who] 's dressed up with [/EN#14087/clothing a long skirt] is standing on [/EN#14094/scene the freeway] looking at [/EN#14088/other the red Motorcycle] that [/EN#14095/other crash]
+[/EN#14084/people A portly man] in [/EN#14085/clothing an orange jumpsuit] standing next to [/EN#14086/people a woman] in [/EN#14089/clothing gray] on [/EN#14094/scene the highway] with [/EN#14088/other a motorcycle] laying on [/EN#0/notvisual its side] in [/EN#14094/scene the middle of the highway] .
+[/EN#14084/people A man] and [/EN#14086/people a woman] are standing in [/EN#14094/scene the middle of the highway] looking at [/EN#14090/other motorcycles] on [/EN#14094/scene the road] as [/EN#14093/vehicles traffic] is passing .
+[/EN#14091/people People] are standing on [/EN#14094/scene a freeway] where [/EN#14092/other a motorcycle accident] has just occurred .
+[/EN#14091/people Two people] standing in [/EN#14094/scene a road] with [/EN#14088/other a crashed motorcycle] .

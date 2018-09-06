@@ -1,0 +1,5 @@
+[/EN#166605/people A single ballet dancer] wearing [/EN#166606/clothing yellow] is dancing on [/EN#166607/scene a stage] with [/EN#166610/other red curtains] .
+[/EN#166605/people A young lady] performing in [/EN#166609/other a dance] while wearing [/EN#166606/clothing a beautiful yellow outfit] .
+[/EN#166605/people A dancer] in [/EN#166606/clothing a yellow dress] gracefully kicks [/EN#166612/bodyparts her leg] in [/EN#0/notvisual the air] .
+[/EN#166605/people A ballerina] dressed in [/EN#166606/clothing yellow] is dancing , on [/EN#166607/scene a stage] .
+[/EN#166605/people Ballerina] in [/EN#166606/clothing yellow] dancing on [/EN#166607/scene stage] .

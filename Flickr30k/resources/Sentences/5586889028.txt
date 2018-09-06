@@ -1,0 +1,5 @@
+[/EN#239190/people A man] in [/EN#239195/clothing a white cap] and [/EN#239196/clothing tan bush shirt] harvests [/EN#239193/other something] in [/EN#239194/scene a swampy area] .
+[/EN#239190/people A man] working in [/EN#239191/scene the fields] as [/EN#0/notvisual he] moves [/EN#239199/bodyparts his hands] around [/EN#239191/scene the tall grass] .
+[/EN#239190/people A man] stands in [/EN#239191/scene a green garden] with [/EN#239192/other large flowers] around [/EN#0/notvisual him] .
+[/EN#239190/people A black man] in [/EN#239196/clothing a white uniform] walking through [/EN#239197/scene tall grass] .
+[/EN#239190/people A man] in [/EN#239191/other a field of greenery] working .

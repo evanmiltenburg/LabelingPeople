@@ -1,0 +1,5 @@
+[/EN#172229/people A young woman] dressed up [/EN#0/notvisual semi-formally is] reading [/EN#172231/other book] and drinking in [/EN#172234/other the sun] , seated on [/EN#172230/other a bench] .
+[/EN#172229/people A woman] reading and having [/EN#172232/other a drink] sitting on [/EN#172230/other a bench] .
+[/EN#172229/people A woman] reading [/EN#172231/other a book] on [/EN#172230/other a bench] in [/EN#172235/scene a park] .
+[/EN#172229/people A young woman] reads [/EN#172231/other a book] on [/EN#172230/other a park bench] .
+[/EN#172229/people A woman] sits down on [/EN#172230/other a bench] reading .

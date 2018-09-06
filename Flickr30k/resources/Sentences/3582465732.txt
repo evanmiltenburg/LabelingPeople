@@ -1,0 +1,5 @@
+[/EN#129387/people A young lady] is wearing [/EN#129391/clothing bright pink sunglasses] and sitting on [/EN#129388/other a small trampoline] .
+[/EN#129387/people A girl] sitting on [/EN#129388/other a trampoline] tosses [/EN#129389/other an empty water bottle] in [/EN#0/notvisual the air] .
+[/EN#129387/people A woman] sitting on [/EN#129388/other a mini trampoline] tossing [/EN#129389/other a water bottle] in [/EN#0/notvisual the air] .
+[/EN#129387/people A lady] is sitting on [/EN#129388/other a small trampoline] and is tossing [/EN#129389/other a water bottle] .
+[/EN#129387/people A girl] sitting on [/EN#129388/other a trampoline] tossing [/EN#129389/other a water bottle] in [/EN#0/notvisual the air]

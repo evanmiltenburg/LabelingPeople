@@ -1,0 +1,5 @@
+[/EN#97061/animals A black dog] shakes [/EN#97063/other itself] dry on [/EN#97062/scene the beach] in front of [/EN#97064/scene the waves] .
+[/EN#97061/animals A dog] is shaking [/EN#97063/other itself] dry on [/EN#97062/scene the beach] next to [/EN#97064/scene the ocean] .
+[/EN#97061/animals The dog] is shaking off [/EN#97061/other his fur] in front of [/EN#97064/scene the water] .
+[/EN#97061/animals A dog] shaking off after [/EN#97066/other coming] out of [/EN#97064/scene the ocean] .
+[/EN#97061/animals dog] shaking off [/EN#97064/scene water] by [/EN#97064/scene the ocean]

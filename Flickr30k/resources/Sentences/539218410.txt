@@ -1,0 +1,5 @@
+[/EN#235303/animals A large poster of a shaggy buffalo] hangs over [/EN#235310/people the head of a man] in [/EN#235306/clothing a blue shirt] holding [/EN#235307/clothing a red bag] .
+[/EN#235304/people A man] holding [/EN#235307/clothing a red bag] , wearing [/EN#235306/clothing a denim shirt] stands in front of [/EN#235303/other an AD] featuring [/EN#235303/animals a Bull] .
+[/EN#235304/people A man] in [/EN#235306/clothing blue shirt] and [/EN#235309/clothing pants] stands in front of [/EN#235303/other a large sign] displaying [/EN#235303/other a yak] .
+[/EN#235304/people A man] in [/EN#235306/clothing a blue shirt] is standing in front of [/EN#235303/animals a billboard picture of an ox] .
+[/EN#235304/people A man] with [/EN#235307/clothing a shopping bag] stands in front of [/EN#235303/other a billboard] featuring [/EN#235303/animals a cow] .

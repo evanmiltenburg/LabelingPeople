@@ -1,0 +1,5 @@
+[/EN#116021/animals A dog] with [/EN#116026/scene a brown spot] around [/EN#116030/bodyparts one eye] walking in front of [/EN#116023/animals a black dog] .
+[/EN#116024/clothing A black] and [/EN#116021/animals a brown dog] are walking through [/EN#116029/other the woods] .
+[/EN#116022/animals Two dogs] are running along [/EN#116027/scene a grassy path] .
+[/EN#116025/clothing A brown] and [/EN#116023/animals a black dog] are running .
+[/EN#116022/animals Two dogs] running through [/EN#116027/scene the grass] .

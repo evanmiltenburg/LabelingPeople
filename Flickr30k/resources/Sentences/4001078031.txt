@@ -1,0 +1,5 @@
+[/EN#151503/people A woman] in [/EN#151509/clothing a white t-shirt] and [/EN#151510/clothing jeans] standing on [/EN#151505/vehicles a Segway] talking to [/EN#151504/people two men]
+[/EN#151503/people A girl] on [/EN#151511/other a segue] hands out [/EN#151512/other a pamphlet] to [/EN#151504/people a person] on [/EN#151513/scene the street] .
+[/EN#151503/people A woman] standing on [/EN#151505/vehicles a motorized vehicle] talking to [/EN#151504/people two men] .
+[/EN#151504/people A man] is speaking to [/EN#151503/people a woman] while [/EN#0/notvisual she] stands on [/EN#151505/vehicles a scooter] .
+[/EN#151503/people A woman] on [/EN#151505/vehicles a Segway] standing with [/EN#151508/people some men] in [/EN#151507/people a crowd] .

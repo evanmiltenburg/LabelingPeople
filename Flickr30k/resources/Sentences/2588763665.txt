@@ -1,0 +1,5 @@
+[/EN#59893/people A man] sitting on [/EN#59895/scene a sidewalk] drinking [/EN#59894/other beer] with [/EN#59897/other his belongings] next to [/EN#0/notvisual him] in [/EN#59900/clothing bags] .
+[/EN#59893/people A man] in [/EN#59901/clothing red shorts] is sitting down against [/EN#59896/scene a building] drinking [/EN#59894/other a beverage] .
+Here is [/EN#59893/people a homeless man] [/EN#0/notvisual that] is sitting by [/EN#59896/other a wall] waiting for [/EN#59899/other assistance] .
+[/EN#59893/people A young man] sits on [/EN#59895/scene the side of the road] with [/EN#59897/other his belongings] .
+[/EN#59893/people A man] sitting against [/EN#59896/other a wall] outside with [/EN#59897/other his luggage] .

@@ -1,0 +1,5 @@
+[/EN#282893/people A young girl] in [/EN#282897/clothing a blue jacket] and [/EN#282899/clothing black pants] holds out [/EN#282895/bodyparts/people her arm] with [/EN#282894/animals a small bird] in [/EN#282896/bodyparts her hand] .
+[/EN#282893/people A young girl] in [/EN#282902/other snow gear] feeds [/EN#282894/animals a bird] from [/EN#282895/bodyparts her hand] in [/EN#282898/scene a forest] in [/EN#282904/other winter] .
+[/EN#282893/people A young girl] , on [/EN#282900/other skis] , with [/EN#282894/animals a little bird] sitting on [/EN#282896/bodyparts her hand] .
+[/EN#282893/people This girl] puts [/EN#282894/animals the bird] in [/EN#282901/scene snow] , and eats [/EN#0/notvisual it] later .
+[/EN#282893/people A girl] wearing [/EN#282903/clothing snowshoes] holds [/EN#282894/animals a bird] .

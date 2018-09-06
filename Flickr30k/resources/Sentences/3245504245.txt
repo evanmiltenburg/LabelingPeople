@@ -1,0 +1,5 @@
+[/EN#103933/people A woman] in [/EN#103934/clothing a sweater] is painting [/EN#103935/people the face of a young girl] in [/EN#103936/clothing a striped shirt] .
+[/EN#103933/people the woman] wearing [/EN#103937/clothing glasses] is painting [/EN#103935/people the face of the blond girl] .
+[/EN#103933/people A woman] with [/EN#103937/clothing glasses] is face painting [/EN#103938/people a blond girl] .
+[/EN#103933/people A woman] paints [/EN#103939/other a picture] on [/EN#103935/bodyparts a girl 's face] .
+[/EN#103933/people A woman] helping [/EN#103938/people a young blond girl] .

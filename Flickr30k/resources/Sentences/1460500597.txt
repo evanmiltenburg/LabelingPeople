@@ -1,0 +1,5 @@
+[/EN#13723/people The man] in [/EN#13729/other the button] up [/EN#13724/clothing shirt] is sitting at [/EN#13725/other a table] .
+[/EN#13723/people A man] is sitting in [/EN#13728/scene room] made up of [/EN#13726/other wood] panelling .
+[/EN#0/notvisual There] is [/EN#13723/people a man] sitting in [/EN#13728/scene a restaurant] at [/EN#13727/scene night] .
+[/EN#13723/people Man] sitting at [/EN#13725/other a table] in [/EN#13728/scene a restaurant] .
+[/EN#13723/people A man] sits at [/EN#13725/other a table] in [/EN#13728/scene a room] .

@@ -1,0 +1,5 @@
+[/EN#115991/animals A dog] is running in [/EN#115992/scene a large body of water] causing [/EN#0/notvisual it] to splash .
+[/EN#115991/animals a dog] sprints across [/EN#115992/scene the water] .
+[/EN#115991/animals A dog] running through [/EN#115992/scene water] .
+[/EN#115991/animals A dog] running in [/EN#115992/scene the water] .
+[/EN#115991/animals A dog] jumps through [/EN#115992/scene water] .

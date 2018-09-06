@@ -1,0 +1,5 @@
+[/EN#10139/people A man] wearing [/EN#10148/clothing jeans] and [/EN#10144/other a button] up [/EN#10149/clothing dress shirt] is holding [/EN#10140/other a camera] while standing next to [/EN#10142/people a woman] in [/EN#10150/clothing black pants] and [/EN#10151/clothing a beige jacket] .
+[/EN#10138/people A cameraman] and [/EN#10142/other companion stop] to read [/EN#10147/other something] [/EN#0/notvisual which] has been attacked to [/EN#10145/other a pole] .
+[/EN#10139/people A man] holding [/EN#10140/other a video camera] standing next to [/EN#10142/people a woman] by [/EN#10141/scene water] .
+[/EN#10139/other A videographer] and [/EN#10142/people female companion] stand by [/EN#10141/scene a waterway] .
+[/EN#10138/people A camera crew] waits near [/EN#10141/scene some water] .

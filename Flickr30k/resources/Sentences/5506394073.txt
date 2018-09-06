@@ -1,0 +1,5 @@
+[/EN#237834/people Two men] , [/EN#237840/other one] in [/EN#237845/clothing a tan baseball hat] and [/EN#237841/other the other] in [/EN#237846/clothing a tan hoodie] , and [/EN#237835/people a child] in [/EN#237847/clothing a green jacket] sit on [/EN#237836/other a tractor] .
+[/EN#237833/people Three people] are on [/EN#237836/other a tractor] , [/EN#0/notvisual 2 of them] are riding on [/EN#237842/scene the roof] and [/EN#237835/other one] appears to be driving [/EN#0/notvisual it] .
+[/EN#237836/vehicles A vehicle] carrying [/EN#237838/other hay] also holds [/EN#237835/people a young boy] as well as [/EN#237834/people two men] [/EN#0/notvisual who] sit on top of [/EN#237837/other the hay] .
+[/EN#237833/people Family] sitting on [/EN#237836/other tractor] loaded with [/EN#237838/other hay] near [/EN#237843/scene the water] .
+[/EN#237834/people Two men] and [/EN#237835/people a boy] ride [/EN#237836/other a rusty tractor] filled with [/EN#237838/other hay] .

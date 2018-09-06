@@ -1,0 +1,5 @@
+[/EN#71481/people A man] in [/EN#71483/clothing a brown shirt] plays [/EN#71482/instruments a horn] in front of [/EN#71485/scene a free spirit store] .
+[/EN#71481/people A man] in [/EN#71484/clothing a kilt] is playing [/EN#71482/instruments an instrument] in front of [/EN#71487/other a storefront] .
+[/EN#71481/people A man] with [/EN#71482/other a hornet] is standing in front of [/EN#71487/other the store window] .
+[/EN#71481/people A man] plays [/EN#71482/instruments a band instrument] outside of [/EN#71485/scene a free spirit store] .
+[/EN#71481/people A man] plays [/EN#71482/other a tuba] next to [/EN#71485/scene a shop] called , " [/EN#71488/people free spirit] . "

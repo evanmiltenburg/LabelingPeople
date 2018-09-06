@@ -1,0 +1,5 @@
+[/EN#221634/people A crowd of people] looking towards [/EN#221639/people a person] in [/EN#221642/clothing a gorilla costume] inside [/EN#221643/scene a building] .
+[/EN#221634/people A group of people] travel through [/EN#221637/other a line] along side [/EN#221635/other a gorilla statue] .
+[/EN#221634/people A crowd] waits to interact with [/EN#221640/people some people] in [/EN#221638/other an indoor location] .
+[/EN#0/notvisual There] is [/EN#221634/people a group of people] looking at [/EN#221636/other a life] sized [/EN#221644/animals gorilla] .
+[/EN#221634/people A group of people] are lined up inside [/EN#221641/other waiting] .

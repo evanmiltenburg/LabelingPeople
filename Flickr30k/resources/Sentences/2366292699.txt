@@ -1,0 +1,5 @@
+[/EN#44402/people A man] in [/EN#44404/clothing a brown suit] is speaking into [/EN#44406/other a microphone] while sitting down with [/EN#44407/other his right foot] up .
+[/EN#44402/people A man] is sitting in [/EN#44405/other a chair] with [/EN#44407/other his foot] propped up on [/EN#44403/other a cabinet] , talking into [/EN#44406/other a microphone] .
+[/EN#44402/people A man] in [/EN#44404/clothing a suit] relaxes [/EN#44408/bodyparts his right leg] while speaking at [/EN#44409/other a seminar] for [/EN#44410/scene a Policy Summit] .
+[/EN#44402/people A balding man] in [/EN#44404/clothing a suit] sitting on [/EN#44405/other a chair] with [/EN#44408/bodyparts one leg] raised speaking into [/EN#44406/other a mic] .
+[/EN#44402/people A man] in [/EN#44404/clothing a suit] sits on [/EN#44405/other a chair] while holding [/EN#44406/other a microphone] with [/EN#44407/other his foot] on [/EN#44403/other a box] .

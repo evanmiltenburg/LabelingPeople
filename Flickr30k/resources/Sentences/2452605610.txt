@@ -1,0 +1,5 @@
+[/EN#50703/people The man] wearing [/EN#50705/clothing a red shirt] , is jumping into [/EN#0/notvisual the air] .
+[/EN#50703/people Man] in [/EN#50705/clothing a red shirt] and [/EN#50708/other pans] jumping into [/EN#50704/other a hay stack] .
+[/EN#50707/other A nice] still shot where [/EN#50703/people a guy] is jumping in [/EN#0/notvisual the air] .
+[/EN#50703/people A man] in [/EN#50705/clothing a red shirt] is jumping into [/EN#50709/scene tall grass] .
+[/EN#50703/people A barefooted man] jumps into [/EN#50704/other a pile of hay] .

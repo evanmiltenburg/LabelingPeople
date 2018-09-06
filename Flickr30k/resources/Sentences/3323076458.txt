@@ -1,0 +1,5 @@
+[/EN#109389/animals The black and tan dog] is chasing [/EN#109391/other something] [/EN#0/notvisual he] has spotted .
+[/EN#109389/animals a black and brown dog] is running across [/EN#109390/scene a muddy field] .
+[/EN#109389/animals A dog] with [/EN#109392/bodyparts no tail] runs in [/EN#109390/scene the dirt] .
+[/EN#109389/animals a lone dog] running in [/EN#109390/scene a dirty road]
+[/EN#109389/animals a black and brown dog] runs .

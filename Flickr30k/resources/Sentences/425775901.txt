@@ -1,0 +1,5 @@
+[/EN#160524/people A man] in [/EN#160526/clothing a suit] with [/EN#160531/other a wineglass] in [/EN#160535/bodyparts his hand] is speaking to [/EN#160527/people a group of people] at [/EN#160528/other a party] .
+[/EN#160524/people The man] in [/EN#160526/clothing the suit] with [/EN#160533/clothing pink shirt] and [/EN#160534/clothing striped tie] gives [/EN#160529/other a speech] while others [/EN#160532/other laugh] .
+[/EN#160524/people A man] dressed in [/EN#160526/clothing a nice black suit] makes [/EN#160530/other a toast] to [/EN#160525/people a roomful of guests] .
+[/EN#160524/people A man] in [/EN#160526/clothing a suit] is speaking to [/EN#160525/people an audience] .
+[/EN#160524/people The man] is talking in front of [/EN#160525/people the people] .

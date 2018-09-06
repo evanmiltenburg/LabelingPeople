@@ -1,0 +1,5 @@
+[/EN#39166/people A group of people] on [/EN#39167/scene the beach] run in [/EN#39172/other the sand] away from [/EN#39169/scene the water] .
+[/EN#39166/people Five adults] and [/EN#39171/people a child] run opposite of [/EN#39169/scene the waves] on [/EN#39167/scene the beach] .
+[/EN#39166/people A group of people] running of [/EN#39168/other the sand dune] at [/EN#39167/scene the beach] .
+[/EN#39166/people A family] walk up from [/EN#39167/scene the shore of a beach] .
+[/EN#0/notvisual There] are [/EN#39166/people people] on [/EN#39167/scene the beach] in [/EN#39168/other the sand] .

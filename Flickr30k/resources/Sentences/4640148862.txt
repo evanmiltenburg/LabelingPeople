@@ -1,0 +1,5 @@
+[/EN#185658/people A middle-aged woman] is walking towards [/EN#185669/scene the camera 's point] of [/EN#185671/scene view] holding [/EN#185661/clothing a shopping bag] , beside [/EN#0/notvisual her] is [/EN#185666/people a woman] facing [/EN#0/notvisual the other direction] .
+[/EN#185658/people A woman] wearing [/EN#185668/clothing sunglasses] , [/EN#185667/clothing jeans] , & [/EN#185665/clothing a t-shirt] walks down [/EN#185664/scene the street] carrying [/EN#185661/clothing a bag] .
+[/EN#185658/people A woman] carrying [/EN#185661/clothing a shopping bag] in front of [/EN#185660/other Fisher 's Popcorn] .
+[/EN#185658/people A woman] is walking by [/EN#185662/scene a building] labeled [/EN#185660/other Fisher 's Popcorn] .
+[/EN#185659/people Women] walking past [/EN#185663/other a business] called [/EN#185660/other Fishers Popcorn] .

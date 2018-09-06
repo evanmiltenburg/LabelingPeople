@@ -1,0 +1,5 @@
+[/EN#148830/animals A shiny black dog] runs on [/EN#148831/scene the grass] during [/EN#148833/scene a bright and sunny day] .
+[/EN#148830/animals The big , black , running dog] is wearing [/EN#148836/other a strap] around [/EN#148837/bodyparts its chest] .
+[/EN#148830/animals The large black dog] is running through [/EN#148831/scene a grassy area] .
+[/EN#148830/animals The black dog] is running through [/EN#148834/scene the clearing] .
+[/EN#148830/animals/scene A black lab] is running in [/EN#148835/other a race] .

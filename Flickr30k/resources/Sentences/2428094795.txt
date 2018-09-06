@@ -1,0 +1,5 @@
+[/EN#48703/people A little girl] with [/EN#48704/clothing purple hat] is riding [/EN#48705/vehicles a tricycle] along [/EN#48709/scene paved road] by [/EN#48710/scene some farmland] .
+[/EN#48703/people A little girl] with [/EN#48704/clothing a purple fuzzy hat] is riding [/EN#48705/scene a tricycle outside] .
+[/EN#48703/people A young girl] in [/EN#48704/clothing blue hat] and [/EN#48706/clothing coat] is riding [/EN#48705/vehicles a tricycle] .
+[/EN#48703/people Little kid] in [/EN#48706/clothing blue coat] and [/EN#48704/clothing hat] riding [/EN#48705/vehicles a tricycle] .
+[/EN#48703/people A child] in [/EN#48704/clothing a fuzzy blue hat] on [/EN#48705/vehicles a tricycle] .

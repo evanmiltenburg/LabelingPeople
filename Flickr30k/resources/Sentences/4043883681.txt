@@ -1,0 +1,5 @@
+[/EN#153033/people A woman] is carving [/EN#153035/other an ice sculpture] with [/EN#153034/other a knife] .
+[/EN#153033/people A woman] is holding [/EN#153034/other a knife] to [/EN#153035/other an ice sculpture] .
+[/EN#153033/people Woman] carves [/EN#153035/other an ice sculpture] while smiling .
+[/EN#153033/people A woman] trying to create [/EN#153035/other an ice scripture] .
+[/EN#153033/people A woman] is working on [/EN#153035/other an ice sculpture] .

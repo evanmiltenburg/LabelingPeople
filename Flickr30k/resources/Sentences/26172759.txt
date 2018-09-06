@@ -1,0 +1,5 @@
+[/EN#61928/people A man] in [/EN#61929/clothing a blue helmet] is paddling [/EN#61930/other a blue oar] in [/EN#61930/other a blue kayak] in [/EN#61932/scene rough water] .
+[/EN#61928/people Kayaker] in [/EN#61929/clothing protective helmet] and [/EN#61930/other blue kayak] keeps afloat in raging [/EN#61932/scene waters] .
+[/EN#61928/people A kayaker] wearing [/EN#61929/clothing a blue helmet] paddles [/EN#61930/other a blue kayak] .
+[/EN#61928/people A kayaker] battles [/EN#61932/scene the waves] in [/EN#61930/other his blue craft] .
+[/EN#61928/people A person] kayaking in [/EN#61931/scene strong currents] .

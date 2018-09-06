@@ -1,0 +1,5 @@
+[/EN#13264/people A young man] wearing [/EN#13267/clothing a life jacket] is paddling [/EN#13271/scene his way] on [/EN#13266/scene a lake] in [/EN#13265/other a canoe] .
+[/EN#13264/people A young boy] with [/EN#13267/clothing a life jacket] paddles downstream on [/EN#13270/other his own] in [/EN#13265/other a kayak] .
+[/EN#13264/people An adolescent] in [/EN#13267/clothing a red life jacket] is paddling down [/EN#13266/scene a river] in [/EN#13265/other a canoe] .
+[/EN#13264/people A young boy] with [/EN#13269/clothing glasses] is kayaking in [/EN#13266/scene calm waters] near [/EN#13268/other a large tree] .
+[/EN#13264/people A boy] is kayaking on [/EN#13266/scene a river] .

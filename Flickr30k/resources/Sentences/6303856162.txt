@@ -1,0 +1,5 @@
+[/EN#252107/people A man] in [/EN#252107/clothing a black and gray outfit] is sailing through [/EN#0/notvisual the air] on [/EN#252115/other skis] or [/EN#252108/other a snowboard] .
+[/EN#252107/people A young man] in [/EN#252114/clothing black] is snowboarding during [/EN#252108/other a heavy snowfall] .
+[/EN#252107/people A male snowboarder] catches [/EN#0/notvisual some air] and does [/EN#0/notvisual a trick] .
+[/EN#252107/scene A snow border] jumping up [/EN#252113/other a half pipe] doing [/EN#0/notvisual a trick] .
+[/EN#252107/people A skier] skiing and having [/EN#0/notvisual fun] .

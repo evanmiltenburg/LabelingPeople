@@ -1,0 +1,5 @@
+[/EN#19497/people A male] is sitting down on [/EN#19498/scene the beach] playing [/EN#19499/instruments a guitar] .
+[/EN#19497/people A man] is sitting along [/EN#19498/scene the beach] playing [/EN#19499/instruments a guitar] .
+[/EN#19497/people A man] sitting on [/EN#19498/scene the beach] playing [/EN#19499/instruments his guitar] .
+[/EN#19497/people A man] is playing [/EN#19499/instruments guitar] by [/EN#19500/scene the ocean] .
+[/EN#19497/people A man] plays [/EN#19499/instruments his guitar] on [/EN#19498/scene the beach] .

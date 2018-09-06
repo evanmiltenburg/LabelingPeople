@@ -1,0 +1,5 @@
+[/EN#181502/people Two moped enthusiasts] , [/EN#0/notvisual one of which] is wearing [/EN#181509/clothing a purse] , have [/EN#181508/other a conversation] on [/EN#181504/other the curb] .
+[/EN#181502/people A young couple] is sitting on [/EN#181505/scene a sidewalk] with [/EN#181506/clothing their helmets] , in front of [/EN#181503/vehicles a motor scooter] .
+[/EN#181502/people Two men] sit on [/EN#181505/scene a sidewalk] with [/EN#181506/clothing their helmets] in front of [/EN#181503/vehicles a Vespa scooter] .
+[/EN#181502/people Two men] with [/EN#181506/clothing helmets] sit in front of [/EN#181503/vehicles their scooter] .
+[/EN#181502/people Two men] sit on [/EN#181504/other a curb] in front of [/EN#181503/vehicles a moped] .

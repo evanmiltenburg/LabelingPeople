@@ -1,0 +1,5 @@
+[/EN#16953/animals Gray horse] wearing [/EN#16954/other blue cover] eating from [/EN#16955/other a orange bucket] held by [/EN#16952/people a person] in [/EN#16958/clothing a green shirt] .
+[/EN#16952/people A young boy] is feeding [/EN#16953/animals a horse] [/EN#16956/other some hay] from [/EN#16955/other an orange bucket] .
+[/EN#16952/people A man] feeding [/EN#16953/animals a horse] wearing [/EN#16954/other a blue strapped blanket] .
+[/EN#16952/people A man] holds [/EN#16956/other feed] for [/EN#16953/animals a horse] in [/EN#16954/other a blue blanket] .
+[/EN#16952/people A boy] holds [/EN#16955/other a red bucket] up to [/EN#16953/animals a pony] .

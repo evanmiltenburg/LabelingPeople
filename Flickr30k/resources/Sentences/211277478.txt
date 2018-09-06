@@ -1,0 +1,5 @@
+[/EN#29409/vehicles A Jeep] goes off-roading in [/EN#29411/other the woods] with [/EN#29410/scene muddy trails] making [/EN#0/notvisual it] dirty .
+[/EN#29409/vehicles The vehicle] is driving through [/EN#29410/other mud] surrounded by [/EN#29411/other pine trees] .
+[/EN#29409/vehicles A muddy jeep] driving through [/EN#29412/scene the forest] .
+[/EN#29409/vehicles A dirty jeep] is stuck in [/EN#29410/other the mud] .
+[/EN#29409/vehicles A muddy truck] in [/EN#29411/other the woods] .

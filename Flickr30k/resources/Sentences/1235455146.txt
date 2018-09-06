@@ -1,0 +1,5 @@
+[/EN#5857/people An asian family] is picnicking at [/EN#5864/scene the beach] while [/EN#5858/other others] play in [/EN#5865/scene the water] .
+[/EN#5857/people A family] sits at [/EN#5864/scene the beach] while [/EN#5858/people swimmers] can be seen in [/EN#0/notvisual the background] .
+[/EN#5860/people Two women] , [/EN#5861/people a man] and [/EN#5862/other a small child picnic] on [/EN#5864/scene a busy beach] .
+[/EN#5857/people A group of people] are sitting on [/EN#5864/scene the beach] with [/EN#5863/other a cooler] .
+[/EN#5857/people family] sits on [/EN#5864/scene beach] with [/EN#5863/other a blue cooler] .

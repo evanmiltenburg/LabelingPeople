@@ -1,0 +1,5 @@
+[/EN#52359/people A girl] has placed [/EN#52361/other a purple cloth] over [/EN#52363/bodyparts her face] while [/EN#0/notvisual she] lies on [/EN#52365/other wooden structure] .
+[/EN#52360/people A young woman] is laying in [/EN#52364/other the sun] with [/EN#52363/bodyparts her face] covered by [/EN#52361/clothing a purple scarf] .
+[/EN#52360/people A young woman] with [/EN#52361/other a purple cloth] hiding [/EN#52363/bodyparts her face] relaxes on [/EN#52362/other a wooden deck] .
+[/EN#52359/people A girl] lays on [/EN#52362/other a wooden deck] with [/EN#52361/clothing a piece of clothing] covering [/EN#52363/bodyparts her face] .
+[/EN#52359/people A girl] is sunning [/EN#0/notvisual herself] with [/EN#52361/other a purple towel] over [/EN#52363/bodyparts her face] .

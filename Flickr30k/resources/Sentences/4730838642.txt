@@ -1,0 +1,5 @@
+[/EN#196448/people A woman bartender] standing behind [/EN#196449/scene a bar] with [/EN#196450/other a hanging " Holland " sign] overhead .
+[/EN#196448/people A bartender] stands in front of [/EN#196451/people a large wine collection] .
+[/EN#196448/people A woman] stands behind [/EN#196449/scene a bar] serving [/EN#196452/other drinks] .
+[/EN#196448/people A woman] is working as [/EN#196448/people a bartender] .
+[/EN#196448/people A woman] is in [/EN#196449/scene a liquor store] .

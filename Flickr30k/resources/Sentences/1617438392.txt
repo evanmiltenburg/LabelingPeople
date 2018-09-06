@@ -1,0 +1,5 @@
+[/EN#17645/people A woman] wearing [/EN#17649/clothing pink pants] is sitting on [/EN#17647/other a chair] and playing [/EN#17646/instruments the bass guitar] .
+[/EN#17645/people A woman] is leaning on [/EN#17647/other the chair] and playing [/EN#17646/instruments the electric guitar] .
+[/EN#17645/people A girl] playing [/EN#17646/instruments her guitar] in [/EN#17648/scene her bedroom] .
+[/EN#17645/people girl] rocking out on [/EN#17646/instruments a guitar] in [/EN#17648/scene bedroom]
+[/EN#17645/people a person] in [/EN#17649/clothing pink pants] playing [/EN#17646/instruments a guitar]

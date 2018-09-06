@@ -1,0 +1,5 @@
+[/EN#55672/people Man] standing on [/EN#55675/other a rock ledge] over [/EN#55673/scene a body of water] [/EN#55678/scene the sky] and [/EN#55673/scene water] are blue and meet at [/EN#55676/scene the horizon] .
+[/EN#55672/people a man] stands on [/EN#55674/scene a grassy cliff] [/EN#0/notvisual that] overhangs [/EN#55673/scene a deep blue ocean] .
+[/EN#55672/people A man] stands on [/EN#55675/scene the edge of a cliff] overhanging [/EN#55673/scene the ocean] .
+[/EN#55672/people A man] stands on [/EN#55674/scene a cliff] overlooking [/EN#55673/scene the ocean] .
+[/EN#55672/people A man] stands on [/EN#55675/scene the overhang of a cliff] .

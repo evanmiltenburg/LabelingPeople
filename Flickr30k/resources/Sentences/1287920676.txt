@@ -1,0 +1,5 @@
+[/EN#7409/animals A white dog] with [/EN#7411/other red straps] on [/EN#0/notvisual it] is looking back .
+[/EN#7409/animals A white dog] and [/EN#7409/animals a brown dog] attached by [/EN#7410/clothing harnesses] .
+[/EN#7409/animals The dogs] are joined together with [/EN#7410/clothing a red harness] .
+[/EN#7409/animals The dog] has red [/EN#7411/other straps] in [/EN#7414/other its back] .
+[/EN#7409/animals A snow dog] in [/EN#7410/clothing a red harness] .

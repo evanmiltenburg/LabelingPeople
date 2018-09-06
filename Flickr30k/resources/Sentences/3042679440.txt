@@ -1,0 +1,5 @@
+[/EN#89593/scene A brightly lit urban street] with [/EN#89595/people lots of people] walking across [/EN#89599/scene a street] .
+[/EN#89595/people Many people] are walking on [/EN#89593/scene a busy street] at [/EN#89596/scene night] .
+Blurry [/EN#89595/people people] walking in [/EN#89594/scene the city] at [/EN#89596/scene night] .
+[/EN#89593/scene A busy city street] as [/EN#89595/people people] are walking .
+[/EN#89597/scene A crowd scene] in [/EN#89598/scene a downtown area] .

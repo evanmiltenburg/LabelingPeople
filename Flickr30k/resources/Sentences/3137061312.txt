@@ -1,0 +1,5 @@
+[/EN#96009/vehicles/scene A subway train] with [/EN#96013/other lights] on [/EN#0/notvisual is] at [/EN#96010/other the station] .
+[/EN#96009/vehicles/scene A train] approaches in [/EN#96011/vehicles/scene a dimly lit subway] .
+[/EN#96009/vehicles/scene The train] is coming down [/EN#96012/scene the track] .
+[/EN#96009/vehicles/scene A train] is underground .
+[/EN#96009/vehicles/scene train] in [/EN#96010/other station]

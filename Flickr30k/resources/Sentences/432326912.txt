@@ -1,0 +1,5 @@
+[/EN#163030/people A man] wearing [/EN#163031/clothing a flowered shirt] is aggressively playing [/EN#163033/instruments a percussion instrument] .
+[/EN#163030/people A male percussionist] plays [/EN#163032/other the marimba] with [/EN#163035/other a look of concentration] .
+[/EN#163030/people A man] in [/EN#163031/clothing a collared shirt] is playing [/EN#163033/instruments a musical instrument] .
+[/EN#163029/people A man] in [/EN#163034/other a button] up [/EN#163031/clothing shirt] is playing [/EN#163033/other the xylophone] .
+[/EN#163029/people A Caucasian male musician] playing [/EN#163032/other a xylophone] .

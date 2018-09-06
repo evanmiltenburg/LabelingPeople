@@ -1,0 +1,5 @@
+[/EN#33009/people A person] in [/EN#33011/clothing a black jacket] is grabbing [/EN#33012/bodyparts a boy 's shoulder] to stop [/EN#0/notvisual him] from backing into [/EN#33013/scene the road] while [/EN#33008/other a silver Mini] is driving by .
+[/EN#33010/people Two persons] in [/EN#33018/clothing hooded coats] on [/EN#33013/scene a street] while [/EN#33008/vehicles a mini cooper car] drives by .
+[/EN#33009/people A person] in [/EN#33011/clothing a black coat] pulling [/EN#33015/people a kid] out of [/EN#33013/scene the road] .
+[/EN#33009/people A man] in [/EN#33011/clothing a blue coat] grabbing [/EN#33012/bodyparts a young boy 's shoulder] .
+[/EN#33008/vehicles A Car] speeding [/EN#33010/people past 2 pedestrians] near [/EN#33014/other a Metal Pole] .

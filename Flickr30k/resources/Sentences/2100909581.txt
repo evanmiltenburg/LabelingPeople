@@ -1,0 +1,5 @@
+[/EN#28723/animals A white dog] plays outside in [/EN#28725/scene a fenced yard] while [/EN#0/notvisual it] snows .
+[/EN#28723/animals A large white dog] is jumping in [/EN#0/notvisual the air] over [/EN#28726/scene a snowy area] .
+[/EN#28723/animals a large white dog] jumping up in [/EN#28724/scene the snow]
+[/EN#28723/animals White dog] playing in [/EN#28724/scene the snow] .
+[/EN#28723/animals A dog] is jumping in [/EN#28724/scene the snow] .

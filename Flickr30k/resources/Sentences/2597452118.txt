@@ -1,0 +1,5 @@
+[/EN#60469/people A man] leaning out [/EN#60472/vehicles the passenger window of a car] holds [/EN#60471/clothing a red shirt] with [/EN#60474/other a white star] in front of [/EN#60475/bodyparts his face] .
+[/EN#60469/people A man] is leaning out of [/EN#60472/other a car window] holding [/EN#60471/clothing a red shirt] with [/EN#60474/other a white star] .
+[/EN#60469/people A man] holds [/EN#60471/clothing a red shirt] with [/EN#60474/other a white star] and [/EN#60470/other crescent] out of [/EN#60472/other a car window] .
+[/EN#60469/people a man] holding [/EN#60471/other a flag] outside of [/EN#60472/other a car 's passenger window]
+[/EN#60469/people A man] holds [/EN#60471/other a Turkish flag] out of [/EN#60472/vehicles the window of a car] .

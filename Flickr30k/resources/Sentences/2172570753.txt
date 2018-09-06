@@ -1,0 +1,5 @@
+[/EN#32199/people A woman] wearing [/EN#32203/clothing glasses] and [/EN#32200/clothing a brown beanie] next to [/EN#32201/people a girl] with [/EN#32204/bodyparts long brown hair] holding [/EN#32197/other a book] .
+[/EN#32196/people Two women] in [/EN#32202/clothing black jackets] reading [/EN#32197/other a magazine] and smiling .
+[/EN#32196/people Two travelers] on [/EN#32198/vehicles/scene a train or bus] reading [/EN#32197/other a book] together .
+[/EN#32196/people A couple] laughs together as [/EN#0/notvisual they] read [/EN#32197/other a book] on [/EN#32198/vehicles/scene a train] .
+[/EN#32196/people Two girls] sitting down and looking at [/EN#32197/other a book] .

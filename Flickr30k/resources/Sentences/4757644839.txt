@@ -1,0 +1,5 @@
+Climbing [/EN#199545/other a ladder] , [/EN#199544/people a man] with [/EN#199549/clothing a red bandanna] inspects [/EN#199546/other plant-life] .
+[/EN#199544/people An elderly man] stands on [/EN#199545/other a ladder] tending [/EN#199548/other the leaves of a tree] .
+[/EN#199544/people Man] with [/EN#199547/clothing a blue hat] standing on [/EN#199545/other a ladder] next to [/EN#199548/other a plant] .
+[/EN#199544/people A man] on [/EN#199545/other a ladder] works with [/EN#199546/other tree branches] .
+[/EN#199544/people An older man] on [/EN#199545/other a ladder] tends to [/EN#199546/other plants] .

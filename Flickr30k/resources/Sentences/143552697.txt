@@ -1,0 +1,5 @@
+[/EN#12946/people A man] with [/EN#12947/clothing helmet] and [/EN#12948/clothing backpack] standing on [/EN#12949/vehicles dirt bike] in [/EN#12952/scene a hilly grassy area] .
+[/EN#12946/people Man] on [/EN#12950/other motorcycle] riding in [/EN#12952/scene dry field] wearing [/EN#12947/clothing a helmet] and [/EN#12948/clothing backpack]
+[/EN#12946/people A person] rides [/EN#12949/vehicles a motorbike] through [/EN#12953/scene a grassy field] .
+[/EN#12946/people The biker] is riding through [/EN#12951/other a grassy plain] .
+[/EN#12946/people A man] riding [/EN#12949/vehicles his bike] on [/EN#12953/scene a hill] .

@@ -1,0 +1,5 @@
+[/EN#152108/people A rock climber] dressed in [/EN#152119/clothing yellow] and wearing [/EN#152111/clothing a red safety helmet] is scaling [/EN#152110/scene the smooth wall of a high cliff] , while [/EN#152115/people another member] looks on from [/EN#152112/vehicles/scene the boat] in [/EN#152109/scene the water] .
+Looking down from [/EN#152118/scene the top of a cliff] , [/EN#152108/people a man] is climbing [/EN#152110/other the cliff wall] in [/EN#152114/other an attempt] to make [/EN#0/notvisual it] to [/EN#152117/clothing the top] .
+[/EN#0/notvisual There] is [/EN#152108/people a man] in [/EN#152111/clothing a red helmet] climbing [/EN#152113/scene a mountain] near [/EN#152109/scene a big body of water] .
+[/EN#152108/people A person] is climbing [/EN#152110/other a cliff wall] [/EN#0/notvisual that] overlooks [/EN#152109/scene water] .
+[/EN#152108/people A man] is rock climbing with [/EN#152116/other protective rope] .

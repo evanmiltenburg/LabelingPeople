@@ -1,0 +1,5 @@
+[/EN#144007/people Two male dancers] dressed in [/EN#144009/clothing blue shirts] and [/EN#144013/clothing black pants] perform [/EN#144008/other a routine] in front of [/EN#144010/people six women] sitting beside [/EN#0/notvisual them] .
+[/EN#144007/people Two men] in [/EN#144009/clothing blue shirts] are dancing while [/EN#144010/people six women] in [/EN#144014/clothing dresses] are watching .
+[/EN#144007/people Two men] and [/EN#144010/people six women] are in [/EN#144011/scene the middle of a stage] .
+[/EN#144012/people Two male and six female dancers] perform on [/EN#144011/scene stage] .
+[/EN#144007/people Two men] in [/EN#144009/clothing blue shirts] and [/EN#144010/people six women] in [/EN#144008/other a ballet] .

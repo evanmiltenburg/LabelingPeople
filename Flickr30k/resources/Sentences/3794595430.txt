@@ -1,0 +1,5 @@
+[/EN#142850/people A woman] in [/EN#142851/clothing a blazer] speaking into [/EN#142858/other a mic] in front of [/EN#142857/people a crowd] with [/EN#142852/other a presentation] .
+[/EN#142850/people A brown-haired woman] in [/EN#142851/clothing black suite jacket] giving [/EN#142853/other a speech] .
+[/EN#142850/people A young woman] gives [/EN#142852/other a presentation] concerning [/EN#142855/other Wikipedia] .
+[/EN#142850/people A woman] stands at [/EN#142859/scene a podium] with [/EN#142854/other a slide show] behind [/EN#0/notvisual her] .
+[/EN#142850/people Woman] giving [/EN#142852/other a presentation] at [/EN#142856/scene a Wikimedia event] .

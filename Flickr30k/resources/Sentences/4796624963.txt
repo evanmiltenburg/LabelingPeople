@@ -1,0 +1,5 @@
+[/EN#203553/people A man] in [/EN#203556/clothing a white shirt] is walking [/EN#203554/animals a dog] on [/EN#203555/scene the side of a street] .
+[/EN#203553/people A man] wearing [/EN#203556/clothing a white shirt] and [/EN#203557/clothing blue jeans] is walking [/EN#203554/animals a dog] .
+[/EN#203553/people A man] wearing [/EN#203557/clothing jeans] takes [/EN#203554/animals a dog] for [/EN#203560/other an evening walk] .
+[/EN#203553/people A man] and [/EN#203554/animals his dog] walking down [/EN#203555/scene a street] at [/EN#203558/scene night] .
+[/EN#203553/people A man] is walking [/EN#203554/animals his dog] in [/EN#203559/scene the city] at [/EN#203558/scene night] .

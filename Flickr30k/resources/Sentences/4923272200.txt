@@ -1,0 +1,5 @@
+[/EN#218781/people A man] is playing [/EN#218784/instruments the saxophone] in [/EN#218783/scene the street] and [/EN#218788/people some people] are sitting on [/EN#218789/other the curb] next to [/EN#218787/scene the street] by [/EN#0/notvisual him] .
+[/EN#218781/people A man] in [/EN#218786/clothing a cream blazer] and [/EN#218785/clothing fedora] plays [/EN#218784/instruments the saxophone] .
+[/EN#218781/people A man] in [/EN#218782/clothing a beige jacket] and [/EN#218785/clothing hat] plays saxophone .
+[/EN#218781/people A man] in [/EN#218782/clothing a brown coat] is playing [/EN#218784/instruments the saxophone] .
+[/EN#218781/people A man] plays [/EN#218784/instruments a saxophone] in [/EN#218783/scene a public area] .

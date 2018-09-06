@@ -1,0 +1,5 @@
+In [/EN#21913/scene a mountain landscape] , [/EN#21914/people a person] dressed in [/EN#21915/clothing black] leans against [/EN#21916/scene a fence] and looks downward .
+[/EN#21917/people Visitors] travel along [/EN#21918/scene a mountain path] as [/EN#0/notvisual they] walk along [/EN#21919/scene a safety fence] .
+[/EN#21914/people A person] standing on [/EN#21920/other some black rocks] looking over [/EN#21919/scene a fence] .
+[/EN#21914/people A man] wearing [/EN#21915/clothing black] is looking over [/EN#21916/scene a cliff] .
+[/EN#21914/people A person] is overlooking [/EN#21916/scene a cliff] .

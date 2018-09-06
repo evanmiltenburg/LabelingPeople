@@ -1,0 +1,5 @@
+[/EN#35930/animals A small dog] on [/EN#35931/clothing a chain leash] stands in [/EN#35932/scene a shadowed hallway] alone .
+[/EN#35930/animals A dog] is on [/EN#35931/clothing a leash] in [/EN#35932/scene a room] [/EN#0/notvisual that] is filled with [/EN#35936/scene shadows] .
+[/EN#35930/animals A brown and white dog] is chained up near [/EN#35934/other a red chair] .
+[/EN#35930/animals Young dog] standing with [/EN#35931/other a chain] and [/EN#35935/clothing collar] .
+[/EN#35930/animals A small dog] looking up to [/EN#35937/people his loving owner] .

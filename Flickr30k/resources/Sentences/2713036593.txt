@@ -1,0 +1,5 @@
+[/EN#68080/people Male] in [/EN#68082/clothing a striped short-sleeve shirt] , [/EN#68083/clothing jeans] , and [/EN#68086/clothing brown shoes] falling asleep while sitting down .
+[/EN#68080/people A man] in [/EN#68083/clothing jeans] and [/EN#68082/clothing a striped short shirt] is sitting on [/EN#68080/other a stoop] and sleeping .
+[/EN#68080/people A man] in [/EN#68082/clothing a striped shirt] and [/EN#68083/clothing blue jeans] asleep on [/EN#68080/other a stoop] .
+[/EN#68080/people A man] is sitting on [/EN#68087/scene the floor] , sleeping .
+[/EN#68080/people A male] taking [/EN#68085/other a nap] on [/EN#68084/other a hot afternoon] .

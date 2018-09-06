@@ -1,0 +1,5 @@
+[/EN#61464/people Two people] are sitting next to [/EN#61466/other a wood-stacked campfire] at [/EN#61467/scene night] .
+[/EN#61465/people two people] sitting in [/EN#61468/scene the dark] near [/EN#61466/other a blazing fire] .
+[/EN#61465/people Two people] sit around [/EN#61466/other a large fire] .
+[/EN#61464/people Two men] are sitting by [/EN#61466/other a campfire] .
+[/EN#61464/people People] sit near [/EN#61469/scene a fire outside] .

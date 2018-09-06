@@ -1,0 +1,5 @@
+[/EN#266506/people A male tennis player] wearing [/EN#266507/clothing a blue shirt] and [/EN#266511/clothing white shorts] is depicted in [/EN#266512/other action] on [/EN#266508/scene a teal tennis court] .
+[/EN#266506/people A tennis player] in [/EN#266507/clothing a blue shirt] and [/EN#266511/clothing white shorts] lunges toward [/EN#266509/other a tennis ball] on [/EN#266508/scene a blue tennis court] .
+[/EN#266506/people An athletic tennis player] wearing [/EN#266507/clothing a blue t-shirt] and [/EN#266511/clothing white pants] in [/EN#266510/other the middle of a play] .
+[/EN#266506/people A man] trying to reach [/EN#266509/other the tennis ball] in [/EN#266510/other a tennis game] .
+[/EN#266506/people A man] at [/EN#266508/scene a tennis court] playing [/EN#266510/other tennis] .

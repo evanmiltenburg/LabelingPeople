@@ -1,0 +1,5 @@
+[/EN#77598/people A tight crowd of bicyclers] make [/EN#77602/other a sharp turn] in [/EN#77598/other a race] .
+[/EN#77598/people A group of people] riding [/EN#77601/vehicles bicycles] turn on [/EN#77600/scene a street] .
+[/EN#77598/vehicles a large group of bicycles] racing on [/EN#77600/scene the street]
+[/EN#77598/people A line of men] on [/EN#77601/vehicles bicycles] compete in [/EN#77598/other a race]
+[/EN#77598/people Lots of cyclists] ride during [/EN#77598/other a race] .

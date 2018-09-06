@@ -1,0 +1,5 @@
+[/EN#59712/vehicles A line of off-road vehicles] is parked on [/EN#59714/scene the hill] outside [/EN#59714/scene a wooded area] .
+[/EN#59712/vehicles A group of off road vehicles] parked together high in [/EN#59714/scene the mountains] .
+[/EN#59712/vehicles A group of vehicles] are parked on [/EN#59714/scene a hill] in [/EN#59713/other the fall] .
+[/EN#59712/vehicles A group of cars] parked on [/EN#59714/scene a hill]
+[/EN#59712/vehicles Many cars] parked on [/EN#59714/scene a mountain] .

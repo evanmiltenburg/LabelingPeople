@@ -1,0 +1,5 @@
+[/EN#222865/people A man] wearing [/EN#222870/clothing a red t-shirt] is walking with [/EN#222866/people a lady] in [/EN#222871/clothing a blue shirt] past [/EN#222864/other a wall] [/EN#0/notvisual that] is painted red and [/EN#222869/other other things] on [/EN#0/notvisual it] .
+[/EN#222860/scene City sidewalk] with [/EN#222862/other posters] on [/EN#222864/other a wall] , [/EN#222861/people several people] walking by with [/EN#222863/scene city buildings] in [/EN#0/notvisual the background] .
+[/EN#222867/scene a section of street] with [/EN#222862/other movie posters] and [/EN#222863/scene apartment buildings] in [/EN#0/notvisual the background] .
+[/EN#222861/people People] walking on [/EN#222860/scene street] along [/EN#222864/scene fence] covered in [/EN#222862/other advertisement posters] .
+[/EN#222861/people People] are waling past [/EN#222864/other a wall] [/EN#0/notvisual that] is covered in [/EN#222862/other advertisements] .

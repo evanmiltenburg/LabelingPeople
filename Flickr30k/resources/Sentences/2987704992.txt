@@ -1,0 +1,5 @@
+[/EN#85753/people Two people] cross [/EN#85754/scene a simple wooden bridge] over [/EN#85756/scene a pond] in [/EN#85757/scene a wooded park] .
+[/EN#85753/people Two females] use [/EN#85754/other a wooden footbridge] to cross [/EN#85756/scene a waterway] .
+[/EN#85753/people Two women] are crossing [/EN#85754/scene a bridge] over [/EN#85756/scene a narrow waterway] .
+[/EN#85753/people Two women] walking across [/EN#85754/other a footbridge] .
+[/EN#85753/people Woman] crossing [/EN#85754/scene a wooden bridge] .

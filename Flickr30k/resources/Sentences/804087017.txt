@@ -1,0 +1,5 @@
+[/EN#278085/people Two men] sitting on [/EN#278087/other a bench] on [/EN#278089/scene a street] next to [/EN#278093/people two women] doing [/EN#278092/other the same] .
+[/EN#278085/people Two people] sit on [/EN#278086/other a bench] leaned against [/EN#278090/scene a building] with writing on [/EN#0/notvisual it] .
+[/EN#278084/people Many people] standing and sitting on [/EN#278089/scene the street] in front of [/EN#278088/other billboards] .
+[/EN#278084/people People] sitting on [/EN#278091/other benches] beside [/EN#278089/scene the street] .
+[/EN#278085/people Two people] sit on [/EN#278086/other a bench] on [/EN#278089/scene a city street] .

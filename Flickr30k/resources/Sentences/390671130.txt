@@ -1,0 +1,5 @@
+[/EN#147642/animals A closeup of a small black and white dog] with [/EN#147644/other a baseball] in [/EN#147646/bodyparts its mouth] .
+[/EN#147642/animals A black and white dog] stands on [/EN#147645/scene the grass] with [/EN#147644/other a baseball] in [/EN#147646/bodyparts his mouth]
+[/EN#147643/clothing Brown] and [/EN#147642/animals white dog] with [/EN#147644/other baseball] in [/EN#147646/bodyparts mouth] , [/EN#147645/scene field] and [/EN#147647/scene building] .
+[/EN#147642/animals brown and white dog] with [/EN#147644/other a baseball] in [/EN#147646/bodyparts its mouth] .
+[/EN#147643/clothing Black] and [/EN#147642/animals white dog] holding [/EN#147644/other a baseball] in [/EN#147646/bodyparts mouth] .

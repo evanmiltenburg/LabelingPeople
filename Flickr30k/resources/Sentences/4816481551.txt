@@ -1,0 +1,5 @@
+[/EN#206362/people A woman] wearing [/EN#206364/clothing a bowtie] and [/EN#206368/clothing an interesting outfit] is walking down [/EN#206365/scene the street] with [/EN#206366/clothing an orange bag] .
+[/EN#206362/people The woman] [/EN#0/notvisual who] is wearing [/EN#206364/clothing a bowtie] is walking down [/EN#206365/other the streets of New York] .
+[/EN#206362/people women] with [/EN#206369/bodyparts some tattoo] walking with [/EN#206366/clothing her shopping bag] .
+[/EN#206361/people A few people] walking around in [/EN#206367/scene a city] .
+[/EN#206361/people People] walk down [/EN#206365/scene the busy sidewalk] .

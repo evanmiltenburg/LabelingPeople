@@ -1,0 +1,5 @@
+[/EN#229358/people A young woman] in [/EN#229364/clothing a black coat] and [/EN#229365/clothing gray scarf] holds [/EN#229363/other a blue shopping basket] and reads [/EN#229362/other a book] called [/EN#229360/other Filosofie] .
+[/EN#229358/people Woman] at [/EN#229366/scene a store] reads [/EN#229362/other a book] about " [/EN#229359/other Filosofie] " .
+[/EN#229362/other One lady balancing book] and [/EN#229367/vehicles shopping cart] .
+[/EN#229358/people Woman] reading [/EN#229360/other a book] with [/EN#229363/other a grocery tote] .
+[/EN#229358/people A woman] is reading [/EN#229360/other a book] on [/EN#229359/other philosophy] .

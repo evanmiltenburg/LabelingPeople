@@ -1,0 +1,5 @@
+[/EN#201333/people An elderly woman] in [/EN#201339/clothing a tan jacket] and [/EN#201340/clothing black pants] is sitting on [/EN#201334/other a stone ledge] looking off into [/EN#0/notvisual the distance] .
+[/EN#201333/people An elderly woman] is sitting down on [/EN#201334/other the stone steps] leading to [/EN#201336/other impressive stonework] .
+[/EN#201333/people An elderly person] sits alone on [/EN#201334/other the steps of some] of [/EN#201335/scene an area] in [/EN#201337/scene ruins] .
+[/EN#201333/people An elderly woman] sits on [/EN#201334/other the steps of a large monument] .
+[/EN#201333/people A older lady] is sitting on [/EN#201334/other some steps] .

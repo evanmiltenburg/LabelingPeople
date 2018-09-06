@@ -1,0 +1,5 @@
+[/EN#78875/people Two construction workers] , [/EN#78882/other one] holding [/EN#78878/other a yellow piece of metal] , and [/EN#78880/other the other] holds [/EN#78884/other tool] .
+[/EN#78876/people Two men] are wearing [/EN#78881/clothing hard hats] and [/EN#78879/clothing bright green vests] , and are working on [/EN#78878/other something] .
+[/EN#78880/people Two workers] in [/EN#78879/clothing high-visibility vests] speak to [/EN#0/notvisual each other] over [/EN#78877/other a metal beam] .
+[/EN#78876/people Two construction workers] are preparing [/EN#78877/other a part] .
+[/EN#78875/people Construction workers] working on [/EN#78877/other a part] .

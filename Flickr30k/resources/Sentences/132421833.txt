@@ -1,0 +1,5 @@
+[/EN#8612/people A bald man] in [/EN#8613/clothing an orange shirt] and [/EN#8614/clothing jeans] is vacuuming [/EN#8615/other an office carpet] with [/EN#8616/other a carry-along canister vacuum] .
+[/EN#8612/people A man] in [/EN#8613/clothing a yellow shirt] vacuums [/EN#8615/scene a floor] while looking at [/EN#0/notvisual the camera] .
+[/EN#8612/people One man] , cleaning [/EN#8621/scene a small office] with [/EN#8616/people a portable vacuum cleaner] .
+[/EN#8612/people The janitor] is vacuuming [/EN#8615/scene the floor] to make [/EN#0/notvisual it] ready for [/EN#8620/scene the day] .
+[/EN#8612/people A guy] vacuuming [/EN#8621/scene his room] .

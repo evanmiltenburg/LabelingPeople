@@ -1,0 +1,5 @@
+[/EN#23563/people A woman] wearing [/EN#23564/clothing a gray shirt] and [/EN#23565/clothing white shorts] is playing [/EN#23570/other golf] in [/EN#23571/scene a golf area] [/EN#0/notvisual that] is attractively landscaped with [/EN#23566/other flowers] .
+[/EN#23563/people A woman] wearing [/EN#23564/clothing a T-shirt] , [/EN#23565/clothing shorts] , and [/EN#23567/clothing sandals] , is [/EN#23575/other miniature] golfing in front of [/EN#23566/other flowers] and [/EN#23568/scene a walkway] .
+[/EN#23563/people The lady] is playing [/EN#23572/other miniature golf] with [/EN#23566/other beautiful flowers] in [/EN#0/notvisual the background] .
+[/EN#23563/people A woman] is about to putt [/EN#23569/other the golf ball] at [/EN#23573/other a mini-golf course] .
+[/EN#23563/people Girl] playing [/EN#23570/other mini golf] with [/EN#23566/other flowers] in [/EN#0/notvisual the background] .

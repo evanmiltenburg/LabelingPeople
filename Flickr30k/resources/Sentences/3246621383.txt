@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] are [/EN#104043/people several people] walking towards [/EN#104046/scene a house] with [/EN#104047/other a big tree] next to [/EN#0/notvisual it] out in [/EN#104048/scene a field] .
+[/EN#104043/people A group of people] are walking towards [/EN#104044/scene a building] on [/EN#104049/scene a foggy day] .
+[/EN#104043/people A group of people] are walking in [/EN#104045/other the fog] toward [/EN#104044/scene a creepy house] .
+[/EN#104043/people A small group of people] walk through [/EN#104045/other fog] towards [/EN#104046/scene a house] .
+[/EN#104043/people Several people] walking toward [/EN#104044/scene a building] in [/EN#104045/other the fog] .

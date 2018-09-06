@@ -1,0 +1,5 @@
+[/EN#99981/animals A brown dog] opens [/EN#99983/bodyparts his mouth] to catch [/EN#99982/other a piece of food] .
+[/EN#99981/animals A dog] is about to catch [/EN#99982/other a treat] in [/EN#99983/bodyparts his mouth] .
+[/EN#99981/animals A brown dog] is about to catch [/EN#99982/other a treat] .
+[/EN#99981/animals A dog] opens [/EN#99983/bodyparts its mouth] to catch [/EN#99982/other a treat]
+[/EN#99981/animals The dog] is catching [/EN#99982/other a treat] .

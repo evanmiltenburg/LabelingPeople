@@ -1,0 +1,5 @@
+[/EN#25206/people A middle-aged man] riding [/EN#25207/other his black motorcycle] through [/EN#25211/scene a neighborhood] .
+[/EN#25206/people A man] with [/EN#25209/clothing a black helmet] is sitting on [/EN#25207/other a black motorcycle] .
+[/EN#25206/people A bearded man] in [/EN#25212/clothing a white t-shirt] is riding [/EN#25207/other a motorcycle] .
+[/EN#25206/people A old man] riding [/EN#25207/other a motorcycle] on [/EN#25208/scene a beautiful day] .
+[/EN#25206/people A man] riding [/EN#25207/other a motorcycle] on [/EN#25210/scene a city street] .

@@ -1,0 +1,5 @@
+[/EN#214673/people A man] wearing [/EN#214676/clothing a hat] and [/EN#214682/clothing sunglasses] is playing [/EN#214675/instruments his guitar] near [/EN#214680/other his suitcases] , while [/EN#214678/people people] are walking by .
+[/EN#214673/people A street musician] playing [/EN#214675/instruments a white guitar] , with [/EN#214679/instruments a tambourine] and [/EN#214676/clothing hi hat] while [/EN#214678/people people] walk by .
+[/EN#214673/people A man] with [/EN#214675/instruments a guitar] and [/EN#214681/instruments other instruments] sits on [/EN#214674/other a chair] while [/EN#214678/people people] walk by [/EN#0/notvisual him] .
+[/EN#214673/people A man] is sitting in [/EN#214674/other a chair] in [/EN#214677/scene the street] playing [/EN#214675/instruments his guitar] .
+[/EN#214673/people A man] playing [/EN#214675/instruments guitar] on [/EN#214677/scene the street] .

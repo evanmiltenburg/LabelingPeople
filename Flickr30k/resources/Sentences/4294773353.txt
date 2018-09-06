@@ -1,0 +1,5 @@
+[/EN#161955/people An older man] with [/EN#161959/bodyparts blond-hair] and [/EN#161956/clothing a black fleece] is working on [/EN#161957/other a sculpture] .
+[/EN#161955/people Blond-haired man] wearing [/EN#161956/clothing a black fleece jacket] sculpting .
+[/EN#161955/people An elderly man] in [/EN#161956/clothing a black sweatshirt] doing [/EN#161957/other cement work] .
+[/EN#161955/people An artist] is working on [/EN#161957/other a sculpture] in [/EN#161960/scene a workshop] .
+[/EN#161955/people A woman] is examining [/EN#161957/other an object] .

@@ -1,0 +1,5 @@
+[/EN#86007/people A man] in [/EN#86008/clothing a uniform costume] stands next to [/EN#86007/people a man] in [/EN#86008/clothing a horro costume] .
+[/EN#86007/people Man] in [/EN#86008/clothing a police costume] next to [/EN#86009/people a man] in [/EN#86008/clothing a zombie costume] .
+[/EN#86009/people The bloodied man] is [/EN#86012/other a hit] at [/EN#86011/other the haloween party] .
+[/EN#86010/people people] are at [/EN#86011/other a costume party] .
+[/EN#86010/people People] at [/EN#86011/other a costume party] .

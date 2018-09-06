@@ -1,0 +1,5 @@
+[/EN#71223/people A girl] with [/EN#71227/instruments a guitar] and [/EN#71224/people a guy] with [/EN#71228/clothing an umbrella] sitting in front of [/EN#71225/scene a gate] on [/EN#71229/scene the sidewalk] .
+[/EN#71224/people A man] and [/EN#71223/people a woman] are sitting on [/EN#71226/scene the base of fence] having [/EN#71230/other a conversation] .
+[/EN#71223/people A woman] sitting with [/EN#71227/instruments a guitar] talking to [/EN#71224/people a man] sitting with [/EN#71228/clothing an umbrella] .
+[/EN#71224/people A man] and [/EN#71223/people a woman] are chatting while sitting next to [/EN#71225/scene a black gate] .
+[/EN#71224/people A man] and [/EN#71223/people a woman] sitting next to [/EN#71226/scene a black fence] talking .

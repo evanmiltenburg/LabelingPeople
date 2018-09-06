@@ -1,0 +1,5 @@
+[/EN#46966/vehicles A four wheel drive car] is driving through [/EN#46967/other the mud] .
+[/EN#46966/vehicles A monster truck] gets stuck in [/EN#46967/scene a muddy hole] .
+[/EN#46966/vehicles The truck] appears to be stuck in [/EN#46967/other the mud] .
+[/EN#46966/vehicles An ATV] attempts to get out of [/EN#46967/scene a ditch] .
+[/EN#46966/vehicles A truck] climbs [/EN#46967/scene a muddy hill] .

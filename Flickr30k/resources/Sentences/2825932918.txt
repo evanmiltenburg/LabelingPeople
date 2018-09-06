@@ -1,0 +1,5 @@
+[/EN#0/notvisual This] is [/EN#75061/scene a beach scene] consisting of [/EN#75053/people a child] by [/EN#75054/scene the shoreline] holding [/EN#75055/other a shovel] full of [/EN#75056/other sand] and looking out at [/EN#75057/people a group of people] in [/EN#75062/scene the water] .
+[/EN#75053/people A male child] in [/EN#75058/clothing a blue summer hat] shoveling at [/EN#75063/scene the beach] looks on at [/EN#75057/people a family] [/EN#0/notvisual that] plays in [/EN#75059/scene the ocean] .
+[/EN#75053/people A little boy] in [/EN#75058/clothing a blue hat] and [/EN#75060/clothing black bathing suit] is staring at [/EN#75059/scene the ocean] .
+[/EN#75053/people A child] wearing [/EN#75058/clothing a hat] is standing on [/EN#75063/scene a beach] looking out at [/EN#75059/scene the ocean] .
+[/EN#75053/people The little boy] in [/EN#75060/clothing black shorts] is on [/EN#75063/scene the shoreline] .

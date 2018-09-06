@@ -1,0 +1,5 @@
+[/EN#247583/people A very young boy] is sitting on [/EN#247584/vehicles his preschool type bicycle] under [/EN#247585/other an outdoor table] .
+[/EN#247583/people A boy] [/EN#0/notvisual who] is wearing [/EN#247586/clothing a white color shirt] and [/EN#247588/clothing denim trouser] is riding [/EN#247584/vehicles the bicycle] .
+[/EN#247583/people A little boy] rides [/EN#247584/vehicles his bike] among [/EN#247589/scene shadows] next to [/EN#247585/other a round metal table] .
+[/EN#247583/people A young boy] on [/EN#247584/vehicles his bike] rides past [/EN#247585/other a table] and looks around [/EN#0/notvisual him] .
+[/EN#247583/people A young boy] in [/EN#247586/clothing a white jacket] riding [/EN#247584/vehicles his bike] on [/EN#247587/scene the patio] .

@@ -1,0 +1,5 @@
+[/EN#156193/people Two women] with [/EN#156199/bodyparts dark hair] holding [/EN#156197/clothing umbrellas] are running while crossing [/EN#156195/scene the street] during [/EN#156196/other a storm] .
+[/EN#156193/people Two women] are crossing [/EN#156195/scene the street] with [/EN#156197/clothing umbrellas] while [/EN#0/notvisual it] is raining .
+[/EN#156193/people Two women] holding [/EN#156197/clothing umbrellas] running across [/EN#156195/scene a road] in [/EN#156196/other the rain] .
+[/EN#156193/people Two woman] with [/EN#156197/clothing umbrellas] run across [/EN#156195/scene the street] in [/EN#156194/other the rain] .
+[/EN#156193/people Two woman] caught in [/EN#156194/other a downpour] in [/EN#156198/scene the middle of the city] .

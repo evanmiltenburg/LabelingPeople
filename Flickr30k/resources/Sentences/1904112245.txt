@@ -1,0 +1,5 @@
+[/EN#22921/animals A gray colored dog] is licking [/EN#22922/other a fallen tree] in [/EN#22923/scene the forest] .
+[/EN#22921/animals A gray dog] explores [/EN#22922/other a fallen tree] in [/EN#22924/other the woods] .
+[/EN#22921/animals A medium sized dog] sniffing in [/EN#22923/scene a forest]
+[/EN#22921/animals A dog] standing on [/EN#22922/other a log] in [/EN#22923/scene a forest] .
+[/EN#22921/animals A dog] in [/EN#22923/scene the forest] .

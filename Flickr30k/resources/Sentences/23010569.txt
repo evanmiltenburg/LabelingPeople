@@ -1,0 +1,5 @@
+[/EN#40004/people A female tennis player] wearing [/EN#40005/clothing a pink top and gray and white] shorts swinging [/EN#40006/other her tennis racquet] .
+[/EN#40004/people Girl] in [/EN#40007/clothing a pink polo shirt] and [/EN#40008/clothing short gray shorts] playing [/EN#40010/other tennis] while [/EN#40009/people men] watch .
+[/EN#40004/people A blond girl] wearing [/EN#40007/clothing a pink t-shirt] and [/EN#40008/clothing gray shorts] is playing [/EN#40010/other tennis] .
+[/EN#40004/people A tennis player] raises [/EN#40006/other her racket] to hit [/EN#40012/other the ball] .
+[/EN#40004/people A woman] playing [/EN#40010/other tennis] at [/EN#40011/other a tennis game] .

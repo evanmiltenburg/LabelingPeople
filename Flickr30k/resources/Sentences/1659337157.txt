@@ -1,0 +1,5 @@
+On [/EN#18187/scene a beach] , [/EN#18185/people a woman] in [/EN#18188/clothing a red shirt] carries [/EN#18190/scene an orange plastic basin] on [/EN#18189/bodyparts her head] .
+[/EN#18185/people A woman] is wearing [/EN#18188/clothing a red shirt] while balancing [/EN#18186/other an orange container] on [/EN#18189/bodyparts her head] .
+In [/EN#18187/scene the beach] [/EN#18185/people a woman] is balancing [/EN#18186/animals a basket of shells] on [/EN#18189/bodyparts her head] .
+[/EN#18185/people A woman] is carrying [/EN#18186/other a basket] on [/EN#18189/bodyparts her head] away from [/EN#18187/scene the water] .
+[/EN#18185/people A woman] at [/EN#18187/scene the beach] carrying [/EN#18186/other a bucket] on [/EN#18189/bodyparts her head] .

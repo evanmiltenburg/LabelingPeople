@@ -1,0 +1,5 @@
+[/EN#53346/animals two skinny dogs] are running towards [/EN#53351/other camera] across [/EN#53349/scene a grassy field] .
+[/EN#53347/animals A white dog] and [/EN#53348/animals a brown dog] running across [/EN#53349/scene a grassy field] .
+[/EN#53348/animals A tan dog] and [/EN#53347/animals a cream colored dog] run through [/EN#53349/scene grasslands] .
+[/EN#53346/animals Two thin dogs] are running fast through [/EN#53350/scene tall dry grass] .
+[/EN#53346/animals Two dogs] bound across [/EN#53350/scene the grass] .

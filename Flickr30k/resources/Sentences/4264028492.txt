@@ -1,0 +1,5 @@
+[/EN#160775/people Fisherman] in [/EN#160776/vehicles/scene a blue boat] inspects [/EN#160777/scene the waters] [/EN#160778/other murky condition] .
+[/EN#160775/people A man] sits in [/EN#160776/vehicles/scene a big blue boat] , looking at [/EN#160777/scene dirty water] .
+[/EN#160775/people A man] with [/EN#160780/clothing a blue hat] is sitting in [/EN#160776/vehicles/scene a blue boat] .
+[/EN#160775/people a man] sits on [/EN#160776/vehicles/scene a boat] stuck in [/EN#160779/other the sand] .
+[/EN#160775/people A man] sits in [/EN#160776/vehicles/scene a dirty blue boat] .

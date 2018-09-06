@@ -1,0 +1,5 @@
+[/EN#154751/vehicles A large , yellow construction vehicle] is sitting atop [/EN#154754/scene a snowy landscape] .
+[/EN#154752/people Two men] are looking at [/EN#154753/other the front of a snow shoveling machine] .
+[/EN#154752/people Two men] are standing outside of [/EN#154753/other a yellow snow plow machine] .
+[/EN#154752/people Two men] look at [/EN#154753/other a piece of heavy machinery] in [/EN#154754/scene the snow] .
+[/EN#154752/people Two guys] in [/EN#154755/other the snow work] on [/EN#154751/vehicles a snowmobile] .

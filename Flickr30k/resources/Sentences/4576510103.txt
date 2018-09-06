@@ -1,0 +1,5 @@
+[/EN#180055/people A little girl] with [/EN#180067/other a kitten graphic] on [/EN#180066/clothing her shirt] is riding in [/EN#180057/animals the saddle of a brown horse] with [/EN#180056/bodyparts a black mane] next to [/EN#180059/scene a fence] outside in [/EN#180063/scene a green field] on [/EN#180061/scene a sunny day] .
+[/EN#180055/people one white little girl] , riding on [/EN#180057/clothing a brown and white saddle] [/EN#0/notvisual which] is on top of [/EN#180058/animals brown adult horse] with [/EN#180056/bodyparts black hair] , [/EN#180065/scene both outside] on [/EN#180061/scene a sunny day] .
+[/EN#180055/people A little girl] with [/EN#180064/clothing a pink headband] is riding [/EN#180058/animals a horse] past [/EN#180059/scene a fence] .
+[/EN#180055/people A little girl] is riding on [/EN#180058/animals a brown pony] at [/EN#180062/scene the farm] .
+[/EN#180055/people A young girl] rides [/EN#180058/animals a horse] underneath [/EN#180061/scene the blue sky] .

@@ -1,0 +1,5 @@
+[/EN#96997/animals A brown dog] in [/EN#97002/scene snow] is biting at [/EN#96998/other a piece of pink cloth] .
+[/EN#96997/animals The brown dog] is gnawing at [/EN#96998/other something] in [/EN#97002/scene the snow] .
+[/EN#96997/animals A dog] in [/EN#97002/scene the snow] ripping [/EN#97000/other an object] with [/EN#97001/bodyparts its teeth]
+[/EN#96997/animals A brown dog] bites [/EN#97000/clothing a purple] mitten in [/EN#97002/scene the snow] .
+[/EN#96997/animals A dog] on [/EN#97002/scene snow] has [/EN#96998/other something] in [/EN#97001/bodyparts its mouth] .

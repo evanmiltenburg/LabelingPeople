@@ -1,0 +1,5 @@
+[/EN#207187/people A male janitorial worker] , in [/EN#207189/clothing a bright orange jumpsuit] , and [/EN#207195/clothing rubber boots] , cleaning [/EN#207188/other graffiti] off [/EN#207190/other a wall] in [/EN#207194/scene a subway tunnel] .
+[/EN#207187/people A man] wearing [/EN#207189/clothing orange overalls] uses [/EN#207192/other a roller] to cover [/EN#207188/other graffiti] .
+[/EN#207187/people A cleaner worker] is cleaning [/EN#207190/vehicles/scene the walls of a subway] .
+[/EN#207187/people A man] in [/EN#207189/clothing orange overalls] is cleaning up [/EN#207188/other graffiti] .
+[/EN#207187/other Man painting] over [/EN#207188/other Graffiti] in [/EN#207193/other a station] .

@@ -1,0 +1,5 @@
+[/EN#38935/animals a large tan bulldog] walking along [/EN#38937/scene the rocky shore of a small stream] .
+[/EN#38935/animals A dog] with [/EN#38942/bodyparts a snub nose] smells for [/EN#38940/other something] on [/EN#38939/other a riverbank] .
+[/EN#38935/animals A dog] is walking through [/EN#38937/other some gravel] beside [/EN#38936/scene a river] .
+[/EN#38935/animals A large brown dog] is walking along side [/EN#38936/scene a river] .
+[/EN#38935/animals A brown dog] walks on [/EN#38937/other the rocks] near [/EN#38936/scene a river] .

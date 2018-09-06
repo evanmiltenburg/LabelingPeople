@@ -1,0 +1,5 @@
+[/EN#1378/people A girl] paddling down [/EN#1380/scene a large river] , as seen from behind [/EN#0/notvisual her] .
+[/EN#1378/people A woman] with [/EN#1381/other a paddle] sits in [/EN#1379/vehicles/scene a boat] on [/EN#1380/scene the water] .
+[/EN#1378/people A woman] paddles [/EN#1379/vehicles/scene a boat] down [/EN#1380/scene a river] .
+[/EN#1378/people A woman] kayaking down [/EN#1380/scene a river] .
+[/EN#1378/people A woman] with [/EN#1381/other a paddle] .

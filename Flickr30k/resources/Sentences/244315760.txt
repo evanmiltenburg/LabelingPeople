@@ -1,0 +1,5 @@
+[/EN#49805/animals Two poodles] in [/EN#49806/other the back of a convertible] with [/EN#49804/people a blond woman] in [/EN#49812/scene the driver 's seat] .
+[/EN#49804/people A woman] is driving [/EN#49807/vehicles her car] with [/EN#49805/animals two dogs] in [/EN#49811/other the backseat] .
+[/EN#49805/animals Two Poodles] ride in [/EN#49804/people the back of a woman] [/EN#49807/other 's convertible] .
+[/EN#49805/animals Two dogs] sit in [/EN#49806/vehicles the back of a car] .
+[/EN#49804/people A man] and [/EN#49805/animals two dogs] are in [/EN#49807/vehicles a car] .

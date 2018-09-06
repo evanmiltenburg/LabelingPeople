@@ -1,0 +1,5 @@
+[/EN#91724/people A woman] holding [/EN#91725/clothing a purse] waits as [/EN#91726/scene the passenger train passes] by .
+[/EN#91724/people A person] in [/EN#91729/clothing dark clothing] is standing in front of [/EN#91726/vehicles/scene a train] .
+[/EN#91724/people A lady] with [/EN#91725/clothing a handbag] is standing next to [/EN#91726/vehicles/scene a train] .
+[/EN#91724/people An individual] stands facing [/EN#91726/vehicles/scene a moving train]
+[/EN#91724/people A lady] waiting alone at [/EN#91730/other a subway stop] .

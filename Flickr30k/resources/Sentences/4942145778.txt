@@ -1,0 +1,5 @@
+[/EN#221340/people A girl] walking wearing [/EN#221341/clothing a black short-sleeved top] and [/EN#221344/clothing shorts] carrying [/EN#221343/clothing a purse] and smoking .
+[/EN#221340/people A woman] wearing [/EN#221344/clothing brown shorts] , [/EN#221341/clothing black tank top] , & [/EN#221343/clothing brown purse] is walking and smoking .
+[/EN#221340/people A young woman] in [/EN#221341/clothing a black shirt] is walking down [/EN#221345/scene the sidewalk] smoking .
+[/EN#221340/people A young blond lady] is having [/EN#221342/other a cigarette] while [/EN#0/notvisual she] walks .
+[/EN#221340/people lady] smoking [/EN#221342/other a cigarette] walking

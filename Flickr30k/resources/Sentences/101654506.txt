@@ -1,0 +1,5 @@
+[/EN#525/animals The white and brown dog] is running over [/EN#526/scene the surface of the snow] .
+[/EN#525/animals a white and brown dog] is running through [/EN#526/scene a snow covered field] .
+[/EN#525/animals A brown and white dog] is running through [/EN#526/scene the snow] .
+[/EN#525/animals A dog] running through [/EN#526/scene snow] .
+[/EN#525/animals A dog] is running in [/EN#526/scene the snow]

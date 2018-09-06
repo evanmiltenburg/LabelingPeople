@@ -1,0 +1,5 @@
+[/EN#228046/people A woman] , wearing [/EN#228049/clothing glasses] and [/EN#228050/clothing a black shirt] , is soldering [/EN#228047/other a small black piece] with [/EN#228051/clothing a green top] .
+[/EN#228046/people A woman] wearing [/EN#228049/clothing glasses] is sitting at [/EN#228048/other a table] soldering [/EN#228047/other an object] .
+[/EN#228046/people Woman] with [/EN#228054/bodyparts blond-hair] and [/EN#228049/clothing glasses] using [/EN#228053/other a soldering iron] .
+[/EN#228046/people A woman] working with [/EN#228047/other a computer part] on [/EN#228048/other a wooden table] .
+[/EN#228046/people A woman] is soldering [/EN#228047/other an electronic device] .

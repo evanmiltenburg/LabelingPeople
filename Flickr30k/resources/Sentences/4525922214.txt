@@ -1,0 +1,5 @@
+[/EN#175607/people A man] with [/EN#175612/clothing white tennis shoes] and [/EN#175609/clothing an orange jacket] , is sitting in [/EN#175608/other a lawn chair] .
+[/EN#175607/people A black man] is sitting in [/EN#175608/other his chair] staring off into [/EN#0/notvisual the distance] .
+[/EN#175607/people A large African American man] sitting on [/EN#175608/other a camping chair] .
+[/EN#175607/people a black man] in [/EN#175609/clothing orange jacket] is sitting on [/EN#175608/other a chair] .
+[/EN#175607/people Person] sitting in [/EN#175608/other a chair] staring off into [/EN#175611/scene space] .

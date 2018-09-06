@@ -1,0 +1,5 @@
+[/EN#214415/people A man] is walking on [/EN#214416/scene a paved surface] backdropped by [/EN#214417/other a large art mural] .
+[/EN#214415/people A man] walking in front of [/EN#214417/other a colorful mural] on [/EN#214416/scene a brick road] .
+[/EN#214415/people A man] is walking down [/EN#214416/scene the street] next to [/EN#214417/other a colorful wall] .
+[/EN#214415/people A man] walking in front of [/EN#214417/other a colorful wall mural] .
+[/EN#214415/people A man] is walking near [/EN#214417/other a very colorful wall] .

@@ -1,0 +1,5 @@
+[/EN#200499/people Black male] in [/EN#200503/clothing blue shirt] , driving [/EN#200500/vehicles a yellow and red street car] , with [/EN#200501/other a blue sign] reading " [/EN#200504/scene Main Street] Only " on [/EN#200505/scene the front] .
+[/EN#200498/people The elderly bus driver] opening [/EN#200502/other the door] for [/EN#200499/people a passenger] [/EN#0/notvisual who] needs to get off .
+[/EN#200498/people A driver] is operating [/EN#200500/vehicles a street car] .
+[/EN#200498/people A man] operating [/EN#200500/vehicles a trolley car] .
+[/EN#200499/people A man] drives [/EN#200500/vehicles a yellow vehicle] .

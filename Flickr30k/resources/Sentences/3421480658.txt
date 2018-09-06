@@ -1,0 +1,5 @@
+[/EN#116988/people A young girl] standing next to [/EN#116989/animals a yellow cat] on [/EN#116990/other a kitchen countertop] .
+[/EN#116988/people A girl] reaches up to kiss [/EN#116989/animals a cat] , [/EN#0/notvisual which] is sitting on [/EN#116990/other the counter] .
+[/EN#116988/people Little girl] in [/EN#116991/scene kitchen] , kissing [/EN#116989/animals a fluffy orange cat] .
+[/EN#116988/people A small child] kissing [/EN#116989/animals a cat] on [/EN#116990/other the kitchen counter] .
+[/EN#116988/people The little girl] is kissing [/EN#116989/animals the brown cat] .

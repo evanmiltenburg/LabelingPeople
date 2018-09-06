@@ -1,0 +1,5 @@
+[/EN#251060/people A man] in [/EN#251061/clothing a red plaid shirt] and [/EN#251062/clothing a red helmet] , rides [/EN#251064/other his skateboard] up [/EN#251063/scene a quarter-pipe ramp] in [/EN#251065/other an indoor skate-park] .
+[/EN#251060/people A man] in [/EN#251061/clothing a checkered shirt] with [/EN#251062/clothing a helmet] and [/EN#251069/other knee pads] is skateboarding up [/EN#251063/scene a ramp] in [/EN#251067/scene a yellow room] .
+[/EN#251060/people A guy] in [/EN#251061/clothing a plaid shirt] is skateboarding up [/EN#251063/scene a ramp] .
+[/EN#251060/people A man] riding [/EN#251064/other a skateboard] up [/EN#251063/scene an inclined ramp] .
+[/EN#251066/people A couple of young kids] skateboarding on [/EN#251063/scene ramps] .

@@ -1,0 +1,5 @@
+[/EN#247903/people A musical band] wearing [/EN#247911/clothing dark green jackets] and [/EN#247910/clothing black pants] are marching down [/EN#247906/scene a street] while playing [/EN#247907/instruments their instruments] .
+[/EN#247903/people A band] wearing [/EN#247912/clothing green] and playing [/EN#247907/instruments instruments] in [/EN#247904/people a parade] .
+[/EN#247908/other Band members march] in [/EN#247904/people a parade] on [/EN#247909/other a tree] lined [/EN#247906/scene street] .
+[/EN#247903/people A musical band] dressed in [/EN#247913/other green shirt march] outside .
+[/EN#247903/people A marching band] is playing in [/EN#247906/scene the street] .

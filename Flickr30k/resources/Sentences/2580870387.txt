@@ -1,0 +1,5 @@
+[/EN#59466/people A man] in [/EN#59470/clothing a gray t-shirt] and [/EN#59475/clothing jeans] smiles at [/EN#0/notvisual the camera] while sitting in [/EN#59467/people a crowd] at [/EN#59471/scene an outdoor event] .
+[/EN#59466/other A brown-haired mail] in [/EN#59470/clothing a gray shirt] poses for [/EN#59478/other a picture] while sitting in [/EN#59469/scene a park] .
+[/EN#59466/people A younger man] with [/EN#59474/clothing glasses] is sitting on [/EN#59473/scene a patch of grass] next to [/EN#59476/people other people] .
+[/EN#59466/people A man] at [/EN#59471/scene an outdoor event] smiles for [/EN#0/notvisual the camera] .
+[/EN#59466/people A man] looks [/EN#59477/other sits] on [/EN#59468/scene a field] among [/EN#59467/people other people] .

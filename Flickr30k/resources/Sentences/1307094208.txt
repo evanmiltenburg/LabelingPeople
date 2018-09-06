@@ -1,0 +1,5 @@
+[/EN#8200/people A person] wearing [/EN#8203/clothing a hat] and carrying [/EN#8196/other a knapsack] walks uphill on [/EN#8205/other a sand dune] under [/EN#8201/scene a dark , cloudy sky] and leaves [/EN#8206/other the only visible footprints] behind .
+[/EN#8200/people a man] with [/EN#8197/clothing a shoulder bag] walking in [/EN#8202/scene the desert] on [/EN#8205/other sand] with [/EN#8206/other footprints] behind [/EN#0/notvisual him] and [/EN#8201/scene the horizon] with [/EN#8204/other many stormy clouds] .
+[/EN#8200/people A man] walking in [/EN#8202/scene the desert] wearing [/EN#8203/clothing a hat] , [/EN#8198/clothing khaki shirt] and [/EN#8199/clothing shorts] and [/EN#8201/scene very dark sky] ahead of [/EN#0/notvisual him] .
+[/EN#8200/people One man] is walking across [/EN#8202/scene a desert right] into [/EN#8204/other an approaching storm] .
+[/EN#8200/people A man] wandering in [/EN#8202/scene the desert] as [/EN#8204/other the clouds] roll in .

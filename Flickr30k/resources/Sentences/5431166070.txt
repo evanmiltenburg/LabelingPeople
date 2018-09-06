@@ -1,0 +1,5 @@
+[/EN#236403/people A person] is standing in [/EN#236405/scene a green field] in front of [/EN#236407/other several colorful hot air balloons] .
+[/EN#236403/people A man] is in [/EN#236405/scene a large field] pulling on [/EN#236408/other a string] [/EN#0/notvisual that] is attached to [/EN#236404/other a hot air balloon] .
+[/EN#236403/people A man] is pulling [/EN#236406/other a string] [/EN#0/notvisual that] is connected to [/EN#236404/other a red hot air balloon] .
+[/EN#236404/other Hot air balloons] are deflating in [/EN#236405/scene a grassy field] .
+[/EN#236403/people man] holds [/EN#236406/other a line] as [/EN#236407/other hot air balloon] is inflated .

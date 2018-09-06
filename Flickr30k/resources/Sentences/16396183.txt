@@ -1,0 +1,5 @@
+[/EN#17964/people Two men] are standing [/EN#17975/scene outdoors] on [/EN#17974/scene a sunny day] holding [/EN#17965/other pieces of a new item] , [/EN#17965/other possibly a small grill] , while [/EN#17966/people one of the men] studies [/EN#17967/other the assembly instructions] .
+[/EN#17964/people Two men] , [/EN#17966/other one] in [/EN#17969/clothing a gray shirt] and [/EN#17970/other one] in [/EN#17971/clothing a black shirt] and [/EN#17972/clothing orange shorts] wearing [/EN#17973/clothing glasses] are reading [/EN#17967/other a piece of paper] .
+While [/EN#17975/scene outside] , [/EN#17964/people two men] are reading [/EN#17967/other instructions] on how to put [/EN#17965/other a cooking grill] together .
+[/EN#17964/people Two men] needed to read [/EN#0/notvisual the directions] while attempting to build [/EN#17965/other an object] .
+[/EN#17964/people Two men] are outside while assembling [/EN#17965/other a grill] .

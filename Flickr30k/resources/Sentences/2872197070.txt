@@ -1,0 +1,5 @@
+[/EN#78057/animals A white dog] is leaping into [/EN#78057/scene a swimming pool] .
+[/EN#78057/animals The white dog] jumps into [/EN#78057/scene the blue pool] .
+[/EN#78057/animals A white dog] jumps into [/EN#78057/scene a swimming pool] .
+[/EN#78057/animals a white dog] jumping into [/EN#78057/scene a pool] .
+[/EN#78057/animals A white dog] jumps into [/EN#78057/scene a pool] .

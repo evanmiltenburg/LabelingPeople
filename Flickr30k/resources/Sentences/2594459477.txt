@@ -1,0 +1,5 @@
+[/EN#60218/people A little girl] is walking in [/EN#60221/scene a puddle of rain water] in [/EN#60219/scene a hole] in [/EN#60220/scene the road] .
+[/EN#60218/people A little girl] stands in [/EN#60219/scene a puddle] on [/EN#60222/other the concrete] , shrowded in [/EN#60223/scene darkness] .
+[/EN#60218/people A little girl] stands in [/EN#60219/scene a puddle of water] in [/EN#60221/scene the middle of the street] .
+[/EN#60218/people A little girl] stands in [/EN#60221/scene a puddle outside] .
+[/EN#60218/people A little girl] in [/EN#60219/scene a rain puddle] .

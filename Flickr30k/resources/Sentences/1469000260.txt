@@ -1,0 +1,5 @@
+[/EN#14076/animals Brown dog] laying on [/EN#14077/other gravel] with [/EN#14078/scene grass] and [/EN#14081/other trees] in [/EN#0/notvisual background] .
+[/EN#14076/animals The large brown dog] is sitting on [/EN#14079/scene the path] next to [/EN#14080/other a tree] .
+[/EN#14076/animals A big tan dog] lays on [/EN#0/notvisual the ground] looking to [/EN#0/notvisual the side] .
+[/EN#14076/animals A large tan dog] sits on [/EN#14082/other the edge of the woods] .
+[/EN#14076/animals A large dog] sits in [/EN#14078/scene the grass] .

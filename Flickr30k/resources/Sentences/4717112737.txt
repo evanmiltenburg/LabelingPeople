@@ -1,0 +1,5 @@
+[/EN#194466/people A large crowd of people] are walking around [/EN#194465/people a woman] wearing [/EN#194468/clothing an orange wig] and [/EN#194467/clothing a long blue dress] .
+[/EN#194465/people A person] with [/EN#194468/clothing a bright orange wig] and [/EN#194467/clothing teal dress] stands in [/EN#194466/people a large crowd of people] .
+[/EN#194465/people A woman] with [/EN#194468/bodyparts bright orange hair] and [/EN#194467/clothing a blue-green dress] is walking on [/EN#194470/scene the pavement] .
+[/EN#194465/people A lady] with [/EN#194468/bodyparts bright orange hair] walking in [/EN#194466/people a crowd] .
+[/EN#0/notvisual There] are [/EN#194466/people lots of people] walking to go somewhere .

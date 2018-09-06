@@ -1,0 +1,5 @@
+[/EN#108345/people A woman] , curled up , sleeps in [/EN#108347/scene her seat] on [/EN#108346/vehicles/scene a bus] .
+[/EN#108345/people A woman] is asleep on [/EN#108348/other a chair] on [/EN#108346/vehicles/scene a bus] .
+[/EN#108345/people The girl] is sleeping in [/EN#108347/scene the seat] .
+[/EN#108345/people A young lady] , asleep on [/EN#108346/vehicles/scene a train] .
+[/EN#108345/people A girl] asleep in [/EN#108347/scene a bus seat]

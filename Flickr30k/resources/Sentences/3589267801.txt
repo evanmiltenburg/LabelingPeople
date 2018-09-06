@@ -1,0 +1,5 @@
+[/EN#129894/animals a brown dog] with [/EN#129895/clothing a brown collar] digging in [/EN#129896/other the sand]
+[/EN#129894/animals A brown dog] with [/EN#129895/clothing a brown collar] digs [/EN#129896/other sand] .
+[/EN#129894/animals A brown dog] is digging in [/EN#129896/scene the dirt] .
+[/EN#129894/animals A dog] is digging [/EN#129898/scene a hole] in [/EN#129896/scene the dirt]
+[/EN#129894/animals A brown dog] digs in [/EN#129896/other the sand] .

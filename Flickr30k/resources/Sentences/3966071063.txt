@@ -1,0 +1,5 @@
+[/EN#150001/people A policeman] is leaning in picked up [/EN#150008/scene front] to [/EN#150002/vehicles/scene all of the bus] as [/EN#0/notvisual he] looks at [/EN#150003/people an old lady passenger] getting off [/EN#0/notvisual he] makes [/EN#150007/other a fish face pout]
+[/EN#150001/people An african American police officer] and [/EN#150003/people woman] stand at [/EN#150004/vehicles/scene the front of a bus] .
+[/EN#150001/people Police officer] watching [/EN#150003/people woman] exit from [/EN#150002/vehicles/scene bus] .
+[/EN#150001/other Police officer whistles] while [/EN#0/notvisual he] works
+[/EN#150001/people A police officer] standing on [/EN#150005/vehicles/scene a train] .

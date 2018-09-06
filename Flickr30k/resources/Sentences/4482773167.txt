@@ -1,0 +1,5 @@
+[/EN#172047/people A man] holding [/EN#172050/other a screwdriver] and wearing [/EN#172052/clothing a t-shirt] and [/EN#172053/clothing baseball cap] sits on [/EN#0/notvisual the ground] with [/EN#172049/people a young boy] looking at [/EN#172048/other a outdoor grill] .
+[/EN#172047/people A man] and [/EN#172049/people boy] sitting cross-legged on [/EN#0/notvisual ground] inspecting [/EN#172048/other barbecue grill] .
+[/EN#172047/people A father] and [/EN#172051/other son repair] [/EN#172048/other a mildly broken grill] .
+[/EN#172047/people A man] and [/EN#172049/people young boy] pulling together [/EN#172048/other a grill] .
+[/EN#172047/people Father] and [/EN#172049/people son] looking at [/EN#172048/other a gas grill] .

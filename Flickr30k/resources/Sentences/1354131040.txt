@@ -1,0 +1,5 @@
+[/EN#9657/people A middle-aged gentleman] is sitting in [/EN#9658/scene a small booth] with [/EN#9659/people a table full of different types] and [/EN#9660/animals sizes of fish] .
+[/EN#9661/bodyparts A gut] wearing [/EN#9662/clothing a plaid shirt] with [/EN#9663/bodyparts a mustache] selling [/EN#9664/animals fish] at [/EN#9658/scene a market] .
+[/EN#9657/people Fisherman] with [/EN#9659/other his daily catch] on [/EN#9659/other display] , [/EN#9660/other his product] is fresh .
+[/EN#9657/people A man] displaying [/EN#9659/animals different varieties of fish] in [/EN#9658/scene an older building]
+[/EN#9657/people A man] with [/EN#9663/bodyparts a mustache] sells [/EN#9660/animals various types of whole fish] .

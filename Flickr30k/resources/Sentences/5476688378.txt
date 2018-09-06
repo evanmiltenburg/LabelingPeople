@@ -1,0 +1,5 @@
+[/EN#237197/people A man] in [/EN#237203/clothing white] with [/EN#237199/clothing a dirty apron] is using [/EN#237201/other a wooden paddle] to put [/EN#237200/other something] into [/EN#237198/other a brick oven] .
+[/EN#237197/people A man] in [/EN#237199/clothing a dirty apron] is checking on [/EN#237200/other something] in [/EN#237206/other his wood] fired [/EN#237198/other oven] .
+[/EN#237197/people A chef] in [/EN#237203/clothing white clothes] is putting [/EN#237200/other something] into [/EN#237198/other a brick oven] .
+[/EN#237197/people A guy] in [/EN#237199/clothing a white apron] is cooking [/EN#237202/other a pizza] in [/EN#237198/other a stone oven] .
+[/EN#237205/people four friends] cheerfully jumping off [/EN#237207/other the flight stairs] .

@@ -1,0 +1,5 @@
+[/EN#132248/people A girl] with [/EN#132253/clothing a hat] is sitting outside on [/EN#132249/other a table] with [/EN#132250/vehicles a bike] leaning against [/EN#132249/other the table] .
+[/EN#132248/people A girl] has rested [/EN#132250/vehicles her bike] by [/EN#132249/other a bench] so that [/EN#0/notvisual she] can eat and ice [/EN#132252/other cream] .
+[/EN#132248/people A girl] is sitting on [/EN#132249/other a bench] eating [/EN#132252/other ice cream] with [/EN#132250/vehicles a bike] next to [/EN#0/notvisual her] .
+[/EN#132248/people A young girl] sits on [/EN#132249/other a metal bench] with [/EN#132250/vehicles her bike] eating [/EN#132252/other ice cream] .
+[/EN#132248/people A little girl] eats [/EN#132252/other ice cream] near [/EN#132250/vehicles her bike] .

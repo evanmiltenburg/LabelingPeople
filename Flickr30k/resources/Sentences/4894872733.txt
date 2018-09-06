@@ -1,0 +1,5 @@
+[/EN#215904/people A man] wearing [/EN#215911/clothing a baseball hat] is reading [/EN#215905/other a book] while sitting beside [/EN#215907/scene a hotdog stand] near [/EN#215906/scene a construction zone] .
+[/EN#215904/people A man] sits outside [/EN#215907/scene his hotdog booth] next to [/EN#215906/scene a construction site] while reading [/EN#215905/other a book] .
+[/EN#215904/people A street vendor] is sitting in front of [/EN#215907/vehicles his hotdog cart] .
+[/EN#215904/people A man] in [/EN#215909/other blue browses] [/EN#215905/other a book] as [/EN#0/notvisual he] works [/EN#0/notvisual his] stand .
+[/EN#215910/other street construction] happening near [/EN#215907/scene a hotdog stand] .

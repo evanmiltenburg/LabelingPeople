@@ -1,0 +1,5 @@
+[/EN#250835/people A man] dressed in [/EN#250841/other a long-sleeved , button] up [/EN#250837/clothing blue shirt] , and [/EN#250836/clothing a black and silver baseball cap] is holding [/EN#250838/other a phone] to [/EN#250842/bodyparts his ear] .
+[/EN#250835/people A man] wearing [/EN#250837/clothing a blue shirt] and [/EN#250836/clothing a black cap] is on [/EN#250838/other the phone] while leaning on [/EN#250843/bodyparts his left elbow] , [/EN#250844/scene his shop] is in [/EN#0/notvisual the background] .
+[/EN#250835/people A man] named [/EN#250835/other Josh] answers [/EN#250838/other the phone] wearing [/EN#250836/clothing a baseball cap] and [/EN#250837/other a blue button] down [/EN#250837/clothing shirt] .
+[/EN#250835/people A man] in [/EN#250837/clothing a blue shirt] and [/EN#250836/clothing baseball cap] is on [/EN#250838/other the telephone] .
+[/EN#250835/people A mechanic] is on [/EN#250838/other the phone] .

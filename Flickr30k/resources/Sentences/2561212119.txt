@@ -1,0 +1,5 @@
+[/EN#58134/animals a black dog] wearing [/EN#58135/clothing a red collar] is standing in [/EN#58136/scene a stream] with [/EN#58140/bodyparts its tongue] out .
+[/EN#58134/animals A black dog] with [/EN#58135/clothing a red collar] stands outside with [/EN#58139/bodyparts his paws] in [/EN#58136/scene water] .
+[/EN#58134/animals/scene A wet black lab] with [/EN#58135/clothing a red collar] is standing in [/EN#58137/scene the water] .
+[/EN#58134/animals A black dog] standing in [/EN#58137/scene the water] .
+[/EN#58134/animals Black dog] stands in [/EN#58136/scene river] .

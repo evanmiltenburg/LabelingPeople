@@ -1,0 +1,5 @@
+[/EN#186875/people A man] and [/EN#186876/people woman] are standing in [/EN#186877/scene a kitchen] , [/EN#186875/people the man] is mixing [/EN#186881/other something] in [/EN#186879/other a yellow bowl] while looking back at [/EN#186876/people the woman] behind [/EN#0/notvisual him] [/EN#0/notvisual who] is looking directly at [/EN#0/notvisual the camera] .
+[/EN#186875/people A man] is looking at [/EN#0/notvisual what] seems to be [/EN#186876/people a cardboard cutout of a woman] in [/EN#186877/scene a kitchen] .
+[/EN#186875/people A man] is looking at [/EN#186876/people a woman] with [/EN#186882/bodyparts black hair] in [/EN#186877/scene a kitchen] .
+[/EN#186875/people A man] and [/EN#186876/people a woman] standing in [/EN#186877/scene a kitchen] mixing up [/EN#186880/other food] .
+[/EN#186875/people A man] distracted by [/EN#186876/people a pretty woman] .

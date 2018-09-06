@@ -1,0 +1,5 @@
+[/EN#178300/people A group of people] are waiting in [/EN#178301/other a line] outside of [/EN#178303/scene a building] .
+[/EN#178300/people People] wait in [/EN#178301/other line] for [/EN#178305/other a show] in [/EN#178306/scene the evening] .
+[/EN#178301/other A line] waits [/EN#178302/scene outside of a theater or venue] .
+[/EN#178301/other a line] waiting to get into [/EN#178304/other a movie]
+[/EN#178300/people people] stand outside [/EN#178303/scene a building] .

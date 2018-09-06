@@ -1,0 +1,5 @@
+[/EN#117633/people This man] with [/EN#117634/clothing a blue shirt] is sanding [/EN#117637/other a piece of wood] for [/EN#117635/vehicles/scene a boat] that [/EN#0/notvisual he] is putting together .
+[/EN#117633/people A man] in [/EN#117634/clothing a blue shirt] is building [/EN#117635/vehicles/scene a boat] out of [/EN#117639/other wood] in [/EN#117636/scene a cramped work space] .
+[/EN#117633/people A man] in [/EN#117634/clothing a blue shirt] works next to [/EN#117635/vehicles/scene the hull of a wooden boat] .
+[/EN#117633/people A man] in [/EN#117634/clothing a blue shirt] working on [/EN#117635/vehicles/scene a boat] .
+[/EN#117633/people A woodworker] constructing [/EN#117635/vehicles/scene a boat] .

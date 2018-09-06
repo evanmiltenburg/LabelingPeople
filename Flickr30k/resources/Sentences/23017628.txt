@@ -1,0 +1,5 @@
+[/EN#40130/people A female tennis player] is about to hit [/EN#40131/other the tennis ball] with [/EN#40133/other her racket] .
+[/EN#40130/people A Caucasian woman] in [/EN#40134/clothing a white tennis dress] hits [/EN#40131/other a tennis ball] .
+[/EN#40130/people A tennis player] dressed in [/EN#40134/clothing white] is hitting [/EN#40131/other a tennis ball] .
+[/EN#40130/people A woman] in [/EN#40134/clothing a white tennis outfit] playing [/EN#40132/other tennis] .
+[/EN#40130/people This woman] is playing [/EN#40135/other tennis] .

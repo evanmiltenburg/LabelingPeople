@@ -1,0 +1,5 @@
+[/EN#235057/people Three men] in [/EN#235061/clothing hats] are riding [/EN#235062/animals horses] in [/EN#235060/scene an arena] in front of [/EN#235058/people a crowd of people] .
+[/EN#235057/people A group of men] are wearing [/EN#235061/clothing hats] while riding [/EN#235064/animals a horse] in front of [/EN#235058/people spectators] .
+[/EN#235057/people Three guys] on [/EN#235062/animals horses] are entertaining [/EN#235058/people the crowd] as [/EN#0/notvisual they] do [/EN#235059/other their show] .
+[/EN#235057/people Three men] on [/EN#235062/animals horses] chasing [/EN#235063/animals a bull] in [/EN#235060/scene an arena] .
+[/EN#235057/people Riders] at [/EN#235059/other a horse show] get into [/EN#235065/scene position] .

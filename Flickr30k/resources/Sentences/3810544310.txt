@@ -1,0 +1,5 @@
+[/EN#143535/people A little girl] in [/EN#143544/clothing glasses] and [/EN#143536/people little boy] wearing [/EN#143537/clothing a blue shirt] are standing at [/EN#143543/other a sink] while [/EN#143535/people the little girl] is helping [/EN#143536/people the little boy] put [/EN#143541/other soap] on [/EN#143540/bodyparts his hands] to wash [/EN#0/notvisual them] .
+[/EN#143535/people The little girl] is helping [/EN#143536/people her little brother] get [/EN#143541/other soap] out of [/EN#143538/other the dispenser] .
+[/EN#143535/people A young girl] helps [/EN#143536/people a little boy] get [/EN#143541/other soap] for [/EN#143540/bodyparts his hands] .
+[/EN#143536/people A kid] with [/EN#143537/clothing a blue shirt] squeezing [/EN#143541/other soap] into [/EN#143540/bodyparts his hand] .
+[/EN#143535/people Two children] dispensing [/EN#143541/other soap] from [/EN#143538/other a bottle] .

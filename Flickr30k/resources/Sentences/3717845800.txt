@@ -1,0 +1,5 @@
+[/EN#139220/people Three members of the red team] are in [/EN#139219/scene the grass] with [/EN#139217/people a member of the yellow team] .
+[/EN#139216/people The rugby players] in [/EN#139222/clothing red] are wrestling [/EN#139217/people the player] in [/EN#140000/clothing yellow] to [/EN#0/notvisual the ground] .
+[/EN#139216/people Members of two soccer teams] struggle on [/EN#139219/scene the field] to get [/EN#139218/other the ball] .
+[/EN#139216/people Four rugby players] on [/EN#0/notvisual the ground] with [/EN#139221/other two] standing behind [/EN#0/notvisual them] .
+[/EN#139216/people Soccer players] on [/EN#0/notvisual the ground] fighting for [/EN#139218/other the ball] .

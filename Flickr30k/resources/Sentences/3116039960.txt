@@ -1,0 +1,5 @@
+[/EN#94667/people An Asian boy] in [/EN#94668/clothing a red shirt] holds onto [/EN#94669/other an aqua balloon] .
+[/EN#94667/people A girl] in [/EN#94668/clothing red shirt] holds [/EN#94669/other a green balloon] in [/EN#94671/people a crowd] .
+[/EN#94670/people The girl] is holding [/EN#94669/other a blue balloon] on [/EN#94672/scene a busy street] .
+[/EN#94670/people A girl] holds [/EN#94669/other a blue balloon] as [/EN#0/notvisual she] walks .
+[/EN#94670/people a Japanese girl] carries [/EN#94669/other a green balloon] .

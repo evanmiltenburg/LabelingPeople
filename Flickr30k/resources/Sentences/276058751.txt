@@ -1,0 +1,5 @@
+[/EN#71143/people A man] [/EN#0/notvisual who] looks like [/EN#0/notvisual he] is adjusting [/EN#71148/other something] on [/EN#71154/bodyparts his face] and [/EN#71144/bodyparts ears] at [/EN#71150/scene a train station] .
+[/EN#71143/people A man] with [/EN#71145/clothing gray gloves] holds [/EN#71146/bodyparts his hands] to [/EN#71144/bodyparts his ears] on [/EN#71151/other a stairwell] .
+[/EN#71143/people A man] has stopped to collect [/EN#71149/other his thoughts] in [/EN#71151/other the metro stairwell] .
+[/EN#71143/people A man] standing in [/EN#71151/other a stairwell] with [/EN#71155/other a green strip] on [/EN#71152/other the wall] .
+[/EN#71143/people A man] with [/EN#71147/other his back] turned standing on [/EN#71151/other some stairs] .

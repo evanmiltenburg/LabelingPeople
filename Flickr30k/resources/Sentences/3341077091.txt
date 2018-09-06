@@ -1,0 +1,5 @@
+[/EN#110925/people A boy] is airborne on [/EN#110932/other his skateboard] above [/EN#110931/other a set of rails] in [/EN#110930/scene an industrial setting] .
+[/EN#110925/people A boy] with [/EN#110927/other a skateboard] if jumping in [/EN#0/notvisual the air] along [/EN#110929/scene some railway tracks] .
+[/EN#110925/people A skateboarder] does [/EN#110928/other a kickflip] along [/EN#110929/scene the train tracks] .
+[/EN#110925/people A man] doing [/EN#0/notvisual a skateboard trick] over [/EN#110929/scene a railroad track] .
+[/EN#110925/people A skateboarder] doing [/EN#0/notvisual a jump] on [/EN#110929/scene train tracks] .

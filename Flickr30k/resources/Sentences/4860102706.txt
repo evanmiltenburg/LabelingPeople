@@ -1,0 +1,5 @@
+[/EN#212111/people Two young girls] are walking down [/EN#212113/scene a walkway] , and [/EN#212114/other one] is holding [/EN#212112/clothing an umbrella] .
+[/EN#212111/people Two girls] are walking down [/EN#212113/scene the street] , [/EN#0/notvisual one of them] has [/EN#212112/clothing an umbrella] .
+[/EN#212111/people Two women] walk down [/EN#212113/scene the street] , [/EN#212114/other one] carrying [/EN#212112/clothing a white umbrella] .
+[/EN#212111/people Two young girls] walk down [/EN#212113/scene a walkway] with [/EN#212112/clothing an umbrella] .
+[/EN#212111/people Two Asian young women] walk through [/EN#212115/scene strip mall] .

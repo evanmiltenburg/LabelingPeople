@@ -1,0 +1,5 @@
+[/EN#105477/animals A dirty dog] is running down [/EN#105478/scene a vacant road] .
+[/EN#105477/animals A yellow dog] runs down [/EN#105478/scene a dirt path] .
+[/EN#105477/animals A dog] running down [/EN#105478/scene a paved road] .
+[/EN#105477/animals A dog] is running on [/EN#105478/other a pathway] .
+[/EN#105477/animals Blond dog] running down [/EN#105478/scene road]

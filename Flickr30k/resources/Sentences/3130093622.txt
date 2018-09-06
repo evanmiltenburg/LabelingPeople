@@ -1,0 +1,5 @@
+[/EN#95550/clothing Black] and [/EN#95547/animals tan dog] with [/EN#95548/other object] in [/EN#95551/bodyparts mouth] in [/EN#95549/scene the snow] .
+[/EN#95547/animals A black and brown dog] jumps through [/EN#95549/scene the snow] .
+[/EN#95547/animals A dog] running with [/EN#95548/other a stick] in [/EN#95549/scene the snow] .
+[/EN#95547/animals/people A German Shepherd] plays in [/EN#95549/scene the snow] .
+[/EN#95547/animals A dog] is running through [/EN#95549/scene the snow] .

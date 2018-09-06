@@ -1,0 +1,5 @@
+[/EN#175577/people A group of older men] sit at [/EN#175578/other a wooden table] on [/EN#175579/scene the sidewalk of a public street] .
+[/EN#175577/people Several men] sit at [/EN#175578/other a wooden table] on [/EN#175579/scene the right side of the street] .
+[/EN#175577/people Four people] are sitting at [/EN#175578/other a table] on [/EN#175579/scene the side of a street] .
+[/EN#175577/people A group of men] sit at [/EN#175578/other a roadside table] .
+[/EN#175577/people Old men] sit at [/EN#175578/other a table] on [/EN#175580/scene the sidewalk] .

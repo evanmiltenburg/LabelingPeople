@@ -1,0 +1,5 @@
+[/EN#12833/people A man] with [/EN#12840/bodyparts dark brown hair] wearing [/EN#12834/clothing a gray shirt] is making [/EN#12841/other something] in [/EN#12842/scene the kitchen] with [/EN#12836/other a plate of lemons] next to [/EN#0/notvisual him] .
+[/EN#12833/people A man] in [/EN#12834/clothing a gray T-shirt] is zesting [/EN#12836/other lemons] into [/EN#12839/other a turquoise-and-olive-green bowl] .
+[/EN#12833/people A man] in [/EN#12834/clothing a gray shirt] with [/EN#12837/bodyparts a beard] prepares [/EN#12838/other a recipe] .
+[/EN#12833/people A man] staring into [/EN#0/notvisual the camera] as [/EN#0/notvisual he] cuts [/EN#12836/other lemons] .
+[/EN#12833/people A man] wearing [/EN#12834/clothing a gray shirt] grating [/EN#12835/other lemon rinds] .

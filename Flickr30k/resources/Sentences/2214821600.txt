@@ -1,0 +1,5 @@
+[/EN#34620/people A person] walking with [/EN#34622/clothing a black umbrella] walking in front of [/EN#34625/scene an iron fence] .
+[/EN#34620/people A person] with [/EN#34622/clothing an umbrella] walking on [/EN#34623/scene the street] next to [/EN#34621/other a gagnant sign] .
+[/EN#34620/people A woman] carrying [/EN#34624/clothing a black purse] is walking past [/EN#34621/other a green gagnant sign] .
+[/EN#34620/people A woman] with [/EN#34622/clothing an umbrella] following [/EN#34626/vehicles a car] on [/EN#34621/other a billboard] .
+[/EN#34620/people A woman] is walking down [/EN#34623/scene the street] with [/EN#34622/clothing an umbrella] .

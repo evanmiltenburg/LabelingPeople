@@ -1,0 +1,5 @@
+[/EN#70218/people A woman] helping [/EN#70219/people a small child] wearing [/EN#70221/clothing a bright colored diaper] out of [/EN#70220/scene a pool] .
+[/EN#70218/people A woman] helping [/EN#70219/people a child] out of [/EN#70220/scene the swimming pool] .
+[/EN#70218/people Woman] helping [/EN#70219/people a young boy] get out of [/EN#70220/scene the pool] .
+[/EN#70218/people A mother] helping [/EN#70219/people a child] get out of [/EN#70220/scene the pool] .
+[/EN#70219/people A toddler] being helped out of [/EN#70220/scene a pool] .

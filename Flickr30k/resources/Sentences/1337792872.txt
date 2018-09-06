@@ -1,0 +1,5 @@
+[/EN#9118/people A young girl] wearing [/EN#9119/clothing a blue dress] runs down [/EN#9120/scene a gravel road] with [/EN#9121/animals a teddy bear] .
+[/EN#9118/people The little girl] is wearing [/EN#9119/clothing a denim dress] and holding [/EN#9121/animals a brown teddy bear] .
+[/EN#9118/people A little girl] holding on to [/EN#9122/other a toy] is running down [/EN#9120/other a lane] .
+[/EN#9118/people A girls] walks down [/EN#9120/scene the road] holding [/EN#9121/animals a teddy bear] .
+[/EN#9118/people A little girl] in [/EN#9119/clothing a denim dress] runs down [/EN#9120/scene a path] .

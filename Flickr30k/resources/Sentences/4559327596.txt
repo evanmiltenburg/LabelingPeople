@@ -1,0 +1,5 @@
+[/EN#178495/people A group of people] sitting or standing around [/EN#178500/other a park bench] in front of [/EN#178496/scene a brick building] .
+[/EN#178497/people A man] is playing [/EN#178505/instruments a guitar] for [/EN#178495/people some people] in front of [/EN#178496/scene a brick building] .
+[/EN#178498/people Student] spend [/EN#178503/scene their breaks] outside enjoying [/EN#178495/other each others company] .
+[/EN#178495/people A group of people] sit on [/EN#178501/other benches] at [/EN#178499/scene a park] outside [/EN#178496/scene a building] .
+[/EN#178495/people A group of young people] sits under [/EN#178504/other trees] .

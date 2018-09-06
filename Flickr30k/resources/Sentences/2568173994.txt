@@ -1,0 +1,5 @@
+[/EN#58597/people Passengers] are standing and sitting aboard [/EN#58598/vehicles some form of public transportation] , resembling [/EN#58598/vehicles/scene the subway] .
+[/EN#58600/people A woman] wearing [/EN#58602/clothing a yellow and white outfit] is exiting [/EN#58598/vehicles the vehicle] while using [/EN#58598/vehicles city transportation] .
+[/EN#58597/people Several people] are sitting or standing in [/EN#58598/vehicles a public transportation vehicle]
+[/EN#58597/people People] sitting or standing on [/EN#58598/vehicles/scene a bus] .
+[/EN#58597/people Some people] in [/EN#58598/vehicles/scene a subway train] .

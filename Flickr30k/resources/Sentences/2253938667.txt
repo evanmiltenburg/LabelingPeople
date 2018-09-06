@@ -1,0 +1,5 @@
+[/EN#37110/people A man] reads [/EN#37118/other an advertisement] at [/EN#37111/other a bus stop] , while [/EN#37110/people another man] sits on [/EN#37117/other a bench] .
+[/EN#37116/people Two men] , [/EN#37120/other one] in [/EN#37114/clothing a suit] and [/EN#37121/other the other] in [/EN#37119/clothing jeans] , are waiting for [/EN#37122/vehicles/scene the bus] .
+[/EN#37110/people A man] in [/EN#37115/clothing a white shirt] and [/EN#37113/clothing black pants] is sitting at [/EN#37111/other a bus stop] .
+Balding [/EN#37110/people man] in [/EN#37115/clothing white shirt] sitting in [/EN#37111/other bus stop] .
+[/EN#37110/people An old man] sits at [/EN#37111/other a bus stop] .

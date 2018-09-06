@@ -1,0 +1,5 @@
+[/EN#85878/people A female] and [/EN#85882/people two male musicians] play [/EN#85881/instruments instruments] on [/EN#85887/scene a stage] containing [/EN#85880/instruments additional instruments] .
+[/EN#85879/people These three people] are playing [/EN#85881/instruments instruments] while sitting in front of [/EN#85885/other sheet music] stands .
+[/EN#0/notvisual There] is [/EN#85878/people a woman] playing [/EN#85883/instruments an instrument] with [/EN#85882/people 2 men] playing [/EN#85881/instruments instruments] as well .
+[/EN#85879/people Three musicians] practicing with [/EN#85880/instruments their musical instruments] for [/EN#85886/other tonight 's show] .
+[/EN#85879/people Three musicians] are seated on [/EN#85884/other chairs] , playing [/EN#85881/instruments their respective instruments] .

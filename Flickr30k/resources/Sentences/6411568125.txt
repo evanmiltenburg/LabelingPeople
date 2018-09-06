@@ -1,0 +1,5 @@
+[/EN#254010/scene Little chinese food stand] on [/EN#254014/scene a dark street] , with [/EN#0/notvisual what] looks like [/EN#254012/people potential customer] .
+[/EN#254010/vehicles Street view of an Asian food cart] at [/EN#254017/scene night] with [/EN#254012/people a customer] waiting for [/EN#254016/other his dinner] .
+[/EN#254010/scene A late night food stand] takes [/EN#254013/other the customers order] .
+well [/EN#0/notvisual it] is [/EN#254011/scene a boring night] out on [/EN#254015/other the town tonight] .
+[/EN#254010/scene Oriental shop] opened late at [/EN#254011/scene night] .

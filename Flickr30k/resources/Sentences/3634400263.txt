@@ -1,0 +1,5 @@
+[/EN#132928/people A man] performs [/EN#0/notvisual a trick] on [/EN#132935/vehicles a yellow bike] in [/EN#132930/scene a skate park] covered in [/EN#132930/other graffiti] .
+[/EN#132928/people a lone bicyclist] wearing [/EN#132936/clothing a helmet] jumping [/EN#132930/scene a graffitied concrete ramp] .
+[/EN#132928/people The bicyclist] has [/EN#132932/other both wheels] off [/EN#0/notvisual the ground] .
+[/EN#132928/people A trials biker] doing [/EN#0/notvisual a trick] in [/EN#0/notvisual the air] .
+[/EN#132928/people A bicyclist] doing [/EN#0/notvisual a jump] .

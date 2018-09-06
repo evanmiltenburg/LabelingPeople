@@ -1,0 +1,5 @@
+[/EN#112774/people A woman] at [/EN#112782/other the checkout aisle] at [/EN#112776/other Walmart] with [/EN#112778/vehicles a cart] full of [/EN#112775/animals Tidy Cats brand cat] litter .
+[/EN#112774/people Woman] in [/EN#112777/scene grocery store] purchasing [/EN#112781/other large amounts of kitty litter and other canned goods] .
+[/EN#112774/people A woman] in [/EN#112777/scene a mass retailer store] is buying [/EN#112778/vehicles a cart] full of [/EN#112783/clothing large yellow dog food bags] .
+[/EN#112774/people A woman] buys [/EN#112775/animals a large amount of cat] litter from [/EN#112777/scene a Walmart store] .
+[/EN#112774/people A shopper] buys [/EN#112780/other cat food] at [/EN#112776/other a Walmart]

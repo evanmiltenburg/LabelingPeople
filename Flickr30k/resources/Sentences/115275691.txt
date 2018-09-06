@@ -1,0 +1,5 @@
+[/EN#3997/people An elderly man] holding [/EN#3998/other a pitchfork] and doing [/EN#4002/other some yard work] .
+[/EN#3997/people A man] doing clean up [/EN#4000/other work of brush] around [/EN#4003/scene a public area] .
+[/EN#3997/people a groundskeeper] has collected [/EN#4001/other a bucket] full of [/EN#3999/other sticks] .
+[/EN#3997/people A worker] with [/EN#3998/other a pitchfork] is standing outside .
+[/EN#3997/people A man] in [/EN#4004/clothing a blue jacket] is holding [/EN#3998/other a rake] .

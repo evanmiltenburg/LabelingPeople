@@ -1,0 +1,5 @@
+[/EN#113065/people A girl] in [/EN#113067/clothing a khaki jacket] sitting next to [/EN#113066/people a girl] in [/EN#113069/clothing an orange jacket] on [/EN#113062/other a ski-lift] , [/EN#0/notvisual both] are smiling .
+[/EN#113061/people Two women] , in [/EN#113073/clothing winter jackets] and [/EN#113072/clothing snow pants] , riding on [/EN#113062/scene a chair lift] through [/EN#113064/scene snow covered mountains] .
+[/EN#113061/people Two female snowboarders] , [/EN#0/notvisual both] wearing [/EN#113071/clothing glasses] , [/EN#113070/other board] ride [/EN#113062/scene the ski lift] up [/EN#113068/scene a mountain] .
+[/EN#113061/people Two women] sitting on [/EN#113062/scene a ski lift] , with [/EN#113064/scene mountains] in [/EN#0/notvisual the background] .
+[/EN#113061/people Two woman] are smiling for [/EN#0/notvisual the camera] on [/EN#113062/other a ski-lift] .

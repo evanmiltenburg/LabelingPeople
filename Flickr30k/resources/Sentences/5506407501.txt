@@ -1,0 +1,5 @@
+[/EN#237870/people A smiling elderly Asian man] irons [/EN#237871/clothing a white shirt] inside [/EN#237875/scene a tailoring shop] with [/EN#237874/other sunlight] streaming into [/EN#237875/scene the room] through [/EN#237873/other the window] .
+[/EN#0/notvisual There] is [/EN#237870/people an older man] , ironing [/EN#237871/clothing a shirt] for [/EN#237872/other his work] .
+[/EN#237870/people An old Asian man] happily irons [/EN#237871/clothing a white shirt] .
+[/EN#237870/people A older Asian man] ironing [/EN#237871/clothing a white shirt] .
+[/EN#237870/people Very old man] hard at [/EN#237872/other work] .

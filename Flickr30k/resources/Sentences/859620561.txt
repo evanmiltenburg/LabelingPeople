@@ -1,0 +1,5 @@
+[/EN#281789/animals A dog] leaps high in [/EN#0/notvisual the air] to catch [/EN#281790/other a toy] over [/EN#281791/scene the green grass] .
+[/EN#281789/animals Black dog] with [/EN#281794/clothing collar] jumping up with [/EN#281793/other a stick] in [/EN#281795/bodyparts his mouth]
+[/EN#281789/animals A dog] is jumping in [/EN#0/notvisual the air] to catch [/EN#281790/other an item] .
+[/EN#281789/animals A brown dog] catching [/EN#281790/other a Frisbee] in [/EN#0/notvisual the air] .
+[/EN#281789/animals Black dog] catching [/EN#281790/other Frisbee] at [/EN#281791/scene the park] .

@@ -1,0 +1,5 @@
+[/EN#92379/animals A brown dog] is jumping on top of [/EN#92380/animals a smaller white dog] and [/EN#0/notvisual there] is [/EN#92382/other a colorful ball] on [/EN#92383/scene the floor] .
+[/EN#92381/clothing A large brown] and [/EN#92380/animals a small white dog] play [/EN#92385/other indoors] on [/EN#92383/other a carpet] .
+[/EN#92379/animals A big brown dog] plays with [/EN#92380/animals a small white dog] near [/EN#92382/other a ball] .
+[/EN#92379/animals The fat brown dog] is standing over [/EN#92380/animals the little white dog] .
+[/EN#92386/animals two dogs] play together .

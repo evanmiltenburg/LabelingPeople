@@ -1,0 +1,5 @@
+[/EN#2316/people A woman] smiles while holding [/EN#2319/other several green peppers] at [/EN#2317/scene a grocery stand] .
+[/EN#2316/people A young woman] holds [/EN#2318/other a red and green pepper] at [/EN#2320/scene a vegetable stand] .
+[/EN#2316/people A girl] working at [/EN#2317/scene a farm market] selling [/EN#2319/other peppers] .
+[/EN#2316/people A woman] smiles as [/EN#0/notvisual she] holds [/EN#2319/other some bell peppers] .
+[/EN#2316/people Woman] with [/EN#2321/clothing a tank top] buying [/EN#2318/other green peppers] .

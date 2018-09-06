@@ -1,0 +1,5 @@
+[/EN#194260/people A man] in [/EN#194265/clothing a blue T-shirt] and [/EN#194263/clothing shorts] is throwing [/EN#194261/other a Frisbee] in [/EN#194269/scene an outdoor scene] while [/EN#0/notvisual another] watches .
+[/EN#194260/people A man] in [/EN#194263/clothing white shorts] is in [/EN#194270/scene a park] throwing [/EN#194261/other a Frisbee] .
+[/EN#194260/people A man] throwing [/EN#194261/other a Frisbee] as [/EN#194268/people another man] watches .
+[/EN#194260/people A person] is playing [/EN#194261/other a game] on [/EN#194266/scene the green lawn] .
+Throwing [/EN#194267/scene a long pass] in [/EN#194261/other ultimate frisbee] .

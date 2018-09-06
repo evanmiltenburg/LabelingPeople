@@ -1,0 +1,5 @@
+[/EN#187768/people The man] in [/EN#187770/clothing the black baseball cap] is trying to catch [/EN#187769/other a ground ball] [/EN#0/notvisual that] is going foul .
+[/EN#187768/people A baseball player] in [/EN#187771/clothing gray] is getting ready to catch [/EN#187769/other the ball] .
+[/EN#187768/people A baseball player] is fielding [/EN#187769/other a ball] .
+[/EN#187768/people A baseball player] reaches for [/EN#187769/other a ball] .
+[/EN#187768/people A baseball player] fielding [/EN#187769/other a ball] .

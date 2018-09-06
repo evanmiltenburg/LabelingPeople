@@ -1,0 +1,5 @@
+[/EN#59301/people A person] rides [/EN#59302/vehicles his mountain bike] down [/EN#59303/scene a steep hill] in [/EN#59308/other the woods] .
+[/EN#59301/people A person] with [/EN#59309/clothing a helmet] is riding [/EN#59302/vehicles a bike] i [/EN#59307/scene the grass] and [/EN#59305/scene dirt] .
+[/EN#59301/people The man] races [/EN#59302/vehicles his bike] down [/EN#59303/scene the hill] .
+[/EN#59301/people A dirt biker] goes down [/EN#59303/scene a dirt hill] .
+[/EN#59301/people A boy] mountain bikes down [/EN#59303/scene a trail] .

@@ -1,0 +1,5 @@
+[/EN#77486/people A policeman] stands at [/EN#77489/scene the corner of an office building] while [/EN#77492/other keeping] watch on [/EN#77488/other a red fire hydrant] .
+[/EN#77486/people A police officer] is standing outside against [/EN#77489/other a wall] with [/EN#77494/bodyparts his head] tilted to [/EN#0/notvisual the side] .
+[/EN#77486/people A police officer] is standing [/EN#77493/other patrol] at [/EN#77489/scene the corner] near [/EN#77488/other a red fire hydrant] .
+[/EN#77486/people A Police Officer] is looking at [/EN#77490/scene the crack] in [/EN#0/notvisual the ground] on [/EN#77487/scene a city corner] .
+[/EN#77486/people A police officer] standing next to [/EN#77487/scene a building] looking toward [/EN#0/notvisual the ground] .

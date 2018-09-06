@@ -1,0 +1,5 @@
+[/EN#22023/people A woman] and [/EN#22024/people her son] walk down [/EN#22025/scene a long , leaf-strewn path] , while [/EN#22026/people two people] ride [/EN#22027/animals their horses] in [/EN#0/notvisual the opposite direction] .
+[/EN#22023/people A woman] and [/EN#22024/people a child] are walking on [/EN#22025/scene a leaf-lined sidewalk] , heading towards [/EN#22026/people two people] riding [/EN#22027/animals horses] .
+[/EN#22023/people Woman] and [/EN#22024/people child] walking on [/EN#22025/scene a path] covered in [/EN#22028/other leaves] , while [/EN#22026/people two people] on [/EN#22027/animals horses] come towards [/EN#0/notvisual them] .
+[/EN#22023/people A mother] and [/EN#22024/people her son] walk down [/EN#22025/scene a scenic path] while [/EN#22026/people two men] on [/EN#22031/other horseback] approach [/EN#0/notvisual them] .
+[/EN#22026/people Two people] on [/EN#22031/other horseback] approach [/EN#22023/people a woman] and [/EN#22024/people small child] walking on [/EN#22025/scene a trail] .

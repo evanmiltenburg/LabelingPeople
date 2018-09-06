@@ -1,0 +1,5 @@
+[/EN#163932/people Three men] in [/EN#163935/clothing yellow jackets] on [/EN#163933/vehicles/scene a large boat] gather around [/EN#163937/other a wooden board] while [/EN#163936/animals a disinterested seagull] flies by .
+[/EN#163932/people Three men] , dressed in [/EN#163935/other rain gear] are standing on [/EN#163940/vehicles/scene the dock of a boat] preparing to [/EN#163934/animals clean fish] .
+[/EN#163932/people 3 rain suit clad fisherman] gut [/EN#163934/animals a fish] on [/EN#163939/vehicles the deck of their fishing vessel] .
+[/EN#163932/people Three men] in [/EN#163935/clothing yellow jumpsuits] are standing on [/EN#163933/vehicles/scene a boat] cutting [/EN#163934/animals fish] .
+[/EN#163932/people Three men] in [/EN#163935/clothing yellow] , are on [/EN#163933/vehicles/scene a boat] cutting up [/EN#163934/animals fish] .

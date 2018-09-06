@@ -1,0 +1,5 @@
+[/EN#189303/people A little girl] riding [/EN#189304/other a two wheeler] , wearing [/EN#189305/clothing her helmet] close to [/EN#189306/scene the street] with passing [/EN#189308/vehicles cars] .
+[/EN#189303/people A young child] in [/EN#189309/clothing green shoes] , [/EN#189307/clothing blue jeans] , and [/EN#189310/clothing purple jacket] rides [/EN#189304/vehicles a bike] on [/EN#189306/scene a sidewalk] .
+[/EN#189303/people A young girl] wearing [/EN#189305/clothing a pink helmet] is riding [/EN#189304/vehicles her bicycle] on [/EN#189306/scene the sidewalk] .
+[/EN#189303/people A little girl] wearing [/EN#189305/clothing a helmet] pedals [/EN#0/notvisual her] bike down [/EN#189306/scene the street] .
+[/EN#189303/people A small child] rides [/EN#189304/vehicles a bicycle] on [/EN#189306/scene the side of a road] .

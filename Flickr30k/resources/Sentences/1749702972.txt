@@ -1,0 +1,5 @@
+[/EN#19904/people Several people] walking past [/EN#19905/vehicles a food cart] on [/EN#19906/scene a city street] .
+[/EN#19907/people A vendor] on [/EN#19906/scene a busy street] is selling [/EN#19910/other food] .
+[/EN#19907/people Picture of a hotdog vendor] in [/EN#19906/scene the street] .
+[/EN#19908/people A man] is working [/EN#19909/scene a hotdog stand] .
+[/EN#19909/scene hotdog stand] on [/EN#19906/scene a busy street]

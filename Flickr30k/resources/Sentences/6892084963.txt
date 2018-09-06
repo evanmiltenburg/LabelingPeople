@@ -1,0 +1,5 @@
+[/EN#260601/people A man] is shoveling [/EN#260603/scene dirt] and wearing [/EN#260602/clothing a construction helmet] .
+[/EN#260601/people A man] with [/EN#260602/scene a red hard hat shovels dirt] at [/EN#260606/scene a work site] .
+[/EN#260601/people A man] dressed in [/EN#260607/clothing working clothes] shovels [/EN#260603/scene some dirt] .
+[/EN#260601/people man] shoveling [/EN#260603/scene dirt] into [/EN#260604/people a pile]
+[/EN#260601/people man] in [/EN#260602/clothing hard hat] shoveling .

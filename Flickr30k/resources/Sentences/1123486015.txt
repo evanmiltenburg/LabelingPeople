@@ -1,0 +1,5 @@
+[/EN#3206/people A man] is standing on [/EN#3207/scene a small floating raft] with [/EN#3208/other a flag] .
+[/EN#3206/people A young man] on [/EN#3207/scene a dock] fishing near [/EN#3208/other a flag] from [/EN#3211/other France] .
+[/EN#3206/people man] in [/EN#3212/clothing white shirt] staring out at [/EN#3210/scene the water] .
+[/EN#3206/people A person] stands on [/EN#3209/other a structure] on [/EN#3210/scene the lake] .
+[/EN#3206/people A guy] on [/EN#3209/other a floating platform] on [/EN#3210/scene the water] .

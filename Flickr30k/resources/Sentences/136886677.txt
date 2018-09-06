@@ -1,0 +1,5 @@
+[/EN#10336/people A large man] sits in [/EN#10342/other the back of a canoe] with [/EN#10337/people another man] in [/EN#10340/scene front] on [/EN#10335/scene a river] .
+[/EN#10333/people two man] are paddling [/EN#10334/other a kayak] along [/EN#10335/scene a river] with [/EN#10341/other green trees] on [/EN#0/notvisual either side] .
+[/EN#10333/people Two paddlers] propel [/EN#10334/other a canoe] down [/EN#10335/scene a tree-lined stream] .
+[/EN#10333/people Two men] paddling [/EN#10334/other a canoe] down [/EN#10335/scene a narrow stream] .
+[/EN#10333/people Two men] in [/EN#10338/vehicles/scene a small boat] rowing down [/EN#10335/scene a river] .

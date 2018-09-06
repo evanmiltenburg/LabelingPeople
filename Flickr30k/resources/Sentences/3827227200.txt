@@ -1,0 +1,5 @@
+[/EN#144590/people Two people] are standing near [/EN#144599/vehicles carts] full of [/EN#144593/other many items] , in front of [/EN#0/notvisual a mountain background] .
+[/EN#144590/people Two individuals] are standing next to [/EN#144593/other some supplies] in [/EN#144597/scene a mountainous area] .
+[/EN#144590/people Two people] are organizing [/EN#144593/other supplies] outside near [/EN#144592/scene the mountains] .
+[/EN#144590/people two people] with [/EN#144598/other hiking gear] at [/EN#144594/scene a checkpoint] on [/EN#144591/scene a mountain] .
+[/EN#144590/people Two hikers] on [/EN#144595/scene a dirt road] .

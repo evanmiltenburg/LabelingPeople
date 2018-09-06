@@ -1,0 +1,5 @@
+[/EN#220895/people Two boys] skateboard in front of [/EN#220897/people a large statue of a soldier] riding [/EN#220896/animals a horse] in [/EN#220899/scene a town plaza] .
+[/EN#220895/people Two skateboarders] hanging out under [/EN#220897/people a statue of a soldier] on [/EN#220896/animals a horse] .
+[/EN#220895/people Two boys] on [/EN#220898/other skateboards] in front of [/EN#220897/people a statue of a soldier] on [/EN#220896/animals a horse] .
+[/EN#220895/people Two kids] are skateboarding next to [/EN#220897/people a statue of a man] riding [/EN#220896/animals a horse] .
+[/EN#220895/people Two boys] ride [/EN#220898/other skateboards] in front of [/EN#220897/other a statue] .

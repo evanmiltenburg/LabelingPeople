@@ -1,0 +1,5 @@
+[/EN#15616/animals Small black and white dog] wearing [/EN#15620/clothing a red harness] is running around with [/EN#15617/other a ball] in [/EN#15618/bodyparts its mouth] .
+[/EN#15616/animals The dog] wearing [/EN#15620/clothing the red collar] is running across [/EN#15619/scene the grass] with [/EN#15617/other a ball] in [/EN#15618/bodyparts its mouth] .
+[/EN#15616/animals a small black and white dog] running through [/EN#15619/scene the grass] with [/EN#15617/other a tennis ball] in [/EN#15618/bodyparts his mouth]
+[/EN#15616/animals A dog] is running with [/EN#15617/other a yellow tennis ball] and wearing [/EN#15620/clothing a red harness] .
+[/EN#15616/animals Small dog] with [/EN#15620/clothing red harness] fetching [/EN#15617/other a ball] .

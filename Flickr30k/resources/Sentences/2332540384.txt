@@ -1,0 +1,5 @@
+[/EN#42186/other A skateboard] rides up [/EN#42184/scene the ramp] and does [/EN#0/notvisual a trick] in [/EN#42188/scene midair] .
+[/EN#42182/people The skateboarder] is performing [/EN#0/notvisual a trick] off [/EN#42184/scene a ramp] .
+[/EN#42182/people The skateboarder] launches off [/EN#42184/other a quarter pipe] .
+[/EN#42182/people A man] with [/EN#42189/bodyparts an Afro] is skating on [/EN#42184/scene a vert ramp]
+[/EN#42182/people a skateboarder] doing [/EN#0/notvisual a trick] on [/EN#42184/scene a ramp]

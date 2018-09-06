@@ -1,0 +1,5 @@
+[/EN#137925/people A young child] is riding [/EN#137926/vehicles a bike] in [/EN#137927/scene the dirt] along [/EN#137928/scene a brick walkway] in [/EN#137930/scene a park] .
+[/EN#137925/people A child] in [/EN#137929/clothing an orange t-shirt] is riding [/EN#137926/vehicles a green bike] beside [/EN#137934/other a pathway] .
+[/EN#137925/people A child] wearing [/EN#137931/clothing helmet] is riding [/EN#137926/vehicles baby bicycle] by [/EN#137927/scene side of walk path] .
+[/EN#137925/people A little girl] is riding [/EN#137926/vehicles her bike] on [/EN#137927/scene a dirt trail] .
+[/EN#137925/people A child] in [/EN#137929/clothing red] is riding [/EN#137926/vehicles a bicycle] .

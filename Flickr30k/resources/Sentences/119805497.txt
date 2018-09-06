@@ -1,0 +1,5 @@
+[/EN#5072/people A man] in [/EN#5080/clothing a white shirt] and [/EN#5074/people a woman] in [/EN#5081/clothing a black shirt] are standing in front of [/EN#5075/scene a store] .
+[/EN#5072/people A man] and [/EN#5074/people a woman] are waiting to order from [/EN#5073/other a sidewalk cafe] .
+[/EN#5071/people Customers] are waiting for [/EN#5077/other service] at [/EN#5073/other a takeout window] .
+[/EN#5071/people A couple] wait at [/EN#5075/scene the stand] for [/EN#5078/other some coffee] .
+[/EN#5071/people Customers] examine [/EN#5079/other the menu of street cafe] .

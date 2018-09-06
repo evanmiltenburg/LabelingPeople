@@ -1,0 +1,5 @@
+[/EN#266551/people A man] in [/EN#266552/clothing a light brown shirt] is busy dealing with [/EN#266559/scene a medium] sized [/EN#266554/other metal structure] [/EN#0/notvisual that] contains [/EN#266557/other a fire] .
+[/EN#266551/people A man] in [/EN#266556/other a brown button] up [/EN#266552/clothing shirt] is heating [/EN#266558/other a material] in [/EN#266554/other a work station] .
+[/EN#266551/people A man] in [/EN#266552/clothing a brown shirt] is cooking in [/EN#266553/scene a room] with [/EN#266560/other blue paint] .
+[/EN#266551/other A smithy] preparing [/EN#266561/other his tools] in [/EN#266553/scene his humble workshop] .
+[/EN#266551/people This man] is working on [/EN#266562/instruments his iron instrument] .

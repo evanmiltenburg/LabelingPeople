@@ -1,0 +1,5 @@
+[/EN#141781/people a man] in [/EN#141782/clothing a black jacket] is holding [/EN#141786/other a newspaper] and standing in front of [/EN#141785/other an espresso sign]
+[/EN#141781/people A man] in [/EN#141782/clothing a heavy black coat] carries [/EN#141786/other a newspaper] past [/EN#141785/other an advertisement] for [/EN#141788/other an espresso] .
+[/EN#141781/people An overweight man] dressed warmly and [/EN#141781/people all] in [/EN#141784/clothing black] stands in [/EN#141792/vehicles/scene a subway] .
+[/EN#141781/people Man] holding [/EN#141786/other newspaper] next to [/EN#141785/other coffee advertisement] .
+[/EN#141781/people Man] in [/EN#141782/clothing black jacket] holding [/EN#141786/other newspaper] .

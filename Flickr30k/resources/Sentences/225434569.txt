@@ -1,0 +1,5 @@
+[/EN#37132/people a male] dressed in [/EN#37133/clothing a white shirt] with [/EN#37134/clothing white shorts] paints [/EN#37135/clothing a white wall black] .
+[/EN#37132/people A man] in [/EN#37136/clothing all white] is painting over [/EN#37137/other a wall] covered in [/EN#37138/other shiny black paint] .
+[/EN#37132/people A man] in [/EN#37136/clothing all white] painting [/EN#37137/other a black wall] white .
+[/EN#37132/people A painter] finishes painting [/EN#37137/other the wall] outside .
+[/EN#37132/people Man] in [/EN#37133/clothing white shirt] and [/EN#37134/clothing shorts] painting

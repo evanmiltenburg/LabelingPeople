@@ -1,0 +1,5 @@
+[/EN#7542/people A man] in [/EN#7543/clothing a dirty hat] and [/EN#7544/clothing sweater] works on [/EN#7547/other a remodeling project] .
+[/EN#7542/people A man] in [/EN#7544/clothing a blue sweater] and [/EN#7543/clothing hat] works at painting [/EN#7548/scene a room] .
+[/EN#7542/people A man] in [/EN#7543/clothing a blue hat] and [/EN#7544/clothing sweater] , working on [/EN#7545/other a wall] .
+[/EN#7542/people A worker] in [/EN#7543/clothing a blue hat] is fixing [/EN#7545/other the wall] .
+[/EN#7542/people A man] putting [/EN#7546/other spackle] on [/EN#7545/other the wall] .

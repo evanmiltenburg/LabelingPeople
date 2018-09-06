@@ -1,0 +1,5 @@
+[/EN#56103/other The train worker checks] to make sure that [/EN#56111/other everything] is okay before [/EN#56108/vehicles/scene the train] leaves [/EN#56109/other the station] .
+[/EN#56103/people A man] wearing [/EN#56107/clothing an orange safety vest] writes in [/EN#56106/other a PDA] while standing next to [/EN#56108/vehicles/scene a train] .
+[/EN#56103/people A black man] in [/EN#56107/clothing an orange safety vest] consults [/EN#56106/other a handheld computer] at [/EN#56108/scene a train yard] .
+[/EN#56103/people A man] with [/EN#56107/clothing an orange vest] next to [/EN#56108/vehicles/scene a train] works with [/EN#56105/other a handheld device] .
+[/EN#56103/people Man] in [/EN#56107/clothing an orange vest] using [/EN#56106/other electronic device] while [/EN#56108/scene red bus passes] by .

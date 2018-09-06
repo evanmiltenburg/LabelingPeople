@@ -1,0 +1,5 @@
+[/EN#258132/people A man] wearing [/EN#258134/clothing snowshoes] is walking up [/EN#258133/scene a hill] as [/EN#258137/people another person] walks nearby [/EN#0/notvisual him] .
+[/EN#258132/people A man] in [/EN#258136/clothing an orange hat] and [/EN#258138/clothing brown jacket] and [/EN#258139/clothing pants] running on [/EN#258133/scene snow] in [/EN#258134/clothing snowshoes] .
+[/EN#258132/people A man] with [/EN#258134/clothing snowshoes] is running through [/EN#258133/scene the snow] .
+[/EN#258132/people A man] in [/EN#258134/clothing snowshoes] runs across [/EN#258133/scene the snow] .
+[/EN#258132/people A man] running in [/EN#258133/scene the snow] on [/EN#258135/scene a cold day]

@@ -1,0 +1,5 @@
+[/EN#55126/animals A brown and white dog] , wearing [/EN#55127/clothing a collar] , is moving through [/EN#55128/scene some water] .
+[/EN#55126/animals A brown and white dog] with [/EN#55127/clothing a collar] wading in [/EN#55128/scene a river] .
+[/EN#55126/animals A dog] swims through [/EN#55128/scene the water] .
+[/EN#55126/animals A dog] standing in [/EN#55128/scene water] .
+[/EN#55126/animals A dog] is in [/EN#55128/scene the water] .

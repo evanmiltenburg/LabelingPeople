@@ -1,0 +1,5 @@
+[/EN#95614/people A happy looking , long-haired man] , wearing [/EN#95620/clothing goggles] over [/EN#95628/bodyparts his eyes] and [/EN#95619/clothing very colorful clothing] and [/EN#95623/clothing a hat] , is standing in front of [/EN#95618/other a stairway] .
+[/EN#0/notvisual What] appears to be [/EN#95614/people a street performer] ( likely [/EN#95614/people some motivational speaker or instrumentalist] ) in [/EN#95627/scene a train station] .
+[/EN#95614/people a weird bearded man] with [/EN#95629/bodyparts long hair] and [/EN#95621/bodyparts a beard] wearing [/EN#95619/clothing a brightly colored shirt] in [/EN#95626/vehicles/scene a subway] .
+[/EN#95614/people A person] is standing by [/EN#95618/other some stairs] in [/EN#95619/clothing colorful clothes] and [/EN#95620/clothing goggles] .
+[/EN#95614/people A folk performer] stands near [/EN#95624/scene a staircase] .

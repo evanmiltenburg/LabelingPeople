@@ -1,0 +1,5 @@
+[/EN#89398/people A middle-aged man] is looking at [/EN#89400/people the middle-aged woman] .
+[/EN#89398/people A man] looks at [/EN#89399/bodyparts a woman 's face] while [/EN#0/notvisual they] talk .
+[/EN#89398/people An older man] gives [/EN#89400/people a woman] [/EN#89402/other an amused look] .
+[/EN#89398/people A man] looks at [/EN#89400/people a woman] and [/EN#0/notvisual she] smiles .
+[/EN#89398/people a man] stares at [/EN#89400/people a lady] .

@@ -1,0 +1,5 @@
+[/EN#227146/people A man] wearing [/EN#227147/clothing a hat] is holding [/EN#227157/other his arm strait] out and looking at [/EN#227152/bodyparts his hand] while standing in front of [/EN#227148/scene the edge of the ocean] on [/EN#227148/scene a beach] .
+[/EN#227146/people A man] in [/EN#227159/clothing sunglasses] with [/EN#227149/clothing a blue windbreaker] and [/EN#227147/clothing black baseball cap] holds [/EN#227151/bodyparts a hand] up to [/EN#227148/scene the sea] with [/EN#227153/bodyparts his fingers] touching [/EN#227160/scene tips] .
+[/EN#227146/people A gentleman] in [/EN#227147/clothing a baseball cap] and [/EN#227149/clothing a blue jacket] looks out over [/EN#227148/scene the ocean] with [/EN#227150/bodyparts/people his arm] out in front of [/EN#0/notvisual him] .
+[/EN#227146/people A man] in [/EN#227149/clothing a blue shirt] is standing on [/EN#227148/scene the beach] and throwing [/EN#227155/other a stone] .
+[/EN#227146/people A old man] wearing [/EN#227149/clothing blue] is throwing [/EN#227158/other rocks] at [/EN#227148/scene the ocean] .

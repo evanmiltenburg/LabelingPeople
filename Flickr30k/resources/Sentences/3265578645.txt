@@ -1,0 +1,5 @@
+[/EN#105584/people A person] with [/EN#105593/bodyparts long hair] and [/EN#105585/clothing a black coat] stands in [/EN#105587/scene the street] in front of [/EN#105586/vehicles/scene a bus] while [/EN#105592/people people] on [/EN#105588/other the sidewalk look] on .
+[/EN#105584/people A woman] in [/EN#105591/clothing jeans] and [/EN#105585/clothing a black jacket] standing on [/EN#105587/scene the road] in front of [/EN#105586/vehicles/scene a white and red bus] .
+[/EN#105584/people The person] looks cautiously into [/EN#105594/vehicles traffic] to be sure [/EN#105595/vehicles no car] is coming .
+[/EN#105584/people Man] with [/EN#105584/other back] to [/EN#105590/other camera] standing in front of [/EN#105586/vehicles/scene a bus]
+[/EN#105584/people A person] stands in front of [/EN#105586/vehicles/scene a white and red bus] .

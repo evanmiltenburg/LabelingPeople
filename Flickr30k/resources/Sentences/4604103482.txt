@@ -1,0 +1,5 @@
+[/EN#181862/people A shirtless man] wearing [/EN#181867/clothing long pants] is doing [/EN#0/notvisual a skateboard trick] in [/EN#181863/scene a metropolitan area] where [/EN#181870/people a man] and [/EN#181873/people woman] are walking away from [/EN#0/notvisual the camera] .
+[/EN#181862/people A skateboarding man] with [/EN#181871/clothing no shirt] does [/EN#0/notvisual a trick] and [/EN#181872/people people] walk in [/EN#181868/scene a busy city scene] .
+[/EN#181862/people Shirtless man] with [/EN#181867/clothing blank pants] engaged in skateboarding upon [/EN#181869/other a cityscape] .
+[/EN#181862/people A young shirtless man] doing [/EN#0/notvisual skateboarding tricks] in [/EN#181863/scene the city] .
+[/EN#181862/people A shirtless man] is doing [/EN#0/notvisual a jump] with [/EN#181866/other a skateboard] .

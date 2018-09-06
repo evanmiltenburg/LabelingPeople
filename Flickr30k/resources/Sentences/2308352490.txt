@@ -1,0 +1,5 @@
+[/EN#40628/people A man] is fixing [/EN#40631/scene a broken roof] [/EN#0/notvisual that] needs to be replaced .
+[/EN#40628/people A roofer] in [/EN#40630/clothing a black jacket] putting [/EN#40634/other tiles] on [/EN#40631/scene a roof] .
+[/EN#40628/people A man] wearing [/EN#40630/clothing a black jacket] is working on [/EN#40631/scene a roof] .
+[/EN#40628/people A man] on [/EN#40631/scene the side of a steep roof] doing [/EN#40632/other some work] .
+[/EN#40628/people A man] in [/EN#40630/clothing a black shirt] is on [/EN#40631/scene a roof of a building] .

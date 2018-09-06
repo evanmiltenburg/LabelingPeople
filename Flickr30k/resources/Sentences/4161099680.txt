@@ -1,0 +1,5 @@
+[/EN#157563/people A man] in [/EN#157573/clothing uniform] directing [/EN#157568/vehicles traffic] as [/EN#157572/people people] cross [/EN#157567/scene the street] in [/EN#157564/scene a crosswalk] .
+[/EN#157569/people A small group of people] crossing [/EN#157564/scene the street] with [/EN#157563/people a pedestrian] assisting [/EN#0/notvisual them] .
+[/EN#157563/people A man] with [/EN#157570/clothing a black hat] in [/EN#157567/scene the middle of a street] directing [/EN#157568/vehicles traffic] .
+[/EN#157563/people A traffic director] guides [/EN#157565/people pedestrians] across [/EN#157564/scene an intersection] .
+[/EN#157563/people An older man] directs [/EN#157565/vehicles pedestrian traffic] in [/EN#157564/scene the road] .

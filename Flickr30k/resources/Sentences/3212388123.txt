@@ -1,0 +1,5 @@
+[/EN#101509/people A group of people] , including [/EN#101510/people one man] carrying [/EN#101511/other a silver tripod] , stand in front of [/EN#101512/scene a large building] featuring [/EN#101513/people numerous columns] .
+[/EN#101509/people A crowd of people] stands in front of [/EN#101512/scene a large building] with [/EN#101514/people/scene bleachers] in front of [/EN#0/notvisual it] .
+[/EN#101509/people A crowd of people] are standing in front of [/EN#101512/scene a building] .
+[/EN#101509/people A large crowd] has gathered in [/EN#101515/scene a public place] .
+[/EN#101509/other A group of people mass] in [/EN#101516/other a square] .

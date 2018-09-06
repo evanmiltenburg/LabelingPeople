@@ -1,0 +1,5 @@
+[/EN#112964/people Lady] with [/EN#112973/bodyparts short brown hair] and [/EN#112966/clothing a red and white striped shirt] with [/EN#112970/other a name tag] taking [/EN#112971/other a sip] from [/EN#112965/other a cup] .
+[/EN#112964/people The woman] in [/EN#112966/clothing the striped shirt] is sipping [/EN#112965/other a beverage] while at [/EN#112972/other work] .
+[/EN#112964/people A woman] in [/EN#112966/clothing a red and white striped turtleneck] sipping from [/EN#112965/other a cup] .
+[/EN#112964/people A restaurant worker] takes [/EN#112965/other a sip of coffee] in [/EN#112969/scene the kitchen] .
+[/EN#112964/people An employee] takes [/EN#112967/scene a break] from working to have [/EN#112968/other a drink]

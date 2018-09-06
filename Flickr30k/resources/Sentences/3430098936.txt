@@ -1,0 +1,5 @@
+[/EN#117654/people a person] wearing [/EN#117662/clothing a brown outfit] and [/EN#117663/clothing large cone shaped hat] sitting on [/EN#117655/other stairs] with [/EN#117659/other plates of red items] .
+[/EN#117654/people This person] sits behind [/EN#117657/other platters] full of [/EN#117661/other food] with [/EN#117664/bodyparts their elbow] resting on [/EN#117665/bodyparts their knee] .
+[/EN#117654/people A foreign woman] selling cooked [/EN#117656/other food] on [/EN#117655/scene the steps of a building] .
+[/EN#117654/people Someone] is selling [/EN#117656/other food] on [/EN#117655/other a set of doorsteps] .
+[/EN#117654/people A man] sitting on [/EN#117660/scene a porch] selling [/EN#117658/other red goods] .

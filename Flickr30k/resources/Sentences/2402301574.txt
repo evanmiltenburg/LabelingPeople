@@ -1,0 +1,5 @@
+[/EN#46633/other A figure] sets [/EN#46639/other a foot] on [/EN#0/notvisual the ground] while perched on [/EN#46635/vehicles a light blue motorbike] positioned next to [/EN#46641/other a manhole cover] .
+[/EN#46633/people A motorcyclist] with [/EN#46634/clothing a Puma fanny-pak] parked on [/EN#46636/scene the sidewalk] with [/EN#46642/vehicles the kickstand of his bike] up .
+[/EN#46633/people A person] with [/EN#46634/other a black knapsack] and wearing [/EN#46640/clothing a helmet] is riding [/EN#46635/vehicles a blue scooter] .
+[/EN#46633/people A man] on [/EN#46635/vehicles a moped] with [/EN#46634/clothing a puma bag] stops on [/EN#46636/scene the sidewalk of a city] .
+[/EN#46633/people A person] sits on [/EN#46635/vehicles a blue scooter] by [/EN#46636/scene the side of the road] .

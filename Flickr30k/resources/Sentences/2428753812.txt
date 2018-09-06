@@ -1,0 +1,5 @@
+[/EN#48729/people A male] is standing in [/EN#48739/scene his kitchen] in front of [/EN#48735/other his stove] is checking on [/EN#48734/other his food] [/EN#0/notvisual he] is trying to prepare using [/EN#48733/other a wooden spoon] .
+[/EN#48729/people A man] stirring [/EN#48734/other sauce] with [/EN#48733/other a wooden spatula] in [/EN#48731/other a steel container] on [/EN#48735/clothing a stove top] .
+[/EN#48729/people Man] with [/EN#48736/clothing brown shirt] stirring [/EN#48734/other something] in [/EN#48730/other a pot] .
+[/EN#48729/people A male college student] is making [/EN#48734/other marinara sauce]
+[/EN#48729/people A person] is cooking [/EN#48738/other what look] likes [/EN#48732/other sauce] .

@@ -1,0 +1,5 @@
+[/EN#157307/people An older man] sits on [/EN#157309/vehicles/scene a subway or bus] reading [/EN#157311/other a tabloid] in front of [/EN#157312/other an Uncle Sam poster] as [/EN#157310/other a hanging plant] sits beside [/EN#0/notvisual him] on [/EN#157315/scene the floor] .
+[/EN#157307/people A man] with [/EN#157310/other a large plant] reads [/EN#157313/other a newspaper] about how [/EN#157308/people someone] ( besides [/EN#0/notvisual him] ) is [/EN#157314/people an idiot] .
+[/EN#157307/people A man] reading [/EN#157311/other a newspaper] on [/EN#157309/vehicles/scene the subway] with [/EN#157310/other a houseplant] beside [/EN#0/notvisual him] .
+[/EN#157307/people An old man] reading [/EN#157311/other a periodical sitting] in [/EN#157309/vehicles/scene a bus] beside [/EN#157310/other a houseplant] .
+[/EN#157307/people A man] reading [/EN#157311/other a newspaper] while riding [/EN#157309/vehicles/scene the subway] .

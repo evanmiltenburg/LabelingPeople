@@ -1,0 +1,5 @@
+[/EN#8499/people A scuba diver] [/EN#0/notvisual who] has descended to [/EN#8502/scene the bottom of the ocean floor] reaches out to pet [/EN#8500/animals a large sea turtle] .
+[/EN#8499/people A SCUBA diver] swimming [/EN#8501/scene deep underwater] with [/EN#8500/animals a turtle] .
+[/EN#8499/people A diver] underwater having [/EN#0/notvisual fun] with [/EN#8500/animals a sea turtle] .
+[/EN#8499/people A woman] scuba diving with [/EN#8500/animals a large sea turtle] .
+[/EN#8499/people A diver] is swimming with [/EN#8500/animals a turtle] .

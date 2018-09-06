@@ -1,0 +1,5 @@
+[/EN#52591/people A team] paddles [/EN#52592/vehicles/scene their long boat] through [/EN#52594/scene the water] with [/EN#52596/other trees] behind .
+[/EN#52591/people a group of people] rowing [/EN#52592/other a large rowboat] in [/EN#52594/scene the lake] .
+[/EN#52591/people Many people] ride in [/EN#52592/other a canoe] near [/EN#52596/scene a forest] .
+[/EN#52591/people A group of people] rowing [/EN#52592/vehicles/scene a boat] .
+[/EN#52595/people A skull of rowers] on [/EN#52594/scene a lake] .

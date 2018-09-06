@@ -1,0 +1,5 @@
+[/EN#94060/animals The two dogs] , [/EN#94059/scene one dark] and [/EN#94062/people one light colored] , are running [/EN#94064/scene outdoors] .
+[/EN#94062/animals one tan dog] running on [/EN#94061/scene the grass] with [/EN#94059/animals a brown dog] running close behind
+[/EN#94059/animals A dark brown dog] runs behind [/EN#94062/animals a yellow dog] in [/EN#94063/scene the grass] .
+[/EN#94060/animals Two brown dogs] are running through [/EN#94061/scene a grassy area] .
+[/EN#94060/animals Two dogs] run over [/EN#94061/scene the grass] .

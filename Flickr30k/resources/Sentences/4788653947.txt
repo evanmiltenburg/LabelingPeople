@@ -1,0 +1,5 @@
+[/EN#202928/people An elderly woman] sits contently in [/EN#202929/other a chair] as [/EN#0/notvisual she] rests [/EN#202931/other her foot] on [/EN#202930/people her walker] .
+[/EN#202928/people An old woman] is sitting in [/EN#202929/other a chair] on [/EN#202933/scene a sidewalk] with [/EN#202931/other her foot] up on [/EN#202930/people a walker] .
+[/EN#202928/people An older lady] sitting on [/EN#202929/other a black chair] with [/EN#202932/bodyparts her leg] up on [/EN#202930/people a walker] .
+[/EN#202928/people Injured lady] sitting and resting [/EN#202932/bodyparts her leg] on [/EN#202930/people a walker]
+[/EN#202928/people Old women] resting [/EN#202932/bodyparts her leg] on [/EN#202930/people her walker] .

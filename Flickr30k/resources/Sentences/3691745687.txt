@@ -1,0 +1,5 @@
+[/EN#137207/people Three people] are walking on [/EN#137213/other a board] placed over [/EN#137214/scene a hole] in [/EN#137208/scene the sidewalk] due to [/EN#137211/other construction] .
+[/EN#137207/people Three people] are walking past [/EN#137215/other a selection] of warning [/EN#137210/other cones] on [/EN#137208/scene a sidewalk] .
+[/EN#137207/people Three people] walking outside with [/EN#137210/other orange cones] on [/EN#137208/scene the sidewalk] .
+[/EN#0/notvisual There] is [/EN#137211/other construction] on [/EN#137208/scene the sidewalk] as [/EN#137207/people three people] walk by .
+[/EN#137212/people The jogger] passes [/EN#137216/people the tourist] on [/EN#137209/scene the street] .

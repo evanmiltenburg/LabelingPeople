@@ -1,0 +1,5 @@
+[/EN#125110/people Motorcross jumper] in [/EN#125116/other mid-flight] beneath [/EN#125114/scene a gray sky] .
+[/EN#125110/people A person] rides [/EN#125112/vehicles a motorbike] through [/EN#0/notvisual the air] .
+[/EN#125110/people A motorcyclist] on [/EN#125112/vehicles a green bike] is airborne .
+[/EN#125110/people A person] on [/EN#125112/vehicles a dirt bike] is in [/EN#0/notvisual the air] .
+[/EN#125110/people A person] riding [/EN#125112/vehicles a dirt bike] .

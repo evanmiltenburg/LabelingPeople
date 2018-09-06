@@ -1,0 +1,5 @@
+[/EN#70195/people A skateboarder] performs [/EN#0/notvisual a trick] in front of [/EN#70198/scene a business building] .
+[/EN#70196/people Two boys] are skateboarding in front of [/EN#70198/scene an office building] .
+[/EN#70196/people Skateboarders] do [/EN#0/notvisual tricks] on [/EN#70200/other steps] outside of [/EN#70198/scene building] .
+[/EN#70195/people Skateboarder] on [/EN#70200/other the gray steps] on [/EN#70198/scene a large building]
+[/EN#70196/people Two kids] are skateboarding .

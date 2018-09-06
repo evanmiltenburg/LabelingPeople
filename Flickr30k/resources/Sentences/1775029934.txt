@@ -1,0 +1,5 @@
+[/EN#20228/animals A wild animal] races across [/EN#20229/scene an uncut field] with [/EN#20230/other a minimal amount of trees] .
+[/EN#20228/animals A wild animal] not found in [/EN#20233/other America] jumping through [/EN#20229/scene a field] .
+[/EN#20228/animals An antelope] runs through [/EN#20229/scene tall brown grass] .
+[/EN#20228/animals An animal] with [/EN#20231/instruments horns] jumping in [/EN#20229/scene a field] .
+[/EN#20228/other A wildebeast] trips in [/EN#20229/scene the field] .

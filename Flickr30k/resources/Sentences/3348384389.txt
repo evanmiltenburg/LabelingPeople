@@ -1,0 +1,5 @@
+[/EN#111534/animals A brown and white dog] with [/EN#111538/clothing a pink collar] is barking at [/EN#111537/animals a brown dog] with [/EN#111536/clothing a blue collar] in [/EN#111541/scene the snow] .
+[/EN#111534/animals The dog] with [/EN#111538/clothing the red collar] is bearing [/EN#111543/bodyparts its teeth] at [/EN#111537/animals the dog] with [/EN#111536/clothing the blue collar] .
+[/EN#111534/animals Two dogs] are on [/EN#111541/other a white carpet] with [/EN#111539/animals one of the dogs] showing [/EN#111542/other its fangs] .
+[/EN#111534/animals A dark brown dog] is biting at [/EN#111537/animals a lighter brown colored dog] .
+[/EN#111534/animals Two dogs] , [/EN#111539/other one] with [/EN#111543/bodyparts mouth] open .

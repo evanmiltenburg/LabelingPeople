@@ -1,0 +1,5 @@
+[/EN#250511/people A soccer player] is on [/EN#250516/scene the field] with [/EN#250517/bodyparts his arms] out , about to kick [/EN#250513/other the ball] .
+[/EN#250511/people A guy] dressed in [/EN#250512/clothing a white uniform] with [/EN#250514/other a number 3] on [/EN#0/notvisual it] playing [/EN#250515/other soccer] .
+[/EN#250511/people A man] wearing [/EN#250512/clothing a number 3 jersey] is about to kick [/EN#250513/other a soccer ball] .
+[/EN#250511/people A man] with [/EN#250512/clothing a number 3 soccer uniform] kicking [/EN#250513/other a soccer ball] .
+[/EN#250511/people A man] is kicking [/EN#250513/other a soccer ball] .

@@ -1,0 +1,5 @@
+[/EN#2674/people A gray and black-haired male] is holding [/EN#2677/clothing his glasses] in [/EN#2678/bodyparts one hand] while looking at [/EN#2686/other something] in [/EN#2678/bodyparts the other hand] ; surrounded by [/EN#2685/other numerous amounts of machines] .
+[/EN#2674/people Man] in [/EN#2679/clothing blue shirt] and [/EN#2681/clothing black pants] is looking at [/EN#2684/bodyparts his thumb] on [/EN#2678/bodyparts one hand] while holding [/EN#2677/clothing glasses] in [/EN#2683/bodyparts his other hand] .
+[/EN#2674/people A man] in [/EN#2679/other a blue button-up] is standing in [/EN#2676/scene a room] , holding [/EN#2677/clothing his glasses] .
+[/EN#2675/other Some elements] are too small to visualize without [/EN#2680/other a microscope] .
+[/EN#2674/people A man] in [/EN#2676/scene a laboratory] is examining [/EN#2675/other something] .

@@ -1,0 +1,5 @@
+[/EN#215074/people Several people] sitting , standing or descending [/EN#215076/clothing high , wide set of white] , outside [/EN#215076/other stairs] .
+[/EN#215074/people A group of people] sit and walk on [/EN#215076/other a set of stairs] .
+[/EN#215075/people People] sitting in [/EN#215074/people groups] on [/EN#215076/other white concrete stairs] .
+[/EN#215075/people People] sitting on [/EN#215076/people/scene a set of bleachers] .
+[/EN#215074/people random people] in [/EN#215079/scene the stands] .

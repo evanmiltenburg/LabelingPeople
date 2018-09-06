@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#209628/people an older woman] with [/EN#209629/clothing a bright yellow shirt] standing on [/EN#209630/scene a sidewalk] looking into [/EN#209633/scene a store] .
+[/EN#209628/people A woman] wearing [/EN#209629/clothing a yellow tank top] and [/EN#209634/clothing white pants] looking into [/EN#209631/other a window] on [/EN#209630/scene a city street] .
+[/EN#209628/people A woman] in [/EN#209629/clothing a yellow top] is standing with [/EN#209635/bodyparts her hands] on [/EN#209636/bodyparts her hips] .
+[/EN#209628/people A woman] in [/EN#209629/clothing a yellow tank top] stands near [/EN#209632/other a black mailbox] .
+[/EN#209628/people A woman] in [/EN#209629/clothing a yellow tank top] is looking at [/EN#209631/other a window] .

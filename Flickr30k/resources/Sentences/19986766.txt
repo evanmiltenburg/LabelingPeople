@@ -1,0 +1,5 @@
+[/EN#24757/people A man] in [/EN#24758/clothing a black cap] and [/EN#24759/clothing red gown] stands in [/EN#24760/people between two other men] in [/EN#24761/clothing caps] and [/EN#24762/clothing gowns] .
+[/EN#24760/people Two men] in [/EN#24763/clothing black cap-and-gown regalia] flank [/EN#24757/people a man] in [/EN#24758/clothing a black cap] and [/EN#24759/clothing red gown] .
+[/EN#24764/people Men] stand by [/EN#0/notvisual one another] wearing [/EN#24759/clothing robes] and college [/EN#24761/clothing graduate hats] .
+[/EN#24766/people Two men] in [/EN#24762/clothing graduation regalia] are quietly whispering .
+[/EN#24757/people A graduating student] in [/EN#24759/clothing robes] speaks to [/EN#24766/people a professor] .

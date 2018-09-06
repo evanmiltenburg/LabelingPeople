@@ -1,0 +1,5 @@
+[/EN#73916/people A group of adults] holding [/EN#73919/instruments musical instruments] , [/EN#0/notvisual they] do not appear to be playing [/EN#73921/instruments the instruments] .
+[/EN#73923/scene A well lit concert area] occupied by [/EN#73918/people an ensemble] [/EN#0/notvisual that] is currently not playing [/EN#73919/instruments their instruments] .
+[/EN#73916/people An orchestra] is sitting in [/EN#73924/other a concert hall] under [/EN#73925/other bright lights] .
+[/EN#73916/people An orchestra] is assembled and waiting to begin playing .
+[/EN#73920/people A well dressed man] in [/EN#73926/clothing a suit] plays [/EN#73922/instruments piano] for [/EN#73917/people the band] .

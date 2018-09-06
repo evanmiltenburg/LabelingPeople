@@ -1,0 +1,5 @@
+[/EN#53228/people A man] wearing [/EN#53229/clothing a jean shirt] , [/EN#53233/clothing black pants] , and [/EN#53230/clothing black boots] is laying on [/EN#53232/scene a sheet] .
+[/EN#53228/people A man] dressed in [/EN#53229/clothing a jean jacket] and [/EN#53230/clothing black boots] sleeps on [/EN#53231/scene the floor] .
+[/EN#53228/people A man] in [/EN#53229/clothing a jean jacket] is sleeping on [/EN#53231/scene the floor] .
+[/EN#53228/people A man] sleeps on [/EN#0/notvisual the ground] in [/EN#53234/scene some building] .
+[/EN#53228/people A man] lies on [/EN#53232/other a towel] on [/EN#53231/scene the floor] .

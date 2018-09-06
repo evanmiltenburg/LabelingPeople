@@ -1,0 +1,5 @@
+[/EN#76328/people A man] wearing [/EN#76333/clothing shorts] and [/EN#76329/clothing a blue t-shirt] is applying [/EN#76332/other signage] to [/EN#76331/scene the display window of an ice cream shop] .
+[/EN#76328/people Man] on [/EN#76330/scene sidewalk] uses [/EN#76336/other step ladder] to apply [/EN#76332/other sticker] to storefront [/EN#76331/other window]
+[/EN#76328/people Guy] with [/EN#76329/clothing blue shirt] and [/EN#76333/clothing jean shorts] putting [/EN#76332/other blue paper] on [/EN#76331/other a window] .
+[/EN#76328/people A man] standing outside of [/EN#76335/scene a shop] on [/EN#76330/scene the street] .
+[/EN#76328/people guy] wearing [/EN#76334/clothing a cap] watching through [/EN#76331/other glass window]

@@ -1,0 +1,5 @@
+[/EN#39978/animals A fluffy dog] plays with [/EN#39979/other a small toy] in [/EN#39980/scene a living room] .
+[/EN#39978/animals A shaggy white dog] plays with [/EN#39979/other a colorful chew toy] .
+[/EN#39978/animals A blond dog] playing with [/EN#39979/other a colorful dog toy] .
+[/EN#39978/animals A fluffy dog] looking at [/EN#39979/other a yellow chew toy] .
+[/EN#39978/animals A fluffy tan dog] dropping [/EN#39979/other a colourful toy] .

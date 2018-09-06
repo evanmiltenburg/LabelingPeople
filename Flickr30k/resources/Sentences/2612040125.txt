@@ -1,0 +1,5 @@
+[/EN#61515/animals two brown and black dogs] chasing [/EN#61516/clothing a plastic bag] through [/EN#61517/scene the grass] .
+[/EN#61515/animals Two dogs] are chasing [/EN#61519/other a soccer ball] in front of [/EN#61518/scene a playground] .
+[/EN#61515/animals Two dogs] chasing [/EN#61519/other a toy] in [/EN#0/notvisual the air] at [/EN#61517/scene the playground] .
+[/EN#61515/animals two dogs] playing in [/EN#61518/scene a school yard]
+[/EN#61515/animals Two dogs] chasing [/EN#61516/clothing a plastic bag] .

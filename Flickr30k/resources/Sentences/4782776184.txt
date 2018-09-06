@@ -1,0 +1,5 @@
+[/EN#202314/people A man] with [/EN#202315/bodyparts a long beard] , [/EN#202317/clothing white shirt] , and [/EN#202319/clothing a scarf] on [/EN#202321/bodyparts his head] holds [/EN#202318/other a plastic cup] .
+[/EN#202314/people A man] is holding [/EN#202316/other a lemon] with [/EN#202322/bodyparts one hand] and [/EN#202324/scene a cup of water] in [/EN#202323/bodyparts the other hand] .
+[/EN#202314/people An older man] with [/EN#202315/bodyparts a long beard] , wearing [/EN#202317/clothing a white shirt] about to [/EN#202320/other eat] .
+[/EN#202314/people A man] with [/EN#202315/bodyparts a beard] in [/EN#202317/clothing a white robe] about to eat [/EN#202316/other something] .
+[/EN#202314/people An old bearded man] holding [/EN#202316/other a fruit] .

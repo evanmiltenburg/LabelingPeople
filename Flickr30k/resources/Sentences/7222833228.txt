@@ -1,0 +1,5 @@
+[/EN#267202/other A young man of color] is wearing [/EN#267208/other black cleats] with [/EN#267205/clothing red socks] while [/EN#0/notvisual he] kicks [/EN#267203/other a yellow soccer ball] around .
+[/EN#267202/people A black man] wearing [/EN#267209/clothing blue shirt] and [/EN#267204/clothing shorts] with [/EN#267205/clothing red socks] kicks around [/EN#267203/other a yellow soccer ball] .
+[/EN#267202/people A man] in [/EN#267204/clothing blue shorts] kicking [/EN#267203/other a yellow ball] in front of [/EN#267206/other a goal] .
+[/EN#267202/people A young boy] is playing with [/EN#267203/other his ball] in front of [/EN#267210/scene a building] .
+[/EN#267202/people Young boy] practicing for [/EN#267207/other an upcoming soccer game] .

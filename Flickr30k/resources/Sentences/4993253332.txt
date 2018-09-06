@@ -1,0 +1,5 @@
+[/EN#226423/people This little girl] [/EN#0/notvisual who] is wearing [/EN#226424/clothing SpongeBob pajamas] while holding [/EN#226425/other a green mop] .
+[/EN#226423/people A small child] in [/EN#226424/clothing a SpongeBob outfit] is using [/EN#226425/other a mop] on [/EN#226426/scene a floor] .
+[/EN#226423/people A young girl] is cleaning [/EN#226426/scene a hardwood floor] with [/EN#226425/other a Swiffer] .
+[/EN#226423/people A girl] cleans [/EN#226426/scene the hardwood floor] with [/EN#226425/other a Swiffer] .
+[/EN#226423/people A child] wearing [/EN#226427/clothing yellow] is cleaning [/EN#226426/scene the floor] .

@@ -1,0 +1,5 @@
+[/EN#31921/people A young boy] is shoveling [/EN#31924/scene snow] so deep [/EN#0/notvisual it] comes up to [/EN#31927/bodyparts his knees] .
+[/EN#31921/people A person] in [/EN#31923/clothing a snow jacket] is shoveling [/EN#31924/scene snow] .
+[/EN#31921/people A person] shovels [/EN#31925/scene a path] during [/EN#31924/other a snowstorm] .
+[/EN#31921/people A person] in [/EN#31923/clothing a heavy coat] shoveling [/EN#31924/scene snow] .
+[/EN#31921/people A person] is shoveling [/EN#31924/scene snow] .

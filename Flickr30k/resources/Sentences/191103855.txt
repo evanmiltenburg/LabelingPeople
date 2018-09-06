@@ -1,0 +1,5 @@
+[/EN#23009/people Woman] and [/EN#23008/people older man] are walking [/EN#23013/other side-by-side] on [/EN#23011/other treadmills] in [/EN#23014/scene a fitness room] .
+[/EN#23009/people A younger woman] and [/EN#23008/people older man] are running on [/EN#23011/other treadmills] next to [/EN#0/notvisual each other] .
+[/EN#23009/people A younger woman] and [/EN#23008/people older man] run on [/EN#23010/other treadmills] .
+[/EN#23008/people An older man] and [/EN#23009/people woman] exercise on [/EN#23011/other treadmills] .
+[/EN#23012/people Two people] running on [/EN#23010/other a treadmill] inside .

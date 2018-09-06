@@ -1,0 +1,5 @@
+[/EN#89451/people Man] riding [/EN#89452/vehicles a mountain bike] doing [/EN#0/notvisual a jump] in [/EN#0/notvisual the air] .
+[/EN#89451/people A man] rides [/EN#89452/vehicles his bike] over [/EN#89453/other a bump] on [/EN#89454/scene a dirt path] .
+[/EN#89451/people A mountain biker] jumps [/EN#89453/other a rock] on [/EN#89456/scene a mountain] .
+[/EN#89451/people A man] jumping [/EN#89454/scene a dirt ramp] on [/EN#89452/vehicles a bmx bike] .
+[/EN#89451/people A bicylist] riding in [/EN#89460/scene the mountains] .

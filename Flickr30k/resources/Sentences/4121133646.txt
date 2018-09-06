@@ -1,0 +1,5 @@
+[/EN#156302/people A child] examines [/EN#156303/other a chunk of rock] through [/EN#156304/other that of a magnifying glass] .
+[/EN#156302/people A boy] in [/EN#156305/clothing a striped shirt] looks at [/EN#156303/other a rock] through [/EN#156304/other a magnifying glass] .
+[/EN#156302/people The young boy] is examining [/EN#156303/other a rock] with [/EN#156304/other his magnifying glass] .
+[/EN#156302/people A girl] in [/EN#156305/clothing a striped shirt] looking through [/EN#156304/other magnifying glass] .
+[/EN#156302/people A little boy] is looking at [/EN#156303/other a rock] with [/EN#156304/other a magnifying glass] .

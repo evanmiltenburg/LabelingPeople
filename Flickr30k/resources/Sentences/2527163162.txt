@@ -1,0 +1,5 @@
+[/EN#55395/people A child] is holding [/EN#55397/other a rod] while standing on [/EN#55399/scene a bridge] near [/EN#55400/scene a grassy area] .
+[/EN#55395/people A boy] dressed in [/EN#55396/clothing a plaid kilt] with [/EN#55398/clothing a brown hat] wields [/EN#55397/other a long pole] .
+[/EN#55395/people A young girl] dressed in [/EN#55396/clothing a uniform] is holding [/EN#55397/other a very long stick] .
+[/EN#55395/people A boy] wearing [/EN#55396/clothing a Scottish kilt] holding [/EN#55397/other a large stick]
+[/EN#55395/people A little boy] in [/EN#55396/clothing a kilt] is fishing with [/EN#55397/other a stick] .

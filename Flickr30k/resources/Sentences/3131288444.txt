@@ -1,0 +1,5 @@
+[/EN#95588/people A father] sitting on [/EN#95591/other a couch] while holding [/EN#95589/people his baby daughter] and [/EN#95590/people his other daughter] is smiling at [/EN#0/notvisual the camera] .
+[/EN#95588/people A man] in [/EN#95592/clothing a tan coat] holding [/EN#95589/people an infant] and [/EN#95590/people a young girl] sitting on [/EN#95591/other a brown couch] .
+[/EN#95588/people A man] in [/EN#95592/clothing a coat] holds [/EN#95589/people an infant] while [/EN#95590/people an older child] smiles at [/EN#0/notvisual the camera] .
+[/EN#95588/people A man] holds [/EN#95589/people a baby] in [/EN#95593/scene a house] while [/EN#95590/people a blond child] looks at [/EN#0/notvisual the camera] .
+[/EN#95588/people A gray-haired man] holds [/EN#95589/people a small child] while sitting on [/EN#95591/other a brown couch] .

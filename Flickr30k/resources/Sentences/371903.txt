@@ -1,0 +1,5 @@
+[/EN#139304/people Two men] sit reading [/EN#139308/other books] in [/EN#139317/scene a smoke-filled area] next to [/EN#139313/other a table] holding [/EN#139316/other sweet corn] and [/EN#139309/other raw hotdogs] .
+[/EN#139310/people A man] and [/EN#139311/people a boy] , perhaps [/EN#139310/people a father] and [/EN#139311/people son] , at [/EN#139305/other a cookout] , reading together .
+[/EN#139304/people Two men] are sitting down and reading next to [/EN#139306/other a table] with [/EN#139309/other food] on [/EN#0/notvisual it] .
+[/EN#139304/people Two people] are sitting and reading [/EN#139308/other books] at [/EN#139305/other a cookout] .
+[/EN#139304/people two men] sitting in [/EN#139307/other chairs] outside near [/EN#139314/other food] reading .

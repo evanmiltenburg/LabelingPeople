@@ -1,0 +1,5 @@
+[/EN#3869/people A man] without [/EN#3873/clothing a shirt] on is guiding [/EN#3871/animals a large brown horse] pulling [/EN#3870/vehicles a green and yellow wagon] .
+[/EN#3869/people The shirtless man] is walking [/EN#3871/animals the Shetland pony] and [/EN#3870/vehicles carriage] down [/EN#3872/scene the street] .
+[/EN#3869/people A shirtless man] escorts [/EN#3871/animals a horse] pulling [/EN#3870/vehicles a carriage] along [/EN#3872/scene a paved road] .
+[/EN#3869/people Shirtless man] leading [/EN#3870/vehicles a small horse-drawn covered wagon] down [/EN#3872/scene a road]
+[/EN#3869/people A shirtless man] leading [/EN#3871/animals a horse] [/EN#0/notvisual that] is pulling [/EN#3870/vehicles a carriage] .

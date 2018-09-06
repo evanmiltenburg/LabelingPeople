@@ -1,0 +1,5 @@
+[/EN#202018/people A group of people] , including [/EN#202015/people a man] on [/EN#202016/vehicles a bicycle] , on [/EN#202017/scene the waterfront] .
+[/EN#202015/people A boy] in [/EN#202021/clothing a lavender shirt] sits on [/EN#202016/vehicles his bike] on [/EN#202017/scene a large gray dock] .
+[/EN#0/notvisual There] is [/EN#202017/scene a boardwalk] by [/EN#202019/scene a body of water] ; [/EN#202015/people a man] bicycles by .
+[/EN#202017/other A large gray sea deck] and [/EN#202015/people a guy] on [/EN#202016/vehicles the bike] .
+[/EN#202015/people A man] rides [/EN#202016/vehicles his bike] on [/EN#202017/scene the boardwalk] .

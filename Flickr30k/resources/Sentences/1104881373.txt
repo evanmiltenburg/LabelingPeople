@@ -1,0 +1,5 @@
+[/EN#2634/people A woman] is at [/EN#2639/scene an ice cream shop] and [/EN#0/notvisual she] is waiting for [/EN#2633/people the man] to scoop [/EN#2635/other her ice cream] .
+[/EN#2634/people A woman] is awaiting [/EN#2635/other her ice cream] as [/EN#2633/people a young teenage boy] scoops [/EN#0/notvisual it] .
+[/EN#2634/people A woman] is watching as [/EN#2633/people a guy] is scooping [/EN#2636/other ice cream] from [/EN#2638/other a freezer] .
+[/EN#2633/people A man] scoops out [/EN#2636/other ice cream] for [/EN#2634/people a female customer] in [/EN#2637/other a cafe] .
+[/EN#2634/people A woman] watches as [/EN#2633/people a young man] scoops [/EN#2636/other ice cream] for [/EN#0/notvisual her] .

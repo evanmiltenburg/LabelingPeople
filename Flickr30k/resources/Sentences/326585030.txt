@@ -1,0 +1,5 @@
+[/EN#105596/people A man] steers [/EN#105597/vehicles/scene a boat] through [/EN#105598/scene the canal] lined with [/EN#105599/scene colorful houses] with [/EN#105600/scene red roofs] .
+[/EN#105596/people A man] drives [/EN#105597/vehicles/scene a boat] along [/EN#105598/scene a waterway] lined with [/EN#105601/other apartments] .
+[/EN#105596/people a man] driving [/EN#105597/vehicles/scene a blue boat] passes by [/EN#105599/scene some colorful houses] .
+[/EN#105596/people A man] steers [/EN#105597/vehicles/scene a blue boat] past [/EN#105599/scene brightly colored houses] .
+[/EN#105596/people A person] on [/EN#105597/vehicles/scene a boat] in [/EN#105598/scene a canal] .

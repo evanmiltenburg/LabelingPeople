@@ -1,0 +1,5 @@
+[/EN#153823/people A man] wearing [/EN#153825/clothing a yellow hat] and [/EN#153831/people sunglasses peers] around [/EN#153826/other the side of a sailboat] while sailing on [/EN#153828/scene the water] .
+[/EN#153823/people A man] , in [/EN#153825/clothing a yellow baseball cap] and [/EN#153827/clothing sunglasses] , is aboard [/EN#153824/vehicles/scene some sort of boat] on [/EN#153828/scene the water] .
+[/EN#153823/people A man] in [/EN#153825/clothing a yellow cap] and [/EN#153829/clothing a red-sleeved jersey] adjusts [/EN#153830/other the sail] on [/EN#153826/other a sailboat] .
+[/EN#153823/people A man] with [/EN#153827/clothing glasses] and [/EN#153825/clothing a hat] on steering [/EN#153824/vehicles/scene a boat] in [/EN#153832/scene the sea] .
+[/EN#153823/people A man] wearing [/EN#153827/clothing sunglasses] and [/EN#153825/clothing a yellow hat] is on [/EN#153824/vehicles/scene a boat] .

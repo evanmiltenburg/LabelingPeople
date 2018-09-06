@@ -1,0 +1,5 @@
+[/EN#175550/people A woman] is walking towards [/EN#175557/scene the subway entrance] during [/EN#175552/other the nighttime hours] .
+[/EN#175550/people A young woman] is about to descend [/EN#175556/other the stairs] into [/EN#175554/other a metro station] .
+[/EN#175550/people A woman] in [/EN#175553/clothing all black] going into [/EN#175551/vehicles/scene a subway] during [/EN#175552/other nighttime] .
+[/EN#175550/people A person] in [/EN#175558/clothing dark clothes] is walking down to [/EN#175551/vehicles/scene the subway] .
+[/EN#175550/people A person] walks into [/EN#175551/vehicles/scene a subway] at [/EN#175555/scene night] .

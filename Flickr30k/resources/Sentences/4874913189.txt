@@ -1,0 +1,5 @@
+[/EN#213831/animals Two dogs] are tied up outside [/EN#213833/scene a shop] , with [/EN#213832/vehicles a bicycle] leaning against [/EN#213836/scene the wall of the shop] .
+[/EN#213831/animals Two white dogs] are looking out into [/EN#213834/scene the street] and are sitting next to [/EN#213832/vehicles a white bicycle] .
+[/EN#213831/animals Two dogs] , [/EN#0/notvisual that] are tied to [/EN#213833/scene the building] , patiently wait for [/EN#213837/people their master] to return .
+[/EN#213831/animals Two puppies] are sitting together next to [/EN#213832/vehicles a bike] on [/EN#213835/clothing black] tiled flooring .
+[/EN#213831/animals Two dogs] are sitting on [/EN#213834/scene a sidewalk] .

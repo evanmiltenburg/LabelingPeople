@@ -1,0 +1,5 @@
+[/EN#69934/people A man] wearing [/EN#69937/clothing a white shirt] stands on [/EN#69935/scene a balcony] and cleans [/EN#69936/other the railing] with [/EN#69938/other a yellow rag] .
+[/EN#69934/people A woman] in [/EN#69937/clothing a white t-shirt] and [/EN#69941/clothing gold necklace] cleaning [/EN#69936/other a rail] with [/EN#69938/other a yellow towel] .
+[/EN#69934/people A woman] with [/EN#69937/clothing a white top] with [/EN#69940/other design] on [/EN#69942/scene the front] cleaning [/EN#69936/other the white railing] .
+[/EN#69934/people A woman] dressed in [/EN#69937/clothing a white shirt] is cleaning [/EN#69935/scene a balcony] with [/EN#69938/other a yellow cloth] .
+[/EN#69934/people A woman] with [/EN#69943/bodyparts short brown hair] is wiping [/EN#69936/other a railing] with [/EN#69938/other a yellow towel] .

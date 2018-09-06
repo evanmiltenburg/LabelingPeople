@@ -1,0 +1,5 @@
+[/EN#257725/people A snowboarder] is flying in [/EN#0/notvisual the air] attempting to land on [/EN#257729/other a snow mound] .
+[/EN#257722/people The skier] went airborne after [/EN#0/notvisual the jump] marked by [/EN#257726/other the blue flag] .
+[/EN#257722/people A skier] is going off [/EN#0/notvisual a jump] on [/EN#257728/other a slope] , and is in [/EN#257724/scene midair] .
+[/EN#257722/people A person] is skiing down [/EN#257727/scene a icy hill] wearing [/EN#257730/other safety gear] .
+[/EN#257722/people A person] on [/EN#257731/other skis] jumps through [/EN#0/notvisual the air] .

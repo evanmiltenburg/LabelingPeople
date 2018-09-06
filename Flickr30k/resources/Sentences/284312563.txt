@@ -1,0 +1,5 @@
+[/EN#76290/people A man] in [/EN#76301/clothing a dark jacket] sits at [/EN#76296/other a table] with [/EN#76300/other a blue tablecloth] smiling at [/EN#76297/people a woman] in [/EN#76293/clothing a green shirt] with [/EN#76292/clothing a black zipper vest] .
+[/EN#76290/people A man] in [/EN#76291/clothing a hat] and [/EN#76297/people a woman] in [/EN#76293/clothing a green shirt] and [/EN#76292/clothing blue vest] sit at [/EN#76296/other a restaurant table] reading [/EN#76294/other the menu] .
+[/EN#76290/people A man] and [/EN#76297/people women] are out at [/EN#76298/other Farmosa] looking at [/EN#76294/other menus] as [/EN#0/notvisual they] chat .
+[/EN#76290/people A man] in [/EN#76291/clothing a baseball hat] is talking to [/EN#76297/people a woman] at [/EN#76295/scene a restaurant]
+[/EN#76299/people Two people] sitting at [/EN#76296/other a table] in [/EN#76295/scene a restaurant] .

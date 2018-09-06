@@ -1,0 +1,5 @@
+[/EN#101594/people A man] in [/EN#101595/clothing a bright green shirt] with [/EN#101598/clothing a baseball hat] is in [/EN#101596/scene a high reach] cutting down [/EN#101597/other a tree] .
+[/EN#101594/people A man] in [/EN#101595/clothing a neon shirt] is cutting down [/EN#101597/other a tree] with [/EN#101599/other a chainsaw] from [/EN#101602/vehicles a bucket truck] .
+[/EN#101594/people A utility worker] in [/EN#101600/other a hydraulic lift bucket] is cutting down [/EN#101597/other a tree] .
+[/EN#101594/people A logger] cutting down [/EN#101597/other a large tree trunk] in [/EN#101601/other barren woods] .
+[/EN#101594/people the man] in [/EN#101596/scene the crane] is cutting [/EN#101597/other the tree] down .

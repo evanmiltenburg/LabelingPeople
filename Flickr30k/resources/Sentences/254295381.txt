@@ -1,0 +1,5 @@
+[/EN#57064/animals A dog] leaps onto [/EN#57065/other the red roof of the doghouse] .
+[/EN#57064/animals A dog] has [/EN#57067/bodyparts his paw] on [/EN#57065/scene the red roof of a kennel] .
+[/EN#57064/animals A dog] jumps over [/EN#57066/other the top of an obstacle] .
+[/EN#57064/animals A black dog] at [/EN#57066/other the top of a red incline] .
+[/EN#57064/animals A black and brown dog] stands on [/EN#57065/scene a roof] .

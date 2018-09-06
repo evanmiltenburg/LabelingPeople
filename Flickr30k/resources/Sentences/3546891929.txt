@@ -1,0 +1,5 @@
+[/EN#126531/people A man] wearing [/EN#126532/clothing a red bicycle helmet] talking on [/EN#126533/other a cellphone] with [/EN#126535/people other people] in [/EN#0/notvisual the background] .
+[/EN#126531/people A man] in [/EN#126532/clothing a bicycle helmet] is talking on [/EN#126533/other a cellphone] with [/EN#126535/people other people] behind [/EN#0/notvisual him] .
+[/EN#126531/people A man] with [/EN#126532/clothing a bicycle helmet] on is using [/EN#126533/other a cellphone] in [/EN#126535/people the midst of a crowd] .
+[/EN#126531/people A man] in [/EN#126534/clothing a plaid shirt] with [/EN#126532/clothing a red and black bike helmet] on [/EN#126533/other his cellphone] .
+[/EN#126531/people A man] in [/EN#126532/clothing a helmet] holding [/EN#126533/other a cellphone] .

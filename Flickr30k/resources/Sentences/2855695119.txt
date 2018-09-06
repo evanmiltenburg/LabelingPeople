@@ -1,0 +1,5 @@
+[/EN#76993/animals A brown dog] is standing in [/EN#76994/scene a river] with [/EN#76996/bodyparts its head] turned looking behind .
+[/EN#76993/animals A brown and white dog] goes into [/EN#76994/scene water] while looking back .
+[/EN#76993/animals A white dog] with [/EN#76995/scene brown spots] standing in [/EN#76994/scene water] .
+[/EN#76993/animals The brown and white dog] is in [/EN#76994/scene the water] .
+[/EN#76993/animals A very wet dog] in [/EN#76994/scene a river] .

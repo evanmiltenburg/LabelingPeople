@@ -1,0 +1,5 @@
+[/EN#227559/animals A dog] swims in [/EN#227562/scene the water] with [/EN#227560/other a tennis ball] in [/EN#227561/bodyparts his mouth] .
+[/EN#227559/animals A black dog] in [/EN#227562/scene the water] with [/EN#227560/other a tennis ball] in [/EN#227561/bodyparts his mouth] .
+[/EN#227559/animals A black dog] is swimming with [/EN#227560/other a tennis ball] in [/EN#227561/bodyparts its mouth] .
+[/EN#227559/animals A black dog] with [/EN#227560/other a ball] in [/EN#227561/bodyparts its mouth] swims in [/EN#227562/scene the water] .
+[/EN#227559/animals A black dog] is swimming with [/EN#227560/other a ball] in [/EN#227561/bodyparts its mouth] .

@@ -1,0 +1,5 @@
+[/EN#96002/people Someone] with [/EN#96006/clothing a pointed hat] walking down [/EN#96003/scene the street] carrying [/EN#96004/other many baskets] .
+[/EN#96002/people A man] is walking down [/EN#96003/scene the street] with [/EN#96005/clothing Asian hats] strapped to [/EN#96007/other his back] .
+[/EN#96002/people A man] is walking down [/EN#96003/scene the street] carrying [/EN#96004/other a huge bundle of baskets] .
+[/EN#96002/people A person] carrying [/EN#96004/other many baskets] walking down [/EN#96003/scene the street] .
+[/EN#96002/people A basket vendor] walking down [/EN#96003/scene a busy city street] .

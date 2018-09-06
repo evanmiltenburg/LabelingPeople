@@ -1,0 +1,5 @@
+[/EN#77990/people Three men] stand together smiling , while [/EN#77989/other one] is playing [/EN#77989/people Guitar Hero] and [/EN#77990/other the others] are enjoying [/EN#77991/other a beverage] .
+[/EN#77990/people Three men] standing while [/EN#77989/other one] plays [/EN#77989/people Guitar Hero] and [/EN#0/notvisual another] drinks [/EN#77991/other a beer] .
+[/EN#77990/people The three men] are talking and enjoying [/EN#77995/other music] and [/EN#77991/other a beverage] .
+[/EN#77990/people three men] drinking [/EN#77989/people one playing guitar hero] .
+[/EN#77990/people three men] are at [/EN#77993/other a party] nd playing [/EN#77994/other games] .

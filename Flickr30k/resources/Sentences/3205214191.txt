@@ -1,0 +1,5 @@
+[/EN#100948/people A person] in [/EN#100949/clothing a red vest] is touching [/EN#100950/other the blue ice skates] on [/EN#100951/people another person] .
+[/EN#100951/people Skier] on [/EN#100954/scene a snowy hill] has [/EN#100950/clothing his boots] check by [/EN#100948/people a red-vested man]
+[/EN#100948/people A woman] attending [/EN#0/notvisual the boots of another] in [/EN#100953/scene the snow] .
+[/EN#100948/people A lady] fastens [/EN#100950/other someone 's ice skates] in [/EN#100953/scene the snow] .
+[/EN#100948/people A woman] fixes [/EN#100950/clothing someone 's shoes] .

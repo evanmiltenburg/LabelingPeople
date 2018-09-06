@@ -1,0 +1,5 @@
+[/EN#209573/people A man] in [/EN#209574/clothing an Otis uniform] strides across [/EN#209576/scene a crosswalk] .
+[/EN#209573/people The person] in [/EN#209574/clothing green dress] is crossing [/EN#209577/other the signal] .
+[/EN#209573/people A man] in [/EN#209574/clothing a uniform] is crossing [/EN#209575/scene a street] .
+[/EN#209573/people A man] in [/EN#209574/clothing a uniform] crossing [/EN#209575/scene a street] .
+[/EN#209573/people Working man] crossing [/EN#209575/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#185442/people A man] with [/EN#185444/clothing glasses] and [/EN#185447/bodyparts a mustache] scrapes paint off [/EN#185443/other the outside of a windowsill] .
+[/EN#185442/people A man] with [/EN#185444/clothing glasses] is peeling [/EN#185445/other the paint] off of [/EN#185443/other a window pane] .
+[/EN#185442/people A man] is repairing [/EN#185443/other a broken window frame] .
+[/EN#185442/people A man] is scrapping [/EN#185445/other paint] off [/EN#185443/other a window] .
+[/EN#185442/people A man] is trying to repair [/EN#185445/other a window] .

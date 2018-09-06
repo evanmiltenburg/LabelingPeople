@@ -1,0 +1,5 @@
+[/EN#255397/people One gentleman] in [/EN#255402/clothing a hat] and off [/EN#255406/clothing white shirt] is chatting with [/EN#255400/people another gentleman] in [/EN#255399/clothing a black shirt] while [/EN#0/notvisual they] are sipping [/EN#255403/other hot drinks] .
+[/EN#255400/people man] with [/EN#255402/clothing green hat] and [/EN#255406/clothing white shirt] having [/EN#255405/other tea] with [/EN#255400/people a man] wearing [/EN#255399/clothing a black hooded jacket] and [/EN#255410/clothing glasses] .
+[/EN#255398/people Two foreign men] have [/EN#255411/other teacups] in [/EN#255412/bodyparts hands] and are looking [/EN#0/notvisual each other] in [/EN#255413/bodyparts the eye] .
+[/EN#255398/people Two older gentlemen] having [/EN#255405/other coffee or tea] and [/EN#255408/other a serious discussion] .
+[/EN#255397/people A man] in [/EN#255402/clothing a green beret] enjoying [/EN#255404/other espresso] with [/EN#255400/people a friend] .

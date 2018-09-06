@@ -1,0 +1,5 @@
+[/EN#200825/scene A city street] has parked [/EN#200833/other cards] on [/EN#0/notvisual one side of it] and [/EN#0/notvisual there] are [/EN#200826/people people] walking in [/EN#200825/scene the street] , as well as [/EN#200834/people people] walking on [/EN#200831/scene the sidewalk] .
+[/EN#200826/people People] are walking down [/EN#200825/scene a narrow street] [/EN#0/notvisual that] is lined with [/EN#200827/vehicles cars] .
+[/EN#200827/vehicles Seven vehicles] parked on [/EN#200828/scene one side of a small street] .
+[/EN#200825/scene Birds eye view of a one lane street] in [/EN#200830/scene the city] .
+[/EN#200826/people People] walking on [/EN#200825/scene a one way urban street] .

@@ -1,0 +1,5 @@
+[/EN#68109/animals A black and white dog] playing with [/EN#68110/other a white ball] in [/EN#68111/scene a sparse brown field] .
+[/EN#68109/animals A black and white dog] plays with [/EN#68110/other a tattered volleyball] in [/EN#68111/scene a brown field] .
+[/EN#68109/animals A black and white dog] is playing with [/EN#68110/other a ball] [/EN#0/notvisual that] has [/EN#68112/scene a tear] in [/EN#0/notvisual it] .
+[/EN#68109/animals A black and white dog] playing with [/EN#68110/other a broken volleyball]
+[/EN#68109/animals Dog] playing with [/EN#68110/other ball] in dried up [/EN#68111/scene field]

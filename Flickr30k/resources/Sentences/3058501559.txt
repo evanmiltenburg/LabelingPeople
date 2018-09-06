@@ -1,0 +1,5 @@
+[/EN#90783/animals A cute little brown dog] with [/EN#90784/bodyparts a curly tail] , dressed in [/EN#90785/clothing sweater] and [/EN#90786/clothing hat] , stands in [/EN#90789/other the shade] of [/EN#90787/other a rainbow-striped beach chair] , [/EN#90788/bodyparts his chew bone] laying nearby .
+[/EN#90783/animals A dog] wearing [/EN#90785/clothing a t-shirt] is standing on [/EN#0/notvisual the ground] in front of [/EN#90787/other a lawn chair] .
+[/EN#90783/animals A dog] wearing [/EN#90785/clothing a t-shirt] and [/EN#90786/clothing a hat] is standing in [/EN#90791/other the shade] .
+[/EN#90783/animals A dog] in [/EN#90785/clothing clothes] is sitting smiling at [/EN#0/notvisual the camera] .
+[/EN#90783/animals a dog] chained to [/EN#90787/other a chair] with [/EN#90785/clothing a shirt] and [/EN#90786/clothing hat] on .

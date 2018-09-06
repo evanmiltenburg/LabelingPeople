@@ -1,0 +1,5 @@
+[/EN#136318/people A husky middle-aged man] , with [/EN#136320/clothing a black shirt] [/EN#0/notvisual that] says [/EN#136323/other " got music] " , and [/EN#136319/clothing a cowboy hat] , plays [/EN#136321/instruments a guitar] .
+[/EN#136318/people A man] wearing [/EN#136319/clothing a big white hat] and [/EN#136320/clothing a logo t-shirt] is playing [/EN#136321/instruments guitar] and singing .
+[/EN#136318/people A man] in [/EN#136319/clothing a white cowboy hat] and [/EN#136320/clothing a red shirt] is singing and playing [/EN#136321/instruments the guitar] .
+[/EN#136318/people A man] sings into [/EN#136322/other a microphone] while holding [/EN#136321/instruments a guitar] .
+[/EN#136318/people A man] with [/EN#136321/instruments a guitar] sings into [/EN#136322/other a microphone] .

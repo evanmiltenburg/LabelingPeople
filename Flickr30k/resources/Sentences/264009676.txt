@@ -1,0 +1,5 @@
+[/EN#63230/people Two men] in [/EN#63234/scene the grocery store] looking at [/EN#63231/other orange juice] and speaking to [/EN#0/notvisual each other] .
+[/EN#63232/people A few people] are observing [/EN#63231/scene the orange juice section] at [/EN#63235/scene the grocery store] .
+[/EN#63232/people Three people] standing in [/EN#63231/scene the refrigerated juice aisle of a store] .
+[/EN#63230/people Two men] looking at [/EN#63231/other a stack of various orange juice jugs] .
+[/EN#63230/people Two men] are shopping for [/EN#63231/other orange juice] .

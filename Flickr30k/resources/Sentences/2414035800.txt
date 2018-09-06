@@ -1,0 +1,5 @@
+[/EN#47667/people A woman] in [/EN#47674/clothing a gray sweatshirt] is sitting on [/EN#47673/scene the floor] with [/EN#47668/animals her small dog] [/EN#0/notvisual that] is wrapped in [/EN#47670/other a blanket] .
+[/EN#47668/animals A newly bathed dog] is wrapped in [/EN#47670/other a blanket] by [/EN#47667/people a caring woman] .
+[/EN#47667/people A woman] is using [/EN#47670/other a white towel] to dry [/EN#47668/animals her dog] in [/EN#47669/scene a bathroom] .
+[/EN#47667/people The lady] pat [/EN#47668/animals her dog] to dry after giving [/EN#0/notvisual it] [/EN#47672/other a warm bath] .
+[/EN#47667/people Woman] dries off [/EN#47668/animals her small dog] in [/EN#47669/scene a bathroom] .

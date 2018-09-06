@@ -1,0 +1,5 @@
+[/EN#50691/animals A black , shaggy-haired dog] is playing with [/EN#50694/animals a brown and white , fluffy dog] on [/EN#50692/other the gravel] .
+[/EN#50691/animals A black animal] and [/EN#50693/animals a white animal] in [/EN#50698/other motion] in [/EN#50697/scene close quarters] .
+[/EN#50691/animals A black dog] and [/EN#50693/animals a white dog] play in [/EN#50692/scene the street] together .
+[/EN#50691/animals A black dog] and [/EN#50693/animals a white dog] playing in [/EN#50692/scene the street] .
+[/EN#50694/animals Two dogs] are playing together on [/EN#50692/scene the pavement] .

@@ -1,0 +1,5 @@
+[/EN#83157/people Man] dressed in [/EN#83161/clothing black suit] and [/EN#83164/other tie reads] [/EN#83158/other a book] while waiting on [/EN#83159/vehicles/scene the subway] .
+[/EN#83157/people A man] wearing [/EN#83163/clothing sunglasses] is standing on [/EN#83159/vehicles/scene a metro train] reading [/EN#83158/other a book] .
+[/EN#83157/people A man] on [/EN#83159/vehicles/scene the subway] holds [/EN#83162/clothing his bags] and looks at [/EN#83158/other a book] .
+[/EN#83157/people A businessman] is reading on [/EN#83159/vehicles/scene a subway]
+[/EN#83157/people A man] reads [/EN#83158/other a book] on [/EN#83160/vehicles/scene the subway] .

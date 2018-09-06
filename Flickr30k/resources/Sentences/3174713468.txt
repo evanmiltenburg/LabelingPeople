@@ -1,0 +1,5 @@
+[/EN#98335/animals A dog] jumping up for [/EN#98337/other a ball] held by [/EN#98336/people a woman] in [/EN#98339/clothing black skirt] , [/EN#98340/clothing beige vest] and [/EN#98341/clothing blue shirt]
+[/EN#98335/animals A dog] jumps up to take [/EN#98337/other something] from [/EN#98338/bodyparts a woman 's hand] .
+[/EN#98336/people The woman] places [/EN#98337/other a ball] into [/EN#98334/bodyparts the jumping dog 's mouth] .
+[/EN#98336/people A woman] holds [/EN#98337/other a ball] while [/EN#98335/animals a dog] leaps for [/EN#0/notvisual it] .
+[/EN#98336/people A woman] holding [/EN#98337/other a ball] and [/EN#98335/animals a dog]

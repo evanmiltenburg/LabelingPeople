@@ -1,0 +1,5 @@
+[/EN#80929/people A man] with [/EN#80934/other a race number] on [/EN#80935/clothing his shirt] running with [/EN#80931/people a little girl] in [/EN#80932/other a stroller] .
+[/EN#80929/people Man] in jogging [/EN#80933/clothing attire] pushing [/EN#80931/people child] in jogging [/EN#80932/other stroller] on [/EN#80930/scene the beach] .
+[/EN#80929/people A man] in [/EN#80936/other runner 's gear] is pushing [/EN#80932/other a stroller] down [/EN#80930/scene the beach] .
+[/EN#80929/people A man] in [/EN#80933/clothing running clothes] pushes [/EN#80932/other a stroller] on [/EN#80930/scene the beach] .
+[/EN#80929/people A man] is jogging with [/EN#80931/people his baby] in [/EN#80932/other a stroller] .

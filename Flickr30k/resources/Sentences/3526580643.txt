@@ -1,0 +1,5 @@
+[/EN#124930/people A man] in [/EN#124932/clothing a blue shirt] with [/EN#124934/other a name tag] around [/EN#124941/bodyparts his neck] is standing next to [/EN#124931/scene a bar] , while [/EN#124930/people a man] stands next to [/EN#0/notvisual him] in [/EN#124932/clothing a tan shirt] is on [/EN#124937/other his cellphone] .
+[/EN#124930/people A man] named [/EN#124935/other Luke] , wearing [/EN#124932/clothing a light blue shirt] and [/EN#124934/other a name tag] is photographed from [/EN#124939/scene overhead] as [/EN#0/notvisual he] stands leaning against [/EN#124931/scene the bar] .
+[/EN#124930/people The man] in [/EN#124932/clothing the blue shirt] standing by [/EN#124931/scene the bar] is wearing [/EN#124934/other a name tag] .
+[/EN#124930/people A man] in [/EN#124932/clothing blue shirt] talking with [/EN#124938/people his friends] in [/EN#124931/scene a bar] .
+[/EN#124930/people A man] in [/EN#124932/clothing blue shirt] is staring on [/EN#124940/other something] .

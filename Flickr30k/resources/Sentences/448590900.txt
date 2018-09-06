@@ -1,0 +1,5 @@
+[/EN#172420/animals A brown dog] is sniffing around [/EN#172421/scene green grass] on [/EN#172421/scene a hill] .
+[/EN#172420/animals A dog] with [/EN#172424/clothing a red harness] tracks [/EN#172425/other a scent] in [/EN#172422/scene a field] .
+[/EN#172420/animals A dog] stands in [/EN#172422/scene a large , grassy field] .
+[/EN#172420/animals A dog] walks alone in [/EN#172422/scene a field] .
+[/EN#172420/animals A dog] is digging [/EN#172422/scene a field] .

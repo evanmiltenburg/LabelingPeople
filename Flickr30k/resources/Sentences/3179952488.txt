@@ -1,0 +1,5 @@
+[/EN#98878/people A group of adults] gather for [/EN#98882/other a picture] in front of [/EN#98879/scene a brick house] .
+[/EN#98883/scene A medium] sized [/EN#98878/people group of people] pose in front of [/EN#0/notvisual the camera] .
+[/EN#98878/people a large group of people] posing together [/EN#98881/scene outside of a house] .
+[/EN#98880/other A large group portrate] outside of [/EN#98879/scene a small office building] .
+[/EN#98878/people A group of people] are posing for [/EN#98885/other a picture] .

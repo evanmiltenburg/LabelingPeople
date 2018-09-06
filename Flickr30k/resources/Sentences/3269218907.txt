@@ -1,0 +1,5 @@
+[/EN#105799/people An older man] with [/EN#105812/bodyparts a mustache] wearing [/EN#105808/clothing blue jeans] , [/EN#105804/clothing a black belt] , [/EN#105809/clothing red short-sleeve shirt] and [/EN#105802/clothing a hat] is looking at [/EN#105800/other a book] by [/EN#105801/people a yong boy] wearing [/EN#105806/clothing a navy shirt] and [/EN#105802/clothing hat] [/EN#0/notvisual who] is probably taking [/EN#105803/other a picture] or looking through [/EN#105807/other binoculars] .
+[/EN#105799/people A man] standing looking at [/EN#105800/other a book] and [/EN#105801/people a boy] sitting and holding [/EN#105810/other something] .
+[/EN#105799/people Man] stands on [/EN#105805/other a deck] reading [/EN#105800/other a book] , while wearing [/EN#105802/clothing a fishing hat] .
+[/EN#105799/people A man] and [/EN#105801/people a boy] out taking [/EN#105803/other pictures of a wild life] .
+[/EN#105799/people A man] and [/EN#105801/people woman] are birdwatching .

@@ -1,0 +1,5 @@
+[/EN#96859/people A man] in [/EN#96860/clothing a gray shirt] is in [/EN#0/notvisual the air] with [/EN#96862/bodyparts his tongue] sticking out while playing with [/EN#96861/instruments a video game guitar] .
+[/EN#96859/people A male] playing [/EN#96861/instruments a miniature guitar] jumping in [/EN#0/notvisual the air] with [/EN#96862/bodyparts his tongue] sticking out .
+[/EN#96859/people Young man] in [/EN#96860/clothing a gray sweatshirt] playing [/EN#96864/other a guitar video game] .
+[/EN#96859/people The man] in [/EN#96865/other the apartment] is holding [/EN#96861/instruments a guitar hero guitar] .
+[/EN#96859/people Man] pretending to be [/EN#96859/people a rock star] .

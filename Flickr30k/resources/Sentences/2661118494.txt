@@ -1,0 +1,5 @@
+[/EN#64620/people A woman] in [/EN#64621/clothing a blue plaid shirt] and [/EN#64626/clothing white apron] cooks [/EN#64624/other food] in [/EN#64623/other a pot] next to [/EN#64625/other vegetables] and [/EN#64622/other rice] .
+[/EN#64620/people A woman] wearing [/EN#64621/clothing a blue checkered shirt] scoops [/EN#64622/other food] from [/EN#64623/other a pot] .
+[/EN#64620/people A person] in [/EN#64621/clothing a blue shirt] is serving [/EN#64622/other a meal] .
+[/EN#64620/people Someone] is cooking [/EN#64622/other a meal] .
+[/EN#64620/people A person] is cooking [/EN#64622/other food] .

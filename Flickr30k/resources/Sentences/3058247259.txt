@@ -1,0 +1,5 @@
+[/EN#90760/people A guy] wearing [/EN#90762/clothing a black shirt] and [/EN#90765/clothing jeans] , sitting on [/EN#90761/other a couch] , with [/EN#90766/animals multicolored butterflies] on [/EN#90764/other the wall] behind [/EN#0/notvisual him] .
+[/EN#90760/people A man] sitting on [/EN#90761/other a bed] focusing on [/EN#90768/other something] on [/EN#90769/bodyparts his lap] with [/EN#90764/other a wall] full of [/EN#90766/animals paper butterflies] behind [/EN#0/notvisual him] .
+[/EN#90760/people A man] in [/EN#90762/clothing a black shirt] and [/EN#90765/clothing jeans] is working on [/EN#90763/other a blue piece of fabric] .
+[/EN#90760/people A man] in [/EN#90762/clothing a brown shirt] and [/EN#90763/other jeans mends] [/EN#90763/other a blanket] .
+[/EN#90760/people A man] repairs [/EN#90763/scene his bed sheets] .

@@ -1,0 +1,5 @@
+[/EN#87499/people Person] in [/EN#87501/clothing red-checked jacket] with [/EN#87504/clothing fur collar] and [/EN#87500/clothing dark stocking cap] with [/EN#87500/bodyparts head] bowed .
+[/EN#87499/people A young boy or girl] wearing [/EN#87501/clothing a red jacket] with [/EN#87504/other fur] and [/EN#87500/clothing a blue hat] is looking down .
+[/EN#87499/people A child] is taking [/EN#87503/other a picture] with [/EN#87500/clothing a gray winter cap] on [/EN#87500/bodyparts their head] b
+[/EN#87499/people A young boy] with [/EN#87500/clothing a blue beanie] has [/EN#87500/bodyparts his head] down .
+[/EN#87499/people A child] is wearing [/EN#87500/clothing a blue knitted hat] .

@@ -1,0 +1,5 @@
+[/EN#34462/people A man] wearing [/EN#34465/clothing sunglasses] and [/EN#34463/clothing a blue jacket] with [/EN#34468/other a patch of the Korean flag] on [/EN#34463/clothing the left side of the jacket] is sitting in [/EN#34464/vehicles a car] , asleep .
+[/EN#34462/people A man] wearing [/EN#34469/clothing a seat belt] and [/EN#34465/clothing sunglasses] rests [/EN#34470/bodyparts his head] at [/EN#34467/scene an angle] inside [/EN#34464/vehicles a vehicle] .
+[/EN#34462/people A Korean man] in [/EN#34463/clothing a blue jacket] and [/EN#34465/clothing sunglasses] is sleeping in [/EN#34464/vehicles a car] .
+[/EN#34462/people A man] in [/EN#34466/clothing a blue shirt] and [/EN#34465/clothing glasses] is sleeping in [/EN#34464/vehicles the car] .
+[/EN#34462/people A man] wearing [/EN#34465/clothing sunglasses] is asleep in [/EN#34464/vehicles the car] .

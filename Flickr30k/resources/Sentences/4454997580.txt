@@ -1,0 +1,5 @@
+[/EN#169987/people A woman] wearing [/EN#169990/clothing a silver jacket] and [/EN#169994/clothing blue jeans] is holding [/EN#169997/bodyparts hands] with [/EN#169985/people a young child] wearing [/EN#169993/clothing a red ski cap] while walking through [/EN#169992/other a carnival] .
+[/EN#169985/people A boy] in [/EN#169991/clothing a blue jacket] points [/EN#169996/other something] out to [/EN#169987/people his mother] , also wearing [/EN#169990/clothing a jacket] , as [/EN#0/notvisual they] walk through [/EN#169988/scene a colorful carnival scene] .
+[/EN#169986/people A child] is gesturing towards [/EN#169989/other a game] while walking with [/EN#169987/people his mother] .
+[/EN#169986/people A young boy] with [/EN#169987/people his mum] going [/EN#169995/scene home] after playing [/EN#169989/other toy games] .
+[/EN#169987/people A woman] and [/EN#169986/people a boy] walk around [/EN#169988/scene a fair] .

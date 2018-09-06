@@ -1,0 +1,5 @@
+[/EN#173577/people A young man] is riding [/EN#173578/vehicles his bike] on [/EN#173583/scene a ramp] [/EN#0/notvisual that] is placed within [/EN#173581/scene a fenced area] .
+[/EN#173577/people A young man] is performing [/EN#173584/other a stunt] on [/EN#173578/vehicles his BMX bicycle] .
+[/EN#173577/people A bicyclist] skids along [/EN#173580/other the edge of a quarter circle] .
+[/EN#173577/people A young person] is doing [/EN#0/notvisual a trick] on [/EN#173578/vehicles a bike] .
+[/EN#173577/people A young boy] riding [/EN#173578/vehicles a dirt bike] on [/EN#173582/scene a ramp] .

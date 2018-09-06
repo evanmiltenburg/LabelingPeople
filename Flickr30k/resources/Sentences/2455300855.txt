@@ -1,0 +1,5 @@
+[/EN#50884/people A man] eats from [/EN#50885/other a disposable plate] while [/EN#50886/animals two dogs] beg for [/EN#50887/other his food] and [/EN#50888/people two women] sitting [/EN#50893/other nearby look] at [/EN#0/notvisual one another] .
+[/EN#50884/people The man] in [/EN#50889/clothing the blue shirt] is eating [/EN#50895/scene outside] with [/EN#50890/people his family] .
+[/EN#50888/people 2 women] are sitting and [/EN#50884/people a man] is standing while [/EN#0/notvisual he] eats .
+[/EN#50884/people Some guy] stuffing [/EN#50891/bodyparts his face] at [/EN#0/notvisual a get] together .
+[/EN#50888/people Two women] are sitting at [/EN#50892/other a table] talking .

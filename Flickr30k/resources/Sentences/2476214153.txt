@@ -1,0 +1,5 @@
+[/EN#52371/people A little boy] in [/EN#52375/clothing orange shorts] and [/EN#52374/clothing flip-flops] plays [/EN#52378/other soccer] on [/EN#52373/scene a basketball court] .
+[/EN#52371/people A boy] in [/EN#52375/clothing yellow shorts] kicks [/EN#52372/other a soccer ball] in [/EN#52373/scene a basketball court] .
+[/EN#52371/other Buy] in [/EN#52375/clothing orange shorts] and [/EN#52374/clothing flip-flops] plays with [/EN#52372/other soccer ball] .
+[/EN#52371/people Little boy] kicking [/EN#52372/other pink soccer ball] on [/EN#52373/scene a basketball court] .
+[/EN#52371/people A young boy] kicks [/EN#52372/other a ball] in [/EN#52377/other an outdoor court] .

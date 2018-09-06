@@ -1,0 +1,5 @@
+[/EN#175614/people An Asian man] wearing [/EN#175617/clothing a white shirt] and sitting on [/EN#175615/other a wood bench] playing [/EN#175616/instruments a musical instrument] with [/EN#175618/other a bow] .
+[/EN#175614/people A young man] in [/EN#175617/clothing a white shirt] is seated on [/EN#175615/other a bench] playing [/EN#175616/instruments a stringed instrument] .
+[/EN#175614/people A young man] is sitting alone in [/EN#175620/scene the dark] playing with [/EN#175616/instruments his instrument]
+[/EN#175614/people man] in [/EN#175617/clothing white shirt] sitting down practicing [/EN#175616/instruments a musical instrument] .
+[/EN#0/notvisual He] is loving [/EN#175619/other the quietness of his music] .

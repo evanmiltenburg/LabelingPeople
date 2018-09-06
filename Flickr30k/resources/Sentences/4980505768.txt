@@ -1,0 +1,5 @@
+[/EN#225699/people A woman] is dressed as [/EN#225701/clothing Snow White] and is walking with [/EN#225704/people other females] , [/EN#0/notvisual who] are also in [/EN#225703/clothing costume] .
+[/EN#225699/people A woman] dressed as [/EN#225701/clothing Snow White] walks with [/EN#225704/people other girls] in [/EN#225703/clothing costume] down [/EN#225706/scene a street] .
+[/EN#0/notvisual There] is [/EN#225702/people a parade] with [/EN#225705/people people] dressed in [/EN#225703/clothing costumes] .
+[/EN#225700/people Women] are walking , dressed in [/EN#225703/clothing bright outfits] .
+[/EN#225700/people A woman] dressed as [/EN#225701/clothing Snow White] in [/EN#225702/people a parade] .

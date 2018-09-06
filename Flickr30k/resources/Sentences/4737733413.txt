@@ -1,0 +1,5 @@
+[/EN#197264/people Woman] in [/EN#197268/clothing white outfit] with [/EN#197270/bodyparts red-hair] and [/EN#197265/vehicles hat bicycles] past [/EN#197271/scene a bike store] .
+[/EN#197264/people A woman] dressed in [/EN#197268/clothing white] riding [/EN#197266/vehicles a white bicycle] .
+[/EN#197264/people A woman] wearing [/EN#197268/clothing a white dress] riding [/EN#197266/vehicles a bicycle] .
+[/EN#197264/people A woman] wearing [/EN#197269/clothing a hat] rides [/EN#197266/vehicles a bicycle] .
+[/EN#197264/people Lady] riding [/EN#197266/vehicles a bike] in [/EN#197268/clothing a white dress] .

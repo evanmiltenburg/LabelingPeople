@@ -1,0 +1,5 @@
+[/EN#151189/animals A white dog] wearing [/EN#151190/clothing a zepra print shirt] is [/EN#151192/bodyparts nose] to [/EN#151191/bodyparts nose] with [/EN#151187/animals a black dog] wearing [/EN#151196/clothing a pink collar] .
+[/EN#151189/animals A white dog] with [/EN#151190/clothing a sweater] on and [/EN#151187/animals a black and brown dog] touching [/EN#151191/bodyparts noses] .
+[/EN#151187/animals A dog] wearing [/EN#151190/clothing a striped sweater] touches [/EN#151193/bodyparts noses] with [/EN#151187/animals another dog] .
+[/EN#151187/animals A black dachshund] sniffs [/EN#151189/animals another dog] wearing [/EN#151190/clothing a striped shirt] .
+[/EN#151194/animals Two dogs] meeting [/EN#151191/bodyparts nose] to [/EN#151192/bodyparts nose] .

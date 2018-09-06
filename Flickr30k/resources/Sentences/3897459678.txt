@@ -1,0 +1,5 @@
+[/EN#147347/people A lone person] stands in front of [/EN#147349/clothing a yellow] shingled shed like [/EN#147355/scene building] on [/EN#147348/scene an empty street] while above [/EN#0/notvisual them] sits [/EN#147357/vehicles a bike] resting on [/EN#147353/other a railing] .
+[/EN#147347/people A man] in [/EN#147350/clothing a yellow top] stand in front of [/EN#147349/other a small shack] , as viewed from [/EN#147352/other above] through [/EN#147355/other wire mesh] .
+[/EN#147347/people A man] in [/EN#147350/clothing a yellow jacket] stands in front of [/EN#147354/other a yellow hutch] .
+[/EN#147347/people A man] in [/EN#147350/clothing a yellow jacket] standing on [/EN#147348/scene the street] outside .
+[/EN#147347/people A man] is standing on [/EN#147348/scene a street] alone beneath [/EN#147351/scene a balcony] .

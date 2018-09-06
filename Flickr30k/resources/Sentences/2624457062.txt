@@ -1,0 +1,5 @@
+[/EN#62273/people An older looking man] with [/EN#62279/clothing glasses] and [/EN#62280/bodyparts a white mustache] is in front of [/EN#62274/scene an abandon building] .
+[/EN#62274/other A boarded-up] painted [/EN#62274/scene white brick building] with [/EN#62273/people a man] standing in [/EN#62278/scene front] .
+[/EN#62273/people An older man] stands outside [/EN#62275/other a old] boarded up [/EN#62274/scene building] .
+[/EN#62273/people An old man] stands in front of [/EN#62274/scene a rundown building] .
+[/EN#62273/people A man] poses in front of [/EN#62275/other a run] down [/EN#62274/scene house]

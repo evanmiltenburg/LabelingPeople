@@ -1,0 +1,5 @@
+[/EN#258829/people Two construction workers] complete [/EN#258826/other a task] near [/EN#0/notvisual the ground] while [/EN#258829/people a third worker] looks on .
+[/EN#258824/people Construction workers] with [/EN#258827/clothing safety vests] and [/EN#258828/clothing hats] are doing [/EN#258826/other repairs] in [/EN#258825/scene a tunnel] .
+[/EN#258824/people Five worker] with [/EN#258827/clothing caution vest] and [/EN#258828/clothing hard hats] on are working in [/EN#258825/scene a mine] .
+[/EN#258824/people Construction workers] are working underground .
+[/EN#258824/people Construction workers] are working on [/EN#258825/scene a scene] .

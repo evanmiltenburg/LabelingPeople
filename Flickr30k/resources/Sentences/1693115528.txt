@@ -1,0 +1,5 @@
+[/EN#18874/people A woman] sitting in [/EN#18875/scene a booth] at [/EN#18878/scene a restaurant] watching [/EN#18876/other hockey] on [/EN#18876/other a flat screen TV] .
+[/EN#18874/people A woman] is sitting at [/EN#18875/scene a booth] and watching [/EN#18876/other hockey] on [/EN#18876/other a small television] .
+[/EN#18874/people A woman] seated at [/EN#18879/other a table] is knitting and watching [/EN#18876/other a hockey game] on [/EN#18876/other tv] .
+[/EN#18874/people Woman] with [/EN#18880/other drink] in [/EN#18878/scene a restaurant] watches [/EN#18876/other hockey] on [/EN#18876/other a nearby screen] .
+[/EN#18874/people A young woman] watches [/EN#18876/other a hockey game] in [/EN#18878/scene a restaurant booth] .

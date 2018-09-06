@@ -1,0 +1,5 @@
+[/EN#261343/people A lady] in [/EN#261349/clothing a gray sweater] has [/EN#261344/other a conversation] with [/EN#261348/people three other people] at [/EN#261341/other the same table] .
+[/EN#261340/people Several people] are sitting at [/EN#261341/other tables] within [/EN#261350/scene a large classroom] having [/EN#261345/other a discussion] .
+[/EN#0/notvisual There] are [/EN#261341/other tables] full of [/EN#261340/people people] with [/EN#261346/other paperwork] [/EN#0/notvisual who] are discussing [/EN#261347/other things] .
+[/EN#261340/people A group of people] talking at [/EN#261341/other tables] .
+[/EN#261340/people Students] work together in [/EN#261340/people groups] .

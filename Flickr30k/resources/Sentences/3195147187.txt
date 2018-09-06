@@ -1,0 +1,5 @@
+[/EN#100119/animals The black and tan dog] is laying down with [/EN#100120/animals the smaller dog] jumps over [/EN#100123/other his back] .
+[/EN#100120/animals A brown dog] is jumping over [/EN#100119/animals a black dog] [/EN#0/notvisual that] is laying down on [/EN#100122/scene a patio] .
+[/EN#100119/animals A black dog] lies on [/EN#100121/scene the floor] while [/EN#100120/animals a brown dog] stands behind [/EN#0/notvisual him] .
+[/EN#100120/animals A tiger] striped [/EN#100120/animals pitbull] jumps over [/EN#100119/animals a black and brown dog] .
+[/EN#100119/animals one dog] lying down while [/EN#0/notvisual another] jumps over [/EN#0/notvisual him]

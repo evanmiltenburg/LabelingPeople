@@ -1,0 +1,5 @@
+[/EN#6043/animals A dog] is wearing [/EN#6047/other a red number] [/EN#6042/other 6] and running through [/EN#6045/scene a field of green grass] while being chased by [/EN#6044/animals a bird] .
+[/EN#6043/animals The dog] in [/EN#6048/clothing a vest] leaps in [/EN#0/notvisual the air] and [/EN#0/notvisual there] is [/EN#6044/animals a bird] flying .
+[/EN#6043/animals A dog] in [/EN#6042/other a number] [/EN#6049/clothing six jersey] is running through [/EN#6045/scene a field] .
+[/EN#6043/animals A white and tan dog] leaps through [/EN#0/notvisual the air] .
+[/EN#6043/animals A dog] is leaping through [/EN#6045/scene the grass] .

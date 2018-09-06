@@ -1,0 +1,5 @@
+[/EN#72310/people Some people] are walking and riding [/EN#72311/vehicles bikes] down [/EN#72312/scene a street] in [/EN#72317/scene a city] .
+[/EN#72313/people Pedestrians] and [/EN#72314/people bicyclists] make [/EN#72316/scene their way] down [/EN#72312/scene the street] .
+[/EN#72313/people Walkers] and [/EN#72314/people bikers] head down [/EN#72312/scene an empty New York street] .
+[/EN#72315/scene A view of the MetLife building] from [/EN#72312/scene the street] .
+[/EN#72310/people People] walking on [/EN#72312/scene the road] .

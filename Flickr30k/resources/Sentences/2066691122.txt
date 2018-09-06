@@ -1,0 +1,5 @@
+[/EN#26702/people A man] wearing [/EN#26704/clothing a black shirt] vacuums [/EN#26703/scene the grass] .
+[/EN#26702/people A man] is vacuuming [/EN#26703/scene the grass] on [/EN#26703/scene his lawn] .
+[/EN#26702/people A man] with [/EN#26705/clothing glasses] vacuuming [/EN#26703/scene his lawn] .
+[/EN#26702/people Man] using [/EN#26706/other a vacuum] on [/EN#26703/scene his lawn] .
+[/EN#26702/people A man] is vacuuming [/EN#26703/scene his yard]

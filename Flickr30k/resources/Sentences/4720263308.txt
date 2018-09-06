@@ -1,0 +1,5 @@
+[/EN#195082/people A firefighter] is walking with [/EN#195085/bodyparts his head] down on [/EN#195083/scene a street corner] .
+[/EN#195082/people A firefighter] is looking down from inside [/EN#195084/scene a scene] .
+[/EN#195082/people A firefighter] is on [/EN#195083/scene the street] looking down .
+[/EN#195082/people A firefighter] standing near [/EN#195086/other a danger sign] .
+[/EN#195082/people A fireman] is looking down at [/EN#0/notvisual the ground] .

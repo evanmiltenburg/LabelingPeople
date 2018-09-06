@@ -1,0 +1,5 @@
+[/EN#217795/people A man] in [/EN#217796/clothing a white outfit] covered with [/EN#217801/clothing red] is walking down [/EN#217797/scene the street] wearing [/EN#217802/other white face paint] .
+[/EN#217795/people A man] in [/EN#217798/bodyparts heavy makeup] and [/EN#217796/clothing a bloody shirt] is holding [/EN#217799/other a water bottle] .
+[/EN#217795/people A man] is walking in [/EN#217800/clothing black shoes] wearing [/EN#217796/clothing stained clothing] .
+[/EN#217795/people A scary dressed man] roams down [/EN#217797/scene an empty street] .
+[/EN#217795/people Man] running on [/EN#217797/scene the street] with [/EN#217798/bodyparts a painted face] .

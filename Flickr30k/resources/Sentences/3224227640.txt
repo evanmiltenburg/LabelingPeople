@@ -1,0 +1,5 @@
+[/EN#102417/animals A big brown dog] chases [/EN#102418/animals a smaller white dog] around in [/EN#102420/scene the grass] .
+[/EN#102418/animals The white and brown dog] are playing in [/EN#102420/scene the dead grass] .
+[/EN#102417/animals A terrier dog] and [/EN#102417/animals a mixed breed dog] playing .
+[/EN#102418/animals Two dogs] paying [/EN#102422/other attention] to [/EN#0/notvisual each other] .
+[/EN#102417/animals A white dog] and [/EN#102417/animals brown dog] fighting .

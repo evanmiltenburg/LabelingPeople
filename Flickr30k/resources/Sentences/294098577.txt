@@ -1,0 +1,5 @@
+[/EN#82992/people A man] is walking down [/EN#82993/scene a dirt road] with [/EN#82995/scene a shop] on [/EN#82998/scene his right] .
+[/EN#82992/people A man] in [/EN#83000/clothing a light blue sweatshirt] walks down [/EN#82993/scene a dirt path] .
+[/EN#82992/people Man] walking down [/EN#82993/scene a dirt road] with [/EN#82995/scene stores] on [/EN#0/notvisual the side] .
+[/EN#82992/people A man] walks down [/EN#82996/scene an empty street] next to [/EN#82995/scene a market] .
+[/EN#82992/people A man] on [/EN#82993/scene a dirt road] in [/EN#82997/scene a small town]

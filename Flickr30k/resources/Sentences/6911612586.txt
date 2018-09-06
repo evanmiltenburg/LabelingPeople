@@ -1,0 +1,5 @@
+[/EN#261126/people A person] vigorously washing [/EN#261125/bodyparts their hands] in [/EN#261127/other a porcelain sink] .
+[/EN#261126/people A person] is washing [/EN#261125/bodyparts their hands] in [/EN#261127/other a white sink] .
+[/EN#261126/people A person] washing [/EN#261125/bodyparts their hands] in [/EN#261127/other a white sink] .
+[/EN#261125/bodyparts A pair of hands] being washed in [/EN#261127/other a sink] .
+[/EN#261126/people Someone] washing [/EN#261125/bodyparts their hands] in [/EN#261128/other a faucet]

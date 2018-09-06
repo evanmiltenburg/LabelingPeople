@@ -1,0 +1,5 @@
+[/EN#52602/people A man] in [/EN#52604/clothing a red shirt] climbs [/EN#52603/other a rock] in [/EN#0/notvisual the background] , [/EN#52605/other a tree] in [/EN#0/notvisual the foreground] .
+[/EN#52602/people A person] jumping in [/EN#52603/other a rock] and treefilled [/EN#52607/scene area] .
+[/EN#52602/people The boy] in [/EN#52604/clothing the red shirt] climbs [/EN#52603/other a large rock] .
+[/EN#52602/people A person] climbing [/EN#52603/other a boulder] behind [/EN#52605/other a tree] .
+[/EN#52602/people A person] climbs [/EN#52603/other a big rock] under [/EN#52605/other a tree] .

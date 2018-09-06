@@ -1,0 +1,5 @@
+[/EN#21263/animals A large , black dog] is climbing over [/EN#21264/scene a wooden fence] surrounded by [/EN#21266/scene bushes] .
+[/EN#21263/animals Black dog] with [/EN#21270/clothing a red collar] is climbing over [/EN#21264/scene fence posts] .
+[/EN#21263/animals Black dog] climbs over [/EN#21264/other fallen logs or boards] .
+[/EN#21263/animals Black dog] climbs over [/EN#21264/scene fence] in [/EN#21268/scene grassy area]
+[/EN#21263/animals A dog] jumps over [/EN#21265/other a log] in [/EN#21269/other the woods] .

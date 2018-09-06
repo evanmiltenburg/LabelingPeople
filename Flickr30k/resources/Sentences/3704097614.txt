@@ -1,0 +1,5 @@
+[/EN#138047/people A man] in [/EN#138049/clothing a black shirt] is walking in front of [/EN#138048/other a billboard] with [/EN#138048/other an animated dinosaur] on [/EN#0/notvisual it] .
+[/EN#138047/people A man] is standing in front of [/EN#138050/other a sign] with [/EN#138048/other a large picture of a dinosaur] looking at [/EN#0/notvisual him] .
+[/EN#138047/people A man] in [/EN#138049/clothing a black jacket] facing [/EN#138048/other a dinosaur sign] .
+[/EN#138047/people A man] is walking by [/EN#138053/other Brenmark Tools & Fasteners] .
+[/EN#138047/people A man] walks [/EN#138050/other past dinosaur billboard] .

@@ -1,0 +1,5 @@
+[/EN#29268/people A man] wearing [/EN#29270/clothing a hula skirt] stands on [/EN#29269/scene the shore] with [/EN#29269/scene the ocean] behind [/EN#0/notvisual him] with [/EN#29267/animals 2 rows of pigs] lying on [/EN#29273/other their backs] .
+[/EN#29268/people A man] wearing [/EN#29270/clothing a grass skirt] , is standing in [/EN#29271/scene the grass] among [/EN#29267/animals a group of pigs] on [/EN#29273/other their backs] near [/EN#29269/scene the coast] .
+[/EN#0/notvisual There] is [/EN#29268/people a man] standing near [/EN#29269/scene ocean] with [/EN#29267/animals several pigs] on [/EN#29273/other their backs] .
+[/EN#29268/people A man] standing on [/EN#29271/scene grass] next to [/EN#29269/scene the water] around [/EN#29267/animals 13 dead pigs] .
+[/EN#29268/other Hawaiian] is preparing over [/EN#29267/animals 20 pigs] in [/EN#29275/other a peaceful ritual] .

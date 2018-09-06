@@ -1,0 +1,5 @@
+[/EN#29517/people An Asian woman] is sitting on [/EN#29519/other a curb] while wearing [/EN#29518/clothing a hat] with [/EN#29522/other two fruit baskets] attached to [/EN#0/notvisual it] .
+[/EN#29517/people A smiling Asian woman] wearing [/EN#29518/clothing a conical hat] sits on [/EN#29519/scene a sidewalk] hawking [/EN#29521/other her bananas] .
+[/EN#29517/people A lady] sitting on [/EN#29519/scene the round] with [/EN#29521/other two baskets of bananas] in front of [/EN#0/notvisual her] .
+[/EN#29517/people A woman] sitting on [/EN#29519/other the side of the rode] selling [/EN#29521/other bananas] .
+[/EN#29517/people A woman] sits on [/EN#29519/scene a sidewalk] surrounded by [/EN#29521/other fruit] .

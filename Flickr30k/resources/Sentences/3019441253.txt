@@ -1,0 +1,5 @@
+[/EN#87850/people A man] in [/EN#87851/clothing a white t-shirt] is walking past [/EN#87849/other 2 graffiti paintings] on [/EN#87852/other the wall] .
+[/EN#87850/people A man] walking in front of [/EN#87852/scene a colorfully decorated building] .
+[/EN#87850/people Man] in [/EN#87851/clothing light shirt] and [/EN#87854/clothing blue jeans] walking by [/EN#87849/other graffiti] .
+[/EN#87850/people Man] running next to [/EN#87849/other artwork wall] .
+[/EN#87850/people A man] walking down [/EN#87853/scene the street] .

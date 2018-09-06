@@ -1,0 +1,5 @@
+[/EN#12930/people Two men] carrying [/EN#12934/clothing a briefcase] talk to [/EN#12932/people another man] in [/EN#12935/clothing a white t-shirt] on [/EN#12929/scene a porch] .
+[/EN#12928/people Three guys] are barbecuing on [/EN#12936/other a grill] on [/EN#12929/scene a porch] with [/EN#12931/scene a white fence] .
+[/EN#12928/people Three men] are standing and talking on [/EN#12929/scene a porch] .
+[/EN#12928/people Three men] are standing over [/EN#12931/scene a grill outside] .
+[/EN#12928/people Three men] grilling on [/EN#12929/scene a front porch] .

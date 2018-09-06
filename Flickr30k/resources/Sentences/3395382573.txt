@@ -1,0 +1,5 @@
+[/EN#115173/people One boy] in [/EN#115174/clothing a yellow shirt] rides [/EN#115169/animals a donkey] hitched to [/EN#115171/vehicles a cart] carrying [/EN#115170/people two boys] in yellow along [/EN#115172/scene a road] .
+[/EN#115170/people Three boy] being tugged in [/EN#115175/other a red barrel] by [/EN#115169/animals a donkey] .
+[/EN#115170/people Three young children] riding on [/EN#115171/vehicles a donkey drawn cart] .
+[/EN#115169/animals A donkey] is pulling [/EN#115171/vehicles the cart] down [/EN#115172/scene the road] .
+[/EN#115170/people Boys] travel with [/EN#115171/vehicles a donkey-drawn cart] .

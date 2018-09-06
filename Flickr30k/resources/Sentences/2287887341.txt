@@ -1,0 +1,5 @@
+[/EN#39133/animals A light colored dog] with [/EN#39134/clothing blue leash] attached is sitting in [/EN#39135/vehicles a vehicle] .
+[/EN#39133/animals A dog] sits in [/EN#39135/vehicles a car] with [/EN#39136/bodyparts its tongue] sticking out .
+[/EN#39133/animals The dog] waits patiently in [/EN#39135/vehicles the car] for [/EN#39137/people its owner] .
+[/EN#39133/animals A dog] wearing [/EN#39134/clothing a blue leash] rides in [/EN#39135/vehicles a car] .
+[/EN#39133/animals A dog] pants inside [/EN#39135/vehicles a car]

@@ -1,0 +1,5 @@
+[/EN#182036/people A man] and [/EN#182039/people a woman] wearing [/EN#182034/scene potato sacks] with [/EN#182035/other flowers] run crazy down [/EN#182033/scene a hill] .
+[/EN#182032/people Two people] are wearing [/EN#182034/clothing flower costumes] and walking down [/EN#182033/scene a street] .
+[/EN#182032/people Two people] are dressed in [/EN#182034/clothing costumes] with [/EN#182035/other flowers] on [/EN#0/notvisual them] .
+[/EN#182032/people Two woman] wearing [/EN#182034/clothing costumes] on [/EN#182033/scene the street] .
+[/EN#182032/people Women] in [/EN#182034/clothing costumes] on [/EN#182033/scene a street] .

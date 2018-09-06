@@ -1,0 +1,5 @@
+[/EN#172576/people A woman] sits next to [/EN#172577/vehicles her bike] and reads across for [/EN#172579/scene a factory] .
+[/EN#172576/people A woman] is sitting on [/EN#172581/scene the road] next to [/EN#172577/vehicles her bicycle] .
+[/EN#172576/people A female] with [/EN#172577/vehicles her bicycle] sits on [/EN#172582/other the concrete] .
+[/EN#172576/people A woman] sitting on [/EN#0/notvisual the ground] at [/EN#172580/other a marina] .
+[/EN#172576/people A woman] at [/EN#172578/other a beech] with [/EN#172577/vehicles a bike] .

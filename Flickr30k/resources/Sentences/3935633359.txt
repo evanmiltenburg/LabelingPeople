@@ -1,0 +1,5 @@
+[/EN#148654/people A man] in [/EN#148661/clothing cowboy clothes] standing [/EN#148662/scene outdoors] between [/EN#148659/vehicles a trailer] and [/EN#148657/animals a laden donkey] , with [/EN#148656/animals another donkey] in [/EN#0/notvisual the background] .
+[/EN#148654/people A man] with [/EN#148655/clothing a cowboy hat] and [/EN#148663/other gun] leans on [/EN#148657/animals a mule] in front of [/EN#148660/scene a mountain] .
+[/EN#148654/people A man] in [/EN#148655/clothing a hat] is standing next to [/EN#148659/vehicles a trailer] and petting [/EN#148656/animals a donkey] .
+[/EN#148654/people A cowboy] is showing off [/EN#148657/animals his mule] next to [/EN#148657/animals a horse] hauling [/EN#148659/vehicles trailer] .
+[/EN#148654/people A rancher] stands with [/EN#148657/animals his pack mule] next to [/EN#148659/vehicles a trailer] .

@@ -1,0 +1,5 @@
+[/EN#133159/people A man] wearing [/EN#133161/clothing a light blue sweatshirt] is sitting at [/EN#133162/other a table] in front of [/EN#133160/other a budweiser bottle] .
+[/EN#133159/people A man] in [/EN#133161/clothing a blue hoodie] is sitting at [/EN#133162/other a table] with [/EN#133160/other a beer bottle] sitting on [/EN#0/notvisual it] .
+[/EN#133159/people A man] in [/EN#133161/clothing a blue sweatshirt] sits at [/EN#133162/other a table] covered in [/EN#133163/other a black tablecloth] .
+[/EN#133159/people Blond man] sitting at [/EN#133162/other a table] wearing [/EN#133161/clothing a blue sweatshirt] .
+[/EN#133159/people a man] drinking [/EN#133160/other alcohol] at [/EN#133164/scene an event]

@@ -1,0 +1,5 @@
+[/EN#168320/people A woman] in [/EN#168322/clothing a blue bathing suit] lays on [/EN#168323/other a towel] in [/EN#168324/other the sand] looking in [/EN#168325/people the direction of a group] on [/EN#168319/people men] .
+[/EN#168319/people A group of men] walk down [/EN#168321/scene the beach] while [/EN#168320/people a woman] in [/EN#168322/clothing a blue bathing suit] lays on [/EN#168324/other the sand] .
+[/EN#168319/people A group of four men] are walking along [/EN#168321/scene a beach] , as [/EN#168320/people a woman] in [/EN#168322/clothing a blue bikini] looks on .
+[/EN#168320/people A woman] in [/EN#168322/clothing a blue bikini] lays on [/EN#168321/scene the beach] on [/EN#168323/other a towel] , as [/EN#168319/people a group of men] look on .
+[/EN#168320/people Woman] looking at [/EN#168319/people four men] in [/EN#168321/scene the beach] .

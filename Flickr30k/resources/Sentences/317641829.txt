@@ -1,0 +1,5 @@
+[/EN#98481/people A man] in [/EN#98485/clothing a red jacket] and [/EN#98487/clothing jeans] stands next to [/EN#98482/people a column] in front of [/EN#98483/scene a store] .
+[/EN#98481/people A man] in [/EN#98485/clothing a red coat] stands [/EN#98483/scene outside of a store] near [/EN#98482/people a big column] .
+[/EN#98481/people A man] wearing [/EN#98485/clothing a red coat] stands on [/EN#98484/scene the corner] near [/EN#98483/scene a building] .
+[/EN#98486/people Two people] are standing outside [/EN#98483/scene a store] on [/EN#98484/scene a city street] .
+[/EN#98481/people A man] standing near [/EN#98484/scene a street corner] .

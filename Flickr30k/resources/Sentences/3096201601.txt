@@ -1,0 +1,5 @@
+[/EN#93339/people A person] in [/EN#93340/clothing a green jacket] and [/EN#93341/clothing pants] appears to be digging in [/EN#93343/scene a wooded field] with [/EN#93342/vehicles several cars] in [/EN#0/notvisual the background] .
+[/EN#93339/people A lady] standing in [/EN#93344/other the woods] raking [/EN#93345/other leaves] in front of [/EN#93342/vehicles two parked cars] .
+[/EN#93339/people A young child] in [/EN#93340/clothing a green jacket] rakes [/EN#93345/other leaves] .
+[/EN#93339/people A young child] rakes [/EN#93345/other leaves] in [/EN#93343/scene a wooded area] .
+[/EN#93339/people A woman] cleaning up [/EN#93343/scene a park] .

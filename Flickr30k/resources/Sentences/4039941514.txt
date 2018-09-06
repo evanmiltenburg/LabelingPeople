@@ -1,0 +1,5 @@
+[/EN#152891/people A man] is standing on [/EN#152898/scene a stage] , speaking , and [/EN#0/notvisual there] is [/EN#152895/other a phrase] projected on [/EN#152896/other a screen] behind [/EN#0/notvisual him] .
+[/EN#152891/people Young entrepreneur] giving [/EN#152893/other a presentation] using [/EN#152899/other two mac book laptops] .
+[/EN#152891/people A man] with [/EN#152892/other two apple computers] giving [/EN#152894/scene a keynote address] .
+[/EN#152891/people A man] gives [/EN#152893/other a speech] and uses to [/EN#152892/other Apple computers] .
+[/EN#152891/people Man] in [/EN#152900/clothing glasses] giving [/EN#152896/other a presentation] .

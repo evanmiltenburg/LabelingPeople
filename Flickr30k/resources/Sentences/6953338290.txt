@@ -1,0 +1,5 @@
+[/EN#262334/people A man] wearing [/EN#262335/clothing a black cap] is laying against [/EN#262339/clothing a backpack] against [/EN#262338/other a tree] while [/EN#0/notvisual he] reads [/EN#262336/other a book] .
+[/EN#262334/people A young man] , wearing [/EN#262335/clothing a beret] and [/EN#262337/clothing sunglasses] , rests against [/EN#262338/other a tree] while reading [/EN#262340/scene outdoors] .
+[/EN#262334/people One man] laying outside in [/EN#262342/other the shade of a tree] with [/EN#262337/clothing a sunglasses] on while reading [/EN#262336/other a book] .
+[/EN#262334/people A young man] is leaning on [/EN#262338/other a tree] in [/EN#262341/scene the grass] and reading [/EN#262336/other a book] .
+[/EN#262334/people A guy] sitting against [/EN#262338/other a tree] reading [/EN#262336/other a book] .

@@ -1,0 +1,5 @@
+[/EN#74218/animals A white dog] running from [/EN#74220/scene a wooded area] .
+[/EN#74218/animals Dog] runs through [/EN#74219/other trees] toward [/EN#74221/other camera]
+[/EN#74218/animals A white dog] runs toward [/EN#0/notvisual the camera] .
+[/EN#74218/animals A white dog] running through [/EN#74219/other woods] .
+[/EN#74218/animals The white dog] looks [/EN#74223/other happy] running .

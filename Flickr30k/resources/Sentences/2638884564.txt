@@ -1,0 +1,5 @@
+[/EN#63173/people A lady] walking in front of [/EN#63179/scene a building] with [/EN#63176/clothing blue jeans] and [/EN#63175/clothing a white shirt] .
+[/EN#63173/people A woman] walks down [/EN#63174/scene the sidewalk] and on [/EN#63178/other a brick wall] is [/EN#63177/other graffiti] .
+[/EN#63173/people A woman] with [/EN#63175/clothing a white shirt] walking down [/EN#63174/scene the sidewalk] .
+[/EN#63173/people A woman] in [/EN#63175/clothing a white shirt] walks down [/EN#63174/scene a sidewalk] .
+[/EN#63173/people A young woman] in [/EN#63176/clothing jeans] walking past [/EN#63177/other graffiti] .

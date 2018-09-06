@@ -1,0 +1,5 @@
+[/EN#260526/people A man] with [/EN#260527/bodyparts a white beard] and [/EN#260533/bodyparts hair] pulled back in [/EN#260531/bodyparts a ponytail] is wearing [/EN#260528/clothing a karate outfit] with [/EN#260530/clothing a yellow belt] and standing in [/EN#260529/other a ready pose] .
+[/EN#260526/people A man] with [/EN#260527/bodyparts a gray beard] in [/EN#260529/other a karate stance] with [/EN#260530/clothing a yellow belt] on [/EN#260534/bodyparts his waist] .
+[/EN#260526/people Man] in [/EN#260528/other a white gi] and [/EN#260530/clothing yellow belt] with [/EN#260536/clothing three stripes] doing [/EN#260529/other a karate pose] .
+[/EN#260526/people A man] with [/EN#260527/bodyparts a white and gray beard] punches while in [/EN#260528/clothing his karate uniform] .
+[/EN#260526/people An older man] [/EN#0/notvisual who] is [/EN#260530/clothing a yellow belt] is practicing [/EN#260535/other karate] .

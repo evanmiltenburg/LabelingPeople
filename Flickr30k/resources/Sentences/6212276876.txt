@@ -1,0 +1,5 @@
+[/EN#250234/people A male jockey] wearing [/EN#250237/clothing a helmet] , [/EN#250240/clothing black t-shirt] with [/EN#250239/clothing a white long-sleeved shirt] underneath [/EN#0/notvisual it] and [/EN#250238/people an arm band] red in [/EN#250242/other color] and [/EN#250243/other whip] in [/EN#250244/bodyparts right hand] , is riding on [/EN#250236/animals a brown horse] .
+[/EN#250234/people A worried looking jockey] in [/EN#250241/clothing white pants] rides [/EN#250236/animals a brown horse] amongst [/EN#250233/people a crowd of people] .
+[/EN#250234/people A jockey] is perched atop [/EN#250236/animals a brown horse] as [/EN#250233/people people] mill about behind [/EN#0/notvisual them] .
+[/EN#250233/people People] are watching [/EN#250234/people a jockey] ride [/EN#250236/animals a horse] .
+[/EN#250233/people A group] onlooking [/EN#250234/people a horseback rider] .

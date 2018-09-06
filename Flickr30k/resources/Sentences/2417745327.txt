@@ -1,0 +1,5 @@
+[/EN#47885/animals The brown dog] is running parallel to [/EN#47888/scene the waves] in [/EN#47886/scene the water] .
+[/EN#47885/animals A brown dog] runs through [/EN#47886/scene the water] as [/EN#47886/scene a wave] comes .
+[/EN#47885/animals A brown dog] runs through [/EN#47886/scene the water] in [/EN#47886/scene the ocean] .
+[/EN#47885/animals The brown dog] is running in [/EN#47886/scene the water] .
+[/EN#47885/animals A dog] is running through [/EN#47886/scene the ocean] .

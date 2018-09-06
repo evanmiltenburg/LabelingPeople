@@ -1,0 +1,5 @@
+[/EN#89549/people A girl] in [/EN#89553/clothing a blue sweater] with [/EN#89552/other a white pattern] is jumping into [/EN#89550/other a pile of leaves] .
+[/EN#89549/people A young girl] is diving into [/EN#89550/other a pile of brown leaves] in [/EN#89554/scene the yard] .
+[/EN#89549/people A girl] in [/EN#89549/other a sweater diving] into [/EN#89550/other a pile of leaves] .
+[/EN#89549/people A girl] is jumping into [/EN#89550/other a pile of leaves] .
+[/EN#89549/people A girl] is jumping into [/EN#89550/other a pile of leaves]

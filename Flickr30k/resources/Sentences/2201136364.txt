@@ -1,0 +1,5 @@
+[/EN#33770/people A bearded , glasses-wearing man] in [/EN#33771/clothing a turquoise shirt] is playing [/EN#33772/instruments the acoustic guitar] .
+[/EN#33770/people A bearded man] wearing [/EN#33771/clothing a blue shirt] is playing [/EN#33772/instruments an acoustic guitar] .
+[/EN#33770/people A bearded man] wearing [/EN#33773/clothing glasses] and [/EN#33771/clothing a blue shirt] plays [/EN#33772/instruments guitar] .
+[/EN#33770/people A man] with [/EN#33774/bodyparts a beard] and [/EN#33771/clothing a blue shirt] plays [/EN#33772/instruments a guitar] .
+[/EN#33770/people a bearded man] in [/EN#33773/other glass] playing [/EN#33772/instruments an acoustic guitar] .

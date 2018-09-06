@@ -1,0 +1,5 @@
+[/EN#14564/people A woman] in [/EN#14567/clothing purple overalls] and [/EN#14568/clothing sandals] is painting on [/EN#14565/scene a balcony] with [/EN#14569/other a standing wooden easel] .
+[/EN#14564/people A woman] paints [/EN#14566/scene a picture of a large building] [/EN#0/notvisual which] can be seen in [/EN#0/notvisual the background] .
+[/EN#14564/people A woman] standing outside painting [/EN#14566/scene a picture of the view] .
+[/EN#14564/people A woman] in [/EN#14567/clothing overalls] is painting [/EN#14566/scene a landscape] on [/EN#14565/scene the roof] .
+[/EN#14564/people A woman] painting [/EN#14566/scene a palace] and [/EN#14566/scene the landscape] .

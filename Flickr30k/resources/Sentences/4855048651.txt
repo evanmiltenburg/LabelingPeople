@@ -1,0 +1,5 @@
+[/EN#211212/people A musician] is playing [/EN#211213/instruments an electric violin] before [/EN#211216/other an energy drink advertisement] .
+[/EN#211212/people A man] playing [/EN#0/notvisual what] looks like [/EN#211213/instruments a guitar] with [/EN#211215/other a bow] like [/EN#211213/instruments a violin] .
+[/EN#211212/people A long-haired man] wearing [/EN#211214/clothing a t-shirt] playing [/EN#211213/instruments an instrument] .
+[/EN#211212/people A violinist] playing [/EN#211218/other music] in [/EN#211219/vehicles/scene the New York subway] .
+[/EN#211212/people A man] in [/EN#211214/clothing a white shirt] plays [/EN#211213/instruments an electric violin] .

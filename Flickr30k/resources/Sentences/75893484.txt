@@ -1,0 +1,5 @@
+[/EN#271780/people A woman] wearing [/EN#271787/clothing a black coat] and [/EN#271785/other bots] is talking on [/EN#271781/other the phone] .
+[/EN#271780/people Lady] standing outside [/EN#271783/scene a building] talking on [/EN#271781/other her cellphone] .
+[/EN#271780/people A blond woman] on [/EN#271781/other a cellphone] looking at [/EN#271782/other an advertisement] .
+[/EN#271780/people A lady] standing on [/EN#271784/scene the sidewalk] with [/EN#271782/other images] on [/EN#271783/other the wall] .
+[/EN#0/notvisual I] think [/EN#271780/people this lady] is waiting for [/EN#271788/vehicles a cab] .

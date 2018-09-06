@@ -1,0 +1,5 @@
+[/EN#40883/people The small girl] in [/EN#40886/clothing the red shirt] pushes [/EN#40885/people the little boy] on [/EN#40884/other the baby swing] .
+[/EN#40883/people A little girl] is pushing [/EN#40885/people a little boy] [/EN#0/notvisual who] is sitting on [/EN#40884/other a swing] .
+[/EN#40883/people A girl] pushes [/EN#40885/people a boy] on [/EN#40884/other a swing] on [/EN#40887/scene a sandy playground] .
+[/EN#40883/people a little girl] pushes [/EN#40885/people a little boy] on [/EN#40884/other the swing] .
+[/EN#40883/people A girl] stands behind [/EN#40885/people a boy] in [/EN#40884/other a swing] .

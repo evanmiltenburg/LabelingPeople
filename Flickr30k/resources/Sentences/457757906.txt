@@ -1,0 +1,5 @@
+[/EN#180099/people A man] rides [/EN#180101/vehicles a three-wheeled bike] with [/EN#180102/people a young boy] sitting on [/EN#180105/people the bundles] in [/EN#180100/vehicles the back trailer] .
+[/EN#180099/people Asian male] on [/EN#180101/vehicles a bike] carrying [/EN#180103/other roles of carpet] and [/EN#180102/people another guy] .
+[/EN#180099/people A man] on [/EN#180101/vehicles a bicycle] carries [/EN#180103/other things] and [/EN#180102/people a boy] .
+[/EN#180099/people man] rides [/EN#180101/vehicles a bike] carrying [/EN#180100/vehicles a cart] behind .
+[/EN#180104/people Two men] ride [/EN#180101/vehicles a bicycle] down [/EN#180106/scene the street] .

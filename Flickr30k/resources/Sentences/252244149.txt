@@ -1,0 +1,5 @@
+[/EN#55042/people A man] in [/EN#55043/clothing a pink sweater] and [/EN#55045/people a gentleman] sitting down in [/EN#55046/vehicles public transportation] .
+[/EN#55042/people A man] in [/EN#55043/clothing pink] is chewing [/EN#55047/other a toothpick] on [/EN#55044/vehicles/scene the subway] .
+[/EN#55042/people A man] wearing [/EN#55043/clothing a pink shirt] is riding [/EN#55044/vehicles/scene the subway] .
+[/EN#55042/people A young man] is standing in [/EN#55044/vehicles/scene a subway] .
+[/EN#55042/people A man] in [/EN#55043/clothing pink] on [/EN#55044/vehicles/scene a subway] .

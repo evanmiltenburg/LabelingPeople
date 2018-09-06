@@ -1,0 +1,5 @@
+[/EN#180926/people A man] in [/EN#180927/clothing a denim jacket] is looking at [/EN#180932/other something] in [/EN#180933/scene the evening] .
+[/EN#180926/people The man] in [/EN#180927/clothing the denim jacket] looks across [/EN#180929/scene the street] .
+[/EN#180926/people Man] in [/EN#180927/clothing a denim jacket] looking out [/EN#180930/other a large window] .
+[/EN#180926/people A man] in [/EN#180927/clothing a jean jacket] looking to [/EN#180928/scene his right] .
+[/EN#180926/people a man] walks down [/EN#180931/scene the sidewalk]

@@ -1,0 +1,5 @@
+[/EN#79166/people Two people] jump off [/EN#79170/other the rocks] and into [/EN#79167/scene the greenish water] below .
+[/EN#79166/people Two swimmers] are jumping off [/EN#79168/other the tall rock] into [/EN#79167/scene the water] .
+[/EN#79166/people Two boys] jump from [/EN#79170/other rocks] into [/EN#79167/scene a green mountain pool] .
+[/EN#0/notvisual Swimmers jump] from [/EN#79170/other rocks] above [/EN#79167/scene blue-green water] .
+[/EN#79171/people A man] jumps off [/EN#79168/other a rock] into [/EN#79167/scene the water]

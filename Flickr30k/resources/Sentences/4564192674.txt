@@ -1,0 +1,5 @@
+[/EN#178896/people A teen boy] in [/EN#178897/clothing a blue tie dyed shirt] and [/EN#178899/clothing a red hat] is standing outside against [/EN#178900/other a tile wall] .
+[/EN#178896/people A person] in [/EN#178897/clothing a purple tie-dye shirt] is carefully making [/EN#178903/scene their way] down [/EN#178898/scene a narrow walkway] .
+[/EN#178896/people a person] in [/EN#178899/clothing a red hat] , [/EN#178897/clothing tie-dye purple shirt] and [/EN#178902/clothing black pants] stands on [/EN#178898/scene a walkway] .
+[/EN#178896/people A boy] wearing [/EN#178897/clothing a blue tie dye t-shirt] standing on [/EN#178900/other a white brick wall] .
+[/EN#178896/people A skateboarder] in [/EN#178897/clothing a ty-dye shirt] going down [/EN#178901/scene a ramp] .

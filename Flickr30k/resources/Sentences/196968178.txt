@@ -1,0 +1,5 @@
+[/EN#24271/animals A young bull] is grabbed by [/EN#24272/instruments the horns] by [/EN#24273/people a man] wearing [/EN#24274/clothing a white cowboy hat] in [/EN#24275/clothing a rodeo ring] while [/EN#24276/people other men] in [/EN#24277/clothing white hats] watch .
+[/EN#24273/people A cowboy] is wrestling [/EN#24271/animals a cow] to [/EN#0/notvisual the ground] in [/EN#24279/other a rodeo] .
+[/EN#24273/people A cowboy] is bull-dogging [/EN#24271/animals a steer] in [/EN#24280/scene a rodeo arena] .
+[/EN#24273/people A man] is wrestling [/EN#24271/animals a bull] while [/EN#24276/people spectators] watch .
+[/EN#24278/people These men] are participating in [/EN#24279/other a rodeo] .

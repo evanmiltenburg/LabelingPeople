@@ -1,0 +1,5 @@
+[/EN#32959/scene Orange building] in [/EN#32960/other the woods] surrounded by [/EN#32961/other trees] with [/EN#32958/animals white dog] running away from [/EN#0/notvisual it] .
+[/EN#32959/scene A little orange cabin] with [/EN#32958/animals a white dog] running near [/EN#0/notvisual it] in [/EN#32960/other the woods] .
+[/EN#32958/animals The white dog] is running on [/EN#32962/scene the grass] near [/EN#32959/scene a small house] .
+[/EN#32958/animals White dog] running away from [/EN#32959/scene the orange colored house] .
+[/EN#32958/animals A dog] runs through [/EN#32960/other the woods] near [/EN#32959/scene a cottage] .

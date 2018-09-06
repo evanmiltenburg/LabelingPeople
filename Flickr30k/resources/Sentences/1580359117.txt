@@ -1,0 +1,5 @@
+[/EN#16948/people A man] in [/EN#16951/clothing an orange apron] standing in [/EN#16950/scene a kitchen] , ostentatiously presenting [/EN#16949/other a plate of food] .
+[/EN#16948/people A man] is wearing [/EN#16951/clothing an apron] , standing in [/EN#16950/scene the kitchen] holding [/EN#16949/other a plate] .
+[/EN#16948/people A man] in [/EN#16951/clothing a red apron] displays [/EN#16949/other a gourmet plated entree] .
+[/EN#16948/people A guy] in [/EN#16950/scene the kitchen] points to [/EN#16949/other his new pasta creation]
+[/EN#16948/people Male chef] playfully presenting [/EN#16949/other his latest creation] .

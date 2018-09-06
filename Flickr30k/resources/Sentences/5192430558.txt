@@ -1,0 +1,5 @@
+[/EN#230689/people A man] in [/EN#230693/clothing a yellow jacket] is about to start riding through [/EN#230690/scene the city] on [/EN#230692/vehicles his motorbike] while [/EN#230700/people a woman] walks and [/EN#230696/people an old man] nearby holds [/EN#230697/other a smoking lantern] .
+[/EN#230689/people Man] with [/EN#230693/clothing a yellow jacket] is riding [/EN#230692/vehicles a motorbike] through [/EN#230698/other a street marketplace] filled with [/EN#230700/people people] and [/EN#230696/people vendors] .
+[/EN#230694/other Local people commute] through [/EN#230691/scene a bazaar] [/EN#0/notvisual that] sells [/EN#230701/other etiquette specific] to [/EN#230699/other the town 's culture] .
+[/EN#230689/people A man] is riding [/EN#230692/other a motorcycle] through [/EN#230703/scene the streets of an Indian bazaar] .
+[/EN#230689/people A man] on [/EN#230692/vehicles a moped] is driving through [/EN#230703/scene the streets of his town] .

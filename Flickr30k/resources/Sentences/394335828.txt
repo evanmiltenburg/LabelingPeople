@@ -1,0 +1,5 @@
+[/EN#148937/people A man] in [/EN#148943/clothing a pink striped shirt] and [/EN#148948/clothing jeans] and [/EN#148939/other a head light] working on [/EN#148944/other electrical components] in [/EN#148941/other a large gray box] .
+[/EN#148937/people A man] in [/EN#148943/clothing a red and white striped shirt] wearing [/EN#148938/other a headlamp] is working on [/EN#148946/other a device] with [/EN#148944/other different colored wires] .
+[/EN#148937/people A man] wearing [/EN#148943/clothing business casual dress] dons [/EN#148939/other a headlamp] and begins fixing [/EN#148940/other a piece of electronic equipment] .
+[/EN#148937/people man] in [/EN#148943/clothing light colored striped shirt] has [/EN#148945/bodyparts his hands] in [/EN#148941/other a large gray case] with [/EN#148944/other lots of wires] in [/EN#0/notvisual it] .
+[/EN#148937/people A man] wearing [/EN#148938/other a flashlight] on [/EN#148947/bodyparts his head] has [/EN#148945/bodyparts his hand] in [/EN#148941/other a rolling case] with [/EN#148944/other wires] .

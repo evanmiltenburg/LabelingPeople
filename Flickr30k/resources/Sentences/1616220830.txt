@@ -1,0 +1,5 @@
+[/EN#17604/people A man] with [/EN#17605/clothing white shirt] and [/EN#17606/clothing blue jeans] pushing [/EN#17607/vehicles a truck] with [/EN#17608/people a picture of a woman] Edwards saying [/EN#17609/other real colors] never dye
+[/EN#17607/vehicles A truck] with [/EN#17608/other an advertising billboard] stuck in [/EN#17612/scene the middle] of [/EN#17610/scene the road] .
+[/EN#17611/people Two men] are pushing [/EN#17607/vehicles a truck] [/EN#0/notvisual that] has [/EN#17608/people a picture of a woman] on [/EN#0/notvisual it] .
+[/EN#17611/people Two men] pushing [/EN#17607/vehicles a truck] with [/EN#17608/people a logo of a woman] on [/EN#0/notvisual it] .
+[/EN#17611/people Men] are pushing [/EN#17607/vehicles a billboard truck] .

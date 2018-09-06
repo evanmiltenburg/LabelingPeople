@@ -1,0 +1,5 @@
+[/EN#131017/animals A brown and white dog] barking through [/EN#131018/scene the fence] at [/EN#131019/animals smaller black and white dog] .
+[/EN#131017/animals The big dog] is looking through [/EN#131018/scene the fence] at [/EN#131019/animals the small dog] .
+[/EN#131017/animals A big dog] barking at [/EN#131019/animals a small dog] through [/EN#131018/scene a fence] .
+[/EN#131017/animals The larger dog] is barking at [/EN#131019/animals the smaller dog] .
+[/EN#131020/animals Two dogs] fighting with [/EN#131018/scene a fence] between [/EN#0/notvisual them] .

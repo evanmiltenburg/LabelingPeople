@@ -1,0 +1,5 @@
+[/EN#122750/people A family] along with [/EN#122755/people their household] pets are taking [/EN#122756/other an outdoor trip] during [/EN#122757/other the winter] .
+[/EN#122750/people A group of people] walk on [/EN#122753/scene grass] near [/EN#122751/scene a lake] with [/EN#122752/animals dogs] playing around [/EN#0/notvisual them] .
+[/EN#122750/people A group of people] walk in [/EN#122753/scene a park] by [/EN#122751/scene a body of water] with [/EN#122754/animals some dogs] .
+[/EN#122750/people A group of people] are exercising [/EN#122754/animals dogs] on [/EN#122753/scene a field] by [/EN#122751/scene a lake] .
+[/EN#122750/people group of people] walking [/EN#122752/animals a dog] in [/EN#122753/scene a park]

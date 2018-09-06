@@ -1,0 +1,5 @@
+[/EN#83347/animals A dog] is jumping in [/EN#0/notvisual the air] trying to catch [/EN#83348/other a red Frisbee] .
+[/EN#83347/animals A yellow dog] chases [/EN#83348/other a red Frisbee] next to [/EN#83349/other a black pot] .
+[/EN#83347/animals The yellow dog] is trying to catch [/EN#83350/other a red Frisbee] .
+[/EN#83347/animals Grayish dog] is playing [/EN#83348/other Frisbee] in [/EN#83352/scene the yard] .
+[/EN#83347/animals A dog] jumps to catch [/EN#83348/other an orange Frisbee] .

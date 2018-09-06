@@ -1,0 +1,5 @@
+[/EN#152309/people A group of warmly dressed people] plant [/EN#152312/other something] in [/EN#152313/other three rows] , guided by [/EN#152313/other string] .
+[/EN#152309/people Six people] in [/EN#152315/scene clear view] preparing or planting [/EN#152314/other the soil] underneath [/EN#152313/other three lines] .
+[/EN#152309/people Six people] are outside in [/EN#152317/scene the dirt] possibly gardening near [/EN#152310/other some hay] and [/EN#152316/scene grass] .
+[/EN#152309/people Six people] appearing to be planting [/EN#152311/other something] in [/EN#0/notvisual the ground] .
+[/EN#0/notvisual There] are [/EN#152309/people six people] planting [/EN#152312/other something] in [/EN#0/notvisual the ground] .

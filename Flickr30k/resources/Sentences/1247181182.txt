@@ -1,0 +1,5 @@
+[/EN#6225/people A man] wearing [/EN#6229/clothing a blue shirt] crouches on [/EN#6226/scene a rocky cliff] .
+[/EN#6225/people The man] is sitting at [/EN#6228/scene the top of a rocky mountain] .
+[/EN#6225/people A man] sitting on [/EN#6226/scene a cliff] in [/EN#6228/scene the mountains] .
+[/EN#6225/people A person] posing on [/EN#6226/other a mountaintop] .
+[/EN#6225/people a man] sits on [/EN#6226/other a rock] .

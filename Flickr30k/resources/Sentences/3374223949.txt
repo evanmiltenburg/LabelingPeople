@@ -1,0 +1,5 @@
+[/EN#113863/people A young girl] in [/EN#113866/clothing jeans] sits at [/EN#113865/scene the top of a red and yellow slide] .
+[/EN#113863/people The little girl] in [/EN#113867/bodyparts pigtails] is preparing to go down [/EN#113864/scene the slide] .
+[/EN#0/notvisual There] is [/EN#113863/people a little girl] sitting at [/EN#113865/scene the top of a red slide] .
+[/EN#113863/people A child] gets ready to slide down [/EN#113864/scene the slide] .
+[/EN#113863/people The little girl] is sitting on [/EN#113864/scene the slide] .

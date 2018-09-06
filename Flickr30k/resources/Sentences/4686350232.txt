@@ -1,0 +1,5 @@
+[/EN#190628/people Two people] in [/EN#190630/clothing bright green outfits] are standing in [/EN#190634/scene an alley] next to [/EN#190632/other a motorcycle] .
+[/EN#190631/people A man] and [/EN#190633/people a woman] in [/EN#190630/clothing green uniforms] are talking in [/EN#190629/other an alleyway] .
+[/EN#190628/people Two workers] in [/EN#190630/clothing green uniforms] are standing in [/EN#190629/other an alleyway] .
+[/EN#190628/people Two workers] face [/EN#0/notvisual each other] wearing [/EN#190630/clothing green attire] .
+[/EN#190629/other an alleyway] with [/EN#190628/people two city workers] talking .

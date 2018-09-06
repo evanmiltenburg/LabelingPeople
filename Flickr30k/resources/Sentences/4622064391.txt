@@ -1,0 +1,5 @@
+[/EN#183637/people A male] carrying [/EN#183640/clothing a red backpack] and [/EN#183638/people a female] with [/EN#183641/clothing a jean jacket] standing by [/EN#183636/other a railing] with [/EN#183634/animals a tan dog] .
+[/EN#183634/animals A golden retriever puppy] stands in front of [/EN#183635/people two people] looking over [/EN#183636/other a railing] .
+[/EN#183635/people Two people] and [/EN#183634/animals a yellow dog] stand near [/EN#183636/other a scenic railing] .
+[/EN#183635/people Two people] are standing by [/EN#183636/other a railing] with [/EN#183634/animals a dog] .
+[/EN#183635/people Two people] looking at [/EN#183639/other sights] with [/EN#183634/animals their dog] .

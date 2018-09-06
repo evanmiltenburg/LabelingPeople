@@ -1,0 +1,5 @@
+[/EN#210420/people A woman] with [/EN#210421/clothing a navy sweater] is looking through [/EN#210422/other a blue telescope] at [/EN#210423/other a statue of a dinosaur] .
+[/EN#210420/people A woman] views [/EN#210423/other a metal dinosaur sculpture] through [/EN#210422/other a blue telescope] during [/EN#210424/scene a cloudy day] .
+[/EN#210420/people Woman] with [/EN#210421/clothing blue shirt] on looks through [/EN#210422/other a telescope] at [/EN#210425/scene the sky] .
+[/EN#210420/people A woman] looking through [/EN#210422/other a telescope] at [/EN#210423/other a dinosaur] .
+[/EN#210420/people woman] looking through [/EN#210422/other telescope] .

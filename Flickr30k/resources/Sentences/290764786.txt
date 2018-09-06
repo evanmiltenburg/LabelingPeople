@@ -1,0 +1,5 @@
+[/EN#80572/people A large black man] wearing [/EN#80577/clothing a red chicago shirt] is sitting in [/EN#80574/other a wheelchair] by [/EN#80575/scene a blue lamp post] .
+[/EN#80572/people an old man] sleeping in [/EN#80574/other a wheelchair] outside of [/EN#80576/scene a building] .
+[/EN#80572/people A man] in [/EN#80574/other a wheelchair] is sleeping on [/EN#80573/scene a sidewalk] .
+[/EN#80572/people Man] sitting in [/EN#80574/other a wheelchair] .
+[/EN#80572/people A man] resting on [/EN#80573/scene a street] .

@@ -1,0 +1,5 @@
+[/EN#24863/people A child] in [/EN#24868/clothing a red shirt] rides [/EN#24865/other a zip-line] while [/EN#24863/people a shirtless child] waits on [/EN#24867/other a platform] .
+[/EN#24863/people A boy] riding [/EN#24866/other a zip line] and [/EN#0/notvisual another] behind [/EN#0/notvisual him] waiting [/EN#24872/other his turn] .
+[/EN#24864/people Two boys] are harnessed to [/EN#24870/other a tree] and are swinging across [/EN#24865/other a wire] .
+[/EN#24864/people Two children] in [/EN#24871/clothing harnesses] are riding on [/EN#24866/other zip lines] .
+[/EN#24864/people Two boys] are riding [/EN#24865/other a zipline] between [/EN#24873/other trees] .

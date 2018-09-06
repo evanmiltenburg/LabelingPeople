@@ -1,0 +1,5 @@
+[/EN#101905/people A man] with [/EN#101909/clothing a beard and glasses] is holding [/EN#101906/people a crying baby] to [/EN#101908/bodyparts his face] .
+[/EN#101905/people A smiling man] wearing [/EN#101907/clothing glasses] holds [/EN#101906/people a crying baby] to [/EN#101908/bodyparts his face] .
+[/EN#101905/people A father] is holding [/EN#101906/people a crying infant] on [/EN#101910/bodyparts his chest] .
+[/EN#101905/people A man] with [/EN#101907/clothing glasses] is holding [/EN#101906/people a crying infant] .
+[/EN#101905/people A man] with [/EN#101907/clothing glasses] is holding [/EN#101906/people a baby] .

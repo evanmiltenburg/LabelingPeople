@@ -1,0 +1,5 @@
+[/EN#90153/people A crowd] stands in [/EN#0/notvisual the background] watching [/EN#90152/people someone] sliding down [/EN#90154/scene a ramp] on [/EN#90154/other a board] .
+[/EN#90152/people Snowboarder] is standing on [/EN#90154/other his board] while [/EN#90153/people the crowd] watches [/EN#0/notvisual him] .
+[/EN#90152/people A man] sliding on [/EN#90154/other a concrete bench] on [/EN#90154/other his snowboard] as [/EN#90153/people people] watch
+[/EN#90152/people A boy] is standing on [/EN#90154/other a snowboard] in front of [/EN#90153/people a crowd] .
+[/EN#90153/people A crowd] watching [/EN#90152/people a snowboarder] .

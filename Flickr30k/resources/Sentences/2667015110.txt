@@ -1,0 +1,5 @@
+[/EN#65055/people A young asian boy] in [/EN#65057/clothing a orange long-sleeved t-shirt] holds [/EN#65056/other a magazine] .
+[/EN#0/notvisual There] is [/EN#65055/people a child] wearing [/EN#65057/clothing an orange shirt] and hold [/EN#65056/other an orange book] .
+[/EN#65055/people The boy] wearing [/EN#65057/clothing an orange sweater] is carrying [/EN#65056/other a book] .
+[/EN#65055/people A child] in [/EN#65057/clothing an orange shirt] with [/EN#65056/other a book] .
+[/EN#65055/people A young boy] is holding [/EN#65056/other a book] .

@@ -1,0 +1,5 @@
+[/EN#31256/people A woman] wearing [/EN#31257/clothing a white-hooded sweatshirt] checks [/EN#31258/people the blood pressure of a man] in [/EN#31259/clothing a yellow shirt] .
+[/EN#31256/people A woman] in [/EN#31257/clothing a light hooded shirt] is taking [/EN#31258/people the blood pressure of a man] in [/EN#31259/clothing a yellow shirt] .
+[/EN#31256/people A woman] is taking [/EN#31258/other a man 's blood pressure] in [/EN#31262/scene a kitchen] .
+[/EN#31256/people A woman] is checking [/EN#31258/other a man 's blood pressure] at [/EN#31260/scene home] .
+[/EN#31261/people Man] getting [/EN#31258/other blood pressure] checked in [/EN#31260/scene his home] .

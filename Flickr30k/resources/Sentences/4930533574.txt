@@ -1,0 +1,5 @@
+[/EN#219443/people An old man] in [/EN#219446/clothing dirty clothes] rides [/EN#219444/vehicles a bike] loaded with [/EN#219450/other possessions] down [/EN#219445/scene a busy city street] .
+[/EN#219443/people An old skinny man] wearing [/EN#219447/clothing the dirty white shirt] riding on [/EN#219444/vehicles a bicycle] on [/EN#219445/scene the street]
+[/EN#219443/people Old man] riding [/EN#219444/vehicles a bicycle] while [/EN#219448/vehicles a black Honda SUV] drives by in [/EN#0/notvisual the background] .
+[/EN#219443/people A gentleman] is riding [/EN#219444/vehicles his bike] in [/EN#219449/scene the city] .
+[/EN#219443/people Old man] riding [/EN#219444/vehicles a bike] down [/EN#219445/scene the street] .

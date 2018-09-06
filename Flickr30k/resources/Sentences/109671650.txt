@@ -1,0 +1,5 @@
+[/EN#2404/people A boy] wearing [/EN#2407/clothing blue and yellow] walking on [/EN#2405/scene a cliff edge] .
+[/EN#2404/people A boy] in [/EN#2409/clothing yellow shorts] is standing on top of [/EN#2405/scene a cliff] .
+[/EN#2404/people A young child] is standing alone on [/EN#2406/other some jagged rocks] .
+[/EN#2404/people A little boy] standing high in [/EN#0/notvisual the air] on [/EN#2406/other a rock] .
+[/EN#2404/people Child] stands [/EN#2405/scene near edge of cliff] .

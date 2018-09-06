@@ -1,0 +1,5 @@
+[/EN#65687/people A man] is peddling [/EN#65688/vehicles a bike] attached to [/EN#65690/other a pole] with [/EN#65694/clothing a harness] around [/EN#65695/bodyparts his neck] suspended in [/EN#0/notvisual air] .
+[/EN#65687/people A man] is about to embark on [/EN#65692/other a dangerous stunt] involving [/EN#65688/vehicles a bicycle] and [/EN#65693/other bungee cords] .
+[/EN#65687/people A man] is on [/EN#65688/vehicles a bicycle] lifted off of [/EN#0/notvisual the ground] attached to [/EN#65690/other a pole] .
+[/EN#65687/people A man] sits on [/EN#65688/vehicles a bike] attached to [/EN#65690/people a column] in [/EN#0/notvisual the air] .
+[/EN#65687/people A man] sits on [/EN#65688/vehicles a bicycle] harnessed to [/EN#65690/other a metal pole] .

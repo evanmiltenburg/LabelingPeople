@@ -1,0 +1,5 @@
+[/EN#93811/people A woman] in [/EN#93812/clothing a straw hat] standing in front of [/EN#93815/other a table] covered in [/EN#93813/other miscellaneous items] .
+[/EN#93811/people A woman] in [/EN#93812/clothing an Asian style hat] standing in front of [/EN#93815/other a table] covered with [/EN#93813/other goods] .
+[/EN#93811/people A woman] wearing [/EN#93812/clothing a hat] looks at [/EN#93815/other a table] filled with [/EN#93813/other antiques] .
+[/EN#93811/people Woman] in [/EN#93812/clothing a hat] selling [/EN#93813/other items] in [/EN#93814/scene a stall] .
+[/EN#93811/people woman] wearing [/EN#93812/clothing a hat] outside at [/EN#93814/scene a shop]

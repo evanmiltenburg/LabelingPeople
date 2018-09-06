@@ -1,0 +1,5 @@
+[/EN#152232/people The football player] in [/EN#152244/clothing yellow and black] is about to be tackled by [/EN#152243/people the other football player] in [/EN#152241/clothing gold] and [/EN#152240/clothing blue] .
+[/EN#152232/people The football player] in [/EN#152239/clothing the white jersey] is running towards [/EN#152232/people the football player] in [/EN#152237/clothing the light blue jersey] .
+[/EN#0/notvisual This] is [/EN#152238/scene a scene] in [/EN#152242/other the middle of the action] of [/EN#152234/other a football game] .
+[/EN#152235/people A group of guys] are not [/EN#0/notvisual he] [/EN#152233/scene football field] playing [/EN#152234/other football] .
+[/EN#152232/people A person] is running up [/EN#152233/scene a field] with [/EN#152236/other a football] .

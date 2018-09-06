@@ -1,0 +1,5 @@
+[/EN#96794/people A construction worker] stands beside [/EN#96800/other a large yellow tube] , next to [/EN#96796/other scaffolding] on [/EN#96795/scene a city street] .
+[/EN#96794/people A man] is working in [/EN#96798/scene a construction site] on [/EN#96799/scene the dirt removal section] .
+[/EN#96794/people The man] works in [/EN#96797/other a big plant] and [/EN#0/notvisual he] is checking [/EN#96801/other their work] .
+[/EN#96794/people A man] stands in [/EN#96795/scene the street] outside of [/EN#96796/other scaffolding] .
+[/EN#96794/people A man] looks down toward [/EN#0/notvisual the ground] .

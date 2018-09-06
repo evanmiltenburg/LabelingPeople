@@ -1,0 +1,5 @@
+[/EN#136003/people Three girls] dancing on [/EN#136005/scene the hardwood floor] on [/EN#136004/scene an emty room] .
+[/EN#136003/people Three girls] are dancing in [/EN#136004/scene a large room] .
+[/EN#136003/people Girls] moving around in [/EN#136004/scene a spacious room] .
+[/EN#136003/people Three girls] dance on [/EN#136005/scene a wooden floor] .
+[/EN#136003/people Three girls] dancing .

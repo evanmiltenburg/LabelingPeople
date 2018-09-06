@@ -1,0 +1,5 @@
+[/EN#122730/people A man] in [/EN#122731/clothing a black shirt] and [/EN#122733/clothing red and white hat] swinging [/EN#122735/other a golf club] at [/EN#122732/other a golf ball] [/EN#0/notvisual that] is sitting in [/EN#122737/scene green grass] .
+[/EN#122730/people A man] wearing [/EN#122733/clothing a white and red hat] playing [/EN#122734/other golf] and is going to attempt to hit [/EN#122732/other the ball] .
+[/EN#122730/people A man] in [/EN#122731/clothing a black shirt] is playing [/EN#122736/scene golf outside] .
+[/EN#122730/people A man] is playing [/EN#122734/other golf] by [/EN#0/notvisual himself] .
+[/EN#0/notvisual There] is [/EN#122730/people a man] playing [/EN#122734/other golf] .

@@ -1,0 +1,5 @@
+[/EN#117935/people A group of men] walk on [/EN#117938/scene a street] with [/EN#117939/other yellow ribbon] in front of [/EN#117937/scene a white and red building] .
+[/EN#117935/people Many people] are walking down [/EN#117938/scene a road] in [/EN#0/notvisual both directions] , [/EN#117943/other some] are wearing [/EN#117944/clothing turbans]
+[/EN#117935/people A group of middle eastern men] are walking down [/EN#117938/scene a street] in front of [/EN#117937/scene a building] .
+[/EN#117940/people Man] in [/EN#117942/clothing maroon turban] standing in [/EN#117938/scene road] while [/EN#117936/people people] walk past
+[/EN#117936/people A group of men] walk along [/EN#117938/scene a road] divided with [/EN#117939/other yellow ropes] .

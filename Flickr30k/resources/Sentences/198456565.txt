@@ -1,0 +1,5 @@
+[/EN#24560/people A man] in [/EN#24561/clothing a gray shirt] yawns while standing near [/EN#24564/scene an opening] in [/EN#24563/other a wall] .
+[/EN#24560/people A man] with [/EN#24565/bodyparts dark hair] and [/EN#24561/clothing a gray shirt] is yawning next to [/EN#24563/other a window] .
+[/EN#24560/people A man] is standing inside [/EN#24562/vehicles/scene a subway train] with [/EN#24566/bodyparts his mouth] wide open .
+[/EN#24560/people A man] yawns while riding [/EN#24562/vehicles/scene the train] .
+[/EN#24560/people A man] in [/EN#24561/clothing a gray shirt] is yawning .

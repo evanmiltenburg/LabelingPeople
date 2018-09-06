@@ -1,0 +1,5 @@
+[/EN#148502/people Two employees] look on as [/EN#148500/people another employee] is tossing [/EN#148504/other dough] in [/EN#148503/scene a commercial kitchen] .
+[/EN#148500/people Man] , [/EN#0/notvisual who] can operate without looking , tosses [/EN#148504/other pizza dough] while [/EN#148506/other two others] watch .
+[/EN#148502/people Two cooks] in [/EN#148503/scene a restaurant kitchen] are watching [/EN#148500/people the third cook] make [/EN#148504/other pizza dough] .
+[/EN#148501/people Three men] are in [/EN#148503/scene a kitchen] , and [/EN#148500/other one] is making [/EN#148504/other a pizza]
+[/EN#148501/people Three men] are making [/EN#148504/other pizza dough] .

@@ -1,0 +1,5 @@
+[/EN#48059/people A man] sitting on [/EN#48060/scene a kitchen floor] using [/EN#48063/other wooden spoons] to hit [/EN#48061/other metal pans] .
+[/EN#48059/people A man] playing [/EN#48064/instruments the drums] on [/EN#48061/other a set of pots] and [/EN#48065/other pans] with [/EN#48063/other wooden spoons] .
+[/EN#48059/people Man] beating on [/EN#48065/other pots] and [/EN#48061/other pans] with [/EN#48062/other a wooden spoon] and [/EN#48067/other stick] .
+[/EN#48059/people A man] sitting on [/EN#48060/scene the kitchen floor] playing [/EN#48064/instruments drums] on [/EN#48065/other pots] .
+[/EN#48059/people A man] is banging on [/EN#48061/other pots] and [/EN#48061/other pans] in [/EN#48066/scene his kitchen] .

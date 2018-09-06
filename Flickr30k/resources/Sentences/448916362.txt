@@ -1,0 +1,5 @@
+[/EN#172667/animals The white and black dog] runs on [/EN#172668/scene the field] with [/EN#172669/bodyparts his tongue] hanging out .
+[/EN#172667/animals A dog] is running through [/EN#172668/scene a field] with [/EN#172669/bodyparts its tongue] hanging out .
+[/EN#172667/animals A dog] runs with [/EN#172669/bodyparts his tongue] hanging out .
+[/EN#172667/animals A dog] with [/EN#172670/scene its mouth open] is running .
+[/EN#172667/animals Brown and cream dog] with [/EN#172669/bodyparts tongue] out

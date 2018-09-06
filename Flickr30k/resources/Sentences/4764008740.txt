@@ -1,0 +1,5 @@
+[/EN#200468/people An older woman] in [/EN#200473/clothing an off-white blouse] is sitting on [/EN#200472/other a stone shelf] with [/EN#200474/clothing her purse] in [/EN#200475/bodyparts her lap] .
+[/EN#200468/people An older woman] sits on [/EN#200471/other a ledge] in front of [/EN#200470/scene the closed window of a stone building] .
+[/EN#0/notvisual There] is [/EN#200468/people an older woman] sitting on [/EN#200469/scene the side of a dingy building] .
+[/EN#200468/people An elderly woman] sitting in [/EN#200470/scene the window of a stone building]
+[/EN#200468/people An old woman] waits in front of [/EN#200469/scene a closed shop] .

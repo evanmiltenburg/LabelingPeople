@@ -1,0 +1,5 @@
+[/EN#261353/people Two horse racing jockeys] , [/EN#261365/other one] in [/EN#261363/clothing checkered blue and red] and [/EN#261355/other the other] in [/EN#261366/clothing orange and brown] , are racing against [/EN#0/notvisual a blurry background] .
+[/EN#261352/people A jockey] with [/EN#261362/clothing a red helmet] is riding [/EN#261354/animals a white horse] , and [/EN#261355/people a jockey] with [/EN#261358/clothing an orange helmet] is riding [/EN#261357/animals a brown horse] .
+[/EN#261352/people A jockey] wearing [/EN#261361/clothing a red and blue outfit] is staring down [/EN#261360/other a racetrack] riding [/EN#261354/animals a gray horse] .
+[/EN#261352/people A jockey] riding [/EN#261354/animals his horse] in [/EN#261359/other a race] , as [/EN#0/notvisual another] , losing [/EN#261355/people jockey] looks on .
+[/EN#261353/people Two jockeys] on [/EN#261354/animals horses] are racing down [/EN#261360/scene a track] .

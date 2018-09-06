@@ -1,0 +1,5 @@
+[/EN#160193/people A man] in [/EN#160195/clothing a red shirt] sits in [/EN#160197/other a chair] at [/EN#160194/scene a laundromat] ; [/EN#160195/clothing the red hue of his shirt] is repeated in [/EN#160202/clothing the color of a tote bag] suspended from [/EN#160203/other the handle of a machine] , [/EN#160198/other a stripe] painted on [/EN#160205/other the wall] , and [/EN#160201/other the instructions posters] on [/EN#160205/other the wall] .
+[/EN#160193/people A man] sitting at [/EN#160194/scene the public laundromat] waiting for [/EN#160200/clothing his clothes] to finish drying .
+[/EN#160193/people A man] dressed in [/EN#160195/clothing a red shirt] sits watching [/EN#160196/scene his laundry] being washed .
+[/EN#160193/people Man] sits and watches [/EN#160199/other five washing machines] .
+[/EN#160193/people A man] is doing [/EN#160196/scene his laundry] .

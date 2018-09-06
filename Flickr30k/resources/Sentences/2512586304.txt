@@ -1,0 +1,5 @@
+[/EN#54405/people A man] in [/EN#54406/clothing an orangutan suit] has [/EN#54411/other a conversation] with [/EN#54405/people an older man] in [/EN#54408/clothing a yellow jacket] .
+[/EN#54405/people A man] in [/EN#54408/clothing a yellow jacket] sits next to [/EN#54406/people a person] in [/EN#54406/clothing a brown gorilla suit] .
+[/EN#54405/people A man] talks animatedly to [/EN#54406/people a person] in [/EN#54406/clothing an orangutan suit] .
+[/EN#54405/people A man] talking to [/EN#54406/people a person] dressed as [/EN#54406/other a brown ape] .
+[/EN#54405/people A man] is talking to [/EN#54406/animals an orangutan] at [/EN#54409/other a bench] .

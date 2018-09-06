@@ -1,0 +1,5 @@
+[/EN#145765/people An overweight elderly woman] is waiting in [/EN#145767/other line] behind [/EN#145774/people a man] with [/EN#145781/bodyparts a shaved head] with [/EN#145773/clothing a gray shirt] and [/EN#145777/clothing black pants] and [/EN#0/notvisual there] is [/EN#145768/people a man] looking through [/EN#145769/other a newspaper] on [/EN#145775/scene a stand] [/EN#0/notvisual that] says [/EN#145771/other Echo] in [/EN#0/notvisual the background] .
+[/EN#145765/people An old lady] standing behind [/EN#145780/people two men] in [/EN#145767/other a checkout line] and [/EN#145768/people a man] wearing [/EN#145779/clothing sunglasses] in [/EN#0/notvisual the background] reading [/EN#145769/other a newspaper] .
+[/EN#145766/people Three people] standing in [/EN#145767/other line] at [/EN#145776/scene a store] and [/EN#145768/people one man] in [/EN#0/notvisual the background] looking at [/EN#145769/other the newspapers] .
+[/EN#145766/people Line of people] waiting to [/EN#145778/other checkout] at [/EN#145770/scene a store] .
+[/EN#145766/people Three people] standing in [/EN#145767/other line] at [/EN#145770/scene a store] .

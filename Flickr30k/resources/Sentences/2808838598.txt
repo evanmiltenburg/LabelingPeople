@@ -1,0 +1,5 @@
+[/EN#74163/other An Asian fruit] and [/EN#74167/other vegetable vendor 's selection] of [/EN#74170/other bananas] , [/EN#74173/clothing oranges] , [/EN#74171/other melons] and [/EN#74172/other more] in [/EN#74165/vehicles/scene his small boat] .
+[/EN#74164/people This person] is in [/EN#74165/vehicles/scene a boat] with [/EN#74167/other a display of food] laid out on [/EN#74168/other a platform] across [/EN#74165/vehicles/scene the boat] .
+[/EN#74164/people An Asian man] sitting in [/EN#74165/vehicles/scene a boat] with [/EN#74169/other a wide variety of fruit] around [/EN#0/notvisual him] .
+[/EN#74164/people A woman] is on [/EN#74165/vehicles/scene a boat] with [/EN#74163/other many types of fruit] .
+[/EN#74164/people A person] paddling [/EN#74165/vehicles/scene a boat] .

@@ -1,0 +1,5 @@
+[/EN#115297/people The man] with [/EN#115298/clothing a gray jacket] and [/EN#115300/clothing red sunglasses] is holding [/EN#115299/other cameras] and standing in front of [/EN#115302/vehicles a car] .
+[/EN#115297/people A person] wearing [/EN#115298/clothing a gray jacket] and [/EN#115300/clothing sunglasses] poses for [/EN#0/notvisual the camera] .
+[/EN#115297/people A person] stands wearing [/EN#115300/clothing sunglasses] , [/EN#115303/vehicles/scene a boat] and [/EN#115299/other two cameras] .
+[/EN#115297/people A man] wearing [/EN#115300/clothing red sunglasses] is carrying [/EN#115299/other two cameras] .
+[/EN#115297/people A woman] wearing [/EN#115298/clothing a gray jacket] and [/EN#115300/clothing pink sunglasses]

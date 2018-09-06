@@ -1,0 +1,5 @@
+[/EN#56173/people A group of construction workers] wearing [/EN#56176/clothing orange vests] are working on [/EN#56175/scene a train station area] .
+[/EN#56174/people Workers] wearing [/EN#56176/clothing orange caution vests] are working with [/EN#56179/clothing blue bags] beside [/EN#56181/scene railroad tracks] .
+[/EN#56173/people A construction crew] in [/EN#56176/clothing safety vests] are renovating [/EN#56175/scene a sidewalk] near [/EN#56177/scene railroad tracks] .
+[/EN#56173/people Construction workers] are laying [/EN#56180/other bricks] in [/EN#56177/scene the median of a train station] .
+[/EN#56174/people Several men] in [/EN#56176/clothing orange vests] work along side [/EN#56178/other a railway] .

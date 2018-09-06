@@ -1,0 +1,5 @@
+[/EN#83853/people A man] wearing [/EN#83858/clothing black sweatpants] , [/EN#83856/clothing a white T-shirt] , and [/EN#83861/clothing sneakers] leaps off [/EN#83855/scene a concrete roof] toward [/EN#83854/other a tall brick wall] .
+[/EN#83853/people A tall , athletic man] leaps upward towards [/EN#83862/other the top of a brick wall] .
+[/EN#83853/people A man] taking [/EN#83857/other a daring leap] while practicing [/EN#83860/other his parkour]
+[/EN#83853/people Man] in [/EN#83856/clothing a white shirt] jumping toward [/EN#83854/other a brick wall] .
+[/EN#83853/people Man] jumping from [/EN#83855/scene lower roof] to [/EN#83854/scene higher roof] .

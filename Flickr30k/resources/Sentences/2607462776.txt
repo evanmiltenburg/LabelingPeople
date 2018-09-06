@@ -1,0 +1,5 @@
+[/EN#61271/animals A black dog] jumping from [/EN#61272/other a wooden deck] into [/EN#61273/scene a lake] .
+[/EN#61271/animals A black dog] jumps off of [/EN#61272/scene a pier] into [/EN#61273/scene a lake] .
+[/EN#61271/animals A black dog] jumps into [/EN#61273/scene the water] off [/EN#61272/scene a dock] .
+[/EN#61271/animals A black dog] jumping off [/EN#61272/scene a dock] into [/EN#61273/scene water] .
+[/EN#61271/animals The dog] is leaping into [/EN#61273/scene the pond] .

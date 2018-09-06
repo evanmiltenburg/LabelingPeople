@@ -1,0 +1,5 @@
+[/EN#103550/people The woman] in [/EN#103551/clothing the black coat] is smoking and [/EN#103552/people the woman] in [/EN#103556/clothing the gray coat] sits on [/EN#103553/other stone steps] .
+[/EN#103550/people Lady] in [/EN#103551/clothing black] standing and smoking with [/EN#103552/people another girl] sitting on [/EN#103553/other the steps] .
+[/EN#103550/people The person] in [/EN#103557/clothing black] smoked while [/EN#103552/people the woman] in [/EN#103558/other brown sat] on [/EN#103553/other the steps] .
+[/EN#103550/people A man] smoking [/EN#103555/other a cigarette] talking to [/EN#103552/people a lady] [/EN#0/notvisual who] is sitting on [/EN#103553/other steps] .
+[/EN#103554/people Two women] smoking on [/EN#103553/scene the steps of a white building] .

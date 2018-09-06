@@ -1,0 +1,5 @@
+[/EN#4032/people a young girl] wearing [/EN#4034/clothing a blue shirt] marching in [/EN#4033/people a band] playing [/EN#4035/instruments a trumpet]
+[/EN#4032/people Girl] wearing [/EN#4034/clothing blue shirt] and [/EN#4036/clothing black shorts] plays trumped outside .
+[/EN#4032/people A teenager] plays [/EN#4035/instruments her trumpet] on [/EN#4037/scene the field] at [/EN#4038/other a game] .
+[/EN#4032/people A girl] playing [/EN#4035/instruments trumpet] in [/EN#4033/people a marching band] .
+[/EN#4032/people Girl] playing [/EN#4035/instruments the trumpet] in [/EN#4033/people a marching band]

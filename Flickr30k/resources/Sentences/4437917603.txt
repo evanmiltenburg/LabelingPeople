@@ -1,0 +1,5 @@
+[/EN#168029/other A plane] taking off at [/EN#168032/scene the airport] while [/EN#168031/people a grounds crew man] is looking [/EN#168033/scene the other way] .
+[/EN#168029/other A jet plane] departing [/EN#168034/scene the airfield] and ascending into [/EN#168035/scene the sky] .
+[/EN#168029/other An airplane high] in [/EN#168036/scene the sky] with [/EN#168031/people a man] walking on [/EN#0/notvisual the ground] .
+[/EN#168029/vehicles An airplane] is visible low in [/EN#168035/scene the sky] over [/EN#168032/scene the airport] .
+[/EN#168029/vehicles An airplane] takes off in [/EN#0/notvisual the air] .

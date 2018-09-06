@@ -1,0 +1,5 @@
+[/EN#209580/people A lady] walking on [/EN#209584/scene the sidewalk] dressed in [/EN#209582/clothing a blue] pants , [/EN#209587/clothing a hat] and [/EN#209588/clothing a purple & white coat] , passing by [/EN#209579/scene a Bagel shop] .
+[/EN#209580/people A woman] is walking [/EN#209579/scene past brick building] called [/EN#209581/other Mr Bagel] 's [/EN#0/notvisual that] has [/EN#209586/other graffiti] on [/EN#0/notvisual it]
+[/EN#209580/people One person] walked by [/EN#209579/scene a building] named [/EN#209581/other Mr Bagel 's] .
+[/EN#209579/scene The bagel shop] is no longer in [/EN#209585/other business] .
+[/EN#209580/people A woman] walks past [/EN#209579/scene an old bagel shop] .

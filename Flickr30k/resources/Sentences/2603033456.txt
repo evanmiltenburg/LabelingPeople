@@ -1,0 +1,5 @@
+[/EN#60945/people A young boy] wearing [/EN#60946/clothing a white shirt] is playing in [/EN#60947/scene the sea] on [/EN#60947/scene a beach] .
+[/EN#60945/people A boy] in [/EN#60946/clothing a white t-shirt] is splashing in [/EN#60948/scene shallow water] .
+[/EN#60945/people Boy] running through [/EN#60948/scene the water] at [/EN#60947/scene the beach]
+[/EN#60945/people A boy] in [/EN#60949/clothing white and red] is at [/EN#60947/scene the beach] .
+[/EN#60945/people A child] playing in [/EN#60947/scene water] .

@@ -1,0 +1,5 @@
+[/EN#16095/people A boy] in [/EN#16098/clothing a red jacket] and [/EN#16100/clothing earmuffs] is sitting in [/EN#16099/scene the snow] in [/EN#16097/scene a city] setting .
+[/EN#16096/people Three people] are playing in [/EN#16099/scene snow covered city streets] .
+[/EN#16096/people three children] play in [/EN#16099/scene the snow] in [/EN#16097/scene an urban area] .
+[/EN#16095/people A boy] in [/EN#16098/clothing a red jacket] is sitting in [/EN#16099/scene the snow] .
+[/EN#16096/people Children] are playing on [/EN#16099/scene a snowy street] .

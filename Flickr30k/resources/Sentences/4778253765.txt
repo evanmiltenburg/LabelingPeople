@@ -1,0 +1,5 @@
+[/EN#201895/people A person] in [/EN#201900/clothing a blue shirt] is on [/EN#0/notvisual the tiled ground] showing [/EN#201895/other his paintings] and reaching into [/EN#201899/other a box of supplies] .
+[/EN#201895/people a street spray paint artist] is creating [/EN#201898/other new work] while showing [/EN#201895/other his art] .
+[/EN#201895/people A street artist] is displaying [/EN#201898/other his pictures] on [/EN#201897/scene the pavement] .
+[/EN#0/notvisual There] is [/EN#201895/people a person] kneeling on [/EN#0/notvisual the ground] .
+[/EN#201895/other An artist painting] on [/EN#201897/scene the sidewalk] .

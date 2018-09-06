@@ -1,0 +1,5 @@
+[/EN#88600/people A young boy] standing in [/EN#88602/scene a courtyard] turning [/EN#88603/other a crank] .
+[/EN#88600/people A child] turning [/EN#88603/other a crank] with [/EN#88604/other benches] behind [/EN#0/notvisual him] .
+[/EN#88600/people A young boy] is standing on [/EN#88601/scene a gray tiled area] .
+[/EN#88600/people Young boy] turning [/EN#88603/other a crank] in [/EN#88602/scene the street] .
+[/EN#88600/people A boy] turns [/EN#88603/other a handcrank] in [/EN#88601/scene a courtyard] .

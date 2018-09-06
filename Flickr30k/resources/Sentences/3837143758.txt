@@ -1,0 +1,5 @@
+[/EN#145035/people A woman] walks across [/EN#145038/scene a grassy area] , away from [/EN#0/notvisual the camera] , with [/EN#145034/people a small boy] in [/EN#145039/bodyparts her arms] looking backward .
+[/EN#145034/people A little boy] is being carried by [/EN#145035/people a lady] wearing [/EN#145040/clothing a brown dress] .
+[/EN#145035/people A woman] is carrying [/EN#145034/people a young boy] [/EN#0/notvisual who] is holding onto [/EN#145037/other a leaf] .
+[/EN#145035/people A woman] is holding [/EN#145034/people a boy] .
+[/EN#145035/people A mom] giving [/EN#0/notvisual her] [/EN#145034/people son] [/EN#145036/other a hug]

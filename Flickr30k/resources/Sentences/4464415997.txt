@@ -1,0 +1,5 @@
+[/EN#170651/people People] walking on [/EN#170652/scene a walkway] during [/EN#170659/scene the day] with [/EN#170656/other apartments] to [/EN#170661/scene their left] .
+[/EN#170651/people A few people] walking in [/EN#170660/scene the distance of a small town] .
+[/EN#170654/scene A view] down [/EN#170652/scene a street] with [/EN#170657/scene buildings] on [/EN#0/notvisual either side] .
+[/EN#170651/people People] walk down [/EN#170652/scene a narrow European street] .
+[/EN#170653/other A shopping court] in [/EN#170655/scene a city] somewhere .

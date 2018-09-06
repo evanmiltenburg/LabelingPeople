@@ -1,0 +1,5 @@
+[/EN#64359/people A man] in [/EN#64360/clothing a gray t-shirt] is shoveling [/EN#64361/other cement] from [/EN#64362/vehicles a wheelbarrow] .
+[/EN#64359/people A man] dressed in [/EN#64360/clothing blue] shovels [/EN#64361/scene dirt] out of [/EN#64362/vehicles a red wheelbarrow] .
+[/EN#64359/people A man] mixing [/EN#64361/other cement] in [/EN#64362/vehicles a red wheelbarrow] in [/EN#64364/scene a driveway] .
+[/EN#64359/people A man] is mixing [/EN#64361/other cement] in [/EN#64362/vehicles a red wheelbarrow] .
+[/EN#64359/people A man] shovels [/EN#64364/scene dirt] out of [/EN#64362/vehicles a wheelbarrow] .

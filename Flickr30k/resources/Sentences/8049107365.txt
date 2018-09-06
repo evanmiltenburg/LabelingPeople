@@ -1,0 +1,5 @@
+[/EN#278257/vehicles Monster truck] flies over [/EN#278262/other grassy knolls] on [/EN#278263/other a sunny afternoon] .
+[/EN#278257/vehicles A white dune buggy] jumping across [/EN#278258/scene a grass] and [/EN#278259/scene dirt terrain] .
+[/EN#278257/vehicles A four-wheel jeep] is riding on [/EN#278259/scene the rough terrain] .
+[/EN#278257/vehicles A monster truck] is on [/EN#278258/scene a hill] in [/EN#278261/scene midair] .
+[/EN#278257/vehicles A car] drifting in [/EN#278260/scene the desert] .

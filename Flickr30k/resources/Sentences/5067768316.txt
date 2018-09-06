@@ -1,0 +1,5 @@
+[/EN#227980/people A bicyclist] in [/EN#227987/clothing a striped athletic outfit] is leaning against [/EN#227983/vehicles a car] and taking [/EN#227984/other a drink] .
+[/EN#227980/people A bicyclist] sits on [/EN#227982/vehicles a bike] while leaning against [/EN#227983/vehicles a gray car] and drinking [/EN#227981/other something] .
+[/EN#227980/people A bicyclist] in [/EN#227986/other white and black tights] is drinking in front of [/EN#227983/other a mini van] .
+[/EN#227980/people A man] sits on [/EN#227982/vehicles bicycle] , leaning against [/EN#227983/vehicles a car] , drinking [/EN#227981/other a beverage] .
+[/EN#227980/people A cyclist] [/EN#0/notvisual who] is resting and rehydrating [/EN#0/notvisual himself] .

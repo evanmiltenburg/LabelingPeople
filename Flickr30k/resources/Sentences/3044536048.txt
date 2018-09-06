@@ -1,0 +1,5 @@
+[/EN#89740/people A person] in [/EN#89744/clothing a green jacket] [/EN#0/notvisual it] surfing while holding on to [/EN#89742/other a line] .
+[/EN#89740/people A person] on [/EN#89745/other a surfboard] in [/EN#89741/scene the waves] , holding onto [/EN#89742/other a tether] .
+[/EN#89739/people a lone parasurfer] surfing [/EN#89741/scene a huge wave] in [/EN#89743/scene the ocean] .
+[/EN#89740/people A person] in [/EN#89744/clothing green] surfing [/EN#89741/scene a wave] .
+[/EN#89739/people A man] parasurfs in [/EN#89743/scene the ocean]

@@ -1,0 +1,5 @@
+[/EN#200989/people A woman] with [/EN#200992/clothing headphones] holding [/EN#200994/other a pen] and [/EN#200991/other paper] while [/EN#201000/bodyparts her feet] are propped up on [/EN#200989/scene fence] .
+[/EN#200989/people A woman] in [/EN#200995/clothing a red shirt] and [/EN#201000/clothing tennis shoes] writes as [/EN#0/notvisual she] listens to [/EN#200998/other music] by [/EN#200989/scene the lake]
+[/EN#200989/people A girl] wearing [/EN#200995/clothing a pink shirt] is writing near [/EN#200989/scene open water] .
+[/EN#200989/people A woman] with [/EN#200992/clothing earphones] sits on [/EN#200990/other a bench] while [/EN#201001/other writing] .
+[/EN#200989/people A woman] sitting on [/EN#200990/other a bench] filling out [/EN#200991/other a form] .

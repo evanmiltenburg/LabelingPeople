@@ -1,0 +1,5 @@
+[/EN#230068/people A police officer] posing with [/EN#230070/people two army officers] beside [/EN#230071/other his motorcycle] .
+[/EN#230069/people Three police officers] next to [/EN#230071/other a police motorcycle] .
+[/EN#0/notvisual There] are [/EN#230069/people three policemen] and [/EN#230071/other a police motorcycle] .
+[/EN#230070/people Two men] in [/EN#230072/clothing red berets] pose with [/EN#230068/people a motorcycle cop] .
+[/EN#230069/people Three police officers] pose with [/EN#230071/other a motorcycle] .

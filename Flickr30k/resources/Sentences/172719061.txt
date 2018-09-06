@@ -1,0 +1,5 @@
+[/EN#19476/people A woman] with [/EN#19479/bodyparts short red-hair] sitting on [/EN#19477/scene a rocky beach] tossing [/EN#19478/other a rock] into [/EN#19480/scene the water] .
+[/EN#19476/people Woman] with [/EN#19479/bodyparts red-hair] wearing [/EN#19482/clothing black clothes] throwing [/EN#19478/other a rock] into [/EN#19480/scene water] .
+[/EN#19476/people A woman] with [/EN#19479/bodyparts red-hair] tosses [/EN#19478/other rocks] in [/EN#19480/scene the ocean] .
+[/EN#19476/people A redheaded female] sits on [/EN#19477/scene the beach] .
+[/EN#19476/people A woman] sits in [/EN#19477/other rocks] by [/EN#19480/scene the ocean] .

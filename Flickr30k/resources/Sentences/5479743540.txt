@@ -1,0 +1,5 @@
+[/EN#237267/people A guy] wearing [/EN#237270/clothing jeans] and [/EN#237272/clothing a hat] is crouching on [/EN#237268/other a handrail] with [/EN#237271/scene a concrete embankment] located in front of [/EN#0/notvisual him] .
+[/EN#237267/people A man] wearing [/EN#237270/clothing jeans] , along [/EN#237277/clothing sleeve t-shirt] , and [/EN#237275/clothing glasses] is standing on [/EN#237268/other a low metal railing] .
+[/EN#237267/people A young man] is posing on [/EN#237276/other his skateboard] on top of [/EN#237268/other a rail] at [/EN#237269/scene a skate park] .
+[/EN#237267/people A skateboarder] at [/EN#237269/scene a skate park] attempting [/EN#0/notvisual a rail slide trick] .
+[/EN#237267/people A skateboarding youth] does [/EN#0/notvisual a trick] on [/EN#237268/other a rail] .

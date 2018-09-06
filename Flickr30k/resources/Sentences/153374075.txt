@@ -1,0 +1,5 @@
+[/EN#15784/people A construction worker] working on [/EN#15785/scene a building] .
+[/EN#15784/people A worker] standing on [/EN#15786/other a high scaffold] .
+[/EN#15784/people Construction workers] are painting .
+[/EN#15784/people A man] in [/EN#15787/clothing red] is fixing [/EN#15785/scene a bridge] .
+[/EN#15784/people Two men] are working so hard .

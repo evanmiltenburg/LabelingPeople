@@ -1,0 +1,5 @@
+[/EN#151363/people A woman] in [/EN#151366/clothing a red jacket] is leaning on [/EN#151360/other a baby stroller] while talking with [/EN#151364/people another woman] at [/EN#151362/scene a train station] .
+[/EN#151358/people Two women] , [/EN#151363/other one] with [/EN#151359/people a baby] in [/EN#151360/other a stroller] , are talking in front of [/EN#151361/vehicles/scene a stopped subway train] .
+[/EN#151358/people Two ladies] with [/EN#151359/people a baby] talk in front of [/EN#151361/vehicles/scene the subway train] .
+[/EN#151358/people Two women] standing outside of [/EN#151361/vehicles/scene a subway] , talking .
+[/EN#151358/people Two women] talking with [/EN#0/notvisual each other] in [/EN#151362/vehicles/scene a subway] .

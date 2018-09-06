@@ -1,0 +1,5 @@
+[/EN#115788/people A female basketball player] wearing [/EN#115794/clothing a red uniform] is holding [/EN#115789/other a basketball] and looking up while [/EN#115792/bodyparts/people an arm] is trying to block [/EN#0/notvisual her] .
+[/EN#115788/people A woman basketball player] holding [/EN#115796/bodyparts the ball grimaces] with [/EN#115790/other effort] while [/EN#115792/bodyparts/people another player 's arm] attempts to block [/EN#0/notvisual her] .
+[/EN#115788/people A female woman] has [/EN#115789/other a basketball] in [/EN#115793/bodyparts her hands] and [/EN#115791/other a determined look] on [/EN#115797/bodyparts her face] .
+[/EN#115788/people A woman] with [/EN#115794/clothing a red basketball jersey] is holding [/EN#115789/other a basketball] and looking up .
+[/EN#115788/people A basketball player] looks upward as [/EN#115793/bodyparts a hand] reaches for [/EN#115789/other her ball] .

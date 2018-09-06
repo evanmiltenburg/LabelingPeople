@@ -1,0 +1,5 @@
+[/EN#14225/people A man] in [/EN#14226/clothing a green shirt] walks [/EN#14227/other past two garbage cans] in front of [/EN#14228/scene a house] .
+[/EN#14225/people A man] in [/EN#14229/clothing a hat] and [/EN#14230/clothing sunglasses] walking by in [/EN#14233/scene a residential area] .
+[/EN#14225/people A man] in [/EN#14226/clothing a green shirt] , [/EN#14226/clothing blue coat] , and [/EN#14231/clothing blue jeans] walking .
+[/EN#14225/people A man] is walking across [/EN#14232/scene the street] .
+[/EN#14225/people A worker] walking down [/EN#14232/scene the street] .

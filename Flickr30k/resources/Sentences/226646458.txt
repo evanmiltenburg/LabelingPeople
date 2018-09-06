@@ -1,0 +1,5 @@
+[/EN#37811/people A dark-haired woman] is fixing [/EN#37812/bodyparts a blond woman 's hair] .
+[/EN#37811/people Brunette woman] fixing [/EN#37812/bodyparts a blond woman 's hair] .
+[/EN#37811/people A woman] fixing [/EN#37812/bodyparts another woman 's blond-hair] .
+[/EN#37811/people Brunette woman] fixing [/EN#37812/bodyparts blond woman 's hair] .
+[/EN#37811/people A woman] is fixing [/EN#37812/bodyparts another womn 's hair] .

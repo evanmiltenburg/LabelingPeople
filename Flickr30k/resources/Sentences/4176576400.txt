@@ -1,0 +1,5 @@
+[/EN#158084/people A proud father] with [/EN#158085/people his child] and [/EN#158086/animals dog] is sitting in [/EN#158087/other a lounge chair] outside , and looking at [/EN#158085/people his son] .
+[/EN#158084/people A man] sitting on [/EN#158087/other a lawn chair] is carrying [/EN#158085/people an infant] on [/EN#158088/bodyparts his lap] , while [/EN#158086/animals a dog] lays next to [/EN#0/notvisual him] .
+[/EN#158084/people A man] is sitting in [/EN#158087/other a lawn chair] holding [/EN#158085/people an infant] while [/EN#158086/animals a dog] is laying down beside [/EN#0/notvisual him] .
+[/EN#158084/people A man] is sitting in [/EN#158087/other a lawn chair] while holding [/EN#158085/people a baby] with [/EN#158086/animals a dog] laying next to [/EN#0/notvisual them] .
+[/EN#158084/people A father] is holding [/EN#158085/scene his newborn outside] in [/EN#158087/other a fold-able chair] .

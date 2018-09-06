@@ -1,0 +1,5 @@
+[/EN#98200/people Various people] are eating at [/EN#98202/other red tables] in [/EN#98201/scene a crowded restaurant] with [/EN#98203/other purple lights] .
+[/EN#98200/people A large group of asian people] are eating at [/EN#98201/scene a restaurant] .
+[/EN#98200/people/scene Diners] sit at [/EN#98202/other tables] in [/EN#98201/scene a crowded restaurant] lit in [/EN#98203/clothing blue] .
+[/EN#98200/people Many people] are eating in [/EN#98201/scene a crowded restaurant] .
+[/EN#98200/people Many people] sitting at [/EN#98202/other many tables] .

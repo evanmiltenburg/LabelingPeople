@@ -1,0 +1,5 @@
+[/EN#252556/people A guy] with [/EN#252563/clothing a blue jean jacket] is reading [/EN#252557/other a book] in [/EN#252560/other a black and white checkered floored laundry mat] .
+[/EN#252556/people A young adult] reads [/EN#252557/other a book] at [/EN#252558/scene the laundromat] as [/EN#0/notvisual he] waits for [/EN#252562/scene his laundry] to be done .
+[/EN#252556/people A man] is reading [/EN#252557/other a novel] while [/EN#0/notvisual he] is waiting at [/EN#252558/scene the laundromat] .
+[/EN#252556/people A man] reads [/EN#252557/other a book] while sitting in [/EN#252561/other a laundry facility] .
+[/EN#252556/people Man] in [/EN#252558/scene a laundromat] reading [/EN#252557/other a book] .

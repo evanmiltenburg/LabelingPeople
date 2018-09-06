@@ -1,0 +1,5 @@
+[/EN#89384/people two woman] eating at [/EN#89385/other a table] with [/EN#89386/animals a lot of pigeons] on [/EN#89387/scene the street] next to [/EN#0/notvisual them]
+[/EN#89384/people A person] rides [/EN#89388/vehicles a moped] while [/EN#89384/people women] sit on [/EN#89389/other a bench] surrounded by [/EN#89386/animals pigeons] .
+[/EN#89387/scene A street] with [/EN#89386/animals pigeons] , [/EN#89390/people a motorcyclist] and [/EN#89384/people a woman] on [/EN#89389/other a bench] .
+[/EN#89390/people A man] riding [/EN#89388/other a motorcycle] down [/EN#89387/scene the sidewalk] .
+[/EN#89386/animals The birds] are in [/EN#89387/scene the street] .

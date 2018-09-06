@@ -1,0 +1,5 @@
+[/EN#219452/people A older Asian man] wearing [/EN#219453/clothing a straw hat] stops on [/EN#219454/scene the sidewalk] to pose for [/EN#219459/other a picture] .
+[/EN#219452/people An Asian man] stands on [/EN#219454/scene a brick sidewalk] in front of [/EN#219455/vehicles a red scooter] .
+[/EN#219452/people An Asian man] is wearing [/EN#219453/clothing a big hat] while posing for [/EN#0/notvisual the camera] .
+[/EN#219452/people An Asian man] in [/EN#219453/clothing a hat] stands in front of [/EN#219455/vehicles a red scooter] .
+[/EN#219452/people A man] in [/EN#219456/clothing a blue shirt] walking down [/EN#219458/scene the street] .

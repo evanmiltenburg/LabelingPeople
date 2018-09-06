@@ -1,0 +1,5 @@
+[/EN#96637/people Two children] are playing in [/EN#96638/vehicles/scene a green boat] on [/EN#96639/scene the grass] .
+[/EN#96637/people Two boys] are sitting in [/EN#96638/other a green kayak] on [/EN#96639/scene the grass] .
+[/EN#96637/people Two young boys] are in [/EN#96638/other a green kayak] in [/EN#96639/scene the grass] .
+[/EN#96637/people Two children] sit in [/EN#96638/vehicles a green vessel] in [/EN#96639/scene a yard] .
+[/EN#96637/people Two children] in [/EN#96638/vehicles/scene green plastic boat] on [/EN#96639/scene lawn] .

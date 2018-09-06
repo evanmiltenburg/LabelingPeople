@@ -1,0 +1,5 @@
+[/EN#232461/people A man] on [/EN#232463/other crutches] in [/EN#232462/clothing a red , blue , and white uniform] is standing on [/EN#232465/scene a football field] looking up at [/EN#232464/scene the sky] .
+[/EN#232461/people An injured football player] on [/EN#232463/other crutches] , wearing [/EN#232462/clothing a red white and blue uniform] , looks towards [/EN#232469/scene the sky] .
+[/EN#232461/people A young football player] standing on [/EN#232468/other the sidelines] looks towards [/EN#232464/scene the sky] while holding [/EN#232463/other crutches] .
+[/EN#232461/people A young man] in [/EN#232466/clothing a football jersey] supports [/EN#0/notvisual himself] with [/EN#232463/other crutches] while observing [/EN#232467/scene an event] .
+[/EN#232461/people A man] in [/EN#232462/clothing a red football jersey] holds on [/EN#232463/other to two crutches] .

@@ -1,0 +1,5 @@
+[/EN#235312/people Two people] , [/EN#235316/other one] wearing [/EN#235328/clothing white hat] with [/EN#235314/clothing green shirt] , [/EN#235315/clothing the other red shirt] and [/EN#235325/clothing red cap] , in [/EN#235313/vehicles/scene a boat] , staring at [/EN#235317/scene the shore] .
+[/EN#235312/people Two people] in [/EN#235313/vehicles/scene a boat] , [/EN#235324/other one] [/EN#235315/clothing a red shirt] and [/EN#235316/other one] in [/EN#235314/clothing a green shirt] , observe [/EN#235323/other the riverbank] as [/EN#0/notvisual they] row along .
+[/EN#235319/other Two figures] in [/EN#235313/vehicles/scene a red and green boat] are gazing toward [/EN#235326/other some large rocks] on [/EN#235317/scene the shore] .
+[/EN#235312/people Two people] in [/EN#235313/other a canoe] watching [/EN#235327/other something] in [/EN#235320/other the boulder] lined [/EN#235318/scene water] .
+[/EN#235312/people Two fishermen] rest [/EN#235322/other a moment] upon [/EN#235318/scene the water] .

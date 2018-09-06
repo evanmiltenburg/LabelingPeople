@@ -1,0 +1,5 @@
+[/EN#227932/people A man] and [/EN#227933/people a woman] wearing [/EN#227938/clothing backpacks] standing in front of [/EN#227937/other a large rock] in [/EN#227935/scene a heavily treed area] .
+[/EN#0/notvisual This] is [/EN#227939/people couple] hiking over [/EN#227937/other some rocks] in [/EN#227934/other a park of some sort] .
+[/EN#227932/people A guy] and [/EN#227933/people a girl] are rock climbing with [/EN#227938/clothing backpacks] on .
+[/EN#227932/people A male] and [/EN#227933/people a female] are hiking in [/EN#227940/other the woods] .
+[/EN#227932/people A man] and [/EN#227933/people woman] are touring [/EN#227936/scene a mountain] .

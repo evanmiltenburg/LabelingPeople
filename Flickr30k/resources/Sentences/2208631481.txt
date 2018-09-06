@@ -1,0 +1,5 @@
+[/EN#34235/animals A black dog] is running in [/EN#34237/scene a field of grass] and [/EN#34239/animals another black dog] can be seen behind [/EN#0/notvisual him] .
+[/EN#34236/animals The two black dogs] are running through [/EN#34237/scene the grass] .
+[/EN#34236/animals Two black dogs] are running in [/EN#34237/scene the grass] together .
+[/EN#34235/animals A black dog] is running across [/EN#34238/scene a field] .
+[/EN#34236/animals Two black dogs] run through [/EN#34238/scene a field] .

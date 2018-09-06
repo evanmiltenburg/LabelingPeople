@@ -1,0 +1,5 @@
+[/EN#65965/people A toddler] in [/EN#65967/clothing a diaper] is playing in [/EN#65971/scene a sandbox] near [/EN#65969/other a shovel] and [/EN#65969/other other sand toys] .
+[/EN#65965/people The cute baby] in [/EN#65967/clothing a diaper] and [/EN#65973/clothing shirt] plays in [/EN#65968/scene the dirt] .
+[/EN#65965/people A baby] playing in [/EN#65968/scene the dirt] with [/EN#65966/other a bucket] and [/EN#65969/other shovel] .
+[/EN#65965/people A baby] is in [/EN#65968/other a sandpit] playing with [/EN#65966/other a bucket] .
+[/EN#65965/people A blond baby] playing in [/EN#65968/other the sand] .

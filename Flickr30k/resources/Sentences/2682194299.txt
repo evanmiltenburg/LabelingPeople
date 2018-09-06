@@ -1,0 +1,5 @@
+[/EN#65855/animals A black and white dog] is running down [/EN#65856/other some white steps] .
+[/EN#65855/animals A black and white dog] is bounding down [/EN#65856/other white steps] .
+[/EN#65855/animals A tri-colored dog] is jumping over [/EN#65856/other obstacles] .
+[/EN#65855/animals A small dog] jumping [/EN#65856/other some hurdles] .
+[/EN#65855/animals Dog] sits on [/EN#65856/other hurdles] .

@@ -1,0 +1,5 @@
+[/EN#162254/people A woman] in [/EN#162258/clothing a sleeveless shirt] grins in [/EN#162260/people the direction of the man] in [/EN#162259/scene the adjoining plush bus seat] .
+[/EN#162254/people A woman] in [/EN#162258/clothing a spaghetti strap shirt] is smiling at [/EN#162253/people a man] wearing [/EN#162258/clothing a white shirt] .
+[/EN#162261/other The young couple share] [/EN#162262/other a humorous joke] while traveling on [/EN#162257/vehicles/scene the coach bus] .
+[/EN#162253/people A man] [/EN#162254/people a woman] sitting inside [/EN#162263/vehicles a vehicle] .
+[/EN#162253/people A man] and [/EN#162254/people women] are on [/EN#162257/vehicles/scene a bus] .

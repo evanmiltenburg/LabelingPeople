@@ -1,0 +1,5 @@
+[/EN#285179/people a man] with [/EN#285181/vehicles a wheelbarrow] is standing outside [/EN#285185/other a window] wearing [/EN#285180/clothing a silver suit] with [/EN#285183/clothing a cone shaped hat] .
+[/EN#285179/people A man] in [/EN#285180/clothing a silver rain poncho] standing next to [/EN#285181/other a wheel barrel] .
+[/EN#285179/people A man] in [/EN#285180/clothing a silver raincoat] standing outside by [/EN#285181/vehicles a wheelbarrow] .
+[/EN#285179/people A man] in [/EN#285180/clothing a raincoat] stands outside [/EN#285186/scene a house] in [/EN#285182/other the rain] .
+[/EN#285179/people A man] in [/EN#285180/clothing a raincoat] is standing in [/EN#285182/other the rain] .

@@ -1,0 +1,5 @@
+[/EN#126244/people Person] in [/EN#126246/clothing a yellow helmet] is jumping [/EN#126243/animals a brown horse] over [/EN#126245/scene a fence] .
+[/EN#126243/animals A horse] leaps over [/EN#126245/scene a fence] while [/EN#126244/people a rider] hangs on .
+[/EN#126244/people Man] riding [/EN#126243/animals a horse] jumping over [/EN#126245/scene a wooden fence] .
+[/EN#126243/animals The horse] and [/EN#126244/people rider] are jumping over [/EN#126245/scene a fence] .
+[/EN#126243/animals The horse] and [/EN#126244/people rider] jump [/EN#126245/scene a fence] .

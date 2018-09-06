@@ -1,0 +1,5 @@
+[/EN#82430/people A boy] in [/EN#82432/clothing a red shirt] and [/EN#82433/clothing jean shorts] jumping off [/EN#82431/other a swing] .
+[/EN#82430/people A boy] jumps off [/EN#82431/other a swing] with [/EN#82434/bodyparts his legs] apart .
+[/EN#82430/people A boy] is jumping off of [/EN#82431/other a swing] .
+[/EN#82430/people A boy] is jumping off [/EN#82431/other a swing]
+[/EN#82430/people a boy] jumps off [/EN#82431/other a swing] .

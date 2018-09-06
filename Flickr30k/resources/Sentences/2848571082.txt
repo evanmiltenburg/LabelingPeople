@@ -1,0 +1,5 @@
+[/EN#76708/animals A black and brown dog] jumps in [/EN#0/notvisual the air] to catch [/EN#76709/other a soccer ball] .
+[/EN#76708/animals The black and brown dog] jumps in [/EN#0/notvisual the air] to catch [/EN#76709/other the ball] .
+[/EN#76708/animals A black dog] jumps to catch [/EN#76709/other a ball] in [/EN#76710/scene a yard] .
+[/EN#76708/animals Dog] jumping to catch [/EN#76709/other a soccer ball] .
+[/EN#76708/animals Black dog] jumps for [/EN#76709/other white ball] .

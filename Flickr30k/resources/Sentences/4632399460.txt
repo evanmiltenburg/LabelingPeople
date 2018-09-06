@@ -1,0 +1,5 @@
+[/EN#184706/people a man] in [/EN#184707/clothing a bright orange shirt] and [/EN#184710/clothing black jeans] holds [/EN#184711/other an ice cream cone] out of [/EN#184712/other a small vending cooler] while [/EN#184713/people other people] stand around .
+[/EN#184706/people A man] wearing [/EN#184707/clothing an orange shirt] is serving [/EN#184714/other snow cones] from [/EN#184709/vehicles an ice cream cart] .
+[/EN#184706/people Man] in [/EN#184707/clothing orange shirt] holds [/EN#184708/other ice cream] while standing next to [/EN#184709/vehicles ice cream cart] .
+[/EN#184706/people A man] in [/EN#184707/clothing an orange shirt] and [/EN#184710/clothing dark jeans] is selling [/EN#184708/other ice cream] .
+[/EN#184706/people A man] in [/EN#184707/clothing an orange shirt] is holding [/EN#184708/other an Italian ice] .

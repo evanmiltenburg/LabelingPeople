@@ -1,0 +1,5 @@
+[/EN#115346/people A man] in [/EN#115347/clothing a black sweater] is shooting [/EN#115349/other a dart] towards [/EN#115350/other a darts board] on [/EN#115348/other a wall] next to [/EN#115352/other a red curtain] .
+[/EN#115346/people male] in [/EN#115347/clothing gray sweater] plays [/EN#115351/other darts] next to [/EN#115352/other a red curtain] .
+[/EN#115346/people Young man] playing [/EN#115351/other darts] in [/EN#115348/scene a curtained room] .
+[/EN#115346/people A man] is playing [/EN#115351/other darts] in [/EN#115348/scene his living room] .
+[/EN#115346/people A man] in [/EN#115347/clothing a sweater] is playing [/EN#115351/other darts] .

@@ -1,0 +1,5 @@
+[/EN#29062/animals A white dog] is walking through [/EN#29065/scene a river] [/EN#0/notvisual that] runs through [/EN#29063/scene a rocky landscape] .
+[/EN#29062/animals A white dog] walks through [/EN#29065/scene shallow water] in [/EN#29066/scene the wilderness] .
+[/EN#29062/animals The white dog] is wading in [/EN#29065/scene the pond] atop [/EN#29064/scene the mountain] .
+[/EN#29062/animals A dog] in [/EN#29065/scene some water] enclosed by [/EN#29064/other rocky ledge] .
+[/EN#29062/animals A white dog] is standing in [/EN#29065/scene a pond] .

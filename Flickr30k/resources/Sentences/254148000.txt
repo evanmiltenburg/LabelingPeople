@@ -1,0 +1,5 @@
+[/EN#56847/people A man] in [/EN#56849/clothing blue swimming trunks] and [/EN#56848/people a man] in [/EN#56850/clothing black swimming trunks] are at [/EN#56845/scene the beach] .
+[/EN#56844/people Two men] are standing on [/EN#56845/scene a sandy beach] in front of [/EN#56846/scene the ocean] .
+[/EN#56844/people Two men] are at [/EN#56845/scene the beach] standing on [/EN#56846/scene the waters edge] .
+[/EN#56844/people Two shirtless men] stands in front of [/EN#56846/scene the ocean] .
+[/EN#56844/people Two men] standing in [/EN#56851/other the surf] on [/EN#56845/scene a beach] .

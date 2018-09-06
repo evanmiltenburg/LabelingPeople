@@ -1,0 +1,5 @@
+[/EN#128253/animals A dog] is running through [/EN#128256/other a sprinkler] in [/EN#128254/scene the grass] .
+[/EN#128253/animals A brown dog] is splashing in [/EN#128255/scene a puddle] in [/EN#128254/scene the grass] .
+[/EN#128253/animals A brown dog] splashing through [/EN#128255/scene a puddle] on [/EN#128254/scene a lawn]
+[/EN#128253/animals A dog] splashing through [/EN#128255/scene a puddle] in [/EN#128254/scene the grass] .
+[/EN#128253/animals A dog] plays in [/EN#128255/scene water] from [/EN#128256/other a sprinkler] .

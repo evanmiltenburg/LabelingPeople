@@ -1,0 +1,5 @@
+[/EN#107771/people A little kid] with [/EN#107772/clothing a red and gray coat] holding [/EN#107773/other a shovel] in [/EN#107775/scene the snow] .
+[/EN#107771/people Child] wearing [/EN#107772/clothing a red coat] is shoveling [/EN#107774/scene snow] .
+[/EN#107771/people A small child] throws [/EN#107773/other a shovel] full of [/EN#107774/scene snow] .
+[/EN#107771/people Little boy] shoveling [/EN#107774/scene snow] in [/EN#107776/scene the driveway] .
+[/EN#107771/people A little boy] shoveling [/EN#107775/scene snow] .

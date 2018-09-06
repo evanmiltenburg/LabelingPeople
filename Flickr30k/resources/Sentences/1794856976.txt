@@ -1,0 +1,5 @@
+[/EN#20578/people A man] walks along [/EN#20585/scene a sidewalk] outside of [/EN#20579/scene a record shop] while [/EN#20580/people a person] sits nearby taking [/EN#20586/other pictures] .
+[/EN#20580/people A couple of kids] sitting against [/EN#20579/other a storefront] watching [/EN#20582/people people] walk by .
+[/EN#20580/people A girl] is taking [/EN#20586/other pictures] in front of [/EN#20579/scene a music store] .
+[/EN#20580/people Two people] sitting on [/EN#0/notvisual the ground] near [/EN#20583/scene a walkway] .
+[/EN#20578/people A man] in [/EN#20584/clothing a suit] passing by [/EN#20579/scene a record shop] .

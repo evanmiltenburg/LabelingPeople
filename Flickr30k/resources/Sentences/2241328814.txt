@@ -1,0 +1,5 @@
+[/EN#36240/people A man] in [/EN#36243/clothing a white apron] and [/EN#36246/clothing plastic gloves] operates [/EN#36242/other a machine] in [/EN#36241/scene an industrial kitchen] .
+[/EN#36240/people A man] in [/EN#36243/clothing an apron] stands in [/EN#36241/scene a kitchen] working [/EN#36242/other an industrial mixing bowl] .
+[/EN#36240/people A middle-aged man] working at [/EN#36244/other a food preparation facility]
+[/EN#0/notvisual He] is working in [/EN#36242/other the machine] [/EN#36245/scene all day] long .
+[/EN#36240/people/scene The baker] is working on [/EN#36242/other machine] .

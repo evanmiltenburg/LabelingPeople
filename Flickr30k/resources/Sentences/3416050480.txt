@@ -1,0 +1,5 @@
+[/EN#116530/people A woman] in riding [/EN#116534/clothing apparel] is jumping [/EN#116532/animals a brown horse] over [/EN#116531/other an object] [/EN#0/notvisual that] looks like [/EN#116531/vehicles an airplane] .
+[/EN#116530/people An equestrian rider] is on [/EN#116532/animals a horse] jumping over [/EN#116531/other a plane] [/EN#0/notvisual that] is on [/EN#0/notvisual the ground] .
+[/EN#116530/people A woman] on [/EN#116532/animals a brown horse] jumps of [/EN#116531/vehicles the fuselage of an aging jet aircraft] .
+[/EN#116530/people A person] is riding [/EN#116532/animals a horse] , [/EN#0/notvisual which] is jumping over [/EN#116531/vehicles a grounded airplane] .
+[/EN#116530/people A person] on [/EN#116532/animals a horse] jumps over [/EN#116531/vehicles a broken down airplane] .

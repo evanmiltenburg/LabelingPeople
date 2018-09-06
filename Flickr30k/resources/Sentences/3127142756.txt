@@ -1,0 +1,5 @@
+[/EN#95392/animals Two black dogs] run in [/EN#95393/scene the snow] in [/EN#95394/scene a field of dry grass] .
+[/EN#95392/animals Two dogs] are running and playing in [/EN#95393/scene the snow]
+[/EN#95392/animals Two black dogs] jump in [/EN#95393/scene the snow] .
+[/EN#95392/animals Two dogs] playing in [/EN#95393/scene the snow] .
+[/EN#95392/animals Two black dogs] in [/EN#95393/scene the snow] .

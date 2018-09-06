@@ -1,0 +1,5 @@
+[/EN#74767/people A man] in [/EN#74768/clothing a dark gray shirt] and striped [/EN#74773/clothing open button-down shirt] crouches down behind [/EN#74769/scene a set of wooden bars] and looks through [/EN#0/notvisual them] into [/EN#0/notvisual the camera] .
+[/EN#74767/people A young man] with [/EN#74768/bodyparts a goatee] looks through [/EN#74769/other the wooden bars of a deck] with [/EN#74771/bodyparts his eyes] half shut .
+[/EN#74767/people A bearded man] in [/EN#74768/clothing a white striped shirt] looks through [/EN#74769/scene the bars of a wooden fence] .
+[/EN#74767/people A man] is looking out through [/EN#74769/scene wooden bars] , [/EN#0/notvisual which] [/EN#0/notvisual he] is holding in [/EN#74772/bodyparts his hands] .
+[/EN#74767/people A tired looking man] by [/EN#74769/scene wooden bars] .

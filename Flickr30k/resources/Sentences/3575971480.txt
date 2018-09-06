@@ -1,0 +1,5 @@
+[/EN#128785/people A group of 15 men] and [/EN#128795/people women] in [/EN#128796/clothing light weight clothing] congregate near [/EN#128788/scene a street corner] at [/EN#128791/scene an intersection] in [/EN#128787/scene a city] with [/EN#128792/scene large buildings] and [/EN#128794/other trees] .
+[/EN#128785/people A group of people] , [/EN#0/notvisual who] look like [/EN#128786/people tourists] , standing around [/EN#128790/scene a city] [/EN#128789/other about] to cross [/EN#128788/scene the street] .
+[/EN#128785/people A group of people] are congregating on [/EN#128788/scene a street corner] .
+[/EN#128785/people A group of people] are listening to [/EN#128793/people someone] talk .
+[/EN#128786/people People] crossing [/EN#128788/scene a sidewalk] in [/EN#128787/scene a European city] .

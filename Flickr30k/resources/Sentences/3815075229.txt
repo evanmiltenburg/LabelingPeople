@@ -1,0 +1,5 @@
+[/EN#143682/people A man] in [/EN#143691/clothing a blue shirt] is driving [/EN#143684/vehicles a blue car] with [/EN#143692/other a rack] on [/EN#143690/clothing top] and has [/EN#143682/people a man] in [/EN#143687/clothing an orange shirt] as [/EN#143682/people his passenger] .
+[/EN#143682/people Several young men] in [/EN#143684/vehicles a packed car] are traveling with [/EN#143694/other tires] tied on top of [/EN#143684/vehicles their blue car] .
+[/EN#143682/people Three people] in [/EN#143684/vehicles a small green car] [/EN#0/notvisual that] is strapped with [/EN#143689/other supplies] .
+[/EN#143682/people A man] in [/EN#143687/clothing an orange shirt] is [/EN#143684/vehicles the passenger of a green car] .
+[/EN#143682/people A group of friends] are in [/EN#143684/vehicles a small car] with [/EN#143689/other cargo] on [/EN#143690/clothing top] .

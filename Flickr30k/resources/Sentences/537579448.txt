@@ -1,0 +1,5 @@
+[/EN#234898/people The little girl] wearing [/EN#234900/clothing a pink hat] is bending down to pick up [/EN#234901/other a soccer ball] .
+[/EN#234898/people A little girl] in [/EN#234900/clothing a pink hat] is playing with [/EN#234901/other a soccer ball] .
+[/EN#234898/people A young girl] is playing with [/EN#234901/other a soccer ball] in [/EN#234899/scene the grass] .
+[/EN#234898/people Young child] playing with [/EN#234901/other a soccer ball] in [/EN#234899/scene a grassy area] .
+[/EN#234898/people Little girl] with [/EN#234900/clothing pink hat] playing with [/EN#234901/other a soccer ball] .

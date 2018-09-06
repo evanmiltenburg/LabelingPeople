@@ -1,0 +1,5 @@
+[/EN#272525/people A woman] holding [/EN#272529/clothing a red umbrella] looking at [/EN#272528/scene a food stand] with [/EN#272526/scene a large temple] behind [/EN#0/notvisual her] .
+[/EN#272525/people An Asian woman] is posing with [/EN#272529/clothing a red umbrella] in [/EN#272527/other a marketplace] in [/EN#272530/other China] .
+[/EN#272525/people An Asian woman] with [/EN#272529/clothing a red umbrella] walks through [/EN#272527/other a crowded marketplace] .
+[/EN#272531/people Customers] pick out [/EN#272533/other snacks] at [/EN#272528/scene a food stand] outside [/EN#272526/scene a chinese temple]
+[/EN#272532/people Group of people] holding [/EN#272535/clothing umbrellas] , while walking in [/EN#272534/other the rain] .

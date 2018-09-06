@@ -1,0 +1,5 @@
+[/EN#123199/people A man] with [/EN#123203/people yellow ear protectors] is firing [/EN#123200/other a gun] in [/EN#123201/scene a shooting range] .
+[/EN#123199/people a man] wearing [/EN#123203/people ear defenders] is shooting [/EN#123200/other a pistol] at [/EN#123202/scene a white target] .
+[/EN#123199/people A person] wearing [/EN#123204/clothing yellow headphones] shoots [/EN#123200/other a gun] at [/EN#123202/scene a target] .
+[/EN#123199/people Someone] fires [/EN#123200/other a gun] at [/EN#123201/scene a indoor shooting range] .
+[/EN#123199/people A man] is firing [/EN#123200/other a handgun] at [/EN#123201/scene a shooting range] .

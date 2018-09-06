@@ -1,0 +1,5 @@
+[/EN#176129/people A woman] sitting on [/EN#176132/vehicles/scene the train] , doing [/EN#176131/other a crossword puzzle] , as [/EN#176137/people the train whizzes] by [/EN#176135/other a train platform] .
+[/EN#176129/people A woman] wearing [/EN#176130/clothing black] is doing [/EN#176131/other a crossword puzzle] on [/EN#176132/vehicles/scene a train] .
+[/EN#176129/people A woman] in [/EN#176136/clothing sunglasses] works [/EN#176131/other a crossword puzzle] on [/EN#176132/vehicles/scene the train] .
+[/EN#176129/people A woman] wearing [/EN#176133/other a black garment] is holding [/EN#176134/other a pen] .
+[/EN#176129/people A woman] wearing [/EN#176130/clothing a black dress] doing [/EN#176131/other a puzzle] .

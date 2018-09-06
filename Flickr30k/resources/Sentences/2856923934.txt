@@ -1,0 +1,5 @@
+[/EN#77118/people Two people] are driving [/EN#77119/other a blue jet ski] , leaving [/EN#77122/scene a trail of water] in [/EN#0/notvisual the air] .
+[/EN#77120/people A man] steers [/EN#77119/other a speeding jet ski] through [/EN#77123/other a turn] .
+[/EN#77118/people Two men] are riding [/EN#77119/other a blue and white jet ski] .
+[/EN#77118/people Two men] are in [/EN#77119/vehicles/scene a blue and white speed boat] .
+[/EN#77118/people Two people] jetskiing on [/EN#77119/other a blue jet ski] .

@@ -1,0 +1,5 @@
+[/EN#16429/people A man] wearing [/EN#16431/clothing a white shirt] and [/EN#16433/clothing red shorts] is getting ready to kick [/EN#16430/other a football] .
+[/EN#16429/people A guy] is getting ready to kick [/EN#16430/other a football] into [/EN#0/notvisual the air] .
+[/EN#16429/people Man] kicking [/EN#16430/other football] off [/EN#16429/scene tee] in [/EN#16431/clothing t-shirt] and [/EN#16433/clothing shorts]
+[/EN#16429/people A man] in [/EN#16433/clothing red shorts] is about to [/EN#16430/other kick] [/EN#16430/other a football] .
+[/EN#16429/people Man] about to [/EN#16430/other kick football] on [/EN#16434/scene a field] .

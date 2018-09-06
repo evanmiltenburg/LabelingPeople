@@ -1,0 +1,5 @@
+[/EN#106006/people Older man] standing in [/EN#106007/scene the back of a very cluttered room] .
+[/EN#106006/people A man] stands in [/EN#106007/other the background of a crowded apartment] .
+[/EN#106006/people A man] is standing in [/EN#106008/scene a room] cluttered with [/EN#106009/other furniture] .
+[/EN#106006/people Man] wearing [/EN#106010/clothing flashy gold shirt] standing in [/EN#106007/other apartment]
+[/EN#106006/people Messy bachelor guy] at [/EN#106007/other his apartment] .

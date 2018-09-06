@@ -1,0 +1,5 @@
+[/EN#14769/people A person] in [/EN#14770/clothing a white hat] and [/EN#14771/clothing yellow top] enters [/EN#14778/vehicles/scene a bus] while [/EN#14772/people a man] in [/EN#14773/clothing an orange shirt] looks down in [/EN#0/notvisual the foreground] .
+[/EN#14769/people A young person] in [/EN#14770/clothing a hat] is coming through [/EN#14774/scene an entrance] labeled " [/EN#14775/other no fumar] " ( [/EN#14781/other no smoking] ) .
+[/EN#14769/people guy] instructing [/EN#14776/people people] in [/EN#14777/vehicles/scene back of train] .
+[/EN#14776/people People] sitting on [/EN#14779/vehicles a bus or airplane] .
+[/EN#14776/people People] sitting in [/EN#14779/vehicles a vehicle] .

@@ -1,0 +1,5 @@
+[/EN#127455/people The man] has [/EN#127454/animals a dog] on [/EN#127460/clothing a leash] and appears to be teaching [/EN#0/notvisual it] to stand on [/EN#127457/bodyparts its hind legs] .
+[/EN#127454/animals A brown dog] is standing on [/EN#127457/bodyparts his back legs] trying to reach [/EN#127458/other something] in [/EN#127459/bodyparts the man 's hand] .
+[/EN#127455/people A man] holding [/EN#127458/other stick] and playing with [/EN#127454/animals a dog] .
+[/EN#127455/people A man] and [/EN#127454/animals a dog] are playing in [/EN#127456/scene a field]
+[/EN#127455/people a man] and [/EN#127454/animals a dog] stand in [/EN#127456/scene the grass] .

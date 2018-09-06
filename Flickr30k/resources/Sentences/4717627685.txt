@@ -1,0 +1,5 @@
+[/EN#194659/people A blond woman] in [/EN#194664/clothing a leather jacket] is sitting outside with [/EN#194661/people a man] in [/EN#194665/clothing a blue and red jacket] , and [/EN#0/notvisual there] is [/EN#194660/animals a dog] between [/EN#0/notvisual them] .
+[/EN#194661/people A man] and [/EN#194659/people a woman] are sitting at [/EN#194663/other a table] , accompanied by [/EN#194660/animals a dog] , at [/EN#194666/scene the edge of a street] .
+[/EN#194662/people Two people] eating at [/EN#194663/other an outside table] with [/EN#194660/animals their dog] .
+[/EN#194662/people two people] eating with [/EN#194660/animals an onlooking greyhound dog] .
+[/EN#194660/animals A dog] begging to [/EN#194661/people a man] and [/EN#194659/people a woman] .

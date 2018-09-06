@@ -1,0 +1,5 @@
+[/EN#246841/people A man] in [/EN#246844/clothing a straw hat] kneels to inspect [/EN#246843/other a flower] in [/EN#246847/scene the country] .
+[/EN#246841/people Man] with [/EN#246844/clothing a hat] on bending to pick [/EN#246843/other a small , yellow flower] .
+[/EN#246841/people A man] on [/EN#246842/scene a dirt trail] kneeling to examine [/EN#246843/other a plant] .
+[/EN#246841/people A explorer] on [/EN#246842/scene a dirt trail] looking at [/EN#246843/other a flower] .
+[/EN#246841/people A man] is looking at [/EN#246846/other flowers] in [/EN#246845/scene a field] .

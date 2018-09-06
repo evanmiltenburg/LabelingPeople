@@ -1,0 +1,5 @@
+[/EN#63645/people A man] wearing [/EN#63646/clothing blue jeans] and [/EN#63647/clothing a black shirt] is talking to [/EN#63648/people a man] wearing [/EN#63649/clothing white shorts] while [/EN#0/notvisual they] are sitting outside in [/EN#63650/other folding chairs] on [/EN#63651/scene a patio] .
+[/EN#63652/people Two men] are sitting on [/EN#63651/scene a patio] , [/EN#63648/other one] has [/EN#63654/clothing no shoes] on and is drinking [/EN#63655/other a bottle] with [/EN#63656/other a yellow cozy] over [/EN#0/notvisual it] .
+[/EN#63652/people Two men] are sitting on [/EN#63650/other folding chairs] on [/EN#63651/scene a patio] and talking .
+[/EN#63652/people Two men] are having [/EN#63657/other a conversation] while sitting on [/EN#63651/scene the patio] .
+[/EN#63652/people Two men] sitting [/EN#63658/scene outside] are deep in [/EN#63657/other conversation] .

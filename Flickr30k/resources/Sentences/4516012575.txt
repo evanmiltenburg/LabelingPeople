@@ -1,0 +1,5 @@
+[/EN#174806/people Only a few people] are enjoying [/EN#174803/scene the day] at [/EN#174808/scene the beach] near [/EN#174804/vehicles the yellow bulldozer] .
+[/EN#174805/other A tractor] is sitting on [/EN#174808/scene the beach] behind [/EN#174807/people two people] sitting in [/EN#174808/other the sand] .
+[/EN#0/notvisual There] are [/EN#174806/people a few people] on [/EN#174808/scene a beach] in front of [/EN#174809/scene a row of buildings] .
+[/EN#174807/people Two people] sit on [/EN#174808/other sand] with [/EN#174809/scene many buildings] behind [/EN#0/notvisual them] .
+[/EN#174805/other Heavy equipment] leveling [/EN#174808/other the sand] on [/EN#174808/scene a nice beach] .

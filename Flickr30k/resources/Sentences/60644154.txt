@@ -1,0 +1,5 @@
+[/EN#247285/people A small boy] playing with [/EN#247286/other a children 's small playhouse] .
+[/EN#247285/people A young boy] in [/EN#247287/clothing a red shirt] is playing with [/EN#247286/other a dollhouse] .
+[/EN#0/notvisual This] is [/EN#247285/people a young boy] playing with [/EN#247286/other a dollhouse] .
+[/EN#247285/people A young child] plays with [/EN#247286/other a plastic dollhouse] .
+[/EN#247285/people A young blond boy] plays with [/EN#247286/other a dollhouse] .

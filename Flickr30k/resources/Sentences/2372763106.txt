@@ -1,0 +1,5 @@
+[/EN#44791/animals A black greyhound dog] is running on [/EN#44796/scene a track] wearing [/EN#44794/other the number six] on [/EN#44793/clothing a yellow jacket] .
+[/EN#44791/animals A black dog] wearing [/EN#44793/clothing a yellow vest] running in [/EN#44792/other a competition] .
+[/EN#44791/animals A black dog] is completely off [/EN#0/notvisual the ground] while in [/EN#44792/other a race] .
+[/EN#44791/animals A race dog] numbered [/EN#44794/other six] is [/EN#44797/scene midair] .
+[/EN#44791/animals A black dog] running in [/EN#44792/other a race] .

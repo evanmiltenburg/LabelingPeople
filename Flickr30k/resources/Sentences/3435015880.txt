@@ -1,0 +1,5 @@
+[/EN#118044/people Two people] jump up and down on [/EN#118045/scene a cliff] overlooking [/EN#118048/scene a valley] .
+[/EN#118043/people A man] and [/EN#118046/people a woman] are running and jumping on top of [/EN#118045/scene a hill] .
+[/EN#118044/people Two people] are running at [/EN#118047/scene the top of a mountain] .
+[/EN#118044/people Two women] jump in [/EN#118047/scene the grass] atop [/EN#118045/scene a mountain] .
+[/EN#118043/people a guy] and [/EN#118046/people a girl] jumping up in [/EN#0/notvisual the air]

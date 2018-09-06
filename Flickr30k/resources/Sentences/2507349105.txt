@@ -1,0 +1,5 @@
+[/EN#54027/people A young woman] wearing [/EN#54028/clothing sunglasses] and [/EN#54029/clothing several necklaces] drinks from [/EN#54030/scene a bottle of water] in [/EN#54032/scene an outdoor setting] .
+[/EN#54027/people A woman] wearing [/EN#54028/clothing sunglasses] is drinking [/EN#54030/scene a bottle of water]
+[/EN#54027/people A woman] in [/EN#54028/clothing sunglasses] drinking [/EN#54030/scene bottled water] .
+[/EN#54027/people A young woman] is drinking [/EN#54030/scene bottled water] .
+[/EN#54027/people women] in [/EN#54031/clothing a blue shirt] laughing .

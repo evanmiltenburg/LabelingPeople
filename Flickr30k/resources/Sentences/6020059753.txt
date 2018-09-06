@@ -1,0 +1,5 @@
+[/EN#246648/people A clown] in [/EN#246649/scene a field] with [/EN#246656/other trees] and [/EN#246654/people people] behind [/EN#0/notvisual him] balancing [/EN#246651/other a plate] on [/EN#246650/other a stick] on [/EN#246653/bodyparts his nose] .
+[/EN#0/notvisual This] is [/EN#246648/people a man] in [/EN#246657/clothing a clown costume] balancing [/EN#246652/other a saucer] on top of [/EN#246655/other a stick] , on [/EN#246653/bodyparts his nose] .
+[/EN#246648/people A clown] balancing [/EN#246652/other a yellow plate] with [/EN#246650/other a long pole] on [/EN#246653/bodyparts his nose] at [/EN#246649/scene a park] .
+[/EN#246648/people A clown] in [/EN#246649/scene a park] is balancing [/EN#246651/other a plate] on [/EN#246653/bodyparts his nose] using [/EN#246650/other a long dowel] .
+[/EN#246648/people A clown] performs in [/EN#246649/scene a park] among [/EN#246654/people other people] .

@@ -1,0 +1,5 @@
+[/EN#21842/people A young man] with [/EN#21843/bodyparts a close haircut] and wearing [/EN#21844/clothing a sport coat] , is talking on [/EN#21847/other the phone] .
+[/EN#21842/people A man] in [/EN#21844/clothing a black coat] and [/EN#21845/clothing blue shirt] is talking on [/EN#21847/other his phone indoors] .
+[/EN#21842/people A man] is [/EN#21844/clothing a black suit] is talking on [/EN#21847/other the phone] in [/EN#21846/scene a room] .
+[/EN#21842/people A businessman] in [/EN#21844/clothing a dark suit] is talking on [/EN#21847/other a cellphone] .
+[/EN#21842/people A man] makes [/EN#21848/other a call] on [/EN#21847/other a cellphone] .

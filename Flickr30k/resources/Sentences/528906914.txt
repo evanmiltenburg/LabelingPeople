@@ -1,0 +1,5 @@
+[/EN#232925/people A girl] in [/EN#232927/clothing a blue dress] stands in front of [/EN#232926/other a circular grill] where [/EN#232928/other meat] is cooking .
+[/EN#232925/people A woman] in [/EN#232927/clothing a blue star printed dress] stands next to [/EN#232926/other a grill] with [/EN#232928/other food] on [/EN#0/notvisual it] .
+[/EN#232925/people A woman] standing over [/EN#232926/other a grill] , waiting for [/EN#232928/other her food] to prepare .
+[/EN#232925/people A woman] is manning [/EN#232926/other a grill] with [/EN#232929/other some meat]
+[/EN#232925/people A young woman] stands by [/EN#232926/other a barbecue] .

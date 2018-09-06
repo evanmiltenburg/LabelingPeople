@@ -1,0 +1,5 @@
+[/EN#72489/animals A large brown dog] with [/EN#72490/clothing a muzzle] is racing in [/EN#72491/other the mud] .
+[/EN#72489/animals The yellow greyhound] runs along [/EN#72491/scene the track] muzzled .
+[/EN#72489/animals A tan dog] wearing [/EN#72490/clothing a muzzle] is running on [/EN#72491/other sand] .
+[/EN#72489/animals A greyhound] races through [/EN#72491/scene the dirt] .
+[/EN#72489/animals A greyhound] races on [/EN#72491/scene the dirt] .

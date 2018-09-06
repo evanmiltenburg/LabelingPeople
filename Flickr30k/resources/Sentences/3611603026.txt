@@ -1,0 +1,5 @@
+[/EN#131499/people A girl] in [/EN#131504/clothing a short dress] carrying [/EN#131501/clothing a silver purse] looks at [/EN#131502/other food] in [/EN#131500/scene a bakery] .
+[/EN#131499/people A woman] with [/EN#131501/clothing a silver shoulderbag] is looking in [/EN#131500/other a grocery display case] .
+[/EN#131499/people A woman] with [/EN#131501/clothing a silver handbag] waits in [/EN#131505/other line] at [/EN#131500/other the lunch counter] .
+[/EN#131499/people A woman] with [/EN#131501/clothing a large silver bag] stands at [/EN#131500/other a food counter] .
+[/EN#131499/people A woman] with [/EN#131501/clothing a silver bag] buying [/EN#131502/other food] .

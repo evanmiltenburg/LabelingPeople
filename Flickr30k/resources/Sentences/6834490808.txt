@@ -1,0 +1,5 @@
+[/EN#258888/people A SCUBA diver] is swimming away from [/EN#0/notvisual the camera] while [/EN#258889/animals a school of bright yellow and turquoise fish] swim by to [/EN#258891/scene the right] .
+[/EN#258888/people A scuba diver] ignores [/EN#258889/animals a group of blue and yellow fish] as [/EN#0/notvisual he] explores [/EN#258890/scene the ocean] .
+[/EN#258888/people A person] scuba dives through [/EN#258889/animals a school of fish] .
+[/EN#258888/people A diver] swims past [/EN#258889/animals a school of colorful fish] .
+[/EN#258888/people A scuba diver] swims past [/EN#258889/animals a school of fish] .

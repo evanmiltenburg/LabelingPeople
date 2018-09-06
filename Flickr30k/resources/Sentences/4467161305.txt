@@ -1,0 +1,5 @@
+[/EN#170890/people A man] in [/EN#170894/clothing a yellow hard hat] leans against [/EN#170898/other a ledge] and [/EN#170899/people a man] stands on [/EN#170901/other scaffolding] in [/EN#0/notvisual the distance] at [/EN#170893/scene a construction site] .
+[/EN#170892/people Two men] in [/EN#170897/other the construction industry] are surveying [/EN#170893/scene their work space] .
+[/EN#170890/people A man] with [/EN#170894/clothing a yellow hat] on is leaning on [/EN#170898/other a wall of some sort] .
+[/EN#170890/people Construction worker] looking over [/EN#170893/scene the job site] .
+[/EN#170892/people Two construction workers] at [/EN#170893/scene a job site] .

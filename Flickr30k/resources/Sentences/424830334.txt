@@ -1,0 +1,5 @@
+[/EN#160282/people A young brown-haired girl] in [/EN#160285/clothing a long-sleeve white shirt] and [/EN#160286/clothing gray pants] is playing with [/EN#160284/other red wooden pegs] at [/EN#160283/scene a park] .
+[/EN#160281/people A mother] and [/EN#160282/people her baby] are at [/EN#160283/scene a park] with [/EN#0/notvisual both of them] touching [/EN#160284/other a part of an apparatus] .
+[/EN#160281/people A woman] and [/EN#160282/people child] are at [/EN#160283/scene a park] manipulating [/EN#160284/other one of the toys] there .
+[/EN#160281/people A mother] , teaching [/EN#160282/people her baby girl] .
+[/EN#160281/people Mother] playing with [/EN#160282/people her daughter]

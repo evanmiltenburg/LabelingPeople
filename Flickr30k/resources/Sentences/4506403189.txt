@@ -1,0 +1,5 @@
+[/EN#173766/people A man] in [/EN#173767/clothing a red jacket] is laying down on [/EN#173769/other concrete] using [/EN#173773/clothing a sleeping bag] as [/EN#173772/other a pillow] .
+[/EN#173766/people The man] in [/EN#173767/clothing the red jacket] is taking [/EN#173771/scene a nap outside] on [/EN#173768/other a raised concrete wall] .
+[/EN#173766/people A man] wearing [/EN#173767/clothing a black and red coat] is sleeping on [/EN#173768/other a concrete ledge] .
+[/EN#173766/people A man] waiting for [/EN#173770/vehicles/scene the bus] in [/EN#173774/scene a war torn country] .
+[/EN#173766/people A black homeless male] sleeps on [/EN#173769/other a wall] .

@@ -1,0 +1,5 @@
+[/EN#89532/people A group of people] are standing around [/EN#89536/other a sound] mixing [/EN#89538/other table] .
+[/EN#89532/people Six people] standing behind [/EN#89534/other electrical equipment] .
+[/EN#89533/people People] are inspecting [/EN#89535/other sound equipment indoors] .
+[/EN#89533/people A group of people] looking at [/EN#89535/other sound equipment] .
+[/EN#89533/people People] examine [/EN#89534/other equipment] .

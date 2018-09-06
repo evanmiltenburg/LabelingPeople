@@ -1,0 +1,5 @@
+[/EN#208431/people A young couple] walking by [/EN#208434/scene a mural of an ice cream parlor] [/EN#0/notvisual that] is painted on [/EN#208438/other a roll] up [/EN#208434/other door] in [/EN#208434/scene a graffiti covered building] .
+[/EN#208430/people A man] and [/EN#208431/people woman couple] walk [/EN#208434/other past wall] painted with [/EN#208433/people figures of people] and [/EN#208433/other graffiti] .
+[/EN#208430/people Man] and [/EN#208432/people woman] looking toward [/EN#0/notvisual the camera] while walking in front of [/EN#208433/other a mural] .
+[/EN#208432/people A woman] in [/EN#208442/clothing a blue dress] and [/EN#208443/clothing sunglasses] stands in front of [/EN#208433/other a mural] .
+[/EN#208430/people A man] and [/EN#208432/people a woman] walking in front of [/EN#208434/other a mural] .

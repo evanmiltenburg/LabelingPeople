@@ -1,0 +1,5 @@
+[/EN#237061/people A lady] wearing [/EN#237062/clothing a hat] and [/EN#237066/clothing red shirt] is staring at [/EN#237064/other some ingredients] in [/EN#237063/scene an outdoor market] .
+[/EN#237061/people A woman] in [/EN#237062/clothing a hat] and [/EN#237067/clothing sunglasses] looks at [/EN#237064/other some produce] in [/EN#237065/scene an outdoor market] .
+[/EN#237061/people An elderly woman] in [/EN#237062/clothing a wide brimmed hat] peruses [/EN#237063/scene a vegetable stand] .
+[/EN#237061/people A woman] is shopping for [/EN#237064/other fresh food] at [/EN#237063/scene an outdoor market] .
+[/EN#237061/people A woman] shops for [/EN#237064/other produce] at [/EN#237063/scene an outdoor market] .

@@ -1,0 +1,5 @@
+[/EN#191128/people Surgeons] in [/EN#191132/clothing blue protective clothing] are performing [/EN#191130/other surgery] .
+[/EN#191128/people Three people] operating on [/EN#191129/people a person] for [/EN#191131/other medical reasons] .
+[/EN#191128/people Three surgeons] performing [/EN#191130/other surgery] on [/EN#191129/people a patient] .
+[/EN#191129/people A patient] being operated on by [/EN#191128/people doctors] .
+[/EN#191128/people A group of doctors] performing [/EN#191130/other surgery]

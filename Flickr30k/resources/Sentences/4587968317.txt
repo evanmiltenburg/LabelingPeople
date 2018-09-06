@@ -1,0 +1,5 @@
+[/EN#180760/people A man] in [/EN#180763/clothing a blue shirt] is dumping [/EN#180762/vehicles the contents of the wheelbarrow] onto [/EN#0/notvisual the ground] , while [/EN#180757/people two men] look on .
+[/EN#180758/people Three people] , [/EN#180758/people all] with [/EN#180765/clothing gloves] , are using [/EN#180761/vehicles a wheelbarrow] to do [/EN#180768/other yard work] on [/EN#180764/scene a sunny day] .
+[/EN#180757/people A group of young men] are dumping [/EN#180762/other soil] onto [/EN#180767/scene the ground of their backyard] .
+[/EN#180757/people Two men] are working together to empty [/EN#180762/other the barrel of its contents] .
+[/EN#180760/people A man] is giving [/EN#180766/other instructions] to [/EN#180760/people a man] unloading [/EN#180761/vehicles a wheelbarrow] .

@@ -1,0 +1,5 @@
+[/EN#255439/people A close shot of a young swimmer] sitting on [/EN#255445/scene the edge of a pool] in front of [/EN#255443/other others] .
+[/EN#255439/people A swimmer] with [/EN#255440/clothing goggles] on looking towards [/EN#255444/other something] out of [/EN#255442/scene view] .
+[/EN#255439/people The swimmer] is wearing [/EN#255440/clothing goggles] and looking into [/EN#0/notvisual the distance] .
+[/EN#255439/people A young girl] in [/EN#255441/clothing her swimsuit] is getting ready to compete .
+[/EN#255439/people A young girl] dressed in [/EN#255441/clothing swimwear] and [/EN#255440/clothing goggles]

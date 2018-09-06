@@ -1,0 +1,5 @@
+[/EN#283010/people A man] with [/EN#283014/bodyparts short blond-hair] wearing [/EN#283011/clothing a blue shirt] chopping [/EN#283013/other wood] .
+[/EN#283010/people Man] in [/EN#283011/clothing blue shirt] is hitting [/EN#283013/other a stump of wood] with [/EN#283012/other an axe] .
+[/EN#283010/people A man] in [/EN#283011/clothing a blue shirt] reaches for [/EN#283015/scene a large wooden block] .
+[/EN#283010/people A man] in [/EN#283011/clothing a blue shirt] is cutting [/EN#283013/other the wood] .
+[/EN#283010/people Man] chopping [/EN#283013/other wood] with [/EN#283012/other an axe] .

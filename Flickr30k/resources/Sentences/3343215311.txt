@@ -1,0 +1,5 @@
+[/EN#111157/people A man] in [/EN#111162/clothing a yellow shirt] and [/EN#111159/people a man] in [/EN#111168/clothing a white shirt] are standing together , with [/EN#111169/scene some sort of tent] behind [/EN#0/notvisual them] , and [/EN#111170/animals stuffed animals] on [/EN#0/notvisual the ground] behind [/EN#111159/people the man] in [/EN#111167/clothing the white shirt] .
+[/EN#111158/people Two men] are conversing [/EN#111160/scene outdoors] , while [/EN#111166/other a third] looks on .
+[/EN#111157/people a man] in [/EN#111162/clothing a yellow shirt] asking [/EN#111159/people an man] [/EN#111165/other a question] .
+[/EN#111158/people Two men] are talking while [/EN#0/notvisual another] looks on .
+[/EN#111163/people Three people] are at [/EN#111161/scene a park] .

@@ -1,0 +1,5 @@
+[/EN#73501/animals A white dog] is carrying [/EN#73502/other a ball] across [/EN#73503/scene the grass] nearby [/EN#73505/scene a fence] .
+[/EN#73501/animals A pale tan dog] with [/EN#73502/other a ball] in [/EN#73504/bodyparts its mouth] waking in [/EN#73503/scene grass] .
+[/EN#73501/animals A white dog] carries [/EN#73502/other a white ball] in [/EN#73504/bodyparts its mouth] .
+[/EN#73501/animals The dog] is holding [/EN#73502/other a ball] in [/EN#73504/bodyparts his mouth] .
+[/EN#73501/animals The white dog] has [/EN#73502/other a ball] in [/EN#73504/bodyparts its mouth] .

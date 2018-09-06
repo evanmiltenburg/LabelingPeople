@@ -1,0 +1,5 @@
+[/EN#117860/people A woman] in [/EN#117867/clothing a headscarf] sits near [/EN#117859/people children] in [/EN#117862/other a box] decorated with [/EN#117863/other flowers] and [/EN#117869/other balloons] .
+[/EN#117860/people The old woman] is sitting with [/EN#117859/people the children] surrounded by [/EN#117862/other streamers] .
+[/EN#117860/people A lady] in [/EN#117866/clothing a dark coat] is sitting with [/EN#117870/people many people] around [/EN#0/notvisual her] .
+[/EN#117868/people a small group of people] sitting together [/EN#117872/scene outside] .
+[/EN#117860/people A shawled woman] sits with [/EN#117871/other others] .

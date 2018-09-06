@@ -1,0 +1,5 @@
+[/EN#123281/people A woman] wearing [/EN#123284/clothing a hat] and [/EN#123282/clothing red scarf] stands among [/EN#123291/other others] wearing [/EN#123292/clothing similar clothes] .
+[/EN#123281/people A woman] wearing [/EN#123284/clothing a red hat] and [/EN#123282/clothing red bandanna] followed by [/EN#123281/people a man] in [/EN#123282/clothing a red bandanna] .
+[/EN#123281/people A person] with [/EN#123288/bodyparts dreadlocks] and [/EN#123284/clothing a red hat] with [/EN#123285/bodyparts their face] covered by [/EN#123282/clothing a red bandanna]
+[/EN#123281/people The lady] is wearing [/EN#123282/clothing a bandanna] around [/EN#123290/bodyparts her face] to protect [/EN#0/notvisual her] from [/EN#123289/other dust] .
+[/EN#123281/people A man] in [/EN#123286/people a crowd] wears [/EN#123284/clothing a red hat] and [/EN#123282/clothing a red bandanna] over [/EN#123285/bodyparts his face] .

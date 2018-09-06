@@ -1,0 +1,5 @@
+[/EN#2663/people A man] in [/EN#2663/other aerodynamic gear] riding [/EN#2665/vehicles a bicycle] down [/EN#2666/scene a road] around [/EN#2667/other a sharp curve] .
+[/EN#2668/vehicles Man bicycle] up [/EN#2666/scene a road] , while [/EN#2669/animals cows] graze on [/EN#2670/scene a hill] nearby .
+[/EN#2663/people A cyclist] is riding [/EN#2668/vehicles a bicycle] on [/EN#2666/scene a curved road] up [/EN#2670/scene a hill] .
+[/EN#2663/people The biker] is riding around [/EN#2667/other a curve] in [/EN#2670/scene the road] .
+[/EN#2663/people A man] on [/EN#2665/vehicles a mountain bike] is pedaling up [/EN#2670/scene a hill] .

@@ -1,0 +1,5 @@
+[/EN#186804/people Some of these people] waiting at [/EN#186809/other the bus stop] are waiting for [/EN#186805/vehicles/scene the yellow bus] [/EN#0/notvisual that] is [/EN#186806/other number 3113] to load and go to [/EN#186808/other Goctawek] .
+[/EN#186804/people A crowd of people] stand next to [/EN#186807/other a number nine] , either getting on or getting off .
+[/EN#186804/people Peoples crowd] into [/EN#186809/other a busy public transportation stop] as [/EN#0/notvisual they] wait for [/EN#186811/other their ride] .
+[/EN#186805/vehicles/scene A yellow bus] with [/EN#186806/other No 3113] on [/EN#186809/other the bus stop] and [/EN#186804/people people] hopping in .
+[/EN#186804/people People] waiting to board [/EN#186809/other a public rail system] .

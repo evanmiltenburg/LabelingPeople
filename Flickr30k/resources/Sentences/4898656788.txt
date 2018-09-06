@@ -1,0 +1,5 @@
+[/EN#216374/people A woman] wearing [/EN#216376/clothing a black pencil skirt] and [/EN#216380/clothing white button-up shirt] with [/EN#216379/clothing flip-flops] walks across [/EN#216378/scene the street] .
+[/EN#216374/people A blond woman] in [/EN#216376/clothing a pencil skirt] and [/EN#216379/clothing sandals] walks down [/EN#216378/scene a street] with [/EN#216384/people other people] behind [/EN#0/notvisual her] .
+[/EN#216374/people Women] in [/EN#216380/clothing white top] and [/EN#216379/clothing sandals] walking down [/EN#216378/scene the street] with [/EN#216382/scene a building] in [/EN#0/notvisual the background] .
+[/EN#216374/people woman] in [/EN#216376/clothing a black skirt] is walking with [/EN#216383/clothing a handbag] on [/EN#216385/bodyparts her right shoulder] .
+[/EN#216374/people Attractive woman] in comely [/EN#216375/clothing business attire] walks [/EN#216378/scene the urban streets] .

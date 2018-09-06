@@ -1,0 +1,5 @@
+[/EN#226506/people a girl] wearing [/EN#226509/clothing a pink top] and [/EN#226510/clothing a seat belt] is riding in [/EN#226507/vehicles a car] .
+[/EN#226506/people An overweight girl] looks out [/EN#226508/vehicles the window of a car] .
+[/EN#226506/people A young girl] looking out of [/EN#226508/other a car window] .
+[/EN#226506/people A girl] looks out [/EN#226508/other a car window] .
+[/EN#226506/people A young woman] rides in [/EN#226507/vehicles a car] .

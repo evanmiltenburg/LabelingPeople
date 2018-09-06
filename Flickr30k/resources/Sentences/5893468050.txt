@@ -1,0 +1,5 @@
+[/EN#244618/people A baseball player] wearing [/EN#244621/clothing a blue uniform] with [/EN#244625/other the letter 16] on [/EN#0/notvisual it] , is attempting to hit [/EN#244620/other the base] without [/EN#244622/people the opposite team] tagging [/EN#0/notvisual him] out .
+[/EN#244618/people A base runner] is being tagged out by [/EN#244622/people the opposing team] .
+[/EN#244618/people A baseball player] tagging out [/EN#244618/people the player] in [/EN#244621/clothing blue] .
+[/EN#244618/people baseball player] is caught stealing [/EN#244620/other a base]
+[/EN#244623/people Two men] are playing [/EN#244624/other baseball] .

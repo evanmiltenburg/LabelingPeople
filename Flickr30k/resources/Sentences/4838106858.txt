@@ -1,0 +1,5 @@
+While [/EN#209361/people the man] waits for [/EN#209363/vehicles/scene a train] , [/EN#0/notvisual he] is reading [/EN#209362/other a book] .
+[/EN#209361/people Man] in [/EN#209365/clothing a blue shirt] reading [/EN#209362/other a book] in [/EN#209364/scene a train station] .
+[/EN#209361/people A man] is reading [/EN#209362/other a book] while waiting for [/EN#209363/vehicles/scene a train] .
+[/EN#209361/people A man] reading [/EN#209362/other a book] while waiting for [/EN#209363/vehicles/scene the subway] .
+[/EN#209361/people A man] is at [/EN#209364/scene a train station] reading [/EN#209362/other a book] .

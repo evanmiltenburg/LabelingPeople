@@ -1,0 +1,5 @@
+[/EN#117766/people A man] wearing [/EN#117767/clothing a blue t-shirt] is unsafely hanging [/EN#117770/other an object] from [/EN#117768/other a high ceiling] while standing on [/EN#117774/scene the railing of a lift] .
+[/EN#117766/people a repairman] hangs above [/EN#117770/other a wide screen tv] suspended just below [/EN#117768/other the ceiling] in [/EN#117771/scene a cathedral or museum] .
+[/EN#117766/people The man] in [/EN#117767/clothing the blue shirt] appears to be performing [/EN#117772/other repair or maintenance] .
+[/EN#117766/people A worker] working on [/EN#117769/other a tv] set high up in [/EN#0/notvisual the air] .
+[/EN#117766/people A man] is bent over working on [/EN#117769/other a machine] .

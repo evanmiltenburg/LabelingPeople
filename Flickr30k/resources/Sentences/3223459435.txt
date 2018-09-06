@@ -1,0 +1,5 @@
+[/EN#102385/people A woman] wearing [/EN#102388/clothing a red vest] is sitting in [/EN#102393/scene a tent] with [/EN#102392/other the words] " [/EN#102392/scene DiPAOLA TURKEY FARM] " written on [/EN#0/notvisual it]
+[/EN#102385/people A woman] wearing [/EN#102389/clothing a black sweater] and [/EN#102388/clothing orange vest] sits under [/EN#102386/other a DiPaola Turkey Farm canopy] .
+[/EN#102385/people A blond woman] is sitting under [/EN#102386/other a turkey farm canopy] .
+[/EN#102385/people A woman] sitting in [/EN#102387/other a chair] with [/EN#102391/clothing white sunglasses] .
+[/EN#102385/people A woman] in [/EN#102387/other a chair] staring at [/EN#102390/other a white box] .

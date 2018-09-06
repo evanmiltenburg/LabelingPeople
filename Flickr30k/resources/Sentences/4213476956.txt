@@ -1,0 +1,5 @@
+[/EN#159288/people An elderly woman] wearing [/EN#159289/clothing a blue hat] is sitting on [/EN#159291/scene the sidewalk] chopping [/EN#159292/other something] yellow on [/EN#159290/other a board] beside [/EN#0/notvisual her] .
+[/EN#159288/people An elderly person] is wearing [/EN#159289/clothing a clue cap] and [/EN#159293/clothing brown jacket] while sitting outside in front of [/EN#159290/other a cutting board] .
+[/EN#159288/people woman] sitting outside with [/EN#159290/other a cutting board] , [/EN#159294/other knife] and chopped up [/EN#159292/other yellow food] .
+[/EN#159288/people An old woman] is chopping up [/EN#159292/other food] on [/EN#159291/scene the sidewalk] .
+[/EN#159288/people The woman] in [/EN#159289/clothing the blue hat] is cutting [/EN#159292/other food] .

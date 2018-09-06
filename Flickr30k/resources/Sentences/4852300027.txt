@@ -1,0 +1,5 @@
+[/EN#210915/people A man] dressed in [/EN#210916/clothing all white] and wearing [/EN#210922/clothing a white hat] stands on [/EN#210917/scene a sidewalk] next to [/EN#210918/scene a building] .
+[/EN#210915/people A man] dressed in [/EN#210916/clothing all white clothing] stands in front of [/EN#210920/other a gray wall] , [/EN#210923/bodyparts his arms] crossed .
+[/EN#210915/people A man] dressed in [/EN#210916/clothing white] is standing on [/EN#210917/scene the sidewalk] .
+[/EN#210915/people A man] dressed in [/EN#210916/clothing white] is standing in [/EN#210917/scene a street] .
+[/EN#210915/people The lonely man] in [/EN#210919/scene the city] .

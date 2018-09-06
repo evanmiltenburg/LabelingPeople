@@ -1,0 +1,5 @@
+[/EN#164005/people A man] is sitting at [/EN#164006/other a table] pointing while [/EN#164009/people two females] look at [/EN#0/notvisual him] .
+[/EN#164005/people A man] in [/EN#164007/clothing a green necktie] talks to [/EN#164009/people two women] at [/EN#164006/other a dinner table] .
+[/EN#164005/people A man] and [/EN#164009/people two women] at [/EN#164011/scene a restaurant] talking and having [/EN#164008/other drinks] .
+[/EN#164005/people A man] in [/EN#164007/clothing a green tie] talking to [/EN#164009/people two woman] over [/EN#164008/other drinks] .
+[/EN#164005/people A well dressed man] making [/EN#164010/other conversation] over [/EN#164008/other drinks] .

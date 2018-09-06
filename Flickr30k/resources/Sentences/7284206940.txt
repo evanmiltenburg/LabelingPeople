@@ -1,0 +1,5 @@
+[/EN#267919/vehicles A car] throws up [/EN#267921/other a large amount of dust] and [/EN#267925/other rocks] as [/EN#0/notvisual it] races by [/EN#267927/people spectators] .
+[/EN#267919/vehicles A stock car] races along [/EN#267920/scene a dirt track] , spraying [/EN#267921/scene a plume of dirt] behind [/EN#0/notvisual it] .
+[/EN#267922/other Car speeds] through [/EN#267920/other a racetrack] and throws up [/EN#267921/scene dirt] in [/EN#0/notvisual the air] behind [/EN#0/notvisual him] .
+[/EN#267919/vehicles A car] is racing through [/EN#267920/scene the dirt] , kicking up [/EN#267921/other dust] .
+[/EN#267919/vehicles A black car] is racing down [/EN#267920/scene a dirt road] .

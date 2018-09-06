@@ -1,0 +1,5 @@
+On [/EN#64692/scene a sunny day] , [/EN#64693/scene the sidewalk] is crowded with [/EN#64691/people people] in [/EN#64694/scene the shopping district of this mountainous town] .
+[/EN#64691/people A group of shoppers] line [/EN#64695/scene the street of a commercial district] beside [/EN#64696/scene a mountain] .
+[/EN#64695/people A street scene of people] in [/EN#64694/scene a town] with [/EN#64698/scene mountains] in [/EN#0/notvisual the background]
+[/EN#64695/people People] gather on [/EN#64693/scene a sidewalk] in [/EN#64697/scene a town] in [/EN#64698/scene the mountains] .
+[/EN#64697/scene A city] situated among [/EN#64698/scene the mountains] .

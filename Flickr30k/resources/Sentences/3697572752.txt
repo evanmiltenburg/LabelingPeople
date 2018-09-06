@@ -1,0 +1,5 @@
+[/EN#137628/people A lone man] walking down [/EN#137630/other a long flight of steps] in [/EN#137633/scene an industrial setting] .
+[/EN#137628/people Man] in [/EN#137631/clothing a black shirt] walking down [/EN#137630/other a large set of stairs] .
+[/EN#137628/people A person] travels down [/EN#137630/other a wide set of stairs] with [/EN#137629/clothing a bag] .
+[/EN#137628/people A man] holding [/EN#137629/clothing a bag] walking down [/EN#137630/scene a long staircase] .
+Making [/EN#137634/scene his way] down [/EN#137630/other the steps] .

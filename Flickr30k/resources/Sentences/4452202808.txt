@@ -1,0 +1,5 @@
+[/EN#169792/people Man] wearing [/EN#169798/clothing a brown shirt] , [/EN#169798/clothing gray shirt] , and [/EN#169797/clothing a blue jacket] walking down [/EN#169800/scene the street] .
+[/EN#169796/scene A shallow depth of field] [/EN#169792/people candid picture of man] in [/EN#169794/clothing a hat] with [/EN#169793/clothing a shoulder bag] .
+[/EN#169792/people A man] wearing [/EN#169794/clothing a hat] is walking while holding [/EN#169793/clothing a bag] on [/EN#169803/bodyparts his shoulder] .
+[/EN#169792/people A man] in [/EN#169794/clothing a hat] is walking in [/EN#169799/scene a city] while looking to [/EN#169802/scene the left] .
+[/EN#169792/people A man] wearing [/EN#169794/clothing a hat] and carrying [/EN#169793/clothing a bag]

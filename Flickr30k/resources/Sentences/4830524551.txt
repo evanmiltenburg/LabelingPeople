@@ -1,0 +1,5 @@
+[/EN#208446/people The back of a woman bicyclist] sitting on [/EN#208447/other the edge of a stone walkway barrier] , looking out over [/EN#208448/scene a choppy body of water] with [/EN#208450/scene the far shore] and [/EN#208455/other sailboats] in [/EN#0/notvisual the background] , and [/EN#0/notvisual her] fully [/EN#208445/vehicles visible bicycle] in [/EN#0/notvisual the foreground] resting against [/EN#208447/other the barrier] .
+[/EN#208446/people A man] takes [/EN#208452/scene a break] from [/EN#208454/other his bike ride] to sit and view [/EN#208450/scene the harbor] before [/EN#0/notvisual him] .
+[/EN#208445/vehicles A bicycle] is parked and [/EN#208446/people a guy] is sitting with [/EN#208459/clothing a bag] is looking towards [/EN#208448/scene sea] .
+[/EN#208446/people A person] is sitting on [/EN#208447/other a rock ledge] overlooking [/EN#208448/scene a body of water] .
+[/EN#208446/people A bicyclist] looking out on [/EN#208448/scene the water] on [/EN#208453/scene a windy day] .

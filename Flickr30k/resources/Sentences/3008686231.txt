@@ -1,0 +1,5 @@
+[/EN#87032/people A young man] in [/EN#87035/clothing an orange vest] holding [/EN#87034/other a shotgun] displays [/EN#87033/animals a dead bird] that [/EN#0/notvisual he] shot .
+[/EN#87032/people A man] in [/EN#87035/clothing a orange safety vest] holding up [/EN#87033/animals an animal] [/EN#0/notvisual he] shot .
+[/EN#87032/people A man] in [/EN#87035/clothing a hunting vest] holding [/EN#87033/animals a dead bird] and [/EN#87034/other a shotgun] .
+[/EN#87032/people A man] in [/EN#87035/clothing an orange vest] with [/EN#87034/other a gun] holding up [/EN#87036/other his kill] .
+[/EN#87032/people A man] wearing [/EN#87035/clothing an orange safety vest] is holding [/EN#87034/other a rifle] .

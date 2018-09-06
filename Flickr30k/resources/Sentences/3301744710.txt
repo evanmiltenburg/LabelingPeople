@@ -1,0 +1,5 @@
+[/EN#107938/people An elderly man] in [/EN#107939/clothing a blue shirt] is holding up [/EN#107940/other a piece of canvas art] .
+[/EN#107938/people The man] in [/EN#107939/other the blue smock] and [/EN#107942/clothing beret] holds up [/EN#107940/other a brass] rubbing .
+[/EN#107938/people A man] wearing [/EN#107939/clothing a blue shirt] holds up [/EN#107940/other a piece of art] .
+[/EN#107938/people man] holding [/EN#107940/other black paper] with [/EN#107945/other white illustration]
+[/EN#107938/people The man] in [/EN#107943/other the blue shirt shows of a picture] .

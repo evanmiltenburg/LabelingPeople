@@ -1,0 +1,5 @@
+[/EN#233302/people A man] in [/EN#233303/clothing a bright yellow jacket] and [/EN#233310/clothing helmet] sits astride [/EN#233306/other a motorcycle] chatting with [/EN#233305/people a man] in [/EN#233309/clothing a blue sweatshirt] .
+[/EN#233302/people A security officer] wearing [/EN#233303/clothing reflective clothing] is stopped on [/EN#233306/other his motorcycle] as [/EN#0/notvisual he] talks to [/EN#233305/people man] in [/EN#233311/clothing sunglasses] .
+[/EN#233302/people A police officer] on [/EN#233306/other a motorcycle] talking to [/EN#233307/people two men] on [/EN#233304/scene a cobblestone street] .
+[/EN#233302/people A man] with [/EN#233303/clothing a yellow jacket] on [/EN#233306/other a motorcycle] has stopped to talk to [/EN#233307/people two men] .
+[/EN#233308/people Bikers] talking in [/EN#233304/scene the road] .

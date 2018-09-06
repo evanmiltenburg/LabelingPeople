@@ -1,0 +1,5 @@
+[/EN#283591/people A man] with [/EN#283592/clothing a blue shirt] , [/EN#284000/bodyparts mustache] and [/EN#283595/clothing glasses] is working with [/EN#283597/other lumber] on [/EN#283593/other a deck] .
+[/EN#283591/people An older gentleman] looks at [/EN#0/notvisual the camera] while [/EN#0/notvisual he] is building [/EN#283593/other a deck] .
+[/EN#283591/people A man] in [/EN#283596/clothing jeans] and [/EN#283592/clothing a purple shirt] hard at [/EN#283599/other work] building [/EN#283593/other a deck] .
+[/EN#283591/people A man] is standing near [/EN#283597/other wood] and [/EN#283594/other electrical cords] .
+[/EN#283591/people Man] in [/EN#283592/clothing blue shirt] , standing on [/EN#283593/other deck] .

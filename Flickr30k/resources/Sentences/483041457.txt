@@ -1,0 +1,5 @@
+[/EN#208421/people A male cook] is using [/EN#208423/clothing his apron] as [/EN#208427/scene a backdrop] to display [/EN#208425/other the dish] [/EN#0/notvisual he] has prepared on [/EN#208426/other the grill] .
+[/EN#0/notvisual There] is [/EN#208421/people a man] in [/EN#208424/clothing a blue shirt] with [/EN#208423/clothing a black apron] standing in front of [/EN#208422/other a pan of food] .
+[/EN#208421/people A man] in [/EN#208424/clothing a blue polo shirt] is examining [/EN#208423/clothing his black apron] while [/EN#0/notvisual he] cooks [/EN#208428/scene outdoors] .
+[/EN#208421/people A chef] cooks on [/EN#208422/other a wok] on [/EN#208426/other an outdoor grill] .
+[/EN#208421/people A man] preparing [/EN#208425/other some food] in [/EN#208422/other a big pan] .

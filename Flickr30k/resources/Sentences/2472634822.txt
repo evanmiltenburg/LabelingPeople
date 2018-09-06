@@ -1,0 +1,5 @@
+[/EN#52025/people A young Asian boy] running with [/EN#52026/animals a white and gray dog] on [/EN#52027/scene green grass] .
+[/EN#52025/people A boy] wearing [/EN#52030/clothing a red shirt] runs across [/EN#52028/scene the grass] with [/EN#52026/animals a furry dog] .
+[/EN#52025/people A child] and [/EN#52026/animals a dog] running across [/EN#52027/scene a grassy lawn] .
+[/EN#52026/animals A large dog] chases [/EN#52025/people a boy] through [/EN#52027/scene a field] .
+[/EN#52025/people A boy] and [/EN#52026/animals a dog] run through [/EN#52028/scene the grass] .

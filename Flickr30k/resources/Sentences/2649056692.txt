@@ -1,0 +1,5 @@
+[/EN#63855/people A white male toddler] wearing [/EN#63858/clothing a blue top] sitting in [/EN#63856/other a cream colored chair] with [/EN#63857/other a large stuffed SpongeBob] .
+[/EN#63855/people A baby boy] is sitting on [/EN#63856/other a beige chair] next to [/EN#63857/other a stuffed SpongeBob SquarePants] .
+[/EN#63855/people A baby] is sitting in [/EN#63856/other a chair] with [/EN#63857/other a stuffed SpongeBob SquarePants toy] .
+[/EN#63855/people Baby] sitting in [/EN#63856/other chair] with [/EN#63857/other stuffed SpongeBob doll] .
+[/EN#63855/people a child] sitting with [/EN#63857/other a stuffed toy] on [/EN#63856/other a couch]

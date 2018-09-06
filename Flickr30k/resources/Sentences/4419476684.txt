@@ -1,0 +1,5 @@
+[/EN#167073/people Two men] , [/EN#167077/other one] wearing [/EN#167076/clothing a yellow shirt] and [/EN#167074/clothing the other a blue shirt] , are playing [/EN#167072/other frisbee] on [/EN#167075/scene a field] .
+[/EN#167073/people Two men] , [/EN#167078/other one] wearing [/EN#167074/clothing a blue shirt] and [/EN#167077/other one] wearing [/EN#167074/clothing a yellow shirt] are playing [/EN#167072/other Frisbee] in [/EN#167075/scene a park] .
+[/EN#167073/people Two men] , [/EN#167077/other one] in [/EN#167076/clothing a yellow shirt] and [/EN#167078/other the other] in [/EN#167074/clothing a blue shirt] , playing with [/EN#167072/other a Frisbee] .
+[/EN#167073/people Two young men] are playing [/EN#167072/other frisbee] in [/EN#167075/scene a green soccer field] .
+[/EN#167077/people Man] throwing [/EN#167072/other a Frisbee] around [/EN#167078/people another man] .

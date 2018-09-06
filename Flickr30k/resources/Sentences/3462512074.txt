@@ -1,0 +1,5 @@
+[/EN#119986/people A rock climber] repels down [/EN#119988/bodyparts a cliff face] above [/EN#119987/scene a heavily wooded area] nearby [/EN#119992/scene mountains] .
+[/EN#119986/people a man] on [/EN#119993/clothing a harness] in [/EN#119991/scene the middle] of climbing through [/EN#119989/other a cave] .
+[/EN#119986/people A rock climber] hangs from [/EN#119987/scene a cliff] in [/EN#119992/scene the mountains] .
+[/EN#119986/people A person] hanging off of [/EN#119987/scene a cliff] on [/EN#119990/other a rope] .
+[/EN#119986/people A person] rappels off [/EN#119988/bodyparts a cliff face] .

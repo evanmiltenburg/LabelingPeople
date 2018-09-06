@@ -1,0 +1,5 @@
+[/EN#19651/people A man] with [/EN#19654/bodyparts a beard] is wearing [/EN#19652/clothing a bright red shirt] and holding [/EN#19653/instruments a strapped on guitar] .
+[/EN#19651/people A man] in [/EN#19652/other a red button] up [/EN#19652/clothing shirt] play [/EN#19653/instruments a guitar] and standing next to [/EN#19656/other a microphone] .
+[/EN#19651/people A bearded man] in [/EN#19652/clothing a red shirt] playing [/EN#19653/instruments guitar] on [/EN#19657/scene a stage] .
+[/EN#19651/people A man] in [/EN#19652/clothing a red shirt] plays [/EN#19653/instruments an electric guitar] .
+[/EN#19651/people A man] in [/EN#19652/clothing a red shirt] plays [/EN#19653/instruments the guitar] .

@@ -1,0 +1,5 @@
+[/EN#42421/people two black people] in [/EN#42423/other a canoe] casting [/EN#42424/other a fishing net] into [/EN#42422/scene a body of water] with [/EN#42426/scene a forest] in [/EN#0/notvisual the background] .
+[/EN#42419/people A man] in [/EN#42423/other a canoe] paddles while [/EN#42419/people another man] tosses [/EN#42424/other a net] out into [/EN#42422/scene a large body of water] .
+[/EN#42419/people A boy] wields [/EN#42424/other a net] in [/EN#42423/vehicles/scene a boat] with [/EN#0/notvisual another] in [/EN#42422/scene the middle of a lake] .
+[/EN#42427/people two men] fishing on [/EN#42422/scene a lake] with [/EN#42424/other a large net] from [/EN#42423/other a canoe]
+[/EN#42421/people Two men] on [/EN#42423/other a canoe] are throwing [/EN#42424/other a net] into [/EN#42422/scene a lake] .

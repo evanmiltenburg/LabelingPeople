@@ -1,0 +1,5 @@
+[/EN#41937/people Teenage boy] is riding [/EN#41939/vehicles a unicycle] through [/EN#41940/scene a grassy park] .
+[/EN#41937/people A young man] rides [/EN#41939/vehicles a unicycle] down [/EN#41938/scene a sidewalk] .
+[/EN#41937/people A man] rides on [/EN#41939/vehicles a unicycle] down [/EN#41938/scene the sidewalk] .
+[/EN#41937/people a man] wearing [/EN#41941/clothing black] rides [/EN#41939/vehicles a unicycle] .
+[/EN#41937/people A man] rides [/EN#41939/vehicles a unicycle] .

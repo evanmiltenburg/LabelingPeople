@@ -1,0 +1,5 @@
+[/EN#159218/people A girl] wearing [/EN#159219/clothing a black shirt] and [/EN#159221/clothing glasses] is sitting in [/EN#159220/vehicles the back of a vehicle] with [/EN#159222/bodyparts her eyes] closed .
+[/EN#159218/people A woman] with [/EN#159221/clothing glasses] lays [/EN#159223/bodyparts her head] back in [/EN#159220/vehicles a car] with [/EN#159222/bodyparts her eyes] closed .
+[/EN#159218/people A woman] in [/EN#159219/clothing a black shirt] with [/EN#159221/clothing glasses] is resting in [/EN#159220/vehicles a vehicle] .
+[/EN#159218/people A female] wearing [/EN#159221/clothing glasses] has [/EN#159223/bodyparts her head] tilted back .
+[/EN#159218/people a woman] sleeps in [/EN#159220/vehicles the back of a car] .

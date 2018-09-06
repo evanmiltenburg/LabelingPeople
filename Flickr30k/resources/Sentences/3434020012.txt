@@ -1,0 +1,5 @@
+[/EN#117987/people A middle-aged man] sits in [/EN#117988/scene an industrial workspace] reading [/EN#117989/other a newspaper] .
+[/EN#117987/people A man] at [/EN#117991/other work] in [/EN#117988/scene a warehouse] on [/EN#117990/scene break] , reading [/EN#117989/other the newspaper] .
+[/EN#117987/people A man] sits in [/EN#117988/scene a cluttered warehouse] and reads [/EN#117989/other a newspaper] .
+[/EN#117987/people One man] sitting alone reading [/EN#117989/other a paper] in [/EN#117988/scene a factory room] .
+[/EN#117987/people A man] reads [/EN#117989/other the newspaper] in [/EN#117988/scene a dimly lit room] .

@@ -1,0 +1,5 @@
+[/EN#261950/people A lone woman] wearing [/EN#261953/clothing a black , short-sleeved top , tan] slacks and [/EN#261957/clothing red sandals] is sitting on [/EN#261951/scene the edge of an outdoor fountain] reading with [/EN#261958/clothing her large red handbag] positioned at [/EN#0/notvisual her side] .
+[/EN#261950/people A woman] sits looking at [/EN#261954/other a document] next to [/EN#261951/scene a fenced off pool] .
+[/EN#261950/people A woman] sitting next to [/EN#0/notvisual what] looks like [/EN#261955/other a giant bathtub] .
+[/EN#261950/people A woman] is reading next to [/EN#261952/scene a water fountain] .
+[/EN#261950/people Woman] sitting by [/EN#261952/scene a fountain] reading .

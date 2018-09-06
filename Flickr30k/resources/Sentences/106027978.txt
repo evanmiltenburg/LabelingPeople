@@ -1,0 +1,5 @@
+[/EN#1531/clothing Pink] shirted [/EN#1528/people woman] sleeping in [/EN#1530/vehicles a car] with [/EN#1529/other blue and white blanket] on [/EN#0/notvisual her] .
+[/EN#1528/people A woman] in [/EN#1531/clothing a pink shirt] wrapped up in [/EN#1529/other a blue blanket] asleep in [/EN#1530/vehicles a car] .
+[/EN#1528/people A woman] in [/EN#1531/clothing a red shirt] is under [/EN#1529/other a blanket] and sleeping in [/EN#1530/vehicles a vehicle] .
+[/EN#1528/people A lady] with [/EN#1533/bodyparts brown hair] in [/EN#1531/clothing a pink shirt] sleeping in [/EN#1530/vehicles a car] .
+[/EN#1528/people A woman] sleeps under [/EN#1529/other a blue and white blanket] in [/EN#1530/vehicles a car] .

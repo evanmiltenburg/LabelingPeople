@@ -1,0 +1,5 @@
+[/EN#105539/people A man] skiing through [/EN#105540/scene a wintry wooded area] wearing [/EN#105547/clothing a red jacket] .
+[/EN#105542/people Crosscountry skiers] are traveling through [/EN#105540/scene a snowy forest] .
+[/EN#105542/other People hike] in [/EN#105545/scene the snow] surrounded by [/EN#105541/other trees] .
+[/EN#105539/people A man] skies on [/EN#0/notvisual the snowy ground] among [/EN#105541/other trees] .
+[/EN#105539/people A man] crosscountry [/EN#105544/other skis] on [/EN#105540/scene a snowy path] .

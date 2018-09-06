@@ -1,0 +1,5 @@
+[/EN#64123/people An elderly man] with [/EN#64124/clothing glasses] , [/EN#64125/clothing a red ball cap] and [/EN#64126/clothing backpack] is standing in front of [/EN#64127/scene an open doorway] .
+[/EN#64123/people An older man] in [/EN#64128/clothing a white shirt] walks out of [/EN#64131/scene a building] through [/EN#64129/other a pair of wooden doors] .
+[/EN#64123/people An old man] in [/EN#64125/clothing a red hat] is holding open [/EN#64130/other a door] .
+[/EN#64123/people An elderly gentleman] is exiting [/EN#64131/scene a building] .
+[/EN#64123/people An old man] walks out of [/EN#64131/scene a building] .

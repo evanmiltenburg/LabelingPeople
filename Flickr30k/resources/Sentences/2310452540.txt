@@ -1,0 +1,5 @@
+[/EN#40777/people 5 Construction workers] wearing [/EN#40778/clothing yellow vests] and [/EN#40779/clothing blue hats] are outside [/EN#40780/other working] .
+[/EN#40777/people Five construction workers] in [/EN#40779/clothing hard hats] and [/EN#40778/clothing yellow vests] are busy at [/EN#40780/other work] .
+[/EN#0/notvisual There] are [/EN#40777/people construction workers] working hard on [/EN#40783/other a project] .
+[/EN#40777/people 5 men] in [/EN#40778/clothing yellow vest] working at [/EN#40781/scene construction site] .
+[/EN#40777/people People] dressed in [/EN#40778/clothing yellow vests] doing [/EN#40780/other work] .

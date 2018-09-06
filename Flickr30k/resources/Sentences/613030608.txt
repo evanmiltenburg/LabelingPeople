@@ -1,0 +1,5 @@
+[/EN#248310/people A young boy] dressed like [/EN#248311/people a pirate] is holding [/EN#248312/other a sign] with [/EN#248314/other a skull and crossbones] on [/EN#0/notvisual it] .
+[/EN#248310/people A little boy] dressed as [/EN#248311/people a pirate] holding up [/EN#248313/bodyparts a skull] and [/EN#248312/other crossbones 's flag]
+[/EN#248310/people A child] wearing [/EN#248315/clothing a pirates costume] holds up [/EN#248313/bodyparts a skull] and [/EN#248312/other crossbones sign] .
+[/EN#248310/people A little boy] dressed as [/EN#248311/people a pirate] is holding up [/EN#248312/other the skull pirate flag] .
+[/EN#248310/people A child] holding up [/EN#248312/other a sign] with [/EN#248314/other a skull and crossbones] .

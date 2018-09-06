@@ -1,0 +1,5 @@
+[/EN#100604/people The man] wearing [/EN#100605/clothing a red shirt] is performing [/EN#100608/other an aerial stunt] on [/EN#100606/vehicles a bicycle] .
+[/EN#100604/people A man] wearing [/EN#100607/clothing a helmet] is doing [/EN#100608/other a stunt] with [/EN#100606/vehicles his BMX bike] .
+[/EN#100604/people A biker] is doing [/EN#0/notvisual an aerial trick] on [/EN#100606/vehicles his bike] .
+[/EN#100604/people A bicyclist] performing [/EN#0/notvisual a trick] in [/EN#100609/scene midair] .
+[/EN#100604/people A guy] does [/EN#0/notvisual a trick] in [/EN#0/notvisual the air] .

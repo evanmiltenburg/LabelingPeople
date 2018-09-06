@@ -1,0 +1,5 @@
+[/EN#174027/people An older man] wearing [/EN#174032/clothing a gray fedora] , [/EN#174029/clothing dark coat] and [/EN#174033/clothing blue pants] pulling [/EN#174028/vehicles a suitcase cart] down [/EN#174035/scene the sidewalk] .
+[/EN#174027/people An old sharped dressed man] walking pulling [/EN#174031/other his wheeled suitcase] behind [/EN#0/notvisual him]
+[/EN#174027/people An elderly man] in [/EN#174029/clothing a suit] pulling [/EN#174031/other his luggage] behind [/EN#0/notvisual him] .
+[/EN#174027/people A man] in [/EN#174029/clothing a green coat] pulls [/EN#174031/other a red suitcase] behind [/EN#0/notvisual him] .
+[/EN#174027/people A man] pulling [/EN#174028/vehicles a cart] on [/EN#174034/other wheels] .

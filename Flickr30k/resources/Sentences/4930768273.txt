@@ -1,0 +1,5 @@
+[/EN#219566/people A woman] in [/EN#219570/clothing a pink shirts] rides [/EN#219567/animals a horse] and tries to lasso [/EN#219568/animals a cow] .
+[/EN#219566/people A woman] riding [/EN#219567/animals a brown and white horse] trying to rope [/EN#219568/animals a calf] .
+[/EN#219566/people Man] in [/EN#219570/clothing pink shirt] and [/EN#219571/clothing blue jeans] rides [/EN#219567/animals a horse] .
+[/EN#219566/people A woman] lassos [/EN#219568/animals cattle] while [/EN#219566/people rider] [/EN#219567/animals a horse] .
+[/EN#219566/people A lady] trying to [/EN#219573/other calf rope] from [/EN#219567/animals a horse] .

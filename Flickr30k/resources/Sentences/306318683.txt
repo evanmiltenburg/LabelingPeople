@@ -1,0 +1,5 @@
+[/EN#90984/people A young child] wearing [/EN#90985/clothing a Pokemon shirt] and holding [/EN#90986/other a box] outside in [/EN#90989/scene an urban area] .
+[/EN#90984/people a young man] wearing [/EN#90985/clothing a red Pokemon shirt] carrying [/EN#90986/other a small red box]
+[/EN#90984/people A boy] carrying [/EN#90986/other an open box] crosses [/EN#90988/scene a bridge] over [/EN#90987/scene a road] .
+[/EN#90984/people A boy] carries [/EN#90986/other a box] across [/EN#90988/scene a bridge] .
+[/EN#90984/people A boy] on [/EN#90987/scene the street] holds [/EN#90986/other a box] .

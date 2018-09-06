@@ -1,0 +1,5 @@
+[/EN#102218/people A skateboarder] becomes airborne at [/EN#102219/scene the top of a black and yellow ramp] .
+[/EN#102218/people A skateboarder] does [/EN#0/notvisual a trick] on [/EN#102219/scene a black and yellow striped ramp] .
+[/EN#102218/people A man] performing [/EN#0/notvisual a skateboard jump] off [/EN#102219/scene the top of a ramp] .
+[/EN#102218/people This man] is doing [/EN#102220/other a stunt] on [/EN#102221/other a skateboard] [/EN#102223/scene outdoors] .
+[/EN#102218/people Skateboarder] flying over [/EN#102219/scene ramp outside] .

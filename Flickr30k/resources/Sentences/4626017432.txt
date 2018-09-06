@@ -1,0 +1,5 @@
+[/EN#184122/people A man] in [/EN#184123/clothing a suit] walking down [/EN#184124/scene a busy street] smoking [/EN#184126/other a cigar] .
+[/EN#184122/people Businessman] walking down [/EN#184124/scene busy street] smoking [/EN#184126/other a cigar] .
+[/EN#184122/people A man] in [/EN#184123/clothing a blazer] is walking on [/EN#184124/scene a busy street] .
+[/EN#184122/people A man] in [/EN#184123/clothing a sport jacket] walking in [/EN#184125/scene the city] .
+[/EN#184122/people A gentleman] walking in [/EN#184124/scene the street] .

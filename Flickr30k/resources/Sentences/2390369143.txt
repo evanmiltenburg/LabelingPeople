@@ -1,0 +1,5 @@
+[/EN#45834/animals Three greyhound dogs] wearing [/EN#45835/clothing muzzles] round [/EN#45836/other the corner of a racetrack] .
+[/EN#45834/animals The greyhound racing dogs] are running around [/EN#45837/other a bend] in [/EN#45836/scene the track] .
+[/EN#45834/animals Three greyhounds] racing around [/EN#45836/scene the corner of a track] .
+[/EN#0/notvisual There] are [/EN#45834/animals three dogs] racing around [/EN#45836/scene a muddy track] .
+[/EN#45834/animals Three dogs] are making [/EN#45840/other a turn] in [/EN#45838/other a dog race] .

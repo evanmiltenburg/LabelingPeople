@@ -1,0 +1,5 @@
+[/EN#224367/people An old woman] with [/EN#224369/vehicles a cart] , looking at [/EN#224372/other china] , [/EN#0/notvisual there] are [/EN#224370/other many objects] on [/EN#224374/other display] on [/EN#224374/scene the street] .
+[/EN#224367/people A woman] in [/EN#224376/clothing a gray shirt] and [/EN#224377/clothing blue jean shorts] is looking at [/EN#224368/other dishes] .
+[/EN#224367/people An older woman] stacks [/EN#224371/other plates] to place in [/EN#224369/vehicles her cart] .
+[/EN#224367/people An older woman] sets out [/EN#224368/other a bowl] on [/EN#0/notvisual the ground] .
+[/EN#224367/people A lady] kneeling to look at [/EN#224368/other a bowl] .

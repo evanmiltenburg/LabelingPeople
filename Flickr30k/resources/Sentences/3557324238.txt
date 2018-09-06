@@ -1,0 +1,5 @@
+[/EN#127402/people A boy] with [/EN#127404/clothing glasses] on standing in [/EN#127405/other the sand] throws [/EN#127403/other a yellow balloon] in [/EN#0/notvisual the air] .
+[/EN#127402/people The person] is throwing [/EN#127403/other a yellow object] in [/EN#0/notvisual the air] while standing on [/EN#127405/other sand] .
+[/EN#127402/people A person] wearing [/EN#127404/clothing glasses] is in [/EN#127405/other the sand] reaching for [/EN#127403/other a yellow ball] .
+[/EN#127402/people A person] throwing [/EN#127403/other a yellow ball] in [/EN#0/notvisual the air] .
+[/EN#127402/people The boy] is playing [/EN#127403/other ball] in [/EN#127405/other the sand] .

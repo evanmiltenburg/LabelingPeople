@@ -1,0 +1,5 @@
+[/EN#148449/people A woman] in [/EN#148450/clothing a red shirt] and [/EN#148454/clothing white skirt] playing [/EN#148452/other tennis] with [/EN#148453/other a blue racket] .
+[/EN#148449/people Young female tennis player] in [/EN#148450/clothing a red shirt] hitting [/EN#148451/other the ball] .
+[/EN#148449/people A woman] is jumping as [/EN#0/notvisual she] attempts to hit [/EN#148451/other a tennis ball] .
+[/EN#148449/people A girl] in [/EN#148450/clothing a red shirt] jumps up to hit [/EN#148451/other a tennis ball] .
+[/EN#148449/people A girl] in [/EN#148450/clothing a red shirt] is playing [/EN#148452/other tennis] .

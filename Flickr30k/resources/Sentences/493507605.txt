@@ -1,0 +1,5 @@
+[/EN#220340/animals A wet black dog] is running away from [/EN#220339/animals another black dog] .
+[/EN#220339/animals A black dog] is chasing [/EN#220340/animals another black dog] .
+[/EN#220339/animals Two black dogs] run along [/EN#220342/scene the green grass] .
+[/EN#220339/animals Two dogs] chasing [/EN#0/notvisual each other] in [/EN#220342/scene the grass]
+[/EN#220339/animals Two black , wet dogs] running on [/EN#220342/scene grass] .

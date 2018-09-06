@@ -1,0 +1,5 @@
+[/EN#125520/people Two people] standing next to [/EN#125523/vehicles a red car] are hugging in [/EN#125528/vehicles traffic] with [/EN#125524/scene a brightly lit city scene] behind [/EN#0/notvisual them] .
+[/EN#125520/people Two people] embrace outside of [/EN#125523/vehicles a red car] at [/EN#125527/scene night] in [/EN#125522/scene a brightly-lit city] .
+[/EN#125520/people A person] in [/EN#125529/clothing red] is opening [/EN#125523/other a red car 's door] in [/EN#125525/scene a parking area] .
+[/EN#125520/people Two people] stand outside of [/EN#125523/vehicles a red car] in [/EN#125522/scene the city] and [/EN#125526/other hug] .
+[/EN#125520/people a woman] gets out of [/EN#125523/vehicles a red car] .

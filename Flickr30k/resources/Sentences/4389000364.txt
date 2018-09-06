@@ -1,0 +1,5 @@
+[/EN#165849/people A young girl] sits in [/EN#165856/people the lap of a young woman] in [/EN#165861/people the presence of three men] and [/EN#165849/people a baby] .
+[/EN#165852/people A woman] with [/EN#165855/clothing a blue shirt] wearing [/EN#165858/clothing a hat] is holding [/EN#165849/people a young girl] wearing [/EN#165859/clothing pink pants] .
+[/EN#165849/people A young girl] is sitting in [/EN#165856/people the lap of a woman] [/EN#0/notvisual who] is sitting on [/EN#165860/scene the floor] .
+[/EN#165849/people A happy child] sits in [/EN#165856/people the lap of a woman] wearing [/EN#165855/clothing a green shirt] .
+[/EN#165852/people A woman] has [/EN#165849/people a child] on [/EN#165856/bodyparts her lap] and are laughing .

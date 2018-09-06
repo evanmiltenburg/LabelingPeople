@@ -1,0 +1,5 @@
+[/EN#172947/people A woman] in [/EN#172946/clothing a mermaid costume] stands on [/EN#172950/scene a city street] , in front of [/EN#172949/scene a red telephone booth] .
+[/EN#172947/people A woman] wearing [/EN#172946/clothing a Little Mermaid costume] stands in front of [/EN#172949/scene a bright red phone booth] .
+[/EN#172947/people A woman] dressed as [/EN#172946/other the little mermaid] stands next to [/EN#172949/scene a phone booth] .
+[/EN#172947/people A woman] dressed as [/EN#172946/other the mermaid] [/EN#172946/other Ariel] next to [/EN#172949/scene a phone booth] .
+[/EN#172947/people A woman] is walking with [/EN#172946/clothing a costume] on .

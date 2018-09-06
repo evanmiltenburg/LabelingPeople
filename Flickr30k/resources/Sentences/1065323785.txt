@@ -1,0 +1,5 @@
+[/EN#1630/people Kids] riding on [/EN#1633/vehicles their bicycles] near [/EN#1631/scene a mound of dirt] with [/EN#1635/other a hovel] from [/EN#1635/other a backhoe] in front of [/EN#1631/other the mound] .
+[/EN#1634/people A boy] wearing [/EN#1639/clothing a red shirt] is riding [/EN#1633/scene his bike right] next to [/EN#1631/scene a mound of dirt] .
+[/EN#1630/people A group of boys] are riding [/EN#1633/vehicles their bikes] around [/EN#1631/scene a big pile of dirt] .
+[/EN#1630/people Kids] are riding [/EN#1633/vehicles bikes] near [/EN#1631/other a dirt mound] in [/EN#1637/scene the street] .
+[/EN#1630/people The kids] are riding [/EN#1633/vehicles bikes] in [/EN#1631/scene the pile of dirt] .

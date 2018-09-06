@@ -1,0 +1,5 @@
+[/EN#117854/people A child] wearing [/EN#117856/clothing a red coat] and [/EN#117857/clothing cap] is holding [/EN#117855/scene a large chunk of snow] .
+[/EN#117854/people The boy] in [/EN#117857/clothing the red hat] and [/EN#117856/clothing jacket] is carrying [/EN#117855/scene a huge lump of snow] .
+[/EN#117854/people A boy] in [/EN#117856/clothing a red coat] holds [/EN#117855/scene a huge ball of snow] .
+[/EN#117854/people A boy] carrying [/EN#117855/scene a chunk of snow] .
+[/EN#117854/people A child] outside with [/EN#117855/scene snow] .

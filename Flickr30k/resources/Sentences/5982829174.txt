@@ -1,0 +1,5 @@
+[/EN#246336/people A man] wearing [/EN#246337/clothing a blue uniform] is paddling [/EN#246339/other his kayak] while standing up .
+[/EN#246336/people Man] in [/EN#246337/clothing blue] is standing up in [/EN#246339/vehicles/scene a small boat] while [/EN#246344/other paddling] .
+[/EN#246336/people One man] focusing deeply while kayaking on [/EN#246338/scene a river] .
+[/EN#246336/people A tired man] in [/EN#246337/clothing a blue shirt] kayaks down [/EN#246338/scene a lake] .
+[/EN#246336/people A guy] is paddling [/EN#246339/vehicles/scene a boat] with [/EN#246340/other a lot of force] .

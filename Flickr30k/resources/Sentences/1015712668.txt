@@ -1,0 +1,5 @@
+[/EN#510/people A man] in [/EN#514/clothing a red long-sleeved shirt] bikes over [/EN#512/scene a body of water] on [/EN#513/scene a bridge] .
+[/EN#510/people A man] riding [/EN#511/vehicles his bike] across [/EN#513/scene the bridge] [/EN#0/notvisual that] is over [/EN#512/scene the river] .
+[/EN#510/people A man] in [/EN#515/clothing red] on [/EN#511/vehicles a bicycle] rides past [/EN#516/other a glass structure] .
+[/EN#510/people Man] in [/EN#514/clothing a red shirt] riding [/EN#511/vehicles his bicycle] around [/EN#512/scene water] .
+[/EN#510/people A man] in [/EN#514/clothing a red shirt] rides [/EN#511/vehicles his bicycle] .

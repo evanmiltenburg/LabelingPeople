@@ -1,0 +1,5 @@
+[/EN#85447/people A crowd] waits outside [/EN#85448/vehicles/scene a subway train] , ready to board .
+[/EN#85447/people People] wait as [/EN#85448/vehicles/scene the subway] pulls into [/EN#85449/scene a subway station]
+[/EN#85447/other People trackside] at [/EN#85449/scene a subway station] by [/EN#85448/vehicles/scene a train] .
+[/EN#85447/people People] standing in front of [/EN#85448/vehicles/scene a subway train] .
+[/EN#85447/people several people] waiting to get on [/EN#85448/vehicles/scene a train]

@@ -1,0 +1,5 @@
+[/EN#87916/people A woman] is riding [/EN#87917/vehicles a blue bicycle] in [/EN#87922/scene a park] .
+[/EN#87916/people Female cyclist] riding on [/EN#87920/other a dirt course] .
+[/EN#87916/people Woman] on [/EN#87917/vehicles blue bicycle] wearing [/EN#87923/clothing helmet]
+[/EN#87916/people A woman] in [/EN#87921/other a race] turning [/EN#87919/scene a corner] .
+[/EN#87916/people Cyclist] speeding down [/EN#87918/scene the trail] .

@@ -1,0 +1,5 @@
+[/EN#108136/people A snowboarder] wearing [/EN#108137/clothing a red jacket] is boarding down [/EN#108139/scene the snowy hill] .
+[/EN#108136/people A person] wearing [/EN#108137/clothing a red coat] snowboards down [/EN#108139/scene a snowy hill] .
+[/EN#108136/people The snowboarder] is wearing [/EN#108137/clothing a red jacket] and [/EN#108140/clothing black helmet] .
+[/EN#108136/people a snowboarder] in [/EN#108137/clothing red] rides down [/EN#108141/other the slope] .
+[/EN#108136/people A person] in [/EN#108137/clothing a red jacket] snowboarding .

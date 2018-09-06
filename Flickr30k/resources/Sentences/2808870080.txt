@@ -1,0 +1,5 @@
+[/EN#74175/animals a brown dog] is sniffing [/EN#0/notvisual the ground] by [/EN#74176/animals a cow] [/EN#0/notvisual that] is standing behind [/EN#74177/scene a wooden fence] .
+[/EN#74175/animals A brown dog] sniffing at [/EN#74177/animals the fence of a brown bull] .
+[/EN#74175/animals a dog] sniffing [/EN#74178/other the brushes] while [/EN#74176/animals a bull] looks on
+[/EN#74175/animals A brown dog] is by [/EN#74177/scene a fence] where [/EN#74176/animals a brown cow] is .
+[/EN#74175/animals A dog] and [/EN#74176/animals cow] standing at [/EN#74177/scene a fence] .

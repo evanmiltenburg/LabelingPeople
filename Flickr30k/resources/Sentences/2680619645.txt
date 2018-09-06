@@ -1,0 +1,5 @@
+[/EN#65830/animals The black and brown dog] is standing with [/EN#65831/bodyparts its legs] apart on [/EN#65832/scene the beach] .
+[/EN#65830/animals A black dog] is standing with [/EN#65831/bodyparts his legs] spread wide apart on [/EN#65833/other some sand]
+[/EN#65830/animals A dog] plays on [/EN#65832/scene the beach] .
+[/EN#65830/animals A dog] plays on [/EN#65832/scene a beach] .
+[/EN#65830/animals An aggressive dog] .

@@ -1,0 +1,5 @@
+[/EN#20037/people Several people] sit on [/EN#20038/vehicles/scene a crowded subway] , while [/EN#20039/people two woman] stand in [/EN#20040/scene the middle] holding [/EN#20041/other the poles] .
+[/EN#20042/people A young woman] in [/EN#20043/clothing a green blouse] holding [/EN#20044/clothing a plastic bag] standing on [/EN#20038/vehicles/scene the subway] .
+[/EN#20045/people A group of people] riding [/EN#20046/vehicles/scene the subway] [/EN#0/notvisual both] sitting and standing .
+[/EN#20046/vehicles/scene A train] is full of [/EN#20045/people packed full of passengers] .
+[/EN#20045/people A group of people] ride [/EN#20038/vehicles/scene the subway] .

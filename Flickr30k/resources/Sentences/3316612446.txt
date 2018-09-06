@@ -1,0 +1,5 @@
+[/EN#108887/people A man] in [/EN#108888/clothing a brown jacket] with [/EN#108890/clothing blue jeans] walking up [/EN#108889/other the stairs] in [/EN#108891/scene a city] to [/EN#108892/scene a bar] .
+[/EN#108887/people A man] in [/EN#108888/clothing a brown jacket] walking alone up [/EN#108889/scene a flight of stairs] .
+[/EN#0/notvisual There] is [/EN#108887/people a person] wearing [/EN#108888/clothing a coat] and [/EN#108890/clothing jeans] climbing [/EN#108889/other stairs] .
+[/EN#108887/people An older gentlemen] walks up [/EN#108889/scene a concrete flight of stairs] .
+[/EN#108887/people A man] in [/EN#108890/clothing jeans] walks up [/EN#108889/scene a flight of stairs] .

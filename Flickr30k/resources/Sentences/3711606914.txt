@@ -1,0 +1,5 @@
+[/EN#138701/people A little boy] is riding [/EN#138702/vehicles a dirt bike] with [/EN#138707/other the number seven] on [/EN#0/notvisual it] going down [/EN#138703/scene a hill] .
+[/EN#138701/people A child] wearing [/EN#138708/clothing a helmet] and [/EN#138701/other dirt bike gear] rides [/EN#138702/vehicles a dirt bike] over [/EN#138703/scene a dirt hill] .
+[/EN#138701/people This child] is enjoying [/EN#138706/other his first solo dirt bike ride] .
+[/EN#138701/people A young kid] riding [/EN#138702/vehicles a dirt bike] on [/EN#138703/scene a track] .
+[/EN#138701/people A young kid] rides [/EN#138702/vehicles a dirt bike] in [/EN#138704/other a race] .

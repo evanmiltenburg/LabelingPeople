@@ -1,0 +1,5 @@
+[/EN#249624/people Three soccer players] , [/EN#249624/other one] is wearing [/EN#249637/clothing a white shirt] [/EN#0/notvisual another] is wearing [/EN#249638/clothing a maroon shirt] and [/EN#249636/other the third] is wearing [/EN#249639/clothing a yellow shirt] , are all staring at [/EN#249626/other the soccer ball] .
+[/EN#249624/people A white-clad soccer player] is attempting to intercept [/EN#249626/other a soccer ball] [/EN#0/notvisual that] is quickly approaching [/EN#249631/other the goal box] .
+[/EN#249624/people Three men] are playing [/EN#249635/other soccer] on [/EN#249628/scene a field] , with [/EN#249630/scene a fence] and [/EN#249633/scene forest] in [/EN#0/notvisual the background] .
+[/EN#249624/people A soccer player] , [/EN#0/notvisual who] is wearing white , just kicked [/EN#249626/other a ball] down [/EN#249628/scene the field] .
+[/EN#249629/people Two opposing soccer teams] competing in [/EN#249632/other a match] on [/EN#249627/scene a sunny day] .

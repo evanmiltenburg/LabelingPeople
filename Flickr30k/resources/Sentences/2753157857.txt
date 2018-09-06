@@ -1,0 +1,5 @@
+[/EN#70719/people A woman] in [/EN#70722/clothing brown] plays [/EN#70720/instruments a wind instrument] on [/EN#70730/scene stage] with [/EN#70725/people a man] in [/EN#70733/clothing white] playing [/EN#70724/instruments the harmonica] and [/EN#0/notvisual another] plays [/EN#70723/instruments a guitar] .
+[/EN#70719/people A woman] in [/EN#70722/clothing a gold jacket] and [/EN#70732/people two other people] playing [/EN#70728/instruments instruments] .
+[/EN#70719/people Woman] plays [/EN#70720/instruments clarinet] in front of [/EN#70731/other two microphones] .
+[/EN#70721/people Band] performing [/EN#70729/other music] in [/EN#70726/scene a nightclub] .
+[/EN#70719/people This woman] is playing [/EN#70720/instruments an instrument] .

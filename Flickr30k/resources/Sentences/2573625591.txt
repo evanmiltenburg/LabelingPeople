@@ -1,0 +1,5 @@
+[/EN#58952/animals Three dogs] run away from [/EN#58956/scene a patch of non-grassy surface] leaving [/EN#58958/other one] [/EN#58955/animals another dog] behind .
+[/EN#58952/animals Three dogs] [/EN#0/notvisual that] are [/EN#58957/clothing different shades of brown and white] are running in [/EN#58953/scene a field] .
+[/EN#58952/animals three dogs] are running across [/EN#58953/scene the grass] near to [/EN#58954/scene a blue industrial building] .
+[/EN#58952/animals Three dogs] are running in [/EN#58953/scene a field] .
+[/EN#58952/animals The three dogs] ran in [/EN#58953/scene the yard] .

@@ -1,0 +1,5 @@
+[/EN#181293/people A boy] in [/EN#181301/clothing an orange shirt] and [/EN#181302/clothing white shorts] exercising .
+[/EN#181295/people Two men] and [/EN#181293/people a young boy] doing [/EN#181297/other push] ups in [/EN#181303/scene a gym] .
+[/EN#181294/people Three people] doing [/EN#181297/other push] ups .
+[/EN#181298/people A man] and [/EN#181296/people two boys] do [/EN#181300/other yoga] .
+[/EN#181294/people Three people] doing [/EN#181294/other push-ups]

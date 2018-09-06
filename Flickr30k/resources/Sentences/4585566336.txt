@@ -1,0 +1,5 @@
+[/EN#180570/people A man] wearing [/EN#180573/clothing a white striped shirt] is dancing in [/EN#180575/scene the center of the dance floor] with [/EN#180571/people a woman] in [/EN#180572/clothing a showy black and white dress] and [/EN#180578/clothing high black leather boots] .
+[/EN#180570/people A man] in [/EN#180576/clothing white pants] and [/EN#180573/clothing white , pin striped shirt] , and [/EN#180571/people a woman] with [/EN#180572/clothing a short black and white dress] are dancing on [/EN#180575/scene a tile dance floor] .
+[/EN#180571/people A woman] in [/EN#180572/clothing a short black and white dress] dances with [/EN#180570/people a man] wearing [/EN#180576/clothing white pants] and [/EN#180573/clothing striped shirt] .
+[/EN#180570/people A man] in [/EN#180573/clothing a striped shirt] dancing with [/EN#180571/people a woman] in [/EN#180572/clothing a black and white dress] in front of [/EN#180579/people onlookers] .
+[/EN#180577/people A couple] dances at [/EN#180580/other a disco] .

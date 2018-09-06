@@ -1,0 +1,5 @@
+[/EN#115702/people A group of people] stand in [/EN#115708/scene the snow] in [/EN#115705/scene a mountain] .
+[/EN#115702/people People] watch as [/EN#115703/people a person] skis down [/EN#115705/scene a mountain] .
+[/EN#115703/people A person] is jumping over [/EN#115704/scene a house] on [/EN#115707/other skis] .
+[/EN#115703/people a snowboarder] jumps over [/EN#115704/scene a shed] .
+[/EN#115706/other Skiiers] on [/EN#115705/scene a snowy mountain] .

@@ -1,0 +1,5 @@
+[/EN#1654/people A boy] in [/EN#1659/clothing a pink T-shirt] is riding [/EN#1655/vehicles a bike] over [/EN#1656/people a sand pile] while [/EN#1658/other two others] are riding in [/EN#1652/scene the street] .
+[/EN#1650/people Three boys] playing and biking with [/EN#1651/other a pile of sand] in [/EN#1656/scene the middle]
+[/EN#1650/people 3 young boys] are riding [/EN#1653/vehicles their bikes] around [/EN#1651/scene a mound of dirt] .
+[/EN#1650/people Three kids] riding [/EN#1653/vehicles bikes] over [/EN#1651/other a dirt mound] .
+[/EN#1650/people Some young boys] ride [/EN#1653/vehicles bikes] in [/EN#1652/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#60415/animals A tan dog] and [/EN#60416/animals a black dog] are biting [/EN#0/notvisual each other] in [/EN#60417/bodyparts the face] .
+[/EN#60418/animals Two dogs] stand in [/EN#60421/scene water] and bite [/EN#60417/bodyparts each other 's mouths] .
+[/EN#60418/animals Two dogs] are bearing [/EN#60419/bodyparts their teeth] at [/EN#0/notvisual each other] .
+[/EN#60418/animals Two dogs] bite [/EN#0/notvisual each other] while playing around .
+[/EN#60415/animals A tan dog] and [/EN#60416/animals a black dog] fight .

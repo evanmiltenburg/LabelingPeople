@@ -1,0 +1,5 @@
+[/EN#116849/animals Brown dog] with [/EN#116850/clothing brown collar] looking to [/EN#116855/scene left] with [/EN#116854/scene a clear blue sky] in [/EN#0/notvisual background] .
+[/EN#116849/animals A brown dog] looks off into [/EN#0/notvisual the distance] by [/EN#116851/other some farm equipment] .
+[/EN#116849/animals A gray dog] with [/EN#116850/clothing a matching collar] standing beside [/EN#116851/other a tractor] .
+[/EN#116849/animals A dark brown dog] standing on [/EN#116851/other construction equipment] .
+[/EN#116849/animals A dog] looking off into [/EN#0/notvisual the distance] .

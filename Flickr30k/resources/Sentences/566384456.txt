@@ -1,0 +1,5 @@
+[/EN#240563/people The man] wearing [/EN#240565/clothing the cap] is handing [/EN#240566/animals a freshly caught fish] to [/EN#240564/people the boy] in [/EN#240568/clothing the purple hat] .
+[/EN#240563/people A man] wearing [/EN#240565/clothing a white hat] holds [/EN#240566/animals a fish] up for [/EN#240564/people a small child] wearing [/EN#240567/clothing a life vest] .
+[/EN#240563/people Older man] showing [/EN#240566/animals fish] to [/EN#240564/people young child] .
+[/EN#240563/people A man] shows [/EN#240566/animals a fish] to [/EN#240564/people a child] .
+[/EN#240563/people a man] gives [/EN#240566/animals a fish] to [/EN#240564/people a boy] .

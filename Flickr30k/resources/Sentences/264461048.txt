@@ -1,0 +1,5 @@
+[/EN#63546/people A blond girl] sits at [/EN#63547/scene a bar] next to [/EN#63548/people a few other men] [/EN#0/notvisual who] are not paying [/EN#63553/other attention] to [/EN#0/notvisual her] and [/EN#0/notvisual she] is sad .
+[/EN#63546/people A blond woman] sits beside [/EN#63548/people three other men] and stares down at [/EN#63549/other the counter]
+[/EN#63546/people A blond girl] is sitting at [/EN#63547/scene a bar] in [/EN#63548/people the presence of three other men] .
+[/EN#63546/people A disinterested young woman] and [/EN#63550/people an older man] stand by [/EN#63547/scene a bar] .
+[/EN#63551/people Four people] sit at [/EN#63549/other a table] .

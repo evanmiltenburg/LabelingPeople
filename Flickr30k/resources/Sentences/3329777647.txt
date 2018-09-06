@@ -1,0 +1,5 @@
+[/EN#109904/animals Two large dogs] chase after [/EN#109903/animals another dog] [/EN#0/notvisual that] has [/EN#109905/other a ball] in [/EN#109907/bodyparts his mouth] and runs from [/EN#0/notvisual them] .
+[/EN#109903/animals A born dog] carries [/EN#109909/other some fruit] in [/EN#109908/bodyparts his mouth] while [/EN#109904/animals two other dogs] follow [/EN#0/notvisual him] .
+[/EN#109906/animals Three dogs] play in [/EN#109910/scene the park] with [/EN#109903/animals the brown dog] getting [/EN#109905/other the ball] .
+[/EN#109903/animals One dog] carries [/EN#109905/other a ball] as [/EN#0/notvisual it] is being chased by [/EN#109904/animals two more dogs] .
+[/EN#109904/animals Two dogs] chase [/EN#109903/animals another dog] [/EN#0/notvisual that] has [/EN#109905/other a ball] .

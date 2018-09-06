@@ -1,0 +1,5 @@
+[/EN#152552/people A man] in [/EN#152565/clothing a light green shirt] and [/EN#152566/clothing jeans] on [/EN#152559/scene a street corner] pointing to [/EN#152557/other a location] out of [/EN#152564/other view of the picture] for [/EN#152553/people a woman] in [/EN#152567/clothing white pants] .
+[/EN#152553/people A woman] and [/EN#152552/people a man] pointing to [/EN#152562/scene the left] are on [/EN#152555/scene a street corner] in front of [/EN#152554/scene a green store] [/EN#0/notvisual that] sells [/EN#152563/other tobacco] and [/EN#152560/other magazines] .
+[/EN#152552/people A man] on [/EN#152558/scene a street corner] is giving [/EN#0/notvisual someone directions] .
+[/EN#152556/people People] shopping , and around [/EN#152554/scene the corner store] .
+[/EN#152556/people People] stand around [/EN#152554/scene Conna Store] .

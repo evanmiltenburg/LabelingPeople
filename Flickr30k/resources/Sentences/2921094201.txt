@@ -1,0 +1,5 @@
+[/EN#81432/people A man] sits in [/EN#81433/scene an airplane seat] holding [/EN#81434/people a young girl] in [/EN#81435/bodyparts his arms] , surrounded by [/EN#81436/people other passengers] .
+[/EN#81434/people A small girl] wearing [/EN#81437/clothing pink] sleeps on [/EN#81439/bodyparts a man 's lap] as [/EN#0/notvisual they] ride in [/EN#81438/vehicles an airplane] .
+[/EN#81434/people A young girl] falls asleep in [/EN#81435/bodyparts her father 's arms] while seated on [/EN#81438/vehicles an airplane] .
+[/EN#81434/people Young girl] wearing [/EN#81437/clothing a pink sweater] sitting on [/EN#81432/people a man] .
+[/EN#81434/people Little girl] sleeping in [/EN#81438/vehicles crowded airplane]

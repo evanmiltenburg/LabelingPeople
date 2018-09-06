@@ -1,0 +1,5 @@
+[/EN#102648/people A man] in [/EN#102656/clothing a red shirt] is jumping [/EN#102649/vehicles his bike] over [/EN#102651/other a sign] for [/EN#102653/other Rockstar Energy Drink] .
+[/EN#102648/people A bicyclist] is making [/EN#0/notvisual a high jump] over [/EN#102650/other a constructed stunt piece] .
+[/EN#102648/people A cyclist] is being photographed whilst doing [/EN#0/notvisual a jump] off [/EN#102654/scene a ramp] .
+[/EN#102648/people A person] is on [/EN#102649/vehicles a bicycle] making [/EN#0/notvisual a jump] high in [/EN#0/notvisual the air] .
+[/EN#102648/people A boy] on [/EN#102649/vehicles a bicycle] does [/EN#0/notvisual a jump trick] on [/EN#102649/vehicles his bike]

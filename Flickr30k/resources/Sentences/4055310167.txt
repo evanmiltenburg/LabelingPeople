@@ -1,0 +1,5 @@
+[/EN#153547/people A man] on [/EN#153552/bodyparts his knees] on top of [/EN#153548/scene a roof] holding [/EN#153549/other a hammer] .
+[/EN#153547/people A man] repairing [/EN#153548/scene a shack 's roof] with [/EN#153549/other a hammer] .
+[/EN#153547/people Man] with [/EN#153553/clothing glasses] on [/EN#153548/scene small roof] hammering .
+[/EN#153547/people A man] hammering in [/EN#153551/other nails] on [/EN#153548/scene a building] .
+[/EN#153547/people A man] hammering [/EN#153551/other nails] on [/EN#153548/scene a shed] .

@@ -1,0 +1,5 @@
+[/EN#282007/people A woman] is holding [/EN#282013/other a microphone] toward [/EN#282009/people another woman] [/EN#0/notvisual who] is [/EN#282009/people part of a group of people] on [/EN#282008/scene the street] .
+[/EN#282007/people A female reporter] is interviewing [/EN#282009/people a lady] on [/EN#282008/scene a crowded street] .
+[/EN#282007/people A woman] with [/EN#282013/other a microphone] is holding [/EN#0/notvisual it] up to [/EN#282009/people another woman] .
+[/EN#282007/people A woman] interviews [/EN#282014/people another woman] in [/EN#282012/people a large crowd] .
+[/EN#282007/people A reporter] talks to [/EN#282014/people a woman] while [/EN#282010/people onlookers] watch .

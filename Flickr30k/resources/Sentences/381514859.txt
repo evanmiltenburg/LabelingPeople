@@ -1,0 +1,5 @@
+[/EN#143712/animals Two white dogs] chase after [/EN#143713/other a red ball] in [/EN#143714/scene a yard] in front of [/EN#143715/scene a white fence] .
+[/EN#143712/animals Two small white dogs] are in [/EN#143714/scene a yard] chasing [/EN#143713/other a red ball] .
+[/EN#143712/animals Two small white dogs] chasing after [/EN#143713/other a red ball] .
+[/EN#143712/animals Two West Highland Terriers] chase [/EN#143713/other a red ball] .
+[/EN#143712/animals Two small white dogs] chasing [/EN#143713/other a red ball]

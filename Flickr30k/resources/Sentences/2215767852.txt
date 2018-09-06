@@ -1,0 +1,5 @@
+[/EN#34690/people A woman] with [/EN#34691/clothing a brown coat] and [/EN#34692/people a woman] with [/EN#34693/clothing a black top] stand along [/EN#34694/clothing displays of oranges] , [/EN#34695/other apples] , and [/EN#34696/other other fruits] .
+[/EN#34697/people Women] are shopping at [/EN#34700/scene an outdoor market] with [/EN#34694/clothing oranges] on [/EN#34702/other display] .
+[/EN#34692/people A woman] works at [/EN#34700/scene a stand] selling [/EN#34694/other fruit] and [/EN#34696/other vegetables] .
+[/EN#34697/people Customers] shop for [/EN#34698/other fresh fruit] at [/EN#34700/scene an outdoor market] .
+[/EN#34699/clothing Oranges] and [/EN#34695/other apples] are for [/EN#34703/other sale] at [/EN#34701/scene a produce stand] .

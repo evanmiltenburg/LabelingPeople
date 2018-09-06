@@ -1,0 +1,5 @@
+[/EN#75926/people A little boy] in [/EN#75927/clothing a blue shirt] is putting [/EN#75928/clothing some sunglasses] up to [/EN#75930/other a window] while [/EN#75929/people a lady] watches [/EN#0/notvisual him] .
+[/EN#75929/people A woman] watches [/EN#75926/people her child] play with [/EN#75928/clothing a pair of sunglasses] against [/EN#75930/other a picture window] .
+[/EN#75929/people A woman] looks on as [/EN#75926/people a young child] plays with [/EN#75928/clothing sunglasses] in [/EN#75930/other a window] .
+[/EN#75929/people The mother] watches [/EN#75926/people her baby] play with [/EN#75928/clothing the sunglasses] by [/EN#75930/other the window] .
+[/EN#75926/people A young boy] plays with [/EN#75928/clothing his mothers sunglasses] .

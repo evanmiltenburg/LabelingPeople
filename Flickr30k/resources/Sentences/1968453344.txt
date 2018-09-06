@@ -1,0 +1,5 @@
+[/EN#24260/people A shirtless boy] wearing [/EN#24261/clothing striped blue and green shorts] is napping on [/EN#24262/other a pathway] next to [/EN#24263/other a wall] .
+[/EN#24260/people A young shirtless man] in [/EN#24261/clothing swimming trunks] lies on [/EN#24262/scene a ramp] next to [/EN#24263/other a marble wall] .
+[/EN#24260/people A boy] wearing [/EN#24261/clothing blue and green shorts] is laying on [/EN#0/notvisual the ground] .
+[/EN#24260/people An African American youth] sleeps on [/EN#0/notvisual the ground] outside .
+[/EN#24260/people A boy] in [/EN#24261/clothing blue and green pants] lies against [/EN#24263/other a wall] .

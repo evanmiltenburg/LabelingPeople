@@ -1,0 +1,5 @@
+[/EN#90463/people The skier] is wearing [/EN#90467/clothing a yellow jumpsuit] and sliding across [/EN#90464/other a yellow rail] .
+[/EN#90463/people A yellow uniformed skier] is performing [/EN#0/notvisual a trick] across [/EN#90464/other a railed object] .
+[/EN#90463/people A skier] in [/EN#90467/clothing electric green] on [/EN#90471/scene the edge of a ramp] made of [/EN#90464/scene metal bars] .
+[/EN#90463/people A person] on [/EN#90470/other skis] on [/EN#90464/other a rail] at [/EN#90469/scene night] .
+[/EN#90463/people A skier] slides along [/EN#90464/other a metal rail] .

@@ -1,0 +1,5 @@
+[/EN#14273/people A man] [/EN#0/notvisual who] is wearing [/EN#14274/clothing only shorts] and [/EN#14275/clothing shoes] is standing on [/EN#14276/other rocks] with [/EN#14277/scene the water] below [/EN#0/notvisual him] .
+[/EN#14273/people A young man] in [/EN#14274/clothing shorts] is looking into [/EN#14277/scene a stream] next to [/EN#14278/other a rock wall] .
+[/EN#14273/people A man] is standing by [/EN#14278/other rocks] and [/EN#14277/scene water] and is holding [/EN#14279/other a stick] .
+[/EN#14273/people The man] is standing by [/EN#14277/scene a creek] in [/EN#14280/clothing blue flannel shorts] .
+[/EN#14273/people A boy] stands on [/EN#14276/other a rock] in [/EN#14277/scene a creek] , holding [/EN#14279/other a stick] .

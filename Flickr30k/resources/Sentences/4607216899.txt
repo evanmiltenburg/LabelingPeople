@@ -1,0 +1,5 @@
+[/EN#182135/people Three people] are walking on [/EN#182140/scene a street] and [/EN#182137/other a motorcycle] is parked along [/EN#182138/scene the sidewalk] .
+[/EN#182135/people Two men] are walking on [/EN#182139/scene the street] while [/EN#182134/people a lady] is walking on [/EN#182138/scene the sidewalk] .
+[/EN#182135/people People] carrying [/EN#182141/clothing bags] walking on [/EN#182140/scene a street] with [/EN#182137/other a parked motorcycle] .
+[/EN#182134/people An African woman] carries [/EN#182142/other a bag of groceries] down [/EN#182140/scene the street] .
+[/EN#182135/people Pedestrians] walk down [/EN#182140/scene a street] with [/EN#182141/clothing bags] in [/EN#182144/bodyparts hand] .

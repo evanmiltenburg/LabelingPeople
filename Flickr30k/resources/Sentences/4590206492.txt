@@ -1,0 +1,5 @@
+[/EN#180997/people A person] wearing [/EN#181002/clothing a striped shirt] relaxes in [/EN#181000/scene the grass] under [/EN#180999/other a blossom filled tree] .
+[/EN#180998/people Various people] sit and lie in [/EN#181000/scene the grass] under [/EN#180999/other a flowering tree] .
+[/EN#180998/people People] are relaxing in [/EN#181000/scene a grassy hill] around [/EN#180999/other a blooming tree] .
+[/EN#180997/people person] laying in [/EN#181000/scene grass] under [/EN#180999/other blossom covered tree] .
+[/EN#180997/people A woman] lies down in [/EN#181000/scene the grass] in [/EN#181001/scene a park] .

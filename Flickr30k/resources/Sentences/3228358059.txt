@@ -1,0 +1,5 @@
+[/EN#102751/people A man] in [/EN#102755/clothing a blue shirt] is talking to [/EN#102753/people someone] in [/EN#102752/clothing a blue shirt] over [/EN#102757/other a table] filled with [/EN#102759/other medical supplies] .
+[/EN#102751/people The doctor] in [/EN#102752/clothing the blue scrubs] is listening to [/EN#102753/people a woman] in [/EN#102752/clothing a blue top] .
+[/EN#102754/people Several people] are talking with [/EN#102758/people doctors] in [/EN#102761/scene a room] .
+[/EN#102751/people A doctor] talks to [/EN#102760/people patients] in [/EN#102756/other a makeshift clinic] .
+[/EN#102751/people A male doctor] interviewing [/EN#102753/people a middle-aged woman] .

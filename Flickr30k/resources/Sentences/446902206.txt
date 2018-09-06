@@ -1,0 +1,5 @@
+[/EN#171067/people The woman] in [/EN#171077/clothing the purple shirt] and [/EN#171078/clothing gray pants] is taking [/EN#171068/animals the black dog] and [/EN#171069/people a child] with [/EN#171079/clothing an orange shirt] and [/EN#171071/people a girl] with [/EN#171080/clothing a gray shirt] out for [/EN#171072/other a walk] .
+[/EN#171067/people An elderly woman] , [/EN#171071/people a younger woman] , [/EN#171069/people a young boy] , and [/EN#171068/animals a black furred dog] walking on [/EN#171070/scene a dirt road] in [/EN#171076/scene a forest] .
+[/EN#171067/people A grandmother] and [/EN#171074/people two of her grandchildren] taking [/EN#171068/animals the dog] for [/EN#171072/other a walk] in [/EN#171073/other the woods] .
+[/EN#171075/people Three people] walk through [/EN#171073/other the woods] with [/EN#171068/animals their small black dog] .
+[/EN#171067/people A woman] walks [/EN#171068/animals a black dog] down [/EN#171070/scene a dirt path] with [/EN#171074/people two children] .

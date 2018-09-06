@@ -1,0 +1,5 @@
+[/EN#20070/animals A dog] with [/EN#20071/other a ball] in [/EN#20076/bodyparts his mouth] running down [/EN#20072/scene a road] covered in [/EN#20075/other leaves] .
+[/EN#20070/animals A brown and white dog] trotting down [/EN#20072/scene the road] in [/EN#20073/other autumn] .
+[/EN#20070/animals A tan and white dog] retrieving [/EN#20071/other a ball] on [/EN#20072/scene a gravel path] .
+[/EN#20070/animals A large dog] walks along [/EN#20072/scene a gravel path] in [/EN#20074/other the woods] .
+[/EN#20070/animals A brown dog] is carrying [/EN#20071/other a ball] up [/EN#20072/scene the road] .

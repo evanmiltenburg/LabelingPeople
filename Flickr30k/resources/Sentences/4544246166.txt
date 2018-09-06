@@ -1,0 +1,5 @@
+[/EN#176838/people Two men] wearing [/EN#176844/clothing sunglasses] hold [/EN#176840/other a banner] [/EN#0/notvisual that] reads [/EN#176845/other " YES , MR. PRESIDENT , LET 'S BRING HONEST TEA TO WALL ST.] " .
+[/EN#176838/people Two men] holding up [/EN#176840/other a sign] saying [/EN#176845/people " Yes , Mr. President] , Let 's bring Honest Tea to Wall St. "
+[/EN#176838/people The two men] are holding [/EN#176840/other a banner] [/EN#0/notvisual that] is addressed to [/EN#176839/people the president] .
+[/EN#176838/people 2 men] holding [/EN#176840/other a sign] in front of [/EN#176842/scene a metal fence] .
+[/EN#176838/people Two men] holding up [/EN#176840/other a banner] on [/EN#176843/scene a sidewalk] .

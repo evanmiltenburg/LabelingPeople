@@ -1,0 +1,5 @@
+[/EN#227103/people A man] with [/EN#227107/clothing a headset] on [/EN#227112/bodyparts his head] sit in [/EN#227105/other the cockpit of a helicopter] and has [/EN#227113/bodyparts his hands] on [/EN#227108/other the controls] .
+[/EN#227109/other The image] is of [/EN#227103/people a pilot] wearing [/EN#227111/clothing a white shirt] at [/EN#227108/vehicles the controls of an airplane] .
+[/EN#227103/people Pilot] with [/EN#227107/clothing a headset] on and adjusting [/EN#227104/other controls] .
+[/EN#227103/people A pilot] is driving [/EN#227110/vehicles a small engine airplane] .
+[/EN#227103/people A pilot] sits in front of [/EN#227104/other a control panel] .

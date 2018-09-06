@@ -1,0 +1,5 @@
+[/EN#36450/people The man] and [/EN#36457/people woman] at [/EN#36448/other the window] are turned around to [/EN#36453/people the man] and [/EN#36458/people woman] behind [/EN#0/notvisual them] .
+[/EN#36451/people Two men] and [/EN#36456/people two women] standing at [/EN#36448/scene the window of a ticket booth] .
+[/EN#36447/people Four people] are lining up to purchase [/EN#36449/other tickets] at [/EN#36455/scene the theater] .
+[/EN#36447/people Four people] standing outside of [/EN#36454/scene an outdoor ticket booth] .
+[/EN#36447/people Four people] wait outside in [/EN#36452/other a line] for [/EN#36449/other ticket] .

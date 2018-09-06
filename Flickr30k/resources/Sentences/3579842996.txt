@@ -1,0 +1,5 @@
+[/EN#129228/people A person] in [/EN#129230/clothing a yellow shirt] and [/EN#129231/clothing jeans] is running on [/EN#129229/scene a track] .
+[/EN#129228/people A woman] wearing [/EN#129230/clothing a yellow shirt] runs along [/EN#129229/scene a red track] .
+[/EN#129228/people A Special Olympics contestant] runs on [/EN#129232/other a racetrack] .
+[/EN#129228/people A woman] in [/EN#129230/clothing a yellow shirt] running on [/EN#129229/scene a track] .
+[/EN#129228/people Special Olympics woman runner] on [/EN#129229/scene the track] .

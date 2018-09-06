@@ -1,0 +1,5 @@
+[/EN#130009/people Three people] are standing at [/EN#130011/scene a fence] looking at [/EN#130015/scene a skyscraper filled city] while [/EN#130017/other one] looks through [/EN#130010/other a binocular scope] .
+[/EN#130009/people Three people] lean against [/EN#130014/other a railing] and look at [/EN#130012/scene buildings] across [/EN#130011/scene the water] .
+[/EN#130009/people Three people] standing on [/EN#130016/scene boardwalk] looking at [/EN#130012/scene buildings] across [/EN#130011/scene the water] .
+[/EN#130009/people A family] is looking through [/EN#130010/other binocular] at [/EN#130012/scene a city] over [/EN#130011/scene a body of water]
+[/EN#130009/people Sightseers] look across [/EN#130011/scene the water] at [/EN#130012/scene a city] .

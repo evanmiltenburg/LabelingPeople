@@ -1,0 +1,5 @@
+[/EN#117386/people A group of men] are riding on [/EN#117385/vehicles a blue truck] in [/EN#117394/scene the desert] with [/EN#117388/clothing bags] and [/EN#117391/clothing hats] and [/EN#117392/other ladders] and [/EN#117393/other other things] hanging off of [/EN#0/notvisual it] .
+[/EN#117386/people Several people] pack onto [/EN#117385/vehicles the open bed of a turquoise truck] [/EN#0/notvisual which] is laden with [/EN#117388/clothing bags] and [/EN#117389/other packages] .
+[/EN#117385/vehicles A blue truck] is driving on [/EN#117387/scene a desert road] carrying [/EN#117386/people several people] and [/EN#117389/other lots of assorted cargo] .
+[/EN#117385/vehicles An open bed azure colored truck] carries [/EN#117386/people a group of people] down [/EN#117387/scene the road] .
+[/EN#117386/people A group of people] riding on [/EN#117385/vehicles the bed of a truck] along [/EN#117387/scene a gravel road] .

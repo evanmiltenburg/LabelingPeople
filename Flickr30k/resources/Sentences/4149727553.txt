@@ -1,0 +1,5 @@
+[/EN#157089/people A boy] diving in to [/EN#157090/scene a hotel swimming pool] , with [/EN#157091/other a corner of a chair] in [/EN#0/notvisual the foreground] .
+[/EN#157089/people A boy] is [/EN#157093/other diving headfirst] into [/EN#157092/scene a pool of water] , [/EN#0/notvisual which] is [/EN#157094/other indoors] .
+[/EN#157089/people Young man] half-diving into [/EN#157090/scene indoor community pool] .
+[/EN#157089/people A swimmer] is trying to dive into [/EN#157090/scene the water] .
+[/EN#157089/people A kid] diving into [/EN#157090/scene a public indoor pool] .

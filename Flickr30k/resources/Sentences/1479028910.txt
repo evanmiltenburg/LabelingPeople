@@ -1,0 +1,5 @@
+[/EN#14394/people A skateboarder] in [/EN#14400/clothing gray clothes] jumps over [/EN#14401/clothing a boot] in front of [/EN#14398/other an apartment] .
+[/EN#14394/people A skateboarder] is jumping over [/EN#14396/other an obstacle] in front of [/EN#14398/scene a white house] .
+[/EN#14394/people A skateboarder] attempts to do [/EN#0/notvisual a trick] over [/EN#14396/scene a homemade ramp] .
+[/EN#14394/people A boy] skateboards and does [/EN#0/notvisual a jump] over [/EN#14396/other another skateboard] .
+[/EN#14394/people A skateboarder] jumps [/EN#14396/other another skateboard] .

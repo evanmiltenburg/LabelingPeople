@@ -1,0 +1,5 @@
+[/EN#250435/people A musician] with [/EN#250441/bodyparts short blond-hair] and wearing [/EN#250444/clothing a blue scarf] and [/EN#250445/clothing vest] plays [/EN#250436/instruments a string instrument] while [/EN#250442/other singing] .
+[/EN#250435/people A woman] is playing [/EN#250436/instruments the violin] and singing at [/EN#250443/other the same time] while sitting in [/EN#250438/other a chair] .
+[/EN#250435/people A woman] with [/EN#250437/bodyparts closed eyes] is playing [/EN#250436/instruments a cello] and singing into [/EN#250439/other a microphone] .
+[/EN#250435/people A woman] closes [/EN#250437/bodyparts her eyes] as [/EN#0/notvisual she] plays [/EN#250436/instruments her cello] .
+[/EN#250435/people Lady] sings and plays [/EN#250436/instruments the cello] with [/EN#250440/other emotion] .

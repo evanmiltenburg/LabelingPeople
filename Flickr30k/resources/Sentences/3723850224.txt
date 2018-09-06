@@ -1,0 +1,5 @@
+[/EN#139734/people A man] relaxes lying down on [/EN#139736/scene the grass] at [/EN#139737/scene a park area] , between [/EN#139742/other two trees] , facing [/EN#139735/scene a small lake] , with [/EN#139738/scene buildings] and [/EN#139743/vehicles cars] visible across [/EN#139735/scene the lake] .
+[/EN#139734/people A man] lying on [/EN#139736/scene the grass] relaxing with [/EN#139739/other his camera] by [/EN#0/notvisual his side] .
+[/EN#139734/people A man] in [/EN#139744/clothing tan pants] laying on [/EN#0/notvisual the ground] in front of [/EN#139735/scene a lake] .
+[/EN#139734/people A man] lying on [/EN#139736/scene the grass] next to [/EN#139735/scene a small lake] .
+[/EN#139734/people A man] relaxes in [/EN#139741/other the shade] next to [/EN#139735/scene a lake] .

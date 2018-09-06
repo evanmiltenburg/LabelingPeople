@@ -1,0 +1,5 @@
+[/EN#119640/people a lone man] sitting on [/EN#119642/other a ledge] [/EN#0/notvisual that] overlooks [/EN#119641/scene the beach]
+[/EN#119640/people A young man] sits on [/EN#119642/scene a cliff] , watching [/EN#119641/scene the ocean] .
+[/EN#119640/people A man] sits on [/EN#119642/scene a hill] overlooking [/EN#119641/scene the ocean] .
+[/EN#119640/people A man] sits on [/EN#119642/other the gravel] by [/EN#119641/scene an ocean] .
+[/EN#119640/people Seated man] looks out at [/EN#119641/scene the ocean] .

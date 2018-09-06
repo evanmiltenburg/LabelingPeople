@@ -1,0 +1,5 @@
+[/EN#75328/vehicles/scene A red Planet Hollywood bus] carries [/EN#75329/people many people] including [/EN#75330/people a man] in [/EN#75335/clothing an orange shirt] and [/EN#75336/clothing baseball cap] , [/EN#75331/people one woman] wearing [/EN#75337/clothing a purple shirt] and [/EN#0/notvisual another] in [/EN#75338/clothing a red shirt] with [/EN#75333/other her back] to [/EN#0/notvisual the camera] .
+[/EN#75329/people Group of people] including [/EN#75330/people a man] and [/EN#75331/people a woman] playing [/EN#75339/instruments instruments] on [/EN#75328/people a double-decker red Planet Hollywood] sightseeing [/EN#75328/vehicles/scene bus] .
+[/EN#75334/vehicles/scene the upper deck of a british bus] that [/EN#75329/people people] are riding .
+[/EN#75329/people People] are riding in [/EN#75328/vehicles/scene a red sightseeing bus] .
+[/EN#75329/people people] stand on top of [/EN#75328/vehicles/scene a red tourist bus]

@@ -1,0 +1,5 @@
+[/EN#158862/people A man] in [/EN#158863/clothing a blue shirt] with [/EN#158872/clothing white stripes] , sits on [/EN#158865/scene the side of the road] with [/EN#158870/bodyparts his thumb] to [/EN#158869/bodyparts his mouth] by [/EN#158864/vehicles a wheelbarrow] full of [/EN#158868/other fruit] and [/EN#158871/other vegetables] .
+[/EN#158862/people A man] sits in front of [/EN#158864/vehicles a blue wheelbarrow] full of [/EN#158866/other produce] , [/EN#158870/bodyparts his thumb] pressed against [/EN#158869/bodyparts his mouth] .
+[/EN#158862/people An elderly man] sits in [/EN#158865/scene a street] with [/EN#158864/vehicles a wheelbarrow] full of [/EN#158867/other vegetables] in front of [/EN#0/notvisual him] .
+[/EN#158862/people man] in [/EN#158863/clothing blue shirt] sitting on [/EN#158865/scene the side of the road] with [/EN#158864/other a wheelbarrow of vegetables]
+[/EN#158862/people A man] sits behind [/EN#158864/vehicles a wheelbarrow] full of [/EN#158867/other vegetables] .

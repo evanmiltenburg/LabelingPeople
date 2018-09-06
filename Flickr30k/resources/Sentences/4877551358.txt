@@ -1,0 +1,5 @@
+[/EN#214039/people People] are standing and walking down [/EN#214040/scene a sidewalk] with [/EN#214041/scene stores] on [/EN#0/notvisual both sides] .
+[/EN#214039/people People] shopping on [/EN#214040/scene a fairly , busy street] at [/EN#214042/scene night] .
+[/EN#214039/people People] walking around on [/EN#214040/scene a busy sidewalk] at [/EN#214042/scene night] .
+[/EN#214043/scene A chinese street] with [/EN#214039/people many people] and [/EN#214041/scene shops] .
+[/EN#214039/people People] wandering through [/EN#214041/scene a market] shopping .

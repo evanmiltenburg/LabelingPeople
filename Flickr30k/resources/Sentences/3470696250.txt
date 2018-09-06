@@ -1,0 +1,5 @@
+[/EN#120465/people A balding man] in [/EN#120467/clothing a blue shirts] and [/EN#120468/clothing shorts] sit on [/EN#120466/other a playground toy]
+[/EN#120465/people A man] in [/EN#120467/clothing a shirt] sitting on [/EN#120466/other playground equipment] .
+[/EN#120465/people A man] wearing [/EN#120467/clothing a blue shirt] is sitting .
+[/EN#120465/people A balding man] sitting on [/EN#120466/other a bench] .
+[/EN#120465/people A balding man] sits by [/EN#0/notvisual himself] .

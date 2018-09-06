@@ -1,0 +1,5 @@
+[/EN#85520/people One soccer player] wearing [/EN#85521/clothing a blue , Samsung sponsored jersey] is stumbling over [/EN#85522/people another falling soccer player] wearing [/EN#85523/clothing a red jersey] .
+[/EN#85520/people A sports player] in [/EN#85523/clothing a red shirt] is falling to [/EN#0/notvisual the ground] with [/EN#85522/people another sports player] in [/EN#85521/clothing a blue shirt] stands behind [/EN#0/notvisual him] .
+[/EN#85522/people The blue team member] is behind [/EN#85522/people the red team member] and [/EN#0/notvisual there] are [/EN#85524/people fans] blurred in [/EN#0/notvisual the background] .
+[/EN#85522/people A guy] in [/EN#85521/clothing a blue shirt] is trying to block [/EN#85522/people the guy] in [/EN#85523/clothing the red shirt] .
+[/EN#85525/people Two soccer players] on [/EN#85526/scene the field] running into [/EN#0/notvisual each other] .

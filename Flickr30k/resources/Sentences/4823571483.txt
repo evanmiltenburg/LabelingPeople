@@ -1,0 +1,5 @@
+[/EN#207327/people A woman] is looking at [/EN#207339/other colorful item] in [/EN#207330/other an alleyway] while [/EN#207341/people some men] are next to [/EN#207344/vehicles a cart] and seeing [/EN#0/notvisual what] is available .
+[/EN#207327/people A woman] in [/EN#207334/clothing a green jacket] stands by [/EN#207338/other a wall] full of [/EN#207332/other artwork] , in front of [/EN#207337/clothing a store displaying clothing] and [/EN#207340/clothing shoes] .
+[/EN#207327/people A woman] in [/EN#207343/clothing white slacks] waits in front of [/EN#207331/other some paintings] in [/EN#207329/scene an alleyway market] .
+[/EN#207333/people A group of people] inspect [/EN#207342/other wares] at [/EN#207335/scene a makeshift market] in [/EN#207328/scene an alley] .
+[/EN#207327/people A woman] stands before [/EN#207331/other some paintings] at [/EN#207336/other an outdoor sale] .

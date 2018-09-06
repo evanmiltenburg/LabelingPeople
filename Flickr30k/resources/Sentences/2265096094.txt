@@ -1,0 +1,5 @@
+[/EN#37663/animals A mule] pulling [/EN#37664/vehicles a carriage] with [/EN#37665/people a man] inside along [/EN#37666/scene a dirt path] .
+[/EN#37663/animals A mule] is carrying [/EN#37665/people a man] in [/EN#37664/vehicles a cart] next to [/EN#37667/other some palm trees] .
+[/EN#37663/animals A donkey] pulling [/EN#37668/vehicles a cart] with [/EN#37665/people a boy] [/EN#37669/other in] [/EN#0/notvisual it] takes [/EN#37671/other a brake] .
+[/EN#37665/people A person] is pulled in [/EN#37664/vehicles a cart] by [/EN#37663/animals a donkey] .
+[/EN#37663/animals A donkey] pulling [/EN#37664/vehicles a car] with [/EN#37665/people a man] on [/EN#0/notvisual it]

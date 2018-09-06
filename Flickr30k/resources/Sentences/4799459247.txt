@@ -1,0 +1,5 @@
+[/EN#203926/people Some children] wearing [/EN#203928/clothing life jackets] and holding [/EN#203929/other paddles] are in [/EN#203927/scene a raft] .
+[/EN#203926/people Children] are wearing [/EN#203928/clothing life-jackets] on [/EN#203927/vehicles/scene an inflatable boat] with [/EN#203929/other paddles] .
+[/EN#203930/people A boy] in [/EN#203931/clothing a blue shirt] is wearing [/EN#203932/clothing a red life jacket] .
+[/EN#203926/people Some people] are paddling in [/EN#203927/scene an air filled raft] .
+[/EN#203926/people Children] in [/EN#203928/clothing life jackets] while paddling [/EN#203927/vehicles/scene a boat] .

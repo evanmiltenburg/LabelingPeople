@@ -1,0 +1,5 @@
+[/EN#102843/people A man] is [/EN#102844/clothing a black ninja suit] with [/EN#102845/clothing a mask] is playing [/EN#102846/instruments a guitar] .
+[/EN#102843/people A man] with [/EN#102845/clothing a ski mask] , dressed all in [/EN#102844/clothing black] , plays [/EN#102846/instruments guitar] .
+[/EN#102843/people A man] wearing [/EN#102845/clothing a black ski mask] is playing [/EN#102846/instruments a guitar] .
+[/EN#102843/people A person] in [/EN#102844/clothing a black ninja costume] playing [/EN#102846/instruments a guitar] .
+[/EN#102843/people A man] wearing [/EN#102844/clothing a ninja suit] plays [/EN#102846/instruments the guitar]

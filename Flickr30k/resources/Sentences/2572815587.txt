@@ -1,0 +1,5 @@
+[/EN#0/notvisual This] is [/EN#58850/scene George W Bush] standing in front of [/EN#58851/scene a podium] looking out intently into [/EN#58855/people the crowd] while [/EN#58853/people his wife] [/EN#58853/other Barbara] sits nearby smiling .
+[/EN#58850/people a man] with [/EN#58858/clothing a yellow shirt] standing behind [/EN#58851/scene a black podium] .
+[/EN#58850/people/scene President Bush] delivers [/EN#58852/other a speech] to [/EN#58856/people a large audience] .
+[/EN#58850/scene President George W. Bush] is giving [/EN#58852/other a speech] .
+[/EN#58850/people/scene George Bush] standing at [/EN#58851/scene a podium] .

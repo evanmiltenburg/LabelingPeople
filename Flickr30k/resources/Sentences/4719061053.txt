@@ -1,0 +1,5 @@
+[/EN#195001/people A fireman] in [/EN#195004/other his fireman gear] is lifting up [/EN#195003/other caution tape] in order to get to [/EN#195002/scene the scene] .
+[/EN#195001/people A fireman] is lifting up [/EN#195003/other a red item] designed to block off [/EN#195002/scene an area] .
+[/EN#195001/people A fireman] lifting up [/EN#195003/other the red tape] so [/EN#0/notvisual he] can walk underneath [/EN#0/notvisual it] .
+[/EN#195001/people The firefighter] walks underneath [/EN#195003/other the red tape] .
+[/EN#195001/people A fireman] going under [/EN#195003/other the red rope] .

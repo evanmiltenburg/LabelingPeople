@@ -1,0 +1,5 @@
+[/EN#250706/people A man] in [/EN#250708/clothing a black shirt] is standing outside [/EN#250707/scene the Museum Campus] with [/EN#250711/other an excited expression] on [/EN#250715/bodyparts his face] .
+[/EN#250706/people A man] in front of [/EN#250707/scene a building] is excitedly pointing to [/EN#250707/scene the building] [/EN#0/notvisual which] says " [/EN#250707/scene Museum Campus] " .
+[/EN#250706/people A man] in [/EN#250708/clothing black] is standing outside [/EN#250707/scene a museum] and pointing to [/EN#0/notvisual it] .
+[/EN#250706/people A man] in [/EN#250708/clothing a black shirt] by [/EN#250713/other a trashcan] pointing to [/EN#250707/scene a building] .
+[/EN#250706/people A young gentleman] is pointing to [/EN#250710/other a sign] on [/EN#250707/scene a building] .

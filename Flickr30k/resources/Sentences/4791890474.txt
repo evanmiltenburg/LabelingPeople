@@ -1,0 +1,5 @@
+[/EN#203144/people A man] holding [/EN#203147/clothing a large brown bag] stands in front of [/EN#203151/other an entryway] , by [/EN#203146/other a large advertisement] featuring [/EN#203145/people a child] wearing [/EN#203149/clothing headphones] .
+[/EN#203144/people An elderly man] , holding [/EN#203147/other a package] is standing in front of [/EN#203146/other a sign] [/EN#0/notvisual that] has [/EN#203145/people a girl] with [/EN#203149/clothing headphones] .
+[/EN#203144/people An older , bald man] is standing on [/EN#203148/scene the street] holding [/EN#203147/other a package] .
+[/EN#203144/people An old man] with [/EN#203147/other a package] poses in front of [/EN#203146/other an advertisement] .
+[/EN#203144/people An old man] is standing in front of [/EN#203146/other an ad] on [/EN#203148/scene the sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#280349/people A man] is singing on [/EN#280353/scene stage] wearing [/EN#280352/clothing a white shirt] and [/EN#280350/clothing a black vest] and [/EN#280356/clothing black pants] while holding [/EN#280351/instruments a guitar] .
+[/EN#280349/people An older gentleman] wearing [/EN#280352/clothing a white shirt] and [/EN#280350/clothing black vest] is playing [/EN#280351/instruments a guitar] while [/EN#280357/other singing] .
+[/EN#280349/people A man] in [/EN#280350/clothing a black vest] is playing [/EN#280351/instruments a guitar] and [/EN#280355/people another man] playing [/EN#280351/instruments a guitar] beside [/EN#0/notvisual him] .
+[/EN#280349/people A balding man] is playing [/EN#280351/instruments guitar] and singing .
+[/EN#280354/people A band of older men] perform live on [/EN#280353/scene stage] .

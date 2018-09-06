@@ -1,0 +1,5 @@
+[/EN#8169/animals A black dog] , with [/EN#8170/other a tennis ball] in [/EN#8171/bodyparts its mouth] , swims through [/EN#8172/scene water] .
+[/EN#8169/animals A black dog] carries [/EN#8170/other an orange tennis ball] in [/EN#8171/bodyparts his mouth] as [/EN#0/notvisual he] swims .
+[/EN#8169/animals A dog] swims holding [/EN#8170/other a tennis ball] in [/EN#8171/bodyparts its mouth] .
+[/EN#8169/animals The dog] is swimming with [/EN#8170/other the ball] .
+[/EN#8169/animals A black dog] swims in [/EN#8172/scene the water] .

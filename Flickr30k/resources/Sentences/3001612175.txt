@@ -1,0 +1,5 @@
+[/EN#86514/people A man] and [/EN#86515/animals dog] walk down [/EN#86516/other cement steps] while [/EN#86517/people a woman] in [/EN#86518/clothing a headscarf] looks on from [/EN#86517/scene a seated position] on [/EN#86520/other the bottom step] .
+[/EN#86514/people A man] walks [/EN#86515/animals his black dog] down [/EN#86516/other the cement steps] where [/EN#86517/people a woman] dressed in [/EN#86517/clothing black] sits .
+[/EN#86514/people A young man] walks [/EN#86515/animals his dog] down [/EN#86516/other some steps] where [/EN#86517/people a black-clad woman] is sitting
+[/EN#86514/people A woman] with [/EN#86515/animals a dog] descends [/EN#86516/scene an outdoor staircase] , [/EN#86523/vehicles/scene a bus] behind [/EN#0/notvisual her] .
+[/EN#86517/people One woman] is sitting on [/EN#86516/other steps] [/EN#86514/people another woman] is coming down [/EN#0/notvisual them] .

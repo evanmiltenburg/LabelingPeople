@@ -1,0 +1,5 @@
+[/EN#177173/people A clerk] with [/EN#177184/bodyparts a goatee] and [/EN#177178/clothing an apron] works in [/EN#177175/scene a store] [/EN#0/notvisual that] sells [/EN#177182/other various items] including [/EN#177174/other sausages] .
+[/EN#177173/people A man] wearing [/EN#177176/clothing a cap] stands behind [/EN#177181/scene the counter of a shop] where [/EN#177174/other sausages] and [/EN#177180/other peperoni] hang .
+[/EN#0/notvisual There] are [/EN#177174/other a bunch of sausages] hanging from [/EN#177177/other a hook] in [/EN#177179/scene a store] .
+[/EN#177174/other Sausages] hang in [/EN#177175/scene a supermarket] while [/EN#177173/people a cashier] is working .
+[/EN#177173/people A young man] is at [/EN#177175/scene a store] selling [/EN#177174/other sausages] and [/EN#177183/other wine] .

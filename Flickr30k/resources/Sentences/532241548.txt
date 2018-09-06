@@ -1,0 +1,5 @@
+[/EN#233633/people A crowd of people] , [/EN#233645/people all] wearing [/EN#233634/clothing raincoats] with [/EN#233635/other hoods] pulled up , listening to [/EN#233636/people a man] wearing [/EN#233637/clothing a red and blue raincoat] , with [/EN#233638/bodyparts curly brunette hair] , speaks .
+[/EN#233633/people A tour group] wearing [/EN#233634/clothing rain jackets] and holding [/EN#233639/clothing umbrellas] are outside [/EN#233640/scene a barbed wire fence] .
+[/EN#233633/people A crowd of people] are standing [/EN#233643/scene outside] with [/EN#233634/clothing coats] and [/EN#233639/clothing umbrellas] because [/EN#0/notvisual it] is raining .
+[/EN#233633/people A group of people] are standing [/EN#233644/scene outside] holding [/EN#233641/other papers] .
+[/EN#233633/people A group of people] is waiting in [/EN#233642/other the rain] .

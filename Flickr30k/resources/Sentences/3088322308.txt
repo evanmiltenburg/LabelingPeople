@@ -1,0 +1,5 @@
+[/EN#92549/people A man] , [/EN#92550/people woman] , and [/EN#92551/people two girls] walk on [/EN#92552/scene the beach] barefoot .
+[/EN#92553/people People] walking in [/EN#92552/scene the water] along [/EN#92552/scene the beach] .
+[/EN#92553/people A group of people] at [/EN#0/notvisual a distance] on [/EN#92552/scene a beach] .
+[/EN#92554/people This family] is walking on [/EN#92552/scene the beach] .
+[/EN#92555/people Four people] are walking on [/EN#92552/scene a beach] .

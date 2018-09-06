@@ -1,0 +1,5 @@
+[/EN#139011/people An onlooker] sits on [/EN#139016/scene the shore of a pool] overlooked by [/EN#139012/scene massive waterfalls] .
+[/EN#139011/people A person] sits on [/EN#139013/other a rock] at [/EN#139014/scene the edge of a large waterfall] .
+[/EN#139011/people A woman] is sitting on [/EN#139013/other a rock] next to [/EN#139012/scene a large waterfall] .
+[/EN#139011/people A girl] is sitting on [/EN#139013/other a rock] next to [/EN#139014/scene a waterfall] .
+[/EN#139011/people A person] sitting on [/EN#139013/other a rock] by [/EN#139015/other a fall] .

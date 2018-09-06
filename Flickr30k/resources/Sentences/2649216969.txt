@@ -1,0 +1,5 @@
+[/EN#63859/people A single man] , riding [/EN#63860/vehicles his bike] on [/EN#63861/scene the pier] at [/EN#63864/scene sunset] .
+[/EN#63859/people A man] on [/EN#63860/vehicles a bike] riding [/EN#63863/scene home] from [/EN#63862/scene a long day] at [/EN#63866/other work] .
+[/EN#63859/people A man] riding [/EN#63860/vehicles a bicycle] along [/EN#63865/scene the waterfront] .
+[/EN#63859/people A man] on [/EN#63860/vehicles a bike] rides down [/EN#63861/scene a sunlit pier] .
+[/EN#63859/people A man] riding [/EN#63860/vehicles a bike] on [/EN#63861/scene the pier] .

@@ -1,0 +1,5 @@
+[/EN#189966/people People] stand outside of [/EN#189959/scene a building] [/EN#0/notvisual that] has [/EN#189957/vehicles cars] parked in [/EN#189962/scene front] .
+[/EN#189957/vehicles cars] are parked by [/EN#189960/scene a little store] in [/EN#189956/scene quaint European street] .
+[/EN#0/notvisual There] are [/EN#189965/other two blue signs] on [/EN#189956/scene the corner of the street] .
+[/EN#189956/scene Cobblestone street] and [/EN#189963/other line of storefronts]
+[/EN#189958/scene A street view] with [/EN#189957/vehicles cars] and [/EN#189959/scene buildings] .

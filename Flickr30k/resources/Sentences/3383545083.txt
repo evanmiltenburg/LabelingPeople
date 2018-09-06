@@ -1,0 +1,5 @@
+[/EN#114522/animals A black and brown dog] plays with [/EN#114523/other a long stick] .
+[/EN#114522/animals A dog] gets [/EN#114524/bodyparts its legs] tangled with [/EN#114523/other a stick] .
+[/EN#114522/animals a black and brown dog] playing with [/EN#114523/other a stick]
+[/EN#114522/animals A large black dog] chews on [/EN#114523/other a stick] .
+[/EN#114522/animals The dog] is biting [/EN#114523/other a stick] .

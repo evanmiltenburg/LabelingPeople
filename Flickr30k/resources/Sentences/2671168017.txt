@@ -1,0 +1,5 @@
+[/EN#65256/people A person] wearing [/EN#65257/clothing an orange shirt] is riding [/EN#65258/vehicles a bike] with [/EN#65259/other something] tide to [/EN#65258/vehicles the bike] .
+[/EN#65256/people A cyclist] is passing by [/EN#65260/scene a river] with [/EN#65261/other a pillow] attached to [/EN#65258/vehicles his bike] .
+[/EN#65256/people A woman] rides [/EN#65258/vehicles a red bicycle] along [/EN#65260/scene a river] while wearing [/EN#65262/clothing a helmet] .
+[/EN#65256/people An individual] in [/EN#65257/clothing an orange shirt] rides [/EN#65258/vehicles a red bike] by [/EN#65260/scene a river] .
+[/EN#65256/people A woman] rides [/EN#65258/vehicles her bike] in front of [/EN#65260/scene a body of water] .

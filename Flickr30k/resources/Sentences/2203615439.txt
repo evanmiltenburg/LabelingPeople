@@ -1,0 +1,5 @@
+[/EN#33942/people A man] dressed in [/EN#33945/other denim] is walking along [/EN#33946/scene a snow covered street] next to [/EN#33943/scene red brick buildings] .
+[/EN#33942/people a man] wearing [/EN#33944/other a jean jacket ND] [/EN#33947/clothing a pair of jeans] walking next to [/EN#33943/scene a red brick building] .
+[/EN#33942/people A man] stands by [/EN#33943/scene a building] because [/EN#0/notvisual there] is [/EN#33946/scene snow] and [/EN#33946/other ice] on [/EN#0/notvisual the ground] nearby .
+[/EN#33942/people A man] in [/EN#33945/clothing blue] walks down [/EN#33946/scene a snowy street] next to [/EN#33943/scene a brick building] .
+[/EN#33942/people man] walking next to building on [/EN#33946/scene path clear of snow]

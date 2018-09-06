@@ -1,0 +1,5 @@
+[/EN#70889/people An older woman] in [/EN#70891/clothing a black dress] is standing outside [/EN#70892/scene a doorway] holding [/EN#70893/other a loaf of bread]
+[/EN#70889/people A older woman] wearing [/EN#70891/clothing a black dress] holding [/EN#70893/other a loaf of bread] by [/EN#70892/scene a doorway] .
+[/EN#70889/people An sad elderly woman] is standing in [/EN#70896/scene the street] , next to [/EN#70894/scene a building] .
+[/EN#70889/people An old woman] in [/EN#70891/clothing a black dress] holds [/EN#70893/other a loaf of bread] outside [/EN#70895/other a door] .
+[/EN#70889/people An elderly woman] holding [/EN#70893/other a loaf of bread] .

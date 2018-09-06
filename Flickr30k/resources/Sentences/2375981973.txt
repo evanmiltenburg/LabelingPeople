@@ -1,0 +1,5 @@
+[/EN#45012/people An older man] squatting [/EN#45020/scene outside] , holding [/EN#45013/other a cup] , with [/EN#45014/other a plate of food] , [/EN#45015/clothing personal bag] , and [/EN#45016/other walking stick] next to [/EN#0/notvisual him] .
+[/EN#45012/people An old man] in [/EN#45017/clothing a white shirt] is squatting on [/EN#45018/scene a stone path] with [/EN#45013/other a cup] in [/EN#45019/bodyparts his hands] .
+[/EN#45012/people An old man] is sitting in front of [/EN#45014/other a plate of food] on [/EN#0/notvisual the ground] .
+[/EN#45012/people A dark-skinned man] squats in front of [/EN#45014/other a plate of food] .
+[/EN#45012/people Old man] squatting with [/EN#45014/other food] , [/EN#45015/clothing bag] and [/EN#45016/other stick] .

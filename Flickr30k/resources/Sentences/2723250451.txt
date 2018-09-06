@@ -1,0 +1,5 @@
+[/EN#68664/people A young man] in [/EN#68665/clothing a red shirt] is winding up to hit [/EN#68667/other a tennis ball] .
+[/EN#68664/people A male tennis player] [/EN#0/notvisual that] has just swung to hit [/EN#68667/other a tennis ball] .
+[/EN#68664/people Brown-haired man] plays [/EN#68670/other tennis] in [/EN#68665/clothing a red shirt] and [/EN#68669/clothing black shorts] .
+[/EN#68664/people A man] prepares to hit [/EN#68668/other a backhand tennis shot] .
+[/EN#68664/people A man] swinging [/EN#68666/other a tennis racket] .

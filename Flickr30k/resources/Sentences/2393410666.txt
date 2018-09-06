@@ -1,0 +1,5 @@
+[/EN#46157/animals The black greyhound dog] is running on [/EN#46160/scene the grass] wearing [/EN#46158/clothing a blue jacket] .
+[/EN#46157/animals A dog] wearing [/EN#46158/clothing a blue shirt] is running and jumping through [/EN#0/notvisual the air] .
+[/EN#46157/animals A dog] with [/EN#46161/clothing a muzzle] and [/EN#46158/clothing blue jacket] runs around [/EN#46162/scene the yard] .
+[/EN#46157/animals A black dog] wearing [/EN#46158/clothing a blue shirt] is jumping in [/EN#0/notvisual the air]
+[/EN#46157/animals A dog] with [/EN#46163/other a blue blanket] runs through [/EN#46160/scene the grass] .

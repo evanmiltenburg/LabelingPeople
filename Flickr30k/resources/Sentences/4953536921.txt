@@ -1,0 +1,5 @@
+[/EN#222764/people A woman] with [/EN#222767/animals a dog] sitting on [/EN#222766/other a bench] near [/EN#222768/scene the ocean] .
+[/EN#222764/people A woman] and [/EN#222767/animals a dog] sit on [/EN#222766/other a bench] in front of [/EN#222765/scene a beach] .
+[/EN#222764/people A woman] and [/EN#222767/animals a dog] sit on [/EN#222766/other a white bench] near [/EN#222765/scene a beach] .
+[/EN#222764/people A woman] in [/EN#222769/clothing a swimsuit] sitting on [/EN#222766/other a bench] with [/EN#222767/animals a dog] .
+[/EN#222766/other white bench] looking out onto [/EN#222768/scene the ocean] with [/EN#222767/animals dog] .

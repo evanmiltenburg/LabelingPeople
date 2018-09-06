@@ -1,0 +1,5 @@
+[/EN#174276/scene A view of a street] with [/EN#174277/scene puddles] , [/EN#174272/people people] walking , and lined with [/EN#174270/scene buildings] [/EN#0/notvisual that] are mostly [/EN#174279/other three-stories] tall .
+[/EN#174272/people Many people] are walking through [/EN#174273/scene the city] during [/EN#174274/scene the day] .
+[/EN#174275/people A man] walks across [/EN#174271/scene a city street] on [/EN#174274/scene a sunny day] .
+[/EN#174272/people People] are walking [/EN#174273/scene the streets] on [/EN#174274/scene a sunny day] .
+[/EN#174271/scene A street] lined with [/EN#174278/scene three-story buildings] .

@@ -1,0 +1,5 @@
+[/EN#251729/people A football player] in [/EN#251741/clothing a blue " Rams " jersey] runs with [/EN#251732/other a football] on [/EN#251731/scene a field] , as [/EN#251730/people another player] in [/EN#251742/clothing a white jersey] falls in [/EN#251736/other an attempt] to tackle [/EN#0/notvisual him] .
+[/EN#251730/people A football player] is attempting to tackle [/EN#251730/people a player] on [/EN#251729/people the opposing team] [/EN#0/notvisual who] is running with [/EN#251732/other the ball] .
+[/EN#251729/people A football player] running with [/EN#251732/other the ball] down [/EN#251731/scene the field] as [/EN#251730/people another player] goes in for [/EN#251734/other the tackle] .
+[/EN#251729/people A boy] is attempting to break free from [/EN#251734/other a tackle] while running with [/EN#251732/other the football] during [/EN#251735/other a game] .
+[/EN#251730/people One boy] is tackling [/EN#251729/other the other] while playing [/EN#251737/other football] .

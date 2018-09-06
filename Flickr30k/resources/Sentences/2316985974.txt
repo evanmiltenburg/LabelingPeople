@@ -1,0 +1,5 @@
+[/EN#41224/people Two men] and [/EN#41227/people one female] in [/EN#41234/clothing white tank top] and [/EN#41231/clothing black sweatpants] , [/EN#41233/other walk] along [/EN#41226/scene a busy intersection] .
+[/EN#41223/people Three people] , [/EN#41228/other the one] in [/EN#41229/scene the center] has [/EN#41225/clothing a bag] , are crossing [/EN#41226/scene a busy street] .
+[/EN#41224/people Two men] and [/EN#41227/people a woman] are walking towards [/EN#41226/scene the street] with [/EN#41225/clothing a white plastic bag] .
+[/EN#41224/people Two guys] , [/EN#41228/other one] is carrying [/EN#41225/clothing a bag] , and [/EN#41227/people one girl] are walking down [/EN#41226/scene the street] .
+[/EN#41223/people Three people] crossing [/EN#41230/scene a street] , [/EN#41228/other one] is carrying [/EN#41225/clothing a shopping bag] .

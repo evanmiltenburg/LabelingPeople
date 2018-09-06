@@ -1,0 +1,5 @@
+[/EN#169275/people A man] in [/EN#169282/clothing a white shirt] is standing in [/EN#169285/scene the grass] showing [/EN#169284/other something] to [/EN#169277/people a woman] in [/EN#169278/clothing a white shirt] .
+[/EN#169275/people A guy] and [/EN#169277/people a girl] , [/EN#0/notvisual both] wearing [/EN#169278/clothing white shirts] and [/EN#169279/clothing jeans] , stand under [/EN#169276/other a flowering tree] .
+[/EN#169283/people a young couple] both wearing [/EN#169278/clothing white shirts] and [/EN#169279/clothing blue jeans] standing in [/EN#169280/other a light misty rain]
+[/EN#169275/people a man] and [/EN#169277/people woman] standing underneath [/EN#169276/other the tree] are talking .
+[/EN#169275/people A man] and [/EN#169277/people a woman] are talking in [/EN#169281/scene a park]

@@ -1,0 +1,5 @@
+[/EN#177151/animals A large furry brown dog] is walking with [/EN#177152/clothing a leash] in [/EN#177153/bodyparts his mouth] .
+[/EN#177151/animals A fluffy dog] carries [/EN#177152/clothing a black leash] in [/EN#177154/bodyparts its mouth] .
+[/EN#177151/animals Dog] walking with [/EN#177152/other his lease] in [/EN#177153/bodyparts his mouth] .
+[/EN#177151/animals a yellow dog] carries [/EN#177152/clothing a black leash] .
+[/EN#177151/animals A dog] carries [/EN#177152/clothing a leash] in [/EN#177154/bodyparts its mouth] .

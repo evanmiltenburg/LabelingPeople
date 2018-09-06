@@ -1,0 +1,5 @@
+[/EN#71811/people A man] in [/EN#71812/clothing a black shirt] with [/EN#71815/other a heart] on [/EN#0/notvisual it] has [/EN#71817/clothing glasses] and [/EN#71818/other works] at [/EN#71814/scene a bookstore] .
+[/EN#71811/people A man] in [/EN#71812/clothing a black t-shirt] is standing in front of [/EN#71813/other a book shelf] .
+[/EN#71811/people A man] in [/EN#71812/clothing a black shirt] stands in front of [/EN#71816/other books] on [/EN#71813/other shelves] .
+[/EN#71811/people A Borders Bookstore employee] is wearing [/EN#71812/clothing a black shirt] .
+[/EN#71811/people A young man] in [/EN#71812/clothing a t-shirt] smiling in [/EN#71814/scene a bookstore] .

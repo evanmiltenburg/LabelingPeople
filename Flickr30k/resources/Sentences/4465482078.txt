@@ -1,0 +1,5 @@
+[/EN#170771/people A man] in [/EN#170773/clothing blue jeans] rests on [/EN#170776/other his back] on [/EN#0/notvisual a rocky ground] , staring towards [/EN#170777/scene the sky] .
+[/EN#170771/people A man] in [/EN#170772/clothing a blue shirt] is laying on [/EN#170774/other rocks] in [/EN#170775/other the sun] .
+[/EN#170771/people A man] in [/EN#170772/clothing a blue shirt] and [/EN#170773/clothing jeans] is laying on [/EN#170774/other rocks] .
+[/EN#170771/people The man] in [/EN#170772/clothing the blue shirt] is relaxing on [/EN#170774/other the rocks] .
+[/EN#170771/people A man] in [/EN#170773/clothing jeans] and [/EN#170772/clothing a blue shirt] laying in [/EN#170775/other the sun] .

@@ -1,0 +1,5 @@
+[/EN#92115/people a free climber] is hanging from [/EN#92117/other a rock] whilst being watched by [/EN#92115/people a man] in [/EN#92119/clothing a green t-shirt] .
+[/EN#92115/people A man] is holding onto [/EN#92117/scene the underside of an outcropping] while [/EN#92120/scene rock climbing] .
+[/EN#92115/people A climber] hangs from [/EN#92122/bodyparts a rock face] while [/EN#0/notvisual another] watches .
+[/EN#92115/people A young man] climbs [/EN#92117/other the bottom surface of a rock] .
+[/EN#92115/people The man] wearing [/EN#92118/clothing a brown shirt] clings to [/EN#92117/other a rock] .

@@ -1,0 +1,5 @@
+[/EN#76064/people A man] crosses [/EN#76070/scene the street] just past [/EN#76065/other a stop sign] , while looking to [/EN#76069/scene the right] .
+[/EN#76064/people A man] walking along [/EN#76070/scene a road] next to [/EN#76066/scene a blue building] and [/EN#76065/other red stop sign] .
+[/EN#76064/people A man] is walking on [/EN#76070/scene a road] in front of [/EN#76066/other a blue and white wall] .
+[/EN#76064/people Man] in [/EN#76068/scene vertical striped shirt crosses street] .
+[/EN#76064/people A man] walking by [/EN#76065/other a stop sign] .

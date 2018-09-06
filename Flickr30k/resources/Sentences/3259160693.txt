@@ -1,0 +1,5 @@
+[/EN#105032/people The guy] in [/EN#105037/clothing the black jacket] is standing on [/EN#105036/bodyparts his hand] on [/EN#105033/other a checkered rectangle] .
+[/EN#105032/people A man] stands on [/EN#105036/bodyparts one hand] in [/EN#105035/scene the street] while [/EN#105034/people a crowd] watches .
+[/EN#105032/people A man] dancing on [/EN#105035/scene the street] in front of [/EN#105034/people a crowd] .
+[/EN#105032/people A man] dances on [/EN#105033/other a mat] in front of [/EN#105034/people a crowd] .
+[/EN#105032/people A man] breakdances as [/EN#105034/people a crowd] watches .

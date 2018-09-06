@@ -1,0 +1,5 @@
+[/EN#25674/animals A large skinny dog] is trying to catch [/EN#25675/other a faded green tennis ball] .
+[/EN#25674/animals A gray dog] is looking at [/EN#25675/other a ball] in [/EN#0/notvisual the air] .
+[/EN#25674/animals Brown dog] catches [/EN#25675/other a ball] in [/EN#25676/scene a sunny yard]
+[/EN#25674/animals A brown dog] reaches for [/EN#25675/other a tennis ball] .
+[/EN#25674/animals A brown dog] playing with [/EN#25675/other a tennis ball]

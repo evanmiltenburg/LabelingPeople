@@ -1,0 +1,5 @@
+[/EN#68538/people A woman] in [/EN#68541/clothing a red shirt] and [/EN#68540/people a woman] in [/EN#68542/clothing a white shirt] are examining [/EN#68537/other some plants] .
+[/EN#68533/people Two women] are picking [/EN#68537/other something] from [/EN#68535/scene a garden] and placing [/EN#0/notvisual it] in [/EN#68539/other a blue pail] .
+[/EN#68533/people Two people] in [/EN#68535/scene a field] are harvesting [/EN#68537/other fruit or vegetables] .
+[/EN#68533/people Two women] , picking from [/EN#68537/other plants] in [/EN#68534/scene an open valley] .
+[/EN#68533/people Two women] work in [/EN#68535/scene a field] picking [/EN#68537/other plants] .

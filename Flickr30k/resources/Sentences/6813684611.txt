@@ -1,0 +1,5 @@
+[/EN#258520/people Three people] are playing [/EN#258529/other music] ; [/EN#258533/other two] with [/EN#258525/instruments violins] and [/EN#258530/other one] with [/EN#258523/instruments a guitar] , and [/EN#0/notvisual at least two of them] are singing into [/EN#258524/other microphones] .
+[/EN#258520/people Three people] play [/EN#258525/instruments violins] and [/EN#258523/instruments a guitar] and sing into [/EN#258524/other microphones] .
+[/EN#258522/people Violinist] plays with [/EN#258519/people the band] as [/EN#258532/other the yellow light] sets [/EN#258527/other the mood] .
+[/EN#258519/people A band] [/EN#0/notvisual who] is performing in front of [/EN#258531/people their many followers] .
+[/EN#258522/people man] playing [/EN#258526/instruments a fiddle] on [/EN#258534/scene stage] with [/EN#258521/people other band members] .

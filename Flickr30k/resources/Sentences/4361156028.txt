@@ -1,0 +1,5 @@
+[/EN#164895/people A woman] sitting inside [/EN#164898/vehicles a public transportation vehicle] looks in [/EN#0/notvisual the distance] while [/EN#164899/people several other passengers] can be seen in [/EN#0/notvisual the background] .
+[/EN#164895/people A woman] on [/EN#164896/vehicles/scene a bus] [/EN#0/notvisual that] does not look very happy and [/EN#164896/vehicles/scene the bus] seems crowded .
+[/EN#164895/people A person] in [/EN#164897/clothing a dark-colored sweater] sitting on [/EN#164898/vehicles public transportation] .
+On [/EN#164896/vehicles/scene this bus] is [/EN#164895/people a rather angry looking woman] .
+[/EN#164895/people A woman] in [/EN#164897/clothing a dark jacket] sitting n [/EN#164896/vehicles/scene a bus] .

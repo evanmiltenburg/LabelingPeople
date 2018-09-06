@@ -1,0 +1,5 @@
+[/EN#5244/people A boy] in [/EN#5245/clothing a blue shirt] is posing in front of [/EN#5247/scene an igloo type building] with [/EN#5246/people a person] dangling from [/EN#5248/other a rope] above [/EN#5247/scene the building] .
+[/EN#5244/people a young man] wearing [/EN#5245/clothing a blue shirt] with [/EN#5247/scene a strange white building] in [/EN#0/notvisual the background]
+[/EN#5244/people A boy] poses for [/EN#5251/other a picture] and in [/EN#0/notvisual the background] [/EN#5246/people a man] is hanging by [/EN#5248/other a rope] .
+[/EN#5244/people A boy] and [/EN#5246/people a person] suspended above [/EN#5247/other a dome structure] .
+[/EN#5244/people A boy] stands near [/EN#5247/scene a structure outside] .

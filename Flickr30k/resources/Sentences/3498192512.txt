@@ -1,0 +1,5 @@
+[/EN#122800/people A crowd of people] , [/EN#122807/other many] wearing [/EN#122808/other pink garments] , [/EN#122802/other walk] on [/EN#122803/scene a wide sidewalk] .
+[/EN#122801/people Group of people] wearing [/EN#122809/clothing pink hats] walking during [/EN#122802/other a marathon] .
+[/EN#122800/people A large group of people] are walking on [/EN#122803/scene a sidewalk] .
+[/EN#122801/people Walkers] at [/EN#122805/scene an event] in [/EN#122806/scene a park] .
+[/EN#122801/people People] walking in [/EN#122804/other a marathon] .

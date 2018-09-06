@@ -1,0 +1,5 @@
+[/EN#204148/people A woman] wearing [/EN#204153/clothing a black shirt] and [/EN#204155/people a man] wearing [/EN#204154/clothing a black shirt] look through [/EN#204156/other a microscope] while [/EN#204157/people another person] with [/EN#204152/clothing a baseball cap] looks on .
+[/EN#204149/people Three students] , [/EN#204147/people all] wearing [/EN#204151/clothing black t-shirts] , are standing and looking into [/EN#204150/other a microscope] .
+[/EN#204148/people One woman] and [/EN#204159/people two men] wearing [/EN#204151/clothing black] are looking at [/EN#204158/other something] next to [/EN#204150/other a microscope] .
+[/EN#204149/people three people] in [/EN#204151/clothing black shirts] are using [/EN#204150/other a microscope] .
+[/EN#204147/people A group of people] are looking through [/EN#204150/other a microscope] .

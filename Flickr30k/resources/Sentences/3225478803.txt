@@ -1,0 +1,5 @@
+[/EN#102523/people A boy] is standing at [/EN#102524/scene the edge of a wave] with [/EN#102525/other the sun] setting or rising in [/EN#0/notvisual the background] .
+[/EN#102523/people A child] is standing on [/EN#102528/scene a beach] waiting for [/EN#102526/scene a wave] to come in .
+[/EN#102523/people A child] stands in front of [/EN#102526/scene an incoming wave] as [/EN#102525/other the sun] sets .
+[/EN#102523/people Child] playing in [/EN#102526/scene waves] with [/EN#102525/other sun] on [/EN#102529/scene the horizon] .
+[/EN#102523/people A boy] plays in [/EN#102527/other the surf] at [/EN#102530/scene sunset] .

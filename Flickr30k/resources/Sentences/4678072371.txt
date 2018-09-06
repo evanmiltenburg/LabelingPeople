@@ -1,0 +1,5 @@
+[/EN#189612/vehicles A silver car] is passing by [/EN#189614/other the entrance of the Hotel Carmel] , and [/EN#189613/people several people] are outside .
+[/EN#189612/vehicles A silver car] driving by [/EN#189617/scene a Hotel] where [/EN#189613/people people] are standing outside [/EN#189614/other of] .
+[/EN#189613/people People] unloading [/EN#189612/vehicles their car] outside [/EN#189614/other the Hotel Carmel] .
+[/EN#189616/vehicles Cars] and [/EN#189613/people people] are [/EN#189614/other outside of " Hotel Carmel] . "
+[/EN#0/notvisual This] is [/EN#189614/other a street view of the " Hotel Carmel] " .

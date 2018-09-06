@@ -1,0 +1,5 @@
+[/EN#78955/animals A puppy] sniffs [/EN#78956/other a human foot] [/EN#0/notvisual that] is resting on [/EN#78957/bodyparts his face] .
+[/EN#78955/animals Black fuzzy dog] with [/EN#78956/other a humans foot] in front of [/EN#0/notvisual it] .
+[/EN#78955/animals The black puppy] is being touched by [/EN#78956/other a foot] .
+[/EN#78956/other Person 's foot] resting on [/EN#78955/animals fluffy black dog] .
+[/EN#78955/animals Black puppy] sniffing [/EN#78956/other a human 's barefoot] .

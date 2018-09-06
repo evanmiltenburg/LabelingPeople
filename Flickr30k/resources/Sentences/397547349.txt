@@ -1,0 +1,5 @@
+[/EN#150554/people A man] walking [/EN#150561/clothing a small white] and [/EN#150559/animals a big white dog] on [/EN#150557/clothing leashes] .
+[/EN#150554/people A man] walking down [/EN#150556/scene a sidewalk] with [/EN#150558/animals 2 dogs] on [/EN#150557/clothing leashes] .
+[/EN#150554/people a man] walks [/EN#150558/animals two dogs] on [/EN#150557/clothing leashes] down [/EN#150556/scene the street]
+[/EN#150554/people A man] walking [/EN#150558/animals two dogs] down [/EN#150556/scene a street] .
+[/EN#150554/people A man] walks [/EN#150558/animals two dogs] in [/EN#150560/scene the city] .

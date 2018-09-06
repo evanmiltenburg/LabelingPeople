@@ -1,0 +1,5 @@
+[/EN#100154/people A group of smiling teenagers] sits at [/EN#100156/other a table] while playing [/EN#100155/other a board game] .
+[/EN#100154/people A group of young men] and [/EN#100158/people women] at [/EN#100156/other a kitchen table] playing [/EN#100155/other a board game] .
+[/EN#100154/people A group of teenage friends] are playing [/EN#100155/other a board game] and eating [/EN#100160/other food] .
+[/EN#0/notvisual There] are [/EN#100157/people five teens] sitting at [/EN#100156/other a table] playing [/EN#100155/other a board game] .
+[/EN#100154/people Young adults] playing [/EN#100155/other a board game] .

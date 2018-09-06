@@ -1,0 +1,5 @@
+[/EN#203878/people A man] in [/EN#203884/clothing a blue shirt] with [/EN#203883/clothing a duffel bag] and [/EN#203879/people a woman] in [/EN#203889/clothing a yellow jacket] pushing [/EN#203882/other a baby stroller] crossing [/EN#203885/scene a city street] .
+[/EN#203879/people A woman] in [/EN#203890/clothing leopard print leggings] pushes [/EN#203882/other a stroller] while [/EN#203878/people a man] in [/EN#203884/clothing a blue dress shirt] walks by [/EN#0/notvisual her] on [/EN#203885/scene the street] .
+[/EN#203879/people A woman] in yellow with [/EN#203882/other a stroller] , and [/EN#203878/people a man] in [/EN#203884/clothing a blue shirt] with [/EN#203883/clothing a backpack] are walking on [/EN#203885/scene a busy city block] .
+[/EN#203878/people A man] with [/EN#203884/clothing a suit] and [/EN#203879/people a woman] with [/EN#203882/other a stroller] are walking .
+[/EN#203879/people People] walking down [/EN#203888/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#121281/people A woman] in [/EN#121283/clothing a black shirt] and [/EN#121285/clothing apron] is busy weighing [/EN#121281/animals fish] on [/EN#121286/other a scale] at [/EN#121284/scene a fish market] , with [/EN#121288/other a variety of fish meats] on [/EN#121290/other display] in front of [/EN#0/notvisual her] .
+[/EN#121281/people A lady] wearing [/EN#121283/clothing a black sweater] with [/EN#121285/clothing a white apron] around [/EN#121291/bodyparts her waist] is standing behind [/EN#121287/other a table] [/EN#0/notvisual that] displays [/EN#121281/animals fish] .
+[/EN#121281/animals A young woman fillets fish] at [/EN#121284/scene a fish market] .
+[/EN#121281/people Woman] in [/EN#121283/clothing black] working at [/EN#121284/scene a fish market] .
+[/EN#121281/people A woman] preparing [/EN#121281/animals fish] at [/EN#121284/scene a market] .

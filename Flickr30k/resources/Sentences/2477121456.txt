@@ -1,0 +1,5 @@
+[/EN#52451/bodyparts The black dog 's head] is poking up out of [/EN#52452/scene the water] .
+[/EN#52449/bodyparts A black dog 's head] rises above [/EN#52452/scene some water] .
+[/EN#52448/animals Drenched black Labrador] in [/EN#52452/scene the water] .
+[/EN#52448/animals A black dog] splashes in [/EN#52452/scene the water] .
+[/EN#52451/animals a black dog] plays in [/EN#52452/scene the water] .

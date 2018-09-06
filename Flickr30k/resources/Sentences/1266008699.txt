@@ -1,0 +1,5 @@
+[/EN#6708/people A man] wearing [/EN#6709/other a yellow visor] , [/EN#6710/clothing yellow shirt] and [/EN#6711/clothing green shorts] is in [/EN#0/notvisual the air] .
+[/EN#6708/people A man] is jumping off of [/EN#6713/scene the upper level kitchen] in [/EN#6714/scene his home] .
+[/EN#6708/people A man] in [/EN#6711/clothing yellow and green shorts] jumping in [/EN#6715/scene a living room] .
+[/EN#6708/people A man] in [/EN#6710/clothing a yellow shirt] is jumping in [/EN#6715/scene a living room] .
+[/EN#6708/people A man] in [/EN#6710/clothing a yellow shirt] is jumping .

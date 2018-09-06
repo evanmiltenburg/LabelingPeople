@@ -1,0 +1,5 @@
+[/EN#196206/people A girl] in [/EN#196209/clothing a pink sundress] pushes [/EN#196210/vehicles a scooter] past [/EN#196207/other a row of orange construction barrels] .
+[/EN#196206/people A woman] in [/EN#196211/other a red dressed] glides down [/EN#196207/other a construction] blocked [/EN#196214/scene road] on [/EN#196210/vehicles a scooter] .
+[/EN#196206/people A girl] in [/EN#196209/clothing a red dress] is riding [/EN#196213/other a skateboard] in front of [/EN#196208/scene a construction site] .
+[/EN#196206/people A person] in [/EN#196211/clothing a red skirt] rides [/EN#196210/vehicles their scooter] by [/EN#196208/scene a construction site] .
+[/EN#196206/people A woman] in [/EN#196209/clothing a pink dress] is riding [/EN#196210/vehicles a scooter] .

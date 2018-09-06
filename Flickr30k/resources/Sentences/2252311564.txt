@@ -1,0 +1,5 @@
+[/EN#37027/people A heavyset woman] reading in [/EN#37028/scene her seat] on [/EN#37033/vehicles a city transportation vehicle] .
+[/EN#37027/people A woman] is seen reading through [/EN#37034/other a subway window] .
+[/EN#37027/people A woman] in [/EN#37035/clothing a white jacket] is riding [/EN#37029/vehicles/scene the subway] .
+[/EN#37031/people A few people] are on sitting on [/EN#37030/vehicles/scene a train] .
+[/EN#37027/people Large woman] sitting on [/EN#37032/vehicles/scene a subway train] .

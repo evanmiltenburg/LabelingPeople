@@ -1,0 +1,5 @@
+[/EN#128987/people A young girl] drawing with [/EN#128990/other a yellow crayon] wearing [/EN#128993/clothing her seat belt] .
+[/EN#128987/people Girl] holding [/EN#128988/other a box of crayons] , with [/EN#128989/other a notebook] in front of [/EN#0/notvisual her] .
+[/EN#128987/people A girl] in [/EN#128992/clothing a sweater] is drawing or coloring in [/EN#128989/other a notebook] .
+[/EN#128987/people A child] drawing [/EN#128989/other a picture] using [/EN#128988/other crayons]
+[/EN#128987/people A girl] draws with [/EN#128990/other crayons] .

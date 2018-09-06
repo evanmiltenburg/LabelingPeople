@@ -1,0 +1,5 @@
+[/EN#271209/people A man] in [/EN#271214/clothing a white shirt] and [/EN#271216/clothing black pants] is playing [/EN#271211/instruments a large brown instrument] .
+[/EN#271210/people Two older men] with [/EN#271214/clothing white shirts] and [/EN#271216/clothing black pants] playing [/EN#271211/instruments the cello] .
+[/EN#271210/people Two upright bass players] performing as [/EN#271212/people a part of an orchestra] .
+[/EN#271210/people Two concert base players] are playing [/EN#271218/instruments their instruments] .
+[/EN#271209/people A man] is playing [/EN#271217/other an interment] in [/EN#271213/other a concert]

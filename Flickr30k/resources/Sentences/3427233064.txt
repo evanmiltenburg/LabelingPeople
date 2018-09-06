@@ -1,0 +1,5 @@
+[/EN#117431/people A little girl] stands on [/EN#117432/scene the fence] while peeking through [/EN#0/notvisual it] to look at [/EN#117433/animals the horse] .
+[/EN#117431/people A young girl] dressed [/EN#117436/people all] in [/EN#117437/clothing pink] is standing on [/EN#117432/scene a fence] and looking at [/EN#117433/animals a horse] .
+[/EN#117431/people A young girl] clings to [/EN#117432/scene a fence] and watches [/EN#117433/animals the horse] on [/EN#0/notvisual the other side] .
+[/EN#117431/people A girl] is hanging on [/EN#117432/scene the fence] watching [/EN#117433/animals a horse] .
+[/EN#117431/people A girl] in [/EN#117435/other pink polka dots] looks at [/EN#117433/animals a horse] .

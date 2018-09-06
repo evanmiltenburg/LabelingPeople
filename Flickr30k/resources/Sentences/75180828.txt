@@ -1,0 +1,5 @@
+[/EN#270857/people A guy] with [/EN#270861/bodyparts black hair] and [/EN#270858/clothing a black shirt] shows [/EN#270859/other a broken glass] to [/EN#0/notvisual the camera] .
+[/EN#270857/people A man] holding up [/EN#270859/scene a empty glass right] in front of [/EN#0/notvisual the camera] .
+[/EN#270857/people A man] in [/EN#270858/clothing a black shirt] is showing [/EN#270859/other a broken glass] .
+[/EN#270857/people A man] holding [/EN#270859/other a drinking glass] at [/EN#0/notvisual the camera] .
+[/EN#270857/people Man] holding [/EN#270859/other broken glass] toward [/EN#270860/other camera] .

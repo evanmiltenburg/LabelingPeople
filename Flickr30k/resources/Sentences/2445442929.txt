@@ -1,0 +1,5 @@
+[/EN#50063/people A man] in [/EN#50070/clothing a checked shirt] is sitting at [/EN#50065/other a table] looking back at [/EN#50064/people a group of people] behind [/EN#0/notvisual him] .
+[/EN#50063/people A man] sitting at [/EN#50065/other a picnic table] with [/EN#50066/other a tray] and partially consumed [/EN#50067/other beer] in front of [/EN#0/notvisual him] .
+[/EN#50063/people A man] sits at [/EN#50065/other a wooden table] and looks away to [/EN#50064/people a crowd of people] .
+[/EN#50063/people A man] sits at [/EN#50065/other a table] outside and looks toward [/EN#50069/scene the horizon] .
+[/EN#50063/people A man] sits at [/EN#50065/other a table] [/EN#50068/scene outdoors] and watches [/EN#50064/people people] .

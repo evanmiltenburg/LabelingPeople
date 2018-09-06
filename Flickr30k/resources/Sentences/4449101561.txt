@@ -1,0 +1,5 @@
+[/EN#169484/animals A bird] is perched on [/EN#169485/other a line of some sort] attached to [/EN#169486/other a pole] .
+[/EN#169484/animals A black bird] is resting on [/EN#169485/other a power line] .
+[/EN#169484/animals a bird] is standing on [/EN#169485/other a power-line] .
+[/EN#169484/animals A bird] sitting on [/EN#169485/other a telephone line] .
+[/EN#169484/animals A bird] is sitting on [/EN#169485/other a power line] .

@@ -1,0 +1,5 @@
+[/EN#246585/people A little boy] in [/EN#246586/clothing a blue shirt] is looking into [/EN#246587/other a microscope] .
+[/EN#246585/people A young boy] in [/EN#246586/clothing a blue t-shirt] looks through [/EN#246587/other a microscope] .
+[/EN#246585/people A child] wearing [/EN#246586/clothing a blue shirt] looking into [/EN#246587/other a microscope] .
+[/EN#246585/people A kid] is looking through [/EN#246587/other a microscope] at [/EN#246588/other an object] .
+[/EN#246585/people A young boy] looks at [/EN#246589/animals an insect] under [/EN#246587/other a microscope] .

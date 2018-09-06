@@ -1,0 +1,5 @@
+[/EN#245672/people A man] holding [/EN#245675/other a rope] looking upward inside of [/EN#245674/other a pipe] in [/EN#0/notvisual the ground] .
+[/EN#245672/people a man] at [/EN#245674/scene the bottom of a concrete hole] with [/EN#245675/other a rope] .
+[/EN#245672/people A man] is wearing [/EN#245676/clothing jacket] is in [/EN#245673/scene the hole] .
+[/EN#245672/people A man] is seen at [/EN#245674/other the end of a pipe] .
+[/EN#245672/people A man] is looking through [/EN#245673/scene a tunnel] .

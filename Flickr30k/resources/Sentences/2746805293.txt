@@ -1,0 +1,5 @@
+[/EN#70058/people A female] with [/EN#70068/bodyparts long blond-hair] , [/EN#70061/clothing a black backpack] and [/EN#70066/clothing khaki shorts] is standing on [/EN#70060/scene a red brick sidewalk] with [/EN#70060/people other people] around [/EN#0/notvisual her] .
+[/EN#70060/people A group of people] , including [/EN#70058/people a barefoot woman] with [/EN#70066/clothing white shorts] , [/EN#70063/clothing a black jacket] and [/EN#70061/clothing backpack] wait for [/EN#70065/vehicles/scene a light rail train] .
+[/EN#70058/people A girl] standing among [/EN#70059/people her classmates] waits for [/EN#70064/vehicles/scene the bus] .
+[/EN#70057/people A crowd] awaiting [/EN#70069/other the arrival of a trolley] .
+[/EN#0/notvisual There] are [/EN#70057/people people] standing on [/EN#70060/scene a sidewalk] .

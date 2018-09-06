@@ -1,0 +1,5 @@
+[/EN#89687/animals Two brown dogs] in [/EN#89689/scene a grassy field] , [/EN#89691/other one] jumping for [/EN#89688/other a ball] .
+[/EN#89685/animals The brown dog] watches as [/EN#89686/animals the black dog] jumps in [/EN#89689/scene the grass] .
+[/EN#89687/animals Two dogs] playing with [/EN#89688/other a small blue ball] in [/EN#89689/scene a grassy field] .
+[/EN#89686/animals A dog] stands on [/EN#89693/bodyparts his hind legs] while [/EN#89685/animals another dog] looks on .
+[/EN#89687/animals Two dogs] play [/EN#89688/other ball] in [/EN#89689/scene a field] near [/EN#89690/scene a street]

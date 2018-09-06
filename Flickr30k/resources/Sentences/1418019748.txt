@@ -1,0 +1,5 @@
+[/EN#12152/people A man] dressed in [/EN#12153/clothing a white shirt , blue baseball cap] while wearing [/EN#12156/clothing gloves] , holding [/EN#12154/other a red and white checkered food] wrapping .
+[/EN#12152/people A man] wearing [/EN#12155/clothing a white shirt] and [/EN#12156/clothing gloves] is holding [/EN#12154/other a checkered box] .
+[/EN#12152/people Man] in [/EN#12155/clothing white shirt] and [/EN#12153/bodyparts black cap hands] out [/EN#12154/other food tray] .
+[/EN#12152/people A man] in [/EN#12155/clothing a white shirt] and [/EN#12153/clothing blue hat] is speaking .
+[/EN#12152/people An older man] in [/EN#12153/clothing a baseball cap]

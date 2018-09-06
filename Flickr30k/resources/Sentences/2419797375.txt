@@ -1,0 +1,5 @@
+[/EN#48018/people A small child] with [/EN#48025/other winter gear] wears [/EN#48021/clothing black sunglasses] and [/EN#48019/clothing a blue hat] .
+[/EN#48018/people A smiling child] wearing [/EN#48019/clothing a hat] and [/EN#48021/clothing sunglasses] sits in [/EN#48020/vehicles a car] .
+[/EN#48018/other A little girt] in [/EN#48021/clothing sunglasses] and [/EN#48024/clothing warm coat] going for [/EN#48023/other a ride] .
+[/EN#48018/people A girl] sits in [/EN#48020/vehicles a car] wearing [/EN#48021/clothing sunglasses] and [/EN#48019/clothing a hat] .
+[/EN#48018/people a girl] wears [/EN#48021/clothing black sunglasses] .

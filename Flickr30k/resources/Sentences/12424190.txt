@@ -1,0 +1,5 @@
+[/EN#6087/people A man] is sleeping on [/EN#6092/scene a hammock right] next to [/EN#6088/scene a body of water] .
+[/EN#6087/people A man] is sleeping on [/EN#6090/other a hammock] near [/EN#6088/scene a body of water] .
+[/EN#6087/people A man] sleeps in [/EN#6090/other a hammock] next to [/EN#6088/scene water] and [/EN#6091/vehicles/scene a boat] .
+[/EN#6087/people A man] napping in [/EN#6090/other a hammock] near [/EN#6089/scene a lake] .
+[/EN#6087/people A man] laying in [/EN#6090/other a hammock] by [/EN#6089/scene a lake] .

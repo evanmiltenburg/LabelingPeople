@@ -1,0 +1,5 @@
+[/EN#78079/people Four boys] playing on [/EN#78080/other the inertia wheel] at [/EN#78081/scene a park] .
+[/EN#78079/people Four boys] playing on [/EN#78080/other a merry-go-round] in [/EN#78081/scene a park] .
+[/EN#78079/people Four boys] play on [/EN#78080/other a merry-go-round] at [/EN#78081/scene a park] .
+[/EN#78079/people Four boys] are playing at [/EN#78081/scene a wooden playground] .
+[/EN#78079/people Four boys] are playing at [/EN#78081/scene a playground]

@@ -1,0 +1,5 @@
+[/EN#156282/people A man] wearing [/EN#156286/clothing only blue jeans] and [/EN#156283/clothing a cap] is using [/EN#156288/other a paint roller] on [/EN#156285/scene a light blue floor] .
+[/EN#156282/people Shirtless man] wearing [/EN#156286/clothing blue pants] painting bottom of [/EN#156285/scene swimming pool] .
+[/EN#156282/people A man] wearing [/EN#156286/clothing blue pants] and [/EN#156287/clothing no shirt] is painting [/EN#156284/clothing a floor blue] .
+[/EN#156282/people A guy] with [/EN#156287/clothing no shirt] and [/EN#156289/clothing no shoes] , [/EN#0/notvisual who] is painting [/EN#156285/scene the floor] .
+[/EN#156282/people One man] painting [/EN#156284/clothing a floor blue] wearing [/EN#156286/clothing only pants] and [/EN#156283/clothing a hat] .

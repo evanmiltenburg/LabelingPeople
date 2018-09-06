@@ -1,0 +1,5 @@
+[/EN#25435/people A man] sits on [/EN#25436/other a wooden bench] in front of [/EN#25438/other purple flowers] while reading [/EN#25437/other the paper] .
+[/EN#25435/people A man] is sitting on [/EN#25436/other a bench] in front of [/EN#25438/other some purple plants] .
+[/EN#25435/people A man] reads [/EN#25437/other a newspaper] while sitting on [/EN#25436/other a wooden bench] .
+[/EN#25435/people A man] reading [/EN#25437/other a newspaper] on [/EN#25436/other a wooden outdoor bench] .
+[/EN#25435/people Man] reading [/EN#25437/other magazine] on [/EN#25436/other bench] .

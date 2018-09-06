@@ -1,0 +1,5 @@
+[/EN#131376/people A man] wearing [/EN#131385/clothing no shirt] is lifting [/EN#131378/other a shovel] by [/EN#131379/vehicles a wheelbarrow] as [/EN#0/notvisual he] works outside .
+Through [/EN#131381/scene an open doorway] [/EN#0/notvisual there] is [/EN#131376/people a man] outside with [/EN#131378/other a shovel] and [/EN#131379/vehicles a wheelbarrow] .
+[/EN#131381/scene A view] through [/EN#131376/people a doorway of a man] shoveling [/EN#131380/scene dirt] into [/EN#131379/vehicles a wheelbarrow] .
+[/EN#131377/people A person] is shoveling [/EN#131380/scene dirt] into [/EN#131379/vehicles a wheelbarrow] .
+[/EN#131376/people A man] in [/EN#0/notvisual the distance] filling [/EN#131383/other a wheel barrel] .

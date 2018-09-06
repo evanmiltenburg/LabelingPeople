@@ -1,0 +1,5 @@
+[/EN#129873/animals A giant goose] is waving [/EN#129874/clothing its wings] as [/EN#0/notvisual it] comes out of [/EN#129875/scene the water] .
+[/EN#129873/animals The large goose] is flapping [/EN#129874/clothing his wings] near [/EN#129875/scene the water] .
+[/EN#129873/animals A duck] flaps [/EN#129874/clothing its wings] out while in [/EN#129875/scene the water] .
+[/EN#129873/animals A duck] flaps [/EN#129874/clothing its wings] near [/EN#129875/scene the water] .
+[/EN#129873/animals A goose] flaps [/EN#129874/clothing its wings] .

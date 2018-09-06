@@ -1,0 +1,5 @@
+[/EN#97544/people A man] is riding [/EN#97545/animals an elephant] while [/EN#97546/people another person] is touching [/EN#97547/bodyparts the elephant 's head] .
+[/EN#97544/people A man] sitting on [/EN#97545/animals an elephant] with [/EN#97548/scene a riding seat] is talking to [/EN#97546/people a female tourist] .
+[/EN#97546/people A woman] pats [/EN#97545/animals an elephant] [/EN#0/notvisual that] is saddled to give [/EN#97551/other rides] .
+[/EN#97546/people A woman] stands on [/EN#97549/other a wall] to pet [/EN#97545/animals an elephant] .
+[/EN#97546/people A woman] is petting [/EN#97545/animals a man 's elephant] .

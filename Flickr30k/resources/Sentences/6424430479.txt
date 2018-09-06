@@ -1,0 +1,5 @@
+[/EN#254169/people A dirt bike rider] wearing [/EN#254173/clothing a helmet] and [/EN#254174/clothing a pink t-shirt] leans into [/EN#254171/other a tight turn] on [/EN#254171/scene a forest trail] .
+[/EN#254169/people A boy] on [/EN#254170/vehicles a dirt bike] rides around [/EN#254171/other a curve] in [/EN#254175/other the woods] while wearing [/EN#254174/clothing a red t-shirt] and [/EN#254173/clothing helmet] .
+[/EN#254169/people A person] in [/EN#254174/clothing a red shirt] is riding [/EN#254170/vehicles a bicycle] along [/EN#254171/scene a dirt trail] .
+[/EN#254169/people A person] wearing [/EN#254174/clothing a pink shirt] , riding [/EN#254170/vehicles a bike] on [/EN#254171/scene a dirt trail] .
+[/EN#254169/people A person] is riding [/EN#254170/vehicles a dirt bike] across [/EN#254171/scene a dirt covered path] .

@@ -1,0 +1,5 @@
+[/EN#127325/animals A brown and white dog] with [/EN#127328/clothing a brown and black bandanna] running very fast .
+[/EN#127325/animals A white and tan dog] runs along [/EN#127326/scene the green grass] .
+[/EN#127325/animals A small white dog] running across [/EN#127326/scene a lawn] .
+[/EN#127325/animals The small dogs] runs in [/EN#127326/scene the yard] .
+[/EN#127325/animals A small white dog] running

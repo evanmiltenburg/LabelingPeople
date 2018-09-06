@@ -1,0 +1,5 @@
+[/EN#83049/people A man] in [/EN#83050/clothing a purple shirt] yelling with [/EN#83051/bodyparts arms] raised while holding [/EN#83056/other a notebook] and [/EN#83059/other pen] in [/EN#83053/bodyparts his left hand] .
+[/EN#83049/people A man] has [/EN#83051/bodyparts his arms] up with [/EN#83056/other papers] in [/EN#83053/bodyparts one hand] and [/EN#83061/bodyparts the other hand] balled into [/EN#83055/bodyparts a fist] .
+[/EN#83049/people Guy] with [/EN#83050/clothing blue shirt] and [/EN#83052/clothing glasses] , frantically with [/EN#83051/bodyparts arms] [/EN#83057/other outstretched communicates] .
+[/EN#83049/people A man] with [/EN#83052/clothing glasses] is yelling with [/EN#83051/bodyparts both his arms] up in [/EN#83054/people a crowd] .
+[/EN#83049/people A trader] yells on [/EN#83060/other the floor of an exchange] .

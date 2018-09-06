@@ -1,0 +1,5 @@
+[/EN#233075/people An Asian boy] in [/EN#233077/clothing a brown jacket] sitting at [/EN#233076/instruments a black piano] playing [/EN#0/notvisual it] .
+[/EN#233075/people A dark-haired boy] in [/EN#233077/clothing a brown jacket] is playing on [/EN#233076/instruments a shiny piano] .
+[/EN#233075/people A young boy] in [/EN#233077/clothing a brown jacket] playing [/EN#233076/instruments a piano] .
+[/EN#233075/people A boy] in [/EN#233077/clothing a tan jacket] plays [/EN#233076/instruments a black piano] .
+[/EN#233075/people A young Chinese boy] playing [/EN#233076/instruments the piano] .

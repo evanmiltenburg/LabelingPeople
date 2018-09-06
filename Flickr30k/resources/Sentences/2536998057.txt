@@ -1,0 +1,5 @@
+[/EN#56195/people Someone] in [/EN#56199/clothing an orange vest] sits with [/EN#56196/other a blue and yellow device] in [/EN#56202/bodyparts his hand] .
+[/EN#56195/people A man] in [/EN#56199/clothing an orange safety vest] examines [/EN#56195/other mechanical equipment] .
+[/EN#56195/people A man] wearing [/EN#56199/clothing an orange vest] holding [/EN#56197/other a blue box] .
+[/EN#56195/people A man] doing [/EN#56201/other maintenance] on [/EN#56195/scene the railroad tracks]
+[/EN#56195/people A safety worker] is checking [/EN#56200/other the railway] .

@@ -1,0 +1,5 @@
+[/EN#151669/animals A dog] walks through [/EN#151672/scene the snow] while [/EN#151673/other blindfolded] carrying [/EN#151670/other something] in [/EN#151671/bodyparts his mouth] .
+[/EN#151669/animals A brown dog] carries [/EN#151670/other something] in [/EN#151671/bodyparts his mouth] while walking through [/EN#151672/scene snow] .
+[/EN#151669/animals A dark-colored dog] walking across [/EN#151672/scene snow] with [/EN#151670/other something] in [/EN#151671/bodyparts its mouth] .
+[/EN#151669/animals The brown dog] has [/EN#151670/other an object] in [/EN#151671/bodyparts his mouth] .
+[/EN#151669/animals A dog] carries [/EN#151670/other an object] in [/EN#151672/scene the snow] .

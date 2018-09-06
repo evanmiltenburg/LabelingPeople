@@ -1,0 +1,5 @@
+[/EN#226915/people Man] with [/EN#226918/clothing black hat] , [/EN#226921/clothing white shirt] and [/EN#226920/clothing sandals] , laying [/EN#226916/other bricks] on [/EN#226917/scene a construction site] .
+[/EN#226915/people A male construction worker] with [/EN#226918/clothing a red hard hat] is leaning against [/EN#226916/other a brick facade] .
+[/EN#226915/people A man] is wearing [/EN#226918/clothing a red hat] and standing along [/EN#226917/scene a building] .
+[/EN#226915/people A man] with [/EN#226918/clothing a red helmet] is working on [/EN#226919/other laying bricks] .
+[/EN#226915/people A construction worker] laying [/EN#226916/other bricks] on [/EN#226917/scene a new building]

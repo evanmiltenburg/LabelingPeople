@@ -1,0 +1,5 @@
+[/EN#105633/animals A brown dog] is running in [/EN#105636/scene the snow] with [/EN#105635/animals a smaller black dog] running behind [/EN#0/notvisual it] .
+[/EN#105634/animals Two dogs] are standing in [/EN#105636/scene snow] , [/EN#105635/other the smaller one] barking at [/EN#105633/other the larger one] .
+[/EN#105637/animals A little black dog] and [/EN#105635/animals a large brown dog] are out in [/EN#105636/scene the snow] .
+[/EN#105634/animals Two dogs] , [/EN#105633/animals a big dog] and [/EN#105635/animals a small dog] , run in [/EN#105636/scene the snow] .
+[/EN#105633/animals A large brown dog] and [/EN#105635/animals small black dog] walk on [/EN#105636/scene the snow] .

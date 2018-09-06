@@ -1,0 +1,5 @@
+[/EN#160587/people Spectators] sit by [/EN#160586/scene the sidewalk] as [/EN#160583/people a man] riding [/EN#160585/animals a white horse] comes by .
+[/EN#160583/people A man] rides [/EN#160585/animals a horse] down [/EN#160586/scene the street] as [/EN#160584/people a crowd] watches .
+[/EN#160583/people Caviler] does [/EN#0/notvisual rope tricks] on [/EN#160589/other horseback] for [/EN#160584/people parade] .
+[/EN#160583/people A man] is riding [/EN#160585/animals a horse] in [/EN#160588/scene an event] .
+[/EN#160583/people A man] rides [/EN#160585/animals a horse] in [/EN#160584/people a parade] .

@@ -1,0 +1,5 @@
+[/EN#136932/people 3 men] sit in [/EN#136933/scene a cubical of an office] , [/EN#136931/people one man] is standing and holding [/EN#136934/instruments a drum] .
+[/EN#136931/people A man] in [/EN#136937/clothing a white shirt] carries [/EN#136934/instruments a drum] as [/EN#0/notvisual he] talks to [/EN#136936/people two other men] .
+[/EN#136932/people Three people] in [/EN#136933/scene an office] setting are communicating verbally .
+[/EN#136932/people Office workers] laugh inside [/EN#136935/scene a cubicle] .
+[/EN#136932/people Three men] are talking in [/EN#136933/scene an office] .

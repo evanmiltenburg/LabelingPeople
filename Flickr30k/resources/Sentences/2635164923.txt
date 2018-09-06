@@ -1,0 +1,5 @@
+[/EN#62899/people The little boy] in [/EN#62903/clothing the green jacket] is riding [/EN#62901/other a skateboard] on [/EN#62900/scene a ramp] .
+[/EN#62899/people A young child] wearing [/EN#62902/clothing a blue helmet] rides [/EN#62901/other a skateboard] over [/EN#62900/scene a ramp] .
+[/EN#62899/people a little baby] skateboarding on [/EN#62904/other a small concrete wall]
+[/EN#62899/people A little boy] skateboards on [/EN#62900/scene a cement ramp] .
+[/EN#62899/people A young skateboarder] on [/EN#62900/scene a ramp] .

@@ -1,0 +1,5 @@
+[/EN#161402/vehicles A dirt track car] with [/EN#161406/other a large red bull logo] on [/EN#0/notvisual the side] is driving fast on [/EN#161405/scene a dirt track] .
+[/EN#161402/vehicles A truck] driving fast over [/EN#161405/scene some dirt] with [/EN#161403/other dust] kicked up [/EN#161407/people all] over [/EN#161408/scene the place] .
+[/EN#161404/people A group] people are racing [/EN#161402/vehicles a car] with [/EN#161409/other sand] in [/EN#0/notvisual the background] .
+[/EN#161402/vehicles A vehicle] races creating [/EN#161403/other a sandy dusty cloud] .
+[/EN#161402/vehicles The car] left [/EN#161403/other a huge cloud of smoke] .

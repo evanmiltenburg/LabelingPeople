@@ -1,0 +1,5 @@
+[/EN#67665/people A girl] in [/EN#67666/clothing a yellow , blue and green tie dyed hat] has [/EN#67664/other a strange looking] critter on [/EN#67667/bodyparts her hand] .
+[/EN#67665/people A girl] in [/EN#67666/clothing a colorful hat] has [/EN#67664/animals a strange creature] resting on [/EN#67667/bodyparts her hand] .
+[/EN#67665/people A girl] in [/EN#67666/clothing a hat] has [/EN#67670/other some] [/EN#67664/animals sort of insect] on [/EN#67667/bodyparts her finger] .
+[/EN#67665/people A girl] in [/EN#67666/clothing a tie dye hat] has [/EN#67664/animals a butterfly] on [/EN#67667/bodyparts her hand] .
+[/EN#67664/animals A brown butterfly] perched on [/EN#67667/bodyparts a girl 's hand]

@@ -1,0 +1,5 @@
+[/EN#14674/people A group of nicely dressed young women] in [/EN#14680/scene New York City] are walking down [/EN#14675/scene the street] through [/EN#14678/other the rain] while carrying [/EN#14676/clothing black umbrellas] and are approaching [/EN#14679/scene an intersection] .
+[/EN#14674/people A group of women] walk down [/EN#14675/scene the street] [/EN#14676/clothing all carrying open umbrellas] to protect [/EN#0/notvisual them] from [/EN#14678/other the rain] coming down from [/EN#14682/scene the sky] .
+[/EN#14677/people A lot of people] walking near [/EN#14679/scene a crosswalk] in [/EN#14678/other the rain] .
+[/EN#14677/people People] with [/EN#14676/clothing umbrellas] walking in [/EN#14678/other the rain] .
+[/EN#14674/people a group of women] holding [/EN#14676/clothing black umbrellas] .

@@ -1,0 +1,5 @@
+[/EN#105464/people A person] rides [/EN#105465/vehicles a motorbike] on [/EN#105466/scene a dirt path] surrounded by [/EN#105470/other trees] .
+[/EN#105465/vehicles A motocross bike] is being ridden along [/EN#105466/scene a woodland path] .
+[/EN#105464/people A dirt biker] rides [/EN#105465/other his motorcycle] through [/EN#105469/other the woods] .
+[/EN#105464/people A motorcyclist] navigates [/EN#105466/scene a forest trail] .
+[/EN#105464/people A dirt biker] in [/EN#105467/scene the forest] .

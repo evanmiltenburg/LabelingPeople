@@ -1,0 +1,5 @@
+[/EN#233463/people Three people] walking down [/EN#233467/scene a snowy path] , wearing [/EN#233471/other winter gear] .
+[/EN#233463/people Three crosscountry skiers] skiing across [/EN#233466/scene a snowy field] .
+[/EN#233463/people Three men] , [/EN#233468/other crosscountry] skiing , in [/EN#233464/scene a field of snow] .
+[/EN#233463/people Three individuals] climbing up [/EN#233465/scene a mountain] on [/EN#233470/other skis] .
+[/EN#233463/people Three people] skiing behind [/EN#0/notvisual one another] in [/EN#233464/scene snow] .

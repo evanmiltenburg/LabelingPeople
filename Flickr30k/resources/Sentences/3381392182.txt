@@ -1,0 +1,5 @@
+[/EN#114383/people a person] wearing [/EN#114385/clothing a lively outfit] dancing on [/EN#114386/other some concrete] .
+[/EN#114383/people The person] is wearing [/EN#114385/clothing a colorful and checkered outfit]
+[/EN#114383/people A man] dressed in [/EN#114385/clothing a funny outfit] dancing around .
+[/EN#114384/people A person] wrapped in [/EN#114385/other wrapping paper] and [/EN#114387/other tinsel] .
+[/EN#114384/people A rear view of a person] dressed like [/EN#114384/people a clown] .

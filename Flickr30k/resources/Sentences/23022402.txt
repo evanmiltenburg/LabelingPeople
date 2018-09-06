@@ -1,0 +1,5 @@
+[/EN#40185/people A graveyard worker] is digging , or filling [/EN#40186/scene a grave] , [/EN#40187/people another person] is on [/EN#40195/other his cellphone] , leaning on [/EN#40188/other a tombstone] .
+[/EN#0/notvisual There] are [/EN#40189/people two men] in [/EN#40190/scene a graveyard] and [/EN#40197/people one of the men] has [/EN#40191/vehicles a wheelbarrow] and [/EN#40192/other a shovel] and [/EN#0/notvisual he] is digging [/EN#40186/scene a grave] .
+[/EN#40189/people Two men] in [/EN#40190/scene a graveyard] , [/EN#40197/other one] digging and [/EN#40187/other the other] on [/EN#40195/other a cellphone] .
+[/EN#40189/people Graveyard workers] dig [/EN#40186/scene a grave] in [/EN#40190/scene a grassy cemetery] using [/EN#40194/other shovels] .
+[/EN#40189/people Two men] are in [/EN#40190/scene a cemetery] , but [/EN#40197/other only one] is actively digging .

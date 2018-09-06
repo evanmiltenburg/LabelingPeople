@@ -1,0 +1,5 @@
+[/EN#151543/people Two older people] in [/EN#151547/clothing marching uniforms] [/EN#0/notvisual both] playing [/EN#151548/instruments saxophones] .
+[/EN#151542/people A man] and [/EN#151546/people woman] in [/EN#151547/clothing costume] are playing [/EN#151549/instruments saxophones] outside .
+[/EN#151542/people A man] and [/EN#151546/people a woman] are playing [/EN#151548/instruments saxophone] in [/EN#151543/people the band] .
+[/EN#151543/people Three men] are playing [/EN#151549/instruments saxophone] in [/EN#151547/clothing uniforms] .
+[/EN#151543/people The musicians] are playing for [/EN#151546/people the crowd] .

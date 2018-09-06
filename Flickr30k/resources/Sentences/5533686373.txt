@@ -1,0 +1,5 @@
+[/EN#238367/people A man] in [/EN#238368/clothing a bunny costume] is giving [/EN#238370/other something] to [/EN#238365/people a young man] in front of [/EN#238369/vehicles an ice cream truck] .
+[/EN#238365/people A man] dressed up as [/EN#238367/animals the Easter Bunny] is handing [/EN#238371/other something] out to [/EN#238365/people a boy] in [/EN#238372/clothing a black jacket] .
+[/EN#238367/people A man] in [/EN#238368/clothing a bunny outfit] is talking to [/EN#238365/people a young boy] in front of [/EN#238369/vehicles an ice cream truck] .
+[/EN#238365/people A boy] takes [/EN#238371/other something] from [/EN#238373/other a box] being held by [/EN#238367/people a man] in [/EN#238368/clothing a bunny suit] .
+[/EN#238367/people A man] in [/EN#238368/clothing an Easter Bunny costume] is handing out [/EN#238370/other candy] to [/EN#238375/people children] .

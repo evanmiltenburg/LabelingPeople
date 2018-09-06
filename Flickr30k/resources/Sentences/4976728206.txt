@@ -1,0 +1,5 @@
+On [/EN#225221/scene a cloudy day] , [/EN#225216/people a woman] lounges against [/EN#225220/scene the chain-link fence] railing on [/EN#225217/scene a wooden bridge] over [/EN#225218/scene a river] [/EN#0/notvisual that] cuts through [/EN#225222/scene a town] .
+[/EN#225216/people A person] in [/EN#225223/clothing a yellow jacket] is sitting on with [/EN#225219/other their pack] next to [/EN#0/notvisual them] .
+[/EN#225216/people A young backpacker] sits on [/EN#225217/scene a bridge] overlooking [/EN#225218/scene a river] .
+[/EN#225216/people A woman] with [/EN#225224/clothing her bags] relaxing near [/EN#225218/scene the river] .
+[/EN#225216/people A traveler] sits on [/EN#225217/scene a bridge] next to [/EN#225219/other his pack] .

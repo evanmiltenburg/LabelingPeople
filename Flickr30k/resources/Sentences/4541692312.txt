@@ -1,0 +1,5 @@
+[/EN#176575/people A woman] in [/EN#176580/clothing a yellow and red outfit] is squinting at [/EN#176578/other a computer screen] while holding [/EN#176582/animals a mouse] .
+[/EN#176575/people A woman] wearing [/EN#176580/clothing a yellow sweater] and [/EN#176576/clothing red vest] working at [/EN#176579/other a computer] .
+[/EN#176575/people A woman] in [/EN#176576/clothing a brown vest] is working on [/EN#176577/other the computer] .
+[/EN#176575/people A woman] in [/EN#176576/clothing a red vest] working at [/EN#176577/other a computer] .
+[/EN#176575/people An older woman] on [/EN#176579/other the computer]

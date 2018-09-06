@@ -1,0 +1,5 @@
+[/EN#235448/people A man] in [/EN#235452/clothing jeans] , [/EN#235450/clothing a t-shirt] , and [/EN#235453/clothing a baseball cap] is lying down on [/EN#235448/scene a wooden floor] .
+[/EN#235448/people A man] in [/EN#235450/clothing t-shirt] and [/EN#235452/clothing jeans] is laying down on [/EN#0/notvisual the ground] .
+[/EN#235448/people A man] lays on [/EN#235449/other the deck] after [/EN#235454/other a hard day of work] .
+[/EN#235448/people A man] in [/EN#235452/clothing jeans] is lying on [/EN#235448/scene a wooden floor] .
+[/EN#235448/people A man] is laying on [/EN#235449/other a deck] .

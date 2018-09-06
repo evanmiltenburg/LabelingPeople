@@ -1,0 +1,5 @@
+[/EN#281505/people A boy] in [/EN#281507/clothing red shorts] is jumping into [/EN#281506/scene a swimming pool] with [/EN#281508/other a red chair] beside [/EN#0/notvisual it] .
+[/EN#281505/people A small boy] in [/EN#281507/clothing red shorts] leaping into [/EN#281506/scene a swimming pool] .
+[/EN#281505/people A young boy] in [/EN#281507/clothing red swim trunks] is jumping into [/EN#281506/scene a pool] .
+[/EN#281505/people A small boy] jumps into [/EN#281506/scene a swimming pool] .
+[/EN#281505/people A boy] in [/EN#281507/clothing a red suit] jumps into [/EN#281506/scene a pool] .

@@ -1,0 +1,5 @@
+[/EN#207801/people A woman] wearing [/EN#207814/clothing sunglasses] , [/EN#207815/clothing white shorts] and [/EN#207816/clothing gray t-shirt] is walking [/EN#207802/animals her dog] and talking to [/EN#207803/people another woman] pushing [/EN#207804/other a stroller] .
+[/EN#207800/people Two women] walking down [/EN#207809/scene the street] outside of [/EN#207808/scene a restaurant] , [/EN#207803/other one] with [/EN#207804/other a stroller] and [/EN#207807/people a baby] , [/EN#207801/other the other] with [/EN#207802/animals a dog] .
+[/EN#207801/people Woman] talking to [/EN#207803/people friend] while walking [/EN#207811/scene dog outside] on [/EN#207810/scene a sunny day] .
+[/EN#207801/people a woman] walking [/EN#207802/animals her dog] and [/EN#207803/people another woman] is pushing [/EN#207804/other a stroller] .
+[/EN#207800/people Two women] , [/EN#207801/other one] walking [/EN#207802/animals her dog] [/EN#207803/other the other] pushing [/EN#207804/other a stroller] .

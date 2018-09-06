@@ -1,0 +1,5 @@
+[/EN#262382/people An Alabama baseball player] is walking on [/EN#262383/scene the dirt portion of the baseball field] .
+[/EN#262382/people A Atlanta Braves baseball player] is walking on [/EN#262383/scene a baseball field] .
+[/EN#262382/people An Atlanta baseball player] is wearing [/EN#262387/clothing a glove] on [/EN#262383/scene the infield] .
+[/EN#262382/people The first basemen] for [/EN#262385/other the Atlanta Braves] chokes [/EN#262386/other the baseball] .
+[/EN#262384/other Major league baseball] at [/EN#0/notvisual it] 's best .

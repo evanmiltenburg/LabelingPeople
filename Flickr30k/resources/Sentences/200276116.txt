@@ -1,0 +1,5 @@
+[/EN#24819/people A boy] in [/EN#24820/clothing blue and red goggles] is swimming .
+[/EN#24819/people A boy] swimming [/EN#0/notvisual who] is wearing [/EN#24820/clothing goggles] .
+[/EN#24821/people Two kids] swim outside with [/EN#24820/clothing goggles] .
+[/EN#24819/people Boy] with [/EN#24820/clothing goggles] swimming in [/EN#24822/scene water] .
+[/EN#24819/people A boy] in [/EN#24820/clothing goggles] is swimming .

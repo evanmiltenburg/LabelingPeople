@@ -1,0 +1,5 @@
+[/EN#265646/people A girl] , wearing [/EN#265650/clothing a black vest] and [/EN#265652/clothing leggings] with [/EN#265654/clothing purple shorts] , is riding [/EN#265647/vehicles a red bike] down [/EN#265648/scene the street] .
+[/EN#265646/people A woman] is riding [/EN#265647/vehicles a bicycle] along [/EN#265648/scene the street] while [/EN#265649/people people] in [/EN#0/notvisual the background] are walking .
+[/EN#265646/people Woman] riding [/EN#265647/vehicles a red bicycle] down [/EN#265648/scene a city street] , with [/EN#265649/people a few people] in [/EN#0/notvisual the background] .
+[/EN#265646/people A young woman] in [/EN#265653/clothing purple running shirts] is riding [/EN#265647/vehicles a red bicycle] in [/EN#265651/scene the city] .
+[/EN#265646/people A girl] with [/EN#265647/vehicles a red bike] riding during [/EN#265655/scene the day] .

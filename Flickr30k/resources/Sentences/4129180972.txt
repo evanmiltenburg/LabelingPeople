@@ -1,0 +1,5 @@
+[/EN#156489/people A man] with [/EN#156490/clothing a black backpack] walks down [/EN#156491/scene a road] with [/EN#156493/scene water] on [/EN#0/notvisual either side] .
+[/EN#156489/people a man] wearing [/EN#156490/clothing a backpack] is walking down [/EN#156491/other a wall] with [/EN#156493/scene water] on [/EN#156492/other both sids] .
+[/EN#156489/people A person] in [/EN#156494/clothing a tan coat] and [/EN#156490/clothing a black backpack] walks down [/EN#156491/scene a green jetty] .
+[/EN#156489/people A man] with [/EN#156490/clothing a backpack] is walking down [/EN#156491/scene a pier] next to [/EN#156493/scene the water]
+[/EN#156489/people a man] in [/EN#156496/clothing blue pants] walking on [/EN#156491/scene a path] surrounded by [/EN#156493/scene water] .

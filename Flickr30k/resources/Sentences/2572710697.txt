@@ -1,0 +1,5 @@
+[/EN#58809/people A smiling woman] wearing [/EN#58810/clothing a metallic gold suit] smiles in front of [/EN#58817/scene a pink glowing , crowded room] .
+[/EN#58809/people A woman] , dressed in [/EN#58810/clothing a gold suit] , is smiling as [/EN#0/notvisual she] stands in front of [/EN#58813/other an open door] .
+[/EN#58809/people A woman] with [/EN#58815/bodyparts brown hair] is smiling and is wearing [/EN#58811/other a convention-type badge] .
+[/EN#58809/people A brunette] in [/EN#58810/clothing a gold outfit] at [/EN#58814/other a party] with [/EN#58812/other a red ribbon] on [/EN#58816/bodyparts her chest] .
+[/EN#58809/people A lady] in [/EN#58810/clothing a beautiful outfit] with [/EN#58811/other a name tag] .

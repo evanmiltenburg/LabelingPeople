@@ -1,0 +1,5 @@
+[/EN#109442/people A little boy] in [/EN#109444/clothing a blue shirt] and [/EN#109445/people a little girl] wearing [/EN#109449/clothing pink] playing in [/EN#109446/scene the green grass] .
+[/EN#109443/people Two young blond children] sit in [/EN#109446/scene the grass] playing with [/EN#109447/other sticks] .
+[/EN#109442/people a boy] in [/EN#109444/clothing a blue shirt] and [/EN#109445/people a girl] in [/EN#109448/clothing a white] sitting on [/EN#109446/scene grass] .
+[/EN#109443/people Two blond children] play with [/EN#109447/other sticks] in [/EN#109446/scene the grass] .
+[/EN#109443/people Two children] are using [/EN#109447/other pruning tools] in [/EN#109450/scene the yard] .

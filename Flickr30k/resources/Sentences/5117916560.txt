@@ -1,0 +1,5 @@
+[/EN#229268/people A woman] wearing [/EN#229277/clothing purple clothing] is sitting at [/EN#229266/other a table] and looking at [/EN#229265/other a laptop] while [/EN#229264/people another woman] sitting at [/EN#229266/other the same table] looks at [/EN#229273/other a paper] in front of [/EN#0/notvisual her] .
+[/EN#229264/people two women] sitting at [/EN#229266/other a table] , [/EN#229264/other one] looking down and [/EN#229268/other the other] on [/EN#229265/other a laptop] , with [/EN#229270/other a banner] [/EN#0/notvisual that] says sweden in [/EN#229275/other spanish] behind [/EN#0/notvisual them] .
+[/EN#229264/people Two woman] share [/EN#229266/other a small round table] in front of [/EN#229269/other a Swedish flag] as [/EN#229264/other one] reads and [/EN#0/notvisual another] uses [/EN#229265/other a laptop]
+[/EN#229264/people Two women] sitting at [/EN#229266/other a table] in [/EN#229271/other a cafe] reading and working on [/EN#229265/other a laptop computer] .
+[/EN#229264/people Two women] , [/EN#229268/other one of whom] is using [/EN#229265/other a laptop] , sit at [/EN#229266/other a table] .

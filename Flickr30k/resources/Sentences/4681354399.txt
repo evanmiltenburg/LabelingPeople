@@ -1,0 +1,5 @@
+[/EN#189931/other Trolleys] , [/EN#189931/vehicles buses] and [/EN#189930/vehicles cars] are stopped on [/EN#189933/scene the street] while [/EN#189941/people pedestrians] while along [/EN#189932/scene the sidewalk] .
+[/EN#189930/vehicles A line of cars] wait behind [/EN#189934/vehicles public transportation] as [/EN#189942/people people] get off or board .
+[/EN#189930/vehicles Three trolley cars] are on [/EN#189933/scene the street] with [/EN#189935/vehicles cars] behind [/EN#0/notvisual them] .
+[/EN#189931/vehicles Trolley cars] and [/EN#189939/vehicles/scene bus] stopped at [/EN#189932/scene pedestrian crosswalk] .
+[/EN#189931/other The urban trolly] 's of [/EN#189937/scene a city] on [/EN#189938/scene a sunny day] .

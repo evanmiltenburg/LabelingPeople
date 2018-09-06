@@ -1,0 +1,5 @@
+[/EN#176778/people A frowning woman] with [/EN#176782/clothing a green long-sleeved shirt] is walking on [/EN#176781/scene a busy street] , while [/EN#176779/people an also frowning man] sporting [/EN#176786/bodyparts a mustache] and [/EN#176780/clothing a black jacket] walks beside [/EN#0/notvisual her] with [/EN#176787/bodyparts his hands] in [/EN#176785/clothing his pockets] .
+[/EN#176778/people A woman] in [/EN#176782/clothing a green shirt] and [/EN#176779/people a man] in [/EN#176780/clothing a black jacket] join [/EN#176783/other others] in walking down [/EN#176781/scene a sidewalk] .
+[/EN#176778/people A woman] in [/EN#176784/clothing green and black] walking down [/EN#176781/scene the street] beside [/EN#176779/people a man] .
+[/EN#176779/people A man] and [/EN#176778/people a woman] are among [/EN#176783/other many] walking down [/EN#176781/scene the sidewalk] .
+[/EN#176778/people A woman] in [/EN#176782/clothing a green shirt] is walking down [/EN#176781/scene a crowded street] .

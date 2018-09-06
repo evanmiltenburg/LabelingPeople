@@ -1,0 +1,5 @@
+[/EN#197953/people A young woman] , dressed in [/EN#197957/clothing a reflective skirt] is crossing [/EN#197954/scene a city street] .
+[/EN#197953/people A woman] with [/EN#197960/bodyparts blond-hair] is walking on [/EN#197954/scene a sidewalk] in [/EN#197958/clothing black heels] .
+[/EN#197953/people A blond women] crosses [/EN#197954/scene the street] in [/EN#197959/clothing business attire] .
+[/EN#197953/people A woman] in [/EN#197958/other black high heels crosses] [/EN#197954/scene a street] .
+[/EN#197955/people People] walking around in [/EN#197956/scene a city] .

@@ -1,0 +1,5 @@
+[/EN#40872/people Person] sitting in [/EN#40876/scene snow] on [/EN#40874/scene a sidewalk] holding [/EN#40875/animals small black dog] and [/EN#40877/other a husky laying] beside [/EN#0/notvisual him] .
+[/EN#40872/people A man] and [/EN#40873/animals his husky] sitting in [/EN#40876/scene the snow] at [/EN#40881/scene the corner of a building] .
+[/EN#40872/people A man] is sitting in [/EN#40876/scene the snow] with [/EN#40875/animals his dog] asking for [/EN#40880/other spare change] .
+[/EN#40872/people A man] and [/EN#40873/animals a dog] are sitting on [/EN#40874/scene the pavement] are sitting by [/EN#40878/other a wall] .
+[/EN#40872/people A man] sits outside in [/EN#40876/scene the snow] with [/EN#40873/animals his dog] and [/EN#40879/other blue blanket] .

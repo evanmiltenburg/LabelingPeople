@@ -1,0 +1,5 @@
+[/EN#212873/scene Red Stone sidewalk] lined by [/EN#212875/scene buildings] and [/EN#212876/vehicles parked cars] , with [/EN#212871/people a person] sitting on [/EN#212874/other a bench] .
+[/EN#212871/people A person] with [/EN#212879/clothing a blue shirt] and [/EN#212880/clothing pants] sitting on [/EN#212877/scene a bench outside] .
+[/EN#212871/people A young man] sits on [/EN#212874/other a bench] in [/EN#212878/scene a downtown] setting .
+[/EN#212871/people A man] sits beside [/EN#212876/vehicles parked cars] on [/EN#212873/scene a city street] .
+[/EN#212871/people A woman] is sitting on [/EN#212874/other a bench] by [/EN#212875/scene stores] .

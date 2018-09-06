@@ -1,0 +1,5 @@
+[/EN#186883/people A man] walks down [/EN#186887/other the tree] lined [/EN#186886/scene road] carrying [/EN#186884/clothing a bag] and using [/EN#186885/other his cane] .
+[/EN#186883/people An older man] with [/EN#186885/other a cane] and [/EN#186884/clothing a black bag] hobbles down [/EN#186886/scene a sidewalk] .
+[/EN#186883/people A man] using [/EN#186885/other a cane] and carrying [/EN#186884/clothing a bag] walks down [/EN#186886/scene a sidewalk] .
+[/EN#186883/people a Man] with [/EN#186885/other a cane] is walking on [/EN#186886/scene a sidewalk] .
+[/EN#186883/people A man] crouches on [/EN#186886/scene a deserted sidewalk] .

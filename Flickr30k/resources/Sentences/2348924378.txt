@@ -1,0 +1,5 @@
+[/EN#43351/people The little boy] is wearing [/EN#43352/clothing a blue shirt] and playing [/EN#43353/other baseball] .
+[/EN#43351/people a young boy] singing at [/EN#43353/other a large baseball] off of [/EN#43354/scene a tee] .
+[/EN#43351/people A young boy] swings [/EN#43355/other a bat] at [/EN#43353/other a large baseball] .
+[/EN#43351/people A little boy] is swinging [/EN#43355/other a bat] at [/EN#43353/other a ball] .
+[/EN#43351/people A child] plays [/EN#43356/other T-ball] .

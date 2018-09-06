@@ -1,0 +1,5 @@
+[/EN#198501/people A man] is reading [/EN#198504/other a newspaper] while riding on [/EN#198503/vehicles/scene the bus] , while [/EN#198502/people a young girl] waits patiently to get to [/EN#198506/scene her destination] .
+[/EN#0/notvisual She] sits alone on [/EN#198505/vehicles/scene the city bus] while [/EN#198501/people a man] reads [/EN#198504/other his newspaper] behind [/EN#0/notvisual her] .
+[/EN#198501/people A man] with [/EN#198507/clothing a hat] on is reading behind [/EN#198502/people a woman] in [/EN#198508/clothing a heavy coat] .
+[/EN#198502/people A young girl] and [/EN#198501/people an older man] sit on [/EN#198503/vehicles/scene a bus] .
+[/EN#198501/people A man] reads [/EN#198504/other his newspaper] on [/EN#198503/vehicles/scene a subway] .

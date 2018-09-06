@@ -1,0 +1,5 @@
+[/EN#72633/people A man] dressed in [/EN#72637/clothing blue] standing on [/EN#72636/vehicles/scene the back of a train] .
+[/EN#72633/people A man] is working on [/EN#72636/vehicles/scene the caboose of the red train] .
+[/EN#72633/people A man] in [/EN#72637/other coveralls] is maintaining [/EN#72638/other a locomotive] .
+[/EN#72633/people A man] in [/EN#72637/other blue coveralls] stands on [/EN#72636/vehicles/scene a red train] .
+[/EN#72633/people Older conductor] drives [/EN#72636/vehicles/scene even older train] .

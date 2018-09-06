@@ -1,0 +1,5 @@
+[/EN#227230/people A man] with [/EN#227229/other a whistle] in [/EN#227232/bodyparts his mouth] climbing [/EN#227233/other stairs] carrying [/EN#227231/other a tray of food] on [/EN#227235/bodyparts his shoulder] .
+[/EN#227230/people A server] with [/EN#227229/other a whistle] in [/EN#227232/bodyparts his mouth] is carrying [/EN#227231/other a tray of platters] up [/EN#227233/other the stairs] .
+[/EN#227229/other A Whistle] with [/EN#227236/other whistle] in [/EN#227232/bodyparts his mouth] carries [/EN#227231/other a tray] full of [/EN#227231/other food] up [/EN#227233/other stairs] .
+[/EN#227230/people A man] with [/EN#227229/other a whistle] in [/EN#227232/bodyparts his mouth] is holding [/EN#227231/other a large tray of food] .
+[/EN#227230/people A waiter] bring [/EN#227231/other a full tray of food] up [/EN#227233/other stairs] .

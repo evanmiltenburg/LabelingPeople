@@ -1,0 +1,5 @@
+[/EN#99481/people A little boy] wearing [/EN#99482/clothing a blue hat] and [/EN#99486/clothing coat] is standing amongst [/EN#99484/animals the pigeons] on [/EN#99483/scene the street] .
+[/EN#99481/people The little boy] stands in [/EN#99485/animals the middle of birds] [/EN#0/notvisual who] have gathered on [/EN#99483/scene the sidewalk] .
+[/EN#99481/people The little child] in [/EN#99482/clothing the blue cap] is amidst [/EN#99485/animals the pigeons] .
+[/EN#99481/people A little boy] is surrounded by [/EN#99484/animals many pigeons] .
+[/EN#99481/people A boy] surrounded by [/EN#99485/animals pigeons]

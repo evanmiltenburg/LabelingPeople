@@ -1,0 +1,5 @@
+[/EN#217250/vehicles A large yellow construction vehicle] is on [/EN#217254/scene a street corner] surrounded by [/EN#217256/other blue and red barricades] .
+[/EN#217255/people One man] sitting in [/EN#217250/other an Exuma] with [/EN#217252/people 3 other men] standing around [/EN#217253/scene a construction site] .
+[/EN#217250/vehicles A bulldozer] is working inside [/EN#217253/scene a cordoned section of a street] .
+[/EN#217252/people Workers] look on as [/EN#217250/other a tractor] is closed off in [/EN#217254/scene the street] .
+[/EN#217250/other A piece of construction equipment] is fenced off .

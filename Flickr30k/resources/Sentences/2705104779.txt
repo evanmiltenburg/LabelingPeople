@@ -1,0 +1,5 @@
+[/EN#67306/vehicles A red pickup truck] is being washed by [/EN#67308/people several people] , [/EN#67313/other one of whom] is standing in [/EN#67314/vehicles the bed of the truck] wearing [/EN#67310/clothing a red shirt] and [/EN#67311/clothing blue shorts] , washing [/EN#67309/other the back window] .
+[/EN#67313/bodyparts A group of co-ed youth hand] wash [/EN#67306/vehicles a red truck] , [/EN#67313/other one] washes [/EN#67309/other the back glass] while [/EN#0/notvisual another] washes [/EN#0/notvisual the side] with [/EN#67317/other a rag] .
+[/EN#67313/people A girl] wearing [/EN#67310/clothing a red shirt] is cleaning [/EN#67309/vehicles the back window of a red pickup truck] .
+[/EN#67307/people Two girls] , [/EN#67313/other one] in [/EN#67310/clothing a red shirt] and [/EN#67311/clothing blue skirt] , are washing [/EN#67306/vehicles a red truck] .
+[/EN#67307/people Girls] wash pick up [/EN#67314/vehicles truck] in [/EN#67319/other fund] raising [/EN#67318/other effort] .

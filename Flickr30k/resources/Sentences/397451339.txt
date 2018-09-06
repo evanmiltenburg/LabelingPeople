@@ -1,0 +1,5 @@
+[/EN#150544/people one girl] sitting on [/EN#150546/other a nech] near [/EN#150548/other a tree] while [/EN#0/notvisual another] stands next to [/EN#0/notvisual her] on [/EN#150550/scene the sidewalk] .
+[/EN#150547/people One girl] sitting down [/EN#150547/other reading] and [/EN#150544/people another girl] standing in front of [/EN#0/notvisual her] .
+[/EN#150544/people Two people] on [/EN#150551/scene a street] ; [/EN#150547/other one] sitting on [/EN#150546/other the planter] surrounding [/EN#150548/other a tree] .
+[/EN#150544/people Two women] , [/EN#150547/other one sitting and one] standing , near [/EN#150548/other a tree] .
+[/EN#150544/people A girl] is standing and [/EN#150547/other another one] is sitting by [/EN#150548/other a tree]

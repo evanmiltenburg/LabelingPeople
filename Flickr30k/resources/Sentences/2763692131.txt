@@ -1,0 +1,5 @@
+[/EN#71308/people A man] with [/EN#71311/clothing a gray shirt] and [/EN#71312/clothing black shorts] plays [/EN#71313/other tennis] in [/EN#71310/scene a fenced outdoor area] .
+[/EN#71308/people A man] in [/EN#71311/clothing a gray shirt] and [/EN#71312/clothing black shorts] playing [/EN#71314/other tennis] .
+[/EN#71308/people A man] in [/EN#71312/clothing black shorts] plays [/EN#71309/scene tennis outside] .
+[/EN#71308/people A young lady] is doing [/EN#71313/other some tennis] training .
+[/EN#71308/people A man] in [/EN#71311/clothing a gray shirt] plays [/EN#71314/other tennis] .

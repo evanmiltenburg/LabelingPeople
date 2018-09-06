@@ -1,0 +1,5 @@
+[/EN#220494/animals A light brown dog] with [/EN#220500/bodyparts his tail] in [/EN#0/notvisual the air] jumps of [/EN#220496/other a pontoon] toward [/EN#220495/scene the water] .
+[/EN#220494/animals a gray and brown dog] jumps off [/EN#220496/scene a dock] into [/EN#220495/scene a lake]
+[/EN#220494/animals A dog] wearing [/EN#220501/clothing a collar] jumping from [/EN#220496/other a platform] .
+[/EN#220494/animals A brown dog] leaps into [/EN#220495/scene the water] .
+[/EN#220494/animals A dog] leaping off [/EN#220496/vehicles/scene a boat]

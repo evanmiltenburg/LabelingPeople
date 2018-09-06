@@ -1,0 +1,5 @@
+[/EN#208158/people Black male] dressed in [/EN#208163/clothing blue] , in [/EN#208160/vehicles a blue car] , with [/EN#208161/other a white handkerchief] .
+[/EN#208158/people A man] in [/EN#208159/clothing a blue hat] and [/EN#208164/clothing blue striped shirt] is driving [/EN#208160/vehicles a blue car] .
+[/EN#208158/people Man] looks out of [/EN#208160/vehicles his blue car] and holds [/EN#208161/other a rag] out [/EN#208162/other the window] .
+[/EN#208158/people A man] in [/EN#208159/clothing a blue cap] is driving [/EN#208160/vehicles a blue car] .
+[/EN#208158/people A man] in [/EN#208159/clothing a blue hat] is driving [/EN#208160/vehicles a blue car] .

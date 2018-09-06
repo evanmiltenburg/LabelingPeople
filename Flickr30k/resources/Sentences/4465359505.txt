@@ -1,0 +1,5 @@
+[/EN#170747/people A Barber] with [/EN#170755/clothing glasses] is standing at [/EN#170752/other his counter] while [/EN#170748/people another man] is waiting in [/EN#170749/other the barber chair] .
+[/EN#170747/people A barber] and [/EN#170748/people a seated client] in [/EN#170750/scene a barber shop] hung with [/EN#170751/other bright , flower-patterned draperies] .
+[/EN#170747/people An older man] is cutting [/EN#170754/people the hair of a customer] in [/EN#170750/scene his barber shop] with [/EN#170751/other floral walls] .
+[/EN#170747/people A man] is sitting in [/EN#170749/other a barber chair] with [/EN#170747/people a barber] standing next to [/EN#0/notvisual him] .
+[/EN#170748/people A man] is sitting in [/EN#170749/other a chair] while [/EN#170747/people the barber] readies [/EN#170753/other his tools] .

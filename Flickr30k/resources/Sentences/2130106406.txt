@@ -1,0 +1,5 @@
+[/EN#30339/people An elderly man] in [/EN#30344/other a blue jack] stands on [/EN#30341/scene a hiking path] on [/EN#30345/other a hillside] amidst [/EN#30342/other many very tall trees] .
+[/EN#30339/people A man] in [/EN#30340/clothing a blue jacket] stands on [/EN#30341/scene a dirt path] in [/EN#30342/other a forest full of trees] and [/EN#30347/other ferns] .
+[/EN#30339/people A hiker] in [/EN#30340/clothing a blue jacket] stands among [/EN#30342/other numerous tall trees] in [/EN#30342/other the woods] .
+[/EN#30339/people A backpacker] standing on [/EN#30341/scene a trail] surrounded by [/EN#30342/other tall trees] .
+[/EN#30339/people A man] wearing [/EN#30343/clothing a backpack] stands alone in [/EN#30346/scene a wooded area] .

@@ -1,0 +1,5 @@
+[/EN#145527/people A man] with [/EN#145529/other a camera] snaps [/EN#145531/other a photo] in [/EN#145532/scene a railroad yard] while [/EN#145533/other others] look on .
+[/EN#145523/people People] stand near [/EN#145525/scene train tracks] [/EN#0/notvisual that] have [/EN#145524/vehicles/scene a orange train] approaching .
+[/EN#145523/people People] stand along [/EN#145525/scene a train track] and take [/EN#145535/other pictures] .
+[/EN#145528/vehicles/scene Black train] and [/EN#145524/vehicles/scene orange train] [/EN#145530/other almost collide] .
+[/EN#145523/people People] watch as [/EN#145534/vehicles/scene two trains] run on [/EN#145525/scene tracks] .

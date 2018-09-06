@@ -1,0 +1,5 @@
+[/EN#79053/people A boy] jumps [/EN#79056/other a skateboard] while [/EN#79054/people a man] in [/EN#79058/clothing a suit] looks on .
+[/EN#79054/people A man] walks past as [/EN#79053/people a skateboarder] flies over [/EN#79055/other the steps] .
+[/EN#79053/people a skateboarder] jumps over [/EN#79055/other a set of stairs] .
+[/EN#79053/people person] on [/EN#79056/other a skateboard] in [/EN#0/notvisual the air]
+[/EN#79053/people A skateboarder] performs [/EN#0/notvisual a trick] .

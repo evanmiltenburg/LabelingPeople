@@ -1,0 +1,5 @@
+[/EN#1806/people A group of people] sit around [/EN#1807/other a table] outside on [/EN#1812/scene a porch] at [/EN#1809/scene night] .
+[/EN#1806/people A group of eight people] are gathered around [/EN#1807/other a table] at [/EN#1810/scene night] .
+[/EN#1806/people A group of people] sitting at [/EN#1807/other a table] in [/EN#1808/scene a darkened room] .
+[/EN#1806/people A group of people] sit outdoors together at [/EN#1809/scene night] .
+[/EN#1806/people A group of people] gathered around in [/EN#1811/scene the dark] .

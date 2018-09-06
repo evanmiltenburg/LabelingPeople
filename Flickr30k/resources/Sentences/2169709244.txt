@@ -1,0 +1,5 @@
+[/EN#32075/people A little girl] in [/EN#32076/clothing a blue dress] and [/EN#32077/clothing white shoes] is sitting on [/EN#32078/other her red toy tractor] , in [/EN#32079/scene a dirt road] near [/EN#32080/scene a fence] .
+[/EN#32075/people A little girl] in [/EN#32076/clothing a blue dress] is sitting on [/EN#32078/other a red you tractor] .
+[/EN#32075/people A girl] is sitting in [/EN#32078/other a model tractor] , posing for [/EN#0/notvisual the camera] .
+[/EN#32075/people Little girl] in [/EN#32076/clothing a blue dress] riding [/EN#32078/other a red toy tractor] .
+[/EN#32075/people A little girl] is sitting on [/EN#32078/other a toy tractor] .

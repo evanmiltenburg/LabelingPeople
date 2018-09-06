@@ -1,0 +1,5 @@
+[/EN#132093/people A person] riding [/EN#132100/vehicles the number 157 dirt bike] on [/EN#132098/scene a sandy track] .
+[/EN#132093/people A person] rides [/EN#132094/vehicles a motorbike] in [/EN#132097/scene a motorcrossing event] .
+[/EN#132093/people A dirt biker] is riding through [/EN#132099/other deep sand] and [/EN#132095/scene dirt] .
+[/EN#132093/people Man] riding [/EN#132094/other motorcycle] through [/EN#132095/scene pile of dirt] .
+[/EN#132093/people A guy] on [/EN#132094/other the motorcycle] .

@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#268582/scene a sidewalk] with [/EN#268581/clothing a rack of dresses] and [/EN#268577/people a girl] in [/EN#268584/clothing jeans] and [/EN#268579/clothing a red shirt] .
+[/EN#268577/people A woman] stands near [/EN#268583/other chairs] and [/EN#268585/other tables] , outside [/EN#268578/scene a store] .
+[/EN#268577/people A girl] in [/EN#268579/clothing an orange tank top] stands outside [/EN#268580/other a cafe] .
+[/EN#268577/people A woman] stands outside near [/EN#268578/scene a dress shop] .
+[/EN#268577/people a girl] standing outside of [/EN#268578/scene a clothing shop]

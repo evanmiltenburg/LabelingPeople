@@ -1,0 +1,5 @@
+[/EN#222520/people A group of people] waiting at [/EN#222519/other a bus stop] in front of [/EN#222521/scene a red brick building] with [/EN#222527/other long vertical windows] .
+[/EN#222520/people A group of people] wait at [/EN#222519/scene a transport shelter] with [/EN#222521/scene a large brick building] behind [/EN#0/notvisual them] .
+[/EN#222520/people People] and [/EN#222524/other a dresser] are waiting at [/EN#222519/other a bus stop] in front of [/EN#222521/scene a brick building] .
+[/EN#222519/other A bus stop] contains [/EN#222520/people many people] with [/EN#222526/other interesting items] .
+[/EN#222520/people People] gathered together on [/EN#222523/scene a city street] .

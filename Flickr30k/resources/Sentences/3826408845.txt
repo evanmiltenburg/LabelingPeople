@@ -1,0 +1,5 @@
+[/EN#144311/animals A furry mammal] with [/EN#144317/other a brown rump] stands next to [/EN#144322/other a wall] and in front of [/EN#144313/people a group of a young person] with [/EN#144323/clothing a colorful hat] .
+[/EN#144316/people A man] leads [/EN#144311/animals/people a lama] down [/EN#144315/scene a street] past [/EN#144321/people a vendor] and [/EN#144319/people a man] bringing out [/EN#144320/other the trash] .
+[/EN#144312/animals A llama] is lead by [/EN#144313/people two people] down [/EN#144314/scene a busy street] .
+[/EN#144311/animals A llama] is standing on [/EN#144314/scene the side of the street] .
+[/EN#144313/people Two people] and [/EN#144312/animals llama] are on [/EN#144315/scene the street] .

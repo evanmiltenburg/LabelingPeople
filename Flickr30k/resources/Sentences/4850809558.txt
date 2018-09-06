@@ -1,0 +1,5 @@
+[/EN#210535/people A very thin person] is directing [/EN#210537/vehicles traffic] in [/EN#210536/scene a very congested urban area] .
+[/EN#210535/people A female traffic officer] directing [/EN#210537/vehicles traffic] in [/EN#210536/scene a busy city intersection] .
+[/EN#210535/people A police officer] is directing [/EN#210539/vehicles traffic] on [/EN#210538/scene a cloudy day] .
+[/EN#210535/people A person] stands in [/EN#210537/vehicles the middle of traffic] .
+[/EN#210535/people Traffic cop] gesturing toward [/EN#210537/vehicles cars] .

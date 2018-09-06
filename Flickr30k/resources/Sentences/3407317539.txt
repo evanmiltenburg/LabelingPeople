@@ -1,0 +1,5 @@
+[/EN#115986/animals A white dog] with [/EN#115989/scene black spots] runs through [/EN#115987/scene a field] covered in [/EN#115988/scene snow] .
+[/EN#115986/animals A black and white dog] is running across [/EN#115987/scene a snow covered field] .
+[/EN#115986/animals A black and white dog] is running through [/EN#115987/scene a snowy field] .
+[/EN#115986/animals A dog] runs on [/EN#115987/scene a snowy field] .
+[/EN#115986/animals A dog] running in [/EN#115988/scene snow] .

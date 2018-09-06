@@ -1,0 +1,5 @@
+[/EN#237142/people A young man] , wearing [/EN#237143/clothing a T-shirt] [/EN#0/notvisual that] says [/EN#237147/other Joplin] , plays [/EN#237145/instruments the guitar] in front of [/EN#237148/other a large amplifier] .
+[/EN#237142/people Gentlemen] wearing [/EN#237143/clothing a black and yellow shirt] is on [/EN#237146/scene stage] playing [/EN#237145/instruments the guitar] .
+[/EN#237142/people Male bass player] on [/EN#237146/scene stage] at [/EN#237144/other a concert] .
+[/EN#237142/people Young rocker] is jamming out at [/EN#237144/other a show]
+[/EN#237142/people A man] in [/EN#237144/other a performance] plays [/EN#237145/instruments guitar] .

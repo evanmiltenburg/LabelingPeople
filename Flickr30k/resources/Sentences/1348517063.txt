@@ -1,0 +1,5 @@
+[/EN#9438/people A woman] in [/EN#9442/clothing a black shirt] , [/EN#9441/clothing jean shorts] and [/EN#9445/clothing white tennis shoes] is bowling .
+[/EN#9438/people A woman] in [/EN#9441/clothing shorts] throwing [/EN#9440/other a bowling ball] down [/EN#9439/scene a bowling alley] .
+[/EN#9438/people A woman] just releasing [/EN#9440/other a bowling ball] down [/EN#9439/scene the bowling alley] .
+[/EN#9438/people This woman] is taking [/EN#9444/other her turn] during [/EN#9443/other a bowling match] .
+[/EN#9438/people A woman] is bowling in [/EN#9439/scene a bowling alley] .

@@ -1,0 +1,5 @@
+[/EN#167669/people A person] equipped in [/EN#167677/other snow protective gear] is going down [/EN#167671/scene a snowy hill] on [/EN#167673/other a snowboard] .
+[/EN#167669/people A snowboarder] , wearing [/EN#167670/clothing a blue jacket] and [/EN#167674/clothing green pants] , [/EN#167673/other snowboards] down [/EN#167671/scene a hill] .
+[/EN#167669/people A snowboarder] in [/EN#167674/other green pants boards] down [/EN#167671/scene a snowy mountain] .
+[/EN#167669/people A person] in [/EN#167670/clothing a blue hoodie] is snowboarding down [/EN#167672/scene a mountain] .
+[/EN#167669/people A snowboarder] descends [/EN#167671/scene a steep snowbank] .

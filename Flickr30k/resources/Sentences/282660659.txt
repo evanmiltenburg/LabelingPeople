@@ -1,0 +1,5 @@
+[/EN#75100/people A man] wearing [/EN#75104/clothing glasses] and [/EN#75102/clothing a green shirt] practices playing [/EN#75101/instruments a stringed instrument] [/EN#75108/other indoors] .
+[/EN#75100/people A man] wearing [/EN#75107/clothing beige pants] and [/EN#75102/clothing a green shirt] is sitting in [/EN#75105/other a chair] and playing [/EN#75101/instruments a guitar] .
+[/EN#75100/people A red-haired man] plays [/EN#75101/instruments a fretted string instrument] connected to [/EN#75103/other an amplifier] .
+[/EN#75100/people A man] wearing [/EN#75102/clothing a green shirt] and [/EN#75104/clothing glasses] in playing [/EN#75101/instruments a musical instrument] .
+[/EN#75100/people A man] is strumming [/EN#75101/instruments his stringed instrument] attached to [/EN#75103/other an amp] .

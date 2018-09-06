@@ -1,0 +1,5 @@
+[/EN#108142/people A woman] in [/EN#108145/clothing a lavish orange dress] dances with [/EN#108147/people a man] in [/EN#108144/clothing all black clothing] .
+[/EN#108142/people A woman] in [/EN#108145/clothing an orange dress] is dancing with [/EN#108147/people a man] in [/EN#108144/clothing a black suit] .
+[/EN#108142/people A woman] in [/EN#108145/clothing bright orange dress] dances with [/EN#108147/people man]
+[/EN#108143/people Two people] dance in [/EN#108145/clothing costume] .
+[/EN#108143/people two dancers] dance together .

@@ -1,0 +1,5 @@
+[/EN#103143/people A dark-haired bearded man] in [/EN#103148/clothing a white dress shirt] and [/EN#103150/clothing black sweater] and [/EN#103144/people a woman] in [/EN#103146/clothing a black and white dress] in [/EN#103147/scene a small space] .
+[/EN#103143/people A smiling man] leaning to [/EN#103152/scene his right] stands behind [/EN#103144/people a smiling woman] leaning to [/EN#103151/scene her left] .
+[/EN#103143/people A man] with [/EN#103153/bodyparts a large beard] and [/EN#103144/people a woman] wearing [/EN#103149/clothing a white necklace] smile .
+[/EN#103143/people A man] and [/EN#103144/people women] , [/EN#0/notvisual both] in [/EN#103154/clothing black and white] , are in [/EN#103145/scene an elevator] .
+[/EN#103144/people A nicely dressed woman] and [/EN#103143/people bearded man] in [/EN#103145/scene a small room] .

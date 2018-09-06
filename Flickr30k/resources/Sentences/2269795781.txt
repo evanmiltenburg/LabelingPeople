@@ -1,0 +1,5 @@
+[/EN#38024/people a tennis player] wearing [/EN#38026/clothing a green shirt] about to hit [/EN#38025/other a ball] with [/EN#38027/other his racquet] .
+[/EN#38024/people A woman] in [/EN#38026/clothing a green shirt] and [/EN#38029/clothing blue hat] is playing [/EN#38030/other tennis] .
+[/EN#38024/people Miami tennis player] hits [/EN#38025/other the ball] with [/EN#38028/other a forehand] .
+[/EN#38024/people A person] hits [/EN#38025/other a ball] with [/EN#38027/other a tennis racket] .
+[/EN#38024/people A person] swings at [/EN#38025/other a tennis ball] .

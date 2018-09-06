@@ -1,0 +1,5 @@
+[/EN#25001/people A girl] wearing [/EN#25003/clothing blue and brown] holding [/EN#25007/clothing bags] standing in [/EN#25002/scene the end of a tunnel] .
+[/EN#25001/people A woman] with [/EN#25004/clothing a blue cap] and [/EN#25008/clothing shirt] hangs out at [/EN#25002/scene the entrance] to [/EN#25002/other a drain] .
+[/EN#25001/people The young person] in [/EN#25003/clothing blue & black] is standing in [/EN#25002/other a cement tube] .
+[/EN#25001/people A woman] is standing in [/EN#25002/scene a large drainage hole] .
+[/EN#25001/people Woman] standing in [/EN#25002/scene a cement tunnel] .

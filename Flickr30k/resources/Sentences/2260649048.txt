@@ -1,0 +1,5 @@
+[/EN#37470/animals Two dogs] , [/EN#37473/other one large and one small] , are playing together in [/EN#37472/scene the grass] .
+[/EN#37469/animals The big brown and black dog] is on top of [/EN#37471/animals a small white dog] .
+[/EN#37469/animals The brown and black dog] is over [/EN#37471/animals top of the white dog] .
+[/EN#37469/animals A German Sheperd] and [/EN#37471/animals a small white dog] are playing
+[/EN#37470/animals Two dogs] playing together on [/EN#37472/scene the grass] .

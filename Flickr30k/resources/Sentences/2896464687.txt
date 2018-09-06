@@ -1,0 +1,5 @@
+[/EN#79874/people A blond woman] dressed [/EN#79874/people all] in [/EN#79882/clothing black] is sitting [/EN#79877/other backwards] in [/EN#79875/other a chair] , in [/EN#79876/scene a field] , looking to [/EN#79881/scene the right] .
+[/EN#79874/people A woman] sits backwards on [/EN#79875/other a chair] in [/EN#79876/scene the middle of a field] .
+[/EN#79874/people Female] sitting in [/EN#79875/other a chair] in front of [/EN#79876/scene a hazy field] .
+[/EN#79874/people A woman] is sitting [/EN#79877/other backwards] in [/EN#79875/scene a chair outside] .
+[/EN#79874/people A woman] sits backwards on [/EN#79875/other a chair] in [/EN#79876/scene a field] .

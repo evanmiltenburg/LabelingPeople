@@ -1,0 +1,5 @@
+[/EN#77645/people A man] jumps off [/EN#77647/scene a large building] onto [/EN#0/notvisual the ground] .
+[/EN#77645/people a man] jumping from [/EN#77647/scene one building] to [/EN#77651/other another closeby]
+[/EN#77645/people A young man] jumps from [/EN#77646/scene one balcony] to [/EN#0/notvisual another] .
+[/EN#77645/people A man] jumps off [/EN#77650/scene of one rooftop] onto [/EN#0/notvisual another] .
+[/EN#77645/people A man] is jumping across [/EN#77648/scene a gap] .

@@ -1,0 +1,5 @@
+[/EN#161861/people A grandma] dressed in [/EN#161863/clothing white and blue striped shirt] and [/EN#161868/clothing blue shorts] poses with [/EN#161864/people two children] wearing [/EN#161870/clothing white shirts] .
+[/EN#161861/people A woman] and [/EN#161864/people two little girls] are sitting on [/EN#161862/other a concrete bench] with [/EN#161871/bodyparts their hands] on [/EN#161872/bodyparts their faces] .
+[/EN#161861/people a grandma] and [/EN#161864/people two grandkids] in [/EN#161863/clothing shirt] and [/EN#161869/clothing shorts] are posing for [/EN#161873/other a picture] .
+[/EN#161865/people Three people] sitting on [/EN#161862/other a ledge] near [/EN#161874/scene a garden] posing for [/EN#0/notvisual the camera] .
+[/EN#161861/people A woman] and [/EN#161864/people two girls] sitting on [/EN#161862/other a bench] taking [/EN#161867/other a picture] .

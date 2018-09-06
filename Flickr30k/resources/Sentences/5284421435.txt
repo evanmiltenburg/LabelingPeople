@@ -1,0 +1,5 @@
+[/EN#232812/people A group of four people] in [/EN#232815/clothing blue clothes] cleaning [/EN#232818/other a hillside] in front of [/EN#232813/scene a small town] .
+[/EN#232816/people Five people] in [/EN#232821/scene blue raking grass] in front of [/EN#232819/scene a white building] with [/EN#232817/scene a blue balcony] .
+[/EN#232812/people Four people] dressed in [/EN#232815/clothing identical blue clothes] are cleaning [/EN#232814/scene the grass] .
+[/EN#232812/people Four people] in [/EN#232820/other blue rake] up [/EN#232814/scene a slanted patch of grass] .
+[/EN#232812/people People] conduct landscaping [/EN#232822/other work] beside [/EN#232813/scene a neighborhood]

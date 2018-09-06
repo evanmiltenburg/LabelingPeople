@@ -1,0 +1,5 @@
+[/EN#162894/people a man] wearing [/EN#162898/clothing a white t-shirt] is holding [/EN#162895/people a little boy] with [/EN#162897/clothing a gray jogging suit] .
+[/EN#162894/people A man] in [/EN#162898/clothing a gray t-shirt] and [/EN#162900/clothing black shorts] holding [/EN#0/notvisual what] appears to be [/EN#162895/people his son] .
+[/EN#162894/people A man] holding [/EN#162895/people a boy] in [/EN#162896/scene a store] near [/EN#162896/scene the cold items section of the store] .
+[/EN#162894/people A man] and [/EN#162895/people his son] in [/EN#162896/scene a grocery store] .
+[/EN#162894/people A man] carrying [/EN#162895/people his son] in [/EN#162896/scene a store] .

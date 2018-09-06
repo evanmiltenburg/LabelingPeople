@@ -1,0 +1,5 @@
+[/EN#59658/people A woman] preparing [/EN#59659/other some kind of fish dish] , [/EN#0/notvisual she] is wearing [/EN#59660/clothing a white shirt] and has [/EN#59661/other a striped cloth] over [/EN#59662/bodyparts her left forearm] .
+[/EN#59658/people A woman] in [/EN#59663/clothing an apron] is holding [/EN#59664/animals a fish] and [/EN#0/notvisual there] is [/EN#59665/other a blue pot] and [/EN#59666/other several other ingredients] on [/EN#59667/other the table] .
+[/EN#59658/people A woman] fillets [/EN#59664/animals a fish] , as [/EN#59674/other part] of preparing [/EN#59675/other a recipe] [/EN#0/notvisual that] includes [/EN#59668/other broccoli] , [/EN#59669/other celery] , and [/EN#59670/other eggs] .
+[/EN#59658/people A woman] prepares [/EN#59672/other a meal] with [/EN#59664/animals fish] , [/EN#59670/other eggs] , [/EN#59668/other broccoli] and [/EN#59669/other celery] in front of [/EN#59671/other a blue curtain] .
+[/EN#59658/people A lady] is holding [/EN#59664/animals a fish] and [/EN#0/notvisual she] is also wearing [/EN#59663/clothing a red apron]

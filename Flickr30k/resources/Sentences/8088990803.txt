@@ -1,0 +1,5 @@
+[/EN#278885/people A small girl] wearing [/EN#278890/clothing a purple jacket] sitting in [/EN#278887/scene the grass] next to [/EN#278886/other a doll] in [/EN#278888/clothing a nearly identical outfit] .
+[/EN#278885/scene A small child of Asian descent] sitting in [/EN#278887/scene a patch of grass] with [/EN#278886/other her blond doll] next to [/EN#0/notvisual her] .
+[/EN#278885/people A little girl] in [/EN#278889/clothing a pink dress] sitting in [/EN#278887/scene the grass] next to [/EN#278886/other her baby doll] .
+[/EN#278885/people A little girl] sits in [/EN#278887/scene a grassy field] with [/EN#278886/other a doll] at [/EN#0/notvisual her side] .
+[/EN#278885/people A young Asian girl] and [/EN#278886/other her doll] on [/EN#278887/scene a shaded grassy lawn] .

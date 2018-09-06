@@ -1,0 +1,5 @@
+[/EN#102471/people A man] and [/EN#102472/people woman] are riding [/EN#102475/vehicles bicycles] across [/EN#102474/scene a junction] in [/EN#102476/scene the city] .
+[/EN#102471/people A man] and [/EN#102472/people a woman] are riding [/EN#102475/vehicles their bikes] in [/EN#102474/scene an intersection] .
+[/EN#102471/people A man] and [/EN#102472/people woman] ride [/EN#102475/vehicles their bikes] across [/EN#102473/scene a city street] .
+[/EN#102472/people A woman] and [/EN#102477/other a man ride] bikes across [/EN#102473/scene a city street] .
+[/EN#102471/people A man] and [/EN#102472/people a woman] are riding [/EN#102475/vehicles bikes] on [/EN#102473/scene a street] .

@@ -1,0 +1,5 @@
+[/EN#221479/people A man] stopping on [/EN#221482/scene the sidewalk] with [/EN#221480/vehicles his bike] to have [/EN#221484/other a smoke] .
+[/EN#221479/people A man] is sitting on [/EN#221480/other a motorcycle] on [/EN#221482/scene the sidewalk] .
+[/EN#221479/people Man] smokes while sitting on [/EN#221480/vehicles a parked scooter] .
+[/EN#221479/people Man] on [/EN#221482/scene the sidewalk] sitting on [/EN#221480/other a motorcycle] .
+[/EN#221479/people A man] sitting on [/EN#221480/vehicles a scooter] on [/EN#221483/other the curb] .

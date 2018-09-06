@@ -1,0 +1,5 @@
+[/EN#210937/people A person] wearing [/EN#210946/clothing a long brown coat] is taking [/EN#210939/scene a picture of a building] while [/EN#210942/people two other people] stand by .
+[/EN#210937/people A formally dressed man] takes [/EN#210941/other pictures of architecture] in front of [/EN#210940/other a dramatic row of statues] .
+[/EN#210938/people A woman] , standing in front of [/EN#210940/other a statue] is taking [/EN#210941/other a picture] in [/EN#0/notvisual a different direction] .
+[/EN#210942/people A few people] looking up at [/EN#210940/other statues] outside [/EN#210939/scene a big marble building] .
+[/EN#210938/people A woman] standing next to [/EN#210942/people two people] is pointing to [/EN#210945/scene the sky] .

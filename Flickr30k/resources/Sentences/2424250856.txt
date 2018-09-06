@@ -1,0 +1,5 @@
+[/EN#48431/people A well-dressed man] plays [/EN#48433/instruments a grand piano] during [/EN#48435/other an art exhibit] .
+[/EN#48431/people A man] in [/EN#48432/clothing dress clothing] playing [/EN#48433/instruments a brown piano] .
+[/EN#48431/people A man] wearing [/EN#48434/clothing a all black] and playing [/EN#48433/instruments a piano] .
+[/EN#48431/people A man] in [/EN#48432/clothing a black suit] plays [/EN#48433/instruments the piano] .
+[/EN#48431/people A man] intently playing [/EN#48433/instruments piano] .

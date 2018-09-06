@@ -1,0 +1,5 @@
+[/EN#118106/animals A black dog] and [/EN#118106/animals a brindle dog] wrestle in [/EN#118107/scene the dry grass] beside [/EN#118105/scene a body of water] .
+[/EN#118104/animals Two dogs] in [/EN#118107/scene a rocky field] , [/EN#118112/bodyparts face] to face , with [/EN#118110/other a stick] between [/EN#0/notvisual them] .
+[/EN#118106/animals a large black dog] fighting with [/EN#118109/animals another large brown and black dog] .
+[/EN#118104/animals Two dogs] nussle [/EN#118111/other one] another in [/EN#118107/scene the grass] near [/EN#118105/scene a lake] .
+[/EN#118104/animals Two dogs] fight or play in [/EN#118107/scene a field] .

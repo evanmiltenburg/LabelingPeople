@@ -1,0 +1,5 @@
+[/EN#63365/people A construction worker] pointing to [/EN#63367/scene an object or area] not seen in [/EN#63370/other photo] .
+[/EN#63365/people A man] in [/EN#63366/clothing construction garb] is walking away from [/EN#63368/scene a site] on [/EN#63369/scene a street] .
+[/EN#63365/people A construction worker] running away from [/EN#63368/scene a construction zone] .
+[/EN#63365/people A construction worker] crosses [/EN#63368/scene the street] .
+[/EN#63365/people A worker] at [/EN#63368/scene a construction site] .

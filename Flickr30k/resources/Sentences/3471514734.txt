@@ -1,0 +1,5 @@
+[/EN#120548/people A blond child] wearing [/EN#120549/clothing a gray shirt] with [/EN#120549/other purple flowers] is using [/EN#120550/other an orange toothbrush] to brush [/EN#120552/bodyparts their teeth] .
+[/EN#120548/people A small girl] in [/EN#120549/clothing a blue shirt] with [/EN#120549/other a posy pattern] brushes [/EN#120552/bodyparts her teeth] with [/EN#120550/other a red and yellow toothbrush] .
+[/EN#120548/people A little girl] in [/EN#120549/clothing a gray shirt] smiles as [/EN#0/notvisual she] brushes [/EN#120552/bodyparts her teeth] with [/EN#120550/other a yellow and orange toothbrush] .
+[/EN#120553/bodyparts Blond-haired blue eyed toddler brushes teeth] .
+[/EN#120548/people A child] brushing [/EN#120552/bodyparts her teeth] .

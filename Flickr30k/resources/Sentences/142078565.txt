@@ -1,0 +1,5 @@
+[/EN#12265/people A man] with [/EN#12269/bodyparts a mustache] and wearing [/EN#12266/clothing a hat] is holding [/EN#12267/instruments a black guitar] .
+[/EN#12265/people A man] in [/EN#12268/clothing a white shirt] playing [/EN#12267/instruments a black and white guitar] .
+[/EN#12265/people A man] in [/EN#12266/clothing a baseball cap] playing [/EN#12267/instruments a black acoustic guitar] .
+[/EN#12265/people A man] in [/EN#12268/clothing a white shirt] and [/EN#12266/clothing hat] playing [/EN#12267/instruments a guitar] .
+[/EN#12265/people A man] playing [/EN#12267/instruments a green acoustic guitar] .

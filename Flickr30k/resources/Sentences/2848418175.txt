@@ -1,0 +1,5 @@
+[/EN#76698/people A man] wearing [/EN#77000/clothing black] with [/EN#76707/clothing a gray hat] , holding [/EN#76704/other a pitchfork] , directs [/EN#76700/vehicles a horse-drawn cart] .
+[/EN#76698/people A man] is leading [/EN#76701/other a Clydesdale] up [/EN#76703/scene a hay road] , within [/EN#76702/scene a Old Country] .
+[/EN#76698/people A farmer] fertilizing [/EN#76705/scene his garden] with [/EN#76706/other manure] with [/EN#76699/animals a horse] and [/EN#76700/vehicles wagon] .
+[/EN#76699/animals A white horse] is pulling [/EN#76700/vehicles a cart] while [/EN#76698/people a man] stands and watches .
+[/EN#76698/people An english farmer] with [/EN#76699/animals a horse] pulled [/EN#76700/vehicles wagon] .

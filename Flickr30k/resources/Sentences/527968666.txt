@@ -1,0 +1,5 @@
+[/EN#232771/animals A big , furry , black dog] is on [/EN#232772/clothing a blue leash] and is coming out of [/EN#232773/scene the water] .
+[/EN#232771/animals The dog] is on [/EN#232772/clothing a leash] and is walking out of [/EN#232773/scene the water] .
+[/EN#232771/animals A black dog] on [/EN#232772/clothing a blue leash] is walking in [/EN#232773/scene a stream] .
+[/EN#232771/animals A wet black dog] emerges from [/EN#232773/scene the water] .
+[/EN#232771/animals A black dog] on [/EN#232772/clothing a leash] walking in [/EN#232773/scene water]

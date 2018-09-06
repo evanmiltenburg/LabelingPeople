@@ -1,0 +1,5 @@
+[/EN#61959/people Man] with [/EN#61962/clothing hard hat] in [/EN#61966/clothing black jacket] stands near [/EN#61961/vehicles a green trailer] [/EN#0/notvisual that] says " [/EN#61964/other CHINA SHIPPING] " in [/EN#61960/scene a construction zone] .
+[/EN#61959/people A man] wearing [/EN#61962/clothing a hard hat] stands in front of [/EN#61963/scene buildings] not yet finished being built .
+[/EN#61959/people A worker] looks off into [/EN#0/notvisual the distance] while [/EN#61965/other a China Shipping crate] sits behind [/EN#0/notvisual him] .
+[/EN#61959/people A man] in [/EN#61962/clothing a white hard hat] is standing in front of [/EN#61961/vehicles a green truck] .
+[/EN#61959/people The man] is standing on [/EN#61960/scene the street] surounded by [/EN#61963/scene buildings] .

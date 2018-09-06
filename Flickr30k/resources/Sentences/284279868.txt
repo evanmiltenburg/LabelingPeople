@@ -1,0 +1,5 @@
+[/EN#76271/animals The black and brown dogs] play in [/EN#76272/scene the snowy field] .
+[/EN#76271/animals Two long-haired dogs] play in [/EN#76273/scene the snow] .
+[/EN#76271/animals Two brown dogs] play in [/EN#76272/scene a snowy field] .
+[/EN#76271/animals Two dogs] are playing in [/EN#76273/scene the snow] .
+[/EN#76274/animals Two dogs] play in [/EN#76272/scene field of snow]

@@ -1,0 +1,5 @@
+[/EN#172583/people A woman] in [/EN#172585/clothing a black dress] and [/EN#172587/clothing heels] is standing near [/EN#172584/vehicles a blue Jeep] .
+[/EN#172583/people A blond woman] in [/EN#172585/clothing a black dress] stands by [/EN#172584/vehicles a blue jeep] .
+[/EN#172583/people A model] showing off [/EN#172584/vehicles a Jeep] at [/EN#172588/other a car show] .
+[/EN#172583/people A model] is standing next too [/EN#172584/vehicles a blue jeep] .
+[/EN#172583/people A woman] in [/EN#172584/vehicles black and a jeep] in [/EN#172586/clothing blue] .

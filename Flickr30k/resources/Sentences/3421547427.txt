@@ -1,0 +1,5 @@
+[/EN#116993/people The tennis player] in [/EN#116995/clothing the blue shirt] is holding [/EN#116998/other his racquet] up in [/EN#0/notvisual the air] .
+[/EN#116993/people A tennis player] wearing [/EN#116995/clothing a blue shirt] raises [/EN#116999/bodyparts his hands] and smiles .
+[/EN#116994/people A man] in [/EN#116995/clothing a blue shirt] lifts up [/EN#116998/other his tennis racket] and smiles .
+[/EN#116994/people A tennis player] in [/EN#116995/clothing a blue shirt] celebrates [/EN#116996/other his match] .
+[/EN#116993/people A man] playing [/EN#116997/other tennis] looks very happy .

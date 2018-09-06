@@ -1,0 +1,5 @@
+[/EN#202721/people A man] in [/EN#202722/clothing a blue shirt] and [/EN#202725/clothing light blue cap] walks by [/EN#202724/vehicles/scene a working scale model of an antique freight train] .
+[/EN#202721/people A man] in [/EN#202728/clothing blue jeans] and [/EN#202722/clothing a blue shirt] and [/EN#202725/clothing cap] stands beside [/EN#202723/other a large toy train engine] .
+[/EN#202726/people Men] are standing around [/EN#202724/scene a small train outside] .
+[/EN#202727/people Some people] standing near [/EN#202723/other a small train ride] .
+[/EN#202721/people A man] watching [/EN#202724/vehicles/scene a miniature train] .

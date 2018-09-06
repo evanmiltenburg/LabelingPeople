@@ -1,0 +1,5 @@
+[/EN#223413/people A woman] is running down [/EN#223416/scene a street] [/EN#0/notvisual that] has [/EN#223412/vehicles a coke truck] and [/EN#223414/vehicles another blue truck] on [/EN#0/notvisual it] .
+[/EN#223412/vehicles A Coke truck] is driving pass [/EN#223414/vehicles a blue truck] parked on [/EN#223418/scene the side of the road] .
+[/EN#223413/people A young long-haired girl] is out skipping on [/EN#223415/scene the sidewalk] on [/EN#223416/scene a sunny day] .
+[/EN#223412/vehicles A coke truck] is on [/EN#0/notvisual it] 's [/EN#223419/scene way] to make [/EN#223420/other the next delivery] .
+[/EN#223412/vehicles A coke truck] and [/EN#223413/people a little girl] .

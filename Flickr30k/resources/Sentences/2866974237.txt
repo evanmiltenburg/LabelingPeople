@@ -1,0 +1,5 @@
+[/EN#77753/people A person] wearing [/EN#77756/clothing a bright pink wig] and [/EN#77757/clothing a yellow shirt] , facing away and looking at [/EN#77754/scene the ocean] .
+[/EN#77753/people A person] with [/EN#77756/bodyparts neon pink hair] and [/EN#77757/clothing yellow shirt] is looking out across [/EN#77755/scene a beach] .
+[/EN#77753/people Girl] wearing [/EN#77756/clothing a pink wig] standing on [/EN#77755/scene the shore of a beach] .
+[/EN#77753/people A person] with [/EN#77756/bodyparts pink hair] looking out at [/EN#77755/scene a beach] .
+[/EN#77753/people The person] at [/EN#77755/scene the beach] is wearing [/EN#77756/clothing a pink wig] .

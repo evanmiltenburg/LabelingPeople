@@ -1,0 +1,5 @@
+[/EN#79027/people A group of people] are gathered in [/EN#79034/scene a wooded area] ; [/EN#79028/people the children] are sitting down [/EN#79035/other writing] , and [/EN#79029/people the adults] are standing up next to [/EN#0/notvisual them] .
+[/EN#79028/people A group of school-aged children] are sitting in [/EN#79034/scene a forest] taking [/EN#79035/other notes] while [/EN#79029/people several adults] look on .
+[/EN#79028/people A group of children] are recording [/EN#79035/other information] on [/EN#79033/other a day hike] with [/EN#79029/people parents] in [/EN#79034/scene the wilderness] .
+[/EN#79028/people Students] sitting outside in [/EN#79034/scene a forest] with [/EN#79030/other books] and [/EN#79031/other pencils] .
+[/EN#79027/people A group of backpackers] take [/EN#79037/scene a break] under [/EN#79032/other a nearby tree] .

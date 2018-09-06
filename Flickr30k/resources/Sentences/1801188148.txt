@@ -1,0 +1,5 @@
+[/EN#20842/animals Four dogs] play together on [/EN#0/notvisual a grassy and leafy ground] .
+[/EN#20842/animals Four dogs] of varying [/EN#20842/other breeds] running through [/EN#20843/scene a field] .
+[/EN#20844/animals A brown dog] is running towards [/EN#20842/animals three other dogs] .
+[/EN#20842/animals Four dogs] are running around in [/EN#20843/scene the grass] .
+[/EN#20842/animals Four dogs] playing in [/EN#20843/scene a field]

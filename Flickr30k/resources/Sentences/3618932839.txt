@@ -1,0 +1,5 @@
+[/EN#131985/people A woman] in [/EN#131989/clothing blue] running next to [/EN#131984/animals a black and white dog] as [/EN#0/notvisual it] jumps over [/EN#131988/other an obstacle] .
+[/EN#131984/animals A dog] jumps over [/EN#131988/other a hurdle] while [/EN#131985/people a person] runs beside [/EN#0/notvisual it] .
+[/EN#131984/animals A dog] leaps over [/EN#131988/other a hurdle] , followed by [/EN#131985/people its trainer] .
+[/EN#131984/animals A black and white dog] jumping over [/EN#131988/other a hurdle] .
+[/EN#131984/animals The dog] attempts to leap over [/EN#131990/scene the post] .

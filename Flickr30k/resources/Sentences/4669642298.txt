@@ -1,0 +1,5 @@
+[/EN#188666/people A man] in [/EN#188663/clothing a white shirt] is working on [/EN#188658/other a laptop] while [/EN#188659/people another man] in [/EN#188657/clothing a black shirt] points to [/EN#188665/other something] on [/EN#188658/other the screen] with [/EN#188660/other a pen] .
+[/EN#188656/people Two men] , [/EN#188673/other seated side-by-side] , look at [/EN#188665/other something] on [/EN#188658/other a computer] [/EN#188659/people that one man] is pointing to with [/EN#188660/other a pen] .
+[/EN#188656/people Two men] are looking at [/EN#188664/other the screen of a laptop] while [/EN#188666/people one types] and [/EN#188659/other one] points at [/EN#188662/other the screen] .
+[/EN#188656/other Two men one] in [/EN#188663/other a white shirt one] in [/EN#188657/clothing a black shirt] doing [/EN#188661/other research] on [/EN#188658/other a laptop computer] .
+[/EN#188659/people A man] in [/EN#188663/clothing a white shirt] working on [/EN#188664/other computer] with [/EN#188669/other a help] from [/EN#188659/people another man] .

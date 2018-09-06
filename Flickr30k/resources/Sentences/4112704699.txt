@@ -1,0 +1,5 @@
+[/EN#156023/people A woman] is walking on [/EN#156024/scene the street] in front of [/EN#156026/vehicles a yellow car] with [/EN#156028/other the driver 's side window] open .
+[/EN#156023/people A woman] is crossing [/EN#156024/scene the street] , [/EN#156027/scene the camera 's view] is from [/EN#156025/vehicles between two buses] .
+[/EN#156023/people A woman] is hurrying across [/EN#156024/scene a busy street] .
+[/EN#156023/people A woman] walking between [/EN#156025/vehicles two buses] .
+[/EN#156023/people a woman] walking down [/EN#156024/scene the street] .

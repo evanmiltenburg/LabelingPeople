@@ -1,0 +1,5 @@
+[/EN#243096/people A dark-haired man] wearing [/EN#243109/clothing a red headscarf] poses with [/EN#243100/other a machine gun] in front of [/EN#243097/scene the entrance] to [/EN#243103/scene a wax museum] , [/EN#243102/people the woman] behind [/EN#243099/other the desk] looks disinterestedly in [/EN#0/notvisual the opposite direction] .
+[/EN#0/notvisual There] is [/EN#243102/people a woman] sitting at [/EN#243103/scene the front desk of a Hollywood Wax Museum] with [/EN#243096/other a statue] standing next to [/EN#243099/other the desk] [/EN#0/notvisual she] is sitting at .
+[/EN#243096/other A model of Sylvester Stallone] stands in front of [/EN#243099/other a ticket counter] and [/EN#243102/people an attendant] in [/EN#243103/scene the Hollywood Wax Museum] .
+[/EN#243098/other Interior of the restaurant chain] : [/EN#243105/people Planet Hollywood] , [/EN#243108/other various movie memorabilia] decorate [/EN#243106/scene the space] .
+[/EN#243096/people A man] is dressed as [/EN#243096/other a movie character] holding [/EN#243100/other a gun] in [/EN#243104/scene the lobby of a movie theater] .

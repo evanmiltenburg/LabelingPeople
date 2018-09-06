@@ -1,0 +1,5 @@
+[/EN#110764/animals A dog] has waded through [/EN#110766/scene shallow water] to reach [/EN#110765/other a rock] outcropping .
+[/EN#110764/animals A small brown dog] is about ready to exit [/EN#110766/scene the water] after [/EN#110767/other a swim] .
+[/EN#110764/animals A light brown dog] is splashing in [/EN#110766/scene the water] with [/EN#110768/bodyparts its paw] .
+[/EN#110764/animals A brown dog] wades through [/EN#110766/scene water] and walks toward [/EN#110765/other a rock] .
+[/EN#110764/animals A yellow dog] in [/EN#110766/scene shallow water] .

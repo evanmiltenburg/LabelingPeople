@@ -1,0 +1,5 @@
+[/EN#146066/people One man] with [/EN#146073/clothing a hat] and [/EN#146069/people one women] with [/EN#146074/clothing a purse] are smiling while walking down [/EN#146068/scene a path] in [/EN#146068/scene the snow] .
+[/EN#146066/people A man] and [/EN#146069/people a woman] are walking through [/EN#146068/scene the snow] together .
+[/EN#146067/people Two older people] are walking down [/EN#146068/scene a snowy path] .
+[/EN#146066/people A man] and [/EN#146069/people a woman] walking down [/EN#146068/scene a snowy path] .
+[/EN#146067/people Two people] walk in [/EN#146068/scene the snow] on [/EN#146071/scene a cold day] .

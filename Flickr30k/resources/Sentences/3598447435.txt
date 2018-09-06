@@ -1,0 +1,5 @@
+[/EN#130535/people A man] in [/EN#130542/clothing black] with [/EN#130543/clothing a helmet] is water rafting in [/EN#130537/other a green canoe] .
+[/EN#130535/people A kayaker] in [/EN#130537/vehicles/scene a green boat] paddles through [/EN#130536/other the rapids] .
+[/EN#130535/people One man] in [/EN#130537/other a green kayak] paddling through [/EN#130540/scene the water] .
+[/EN#130535/people This man] is kayaking in [/EN#130541/other whitewater] .
+[/EN#130535/people A kayaker] gets wet in [/EN#130536/other the rapids] .

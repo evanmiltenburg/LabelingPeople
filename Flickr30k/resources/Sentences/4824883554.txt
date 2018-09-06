@@ -1,0 +1,5 @@
+[/EN#207599/people A man] in [/EN#207600/clothing a blue striped shirt] and [/EN#207602/clothing white pants] stands [/EN#207603/other behind two doors] .
+[/EN#207599/people An old man] in [/EN#207600/clothing a blue shirt] and [/EN#207602/other white pants glowers] by [/EN#207601/other a glass door] .
+[/EN#207599/people A man] in [/EN#207600/clothing a blue shirt] is staring into [/EN#207601/other double glass doors] .
+[/EN#207599/people A man] standing in front of [/EN#207601/other a glass door] .
+[/EN#207599/people A man] in [/EN#207602/clothing white pants] standing .

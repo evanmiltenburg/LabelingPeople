@@ -1,0 +1,5 @@
+[/EN#143283/people A woman] in [/EN#143292/clothing black] walks past [/EN#143284/scene a shop] selling [/EN#143282/clothing a t-shirt] depicting [/EN#143291/people a tattooed woman] smoking [/EN#143288/other a cigarette] .
+[/EN#143282/clothing A white shirt] with [/EN#143293/people design of a lady] can be seen hanging in [/EN#143285/scene a crowded market]
+[/EN#143283/people People] are walking on [/EN#143290/scene the street] outside of [/EN#143289/scene the store]
+[/EN#143283/people People] are walking along [/EN#143286/other a street mall] .
+[/EN#0/notvisual This] is [/EN#143286/other an outdoor marketplace] .

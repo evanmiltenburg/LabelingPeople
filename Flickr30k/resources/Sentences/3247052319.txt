@@ -1,0 +1,5 @@
+[/EN#104101/people A man] drives [/EN#104103/vehicles an ATV] down [/EN#104102/scene a dirt road] with [/EN#104105/other a power line] behind [/EN#0/notvisual him] .
+[/EN#104101/people The man] rides [/EN#104103/other his quad] through [/EN#104104/scene a rural area] followed by [/EN#104107/animals his dog] .
+[/EN#104101/people A man] wearing [/EN#104108/clothing a white hat] is on [/EN#104103/vehicles a red ATV] driving on [/EN#104102/scene the dirt] .
+[/EN#104101/people Man] riding [/EN#104103/vehicles four-wheel] , [/EN#104103/vehicles off-road vehicle] in [/EN#104104/scene rural area] .
+[/EN#104101/people a man] is driving [/EN#104103/vehicles a red ATV] up [/EN#104102/scene a rugged hill] .

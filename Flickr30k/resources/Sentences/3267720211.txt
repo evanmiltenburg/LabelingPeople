@@ -1,0 +1,5 @@
+[/EN#105672/people An older woman] wearing [/EN#105676/clothing a brown hat] , [/EN#105678/clothing a plaid shirt] , and [/EN#105681/clothing striped white pants] is holding [/EN#105673/clothing a blue bag] while sitting in [/EN#105674/scene an orange seat] on [/EN#105675/vehicles/scene the subway] .
+[/EN#105672/people A woman] carrying [/EN#105673/clothing a Trader Joe 's grocery bag] has fallen asleep on [/EN#105675/vehicles/scene the train] .
+[/EN#105672/people A woman] falls asleep on [/EN#105674/vehicles/scene the bus] on [/EN#105679/scene her way home] from [/EN#105680/other shopping] .
+[/EN#105672/people Man] sleeping on [/EN#105675/vehicles/scene the subway] holding [/EN#105673/clothing a bag] .
+[/EN#105672/people A woman] sleeps on [/EN#105674/scene a bus seat] .

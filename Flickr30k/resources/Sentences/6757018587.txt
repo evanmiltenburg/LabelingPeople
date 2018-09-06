@@ -1,0 +1,5 @@
+[/EN#257581/people A female softball player] wearing [/EN#257587/clothing blue and red] crouches in [/EN#257583/scene the infield] , waiting for [/EN#257589/other the next play] .
+[/EN#257581/people Female baseball catcher] wearing [/EN#257585/clothing blue uniform] , and [/EN#257588/clothing red socks] , prepared to catch [/EN#257582/other a ball] .
+[/EN#257581/people A softball player] wearing [/EN#257585/clothing a blue uniform] and [/EN#257588/clothing red socks] waiting for [/EN#257582/other a ball] .
+[/EN#257581/people The girl] playing [/EN#257586/other baseball] is wearing [/EN#257587/clothing blue and red] on [/EN#257584/scene a baseball field] .
+[/EN#257581/people A girl] in [/EN#257585/clothing a mostly navy blue uniform] is playing [/EN#257586/other baseball] .

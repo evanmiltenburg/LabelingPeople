@@ -1,0 +1,5 @@
+[/EN#82744/people A woman] with [/EN#82747/clothing a hooded sweatshirt] and [/EN#82750/clothing bikini bottoms] holding [/EN#82746/other a camera] at [/EN#0/notvisual beach side] .
+[/EN#82744/people A girl] in [/EN#82747/clothing a hoodie] and [/EN#82749/other bikini bottom] is standing on [/EN#82745/scene the beach] with [/EN#82746/other a camera] .
+[/EN#82744/people A woman] in [/EN#82747/clothing a striped hoodie] holds [/EN#82746/other a camera] on [/EN#82745/scene a beach]
+[/EN#82744/people A woman] stands on [/EN#82745/scene a beach] with [/EN#82746/other a camera]
+[/EN#82744/people A woman] takes [/EN#82751/other pictures] at [/EN#82745/scene the beach] .

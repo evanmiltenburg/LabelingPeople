@@ -1,0 +1,5 @@
+[/EN#237026/people A person] wearing [/EN#237029/clothing a white t-shirt] and [/EN#237035/other blue ball-cap] sitting on [/EN#237028/other a skateboard] on [/EN#237027/scene a sidewalk] in [/EN#237038/scene the mingling of shadows] and [/EN#237037/other sunlight] .
+[/EN#237026/people The skateboarder] in [/EN#237029/clothing a white t-shirt] and [/EN#237030/clothing blue cap] sits on [/EN#237028/other his board] and [/EN#237036/scene coasts] down [/EN#237031/other the gentle grade] .
+[/EN#237026/people A skateboarder] in [/EN#237029/clothing a white t-shirt] and [/EN#237030/clothing blue cap] rolls down [/EN#237027/scene the street] .
+[/EN#237026/people A boy] is sitting down on [/EN#237028/other a skateboard] and taking [/EN#237033/other a ride] in [/EN#237034/scene a suburb] .
+[/EN#237026/people A man] is sitting on [/EN#237028/other a skateboard] in [/EN#237032/scene a park] .

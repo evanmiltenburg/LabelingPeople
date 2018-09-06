@@ -1,0 +1,5 @@
+[/EN#78793/people A marching band member] is wearing [/EN#78794/clothing sunglasses] and playing [/EN#78795/instruments the trumpet] .
+[/EN#78788/people A marching band] is standing outside [/EN#78789/scene a building] in [/EN#78791/scene an urban area] .
+[/EN#78788/people A band of musicians] standing on [/EN#78790/scene the street] .
+[/EN#78788/people A band] stands and plays in [/EN#78792/scene a large space] .
+[/EN#78788/people Marching band] standing in [/EN#78789/scene a public area] .

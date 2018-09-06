@@ -1,0 +1,5 @@
+[/EN#283028/people A man] in [/EN#283029/clothing a red shirt] climbs [/EN#283030/bodyparts a sheer cliff face] over [/EN#283033/clothing the tree tops] .
+[/EN#283028/people The man] in [/EN#283029/clothing the red shirt] is climbing [/EN#283030/scene the side of a mountain] .
+[/EN#283028/people A man] in [/EN#283029/clothing a red shirt] is rock climbing over [/EN#283033/other many trees] .
+[/EN#283028/people a lone person] in [/EN#283031/clothing a harness] climbing [/EN#283030/other a huge rock] .
+[/EN#283028/people A man] in [/EN#283029/other red clings] to [/EN#283030/bodyparts a sheer cliff face] .

@@ -1,0 +1,5 @@
+[/EN#66580/people A man] [/EN#66581/clothing whose clothes] are covered in [/EN#66582/other paint] is writing [/EN#66589/other something] down while sitting outside in [/EN#66588/scene a busy area] .
+[/EN#66580/people A man] in [/EN#66583/clothing sunglasses] is writing on [/EN#66584/other a pad] with [/EN#66585/vehicles his bike] leaned up against [/EN#0/notvisual him] .
+[/EN#66580/people A man] next to [/EN#66586/other a plastic crate] and [/EN#66585/vehicles a bicycle] , writes on [/EN#66584/other a board] .
+[/EN#66580/people A man] is sitting outside writing [/EN#66589/other something] on [/EN#66587/other a pad of paper] .
+[/EN#66580/people A man] writes [/EN#66587/other a note] while sitting next to [/EN#66586/other a crate] and [/EN#66585/vehicles a bike] .

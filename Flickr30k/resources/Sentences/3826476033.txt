@@ -1,0 +1,5 @@
+[/EN#144458/people A mountain hiker] wearing [/EN#144460/clothing a red backpack] looks at [/EN#144459/scene a beautiful view] .
+[/EN#144458/people A person] carrying [/EN#144460/clothing an orange backpack] is looking at [/EN#144459/scene the ruins] .
+[/EN#144458/people A woman] with [/EN#144460/clothing a red backpack] is looking at [/EN#144462/other Machu Picchu] .
+[/EN#144458/people Person] with [/EN#144460/clothing orange backpack] , hiking .
+[/EN#144458/people A female] is out hiking [/EN#144461/scene a mountain] .

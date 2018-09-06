@@ -1,0 +1,5 @@
+[/EN#211993/people A young child] wearing [/EN#211995/clothing a red hat] and [/EN#211996/other a tag " 513 " participant tag] rides [/EN#211994/animals a horse] .
+[/EN#211993/people A young boy] in [/EN#211995/clothing a red hat] rides on [/EN#211994/animals a horse] .
+[/EN#211993/people A little boy] in [/EN#211995/clothing a red hat] riding [/EN#211994/animals a horse] .
+[/EN#211993/people A child] in [/EN#211995/clothing a red hat] is riding [/EN#211994/animals a horse] .
+[/EN#211993/people Young boy] in [/EN#211995/clothing red hat] riding [/EN#211994/animals a horse] .

@@ -1,0 +1,5 @@
+[/EN#56403/people A subway worker] stands next to [/EN#56406/vehicles a car] with [/EN#56405/clothing several garbage bags] inside .
+[/EN#56403/people A security man] guards [/EN#56407/other the door] as [/EN#56404/other another one] brings [/EN#56410/other his items] off .
+[/EN#56404/people Someone] is pulling [/EN#56405/clothing a big black bag] onto [/EN#56411/vehicles/scene a subway] .
+[/EN#0/notvisual There] is [/EN#56404/people a bum] getting out of [/EN#56406/vehicles a subway car] .
+[/EN#56408/other Trash] spills out of [/EN#56407/other a subway door] .

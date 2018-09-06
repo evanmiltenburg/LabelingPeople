@@ -1,0 +1,5 @@
+[/EN#254622/vehicles/scene Boat] on [/EN#254629/other the waters of Vienna] being rowed by [/EN#254621/people men] wearing [/EN#254630/clothing striped shirts] .
+[/EN#254621/people A group of men] paddle [/EN#254622/vehicles/scene an open boat] in [/EN#254625/scene a waterway] with [/EN#254627/vehicles/scene other boats] .
+[/EN#254621/people A group of Gondoliers] is propelling [/EN#254622/vehicles/scene a boat] with [/EN#254626/other oars] .
+[/EN#254624/people People] in [/EN#254622/vehicles/scene a boat] are rowing and standing .
+[/EN#254623/other A group of Italians] row [/EN#254628/other their gondola] .

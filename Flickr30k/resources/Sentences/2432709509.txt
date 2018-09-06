@@ -1,0 +1,5 @@
+[/EN#49135/people A young boy] sitting is [/EN#49137/scene a field] with [/EN#49136/other a drain pipe] in [/EN#0/notvisual the background] .
+[/EN#49135/people A child] is crying in [/EN#49137/scene a low cut field] with [/EN#49136/other a drainage pipe] nearby .
+[/EN#49135/people A child] is sitting on [/EN#49137/scene the grass] by [/EN#49136/other a concrete storm drain] .
+[/EN#49135/people The young child] is sitting on [/EN#49137/scene the grass] in [/EN#49137/scene a park] .
+[/EN#49135/people Baby] by [/EN#49136/other sewer drain] cries

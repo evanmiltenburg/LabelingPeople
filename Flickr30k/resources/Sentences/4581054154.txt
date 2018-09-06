@@ -1,0 +1,5 @@
+[/EN#180280/people A man] is standing on [/EN#180282/other rocks] with [/EN#180281/scene water] running beneath [/EN#0/notvisual them] .
+[/EN#180280/people A man] in [/EN#180283/clothing a vest] walking across [/EN#180281/scene water] and [/EN#180282/other rocks] .
+[/EN#180280/people A man] stands in [/EN#180281/scene a stream] surrounded by [/EN#180282/other rocks] .
+[/EN#180280/people A man] walks from [/EN#180282/other stone] to [/EN#180282/other stone] in [/EN#180281/scene a river] .
+[/EN#180280/people A man] hopping across [/EN#180282/other rocks] in [/EN#180281/scene a river] .

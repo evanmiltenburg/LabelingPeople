@@ -1,0 +1,5 @@
+[/EN#162102/people Some people] are standing towards [/EN#162106/other the back of the picture] while [/EN#0/notvisual there] is [/EN#162103/vehicles/scene a colorful wooden boat] with [/EN#162105/other planks of wood] over [/EN#0/notvisual the top of it] for [/EN#162109/other decoration] .
+[/EN#162102/people People] stand nearby [/EN#162103/vehicles/scene a boat] [/EN#0/notvisual that] has been painted with [/EN#162110/other designs] .
+[/EN#162102/people People] at [/EN#162108/scene a park or beach] surrounded by [/EN#162106/other colorful artwork] .
+[/EN#162102/people People] stand in [/EN#162103/scene a park] behind [/EN#162103/vehicles/scene an ornamental boat] .
+[/EN#162102/people Group of people] playing [/EN#162107/other a game] outside

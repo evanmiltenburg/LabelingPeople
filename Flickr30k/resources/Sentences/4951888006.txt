@@ -1,0 +1,5 @@
+[/EN#222589/people A man] is wearing [/EN#222593/other a towel] around [/EN#222595/bodyparts his waist] and holding [/EN#222592/other a piece of cloth] to [/EN#222596/bodyparts his chest] .
+[/EN#222589/people A shirtless man] is bathing [/EN#0/notvisual himself] next to [/EN#222591/other a blue trashcan] .
+[/EN#222589/people Homeless man] living among [/EN#222590/other the construction] .
+[/EN#222589/people A man] is taking [/EN#222594/other bath] in [/EN#222597/scene his work area] .
+[/EN#222589/people A man] standing near [/EN#222590/other a stick structure] .

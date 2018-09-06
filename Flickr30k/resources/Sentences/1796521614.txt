@@ -1,0 +1,5 @@
+[/EN#20624/people A man] wearing [/EN#20629/clothing a gray and black shirt] and [/EN#20630/clothing blue jeans] sells inflatable [/EN#20625/other brightly colored toys] .
+[/EN#20624/people A man] wearing [/EN#20627/clothing an orange hat] is holding [/EN#20625/other an inflatable hammer] .
+[/EN#20624/people A man] with [/EN#20628/other inflatable hammers] and [/EN#20631/other other inflatable goods] .
+[/EN#20624/people A man] in [/EN#20627/clothing a yellow hat] holds [/EN#20625/other a colorful blow-up hammer] .
+[/EN#20624/people A man] sells [/EN#20628/other inflatable toys] at [/EN#20632/scene an outdoor event] .

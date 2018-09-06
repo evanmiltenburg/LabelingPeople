@@ -1,0 +1,5 @@
+[/EN#255859/people A girl] in [/EN#255861/clothing a black bikini] is getting out of [/EN#255862/scene a swimming pool] .
+[/EN#255859/people A woman] getting out of [/EN#255862/scene a pool] and [/EN#255863/people a man] in [/EN#255862/scene the pool] .
+[/EN#255860/people A girl] in [/EN#255861/clothing a black swimsuit] setting out of [/EN#255862/scene a pool] .
+[/EN#255859/people Woman] in [/EN#255861/clothing black swimsuit] getting out of [/EN#255862/scene the pool] .
+[/EN#255860/people A woman] in [/EN#255861/clothing a bathing suit] exits [/EN#255862/scene a pool] .

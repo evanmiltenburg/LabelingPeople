@@ -1,0 +1,5 @@
+[/EN#193781/people Six people] sitting on [/EN#193783/other a street side bench] in front of [/EN#193784/scene a busy restaurant] with [/EN#193783/other covered outdoor seating] .
+[/EN#193781/people Six people] sit on [/EN#193782/other a stone bench] outside [/EN#193784/scene a restaurant] looking in [/EN#0/notvisual different directions] .
+[/EN#193781/people A group of people] sit on [/EN#193782/other a bench] outside of [/EN#193784/scene a restaurant] .
+[/EN#193781/people People] sit on [/EN#193783/other a bench] in front of [/EN#193784/scene a restaurant] .
+[/EN#193781/people Tourists] taking [/EN#193785/scene a break] from [/EN#193787/other shopping] .

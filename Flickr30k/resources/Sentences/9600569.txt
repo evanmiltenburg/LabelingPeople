@@ -1,0 +1,5 @@
+[/EN#284253/people A person] wearing [/EN#284259/clothing jeans] and [/EN#284258/clothing a t-shirt] staining [/EN#284255/other handrails] on [/EN#284257/scene a sunny day] .
+[/EN#284253/people Person] in [/EN#284254/clothing hat] painting [/EN#284255/scene a multi level wooden fence] .
+[/EN#284253/people A man] in [/EN#284254/clothing a hat] paints [/EN#284255/scene a wooden fence] outside .
+[/EN#284253/people A woman] applying [/EN#284260/other something] to [/EN#284255/scene a wooden fence] .
+[/EN#284253/people A person] painting [/EN#284255/other a railing] .

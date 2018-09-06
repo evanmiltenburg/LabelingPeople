@@ -1,0 +1,5 @@
+[/EN#68706/people A man] wearing [/EN#68707/clothing a red shirt] is swinging [/EN#68710/other a tennis racket] .
+[/EN#68706/people A tennis player] in [/EN#68707/clothing a red shirt] strikes [/EN#68709/other a dynamic pose] .
+[/EN#68706/people A man] in [/EN#68707/clothing a red shirt] plays [/EN#68711/scene tennis outdoors] .
+[/EN#68706/people A young man] in [/EN#68707/clothing a red shirt] playing [/EN#68708/other tennis] .
+[/EN#68706/people A man] in [/EN#68707/clothing a red shirt] playing [/EN#68708/other tennis] .

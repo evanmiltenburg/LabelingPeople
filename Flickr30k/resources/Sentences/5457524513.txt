@@ -1,0 +1,5 @@
+[/EN#237005/people A woman] in [/EN#237007/clothing a purple shirt] wearing [/EN#237009/clothing sunglasses] lays [/EN#237008/bodyparts her head] on [/EN#237006/clothing her backpack] .
+[/EN#237005/people A woman] wearing [/EN#237009/clothing sunglasses] is laying [/EN#237008/bodyparts her head] on [/EN#237006/clothing a backpack] like [/EN#237006/other a pillow] .
+[/EN#237005/people A woman] with [/EN#237007/clothing a purple shirt] wearing [/EN#237009/clothing sunglasses] , laying on [/EN#237006/clothing her bookbag] .
+[/EN#237010/other Tired] , [/EN#237005/people the woman] rests [/EN#237008/bodyparts her head] on [/EN#237006/clothing her backpack] while lying down .
+[/EN#237005/people Lady] in [/EN#237009/clothing sunglasses] lying down with [/EN#237008/bodyparts her head] on [/EN#237006/clothing a backpack] .

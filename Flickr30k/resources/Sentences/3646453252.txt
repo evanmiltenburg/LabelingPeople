@@ -1,0 +1,5 @@
+[/EN#133969/people A person] wearing [/EN#133974/clothing a red helmet and yellow and white clothing] is riding [/EN#133973/scene a bike outside] in [/EN#133970/scene a wooded area] .
+[/EN#133969/people A child] wearing [/EN#133971/clothing a helmet] riding [/EN#133972/vehicles a mountain bike] very fast through [/EN#133970/scene a forest] .
+[/EN#133969/people A person] wearing [/EN#133971/clothing a red helmet] riding [/EN#133972/vehicles a white bike] .
+[/EN#133969/people The BMX biker] rides through [/EN#133970/scene the forest] .
+[/EN#133969/people A cyclist] streaks through [/EN#133975/other the trees] .

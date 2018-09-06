@@ -1,0 +1,5 @@
+[/EN#147094/people A person] wearing [/EN#147095/clothing a hat] sits in [/EN#147096/scene a store] with [/EN#147100/clothing coats] and [/EN#147102/clothing other articles of clothing] hanging on [/EN#147103/other the walls] .
+[/EN#147094/people A fashion designer] is working on [/EN#147101/other his one of his designs] at [/EN#147096/scene his studio] .
+[/EN#147094/people A young man] is working at [/EN#147097/other his desk] inside [/EN#147096/scene a garment store] .
+[/EN#147098/people A man] is sitting at [/EN#147097/other a table] in [/EN#147096/scene a clothing store] .
+[/EN#147094/people A man] in [/EN#147095/clothing a cap] paints [/EN#147099/clothing clothing] in [/EN#147096/scene a shop] .

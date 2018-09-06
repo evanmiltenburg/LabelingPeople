@@ -1,0 +1,5 @@
+[/EN#67130/animals Two puppies] inside [/EN#67134/vehicles a vehicle] are watching [/EN#67131/people a woman] exit [/EN#67135/vehicles another vehicle] close by .
+[/EN#67130/animals Two dogs] in [/EN#67134/vehicles a parked red car] watch [/EN#67131/people a woman] with [/EN#67132/clothing sunglasses] emerge from [/EN#67135/vehicles her car] .
+[/EN#67130/animals Two dogs] in [/EN#67134/vehicles a red vehicle] looking at [/EN#67131/people a woman] getting out of [/EN#67134/vehicles her vehicle] .
+[/EN#67130/animals Two small white dogs] are sitting in [/EN#67133/scene the driver 's seat] of [/EN#67134/vehicles a red car] .
+[/EN#67130/animals Two white dogs] are watching [/EN#67131/people a lady] while [/EN#0/notvisual they] are in [/EN#67134/vehicles a red truck] .

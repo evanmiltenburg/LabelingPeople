@@ -1,0 +1,5 @@
+[/EN#100549/people A man] wearing [/EN#100552/other a headlamp] and holding [/EN#100550/other a hammer] is sitting on top of [/EN#100554/other something] .
+[/EN#100549/people An elderly man] sits on [/EN#100551/scene a rooftop] holding [/EN#100550/other a hammer] .
+[/EN#100549/people a guy] on [/EN#100551/scene a roof] doing [/EN#100553/other repairs] .
+[/EN#100549/people Man] in [/EN#100555/clothing blue] smiling on [/EN#100551/scene a roof] .
+[/EN#100549/people A man] working on [/EN#100551/scene his roof] .

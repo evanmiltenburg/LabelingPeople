@@ -1,0 +1,5 @@
+[/EN#7783/people A boy] in [/EN#7788/clothing blue jeans] is playing with [/EN#7786/vehicles a toy car] on [/EN#7785/scene the lawn] .
+[/EN#7783/people A boy] pulling [/EN#7786/vehicles a red ride-on toy car] on [/EN#7785/scene a grass field] .
+[/EN#7783/people A kid] pulling [/EN#7784/other a red push car toy] on [/EN#7785/scene the grass] .
+[/EN#7783/people A little boy] in [/EN#7787/clothing blue] is pulling [/EN#7786/vehicles a toy car] .
+[/EN#7783/people A young boy] pulls [/EN#7784/other a car toy] up [/EN#7785/scene a hill] .

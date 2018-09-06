@@ -1,0 +1,5 @@
+[/EN#23492/people A man] is standing under [/EN#23493/scene an arch] near [/EN#23494/scene a Wendy 's restaurant] .
+[/EN#23492/people A man] in [/EN#23495/clothing a hat] leans against [/EN#23496/other a wall] by [/EN#23494/other Wendy 's] .
+[/EN#23492/people Young man] in [/EN#23499/scene driveway] holding [/EN#23497/other small package] .
+[/EN#23492/people Man] standing outside wearing [/EN#23498/clothing a brown shirt] .
+Outside [/EN#23494/other a Wendy] 's , [/EN#23492/people a man] holds [/EN#23497/other cardboard] .

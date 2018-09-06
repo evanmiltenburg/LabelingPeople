@@ -1,0 +1,5 @@
+[/EN#63371/people A young girl] with [/EN#63372/bodyparts a front tooth] missing dressed in [/EN#63373/clothing a plaid skirt] and [/EN#63374/clothing blue shirt] riding on [/EN#63375/vehicles a shopping cart] in [/EN#63377/scene a grocery store] .
+[/EN#63371/people Girl] with [/EN#63376/bodyparts brown hair] in [/EN#63374/clothing a blue shirt] and [/EN#63373/clothing blue and white skirt] holding on to [/EN#63375/vehicles a shopping cart] in [/EN#63377/scene a store] .
+[/EN#63371/people A little girl] wearing [/EN#63374/clothing blue] is riding [/EN#63375/vehicles the end of a shopping cart] in [/EN#63377/scene a grocery store] .
+[/EN#63371/people A girl] smiles while riding on [/EN#63375/vehicles the back of a cart] in [/EN#63377/scene a grocery store] .
+[/EN#63371/people A little girl] is riding on [/EN#63375/vehicles the front of a shopping cart] in [/EN#63377/scene a store] .

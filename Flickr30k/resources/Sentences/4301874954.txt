@@ -1,0 +1,5 @@
+[/EN#162307/people A blond man] with [/EN#162310/clothing a leather jacket] playing [/EN#162308/instruments a guitar] and singing .
+[/EN#162307/people A blond-haired guitar singer] performing in [/EN#162309/scene a music store] .
+[/EN#162307/people A musician] plays [/EN#162308/instruments guitar] in [/EN#162309/scene a record store] .
+[/EN#162307/people A blond man] is singing and playing [/EN#162308/instruments guitar] .
+[/EN#162307/people A man] is singing and playing [/EN#162308/instruments a guitar] .

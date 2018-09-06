@@ -1,0 +1,5 @@
+[/EN#82820/people A soccer participant] is trying to hit [/EN#82821/other a ball] while [/EN#82822/people an opposing team member] runs behind [/EN#0/notvisual him] .
+[/EN#82820/people Two soccer players] colliding as [/EN#82820/other one] tries to get [/EN#82821/other the ball] in front of [/EN#82822/people the other player] .
+[/EN#82820/people Soccer player] in [/EN#82820/clothing red] dives toward [/EN#82821/other ball] , blocking [/EN#82822/people player] in [/EN#82825/clothing blue] .
+[/EN#82820/people A man] in [/EN#82820/clothing a red uniform] jumps towards [/EN#82821/other a soccer ball] .
+[/EN#82820/people A soccer player] hitting [/EN#82821/other the ball] with [/EN#82827/bodyparts his head]

@@ -1,0 +1,5 @@
+[/EN#72506/people A man] in [/EN#72507/clothing jeans] is reclining on [/EN#72508/other a green metal bench] along [/EN#72509/scene a busy sidewalk] and [/EN#72512/scene crowded street] .
+[/EN#72506/people A white male] with [/EN#72510/clothing a blue sweater] and [/EN#72507/clothing gray pants] laying on [/EN#72508/other a sidewalk bench] .
+[/EN#72506/people A man] in [/EN#72510/clothing a blue shirt] and [/EN#72507/clothing gray pants] is sleeping on [/EN#72508/other a sidewalk bench] .
+[/EN#72506/people A person] is sleeping on [/EN#72508/other a bench] , next to [/EN#72511/vehicles cars] .
+[/EN#72506/people A man] sleeping on [/EN#72508/other a bench] in [/EN#72513/scene a city area] .

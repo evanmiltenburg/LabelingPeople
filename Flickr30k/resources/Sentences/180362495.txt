@@ -1,0 +1,5 @@
+[/EN#20980/people A young woman] in [/EN#20981/clothing a black blouse] , [/EN#20984/clothing blue jeans] , and [/EN#20986/clothing sandals] is standing behind [/EN#20983/people another young woman] [/EN#0/notvisual who] is seated with [/EN#20988/clothing a red poncho] draped around [/EN#0/notvisual her] as [/EN#20980/people the first young lady] cuts [/EN#20985/bodyparts her hair] .
+[/EN#20980/people A brunette woman] , [/EN#0/notvisual who] is wearing [/EN#20981/clothing a black shirt] , [/EN#20984/clothing blue jeans] , and [/EN#20986/clothing sandals] , is giving [/EN#20983/people a woman] [/EN#20982/bodyparts a haircut] .
+[/EN#20980/people The lady] in [/EN#20981/clothing the black shirt] is fixing [/EN#20985/bodyparts the other lady 's hair] .
+[/EN#20980/people A woman] in [/EN#20981/clothing a black shirt] is giving [/EN#20983/people another women] [/EN#20982/bodyparts a haircut] .
+[/EN#20980/people A hair designer] working during [/EN#20989/other renovations] .

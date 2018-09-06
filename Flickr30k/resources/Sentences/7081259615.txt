@@ -1,0 +1,5 @@
+[/EN#265140/people A rugby player] wearing [/EN#265157/clothing white short and shirt] being tackled by [/EN#265144/people another player] wearing [/EN#265153/clothing blue shorts] and [/EN#265156/clothing trunks] ; [/EN#0/notvisual a teammate of he] player being tackled is coming up behind [/EN#265141/people the tackled player] .
+[/EN#265140/people A rugby player] wearing [/EN#265147/clothing a white and red jersey] is running [/EN#265148/other the ball] and is currently being tackled by [/EN#265144/people an opposing player] wearing [/EN#265149/clothing a blue jersey] .
+[/EN#265146/people Three men] are playing [/EN#265155/other rugby] , [/EN#265144/people one man] is attempting to tackle [/EN#265140/people the man] on [/EN#265141/people the opposite team] [/EN#0/notvisual who] is holding [/EN#265148/other the ball] .
+[/EN#265140/people A rugby player] in [/EN#265147/clothing a white and red jersey] shakes [/EN#265151/other a tackle] from [/EN#265144/people a member of the opposing blue team] .
+[/EN#265141/people A soccer player] catches [/EN#265148/other the ball] and is tackled .

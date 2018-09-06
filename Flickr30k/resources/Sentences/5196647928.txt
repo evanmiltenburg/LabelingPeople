@@ -1,0 +1,5 @@
+[/EN#230814/people A skier] dressed in [/EN#230825/clothing white and green] flies above [/EN#230822/scene the ski slopes] on [/EN#230819/scene a beautiful clear day] .
+[/EN#230814/people A person] on [/EN#0/notvisual ski 's is] clearing [/EN#0/notvisual a jump] in [/EN#230816/scene a beautiful mountain] covered in [/EN#230823/scene snow] .
+[/EN#230814/people A skier] flies through [/EN#0/notvisual the air] in front of [/EN#230820/other a snowy mountaintop] .
+[/EN#0/notvisual There] is [/EN#230814/people a person] skiing down [/EN#230816/scene a snow covered mountain] .
+[/EN#230814/people Very brave snow skier] doing [/EN#230818/other a flip] off [/EN#230815/scene a cliff] .

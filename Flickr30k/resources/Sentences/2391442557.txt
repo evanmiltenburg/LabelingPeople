@@ -1,0 +1,5 @@
+[/EN#45961/people Woman] wearing [/EN#45963/clothing dark brown leather jacket] , [/EN#45969/clothing sunglasses] , [/EN#45964/clothing brown leather boots] , [/EN#45968/clothing silver designer handbag] , sitting on [/EN#45965/other a fire engine] red [/EN#45962/other park bench] .
+[/EN#45961/people A fashionable young woman] seated on [/EN#45962/other a bench] gazes into [/EN#45966/other a makeup mirror] .
+[/EN#45961/people A woman] in [/EN#45963/clothing black jacket] is sitting on [/EN#45962/other a maroon wooden sidewalk bench] .
+[/EN#45961/people A woman] is sitting on [/EN#45962/other a bench] looking at [/EN#45967/other her phone] .
+[/EN#45961/people A woman] in [/EN#45964/clothing boots] sits on [/EN#45962/other a red bench] .

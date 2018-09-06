@@ -1,0 +1,5 @@
+[/EN#101552/people A construction worker] in [/EN#101553/clothing a brown hat] and [/EN#101554/clothing blue shirt] smokes [/EN#101558/other a cigar] as [/EN#0/notvisual he] uses [/EN#101559/other a nail gun] to pin down [/EN#101557/other a shingle] on [/EN#101555/scene the roof] .
+[/EN#101552/people A single man] in [/EN#101554/clothing a blue t-shirt] , [/EN#101560/clothing jeans] , and [/EN#101553/clothing a baseball cap] works on [/EN#101555/scene a roof of a house] laying [/EN#101556/other shingles] .
+[/EN#101552/people A middle-age man] wearing [/EN#101553/clothing a brown baseball cap] is working on [/EN#101555/scene a house roof]
+[/EN#101552/people A man] is on [/EN#101555/scene a rooftop] re-patching [/EN#101555/scene the roof] .
+[/EN#101552/people A man] putting [/EN#101556/other shingles] on [/EN#101555/scene a roof] .

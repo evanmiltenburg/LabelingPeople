@@ -1,0 +1,5 @@
+[/EN#207732/vehicles An airplane] in [/EN#207739/scene a clear blue sky] with [/EN#207740/other a few clouds] flies past [/EN#207736/people a person] on [/EN#207737/scene the grass] .
+[/EN#207732/other A plane] flies low over [/EN#207734/scene a grassy area] where [/EN#207736/people a girl] is sitting in [/EN#207735/other a folding chair] .
+[/EN#207732/other A plane] flies through [/EN#207739/other blue skies] above [/EN#207736/people a woman] in [/EN#207735/other a lawn chair] .
+[/EN#207732/scene Jet] flying low over [/EN#207734/scene a field] with [/EN#207736/people a woman] in [/EN#207737/scene the field] .
+[/EN#207732/vehicles An airplane] is flying low over [/EN#207734/scene a field] .

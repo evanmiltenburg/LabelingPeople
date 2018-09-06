@@ -1,0 +1,5 @@
+[/EN#136605/animals a mommy duck] walking along [/EN#136609/other some rocks] with [/EN#136606/animals a group of baby ducks] .
+[/EN#136605/animals An adult duck] stands on [/EN#136607/other a rock] with [/EN#136606/animals seven baby ducks] nearby .
+[/EN#136605/animals A bird] is standing on [/EN#136607/other a rock] next to [/EN#136606/people her six babies] .
+[/EN#0/notvisual There] is [/EN#136605/animals a grown duck] and [/EN#136606/animals several baby ducks] .
+[/EN#136605/animals The mother bird] looks over [/EN#136606/people her babies] .

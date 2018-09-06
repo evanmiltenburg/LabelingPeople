@@ -1,0 +1,5 @@
+[/EN#15020/people A shirtless child] in [/EN#15024/clothing blue shorts] holding up [/EN#15021/other a window screen] [/EN#0/notvisual that] has fallen out .
+[/EN#15020/people Young boy] wearing [/EN#15024/clothing denim shorts] holding [/EN#15021/other a window screen] .
+[/EN#15020/people A child] wearing [/EN#15024/clothing shorts] is moving [/EN#15021/other a window screen] .
+[/EN#15020/people little boy] in [/EN#15024/clothing blue shorts] holding [/EN#15021/other a window screen]
+[/EN#15020/people A boy] tries to put [/EN#15021/other a screen] on [/EN#15022/other a window] .

@@ -1,0 +1,5 @@
+[/EN#165013/people A mother] , [/EN#165017/people her children] , and [/EN#165016/animals their pet dog] are on [/EN#165015/scene a beach] and look like [/EN#0/notvisual they] are vacationing .
+[/EN#165013/people A woman] in [/EN#165019/clothing a black bikini] holds [/EN#165014/people a baby] at [/EN#165015/scene the beach] , while [/EN#165018/people another little girl] watches [/EN#165016/animals a dog] .
+[/EN#165013/people A mother] , [/EN#165017/people her two children] , and [/EN#165016/animals their dog] stand on [/EN#165015/scene a tropical beach] .
+[/EN#165013/people A woman] is standing on [/EN#165015/scene the beach] holding [/EN#165014/people a small child] .
+[/EN#165013/people A woman] , [/EN#165017/people her children] , and [/EN#165016/animals a dog] are on [/EN#165015/scene a beach] .

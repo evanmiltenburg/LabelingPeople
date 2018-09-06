@@ -1,0 +1,5 @@
+[/EN#89830/people A man] in [/EN#89832/clothing a long white robe] and [/EN#89833/clothing white head cap] is pointing to [/EN#89831/people a group of people] sitting on [/EN#89834/other a blanket] .
+[/EN#89830/people A man] wearing [/EN#89832/clothing a long white robe] and [/EN#89833/clothing a white cap] , stands over [/EN#89831/people a group of seated people] .
+[/EN#89830/people A man] dressed in [/EN#89832/clothing all white] is talking to [/EN#89831/people the people] seated on [/EN#89837/scene the dirt floor] .
+[/EN#89830/people A man] in [/EN#89832/clothing a white robe] stands and talks to [/EN#89831/people people] [/EN#0/notvisual who] are sitting .
+[/EN#89831/people The children] are sitting with [/EN#89836/clothing their shoes] off .

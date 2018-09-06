@@ -1,0 +1,5 @@
+[/EN#86488/people A man] in [/EN#86489/clothing a blue] jackets looks at [/EN#0/notvisual the camera] while [/EN#86491/people another man] in [/EN#86490/clothing green] stands in [/EN#0/notvisual the background] .
+[/EN#86488/people A man] with [/EN#86489/clothing a blue sports jacket] and [/EN#0/notvisual another] with [/EN#86490/clothing a green shirt] are looking towards [/EN#0/notvisual the camera] .
+[/EN#86488/people A man] in [/EN#86489/clothing a blue jacket] looks at [/EN#0/notvisual the camera] while [/EN#86491/people a man] in [/EN#86490/clothing a green T-shirt] stands by idly .
+[/EN#86488/people A man] in [/EN#86489/clothing a blue jacket] is in [/EN#86488/scene focus] and [/EN#86491/people a man] in [/EN#86490/clothing a green shirt] is in [/EN#0/notvisual the background] .
+[/EN#86492/people Two men] stand in front of [/EN#86493/scene a building] .

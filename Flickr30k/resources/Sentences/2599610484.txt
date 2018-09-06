@@ -1,0 +1,5 @@
+[/EN#60614/people A young man] , wearing [/EN#60615/clothing a green t-shirt] , sitting at [/EN#60617/other a round table] , writing with [/EN#60620/other a blue cap ink pen] .
+[/EN#60614/people A young man] with [/EN#60618/bodyparts red-hair] and [/EN#60615/clothing a green shirt] doing [/EN#60616/other his homework] at [/EN#60617/other a table] in [/EN#60623/scene the library] .
+[/EN#60614/people A young adult] with [/EN#60618/bodyparts red-hair] wearing [/EN#60615/clothing a green shirt] is doing [/EN#60614/other work] at [/EN#60617/other a table] .
+[/EN#60614/people Young adult] in [/EN#60615/clothing a green shirt] with [/EN#60621/other red-hair writing] on [/EN#60616/other a piece of paper] .
+[/EN#60614/people A student] in [/EN#60615/clothing a green shirt] is writing in [/EN#60616/other a notebook] .

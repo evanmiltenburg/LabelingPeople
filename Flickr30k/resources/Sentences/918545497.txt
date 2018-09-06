@@ -1,0 +1,5 @@
+[/EN#283488/people A young man] in [/EN#283489/clothing a gray t-shirt] and [/EN#283493/clothing dark pants] is mowing [/EN#283492/scene a lawn] outside [/EN#283490/scene a white clapboard building] .
+[/EN#283488/people A young boy] in [/EN#283489/clothing a blue t-shirt] clips [/EN#283492/scene the grass] outside of [/EN#283490/scene a building] with [/EN#283491/other a large lawn mower] .
+[/EN#283488/people A young man] is pushing [/EN#283491/other a lawn mower] to mow [/EN#283492/scene the grass] .
+[/EN#283488/people A male] is mowing [/EN#283492/scene the grass] with [/EN#283491/other a lawn mower] .
+[/EN#283488/people A young adult] mowing [/EN#283492/scene a lawn] .

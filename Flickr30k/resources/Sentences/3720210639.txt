@@ -1,0 +1,5 @@
+[/EN#139359/people A person] in [/EN#139367/clothing a red hat] and [/EN#139369/clothing shoes] doing [/EN#139363/other stunts] on [/EN#139360/vehicles a red bike] while [/EN#139362/people a person] in [/EN#139365/clothing yellow] watches .
+[/EN#139359/people A person] is doing [/EN#0/notvisual a trick] in [/EN#0/notvisual the air] on [/EN#139360/vehicles a bike] while [/EN#139361/people his friend] takes [/EN#139370/other a picture] .
+[/EN#139360/vehicles A red bike] jumps toward [/EN#139362/people a person] in [/EN#139365/clothing yellow] .
+[/EN#139362/people Person] doing [/EN#0/notvisual bicycle jump]
+[/EN#139359/people Boy] in [/EN#139364/scene midair] on [/EN#139360/vehicles bicycle]

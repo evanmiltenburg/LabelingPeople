@@ -1,0 +1,5 @@
+[/EN#143716/people A person] wearing [/EN#143719/clothing a hat] riding in [/EN#143717/vehicles a red car] and looking out [/EN#143720/other the window]
+[/EN#143716/people Person] looking out of [/EN#143717/vehicles a red colored vehicle] driving down [/EN#143718/scene the street] .
+[/EN#143717/vehicles A red rally jeep] parked in [/EN#143718/scene the street] .
+[/EN#143717/vehicles A red car] travels down [/EN#143718/scene the street] .
+[/EN#143717/vehicles a red suv] with [/EN#143716/people a woman] inside

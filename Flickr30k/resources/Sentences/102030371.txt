@@ -1,0 +1,5 @@
+[/EN#608/people A man] wearing [/EN#612/clothing a green shirt] and [/EN#610/clothing a dark colored vest] is sitting at [/EN#613/other a table] with [/EN#611/scene a glass of water] in front of [/EN#0/notvisual him] .
+[/EN#608/people Guy] in [/EN#612/clothing green shirt] with [/EN#616/bodyparts hand] covering [/EN#615/bodyparts part of his face] in [/EN#609/scene restaurant booth] .
+[/EN#608/people Man] sitting at [/EN#613/other a table] at [/EN#614/scene a restaurant] with [/EN#611/scene a glass of water] .
+[/EN#608/people A man] in [/EN#612/clothing a green sweater] and [/EN#610/clothing black vest] sitting in [/EN#609/scene a booth] .
+[/EN#608/people A boy] in [/EN#612/clothing a green sweater] is sitting at [/EN#613/other a table] .

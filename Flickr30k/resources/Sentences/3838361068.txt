@@ -1,0 +1,5 @@
+[/EN#145045/people A man] wearing [/EN#145047/clothing a ball cap] , [/EN#145050/clothing white shirt] , [/EN#145049/clothing gray jacket] and [/EN#145051/clothing dark pants] kneeling on [/EN#145048/other a mat] on [/EN#145046/scene a balcony] .
+[/EN#145045/people A man] wearing [/EN#145047/clothing a hat] , [/EN#145050/clothing white shirt] and [/EN#145049/clothing sweater] is kneeling on [/EN#145048/other a rug] .
+[/EN#145045/people A man] kneeling on [/EN#145048/other a green carpet] overlooking [/EN#145052/scene mountain scenery] .
+[/EN#145045/people a man] meditating on [/EN#145046/scene a tall building] with [/EN#145053/clothing no shoes] on
+[/EN#145045/people a man] kneels on top of [/EN#145048/other a green mat] .

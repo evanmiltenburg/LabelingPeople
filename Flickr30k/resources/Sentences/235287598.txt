@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#43557/people girl] standing on [/EN#43558/scene the pier] wearing [/EN#43559/clothing a blue shirt] and holding [/EN#43560/other a fishing rod] .
+[/EN#43557/people A young girl] is fishing from [/EN#43558/scene a dock] on [/EN#43561/scene a lake] while [/EN#43563/other the sun] is setting .
+[/EN#43557/people A girl] is standing on [/EN#43558/scene the rails of a boardwalk] , fishing .
+[/EN#43557/people A young woman] is fishing from [/EN#43558/scene a pier] at [/EN#43562/scene sunset] .
+[/EN#43557/people a young woman] fishing off [/EN#43558/scene a dock] at [/EN#43562/scene sunset] .

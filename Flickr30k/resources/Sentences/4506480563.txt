@@ -1,0 +1,5 @@
+[/EN#173789/people A man] and [/EN#173793/people a woman] sunbathing on [/EN#173792/other a red bench] with [/EN#173795/other a city sky line] in [/EN#0/notvisual the distance] across [/EN#173800/scene the water] .
+[/EN#173789/people A man] and [/EN#173793/people a woman] laying on [/EN#173792/other red metal benches] in front of [/EN#173795/scene a city skyline] on [/EN#173797/scene a sunny day] .
+[/EN#173789/people A man] and [/EN#173793/people a woman] are laying down on [/EN#173791/other red benches] in [/EN#173801/clothing workout clothes] .
+[/EN#173790/people sunbathers] on [/EN#173792/other benches] on [/EN#173798/scene boardwalk] at [/EN#173794/scene the beach] .
+[/EN#173790/people Some joggers] resting on [/EN#173791/other a bench] .

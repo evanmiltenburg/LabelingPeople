@@ -1,0 +1,5 @@
+[/EN#83782/animals A very large brown dog] is playing with [/EN#83785/animals a smaller curly-haired dog] .
+[/EN#83782/animals A huge brown dog] is about to attack [/EN#83786/scene a medium] sized [/EN#83785/animals fluffy dog] .
+[/EN#83782/animals Two dogs] chase [/EN#0/notvisual one another] on [/EN#83784/scene a gravel road] .
+[/EN#83782/animals Dogs] playing on [/EN#83784/scene the dirt path] .
+[/EN#83782/animals Two wet dogs] .

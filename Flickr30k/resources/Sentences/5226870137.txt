@@ -1,0 +1,5 @@
+[/EN#231530/people A man] in [/EN#231534/clothing a suit] driving [/EN#231532/vehicles a horse-drawn buggy] down [/EN#231533/scene a stone street] .
+[/EN#231530/people A driver] guides [/EN#231531/animals his white horses] and carriage down [/EN#231533/scene a street] .
+[/EN#231531/animals Two white horses] are pulling [/EN#231532/vehicles a carriage] on [/EN#231533/scene a the street] .
+[/EN#231530/people A man] is wearing [/EN#231534/clothing a suit] and driving [/EN#231532/vehicles a carriage] .
+[/EN#231530/people A man] is driving [/EN#231532/vehicles a horse-drawn carriage] .

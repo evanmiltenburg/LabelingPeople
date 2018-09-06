@@ -1,0 +1,5 @@
+[/EN#161686/animals a black dog] is running with [/EN#161687/other a green toy] between [/EN#161691/bodyparts its paws] .
+[/EN#161686/animals A black dog] is playing with [/EN#161687/other a green toy] in [/EN#161690/scene yellow grass] .
+[/EN#161686/animals A black dog] plays with [/EN#161687/other a green object] .
+[/EN#161686/animals A black dog] playing with [/EN#161687/other a green toy] .
+[/EN#161686/scene A black dog outside] with [/EN#161687/other a green toy] .

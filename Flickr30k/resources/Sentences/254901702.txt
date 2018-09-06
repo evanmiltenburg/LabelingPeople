@@ -1,0 +1,5 @@
+[/EN#57408/people The man] is standing near [/EN#57411/other a stone monument] and throwing [/EN#57409/other a yellow Frisbee] .
+[/EN#57408/people A man] wearing [/EN#57410/clothing a yellow jacket] throws [/EN#57409/other a yellow Frisbee] .
+[/EN#57408/people A man] in [/EN#57410/clothing a yellow jacket] throwing [/EN#57409/other a yellow Frisbee] .
+[/EN#57408/people A man] in [/EN#57410/clothing a yellow sweater] catching [/EN#57409/other a Frisbee] .
+[/EN#57408/people A man] throwing [/EN#57409/other a Frisbee] .

@@ -1,0 +1,5 @@
+[/EN#107109/people A picture of a woman] in [/EN#107110/scene a shaded room] doing [/EN#107111/other her exercises] .
+[/EN#107109/people A woman] is doing [/EN#107109/other yoga] and smiling at [/EN#0/notvisual the camera] .
+[/EN#107109/people A woman] is exercising in [/EN#107110/scene a tropical setting] .
+[/EN#107109/people A woman] smiling while [/EN#107111/other stretching] .
+[/EN#107109/people A woman] doing [/EN#107111/other yoga exercises] .

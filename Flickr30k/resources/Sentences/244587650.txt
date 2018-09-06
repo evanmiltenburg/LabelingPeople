@@ -1,0 +1,5 @@
+[/EN#50091/people A man] in [/EN#50095/clothing a striped shirt] appears to be mock-conducting [/EN#50091/people an orchestra] on [/EN#50094/scene a crowded street] as [/EN#50093/people a couple] observes [/EN#0/notvisual him] from [/EN#50101/other behind] .
+[/EN#50091/scene A male street] [/EN#50091/people performer] juggles [/EN#50097/other a brass] ring using [/EN#50105/other two sticks] , while [/EN#50093/people a couple] and [/EN#50098/people a male passerby] , look on .
+[/EN#50091/people A gentleman] in [/EN#50095/clothing a striped shirt] gesturing with [/EN#50100/other a stick-like object] in [/EN#50102/bodyparts his hand] while [/EN#50104/other passersby stare] at [/EN#0/notvisual him] .
+[/EN#50091/people A man] with [/EN#50095/clothing striped shirt] singing while [/EN#50092/people the crowd] looks on .
+[/EN#50091/people man] waving [/EN#50103/bodyparts his hands] in [/EN#50094/scene the middle of a street] .

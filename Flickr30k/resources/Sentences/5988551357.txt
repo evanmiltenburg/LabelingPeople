@@ -1,0 +1,5 @@
+[/EN#246382/people A clown] lying on [/EN#246383/animals a horse] at [/EN#246385/scene a circus or fair event] with [/EN#246384/people spectators] .
+[/EN#246382/people A person] is laying sideways on [/EN#246383/animals a horse] in front of [/EN#246384/people spectators] .
+[/EN#0/notvisual It] looks like [/EN#246382/people the clown] has fallen off [/EN#246383/animals the horse] .
+[/EN#246382/people A rodeo clown] finds [/EN#0/notvisual it] 's [/EN#246386/scene way] in [/EN#246387/other the action] .
+[/EN#246382/people A person] in [/EN#246388/clothing pink] attempts to mount [/EN#246383/animals a horse] .

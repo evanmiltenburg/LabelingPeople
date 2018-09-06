@@ -1,0 +1,5 @@
+[/EN#104732/people A woman] wearing [/EN#104733/clothing all black] and [/EN#104734/clothing a red beanie cap] riding [/EN#104735/other a red sled] down [/EN#104736/scene some white snow] .
+[/EN#104732/people A girl] in [/EN#104733/clothing a black coat] and [/EN#104734/clothing red hat] riding [/EN#104735/other a red sled] down [/EN#104736/scene a snowy hill] .
+[/EN#104732/people A teenage girl] in [/EN#104733/clothing winter clothes] slides down [/EN#104737/other a decline] in [/EN#104735/other a red sled] .
+[/EN#104732/people A young girl] is riding down [/EN#104736/scene a snowy hill] on [/EN#104735/other a sled] .
+[/EN#104732/people A young woman] is sledding down [/EN#104736/scene a snowy hill] .

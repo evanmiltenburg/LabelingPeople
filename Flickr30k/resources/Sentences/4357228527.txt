@@ -1,0 +1,5 @@
+[/EN#164670/people A woman] wearing [/EN#164672/clothing a sweatshirt] and [/EN#164675/clothing jeans] is at [/EN#164676/other a laundry mat] is putting [/EN#164671/other ERA] in [/EN#164674/other the washing machine] .
+[/EN#164670/people A woman] in [/EN#164672/clothing a black sweatshirt] is pouring [/EN#164671/other liquid detergent] into [/EN#164674/people a washer] in [/EN#164678/scene a laundromat] .
+[/EN#164670/people A woman] in [/EN#164672/clothing a black sweatshirt] is pouring [/EN#164671/other laundry detergent] in [/EN#164674/other a washing machine] .
+[/EN#164670/people A woman] in [/EN#164672/clothing a black shirt] and [/EN#164675/clothing jeans] is pouring [/EN#164671/other Era] into [/EN#164674/other the washing machine] .
+[/EN#164670/people A woman] in [/EN#164672/clothing black] is adding [/EN#164671/other laundry soap] to [/EN#164674/other a washing machine] .

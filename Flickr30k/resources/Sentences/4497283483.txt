@@ -1,0 +1,5 @@
+[/EN#173226/people A person] in [/EN#173230/clothing a black shirt] is lying on [/EN#0/notvisual the ground] looking up at [/EN#173225/people a man] .
+[/EN#173225/people A man] lying on [/EN#0/notvisual the ground] watches [/EN#173226/people another man] smiling in [/EN#173228/clothing a hat] .
+[/EN#173226/other The ban] in [/EN#173228/clothing the black hat] is playing [/EN#173236/other charades] with [/EN#173226/people his friend] .
+[/EN#173229/clothing A guy dress] in [/EN#173233/clothing blue] & white is making [/EN#173231/scene a funny position] .
+[/EN#173226/people man] dances in [/EN#173232/scene the street] while [/EN#173226/people another man] looks on .

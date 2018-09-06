@@ -1,0 +1,5 @@
+[/EN#122972/people A man] playing [/EN#122973/instruments his guitar] on [/EN#122974/scene the street] , surrounded by [/EN#122975/scene buildings] and [/EN#122976/other streetlights] .
+[/EN#122972/people A man] plays [/EN#122973/instruments a blue guitar] on [/EN#122974/scene the an empty urban street] .
+[/EN#122972/people A dark-skinned man] plays [/EN#122973/instruments a blue guitar] on [/EN#122974/scene the street] .
+[/EN#122972/people a man] walking [/EN#122974/scene the streets] while playing [/EN#122973/instruments the guitar] .
+[/EN#122972/people The man] plays [/EN#122973/instruments his guitar] on [/EN#122974/scene the local streets] .

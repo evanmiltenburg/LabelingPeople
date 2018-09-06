@@ -1,0 +1,5 @@
+[/EN#107708/people An older girl] in [/EN#107711/clothing light brown] and [/EN#107709/people a younger girl] in [/EN#107712/clothing red] are decorating [/EN#107707/other a Christmas tree] .
+[/EN#107706/people Two young girls] hang [/EN#107705/other tinsel] on [/EN#107707/other a Christmas tree] in [/EN#107713/scene a room] with [/EN#107710/other blue curtains] .
+[/EN#107706/people Two young girls] stand beside [/EN#107707/other a tree] decorating [/EN#0/notvisual it] with [/EN#107705/other Christmas ornaments] .
+[/EN#107706/people Two girls] are hanging [/EN#107705/other tinsel] from [/EN#107707/other a Christmas tree] .
+[/EN#107706/people Two girls] decorating [/EN#107707/other a christmas tree] .

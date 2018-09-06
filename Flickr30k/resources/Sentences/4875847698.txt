@@ -1,0 +1,5 @@
+[/EN#213915/scene This chinese restaurant] is busy with [/EN#213916/people people] during [/EN#213922/other their dinner service] .
+[/EN#213916/people Customers] wait in [/EN#213920/other line] while [/EN#213917/people the workers] in [/EN#213919/clothing green shirts] help [/EN#0/notvisual them] .
+[/EN#213917/people Workers] in [/EN#213919/clothing green shirts] are waiting on [/EN#213916/people several customers] .
+Looking in [/EN#213918/scene a window of a busy shop] in [/EN#213921/scene the Orient] .
+[/EN#213915/scene A Chinese restaurant] seen through [/EN#213918/other a window] .

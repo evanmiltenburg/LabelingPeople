@@ -1,0 +1,5 @@
+[/EN#110013/people A boy] , bundled up , siting on [/EN#110014/other a one person sleigh] , in [/EN#110015/scene the snow] .
+[/EN#0/notvisual There] is [/EN#110013/people a child] on [/EN#110014/other a sled type machine] , in [/EN#110015/scene the snow] .
+[/EN#110013/people A child] in [/EN#110016/clothing blue] sitting on [/EN#110014/other a sled] in [/EN#110015/scene the snow] .
+[/EN#110013/people A kid] sits on [/EN#110014/other a skiing device] in [/EN#110015/scene the snow] .
+[/EN#110013/people A small child] is riding on [/EN#110014/other a toboggan] .

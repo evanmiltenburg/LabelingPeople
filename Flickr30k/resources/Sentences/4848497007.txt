@@ -1,0 +1,5 @@
+[/EN#210237/people 3 men] standing in [/EN#210245/other a row] , [/EN#210247/other one] wearing [/EN#210243/clothing a dark overcoat] , [/EN#210248/other one] with [/EN#210241/clothing a blue jacket ans shirt] , and [/EN#210240/other one] with [/EN#210244/clothing a gray jacket] .
+[/EN#210237/people Three men] are standing while [/EN#210238/people another man] is next to [/EN#0/notvisual them] holding [/EN#210239/other a newspaper] .
+[/EN#210237/people Three men] are standing facing [/EN#210238/people a man] wearing [/EN#210246/clothing glasses] and holding [/EN#210239/other a newspaper] .
+[/EN#210237/people A group of older men] gather [/EN#210250/scene outside] .
+[/EN#210240/people A bald man] is standing in [/EN#210242/people a crowd] .

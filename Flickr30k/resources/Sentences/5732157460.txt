@@ -1,0 +1,5 @@
+[/EN#241960/people A group of children] looking at [/EN#241966/scene the contents of a slide] through [/EN#241962/other a microscope] displayed on [/EN#241961/other a computer screen] .
+[/EN#241959/people The boy] in [/EN#241967/clothing the gray shirt] seems to be explaining [/EN#241965/other something] to [/EN#241960/people the girls] sitting next to [/EN#0/notvisual him] .
+[/EN#241960/people Three youth] - [/EN#241960/people two girls] and [/EN#241959/people one boy] - staring intently at [/EN#241961/other a computer screen] in [/EN#241964/scene a classroom] .
+[/EN#241960/people Three young child] are observing and interacting with [/EN#241962/other a microscope] and [/EN#241961/other computer] .
+[/EN#241960/people Three children] are [/EN#241962/other a microscope] and looking at [/EN#241961/other a computer screen] .

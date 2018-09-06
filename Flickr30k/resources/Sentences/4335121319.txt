@@ -1,0 +1,5 @@
+[/EN#163819/people A man] standing wearing [/EN#163824/clothing a brown jacket] and [/EN#0/notvisual he] shoveling [/EN#163822/scene the snow] away from [/EN#163821/scene the walking path]
+[/EN#163819/people A man] standing on [/EN#163821/scene the sidewalk] by [/EN#163823/scene a fence] in [/EN#163822/scene the snow] while smiling and holding [/EN#163820/other a shovel] .
+[/EN#163819/people a man] bundled up is shoveling [/EN#163822/scene snow] and posing for [/EN#163825/other a picture] .
+[/EN#163819/people A man] with [/EN#163820/other a yellow snow shovel] stands on [/EN#163821/scene the sidewalk] .
+[/EN#163819/people A man] poses as [/EN#0/notvisual he] s shoveling [/EN#163822/scene snow] off of [/EN#163821/scene a sidewalk] .

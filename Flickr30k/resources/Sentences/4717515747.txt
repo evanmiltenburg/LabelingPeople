@@ -1,0 +1,5 @@
+[/EN#194613/people A man] with [/EN#194617/clothing scarf] on [/EN#194618/bodyparts his head] and [/EN#194625/clothing white shirt] cooking at [/EN#194616/scene an outside event] .
+[/EN#194613/people A man] with [/EN#194617/clothing a white scarf] wrapped around [/EN#194618/bodyparts his head] cooks at [/EN#194614/scene a street fair] .
+[/EN#194613/people a man] cooking [/EN#194623/other food] for [/EN#194620/other a festival business] in [/EN#194619/scene the city]
+[/EN#194613/people A man] with [/EN#194621/clothing blue gloves] is cooking under [/EN#194615/scene a tent] .
+[/EN#194613/people Man] works [/EN#194624/other grill] at [/EN#194622/scene carnival food stand] .

@@ -1,0 +1,5 @@
+[/EN#84097/people A middle-aged man] in [/EN#84100/clothing a military uniform] sits at [/EN#84101/other a table] in front of [/EN#84103/other a small flag] and [/EN#84099/other microphone] .
+[/EN#84097/people A man] in [/EN#84098/people the military] is sitting at [/EN#84101/other a table] talking into [/EN#84099/other a microphone] .
+[/EN#84097/people A uniformed member of the U.S. military] speaks into [/EN#84099/other a microphone] .
+[/EN#84097/people A man] in [/EN#84100/clothing an army uniform] speaks into [/EN#84099/other a microphone] .
+[/EN#84097/other A solider] speaking into [/EN#84099/other a microphone] .

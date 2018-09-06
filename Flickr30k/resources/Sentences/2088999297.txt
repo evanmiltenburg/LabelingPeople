@@ -1,0 +1,5 @@
+[/EN#27946/people A small boy] wearing [/EN#27947/clothing a red shirt] and [/EN#27948/clothing blue shorts] sweeping [/EN#27949/scene a brick path] .
+[/EN#27946/people A boy] in [/EN#27948/clothing blue and white shorts] is sweeping with [/EN#27950/other a broom] and [/EN#27951/other dustpan] .
+[/EN#27946/people A little boy] is sweeping [/EN#27949/scene a brick floor] on [/EN#27952/scene a sunny day] .
+[/EN#27946/people A barefoot little boy] sweeping [/EN#27949/scene a brick floor] .
+[/EN#27946/people A hard-working child] is mopping [/EN#27949/scene the floor] .

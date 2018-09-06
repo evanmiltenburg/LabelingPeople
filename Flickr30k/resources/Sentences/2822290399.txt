@@ -1,0 +1,5 @@
+[/EN#74859/animals A white puppy] walks down [/EN#74860/scene a dirt path] trailing [/EN#74861/clothing his leash] on [/EN#0/notvisual the ground] behind [/EN#0/notvisual him] .
+[/EN#74859/animals A small white dog] has on [/EN#74861/clothing a leash] and is walking next to [/EN#74862/scene a fence] .
+[/EN#74859/animals A white dog] runs along [/EN#74860/scene a path] , trailing [/EN#74861/clothing a leash] .
+[/EN#74859/animals A white dog] with [/EN#74861/clothing a loose leash] is on [/EN#74860/scene a dirt road]
+[/EN#74859/animals A white dog] is walking down [/EN#74860/scene a dirt road] .

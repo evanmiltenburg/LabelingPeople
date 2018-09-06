@@ -1,0 +1,5 @@
+[/EN#43080/animals A brown dog] is jumping in [/EN#0/notvisual the air] whilst trying to catch [/EN#43081/other a purple Frisbee] .
+[/EN#43080/animals A brown and white dog] in [/EN#0/notvisual the air] next [/EN#43085/other two] [/EN#43083/clothing a purple] [/EN#43081/other Frisbee] above [/EN#43084/scene grass] .
+[/EN#43080/animals A dog] jumps to catch [/EN#43081/other the purple Frisbee] .
+[/EN#43080/animals A dog] is jumping to catch [/EN#43081/other a Frisbee] .
+[/EN#43080/animals A dog] jumps to catch [/EN#43081/other a flying disc] .

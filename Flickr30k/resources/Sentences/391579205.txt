@@ -1,0 +1,5 @@
+[/EN#148130/people The woman] in [/EN#148133/clothing the blue sweater] encourages [/EN#148129/animals the dog] to jump in [/EN#0/notvisual the air] .
+[/EN#148129/animals The small dog] is leaping in [/EN#0/notvisual the air] toward [/EN#148131/bodyparts the woman 's hand] .
+[/EN#148129/animals A dog] jumping up to touch [/EN#148131/bodyparts a woman 's hand] .
+[/EN#148129/animals An airborne dog] on [/EN#148134/clothing a leash] with [/EN#148130/people a woman] .
+[/EN#148129/animals a dog] jumps to [/EN#148130/people an elderly woman] .

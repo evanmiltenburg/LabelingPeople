@@ -1,0 +1,5 @@
+[/EN#97691/people Person] riding [/EN#97692/vehicles a bike] through [/EN#97694/other area of trees] and [/EN#97695/other fallen leaves] .
+[/EN#97691/people A person] is riding [/EN#97692/vehicles a bicycle] on [/EN#97693/scene a trail] through [/EN#97694/other some trees] .
+[/EN#97691/people A mountain biker] is riding on [/EN#97693/scene a woodland path] .
+[/EN#97691/people A man] is riding [/EN#97692/vehicles a bike] down [/EN#97693/scene a dirt trail] .
+[/EN#97691/people The bike rider] rides in [/EN#97693/scene a wooded area] .

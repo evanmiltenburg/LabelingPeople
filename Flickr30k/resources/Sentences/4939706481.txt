@@ -1,0 +1,5 @@
+[/EN#220990/people A older man] smoking [/EN#220991/other a cigarette] while pointing [/EN#220992/bodyparts his finger] at [/EN#220996/other something] .
+[/EN#220990/people A man] pointing [/EN#220994/bodyparts his finger] and holding [/EN#220991/other a cigarette] in [/EN#220993/bodyparts the other hand] .
+[/EN#220990/people An oriental man] holding [/EN#220991/other a cigarette] and pointing [/EN#220994/bodyparts his right finger] .
+[/EN#220990/people A man] in [/EN#220997/clothing a white shirt] smokes while giving [/EN#220995/other instruction] .
+[/EN#220990/people An older gentlemen] smokes [/EN#220991/other a cigarette] as [/EN#0/notvisual he] points .

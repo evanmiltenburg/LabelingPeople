@@ -1,0 +1,5 @@
+[/EN#997/people A man] in [/EN#999/clothing black] with [/EN#1002/bodyparts long hair] playing [/EN#998/instruments a guitar] with [/EN#1001/other stickers] on [/EN#0/notvisual it] .
+[/EN#997/people A long-haired musician] , playing [/EN#998/instruments his guitar] in [/EN#1000/other a performance] .
+[/EN#997/people A rock artist] performs on [/EN#1003/scene stage] with [/EN#998/instruments an electric guitar] .
+[/EN#997/people A man] in [/EN#999/clothing a black shirt] plays [/EN#998/instruments a black-colored guitar] .
+[/EN#997/people A man] wearing [/EN#999/clothing black] is playing [/EN#998/instruments an electric guitar] .

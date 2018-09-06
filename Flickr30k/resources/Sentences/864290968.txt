@@ -1,0 +1,5 @@
+[/EN#282318/people The man] with [/EN#282319/bodyparts the beard] is sitting in [/EN#282320/vehicles/scene a bus] staring forward .
+[/EN#282318/people An elder man] with [/EN#282319/bodyparts a long gray beard] riding on [/EN#282320/vehicles/scene the bus] .
+[/EN#282318/people A man] with [/EN#282319/bodyparts a gray beard] is sitting by [/EN#282321/other a window] .
+[/EN#282318/people A bearded man] sits at [/EN#282321/other a bus window] .
+[/EN#282318/people bearded man] rides [/EN#282320/vehicles/scene a bus]

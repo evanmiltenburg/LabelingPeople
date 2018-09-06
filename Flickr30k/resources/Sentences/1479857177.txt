@@ -1,0 +1,5 @@
+[/EN#14432/people A yellow gloved diver] with [/EN#14436/clothing a snorkel] and [/EN#14438/clothing mask] swims underwater carrying [/EN#14433/other a box] with [/EN#14434/other a handle] .
+[/EN#14432/people A man] in [/EN#14435/clothing a scuba suit] holds [/EN#14433/other a box] .
+[/EN#14432/people Scuba diver] submerged in [/EN#14439/scene water] .
+[/EN#14432/people The scuba diver] is underwater .
+[/EN#14432/people A man] scuba [/EN#14437/scene diving underwater] .

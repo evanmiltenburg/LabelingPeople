@@ -1,0 +1,5 @@
+[/EN#234210/people A woman] in [/EN#234214/clothing patterned blue jeans] and [/EN#234213/clothing a green sweater] walks away whilst carrying [/EN#234212/clothing a brown plastic bag] .
+[/EN#0/notvisual It] looks like [/EN#234210/people the girl] went shopping and got [/EN#234216/other something] from [/EN#234212/scene the AVEDA store] .
+[/EN#234210/people A blond woman] wearing [/EN#234213/clothing a green shirt] and [/EN#234214/clothing blue jeans] walks away .
+[/EN#234210/people A woman] walking , wearing [/EN#234213/clothing a green shirt] and [/EN#234214/clothing jeans]
+[/EN#234210/people a girl] in [/EN#234213/clothing a blue hoodie] is carrying [/EN#234212/clothing a brown bag]

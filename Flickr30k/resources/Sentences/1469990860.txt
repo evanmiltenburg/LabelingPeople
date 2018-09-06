@@ -1,0 +1,5 @@
+[/EN#14151/people A woman] sitting on [/EN#14152/vehicles/scene a train] in [/EN#14156/people between two people] holding [/EN#14153/other a white box] and closing [/EN#14154/bodyparts her eyes] .
+[/EN#14151/people A woman] sitting on [/EN#14152/vehicles/scene the subway] is holding [/EN#14153/other a white box] while closing [/EN#14154/bodyparts her eyes] .
+[/EN#14151/people A woman] holding [/EN#14153/other a white box] taking [/EN#14157/other a nap] seated in [/EN#14155/vehicles a subway car] .
+[/EN#14151/people A woman] holding [/EN#14153/other a box] resting [/EN#14154/bodyparts her eyes] while riding [/EN#14152/vehicles/scene the bus] .
+[/EN#14151/people A woman] holding [/EN#14153/other a box] while sleeping .

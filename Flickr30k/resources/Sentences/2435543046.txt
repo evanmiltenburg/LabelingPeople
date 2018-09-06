@@ -1,0 +1,5 @@
+[/EN#49297/people A man] sitting on [/EN#49299/other a blanket] with [/EN#49298/people his kid] while eating [/EN#49300/other a waffle] with [/EN#49302/other whip cream] and [/EN#49301/other fruit] .
+[/EN#49297/people A man] , [/EN#0/notvisual who] is eating [/EN#49300/other a waffle] , and [/EN#49297/people a child] are sitting outside on [/EN#49299/other a blue blanket] .
+[/EN#49297/people A man] is sitting on [/EN#49299/other a blue blanket] with [/EN#49298/people a baby] eating [/EN#49300/other some food] .
+[/EN#49297/people a man] eats [/EN#49300/other a waffle] next to [/EN#49298/people a baby]
+[/EN#49297/people A man] is eating [/EN#49300/other his bread] .

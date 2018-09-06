@@ -1,0 +1,5 @@
+[/EN#261593/bodyparts A hand] holds [/EN#261598/other a strainer] with [/EN#261595/other a small amount of liquid] in [/EN#0/notvisual it] with [/EN#261599/other a table] with [/EN#261600/other bins] in [/EN#0/notvisual the background] .
+[/EN#261593/bodyparts A hand] is seen holding [/EN#261598/other a small strainer] with [/EN#261601/scene a red substance inside] .
+[/EN#261594/people A person] holds [/EN#261595/other a red gelatinous substance] in [/EN#261598/other a strainer] .
+[/EN#0/notvisual This] is [/EN#261594/people a person] testing [/EN#261595/other candy] cooking .
+[/EN#261593/bodyparts A hand] holding [/EN#261598/other a small strainer] .

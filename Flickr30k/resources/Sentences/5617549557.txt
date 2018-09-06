@@ -1,0 +1,5 @@
+[/EN#239867/people A man] in [/EN#239868/clothing a yellow t-shirt] is throwing [/EN#239871/other a frisbee] under [/EN#239874/bodyparts his leg] at [/EN#0/notvisual what] seems to be [/EN#239878/scene an organized sporting event] .
+[/EN#239867/people A male] is wearing [/EN#239868/clothing a yellow shirt] and being watched by [/EN#239875/people a few other people] .
+[/EN#239867/people A man] in [/EN#239868/clothing a yellow shirt] is tossing [/EN#239869/other a neon] [/EN#239877/other yellow Frisbee] under [/EN#239874/bodyparts his leg] .
+[/EN#239867/people A man] in [/EN#239868/clothing a black hat] and [/EN#239876/clothing shorts] throwing [/EN#239869/other a matching yellow glow stick]
+[/EN#239867/people A lanky man] in [/EN#239868/clothing yellow] does [/EN#0/notvisual a glow stick trick] .

@@ -1,0 +1,5 @@
+[/EN#40052/people An Asian Indian man] in [/EN#40056/clothing a yellow madras shirt] asleep next to [/EN#40055/people a woman] in [/EN#40057/clothing a red print dress] .
+[/EN#40052/people A man] and [/EN#40055/people a woman] are sleeping while sitting in [/EN#40053/people a bus or train of some kind] .
+[/EN#40052/people A man] and [/EN#40055/people a woman] are sleeping on [/EN#40054/vehicles a mode of public transportation] .
+[/EN#40052/people An Indian man] and [/EN#40055/people woman] are asleep on [/EN#40054/vehicles public transport] .
+[/EN#40052/people A man] and [/EN#40055/people woman] sleeping on [/EN#40053/vehicles/scene a bus] .

@@ -1,0 +1,5 @@
+[/EN#238525/people A woman] in [/EN#238529/clothing a plaid jacket] and [/EN#238526/people a man] in [/EN#238528/clothing a blue jacket] are leaving [/EN#238527/scene a store] while [/EN#238533/other many others] are still inside .
+[/EN#238525/people A woman] wearing [/EN#238531/clothing jeans] with [/EN#238532/clothing sunglasses] on [/EN#238534/bodyparts her head] leaves [/EN#238527/scene a busy retail store] .
+[/EN#238525/people A lady] with [/EN#238530/clothing a red purse] is leaving [/EN#238527/scene the store] .
+[/EN#238526/people A man] and [/EN#238525/people a woman] walking out of [/EN#238527/scene a store] .
+[/EN#238525/people A woman] leaving [/EN#238527/scene a busy store] .

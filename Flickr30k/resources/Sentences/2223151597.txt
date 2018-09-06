@@ -1,0 +1,5 @@
+[/EN#35088/people A lady] in [/EN#35089/clothing a dark top] and [/EN#35090/clothing black necklace] is sitting next to [/EN#35091/people a man] in [/EN#35092/clothing a black sweater] and listening to [/EN#35095/other a conversation] .
+[/EN#35091/people A man] and [/EN#35088/people woman] seated at [/EN#35093/other a table] converse while [/EN#35096/people another couple] , standing at [/EN#35094/scene the bar] behind [/EN#0/notvisual them] , does [/EN#35098/other the same] .
+[/EN#35091/people A man] and [/EN#35088/people a woman] are sitting at [/EN#35093/other a table] talking .
+[/EN#35091/people Man] looks on [/EN#35088/people as woman] is talking while at [/EN#35094/scene a bar] .
+[/EN#35088/people A woman] and [/EN#35091/people a man] sit [/EN#35093/other a table] in [/EN#35094/scene a bar] .

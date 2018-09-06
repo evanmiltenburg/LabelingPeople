@@ -1,0 +1,5 @@
+[/EN#126188/people A man] with [/EN#126189/clothing a blue shirt] and [/EN#126193/animals gray apron cuts fish] at [/EN#126194/scene an outdoor market] .
+[/EN#126188/people A man] in [/EN#126189/clothing a blue shirt] and [/EN#126191/clothing apron] prepares [/EN#126190/other food] .
+[/EN#126188/people An older man] in [/EN#126192/clothing glasses] is preparing [/EN#126190/other meat] .
+[/EN#126188/people A man] wearing [/EN#126191/clothing apron] is slicing [/EN#126190/other a meat] .
+[/EN#126188/people A butcher] is cutting [/EN#126190/other some meat] .

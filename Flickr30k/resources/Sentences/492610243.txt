@@ -1,0 +1,5 @@
+[/EN#218983/people A woman] is jogging in [/EN#218986/people the opposite direction of a group of bicyclists] along [/EN#218978/scene a narrow road] .
+[/EN#218979/people Many people] riding [/EN#218988/vehicles bikes] on [/EN#218978/scene a path] while [/EN#218983/people another person] is walking toward [/EN#0/notvisual them] .
+[/EN#218978/scene A busy , recreational trail] near [/EN#218984/scene a waterway] accommodates [/EN#218983/people walkers] and [/EN#218985/people cyclists] .
+[/EN#218980/people a group of 9 bicycle riders] in [/EN#218980/people a group] on [/EN#218978/scene a trail]
+[/EN#218981/people The seven boy] are biking beside [/EN#218984/scene the lake] .

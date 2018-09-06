@@ -1,0 +1,5 @@
+[/EN#13023/people A person] scaling [/EN#13024/other a rocky ledge] , with [/EN#13027/other a rope] supporting .
+[/EN#13023/people A person] is climbing up [/EN#13024/other a rock] with [/EN#13025/other a pink rope] .
+[/EN#13023/people A man] using [/EN#13025/other a pink rope] to climb down [/EN#13024/scene a cliff] .
+[/EN#13023/people A man] is climbing [/EN#13027/other a rope] up [/EN#13024/scene a cliff] .
+[/EN#13023/people A climber] scales [/EN#13024/bodyparts a steep rock face] .

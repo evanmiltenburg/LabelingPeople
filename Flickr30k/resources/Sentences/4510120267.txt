@@ -1,0 +1,5 @@
+[/EN#174196/people Person] in [/EN#174197/clothing a red beanie] looks over [/EN#174199/scene the water] while sitting on [/EN#174198/other a wooden bench] .
+[/EN#0/notvisual What] [/EN#174200/scene a beautiful scene] here and [/EN#174196/people the man] enjoys [/EN#0/notvisual it] by sitting on [/EN#174198/people the bunch] .
+[/EN#174196/people Person] wearing [/EN#174203/clothing black and tan winter jacket] sitting on [/EN#174198/other log] by [/EN#174199/scene waters edge] .
+[/EN#174196/people A man] wearing [/EN#174197/clothing a red cap] is leaning on [/EN#174198/other wooden railing] .
+[/EN#174196/people A man] sitting on [/EN#174202/scene a gate] looking at [/EN#174199/scene the water] .

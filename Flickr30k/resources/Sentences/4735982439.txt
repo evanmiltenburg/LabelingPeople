@@ -1,0 +1,5 @@
+[/EN#197081/people A large African American woman] is wearing [/EN#197089/clothing a green shirt] sitting on [/EN#197083/other a bench] at [/EN#197084/other the bus stop] , while [/EN#197085/people a small woman] wearing [/EN#197090/clothing a rust colored coat] is sitting on [/EN#197084/other the other side of the bench] .
+[/EN#197081/people An enormous black woman] sits at [/EN#197088/other a bus stop] beside [/EN#197085/scene an elderly woman of east-Asian descent] .
+[/EN#197081/people A large lady] and [/EN#197085/people an elderly lady] are waiting at [/EN#197084/other a bus stop] .
+[/EN#197081/people A large man] is sitting on [/EN#197083/other a bench] next to [/EN#197087/other a Subway sign] .
+[/EN#197086/people Two ladies] sitting on [/EN#197084/other a city bus bench] .

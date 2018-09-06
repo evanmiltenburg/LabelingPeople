@@ -1,0 +1,5 @@
+[/EN#62504/people A young girl] in [/EN#62510/clothing pink pants] and [/EN#62508/clothing a white top] stands watering [/EN#62512/other a group of household plants] in [/EN#62509/scene her driveway] , standing next to [/EN#62515/vehicles the family car] .
+[/EN#62504/people A young girl] is watering [/EN#62505/other flowers] with [/EN#62513/other a water pot] in [/EN#0/notvisual what] appears to be [/EN#62509/scene her driveway] .
+[/EN#62504/people A young girl] wearing [/EN#62510/clothing pink pants] and [/EN#62508/clothing a white shirt] is watering [/EN#62505/other a flower] in [/EN#62507/other a pot] .
+[/EN#62504/people A young girl] in [/EN#62510/scene pink pants waters] [/EN#62505/other potted plants] .
+[/EN#62504/people A small child] watering [/EN#62506/other plants] in [/EN#62511/scene the garden] .

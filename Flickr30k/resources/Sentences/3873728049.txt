@@ -1,0 +1,5 @@
+[/EN#146525/people Two men] in [/EN#146526/scene basement of house] drinking [/EN#146531/people bottled water one man] wearing [/EN#146527/clothing tool belt] .
+[/EN#146525/people Two men] stand in [/EN#146526/scene a basement workshop] , looking at [/EN#0/notvisual each other] .
+[/EN#146528/people A man] with [/EN#146527/clothing a tool belt] talks to [/EN#146529/people another man] in [/EN#146526/scene a basement] .
+[/EN#146525/people Two working men] take [/EN#146530/scene a water break] .
+[/EN#146525/people Two men] talk in [/EN#146526/scene the garage] .

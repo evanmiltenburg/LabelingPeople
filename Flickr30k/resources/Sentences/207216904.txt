@@ -1,0 +1,5 @@
+[/EN#26944/people A boy] in [/EN#26947/clothing a dark blue jacket] laughs with [/EN#26946/people a young girl] in [/EN#26949/clothing a light blue sweater] .
+[/EN#26944/people A blond-haired boy] and [/EN#26946/people a brown-haired girl] laugh together while eating .
+[/EN#26945/people Two kids] laughing together with [/EN#26951/other food] and [/EN#26950/other drinks] in front of [/EN#0/notvisual them] .
+[/EN#26945/people Two children] wearing [/EN#26952/clothing hooded tops] laughing with [/EN#0/notvisual each other] .
+[/EN#26944/people A boy] and [/EN#26946/people a girl] laughing and having [/EN#26948/other a good time] .

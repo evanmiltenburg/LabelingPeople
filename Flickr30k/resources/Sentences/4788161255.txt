@@ -1,0 +1,5 @@
+[/EN#202883/people A young man] wearing [/EN#202884/clothing a black top] and [/EN#202887/clothing blue jeans] with [/EN#202885/instruments a guitar] on [/EN#202891/other his back] walking on [/EN#202889/scene a crosswalk] while [/EN#202892/vehicles cars] are passing by .
+[/EN#202883/people A young man] in [/EN#202884/clothing a black shirt] and [/EN#202887/clothing jeans] and carrying [/EN#202885/other a case] for [/EN#202885/instruments a musical instrument] is crossing [/EN#202886/scene a street] .
+[/EN#202883/people A man] in [/EN#202884/clothing a black shirt] crosses [/EN#202886/scene a street] with [/EN#202885/instruments a guitar] on [/EN#202890/other his back] .
+[/EN#202883/people A boy] with [/EN#202885/instruments a guitar] crossing [/EN#202886/scene the street] .
+[/EN#202883/people A guitarist] walks crosses [/EN#202886/scene the road] .

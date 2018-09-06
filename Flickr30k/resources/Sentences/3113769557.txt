@@ -1,0 +1,5 @@
+[/EN#94575/people A woman] stands tall in front of [/EN#94576/other a glass display] while [/EN#94577/people another woman] takes [/EN#94580/other a picture of something] .
+[/EN#94577/people One woman] is taking [/EN#94580/other a picture] and [/EN#94575/people another woman] is standing sideways with [/EN#94578/bodyparts/people her arm] out .
+[/EN#94575/people A woman] stands in front of [/EN#94582/other a display case] and [/EN#94577/people another woman] looks at [/EN#94579/other a digital camera]
+[/EN#94575/people A woman] stands with [/EN#94578/bodyparts her arms] out in [/EN#94581/scene a store] while [/EN#94577/people another woman] holds [/EN#94579/other a camera] .
+[/EN#94575/people A woman] stands with [/EN#94578/bodyparts her arms] out at [/EN#0/notvisual her sides] while [/EN#0/notvisual another] takes [/EN#94585/other a picture] .

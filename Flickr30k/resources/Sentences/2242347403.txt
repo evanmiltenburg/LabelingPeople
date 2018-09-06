@@ -1,0 +1,5 @@
+[/EN#36293/people A young man] in [/EN#36300/clothing black shorts] and [/EN#36301/clothing a white shirt] is sitting [/EN#36299/other cross] legged on [/EN#36295/scene the floor] throwing [/EN#36294/other colored pieces of paper] into [/EN#0/notvisual the air] .
+[/EN#36293/people A man] is sitting on [/EN#36295/scene the floor of his room] , celebrating and throwing [/EN#36294/other papers] into [/EN#0/notvisual the air] .
+[/EN#36293/people A young man] with [/EN#36298/other a happy expression] is tossing [/EN#36294/other bits of colored paper] into [/EN#0/notvisual the air] .
+[/EN#36293/people A boy] throws [/EN#36294/other a deck of cards] into [/EN#0/notvisual the air] with [/EN#36302/bodyparts a smile] on [/EN#36303/bodyparts his face] .
+[/EN#36293/people a man] is in [/EN#36295/scene his room] throwing [/EN#36294/other pieces of paper] into [/EN#0/notvisual the air] .

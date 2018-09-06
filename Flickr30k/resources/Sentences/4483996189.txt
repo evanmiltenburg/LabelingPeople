@@ -1,0 +1,5 @@
+[/EN#172191/people A group of five people] are sitting on [/EN#172192/scene a sidewalk or courtyard] while [/EN#172195/people another man] , on [/EN#0/notvisual a higher level of ground] , stands above [/EN#0/notvisual them] .
+[/EN#172191/people People] sitting on [/EN#172192/scene a lower level of a walkway] , while [/EN#172195/people a different person] is walking above [/EN#0/notvisual them] among [/EN#172199/other the trees] .
+[/EN#172189/people 3 women] and [/EN#172200/people 2 men] waiting by [/EN#172193/other a wall] in [/EN#172198/scene the park] talking
+[/EN#172190/people A group] posses for [/EN#172201/other a photo] along [/EN#172193/other a wall] .
+[/EN#172191/people A group of people] sitting on [/EN#172194/other a bench] .

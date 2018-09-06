@@ -1,0 +1,5 @@
+[/EN#167046/people The man] is wearing [/EN#167050/clothing gloves] and holding [/EN#167047/animals a hawk] in [/EN#167048/bodyparts his hands] .
+[/EN#167046/people Gloved man] holding [/EN#167047/animals a bird of prey] .
+[/EN#167046/people A man] holds [/EN#167047/animals a falcon] on [/EN#167048/bodyparts/people his arm] .
+[/EN#167047/animals a bird] lands on [/EN#167049/clothing a man 's glove] .
+[/EN#167046/people A man] holds [/EN#167047/animals a bird] .

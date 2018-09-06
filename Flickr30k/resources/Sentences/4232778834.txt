@@ -1,0 +1,5 @@
+[/EN#159795/people A woman] with [/EN#159798/bodyparts dark hair] and [/EN#159801/clothing a red dress] sits next to [/EN#159794/people a little girl] with [/EN#159802/bodyparts blond-hair] and [/EN#159797/clothing a white dress] while reading [/EN#159796/other a book] .
+[/EN#159795/people A woman] with [/EN#159798/bodyparts short , dark hair] is on [/EN#159799/scene the floor] reading [/EN#159796/other a book] to [/EN#159794/people a little girl] dressed in [/EN#159797/clothing a white dress] .
+[/EN#159794/people The little girl] in [/EN#159797/clothing the white dress] is looking at [/EN#159796/other a book] with [/EN#159795/people her mother] .
+[/EN#159795/people A woman] and [/EN#159794/people child] are on [/EN#159799/scene the floor] looking at [/EN#159796/other a book] .
+[/EN#159795/people A woman] reading to [/EN#159794/people a little girl] in [/EN#159797/clothing a dress] .

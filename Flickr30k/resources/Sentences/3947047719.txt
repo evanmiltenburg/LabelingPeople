@@ -1,0 +1,5 @@
+[/EN#149154/people Two men] , [/EN#149159/other one] in [/EN#149158/clothing a yellow shirt] and [/EN#149161/clothing bandanna] and [/EN#0/notvisual another] in [/EN#149157/clothing white shirt] and [/EN#149164/clothing sunglasses] , are standing on [/EN#149156/scene grass] and playing with [/EN#149152/other a white frisbee] .
+[/EN#149154/people Two guys] , [/EN#149163/other one] in [/EN#149158/clothing a yellow shirt] and [/EN#149159/other one] in [/EN#149157/clothing a white shirt] , are playing with [/EN#149155/other a Frisbee] .
+[/EN#149154/people Two men] , wearing [/EN#149160/clothing shorts] and [/EN#149153/clothing t-shirts] , playing [/EN#149152/other Frisbee] in [/EN#149156/scene a field] .
+[/EN#149154/people Two adult males] playing [/EN#149152/other Frisbee] in [/EN#149156/scene a grassy area] .
+[/EN#149154/people Two men] in [/EN#149160/clothing shorts] and [/EN#149153/clothing T-Shirts] playing [/EN#149155/other frisbee] .

@@ -1,0 +1,5 @@
+[/EN#27460/people A person] with [/EN#27464/bodyparts long blond-hair] , [/EN#27470/clothing white shirt] , and [/EN#27466/clothing black pants] holds [/EN#27462/other a plate] with [/EN#27461/other a colorful burger] on [/EN#0/notvisual it] .
+[/EN#27460/people A man] with [/EN#27464/bodyparts shoulder length blond-hair] and [/EN#27463/clothing glasses] about to eat [/EN#27468/other steak] and [/EN#27469/other vegetables]
+[/EN#27460/people A man] with [/EN#27463/clothing glasses] just sat down and is ready to eat [/EN#27461/other his burger] .
+[/EN#27460/people Man] with [/EN#27464/bodyparts long blond-hair] and [/EN#27462/other a plate of food] in [/EN#27467/bodyparts his hands] .
+[/EN#27460/people A person] is sitting next to [/EN#27465/other a tv] holding [/EN#27462/other a plate of food] .

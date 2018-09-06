@@ -1,0 +1,5 @@
+[/EN#42766/people a man] wearing [/EN#42770/clothing a black and white shirt] jumping on [/EN#42769/other a dog 's back]
+[/EN#42767/animals A running dog] and [/EN#42766/people a standing man] on [/EN#42768/scene a dry field of grass] .
+[/EN#42766/people A man] stands over [/EN#42767/animals a brown and black dog] in [/EN#42768/scene the grass] .
+[/EN#42766/people A man] is sitting on [/EN#42767/animals a black and brown dog] .
+[/EN#42767/animals An attack dog] is working with [/EN#42766/people his trainer] .

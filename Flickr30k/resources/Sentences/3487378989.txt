@@ -1,0 +1,5 @@
+[/EN#121980/people A man] on [/EN#121981/vehicles a bicycle] in [/EN#121986/clothing jeans] is doing [/EN#121987/scene an air track] along [/EN#121988/scene a dirt track] with [/EN#121982/other graffiti] nearby .
+[/EN#121980/people a lone bicyclist] jumping on [/EN#121981/vehicles his bike] in front of [/EN#121982/other a graffitied wall] .
+[/EN#121980/people A man] grabs [/EN#121985/vehicles the spokes of his bicycle] while [/EN#0/notvisual he] jumps .
+[/EN#121980/people A man] performs [/EN#0/notvisual bike tricks] by [/EN#121982/other a mural] .
+[/EN#121980/people A man] doing [/EN#0/notvisual tricks] on [/EN#121981/vehicles a bike]

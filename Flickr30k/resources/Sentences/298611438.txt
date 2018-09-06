@@ -1,0 +1,5 @@
+[/EN#85626/people A young girl] in [/EN#85628/clothing a cute hat] and [/EN#85629/clothing pink sweater] pushes [/EN#85630/scene a toy lawn] mower in front of [/EN#85631/vehicles a bicycle] .
+[/EN#85626/people A female toddler] pushing [/EN#85627/other a toy lawn mower] .
+[/EN#85626/people A little girl] pushing [/EN#85627/other her toy lawn mower] .
+[/EN#85626/people A kid] is walking and [/EN#0/notvisual he] is pushing [/EN#85627/other his toy]
+[/EN#85626/people A toddler] pushing [/EN#85627/other a toy lawn mower] .

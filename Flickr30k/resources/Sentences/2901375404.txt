@@ -1,0 +1,5 @@
+[/EN#80247/people A man] wearing [/EN#80253/clothing blue pants] is standing on [/EN#80248/other a ladder] , working on building [/EN#80249/other the roof of a dome] on [/EN#80251/scene a white building] .
+[/EN#80247/people A man] on [/EN#80248/other a ladder] repairs [/EN#80249/other bronze shingles] on [/EN#80249/scene the roof of a building] .
+[/EN#80247/people A man] is working on building [/EN#80249/clothing a gold] , [/EN#80249/scene dome-shaped roof] .
+[/EN#80247/people A man] on [/EN#80248/other a ladder] repairs [/EN#80249/scene the roof of a building] .
+[/EN#80247/people The man] works on [/EN#80249/scene the roof of the building] .

@@ -1,0 +1,5 @@
+[/EN#81340/people A person] wearing [/EN#81341/clothing a red shirt] jumps high above [/EN#81342/scene a rocky and grassy field] .
+[/EN#81340/people A man] jumping on [/EN#0/notvisual the hard ground] .
+[/EN#81340/people A man] leaps into [/EN#0/notvisual the air] .
+[/EN#81340/people A person] jumps outside .
+[/EN#81340/people A guy] in [/EN#81341/clothing red] jumping .

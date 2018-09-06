@@ -1,0 +1,5 @@
+[/EN#145066/people An older man] wearing [/EN#145068/clothing a plaid shirt] , [/EN#145073/clothing blue jeans] and [/EN#145074/clothing boots] is at [/EN#145067/scene a campsite] , looking through [/EN#145071/other a telescope] into [/EN#145069/scene the daytime sky] .
+[/EN#145066/people A man] is looking through [/EN#145071/other a telescope] in [/EN#145073/clothing jeans] and [/EN#145074/clothing cowboy boots] while [/EN#0/notvisual there] is [/EN#145072/scene a tent] behind [/EN#0/notvisual him] .
+[/EN#145066/people An old man] in [/EN#145068/clothing a plaid shirt] and [/EN#145073/clothing blue pants] is looking in [/EN#145071/other a telescope] on [/EN#145070/scene a sunny day] .
+[/EN#145066/people A man] in [/EN#145068/clothing a plaid shirt] and [/EN#145073/clothing jeans] is at [/EN#145067/scene a campsite] with [/EN#145076/other a tripod] .
+[/EN#145066/people A man] camping out in [/EN#145072/scene a tent] to get [/EN#145075/other a look] at [/EN#145069/scene the sky] .

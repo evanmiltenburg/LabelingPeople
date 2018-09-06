@@ -1,0 +1,5 @@
+[/EN#173976/people A man] and [/EN#173978/people two children] , [/EN#173980/people all] in [/EN#173981/clothing black jackets] , [/EN#173982/other walk] across [/EN#173977/scene the street] .
+[/EN#173976/people A middle-aged man] holds [/EN#173983/bodyparts two boys hands] as [/EN#0/notvisual they] cross [/EN#173977/scene a street] .
+[/EN#173976/people a man] and [/EN#173978/people two kids] are walking down [/EN#173977/scene a street]
+[/EN#173976/people A man] and [/EN#173978/people two children] crossing [/EN#173977/scene a street] .
+[/EN#173979/people A family] crossing [/EN#173977/scene a busy street] together .

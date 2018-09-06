@@ -1,0 +1,5 @@
+[/EN#64055/people A group of people] standing and sitting around [/EN#0/notvisual what] looks like [/EN#64058/scene a town hall] meeting .
+[/EN#64055/people A small group of people] are standing up looking at [/EN#64065/other something] in front of [/EN#0/notvisual them] .
+[/EN#64055/people Two children] are among [/EN#64064/people several other people] and playing [/EN#64057/other a game] on [/EN#64066/other the Wii] .
+[/EN#64060/people Children] and [/EN#64056/people young adults] in [/EN#64058/scene a room] watching [/EN#64063/people one girl] play [/EN#64057/other a game] .
+[/EN#64059/people A woman] standing behind [/EN#64062/scene a podium] is speaking to [/EN#64055/people people] .

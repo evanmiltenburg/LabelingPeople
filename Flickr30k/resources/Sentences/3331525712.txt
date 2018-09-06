@@ -1,0 +1,5 @@
+[/EN#110080/people A man] in [/EN#110096/clothing blue jeans] is sitting on [/EN#110088/people the shoulders of another person] as [/EN#0/notvisual he] interacts with [/EN#110085/people a woman performer] on [/EN#110084/scene stage] at [/EN#110081/other a concert] .
+[/EN#110085/people A woman] with [/EN#110091/other a microphone] on [/EN#110084/scene a stage] points [/EN#110090/other the microphone] at [/EN#110080/people a man] [/EN#0/notvisual who] is standing in [/EN#110080/people the audience] in front of [/EN#0/notvisual her]
+[/EN#110080/people A fan] sitting on [/EN#110088/bodyparts someone 's shoulders] is waving to [/EN#110085/people a woman] on [/EN#110084/scene a stage] [/EN#0/notvisual that] says [/EN#110082/other Amnesty International] .
+[/EN#110085/people Woman] on [/EN#110084/scene stage] at [/EN#110082/scene Amnesty International event] exchanges [/EN#110092/other gestures] with [/EN#110080/other man offstage] .
+[/EN#110085/people A woman] on [/EN#110084/scene stage] points to [/EN#110080/people a man] holding up [/EN#110093/bodyparts his hand]

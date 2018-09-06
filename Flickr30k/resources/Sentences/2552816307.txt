@@ -1,0 +1,5 @@
+[/EN#57683/animals A black dog] and [/EN#57681/animals a brown and white dog] are playing with [/EN#57682/other a stick] in [/EN#57686/scene the water] .
+[/EN#57680/animals Two dogs] [/EN#0/notvisual both] have [/EN#57682/other the same stick] in [/EN#57687/bodyparts their mouth] while [/EN#0/notvisual they] are swimming .
+[/EN#57679/animals Two dogs] , [/EN#57684/clothing one black the other brown and white] , swim with [/EN#57682/other a stick] .
+[/EN#57679/animals Two dogs] are swimming in [/EN#57685/other water whist] carrying [/EN#57682/other a stick] .
+[/EN#57679/animals Two dogs] swimming .

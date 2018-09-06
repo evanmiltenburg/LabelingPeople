@@ -1,0 +1,5 @@
+[/EN#10673/people a snowboarder] wearing [/EN#10677/clothing green pants] doing [/EN#0/notvisual a trick] on [/EN#10674/other a high bench]
+[/EN#10673/people The man] is performing [/EN#0/notvisual a trick] on [/EN#10680/other a snowboard] high in [/EN#0/notvisual the air] .
+[/EN#10673/people A man] is snowboarding over [/EN#10674/other a structure] on [/EN#10675/scene a snowy hill] .
+[/EN#10673/people A snowboarder] jumps through [/EN#0/notvisual the air] on [/EN#10675/scene a snowy hill] .
+[/EN#10673/people Someone] in [/EN#10677/clothing yellow pants] is on [/EN#10674/scene a ramp] over [/EN#10675/scene the snow] .

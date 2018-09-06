@@ -1,0 +1,5 @@
+[/EN#57982/people A man] in [/EN#57993/clothing an orange shirt] and [/EN#57991/people a man] in [/EN#57995/clothing a white shirt] are at [/EN#57984/scene a vegetable stand] , and [/EN#57982/people the man] in [/EN#57993/clothing the orange shirt] gives [/EN#57983/people a woman] wearing red [/EN#57986/other some vegetables] .
+[/EN#57987/people Two men] in [/EN#57996/clothing baseball hats] selling [/EN#57985/other asparagus] and [/EN#57997/other other vegetables] from [/EN#57984/scene an outdoor stand] to [/EN#57983/people a woman] carrying [/EN#57990/clothing a green bag] .
+[/EN#57983/people A woman] buys [/EN#57986/other fresh food] from [/EN#57984/scene a stand] at [/EN#57989/scene a farmer 's market] .
+[/EN#57987/people Two men] are selling [/EN#57985/other asparagus] from [/EN#57984/scene a farm stand] to [/EN#57983/people a lady] .
+[/EN#57982/people Man] serving [/EN#57983/people a customer] from [/EN#57984/scene a vegetable stand] .

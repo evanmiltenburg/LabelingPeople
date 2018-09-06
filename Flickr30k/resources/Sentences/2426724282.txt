@@ -1,0 +1,5 @@
+[/EN#48599/animals A small , white dog] with [/EN#48604/bodyparts his tongue] out is jumping up to catch [/EN#48600/other a toy] .
+[/EN#48602/clothing a small black and white] jumping to catch [/EN#48600/other something] in [/EN#48605/bodyparts its mouth] .
+[/EN#48599/animals White dog] with [/EN#48603/other dark markings] jumping to catch [/EN#48600/other an object] .
+[/EN#48599/animals A white dog] is jumping up in [/EN#0/notvisual the air] to catch [/EN#48600/other a Frisbee] .
+[/EN#48599/animals A dog] in [/EN#48601/scene a field] jumps for [/EN#48600/other a Frisbee] .

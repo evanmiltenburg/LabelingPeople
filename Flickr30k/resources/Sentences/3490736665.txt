@@ -1,0 +1,5 @@
+[/EN#122188/clothing A brown and white] dogs stands in front of [/EN#122185/scene a wooden building] while [/EN#122186/other tennis balls] fly through [/EN#0/notvisual the air] .
+[/EN#122184/animals A brown and white dog] in front of [/EN#122185/scene a shed] overwhelmed by [/EN#122186/other the onslaught of tennis balls] .
+[/EN#122184/animals A big dog] stands on [/EN#122187/bodyparts his hand leg] as [/EN#122186/other tennis balls] are thrown [/EN#0/notvisual his direction] .
+[/EN#122184/animals A dog] stands on [/EN#122187/bodyparts his hind legs] amid [/EN#122186/other a shower of tennis balls] .
+[/EN#122184/animals A dog] jumps for [/EN#122186/other several tennis balls] thrown at [/EN#0/notvisual him] .

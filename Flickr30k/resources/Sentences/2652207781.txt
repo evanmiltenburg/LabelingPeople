@@ -1,0 +1,5 @@
+[/EN#63957/people a latino teacher] wearing [/EN#63963/clothing a green shirt] is trying to throw [/EN#63959/other a dart] in [/EN#63958/scene his classroom] .
+[/EN#63957/people a man] is walking to [/EN#63958/scene the front of a conference room] .
+[/EN#63957/people A man] stands sit in [/EN#63958/scene a room] with [/EN#63962/other chairs] inside .
+[/EN#63957/people A man] walking through [/EN#63958/scene an empty classroom] .
+[/EN#63957/people Man] is demonstrating to [/EN#63961/people a student] .

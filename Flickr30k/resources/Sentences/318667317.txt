@@ -1,0 +1,5 @@
+[/EN#99503/people A homeless man] carries [/EN#99505/other a sign] [/EN#0/notvisual that] says [/EN#99507/other " hungry "] .
+[/EN#99503/people A man] in [/EN#99504/clothing a black hoodie] is holding [/EN#99505/other a paper sign] .
+[/EN#99503/people A man] in [/EN#99504/clothing a black hoodie] holding [/EN#99505/other a small sign] .
+[/EN#99503/people a homeless person] asking for [/EN#99506/other help]
+[/EN#99503/people A bearded man] holding [/EN#99505/other a sign] .

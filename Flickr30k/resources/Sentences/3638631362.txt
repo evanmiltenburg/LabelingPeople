@@ -1,0 +1,5 @@
+[/EN#133341/people A person] is picking up [/EN#133342/scene a yellow tent] by [/EN#0/notvisual his] or [/EN#0/notvisual herself] in [/EN#133344/scene the great outdoors] .
+[/EN#133341/people A man] holds [/EN#133342/scene a tent] on [/EN#133342/scene a mountain campsite] .
+[/EN#133341/people The man] holds [/EN#133342/scene his tent] up over [/EN#133345/bodyparts his head] .
+[/EN#133341/people A man] holding up [/EN#133342/scene a big , yellow tent] .
+[/EN#133341/people A man] holding up [/EN#133342/scene a yellow tent] .

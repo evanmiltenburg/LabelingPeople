@@ -1,0 +1,5 @@
+[/EN#159659/people A girl infant] is laying on [/EN#159663/other a changing table] with [/EN#159661/clothing clothing] and [/EN#159660/other blankets] piled next to [/EN#0/notvisual her] .
+[/EN#159659/people The new baby girl] fell asleep next to [/EN#159661/clothing her newly washed and folded clothing] and [/EN#159660/other blankets] .
+[/EN#159659/people A baby girl] sleeps with [/EN#159661/clothing piles of clothes] and [/EN#159660/other blankets] next to [/EN#0/notvisual her] .
+[/EN#159659/people A female baby] sleeping in between [/EN#159661/clothing folded clothing] .
+[/EN#159659/people A baby] is sleeping on [/EN#159662/other a blanket] .

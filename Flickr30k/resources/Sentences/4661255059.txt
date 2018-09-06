@@ -1,0 +1,5 @@
+[/EN#187952/people A man] kneeling on [/EN#187956/scene the street] in front of [/EN#187955/vehicles a graffiti laden car] and [/EN#187957/other some poster boards] with [/EN#187953/other artwork] on [/EN#0/notvisual them] .
+[/EN#187952/people A man] is kneeling down outside on [/EN#187956/scene a sidewalk] as [/EN#0/notvisual he] paints [/EN#187953/other abstract pictures] on [/EN#187957/other canvas] .
+[/EN#187952/people An artist] is working on [/EN#187954/other a canvas] next to [/EN#187955/vehicles a hand-painted car] .
+[/EN#187952/people A smiling artist] is kneeling on [/EN#187956/scene the sidewalk] .
+[/EN#187952/people Man] decorates [/EN#187955/vehicles a car] with [/EN#187954/other paintings] .

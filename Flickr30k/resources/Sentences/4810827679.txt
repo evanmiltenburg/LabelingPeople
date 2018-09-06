@@ -1,0 +1,5 @@
+[/EN#205498/people An older woman] in [/EN#205500/clothing a green shirt] leaning against [/EN#205499/other a white concrete block wall] [/EN#0/notvisual that] has [/EN#205501/other a sign] on [/EN#0/notvisual it] [/EN#0/notvisual that] says [/EN#205501/other No Estacione] .
+[/EN#205498/people A woman] wearing [/EN#205504/clothing brown capri pants] and [/EN#205500/clothing a green shirt] leans back against [/EN#205499/other a brick wall] .
+[/EN#205498/people A lady] wearing [/EN#205500/clothing a green t-shirt] is leaning against [/EN#205503/people a white column] .
+[/EN#205498/people An older woman] in [/EN#205500/clothing a green shirt] leans against [/EN#205499/other a white archway] .
+[/EN#205498/people A woman] is leaning on [/EN#205499/other a wall] .

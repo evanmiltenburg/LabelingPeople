@@ -1,0 +1,5 @@
+[/EN#177164/people A man] dressed in [/EN#177171/clothing blue] holds [/EN#177165/other a sign] while standing behind [/EN#177166/other a couple of trees] and in front of [/EN#177167/other a large concrete wall] with [/EN#177169/other red writing] on [/EN#0/notvisual it] .
+[/EN#177164/people A man] in [/EN#177170/clothing a black jacket] is standing between [/EN#177166/other two trees] holding up [/EN#177165/other a sign] .
+[/EN#177164/people A man] stands on [/EN#177168/scene the side of the road] , holding [/EN#177165/other a cardboard sign] .
+[/EN#177164/people A man] holds up [/EN#177165/other a cardboard sign] near [/EN#177167/other a wall] with [/EN#177169/other red graffiti] .
+[/EN#177164/people A man] stands with [/EN#177165/other a cardboard sign] on [/EN#177168/scene a road]

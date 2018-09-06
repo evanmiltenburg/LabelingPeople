@@ -1,0 +1,5 @@
+[/EN#18300/people A person] wearing [/EN#18305/clothing khaki pants] climbing up [/EN#18304/scene the side of a rocky cliff] .
+[/EN#18300/people A climber] is attached by [/EN#18302/other ropes] to [/EN#18301/bodyparts a brown colored rock face] .
+[/EN#18300/people A man] is scalling [/EN#18301/bodyparts a sheer rock face] with [/EN#18303/other a rope support] .
+[/EN#18300/people A mountain climber] scales [/EN#18301/bodyparts a steep rock face] .
+[/EN#18300/people A person] is climbing up [/EN#18304/other a rock] .

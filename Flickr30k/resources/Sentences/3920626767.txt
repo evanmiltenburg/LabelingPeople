@@ -1,0 +1,5 @@
+[/EN#148213/people A man] dressed in [/EN#148215/clothing red] is riding [/EN#148214/animals a beautiful white horse] in [/EN#148219/other some sort of exhibition or competition] .
+[/EN#148213/people A man] in [/EN#148215/clothing a red suit] is riding [/EN#148214/animals a white horse] with [/EN#148217/other a white and red ribbon] tied into [/EN#148216/bodyparts its mane] .
+[/EN#148213/people A flamboyantly dressed man] rides [/EN#148214/animals a horse] [/EN#148216/bodyparts whose mane] is colorfully set off .
+[/EN#148213/people A man] in [/EN#148215/clothing a red costume jacket] is riding [/EN#148214/animals a white horse] on [/EN#0/notvisual dirt ground] .
+[/EN#148213/people A man] in [/EN#148215/clothing a red dress coat] riding [/EN#148214/animals a white horse] in [/EN#148218/other sand] .

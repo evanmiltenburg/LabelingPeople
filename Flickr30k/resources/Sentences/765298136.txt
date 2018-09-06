@@ -1,0 +1,5 @@
+[/EN#272773/people A man] in [/EN#272775/clothing a red shirt] rappelling down [/EN#272776/scene a waterfall] with [/EN#272774/other a red rope] .
+[/EN#272773/people a man] in [/EN#272774/clothing a harness] wearing [/EN#272778/clothing a white hat] climbing down [/EN#272776/scene a waterfall]
+[/EN#272773/people A man] in [/EN#272775/clothing red] is climbing [/EN#272776/scene a waterfall] with [/EN#272774/other a red rope] .
+[/EN#272773/people The man] in [/EN#272779/clothing red] is propelling down [/EN#272776/scene the waterfall] .
+[/EN#272773/people A man] belaying down [/EN#272776/scene a waterfall]

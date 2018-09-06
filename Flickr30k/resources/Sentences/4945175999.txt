@@ -1,0 +1,5 @@
+[/EN#221722/people A group of people] walk , in [/EN#221723/other a relaxed line] , across [/EN#221724/scene a brick paved courtyard] .
+[/EN#221722/people A group of people] wait in [/EN#221723/other a long line] in [/EN#221725/scene a park] to view [/EN#221726/other a statue] .
+[/EN#221722/people A line of people] makes [/EN#221727/scene its way] up [/EN#221728/other the steps] .
+[/EN#221723/other The line] of waiting [/EN#221722/people people] is very long .
+[/EN#221722/people A crowd of people] are waiting in [/EN#221723/other line] .

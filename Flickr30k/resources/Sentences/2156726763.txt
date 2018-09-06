@@ -1,0 +1,5 @@
+[/EN#31570/people A young girl] in [/EN#31572/clothing a pink jacket] walking down [/EN#31571/scene a gravel path] in [/EN#31573/scene a wooded area] .
+[/EN#31570/people A girl] wearing [/EN#31572/clothing a pink coat] and [/EN#31575/clothing red hat] walks down [/EN#31571/scene a gravel path] .
+[/EN#31570/people A girl] in [/EN#31572/clothing a pink jacket] and [/EN#31572/clothing red hat] walking near [/EN#31574/scene grass] .
+[/EN#31570/people A little girl] in [/EN#31572/clothing a pink coat] is walking down [/EN#31571/scene a dirt road]
+[/EN#31570/people A little girl] in [/EN#31572/clothing a pink jacket] is walking .

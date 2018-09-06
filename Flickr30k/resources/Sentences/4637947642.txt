@@ -1,0 +1,5 @@
+[/EN#185411/people A man] in [/EN#185413/clothing a gray shirt] smoking [/EN#185412/other a cigarette] and getting [/EN#185414/other something] to eat .
+[/EN#185411/people A man] with [/EN#185412/other a cigarette] in [/EN#185417/bodyparts his mouth] fixing [/EN#185414/other a plate of food] .
+[/EN#185411/people Young man] with [/EN#185412/other a cigarette] placing [/EN#185414/other food] on [/EN#185416/other a paper plate] .
+[/EN#185411/people A man] in [/EN#185413/clothing a tank top] fixing [/EN#0/notvisual himself] [/EN#185414/other a hotdog] .
+[/EN#185411/people A man] in [/EN#185413/other a gray wife beater] grilling .

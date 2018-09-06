@@ -1,0 +1,5 @@
+[/EN#69194/people a woman] in [/EN#69196/clothing a colorful sari] walks with [/EN#69195/people a small boy] [/EN#0/notvisual who] is carrying [/EN#69197/clothing an umbrella] through [/EN#69200/scene a busy city] in [/EN#69199/other the pouring rain] .
+[/EN#69194/people A woman] and [/EN#69195/people child] with [/EN#69197/clothing an umbrella] walk through [/EN#69198/scene the street] in [/EN#69199/other the pouring rain] .
+[/EN#69194/people A woman] in [/EN#69196/clothing a sari] next to [/EN#69195/people a boy] holding [/EN#69197/clothing a red umbrella] in [/EN#69198/scene a rainy street]
+[/EN#69194/people The lady] and [/EN#69195/people child] walk to school in [/EN#69199/other the rain] .
+[/EN#69194/people A woman] walking in [/EN#69199/other the rain] with [/EN#69195/people a child] .

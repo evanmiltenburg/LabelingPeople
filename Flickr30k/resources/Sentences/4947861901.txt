@@ -1,0 +1,5 @@
+[/EN#222000/people A woman] pushing [/EN#222001/other a baby stroller] is holding [/EN#222003/people the hand of a young child] with [/EN#222009/clothing a white backpack] .
+[/EN#222000/people A woman] is walking down [/EN#222005/scene the street] , pushing [/EN#222001/other a stroller] and holding [/EN#222004/bodyparts her child 's hand] .
+[/EN#222000/people A woman] holding [/EN#222003/people the hand of a young child] walking down [/EN#222005/scene the street] .
+[/EN#222000/people A mother] pushing [/EN#222001/other a stroller] and holding [/EN#222002/people the hand of a toddler] .
+[/EN#222000/people A woman] walks with [/EN#222003/people a child] down [/EN#222007/scene the sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#104305/people Two workers] on [/EN#104302/other scaffolding painting] [/EN#104301/scene the face of a building] .
+[/EN#104304/people Man] are standing on [/EN#104303/other scaffolding] and working on [/EN#104301/scene a building] .
+[/EN#104300/people Three men] work on restoring [/EN#104301/scene the front of building] .
+[/EN#104300/people Three window washers] perform [/EN#104306/other their job] .
+[/EN#104300/people Three men] are on [/EN#104303/other scaffolding] .

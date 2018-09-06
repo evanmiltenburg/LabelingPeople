@@ -1,0 +1,5 @@
+[/EN#190144/people An older Asian man] wearing [/EN#190148/clothing jeans] , [/EN#190153/clothing white shirt] and [/EN#190151/clothing baseball cap] is carrying [/EN#190149/clothing a bag] leaving [/EN#190145/scene a building] .
+[/EN#190144/people A man] with [/EN#190147/bodyparts a long beard] wearing [/EN#190148/clothing jeans] and [/EN#190150/clothing a black jacket] stands in front of [/EN#190146/other an open door] .
+[/EN#190144/people A man] with [/EN#190147/bodyparts a long beard] is standing outside [/EN#190145/scene a brick building] .
+[/EN#190144/people An old Asian man] standing in [/EN#190152/scene the doorway of a building] .
+[/EN#190144/people A man] with [/EN#190147/bodyparts beard] is standing near [/EN#190146/other a door] .

@@ -1,0 +1,5 @@
+[/EN#228451/people Two young men] are playing [/EN#228452/other a board game] in [/EN#228453/scene the living room] .
+[/EN#228451/people Several men] are playing [/EN#228452/other a board game] in [/EN#228453/scene a living room] .
+[/EN#228451/people A few men] sitting on [/EN#228454/other sofas] , playing [/EN#228452/other a board game] .
+[/EN#228450/people Two men] playing [/EN#228452/other a board game] in [/EN#228453/scene the living room] .
+[/EN#228450/people A bunch of men] play [/EN#228452/other a card game] .

@@ -1,0 +1,5 @@
+[/EN#285079/animals A black dog] has [/EN#285080/other a dumbbell] in [/EN#285082/bodyparts his mouth] looking at [/EN#285081/people the person] wearing [/EN#286000/clothing blue] .
+[/EN#285079/animals A black dog] holding [/EN#285080/other a weight] in [/EN#285082/bodyparts its mouth] stands next to [/EN#285081/people a person] .
+[/EN#285079/animals The black dog] has [/EN#285080/other a toy] in [/EN#285082/bodyparts its mouth] and [/EN#285081/people a person] stands nearby .
+[/EN#285079/animals A black dog] holds [/EN#285080/other a small white dumbbell] in [/EN#285082/bodyparts its mouth] .
+[/EN#285079/animals A black dog] has [/EN#285080/other a dumbbell] in [/EN#285082/bodyparts his mouth] .

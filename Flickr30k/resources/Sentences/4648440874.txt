@@ -1,0 +1,5 @@
+[/EN#186505/people A painter] with [/EN#186508/clothing a gray t-shirt] and [/EN#186514/other tatted arm sketches] [/EN#186507/other a mural] with [/EN#186512/other extreme precision] and [/EN#186513/scene focus] .
+[/EN#186505/people An artist] with [/EN#186516/bodyparts tattoos] and [/EN#186508/clothing a gray shirt] is painting [/EN#186509/other a large sign] on [/EN#186507/other a brick wall] .
+[/EN#186505/people A young adult] is painting [/EN#186507/other an advertisement] on [/EN#186507/scene the side of a building] .
+[/EN#186505/people A tattooed man] paints on [/EN#186510/other the side of a brick wall] .
+[/EN#186505/people A woman] is painting [/EN#186507/other a sign] on [/EN#186507/other a blue brick wall] .

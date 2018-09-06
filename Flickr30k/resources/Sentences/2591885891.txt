@@ -1,0 +1,5 @@
+[/EN#60040/people A young , black man] , wearing [/EN#60043/clothing a white hat] and [/EN#60044/clothing white shirt] , using [/EN#60045/bodyparts his hands] and [/EN#60047/other a small object] to row [/EN#60042/vehicles/scene a small blue boat] forward in [/EN#60041/scene a large body of water] creating [/EN#60048/other ripples] in [/EN#60041/scene the water] .
+[/EN#60040/people A young black male] wearing [/EN#60044/clothing a white shirt] and [/EN#60043/clothing ball cap] is paddling [/EN#60046/other a small boxy] looking [/EN#60042/vehicles/scene blue boat] with [/EN#60045/bodyparts his hands] across [/EN#60041/scene a body of water] .
+[/EN#60040/people A man] in [/EN#60044/clothing a white shirt] is paddling [/EN#60042/vehicles/scene a little boat] by [/EN#60045/bodyparts hand] in [/EN#60041/scene a river] .
+[/EN#60040/people A man] in [/EN#60043/clothing a white cap] and [/EN#60044/other shirt hand-paddles] [/EN#60042/vehicles/scene a small blue boat] .
+[/EN#60040/people A young boy] in [/EN#60044/clothing white] paddling [/EN#60042/vehicles/scene a small boat] with [/EN#60045/bodyparts his hands] .

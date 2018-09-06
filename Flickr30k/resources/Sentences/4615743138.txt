@@ -1,0 +1,5 @@
+[/EN#183120/people An African-American band] is playing [/EN#183124/scene outdoors] on [/EN#183122/scene a stage] surrounded by [/EN#183128/other trees] .
+[/EN#183121/people An African American man] in [/EN#183129/clothing a brown shirt] is singing on [/EN#183122/scene a stage] .
+[/EN#183120/people A band] is playing on [/EN#183122/scene a stage] while [/EN#183126/people a lady] sings .
+[/EN#183121/people Man] singing on [/EN#183127/scene a stage] with [/EN#183120/people band] .
+[/EN#183125/scene A musical event] in [/EN#183123/scene the park] .

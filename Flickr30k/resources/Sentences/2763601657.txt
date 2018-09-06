@@ -1,0 +1,5 @@
+[/EN#71283/people The man] with [/EN#71289/clothing no shirt] and [/EN#71290/clothing flip-flops] looks at [/EN#71282/people the women] in [/EN#71291/clothing white shorts] .
+[/EN#71283/people A man] and [/EN#71282/people a woman] are walking past [/EN#71287/other benches] [/EN#0/notvisual that] overlook [/EN#71284/scene the water] .
+[/EN#71282/people a young couple] walking on [/EN#71285/scene the sidewalk] away from [/EN#71284/scene the beach] .
+[/EN#71283/people A man] and [/EN#71282/people woman] walk up [/EN#71285/scene a sidewalk] away from [/EN#71284/scene the water] .
+[/EN#71282/people A couple] strolls down [/EN#71285/scene a path] near [/EN#71287/other benches] and [/EN#71284/scene water] .

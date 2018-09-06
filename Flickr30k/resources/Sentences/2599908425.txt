@@ -1,0 +1,5 @@
+[/EN#60633/scene A construction site] with [/EN#60634/people a worker] in [/EN#60638/clothing a green bandanna] sitting down as [/EN#0/notvisual he] works on [/EN#60637/other something] .
+[/EN#60635/other A green tub] sits on [/EN#60643/scene the side of the road] next to [/EN#60633/scene a construction site] .
+[/EN#60634/people A man] wearing [/EN#60638/clothing a green headband] is working on [/EN#60639/other a construction project] .
+[/EN#60634/people A man] wearing [/EN#60641/clothing a tan shirt] is sitting next to [/EN#60635/other a green bucket] .
+[/EN#60634/people A construction worker] preparing [/EN#60640/other the curb] for [/EN#60642/other cement] .

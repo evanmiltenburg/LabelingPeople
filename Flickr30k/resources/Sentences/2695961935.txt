@@ -1,0 +1,5 @@
+[/EN#66638/animals A dog] jumping over [/EN#66639/other high jump poles] at [/EN#66642/other show] .
+[/EN#66638/animals A black and white dog] jumps over [/EN#66639/other a hurdle] .
+[/EN#66638/animals A small dog] jumps over [/EN#66639/scene a striped gate] .
+[/EN#66638/animals A dog] jumps over [/EN#66639/scene an obstacle outside] .
+[/EN#66638/animals A small dog] leaps [/EN#66639/other a barrier] .

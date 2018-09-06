@@ -1,0 +1,5 @@
+[/EN#93952/people A man] wearing [/EN#93960/clothing an orange cap] sits on [/EN#93955/other a white bench] beside [/EN#93956/other a blue trashcan] .
+[/EN#93952/people Man] hunched on [/EN#93955/other gray bench] marked [/EN#93957/other SAN DIEGO] , [/EN#93956/other neat blue trashcan] .
+[/EN#93952/people A man] wearing [/EN#93959/clothing a coat] and had sitting on [/EN#93955/other a bench] in [/EN#93958/scene the city] .
+[/EN#93952/people A man] sits on [/EN#93955/other a bench] on [/EN#93954/scene a San Diego street] .
+[/EN#93952/people Man] sitting on [/EN#93955/other a bench] on [/EN#93953/scene the sidewalk] .

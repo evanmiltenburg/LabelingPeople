@@ -1,0 +1,5 @@
+[/EN#44594/people A man] wearing [/EN#44595/clothing a brown suit] and [/EN#44597/clothing glasses] is taking into [/EN#44596/other a microphone] .
+[/EN#44594/people A man] in [/EN#44595/clothing a brown suit] is talking threw [/EN#44596/other a microphone] .
+[/EN#44594/people A man] in [/EN#44595/clothing suit] and tie [/EN#0/notvisual is] talking into [/EN#44596/other a microphone] .
+[/EN#44594/people a man] speaking directly into [/EN#44596/other a microphone]
+[/EN#44594/people A man] speaking with [/EN#44596/other a microphone] .

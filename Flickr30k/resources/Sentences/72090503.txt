@@ -1,0 +1,5 @@
+[/EN#267146/people A man] sits on [/EN#267151/other the steps] in [/EN#267150/scene a street] as [/EN#267148/people his child] plays happily on [/EN#267151/other the stairs] .
+[/EN#267146/people A man] sitting on [/EN#267151/other steps] with [/EN#267148/people a child] as [/EN#267147/people a bystander] walks by .
+[/EN#267152/people Kids] [/EN#0/notvisual that] are standing or sitting beside [/EN#267150/scene a street] .
+[/EN#267153/people Three people] and [/EN#267154/other a stroller] are beside [/EN#267149/scene a road] .
+[/EN#267150/scene a sidewalk] with [/EN#267155/other chalk] drawing along [/EN#267149/scene the edge]

@@ -1,0 +1,5 @@
+[/EN#130752/people A person] wearing [/EN#130760/clothing a red and white uniform] is racing [/EN#130753/other a motorcycle] with [/EN#130751/other the number 58] on [/EN#0/notvisual it] .
+[/EN#130753/other A red and white motorcycle] is being ridden around [/EN#130755/other a bend] on [/EN#130759/other a racetrack] .
+[/EN#130752/people A motorcycle rider] drives fast around [/EN#130755/other a curve] on [/EN#130756/scene a track] .
+[/EN#130757/clothing Red] and [/EN#130754/other white motorbike number] [/EN#130751/other 58 races] around [/EN#130756/scene the track] .
+[/EN#130752/people A man] racing on [/EN#130753/vehicles a motorbike]

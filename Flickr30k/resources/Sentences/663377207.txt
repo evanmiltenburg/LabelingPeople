@@ -1,0 +1,5 @@
+[/EN#256372/people A black man] wearing [/EN#256376/clothing a safety vest] and [/EN#256373/clothing hard hat] is dumpster diving and appears to be holding [/EN#256375/other a piece of electrical conduit] .
+[/EN#256372/people A man] in [/EN#256373/clothing a hard hat] is working near [/EN#256374/other a dumpster] .
+[/EN#256372/people A construction worker] works near [/EN#256377/vehicles a bulldozer] .
+[/EN#256372/people A construction worker] posing for [/EN#0/notvisual the camera] .
+[/EN#256372/people The man] with [/EN#256373/clothing white hat] is working so hard .

@@ -1,0 +1,5 @@
+[/EN#41296/people A person] wearing [/EN#41296/other a black hood] is sitting on [/EN#41297/scene a dock] by [/EN#41298/scene the water] .
+[/EN#41296/people A person] sitting next to [/EN#41301/other a tripod] watches [/EN#41302/vehicles/scene boats] in [/EN#41297/scene a harbor] .
+[/EN#41296/people A person] with [/EN#41304/clothing a black cap] looking at [/EN#41298/scene the water] .
+[/EN#41296/people A person] taking [/EN#41303/vehicles/scene pictures of fishing boats] .
+[/EN#41296/people A man] is watching [/EN#41305/bodyparts a ship head] out to [/EN#41299/scene sea] .

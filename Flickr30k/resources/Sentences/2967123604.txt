@@ -1,0 +1,5 @@
+[/EN#84506/people A young girl] with [/EN#84507/clothing a bib] smiles at [/EN#84505/people a man] while [/EN#0/notvisual she] sits behind [/EN#84512/other a purple lunch tray] and [/EN#84514/other pie] at [/EN#84513/other a table] .
+[/EN#84506/people The little girl] with [/EN#84507/clothing a bib] is looking at [/EN#84505/people the man] with [/EN#84511/clothing a black shirt] .
+[/EN#84506/people A little girl] is talking to [/EN#84505/people her father] while [/EN#0/notvisual she] is waiting to eat .
+[/EN#84505/people A dad] with [/EN#84506/people his child] and [/EN#84510/other an apple pie] .
+[/EN#84506/people A little girl] eats [/EN#84509/other breakfast] with [/EN#84505/people dad] .

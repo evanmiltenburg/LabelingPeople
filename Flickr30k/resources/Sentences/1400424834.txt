@@ -1,0 +1,5 @@
+[/EN#11313/people A tall , thin , brunette girl] wearing [/EN#11315/clothing combat boots] standing on [/EN#11314/scene a sidewalk] .
+[/EN#11313/people A lady] dressed in [/EN#11320/clothing shades of black] waits on [/EN#11314/scene the sidewalk] for [/EN#11318/vehicles/scene a train] .
+[/EN#11313/people Woman] in [/EN#11322/clothing zebra print top] and [/EN#11321/clothing tight jeans] standing on [/EN#11314/other a curb] .
+[/EN#11313/people A skinny girl] in [/EN#11315/clothing large boots] is standing by [/EN#11314/scene the roadside] .
+[/EN#11313/people A woman] standing by [/EN#11319/scene a wire fence] on [/EN#11314/scene a sidewalk] .

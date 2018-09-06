@@ -1,0 +1,5 @@
+[/EN#189156/people A man] in [/EN#189162/clothing a camel colored jacket] took [/EN#189157/scene pictures of the old building] with [/EN#189159/other many vines] growing on [/EN#189161/other its walls] .
+[/EN#189156/people a man] is taking [/EN#189157/scene a picture of an antique house] with [/EN#189159/other vines] growing on [/EN#189158/scene the outside] .
+[/EN#189156/people A photographer] takes [/EN#189157/scene a photo of a house] with [/EN#189159/other vines] climbing up [/EN#0/notvisual the sides] .
+[/EN#189156/people A photographer] is taking [/EN#189157/scene a picture of an ornate building] .
+[/EN#189156/people A photographer] is photographing [/EN#189159/scene a vine covered building] .

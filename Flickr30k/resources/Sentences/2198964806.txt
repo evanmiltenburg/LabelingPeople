@@ -1,0 +1,5 @@
+[/EN#33636/animals A brown and white dog] is jumping up , with [/EN#33638/other a stick] in [/EN#33639/bodyparts its mouth] .
+[/EN#33636/animals The brown and white dog] with [/EN#33637/clothing a green collar] is biting [/EN#33638/other a stick] .
+[/EN#33636/animals A dog] in [/EN#33637/clothing a green collar] fetches [/EN#33638/other a stick] from [/EN#33640/other the dead leaves] .
+[/EN#33636/animals A brown dog] with [/EN#33637/clothing green collar] holding [/EN#33638/other a stick] in [/EN#33639/bodyparts its mouth] .
+[/EN#33636/animals A brown dog] , holding [/EN#33638/other a stick] .

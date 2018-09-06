@@ -1,0 +1,5 @@
+[/EN#15002/people A little girl] has [/EN#15003/bodyparts her arms] around [/EN#15004/people a little boy] standing on [/EN#15005/scene a wooden bridge] in [/EN#15008/other the woods] .
+[/EN#15002/people A little girl] hugs [/EN#15004/people her brother] on [/EN#15005/other a footbridge] in [/EN#15009/scene a forest] .
+[/EN#15007/people Two little children] are on [/EN#15005/scene a wooden bridge] in [/EN#15008/other the woods] .
+[/EN#15002/people A girl] and [/EN#15004/people a boy] hugging on [/EN#15005/scene a bridge]
+[/EN#15007/people Two children] hugging on [/EN#15005/scene a bridge] .

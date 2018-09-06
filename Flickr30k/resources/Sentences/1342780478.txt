@@ -1,0 +1,5 @@
+[/EN#9257/people A man] with [/EN#9259/clothing a white shirt] and [/EN#9262/clothing tie] is standing on [/EN#9260/scene a sidewalk] between [/EN#9261/other cement barriers] .
+[/EN#9257/people A man] in [/EN#9259/clothing a dress shirt] and [/EN#9262/clothing tie] is standing in front of [/EN#9263/other a sign] selling [/EN#9264/other donuts] .
+[/EN#9257/people A man] stands among [/EN#9261/other cement fixtures] in front of [/EN#9258/scene a donut shop] .
+[/EN#9257/people Man] stands between [/EN#9261/other concrete barriers] near [/EN#9258/scene a donut shop] .
+[/EN#9257/people A well-dressed man] in [/EN#9260/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#133798/people A man] wearing [/EN#133801/clothing blue] is biking on [/EN#133803/scene a long , empty , road] with [/EN#133805/scene grass] on [/EN#0/notvisual either side] .
+[/EN#133798/people A man] with [/EN#133800/clothing a blue jacket] bikes [/EN#133803/scene a long a highway] lines with [/EN#133806/other green plains] .
+[/EN#133798/people A man] in [/EN#133802/clothing a blue shirt] is riding [/EN#133799/vehicles a bicycle] down [/EN#133803/scene a long paved road] .
+[/EN#133798/people A man] in [/EN#133802/clothing a blue shirt] is riding [/EN#133799/vehicles his bike] on [/EN#133803/scene a paved road] .
+[/EN#133798/people A man] in [/EN#133802/clothing a blue shirt] is riding [/EN#133799/vehicles a bike] along [/EN#133803/scene a road] .

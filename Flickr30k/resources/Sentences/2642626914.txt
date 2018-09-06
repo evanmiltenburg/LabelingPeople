@@ -1,0 +1,5 @@
+[/EN#63392/people A man] tows [/EN#63395/vehicles a trailer] with [/EN#63393/vehicles a small tractor-like vehicle] .
+[/EN#63392/people A man] wearing [/EN#63399/clothing a white hat] driving [/EN#63393/vehicles a JAL cart] .
+[/EN#63393/vehicles An airline runway vehicle] pulls [/EN#63393/vehicles a cargo cart] .
+[/EN#63392/people A man] driving [/EN#63393/vehicles a small cart] at [/EN#63397/scene an airport] .
+[/EN#63398/people Man] riding [/EN#63393/vehicles the JAL car] in [/EN#63397/scene an airport] .

@@ -1,0 +1,5 @@
+[/EN#81378/people A man] wearing [/EN#81379/clothing sunglasses] , [/EN#81380/clothing a blue sweatshirt] and carrying [/EN#81381/clothing a backpack] walks across [/EN#81385/scene a busy crosswalk] as [/EN#81382/vehicles cars] in [/EN#0/notvisual the background] wait at [/EN#81383/other a red light] .
+[/EN#81378/people A man] in [/EN#81380/clothing a blue shirt] and [/EN#81384/clothing blue jeans] wearing [/EN#81381/clothing a backpack] is crossing [/EN#81386/scene a city street] .
+[/EN#81378/people A woman] in [/EN#81380/clothing a purple shirt] walking across [/EN#81385/scene a busy intersection] .
+[/EN#81378/people A man] with [/EN#81381/clothing a backpack] crosses [/EN#81386/scene a busy street] .
+[/EN#81378/people A man] with [/EN#81381/clothing a backpack] crossing [/EN#81386/scene the street] .

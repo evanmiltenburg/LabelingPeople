@@ -1,0 +1,5 @@
+[/EN#188773/people A brunette woman] in [/EN#188775/clothing a blueish dress] and [/EN#188774/clothing a black bag] is riding on [/EN#188777/vehicles a scooter] on [/EN#188776/scene a city street] .
+[/EN#188773/people Woman] in [/EN#188775/clothing a blue dress] and carrying [/EN#188774/clothing a black purse] , rides [/EN#188777/vehicles a scooter] down [/EN#188776/scene the street] .
+[/EN#188773/people A woman] in [/EN#188775/clothing a blue print dress] is going down [/EN#188776/scene the street] on [/EN#188777/vehicles a scooter] .
+[/EN#188773/people A woman] in [/EN#188775/clothing a blue dress] is [/EN#188776/scene outside] riding [/EN#188777/vehicles a scooter] .
+[/EN#188773/people A lady] in [/EN#188775/clothing a blue dress] riding on [/EN#188777/vehicles a scooter] .

@@ -1,0 +1,5 @@
+[/EN#185116/people A woman] wearing [/EN#185120/clothing a sundress] with [/EN#185122/other flowers] on [/EN#0/notvisual it] is walking down [/EN#185119/scene a country path] carrying [/EN#185117/other a pink bucket] .
+[/EN#0/notvisual This] is [/EN#185124/people the picture of a woman] in [/EN#185120/clothing a flowered dress] , toting [/EN#185117/other something] in [/EN#185117/other a bucket] .
+[/EN#185116/people A girl] in [/EN#185120/clothing a flowered dress] is carrying [/EN#185117/other a pink bucket] down [/EN#185119/scene a path] next to [/EN#185121/scene a fence] .
+[/EN#185116/people A woman] in [/EN#185120/clothing a floral dress] is carrying [/EN#185117/scene a bucket of water] down [/EN#185119/scene a countryside path] .
+[/EN#185116/people Woman] carrying [/EN#185117/scene a bucket of water] down [/EN#185119/scene a tranquil dirt path] .

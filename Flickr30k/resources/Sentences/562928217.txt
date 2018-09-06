@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#240017/animals a dog] with [/EN#240013/other a Frisbee] and [/EN#240015/animals a dog] jumping up to get [/EN#240014/other a ball] in [/EN#240021/scene the green grass] .
+[/EN#240012/animals Two dogs] jump for [/EN#240014/other the same tennis ball] as [/EN#240015/animals a dog] runs with [/EN#240013/other a Frisbee] in [/EN#0/notvisual the background]
+[/EN#240012/animals Two dogs] reach for [/EN#240013/other a yellow Frisbee] as [/EN#0/notvisual it] flies through [/EN#0/notvisual the air] .
+[/EN#240012/animals Two dogs] jumping for [/EN#240014/other a ball] , with [/EN#240018/other a third] carrying [/EN#240013/other a Frisbee] .
+[/EN#240016/clothing A black] and [/EN#240015/animals a white dog] are going after [/EN#240014/other a tennis ball] .

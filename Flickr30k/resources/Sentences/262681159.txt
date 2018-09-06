@@ -1,0 +1,5 @@
+[/EN#62347/people A girl] wearing [/EN#62348/clothing a red shirt] is pulling on [/EN#62349/clothing the necklace] [/EN#0/notvisual she] is wearing .
+[/EN#62347/people The young lady] with [/EN#62348/clothing the red shirt] is in front of [/EN#62350/people the crowd] .
+[/EN#62347/people Girl] in [/EN#62348/clothing red shirt] holding [/EN#62349/clothing her necklace] in [/EN#62350/people a large crowd] .
+[/EN#62347/people A blond girl] in [/EN#62348/clothing a red shirt] holding [/EN#62349/clothing her necklace] .
+[/EN#62347/people A girl] plays with [/EN#62349/clothing her necklace] at [/EN#62351/scene night] .

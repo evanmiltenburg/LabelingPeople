@@ -1,0 +1,5 @@
+[/EN#76861/people A man] in [/EN#76862/clothing a t-shirt] , [/EN#76863/clothing shorts] and [/EN#76864/clothing cap] , sitting on [/EN#76865/other a park bench] , reading [/EN#76866/other a paper] .
+[/EN#76861/people A man] in [/EN#76864/clothing a cap] and [/EN#76863/clothing shorts] sits on [/EN#76865/other a metal bench] reading [/EN#76866/other a newspaper] .
+[/EN#76861/people A man] sits on [/EN#76865/other a bench] near [/EN#76868/scene a sidewalk] , reading [/EN#76866/other a newspaper] .
+[/EN#76861/people A man] reads [/EN#76866/other the paper] on [/EN#76867/other a wood] [/EN#76865/other an iron park bench] .
+[/EN#76861/people A man] sits on [/EN#76865/other a bench] reading [/EN#76866/other a newspaper] .

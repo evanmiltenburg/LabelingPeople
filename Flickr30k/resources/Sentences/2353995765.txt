@@ -1,0 +1,5 @@
+[/EN#43632/people A group of smiling people] are sitting around [/EN#43630/other a table] in [/EN#43636/scene an amber lit room] holding [/EN#43631/other drinks] in [/EN#43639/bodyparts their hands] .
+[/EN#43629/people A group of men] and [/EN#43638/people women] are sitting at [/EN#43630/other a table] drinking [/EN#43631/other beers] .
+[/EN#43629/people A group of people] are enjoying [/EN#0/notvisual themselves] at [/EN#43630/other a table] .
+[/EN#43633/people A man] in [/EN#43640/clothing a black shirt] enjoying [/EN#43635/other a drink] with [/EN#43637/people friends] .
+[/EN#43629/people A group of people] at [/EN#43634/scene a bar] .

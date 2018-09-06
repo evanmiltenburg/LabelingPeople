@@ -1,0 +1,5 @@
+[/EN#114115/animals Two dogs] are waiting with [/EN#114121/bodyparts their mouths] open by [/EN#114119/people a person] sat in [/EN#114116/other a dining room chair] .
+[/EN#114115/animals Two dogs] begging [/EN#114119/people a partially seen person] for [/EN#114120/other food] at [/EN#114118/other a kitchen table] .
+[/EN#114115/animals Two dogs] are barking in [/EN#114117/scene a kitchen] while [/EN#114119/people a person] sits at [/EN#114118/other a table] .
+[/EN#114115/animals Two dogs] are waiting to be fed in [/EN#114117/scene the kitchen] .
+[/EN#114115/animals two dogs] bark at [/EN#114119/people a man] in [/EN#114116/other a chair] .

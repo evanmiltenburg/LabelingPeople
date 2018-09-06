@@ -1,0 +1,5 @@
+[/EN#138055/people A man] in [/EN#138057/clothing a gray sweater] and [/EN#138062/clothing khaki pants] is standing next to [/EN#138056/scene a small red and yellow building] , where [/EN#0/notvisual there] is [/EN#138059/other an array of raw meat] hanging from [/EN#138058/other a pole] outside [/EN#138061/other a window] .
+[/EN#138055/people An older man] in [/EN#138057/clothing a gray shirt] standing by [/EN#138056/scene a building] [/EN#0/notvisual that] has [/EN#138059/other meat] hanging out to dry .
+[/EN#138055/people A man] stands in front of [/EN#138056/scene a house] next to [/EN#138059/other steaks] hanging from [/EN#138058/other a metal pole] .
+[/EN#138060/scene The grim of the shop] makes [/EN#138055/people the man] wonder if [/EN#0/notvisual she] should still work there .
+[/EN#138055/people A black man] in [/EN#138057/clothing a sweater] stands beside [/EN#138056/scene his run-down butcher shop] .

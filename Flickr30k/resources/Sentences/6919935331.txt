@@ -1,0 +1,5 @@
+[/EN#261428/people A man] with [/EN#261429/clothing a red coat] skis down [/EN#261430/other a slope] with [/EN#261432/other a tree] visible behind [/EN#0/notvisual him] .
+[/EN#261428/people Someone] in [/EN#261429/clothing a red coat] and [/EN#261431/other white helmet skis] past [/EN#261432/other some trees] .
+[/EN#261428/people A skier] in [/EN#261433/scene red sprays snow] against [/EN#0/notvisual a white background] .
+[/EN#261428/people A skier] in [/EN#261429/scene red banks] sharply , [/EN#261433/scene spraying snow] .
+[/EN#261428/people A man] in [/EN#261429/clothing a red jacket] skis down [/EN#261430/other a slope] .

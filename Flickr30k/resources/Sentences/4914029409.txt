@@ -1,0 +1,5 @@
+[/EN#217708/people A little boy] with [/EN#217710/clothing a blue bike helmet] and [/EN#217712/people a woman] in [/EN#217711/clothing a green bike helmet] are riding [/EN#217707/vehicles bikes] down [/EN#217706/scene a street] with [/EN#217714/people other various bike riders] .
+[/EN#217705/people People] are riding [/EN#217707/vehicles bicycles] in [/EN#217706/scene the street] , and [/EN#0/notvisual they] are all wearing [/EN#217713/clothing helmets] .
+[/EN#217705/people A group of people] [/EN#217707/vehicles ride bicycles] on [/EN#217706/scene a large city street] .
+[/EN#217709/people Asian people] ride [/EN#217707/vehicles their bikes] in [/EN#217706/scene the street] .
+[/EN#217705/people Many people] outside on [/EN#217707/vehicles bicycles] .

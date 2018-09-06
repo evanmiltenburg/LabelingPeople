@@ -1,0 +1,5 @@
+[/EN#46932/people A woman] in [/EN#46933/clothing a brown coat] holding [/EN#46933/clothing a Macy 's shopping bag] walks down [/EN#46934/scene a public street] .
+[/EN#46932/people A woman] carrying [/EN#46933/clothing a white bag] with [/EN#46936/other a red star] walking on [/EN#46937/scene the sidewalk] .
+[/EN#46932/people A woman] is carrying [/EN#46933/clothing a shopping bag] as [/EN#0/notvisual she] walks down [/EN#46934/scene the sidewalk] .
+[/EN#46932/people A woman] is walking on [/EN#46937/other concrete] and carrying [/EN#46933/clothing a shopping bag] .
+[/EN#46932/people A woman] walking under [/EN#46938/scene the train track] with [/EN#46933/clothing a Macy 's bag] .

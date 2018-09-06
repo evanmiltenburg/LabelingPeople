@@ -1,0 +1,5 @@
+[/EN#141535/people The back of a person] wearing [/EN#141531/clothing a blue hat] and [/EN#141534/clothing overalls] sitting in [/EN#141532/vehicles a cart] pulled by [/EN#141533/animals an animal] .
+[/EN#141529/people A male] wearing [/EN#141534/clothing blue overalls] , and [/EN#141531/clothing a blue hat] , rides [/EN#141532/vehicles a small house drawn carriage] .
+[/EN#141529/people A person] in [/EN#141530/clothing blue] being pulled on [/EN#141532/vehicles a buggy] past [/EN#141536/other a stop sign] .
+[/EN#141529/people A person] is riding in [/EN#141533/animals a donkey] pulled [/EN#141532/vehicles cart] .
+[/EN#141529/people A woman] riding [/EN#141532/vehicles a horse buggy] .

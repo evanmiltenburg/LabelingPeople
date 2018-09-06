@@ -1,0 +1,5 @@
+[/EN#27175/people Two parasailors] on [/EN#27171/other one parasail] landing on [/EN#27172/scene a sandy beach] in front of [/EN#27176/other a large rocky boulder] and [/EN#27177/scene the water] .
+[/EN#27170/people A person] on [/EN#27172/scene a beach] in [/EN#27173/vehicles a green hang glider] .
+[/EN#27170/people A person] in [/EN#27173/vehicles a hang-glider] .
+[/EN#27174/other Hang] glider on [/EN#27172/scene beach]
+[/EN#27171/other A small parasail] .

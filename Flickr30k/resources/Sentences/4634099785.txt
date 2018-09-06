@@ -1,0 +1,5 @@
+[/EN#184853/people A man] in [/EN#184854/clothing a black jacket] with [/EN#184859/clothing black pants] is walking down [/EN#184855/scene a street of buildings] .
+[/EN#184853/people A man] in [/EN#184854/clothing a black jacket] is walking [/EN#184860/animals his small dog] in [/EN#184858/scene a quaint neighborhood] .
+[/EN#184853/people A balding man] is walking down [/EN#184861/other a narrow roadway] in [/EN#184857/scene a foreign country] .
+[/EN#184853/people A man] is walking in front of [/EN#184855/scene the buildings] on [/EN#184855/scene the road] .
+[/EN#184853/people A man] walking down [/EN#184855/scene the street] .

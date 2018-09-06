@@ -1,0 +1,5 @@
+[/EN#60078/people A girl] with [/EN#60080/clothing a red and white swimming cap] and [/EN#60081/clothing goggles] [/EN#0/notvisual who] is swimming in [/EN#60079/scene a pool] .
+[/EN#60078/people A lady] wearing [/EN#60080/clothing a red and white polka dot swim cap] is swimming in [/EN#60079/scene a pool] .
+[/EN#60078/people An woman] in [/EN#60080/clothing a red swim cap] and [/EN#60081/clothing black goggles] swims [/EN#60082/bodyparts laps] in [/EN#60083/other her lane] .
+[/EN#60078/people A young girl] is swimming in [/EN#60079/scene a pool] .
+[/EN#60078/people Girl] in [/EN#60080/clothing polka dot cap] swimming .

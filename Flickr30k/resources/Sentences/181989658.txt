@@ -1,0 +1,5 @@
+[/EN#21456/people A woman] carrying [/EN#21457/other a mannequin] is walking down [/EN#21459/scene the sidewalk] and talking on [/EN#21458/other a mobile phone] .
+[/EN#21456/people A woman] walking on [/EN#21459/scene a street] talking on [/EN#21458/other the phone] and [/EN#0/notvisual she] is carrying [/EN#21457/other a mannequin]
+[/EN#21456/people A woman] is walking with [/EN#21458/other her cellphone] , while carrying [/EN#21457/other a huge mannequin] .
+[/EN#21456/people A woman] walking down [/EN#21459/scene the street] is carrying [/EN#21460/people a knight] in [/EN#21461/clothing/scene shining armor] .
+[/EN#21456/people A woman] talking on [/EN#21458/other her cellphone] while carrying [/EN#21457/other a dummy] .

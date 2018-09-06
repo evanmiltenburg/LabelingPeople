@@ -1,0 +1,5 @@
+[/EN#64249/people A man] wearing [/EN#64250/clothing an orange shirt] , [/EN#64258/clothing camouflage pants] , and [/EN#64256/clothing a protective mask] uses [/EN#64254/other a chainsaw] to chop down [/EN#64251/other a tree] on [/EN#64257/scene the sidewalk] .
+[/EN#64249/people A person] working for [/EN#64255/scene the city] begins cutting down [/EN#64251/other a tree] .
+[/EN#64249/other A working] cutting [/EN#64251/other a tree] with [/EN#64250/clothing an orange vest] on .
+[/EN#64249/people A city worker] prepares to cut down [/EN#64251/other a tree] .
+[/EN#64249/people county worker] cutting down [/EN#64251/other a tree] .

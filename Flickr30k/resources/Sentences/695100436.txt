@@ -1,0 +1,5 @@
+[/EN#262270/people A man] driving [/EN#262269/other heavy machinery] is going through [/EN#262271/scene a field] with [/EN#262274/other rocks] .
+[/EN#262270/people A man] drives [/EN#262269/vehicles a bulldozer] through [/EN#262271/scene a green , rocky field] .
+[/EN#262269/vehicles A bulldozer] is pushing [/EN#262274/other stones] and [/EN#262272/scene dirt] into [/EN#262275/people a pile] .
+[/EN#262269/vehicles A bulldozer] in [/EN#262271/other a field of rocks] and [/EN#262272/scene dirt] .
+[/EN#262270/people A man] in [/EN#262269/other tractor] is plowing [/EN#262274/other rocks] .

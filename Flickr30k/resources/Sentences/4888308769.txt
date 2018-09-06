@@ -1,0 +1,5 @@
+[/EN#215053/people A asian male] rides [/EN#215054/vehicles a bike] in [/EN#215055/scene the streets of a large brightly lit city] .
+[/EN#215053/people A man] riding [/EN#215054/vehicles a bike] tries to cross [/EN#215055/scene a busy street] .
+[/EN#215053/people A cyclist] riding through [/EN#215055/scene a busy part of a city] .
+[/EN#215053/people A boy] on [/EN#215054/vehicles a bicycle] is looking at [/EN#215056/scene the building] .
+[/EN#215053/people A bicycler] is admiring [/EN#215055/other the city life] .

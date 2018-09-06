@@ -1,0 +1,5 @@
+[/EN#36078/people A man] in [/EN#36080/clothing a winter coat] walks along [/EN#36079/scene a deeply shadowed area of a sidewalk] , by [/EN#36081/scene the broad wall of a building] .
+[/EN#36078/people A person] walks on [/EN#36079/scene an empty sidewalk] wearing [/EN#36080/clothing a heavy coat] .
+[/EN#36078/people A guy] wearing [/EN#36080/clothing a parka] is walking on [/EN#36079/scene an empty sidewalk] .
+[/EN#36078/people A person] in [/EN#36080/clothing a parka] is walking on [/EN#36079/scene a sidewalk] .
+[/EN#36078/people A man] in [/EN#36080/clothing a jacket] walking on [/EN#36079/scene the sidewalk] .

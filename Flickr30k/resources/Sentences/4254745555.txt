@@ -1,0 +1,5 @@
+[/EN#160388/people A man] is standing in [/EN#160390/scene the street] next to [/EN#160391/scene a doorway] while [/EN#0/notvisual he] holds [/EN#160394/bodyparts his hands] behind [/EN#160396/other his back] .
+[/EN#160388/people A man] in [/EN#160389/clothing a black vest] , [/EN#160395/clothing white shirt] and [/EN#160393/clothing black pants] stands in [/EN#160390/scene a sunny alley] .
+[/EN#160388/people A man] with [/EN#160392/bodyparts a mustache] is standing in [/EN#160390/scene an empty street] .
+[/EN#160388/people A man] in [/EN#160389/clothing a vest] stands on [/EN#160390/scene a quiet street] .
+[/EN#160388/people A man] stands in [/EN#160390/scene the street] .

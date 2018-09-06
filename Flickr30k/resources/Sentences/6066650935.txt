@@ -1,0 +1,5 @@
+[/EN#247367/people 2 people] on [/EN#247363/vehicles bikes] riding away on [/EN#247362/scene the distant road] with [/EN#247376/other their backs] toward [/EN#247377/other us] as [/EN#247369/scene the road] [/EN#0/notvisual they] are on [/EN#247372/other extends] on into [/EN#0/notvisual the distance] .
+[/EN#247361/people A man] and [/EN#247360/people a woman] on [/EN#247363/vehicles bikes] are bicycling down [/EN#247362/scene a large highway] in [/EN#247371/other the trail lane] , along with [/EN#247360/people other bikers] and [/EN#247364/people joggers] .
+[/EN#247359/people A girl] and [/EN#247361/people a guy] biking down [/EN#247362/scene a long strip of road] with [/EN#247364/people people] jogging in [/EN#0/notvisual the distance] .
+[/EN#247360/vehicles A female and male bike] riding on [/EN#247370/scene a sunny day] .
+[/EN#247366/people A line of people] are biking down [/EN#247362/scene a road] .

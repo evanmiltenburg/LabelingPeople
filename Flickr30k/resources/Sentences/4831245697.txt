@@ -1,0 +1,5 @@
+[/EN#208555/people A man] in [/EN#208557/clothing a blue shirt] is in [/EN#0/notvisual the distance] at [/EN#208558/scene a bar] .
+[/EN#208555/people A man] wearing [/EN#208557/clothing a Blue shirt] is talking to [/EN#208556/people someone] .
+[/EN#208555/people A man] in [/EN#208557/clothing a blue shirt] is standing at [/EN#208558/scene a bar] .
+[/EN#208560/scene a bar] with [/EN#208555/people a man] and [/EN#208561/people a woman] talking
+[/EN#208555/people Man] in [/EN#208557/clothing blue shirt] working [/EN#208558/scene the bar] .

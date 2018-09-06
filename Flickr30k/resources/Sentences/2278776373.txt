@@ -1,0 +1,5 @@
+[/EN#38603/people A man] in [/EN#38610/clothing a blue and purple striped shirt] and [/EN#38609/clothing hat] is walking past [/EN#38604/scene a brick building] .
+[/EN#38603/people A young man] in [/EN#38609/clothing a white beanie] is walking down [/EN#38608/scene the road] and passing by [/EN#38604/scene a garage] .
+[/EN#38603/people A man] walking down [/EN#38606/scene a street] by [/EN#38604/scene a garage] .
+[/EN#38603/people A person] walking past [/EN#38611/other a brick] shed .
+[/EN#38603/people A boy] walks [/EN#38607/scene near buildings] .

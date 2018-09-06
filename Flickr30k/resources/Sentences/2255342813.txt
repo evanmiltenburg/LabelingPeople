@@ -1,0 +1,5 @@
+[/EN#37203/people A person] wearing black with [/EN#37204/clothing a white helmet] is going down [/EN#37208/scene a mountainside] with [/EN#37205/scene water] below .
+[/EN#37203/people A person] climbing down [/EN#37209/other a rocky cliffside] with [/EN#37205/scene water] below .
+Looking down on [/EN#37203/people someone] climbing [/EN#37208/scene a cliff] over [/EN#37205/scene water] .
+[/EN#37203/people A person] repelling on [/EN#37206/bodyparts the side of a cliff face] .
+[/EN#37207/other Extreme] climbing over [/EN#37205/scene ocean]

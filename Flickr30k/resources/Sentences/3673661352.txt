@@ -1,0 +1,5 @@
+[/EN#135991/people A man] in [/EN#135996/clothing a uniform] with [/EN#135998/clothing black sunglasses] stands behind [/EN#135993/people a man] with [/EN#135994/clothing a red shirt] and [/EN#135992/clothing hat] sitting on [/EN#0/notvisual the ground] .
+[/EN#135991/people A man] in [/EN#135996/clothing uniform] and [/EN#135998/clothing sunglasses] standing next to [/EN#135993/people a man] wearing [/EN#135994/clothing a red shirt] [/EN#0/notvisual who] is sitting down .
+[/EN#135991/people An officer] with [/EN#135993/people a man] in [/EN#135992/clothing a black ball cap] and [/EN#135994/clothing red shirt] sitting on [/EN#135993/scene the dirt] near [/EN#135995/other a tree] .
+[/EN#135991/people A law enforcement official] has [/EN#135993/people a suspect] seated on [/EN#0/notvisual the ground] in [/EN#136001/other his custody] .
+[/EN#135999/people Two men] stand under [/EN#135995/other a tree] outside [/EN#136000/scene a house] .

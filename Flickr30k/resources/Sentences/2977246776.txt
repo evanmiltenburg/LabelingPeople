@@ -1,0 +1,5 @@
+[/EN#85138/people A small child] shows [/EN#85142/other excitement] on [/EN#85139/other a swing] set at [/EN#85141/scene the park]
+[/EN#85138/people The girl] is being pushed on [/EN#85139/other the swing] by [/EN#85140/people the woman] .
+[/EN#85138/people A little girl] swings , [/EN#85140/people a woman] stands behind [/EN#0/notvisual her] .
+[/EN#85140/people a mom] pushes [/EN#85138/people her little girl] on [/EN#85139/other the swing] .
+[/EN#85140/people Woman] stands behind [/EN#85138/people young girl] on [/EN#85139/other swing] set

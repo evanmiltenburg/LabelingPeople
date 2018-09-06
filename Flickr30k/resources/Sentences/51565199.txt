@@ -1,0 +1,5 @@
+[/EN#230018/people Man] with [/EN#230022/bodyparts purple hair] and [/EN#230020/clothing a blue shirt] fixing [/EN#230021/other a vacuum] with [/EN#230019/people another white man] , [/EN#0/notvisual who] is older .
+[/EN#230018/people A young man] with [/EN#230020/clothing a blue shirt] and [/EN#230022/bodyparts pink hair] helps [/EN#230019/people an older man] repair [/EN#230021/other a vacuum] cleaner .
+[/EN#230018/people A young man] with [/EN#230022/bodyparts pink hair] and [/EN#230019/people an older man] work to fix [/EN#230021/other a vacuum] cleaner .
+[/EN#230018/people A man] with [/EN#230022/bodyparts pink hair] is helping [/EN#230019/people an older man] [/EN#0/notvisual that] is sitting down .
+[/EN#230019/people the old people] and [/EN#230018/people the young people]

@@ -1,0 +1,5 @@
+[/EN#84415/people A young toddler] lays on [/EN#84416/scene a gray cobbled outdoor floor] , [/EN#0/notvisual there] is [/EN#84418/other dead leaves] on [/EN#0/notvisual the ground] .
+[/EN#84415/people A young child] lies on [/EN#84419/other his back] on [/EN#84417/other concrete slabs] .
+[/EN#84415/people Child] dressed in [/EN#84420/clothing blue shirt] lying on [/EN#84416/scene the road]
+[/EN#84415/people a child] is on [/EN#0/notvisual the ground] crying .
+[/EN#84415/people Toddler] crying on [/EN#0/notvisual the ground] .

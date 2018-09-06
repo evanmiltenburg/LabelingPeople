@@ -1,0 +1,5 @@
+[/EN#230003/people Skateboarder] doing [/EN#230003/other a kick] flip off of [/EN#230008/other a raised platform] onto [/EN#230004/scene a sidewalk] .
+[/EN#230003/people A skateboarding male] is riding on [/EN#230008/other rails] on [/EN#230004/scene a city street] in [/EN#230009/other daylight] .
+[/EN#230003/people An adolescent male] is performing [/EN#230003/other a skateboarding stunt] in [/EN#230007/scene a city] .
+[/EN#230003/people A skateboarder] is performing [/EN#0/notvisual a trick] near [/EN#230004/scene a busy street] .
+[/EN#230003/people A boy] doing [/EN#0/notvisual a skateboarding trick] on [/EN#230004/scene a city sidewalk] .

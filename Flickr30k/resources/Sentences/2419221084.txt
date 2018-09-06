@@ -1,0 +1,5 @@
+[/EN#47979/animals A white dog] runs past [/EN#47980/animals another dog] [/EN#0/notvisual who] is standing beside [/EN#47981/other some patio furniture] .
+[/EN#47982/animals two small brown and white dogs] standing beside [/EN#47981/other some white chairs]
+[/EN#47982/animals Two dogs] are outside near [/EN#47981/other patio furniture] .
+[/EN#47982/animals Two small white dogs] play in [/EN#47983/scene the yard] .
+[/EN#47982/animals Two small dogs] play on [/EN#47983/scene the lawn] .

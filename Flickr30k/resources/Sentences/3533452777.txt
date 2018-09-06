@@ -1,0 +1,5 @@
+[/EN#125467/people A person] is [/EN#125470/clothing a shiny hat] , [/EN#125469/clothing a shiny coat] , and [/EN#125474/clothing jeans] has [/EN#125475/bodyparts his head] facing down .
+[/EN#125467/people Street Performer] dressed in [/EN#125469/clothing shiny clothing] uses [/EN#125471/other a cellphone] on [/EN#125468/vehicles/scene the bus] .
+[/EN#125467/people A man] in [/EN#125469/clothing an all silver outfit] and [/EN#125470/clothing top hat] is texting .
+[/EN#125467/people A man] in [/EN#125472/clothing a silver coat] and [/EN#125470/clothing hat] sitting on [/EN#125468/vehicles/scene a bus] .
+[/EN#125467/people Man] in [/EN#125469/clothing a silver suit] sits on [/EN#125473/other a trolley] .

@@ -1,0 +1,5 @@
+[/EN#216010/people The man] leads [/EN#216009/animals his black and white dog] across [/EN#216011/other a blue obstacle] .
+[/EN#216009/animals A dog] walks across [/EN#216011/scene a ramp] with [/EN#216010/people a man] standing near .
+[/EN#216009/animals A dog] stands on top of [/EN#216011/other a long , blue plank of wood] .
+[/EN#216009/animals A dog] on [/EN#216011/other an obstacle platform] and [/EN#216010/people a man] .
+[/EN#216010/people A man] outdoors near [/EN#216014/other equipment] .

@@ -1,0 +1,5 @@
+[/EN#29318/people An older man] wearing [/EN#29319/clothing a blue hat] and [/EN#29322/clothing dark clothes] , sits on [/EN#29320/other a ledge] with [/EN#29321/clothing a bag] resting near [/EN#29323/bodyparts his feet]
+[/EN#29318/people An elderly man] in [/EN#29319/clothing a blue hat] sitting on [/EN#29320/other a cement wall] while looking at [/EN#0/notvisual the ground] .
+[/EN#29318/people An elderly man] in [/EN#29319/clothing a blue ball cap] staring at [/EN#0/notvisual the ground] .
+[/EN#29318/people An older man] sitting in front of [/EN#29324/vehicles a car] .
+[/EN#29318/people An elderly man] resting on [/EN#29320/other a brick wall] .

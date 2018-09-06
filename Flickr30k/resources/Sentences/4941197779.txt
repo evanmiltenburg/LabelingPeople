@@ -1,0 +1,5 @@
+[/EN#221155/people A person] on [/EN#221156/other a cellphone] stands at [/EN#221157/other a window] in [/EN#221159/scene a high ceiling room] with [/EN#221162/clothing black white] [/EN#221160/other an red tile] .
+[/EN#221155/people A man] standing on [/EN#221158/scene a tiled floor] in front of [/EN#221157/other a large arched window] with [/EN#221156/other a phone] to [/EN#221163/bodyparts his ear] .
+[/EN#221155/people Man] looking out [/EN#221157/other window] while standing on [/EN#221158/scene multicolored tile floor] .
+[/EN#221155/people Man] on [/EN#221156/other a cellphone] inside of [/EN#221161/scene a well-designed building] .
+[/EN#221155/people A man] is looking out [/EN#221157/scene the window of a building] .

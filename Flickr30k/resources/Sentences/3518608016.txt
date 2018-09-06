@@ -1,0 +1,5 @@
+[/EN#124326/people A woman] playing with [/EN#124327/animals a brown dog] on [/EN#124329/scene a garden path] .
+[/EN#124326/people A woman] is petting [/EN#124327/animals her dog] near [/EN#124329/scene a stone path] .
+[/EN#124326/people A woman] plays with [/EN#124327/scene her dog outside] .
+[/EN#124326/people A woman] is petting [/EN#124327/scene a dog outside] .
+[/EN#124326/people A woman] plays with [/EN#124327/animals a brown dog] .

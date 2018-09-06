@@ -1,0 +1,5 @@
+[/EN#272636/people A white woman] in [/EN#272638/clothing a blue uniform] is wrapping [/EN#272643/clothing a bandage] around [/EN#272640/people an arm of a black woman] [/EN#0/notvisual who] is wearing [/EN#272637/clothing a blue hooded sweatshirt] .
+[/EN#272636/people One young woman] in [/EN#272638/clothing a blue uniform] helping [/EN#272640/people another young woman] in [/EN#272637/clothing a blue sweatshirt] with [/EN#272644/people a white band] around [/EN#272645/bodyparts/people her arm] .
+[/EN#272636/people A woman] in [/EN#272638/clothing a blue uniform] wraps [/EN#272640/people the arm of a young lady] .
+[/EN#272636/people A woman] is bandaging [/EN#272642/bodyparts/people another woman 's injured arm] .
+[/EN#272636/people A student] practices bandaging up [/EN#272636/people another student] .

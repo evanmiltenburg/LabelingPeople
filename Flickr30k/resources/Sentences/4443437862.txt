@@ -1,0 +1,5 @@
+[/EN#168744/people A woman] carrying [/EN#168745/clothing a bag] with [/EN#168746/people a little girl] in [/EN#168752/clothing a pink dress] walking behind [/EN#0/notvisual her] and [/EN#168750/people a man] in [/EN#168747/clothing a blue shirt] walking towards [/EN#0/notvisual her] .
+[/EN#168744/people A person] walks outside carrying [/EN#168745/clothing a bag] , while [/EN#168746/people a young girl] in [/EN#168755/clothing pink] walks behind [/EN#0/notvisual her] .
+[/EN#168744/people A lady] wearing [/EN#168748/clothing a dark outfit] and carrying [/EN#168745/clothing a white bag] is walking along [/EN#168753/scene a street] .
+[/EN#168744/people A woman] walking [/EN#168754/scene home] from [/EN#168751/scene the market] in [/EN#168749/scene a dirty neighborhood] .
+[/EN#168744/people A woman] is walking and holding [/EN#168745/clothing a plastic bag] .

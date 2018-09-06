@@ -1,0 +1,5 @@
+[/EN#250947/people A man] and [/EN#250948/people a woman] wearing [/EN#250951/clothing helmets] and [/EN#250954/clothing sunglasses] are sitting outside in [/EN#250957/scene a park] .
+[/EN#250947/people A man] and [/EN#250948/people a woman] [/EN#0/notvisual both] wearing [/EN#250953/clothing helmets] and [/EN#250948/people the woman] is also wearing [/EN#250950/clothing a mask] .
+[/EN#250955/people Two people] are wearing [/EN#250953/clothing helmets] and [/EN#250954/clothing sunglasses] on [/EN#250958/scene a sunny day] .
+[/EN#250948/people A woman] with [/EN#250950/clothing a mask] sits behind [/EN#250947/people a man] on [/EN#250952/other a motorcycle] .
+[/EN#250947/people A man] and [/EN#250948/people a woman] seated on [/EN#250952/other a motorcycle] .

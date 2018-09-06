@@ -1,0 +1,5 @@
+[/EN#34855/people a young man] with [/EN#34856/clothing a hairnet] over [/EN#34858/bodyparts his hair] and [/EN#34861/bodyparts his mouth] wearing [/EN#34862/clothing a black jacket] .
+[/EN#34855/people A man] wears [/EN#34857/clothing a mask] around [/EN#34861/bodyparts his mouth] and [/EN#34856/clothing a hairnet] by [/EN#34863/other a brick wall] .
+[/EN#34855/people A man] is wearing [/EN#34858/bodyparts protective hair] and [/EN#34857/other face coverings] .
+[/EN#34855/people A man] wears [/EN#34858/clothing a clear plastic cap] and [/EN#34857/clothing face mask] .
+[/EN#34855/people Young man] wearing [/EN#34858/clothing hairnet] on [/EN#34858/bodyparts head] and [/EN#34856/bodyparts face]

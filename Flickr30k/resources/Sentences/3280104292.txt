@@ -1,0 +1,5 @@
+[/EN#106591/people A person] in [/EN#106595/clothing a dark outfit] is walking down [/EN#106593/other a stairwell] [/EN#0/notvisual which] contains [/EN#106592/other a shadow of an object] .
+[/EN#106591/people An individual] is walking down [/EN#106593/other a set of steps] with [/EN#106594/clothing a bag] in [/EN#106597/bodyparts their left hand] .
+[/EN#106591/people A person] walking down [/EN#106593/other stairs] and [/EN#0/notvisual you] can see [/EN#106592/scene a long shadow]
+[/EN#106592/people A shadow of a man] standing over [/EN#106596/scene a staircase] .
+[/EN#106591/people Man] walking down [/EN#106593/other the steps of a steeple] .

@@ -1,0 +1,5 @@
+[/EN#201489/people A man] pointing into [/EN#201493/bodyparts the ear] wearing [/EN#201494/clothing a striped shirt] in [/EN#201485/vehicles/scene a small boat] filled with [/EN#201487/people many people] .
+[/EN#201485/vehicles/scene A crowded boat] is holding [/EN#201489/people men] , [/EN#201492/people women] , and [/EN#201486/people children] .
+[/EN#201486/people A group of people] are on [/EN#201490/vehicles/scene a boat] in [/EN#201488/scene the water] .
+[/EN#201487/people People] are sitting in [/EN#201485/vehicles/scene a boat] on [/EN#201488/scene the water] .
+[/EN#201487/people A group of people] on [/EN#201485/vehicles/scene a boat] in [/EN#201488/scene the water] .

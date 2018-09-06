@@ -1,0 +1,5 @@
+[/EN#108664/people A girl] with [/EN#108673/clothing a blue shirt] and [/EN#108667/people a girl] with [/EN#108674/clothing a striped shirt] stand next to [/EN#108668/people a girl] with [/EN#108675/clothing a green shirt] sitting in [/EN#108666/other a chair] .
+[/EN#108661/people Several women] are standing in [/EN#108663/scene the breakroom] next to [/EN#108669/other the table] with [/EN#108670/other the white cake] .
+[/EN#108661/people Several people] are gathered in [/EN#108663/scene a room] with [/EN#108665/other a bulletin board] and [/EN#108672/other small television] .
+[/EN#108661/people Three ladies] are standing in [/EN#108663/scene a room] [/EN#0/notvisual that] looks like [/EN#108663/other a work lounge] .
+[/EN#108661/people Women] gather in [/EN#108663/scene an office breakroom] .

@@ -1,0 +1,5 @@
+[/EN#280167/animals A furry white dog] is carrying [/EN#280169/other a stick] in [/EN#280170/bodyparts its mouth] through [/EN#280168/scene the grass] .
+[/EN#280167/animals The dog] runs through [/EN#280168/scene the grass] carrying [/EN#280169/other a stick] in [/EN#280170/bodyparts its mouth] .
+[/EN#280167/animals A black and white dog] is carrying [/EN#280169/other a stick] in [/EN#280168/scene a field] .
+[/EN#280167/animals A dog] running in [/EN#280168/scene the grass] with [/EN#280169/other a stick] in [/EN#280170/bodyparts his mouth] .
+[/EN#280167/animals A shaggy dog] carries [/EN#280169/other a stick] through [/EN#280168/scene a grassy field] .

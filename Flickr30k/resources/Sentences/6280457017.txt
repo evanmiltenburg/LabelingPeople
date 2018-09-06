@@ -1,0 +1,5 @@
+[/EN#251531/people A person] wearing [/EN#251533/clothing a white jumpsuit] is riding [/EN#251532/other a fast moving motorcycle] on [/EN#251534/other a racetrack] .
+[/EN#251531/people A person] rides [/EN#251532/other a motorcycle] , with [/EN#251537/other the front wheel] lifting slightly off [/EN#0/notvisual the ground] .
+[/EN#251531/people Someone] is riding [/EN#251532/other a motorcycle] down [/EN#251534/other a racetrack] during [/EN#251536/other daylight hours] .
+[/EN#251531/people A motorcyclist] in [/EN#251533/other red and white leather] flies down [/EN#251534/scene the track] .
+[/EN#251531/people A motorcycle racer] speeds around [/EN#251534/scene a track] .

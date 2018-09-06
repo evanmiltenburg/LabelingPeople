@@ -1,0 +1,5 @@
+[/EN#10849/animals Three dogs] , [/EN#10850/other two black one] brown , are playing in [/EN#10851/scene a grass field] .
+[/EN#10848/animals A brown dog] and [/EN#10850/animals two black dogs] in [/EN#10851/scene an overgrown grassy field] .
+[/EN#10849/animals Three dogs] in [/EN#10851/scene a field] looking at [/EN#10853/other something] in [/EN#10851/scene the grass] .
+[/EN#10849/animals Three dogs] play in [/EN#10851/scene a field] near [/EN#10852/scene a house] to [/EN#10854/scene the right] .
+[/EN#10850/animals Two black dogs] and [/EN#10848/animals one brown dog] in [/EN#10851/scene tall grass] .

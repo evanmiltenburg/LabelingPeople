@@ -1,0 +1,5 @@
+[/EN#126312/people The man] in [/EN#126313/clothing the green jacket] is playing [/EN#126314/instruments the piano] next to [/EN#126315/people a woman] [/EN#0/notvisual who] is by [/EN#126316/scene a music stand] .
+[/EN#126312/people A man] is sitting in front of [/EN#126314/instruments a harpsichord] , and [/EN#126315/people a woman] is preparing to sing .
+[/EN#126312/people A man] dressed in [/EN#126313/clothing a green jacket] is playing [/EN#126314/instruments piano] while [/EN#126315/people a woman] sings .
+[/EN#126312/people A person] playing [/EN#126314/instruments the piano] with [/EN#126315/people a singer] nearby .
+[/EN#126312/people A pianist] and [/EN#126315/people a singer] are ready to perform .

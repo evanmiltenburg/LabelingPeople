@@ -1,0 +1,5 @@
+[/EN#172055/people A man] walks up to [/EN#172057/scene a red and yellow building] to pay for [/EN#172062/other gas] on [/EN#172061/scene a gold but sunny day] .
+[/EN#172055/people Man] in [/EN#172059/clothing red] walking toward [/EN#172057/scene a red gas station kiosk] [/EN#0/notvisual that] reads , " [/EN#172056/other Diesel Gas] " .
+[/EN#172055/people A man] in [/EN#172059/clothing a red jacket] walks by [/EN#172057/scene a red gas station office] .
+[/EN#172055/people A man] is walking by [/EN#172057/other a diesel refilling station] .
+[/EN#172055/people Picture of a guy] at [/EN#172057/scene a gas station] .

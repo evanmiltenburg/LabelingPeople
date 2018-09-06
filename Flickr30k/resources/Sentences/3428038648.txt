@@ -1,0 +1,5 @@
+[/EN#117484/people A boy] holds [/EN#117485/other a net] with [/EN#117486/animals a snake] in [/EN#0/notvisual it] close to [/EN#0/notvisual the ground] .
+[/EN#117484/people A child] plays with [/EN#117485/other a tennis racket] on [/EN#0/notvisual the ground] .
+[/EN#117484/people A child] holds [/EN#117485/people a catcher] with [/EN#117487/animals a mouse] in [/EN#0/notvisual it] .
+[/EN#117484/people A boy] playing with [/EN#117485/other a racquet] .
+[/EN#117484/people A boy] holds [/EN#117485/other a fishing net] .

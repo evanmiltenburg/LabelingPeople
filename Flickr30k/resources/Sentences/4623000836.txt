@@ -1,0 +1,5 @@
+[/EN#183805/people A group of kids] walk down [/EN#183807/scene an urban street] passing by [/EN#183806/other graffiti] and [/EN#183809/vehicles a small car] and [/EN#183808/vehicles a couple bicycles] .
+[/EN#183805/people A group of youth] pass [/EN#183809/vehicles some vehicles] and [/EN#183806/other a graffiti adorned wall] as [/EN#0/notvisual they] make [/EN#183811/scene their way] through [/EN#183812/scene town] .
+[/EN#183805/people Group of children] walking down [/EN#183807/scene sidewalk] in front of [/EN#183813/other wall] tagged with [/EN#183806/other spray paint] .
+[/EN#183805/people Group of kids] walking down [/EN#183807/scene the street] next to [/EN#183806/other a wall of graffiti] .
+[/EN#183805/people Group of colored people] walking [/EN#183807/scene the street] .

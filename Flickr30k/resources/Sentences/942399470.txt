@@ -1,0 +1,5 @@
+[/EN#283817/people A long-bearded man] wearing [/EN#283819/clothing a coat] , [/EN#283821/clothing fur vest] , and [/EN#283820/clothing broad brimmed fur-trimmed hat] .
+[/EN#283817/people A bearded man] is sitting on [/EN#283818/other a bench] wearing [/EN#283821/other a fur] lined [/EN#283821/clothing jacket] and [/EN#283820/clothing hat] .
+[/EN#283817/people The man] with [/EN#283823/bodyparts a long beard] and [/EN#283824/bodyparts moustache] , wearing [/EN#283820/clothing a hat] , sits outside .
+[/EN#283817/people Man] wearing [/EN#283821/clothing animal skins] sitting on [/EN#283818/other a green bench] .
+[/EN#283817/people A bearded man] with [/EN#283819/clothing animal hide coat] and [/EN#283820/clothing hat] .

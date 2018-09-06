@@ -1,0 +1,5 @@
+[/EN#220003/people A woman] with [/EN#220008/bodyparts long hair] and [/EN#220005/clothing a white top] stands on [/EN#220004/scene a city street] while [/EN#220012/people two people] stand beside [/EN#0/notvisual her] .
+[/EN#220003/people Three people] including [/EN#220003/people a long-haired girl] with [/EN#220010/bodyparts/people her arm] outstretched and [/EN#220011/bodyparts her hand] palm up .
+[/EN#220003/people A young redheaded female] walks on [/EN#220004/scene the street] with [/EN#220006/people her friend] at [/EN#0/notvisual her side] .
+[/EN#220002/people A girl] in [/EN#220005/clothing a white blouse] showing [/EN#220003/people someone] around .
+[/EN#220002/people A Girl] with [/EN#220008/bodyparts long brown hair] standing outside .

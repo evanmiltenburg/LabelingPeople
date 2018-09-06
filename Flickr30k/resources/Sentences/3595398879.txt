@@ -1,0 +1,5 @@
+[/EN#130256/people A young boy] in [/EN#130257/clothing a baseball cap] jumps into [/EN#130259/people the arms of a man] wearing [/EN#130258/clothing a blue shirt] .
+[/EN#130256/people A young boy] in [/EN#130258/clothing a blue shirt] and [/EN#130257/clothing cap] is jumping into [/EN#130259/bodyparts a man 's arms] .
+[/EN#130256/people A young boy] jumping from [/EN#130260/other a height] into [/EN#130259/people the arms of an man] .
+[/EN#130256/people The young boy] jumps into [/EN#130259/bodyparts the man 's arms] .
+[/EN#130256/people A little boy] jumps into [/EN#130259/bodyparts the man 's arms] .

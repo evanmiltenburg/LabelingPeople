@@ -1,0 +1,5 @@
+[/EN#101195/people A woman] in [/EN#101196/clothing a long sweater] and [/EN#101199/clothing jeans] , is running away , down [/EN#101197/scene a path] .
+[/EN#101195/people A person] jogs down [/EN#101197/scene a paved surface] in [/EN#101200/scene a rural setting] .
+[/EN#101195/people A person] wearing [/EN#101199/clothing jeans] and [/EN#101196/clothing a coat] jogs on [/EN#101197/scene a sidewalk] .
+[/EN#101195/people A person] jogging on [/EN#101197/scene a sidewalk] .
+[/EN#101195/people A person] running down [/EN#101197/scene the road]

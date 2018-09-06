@@ -1,0 +1,5 @@
+[/EN#56248/people A little girl] with [/EN#56251/clothing black sunglasses] drives [/EN#56250/vehicles a 4x4 red Jeep] while [/EN#56249/people a little boy] stands in [/EN#0/notvisual the background] dressed in [/EN#56252/clothing blue] .
+[/EN#56249/people A young boy] in [/EN#56252/clothing blue] is chasing [/EN#56248/people a young girl] sitting in [/EN#56250/vehicles a play car] .
+[/EN#56249/people A little boy] chases [/EN#56248/people a little girl] [/EN#0/notvisual who] is driving [/EN#56250/vehicles a red toy jeep] .
+[/EN#56248/people A little girl] rides [/EN#56250/vehicles a toy car] while [/EN#56249/people her brother] walks behind .
+[/EN#56248/people A girl] drives [/EN#56250/vehicles a toy truck] while [/EN#56249/people a young boy] plays behind [/EN#0/notvisual her]

@@ -1,0 +1,5 @@
+[/EN#79810/people A soccer team player] in [/EN#79812/clothing a green shirt] is running off [/EN#79811/scene the field] .
+[/EN#79810/people A soccer player] wearing [/EN#79812/clothing a green shirt] is jogging on [/EN#79811/scene the field] .
+[/EN#79810/people A man] in [/EN#79812/clothing a green top] and [/EN#79814/clothing gloves] trots across [/EN#79811/scene a ball field] .
+[/EN#79810/people A soccer player] in [/EN#79812/clothing a green uniform] is running .
+[/EN#79810/people A soccer player] in [/EN#79812/clothing green] runs down [/EN#79811/scene the field] .

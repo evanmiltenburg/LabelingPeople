@@ -1,0 +1,5 @@
+[/EN#136347/people A blond toddler] in [/EN#136351/clothing a light green shirt] sitting in [/EN#136348/other a green chair] surrounded by [/EN#136350/other other green chairs] .
+[/EN#136347/people A little girl] is turned around in [/EN#136352/scene her seat] at [/EN#136347/scene an event] .
+[/EN#136347/people A little blond girl] is sitting on [/EN#136348/other a green chair] .
+[/EN#136347/people A young girl] with [/EN#136354/bodyparts blond-hair] holding onto [/EN#136347/other a rail]
+[/EN#136347/people A cute toddler girl] waits in [/EN#136348/other her stroller] .

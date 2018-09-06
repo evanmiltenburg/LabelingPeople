@@ -1,0 +1,5 @@
+[/EN#154545/people An Indian man] is cooking using [/EN#154549/other traditional ingredients] .
+[/EN#154545/people A man] wearing [/EN#154546/clothing a blue apron] is cooking in [/EN#154547/scene a kitchen] .
+[/EN#154545/people A cook] is in [/EN#154547/scene the kitchen] looking at [/EN#0/notvisual the camera] .
+[/EN#154545/people A man] cooking [/EN#154548/other some food] in [/EN#154547/scene a kitchen] .
+[/EN#154545/people A man] in [/EN#154546/clothing a blue apron] in [/EN#154547/scene a kitchen] .

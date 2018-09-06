@@ -1,0 +1,5 @@
+[/EN#204689/people Two people] sit at [/EN#204690/other a table] under [/EN#204691/scene a tent] as [/EN#204696/people a third man] stands near [/EN#0/notvisual them] .
+[/EN#204689/people Two people] are sitting under [/EN#204691/scene a tent] while [/EN#0/notvisual another] stands .
+[/EN#204688/people A family] camping with [/EN#204694/other an RV] and sitting around [/EN#204690/other a table] .
+[/EN#204688/people A group of people] relax outside of [/EN#204693/people a camper] .
+[/EN#204692/people Two man] and [/EN#204697/people a woman] camping at [/EN#204695/scene a park] .

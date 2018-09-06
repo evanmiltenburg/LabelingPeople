@@ -1,0 +1,5 @@
+[/EN#132391/people A little blond girl] sitting down looking at [/EN#132395/other a stack of books] .
+[/EN#132392/people Two little girls] reading [/EN#132393/other a book] at [/EN#132394/scene the library] .
+[/EN#132392/people Two blond girls] reading [/EN#132396/other books] in [/EN#132394/scene a bookstore] .
+[/EN#132392/people Two young blond girls] read in [/EN#132394/scene the library] .
+[/EN#132391/people A young child] is reading [/EN#132393/other a book] .

@@ -1,0 +1,5 @@
+[/EN#169866/people Bicyclists] and [/EN#169872/people pedestrians] share [/EN#169869/scene the road] with [/EN#169868/vehicles/scene a bus] going down [/EN#169869/scene an urban street] while [/EN#169873/scene two tall buildings] loom in [/EN#0/notvisual the background] .
+[/EN#169866/people Two people] are riding [/EN#169867/vehicles their bicycles] through [/EN#169871/scene the city] .
+[/EN#169866/people People] are riding [/EN#169867/vehicles bikes] next to [/EN#169868/vehicles/scene a blue and green bus] .
+[/EN#169865/people A man] rides [/EN#169870/vehicles a bike] down [/EN#169869/scene a city street] .
+[/EN#169865/people A man] is riding [/EN#169867/vehicles a bicycle] near [/EN#169868/vehicles/scene a bus] .

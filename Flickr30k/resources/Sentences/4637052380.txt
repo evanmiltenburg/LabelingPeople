@@ -1,0 +1,5 @@
+[/EN#185234/people A young man] with [/EN#185238/clothing glasses] is playing [/EN#185236/instruments the violin] .
+[/EN#185234/people A man] in [/EN#185237/clothing a gray coat] and [/EN#185235/clothing hat] playing [/EN#185236/instruments the violin] .
+[/EN#185234/people A man] wearing [/EN#185235/clothing a gray hat] is playing [/EN#185236/instruments a violin] .
+[/EN#185234/people A man] is playing [/EN#185236/instruments a violin] on [/EN#185239/scene a street] .
+[/EN#185234/people A musician] playing [/EN#185236/instruments his violin] .

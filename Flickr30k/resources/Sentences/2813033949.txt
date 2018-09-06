@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#74402/animals a white and black dog] jumping off [/EN#0/notvisual the ground] trying to catch [/EN#74403/other a ball] .
+[/EN#74402/animals A white and black dog] is jumping in [/EN#0/notvisual the air] trying to catch [/EN#74403/other a tennis ball] .
+[/EN#74402/animals A white and black dog] is playing with [/EN#74403/other a tennis ball] near [/EN#74404/other flowers] .
+[/EN#74402/animals A black and white dog] jumps for [/EN#74403/other a tennis ball] .
+[/EN#74402/animals A black and white dog] jumping for [/EN#74403/other a ball] .

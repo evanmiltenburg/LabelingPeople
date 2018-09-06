@@ -1,0 +1,5 @@
+[/EN#128359/people A man] riding [/EN#128360/animals a brown horse] is twirling [/EN#128361/other a lasso] above [/EN#128362/bodyparts his head] .
+[/EN#128359/people A cowboy] is riding [/EN#128360/animals a horse] whilst spinning [/EN#128361/other a lasso] around .
+[/EN#128359/people a cowboy] riding [/EN#128360/animals a horse] , swinging [/EN#128361/other a rope] above [/EN#128362/bodyparts his head]
+[/EN#128359/people A cowboy] waves [/EN#128361/other a lasso] in [/EN#0/notvisual the air] at [/EN#128364/other a horse show] .
+[/EN#128359/people The cowboy] prepares to lasso [/EN#128363/animals the bull] .

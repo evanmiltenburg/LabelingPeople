@@ -1,0 +1,5 @@
+[/EN#143817/people A man] on [/EN#143819/other horseback] in [/EN#143826/scene a rodeo arena] is trying to lasso [/EN#143818/animals a black calf] .
+[/EN#143817/people A man] riding [/EN#143819/animals a horse] is chasing after [/EN#143818/animals a young cow] with [/EN#143823/other a lasso] .
+[/EN#143817/people A man] on [/EN#143819/animals a horse] is attempting to lasso [/EN#143818/animals a dog] .
+[/EN#143817/people Cowboy] roping [/EN#143818/animals a black calf] from [/EN#143819/animals a brown horse] .
+[/EN#143817/people A man] on [/EN#143819/animals a horse] throws [/EN#143823/other a lasso] at [/EN#143818/animals a calf] .

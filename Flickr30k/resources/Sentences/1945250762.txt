@@ -1,0 +1,5 @@
+[/EN#23752/people A boy] wearing [/EN#23753/clothing a black shirt] and [/EN#23756/clothing blue jeans] is holding [/EN#23754/other gray cloth] in [/EN#23757/bodyparts his right hand] .
+[/EN#23752/people A young boy] in [/EN#23753/clothing a black shirt] and [/EN#23756/clothing blue jeans] holding up [/EN#23754/other a gray rag] .
+[/EN#23752/people Boy] in [/EN#23753/clothing black shirt] holding up [/EN#23754/scene a piece of garbage outdoors] .
+[/EN#23752/people Man] in [/EN#23754/other black carrying tattered cloth] .
+[/EN#23752/people A boy] cleaning up [/EN#23754/other garbage]

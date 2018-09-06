@@ -1,0 +1,5 @@
+[/EN#193238/people A man] with [/EN#193242/clothing a checked shirt] on is carrying [/EN#193239/other a skateboard] walking down [/EN#193235/scene the road] .
+[/EN#193234/people Two skateboarders] walking down [/EN#193235/scene a sidewalk] in front of [/EN#193240/other many parking signs] .
+[/EN#193234/people Two skateboarders] walking down [/EN#193235/scene a street] filled with [/EN#193241/other no parking] sings .
+[/EN#193234/people Two men] walking down [/EN#193235/scene the sidewalk] carrying [/EN#193237/other skateboards] .
+[/EN#193234/people Two men] holding [/EN#193237/other skateboards] walk down [/EN#193235/scene a sidewalk] .

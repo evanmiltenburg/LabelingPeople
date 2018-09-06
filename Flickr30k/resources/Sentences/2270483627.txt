@@ -1,0 +1,5 @@
+[/EN#38087/animals A tan dog] splashing in [/EN#38088/scene water] on [/EN#38088/scene the bank of a pond or river] .
+[/EN#38087/animals A light colored dog] splashes through [/EN#38088/scene the water] .
+[/EN#38087/animals A white dog] is splashing through [/EN#38088/scene the water] .
+[/EN#38087/animals A light brown dog] is running in [/EN#38088/scene the water] .
+[/EN#38087/animals A big tan dog] jumps in [/EN#38088/scene the water] .

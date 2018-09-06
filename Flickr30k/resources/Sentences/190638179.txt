@@ -1,0 +1,5 @@
+[/EN#22931/people Man] in [/EN#22937/clothing green shirt] and [/EN#22935/clothing cargo khakis] standing next to [/EN#22932/vehicles a green jeep] .
+[/EN#22931/people A man] in [/EN#22933/clothing a hat] stands in front of [/EN#22932/vehicles a gray jeep] in [/EN#22934/scene dry grass] .
+[/EN#22931/people A man] in [/EN#22933/clothing a hat] standing outside of [/EN#22932/other his green jeep rangler] .
+[/EN#22931/people Man] standing on [/EN#22934/scene a dirt hill] next to [/EN#22932/vehicles a black jeep] .
+[/EN#22931/people A man] next to [/EN#22932/vehicles his black jeep] .

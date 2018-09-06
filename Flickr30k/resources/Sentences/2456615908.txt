@@ -1,0 +1,5 @@
+[/EN#50964/animals A black dog] carries [/EN#50965/animals a bird] in [/EN#50966/bodyparts its mouth] as [/EN#0/notvisual it] jumps over [/EN#50967/scene a fence] .
+[/EN#50964/animals The black dog] is jumping over [/EN#50967/scene a fence] with [/EN#50965/animals a bird] in [/EN#50966/bodyparts its mouth] .
+[/EN#50964/animals a black dog] jumping [/EN#50967/scene a wire fence] with [/EN#50965/animals a dead bird] in [/EN#50966/bodyparts his mouth] .
+[/EN#50964/animals A dog] trying to jump [/EN#50967/scene a wire fence] with [/EN#50965/other something] in [/EN#50966/bodyparts his mouth] .
+[/EN#50964/animals A dog] , holding [/EN#50965/animals a bird] in [/EN#50966/bodyparts its mouth] , jumping [/EN#50967/scene a fence] .

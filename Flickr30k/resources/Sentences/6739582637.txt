@@ -1,0 +1,5 @@
+With [/EN#257349/vehicles/scene a bus] in [/EN#257356/scene the foreground right] on [/EN#257357/other the picture] , [/EN#257347/people 3 bikers] ride [/EN#257358/other the white line] on [/EN#257352/scene the side of the road] , [/EN#257347/people all] in [/EN#257347/people single file] with [/EN#257359/clothing their helmets] on and [/EN#257360/other the first] wearing [/EN#257361/clothing a green shirt] with [/EN#257362/clothing a backpack] and [/EN#257350/vehicles a white car] following closely behind [/EN#0/notvisual them] .
+[/EN#257348/people Three people] on [/EN#257354/vehicles bicycles] , pedaling down [/EN#257352/scene the side of a road] , with [/EN#257350/vehicles a jeep] following [/EN#0/notvisual them] .
+[/EN#257348/people Three people] are cycling along [/EN#257351/scene a road] behind [/EN#257349/vehicles/scene a colorful bus] and in front of [/EN#257350/vehicles a white car] .
+[/EN#257347/people Bicyclists] ride along with [/EN#257353/vehicles traffic] on [/EN#257351/scene a town road] .
+[/EN#257348/people Three bikers] biking with [/EN#257353/vehicles traffic] following [/EN#257349/vehicles/scene a bus] .

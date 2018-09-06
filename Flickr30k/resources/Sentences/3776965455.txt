@@ -1,0 +1,5 @@
+[/EN#142222/people A man] and [/EN#142227/people woman] , [/EN#142229/other each] wearing [/EN#142225/clothing a white shirt] , are walking down [/EN#142223/scene the sidewalk] while talking on [/EN#142228/other their phones] .
+[/EN#142221/people A couple] wearing [/EN#142226/clothing white shirts] are walking down [/EN#142224/scene the street] while using [/EN#142228/other their cellphones] .
+[/EN#142222/people A man] with [/EN#142225/clothing a white shirt] and [/EN#142227/people a woman] with [/EN#142226/clothing a white shirt] are talking on [/EN#142228/other their phones] .
+[/EN#142221/people Two people] with [/EN#142225/clothing white shirts] walking up [/EN#142223/scene the sidewalk] talking on [/EN#142228/other their phones] .
+[/EN#142221/people The couple] is walking down [/EN#142224/scene the street] talking on [/EN#142228/other their cellphones] .

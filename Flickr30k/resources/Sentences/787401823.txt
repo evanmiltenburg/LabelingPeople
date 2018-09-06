@@ -1,0 +1,5 @@
+[/EN#276254/people A young woman] in [/EN#276256/clothing a dark hat] is sitting on [/EN#276257/other something] in [/EN#276255/scene the large body of water] with [/EN#276259/scene green mountains] in [/EN#0/notvisual the background] and [/EN#276261/bodyparts her legs] are in [/EN#276255/scene the water] .
+[/EN#276254/people A woman] , wearing [/EN#276258/clothing a white shirt] and [/EN#276260/clothing green shorts] , sitting on [/EN#276257/other a rock] in [/EN#276255/scene a beautiful body of water] .
+[/EN#276254/people A girl] in [/EN#276256/clothing a black hat] is sitting on [/EN#276257/other a rock] in [/EN#276255/scene the shallow end of a lake] .
+[/EN#276254/people A young lady] sitting on [/EN#276257/other a rock] in [/EN#276255/scene the middle of a lake] .
+[/EN#276254/people Female] sitting in [/EN#276255/scene the middle of the lake] on [/EN#276257/other a rock] .

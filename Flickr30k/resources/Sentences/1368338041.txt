@@ -1,0 +1,5 @@
+[/EN#10306/animals Three small dogs] , [/EN#10312/clothing two white and one black and white] , on [/EN#10309/scene a sidewalk] .
+[/EN#10310/animals Two white dogs] look at [/EN#10311/animals one black dog] on [/EN#10309/scene a paved walkway] .
+[/EN#10306/animals Three dogs] looking at [/EN#10308/other a cement ledge] .
+[/EN#10306/animals Three small dogs] sniff at [/EN#10307/other something] .
+[/EN#10306/animals Three dogs] on [/EN#10309/scene a sidewalk] .

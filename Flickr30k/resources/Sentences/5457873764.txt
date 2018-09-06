@@ -1,0 +1,5 @@
+[/EN#237012/people A woman] in [/EN#237015/clothing a white sweatshirt] and [/EN#237016/clothing dark pants] casts [/EN#237014/other a fishing line] into [/EN#237013/scene the lake] .
+[/EN#237012/people A woman] in [/EN#237015/clothing a light pink sweater] casting [/EN#237014/other a fishing line] into [/EN#237013/scene a lake] .
+[/EN#237012/people A woman] casts [/EN#237014/other her fishing pole] into [/EN#237013/scene a calm lake] .
+[/EN#237012/people A woman] is fishing on [/EN#237017/scene the shoreline] .
+[/EN#237012/people Girl] is fishing by [/EN#237013/scene the calm lake] .

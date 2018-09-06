@@ -1,0 +1,5 @@
+[/EN#72447/people A man] and [/EN#72448/people a toddler boy] in [/EN#72453/clothing a striped shirt] walk past [/EN#72455/other the trunks of trees] [/EN#0/notvisual that] bend over [/EN#72450/scene a path] in [/EN#72451/scene the forest] .
+[/EN#72447/people A person] in [/EN#72454/clothing a white shirt] walking next to [/EN#72448/people small child] in [/EN#72456/other the woods] .
+[/EN#72447/people A man] walks on [/EN#72449/scene a trail] through [/EN#72451/scene the forest] with [/EN#72448/people a child] .
+[/EN#72447/people Adult] and [/EN#72448/people child] walking on [/EN#72450/scene a dirt road] .
+[/EN#72447/people A man] and [/EN#72448/people a child] walking outside .

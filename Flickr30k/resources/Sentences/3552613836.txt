@@ -1,0 +1,5 @@
+[/EN#127094/people A lone street musician] performs on [/EN#127097/scene a rain-soaked , car-lined urban sidewalk] with [/EN#127098/scene the tall buildings of the city] in [/EN#0/notvisual the background] .
+[/EN#127094/people A street performer] stands on [/EN#127100/other a rainy] , [/EN#127095/scene abandoned street] , on [/EN#127097/scene a sidewalk] next to [/EN#127101/vehicles a row of parked cars] .
+[/EN#127094/people A man] is playing [/EN#127096/instruments guitar] on [/EN#127095/scene the otherwise empty sidewalk of a street] lined with [/EN#127099/scene vibrant homes] .
+[/EN#127094/people A man] is playing [/EN#127096/instruments is guitar] on [/EN#127097/scene a sidewalk] while [/EN#127102/other its raining] .
+[/EN#127094/people A man] plays [/EN#127096/instruments the guitar] on [/EN#127097/scene a rainy sidewalk] .

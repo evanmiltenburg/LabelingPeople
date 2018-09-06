@@ -1,0 +1,5 @@
+[/EN#106262/people Two people] are planting [/EN#106266/scene small bushes] near [/EN#106265/scene a grassy area] .
+[/EN#106262/people two people] working in [/EN#106263/scene water] next to field
+[/EN#106262/people Two people] working in [/EN#106264/other mud] .
+[/EN#106262/people People] picking in [/EN#106263/scene a marsh] .
+[/EN#106262/people People] standing in [/EN#106264/other mud] .

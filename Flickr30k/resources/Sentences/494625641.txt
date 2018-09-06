@@ -1,0 +1,5 @@
+[/EN#221874/people A woman] is on [/EN#221875/vehicles a red bike] and has [/EN#221877/clothing an orange] and [/EN#221878/people blue messenger] back over [/EN#221883/bodyparts her shoulder] .
+[/EN#221874/people A blond girl] with [/EN#221876/clothing a blue coat] is putting [/EN#221879/clothing her helmet] on to ride [/EN#221875/vehicles her bike] .
+[/EN#221874/people A woman] riding [/EN#221875/vehicles a bike] stops at [/EN#221884/scene a city crosswalk] to let [/EN#221881/people pedestrians] pass .
+[/EN#221874/people A blond girl] in [/EN#221876/clothing a blue shirt] and [/EN#221880/clothing pants] riding [/EN#221875/vehicles a red bike] .
+[/EN#221874/people A woman] stops at [/EN#221882/other red light] on [/EN#221875/vehicles her bike] .

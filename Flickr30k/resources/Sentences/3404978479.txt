@@ -1,0 +1,5 @@
+[/EN#115877/people A little girl] in [/EN#115880/clothing blue overalls] plays on [/EN#115879/other a seesaw] in [/EN#115878/scene a backyard] .
+[/EN#115877/people The young redheaded girl] plays on [/EN#115879/other the teeter totter] .
+[/EN#115877/people a redheaded girl] is siting on [/EN#115879/other a seesaw] in [/EN#115878/scene the garden]
+[/EN#115877/people redheaded girl] in [/EN#115878/scene the backyard] sitting on [/EN#115879/other a seesaw] .
+[/EN#115877/people A girl] in [/EN#115880/clothing overalls] is playing on [/EN#115879/other a seesaw] .

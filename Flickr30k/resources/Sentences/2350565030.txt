@@ -1,0 +1,5 @@
+[/EN#43417/people A woman] in [/EN#43419/clothing a green plaid coat] is standing in front of [/EN#43418/people a bank of washers] in [/EN#43420/scene a laundromat] .
+[/EN#43417/people A woman] in [/EN#43419/clothing a plaid coat] is standing in front of washing [/EN#43421/other machines] inside [/EN#43420/scene a laundromat] .
+[/EN#43417/people A woman] standing in front of [/EN#43421/other the machines] at [/EN#43420/scene a laundromat] .
+[/EN#43417/people A woman] looks confused as is standing in [/EN#43422/other a laundry mat] .
+[/EN#43417/people A woman] in [/EN#43419/clothing a coat] waits at [/EN#43418/scene a laundromat] .

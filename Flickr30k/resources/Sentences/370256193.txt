@@ -1,0 +1,5 @@
+Wearing [/EN#137977/clothing a brown jacket] , [/EN#137978/clothing multicolored scarf] and [/EN#137980/clothing purse] , [/EN#137976/people an adult female] walks along [/EN#137979/scene a sidewalk] while looking downward next to [/EN#137982/other a green pole] with [/EN#137983/other plastic] wrapped around [/EN#0/notvisual it] .
+[/EN#137976/people An elderly woman] in [/EN#137977/clothing a light brown coat] is walking down [/EN#137979/scene a street] in [/EN#137981/scene a neighborhood] .
+[/EN#137976/people An old woman] wearing [/EN#137978/clothing a rainbow scarf] searches [/EN#137980/clothing her purse] .
+[/EN#137976/people A woman] with [/EN#137978/clothing a colorful scarf] is walking outside .
+[/EN#137976/people The lady] in [/EN#137977/clothing brown jacket] is walking .

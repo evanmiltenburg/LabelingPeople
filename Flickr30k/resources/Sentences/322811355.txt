@@ -1,0 +1,5 @@
+[/EN#102732/people A man] wearing [/EN#102738/clothing a pin-stripe shirt] and [/EN#102739/clothing eyeglasses] converses on [/EN#102733/other the telephone] from [/EN#102734/scene his cubicle] .
+[/EN#102732/people A man] with [/EN#102740/bodyparts black hair] is talking on [/EN#102733/other a cellphone] sitting in [/EN#102734/scene a cubicle] .
+[/EN#102732/people An Asian man] is talking on [/EN#102733/other his cellphone] in [/EN#102734/scene his cubicle] at [/EN#102737/other work] .
+[/EN#102732/people A man] sitting in [/EN#102734/scene a cubicle] at [/EN#102736/other a desk] talks on [/EN#102733/other his cellphone] .
+[/EN#102732/people An Asian] taking [/EN#102735/other a call] in [/EN#102734/scene his office cubicle] .

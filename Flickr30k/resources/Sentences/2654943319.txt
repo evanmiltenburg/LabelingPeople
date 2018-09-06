@@ -1,0 +1,5 @@
+[/EN#64219/people A man] in [/EN#64222/clothing a purple shirt] attempts [/EN#0/notvisual tricks] with [/EN#64223/other a skateboard] inside [/EN#64226/other a heavily graffiti] painted [/EN#64221/scene area] .
+[/EN#64219/people A person] wearing [/EN#64225/clothing a blue hat] rides [/EN#64223/other a skateboard] off of [/EN#64220/other a cement bench] .
+[/EN#64219/people A man] in [/EN#64222/clothing a purple shirt] is skateboarding in [/EN#64221/scene a graffiti-heavy area] .
+[/EN#64219/people A kid] in [/EN#64222/clothing purple] is doing [/EN#0/notvisual a skateboard trick] .
+[/EN#64219/people A person] grinding [/EN#64220/other a ledge] on [/EN#64223/other a skateboard] .

@@ -1,0 +1,5 @@
+[/EN#107535/people A hostess] in [/EN#107537/scene a restaurant] , wearing [/EN#107539/clothing a uniform] and [/EN#107536/clothing a black hat] is cleaning [/EN#107538/other one of the tables] .
+[/EN#107535/people A woman] in [/EN#107539/clothing black] cleaning up [/EN#107541/other some tables] with [/EN#107537/scene a restaurant] and [/EN#107542/scene staircase] in [/EN#0/notvisual the background] .
+[/EN#107535/people Woman] with [/EN#107539/clothing black uniform] and [/EN#107536/clothing hat] cleaning [/EN#107538/other a table] .
+[/EN#107535/people Waitress] in [/EN#107536/clothing a black hat] setting up [/EN#107538/other the table] .
+[/EN#107535/people A woman] reaching for [/EN#107540/other an item] on [/EN#107538/other a table] .

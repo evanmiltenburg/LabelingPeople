@@ -1,0 +1,5 @@
+[/EN#135705/people A BMX rider] in [/EN#135707/clothing a red and black outfit] is jumping on [/EN#135706/other his motorcycle] .
+[/EN#135705/people A man] in [/EN#135707/clothing a red outfit] jumps [/EN#135706/vehicles his motocross bike] down [/EN#135709/scene the hill] .
+[/EN#135705/people Someone] in [/EN#135707/clothing red] on [/EN#135706/vehicles a bike] is moving in [/EN#135708/scene midair] .
+[/EN#135705/people A dirt biker] flies through [/EN#0/notvisual the air] .
+[/EN#135705/people A guy] in [/EN#135707/clothing red] on [/EN#135706/vehicles a bike] in [/EN#135708/scene midair] .

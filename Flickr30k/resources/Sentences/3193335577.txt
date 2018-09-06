@@ -1,0 +1,5 @@
+[/EN#100013/people A little child] is wearing [/EN#100014/clothing a red shirt] and [/EN#100015/clothing a beanie] and is standing on [/EN#100016/other some jagged rocks] .
+[/EN#100013/people A little boy] in [/EN#100014/clothing red] stands on top of [/EN#100017/other a rock] with [/EN#100018/bodyparts a smile] and [/EN#100019/bodyparts outstretched arms] .
+[/EN#100013/people A boy] in [/EN#100014/clothing a red shirt] with [/EN#100019/bodyparts arms] outstretched on [/EN#100021/scene the side of hill] .
+[/EN#100013/people A boy] in [/EN#100014/clothing a red shirt] stands on [/EN#100017/scene a mountain] .
+[/EN#100013/people Little boy] standing on [/EN#100016/other some rocks] .

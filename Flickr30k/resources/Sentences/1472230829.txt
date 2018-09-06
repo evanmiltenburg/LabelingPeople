@@ -1,0 +1,5 @@
+[/EN#14195/people A group of seven people] are rafting in [/EN#14200/other the rapids] in [/EN#14196/vehicles/scene a green boat] .
+[/EN#14195/other Seven rafters] are paddling and riding [/EN#14200/other the rapids] in [/EN#14196/scene a green raft] .
+[/EN#14195/people seven people] are riding [/EN#14196/scene a green raft] in [/EN#14198/scene a white water river] .
+[/EN#14195/people A group of people] in [/EN#14196/vehicles/scene a boat] , [/EN#14199/scene white water] rafting .
+[/EN#14196/vehicles/scene Rafting boat] on [/EN#14198/scene river] .

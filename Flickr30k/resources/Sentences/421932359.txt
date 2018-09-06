@@ -1,0 +1,5 @@
+[/EN#159438/animals A brown and white dog] is running across [/EN#159439/scene a brown field] .
+[/EN#159438/animals A black and white dog] is running towards [/EN#159441/people the viewer] .
+[/EN#159438/animals A dog] running through [/EN#159440/scene a field] towards [/EN#159442/other a camera] .
+[/EN#159438/animals A dog] with [/EN#159443/bodyparts its ears] up runs on [/EN#159439/scene brown grass] .
+[/EN#159438/animals A white dog] running on [/EN#159439/scene dirt] .

@@ -1,0 +1,5 @@
+[/EN#59793/people Woman] in [/EN#59795/clothing a green dress] standing on [/EN#59794/scene a street] with [/EN#59798/vehicles cars] and [/EN#59797/vehicles bicycles] behind [/EN#0/notvisual her] .
+[/EN#59793/people A woman] with [/EN#59796/clothing a purse] and [/EN#59800/other luggage checks] [/EN#0/notvisual her] cellphone on [/EN#59794/scene a city street] .
+[/EN#59793/people A woman] in [/EN#59795/clothing a green dress] stops to look at [/EN#59801/other her phone] .
+[/EN#59793/people A woman] in [/EN#59795/clothing a green dress] waits with [/EN#59800/other her luggage] .
+[/EN#59793/people A woman] texting by [/EN#59799/vehicles her car] .

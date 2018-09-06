@@ -1,0 +1,5 @@
+[/EN#202182/people A person] climbing [/EN#202184/other a large rock] with [/EN#202187/other many snow covered rocks] in [/EN#0/notvisual the background] .
+[/EN#202182/people A man] in [/EN#202185/clothing red] climbs [/EN#202184/other a rock] in [/EN#202183/scene a field of snow] , [/EN#202186/scene cliffs] , and [/EN#202187/other fallen boulders] .
+[/EN#202182/people The person] with [/EN#202185/clothing the red long-sleeved shirt] is climbing [/EN#202184/other a rock] in [/EN#202189/scene the snow] .
+[/EN#202182/people A man] wearing [/EN#202185/clothing a red shirt] scales [/EN#202184/other a rock] in [/EN#202183/scene a boulder field] .
+[/EN#202182/people A man] is rock climbing up [/EN#202188/other a snowy] , [/EN#202186/scene rocky mountain] .

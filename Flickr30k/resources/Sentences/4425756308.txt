@@ -1,0 +1,5 @@
+[/EN#167208/people Two women] sitting on [/EN#167209/scene the porch] in front of [/EN#167212/scene a very colorful stand] .
+[/EN#167208/people Two women] sit in front of [/EN#167207/scene a teal building] with [/EN#167210/scene a red iron roof] .
+[/EN#167208/people Two people] sit outside [/EN#167213/other a shack] [/EN#0/notvisual that] sells [/EN#167214/clothing summer clothing] .
+[/EN#167208/people Two people] sit outside [/EN#167207/scene a small rustic tourist shop] .
+[/EN#167207/scene A green building] with [/EN#167208/people two people] sitting out [/EN#167209/scene front] .

@@ -1,0 +1,5 @@
+[/EN#282119/people A person] is scrubbing [/EN#282121/other a toilet] while wearing [/EN#282120/clothing a gas mask] , and [/EN#282122/clothing oddly no gloves] .
+[/EN#282119/people Someone] in [/EN#282120/clothing a gas mask] is looking into [/EN#282121/other a toilet] .
+[/EN#282119/people A man] wearing [/EN#282120/clothing a gas mask] is cleaning [/EN#282121/other a toilet] .
+[/EN#282119/people Man] wearing [/EN#282120/clothing gas mask] cleaning [/EN#282121/other toilet] .
+[/EN#282119/people A person] in [/EN#282120/clothing a mask] cleans [/EN#282121/other a toilet] .

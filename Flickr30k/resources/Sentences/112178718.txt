@@ -1,0 +1,5 @@
+[/EN#3132/people Man] is standing on [/EN#3130/other white sand] and holding [/EN#3129/other a snowboard] .
+[/EN#3132/people A guy] stands in [/EN#3130/other the sand] with [/EN#3129/other a snowboard] behind [/EN#0/notvisual him] .
+[/EN#3132/people A man] with [/EN#3129/other his surfboard] stands in [/EN#3130/other the sand] .
+[/EN#3132/people a man] holds [/EN#3129/other his snowboard] in [/EN#3130/other the sand] .
+[/EN#3132/people A man] holds [/EN#3129/other a surfboard] on [/EN#3130/scene the beach] .

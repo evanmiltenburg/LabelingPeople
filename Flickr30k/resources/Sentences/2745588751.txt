@@ -1,0 +1,5 @@
+Looking through [/EN#69989/scene a set of bars] , [/EN#69992/other we] see [/EN#69984/people a man] in [/EN#69985/clothing a jacket] sitting on [/EN#69988/other a bench] ; [/EN#0/notvisual he] looks at [/EN#69986/other a piece of paper] .
+[/EN#69984/people A man] in [/EN#69985/clothing a mustard yellow jacket] sits in front of [/EN#69987/scene water] while [/EN#69990/other reading] .
+[/EN#69984/people A man] in [/EN#69985/clothing a light-colored jacket] is sitting at [/EN#69991/scene the waterfront] .
+[/EN#69984/people Man] sits beside [/EN#69987/scene water] while reading [/EN#69986/other something] .
+[/EN#69984/people A man] is sitting outside near [/EN#69987/scene a river] .

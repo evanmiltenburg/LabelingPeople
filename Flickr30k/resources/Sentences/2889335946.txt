@@ -1,0 +1,5 @@
+[/EN#79225/people Two men] operate [/EN#79228/vehicles a cement truck] in [/EN#79233/other the daytime] , wearing [/EN#79229/clothing white t-shirts] and [/EN#79231/clothing blue jeans] , and [/EN#0/notvisual one of them] talking on [/EN#79227/other a mobile phone] .
+[/EN#79225/people A construction worker] operates [/EN#79230/other a cement] mixing [/EN#79228/vehicles truck] while talking on [/EN#79227/other a cellphone] .
+[/EN#79225/people Two men] in [/EN#79229/clothing white shirts] working on [/EN#79228/vehicles a cement truck] .
+[/EN#79225/people Cement truck worker] talking on [/EN#79227/other his cellphone] .
+[/EN#79225/people Two men] work next to [/EN#79228/vehicles a cement truck] .

@@ -1,0 +1,5 @@
+[/EN#123304/people A toddler] in [/EN#123306/clothing a blue sweater] is being helped .
+[/EN#123305/people Someone] is letting [/EN#123304/people the little boy] stand up .
+[/EN#123304/people A child] is holding [/EN#123307/bodyparts hands] with [/EN#123305/people an adult] .
+[/EN#123304/people The child] is playing in [/EN#123308/other the rock] .
+[/EN#123304/people A blond boy] being helped up .

@@ -1,0 +1,5 @@
+[/EN#64607/animals A donkey] carries [/EN#64611/other a heavy load] in front of [/EN#64608/people an old woman] on [/EN#64609/scene a dirty and busy street] .
+[/EN#64608/people A woman] carrying [/EN#64614/people a bundle] on [/EN#64612/bodyparts her head] is leading [/EN#64613/animals two donkeys] on [/EN#64609/scene a muddy street] .
+[/EN#64608/people A man] is walking with [/EN#64613/animals two donkeys] and [/EN#64607/animals one donkey] is carrying [/EN#64611/other a heavy load] .
+[/EN#64608/people a woman] carrying [/EN#64610/other something] on [/EN#64612/bodyparts her head] is leading [/EN#64607/animals a pack mule]
+[/EN#64608/people A lady] with [/EN#64610/clothing a burlap bag] on [/EN#64612/bodyparts her head] leads [/EN#64613/animals two donkeys] .

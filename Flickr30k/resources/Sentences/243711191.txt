@@ -1,0 +1,5 @@
+[/EN#49373/people A man] with [/EN#49377/clothing dirtied pants] is sweeping [/EN#49374/scene the road] with [/EN#49375/other a red broom] .
+[/EN#49373/people Man] in [/EN#49377/clothing jeans] sweeping [/EN#49374/scene the dirty sidewalk] .
+[/EN#49373/people The legs of a man] sweeping [/EN#49374/scene a sidewalk] .
+Sweeping [/EN#49374/scene the street] with [/EN#49375/other a red broom] .
+[/EN#49373/people A Man] sweeping [/EN#0/notvisual the cement ground] .

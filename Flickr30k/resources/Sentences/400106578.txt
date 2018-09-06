@@ -1,0 +1,5 @@
+[/EN#151495/people A man] is standing on [/EN#151500/scene a power post] looking as though [/EN#0/notvisual he] is fixing [/EN#151498/other a power line] in [/EN#151499/scene a city] .
+[/EN#151495/people A worker] is at [/EN#151497/other the top of a telephone pole] , working on [/EN#151498/other the wires] .
+[/EN#0/notvisual There] is [/EN#151495/people a worker] on [/EN#151497/other an electricity pole] outside of [/EN#151496/scene a building] .
+[/EN#151495/people A person] is on [/EN#151498/other a telephone pole] in front of [/EN#151496/scene a building] .
+[/EN#151495/people Man] in [/EN#151501/clothing orange suit] atop [/EN#151497/other a power line] .

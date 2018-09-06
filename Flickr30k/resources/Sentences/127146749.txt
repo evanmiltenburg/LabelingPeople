@@ -1,0 +1,5 @@
+[/EN#6825/vehicles/scene A green train] getting ready to enter [/EN#6827/scene a tunnel] , along with [/EN#6826/people the train conductor] [/EN#0/notvisual who] is wearing [/EN#6829/clothing a blue hat] and [/EN#6830/clothing shirt] .
+[/EN#0/notvisual This] is [/EN#6826/people a railroad engineer] working on [/EN#6825/vehicles/scene a green and red tourism train] in [/EN#6828/scene a theme park] .
+[/EN#6826/people A man] is sitting on [/EN#6825/vehicles/scene a green train] [/EN#0/notvisual that] is about to go through [/EN#6827/scene a tunnel] .
+[/EN#6825/vehicles/scene A small tourist train] approaching [/EN#6827/scene a tunnel] .
+[/EN#6826/people A man] driving [/EN#6825/vehicles/scene a green miniature train] .

@@ -1,0 +1,5 @@
+[/EN#120157/people A boy] in [/EN#120163/clothing a purple shirt] and [/EN#120164/clothing blue jeans] is standing in [/EN#120160/scene the grass] holding [/EN#120159/other a round toy] with [/EN#120158/other a handle] .
+[/EN#120157/people A child] in [/EN#120163/clothing purple clothing] is playing with [/EN#120159/other a toy] inside [/EN#120160/scene a yard] with [/EN#120165/other other toys] and [/EN#120162/scene a fence] .
+[/EN#120157/people A boy] playes with [/EN#120159/other a stringless racket] in [/EN#120160/scene his backyard] .
+[/EN#120157/people A boy] holding [/EN#120159/other a racket] is standing in [/EN#120160/scene the grass] .
+[/EN#120157/people a boy] walks through [/EN#120160/scene the lawn] .

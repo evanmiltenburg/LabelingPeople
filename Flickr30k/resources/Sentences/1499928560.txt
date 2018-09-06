@@ -1,0 +1,5 @@
+[/EN#14979/people A woman] in [/EN#14980/clothing red uniform] washing [/EN#14981/other windows] from [/EN#14982/scene outside of a building] .
+[/EN#14979/people A woman] is cleaning [/EN#14981/scene the windows of a building] .
+[/EN#14979/people A cleaning lady] at [/EN#14982/other a mall] is cleaning [/EN#14981/other windows] .
+[/EN#14979/people Woman] cleaning [/EN#14981/scene the windows of a building] .
+[/EN#14979/people Woman] cleans [/EN#14981/other windows] in front of [/EN#14982/scene store] .

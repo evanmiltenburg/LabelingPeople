@@ -1,0 +1,5 @@
+[/EN#132968/people A bicyclist] rides around [/EN#132973/other indoors] while [/EN#132969/people a group of bicyclists] ride in [/EN#0/notvisual the background] .
+[/EN#132968/people A female cyclist] at [/EN#132971/other a competition or charity meet] .
+[/EN#132969/people Bicycle riders] are peddling inside [/EN#132972/scene a building] .
+[/EN#132968/people A woman] is riding [/EN#132970/vehicles her bike] in [/EN#132971/other a bike race] .
+[/EN#132968/people A woman] on [/EN#132970/vehicles a bike] circling [/EN#132972/scene the arena] .

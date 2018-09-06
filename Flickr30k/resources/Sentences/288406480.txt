@@ -1,0 +1,5 @@
+[/EN#78896/people A baby] wearing [/EN#78901/clothing yellow] is pretending to be [/EN#78900/people a doctor] while inside [/EN#78898/other a stroller] .
+[/EN#78896/people An infant] in [/EN#78898/other stroller] wears [/EN#78897/other a stethoscope] and plays with [/EN#78899/clothing latex gloves] .
+[/EN#78896/people A baby] wearing [/EN#78897/other a pink stereoscope] is playing with [/EN#78899/clothing rubber gloves] .
+[/EN#78896/people One child] sitting in [/EN#78898/other a stroller] , wearing [/EN#78897/other a stethoscope] .
+[/EN#78896/people Child] playing with [/EN#78899/clothing gloves] and [/EN#78897/other a pink stethoscope] .

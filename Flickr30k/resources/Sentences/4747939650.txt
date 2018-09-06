@@ -1,0 +1,5 @@
+[/EN#198231/people An unidentified woman] sleeping in [/EN#198235/other a very unusual nook of a decorative stone structure] .
+[/EN#198231/people a person] with [/EN#198232/clothing a blue shirt] on laying down with [/EN#198233/clothing a hat] on [/EN#198236/bodyparts there face] .
+[/EN#198231/people A person] in [/EN#198232/clothing a blue shirt] is sleeping in [/EN#198237/other an ancient monument] .
+[/EN#198231/people A woman] in [/EN#198232/clothing a blue shirt] rests with [/EN#198233/clothing a hat] over [/EN#198236/bodyparts her face] .
+[/EN#198231/people A woman] takes [/EN#198238/other a nap] under [/EN#198234/other some ancient architecture] .

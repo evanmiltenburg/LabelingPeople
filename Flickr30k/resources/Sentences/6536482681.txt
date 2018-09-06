@@ -1,0 +1,5 @@
+[/EN#255377/people A player] in [/EN#255383/clothing a black uniform] is running with [/EN#255378/other a ball] while [/EN#255373/people a man] wearing [/EN#255384/clothing a white uniform] is trying to stop [/EN#0/notvisual him] .
+[/EN#255375/people Two soccer teams] on [/EN#255376/scene a field] [/EN#255381/people one team] dressed in [/EN#255380/clothing blue an white] the other dressed in [/EN#255382/clothing white and blue] .
+[/EN#255371/other A game of rug bee] between [/EN#255375/people the black and white jersey players] .
+[/EN#255373/people Competitor] goes for [/EN#255379/other the tackle] in [/EN#255372/other a foreign sport] .
+[/EN#255375/people Professional rugby players] on [/EN#255376/scene a field] .

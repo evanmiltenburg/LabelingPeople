@@ -1,0 +1,5 @@
+[/EN#39180/people A gray-haired man] in [/EN#39181/clothing a black Adidas shirt] is looking at [/EN#39182/other a menu] in [/EN#39185/scene a restaurant] .
+[/EN#39180/people A balding man] in [/EN#39181/clothing a black shirt] at [/EN#39183/other a dinner table] .
+[/EN#39180/people A man] in [/EN#39181/clothing a black t-shirt] is looking at [/EN#39182/other a menu] .
+[/EN#39180/people A man] with [/EN#39184/bodyparts mustache] looks over [/EN#39182/other a menu]
+[/EN#39180/people An old man] reads [/EN#39182/other his menu] .

@@ -1,0 +1,5 @@
+[/EN#23552/people An overweight white man] wearing [/EN#23554/clothing a gray tee-shirt] and [/EN#23561/clothing lighter gray shorts] is standing in [/EN#23555/scene the foreground of a classroom] while [/EN#23556/people another white man] wearing [/EN#23560/clothing glasses] sits in [/EN#23557/other a chair] looking at [/EN#0/notvisual him] .
+[/EN#23553/people 2 Men] in [/EN#23555/scene a classroom] , [/EN#23552/other one standing and one] sitting while participating in [/EN#23558/other a discussion] .
+[/EN#23552/people One man] in [/EN#23554/clothing a casual gray shirt] and [/EN#23556/people another man] in [/EN#23559/clothing a white collared shirt] in [/EN#23555/scene an office] .
+[/EN#23553/people Two gentlemen] are in [/EN#23555/people the middle of a computer class] .
+[/EN#23552/people A man] in [/EN#23554/clothing a gray shirt] standing .

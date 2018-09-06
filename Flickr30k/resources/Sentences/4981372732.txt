@@ -1,0 +1,5 @@
+[/EN#225791/people A man] in [/EN#225797/clothing a black shirt] and [/EN#225799/clothing jeans] walks past [/EN#225792/scene a building] with [/EN#225793/bodyparts a large mouth] with [/EN#225800/bodyparts white teeth] painted on [/EN#0/notvisual it] .
+[/EN#225791/people A man] walks down [/EN#225794/scene the street] next to [/EN#225795/other a wall] with [/EN#225793/bodyparts a giant mouth] painted on [/EN#0/notvisual it] .
+[/EN#225791/people A man] holding [/EN#225798/clothing a plastic bag] is walking in front of [/EN#225795/other some graffiti] on [/EN#225795/other a wall] .
+[/EN#225791/people A student] coming out from [/EN#225792/scene a bookstore] .
+[/EN#225791/people A young man] walking down [/EN#225794/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#57839/animals A beige , white and black little dog] is bounding towards [/EN#0/notvisual the camera] from [/EN#57841/scene the street] onto [/EN#57840/scene the green grass] .
+[/EN#57839/animals A multicolor puppy] running on [/EN#57840/scene the lawn] beside [/EN#57841/scene a road] .
+[/EN#57839/animals A small dog] is running on [/EN#57840/scene the grass] beside [/EN#57841/scene the road] .
+[/EN#57839/animals A dog] is running along [/EN#57840/scene the grass] .
+[/EN#57839/animals A puppy] running along [/EN#57841/scene a street] .

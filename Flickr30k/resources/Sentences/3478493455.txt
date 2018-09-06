@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#121344/people a lady] with [/EN#121349/clothing glasses] and wearing [/EN#121346/clothing a black shirt] and [/EN#0/notvisual she] is also playing [/EN#121347/other a video game] .
+[/EN#121344/people A woman] wearing [/EN#121346/clothing a black shirt] is playing [/EN#121347/other a video game] called [/EN#121345/people Guitar Hero] .
+[/EN#121344/people An oriental woman] with [/EN#121349/clothing glasses] is playing [/EN#121347/other a game] in [/EN#121348/scene the arcade] .
+[/EN#121344/people A woman] is playing [/EN#121347/other a music game] in [/EN#121348/scene an arcade] .
+[/EN#121344/people A lady] is playing [/EN#121345/people Guitar Hero] at [/EN#121348/scene an arcade] .

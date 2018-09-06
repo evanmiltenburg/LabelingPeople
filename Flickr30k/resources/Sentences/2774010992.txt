@@ -1,0 +1,5 @@
+[/EN#72108/people A man] in [/EN#72112/clothing a plaid shirt] and [/EN#72110/clothing a hat] looks on as [/EN#72115/people a young child] plays in [/EN#72109/scene a yard] [/EN#0/notvisual that] contains [/EN#72111/scene rubble] , [/EN#72114/other a mattress] , and [/EN#72113/other a bucket] .
+[/EN#72108/people A man] in [/EN#72112/clothing a plaid shirt] is standing near [/EN#72111/scene a pile of rubble] .
+[/EN#72108/people a man] in [/EN#72110/clothing a hat] stands in [/EN#72109/scene a desolate dirt field] .
+[/EN#72108/people One man] in [/EN#72112/other plaid] standing in [/EN#72109/scene a backyard] .
+[/EN#72108/people Man] standing alone in [/EN#72117/scene the dirt] .

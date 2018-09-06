@@ -1,0 +1,5 @@
+[/EN#282722/people A woman] is sitting on [/EN#282723/other a couch] in [/EN#282724/scene a log cabin living room] .
+[/EN#282721/people A man] in [/EN#282727/clothing a white shirt] is sitting on [/EN#282723/other his plaid couch] .
+[/EN#282722/people A man] is sitting alone on [/EN#282723/other a couch] in [/EN#282726/scene a log room] .
+[/EN#282725/scene An bird 's eye view] of [/EN#282722/people a man] sitting on [/EN#282723/other a couch] .
+[/EN#282721/people A lady] sitting in [/EN#282724/scene a log cabin] by [/EN#0/notvisual herself] .

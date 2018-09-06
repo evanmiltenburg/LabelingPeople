@@ -1,0 +1,5 @@
+[/EN#102551/people A man] wearing [/EN#102553/clothing a red coat] with [/EN#102559/other glass] looks at [/EN#102552/people another man] .
+[/EN#102551/people A man] in [/EN#102553/clothing red winter clothes] talks to [/EN#102552/people another man] in [/EN#102557/clothing red] .
+[/EN#102551/people A man] in [/EN#102553/clothing a red coat] and [/EN#102556/clothing hat] talks to [/EN#102552/people another man] in [/EN#102557/clothing red] .
+[/EN#102551/people A man] in [/EN#102553/clothing a red jacket] and [/EN#102556/clothing hat] talks to [/EN#102552/people another man] .
+[/EN#102558/people Two men] talk [/EN#102560/scene outdoors] .

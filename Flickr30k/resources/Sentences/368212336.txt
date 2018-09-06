@@ -1,0 +1,5 @@
+[/EN#136529/people A man] standing on [/EN#136530/scene the street] looking at [/EN#136534/people a woman] across on [/EN#136531/scene the road] .
+[/EN#136532/people Two people] stand across [/EN#136530/scene a city intersection] from [/EN#0/notvisual each other] .
+[/EN#136529/people A young man] in [/EN#136535/clothing a gray sweater] is looking downtown .
+[/EN#136529/people A man] looking across [/EN#136531/scene a street] .
+[/EN#136529/people a man] looks at [/EN#136533/scene the city] .

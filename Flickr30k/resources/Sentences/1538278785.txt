@@ -1,0 +1,5 @@
+[/EN#15867/people The man] wearing [/EN#15868/clothing orange] is dropping [/EN#15869/other tools] from [/EN#15870/other the upper scaffold] to [/EN#15871/people the man] in [/EN#15872/clothing the red vest] on [/EN#15873/other the lower scaffold] .
+[/EN#15867/people A worker] on [/EN#15870/other scaffolding] passing [/EN#15869/other a tool] to [/EN#15867/people another worker] in front of [/EN#15874/other a brick structure] .
+[/EN#15875/people Some construction workers] are on [/EN#15876/other a platform] doing [/EN#15880/other work] to [/EN#15881/scene a building] .
+[/EN#15875/people Two men] in [/EN#15877/clothing construction clothing] and [/EN#15878/clothing hard hats] standing on [/EN#15874/other scaffolding]
+[/EN#15875/people Two men] work on [/EN#15881/scene the side of a building] and [/EN#15879/other wear safety gear] .

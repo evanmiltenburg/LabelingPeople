@@ -1,0 +1,5 @@
+[/EN#213464/people A brown-haired young man] wearing [/EN#213465/clothing a green t-shirt] plays [/EN#213466/scene a large xylophone outside] .
+[/EN#213464/people Young man] in [/EN#213465/clothing green shirt] play [/EN#213466/other xylophone] for [/EN#213469/people crowd] in [/EN#213467/scene public area] .
+[/EN#213464/people The boy] in [/EN#213465/clothing the green shirt] is playing [/EN#213466/scene the xylophone outside] .
+[/EN#213464/people A fellow] in [/EN#213465/clothing a green shirt] plays [/EN#213466/other a xylophone] .
+[/EN#213464/people A man] playing [/EN#213466/other a xylophone] in [/EN#213467/scene an open area] .

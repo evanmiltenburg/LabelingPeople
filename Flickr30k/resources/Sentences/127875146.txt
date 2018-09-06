@@ -1,0 +1,5 @@
+[/EN#7061/people A man] in [/EN#7062/clothing a blue sweater] stares at [/EN#7063/vehicles the driver of a car] on [/EN#7065/scene the street] .
+[/EN#7061/people A man] holding [/EN#7064/other a sign] up at [/EN#7066/other someones windshield] .
+[/EN#7061/people A man] is standing on [/EN#7065/scene a street] holding [/EN#7064/other a sign] .
+[/EN#7061/people A man] in [/EN#7062/clothing a blue sweater] walks in [/EN#7067/vehicles traffic] .
+[/EN#7061/people A strange looking guy] looking into [/EN#7063/vehicles a car] .

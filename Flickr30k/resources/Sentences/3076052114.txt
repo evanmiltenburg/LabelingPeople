@@ -1,0 +1,5 @@
+[/EN#91616/animals Two black , brown and white dogs] run along [/EN#91617/scene the countryside] with [/EN#91616/animals white sheep] in [/EN#0/notvisual the background] .
+[/EN#91616/animals Two dogs] running across [/EN#91617/scene a green field] with [/EN#91616/animals two white animals] in [/EN#0/notvisual the background] .
+[/EN#91616/animals Two black dogs] run in [/EN#91617/scene a grass field] with [/EN#91616/animals two white sheep] in [/EN#0/notvisual the background] .
+[/EN#91616/animals two dogs] are walking through [/EN#91617/scene a sheep field] .
+[/EN#91616/animals Two dogs] run in [/EN#91617/scene a field] herding [/EN#91616/animals sheep] .

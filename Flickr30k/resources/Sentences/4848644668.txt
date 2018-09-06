@@ -1,0 +1,5 @@
+[/EN#210290/people A woman] in [/EN#210297/clothing a white shirt] , [/EN#210298/clothing black jacket and blue and black striped shirt] stands next to [/EN#210289/people a man] in [/EN#210292/clothing a checked shirt] and [/EN#210299/clothing blue jeans] looking through [/EN#210294/other a camera] focused on [/EN#210293/other whoever] took [/EN#210301/other this picture] .
+[/EN#210289/people A man] and [/EN#210290/people a woman] stand on [/EN#210291/vehicles/scene a boat] while [/EN#210289/people the man] takes [/EN#210302/other a photograph] .
+[/EN#210290/people A woman] standing beside [/EN#210289/people a man] in [/EN#210292/clothing blue] [/EN#0/notvisual who] is taking [/EN#210295/other a picture] .
+[/EN#210289/people A man] and [/EN#210290/people a woman] , standing on [/EN#210291/vehicles/scene a boat] , observing [/EN#210293/other something] .
+[/EN#210289/people A man] is taking [/EN#210296/other a picture] while standing on [/EN#210291/vehicles/scene a boat] .

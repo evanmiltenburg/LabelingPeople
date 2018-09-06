@@ -1,0 +1,5 @@
+[/EN#111802/people An inline skater] wearing [/EN#111803/clothing a purple jacket] is performing [/EN#0/notvisual a trick] on [/EN#111804/scene a ramp] .
+[/EN#111802/people A man] in [/EN#111806/clothing a gray winter hat] and [/EN#111803/clothing purple sweatshirt] skateboarding .
+[/EN#111802/people Man] with [/EN#111803/clothing purple sweater] at [/EN#111804/scene the top of a skateboard ramp] .
+[/EN#111802/people A man] [/EN#111805/other Rollerblades] on [/EN#111807/other a skate course] .
+[/EN#111802/people guy] rollerskating on [/EN#111809/scene skate ramp]

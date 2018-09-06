@@ -1,0 +1,5 @@
+[/EN#198298/people A woman] with [/EN#198301/clothing a neon yellow shirt] is standing in [/EN#198303/vehicles the back of a trailer] holding [/EN#198300/other a gardening tool] with [/EN#198302/other hay] around [/EN#0/notvisual her] .
+[/EN#198298/people Girl] standing in [/EN#198303/vehicles the back of trailer] smiling as [/EN#0/notvisual she] moves [/EN#198302/other hay] .
+[/EN#198298/people A teenage girl] in [/EN#198304/clothing athletic clothing] stands in [/EN#198299/other a truck bed] .
+[/EN#198298/people A lady] wearing [/EN#198305/clothing shorts] and [/EN#198301/clothing a green shirt] is smiling .
+[/EN#198298/people A lady] in [/EN#198301/clothing a green shirt] is doing [/EN#198306/other yard work] .

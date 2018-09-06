@@ -1,0 +1,5 @@
+[/EN#279236/people A toddler] in [/EN#279238/clothing a white t-shirt] is touching [/EN#279237/scene the wooden fence] .
+[/EN#279236/people A toddler boy] stands by [/EN#279237/scene a wooden fence] .
+[/EN#279236/people A small child] touches [/EN#279237/scene a wooden fence] .
+[/EN#279236/people Blond boy] touching [/EN#279237/other wooden wall] .
+[/EN#279236/people A child] stands near [/EN#279237/scene a fence] .

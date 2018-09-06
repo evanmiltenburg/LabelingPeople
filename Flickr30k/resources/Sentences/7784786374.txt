@@ -1,0 +1,5 @@
+[/EN#275147/people Man] in [/EN#275150/clothing a yellow and red outfit] is biking down [/EN#275148/scene a rough trail] with [/EN#275148/scene grass] on [/EN#0/notvisual the sides] .
+[/EN#275147/people An Olympic cyclist] with [/EN#275154/other the number] [/EN#275151/other 9] from [/EN#275152/other Espania] riding down [/EN#275148/scene a dirt path] .
+[/EN#275147/people A man] in [/EN#275150/clothing a red and white uniform] bikes [/EN#275148/scene a trail] .
+[/EN#275147/people A man] in [/EN#275150/clothing yellow and red] biking down [/EN#275148/scene a hill] .
+[/EN#275147/people A bicyclist] is racing on [/EN#275148/scene a dirt track] .

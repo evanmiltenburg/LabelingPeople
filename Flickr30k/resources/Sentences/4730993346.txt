@@ -1,0 +1,5 @@
+[/EN#196472/scene A city park] in [/EN#196479/other fall] with [/EN#196478/other a pathway] lined with [/EN#196476/other several park benches] and [/EN#196473/people several people] sitting and walking .
+[/EN#196473/people People] are sitting on [/EN#196476/other benches] on [/EN#196475/scene a sidewalk] surrounded by [/EN#196477/other trees] with [/EN#196471/scene a view of city buildings] .
+[/EN#196473/people Several people] sit on [/EN#196476/other benches] in [/EN#196472/scene a park] in front of [/EN#196474/scene large buildings] in [/EN#0/notvisual the distance] .
+[/EN#196474/scene Tall buildings] overlooking [/EN#196477/other light brown trees] and [/EN#196480/scene grass] in [/EN#196482/other the middle of fall] .
+[/EN#196473/people Many people] are utilizing [/EN#196475/scene a sidewalk] in [/EN#196472/scene a park] .

@@ -1,0 +1,5 @@
+[/EN#185527/people A man] in [/EN#185529/clothing a blue jacket] sits alone at [/EN#185528/other a bare , pine table] in front of [/EN#185531/scene a flower market] .
+[/EN#185527/people A man] in [/EN#185529/clothing a blue jacket] sitting at [/EN#185528/other table] reading in front of [/EN#185530/scene a restaurant] .
+[/EN#185527/people A man] in [/EN#185529/clothing a blue jacket] sits at [/EN#185528/other a table] in [/EN#185534/other a market writing] .
+[/EN#185533/people People] at [/EN#185531/scene a market] looking at [/EN#185535/other plants] .
+[/EN#185527/people A guy] is in [/EN#185532/scene a flower shop] .

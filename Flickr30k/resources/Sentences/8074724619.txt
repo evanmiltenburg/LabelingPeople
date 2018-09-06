@@ -1,0 +1,5 @@
+[/EN#278614/people One boy] in [/EN#278623/clothing a blue shirt] and [/EN#278624/clothing jeans] on [/EN#278615/vehicles a bicycle] jumping over [/EN#278617/other concrete steps] in front of [/EN#278616/scene a building] .
+[/EN#278614/people A boy] on [/EN#278615/vehicles a bike] is in [/EN#278618/scene midair] over [/EN#278617/scene a staircase] in front of [/EN#278616/scene an old-style building] in [/EN#278620/scene a city] .
+[/EN#278614/people A young man] on [/EN#278619/other a bicycling] is jumping up [/EN#278617/other the stairs] on [/EN#278615/vehicles his bike] .
+[/EN#278614/people A BMX biker] in [/EN#0/notvisual the air] on [/EN#278615/vehicles his bike] over [/EN#278617/other stairs] near [/EN#278616/scene a building] .
+[/EN#278614/people A man] doing [/EN#0/notvisual a trick] in [/EN#0/notvisual the air] on [/EN#278615/vehicles his bike] .

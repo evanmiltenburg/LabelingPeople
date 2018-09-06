@@ -1,0 +1,5 @@
+[/EN#214938/people A woman] looks out [/EN#214941/other the window] while riding on [/EN#214939/vehicles/scene a red bus] , with [/EN#214942/other the company name] " [/EN#214942/other Go-Ahead] " printed on [/EN#0/notvisual the side] .
+[/EN#214938/people A young woman] is sitting on [/EN#214939/vehicles/scene a red bus] looking out [/EN#214941/other the window] .
+[/EN#214938/people A woman] sitting in [/EN#214939/vehicles/scene the bus] looking out [/EN#214941/other the window] .
+[/EN#214938/people A woman] looking out [/EN#214941/vehicles/scene the window of a red bus] .
+[/EN#214938/people A girl] behind [/EN#214941/other the window] in [/EN#214939/vehicles/scene the red bus] .

@@ -1,0 +1,5 @@
+[/EN#53625/people a couple of people] in [/EN#53631/scene the desert] walking in front of [/EN#53626/animals a large tan camel]
+[/EN#53632/people A woman] , [/EN#53633/people child] , and [/EN#53626/animals camel] with [/EN#53629/other supplies] walking near [/EN#53627/other a tree] .
+[/EN#53625/people Two people] stand by [/EN#53626/animals a camel] with [/EN#53628/other containers] strapped to [/EN#0/notvisual him] .
+[/EN#53626/animals camel] standing next to [/EN#53627/other tree] in [/EN#53631/scene desert] carrying [/EN#53629/scene water]
+[/EN#53626/animals a camel] carries [/EN#53628/other two peoples stuff] .

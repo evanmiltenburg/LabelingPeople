@@ -1,0 +1,5 @@
+[/EN#221776/people Two guys] , [/EN#221781/other one] in [/EN#221779/clothing a sweater] and [/EN#221780/clothing jeans] , and [/EN#221784/other the other] in [/EN#221782/clothing shorts] , walk down [/EN#221778/scene the sidewalk] .
+[/EN#221776/people Two men] stride [/EN#0/notvisual side] by [/EN#0/notvisual side] on [/EN#221778/scene the sidewalk] along [/EN#221777/other a red painted wall] .
+[/EN#221776/people Two men] are walking down [/EN#221778/scene the street] with [/EN#221777/other a red wall] behind [/EN#0/notvisual them] .
+[/EN#221776/people Two men] with [/EN#221783/clothing sunglasses] are walking by [/EN#221777/other a red wall] .
+[/EN#221776/people Two men] walking by [/EN#221777/other a bright red wall] .

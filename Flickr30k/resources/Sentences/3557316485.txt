@@ -1,0 +1,5 @@
+[/EN#127399/people A person] is skateboarding in [/EN#127400/scene a skate hole]
+[/EN#127399/people A skateboarder] riding up to [/EN#127401/other a slope] .
+[/EN#127399/people a skateboarder] skates in [/EN#127400/scene the pool] .
+[/EN#127399/people A skateboarder] approaches [/EN#127400/scene a ramp] .
+[/EN#127399/people A man] skateboarding .

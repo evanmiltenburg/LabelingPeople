@@ -1,0 +1,5 @@
+[/EN#68749/people A man] in [/EN#68750/clothing an apron] smiles as [/EN#0/notvisual he] pokes [/EN#68751/other a frying donut] with [/EN#68752/other a little metal stick] .
+[/EN#68749/people A man] smiles at [/EN#0/notvisual the camera] as [/EN#0/notvisual he] fries [/EN#68751/other his food] in [/EN#68753/other a large cast-iron pan] .
+[/EN#68749/people A man] in [/EN#68754/scene a kitchen] is frying breaded [/EN#68751/other food] in [/EN#68753/other a cast iron pan] .
+[/EN#68749/people A man] in [/EN#68750/clothing an apron] smiling as [/EN#0/notvisual he] fries [/EN#68751/other food] .
+[/EN#68749/people A smiling man] cooks [/EN#68751/other something] delicious .

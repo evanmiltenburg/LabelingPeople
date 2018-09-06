@@ -1,0 +1,5 @@
+[/EN#263090/people A race car driver] with [/EN#263093/clothing a red suit] and [/EN#263095/clothing colorful helmet] drives [/EN#263091/vehicles a car] on [/EN#263099/scene the street] with [/EN#263094/other the number 12] on [/EN#263100/scene the front] .
+[/EN#263090/people A helmeted go-cart racer] is sitting in [/EN#263091/vehicles a small multicolored cart] next to [/EN#263098/other some tires] .
+[/EN#263090/people A racer] sits behind [/EN#263091/vehicles his car] , [/EN#263094/other number 12] , [/EN#0/notvisual which] is [/EN#263091/clothing red , black , and orange] .
+Rider in [/EN#263092/clothing red] racing [/EN#263091/vehicles a mini red race car] [/EN#0/notvisual that] rides very close to [/EN#0/notvisual the ground] .
+[/EN#263090/people A picture of a racer] from [/EN#263096/other go-kart street race] .

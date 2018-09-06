@@ -1,0 +1,5 @@
+[/EN#4641/people Four men] , [/EN#4642/other one] in [/EN#4643/clothing a long blue robe] , looking like [/EN#0/notvisual they] are doing [/EN#4654/scene laundry] in [/EN#4644/other a muddy pit] in [/EN#4656/scene a 3rd world country] .
+[/EN#4645/people One man] in [/EN#4643/clothing a blue shirt] is operating [/EN#4646/other a watering hose] and [/EN#4647/people another man] in [/EN#4648/clothing a brown shirt] is moving [/EN#4649/other tarps] .
+[/EN#4641/people Four men] use [/EN#4646/other hoses] to pour [/EN#4650/scene water] while in [/EN#4655/other an austere environment] .
+[/EN#4641/people Men] filling [/EN#4651/scene concrete basins] with [/EN#4650/scene water] and [/EN#4652/other canvas] like [/EN#4649/other material] .
+[/EN#4641/people four men] [/EN#0/notvisual that] appear to excavating [/EN#4653/scene old ruins] .

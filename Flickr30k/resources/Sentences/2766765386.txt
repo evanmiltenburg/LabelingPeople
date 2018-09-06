@@ -1,0 +1,5 @@
+[/EN#71545/people A surfer] in [/EN#71546/clothing a black wetsuit] surfs on [/EN#71547/scene a medium wave] .
+[/EN#71545/people A surfer] in [/EN#71546/clothing a black wetsuit] is riding [/EN#71547/scene a foamy wave] .
+[/EN#71545/people A man] in [/EN#71546/clothing a black wetsuit] is surfing in [/EN#71547/scene the waves] .
+[/EN#71545/people A lone surfer] riding [/EN#71547/scene a huge wave] in [/EN#71548/scene the ocean] .
+[/EN#71545/people a surfer] surfs [/EN#71547/scene a huge wave] .

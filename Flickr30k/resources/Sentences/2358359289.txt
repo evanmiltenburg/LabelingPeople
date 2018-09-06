@@ -1,0 +1,5 @@
+[/EN#43935/people A girl] is jumping off of [/EN#43936/other a swing] and landing on [/EN#43937/bodyparts her feet] .
+[/EN#43935/people Young child] is falling through [/EN#0/notvisual the air] from [/EN#43936/other a swing] .
+[/EN#43935/people A young girl] just jumped out of [/EN#43936/other her yellow swing] .
+[/EN#43935/people A child] jumping out of [/EN#43936/other a yellow swing] .
+[/EN#43935/people A child] is jumping off of [/EN#43936/other a swing] .

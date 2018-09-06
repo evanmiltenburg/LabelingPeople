@@ -1,0 +1,5 @@
+[/EN#61316/people an old man] sitting on [/EN#61317/other a bench] staring at [/EN#61318/scene the ocean]
+[/EN#61316/people An old man] sits on [/EN#61317/other a bench] overlooking [/EN#61318/scene the water] .
+[/EN#61316/people An elderly man] sitting on [/EN#61317/other a bench] near [/EN#61318/scene the water]
+[/EN#61316/people A man] is sitting on [/EN#61317/other a bench] on top of [/EN#61319/scene grass] .
+[/EN#61316/people A man] sitting on [/EN#61317/other a bench] by [/EN#61318/scene the ocean] .

@@ -1,0 +1,5 @@
+[/EN#181238/people Several people] including [/EN#181234/people a child] and [/EN#181236/people a clown] are walking towards [/EN#181237/scene a snowy sidewalk]
+[/EN#181235/people Three adults] and [/EN#181234/people one child] are walking along [/EN#181237/scene a paved path] [/EN#0/notvisual that] is snow covered .
+[/EN#181234/people A toddler] starting at [/EN#181236/people a clown] walking down [/EN#181237/scene a snowy sidewalk] .
+[/EN#181238/people Two adults] , [/EN#181234/people a child] , and [/EN#181236/people a clown] walking down [/EN#181237/scene a sidewalk] .
+[/EN#181235/people Three adults] and [/EN#181234/people a toddler] stand on [/EN#181237/scene a snowy path] .

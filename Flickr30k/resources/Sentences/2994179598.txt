@@ -1,0 +1,5 @@
+[/EN#86197/clothing The man 's shirt] is orange and has [/EN#86198/scene a United States flag patch] on [/EN#86201/bodyparts the shoulder] .
+[/EN#86196/people A man] in [/EN#86197/clothing a Miami basketball uniform] looking to [/EN#86200/scene the right]
+[/EN#86196/people A Miami basketball player] looks off in [/EN#0/notvisual the distance] .
+[/EN#86196/people The Miami basketball player] is looking .
+[/EN#86196/people a man] wears [/EN#86197/clothing a orange jersey] .

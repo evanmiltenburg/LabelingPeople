@@ -1,0 +1,5 @@
+[/EN#100578/people A man] in [/EN#100584/clothing a Santa Claus costume] is sitting on [/EN#100581/other a wooden chair] holding [/EN#100582/other a microphone] and [/EN#100580/instruments a stringed instrument] .
+[/EN#100578/people Large old man] dressed as [/EN#100578/other Santa Claus] singing in [/EN#100582/other a mic] with [/EN#100580/instruments a guitar] on [/EN#100585/scene the street] .
+[/EN#100578/people A guitar player] dressed as [/EN#100578/other Santa Claus] is getting ready with [/EN#100582/other his mic] .
+[/EN#100578/people A man] dressed as [/EN#100578/other Santa] sitting on [/EN#100581/other a chair] playing [/EN#100580/instruments a banjo] .
+[/EN#100578/other Santa Clause] singing [/EN#100583/other a song] and playing [/EN#100580/instruments his guitar] .

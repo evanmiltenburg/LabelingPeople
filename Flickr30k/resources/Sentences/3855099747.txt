@@ -1,0 +1,5 @@
+[/EN#145730/people A large group of people] stands on [/EN#145732/other line] to order at [/EN#145731/scene a fast food restaurant] .
+[/EN#145730/people A large number of people] are standing in [/EN#145732/other lines] at [/EN#145731/scene a fast food restaurant] .
+[/EN#145730/people Many people] waiting in lone to order in [/EN#145731/scene a fast food restaurant] .
+[/EN#145730/people A mob of people] wait in [/EN#145732/other line] to order [/EN#145733/other food] .
+[/EN#145730/people A group of people] at [/EN#145731/scene a restaurant] .

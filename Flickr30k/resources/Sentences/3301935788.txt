@@ -1,0 +1,5 @@
+[/EN#107982/people A person] in [/EN#107985/clothing a white coat] and [/EN#107988/other pink pants snowboards] at [/EN#107983/scene the " snow park] " .
+[/EN#107982/people A person] wearing [/EN#107986/clothing pink pants] and [/EN#107985/clothing a white jacket] is snowboarding .
+[/EN#107982/people A person] wearing [/EN#107986/clothing pink pants] and [/EN#107985/clothing a white parka] at [/EN#107983/scene a snow park] .
+[/EN#107982/people A snowboarder] is jumping over [/EN#107983/scene a snowbank] in [/EN#107983/scene a snow park]
+[/EN#107982/people A woman] in [/EN#107985/clothing white jacket] snowboarding at [/EN#107983/scene a park] .

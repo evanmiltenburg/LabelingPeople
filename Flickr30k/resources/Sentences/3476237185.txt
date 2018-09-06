@@ -1,0 +1,5 @@
+[/EN#121159/other A large] and [/EN#121154/animals a small dog] are standing beside [/EN#0/notvisual each other] in [/EN#121155/scene a fence] .
+[/EN#121157/animals Two black dogs] are standing on [/EN#121158/scene the grass] by [/EN#121155/scene a wooden fence] .
+[/EN#121154/animals A large black dog] towers over [/EN#121154/animals a far smaller black dog] .
+[/EN#121154/animals The big black dog] is behind [/EN#121154/animals the little black dog] .
+[/EN#121154/animals a large black dog] chases [/EN#121154/animals a small black dog] .

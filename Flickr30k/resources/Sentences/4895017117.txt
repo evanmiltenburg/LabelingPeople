@@ -1,0 +1,5 @@
+[/EN#215942/scene A bedroom] [/EN#0/notvisual which] contains [/EN#215946/other a bed] [/EN#0/notvisual which] has [/EN#215948/other a striped bedspread] and [/EN#215949/other dust ruffle] , is being vacuumed by [/EN#215945/clothing a man wear navy shorts] and [/EN#215944/clothing t-shirt] .
+[/EN#215943/people A man] in [/EN#215944/clothing a black t-shirt] and [/EN#215945/clothing black shorts] vacuums in [/EN#215942/scene a bedroom] .
+[/EN#215943/people A man] is vacuuming [/EN#215942/scene a bedroom] while barefoot .
+[/EN#215943/people A man] is vacuuming [/EN#215947/other the carpet] in [/EN#215942/scene a bedroom] .
+[/EN#215943/people A man] vacuums [/EN#215942/scene a bedroom] in [/EN#215950/bodyparts his bare feet] .

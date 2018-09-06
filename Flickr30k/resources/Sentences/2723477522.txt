@@ -1,0 +1,5 @@
+[/EN#68671/animals The large brown dog] is chasing after [/EN#68673/animals the little brown dog] .
+[/EN#68671/animals A black dog] is chasing [/EN#68673/animals a smaller brown dog] over [/EN#68674/scene grass] .
+[/EN#68672/animals Two brown dogs] run through [/EN#68674/scene the grass] together .
+[/EN#68671/animals A big dog] chases [/EN#68673/animals a little dog] on [/EN#68674/scene the grass] .
+[/EN#68672/animals two dogs] play in [/EN#68674/scene the grass] .

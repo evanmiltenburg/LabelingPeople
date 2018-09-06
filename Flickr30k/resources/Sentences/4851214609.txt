@@ -1,0 +1,5 @@
+[/EN#210658/people A group of people] walking towards [/EN#0/notvisual the camera] and [/EN#210662/people a man] in [/EN#210663/clothing a dark blue shirt] facing away from [/EN#0/notvisual the camera] on [/EN#0/notvisual the right side] .
+[/EN#0/notvisual There] are [/EN#210658/people several people] [/EN#0/notvisual who] are walking on [/EN#210661/scene a sidewalk] that in front of [/EN#210659/scene a building] [/EN#0/notvisual that] is being remodeled .
+[/EN#210658/people People] are walking down [/EN#210661/scene a walkway] surrounded by [/EN#210660/scene buildings] .
+[/EN#210658/people A group of people] are walking down [/EN#210661/scene the street] .
+[/EN#210658/people A diverse group of people] walking [/EN#210661/scene downtown] .

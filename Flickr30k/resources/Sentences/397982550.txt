@@ -1,0 +1,5 @@
+[/EN#150747/people A man] wearing [/EN#150748/clothing a gray coat] looks to [/EN#150751/scene the right] on [/EN#150749/scene a snowy street] .
+[/EN#150747/people A man] is standing on [/EN#150749/scene an icy street] with [/EN#150747/scene a building] beside [/EN#0/notvisual him] .
+[/EN#150747/people a man] wearing [/EN#150748/clothing a gray jacket] standing on [/EN#150749/scene the side of a street] .
+[/EN#150747/people A bald man] wearing [/EN#150748/clothing a jacket] looks at [/EN#150749/scene icy sidewalk] .
+[/EN#150747/people A bald man] stands in [/EN#150749/scene a snowy side street] .

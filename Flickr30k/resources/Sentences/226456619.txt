@@ -1,0 +1,5 @@
+[/EN#37644/people An older , somewhat obese man] with [/EN#37647/clothing no shirt] and [/EN#37654/bodyparts a tattoo] is looking out from [/EN#37646/scene the porch of his house] while [/EN#37645/animals a cat] sits on [/EN#37653/other the steps] below .
+[/EN#37644/people A shirtless , bearded and mustached man] peers through [/EN#37651/scene a home 's doorway] while [/EN#37645/animals a cat] sits on [/EN#37648/scene the bottom step of the entrance] to [/EN#37646/scene the home] .
+[/EN#37644/people Shirtless overweight man] leaning over [/EN#37652/other sill of door] , with [/EN#37645/animals a cat] sitting on [/EN#37648/other the steps] in front of [/EN#0/notvisual him] .
+[/EN#37644/people A shirtless man] rests on [/EN#37646/scene his porch] with [/EN#37645/animals a cat] on [/EN#37648/other the steps] .
+[/EN#37644/people A man] with [/EN#37647/clothing no shirt] is leaning on [/EN#37649/other a half-door] .

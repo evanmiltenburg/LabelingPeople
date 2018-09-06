@@ -1,0 +1,5 @@
+[/EN#100003/people A woman] is performing [/EN#100007/other a Latin dance] in [/EN#100006/clothing a red glistening costume] on [/EN#100009/scene a large dance floor] , with [/EN#100010/people a small crowd] behind [/EN#0/notvisual her] in [/EN#0/notvisual the distance] .
+[/EN#100003/people A dancer] wearing [/EN#100006/clothing a red ballroom dancing competition outfit] strikes [/EN#100007/other a pose] .
+[/EN#100006/clothing A woman dress] in [/EN#100006/clothing a red dance costume] is posing in [/EN#100011/scene a stretched position] .
+[/EN#100003/people A lady tango dancer] in [/EN#100006/clothing red] , finishing [/EN#100007/other her routine] .
+[/EN#100003/people Latin dancers] are extremely flexible .

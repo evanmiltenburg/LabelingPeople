@@ -1,0 +1,5 @@
+[/EN#6893/people A young child] dressed in [/EN#6896/clothing a yellow plaid shirt] and [/EN#6894/clothing a blue hat] , sits and stares out at [/EN#6897/scene the water] .
+[/EN#6893/people A little boy] wearing [/EN#6894/clothing a blue baseball cap] is sitting on [/EN#6895/scene a dock] overlooking [/EN#6897/scene the water] .
+[/EN#6893/people A little boy] in [/EN#6896/clothing a yellow shirt] and [/EN#6894/clothing a blue hat] sits on [/EN#6895/scene the dock] .
+[/EN#6893/people A boy] in [/EN#6894/clothing a blue hat] sit on [/EN#6895/scene a dock] , looking at [/EN#6897/scene water] .
+[/EN#6893/people A boy] in [/EN#6894/clothing a blue cap] is sitting by [/EN#6895/scene the dock] .

@@ -1,0 +1,5 @@
+[/EN#122284/people A woman] with [/EN#122290/bodyparts short hair] and [/EN#122285/clothing black t-shirt] is sitting in [/EN#122286/scene a crowded park] eating [/EN#122288/other a sandwich] .
+[/EN#122284/people A dark-haired man] wearing [/EN#122285/clothing a black and white t-shirt] eats in [/EN#122286/scene a park] surrounded by [/EN#122287/people people] .
+[/EN#122284/people A man] is looking right into [/EN#0/notvisual the camera] and eating [/EN#122288/other a sandwich] .
+[/EN#122284/people A man] is eating outside with [/EN#122287/people a group of people] .
+[/EN#122284/people A young man] eating at [/EN#122289/other a picnic] .

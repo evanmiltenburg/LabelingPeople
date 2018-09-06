@@ -1,0 +1,5 @@
+[/EN#105641/people A man] and [/EN#105644/people two women] sit in [/EN#105642/scene a darkened room] at [/EN#105643/other a table] with [/EN#105647/other candles] .
+[/EN#105640/people Three people] sit at [/EN#105643/other table] by [/EN#105648/other red siren] .
+[/EN#105645/other Patrons share] [/EN#105646/other a drink] at [/EN#105642/scene nightclub] .
+[/EN#105640/people A group of people] in [/EN#105642/scene a dim room] .
+[/EN#105641/people A man] speaking with [/EN#105644/people two women] .

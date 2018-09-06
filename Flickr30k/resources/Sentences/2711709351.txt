@@ -1,0 +1,5 @@
+[/EN#67956/people A man] in [/EN#67957/clothing a white hat] and [/EN#67958/clothing blue shirt] is standing in [/EN#67959/scene a fountain] with [/EN#67960/people three people] in [/EN#0/notvisual the background] .
+[/EN#67956/people A man] is cleaning out [/EN#67959/scene a fountain] while [/EN#67961/people other people] are walking around .
+[/EN#67956/people A worker] is cleaning [/EN#67964/scene the floor] of [/EN#67959/scene a big outdoor fountain] .
+[/EN#67956/people Man] in [/EN#67958/clothing a blue shirt] and [/EN#67957/clothing white hat] cleaning [/EN#67959/scene a fountain] .
+[/EN#67956/people A man] in [/EN#67958/other a blue button] up [/EN#67958/clothing shirt] wades in [/EN#67959/scene a fountain] .

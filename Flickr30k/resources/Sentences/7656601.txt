@@ -1,0 +1,5 @@
+[/EN#272819/people A man] in [/EN#272820/clothing a yellow raincoat] stands on [/EN#272814/vehicles/scene boat] with [/EN#272813/people two other men] while [/EN#272817/animals seagulls] fly overhead .
+[/EN#272812/people 3 men] on [/EN#272815/vehicles/scene a boat] at [/EN#272818/scene sea] , with [/EN#272817/animals multiple seagulls] in [/EN#0/notvisual the background] .
+[/EN#272812/people The gentlemen] are on [/EN#272816/scene the boat deck] relaxing .
+[/EN#272812/people These fisherman] are on [/EN#272814/vehicles/scene a boat] out to [/EN#272818/scene sea] .
+[/EN#272813/people Several men] are outside on [/EN#272814/vehicles/scene a boat] .

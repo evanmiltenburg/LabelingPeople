@@ -1,0 +1,5 @@
+[/EN#145041/people Four people] on [/EN#145043/vehicles bicycles] cross down [/EN#145044/scene the middle of a railroad bridge] .
+[/EN#145041/people A group of people] are riding [/EN#145043/vehicles bikes] across [/EN#145042/scene a bridge] .
+[/EN#145041/people Bicyclist] riding [/EN#145043/vehicles their bikes] across [/EN#145042/scene a metal bridge] .
+[/EN#145041/people A group of bicyclists] are crossing [/EN#145042/scene a bridge] .
+[/EN#145041/people Bicyclists] on [/EN#145042/scene the Golden Gate Bridge] .

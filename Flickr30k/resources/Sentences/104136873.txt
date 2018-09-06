@@ -1,0 +1,5 @@
+[/EN#1065/people Three people] are on [/EN#1066/scene a hilltop] overlooking [/EN#1067/scene a green valley] .
+[/EN#1065/people People] sit on [/EN#1066/scene the mountainside] and check out [/EN#1067/scene the view] .
+[/EN#1065/people Three people] rest on [/EN#1066/other a ledge] above [/EN#1069/other the moutains] .
+[/EN#1065/people Three people] hang out on top of [/EN#1066/scene a big hill] .
+[/EN#1065/people Three people] overlook [/EN#1067/scene a green valley] .

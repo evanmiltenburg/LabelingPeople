@@ -1,0 +1,5 @@
+[/EN#63813/people A little blond boy] in [/EN#63814/other a Winnie] [/EN#63815/clothing the Pool t-shirt] holds up [/EN#63816/other a red plastic bat] .
+[/EN#63813/people A little boy] in [/EN#63814/other a Winnie] [/EN#63815/clothing the Pooh T-shirt] is waiting to swing [/EN#63816/other his red bat] .
+[/EN#63813/people A little boy] holds [/EN#63816/other a bat] in [/EN#0/notvisual the air] waiting on [/EN#63818/other the ball] .
+[/EN#63813/people A small child] swings back [/EN#63816/other a red baseball bat] .
+[/EN#63813/people A boy] swings [/EN#63816/other a plastic bat] .

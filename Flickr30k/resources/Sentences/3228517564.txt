@@ -1,0 +1,5 @@
+[/EN#102762/people a boy] in [/EN#102763/clothing green jacket] is riding [/EN#102764/vehicles a small motocross bike] through [/EN#102766/other the mud] .
+[/EN#102762/people A young child] rides [/EN#102764/vehicles a bike] on [/EN#102765/scene a rough dirt path] .
+[/EN#102762/people A young child] rides [/EN#102764/vehicles a motorbike] through [/EN#102766/other the mud] .
+[/EN#102762/people A young boy] riding [/EN#102764/vehicles a dirt bike] through [/EN#102766/other the mud] .
+[/EN#102762/people A dirt biker] in [/EN#102766/other the mud] .

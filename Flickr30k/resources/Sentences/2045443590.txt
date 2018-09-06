@@ -1,0 +1,5 @@
+[/EN#25720/people A large person] in [/EN#25723/clothing a gray sweatshirt] and [/EN#25727/clothing white shorts] sits next to [/EN#25722/other a wood] working [/EN#25726/other tool] .
+[/EN#25720/people Person] in [/EN#25723/clothing hooded sweatshirt] [/EN#0/notvisual that] obscures [/EN#25728/bodyparts their face] sits next to [/EN#25721/other a freshly cut log] .
+[/EN#25720/people A man] in [/EN#25723/clothing a hooded sweatshirt] sitting on [/EN#25724/other a toolbox] .
+[/EN#25720/people A hooded man] is tampering with [/EN#25725/other a video cassette] .
+[/EN#25720/people Man] in [/EN#25723/clothing gray hoodie] nodding down .

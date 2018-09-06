@@ -1,0 +1,5 @@
+[/EN#5795/people An old woman] wearing [/EN#5797/clothing a yellow jacket] and [/EN#5799/clothing blue jeans] trying to choose [/EN#5798/other some vegetables] from [/EN#5796/scene a street stand] .
+[/EN#5795/people A gray-haired woman] in [/EN#5797/clothing a yellow jacket] looks at [/EN#5798/other vegetable produce] at [/EN#5796/scene a farmer 's market stall] .
+[/EN#5795/people An elderly woman] buying [/EN#5798/other food] from [/EN#5796/scene a market stand] .
+[/EN#5795/people A woman] shops at [/EN#5796/scene a farmers market] .
+[/EN#5795/people A woman] is looking at [/EN#5798/other produce] .

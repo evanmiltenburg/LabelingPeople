@@ -1,0 +1,5 @@
+[/EN#10737/people A woman] is looking at [/EN#10738/other a display case] with [/EN#10739/clothing three outfits] on [/EN#10742/clothing a backdrop of bright yellow] .
+[/EN#10737/people A woman] is looking at [/EN#10740/other dressed , headless mannequins] in [/EN#10738/other a store display] .
+[/EN#10737/people Woman] looking at [/EN#10739/clothing dresses] in [/EN#10741/scene window of a clothing store] .
+[/EN#10737/people A woman] looks at [/EN#10740/other some mannequins] in [/EN#10738/other a window display] .
+[/EN#10737/people A woman] looking at [/EN#10739/clothing clothing] on [/EN#10743/other a mannequins] .

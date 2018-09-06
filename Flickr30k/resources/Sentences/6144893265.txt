@@ -1,0 +1,5 @@
+Skateboarding wearing [/EN#248608/clothing black pants] , [/EN#248609/clothing a white shirt] , and [/EN#248610/clothing a blue hat] performing [/EN#0/notvisual a skateboarding trick] while [/EN#248602/people three spectators] look on in [/EN#0/notvisual the background] .
+[/EN#248602/people A man] is skateboarding in [/EN#248604/scene a park] , and [/EN#0/notvisual he] is on [/EN#248603/other a wall] , and [/EN#0/notvisual there] are [/EN#248602/people other skateboarders] in [/EN#0/notvisual the background] .
+[/EN#248602/people A male skateboarder] grinds on [/EN#248607/other a concrete rail] in [/EN#248604/scene a community park] .
+[/EN#248602/people A skateboarder] is perfecting [/EN#0/notvisual his trick] on [/EN#248603/other a wall] .
+[/EN#248602/people A skateboarder] grinds on [/EN#248603/other a cement obstacle] .

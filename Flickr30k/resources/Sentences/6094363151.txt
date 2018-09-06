@@ -1,0 +1,5 @@
+[/EN#247915/people Three people] with [/EN#247920/clothing backpacks] walk up [/EN#247917/scene a road] in [/EN#247918/scene a forest] , not far behind [/EN#247921/animals one white and one black dog] .
+[/EN#247915/people Three hikers] walking up [/EN#247917/scene a steep hill] in [/EN#247916/scene a beautiful wooded area] .
+[/EN#247915/people three people] hiking up [/EN#247917/scene a dirt road] in [/EN#247918/other the middle of the woods] .
+[/EN#247915/people Three people] hiking on [/EN#247917/scene a path] with [/EN#247918/scene a forest] ahead of [/EN#0/notvisual them] .
+[/EN#247915/people Three people] hiking [/EN#247916/scene a beautiful , green trail] .

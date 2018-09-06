@@ -1,0 +1,5 @@
+[/EN#159461/people A person] wearing [/EN#159467/clothing a blue jacket] walking up [/EN#159462/scene a hill] through [/EN#159462/scene snow] with [/EN#159464/other red skies] .
+[/EN#159461/people A man] with [/EN#159464/other skis] strapped to [/EN#159463/other his back] is walking up [/EN#159462/scene a snowy hill] .
+[/EN#159461/people A person] walks up [/EN#159462/scene a snowy hill] with [/EN#159464/other skis] on [/EN#159463/other his or her back] .
+[/EN#159461/people A skier] with [/EN#159464/other skies] on [/EN#159463/other their pack] , walking up [/EN#159465/other the slope] .
+[/EN#159461/people A snowboarder] is walking up [/EN#159462/scene a mountain] .

@@ -1,0 +1,5 @@
+[/EN#129892/animals The white dog] in front of [/EN#129891/people the person] standing in [/EN#129893/scene the water] is jumping up .
+[/EN#0/notvisual There] is [/EN#129891/people person] standing in [/EN#129893/scene water] and playing with [/EN#129892/animals a dog] .
+[/EN#129891/people A person] plays with [/EN#129892/animals their dog] in [/EN#129893/scene a shallow pond] .
+[/EN#129891/people A man] is playing with [/EN#129892/animals a dog] in [/EN#129893/scene some water] .
+[/EN#129892/animals A wet dog] and [/EN#129891/people person] in [/EN#129893/scene a marsh] .

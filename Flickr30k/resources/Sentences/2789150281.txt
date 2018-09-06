@@ -1,0 +1,5 @@
+[/EN#73060/people A man] in [/EN#73067/clothing a light blue shirt] and [/EN#73064/clothing khaki pants] is walking along side [/EN#73063/scene a market] with [/EN#73065/people several people] in [/EN#0/notvisual the background] .
+[/EN#73061/people A man] in [/EN#73062/clothing a green shirt] and [/EN#73064/clothing black pants] looks into [/EN#73063/scene a shop] on [/EN#73066/scene a crowded market street] .
+[/EN#73065/people people] are walking under [/EN#73068/scene an arcade] with [/EN#73063/scene shops] to [/EN#73070/other the side of the walk] .
+[/EN#73060/people A man] is looking at [/EN#73069/other pieces of cloth] at [/EN#73063/scene an outside market] .
+[/EN#73061/people A man] in [/EN#73062/clothing a green shirt] shops in [/EN#73063/scene an open market] .

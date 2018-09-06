@@ -1,0 +1,5 @@
+[/EN#163794/vehicles An ambulance] parked on [/EN#163795/scene the side of a road] with [/EN#163796/other its lights] on .
+[/EN#163794/vehicles An ambulance] on [/EN#163799/scene the street] with [/EN#163796/other its lights] on at [/EN#163797/scene night] .
+[/EN#163794/vehicles An ambulance] is on [/EN#163795/scene the road] at [/EN#163797/scene night] .
+[/EN#163794/vehicles An ambulance] is near [/EN#163798/other a pine tree] .
+[/EN#163794/vehicles An ambulance] going down [/EN#163795/scene the road] .

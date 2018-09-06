@@ -1,0 +1,5 @@
+[/EN#108256/people Two adults] - [/EN#108255/people a male] and [/EN#108257/people a female] - are standing on [/EN#108260/vehicles scooters] in [/EN#108258/other a field of yellow flowers] .
+[/EN#108255/people a man] and [/EN#108257/people woman] are riding [/EN#108260/vehicles scooters] through [/EN#108258/scene a field of grass] and [/EN#108258/other clover] .
+[/EN#108256/people Two people] wearing [/EN#108261/clothing helmets] ride over [/EN#108258/other the yellow and white flowers] .
+[/EN#108256/people Two people] on [/EN#108260/vehicles scooters] in [/EN#108258/other a field of flowers] .
+[/EN#108255/people A man] and [/EN#108257/people a woman] ride scooter like [/EN#108260/vehicles vehicles]

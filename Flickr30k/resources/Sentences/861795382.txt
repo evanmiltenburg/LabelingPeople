@@ -1,0 +1,5 @@
+[/EN#282111/people a boy] in [/EN#282113/clothing a blue t-shirt] is taking [/EN#282112/vehicles an orange bicycle] over [/EN#0/notvisual a jump] in [/EN#282116/scene the street] .
+[/EN#282111/people A boy] in [/EN#282113/clothing a blue shirt] and [/EN#282117/clothing shorts] jumping [/EN#282112/vehicles a bike] with [/EN#282114/scene a ramp] .
+[/EN#282111/people Young boy] on [/EN#282112/vehicles bicycle] jumping off [/EN#282114/scene a ramp] .
+[/EN#282111/people Kid] in [/EN#282113/clothing blue shirt] doing [/EN#0/notvisual tricks] on [/EN#282112/vehicles a bike]
+[/EN#282111/people A little boy] in [/EN#282113/clothing blue] doing [/EN#282112/vehicles bike] jumps .

@@ -1,0 +1,5 @@
+[/EN#109382/people Many people] walking down [/EN#109384/scene a street] and [/EN#109383/people one person] is dressed as [/EN#109383/other Santa Claus] .
+[/EN#109382/people People] are walking up and down [/EN#109384/scene a busy city sidewalk] .
+[/EN#109382/people People] are walking in [/EN#109385/scene the city] during [/EN#109387/scene the evening] .
+[/EN#109382/people A crowd of people] walking [/EN#109384/scene the street] with [/EN#109383/other Santa] .
+[/EN#109382/people A group of people] walking down [/EN#109384/scene a city sidewalk] .

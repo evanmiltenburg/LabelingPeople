@@ -1,0 +1,5 @@
+[/EN#173924/people Athlete] in [/EN#173930/clothing black shorts] running down [/EN#173927/scene a tree-lined street] .
+[/EN#173924/people A woman] in [/EN#173929/clothing a white top] runs along [/EN#173928/other a tree] lined [/EN#173927/scene path] .
+[/EN#173926/people People] exercising in [/EN#173927/scene the road] in [/EN#173931/other early autumn] .
+[/EN#173926/people People] are running down [/EN#173928/other a tree] lined [/EN#173927/scene street] .
+[/EN#173926/people Some runners] are jogging down [/EN#173927/scene the street] .

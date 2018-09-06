@@ -1,0 +1,5 @@
+[/EN#232021/people A young woman] in [/EN#232022/clothing a black and yellow dress] is carrying [/EN#232023/other a plate of food] on [/EN#232024/bodyparts her head] .
+[/EN#232021/people A dark-skinned woman] in [/EN#232022/clothing a yellow dress] with [/EN#232023/other a large plate of food] on [/EN#232024/bodyparts her head] .
+[/EN#232021/people A woman] is paused in [/EN#232025/people a crowd] , as [/EN#0/notvisual she] carries [/EN#232023/other a tray] on [/EN#232024/bodyparts her head] .
+[/EN#232021/people Young women] balancing [/EN#232023/other tray of food] on [/EN#232024/bodyparts head] walking down [/EN#232026/scene a road] .
+[/EN#232021/people A woman] in [/EN#232022/clothing a printed outfit] is carrying [/EN#232023/other a tray] on [/EN#232024/bodyparts her head] .

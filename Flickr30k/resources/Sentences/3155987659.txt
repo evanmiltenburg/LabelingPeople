@@ -1,0 +1,5 @@
+[/EN#97148/animals The black and white dog] tries to catch [/EN#97149/other a red Frisbee] on [/EN#97150/scene green grass] .
+[/EN#97148/animals A black and white dog] is trying to catch [/EN#97149/other a Frisbee] in [/EN#0/notvisual the air] .
+[/EN#97148/animals Dog] is jumping up on [/EN#97150/scene a very green lawn] to catch [/EN#97149/other a Frisbee] .
+[/EN#97148/animals A black and white dog] is catching [/EN#97149/other a Frisbee] in [/EN#97150/scene the yard] .
+[/EN#97148/animals A dog] jumps to catch [/EN#97149/other a red Frisbee] in [/EN#97150/scene the yard] .

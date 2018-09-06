@@ -1,0 +1,5 @@
+[/EN#23458/people A man] in [/EN#23459/clothing a snazzy silver suit] is playing [/EN#23460/other the keyboard] and singing .
+[/EN#23458/people A man] , dressed in [/EN#23459/clothing white] , plays [/EN#23461/instruments the piano] and sings on [/EN#23462/scene stage] .
+[/EN#23458/people A man] dressed in [/EN#23459/clothing white] plays [/EN#23460/other a keyboard] as [/EN#23463/people his band] performs .
+[/EN#23458/people Musician] is dressed in [/EN#23459/clothing white] and playing [/EN#23460/other keyboard] with [/EN#23463/people band] .
+[/EN#23458/people A man] in [/EN#23459/clothing a white outfit] is playing [/EN#23460/other an electric keyboard] .

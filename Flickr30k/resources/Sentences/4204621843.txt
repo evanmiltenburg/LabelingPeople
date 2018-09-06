@@ -1,0 +1,5 @@
+[/EN#159118/people A person] in [/EN#159125/clothing a coat] is walking through [/EN#159120/scene snow] by [/EN#159124/other the light of a street lamp] .
+[/EN#159118/people A person] walks on [/EN#159119/scene a snowy sidewalk] , lit by [/EN#159123/other street lamps] , at [/EN#159121/scene night] .
+[/EN#159118/people A person] is walking through [/EN#159119/scene a snow covered street] at [/EN#159121/scene night] .
+[/EN#159118/people A person] walking along [/EN#159120/scene a snow covered walkway] at [/EN#159121/scene night] .
+[/EN#159122/other Some] walking on [/EN#159120/scene a snowy path] in [/EN#159121/scene the dark moonlit night] .

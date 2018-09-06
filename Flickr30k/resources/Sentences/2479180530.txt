@@ -1,0 +1,5 @@
+[/EN#52519/animals a dog] is running across [/EN#52521/other the sand] with [/EN#52520/other a stick] in [/EN#52522/bodyparts its mouth] .
+[/EN#52519/animals A brown dog] runs on [/EN#52521/other the sand] , holding [/EN#52520/other a stick] .
+[/EN#52519/animals The dog] is playing with [/EN#52520/other the stick] on [/EN#52523/scene the beach] .
+[/EN#52519/animals A brown dog] runs on [/EN#52521/other the sand] carrying [/EN#52520/other a stick] .
+[/EN#52519/animals A brown dog] carrying [/EN#52520/other a stick] .

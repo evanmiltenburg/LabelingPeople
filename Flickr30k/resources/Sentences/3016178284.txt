@@ -1,0 +1,5 @@
+[/EN#87484/people A boy] wearing [/EN#87492/other full riding gear] is riding [/EN#87488/vehicles his bike] down [/EN#87490/scene a paved road] .
+[/EN#87484/people A child] wearing [/EN#87489/clothing a bicycle helmet] and [/EN#87493/clothing uniform] is riding [/EN#87488/vehicles a bike]
+[/EN#87484/people A young man] in [/EN#87489/clothing a bicycle helmet] rides on [/EN#87490/scene a street] .
+[/EN#87484/people Boy] in [/EN#87489/clothing a helmet] riding [/EN#87488/vehicles his bike] in [/EN#87491/other a marathon] .
+[/EN#87484/people A cyclist] riding [/EN#87488/vehicles a bicycle] on [/EN#87490/scene a road] .

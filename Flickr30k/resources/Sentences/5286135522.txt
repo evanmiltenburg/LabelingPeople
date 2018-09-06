@@ -1,0 +1,5 @@
+[/EN#232868/people A farm woman] wearing [/EN#232875/other blue waders] , [/EN#232871/clothing a pink shirt] , and [/EN#232872/clothing a straw hat] is harvesting [/EN#232870/other rice] in [/EN#232874/other a paddock] .
+[/EN#232868/people An older woman] wearing [/EN#232872/clothing a straw hat] , [/EN#232871/clothing a pink shirt] , and rain [/EN#232876/clothing boots] is standing in [/EN#232873/scene water] .
+[/EN#232868/people An old woman] wearing [/EN#232872/clothing a sunhat] and [/EN#232871/clothing pink blouse] examines [/EN#232869/other a grassy] , [/EN#232873/scene swampy field] .
+[/EN#232868/people An elderly lady] , with [/EN#232872/clothing a wide brimmed hat] is planting [/EN#232877/other new plants] in [/EN#232873/scene some water] .
+[/EN#232868/people A woman] collects [/EN#232877/scene grass] from [/EN#232873/scene a water soaked field] .

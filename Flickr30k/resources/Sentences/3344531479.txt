@@ -1,0 +1,5 @@
+[/EN#111284/people The tennis player] in [/EN#111285/clothing the orange shirt] is airborne whilst swinging [/EN#111287/other his racquet] .
+[/EN#111284/people The tennis player] holds [/EN#111287/other his racket] in [/EN#111289/other preparation] for [/EN#111290/other the ball] .
+[/EN#111284/people A man] in [/EN#111285/clothing a orange shirt] and [/EN#111286/clothing white shorts] playing [/EN#111288/other tennis] .
+[/EN#0/notvisual There] is [/EN#111284/people a man] in [/EN#111285/clothing an orange shirt] playing [/EN#111288/other tennis] .
+[/EN#111284/people A man] playing [/EN#111288/other tennis] .

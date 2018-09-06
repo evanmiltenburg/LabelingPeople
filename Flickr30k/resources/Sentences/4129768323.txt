@@ -1,0 +1,5 @@
+[/EN#156507/people A man] sleeping on [/EN#156514/other some pipes] in [/EN#156516/scene a park] next to [/EN#156510/instruments a guitar] and [/EN#156509/other some blocks of cement] .
+[/EN#156507/people A homeless man] sleeps on [/EN#156508/other pipes] with [/EN#156510/instruments only his guitar] as [/EN#156512/other his possession] .
+[/EN#156507/people A man] sleeping on [/EN#156508/other a bench] with [/EN#156510/instruments a guitar] set next to [/EN#0/notvisual him] .
+[/EN#156507/people A boy] with [/EN#156510/instruments a guitar] sleeps next to [/EN#156509/other a concrete structure] .
+After [/EN#156513/other music] [/EN#0/notvisual it] is [/EN#156515/other time] to have [/EN#156511/other a little nap] .

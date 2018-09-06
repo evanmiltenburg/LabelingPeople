@@ -1,0 +1,5 @@
+[/EN#67983/vehicles A four wheel drive car] is splashing through [/EN#67984/scene puddles] on [/EN#67985/scene an off road trail] .
+[/EN#67983/vehicles A car] splashes through [/EN#67986/other mud] and leaves on [/EN#67987/scene the forest floor] .
+[/EN#67983/vehicles Large SUV] driving through [/EN#67984/scene a large puddle] in [/EN#67991/scene the forest] .
+[/EN#67983/other A large van] drives down [/EN#67985/scene a counry road] in [/EN#67990/other the fall] .
+[/EN#67983/vehicles SUV] splashing [/EN#67989/scene muddy water] in [/EN#67991/scene a forest] .

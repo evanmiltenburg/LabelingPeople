@@ -1,0 +1,5 @@
+[/EN#6486/other A big green tractor] pulls [/EN#6489/other a red attachment] along [/EN#6487/scene a weeded area] .
+[/EN#6486/other A green tractor] with [/EN#6489/other a red machine] on [/EN#6488/other the back] is in [/EN#6487/scene a field] .
+[/EN#6486/other a green John Deere tractor] in [/EN#6487/scene a field] pulling [/EN#6489/vehicles a red trailer] .
+[/EN#6486/other A colorful tractor] in [/EN#6487/scene the field] .
+[/EN#6486/other A tractor] is driving in [/EN#6487/scene a field] .

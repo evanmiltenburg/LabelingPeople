@@ -1,0 +1,5 @@
+[/EN#25420/people A man] in [/EN#25423/clothing glasses] and [/EN#25422/clothing a white shirt] is playing [/EN#25421/instruments the electric guitar] .
+[/EN#25420/people Man] in [/EN#25422/clothing white polo t-shirt] with [/EN#25423/clothing glasses] plays [/EN#25421/instruments a red guitar] .
+[/EN#25420/people A man] with [/EN#25423/clothing glasses] and [/EN#25422/clothing a white shirt] playing [/EN#25421/instruments a red guitar] .
+[/EN#25420/people A man] in [/EN#25422/clothing a white collared shirt] plays [/EN#25421/instruments a red guitar] .
+[/EN#25420/people A man] with [/EN#25423/clothing glasses] playing [/EN#25421/instruments a guitar] .

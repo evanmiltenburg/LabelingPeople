@@ -1,0 +1,5 @@
+[/EN#183730/people A blond woman] in [/EN#183731/clothing a brown sweater] is standing behind [/EN#183732/other a counter] with [/EN#183733/other a display of seafood] .
+[/EN#183730/people A woman] in [/EN#183731/clothing a black shirt] stands in front of [/EN#183732/other a counter of seafood] .
+[/EN#183730/people Blond lady] with [/EN#183735/clothing apron] inquires about [/EN#183736/animals fish] at [/EN#183738/scene the market]
+[/EN#183730/people A blond woman] in [/EN#183731/clothing brown] is selling [/EN#183732/animals shrimp] .
+[/EN#183730/people A woman] stands with [/EN#183734/clothing a plastic bag] .

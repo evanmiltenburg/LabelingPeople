@@ -1,0 +1,5 @@
+[/EN#101234/people Five men] dressed in [/EN#101236/clothing tuxedos] standing on [/EN#101235/other a set of stairs]
+[/EN#101234/people Five men] in [/EN#101236/clothing tuxedos] are walking down [/EN#101235/other steps] .
+[/EN#101234/people Five men] in [/EN#101236/clothing tuxedos] walk down [/EN#101235/other a set of steps]
+[/EN#101234/people men] in [/EN#101236/clothing suits] and [/EN#101237/clothing ties] walking downsteps
+[/EN#101234/people Five men] in [/EN#101236/clothing suits] .

@@ -1,0 +1,5 @@
+[/EN#51339/people A group of people] stand in front of [/EN#51342/other an establishment] called [/EN#51340/scene The Deep End] .
+[/EN#51339/people A group of people] are walking toward [/EN#51341/other a sign] [/EN#0/notvisual that] reads " [/EN#51340/scene The Deep End] " .
+[/EN#51339/people A group of people] stand outside under [/EN#51341/other a sign] [/EN#0/notvisual that] says [/EN#51340/scene The Deep End] .
+[/EN#0/notvisual There] are [/EN#51339/people many people] gathered near [/EN#51341/other a sign] reading [/EN#51340/scene The Deep End] .
+[/EN#51339/people People] stand in front of [/EN#51341/other a sign] [/EN#0/notvisual that] says " [/EN#51340/scene The Deep End] . "

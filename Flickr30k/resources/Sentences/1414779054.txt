@@ -1,0 +1,5 @@
+[/EN#11971/people A boy] plays with [/EN#11977/bodyparts outstretched arms] on [/EN#11973/scene the sidewalk] next to [/EN#11974/scene a cobblestone street] .
+[/EN#11971/people A boy] wearing [/EN#11972/clothing a blue t-shirt] is jumping up in [/EN#0/notvisual the air] on [/EN#11974/scene a city street] .
+[/EN#11971/people A young boy] wearing [/EN#11972/clothing blue] jumps off of [/EN#11973/scene a cement sidewalk] .
+[/EN#11971/people A boy] with [/EN#11977/bodyparts his arms] stretched out to [/EN#11978/scene his left] .
+[/EN#11971/people A boy] jumping off of [/EN#11973/scene a cement block] .

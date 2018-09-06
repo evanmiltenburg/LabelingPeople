@@ -1,0 +1,5 @@
+[/EN#20001/people A male and female] are asleep on [/EN#20009/other a couch] with [/EN#19999/animals a large black dog] as [/EN#20000/people four people] sit at [/EN#20004/other a table] behind [/EN#0/notvisual them] .
+[/EN#0/notvisual There] is [/EN#20000/people a group of people] and [/EN#19999/animals a black dog] in [/EN#20010/scene a living and dining room] , [/EN#20008/other some] sleeping [/EN#20014/other some eating] .
+[/EN#20000/people The boys] are having [/EN#20011/scene a night] out from [/EN#20013/other homework] ; [/EN#20005/other some] are at [/EN#20004/other the table] while [/EN#20002/other two] are sleeping .
+[/EN#19999/animals A dog] sniffs [/EN#20003/people a pair] of sleeping [/EN#20002/people young men] while [/EN#20006/other four others] sit around [/EN#20004/other a table] .
+[/EN#20000/people A group of people] and [/EN#19999/animals a black dog] are relaxing at [/EN#20012/scene home] .

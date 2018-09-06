@@ -1,0 +1,5 @@
+[/EN#218565/people Two children] are walking down [/EN#218566/scene the sidewalk] along side [/EN#218568/other a yellow and white wall] .
+[/EN#218565/people Two people] walk down [/EN#218566/scene a brick sidewalk] by [/EN#218567/scene a yellow and white building] .
+[/EN#218565/people Two young people] are walking outside past [/EN#218568/other a two-toned wall] .
+[/EN#218565/people Two people] wearing [/EN#218569/clothing backpacks] walking along side [/EN#218567/scene a building] .
+[/EN#218565/people Two people] walking together beside [/EN#218567/scene a yellow building] .

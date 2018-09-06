@@ -1,0 +1,5 @@
+[/EN#74836/animals A brown and white dog] walks down [/EN#74839/scene a ramp] toward [/EN#74838/scene a pool of water] in [/EN#0/notvisual which] [/EN#74837/other a green tennis ball] floats .
+[/EN#74836/animals A brown and white dog] is looking at [/EN#74837/other a tennis ball] floating in [/EN#74838/scene a pool] .
+[/EN#74836/animals a brown and white dog] looking into [/EN#74838/scene a pool] at [/EN#74837/other a tennis ball] .
+[/EN#74836/animals A dog] descends [/EN#74839/scene a ramp] into [/EN#74838/scene the pool] to get [/EN#74837/other a tennis ball] .
+[/EN#74836/animals A dog] looking at [/EN#74837/other a tennis ball] floating in [/EN#74838/scene a pool] .

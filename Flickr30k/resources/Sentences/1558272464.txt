@@ -1,0 +1,5 @@
+[/EN#16271/people A person] wearing [/EN#16273/clothing a red , white , and blue helmet] sitting on [/EN#16272/other a motorcycle] .
+[/EN#16271/people A man] with [/EN#16277/bodyparts a tattoo] on [/EN#16277/bodyparts his elbow] is wearing [/EN#16273/clothing a helmet] with [/EN#16274/bodyparts a mohawk] .
+[/EN#16271/people A man] with [/EN#16273/clothing a strange helmet] is sitting on top of [/EN#16272/other a blue motorcycle] .
+[/EN#16271/people Man] with [/EN#16275/clothing a T-shirt] and [/EN#16273/clothing helmet] sitting on top of [/EN#16272/other a motorcycle] .
+[/EN#16271/people A man] with [/EN#16274/bodyparts a red mohawk] waiting at [/EN#16276/other a red light] .

@@ -1,0 +1,5 @@
+[/EN#259236/people A man] wearing [/EN#259245/clothing a plaid cap] , [/EN#259249/bodyparts/people his arm] covered in [/EN#259240/bodyparts tattoos] , pours [/EN#259239/other a mixed drink] into [/EN#259238/other a martini glass] [/EN#0/notvisual that] sits beside [/EN#259244/other an squat liquor bottle] with [/EN#259246/other a silver label] , [/EN#259241/other a dark brown bottle] with [/EN#259243/other a light label] and [/EN#259242/other a green bottle] with [/EN#259247/other a striped , brown label] .
+[/EN#259236/people A bartender] with [/EN#259248/clothing a white shirt] is pouring [/EN#259237/other a glass of orange liquor] .
+[/EN#259236/people A man] with [/EN#259240/bodyparts tattoos] is mixing [/EN#259237/other a fancy drink] at [/EN#259251/scene a bar] .
+[/EN#259236/people A bartender] pours [/EN#259237/other a drink] into [/EN#259238/other a martini glass] .
+[/EN#259236/people A man] pours [/EN#259237/other a drink] for [/EN#259250/people his customer] .

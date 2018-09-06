@@ -1,0 +1,5 @@
+[/EN#98843/people A black man] wearing [/EN#98853/clothing a blue hat] and [/EN#98854/clothing brown jacket] playing [/EN#98844/instruments drums] in [/EN#98848/other the hall] .
+[/EN#98843/people A man] is playing [/EN#98844/instruments a drum] as [/EN#98847/people a crowd of people] are walking by .
+[/EN#98843/people A man] playing [/EN#98850/other music] in [/EN#98852/scene public] for [/EN#98849/other money] as [/EN#98851/other others] walk by .
+[/EN#98843/people A street musician] is playing [/EN#98844/instruments drums] in [/EN#98846/scene a tunnel] .
+[/EN#98843/people a man] in [/EN#98846/vehicles/scene a subway] playing [/EN#98844/instruments an instrument] .

@@ -1,0 +1,5 @@
+[/EN#237414/people a woman] in [/EN#237415/clothing a pink dress] is looking at [/EN#237416/other a little boy 's book] with [/EN#0/notvisual him] .
+[/EN#237414/people A teacher] in [/EN#237415/clothing a pink shirt] assisting [/EN#237417/people young students] with [/EN#237420/other a lesson] .
+[/EN#237414/people A teacher] looks on as [/EN#237417/people young students] read and write .
+[/EN#237417/people Children] are working on [/EN#237418/other an assignment] at [/EN#237421/other school] .
+[/EN#237414/people A art teacher] helping [/EN#237419/people a student] .

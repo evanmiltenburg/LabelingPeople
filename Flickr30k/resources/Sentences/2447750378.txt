@@ -1,0 +1,5 @@
+[/EN#50381/people A man] with [/EN#50385/clothing glasses] in [/EN#50383/clothing a light colored button up shirt] talking to [/EN#50390/people a man] in [/EN#50383/clothing a blue shirt] and [/EN#50381/people a man] in [/EN#50384/clothing a dark striped shirt] .
+[/EN#50382/people Three men] , [/EN#50390/other one] in [/EN#50383/clothing a blue shirt] , [/EN#50392/other one] in [/EN#50384/clothing a striped shirt] and [/EN#50393/other one] in [/EN#50383/clothing a white shirt] are talking .
+[/EN#50381/people A man] wearing [/EN#50383/clothing a light blue shirt] and [/EN#50385/clothing glasses] is talking to [/EN#50387/people two gentleman] in front of [/EN#50386/scene his kiosk]
+[/EN#50382/people Men] discuss [/EN#50395/other something] while in front of [/EN#50386/scene stand] .
+[/EN#50381/people A man] explains [/EN#50386/other a display] to [/EN#50387/people two other men] .

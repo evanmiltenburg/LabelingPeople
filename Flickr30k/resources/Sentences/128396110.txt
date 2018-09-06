@@ -1,0 +1,5 @@
+[/EN#7218/people A couple] enjoy [/EN#7230/scene a beautiful day] bicycling on [/EN#7219/scene a bike trail] wearing [/EN#7220/clothing bicycling safety helmets] and [/EN#7221/clothing gloves] .
+[/EN#7222/people A man] wearing [/EN#7223/clothing a black helmet] and [/EN#7224/people a girl] wearing [/EN#7225/clothing a pink helmet] are cycling together .
+[/EN#7218/people Two cyclist] [/EN#7222/people a man] and [/EN#7224/people a woman] enjoy [/EN#7231/other a leisurely bike ride] on [/EN#7219/scene the cobblestone path] .
+[/EN#7218/people A couple] , wearing [/EN#7220/clothing helmets] and [/EN#7226/clothing backpacks] , ride [/EN#7227/vehicles their bikes] down [/EN#7219/scene a brick road] .
+[/EN#7222/people A man] and [/EN#7224/other a woman ride] bikes next to [/EN#0/notvisual each other] on [/EN#7219/scene a road] made of [/EN#7229/other bricks] .

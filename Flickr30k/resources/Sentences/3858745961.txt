@@ -1,0 +1,5 @@
+[/EN#146014/people Six people] sit around [/EN#146016/other a large rectangular table] watching [/EN#146013/people a gentleman] write on [/EN#146015/other the whiteboard] up [/EN#146018/scene front] .
+[/EN#146017/scene A classroom] includes [/EN#146014/people students] [/EN#0/notvisual who] observe [/EN#146020/other their professor lecture] on [/EN#146015/other the marker board] .
+[/EN#146013/people A man] in [/EN#146022/clothing a white shirt] uses [/EN#146015/other a blackboard] as [/EN#146019/other others] sit at [/EN#146016/other a table] watching .
+[/EN#146014/people Six people] siting around [/EN#146016/other a table] , with [/EN#146013/people one man] writing on [/EN#146015/other the felt board] .
+[/EN#146013/people The professor] is teaching to [/EN#146021/people their students] .

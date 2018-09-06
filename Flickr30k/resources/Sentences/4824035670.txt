@@ -1,0 +1,5 @@
+[/EN#207425/people A girl] in [/EN#207427/clothing a pink shirt] smiles as [/EN#0/notvisual she] walks by [/EN#207426/people a bright pink mural of a woman] [/EN#207429/bodyparts 's face] .
+[/EN#207425/people A girl] wearing [/EN#207427/clothing pink] walks by [/EN#207426/people a mural of a girl] with [/EN#207428/bodyparts pink hair] .
+[/EN#207425/people A girl] in [/EN#207430/clothing white pants] is walking by [/EN#207426/other a brightly painted wall] .
+[/EN#207425/people A woman] in [/EN#207427/clothing a pink shirt] walks in front of [/EN#207426/other a pink mural] .
+[/EN#207425/people A woman] poses awkwardly by [/EN#207426/other a mural] .

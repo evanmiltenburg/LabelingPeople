@@ -1,0 +1,5 @@
+[/EN#207591/people Man] wearing [/EN#207598/clothing white shirt] is walking on [/EN#207592/scene sidewalk] along side [/EN#207594/people other pedestrians] .
+[/EN#207591/people A man] in [/EN#207596/clothing a suit] is walking towards [/EN#207594/people a redheaded woman] with [/EN#207593/bodyparts her hair] tied up .
+[/EN#207591/people A man] with [/EN#207596/clothing a tan jacket] is walking past [/EN#207594/people a woman] in [/EN#207593/bodyparts a ponytail] .
+[/EN#207591/people A man] in [/EN#207595/scene New York City] walking down [/EN#207592/scene the sidewalk] .
+[/EN#207591/people A man] walking down [/EN#207592/scene a busy city street] .

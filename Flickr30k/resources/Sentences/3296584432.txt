@@ -1,0 +1,5 @@
+[/EN#107647/people A man] is interacting with [/EN#107646/animals a dog] [/EN#0/notvisual that] is running in [/EN#0/notvisual the opposite direction] .
+[/EN#107646/animals A brown dog] chases [/EN#107650/other something] [/EN#107647/people a man] behind [/EN#0/notvisual him] threw on [/EN#107648/scene the beach] .
+[/EN#107647/people A man] walking behind [/EN#107646/animals a running dog] on [/EN#107648/scene the beach] .
+[/EN#107647/people A man] playing [/EN#107649/other fetch] with [/EN#107646/animals his dog] on [/EN#107648/scene a beach] .
+[/EN#107647/people A man] and [/EN#107646/animals a dog] on [/EN#107648/scene the beach] .

@@ -1,0 +1,5 @@
+[/EN#193933/people A child] in [/EN#193935/clothing a bicycle helmet] and [/EN#193934/people a man] in [/EN#193938/clothing casual clothing] are crouched next to [/EN#193937/vehicles a toy tricycle] , pretending to fix [/EN#0/notvisual it] .
+[/EN#193934/people A man] holds [/EN#193937/other a 4-wheel cycle] for [/EN#193933/people a little boy] in [/EN#193935/clothing a blue helmet] as [/EN#193933/people the boy] holds [/EN#193940/other a tool] to fix [/EN#0/notvisual it] in [/EN#193936/scene a garage] .
+[/EN#193934/people A father] teaching [/EN#193933/people his son] to ride [/EN#193937/vehicles a tricycle] in [/EN#193936/scene a garage] - [/EN#0/notvisual both] are squatting looking at [/EN#193937/vehicles the tricycle] .
+[/EN#193933/people A toddler] wearing [/EN#193935/clothing a blue helmet] is being shown [/EN#193937/vehicles his bike] from [/EN#193934/people his father] .
+[/EN#193934/people A father] teaching [/EN#193933/people his son] how to fix [/EN#193937/vehicles his tricycle] .

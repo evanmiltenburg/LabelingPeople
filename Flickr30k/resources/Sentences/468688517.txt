@@ -1,0 +1,5 @@
+[/EN#190739/people A man] in [/EN#190740/clothing a multicolored vest] with [/EN#190742/people a woman] in [/EN#190744/clothing a black dress] are on [/EN#190741/scene a stage] with [/EN#190743/other microphones] .
+[/EN#190739/people A man] in [/EN#190740/clothing a brightly colored vest] performs on [/EN#190741/scene stage] .
+[/EN#190738/people Performers] in [/EN#190746/clothing colorful outfits] stand on [/EN#190741/scene a stage] .
+[/EN#190738/people A couple] is performing in front of [/EN#190745/people an audience] .
+[/EN#190739/people Man] and [/EN#190742/people woman] singing into [/EN#190743/other headset microphones] .

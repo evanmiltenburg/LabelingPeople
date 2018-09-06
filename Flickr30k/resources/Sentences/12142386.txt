@@ -1,0 +1,5 @@
+[/EN#5363/people A clown] in [/EN#5365/clothing a red and green shirt] , [/EN#5368/clothing yellow tie] , juggles [/EN#5362/other four small balls] .
+[/EN#5363/people A male performer] is juggling with [/EN#5362/other 4 plastic balls] .
+[/EN#5363/people A man] wearing [/EN#5364/clothing a hat] is juggling [/EN#5367/other three balls] .
+[/EN#5363/people A male] with [/EN#5364/clothing a hat] is juggling [/EN#5362/other four balls] .
+[/EN#5363/people A juggler] in [/EN#5365/other plaid] juggling [/EN#5362/other four balls] .

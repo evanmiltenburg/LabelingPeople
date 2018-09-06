@@ -1,0 +1,5 @@
+[/EN#75020/people a little boy] is running on [/EN#75021/scene the beach] with [/EN#75022/other a red bucket] in [/EN#75025/bodyparts his hand] .
+[/EN#75020/people A boy] in [/EN#75026/clothing a yellow tank top] runs away from [/EN#75023/scene a crashing wave] .
+[/EN#75020/people A child] runs away from [/EN#75023/scene an approaching wave] .
+[/EN#75020/people A kid] with [/EN#75022/other a bucket] runs from [/EN#75023/scene a wave]
+[/EN#75020/other A buy] with [/EN#75022/other a pale] on [/EN#75021/scene a beach] .

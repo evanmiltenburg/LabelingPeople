@@ -1,0 +1,5 @@
+[/EN#271990/people A person] on [/EN#271991/scene a sidewalk] with [/EN#271992/clothing a silver mask] , playing [/EN#271993/instruments a guitar] , with [/EN#271994/other sticks] between [/EN#271995/bodyparts their toes] touching [/EN#271996/instruments two smaller instruments] .
+[/EN#271990/people A person] wearing [/EN#271992/clothing a mask] with [/EN#271997/clothing on shoes] on playing [/EN#271998/other music] on [/EN#0/notvisual the street side] .
+[/EN#271990/people A man] , with [/EN#271992/clothing a full face mask] , sits on [/EN#271991/scene a sidewalk] playing [/EN#271993/instruments the guitar] .
+[/EN#271990/people A man] with [/EN#271992/clothing a mask] on is playing [/EN#271998/other music] on [/EN#271991/scene a city sidewalk] .
+[/EN#271990/people A man] wearing [/EN#271992/clothing a mask] plays [/EN#271998/other music] by [/EN#271991/scene the side of a road] .

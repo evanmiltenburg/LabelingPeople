@@ -1,0 +1,5 @@
+[/EN#6593/people a woman] is sitting on [/EN#6594/other a bench] with [/EN#6597/other a latte] in [/EN#6600/bodyparts her lap] and [/EN#6596/animals a white dog] on [/EN#6595/clothing a blue leash] to [/EN#0/notvisual her side] .
+[/EN#6593/people A woman] eats on [/EN#6594/other a bench] while [/EN#6596/animals a brown and white leashed dog] stands next to [/EN#0/notvisual her] .
+[/EN#6593/people Woman] sitting on [/EN#6594/other bench] and holding [/EN#6595/animals the leash of a large white and brown dog] .
+[/EN#6593/people A girl] in [/EN#6598/clothing a white shirt] is sitting on [/EN#6594/other a park bench] with [/EN#6596/animals a dog] next to [/EN#0/notvisual her] .
+[/EN#6593/people A woman] sits on [/EN#6594/other a bench] at [/EN#6601/scene the park] with [/EN#6596/animals her dog] in front of [/EN#0/notvisual her] .

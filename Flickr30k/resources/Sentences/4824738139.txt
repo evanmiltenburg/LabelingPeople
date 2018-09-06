@@ -1,0 +1,5 @@
+[/EN#207579/other A fighter jet plane] is landed [/EN#207580/scene outside Notre Dame cathedral] at [/EN#207582/scene night] .
+[/EN#207584/people Man] looks at [/EN#207579/other fighter plane] located in front of [/EN#207580/scene ornate building] .
+[/EN#207579/vehicles An aircraft] is standing with [/EN#207580/scene a gothic building] in [/EN#207583/other the back] .
+[/EN#207579/other A jet plane] is on [/EN#207581/other display] outside of [/EN#207580/scene the cathedral] .
+[/EN#207579/other A jet plane] is in front of [/EN#207580/scene a cathedral] .

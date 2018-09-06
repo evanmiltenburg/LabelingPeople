@@ -1,0 +1,5 @@
+[/EN#151251/people A woman] with [/EN#151259/clothing a long-sleeved red shirt] , [/EN#151260/clothing black pants] and [/EN#151261/clothing black shoes] , [/EN#151254/other dances] with [/EN#151250/people a balding man] in [/EN#151262/clothing a long-sleeved black shirt] , [/EN#151263/clothing black pants] and [/EN#151264/clothing black shoes] in [/EN#151257/scene a plain room] with [/EN#151258/scene a wooden floor] .
+[/EN#151250/people A man] lifts up [/EN#151251/people a woman] in [/EN#151255/other dance] as [/EN#151253/other their pose] for [/EN#151265/other a picture] [/EN#0/notvisual that] is being taken .
+[/EN#151250/people A man] and [/EN#151251/people women] performing [/EN#151256/other a complicated dance routine] .
+[/EN#151250/people A man] is dancing with [/EN#151251/people a woman] in [/EN#151257/scene a dance studio] .
+[/EN#151250/people A man] and [/EN#151251/people woman] are showing off [/EN#151252/other a dance move] .

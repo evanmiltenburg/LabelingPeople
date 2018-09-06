@@ -1,0 +1,5 @@
+[/EN#70441/people a bald man] in [/EN#70445/clothing gray] is holding out [/EN#70443/other a stick] whilst [/EN#70442/animals a black and brown dog] jumps up to catch [/EN#0/notvisual it] .
+[/EN#70441/people A bald man] demonstarting how high [/EN#70442/animals his brown and black dog] can jump .
+[/EN#70441/people Man] holding [/EN#70443/other a stick] while [/EN#70442/animals a dog] jumps up to grab [/EN#0/notvisual it]
+[/EN#70442/scene A medium] sized [/EN#70442/animals dog] is jumping to get [/EN#70443/other a stick] .
+[/EN#70441/people A man] holds [/EN#70443/other a stick] above [/EN#70442/animals a jumping dog] .

@@ -1,0 +1,5 @@
+[/EN#122095/people a man] , holding [/EN#122096/people a baby] and smiling , sitting in [/EN#122098/scene the pews of a church] .
+[/EN#122095/people A man] in [/EN#122099/clothing blue] smiles while holding [/EN#122096/people a baby] in [/EN#122100/clothing a light blue shirt] .
+[/EN#122095/people A man] smiles while [/EN#0/notvisual he] holds [/EN#122096/people a newborn] in [/EN#122098/other a church pew] .
+[/EN#122095/people A man] is joyfully holding [/EN#122096/people an infant] inside [/EN#122097/scene a church] .
+[/EN#122095/people A happy man] is holding [/EN#122096/people a young infant] in [/EN#122097/scene a church] .

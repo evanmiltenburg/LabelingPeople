@@ -1,0 +1,5 @@
+[/EN#87216/people A young boy] in [/EN#87218/clothing a gray sweatshirt] and [/EN#87217/clothing brown hat] is holding [/EN#87219/other a small American flag] above [/EN#87221/bodyparts his head] .
+[/EN#87216/people A kid] , in [/EN#87218/clothing a gray hoodie] , having [/EN#87220/other the back] towards [/EN#0/notvisual the camera] , is holding up [/EN#87219/other an american flag] .
+[/EN#87216/people A small boy] in [/EN#87217/clothing a cap] and [/EN#87218/clothing sweatshirt] holds up [/EN#87219/other a small American flag] .
+[/EN#87216/people A boy] in [/EN#87218/clothing a gray hoodie] and [/EN#87217/clothing black cap] holds up [/EN#87219/other an American flag] .
+[/EN#87216/people A young boy] holding up [/EN#87219/other an American flag] .

@@ -1,0 +1,5 @@
+[/EN#59941/people A red-haired woman] in [/EN#59946/clothing a blue shirt] and [/EN#59947/clothing jacket] standing as [/EN#59948/vehicles a white car] passes .
+[/EN#59941/people An angry looking woman] standing on [/EN#59944/scene the sidewalk] .
+[/EN#59942/people Three women] standing near [/EN#59943/scene a busy intersection] .
+[/EN#59941/people A redheaded woman] walking across [/EN#59945/scene the street] .
+[/EN#59942/people Women] walk down [/EN#59943/scene a city street] .

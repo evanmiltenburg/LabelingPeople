@@ -1,0 +1,5 @@
+[/EN#129344/animals A big light brown dog] runs on [/EN#129345/scene the green grass] .
+[/EN#129344/animals A yellow dog] running across [/EN#129345/scene a lush green lawn] .
+[/EN#129344/animals A brown dog] is running through [/EN#129345/scene green grass] .
+[/EN#129344/animals A yellow dog] runs through [/EN#129345/scene green grass] .
+[/EN#129344/animals Long-haired dog] running on [/EN#129345/scene a lawn]

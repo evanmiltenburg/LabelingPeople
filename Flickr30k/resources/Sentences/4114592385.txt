@@ -1,0 +1,5 @@
+[/EN#156083/vehicles/scene The rag tag of the blue bus] turning [/EN#156087/scene a street corner] seems out of [/EN#156091/scene place] amidst [/EN#156092/scene shops] , [/EN#156090/people pedestrians] , and [/EN#156084/people a lone woman] riding [/EN#156086/vehicles a red bicycle] .
+[/EN#156085/people People] are crowded around [/EN#156083/vehicles/scene a dilapidated bus] on [/EN#156087/scene the street corner]
+[/EN#156084/people A person] is riding [/EN#156086/vehicles a red bicycle] along side [/EN#156083/vehicles/scene a blue bus] .
+[/EN#156083/vehicles/scene The blue bus] passes [/EN#156085/people pedestrians] on [/EN#156089/scene a busy city street] .
+[/EN#156084/people A woman] riding [/EN#156086/vehicles a bike] past [/EN#156083/people a bus full of people] .

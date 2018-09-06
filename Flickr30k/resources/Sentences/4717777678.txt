@@ -1,0 +1,5 @@
+[/EN#194704/people A bicyclist] in [/EN#194708/clothing orange shorts] and [/EN#194707/clothing green backpack] passing through [/EN#194706/scene a busy street] .
+[/EN#194704/people A person] with [/EN#194707/clothing a green backpack] is riding [/EN#194705/vehicles a bike] down [/EN#194706/scene the road] .
+[/EN#194704/people Someone] riding [/EN#194705/vehicles a bike] in [/EN#194706/scene the street] with [/EN#194707/clothing a green backpack] .
+[/EN#194704/people A person] in [/EN#194708/clothing red shorts] riding [/EN#194705/vehicles a bike] towards [/EN#194709/people a crowd] .
+[/EN#194704/people A man] is biking in [/EN#194706/scene the road] .

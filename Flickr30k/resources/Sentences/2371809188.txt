@@ -1,0 +1,5 @@
+[/EN#44715/people A boy] is climbing up [/EN#44716/other a rock-climbing wall] while [/EN#44717/people an older boy] stands on [/EN#0/notvisual the ground]
+[/EN#44715/people Boy] rock climbing on [/EN#44716/other a blue wall] while [/EN#44717/people an adult] looks away .
+[/EN#44715/people Little boy] climbing [/EN#44716/other an indoor rock climbing wall] .
+[/EN#44715/people A boy] climbs [/EN#44716/other an indoor rock climbing wall] .
+[/EN#44715/people A boy] climbs [/EN#44716/other a rock wall] .

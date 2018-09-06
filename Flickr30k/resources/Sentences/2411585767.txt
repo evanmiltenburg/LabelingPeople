@@ -1,0 +1,5 @@
+[/EN#47068/people A man] is standing on [/EN#47069/scene a street corner] and smoking [/EN#47072/other a cigarette] .
+[/EN#47068/people A man] in [/EN#47070/clothing a suit] strokes [/EN#47075/bodyparts his chin] on [/EN#47069/scene a deserted street corner] .
+[/EN#47068/people A man] in [/EN#47070/clothing business attire] stands [/EN#47069/scene a street corner] .
+[/EN#47068/people A man] in [/EN#47070/clothing suit] waiting for [/EN#47074/other the green light] .
+[/EN#47068/people A man] in [/EN#47070/clothing a suit] by [/EN#47073/other a stoplight] .

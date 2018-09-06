@@ -1,0 +1,5 @@
+[/EN#103680/animals A white dog] with [/EN#103683/other black markings] runs through [/EN#103682/scene the snow] .
+[/EN#103680/animals A white dog] with [/EN#103681/bodyparts tan ears] is running through [/EN#103682/scene the snow]
+[/EN#103680/animals A white dog] with [/EN#103681/bodyparts red ears] is running in [/EN#103682/scene the snow] .
+[/EN#103680/animals a thin white dog] is running through [/EN#103682/scene snow] .
+[/EN#103680/animals A dog] is running through [/EN#103682/scene the snow] .

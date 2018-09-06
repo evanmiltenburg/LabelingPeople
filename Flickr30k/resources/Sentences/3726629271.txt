@@ -1,0 +1,5 @@
+[/EN#139950/animals Two dogs] on [/EN#139957/bodyparts hind legs] and [/EN#139956/animals two seated dogs] are looking at [/EN#139948/other something] in [/EN#0/notvisual the air] .
+[/EN#139947/animals Four dogs] watch [/EN#139948/other an unseen object] , [/EN#0/notvisual two of them] leaping in [/EN#0/notvisual the air] .
+[/EN#139947/animals Four dogs] look at [/EN#139952/other an object] in [/EN#139954/scene the sky] , [/EN#139953/other one] jumping to reach [/EN#0/notvisual it] .
+[/EN#139947/animals Four dogs] are playing and jumping in [/EN#139949/scene the air outside] .
+[/EN#139947/animals Four dogs] jumping in [/EN#0/notvisual the air] in [/EN#139951/scene a field] .

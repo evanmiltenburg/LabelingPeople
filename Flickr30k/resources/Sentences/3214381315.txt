@@ -1,0 +1,5 @@
+[/EN#101672/people A man] standing on [/EN#101678/bodyparts a boat full of people hands] [/EN#101673/people a child] over to [/EN#101672/people a man] [/EN#0/notvisual that] is not on [/EN#101680/vehicles/scene the boat] .
+[/EN#101672/people A man] in [/EN#101674/clothing a blue jacket] lifts [/EN#101673/people a child] dressed in [/EN#101675/clothing red] out [/EN#101680/vehicles/scene boat] crowded with [/EN#101676/people people]
+[/EN#101677/people The men] are passing [/EN#101673/people a child] to [/EN#0/notvisual each other] over [/EN#101680/vehicles/scene the side of the boat] .
+[/EN#101672/people One man] passes [/EN#101673/people a child] to [/EN#101672/people another man] from [/EN#101680/vehicles/scene the boat] to [/EN#101679/scene shore] .
+[/EN#101677/people A man] hands [/EN#101673/people a child] to [/EN#101672/people another man] as [/EN#0/notvisual they] exit [/EN#101680/vehicles/scene a boat]

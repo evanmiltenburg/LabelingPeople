@@ -1,0 +1,5 @@
+[/EN#22050/people The back of a man] in [/EN#22051/clothing a black hat] and [/EN#22052/clothing coat] standing in front of [/EN#22053/other a large green structure] .
+[/EN#22050/people A man] holding [/EN#22054/other a walkie talkie] in front of [/EN#22053/other an open green box] with [/EN#22055/other controls] in [/EN#0/notvisual it] .
+[/EN#22050/people A man] in [/EN#22059/other black standing net] to [/EN#22053/other a green table] with [/EN#22055/other buttons] .
+[/EN#22053/other A green metal box] holding [/EN#22056/other some important belongings] .
+[/EN#22050/people An older man] works [/EN#22053/other his station] by [/EN#22057/scene the boat dock] .

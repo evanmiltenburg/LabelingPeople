@@ -1,0 +1,5 @@
+[/EN#164958/people A person] in [/EN#164960/clothing a dark hoodie] does [/EN#164959/other a flip] to [/EN#164967/other the side of a set] of [/EN#164962/scene some tire tracks] in [/EN#164963/scene the snow] .
+[/EN#164958/people Person] dressed in [/EN#164960/clothing dark clothing] doing [/EN#164959/other a flip] into [/EN#164963/scene the snow] along side [/EN#164962/scene the road] .
+[/EN#164958/people A skier] is upside down on [/EN#164966/other skis] with [/EN#164968/other trees] in [/EN#0/notvisual the background] .
+[/EN#164958/people A person] is doing [/EN#164959/other a backflip] in [/EN#164963/scene a snow-covered landscape] .
+[/EN#164958/people A young man] playing on [/EN#164963/scene the side of a snow] covered [/EN#164961/scene road] .

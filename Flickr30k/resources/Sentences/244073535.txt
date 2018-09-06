@@ -1,0 +1,5 @@
+[/EN#49662/people A man] is tilting [/EN#49667/bodyparts his head] back in [/EN#49663/other a barber 's chair] , while [/EN#49666/bodyparts his beard] is lathered up before [/EN#49665/other a shave] .
+[/EN#49662/people The man] with [/EN#49667/bodyparts the brown hair] is at [/EN#49664/scene the shop] getting [/EN#49665/other his beard cutoff] .
+[/EN#49662/people A man] is sitting in [/EN#49663/other a barber 's chair] getting ready for [/EN#49665/other a shave] .
+[/EN#49662/people A man] is lathered up and ready for [/EN#49665/other a shave] at [/EN#49664/scene a barber shop] .
+[/EN#0/notvisual There] is [/EN#49662/people a large man] getting shaved .

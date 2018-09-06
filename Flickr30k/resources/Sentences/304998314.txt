@@ -1,0 +1,5 @@
+[/EN#90140/people A woman] wearing [/EN#90141/clothing a red top] is standing beside [/EN#90145/other a table] with [/EN#90142/other dishes of various foods] on [/EN#0/notvisual it] .
+[/EN#90140/people A woman] with [/EN#90143/bodyparts short hair] and [/EN#90141/clothing a red shirt] is preparing [/EN#90142/other dinner] .
+[/EN#90140/people Woman] with [/EN#90143/bodyparts red-hair] and [/EN#90141/clothing red shirt] examines [/EN#90142/other food] in [/EN#90146/other bowls] .
+[/EN#90140/people A lady] with [/EN#90143/bodyparts red-hair] prepares [/EN#90142/other some food] .
+[/EN#90144/people Three kids] making [/EN#90147/other eye contact] .

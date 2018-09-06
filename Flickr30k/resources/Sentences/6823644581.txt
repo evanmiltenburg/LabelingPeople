@@ -1,0 +1,5 @@
+[/EN#258652/people A person] in [/EN#258657/clothing jeans] is standing up and doing [/EN#258654/other a wheelie] on [/EN#258653/other the back of a motorcycle] .
+[/EN#258652/people A motorcyclist] performing [/EN#258654/other a standing wheelie] with [/EN#258656/other one foot] .
+[/EN#258652/people A man] performs [/EN#0/notvisual daring tricks] on [/EN#258655/other his motorcycle] .
+[/EN#258652/people A rider] is pulling [/EN#258654/other a wheelie] on [/EN#258653/other a motorcycle] .
+[/EN#258652/people A motorcycle rider] performs [/EN#0/notvisual a trick] .

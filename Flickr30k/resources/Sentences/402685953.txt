@@ -1,0 +1,5 @@
+[/EN#152411/people A cowboy] wearing [/EN#152413/clothing a baseball cap] is on [/EN#152414/animals a horse] in [/EN#152420/scene a rodeo corral] preparing to throw [/EN#152416/other the rope] [/EN#0/notvisual he] is spinning over [/EN#152415/animals the young , small steer] [/EN#0/notvisual which] [/EN#0/notvisual he] is chasing .
+[/EN#152411/other Rodeo roper] on [/EN#152419/scene a house] , attempting to use [/EN#152416/other a pink rope] , to capture [/EN#152415/animals a young bull] with [/EN#152421/instruments horns] .
+[/EN#152411/people a cowboy] wearing [/EN#152413/clothing a baseball cap] , riding [/EN#152414/animals a horse] , attempting to lasso [/EN#152415/animals a young bull] .
+[/EN#152411/people A man] rides [/EN#152414/animals a horse] while attempting to lasso [/EN#152415/animals a small bull] .
+[/EN#152411/people A cowboy] lassoing [/EN#152415/animals a horse] .

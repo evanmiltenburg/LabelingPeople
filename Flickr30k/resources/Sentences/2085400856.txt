@@ -1,0 +1,5 @@
+[/EN#27730/animals A red dog] crouches in [/EN#27731/scene the snow] .
+[/EN#27730/animals A golden dog] plays in [/EN#27731/scene the snow]
+[/EN#27730/animals A dog] laying in [/EN#27731/scene the snow] .
+[/EN#27730/animals A dog] lays on [/EN#27731/scene the snow] .
+[/EN#27730/animals A dog] in [/EN#27731/scene the snow] .

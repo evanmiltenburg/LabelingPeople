@@ -1,0 +1,5 @@
+[/EN#222771/people A little boy] in [/EN#222773/clothing green pants] and [/EN#222774/clothing a white shirt] is standing in [/EN#222772/scene the street] .
+[/EN#222771/people A young boy] in [/EN#222773/clothing green pants] is standing alone on [/EN#222772/scene a road] .
+[/EN#222771/people A toddler] is standing alone in [/EN#222772/scene the middle of the road] .
+[/EN#222771/people A baby] in [/EN#222773/clothing green pants] is walking on [/EN#222772/scene a street] .
+[/EN#222771/people A baby boy] standing looking at [/EN#0/notvisual the ground] .

@@ -1,0 +1,5 @@
+[/EN#157330/people A man] and [/EN#157334/people a woman] are standing in front of [/EN#157332/scene a store] [/EN#0/notvisual that] sells [/EN#157338/other phone cards] .
+[/EN#157330/people A boy] trying to convince [/EN#157334/people a girl] to come with [/EN#0/notvisual him] into [/EN#157332/scene the store] .
+[/EN#157331/people Three people] stand in front of [/EN#157332/scene a store] with [/EN#157336/other a white sofa] .
+[/EN#157333/people Two young people] in [/EN#157339/clothing jeans] looking at [/EN#0/notvisual each other] .
+[/EN#157331/people Three friends] loiter around [/EN#157335/other a storefront] .

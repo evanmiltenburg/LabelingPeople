@@ -1,0 +1,5 @@
+[/EN#206802/people A woman] in [/EN#206807/clothing summer attire] is walking with [/EN#206803/vehicles her bike] along [/EN#0/notvisual what] may be [/EN#206804/scene a boardwalk] .
+[/EN#206802/people A girl] in [/EN#206806/clothing a white shirt] , walking beside [/EN#206803/vehicles her bike] .
+[/EN#206802/people Woman] pushing [/EN#206803/vehicles a bicycle] along [/EN#206804/scene the sidewalk] .
+[/EN#206802/people A woman] walking [/EN#206803/vehicles a bike] down [/EN#206804/scene a busy sidewalk] .
+[/EN#206802/people A woman] carrying [/EN#206803/vehicles her bike] through [/EN#206805/people a crowd] .

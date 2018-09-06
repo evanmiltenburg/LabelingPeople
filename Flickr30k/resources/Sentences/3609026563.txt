@@ -1,0 +1,5 @@
+[/EN#131274/animals Two newborn puppies] are being held by [/EN#131275/bodyparts a pair of human hands] .
+[/EN#131274/animals Two white newborn puppies] being held by [/EN#131275/bodyparts hands] .
+[/EN#131273/people A person] is holding [/EN#131274/animals two newborn puppies] .
+[/EN#131273/people A man] holds [/EN#131274/animals two puppies] .
+[/EN#131273/people a man] holding [/EN#131274/animals puppies]

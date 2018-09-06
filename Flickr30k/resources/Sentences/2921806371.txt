@@ -1,0 +1,5 @@
+[/EN#81486/people A man] wearing [/EN#81488/clothing a green coat] and [/EN#81490/clothing plaid scarf] , is wearing [/EN#81489/clothing spectacles] and reading [/EN#81487/other a book] behind [/EN#81491/scene a blue backdrop] .
+[/EN#81486/people A man] wearing [/EN#81489/clothing glasses] and [/EN#81488/clothing a coat] and checkered [/EN#81490/clothing scarf] is holding [/EN#81487/other a book] , saying [/EN#81493/other something] .
+[/EN#81486/people A man] with [/EN#81489/clothing glasses] , [/EN#81488/clothing a coat] and [/EN#81490/clothing scarf] stands in front of [/EN#81491/other a blue wall] with [/EN#81487/other an open book] .
+[/EN#81486/people A man] in [/EN#81488/clothing a gray coat] and checkered [/EN#81490/clothing scarf] holds [/EN#81487/other an open book] .
+[/EN#81486/people a man] wearing [/EN#81488/clothing a coat] and [/EN#81490/clothing scarf] reads aloud on [/EN#81494/scene stage] .

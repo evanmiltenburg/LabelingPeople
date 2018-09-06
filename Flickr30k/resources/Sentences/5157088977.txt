@@ -1,0 +1,5 @@
+[/EN#230053/people A boy] with [/EN#230065/clothing a striped shirt] and [/EN#230066/clothing muddy jeans] is sitting on [/EN#230060/scene a brick sidewalk] , holding [/EN#230058/other an object] .
+[/EN#230054/people A couple young men] sit on [/EN#230056/other a stoop] in [/EN#230063/scene a run-down neighborhood] ; [/EN#230053/other one] seems to be metalworking .
+[/EN#230055/people A young man] is doing [/EN#230058/other metal work] while sitting on [/EN#230056/other a bench] in [/EN#230057/scene the street] .
+[/EN#230055/people Two men] are sitting and working in [/EN#230061/scene an ornate doorway] .
+[/EN#230053/people A young man] works on [/EN#230062/other a rod iron project] in [/EN#230057/scene an alley] .

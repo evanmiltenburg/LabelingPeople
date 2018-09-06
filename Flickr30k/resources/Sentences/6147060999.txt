@@ -1,0 +1,5 @@
+[/EN#248644/people Three young boys] are wading in [/EN#248647/scene water] , walking out to [/EN#248645/vehicles/scene a boat] nearby .
+[/EN#248644/people Three young boys] are swimming in [/EN#248646/scene a body of water] near [/EN#248645/vehicles/scene a boat] .
+[/EN#248644/people Three children] are playing in [/EN#248647/scene the water] near [/EN#248645/vehicles/scene a boat] .
+[/EN#248644/people three children] in [/EN#248646/scene the ocean] next to [/EN#248648/other a sailboat] .
+[/EN#248644/people Three young African boys] in [/EN#248647/scene water] .

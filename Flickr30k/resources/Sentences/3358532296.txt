@@ -1,0 +1,5 @@
+[/EN#112479/people People] walking , playing , sleeping in [/EN#112478/scene the park] .
+[/EN#112476/people A group of guys] playing [/EN#112477/other basketball] at [/EN#112478/scene a park] .
+[/EN#112476/people Children] play [/EN#112482/other basketball] on [/EN#112477/other an outdoor court] .
+[/EN#112476/people Many boys] are playing on [/EN#112477/scene a basketball court] .
+[/EN#112476/people Kids] at [/EN#112478/scene a park] play on [/EN#112477/scene a basketball court] .

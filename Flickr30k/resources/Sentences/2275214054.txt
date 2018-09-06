@@ -1,0 +1,5 @@
+[/EN#38386/people A man] in [/EN#38387/clothing a green hard hat] and [/EN#38388/clothing yellow vest] is looking down .
+[/EN#38386/people A man] in [/EN#38387/clothing a green hard hat] and [/EN#38388/bodyparts yellow safety vest frowns] .
+[/EN#38386/people A worker] in [/EN#38388/clothing a yellow safety vest] and [/EN#38389/bodyparts goggles frowns] .
+[/EN#38386/people a construction worker] is frowning with [/EN#38388/clothing a yellow vest]
+[/EN#38386/people A man] standing in [/EN#38388/clothing a yellow jacket] .

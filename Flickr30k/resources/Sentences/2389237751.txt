@@ -1,0 +1,5 @@
+[/EN#45770/people Shirtless man] wearing [/EN#45771/other a blue towel] on [/EN#45774/bodyparts his head] is shaving in front of [/EN#45770/other a mirror] .
+[/EN#45770/people A shirtless man] with [/EN#45771/other a blue towel] on [/EN#45774/bodyparts his head] is shaving [/EN#45773/bodyparts his beard] .
+[/EN#45770/people Man] with [/EN#45771/other a blue towel] around [/EN#45775/bodyparts his hair] is shaving [/EN#45773/bodyparts his beard] .
+[/EN#45770/people A man] standing in front of [/EN#45770/other a mirror] while shaving [/EN#45776/bodyparts his neck] .
+[/EN#45770/people A man] with [/EN#45771/other a towel] on [/EN#45774/bodyparts his head] is shaving .

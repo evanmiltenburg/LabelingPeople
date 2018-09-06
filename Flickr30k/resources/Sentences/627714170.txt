@@ -1,0 +1,5 @@
+[/EN#251492/people An old man] wearing [/EN#251498/clothing khaki pants] and [/EN#251496/clothing a brown shirt] standing on [/EN#251495/scene the sidewalk] in front of [/EN#251497/scene a building] .
+[/EN#251492/people A uniformed man] stands next to [/EN#251493/other a door] with [/EN#251499/bodyparts arms] raised in front of [/EN#251500/bodyparts his face] .
+[/EN#251492/people One man] standing alone on [/EN#251495/scene a sidewalk] adjusting [/EN#251494/clothing his hat] .
+[/EN#251492/people An old man] wearing [/EN#251494/clothing a hat] stands outside [/EN#251493/other a shop door] .
+[/EN#251492/people A man] wearing [/EN#251494/clothing a gray cap] is looking down .

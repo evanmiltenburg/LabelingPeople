@@ -1,0 +1,5 @@
+[/EN#32375/people A baby] wearing [/EN#32377/clothing a white sleeper] is sleeping in [/EN#32376/other a crib] .
+[/EN#32375/people An infant] napping in [/EN#0/notvisual it] 's [/EN#32376/other crib] in [/EN#32377/clothing pajamas] .
+[/EN#32375/people An infant] sleeping in [/EN#32376/other their crib] .
+[/EN#32375/people A baby] sleeping on [/EN#32378/other its back] .
+[/EN#32375/people A baby] sleeps in [/EN#32376/other its bed] .

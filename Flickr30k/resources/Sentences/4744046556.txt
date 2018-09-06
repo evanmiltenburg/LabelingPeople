@@ -1,0 +1,5 @@
+[/EN#197887/people A man] in [/EN#197891/clothing a white shirt] and [/EN#197889/people a man] in [/EN#197890/clothing an orange shirt] and [/EN#197894/clothing red turban] are looking at [/EN#197886/other things] under [/EN#197885/other microscopes] .
+[/EN#197883/people Two men] sitting at [/EN#197888/other a counter] looking into magnifying [/EN#197893/clothing glasses] at [/EN#197896/other the same time] .
+[/EN#197883/people Two men] look through [/EN#197885/other microscopes] in [/EN#197884/animals/scene a lab] with [/EN#197892/other chemicals] and [/EN#197886/other petri dishes] .
+[/EN#197883/people Two men] in [/EN#197884/scene a laboratory] are peering through [/EN#197885/other microscopes] to observe [/EN#197895/scene slides] .
+[/EN#197883/people Two students] observing [/EN#197897/other things] in [/EN#197885/other a microscope] in [/EN#197884/animals/scene a student lab] .

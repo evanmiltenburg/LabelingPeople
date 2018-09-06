@@ -1,0 +1,5 @@
+[/EN#268650/people A man] is sitting by [/EN#268654/other a large plant] waiting to shine [/EN#268653/clothing a customer 's shoes] .
+[/EN#268650/people A shoeshine man] sits on [/EN#268658/other his stool] in front of [/EN#268659/scene an empty seat] .
+[/EN#268650/people A man] sites on [/EN#268652/other a bench] waiting to shoeshine .
+[/EN#268650/other A shoe shiner] waits for [/EN#268656/people customers] .
+[/EN#268650/other a shoe shiner] waits for [/EN#268650/people customers] .

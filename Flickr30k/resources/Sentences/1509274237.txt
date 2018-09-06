@@ -1,0 +1,5 @@
+[/EN#15230/people A woman] in [/EN#15231/clothing a long white dress] and [/EN#15234/clothing white boots] is walking along [/EN#15232/other a stone structure] with [/EN#15235/people white stone columns] .
+[/EN#15230/people A woman] with [/EN#15237/clothing a blue purse] and [/EN#15234/clothing short white boots] is walking outdoors near [/EN#15235/people some columns] .
+[/EN#15230/people A woman] in [/EN#15231/clothing a white , striped dress] and [/EN#15234/clothing white boots] , walking along [/EN#15232/other a marble platform] .
+[/EN#15230/people A woman] walks on [/EN#15233/scene a sidewalk] wearing [/EN#15231/clothing a white dress] with [/EN#15236/other a blue plaid pattern] .
+[/EN#15230/people A girl] in [/EN#15231/clothing a plaid dress] is walking on [/EN#15233/scene a sidewalk] next to [/EN#15238/scene a stone building] .

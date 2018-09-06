@@ -1,0 +1,5 @@
+[/EN#169845/people A sleeping man] lying on [/EN#0/notvisual his side] on [/EN#169846/scene the sidewalk] wearing [/EN#169847/clothing soiled clothes] and [/EN#169851/bodyparts unkempt hair] .
+[/EN#169845/people A woman] in [/EN#169847/clothing tattered clothing] is laying on [/EN#169846/scene the sidewalk] near [/EN#169850/other the wall] .
+[/EN#169845/people A homeless man] lays by [/EN#169848/scene a building] , asleep in [/EN#169847/clothing dirty clothes] .
+[/EN#169845/people A man] wearing [/EN#169847/clothing dirty clothes] is sleeping on [/EN#169846/scene the sidewalk] .
+[/EN#169845/people A man] laying on [/EN#169846/scene a sidewalk] .

@@ -1,0 +1,5 @@
+[/EN#96856/people A young child] with [/EN#96857/people a toddler] are standing in [/EN#96854/scene a field of grass] with [/EN#96855/other a yellow tape] behind [/EN#0/notvisual them] .
+[/EN#96853/people Two small children] are talking in [/EN#96854/scene a field] in front of [/EN#96855/other a yellow caution tape] .
+[/EN#96853/people Two young children] stand in [/EN#96854/scene a field] and [/EN#96858/other interact] with [/EN#0/notvisual each other] .
+[/EN#96853/people Two little boys] standing on [/EN#96854/scene a field of grass] together .
+[/EN#96853/people Two little boys] are on [/EN#96854/scene the grass] .

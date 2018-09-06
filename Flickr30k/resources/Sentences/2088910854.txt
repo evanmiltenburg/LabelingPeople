@@ -1,0 +1,5 @@
+[/EN#27938/people A man] wearing [/EN#27939/clothing a black knit cap] with [/EN#27940/clothing a red and white striped headband] with [/EN#27940/other a flower] on [/EN#27944/clothing top] .
+[/EN#27938/people An man] with [/EN#27939/clothing a black ski cap] and [/EN#27940/clothing a red and white headband] looks into [/EN#0/notvisual the distance] .
+[/EN#27938/people A large man] is wearing [/EN#27940/clothing a headband] with [/EN#27940/other mistletoe] attached to [/EN#0/notvisual it] .
+[/EN#27938/people A man] in [/EN#27943/clothing a sweatshirt] and [/EN#27939/clothing cap] wears [/EN#27940/other a flower] on [/EN#27945/bodyparts his head] .
+[/EN#27938/people Man] wearing [/EN#27939/clothing a black hat] with [/EN#27940/other a christmas theme] .

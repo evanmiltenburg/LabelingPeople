@@ -1,0 +1,5 @@
+[/EN#145246/people A man] in [/EN#145250/clothing a white striped shirt] and [/EN#145253/clothing blue jeans] using [/EN#145247/other a water hose] to spray [/EN#145255/scene water] on [/EN#145251/scene the ground of concrete ruins] .Fo .
+[/EN#145246/people A man] in [/EN#145250/clothing a striped shirt] standing next to [/EN#145254/other partial brick walls] while using [/EN#145247/other a garden hose] to spray [/EN#0/notvisual the ground] .
+After [/EN#145252/other a sandstorm] , [/EN#145246/people a maintenance worker] cleaned [/EN#145248/other debris] from [/EN#145251/scene the historic ruins] .
+[/EN#145246/people A man] in [/EN#145250/clothing a striped shirt] is standing outside wetting down [/EN#145249/other a street or pathway] .
+[/EN#145246/people The man] washes down [/EN#145251/scene the walkway] .

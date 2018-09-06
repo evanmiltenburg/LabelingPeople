@@ -1,0 +1,5 @@
+[/EN#180200/people A woman] wearing [/EN#180204/clothing a yellow blouse] is walking on [/EN#180202/scene a city sidewalk] while [/EN#180201/vehicles a cab] whizzes by .
+[/EN#180200/people A woman] in [/EN#180204/clothing yellow] walking while [/EN#180201/vehicles a bright yellow car] passes near [/EN#0/notvisual her] .
+[/EN#180200/people A woman] in [/EN#180205/clothing yellow] walks next to [/EN#180208/other a tree] in [/EN#180203/scene the city] .
+[/EN#180200/people A woman] in [/EN#180205/clothing yellow] is walking outside of [/EN#180206/scene a building] .
+[/EN#180200/people Woman] in [/EN#180205/clothing yellow] walking down [/EN#180207/scene a sidewalk] .

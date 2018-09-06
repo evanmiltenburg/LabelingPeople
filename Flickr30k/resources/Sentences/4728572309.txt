@@ -1,0 +1,5 @@
+[/EN#196157/people A young boy] standing at [/EN#196158/people the front of a group of children] is wearing [/EN#196162/clothing a green shirt] and holding [/EN#196165/bodyparts his hands] on [/EN#196166/bodyparts his head] .
+[/EN#196158/people A group of children] listening to [/EN#196164/people a teacher] read [/EN#196167/other a story] in [/EN#196161/scene the library] .
+[/EN#196159/people A large group of children] is sitting together with [/EN#196163/people adults] behind [/EN#0/notvisual them] .
+[/EN#196157/people A child] in [/EN#196162/clothing a green shirt] is in [/EN#196161/scene a crowded classroom] .
+[/EN#196159/people Children] at [/EN#196161/scene a library] in [/EN#196160/people group] waiting .

@@ -1,0 +1,5 @@
+[/EN#92672/people a mountain biker] is riding on [/EN#92674/scene a marked out competition trail] in [/EN#92677/other the woods] .
+[/EN#92672/people A person] wearing [/EN#92678/clothing red] rides [/EN#92673/vehicles a bicycle] over [/EN#92674/scene a dirt path] .
+[/EN#92672/people Bicyclist] riding on [/EN#92676/other a dirt race course] .
+[/EN#92675/people Mountain bike riders] on [/EN#92674/scene a dirt trail] .
+[/EN#92672/people A woman] rides [/EN#92673/vehicles a bike] on [/EN#92674/scene a dirt path] .

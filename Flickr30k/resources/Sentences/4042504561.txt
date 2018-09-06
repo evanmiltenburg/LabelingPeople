@@ -1,0 +1,5 @@
+[/EN#152930/people A group of people] sitting in on [/EN#152938/people a conference] and listening to [/EN#152933/people the guest speaker] .
+[/EN#152932/people A group of people] are gathered to talk about [/EN#152940/other something] important .
+[/EN#152932/people People] sitting on [/EN#152939/other chairs] in [/EN#152935/scene a room] with [/EN#152933/people one person] standing .
+[/EN#152936/other A group of journalists] are gathered in [/EN#152935/scene a conference room] .
+[/EN#152933/people A man] speaking at [/EN#152931/people a conference] .

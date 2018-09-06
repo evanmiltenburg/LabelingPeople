@@ -1,0 +1,5 @@
+[/EN#147188/people A person] with [/EN#147190/clothing a blue backpack] and [/EN#147194/clothing a purple helmet] rides [/EN#147189/vehicles a bicycle] over [/EN#147191/scene a narrow bridge] .
+[/EN#147188/people A woman] rides [/EN#147189/vehicles her bike] across [/EN#147192/scene a fenced in sidewalk] , and approaches [/EN#147193/people a girl] nearby .
+[/EN#147188/people A teenager] enjoys [/EN#147196/other a bike ride] across [/EN#147191/scene a bridge] on [/EN#147195/scene a sunny day] .
+[/EN#147188/people A bike rider] with [/EN#147190/clothing a blue backpack] peddling across [/EN#147191/scene a bridge] .
+[/EN#147188/people A person] wearing [/EN#147190/clothing a blue backpack] is riding [/EN#147189/vehicles a bike] .

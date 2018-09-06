@@ -1,0 +1,5 @@
+[/EN#177566/people A man] with [/EN#177570/clothing a dark top] and [/EN#177567/clothing a brown hat] is standing on [/EN#177569/other equipment] behind [/EN#177568/animals a group of animals] .
+[/EN#177566/people A man] wearing [/EN#177567/clothing a hat] is standing on [/EN#177569/other a machine] [/EN#0/notvisual that] is being pulled by [/EN#177568/animals horses] .
+[/EN#177566/people An Amish man] breaks up [/EN#177572/other the soil] with [/EN#177568/people the help of his team] of [/EN#177568/animals mules] .
+[/EN#177566/people Man] in [/EN#177567/clothing brimmed hat] with [/EN#177568/animals several horses] pulling [/EN#177569/other a plow] through [/EN#177572/scene dirt] .
+[/EN#177566/people A man] is standing with [/EN#177568/animals a group of donkeys] on [/EN#177571/scene a farm] .

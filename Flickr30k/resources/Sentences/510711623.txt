@@ -1,0 +1,5 @@
+[/EN#229011/people A few people] look at [/EN#229012/other an advertisement] on [/EN#229014/scene a city street] .
+[/EN#229011/people These people] are looking at [/EN#229013/other the screen] for [/EN#0/notvisual directions] .
+[/EN#229011/people Four people] looking at [/EN#229012/other large advertisements] outside .
+[/EN#229011/people People] are viewing [/EN#229012/other advertisements] in [/EN#229015/scene an urban area] .
+[/EN#229011/people Four people] standing near [/EN#229013/other signs] reading [/EN#0/notvisual them] .

@@ -1,0 +1,5 @@
+[/EN#77403/people The boy] in [/EN#77406/clothing the blue jacket] and [/EN#77407/clothing gray cap] is playing with [/EN#77404/other a ball] .
+[/EN#77403/people A boy] wearing [/EN#77406/clothing a blue jacket] swings [/EN#77405/other a bat] at [/EN#77404/other a white ball] .
+[/EN#77403/people A little boy] in [/EN#77406/clothing a blue coat] hits [/EN#77404/other a ball] with [/EN#77405/other a stick] .
+[/EN#77403/people A young boy] in [/EN#77406/clothing a blue jacket] swings [/EN#77405/other a bat] at [/EN#77404/other a ball] .
+[/EN#77403/people A little boy] in [/EN#77406/clothing a blue jacket] hits [/EN#77404/other a baseball] .

@@ -1,0 +1,5 @@
+[/EN#123667/people A man] in [/EN#123668/clothing a green t-shirt] looks at [/EN#123669/other his reflection] while shaving using [/EN#123670/other a straight razor] .
+[/EN#123667/people A man] in [/EN#123668/clothing a green shirt] is shaving with [/EN#123670/other a straight razor] .
+[/EN#123667/people A man] uses [/EN#123670/other a straight razor] to shave [/EN#123671/bodyparts his neck] .
+[/EN#123667/people A man] shaving with [/EN#123670/other a straight razor] .
+[/EN#123667/people A man] shaving in [/EN#123669/other the mirror] .

@@ -1,0 +1,5 @@
+[/EN#79404/people A man] on [/EN#79405/vehicles a motorized bike] rides across [/EN#79406/scene a dirt road] .
+[/EN#79404/people A person] on [/EN#79405/vehicles a dirt bike] is riding up [/EN#79406/scene a sandy hill] .
+[/EN#79404/people A man] rides [/EN#79405/vehicles a pinkish motorbike] on [/EN#79406/scene a hill] .
+[/EN#79404/people Man] riding [/EN#79405/vehicles a dirt bike] on [/EN#79406/scene a dirt track] .
+[/EN#79404/people A person] riding [/EN#79405/vehicles a dirt bike] .

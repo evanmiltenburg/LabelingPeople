@@ -1,0 +1,5 @@
+[/EN#149903/people A man] in [/EN#149910/clothing a red shirt] sits while leaning on [/EN#149906/people a walker] and holding [/EN#149909/other a water bottle] .
+[/EN#149903/people An elderly disabled man] is sitting on [/EN#149904/other a chair] holding [/EN#149907/scene a bottle of water] .
+[/EN#149903/people An older man] with [/EN#149906/people a walker] is sitting down on [/EN#149904/other a chair] in [/EN#149905/scene the grass] .
+[/EN#149903/people A man] with [/EN#149906/people a walker] is sitting in [/EN#149904/other a lawn chair] in [/EN#149908/other the sunshine] .
+[/EN#149903/people Old man] with [/EN#149906/people a walker] sits alone in [/EN#149905/scene a field] .

@@ -1,0 +1,5 @@
+[/EN#145173/people A white female med student] wearing [/EN#145178/clothing glasses] , [/EN#145175/clothing a white lab coat] , [/EN#145184/clothing jeans] , and [/EN#145186/clothing sneakers] and holding [/EN#145176/animals a gray microscope kit] is taking [/EN#0/notvisual a picture of herself] in [/EN#145174/other a full-length mirror] [/EN#0/notvisual she] propped up beside [/EN#145183/other her desk full of books] on [/EN#145182/other chemistry] , [/EN#145185/other organic chemistry] , and [/EN#145181/other biology] .
+[/EN#145173/people A woman] in [/EN#145175/clothing a white lab coat] is carrying [/EN#145176/other a box] and [/EN#145178/clothing safety goggles] , and has [/EN#145180/other a light] .
+[/EN#145173/people A woman] in [/EN#145175/clothing a lab coat] and [/EN#145178/clothing glasses] taking [/EN#0/notvisual a photo of herself] in [/EN#145174/other her mirror] .
+[/EN#145173/people Lady] taking [/EN#145177/other a picture] in [/EN#145174/other the mirror] while holding [/EN#145176/other her gear] .
+[/EN#145173/people A girl] in [/EN#145175/clothing a lab coat] holding [/EN#145176/other a microscope case] .

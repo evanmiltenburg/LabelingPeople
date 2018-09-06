@@ -1,0 +1,5 @@
+[/EN#159141/people A woman] with [/EN#159145/clothing a long brown coat] stands under [/EN#159143/clothing a black umbrella] in [/EN#159142/people a street full of people] with [/EN#159146/other a smirk] on [/EN#159149/bodyparts her face] .
+[/EN#159141/people A woman] wears [/EN#159150/bodyparts her hair] down and does not have [/EN#159151/bodyparts her head] covered like [/EN#159153/other those] around [/EN#0/notvisual her] .
+[/EN#0/notvisual There] are [/EN#159142/people many people] walking through [/EN#159147/scene a town] [/EN#0/notvisual that] has worn out [/EN#159148/scene buildings] .
+[/EN#159142/people People] are walking down [/EN#159144/scene a street] , [/EN#159152/other one] is carrying [/EN#159143/clothing an umbrella] .
+[/EN#159142/people Crowd of people] walking down [/EN#159144/scene a city street] .

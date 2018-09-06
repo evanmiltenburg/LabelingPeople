@@ -1,0 +1,5 @@
+[/EN#120540/people A little girl] standing next to [/EN#120540/other a small hay bail] is outside holding [/EN#120542/other an ear of corn] and looking at [/EN#0/notvisual it] .
+[/EN#120540/people A little girl] wearing [/EN#120545/clothing green pants] holding [/EN#120542/other something] while standing next to [/EN#120541/other a mini hay bale] .
+[/EN#120540/people A toddler] in [/EN#120546/clothing sandals] stand next to [/EN#120541/other a miniature hay bale] .
+[/EN#120540/people A little girl] is standing outside on [/EN#120543/other a blanket] .
+[/EN#120540/people A little girl] is playing near [/EN#120541/other a hay bale] .

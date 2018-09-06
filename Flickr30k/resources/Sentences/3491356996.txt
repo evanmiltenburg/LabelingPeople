@@ -1,0 +1,5 @@
+[/EN#122259/people A squatted man] is working on [/EN#122262/other a laptop computer] on [/EN#122261/scene a sidewalk] .
+[/EN#122259/people a woman] is crouched using [/EN#122262/other her laptop] on [/EN#122261/scene a busy sidewalk]
+[/EN#122259/people A man] works on [/EN#122262/other his laptop] on [/EN#0/notvisual the ground] by [/EN#122261/scene a street] .
+Finally [/EN#0/notvisual he] got [/EN#122264/scene one bar] on [/EN#122263/other his wifi connection] .
+[/EN#122259/people A man] outside kneeling at [/EN#122262/other a laptop] .

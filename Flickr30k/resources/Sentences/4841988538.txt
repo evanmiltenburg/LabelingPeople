@@ -1,0 +1,5 @@
+[/EN#209694/people A man] wearing [/EN#209695/clothing a blue fleece] and [/EN#209700/clothing sunglasses] holds on to [/EN#209699/other a rope] attached to [/EN#209697/other a structure] .
+[/EN#209694/people One man] standing in [/EN#209696/scene a clearing] attempting to pull [/EN#209697/other an object] by [/EN#209699/other a rope] .
+[/EN#209694/people A man] wearing [/EN#209695/clothing a blue sweatshirt] pulling [/EN#209699/other a rope] .
+[/EN#209694/people A man] pulls on [/EN#209699/other a rope] in [/EN#209701/scene the country] .
+[/EN#209694/people A man] pulls on [/EN#209699/other a rope] in [/EN#209696/scene a field] .

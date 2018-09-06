@@ -1,0 +1,5 @@
+[/EN#52240/people A man] with [/EN#52245/bodyparts brown hair] is smoking [/EN#52242/other a cigarette] and wearing [/EN#52241/clothing a black tank top] .
+[/EN#52240/people A man] in [/EN#52241/clothing a muscle shirt] smokes in front of [/EN#52244/other wooden boards] .
+[/EN#52240/people White male] in [/EN#52241/other a gray wife beater] smoking [/EN#52242/other a cigarette] .
+[/EN#52240/people A man] in [/EN#52241/clothing a black tank top] is smoking .
+[/EN#52240/people A man] is smoking [/EN#52242/other a cigarette] .

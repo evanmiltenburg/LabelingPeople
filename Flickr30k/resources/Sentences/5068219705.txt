@@ -1,0 +1,5 @@
+[/EN#228011/people A man] in [/EN#228020/scene the street] with [/EN#228012/vehicles an upside down bike] standing outside [/EN#228013/vehicles the back of a car] with [/EN#228013/other the hatch] open .
+[/EN#228011/people A balding man] assembles [/EN#228012/vehicles a bicycle] with [/EN#228018/other parts] gathered from [/EN#228013/vehicles the back of a vehicle] .
+[/EN#228011/people A man] works on [/EN#228012/vehicles a bicycle] [/EN#0/notvisual that] 's set upside down in front of [/EN#228019/vehicles two cars] .
+[/EN#228011/other Man repairs] [/EN#228012/vehicles upturned bicycle] behind [/EN#228013/vehicles a car] with [/EN#228013/other open trunk]
+[/EN#228011/people A man] in [/EN#228021/clothing red pants] working on [/EN#228012/vehicles his bike] with [/EN#228017/other a wrench] .

@@ -1,0 +1,5 @@
+[/EN#165928/people A young boy] in [/EN#165934/clothing a Boy Scout shirt] sits in [/EN#165930/other a folding camp chair] [/EN#165932/other indoors] , with [/EN#165929/other other similar chairs] around [/EN#0/notvisual him] , and [/EN#165931/scene a green tent] behind [/EN#0/notvisual him] .
+[/EN#165928/people A young boy scout] sits in [/EN#165930/other a camping chair] in front of [/EN#165931/scene a green tent] , [/EN#165932/other indoors] .
+[/EN#165928/people A boy scout] sitting in [/EN#165930/other a chair] outside [/EN#165931/scene a green tent] with [/EN#165935/bodyparts his hands] clasped .
+[/EN#165928/people A boy scout] sitting in [/EN#165930/other a chair] outside of [/EN#165931/scene a tent] on [/EN#165933/scene stage] .
+[/EN#165928/people a boy scout] sits next to [/EN#165931/scene a tent] .

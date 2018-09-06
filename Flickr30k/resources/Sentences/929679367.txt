@@ -1,0 +1,5 @@
+[/EN#283620/animals A puppy] is playing with [/EN#283622/other a tennis ball] on [/EN#283621/scene a well-kept path] lined with [/EN#283623/scene groomed bushes] .
+[/EN#283620/animals A white-footed beagle] plays with [/EN#283622/other a tennis ball] on [/EN#283621/scene a garden path] .
+[/EN#283620/animals A puppy] plays with [/EN#283622/other a tennis ball] on [/EN#283621/scene a stone path] .
+[/EN#283620/animals A puppy dog] is playing with [/EN#283622/other a tennis ball] .
+[/EN#283620/animals A beagle] is playing with [/EN#283622/other a tennis ball] .

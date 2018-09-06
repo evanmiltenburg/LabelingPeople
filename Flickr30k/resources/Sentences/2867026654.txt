@@ -1,0 +1,5 @@
+[/EN#77759/animals A brown dog] waits for [/EN#77760/other the Frisbee] to come down before catching [/EN#0/notvisual it] .
+[/EN#77759/animals Dog] standing in [/EN#77761/scene grass] playing with [/EN#77760/other green flying disc]
+[/EN#77759/animals A brown dog] about to catch [/EN#77760/other a green Frisbee] .
+[/EN#77759/animals A dog] gets ready to catch [/EN#77760/other a Frisbee] .
+[/EN#77759/animals A dog] catching [/EN#77760/other a Frisbee] .

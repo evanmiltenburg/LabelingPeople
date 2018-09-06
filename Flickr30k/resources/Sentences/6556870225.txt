@@ -1,0 +1,5 @@
+[/EN#255618/people An African-American boy] wearing [/EN#255625/clothing blue shorts] , [/EN#255621/clothing a black and red shirt] , and [/EN#255625/clothing white sneakers] , is playing [/EN#255620/other tennis] .
+[/EN#255618/people Young man] running towards [/EN#255619/scene a tennis court] while [/EN#0/notvisual another] is waiting in [/EN#255626/other the other side of the net] .
+[/EN#255618/people A kid] in [/EN#255621/clothing a black shirt] on [/EN#255619/scene a tennis court] running with [/EN#0/notvisual a dark green background] .
+[/EN#255618/people A young male] is running while playing [/EN#255620/other tennis] against [/EN#255624/people another person] .
+[/EN#255618/people A young black boy] is playing [/EN#255620/other tennis] .

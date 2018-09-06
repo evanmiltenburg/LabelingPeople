@@ -1,0 +1,5 @@
+[/EN#42503/people A person] in [/EN#42507/clothing a yellow hat] , carrying [/EN#42508/clothing a bag] and [/EN#42505/other a fishing pole] , walks in [/EN#42504/scene a grassy area] near [/EN#42506/scene a small body of water] .
+[/EN#42503/people A person] in [/EN#42509/clothing a yellow hat] is walking across [/EN#42504/scene the grass] carrying [/EN#42505/other a long pole] .
+[/EN#42503/people A person] with [/EN#42507/clothing a yellow hat] holding [/EN#42505/other a fishing pole] in [/EN#42504/scene the grass] by [/EN#42506/scene water]
+[/EN#42503/people Man] holding [/EN#42505/other stick] in [/EN#42504/scene field of green grass] .
+[/EN#42503/people A fisherman] in [/EN#42504/scene a field] near [/EN#42506/scene a lake] .

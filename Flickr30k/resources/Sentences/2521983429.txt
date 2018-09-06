@@ -1,0 +1,5 @@
+[/EN#55001/people A person] is walking [/EN#55000/animals their brown dog] over [/EN#55004/other large rocks] near [/EN#55002/scene the ocean] .
+[/EN#55001/people Man] and [/EN#55000/animals dog] standing on [/EN#55004/other rocks] next to [/EN#55002/scene water]
+[/EN#55000/animals A dog] and [/EN#55001/people his owner] at [/EN#55003/scene a rocky beach] .
+[/EN#55001/people A man] and [/EN#55000/animals a dog] on [/EN#55004/other rocks] on [/EN#55003/scene a beach] .
+[/EN#55001/people A man] and [/EN#55000/animals dog] on [/EN#55005/other a rocky seashore] .

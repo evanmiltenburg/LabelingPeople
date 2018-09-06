@@ -1,0 +1,5 @@
+[/EN#181778/people A woman] is walking [/EN#181785/other arm-in-arm] with [/EN#181782/people an elderly woman] through [/EN#181781/scene a crosswalk] in [/EN#181779/scene New York City] .
+[/EN#181778/people A woman] with [/EN#181787/clothing sunglasses] on , and [/EN#181782/people an older woman] cross [/EN#181781/scene a crosswalk] in [/EN#181779/scene a large city] .
+[/EN#181780/people Two women] are walking down [/EN#181781/scene the street] and [/EN#181778/people the younger lady] is helping [/EN#181782/other the older] .
+[/EN#181780/people Two women] walk down [/EN#181781/scene the street] in [/EN#181779/scene the city] linking [/EN#181783/bodyparts arms] .
+[/EN#181780/people Two women] walk [/EN#181783/bodyparts/people arm] in [/EN#181786/bodyparts/people arm] down [/EN#181781/scene a busy street] .

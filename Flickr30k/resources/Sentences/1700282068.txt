@@ -1,0 +1,5 @@
+[/EN#19009/scene Two Harley-Davison police motorcycles park] in [/EN#19007/scene a single parking space] .
+[/EN#19006/other Several motorcycles] are parked on [/EN#19007/scene one parking space] .
+[/EN#19006/other Two motorcycles] parked in [/EN#19007/scene one parking space] .
+[/EN#19006/other Motorcycles] parked at [/EN#19010/scene a grill restaurant] .
+[/EN#19008/other Four motorcycles] parked in [/EN#19007/scene one spot] .

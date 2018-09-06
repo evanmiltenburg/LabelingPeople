@@ -1,0 +1,5 @@
+[/EN#70646/people A man] sits in [/EN#70647/other a camping chair] near [/EN#70649/bodyparts the edge of a rock face] over [/EN#70650/scene a body of water] .
+[/EN#70646/people A man] sits on [/EN#70647/other a folding chair] on [/EN#70649/other big block of ice] , holding on to [/EN#70648/other a rope] .
+[/EN#70646/people The man] hold [/EN#70648/other a pole] in [/EN#0/notvisual the air] , while sitting close to [/EN#70649/scene the cliffs edge] .
+[/EN#70646/people a man] sits in [/EN#70647/other a chair] while holding [/EN#70648/other a large pole] .
+[/EN#70646/people Man] sits on [/EN#70647/other chair] near [/EN#70649/scene edge of cliff] fishing

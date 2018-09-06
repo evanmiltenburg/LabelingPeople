@@ -1,0 +1,5 @@
+[/EN#122166/animals One dog] is standing on [/EN#122164/scene the beach] as [/EN#122162/animals another dog] runs into [/EN#122165/scene the ocean] .
+[/EN#122163/animals Two dogs] on [/EN#122164/scene the beach] , running into [/EN#122165/scene the water]
+[/EN#122163/animals Two dogs] run from [/EN#122164/scene the beach] into [/EN#122168/scene the water] .
+[/EN#122163/animals Two wet dogs] run into [/EN#122168/other the surf] at [/EN#122167/scene sunset] .
+[/EN#122163/animals Two dogs] play on [/EN#122165/scene the shore] .

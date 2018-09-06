@@ -1,0 +1,5 @@
+[/EN#234722/people A young man] in [/EN#234723/clothing a kimono] is sitting on [/EN#234724/scene the edge of a backyard hot tub] smiling .
+[/EN#234722/people A guy] in [/EN#234723/clothing a robe] sitting on [/EN#234730/scene the edge of a hot tub] smiling .
+[/EN#234722/people A young man] in [/EN#234723/clothing a bathrobe] dunks [/EN#234728/bodyparts his feet] in [/EN#234724/scene a hot tub] .
+[/EN#234722/people Man] in [/EN#234723/clothing a japanese outfit] sits with [/EN#234729/bodyparts his legs] in [/EN#234726/scene water] .
+[/EN#0/notvisual this] is [/EN#234724/scene a relaxing hot tub] at [/EN#234727/scene a spa] .

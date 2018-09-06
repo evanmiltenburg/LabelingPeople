@@ -1,0 +1,5 @@
+[/EN#232691/people A woman] with [/EN#232695/other freshly painted nails] is holding [/EN#232693/other a red nail polish bottle] with [/EN#232697/clothing a black cap] .
+[/EN#232692/bodyparts Hands] painted with [/EN#232693/other red nail polish] holding [/EN#232693/other a nail polish bottle 745] .
+[/EN#232692/bodyparts Hands] with [/EN#232693/other painted fingernails unscrewing nail polish] .
+[/EN#232692/bodyparts Two hands] hold [/EN#232693/other a container of nail polish] .
+[/EN#232691/people girl] opening [/EN#232693/other cosmetics bottle]

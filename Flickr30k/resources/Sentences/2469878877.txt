@@ -1,0 +1,5 @@
+[/EN#51805/people A girl] sitting outside [/EN#51806/scene a coffee house] on [/EN#51807/other a maroon colored bench] with [/EN#51808/people another girl] watching [/EN#0/notvisual her] .
+[/EN#51808/people A brunette woman] inside [/EN#51806/scene a coffee shop] is watching [/EN#51805/people a brunette woman] outside of [/EN#51806/scene a coffee shop] .
+[/EN#51805/people A woman] with [/EN#51809/bodyparts brown hair] and [/EN#51810/clothing blue pants] is sitting on [/EN#51807/other a bench] outside of [/EN#51806/scene a coffee shop] .
+[/EN#51805/people a woman] with [/EN#51809/bodyparts brown hair] sitting on [/EN#51807/other a bench] outside [/EN#51811/other a cafe] .
+[/EN#51805/people A woman] sitting on [/EN#51807/other a bench] by [/EN#51806/scene a coffee house] .

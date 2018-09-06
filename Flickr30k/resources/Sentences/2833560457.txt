@@ -1,0 +1,5 @@
+[/EN#75601/animals A beige and white dog] is running quickly across [/EN#75602/scene the grass] .
+[/EN#75601/animals The short-haired dog] is running across [/EN#75602/scene a grassy yard] .
+[/EN#75601/animals A light-colored dog] runs through [/EN#75602/scene the grass] .
+[/EN#75601/animals A dog] running in [/EN#75602/scene the grass] .
+[/EN#75601/animals A dog] running on [/EN#75602/scene grass]

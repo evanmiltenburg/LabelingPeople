@@ -1,0 +1,5 @@
+[/EN#228658/people A man] in [/EN#228660/clothing a blue dress shirt] and [/EN#228663/clothing slacks] sits at [/EN#228661/other a desk] with [/EN#228662/clothing a headset] on and [/EN#228659/other three monitors] in front of [/EN#0/notvisual him] , studying [/EN#228664/other a map] and [/EN#228665/other other diagrams] .
+[/EN#228658/people A man] dressed in [/EN#228660/clothing a blue shirt] and [/EN#228663/clothing dark colored pants] sits in front of [/EN#228659/other several computer monitors] .
+[/EN#228658/people A man] in [/EN#228660/clothing a blue shirt] works at [/EN#228661/other a table] with [/EN#228659/other several computer monitors] .
+[/EN#228658/people A man] is sitting at [/EN#228659/other a bank of computers] while wearing [/EN#228662/clothing a headset] .
+[/EN#228658/people A man] is working sitting in front of [/EN#228659/other many computer] .

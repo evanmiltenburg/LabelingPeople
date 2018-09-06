@@ -1,0 +1,5 @@
+[/EN#15932/animals A dog] in [/EN#15933/scene a sandy area] with [/EN#15934/other the sand] stirred up into [/EN#0/notvisual the air] and [/EN#15937/other several plants] in [/EN#0/notvisual the background] .
+[/EN#15932/animals A brown dog] brings up [/EN#15934/other some dust] as [/EN#0/notvisual he] runs around [/EN#15936/scene a field] .
+[/EN#15932/animals A dog] and [/EN#15934/other sand] blowing in [/EN#15939/other the wind]
+[/EN#15932/animals A dog] and [/EN#15934/other a dust storm] .
+[/EN#15932/animals Dog] kicking up [/EN#15933/scene dirt]

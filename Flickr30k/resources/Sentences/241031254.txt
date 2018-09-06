@@ -1,0 +1,5 @@
+[/EN#46994/people This man] , wearing [/EN#46997/clothing a white t-shirt] and [/EN#46998/clothing black shorts] , is standing on [/EN#46996/scene a path] in [/EN#46995/scene the forest] .
+[/EN#46994/people a bearded man] in [/EN#46997/clothing a white shirt] and [/EN#46998/clothing black shorts] is hiking on [/EN#46996/scene a woodland path] .
+[/EN#46994/people A man] in [/EN#46997/clothing a white shirt] is standing on [/EN#47000/scene a trail] in [/EN#47003/other the woods] .
+[/EN#46994/people A man] wearing [/EN#47001/other a water pack] and [/EN#46998/clothing shorts] on [/EN#46995/scene an outdoor trail] .
+[/EN#46994/people A short stubby man] with [/EN#46999/clothing a backpack] is standing in [/EN#46995/scene a forest]

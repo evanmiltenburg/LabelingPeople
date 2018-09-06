@@ -1,0 +1,5 @@
+[/EN#192904/people A man] in [/EN#192908/clothing black clothes] is standing on [/EN#192905/other a ladder] and drawing on [/EN#192907/other a wall] .
+[/EN#192904/people A man] with [/EN#192909/clothing glasses] standing on [/EN#192905/other a ladder] painting [/EN#192907/other a wall] .
+[/EN#192904/people A man] on [/EN#192905/other a step ladder] making building [/EN#192910/other repairs] .
+[/EN#192904/people A man] standing on [/EN#192906/other a stool] facing [/EN#192907/other a wall] .
+[/EN#192904/people A man] marking on [/EN#192907/other the wall] .

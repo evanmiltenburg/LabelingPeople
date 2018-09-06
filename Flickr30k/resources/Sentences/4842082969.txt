@@ -1,0 +1,5 @@
+[/EN#209711/people A woman] is walking on [/EN#209713/scene the sidewalk] with [/EN#209715/people another person] following behind [/EN#0/notvisual her] .
+[/EN#209712/scene Two women of Asian descent] walk beside [/EN#209713/scene a city street] busy with [/EN#209714/vehicles cars] .
+[/EN#209712/people Two women] walking down [/EN#209713/scene a city street] as [/EN#209714/vehicles cars] drive by .
+[/EN#209712/people Two Asian girls] walking along [/EN#209713/scene a busy street] .
+[/EN#209711/people A woman] crossing [/EN#209713/scene the street] .

@@ -1,0 +1,5 @@
+[/EN#44474/animals A dog] with [/EN#44475/clothing a red collar] runs in [/EN#44478/scene a forest] in [/EN#44479/other the middle of winter] .
+[/EN#44474/animals a brown and black dog] running on [/EN#44476/scene a trail] in [/EN#44480/other the woods] .
+[/EN#44474/animals A black and brown dog] running outside .
+[/EN#44474/animals a doggy] runs in [/EN#44477/scene the dry grass] .
+[/EN#44474/animals A dog] running down [/EN#44481/scene a hill] .

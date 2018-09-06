@@ -1,0 +1,5 @@
+[/EN#257906/people A young boy] wearing [/EN#257913/clothing a long-sleeve gray shirt] with [/EN#257911/clothing blue stripes] is working on [/EN#257907/other something] electrical with [/EN#257908/other batteries] .
+[/EN#257906/people A boy] looks on at [/EN#257907/other an electric device] with [/EN#257908/other three batteries] inside of [/EN#0/notvisual it] and [/EN#257912/other wires] all around .
+[/EN#257906/people A young boy] is working with [/EN#257910/people a model] [/EN#0/notvisual that] has [/EN#257908/other batteries] attached .
+[/EN#257906/people A child] is interacting with [/EN#257914/animals an electronics laboratory kit] .
+[/EN#257909/people Children] learning about [/EN#257915/scene electricity and circuits] .

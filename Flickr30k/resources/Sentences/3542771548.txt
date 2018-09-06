@@ -1,0 +1,5 @@
+[/EN#126293/animals A person aquestrian horse] jumping over [/EN#126295/scene a wooden fence] .
+[/EN#126293/animals A horse] and [/EN#126293/people rider] jumping [/EN#126295/scene a small fence] .
+[/EN#126293/animals a horse] and [/EN#126293/people rider] jump over [/EN#126295/scene a fence] .
+[/EN#126293/animals A horse] jumps over [/EN#126295/scene a wooden fence] .
+[/EN#126293/people A jockey] on [/EN#126293/animals a horse] jumps [/EN#126295/scene a fence] .

@@ -1,0 +1,5 @@
+[/EN#82321/animals The two light colored dogs] are pulling on [/EN#82323/other a blue object] [/EN#0/notvisual that] is in [/EN#82328/bodyparts their mouths] .
+[/EN#82321/animals Two dogs] are playing [/EN#82322/other tug-of-war] with [/EN#82323/other a blue object] in front of [/EN#82324/scene a building] .
+[/EN#82321/animals Two light brown dogs] are tugging at [/EN#82325/other a blue toy] in front of [/EN#82324/scene a blue shed] .
+[/EN#82321/animals Two beige dogs] are playing in [/EN#82327/scene the grass] near [/EN#82324/other a doghouse] .
+[/EN#82321/animals The brown dogs] are playing with [/EN#82325/other a blue toy] together .

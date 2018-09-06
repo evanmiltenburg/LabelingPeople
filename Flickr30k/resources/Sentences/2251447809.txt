@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#36913/people a man] dressed in [/EN#36918/clothing black] walking on [/EN#36914/scene a sidewalk] with [/EN#36920/scene melted snow] .
+[/EN#36914/scene A quiet sidewalk] in [/EN#36915/scene a town] with [/EN#36919/scene a view of a traffic intersection] .
+[/EN#36913/people Man] walking toward [/EN#36921/vehicles his car] on [/EN#36914/scene an icy sidewalk] in [/EN#36916/scene the city] .
+[/EN#36913/people A man] dressed in [/EN#36918/clothing black] walks on [/EN#36914/scene an icy sidewalk]
+[/EN#36913/people a man] walks on [/EN#36914/scene the icy sidewalk] .

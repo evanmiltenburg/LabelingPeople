@@ -1,0 +1,5 @@
+[/EN#223054/people A guy] in [/EN#223060/clothing an orange shirt] with [/EN#223062/clothing no sleeves] is in [/EN#223059/other a marathon] with [/EN#223055/people a black-haired lady] next to [/EN#0/notvisual him] .
+[/EN#223054/people A man] wearing [/EN#223060/clothing a red shirt] and [/EN#223056/other the number 71] is pointing .
+[/EN#223054/people A runner] with [/EN#223056/other the number 71] is gesturing to [/EN#223063/other something] .
+[/EN#223054/people a race contestant] pointing and talking to [/EN#223055/people someone] .
+[/EN#223054/people A man] running [/EN#223058/other a marathon] talks to [/EN#223055/people his friend] .

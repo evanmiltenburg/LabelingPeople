@@ -1,0 +1,5 @@
+[/EN#231285/people A man] wearing [/EN#231291/clothing a white striped top] and [/EN#231288/clothing a white hat] is sitting in front of [/EN#231287/other a sewing machine] .
+[/EN#231285/people A Middle-Eastern man] sits at [/EN#231287/other a sewing machine] while [/EN#231289/people another man] stands behind [/EN#0/notvisual him] .
+[/EN#231286/people Two laborer men] sitting outside [/EN#231290/other a storefront] waiting on [/EN#231293/people customers] to arrive .
+[/EN#231286/people Two men] making [/EN#231292/clothing clothing] in [/EN#231294/scene a third world country] .
+[/EN#231285/people A man] in [/EN#231288/clothing a white cap] sews .

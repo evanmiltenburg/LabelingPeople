@@ -1,0 +1,5 @@
+[/EN#138845/people A man] in [/EN#138849/clothing white] standing in front of [/EN#138848/scene a street shop] [/EN#0/notvisual that] has [/EN#138850/other holiday gear] .
+[/EN#138845/people A man] in [/EN#138849/clothing a white coat] is looking to [/EN#138851/scene his left] while at [/EN#138848/scene a street market] .
+[/EN#138845/people A store clerk] is waiting for [/EN#138854/people some customers] .
+[/EN#138845/people A man] working as [/EN#138845/people a holiday street vendor]
+[/EN#138845/people Man] stands outside [/EN#138850/other a storefront] .

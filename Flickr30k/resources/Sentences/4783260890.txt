@@ -1,0 +1,5 @@
+[/EN#202392/people A man] and [/EN#202394/people woman] are about to walk down [/EN#202393/scene a lobby hallway] .
+[/EN#202392/people A man] and [/EN#202394/people woman] in [/EN#202395/scene a parlor] walking into [/EN#202393/scene a hallway] .
+[/EN#202392/people A man] is leading [/EN#202394/people a woman] down [/EN#202393/scene a hallway] .
+[/EN#202392/people A man] escorting [/EN#202394/people a woman] down [/EN#202393/scene a hallway] .
+[/EN#202392/people A man] is happily pointing at [/EN#202396/other a light] .

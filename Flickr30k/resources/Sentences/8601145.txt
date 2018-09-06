@@ -1,0 +1,5 @@
+[/EN#281803/people A man] without [/EN#281811/clothing a shirt] is standing next to [/EN#281810/people two other men] in front of [/EN#281806/vehicles/scene a large boat] .
+[/EN#281804/people Three people] are standing outside [/EN#281806/vehicles/scene a big white boat] .
+[/EN#281805/people Three men] work to moor [/EN#281806/vehicles/scene a large boat] to [/EN#281807/scene the dock] .
+[/EN#281805/people Three men] standing on [/EN#281807/other deck] by [/EN#281806/vehicles/scene a large boat] .
+[/EN#281805/people Three men] at [/EN#281807/scene a dock] anchoring [/EN#281806/other a ship] .

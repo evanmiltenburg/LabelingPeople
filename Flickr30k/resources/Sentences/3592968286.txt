@@ -1,0 +1,5 @@
+[/EN#130129/people A man] playing [/EN#130131/instruments a guitar] under [/EN#130136/other the lights] with [/EN#130137/people other people] in [/EN#0/notvisual the background] .
+[/EN#130129/people A man] in [/EN#130138/clothing fancy clothing] plays [/EN#130131/instruments a guitar] on [/EN#130133/scene a stage] .
+[/EN#130131/people A woman] plays [/EN#130131/instruments guitar] by [/EN#130135/other a round light] .
+[/EN#130129/people The man] played [/EN#130131/instruments guitar] in [/EN#130130/people the band] .
+[/EN#130129/people Man] playing [/EN#130131/instruments guitar] in [/EN#130132/scene a dark room] .

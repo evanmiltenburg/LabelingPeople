@@ -1,0 +1,5 @@
+[/EN#17506/people A road worker] is holding [/EN#17510/other a stop sign] , while [/EN#17513/people his coworker] is working on [/EN#17509/scene the road] .
+[/EN#17506/people A construction worker] holds up [/EN#17510/other a stop sign] to [/EN#17512/other flag] down [/EN#17511/vehicles traffic] .
+[/EN#17507/people Some construction workers] stop [/EN#17511/vehicles traffic] while [/EN#0/notvisual they] do [/EN#17514/other roadwork] .
+[/EN#17507/people Two construction workers] cutting [/EN#17509/scene a piece of concrete road] .
+[/EN#17507/people Two orange vested men] with [/EN#17515/clothing blue jeans] working on [/EN#17508/scene a street]

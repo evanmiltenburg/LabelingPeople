@@ -1,0 +1,5 @@
+[/EN#200836/people The man] is wearing [/EN#200840/clothing a green shirt] and [/EN#200841/clothing blue jeans] and carrying [/EN#200838/other a free hugs sign] .
+[/EN#200836/people a man] carrying [/EN#200838/other a sign] [/EN#0/notvisual that] says [/EN#200838/other free hug] along [/EN#200842/scene the sidewalk] .
+[/EN#200836/people A young man] in [/EN#200840/clothing a black shirt] is holding [/EN#200838/other a Free Hugs sign] .
+[/EN#200836/people A man] holds up [/EN#200838/other a " free hugs " sign] above [/EN#200843/bodyparts his head] .
+[/EN#200836/people A man] is holding [/EN#200838/other a sign] [/EN#0/notvisual that] says " [/EN#200838/other Free Hugs] " .

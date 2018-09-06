@@ -1,0 +1,5 @@
+[/EN#229474/people A man] wearing [/EN#229475/clothing an orange cap] , [/EN#229478/clothing white shirt] , [/EN#229477/clothing cargo pants] , and [/EN#229479/clothing hiking boots] stands on [/EN#229476/other a rock] .
+[/EN#229474/people a man] wearing [/EN#229475/clothing an orange cap] and [/EN#229477/clothing brown cargo pants] stands on [/EN#229476/other a rock] by [/EN#229480/other some green trees] .
+[/EN#229474/people A man] in [/EN#229477/clothing brown pants] , [/EN#229478/clothing white shirt] and [/EN#229475/clothing orange hat] stands on [/EN#229476/other a rock] near [/EN#229481/scene a wooded area] .
+[/EN#229474/people A man] in [/EN#229475/clothing an orange cap] standing on top of [/EN#229476/other a pointy rock] .
+[/EN#229474/people A man] is standing on [/EN#229476/other the top of a rock] .

@@ -1,0 +1,5 @@
+[/EN#136741/people A woman] in [/EN#136743/clothing a red shirt] and [/EN#136744/clothing multicolored hat] does [/EN#136745/other dishes] in [/EN#136742/other the sink] .
+[/EN#136741/people Lady] with [/EN#136746/clothing the red shirt] and [/EN#136744/other a towel] on [/EN#136748/bodyparts her head] is cleaning [/EN#136745/other dishes] .
+[/EN#136741/people A woman] with [/EN#136743/clothing a red tank top] and [/EN#136744/other colorful head wrap] washing [/EN#136745/other dishes] .
+[/EN#136741/people A woman] in [/EN#136743/clothing a red tank top] washes [/EN#136745/other dishes] in [/EN#136742/other the kitchen sink] .
+[/EN#136741/people A woman] hand washes [/EN#136745/other dishes] in [/EN#136742/other a sink] .

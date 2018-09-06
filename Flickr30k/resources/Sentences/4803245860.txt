@@ -1,0 +1,5 @@
+[/EN#204348/people A woman] walking on [/EN#204352/scene a sidewalk] in front of [/EN#204349/people three young men] sitting on [/EN#204351/other some stairs] .
+[/EN#204348/people A woman] in [/EN#204350/clothing a pink shirt] walks by [/EN#204349/people three men] sitting on [/EN#204351/other steps] .
+[/EN#204348/people Woman] in [/EN#204350/clothing pink top] walking past [/EN#204349/people 3 men] sitting on [/EN#204351/other the steps] .
+[/EN#204348/people A woman] with [/EN#204350/clothing a pink shirt] walks down [/EN#204353/scene the street] .
+[/EN#204348/people A woman] is walking by [/EN#204349/people a group of three men] .

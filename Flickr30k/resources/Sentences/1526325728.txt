@@ -1,0 +1,5 @@
+[/EN#15644/animals Light brown dog] running towards [/EN#15648/other something] at [/EN#15645/scene the beach] .
+[/EN#15644/animals The large gray colored dog] is jumping on [/EN#15645/scene the beach] .
+[/EN#15644/animals A gray colored dog] walks in [/EN#15647/other wet sand] at [/EN#15645/scene a beach] .
+[/EN#15644/animals The brown dog] is standing on [/EN#15645/scene the sandy beach] .
+[/EN#15644/animals A gray dog] plays in [/EN#15647/other the sand] at [/EN#15646/scene the ocean] .

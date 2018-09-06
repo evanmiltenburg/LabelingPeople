@@ -1,0 +1,5 @@
+[/EN#190349/people A woman] in [/EN#190351/clothing a pink shirt] and [/EN#190354/clothing sunglasses] is walking down [/EN#190350/scene a city block] .
+[/EN#190349/people Woman] in [/EN#190351/clothing pink shirt] and [/EN#190353/clothing black skirt] walking down [/EN#190350/scene the street] .
+[/EN#190349/people A woman] in [/EN#190351/clothing a pink shirt] walking past [/EN#190355/other a traffic light] .
+[/EN#190349/people A woman] in [/EN#190351/clothing a pink blouse] is walking down [/EN#190350/scene a sidewalk] .
+[/EN#190349/people A woman] is walking on [/EN#190350/scene the sidewalk] in [/EN#190352/scene a city] .

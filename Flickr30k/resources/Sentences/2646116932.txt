@@ -1,0 +1,5 @@
+[/EN#63692/people Two boys] in [/EN#63697/scene a park] , [/EN#63688/other one] standing near [/EN#63691/other a tree] and [/EN#63695/other one] sitting at [/EN#63689/other a picnic table] with [/EN#63697/scene the playground] behind [/EN#0/notvisual them] .
+[/EN#63688/people A young boy] in [/EN#63690/clothing a striped shirt] is leaning against [/EN#63691/other a tree] while [/EN#63692/people another child] sits at [/EN#63689/other a picnic table] .
+[/EN#63688/people A boy] in [/EN#63690/clothing a striped t-shirt] is standing by [/EN#63691/other a tree] in front of [/EN#63689/other the picnic tables] .
+[/EN#63688/people A little boy] in [/EN#63690/clothing a striped shirt] is standing behind [/EN#63691/other a tree] .
+[/EN#63688/people A boy] hiding behind [/EN#63691/other a tree]

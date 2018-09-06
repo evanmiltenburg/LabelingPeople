@@ -1,0 +1,5 @@
+[/EN#90007/people A dark complexion man] in [/EN#90009/clothing yellow and maroon shirt] works [/EN#90008/other the controls of a machine] .
+[/EN#90007/people A young man] wearing [/EN#90009/clothing a yellow and red shirt] operating [/EN#90008/other a machine] in [/EN#90012/scene a warehouse] .
+[/EN#90007/people A man] in [/EN#90009/clothing a yellow and red shirt] is operating [/EN#90008/other machinery] .
+[/EN#90007/people A guy] in [/EN#90009/clothing a yellow and red shirt] controls [/EN#90011/other a machine] .
+[/EN#90007/people A man] working at [/EN#90010/scene a fast food restaurant] .

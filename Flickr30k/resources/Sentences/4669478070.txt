@@ -1,0 +1,5 @@
+[/EN#188621/people Two women] in [/EN#188626/clothing green shirts] and [/EN#188624/clothing hats] working at [/EN#188622/scene a store] .
+[/EN#188621/people Two women workers] in [/EN#188624/clothing hats] serving [/EN#188627/other food] from [/EN#188622/scene a stall] .
+[/EN#188621/people Vendors] at [/EN#188622/scene a market] looking away from [/EN#0/notvisual the camera] .
+[/EN#188621/people two women] wearing [/EN#188624/clothing hats] working in [/EN#188622/scene a restaurant]
+[/EN#188621/people Two individuals] are working [/EN#188622/scene a food booth] .

@@ -1,0 +1,5 @@
+[/EN#77356/people A butcher] in [/EN#77362/clothing a yellow shirt] is looking at [/EN#77357/other a slab of fish meat] on [/EN#77359/scene a wooden butcher block] .
+[/EN#77356/people A man] with [/EN#77364/bodyparts short black hair] in [/EN#77362/clothing a yellow shirt] looking at [/EN#77357/animals a large piece of cut fish] .
+[/EN#77356/people A man] is staring down [/EN#77357/animals at half of a fish] .
+[/EN#77356/people Man] with [/EN#77357/animals filleted fish] on [/EN#77359/other wooden board] .
+[/EN#77356/people a man] slicing [/EN#77357/other the meat] in [/EN#77361/scene the market]

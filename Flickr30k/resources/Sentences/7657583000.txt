@@ -1,0 +1,5 @@
+[/EN#272821/people A bearded man] in [/EN#272822/clothing a blue work helmet] kneels down in [/EN#272823/scene a construction zone] on [/EN#272825/scene the edge of a body of water] .
+[/EN#272821/people A man] in [/EN#272822/clothing a blue hard hat] and [/EN#272824/clothing orange shirt] is fixing [/EN#272829/scene the siding of a road] .
+[/EN#272821/people A man] wearing [/EN#272824/clothing an orange shirt] and [/EN#272822/clothing blue hard hat] is measuring [/EN#272827/scene an area] .
+[/EN#272821/other A male construction] working is applying [/EN#272828/other parts] to [/EN#272823/scene a bridge] .
+[/EN#272821/people Worker] in hard had working on [/EN#272823/scene a road] near [/EN#272825/scene water] .

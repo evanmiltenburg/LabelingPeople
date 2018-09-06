@@ -1,0 +1,5 @@
+[/EN#58176/animals A wet brown dog] is jumping from [/EN#58177/scene some water] onto [/EN#58178/scene the grass]
+[/EN#58176/animals A dark dog] jumps out of [/EN#58177/scene the water] and onto [/EN#58178/scene the grass] .
+[/EN#58176/animals A black dog] soaked in [/EN#58179/other liquid] jumping to [/EN#58178/scene the grass] .
+[/EN#58176/animals A brown and black dog] jumping out of [/EN#58177/scene a pond] .
+[/EN#58176/animals A dog] playing in [/EN#58177/scene water] .

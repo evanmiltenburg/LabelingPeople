@@ -1,0 +1,5 @@
+[/EN#90102/people A man] with [/EN#90105/clothing a plaid shirt] riding [/EN#90103/vehicles a bike] going down [/EN#90104/scene a brick road] with [/EN#90108/other blue fence segments] in [/EN#0/notvisual the distance] .
+[/EN#90102/people Man] wearing [/EN#90105/clothing a red , black , and white jacket] riding [/EN#90103/vehicles a bicycle] down [/EN#90104/scene a paved path] in [/EN#90106/scene a park] .
+[/EN#90102/people Someone] in [/EN#90105/clothing a checkered shirt] is bicycling down [/EN#90104/scene a path] .
+[/EN#90102/people A guy] in [/EN#90105/clothing a plaid shirt] riding [/EN#90103/vehicles his bike] on [/EN#90104/scene a sidewalk] .
+[/EN#90102/people A man] in [/EN#90109/other red plaid] rides [/EN#90103/vehicles his bike] in [/EN#90106/scene a park] .

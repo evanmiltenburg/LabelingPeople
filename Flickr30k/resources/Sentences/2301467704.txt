@@ -1,0 +1,5 @@
+[/EN#40066/people A blindfolded woman] with [/EN#40070/bodyparts green hair] attempts to hit [/EN#40067/other a pinata] with [/EN#40071/other a stick] , while [/EN#40068/people a man] dressed in [/EN#40069/clothing green] watches .
+[/EN#40066/people A girl] wearing [/EN#40073/clothing green] is trying to hit [/EN#40067/other a colorful pinata] , and [/EN#0/notvisual there] is [/EN#40068/people a man] in [/EN#40074/other the back] watching [/EN#0/notvisual her]
+[/EN#40066/people A girl] with [/EN#40070/bodyparts green hair] is hitting [/EN#40067/other a pinata] with [/EN#40071/other a stick] while [/EN#40068/people a man] dressed in [/EN#40069/clothing green] looks on .
+[/EN#40066/people A woman] with [/EN#40070/bodyparts green hair] is swinging at [/EN#40067/other a pinata] .
+[/EN#40066/people Blindfolded woman] attempts to hit [/EN#40067/other a pinata] .

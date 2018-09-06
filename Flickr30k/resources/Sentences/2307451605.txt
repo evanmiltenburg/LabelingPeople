@@ -1,0 +1,5 @@
+[/EN#40519/animals A black dog] with [/EN#40521/clothing a red collar] wading through [/EN#40520/scene the water] .
+[/EN#40519/animals a wet black dog] with [/EN#40521/clothing a red collar] is in [/EN#40520/scene the river]
+[/EN#40519/animals A dog] runs through [/EN#40520/scene a creek] next to [/EN#40522/other large rocks] .
+[/EN#40519/animals A black dog] swimming in [/EN#40520/scene water] near [/EN#40522/other rocks] .
+[/EN#40519/animals A black dog] is walking through [/EN#40520/scene a stream]

@@ -1,0 +1,5 @@
+[/EN#14008/people A man] with [/EN#14013/bodyparts blond-hair] in [/EN#14014/bodyparts a ponytail] is reading [/EN#14011/other a map] in [/EN#14009/vehicles/scene a boat] on [/EN#14010/scene a river] .
+[/EN#14008/people A man] wearing [/EN#14015/clothing a life jacket] uses [/EN#14011/other a map] while on [/EN#14009/vehicles/scene a small boat] .
+[/EN#14008/people A blond man] is holding [/EN#14011/other a map] while sitting in [/EN#14009/vehicles/scene a boat] .
+[/EN#14008/people A man] holding [/EN#14011/other a map] while [/EN#14012/other rafting] .
+[/EN#14008/people A man] sits in [/EN#14009/vehicles/scene a boat] on [/EN#14010/scene a lake] .

@@ -1,0 +1,5 @@
+[/EN#159067/scene A city street] with [/EN#159071/vehicles transit buses] and [/EN#159070/people a crowd of people] waiting to board [/EN#159071/vehicles/scene the bus] .
+[/EN#159069/people A woman] wearing [/EN#159072/clothing a turquoise sweatshirt] is standing in front of [/EN#159071/other a trolley] .
+[/EN#159070/people People] standing on [/EN#159074/scene the sidewalk] next to [/EN#159071/other the trolley] and [/EN#159075/scene track] .
+[/EN#159069/people A woman] with [/EN#159072/clothing a green jacket] walking in front of [/EN#159071/vehicles/scene a bus] .
+[/EN#159070/people People] grabbing [/EN#159071/vehicles/scene a train] at [/EN#159068/scene the train station] .

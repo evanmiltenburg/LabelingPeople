@@ -1,0 +1,5 @@
+[/EN#221057/people A man] is eating [/EN#221063/other his meal] alone on [/EN#221058/other a picnic table] in front of [/EN#221059/vehicles a yellow lunch wagon] .
+[/EN#221057/people A man] sitting alone on [/EN#221058/other a picnic table] in front of [/EN#221059/vehicles a yellow truck] eating [/EN#221064/other lunch] .
+[/EN#221057/people A man] is sitting at [/EN#221058/other a picnic table] next to [/EN#221061/other a yellow van] and [/EN#221060/vehicles a maroon car] .
+[/EN#221057/people A young man] in [/EN#221062/other his 20 's] sits on [/EN#221058/other a bench] in front of [/EN#221059/vehicles a yellow truck] .
+[/EN#221057/people A man] sits at [/EN#221058/other a picnic table] surrounded by [/EN#221065/vehicles vehicles] and [/EN#221066/scene buildings] .

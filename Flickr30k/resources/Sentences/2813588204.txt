@@ -1,0 +1,5 @@
+[/EN#74406/animals Two dogs] wearing [/EN#74409/other racing equipment] are running on [/EN#0/notvisual muddy ground] .
+[/EN#74406/animals Two dogs] are racing and have [/EN#74411/clothing muzzles] on [/EN#74412/bodyparts their mouths] .
+[/EN#74405/other two dogs race] around [/EN#74408/other the course] .
+[/EN#74406/animals Two racing dogs] run in [/EN#74410/other the mud] .
+[/EN#74405/other Two brown dogs race] on [/EN#74407/scene a track] .

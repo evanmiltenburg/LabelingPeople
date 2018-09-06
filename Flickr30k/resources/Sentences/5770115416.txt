@@ -1,0 +1,5 @@
+[/EN#242751/people An elderly gentleman] , wearing [/EN#242756/clothing a tan sweater] and wearing [/EN#242759/clothing glasses] , painting on [/EN#242752/other a canvas] .
+[/EN#242751/people An artist] finishing [/EN#242752/other a beautiful landscape painting of birch trees] and [/EN#242755/animals birds] .
+[/EN#242751/people An older man] wearing [/EN#242756/clothing a tan sweater] is working on [/EN#242752/other a painting] .
+[/EN#242751/people Elderly man] painting [/EN#242754/other a picture] with [/EN#242758/other a small paintbrush] .
+[/EN#242751/people An elderly man] paints [/EN#242755/animals a picture of a bird] .

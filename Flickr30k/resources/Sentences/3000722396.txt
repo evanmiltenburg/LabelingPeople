@@ -1,0 +1,5 @@
+[/EN#86471/animals A black and white dog] holds [/EN#86475/other the handle of a large red round toy] in [/EN#86476/scene a field]
+[/EN#86471/animals A black and white dog] carries [/EN#86475/other a red toy] through [/EN#86476/scene the green grass] .
+[/EN#86474/other The proud dog returns] with [/EN#86475/other the toy] [/EN#0/notvisual it] fetched .
+[/EN#86471/animals A black and white dog] carries [/EN#86475/other a ball toy] .
+[/EN#86473/clothing Black] and [/EN#86471/animals white dog] carrying [/EN#86475/other a red ball] .

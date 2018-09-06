@@ -1,0 +1,5 @@
+[/EN#62150/people A softball player] with [/EN#62149/other the number ten] on [/EN#62153/clothing the back of her blue jersey] is running toward [/EN#62151/other home plate] .
+[/EN#62150/people A woman] in [/EN#62152/clothing a blue softball uniform] with [/EN#62149/other the number] [/EN#62149/other 10] on [/EN#62153/other her back] running [/EN#62158/scene home] .
+[/EN#62150/people A woman] wearing [/EN#62152/clothing a blue uniform] on [/EN#62155/scene a football field] is running to [/EN#62151/other a base] .
+[/EN#62150/people A softball player] runs toward [/EN#62151/other home plate] .
+[/EN#62150/people girl] in [/EN#62152/clothing blue clothing] playing [/EN#62156/other baseball]

@@ -1,0 +1,5 @@
+[/EN#220298/people A boy] in [/EN#220301/clothing a white t-shirt] and [/EN#220304/clothing flowered shorts] is running in [/EN#220303/other a track lane] .
+[/EN#220298/people Young boy] in [/EN#220301/clothing white shirt] runs on [/EN#220300/scene a track] holding [/EN#220299/other a marker] .
+[/EN#220298/people A boy] is carrying [/EN#220299/other a baton] while running [/EN#220302/other a relay race] .
+[/EN#220298/people A kid] running on [/EN#220300/scene a track] with [/EN#220299/other a yellow baton] .
+[/EN#220298/people A boy] running on [/EN#220300/scene a grass track] with [/EN#220299/other a baton] .

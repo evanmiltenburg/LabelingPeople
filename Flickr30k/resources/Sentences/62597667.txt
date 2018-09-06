@@ -1,0 +1,5 @@
+[/EN#251142/people A group of friends] lay sprawled out on [/EN#251143/scene the floor] enjoying [/EN#251145/other their time] together .
+[/EN#251142/people Four people] are sitting or laying on [/EN#251143/scene a wooden floor] and touching [/EN#0/notvisual each other] .
+[/EN#251142/people A group of young adults] lay on [/EN#251143/scene a hardwood floor] in [/EN#251144/scene the kitchen] .
+[/EN#0/notvisual There] are [/EN#251142/people four teens] laying on [/EN#251143/scene a wooden floor] in [/EN#251144/scene the kitchen] .
+[/EN#251142/people A group of people] lie close together on [/EN#251143/scene a hardwood floor] .

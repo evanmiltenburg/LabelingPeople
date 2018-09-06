@@ -1,0 +1,5 @@
+Looks like [/EN#152955/people a man] transporting [/EN#152958/people a family] , consisting of [/EN#152965/people a mother] , [/EN#152958/people a father] , and [/EN#152957/people a son] , to [/EN#152967/scene some destination]
+[/EN#152955/people A dark-skinned man] drags [/EN#152956/vehicles a cart] with [/EN#152958/people a couple] and [/EN#152957/people a child] inside in [/EN#152960/scene the outskirts of a town] .
+[/EN#0/notvisual There] is [/EN#152962/people two people] riding in [/EN#152956/vehicles a cart] being pulled by [/EN#152955/people a man] outside on [/EN#152960/scene the road] .
+[/EN#152955/people A barefoot man] is pulling [/EN#152962/people two adults] and [/EN#152957/people a child] in [/EN#152969/other a red rickshaw] .
+[/EN#152955/people A man] , carrying [/EN#152968/people three people] in [/EN#152956/vehicles a carriage] , on [/EN#152960/scene a road] .

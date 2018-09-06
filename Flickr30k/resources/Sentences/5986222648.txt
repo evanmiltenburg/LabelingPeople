@@ -1,0 +1,5 @@
+[/EN#246374/people A singer] with [/EN#246373/bodyparts medium-short curly white hair] , wearing [/EN#246379/clothing a white sleeveless t-shirt] , is accompanied by [/EN#246375/people a guitarist] [/EN#0/notvisual who] has [/EN#246376/bodyparts long white hair] and wears [/EN#246380/clothing a black shirt] .
+[/EN#246369/people Two guys] performing [/EN#246371/other rock concert] , [/EN#246374/other one] has [/EN#246373/bodyparts short blond-hair] [/EN#0/notvisual who] is singing , and [/EN#246378/other the second] has [/EN#246376/bodyparts long blond-hair] and is jamming out on [/EN#246372/instruments his guitar] .
+[/EN#246369/people Two rockers] are singing and playing on [/EN#246370/scene a dark stage] .
+[/EN#246369/people Two old men] play [/EN#246372/instruments guitar] and sing at [/EN#246371/other a rock concert] .
+[/EN#246369/people Two blond men] rocking out on [/EN#246370/scene a dark stage] .

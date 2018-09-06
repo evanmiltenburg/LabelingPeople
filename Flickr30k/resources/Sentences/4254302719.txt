@@ -1,0 +1,5 @@
+[/EN#160371/people A person] , wearing [/EN#160373/clothing a red coat] and [/EN#160374/clothing dark pants] , is hiking down [/EN#160372/scene a snow covered hill] .
+[/EN#160371/people A snowshoer] wearing [/EN#160373/clothing a red jacket] and [/EN#160374/clothing black pants] descends [/EN#160377/other a snowy slope] .
+[/EN#160371/people A woman] in [/EN#160373/clothing red jacket] is skiing up in [/EN#160372/scene the mountain] in [/EN#160375/scene the snow] .
+[/EN#160371/people Skier] in [/EN#160373/clothing orange jacket] , standing at [/EN#160376/scene the top of a hill]
+[/EN#160371/people A woman] with [/EN#160373/clothing a red jacket] skying over [/EN#160372/scene a mountain] .

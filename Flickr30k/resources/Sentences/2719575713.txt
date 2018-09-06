@@ -1,0 +1,5 @@
+[/EN#68498/people Two boy children] , [/EN#68498/other one] wearing [/EN#68504/clothing a helmet] , [/EN#68500/other play] at [/EN#68505/other a table] in [/EN#68496/other a room full of toys] .
+[/EN#68498/people A child] in [/EN#68497/clothing a striped shirt] wearing [/EN#68504/clothing a helmet] and playing with [/EN#68495/other a toy] .
+[/EN#68498/people The boy] with [/EN#68504/clothing the blue helmet] is playing with [/EN#68499/people other boy] .
+[/EN#68498/people Two young boys] play with [/EN#68495/other a puzzle] in [/EN#68501/scene a classroom] .
+[/EN#68498/people Two toddlers] are playing with [/EN#68495/other toys] on [/EN#68505/other a table] .

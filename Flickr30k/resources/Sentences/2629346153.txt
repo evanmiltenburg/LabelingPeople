@@ -1,0 +1,5 @@
+[/EN#62440/animals The attack dog] is biting [/EN#62443/other the cloth] [/EN#62441/people the officer] with [/EN#62444/other the police baton] is holding on [/EN#62447/other to]
+[/EN#62440/animals/people A German Shepherd] bites [/EN#62446/people the arm of a man] [/EN#0/notvisual who] has on [/EN#62442/other protective gear] .
+[/EN#62440/animals a brown and black attack dog] being trained by [/EN#62441/people a man] holding [/EN#62444/other a stick]
+[/EN#62440/animals A dog] attacking [/EN#62441/people a man] wearing [/EN#62442/other protective gear] .
+[/EN#62441/people A man] trains [/EN#62440/animals an attack dog] .

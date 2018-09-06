@@ -1,0 +1,5 @@
+[/EN#46067/animals A dog] wearing [/EN#46068/clothing a cape] is running through [/EN#46070/scene the snow] .
+[/EN#46067/animals Dog] running though [/EN#46070/scene the snow] in [/EN#46068/other a green cover] .
+[/EN#46067/animals Dog] wearing [/EN#46068/clothing a coat] running in [/EN#46070/scene a snowy field] .
+[/EN#46067/animals A dog] wearing [/EN#46068/other a cover] runs in [/EN#46070/scene the snow] .
+[/EN#46067/animals Dog] in [/EN#46068/clothing jacket] running through [/EN#46070/scene snow]

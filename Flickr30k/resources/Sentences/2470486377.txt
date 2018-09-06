@@ -1,0 +1,5 @@
+[/EN#51851/people The boy] in [/EN#51853/clothing the black sweatshirt] is hitting [/EN#51858/other the yellow object] held by [/EN#51855/people the boy] in [/EN#51854/clothing the blue sweatshirt] .
+[/EN#51851/people A boy] in [/EN#51853/clothing a black shirt] punches [/EN#51861/clothing/people a yellow punching bag] while [/EN#51855/people a boy] in [/EN#51854/clothing a blue sweatshirt] holds [/EN#51858/clothing the bag] .
+[/EN#51852/people Many children] playing outside in [/EN#51856/scene the grass] practicing punching .
+[/EN#51857/people Two boys] talk on [/EN#51856/scene a field] near [/EN#51862/other palm trees] .
+[/EN#51852/people Some kids] play outside on [/EN#51859/scene a nice day] .

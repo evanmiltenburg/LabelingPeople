@@ -1,0 +1,5 @@
+[/EN#109574/vehicles a yellow car] driving through [/EN#109575/scene a lot of snow]
+[/EN#109574/vehicles A yellow car] speeds along [/EN#109575/scene a snowy field] .
+[/EN#109574/vehicles A yellow car] drives quickly in [/EN#109575/scene the snow] .
+[/EN#109574/vehicles A yellow car] drives across [/EN#109575/scene a snowy path] .
+[/EN#109574/vehicles A yellow car] is drifting through [/EN#109575/scene snow] .

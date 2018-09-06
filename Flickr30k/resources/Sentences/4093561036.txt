@@ -1,0 +1,5 @@
+[/EN#155097/other A construction machine] is digging [/EN#155105/scene a hole] on [/EN#155107/scene a paved street] while [/EN#155106/other an orange hose] is run through [/EN#155101/scene a different hole] in [/EN#0/notvisual the ground] close by .
+[/EN#155097/people A digger] digging up [/EN#155109/other soil] in [/EN#155104/scene the middle of the road] with [/EN#155106/other a orange pipe] down [/EN#155101/scene a hole] in [/EN#155107/scene the road] .
+[/EN#155097/other An excavator] is digging [/EN#155101/scene a hole] on [/EN#155103/scene the street] and [/EN#0/notvisual there] are [/EN#155110/scene some buildings] behind .
+[/EN#155097/people A guy] is operating [/EN#155097/vehicles a bulldozer] , and [/EN#0/notvisual they] are working on [/EN#155108/other the sewer lines] .
+[/EN#155097/vehicles A construction vehicle] has [/EN#155106/other an orange hose] down through [/EN#155101/scene a manhole] .

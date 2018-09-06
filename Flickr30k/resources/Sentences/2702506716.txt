@@ -1,0 +1,5 @@
+[/EN#67063/animals A dog] sticking [/EN#67066/bodyparts his head] out from under [/EN#67064/other some gray stairs] .
+[/EN#67063/animals Dog] crawling in between [/EN#67064/other steps] from behind [/EN#67064/other the steps]
+[/EN#67063/animals A dog] attempts to squeeze between [/EN#67064/other two gray steps] .
+[/EN#67063/animals A beagle] is climbing through [/EN#67064/other some gray stairs] .
+[/EN#67063/animals Dog] hiding under [/EN#67064/other the stairs] .

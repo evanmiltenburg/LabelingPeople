@@ -1,0 +1,5 @@
+[/EN#94687/people A belly dancer] gracefully swings [/EN#94689/other a multicolored silk] in [/EN#94690/scene a bar] .
+[/EN#94687/people A woman] in [/EN#94688/clothing ethnic clothes] looks like [/EN#0/notvisual she] is dancing .
+[/EN#94687/people The woman] in [/EN#94688/clothing brightly colored clothing] is dancing .
+[/EN#94691/bodyparts A belly] dancing [/EN#94687/people woman] [/EN#0/notvisual who] is happily moving .
+[/EN#94687/people Ethnic woman] dances with [/EN#94688/clothing colorful clothing] .

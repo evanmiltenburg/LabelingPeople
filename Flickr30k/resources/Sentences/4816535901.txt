@@ -1,0 +1,5 @@
+[/EN#206383/people A man] on [/EN#206385/other a bench] talks on [/EN#206386/other a cellphone] while [/EN#206379/people a man] in [/EN#206380/clothing a hat] rides [/EN#206381/other a motorized skateboard] down [/EN#206382/scene the sidewalk] .
+[/EN#206379/people A man] in [/EN#206380/clothing a straw hat] wearing [/EN#206384/clothing a backpack] is riding on [/EN#206381/other a motorized skateboard] .
+[/EN#206379/people A man] in [/EN#206380/clothing a tan hat] rides [/EN#206381/other a motorized skateboard] down [/EN#206382/scene the sidewalk] .
+[/EN#206379/people A man] wearing [/EN#206380/clothing a yellow hat] riding [/EN#206381/other an electric skateboard] .
+[/EN#206379/people A man] in [/EN#206380/clothing a hat] is riding [/EN#206381/other a motorized skateboard] .

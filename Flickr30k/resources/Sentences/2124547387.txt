@@ -1,0 +1,5 @@
+[/EN#30063/people A dark-skinned man] in [/EN#30066/clothing a blue shirt] is standing on [/EN#30067/other a wooden ladder] next to [/EN#30068/scene a building] .
+[/EN#30063/people A man] walks along [/EN#30064/other a wooden beam] suspended next to [/EN#30065/other a white wall] .
+[/EN#30063/people A man] standing on [/EN#30067/other a ladder] holding [/EN#30064/other a wooden beam] .
+[/EN#30063/scene A man of African descent] stands atop [/EN#30064/other a beam] .
+[/EN#30063/people Man] in [/EN#30066/clothing blue shirt] stands on [/EN#30067/other ladder] .

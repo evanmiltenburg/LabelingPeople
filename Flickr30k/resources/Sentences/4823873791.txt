@@ -1,0 +1,5 @@
+[/EN#207387/people A woman] wearing [/EN#207388/clothing a blue skirt] and [/EN#207391/clothing white tank top] examines [/EN#207389/other a makeup counter] in [/EN#207390/scene a store] .
+[/EN#207387/people A woman] in [/EN#207391/clothing a white top] and [/EN#207388/clothing blue skirt] looking at [/EN#207394/bodyparts makeup] .
+[/EN#207387/people A woman] in [/EN#207388/clothing a blue skirt] browsing [/EN#207389/other cosmetics] at [/EN#207390/scene a store] .
+[/EN#207387/people Woman] in [/EN#207393/clothing heels] and [/EN#207388/clothing skirt] looking at [/EN#207389/other products] .
+[/EN#207387/people A woman] is choosing [/EN#207392/other a perfume]

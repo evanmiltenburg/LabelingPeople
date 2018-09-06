@@ -1,0 +1,5 @@
+[/EN#238097/people A boy] in [/EN#238103/clothing a green t-shirt] and [/EN#238108/clothing orange pants] is using [/EN#238101/other chalk] to draw on [/EN#238100/scene the sidewalk] as [/EN#238098/people a younger boy] in [/EN#238104/clothing a yellow t-shirt] looks on .
+[/EN#238099/people Two boys] , [/EN#238097/other one] wearing green , [/EN#238098/other the other] in [/EN#238104/clothing yellow] , are playing with [/EN#238101/other sidewalk chalk] , drawing [/EN#238109/other pictures] on [/EN#0/notvisual the ground] .
+[/EN#238098/people A young boy] with [/EN#238097/people an older man] using [/EN#238101/other chalk] to draw on [/EN#238100/scene the sidewalk] .
+[/EN#238097/people A father] and [/EN#238098/people son] create [/EN#238106/other chalk art] on [/EN#238100/other blacktop] .
+[/EN#238099/people Two boys] using [/EN#238101/other chalk] to write on [/EN#238100/scene a sidewalk] .

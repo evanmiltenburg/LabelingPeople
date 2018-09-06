@@ -1,0 +1,5 @@
+[/EN#34192/people a man] in [/EN#34197/clothing a stripy hat] is standing in [/EN#34193/scene a house] built from [/EN#34193/other ice] [/EN#0/notvisual that] has [/EN#34196/clothing a pair of boots] in [/EN#34195/scene the doorway] .
+[/EN#34192/people A boy] stands inside [/EN#34193/scene a half-completed igloo] .
+[/EN#34192/people A boy] wearing [/EN#34199/clothing winter clothing] in [/EN#34193/scene an igloo]
+[/EN#34192/other A childing] hiding in [/EN#34193/scene a snow fort] .
+[/EN#34192/people Child] inside of [/EN#34193/scene large snow fort] .

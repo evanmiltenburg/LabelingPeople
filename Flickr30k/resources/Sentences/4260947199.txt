@@ -1,0 +1,5 @@
+[/EN#160659/people Man] in [/EN#160660/clothing heavy black coat] smoking [/EN#160669/other cigar] standing [/EN#160665/people near woman] in [/EN#160664/clothing brown jacket] with [/EN#160670/other a piece of paper] in [/EN#160671/bodyparts her hand]
+[/EN#160659/people A man] wearing [/EN#160660/clothing a black coat] and [/EN#160662/clothing a beanie hat] standing on [/EN#160661/scene a street] while [/EN#160667/people other people] walk down [/EN#160661/scene the street] .
+[/EN#160659/people A man] , dressed in [/EN#160660/clothing a black coat] , is standing on [/EN#160661/scene a busy street] .
+[/EN#160659/people A man] standing on [/EN#160661/scene a street] at [/EN#160666/scene night] with [/EN#160663/clothing a shopping bag] .
+[/EN#160659/people Shady man] waiting for [/EN#160659/people someone] .

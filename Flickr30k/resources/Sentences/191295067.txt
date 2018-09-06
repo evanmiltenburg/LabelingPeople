@@ -1,0 +1,5 @@
+[/EN#23032/people A group of people] walking down [/EN#23033/scene a closed off street] lined with [/EN#23036/scene blue , red and green tents] .
+[/EN#23032/people Many different people] walking [/EN#23032/scene a on street] with [/EN#23036/scene tent booths] on [/EN#0/notvisual its sides] .
+[/EN#23032/people A mixed race crowd of people] walking down [/EN#23032/scene a street] in [/EN#23034/scene a city] .
+[/EN#23032/people People] walk around [/EN#23032/scene a crowded market street] .
+[/EN#23032/people Townspeople] gathered for [/EN#23037/other a festival] .

@@ -1,0 +1,5 @@
+[/EN#151693/people A man] plays [/EN#151696/instruments guitar] and sings into [/EN#151698/other a microphone] while [/EN#151694/people a woman] sings into [/EN#151699/other a microphone] next to [/EN#0/notvisual him] .
+[/EN#151694/people A woman] in [/EN#151701/clothing black] sings while [/EN#151693/people a man] in [/EN#151702/clothing blue] accompanies [/EN#0/notvisual her] on [/EN#151696/instruments guitar] .
+[/EN#151694/people A woman] sings on [/EN#151695/scene stage] while [/EN#151693/people a man] plays [/EN#151696/instruments guitar] .
+[/EN#151697/people Two people] are performing [/EN#151700/other music] on [/EN#151695/scene stage] .
+[/EN#151693/people A man] and [/EN#151694/people woman] are singing on [/EN#151695/scene a stage] .

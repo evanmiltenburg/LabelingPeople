@@ -1,0 +1,5 @@
+[/EN#146590/people A man] wearing [/EN#146591/clothing a black hat] , buttoned [/EN#146600/clothing shirt] , [/EN#146604/clothing tie] , [/EN#146597/clothing dark shorts] , and [/EN#146596/clothing black and red shoes] speaks loudly as [/EN#146592/people bystanders] see [/EN#146593/other flames] in [/EN#146595/scene the street] .
+[/EN#146590/people A street busker] wearing [/EN#146591/clothing a top hat] is performing with [/EN#146593/other fire] in front of [/EN#146592/people a large crowd] , [/EN#146601/other some] seated and [/EN#146602/other some standing] .
+[/EN#146590/people A magician] performs with [/EN#146594/scene a burning bar] placed in [/EN#146598/scene his front] on [/EN#146603/scene the floor] while [/EN#146592/people the crowd] watches closely .
+[/EN#146590/people A sidewalk artist] performing [/EN#0/notvisual magic tricks] .
+[/EN#146590/people A street performer] entertains [/EN#146592/people a crowd] .

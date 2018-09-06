@@ -1,0 +1,5 @@
+[/EN#160353/people An older man] is sleeping on [/EN#160354/other an old park bench] near [/EN#160355/scene a street] .
+[/EN#160353/people A man] is asleep on [/EN#160354/other a park bench] .
+[/EN#160353/people A man] is sleeping on [/EN#160354/other a bench] .
+[/EN#160353/people A man] is sleeping on [/EN#160354/other a bench] .
+[/EN#160353/people A man] is sleeping on [/EN#160354/other a bench] .

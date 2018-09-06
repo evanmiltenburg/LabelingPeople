@@ -1,0 +1,5 @@
+[/EN#87839/people A little Asian girl] holding [/EN#87841/clothing a plastic bag] with [/EN#87847/animals Mickey Mouse] inside [/EN#0/notvisual it] .
+[/EN#87839/people A small child] wearing [/EN#87845/clothing pink clothes] has [/EN#87841/clothing a plastic bag] in [/EN#87848/bodyparts her hand] .
+[/EN#87839/people Young child] on [/EN#87844/other park bench] eating [/EN#87843/other snacks] from [/EN#87842/other a bag of chips] .
+[/EN#87839/people A little girl] sitting on [/EN#87844/other a bench] , eating [/EN#87843/other popcorn] .
+[/EN#87839/people A girl] is sitting on [/EN#87844/other a bench] and eating [/EN#87840/other a snack] .

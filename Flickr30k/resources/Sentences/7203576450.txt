@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] are [/EN#267089/people two people] , [/EN#267090/other one] is [/EN#267090/people a man] wearing [/EN#267096/clothing a blue shirt] mixed with [/EN#267104/other other colors] [/EN#0/notvisual who] holds [/EN#267093/other a guiter] and [/EN#267092/other the other] is [/EN#267092/people a girl] wearing [/EN#267091/clothing a brown dress] and holding [/EN#267094/other a microphone] .
+[/EN#267089/people A band] , consisting of [/EN#267090/people at least one male guitar player] and [/EN#267092/people one female singer] , plays [/EN#267101/other music] on [/EN#267095/scene a stage] .
+[/EN#267089/people A band] performing with [/EN#267092/people a girl] singing and [/EN#267090/people a guy] next to [/EN#267100/other her singing] as well while playing [/EN#267093/instruments the guitar]
+[/EN#267090/people A man] dressed in [/EN#267096/clothing blue] and [/EN#267092/people a female] dressed in [/EN#267091/clothing a brown dress] , with [/EN#267094/other the mic] are performing on [/EN#267095/scene stage] .
+[/EN#267089/people Two people] singing on [/EN#267095/scene stage] , [/EN#267090/other one] holding [/EN#267093/instruments a guitar] .

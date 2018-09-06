@@ -1,0 +1,5 @@
+[/EN#4097/people A man] in [/EN#4099/clothing a white and black uniform] carries [/EN#4101/other luggage] and [/EN#4103/other blankets] across [/EN#4100/scene a sidewalk] outside of [/EN#4098/scene a red bricked building] .
+[/EN#4097/people A man] in [/EN#4099/clothing an pilot uniform] is walking down [/EN#4100/scene the sidewalk] carrying [/EN#4101/other luggage] .
+[/EN#4097/people A pilot] in [/EN#4099/clothing his uniform] carrying [/EN#4101/other luggage] on [/EN#4104/scene his way] to work .
+[/EN#4097/people A man] walking beside [/EN#4098/scene a house] with [/EN#4102/clothing bags] .
+[/EN#4097/people A pilot] is leaving [/EN#4098/scene a home] .

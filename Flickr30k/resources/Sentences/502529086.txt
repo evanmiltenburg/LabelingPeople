@@ -1,0 +1,5 @@
+[/EN#227205/people A man] with [/EN#227206/bodyparts gray hair] and [/EN#227212/animals a bear] sits in [/EN#227207/other a chair] on [/EN#227210/scene the street] with [/EN#227208/instruments a guitar] by [/EN#0/notvisual his side] .
+[/EN#227205/people An old man] sits [/EN#227211/scene outside] with [/EN#227208/instruments his guitar] , watching [/EN#227214/scene an younger generation pass] by .
+[/EN#227205/people An elderly man] sitting outside on [/EN#227207/other a chair] with [/EN#227208/instruments a guitar] next to [/EN#0/notvisual him] .
+[/EN#227205/people A man] sits in [/EN#227207/other a chair] watching [/EN#227209/people people] stroll by .
+[/EN#227205/people man] playing [/EN#227208/instruments guitar] on [/EN#227210/scene the street]

@@ -1,0 +1,5 @@
+[/EN#189561/people A woman] walking out of [/EN#189562/scene an entry way] and looking down [/EN#189565/scene the street] .
+[/EN#189561/people A person] is emerging onto [/EN#189564/scene a sidewalk] from [/EN#189562/scene an entrance] .
+[/EN#189561/people A woman] in [/EN#189563/clothing a red dress] standing next to [/EN#189566/other a large tree] .
+[/EN#189561/people A woman] in [/EN#189563/clothing a red shirt] walking out onto [/EN#189564/scene a sidewalk] .
+[/EN#189561/people A dark-haired woman] in [/EN#189563/clothing a red shirt] closing [/EN#189562/scene a gate] .

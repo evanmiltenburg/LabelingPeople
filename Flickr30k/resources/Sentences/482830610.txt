@@ -1,0 +1,5 @@
+[/EN#208013/people Woman] on [/EN#208015/vehicles/scene a train] , reading and listening to [/EN#208017/clothing headphones] .
+[/EN#208013/people The girl] is sitting on [/EN#208015/vehicles/scene a train] and reading [/EN#208014/other a book] .
+[/EN#208013/people A woman] reads while on [/EN#208018/vehicles public transportation] .
+[/EN#208013/people A girl] reads and listens to [/EN#208016/other music] on [/EN#208015/vehicles/scene a bus] .
+[/EN#208013/people a woman] reads [/EN#208014/other a book] on [/EN#208015/vehicles/scene a train] .

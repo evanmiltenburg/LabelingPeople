@@ -1,0 +1,5 @@
+[/EN#68805/animals The brown dog] and [/EN#68807/animals the black dog] with [/EN#68810/clothing green harnesses] are in [/EN#68812/other the sand] .
+[/EN#68805/animals A large brown dog] is playing [/EN#68809/other tug-of-war] with [/EN#68807/animals a large black dog] .
+[/EN#68805/animals A brown dog] and [/EN#68807/animals a black dog] are playing [/EN#68809/other tug-of-war] with [/EN#68808/other a toy] .
+[/EN#68806/animals Two brown dogs] with [/EN#68810/clothing green harnesses] play [/EN#68813/other tug-of-war] .
+[/EN#68806/animals Two dogs] play with [/EN#68808/other a toy] .

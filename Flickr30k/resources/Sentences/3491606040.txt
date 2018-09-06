@@ -1,0 +1,5 @@
+[/EN#122270/people A woman] wearing [/EN#122274/clothing black pants] , [/EN#122273/clothing a white shirt] , and [/EN#122276/clothing gardening gloves] is pruning [/EN#122271/scene some bushes] next to [/EN#122275/scene grassy area] .
+[/EN#122270/people A woman] wearing [/EN#122277/clothing glasses] , [/EN#122274/clothing black pants] and [/EN#122273/clothing a white shirt] pruning [/EN#122271/scene a bush] .
+[/EN#122270/people A woman] in [/EN#122273/clothing a white shirt] , and [/EN#122274/clothing black pants] trimming [/EN#122271/other a tree]
+[/EN#122270/people A woman] pruning [/EN#122271/scene an ornamental bush] in [/EN#122275/scene her front yard] .
+[/EN#122270/people A woman] prunes [/EN#122271/other a sparsely leafed plant] .

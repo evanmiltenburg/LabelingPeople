@@ -1,0 +1,5 @@
+[/EN#112149/people A man] in [/EN#112157/clothing a black shirt] sits under [/EN#112155/other lights] and [/EN#112151/other signs] on [/EN#112150/other a wall]
+[/EN#112149/people A man] looks around [/EN#112153/scene a restaurant] near [/EN#112151/other the menu] .
+[/EN#112151/other The menu] for [/EN#112153/scene this restaurant] is on [/EN#112150/other the wall] .
+[/EN#112151/other a special of the day board] at [/EN#112153/scene a restaurant] .
+[/EN#112151/scene the menu of a restaurant] .

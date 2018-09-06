@@ -1,0 +1,5 @@
+[/EN#12696/people A woman] wearing [/EN#12703/clothing a blue shirt] and [/EN#12704/clothing high heels] stands on [/EN#12699/scene the sidewalk] next to [/EN#12695/people a man] .
+[/EN#12697/people Two people] are standing near [/EN#12698/other a curb] outside [/EN#12700/scene a store] .
+[/EN#12697/people Two people] standing on [/EN#12702/scene the side of a city street] .
+[/EN#12695/people A man] and [/EN#12696/people a woman] are standing on [/EN#12698/other the curb] .
+[/EN#12697/people two people] wait to cross [/EN#12701/scene the street] .

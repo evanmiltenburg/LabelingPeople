@@ -1,0 +1,5 @@
+[/EN#263634/people A man] in [/EN#263643/clothing khaki pants] and [/EN#263644/clothing a pale button-down shirt] is sitting on [/EN#263635/other a wooden bench] , putting [/EN#263636/other something] into [/EN#263637/other a metal funnel contraption] .
+[/EN#263634/people A black man] , dumping [/EN#263636/other a bowl of meat] into [/EN#263637/other a grinder] in [/EN#263640/scene a poor looking country] .
+[/EN#263634/people A poor man] wearing [/EN#263638/other all white tires] to prepare [/EN#263636/other a meal] using [/EN#263637/other a machine] [/EN#263642/scene outdoors] .
+[/EN#263634/people This guy] has just created [/EN#263639/scene a new way] of cooking for [/EN#263641/people his family] .
+[/EN#263634/people A man] is sitting on [/EN#263635/other a bench] while [/EN#0/notvisual he] is working .

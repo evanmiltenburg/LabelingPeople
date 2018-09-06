@@ -1,0 +1,5 @@
+[/EN#35498/people A woman] is standing in front of [/EN#35497/animals a dog] [/EN#0/notvisual that] 's standing on [/EN#35499/bodyparts its hind legs] .
+[/EN#35497/animals A large dog] is jumping up at [/EN#35498/people the girl] wearing [/EN#35502/clothing a pink jacket] .
+[/EN#35497/animals a large brown dog] standing on [/EN#35499/bodyparts his hind legs] next to [/EN#35498/people a woman] .
+[/EN#35497/animals A brown dog] is jumping in [/EN#0/notvisual the air] near [/EN#35498/people a pink-coated girl] .
+[/EN#35498/people A girl] stands with [/EN#35497/scene a brown dog outside] .

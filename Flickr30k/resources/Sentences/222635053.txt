@@ -1,0 +1,5 @@
+[/EN#35290/people A woman] wearing [/EN#35291/clothing a gas mask] is sitting behind [/EN#35292/other a sewing machine] sewing .
+[/EN#35290/people A woman] wearing [/EN#35291/clothing a mask] is sewing [/EN#35293/other something] on [/EN#35292/other her sewing machine] .
+[/EN#35290/people A woman] in [/EN#35291/clothing a air filter mask] is sewing with [/EN#35292/other a sewing machine] .
+[/EN#35290/people The lady] is sitting at [/EN#35292/other the sewing machine] working .
+[/EN#35290/people A woman] in [/EN#35291/clothing a gas mask] is using [/EN#35292/other a sewing machine] .

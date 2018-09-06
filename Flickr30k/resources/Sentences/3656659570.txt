@@ -1,0 +1,5 @@
+[/EN#134698/people A young blond boy] wearing [/EN#134703/clothing a purple] , [/EN#134703/clothing long-sleeve shirt] and [/EN#134707/clothing blue pants] jumping over [/EN#134699/scene a trench] in [/EN#134701/other the woods] .
+[/EN#134698/people Boy] jumping [/EN#134699/scene the space] in [/EN#134705/other between] while carrying [/EN#134700/other a stick] .
+[/EN#134698/people A boy] holding [/EN#134700/other a stick] jumps over [/EN#134704/other a small channel] .
+[/EN#134698/people A child] is jumping over [/EN#134699/scene a hole] in [/EN#0/notvisual the ground] .
+[/EN#134698/people A kid] jumping over [/EN#134699/scene a ditch] in [/EN#134702/scene the forest] .

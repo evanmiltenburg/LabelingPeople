@@ -1,0 +1,5 @@
+On [/EN#266157/scene a rainy day] [/EN#266147/people a person] is walking on [/EN#266161/scene a busy city street] carrying [/EN#266162/clothing a dark colored plaid shirt] on [/EN#266148/other a hanger] and holding onto [/EN#266149/instruments bagpipes] under [/EN#266150/bodyparts/people the arm] .
+[/EN#266151/people A gentleman] walking in [/EN#266158/other the rain] while holding [/EN#266149/instruments his bagpipes] appears to be late for [/EN#266159/other an event of some sort] .
+[/EN#266151/people A man] in [/EN#266152/clothing a unique costume] is playing [/EN#266149/instruments the bagpipes] while [/EN#266153/people some people] stare at [/EN#0/notvisual him] .
+[/EN#266151/people A strange man] plays [/EN#266149/instruments his bagpipes] in [/EN#266160/scene the city] as walks around dressed in [/EN#266154/clothing a kilt] .
+[/EN#266151/people Man] in [/EN#266155/clothing Scottish garb] playing [/EN#266149/instruments the bagpipes] on [/EN#266157/scene a rainy day] on [/EN#266156/scene the sidewalk] .

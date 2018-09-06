@@ -1,0 +1,5 @@
+[/EN#247743/people A man] standing on [/EN#247745/vehicles/scene a boat] in [/EN#247748/clothing a yellow jumpsuit] helping [/EN#247743/people another man] in [/EN#247751/scene a yellow jumpsuit climb] up [/EN#247749/other a ladder] on [/EN#247745/other a bigger ship] .
+[/EN#247744/people Two men] in [/EN#247748/clothing jumpsuits] attempt to work on [/EN#247752/other the side of a ship] from [/EN#247745/vehicles a small vessel] .
+[/EN#247744/people Two workers] boarding [/EN#247745/other a large Tugboat] from [/EN#247745/vehicles/scene a smaller orange boat] .
+[/EN#247744/people Two men] escape [/EN#247745/other a large ship] into [/EN#247745/other a lifeboat] .
+[/EN#247743/people A man] is rescuing [/EN#247743/people another man] from [/EN#247745/vehicles/scene a boat] .

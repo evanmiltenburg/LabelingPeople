@@ -1,0 +1,5 @@
+[/EN#47841/people A man] and [/EN#47842/people a woman] wearing [/EN#47848/clothing coats] are facing standing outside facing [/EN#0/notvisual each other] , but not looking at [/EN#0/notvisual each other] .
+[/EN#47841/people A man] with [/EN#47843/clothing a brown jacket] and [/EN#47842/people a woman] with [/EN#47845/clothing a pink jacket] are facing [/EN#0/notvisual each other] in front of [/EN#47844/scene a metal building] .
+[/EN#47841/people A man] and [/EN#47842/people a woman] stand facing [/EN#0/notvisual each other] in front of [/EN#47847/other a silver-colored wall] .
+[/EN#47842/people A woman] in [/EN#47845/clothing a long pink trench coat] speak with [/EN#47841/people a man] in [/EN#47843/clothing a brown parka] .
+[/EN#47841/people A man] and [/EN#47842/other a lady stop] in front of [/EN#47844/scene a building] to talk .

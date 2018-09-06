@@ -1,0 +1,5 @@
+[/EN#51082/people A man] in [/EN#51088/clothing a black shirt] , [/EN#51083/clothing a jacket] with [/EN#51087/clothing glasses] looking inside [/EN#51084/instruments a string instrument] with [/EN#51086/bodyparts his hand] inside [/EN#51084/instruments the instrument] on [/EN#51084/other a support beam] .
+[/EN#51082/people A man] balding , with [/EN#51087/clothing glasses] , and [/EN#51083/clothing a tan suit jacket] , [/EN#51086/bodyparts fingers] [/EN#51091/scene the strings of the inside] of [/EN#51084/instruments a piano] with [/EN#51090/bodyparts his left hand] .
+[/EN#51082/people A well dressed man] with [/EN#51087/clothing glasses] working with [/EN#51084/instruments an open piano] .
+[/EN#51082/people A man] tests [/EN#51084/instruments an instrument] using [/EN#51089/bodyparts his ears] and [/EN#51086/bodyparts hands] .
+Checking [/EN#51084/other the sounds system] out .

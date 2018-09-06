@@ -1,0 +1,5 @@
+[/EN#7775/people A blond boy] wearing [/EN#7777/clothing a blue life vest] and [/EN#7781/clothing camo shorts] jumps off [/EN#7778/other a diveboard] into [/EN#7776/scene a blue lake] .
+[/EN#7775/people A boy] is holding [/EN#7782/bodyparts his nose] and jumping off [/EN#7778/scene a diving board] backwards into [/EN#7776/scene a lake] .
+[/EN#7775/people A boy] in [/EN#7777/clothing a blue life jacket] jumps off [/EN#7778/other a board] into [/EN#7776/scene the lake] .
+[/EN#7775/people A boy] in [/EN#7777/clothing a blue life jacket] jumps into [/EN#7776/scene the water] .
+[/EN#7775/people A boy] diving backward off [/EN#7780/scene a pier] in [/EN#7776/scene a large lake] .

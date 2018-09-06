@@ -1,0 +1,5 @@
+[/EN#184949/scene A crowded sidewalk] with [/EN#184950/people people] on [/EN#0/notvisual it] separated from [/EN#184951/scene the street] by [/EN#184957/other metal barriers] .
+[/EN#184950/people A crowd of Asian people] are walking along [/EN#184951/scene the pavement of a crowded street] .
+[/EN#184950/people People] walk on [/EN#184951/scene crowded sidewalk] underneath [/EN#184955/scene a freeway] in [/EN#184953/other China] .
+[/EN#184950/people Many people] walking on [/EN#184949/scene a sidewalk] with [/EN#184956/vehicles cars] driving [/EN#184958/other past] .
+[/EN#184952/vehicles A cart] is selling [/EN#184959/other things] in [/EN#184954/other a busy thoroughfare] .

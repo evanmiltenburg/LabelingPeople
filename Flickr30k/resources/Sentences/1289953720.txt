@@ -1,0 +1,5 @@
+[/EN#7486/people A blond lady] is reaching for [/EN#7487/other a light] in [/EN#7490/other IKEA] .
+[/EN#7486/people A blond woman] is looking at [/EN#7488/other some lights] .
+[/EN#7486/people A woman] is reaching in [/EN#7491/scene an IKEA store] .
+[/EN#7486/people A woman] reaching for [/EN#7489/other something] .
+[/EN#7486/people A woman] reaching out to [/EN#7487/other lights] .

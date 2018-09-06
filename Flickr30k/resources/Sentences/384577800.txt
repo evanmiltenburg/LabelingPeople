@@ -1,0 +1,5 @@
+[/EN#145339/animals A Sheltie dog] carries [/EN#145340/other a white-colored toy] in [/EN#145342/bodyparts its mouth] as [/EN#0/notvisual it] walks across [/EN#145341/scene the snow] .
+[/EN#145339/animals A brown dog] carries [/EN#145340/other an object] in [/EN#145342/bodyparts its mouth] on [/EN#145341/other a snowy hillside] .
+[/EN#145339/animals The dog] wades through [/EN#145341/scene deep snow] with [/EN#145340/other something] in [/EN#145342/bodyparts its mouth] .
+[/EN#145339/animals A collie] running through [/EN#145341/scene the snow] .
+[/EN#145339/animals Dog] with [/EN#145340/other a toy] in [/EN#145341/scene the snow] .

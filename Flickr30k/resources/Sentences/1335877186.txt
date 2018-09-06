@@ -1,0 +1,5 @@
+[/EN#9027/people A man] holding [/EN#9028/clothing a blue backpack] , reading [/EN#9029/other the paper] , and [/EN#9032/people a woman] wearing [/EN#9031/clothing a black coat] wait for [/EN#9030/vehicles/scene their train] .
+[/EN#9027/people A man] with [/EN#9028/clothing a blue backpack] reads [/EN#9029/other the paper] while waiting to board [/EN#9030/vehicles/scene the subway] .
+[/EN#9027/people A man] reads [/EN#9029/other the paper] while waiting for [/EN#9030/vehicles/scene the subway] .
+[/EN#9027/people A man] reading [/EN#9029/other the paper] waiting to get on [/EN#9030/vehicles/scene subway] .
+[/EN#9027/people A man] reading [/EN#9029/other a newspaper] next to [/EN#9030/vehicles/scene a train] .

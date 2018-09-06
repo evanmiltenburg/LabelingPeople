@@ -1,0 +1,5 @@
+[/EN#128508/animals A brown dog] wearing [/EN#128513/clothing a collar] is running through [/EN#128509/scene some water] .
+[/EN#128508/animals A brown dog] is running in [/EN#128509/scene the water] by [/EN#128512/scene the beach] .
+[/EN#128508/animals A dog] running through [/EN#128509/scene the water] .
+[/EN#128508/animals A brown dog] jumps in [/EN#128509/scene the ocean] .
+[/EN#128508/animals A brown dog] runs down [/EN#128510/scene a beach] .

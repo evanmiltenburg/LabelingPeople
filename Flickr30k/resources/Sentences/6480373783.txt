@@ -1,0 +1,5 @@
+[/EN#254825/people A man] in [/EN#254832/clothing a red shirt] and [/EN#254833/clothing a helmet] sits down next to [/EN#254827/vehicles his bicycle] [/EN#0/notvisual which] has [/EN#254828/other one tire] blown out .
+[/EN#254825/people A bicyclist] sitting down with [/EN#254827/vehicles his bike] [/EN#0/notvisual which] has [/EN#254828/other one wheel] removed from [/EN#0/notvisual it] .
+[/EN#254825/people A middle-aged biker] sat on [/EN#254829/scene the side of the road] to check [/EN#254831/other his cellphone] .
+[/EN#254825/people Biker] fixing [/EN#254826/other a flat] on [/EN#254829/scene the side of a trail] .
+[/EN#254825/people A biker] is fixing [/EN#254826/other his tire] on [/EN#254830/scene a sunny day]

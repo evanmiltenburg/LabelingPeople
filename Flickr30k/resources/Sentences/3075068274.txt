@@ -1,0 +1,5 @@
+[/EN#91588/people A person] in [/EN#91589/clothing a plaid shirt] riding [/EN#91591/other a skateboard] on [/EN#91592/other a half-pipe] .
+[/EN#91588/people Person] in [/EN#91589/clothing plaid shirt] make [/EN#0/notvisual a jump] on [/EN#91591/other a skateboard] on [/EN#91590/scene a ramp] .
+[/EN#91588/people The boy] safely skates up [/EN#91590/scene the ramp] before descending again .
+[/EN#91588/people A boy] on [/EN#91591/other a skateboard] is at [/EN#91590/scene the top of a ramp] .
+[/EN#91588/people A skateboarder] on [/EN#91590/scene a ramp] .

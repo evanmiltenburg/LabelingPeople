@@ -1,0 +1,5 @@
+[/EN#227408/people An old lady] in [/EN#227409/clothing a blue dress] is on [/EN#227413/scene a farm] , and is using [/EN#227410/other a broom] to herd [/EN#227411/animals two sheep] .
+[/EN#227408/people A lady] wearing [/EN#227409/clothing a night gown] is raising [/EN#227410/other a broom] at [/EN#227411/animals two sheep] as [/EN#0/notvisual they] walk away .
+[/EN#227408/people Old lady] in [/EN#227409/clothing her night gown] chasing [/EN#227411/animals a couple sheep] out of [/EN#227412/scene a barn] with [/EN#227410/other a broom] .
+[/EN#227408/people Old woman] chasing away [/EN#227411/animals two lambs] with [/EN#227410/other a broom] .
+[/EN#227408/people A woman] is chasing [/EN#227411/animals two sheep] with [/EN#227410/other a broom] .

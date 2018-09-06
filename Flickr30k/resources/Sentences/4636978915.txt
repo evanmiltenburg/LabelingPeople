@@ -1,0 +1,5 @@
+[/EN#185201/people A standing man] in [/EN#185206/clothing a suit] finishes [/EN#185210/other his turn] in [/EN#185203/other a chess game] as [/EN#185204/people his seated opponent] begins [/EN#0/notvisual his] in [/EN#185213/scene a crowded park] .
+[/EN#185202/people Two men] are playing [/EN#185203/other a game of chess] , [/EN#185201/other one] is standing and [/EN#185212/other the other] is sitting .
+[/EN#185201/people A man] in [/EN#185206/clothing a suit] is standing up playing [/EN#185203/other chess] with [/EN#185204/people a man] in [/EN#185208/clothing a yellow shirt] .
+[/EN#185202/people Two men] are playing [/EN#185203/other chess] on [/EN#185207/other a green crate table] .
+[/EN#185202/people Two men] are playing [/EN#185203/other chess] .

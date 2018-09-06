@@ -1,0 +1,5 @@
+[/EN#17133/people A child] in [/EN#17134/clothing a blue shirt] , with [/EN#17136/clothing a hat] , trying to climb [/EN#17135/scene a fence] .
+[/EN#17133/people A kid] attempting to squeeze through [/EN#17135/scene a metal fence] .
+[/EN#17133/people A boy] is attempting to climb [/EN#17135/scene an iron fence] .
+[/EN#17133/people Boy] in [/EN#17134/clothing blue shirt] climbing [/EN#17135/scene a fence] .
+[/EN#17133/people a little boy] trying to climb up .

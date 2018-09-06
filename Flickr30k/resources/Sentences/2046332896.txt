@@ -1,0 +1,5 @@
+[/EN#25763/people A young boy] sits with [/EN#25763/people a friend] on [/EN#25764/scene a train track] [/EN#0/notvisual that] appears to be under [/EN#25769/other construction] .
+[/EN#25765/people Two men] sitting on [/EN#25766/clothing a railroad tie] showing [/EN#0/notvisual the camera] [/EN#25767/other something] in [/EN#25768/bodyparts his hand] .
+[/EN#25763/people a kid] is sitting on [/EN#25764/scene newly constructed railroad tracks]
+[/EN#25765/people Two kids] eating [/EN#25767/other ice cream] on [/EN#25764/scene some train tracks] .
+[/EN#25765/people Boys] are sitting on [/EN#25764/scene pieces of track] .

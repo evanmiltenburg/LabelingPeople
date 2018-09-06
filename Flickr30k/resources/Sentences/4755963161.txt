@@ -1,0 +1,5 @@
+[/EN#199171/people People] standing on [/EN#199173/scene the street] in [/EN#199172/scene the city] next to [/EN#199177/scene oriental buildings] .
+[/EN#199171/people Four people] on [/EN#199174/scene a street] in [/EN#199172/scene an asian city] , [/EN#199175/people one man] is pointing .
+[/EN#199171/people People] are standing on [/EN#199174/scene a street corner] pointing .
+[/EN#199175/people Men] and [/EN#199178/people women] are standing on [/EN#199174/scene a street corner] .
+[/EN#199171/people A group of people] stand on [/EN#199173/scene a street corner] .

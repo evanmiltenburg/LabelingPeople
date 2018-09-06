@@ -1,0 +1,5 @@
+[/EN#4497/people A girl] in [/EN#4501/clothing blue] is jumping on [/EN#4498/scene the shore] as [/EN#4498/scene small waves] approach [/EN#0/notvisual her] .
+[/EN#4497/people A young , long-haired , girl] on [/EN#4498/scene the beach] , is jumping in [/EN#0/notvisual the air] .
+[/EN#4497/people A girl] leaps into [/EN#0/notvisual the air] while standing by [/EN#4498/scene the ocean] .
+[/EN#4497/people The girl] is running into [/EN#4498/scene the ocean] from [/EN#4498/scene the shore] .
+[/EN#4497/people The girls] is jumping into [/EN#0/notvisual the air] on [/EN#4498/scene the beach] .

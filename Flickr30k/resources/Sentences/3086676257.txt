@@ -1,0 +1,5 @@
+[/EN#92398/people A woman] with [/EN#92402/clothing glasses] and [/EN#92403/bodyparts short blond-hair] is holding [/EN#92399/people a newborn baby] in [/EN#92401/scene a hospital room] .
+[/EN#92398/people A woman] in [/EN#92400/other a hospital bed] hugging [/EN#92399/people a newborn baby] .
+[/EN#92398/people A woman] in [/EN#92400/other a hospital bed] holds [/EN#92399/people her newborn baby] .
+[/EN#92398/people A woman] is holding [/EN#92399/people her baby] in [/EN#92401/scene a hospital room] .
+[/EN#92398/people A lady] holds [/EN#92399/people a baby] in [/EN#92401/scene a hospital room] .

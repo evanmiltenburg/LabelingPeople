@@ -1,0 +1,5 @@
+[/EN#88916/people A man] wearing [/EN#88917/clothing a green apron] , working at [/EN#88916/people a street side vendor] called [/EN#88918/other NY Dosas] , [/EN#88921/other miles] at [/EN#0/notvisual the camera] .
+[/EN#88916/people A street vendor] with [/EN#88917/clothing a green apron] smiles behind [/EN#88919/vehicles his food cart] .
+[/EN#88916/people A man] in [/EN#88917/clothing a green apron] smiles behind [/EN#88919/scene a food stand] .
+[/EN#88916/people The hotdog vendor] is working in [/EN#88922/scene central park] .
+[/EN#88916/people Man] standing at [/EN#88924/other a food] and [/EN#88919/scene beverage stand] .

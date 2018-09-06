@@ -1,0 +1,5 @@
+[/EN#94351/people A man] in [/EN#94353/clothing red shorts] runs on [/EN#94352/scene a track] .
+[/EN#94351/people A man] runs on [/EN#94352/scene a track outside] .
+[/EN#94351/people A man] running on [/EN#94352/scene a track] .
+[/EN#94351/people A runner] on [/EN#94352/scene a track] .
+[/EN#94351/people a man] running [/EN#94352/scene track]

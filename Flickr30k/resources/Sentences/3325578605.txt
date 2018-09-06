@@ -1,0 +1,5 @@
+[/EN#109534/animals The magnificant bird] flies low over [/EN#109536/scene the water] .
+[/EN#109534/animals A white bird] grazes above [/EN#109535/scene the water] .
+[/EN#109534/scene A white crane] flies over [/EN#109536/scene water] .
+[/EN#109534/animals a white bird] flies over [/EN#109535/scene a lake] .
+[/EN#109534/animals A bird] flies across [/EN#109535/scene the water] .

@@ -1,0 +1,5 @@
+[/EN#197716/people A man] in [/EN#197717/clothing a pink shirt] and [/EN#197723/clothing sunglasses] watching [/EN#197719/scene a cultural event] at [/EN#197722/scene a waterfront] .
+[/EN#197716/people A man] in [/EN#197717/clothing a red shirt] is sitting down at [/EN#197718/other a red table] .
+[/EN#197716/people A man] in [/EN#197717/clothing a pink shirt] is crossing [/EN#197724/bodyparts his legs] .
+[/EN#197715/people A couple] watching [/EN#197721/other a show] at [/EN#197720/scene a restaurant] .
+[/EN#197715/people A couple] sits at [/EN#197718/other a red table] .

@@ -1,0 +1,5 @@
+[/EN#249429/people A musician] is playing [/EN#249430/instruments his guitar] , and [/EN#249431/bodyparts his blond-hair] is hiding [/EN#249435/bodyparts his face] , and [/EN#0/notvisual he] has [/EN#249432/bodyparts tattoos] on [/EN#249434/bodyparts/people his arm] .
+[/EN#249429/people A person] with [/EN#249431/bodyparts long auburn hair] and [/EN#249433/bodyparts a cat tattoo] is playing [/EN#249430/instruments a red electric guitar]
+[/EN#249429/people A person] with [/EN#249431/bodyparts long blond-hair] is playing [/EN#249430/instruments a red electric guitar] .
+[/EN#249429/people A long-haired person] is playing [/EN#249430/instruments an electric guitar] .
+[/EN#249429/people Dirty blond man] with [/EN#249432/bodyparts tattoos] is playing [/EN#249430/instruments a guitar] .

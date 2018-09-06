@@ -1,0 +1,5 @@
+[/EN#221974/people A bearded man] in [/EN#221976/clothing a denim jacket] is holding [/EN#221980/other a tool] and leaning against [/EN#221977/vehicles a car] with [/EN#221978/scene its ' hood open] , exposing [/EN#221981/other the engine] .
+[/EN#221974/people A man] with [/EN#221975/bodyparts a beard] , wearing [/EN#221976/clothing a blue denim shirt] , leans into [/EN#221978/scene an automobile 's engine compartment] .
+[/EN#221974/people A man] leaning over [/EN#221979/vehicles a car] with [/EN#221975/bodyparts a beard] looking at [/EN#0/notvisual the camera] while working on [/EN#221977/vehicles a car] .
+[/EN#221974/people A bearded man] works under [/EN#221977/vehicles the hood of a car] .
+[/EN#221974/people A man] [/EN#0/notvisual that] is wearing [/EN#221976/clothing blue] is fixing [/EN#221977/vehicles a car] .

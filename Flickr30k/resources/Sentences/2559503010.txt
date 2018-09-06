@@ -1,0 +1,5 @@
+[/EN#58057/people A man] with [/EN#58059/clothing a red Shriner hat] is looking at [/EN#58060/other watermelons] in front of [/EN#58058/scene a bank] .
+[/EN#0/notvisual There] is [/EN#58057/people a man] , wearing [/EN#58059/clothing a funny hat] , standing in front of [/EN#58058/scene a bank] .
+[/EN#58057/people The man] is looking at [/EN#58060/other watermelons] for [/EN#58061/other sale] outside of [/EN#58058/scene a bank] .
+[/EN#58062/vehicles Dark colored Mercury car] parked in front of [/EN#58058/scene PNC Bank] .
+[/EN#58057/people a man] stands outside [/EN#58058/scene a bank] selling [/EN#58060/other watermelons] .

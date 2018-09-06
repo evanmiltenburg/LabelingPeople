@@ -1,0 +1,5 @@
+[/EN#240756/people A man] wearing [/EN#240764/clothing a baseball cap] , [/EN#240765/clothing tan jacket] , and [/EN#240766/clothing pants] sits on [/EN#0/notvisual the ground] crafting [/EN#240757/other flowers] from [/EN#240758/other food] while [/EN#240762/other others] stand nearby watching [/EN#0/notvisual him] .
+[/EN#240756/people A man] sitting on [/EN#240761/scene the street] carves [/EN#240759/other various vegetables] into [/EN#240757/other flowers] and [/EN#240767/animals animals] .
+[/EN#240756/people A man] sits , selling [/EN#240757/other flowers] and [/EN#240759/other vegetables] on [/EN#240763/scene the side of a busy street] .
+[/EN#240756/people A street vendor] is preparing [/EN#240758/other his vegetables] for [/EN#240760/other the marketplace] .
+[/EN#240756/people A man] sitting on [/EN#0/notvisual the ground] creating [/EN#240757/other designs] out of [/EN#240759/other vegetables] .

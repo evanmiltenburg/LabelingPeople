@@ -1,0 +1,5 @@
+[/EN#85177/people A seated man] in [/EN#85178/clothing a blue T-shirt] and [/EN#85179/clothing green cap] rests against [/EN#85180/other divider glass] in [/EN#85184/vehicles a train car] .
+[/EN#85177/people A man] in [/EN#85181/scene a green ha] is tired from shopping so [/EN#0/notvisual he] sleeps in [/EN#85185/vehicles/scene the train] .
+[/EN#85177/people An older black man] in [/EN#85178/clothing a blue shirt] and [/EN#85182/other green hat dozes] on [/EN#85186/vehicles/scene the subway] .
+[/EN#85177/people A man] with [/EN#85183/clothing glasses] and [/EN#85179/clothing a green beanie] falling asleep on [/EN#85186/vehicles/scene the subway] .
+[/EN#85177/people A man] in [/EN#85179/clothing a green hat] is sleeping .

@@ -1,0 +1,5 @@
+[/EN#38399/people A middle-aged man] wearing [/EN#38407/clothing gray pants] , [/EN#38403/clothing a gray t-shirt] , and [/EN#38406/clothing a white cap] is high on [/EN#38404/other a ladder] , helping to construct [/EN#38400/scene a grass hut] .
+[/EN#38399/people A man] in [/EN#38403/clothing a gray shirt] is standing on [/EN#38404/other a ladder] thatching [/EN#38401/scene a roof] with [/EN#38405/other straw] .
+[/EN#38399/people a man] is working on constructing [/EN#38402/scene a shelter] made of [/EN#38408/other logs] and [/EN#38405/other reeds] .
+[/EN#38399/people A man] is standing on [/EN#38404/other a ladder] [/EN#0/notvisual that] is leaning against [/EN#38401/scene a roof] .
+[/EN#38399/people A male worker] works on [/EN#38401/scene the roofing of a primal looking hut] .

@@ -1,0 +1,5 @@
+[/EN#241904/people A chef] in [/EN#241909/scene a kitchen] cuts [/EN#241905/other a piece] off of [/EN#241905/other a large slab] of rotating [/EN#241905/other meat] on [/EN#241912/other a stick] , probably lamb .
+[/EN#241904/people A man] in [/EN#241906/clothing a white uniform] with [/EN#241913/other blue trim] prepares [/EN#241905/other food] for [/EN#241915/other serving] .
+[/EN#241904/people A man] in [/EN#241911/scene a restaurant] tends to [/EN#241905/other the lamb meat] .
+[/EN#241904/people A man] in [/EN#241906/clothing a white uniform] is preparing [/EN#241905/other meat] .
+[/EN#241904/people A man] in [/EN#241908/clothing a chef 's hat] is preparing [/EN#241905/other food] .

@@ -1,0 +1,5 @@
+[/EN#3014/animals A brown dog] is running in [/EN#3015/other the sand] .
+[/EN#3014/animals A brown dog] playing in [/EN#3015/other the sand] .
+[/EN#3014/animals A dog] running fast in [/EN#3015/other the sand] .
+[/EN#3014/animals A brown dog] plays at [/EN#3015/scene the beach] .
+[/EN#3014/animals A dog] is standing in [/EN#3015/other the sand] .

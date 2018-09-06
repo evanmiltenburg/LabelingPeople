@@ -1,0 +1,5 @@
+[/EN#63841/people A red-haired girl] in [/EN#63843/vehicles/scene a boat] wearing [/EN#63842/clothing a blue life vest] is holding [/EN#63844/other a fishing pole] .
+[/EN#63841/people A little red-haired girl] wearing [/EN#63842/clothing a blue life jacket] is fishing from [/EN#63843/vehicles/scene a boat] .
+[/EN#63841/people A red-haired little girl] in [/EN#63846/clothing purple] is fishing on [/EN#63843/vehicles/scene a boat] out on [/EN#63845/scene a lake] .
+[/EN#63841/people a Little redheaded girl] just caught [/EN#63847/animals a small fish] on [/EN#63844/other her fishing rod] .
+[/EN#63841/people A child] is fishing on [/EN#63843/vehicles/scene a boat] in [/EN#63845/scene a river] .

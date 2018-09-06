@@ -1,0 +1,5 @@
+[/EN#86590/animals A brown and white dog] licking [/EN#86594/other its chops] while sitting in [/EN#86591/scene a green room] with [/EN#86595/scene a tile floor] .
+[/EN#86590/animals A brown pitbull] licks [/EN#86594/other its chops] as [/EN#0/notvisual it] waits for [/EN#86592/other the empty food bowl] to be filled .
+[/EN#86590/animals a brown dog] is licking [/EN#86593/bodyparts its lips] whilst standing next to [/EN#86592/other two empty feeding bowls] .
+[/EN#86590/animals A dog] is licking [/EN#86593/bodyparts its lips] while sitting beside [/EN#86597/other two feeding tray] .
+[/EN#86590/animals A dog] licking [/EN#86593/bodyparts his lips] in [/EN#86591/scene a room] with [/EN#86596/other no food] in [/EN#86592/other its dish] .

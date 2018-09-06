@@ -1,0 +1,5 @@
+[/EN#45971/people A man] wearing [/EN#45977/clothing a gray hat] is lying with [/EN#45975/bodyparts his head] next to [/EN#45974/bodyparts a cow 's head] .
+[/EN#45971/people Man] with [/EN#45976/bodyparts tattoo] is lying down in [/EN#45973/other the sand] next to [/EN#45972/animals a cow] .
+[/EN#45971/people A shirtless guy] lays in [/EN#45973/other the sand] with [/EN#45972/animals a cow] .
+[/EN#45971/people A person] laying on [/EN#0/notvisual the ground] next to [/EN#45972/animals a cow] .
+[/EN#45971/people A man] lays in [/EN#45973/other the sand] next to [/EN#45972/animals a cow] .

@@ -1,0 +1,5 @@
+[/EN#160489/people Two men] drink stand in front of [/EN#160490/scene a brightly lit restaurant] , drinking [/EN#160493/other soda]
+[/EN#160489/people Two older men] standing in front of [/EN#160490/other a store of sorts] .
+[/EN#160489/people Two men] are standing outside [/EN#160490/scene a restaurant] at [/EN#160492/other dusk] .
+[/EN#160489/people Two men] stand in front of [/EN#160490/scene a restaurant] .
+[/EN#160489/people Two men] outside of [/EN#160490/scene a restaurant] .

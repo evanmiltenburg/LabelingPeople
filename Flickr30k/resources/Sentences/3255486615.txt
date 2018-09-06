@@ -1,0 +1,5 @@
+[/EN#104724/people Middle-aged man] cleaning [/EN#104725/scene the fallen snow] on [/EN#104731/vehicles the roof of his car] with [/EN#104728/other a broom] .
+[/EN#104724/people Man] scraping [/EN#104725/scene snow] and [/EN#104729/other ice] off of [/EN#104725/vehicles the car] with [/EN#104726/scene a red house] in [/EN#0/notvisual the background] .
+[/EN#104724/people A man] wiping [/EN#104725/scene the snow] off [/EN#104725/vehicles his car] with [/EN#104726/scene a large brick house] in [/EN#104730/other the back] .
+[/EN#104724/people A man] is wiping [/EN#104725/scene snow] off of [/EN#104725/vehicles his car] in front of [/EN#104726/scene a red building] .
+[/EN#104724/people A man] brushes [/EN#104725/scene snow] off of [/EN#104725/vehicles a car] outside [/EN#104726/scene a red house] .

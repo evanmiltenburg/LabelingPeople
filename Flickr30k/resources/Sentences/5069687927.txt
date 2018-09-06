@@ -1,0 +1,5 @@
+[/EN#228056/people A man] wearing [/EN#228062/clothing a yellow suit] kneels at [/EN#228061/vehicles/scene the rear of a boat] with [/EN#228057/animals many fish] along [/EN#228060/other the deck] .
+[/EN#228056/people A fisherman] pauses to look into [/EN#0/notvisual the camera] as [/EN#0/notvisual he] works with [/EN#228057/other his catch] .
+[/EN#228056/people This fisherman] is going through [/EN#228057/animals his catch of fish] .
+[/EN#228056/people A fisherman] is sorting through [/EN#228057/animals the caught fish] .
+[/EN#228056/people A fisherman] with [/EN#228059/vehicles/scene a boat] full of [/EN#228057/animals fish] .

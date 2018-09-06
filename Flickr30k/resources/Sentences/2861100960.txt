@@ -1,0 +1,5 @@
+[/EN#77399/people A man] with [/EN#77400/clothing a straw hat] is smoking [/EN#77401/other a cigarette] with [/EN#77402/people a crowd] nearby .
+[/EN#77399/people The man] is wearing [/EN#77400/clothing a straw hat] and smoking [/EN#77401/other a cigarette] .
+[/EN#77399/people The man] in [/EN#77400/clothing the straw hat] is smoking [/EN#77401/other a cigarette] .
+[/EN#77399/people A man] wearing [/EN#77400/clothing a straw hat] smokes [/EN#77401/other a cigarette] .
+[/EN#77399/people The man] in [/EN#77400/clothing the straw hat] smokes [/EN#77401/other a cigarette] .

@@ -1,0 +1,5 @@
+[/EN#101952/people A basketball player] in [/EN#101958/clothing a red uniform] is holding [/EN#101954/other the ball] while [/EN#101957/people a player] in [/EN#101959/clothing a white uniform] is trying to block [/EN#0/notvisual him] .
+[/EN#101952/people A man] in [/EN#101958/clothing a red uniform] is playing [/EN#101954/other backset ball] with [/EN#101957/people a man] in [/EN#101959/clothing a white uniform] blocking [/EN#101962/other his shot] .
+[/EN#101953/people two basketball teams] playing [/EN#101955/other a game] on [/EN#101963/other the court] .
+[/EN#101952/people A basketball player] with [/EN#101960/other a ball] and [/EN#101957/people defenders] .
+[/EN#101953/people The rival teams] are playing [/EN#101956/other basketball] .

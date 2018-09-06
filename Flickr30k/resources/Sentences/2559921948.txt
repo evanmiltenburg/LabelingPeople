@@ -1,0 +1,5 @@
+[/EN#58068/people A young boy] in [/EN#58074/people a yellow rash guard] is walking on [/EN#58073/scene the shore] carrying [/EN#58070/other a surfboard] .
+[/EN#58068/people a young boy] wearing [/EN#58071/clothing a yellow shirt] walking on [/EN#58069/scene the beach] carrying [/EN#58070/other a surfboard]
+[/EN#58068/people A boy] in [/EN#58071/clothing a yellow shirt] walks with [/EN#58070/other his surfboard] out of [/EN#58072/scene the ocean] .
+[/EN#58068/people A boy] in [/EN#58071/clothing a yellow shirt] is walking on [/EN#58069/scene a beach] holding [/EN#58070/other a surfboard] .
+[/EN#58068/people a little boy] at [/EN#58069/scene the beach] with [/EN#58070/other a surfboard]

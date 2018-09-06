@@ -1,0 +1,5 @@
+[/EN#154383/people Five people] with [/EN#154386/clothing backpacks] hiking down [/EN#154385/scene a rocky hill] .
+[/EN#154383/people Five backpackers] hiking along [/EN#154384/other a rocky slope] .
+[/EN#154383/people A group of hikers] climb [/EN#154385/scene rocky terrain] .
+[/EN#154383/people The hikers] descend on [/EN#154385/scene the mountain] .
+[/EN#154383/people five hikers] walk down [/EN#154384/other the hillside] .

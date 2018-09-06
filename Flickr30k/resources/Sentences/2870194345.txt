@@ -1,0 +1,5 @@
+[/EN#77940/people A girl] is [/EN#77941/clothing a blue and purple dress] is hanging on [/EN#77942/other a railing] near [/EN#77943/scene a street] while holding [/EN#77944/other candy] .
+[/EN#77940/people A little girl] in [/EN#77941/clothing a colorful dress] and [/EN#77945/clothing black boots] holds [/EN#77944/other a lollipop] and plays near [/EN#77942/scene a fence] .
+[/EN#77940/people A little girl] in [/EN#77941/clothing a dress] and [/EN#77945/clothing boots] is holding [/EN#77944/other a lolly pop] and posing next to [/EN#77942/scene a fence] .
+[/EN#77940/people A young girl] wearing [/EN#77945/clothing black boots] holds onto [/EN#77942/scene the fence] and has [/EN#77944/other a lollipop] .
+[/EN#77940/people little girl] wearing [/EN#77941/clothing dress] and [/EN#77945/clothing boots] holding [/EN#77944/other lollipop] and [/EN#77942/scene fence]

@@ -1,0 +1,5 @@
+[/EN#117272/people A man] holding [/EN#117274/other a tennis racket] is looking in [/EN#0/notvisual the distance] with [/EN#117275/bodyparts his hand] over [/EN#117276/bodyparts his mouth] .
+[/EN#117272/people a tennis player] in [/EN#117273/clothing a green striped shirt] is holding [/EN#117275/bodyparts his hand] up to [/EN#117276/bodyparts his mouth] .
+[/EN#117272/people A tennis player] holds [/EN#117275/bodyparts one hand] to [/EN#117276/bodyparts his mouth] and [/EN#117279/other the other] holds [/EN#117274/other a racket] .
+[/EN#117272/people A man] in [/EN#117273/clothing a sleeveless blue tennis shirt] blows [/EN#117278/other kisses] to [/EN#117277/people the fans] .
+[/EN#117272/people A male tennis player] holding [/EN#117274/other his tennis racket] .

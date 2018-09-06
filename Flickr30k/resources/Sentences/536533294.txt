@@ -1,0 +1,5 @@
+[/EN#234615/people A toddler] wearing [/EN#234617/clothing a pick shirt] and [/EN#234618/clothing jeans] is walking toward [/EN#0/notvisual the camera] on [/EN#234616/scene a prion of beach] [/EN#0/notvisual that] lies between [/EN#234620/scene the ocean] and [/EN#234619/other the sad] .
+[/EN#234615/people Little girl] in [/EN#234618/clothing jeans] and [/EN#234617/clothing a pink shirt] is wading along [/EN#234616/scene the shore] .
+[/EN#234615/people Female child] walking on [/EN#234616/scene the beach] wearing [/EN#234617/clothing an elmo shirt] .
+[/EN#234615/people A little girl] wearing [/EN#234617/clothing an Elmo t-shirt] is on [/EN#234616/scene the beach] .
+[/EN#234615/people A little girl] walking in [/EN#234621/other the sand] along [/EN#234616/scene the beach] .

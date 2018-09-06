@@ -1,0 +1,5 @@
+[/EN#229148/people A woman] with [/EN#229151/clothing glasses] sitting at [/EN#229150/other an inside table] smiling at [/EN#229156/other something] with [/EN#229149/other a glass of milk] on [/EN#229150/other the table] in front of [/EN#0/notvisual her] .
+[/EN#229148/people A woman] with [/EN#229152/bodyparts long hair] , [/EN#229151/clothing glasses] and [/EN#229153/clothing a long-sleeve shirt] is sitting at [/EN#229150/other a table] , smiling .
+[/EN#229148/people A woman] smiles and laughs as [/EN#0/notvisual she] appears interested in [/EN#229155/other her conversation] .
+[/EN#229148/people A smiley lady] wearing [/EN#229151/clothing glasses] with [/EN#229149/other a glass of milk] .
+[/EN#229148/people A woman] with [/EN#229152/bodyparts long hair] is sitting at [/EN#229150/other a table] .

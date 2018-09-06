@@ -1,0 +1,5 @@
+[/EN#235821/people A man] in [/EN#235826/clothing an orange hooded sweatshirt] climbing [/EN#235822/other a wall of ice] with [/EN#235823/scene a forest] in [/EN#0/notvisual the background] .
+[/EN#235821/people A man] with [/EN#235821/other ice-climbing gear] climbs on [/EN#235822/other a sheet of ice] .
+[/EN#235821/people Someone] is climbing vertically [/EN#235822/other a wall of ice] .
+[/EN#235821/people Man] scaling [/EN#235822/other an ice formation] on [/EN#235824/scene a sunny day] .
+[/EN#235821/people A man] climbing [/EN#235822/other a wall of ice] .

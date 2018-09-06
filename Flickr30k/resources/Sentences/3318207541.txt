@@ -1,0 +1,5 @@
+[/EN#108993/people A man] in [/EN#108997/clothing a brown jacket] turns [/EN#108994/scene a corner] in front of [/EN#108994/scene a brown store] .
+[/EN#108993/people A man] walks past [/EN#109000/other a storefront] [/EN#0/notvisual that] has [/EN#109001/other a name] in [/EN#109002/other French] .
+[/EN#108993/people A man] walking past [/EN#108994/scene a corner store] [/EN#0/notvisual that] sells [/EN#108999/clothing eyeglasses] .
+[/EN#108993/people A man] is walking along [/EN#108995/scene a sidewalk] outside [/EN#108994/scene a store] .
+[/EN#108993/people A man] walks by [/EN#108994/scene a store] on [/EN#108998/scene a city street] .

@@ -1,0 +1,5 @@
+[/EN#37451/people An older gentleman] wearing [/EN#37456/clothing an elaborate headdress] holding [/EN#37453/animals a white dog] [/EN#0/notvisual that] has had [/EN#37461/other its fur] dyed [/EN#37461/other several colors] .
+[/EN#37451/people A strange looking man] is wearing [/EN#37456/other a head ornament] and has [/EN#37453/animals a dog] with [/EN#37463/bodyparts pink and purple hair] .
+[/EN#37451/people A man] and [/EN#37453/animals his dog] are dressed up in [/EN#37454/clothing colorful costumes] in [/EN#37452/scene the street] in front of [/EN#37458/scene a bakery] .
+[/EN#37457/people People] in [/EN#37455/clothing costume] are gathered on [/EN#37452/scene a city street] .
+[/EN#37451/people colorful people] and [/EN#37453/animals a dog]

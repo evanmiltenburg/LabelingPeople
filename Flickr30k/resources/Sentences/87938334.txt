@@ -1,0 +1,5 @@
+[/EN#282787/people A little boy] in [/EN#282789/clothing a taupe sweatshirt] tries to catch [/EN#282788/other a green balloon] above [/EN#0/notvisual him] .
+[/EN#282787/people A young boy] in [/EN#282789/clothing a beige jacket] laughs as [/EN#0/notvisual he] reaches for [/EN#282788/other a teal balloon] .
+[/EN#282787/people A young boy] in [/EN#282789/clothing a tan sweatshirt] is playing with [/EN#282788/other a green balloon] .
+[/EN#282787/people Child] in [/EN#282789/clothing sweater] playing with [/EN#282788/other a turquoise balloon] .
+[/EN#282787/people A young boy] in [/EN#282789/clothing a sweatshirt] plays with [/EN#282788/other a balloon] .

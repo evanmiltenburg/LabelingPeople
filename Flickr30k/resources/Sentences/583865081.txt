@@ -1,0 +1,5 @@
+[/EN#243859/people An Asian man] walking down [/EN#243861/scene an alley] talking on [/EN#243860/other his cellphone] with [/EN#243862/other brightly colored fabric] behind [/EN#0/notvisual him] .
+[/EN#243859/people A bald man] walking down [/EN#243861/scene a city sidewalk] while talking on [/EN#243860/other his cellphone] .
+[/EN#243859/people A man] talks on [/EN#243860/other a cellphone] while walking through [/EN#243861/scene an empty alley] .
+[/EN#243859/people Chinese male] on [/EN#243860/other his cellphone] walking through [/EN#243861/scene the alley] .
+[/EN#243859/people A man] walks down [/EN#243861/scene the alley] talking on [/EN#243860/other his cellphone] .

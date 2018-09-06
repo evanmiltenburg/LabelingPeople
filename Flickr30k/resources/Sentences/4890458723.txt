@@ -1,0 +1,5 @@
+[/EN#215371/people People] walking under [/EN#215374/scene a covered arch way] , [/EN#0/notvisual that] passes [/EN#215376/scene a plaza] filled with [/EN#215376/scene vendors tents] .
+[/EN#215370/people A person] dressed in [/EN#215377/clothing black] with [/EN#215372/clothing a red backpack] walking towards [/EN#215376/scene an outdoor market] .
+[/EN#215371/people People] walk and stay out of [/EN#215378/other the sun] under [/EN#215373/other the building structure] .
+[/EN#215370/people a girl] with [/EN#215372/clothing a backpack] walks through [/EN#215373/other the marketplace] .
+[/EN#215371/people People] walk under [/EN#215375/scene the shade of a building] .

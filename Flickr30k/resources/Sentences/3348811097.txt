@@ -1,0 +1,5 @@
+[/EN#111561/people The young man] wearing [/EN#111562/clothing a blue sweatshirt] and [/EN#111566/clothing blue jeans] is hopping over [/EN#111564/other the railing] on [/EN#111565/scene the fence] .
+[/EN#111561/people Boy] wearing [/EN#111562/clothing a blue hoodie] jumps over [/EN#111564/other a stair railing] .
+[/EN#111561/people A person] jumping off of [/EN#111563/scene an outdoor staircase] .
+[/EN#111561/people A boy] jumps off of [/EN#111563/scene an open air staircase] .
+[/EN#111561/people A person] jumping [/EN#111564/other step railing] .

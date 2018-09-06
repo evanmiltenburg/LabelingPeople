@@ -1,0 +1,5 @@
+[/EN#15509/people A person] with [/EN#15513/clothing a green long-sleeved shirt] and [/EN#15514/clothing jeans] welding [/EN#15510/other a metal object] .
+[/EN#15509/people A man] wearing [/EN#15513/clothing a green jacket] welding [/EN#15510/other a large piece of metal] .
+[/EN#15509/people A man] in [/EN#15513/clothing a green shirt] and [/EN#15514/clothing blue jeans] is welding .
+[/EN#15509/people A technician] welding [/EN#15510/other metal] on [/EN#15512/other a canister] .
+[/EN#15509/people A man] working with [/EN#15515/other a welding tool] .

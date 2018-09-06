@@ -1,0 +1,5 @@
+[/EN#136749/animals A dog] jumping through [/EN#0/notvisual the air] getting hit by [/EN#136751/scene water] .
+[/EN#136749/animals Leaping dog] sprayed by [/EN#136754/people off-screen person] with [/EN#136750/other hose] .
+[/EN#136749/animals An animal] is hosed down by [/EN#136752/other a brick wall] .
+[/EN#136749/animals A dog] is being sprayed with [/EN#136751/scene water] .
+[/EN#136749/animals a dog] gets sprayed by [/EN#136750/other a hose] .

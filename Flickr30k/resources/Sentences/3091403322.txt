@@ -1,0 +1,5 @@
+[/EN#92812/people A man] in [/EN#92814/clothing a white shirt] and [/EN#92813/clothing black hat] is sitting and playing [/EN#92815/instruments the drums] .
+[/EN#92812/people A man] in [/EN#92814/clothing white T-shirt] , [/EN#92813/clothing hat] and [/EN#92816/clothing jeans] playing [/EN#92815/instruments drums] .
+[/EN#92812/people A man] wearing [/EN#92814/clothing a white shirt] is playing [/EN#92815/instruments the drums] .
+[/EN#92812/people A man] with [/EN#92813/clothing a camouflage hat] on playing [/EN#92815/instruments drums] .
+[/EN#92812/people A man] is playing [/EN#92817/other music] with [/EN#92818/other the drum set] .

@@ -1,0 +1,5 @@
+[/EN#234203/vehicles/scene A series of boats] are anchored on [/EN#234206/scene a sandy beach] with [/EN#234207/other trees] , while [/EN#234205/people some kids] play with [/EN#234208/other the sand] in front of [/EN#0/notvisual them] .
+[/EN#234205/people Two children] searching [/EN#0/notvisual the ground] near [/EN#234204/scene a body of water] where [/EN#234203/vehicles/scene boats] are docked .
+[/EN#234205/people Two children] scavenging on [/EN#234206/scene the shore] adjacent to [/EN#234203/vehicles/scene boats] .
+[/EN#234205/people Two people] are digging [/EN#0/notvisual the ground] by [/EN#234203/vehicles/scene a bunch of boats] .
+[/EN#234205/people Two people] dig on [/EN#234206/scene a shore] where [/EN#234203/vehicles/scene many boats] are moored .

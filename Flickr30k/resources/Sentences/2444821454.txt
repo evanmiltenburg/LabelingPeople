@@ -1,0 +1,5 @@
+[/EN#49987/animals A black and white dog] is in [/EN#49989/scene the grass] with [/EN#49988/other a red striped disk] .
+[/EN#49987/animals A dog] is on [/EN#49991/bodyparts his hind legs] and [/EN#49988/other a Frisbee] is near [/EN#0/notvisual the ground] .
+[/EN#49987/animals a black and white dog] jumping in [/EN#49989/scene the grass] after [/EN#49988/other a Frisbee] .
+[/EN#49987/animals A black and white dog] jumps in [/EN#0/notvisual the air] near [/EN#49988/other a red Frisbee] .
+[/EN#49987/animals A dog] jumping for [/EN#49988/other a Frisbee] in [/EN#49989/scene a field] .

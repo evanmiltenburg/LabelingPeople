@@ -1,0 +1,5 @@
+[/EN#63494/people Tourists] stroll [/EN#63501/scene the streets] between [/EN#63498/scene historic buildings] .
+[/EN#63494/people Some people] are walking through [/EN#63498/other a tourist attraction] .
+[/EN#63494/people Groups of people] are walking out [/EN#63497/scene a short dark tunnel] .
+[/EN#63493/people A man] walks [/EN#63495/bodyparts a few feet] in front of [/EN#63494/people a family] .
+[/EN#63493/people an old man] walking with [/EN#63496/other a folder] in [/EN#63499/bodyparts his hand]

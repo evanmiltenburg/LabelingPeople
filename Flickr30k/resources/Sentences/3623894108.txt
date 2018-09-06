@@ -1,0 +1,5 @@
+[/EN#132349/people A statue of an Indian] is on [/EN#132350/scene the sidewalk] in front of [/EN#132351/scene some shops] .
+[/EN#132346/people A woman] with [/EN#132352/clothing a white purse] is looking inside [/EN#132347/scene a locksmith shop] .
+[/EN#132346/people A woman] looking through [/EN#132348/people the window of locksmith] .
+[/EN#132346/people A woman] looks in [/EN#132348/scene the window of a building] .
+[/EN#132346/people A woman] looking inside [/EN#132347/scene a locksmith store] .

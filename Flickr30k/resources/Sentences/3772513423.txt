@@ -1,0 +1,5 @@
+[/EN#141939/people A man] in [/EN#141948/clothing swim trunks] is in [/EN#141945/scene a shallow portion of a lake] with [/EN#141946/bodyparts his hand] on [/EN#141940/scene a portion of a small dock] .
+[/EN#141939/people A man] with [/EN#141943/bodyparts a beard] standing in [/EN#141942/scene the water] next to [/EN#141940/other a wooden platform] .
+[/EN#141939/people A shirtless man] stands in [/EN#141942/scene water] next to [/EN#141941/other tools] on [/EN#141940/scene a raft] .
+[/EN#141939/people A shirtless man] stands [/EN#141947/bodyparts waist] deep in [/EN#141942/scene the water] .
+[/EN#141939/people A wet man] reaches for [/EN#141941/other his tools] .

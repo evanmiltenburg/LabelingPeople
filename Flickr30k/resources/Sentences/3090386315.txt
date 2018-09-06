@@ -1,0 +1,5 @@
+[/EN#92664/animals A dog] with [/EN#92670/clothing a collar] and [/EN#92668/other tag] runs with [/EN#92671/bodyparts its tongue] out on [/EN#92665/scene a path] .
+[/EN#92664/animals/scene A yellow lab] trotting through [/EN#92665/scene grass] and [/EN#92666/other fallen leaves] .
+[/EN#92664/animals a dog] runs across [/EN#0/notvisual the leaf covered ground] .
+[/EN#92664/animals The tan dog] runs through [/EN#92666/other the leaves] .
+[/EN#92664/animals A tan dog] runs in [/EN#92669/other the fall] leaves .

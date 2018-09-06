@@ -1,0 +1,5 @@
+[/EN#263058/people A person] wearing [/EN#263063/clothing jeans] , [/EN#263059/clothing a blue shirt] and [/EN#263061/clothing a helmet] is riding [/EN#263060/vehicles a four-wheeler] in [/EN#263062/scene a sandy area] .
+[/EN#263064/other Photo] is of [/EN#263058/people a man] on [/EN#263060/vehicles an ATV] , taking [/EN#263065/other a left turn] on [/EN#263067/other an open dirt course] .
+[/EN#263058/people A man] in [/EN#263063/clothing jeans] and [/EN#263059/clothing a sweatshirt] on [/EN#263060/vehicles an ATV] , with [/EN#263061/clothing a helmet] on .
+[/EN#263058/people A man] , with [/EN#263063/clothing blue jeans] and [/EN#263061/clothing a helmet] , riding [/EN#263060/vehicles a dirt bike] .
+[/EN#263058/people A man] on [/EN#263060/vehicles an atv] enjoys [/EN#263066/other an afternoon] riding in [/EN#263062/scene the desert]

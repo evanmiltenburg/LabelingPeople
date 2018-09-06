@@ -1,0 +1,5 @@
+[/EN#62561/people A young woman] in [/EN#62562/clothing a red sweater] and [/EN#62563/clothing jeans] sits on [/EN#62566/scene the ledge of a red gazebo] on [/EN#62567/scene a sunny day] .
+[/EN#62561/people somber faced woman] wearing [/EN#62563/clothing dark jeans] and [/EN#62562/clothing a red top] sitting on [/EN#62566/scene the edge of a porch] .
+[/EN#62561/people A lady] wearing [/EN#62562/clothing a redish sweater] and [/EN#62563/clothing jeans] is sitting with [/EN#62564/bodyparts hands] on [/EN#62565/bodyparts her left knee]
+[/EN#62561/people A woman] in [/EN#62562/clothing a red jacket] and [/EN#62563/clothing blue jeans] is sitting in front of [/EN#62568/scene a red arch] .
+[/EN#62561/people A girl] in [/EN#62562/clothing a red sweater] sitting in [/EN#62569/other an archway] .

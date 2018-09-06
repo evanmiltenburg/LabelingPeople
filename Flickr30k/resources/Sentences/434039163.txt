@@ -1,0 +1,5 @@
+[/EN#164012/people A woman] is standing in [/EN#164018/scene the middle of the sidewalk] at [/EN#164014/scene night] .
+[/EN#164012/people A woman] is standing on [/EN#164013/scene the sidewalk] late in [/EN#164014/scene the evening] .
+[/EN#164012/people A Girl] with [/EN#164020/bodyparts blond-hair] on [/EN#164015/other a pathway] looking at [/EN#164019/scene the sky] .
+[/EN#164012/people A girl] walking down [/EN#164013/scene the sidewalk] at [/EN#164017/scene night]
+[/EN#164012/people A woman] standing outside at [/EN#164016/other dawn] .

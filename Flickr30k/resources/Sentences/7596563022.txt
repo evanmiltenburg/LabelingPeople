@@ -1,0 +1,5 @@
+[/EN#271932/animals A brown horse] with [/EN#271940/people a red rider] leaps over [/EN#271936/other an obstacle] while [/EN#271937/animals a white horse] with [/EN#271938/people a black rider] attempts to close [/EN#0/notvisual the distance] .
+[/EN#271934/people Two people] , [/EN#271938/other one] is riding [/EN#271937/animals a white horse] and [/EN#271940/other the other] is riding [/EN#271932/animals a brown horse] .
+[/EN#271933/animals Two horses] and [/EN#271935/people riders] jump over [/EN#271936/other a large log] during [/EN#271939/other a race] .
+[/EN#271935/people Two women] in [/EN#271943/other riding gear] are racing [/EN#271933/animals horses] .
+[/EN#271934/people Two men] in [/EN#271945/clothing jockey uniforms] racing [/EN#271933/animals horses] .

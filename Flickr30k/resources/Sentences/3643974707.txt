@@ -1,0 +1,5 @@
+[/EN#133778/people A child] stands in [/EN#133781/scene silhouette] under [/EN#133780/scene an old stone arch] on [/EN#133779/scene a red tile floor] .
+[/EN#133778/people A kid] is in [/EN#133781/scene the ready position] under [/EN#133784/scene a building] and behind [/EN#133786/other an archway] .
+[/EN#133778/people A person] is in [/EN#133782/other the middle of an archway] on [/EN#133779/scene a brick floor] .
+[/EN#133778/people Someone] bent [/EN#133783/other a bit] in [/EN#133780/scene the middle of a large building] .
+[/EN#133778/people A child] is playing underneath [/EN#133784/scene a larch arch] .

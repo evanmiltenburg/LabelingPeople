@@ -1,0 +1,5 @@
+[/EN#253647/people A small Asian boy] is sitting on [/EN#253650/scene the floor of a bedroom] being entertained and smiling at [/EN#253648/other a lego toy] [/EN#0/notvisual that] looks like [/EN#253648/animals a bug] on [/EN#253652/other wheels] .
+[/EN#253647/people A young Asian boy] , wearing [/EN#253653/clothing pajamas] , is seated on [/EN#253650/scene the floor] by [/EN#253651/other the bed] watching [/EN#253648/animals an insect] made of [/EN#253648/other Legos] .
+[/EN#253647/people A young child] is watching [/EN#253648/other a toy construction brick construct] .
+[/EN#253647/people The little boy] is playing with [/EN#253648/other a toy] .
+[/EN#253647/people A child] is playing with [/EN#253648/other a Lego toy] .

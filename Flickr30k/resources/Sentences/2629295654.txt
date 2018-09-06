@@ -1,0 +1,5 @@
+[/EN#62418/animals A brown dog] running across [/EN#62419/scene the grass] .
+[/EN#62418/animals A dog] bounds across [/EN#62419/scene the green grass] .
+[/EN#62418/animals A brown dog] runs through [/EN#62419/scene a field] .
+[/EN#62418/animals A brown dog] is running on [/EN#62419/scene grass] .
+[/EN#62418/animals A brown dog] running in [/EN#62419/scene a grass] .

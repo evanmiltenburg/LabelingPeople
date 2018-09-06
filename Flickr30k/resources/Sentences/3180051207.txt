@@ -1,0 +1,5 @@
+[/EN#98887/people A man] wearing [/EN#98890/clothing blue jogging pants] with [/EN#98892/clothing 3 white stripes] and [/EN#98889/clothing a t-shirt] is running past [/EN#98888/scene a building] with [/EN#98894/other graffiti] on [/EN#0/notvisual it] .
+[/EN#98887/people The man] passing [/EN#98895/other the door] is wearing [/EN#98889/clothing a white shirt] and [/EN#98890/clothing black running pants] with [/EN#98892/clothing white stripes] down [/EN#0/notvisual the side] .
+[/EN#98887/people A man] in [/EN#98889/clothing a gray shirt] and [/EN#98890/clothing black track pants] is walking in front of [/EN#98888/scene a building] .
+[/EN#98887/people A young man] wearing [/EN#98889/clothing a white shirt] and [/EN#98890/clothing black pants] is running down [/EN#98893/scene the road] .
+[/EN#98887/people A young boy] runs past [/EN#98888/scene a dilapidated building] .

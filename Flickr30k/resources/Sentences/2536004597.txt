@@ -1,0 +1,5 @@
+[/EN#55896/people A woman] in [/EN#55900/clothing a brown coat] with [/EN#55902/clothing a pink scarf] looks pensive while talking on [/EN#55901/other the phone] in [/EN#55896/scene public] .
+[/EN#55896/people Woman] waiting for [/EN#55904/people someone] to answer [/EN#55901/other the phone] while [/EN#0/notvisual she] stands [/EN#55898/clothing outside of Pink] .
+[/EN#55896/people A woman] with [/EN#55899/clothing a pink scarf] talks on [/EN#55901/other the phone] in front of [/EN#55897/scene a Pink store] .
+[/EN#55896/people a woman] wearing [/EN#55899/clothing a pink scarf] talking on [/EN#55901/other the phone]
+[/EN#55896/people A woman] in [/EN#55899/clothing a pink scarf] is on [/EN#55901/other a cellphone] .

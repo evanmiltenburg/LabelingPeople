@@ -1,0 +1,5 @@
+[/EN#94626/people A little child] with [/EN#94628/clothing a hat] on [/EN#94634/other lays] on [/EN#94629/scene the grass] amid [/EN#94627/other a few scattered fallen leaves] .
+[/EN#94626/people A little boy] is laying on [/EN#94630/bodyparts his stomach] , with [/EN#94632/bodyparts his chin] in [/EN#94633/bodyparts his hands] , on [/EN#94629/scene the grass] .
+[/EN#94626/people Young boy] wearing [/EN#94628/clothing beanie] laying in [/EN#94629/scene green grass] with [/EN#94627/other dried leaves] on [/EN#0/notvisual the ground] .
+[/EN#94626/people A cute young boy] wearing [/EN#94628/clothing a hat] lays on [/EN#94630/bodyparts his stomach] on [/EN#94629/scene the grass] .
+[/EN#94626/people A boy] wearing [/EN#94628/clothing a knit cap] is laying [/EN#94629/scene the grass] .

@@ -1,0 +1,5 @@
+[/EN#256498/people An impoverished person] , wearing [/EN#256501/clothing a torn brown shirt] and [/EN#256506/clothing no shoes] , is kneeling down along [/EN#256502/scene the banks of a trash infested body of water] .
+[/EN#256498/people A skinny black child] wearing [/EN#256501/clothing a torn tan shirt] is squatting beside [/EN#256500/scene a tiny , muddy pond] while digging in [/EN#256502/scene the dirt] with [/EN#256499/other a small object] .
+[/EN#256498/people A man] crouches by [/EN#256504/scene the bank of a muddy stream] , sifting through [/EN#256508/other rocks] and [/EN#256507/other pebbles] on [/EN#0/notvisual the ground] .
+[/EN#256498/people A famished person] is sitting beside [/EN#256505/other a trash] filled stream .
+[/EN#256498/people A person] playing with [/EN#256499/other a rock] next to [/EN#256500/scene some dirty water] .

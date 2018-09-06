@@ -1,0 +1,5 @@
+[/EN#27194/people A woman] in [/EN#27195/clothing a pink outfit] and [/EN#27196/people a woman] in [/EN#27197/clothing an orange shirt] walk across [/EN#27205/scene a street] .
+[/EN#27198/people Two Asian women] crossing [/EN#27205/scene the street] , [/EN#27194/other one] in [/EN#27195/other salmon] and [/EN#27196/other the other] in [/EN#27197/clothing orange] .
+[/EN#27198/people Two oriental women] [/EN#0/notvisual who] are [/EN#0/notvisual both] wearing [/EN#27203/clothing skirts] and crossing [/EN#27205/scene the street] .
+[/EN#27198/people Two women] in [/EN#27204/clothing skirts] walking along [/EN#27205/scene the street] .
+[/EN#27198/people Two women] cross [/EN#27205/scene the street] together .

@@ -1,0 +1,5 @@
+[/EN#7014/people A topless person] with [/EN#7015/clothing a backpack] is shown against on [/EN#7017/other a pile of rocks] with [/EN#0/notvisual a cloudy background] .
+[/EN#7014/people A man] standing on [/EN#7017/scene a rocky mountain] with [/EN#7016/other gray clouds] in [/EN#0/notvisual the background] .
+[/EN#7014/people A man] without [/EN#7019/clothing a shirt] is walking on top of [/EN#7017/other lots of rocks] .
+[/EN#7014/people A shirtless man] is walking on [/EN#7017/scene a rocky hill]
+[/EN#7014/people A shirtless man] with [/EN#7015/clothing a backpack] .

@@ -1,0 +1,5 @@
+[/EN#172542/people A man] sits on [/EN#172543/other a bench] beside [/EN#172544/vehicles his bike] while viewing [/EN#172546/scene the scenery] around [/EN#0/notvisual him] overlooking [/EN#172545/scene a busy city] .
+[/EN#172542/people An overweight man] in [/EN#172547/clothing shorts] is sitting on [/EN#172543/other a bench] next to [/EN#172544/vehicles a bicycle] .
+[/EN#172542/people A man] is sitting on [/EN#172543/other a bench] with [/EN#172544/vehicles his bike] outside of [/EN#172545/scene the city] .
+[/EN#172542/people A man] sitting on [/EN#172543/other a bench] next to [/EN#172544/vehicles a bicycle] .
+[/EN#172542/people Man] sitting on [/EN#172543/other bench] next to [/EN#172544/vehicles bike] .

@@ -1,0 +1,5 @@
+[/EN#106298/people A man] and [/EN#106299/people a woman] are looking at [/EN#106300/scene a body of water] with [/EN#106302/other their backs] towards [/EN#0/notvisual the camera] .
+[/EN#106299/people A woman] and [/EN#106298/people man] , [/EN#0/notvisual both] dressed in [/EN#106303/clothing black] , sit by [/EN#106300/scene the water] .
+[/EN#106301/people Two people] sitting out looking at [/EN#106300/scene the water] .
+[/EN#0/notvisual It] is too hot and [/EN#0/notvisual they] sit near [/EN#106300/scene a river] .
+[/EN#106298/people A man] and [/EN#106299/people a woman] sitting by [/EN#106300/scene the water] .

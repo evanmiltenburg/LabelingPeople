@@ -1,0 +1,5 @@
+[/EN#93571/people A white-haired man] in [/EN#93572/clothing a black coat] is standing on [/EN#93573/scene a city street] .
+[/EN#93571/people A man] is waiting in [/EN#93573/scene a public area] while [/EN#93574/people people] pass behind [/EN#0/notvisual him] .
+[/EN#93571/people A woman] is waiting alone outside while [/EN#93575/animals a bird] walks behind [/EN#0/notvisual her] .
+[/EN#93571/people An old man] in [/EN#93572/clothing a black trench coat] standing in [/EN#93576/other a marketplace] .
+[/EN#93571/people An old man] in [/EN#93572/clothing a long black coat] stands on [/EN#93573/scene the street] .

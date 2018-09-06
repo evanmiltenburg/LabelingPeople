@@ -1,0 +1,5 @@
+[/EN#105765/people A black-haired woman] wearing [/EN#105766/clothing white skirt] , [/EN#105772/clothing white shirt] , [/EN#105766/clothing white apron] and [/EN#105771/clothing black shoes] is sweeping [/EN#105770/scene the floor] .
+[/EN#105765/people A housekeeper] with [/EN#105766/clothing a blue uniform] sweeps [/EN#105770/scene the floors] .
+[/EN#105765/people A maid] in [/EN#105766/clothing a white uniform] sweeps [/EN#105770/scene the floor] .
+[/EN#105765/people Maid] in [/EN#105766/clothing a white dress] cleaning [/EN#105770/scene the floor] .
+[/EN#105765/people A maid] is mopping [/EN#105770/scene the floor]

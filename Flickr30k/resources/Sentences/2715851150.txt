@@ -1,0 +1,5 @@
+[/EN#68240/people A chef] is cooking [/EN#68242/other some food] for [/EN#68244/people a man] in [/EN#68247/clothing a green shirt] .
+[/EN#68240/people A chef] cooking [/EN#68242/other some food] while [/EN#68246/people two people] watch .
+[/EN#68243/people Two chinese men] working in [/EN#68241/scene a restaurant] .
+[/EN#68240/people Stir fry cook] prepares [/EN#68242/other food] on [/EN#68245/other grill] .
+[/EN#68240/people A man] cooking in [/EN#68241/scene a restaurants] .

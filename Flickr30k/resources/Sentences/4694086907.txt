@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#191879/people a man] in [/EN#191880/clothing all black] in [/EN#191881/scene the doorway of a building] with [/EN#191882/other the number 363] on [/EN#0/notvisual it] while [/EN#191883/people a construction worker] in [/EN#191884/clothing gray] with [/EN#191885/clothing red stripes] and [/EN#191886/clothing a helmet] is [/EN#191891/scene outside] walking on [/EN#191890/scene the left] .
+[/EN#191883/people A man] is [/EN#191884/clothing a safety suit] walking outside while [/EN#191879/people another man] in [/EN#191880/clothing a dark suit] walks into [/EN#191892/scene a building] .
+[/EN#191879/people A man] is standing in [/EN#191881/scene the doorway] while [/EN#191883/people another man] walks in [/EN#191893/scene a room] [/EN#0/notvisual that] is in [/EN#191887/other poor shape] .
+[/EN#191883/people A man] working in [/EN#191884/clothing a uniform] and [/EN#191883/people another man] standing in front of [/EN#191881/scene a doorway] .
+[/EN#191883/people Guy] working in [/EN#191887/scene the alley] as [/EN#191879/people a another guy] is leaving [/EN#191889/other his apartment] .

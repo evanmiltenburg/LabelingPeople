@@ -1,0 +1,5 @@
+[/EN#280593/people The child] is in [/EN#280595/scene a hole] and is wearing [/EN#280594/clothing a black and orange hat] , [/EN#280598/clothing a jacket] , and [/EN#280597/clothing a glove] .
+[/EN#280593/people A child] in [/EN#280593/other winter gear] is hiding inside [/EN#280596/other a cave] made of [/EN#280595/scene snow] while [/EN#0/notvisual it] is snowing .
+[/EN#280593/people A child] wearing [/EN#280594/clothing a black cap] with [/EN#280599/other an orange stripe] is in [/EN#280595/scene a snow tunnel] .
+[/EN#280593/people A person] crawls through [/EN#280595/scene a snow tunnel] .
+[/EN#280593/people A person] in [/EN#280595/scene a snow tunnel] .

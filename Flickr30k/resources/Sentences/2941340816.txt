@@ -1,0 +1,5 @@
+[/EN#83023/vehicles A car] with [/EN#83024/other a heavily damaged anterior] is being pushed through [/EN#83030/scene the intersection] by [/EN#83025/people a few people] and [/EN#83026/people a police officer] .
+[/EN#83023/vehicles A car] [/EN#0/notvisual that] has been in [/EN#83032/other an accident] on [/EN#83030/scene a city street] with [/EN#83023/vehicles the front of the vehicle] all crumpled up .
+[/EN#83027/people Someone] gets inside [/EN#83023/vehicles a car] in [/EN#83030/scene the middle of the road] , while [/EN#83028/vehicles/scene a white bus] passes by .
+[/EN#83026/people Police officers] and [/EN#83029/other others] push [/EN#83023/vehicles a damaged car] out of the way after [/EN#83032/other an accident] .
+[/EN#83028/vehicles/scene A bus] in [/EN#83030/scene the intersection] .

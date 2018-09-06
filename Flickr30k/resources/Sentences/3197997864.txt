@@ -1,0 +1,5 @@
+[/EN#100296/people A small child] in [/EN#100297/clothing blue shirt] and [/EN#100297/clothing blue jeans] is running through [/EN#100300/scene a wooded path] over [/EN#100298/other dry leaves] .
+[/EN#100296/people A young child] with [/EN#100299/bodyparts blond-hair] , wearing [/EN#100297/clothing a blue shirt] and [/EN#100297/clothing jeans] is walking in [/EN#100301/other the woods] .
+[/EN#100296/people A young boy] in [/EN#100297/clothing a blue shirt] is walking on [/EN#100300/scene a trail] through [/EN#100301/other the woods] .
+[/EN#100296/people A little boy] with [/EN#100297/clothing blue jeans] runs on [/EN#100298/other the leaves] in [/EN#100301/other the woods] .
+[/EN#100296/people Young boy] jogging through [/EN#100302/scene the forest] .

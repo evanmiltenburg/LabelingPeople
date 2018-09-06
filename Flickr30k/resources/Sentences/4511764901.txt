@@ -1,0 +1,5 @@
+[/EN#174401/people A woman] walks toward [/EN#174403/scene the top of an escalator] , with [/EN#174402/scene a castle] in [/EN#0/notvisual the background] outside [/EN#174407/other the windows] .
+[/EN#174401/people A woman] in [/EN#174405/clothing a yellow pantsuit] heads to [/EN#174403/scene the down escalator] in [/EN#174402/scene a building] with [/EN#174407/other large windows] .
+[/EN#174401/people A woman] in [/EN#174404/clothing a green suit] walking towards [/EN#174403/scene an escalator] .
+[/EN#174401/people Woman] in [/EN#174404/clothing green outfit] approaches [/EN#174403/scene an escalator] .
+[/EN#174401/people A woman] is about to descend on [/EN#174403/scene the escalator] .

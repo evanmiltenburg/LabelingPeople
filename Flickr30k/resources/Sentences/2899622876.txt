@@ -1,0 +1,5 @@
+[/EN#80140/people The man] is being pulled behind [/EN#80142/vehicles/scene a boat] and doing [/EN#0/notvisual tricks] .
+[/EN#80140/people A water boarder] being towed down [/EN#80143/other a water rail] .
+[/EN#80142/vehicles/scene A speed boat] pulling [/EN#80140/people a waterskier] along [/EN#0/notvisual a jump]
+[/EN#80140/people A man] on [/EN#80143/scene a white waterskiing ramp] on [/EN#80141/scene a lake]
+[/EN#80140/people A man] is wakeboarding behind [/EN#80142/vehicles/scene a boat] .

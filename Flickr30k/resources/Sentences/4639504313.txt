@@ -1,0 +1,5 @@
+[/EN#185562/people A man] is riding [/EN#185563/vehicles a bike] on [/EN#185567/scene a street] in front of [/EN#185565/scene a building] with [/EN#185566/other a lot of artistic details] on [/EN#0/notvisual it] .
+[/EN#185562/people A solitary bicyclist] rides past [/EN#185565/scene an ornately decorated two-story building] with [/EN#185568/other many windows] .
+[/EN#185562/people A person] rides [/EN#185563/vehicles a bike] in front of [/EN#185565/scene an elaborately painted building] .
+[/EN#185562/people A person] riding [/EN#185563/vehicles a bicycle] passing by [/EN#185565/scene colorful buildings] .
+[/EN#185562/people A cyclist] is riding past [/EN#185565/scene a decorated building] .

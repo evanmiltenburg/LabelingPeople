@@ -1,0 +1,5 @@
+[/EN#144373/scene A small building] sits on [/EN#144378/other a hillside] next to [/EN#144375/scene a dirt trail] .
+[/EN#144374/other Group of hiker start] walking on [/EN#144375/scene a rocky trail] .
+[/EN#144374/people Person] walking by [/EN#144373/scene a building] on [/EN#144375/scene a dirt road] .
+[/EN#144375/scene Rural road] in [/EN#144379/scene a mountainous area] .
+[/EN#144374/people People] walking down [/EN#144375/scene a dirt path] .

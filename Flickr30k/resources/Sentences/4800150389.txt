@@ -1,0 +1,5 @@
+[/EN#204052/people An African-American woman] sits at [/EN#204054/other a brown table] , wearing [/EN#204053/clothing a purple dress] , [/EN#204055/clothing pink shoes] , and [/EN#204058/clothing black sunglasses] .
+[/EN#204052/people A woman] with [/EN#204053/clothing a light purple dress] and [/EN#204055/clothing bright hot pink shoes] is sitting at [/EN#204059/scene a table drinking water] and [/EN#204056/other coffee] .
+[/EN#204052/people Women] wearing [/EN#204053/clothing a blue dress] with [/EN#204055/clothing pink shoes] sitting at [/EN#204054/other a table] .
+[/EN#204052/people A woman] wearing [/EN#204053/clothing a purple dress] sitting at [/EN#204054/other a table] by [/EN#0/notvisual herself] .
+[/EN#204052/people Older woman] dressed in [/EN#204053/clothing purple] for [/EN#204056/other coffee] .

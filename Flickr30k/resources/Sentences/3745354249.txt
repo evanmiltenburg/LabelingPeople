@@ -1,0 +1,5 @@
+[/EN#140903/people A young man] in [/EN#140911/clothing a turquoise] and [/EN#140906/clothing gray striped shirt] is fishing , with [/EN#140909/people a person] in [/EN#140910/clothing a red and white checkered shirt] in [/EN#0/notvisual the background] .
+[/EN#140904/people Two men] are out on [/EN#140907/scene a bright , sunny day] attempting to catch [/EN#140912/animals some fish] on [/EN#140908/scene the lake] .
+[/EN#140903/people A man] wearing [/EN#140906/clothing a brown and green striped shirt] is fishing on [/EN#140905/vehicles/scene a boat] .
+[/EN#140903/people A man] in [/EN#140906/clothing a striped shirt] is fishing off [/EN#140905/vehicles/scene a boat] .
+[/EN#140904/people Two men] on [/EN#140905/vehicles/scene a boat] fishing

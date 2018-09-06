@@ -1,0 +1,5 @@
+[/EN#112608/people A snowboarder] in [/EN#112612/clothing black and yellow] is jumping on [/EN#112609/other a purple snowboard] .
+[/EN#112608/people Snowboarder] in [/EN#112613/clothing yellow pants] and [/EN#112614/clothing white helmet] in [/EN#112610/scene midair] .
+[/EN#112608/people A young man] is doing [/EN#0/notvisual a ski jump] with [/EN#112609/other a purple board] .
+[/EN#112608/people Snowboarder] holding onto [/EN#112609/other board] while in [/EN#112610/scene midair] .
+[/EN#112608/people A person] jumping on [/EN#112609/other their snowboard] .

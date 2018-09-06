@@ -1,0 +1,5 @@
+[/EN#116409/animals A brown and white dog] is jumping in [/EN#0/notvisual the air] with [/EN#116410/other a tennis ball] in [/EN#116411/bodyparts its mouth] .
+[/EN#116409/animals A brown and white dog] jumping in [/EN#0/notvisual the air] near [/EN#116414/scene a wooden fence] .
+[/EN#116409/animals A tan and white dog] jumps up with [/EN#116410/other a yellow ball] in [/EN#116411/bodyparts its mouth] .
+[/EN#116409/animals A dog] barks at [/EN#116415/other plants] in [/EN#116413/scene a walled concrete courtyard] .
+[/EN#116409/animals A dog] catches [/EN#116410/other a ball] in [/EN#116412/scene midair] .

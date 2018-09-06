@@ -1,0 +1,5 @@
+[/EN#166062/people A dark-haired man] in [/EN#166067/clothing a hospital gown] lays with [/EN#166069/bodyparts his head] against [/EN#166065/other a pillow] and [/EN#166063/other a breathing tube] in [/EN#166068/bodyparts his nose] .
+[/EN#166062/people A man] is in [/EN#166062/other a hospital bed] with [/EN#166070/other oxygen] hooked up to help [/EN#0/notvisual him] breathe better .
+[/EN#166062/people A young man] in [/EN#166067/clothing a hospital gown] lays in [/EN#166064/other a hospital bed] , on [/EN#166063/other oxygen] .
+[/EN#166062/people Man] in [/EN#166062/other hospital bed] with [/EN#166063/other oxygen tubes] in [/EN#166068/bodyparts his nose] .
+[/EN#166062/people A man] lying in [/EN#166064/other a hospital bed] .

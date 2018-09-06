@@ -1,0 +1,5 @@
+[/EN#76245/people A surfer] in [/EN#76251/clothing a black wetsuit] catching [/EN#76248/scene a wave] while [/EN#76249/other another one] tries to catch up with [/EN#0/notvisual him] .
+[/EN#76245/people One surfer] rides [/EN#76246/scene a wave] while [/EN#76247/people another surfer] paddles at [/EN#76248/scene the base of the wave] .
+[/EN#76245/people A person] is surfing on [/EN#76246/scene a wave] while [/EN#76247/people another person] heads towards [/EN#0/notvisual it] .
+[/EN#76245/people Someone] is surfing along [/EN#76246/scene a wave] with [/EN#76247/people someone] else swimming nearby .
+[/EN#76245/people A person] is standing on [/EN#76250/other a surfboard] and riding down [/EN#76246/scene a large wave] .

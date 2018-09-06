@@ -1,0 +1,5 @@
+[/EN#279100/people A pilot] wearing [/EN#279107/clothing a light blue shirt] , [/EN#279108/clothing dark pants] and [/EN#279109/clothing tie] is standing in front of [/EN#279101/other a plane] , smiling .
+[/EN#279100/people An airline employee] stands in front of [/EN#279101/scene a British Airways jet] .
+[/EN#279100/people Pilot] stands next to [/EN#279104/vehicles cockpit of airplane] with [/EN#279105/other open door] .
+[/EN#279100/people Pilot] standing on landing [/EN#279106/other strip] in front of [/EN#279101/other a plane] .
+[/EN#279100/people A pilot] standing outside of [/EN#279101/vehicles an airplane] .

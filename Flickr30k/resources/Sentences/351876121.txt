@@ -1,0 +1,5 @@
+[/EN#124349/animals A big , brown dog] is sleeping next to [/EN#124350/animals a small black and white cat] .
+[/EN#124349/animals A dog] and [/EN#124350/animals cat] are snuggling up during [/EN#124351/other a nap] .
+[/EN#124349/animals A dog] and [/EN#124350/animals cat] laying down together .
+[/EN#124350/animals A small cat] laying with [/EN#124349/animals a large dog]
+[/EN#124350/animals A cat] sleeps nestled up to [/EN#124349/animals a dog] .

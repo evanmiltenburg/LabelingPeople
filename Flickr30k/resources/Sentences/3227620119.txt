@@ -1,0 +1,5 @@
+[/EN#102703/people A young woman] in [/EN#102706/clothing a yellow shirt] runs across [/EN#102704/scene a grassy field] in [/EN#102705/other competition] .
+[/EN#102703/people Girl] in [/EN#102706/clothing yellow shirt] with [/EN#102707/other the number 1299] on [/EN#0/notvisual it] running in [/EN#102704/scene the grass] .
+[/EN#102703/people The girl] wearing [/EN#102707/other number] 1299 has [/EN#102706/clothing a yellow shirt] .
+[/EN#102703/people A runner] in [/EN#102706/clothing a yellow shirt] is running [/EN#102705/other a race] .
+[/EN#102703/people A female athlete] runs with [/EN#102708/bodyparts a scraped knee] .

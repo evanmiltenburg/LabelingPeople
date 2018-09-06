@@ -1,0 +1,5 @@
+[/EN#274924/people A tennis player] wearing [/EN#274927/clothing white] is jumping up to hit [/EN#274925/other a ball] .
+[/EN#274924/people Woman] at [/EN#274926/other tennis match] jumping in [/EN#0/notvisual air] to hit [/EN#274925/other ball] .
+[/EN#274924/people A blond woman] serves [/EN#274925/other the ball] in [/EN#274926/other a tennis match] .
+[/EN#274924/people Female tennis player] serving [/EN#274925/other the ball] .
+[/EN#274924/people A woman] serving [/EN#274925/other a tennis ball] .

@@ -1,0 +1,5 @@
+[/EN#119303/people A man] wearing [/EN#119307/clothing black shorts] in skateboarding in [/EN#119304/scene the street] .
+[/EN#119303/people A man] wearing [/EN#119308/clothing no shirt] skateboarding on [/EN#119304/scene the street]
+[/EN#119303/people A man] with [/EN#119309/other no shirt speed skateboards downhill] .
+[/EN#119303/people Shirtless man] skateboards down [/EN#119304/scene a sunny roadside]
+[/EN#119303/people A male] rides [/EN#119305/other a skateboard] in [/EN#119304/scene the road] .

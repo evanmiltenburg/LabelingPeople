@@ -1,0 +1,5 @@
+[/EN#0/notvisual There] is [/EN#98344/bodyparts a hand] in front of [/EN#98343/other a red , green , white , and black flag] .
+[/EN#0/notvisual There] is [/EN#98343/other a picture of a green , white , black , and red flag] .
+[/EN#98343/scene The flag of a country] is being held in [/EN#98345/people a crowd]
+[/EN#98343/other A red , white , black and green flag] .
+[/EN#98343/other A flag] is carried .

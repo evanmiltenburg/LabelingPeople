@@ -1,0 +1,5 @@
+[/EN#214652/people A woman] with [/EN#214654/clothing sunglasses] is working [/EN#214657/other a control board] .
+[/EN#214652/people A woman] in [/EN#214655/clothing a blue shirt] is also wearing [/EN#214654/clothing sunglasses] .
+[/EN#214653/people The tech people] are dressed up in [/EN#214659/clothing costumes] .
+[/EN#214653/people Two people] are DJing at [/EN#214656/other a concert] .
+[/EN#214653/people Two people] stand under [/EN#214658/other a tarp] .

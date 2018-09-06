@@ -1,0 +1,5 @@
+[/EN#128950/animals Gray-blue bird] with [/EN#128955/other white markings] on [/EN#128956/bodyparts neck] and [/EN#128957/clothing wings] in [/EN#128953/other flight] .
+[/EN#128950/animals A blue bird] flies toward [/EN#0/notvisual the ground] , surrounded by [/EN#128952/other trees] .
+[/EN#128950/animals A black bird] is in [/EN#128954/other mid-flight] swooping downwards .
+[/EN#128950/animals A blue bird] is flying through [/EN#128952/other the trees] .
+[/EN#128950/animals A gray bird] is flying through [/EN#128952/other the trees] .

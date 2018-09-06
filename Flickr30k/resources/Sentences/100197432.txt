@@ -1,0 +1,5 @@
+[/EN#114/people Some women] are standing in front of [/EN#115/vehicles/scene a bus] with [/EN#116/scene buildings] behind [/EN#0/notvisual it] .
+[/EN#114/people Several women] stand on [/EN#118/scene a city street] with [/EN#116/scene tall buildings] .
+[/EN#114/people A group of women] are standing in front of [/EN#115/vehicles/scene a bus] .
+[/EN#114/people Several women] wait outside in [/EN#117/scene a city] .
+[/EN#114/people Women] are standing outside

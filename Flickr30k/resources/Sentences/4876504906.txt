@@ -1,0 +1,5 @@
+[/EN#213979/people A man] in [/EN#213982/clothing a nun costume] has [/EN#213981/other a cigarette] in [/EN#213983/bodyparts his mouth] .
+[/EN#213979/people A man] dressed as [/EN#213979/people a nun] has [/EN#213981/other a cigarette] in [/EN#213983/bodyparts his mouth] .
+[/EN#213979/people A man] dressed as [/EN#213979/people a nun] smoking [/EN#213981/other a cigarette] .
+[/EN#213979/people Man] with [/EN#213981/other cigarette] in [/EN#213982/clothing nun outfit] .
+[/EN#213979/people Male nun] smoking [/EN#213981/other a cigarette] .

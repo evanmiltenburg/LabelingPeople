@@ -1,0 +1,5 @@
+[/EN#64366/people The man] in [/EN#64368/clothing the gray shirt] is filling in [/EN#64369/scene post holes] [/EN#0/notvisual that] were dug to install [/EN#64367/scene his new fence] .
+[/EN#64366/people A man] using [/EN#64370/other a shovel] is digging in [/EN#64373/scene the lawn] next to [/EN#64375/vehicles his red wheelbarrow] .
+[/EN#64366/people A man] uses [/EN#64370/other a shovel] to fill in [/EN#64374/scene the dirt] around [/EN#64369/scene a new fence post] .
+[/EN#64366/people A man] in [/EN#64371/clothing a hat] is digging near [/EN#64367/scene a fence] .
+[/EN#64366/people A man] in [/EN#64368/clothing a gear shirt] digging [/EN#64372/scene a hole] .

@@ -1,0 +1,5 @@
+[/EN#148120/people A man] with [/EN#148125/other cloth] wrapped around [/EN#148128/bodyparts his head] is sitting on [/EN#148121/vehicles a miniature wooden wagon] .
+[/EN#148122/other Goofy] looking [/EN#148120/people man] with [/EN#148124/clothing a hat] on is sitting on [/EN#148121/vehicles a small wooden cart] .
+[/EN#148120/people Odd looking man] sitting on [/EN#148121/vehicles a small wagon] on [/EN#148123/scene a cobblestone street] .
+[/EN#148120/people A man] dressed in [/EN#148126/clothing medieval clothing] sits on [/EN#148121/vehicles a medieval type cart] .
+[/EN#148120/people A dressed up man] is sitting on [/EN#148121/vehicles a wagon] in [/EN#148127/scene the middle of a road] .

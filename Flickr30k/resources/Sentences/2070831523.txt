@@ -1,0 +1,5 @@
+[/EN#26874/people The girl] is wearing [/EN#26876/clothing a brown coat] and [/EN#26877/clothing helmet] as [/EN#0/notvisual she] rides [/EN#26875/vehicles her bike] .
+[/EN#26874/people A female] with [/EN#26880/clothing a black scarf] and [/EN#26877/clothing a helmet] riding [/EN#26875/vehicles her bike] .
+[/EN#26874/people A woman] rides [/EN#26875/vehicles her bike] down [/EN#26882/scene the street] in [/EN#26878/other the fall] .
+[/EN#26874/people Woman] rides [/EN#26875/vehicles bicycle] in [/EN#26878/other autumn] wearing [/EN#26876/clothing brown jacket]
+[/EN#26879/other A] blurry [/EN#26874/people picture of a woman] riding [/EN#26875/vehicles a bike] .

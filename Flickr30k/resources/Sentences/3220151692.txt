@@ -1,0 +1,5 @@
+[/EN#102135/people A sumo wrestler] in [/EN#102138/clothing black] begins to push [/EN#0/notvisual another] in [/EN#102139/clothing blue] out of [/EN#102137/clothing the ring] .
+[/EN#102136/people Two sumo wrestlers] wrestling in [/EN#102140/other a sand] ring .
+[/EN#102136/people Two sumo wrestlers] are fighting in [/EN#102137/clothing a ring] .
+[/EN#102135/people Two sumo wrestlers] in [/EN#102137/clothing the ring] .
+[/EN#102136/people two sumo wrestlers] fight .

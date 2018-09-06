@@ -1,0 +1,5 @@
+[/EN#159630/animals a small dog] with [/EN#159632/other a blue color] fetching [/EN#159631/other a yellow ball]
+[/EN#159630/animals A brown dog] is chasing after [/EN#159631/other a yellow ball] .
+[/EN#159630/animals A brown dog] is playing [/EN#159631/other ball] in [/EN#159633/scene a yard] .
+[/EN#159630/animals A dog] chases after [/EN#159631/other a yellow ball] .
+[/EN#159630/animals A puppy] playing with [/EN#159631/other a ball] .

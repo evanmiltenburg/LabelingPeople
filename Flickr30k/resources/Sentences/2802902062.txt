@@ -1,0 +1,5 @@
+[/EN#73816/people Young lady] in [/EN#73818/clothing black swimsuit] sits on [/EN#73817/scene a beach] next to [/EN#73820/clothing a backpack] while brushing [/EN#73819/bodyparts her hair] .
+[/EN#73816/people A young woman] in [/EN#73818/clothing a black bikini] brushes [/EN#0/notvisual her] [/EN#73819/bodyparts long brown hair] at [/EN#73817/scene the beach] .
+[/EN#73816/people A woman] in [/EN#73818/clothing a black swimsuit] is brushing [/EN#73819/bodyparts her hair] on [/EN#73817/scene the beach] .
+[/EN#73816/people A woman] in [/EN#73818/clothing black swim-wear] is combing [/EN#73819/bodyparts her hair] on [/EN#73817/scene a beach]
+[/EN#73816/people A woman] on [/EN#73817/scene the beach] is combing [/EN#73819/bodyparts her long hair] .

@@ -1,0 +1,5 @@
+[/EN#136270/people A woman] with [/EN#136276/clothing glasses] and [/EN#136277/clothing a white lab coat] is looking at [/EN#136274/other something] that [/EN#0/notvisual she] is manipulating under [/EN#136272/other a microscope] .
+[/EN#136270/people A woman] is working [/EN#136271/scene a laboratory] , examining [/EN#136274/other something] in [/EN#136275/other a petri dish] under [/EN#136272/other a microscope] .
+[/EN#136270/people A woman] is observing [/EN#136273/other a sample] through [/EN#136272/other a microscope] .
+[/EN#136270/people A lady] is looking at [/EN#136273/other a specimen] with [/EN#136272/other a microscope] .
+[/EN#136270/people Woman] looking through [/EN#136272/other a microscope] in [/EN#136271/animals/scene a lab] .

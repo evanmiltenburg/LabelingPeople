@@ -1,0 +1,5 @@
+[/EN#50794/people A woman] in [/EN#50795/clothing a pink scarf] , [/EN#50796/clothing purple sweater] , [/EN#50797/clothing green shirt] , holding [/EN#50798/people two boys] , [/EN#0/notvisual both] in [/EN#50799/clothing striped shirts] , walking in [/EN#50806/scene a city park] .
+[/EN#50794/people A woman] wearing [/EN#50795/clothing a scarf] and [/EN#50800/people her two sons] walk away from [/EN#50807/other an outdoor festival] , comprised of [/EN#50801/scene white tents] and [/EN#50802/people a large crowd] .
+[/EN#50794/people A woman] in [/EN#50795/clothing a headscarf] walks away from [/EN#50803/scene a booth] while holding [/EN#50798/people the hands of two young boys] in [/EN#50799/clothing striped shirts] .
+[/EN#50794/people A lady] is holding [/EN#50800/people two boys] [/EN#50804/bodyparts ' hands] with walking by [/EN#50805/scene some booths] .
+[/EN#50794/people Mother] with [/EN#50798/people her twin boys] walking through [/EN#50807/other a festival] .

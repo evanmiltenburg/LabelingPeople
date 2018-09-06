@@ -1,0 +1,5 @@
+[/EN#268425/people A hockey player] wearing [/EN#268431/clothing a yellow and black jersey] with [/EN#268424/other the number 44] .
+[/EN#268425/people Hockey player] # [/EN#268424/other 44] is skating while holding down [/EN#268430/other his hockey stick] .
+[/EN#268426/people Two hockey players] are skating on [/EN#268427/other the ice] .
+[/EN#268426/people Two hockey players] are playing in [/EN#268427/other a rink]
+[/EN#268428/other Boston Bruins hockey game] in [/EN#268429/other action] .

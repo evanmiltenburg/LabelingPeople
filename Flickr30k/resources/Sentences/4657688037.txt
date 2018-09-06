@@ -1,0 +1,5 @@
+[/EN#187678/people A man] and [/EN#187682/people an elderly lady] walking with [/EN#187684/vehicles two cars] to [/EN#0/notvisual one side of them] and [/EN#187683/other a wall] with [/EN#187681/other graffiti] on [/EN#187687/other the other] .
+[/EN#187678/people A man] and [/EN#187682/people a woman] are walking past [/EN#187681/other a graffiti] filled [/EN#187683/other wall] with [/EN#187684/vehicles two silver cars] parked on [/EN#187679/scene the street] .
+[/EN#187678/people A young man] and [/EN#187682/people an old woman] are walking along [/EN#187680/scene a sidewalk] next to [/EN#187683/other a wall] with [/EN#187681/other graffiti] on [/EN#0/notvisual it] .
+[/EN#187685/people Two people] are walking next to [/EN#187683/other a wall] with [/EN#187681/other graffiti] .
+[/EN#187678/people A man] and [/EN#187682/people woman] walking down [/EN#187679/scene a city street] .

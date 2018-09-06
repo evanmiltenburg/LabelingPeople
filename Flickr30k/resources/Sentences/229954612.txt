@@ -1,0 +1,5 @@
+[/EN#39854/people Some people] are crossing [/EN#39852/scene a green bridge] over [/EN#39853/scene a river] .
+[/EN#39851/people People] gather on [/EN#39852/scene a bridge] near [/EN#39856/other a weeping] willow [/EN#39856/other tree] .
+[/EN#39851/people People] walk on [/EN#39852/scene a small bridge] over [/EN#39853/scene a lake] .
+[/EN#39851/people People] on [/EN#39855/other a bridge look] at [/EN#39853/scene the water] .
+[/EN#39851/people People] stand on [/EN#39852/scene a bridge] over [/EN#39853/scene water] .

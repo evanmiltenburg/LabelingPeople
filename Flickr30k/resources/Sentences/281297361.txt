@@ -1,0 +1,5 @@
+[/EN#74389/people An elderly woman] in [/EN#74393/clothing a tan coat] and [/EN#74391/clothing scarf] tied around [/EN#74394/bodyparts her head] is standing outside .
+[/EN#74389/people An elderly woman] with [/EN#74391/clothing a headscarf] and [/EN#74392/clothing glasses] is standing in [/EN#74390/scene a city] .
+[/EN#74389/people Old woman] in [/EN#74391/clothing headscarf] and [/EN#74392/clothing glasses] stands outside in [/EN#74390/scene a big city] .
+[/EN#74389/people An elderly woman] wearing [/EN#74392/clothing glasses] and [/EN#74391/clothing a scarf] .
+[/EN#74389/people An old woman] in [/EN#74391/clothing a scarf] is in [/EN#74390/scene the city] .

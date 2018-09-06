@@ -1,0 +1,5 @@
+[/EN#200849/people A man] on [/EN#200852/vehicles a bike] wearing [/EN#200858/clothing a helmet] talking to [/EN#200857/people a man] walking along side of [/EN#0/notvisual him] in front of [/EN#200850/vehicles a red smart car] .
+[/EN#200849/people A man] in [/EN#200852/vehicles a bike] and [/EN#200849/people a man] approaching [/EN#0/notvisual him] talking to [/EN#0/notvisual him] and in [/EN#200859/scene the surroundings] [/EN#0/notvisual there] are [/EN#200856/vehicles lots of bikes]
+[/EN#200851/people Two people] talking as [/EN#0/notvisual they] travel past [/EN#200854/vehicles a large group of bicycles] and [/EN#200850/vehicles a small red car] .
+[/EN#200851/people Two men] and [/EN#200850/vehicles a small red vehicle] outside [/EN#200854/vehicles a large group of parked bicycles] .
+[/EN#200850/vehicles A tiny red car] is parked in front of [/EN#200856/vehicles hundreds of bicycles] .

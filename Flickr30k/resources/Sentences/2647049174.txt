@@ -1,0 +1,5 @@
+[/EN#63740/people The little boy] wearing [/EN#63744/clothing the blue shirt] is putting [/EN#63741/scene dirt] in [/EN#63742/bodyparts his mouth] .
+[/EN#63740/people A little boy] [/EN#0/notvisual who] is playing [/EN#63743/scene outdoors] is tasting [/EN#63741/scene dirt] .
+[/EN#63740/people A small child] squats and puts [/EN#63741/scene dirt] into [/EN#63742/bodyparts his mouth] .
+[/EN#63740/people A child] puts [/EN#63741/scene dirt] into [/EN#63742/bodyparts his mouth] .
+[/EN#63740/people A toddler] eats [/EN#63741/scene dirt] .

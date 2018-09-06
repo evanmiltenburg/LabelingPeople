@@ -1,0 +1,5 @@
+[/EN#203752/people A man] wearing [/EN#203759/clothing a helmet] and [/EN#203760/clothing safety suit] goes uphill over [/EN#203758/other rocks] on [/EN#203753/vehicles a dirt bike] .
+[/EN#203752/people A man] wearing [/EN#203757/other protective gear] riding [/EN#203753/vehicles a dirt bike] up [/EN#203754/scene a rocky hill] .
+[/EN#203752/people A dirt biker] rides up [/EN#203754/scene a rocky hill] on [/EN#203753/vehicles a motorized dirt bike] .
+[/EN#203752/people A person] on [/EN#203753/other a motorcycle] going uphill on [/EN#203755/scene rocky terrain]
+[/EN#203753/vehicles An off road motorbike] climbs [/EN#203754/scene a rocky hill] .

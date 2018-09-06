@@ -1,0 +1,5 @@
+[/EN#108982/scene An open market] where [/EN#108983/people people] are doing [/EN#108990/other their shopping] in [/EN#108988/other cool weather] .
+[/EN#108983/people People] in [/EN#108991/clothing warm coats] peruse [/EN#108986/other produce] at [/EN#108982/scene a tented outdoor market] .
+[/EN#108987/people Vendors] sell [/EN#108989/other fruits] and [/EN#108986/other vegetables] in [/EN#108985/scene an open-air market] .
+[/EN#0/notvisual This] is [/EN#108982/scene a very large vegetable stand] under [/EN#108984/scene a white tent] .
+[/EN#0/notvisual There] are [/EN#108986/other vegetables] displayed at [/EN#108982/scene an outdoor market] .

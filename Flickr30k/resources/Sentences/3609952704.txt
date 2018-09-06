@@ -1,0 +1,5 @@
+[/EN#131387/people a young boy] carrying [/EN#131388/other a large soccer ball] with [/EN#131391/other a soccer feild] in [/EN#0/notvisual the background]
+[/EN#0/notvisual There] is [/EN#131387/people a young kid] , dressed up in [/EN#131389/clothing a soccer uniform] , holding [/EN#131388/other his ball] .
+[/EN#131387/people A young boy] in [/EN#131389/clothing a green shirt] is holding [/EN#131388/other a red and blue soccer ball] .
+[/EN#131387/people A boy] holds [/EN#131388/other a soccer ball] while [/EN#0/notvisual he] stands next to [/EN#131390/scene a running track] .
+[/EN#131387/people A boy] is [/EN#131393/scene outside] holding [/EN#131388/other a red and blue soccer ball] .

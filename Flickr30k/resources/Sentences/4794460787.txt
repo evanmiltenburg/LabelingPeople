@@ -1,0 +1,5 @@
+[/EN#203357/people A girl] in [/EN#203358/clothing a bright blue dress] stands in [/EN#203360/scene the street] in front of [/EN#203362/scene a red building] .
+[/EN#203357/people A girl] in [/EN#203358/clothing a blue dress] standing next to [/EN#203364/scene a wooden post] on [/EN#203360/scene sidewalk] .
+[/EN#203357/people A little girl] in [/EN#203358/clothing a blue dress] hides behind [/EN#203359/other an electric pole] .
+[/EN#203357/people A little girl] is hiding behind [/EN#203359/other a pole] on [/EN#203360/scene the sidewalk] .
+[/EN#203357/people The little girl] is watching [/EN#203361/people the lady] on [/EN#0/notvisual the ground] .

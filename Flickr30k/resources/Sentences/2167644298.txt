@@ -1,0 +1,5 @@
+[/EN#31983/people A man] with [/EN#31984/clothing a hat] , [/EN#31987/clothing glasses] , [/EN#31990/clothing jewelry] and [/EN#31985/clothing a jacket] stands against [/EN#31986/other an orange wall] .
+[/EN#0/notvisual There] is [/EN#31983/people a man] with [/EN#31987/clothing glasses] and [/EN#31984/clothing a hat] wearing [/EN#31985/clothing a black suit jacket] [/EN#31989/other indoors] .
+[/EN#31983/people A man] dressed in [/EN#31985/clothing black] wearing [/EN#31984/clothing a hat] and [/EN#31987/clothing glasses] in front of [/EN#31986/other a red wall] .
+[/EN#31983/people A man] wearing [/EN#31988/clothing all black] and [/EN#31984/clothing a black hat] is smiling .
+[/EN#31983/people A man] in [/EN#31984/clothing a black hat] stands in front of [/EN#31986/other a red wall] .

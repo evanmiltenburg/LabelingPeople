@@ -1,0 +1,5 @@
+[/EN#61763/clothing A white] and [/EN#61762/animals a brown dog] running through [/EN#61761/scene a grassy area] .
+[/EN#61760/animals Two dogs] romp through [/EN#61761/scene a meadow of high grasses]
+[/EN#61760/animals Two dogs] run in [/EN#61761/scene a field of tall grass] .
+[/EN#61760/animals Two dogs] running through [/EN#61761/scene the grass] .
+[/EN#61760/animals Two dogs] run through [/EN#61761/scene a field] .

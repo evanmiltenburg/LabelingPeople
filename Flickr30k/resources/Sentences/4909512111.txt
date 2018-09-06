@@ -1,0 +1,5 @@
+[/EN#217205/people Two people] ride [/EN#217207/other a motorcycle] on [/EN#217206/scene a city street] in front of [/EN#217210/other a cafe] with [/EN#217211/scene outdoor seats] .
+[/EN#217205/people two people] riding [/EN#217207/other a motorcycle] together on [/EN#217208/scene a sunny day] .
+[/EN#217205/people Two men] are riding on [/EN#217207/other a motorcycle] down [/EN#217206/scene a road] .
+[/EN#217205/people Two men] ride [/EN#217207/other a motorcycle] past [/EN#217209/scene an restaurant] .
+[/EN#217205/people Two people] riding [/EN#217207/other a motorcycle] .

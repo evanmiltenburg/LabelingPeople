@@ -1,0 +1,5 @@
+[/EN#171038/people A man] standing in [/EN#171041/scene the road] wearing [/EN#171039/clothing a black jacket] , [/EN#171045/clothing red shirt] and [/EN#171044/clothing jeans] on [/EN#171043/scene a cold , snowy day] .
+[/EN#171038/people A man] is standing in [/EN#171041/scene a road] with [/EN#171046/scene some kind of tower] behind [/EN#0/notvisual him] enveloped in [/EN#171040/other fog] .
+[/EN#171038/people Middle-aged man] , with [/EN#171039/clothing a leather jacket] , standing in [/EN#171041/scene a misty parking lot] .
+[/EN#171042/other A many] deciding if [/EN#0/notvisual he] should continue with [/EN#171040/other the fog] being so thick .
+[/EN#171038/people A man] wearing [/EN#171039/clothing a black leather jacket] standing in [/EN#171041/scene a road] .

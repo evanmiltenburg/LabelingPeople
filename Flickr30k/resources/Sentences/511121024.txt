@@ -1,0 +1,5 @@
+[/EN#229078/people A woman] wearing [/EN#229087/clothing a scarf] covering [/EN#229088/bodyparts her head] and [/EN#229089/clothing a long dress] shops for [/EN#229083/other vegetables] at [/EN#229081/scene an open air market] .
+[/EN#229077/people A man] is buying [/EN#229082/other fruits] and [/EN#229083/other vegetables] at [/EN#229081/scene an outdoor market] .
+[/EN#229077/people A man] is looking at [/EN#229083/other some produce] for [/EN#229085/other sale] on [/EN#229079/scene the street] .
+[/EN#229080/scene A stand] selling [/EN#229082/other fruits] and [/EN#229086/other vegetables] .
+[/EN#229078/people Arabic woman] buys [/EN#229082/other fruit] at [/EN#229081/scene the market] .

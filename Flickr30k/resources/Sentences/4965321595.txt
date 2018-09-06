@@ -1,0 +1,5 @@
+[/EN#223928/people Two people] in [/EN#223929/clothing dirty clothes] are walking in [/EN#223925/scene a parking lot] with [/EN#223927/clothing large backpacks] .
+[/EN#223921/people A man] and [/EN#223923/people a woman] , [/EN#223931/other each] carrying [/EN#223924/clothing a backpack] , are walking near [/EN#223925/scene the road] .
+[/EN#223921/people A man] and [/EN#223923/people woman] [/EN#0/notvisual both] wearing [/EN#223930/clothing hats] and carrying [/EN#223924/clothing backpacks] .
+[/EN#223921/people A man] and [/EN#223923/people a woman] with [/EN#223927/clothing backpacks] are outside .
+[/EN#223923/people A woman] and [/EN#223921/people man] are carrying [/EN#223927/clothing backpacks] .

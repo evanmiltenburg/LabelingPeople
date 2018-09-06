@@ -1,0 +1,5 @@
+[/EN#32586/animals A brown dog] is swimming and splashing in [/EN#32587/scene the water] .
+[/EN#32586/animals Brown dog] splashing into [/EN#32587/scene the water] .
+[/EN#32586/animals a dog] swimming through [/EN#32587/scene the water]
+[/EN#32586/animals a tan dog] swimming in [/EN#32587/scene some water]
+[/EN#32586/animals A dog] swims in [/EN#32587/scene the aqua water] .

@@ -1,0 +1,5 @@
+[/EN#204217/people A person] with [/EN#204221/other a gray hood] pulled over [/EN#204222/bodyparts his or her face] is reclining against [/EN#204219/other a ladder] .
+[/EN#204217/people A person] in [/EN#204218/clothing a white sweatshirt] sits on [/EN#204219/other a ladder] .
+[/EN#204217/people A person] in [/EN#204218/clothing a gray hoodie] sitting on [/EN#204219/other a latter] .
+[/EN#204216/scene A dark stage set] is under [/EN#204220/other construction] .
+[/EN#204216/scene A warehouse] under [/EN#204220/other construction] .

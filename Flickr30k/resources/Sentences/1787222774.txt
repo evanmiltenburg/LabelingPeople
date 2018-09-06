@@ -1,0 +1,5 @@
+[/EN#20445/people Two children] are riding in [/EN#20447/vehicles a red play vehicle] at [/EN#20446/scene a real gas station] .
+[/EN#20445/people two young children] riding in [/EN#20447/vehicles a toy car] at [/EN#20446/scene a real gas station]
+[/EN#20445/people Two children] in [/EN#20447/vehicles a toy car] , in front of [/EN#20446/scene a gas station] .
+[/EN#20445/people Two kids] in [/EN#20447/vehicles a toy car] at [/EN#20446/scene a gas station] .
+[/EN#20445/people Kids] ride outside in [/EN#20447/vehicles red car] .

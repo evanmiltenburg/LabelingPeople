@@ -1,0 +1,5 @@
+[/EN#52366/people A woman] wearing [/EN#52370/clothing sunglasses] sits on [/EN#52368/other a red bench] in front of [/EN#52369/scene a yellow building] .
+[/EN#52366/people A woman] is sitting and staring on [/EN#52368/other a red bench] near [/EN#52369/scene a building] .
+[/EN#52366/people The woman] in [/EN#52367/clothing the brown shirt] is sitting on [/EN#52368/other a bright red bench] .
+[/EN#52366/people A woman] in [/EN#52367/clothing a black shirt] sitting on [/EN#52368/other a red bench] .
+[/EN#52366/people Woman] in [/EN#52367/clothing a black shirt] sitting on [/EN#52368/other a red bench] .

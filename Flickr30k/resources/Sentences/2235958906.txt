@@ -1,0 +1,5 @@
+[/EN#36028/people A man] wearing [/EN#36030/clothing a long green coat] stands in front of [/EN#36029/vehicles a flower cart] holding [/EN#36033/other a purple flower arrangement] .
+[/EN#36028/people An older man] wearing [/EN#36030/clothing a winter coat] and [/EN#36034/clothing jeans] stands in front of [/EN#36029/vehicles a large , wheeled flower cart] .
+[/EN#36028/people An older man] in [/EN#36030/clothing a green jacket] is selling [/EN#36032/other flowers] on [/EN#36031/scene a street corner] .
+[/EN#36028/people A man] selling [/EN#36032/other beautiful flowers] from [/EN#36029/vehicles a cart] on [/EN#36031/scene a street corner] .
+[/EN#36028/people Sidewalk flower cart vendor] .

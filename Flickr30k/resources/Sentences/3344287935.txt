@@ -1,0 +1,5 @@
+[/EN#111262/people A number of people] wait at [/EN#111266/other a bus stop] looking towards [/EN#111270/other the sun] , low in [/EN#111269/scene the sky] .
+[/EN#111260/people A man] is sitting on [/EN#111263/other a bench] and smoking in front of [/EN#111268/people other people] .
+[/EN#111260/people A man] on [/EN#111263/other a bench] smoking and waiting for [/EN#111264/vehicles/scene the bus] to come .
+[/EN#111265/people Group of men] and [/EN#111261/people women] waiting for [/EN#111264/vehicles/scene a bus] .
+[/EN#111260/people Old man] smoking [/EN#111267/other cigarette] on [/EN#111263/other bench] .

@@ -1,0 +1,5 @@
+[/EN#29619/animals Two brown dogs] run across [/EN#29620/scene a large snowy yard] .
+[/EN#29619/animals Two brown dogs] are running through [/EN#29620/scene the snow] .
+[/EN#29619/animals two brown dogs] running through [/EN#29620/scene the snow] .
+[/EN#29619/animals Two dogs] race across [/EN#29620/scene a snowy field] .
+[/EN#29619/animals Two dogs] run through [/EN#29620/scene a snowy field] .

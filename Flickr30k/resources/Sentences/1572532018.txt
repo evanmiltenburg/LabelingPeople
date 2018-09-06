@@ -1,0 +1,5 @@
+[/EN#16705/people A little boy] in [/EN#16706/clothing red shorts] , [/EN#16707/people a boy] in [/EN#16708/clothing a black Speedo] , and [/EN#16709/people a boy] in [/EN#16710/clothing gray shorts] are all running on [/EN#16714/scene the beach] .
+[/EN#16711/people Two young boys] and [/EN#16705/people one young man] run on [/EN#16714/scene a beach] with [/EN#16712/scene water] behind [/EN#0/notvisual them] .
+[/EN#16705/people Three boys] are running on [/EN#16714/scene the beach] playing [/EN#16716/other a game] .
+[/EN#16713/people Three boys] play [/EN#16716/other tag] on [/EN#16714/scene the beach] .
+[/EN#16713/people children] playing at [/EN#16714/scene the beach]

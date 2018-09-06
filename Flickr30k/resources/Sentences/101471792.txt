@@ -1,0 +1,5 @@
+[/EN#466/people A man] with [/EN#467/clothing a red jacket] is shielding [/EN#0/notvisual himself] from [/EN#469/other the sun] trying to read [/EN#470/other a piece of paper] .
+[/EN#466/people a man] wearing [/EN#467/clothing a red coat] is outside with [/EN#471/bodyparts his hand] over [/EN#472/bodyparts his head] to block out [/EN#469/other the sun] .
+[/EN#466/people A man] in [/EN#467/clothing a red jacket] shades [/EN#469/other the sun] from [/EN#468/bodyparts his eyes] on [/EN#473/scene a busy street] .
+[/EN#466/people An elderly man] in [/EN#467/clothing a red jacket] shielding [/EN#468/bodyparts his face] from [/EN#469/other the sun] .
+[/EN#466/people Man] in [/EN#467/clothing red jacket] shielding [/EN#468/bodyparts face] from [/EN#469/other the sun] to read .

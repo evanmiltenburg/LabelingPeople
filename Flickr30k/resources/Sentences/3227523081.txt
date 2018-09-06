@@ -1,0 +1,5 @@
+[/EN#102669/people A man] wearing [/EN#102675/clothing a blue shirt] is on [/EN#102671/scene the bottom floor] facing [/EN#102677/other a motorcycle] while [/EN#102670/people a woman] wearing [/EN#110000/clothing black] with [/EN#102674/clothing a beige apron] is on [/EN#102671/scene the second floor] looking down .
+[/EN#102670/people A woman] stands at [/EN#102672/scene a balcony] and watched [/EN#102669/people the man] down below [/EN#102680/other sweeping] , [/EN#102683/other two motorcycles] are parked in [/EN#102682/other the shade] away from [/EN#102681/other the hot sun] .
+[/EN#102669/people A man] and [/EN#102670/people a woman] relaxing [/EN#102679/scene outside] and [/EN#102669/people the man] is also cleaning .
+[/EN#102669/people A man] , in [/EN#102676/clothing a hat] , under [/EN#102673/other a tree] , sweeping [/EN#0/notvisual the ground] .
+[/EN#102669/people A man] is sweeping [/EN#102678/scene the street] in front of [/EN#102673/other a tree] .

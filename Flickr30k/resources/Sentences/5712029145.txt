@@ -1,0 +1,5 @@
+[/EN#241452/people A passenger] wearing [/EN#241454/clothing a life jacket] prepares to take [/EN#241455/animals a picture of a whale] very close to [/EN#241453/vehicles/scene the boat] .
+[/EN#241452/people A little girl] wearing [/EN#241454/clothing a life jacket] in [/EN#241457/scene the ocean] watching [/EN#241455/animals a whale] beside [/EN#241453/vehicles/scene the boat] .
+[/EN#241452/people A woman] wearing [/EN#241454/clothing a life jacket] photographs [/EN#241455/animals a whale] at [/EN#241453/vehicles/scene the edge of her boat] .
+[/EN#241452/people A girl] taking [/EN#241456/animals a picture of a crocodile] coming up towards [/EN#0/notvisual her] on [/EN#241453/vehicles/scene a boat] .
+[/EN#241452/people A woman] is observing [/EN#0/notvisual what] appears to be [/EN#241455/animals a whale] in [/EN#241457/scene the ocean] .

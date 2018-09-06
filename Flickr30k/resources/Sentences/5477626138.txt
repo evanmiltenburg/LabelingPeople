@@ -1,0 +1,5 @@
+[/EN#237221/people A man] wearing [/EN#237230/other a tan button] down [/EN#237230/clothing shirt] and [/EN#237222/clothing black turban] is walking through [/EN#237225/scene a field] carrying [/EN#237226/other a gardening hoe] over [/EN#237227/bodyparts his shoulder] .
+Garbed in [/EN#237222/clothing a turban] , [/EN#237228/other a] bearded [/EN#237221/people Middle Eastern man] marches through [/EN#237225/scene a field] with [/EN#237226/other a shovel slung] over [/EN#237227/bodyparts his shoulders] .
+[/EN#237221/people An older man] in [/EN#237222/clothing a dark turban] is walking through [/EN#237223/scene a field] with [/EN#237226/other a tool] over [/EN#237227/bodyparts his shoulder] .
+[/EN#237221/people A man] is walking through [/EN#237225/scene a field] with [/EN#237226/other some kind of gardening tool] .
+[/EN#237221/people A man] walking on [/EN#237229/other a pathway] at [/EN#237223/scene a farm] .

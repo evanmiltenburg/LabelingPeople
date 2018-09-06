@@ -1,0 +1,5 @@
+[/EN#15535/people A man] in [/EN#15542/clothing a leather apron] [/EN#0/notvisual who] appears to be [/EN#15535/people a blacksmith] holds up [/EN#15538/other a glowing hot piece of iron] [/EN#0/notvisual which] [/EN#0/notvisual he] is working on with [/EN#15539/other the hammer] in [/EN#15540/bodyparts his right hand] , [/EN#15537/other the forge fire] conspicuous in [/EN#0/notvisual the background] .
+[/EN#15535/people A man] is holding [/EN#15539/other a hammer] in [/EN#15540/bodyparts one hand] and [/EN#15538/other piece of hot iron] .
+Graying [/EN#15535/people white man] with [/EN#15543/clothing glasses] , uses [/EN#15536/other blacksmith tools] .
+[/EN#15535/people A silversmith] working with [/EN#15538/other hot metal] .
+[/EN#15535/people a man] sculpts [/EN#15538/other a hot piece of metal] .

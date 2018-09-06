@@ -1,0 +1,5 @@
+[/EN#88784/animals A brown dog] runs in [/EN#88787/scene the grass] with [/EN#88785/scene a wooden fence] behind .
+[/EN#88784/animals a brown dog] jumping through [/EN#88787/scene the grass] .
+[/EN#88784/animals A brown dog] is running in [/EN#88786/scene a yard] .
+[/EN#88784/animals A dog] running in [/EN#88786/scene a fenced yard]
+[/EN#88784/animals Brown dog] running on [/EN#88787/scene grass] .

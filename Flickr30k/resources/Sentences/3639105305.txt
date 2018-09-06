@@ -1,0 +1,5 @@
+[/EN#133390/people A woman] and [/EN#133392/people a child] are sitting on [/EN#133395/other a log] and [/EN#133391/scene stone fence] with [/EN#133393/scene a waterfall] in [/EN#0/notvisual the background] .
+[/EN#133390/people A woman] is sitting with [/EN#133392/people a girl] on [/EN#133391/scene a fence] in front of [/EN#133393/scene a waterfall] .
+[/EN#133390/people A woman] and [/EN#133392/people a girl] sitting on [/EN#133391/scene a fence] in front of [/EN#133393/scene a waterfall]
+[/EN#133390/people A mother] and [/EN#133392/people daughter] pose in front of [/EN#133393/scene a waterfall] .
+[/EN#133390/people A woman] and [/EN#133392/people her daughter] in front of [/EN#133393/scene a waterfall]

@@ -1,0 +1,5 @@
+[/EN#211638/people A man] in [/EN#211645/clothing a white shirt] holding [/EN#211639/other a lit cigarette] and wearing [/EN#211641/clothing sunglasses] looks up towards [/EN#211642/scene the sky] next to [/EN#211640/people a woman] wearing [/EN#211643/other a black halter] with [/EN#211644/clothing a striped shirt] thrown over [/EN#211646/bodyparts her shoulder] .
+[/EN#211638/people A man] and [/EN#211640/people a woman] look at [/EN#211642/scene the sky] while [/EN#211638/people the man] smokes [/EN#211639/other a cigarette] .
+[/EN#211638/people A man] and [/EN#211640/people a woman] , [/EN#0/notvisual both] wearing [/EN#211641/clothing sunglasses] , look up into [/EN#211642/scene the sky] .
+[/EN#211638/people A man] and [/EN#211640/people a woman] look up while [/EN#211638/people the man] smokes [/EN#211639/other a cigarette] .
+[/EN#211638/people A man] and [/EN#211640/people women] wearing [/EN#211641/clothing sunglasses] are looking up .

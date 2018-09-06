@@ -1,0 +1,5 @@
+[/EN#27549/people A man] wearing [/EN#27551/clothing a white coat] and [/EN#27553/clothing apron] is grilling [/EN#27552/other sausages] .
+[/EN#27549/people A man] cooks [/EN#27552/other sausages] dressed in [/EN#27551/clothing typical chef clothing] .
+[/EN#27549/people A man] in [/EN#27551/clothing a white coat] is cooking [/EN#27552/other sausages] on [/EN#27550/other a grill] .
+[/EN#27549/people A smiling cook] is putting [/EN#27552/other sausages] on [/EN#27550/other the grill] .
+[/EN#27549/people The man] is cooking [/EN#27552/other sausages] on [/EN#27550/other a grill] .

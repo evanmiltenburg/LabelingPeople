@@ -1,0 +1,5 @@
+[/EN#218818/people A man] walking [/EN#218828/scene home] after [/EN#218829/other work] at [/EN#218819/scene the construction site] where [/EN#218825/people an engineer] had [/EN#218823/other a conversation] with [/EN#218827/people his friend] .
+[/EN#218818/people A man] carrying [/EN#218821/other many things] walking across [/EN#218820/scene a shadowy street] with [/EN#218826/other construction cones] .
+[/EN#218818/people A man] carrying [/EN#218821/other packages] is walking through [/EN#218820/scene a freshly paved parking lot] .
+[/EN#218822/other Construction work] on [/EN#218819/scene a road] in [/EN#218824/scene the downtown area] .
+[/EN#218818/people A person] is walking while carrying [/EN#218821/other two objects] .

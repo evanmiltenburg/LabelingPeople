@@ -1,0 +1,5 @@
+[/EN#283937/people A man] is slouched near [/EN#283942/other an ATM] while [/EN#283943/people another man] is withdrawing [/EN#283945/other money] from [/EN#283939/other a different ATM] .
+[/EN#283937/people a man] with [/EN#283946/clothing a brwon jacket] on [/EN#283947/bodyparts his shoulders] lying on [/EN#283948/scene the sidewalk] near [/EN#283941/other two ATM machines] .
+[/EN#0/notvisual There] is [/EN#283943/people a man] using [/EN#283939/other an ATM machine] , while [/EN#283937/people a man] sleeps on [/EN#0/notvisual the ground] next to [/EN#0/notvisual him] .
+[/EN#283937/people A man] sits in front of [/EN#283942/other an ATM machine] while [/EN#283943/people another man] uses [/EN#283940/other the machine] .
+[/EN#283937/people A man] is asleep on [/EN#0/notvisual the ground] near [/EN#283941/other two bank machines] .

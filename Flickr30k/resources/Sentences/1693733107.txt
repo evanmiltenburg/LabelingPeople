@@ -1,0 +1,5 @@
+[/EN#18900/people Two people] sit in [/EN#18903/scene handicapped seats] , [/EN#18910/other one] touching [/EN#18908/bodyparts her ear] while [/EN#18911/other the other] touches [/EN#0/notvisual her] [/EN#18906/bodyparts eyes] .
+[/EN#18900/people Two elderly people] sit in [/EN#18907/other handicapped chairs] on [/EN#18905/vehicles/scene a train] .
+[/EN#18900/people Two people] [/EN#0/notvisual who] look bored are sitting on [/EN#18904/vehicles/scene a train or bus] .
+[/EN#18901/people an elderly woman] scratching [/EN#18909/bodyparts her face] .
+[/EN#18902/people The passengers] on [/EN#18904/vehicles/scene the bus] are bored .

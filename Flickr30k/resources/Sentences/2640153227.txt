@@ -1,0 +1,5 @@
+[/EN#63253/people A young girl] with [/EN#63247/bodyparts blond-hair] and [/EN#63248/bodyparts blue eyes] is eating [/EN#63254/other a cookie] with [/EN#63249/bodyparts one hand] while holding [/EN#63250/other another cookie] in [/EN#63251/other the other] .
+[/EN#63253/people A little girl] with [/EN#63247/bodyparts blond-hair] and [/EN#63248/bodyparts blue eyes] is eating [/EN#63252/other cookies] .
+[/EN#63253/people Little girl] with [/EN#63248/bodyparts blue eyes] eating [/EN#63250/other cookies] .
+[/EN#63253/people Young girl] with [/EN#63248/bodyparts blue eyes] eating [/EN#63250/other a cookie] .
+[/EN#63253/people A little girl] eating [/EN#63252/other two cookies] .

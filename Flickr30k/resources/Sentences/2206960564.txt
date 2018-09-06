@@ -1,0 +1,5 @@
+[/EN#34162/animals A white puppy] is running on [/EN#34163/scene a tiled floor] .
+[/EN#34162/animals The white dog] ran across [/EN#34163/scene the tile floor] .
+[/EN#34162/animals A small puppy] rungs towards [/EN#0/notvisual the camera] .
+[/EN#34162/animals A beige puppy] walks across [/EN#34163/scene the floor] .
+[/EN#34162/animals puppy] running on [/EN#34163/scene the floor]

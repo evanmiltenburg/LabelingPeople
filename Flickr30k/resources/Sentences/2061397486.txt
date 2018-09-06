@@ -1,0 +1,5 @@
+[/EN#26421/animals A brown and black dog] is running along [/EN#26422/scene a grassy path] wearing [/EN#26423/clothing a red jacket] .
+[/EN#26424/clothing Brown] and [/EN#26421/animals black dog] with [/EN#26423/clothing red and white jacket] run on [/EN#26422/scene road] in [/EN#26427/scene rural area] .
+[/EN#26421/animals A black dog] with [/EN#26426/other brown markings] wearing [/EN#26423/clothing a red vest] trots down [/EN#26422/scene a path] .
+[/EN#26421/animals A dog] with [/EN#26425/other a reflective garmet] running down [/EN#26422/scene a rural road]
+[/EN#26421/animals Dog] with [/EN#26423/clothing a red cape] running on [/EN#26422/scene a dirt road] .

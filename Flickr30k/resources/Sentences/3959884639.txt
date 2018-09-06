@@ -1,0 +1,5 @@
+[/EN#149699/people A man] in [/EN#149700/clothing a blue t-shirt] is cutting [/EN#149701/other the food] , [/EN#149705/people a woman] is sitting and looking at [/EN#149709/other something] .
+[/EN#149699/people A man] in [/EN#149700/clothing a blue t-shirt] is cutting [/EN#149701/other a steak] in [/EN#149707/other half] with [/EN#149703/other a knife] and [/EN#149706/other fork] .
+[/EN#149699/people A man] is cutting [/EN#149701/other a sausage] into [/EN#149708/other smaller portions] at [/EN#149702/other a barbecue] .
+[/EN#149699/people A guy] is cutting [/EN#149710/scene steak outside] during [/EN#149704/other a picnic] .
+[/EN#149699/people A man] in [/EN#149700/clothing a blue shirt] is cutting up [/EN#149701/other his food] .

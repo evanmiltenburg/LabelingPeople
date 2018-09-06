@@ -1,0 +1,5 @@
+[/EN#27904/vehicles A damaged vehicle] is carried by [/EN#27902/vehicles a repair truck] in [/EN#27905/scene a nighttime scene] .
+[/EN#27902/vehicles A flat bed truck] in [/EN#27906/scene a parking lot] with [/EN#27904/vehicles an army vehicle] on [/EN#27903/other its bed] .
+[/EN#27904/vehicles Dirty SUV] sits on [/EN#27903/vehicles the bed of a tow truck] at [/EN#27907/scene night] .
+[/EN#27904/other A broken down hummer] gets towed on [/EN#27903/other a truck bed] .
+[/EN#27904/vehicles An old , beat-up jeep] being towed away .

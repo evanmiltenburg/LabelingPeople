@@ -1,0 +1,5 @@
+[/EN#218425/people A man] and [/EN#218428/people a woman] are walking in [/EN#218423/other the rain] , and [/EN#218425/people the man] is holding [/EN#218427/clothing an umbrella] over [/EN#0/notvisual both] [/EN#0/notvisual he] and [/EN#218428/people his female companion] .
+[/EN#218421/people Many people] walking down [/EN#218422/scene a busy street] holding [/EN#218424/clothing umbrellas] in [/EN#218423/other the rain] .
+[/EN#218421/people People] are walking down [/EN#218422/scene a sidewalk] in [/EN#218423/other the rain] with [/EN#218424/clothing umbrellas] .
+[/EN#218421/people People] with [/EN#218424/clothing umbrellas] walking [/EN#218430/scene past shops] in [/EN#218423/other the rain] .
+[/EN#218421/people People] walking in [/EN#218423/other the rain] .

@@ -1,0 +1,5 @@
+[/EN#170001/vehicles Several red bicycles] stand locked up on [/EN#170003/scene a street] in [/EN#170001/other a straight line]
+[/EN#170001/vehicles A row of red bicycles] are parked on [/EN#170003/scene the street] .
+[/EN#170004/people A small child] is running down [/EN#170003/scene the street] .
+[/EN#170005/people People] run [/EN#170001/vehicles past rows of red bikes] .
+[/EN#170001/vehicles A row of the same red bikes] .

@@ -1,0 +1,5 @@
+[/EN#88841/people A student] in [/EN#88843/clothing a black shirt] is intently taking [/EN#88844/other notes] in [/EN#88847/people class] .
+[/EN#88841/people A blond girl] in [/EN#88843/clothing a black shirt] is writing [/EN#88849/other something] .
+[/EN#88841/people A girl] sitting at [/EN#88845/other a desk] writing in [/EN#88844/other a notebook] .
+[/EN#0/notvisual these] are [/EN#88842/people four students] , [/EN#88841/other one] is writing .
+[/EN#88842/people Female students] are taking [/EN#88844/other an exam] .

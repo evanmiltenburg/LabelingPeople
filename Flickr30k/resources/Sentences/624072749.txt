@@ -1,0 +1,5 @@
+[/EN#250871/people A person] places [/EN#250873/other uncooked hamburger patties] on [/EN#250872/other a charcoal grill] .
+[/EN#250871/people A person] wearing [/EN#250874/clothing a red shirt] is cooking on [/EN#250872/other a grill] .
+[/EN#250871/people A person] setting [/EN#250873/other beef patties] on [/EN#250872/other a grill] .
+[/EN#250871/people A man] adjusts [/EN#250873/other beef patties] on [/EN#250872/other a grill] .
+[/EN#250871/people Someone] putting [/EN#250873/other food] on [/EN#250872/other a grill] .

@@ -1,0 +1,5 @@
+[/EN#123969/people A boy] in [/EN#123974/clothing a striped shirt] and [/EN#123970/people a little girl] in [/EN#123971/clothing a blue dress] walk [/EN#123975/bodyparts hand] in [/EN#123973/bodyparts hand] down [/EN#123972/scene the train track] .
+[/EN#123970/people The little girl] in [/EN#123971/clothing the blue dress] is walking with [/EN#123969/people a man] along [/EN#123972/scene a railway track] .
+[/EN#123970/people Little girl] and [/EN#123969/people older male] , holding [/EN#123973/bodyparts hands] and walking on [/EN#123972/scene train tracks] .
+[/EN#123969/people A boy] and [/EN#123970/people girl] hold [/EN#123973/bodyparts hands] as [/EN#0/notvisual they] walk on [/EN#123972/scene railroad tracks] .
+[/EN#123969/people a boy] and [/EN#123970/people girl] hold [/EN#123973/bodyparts hands] walking down [/EN#123972/scene a railroad track]

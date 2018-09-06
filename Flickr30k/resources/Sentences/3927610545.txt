@@ -1,0 +1,5 @@
+[/EN#148410/people A tennis player] in [/EN#148413/clothing a white tank top] and [/EN#148414/clothing blue shorts] hits [/EN#148411/other a tennis ball] .
+[/EN#148410/people Young man] in [/EN#148413/clothing white tank top shirt] , [/EN#148414/clothing long blue shorts] , playing [/EN#148412/other tennis] .
+[/EN#148410/people A person] in [/EN#148415/clothing a white shirt dark blue] shorts playing [/EN#148412/other tennis] .
+[/EN#148410/people A man] in [/EN#148413/clothing a white short] and [/EN#148414/clothing shorts] hits [/EN#148411/other a tennis ball] .
+[/EN#148410/people a man] playing [/EN#148412/other tennis] in [/EN#148416/scene a tennis court]

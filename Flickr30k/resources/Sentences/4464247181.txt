@@ -1,0 +1,5 @@
+[/EN#170626/people A woman] sitting on [/EN#170629/other a bench] next to [/EN#170628/people someone] wearing [/EN#170634/clothing a hat] and sitting in [/EN#170631/other a wheelchair] .
+[/EN#170628/people An elderly person] in [/EN#170631/other a wheelchair] next to [/EN#170626/people a girl] sitting on [/EN#170629/other a bench] .
+[/EN#170626/people A woman] is sitting on [/EN#170629/other a bench] next to [/EN#170628/people a person] in [/EN#170631/other a wheelchair] .
+[/EN#170626/people A woman] puts [/EN#170635/bodyparts/people her arm] on [/EN#170628/people a person] sitting in [/EN#170631/other a wheelchair] .
+[/EN#170626/people Lady] out with [/EN#170628/people a elder person] in [/EN#170631/other wheelchair] , in [/EN#170633/other the sun] .

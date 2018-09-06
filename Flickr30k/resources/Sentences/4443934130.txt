@@ -1,0 +1,5 @@
+[/EN#168772/people A man] on [/EN#168773/vehicles a bicycle] wearing [/EN#168776/clothing an orange] and [/EN#168775/clothing black sweatshirt] is carrying [/EN#168774/other a long bunch of sticks] .
+[/EN#168772/people A man] in [/EN#168775/clothing a sweatshirt] and [/EN#168778/clothing jeans] is riding [/EN#168773/vehicles a bicycle] holding [/EN#168774/other some long thin planks of wood]
+[/EN#168772/people A man] [/EN#168777/other in] rides [/EN#168773/vehicles bicycle] carrying [/EN#168774/other pipes] in [/EN#168779/bodyparts his hand] .
+[/EN#168772/people A man] is riding [/EN#168773/vehicles a bicycle] while holding [/EN#168774/other lumber] .
+[/EN#168772/people A person] riding [/EN#168773/vehicles a bike] and carrying [/EN#168774/other lumber] .

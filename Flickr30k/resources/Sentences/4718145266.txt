@@ -1,0 +1,5 @@
+[/EN#194828/people A group of people] stand around [/EN#194829/other a table of food] while [/EN#194833/people two people] serve [/EN#0/notvisual themselves] .
+[/EN#194828/people Multiple people] are at [/EN#194832/scene a street fair] and [/EN#0/notvisual they] are stopping to look at [/EN#194829/other food]
+[/EN#194828/people A group of people] on [/EN#194831/scene a street] looking at [/EN#194829/other a catered assortment of food] .
+[/EN#194828/people People] gathered around [/EN#194829/other a table of food] at [/EN#194830/people an outdoors gathering] .
+[/EN#194828/people A group of people] surrounding [/EN#194829/other a food station]

@@ -1,0 +1,5 @@
+[/EN#282015/people A man] in [/EN#282020/clothing overalls] , [/EN#282016/clothing a hat] , and [/EN#282022/clothing gloves] holds on to [/EN#282023/other the handlebars of a large machine] .
+[/EN#282015/people A conductor] in [/EN#282020/clothing overalls] and [/EN#282016/clothing a blue hat] stands outside [/EN#282017/other a car of a locomotive] .
+[/EN#282015/people A train conductor] in [/EN#282020/other coveralls] is standing in [/EN#282019/scene the door of the trail] .
+[/EN#282015/people A white man] wearing [/EN#282020/clothing jeans] standing between [/EN#282017/vehicles/scene cars of a train] .
+[/EN#282015/people A man] wearing [/EN#282020/clothing overalls] is standing on [/EN#282018/vehicles/scene a train] .

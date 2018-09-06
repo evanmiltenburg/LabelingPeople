@@ -1,0 +1,5 @@
+[/EN#252249/people A woman] is taking [/EN#252261/other a picture of her food] while eating while [/EN#252250/people the man] next to [/EN#0/notvisual her] eats while looking at [/EN#252250/people a man] reading [/EN#252252/other a book] .
+[/EN#252249/people A woman] is looking at [/EN#252253/other her camera] , [/EN#252250/people a man] is eating , and [/EN#252250/people another man] is reading .
+[/EN#252254/people people] are eating at [/EN#252260/scene a restaurant] , [/EN#252255/other some] are eating while [/EN#252256/other others] are ordering .
+[/EN#252257/people Two men] and [/EN#252249/people a woman] eating [/EN#252259/other food] at [/EN#252258/other a table] in [/EN#252260/scene a restaurant] .
+[/EN#252254/people Three people] sit at [/EN#252258/other a table] and eat [/EN#252259/other dinner] .

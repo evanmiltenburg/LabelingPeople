@@ -1,0 +1,5 @@
+[/EN#111010/people A hockey player] in [/EN#111013/clothing a black and white uniform] guarding [/EN#111009/other the goal] .
+[/EN#111010/people The ice hockey goal keeper] is dressed in [/EN#111013/other a red strip] .
+[/EN#111009/other A goal] defending [/EN#111009/other the goal] in [/EN#111012/other a hockey game] .
+[/EN#111010/people A hockey goalie] ready for [/EN#111014/other the puck] .
+[/EN#111010/people A person] guarding [/EN#111009/other a hockey goal] .

@@ -1,0 +1,5 @@
+[/EN#110122/people A man] in [/EN#110125/clothing a white shirt] is handling [/EN#110124/other long loaves of bread] in [/EN#110123/scene a cluttered restaurant kitchen] .
+[/EN#110122/people A man] with [/EN#110127/bodyparts dark hair] and [/EN#110125/clothing a white t-shirt] is baking [/EN#110124/other bread] in [/EN#110123/scene a bakery] setting .
+[/EN#110122/people A worker] wearing [/EN#110125/clothing a white shirt] is moving [/EN#110124/other a platter of rolls] in [/EN#110123/scene a bakery] .
+[/EN#110122/people A man] wearing [/EN#110125/clothing a white shirt] holding [/EN#110124/other a rack of edibles] .
+[/EN#110122/people/scene A baker] pulling out [/EN#110124/other loaves of french bread] .

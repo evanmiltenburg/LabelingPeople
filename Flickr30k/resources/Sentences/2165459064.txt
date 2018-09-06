@@ -1,0 +1,5 @@
+[/EN#31857/animals Two white dogs] with [/EN#31859/bodyparts cutoff tails] running in [/EN#31858/scene green grass] .
+[/EN#31857/animals Two white dogs] are running through [/EN#31858/scene the grass] .
+[/EN#31857/animals Two white dogs] are running on [/EN#31858/scene the grass] .
+[/EN#31857/animals two white dogs] running through [/EN#31858/scene the grass]
+[/EN#31857/animals Two white dogs] running in [/EN#31858/scene a field]

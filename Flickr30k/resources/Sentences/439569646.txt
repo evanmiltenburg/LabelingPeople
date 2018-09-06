@@ -1,0 +1,5 @@
+[/EN#166142/people A little girl] with [/EN#166146/clothing a red dress] facing [/EN#166147/other a panel] with [/EN#166142/other her back] to [/EN#0/notvisual the camera] .
+[/EN#166142/people A girl] is hiding behind [/EN#166144/other a painted wooden structure] inside [/EN#166143/scene a building] .
+[/EN#166142/people A young girl] faces [/EN#166144/other a white and black wall] in [/EN#166143/scene a red-carpeted room] .
+[/EN#166142/people A young blond girl] wearing [/EN#166146/clothing a red dress] kneeling on [/EN#166145/other a red carpet] .
+[/EN#166142/people Girl] kneeling on [/EN#166145/other a red carpet] .

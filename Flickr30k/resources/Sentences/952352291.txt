@@ -1,0 +1,5 @@
+[/EN#284035/people A blond man] with [/EN#284039/bodyparts a ponytail] and [/EN#284038/clothing straw hat] is walking on [/EN#284037/scene a busy road] in [/EN#284040/scene a city] , passing by [/EN#284046/other some plants] for [/EN#284045/other sale] .
+[/EN#284035/people A man] with [/EN#284039/bodyparts a ponytail] wearing [/EN#284038/clothing a hat] walking down [/EN#284037/scene the street] carrying [/EN#284036/clothing a plastic bag] .
+[/EN#0/notvisual He] is coming from [/EN#284042/scene the market] with [/EN#284036/clothing a bag] full of [/EN#284044/other fruits] .
+[/EN#284035/people Woman] at [/EN#284043/scene a plant nursery] in [/EN#284041/clothing a coat] and [/EN#284038/clothing straw hat] .
+[/EN#284035/people A man] in [/EN#284038/clothing a hat] is walking in [/EN#284037/scene a parking lot] .

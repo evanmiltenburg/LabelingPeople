@@ -1,0 +1,5 @@
+[/EN#218614/vehicles A bright yellow taxi] passes through [/EN#218615/scene a busy street] in [/EN#218619/scene a crowded neighborhood] .
+[/EN#218615/scene A busy downtown New York City] with [/EN#218614/vehicles a taxi] in [/EN#0/notvisual the foreground] .
+[/EN#218617/scene A shot of a street scene] in [/EN#218616/scene New York City] .
+[/EN#218615/scene A busy street] in [/EN#218616/scene New York City] .
+[/EN#218614/clothing A yellow] can in [/EN#218616/scene New York City] .

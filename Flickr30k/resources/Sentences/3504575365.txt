@@ -1,0 +1,5 @@
+[/EN#123385/people A man] , wearing [/EN#123389/clothing a striped shirt] , is sitting at [/EN#123387/other a glass table] , working on [/EN#123386/other a Toshiba laptop] .
+While sitting at [/EN#123387/other the table] [/EN#123385/people this man] uses [/EN#123386/other a computer] .
+[/EN#123385/people A man] seated in [/EN#123388/scene a kitchen] types on [/EN#123386/other a laptop] .
+[/EN#123385/people A man] is using [/EN#123386/other his computer] in [/EN#123388/scene a kitchen] .
+[/EN#123385/people A male] with [/EN#123390/clothing glasses] is using [/EN#123386/other his laptop] .

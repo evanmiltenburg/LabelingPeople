@@ -1,0 +1,5 @@
+[/EN#81421/clothing Gray] , [/EN#81418/animals dappled dog] with [/EN#81423/clothing muzzle] and [/EN#81420/clothing yellow shirt] marked [/EN#81417/other 6] , runs on [/EN#81419/scene track] .
+[/EN#81418/animals A greyhound dog] running in [/EN#81422/other a race] with [/EN#81417/other identifier number six] .
+[/EN#81418/animals Greyhound dog] in [/EN#81420/clothing yellow jersey] and running on [/EN#81419/scene a dirt track] .
+[/EN#81418/animals A racing dog] wearing [/EN#81420/clothing a yellow jersey] with [/EN#81417/other number six] .
+[/EN#81418/animals A running greyhound]

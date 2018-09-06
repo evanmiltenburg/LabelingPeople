@@ -1,0 +1,5 @@
+[/EN#77140/animals A dog] with [/EN#77141/other a branch] in [/EN#77142/bodyparts its mouth] .
+[/EN#77140/animals A dog] is chewing on [/EN#77141/other a big branch] .
+[/EN#77140/animals A little dog] chews on [/EN#77141/other a big stick]
+[/EN#77140/animals Small dog] chews on [/EN#77141/other a big stick] .
+[/EN#77140/animals a dog] shews on [/EN#77141/other a big stick] .

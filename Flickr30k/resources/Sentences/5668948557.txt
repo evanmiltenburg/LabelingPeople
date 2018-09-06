@@ -1,0 +1,5 @@
+[/EN#240610/people Two fisherman] on [/EN#240607/vehicles/scene a boat] on [/EN#240612/scene the water] preparing for [/EN#240608/other a long day of fishing] .
+[/EN#240614/vehicles A small vessel] with [/EN#240615/animals fish] capturing [/EN#240611/other devices] is sailing on [/EN#240612/scene the sea] .
+[/EN#240610/people Two men] in [/EN#240607/other the ship] " Amble " are setting out loaded with [/EN#240611/other traps] .
+[/EN#240609/scene Just an ordinary day] on [/EN#240607/vehicles/scene the lobster boat] !
+[/EN#240607/vehicles/scene A fishing boat] is in [/EN#240612/scene the water] .

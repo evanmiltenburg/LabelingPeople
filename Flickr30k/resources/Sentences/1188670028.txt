@@ -1,0 +1,5 @@
+[/EN#4853/people A man] in [/EN#4854/clothing a blue tee-shirt] , wearing [/EN#4855/clothing a cap] , is riding [/EN#4856/animals a white horse] down [/EN#4857/scene a dirt road] , in [/EN#4859/scene a rural setting of grass] and [/EN#4858/scene hills] .
+[/EN#4853/people A man] wearing [/EN#4855/clothing a ball cap] and [/EN#4854/clothing a blue T-shirt] rides [/EN#4856/animals a white horse] down [/EN#4857/scene a dirt road] through [/EN#4860/other lush , green nature] .
+[/EN#4853/people A boy] wearing [/EN#4854/clothing a blue shirt] riding [/EN#4856/animals a gray horse] on [/EN#4857/scene a gravel path] through [/EN#4858/scene the green overgrown field] .
+[/EN#4853/people A person] wearing [/EN#4854/clothing a blue shirt] , rides [/EN#4856/animals a white horse] along [/EN#4857/scene a dusty country road] .
+[/EN#4853/people A person] is riding on [/EN#4856/animals a horse] along [/EN#4857/scene a sandy trail] in [/EN#4859/scene a grassy region] .

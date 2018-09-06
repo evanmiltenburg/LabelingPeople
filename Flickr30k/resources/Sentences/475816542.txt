@@ -1,0 +1,5 @@
+[/EN#199581/animals A large black dog] and [/EN#199583/animals a large yellow dog] appear to be playing with [/EN#199582/other a soccer ball] .
+[/EN#199581/animals The black dog] is by [/EN#199582/other a soccer ball] and [/EN#199583/animals the brown dog] is running .
+[/EN#199580/clothing A black] and [/EN#199583/animals a brown dog] are running toward [/EN#0/notvisual the camera] .
+[/EN#199581/animals A black dog] and [/EN#199583/animals a brown dog] with [/EN#199582/other a ball] .
+[/EN#199580/clothing A black] and [/EN#199583/animals a yellow dog]

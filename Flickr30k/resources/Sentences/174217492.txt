@@ -1,0 +1,5 @@
+[/EN#19792/people A man] with [/EN#19793/clothing a blue and yellow bowler hat] on is speaking into [/EN#19795/other a headset microphone] , while holding [/EN#19794/other a rope] .
+[/EN#19792/people A white male entertainer] on [/EN#19799/scene the street] wearing [/EN#19797/clothing a black shirt] and [/EN#19793/clothing blue hat] with [/EN#19798/other a yellow stripe] .
+[/EN#19792/people A man] wearing [/EN#19795/other a microphone] and [/EN#19793/clothing a blue and yellow hat] , has [/EN#19794/other something] green in [/EN#19800/bodyparts his hand] .
+[/EN#19792/people A man] with [/EN#19793/clothing a bowler hat] and [/EN#19795/clothing a microphone headset] fiddling with [/EN#19794/other green linear objects] .
+[/EN#19792/people A man] with [/EN#19793/clothing a hat] and [/EN#19795/clothing headset] holding [/EN#19794/other a green rope] .

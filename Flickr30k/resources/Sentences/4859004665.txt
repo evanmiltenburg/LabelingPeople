@@ -1,0 +1,5 @@
+[/EN#211857/people Two people] ride [/EN#211861/vehicles their bikes] down [/EN#211858/scene the street] with [/EN#211865/people a person] standing on near [/EN#0/notvisual them] on [/EN#211859/scene the sidewalk] .
+[/EN#211862/people A man] is on [/EN#211864/other a casual bike ride] during [/EN#211860/scene the day] into [/EN#211866/scene town] .
+[/EN#211863/other This photograph] depicts [/EN#211857/people two cyclists] on [/EN#211858/scene a city street] .
+[/EN#211857/people Two men] ride [/EN#211861/vehicles bikes] down [/EN#211858/scene the street] on [/EN#211860/scene a sunny day] .
+[/EN#211857/people A couple of guys] ride [/EN#211861/vehicles their bikes] in [/EN#211859/scene the street] .

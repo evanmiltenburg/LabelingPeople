@@ -1,0 +1,5 @@
+[/EN#10024/people A black person] in [/EN#10025/clothing a white shirt] and [/EN#10026/clothing headscarf] is plowing [/EN#10034/scene a field] behind [/EN#10027/animals two yoked cattle] , [/EN#10028/clothing one tan] and [/EN#10029/clothing one dark brown] , with [/EN#10030/instruments blue-painted horns] .
+[/EN#10027/animals two animals] yoked together pulling [/EN#10031/other a plow] , with [/EN#10024/people a man] behind [/EN#0/notvisual them] .
+[/EN#10024/people A black person] tends to [/EN#10034/scene the farmland] with [/EN#10027/animals animals] to sow [/EN#10035/other seeds] .
+[/EN#10024/people A man] in [/EN#10025/clothing a white shirt] is plowing [/EN#10034/scene a field] with [/EN#10027/animals two mules] .
+[/EN#10024/people A person] is riding [/EN#10031/other a plow] pulled by [/EN#10027/other two oxen] .
