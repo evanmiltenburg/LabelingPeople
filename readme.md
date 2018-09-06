@@ -25,3 +25,7 @@ for other versions of Python or the NLTK, but this is untested.
 
 * Python 3.6.3
 * nltk 3.2.2
+
+## TODO
+
+Explain how to use the code. (Before camera-ready deadline: October 1 2018)
