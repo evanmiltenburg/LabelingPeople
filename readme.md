@@ -3,12 +3,21 @@
 This repository contains code and data for the following paper:
 
 ```
-@unpublished{miltenburg2018talking,
-	Author = {Emiel van Miltenburg and Desmond Elliott and Piek Vossen},
-	Note = {Accepted for publication at INLG 2018},
-	Title = {Talking about other people: an endless range of possibilities},
-	Year = {2018}}
+@InProceedings{W18-6550,
+  author = 	"van Miltenburg, Emiel
+		and Elliott, Desmond
+		and Vossen, Piek",
+  title = 	"Talking about other people: an endless range of possibilities",
+  booktitle = 	"Proceedings of the 11th International Conference on Natural Language Generation",
+  year = 	"2018",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"415--420",
+  location = 	"Tilburg University, The Netherlands",
+  url = 	"http://aclweb.org/anthology/W18-6550"
+}
 ```
+
+The exact code and data for this paper ([this commit](https://github.com/evanmiltenburg/LabelingPeople/commit/37e4cb653c06227a96aaffbf4d3e47064540cbfa)) is captured as a [release](https://github.com/evanmiltenburg/LabelingPeople/releases).
 
 ## Folder structure
 
