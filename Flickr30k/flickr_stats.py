@@ -20,7 +20,7 @@ def normalize_label(label):
     label = label.lower().replace(' , ',' ').replace(' + ', ' ')
     label = label.replace('(','').replace(')','')
     label = label.replace(' & ', ' ').replace('  ', ' ')
-    return label
+    return label.strip()
 
 def all_labels():
     "Get number of labels."
